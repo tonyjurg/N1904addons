@@ -1,0 +1,192 @@
+@node
+@author=Morpheus (perseids-tools)
+@convertedBy=Tony Jurg
+@coreData=Nestle 1904 Text-Fabric (centerBLC)
+@coreDataUrl=https://github.com/CenterBLC/N1904
+@description=Morpheus analytic block 18 gramatical gender
+@license=MIT License
+@licenseUrl=https://mit-license.org/
+@provenance=jupyter Notebook (https://github.com/tonyjurg/create_TF_feature_betacode)
+@valueType=str
+@version=1.0.0
+@website=https://github.com/tonyjurg/N1904addon
+@writtenBy=Text-Fabric
+@dateWritten=2025-05-19T22:07:27+00:00Z
+
+1043	
+1446	masc
+1647	masc
+1961	
+2930	
+3096	
+3458	
+3943	masc
+4091	masc
+4516	
+4537	
+6814	
+8400	masc
+9305	masc
+10293	
+10935	masc
+11121	
+11304	
+11322	
+11994	
+12575	
+13680	
+14204	
+14280	
+15525	
+16185	
+19409	
+19430	
+19666	masc
+20572	
+20661	masc
+20773	masc
+21104	masc
+21453	
+22252	masc
+23244	masc
+23703	
+24496	
+24553	masc
+24735	
+24880	
+24905	
+24922	
+25434	
+26062	
+26821	
+26897	
+27604	
+27825	
+29163	
+29650	neut
+29917	
+30145	
+31768	
+32952	
+33524	
+33678	
+33701	
+33711	
+35548	
+35966	masc
+36632	
+36728	
+37112	
+37632	
+37716	
+39101	
+40057	
+40076	
+40162	
+40943	
+41541	masc/fem
+42658	
+42922	
+43868	
+43984	
+44000	
+44429	
+44475	
+44695	
+44807	
+45197	
+45411	neut
+45855	
+46274	
+46396	
+46705	
+46880	
+48007	
+48146	
+48507	neut
+49434	masc
+50353	
+50398	
+50756	masc
+52700	masc
+52947	masc
+53024	masc
+53099	masc
+54056	
+54802	
+57225	masc
+61923	masc
+64201	
+64778	
+66087	
+68218	
+68450	neut
+69902	neut
+70246	masc
+71230	
+71729	
+74013	
+74971	masc
+76126	masc
+77898	
+78139	neut
+79225	
+82086	
+82784	
+82910	
+83054	
+85845	
+85867	
+88457	
+89824	
+89866	
+89880	
+90463	
+91386	
+91566	
+91751	
+91980	
+92005	
+93238	masc/fem
+96146	
+96526	
+97591	
+98435	
+99796	
+100590	
+100697	
+102326	neut
+103292	
+103367	
+104357	
+105102	
+106469	
+107209	
+107956	
+108059	
+108507	masc
+108724	
+108780	
+109188	
+109618	
+109730	
+109819	neut
+114122	
+114372	
+114534	
+115048	
+115307	
+119979	
+121359	
+121654	masc
+122689	
+123989	
+124283	neut
+128076	
+130073	
+131225	
+133606	
+135024	
+135143	
+135165	
+136158	

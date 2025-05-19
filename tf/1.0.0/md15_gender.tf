@@ -1,0 +1,433 @@
+@node
+@author=Morpheus (perseids-tools)
+@convertedBy=Tony Jurg
+@coreData=Nestle 1904 Text-Fabric (centerBLC)
+@coreDataUrl=https://github.com/CenterBLC/N1904
+@description=Morpheus analytic block 15 gramatical gender
+@license=MIT License
+@licenseUrl=https://mit-license.org/
+@provenance=jupyter Notebook (https://github.com/tonyjurg/create_TF_feature_betacode)
+@valueType=str
+@version=1.0.0
+@website=https://github.com/tonyjurg/N1904addon
+@writtenBy=Text-Fabric
+@dateWritten=2025-05-19T22:07:27+00:00Z
+
+574	masc/fem
+914	
+1043	masc
+1446	masc
+1484	
+1647	masc
+1683	
+1743	
+1961	
+2678	
+2930	
+3096	
+3221	masc/neut
+3458	
+3943	masc
+4091	masc
+4516	
+4537	
+4976	
+5405	masc/fem
+5425	masc/fem
+5775	
+6042	masc/fem
+6451	
+6480	
+6516	
+6814	masc
+7405	
+7512	
+7544	
+7593	
+7797	
+7828	
+7852	
+8400	masc
+9008	
+9305	masc
+9498	masc/fem
+10293	
+10705	
+10876	masc/fem
+10935	masc
+11121	
+11163	
+11304	
+11322	
+11446	
+11994	masc
+12424	masc/fem
+12431	masc/fem
+12433	
+12575	
+12793	
+12857	
+13680	
+14204	masc
+14278	
+14280	
+14982	
+15525	
+15925	masc/fem
+16185	masc
+17457	
+18537	
+19409	
+19430	
+19666	masc
+19892	
+19900	
+20512	
+20572	
+20661	masc
+20773	masc
+21104	masc
+21453	
+22252	masc
+23244	masc
+23703	
+24496	
+24553	masc
+24724	
+24735	
+24880	
+24905	
+24922	
+25434	masc
+25576	
+25912	
+26062	
+26539	masc
+26557	masc
+26821	masc
+26895	
+26897	
+27145	
+27604	
+27825	masc
+28853	
+28892	
+29163	
+29482	
+29650	
+29917	neut
+30145	
+31540	masc/fem
+31768	masc
+32952	
+33524	masc
+33678	
+33701	
+33711	
+34081	
+35548	
+35966	masc
+36632	
+36728	masc
+37112	
+37632	
+37716	
+37912	
+37952	
+38588	
+38832	
+38853	
+38897	
+39101	masc
+39858	
+40057	
+40076	
+40162	fem
+40903	
+40943	
+41300	
+41541	masc
+42134	
+42658	
+42713	
+42922	masc/neut
+43295	
+43305	
+43319	
+43857	
+43868	
+43984	
+44000	
+44414	
+44429	
+44475	
+44609	masc/fem
+44695	masc
+44803	
+44807	masc
+45053	masc/fem
+45092	
+45197	
+45411	
+45853	
+45855	
+46168	
+46274	masc
+46396	
+46522	
+46696	masc/fem
+46705	
+46880	masc
+48007	
+48146	
+48507	
+48921	
+49434	masc
+49481	masc/fem
+49514	masc/fem
+49546	masc/fem
+50353	
+50398	
+50756	masc
+52151	masc/fem
+52700	masc
+52947	masc
+53024	masc
+53099	masc
+53471	masc/fem
+53653	masc/fem
+53686	masc/fem
+53695	masc/fem
+54056	
+54802	masc
+55273	masc/fem
+56821	masc/fem
+57027	masc/fem
+57033	masc/fem
+57207	masc/fem
+57225	masc
+58644	
+58753	masc/fem
+60022	masc/fem
+60106	masc/fem
+60131	masc/fem
+60382	masc/fem
+60419	masc/fem
+60493	masc/fem
+60620	
+61607	masc/fem
+61746	masc/fem
+61791	masc/fem
+61808	masc/fem
+61912	masc/fem
+61923	masc
+62566	
+62582	
+62599	
+63430	
+63787	masc/fem
+63789	
+63919	masc/fem
+64201	fem
+64778	
+66087	neut
+67343	fem
+67463	
+68218	
+68450	
+68524	fem
+69785	masc
+69860	
+69902	
+70246	
+71230	neut
+71281	
+71729	
+71970	
+72345	
+74013	
+74240	
+74971	
+75962	
+76126	masc
+76690	
+77125	
+77134	
+77205	neut
+77360	
+77750	
+77898	
+77977	
+78139	masc
+78807	
+79026	masc
+79152	masc/fem
+79225	
+79245	masc/fem
+79535	masc
+79795	
+80636	
+81937	fem
+82086	
+82784	neut
+82910	
+83054	
+83558	
+83823	
+84099	
+84173	masc/fem
+84226	masc
+85238	
+85845	
+85867	
+85939	fem
+86363	
+87724	masc/fem
+88216	
+88280	
+88457	
+88703	masc
+89089	
+89824	
+89866	
+89880	
+90370	
+90463	
+90697	masc/fem
+90943	
+90950	
+91010	
+91386	masc
+91444	fem
+91566	
+91620	
+91751	
+91892	
+91980	
+92005	
+92064	
+92326	masc/fem
+92874	fem
+92876	masc/fem
+93238	masc
+93256	
+93260	
+93716	fem
+94003	masc/fem
+94022	masc/fem
+94605	fem
+95459	
+95622	
+96146	
+96526	
+96807	masc/fem
+96830	
+97211	neut
+97580	
+97591	
+97620	masc/fem
+98435	
+98962	masc/fem
+99796	
+100573	masc/fem
+100590	
+100599	masc/fem
+100646	masc/fem
+100649	masc/fem
+100652	masc/fem
+100656	masc/fem
+100697	neut
+100905	
+101178	masc/fem
+101928	
+102077	
+102326	masc
+102769	
+102816	masc/fem
+103292	
+103367	
+103548	
+103627	masc/fem
+103920	masc/fem
+104148	
+104357	
+105102	
+105615	masc
+106469	
+106875	masc/fem
+107002	masc/fem
+107209	
+107436	
+107474	
+107956	
+108059	
+108158	
+108507	masc
+108631	
+108724	
+108780	
+109188	
+109618	masc
+109730	
+109819	masc
+109976	masc/fem
+110304	masc
+111165	
+111278	
+111373	
+112079	
+112939	
+113958	
+114122	
+114372	
+114534	
+115043	fem
+115048	masc
+115307	
+117733	masc/fem
+118344	
+119363	
+119463	
+119979	
+121056	masc/fem
+121067	masc/fem
+121334	
+121347	
+121359	
+121654	
+121716	
+122208	
+122689	
+123052	
+123066	masc
+123278	
+123989	
+124283	masc
+125769	
+126386	masc
+126582	masc
+127282	masc
+127324	masc
+127416	masc
+128076	
+128535	masc/fem
+129016	masc/fem
+129281	masc/fem
+129296	fem
+129540	masc/fem
+130073	
+131225	neut
+131288	fem
+132473	
+132841	
+132950	
+133479	
+133606	
+134467	
+134885	
+135024	
+135062	
+135143	
+135165	
+135744	fem
+136158	neut
