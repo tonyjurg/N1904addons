@@ -5,7 +5,12 @@
 
 This repository offers a set of features built specifically for use with the [N1904 Text-Fabric dataset](https://CenterBLC.github.io/N1904/). Text-Fabric is a powerful platform for analyzing biblical texts with linguistic and structural detail.
 
-Go to the [documentation section](docs/README.md) or the [GitHub pages site](https://tonyjurg.github.io/N1904addons/) to examine the features provided by this dataset.
+The following features are provided:
+
+Feature name | Data type | Available on node | Description | Examples
+---|---|---|---|---
+[betacode](docs/features/betacode.md)| `string`| `word` | The Greek unicode word in betacode | `*)ihsou=` `*xristou=`
+
 
 ## Adding the features
 
