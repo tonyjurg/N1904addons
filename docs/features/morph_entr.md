@@ -1,4 +1,4 @@
-# N1904addons feature: lemma_entr
+# N1904addons feature: morph_entr
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
