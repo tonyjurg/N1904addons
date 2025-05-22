@@ -7,9 +7,12 @@ This repository offers a set of features built specifically for use with the [N1
 
 The following features are provided:
 
-Feature name | Data type | Available on node | Description | Examples
----|---|---|---|---
-[betacode](docs/features/betacode.md)| `string`| `word` | The Greek unicode word in betacode | `*)ihsou=` `*xristou=`
+Feature group | Feature name | Data type | Available on node | Description | Examples
+---|---|---|---|---|---
+`Morpheus`| [betacode](features/betacode.md)| `string`| `word` | The Greek unicode word in betacode | `*)ihsou=` `*xristou=`
+`statistic`| [lemma_entr](features/lemma_entr.md)| `string`| `word` | Entropy of the lemma as predictor of its parent phrase function | range from 0 to 2.7196
+`statistic`| [text_entr](features/text_entr.md)| `string`| `word` | Entropy of the surface level wordform as predictor of its parent phrase function | range from 0 to 2.5651
+`statistic`| [morph_entr](features/morph_entr.md)| `string`| `word` | Entropy of a morph-tag as predictor of its parent phrase function | range from 0 to 2.7196
 
 
 ## Adding the features
