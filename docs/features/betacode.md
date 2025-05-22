@@ -1,4 +1,4 @@
-# N1904addons feature: betacode
+# N1904addons - Feature: betacode
 
 Feature group |Feature type | Data type | Available for node types
 ---  | --- | --- | ---
