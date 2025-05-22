@@ -1,4 +1,4 @@
-# N1904addons feature: morph_entr
+# N1904addons - Feature: morph_entr
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
