@@ -1,8 +1,8 @@
 # N1904addons feature: betacode
 
-Feature type | Data type | Available for node types
----  | --- | --- 
-`Node`|`String`|`word`
+Feature group |Feature type | Data type | Available for node types
+---  | --- | --- | ---
+`Morpheus` | `Node`|`String`|`word`
 
 ## Feature description
 
