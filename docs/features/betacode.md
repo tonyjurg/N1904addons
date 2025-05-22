@@ -16,4 +16,7 @@ This feature is **not** a literal representation of N1904-TF's [unicode](https:/
 
 - [Beta Code encoding](https://stephanus.tlg.uci.edu/encoding.php).
 - [Python library for handling Betacode (beta-code-py)](https://github.com/perseids-tools/beta-code-py).
-- [Details on the conversion process](https://github.com/tonyjurg/GNT-greek2betacode).
+
+## Data source
+
+ - [Github repository](https://github.com/tonyjurg/create_TF_feature_betacode)
