@@ -1,4 +1,4 @@
-# N1904addons feature: morph_entr
+# N1904addons - Feature: morph_entr
 
 Feature group | Feature type | Data type | Available for node types
 ---  | --- | --- | ---
@@ -7,7 +7,7 @@ Feature group | Feature type | Data type | Available for node types
 ## Feature description
 
 Entropy of a morph(-tag of a word) as predictor of its parent phrase function.
-
+Summary feature for grouped analysis #{num} providing the number of analytic blocks it summarizes.
 In our syntactic annotated Text-Fabric dataset, we define entropy as a measure of the uncertainty or variability of how an element (such as a surface level word, its morph, or its lemma) predicts or aligns with the syntactic functions (like Subject, Object, etc.) of the phrase it belongs to.
 
 ## Feature values
