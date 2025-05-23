@@ -32,3 +32,17 @@ node=2, number=1 → lemma=γένεσις, tags: ['N-GSF']
 node=3, number=1 → lemma=Ἰησοῦς, tags: ['N-GSM', 'N-VSM', 'N-PRI']
 ...
 ```
+
+The snippet below dynamicaly builds a list of names of 'numbered' Morpheus 
+feature names. This allows to easily pass this list as an option to A.show() 
+
+```python
+# Dynamically generate feature names for all morphology sets
+morphFeatureList = (
+    [f'ms{i}_lemma'      for i in range(1, 9)]
+  + [f'ms{i}_morph'      for i in range(1, 9)]
+  + [f'ms{i}_morph_sim'  for i in range(1, 9)]
+)
+# Display the query results with the Morpheus features
+A.show(QueryResult, extraFeatures=morphFeatureList)
+```
