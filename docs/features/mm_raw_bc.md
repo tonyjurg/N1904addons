@@ -2,7 +2,7 @@
 
 Feature group |Feature type | Data type | Available for node types
 ---  | --- | --- | ---
-`Morpheus` | `Node`|`int`|`word`
+`Morpheus` | `Node`|`string`|`word`
 
 ## Feature description
 
