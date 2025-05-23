@@ -9,7 +9,7 @@ Feature group | Feature name | Data type | Available on node | Description | Exa
 `Morpheus`| [betacode](betacode.md)| `string`| `word` | The Greek unicode word in betacode | `*)ihsou=` `*xristou=`
 `Morpheus`| [mm_raw_bc](mm_raw_bc.md)| `string`| `word` | Betacode representation of the raw: field of Morpheus for this word node | `*)ihsou=` `*xristou=`
 `Morpheus`| [mm_raw_uc](mm_raw_uc.md)| `string`| `word` | Unicode representation of the raw: field of Morpheus for this word node | `Ἰησοῦς`
-`Morpheus`| [mm_num_lemmas](mm_num_lemmas.md)| `int`| `word` | Number of different lemmas returned by the Morpheus analytic blocks for this word node | `2`  `1/2/3`
+`Morpheus`| [mm_num_lemmas](mm_num_lemmas.md)| `int`| `word` | Number of different lemmas returned by the Morpheus analytic blocks for this word node | `1`  `3`
 `Morpheus`| [mm_num_blocks](mm_num_blocks.md)| `int`| `word` | Total number of analytic Morpheus blocks return for this word node | `1` `9` `11`
 `Morpheus`| [ms{num}_block_nums](ms{num}_block_nums.md)| `string`| `word` | Summary feature for grouped analysis #{num} providing a list with the associated blocknumbers. | `1/2` `4/5/6`
 `Morpheus`| [ms{num}_morph](ms{num}_morph.md)| `string`| `word` | Summary feature for grouped analysis #{num} providing a list of morphs | `N-GSM/N-VSM/N-PRI` `V-IEI-2S`
