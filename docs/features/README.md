@@ -18,5 +18,6 @@ Feature group | Feature name | Data type | Available on node | Description | Exa
 `statistic`| [lemma_entr](lemma_entr.md)| `string`| `word` | Entropy of the lemma as predictor of its parent phrase function | number ranging from 0 to 2.5503
 `statistic`| [text_entr](text_entr.md)| `string`| `word` | Entropy of the surface level wordform as predictor of its parent phrase function | number ranging from 0 to 2.5850
 `statistic`| [morph_entr](morph_entr.md)| `string`| `word` | Entropy of a morph-tag as predictor of its parent phrase function | number ranging from 0 to 2.7271
+`crossref`| [osis_id](osis_id.md)| `string`| `word` | Book name accoring to the OSIS (Open Scriptural Information Standard) ID | `2Thess` `Phlm`  
 
 
