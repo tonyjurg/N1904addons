@@ -1,4 +1,4 @@
-# N1904addons - Feature: ms{num}_morph
+# N1904addons - Feature: ms{num}_lemma
 
 Feature group |Feature type | Data type | Available for node types
 ---  | --- | --- | ---
@@ -6,7 +6,7 @@ Feature group |Feature type | Data type | Available for node types
 
 ## Feature description
 
-Summary feature for grouped analysis #{num} providing a list of morphs
+Summary feature for grouped analysis #{num} providing the lemma
 
 This is a Morpheus Summary (ms) feature.
 

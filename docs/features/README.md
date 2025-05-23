@@ -14,6 +14,7 @@ Feature group | Feature name | Data type | Available on node | Description | Exa
 `Morpheus`| [ms{num}_block_nums](ms{num}_block_nums.md)| `string`| `word` | Summary feature for grouped analysis #{num} providing a list with the associated blocknumbers. | `1/2` `4/5/6`
 `Morpheus`| [ms{num}_morph](ms{num}_morph.md)| `string`| `word` | Summary feature for grouped analysis #{num} providing a list of morphs | `N-GSM/N-VSM/N-PRI` `V-IEI-2S`
 `Morpheus`| [ms{num}_morph_sim](ms{num}_morph_sim.md)| `string`| `word` | Summary feature for grouped analysis #{num} providing a list of morps similairties to the N1904-TF morph | `100/93/56` `56`
+`Morpheus`| [ms{num}_lemma](ms{num}_lemma.md)| `string`| `word` | Summary feature for grouped analysis #{num} providing the lemma | `πρὸς` `Λόγος`
 `Morpheus`| [ms{num}_num_blocks](ms{num}_num_blocks.md)| `int`| `word` | Summary feature for grouped analysis #{num} providing the number of analytic blocks it summarizes | `3`  `2` 
 `statistic`| [lemma_entr](lemma_entr.md)| `string`| `word` | Entropy of the lemma as predictor of its parent phrase function | number ranging from 0 to 2.5503
 `statistic`| [text_entr](text_entr.md)| `string`| `word` | Entropy of the surface level wordform as predictor of its parent phrase function | number ranging from 0 to 2.5850
