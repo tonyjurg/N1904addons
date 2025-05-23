@@ -52,3 +52,7 @@ morphFeatureList = (
 # Display the query results with the Morpheus features
 A.show(QueryResult, extraFeatures=morphFeatureList)
 ```
+
+The image below shows a syntax tree with the display of these features enabled.
+
+<IMG SRC="images/john_3_16_morpheus_features.png" WIDHT=600>
