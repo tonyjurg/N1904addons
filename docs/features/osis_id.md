@@ -1,0 +1,22 @@
+# N1904addons - Feature: osis_id
+
+Feature group |Feature type | Data type | Available for node types
+---  | --- | --- | ---
+`Crossref` | `Node`|`String`|`book`
+
+## Feature description
+
+Book name accoring to the OSIS (Open Scriptural Information Standard) name
+
+According to [wiki.crosswire.org/OSIS_Bibles](https://wiki.crosswire.org/OSIS_Bibles#OSIS):
+
+> OSIS is an XML Schema definition for Bibles and other Biblical research texts, which enables ministries and other organizations to collaborate more easily. Traditionally, these organizations have stored their documents in disparate, proprietary markups, making it difficult when they wish to share in service with each other. OSIS provides a common markup for multiple visions
+
+## References:
+
+  - [OSIS resource index](https://ebible.org/osis/)
+  
+## Data creation
+
+See the Jupyter notebook on [this repository](https://github.com/tonyjurg/Create_OSIS_ID_feature_for_TF).
+  
