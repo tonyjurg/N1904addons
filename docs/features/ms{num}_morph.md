@@ -10,6 +10,12 @@ Summary feature for grouped analysis #{num} providing a list of morphs
 
 This is a Morpheus Summary (ms) feature.
 
+## Feature values
+
+For example `ms2_morph` = `R-NSN/R-VSN/R-ASN`
+
+## Coding
+
 The following Python code demonstrates how to programaticaly obtain details like lemma and morphological tags per grouped analysis blocks.
 
 ```Python
@@ -34,7 +40,7 @@ node=3, number=1 → lemma=Ἰησοῦς, tags: ['N-GSM', 'N-VSM', 'N-PRI']
 ```
 
 The snippet below dynamicaly builds a list of names of 'numbered' Morpheus 
-feature names. This allows to easily pass this list as an option to A.show() 
+feature names. This allows to easily pass this list as an option to `A.show()`.
 
 ```python
 # Dynamically generate feature names for all morphology sets

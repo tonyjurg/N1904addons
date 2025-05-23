@@ -12,7 +12,9 @@ This is a Morpheus Summary (ms) feature.
 
 ## Feature values
 
-A string of morphological tags separated by slashes. For example 'ms2_morph=R-NSN/R-VSN/R-ASN'
+A string of morphological tags separated by slashes. 
+
+For example `ms2_morph_sim` = `100/96/81`
 
 ## Coding
 
@@ -40,7 +42,7 @@ node=3, number=1 → lemma=Ἰησοῦς, tags: ['N-GSM', 'N-VSM', 'N-PRI']
 ```
 
 The snippet below dynamicaly builds a list of names of 'numbered' Morpheus 
-feature names. This allows to easily pass this list as an option to A.show() 
+feature names. This allows to easily pass this list as an option to `A.show()`.
 
 ```python
 # Dynamically generate feature names for all morphology sets

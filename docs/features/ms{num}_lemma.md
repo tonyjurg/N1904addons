@@ -12,7 +12,7 @@ This is a Morpheus Summary (ms) feature.
 
 ## Feature values
 
-The lemma in unicod.
+The lemma in unicode.
 
 ## Coding
 
