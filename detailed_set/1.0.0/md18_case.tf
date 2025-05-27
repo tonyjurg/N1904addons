@@ -1,0 +1,192 @@
+@node
+@author=Morpheus (perseids-tools)
+@convertedBy=Tony Jurg
+@coreData=Nestle 1904 Text-Fabric (centerBLC)
+@coreDataUrl=https://github.com/CenterBLC/N1904
+@description=Morpheus analytic block 18 grammatical case
+@license=MIT License
+@licenseUrl=https://mit-license.org/
+@provenance=jupyter Notebook (https://github.com/tonyjurg/create_TF_feature_betacode)
+@valueType=str
+@version=1.0.0
+@website=https://github.com/tonyjurg/N1904addon
+@writtenBy=Text-Fabric
+@dateWritten=2025-05-19T22:07:27+00:00Z
+
+1043	
+1446	voc
+1647	voc
+1961	
+2930	
+3096	
+3458	
+3943	voc
+4091	voc
+4516	
+4537	
+6814	
+8400	voc
+9305	voc
+10293	
+10935	voc
+11121	
+11304	
+11322	
+11994	
+12575	
+13680	
+14204	
+14280	
+15525	
+16185	
+19409	
+19430	
+19666	voc
+20572	
+20661	voc
+20773	voc
+21104	voc
+21453	
+22252	voc
+23244	voc
+23703	
+24496	
+24553	voc
+24735	
+24880	
+24905	
+24922	
+25434	
+26062	
+26821	
+26897	
+27604	
+27825	
+29163	
+29650	nom/voc/acc
+29917	
+30145	
+31768	
+32952	
+33524	
+33678	
+33701	
+33711	
+35548	
+35966	voc
+36632	
+36728	
+37112	
+37632	
+37716	
+39101	
+40057	
+40076	
+40162	
+40943	
+41541	gen
+42658	
+42922	
+43868	
+43984	
+44000	
+44429	
+44475	
+44695	
+44807	
+45197	
+45411	nom/voc/acc
+45855	
+46274	
+46396	
+46705	
+46880	
+48007	
+48146	
+48507	nom/voc/acc
+49434	voc
+50353	
+50398	
+50756	voc
+52700	voc
+52947	voc
+53024	voc
+53099	voc
+54056	
+54802	
+57225	voc
+61923	voc
+64201	
+64778	
+66087	
+68218	
+68450	nom/voc/acc
+69902	nom/voc/acc
+70246	voc
+71230	
+71729	
+74013	
+74971	nom
+76126	nom
+77898	
+78139	nom/voc/acc
+79225	
+82086	
+82784	
+82910	
+83054	
+85845	
+85867	
+88457	
+89824	
+89866	
+89880	
+90463	
+91386	
+91566	
+91751	
+91980	
+92005	
+93238	gen
+96146	
+96526	
+97591	
+98435	
+99796	
+100590	
+100697	
+102326	nom/voc/acc
+103292	
+103367	
+104357	
+105102	
+106469	
+107209	
+107956	
+108059	
+108507	voc
+108724	
+108780	
+109188	
+109618	
+109730	
+109819	nom/voc/acc
+114122	
+114372	
+114534	
+115048	
+115307	
+119979	
+121359	
+121654	voc
+122689	
+123989	
+124283	nom/voc/acc
+128076	
+130073	
+131225	
+133606	
+135024	
+135143	
+135165	
+136158	

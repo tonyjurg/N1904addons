@@ -1,0 +1,31 @@
+/* Hide elements with the hidden-content class */
+.hidden-content {
+    display: none;
+}
+
+/* Add borders to the tables */
+table, th, td {
+    border: 1px solid #ddd;
+    border-collapse: collapse; /* Ensure borders don't double */
+}
+
+/* Mimic the backticks in Markdown for code elements */
+code {
+    font-family: Consolas, "Courier New", monospace;
+    background-color: #f8f8f8;
+    padding: 2px 4px;
+    border-radius: 4px;
+    color: #000000;
+}
+
+.alert {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.alert-important {
+  background-color: #ffe6e6;
+  border-color: #ffcccc;
+}

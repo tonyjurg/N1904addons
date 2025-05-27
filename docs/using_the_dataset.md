@@ -1,15 +1,14 @@
-[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+# Using the dataset
 
-# N1904addons
+## Text-Fabric
 
-This repository offers a set of features built specifically for use with the [N1904 Text-Fabric dataset](https://CenterBLC.github.io/N1904/). Text-Fabric is a powerful platform for analyzing biblical texts with linguistic and structural detail.
+To use this dataset, you first need to have Text-Fabric installed in your Python environment. You can either start with the [official Text-Fabric documentation](https://annotation.github.io/text-fabric/tf/about/install.html#tf.about.install) or by using the [tutorial on the N1904-TF website](https://centerblc.github.io/N1904/tutorial/index.html#start).
 
-Go to the [documentation section](docs/README.md) or the [GitHub pages site](https://tonyjurg.github.io/N1904addons/) to examine the features provided by this dataset.
+Next you need to import the N1904-TF dataset, simply because the features in this 'addon' do depend on them.
 
-## Adding the features
+## Loading the feature set 
 
-First you need to load the TF software and make `use` available:
+Once you have set up your environment, you can import the Text-Fabric libraries:  
 
 ```python
 # Loading the Text-Fabric code
@@ -17,7 +16,7 @@ from tf.fabric import Fabric
 from tf.app import use
 ```
 
-When loading N1904TF, by default, any additional features are not loaded. To include them, use the `mod` option during invocation, as shown below:
+When loading the N1904TF dataset, by default, the additional features are not loaded. To include them, use the `mod` option during invocation, as shown below:
 
 ```python
 # Load the N1904-TF app and data with the additional features
@@ -46,16 +45,13 @@ Since GitHub implemented a API rate limit of 60 requests per hour, it is recomme
 - [Jupyter Notebook: Increase GitHub API Rate Limit](https://nbviewer.org/github/CenterBLC/N1904/blob/main/docs/tutorial/Increase_GitHub_rate_limit.ipynb)
 - [Text-Fabric Documentation: Using GitHub Tokens](https://annotation.github.io/text-fabric/tf/advanced/repo.html#token-in-environment-variables)
 
-## BibTeX
+
+## Loading the detailed database
+
+The 600+ features providing access to numerous part of the Morpheus analytic blocks are **not** loaded by default (for obvious reasons). To get access to these, you need to invoke the dataset like:
 
 ```
-@software{Jurg_N1904addons_-_Additional_2025,
-author = {Jurg, Tony},
-doi = {TBD},
-month = apr,
-title = {{N1904addons - Additional features for N1904 Text Fabric dataset}},
-url = {https://github.com/tonyjurg/N1904addons},
-version = {0.1},
-year = {2025}
-}
+A = use ("CenterBLC/N1904", version="1.0.0", silence="terse", mod=["tonyjurg/N1904addons/tf/", "tonyjurg/N1904addons/detailed_set"], hoist=globals()) 
 ```
+
+In this case the option silense="terse" may be realy helpfull in order to supress the huge output during loading and compiling of the large number of features. 
