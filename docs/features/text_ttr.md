@@ -23,6 +23,9 @@ $$
 
 In this calculation all wordformss are first changed to lower case.
 
+
+## Visualizing
+
 The following plot compares the Text-to-Token Ratio measured over wordform (TTR), lemma (LTR) and morph (MTR) per book of the New Testament. The immage clearly shows that shorter books generaly are resulting in higher ratio (even while TTR is already a ratio).
 
 <img src="images/ttr_ltr_mtr_per_book.png">
