@@ -11,7 +11,7 @@ The dataset N1904addons contains the following feature groups which are included
 Feature group | Description
 ---|---
 [Morpheus (Analyses, meta and summary)](features/README.md#feature-group-morpheus-analyses-meta-and-summary) | Morpheus morphological analyser summary, meta and analytic features.
-[Statistic](features/README.md#feature-group-statistic) | Statistic features like entropy
+[Statistic](features/README.md#feature-group-statistic) | Statistic features like entropy and TTR
 [Crossreference](features/README.md#feature-group-cross-reference) | Cross reference features like OSIS ID
 [Miscellaneous](features/README.md#feature-group-miscellaneous) | Miscellaneous features like Penn Tree 
 

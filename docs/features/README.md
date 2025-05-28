@@ -30,11 +30,14 @@ Feature name | Data type | Available on node | Description | Examples
 ---|---|---|---|---
 [lemma_entr](lemma_entr.md)| `str`| `word` | Absolute entropy of the lemma as predictor of its parent phrase function in bits | number ranging from 0 to 2.5503
 [lemma_entr_norm](lemma_entr_norm.md)| `str`| `word` | Normalized entropy of the lemma as predictor of its parent phrase function | number ranging from 0 to 1
-[morph_entr](morph_entr.md)| `str`| `word` | Absolute rntropy of a morph-tag as predictor of its parent phrase function | number ranging from 0 to 2.7271
+[lemma_ttr](lemma_ttr.md)| `str` | `book` `chapter` `verse` `sentence` `group` `wg` `phrase` `subphrase` `clause` | Type to Token Ratio based on lemma for all word nodes under this node | `0.10438939` `0.06539666`
+[morph_entr](morph_entr.md)| `str`| `word` | Absolute entropy of a morph-tag as predictor of its parent phrase function | number ranging from 0 to 2.7271
 [morph_entr_norm](morph_entr_norm.md)| `str`| `word` | Normalized entropy of a morph as predictor of its parent phrase function | number ranging from 0 to 1
+[morph_ttr](morph_ttr.md)| `str` | `book` `chapter` `verse` `sentence` `group` `wg` `phrase` `subphrase` `clause` | Type to Token Ratio based on lemma for all word nodes under this node | `0.11847122` `0.36065573`
 [num_words](num_words.md)| `int` | `book` `chapter` `verse` `sentence` `group` `wg` `phrase` `subphrase` `clause` | Number of word nodes below this node | `2` `15643`
 [text_entr](text_entr.md)| `str`| `word` | Absolute entropy of the surface level wordform as predictor of its parent phrase function | number ranging from 0 to 2.5850
 [text_entr_norm](text_entr_norm.md)| `str`| `word` | Normalized entropy of a surface level wordform as predictor of its parent phrase function | number ranging from 0 to 1
+[text_ttr](text_ttr.md)| `str` | `book` `chapter` `verse` `sentence` `group` `wg` `phrase` `subphrase` `clause` | Type to Token Ratio based on wordform for all word nodes under this node | `0.30498177` `0.37854251`
 
 ### Feature group: Cross reference
 
