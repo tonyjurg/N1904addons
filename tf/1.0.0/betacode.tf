@@ -9,9 +9,9 @@
 @provenance=jupyter Notebook (https://github.com/tonyjurg/create_TF_feature_betacode)
 @valueType=str
 @version=1.0.0
-@website=https://github.com/tonyjurg/N1904addon
+@website=https://github.com/tonyjurg/N1904addons
 @writtenBy=Text-Fabric
-@dateWritten=2025-05-26T21:23:35+00:00Z
+@dateWritten=2025-05-28T12:34:17+00:00Z
 
 *bi/blos
 gene/sews

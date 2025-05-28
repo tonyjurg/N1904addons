@@ -9,9 +9,9 @@
 @provenance=jupyter Notebook (https://github.com/tonyjurg/create_TF_feature_betacode)
 @valueType=str
 @version=1.0.0
-@website=https://github.com/tonyjurg/N1904addon
+@website=https://github.com/tonyjurg/N1904addons
 @writtenBy=Text-Fabric
-@dateWritten=2025-05-26T15:14:58+00:00Z
+@dateWritten=2025-05-28T12:31:42+00:00Z
 
 258525	(S (CL-WG (NP-P (NOUN βίβλος) (NP-WG (NOUN γενέσεως) (NP-WG (NP-WG (NP-WG (NOUN ἰησοῦ) (NOUN χριστοῦ) ) (NP-WG (NOUN υἱοῦ) (NOUN δαυεὶδ) ) ) (NP-WG (NOUN υἱοῦ) (NOUN ἀβραάμ) (PUNCT .) ) ) ) ) ) )
 (S (WG-WG (CL-WG (NOUN ἀβραὰμ)  (VP-V (VERB ἐγέννησεν) )(NP-O (DET τὸν) (NOUN ἰσαάκ) (PUNCT ,) ) ) (WG-WG (CONJ δὲ) (CL-WG (NOUN ἰσαὰκ)  (VP-V (VERB ἐγέννησεν) )(NP-O (DET τὸν) (NOUN ἰακώβ) (PUNCT ,) ) ) ) (WG-WG (CONJ δὲ) (CL-WG (NOUN ἰακὼβ)  (VP-V (VERB ἐγέννησεν) )(WG-O (NP-WG (DET τὸν) (NOUN ἰούδαν) ) (WG-WG (CONJ καὶ) (NP-WG (DET τοὺς) (NP-WG (NOUN ἀδελφοὺς) (PRON αὐτοῦ) (PUNCT ,) ) ) ) ) ) ) (WG-WG (CONJ δὲ) (CL-WG (NOUN ἰούδας)  (VP-V (VERB ἐγέννησεν) )(WG-O (NP-WG (DET τὸν) (NOUN φαρὲς) ) (WG-WG (CONJ καὶ) (NP-WG (DET τὸν) (NOUN ζαρὰ) ) ) ) (PP-ADV (PREP ἐκ) (NP-WG (DET τῆς) (NOUN θάμαρ) (PUNCT ,) ) ) ) ) (WG-WG (CONJ δὲ) (CL-WG (NOUN φαρὲς)  (VP-V (VERB ἐγέννησεν) )(NP-O (DET τὸν) (NOUN ἐσρώμ) (PUNCT ,) ) ) ) (WG-WG (CONJ δὲ) (CL-WG (NOUN ἐσρὼμ)  (VP-V (VERB ἐγέννησεν) )(NP-O (DET τὸν) (NOUN ἀράμ) (PUNCT ,) ) ) ) (WG-WG (CONJ δὲ) (CL-WG (NOUN ἀρὰμ)  (VP-V (VERB ἐγέννησεν) )(NP-O (DET τὸν) (NOUN ἀμιναδάβ) (PUNCT ,) ) ) ) (WG-WG (CONJ δὲ) (CL-WG (NOUN ἀμιναδὰβ)  (VP-V (VERB ἐγέννησεν) )(NP-O (DET τὸν) (NOUN ναασσών) (PUNCT ,) ) ) ) (WG-WG (CONJ δὲ) (CL-WG (NOUN ναασσὼν)  (VP-V (VERB ἐγέννησεν) )(NP-O (DET τὸν) (NOUN σαλμών) (PUNCT ,) ) ) ) (WG-WG (CONJ δὲ) (CL-WG (NOUN σαλμὼν)  (VP-V (VERB ἐγέννησεν) )(NP-O (DET τὸν) (NOUN βόες) ) (PP-ADV (PREP ἐκ) (NP-WG (DET τῆς) (NOUN ῥαχάβ) (PUNCT ,) ) ) ) ) (WG-WG (CONJ δὲ) (CL-WG (NOUN βόες)  (VP-V (VERB ἐγέννησεν) )(NP-O (DET τὸν) (NOUN ἰωβὴδ) ) (PP-ADV (PREP ἐκ) (NP-WG (DET τῆς) (NOUN ῥούθ) (PUNCT ,) ) ) ) ) (WG-WG (CONJ δὲ) (CL-WG (NOUN ἰωβὴδ)  (VP-V (VERB ἐγέννησεν) )(NP-O (DET τὸν) (NOUN ἰεσσαί) (PUNCT ,) ) ) ) (WG-WG (CONJ δὲ) (CL-WG (NOUN ἰεσσαὶ)  (VP-V (VERB ἐγέννησεν) )(NP-O (NP-WG (DET τὸν) (NOUN δαυεὶδ) ) (NP-WG (DET τὸν) (NOUN βασιλέα) (PUNCT .) ) ) ) ) ) )

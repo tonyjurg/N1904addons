@@ -4,14 +4,14 @@
 @coreData=Nestle 1904 Text-Fabric (centerBLC)
 @coreDataUrl=https://github.com/CenterBLC/N1904
 @description=Number of word nodes below this node.
-@license=MIT License
-@licenseUrl=https://mit-license.org/
+@license=Creative Commons Attribution 4.0 International (CC BY 4.0)
+@licenseUrl=https://github.com/tonyjurg/N1904addons/blob/main/LICENSE.md
 @provenance=jupyter Notebook (https://github.com/tonyjurg/create_TF_feature_betacode)
 @valueType=int
 @version=1.0.0
-@website=https://github.com/tonyjurg/N1904addon
+@website=https://github.com/tonyjurg/N1904addons
 @writtenBy=Text-Fabric
-@dateWritten=2025-05-25T14:08:35+00:00Z
+@dateWritten=2025-05-28T12:19:05+00:00Z
 
 137780	18299
 11277
