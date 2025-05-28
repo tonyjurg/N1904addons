@@ -36,6 +36,7 @@ Related features:
 
   - [morph_ttr](morph_ttr.md): Type to Token Ratio based on morph-tags for all word nodes under this node.
   - [lemma_ttr](lemma_ttr.md): Type to Token Ratio based on lemma for all word nodes under this node.
+
 ## Data source
 
 The production notebook can be found on [this repository](https://tonyjurg.github.io/Create-TF-stat-features/).
