@@ -104,8 +104,8 @@ High entropy values indicate that a form is ambiguous, as it appears in multiple
 
 <details style="border: 1px solid lightgray; background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
 <summary title="Click to hide/unhide"><b>Detailed mathematic description</b></summary>
-<h3>Definition</h3>
 <br>
+<h3>Definition</h3>
 <p>Entropy is a measure from information theory that quantifies uncertainty or unpredictability in a probability distribution. It is defined as:</p>
 
 $$H(X) = -\sum_i P(x_i) \log_2 P(x_i)$$
