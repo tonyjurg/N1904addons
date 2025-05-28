@@ -23,7 +23,7 @@ $$
 
 ## Visualizing
 
-The following plot compares the Text-to-Token Ratio measured over wordform (TTR), lemma (LTR) and morph (MTR) per book of the New Testament. The immage clearly shows that shorter books generaly are resulting in higher ratio (even while TTR is already a ratio).
+The following plot compares the Type-to-Token Ratios measured over word form (TTR), lemma (LTR), and morphology (MTR) for each book of the New Testament. The image clearly shows that shorter books generaly are resulting in higher ratio, even though TTR is iself already a normalized measure. To account for this length-related bias there are various methods of normalization. A large number of those methods are made conveniently accessible using the Python package [lexicalrichness](https://lexicalrichness.readthedocs.io/en/latest/#).
 
 <img src="images/ttr_ltr_mtr_per_book.png">
 
