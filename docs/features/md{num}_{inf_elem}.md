@@ -2,7 +2,7 @@
 
 Feature group |Feature type | Data type | Available for node types | Feature status
 ---  | --- | --- | --- | ---
-[`Morpheus`](README.md#feature-group-morpheus-details) | `Node` | `str` | `word` | [✅](featurestatus.md#Trustworthy "Trustworthy")
+[`Morpheus`](README.md#feature-group-morpheus-details) | `Node` | `str` | `word` | [🆗](featurestatus.md#Reasonable "Reasonable")
 
 ## Feature description
 

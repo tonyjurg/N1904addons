@@ -2,7 +2,7 @@
 
 # N1904addons
 
-This repository offers a set of features built specifically for use with the [N1904 Text-Fabric dataset](https://CenterBLC.github.io/N1904/). Text-Fabric is a powerful platform for analyzing biblical texts with linguistic and structural detail.
+This repository offers a set of features built specifically for use with the [N1904 Text-Fabric dataset](https://CenterBLC.github.io/N1904/). All  features are provided **"as is"** under the [Creative Commons Attribution 4.0 International (CC BY 4.0) license](https://github.com/tonyjurg/N1904addons/blob/main/LICENSE.md). Please take special notice to the flags provided under the header ‘Feature status’, as some features may not be stable yet.
 
 ## Features
 
