@@ -91,7 +91,19 @@ The labels {num} and {inf_elem} are placeholders, which stand for:
       <td><code>indeclform</code> <code>ind/nu_movable</code></td>
     </tr>
     <tr>
-      <td rowspan="8">Wordform</td>
+      <td rowspan="12">Wordform</td>
+      <td>aug1_bc</td>
+      <td><code>str</code></td>
+      <td>Augment in betacode</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>aug1_uc</td>
+      <td><code>str</code></td>
+      <td>Augment in unicode</td>
+      <td>—</td>
+    </tr>
+    <tr>
       <td>ending_bc</td>
       <td><code>str</code></td>
       <td>Wordform ending in betacode</td>
@@ -137,6 +149,18 @@ The labels {num} and {inf_elem} are placeholders, which stand for:
       <td>lem_pl_suffix</td>
       <td><code>str</code></td>
       <td>PL suffix of lemma</td>
+      <td><code>1</code> &lt;empty&gt;</td>
+    </tr>
+    <tr>
+      <td>prvb_list_uc</td>
+      <td><code>str</code></td>
+      <td>List of prepositions in unicode</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>prvb_list_bc</td>
+      <td><code>str</code></td>
+      <td>List of prepositions in unicode</td>
       <td><code>1</code> &lt;empty&gt;</td>
     </tr>
     <tr>
