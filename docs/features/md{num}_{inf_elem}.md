@@ -82,7 +82,7 @@ The labels {num} and {inf_elem} are placeholders, which stand for:
       <td>morph_codes</td>
       <td><code>str</code></td>
       <td>List of morp codes provided by Morpheus</td>
-      <td><code>article</code> <code>os_ou/os_ou</code></td>
+      <td></td>
     </tr>
     <tr>
       <td>morph_flags</td>
@@ -107,25 +107,25 @@ The labels {num} and {inf_elem} are placeholders, which stand for:
       <td>end_bc</td>
       <td><code>str</code></td>
       <td>(:end) Wordform ending in betacode</td>
-      <td><code>ous</code> <code>ws</code></td>
+      <td><code>ous</code> <code>ws</code> <code>en</code></td>
     </tr>
     <tr>
       <td>end_uc</td>
       <td><code>str</code></td>
       <td>(:end) Wordform ending in unicode</td>
-      <td><code>ες</code> <code>να</code></td>
+      <td><code>ες</code> <code>να</code> <code>εν</code></td>
     </tr>
     <tr>
       <td>lem_base_bc</td>
       <td><code>str</code></td>
       <td>(:lem) Base lemma in betacode</td>
-      <td><code>*bi/blos</code> <code>ge/nesis</code></td>
+      <td><code>*bi/blos</code> <code>ui(o/s</code></td>
     </tr>
     <tr>
       <td>lem_base_uc</td>
       <td><code>str</code></td>
       <td>(:lem) Base lemma in unicode</td>
-      <td><code>Βίβλος</code> <code>γένεσις</code></td>
+      <td><code>ἀδελφός</code> <code>γεννάω</code></td>
     </tr>
     <tr>
       <td>lem_full_bc</td>
@@ -154,14 +154,14 @@ The labels {num} and {inf_elem} are placeholders, which stand for:
     <tr>
       <td>prvb_bc</td>
       <td><code>str</code></td>
-      <td>(:prvb) Space separated list of prepositions in betacode</td>
+      <td>(:prvb) **Space** separated list of prepositions in betacode</td>
       <td><code>meta/ a)na/</code> <code>su/n</code></td>
     </tr>
     <tr>
       <td>prvb_uc</td>
       <td><code>str</code></td>
-      <td>(:prvb) Space separated list of prepositions in unicode</td>
-      <td><code>ἐκ ἐπί</code> <code>πρός</code></td>
+      <td>(:prvb) Slash separated list of prepositions in unicode</td>
+      <td><code>ἐκ/ἐπί</code> <code>πρός</code></td>
     </tr>
     <tr>
       <td>stem_bc</td>
@@ -180,25 +180,25 @@ The labels {num} and {inf_elem} are placeholders, which stand for:
       <td>end_codes</td>
       <td><code>str</code></td>
       <td>(:end) list of codes for einding</td>
-      <td><code>ous</code> <code>ws</code></td>
+      <td><code>os_ou</code> <code>os_ou/os_ou</code></td>
     </tr>
     <tr>
       <td>end_flags</td>
       <td><code>str</code></td>
       <td>(:end)list of flags for ending</td>
-      <td><code>ες</code> <code>να</code></td>
+      <td><code>nu_movable</code> <code>contr</code></td>
     </tr>
     <tr>
       <td>stem_codes</td>
       <td><code>str</code></td>
       <td>(:stem) listed morph codes for stem</td>
-      <td><code>meta/ a)na/</code> <code>su/n</code></td>
+      <td><code>os_h_on</code> <code>aor1/aw_denom</code></td>
     </tr>
     <tr>
       <td>stem_flags</td>
       <td><code>str</code></td>
       <td>(:stem) listed morph flags for stem</td>
-      <td><code>ἐκ ἐπί</code> <code>πρός</code></td>
+      <td><code>..</code> <code>indeclform</code></td>
     </tr> 
     <tr>
       <td rowspan="2">Derived</td>
