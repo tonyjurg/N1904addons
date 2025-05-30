@@ -91,78 +91,115 @@ The labels {num} and {inf_elem} are placeholders, which stand for:
       <td><code>indeclform</code> <code>ind/nu_movable</code></td>
     </tr>
     <tr>
-      <td rowspan="12">Wordform</td>
+      <td rowspan="14">Wordform</td>
       <td>aug1_bc</td>
       <td><code>str</code></td>
-      <td>Augment in betacode</td>
+      <td>(:aug) Augment in betacode</td>
       <td><code>i)>ei)</code> <code>a)>h)</code></td>
     </tr>
     <tr>
       <td>aug1_uc</td>
       <td><code>str</code></td>
-      <td>Augment in unicode</td>
+      <td>(:aug) Augment in unicode</td>
       <td><code>ἰ>εἰ</code> <code>ἐ>ἠ</code></td>
     </tr>
     <tr>
-      <td>ending_bc</td>
+      <td>end_bc</td>
       <td><code>str</code></td>
-      <td>Wordform ending in betacode</td>
+      <td>(:end) Wordform ending in betacode</td>
       <td><code>ous</code> <code>ws</code></td>
     </tr>
     <tr>
-      <td>ending_uc</td>
+      <td>end_uc</td>
       <td><code>str</code></td>
-      <td>Wordform ending in unicode</td>
+      <td>(:end) Wordform ending in unicode</td>
       <td><code>ες</code> <code>να</code></td>
     </tr>
     <tr>
       <td>lem_base_bc</td>
       <td><code>str</code></td>
-      <td>Base lemma in betacode</td>
+      <td>(:lem) Base lemma in betacode</td>
       <td><code>*bi/blos</code> <code>ge/nesis</code></td>
     </tr>
     <tr>
       <td>lem_base_uc</td>
       <td><code>str</code></td>
-      <td>Base lemma in unicode</td>
+      <td>(:lem) Base lemma in unicode</td>
       <td><code>Βίβλος</code> <code>γένεσις</code></td>
     </tr>
     <tr>
       <td>lem_full_bc</td>
       <td><code>str</code></td>
-      <td>Full lemma in betacode</td>
+      <td>(:lem) Full lemma in betacode</td>
       <td><code>*bi/blos</code> <code>ge/nesis</code></td>
     </tr>
     <tr>
       <td>lem_full_uc</td>
       <td><code>str</code></td>
-      <td>Full lemma in unicode</td>
+      <td>(:lem) Full lemma in unicode</td>
       <td><code>Βίβλος</code> <code>γένεσις</code></td>
     </tr>
     <tr>
       <td>lem_homonym</td>
       <td><code>str</code></td>
-      <td>Homonym of the lemma</td>
+      <td>(:lem) Homonym of the lemma</td>
       <td><code>1</code> &lt;empty&gt;</td>
     </tr>
     <tr>
       <td>lem_pl_suffix</td>
       <td><code>str</code></td>
-      <td>PL suffix of lemma</td>
+      <td>(:lem) PL suffix of lemma</td>
       <td><code>1</code> &lt;empty&gt;</td>
     </tr>
     <tr>
-      <td>prvb_list_uc</td>
+      <td>prvb_bc</td>
       <td><code>str</code></td>
-      <td>Space separated list of prepositions in unicode</td>
+      <td>(:prvb) Space separated list of prepositions in betacode</td>
       <td><code>meta/ a)na/</code> <code>su/n</code></td>
     </tr>
     <tr>
-      <td>prvb_list_bc</td>
+      <td>prvb_uc</td>
       <td><code>str</code></td>
-      <td>Space separated list of prepositions in unicode</td>
+      <td>(:prvb) Space separated list of prepositions in unicode</td>
       <td><code>ἐκ ἐπί</code> <code>πρός</code></td>
     </tr>
+    <tr>
+      <td>stem_bc</td>
+      <td><code>str</code></td>
+      <td>(:stem) Stem in betacode</td>
+      <td><code>meta/ a)na/</code> <code>su/n</code></td>
+    </tr>
+    <tr>
+      <td>stem_uc</td>
+      <td><code>str</code></td>
+      <td>(:stem)Stem in unicode</td>
+      <td><code>ἐκ ἐπί</code> <code>πρός</code></td>
+    </tr>
+    <tr>
+     <td rowspan="4">Codes and flags</td>
+      <td>end_codes</td>
+      <td><code>str</code></td>
+      <td>(:end) list of codes for einding</td>
+      <td><code>ous</code> <code>ws</code></td>
+    </tr>
+    <tr>
+      <td>end_flags</td>
+      <td><code>str</code></td>
+      <td>(:end)list of flags for ending</td>
+      <td><code>ες</code> <code>να</code></td>
+    </tr>
+    <tr>
+      <td>stem_codes</td>
+      <td><code>str</code></td>
+      <td>(:stem) listed morph codes for stem</td>
+      <td><code>meta/ a)na/</code> <code>su/n</code></td>
+    </tr>
+    <tr>
+      <td>stem_flags</td>
+      <td><code>str</code></td>
+      <td>(:stem) listed morph flags for stem</td>
+      <td><code>ἐκ ἐπί</code> <code>πρός</code></td>
+    </tr> 
     <tr>
       <td rowspan="2">Derived</td>
       <td>morph</td>
