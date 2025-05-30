@@ -204,7 +204,7 @@ The labels {num} and {inf_elem} are placeholders, which stand for:
       <td rowspan="2">Derived</td>
       <td>morph</td>
       <td><code>str</code></td>
-      <td>Slash separated list of derived morphtag(s) following Sandborg-Petersen morphology (allowing for comparing with N1904-TF)</td>
+      <td>Slash separated list of derived morphtag(s) following Sandborg-Petersen morphology (like feature [morph](https://centerblc.github.io/N1904/features/morph.html#start) in N1904-TF)</td>
       <td><code>V-AAI-3S</code> <code>N-NDF/N-VDF/N-ADF</code></td>
     </tr>
     <tr>
