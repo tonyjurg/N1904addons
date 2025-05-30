@@ -130,25 +130,25 @@ The labels {num} and {inf_elem} are placeholders, which stand for:
     <tr>
       <td>lem_full_bc</td>
       <td><code>str</code></td>
-      <td>(:lem) Full lemma in betacode</td>
+      <td>(:lem) Full lemma in betacode (incl. homonym or pl marker)</td>
       <td><code>*bi/blos</code> <code>ge/nesis</code></td>
     </tr>
     <tr>
       <td>lem_full_uc</td>
       <td><code>str</code></td>
-      <td>(:lem) Full lemma in unicode</td>
+      <td>(:lem) Full lemma in unicode (incl. homonym or pl marker)</td>
       <td><code>Βίβλος</code> <code>γένεσις</code></td>
     </tr>
     <tr>
       <td>lem_homonym</td>
       <td><code>str</code></td>
-      <td>(:lem) Homonym of the lemma</td>
+      <td>(:lem) Set to '1' if this is a homonym lemma</td>
       <td><code>1</code> &lt;empty&gt;</td>
     </tr>
     <tr>
       <td>lem_pl_suffix</td>
       <td><code>str</code></td>
-      <td>(:lem) PL suffix of lemma</td>
+      <td>(:lem) PL suffix of lemma (if '1' often proper or geographic name) </td>
       <td><code>1</code> &lt;empty&gt;</td>
     </tr>
     <tr>
@@ -185,7 +185,7 @@ The labels {num} and {inf_elem} are placeholders, which stand for:
     <tr>
       <td>end_flags</td>
       <td><code>str</code></td>
-      <td>(:end)list of flags for ending</td>
+      <td>(:end)list of flags for ending (mainly additional morphological properties)</td>
       <td><code>nu_movable</code> <code>contr</code></td>
     </tr>
     <tr>
@@ -197,14 +197,14 @@ The labels {num} and {inf_elem} are placeholders, which stand for:
     <tr>
       <td>stem_flags</td>
       <td><code>str</code></td>
-      <td>(:stem) listed morph flags for stem</td>
+      <td>(:stem) listed morph flags for stem (mainly additional morphological properties)</td>
       <td><code>..</code> <code>indeclform</code></td>
     </tr> 
     <tr>
       <td rowspan="2">Derived</td>
       <td>morph</td>
       <td><code>str</code></td>
-      <td>List of derived morphtag(s)</td>
+      <td>Slash separated list of derived morphtag(s) following Sandborg-Petersen morphology (allowing for comparing with N1904-TF)</td>
       <td><code>V-AAI-3S</code> <code>N-NDF/N-VDF/N-ADF</code></td>
     </tr>
     <tr>
