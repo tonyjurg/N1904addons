@@ -154,14 +154,14 @@ The labels {num} and {inf_elem} are placeholders, which stand for:
     <tr>
       <td>prvb_list_uc</td>
       <td><code>str</code></td>
-      <td>List of prepositions in unicode</td>
-      <td><code>meta//a)na/</code> <code>su/n</code></td>
+      <td>Space separated list of prepositions in unicode</td>
+      <td><code>meta/ a)na/</code> <code>su/n</code></td>
     </tr>
     <tr>
       <td>prvb_list_bc</td>
       <td><code>str</code></td>
-      <td>List of prepositions in unicode</td>
-      <td><code>ἐκ/ἐπί</code> <code>πρός</code></td>
+      <td>Space separated list of prepositions in unicode</td>
+      <td><code>ἐκ ἐπί</code> <code>πρός</code></td>
     </tr>
     <tr>
       <td rowspan="2">Derived</td>
