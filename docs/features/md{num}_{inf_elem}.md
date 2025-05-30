@@ -95,25 +95,25 @@ The labels {num} and {inf_elem} are placeholders, which stand for:
       <td>aug1_bc</td>
       <td><code>str</code></td>
       <td>Augment in betacode</td>
-      <td>—</td>
+      <td><code>i)>ei)</code> <code>a)>h)</code></td>
     </tr>
     <tr>
       <td>aug1_uc</td>
       <td><code>str</code></td>
       <td>Augment in unicode</td>
-      <td>—</td>
+      <td><code>ἰ>εἰ</code> <code>ἐ>ἠ</code></td>
     </tr>
     <tr>
       <td>ending_bc</td>
       <td><code>str</code></td>
       <td>Wordform ending in betacode</td>
-      <td>—</td>
+      <td><code>ous</code> <code>ws</code></td>
     </tr>
     <tr>
       <td>ending_uc</td>
       <td><code>str</code></td>
       <td>Wordform ending in unicode</td>
-      <td>—</td>
+      <td><code>ες</code> <code>να</code></td>
     </tr>
     <tr>
       <td>lem_base_bc</td>
@@ -155,13 +155,13 @@ The labels {num} and {inf_elem} are placeholders, which stand for:
       <td>prvb_list_uc</td>
       <td><code>str</code></td>
       <td>List of prepositions in unicode</td>
-      <td></td>
+      <td><code>meta//a)na/</code> <code>su/n</code></td>
     </tr>
     <tr>
       <td>prvb_list_bc</td>
       <td><code>str</code></td>
       <td>List of prepositions in unicode</td>
-      <td><code>1</code> &lt;empty&gt;</td>
+      <td><code>ἐκ/ἐπί</code> <code>πρός</code></td>
     </tr>
     <tr>
       <td rowspan="2">Derived</td>
