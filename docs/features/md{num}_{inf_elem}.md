@@ -94,13 +94,13 @@ The labels {num} and {inf_elem} are placeholders, which stand for:
       <td rowspan="14">Wordform</td>
       <td>aug1_bc</td>
       <td><code>str</code></td>
-      <td>(:aug) Augment in betacode</td>
+      <td>(:aug) Augment mapping in betacode</td>
       <td><code>i)>ei)</code> <code>a)>h)</code></td>
     </tr>
     <tr>
       <td>aug1_uc</td>
       <td><code>str</code></td>
-      <td>(:aug) Augment in unicode</td>
+      <td>(:aug) Augment mapping in unicode</td>
       <td><code>ἰ>εἰ</code> <code>ἐ>ἠ</code></td>
     </tr>
     <tr>
@@ -179,7 +179,7 @@ The labels {num} and {inf_elem} are placeholders, which stand for:
      <td rowspan="4">Codes and flags</td>
       <td>end_codes</td>
       <td><code>str</code></td>
-      <td>(:end) list of codes for einding</td>
+      <td>(:end) list of codes for ending (mainly references to endtables in stemlib)</td>
       <td><code>os_ou</code> <code>os_ou/os_ou</code></td>
     </tr>
     <tr>
@@ -191,7 +191,7 @@ The labels {num} and {inf_elem} are placeholders, which stand for:
     <tr>
       <td>stem_codes</td>
       <td><code>str</code></td>
-      <td>(:stem) listed morph codes for stem</td>
+      <td>(:stem) listed morph codes for stem  (mainly references to endtables in stemlib)</td>
       <td><code>os_h_on</code> <code>aor1/aw_denom</code></td>
     </tr>
     <tr>
