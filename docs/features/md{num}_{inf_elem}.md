@@ -10,7 +10,7 @@ Value for property {inf_elem} reported by Morpheus analysis block #{num}.
 
 ## Feature names and values
 
-This page documents **over 600** Text-Fabric features named like `md3_case`, `md1_gender` or `md21_morph_flags`. 
+This page documents **about 700** Text-Fabric features named like `md3_case`, `md1_gender` or `md21_morph_flags`. 
 
 The labels {num} and {inf_elem} are placeholders, which stand for:
  - `{num}`: The sequence number of a Morpheus analysis block, ranging from 1 to 24 (the maximum number of returned analysis blocks).
