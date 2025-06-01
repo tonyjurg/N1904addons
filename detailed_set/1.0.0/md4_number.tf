@@ -11,14 +11,12 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-05-29T14:49:05+00:00Z
+@dateWritten=2025-06-01T21:37:18+00:00Z
 
 4	sg
 sg
 7	sg
 99	sg
-154	sg
-sg
 238	sg
 pl
 253	pl
@@ -26,68 +24,73 @@ pl
 271	pl
 273	sg
 279	sg
-sg
 283	sg
 288	pl
 322	sg
 324	sg
-329	sg
+329	pl
 339	sg
 360	sg
-366	pl
+366	sg
 370	sg
 375	pl
 377	sg
-sg
+dual
 382	sg
-sg
 387	sg
 392	pl
 399	sg
-401	pl
+401	sg
 410	sg
 417	sg
 427	pl
 450	sg
+455	sg
 475	sg
-477	pl
+477	sg
 484	sg
-504	pl
-515	sg
+504	sg
+515	dual
+518	sg
 522	dual
-525	sg
 529	dual
 531	sg
+559	sg
 561	sg
 563	pl
 sg
 574	sg
 576	sg
-578	pl
+578	sg
 585	sg
 595	pl
 598	sg
-600	sg
+sg
+sg
 610	sg
+613	sg
 620	pl
 640	pl
 650	sg
 sg
+653	sg
 655	sg
 657	pl
 660	sg
 662	sg
-668	sg
+668	pl
+679	sg
 684	pl
 686	sg
 sg
+710	sg
 713	sg
 715	pl
 717	sg
 722	pl
 724	sg
-sg
-737	sg
+dual
+737	pl
 739	sg
 742	sg
 744	sg
@@ -97,37 +100,26321 @@ sg
 769	pl
 771	sg
 775	pl
-sg
+dual
 790	dual
 dual
 805	sg
 807	sg
-815	sg
-831	pl
+815	pl
+826	sg
+831	sg
 834	sg
-852	pl
-873	dual
+849	sg
+852	sg
+872	sg
+dual
 876	pl
+880	sg
 887	pl
-sg
-890	dual
-909	sg
+dual
+890	sg
+909	pl
 pl
-913	sg
-sg
+914	dual
 916	sg
-922	sg
+922	dual
 935	sg
 sg
 pl
 950	sg
 957	sg
-959	sg
 961	sg
 sg
 967	sg
 974	sg
-sg
 978	sg
+995	pl
+1006	sg
+1012	pl
+1017	sg
+1021	sg
+1023	sg
+1034	sg
+1036	pl
+1038	sg
+1043	sg
+1057	sg
+1063	pl
+1065	sg
+1068	sg
+1077	sg
+1081	sg
+1091	dual
+1093	pl
+1096	sg
+1104	sg
+1110	sg
+1112	sg
+1115	sg
+1119	sg
+1124	sg
 sg
-995	sg
+1134	pl
+1149	pl
+1152	sg
+1154	sg
+1165	sg
+1171	pl
+1173	pl
+1175	sg
+1178	sg
+1190	sg
+1192	sg
+sg
+1197	sg
+pl
+1205	sg
+1209	sg
+dual
+1224	sg
+sg
+1227	sg
+1234	sg
+1237	sg
+1248	sg
+1250	sg
+1254	sg
+sg
+1257	sg
+sg
+1265	sg
+1279	dual
+1281	sg
+1287	sg
+1298	sg
+1300	sg
+1302	sg
+1306	sg
+1309	sg
+1316	sg
+1318	sg
+1321	sg
+pl
+1331	sg
+1339	sg
+sg
+1342	sg
+sg
+1349	sg
+1352	sg
+1356	sg
+1358	sg
+1363	sg
+1366	sg
+1369	sg
+1372	sg
+1377	sg
+1385	sg
+1387	sg
+sg
+sg
+1393	pl
+1395	sg
+1400	sg
+1404	sg
+1406	sg
+1412	sg
+1414	pl
+1416	sg
+1421	sg
+1426	sg
+1433	pl
+dual
+1446	pl
+1449	dual
+1457	pl
+1465	sg
+1467	sg
+sg
+1480	pl
+1484	dual
+1486	sg
+1489	pl
+1493	pl
+1499	sg
+1508	sg
+1513	sg
+1515	sg
+1518	sg
+1521	sg
+1523	sg
+1525	sg
+1529	dual
+1533	sg
+1558	dual
+1564	sg
+1576	sg
+1579	sg
+1581	pl
+1590	sg
+1592	pl
+1595	sg
+1598	sg
+1608	sg
+1611	pl
+1639	pl
+1647	pl
+1650	pl
+1655	sg
+1663	sg
+sg
+1667	sg
+1673	pl
+sg
+sg
+1683	dual
+1685	sg
+1687	sg
+1693	sg
+1697	pl
+1701	sg
+1711	sg
+1717	sg
+1720	sg
+1724	sg
+1727	sg
+1731	sg
+sg
+1735	sg
+1743	dual
+1745	sg
+1756	sg
+1761	sg
+1764	pl
+1772	sg
+1784	pl
+1787	sg
+1790	pl
+1795	sg
+1799	sg
+1802	sg
+1814	sg
+1817	sg
+1832	sg
+1851	dual
+sg
+1862	sg
+1867	sg
+1875	sg
+sg
+1878	sg
+1880	sg
+pl
+pl
+1901	pl
+1906	sg
+1908	sg
+1916	sg
+1924	pl
+1926	sg
+1930	sg
+1932	sg
+1938	pl
+1940	sg
+sg
+1943	pl
+1945	sg
+1947	sg
+1951	sg
+1959	sg
+1961	pl
+1963	sg
+1974	sg
+1981	sg
+pl
+1997	sg
+2009	sg
+2013	sg
+2018	sg
+2023	sg
+2027	sg
+2032	sg
+sg
+2036	sg
+2041	sg
+2047	sg
+2051	sg
+2058	sg
+2060	sg
+2063	sg
+2065	pl
+2085	sg
+2087	sg
+2090	sg
+sg
+sg
+2097	pl
+2101	dual
+2110	sg
+pl
+2119	sg
+2126	sg
+2128	sg
+2132	sg
+2142	sg
+2145	sg
+2147	sg
+2151	sg
+2154	sg
+2157	sg
+2159	sg
+2162	sg
+2164	dual
+sg
+2174	sg
+2177	sg
+2179	sg
+2183	sg
+2186	sg
+2189	sg
+sg
+2197	sg
+2201	dual
+2203	sg
+2206	sg
+pl
+2211	sg
+2216	sg
+2218	sg
+2223	sg
+2234	sg
+sg
+2238	sg
+2241	sg
+2244	sg
+pl
+2257	sg
+2266	sg
+2269	sg
+2276	sg
+2281	sg
+2291	pl
+2297	sg
+sg
+2321	sg
+pl
+2331	sg
+2335	sg
+2344	sg
+2349	sg
+2359	sg
+2372	sg
+2374	sg
+2381	sg
+2383	sg
+sg
+2389	sg
+2392	sg
+pl
+pl
+2399	pl
+2406	sg
+2412	sg
+2421	sg
+2425	sg
+2428	sg
+2434	pl
+2439	sg
+2443	pl
+2445	sg
+2453	pl
+2456	sg
+2460	pl
+sg
+2464	sg
+2487	sg
+2493	pl
+2500	sg
+2503	pl
+2508	sg
+2510	sg
+2512	pl
+2525	sg
+sg
+pl
+2532	sg
+2537	sg
+2540	sg
+2542	sg
+2544	dual
+sg
+2548	sg
+2557	sg
+2563	sg
+sg
+sg
+2569	sg
+2571	sg
+2574	pl
+2583	sg
+2587	pl
+2590	sg
+sg
+pl
+2601	sg
+sg
+2605	sg
+2607	sg
+2609	sg
+sg
+2614	sg
+2622	sg
+2628	sg
+sg
+2635	sg
+2637	pl
+2664	pl
+2667	sg
+2671	sg
+2675	sg
+2678	dual
+sg
+2682	pl
+sg
+2692	sg
+2696	pl
+2700	pl
+dual
+2703	sg
+2710	sg
+2714	sg
+sg
+2717	sg
+sg
+sg
+2723	sg
+2728	dual
+2731	sg
+2733	pl
+2739	sg
+2749	sg
+dual
+2759	sg
+2764	dual
+sg
+2768	pl
+2772	sg
+sg
+pl
+2783	sg
+2789	sg
+sg
+2793	sg
+2797	sg
+2800	sg
+2808	sg
+2814	sg
+sg
+2818	pl
+2824	pl
+2831	pl
+2836	pl
+2842	pl
+2850	pl
+2858	sg
+2863	sg
+sg
+2872	sg
+2877	sg
+sg
+sg
+2882	sg
+2885	sg
+2889	sg
+2892	sg
+2895	sg
+2898	sg
+2904	sg
+2909	sg
+2911	sg
+pl
+sg
+2918	sg
+sg
+2923	sg
+2930	sg
+2937	pl
+2939	sg
+pl
+2942	pl
+2944	sg
+2959	sg
+sg
+2963	pl
+2970	sg
+dual
+2974	sg
+2977	pl
+2981	pl
+sg
+sg
+2990	sg
+3001	sg
+sg
+3009	sg
+3014	pl
+3016	dual
+3019	sg
+3023	pl
+3026	sg
+3028	pl
+3033	sg
+3035	sg
+3041	sg
+3046	sg
+3051	sg
+3078	dual
+3080	pl
+3089	pl
+3092	pl
+3094	sg
+3096	pl
+3105	pl
+3109	sg
+3115	sg
+3119	pl
+3124	pl
+3127	pl
+3132	pl
+3138	pl
+3140	pl
+3152	sg
+3161	sg
+3164	sg
+3167	sg
+3169	sg
+3175	sg
+3177	sg
+3183	sg
+sg
+3186	sg
+3190	sg
+3204	sg
+3206	pl
+3221	pl
+3231	pl
+3234	pl
+pl
+3241	pl
+3249	dual
+3262	sg
+3269	sg
+3274	sg
+3277	sg
+3279	sg
+3284	pl
+3289	sg
+3299	sg
+sg
+3308	sg
+3311	sg
+pl
+sg
+sg
+3318	pl
+3326	sg
+sg
+3329	dual
+3334	dual
+3342	dual
+sg
+3349	sg
+3362	dual
+sg
+3367	sg
+3369	sg
+3382	dual
+3386	sg
+3390	sg
+3394	sg
+pl
+3398	sg
+3402	sg
+3407	sg
+3409	sg
+3414	sg
+3416	sg
+3418	sg
+3421	sg
+3427	sg
+3433	pl
+3435	sg
+3438	sg
+3444	sg
+3451	pl
+3453	sg
+sg
+3456	sg
+3458	pl
+3460	sg
+3463	sg
+3465	sg
+3472	sg
+3474	pl
+3479	pl
+sg
+sg
+3491	dual
+3502	sg
+3508	pl
+3510	sg
+sg
+3524	sg
+3543	sg
+sg
+3547	sg
+sg
+3550	pl
+3556	sg
+3572	sg
+3591	sg
+sg
+3595	sg
+sg
+3603	sg
+3605	sg
+3610	sg
+3620	sg
+3626	sg
+3631	sg
+sg
+3636	sg
+3650	sg
+3655	pl
+sg
+sg
+3668	pl
+3676	dual
+3678	sg
+3682	sg
+3685	sg
+3692	sg
+3698	sg
+sg
+3704	sg
+3712	pl
+sg
+3722	pl
+3724	sg
+3728	sg
+3735	sg
+3745	sg
+3747	sg
+3760	sg
+sg
+3766	sg
+3772	sg
+3783	sg
+sg
+3790	sg
+3793	sg
+sg
+pl
+3803	pl
+sg
+3806	pl
+3813	pl
+3824	pl
+3826	sg
+sg
+3829	sg
+3831	pl
+3833	sg
+3848	sg
+3852	sg
+3857	sg
+3866	sg
+3870	sg
+3873	sg
+3887	sg
+3894	sg
+3896	pl
+3905	dual
+3917	pl
+dual
+3926	sg
+3932	pl
+3941	sg
+3943	pl
+sg
+3948	sg
+3951	sg
+sg
+3954	sg
+3957	sg
+3966	dual
+3969	sg
+sg
+3975	sg
+3977	sg
+3981	sg
+3986	sg
+3988	sg
+3991	sg
+4001	sg
+4003	sg
+4008	sg
+4012	sg
+sg
+4016	sg
+4021	sg
+sg
+4025	sg
+4038	sg
+4047	sg
+4051	sg
+4054	sg
+4061	sg
+4067	pl
+4069	sg
+4071	sg
+4079	sg
+sg
+4086	sg
+4089	sg
+4091	pl
+sg
+4094	sg
+4106	sg
+4110	pl
+4112	dual
+4114	sg
+4117	sg
+sg
+4121	pl
+4123	sg
+4126	sg
+4130	sg
+4132	sg
+sg
+4135	pl
+4142	sg
+4148	sg
+4150	sg
+4152	sg
+sg
+4159	sg
+4161	pl
+sg
+4166	sg
+4170	sg
+4172	sg
+4178	sg
+4186	sg
+4192	sg
+4198	dual
+4202	sg
+sg
+4207	sg
+sg
+4216	sg
+4219	sg
+4221	sg
+sg
+sg
+4225	sg
+4228	sg
+4232	sg
+sg
+4241	pl
+4247	sg
+4250	sg
+4253	sg
+4257	sg
+sg
+4265	sg
+4271	sg
+4273	sg
+4276	pl
+dual
+4288	sg
+4295	sg
+4300	sg
+sg
+4305	sg
+4312	sg
+4316	sg
+sg
+4319	sg
+4322	sg
+4325	sg
+4329	sg
+4335	sg
+4341	sg
+4343	pl
+sg
+4348	sg
+sg
+4358	sg
+4360	sg
+4362	sg
+4364	sg
+4370	sg
+4378	sg
+4393	sg
+4395	sg
+4399	pl
+4412	sg
+sg
+4417	sg
+4421	sg
+4429	sg
+4433	sg
+4438	sg
+sg
+4444	sg
+sg
+4448	pl
+4452	sg
+4455	sg
+4457	sg
+sg
+4462	sg
+4468	sg
+sg
+4482	sg
+4491	pl
+4516	pl
+sg
+4520	sg
+4524	sg
+sg
+4531	sg
+sg
+4534	sg
+4537	pl
+sg
+4548	sg
+pl
+4554	pl
+4561	sg
+4566	sg
+4578	sg
+sg
+4581	sg
+sg
+4595	sg
+4599	sg
+4609	sg
+4611	pl
+4613	sg
+sg
+4618	sg
+4622	sg
+4633	sg
+4639	pl
+4641	sg
+4646	sg
+pl
+4653	sg
+4677	sg
+4682	sg
+4689	sg
+4693	sg
+sg
+4699	sg
+4704	sg
+sg
+4707	sg
+4716	pl
+4718	sg
+sg
+4725	pl
+4731	pl
+4735	sg
+4742	pl
+pl
+4746	sg
+4752	sg
+4759	sg
+4773	sg
+4782	sg
+4785	sg
+4788	sg
+4790	pl
+4792	dual
+dual
+sg
+4799	pl
+sg
+4812	sg
+4814	pl
+4817	sg
+4820	sg
+4822	pl
+4840	sg
+4848	sg
+4851	sg
+4855	sg
+4859	sg
+4861	sg
+4865	sg
+4869	sg
+4873	sg
+sg
+4881	sg
+4884	sg
+4890	dual
+4917	sg
+4947	pl
+sg
+4954	sg
+4963	dual
+4965	dual
+4976	dual
+4978	sg
+4981	sg
+pl
+4985	dual
+4990	sg
+4992	pl
+4998	sg
+5003	pl
+sg
+5018	pl
+5020	sg
+5028	pl
+5034	sg
+5036	pl
+5041	sg
+5047	sg
+5052	sg
+5059	sg
+5063	sg
+5074	sg
+5077	sg
+5082	sg
+5089	pl
+5093	sg
+5095	sg
+sg
+pl
+5105	pl
+5109	sg
+5111	sg
+5119	sg
+5124	sg
+5127	sg
+5136	pl
+5139	sg
+sg
+5146	pl
+5156	sg
+sg
+sg
+5165	pl
+5175	pl
+5186	sg
+5188	sg
+5195	pl
+5197	pl
+sg
+5202	sg
+5211	sg
+5213	pl
+5216	sg
+5220	dual
+5227	sg
+5237	sg
+5240	sg
+5243	sg
+5245	sg
+pl
+5251	pl
+5254	pl
+5259	sg
+5270	sg
+5286	sg
+5288	sg
+5310	pl
+5315	sg
+pl
+5319	pl
+5326	sg
+5329	pl
+5333	sg
+5336	pl
+5344	sg
+5348	pl
+5354	sg
+5362	sg
+5374	sg
+5390	pl
+5392	sg
+5398	sg
+5400	sg
+5404	sg
+sg
+5415	sg
+5425	sg
+5434	sg
+5448	sg
+5452	pl
+5468	pl
+5473	sg
+sg
+5478	sg
+5490	sg
+5508	sg
+sg
+5518	sg
+5520	sg
+5526	sg
+5529	sg
+sg
+5548	sg
+5557	sg
+sg
+5560	sg
+5562	sg
+5566	sg
+sg
+sg
+5570	pl
+5575	sg
+5578	sg
+sg
+pl
+5583	sg
+5587	sg
+5611	sg
+5615	dual
+5618	sg
+5620	dual
+5624	sg
+5632	pl
+5637	sg
+5642	dual
+pl
+5646	sg
+5649	sg
+pl
+sg
+5657	sg
+5666	sg
+5670	sg
+5684	sg
+5686	sg
+5690	sg
+5692	sg
+5698	sg
+5700	sg
+sg
+dual
+5710	sg
+5715	sg
+sg
+pl
+5726	sg
+5733	sg
+sg
+5736	sg
+5739	sg
+5741	sg
+sg
+sg
+pl
+5749	sg
+5759	pl
+5761	sg
+5772	pl
+5775	dual
+5777	sg
+5780	sg
+5785	sg
+sg
+5790	pl
+5794	sg
+5804	sg
+5809	sg
+5813	pl
+5820	sg
+sg
+5824	pl
+5826	pl
+5840	sg
+5842	pl
+sg
+sg
+5849	sg
+5852	sg
+5854	pl
+sg
+5859	sg
+5876	pl
+5888	sg
+5891	sg
+5894	sg
+5905	pl
+5914	sg
+pl
+5922	pl
+5925	pl
+5930	pl
+sg
+5933	pl
+5935	sg
+5937	sg
+5946	sg
+5953	sg
+pl
+5961	pl
+5964	sg
+5972	sg
+5974	sg
+5976	sg
+5978	sg
+5986	sg
+5988	sg
+5993	sg
+6001	sg
+6014	sg
+6023	sg
+6029	sg
+6038	sg
+6042	sg
+sg
+6045	pl
+6054	sg
+6061	sg
+6088	dual
+6091	sg
+6093	sg
+6102	sg
+6108	sg
+sg
+sg
+sg
+pl
+6121	sg
+6131	sg
+6136	sg
+6140	sg
+6150	sg
+6157	sg
+6160	sg
+sg
+6171	sg
+6175	sg
+6182	sg
+6184	pl
+6187	sg
+6191	sg
+6196	sg
+6200	sg
+6206	sg
+6214	sg
+sg
+sg
+6219	sg
+6224	sg
+6227	sg
+pl
+6233	sg
+6243	sg
+6251	sg
+dual
+6255	sg
+6260	sg
+6263	sg
+6276	pl
+6279	sg
+6282	sg
+sg
+6290	sg
+6293	sg
+6296	sg
+6324	sg
+6330	pl
+dual
+6336	sg
+6348	sg
+6360	sg
+6362	sg
+6364	sg
+6366	sg
+6377	sg
+6382	sg
+pl
+6385	sg
+sg
+6415	sg
+6418	sg
+sg
+6425	sg
+6429	sg
+6433	dual
+dual
+sg
+6440	sg
+6442	pl
+6446	sg
+6448	sg
+6450	sg
+dual
+6457	sg
+6467	sg
+6480	dual
+6483	sg
+6488	dual
+dual
+sg
+sg
+6496	dual
+6499	sg
+6502	sg
+6506	sg
+6509	dual
+dual
+6516	dual
+6518	sg
+6521	sg
+6524	sg
+6528	sg
+6530	dual
+6533	pl
+sg
+6536	sg
+sg
+6545	sg
+6550	sg
+6552	sg
+6557	sg
+6559	sg
+6561	pl
+6563	sg
+pl
+sg
+pl
+6581	sg
+sg
+6586	sg
+6588	sg
+6594	sg
+6616	sg
+6621	sg
+6635	sg
+6652	sg
+6655	sg
+6661	sg
+6674	dual
+sg
+6677	pl
+6681	sg
+6683	pl
+sg
+sg
+pl
+6691	pl
+6696	sg
+sg
+6702	sg
+sg
+6708	sg
+6717	sg
+6723	sg
+6726	dual
+6730	sg
+6736	sg
+6745	sg
+6753	sg
+6762	sg
+6765	sg
+6769	sg
+6784	pl
+6788	sg
+6793	sg
+sg
+6808	sg
+6814	pl
+6817	pl
+6822	sg
+sg
+6834	sg
+6838	sg
+pl
+6845	sg
+sg
+6850	sg
+6854	sg
+6874	sg
+6878	dual
+sg
+6881	sg
+sg
+sg
+6885	pl
+6893	pl
+6899	sg
+6903	sg
+6907	sg
+6911	sg
+6915	sg
+6918	sg
+6920	sg
+6922	sg
+sg
+6926	sg
+6931	sg
+6933	pl
+6941	sg
+6943	sg
+6953	sg
+6955	sg
+sg
+6961	sg
+6967	sg
+6969	sg
+6975	sg
+6986	pl
+6994	pl
+6998	pl
+7005	sg
+7007	pl
+7023	pl
+sg
+7027	sg
+7035	sg
+7037	sg
+pl
+7043	dual
+7047	sg
+7049	sg
+7051	dual
+7061	dual
+7067	sg
+7072	dual
+7078	sg
+7080	sg
+7091	sg
+7093	sg
+7112	sg
+7115	sg
+7117	sg
+sg
+7121	pl
+7130	sg
+7132	pl
+7135	dual
+7138	pl
+7140	sg
+7147	sg
+7155	sg
+7158	sg
+7162	dual
+7167	sg
+7177	pl
+7185	dual
+7191	pl
+7198	pl
+7202	sg
+7227	sg
+sg
+7232	sg
+7237	sg
+7242	dual
+7247	sg
+7249	sg
+pl
+7253	sg
+7255	sg
+7258	dual
+7264	pl
+dual
+pl
+7282	pl
+7292	sg
+7295	sg
+7300	pl
+7307	dual
+7323	sg
+7328	sg
+7336	dual
+7343	sg
+7355	sg
+7360	sg
+7363	sg
+7383	sg
+7385	sg
+sg
+7388	sg
+7402	pl
+7405	dual
+7407	sg
+7409	pl
+sg
+7427	sg
+7429	sg
+7432	sg
+7446	dual
+7450	sg
+sg
+7454	sg
+7456	sg
+7458	sg
+7460	sg
+7467	sg
+7477	sg
+7479	sg
+7481	pl
+7494	dual
+7496	pl
+dual
+7504	pl
+7512	sg
+7515	pl
+sg
+dual
+7520	pl
+7522	sg
+7532	sg
+7540	pl
+pl
+7544	dual
+7546	sg
+7552	sg
+7558	sg
+7576	dual
+7579	sg
+7590	pl
+7593	dual
+7595	sg
+7601	sg
+7604	sg
+pl
+7608	sg
+7620	sg
+7627	pl
+dual
+7632	sg
+7641	sg
+7647	sg
+7650	sg
+7653	sg
+sg
+7657	sg
+pl
+7664	sg
+7668	sg
+7670	sg
+7672	sg
+7678	sg
+7687	sg
+7691	sg
+sg
+7694	pl
+dual
+7699	sg
+sg
+7707	pl
+7718	sg
+7720	sg
+7726	dual
+7735	sg
+7742	sg
+7747	pl
+7750	pl
+7753	dual
+7761	pl
+7763	sg
+7778	sg
+sg
+pl
+7786	pl
+7791	sg
+7794	pl
+7797	dual
+7799	sg
+7814	sg
+7816	sg
+7818	sg
+7825	pl
+7828	dual
+7830	sg
+7837	sg
+7849	pl
+7852	dual
+7854	sg
+7857	sg
+7875	dual
+sg
+sg
+7879	dual
+7882	sg
+7888	sg
+7892	sg
+7895	pl
+7899	sg
+7901	sg
+7903	pl
+7905	sg
+7922	pl
+7924	sg
+7927	sg
+7929	pl
+7935	pl
+7937	sg
+sg
+7941	sg
+7951	sg
+7964	sg
+8001	sg
+8018	sg
+8032	sg
+8038	sg
+8054	dual
+8070	sg
+8083	sg
+8085	dual
+8089	pl
+8103	dual
+8107	sg
+8111	sg
+8118	sg
+8152	sg
+8157	sg
+8161	dual
+8181	dual
+8214	sg
+sg
+8217	pl
+8228	sg
+8236	sg
+sg
+8243	sg
+8250	sg
+sg
+8265	pl
+8270	sg
+sg
+8288	sg
+8297	sg
+8303	sg
+8307	sg
+8309	pl
+8314	sg
+8320	sg
+8323	sg
+8329	pl
+8343	sg
+8345	sg
+8350	pl
+8356	sg
+8358	sg
+8367	pl
+8369	pl
+8375	sg
+8383	sg
+8385	pl
+sg
+8390	sg
+8392	sg
+8398	sg
+8400	pl
+pl
+8403	sg
+8411	sg
+8417	pl
+8421	sg
+8436	sg
+sg
+8454	sg
+8456	sg
+8462	pl
+8472	sg
+8479	pl
+pl
+8484	pl
+8490	sg
+sg
+sg
+8501	dual
+8505	sg
+sg
+8508	sg
+8515	dual
+8531	pl
+sg
+8545	sg
+8548	sg
+8552	pl
+8554	sg
+8560	sg
+8569	sg
+8572	sg
+pl
+8578	sg
+8583	sg
+8587	sg
+8589	sg
+8615	pl
+8626	pl
+8628	sg
+sg
+sg
+8647	sg
+8649	pl
+8657	sg
+dual
+8665	sg
+sg
+8682	pl
+8685	sg
+8693	sg
+8695	sg
+8699	sg
+8712	sg
+dual
+8718	pl
+8723	pl
+8730	sg
+8733	sg
+8736	sg
+8738	sg
+8747	sg
+8751	sg
+8753	pl
+8755	pl
+8759	sg
+8762	sg
+8765	sg
+8767	sg
+8772	sg
+8777	sg
+sg
+pl
+8783	sg
+8792	sg
+sg
+8806	sg
+8809	sg
+8813	sg
+8816	sg
+8823	sg
+8826	pl
+8831	sg
+8838	pl
+8842	sg
+sg
+8846	sg
+8849	sg
+8851	sg
+8854	dual
+8856	sg
+8862	sg
+8865	sg
+8871	sg
+8875	sg
+8883	dual
+8893	sg
+8896	sg
+8902	sg
+dual
+8905	dual
+8909	sg
+8911	sg
+8914	sg
+pl
+8918	dual
+sg
+8921	sg
+8937	sg
+sg
+8948	sg
+8952	sg
+8954	pl
+sg
+8957	sg
+dual
+8960	dual
+8969	dual
+sg
+sg
+8976	sg
+8979	sg
+8984	sg
+8991	sg
+sg
+8996	dual
+9008	pl
+9014	sg
+9019	sg
+9023	sg
+9035	sg
+sg
+9041	pl
+9045	pl
+9047	sg
+sg
+9071	pl
+9081	pl
+9096	sg
+9103	sg
+9105	sg
+9112	sg
+9114	pl
+9134	pl
+9136	sg
+sg
+9139	pl
+9145	pl
+9149	sg
+9153	sg
+9156	sg
+9177	sg
+9185	sg
+9187	sg
+9197	pl
+9200	pl
+9204	sg
+9211	sg
+9213	pl
+sg
+9219	sg
+9224	sg
+dual
+sg
+9228	sg
+9230	sg
+9240	sg
+9246	sg
+9248	pl
+9250	pl
+sg
+9259	sg
+9269	sg
+9272	dual
+9276	sg
+9280	dual
+9284	sg
+9290	sg
+9296	sg
+9299	sg
+9301	sg
+sg
+sg
+9305	pl
+9312	sg
+9314	pl
+9324	sg
+9338	sg
+9340	pl
+9349	pl
+9358	sg
+9368	sg
+9373	pl
+9377	sg
+pl
+pl
+9393	sg
+9399	sg
+sg
+9412	sg
+dual
+9417	sg
+9420	sg
+9422	pl
+sg
+pl
+sg
+sg
+9431	sg
+sg
+9435	sg
+9440	sg
+9447	sg
+9449	sg
+sg
+9454	pl
+9456	pl
+9462	sg
+9470	sg
+9477	sg
+9489	sg
+9497	sg
+sg
+9500	sg
+sg
+9511	sg
+9514	sg
+9519	pl
+9522	sg
+9526	pl
+9528	sg
+9531	sg
+9540	sg
+9543	sg
+9552	sg
+9575	sg
+9577	sg
+9587	pl
+9594	sg
+pl
+9603	sg
+9605	pl
+9607	sg
+sg
+9612	sg
+9616	sg
+sg
+9621	sg
+9626	sg
+9629	pl
+dual
+9632	sg
+sg
+dual
+9640	sg
+9647	sg
+9662	sg
+9665	sg
+9668	sg
+9673	sg
+9675	sg
+9678	sg
+sg
+9685	sg
+9688	sg
+sg
+9692	sg
+9697	sg
+9708	sg
+9712	sg
+9718	sg
+9722	sg
+9728	sg
+sg
+pl
+9733	sg
+9741	sg
+pl
+9748	sg
+9752	pl
+9754	sg
+9756	sg
+9773	sg
+9790	dual
+9795	sg
+9800	sg
+9813	sg
+9816	sg
+sg
+9819	sg
+9822	sg
+9824	sg
+9827	sg
+sg
+9839	sg
+9845	sg
+9850	dual
+9861	pl
+9865	sg
+sg
+pl
+9873	sg
+9881	sg
+9885	pl
+sg
+9893	sg
+9898	sg
+9908	pl
+9913	pl
+9918	sg
+9920	sg
+9922	sg
+9925	sg
+sg
+9930	sg
+9932	pl
+9935	sg
+9937	sg
+9941	sg
+9946	sg
+9948	sg
+9950	pl
+9960	pl
+9970	sg
+9977	sg
+sg
+9984	sg
+9986	sg
+9997	pl
+sg
+sg
+10007	sg
+10011	sg
+10016	sg
+10024	sg
+10034	sg
+10040	pl
+sg
+10045	pl
+sg
+sg
+10063	sg
+10074	sg
+sg
+10080	sg
+pl
+10090	sg
+10092	pl
+10096	sg
+10098	sg
+pl
+sg
+pl
+10106	pl
+10108	sg
+10110	sg
+sg
+10114	sg
+10117	sg
+pl
+10124	pl
+sg
+10133	sg
+10135	sg
+10143	sg
+pl
+10148	sg
+10152	sg
+10155	sg
+dual
+10167	sg
+10169	sg
+sg
+10173	sg
+10180	pl
+10182	sg
+sg
+10185	sg
+10190	sg
+10192	sg
+10197	sg
+10202	sg
+10207	sg
+10213	sg
+10215	sg
+sg
+10223	sg
+10229	pl
+sg
+10232	sg
+10234	sg
+10238	pl
+10245	sg
+10247	sg
+10253	sg
+sg
+10264	pl
+10266	sg
+10276	sg
+sg
+sg
+pl
+sg
+10282	pl
+10286	dual
+sg
+10291	sg
+10293	pl
+10295	sg
+10298	sg
+10310	pl
+10312	sg
+10315	sg
+sg
+10329	sg
+sg
+10332	pl
+10336	sg
+10364	dual
+10375	sg
+10379	sg
+10383	sg
+10391	sg
+sg
+sg
+10396	sg
+10410	sg
+10414	sg
+10416	sg
+10419	sg
+10427	sg
+sg
+sg
+10432	sg
+10441	sg
+10446	pl
+10448	pl
+10451	pl
+10453	sg
+10455	pl
+10457	sg
+10461	sg
+dual
+10472	sg
+10474	pl
+sg
+sg
+10488	sg
+dual
+10491	sg
+10493	dual
+sg
+10497	sg
+10501	sg
+10505	sg
+sg
+pl
+10517	sg
+10524	pl
+10531	sg
+10533	sg
+10536	pl
+10538	sg
+10540	sg
+10543	sg
+10548	sg
+10551	sg
+sg
+sg
+sg
+10558	sg
+sg
+10562	sg
+10565	sg
+10567	sg
+10576	sg
+10580	sg
+10582	sg
+10584	sg
+10586	sg
+sg
+10591	sg
+sg
+10594	sg
+10601	sg
+sg
+pl
+10605	sg
+10616	sg
+10626	sg
+sg
+pl
+10630	sg
+10642	sg
+10646	pl
+10652	sg
+sg
+10660	sg
+10673	sg
+10675	sg
+10677	sg
+sg
+10684	sg
+10686	pl
+10688	sg
+10693	sg
+sg
+pl
+10697	sg
+pl
+10701	pl
+10705	dual
+10707	sg
+10712	sg
+10716	pl
+10722	sg
+10726	sg
+sg
+10736	sg
+10742	dual
+10747	sg
+10756	pl
+10759	sg
+10762	sg
+sg
+10767	sg
+10769	sg
+sg
+10776	sg
+10783	sg
+sg
+10786	sg
+10797	pl
+sg
+10801	sg
+10809	pl
+10812	sg
+10814	sg
+sg
+10820	sg
+10824	sg
+10826	pl
+sg
+10832	sg
+sg
+10835	dual
+10838	sg
+10843	sg
+10846	dual
+10852	sg
+10854	sg
+10858	sg
+10863	sg
+dual
+10868	sg
+10871	sg
+10874	sg
+10876	sg
+10882	sg
+10888	pl
+10890	sg
+10902	sg
+pl
+sg
+10913	sg
+10915	sg
+10927	pl
+10930	sg
+dual
+sg
+10935	pl
+10947	sg
+10955	sg
+10962	sg
+pl
+10967	sg
+10975	sg
+10981	sg
+10984	sg
+10998	sg
+11000	sg
+sg
+11007	sg
+11018	pl
+11029	sg
+11038	pl
+11049	sg
+11051	pl
+11055	sg
+11066	pl
+11068	sg
+sg
+sg
+11074	pl
+11076	sg
+11085	sg
+11119	dual
+11121	pl
+11123	sg
+11131	sg
+11135	sg
+11139	sg
+11141	sg
+11147	sg
+11149	dual
+sg
+11163	dual
+11165	sg
+11167	sg
+11173	sg
+sg
+11178	sg
+11182	sg
+11184	sg
+11186	sg
+11189	sg
+11196	sg
+11201	sg
+11204	sg
+11208	sg
+11211	sg
+11213	sg
+11227	sg
+11234	sg
+11236	sg
+sg
+11240	sg
+11249	dual
+11254	sg
+11260	sg
+dual
+11267	pl
+11270	sg
+11273	sg
+11275	sg
+11283	sg
+11285	sg
+11291	sg
+11295	sg
+sg
+pl
+11302	sg
+11304	pl
+11306	sg
+11309	sg
+pl
+11314	dual
+11320	sg
+11322	pl
+11324	sg
+11327	sg
+sg
+11330	sg
+11334	sg
+11340	sg
+11342	pl
+11347	pl
+11351	sg
+11356	sg
+11358	sg
+11364	sg
+11368	pl
+11372	sg
+11374	sg
+sg
+pl
+11379	sg
+11386	sg
+11390	sg
+11393	sg
+11410	sg
+11426	sg
+11432	sg
+sg
+11442	pl
+11446	dual
+11448	sg
+11450	sg
+11453	dual
+11457	sg
+11461	sg
+11469	pl
+11472	sg
+11480	pl
+11486	sg
+11490	sg
+pl
+11494	sg
+11499	sg
+11501	sg
+11503	pl
+sg
+11514	pl
+11522	sg
+11526	sg
+11533	pl
+sg
+pl
+11539	sg
+11541	sg
+11543	pl
+11546	sg
+11549	pl
+11552	sg
+11554	sg
+11564	sg
+11570	sg
+pl
+11573	pl
+11576	sg
+11580	pl
+11582	sg
+11586	sg
+11590	sg
+11595	sg
+11607	sg
+11610	pl
+pl
+11613	sg
+11615	pl
+11622	pl
+11631	sg
+11634	dual
+11640	sg
+11653	sg
+11666	sg
+11675	sg
+11679	sg
+11686	sg
+11697	sg
+11699	sg
+11701	sg
+11707	sg
+11714	pl
+11716	sg
+11719	pl
+11723	sg
+11725	sg
+11732	sg
+pl
+11741	sg
+11745	sg
+11747	sg
+11755	sg
+11759	sg
+11761	sg
+11765	sg
+11767	sg
+11771	sg
+11776	sg
+11779	pl
+sg
+11785	sg
+11787	pl
+11789	pl
+11796	sg
+11798	pl
+11801	sg
+11807	pl
+11812	sg
+11831	sg
+sg
+11843	sg
+pl
+11846	sg
+11850	pl
+11853	sg
+11855	pl
+11861	pl
+11864	sg
+11867	pl
+11878	pl
+11888	sg
+11892	sg
+sg
+11897	sg
+11902	sg
+pl
+11912	sg
+11914	sg
+11916	pl
+11922	sg
+sg
+11925	sg
+sg
+sg
+11937	sg
+11940	sg
+11942	sg
+sg
+sg
+11954	sg
+11957	sg
+pl
+pl
+11961	sg
+11964	sg
+11966	sg
+11973	sg
+11981	sg
+11984	sg
+11988	sg
+11990	sg
+11994	pl
+11999	sg
+pl
+12003	sg
+12022	sg
+12024	pl
+sg
+12027	pl
+12030	sg
+12033	sg
+12044	pl
+dual
+12052	sg
+sg
+12056	sg
+12058	sg
+12071	sg
+sg
+12090	dual
+12094	sg
+12102	dual
+12107	sg
+12113	sg
+12119	sg
+12122	sg
+12126	sg
+12128	sg
+12139	sg
+12147	sg
+12149	sg
+sg
+12153	dual
+12157	sg
+12160	sg
+12170	pl
+sg
+12174	sg
+12176	sg
+12186	sg
+12201	sg
+12213	pl
+12215	pl
+sg
+12219	sg
+12221	sg
+12224	sg
+12230	sg
+12233	sg
+12235	dual
+12237	dual
+12246	sg
+12260	pl
+12264	sg
+12266	sg
+12272	sg
+12277	sg
+sg
+12281	sg
+12284	sg
+12292	sg
+12297	pl
+12302	sg
+12308	sg
+12311	sg
+12316	sg
+12321	sg
+12324	sg
+12334	sg
+sg
+12347	sg
+12349	sg
+sg
+pl
+sg
+pl
+12357	pl
+12364	sg
+12367	sg
+12373	sg
+12387	sg
+12390	sg
+12392	sg
+12396	sg
+12399	sg
+12405	pl
+sg
+12411	sg
+12414	sg
+12420	sg
+12422	sg
+12424	sg
+12426	sg
+12428	sg
+12431	sg
+pl
+sg
+12435	pl
+sg
+12438	sg
+12444	sg
+12446	sg
+12450	sg
+12456	sg
+12459	sg
+sg
+pl
+pl
+12468	sg
+12489	pl
+12496	sg
+pl
+12499	pl
+sg
+12502	sg
+12505	pl
+sg
+12514	sg
+12525	sg
+12535	sg
+12540	sg
+12552	sg
+12555	pl
+12558	sg
+12562	sg
+sg
+pl
+12566	sg
+12571	pl
+12573	sg
+12575	pl
+12577	sg
+12590	sg
+12605	pl
+12611	sg
+12640	sg
+12643	sg
+12650	sg
+12654	sg
+12657	sg
+12671	sg
+12674	pl
+12676	pl
+12687	pl
+12692	sg
+12698	sg
+12709	pl
+12717	sg
+12726	sg
+12730	sg
+12734	pl
+12736	sg
+12738	sg
+12744	pl
+12747	pl
+12750	sg
+12753	sg
+12755	sg
+12767	sg
+12771	sg
+12774	pl
+sg
+12783	sg
+dual
+12786	sg
+pl
+12793	dual
+12795	sg
+12799	pl
+12801	sg
+12816	sg
+12818	sg
+12820	sg
+12823	sg
+12832	sg
+12840	dual
+sg
+12845	sg
+12850	sg
+12854	pl
+12857	dual
+12859	sg
+12871	sg
+12876	sg
+12886	sg
+pl
+12891	sg
+12893	sg
+12896	sg
+sg
+12900	dual
+dual
+12905	pl
+12907	sg
+12910	sg
+12916	sg
+12918	pl
+12926	sg
+12931	sg
+12942	dual
+12947	sg
+12955	sg
+12957	sg
+12962	sg
+12964	sg
+12969	sg
+12976	sg
+12979	sg
+12982	sg
+12987	sg
+sg
+12990	sg
+12992	sg
+12996	sg
+13000	sg
+13005	pl
+13021	sg
+13028	sg
+13037	sg
+13039	sg
+13047	sg
+13065	sg
+13067	sg
+13070	sg
+13083	sg
+13090	pl
+13092	sg
+13098	sg
+13100	pl
+13104	sg
+sg
+13111	sg
+13114	sg
+13116	pl
+13118	sg
+sg
+13133	sg
+13144	sg
+13150	sg
+13154	sg
+13158	sg
+pl
+13162	sg
+13164	sg
+13166	dual
+13170	dual
+13172	sg
+13185	pl
+13199	sg
+sg
+13204	sg
+13206	sg
+13214	sg
+13222	pl
+13232	sg
+13234	sg
+13241	pl
+13248	pl
+13259	sg
+13274	sg
+13276	pl
+13280	pl
+13285	sg
+13289	sg
+13291	pl
+13306	sg
+13310	pl
+pl
+13314	sg
+13333	sg
+sg
+13338	sg
+13345	sg
+13353	pl
+13366	dual
+13376	sg
+sg
+13379	sg
+sg
+13382	sg
+13384	sg
+sg
+13388	sg
+13390	sg
+sg
+13394	sg
+13396	sg
+sg
+13403	dual
+13406	pl
+13408	sg
+13410	sg
+sg
+13422	sg
+13424	sg
+sg
+pl
+13434	pl
+13436	pl
+sg
+13440	sg
+13444	pl
+13448	sg
+13455	sg
+13457	sg
+pl
+sg
+sg
+13462	sg
+13466	sg
+13468	pl
+13470	sg
+13473	sg
+sg
+13476	sg
+sg
+sg
+13481	sg
+13483	sg
+13500	pl
+sg
+13514	pl
+13520	sg
+13523	sg
+13528	sg
+13530	pl
+13533	pl
+13536	dual
+13540	pl
+pl
+13545	pl
+13549	sg
+13568	dual
+13571	pl
+13577	pl
+13579	dual
+sg
+13583	pl
+dual
+13586	pl
+13645	sg
+13662	sg
+13667	sg
+13672	pl
+13678	pl
+13680	pl
+13682	sg
+13693	pl
+13696	pl
+13702	pl
+13707	pl
+13709	sg
+13714	pl
+13721	pl
+13723	sg
+sg
+13728	sg
+13737	sg
+13742	sg
+sg
+sg
+13746	sg
+13757	sg
+13763	sg
+13772	sg
+13777	sg
+13779	sg
+sg
+13790	sg
+13806	sg
+13820	pl
+13833	sg
+13838	sg
+13841	pl
+13847	pl
+13852	sg
+13858	dual
+13872	sg
+13878	sg
+sg
+13888	pl
+13904	pl
+13906	pl
+13908	pl
+13912	sg
+13925	pl
+13931	pl
+13938	sg
+13941	pl
+13943	sg
+13955	sg
+13959	sg
+13964	pl
+13970	pl
+13974	sg
+13976	pl
+dual
+13980	sg
+13982	pl
+sg
+pl
+13990	sg
+13993	pl
+14000	sg
+14002	pl
+14005	sg
+14029	dual
+14031	sg
+14058	sg
+14066	sg
+14076	sg
+pl
+14081	sg
+14087	sg
+14091	sg
+sg
+pl
+sg
+14116	dual
+14118	sg
+14122	sg
+dual
+14132	sg
+14134	pl
+14138	sg
+14140	pl
+14144	pl
+14147	pl
+14155	sg
+sg
+14162	sg
+14166	sg
+sg
+14174	sg
+14178	sg
+14184	sg
+sg
+pl
+14204	pl
+14207	sg
+sg
+14212	sg
+pl
+sg
+14222	pl
+sg
+14232	sg
+14238	sg
+14253	pl
+14260	sg
+pl
+14263	pl
+sg
+14278	dual
+14280	pl
+14294	pl
+14296	sg
+14302	sg
+14308	dual
+14318	pl
+14320	pl
+14327	pl
+14330	dual
+14337	sg
+14343	sg
+14351	sg
+14353	pl
+14355	sg
+14358	sg
+sg
+14365	sg
+14370	pl
+14376	pl
+dual
+14389	sg
+14394	sg
+dual
+sg
+14402	sg
+pl
+dual
+14416	sg
+pl
+14434	pl
+14456	pl
+14464	sg
+14468	sg
+14472	sg
+sg
+14475	dual
+14481	sg
+14484	sg
+14486	pl
+sg
+sg
+14502	pl
+14504	pl
+14508	sg
+sg
+sg
+14514	sg
+14516	pl
+sg
+14520	pl
+sg
+14528	sg
+14543	pl
+14548	sg
+14550	sg
+14552	sg
+14554	sg
+14560	sg
+14569	pl
+14577	sg
+14582	sg
+14587	sg
+14592	sg
+14600	sg
+14602	sg
+14610	sg
+14618	sg
+14624	sg
+14628	sg
+14639	pl
+14646	sg
+14648	pl
+sg
+pl
+pl
+14668	dual
+14670	sg
+14680	pl
+14689	sg
+sg
+pl
+14699	pl
+14710	sg
+14712	sg
+14720	pl
+14727	sg
+14730	sg
+14734	sg
+14742	sg
+14748	sg
+14750	sg
+14752	sg
+14772	pl
+14775	sg
+14781	pl
+14792	sg
+14794	sg
+14796	sg
+14818	pl
+14822	pl
+pl
+pl
+14826	sg
+14833	sg
+14837	pl
+14852	dual
+14857	pl
+14859	sg
+14861	pl
+14866	sg
+14879	sg
+14898	sg
+14900	sg
+14902	pl
+sg
+sg
+pl
+14912	sg
+14914	sg
+14916	sg
+14923	sg
+14928	sg
+14938	sg
+14941	pl
+sg
+14944	sg
+14946	sg
+sg
+14949	pl
+sg
+14952	sg
+14956	sg
+14960	sg
+14969	sg
+14982	dual
+14984	sg
+sg
+14993	sg
+sg
+15002	sg
+15008	sg
+15016	sg
+15021	sg
+15037	sg
+15042	sg
+15046	sg
+sg
+15061	sg
+15065	sg
+pl
+15069	sg
+15074	sg
+15080	sg
+15085	sg
+pl
+15088	pl
+15100	pl
+15106	pl
+15110	sg
+15122	sg
+15124	sg
+sg
+15127	sg
+pl
+15132	sg
+sg
+sg
+pl
+15137	sg
+15139	pl
+15143	pl
+15145	pl
+15148	pl
+15156	sg
+15160	dual
+15168	sg
+15185	dual
+15187	sg
+15194	sg
+15198	dual
+15201	sg
+15216	sg
+15224	sg
+15226	pl
+pl
+15229	sg
+15236	dual
+15238	sg
+15241	sg
+15243	sg
+pl
+sg
+15247	sg
+15251	sg
+15253	sg
+15258	sg
+15272	sg
+sg
+sg
+15278	sg
+sg
+15283	dual
+15285	sg
+sg
+sg
+15289	sg
+15293	sg
+15295	sg
+15300	sg
+15314	sg
+sg
+sg
+15320	sg
+sg
+15330	sg
+sg
+15341	sg
+15343	sg
+15353	sg
+15358	pl
+15364	sg
+15366	sg
+15377	sg
+15379	sg
+15383	sg
+15387	dual
+15401	pl
+15408	sg
+15411	dual
+sg
+sg
+15427	sg
+15436	sg
+15456	sg
+15459	sg
+15463	sg
+15468	sg
+15471	sg
+15478	dual
+15481	sg
+15488	sg
+dual
+15495	sg
+dual
+15500	sg
+15502	dual
+15508	sg
+15513	sg
+15516	sg
+15524	pl
+pl
+15527	sg
+15562	sg
+sg
+15565	sg
+sg
+15576	sg
+15580	sg
+15587	sg
+15591	pl
+15603	sg
+15605	sg
+sg
+pl
+15618	sg
+15621	sg
+15628	sg
+pl
+sg
+15634	sg
+15666	sg
+15679	sg
+sg
+15687	sg
+15691	sg
+15698	sg
+15702	pl
+sg
+sg
+pl
+15715	sg
+15720	sg
+15722	sg
+sg
+15725	sg
+sg
+15728	sg
+sg
+15739	sg
+15743	pl
+15747	sg
+15755	sg
+15757	sg
+15761	pl
+sg
+15765	sg
+15769	sg
+15773	sg
+15786	sg
+15809	sg
+15815	sg
+15826	sg
+sg
+15830	sg
+15847	sg
+15856	sg
+15858	sg
+15872	dual
+15876	sg
+15884	pl
+15887	sg
+sg
+pl
+15891	sg
+15894	sg
+15905	sg
+15920	sg
+15925	sg
+pl
+15929	sg
+15945	sg
+15949	sg
+sg
+15957	sg
+15963	sg
+pl
+sg
+15970	sg
+15976	sg
+15984	sg
+15992	pl
+sg
+sg
+16004	pl
+16013	pl
+16015	sg
+sg
+sg
+pl
+16023	sg
+16027	sg
+16033	sg
+16036	sg
+16040	sg
+16044	sg
+16052	sg
+16057	sg
+sg
+16073	sg
+16075	sg
+sg
+16078	sg
+16088	sg
+16090	sg
+sg
+16095	sg
+16099	pl
+16113	sg
+16128	pl
+16145	sg
+16147	sg
+sg
+16150	pl
+16153	sg
+16161	sg
+pl
+16164	pl
+16168	sg
+16171	pl
+16174	pl
+16178	sg
+16181	sg
+16185	pl
+16187	sg
+16195	sg
+16202	sg
+16207	dual
+16216	sg
+16218	sg
+16220	pl
+16225	sg
+16227	sg
+16231	sg
+16239	sg
+sg
+sg
+16251	sg
+16253	sg
+16258	sg
+16261	sg
+16266	sg
+pl
+16270	sg
+sg
+16279	sg
+sg
+sg
+16284	sg
+16287	pl
+16289	pl
+16308	sg
+16313	sg
+16315	pl
+sg
+16320	pl
+16322	sg
+16325	sg
+sg
+16332	pl
+16335	sg
+sg
+16340	sg
+16356	sg
+16362	sg
+16369	pl
+16372	sg
+pl
+16375	pl
+16379	sg
+16388	sg
+16391	sg
+16394	pl
+16397	sg
+16399	sg
+16402	sg
+16405	sg
+16408	pl
+sg
+16413	sg
+16419	sg
+16429	dual
+16439	sg
+16441	sg
+16443	pl
+16446	pl
+sg
+16455	sg
+16457	sg
+16461	pl
+sg
+16465	sg
+16467	sg
+16471	sg
+16485	sg
+16488	pl
+16495	sg
+16500	pl
+16503	sg
+16513	sg
+16522	sg
+16527	sg
+16540	sg
+16557	sg
+16563	sg
+16570	sg
+sg
+16577	sg
+16582	pl
+16584	pl
+16593	sg
+16596	dual
+16599	sg
+16604	sg
+16607	sg
+16613	sg
+16625	sg
+16629	pl
+16632	sg
+16641	sg
+16646	sg
+16648	sg
+16650	sg
+sg
+16656	sg
+16667	sg
+16670	sg
+16672	pl
+16680	pl
+16682	sg
+16684	sg
+16691	pl
+16695	sg
+16701	sg
+16712	sg
+16724	sg
+16728	sg
+16730	dual
+sg
+16733	sg
+16738	sg
+16741	sg
+16744	sg
+pl
+16753	sg
+16755	sg
+16759	sg
+16763	pl
+16765	sg
+16773	sg
+sg
+16781	sg
+pl
+16789	sg
+16792	sg
+16801	sg
+16806	dual
+16809	pl
+16822	pl
+sg
+sg
+16829	sg
+16833	sg
+16840	sg
+16844	sg
+pl
+16850	sg
+16856	sg
+16859	sg
+16865	dual
+sg
+16878	pl
+16880	sg
+16882	sg
+16885	sg
+16890	sg
+16892	sg
+16896	sg
+16905	sg
+16908	sg
+16912	sg
+16915	sg
+16917	sg
+16929	dual
+sg
+sg
+16933	sg
+16941	sg
+16961	sg
+16965	sg
+16968	pl
+16974	sg
+16977	sg
+16985	pl
+16997	pl
+17006	dual
+17013	pl
+17018	sg
+17023	sg
+17025	sg
+17028	dual
+17030	sg
+17037	sg
+17041	dual
+17048	sg
+17051	dual
+sg
+17064	pl
+sg
+sg
+17068	sg
+17076	pl
+17082	pl
+dual
+17088	sg
+17090	dual
+17094	sg
+17100	sg
+17105	sg
+17109	pl
+17113	sg
+17126	pl
+17138	sg
+17146	pl
+17152	sg
+17158	pl
+sg
+pl
+17173	sg
+17181	sg
+17184	sg
+17190	sg
+17192	sg
+17194	pl
+17197	sg
+17201	sg
+17203	sg
+pl
+17209	sg
+sg
+17214	dual
+17230	dual
+17232	sg
+17245	sg
+17249	sg
+17251	sg
+17266	sg
+17268	sg
+17273	sg
+pl
+sg
+17280	sg
+17286	sg
+17289	sg
+sg
+pl
+17301	sg
+17304	sg
+17307	pl
+17313	sg
+sg
+17320	sg
+17326	pl
+17340	sg
+17345	sg
+17348	dual
+17350	sg
+17364	sg
+17371	sg
+17401	pl
+17407	pl
+17416	sg
+17423	sg
+17429	pl
+17438	dual
+17444	sg
+17449	sg
+17451	sg
+17457	sg
+17461	sg
+17463	sg
+17465	sg
+17477	sg
+sg
+17488	dual
+17500	sg
+17505	pl
+17520	sg
+17523	sg
+17528	sg
+17540	sg
+17547	pl
+17550	sg
+17554	sg
+17559	sg
+pl
+sg
+17563	pl
+17569	sg
+17571	sg
+17574	sg
+17579	sg
+17583	sg
+17591	sg
+17594	sg
+17597	sg
+17600	sg
+17607	sg
+sg
+sg
+17617	pl
+17622	sg
+17625	pl
+17632	pl
+17636	sg
+17638	pl
+sg
+sg
+17653	sg
+17659	sg
+17662	sg
+17677	sg
+17681	sg
+17687	sg
+17697	sg
+17699	sg
+17702	sg
+sg
+17707	sg
+17711	pl
+sg
+sg
+17718	sg
+17724	dual
+17732	sg
+17744	sg
+17755	sg
+17765	dual
+17768	sg
+17771	sg
+17773	sg
+17789	pl
+sg
+17794	sg
+17810	sg
+17812	pl
+17820	sg
+17871	sg
+17875	sg
+17883	sg
+17891	pl
+17897	pl
+sg
+17901	sg
+17906	sg
+17912	sg
+17914	sg
+17917	sg
+17923	sg
+pl
+17926	sg
+pl
+17931	sg
+sg
+17942	sg
+17946	sg
+sg
+sg
+17950	pl
+17955	sg
+17957	pl
+pl
+17960	pl
+sg
+17966	sg
+17978	sg
+17987	sg
+17991	sg
+17993	sg
+17999	sg
+sg
+18002	sg
+18010	sg
+18012	sg
+18023	sg
+18025	sg
+18031	pl
+sg
+18037	sg
+18042	sg
+18046	pl
+18048	sg
+18053	sg
+pl
+18061	sg
+18079	sg
+18081	sg
+sg
+18084	sg
+18086	pl
+18090	sg
+pl
+pl
+18110	sg
+18114	pl
+18127	sg
+18132	pl
+pl
+18140	sg
+18142	pl
+sg
+18149	sg
+sg
+18154	sg
+18161	dual
+18179	sg
+sg
+18186	sg
+18189	sg
+18201	sg
+18205	pl
+18208	sg
+18213	pl
+18218	pl
+sg
+18222	sg
+18224	sg
+18226	pl
+sg
+18230	sg
+18239	sg
+18248	pl
+18251	sg
+sg
+18263	dual
+18267	sg
+18274	sg
+18285	pl
+18287	sg
+18292	sg
+18294	sg
+pl
+18304	sg
+sg
+sg
+18314	sg
+18320	sg
+sg
+18323	sg
+18326	sg
+18335	sg
+sg
+pl
+18350	sg
+sg
+18353	sg
+18358	sg
+18363	sg
+18379	sg
+18390	sg
+18393	sg
+18397	sg
+18400	pl
+18405	sg
+18424	sg
+18428	sg
+18439	pl
+18442	sg
+18456	sg
+18462	pl
+sg
+18470	sg
+18479	sg
+18481	sg
+18487	sg
+18489	sg
+18491	sg
+18496	sg
+18502	sg
+18505	sg
+18507	sg
+18509	sg
+18511	sg
+18520	sg
+18522	pl
+18525	sg
+18527	sg
+18529	pl
+18537	dual
+18539	sg
+pl
+18546	sg
+sg
+pl
+18552	pl
+18566	sg
+18568	sg
+18573	sg
+18576	sg
+18579	sg
+18584	dual
+18588	sg
+18607	dual
+18624	pl
+18626	sg
+18628	sg
+18630	sg
+18637	sg
+18647	sg
+18652	sg
+sg
+18657	sg
+18659	sg
+18661	sg
+18672	pl
+18674	pl
+18676	sg
+18681	sg
+sg
+18687	sg
+18689	sg
+18697	sg
+18709	sg
+18727	sg
+18733	sg
+18744	sg
+18749	pl
+sg
+18757	sg
+18769	dual
+18775	pl
+18781	sg
+18787	sg
+18792	sg
+18794	pl
+18812	sg
+sg
+18819	sg
+18828	dual
+18835	dual
+dual
+18840	sg
+18843	sg
+18848	sg
+sg
+18851	sg
+18858	sg
+18862	sg
+18865	pl
+18872	sg
+18874	pl
+18876	sg
+18883	sg
+sg
+18891	sg
+18895	sg
+18898	pl
+18900	dual
+dual
+18903	sg
+18912	pl
+18915	sg
+18928	sg
+18938	dual
+18948	sg
+18950	sg
+18954	sg
+18965	sg
+dual
+18969	sg
+sg
+18986	pl
+sg
+18991	sg
+18993	sg
+18995	sg
+19001	sg
+19004	sg
+19014	pl
+19020	dual
+19023	sg
+19043	dual
+19050	sg
+19053	pl
+19061	pl
+19067	sg
+19072	sg
+19077	sg
+19091	sg
+sg
+19094	sg
+19097	sg
+19115	sg
+19119	pl
+19131	sg
+19138	sg
+19141	sg
+19143	sg
+19148	sg
+sg
+19153	sg
+19159	sg
+19162	sg
+sg
+19165	sg
+19168	sg
+19171	sg
+19174	sg
+19179	sg
+19191	sg
+19197	sg
+19200	pl
+19214	sg
+19223	sg
+19225	sg
+19227	sg
+19233	sg
+19260	sg
+19272	sg
+19284	sg
+19287	sg
+19292	sg
+19296	sg
+19302	sg
+sg
+19305	sg
+19307	sg
+sg
+19311	sg
+19317	pl
+19319	pl
+19321	sg
+sg
+19325	sg
+sg
+19330	sg
+19332	pl
+sg
+19337	sg
+19343	sg
+sg
+19367	sg
+19376	pl
+19380	pl
+19388	pl
+sg
+19398	pl
+19400	sg
+19407	sg
+19409	pl
+sg
+19413	sg
+19416	sg
+19426	sg
+sg
+sg
+19430	pl
+sg
+19434	sg
+19441	dual
+19445	sg
+sg
+19455	sg
+19457	sg
+19461	pl
+19468	sg
+19482	sg
+19487	sg
+19491	sg
+19494	sg
+19505	sg
+19517	sg
+19521	dual
+19529	dual
+19533	sg
+19538	sg
+19542	sg
+19545	sg
+19548	sg
+19552	sg
+19558	sg
+19561	sg
+19567	sg
+19574	pl
+19576	sg
+19580	sg
+19589	sg
+19593	sg
+19600	sg
+19604	sg
+19606	sg
+19608	sg
+19611	sg
+19623	sg
+19636	sg
+19652	pl
+19664	pl
+19666	pl
+19678	sg
+19683	sg
+19689	sg
+19691	dual
+19711	dual
+19713	dual
+19721	sg
+sg
+19729	sg
+19737	sg
+19739	sg
+19741	sg
+19745	sg
+19762	sg
+19767	sg
+19769	dual
+dual
+19799	sg
+sg
+19810	sg
+19829	sg
+19831	sg
+19847	sg
+19853	sg
+19858	sg
+19860	sg
+19864	sg
+19867	sg
+19872	sg
+19874	pl
+19876	dual
+dual
+19883	sg
+19886	sg
+19891	sg
+dual
+19897	sg
+19900	dual
+19903	sg
+19915	sg
+19924	sg
+19926	sg
+19928	sg
+19931	sg
+19933	sg
+19937	sg
+19939	dual
+19942	sg
+sg
+19945	sg
+19948	sg
+19954	sg
+sg
+sg
+pl
+19962	sg
+19965	dual
+19971	sg
+19976	sg
+sg
+19983	sg
+19985	sg
+19988	sg
+19994	sg
+19997	sg
+sg
+20004	sg
+20008	sg
+20021	pl
+20023	sg
+20026	sg
+20028	sg
+20030	sg
+20034	sg
+sg
+20041	sg
+20048	sg
+20057	sg
+20063	sg
+20068	sg
+20070	sg
+20072	sg
+20081	sg
+20085	pl
+20096	sg
+20098	pl
+20121	sg
+20127	pl
+sg
+20131	sg
+pl
+20140	sg
+pl
+20146	dual
+20153	sg
+20165	dual
+20178	dual
+20186	sg
+sg
+20202	sg
+sg
+sg
+20217	sg
+20226	sg
+20228	sg
+20232	sg
+20236	sg
+20239	sg
+20248	sg
+20250	pl
+20255	pl
+20257	sg
+20261	sg
+20264	dual
+20278	sg
+20286	sg
+20289	pl
+20295	sg
+20300	sg
+20303	sg
+20307	sg
+pl
+20327	sg
+sg
+20333	pl
+sg
+20336	dual
+20339	pl
+20355	sg
+sg
+20363	dual
+20369	sg
+20371	sg
+sg
+20378	sg
+20384	sg
+20389	sg
+20395	dual
+sg
+sg
+sg
+20408	sg
+20431	sg
+sg
+20435	sg
+20447	sg
+20452	sg
+20458	pl
+sg
+20465	pl
+20469	sg
+sg
+20473	sg
+20477	sg
+sg
+20482	pl
+20486	pl
+20488	pl
+20491	pl
+20494	sg
+20500	sg
+20503	sg
+20507	sg
+sg
+20512	dual
+20514	sg
+20517	sg
+20529	pl
+20533	sg
+20540	sg
+20543	sg
+sg
+20564	sg
+20567	sg
+sg
+20572	pl
+20574	sg
+20579	sg
+pl
+20590	sg
+20610	sg
+20619	dual
+20622	sg
+20624	sg
+20637	sg
+20645	sg
+20647	sg
+20649	sg
+sg
+20655	pl
+pl
+20659	sg
+20661	pl
+20669	sg
+20674	sg
+20676	sg
+20683	sg
+20685	dual
+20688	sg
+20698	sg
+20710	pl
+20714	sg
+sg
+20724	sg
+20727	sg
+20735	pl
+20738	sg
+20741	sg
+20753	sg
+20769	sg
+20771	sg
+20773	pl
+20776	sg
+20778	sg
+20799	sg
+20812	dual
+20828	sg
+20834	pl
+20836	dual
+20840	pl
+20848	sg
+20853	sg
+20855	pl
+20866	sg
+20868	sg
+20870	sg
+20872	sg
+20876	sg
+20882	sg
+20886	sg
+20889	sg
+20896	sg
+20902	sg
+20904	sg
+20920	sg
+20923	sg
+20928	sg
+20938	sg
+sg
+20943	sg
+20951	dual
+20953	dual
+20956	sg
+20966	sg
+20976	sg
+sg
+20983	sg
+20987	sg
+21011	pl
+21017	pl
+21019	sg
+21036	sg
+21041	sg
+21054	sg
+21056	sg
+sg
+21060	sg
+21063	sg
+21072	sg
+sg
+21094	sg
+sg
+21102	sg
+21104	pl
+sg
+21111	sg
+pl
+21123	pl
+21131	sg
+21134	pl
+21140	sg
+21143	sg
+21150	sg
+21163	sg
+21167	sg
+21179	dual
+21186	sg
+21188	sg
+21193	dual
+21206	sg
+21209	sg
+21229	sg
+21245	sg
+21249	sg
+21256	sg
+21258	sg
+sg
+21267	sg
+21289	sg
+21292	sg
+21294	sg
+21296	pl
+21299	sg
+21304	sg
+21308	sg
+21312	sg
+21316	sg
+21323	sg
+21328	sg
+21338	sg
+21342	sg
+21351	sg
+21355	sg
+sg
+21369	sg
+21373	sg
+21375	sg
+21384	sg
+21387	pl
+21394	sg
+21418	sg
+21427	sg
+21433	sg
+21436	sg
+sg
+21446	sg
+21448	sg
+21453	sg
+21464	sg
+21468	sg
+21473	sg
+21480	sg
+sg
+21492	sg
+21511	dual
+21513	sg
+21524	pl
+21531	dual
+21542	sg
+21548	sg
+21557	sg
+21578	pl
+21580	sg
+21582	sg
+21584	sg
+21590	dual
+21594	sg
+21600	sg
+sg
+21613	sg
+21615	sg
+21624	sg
+21626	sg
+21633	pl
+21635	sg
+21639	sg
+21648	sg
+21651	sg
+21653	sg
+21656	sg
+pl
+21666	sg
+21673	pl
+21675	sg
+21677	sg
+21679	sg
+21681	sg
+sg
+21684	sg
+21688	pl
+21690	dual
+21695	sg
+21700	sg
+21705	sg
+21712	sg
+21719	sg
+21721	dual
+21723	pl
+21728	sg
+21730	sg
+21734	sg
+21736	sg
+21742	sg
+sg
+21747	sg
+21767	dual
+21771	sg
+21778	sg
+21787	sg
+21793	sg
+21814	sg
+sg
+21822	sg
+21830	sg
+21832	pl
+21851	pl
+21870	sg
+21876	sg
+21880	sg
+21885	sg
+21889	sg
+pl
+21893	pl
+21897	sg
+21905	sg
+21920	dual
+21923	sg
+21938	dual
+21946	sg
+21954	sg
+21988	sg
+sg
+21993	pl
+22002	sg
+22004	sg
+22014	pl
+22019	sg
+22026	sg
+sg
+22030	pl
+22034	sg
+22037	sg
+22043	sg
+22049	sg
+sg
+22066	sg
+22072	sg
+22093	sg
+22100	sg
+sg
+22103	sg
+22117	sg
+22130	sg
+22132	sg
+22137	pl
+22150	sg
+22152	sg
+22155	pl
+22159	pl
+22163	sg
+22165	sg
+22169	sg
+sg
+22176	pl
+sg
+sg
+22192	sg
+22194	sg
+22212	sg
+22221	pl
+22229	sg
+22232	sg
+22238	sg
+22242	sg
+22245	sg
+22250	sg
+22252	pl
+22255	pl
+22257	sg
+22264	sg
+22269	pl
+22271	sg
+22285	pl
+22291	sg
+22313	sg
+22320	pl
+22326	sg
+22340	sg
+22342	pl
+22346	pl
+22351	sg
+22359	sg
+22361	sg
+22372	sg
+22375	sg
+22377	sg
+pl
+22383	sg
+22399	sg
+22418	sg
+22421	sg
+pl
+22424	sg
+22448	pl
+sg
+22453	sg
+22456	sg
+22477	sg
+22482	sg
+22484	sg
+22500	sg
+22506	sg
+22509	dual
+22519	pl
+22521	sg
+22524	sg
+22526	pl
+22529	pl
+sg
+sg
+sg
+22538	sg
+22546	sg
+22548	pl
+22564	sg
+22567	sg
+22570	sg
+22572	sg
+22585	sg
+pl
+22592	sg
+22594	pl
+pl
+22599	sg
+22607	sg
+sg
+22611	sg
+22615	sg
+22626	pl
+sg
+sg
+22640	sg
+22642	sg
+22645	pl
+22658	sg
+22662	sg
+22665	sg
+22668	pl
+sg
+22674	sg
+22685	sg
+sg
+sg
+22690	sg
+pl
+22693	sg
+dual
+22697	sg
+sg
+22700	dual
+22704	sg
+22707	sg
+22714	sg
+sg
+22720	sg
+22728	pl
+22733	sg
+sg
+22738	sg
+22740	pl
+22745	sg
+22749	sg
+22753	sg
+22759	dual
+22761	sg
+22767	sg
+sg
+22770	sg
+22777	sg
+22780	sg
+22782	sg
+sg
+22787	sg
+22800	dual
+sg
+22805	sg
+22812	sg
+dual
+sg
+dual
+sg
+22818	sg
+22841	sg
+22849	sg
+22859	sg
+sg
+22866	sg
+22869	sg
+22871	dual
+22876	sg
+22881	sg
+22890	sg
+22892	sg
+sg
+22895	dual
+22897	sg
+22905	pl
+22907	sg
+22909	pl
+22918	sg
+22920	sg
+22923	sg
+22927	sg
+22933	sg
+22936	sg
+22938	sg
+22943	sg
+dual
+22946	dual
+22948	sg
+22952	pl
+sg
+22956	sg
+22958	sg
+22965	pl
+22968	sg
+22984	sg
+dual
+22996	sg
+23001	sg
+23028	pl
+23032	sg
+23041	pl
+23047	sg
+23050	sg
+23067	sg
+sg
+23076	sg
+23078	pl
+23086	sg
+sg
+23090	sg
+23098	sg
+23106	sg
+sg
+23115	pl
+sg
+23122	sg
+23125	sg
+23162	sg
+23171	pl
+23183	sg
+23185	sg
+sg
+23194	sg
+dual
+23198	sg
+23200	sg
+23212	sg
+23216	sg
+23220	sg
+23225	sg
+23227	sg
+sg
+pl
+sg
+23240	sg
+23242	sg
+23244	pl
+sg
+23250	sg
+23252	sg
+23262	sg
+23264	pl
+pl
+23286	sg
+23289	pl
+23295	pl
+23297	pl
+23311	pl
+23319	sg
+sg
+23323	sg
+23328	pl
+23334	sg
+23337	pl
+23343	pl
+23346	sg
+23349	pl
+sg
+23352	sg
+23354	sg
+23359	pl
+23369	sg
+23372	sg
+23377	sg
+dual
+23381	sg
+23392	sg
+23398	sg
+sg
+23421	sg
+23424	pl
+23426	sg
+23430	sg
+23435	sg
+sg
+23438	sg
+23443	sg
+23450	sg
+23452	pl
+23454	sg
+23456	pl
+sg
+sg
+23460	sg
+23470	sg
+23472	sg
+23477	sg
+23484	pl
+23486	pl
+23491	sg
+23502	pl
+23505	sg
+23510	sg
+23514	sg
+23524	pl
+23533	sg
+23546	sg
+23550	sg
+23552	pl
+23554	sg
+23559	sg
+23561	sg
+23566	pl
+dual
+23569	sg
+sg
+dual
+23574	sg
+23582	sg
+23587	sg
+23602	sg
+23605	sg
+23608	sg
+23613	sg
+23615	sg
+23618	sg
+23622	sg
+23626	sg
+23631	sg
+23635	sg
+23647	sg
+23666	sg
+23673	sg
+23679	sg
+23681	sg
+23683	sg
+23685	sg
+sg
+pl
+23690	sg
+23698	sg
+pl
+23703	pl
+23705	sg
+23709	sg
+23711	sg
+23726	sg
+23737	dual
+23742	sg
+sg
+23745	sg
+23750	sg
+23768	sg
+23772	sg
+23774	sg
+23780	sg
+sg
+23793	sg
+23800	dual
+23815	pl
+23818	sg
+23823	sg
+23829	sg
+23839	dual
+23842	sg
+23848	sg
+23850	sg
+sg
+23863	sg
+23870	pl
+sg
+23875	sg
+23877	sg
+23885	sg
+23895	sg
+23901	sg
+sg
+pl
+23909	pl
+23917	sg
+23921	sg
+23970	sg
+23972	sg
+sg
+23987	sg
+23998	sg
+24002	pl
+sg
+24007	pl
+sg
+sg
+24021	pl
+24026	sg
+24049	sg
+24055	sg
+24060	sg
+24063	sg
+24068	sg
+24070	pl
+24073	sg
+24077	sg
+24080	sg
+sg
+24083	sg
+24092	sg
+24094	sg
+24097	sg
+pl
+24110	pl
+24118	sg
+sg
+sg
+24126	sg
+24151	sg
+24158	sg
+24160	sg
+sg
+24174	sg
+24181	sg
+24183	sg
+24190	dual
+24192	pl
+24202	sg
+24205	sg
+24211	sg
+24213	sg
+24223	sg
+24225	sg
+24233	sg
+sg
+24236	sg
+24238	sg
+24250	sg
+24263	sg
+24268	sg
+24292	sg
+24299	pl
+sg
+24315	sg
+24325	pl
+24329	sg
+24331	dual
+24334	sg
+pl
+24342	pl
+24346	sg
+24354	sg
+24370	sg
+24372	sg
+24377	sg
+24384	sg
+24386	sg
+sg
+pl
+24392	sg
+24396	sg
+24399	sg
+sg
+24402	pl
+24406	sg
+24410	sg
+24420	sg
+24423	sg
+sg
+sg
+24429	sg
+24432	sg
+24437	sg
+24446	sg
+24449	sg
+24453	sg
+24455	sg
+24458	sg
+24463	sg
+24467	sg
+24477	sg
+24481	sg
+24484	sg
+24489	sg
+24494	sg
+24496	pl
+24498	sg
+24504	sg
+24512	sg
+24522	sg
+24524	pl
+sg
+24528	pl
+pl
+24538	dual
+24543	sg
+24547	sg
+dual
+sg
+24553	pl
+24568	sg
+24573	sg
+24583	sg
+24586	pl
+24589	sg
+24602	sg
+24609	pl
+24617	sg
+24624	sg
+24634	sg
+24636	sg
+sg
+24643	sg
+24655	sg
+24659	sg
+sg
+24666	sg
+24670	sg
+24681	sg
+24685	sg
+24690	sg
+24693	sg
+24697	sg
+24699	sg
+24702	pl
+24708	sg
+24711	dual
+sg
+24724	dual
+24726	sg
+sg
+sg
+pl
+24733	sg
+24735	pl
+24737	sg
+24743	sg
+24748	sg
+sg
+24754	sg
+24757	sg
+24769	sg
+24772	sg
+sg
+24777	sg
+24781	sg
+24785	sg
+24803	sg
+24806	sg
+24817	sg
+24829	sg
+24833	sg
+24836	pl
+24843	pl
+24849	sg
+24853	pl
+24859	sg
+24861	sg
+24864	sg
+24868	sg
+24874	sg
+dual
+24878	sg
+24880	pl
+24882	sg
+24884	sg
+24886	sg
+24890	sg
+24897	sg
+24903	sg
+24905	pl
+24907	sg
+24912	dual
+24920	sg
+24922	pl
+24924	sg
+24926	sg
+24933	sg
+24935	sg
+24941	sg
+pl
+24947	pl
+24951	sg
+pl
+24960	sg
+24966	sg
+24970	sg
+sg
+pl
+24976	sg
+24991	sg
+24996	sg
+24998	sg
+25025	sg
+25032	sg
+25041	sg
+25044	sg
+sg
+25051	sg
+25063	dual
+25068	sg
+25070	sg
+25076	sg
+25084	pl
+25088	pl
+25093	pl
+25096	pl
+25099	pl
+25106	sg
+25108	sg
+25114	sg
+sg
+25123	sg
+25127	pl
+25130	sg
+25135	sg
+pl
+sg
+25142	pl
+25145	sg
+25147	sg
+25155	sg
+sg
+25160	sg
+25163	pl
+25165	pl
+25172	sg
+25180	sg
+25188	sg
+25194	sg
+pl
+25207	sg
+25219	sg
+25221	sg
+sg
+25234	sg
+25236	pl
+25238	sg
+25243	pl
+25246	sg
+25249	pl
+25256	pl
+25264	pl
+25273	pl
+25284	sg
+25288	sg
+sg
+25293	sg
+25298	sg
+25300	sg
+25302	sg
+25313	sg
+25319	sg
+25321	pl
+25325	sg
+25338	sg
+25341	sg
+25345	sg
+25353	sg
+25359	sg
+25368	sg
+25370	sg
+25378	sg
+25388	sg
+25390	sg
+25392	sg
+25396	sg
+25404	sg
+25409	sg
+25421	sg
+25424	sg
+25426	sg
+25434	pl
+25441	sg
+25443	pl
+sg
+25453	sg
+25469	sg
+25471	pl
+sg
+25474	pl
+25478	sg
+25481	sg
+25491	sg
+25495	sg
+sg
+25499	sg
+25501	pl
+25504	sg
+25508	sg
+25511	pl
+25515	sg
+25520	sg
+25536	dual
+25545	dual
+25549	sg
+25552	sg
+25560	sg
+25563	sg
+25565	sg
+25572	sg
+25576	dual
+25579	sg
+25585	sg
+25587	sg
+25589	sg
+25591	sg
+25601	sg
+25606	sg
+25608	pl
+25615	pl
+25622	sg
+25625	sg
+25633	sg
+sg
+25641	sg
+sg
+25645	sg
+25648	sg
+25652	sg
+25655	pl
+25658	sg
+sg
+25661	sg
+25663	sg
+25665	sg
+25667	sg
+25669	sg
+25679	sg
+25698	sg
+25700	dual
+25702	sg
+25706	sg
+25725	pl
+25728	sg
+25731	sg
+25750	sg
+25755	sg
+25758	sg
+25766	sg
+25771	sg
+25778	sg
+pl
+25784	sg
+25786	sg
+25788	sg
+sg
+sg
+pl
+25795	sg
+25797	sg
+25802	sg
+25807	sg
+25810	sg
+25812	sg
+25816	sg
+25820	dual
+25822	sg
+pl
+25826	pl
+25828	pl
+25834	pl
+25839	pl
+25853	sg
+sg
+pl
+dual
+25859	sg
+25862	sg
+25867	sg
+25873	sg
+25876	sg
+25879	sg
+25882	sg
+25885	pl
+sg
+25891	sg
+25894	sg
+25898	pl
+25902	sg
+25904	sg
+25906	sg
+25909	pl
+25912	sg
+pl
+25915	pl
+sg
+25918	sg
+25924	sg
+sg
+25929	pl
+25936	sg
+25939	sg
+sg
+pl
+25947	sg
+25962	sg
+25967	pl
+25969	pl
+25973	sg
+25977	sg
+pl
+25980	pl
+sg
+25983	sg
+sg
+26017	pl
+26020	sg
+26023	sg
+26059	sg
+26062	dual
+26065	dual
+26068	pl
+26076	sg
+26090	sg
+26101	sg
+26105	sg
+26107	sg
+26112	sg
+26116	sg
+26119	pl
+26128	sg
+26132	sg
+26135	pl
+sg
+26144	sg
+sg
+26160	sg
+26165	sg
+26181	pl
+26184	pl
+26186	sg
+26190	sg
+sg
+26197	sg
+26202	pl
+26206	sg
+26224	sg
+26233	sg
+sg
+26238	sg
+26242	sg
+26246	sg
+sg
+26255	sg
+26257	dual
+26259	sg
+26262	dual
+26264	sg
+26271	sg
+26277	pl
+26288	pl
+26290	sg
+26295	sg
+26299	sg
+26302	sg
+26309	sg
+26325	sg
+26335	sg
+26342	sg
+26347	dual
+26355	sg
+26362	sg
+26373	dual
+26375	pl
+26379	pl
+26384	sg
+26388	sg
+26391	pl
+26400	sg
+26404	sg
+26415	sg
+26417	sg
+26421	pl
+26435	sg
+sg
+26439	pl
+sg
+26445	sg
+26450	pl
+26455	dual
+26458	dual
+26464	sg
+26468	sg
+26471	sg
+sg
+26476	sg
+sg
+26479	sg
+sg
+26482	sg
+26484	sg
+sg
+26488	sg
+26491	sg
+26494	sg
+26496	sg
+sg
+26500	sg
+26503	sg
+26506	sg
+26508	sg
+sg
+26514	sg
+26519	sg
+26523	pl
+26526	pl
+26539	sg
+26542	sg
+26544	sg
+26547	sg
+26552	sg
+26557	sg
+26559	sg
+26568	sg
+26572	pl
+26577	sg
+26580	pl
+26584	pl
+26586	sg
+26592	sg
+sg
+26597	sg
+26601	sg
+26603	pl
+sg
+26614	sg
+26620	sg
+sg
+26623	sg
+26627	sg
+26629	pl
+26631	sg
+26634	sg
+sg
+26637	sg
+sg
+26641	sg
+26643	sg
+26649	sg
+26656	sg
+26661	sg
+26686	sg
+26691	pl
+26693	sg
+sg
+26700	sg
+sg
+26709	sg
+26711	sg
+26713	sg
+26722	dual
+26725	sg
+26733	sg
+26735	sg
+26737	sg
+sg
+pl
+26742	dual
+26746	sg
+26751	sg
+26753	sg
+26771	sg
+26773	pl
+26775	sg
+26780	sg
+sg
+26790	sg
+26797	sg
+26814	sg
+26817	sg
+26821	pl
+26824	sg
+26836	sg
+pl
+sg
+26860	sg
+26873	pl
+26880	sg
+26882	pl
+sg
+26895	dual
+26897	pl
+26911	pl
+26913	sg
+sg
+26916	sg
+26926	sg
+sg
+sg
+26931	sg
+26933	dual
+26935	sg
+sg
+26939	sg
+26942	pl
+26946	pl
+26951	sg
+26953	pl
+26959	pl
+26964	sg
+26966	sg
+26972	sg
+26975	sg
+26984	sg
+26986	pl
+26989	sg
+26993	dual
+27000	sg
+27006	pl
+27014	sg
+27019	sg
+27024	sg
+dual
+sg
+27032	sg
+27036	pl
+27043	sg
+27048	sg
+dual
+sg
+pl
+27068	pl
+27077	sg
+27091	pl
+27099	sg
+27102	sg
+27104	sg
+27107	sg
+sg
+27110	sg
+dual
+27118	sg
+27121	sg
+27123	pl
+sg
+27139	pl
+27146	sg
+sg
+27154	pl
+27156	sg
+27172	sg
+27177	sg
+27182	sg
+27190	sg
+27198	sg
+27206	sg
+27213	sg
+27220	sg
+27224	pl
+27226	sg
+27242	sg
+dual
+27255	pl
+27264	sg
+sg
+pl
+27285	sg
+27287	sg
+27294	pl
+27302	sg
+27309	sg
+27314	pl
+27316	pl
+27318	sg
+27332	sg
+27335	sg
+27346	pl
+27349	pl
+27351	sg
+27353	sg
+27368	sg
+27373	pl
+sg
+27376	sg
+pl
+sg
+27383	dual
+27387	sg
+27390	sg
+27393	sg
+27401	sg
+27413	sg
+27423	sg
+27430	sg
+27443	sg
+27447	sg
+27453	sg
+27459	sg
+27461	sg
+27469	pl
+27474	sg
+27481	sg
+27485	sg
+27513	sg
+27516	sg
+27518	sg
+pl
+27521	sg
+27524	sg
+sg
+sg
+27534	sg
+27537	sg
+27552	sg
+27567	sg
+27569	sg
+pl
+27576	sg
+pl
+27579	sg
+sg
+27597	sg
+27599	pl
+sg
+27604	sg
+pl
+27614	sg
+27618	sg
+27622	sg
+27635	dual
+27638	pl
+sg
+27643	sg
+27647	pl
+27650	sg
+sg
+27654	sg
+27658	sg
+27660	sg
+27666	sg
+pl
+27674	pl
+27677	pl
+27680	sg
+sg
+sg
+pl
+27688	sg
+27693	sg
+27702	sg
+27706	sg
+27714	sg
+sg
+27723	sg
+sg
+27739	sg
+27741	sg
+27743	sg
+27749	sg
+pl
+27760	sg
+27774	sg
+27779	sg
+27792	sg
+sg
+pl
+27799	sg
+27804	sg
+pl
+27807	pl
+27811	sg
+pl
+27815	pl
+27817	sg
+sg
+27821	sg
+27825	pl
+sg
+sg
+27836	sg
+27840	dual
+27843	sg
+27848	sg
+27850	sg
+27852	pl
+27858	sg
+27866	sg
+27870	sg
+sg
+sg
+27886	sg
+27891	sg
+sg
+27895	sg
+27899	sg
+27904	sg
+sg
+27907	sg
+sg
+27914	sg
+27918	pl
+27920	pl
+27940	sg
+27945	sg
+27947	pl
+sg
+27952	pl
+27955	sg
+27963	sg
+sg
+27972	sg
+27977	sg
+sg
+27984	sg
+27990	sg
+28000	sg
+28008	pl
+28010	pl
+28012	pl
+28016	sg
+28025	sg
+28037	sg
+28043	sg
+28050	pl
+28057	sg
+28059	pl
+28063	pl
+sg
+28068	sg
+28073	sg
+sg
+28080	pl
+sg
+28083	sg
+28086	sg
+28104	sg
+pl
+28107	pl
+28117	sg
+28121	pl
+28124	sg
+28130	pl
+28137	sg
+28142	sg
+28159	sg
+28163	sg
+28173	sg
+28182	sg
+28186	pl
+28192	sg
+28202	sg
+28208	sg
+28216	sg
+28222	sg
+28226	sg
+sg
+28237	sg
+28240	sg
+28243	sg
+28252	pl
+28254	sg
+28258	sg
+28260	sg
+28264	pl
+28270	sg
+28274	sg
+28282	sg
+28284	pl
+28295	sg
+28301	sg
+28314	sg
+28319	dual
+28321	dual
+sg
+28326	sg
+28331	sg
+28339	sg
+28344	pl
+28346	sg
+28350	sg
+pl
+28365	sg
+28378	sg
+28386	sg
+28388	sg
+28398	sg
+28402	sg
+28406	sg
+28416	pl
+28418	sg
+28425	sg
+sg
+28428	sg
+28442	sg
+28444	sg
+28449	sg
+28452	sg
+sg
+28456	sg
+28462	sg
+28464	dual
+28470	sg
+sg
+28482	pl
+28484	sg
+28486	sg
+28489	sg
+28492	sg
+sg
+28495	sg
+28499	dual
+28517	sg
+28519	sg
+28521	sg
+28540	sg
+28545	pl
+28549	sg
+28559	sg
+28570	sg
+28574	sg
+28579	sg
+28587	sg
+28612	sg
+28614	sg
+28616	sg
+28618	sg
+28627	pl
+28629	sg
+28632	pl
+sg
+pl
+28648	sg
+28650	sg
+sg
+28654	sg
+28666	sg
+28670	sg
+28676	sg
+28683	pl
+28685	sg
+pl
+28694	dual
+28698	sg
+28700	sg
+28703	sg
+28710	sg
+28717	sg
+28721	sg
+28723	pl
+28728	sg
+28731	sg
+28737	sg
+28743	sg
+28746	sg
+28756	sg
+28769	sg
+28776	sg
+28781	pl
+28788	sg
+28814	dual
+28816	sg
+28820	pl
+28825	sg
+28829	dual
+28832	sg
+pl
+28841	pl
+28843	sg
+28846	sg
+28853	sg
+28883	dual
+28892	sg
+sg
+28896	sg
+28901	sg
+28903	sg
+28905	pl
+28912	sg
+28917	sg
+sg
+28920	sg
+28922	sg
+28926	sg
+sg
+28939	sg
+28943	pl
+28949	sg
+28952	sg
+pl
+28955	sg
+28957	pl
+28963	sg
+28965	sg
+28968	sg
+28975	sg
+28979	sg
+28985	sg
+28991	sg
+28994	pl
+29001	pl
+29006	sg
+29011	sg
+29019	sg
+29026	sg
+29031	sg
+29035	sg
+29038	sg
+29046	sg
+29050	pl
+29053	sg
+29065	sg
+29069	sg
+29071	sg
+29075	pl
+sg
+pl
+29084	sg
+29089	sg
+29095	sg
+sg
+29123	sg
+29126	pl
+29130	sg
+29133	sg
+29136	pl
+29138	sg
+29140	sg
+29142	pl
+29144	dual
+sg
+29160	sg
+29163	pl
+29165	sg
+29181	sg
+29190	sg
+29204	sg
+29217	sg
+29220	sg
+29226	sg
+29241	sg
+29262	sg
+29274	sg
+29276	sg
+29281	pl
+29296	sg
+29299	sg
+29302	sg
+29318	sg
+29321	pl
+29323	pl
+29327	sg
+29338	sg
+pl
+29348	sg
+29350	sg
+29352	pl
+29357	sg
+pl
+29380	sg
+29383	sg
+29391	dual
+29401	pl
+29405	sg
+29407	sg
+29417	pl
+29421	sg
+29423	sg
+29449	pl
+29455	sg
+29458	sg
+29464	sg
+sg
+29467	sg
+29482	sg
+29487	dual
+pl
+29490	pl
+29493	pl
+29497	pl
+29501	sg
+29505	pl
+29507	pl
+pl
+29512	sg
+29519	sg
+29525	sg
+29527	sg
+29534	sg
+29540	dual
+29542	pl
+sg
+29546	dual
+29570	sg
+29586	pl
+29590	pl
+sg
+29599	sg
+29601	pl
+29605	sg
+29607	sg
+29615	sg
+sg
+29627	sg
+29632	pl
+29648	sg
+29650	sg
+29652	sg
+29655	pl
+29661	sg
+29665	sg
+29669	sg
+29672	dual
+29689	sg
+29691	pl
+29695	sg
+29703	pl
+29705	sg
+29709	sg
+29714	sg
+29718	sg
+29727	sg
+29730	sg
+29738	pl
+29741	sg
+29744	sg
+29752	sg
+29757	sg
+29761	sg
+29763	sg
+29765	sg
+29775	sg
+29788	pl
+sg
+29796	sg
+29809	sg
+29811	sg
+29813	sg
+29815	sg
+29820	pl
+29828	sg
+29833	sg
+29835	sg
+sg
+pl
+sg
+29842	sg
+29868	sg
+29875	pl
+29877	sg
+29879	pl
+29885	sg
+29888	sg
+sg
+sg
+29897	pl
+29905	sg
+29909	sg
+29914	sg
+29945	sg
+sg
+29956	sg
+29961	sg
+29969	sg
+29976	sg
+29978	sg
+29980	dual
+29985	sg
+30007	sg
+sg
+30011	pl
+sg
+30016	sg
+30029	sg
+30035	sg
+30039	sg
+30041	sg
+30051	sg
+30056	sg
+30066	pl
+30070	sg
+30075	sg
+30091	sg
+30093	sg
+30103	sg
+30108	sg
+30113	pl
+30118	sg
+30127	dual
+sg
+30135	sg
+30145	sg
+sg
+30154	sg
+30156	sg
+30160	sg
+30166	sg
+30176	pl
+30179	sg
+pl
+30182	sg
+30185	sg
+30188	sg
+30191	sg
+30197	sg
+30204	dual
+30212	sg
+30217	sg
+30219	dual
+30222	sg
+30237	pl
+30258	sg
+30269	sg
+30279	sg
+30283	sg
+30291	sg
+sg
+dual
+30298	sg
+30306	pl
+30315	pl
+sg
+sg
+sg
+30320	sg
+30322	sg
+30325	sg
+30341	pl
+30345	sg
+30358	pl
+30370	sg
+30384	sg
+sg
+30396	sg
+30412	sg
+30419	sg
+30428	sg
+30432	sg
+30450	sg
+sg
+30453	sg
+pl
+30458	sg
+30467	sg
+30471	pl
+30493	sg
+30495	sg
+30507	sg
+sg
+30514	sg
+30529	pl
+30545	dual
+30551	sg
+sg
+30562	sg
+30569	dual
+30575	sg
+30579	sg
+30591	sg
+sg
+30595	sg
+30605	pl
+30607	sg
+30616	pl
+30621	sg
+30624	pl
+30632	dual
+30635	sg
+30638	sg
+30642	pl
+sg
+30650	sg
+30656	sg
+30669	sg
+30672	pl
+30676	pl
+30684	pl
+30686	pl
+30689	sg
+sg
+30697	sg
+30699	pl
+sg
+pl
+sg
+30712	sg
+sg
+30715	dual
+30718	sg
+sg
+30723	sg
+30726	sg
+30730	sg
+30732	sg
+sg
+30736	sg
+30739	sg
+sg
+30751	sg
+30754	sg
+pl
+pl
+30770	pl
+30774	sg
+30778	sg
+dual
+30783	pl
+30790	sg
+30800	pl
+30804	sg
+30807	sg
+30813	dual
+30820	pl
+30839	sg
+30849	sg
+30860	sg
+30866	sg
+30871	sg
+30877	pl
+30886	sg
+30890	sg
+sg
+30899	sg
+30904	pl
+sg
+30908	pl
+30918	pl
+30924	sg
+30926	sg
+30930	pl
+30934	sg
+30936	sg
+30946	pl
+30950	sg
+30952	pl
+sg
+30964	sg
+30970	sg
+30973	sg
+30975	sg
+30981	sg
+pl
+30993	sg
+30995	pl
+31010	sg
+31029	sg
+31045	dual
+31051	sg
+31055	sg
+31061	sg
+31072	sg
+31075	sg
+31098	sg
+31102	sg
+31112	sg
+31116	sg
+31121	sg
+31123	sg
+sg
+pl
+sg
+31129	sg
+31134	sg
+31141	sg
+31147	sg
+sg
+sg
+31151	sg
+31170	sg
+31175	sg
+31189	sg
+31191	sg
+sg
+31198	sg
+31200	sg
+31206	sg
+31224	sg
+31230	sg
+31232	sg
+31234	sg
+31237	sg
+sg
+31242	sg
+31244	sg
+31247	sg
+31252	sg
+31261	sg
+31265	sg
+31267	sg
+31270	sg
+31288	sg
+31294	sg
+31297	sg
+31306	sg
+31308	sg
+31310	sg
+31314	sg
+31322	sg
+31324	sg
+sg
+sg
+31345	pl
+31349	dual
+pl
+sg
+31356	sg
+31358	sg
+31365	pl
+31370	dual
+31381	pl
+31383	sg
+31387	dual
+31391	sg
+31393	sg
+31395	pl
+sg
+31410	sg
+sg
+31414	sg
+31416	sg
+sg
+31421	sg
+31427	sg
+31430	sg
+31442	sg
+31456	sg
+sg
+31465	sg
+31467	pl
+31482	sg
+31489	sg
+31491	sg
+31495	sg
+sg
+31505	pl
+31510	sg
+31515	sg
+31525	sg
+31534	pl
+31536	sg
+31539	sg
+sg
+31545	sg
+31560	sg
+31578	sg
+31581	sg
+31590	dual
+31594	sg
+31596	sg
+31606	pl
+31626	pl
+31628	sg
+31635	pl
+31645	sg
+sg
+31651	sg
+31662	sg
+sg
+31670	sg
+sg
+31673	sg
+31678	sg
+31690	sg
+sg
+pl
+31696	sg
+31707	dual
+sg
+sg
+sg
+31714	sg
+sg
+sg
+31719	sg
+31724	sg
+sg
+31737	pl
+31742	sg
+31745	sg
+sg
+31748	sg
+31759	sg
+31761	pl
+31763	sg
+31768	sg
+31783	sg
+31789	pl
+31791	sg
+31794	sg
+31797	sg
+31800	sg
+31808	sg
+31811	sg
+31820	sg
+31822	pl
+31838	sg
+31842	sg
+pl
+31846	pl
+31859	sg
+31866	pl
+31870	sg
+31875	pl
+31887	sg
+31891	pl
+31917	sg
+31925	sg
+31932	sg
+31938	sg
+31944	sg
+sg
+31948	dual
+31977	pl
+32013	sg
+32021	sg
+32031	sg
+32033	sg
+32035	sg
+32039	sg
+32047	sg
+32079	pl
+32111	dual
+32119	sg
+32135	sg
+32149	dual
+32169	sg
+32191	sg
+32197	sg
+32215	sg
+32220	sg
+sg
+32233	sg
+32238	sg
+32242	sg
+sg
+32265	sg
+32270	sg
+32272	sg
+32277	sg
+32279	sg
+32283	sg
+32286	sg
+32291	sg
+32294	sg
+32298	sg
+32304	sg
+32306	pl
+sg
+32309	sg
+sg
+32315	sg
+32318	sg
+sg
+32321	sg
+sg
+32326	pl
+32330	sg
+32338	sg
+32340	sg
+32342	sg
+32346	sg
+32350	sg
+32357	sg
+32359	sg
+32366	sg
+pl
+32376	sg
+32379	sg
+32384	sg
+32386	sg
+sg
+32389	sg
+sg
+sg
+32401	sg
+sg
+32411	sg
+32413	pl
+32418	sg
+32420	sg
+32433	sg
+32435	sg
+32437	sg
+sg
+32448	pl
+32451	sg
+32465	sg
+32468	sg
+32471	sg
+sg
+32475	sg
+32490	sg
+32495	sg
+32498	sg
+32504	pl
+32506	sg
+32510	sg
+32527	dual
+32541	sg
+32551	sg
+32558	sg
+32562	pl
+32573	sg
+32582	sg
+sg
+32585	sg
+sg
+pl
+32598	pl
+32600	sg
+pl
+32603	sg
+32618	sg
+32620	sg
+32627	sg
+32632	pl
+32636	sg
+32638	sg
+32641	sg
+32644	pl
+32647	sg
+32660	sg
+32668	sg
+32678	sg
+32684	pl
+32692	sg
+32695	sg
+32700	dual
+sg
+32704	sg
+32706	sg
+32710	pl
+32712	sg
+32726	sg
+sg
+32735	sg
+32737	sg
+32743	sg
+32745	sg
+32747	pl
+32749	sg
+32754	sg
+sg
+32760	sg
+32762	sg
+32768	pl
+32771	sg
+32778	sg
+sg
+32804	sg
+32807	sg
+32818	sg
+32822	sg
+32829	sg
+32833	dual
+32837	sg
+32847	sg
+sg
+32854	sg
+32858	dual
+sg
+32864	sg
+32882	sg
+32888	dual
+32893	sg
+32900	sg
+32902	sg
+32904	sg
+32910	sg
+32915	pl
+32918	sg
+sg
+32922	sg
+32928	pl
+32940	sg
+32944	sg
+32950	sg
+32952	pl
+32954	sg
+32958	pl
+32960	sg
+32962	sg
+32980	sg
+32983	sg
+32985	pl
+32994	pl
+32997	sg
+32999	sg
+33004	dual
+33006	sg
+33008	sg
+33013	sg
+33022	sg
+33033	sg
+sg
+33039	sg
+33044	dual
+33047	sg
+33052	sg
+sg
+33055	sg
+33064	sg
+sg
+dual
+33073	sg
+33077	dual
+33081	pl
+33097	dual
+33102	pl
+33106	sg
+33108	sg
+33110	pl
+sg
+33113	sg
+33118	sg
+33132	sg
+sg
+33135	pl
+33143	pl
+33149	sg
+33161	sg
+33165	dual
+33174	sg
+33183	sg
+33185	sg
+33188	pl
+pl
+33198	pl
+sg
+sg
+33211	pl
+33217	dual
+33227	sg
+33238	sg
+33242	sg
+sg
+33265	sg
+sg
+33269	sg
+33272	sg
+33280	sg
+33288	pl
+33295	pl
+33302	sg
+sg
+sg
+33309	sg
+33316	sg
+33324	pl
+33329	pl
+33332	dual
+33338	sg
+dual
+33341	sg
+33347	sg
+33354	pl
+33358	sg
+33361	sg
+33364	sg
+33368	sg
+33371	sg
+33378	sg
+33381	sg
+33384	sg
+33397	sg
+33401	pl
+33411	sg
+33414	sg
+33419	sg
+33427	sg
+sg
+sg
+33435	sg
+33438	sg
+sg
+33442	sg
+33445	sg
+33447	sg
+33450	sg
+33454	pl
+33456	sg
+33461	sg
+33467	sg
+33475	sg
+33482	sg
+33484	sg
+33489	sg
+33496	sg
+33498	sg
+33500	sg
+33503	sg
+33508	sg
+33519	sg
+33524	sg
+pl
+33532	sg
+33535	sg
+33540	sg
+33543	pl
+33557	sg
+33563	sg
+33566	sg
+sg
+33573	sg
+sg
+33576	sg
+33578	sg
+33583	sg
+sg
+33587	pl
+33589	sg
+33591	pl
+33593	sg
+33596	sg
+33598	pl
+33601	pl
+33605	sg
+33625	sg
+33634	pl
+33639	sg
+33650	sg
+33655	pl
+sg
+33661	pl
+sg
+33667	sg
+33673	sg
+33676	sg
+33678	pl
+sg
+33682	sg
+33685	sg
+33696	sg
+sg
+pl
+sg
+33701	pl
+sg
+33705	sg
+33708	sg
+pl
+33711	pl
+sg
+33724	dual
+33728	sg
+sg
+33738	sg
+33744	pl
+33754	sg
+33767	sg
+33773	sg
+33777	sg
+33794	sg
+33800	sg
+33802	sg
+33809	sg
+33817	sg
+33823	sg
+33831	dual
+sg
+dual
+33837	sg
+33840	sg
+33842	sg
+33857	sg
+33862	pl
+33869	sg
+33875	sg
+33881	sg
+33883	sg
+33887	sg
+33890	sg
+33898	sg
+33900	sg
+33903	sg
+33915	pl
+33933	sg
+33938	sg
+33944	sg
+33948	sg
+33951	sg
+33983	sg
+33990	sg
+dual
+34002	sg
+34008	sg
+34028	dual
+34031	pl
+34033	pl
+34039	sg
+34042	sg
+34045	sg
+34063	sg
+34065	sg
+34069	sg
+34071	sg
+34073	sg
+sg
+sg
+34081	dual
+34083	sg
+34085	sg
+34091	sg
+34101	sg
+sg
+34115	sg
+34118	sg
+34120	sg
+pl
+34125	pl
+34128	sg
+34138	dual
+34141	sg
+34144	sg
+34149	pl
+34158	pl
+sg
+34165	sg
+34174	pl
+34178	sg
+sg
+34181	dual
+34184	sg
+34187	sg
+34190	sg
+pl
+sg
+34195	pl
+34199	pl
+pl
+34204	pl
+34206	pl
+34208	pl
+34211	pl
+34227	sg
+34238	sg
+34243	dual
+sg
+34246	sg
+34251	sg
+pl
+sg
+sg
+pl
+34257	pl
+34259	sg
+pl
+34264	dual
+pl
+34270	sg
+34275	pl
+34278	sg
+pl
+34283	dual
+pl
+34288	sg
+34292	pl
+34294	sg
+pl
+34300	dual
+pl
+34307	pl
+34310	dual
+dual
+34313	pl
+34318	pl
+34320	pl
+34330	sg
+sg
+34352	pl
+34356	pl
+34359	pl
+34363	pl
+pl
+34370	pl
+34372	sg
+34376	pl
+sg
+34384	pl
+34386	pl
+sg
+34392	sg
+sg
+34399	sg
+34427	sg
+34437	sg
+34443	sg
+34446	sg
+34453	sg
+34459	sg
+34463	sg
+34465	sg
+34471	sg
+34483	sg
+34489	sg
+pl
+34497	pl
+34499	sg
+34505	sg
+sg
+34512	pl
+sg
+34516	sg
+34518	pl
+34524	sg
+34527	sg
+dual
+34537	dual
+34539	sg
+34543	sg
+sg
+34551	pl
+sg
+34556	pl
+dual
+sg
+34568	sg
+34570	sg
+34572	sg
+pl
+34576	sg
+sg
+34606	dual
+34608	pl
+34613	sg
+34617	sg
+34626	sg
+sg
+34633	sg
+34645	dual
+34648	sg
+34654	sg
+34656	sg
+34661	sg
+34663	sg
+34665	sg
+34668	sg
+34679	sg
+34683	sg
+34687	sg
+34701	sg
+34703	sg
+34707	sg
+34713	pl
+34724	pl
+34730	sg
+34733	pl
+34735	sg
+34755	sg
+sg
+34769	sg
+34771	sg
+34776	sg
+34782	sg
+34793	sg
+sg
+34802	sg
+34807	sg
+sg
+pl
+34816	pl
+34819	sg
+34822	sg
+34824	sg
+34828	sg
+34834	sg
+34841	sg
+sg
+34855	sg
+34865	sg
+dual
+34872	sg
+34876	pl
+34879	sg
+34884	sg
+34893	sg
+34898	sg
+34900	sg
+sg
+34923	sg
+34930	pl
+34945	sg
+34951	sg
+34954	sg
+34957	sg
+sg
+34975	sg
+pl
+34983	pl
+34988	sg
+34995	sg
+34998	pl
+35005	pl
+35013	sg
+35015	sg
+35017	sg
+pl
+35020	sg
+35026	sg
+35031	dual
+35035	sg
+35037	sg
+pl
+sg
+35044	sg
+35052	sg
+35056	sg
+35060	sg
+35071	sg
+35073	sg
+35077	sg
+35079	sg
+35085	sg
+35088	sg
+sg
+35094	sg
+35100	sg
+35105	sg
+sg
+pl
+35116	sg
+35122	sg
+sg
+35125	sg
+35128	sg
+35130	sg
+sg
+pl
+35136	sg
+35145	pl
+35147	sg
+35155	sg
+35157	sg
+35161	sg
+35166	sg
+35170	sg
+35175	sg
+35177	sg
+35185	sg
+35194	pl
+pl
+35200	sg
+35203	pl
+35205	sg
+sg
+35208	pl
+35225	sg
+35228	pl
+sg
+sg
+35235	sg
+35238	sg
+35240	pl
+sg
+35245	sg
+35257	sg
+35266	sg
+35271	sg
+35276	sg
+35278	sg
+35281	sg
+35284	sg
+35289	sg
+35297	sg
+35299	dual
+sg
+pl
+35305	dual
+35329	pl
+35336	sg
+35339	pl
+35341	sg
+sg
+35361	sg
+35365	sg
+sg
+35372	sg
+35397	sg
+sg
+35402	sg
+35407	sg
+35411	sg
+35413	pl
+35416	sg
+35428	sg
+sg
+35462	sg
+35466	sg
+35481	sg
+sg
+35497	sg
+sg
+35502	sg
+35507	sg
+35518	sg
+sg
+35526	sg
+35530	sg
+35532	sg
+35548	pl
+35550	sg
+35552	sg
+35558	sg
+35563	sg
+pl
+35573	dual
+35577	sg
+35580	sg
+35588	sg
+35602	pl
+35605	sg
+dual
+sg
+35610	sg
+35612	pl
+35623	sg
+pl
+35630	dual
+35633	sg
+35638	sg
+35645	dual
+35652	sg
+35665	sg
+sg
+35670	pl
+35677	pl
+35680	sg
+35687	sg
+sg
+35692	sg
+35694	sg
+35697	sg
+pl
+35701	dual
+35704	pl
+35706	sg
+35719	sg
+35724	sg
+35731	sg
+sg
+35734	pl
+35738	sg
+35750	sg
+35756	sg
+35760	sg
+pl
+35774	pl
+35782	pl
+35785	sg
+35788	pl
+35791	sg
+35795	sg
+35801	sg
+35811	sg
+35817	sg
+sg
+35837	sg
+35839	sg
+35842	pl
+sg
+35845	sg
+35853	pl
+35856	sg
+35859	pl
+35865	sg
+sg
+35871	pl
+35875	sg
+35882	sg
+35885	sg
+35897	sg
+35905	dual
+35913	sg
+35915	sg
+35917	sg
+35919	sg
+35926	sg
+35936	sg
+35940	sg
+35953	sg
+35956	sg
+sg
+35960	sg
+35964	sg
+35966	pl
+35970	pl
+35974	sg
+35978	sg
+sg
+35991	sg
+sg
+36009	pl
+sg
+36030	sg
+sg
+36038	sg
+36040	sg
+36042	sg
+36047	sg
+36049	pl
+36062	sg
+dual
+36079	pl
+36083	sg
+sg
+36087	sg
+36089	sg
+36091	sg
+36093	sg
+36097	sg
+36101	sg
+36114	sg
+36117	sg
+36128	dual
+sg
+36134	sg
+36136	sg
+36143	sg
+36148	sg
+36152	dual
+36154	sg
+36161	sg
+36163	sg
+36167	sg
+36172	sg
+36176	sg
+36181	sg
+36183	sg
+36191	dual
+dual
+36195	sg
+36197	sg
+36207	sg
+36214	sg
+36221	sg
+36225	sg
+36239	sg
+36245	dual
+dual
+36251	pl
+36261	sg
+36264	sg
+36274	sg
+36286	sg
+sg
+36298	dual
+dual
+36306	pl
+36308	sg
+36311	sg
+36313	sg
+36315	sg
+36344	pl
+36347	sg
+36355	pl
+36361	pl
+36368	sg
+36375	sg
+36378	sg
+36388	sg
+36396	sg
+36399	sg
+36419	pl
+36424	sg
+36434	sg
+36437	sg
+sg
+36447	sg
+36457	sg
+dual
+36464	sg
+36472	pl
+36476	pl
+36486	sg
+36491	sg
+36495	sg
+36502	pl
+36504	sg
+pl
+36510	sg
+36518	sg
+36529	sg
+36533	sg
+36535	pl
+36538	sg
+36561	sg
+36566	sg
+36581	pl
+36600	sg
+sg
+36619	sg
+36622	dual
+dual
+36632	pl
+36634	sg
+36638	sg
+36643	sg
+36649	pl
+36655	sg
+36660	sg
+36666	sg
+36685	sg
+36687	pl
+sg
+sg
+36707	dual
+36712	dual
+36716	sg
+36721	sg
+36723	sg
+36728	sg
+36736	sg
+36754	sg
+36756	sg
+36758	pl
+36761	pl
+sg
+36768	sg
+36772	sg
+36785	pl
+36787	sg
+36792	pl
+36796	sg
+36801	sg
+36810	sg
+36826	sg
+36830	sg
+36834	sg
+36839	pl
+sg
+36847	sg
+sg
+36852	sg
+36863	sg
+36867	sg
+36871	sg
+36873	sg
+36876	pl
+36889	sg
+36891	sg
+36913	pl
+36916	sg
+36918	sg
+36926	sg
+36929	sg
+sg
+36934	pl
+sg
+36937	sg
+36939	pl
+36941	sg
+36948	sg
+36951	sg
+36959	sg
+36964	pl
+36966	pl
+36971	sg
+36973	sg
+36975	sg
+36978	sg
+36986	sg
+36990	sg
+36999	pl
+37006	sg
+pl
+37009	sg
+37016	sg
+37027	pl
+37033	sg
+37036	sg
+37039	sg
+37044	sg
+37046	sg
+37049	sg
+37051	sg
+37060	sg
+37079	sg
+37085	sg
+37092	sg
+sg
+sg
+37096	pl
+37099	sg
+37103	pl
+37107	sg
+pl
+37112	pl
+37114	sg
+37122	sg
+37132	sg
+37145	sg
+37155	sg
+37165	pl
+37168	sg
+sg
+37175	pl
+37182	sg
+37192	sg
+37197	sg
+37209	sg
+37215	sg
+sg
+37218	sg
+37223	sg
+37226	sg
+37236	sg
+37252	sg
+37261	dual
+37270	pl
+37297	pl
+37308	sg
+37314	pl
+37317	sg
+37328	sg
+37339	sg
+37342	sg
+37345	pl
+37351	sg
+37362	sg
+37368	pl
+sg
+37374	sg
+37380	sg
+37388	sg
+37390	sg
+37416	sg
+37423	sg
+sg
+37427	sg
+37431	sg
+dual
+37442	sg
+37445	sg
+37448	sg
+37455	sg
+37465	sg
+37479	sg
+37489	sg
+37498	sg
+37501	sg
+sg
+37516	sg
+37526	pl
+37535	sg
+sg
+37538	pl
+37542	sg
+37544	dual
+37550	sg
+37552	sg
+sg
+37575	sg
+37586	sg
+37592	sg
+37597	sg
+37601	pl
+37611	sg
+37613	sg
+37617	sg
+sg
+37623	sg
+37630	sg
+37632	sg
+37634	sg
+37640	sg
+37643	sg
+37649	sg
+37653	sg
+sg
+37656	sg
+37659	sg
+37668	dual
+37671	sg
+sg
+37677	sg
+37679	sg
+37683	sg
+sg
+37688	sg
+37692	sg
+37695	sg
+37701	sg
+37706	sg
+37710	sg
+37714	sg
+37716	pl
+37718	sg
+sg
+37723	sg
+sg
+sg
+sg
+37732	sg
+37736	sg
+37750	sg
+dual
+sg
+37756	pl
+37758	sg
+37764	sg
+37770	sg
+37773	sg
+37775	sg
+sg
+37780	sg
+37784	sg
+37792	sg
+37795	sg
+37799	sg
+37804	sg
+sg
+37809	pl
+sg
+37817	sg
+37822	pl
+37831	sg
+37837	sg
+pl
+sg
+37844	sg
+37855	sg
+37860	sg
+37866	sg
+37870	dual
+37878	sg
+37884	sg
+37887	sg
+37896	dual
+37898	pl
+37904	sg
+37906	pl
+37912	dual
+37914	sg
+sg
+37926	sg
+37928	sg
+37931	sg
+37936	pl
+37941	sg
+37944	pl
+pl
+37952	dual
+37954	sg
+sg
+pl
+37961	pl
+37967	sg
+37970	sg
+37973	sg
+37976	sg
+37987	pl
+38006	pl
+38011	pl
+sg
+38014	pl
+38017	sg
+38021	sg
+38028	sg
+38033	sg
+38039	sg
+38044	sg
+38046	dual
+dual
+38049	pl
+38053	sg
+sg
+38061	pl
+38064	sg
+38066	sg
+38068	pl
+38070	sg
+38073	sg
+38079	sg
+38089	sg
+38096	dual
+38098	pl
+38103	dual
+38109	sg
+38120	sg
+38122	sg
+38124	sg
+38126	sg
+38134	sg
+38136	sg
+38141	sg
+38149	sg
+38164	sg
+38173	sg
+38179	sg
+38184	sg
+sg
+38188	sg
+38191	sg
+sg
+sg
+38195	sg
+38197	dual
+38199	sg
+38201	pl
+38204	sg
+38209	dual
+38216	pl
+dual
+pl
+38222	sg
+sg
+38229	pl
+38234	sg
+sg
+38238	sg
+38251	sg
+sg
+sg
+38255	sg
+sg
+38258	sg
+38260	sg
+sg
+38264	sg
+38266	sg
+sg
+38270	sg
+38273	sg
+38276	sg
+38278	sg
+sg
+38282	sg
+sg
+38286	sg
+38289	pl
+sg
+38292	sg
+38294	sg
+38300	sg
+38304	sg
+38308	sg
+38312	sg
+38318	sg
+38322	sg
+pl
+38328	sg
+38334	sg
+38336	sg
+38344	pl
+38347	pl
+38356	pl
+38366	pl
+38371	dual
+38374	sg
+sg
+38378	sg
+38383	pl
+38387	sg
+38403	sg
+38416	sg
+sg
+38421	sg
+sg
+sg
+sg
+38428	sg
+38430	sg
+38433	sg
+38440	sg
+38448	sg
+pl
+38457	sg
+38459	pl
+38467	sg
+38472	sg
+38483	sg
+38495	dual
+38497	sg
+sg
+38500	sg
+sg
+38510	sg
+38518	sg
+38521	sg
+38529	pl
+38532	pl
+38538	pl
+38545	sg
+38557	sg
+38564	sg
+38566	sg
+38573	sg
+38575	sg
+38580	pl
+38585	sg
+38588	dual
+sg
+38592	sg
+38595	sg
+pl
+38599	pl
+38602	pl
+38605	sg
+38612	pl
+38616	sg
+sg
+38619	sg
+sg
+38626	sg
+38634	sg
+38646	sg
+38651	sg
+38653	sg
+38658	sg
+38668	dual
+sg
+38672	sg
+sg
+38681	sg
+sg
+pl
+sg
+38687	sg
+38690	dual
+38695	dual
+38698	sg
+38701	sg
+38704	sg
+sg
+pl
+sg
+pl
+38711	pl
+pl
+38718	pl
+38726	dual
+38732	pl
+38738	sg
+38747	sg
+38750	sg
+38752	sg
+38755	sg
+38760	pl
+38765	sg
+38773	sg
+sg
+38780	sg
+sg
+38783	sg
+38786	sg
+38798	sg
+38800	sg
+38808	sg
+38810	pl
+38812	dual
+dual
+38819	sg
+38827	dual
+38829	sg
+38831	sg
+dual
+38835	dual
+38842	sg
+38853	dual
+38856	pl
+38861	dual
+dual
+sg
+38869	dual
+dual
+sg
+sg
+38877	dual
+38881	sg
+38883	sg
+38887	sg
+38890	dual
+dual
+38897	dual
+38899	sg
+38904	sg
+38909	sg
+38911	dual
+38919	sg
+38926	sg
+38929	dual
+sg
+38932	pl
+38937	sg
+38939	sg
+38944	sg
+38946	sg
+38955	sg
+38959	sg
+pl
+38964	sg
+sg
+sg
+sg
+38974	sg
+38990	sg
+38994	dual
+sg
+38997	sg
+sg
+sg
+39001	pl
+39009	dual
+39016	sg
+39018	dual
+39030	sg
+39033	sg
+39038	sg
+39043	sg
+pl
+39051	dual
+39054	sg
+39060	sg
+39078	sg
+39090	sg
+39095	sg
+39101	pl
+39104	pl
+39109	sg
+sg
+39124	pl
+39128	sg
+39133	sg
+sg
+39140	sg
+39142	sg
+39150	sg
+39152	sg
+39164	sg
+39168	sg
+sg
+39172	sg
+39175	sg
+39185	sg
+39187	sg
+39194	sg
+39197	sg
+39201	sg
+sg
+39205	pl
+39211	sg
+39224	sg
+39228	sg
+39233	sg
+39237	pl
+39241	sg
+39245	sg
+sg
+39249	sg
+39254	sg
+39268	sg
+pl
+39283	dual
+39285	sg
+39288	sg
+39291	pl
+39293	sg
+39295	pl
+39299	pl
+39314	sg
+39316	sg
+39319	sg
+39325	pl
+39329	pl
+39342	pl
+39346	dual
+39348	dual
+39351	sg
+sg
+sg
+39355	sg
+39357	pl
+39363	sg
+39367	pl
+39369	sg
+39373	sg
+sg
+pl
+39396	pl
+39398	pl
+dual
+39402	sg
+sg
+39413	pl
+39426	pl
+dual
+39433	sg
+sg
+39436	sg
+39446	pl
+39453	sg
+39457	sg
+39466	pl
+39477	sg
+sg
+pl
+39486	pl
+39506	sg
+39509	sg
+39511	pl
+39517	sg
+39520	pl
+39540	sg
+39542	sg
+39561	pl
+39570	pl
+39588	sg
+sg
+39591	pl
+39593	sg
+39610	sg
+39612	pl
+pl
+39621	sg
+39623	sg
+39626	sg
+sg
+pl
+39633	sg
+39644	pl
+39646	sg
+sg
+39657	pl
+39659	sg
+39661	sg
+39663	pl
+39667	sg
+39669	sg
+39677	sg
+sg
+39683	sg
+39685	sg
+39690	pl
+39694	pl
+39696	sg
+39698	sg
+39702	sg
+39704	sg
+39708	sg
+39713	sg
+39732	sg
+39738	pl
+39746	sg
+39752	dual
+sg
+39755	sg
+39763	sg
+39769	sg
+39774	sg
+39785	sg
+39789	pl
+39791	pl
+39809	sg
+39814	pl
+sg
+39825	pl
+39827	sg
+39830	sg
+39832	sg
+39834	sg
+39837	sg
+39839	sg
+sg
+39843	sg
+39846	sg
+39848	sg
+39854	dual
+39858	sg
+39860	sg
+39862	pl
+pl
+39866	pl
+sg
+39870	sg
+sg
+39874	sg
+39879	sg
+39884	sg
+sg
+pl
+39888	sg
+dual
+39900	sg
+sg
+39903	sg
+39907	sg
+39909	pl
+39911	sg
+pl
+39914	pl
+39916	sg
+39926	sg
+sg
+39930	pl
+39936	pl
+39941	pl
+39953	sg
+39965	sg
+sg
+39973	sg
+39981	sg
+pl
+pl
+dual
+39991	sg
+39993	pl
+39997	sg
+39999	sg
+40005	sg
+40015	sg
+40021	sg
+40029	pl
+40041	dual
+40045	pl
+40052	pl
+40055	pl
+40057	pl
+40062	pl
+40066	sg
+40074	pl
+40076	pl
+40078	dual
+40082	sg
+40093	sg
+40099	pl
+40110	sg
+40119	sg
+40124	pl
+40128	sg
+40130	sg
+sg
+40143	sg
+sg
+40149	sg
+sg
+40152	sg
+sg
+pl
+40158	sg
+40162	sg
+40171	sg
+40175	sg
+40184	sg
+40188	pl
+40195	sg
+40203	pl
+40205	sg
+40208	pl
+40212	sg
+40214	sg
+40218	sg
+40220	sg
+40224	sg
+40230	sg
+40232	sg
+40242	sg
+40244	sg
+40247	pl
+40254	sg
+40262	sg
+40264	sg
+pl
+40268	sg
+pl
+40276	sg
+40278	sg
+40280	sg
+40286	sg
+40290	sg
+40307	sg
+40309	sg
+40311	sg
+sg
+40314	pl
+sg
+40317	sg
+40321	sg
+40325	sg
+40333	sg
+sg
+40342	sg
+40344	sg
+40348	pl
+40353	sg
+40363	dual
+40381	pl
+40392	sg
+40394	sg
+40397	sg
+40402	pl
+40405	pl
+40414	sg
+pl
+40452	dual
+40462	sg
+40468	pl
+40470	pl
+40474	pl
+40485	pl
+40487	sg
+40498	sg
+pl
+40514	pl
+40516	sg
+40519	sg
+40522	sg
+sg
+40536	sg
+40545	sg
+40553	sg
+40555	sg
+sg
+40561	pl
+40564	dual
+40567	pl
+40569	sg
+40586	sg
+40590	sg
+40592	pl
+40594	sg
+40598	pl
+40607	sg
+pl
+40610	sg
+40612	pl
+40614	pl
+40618	sg
+sg
+40623	sg
+40630	sg
+40632	pl
+40635	sg
+40637	pl
+40645	sg
+pl
+40648	sg
+40650	pl
+40654	sg
+40669	dual
+40675	sg
+sg
+40681	sg
+sg
+40687	dual
+40691	sg
+40703	sg
+40707	sg
+40709	sg
+40716	pl
+40718	sg
+40722	sg
+dual
+40726	sg
+40728	sg
+40730	pl
+sg
+40736	sg
+40747	sg
+40753	sg
+40756	sg
+40762	sg
+40765	pl
+40772	sg
+40778	sg
+40790	sg
+40802	sg
+40807	sg
+40811	sg
+40821	pl
+40828	sg
+40830	sg
+40837	sg
+40849	sg
+40859	sg
+sg
+40865	sg
+40869	sg
+40872	pl
+40881	sg
+40892	sg
+40897	sg
+40900	pl
+40903	dual
+40905	sg
+40908	sg
+40910	pl
+40918	sg
+40925	sg
+40928	dual
+40931	sg
+40937	sg
+40939	sg
+40941	sg
+40943	pl
+40945	sg
+pl
+40953	sg
+40956	sg
+pl
+40960	sg
+sg
+40964	pl
+40971	sg
+40973	sg
+40977	sg
+sg
+sg
+sg
+40984	sg
+40987	pl
+40989	dual
+40995	sg
+pl
+pl
+41001	pl
+41009	sg
+41011	sg
+41014	sg
+41019	sg
+41021	sg
+sg
+pl
+41026	sg
+pl
+41029	sg
+41037	pl
+sg
+41045	sg
+41048	sg
+pl
+pl
+41052	sg
+41055	pl
+41057	sg
+41083	pl
+41085	sg
+41089	sg
+41091	pl
+41105	pl
+41107	sg
+41109	sg
+41112	pl
+41118	pl
+41126	sg
+41130	sg
+41140	sg
+41147	sg
+41149	dual
+41151	sg
+sg
+41158	sg
+41161	sg
+41175	sg
+41192	dual
+41194	sg
+41207	sg
+41209	pl
+41213	sg
+41215	pl
+41218	pl
+41220	pl
+sg
+41229	sg
+sg
+41236	sg
+41252	sg
+41255	sg
+41263	sg
+41269	pl
+41276	sg
+41278	sg
+41288	sg
+41294	sg
+41300	sg
+41303	pl
+41312	sg
+41318	sg
+41323	pl
+41330	sg
+41334	sg
+41340	sg
+41352	sg
+sg
+41359	sg
+41363	dual
+41370	sg
+sg
+41373	dual
+41381	sg
+sg
+41388	sg
+sg
+pl
+41393	pl
+sg
+41406	sg
+41413	pl
+sg
+41418	sg
+41420	sg
+sg
+41425	sg
+41428	pl
+sg
+41441	sg
+sg
+41446	pl
+sg
+41449	sg
+41454	sg
+41459	sg
+41462	sg
+41465	sg
+41467	sg
+sg
+41472	pl
+41474	sg
+41482	pl
+41484	sg
+41487	sg
+41491	sg
+41505	sg
+41512	pl
+41522	sg
+41527	sg
+41532	sg
+41539	sg
+41541	pl
+41546	pl
+41548	sg
+41555	sg
+41559	dual
+41570	sg
+41577	sg
+41581	sg
+41583	sg
+41585	sg
+41594	sg
+41602	sg
+41605	sg
+41608	sg
+41614	sg
+41616	sg
+41620	sg
+sg
+41623	sg
+41634	sg
+41636	pl
+41640	sg
+pl
+41647	sg
+41654	sg
+sg
+41665	sg
+41676	dual
+41688	sg
+41691	sg
+41703	sg
+41706	sg
+41716	sg
+41718	sg
+sg
+41722	sg
+sg
+sg
+sg
+41738	sg
+41761	sg
+41764	sg
+sg
+41767	sg
+41771	sg
+41773	sg
+41776	pl
+41781	sg
+41788	pl
+41790	sg
+dual
+41807	sg
+41811	sg
+41814	pl
+sg
+41819	pl
+41825	sg
+41828	sg
+sg
+41832	sg
+41836	sg
+41845	sg
+41848	sg
+41854	sg
+41858	sg
+41868	sg
+41875	pl
+41880	sg
+41890	dual
+41892	sg
+41901	pl
+sg
+41906	sg
+41914	sg
+41917	sg
+41919	sg
+41923	pl
+41925	pl
+41928	pl
+41930	dual
+41934	sg
+pl
+41946	sg
+41950	sg
+sg
+41956	sg
+41962	sg
+sg
+sg
+41971	sg
+41975	sg
+41977	pl
+41979	sg
+41982	sg
+41984	sg
+41987	dual
+pl
+41991	pl
+41997	sg
+pl
+42001	pl
+42003	sg
+42005	sg
+42009	sg
+sg
+42018	sg
+42028	pl
+42034	sg
+42037	pl
+42042	sg
+42049	sg
+sg
+pl
+42056	sg
+42058	sg
+42069	sg
+42087	sg
+42101	pl
+42104	sg
+42110	sg
+42115	sg
+42121	sg
+42134	sg
+42138	sg
+42142	pl
+sg
+42149	sg
+42153	sg
+42156	sg
+42167	pl
+42178	sg
+42186	sg
+42193	sg
+42197	pl
+sg
+42204	sg
+sg
+42211	sg
+42222	sg
+42224	sg
+42230	sg
+42239	pl
+42249	sg
+42252	sg
+42259	sg
+42280	sg
+42286	sg
+42290	sg
+42295	sg
+42301	sg
+42326	sg
+42329	sg
+42333	sg
+42337	sg
+42340	sg
+42347	sg
+42354	sg
+42358	sg
+42360	pl
+42371	sg
+42377	sg
+42381	dual
+42383	sg
+42389	sg
+42393	sg
+42396	sg
+42403	sg
+42408	sg
+42411	sg
+42422	dual
+42428	sg
+42434	sg
+sg
+42440	sg
+42443	sg
+42446	sg
+42453	sg
+42456	sg
+42462	sg
+42470	sg
+42479	sg
+42485	sg
+42490	sg
+42492	sg
+42495	sg
+sg
+42498	sg
+42502	sg
+42505	sg
+42508	sg
+42511	sg
+dual
+42515	sg
+42521	sg
+42524	sg
+sg
+42528	sg
+42531	sg
+sg
+42535	sg
+dual
+42544	sg
+42553	sg
+sg
+42564	sg
+42570	sg
+42572	pl
+sg
+42576	sg
+42584	sg
+42587	sg
+42590	sg
+42610	sg
+42616	sg
+42622	pl
+sg
+42625	sg
+42629	sg
+42635	sg
+pl
+42639	sg
+pl
+sg
+42646	sg
+sg
+42651	sg
+42658	sg
+42669	sg
+42677	sg
+42681	sg
+42684	pl
+42692	sg
+42700	pl
+42702	sg
+42706	sg
+sg
+42713	dual
+42715	sg
+42719	sg
+42739	sg
+42757	sg
+42761	sg
+42766	pl
+42790	sg
+42792	sg
+42796	dual
+sg
+42803	sg
+42809	sg
+sg
+42825	sg
+42832	sg
+42840	sg
+42845	sg
+42848	sg
+42854	sg
+42856	sg
+42862	sg
+42864	pl
+42872	sg
+42879	dual
+42881	sg
+42884	sg
+sg
+42888	pl
+dual
+dual
+42897	sg
+42903	sg
+42906	sg
+42910	sg
+42913	sg
+42921	sg
+pl
+sg
+42925	sg
+42932	sg
+42938	sg
+42943	sg
+42950	sg
+42956	sg
+42968	sg
+42973	sg
+42976	sg
+42980	pl
+sg
+42984	sg
+42988	sg
+42992	sg
+42995	sg
+sg
+42998	sg
+43002	sg
+43007	dual
+43016	sg
+43018	sg
+43028	sg
+43033	sg
+43035	pl
+43037	sg
+43040	sg
+sg
+43044	sg
+sg
+43048	sg
+sg
+43053	sg
+43056	pl
+sg
+sg
+43062	sg
+43065	pl
+sg
+43069	sg
+43071	sg
+43074	sg
+43076	pl
+43078	sg
+43081	sg
+sg
+43102	pl
+43108	sg
+pl
+43116	sg
+sg
+43121	sg
+43124	sg
+43128	sg
+43131	sg
+43133	pl
+dual
+43136	sg
+43145	sg
+43151	dual
+sg
+43159	dual
+sg
+pl
+pl
+43164	sg
+sg
+43171	sg
+43176	sg
+43181	dual
+43185	pl
+43190	pl
+43193	sg
+sg
+43196	pl
+43201	pl
+43205	sg
+sg
+sg
+43209	pl
+sg
+43216	sg
+43228	pl
+43237	sg
+43239	sg
+43242	pl
+43250	sg
+43256	sg
+43258	sg
+sg
+43261	sg
+43263	sg
+43269	sg
+43272	sg
+43278	sg
+43284	sg
+43292	sg
+43295	dual
+43297	sg
+43301	sg
+43305	dual
+43307	sg
+43311	pl
+sg
+43316	sg
+43319	dual
+43321	sg
+43325	sg
+43329	sg
+43331	sg
+43333	pl
+43338	sg
+43340	sg
+43346	pl
+pl
+sg
+43350	sg
+43366	sg
+43376	sg
+43379	pl
+43381	sg
+43383	sg
+43407	sg
+43409	sg
+43416	pl
+43419	sg
+43429	pl
+43442	sg
+43444	pl
+43452	sg
+43454	sg
+43459	dual
+43462	sg
+pl
+43467	sg
+43472	pl
+43479	dual
+43486	sg
+pl
+43493	pl
+43496	sg
+dual
+sg
+43504	sg
+sg
+43507	sg
+43510	sg
+43515	sg
+sg
+43518	sg
+pl
+43550	pl
+43553	sg
+43556	sg
+43563	sg
+43566	sg
+43572	sg
+43579	pl
+43582	sg
+43585	sg
+43587	sg
+43594	dual
+43596	sg
+43599	sg
+43605	dual
+sg
+43610	sg
+43620	sg
+43623	sg
+43626	sg
+43632	dual
+43639	pl
+43641	sg
+43645	sg
+43650	sg
+43653	sg
+43660	sg
+43666	sg
+43668	sg
+43670	sg
+43673	pl
+43675	pl
+43679	sg
+43682	sg
+pl
+43685	sg
+43687	sg
+43690	sg
+43695	sg
+43698	sg
+43704	sg
+43715	sg
+43723	sg
+43726	sg
+43728	sg
+43746	dual
+sg
+43752	sg
+43769	sg
+43772	sg
+43783	pl
+sg
+43792	pl
+43799	sg
+pl
+43804	sg
+43825	dual
+43832	sg
+sg
+sg
+43841	pl
+43843	dual
+sg
+43857	dual
+43859	sg
+sg
+sg
+pl
+43866	sg
+43868	pl
+43870	sg
+43876	sg
+43878	sg
+43882	pl
+pl
+43889	sg
+sg
+sg
+43898	sg
+43902	sg
+43918	sg
+43921	sg
+43927	sg
+43933	sg
+43937	sg
+43941	sg
+43945	pl
+43951	pl
+43955	sg
+43958	sg
+43962	sg
+43966	sg
+43969	sg
+pl
+43975	sg
+43978	sg
+dual
+43982	sg
+43984	pl
+43986	sg
+43992	dual
+43998	sg
+44000	pl
+44002	sg
+44006	sg
+44008	sg
+44010	sg
+44014	sg
+dual
+44017	pl
+44019	sg
+pl
+44024	sg
+44028	sg
+44031	dual
+sg
+44034	sg
+44037	sg
+44039	sg
+sg
+pl
+44046	sg
+44053	sg
+44058	pl
+44060	sg
+44064	sg
+44077	sg
+44082	sg
+44085	sg
+44087	sg
+44092	dual
+44094	dual
+44096	sg
+44100	sg
+44117	pl
+44119	sg
+44127	sg
+44137	dual
+pl
+44145	sg
+44150	pl
+44153	pl
+sg
+44160	sg
+44172	pl
+44176	sg
+44179	sg
+44181	sg
+44184	sg
+44192	sg
+44209	sg
+44211	sg
+44214	sg
+sg
+44221	sg
+44226	sg
+44237	sg
+44242	pl
+44247	sg
+44252	sg
+sg
+44260	sg
+44282	sg
+44285	sg
+44292	sg
+44307	sg
+44318	sg
+sg
+44335	pl
+44339	sg
+44343	sg
+44346	sg
+sg
+dual
+sg
+44353	sg
+44364	sg
+44388	sg
+44398	sg
+sg
+44401	dual
+44414	dual
+44416	sg
+44418	sg
+44424	sg
+sg
+pl
+44429	pl
+44434	sg
+sg
+44439	sg
+44442	sg
+44449	sg
+44457	pl
+sg
+44466	sg
+44475	pl
+44477	sg
+44481	sg
+44496	pl
+sg
+44500	sg
+sg
+44505	sg
+44516	sg
+sg
+sg
+sg
+sg
+44525	pl
+44528	sg
+44533	sg
+44537	sg
+44539	sg
+44542	sg
+44547	pl
+sg
+sg
+44552	sg
+44573	sg
+sg
+44579	sg
+sg
+44598	sg
+44600	dual
+44609	sg
+44619	sg
+pl
+44626	sg
+44629	sg
+44635	sg
+sg
+sg
+44639	sg
+pl
+44653	sg
+44670	pl
+44674	sg
+44680	sg
+44682	sg
+44686	sg
+44694	sg
+pl
+44700	pl
+pl
+sg
+44707	sg
+44723	sg
+44726	sg
+pl
+44729	pl
+44731	pl
+44734	sg
+44737	sg
+44740	sg
+44742	sg
+44744	sg
+44746	pl
+44752	sg
+sg
+44758	pl
+44761	sg
+44766	sg
+44769	sg
+44779	dual
+44791	dual
+44803	sg
+44807	pl
+44817	sg
+sg
+44833	sg
+44838	sg
+44842	sg
+44852	sg
+44855	sg
+44858	sg
+sg
+pl
+sg
+44863	pl
+sg
+sg
+pl
+sg
+44870	pl
+44876	pl
+44878	sg
+44882	pl
+44886	dual
+44894	sg
+44896	pl
+sg
+44901	pl
+sg
+44904	sg
+44906	sg
+44908	pl
+44911	pl
+44918	dual
+44920	sg
+44922	sg
+44925	pl
+44930	sg
+44938	sg
+sg
+sg
+44942	sg
+44944	sg
+44949	pl
+44952	sg
+44964	pl
+sg
+sg
+44970	pl
+44973	sg
+sg
+44978	sg
+44984	sg
+44990	sg
+45001	sg
+45013	sg
+45017	sg
+45020	sg
+45030	sg
+pl
+45033	pl
+sg
+45042	sg
+45044	sg
+45048	sg
+45051	sg
+45053	sg
+45062	sg
+sg
+45067	sg
+45074	sg
+45077	sg
+sg
+pl
+45084	sg
+45092	sg
+sg
+45108	sg
+45112	sg
+pl
+45115	pl
+sg
+45118	sg
+45138	sg
+45149	sg
+45152	pl
+45154	sg
+45166	sg
+45178	sg
+45184	sg
+45187	sg
+45191	sg
+sg
+45197	dual
+sg
+45204	sg
+45217	sg
+45224	sg
+45230	sg
+45233	sg
+45238	sg
+45243	sg
+45246	pl
+45256	sg
+45266	sg
+45270	sg
+45286	sg
+45288	sg
+45290	sg
+45293	sg
+45313	sg
+45317	sg
+45323	sg
+45328	sg
+45333	sg
+45336	sg
+45344	pl
+45347	sg
+45356	pl
+45360	sg
+45363	sg
+45365	sg
+45369	sg
+45374	sg
+45381	sg
+45384	pl
+sg
+45391	sg
+45395	sg
+dual
+45400	dual
+45402	sg
+45411	sg
+45418	sg
+45423	sg
+45426	sg
+45437	pl
+sg
+45442	sg
+45449	sg
+45456	sg
+45483	sg
+45500	sg
+45505	sg
+45512	sg
+45516	sg
+sg
+45521	pl
+45524	sg
+45529	sg
+45536	sg
+45538	pl
+45550	sg
+45552	sg
+45555	sg
+45560	sg
+sg
+45567	sg
+45569	sg
+sg
+45572	sg
+45575	sg
+45578	sg
+45584	sg
+sg
+45590	pl
+45593	sg
+45598	pl
+45606	sg
+45611	pl
+45613	sg
+45620	sg
+45624	sg
+sg
+45627	sg
+45631	sg
+45633	pl
+45635	sg
+45638	sg
+45641	sg
+sg
+45646	sg
+sg
+45658	sg
+45671	pl
+45686	pl
+45691	pl
+45693	sg
+sg
+45705	sg
+45707	sg
+dual
+45714	pl
+pl
+45719	sg
+45722	sg
+45724	sg
+pl
+45728	dual
+45732	sg
+45743	sg
+dual
+45754	pl
+45758	sg
+sg
+pl
+45763	sg
+45765	sg
+sg
+45770	sg
+45772	dual
+pl
+45775	sg
+45791	sg
+45805	sg
+45825	sg
+45835	sg
+45839	sg
+45846	sg
+45853	dual
+45855	pl
+45870	sg
+45872	pl
+45878	pl
+45885	pl
+45887	sg
+45891	pl
+45902	pl
+sg
+sg
+45917	pl
+45921	sg
+45928	sg
+45930	pl
+45935	sg
+45941	sg
+45943	pl
+45947	sg
+45951	dual
+45963	sg
+45974	pl
+45980	sg
+45987	sg
+45992	sg
+dual
+sg
+45996	sg
+46002	sg
+46008	sg
+46011	sg
+46018	dual
+46040	sg
+46050	sg
+dual
+46063	sg
+46065	sg
+46069	sg
+46078	sg
+46085	sg
+46100	sg
+46108	sg
+46115	sg
+46123	pl
+46132	sg
+sg
+46141	dual
+sg
+46160	pl
+46168	dual
+46170	sg
+sg
+sg
+pl
+46181	pl
+46191	sg
+46193	sg
+46206	sg
+46208	sg
+46210	sg
+46215	sg
+46220	sg
+46235	pl
+46240	pl
+46246	dual
+46253	sg
+46255	sg
+sg
+46259	sg
+46262	sg
+46269	sg
+46273	sg
+pl
+46284	sg
+46298	sg
+46301	sg
+46305	pl
+46314	sg
+46317	sg
+46322	sg
+46358	sg
+46361	sg
+sg
+46374	pl
+46379	sg
+46388	sg
+46390	sg
+46393	sg
+46396	sg
+pl
+46404	sg
+46407	sg
+46411	pl
+46413	sg
+46416	sg
+sg
+46431	dual
+46433	pl
+sg
+46442	sg
+46450	sg
+46455	sg
+46457	sg
+46462	sg
+46465	sg
+46477	sg
+46479	pl
+46484	dual
+46486	pl
+46491	pl
+46493	sg
+46498	sg
+46502	pl
+sg
+46505	sg
+46507	pl
+46510	sg
+46518	sg
+pl
+46522	dual
+46524	sg
+46534	pl
+46545	pl
+sg
+46557	pl
+46573	sg
+46580	sg
+46589	sg
+46611	sg
+46627	sg
+46632	sg
+46634	sg
+46641	sg
+46654	pl
+46664	sg
+46672	sg
+46684	sg
+46688	sg
+46691	sg
+46696	sg
+46698	pl
+46705	pl
+46707	pl
+46709	pl
+46716	pl
+46730	sg
+46736	pl
+46744	sg
+46747	sg
+46750	sg
+46753	sg
+46758	sg
+46761	sg
+46763	sg
+46765	sg
+sg
+46769	sg
+46772	sg
+46777	sg
+sg
+sg
+46782	sg
+46785	pl
+46788	sg
+46791	sg
+sg
+46800	pl
+46806	sg
+46810	sg
+46813	sg
+46816	sg
+46819	pl
+46821	pl
+46825	sg
+46833	sg
+46835	pl
+46840	sg
+46843	sg
+46845	sg
+46847	pl
+46853	sg
+46855	sg
+sg
+46859	sg
+sg
+46866	sg
+46868	sg
+46870	sg
+46876	sg
+46880	pl
+46885	sg
+sg
+46892	sg
+46894	pl
+46897	sg
+46905	sg
+46909	dual
+46912	pl
+46914	sg
+46921	sg
+46925	pl
+46927	sg
+46936	sg
+46942	sg
+46948	sg
+46951	sg
+46965	sg
+sg
+46973	sg
+46976	pl
+46978	pl
+46982	sg
+46987	sg
+47006	sg
+47008	dual
+47013	sg
+47017	sg
+47023	sg
+sg
+47035	sg
+47044	sg
+47049	sg
+pl
+pl
+47059	sg
+47071	sg
+47081	sg
+47083	pl
+47090	sg
+47105	sg
+47107	sg
+47114	sg
+47118	sg
+47124	pl
+47130	sg
+47138	dual
+47150	sg
+sg
+47155	sg
+47159	pl
+47161	sg
+47168	pl
+47171	sg
+47184	sg
+47191	pl
+47193	pl
+47198	sg
+47203	sg
+47209	sg
+47211	sg
+47220	sg
+47222	sg
+47231	sg
+47233	sg
+47235	sg
+47242	sg
+47247	sg
+47250	sg
+sg
+47253	sg
+47256	sg
+47264	sg
+47268	sg
+47274	sg
+sg
+47277	sg
+47280	sg
+sg
+47293	sg
+47298	sg
+47303	sg
+pl
+sg
+47308	sg
+pl
+sg
+47314	sg
+47316	sg
+47319	pl
+47328	sg
+47331	sg
+47335	sg
+47345	sg
+47352	pl
+47356	sg
+47371	sg
+sg
+47392	sg
+47399	pl
+47401	sg
+47409	pl
+47422	sg
+47426	sg
+47435	pl
+47440	sg
+47442	sg
+47445	sg
+47450	sg
+47457	pl
+pl
+47462	sg
+47464	sg
+47474	sg
+47493	pl
+47497	sg
+sg
+47501	sg
+sg
+47506	dual
+47523	sg
+sg
+47532	sg
+47535	sg
+47540	sg
+47550	sg
+47560	sg
+47570	pl
+47576	pl
+47591	sg
+47604	sg
+47606	pl
+47610	pl
+47615	pl
+47617	pl
+47627	sg
+47629	sg
+47631	sg
+sg
+47639	sg
+47648	pl
+47652	sg
+dual
+47655	pl
+47659	sg
+47676	sg
+47680	sg
+sg
+47686	sg
+47695	pl
+sg
+pl
+47703	sg
+sg
+47713	sg
+47727	dual
+47732	sg
+47743	sg
+47749	pl
+sg
+47753	sg
+47770	sg
+47776	sg
+47781	sg
+47794	dual
+47798	sg
+47800	sg
+47803	pl
+sg
+47806	sg
+47815	pl
+47825	sg
+47830	sg
+47832	sg
+47837	pl
+47852	sg
+47859	sg
+sg
+47870	sg
+47878	sg
+47884	pl
+47886	pl
+47889	dual
+47902	sg
+47906	sg
+47909	sg
+47915	sg
+47918	pl
+47922	sg
+47930	sg
+47939	sg
+47942	sg
+47965	sg
+47970	sg
+47974	sg
+47977	sg
+47987	pl
+dual
+47999	sg
+48005	sg
+48007	pl
+sg
+48010	sg
+48012	sg
+sg
+sg
+48017	sg
+sg
+48022	sg
+sg
+48027	dual
+48035	pl
+48039	sg
+48046	sg
+48050	sg
+48054	sg
+48056	sg
+48058	sg
+48067	pl
+48075	sg
+pl
+48082	sg
+48085	sg
+48093	dual
+48096	dual
+48098	sg
+48102	sg
+48110	sg
+48114	pl
+48117	sg
+sg
+48130	sg
+48133	sg
+48136	sg
+48146	pl
+48148	sg
+48169	sg
+48171	sg
+48176	sg
+sg
+48191	pl
+48193	pl
+48208	sg
+48212	sg
+48221	sg
+48228	dual
+48231	sg
+48242	sg
+48246	sg
+48257	sg
+48271	dual
+sg
+sg
+48280	pl
+48285	sg
+48289	sg
+48294	pl
+48299	pl
+pl
+48304	sg
+48306	sg
+48308	sg
+48316	sg
+pl
+48344	sg
+48351	sg
+48354	sg
+48361	pl
+48365	dual
+48381	sg
+dual
+48384	dual
+48392	sg
+sg
+48400	pl
+48403	sg
+48410	sg
+48437	sg
+48446	sg
+48450	sg
+sg
+sg
+48467	sg
+48472	sg
+48477	dual
+48486	sg
+48488	pl
+sg
+48493	dual
+48507	sg
+48509	sg
+48518	sg
+48521	sg
+48523	sg
+sg
+48526	sg
+48541	sg
+48549	pl
+sg
+48555	sg
+48558	sg
+48560	sg
+48562	sg
+48575	sg
+48578	sg
+48580	pl
+pl
+48586	sg
+48589	pl
+48594	sg
+48600	sg
+48607	sg
+48615	sg
+48622	sg
+sg
+48626	sg
+48629	sg
+48632	sg
+48634	sg
+48644	sg
+48648	pl
+48651	dual
+48654	sg
+48656	sg
+48659	sg
+48672	sg
+48681	sg
+48701	pl
+48707	sg
+48724	sg
+sg
+48727	sg
+48729	pl
+48732	pl
+48738	pl
+48740	pl
+sg
+48747	sg
+48750	sg
+48763	sg
+48769	pl
+dual
+48780	sg
+48782	sg
+48793	sg
+48795	sg
+pl
+48802	sg
+48806	sg
+48812	dual
+48818	sg
+48838	sg
+48842	sg
+48845	pl
+48866	sg
+48868	sg
+48872	sg
+48881	pl
+48884	sg
+48889	sg
+sg
+48899	pl
+48901	sg
+48904	dual
+48916	sg
+48921	sg
+48925	pl
+48927	sg
+48934	sg
+48938	sg
+48940	sg
+pl
+48949	sg
+48951	sg
+sg
+48954	dual
+48963	sg
+48975	pl
+48978	sg
+pl
+48983	sg
+48988	pl
+48992	sg
+49010	sg
+49018	sg
+49025	dual
+49029	sg
+49032	sg
+49034	sg
+sg
+49041	sg
+49044	sg
+49047	sg
+49051	sg
+49053	sg
+49056	sg
+49072	sg
+49076	sg
+49086	pl
+49090	pl
+49097	pl
+sg
+49104	sg
+49107	sg
+49117	sg
+49123	sg
+49127	sg
+49137	sg
+49143	sg
+49156	sg
+dual
+sg
+49161	sg
+sg
+49172	sg
+49174	sg
+49178	sg
+49182	pl
+49185	sg
+49196	sg
+49198	sg
+49206	pl
+49208	pl
+49210	sg
+49212	sg
+49215	pl
+49220	pl
+49222	sg
+49227	pl
+49229	sg
+49231	pl
+49233	sg
+49242	sg
+49258	dual
+49265	dual
+dual
+49268	sg
+49270	sg
+49278	sg
+49284	sg
+sg
+49296	sg
+49331	sg
+49351	sg
+49353	sg
+49366	sg
+49368	sg
+49372	sg
+49387	sg
+49402	pl
+49413	pl
+49415	sg
+49424	sg
+49434	pl
+49438	sg
+49443	pl
+sg
+49451	sg
+49456	sg
+49468	pl
+sg
+49480	sg
+sg
+49490	dual
+49497	sg
+49500	pl
+49502	sg
+49505	pl
+49509	sg
+49514	sg
+49527	sg
+49531	pl
+49534	pl
+49536	pl
+49546	sg
+49556	sg
+49558	pl
+49573	pl
+sg
+49579	sg
+49582	sg
+49584	sg
+49591	sg
+49596	sg
+49599	sg
+49602	pl
+sg
+49610	sg
+49614	sg
+49624	sg
+49630	pl
+49633	sg
+49636	sg
+49641	sg
+49648	pl
+49655	sg
+49659	pl
+49662	sg
+49669	sg
+49680	sg
+49694	pl
+49697	sg
+49699	pl
+49704	sg
+49708	sg
+49710	sg
+49721	sg
+49727	sg
+49736	sg
+sg
+49747	sg
+49752	sg
+49756	sg
+49771	sg
+49782	sg
+49791	sg
+49813	sg
+49822	sg
+49825	pl
+sg
+49830	sg
+49836	sg
+49838	sg
+49840	sg
+sg
+sg
+pl
+49852	sg
+49860	sg
+sg
+49863	pl
+49865	sg
+49869	sg
+49871	pl
+49873	sg
+49885	sg
+sg
+49888	sg
+49893	sg
+sg
+49905	sg
+49910	sg
+49912	sg
+49919	sg
+49924	sg
+49928	sg
+pl
+49935	sg
+49942	sg
+49944	sg
+sg
+49949	sg
+49955	sg
+49960	pl
+sg
+49963	sg
+49971	sg
+49988	sg
+49990	sg
+49992	sg
+49996	sg
+50002	sg
+50006	sg
+50008	sg
+50010	sg
+50015	sg
+50019	sg
+50021	pl
+50027	sg
+50031	sg
+50033	pl
+50037	sg
+50041	sg
+50043	sg
+sg
+50049	sg
+50057	sg
+50060	sg
+sg
+50068	sg
+sg
+50071	sg
+50078	sg
+50083	sg
+50086	sg
+50089	pl
+50107	sg
+dual
+50113	pl
+50118	dual
+50129	sg
+pl
+50134	pl
+50143	sg
+sg
+50153	sg
+50158	sg
+50166	pl
+50173	sg
+50187	sg
+50206	sg
+50209	sg
+50217	sg
+50219	sg
+sg
+50224	sg
+50228	sg
+50233	sg
+50238	sg
+50250	sg
+50256	dual
+50258	dual
+sg
+50267	dual
+50279	sg
+50282	sg
+50287	sg
+50291	sg
+50300	pl
+50309	sg
+50312	pl
+50315	sg
+50320	sg
+50322	dual
+50325	dual
+50328	sg
+50338	sg
+50340	sg
+sg
+sg
+sg
+sg
+50350	sg
+50353	pl
+50355	sg
+sg
+50362	sg
+50365	sg
+50368	sg
+sg
+50381	sg
+sg
+sg
+sg
+sg
+50394	sg
+50396	sg
+50398	pl
+50400	sg
+50419	pl
+sg
+sg
+50429	sg
+50442	sg
+50454	sg
+50457	sg
+50463	sg
+50475	sg
+sg
+sg
+sg
+50481	pl
+50490	sg
+50493	sg
+dual
+50496	pl
+pl
+50502	sg
+sg
+pl
+dual
+50511	sg
+50514	sg
+50519	sg
+sg
+50524	sg
+50536	sg
+50540	sg
+50547	sg
+50549	sg
+50567	sg
+50570	sg
+50572	sg
+50574	sg
+50582	sg
+50586	sg
+50598	sg
+50610	sg
+50615	sg
+50617	sg
+50627	sg
+50632	sg
+sg
+50640	sg
+50643	sg
+dual
+50649	sg
+50651	sg
+50663	dual
+50668	sg
+50670	pl
+50678	dual
+50691	sg
+sg
+50694	sg
+50705	sg
+50711	pl
+50718	sg
+50726	sg
+50728	sg
+50753	sg
+50755	sg
+pl
+50773	sg
+50775	sg
+50779	sg
+50786	sg
+50790	pl
+50792	pl
+50803	sg
+50805	sg
+50822	dual
+50835	sg
+50843	sg
+50859	sg
+50863	sg
+50865	sg
+50873	sg
+50889	sg
+50896	dual
+50899	sg
+sg
+50905	pl
+50910	sg
+50922	sg
+50925	sg
+50927	sg
+50938	sg
+50940	sg
+sg
+50948	sg
+50951	sg
+50956	sg
+sg
+50968	sg
+sg
+50971	sg
+50977	sg
+50979	pl
+sg
+50984	dual
+50989	sg
+50995	sg
+51005	sg
+51022	sg
+51024	sg
+51026	dual
+51032	sg
+51034	sg
+51041	sg
+51043	sg
+51046	sg
+51052	sg
+51064	sg
+51072	pl
+51078	sg
+51080	sg
+51085	sg
+51090	pl
+sg
+51102	sg
+51104	sg
+sg
+51107	sg
+51110	pl
+51118	pl
+51122	sg
+51129	sg
+51133	pl
+51140	pl
+51142	sg
+sg
+51146	dual
+51152	sg
+51156	sg
+51161	sg
+51166	sg
+51176	sg
+sg
+51180	sg
+51192	sg
+51194	sg
+sg
+51200	sg
+51213	sg
+51218	sg
+sg
+51221	sg
+51227	sg
+51229	sg
+sg
+sg
+51235	pl
+51238	sg
+51240	sg
+51243	sg
+51248	pl
+51251	sg
+51254	sg
+51256	sg
+51260	sg
+dual
+51266	sg
+51268	sg
+51271	sg
+51276	pl
+51285	sg
+sg
+51300	sg
+51305	pl
+51309	pl
+51312	pl
+51314	pl
+51316	pl
+51324	sg
+51331	sg
+51333	sg
+pl
+51340	pl
+51346	sg
+51359	pl
+sg
+51362	sg
+51366	sg
+51377	pl
+51379	sg
+51386	sg
+sg
+sg
+51392	sg
+sg
+51403	sg
+51411	sg
+51414	pl
+51420	sg
+51424	sg
+51431	sg
+51434	dual
+51436	sg
+51454	sg
+sg
+51458	sg
+51461	sg
+51465	sg
+51470	pl
+sg
+51473	sg
+sg
+51482	sg
+51490	sg
+51492	sg
+51497	sg
+51503	pl
+51512	sg
+sg
+pl
+pl
+51520	pl
+51524	sg
+51534	sg
+51536	sg
+51538	sg
+51541	sg
+sg
+51558	sg
+51571	sg
+51575	sg
+51587	sg
+51591	dual
+51598	sg
+51601	dual
+51608	sg
+51619	sg
+51622	pl
+51624	dual
+51631	sg
+51634	dual
+51637	pl
+51643	pl
+51656	sg
+51659	sg
+51661	pl
+51670	sg
+51672	sg
+51674	sg
+51678	sg
+51680	pl
+51683	sg
+51698	sg
+51704	sg
+51706	sg
+51708	pl
+51714	sg
+sg
+51725	sg
+51732	sg
+51734	pl
+51741	sg
+51743	sg
+51750	sg
+51756	sg
+51761	pl
+51765	sg
+51770	sg
+51777	sg
+51784	sg
+sg
+51792	sg
+51802	sg
+sg
+51811	sg
+51815	pl
+51819	sg
+51827	pl
+51829	sg
+51842	sg
+sg
+51849	sg
+sg
+51858	sg
+51871	sg
+51873	pl
+51876	sg
+51883	sg
+51906	pl
+sg
+sg
+51930	sg
+51936	sg
+51942	sg
+51951	sg
+51957	pl
+51960	sg
+51967	sg
+sg
+51971	sg
+51976	sg
+sg
+51980	sg
+51986	sg
+51988	sg
+51998	sg
+52000	sg
+52005	sg
+52008	sg
+52010	sg
+52014	sg
+52024	sg
+52030	pl
+sg
+52033	sg
+52042	sg
+pl
+52056	sg
+sg
+52060	sg
+52062	sg
+52071	sg
+sg
+52074	sg
+52085	sg
+52099	sg
+52101	sg
+52104	sg
+52111	sg
+52118	sg
+52129	dual
+52132	sg
+52138	sg
+52148	pl
+52151	sg
+52153	dual
+52159	sg
+52165	sg
+52168	sg
+52171	pl
+sg
+52174	sg
+sg
+52177	sg
+52185	sg
+52187	sg
+sg
+sg
+pl
+52192	sg
+52205	pl
+dual
+52210	sg
+52215	pl
+sg
+52220	sg
+52227	dual
+52229	sg
+52233	sg
+52245	sg
+52247	sg
+52254	sg
+52259	sg
+52261	sg
+52264	sg
+52270	pl
+52274	pl
+52279	sg
+52283	sg
+52289	sg
+sg
+sg
+pl
+52304	sg
+52306	sg
+52308	sg
+52312	sg
+52316	sg
+sg
+52320	sg
+sg
+sg
+pl
+52331	sg
+sg
+pl
+52337	sg
+52339	sg
+52341	sg
+52343	pl
+52348	sg
+52362	sg
+52369	sg
+52378	sg
+52380	sg
+52384	pl
+52390	sg
+dual
+52394	sg
+52397	sg
+dual
+sg
+52401	sg
+52413	sg
+52419	pl
+52423	sg
+52425	sg
+52428	sg
+52430	sg
+52434	sg
+52436	sg
+52444	sg
+52450	sg
+52452	sg
+52454	sg
+52459	sg
+52461	sg
+52469	pl
+52473	pl
+sg
+52478	sg
+52480	sg
+52485	sg
+52497	pl
+52504	sg
+52510	dual
+52513	dual
+52519	sg
+52522	dual
+52524	dual
+sg
+sg
+52528	sg
+52542	sg
+52559	pl
+52569	pl
+52571	pl
+52574	pl
+52578	sg
+52586	sg
+52595	pl
+sg
+pl
+52601	sg
+52606	sg
+52608	sg
+52625	sg
+52638	pl
+sg
+pl
+52645	sg
+52647	pl
+52649	sg
+sg
+52652	pl
+52654	pl
+52657	sg
+52667	sg
+52671	sg
+52677	sg
+52680	sg
+52683	sg
+52686	sg
+52700	pl
+52704	pl
+52714	dual
+52716	dual
+sg
+52720	pl
+52723	sg
+52734	sg
+52743	sg
+52750	sg
+52757	sg
+52768	sg
+52791	sg
+sg
+52803	sg
+52808	sg
+52815	sg
+52819	sg
+52821	sg
+52828	sg
+52835	pl
+52837	sg
+52854	pl
+52864	sg
+52869	dual
+52875	sg
+52886	sg
+52889	dual
+52893	sg
+52895	sg
+52900	sg
+52909	sg
+52926	sg
+52933	sg
+52936	sg
+sg
+52944	sg
+52947	pl
+52950	sg
+52953	pl
+52966	sg
+52974	pl
+52981	pl
+52994	sg
+52999	pl
+53004	sg
+53015	sg
+53019	pl
+53024	pl
+53032	sg
+53034	sg
+53046	sg
+53049	sg
+sg
+sg
+sg
+53055	sg
+53069	sg
+53081	sg
+sg
+53086	sg
+dual
+53091	sg
+53099	pl
+53102	sg
+53105	sg
+53113	sg
+sg
+sg
+sg
+pl
+pl
+53129	sg
+53138	sg
+53142	pl
+sg
+53145	sg
+53150	sg
+pl
+sg
+53160	sg
+53165	pl
+53168	dual
+53171	sg
+53175	sg
+53182	sg
+53185	sg
+53189	sg
+53201	sg
+53204	sg
+53206	sg
+53219	sg
+53223	sg
+53228	sg
+sg
+sg
+pl
+53235	pl
+53240	sg
+53245	pl
+pl
+53251	sg
+53258	sg
+53264	sg
+53267	sg
+53270	sg
+53274	sg
+53277	pl
+53281	sg
+53297	sg
+53301	sg
+53305	sg
+53308	pl
+pl
+53317	sg
+53319	pl
+53325	sg
+53333	sg
+sg
+53339	sg
+53342	sg
+53344	sg
+53347	sg
+53349	sg
+53357	pl
+53367	sg
+53370	sg
+sg
+53375	sg
+pl
+53381	pl
+53393	sg
+53395	sg
+53397	sg
+53399	sg
+53404	sg
+pl
+53408	sg
+53413	sg
+53419	sg
+53422	sg
+53424	sg
+53434	pl
+53442	sg
+53446	sg
+53451	sg
+53458	sg
+53462	sg
+53471	sg
+sg
+53476	sg
+pl
+53483	sg
+53487	sg
+53490	sg
+pl
+53505	sg
+53509	pl
+53511	sg
+53516	sg
+sg
+sg
+pl
+53522	sg
+53524	sg
+53531	sg
+53549	sg
+53555	sg
+53564	sg
+53568	sg
+sg
+sg
+53572	sg
+53576	sg
+sg
+sg
+53601	sg
+53605	sg
+53607	pl
+53610	sg
+53612	sg
+53617	sg
+sg
+sg
+pl
+sg
+53625	sg
+53627	sg
+53629	sg
+53644	sg
+53646	sg
+53650	sg
+53652	sg
+sg
+sg
+53657	sg
+pl
+53663	sg
+53670	sg
+53672	pl
+53677	sg
+53679	sg
+53684	sg
+sg
+sg
+53693	sg
+53695	sg
+sg
+dual
+53705	sg
+53714	sg
+sg
+53719	sg
+53728	sg
+sg
+53733	sg
+53753	sg
+53766	sg
+sg
+53769	sg
+53774	sg
+53776	pl
+53780	sg
+53783	sg
+53790	pl
+53794	sg
+53796	dual
+53798	dual
+53801	pl
+53811	sg
+pl
+53821	sg
+53823	sg
+53833	sg
+pl
+53837	pl
+53840	sg
+53844	sg
+53859	sg
+dual
+sg
+53866	sg
+sg
+53882	sg
+53884	pl
+53889	pl
+53899	sg
+53901	sg
+53918	sg
+53933	sg
+53941	pl
+53952	sg
+53955	sg
+53964	sg
+53968	sg
+53975	sg
+53980	sg
+sg
+sg
+pl
+dual
+53986	sg
+dual
+53994	sg
+53996	sg
+54001	sg
+54010	sg
+54014	sg
+54016	sg
+54034	sg
+54036	sg
+54043	sg
+54046	sg
+54050	dual
+54053	sg
+54056	pl
+sg
+54063	sg
+54080	pl
+54084	sg
+54087	sg
+54095	pl
+sg
+54100	sg
+54109	sg
+54117	sg
+54122	sg
+54124	sg
+54128	sg
+54130	sg
+54132	sg
+sg
+54142	dual
+54154	sg
+54156	sg
+54161	sg
+54175	sg
+54182	sg
+54186	sg
+54190	sg
+54200	sg
+54206	sg
+54210	sg
+54212	sg
+54215	sg
+54218	dual
+54220	sg
+54225	sg
+54236	pl
+54243	sg
+54248	pl
+54253	sg
+pl
+54257	sg
+54262	sg
+54270	dual
+54274	pl
+54276	sg
+54292	sg
+sg
+54304	sg
+pl
+54307	sg
+54314	pl
+54317	sg
+54319	pl
+54322	sg
+54324	sg
+54337	sg
+54341	pl
+54346	sg
+54353	sg
+54355	pl
+54371	sg
+54376	pl
+sg
+pl
+54380	pl
+54397	pl
+54399	sg
+54411	pl
+54431	sg
+54434	sg
+54440	sg
+54442	sg
+54447	sg
+54457	sg
+54460	sg
+54466	sg
+54472	sg
+54477	sg
+54495	sg
+54497	sg
+54511	sg
+54513	sg
+54528	sg
+54545	sg
+pl
+54556	pl
+sg
+54567	sg
+54570	sg
+54572	dual
+sg
+54583	sg
+54590	sg
+54592	sg
+54596	sg
+54608	sg
+54610	sg
+54616	sg
+sg
+54622	sg
+54624	sg
+54629	pl
+54635	dual
+sg
+54648	sg
+54661	sg
+54666	pl
+54677	sg
+54685	sg
+54688	pl
+54694	sg
+54702	sg
+54708	sg
+54720	sg
+54726	sg
+54737	sg
+54753	sg
+sg
+54757	sg
+54759	sg
+sg
+54766	sg
+54776	pl
+54784	pl
+54788	sg
+54791	sg
+54798	sg
+54803	sg
+54807	sg
+54809	sg
+54818	sg
+54821	pl
+54823	sg
+54826	sg
+54839	pl
+54853	pl
+54861	sg
+54864	sg
+54874	sg
+54879	sg
+54884	sg
+54888	sg
+54902	sg
+54905	sg
+54908	sg
+54923	pl
+54925	sg
+54943	sg
+54947	sg
+54954	sg
+54956	sg
+54962	sg
+54965	sg
+54973	sg
+54984	pl
+54996	sg
+54999	pl
+55001	sg
+55006	sg
+55009	sg
+55014	sg
+55017	sg
+55020	sg
+55024	sg
+55028	sg
+55031	sg
+55037	sg
+55042	sg
+55046	pl
+55051	sg
+55055	sg
+pl
+55059	sg
+55062	sg
+sg
+55095	sg
+55104	sg
+55106	sg
+55111	sg
+55118	sg
+55123	pl
+55128	sg
+55138	dual
+55147	sg
+55158	sg
+55163	sg
+55175	sg
+55180	sg
+55182	sg
+55184	sg
+55188	sg
+55191	sg
+55197	sg
+55202	sg
+55207	sg
+55222	pl
+55224	pl
+55231	sg
+55243	sg
+55249	sg
+55258	sg
+pl
+55261	sg
+55271	sg
+55273	sg
+dual
+55279	sg
+sg
+55289	sg
+sg
+55299	sg
+55308	sg
+55310	sg
+55317	sg
+55323	sg
+55326	sg
+55331	dual
+dual
+55334	sg
+55341	sg
+55343	sg
+55352	sg
+55361	sg
+55367	pl
+55370	dual
+sg
+55385	sg
+55387	sg
+55393	sg
+sg
+sg
+pl
+55400	sg
+55411	sg
+55415	sg
+55420	sg
+sg
+55424	sg
+55429	sg
+55431	sg
+sg
+sg
+55438	sg
+pl
+55448	sg
+55450	pl
+dual
+55454	pl
+55457	sg
+55461	dual
+55463	pl
+55466	pl
+55473	sg
+55476	sg
+55480	sg
+55485	dual
+55489	pl
+55492	pl
+55498	pl
+pl
+55503	pl
+55505	sg
+55511	pl
+dual
+55524	sg
+55528	sg
+sg
+55533	sg
+55538	sg
+55546	sg
+55549	sg
+55559	dual
+55562	pl
+55580	sg
+55584	sg
+55592	sg
+55598	pl
+55604	dual
+55608	sg
+55613	pl
+sg
+55626	pl
+sg
+55634	sg
+55638	sg
+pl
+sg
+dual
+55651	sg
+dual
+55655	sg
+55657	dual
+55661	pl
+55665	sg
+55669	sg
+55675	pl
+pl
+55683	sg
+pl
+55688	sg
+55690	sg
+sg
+sg
+55698	pl
+55703	sg
+55705	sg
+55709	dual
+55711	pl
+sg
+sg
+sg
+pl
+sg
+55721	sg
+55725	sg
+sg
+55731	sg
+55736	sg
+pl
+55741	sg
+sg
+55745	sg
+sg
+55751	sg
+55755	sg
+sg
+55765	sg
+55770	sg
+sg
+55773	pl
+55778	sg
+55780	sg
+55783	sg
+55796	pl
+55799	sg
+55807	sg
+55810	sg
+55813	sg
+55816	sg
+pl
+55819	sg
+sg
+55826	dual
+55833	sg
+55835	pl
+55844	sg
+55851	pl
+55855	sg
+55858	sg
+sg
+sg
+pl
+55867	pl
+55869	sg
+55881	sg
+sg
+sg
+55892	sg
+sg
+55901	sg
+sg
+55913	sg
+sg
+55919	dual
+55922	sg
+55925	sg
+sg
+55928	dual
+55933	pl
+sg
+55940	sg
+55954	sg
+55970	sg
+55973	sg
+sg
+55985	sg
+55989	sg
+55993	sg
+55999	sg
+sg
+sg
+56009	sg
+sg
+56014	sg
+sg
+56017	sg
+sg
+56022	sg
+56026	sg
+56032	sg
+sg
+56050	sg
+56054	sg
+56058	sg
+56070	sg
+56072	sg
+pl
+56079	sg
+56081	sg
+56085	sg
+pl
+56102	sg
+56108	sg
+56117	sg
+56120	sg
+56125	sg
+56129	pl
+sg
+56137	sg
+sg
+sg
+56141	sg
+56149	sg
+56152	pl
+56159	sg
+56164	sg
+56169	sg
+56176	sg
+56181	sg
+56185	pl
+56189	sg
+56204	pl
+56210	sg
+56214	sg
+sg
+56219	pl
+56225	sg
+56233	sg
+56235	pl
+56244	pl
+56248	sg
+56252	sg
+56255	sg
+sg
+56265	sg
+56268	sg
+56271	sg
+sg
+56275	dual
+56277	sg
+sg
+56283	sg
+56285	pl
+56291	sg
+56293	sg
+56299	sg
+56303	pl
+56313	sg
+56317	sg
+56319	sg
+56330	sg
+56333	sg
+56338	pl
+pl
+56353	sg
+56363	sg
+56369	sg
+56371	pl
+56380	pl
+56387	sg
+56398	pl
+56406	pl
+56414	sg
+56416	sg
+56420	sg
+56422	sg
+56434	sg
+56436	sg
+56438	sg
+56440	pl
+sg
+56458	sg
+56462	sg
+56468	sg
+56472	sg
+56475	sg
+56479	sg
+56483	sg
+sg
+56487	sg
+56489	sg
+sg
+56492	sg
+56496	sg
+56501	sg
+56503	sg
+56510	sg
+56515	sg
+56518	sg
+56521	sg
+56527	sg
+56532	sg
+56534	sg
+56541	sg
+56551	sg
+56553	sg
+56557	sg
+sg
+56566	pl
+56570	pl
+56572	sg
+sg
+sg
+sg
+pl
+56580	dual
+56583	sg
+56587	dual
+sg
+56599	dual
+56605	dual
+56609	sg
+56611	dual
+56618	dual
+sg
+56621	sg
+56625	sg
+56628	dual
+sg
+56631	sg
+56636	dual
+56639	sg
+56641	pl
+56649	pl
+sg
+56656	pl
+56658	sg
+56663	sg
+sg
+56672	pl
+sg
+dual
+56677	sg
+56682	sg
+sg
+sg
+pl
+56692	dual
+56697	sg
+56701	sg
+56706	dual
+56713	sg
+sg
+56724	sg
+56729	sg
+56732	sg
+56734	sg
+56736	sg
+56756	sg
+56758	sg
+56761	dual
+56771	dual
+56773	sg
+sg
+56779	sg
+dual
+56796	sg
+56800	dual
+56809	dual
+56814	dual
+56821	sg
+56827	sg
+56832	dual
+56834	sg
+56836	sg
+sg
+56842	sg
+56845	sg
+56852	pl
+56859	dual
+56864	sg
+56869	sg
+56879	sg
+56886	sg
+sg
+56891	sg
+sg
+56900	pl
+56910	dual
+56914	sg
+56919	sg
+sg
+56925	pl
+sg
+sg
+56929	dual
+56935	sg
+sg
+sg
+56942	dual
+56947	sg
+sg
+56955	sg
+56964	sg
+56967	sg
+56969	pl
+sg
+56972	sg
+sg
+56975	sg
+56980	sg
+pl
+56987	pl
+pl
+56992	dual
+56994	dual
+56996	sg
+57004	sg
+57006	sg
+sg
+57016	dual
+57018	pl
+dual
+57021	dual
+57027	sg
+57033	sg
+57037	sg
+57041	pl
+sg
+57047	sg
+57065	sg
+57080	sg
+sg
+57090	dual
+57093	pl
+sg
+57098	dual
+sg
+57106	sg
+57109	sg
+57114	sg
+57124	sg
+57141	sg
+57143	sg
+57150	sg
+57154	sg
+57157	dual
+57164	sg
+57168	pl
+57172	pl
+57175	sg
+57177	sg
+57179	sg
+dual
+57188	sg
+57190	sg
+57192	sg
+57199	sg
+57204	sg
+57207	sg
+57215	pl
+57222	sg
+57225	pl
+57228	sg
+57232	sg
+57235	sg
+57246	sg
+57256	sg
+57260	sg
+sg
+57265	sg
+57268	sg
+57271	sg
+57278	pl
+57284	sg
+57290	sg
+57293	dual
+57311	sg
+sg
+57316	sg
+sg
+57321	sg
+57332	sg
+57334	sg
+57340	sg
+57360	sg
+57366	sg
+57369	sg
+57373	sg
+57376	pl
+sg
+57381	pl
+57383	sg
+sg
+57389	pl
+sg
+57394	sg
+57403	pl
+sg
+57406	sg
+57409	pl
+57418	sg
+sg
+57422	sg
+57435	sg
+57439	sg
+57444	sg
+57446	sg
+57449	sg
+57453	sg
+sg
+57456	sg
+sg
+57466	sg
+57476	sg
+sg
+57480	sg
+57497	sg
+pl
+57501	sg
+57503	sg
+57509	pl
+57520	sg
+57524	sg
+57529	sg
+57537	pl
+57572	sg
+57578	sg
+sg
+57590	sg
+57594	sg
+57596	sg
+sg
+sg
+57601	sg
+57608	sg
+sg
+57613	sg
+57618	sg
+57621	sg
+pl
+sg
+57636	sg
+57644	sg
+57647	sg
+57652	sg
+57657	sg
+57659	sg
+sg
+57671	sg
+57673	sg
+57693	sg
+57710	sg
+57714	sg
+57724	sg
+57727	sg
+57735	pl
+57749	sg
+sg
+57754	sg
+57762	sg
+57764	dual
+57766	sg
+57771	dual
+57773	sg
+sg
+57788	pl
+57802	sg
+57806	pl
+57808	sg
+57815	sg
+57817	sg
+57823	sg
+57832	sg
+57836	sg
+57846	sg
+57850	sg
+57853	sg
+57861	sg
+57864	pl
+57867	sg
+57874	sg
+57880	sg
+57885	pl
+sg
+57888	sg
+57890	sg
+57892	sg
+57894	sg
+pl
+57905	sg
+57907	sg
+57909	dual
+sg
+57921	sg
+dual
+57927	pl
+57937	sg
+57942	sg
+57959	sg
+57974	sg
+57980	pl
+57984	sg
+57986	sg
+57997	dual
+58002	sg
+58005	sg
+58009	sg
+58011	pl
+58017	sg
+58019	sg
+58024	pl
+sg
+58029	sg
+58032	pl
+sg
+58049	sg
+sg
+sg
+58055	pl
+58061	pl
+58071	sg
+58074	sg
+58080	sg
+sg
+58085	sg
+sg
+58104	dual
+58107	sg
+dual
+58111	sg
+58117	pl
+58131	sg
+58134	sg
+58136	sg
+58139	sg
+sg
+58144	sg
+58149	sg
+58159	sg
+58175	sg
+58180	sg
+58183	sg
+pl
+58189	sg
+58194	sg
+58197	sg
+58201	sg
+58206	sg
+58219	sg
+58222	sg
+58225	sg
+58227	sg
+58229	pl
+58237	sg
+58242	sg
+58245	pl
+58253	sg
+58278	sg
+sg
+58292	pl
+58296	sg
+58304	sg
+58317	sg
+58321	sg
+dual
+58325	sg
+58332	sg
+58334	pl
+58338	sg
+58366	dual
+58377	sg
+58379	sg
+58382	sg
+58398	sg
+58402	pl
+58408	sg
+58415	sg
+58418	dual
+sg
+58421	pl
+58424	sg
+sg
+58435	sg
+58455	sg
+sg
+58459	sg
+58469	sg
+sg
+58472	sg
+58481	sg
+58487	pl
+58505	sg
+58508	sg
+dual
+58523	sg
+58529	pl
+58532	pl
+58537	sg
+58543	sg
+58560	pl
+58565	sg
+58574	sg
+58582	pl
+58590	pl
+58599	sg
+sg
+sg
+sg
+pl
+sg
+58609	sg
+58611	sg
+58617	sg
+sg
+58625	sg
+58627	sg
+58629	sg
+58635	sg
+58641	sg
+58643	sg
+sg
+58646	sg
+sg
+58649	sg
+sg
+58663	sg
+58665	sg
+sg
+sg
+58673	sg
+58678	sg
+58686	sg
+dual
+58690	sg
+58692	pl
+58696	sg
+58704	sg
+sg
+58709	sg
+58716	sg
+sg
+58720	sg
+sg
+58728	sg
+58736	sg
+58747	pl
+58752	sg
+sg
+sg
+58765	sg
+58784	sg
+sg
+58790	sg
+58793	sg
+58798	sg
+58805	sg
+sg
+58812	sg
+58817	pl
+58819	pl
+58826	pl
+58828	sg
+58834	pl
+58838	sg
+58844	sg
+58848	sg
+58868	sg
+58878	sg
+sg
+58884	sg
+58887	sg
+sg
+58891	dual
+58898	sg
+58917	sg
+58921	sg
+58924	sg
+58929	sg
+58943	sg
+58945	sg
+dual
+58958	sg
+58964	sg
+58966	sg
+58971	sg
+58974	sg
+58978	sg
+58980	sg
+sg
+58989	sg
+58995	sg
+59003	sg
+59007	pl
+59011	sg
+59014	sg
+59019	sg
+59022	sg
+59028	sg
+59033	sg
+59042	dual
+59045	sg
+59054	sg
+59058	sg
+pl
+59076	sg
+59079	sg
+59081	sg
+59089	dual
+59092	sg
+59099	sg
+59115	sg
+59130	sg
+59135	sg
+59138	sg
+59141	sg
+59157	sg
+59163	sg
+59168	sg
+sg
+59173	sg
+59175	sg
+dual
+59184	sg
+59186	sg
+59201	sg
+59208	sg
+59210	sg
+59219	sg
+59223	sg
+59232	sg
+59241	sg
+59247	sg
+59249	sg
+59252	pl
+59255	sg
+sg
+59260	sg
+59266	sg
+59273	sg
+59279	sg
+59281	sg
+59302	dual
+59304	sg
+59312	sg
+59318	dual
+59322	sg
+59324	sg
+59329	pl
+59331	pl
+59337	sg
+59339	pl
+pl
+59343	sg
+59346	sg
+59351	sg
+59357	pl
+59365	pl
+59370	pl
+59373	pl
+sg
+sg
+sg
+pl
+59383	sg
+59391	sg
+59393	pl
+59396	sg
+pl
+59403	sg
+59405	sg
+59411	dual
+59422	pl
+59426	sg
+pl
+59438	sg
+sg
+sg
+pl
+59445	pl
+sg
+59466	sg
+sg
+sg
+sg
+pl
+59475	sg
+59478	sg
+59480	sg
+sg
+pl
+59485	sg
+sg
+59508	sg
+59510	sg
+59515	sg
+sg
+59524	sg
+59526	sg
+59537	sg
+59549	pl
+59559	sg
+59563	sg
+59576	pl
+59579	sg
+59581	sg
+59583	sg
+dual
+59590	sg
+59597	sg
+59613	sg
+59619	sg
+59626	sg
+59633	sg
+59642	sg
+59648	sg
+59652	sg
+59660	pl
+59666	sg
+59672	pl
+sg
+59678	pl
+59680	pl
+59688	pl
+59695	pl
+sg
+59698	sg
+sg
+pl
+59703	sg
+59707	sg
+59709	sg
+59713	sg
+59718	sg
+sg
+59722	sg
+59725	sg
+dual
+59730	sg
+sg
+59734	sg
+59737	sg
+59742	sg
+sg
+59745	sg
+59747	sg
+sg
+sg
+sg
+59754	sg
+pl
+59757	sg
+59764	sg
+59766	sg
+59768	sg
+59770	sg
+59779	sg
+59782	sg
+59785	pl
+59787	pl
+59790	pl
+59792	pl
+59794	sg
+59797	sg
+59799	pl
+59817	sg
+pl
+59821	sg
+59823	sg
+sg
+59826	pl
+59828	sg
+59830	pl
+59833	sg
+59842	dual
+59851	sg
+59854	sg
+sg
+59870	sg
+59873	sg
+59875	pl
+59879	sg
+pl
+sg
+59903	sg
+59905	pl
+59919	sg
+59921	dual
+59923	dual
+59925	sg
+pl
+59930	sg
+59935	sg
+59937	sg
+dual
+59952	sg
+sg
+59956	dual
+dual
+59961	sg
+sg
+sg
+pl
+59967	sg
+59969	dual
+59971	dual
+59973	sg
+59975	sg
+59979	sg
+59996	sg
+60004	sg
+60013	sg
+sg
+pl
+60022	sg
+sg
+60028	dual
+sg
+pl
+60035	sg
+60041	pl
+60046	sg
+60050	sg
+60059	pl
+sg
+60063	pl
+60066	sg
+60073	sg
+60079	sg
+60082	pl
+60086	sg
+60093	pl
+60105	sg
+sg
+60108	pl
+60110	sg
+60120	sg
+60124	sg
+60131	sg
+sg
+60135	sg
+60138	sg
+60144	sg
+60149	pl
+60160	sg
+60162	sg
+60164	sg
+60169	sg
+60174	sg
+60187	sg
+60193	sg
+60198	pl
+60202	sg
+60209	pl
+60211	pl
+60221	sg
+60230	sg
+60233	sg
+60236	dual
+pl
+pl
+60242	pl
+60247	pl
+60252	pl
+60255	pl
+60260	sg
+60266	pl
+pl
+sg
+60273	sg
+60292	pl
+60301	sg
+60309	pl
+60312	sg
+60314	sg
+60322	sg
+60332	sg
+60334	pl
+60352	sg
+60354	pl
+60362	pl
+sg
+60367	sg
+60373	dual
+60378	pl
+60381	sg
+sg
+60384	pl
+60389	sg
+60394	sg
+60396	sg
+60403	sg
+60406	sg
+60413	dual
+60418	sg
+sg
+60428	sg
+60433	sg
+60436	sg
+60438	sg
+60440	sg
+60447	pl
+60450	sg
+60456	sg
+60459	sg
+60461	dual
+60465	pl
+60468	sg
+60473	pl
+60486	pl
+sg
+60493	sg
+60499	sg
+60501	sg
+sg
+60510	sg
+60525	sg
+60528	pl
+60535	pl
+60549	pl
+60556	sg
+60558	sg
+60562	sg
+60564	sg
+60567	sg
+60570	sg
+60573	sg
+pl
+60578	pl
+60580	sg
+60582	sg
+60589	sg
+60592	sg
+60596	sg
+60599	dual
+60601	pl
+60606	pl
+60620	pl
+60628	sg
+60641	pl
+60644	pl
+60646	pl
+60648	sg
+60652	sg
+60656	sg
+60659	sg
+60668	pl
+60684	dual
+60686	sg
+60692	sg
+60695	pl
+pl
+60702	sg
+60704	sg
+60709	pl
+sg
+60718	pl
+sg
+60722	pl
+sg
+60725	dual
+60731	pl
+60735	sg
+60746	pl
+60760	sg
+sg
+dual
+60768	dual
+60808	sg
+pl
+pl
+60816	pl
+60818	pl
+60823	sg
+60825	sg
+60829	pl
+60834	sg
+60838	pl
+60843	pl
+60853	sg
+60860	pl
+60868	sg
+60871	pl
+60882	pl
+pl
+60886	pl
+60890	pl
+60897	sg
+60906	sg
+60909	sg
+60914	pl
+60924	pl
+sg
+pl
+60928	pl
+60932	sg
+60943	sg
+60946	sg
+60953	sg
+60970	sg
+60979	sg
+60982	pl
+60989	pl
+60996	sg
+pl
+61011	pl
+sg
+61014	sg
+61016	pl
+sg
+61020	sg
+61026	sg
+61028	dual
+61031	pl
+61034	sg
+61038	sg
+61042	pl
+61045	sg
+61050	dual
+61052	pl
+61056	sg
+61060	pl
+sg
+61064	pl
+61068	sg
+61084	sg
+pl
+sg
+61089	pl
+61093	sg
+61099	sg
+61103	sg
+61109	sg
+61111	sg
+61113	pl
+61115	sg
+61121	sg
+61123	sg
+61127	pl
+61131	pl
+sg
+61135	pl
+61139	sg
+61143	sg
+sg
+sg
+pl
+61162	sg
+61170	sg
+61178	sg
+61185	dual
+61191	sg
+61209	sg
+61222	pl
+61227	sg
+sg
+sg
+pl
+61236	sg
+pl
+61242	pl
+61251	pl
+61264	pl
+61271	sg
+pl
+sg
+61278	sg
+pl
+61283	pl
+61291	sg
+pl
+61295	sg
+61304	sg
+61314	pl
+61316	sg
+61324	sg
+61336	pl
+sg
+sg
+61346	sg
+pl
+sg
+61350	pl
+61357	pl
+61361	sg
+61367	sg
+61374	sg
+61382	sg
+dual
+sg
+sg
+61396	sg
+61400	pl
+61403	sg
+61405	pl
+61411	sg
+pl
+61421	sg
+61425	sg
+61428	sg
+61434	sg
+61440	sg
+61445	sg
+61456	sg
+61469	sg
+61474	sg
+61488	sg
+61495	pl
+61498	sg
+sg
+61506	pl
+sg
+61509	sg
+61520	pl
+61522	pl
+61528	sg
+61537	pl
+sg
+61541	dual
+61543	dual
+61555	pl
+sg
+61567	sg
+61572	sg
+sg
+61579	pl
+61582	dual
+61585	sg
+61588	dual
+sg
+61607	sg
+61618	sg
+61637	sg
+61648	sg
+61656	dual
+61665	sg
+61683	sg
+61703	sg
+61705	pl
+61733	pl
+61738	dual
+61743	sg
+61746	sg
+61749	sg
+61764	pl
+61769	sg
+61771	sg
+61776	dual
+61778	sg
+61780	sg
+61790	sg
+sg
+61793	sg
+61798	pl
+61808	sg
+61810	sg
+61828	sg
+61832	sg
+61860	sg
+61864	sg
+61874	sg
+61900	sg
+61902	sg
+61905	sg
+61912	sg
+61923	pl
+61927	sg
+61929	sg
+61931	sg
+61936	sg
+sg
+61944	sg
+61950	sg
+61966	pl
+61975	pl
+61984	dual
+61990	sg
+61992	sg
+pl
+61999	sg
+62008	sg
+62014	sg
+62019	sg
+dual
+sg
+62023	pl
+sg
+62029	sg
+pl
+sg
+62039	pl
+pl
+62044	sg
+62047	pl
+62056	sg
+62069	sg
+62074	sg
+62077	sg
+62085	sg
+sg
+62092	sg
+62101	sg
+62113	sg
+62117	pl
+62122	sg
+62136	sg
+sg
+62143	sg
+62146	sg
+sg
+sg
+62152	sg
+62157	sg
+62176	sg
+62184	sg
+62188	sg
+62195	sg
+sg
+62206	sg
+62208	sg
+62215	sg
+62231	sg
+62233	sg
+62239	sg
+sg
+62242	sg
+62244	sg
+62248	sg
+62251	sg
+62292	sg
+62295	sg
+62314	pl
+dual
+pl
+62325	pl
+62332	sg
+62338	sg
+62344	sg
+sg
+62347	pl
+62355	sg
+62361	sg
+62368	sg
+62382	sg
+62385	sg
+62389	pl
+62391	sg
+pl
+62416	pl
+62423	sg
+62426	sg
+62433	sg
+62439	sg
+62447	sg
+62452	sg
+62456	sg
+62462	sg
+62464	sg
+62467	sg
+62470	sg
+62473	sg
+62488	sg
+62490	sg
+62492	pl
+62504	sg
+62513	sg
+62523	sg
+62537	sg
+62539	sg
+sg
+sg
+62543	sg
+62547	sg
+62556	sg
+62560	sg
+62566	dual
+62575	sg
+62580	sg
+62582	dual
+62585	sg
+62588	sg
+pl
+62599	dual
+62605	sg
+62618	sg
+62623	sg
+62627	sg
+62630	sg
+62634	sg
+62636	pl
+62642	pl
+62647	sg
+62653	dual
+sg
+62663	sg
+62666	pl
+62670	pl
+62674	pl
+62676	sg
+sg
+pl
+62684	sg
+pl
+62696	sg
+62699	sg
+62714	sg
+62726	sg
+62734	sg
+62744	sg
+62747	sg
+62751	sg
+62754	sg
+pl
+62757	sg
+62759	sg
+62761	pl
+pl
+62770	sg
+pl
+62777	sg
+62780	sg
+62782	sg
+62789	sg
+62792	sg
+62798	sg
+62813	pl
+62816	sg
+62825	sg
+62829	sg
+62844	sg
+62849	sg
+62862	sg
+62867	sg
+62873	sg
+sg
+62878	sg
+sg
+62886	sg
+62888	sg
+pl
+sg
+62892	sg
+62894	sg
+62896	dual
+62901	sg
+62904	sg
+62912	sg
+62917	sg
+62929	sg
+sg
+62936	sg
+62938	sg
+62941	sg
+62948	sg
+62950	sg
+62955	sg
+62961	sg
+62963	dual
+62965	sg
+62975	sg
+sg
+62979	sg
+62986	sg
+62988	sg
+62993	sg
+62995	sg
+63013	sg
+63015	sg
+63047	sg
+sg
+63068	sg
+63078	sg
+63083	sg
+63087	sg
+63100	sg
+63111	sg
+63119	dual
+63123	pl
+63132	sg
+63142	sg
+63150	sg
+63158	dual
+63161	dual
+63172	sg
+63177	pl
+63180	pl
+63204	pl
+63213	sg
+63220	sg
+63222	sg
+63228	sg
+63238	sg
+dual
+sg
+63253	dual
+sg
+63278	sg
+63281	pl
+63287	sg
+63290	dual
+63292	sg
+63298	sg
+dual
+63304	sg
+63308	sg
+sg
+63318	dual
+63324	sg
+63331	dual
+63335	sg
+63352	dual
+63383	sg
+sg
+63394	dual
+63403	dual
+sg
+63406	sg
+63424	dual
+63430	sg
+63456	sg
+63461	sg
+63484	sg
+63497	pl
+63502	sg
+63506	dual
+63513	sg
+63529	pl
+63532	sg
+63536	sg
+63560	sg
+63562	pl
+63564	sg
+63570	pl
+63584	sg
+63589	sg
+63591	sg
+63596	pl
+63599	sg
+63603	sg
+63608	sg
+pl
+dual
+63624	sg
+63628	sg
+dual
+63631	pl
+63636	sg
+63645	sg
+sg
+63649	sg
+sg
+63662	sg
+63675	sg
+63678	sg
+63685	sg
+sg
+63693	sg
+dual
+63699	sg
+63703	sg
+63707	sg
+63709	sg
+63714	sg
+63725	pl
+63731	sg
+63734	pl
+63736	sg
+63740	sg
+63746	sg
+sg
+dual
+sg
+63751	sg
+63761	sg
+63767	pl
+63770	dual
+63775	sg
+63777	sg
+sg
+63782	sg
+63787	sg
+63789	sg
+sg
+63794	dual
+63796	sg
+63803	sg
+63808	sg
+63822	sg
+63833	sg
+63836	sg
+63842	dual
+63848	sg
+63851	sg
+63855	pl
+63857	pl
+63864	sg
+pl
+63868	sg
+sg
+dual
+63880	sg
+63884	sg
+63886	sg
+pl
+63901	sg
+sg
+63905	sg
+sg
+63912	sg
+pl
+63919	sg
+63927	sg
+63933	sg
+63940	sg
+pl
+63943	sg
+63953	sg
+63959	sg
+63962	sg
+sg
+sg
+63967	sg
+63970	sg
+63972	sg
+63974	sg
+63984	sg
+63988	sg
+63994	sg
+63998	sg
+64004	sg
+sg
+64007	sg
+64012	sg
+sg
+64016	sg
+64023	sg
+pl
+64027	sg
+64031	sg
+sg
+pl
+64035	sg
+64037	sg
+64041	sg
+64052	sg
+64055	sg
+64063	sg
+64066	sg
+64068	sg
+64071	sg
+64077	sg
+64086	sg
+64091	dual
+64095	sg
+64100	pl
+64103	sg
+64124	sg
+64129	pl
+64151	sg
+64155	sg
+64163	sg
+64165	pl
+64167	sg
+64171	sg
+64177	sg
+64181	sg
+64183	pl
+64189	sg
+64193	sg
+64201	sg
+64203	pl
+64209	sg
+64215	sg
+sg
+64220	sg
+64224	sg
+64234	sg
+64237	sg
+dual
+dual
+64252	sg
+sg
+64258	sg
+sg
+64271	sg
+64276	sg
+64279	sg
+64284	sg
+64290	sg
+64293	sg
+64295	sg
+sg
+64303	pl
+64307	sg
+64316	sg
+64320	sg
+64324	sg
+64328	sg
+64331	sg
+64340	pl
+64349	sg
+64353	sg
+64357	sg
+64365	sg
+64375	sg
+64383	sg
+64392	pl
+64397	pl
+64407	sg
+64411	sg
+64419	pl
+64421	sg
+64423	sg
+64425	sg
+sg
+64430	sg
+64432	sg
+64435	dual
+64438	sg
+64444	pl
+64446	sg
+64448	sg
+sg
+64453	sg
+64455	sg
+64458	dual
+64461	sg
+64473	sg
+64480	sg
+64482	sg
+64489	sg
+64491	sg
+64495	dual
+64498	sg
+sg
+sg
+sg
+64513	sg
+64517	sg
+64520	sg
+64523	sg
+64529	sg
+64533	sg
+64535	sg
+64539	sg
+64541	sg
+64543	sg
+64546	sg
+64556	sg
+64565	sg
+sg
+64570	sg
+64574	pl
+64577	sg
+64580	sg
+64584	sg
+64588	sg
+64592	pl
+64599	sg
+64605	sg
+64615	sg
+64624	sg
+64628	pl
+64646	pl
+64648	sg
+64656	sg
+64658	dual
+64663	sg
+64669	sg
+64673	dual
+64678	sg
+64695	pl
+64699	dual
+64716	sg
+64723	pl
+dual
+64727	pl
+64729	sg
+64738	sg
+64762	sg
+sg
+64770	sg
+sg
+64778	pl
+64781	sg
+64790	sg
+64797	sg
+sg
+sg
+64809	sg
+64817	sg
+64823	pl
+sg
+64845	sg
+64851	sg
+64859	pl
+64867	sg
+64877	sg
+64884	pl
+64887	sg
+64892	sg
+64904	pl
+64909	sg
+64911	sg
+64913	sg
+64927	sg
+64960	sg
+64971	sg
+sg
+64981	pl
+64984	sg
+64989	sg
+64994	dual
+64998	dual
+65007	sg
+65009	pl
+65015	sg
+65021	sg
+65023	sg
+65034	dual
+65042	pl
+65047	sg
+65050	sg
+65056	sg
+65077	sg
+65081	sg
+65085	pl
+sg
+65095	sg
+65097	sg
+65104	pl
+65106	pl
+65110	sg
+65116	pl
+65118	sg
+65120	sg
+65125	sg
+65136	sg
+sg
+65146	sg
+65151	sg
+65160	sg
+65164	pl
+65170	sg
+65181	sg
+65186	pl
+65191	sg
+65200	sg
+65208	sg
+65211	sg
+65217	sg
+sg
+65224	sg
+65245	sg
+65273	sg
+65283	sg
+65287	sg
+65296	sg
+65298	sg
+65300	sg
+65302	sg
+65308	sg
+65311	pl
+65315	pl
+65319	pl
+pl
+65323	pl
+65326	dual
+65334	sg
+65350	dual
+65353	sg
+65370	sg
+65392	sg
+65397	pl
+65401	pl
+dual
+65411	pl
+65415	sg
+65417	pl
+sg
+65423	dual
+65427	sg
+65433	sg
+65436	sg
+65442	sg
+sg
+65445	pl
+sg
+sg
+65454	sg
+65460	sg
+65463	sg
+65468	sg
+65473	pl
+65479	sg
+65485	pl
+65492	sg
+65498	sg
+65508	sg
+65513	sg
+65517	pl
+sg
+65522	sg
+65527	sg
+65531	sg
+65542	sg
+65546	sg
+sg
+65553	sg
+65565	pl
+65569	sg
+65571	sg
+65573	sg
+dual
+dual
+65577	pl
+65588	sg
+65591	sg
+sg
+65599	sg
+sg
+65604	sg
+pl
+65607	dual
+65611	sg
+65617	dual
+65622	sg
+65626	dual
+65634	sg
+65641	sg
+65643	sg
+65648	sg
+sg
+65654	sg
+65656	pl
+65661	sg
+sg
+65686	pl
+65689	pl
+65703	sg
+65718	sg
+65722	sg
+65742	pl
+65745	sg
+65755	pl
+65765	pl
+65770	sg
+65772	sg
+sg
+65776	sg
+sg
+65779	sg
+65783	sg
+65785	pl
+65787	sg
+65790	sg
+65793	sg
+sg
+65803	sg
+65806	sg
+65821	sg
+65838	pl
+65847	sg
+sg
+65851	sg
+65860	pl
+65867	sg
+65872	sg
+pl
+65877	sg
+65880	sg
+65883	sg
+65889	pl
+65897	sg
+65909	pl
+65911	sg
+65925	sg
+65927	sg
+65933	sg
+sg
+65941	dual
+65947	sg
+65954	sg
+65956	dual
+65960	sg
+sg
+65972	pl
+65978	sg
+65985	pl
+65987	sg
+65990	sg
+65993	sg
+65998	sg
+66003	sg
+66008	pl
+66017	sg
+66019	sg
+66022	pl
+66040	pl
+66043	sg
+66045	sg
+66052	pl
+66054	pl
+sg
+66057	sg
+66059	pl
+66065	sg
+66067	sg
+66074	sg
+66079	sg
+66081	sg
+sg
+66092	sg
+66103	sg
+66105	sg
+66111	sg
+66114	sg
+66116	pl
+66119	pl
+66121	sg
+66127	sg
+66130	dual
+66141	sg
+66143	sg
+66148	pl
+66150	sg
+66157	pl
+66161	sg
+66167	sg
+66178	sg
+66196	pl
+66208	sg
+pl
+66224	pl
+66226	pl
+66228	sg
+66247	sg
+66263	sg
+66270	sg
+66274	sg
+66277	pl
+66287	sg
+66289	sg
+66303	pl
+66305	pl
+66327	sg
+66330	pl
+66334	sg
+66340	dual
+66342	dual
+66346	sg
+66349	sg
+66353	pl
+66366	sg
+66369	sg
+66371	sg
+66376	pl
+sg
+66380	sg
+66385	sg
+66392	dual
+66395	sg
+66399	sg
+66402	sg
+66405	pl
+sg
+sg
+66422	sg
+66427	sg
+sg
+66430	sg
+66432	sg
+66435	sg
+66443	sg
+sg
+66455	sg
+66459	sg
+sg
+66462	sg
+66474	pl
+66477	sg
+66481	sg
+66485	sg
+66488	pl
+sg
+66516	sg
+66522	sg
+66524	sg
+66526	pl
+dual
+66542	sg
+66550	sg
+66552	sg
+66555	sg
+66570	sg
+66592	sg
+66615	pl
+66629	sg
+66637	sg
+66643	sg
+sg
+66652	pl
+66663	sg
+66672	sg
+66674	sg
+66678	sg
+pl
+66681	sg
+66691	sg
+66694	sg
+66701	sg
+66719	sg
+66721	sg
+66726	sg
+66733	sg
+66737	sg
+66762	sg
+66785	pl
+66787	sg
+66796	sg
+66798	sg
+66801	pl
+66831	sg
+66834	sg
+sg
+66837	pl
+66839	sg
+66845	sg
+66851	dual
+66857	sg
+66859	pl
+66868	dual
+66875	sg
+66879	sg
+66881	sg
+sg
+66905	sg
+66908	sg
+66911	sg
+66915	pl
+66919	sg
+66922	sg
+66936	dual
+66942	sg
+dual
+66949	sg
+66956	sg
+66960	sg
+66965	sg
+66967	pl
+66973	sg
+66977	sg
+66979	pl
+66982	pl
+66985	sg
+66991	sg
+66998	sg
+67003	sg
+67009	sg
+67013	sg
+67016	dual
+67018	sg
+67022	sg
+67027	sg
+sg
+67035	sg
+67042	sg
+pl
+67049	dual
+67055	sg
+67078	sg
+67086	sg
+sg
+67089	sg
+67098	sg
+pl
+67102	sg
+67105	sg
+67111	sg
+sg
+67115	sg
+67122	sg
+67128	sg
+67130	sg
+67138	sg
+67143	sg
+67148	pl
+67171	sg
+67180	sg
+67195	sg
+67208	sg
+67217	pl
+67223	sg
+67227	sg
+dual
+67235	sg
+67246	sg
+67250	pl
+sg
+67254	sg
+67257	sg
+sg
+67262	sg
+67265	sg
+sg
+67273	sg
+67279	sg
+67295	sg
+67305	sg
+sg
+67322	sg
+67324	sg
+67327	sg
+67331	sg
+sg
+67342	pl
+sg
+67346	sg
+sg
+sg
+67353	sg
+sg
+67357	sg
+67359	pl
+67361	sg
+67372	sg
+67374	sg
+67382	sg
+67384	sg
+67391	sg
+67398	pl
+67401	sg
+67422	sg
+67437	sg
+67439	sg
+67442	sg
+67445	sg
+67447	sg
+67450	sg
+67459	sg
+67462	sg
+sg
+67473	sg
+67476	sg
+67480	sg
+67491	sg
+67500	sg
+67512	sg
+67516	sg
+dual
+67527	sg
+67531	pl
+67534	sg
+67538	dual
+67549	sg
+67551	sg
+67559	sg
+67566	sg
+67568	pl
+67570	sg
+67574	sg
+67579	sg
+67584	sg
+67597	sg
+67599	sg
+67603	sg
+67607	sg
+67623	sg
+67625	sg
+67640	sg
+sg
+67644	pl
+67651	sg
+67668	sg
+67687	pl
+67690	pl
+67698	sg
+67709	sg
+67713	sg
+67719	sg
+67723	sg
+67732	sg
+sg
+67740	sg
+67749	pl
+67758	sg
+67778	sg
+67801	sg
+67806	sg
+67828	pl
+67830	pl
+67833	sg
+sg
+67848	sg
+67860	sg
+67864	sg
+67875	dual
+67877	sg
+pl
+pl
+67888	sg
+67900	sg
+67903	sg
+67907	sg
+67914	pl
+67932	sg
+67938	sg
+67947	sg
+67949	pl
+67952	sg
+67957	pl
+67962	sg
+67983	sg
+67987	sg
+67991	sg
+68001	sg
+68006	sg
+68012	sg
+68033	sg
+68035	sg
+pl
+68041	pl
+68048	sg
+68070	pl
+68079	sg
+68083	sg
+68093	sg
+68098	pl
+68108	sg
+68112	pl
+68118	sg
+68133	pl
+68135	pl
+68141	sg
+68152	sg
+68160	sg
+68164	sg
+68176	pl
+68181	sg
+68187	pl
+68194	sg
+68213	sg
+68218	sg
+dual
+68221	dual
+68223	pl
+68227	sg
+68230	sg
+68242	sg
+68246	sg
+68249	sg
+68261	sg
+68265	sg
+68270	pl
+68273	sg
+68278	sg
+68281	sg
+68285	sg
+68288	sg
+sg
+68292	sg
+68297	sg
+sg
+68303	sg
+68316	sg
+68320	sg
+68324	pl
+68339	sg
+68351	sg
+68365	sg
+68367	pl
+68370	pl
+68377	sg
+pl
+sg
+68383	sg
+68389	pl
+68399	sg
+68409	pl
+68421	sg
+sg
+68428	sg
+68431	sg
+68450	sg
+68461	sg
+68481	sg
+68483	sg
+sg
+68489	sg
+68494	sg
+sg
+68506	sg
+68522	sg
+68532	sg
+68538	sg
+68540	sg
+68543	sg
+68551	sg
+68553	sg
+68555	pl
+68557	sg
+68597	sg
+68603	dual
+68605	sg
+68607	sg
+68617	sg
+68623	sg
+68642	sg
+68647	sg
+68649	sg
+sg
+68654	sg
+68677	pl
+pl
+68683	sg
+68685	sg
+68697	dual
+68700	pl
+68703	sg
+68709	sg
+pl
+68717	sg
+68725	pl
+68731	sg
+68742	sg
+68754	sg
+68767	sg
+68771	sg
+68773	sg
+68782	sg
+68787	sg
+68791	pl
+68798	sg
+68801	sg
+68807	sg
+68821	sg
+sg
+68826	sg
+sg
+68831	sg
+sg
+68840	sg
+68842	pl
+68845	sg
+68866	sg
+68896	sg
+68909	pl
+68924	sg
+68927	pl
+sg
+68943	sg
+68955	sg
+sg
+68960	sg
+68963	sg
+68966	pl
+68972	sg
+68974	sg
+sg
+68983	sg
+68989	pl
+68991	pl
+68993	sg
+69000	sg
+69005	pl
+69017	sg
+69026	sg
+69037	pl
+69039	sg
+69045	sg
+69047	sg
+69049	sg
+69069	sg
+69078	sg
+69083	sg
+69086	sg
+69089	sg
+69096	sg
+69110	sg
+69112	sg
+69125	sg
+69128	sg
+pl
+69134	sg
+69136	pl
+69138	sg
+69157	sg
+69161	sg
+69171	sg
+69173	sg
+69177	sg
+sg
+69207	sg
+69212	pl
+69214	sg
+69217	sg
+69228	sg
+69234	sg
+69240	sg
+69242	sg
+69265	sg
+69269	sg
+sg
+69275	sg
+69277	sg
+69279	sg
+sg
+dual
+69283	sg
+69289	sg
+69291	sg
+69294	sg
+69297	sg
+69300	dual
+69310	sg
+69315	sg
+69318	dual
+69321	pl
+69331	sg
+69333	pl
+sg
+69342	dual
+69345	sg
+69347	sg
+69360	sg
+69370	pl
+69375	sg
+69381	sg
+69399	pl
+69408	sg
+69413	pl
+69415	sg
+69419	sg
+69421	sg
+69432	sg
+69440	sg
+69443	sg
+69449	sg
+69457	dual
+69459	dual
+sg
+69467	sg
+sg
+69475	sg
+69483	sg
+69493	sg
+69501	pl
+69503	pl
+69511	pl
+69519	sg
+69526	dual
+69542	pl
+69544	sg
+69549	sg
+69563	sg
+69574	sg
+69577	sg
+69588	sg
+69606	sg
+69615	sg
+69619	sg
+69631	pl
+69636	dual
+69640	sg
+69649	pl
+sg
+pl
+69653	sg
+69657	sg
+sg
+69666	sg
+69671	sg
+69673	sg
+sg
+sg
+69681	sg
+69683	dual
+69688	sg
+69698	sg
+sg
+69702	dual
+69705	sg
+sg
+69711	sg
+69716	sg
+sg
+69720	sg
+69724	sg
+sg
+sg
+69728	sg
+69733	sg
+69740	sg
+69744	sg
+69747	sg
+69755	sg
+69764	sg
+sg
+sg
+69776	sg
+69780	pl
+69785	pl
+69793	sg
+pl
+69802	sg
+69811	sg
+69819	sg
+sg
+69822	sg
+69836	sg
+69842	sg
+69859	sg
+sg
+69863	dual
+69867	sg
+69872	sg
+69875	sg
+69881	pl
+69889	pl
+69892	sg
+69895	dual
+69898	sg
+69902	sg
+69909	sg
+69915	sg
+69924	sg
+69939	sg
+69941	sg
+69946	sg
+69954	sg
+69965	pl
+69985	sg
+69999	sg
+70018	sg
+70038	sg
+70044	pl
+sg
+pl
+70050	sg
+70057	sg
+70059	sg
+sg
+70062	sg
+70064	sg
+70072	sg
+70078	sg
+70080	sg
+70082	sg
+70084	sg
+70090	sg
+70108	sg
+70116	pl
+70123	sg
+70127	sg
+70136	sg
+70139	sg
+sg
+70145	sg
+70149	sg
+70151	sg
+70154	sg
+70183	sg
+70186	sg
+sg
+70195	pl
+sg
+70203	sg
+70205	sg
+70211	sg
+sg
+70215	sg
+sg
+70218	sg
+70221	sg
+70231	pl
+70236	dual
+70240	sg
+70245	sg
+sg
+70254	sg
+70257	sg
+sg
+70267	dual
+70270	sg
+70276	sg
+sg
+pl
+70280	pl
+70287	sg
+sg
+70293	sg
+70297	sg
+70302	pl
+70306	pl
+70311	sg
+70316	sg
+70319	sg
+70328	sg
+70331	sg
+70335	sg
+70340	sg
+70344	sg
+70350	sg
+70354	sg
+70364	pl
+70387	sg
+70403	sg
+70407	sg
+70410	sg
+70416	sg
+70425	sg
+70455	sg
+70458	sg
+70474	pl
+70480	pl
+70483	sg
+sg
+70487	dual
+70497	sg
+70521	sg
+70529	sg
+70544	sg
+70550	sg
+70557	sg
+70565	sg
+70567	sg
+70572	sg
+70576	sg
+70581	sg
+70586	sg
+70588	sg
+70592	pl
+70603	sg
+70606	sg
+70615	dual
+70625	sg
+70629	pl
+70633	sg
+70635	sg
+70639	sg
+70642	sg
+70646	sg
+sg
+70662	sg
+70672	sg
+70677	sg
+70684	pl
+70686	sg
+70689	pl
+70693	sg
+70714	sg
+sg
+70724	sg
+70731	pl
+sg
+70741	sg
+70743	sg
+70749	sg
+sg
+70757	sg
+70762	pl
+70765	sg
+70771	dual
+70779	sg
+70789	dual
+70805	sg
+70808	pl
+70813	sg
+70821	sg
+70824	sg
+70829	pl
+70842	sg
+70846	sg
+70850	sg
+70856	sg
+70862	sg
+70864	sg
+dual
+70870	pl
+70873	pl
+70876	pl
+70879	sg
+70894	sg
+70897	sg
+sg
+70903	sg
+70907	sg
+70909	sg
+70913	sg
+70917	sg
+sg
+70921	sg
+70923	pl
+70929	pl
+70936	pl
+70944	sg
+70952	sg
+70954	pl
+70962	sg
+70967	pl
+70969	pl
+70972	sg
+70978	sg
+70981	pl
+70989	pl
+70997	sg
+71002	pl
+71018	dual
+dual
+71027	sg
+71035	sg
+71037	sg
+71041	sg
+71043	sg
+71048	sg
+71055	sg
+71058	dual
+71064	sg
+71075	sg
+71087	sg
+71092	sg
+sg
+71095	sg
+71112	sg
+71121	sg
+sg
+71126	sg
+71129	sg
+71134	sg
+71147	sg
+71152	sg
+sg
+sg
+71158	pl
+71161	pl
+71165	sg
+71175	sg
+71179	sg
+71190	sg
+71195	pl
+71197	pl
+sg
+71202	sg
+71205	pl
+71211	sg
+71221	pl
+71223	sg
+71229	sg
+71234	pl
+71239	sg
+71247	sg
+71259	sg
+71261	pl
+71281	pl
+71283	sg
+71291	pl
+71296	sg
+71310	pl
+71312	sg
+71318	pl
+71332	sg
+71335	pl
+71344	sg
+71350	sg
+71352	pl
+71354	sg
+71357	sg
+71371	pl
+71373	sg
+71375	sg
+71380	pl
+71387	pl
+71389	sg
+71391	pl
+71393	dual
+71395	sg
+71398	sg
+sg
+71404	sg
+71406	pl
+71432	sg
+71436	dual
+71438	sg
+71442	sg
+71444	pl
+71449	sg
+71455	pl
+71479	sg
+71485	sg
+71489	sg
+71501	sg
+71511	sg
+71515	sg
+71518	sg
+pl
+71523	sg
+71529	sg
+71535	sg
+pl
+71547	sg
+71550	pl
+71563	sg
+71567	sg
+71570	sg
+sg
+71574	sg
+71576	dual
+71583	sg
+71588	sg
+dual
+71592	sg
+71605	sg
+71607	sg
+sg
+71616	dual
+71632	sg
+71636	sg
+71639	sg
+71662	sg
+71668	sg
+71672	sg
+71675	sg
+71677	sg
+71684	dual
+71690	sg
+71695	sg
+71700	sg
+71702	sg
+71707	sg
+71719	pl
+71723	sg
+71729	sg
+71731	pl
+71742	sg
+71746	sg
+sg
+71750	pl
+71753	dual
+dual
+71758	dual
+71761	dual
+71764	dual
+71767	sg
+71776	sg
+71778	sg
+pl
+71782	sg
+71784	sg
+71789	sg
+71796	sg
+71800	sg
+dual
+71807	sg
+71817	sg
+71821	sg
+sg
+71830	sg
+71837	sg
+71849	sg
+71851	sg
+71857	sg
+71864	pl
+71877	sg
+71880	sg
+71883	sg
+71886	sg
+71898	sg
+71905	sg
+71915	sg
+71917	sg
+71923	sg
+71925	sg
+71936	sg
+71947	pl
+71951	sg
+71953	sg
+71960	sg
+71964	sg
+71968	sg
+71970	sg
+71978	sg
+71981	sg
+71993	pl
+71998	pl
+72003	sg
+72009	sg
+72018	sg
+pl
+72027	sg
+72030	sg
+72032	sg
+72043	sg
+72048	sg
+dual
+72052	sg
+72062	pl
+pl
+72067	pl
+72072	sg
+72080	sg
+72083	sg
+72085	sg
+72099	sg
+72102	sg
+72104	sg
+72109	sg
+pl
+72116	sg
+72120	sg
+72124	sg
+72127	pl
+72129	pl
+72131	sg
+72141	sg
+sg
+pl
+72152	dual
+72176	sg
+72180	pl
+72187	pl
+72192	dual
+72194	dual
+72208	pl
+72213	sg
+sg
+72221	pl
+72234	sg
+72239	pl
+72241	sg
+72267	sg
+72272	sg
+72275	sg
+72288	sg
+72307	sg
+72309	sg
+72322	sg
+sg
+72325	pl
+72328	sg
+72330	pl
+72336	sg
+sg
+72343	sg
+72345	sg
+dual
+72348	sg
+72353	sg
+72358	sg
+72360	sg
+72369	sg
+72373	dual
+72394	sg
+72398	sg
+72419	sg
+72421	sg
+72426	sg
+72451	pl
+72458	sg
+72460	sg
+72468	sg
+72473	pl
+72481	sg
+72498	sg
+72509	sg
+72511	sg
+72532	sg
+sg
+72537	sg
+72543	sg
+72554	sg
+72559	pl
+sg
+72574	sg
+72581	sg
+72589	sg
+72592	sg
+72600	pl
+72605	sg
+72614	dual
+72619	sg
+72625	pl
+72631	sg
+72642	sg
+72646	sg
+72652	sg
+72658	sg
+72669	sg
+72686	pl
+72691	pl
+72695	sg
+sg
+72723	sg
+72726	sg
+72731	pl
+sg
+72738	sg
+72763	sg
+72768	sg
+72774	sg
+72778	sg
+72788	sg
+72793	sg
+72796	sg
+sg
+pl
+72806	sg
+72820	pl
+72824	sg
+sg
+72837	dual
+72853	sg
+72855	sg
+72859	sg
+72864	sg
+72869	sg
+72872	sg
+72874	sg
+72876	sg
+72879	sg
+72881	sg
+72885	sg
+72892	sg
+72895	sg
+72902	sg
+72906	pl
+72917	sg
+72923	sg
+72927	sg
+72930	pl
+72933	sg
+72937	sg
+72946	sg
+pl
+72952	sg
+72956	pl
+72968	sg
+72970	sg
+72981	pl
+72987	pl
+72995	sg
+72999	sg
+73002	sg
+73013	sg
+73061	sg
+pl
+73077	sg
+73086	sg
+73090	sg
+73094	sg
+73096	pl
+73101	sg
+73107	sg
+73109	dual
+73128	sg
+73130	sg
+73133	sg
+73144	sg
+73147	pl
+73153	sg
+73164	sg
+73168	sg
+73172	sg
+73174	pl
+73177	sg
+pl
+73185	sg
+73191	sg
+73200	sg
+73209	pl
+pl
+sg
+73221	dual
+73228	sg
+73230	sg
+73235	sg
+73238	sg
+73242	sg
+pl
+73245	sg
+73249	pl
+sg
+73276	sg
+sg
+73301	sg
+73305	sg
+73311	pl
+dual
+sg
+73315	dual
+sg
+73321	sg
+73325	sg
+sg
+73332	sg
+73334	sg
+73337	sg
+sg
+73353	sg
+73360	pl
+73364	dual
+73366	pl
+73368	sg
+73396	sg
+sg
+73415	sg
+73417	sg
+pl
+73423	sg
+73429	dual
+73458	sg
+73464	sg
+73467	sg
+pl
+73472	sg
+73475	sg
+73480	sg
+73482	sg
+73496	pl
+sg
+pl
+sg
+73504	sg
+73506	pl
+73510	sg
+pl
+73516	sg
+73518	sg
+dual
+73524	pl
+73526	sg
+73529	sg
+73535	sg
+73537	pl
+sg
+73543	dual
+73551	sg
+73557	sg
+73559	sg
+73565	sg
+73567	sg
+73570	sg
+73597	sg
+73599	sg
+73605	sg
+73609	sg
+73611	sg
+73613	sg
+73628	sg
+73637	pl
+73644	sg
+73658	sg
+73666	sg
+73680	dual
+73682	sg
+73691	sg
+73697	sg
+73705	sg
+73715	sg
+73721	sg
+73723	pl
+73732	sg
+73735	sg
+73761	pl
+73763	sg
+73767	sg
+73769	sg
+73774	sg
+73780	sg
+73787	pl
+73793	sg
+73799	sg
+73804	dual
+73811	sg
+73815	sg
+73818	sg
+73820	sg
+73840	sg
+73846	dual
+73850	sg
+73859	pl
+73862	sg
+73864	pl
+sg
+73871	sg
+73874	sg
+73888	dual
+73898	dual
+73902	sg
+73908	sg
+73911	pl
+73913	sg
+73915	sg
+73917	sg
+pl
+73922	sg
+73928	pl
+73938	pl
+73951	sg
+73964	sg
+73967	sg
+73969	pl
+73974	sg
+73983	sg
+73985	sg
+73989	sg
+73992	sg
+pl
+74005	dual
+74008	sg
+sg
+74011	sg
+74013	pl
+74015	sg
+74020	sg
+74028	sg
+sg
+74037	sg
+74039	pl
+74047	sg
+74051	sg
+pl
+74059	sg
+sg
+74070	sg
+sg
+74083	sg
+74093	sg
+sg
+74103	sg
+74107	sg
+74142	sg
+74148	sg
+74154	sg
+74163	sg
+74167	sg
+74175	sg
+74180	sg
+74197	sg
+74207	sg
+74216	pl
+74218	sg
+74221	sg
+74226	sg
+74234	sg
+74240	pl
+74246	pl
+74250	dual
+74254	pl
+dual
+74262	pl
+74276	pl
+74281	sg
+74289	sg
+74296	sg
+74306	sg
+74308	sg
+74312	pl
+sg
+dual
+74318	sg
+74333	dual
+74336	pl
+74352	sg
+74356	pl
+74362	sg
+74364	sg
+74377	pl
+sg
+sg
+74381	sg
+74386	sg
+74388	sg
+74395	dual
+pl
+74398	sg
+74400	sg
+74405	sg
+74410	sg
+74413	dual
+74423	sg
+sg
+sg
+74427	dual
+74432	sg
+74442	sg
+sg
+74470	sg
+74486	sg
+74488	sg
+74490	sg
+74494	sg
+pl
+74503	sg
+74506	sg
+sg
+74513	dual
+74516	sg
+74519	sg
+74525	pl
+74527	pl
+74529	pl
+74538	sg
+74540	sg
+74543	sg
+74552	pl
+74556	sg
+74563	sg
+74576	sg
+sg
+74579	sg
+74584	sg
+74587	dual
+sg
+74590	dual
+74599	pl
+74601	sg
+74603	pl
+74624	sg
+74629	sg
+pl
+74643	sg
+74647	pl
+74650	sg
+74652	dual
+sg
+74679	pl
+74690	sg
+74694	sg
+sg
+74700	sg
+74706	sg
+74713	sg
+74724	sg
+74728	sg
+74730	sg
+74734	pl
+74739	sg
+74759	pl
+sg
+74765	sg
+74771	sg
+74778	pl
+74780	pl
+74783	sg
+74787	sg
+74790	sg
+74793	sg
+74796	sg
+74803	pl
+74827	dual
+74849	pl
+74853	dual
+74855	dual
+74868	sg
+74877	pl
+74881	pl
+74884	sg
+74895	pl
+74900	pl
+74902	sg
+74904	pl
+74916	pl
+74918	sg
+74922	dual
+74930	sg
+74936	pl
+sg
+sg
+pl
+74941	pl
+74950	sg
+pl
+74955	sg
+74965	sg
+74969	sg
+sg
+sg
+74974	sg
+74978	dual
+74981	pl
+74989	sg
+74991	sg
+74995	pl
+74999	sg
+75002	pl
+75004	sg
+75018	pl
+75024	sg
+75028	sg
+75045	dual
+sg
+75051	sg
+75054	sg
+75058	sg
+75061	sg
+75065	sg
+sg
+75070	pl
+75074	sg
+pl
+75081	sg
+75085	dual
+75089	pl
+75091	dual
+75093	sg
+sg
+sg
+75097	sg
+75103	pl
+75108	sg
+75111	sg
+sg
+75119	sg
+75121	sg
+75125	sg
+75136	sg
+sg
+75151	sg
+75153	sg
+75155	sg
+75166	sg
+sg
+pl
+sg
+75177	dual
+75180	pl
+75193	sg
+75197	dual
+75205	sg
+75207	sg
+75221	sg
+75230	sg
+75239	pl
+75241	sg
+75243	sg
+75247	sg
+sg
+75256	dual
+75264	sg
+75268	dual
+sg
+75277	pl
+75297	sg
+pl
+75314	sg
+75318	pl
+75322	sg
+75324	pl
+75327	sg
+75331	sg
+75337	sg
+75345	sg
+75352	sg
+75377	sg
+75384	sg
+75395	pl
+75399	sg
+75420	sg
+75429	sg
+75437	sg
+75444	sg
+75449	sg
+75453	sg
+75456	sg
+75462	sg
+75464	dual
+75492	pl
+75508	sg
+75511	sg
+75527	sg
+75532	sg
+75538	sg
+sg
+75544	sg
+75556	pl
+75558	sg
+75561	pl
+75568	pl
+75575	sg
+75578	pl
+75583	sg
+75589	sg
+75598	pl
+75605	sg
+75622	sg
+75629	pl
+75632	pl
+75658	sg
+pl
+75664	sg
+75667	sg
+75671	dual
+75679	sg
+sg
+75684	sg
+75703	sg
+75706	pl
+75709	pl
+sg
+75723	sg
+75727	sg
+75729	sg
+75733	sg
+75750	sg
+75752	sg
+75764	sg
+75767	pl
+75775	pl
+75780	sg
+75786	pl
+75793	sg
+75799	pl
+75807	pl
+75837	sg
+75839	sg
+pl
+75844	sg
+75848	sg
+75855	sg
+sg
+75864	sg
+75866	sg
+pl
+sg
+75883	sg
+75895	sg
+75900	pl
+75902	sg
+75905	sg
+75909	pl
+75917	sg
+75919	sg
+sg
+75937	sg
+sg
+75947	dual
+75952	dual
+75955	pl
+75962	sg
+75966	pl
+75970	pl
+75979	dual
+75983	sg
+75987	sg
+75991	sg
+sg
+75995	sg
+75998	sg
+76001	sg
+76007	dual
+76019	sg
+76024	sg
+76033	sg
+sg
+76044	pl
+76048	sg
+76053	pl
+76060	sg
+76064	pl
+76075	sg
+76088	sg
+76090	pl
+76092	sg
+76098	pl
+76102	dual
+76112	pl
+76114	sg
+76126	sg
+76131	sg
+76135	sg
+sg
+76139	sg
+76143	sg
+76153	sg
+76155	sg
+76182	sg
+76186	pl
+76190	sg
+76202	dual
+76216	dual
+76229	sg
+76248	pl
+76251	pl
+76265	sg
+76267	pl
+76273	dual
+76275	sg
+76290	sg
+dual
+76295	sg
+76298	sg
+76306	sg
+76310	sg
+dual
+76320	sg
+76334	sg
+76337	sg
+76346	sg
+sg
+76355	sg
+76359	sg
+76361	pl
+76370	sg
+76376	sg
+76384	sg
+76387	sg
+76390	pl
+76393	sg
+76405	pl
+76408	sg
+76414	sg
+76422	sg
+76428	sg
+76430	sg
+76435	sg
+76443	sg
+76448	sg
+76491	sg
+76497	sg
+76499	pl
+76516	sg
+sg
+76524	sg
+76534	sg
+76538	sg
+sg
+76544	sg
+76548	sg
+76550	sg
+76556	sg
+76558	sg
+76562	sg
+76564	sg
+pl
+76569	pl
+76575	sg
+76577	pl
+76581	sg
+76585	sg
+76593	sg
+sg
+76601	sg
+76606	sg
+76614	sg
+dual
+76619	sg
+76646	sg
+76651	sg
+76653	pl
+76655	sg
+76668	dual
+76678	dual
+76680	sg
+76683	sg
+76690	sg
+76696	dual
+76700	sg
+sg
+76705	sg
+sg
+76710	sg
+76715	sg
+76721	sg
+76726	sg
+76728	sg
+76732	sg
+76735	sg
+76739	sg
+76745	sg
+76748	pl
+sg
+76758	sg
+76764	sg
+76768	sg
+76790	sg
+76797	sg
+76802	sg
+76804	sg
+76806	pl
+76809	pl
+76811	sg
+76814	sg
+76821	pl
+76824	sg
+76829	sg
+76831	pl
+sg
+76836	sg
+76848	pl
+pl
+76853	sg
+76865	sg
+dual
+76868	sg
+76889	dual
+76892	dual
+dual
+76897	sg
+76907	dual
+76909	dual
+dual
+76914	sg
+76927	sg
+76929	sg
+76931	sg
+76939	sg
+sg
+76948	sg
+76951	sg
+76961	sg
+76965	sg
+sg
+76979	sg
+76990	pl
+76992	sg
+76994	sg
+77004	sg
+77015	sg
+77017	sg
+77020	dual
+77022	pl
+77027	pl
+77032	sg
+77035	sg
+77043	sg
+77061	pl
+77063	pl
+77065	sg
+77074	sg
+77081	sg
+77083	pl
+77086	pl
+77094	sg
+77096	pl
+77108	sg
+77114	sg
+77116	sg
+77125	sg
+77129	dual
+77132	sg
+77134	pl
+77142	pl
+77145	pl
+77147	pl
+77152	sg
+77156	pl
+77160	pl
+77162	sg
+77164	pl
+77169	sg
+dual
+sg
+77178	pl
+77181	sg
+77184	sg
+77189	pl
+77191	sg
+sg
+77203	sg
+77205	sg
+77215	sg
+sg
+77221	pl
+77231	sg
+77235	sg
+77245	sg
+77249	sg
+77251	sg
+sg
+sg
+77260	sg
+77268	sg
+77271	sg
+77276	sg
+sg
+77280	sg
+77283	sg
+pl
+77328	pl
+77346	pl
+77356	pl
+77360	sg
+77372	sg
+77379	sg
+sg
+sg
+77386	sg
+77392	pl
+77401	sg
+77405	pl
+77409	sg
+77420	sg
+77430	sg
+77437	sg
+77448	sg
+77454	sg
+pl
+77458	dual
+77467	sg
+77472	sg
+77482	sg
+77484	pl
+77489	dual
+pl
+77495	sg
+77516	sg
+77524	sg
+77528	pl
+77533	sg
+77541	sg
+77549	pl
+sg
+pl
+77560	pl
+77574	sg
+77588	sg
+sg
+77593	sg
+sg
+77597	sg
+sg
+77602	sg
+77606	sg
+77610	sg
+77614	sg
+77616	pl
+77619	sg
+77624	sg
+77627	pl
+77633	sg
+77637	pl
+77648	pl
+77658	sg
+77667	sg
+77674	pl
+sg
+77677	sg
+77681	sg
+77686	sg
+77689	sg
+77694	sg
+77700	sg
+77708	sg
+77716	pl
+77719	sg
+sg
+sg
+77724	pl
+77728	sg
+77735	sg
+sg
+77741	sg
+77747	sg
+77750	pl
+77752	pl
+pl
+77756	pl
+sg
+77759	pl
+77769	sg
+77793	pl
+77807	sg
+sg
+77812	sg
+77814	sg
+sg
+77819	sg
+77825	sg
+77827	dual
+77830	pl
+sg
+77844	pl
+77846	sg
+77848	sg
+77850	pl
+77853	sg
+77856	sg
+77860	sg
+77869	pl
+77871	sg
+77875	sg
+77879	sg
+77882	sg
+77884	sg
+77898	pl
+77901	pl
+77905	pl
+77919	sg
+77923	sg
+pl
+77942	sg
+77944	sg
+77947	dual
+77951	sg
+77953	sg
+77960	sg
+sg
+sg
+77975	pl
+77979	sg
+sg
+77983	pl
+77989	pl
+77995	sg
+77998	dual
+78003	sg
+78012	sg
+78038	sg
+pl
+78045	pl
+78049	sg
+78052	pl
+78056	sg
+78058	sg
+78062	sg
+sg
+78073	dual
+78092	sg
+78111	sg
+78118	sg
+78124	sg
+78126	sg
+78130	sg
+78134	sg
+78139	sg
+sg
+78153	sg
+pl
+78157	sg
+78163	sg
+sg
+78170	sg
+78173	sg
+78178	sg
+dual
+78184	sg
+78189	sg
+sg
+78192	sg
+78196	sg
+78201	sg
+pl
+sg
+78208	dual
+78218	sg
+78224	sg
+dual
+sg
+78233	dual
+78235	sg
+78242	pl
+78248	pl
+78251	sg
+78255	sg
+78258	sg
+78274	sg
+78277	sg
+pl
+78290	sg
+78292	sg
+78297	sg
+78304	sg
+dual
+sg
+78312	sg
+78319	pl
+78322	sg
+78325	pl
+sg
+78337	sg
+sg
+78343	sg
+78350	pl
+78362	sg
+78365	sg
+78368	sg
+78373	sg
+78382	sg
+78384	pl
+78389	sg
+78393	sg
+78403	pl
+78410	sg
+78415	sg
+sg
+78420	sg
+sg
+78425	sg
+78430	pl
+78436	sg
+78441	sg
+78452	dual
+78454	sg
+78456	sg
+78461	sg
+78467	sg
+78477	sg
+78481	pl
+78484	sg
+78486	sg
+78492	dual
+78496	pl
+78500	dual
+78517	sg
+pl
+78520	pl
+78547	sg
+78550	sg
+78581	sg
+78584	pl
+78589	sg
+78591	sg
+78594	sg
+78599	pl
+78613	sg
+78615	sg
+78618	pl
+78620	pl
+78624	sg
+sg
+78638	pl
+78662	sg
+78664	sg
+78674	sg
+78676	sg
+78679	sg
+78685	sg
+78687	sg
+78695	sg
+78707	sg
+78709	sg
+78714	sg
+78720	pl
+78724	sg
+78726	sg
+78730	sg
+78735	pl
+78738	sg
+78760	pl
+78764	sg
+78769	sg
+78784	dual
+78790	sg
+78805	dual
+78822	sg
+78827	sg
+78830	sg
+78853	sg
+78856	sg
+78858	sg
+78861	sg
+78864	sg
+78875	pl
+78882	sg
+78898	sg
+78905	sg
+78911	pl
+78944	pl
+78949	sg
+78951	pl
+78959	sg
+78964	sg
+78976	sg
+78979	sg
+sg
+pl
+sg
+78990	sg
+79004	sg
+79007	sg
+79013	sg
+79026	pl
+79030	sg
+sg
+79033	sg
+79038	sg
+79053	pl
+79056	sg
+sg
+79069	sg
+79072	sg
+79077	pl
+79086	pl
+79089	sg
+sg
+79093	sg
+sg
+79099	sg
+79101	sg
+sg
+79108	sg
+79116	sg
+79119	sg
+79126	sg
+79128	sg
+79140	pl
+79146	sg
+sg
+79152	sg
+79157	sg
+79161	sg
+79166	sg
+79171	sg
+79176	sg
+79178	pl
+79185	sg
+pl
+79202	sg
+79205	sg
+79214	sg
+79221	sg
+79225	sg
+79229	pl
+79233	sg
+79235	sg
+79241	sg
+79244	sg
+sg
+pl
+sg
+79249	pl
+79268	sg
+79271	sg
+79280	dual
+79283	pl
+79286	sg
+79292	sg
+79294	pl
+79303	sg
+79305	pl
+79318	sg
+79325	pl
+dual
+79331	sg
+79339	sg
+79350	pl
+79360	sg
+79367	sg
+79369	sg
+79373	pl
+79375	sg
+79383	pl
+79397	sg
+79399	sg
+79407	sg
+79414	sg
+79432	sg
+79448	sg
+79452	pl
+79479	sg
+79487	sg
+79491	sg
+sg
+79500	pl
+79504	sg
+sg
+79518	sg
+79528	sg
+pl
+79539	sg
+79546	sg
+79564	sg
+79566	sg
+79597	sg
+79615	pl
+79626	dual
+79634	sg
+79650	sg
+79673	sg
+pl
+79677	sg
+79681	sg
+79686	sg
+79688	sg
+79691	sg
+sg
+sg
+79697	dual
+79699	sg
+sg
+79704	sg
+79706	sg
+79711	pl
+79713	sg
+sg
+79723	pl
+79730	pl
+79732	sg
+79750	pl
+79758	pl
+79767	sg
+79773	dual
+79782	pl
+79787	sg
+79795	sg
+79799	sg
+79809	sg
+79820	sg
+79851	sg
+79860	sg
+79867	pl
+79870	sg
+79873	sg
+79877	sg
+79884	sg
+79905	pl
+79914	pl
+79916	pl
+79921	pl
+79925	sg
+79936	sg
+79942	sg
+79948	sg
+79954	pl
+79963	sg
+79986	sg
+79993	sg
+80004	sg
+80017	pl
+80023	sg
+80028	pl
+sg
+80037	sg
+sg
+80047	sg
+80049	sg
+80051	sg
+sg
+80063	sg
+sg
+80076	dual
+80078	sg
+80083	pl
+80091	sg
+80096	sg
+80113	sg
+80115	pl
+80122	pl
+80124	sg
+80128	sg
+80130	sg
+80132	pl
+80143	sg
+80147	sg
+80150	pl
+80169	pl
+80173	dual
+sg
+80181	dual
+80183	pl
+pl
+80199	sg
+80202	sg
+pl
+80205	sg
+80208	sg
+80213	sg
+80218	sg
+80235	sg
+sg
+80252	pl
+80257	sg
+80274	sg
+80281	sg
+80283	dual
+80286	sg
+80288	sg
+80292	pl
+80295	sg
+80300	sg
+sg
+80307	sg
+sg
+80311	pl
+sg
+80314	pl
+pl
+80328	sg
+80332	pl
+80334	dual
+80337	sg
+80343	pl
+80348	sg
+80363	sg
+sg
+80366	sg
+80375	sg
+80383	dual
+sg
+80389	sg
+80393	dual
+80396	sg
+80398	sg
+80401	sg
+80410	sg
+80415	sg
+80422	sg
+80426	pl
+80429	sg
+80431	sg
+80445	sg
+80465	sg
+80478	dual
+80481	sg
+80484	sg
+80487	sg
+80489	dual
+80494	sg
+80504	sg
+80510	sg
+80518	sg
+80530	sg
+sg
+80534	sg
+80553	pl
+80560	dual
+80572	sg
+80588	pl
+80605	sg
+80607	sg
+80614	sg
+80617	sg
+80632	sg
+80634	sg
+80636	sg
+80651	sg
+80657	sg
+80659	sg
+80662	pl
+80679	sg
+80681	pl
+80684	sg
+sg
+sg
+80689	pl
+sg
+80703	sg
+80710	sg
+80713	dual
+80715	sg
+80719	sg
+80722	sg
+80728	sg
+80730	sg
+80732	sg
+sg
+80747	sg
+80749	sg
+80751	sg
+80757	sg
+sg
+80768	sg
+80770	sg
+80780	sg
+80783	dual
+80785	sg
+sg
+80793	sg
+80799	pl
+80803	sg
+80806	sg
+80816	sg
+80819	sg
+sg
+80824	pl
+80831	sg
+80838	pl
+sg
+80847	dual
+80851	pl
+80863	sg
+80866	sg
+80869	sg
+80879	pl
+80886	pl
+80908	pl
+80912	sg
+80919	sg
+80923	sg
+80925	pl
+pl
+80930	pl
+pl
+80934	pl
+80952	sg
+80959	pl
+sg
+80963	sg
+80965	sg
+80975	sg
+80983	pl
+80985	sg
+80988	sg
+80998	sg
+pl
+81002	sg
+81006	pl
+81009	dual
+81018	sg
+81025	pl
+81035	sg
+81042	dual
+81046	sg
+81048	pl
+81050	pl
+81068	sg
+81076	sg
+81078	sg
+81086	sg
+81094	sg
+81096	sg
+81105	sg
+81107	dual
+81112	sg
+81114	sg
+81118	sg
+81120	sg
+81126	sg
+81135	sg
+81153	dual
+81156	sg
+81158	sg
+81177	pl
+81182	pl
+81197	pl
+81203	sg
+81221	sg
+81224	sg
+81229	sg
+81232	sg
+81236	sg
+81241	pl
+pl
+81244	sg
+81253	dual
+81256	pl
+sg
+81260	sg
+81273	sg
+81275	sg
+sg
+81286	sg
+81292	pl
+81294	pl
+sg
+81297	pl
+81304	sg
+81317	pl
+81319	sg
+81321	sg
+pl
+81326	sg
+81330	sg
+81332	sg
+81335	pl
+pl
+sg
+81348	sg
+81355	sg
+81359	pl
+sg
+sg
+81366	pl
+81378	sg
+81387	sg
+81390	sg
+sg
+81398	sg
+81405	sg
+sg
+81409	dual
+sg
+81413	sg
+81423	sg
+81433	sg
+81444	sg
+sg
+81449	sg
+81454	sg
+81459	sg
+81467	sg
+81471	dual
+81474	sg
+81478	sg
+81482	sg
+81486	sg
+81489	sg
+81495	pl
+81501	sg
+dual
+81504	sg
+81514	sg
+81517	sg
+81523	sg
+81526	pl
+81536	pl
+81539	sg
+sg
+81546	sg
+81550	sg
+81554	sg
+81567	sg
+81572	sg
+81576	dual
+81580	sg
+81591	sg
+pl
+81597	sg
+81607	sg
+81619	sg
+81624	dual
+81627	sg
+81658	sg
+81686	sg
+81697	sg
+81700	sg
+81715	sg
+81718	sg
+81724	sg
+sg
+81727	sg
+81736	sg
+81739	sg
+81747	sg
+81751	pl
+81756	pl
+sg
+81764	sg
+81776	sg
+81778	pl
+81785	dual
+81788	sg
+81790	sg
+81797	pl
+81799	pl
+81802	sg
+sg
+81805	pl
+sg
+81812	pl
+sg
+81815	sg
+81817	sg
+sg
+81833	sg
+81835	sg
+81843	pl
+81846	sg
+81848	pl
+sg
+81854	sg
+81857	sg
+81859	sg
+81867	dual
+81877	pl
+81880	dual
+81894	sg
+81897	sg
+sg
+81925	sg
+81935	sg
+dual
+pl
+81940	pl
+81943	sg
+81983	sg
+81987	sg
+81991	sg
+81994	pl
+81998	pl
+82005	sg
+82017	sg
+82021	pl
+82024	sg
+82033	sg
+82039	sg
+82043	sg
+82048	sg
+82051	sg
+82063	sg
+sg
+82074	pl
+82082	sg
+82084	dual
+82086	sg
+82089	sg
+82092	dual
+82106	sg
+82113	pl
+82119	sg
+82122	sg
+82124	sg
+82131	sg
+82133	pl
+82147	sg
+sg
+82150	pl
+sg
+sg
+82160	sg
+82168	sg
+sg
+82172	pl
+82174	sg
+82177	sg
+sg
+pl
+82186	sg
+sg
+82203	pl
+82216	sg
+sg
+82220	sg
+82223	sg
+82227	sg
+82231	sg
+82235	sg
+82248	sg
+82250	dual
+82253	pl
+82255	pl
+82261	sg
+82269	pl
+pl
+82273	pl
+pl
+82276	pl
+82280	sg
+82283	pl
+82308	pl
+82311	pl
+82321	pl
+pl
+82326	sg
+82335	pl
+82342	sg
+82347	sg
+82355	pl
+sg
+82359	sg
+82362	sg
+82364	sg
+82371	sg
+sg
+82375	dual
+82382	sg
+82388	sg
+82393	sg
+82402	dual
+82408	dual
+82412	sg
+82424	sg
+sg
+82430	pl
+82441	sg
+82458	sg
+82471	sg
+82480	sg
+82482	sg
+82488	pl
+82491	sg
+82494	sg
+dual
+82497	dual
+82501	dual
+82515	sg
+82519	sg
+82528	sg
+sg
+sg
+82532	sg
+82539	sg
+82559	sg
+82561	sg
+sg
+82568	sg
+82570	sg
+82582	pl
+82587	sg
+82591	sg
+82594	sg
+82612	sg
+sg
+82616	sg
+82635	sg
+82645	sg
+82647	sg
+82656	pl
+82661	sg
+82665	dual
+82672	sg
+82685	sg
+pl
+82688	sg
+82693	sg
+82698	pl
+82703	sg
+82705	sg
+82712	sg
+82716	sg
+82721	sg
+82724	dual
+82726	sg
+82728	sg
+sg
+pl
+82732	sg
+sg
+82735	sg
+82738	pl
+82749	sg
+82759	pl
+82765	sg
+82777	sg
+82784	sg
+82792	pl
+82797	sg
+82807	dual
+82809	pl
+pl
+sg
+82814	sg
+pl
+82819	sg
+82821	sg
+82827	sg
+82830	dual
+82834	pl
+82839	sg
+82850	sg
+82859	sg
+82874	sg
+sg
+82878	pl
+sg
+pl
+dual
+pl
+82890	pl
+82898	pl
+82902	sg
+82904	pl
+82910	pl
+82912	sg
+pl
+82926	sg
+82929	pl
+82932	sg
+82937	sg
+82952	pl
+82958	dual
+82966	pl
+82973	sg
+82979	pl
+82986	pl
+82990	sg
+83015	sg
+sg
+83020	sg
+83025	pl
+83034	sg
+83054	pl
+83056	sg
+83059	dual
+83062	sg
+83064	sg
+83071	sg
+83076	sg
+sg
+sg
+83081	dual
+83083	sg
+83090	sg
+83098	sg
+83101	sg
+sg
+83110	sg
+83112	sg
+83114	sg
+sg
+83122	sg
+83140	sg
+83147	sg
+83151	pl
+83155	sg
+83157	sg
+83159	sg
+83161	sg
+sg
+83164	dual
+83168	dual
+83170	sg
+83183	pl
+83199	sg
+83211	sg
+83215	sg
+83221	sg
+83225	sg
+83231	sg
+83233	pl
+83235	sg
+83244	pl
+dual
+83253	sg
+83272	pl
+83274	sg
+83277	pl
+83287	sg
+sg
+83300	pl
+83307	sg
+83309	sg
+83312	sg
+83314	sg
+83321	sg
+83326	sg
+83332	sg
+83344	sg
+sg
+83347	sg
+83349	sg
+83356	pl
+83364	sg
+sg
+83374	dual
+83383	pl
+sg
+83392	sg
+83400	sg
+83403	sg
+83407	sg
+83418	sg
+83421	sg
+83426	sg
+83429	sg
+83434	sg
+83448	sg
+83450	sg
+83452	sg
+83456	dual
+83464	pl
+83466	sg
+83469	sg
+83475	sg
+pl
+83482	sg
+83485	sg
+pl
+83492	sg
+83494	pl
+83498	sg
+83503	sg
+sg
+83506	pl
+83508	pl
+83511	sg
+83516	sg
+83522	sg
+83524	sg
+83536	sg
+83538	sg
+83543	sg
+83548	sg
+83551	sg
+83556	sg
+83558	sg
+83560	dual
+83564	sg
+83571	sg
+83573	sg
+pl
+83576	sg
+83578	sg
+83582	sg
+83584	sg
+83593	sg
+83596	sg
+dual
+83600	sg
+sg
+83606	pl
+sg
+83609	pl
+83619	pl
+83623	sg
+83627	sg
+dual
+83633	pl
+pl
+83640	sg
+83643	pl
+83646	dual
+83655	pl
+83657	dual
+83661	sg
+83665	sg
+83669	sg
+83678	sg
+83682	sg
+83688	sg
+sg
+83692	sg
+83697	sg
+83703	sg
+83705	pl
+sg
+83711	sg
+83713	sg
+83716	dual
+83724	sg
+sg
+83727	sg
+83732	sg
+83740	pl
+83745	sg
+83752	sg
+sg
+sg
+83761	sg
+83764	sg
+83767	sg
+83777	sg
+83784	pl
+83793	pl
+83799	dual
+83804	sg
+sg
+83807	sg
+pl
+83812	sg
+sg
+83819	dual
+83823	sg
+dual
+83827	sg
+83855	pl
+83858	pl
+83860	sg
+pl
+sg
+83865	dual
+dual
+83871	sg
+83873	dual
+sg
+83876	sg
+83880	sg
+83882	sg
+83891	sg
+83894	dual
+83905	sg
+83909	sg
+83913	sg
+83916	pl
+83921	pl
+83938	pl
+83944	dual
+83951	dual
+83957	sg
+83963	sg
+83972	sg
+83975	sg
+sg
+83979	sg
+83981	sg
+83985	sg
+sg
+83989	sg
+83993	dual
+83997	sg
+84002	sg
+sg
+84006	sg
+84013	dual
+84016	dual
+84019	sg
+dual
+84037	sg
+84045	sg
+sg
+84060	sg
+84072	sg
+84077	sg
+84082	dual
+sg
+84085	sg
+84088	sg
+84090	sg
+84093	sg
+84098	sg
+sg
+84106	sg
+84118	sg
+sg
+84126	sg
+84130	sg
+sg
+84133	sg
+84143	sg
+84146	sg
+84149	dual
+84151	sg
+84156	sg
+84159	dual
+84161	sg
+84167	sg
+84169	sg
+84173	sg
+84183	sg
+sg
+sg
+84189	dual
+dual
+84193	dual
+84198	pl
+84226	sg
+84230	pl
+84232	sg
+84235	dual
+84240	sg
+84244	pl
+84258	dual
+84264	pl
+84267	sg
+84269	sg
+84272	sg
+84279	sg
+84289	sg
+84294	pl
+84300	sg
+84305	sg
+84324	sg
+84326	pl
+84328	dual
+84338	sg
+84346	sg
+84349	sg
+dual
+84353	sg
+sg
+84368	sg
+84370	sg
+84376	dual
+84388	dual
+84394	sg
+84399	dual
+84407	sg
+84409	sg
+84420	sg
+84424	sg
+84436	dual
+sg
+84442	sg
+dual
+84462	sg
+84470	sg
+sg
+84476	dual
+84481	pl
+dual
+84487	sg
+84497	sg
+84499	sg
+sg
+84506	sg
+84511	sg
+84515	dual
+sg
+84525	sg
+84536	sg
+84549	sg
+84554	sg
+84559	sg
+84563	sg
+84571	sg
+84587	sg
+84595	sg
+84601	pl
+84608	sg
+84614	sg
+84621	sg
+84628	sg
+84638	sg
+84648	sg
+84656	sg
+84660	sg
+84662	sg
+84674	sg
+84678	dual
+84693	sg
+dual
+84697	sg
+84699	sg
+84713	sg
+84715	sg
+84722	pl
+84729	sg
+84744	sg
+84754	sg
+84766	sg
+84770	sg
+84773	dual
+84784	sg
+84798	sg
+84814	sg
+84816	sg
+84818	sg
+84823	sg
+84827	sg
+sg
+84833	sg
+84849	sg
+84860	sg
+84863	sg
+84874	sg
+sg
+84877	sg
+84880	dual
+dual
+84883	sg
+84886	dual
+84888	pl
+sg
+84898	sg
+dual
+84901	sg
+sg
+84904	sg
+84913	sg
+84918	sg
+84921	pl
+84925	sg
+84927	sg
+84931	sg
+84933	pl
+84955	sg
+84958	sg
+84960	sg
+84965	sg
+dual
+84971	pl
+84976	sg
+sg
+84987	sg
+84993	sg
+84997	sg
+84999	sg
+85003	sg
+sg
+sg
+85012	sg
+85015	sg
+85031	sg
+sg
+85039	dual
+85041	sg
+85043	sg
+85051	sg
+85056	sg
+85062	dual
+85064	sg
+sg
+85067	sg
+85072	sg
+85074	pl
+85079	sg
+85081	pl
+sg
+85087	dual
+85094	sg
+85107	pl
+sg
+85111	pl
+85114	sg
+85118	sg
+85151	sg
+85157	sg
+85165	sg
+85174	sg
+85176	sg
+sg
+85195	sg
+85203	sg
+85205	sg
+85214	dual
+85219	sg
+85221	pl
+85231	sg
+pl
+dual
+85237	sg
+sg
+85244	sg
+85247	sg
+85254	sg
+85257	sg
+pl
+85262	dual
+85264	sg
+85267	sg
+85270	sg
+85274	dual
+85279	sg
+85281	sg
+85287	sg
+85290	sg
+85294	pl
+85302	pl
+85310	sg
+dual
+85313	sg
+85315	sg
+dual
+85318	sg
+85320	sg
+sg
+85331	sg
+85344	pl
+85348	sg
+sg
+85351	sg
+85359	dual
+85362	sg
+85370	sg
+dual
+85373	sg
+85383	sg
+85385	sg
+85390	sg
+85392	sg
+85402	sg
+85414	sg
+85424	sg
+85439	sg
+85455	sg
+sg
+85465	sg
+85480	pl
+85486	sg
+85490	sg
+85493	pl
+dual
+85501	sg
+85508	sg
+85511	dual
+85518	pl
+85522	sg
+85528	sg
+85539	sg
+85545	pl
+85548	pl
+85550	sg
+sg
+85553	sg
+85556	pl
+85559	sg
+85563	sg
+85571	sg
+85577	sg
+sg
+85591	sg
+sg
+dual
+85602	dual
+85605	sg
+85611	sg
+85617	dual
+85620	sg
+85623	sg
+85627	sg
+85631	sg
+85635	pl
+85643	pl
+85647	pl
+85663	sg
+85669	sg
+dual
+85672	sg
+85680	sg
+85687	sg
+sg
+85690	pl
+85695	sg
+85701	sg
+85705	sg
+85715	sg
+85732	sg
+sg
+85737	sg
+85742	pl
+85763	dual
+85767	sg
+sg
+85775	sg
+85787	dual
+85790	sg
+dual
+dual
+85799	sg
+sg
+85817	sg
+85830	pl
+85833	sg
+85838	sg
+85840	dual
+85845	sg
+85848	sg
+85852	sg
+85854	sg
+85859	pl
+dual
+85865	sg
+sg
+sg
+85871	pl
+85878	sg
+85884	pl
+85895	sg
+85898	sg
+85902	pl
+85905	dual
+85913	sg
+85922	sg
+85924	pl
+85930	sg
+85935	sg
+85937	pl
+85939	sg
+pl
+dual
+85943	sg
+85953	pl
+dual
+85957	pl
+85987	sg
+sg
+85994	sg
+86006	sg
+86008	dual
+86010	sg
+pl
+sg
+86016	sg
+86018	sg
+86029	sg
+86035	sg
+86041	sg
+86043	sg
+86050	sg
+86057	sg
+86062	sg
+86066	sg
+pl
+86074	sg
+86077	sg
+86079	sg
+86082	sg
+86088	sg
+86101	sg
+86131	sg
+86136	dual
+86138	sg
+86140	sg
+sg
+86148	sg
+86151	sg
+86184	sg
+86193	dual
+86222	pl
+86226	sg
+pl
+sg
+86231	sg
+86234	sg
+86236	dual
+86240	sg
+86244	dual
+86266	dual
+sg
+sg
+86273	sg
+86278	sg
+sg
+86294	sg
+86299	sg
+sg
+86302	pl
+sg
+86307	sg
+86309	sg
+86314	sg
+86318	pl
+86323	dual
+86329	dual
+86331	sg
+86340	sg
+sg
+86343	pl
+86347	sg
+sg
+86350	sg
+86352	dual
+sg
+86356	dual
+86362	pl
+sg
+86366	sg
+86373	sg
+86375	sg
+86378	sg
+pl
+86382	sg
+86386	sg
+86394	sg
+86397	sg
+86399	sg
+86404	pl
+86406	sg
+86408	sg
+86421	sg
+86424	sg
+86428	sg
+sg
+86436	sg
+86439	sg
+86449	dual
+dual
+86454	sg
+86458	sg
+86460	sg
+sg
+86470	sg
+86472	sg
+86482	sg
+dual
+86485	pl
+86496	pl
+86499	sg
+86501	sg
+86503	sg
+86505	sg
+86507	sg
+pl
+86511	sg
+86523	sg
+86540	sg
+86543	sg
+86556	sg
+86560	sg
+86577	sg
+86583	sg
+86585	pl
+sg
+86595	sg
+86597	sg
+86606	sg
+86609	sg
+pl
+86614	pl
+86616	sg
+86618	sg
+sg
+86630	sg
+86635	sg
+86637	sg
+86641	sg
+86647	sg
+86668	sg
+86672	sg
+86675	sg
+86679	sg
+sg
+86683	sg
+86685	sg
+86694	dual
+86696	pl
+sg
+86699	sg
+86701	sg
+sg
+86719	pl
+86721	sg
+86726	sg
+86728	sg
+sg
+86732	sg
+86734	sg
+86752	sg
+pl
+86756	pl
+86760	sg
+86765	pl
+dual
+86769	sg
+86796	sg
+86800	sg
+86802	sg
+86808	sg
+sg
+pl
+sg
+86831	sg
+86833	sg
+86843	sg
+86852	sg
+86861	sg
+86875	sg
+86884	sg
+86891	sg
+86894	sg
+86903	sg
+86907	sg
+86923	sg
+86928	dual
+86935	sg
+sg
+dual
+86942	sg
+86962	sg
+86972	sg
+86977	pl
+86981	sg
+86985	sg
+86988	sg
+sg
+87002	sg
+87019	pl
+87027	sg
+sg
+87031	sg
+87033	sg
+87036	sg
+87045	sg
+87048	sg
+sg
+87052	dual
+87056	sg
+87064	sg
+87070	sg
+87075	sg
+87082	sg
+87086	sg
+sg
+87110	sg
+87121	sg
+sg
+87126	sg
+87134	sg
+sg
+87139	sg
+pl
+sg
+87148	sg
+87152	sg
+87159	sg
+87161	sg
+87165	sg
+87169	sg
+87174	dual
+87176	sg
+sg
+87181	sg
+87186	sg
+87195	sg
+sg
+87213	sg
+87222	sg
+sg
+87231	sg
+87236	sg
+87248	sg
+87251	sg
+sg
+87260	sg
+87262	sg
+87265	pl
+87281	dual
+87297	sg
+87301	dual
+87318	sg
+87321	sg
+87326	sg
+87339	sg
+sg
+87346	sg
+87349	sg
+87351	sg
+87356	sg
+87366	sg
+87376	sg
+87383	sg
+87390	sg
+87409	sg
+87414	sg
+sg
+87417	sg
+sg
+87423	sg
+87427	sg
+sg
+87433	sg
+87435	sg
+87437	sg
+87439	sg
+87441	sg
+87448	sg
+87452	sg
+sg
+87463	sg
+87468	sg
+sg
+87475	sg
+sg
+87481	sg
+87483	sg
+87485	sg
+87488	sg
+87493	sg
+87495	sg
+87498	dual
+87517	sg
+87520	sg
+87532	sg
+87537	sg
+87555	sg
+87557	pl
+87561	sg
+sg
+87575	sg
+sg
+87581	sg
+87590	dual
+87592	sg
+sg
+sg
+87599	sg
+sg
+87608	sg
+dual
+sg
+87613	dual
+87616	sg
+sg
+87624	sg
+87626	sg
+87634	sg
+87638	sg
+87640	sg
+87646	sg
+87651	pl
+87656	sg
+87659	pl
+sg
+87668	pl
+sg
+87701	pl
+87705	sg
+87707	dual
+87715	sg
+87718	sg
+87720	dual
+sg
+sg
+87724	sg
+87730	sg
+87732	sg
+87734	sg
+87741	sg
+87757	sg
+87760	sg
+87766	dual
+87775	sg
+87782	sg
+87784	sg
+87805	pl
+87808	pl
+87811	sg
+87816	sg
+87819	sg
+87822	sg
+87825	sg
+sg
+87829	sg
+87839	dual
+87842	sg
+87850	sg
+87858	sg
+87862	sg
+87880	pl
+87882	sg
+87899	sg
+87902	sg
+87904	sg
+87908	sg
+87911	sg
+87913	sg
+87918	sg
+87922	sg
+sg
+87927	sg
+87932	sg
+87935	sg
+87937	sg
+87939	sg
+87941	sg
+87943	sg
+87959	sg
+87962	sg
+87964	sg
+sg
+87967	sg
+87973	sg
+87977	sg
+87984	pl
+87986	sg
+87995	sg
+sg
+87998	sg
+88005	sg
+88009	sg
+88016	sg
+88026	sg
+sg
+88031	dual
+88037	sg
+88041	sg
+88051	sg
+88061	pl
+88064	sg
+88069	sg
+88074	sg
+sg
+88112	sg
+88114	sg
+88117	sg
+88126	sg
+88136	sg
+88143	sg
+88145	dual
+88150	dual
+88156	sg
+88177	sg
+88189	sg
+88194	sg
+88202	sg
+88205	dual
+88211	sg
+88216	sg
+sg
+88237	sg
+88239	dual
+88243	sg
+sg
+88247	sg
+sg
+88252	dual
+88256	sg
+88258	dual
+88261	sg
+pl
+88277	sg
+pl
+88280	sg
+88283	sg
+88289	pl
+88291	sg
+88297	pl
+sg
+88300	dual
+88310	pl
+88315	sg
+88317	sg
+88319	sg
+88337	dual
+88344	sg
+88347	sg
+88368	pl
+sg
+88381	sg
+88393	sg
+88395	sg
+88403	sg
+88407	sg
+88411	sg
+88417	sg
+88421	sg
+88432	sg
+88438	sg
+88446	sg
+88451	pl
+88454	pl
+88457	pl
+88466	sg
+88470	dual
+88473	sg
+88475	sg
+88485	sg
+88488	sg
+pl
+88492	sg
+sg
+88505	sg
+sg
+88509	sg
+88512	sg
+88515	sg
+sg
+sg
+sg
+sg
+pl
+88523	sg
+88526	sg
+88532	sg
+88535	pl
+88541	sg
+88544	sg
+sg
+sg
+88552	sg
+sg
+88560	sg
+sg
+88564	sg
+88569	sg
+88576	sg
+88579	sg
+sg
+88582	sg
+88588	sg
+88597	sg
+88605	sg
+88608	sg
+88610	pl
+88614	sg
+88618	sg
+sg
+88622	sg
+88626	pl
+88630	sg
+88633	sg
+sg
+88639	sg
+sg
+88650	dual
+88652	sg
+sg
+88655	dual
+88658	dual
+88663	pl
+88666	sg
+88668	sg
+88672	sg
+88675	sg
+88678	sg
+88680	sg
+88693	sg
+88695	sg
+88698	pl
+sg
+88703	sg
+88706	sg
+88720	sg
+88733	sg
+88735	sg
+sg
+88740	sg
+88742	sg
+88750	sg
+sg
+88761	sg
+88766	sg
+88777	sg
+88779	pl
+88781	dual
+88784	sg
+88787	dual
+88793	pl
+88808	sg
+88811	sg
+88813	sg
+88817	pl
+88819	pl
+sg
+sg
+88824	pl
+88829	sg
+sg
+88839	sg
+88846	pl
+88854	pl
+88866	pl
+88871	sg
+88877	sg
+88880	sg
+88886	sg
+pl
+88889	pl
+88892	sg
+sg
+pl
+88899	sg
+88904	pl
+sg
+sg
+88910	sg
+88912	sg
+88920	sg
+88924	sg
+88929	sg
+88931	sg
+88936	sg
+88939	pl
+88941	sg
+pl
+sg
+88947	sg
+88949	sg
+88952	pl
+sg
+88957	sg
+88959	sg
+88968	sg
+88971	sg
+88975	sg
+88978	sg
+88983	sg
+88986	sg
+88993	sg
+88996	sg
+88998	sg
+sg
+89001	sg
+sg
+89006	sg
+dual
+sg
+89014	sg
+89018	sg
+89025	sg
+89037	sg
+89041	sg
+89045	sg
+89048	sg
+89053	sg
+89056	sg
+sg
+89059	dual
+89063	sg
+89067	sg
+sg
+89072	sg
+89074	sg
+89089	dual
+89091	sg
+89094	pl
+sg
+89120	dual
+89125	dual
+89127	sg
+89129	sg
+89134	sg
+89138	sg
+89142	sg
+89147	dual
+89149	pl
+sg
+89163	sg
+89168	pl
+89172	pl
+89174	sg
+89178	pl
+89186	sg
+sg
+89199	pl
+89204	sg
+89206	dual
+89209	sg
+89216	sg
+89218	sg
+89220	sg
+89232	sg
+89235	sg
+89240	pl
+89246	sg
+89252	dual
+89256	dual
+89260	sg
+89273	pl
+89280	sg
+89289	sg
+89293	sg
+sg
+89296	sg
+89305	sg
+sg
+sg
+89309	sg
+sg
+89312	sg
+89315	sg
+89317	pl
+sg
+sg
+89326	dual
+89331	pl
+89333	sg
+89336	pl
+89338	sg
+sg
+89345	sg
+sg
+89349	sg
+89358	pl
+89360	dual
+89363	sg
+89368	sg
+sg
+89373	sg
+89402	sg
+89425	sg
+89439	pl
+89445	dual
+89453	sg
+sg
+89459	sg
+89461	sg
+dual
+89466	sg
+89468	sg
+89480	sg
+89487	dual
+89490	sg
+89493	sg
+89501	sg
+sg
+89510	sg
+89528	sg
+89530	sg
+89544	dual
+sg
+89555	pl
+89558	pl
+89562	dual
+89572	sg
+89579	sg
+89585	sg
+sg
+89590	sg
+89592	pl
+89603	sg
+89605	sg
+89608	sg
+89612	sg
+89614	sg
+89619	sg
+89621	dual
+89623	pl
+89625	sg
+89629	sg
+89636	sg
+89639	sg
+89645	dual
+89647	pl
+89666	sg
+pl
+sg
+89677	sg
+89679	sg
+89683	dual
+89685	sg
+sg
+89688	sg
+89690	dual
+89692	sg
+89701	sg
+89704	sg
+89715	sg
+89718	sg
+89730	dual
+89732	sg
+89734	pl
+89743	sg
+89746	pl
+89750	sg
+89754	sg
+89760	pl
+89762	sg
+pl
+89765	sg
+89767	pl
+89773	sg
+89782	sg
+89807	dual
+sg
+89812	sg
+89820	sg
+89824	dual
+89830	pl
+sg
+sg
+89838	sg
+89845	pl
+89852	sg
+89856	pl
+89859	sg
+89866	dual
+89869	sg
+89873	sg
+sg
+89880	dual
+89896	dual
+89906	sg
+89914	sg
+89918	dual
+89923	sg
+89929	sg
+89935	sg
+89950	pl
+89972	sg
+89975	sg
+sg
+89985	dual
+89987	pl
+89995	pl
+89998	sg
+90002	sg
+sg
+90007	sg
+90012	dual
+90017	pl
+90019	sg
+90026	sg
+90030	pl
+90038	sg
+90043	sg
+90051	sg
+90059	sg
+90063	sg
+sg
+90077	pl
+90080	sg
+pl
+90092	sg
+90100	sg
+90102	sg
+90121	sg
+90127	sg
+90131	sg
+90137	dual
+90139	sg
+90142	sg
+90145	sg
+sg
+90149	sg
+90151	dual
+90157	dual
+90159	sg
+90162	sg
+sg
+90168	sg
+90172	sg
+90174	dual
+90176	sg
+90182	sg
+90184	sg
+90202	sg
+sg
+90205	sg
+90211	sg
+90213	pl
+90217	sg
+90219	sg
+90221	sg
+90223	sg
+dual
+90234	sg
+90237	pl
+90251	sg
+sg
+90255	sg
+90257	sg
+90260	pl
+90272	sg
+sg
+90275	sg
+90278	sg
+90280	pl
+90285	pl
+90287	sg
+sg
+90290	sg
+90297	sg
+90300	sg
+90303	sg
+90305	sg
+sg
+sg
+90311	dual
+90315	sg
+sg
+90318	sg
+90322	pl
+90328	pl
+90336	sg
+90351	sg
+90355	pl
+90357	sg
+90363	sg
+90370	dual
+90376	sg
+90386	sg
+90391	dual
+90396	sg
+90400	sg
+90404	sg
+90406	sg
+90415	dual
+90419	sg
+90421	pl
+90430	sg
+90435	sg
+90442	sg
+90448	sg
+90457	pl
+90459	sg
+90463	sg
+90467	sg
+90472	sg
+sg
+90497	sg
+90502	dual
+90506	sg
+90510	dual
+90530	sg
+sg
+90546	sg
+sg
+90550	sg
+90554	sg
+90556	sg
+90565	sg
+90578	sg
+90580	sg
+90587	sg
+dual
+dual
+90596	sg
+90600	dual
+sg
+90608	sg
+dual
+90612	dual
+90617	dual
+90622	dual
+90626	dual
+90628	sg
+90632	sg
+90634	pl
+90636	sg
+90648	pl
+90650	sg
+90663	sg
+90665	sg
+90674	sg
+90678	pl
+90680	sg
+90682	sg
+90685	sg
+90689	pl
+sg
+90693	sg
+90696	sg
+sg
+90722	sg
+90725	sg
+90741	sg
+pl
+90747	sg
+90761	pl
+sg
+90764	sg
+90771	sg
+90777	sg
+sg
+sg
+90788	sg
+90794	sg
+90796	sg
+90798	sg
+90801	dual
+90812	sg
+90820	pl
+90822	pl
+90827	dual
+90834	sg
+90836	dual
+90839	sg
+90844	dual
+90846	sg
+sg
+90852	sg
+90858	dual
+90860	sg
+90863	sg
+90868	sg
+90877	sg
+90883	sg
+90886	dual
+90889	sg
+sg
+pl
+dual
+90900	sg
+90913	dual
+90917	sg
+90924	sg
+90932	sg
+90943	sg
+sg
+90946	sg
+90950	sg
+sg
+90953	sg
+90958	pl
+90988	pl
+90998	pl
+91001	sg
+91010	dual
+91012	sg
+91017	sg
+91022	sg
+91030	sg
+91034	sg
+91036	sg
+91048	sg
+91058	sg
+91064	pl
+91069	pl
+91071	sg
+91075	sg
+sg
+sg
+sg
+91084	sg
+91095	sg
+91100	sg
+91105	sg
+91107	pl
+91109	sg
+91114	sg
+91117	sg
+91123	sg
+sg
+91131	sg
+91135	sg
+sg
+91150	sg
+91155	sg
+91172	dual
+91175	pl
+91178	sg
+91184	sg
+91186	pl
+sg
+91193	sg
+91203	sg
+91214	sg
+91218	pl
+91235	pl
+91251	sg
+91256	sg
+91259	sg
+91272	sg
+91289	sg
+91292	sg
+91294	sg
+91299	sg
+91302	sg
+sg
+91314	sg
+91316	sg
+91322	sg
+91326	pl
+91330	sg
+91334	sg
+91344	sg
+91349	sg
+91351	pl
+pl
+91356	sg
+91359	sg
+dual
+dual
+91363	sg
+91365	sg
+91369	sg
+91378	sg
+91383	sg
+91386	sg
+91391	pl
+91396	sg
+91411	sg
+91414	pl
+91418	sg
+91433	sg
+91436	sg
+91442	pl
+91444	sg
+91448	sg
+91465	sg
+dual
+sg
+91474	sg
+91477	sg
+91479	sg
+91482	sg
+91488	pl
+91498	pl
+91508	pl
+91516	pl
+91521	sg
+91529	sg
+91533	pl
+91544	dual
+91550	sg
+91553	sg
+91556	pl
+91559	sg
+pl
+91566	dual
+91568	sg
+91570	sg
+91573	sg
+91575	sg
+91584	sg
+sg
+91595	sg
+91601	sg
+91603	sg
+sg
+91612	sg
+91620	dual
+91622	sg
+91635	sg
+91642	pl
+91654	pl
+91669	sg
+91675	sg
+91682	sg
+91689	sg
+91693	sg
+91698	sg
+91704	sg
+91710	sg
+sg
+91718	sg
+91728	pl
+91730	sg
+91732	sg
+91737	pl
+91739	sg
+91741	sg
+91744	sg
+91751	pl
+91760	sg
+91780	pl
+91782	pl
+91803	dual
+91813	pl
+91816	sg
+91840	sg
+91846	pl
+91849	sg
+91852	sg
+pl
+91855	sg
+91859	sg
+91863	sg
+91875	sg
+91878	pl
+91880	sg
+91884	pl
+91886	sg
+91888	pl
+91892	sg
+91897	pl
+91907	sg
+pl
+91913	sg
+91915	pl
+91918	pl
+sg
+91924	pl
+91930	sg
+91935	sg
+91943	sg
+91949	pl
+91956	dual
+91960	pl
+dual
+91965	pl
+sg
+91968	pl
+91970	pl
+91976	pl
+91979	sg
+pl
+91982	pl
+91984	pl
+91992	sg
+92000	sg
+92005	pl
+sg
+pl
+92010	sg
+92012	sg
+92014	sg
+92016	sg
+92022	sg
+92024	sg
+92030	sg
+sg
+92048	dual
+92064	sg
+92071	sg
+92073	sg
+92076	sg
+92084	sg
+sg
+92087	sg
+92089	dual
+92094	pl
+92096	dual
+92100	sg
+92102	sg
+92104	dual
+92107	sg
+sg
+92115	pl
+92127	sg
+92129	sg
+sg
+92136	sg
+92146	sg
+sg
+92156	sg
+92158	pl
+92163	pl
+92171	pl
+92178	sg
+92185	sg
+92187	sg
+92189	sg
+92198	sg
+92203	dual
+92215	pl
+sg
+92225	pl
+92235	sg
+92238	sg
+sg
+92242	pl
+92248	sg
+92251	sg
+sg
+92256	pl
+92258	sg
+sg
+92262	sg
+92281	dual
+92283	pl
+92287	sg
+92292	sg
+92301	sg
+92303	pl
+sg
+92307	sg
+92314	sg
+92321	sg
+92323	sg
+92326	sg
+sg
+92344	sg
+92346	sg
+92352	sg
+92363	sg
+92370	sg
+92374	sg
+92379	sg
+dual
+92383	sg
+92393	sg
+sg
+dual
+92398	sg
+92405	sg
+92424	dual
+92426	dual
+92433	sg
+92435	sg
+92453	sg
+92462	sg
+92464	sg
+92470	sg
+92474	sg
+92480	sg
+92493	pl
+92507	sg
+92515	sg
+92518	sg
+92523	sg
+92531	sg
+sg
+92534	sg
+92544	sg
+92548	sg
+92550	pl
+92556	sg
+sg
+92561	sg
+92571	pl
+92576	sg
+sg
+sg
+92580	sg
+92587	sg
+92593	sg
+92595	dual
+92600	sg
+92608	sg
+92614	sg
+92616	sg
+92623	sg
+92633	pl
+sg
+92652	sg
+92660	sg
+92666	sg
+92672	sg
+92678	sg
+pl
+92684	pl
+sg
+92699	sg
+dual
+92702	sg
+92704	sg
+92706	sg
+92710	sg
+dual
+92715	sg
+92728	sg
+dual
+92731	sg
+92734	sg
+92744	sg
+dual
+92749	sg
+92759	sg
+92763	pl
+sg
+sg
+92768	sg
+92772	sg
+92774	sg
+92780	sg
+92783	sg
+92788	sg
+92801	sg
+92805	sg
+92807	sg
+92809	sg
+92812	sg
+92819	sg
+sg
+92824	sg
+pl
+sg
+92833	sg
+pl
+sg
+92841	sg
+92847	sg
+92851	sg
+92856	pl
+92863	sg
+dual
+92867	sg
+92874	sg
+92876	sg
+92878	sg
+92884	pl
+92891	sg
+92894	sg
+sg
+92898	sg
+92904	sg
+92906	sg
+92909	sg
+92911	sg
+92922	pl
+92932	sg
+92952	sg
+92955	pl
+92962	dual
+92966	sg
+92970	sg
+92975	dual
+92987	sg
+92990	sg
+pl
+93002	sg
+93007	sg
+93009	sg
+93013	sg
+93018	sg
+93020	pl
+93026	sg
+93033	sg
+93036	sg
+93043	sg
+93048	sg
+93051	sg
+93053	dual
+93059	sg
+93062	sg
+sg
+93073	sg
+93082	sg
+sg
+pl
+93086	sg
+93094	dual
+93096	sg
+93104	sg
+93114	sg
+sg
+93124	sg
+sg
+pl
+93130	sg
+93132	pl
+93143	sg
+93149	pl
+93155	sg
+93162	sg
+93168	sg
+93172	sg
+93175	sg
+93185	sg
+93190	sg
+93192	sg
+93218	sg
+93225	sg
+93233	pl
+93235	pl
+93238	pl
+sg
+93244	sg
+93246	sg
+93248	sg
+93252	sg
+93256	sg
+sg
+93260	sg
+93265	sg
+93267	pl
+dual
+93270	pl
+93272	sg
+93275	dual
+93278	sg
+sg
+93282	sg
+93291	sg
+93293	sg
+93298	pl
+93304	sg
+93306	pl
+93308	sg
+dual
+pl
+93312	dual
+93315	sg
+93317	sg
+93327	sg
+93331	sg
+93351	sg
+sg
+93362	sg
+sg
+93378	sg
+93381	sg
+93387	sg
+sg
+93390	pl
+93404	sg
+sg
+93410	sg
+93426	sg
+93435	sg
+93451	sg
+93453	sg
+93459	sg
+93462	sg
+93470	sg
+93473	sg
+sg
+93482	sg
+93485	sg
+dual
+93488	sg
+93494	pl
+93496	sg
+93511	pl
+93534	pl
+93541	sg
+93547	dual
+93550	pl
+93562	sg
+93564	sg
+93572	dual
+93578	sg
+93601	sg
+93608	sg
+93612	sg
+93631	sg
+sg
+93634	sg
+93638	sg
+sg
+sg
+93648	sg
+93664	sg
+93668	pl
+93670	pl
+93676	sg
+93678	sg
+93680	pl
+93689	sg
+93706	sg
+sg
+93709	dual
+sg
+93713	sg
+93716	sg
+93725	sg
+93734	sg
+93740	sg
+sg
+93747	pl
+93760	sg
+93777	sg
+93787	sg
+93794	sg
+93797	sg
+93803	sg
+93809	sg
+93811	sg
+93814	sg
+93833	dual
+pl
+sg
+93839	pl
+93846	pl
+93851	sg
+93855	pl
+93859	sg
+93863	pl
+93865	pl
+93867	sg
+93883	sg
+93888	sg
+93892	sg
+93896	sg
+93900	dual
+93904	sg
+93914	sg
+93917	sg
+93924	pl
+93928	dual
+93931	sg
+93934	pl
+sg
+93950	sg
+93954	sg
+93962	pl
+93966	sg
+93968	sg
+93971	sg
+93977	dual
+93985	pl
+93987	sg
+sg
+sg
+pl
+93999	sg
+94001	sg
+94003	sg
+94006	dual
+94008	dual
+94012	sg
+94018	sg
+94022	sg
+sg
+sg
+94034	pl
+94058	sg
+94068	sg
+sg
+94073	sg
+94078	dual
+94082	sg
+94094	sg
+94101	sg
+94103	sg
+94114	sg
+94118	sg
+94120	sg
+sg
+94126	sg
+94135	sg
+94144	dual
+94147	sg
+94149	dual
+94151	sg
+dual
+94154	sg
+94157	sg
+94162	dual
+94175	sg
+94187	dual
+94190	dual
+94195	sg
+94197	pl
+94200	pl
+94216	sg
+sg
+dual
+94223	sg
+sg
+sg
+94230	sg
+94235	sg
+94238	sg
+94248	sg
+94250	sg
+94255	sg
+94258	sg
+94261	sg
+sg
+94266	sg
+94272	sg
+94276	pl
+94282	sg
+94287	pl
+94291	sg
+sg
+sg
+94296	pl
+94311	pl
+94320	pl
+94323	sg
+94329	sg
+94336	sg
+94338	sg
+pl
+94341	pl
+94346	sg
+pl
+sg
+94353	sg
+94359	sg
+94363	pl
+94366	sg
+94371	sg
+94379	sg
+94389	pl
+sg
+94401	pl
+94414	pl
+94416	sg
+pl
+sg
+94424	sg
+94432	pl
+94436	sg
+pl
+94448	sg
+94452	sg
+pl
+94462	sg
+94471	sg
+94482	sg
+94487	sg
+94492	dual
+94495	pl
+94497	sg
+94502	sg
+sg
+94514	sg
+94521	pl
+94526	sg
+94533	pl
+94539	sg
+94542	dual
+94544	sg
+94548	sg
+94558	pl
+94564	dual
+94566	dual
+94574	pl
+94579	sg
+sg
+sg
+94586	sg
+94588	sg
+94590	sg
+94605	sg
+94610	sg
+94620	pl
+dual
+94634	pl
+94638	dual
+94644	sg
+94658	sg
+94666	sg
+94670	sg
+94673	sg
+94675	sg
+sg
+94679	pl
+sg
+94683	pl
+94687	sg
+94694	sg
+sg
+94708	sg
+94711	dual
+94731	sg
+94740	sg
+94742	sg
+94756	sg
+94758	sg
+sg
+94772	pl
+94780	sg
+sg
+94794	pl
+94801	sg
+sg
+94809	sg
+sg
+94820	dual
+94830	sg
+94832	sg
+dual
+94849	sg
+94857	sg
+94859	sg
+94869	sg
+sg
+94873	dual
+sg
+94880	dual
+94883	dual
+pl
+94890	sg
+94894	dual
+94896	sg
+94899	sg
+dual
+94903	sg
+94906	sg
+sg
+94917	sg
+94925	sg
+94930	pl
+dual
+94940	dual
+94947	dual
+94953	sg
+94958	sg
+94966	sg
+sg
+94979	sg
+94981	pl
+94987	sg
+95005	pl
+95008	dual
+95010	dual
+95012	sg
+95017	pl
+95019	sg
+95024	sg
+95027	sg
+sg
+95031	sg
+95034	pl
+95037	sg
+95039	sg
+sg
+95044	dual
+95048	sg
+95052	sg
+sg
+sg
+95058	sg
+95060	sg
+95063	sg
+95067	sg
+sg
+95070	dual
+95074	sg
+sg
+95081	sg
+95084	sg
+95088	sg
+sg
+95092	sg
+95094	sg
+95096	sg
+95102	sg
+95104	sg
+dual
+95108	sg
+95121	pl
+95123	sg
+95129	sg
+95131	sg
+95139	sg
+95151	pl
+95156	pl
+95177	dual
+95204	sg
+95207	sg
+dual
+sg
+95215	sg
+95218	sg
+95221	dual
+95229	sg
+95233	sg
+sg
+95241	sg
+95247	sg
+95254	sg
+95257	sg
+95261	sg
+sg
+95279	sg
+95282	sg
+95284	sg
+95287	sg
+95289	sg
+95293	sg
+95298	sg
+95301	sg
+sg
+95304	pl
+sg
+95308	sg
+95311	sg
+95318	dual
+95326	sg
+95341	sg
+95347	sg
+sg
+95353	dual
+95356	sg
+95360	pl
+95365	sg
+95367	sg
+95371	sg
+95381	sg
+95395	sg
+95397	sg
+95402	dual
+sg
+95405	sg
+95410	sg
+pl
+95416	sg
+95420	sg
+sg
+95445	sg
+sg
+95449	sg
+95453	sg
+dual
+sg
+95459	sg
+95465	sg
+95467	sg
+95470	sg
+95474	sg
+95480	pl
+95487	dual
+95494	sg
+sg
+95497	sg
+95502	sg
+95508	sg
+95516	sg
+95520	sg
+95527	sg
+95540	sg
+95549	sg
+sg
+95553	sg
+sg
+95560	sg
+95569	sg
+95572	sg
+95576	sg
+sg
+95587	sg
+95591	pl
+95594	sg
+95610	dual
+dual
+95613	sg
+95615	sg
+95622	sg
+95631	pl
+95641	sg
+95643	sg
+95645	sg
+pl
+sg
+95649	sg
+95657	sg
+95665	sg
+95670	sg
+95677	sg
+95684	sg
+95691	sg
+sg
+95694	sg
+95696	sg
+95705	sg
+95716	sg
+95725	sg
+95729	pl
+95733	sg
+95745	sg
+95751	sg
+sg
+95761	sg
+95763	sg
+95769	sg
+95776	sg
+95779	sg
+95785	sg
+95791	dual
+sg
+pl
+95795	sg
+95798	sg
+95801	sg
+95824	pl
+95827	sg
+95830	pl
+95845	pl
+sg
+95849	sg
+95851	sg
+95855	pl
+95866	sg
+sg
+95870	pl
+95878	pl
+95880	sg
+95883	pl
+95893	sg
+95899	sg
+95901	pl
+pl
+95904	sg
+95914	dual
+95921	pl
+95938	sg
+95940	sg
+95943	sg
+95952	sg
+95957	sg
+95965	sg
+95969	sg
+95971	sg
+95982	sg
+95988	sg
+95991	pl
+95993	pl
+sg
+95997	sg
+96000	sg
+96003	sg
+96009	sg
+96018	sg
+96029	sg
+96034	sg
+96036	sg
+96038	sg
+96041	sg
+96044	sg
+96047	sg
+96049	sg
+96055	sg
+96060	pl
+96072	sg
+96077	sg
+96080	sg
+96096	sg
+96103	sg
+96107	sg
+96109	sg
+96133	sg
+96135	sg
+96138	sg
+96146	pl
+96152	sg
+sg
+96156	sg
+sg
+96160	sg
+96166	sg
+96188	sg
+96192	sg
+96198	dual
+96202	sg
+96204	dual
+96211	sg
+96215	dual
+96224	dual
+96226	pl
+sg
+96231	sg
+sg
+96234	sg
+96246	sg
+pl
+96249	pl
+96251	sg
+96257	sg
+96262	sg
+sg
+sg
+96274	sg
+sg
+96285	pl
+96287	sg
+dual
+96290	sg
+96292	pl
+96295	pl
+96298	sg
+sg
+96303	pl
+sg
+sg
+sg
+96310	sg
+sg
+96316	sg
+96319	sg
+96322	sg
+96327	sg
+96333	sg
+sg
+96337	sg
+96339	sg
+96343	sg
+96347	pl
+96356	pl
+96359	sg
+96364	sg
+sg
+96368	sg
+96372	sg
+96376	sg
+96378	sg
+96385	sg
+96390	sg
+sg
+96397	sg
+sg
+sg
+96401	sg
+sg
+96405	sg
+sg
+sg
+96413	sg
+96419	sg
+96428	pl
+96431	sg
+96444	sg
+96459	sg
+sg
+pl
+96465	sg
+96467	pl
+96470	sg
+96473	sg
+96489	sg
+96495	sg
+96503	sg
+96526	pl
+sg
+96530	sg
+96536	sg
+sg
+96539	pl
+sg
+96554	sg
+96556	sg
+96559	sg
+sg
+96566	sg
+96575	sg
+96588	sg
+96598	sg
+96601	sg
+96604	sg
+96609	sg
+96617	sg
+96619	pl
+96633	pl
+96636	dual
+96638	sg
+sg
+96641	sg
+96646	sg
+96654	sg
+96665	sg
+96669	pl
+96671	sg
+96695	sg
+96702	sg
+96708	sg
+96713	sg
+96718	sg
+96720	sg
+96722	sg
+96725	sg
+96728	sg
+96735	pl
+96737	pl
+96743	pl
+96747	sg
+96752	sg
+sg
+96766	pl
+96770	sg
+96772	sg
+sg
+96778	pl
+96787	sg
+96791	sg
+96804	sg
+96807	sg
+96812	sg
+96817	sg
+96830	dual
+96846	sg
+pl
+96854	sg
+pl
+96860	pl
+pl
+96865	sg
+96867	sg
+96871	pl
+96874	dual
+96879	pl
+96881	sg
+96890	pl
+96896	pl
+96903	sg
+dual
+96915	pl
+96930	sg
+96932	pl
+96936	sg
+96946	sg
+96949	sg
+96960	sg
+96966	sg
+96968	sg
+96976	sg
+96981	sg
+96991	sg
+96993	dual
+96995	sg
+97001	sg
+97003	sg
+97015	sg
+97017	pl
+97019	pl
+97023	sg
+97025	sg
+97027	sg
+97029	sg
+97036	sg
+sg
+97039	sg
+97050	sg
+97052	sg
+97054	sg
+sg
+sg
+97059	sg
+97063	sg
+sg
+dual
+97069	pl
+97073	sg
+97076	sg
+dual
+97080	sg
+sg
+sg
+97084	dual
+97086	sg
+sg
+97091	sg
+97102	pl
+97121	sg
+pl
+97145	sg
+97150	pl
+97159	sg
+97163	sg
+97170	sg
+97185	sg
+97189	sg
+sg
+sg
+97194	sg
+97201	pl
+97205	sg
+97207	sg
+97211	sg
+97213	sg
+sg
+97216	dual
+97220	sg
+97224	sg
+97228	sg
+97231	sg
+97238	sg
+97246	sg
+97257	sg
+97259	pl
+97262	dual
+97270	pl
+97276	sg
+97286	sg
+97289	pl
+97291	sg
+sg
+97294	sg
+97306	pl
+97311	sg
+pl
+97316	pl
+97324	sg
+97330	sg
+97336	dual
+97339	sg
+97344	sg
+97346	sg
+sg
+97359	sg
+97365	sg
+97370	sg
+97377	pl
+97379	sg
+97382	sg
+97389	sg
+97392	sg
+sg
+97400	sg
+97404	sg
+97410	sg
+97414	sg
+97416	sg
+97420	sg
+97422	pl
+sg
+sg
+97427	sg
+97432	sg
+97442	sg
+97447	sg
+97452	sg
+97458	sg
+97466	sg
+97476	sg
+97484	sg
+97488	sg
+97498	sg
+97503	sg
+97512	sg
+97515	sg
+97534	sg
+sg
+97537	pl
+dual
+97544	sg
+97546	sg
+97548	sg
+97550	sg
+97552	sg
+97554	sg
+97561	sg
+97566	sg
+97569	sg
+97573	sg
+97578	sg
+97580	sg
+97590	sg
+sg
+97595	sg
+97598	sg
+97600	sg
+sg
+97611	sg
+sg
+97619	pl
+sg
+97633	sg
+97643	dual
+97648	sg
+97651	sg
+97653	sg
+97655	sg
+97661	sg
+97676	sg
+97680	sg
+pl
+97689	sg
+97701	sg
+97706	sg
+97722	sg
+sg
+97730	sg
+97741	sg
+97747	sg
+97755	sg
+97757	sg
+97767	pl
+pl
+sg
+97779	sg
+97786	sg
+97797	sg
+dual
+97800	sg
+97804	sg
+97806	sg
+97821	dual
+97823	sg
+97826	sg
+97831	sg
+97841	sg
+97844	sg
+97848	sg
+97854	sg
+97863	sg
+sg
+97867	sg
+97869	sg
+97873	sg
+97876	sg
+97880	sg
+97884	sg
+97888	dual
+97890	sg
+97892	sg
+97900	sg
+97905	sg
+sg
+97909	sg
+97912	sg
+97915	sg
+97917	sg
+97920	sg
+97934	sg
+sg
+97938	sg
+dual
+sg
+97944	pl
+97946	sg
+97953	pl
+97967	sg
+97971	sg
+97976	sg
+97978	dual
+97985	pl
+97991	sg
+97995	sg
+98003	pl
+98017	sg
+sg
+98020	sg
+98026	sg
+98030	sg
+98034	sg
+pl
+98042	sg
+sg
+98048	pl
+98050	sg
+sg
+sg
+98055	sg
+98057	pl
+98066	pl
+sg
+98069	dual
+dual
+98082	sg
+sg
+98085	sg
+98087	pl
+98091	sg
+98094	pl
+98096	sg
+sg
+98103	sg
+sg
+98118	dual
+98121	sg
+sg
+98125	pl
+98131	sg
+98133	sg
+98136	sg
+98138	sg
+98143	sg
+sg
+98146	sg
+98149	sg
+98151	dual
+98159	sg
+98161	sg
+98167	sg
+98173	sg
+98175	sg
+98178	sg
+98189	sg
+98194	sg
+98198	sg
+98205	pl
+98208	pl
+98219	sg
+98235	sg
+98240	sg
+98242	sg
+98245	dual
+98258	sg
+98263	pl
+98269	pl
+98294	sg
+98297	sg
+98302	sg
+98304	pl
+dual
+98314	dual
+98316	sg
+98319	sg
+sg
+98322	sg
+98324	sg
+98327	pl
+98329	sg
+98332	sg
+sg
+98339	sg
+98341	pl
+98343	pl
+98352	sg
+98354	sg
+98356	sg
+98358	pl
+98360	pl
+sg
+dual
+98364	sg
+dual
+98368	dual
+98372	dual
+98376	sg
+pl
+98380	sg
+98383	sg
+98390	sg
+98394	sg
+98397	sg
+98405	sg
+98408	sg
+98416	sg
+98420	sg
+98424	sg
+98435	sg
+98437	sg
+98444	sg
+sg
+98451	pl
+98466	pl
+98469	sg
+dual
+98473	pl
+98475	dual
+98482	sg
+98487	sg
+98490	sg
+98504	sg
+98506	sg
+98511	sg
+98515	dual
+dual
+98520	dual
+98525	sg
+98531	sg
+98549	pl
+sg
+98553	pl
+98556	sg
+98558	pl
+98567	sg
+98574	pl
+98577	sg
+98579	sg
+sg
+sg
+98590	sg
+98598	sg
+98602	pl
+sg
+98616	pl
+98618	sg
+sg
+98623	sg
+sg
+sg
+98636	dual
+98639	sg
+98642	dual
+98647	sg
+98649	sg
+sg
+98652	dual
+sg
+98656	pl
+98660	sg
+98664	sg
+98668	sg
+98673	dual
+98679	pl
+98683	sg
+98685	sg
+98690	sg
+98693	sg
+pl
+98696	sg
+pl
+98705	sg
+98712	sg
+98718	pl
+98720	sg
+98725	sg
+98728	sg
+98733	sg
+98736	pl
+98739	sg
+sg
+98744	sg
+98746	sg
+98748	pl
+98752	sg
+98757	sg
+98764	sg
+sg
+98782	sg
+98790	sg
+98799	sg
+98803	pl
+98806	sg
+dual
+98813	sg
+98816	dual
+sg
+98819	pl
+dual
+98827	sg
+98835	sg
+pl
+98860	sg
+98866	sg
+sg
+98870	pl
+98872	pl
+pl
+98884	sg
+sg
+98908	sg
+98916	sg
+98921	sg
+98927	sg
+98931	sg
+98935	sg
+98939	sg
+98952	sg
+98955	pl
+sg
+sg
+98961	pl
+sg
+sg
+98967	pl
+sg
+98972	sg
+98974	sg
+98978	sg
+sg
+98995	pl
+98999	sg
+99001	sg
+99011	sg
+99018	sg
+99020	sg
+99037	sg
+sg
+99042	sg
+99044	sg
+sg
+sg
+99049	sg
+sg
+pl
+pl
+sg
+99057	sg
+99063	sg
+99072	sg
+99077	sg
+sg
+99084	sg
+99086	sg
+99090	sg
+sg
+99094	pl
+99096	pl
+99099	sg
+99107	sg
+99113	sg
+99122	sg
+99130	sg
+99133	pl
+99144	sg
+99149	sg
+99155	sg
+99159	sg
+99162	sg
+99173	sg
+99179	sg
+99183	pl
+99185	sg
+99187	sg
+99189	sg
+99191	sg
+sg
+sg
+99195	sg
+sg
+99206	sg
+99209	pl
+99227	sg
+99230	pl
+99232	sg
+dual
+99239	sg
+sg
+99247	sg
+99269	pl
+99271	pl
+99276	sg
+99278	sg
+dual
+99282	dual
+99286	sg
+99298	sg
+99307	pl
+99310	pl
+99315	sg
+99322	pl
+99340	sg
+99349	sg
+99351	pl
+99357	pl
+sg
+99365	sg
+99367	sg
+99374	sg
+99377	sg
+99379	sg
+99381	pl
+dual
+99384	sg
+sg
+99388	sg
+99395	sg
+sg
+99406	pl
+99411	sg
+99413	sg
+99418	sg
+99420	pl
+sg
+99431	sg
+sg
+sg
+dual
+99442	sg
+99450	sg
+sg
+99453	sg
+99463	sg
+99473	pl
+99480	sg
+99496	sg
+99506	sg
+99509	sg
+99512	sg
+sg
+99518	sg
+99522	pl
+99524	pl
+99536	sg
+99538	pl
+99543	pl
+99546	sg
+99579	sg
+sg
+99593	pl
+99605	dual
+99608	sg
+99612	sg
+99617	sg
+99619	sg
+99627	sg
+99632	sg
+sg
+99636	sg
+99641	sg
+99650	sg
+pl
+99653	sg
+99656	pl
+sg
+sg
+99660	pl
+99662	pl
+99667	sg
+99682	sg
+99686	sg
+99690	sg
+99695	sg
+99697	sg
+sg
+sg
+99704	sg
+99707	sg
+99711	sg
+99714	sg
+99717	sg
+99722	sg
+99724	sg
+99732	pl
+sg
+99744	dual
+99755	sg
+99763	sg
+99774	pl
+99779	sg
+99782	sg
+99792	pl
+99796	sg
+99798	pl
+99800	sg
+99806	sg
+99827	sg
+99831	sg
+99834	sg
+99840	sg
+99845	sg
+99851	sg
+99855	sg
+99858	sg
+99862	sg
+99864	pl
+sg
+99871	sg
+99875	sg
+99884	sg
+99888	sg
+sg
+99900	sg
+99902	sg
+99904	sg
+99909	sg
+dual
+99918	sg
+sg
+99924	sg
+99930	sg
+99937	dual
+dual
+99941	sg
+sg
+99944	dual
+dual
+99950	dual
+99954	sg
+99958	sg
+99961	sg
+99965	sg
+99967	sg
+99969	sg
+99974	sg
+99977	sg
+99981	sg
+99984	pl
+99986	dual
+99991	sg
+99993	pl
+100001	sg
+100006	sg
+100008	dual
+100014	sg
+100021	pl
+100025	sg
+100031	sg
+100035	sg
+100037	sg
+100042	sg
+100045	sg
+100053	sg
+100055	dual
+100060	sg
+100063	sg
+sg
+100080	sg
+100085	sg
+100089	sg
+100094	sg
+sg
+sg
+100102	dual
+100110	sg
+100120	sg
+100124	sg
+100132	sg
+sg
+100137	sg
+sg
+100142	sg
+100149	sg
+100154	dual
+100167	sg
+100170	sg
+100194	pl
+100203	sg
+100214	pl
+100218	sg
+dual
+100222	sg
+100230	pl
+100243	sg
+100245	pl
+100256	sg
+100258	sg
+dual
+100263	sg
+sg
+100273	pl
+100278	sg
+sg
+pl
+sg
+dual
+100290	sg
+dual
+pl
+100298	sg
+100308	sg
+100311	sg
+sg
+sg
+100316	sg
+100319	sg
+100323	sg
+100326	sg
+100333	sg
+100352	dual
+100362	sg
+sg
+sg
+100383	sg
+100388	pl
+100395	sg
+100397	sg
+100406	sg
+100413	sg
+100427	sg
+sg
+100430	pl
+sg
+sg
+100435	sg
+100441	sg
+100454	sg
+100458	pl
+100464	pl
+100467	sg
+100469	dual
+sg
+100472	sg
+100479	sg
+100485	pl
+dual
+100490	sg
+100497	sg
+100499	sg
+100501	sg
+100515	sg
+100520	sg
+100522	sg
+100524	sg
+100533	sg
+100539	sg
+100541	sg
+sg
+100546	sg
+100553	dual
+100557	sg
+100561	sg
+sg
+100564	sg
+100569	sg
+pl
+100573	sg
+sg
+100578	sg
+100581	sg
+sg
+100590	sg
+100593	dual
+100598	sg
+sg
+100613	sg
+100625	sg
+100628	sg
+100630	pl
+sg
+100641	sg
+100644	sg
+sg
+sg
+100649	sg
+100652	sg
+100656	sg
+sg
+sg
+100660	pl
+sg
+100665	sg
+100674	sg
+100680	pl
+100697	sg
+100699	pl
+100708	sg
+100732	sg
+100743	pl
+100745	sg
+100748	sg
+100750	sg
+100753	sg
+100760	sg
+100762	sg
+dual
+100773	sg
+100779	sg
+100789	dual
+100795	pl
+pl
+100799	dual
+100804	dual
+100813	sg
+100815	pl
+100819	sg
+100822	sg
+sg
+sg
+100829	sg
+100835	sg
+100841	sg
+100848	pl
+dual
+sg
+100852	sg
+100864	sg
+100870	sg
+100875	sg
+100877	dual
+100891	sg
+100896	sg
+100898	sg
+100902	sg
+pl
+100905	sg
+100910	sg
+100915	sg
+100920	sg
+100923	sg
+100947	sg
+100950	sg
+100952	sg
+100956	sg
+sg
+100975	sg
+100981	sg
+100995	sg
+100998	sg
+101003	sg
+101017	sg
+101019	sg
+101023	dual
+101030	pl
+101032	sg
+101034	sg
+101047	sg
+sg
+sg
+101057	pl
+101062	sg
+101066	sg
+101072	sg
+101075	sg
+dual
+101078	sg
+101082	sg
+dual
+101088	sg
+sg
+sg
+101092	sg
+101096	sg
+101101	sg
+101103	sg
+101106	sg
+101108	sg
+101115	sg
+101122	pl
+101137	sg
+101151	pl
+101153	pl
+pl
+101156	sg
+101160	dual
+101167	sg
+101176	sg
+101178	sg
+101180	pl
+101188	sg
+101192	sg
+101198	sg
+101206	sg
+101212	pl
+101220	sg
+101232	sg
+101238	sg
+101240	sg
+101253	sg
+101255	sg
+101260	dual
+101262	pl
+101265	sg
+101267	sg
+101269	sg
+101272	sg
+sg
+sg
+101276	pl
+101282	sg
+sg
+101286	sg
+101290	pl
+101293	sg
+101299	sg
+sg
+101304	sg
+101319	pl
+sg
+sg
+101337	sg
+101346	sg
+pl
+101352	sg
+pl
+101365	pl
+sg
+101369	pl
+101374	pl
+101385	pl
+101389	sg
+101391	sg
+101397	sg
+101400	sg
+101403	sg
+101407	sg
+101412	pl
+pl
+101416	pl
+101422	sg
+101435	sg
+101441	sg
+101443	sg
+101446	sg
+101448	sg
+101465	sg
+sg
+dual
+101469	sg
+101471	sg
+101477	sg
+101479	sg
+101481	sg
+101489	pl
+101493	sg
+101495	sg
+101497	sg
+101499	sg
+101505	sg
+sg
+101508	sg
+sg
+101518	sg
+101520	sg
+101523	sg
+101526	sg
+sg
+101532	sg
+101544	sg
+sg
+101547	sg
+101552	sg
+101554	sg
+101556	sg
+101563	sg
+101565	sg
+sg
+101568	sg
+101573	sg
+101575	pl
+101579	pl
+101587	sg
+101600	sg
+101603	sg
+101605	sg
+101608	sg
+101612	sg
+101619	pl
+101622	sg
+101626	sg
+101635	pl
+sg
+101641	sg
+101645	sg
+101650	sg
+sg
+101660	sg
+101662	sg
+101664	sg
+101689	sg
+101697	dual
+101706	sg
+101721	sg
+101726	sg
+101728	sg
+101730	sg
+pl
+101735	sg
+101739	sg
+101742	sg
+101744	sg
+101750	sg
+101758	sg
+101764	sg
+dual
+101767	sg
+pl
+sg
+pl
+101772	sg
+101778	sg
+dual
+101782	pl
+101785	pl
+101805	sg
+101812	sg
+101817	sg
+101819	sg
+101821	dual
+101823	sg
+101826	sg
+101829	dual
+101841	sg
+101851	pl
+101854	sg
+101864	sg
+101869	dual
+101876	sg
+101878	sg
+sg
+101886	sg
+pl
+101891	pl
+101894	sg
+101897	dual
+101906	pl
+101910	sg
+101918	sg
+101921	sg
+101923	sg
+101927	sg
+sg
+101933	sg
+101939	sg
+101942	sg
+101944	sg
+101947	sg
+101950	sg
+sg
+dual
+101966	sg
+101968	sg
+101970	pl
+101972	sg
+101974	dual
+101978	sg
+dual
+101983	sg
+101985	sg
+102001	sg
+pl
+102009	sg
+102031	sg
+102036	sg
+102042	sg
+102045	sg
+102054	pl
+102057	pl
+102062	sg
+102072	dual
+102077	sg
+102093	sg
+102095	dual
+102097	sg
+102101	sg
+sg
+102109	sg
+102121	sg
+102123	sg
+102139	sg
+102141	dual
+102145	dual
+dual
+102151	dual
+102157	sg
+102159	sg
+sg
+102164	sg
+102167	sg
+102172	sg
+102177	sg
+102180	sg
+102182	sg
+102190	sg
+102192	dual
+102196	sg
+sg
+102199	dual
+102242	pl
+102245	sg
+102249	sg
+102253	pl
+102257	pl
+102260	pl
+102276	sg
+102281	sg
+102285	sg
+102288	dual
+102291	dual
+102295	sg
+dual
+102306	sg
+102308	dual
+102311	sg
+102326	sg
+102335	sg
+102353	pl
+102356	sg
+102378	sg
+sg
+102382	pl
+102387	sg
+dual
+102394	sg
+102396	sg
+102398	sg
+dual
+102415	dual
+102421	sg
+102423	sg
+102427	sg
+102441	sg
+sg
+102452	sg
+102455	sg
+102461	sg
+102466	sg
+102476	sg
+sg
+102479	sg
+102482	sg
+102504	sg
+102514	sg
+102516	sg
+102538	sg
+102541	sg
+102552	sg
+102555	sg
+102558	dual
+dual
+102569	sg
+102583	sg
+102592	sg
+102594	sg
+sg
+102610	sg
+sg
+102613	dual
+102621	sg
+sg
+102624	sg
+102638	sg
+102649	sg
+102652	sg
+102661	sg
+102672	sg
+sg
+102676	sg
+102684	pl
+102694	dual
+102698	pl
+102706	sg
+102723	sg
+102731	sg
+102738	sg
+102740	sg
+102742	sg
+sg
+pl
+102752	sg
+102754	sg
+102759	dual
+sg
+sg
+102766	sg
+102769	sg
+102772	sg
+102776	sg
+102781	sg
+102786	dual
+sg
+102789	sg
+102794	pl
+102796	sg
+pl
+102799	sg
+102801	sg
+102808	sg
+102810	sg
+102816	sg
+102825	pl
+102833	pl
+102845	pl
+102848	sg
+102851	sg
+102855	sg
+102862	sg
+102864	pl
+102866	sg
+sg
+102879	pl
+pl
+102883	pl
+sg
+sg
+102891	sg
+102895	sg
+102916	pl
+102924	sg
+102929	sg
+102931	pl
+pl
+102934	sg
+102942	pl
+102950	sg
+102955	sg
+102966	sg
+102973	dual
+102988	sg
+sg
+pl
+102998	sg
+103003	pl
+103013	sg
+103017	sg
+103019	pl
+103024	sg
+103028	dual
+103032	sg
+103040	dual
+103043	sg
+103049	sg
+103063	sg
+103072	sg
+103074	sg
+103076	dual
+103087	sg
+103094	sg
+103103	sg
+103107	sg
+sg
+103117	pl
+103122	sg
+pl
+103125	sg
+103130	sg
+103140	sg
+103146	sg
+103167	sg
+103172	sg
+103175	sg
+103178	pl
+103182	pl
+103192	sg
+103194	sg
+103197	sg
+103200	sg
+103203	sg
+103212	sg
+103216	sg
+103221	sg
+sg
+103233	sg
+sg
+103237	sg
+pl
+103243	sg
+103249	sg
+sg
+103254	sg
+dual
+103257	sg
+103270	sg
+103272	sg
+sg
+103276	sg
+103286	pl
+sg
+103290	pl
+103292	sg
+103300	sg
+103316	dual
+sg
+103320	pl
+sg
+103324	pl
+103329	sg
+103332	dual
+103342	dual
+sg
+103346	sg
+103352	sg
+103354	dual
+dual
+103357	dual
+sg
+pl
+103361	pl
+103363	sg
+dual
+103367	pl
+sg
+103370	pl
+103377	sg
+103392	sg
+103395	sg
+103398	sg
+103405	sg
+sg
+pl
+103420	sg
+103428	sg
+103430	pl
+103436	sg
+103443	dual
+dual
+103448	pl
+103452	sg
+sg
+103455	sg
+103461	sg
+103471	sg
+103476	sg
+103479	sg
+103485	pl
+103487	sg
+103495	pl
+103498	sg
+103500	pl
+103506	sg
+sg
+103511	sg
+103514	sg
+sg
+103517	sg
+103522	sg
+103526	sg
+sg
+103533	sg
+103535	sg
+103538	sg
+103541	pl
+103548	sg
+103562	sg
+103567	pl
+103571	sg
+103587	sg
+103592	sg
+103596	pl
+sg
+103607	sg
+103612	sg
+103618	sg
+sg
+103621	sg
+103624	sg
+103627	sg
+103631	sg
+103636	sg
+103644	pl
+103655	sg
+103664	dual
+103676	sg
+sg
+103679	sg
+103685	sg
+103688	sg
+103690	dual
+103692	sg
+103700	sg
+103705	pl
+103709	sg
+103711	sg
+103713	sg
+103715	sg
+103722	sg
+sg
+103725	sg
+103728	sg
+103730	sg
+103740	sg
+103744	sg
+103747	sg
+103751	sg
+103754	sg
+sg
+sg
+sg
+103759	dual
+103761	sg
+sg
+103770	sg
+103772	sg
+103778	sg
+103786	sg
+dual
+103803	sg
+sg
+103806	sg
+103809	sg
+103811	pl
+103825	sg
+103830	sg
+103832	dual
+103837	dual
+103840	sg
+103842	dual
+103856	dual
+103865	sg
+103868	sg
+sg
+103871	sg
+103886	pl
+103888	sg
+103908	sg
+sg
+sg
+103913	sg
+103916	sg
+103918	pl
+103920	sg
+sg
+103928	sg
+103932	sg
+103934	sg
+103953	sg
+sg
+103956	sg
+103960	sg
+103962	pl
+103968	sg
+103974	sg
+103976	sg
+103991	sg
+104001	pl
+104006	sg
+sg
+104019	sg
+104026	sg
+104028	sg
+104030	pl
+104035	sg
+104039	sg
+104054	sg
+104073	sg
+104082	dual
+104090	sg
+104111	sg
+104121	sg
+104130	sg
+104133	sg
+104136	sg
+104138	dual
+104144	sg
+104146	pl
+104148	sg
+sg
+104152	sg
+104160	sg
+dual
+104164	sg
+104168	sg
+104171	sg
+sg
+104182	sg
+104199	pl
+104207	sg
+104216	dual
+104223	sg
+104243	sg
+104255	sg
+104257	dual
+104261	sg
+104267	sg
+104277	sg
+104284	sg
+104303	sg
+sg
+104306	pl
+104313	sg
+104319	sg
+104322	dual
+104332	pl
+104343	sg
+104347	sg
+104350	sg
+sg
+pl
+104354	sg
+104357	sg
+104365	dual
+104367	sg
+104370	pl
+104377	pl
+104379	pl
+104390	sg
+104402	sg
+104404	sg
+sg
+104409	sg
+104411	sg
+104413	sg
+104421	sg
+104425	sg
+104429	sg
+sg
+104432	sg
+sg
+104437	sg
+104442	pl
+sg
+104446	sg
+104456	sg
+104470	sg
+104474	sg
+104499	sg
+104506	sg
+104521	dual
+104533	dual
+104545	sg
+104555	sg
+104559	sg
+104571	sg
+104588	dual
+104602	dual
+104604	sg
+104609	sg
+104621	sg
+sg
+104632	dual
+104648	sg
+104652	dual
+dual
+104661	sg
+pl
+104664	sg
+104671	pl
+104676	sg
+104680	dual
+104684	sg
+104688	sg
+104690	sg
+dual
+104699	sg
+104725	sg
+104727	sg
+104730	sg
+104735	sg
+104742	sg
+104746	pl
+104753	pl
+104756	sg
+104759	sg
+104764	sg
+sg
+104772	sg
+sg
+104780	sg
+pl
+sg
+104797	sg
+104824	sg
+104838	dual
+104846	sg
+104856	sg
+104858	sg
+sg
+sg
+104873	sg
+104878	sg
+dual
+pl
+104885	sg
+104890	sg
+sg
+104894	sg
+104896	sg
+dual
+104920	sg
+sg
+104923	sg
+sg
+104929	sg
+104932	sg
+104934	sg
+104943	sg
+104945	sg
+sg
+sg
+pl
+sg
+104955	sg
+104976	sg
+104978	sg
+104982	sg
+104984	sg
+104986	dual
+104998	sg
+105001	dual
+105003	sg
+105014	sg
+105018	sg
+105022	sg
+105025	sg
+105029	sg
+105035	dual
+105037	sg
+105045	sg
+105051	sg
+dual
+105054	pl
+105059	dual
+105061	pl
+105063	sg
+105071	sg
+105083	sg
+105094	dual
+105103	sg
+105105	pl
+105111	sg
+105113	sg
+105124	pl
+105128	sg
+105135	pl
+105140	pl
+pl
+105145	sg
+105154	pl
+105181	sg
+105195	sg
+105210	pl
+105216	sg
+105220	sg
+pl
+105223	sg
+105228	sg
+105237	sg
+105241	sg
+105254	pl
+105257	sg
+105259	sg
+105264	pl
+105266	sg
+105277	sg
+105280	sg
+105283	sg
+105290	sg
+105296	pl
+105306	sg
+105308	sg
+sg
+105327	sg
+105331	pl
+105333	sg
+105335	sg
+105339	sg
+sg
+dual
+105346	sg
+105348	sg
+105361	sg
+105367	sg
+105371	pl
+105378	sg
+105383	pl
+105389	sg
+105392	pl
+105398	sg
+105403	dual
+105405	sg
+105409	sg
+105413	dual
+105428	sg
+105436	sg
+105438	sg
+sg
+105444	sg
+105446	pl
+105452	sg
+105458	sg
+sg
+105461	dual
+105466	sg
+pl
+105470	pl
+105472	sg
+105481	sg
+105497	sg
+105500	sg
+105508	sg
+sg
+105511	sg
+105520	sg
+105524	sg
+pl
+105528	sg
+105541	sg
+105546	sg
+105549	sg
+105558	pl
+105561	sg
+105563	pl
+105572	sg
+105580	sg
+105589	sg
+105592	sg
+105594	sg
+105607	sg
+105611	pl
+105613	sg
+105615	sg
+105620	dual
+105624	sg
+105629	sg
+105632	sg
+105635	sg
+105637	sg
+105640	sg
+105647	sg
+105656	sg
+105671	sg
+105673	sg
+sg
+105683	sg
+sg
+sg
+105687	sg
+105689	sg
+105693	sg
+105695	sg
+105708	pl
+105710	sg
+dual
+105713	pl
+105718	sg
+105722	sg
+sg
+105726	sg
+105733	dual
+105738	sg
+105741	sg
+105746	sg
+sg
+105750	pl
+dual
+105754	sg
+105761	sg
+sg
+sg
+pl
+105767	sg
+sg
+105772	sg
+105776	sg
+105788	sg
+sg
+105792	sg
+105794	sg
+105798	pl
+105802	sg
+105809	sg
+105811	sg
+105815	pl
+sg
+105821	sg
+sg
+sg
+dual
+105826	pl
+105839	sg
+105842	sg
+105851	pl
+105853	sg
+105857	sg
+105865	sg
+105875	sg
+105879	pl
+105881	sg
+105885	sg
+sg
+105892	sg
+105897	sg
+105900	dual
+105907	dual
+105913	sg
+105919	pl
+105921	pl
+105926	pl
+105930	sg
+105933	pl
+105941	pl
+105961	dual
+105965	dual
+105970	pl
+105973	pl
+105982	sg
+dual
+105995	sg
+105999	sg
+sg
+106002	sg
+106006	sg
+106009	sg
+106015	sg
+106036	sg
+106044	dual
+106050	sg
+pl
+106060	sg
+106062	sg
+106065	sg
+106069	sg
+dual
+106072	sg
+106074	sg
+106076	sg
+106078	sg
+106082	sg
+106086	sg
+106089	sg
+106091	sg
+106099	sg
+sg
+106102	sg
+106108	sg
+sg
+106120	sg
+106122	sg
+106124	sg
+106126	pl
+106130	sg
+106132	sg
+106134	sg
+106136	sg
+dual
+106142	sg
+106148	sg
+sg
+106157	sg
+106163	sg
+106165	sg
+106168	pl
+pl
+106180	pl
+106183	sg
+106185	pl
+sg
+106190	sg
+sg
+106197	dual
+106203	sg
+106208	sg
+106215	sg
+106225	pl
+106231	sg
+106236	sg
+106243	sg
+106249	sg
+106251	sg
+106253	sg
+sg
+sg
+106259	dual
+106263	sg
+106266	sg
+pl
+sg
+106273	dual
+106275	sg
+sg
+sg
+106280	sg
+106287	dual
+106291	sg
+106300	sg
+106318	sg
+106321	sg
+106324	sg
+106329	sg
+106331	sg
+106334	dual
+106338	sg
+106344	sg
+106346	sg
+106349	sg
+106352	sg
+106357	sg
+106362	sg
+106370	sg
+106379	sg
+106381	pl
+106388	sg
+106391	sg
+106397	sg
+106399	dual
+106408	sg
+106421	sg
+106434	dual
+106437	dual
+sg
+sg
+106448	sg
+106469	sg
+sg
+sg
+106473	sg
+106487	sg
+106493	sg
+106499	pl
+sg
+106512	sg
+106517	sg
+dual
+106520	sg
+sg
+106526	pl
+106530	sg
+106536	pl
+106541	dual
+106550	sg
+106563	pl
+106575	sg
+106577	pl
+106581	sg
+106585	sg
+106588	sg
+106601	sg
+106604	pl
+106606	sg
+106615	sg
+sg
+106633	pl
+106636	sg
+106638	sg
+106648	sg
+106656	dual
+106660	sg
+106662	dual
+106666	pl
+106668	pl
+106676	sg
+sg
+106681	sg
+106684	dual
+106686	sg
+106689	sg
+sg
+106706	sg
+sg
+106709	sg
+106715	sg
+106732	sg
+sg
+106739	sg
+dual
+sg
+106743	sg
+106746	sg
+sg
+sg
+106760	sg
+106763	sg
+106769	sg
+106774	sg
+106778	pl
+106783	pl
+106785	pl
+106796	pl
+106805	sg
+106807	sg
+106824	sg
+106826	sg
+sg
+pl
+sg
+106832	sg
+106836	sg
+106839	sg
+sg
+106845	sg
+106855	pl
+106868	sg
+106873	pl
+106875	sg
+dual
+106878	dual
+106883	sg
+106887	dual
+106890	sg
+sg
+106894	dual
+106898	dual
+sg
+106911	sg
+106913	sg
+106915	sg
+106924	dual
+106927	sg
+106931	sg
+106937	pl
+106939	sg
+106944	sg
+106961	sg
+106973	sg
+106975	sg
+106984	sg
+106992	sg
+106995	sg
+107001	pl
+sg
+107009	sg
+107019	dual
+107022	sg
+107024	sg
+107028	sg
+107030	sg
+107044	sg
+dual
+107048	pl
+sg
+107053	pl
+107058	sg
+107065	sg
+107070	sg
+sg
+107073	sg
+107087	sg
+107094	sg
+107101	sg
+107118	sg
+107126	sg
+107128	sg
+107130	sg
+107133	dual
+107135	sg
+sg
+sg
+107144	sg
+107146	dual
+107148	pl
+107151	sg
+107154	sg
+107158	dual
+107165	sg
+sg
+107172	sg
+107178	sg
+107180	dual
+107182	sg
+107185	sg
+107209	sg
+sg
+107215	sg
+107225	sg
+107233	sg
+107243	dual
+107245	sg
+107254	sg
+107258	sg
+107261	sg
+107267	sg
+107274	pl
+107279	pl
+sg
+107282	sg
+107293	pl
+107300	sg
+107303	pl
+107306	pl
+pl
+107312	sg
+107316	sg
+107318	sg
+107330	sg
+107333	sg
+107335	sg
+dual
+107339	sg
+107344	sg
+107351	sg
+107353	sg
+107355	sg
+107360	sg
+107365	sg
+107374	sg
+107376	dual
+107391	sg
+107393	sg
+sg
+107397	sg
+107402	sg
+sg
+sg
+107422	sg
+sg
+107426	dual
+107433	sg
+107436	sg
+107439	sg
+107445	sg
+107448	pl
+107456	sg
+107459	dual
+107465	sg
+107470	sg
+107474	sg
+sg
+107477	sg
+107480	dual
+107491	sg
+107493	sg
+107495	sg
+107499	sg
+107504	sg
+107511	dual
+107521	sg
+107535	sg
+107539	sg
+107543	sg
+107554	sg
+sg
+107562	sg
+107564	sg
+107567	sg
+107579	sg
+107588	pl
+107591	pl
+107596	sg
+pl
+107604	sg
+107610	pl
+dual
+107613	sg
+107615	sg
+107620	sg
+107623	sg
+107632	sg
+107636	pl
+107639	sg
+107641	sg
+sg
+sg
+107648	sg
+107651	sg
+107655	sg
+107658	pl
+107660	dual
+107665	sg
+107674	sg
+sg
+107683	sg
+107692	sg
+107694	sg
+sg
+107700	sg
+107709	sg
+107711	sg
+107716	sg
+107720	sg
+107728	sg
+107730	sg
+107737	sg
+107739	dual
+107741	sg
+107751	sg
+107756	pl
+107760	sg
+107762	sg
+107768	sg
+sg
+107771	sg
+107785	sg
+107788	sg
+107792	dual
+107797	pl
+107800	sg
+107807	pl
+107812	sg
+107827	pl
+107830	pl
+107837	sg
+107839	pl
+107846	sg
+sg
+107855	sg
+107859	pl
+107862	sg
+107865	pl
+107871	pl
+107888	sg
+107891	sg
+107893	sg
+pl
+107896	sg
+sg
+sg
+pl
+107908	sg
+107910	sg
+107912	sg
+107919	sg
+107921	sg
+sg
+107934	sg
+107938	sg
+107940	sg
+107946	sg
+107949	sg
+107951	sg
+107954	sg
+107956	pl
+107958	sg
+107960	sg
+107966	sg
+107970	sg
+107973	sg
+107975	sg
+107985	dual
+107989	sg
+107994	dual
+dual
+107997	dual
+108006	sg
+dual
+108012	sg
+108021	dual
+108025	sg
+108034	sg
+108041	sg
+108055	sg
+108060	dual
+108062	sg
+108065	dual
+108069	sg
+108074	dual
+108079	dual
+108082	sg
+108091	sg
+108106	dual
+108108	sg
+108116	sg
+108125	sg
+108139	sg
+sg
+108158	sg
+dual
+108164	sg
+108176	sg
+108185	sg
+108189	sg
+108195	sg
+108222	sg
+108233	pl
+108237	sg
+108240	pl
+108249	sg
+108255	pl
+108258	sg
+108261	sg
+108270	sg
+108279	sg
+108298	sg
+108302	sg
+108304	sg
+108311	sg
+108316	sg
+sg
+108322	sg
+108330	sg
+108337	sg
+108343	sg
+108347	pl
+108359	sg
+sg
+108367	sg
+108370	sg
+108373	pl
+108395	dual
+108400	sg
+108407	dual
+108414	sg
+108418	sg
+108437	sg
+108442	sg
+108446	sg
+108453	sg
+108455	sg
+108465	dual
+108471	sg
+108476	sg
+108479	sg
+108494	pl
+108496	dual
+108501	sg
+sg
+108506	sg
+sg
+pl
+108514	sg
+sg
+108524	sg
+108538	sg
+108541	sg
+108550	sg
+108552	sg
+108559	sg
+108569	sg
+dual
+108573	sg
+108583	pl
+108591	dual
+108593	sg
+108595	sg
+sg
+108599	sg
+108601	sg
+108603	sg
+sg
+108620	sg
+108622	sg
+108625	sg
+108628	sg
+108631	sg
+108633	dual
+108654	sg
+108660	sg
+108665	dual
+sg
+pl
+sg
+108673	pl
+108675	sg
+108677	dual
+sg
+pl
+108681	dual
+108704	sg
+108712	sg
+108715	dual
+108717	dual
+108724	sg
+108733	dual
+108736	sg
+108738	sg
+108744	sg
+108751	pl
+108754	dual
+108756	sg
+108767	sg
+108771	pl
+108780	pl
+108782	sg
+sg
+108796	sg
+108803	sg
+108812	sg
+108814	sg
+108829	sg
+108832	pl
+sg
+108838	sg
+108840	pl
+108849	sg
+108859	sg
+108865	sg
+108878	sg
+108881	pl
+108884	sg
+108908	sg
+pl
+108918	sg
+108928	pl
+108930	pl
+108932	sg
+108934	sg
+sg
+108937	pl
+108945	dual
+108947	pl
+108957	sg
+sg
+108962	dual
+108967	sg
+sg
+sg
+pl
+108975	sg
+sg
+108985	sg
+108988	sg
+108990	sg
+pl
+108997	sg
+109004	sg
+109011	sg
+109024	sg
+sg
+109027	sg
+109032	sg
+109039	sg
+109044	pl
+109051	dual
+109054	sg
+109058	sg
+pl
+sg
+109062	sg
+109067	sg
+109073	sg
+109076	sg
+109081	pl
+109084	sg
+109098	sg
+109103	dual
+109107	sg
+pl
+109119	sg
+109121	sg
+109124	sg
+109128	sg
+dual
+109131	sg
+109133	sg
+109135	sg
+109149	pl
+pl
+dual
+109163	dual
+109168	sg
+109172	pl
+109179	sg
+109182	sg
+109184	sg
+109186	sg
+109188	pl
+109190	sg
+109202	sg
+109213	sg
+109220	sg
+sg
+109225	sg
+109237	sg
+109240	pl
+109253	pl
+109259	sg
+109264	pl
+109273	sg
+109292	sg
+109299	sg
+109316	sg
+109322	sg
+109326	pl
+109341	sg
+109351	sg
+109353	sg
+109360	sg
+sg
+109363	sg
+109366	sg
+109369	sg
+109375	sg
+109377	sg
+109381	sg
+sg
+109385	sg
+109390	sg
+109402	pl
+109406	pl
+109411	sg
+sg
+109416	sg
+109421	sg
+109436	pl
+109440	pl
+109444	sg
+109448	sg
+109453	pl
+109455	pl
+109466	sg
+109472	sg
+109478	sg
+109490	sg
+109506	sg
+109508	sg
+109511	sg
+109515	sg
+109518	sg
+109523	pl
+109527	sg
+109535	sg
+109540	pl
+109542	sg
+109547	sg
+109552	sg
+109554	sg
+109561	sg
+109564	sg
+109571	sg
+109576	sg
+109579	sg
+109586	sg
+109591	sg
+sg
+109595	sg
+109601	pl
+109604	sg
+109607	pl
+109612	sg
+109618	sg
+109621	sg
+109624	sg
+109626	sg
+109628	sg
+109633	sg
+109636	dual
+109644	pl
+109648	sg
+109650	sg
+sg
+109658	pl
+109665	sg
+109671	pl
+109677	pl
+109680	sg
+109683	sg
+109685	sg
+109692	pl
+109694	pl
+109697	pl
+109702	pl
+109704	sg
+109714	pl
+109717	sg
+109721	pl
+109723	sg
+109727	sg
+109730	pl
+109732	sg
+sg
+dual
+109747	sg
+109749	sg
+109754	sg
+109759	sg
+109764	pl
+109769	sg
+109773	sg
+109775	sg
+109785	dual
+109792	sg
+109803	sg
+109810	sg
+109819	sg
+109821	sg
+109827	sg
+109829	sg
+109839	sg
+sg
+109853	sg
+109862	sg
+109877	sg
+109882	sg
+109895	sg
+sg
+109901	sg
+109906	sg
+sg
+109917	pl
+sg
+109920	pl
+109924	sg
+109928	sg
+109933	sg
+sg
+109953	pl
+109955	sg
+109965	pl
+109973	pl
+dual
+109976	sg
+109978	sg
+sg
+sg
+109988	sg
+109993	sg
+109998	sg
+110004	sg
+110009	pl
+110014	sg
+110020	sg
+pl
+110024	sg
+110030	dual
+110035	pl
+110037	sg
+110039	sg
+110041	sg
+sg
+dual
+110049	pl
+sg
+110054	sg
+pl
+110065	sg
+110068	sg
+110074	sg
+sg
+110078	pl
+sg
+pl
+sg
+110088	sg
+dual
+110100	sg
+110103	sg
+sg
+110109	sg
+110115	sg
+sg
+110118	sg
+110120	sg
+sg
+110124	sg
+110129	sg
+110131	sg
+110136	sg
+110142	sg
+110145	sg
+110148	sg
+110150	sg
+sg
+110156	sg
+110161	pl
+110164	pl
+110166	sg
+110172	sg
+110175	sg
+110183	pl
+110187	pl
+110192	pl
+dual
+110195	sg
+110200	pl
+110202	sg
+110221	sg
+110225	sg
+110228	dual
+110230	dual
+110234	sg
+110248	sg
+110255	pl
+110261	sg
+110274	sg
+sg
+110277	sg
+110286	sg
+110296	pl
+110302	sg
+110304	sg
+110308	pl
+110310	sg
+110315	sg
+110317	pl
+pl
+110329	dual
+sg
+110337	pl
+110340	pl
+110344	sg
+110348	pl
+110360	pl
+110363	sg
+110365	sg
+110369	sg
+110383	dual
+110386	sg
+110391	pl
+pl
+110395	sg
+110398	sg
+110400	sg
+110402	sg
+110404	sg
+110406	sg
+110415	sg
+110419	sg
+110424	sg
+sg
+110427	sg
+110429	sg
+sg
+110434	sg
+110437	sg
+110439	sg
+110441	dual
+110447	sg
+sg
+110450	sg
+sg
+110457	sg
+110460	pl
+110464	sg
+110469	sg
+110472	sg
+110477	pl
+110481	sg
+pl
+110484	sg
+sg
+110493	pl
+sg
+110500	sg
+110519	sg
+110522	sg
+110526	sg
+110530	sg
+110534	sg
+pl
+110540	sg
+110546	sg
+110548	sg
+110552	sg
+110558	sg
+110561	pl
+110564	pl
+110571	sg
+110573	pl
+110579	sg
+110582	sg
+sg
+sg
+sg
+sg
+110588	dual
+110590	sg
+sg
+110593	sg
+110597	sg
+110603	dual
+110608	pl
+110611	pl
+110614	sg
+110617	pl
+pl
+110626	pl
+110631	sg
+110640	sg
+dual
+110648	pl
+110652	pl
+110655	pl
+110660	sg
+pl
+110664	pl
+110669	sg
+110671	sg
+sg
+110677	sg
+110680	sg
+110685	pl
+110688	pl
+110691	pl
+sg
+110696	sg
+110704	pl
+110709	sg
+110722	sg
+110732	sg
+110739	sg
+110741	sg
+sg
+110744	sg
+110748	pl
+110752	sg
+110754	pl
+110756	sg
+110767	sg
+110777	sg
+sg
+110780	sg
+110789	sg
+110794	sg
+110796	sg
+110800	pl
+110804	sg
+110807	sg
+110809	sg
+110819	sg
+110829	sg
+110834	sg
+110838	sg
+110840	pl
+110846	sg
+110865	pl
+110868	sg
+sg
+110874	pl
+110876	sg
+110882	sg
+pl
+110891	pl
+110896	sg
+110899	sg
+110901	sg
+110904	sg
+110906	sg
+110913	sg
+110917	sg
+110925	sg
+sg
+110930	pl
+110932	sg
+110934	sg
+110936	sg
+110940	sg
+110960	sg
+sg
+110966	pl
+110968	sg
+110977	sg
+110982	sg
+110984	sg
+sg
+110998	sg
+sg
+111002	pl
+111011	sg
+sg
+111014	sg
+111016	sg
+pl
+111023	sg
+111025	sg
+sg
+111028	sg
+111030	sg
+111034	sg
+111046	dual
+111049	dual
+sg
+111056	sg
+111059	sg
+111061	sg
+111063	sg
+111067	sg
+111072	sg
+111077	sg
+111094	sg
+sg
+111100	sg
+111104	sg
+111119	pl
+pl
+111124	pl
+pl
+sg
+111143	sg
+111145	pl
+111147	sg
+111156	sg
+111165	sg
+111167	sg
+111169	sg
+111174	sg
+111180	sg
+111183	sg
+111189	sg
+sg
+111197	sg
+111199	pl
+111202	sg
+111207	dual
+111214	sg
+sg
+111217	pl
+111220	sg
+111222	pl
+111224	sg
+111228	pl
+sg
+111245	sg
+111253	sg
+111260	pl
+sg
+111266	dual
+111269	sg
+sg
+sg
+sg
+111274	sg
+sg
+111277	sg
+sg
+111283	pl
+111289	dual
+sg
+111294	sg
+111298	sg
+sg
+111307	sg
+111310	sg
+111317	pl
+111323	sg
+111334	pl
+111337	sg
+111342	sg
+111357	pl
+111368	sg
+111370	sg
+111373	sg
+111380	sg
+111384	dual
+pl
+111387	pl
+111392	sg
+111396	sg
+sg
+111399	sg
+111401	sg
+111403	sg
+111407	sg
+pl
+111410	pl
+111415	sg
+111417	sg
+111433	sg
+111436	pl
+111438	sg
+111440	sg
+111445	pl
+111450	pl
+111459	pl
+111465	pl
+111471	sg
+111477	pl
+sg
+111481	sg
+111490	pl
+111504	pl
+111508	sg
+111513	pl
+111515	pl
+111517	sg
+111532	pl
+111534	sg
+111541	sg
+dual
+111551	sg
+111556	pl
+sg
+pl
+111564	sg
+111568	pl
+111571	dual
+111577	sg
+111584	sg
+111591	sg
+111594	sg
+111598	sg
+sg
+111601	sg
+111607	sg
+111610	sg
+sg
+111613	sg
+111615	sg
+111619	sg
+111629	sg
+111632	sg
+111635	sg
+sg
+111644	sg
+pl
+111658	sg
+111663	sg
+111673	sg
+111676	sg
+111684	sg
+111687	sg
+111695	dual
+pl
+111699	sg
+111701	pl
+111707	sg
+111711	sg
+111719	sg
+111726	sg
+111728	sg
+111737	sg
+111748	sg
+111750	sg
+111753	sg
+111758	sg
+111765	sg
+sg
+111768	sg
+111770	sg
+111772	sg
+111782	sg
+pl
+111788	sg
+111794	sg
+sg
+111799	sg
+111815	sg
+111824	sg
+dual
+111827	pl
+111830	sg
+111839	sg
+111845	sg
+111847	sg
+111850	sg
+111857	sg
+111859	sg
+sg
+111865	sg
+111870	sg
+111875	sg
+111886	sg
+111889	pl
+111892	sg
+111911	sg
+111913	sg
+111916	sg
+111918	sg
+111929	sg
+111934	sg
+pl
+pl
+111938	sg
+111943	sg
+111946	pl
+111949	sg
+sg
+111957	sg
+111959	pl
+111967	sg
+111980	sg
+sg
+sg
+sg
+111990	pl
+sg
+111999	pl
+112004	sg
+112009	sg
+112012	sg
+112021	pl
+112035	sg
+112044	pl
+112050	sg
+sg
+112069	sg
+112077	dual
+112079	sg
+112083	dual
+112086	sg
+112091	sg
+112101	sg
+112103	sg
+112105	sg
+sg
+112114	sg
+112117	pl
+112124	sg
+sg
+112129	sg
+112131	pl
+sg
+112136	sg
+112140	sg
+112144	sg
+112150	sg
+sg
+sg
+112158	sg
+112162	sg
+sg
+112174	sg
+112180	sg
+112191	sg
+112199	sg
+112204	sg
+112215	sg
+112218	sg
+112223	sg
+pl
+112228	sg
+112230	sg
+112232	pl
+112236	sg
+112248	sg
+sg
+112255	sg
+112257	sg
+112261	sg
+112264	sg
+112268	sg
+sg
+112275	pl
+112301	sg
+112306	sg
+112310	sg
+112312	sg
+112320	pl
+112322	sg
+112332	dual
+112336	sg
+112341	sg
+112345	pl
+112349	sg
+sg
+112359	dual
+sg
+sg
+112369	sg
+112371	sg
+112375	sg
+112380	sg
+112382	sg
+112390	sg
+112426	sg
+112429	pl
+112443	pl
+sg
+112449	sg
+112453	sg
+112457	pl
+112461	sg
+112463	sg
+112468	pl
+112472	sg
+112474	sg
+112478	sg
+112481	sg
+112485	sg
+dual
+112491	sg
+112495	sg
+112500	sg
+112503	pl
+112515	sg
+112522	sg
+112526	sg
+sg
+112536	sg
+112540	sg
+112542	sg
+sg
+112546	sg
+sg
+112550	dual
+112553	sg
+sg
+112556	sg
+112558	pl
+112562	sg
+112570	pl
+112572	sg
+112576	dual
+112581	sg
+112583	sg
+112591	pl
+112599	sg
+112603	sg
+112607	sg
+112610	sg
+112612	sg
+112618	sg
+sg
+dual
+sg
+112624	sg
+112632	sg
+112634	sg
+112636	sg
+112638	sg
+sg
+112641	sg
+sg
+112645	sg
+112650	sg
+112652	sg
+sg
+112658	sg
+112668	dual
+112671	sg
+112679	sg
+sg
+112686	dual
+112688	sg
+112691	sg
+112695	pl
+112704	sg
+112706	sg
+112712	sg
+sg
+112720	sg
+112725	sg
+sg
+pl
+112731	sg
+112734	sg
+112740	sg
+112743	dual
+112745	pl
+112747	pl
+112753	sg
+112761	sg
+112766	sg
+112770	pl
+112775	sg
+112780	pl
+112782	sg
+112784	sg
+112788	sg
+sg
+112796	sg
+112802	sg
+112804	sg
+112809	sg
+112811	sg
+sg
+112815	sg
+dual
+112821	pl
+sg
+112824	sg
+112828	sg
+112830	sg
+sg
+112836	pl
+112839	dual
+112841	dual
+sg
+112845	dual
+pl
+112855	sg
+112860	sg
+sg
+112868	sg
+112873	sg
+112875	sg
+112883	sg
+112887	sg
+112891	sg
+112898	sg
+112901	sg
+112906	sg
+112909	sg
+sg
+112912	sg
+112920	sg
+sg
+sg
+112924	sg
+112934	sg
+112939	sg
+112943	pl
+112960	sg
+112975	sg
+112980	sg
+112985	sg
+112994	sg
+113002	sg
+113007	sg
+113015	pl
+113022	sg
+113030	sg
+113035	sg
+113043	sg
+113051	pl
+113055	pl
+113057	sg
+113060	dual
+113063	sg
+113083	sg
+sg
+113086	sg
+113088	sg
+sg
+sg
+113101	sg
+113106	sg
+113117	sg
+113119	sg
+113122	sg
+sg
+113130	sg
+113143	pl
+113146	sg
+113152	sg
+113159	sg
+sg
+113162	pl
+113172	sg
+113183	sg
+113195	sg
+113197	dual
+113199	sg
+113214	sg
+113217	sg
+113220	sg
+sg
+113223	sg
+113229	sg
+113232	sg
+113235	sg
+113238	sg
+113246	pl
+113251	sg
+113261	sg
+113266	sg
+113270	sg
+113275	sg
+113282	sg
+113285	pl
+113292	sg
+113296	sg
+dual
+113301	sg
+113306	pl
+113310	sg
+sg
+113314	sg
+113321	sg
+113323	sg
+sg
+113328	sg
+113330	sg
+113336	sg
+113339	sg
+113343	sg
+113346	dual
+113348	sg
+sg
+113357	pl
+113362	sg
+sg
+113367	dual
+113372	sg
+sg
+113384	dual
+113387	sg
+113398	pl
+113404	sg
+sg
+113418	sg
+113421	pl
+sg
+113425	sg
+113428	sg
+113433	sg
+113441	sg
+dual
+113448	pl
+113455	sg
+113458	pl
+113467	sg
+113481	sg
+113489	sg
+113493	sg
+113496	pl
+sg
+113501	pl
+113514	sg
+113523	dual
+113526	sg
+dual
+113531	sg
+sg
+113535	sg
+113544	sg
+113551	sg
+113556	sg
+sg
+113564	sg
+113567	sg
+113571	sg
+sg
+113574	sg
+113576	sg
+113578	sg
+sg
+113581	sg
+113583	sg
+113589	sg
+113592	sg
+113598	sg
+113602	dual
+113607	sg
+113611	sg
+113614	dual
+113618	dual
+113631	sg
+113636	sg
+113640	pl
+sg
+113645	sg
+113649	sg
+sg
+113654	sg
+113659	sg
+113663	pl
+113665	sg
+113670	sg
+113672	sg
+113687	pl
+113694	sg
+113696	pl
+113705	sg
+113714	pl
+113723	sg
+113730	sg
+113732	sg
+113737	sg
+113750	sg
+113761	sg
+sg
+113768	sg
+113770	sg
+sg
+sg
+113774	sg
+pl
+sg
+113785	sg
+sg
+113790	sg
+sg
+113799	sg
+113805	sg
+113809	pl
+113811	sg
+113814	sg
+113817	sg
+113820	sg
+sg
+113824	pl
+sg
+113828	sg
+113830	sg
+113832	sg
+sg
+113851	sg
+113853	pl
+113859	sg
+113864	sg
+113866	sg
+sg
+113876	sg
+113880	sg
+sg
+113888	sg
+113890	sg
+113893	sg
+sg
+sg
+113898	sg
+113905	pl
+113919	sg
+113921	sg
+113930	sg
+113936	sg
+113938	pl
+113952	pl
+113954	pl
+sg
+113958	sg
+113965	pl
+113967	sg
+113970	dual
+113978	pl
+113995	sg
+114006	pl
+114020	sg
+114024	sg
+114034	sg
+114037	pl
+114053	pl
+sg
+114060	pl
+114063	dual
+114066	sg
+sg
+114069	dual
+114075	sg
+dual
+114085	sg
+114096	sg
+114104	pl
+114106	sg
+114108	sg
+114115	sg
+114122	pl
+114131	sg
+114134	sg
+114147	sg
+114151	sg
+114153	pl
+114162	pl
+114165	pl
+114182	sg
+114196	sg
+114213	sg
+114216	sg
+114220	pl
+114227	sg
+sg
+114251	sg
+114254	sg
+114257	sg
+114259	pl
+114263	sg
+114273	sg
+114278	sg
+sg
+114286	pl
+114291	dual
+114298	sg
+114301	dual
+114303	sg
+114306	sg
+114308	dual
+114315	sg
+114320	sg
+114323	sg
+114329	sg
+114338	sg
+114346	sg
+114353	dual
+114363	sg
+114369	sg
+sg
+114372	pl
+114378	sg
+sg
+114384	sg
+114397	sg
+114402	pl
+114417	sg
+114421	sg
+114425	sg
+114432	sg
+114436	sg
+114439	sg
+sg
+114443	pl
+114454	sg
+114457	sg
+sg
+114461	sg
+sg
+114472	sg
+114475	sg
+sg
+114487	sg
+114490	sg
+114494	sg
+114502	dual
+114504	sg
+114512	sg
+114522	sg
+sg
+114530	sg
+114534	dual
+114537	sg
+114548	sg
+sg
+114553	sg
+sg
+sg
+114561	sg
+sg
+114583	sg
+114585	sg
+114588	sg
+114590	sg
+114597	dual
+114599	sg
+114603	sg
+114613	dual
+114616	sg
+114621	sg
+114624	pl
+114642	pl
+114654	sg
+114663	sg
+114673	sg
+114682	sg
+sg
+114697	sg
+114715	sg
+114723	sg
+114725	sg
+pl
+114732	sg
+114737	sg
+114744	pl
+114757	sg
+sg
+114760	sg
+114763	sg
+sg
+sg
+sg
+114777	sg
+sg
+114781	pl
+114788	sg
+sg
+114798	sg
+114803	sg
+114811	sg
+114814	pl
+114824	pl
+114829	sg
+114832	sg
+114835	sg
+sg
+114842	sg
+114845	sg
+114850	sg
+114855	pl
+114858	sg
+114860	sg
+114865	sg
+114867	sg
+114885	sg
+sg
+114894	sg
+114898	sg
+114901	sg
+114923	sg
+sg
+114931	dual
+114934	sg
+114939	sg
+sg
+dual
+114951	sg
+114953	dual
+114955	sg
+114958	sg
+114962	sg
+114981	pl
+114984	sg
+114989	sg
+114991	sg
+114994	sg
+114996	sg
+115002	sg
+115007	sg
+115009	sg
+115017	sg
+115028	sg
+115038	sg
+115043	pl
+pl
+115048	sg
+115058	sg
+115060	pl
+115063	sg
+115065	sg
+115073	sg
+115075	sg
+115080	sg
+115090	sg
+115101	sg
+115110	sg
+115115	sg
+sg
+115118	pl
+115122	sg
+115124	sg
+115126	sg
+115128	sg
+dual
+115135	sg
+115142	sg
+115144	sg
+115149	pl
+115152	sg
+115155	sg
+115164	sg
+sg
+115168	sg
+115170	sg
+115173	pl
+sg
+sg
+115184	sg
+sg
+115187	dual
+115190	sg
+115192	dual
+sg
+115200	sg
+115202	sg
+115204	sg
+dual
+115207	sg
+115209	sg
+115219	sg
+115221	sg
+115225	sg
+sg
+115231	sg
+115234	sg
+sg
+115240	sg
+115242	sg
+115245	sg
+sg
+115250	dual
+115261	sg
+115263	sg
+115266	sg
+115272	pl
+115284	sg
+115286	sg
+115288	sg
+115291	dual
+115295	pl
+115297	sg
+115303	sg
+115307	dual
+115309	sg
+115313	sg
+115319	sg
+sg
+115323	pl
+115329	sg
+115335	sg
+115337	sg
+sg
+115343	sg
+115346	sg
+115349	sg
+sg
+115355	sg
+sg
+115359	sg
+115362	sg
+sg
+115365	dual
+115372	sg
+115374	sg
+115379	dual
+sg
+pl
+dual
+115387	pl
+115391	dual
+115396	pl
+115409	pl
+sg
+115416	sg
+115418	sg
+115436	sg
+115441	pl
+115458	sg
+115466	dual
+115475	sg
+115479	pl
+115488	sg
+115497	sg
+sg
+115500	sg
+115514	sg
+115520	sg
+115527	sg
+sg
+115531	sg
+sg
+115537	sg
+115543	sg
+115545	sg
+115562	sg
+115565	sg
+115577	pl
+115584	dual
+115592	sg
+sg
+115595	pl
+115598	sg
+115603	sg
+115610	sg
+sg
+115613	sg
+sg
+115616	pl
+115640	dual
+115642	sg
+115644	pl
+115646	pl
+115649	sg
+115651	sg
+115654	sg
+115656	pl
+115658	sg
+115661	sg
+115664	sg
+sg
+115671	sg
+115673	pl
+dual
+115679	pl
+115681	sg
+115684	sg
+115690	sg
+115694	sg
+115700	sg
+115703	sg
+115705	pl
+115717	dual
+115719	sg
+115723	sg
+sg
+115728	sg
+sg
+115759	pl
+115768	sg
+115778	sg
+115780	sg
+115785	sg
+115787	sg
+115792	sg
+115794	dual
+115797	sg
+115803	pl
+115805	dual
+115817	dual
+115821	sg
+sg
+115824	sg
+115828	sg
+115832	sg
+115838	dual
+115843	dual
+115847	sg
+sg
+115855	dual
+115863	sg
+115870	pl
+115872	sg
+115876	pl
+sg
+115880	sg
+115886	sg
+sg
+115898	sg
+115901	dual
+sg
+dual
+115908	dual
+115910	dual
+sg
+115923	dual
+115925	sg
+sg
+115932	sg
+115938	sg
+115942	sg
+dual
+115949	pl
+115953	sg
+115955	sg
+115972	dual
+115975	sg
+sg
+115989	sg
+115999	pl
+116006	sg
+116008	sg
+116024	sg
+pl
+116030	sg
+sg
+sg
+116036	sg
+116047	sg
+116060	sg
+sg
+116076	sg
+116087	pl
+116090	sg
+116096	sg
+116104	sg
+116112	pl
+116118	sg
+pl
+sg
+116127	dual
+116138	pl
+116142	sg
+116148	sg
+116154	sg
+116156	sg
+116158	sg
+116170	sg
+dual
+sg
+116177	sg
+116179	sg
+pl
+116184	pl
+116196	sg
+116202	sg
+116212	pl
+116217	sg
+116225	sg
+116231	sg
+116238	sg
+116242	dual
+116253	dual
+116255	sg
+116264	sg
+116268	sg
+116287	sg
+116291	sg
+116318	sg
+116321	sg
+116329	sg
+116331	sg
+116333	sg
+116341	sg
+116351	sg
+sg
+116357	pl
+116369	sg
+116371	sg
+116375	dual
+116380	sg
+116383	sg
+116391	pl
+116393	pl
+116397	pl
+116402	sg
+116404	sg
+116412	sg
+116414	sg
+116418	sg
+116422	sg
+116426	pl
+116433	sg
+116437	sg
+116443	sg
+116451	pl
+116457	sg
+116471	sg
+116476	sg
+116478	sg
+116482	sg
+116501	sg
+116506	sg
+pl
+116511	sg
+116519	pl
+116528	sg
+116533	sg
+116546	sg
+sg
+116569	sg
+116580	sg
+dual
+116584	sg
+116590	sg
+116592	sg
+116599	dual
+116607	sg
+116618	sg
+116625	sg
+sg
+116630	sg
+116660	sg
+116662	sg
+sg
+116677	sg
+116687	sg
+116698	pl
+116721	sg
+116730	pl
+116736	dual
+116746	dual
+116755	pl
+dual
+116761	pl
+116763	sg
+116771	pl
+116775	sg
+116778	sg
+116783	sg
+116788	sg
+116790	dual
+116793	dual
+116799	sg
+116802	sg
+116809	sg
+116819	sg
+116821	sg
+116826	sg
+116831	sg
+116833	sg
+116861	sg
+116863	sg
+116873	sg
+116880	sg
+116892	dual
+116906	sg
+116914	pl
+116919	sg
+116926	dual
+116931	sg
+116946	sg
+116949	sg
+116958	pl
+116977	sg
+116980	dual
+116993	dual
+117002	pl
+sg
+117006	sg
+117010	sg
+117018	sg
+117028	sg
+sg
+pl
+117052	dual
+117060	sg
+117064	sg
+117082	sg
+117090	sg
+117099	sg
+117108	sg
+117110	sg
+117114	sg
+117119	pl
+117132	sg
+117155	sg
+117161	sg
+sg
+sg
+sg
+117167	pl
+117181	sg
+117185	sg
+117236	sg
+117238	sg
+117244	sg
+117254	sg
+117264	sg
+117269	sg
+117273	dual
+117277	sg
+117286	pl
+117306	sg
+117318	sg
+117322	sg
+117329	dual
+117332	sg
+sg
+sg
+117338	pl
+117342	sg
+117347	sg
+117352	sg
+sg
+117362	sg
+117371	sg
+sg
+117385	dual
+117405	sg
+117411	sg
+117423	dual
+117429	sg
+117434	sg
+sg
+117446	sg
+sg
+117453	dual
+117460	dual
+117464	sg
+117468	sg
+117474	sg
+117477	sg
+117485	sg
+sg
+117493	pl
+117507	sg
+117511	sg
+117513	pl
+117516	sg
+117521	pl
+sg
+sg
+117539	sg
+117553	sg
+117568	pl
+117575	sg
+117577	pl
+117581	sg
+117585	sg
+117587	sg
+117593	sg
+117599	sg
+sg
+117602	pl
+117608	sg
+sg
+117612	sg
+117617	sg
+sg
+117624	dual
+117629	sg
+117632	sg
+117640	sg
+117643	pl
+117650	sg
+117653	sg
+117670	sg
+117673	dual
+117675	sg
+117685	sg
+sg
+sg
+117689	sg
+sg
+117692	sg
+117701	dual
+117714	pl
+117733	sg
+117736	sg
+sg
+117749	sg
+117751	sg
+sg
+sg
+117756	sg
+117762	sg
+117764	sg
+117769	sg
+sg
+117775	sg
+117790	pl
+117793	sg
+117796	pl
+117800	pl
+117811	sg
+117828	sg
+117836	dual
+117843	sg
+117847	dual
+117849	sg
+117852	dual
+117860	sg
+117863	sg
+117869	sg
+117872	sg
+pl
+pl
+117886	sg
+117897	dual
+117903	sg
+117907	sg
+sg
+117923	sg
+117928	dual
+117930	pl
+sg
+117935	pl
+sg
+117942	sg
+117950	dual
+117968	pl
+117972	pl
+sg
+117977	sg
+sg
+117988	sg
+118003	sg
+118008	sg
+118010	pl
+118017	pl
+dual
+118023	sg
+118035	sg
+118038	dual
+118041	sg
+118045	sg
+dual
+sg
+118049	pl
+118051	sg
+118055	sg
+118057	sg
+118075	sg
+118077	dual
+118085	sg
+118088	sg
+118090	sg
+118092	sg
+118097	sg
+dual
+118105	sg
+118107	sg
+sg
+118112	sg
+118114	sg
+118118	sg
+118134	sg
+pl
+dual
+118141	sg
+118147	dual
+118170	sg
+118187	pl
+118205	dual
+118211	pl
+118230	dual
+118236	sg
+118241	dual
+118245	pl
+118249	sg
+118252	sg
+118254	sg
+118258	sg
+118267	sg
+118269	sg
+118279	sg
+dual
+sg
+118287	dual
+sg
+118293	sg
+118299	sg
+118302	sg
+118306	dual
+118308	pl
+118328	sg
+sg
+118335	sg
+118342	sg
+118344	pl
+118346	sg
+118351	pl
+118365	sg
+118369	sg
+118373	dual
+118378	dual
+118380	pl
+118384	sg
+118393	sg
+118399	sg
+118401	sg
+118406	sg
+118409	sg
+sg
+118426	pl
+sg
+sg
+118434	sg
+118440	sg
+sg
+118443	pl
+118445	sg
+118463	sg
+sg
+118468	sg
+sg
+sg
+118472	sg
+118476	sg
+118482	dual
+118488	sg
+118490	sg
+118493	sg
+118496	pl
+118503	sg
+118513	sg
+118515	sg
+sg
+118521	pl
+118523	sg
+118527	pl
+118529	sg
+118534	sg
+118540	sg
+118545	sg
+118547	pl
+118566	sg
+118568	sg
+sg
+sg
+118574	sg
+118581	sg
+118585	sg
+118607	sg
+118611	pl
+118618	pl
+118620	dual
+118622	pl
+dual
+118638	sg
+118642	sg
+118648	sg
+118651	pl
+118669	pl
+118671	sg
+118673	sg
+118675	pl
+118685	sg
+118694	pl
+118698	sg
+118705	pl
+118708	sg
+118710	sg
+118722	sg
+118736	pl
+118744	sg
+sg
+118751	sg
+118761	sg
+pl
+118766	sg
+118769	sg
+118772	sg
+sg
+118780	sg
+118782	sg
+118788	sg
+118813	sg
+118817	sg
+118830	pl
+118838	sg
+118847	sg
+118849	sg
+118856	sg
+118861	sg
+118864	sg
+118873	sg
+118876	sg
+118878	sg
+118887	sg
+118889	sg
+118891	sg
+sg
+118907	sg
+118910	pl
+118915	sg
+sg
+118925	sg
+sg
+118928	pl
+118944	sg
+118950	sg
+118979	pl
+118981	sg
+118990	pl
+119004	sg
+119026	sg
+119031	sg
+119036	sg
+119041	sg
+119049	sg
+119078	sg
+119083	pl
+119086	dual
+sg
+sg
+119100	dual
+119103	sg
+119105	sg
+119111	pl
+119127	sg
+119136	sg
+119138	sg
+119143	sg
+119147	pl
+119150	pl
+119152	sg
+119172	sg
+119204	sg
+119210	sg
+119219	sg
+119237	sg
+119244	sg
+119250	sg
+119253	sg
+119255	sg
+119300	sg
+119302	pl
+119315	sg
+119318	sg
+119334	sg
+119349	dual
+119356	pl
+119359	dual
+pl
+119363	pl
+119365	sg
+sg
+pl
+119369	dual
+sg
+119372	pl
+119376	sg
+119390	sg
+119393	sg
+sg
+119397	sg
+119411	sg
+pl
+dual
+119416	sg
+119434	sg
+119439	sg
+119445	sg
+119447	sg
+119453	sg
+119462	sg
+pl
+119488	sg
+119504	sg
+119508	dual
+119516	sg
+119518	sg
+119525	sg
+119532	sg
+pl
+119547	sg
+pl
+119551	sg
+119568	sg
+119570	pl
+119575	sg
+119577	pl
+119585	sg
+119608	pl
+119610	sg
+sg
+119615	sg
+119617	sg
+119619	sg
+119625	sg
+sg
+119628	sg
+119634	sg
+119636	sg
+119638	sg
+pl
+119650	sg
+119660	sg
+119663	sg
+119670	sg
+119673	sg
+119679	pl
+119683	sg
+119686	sg
+119691	sg
+119694	pl
+119701	pl
+sg
+119708	sg
+119710	pl
+119714	sg
+119716	sg
+119719	sg
+119729	pl
+119733	sg
+119736	dual
+119741	sg
+119743	pl
+119751	sg
+119767	sg
+119771	pl
+119776	sg
+119781	sg
+119783	sg
+119785	dual
+119788	sg
+119802	dual
+119815	sg
+119819	sg
+119823	sg
+119842	sg
+119845	sg
+119856	sg
+119858	sg
+119866	sg
+119868	sg
+119870	sg
+119875	sg
+119877	sg
+sg
+119880	sg
+sg
+119887	sg
+119890	sg
+119894	sg
+119901	sg
+119905	pl
+119913	pl
+119918	pl
+119921	sg
+119934	sg
+119937	sg
+119949	pl
+119953	sg
+119958	sg
+119966	sg
+119975	dual
+119979	pl
+119991	pl
+119998	sg
+120000	sg
+120008	dual
+120011	sg
+sg
+120017	pl
+120041	sg
+120049	pl
+120056	sg
+120061	sg
+120064	sg
+120066	sg
+sg
+120072	sg
+120081	pl
+120085	sg
+120089	pl
+120091	sg
+pl
+120103	sg
+120112	sg
+120124	sg
+120133	sg
+sg
+120136	sg
+120146	sg
+dual
+sg
+dual
+120151	sg
+120153	dual
+120156	sg
+120158	sg
+120163	sg
+dual
+120166	sg
+120170	sg
+120178	sg
+120180	sg
+120189	pl
+120191	sg
+120194	pl
+120199	sg
+120201	dual
+120231	pl
+120237	sg
+120246	sg
+120252	pl
+120254	pl
+120256	sg
+120265	pl
+120270	sg
+120276	pl
+120285	sg
+120289	dual
+120297	sg
+sg
+120305	sg
+120309	sg
+120311	sg
+120313	pl
+120316	pl
+120318	dual
+120320	sg
+120323	sg
+sg
+120329	sg
+sg
+120336	sg
+120341	dual
+pl
+120344	pl
+120348	sg
+120353	sg
+120369	sg
+120379	sg
+120381	sg
+120383	sg
+120391	sg
+120393	sg
+120395	pl
+120401	sg
+120415	pl
+120419	sg
+120425	sg
+120432	pl
+120435	sg
+120437	sg
+120468	pl
+120470	sg
+120475	pl
+120477	sg
+120494	sg
+120516	sg
+120521	sg
+120536	sg
+120549	pl
+120556	sg
+120563	sg
+120574	sg
+120580	sg
+120586	pl
+120588	sg
+120591	pl
+120595	sg
+120601	pl
+120604	pl
+120614	sg
+120616	sg
+120620	sg
+120622	pl
+sg
+120626	sg
+120628	pl
+120641	sg
+120643	pl
+120645	sg
+120649	sg
+sg
+sg
+120655	sg
+120660	sg
+120663	pl
+120667	pl
+120669	dual
+120679	sg
+sg
+120683	sg
+120691	sg
+120699	sg
+120716	sg
+120720	sg
+120722	pl
+120732	sg
+120739	sg
+120744	sg
+120749	pl
+120751	sg
+sg
+120763	pl
+120773	sg
+120776	sg
+120793	sg
+sg
+120796	sg
+120798	sg
+sg
+120802	sg
+120831	pl
+120846	pl
+120851	sg
+120853	pl
+120872	pl
+120876	pl
+120882	sg
+120884	sg
+120886	pl
+120890	pl
+120892	sg
+120898	sg
+120901	pl
+120904	sg
+120907	pl
+120912	sg
+120914	sg
+sg
+120918	pl
+pl
+sg
+120930	sg
+120933	sg
+120936	sg
+sg
+120949	sg
+120953	sg
+120960	sg
+120963	pl
+120966	pl
+120968	dual
+120981	sg
+120989	sg
+120991	sg
+120997	sg
+120999	sg
+121004	sg
+121008	sg
+121013	sg
+pl
+sg
+121021	pl
+121023	sg
+121028	pl
+121031	dual
+121042	sg
+121044	sg
+121051	sg
+121055	pl
+sg
+121058	sg
+121063	sg
+121067	sg
+sg
+sg
+121083	pl
+121086	dual
+dual
+121090	pl
+121103	sg
+121108	sg
+121139	dual
+121141	dual
+121150	sg
+121154	sg
+121156	pl
+121167	pl
+121183	dual
+121227	sg
+121230	sg
+121236	sg
+dual
+121240	sg
+121244	pl
+121246	sg
+121251	sg
+121253	dual
+121259	sg
+sg
+121268	sg
+121275	dual
+sg
+121280	pl
+sg
+sg
+121286	sg
+121290	dual
+121297	dual
+sg
+121302	sg
+121305	sg
+121319	sg
+121322	sg
+121329	sg
+121334	sg
+121339	pl
+121341	pl
+sg
+121347	sg
+121353	sg
+121359	pl
+121364	sg
+sg
+121374	dual
+121376	sg
+121382	sg
+121396	sg
+121400	sg
+121404	sg
+121413	sg
+121415	pl
+121419	sg
+sg
+dual
+121427	sg
+121436	sg
+121439	pl
+121444	pl
+121452	sg
+121465	sg
+121471	sg
+121477	sg
+sg
+121482	sg
+sg
+121490	sg
+121493	pl
+121496	sg
+121499	sg
+121501	pl
+121514	pl
+121527	pl
+121530	dual
+121535	pl
+121541	pl
+121550	pl
+121553	pl
+121556	dual
+121558	sg
+121561	sg
+121570	sg
+sg
+121573	pl
+121577	dual
+sg
+121581	sg
+121587	pl
+121590	pl
+121593	sg
+121598	sg
+121600	pl
+121602	pl
+121606	pl
+121619	pl
+121625	sg
+121635	sg
+121641	sg
+pl
+121644	pl
+sg
+121647	sg
+121650	pl
+121654	sg
+121657	pl
+121661	sg
+121664	sg
+121666	sg
+121669	sg
+121674	sg
+121691	pl
+121693	sg
+121696	sg
+121702	sg
+121711	pl
+121716	pl
+121719	dual
+121737	sg
+121739	sg
+sg
+121750	pl
+121755	sg
+121758	dual
+121762	sg
+121766	pl
+pl
+121772	sg
+121787	dual
+121798	sg
+121803	sg
+sg
+pl
+121810	sg
+121818	sg
+121835	pl
+121838	sg
+dual
+121841	sg
+121852	sg
+121855	pl
+sg
+121860	sg
+121863	pl
+121867	pl
+121869	sg
+121871	sg
+sg
+121877	pl
+121884	pl
+sg
+121894	sg
+121898	sg
+121900	sg
+121909	pl
+sg
+121915	sg
+121927	pl
+121932	sg
+sg
+121944	sg
+121950	sg
+121968	pl
+121974	sg
+sg
+121985	sg
+121988	pl
+121990	sg
+121993	sg
+121996	pl
+122001	sg
+122007	sg
+122012	sg
+122018	sg
+122025	sg
+122032	pl
+122038	pl
+122046	sg
+122050	sg
+sg
+pl
+122068	sg
+122076	dual
+122087	sg
+122090	pl
+122094	pl
+122096	sg
+122105	sg
+sg
+122108	sg
+sg
+122112	sg
+122114	sg
+122116	sg
+122120	sg
+sg
+122123	sg
+sg
+122126	pl
+pl
+122129	pl
+122132	sg
+122137	sg
+122143	sg
+122145	pl
+122155	sg
+sg
+122158	sg
+122165	sg
+sg
+sg
+122169	pl
+122173	sg
+122175	sg
+sg
+122185	sg
+sg
+122191	sg
+122193	dual
+122195	sg
+122204	pl
+122207	sg
+sg
+122211	sg
+122223	dual
+122228	sg
+122231	sg
+122233	sg
+122235	sg
+122237	sg
+122241	pl
+sg
+122249	pl
+122260	sg
+122267	sg
+sg
+122271	sg
+122276	sg
+pl
+122279	sg
+122281	sg
+122286	sg
+122288	dual
+sg
+sg
+122296	sg
+122302	pl
+122304	sg
+122306	dual
+122309	pl
+dual
+122319	sg
+sg
+dual
+pl
+122330	sg
+122338	pl
+122341	sg
+122343	sg
+122353	pl
+122355	sg
+sg
+122366	sg
+sg
+122372	sg
+122377	sg
+122379	pl
+122394	pl
+122407	sg
+122409	sg
+122417	sg
+122421	sg
+122426	sg
+122428	sg
+122434	sg
+sg
+sg
+122441	sg
+122443	sg
+122445	pl
+122453	sg
+sg
+122463	pl
+sg
+122468	sg
+122475	pl
+122477	sg
+122479	dual
+sg
+122482	sg
+122486	sg
+122491	sg
+sg
+122503	sg
+122507	sg
+sg
+sg
+122519	sg
+122523	sg
+122529	sg
+122533	sg
+122542	pl
+122547	sg
+122549	sg
+122554	sg
+122564	pl
+122572	sg
+122574	pl
+122577	sg
+122582	sg
+122585	dual
+122587	sg
+122589	sg
+122591	sg
+sg
+122595	sg
+122608	pl
+122611	sg
+122619	sg
+122623	sg
+122631	sg
+pl
+122637	sg
+122645	sg
+122650	sg
+sg
+122654	sg
+122658	sg
+122661	sg
+122666	pl
+sg
+122673	sg
+sg
+122681	sg
+122689	sg
+122696	sg
+122706	pl
+122712	pl
+122717	sg
+122719	pl
+sg
+pl
+sg
+122724	sg
+dual
+122727	sg
+122738	sg
+sg
+122748	pl
+122750	sg
+122752	pl
+122759	sg
+122768	sg
+122771	sg
+sg
+122774	pl
+122777	pl
+122779	sg
+pl
+122783	pl
+sg
+122795	sg
+122798	sg
+122805	sg
+dual
+122808	sg
+122814	sg
+122817	sg
+122823	sg
+122830	pl
+122832	sg
+122842	pl
+122846	pl
+122872	pl
+122876	sg
+122902	sg
+pl
+122911	sg
+122913	pl
+122915	sg
+122917	sg
+pl
+122922	sg
+122926	dual
+122929	sg
+sg
+sg
+sg
+122939	sg
+122947	sg
+122950	sg
+122959	sg
+122971	pl
+122973	sg
+122977	sg
+122980	sg
+122984	sg
+sg
+122988	sg
+122990	sg
+pl
+122997	sg
+122999	dual
+123007	pl
+123009	sg
+123011	pl
+123021	sg
+123027	sg
+123039	sg
+123047	sg
+123052	sg
+123056	sg
+123066	sg
+123069	sg
+123073	pl
+123075	sg
+123085	sg
+123096	sg
+123098	sg
+123102	sg
+sg
+123107	sg
+123110	dual
+sg
+123116	sg
+123118	sg
+sg
+123122	sg
+123125	dual
+123136	sg
+123139	sg
+123145	pl
+123157	pl
+123159	sg
+123166	pl
+123170	pl
+123172	sg
+123176	pl
+123179	sg
+123183	sg
+123186	pl
+123188	sg
+123197	sg
+123223	sg
+123228	sg
+123235	sg
+123237	sg
+123241	sg
+pl
+123248	sg
+123255	sg
+sg
+123260	sg
+sg
+123265	sg
+123269	pl
+sg
+123272	sg
+123274	pl
+123276	sg
+123278	sg
+123281	sg
+123297	sg
+123301	sg
+sg
+123304	sg
+123309	sg
+123324	sg
+123337	sg
+123344	pl
+pl
+123353	sg
+sg
+123358	sg
+123361	pl
+123366	pl
+123369	sg
+123380	sg
+123385	sg
+123387	sg
+123391	sg
+123394	sg
+123396	sg
+123398	sg
+123404	sg
+123409	sg
+123411	pl
+123413	sg
+123416	sg
+123418	sg
+sg
+123422	sg
+123427	sg
+123436	dual
+123438	sg
+123442	sg
+123446	sg
+123451	sg
+123457	pl
+sg
+123461	pl
+123464	sg
+pl
+123467	sg
+123469	pl
+123472	sg
+123479	sg
+123481	sg
+123483	pl
+123485	sg
+123489	sg
+123494	sg
+123498	sg
+123517	sg
+123526	sg
+123542	sg
+sg
+123545	sg
+123547	sg
+123555	sg
+123558	sg
+123564	sg
+123571	sg
+123575	sg
+123577	sg
+123589	pl
+sg
+123594	pl
+123597	sg
+123604	sg
+123609	pl
+123612	sg
+123615	sg
+123618	sg
+123621	sg
+123627	sg
+sg
+sg
+123641	sg
+123643	pl
+123645	pl
+123652	pl
+123658	sg
+123660	pl
+123666	pl
+123669	sg
+123672	sg
+123675	sg
+123684	sg
+123694	sg
+123696	sg
+dual
+pl
+sg
+123701	pl
+sg
+123706	dual
+123725	sg
+123727	sg
+123729	sg
+123735	sg
+sg
+sg
+sg
+123742	sg
+123747	sg
+pl
+123750	pl
+123752	sg
+123757	pl
+123761	pl
+123764	sg
+123767	sg
+sg
+123770	pl
+123786	sg
+sg
+pl
+123799	sg
+123802	pl
+123808	sg
+sg
+123813	sg
+123815	pl
+123820	sg
+123822	sg
+123826	sg
+sg
+123829	dual
+123831	pl
+123833	pl
+123836	dual
+123842	dual
+123847	sg
+sg
+sg
+123851	sg
+123854	dual
+sg
+123858	pl
+123862	dual
+123865	pl
+123874	sg
+123881	sg
+123883	pl
+123889	sg
+123893	sg
+123899	sg
+123905	sg
+123925	sg
+123928	pl
+123936	sg
+sg
+123940	sg
+sg
+123943	sg
+123960	sg
+123970	sg
+123978	sg
+123983	pl
+123986	sg
+123988	sg
+pl
+123991	sg
+sg
+123996	sg
+123998	sg
+124011	pl
+sg
+124025	sg
+124038	sg
+sg
+124044	sg
+124064	pl
+124067	sg
+sg
+124070	sg
+124073	sg
+124075	sg
+124078	sg
+124082	pl
+sg
+124085	sg
+124087	sg
+124095	sg
+124104	sg
+124115	sg
+pl
+124123	sg
+124126	sg
+124131	pl
+pl
+124140	pl
+124142	sg
+sg
+124152	sg
+124155	sg
+124157	pl
+124165	sg
+124168	sg
+sg
+124176	sg
+sg
+124188	pl
+124192	pl
+124207	pl
+124216	pl
+124222	sg
+124230	sg
+124237	sg
+124241	sg
+pl
+124245	sg
+sg
+sg
+124250	sg
+124254	sg
+124258	sg
+124267	sg
+124269	pl
+124274	sg
+124281	sg
+124283	sg
+124290	sg
+124301	pl
+124303	pl
+sg
+pl
+sg
+124310	sg
+sg
+124317	sg
+pl
+124325	sg
+124328	sg
+124334	sg
+124336	sg
+124351	pl
+sg
+124359	sg
+124362	sg
+124383	pl
+124385	sg
+124394	pl
+124409	pl
+124412	pl
+124431	sg
+124434	sg
+sg
+124444	sg
+124455	sg
+124463	sg
+124471	sg
+124473	sg
+124477	sg
+124484	sg
+124487	sg
+124490	dual
+124495	sg
+124497	sg
+124501	sg
+124506	pl
+124509	dual
+sg
+sg
+124513	pl
+124516	sg
+124539	pl
+124543	pl
+124548	sg
+124550	sg
+124555	pl
+sg
+124560	sg
+124563	sg
+124565	sg
+124573	sg
+sg
+124582	sg
+124586	sg
+124591	sg
+124600	sg
+124610	sg
+124615	sg
+124620	sg
+124630	sg
+124643	sg
+124653	sg
+124656	sg
+124667	sg
+pl
+124684	sg
+pl
+sg
+124688	sg
+124691	sg
+124694	sg
+124697	sg
+sg
+124701	pl
+sg
+124705	sg
+sg
+sg
+124713	sg
+124715	sg
+124718	sg
+124720	sg
+sg
+124725	sg
+sg
+sg
+124732	pl
+124737	dual
+124745	pl
+124747	sg
+124755	pl
+124759	sg
+124762	sg
+pl
+124766	sg
+124771	pl
+124775	sg
+124783	pl
+124787	sg
+124791	pl
+124799	sg
+124803	sg
+sg
+124807	pl
+124812	sg
+124821	pl
+124825	pl
+124827	sg
+124836	pl
+dual
+sg
+124846	sg
+pl
+124857	pl
+124863	sg
+124867	sg
+124869	pl
+124874	sg
+124876	sg
+sg
+124881	sg
+124884	sg
+124888	sg
+pl
+124892	sg
+124901	sg
+124903	pl
+124907	sg
+124911	sg
+124923	pl
+pl
+124928	sg
+124930	sg
+124936	pl
+124941	pl
+124943	pl
+124948	pl
+124950	sg
+124963	sg
+124966	sg
+124974	sg
+124977	sg
+124987	pl
+pl
+124995	pl
+125000	dual
+sg
+125011	sg
+125016	pl
+125018	pl
+sg
+125040	sg
+125043	sg
+125047	sg
+125054	pl
+125057	dual
+125061	pl
+sg
+125066	sg
+125072	sg
+pl
+125077	sg
+sg
+125082	sg
+125088	pl
+125097	pl
+125101	sg
+pl
+125105	pl
+125107	sg
+125109	sg
+dual
+125116	sg
+sg
+125124	sg
+sg
+125132	sg
+125135	sg
+125145	sg
+125151	pl
+125167	dual
+125181	sg
+125183	sg
+125193	pl
+125197	sg
+125209	sg
+pl
+125230	sg
+pl
+125234	sg
+125239	pl
+125242	pl
+125252	pl
+125264	pl
+125266	pl
+125269	sg
+125276	sg
+125291	pl
+125296	pl
+sg
+125302	sg
+125305	pl
+125310	sg
+pl
+125315	pl
+125318	dual
+125322	sg
+pl
+125330	sg
+pl
+125336	sg
+125338	pl
+sg
+125345	pl
+125353	pl
+125356	sg
+125362	sg
+125364	pl
+sg
+125369	sg
+125371	pl
+125375	dual
+125379	sg
+125381	sg
+125387	sg
+125399	sg
+125404	sg
+125409	dual
+125411	sg
+125417	sg
+125428	sg
+125432	sg
+125434	sg
+125436	sg
+sg
+sg
+125441	sg
+sg
+125459	sg
+125463	sg
+125469	sg
+sg
+125473	sg
+125478	sg
+125487	sg
+125496	pl
+125500	pl
+125503	pl
+125505	pl
+125508	pl
+125516	pl
+125523	sg
+125552	sg
+125560	sg
+125567	pl
+125569	sg
+125571	pl
+125595	pl
+125599	sg
+125602	pl
+125615	sg
+125617	pl
+125636	sg
+125646	sg
+125649	sg
+125652	sg
+125656	sg
+125658	pl
+125667	sg
+125669	sg
+125679	sg
+125687	sg
+125689	pl
+125694	sg
+125698	dual
+125704	sg
+125712	sg
+125719	pl
+125721	sg
+125723	pl
+125734	sg
+125748	sg
+125754	sg
+125757	pl
+125762	pl
+125769	sg
+125771	pl
+125797	sg
+125807	sg
+125812	sg
+125820	sg
+125826	sg
+125828	sg
+dual
+125832	sg
+125838	sg
+125841	sg
+125847	sg
+125850	sg
+125855	sg
+125859	sg
+125861	dual
+125864	sg
+125866	dual
+125869	sg
+125873	sg
+125879	sg
+125883	sg
+125897	pl
+125905	sg
+125917	dual
+125920	sg
+sg
+dual
+125927	sg
+125931	sg
+sg
+125937	pl
+125942	sg
+sg
+125947	pl
+125952	sg
+sg
+125966	pl
+125971	sg
+125973	sg
+125976	pl
+125981	sg
+125985	sg
+125987	sg
+126002	sg
+126004	pl
+126015	sg
+dual
+126023	sg
+126025	sg
+sg
+126031	pl
+126036	sg
+126040	pl
+126047	pl
+126055	sg
+126057	sg
+126059	sg
+126061	sg
+126068	sg
+sg
+126074	sg
+126076	sg
+126083	sg
+126086	sg
+126097	dual
+dual
+pl
+126101	pl
+126113	sg
+126116	sg
+126118	pl
+126123	pl
+126132	sg
+126142	sg
+126144	pl
+126149	pl
+126156	sg
+126158	dual
+126160	sg
+126163	sg
+126169	sg
+126178	sg
+126182	sg
+126184	sg
+126190	sg
+126197	sg
+126202	sg
+126225	sg
+126236	pl
+126247	dual
+126261	sg
+126266	sg
+126268	sg
+126274	sg
+126277	sg
+126284	pl
+126289	sg
+126291	pl
+126295	sg
+126298	sg
+126303	sg
+126306	sg
+126311	sg
+126314	sg
+126318	sg
+126322	sg
+126328	sg
+126330	sg
+126332	pl
+126342	sg
+126353	sg
+126359	sg
+126364	sg
+126373	sg
+sg
+126376	sg
+126381	sg
+126386	sg
+sg
+126390	sg
+sg
+pl
+126397	pl
+sg
+126401	sg
+126405	pl
+126417	pl
+126424	pl
+126427	pl
+126440	sg
+sg
+126448	sg
+126453	sg
+126465	sg
+126467	sg
+126471	pl
+126474	sg
+126481	sg
+126485	sg
+126491	sg
+126496	sg
+126498	sg
+126504	pl
+126523	sg
+126527	sg
+sg
+sg
+126536	sg
+126544	sg
+126546	pl
+126551	sg
+sg
+126554	sg
+126556	sg
+126558	sg
+126569	sg
+126576	sg
+126581	sg
+sg
+126592	sg
+126594	sg
+sg
+126610	sg
+126615	sg
+126618	sg
+126627	pl
+dual
+126631	sg
+126634	sg
+pl
+126640	pl
+126645	sg
+126647	sg
+126666	sg
+sg
+126674	sg
+126681	sg
+126685	sg
+126688	sg
+126698	sg
+126727	pl
+126733	dual
+126737	sg
+126748	sg
+126750	sg
+126754	sg
+126763	sg
+126772	sg
+126777	sg
+126781	sg
+126785	sg
+sg
+126802	sg
+126811	sg
+126820	sg
+126824	pl
+126835	sg
+126838	sg
+126843	sg
+126847	sg
+126851	sg
+126854	pl
+126860	sg
+126863	sg
+126867	sg
+126869	sg
+sg
+126880	sg
+126885	sg
+126888	sg
+126890	sg
+pl
+126894	sg
+126896	sg
+126898	pl
+126901	dual
+126903	dual
+126907	sg
+126909	sg
+126918	sg
+126920	sg
+126929	pl
+126935	sg
+126937	sg
+sg
+126940	pl
+126944	pl
+126948	pl
+126955	sg
+126963	sg
+sg
+126972	pl
+126976	sg
+126986	pl
+126992	sg
+126996	pl
+127022	pl
+127030	pl
+127033	sg
+127037	sg
+127039	pl
+127044	sg
+127047	sg
+127050	pl
+dual
+127053	pl
+127055	pl
+127057	pl
+127060	sg
+127062	sg
+127067	sg
+127071	pl
+sg
+127075	pl
+127077	sg
+127079	sg
+127083	pl
+127085	sg
+127087	sg
+127092	sg
+sg
+127096	pl
+127100	pl
+127105	sg
+127107	pl
+127111	pl
+sg
+127114	sg
+127120	pl
+127126	sg
+127144	pl
+127149	sg
+127152	sg
+127156	sg
+127172	dual
+127174	sg
+127177	pl
+127180	sg
+127188	sg
+sg
+127191	sg
+127204	sg
+127219	sg
+127225	pl
+127227	pl
+127231	sg
+127237	dual
+sg
+pl
+127243	dual
+127247	sg
+127260	sg
+127265	dual
+127269	sg
+127274	sg
+127279	sg
+127281	pl
+pl
+127292	sg
+127294	sg
+127297	sg
+127302	sg
+127304	pl
+127308	pl
+sg
+127313	sg
+127317	dual
+127322	pl
+sg
+pl
+sg
+127328	sg
+sg
+sg
+127335	sg
+pl
+127338	sg
+127340	sg
+pl
+sg
+127344	pl
+pl
+127347	pl
+127349	sg
+127370	pl
+127374	sg
+127379	pl
+127382	sg
+dual
+127385	sg
+127387	sg
+127389	dual
+127391	dual
+sg
+sg
+127396	sg
+127414	sg
+127416	pl
+127421	sg
+127428	sg
+127435	sg
+127444	pl
+127454	sg
+sg
+127457	dual
+127460	sg
+127464	dual
+127467	sg
+sg
+127480	sg
+sg
+127484	sg
+sg
+127488	sg
+127493	sg
+127509	pl
+127513	sg
+127516	sg
+127520	pl
+127523	sg
+sg
+127529	pl
+127540	sg
+sg
+sg
+127545	sg
+127549	sg
+127552	sg
+sg
+pl
+127556	sg
+127563	sg
+sg
+127566	sg
+127568	sg
+127576	sg
+127596	sg
+127599	pl
+127601	sg
+127604	pl
+sg
+127618	pl
+127620	sg
+127626	sg
+127635	pl
+127640	sg
+127646	sg
+127668	sg
+sg
+sg
+sg
+sg
+127678	pl
+127684	dual
+127686	sg
+pl
+127701	sg
+127704	sg
+127714	sg
+127717	sg
+127727	sg
+127729	sg
+127734	sg
+127736	sg
+127738	sg
+127741	sg
+127743	sg
+127748	sg
+sg
+127760	pl
+sg
+127763	sg
+127776	sg
+127789	pl
+127795	sg
+127802	sg
+127809	sg
+127812	sg
+127827	sg
+sg
+127830	sg
+127832	sg
+pl
+127835	sg
+127837	sg
+127843	sg
+127849	sg
+127870	sg
+sg
+127877	sg
+sg
+127880	sg
+sg
+127883	sg
+127887	pl
+127895	pl
+127904	sg
+127914	sg
+127916	sg
+127920	sg
+127924	sg
+dual
+127927	sg
+127929	sg
+sg
+sg
+127935	sg
+127943	sg
+127947	sg
+127950	sg
+127958	sg
+127960	dual
+sg
+127964	sg
+127968	dual
+127981	sg
+127986	sg
+127993	sg
+128001	dual
+128016	pl
+128018	pl
+128026	sg
+128034	sg
+sg
+pl
+128043	sg
+128045	pl
+128051	sg
+128054	pl
+128060	sg
+sg
+128064	sg
+128067	sg
+sg
+128075	sg
+pl
+128085	sg
+128089	sg
+128094	sg
+sg
+128115	sg
+128118	sg
+sg
+128127	sg
+sg
+128135	sg
+128150	sg
+128152	pl
+128164	dual
+128168	sg
+128179	pl
+128182	sg
+128192	sg
+128199	sg
+sg
+128202	sg
+pl
+128205	sg
+128208	sg
+128211	sg
+128214	sg
+128217	sg
+128219	sg
+128227	sg
+128232	sg
+128238	pl
+sg
+128241	sg
+128258	sg
+128260	sg
+sg
+128263	sg
+128265	sg
+128272	sg
+128275	pl
+128287	sg
+128290	sg
+128293	pl
+128319	sg
+128337	pl
+128349	sg
+128354	sg
+sg
+128357	sg
+128363	sg
+128367	sg
+128373	dual
+128376	sg
+128379	sg
+128388	sg
+128393	pl
+128398	sg
+128401	sg
+128407	sg
+128411	sg
+128415	sg
+128422	sg
+128424	dual
+sg
+128427	pl
+128433	pl
+128441	pl
+128443	pl
+sg
+dual
+128447	sg
+128454	sg
+128458	sg
+pl
+128462	sg
+128473	pl
+128476	pl
+128479	dual
+128486	sg
+sg
+128489	sg
+128492	sg
+sg
+128502	sg
+128504	dual
+pl
+128508	sg
+128512	sg
+128514	sg
+128516	sg
+sg
+128522	sg
+128525	sg
+128527	pl
+128530	dual
+128534	dual
+sg
+128538	sg
+128544	sg
+128554	sg
+128563	sg
+sg
+128569	sg
+sg
+128572	dual
+sg
+128584	sg
+sg
+128591	sg
+128599	pl
+128606	sg
+128612	dual
+128615	sg
+128622	sg
+128630	sg
+128634	sg
+128637	sg
+128643	sg
+128649	sg
+128653	sg
+128659	sg
+128661	sg
+sg
+128668	sg
+128670	dual
+sg
+128673	sg
+128680	sg
+128682	sg
+128705	pl
+128713	pl
+128717	sg
+128719	sg
+128721	sg
+128724	pl
+128736	pl
+128738	sg
+128745	pl
+128753	pl
+sg
+128756	sg
+128760	sg
+128763	sg
+128773	sg
+128779	sg
+128800	pl
+128805	sg
+128809	sg
+128815	sg
+128817	dual
+sg
+128822	sg
+128824	sg
+128832	sg
+128835	pl
+128837	sg
+sg
+dual
+128843	sg
+128853	sg
+128855	dual
+128857	sg
+dual
+sg
+sg
+128862	pl
+sg
+sg
+128866	sg
+128873	dual
+128879	sg
+128882	sg
+128892	sg
+128896	sg
+128901	sg
+128904	sg
+sg
+128911	sg
+128914	sg
+128916	pl
+128922	dual
+128932	sg
+128937	sg
+128940	sg
+128943	pl
+128946	dual
+128949	pl
+128951	sg
+128966	dual
+sg
+128971	pl
+128985	sg
+sg
+128988	sg
+128994	dual
+128999	sg
+129010	dual
+129012	dual
+129016	sg
+129018	pl
+129030	sg
+129036	sg
+129039	sg
+129045	sg
+129047	dual
+sg
+129050	sg
+dual
+129055	sg
+129060	sg
+sg
+dual
+129066	pl
+129076	dual
+sg
+sg
+129084	sg
+129087	pl
+129089	sg
+129098	sg
+129100	sg
+sg
+129105	sg
+129112	pl
+pl
+sg
+129117	sg
+pl
+129123	sg
+129126	dual
+129130	pl
+129132	sg
+129134	sg
+129136	sg
+129139	sg
+129144	sg
+129148	sg
+129158	sg
+129162	pl
+129167	pl
+129169	sg
+129172	sg
+129178	sg
+129181	sg
+129187	sg
+129189	dual
+sg
+129196	sg
+129204	sg
+129206	sg
+129209	sg
+sg
+sg
+dual
+129214	sg
+129216	pl
+sg
+sg
+129222	sg
+129226	pl
+pl
+129240	sg
+sg
+129248	pl
+129255	sg
+129257	sg
+sg
+129261	pl
+129263	pl
+pl
+129266	sg
+sg
+129281	sg
+129283	sg
+129295	sg
+sg
+129304	sg
+129306	pl
+129309	sg
+129312	sg
+129314	sg
+sg
+129322	sg
+129325	sg
+129331	sg
+129337	sg
+129345	sg
+129354	sg
+129357	sg
+129364	pl
+129366	sg
+129372	sg
+129375	sg
+129381	sg
+129383	dual
+sg
+129386	sg
+129388	pl
+129398	sg
+sg
+sg
+dual
+129409	sg
+129423	sg
+129431	sg
+129440	sg
+129457	sg
+sg
+pl
+129461	sg
+129470	sg
+129472	sg
+129480	sg
+129486	sg
+129491	sg
+sg
+dual
+129499	sg
+sg
+129504	sg
+129507	sg
+129509	sg
+129514	sg
+129516	sg
+129521	sg
+129527	sg
+129529	sg
+129534	sg
+129540	sg
+129553	sg
+129559	sg
+129566	sg
+129576	dual
+129583	sg
+pl
+sg
+129588	sg
+sg
+dual
+sg
+129600	sg
+129614	sg
+129621	sg
+129625	sg
+129633	pl
+129639	pl
+129646	sg
+129653	sg
+129663	sg
+129669	pl
+129672	sg
+129674	dual
+129678	sg
+129680	pl
+129686	pl
+129698	sg
+129708	sg
+sg
+129715	sg
+129721	sg
+129725	sg
+129730	sg
+129734	dual
+129736	sg
+129741	sg
+sg
+129748	pl
+129754	pl
+129758	sg
+129761	sg
+129767	sg
+129774	sg
+129776	pl
+dual
+sg
+sg
+129781	sg
+129791	sg
+129797	sg
+pl
+129801	pl
+129808	pl
+129811	sg
+129817	pl
+129821	pl
+129828	sg
+129832	sg
+129835	sg
+129838	sg
+129844	sg
+dual
+129848	dual
+129850	sg
+sg
+129855	sg
+129879	sg
+129902	sg
+129929	sg
+129933	sg
+129936	sg
+129941	dual
+129953	sg
+129972	sg
+129978	pl
+129980	dual
+129984	sg
+129986	sg
+sg
+129996	pl
+130002	sg
+130007	dual
+130009	sg
+130011	sg
+pl
+130015	pl
+pl
+130023	sg
+130032	sg
+130035	pl
+130057	sg
+130072	sg
+pl
+130077	pl
+130086	sg
+130098	sg
+130108	sg
+130126	sg
+130128	sg
+130143	sg
+130152	dual
+130170	sg
+130173	sg
+130177	sg
+130183	dual
+130185	sg
+sg
+sg
+130189	sg
+130191	pl
+130194	sg
+130214	sg
+sg
+130220	sg
+130228	sg
+130236	sg
+130239	sg
+sg
+130249	sg
+sg
+130274	pl
+130280	sg
+130289	dual
+sg
+130296	sg
+130304	sg
+130319	pl
+130321	sg
+130326	sg
+130330	sg
+130336	sg
+130347	sg
+130353	sg
+130359	sg
+130374	sg
+130392	sg
+130395	sg
+130402	sg
+130409	dual
+130413	sg
+130415	dual
+130421	sg
+sg
+130425	pl
+sg
+130434	sg
+130436	sg
+130439	sg
+130442	pl
+130459	sg
+pl
+130463	sg
+sg
+130467	sg
+130470	sg
+130476	sg
+130499	sg
+130504	sg
+130507	sg
+pl
+sg
+130514	sg
+130519	sg
+130536	sg
+130540	sg
+130545	sg
+130548	sg
+130551	sg
+130554	sg
+sg
+130563	sg
+dual
+130567	sg
+130569	sg
+130573	pl
+130581	sg
+130584	sg
+130586	sg
+130595	sg
+130601	sg
+130605	sg
+130609	sg
+130626	sg
+130651	sg
+130654	sg
+130658	sg
+130666	sg
+130672	pl
+130681	dual
+sg
+130686	sg
+130688	sg
+sg
+130692	sg
+130694	sg
+130708	sg
+130712	dual
+130776	sg
+130780	sg
+130788	sg
+130792	pl
+130794	pl
+130798	pl
+130803	sg
+130812	sg
+130819	sg
+130830	sg
+130844	pl
+pl
+130849	dual
+sg
+130857	sg
+130862	sg
+130871	sg
+130880	sg
+sg
+130886	sg
+sg
+130893	pl
+130896	sg
+130901	sg
+sg
+130910	sg
+130915	sg
+130919	sg
+130939	dual
+130942	pl
+130946	sg
+130950	pl
+130963	sg
+130967	pl
+130970	pl
+130986	sg
+130993	sg
+130997	sg
+sg
+131000	sg
+131004	sg
+131009	sg
+131017	sg
+131028	pl
+pl
+131031	sg
+131038	sg
+131047	sg
+131049	pl
+131056	sg
+131060	sg
+131066	pl
+131068	pl
+131080	sg
+131085	pl
+131087	sg
+131104	sg
+131109	sg
+131116	sg
+sg
+131120	sg
+131129	sg
+131135	sg
+131138	dual
+131143	sg
+131156	sg
+131163	sg
+131175	sg
+131195	dual
+131204	sg
+131210	sg
+131213	sg
+131218	pl
+131220	sg
+131225	sg
+131229	sg
+131231	sg
+131245	sg
+sg
+131255	sg
+131258	sg
+131268	sg
+131278	sg
+131286	sg
+131288	sg
+131295	pl
+sg
+131306	sg
+131318	sg
+131323	sg
+sg
+131328	sg
+131338	sg
+131340	sg
+131386	sg
+131392	sg
+131395	sg
+sg
+sg
+131405	pl
+131416	sg
+131426	sg
+131429	sg
+131440	sg
+131448	sg
+131450	sg
+131457	pl
+sg
+sg
+131465	pl
+131468	pl
+131477	dual
+131481	pl
+131484	sg
+131492	sg
+pl
+131496	dual
+sg
+131500	sg
+131507	sg
+131509	sg
+131520	sg
+131525	sg
+131533	sg
+131537	pl
+sg
+131548	sg
+131550	sg
+131553	sg
+131572	sg
+sg
+131579	sg
+131586	sg
+131598	sg
+131602	sg
+131604	pl
+131606	sg
+pl
+131612	sg
+131615	sg
+131629	sg
+131632	sg
+131634	sg
+131636	pl
+131638	pl
+131640	sg
+131700	sg
+131703	sg
+131719	sg
+131728	sg
+131745	pl
+131754	sg
+131758	pl
+131771	sg
+131775	pl
+dual
+dual
+131779	dual
+131781	dual
+131784	dual
+sg
+131787	dual
+pl
+131790	dual
+sg
+131793	dual
+131795	dual
+131825	sg
+131833	sg
+131838	sg
+131851	sg
+131855	sg
+131858	sg
+131871	sg
+131883	sg
+131886	sg
+pl
+131894	sg
+131898	sg
+131903	sg
+131911	sg
+pl
+131914	dual
+131918	sg
+131923	sg
+131942	sg
+131950	sg
+131960	dual
+131967	dual
+131974	dual
+131998	sg
+132003	sg
+132006	sg
+132013	sg
+132017	sg
+132019	pl
+132045	pl
+132052	sg
+132054	sg
+132060	sg
+132067	sg
+132085	sg
+132102	pl
+132104	sg
+132107	sg
+132109	sg
+132117	sg
+132121	sg
+132123	pl
+132130	sg
+132145	sg
+132161	pl
+sg
+132172	pl
+sg
+sg
+132183	sg
+132187	sg
+132189	pl
+132191	sg
+132200	sg
+132215	sg
+132217	sg
+132219	sg
+132225	sg
+132234	sg
+132239	sg
+132243	sg
+132246	sg
+132253	sg
+132256	sg
+132265	sg
+132267	pl
+132271	sg
+132276	sg
+132287	pl
+132301	sg
+132310	sg
+132312	pl
+132318	sg
+132323	dual
+132327	pl
+132329	sg
+132332	sg
+132344	pl
+132348	sg
+132350	sg
+132361	sg
+132368	sg
+132381	sg
+132392	sg
+132395	pl
+132399	sg
+132408	sg
+132411	sg
+132421	dual
+132424	sg
+132435	sg
+132441	sg
+132445	sg
+132451	sg
+132455	sg
+132458	sg
+132466	sg
+132473	dual
+132477	sg
+sg
+132481	sg
+132484	sg
+sg
+132491	sg
+pl
+132495	sg
+pl
+132498	sg
+132504	pl
+132506	dual
+sg
+132515	sg
+sg
+132525	sg
+132530	sg
+132536	dual
+132542	sg
+sg
+132548	sg
+132555	sg
+sg
+132567	sg
+132584	sg
+132606	sg
+132610	sg
+132612	sg
+132626	sg
+132628	sg
+132636	sg
+132656	sg
+pl
+132660	sg
+132665	sg
+132675	pl
+132677	sg
+132681	sg
+132683	sg
+132687	sg
+132692	pl
+132694	pl
+132706	sg
+132710	sg
+132715	dual
+132727	sg
+132736	sg
+sg
+132739	sg
+132741	sg
+132747	sg
+132752	sg
+sg
+132756	sg
+132765	sg
+132775	pl
+132778	sg
+132795	pl
+132809	sg
+132814	sg
+132818	sg
+132831	pl
+132841	dual
+132843	sg
+sg
+132847	sg
+132849	sg
+132857	sg
+132861	pl
+132863	sg
+sg
+pl
+132870	pl
+132872	dual
+132878	dual
+132888	sg
+132891	sg
+dual
+132894	pl
+sg
+132897	sg
+132913	sg
+132920	sg
+sg
+132925	pl
+132928	sg
+132950	sg
+sg
+132953	sg
+sg
+132963	sg
+132966	sg
+132968	sg
+132979	sg
+132988	sg
+133003	pl
+133009	pl
+133017	pl
+133027	sg
+133036	sg
+133049	sg
+133054	sg
+pl
+pl
+133058	sg
+133065	sg
+133067	sg
+133078	sg
+133081	sg
+sg
+sg
+133085	sg
+133089	sg
+133101	pl
+133110	sg
+133120	sg
+133126	sg
+133131	sg
+133134	sg
+133136	sg
+133144	sg
+133153	sg
+133158	sg
+133166	pl
+pl
+133173	sg
+133175	sg
+133183	sg
+133187	sg
+133208	sg
+133210	sg
+133215	sg
+133217	sg
+133222	pl
+133226	pl
+133229	sg
+133250	sg
+133254	sg
+133259	sg
+133261	sg
+133263	sg
+133269	sg
+133282	sg
+sg
+133286	sg
+pl
+133295	dual
+133300	pl
+133303	sg
+133306	sg
+sg
+sg
+pl
+133312	sg
+133321	pl
+133323	sg
+133325	sg
+133331	sg
+133334	sg
+133336	pl
+133340	sg
+133343	sg
+133345	sg
+133348	pl
+133352	sg
+133358	dual
+dual
+133361	sg
+133365	pl
+133367	sg
+pl
+133370	pl
+133379	sg
+133381	pl
+133394	sg
+133397	sg
+133399	sg
+133401	sg
+133403	sg
+133406	sg
+133412	sg
+133415	sg
+133430	sg
+133433	sg
+133443	pl
+133454	pl
+133456	sg
+sg
+133460	sg
+133466	sg
+133478	sg
+sg
+133484	sg
+133487	sg
+133496	sg
+133499	sg
+133506	sg
+133527	sg
+133534	sg
+133537	sg
+133542	sg
+133558	pl
+133560	pl
+133564	pl
+133576	pl
+sg
+133584	sg
+133591	pl
+133593	sg
+133600	sg
+133606	sg
+133628	sg
+133636	sg
+sg
+133652	pl
+133655	pl
+133657	sg
+133661	sg
+133663	sg
+133665	sg
+133674	pl
+133685	sg
+sg
+sg
+133692	pl
+sg
+sg
+133701	sg
+133703	sg
+133709	dual
+133711	sg
+133717	pl
+133719	sg
+133723	sg
+133725	sg
+133735	sg
+133747	sg
+133749	sg
+133751	sg
+133754	sg
+133759	sg
+133767	pl
+sg
+sg
+133771	pl
+133780	sg
+133788	pl
+133791	sg
+133794	sg
+133812	sg
+133814	sg
+133819	sg
+133824	sg
+133829	sg
+133832	sg
+sg
+sg
+sg
+133837	sg
+133840	sg
+sg
+133848	sg
+133850	dual
+133854	sg
+133857	sg
+133860	sg
+133868	sg
+133870	sg
+sg
+133877	pl
+133885	sg
+133891	sg
+133894	sg
+133904	sg
+133935	sg
+133941	sg
+133946	sg
+133951	sg
+133959	sg
+sg
+133966	sg
+133974	pl
+133976	sg
+133982	sg
+133986	sg
+133992	sg
+134001	sg
+134007	sg
+134012	sg
+134016	sg
+134018	sg
+134036	sg
+134040	pl
+pl
+134043	sg
+134056	sg
+134059	sg
+134067	sg
+sg
+134080	sg
+134089	sg
+134102	sg
+134106	pl
+134109	sg
+134111	sg
+134114	pl
+134118	pl
+134120	dual
+dual
+134123	sg
+sg
+134129	sg
+134133	sg
+sg
+134143	sg
+134145	sg
+134148	sg
+134154	dual
+134156	pl
+134158	pl
+pl
+sg
+134162	dual
+134164	sg
+134166	sg
+134175	sg
+134183	sg
+134186	sg
+134190	sg
+134193	sg
+134201	dual
+134216	sg
+134220	sg
+134222	sg
+134225	sg
+134237	sg
+134239	sg
+134249	sg
+134259	sg
+sg
+134266	sg
+134271	pl
+134273	pl
+134276	sg
+134278	sg
+134280	sg
+sg
+134284	sg
+134293	sg
+134301	sg
+134310	sg
+134317	sg
+134324	sg
+134331	sg
+134333	sg
+sg
+134337	dual
+134341	sg
+134348	sg
+134350	sg
+134353	sg
+134355	sg
+134359	sg
+134364	sg
+134372	sg
+134380	sg
+134382	sg
+134389	sg
+134391	sg
+134396	sg
+sg
+134404	sg
+134407	sg
+sg
+134428	sg
+sg
+134437	sg
+134441	sg
+134444	sg
+134451	sg
+sg
+134463	sg
+134467	dual
+134473	sg
+134477	sg
+134481	sg
+134483	sg
+134491	sg
+134500	sg
+134527	sg
+sg
+134540	sg
+134548	sg
+134555	pl
+sg
+134558	sg
+134565	sg
+134568	sg
+134572	pl
+134576	sg
+134579	sg
+134588	dual
+134594	sg
+134603	sg
+134607	sg
+134610	sg
+134626	sg
+134630	dual
+134638	sg
+134663	sg
+sg
+134668	pl
+134671	pl
+134677	pl
+134679	sg
+134685	sg
+134687	sg
+134689	sg
+134692	sg
+134694	sg
+134696	sg
+134700	sg
+134707	sg
+134713	sg
+sg
+134716	sg
+134721	sg
+134728	sg
+sg
+134735	sg
+134740	sg
+134744	sg
+pl
+134747	sg
+sg
+134758	sg
+134763	sg
+134769	sg
+134775	sg
+134782	sg
+sg
+134791	sg
+134796	sg
+134801	sg
+134805	sg
+134807	sg
+134820	pl
+134825	pl
+134828	dual
+134848	sg
+134857	pl
+134862	sg
+134870	sg
+134872	pl
+134877	sg
+134881	pl
+134885	sg
+sg
+134893	sg
+134903	dual
+sg
+134907	sg
+134910	sg
+134921	sg
+134923	sg
+134926	sg
+134942	sg
+134946	sg
+134948	sg
+134958	sg
+134964	sg
+134969	sg
+134976	sg
+134978	pl
+134991	sg
+134995	sg
+134997	sg
+135011	sg
+135013	sg
+135015	dual
+sg
+135018	dual
+135020	sg
+135024	pl
+135027	sg
+sg
+135032	pl
+135036	sg
+135045	sg
+135054	pl
+135058	sg
+135061	sg
+pl
+135068	sg
+135073	sg
+135075	sg
+sg
+sg
+135079	dual
+135081	dual
+135083	sg
+135086	sg
+sg
+135094	sg
+135096	dual
+sg
+135099	dual
+135103	sg
+135105	pl
+135110	pl
+135116	sg
+135121	pl
+135128	sg
+135130	sg
+135143	pl
+135149	sg
+sg
+135152	sg
+135165	pl
+135179	sg
+135181	sg
+135189	sg
+135195	sg
+pl
+sg
+sg
+135205	pl
+135214	sg
+135221	sg
+135223	sg
+135229	dual
+135232	sg
+135240	sg
+sg
+135251	sg
+135257	sg
+pl
+135278	pl
+135286	sg
+135291	dual
+135294	sg
+135302	dual
+dual
+135305	dual
+135315	pl
+135322	sg
+135330	sg
+135332	sg
+135337	dual
+135344	sg
+dual
+135349	pl
+pl
+135365	sg
+135377	sg
+135381	sg
+135397	dual
+135421	sg
+135423	sg
+sg
+135427	pl
+135440	sg
+135442	sg
+135444	sg
+sg
+135451	pl
+135468	sg
+135471	sg
+135473	sg
+135475	sg
+135483	sg
+135489	sg
+135503	sg
+135510	sg
+135512	sg
+135517	sg
+135520	dual
+dual
+135523	dual
+135527	sg
+135533	pl
+sg
+sg
+135537	sg
+135544	dual
+135564	sg
+135591	sg
+135603	sg
+135612	pl
+135614	sg
+135619	sg
+135625	sg
+135637	sg
+135640	sg
+135642	dual
+135660	sg
+135663	sg
+135666	sg
+sg
+135677	sg
+135688	sg
+135691	pl
+135710	dual
+135717	sg
+135728	sg
+135737	sg
+135744	sg
+135746	sg
+135757	sg
+135760	sg
+sg
+sg
+135764	sg
+135772	sg
+135775	dual
+135781	sg
+135783	sg
+135803	pl
+135809	sg
+135814	sg
+sg
+135819	sg
+135842	pl
+135856	sg
+135862	pl
+sg
+135865	sg
+pl
+135869	dual
+135871	sg
+135882	sg
+135890	dual
+pl
+135894	sg
+135896	sg
+sg
+135899	sg
+135902	sg
+135905	sg
+135907	sg
+135916	sg
+135921	sg
+pl
+pl
+135927	sg
+135930	sg
+135935	pl
+135939	sg
+135964	dual
+135967	sg
+135969	sg
+sg
+135973	sg
+sg
+sg
+135984	sg
+135987	sg
+sg
+135991	sg
+135997	sg
+135999	sg
+136002	sg
+136004	sg
+136007	sg
+136012	sg
+136020	sg
+136030	sg
+136036	sg
+136051	sg
+136053	sg
+sg
+136067	sg
+136073	sg
+136089	sg
+136091	dual
+136093	dual
+136101	sg
+136104	sg
+136117	sg
+dual
+136129	sg
+136133	sg
+136135	sg
+136137	sg
+136139	sg
+136143	sg
+136155	pl
+sg
+sg
+pl
+sg
+136161	sg
+136166	sg
+136170	sg
+136172	pl
+136175	sg
+136181	pl
+sg
+136188	sg
+136191	sg
+136194	sg
+136197	sg
+sg
+136200	sg
+136208	sg
+136210	sg
+136213	pl
+136215	pl
+136218	sg
+136221	sg
+136228	dual
+136231	pl
+136240	sg
+136247	sg
+136249	sg
+136257	dual
+136259	pl
+136269	sg
+136278	sg
+136280	sg
+136290	sg
+136300	sg
+136309	dual
+136314	sg
+136316	sg
+136322	sg
+136352	sg
+136357	sg
+136364	sg
+136368	sg
+136370	dual
+136374	dual
+sg
+136379	sg
+136382	sg
+136384	sg
+136400	dual
+136405	dual
+136409	sg
+136415	sg
+136439	sg
+sg
+136442	sg
+136445	sg
+136450	dual
+sg
+136457	dual
+136462	sg
+136466	sg
+136468	sg
+136475	sg
+sg
+136481	sg
+136484	sg
+136486	pl
+136489	dual
+sg
+136492	sg
+136495	dual
+sg
+136507	sg
+dual
+136510	dual
+136523	sg
+136547	sg
+136558	sg
+136566	sg
+136569	sg
+136575	sg
+136579	sg
+136585	pl
+136588	sg
+136593	sg
+136597	sg
+136606	sg
+sg
+136621	sg
+136628	pl
+136644	sg
+sg
+136653	dual
+136661	sg
+136673	sg
+136681	dual
+136691	sg
+136718	sg
+136723	sg
+136726	pl
+136736	dual
+136756	sg
+136759	sg
+136775	sg
+136777	sg
+136779	sg
+136784	sg
+136789	sg
+136800	sg
+136802	sg
+136823	dual
+pl
+136827	sg
+136833	sg
+136835	sg
+136838	sg
+136842	sg
+sg
+sg
+136849	sg
+136869	sg
+136876	sg
+sg
+136896	pl
+136900	sg
+136912	sg
+136924	sg
+136930	sg
+136935	sg
+136942	sg
+136946	sg
+pl
+136949	sg
+sg
+136978	sg
+136981	sg
+136984	sg
+136986	sg
+136990	sg
+137008	sg
+137014	sg
+137018	sg
+sg
+137045	sg
+137058	sg
+137060	sg
+137062	sg
+137066	pl
+137068	sg
+137098	pl
+137110	sg
+137122	sg
+137138	sg
+137141	sg
+sg
+137190	sg
+137195	sg
+137200	sg
+137206	dual
+137213	sg
+sg
+137222	sg
+137238	sg
+137240	sg
+137249	sg
+137251	sg
+137261	pl
+dual
+137264	dual
+137269	sg
+137275	sg
+137277	sg
+137280	sg
+137286	pl
+137293	pl
+137295	sg
+137298	sg
+137301	sg
+137307	sg
+137310	sg
+137313	sg
+137317	sg
+137319	sg
+137337	sg
+137342	sg
+137349	pl
+137353	sg
+137359	pl
+sg
+137363	sg
+137365	pl
+137370	dual
+137373	sg
+sg
+pl
+137388	sg
+137396	sg
+sg
+137399	pl
+137412	sg
+137427	sg
+137429	sg
+137432	sg
+137436	pl
+sg
+137442	sg
+sg
+137446	sg
+sg
+sg
+137453	sg
+137457	sg
+137459	sg
+137466	sg
+137468	dual
+sg
+137472	sg
+137474	sg
+137487	sg
+137500	sg
+137503	sg
+137511	sg
+137513	sg
+137516	sg
+137521	sg
+137523	sg
+137534	sg
+sg
+sg
+137572	sg
+137580	sg
+137605	sg
+137613	sg
+137622	sg
+137624	sg
+137627	sg
+sg
+137631	sg
+sg
+137634	sg
+137637	sg
+sg
+137640	sg
+137644	sg
+137646	sg
+137650	sg
+137655	pl
+137674	sg
+137680	pl
+137689	sg
+137697	sg
+137709	sg
+137711	sg
+137714	sg
+137720	sg
+137728	sg
+137730	sg
+137733	sg
+137739	sg
+137747	sg
+137762	sg
+137766	sg
+137769	sg
+137771	sg
+137776	sg

@@ -11,5 +11,21 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-05-29T14:49:06+00:00Z
+@dateWritten=2025-06-01T21:37:19+00:00Z
 
+1321	comparative
+21513	comparative
+32366	comparative
+67401	comparative
+69026	comparative
+69640	comparative
+72336	comparative
+73682	comparative
+75995	comparative
+76868	comparative
+77171	comparative
+112491	comparative
+113301	comparative
+115610	comparative
+116831	comparative
+131771	comparative

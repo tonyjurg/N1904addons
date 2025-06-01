@@ -11,5 +11,48 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-05-29T14:49:05+00:00Z
+@dateWritten=2025-06-01T21:37:14+00:00Z
 
+1446	pl
+1647	pl
+3943	pl
+4091	pl
+8400	pl
+9305	pl
+10935	pl
+11994	pl
+14204	pl
+16185	pl
+19666	pl
+20661	pl
+20773	pl
+21104	pl
+22252	pl
+23244	pl
+24553	pl
+25434	pl
+26821	pl
+27604	dual
+27825	pl
+35966	pl
+42922	pl
+44695	pl
+44807	pl
+46274	pl
+46880	pl
+49434	pl
+50756	pl
+52700	pl
+52947	pl
+53024	pl
+53099	pl
+57225	pl
+61923	pl
+68218	sg
+78139	sg
+82086	sg
+97591	sg
+98435	sg
+104357	sg
+109819	sg
+121654	sg

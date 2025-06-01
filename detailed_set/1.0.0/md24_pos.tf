@@ -11,5 +11,22 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-05-29T14:49:05+00:00Z
+@dateWritten=2025-06-01T21:37:14+00:00Z
 
+11994	verb
+14204	verb
+16185	verb
+25434	verb
+26821	verb
+27825	verb
+42922	verb
+44695	verb
+44807	verb
+46274	verb
+46880	verb
+68218	noun
+78139	verb
+82086	verb
+104357	verb
+109819	verb
+121654	verb

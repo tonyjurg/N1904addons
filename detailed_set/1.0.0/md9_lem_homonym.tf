@@ -3,7 +3,7 @@
 @convertedBy=Tony Jurg
 @coreData=Nestle 1904 Text-Fabric (centerBLC)
 @coreDataUrl=https://github.com/CenterBLC/N1904
-@description=Morpheus analytic block 9 lemma homonym
+@description=Morpheus analytic block 9 :lem line - lemma homonym
 @license=Creative Commons Attribution 4.0 International (CC BY 4.0)
 @licenseUrl=https://github.com/tonyjurg/N1904addons/blob/main/LICENSE.md
 @provenance=jupyter Notebook (https://github.com/tonyjurg/create_TF_feature_betacode)
@@ -11,5 +11,116 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-05-29T14:49:06+00:00Z
+@dateWritten=2025-06-01T21:37:19+00:00Z
 
+1446	1
+1647	1
+3943	1
+4091	1
+4516	2
+4537	2
+7512	2
+7747	3
+8400	1
+8682	3
+9250	3
+9305	1
+9456	3
+10935	1
+12433	2
+13678	2
+13982	3
+19409	2
+19430	2
+19666	1
+20661	1
+20773	1
+21104	1
+22252	1
+22626	3
+23244	1
+23486	3
+24553	1
+25912	2
+28545	3
+28723	3
+33678	2
+33701	2
+33711	2
+35228	3
+35240	3
+35966	1
+36047	2
+36966	3
+37838	3
+37906	3
+38580	3
+38856	3
+39858	2
+40474	3
+40485	3
+42134	2
+43162	3
+44138	3
+47352	3
+48921	1
+49434	1
+49928	3
+50756	1
+51276	3
+51503	3
+52700	1
+52947	1
+53024	1
+53099	1
+55796	3
+56204	3
+56566	3
+57168	3
+57225	1
+59340	3
+61923	1
+70057	2
+72987	3
+76090	2
+76690	2
+77360	2
+77844	3
+83558	1
+86350	2
+88216	1
+90370	2
+90463	2
+90943	1
+90950	1
+91001	3
+91010	2
+91386	1
+91751	2
+96251	3
+96830	2
+97953	2
+100697	1
+100905	2
+102932	3
+105102	1
+107436	2
+107474	1
+108780	2
+111711	2
+112939	1
+113958	1
+115048	1
+117028	2
+120056	2
+120991	3
+122208	2
+126015	1
+127225	3
+129204	1
+129223	1
+131225	1
+131700	2
+132226	1
+133479	1
+134885	2

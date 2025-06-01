@@ -11,5 +11,33 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-05-29T14:49:05+00:00Z
+@dateWritten=2025-06-01T21:37:14+00:00Z
 
+1446	fem
+1647	fem
+3943	fem
+4091	fem
+8400	fem
+9305	fem
+10935	fem
+19666	fem
+20661	fem
+20773	fem
+21104	fem
+22252	fem
+23244	fem
+24553	fem
+35966	fem
+42922	masc/neut
+49434	fem
+50756	fem
+52700	fem
+52947	fem
+53024	fem
+53099	fem
+57225	fem
+61923	fem
+68218	fem
+78139	masc
+109819	masc
+121654	masc

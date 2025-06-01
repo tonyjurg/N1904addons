@@ -1,0 +1,14148 @@
+@node
+@author=Morpheus (perseids-tools)
+@convertedBy=Tony Jurg
+@coreData=Nestle 1904 Text-Fabric (centerBLC)
+@coreDataUrl=https://github.com/CenterBLC/N1904
+@description=Morpheus analytic block 4 :stem line - listed morph flags
+@license=Creative Commons Attribution 4.0 International (CC BY 4.0)
+@licenseUrl=https://github.com/tonyjurg/N1904addons/blob/main/LICENSE.md
+@provenance=jupyter Notebook (https://github.com/tonyjurg/create_TF_feature_betacode)
+@valueType=str
+@version=1.0.0
+@website=https://github.com/tonyjurg/N1904addon
+@writtenBy=Text-Fabric
+@dateWritten=2025-06-01T21:37:18+00:00Z
+
+280	indeclform
+289	indeclform
+292	indeclform
+296	proclitic/indeclform
+342	proclitic/indeclform
+375	unaugmented
+383	indeclform
+385	proclitic/indeclform
+392	late
+412	proclitic/indeclform
+428	indeclform
+441	proclitic/indeclform
+445	proclitic/indeclform
+470	proclitic/indeclform
+484	indeclform
+504	enclitic/indeclform
+508	proclitic/indeclform
+525	proclitic/indeclform
+proclitic/indeclform
+531	unaugmented/poetic
+561	syll_augment/unaugmented
+563	unaugmented
+unaugmented/poetic
+576	unaugmented
+578	enclitic/indeclform
+590	proclitic/indeclform
+598	contr/unasp_preverb
+indeclform
+650	unaugmented/poetic
+666	indeclform
+685	poetic/indeclform
+syll_augment/unaugmented
+722	unaugmented
+747	unaugmented
+752	proclitic/indeclform
+755	proclitic/indeclform
+775	unaugmented
+782	proclitic/indeclform
+791	indeclform
+811	indeclform
+813	proclitic/indeclform
+831	enclitic/indeclform
+834	unaugmented
+873	indeclform
+887	unaugmented
+894	proclitic/indeclform
+904	proclitic/indeclform
+913	indeclform
+929	proclitic/indeclform
+937	unaugmented
+957	contr/indeclform
+959	indeclform
+967	unaugmented/poetic
+974	indeclform
+indeclform
+978	indeclform
+indeclform
+985	proclitic/indeclform
+indeclform
+1006	syll_augment/unaugmented
+1012	indeclform
+1023	unaugmented
+1028	proclitic/indeclform
+1036	indeclform
+1047	indeclform
+1051	indeclform
+1063	unaugmented
+1075	proclitic/indeclform
+1087	indeclform
+1091	indeclform
+1097	proclitic/indeclform
+1102	indeclform
+1104	unaugmented
+proclitic/indeclform
+1154	unaugmented/poetic
+1165	syll_augment/unaugmented
+1171	unaugmented
+1173	indeclform
+1175	indeclform
+1192	enclitic/indeclform
+1197	unaugmented/poetic
+unaugmented
+1218	proclitic/indeclform
+1248	syll_augment/unaugmented
+1252	proclitic/indeclform
+1254	unaugmented/poetic
+1257	enclitic/indeclform
+1265	syll_augment/unaugmented
+1281	unaugmented/poetic
+1304	proclitic/indeclform
+1306	unaugmented/poetic
+1309	contr/unasp_preverb
+1318	unaugmented/poetic
+1325	enclitic/indeclform
+1356	indeclform
+1366	syll_augment/unaugmented
+1404	unaugmented
+1425	proclitic/indeclform
+1433	unaugmented
+1446	r_e_i_alpha/unaugmented/poetic
+1456	proclitic/indeclform
+1464	proclitic/indeclform
+1483	indeclform
+1521	unaugmented
+1525	enclitic/indeclform
+1529	indeclform
+1549	proclitic/indeclform
+indeclform
+1558	indeclform
+1564	enclitic/indeclform
+1578	proclitic/indeclform
+1583	proclitic/indeclform
+1590	unaugmented/poetic
+1595	indeclform
+1598	indeclform
+1600	proclitic/indeclform
+indeclform
+1605	indeclform
+1647	r_e_i_alpha/unaugmented/poetic
+1663	enclitic/indeclform
+1667	poetic
+1675	enclitic/indeclform
+1677	indeclform
+1682	indeclform
+1687	enclitic/indeclform
+1693	enclitic/indeclform
+1701	enclitic/indeclform
+1711	enclitic/indeclform
+1717	enclitic/indeclform
+1727	enclitic/indeclform
+1732	unaugmented/poetic
+1735	enclitic/indeclform
+1742	indeclform
+1761	unaugmented/poetic
+1770	proclitic/indeclform
+1792	proclitic/indeclform
+1817	contr/unasp_preverb
+1837	proclitic/indeclform
+1851	indeclform
+1860	proclitic/indeclform
+1867	redupl
+1870	indeclform
+1875	redupl
+unaugmented
+1881	indeclform
+1883	poetic/indeclform
+1888	indeclform
+1892	indeclform
+1902	poetic/indeclform
+1916	pres_redupl
+1922	proclitic/indeclform
+1929	poetic/indeclform
+1932	pres_redupl
+1936	proclitic/indeclform
+1943	indeclform
+1949	indeclform
+1973	poetic/indeclform
+1982	indeclform
+1987	indeclform
+1996	poetic/indeclform
+1998	indeclform
+2004	indeclform
+2008	poetic/indeclform
+2036	unaugmented/poetic
+2049	indeclform
+2060	unaugmented
+indeclform
+2067	proclitic/indeclform
+2070	proclitic/indeclform
+2074	enclitic/indeclform
+2079	indeclform
+2084	indeclform
+2098	poetic/indeclform
+2111	indeclform
+2119	comp_only
+2124	proclitic/indeclform
+2142	unaugmented/poetic
+2163	indeclform
+2174	unaugmented/poetic
+2196	poetic/indeclform
+2207	indeclform
+2234	comp_only
+2237	indeclform
+2245	indeclform
+2250	proclitic/indeclform
+indeclform
+2257	unaugmented/poetic
+2259	proclitic/indeclform
+2278	proclitic/indeclform
+2290	indeclform
+2322	indeclform
+2325	indeclform
+2342	indeclform
+2366	indeclform
+2374	unaugmented/poetic
+2393	indeclform
+2399	syll_augment/unaugmented
+2411	proclitic/indeclform
+2421	unaugmented
+2425	unaugmented
+2434	indeclform
+2439	enclitic/indeclform
+2456	enclitic/indeclform
+2461	unaugmented
+2465	proclitic/indeclform
+2494	indeclform
+2497	indeclform
+proclitic/indeclform
+2510	enclitic/indeclform
+2513	proclitic/indeclform
+2517	proclitic/indeclform
+2527	indeclform
+2532	unaugmented/poetic
+2538	indeclform
+2543	indeclform
+2549	indeclform
+2551	proclitic/indeclform
+indeclform
+2560	proclitic/indeclform
+indeclform
+2569	unaugmented
+proclitic/indeclform
+enclitic/indeclform
+2575	proclitic/indeclform
+2579	proclitic/indeclform
+2592	indeclform
+2601	unaugmented
+2607	poetic
+2612	indeclform
+2615	indeclform
+proclitic/indeclform
+indeclform
+2625	proclitic/indeclform
+indeclform
+2635	enclitic/indeclform
+2640	proclitic/indeclform
+2664	syll_augment/unaugmented
+2669	proclitic/indeclform
+2677	indeclform
+2684	proclitic/indeclform
+proclitic/indeclform
+2696	indeclform
+2700	indeclform
+indeclform
+2704	proclitic/indeclform
+2717	unaugmented
+2728	indeclform
+2733	indeclform
+2750	indeclform
+2758	proclitic/indeclform
+enclitic/indeclform
+2764	indeclform
+2774	indeclform
+2797	unaugmented
+indeclform
+2801	indeclform
+proclitic/indeclform
+indeclform
+2811	proclitic/indeclform
+indeclform
+2818	indeclform
+2836	indeclform
+2838	proclitic/indeclform
+2862	indeclform
+2903	proclitic/indeclform
+2912	indeclform
+2915	indeclform
+2924	indeclform
+2940	indeclform
+2942	unaugmented
+2948	indeclform
+2952	indeclform
+2958	indeclform
+unaugmented
+2971	indeclform
+2983	unaugmented
+3016	indeclform
+3019	unaugmented/poetic
+enclitic/indeclform
+3028	indeclform
+3032	proclitic/indeclform
+3038	proclitic/indeclform
+3046	unaugmented/poetic
+3069	indeclform
+3072	indeclform
+3078	indeclform
+3089	unaugmented
+3092	unaugmented
+3105	indeclform
+3112	indeclform
+3120	indeclform
+3128	proclitic/indeclform
+3135	proclitic/indeclform
+3140	indeclform
+3147	proclitic/indeclform
+indeclform
+3155	proclitic/indeclform
+indeclform
+3161	unaugmented
+indeclform
+enclitic/indeclform
+raw_sonant
+indeclform
+3169	unaugmented/poetic
+3178	indeclform
+3180	proclitic/indeclform
+indeclform
+3183	unaugmented/poetic
+3190	unaugmented/poetic
+3220	enclitic/indeclform
+3223	proclitic/indeclform
+3231	unaugmented
+3234	indeclform
+unaugmented
+3241	indeclform
+3252	indeclform
+3255	indeclform
+3271	indeclform
+3297	proclitic/indeclform
+3312	indeclform
+enclitic/indeclform
+3318	unaugmented
+3326	enclitic/indeclform
+3335	indeclform
+3339	indeclform
+3341	indeclform
+3349	enclitic/indeclform
+3355	indeclform
+3359	indeclform
+3361	indeclform
+3369	enclitic/indeclform
+3380	proclitic/indeclform
+3399	indeclform
+3407	unaugmented
+3414	unaugmented
+3421	unaugmented
+3427	unaugmented
+3433	unaugmented
+3470	proclitic/indeclform
+3476	proclitic/indeclform
+3483	indeclform
+3488	indeclform
+3494	indeclform
+3502	unaugmented
+3510	unaugmented/poetic
+enclitic/indeclform
+3539	indeclform
+3543	enclitic/indeclform
+3547	enclitic/indeclform
+3550	unaugmented
+3587	indeclform
+3591	enclitic/indeclform
+3595	enclitic/indeclform
+3606	indeclform
+3620	enclitic/indeclform
+3630	proclitic/indeclform
+3635	proclitic/indeclform
+enclitic/indeclform
+3675	indeclform
+3682	unaugmented
+3685	unaugmented
+3689	indeclform
+3699	unaugmented/poetic
+3718	proclitic/indeclform
+3728	unaugmented
+3745	unaugmented
+3777	indeclform
+3790	syll_augment/unaugmented
+3795	indeclform
+3800	proclitic/indeclform
+indeclform
+3803	unaugmented
+3806	indeclform
+3822	proclitic/indeclform
+3827	enclitic/indeclform
+3848	syll_augment/unaugmented
+3851	indeclform
+3854	proclitic/indeclform
+3862	proclitic/indeclform
+3887	unaugmented
+3905	indeclform
+3917	unaugmented
+3943	r_e_i_alpha/unaugmented/poetic
+3948	syll_augment/unaugmented
+3966	indeclform
+3986	syll_augment/unaugmented
+4003	unaugmented
+4008	unaugmented
+4012	unaugmented
+4021	enclitic/indeclform
+4029	proclitic/indeclform
+4069	enclitic/indeclform
+4079	enclitic/indeclform
+4082	indeclform
+4091	r_e_i_alpha/unaugmented/poetic
+4110	indeclform
+4121	indeclform
+4126	unaugmented/poetic
+4142	enclitic/indeclform
+4159	syll_augment/unaugmented
+4161	unaugmented
+enclitic/indeclform
+4171	redupl
+indeclform
+indeclform
+4183	proclitic/indeclform
+4186	enclitic/indeclform
+4198	indeclform
+4203	indeclform
+indeclform
+4209	indeclform
+4225	raw_sonant
+4247	syll_augment/unaugmented
+indeclform
+4258	unaugmented/n_infix
+4262	proclitic/indeclform
+4271	comp_only
+4273	syll_augment/unaugmented
+4276	comp_only/unaugmented
+4278	proclitic/indeclform
+4291	indeclform
+4313	indeclform
+4319	unaugmented
+4335	enclitic/indeclform
+4358	unaugmented/poetic
+4364	unaugmented
+4374	proclitic/indeclform
+4385	indeclform
+4393	enclitic/indeclform
+4413	syll_augment/unaugmented
+4417	enclitic/indeclform
+4421	enclitic/indeclform
+4438	unaugmented
+unaugmented
+4444	enclitic/indeclform
+4452	enclitic/indeclform
+4455	enclitic/indeclform
+4462	syll_augment/unaugmented
+4468	enclitic/indeclform
+4516	unaugmented
+4524	enclitic/indeclform
+4531	enclitic/indeclform
+4534	unaugmented
+4537	unaugmented
+4556	indeclform
+4561	unaugmented
+4578	enclitic/indeclform
+4597	proclitic/indeclform
+4613	syll_augment/unaugmented
+4616	indeclform
+4622	syll_augment/unaugmented/poetic
+indeclform
+4653	unaugmented
+4674	indeclform
+4685	indeclform
+4704	enclitic/indeclform
+4731	indeclform
+4735	enclitic/indeclform
+4743	unaugmented
+4746	enclitic/indeclform
+4751	proclitic/indeclform
+4773	enclitic/indeclform
+4779	proclitic/indeclform
+indeclform
+4782	enclitic/indeclform
+4786	proclitic/indeclform
+indeclform
+4792	indeclform
+4800	indeclform
+4805	proclitic/indeclform
+4812	unaugmented/poetic
+4817	indeclform
+4820	indeclform
+4848	enclitic/indeclform
+4881	indeclform
+4884	indeclform
+4890	indeclform
+4963	indeclform
+4965	indeclform
+4975	indeclform
+4981	unaugmented
+5023	poetic/indeclform
+5025	indeclform
+5028	unaugmented
+5030	proclitic/indeclform
+5037	poetic/indeclform
+5050	indeclform
+5054	indeclform
+5064	indeclform
+5072	poetic/indeclform
+5085	indeclform
+5089	unaugmented
+5097	indeclform
+5104	proclitic/indeclform
+5107	indeclform
+5115	proclitic/indeclform
+5117	proclitic/indeclform
+5123	proclitic/indeclform
+enclitic/indeclform
+5128	proclitic/indeclform
+5142	proclitic/indeclform
+5156	unaugmented/poetic
+5158	unaugmented/poetic
+5169	enclitic/indeclform
+indeclform
+5175	indeclform
+proclitic/indeclform
+5186	enclitic/indeclform
+5188	unaugmented
+5195	unaugmented
+proclitic/indeclform
+indeclform
+5211	unaugmented
+5216	unaugmented
+5235	proclitic/indeclform
+5246	indeclform
+5273	indeclform
+5277	proclitic/indeclform
+5284	proclitic/indeclform
+5310	unaugmented
+5316	indeclform
+proclitic/indeclform
+5321	proclitic/indeclform
+indeclform
+5336	unaugmented
+5344	unaugmented
+5348	unaugmented
+5354	unaugmented
+5358	proclitic/indeclform
+5374	unaugmented
+5390	unaugmented
+5399	proclitic/indeclform
+5404	unaugmented
+5406	proclitic/indeclform
+5413	proclitic/indeclform
+5418	poetic/indeclform
+5432	proclitic/indeclform
+5448	unaugmented
+5474	enclitic/indeclform
+5480	indeclform
+5492	indeclform
+5518	unaugmented
+5526	unaugmented
+5529	unaugmented/poetic
+5580	indeclform
+5604	proclitic/indeclform
+5612	proclitic/indeclform
+indeclform
+5615	indeclform
+5624	syll_augment/unaugmented
+5627	proclitic/indeclform
+5630	indeclform
+5632	comp_only
+5637	syll_augment/unaugmented
+5642	indeclform
+5669	proclitic/indeclform
+5692	unaugmented
+5697	proclitic/indeclform
+5701	enclitic/indeclform
+indeclform
+5705	proclitic/indeclform
+5710	unaugmented
+5717	indeclform
+5724	indeclform
+5733	comp_only
+5744	indeclform
+5747	proclitic/indeclform
+5757	proclitic/indeclform
+5774	indeclform
+5785	enclitic/indeclform
+5809	unaugmented
+5817	proclitic/indeclform
+5820	indeclform
+5826	indeclform
+5859	unaugmented/poetic
+5866	indeclform
+5877	proclitic/indeclform
+5895	proclitic/indeclform
+5904	proclitic/indeclform
+indeclform
+5907	poetic/indeclform
+proclitic/indeclform
+5915	indeclform
+5921	proclitic/indeclform
+5924	indeclform
+indeclform
+5935	redupl
+5938	proclitic/indeclform
+5945	proclitic/indeclform
+5948	poetic/indeclform
+5954	indeclform
+5960	proclitic/indeclform
+5963	indeclform
+5965	proclitic/indeclform
+5967	indeclform
+5972	syll_augment/unaugmented
+6038	enclitic/indeclform
+6043	poetic
+6054	unaugmented/poetic
+6079	proclitic/indeclform
+6081	indeclform
+6091	enclitic/indeclform
+6102	enclitic/indeclform
+6109	enclitic/indeclform
+6117	proclitic/indeclform
+6121	syll_augment/unaugmented
+6131	enclitic/indeclform
+6134	enclitic/indeclform
+6140	unaugmented/poetic
+6162	indeclform
+6165	proclitic/indeclform
+indeclform
+6171	enclitic/indeclform
+6173	proclitic/indeclform
+indeclform
+6184	indeclform
+6202	poetic/indeclform
+6243	syll_augment/unaugmented
+6280	indeclform
+6291	proclitic/indeclform
+indeclform
+unaugmented/poetic
+6296	enclitic/indeclform
+6330	unaugmented
+6347	indeclform
+unaugmented
+6368	proclitic/indeclform
+6384	poetic/indeclform
+6391	indeclform
+6415	enclitic/indeclform
+6419	indeclform
+6425	enclitic/indeclform
+6429	syll_augment/unaugmented
+6433	indeclform
+6437	proclitic/indeclform
+indeclform
+6446	comp_only
+6448	syll_augment/unaugmented
+6450	indeclform
+6457	indeclform
+6459	indeclform
+6476	enclitic/indeclform
+6479	indeclform
+6485	proclitic/indeclform
+6488	indeclform
+6490	enclitic/indeclform
+6493	proclitic/indeclform
+6504	proclitic/indeclform
+6506	unaugmented/poetic
+6509	indeclform
+6511	indeclform
+6515	indeclform
+6518	unaugmented/poetic
+indeclform
+enclitic/indeclform
+6530	indeclform
+6550	unaugmented/poetic
+6552	unaugmented/poetic
+6559	unaugmented/poetic
+6564	indeclform
+indeclform
+6572	indeclform
+6593	poetic/indeclform
+6604	proclitic/indeclform
+6606	indeclform
+6609	proclitic/indeclform
+indeclform
+6612	indeclform
+6622	indeclform
+6641	enclitic/indeclform
+6652	unaugmented
+6677	indeclform
+6684	enclitic/indeclform
+6690	proclitic/indeclform
+6708	unaugmented/n_infix
+6717	unaugmented/poetic
+6723	syll_augment/unaugmented
+6730	unaugmented
+6747	proclitic/indeclform
+6763	proclitic/indeclform
+6776	proclitic/indeclform
+6800	proclitic/indeclform
+6817	contr
+6839	unaugmented
+6850	unaugmented
+6854	unaugmented
+6874	unaugmented
+6878	indeclform
+6900	indeclform
+6903	enclitic/indeclform
+6911	syll_augment/unaugmented
+6916	indeclform
+6920	enclitic/indeclform
+6931	syll_augment/unaugmented
+indeclform
+6937	indeclform
+6941	unaugmented/n_infix
+6943	enclitic/indeclform
+6955	syll_augment/unaugmented
+6957	indeclform
+6961	enclitic/indeclform
+6966	poetic/indeclform
+6974	proclitic/indeclform
+6984	proclitic/indeclform
+7021	proclitic/indeclform
+7031	proclitic/indeclform
+indeclform
+7035	indeclform
+7043	indeclform
+7051	indeclform
+7067	unaugmented
+7117	enclitic/indeclform
+7123	proclitic/indeclform
+7130	syll_augment/unaugmented
+7132	indeclform
+7135	indeclform
+7164	proclitic/indeclform
+7181	indeclform
+7184	indeclform
+7201	indeclform
+7217	enclitic/indeclform
+7237	enclitic/indeclform
+7242	indeclform
+7250	indeclform
+7258	indeclform
+7264	contr
+indeclform
+7293	proclitic/indeclform
+7307	indeclform
+7326	proclitic/indeclform
+7328	unaugmented
+7334	indeclform
+7354	indeclform
+7359	indeclform
+7383	unaugmented
+7404	indeclform
+7412	proclitic/indeclform
+indeclform
+7416	proclitic/indeclform
+7418	indeclform
+7429	indeclform
+7446	indeclform
+7450	enclitic/indeclform
+7454	syll_augment/unaugmented
+7461	proclitic/indeclform
+indeclform
+7465	enclitic/indeclform
+7477	enclitic/indeclform
+7492	enclitic/indeclform
+7494	indeclform
+7508	proclitic/indeclform
+7512	unaugmented
+7515	unaugmented
+7517	indeclform
+7520	unaugmented
+7543	indeclform
+7553	proclitic/indeclform
+indeclform
+7576	indeclform
+7582	proclitic/indeclform
+7592	indeclform
+7606	indeclform
+7614	proclitic/indeclform
+7620	unaugmented/poetic
+7627	unaugmented
+7632	unaugmented/poetic
+proclitic/indeclform
+7653	enclitic/indeclform
+7658	indeclform
+7664	unaugmented/poetic
+7668	syll_augment/unaugmented
+7691	enclitic/indeclform
+7695	indeclform
+7699	enclitic/indeclform
+7718	enclitic/indeclform
+7726	indeclform
+7733	proclitic/indeclform
+7753	indeclform
+7778	enclitic/indeclform
+7781	proclitic/indeclform
+7784	proclitic/indeclform
+7796	indeclform
+7802	proclitic/indeclform
+indeclform
+7808	redupl
+7827	indeclform
+7851	indeclform
+7875	indeclform
+7879	indeclform
+7886	proclitic/indeclform
+7892	enclitic/indeclform
+7927	syll_augment/unaugmented
+7970	proclitic/indeclform
+7979	enclitic/indeclform
+7981	indeclform
+7995	indeclform
+8001	enclitic/indeclform
+8020	enclitic/indeclform
+8027	proclitic/indeclform
+8032	syll_augment/unaugmented
+8040	proclitic/indeclform
+8044	proclitic/indeclform
+8058	proclitic/indeclform
+8060	indeclform
+8070	syll_augment/unaugmented
+8089	comp_only
+proclitic/indeclform
+8100	proclitic/indeclform
+8107	unaugmented/poetic
+8129	proclitic/indeclform
+8139	indeclform
+8143	proclitic/indeclform
+indeclform
+8148	indeclform
+8152	unaugmented
+8159	indeclform
+8161	pres_redupl
+8193	proclitic/indeclform
+8198	indeclform
+8205	indeclform
+8214	enclitic/indeclform
+8226	indeclform
+8234	proclitic/indeclform
+8243	enclitic/indeclform
+8270	enclitic/indeclform
+8278	indeclform
+8297	syll_augment/unaugmented
+8307	enclitic/indeclform
+8323	syll_augment/unaugmented
+8356	enclitic/indeclform
+8369	unaugmented
+8375	enclitic/indeclform
+8400	r_e_i_alpha/unaugmented/poetic
+8402	indeclform
+8454	enclitic/indeclform
+8480	unaugmented
+8484	unaugmented
+8490	syll_augment/unaugmented
+8494	proclitic/indeclform
+8501	indeclform
+8505	syll_augment/unaugmented
+unaugmented
+8515	indeclform
+8560	enclitic/indeclform
+8562	proclitic/indeclform
+indeclform
+8569	unaugmented/poetic
+8571	proclitic/indeclform
+8583	enclitic/indeclform
+8615	unaugmented
+8618	indeclform
+8628	enclitic/indeclform
+8647	syll_augment/unaugmented
+8657	unaugmented/poetic
+8665	syll_augment/unaugmented
+unaugmented
+8676	indeclform
+8684	poetic/indeclform
+8686	indeclform
+8688	indeclform
+8695	unaugmented/poetic
+8703	indeclform
+8712	unaugmented/poetic
+8731	indeclform
+8738	unaugmented/poetic
+8751	syll_augment/unaugmented
+8753	unaugmented
+8755	unaugmented
+8765	unaugmented
+8777	enclitic/indeclform
+8783	enclitic/indeclform
+8792	syll_augment/unaugmented
+indeclform
+8823	syll_augment/unaugmented
+8826	indeclform
+8831	syll_augment/unaugmented
+8854	indeclform
+8862	unaugmented
+8871	unaugmented
+8883	indeclform
+8903	indeclform
+8924	indeclform
+8937	enclitic/indeclform
+8952	syll_augment/unaugmented
+8958	indeclform
+8960	indeclform
+8964	indeclform
+8976	syll_augment/unaugmented
+8989	indeclform
+8991	syll_augment/unaugmented
+8996	indeclform
+9014	syll_augment/unaugmented
+9020	indeclform
+9024	proclitic/indeclform
+9028	indeclform
+9105	syll_augment/unaugmented
+9128	enclitic/indeclform
+9130	proclitic/indeclform
+9136	enclitic/indeclform
+9138	enclitic/indeclform
+indeclform
+proclitic/indeclform
+9153	unaugmented
+9156	enclitic/indeclform
+9165	indeclform
+9185	enclitic/indeclform
+9197	unaugmented
+9204	enclitic/indeclform
+9225	indeclform
+9230	enclitic/indeclform
+9246	syll_augment/unaugmented
+9257	indeclform
+9272	indeclform
+9284	unaugmented
+9301	enclitic/indeclform
+9305	r_e_i_alpha/unaugmented/poetic
+9312	syll_augment/unaugmented
+9314	unaugmented
+9324	enclitic/indeclform
+9327	proclitic/indeclform
+9338	syll_augment/unaugmented
+9341	proclitic/indeclform
+9358	unaugmented
+9371	enclitic/indeclform
+9378	syll_augment/unaugmented
+indeclform
+9393	syll_augment/unaugmented
+9400	unaugmented
+9413	indeclform
+9417	unaugmented/poetic
+9425	enclitic/indeclform
+9432	enclitic/indeclform
+9435	enclitic/indeclform
+9446	indeclform
+9454	indeclform
+9462	syll_augment/unaugmented
+9464	proclitic/indeclform
+9470	unaugmented/poetic
+9477	syll_augment/unaugmented
+9480	proclitic/indeclform
+9495	proclitic/indeclform
+9504	proclitic/indeclform
+9511	unaugmented
+9538	proclitic/indeclform
+9550	proclitic/indeclform
+9617	syll_augment/unaugmented
+indeclform
+9625	proclitic/indeclform
+unaugmented/poetic
+9630	indeclform
+9632	unaugmented/poetic
+unaugmented
+indeclform
+9640	syll_augment/unaugmented
+9665	unaugmented
+9672	poetic/indeclform
+9675	unaugmented
+9678	unaugmented/poetic
+9692	unaugmented
+9695	indeclform
+9710	proclitic/indeclform
+9730	indeclform
+9733	unaugmented/n_infix
+9743	poetic/indeclform
+9750	proclitic/indeclform
+9787	proclitic/indeclform
+9790	indeclform
+9796	proclitic/indeclform
+9813	syll_augment/unaugmented
+indeclform
+9824	unaugmented
+9827	unaugmented
+9858	proclitic/indeclform
+9861	unaugmented
+9865	enclitic/indeclform
+9867	unaugmented
+9881	syll_augment/unaugmented
+9885	unaugmented
+unaugmented
+9914	indeclform
+9925	enclitic/indeclform
+9930	enclitic/indeclform
+9941	syll_augment/unaugmented
+9946	causal
+9950	indeclform
+9961	proclitic/indeclform
+9977	enclitic/indeclform
+9984	syll_augment/unaugmented
+10034	syll_augment/unaugmented
+10074	enclitic/indeclform
+10076	indeclform
+10080	syll_augment/unaugmented
+10099	indeclform
+10103	proclitic/indeclform
+10107	indeclform
+10118	indeclform
+10122	proclitic/indeclform
+10125	syll_augment/unaugmented
+10155	enclitic/indeclform
+indeclform
+10159	indeclform
+10185	enclitic/indeclform
+10190	n_infix
+10192	unaugmented/poetic
+indeclform
+10199	indeclform
+10215	enclitic/indeclform
+10234	poetic
+10245	unaugmented/poetic
+10247	unaugmented/poetic
+proclitic/indeclform
+10253	enclitic/indeclform
+10255	indeclform
+10259	indeclform
+10262	proclitic/indeclform
+10272	proclitic/indeclform
+10276	syll_augment/unaugmented
+10279	indeclform
+10285	proclitic/indeclform
+indeclform
+10300	proclitic/indeclform
+10308	proclitic/indeclform
+10321	indeclform
+10328	poetic/indeclform
+10350	proclitic/indeclform
+indeclform
+10356	indeclform
+10364	indeclform
+10368	indeclform
+10371	indeclform
+10377	indeclform
+10380	indeclform
+10391	unaugmented/poetic
+10400	indeclform
+10402	indeclform
+10405	indeclform
+10427	unaugmented/poetic
+10436	indeclform
+10446	unaugmented
+10455	indeclform
+10457	enclitic/indeclform
+10460	proclitic/indeclform
+10471	proclitic/indeclform
+10474	indeclform
+10489	indeclform
+10493	indeclform
+10507	indeclform
+10513	indeclform
+10530	proclitic/indeclform
+10548	unaugmented/poetic
+10551	unaugmented
+10565	unaugmented/poetic
+10568	indeclform
+10575	indeclform
+10584	syll_augment/unaugmented
+10603	indeclform
+10612	proclitic/indeclform
+10623	proclitic/indeclform
+10628	indeclform
+10641	indeclform
+10651	proclitic/indeclform
+10653	indeclform
+10657	indeclform
+10666	proclitic/indeclform
+10673	syll_augment/unaugmented
+10697	unaugmented
+10704	indeclform
+10742	indeclform
+10762	unaugmented
+10776	unaugmented
+10783	unaugmented
+10814	unaugmented
+10820	unaugmented
+10832	enclitic/indeclform
+10835	indeclform
+10842	indeclform
+10846	indeclform
+10858	indeclform
+10875	proclitic/indeclform
+10889	indeclform
+10903	indeclform
+10908	indeclform
+10931	indeclform
+10935	r_e_i_alpha/unaugmented/poetic
+10962	indeclform
+10967	syll_augment/unaugmented
+10981	syll_augment/unaugmented
+10998	enclitic/indeclform
+11007	unaugmented
+11038	indeclform
+11051	indeclform
+11054	poetic/indeclform
+11068	enclitic/indeclform
+11073	indeclform
+11085	syll_augment/unaugmented
+11139	enclitic/indeclform
+11147	syll_augment/unaugmented
+11149	indeclform
+11162	indeclform
+11167	unaugmented
+11178	syll_augment/unaugmented
+11182	unaugmented
+11189	syll_augment/unaugmented
+11227	unaugmented
+11238	proclitic/indeclform
+11261	indeclform
+11269	proclitic/indeclform
+11273	unaugmented
+11291	syll_augment/unaugmented
+11297	indeclform
+11310	indeclform
+11318	indeclform
+11324	unaugmented/poetic
+11327	enclitic/indeclform
+11333	indeclform
+11340	syll_augment/unaugmented
+11356	syll_augment/unaugmented
+11366	indeclform
+11368	indeclform
+11372	syll_augment/unaugmented
+11376	indeclform
+11379	enclitic/indeclform
+11382	proclitic/indeclform
+11410	unaugmented
+11412	indeclform
+11414	indeclform
+11416	indeclform
+11418	indeclform
+11420	indeclform
+11422	indeclform
+11445	indeclform
+11454	indeclform
+11461	unaugmented
+11484	proclitic/indeclform
+11490	syll_augment/unaugmented
+unaugmented
+11503	indeclform
+enclitic/indeclform
+11522	unaugmented
+11543	unaugmented
+11557	indeclform
+11576	enclitic/indeclform
+11582	indeclform
+11586	enclitic/indeclform
+11595	indeclform
+11607	enclitic/indeclform
+11615	indeclform
+11631	syll_augment/unaugmented
+11648	indeclform
+11651	proclitic/indeclform
+11660	proclitic/indeclform
+11663	indeclform
+11675	enclitic/indeclform
+11679	enclitic/indeclform
+11694	proclitic/indeclform
+11697	syll_augment/unaugmented
+11738	indeclform
+11747	n_infix
+11755	syll_augment/unaugmented
+11765	enclitic/indeclform
+11777	proclitic/indeclform
+11785	syll_augment/unaugmented
+11831	enclitic/indeclform
+11843	syll_augment/unaugmented
+11846	enclitic/indeclform
+11853	enclitic/indeclform
+11860	proclitic/indeclform
+indeclform
+11866	proclitic/indeclform
+indeclform
+11875	poetic/indeclform
+11877	proclitic/indeclform
+indeclform
+11892	unaugmented
+11897	unaugmented
+11937	enclitic/indeclform
+11954	syll_augment/unaugmented
+11957	unaugmented
+indeclform
+11964	enclitic/indeclform
+12024	indeclform
+12044	unaugmented
+12071	enclitic/indeclform
+12090	indeclform
+12094	contr/unasp_preverb
+12102	indeclform
+12104	proclitic/indeclform
+12116	proclitic/indeclform
+12119	enclitic/indeclform
+12122	enclitic/indeclform
+12126	enclitic/indeclform
+12131	indeclform
+12137	proclitic/indeclform
+12141	proclitic/indeclform
+12150	indeclform
+indeclform
+12157	enclitic/indeclform
+12184	proclitic/indeclform
+indeclform
+12222	proclitic/indeclform
+indeclform
+12230	enclitic/indeclform
+12233	enclitic/indeclform
+12235	indeclform
+12237	indeclform
+12244	proclitic/indeclform
+indeclform
+12250	indeclform
+12289	indeclform
+12308	unaugmented
+proclitic/indeclform
+12321	unaugmented/poetic
+12330	indeclform
+12334	enclitic/indeclform
+12338	enclitic/indeclform
+12341	indeclform
+12347	syll_augment/unaugmented
+12351	indeclform
+12364	unaugmented
+12366	indeclform
+12380	poetic/indeclform
+12382	proclitic/indeclform
+12396	enclitic/indeclform
+12399	enclitic/indeclform
+12404	proclitic/indeclform
+12420	syll_augment/unaugmented
+12422	unaugmented
+12432	indeclform
+unaugmented
+proclitic/indeclform
+12443	enclitic/indeclform
+12447	indeclform
+12450	enclitic/indeclform
+12453	proclitic/indeclform
+12461	indeclform
+12478	proclitic/indeclform
+12485	indeclform
+12497	indeclform
+proclitic/indeclform
+12505	indeclform
+12512	indeclform
+12514	syll_augment/unaugmented
+12519	proclitic/indeclform
+indeclform
+12525	syll_augment/unaugmented
+12533	indeclform
+12535	syll_augment/unaugmented
+12540	syll_augment/unaugmented
+12564	indeclform
+12566	enclitic/indeclform
+12577	unaugmented/poetic
+12583	proclitic/indeclform
+12590	enclitic/indeclform
+12622	proclitic/indeclform
+12643	unaugmented
+12650	unaugmented
+12654	enclitic/indeclform
+12657	unaugmented
+12671	unaugmented
+12692	enclitic/indeclform
+12698	syll_augment/unaugmented
+proclitic/indeclform
+12736	unaugmented
+12750	unaugmented
+proclitic/indeclform
+12761	proclitic/indeclform
+12767	enclitic/indeclform
+12781	proclitic/indeclform
+12787	indeclform
+12792	indeclform
+12795	unaugmented/poetic
+12801	unaugmented
+12814	poetic/indeclform
+12820	enclitic/indeclform
+12823	enclitic/indeclform
+12850	syll_augment/unaugmented
+proclitic/indeclform
+12856	indeclform
+12865	indeclform
+12871	unaugmented
+12886	unaugmented
+12896	enclitic/indeclform
+12900	indeclform
+12910	enclitic/indeclform
+12926	enclitic/indeclform
+12931	unaugmented
+12942	indeclform
+12964	enclitic/indeclform
+12987	enclitic/indeclform
+12992	unaugmented
+12996	unaugmented
+13000	unaugmented
+13024	enclitic/indeclform
+13037	syll_augment/unaugmented
+13070	enclitic/indeclform
+13077	proclitic/indeclform
+13093	proclitic/indeclform
+13098	unaugmented/poetic
+proclitic/indeclform
+13114	syll_augment/unaugmented
+13116	indeclform
+13124	indeclform
+13133	syll_augment/unaugmented
+13144	enclitic/indeclform
+13153	indeclform
+13157	indeclform
+unaugmented
+13166	indeclform
+13170	indeclform
+13172	unaugmented/poetic
+indeclform
+13182	proclitic/indeclform
+13199	syll_augment/unaugmented
+13206	comp_only
+13214	causal
+13216	indeclform
+13222	indeclform
+13234	unaugmented
+13238	indeclform
+13255	indeclform
+13257	proclitic/indeclform
+13274	syll_augment/unaugmented
+13285	unaugmented/poetic
+proclitic/indeclform
+13295	proclitic/indeclform
+13297	proclitic/indeclform
+indeclform
+13310	unaugmented
+indeclform
+13314	unaugmented/poetic
+13334	unaugmented
+13338	enclitic/indeclform
+13345	enclitic/indeclform
+13369	proclitic/indeclform
+indeclform
+13381	proclitic/indeclform
+13387	proclitic/indeclform
+13393	proclitic/indeclform
+13400	indeclform
+13412	proclitic/indeclform
+13414	proclitic/indeclform
+13424	enclitic/indeclform
+13436	indeclform
+13450	enclitic/indeclform
+13453	proclitic/indeclform
+13459	syll_augment/unaugmented
+13461	indeclform
+13469	poetic/indeclform
+13474	unasp_preverb
+13484	enclitic/indeclform
+13520	enclitic/indeclform
+13523	enclitic/indeclform
+13530	indeclform
+13533	unaugmented
+13536	indeclform
+13540	unaugmented
+13559	indeclform
+13568	indeclform
+13579	indeclform
+13584	indeclform
+13590	proclitic/indeclform
+13596	proclitic/indeclform
+13602	proclitic/indeclform
+13672	indeclform
+13696	indeclform
+13721	indeclform
+13724	enclitic/indeclform
+13727	poetic/indeclform
+late
+proclitic/indeclform
+indeclform
+13736	poetic/indeclform
+late
+proclitic/indeclform
+indeclform
+13742	unaugmented
+unaugmented
+13753	indeclform
+13762	poetic/indeclform
+late
+proclitic/indeclform
+indeclform
+13771	poetic/indeclform
+late
+proclitic/indeclform
+indeclform
+13776	indeclform
+contr/unasp_preverb
+13779	unaugmented
+13786	indeclform
+13790	unaugmented
+13796	proclitic/indeclform
+indeclform
+13800	proclitic/indeclform
+13803	proclitic/indeclform
+13806	contr/unasp_preverb
+13811	proclitic/indeclform
+indeclform
+13815	proclitic/indeclform
+13818	proclitic/indeclform
+indeclform
+13825	proclitic/indeclform
+indeclform
+13829	proclitic/indeclform
+indeclform
+13833	unaugmented/poetic
+13835	proclitic/indeclform
+indeclform
+13838	contr/unasp_preverb
+13841	indeclform
+13847	unaugmented
+13858	indeclform
+13879	enclitic/indeclform
+13888	indeclform
+13925	indeclform
+13931	unaugmented
+13964	indeclform
+13977	indeclform
+13985	proclitic/indeclform
+13992	poetic/indeclform
+13996	proclitic/indeclform
+indeclform
+14022	enclitic/indeclform
+14050	proclitic/indeclform
+14087	unaugmented
+14093	indeclform
+14103	indeclform
+14116	indeclform
+14123	indeclform
+14134	indeclform
+14140	indeclform
+14148	poetic/indeclform
+14153	proclitic/indeclform
+14166	enclitic/indeclform
+14178	syll_augment/unaugmented
+14186	indeclform
+14207	enclitic/indeclform
+14213	indeclform
+14232	syll_augment/unaugmented
+14243	indeclform
+14261	unaugmented
+14263	unaugmented
+14302	unaugmented
+14336	indeclform
+14351	unaugmented/poetic
+14354	proclitic/indeclform
+14359	unaugmented/poetic
+14376	unaugmented
+14382	proclitic/indeclform
+14389	enclitic/indeclform
+proclitic/indeclform
+14395	indeclform
+14404	indeclform
+14411	proclitic/indeclform
+indeclform
+14424	proclitic/indeclform
+14430	proclitic/indeclform
+14434	syll_augment/unaugmented
+14439	indeclform
+14471	poetic/indeclform
+syll_augment/unaugmented/poetic
+indeclform
+14486	indeclform
+14492	indeclform
+14516	indeclform
+14520	indeclform
+14522	proclitic/indeclform
+14529	proclitic/indeclform
+14536	indeclform
+14547	indeclform
+14560	enclitic/indeclform
+14574	indeclform
+14582	enclitic/indeclform
+14603	proclitic/indeclform
+14668	indeclform
+14691	indeclform
+14696	indeclform
+14700	poetic/indeclform
+14707	indeclform
+14710	enclitic/indeclform
+14727	enclitic/indeclform
+14747	indeclform
+14753	proclitic/indeclform
+14756	proclitic/indeclform
+14791	indeclform
+14800	proclitic/indeclform
+indeclform
+14810	proclitic/indeclform
+indeclform
+14818	unaugmented
+14842	redupl
+poetic/indeclform
+14846	poetic/indeclform
+14869	indeclform
+14889	proclitic/indeclform
+14905	indeclform
+14912	causal
+14921	proclitic/indeclform
+14948	proclitic/indeclform
+14952	comp_only
+14954	proclitic/indeclform
+14981	indeclform
+15022	proclitic/indeclform
+15066	indeclform
+15082	enclitic/indeclform
+15086	indeclform
+15088	indeclform
+15115	indeclform
+15128	indeclform
+15132	syll_augment/unaugmented
+15135	indeclform
+15137	unaugmented
+15139	unaugmented
+15156	unaugmented
+15160	indeclform
+15185	indeclform
+15190	proclitic/indeclform
+15198	indeclform
+15212	redupl
+15236	indeclform
+15250	indeclform
+15272	unaugmented/causal
+unaugmented
+15283	indeclform
+15286	syll_augment/unaugmented
+15292	indeclform
+15314	unaugmented/causal
+unaugmented
+15330	syll_augment/unaugmented
+15336	proclitic/indeclform
+15354	proclitic/indeclform
+15357	indeclform
+15366	syll_augment/unaugmented
+15387	indeclform
+15396	poetic/indeclform
+15409	indeclform
+15411	indeclform
+15414	indeclform
+15457	proclitic/indeclform
+15463	enclitic/indeclform
+15478	indeclform
+15489	indeclform
+15495	causal
+indeclform
+15502	indeclform
+15516	enclitic/indeclform
+15524	indeclform
+15552	proclitic/indeclform
+15562	enclitic/indeclform
+15572	indeclform
+15583	indeclform
+15592	indeclform
+proclitic/indeclform
+15607	indeclform
+15628	unaugmented/poetic
+r_e_i_alpha/redupl
+15637	indeclform
+15668	proclitic/indeclform
+15684	indeclform
+15686	indeclform
+15688	indeclform
+15690	indeclform
+15692	indeclform
+proclitic/indeclform
+15705	indeclform
+15723	enclitic/indeclform
+15739	syll_augment/unaugmented
+15762	enclitic/indeclform
+15765	enclitic/indeclform
+15789	proclitic/indeclform
+15796	proclitic/indeclform
+indeclform
+15803	proclitic/indeclform
+15805	proclitic/indeclform
+15809	unaugmented
+15815	unaugmented
+15826	enclitic/indeclform
+15832	indeclform
+15847	syll_augment/unaugmented
+15889	indeclform
+15894	unaugmented/poetic
+15896	proclitic/indeclform
+15898	indeclform
+15920	syll_augment/unaugmented
+15926	indeclform
+15929	enclitic/indeclform
+15949	enclitic/indeclform
+15951	indeclform
+15963	syll_augment/unaugmented
+unaugmented
+15993	enclitic/indeclform
+15995	proclitic/indeclform
+16015	syll_augment/unaugmented
+16018	indeclform
+16033	indeclform
+16040	syll_augment/unaugmented
+16044	unaugmented/poetic
+16047	proclitic/indeclform
+indeclform
+16065	indeclform
+16069	indeclform
+16088	unaugmented/pres_redupl
+16090	syll_augment/unaugmented
+indeclform
+16113	syll_augment/unaugmented
+16150	indeclform
+16171	unaugmented
+proclitic/indeclform
+16194	proclitic/indeclform
+16196	proclitic/indeclform
+16202	unaugmented
+16207	indeclform
+16225	syll_augment/unaugmented
+16230	proclitic/indeclform
+16243	proclitic/indeclform
+16266	redupl
+16270	enclitic/indeclform
+16280	unaugmented/poetic
+16287	unaugmented
+16290	indeclform
+16312	indeclform
+unaugmented
+16320	unaugmented
+16322	unaugmented/poetic
+16340	unaugmented/poetic
+16346	proclitic/indeclform
+16350	proclitic/indeclform
+16363	indeclform
+16372	unaugmented/poetic
+unaugmented
+16375	syll_augment/unaugmented
+16385	indeclform
+16413	unaugmented
+16419	enclitic/indeclform
+16449	indeclform
+16465	unaugmented/pres_redupl
+16495	unaugmented/pres_redupl
+16502	poetic/indeclform
+unaugmented
+16511	indeclform
+16513	syll_augment/unaugmented
+16522	syll_augment/unaugmented
+16577	enclitic/indeclform
+16580	proclitic/indeclform
+16583	indeclform
+16593	causal
+16600	enclitic/indeclform
+16609	proclitic/indeclform
+16613	syll_augment/unaugmented
+16618	proclitic/indeclform
+16630	proclitic/indeclform
+indeclform
+16650	enclitic/indeclform
+16656	enclitic/indeclform
+16667	enclitic/indeclform
+16670	enclitic/indeclform
+16682	unaugmented/poetic
+16687	indeclform
+16695	enclitic/indeclform
+16712	unaugmented
+16724	redupl
+16728	unaugmented/poetic
+16733	no_redupl
+16738	syll_augment/unaugmented
+16753	syll_augment/unaugmented
+16759	unaugmented/poetic
+16763	indeclform
+16767	proclitic/indeclform
+16773	unaugmented/poetic
+16782	indeclform
+16806	indeclform
+16816	indeclform
+16822	indeclform
+16824	enclitic/indeclform
+16840	enclitic/indeclform
+16845	indeclform
+16850	poetic
+16857	proclitic/indeclform
+16880	unaugmented
+16890	unaugmented/poetic
+16905	unaugmented
+16908	unaugmented
+16915	enclitic/indeclform
+16917	syll_augment/unaugmented
+indeclform
+16925	proclitic/indeclform
+16928	indeclform
+16941	unaugmented
+16974	enclitic/indeclform
+16977	enclitic/indeclform
+16985	desiderative
+16994	indeclform
+17006	indeclform
+17018	enclitic/indeclform
+17028	indeclform
+17037	enclitic/indeclform
+17041	indeclform
+17052	unaugmented
+17066	unaugmented
+17082	unaugmented
+17090	indeclform
+17094	unaugmented
+17128	proclitic/indeclform
+17140	proclitic/indeclform
+indeclform
+17182	indeclform
+17197	syll_augment/unaugmented
+17203	unaugmented
+indeclform
+17206	indeclform
+17227	indeclform
+17234	indeclform
+17245	enclitic/indeclform
+17249	enclitic/indeclform
+17266	syll_augment/unaugmented
+17273	unaugmented
+indeclform
+enclitic/indeclform
+17286	unaugmented
+17301	enclitic/indeclform
+17314	unaugmented
+17340	syll_augment/unaugmented
+17348	indeclform
+17364	enclitic/indeclform
+17399	proclitic/indeclform
+17438	indeclform
+17449	unaugmented
+17488	indeclform
+17500	contr/unasp_preverb
+17528	enclitic/indeclform
+17544	proclitic/indeclform
+17552	proclitic/indeclform
+17554	unaugmented/poetic
+17559	unaugmented
+17561	enclitic/indeclform
+17583	unaugmented
+17597	syll_augment/unaugmented
+17600	unaugmented/poetic
+17607	enclitic/indeclform
+17609	enclitic/indeclform
+17622	indeclform
+17653	unaugmented/n_infix
+17677	unaugmented
+17681	enclitic/indeclform
+17699	unaugmented
+17707	unaugmented
+17712	contr/unasp_preverb
+17716	indeclform
+17724	indeclform
+17755	enclitic/indeclform
+17765	indeclform
+17771	unaugmented/poetic
+17785	indeclform
+17792	proclitic/indeclform
+17796	indeclform
+17800	indeclform
+17807	indeclform
+17826	indeclform
+17830	indeclform
+17850	proclitic/indeclform
+17856	proclitic/indeclform
+indeclform
+17863	proclitic/indeclform
+17879	indeclform
+17882	indeclform
+unaugmented/poetic
+17891	unaugmented/poetic
+17898	enclitic/indeclform
+17901	enclitic/indeclform
+17912	syll_augment/unaugmented
+17914	unaugmented
+17923	unaugmented
+17929	enclitic/indeclform
+17931	enclitic/indeclform
+17937	indeclform
+17945	indeclform
+unaugmented
+unaugmented
+17957	unaugmented
+17959	proclitic/indeclform
+17961	enclitic/indeclform
+17966	unaugmented
+17983	indeclform
+17986	indeclform
+unaugmented/poetic
+17991	unaugmented
+18010	contr/unasp_preverb
+18014	indeclform
+18017	proclitic/indeclform
+18024	proclitic/indeclform
+18031	unaugmented
+enclitic/indeclform
+18036	proclitic/indeclform
+18042	syll_augment/unaugmented
+18046	unaugmented
+18048	unaugmented
+18061	syll_augment/unaugmented
+18091	syll_augment/unaugmented
+indeclform
+18132	unaugmented
+unaugmented
+18150	unaugmented/n_infix
+18161	indeclform
+18179	enclitic/indeclform
+18201	enclitic/indeclform
+18206	proclitic/indeclform
+18219	enclitic/indeclform
+18230	indeclform
+18239	enclitic/indeclform
+18251	indeclform
+18253	proclitic/indeclform
+18263	indeclform
+18285	indeclform
+18292	indeclform
+18306	unaugmented/poetic
+18309	proclitic/indeclform
+indeclform
+18312	indeclform
+18320	comp_only
+18329	proclitic/indeclform
+18337	unaugmented
+18345	proclitic/indeclform
+18350	unaugmented
+18358	indeclform
+indeclform
+18363	enclitic/indeclform
+18370	proclitic/indeclform
+indeclform
+18390	contr/indeclform
+18397	unaugmented/poetic
+18407	indeclform
+18430	proclitic/indeclform
+18456	unaugmented
+18460	proclitic/indeclform
+18462	unaugmented
+18472	proclitic/indeclform
+18478	proclitic/indeclform
+18492	proclitic/indeclform
+18507	enclitic/indeclform
+18509	unaugmented
+18525	unaugmented/poetic
+18527	unaugmented/poetic
+18536	indeclform
+18539	unaugmented/poetic
+18543	proclitic/indeclform
+indeclform
+18561	proclitic/indeclform
+18568	syll_augment/unaugmented
+18576	unaugmented
+18584	indeclform
+18603	proclitic/indeclform
+indeclform
+18607	indeclform
+18619	proclitic/indeclform
+indeclform
+18651	proclitic/indeclform
+18656	proclitic/indeclform
+enclitic/indeclform
+18662	proclitic/indeclform
+18667	proclitic/indeclform
+18674	indeclform
+18682	unaugmented
+18685	proclitic/indeclform
+18689	unaugmented/poetic
+18697	unaugmented
+18739	indeclform
+18767	indeclform
+18787	unaugmented
+18813	unaugmented/poetic
+indeclform
+18835	indeclform
+18841	indeclform
+18858	enclitic/indeclform
+18862	unaugmented
+18883	unaugmented
+18900	indeclform
+18937	indeclform
+18950	unaugmented
+18954	unaugmented
+18958	indeclform
+18966	indeclform
+18970	unaugmented/poetic
+19010	proclitic/indeclform
+19020	indeclform
+19068	indeclform
+19077	unaugmented/n_infix
+19084	proclitic/indeclform
+19107	indeclform
+19113	proclitic/indeclform
+19120	proclitic/indeclform
+19128	indeclform
+19134	indeclform
+19160	indeclform
+19223	unaugmented/poetic
+19227	unaugmented
+19237	proclitic/indeclform
+19247	indeclform
+19260	enclitic/indeclform
+19292	enclitic/indeclform
+19296	enclitic/indeclform
+19302	unaugmented
+unaugmented
+19307	enclitic/indeclform
+19311	enclitic/indeclform
+19321	enclitic/indeclform
+19325	enclitic/indeclform
+19330	enclitic/indeclform
+19337	syll_augment/unaugmented
+19343	enclitic/indeclform
+19347	proclitic/indeclform
+19377	proclitic/indeclform
+19388	unaugmented
+19398	unaugmented
+19409	unaugmented
+19426	enclitic/indeclform
+19428	unaugmented
+19430	unaugmented
+19437	proclitic/indeclform
+19445	enclitic/indeclform
+19455	enclitic/indeclform
+19459	indeclform
+19482	enclitic/indeclform
+19485	enclitic/indeclform
+19491	unaugmented/poetic
+19568	indeclform
+19570	indeclform
+19587	indeclform
+19589	unaugmented
+19591	indeclform
+19593	enclitic/indeclform
+19606	unaugmented
+19609	indeclform
+19618	indeclform
+19623	enclitic/indeclform
+19666	r_e_i_alpha/unaugmented/poetic
+19683	syll_augment/unaugmented
+19711	indeclform
+19713	indeclform
+19725	proclitic/indeclform
+19729	unaugmented/poetic
+19769	indeclform
+19778	indeclform
+19847	enclitic/indeclform
+19858	enclitic/indeclform
+19860	enclitic/indeclform
+19870	proclitic/indeclform
+indeclform
+19876	indeclform
+19881	proclitic/indeclform
+19885	enclitic/indeclform
+19899	indeclform
+19910	indeclform
+19926	unaugmented
+19939	indeclform
+19957	indeclform
+19965	indeclform
+19975	poetic/indeclform
+19988	unaugmented
+20000	indeclform
+20004	enclitic/indeclform
+20024	indeclform
+20028	enclitic/indeclform
+20044	indeclform
+20048	enclitic/indeclform
+20058	indeclform
+indeclform
+20063	enclitic/indeclform
+20067	poetic/indeclform
+20072	unaugmented/poetic
+20100	proclitic/indeclform
+20117	proclitic/indeclform
+20123	proclitic/indeclform
+20127	unaugmented
+20135	proclitic/indeclform
+indeclform
+20146	indeclform
+20220	proclitic/indeclform
+20223	proclitic/indeclform
+20239	enclitic/indeclform
+20250	indeclform
+20257	unaugmented/poetic
+20262	proclitic/indeclform
+20264	indeclform
+20280	enclitic/indeclform
+20294	enclitic/indeclform
+indeclform
+20307	enclitic/indeclform
+20334	enclitic/indeclform
+20336	indeclform
+20339	proclitic/indeclform
+20353	proclitic/indeclform
+20355	unaugmented
+20361	indeclform
+20371	enclitic/indeclform
+20378	enclitic/indeclform
+20388	indeclform
+20395	indeclform
+20408	enclitic/indeclform
+20423	proclitic/indeclform
+20426	proclitic/indeclform
+20429	proclitic/indeclform
+20435	indeclform
+20444	indeclform
+20447	unaugmented
+20458	unaugmented
+20465	unaugmented
+20483	proclitic/indeclform
+20488	indeclform
+20491	indeclform
+20511	indeclform
+20514	unaugmented/poetic
+proclitic/indeclform
+20536	proclitic/indeclform
+20540	unaugmented/poetic
+indeclform
+20551	proclitic/indeclform
+indeclform
+20564	unaugmented
+20569	enclitic/indeclform
+20574	unaugmented/poetic
+indeclform
+proclitic/indeclform
+20581	proclitic/indeclform
+20619	indeclform
+20637	unaugmented/poetic
+20652	proclitic/indeclform
+20661	r_e_i_alpha/unaugmented/poetic
+20668	proclitic/indeclform
+20670	proclitic/indeclform
+indeclform
+20685	indeclform
+20699	proclitic/indeclform
+20721	indeclform
+20724	syll_augment/unaugmented
+20727	unaugmented
+20738	syll_augment/unaugmented
+20744	enclitic/indeclform
+20757	indeclform
+20765	indeclform
+20773	r_e_i_alpha/unaugmented/poetic
+20794	proclitic/indeclform
+20801	proclitic/indeclform
+20828	unaugmented
+20841	proclitic/indeclform
+20845	proclitic/indeclform
+20876	unaugmented/poetic
+20889	unaugmented
+20927	indeclform
+20951	indeclform
+20953	indeclform
+20960	redupl
+indeclform
+20969	proclitic/indeclform
+20973	proclitic/indeclform
+20977	enclitic/indeclform
+21011	redupl
+21017	unaugmented
+21019	enclitic/indeclform
+21021	enclitic/indeclform
+21023	indeclform
+21054	unaugmented
+21056	unaugmented
+21076	redupl
+21083	proclitic/indeclform
+21098	proclitic/indeclform
+indeclform
+21104	r_e_i_alpha/unaugmented/poetic
+21131	unaugmented
+21166	proclitic/indeclform
+21179	indeclform
+21186	unaugmented
+21193	indeclform
+21198	proclitic/indeclform
+indeclform
+21219	indeclform
+21226	indeclform
+21238	proclitic/indeclform
+21246	proclitic/indeclform
+indeclform
+21258	enclitic/indeclform
+21277	indeclform
+21292	syll_augment/unaugmented
+21294	indeclform
+21299	syll_augment/unaugmented
+21302	indeclform
+21323	unaugmented/poetic
+21326	indeclform
+21343	indeclform
+21351	unaugmented
+21373	unaugmented/poetic
+21394	unaugmented
+21464	syll_augment/unaugmented
+21480	enclitic/indeclform
+21488	proclitic/indeclform
+21492	enclitic/indeclform
+21497	enclitic/indeclform
+21502	indeclform
+21504	indeclform
+21545	proclitic/indeclform
+21559	proclitic/indeclform
+21564	proclitic/indeclform
+21569	proclitic/indeclform
+21578	indeclform
+21584	unaugmented
+21639	unaugmented
+21658	poetic/indeclform
+21663	poetic/indeclform
+21673	unaugmented
+21677	unasp_preverb
+21682	unaugmented/poetic
+21723	comp_only
+21726	proclitic/indeclform
+21739	proclitic/indeclform
+21765	proclitic/indeclform
+21771	unaugmented/poetic
+21782	indeclform
+21794	indeclform
+21862	indeclform
+21870	syll_augment/unaugmented
+indeclform
+21897	syll_augment/unaugmented
+21903	indeclform
+21905	syll_augment/unaugmented
+21923	unaugmented/poetic
+21946	redupl
+21963	proclitic/indeclform
+21976	indeclform
+21988	enclitic/indeclform
+22000	proclitic/indeclform
+22004	enclitic/indeclform
+22034	enclitic/indeclform
+22037	enclitic/indeclform
+22046	proclitic/indeclform
+indeclform
+22083	proclitic/indeclform
+22100	enclitic/indeclform
+22130	syll_augment/unaugmented
+22152	unaugmented
+22155	unaugmented
+22172	indeclform
+22176	unaugmented
+22232	enclitic/indeclform
+22252	r_e_i_alpha/unaugmented/poetic
+22274	proclitic/indeclform
+22288	proclitic/indeclform
+indeclform
+22313	enclitic/indeclform
+22342	unaugmented
+22346	unaugmented
+22362	proclitic/indeclform
+22374	indeclform
+22416	poetic/indeclform
+22420	indeclform
+22423	indeclform
+22426	proclitic/indeclform
+22445	poetic/indeclform
+22448	unaugmented
+22453	enclitic/indeclform
+22456	unaugmented/n_infix
+22477	enclitic/indeclform
+22482	enclitic/indeclform
+22509	indeclform
+22521	enclitic/indeclform
+22524	enclitic/indeclform
+22530	enclitic/indeclform
+22538	unaugmented
+22546	syll_augment/unaugmented
+22555	proclitic/indeclform
+22565	indeclform
+22572	unaugmented/poetic
+22585	unaugmented/poetic
+22599	unaugmented/poetic
+22607	syll_augment/unaugmented
+unaugmented
+22620	indeclform
+22630	indeclform
+22632	indeclform
+22642	unaugmented/poetic
+22649	indeclform
+22651	indeclform
+22658	unaugmented/poetic
+22693	unaugmented
+indeclform
+22700	indeclform
+22714	enclitic/indeclform
+22759	indeclform
+22777	unaugmented
+22780	enclitic/indeclform
+22782	enclitic/indeclform
+22800	indeclform
+22813	indeclform
+22846	indeclform
+22852	indeclform
+22871	indeclform
+22886	indeclform
+22895	indeclform
+22897	unasp_preverb
+22907	syll_augment/unaugmented
+22927	unaugmented
+22933	unaugmented
+22953	indeclform
+22985	indeclform
+23050	unaugmented
+23052	proclitic/indeclform
+23087	unaugmented
+23094	proclitic/indeclform
+23098	unaugmented/n_infix
+23106	enclitic/indeclform
+23110	enclitic/indeclform
+23122	unaugmented
+23125	enclitic/indeclform
+23131	indeclform
+23153	indeclform
+23162	syll_augment/unaugmented
+23178	proclitic/indeclform
+23195	indeclform
+23200	enclitic/indeclform
+23216	unaugmented
+indeclform
+23222	indeclform
+23229	indeclform
+23244	r_e_i_alpha/unaugmented/poetic
+23258	proclitic/indeclform
+indeclform
+23265	unaugmented
+23323	unaugmented
+23369	unaugmented
+23378	indeclform
+23381	unaugmented
+23397	proclitic/indeclform
+23435	enclitic/indeclform
+23443	unaugmented/poetic
+23445	proclitic/indeclform
+23457	enclitic/indeclform
+23460	enclitic/indeclform
+23484	indeclform
+23494	proclitic/indeclform
+23567	indeclform
+23569	unaugmented/poetic
+unaugmented
+indeclform
+23582	syll_augment/unaugmented
+23605	unaugmented
+23612	poetic/indeclform
+23615	unaugmented
+23618	unaugmented/poetic
+23635	unaugmented
+23654	proclitic/indeclform
+23671	proclitic/indeclform
+23687	indeclform
+23690	unaugmented/n_infix
+23700	poetic/indeclform
+23705	unaugmented/poetic
+23707	proclitic/indeclform
+23737	indeclform
+23762	indeclform
+23769	indeclform
+23780	unaugmented
+23815	unaugmented
+23823	unaugmented
+23839	indeclform
+23871	enclitic/indeclform
+23889	enclitic/indeclform
+23901	unaugmented
+23903	indeclform
+24026	rare
+24043	proclitic/indeclform
+24049	syll_augment/unaugmented
+24070	indeclform
+24077	syll_augment/unaugmented
+24084	indeclform
+24106	indeclform
+24108	indeclform
+24120	unaugmented
+24160	enclitic/indeclform
+24174	syll_augment/unaugmented
+24179	proclitic/indeclform
+24185	proclitic/indeclform
+24225	enclitic/indeclform
+24239	proclitic/indeclform
+24246	proclitic/indeclform
+24250	enclitic/indeclform
+24257	proclitic/indeclform
+24263	unaugmented
+24286	proclitic/indeclform
+24292	syll_augment/unaugmented
+24295	poetic/indeclform
+24302	indeclform
+24309	poetic/indeclform
+24315	unaugmented
+24325	indeclform
+proclitic/indeclform
+indeclform
+24335	indeclform
+24342	indeclform
+24346	syll_augment/unaugmented
+24357	indeclform
+24376	poetic/indeclform
+24381	proclitic/indeclform
+24388	indeclform
+24398	poetic/indeclform
+24427	indeclform
+24440	indeclform
+24471	indeclform
+24498	unaugmented/poetic
+indeclform
+24529	unaugmented
+24531	proclitic/indeclform
+24536	proclitic/indeclform
+24541	proclitic/indeclform
+24548	indeclform
+24553	r_e_i_alpha/unaugmented/poetic
+24563	proclitic/indeclform
+24583	syll_augment/unaugmented
+24586	indeclform
+24589	enclitic/indeclform
+24602	syll_augment/unaugmented
+24609	indeclform
+24634	enclitic/indeclform
+24643	unaugmented
+24659	enclitic/indeclform
+24669	poetic/indeclform
+24697	enclitic/indeclform
+24708	syll_augment/unaugmented
+24711	indeclform
+24723	indeclform
+24726	unaugmented/poetic
+24729	indeclform
+24731	poetic/indeclform
+24737	unaugmented/poetic
+proclitic/indeclform
+24749	unaugmented
+24769	unaugmented
+24773	unaugmented
+24777	syll_augment/unaugmented
+24803	unaugmented
+24817	unaugmented
+24829	syll_augment/unaugmented
+24845	proclitic/indeclform
+24849	unaugmented
+24855	indeclform
+24872	enclitic/indeclform
+24874	enclitic/indeclform
+indeclform
+24882	unaugmented/poetic
+24884	enclitic/indeclform
+24900	enclitic/indeclform
+24907	unaugmented/poetic
+24918	indeclform
+24924	unaugmented/poetic
+24926	enclitic/indeclform
+24953	indeclform
+24972	indeclform
+24976	unaugmented
+24978	indeclform
+24980	indeclform
+24982	indeclform
+24984	indeclform
+24986	indeclform
+24988	indeclform
+24991	unaugmented/poetic
+25001	proclitic/indeclform
+indeclform
+25019	proclitic/indeclform
+indeclform
+25022	indeclform
+25032	enclitic/indeclform
+25037	proclitic/indeclform
+25051	enclitic/indeclform
+25063	indeclform
+25114	enclitic/indeclform
+25127	indeclform
+25130	syll_augment/unaugmented
+25135	unaugmented
+indeclform
+enclitic/indeclform
+25142	indeclform
+25153	proclitic/indeclform
+25160	syll_augment/unaugmented
+25173	indeclform
+25180	enclitic/indeclform
+25188	syll_augment/unaugmented
+25209	indeclform
+25221	enclitic/indeclform
+25238	enclitic/indeclform
+25246	enclitic/indeclform
+25255	proclitic/indeclform
+indeclform
+25259	poetic/indeclform
+25263	proclitic/indeclform
+indeclform
+25270	poetic/indeclform
+25272	proclitic/indeclform
+indeclform
+25288	unaugmented
+25293	unaugmented
+25313	unaugmented
+25319	unaugmented/poetic
+25359	syll_augment/unaugmented
+25378	unaugmented
+25388	syll_augment/unaugmented
+25392	unaugmented
+25396	syll_augment/unaugmented
+25404	syll_augment/unaugmented
+25407	indeclform
+25418	proclitic/indeclform
+25443	unaugmented
+25471	indeclform
+25491	unaugmented
+25504	unaugmented/n_infix
+25515	enclitic/indeclform
+25520	syll_augment/unaugmented
+25536	indeclform
+25545	indeclform
+25560	enclitic/indeclform
+25563	enclitic/indeclform
+25570	proclitic/indeclform
+25574	indeclform
+25582	proclitic/indeclform
+25608	unaugmented/poetic
+25623	indeclform
+25626	proclitic/indeclform
+25633	unaugmented
+25645	syll_augment/unaugmented
+25652	unaugmented/poetic
+25658	enclitic/indeclform
+25677	proclitic/indeclform
+indeclform
+25728	enclitic/indeclform
+25731	enclitic/indeclform
+25735	enclitic/indeclform
+25760	indeclform
+25774	indeclform
+indeclform
+25778	r_e_i_alpha/redupl
+25788	unaugmented/poetic
+25791	indeclform
+25794	poetic/indeclform
+25796	indeclform
+25808	proclitic/indeclform
+25812	unaugmented
+25823	indeclform
+25834	indeclform
+25839	unaugmented
+25851	proclitic/indeclform
+25855	indeclform
+indeclform
+25865	proclitic/indeclform
+indeclform
+25873	enclitic/indeclform
+25876	enclitic/indeclform
+25879	enclitic/indeclform
+25884	proclitic/indeclform
+25889	indeclform
+25902	syll_augment/unaugmented
+25912	unaugmented
+indeclform
+proclitic/indeclform
+25926	indeclform
+25947	unaugmented
+25965	indeclform
+25978	indeclform
+proclitic/indeclform
+25987	proclitic/indeclform
+26013	indeclform
+26076	enclitic/indeclform
+26092	indeclform
+26128	enclitic/indeclform
+26142	proclitic/indeclform
+26160	syll_augment/unaugmented
+26187	proclitic/indeclform
+26206	unaugmented/poetic
+26212	indeclform
+26215	indeclform
+26224	syll_augment/unaugmented
+26233	contr
+enclitic/indeclform
+26241	indeclform
+26245	indeclform
+unaugmented
+enclitic/indeclform
+26255	syll_augment/unaugmented
+26257	indeclform
+26262	indeclform
+26264	unaugmented/poetic
+indeclform
+26288	indeclform
+26309	causal
+26311	indeclform
+26325	unaugmented
+26342	enclitic/indeclform
+26350	indeclform
+26353	proclitic/indeclform
+26362	enclitic/indeclform
+26384	unaugmented/poetic
+26396	proclitic/indeclform
+26398	proclitic/indeclform
+26409	proclitic/indeclform
+26416	enclitic/indeclform
+syll_augment/unaugmented
+26436	unaugmented
+26482	unaugmented/poetic
+26484	unaugmented
+26488	unaugmented/poetic
+26494	unaugmented/poetic
+26496	unaugmented
+26500	unaugmented/poetic
+26510	proclitic/indeclform
+26514	unaugmented/poetic
+26519	syll_augment/unaugmented
+26542	unaugmented/poetic
+26544	unaugmented
+26547	unaugmented/poetic
+26552	unaugmented/poetic
+26560	proclitic/indeclform
+26577	syll_augment/unaugmented
+26581	proclitic/indeclform
+26586	unaugmented/poetic
+26599	proclitic/indeclform
+indeclform
+26602	enclitic/indeclform
+26604	enclitic/indeclform
+26614	syll_augment/unaugmented
+proclitic/indeclform
+indeclform
+26618	indeclform
+26620	syll_augment/unaugmented
+26622	indeclform
+26630	poetic/indeclform
+26635	unasp_preverb
+26645	enclitic/indeclform
+26657	proclitic/indeclform
+26668	proclitic/indeclform
+26673	proclitic/indeclform
+26678	proclitic/indeclform
+26683	proclitic/indeclform
+26686	enclitic/indeclform
+26701	unaugmented
+26706	enclitic/indeclform
+26713	unaugmented/poetic
+26735	syll_augment/unaugmented
+26739	indeclform
+26741	indeclform
+26744	indeclform
+26753	unaugmented/poetic
+26773	unaugmented
+26788	indeclform
+26797	syll_augment/unaugmented
+26836	syll_augment/unaugmented
+indeclform
+26864	indeclform
+26882	unaugmented
+26926	unaugmented/poetic
+26928	unaugmented/poetic
+26933	indeclform
+26939	unaugmented/poetic
+26953	indeclform
+proclitic/indeclform
+26959	unaugmented
+26964	enclitic/indeclform
+26966	unaugmented
+26984	unaugmented
+26989	unaugmented
+27019	enclitic/indeclform
+proclitic/indeclform
+27025	indeclform
+27049	indeclform
+27058	proclitic/indeclform
+27064	proclitic/indeclform
+27068	syll_augment/unaugmented
+27106	poetic/indeclform
+syll_augment/unaugmented/poetic
+indeclform
+27110	unaugmented
+27123	indeclform
+27125	indeclform
+27129	indeclform
+27154	indeclform
+27156	unaugmented
+proclitic/indeclform
+27169	indeclform
+27177	enclitic/indeclform
+27188	proclitic/indeclform
+27200	proclitic/indeclform
+27243	indeclform
+27266	indeclform
+27271	indeclform
+27275	indeclform
+27282	indeclform
+27285	enclitic/indeclform
+27296	indeclform
+27302	enclitic/indeclform
+27304	proclitic/indeclform
+27322	proclitic/indeclform
+27341	indeclform
+27346	unaugmented
+27357	indeclform
+27359	indeclform
+27361	indeclform
+27363	indeclform
+indeclform
+27373	indeclform
+27377	unaugmented
+27383	indeclform
+27390	enclitic/indeclform
+27393	enclitic/indeclform
+27395	enclitic/indeclform
+27397	proclitic/indeclform
+27404	proclitic/indeclform
+27408	enclitic/indeclform
+27416	proclitic/indeclform
+27418	proclitic/indeclform
+27423	unaugmented
+27430	unaugmented
+27443	unaugmented/n_infix
+27449	indeclform
+27453	unaugmented
+27461	contr/unasp_preverb
+27469	redupl
+27474	syll_augment/unaugmented
+27484	proclitic/indeclform
+27519	indeclform
+27524	unaugmented/poetic
+27552	enclitic/indeclform
+27563	enclitic/indeclform
+27576	poetic
+27579	enclitic/indeclform
+27599	unaugmented
+27605	indeclform
+27617	indeclform
+27638	indeclform
+27647	indeclform
+27650	enclitic/indeclform
+27658	unaugmented
+27660	syll_augment/unaugmented
+27680	syll_augment/unaugmented
+27683	indeclform
+27693	unaugmented/poetic
+27702	indeclform
+27706	syll_augment/unaugmented
+27714	unaugmented/poetic
+27731	indeclform
+27735	indeclform
+27760	syll_augment/unaugmented
+27774	unasp_preverb
+27779	syll_augment/unaugmented
+27794	indeclform
+27812	unaugmented
+proclitic/indeclform
+27817	unaugmented/poetic
+27836	unaugmented
+27840	indeclform
+27843	unaugmented
+27880	indeclform
+27899	redupl
+27908	unaugmented/poetic
+indeclform
+27918	unaugmented
+27944	indeclform
+unaugmented
+27952	unaugmented
+27969	indeclform
+27984	unaugmented/poetic
+27990	unaugmented
+28001	indeclform
+28010	unaugmented
+28012	syll_augment/unaugmented
+28022	indeclform
+28037	unaugmented
+28043	enclitic/indeclform
+28066	indeclform
+28083	unaugmented/pres_redupl
+28117	unaugmented/pres_redupl
+28123	poetic/indeclform
+unaugmented
+28130	unaugmented
+28142	enclitic/indeclform
+28173	syll_augment/unaugmented
+28175	proclitic/indeclform
+28190	proclitic/indeclform
+indeclform
+28216	unaugmented
+28237	enclitic/indeclform
+28240	enclitic/indeclform
+28243	enclitic/indeclform
+28253	indeclform
+28270	enclitic/indeclform
+28284	desiderative
+28301	unaugmented/n_infix
+28326	unaugmented
+28332	indeclform
+28368	proclitic/indeclform
+28378	syll_augment/unaugmented
+28402	unaugmented
+28416	indeclform
+28418	enclitic/indeclform
+28428	unaugmented/n_infix
+28444	enclitic/indeclform
+28453	contr/unasp_preverb
+proclitic/indeclform
+28484	unaugmented
+28497	indeclform
+28519	enclitic/indeclform
+28522	indeclform
+28527	proclitic/indeclform
+28531	proclitic/indeclform
+28540	unaugmented
+28558	proclitic/indeclform
+syll_augment/unaugmented
+28576	indeclform
+28579	enclitic/indeclform
+28603	proclitic/indeclform
+28616	comp_only
+28618	enclitic/indeclform
+28631	indeclform
+28634	comp_only
+28664	proclitic/indeclform
+28685	unaugmented
+indeclform
+28698	enclitic/indeclform
+28700	enclitic/indeclform
+28721	unaugmented
+28728	enclitic/indeclform
+28743	enclitic/indeclform
+28753	indeclform
+28756	unaugmented
+28769	enclitic/indeclform
+28774	indeclform
+28776	unaugmented/poetic
+28814	indeclform
+28816	n_infix
+28829	indeclform
+28841	indeclform
+28846	unaugmented/poetic
+28883	indeclform
+28896	unaugmented
+28902	indeclform
+unaugmented
+28927	enclitic/indeclform
+28944	proclitic/indeclform
+28952	unaugmented
+28955	enclitic/indeclform
+28979	unaugmented
+28985	enclitic/indeclform
+29031	unaugmented/n_infix
+29036	indeclform
+29046	unaugmented
+29069	unaugmented
+29076	contr/unasp_preverb
+29089	syll_augment/unaugmented
+29095	unaugmented/poetic
+29104	proclitic/indeclform
+29108	indeclform
+29112	indeclform
+29124	proclitic/indeclform
+29130	unaugmented
+29165	unaugmented/poetic
+29201	indeclform
+29214	proclitic/indeclform
+29229	indeclform
+29232	indeclform
+29236	indeclform
+29246	indeclform
+29250	indeclform
+29263	indeclform
+29274	unaugmented
+29281	indeclform
+29308	proclitic/indeclform
+29321	unaugmented
+29332	indeclform
+29338	unaugmented
+unaugmented
+29345	indeclform
+29357	syll_augment/unaugmented
+indeclform
+29379	indeclform
+29419	proclitic/indeclform
+29455	syll_augment/unaugmented
+29464	unaugmented/poetic
+29483	proclitic/indeclform
+indeclform
+29527	unaugmented/poetic
+29546	indeclform
+29585	proclitic/indeclform
+indeclform
+29590	indeclform
+enclitic/indeclform
+29605	unaugmented/poetic
+29615	unaugmented
+29620	proclitic/indeclform
+29627	unaugmented
+29652	unaugmented/poetic
+29654	proclitic/indeclform
+indeclform
+29670	indeclform
+29676	proclitic/indeclform
+29683	proclitic/indeclform
+indeclform
+29687	proclitic/indeclform
+29695	unaugmented/poetic
+29744	syll_augment/unaugmented
+29755	indeclform
+29759	indeclform
+29788	comp_only
+29820	comp_only
+29822	proclitic/indeclform
+29828	unaugmented
+29834	proclitic/indeclform
+29842	syll_augment/unaugmented
+29856	indeclform
+29860	proclitic/indeclform
+29868	syll_augment/unaugmented
+29875	comp_only
+29877	unaugmented/poetic
+29889	short_eis
+29922	proclitic/indeclform
+indeclform
+29925	proclitic/indeclform
+indeclform
+29940	proclitic/indeclform
+indeclform
+29953	proclitic/indeclform
+29972	indeclform
+29986	proclitic/indeclform
+29993	proclitic/indeclform
+29995	proclitic/indeclform
+29997	indeclform
+29999	indeclform
+30007	unaugmented/poetic
+30016	unaugmented
+30035	syll_augment/unaugmented
+30041	unaugmented/poetic
+indeclform
+30045	indeclform
+30051	syll_augment/unaugmented/poetic
+30056	syll_augment/unaugmented
+30067	indeclform
+30072	proclitic/indeclform
+30118	syll_augment/unaugmented
+30124	enclitic/indeclform
+30135	syll_augment/unaugmented
+30154	unaugmented/poetic
+30158	indeclform
+30165	proclitic/indeclform
+30182	unaugmented/poetic
+30185	syll_augment/unaugmented
+30189	indeclform
+30207	proclitic/indeclform
+30232	proclitic/indeclform
+30238	indeclform
+30243	proclitic/indeclform
+30251	indeclform
+30258	syll_augment/unaugmented
+30261	proclitic/indeclform
+30271	enclitic/indeclform
+30276	indeclform
+30285	proclitic/indeclform
+30287	indeclform
+30293	indeclform
+30297	proclitic/indeclform
+30301	proclitic/indeclform
+30307	indeclform
+30318	syll_augment/unaugmented
+30321	indeclform
+unaugmented
+30332	indeclform
+30334	indeclform
+30379	proclitic/indeclform
+30385	unaugmented
+30413	indeclform
+30416	indeclform
+30427	proclitic/indeclform
+30450	enclitic/indeclform
+30453	enclitic/indeclform
+30469	proclitic/indeclform
+30482	indeclform
+30490	indeclform
+30493	syll_augment/unaugmented
+30495	unaugmented
+30507	r_e_i_alpha
+30511	indeclform
+30514	syll_augment/unaugmented
+30516	indeclform
+30521	poetic/indeclform
+30544	indeclform
+30561	proclitic/indeclform
+30569	indeclform
+30575	enclitic/indeclform
+30577	proclitic/indeclform
+30583	indeclform
+30617	indeclform
+30624	indeclform
+proclitic/indeclform
+30672	indeclform
+30680	proclitic/indeclform
+30684	comp_only
+30686	indeclform
+30699	comp_only
+30702	unaugmented
+30708	indeclform
+30711	proclitic/indeclform
+30718	unaugmented/poetic
+30720	proclitic/indeclform
+30726	unaugmented
+30729	proclitic/indeclform
+30752	proclitic/indeclform
+30764	proclitic/indeclform
+30774	indeclform
+30778	unaugmented
+30832	proclitic/indeclform
+indeclform
+30851	redupl
+30856	proclitic/indeclform
+30863	proclitic/indeclform
+indeclform
+30869	proclitic/indeclform
+30890	unaugmented
+30899	syll_augment/unaugmented
+30904	unaugmented
+30908	indeclform
+30914	indeclform
+30918	indeclform
+30925	proclitic/indeclform
+30930	indeclform
+30937	proclitic/indeclform
+30943	indeclform
+30953	unaugmented
+proclitic/indeclform
+30961	proclitic/indeclform
+30966	proclitic/indeclform
+30973	enclitic/indeclform
+30975	enclitic/indeclform
+30995	indeclform
+31011	proclitic/indeclform
+31029	enclitic/indeclform
+31040	indeclform
+31045	indeclform
+31049	proclitic/indeclform
+31055	enclitic/indeclform
+31095	proclitic/indeclform
+31115	indeclform
+31119	proclitic/indeclform
+31123	indeclform/late
+31125	unaugmented
+31128	indeclform
+31138	proclitic/indeclform
+indeclform
+31144	indeclform
+31152	proclitic/indeclform
+31187	indeclform
+poetic/indeclform
+31195	proclitic/indeclform
+indeclform
+31202	proclitic/indeclform
+indeclform
+31206	unaugmented
+31232	syll_augment/unaugmented
+31243	proclitic/indeclform
+31247	enclitic/indeclform
+31275	indeclform
+31288	syll_augment/unaugmented
+31302	proclitic/indeclform
+indeclform
+31310	unaugmented/poetic
+31314	unaugmented
+31318	poetic/indeclform
+31335	proclitic/indeclform
+31356	unaugmented
+31370	causal/pres_redupl
+31372	indeclform
+31384	proclitic/indeclform
+31387	indeclform
+31410	unaugmented/poetic
+31416	enclitic/indeclform
+unaugmented
+31443	proclitic/indeclform
+indeclform
+31451	proclitic/indeclform
+31456	enclitic/indeclform
+unaugmented
+31463	proclitic/indeclform
+31465	comp_only
+31472	proclitic/indeclform
+31491	unaugmented
+31493	proclitic/indeclform
+indeclform
+31497	proclitic/indeclform
+31510	enclitic/indeclform
+31515	short_eis
+31525	syll_augment/unaugmented
+31528	indeclform
+31534	indeclform
+31545	syll_augment/unaugmented
+31555	proclitic/indeclform
+31585	indeclform
+31590	indeclform
+31592	proclitic/indeclform
+31599	proclitic/indeclform
+31610	proclitic/indeclform
+31628	unaugmented/poetic
+31651	unaugmented/poetic
+31657	proclitic/indeclform
+31663	indeclform
+31670	unaugmented
+31674	proclitic/indeclform
+31676	proclitic/indeclform
+31684	proclitic/indeclform
+31692	unaugmented
+31696	indeclform
+31707	indeclform
+31715	unaugmented
+31719	indeclform
+31724	unaugmented/poetic
+31737	indeclform
+31745	unaugmented
+unaugmented
+31748	unaugmented
+31753	proclitic/indeclform
+31761	indeclform
+31772	indeclform
+31777	indeclform
+31789	unaugmented
+31800	enclitic/indeclform
+31815	indeclform
+31838	syll_augment/unaugmented
+31846	indeclform
+31859	syll_augment/unaugmented
+31877	proclitic/indeclform
+31885	enclitic/indeclform
+31887	syll_augment/unaugmented/poetic
+31905	indeclform
+31918	proclitic/indeclform
+31923	indeclform
+31925	unaugmented
+proclitic/indeclform
+31988	proclitic/indeclform
+31992	proclitic/indeclform
+indeclform
+32014	proclitic/indeclform
+32024	proclitic/indeclform
+32030	proclitic/indeclform
+32043	proclitic/indeclform
+32191	unaugmented/poetic
+32197	unaugmented/poetic
+32209	proclitic/indeclform
+indeclform
+32212	proclitic/indeclform
+32225	proclitic/indeclform
+32233	syll_augment/unaugmented
+32240	proclitic/indeclform
+32242	unaugmented/poetic
+32244	indeclform
+32270	indeclform
+32275	proclitic/indeclform
+32277	unaugmented
+32279	syll_augment/unaugmented
+32306	comp_only
+unaugmented/poetic
+32309	unaugmented/poetic
+indeclform
+32315	syll_augment/unaugmented
+32340	syll_augment/unaugmented
+32344	proclitic/indeclform
+32346	unaugmented/poetic
+32350	contr/unasp_preverb
+32359	unaugmented/poetic
+32370	enclitic/indeclform
+32379	syll_augment/unaugmented
+32406	proclitic/indeclform
+32418	unaugmented/poetic
+32420	unaugmented/poetic
+32426	proclitic/indeclform
+32437	indeclform
+32446	proclitic/indeclform
+32465	poetic
+32468	unaugmented
+32471	indeclform
+32478	indeclform
+32494	proclitic/indeclform
+32505	indeclform
+32510	enclitic/indeclform
+32512	proclitic/indeclform
+32526	indeclform
+32529	proclitic/indeclform
+32558	syll_augment/unaugmented
+32579	proclitic/indeclform
+32583	syll_augment/unaugmented
+32587	indeclform
+32593	proclitic/indeclform
+32601	indeclform
+32605	proclitic/indeclform
+32609	proclitic/indeclform
+indeclform
+32622	proclitic/indeclform
+32627	indeclform
+32632	indeclform
+32649	proclitic/indeclform
+indeclform
+32669	proclitic/indeclform
+32689	indeclform
+indeclform
+32715	proclitic/indeclform
+32725	proclitic/indeclform
+32732	proclitic/indeclform
+32747	indeclform
+32755	unaugmented
+32758	proclitic/indeclform
+32762	unaugmented/poetic
+32771	unaugmented
+32803	proclitic/indeclform
+32822	unaugmented/poetic
+32847	comp_only
+contr/unasp_preverb
+32851	indeclform
+32854	unaugmented
+32864	unaugmented
+32882	unaugmented
+32896	proclitic/indeclform
+32900	unaugmented/poetic
+32922	enclitic/indeclform
+32940	syll_augment/unaugmented
+32954	unaugmented/poetic
+32969	proclitic/indeclform
+indeclform
+32980	unaugmented/poetic
+32997	enclitic/indeclform
+33004	indeclform
+33022	unaugmented
+33030	proclitic/indeclform
+33034	syll_augment/unaugmented
+33044	indeclform
+33052	syll_augment/unaugmented
+33055	unaugmented/poetic
+33062	indeclform
+33065	unaugmented
+indeclform
+33077	indeclform
+33084	proclitic/indeclform
+indeclform
+33097	indeclform
+33111	unaugmented
+33113	unaugmented/poetic
+33143	proclitic/indeclform
+33146	indeclform
+33149	syll_augment/unaugmented
+33161	short_eis
+33165	indeclform
+33176	proclitic/indeclform
+indeclform
+33180	proclitic/indeclform
+33216	indeclform
+33227	unaugmented
+33231	indeclform
+33243	unaugmented/poetic
+33267	proclitic/indeclform
+33274	proclitic/indeclform
+33288	proclitic/indeclform
+33324	comp_only
+33345	indeclform
+33358	syll_augment/unaugmented
+33368	enclitic/indeclform
+33371	enclitic/indeclform
+33397	syll_augment/unaugmented
+33402	proclitic/indeclform
+33415	indeclform
+33435	syll_augment/unaugmented
+indeclform
+33454	comp_only
+33482	unaugmented
+33496	unaugmented/poetic
+33498	syll_augment/unaugmented
+33500	unaugmented
+33514	proclitic/indeclform
+33525	proclitic/indeclform
+33532	enclitic/indeclform
+33535	enclitic/indeclform
+33557	syll_augment/unaugmented
+33563	enclitic/indeclform
+33566	unaugmented
+enclitic/indeclform
+33573	unaugmented
+unaugmented
+33578	enclitic/indeclform
+33583	enclitic/indeclform
+33593	enclitic/indeclform
+33596	enclitic/indeclform
+33605	syll_augment/unaugmented
+33614	proclitic/indeclform
+33635	proclitic/indeclform
+33655	unaugmented
+33661	unaugmented
+33664	indeclform
+33678	unaugmented
+33696	enclitic/indeclform
+33699	unaugmented
+33701	unaugmented
+33709	unaugmented
+33711	unaugmented
+33720	proclitic/indeclform
+33728	enclitic/indeclform
+33738	unaugmented/n_infix
+33754	syll_augment/unaugmented
+33767	enclitic/indeclform
+33771	proclitic/indeclform
+33777	unaugmented/poetic
+33812	proclitic/indeclform
+33827	indeclform
+33830	indeclform
+33837	enclitic/indeclform
+33840	enclitic/indeclform
+33843	proclitic/indeclform
+indeclform
+33857	syll_augment/unaugmented
+33859	indeclform
+33861	indeclform
+33875	syll_augment/unaugmented
+33885	indeclform
+33887	redupl
+indeclform
+33890	unaugmented
+33892	indeclform
+33898	syll_augment/unaugmented
+33909	indeclform
+33915	early
+33921	poetic/indeclform
+33923	indeclform
+33927	proclitic/indeclform
+33940	proclitic/indeclform
+33944	unaugmented/poetic
+33991	unaugmented/poetic
+34031	proclitic/indeclform
+34033	contr
+34042	enclitic/indeclform
+34075	enclitic/indeclform
+34080	indeclform
+34083	unaugmented/poetic
+34085	enclitic/indeclform
+34091	enclitic/indeclform
+34101	enclitic/indeclform
+34114	proclitic/indeclform
+34122	proclitic/indeclform
+34134	proclitic/indeclform
+indeclform
+34138	indeclform
+34144	enclitic/indeclform
+34149	indeclform
+34158	indeclform
+enclitic/indeclform
+34165	enclitic/indeclform
+34178	enclitic/indeclform
+34181	indeclform
+34187	enclitic/indeclform
+34190	unaugmented
+indeclform
+34200	unaugmented
+34208	syll_augment/unaugmented
+34211	comp_only
+34213	indeclform
+34238	pres_redupl
+34243	indeclform
+34252	indeclform
+enclitic/indeclform
+34255	unaugmented
+34260	unaugmented
+34265	indeclform
+34270	enclitic/indeclform
+34279	unaugmented/poetic
+34284	indeclform
+34288	enclitic/indeclform
+34301	indeclform
+34310	indeclform
+34330	unaugmented
+34363	unaugmented
+34370	indeclform
+34386	indeclform
+syll_augment/unaugmented
+34392	indeclform
+34412	proclitic/indeclform
+34422	proclitic/indeclform
+indeclform
+34432	proclitic/indeclform
+indeclform
+34437	unaugmented
+enclitic/indeclform
+34441	indeclform
+34446	unaugmented/poetic
+34450	proclitic/indeclform
+indeclform
+34456	proclitic/indeclform
+indeclform
+34459	unaugmented/poetic
+34471	unaugmented/poetic
+34478	proclitic/indeclform
+indeclform
+34490	unaugmented
+34497	unaugmented
+34527	unaugmented
+poetic
+34537	poetic
+34543	unaugmented
+34557	indeclform
+34572	unaugmented
+indeclform
+34583	redupl
+34626	unaugmented
+34645	indeclform
+34656	unaugmented/poetic
+34687	enclitic/indeclform
+34713	indeclform
+34755	unaugmented
+34787	indeclform
+34803	indeclform
+34807	syll_augment/unaugmented
+34809	indeclform
+34811	proclitic/indeclform
+indeclform
+34816	unaugmented
+34822	enclitic/indeclform
+34824	unaugmented
+34830	proclitic/indeclform
+indeclform
+34841	enclitic/indeclform
+34847	proclitic/indeclform
+34884	syll_augment/unaugmented
+34893	enclitic/indeclform
+34898	syll_augment/unaugmented
+34929	proclitic/indeclform
+indeclform
+34944	proclitic/indeclform
+34957	enclitic/indeclform
+34978	proclitic/indeclform
+34981	indeclform
+34983	comp_only
+34988	enclitic/indeclform
+35000	proclitic/indeclform
+35003	indeclform
+35005	comp_only
+proclitic/indeclform
+35026	syll_augment/unaugmented
+35031	indeclform
+35055	proclitic/indeclform
+35079	unaugmented
+35084	proclitic/indeclform
+35089	enclitic/indeclform
+proclitic/indeclform
+35096	proclitic/indeclform
+35100	unaugmented
+35107	indeclform
+35114	indeclform
+35122	comp_only
+35132	indeclform
+35134	proclitic/indeclform
+35143	proclitic/indeclform
+35147	unaugmented/poetic
+35157	enclitic/indeclform
+35166	enclitic/indeclform
+35170	enclitic/indeclform
+35175	unaugmented/poetic
+35185	unaugmented
+35199	proclitic/indeclform
+35205	indeclform
+35208	indeclform
+35245	unaugmented/poetic
+35252	indeclform
+35266	late
+35282	proclitic/indeclform
+35290	proclitic/indeclform
+35297	unaugmented
+35327	indeclform
+35336	syll_augment/unaugmented
+proclitic/indeclform
+35345	poetic/indeclform
+35349	indeclform
+35361	syll_augment/unaugmented
+35402	syll_augment/unaugmented
+35411	syll_augment/unaugmented
+35420	indeclform
+35479	indeclform
+35498	syll_augment/unaugmented
+35507	enclitic/indeclform
+35510	proclitic/indeclform
+35519	syll_augment/unaugmented
+35524	indeclform
+35534	proclitic/indeclform
+indeclform
+35550	unaugmented/poetic
+35552	enclitic/indeclform
+35558	unaugmented/n_infix
+35568	indeclform
+35588	unaugmented
+35605	syll_augment/unaugmented
+35607	unaugmented/poetic
+35617	proclitic/indeclform
+indeclform
+35630	indeclform
+35653	proclitic/indeclform
+35687	enclitic/indeclform
+35692	syll_augment/unaugmented/poetic
+indeclform
+unaugmented/poetic
+35697	syll_augment/unaugmented
+indeclform
+35701	indeclform
+35706	unaugmented/poetic
+35710	proclitic/indeclform
+35723	indeclform
+unaugmented/poetic
+35731	unaugmented/poetic
+enclitic/indeclform
+35738	enclitic/indeclform
+35750	unaugmented
+35756	enclitic/indeclform
+35761	proclitic/indeclform
+35774	proclitic/indeclform
+35779	proclitic/indeclform
+35782	comp_only
+35788	unaugmented
+35791	enclitic/indeclform
+35809	proclitic/indeclform
+35816	proclitic/indeclform
+35827	proclitic/indeclform
+35836	indeclform
+unasp_preverb
+35845	enclitic/indeclform
+35853	unaugmented
+35859	unaugmented
+35870	enclitic/indeclform
+35873	poetic/indeclform
+35880	poetic/indeclform
+35894	indeclform
+35897	enclitic/indeclform
+35911	indeclform
+35915	enclitic/indeclform
+35926	syll_augment/unaugmented
+35936	enclitic/indeclform
+35940	unaugmented/poetic
+35946	proclitic/indeclform
+35956	enclitic/indeclform
+35960	syll_augment/unaugmented
+35966	r_e_i_alpha/unaugmented/poetic
+35974	unaugmented
+35998	indeclform
+36001	indeclform
+36010	syll_augment/unaugmented
+36014	indeclform
+36024	indeclform
+36033	indeclform
+36071	proclitic/indeclform
+36076	proclitic/indeclform
+36083	unaugmented
+36089	syll_augment/unaugmented
+36097	unaugmented/poetic
+36107	indeclform
+36109	indeclform
+36128	indeclform
+36136	unaugmented
+36148	syll_augment/unaugmented
+36174	proclitic/indeclform
+indeclform
+36191	indeclform
+36201	redupl
+indeclform
+36214	enclitic/indeclform
+36239	unaugmented
+36244	indeclform
+indeclform
+36261	enclitic/indeclform
+36263	enclitic/indeclform
+syll_augment/unaugmented/poetic
+36274	unaugmented/poetic
+36296	indeclform
+36298	indeclform
+36331	proclitic/indeclform
+36333	indeclform
+36377	proclitic/indeclform
+36383	proclitic/indeclform
+36385	indeclform
+36388	enclitic/indeclform
+36395	proclitic/indeclform
+36418	indeclform
+36424	syll_augment/unaugmented
+36434	syll_augment/unaugmented
+36438	enclitic/indeclform
+36447	syll_augment/unaugmented
+36457	unaugmented/poetic
+36460	indeclform
+36476	comp_only
+36481	proclitic/indeclform
+36486	syll_augment/unaugmented
+36489	indeclform
+36504	unaugmented/poetic
+36508	indeclform
+36533	unaugmented
+36535	indeclform
+36561	syll_augment/unaugmented
+36566	unaugmented
+36582	indeclform
+36600	enclitic/indeclform
+unaugmented
+36622	indeclform
+36634	unaugmented/poetic
+36638	syll_augment/unaugmented
+36655	indeclform
+36662	poetic/indeclform
+36672	poetic/indeclform
+36689	unaugmented/poetic
+36707	indeclform
+36716	n_infix
+36723	n_infix
+36736	syll_augment/unaugmented
+36747	indeclform
+36756	enclitic/indeclform
+36758	unaugmented
+36772	enclitic/indeclform
+36787	unaugmented/poetic
+36794	indeclform
+36801	enclitic/indeclform
+36822	proclitic/indeclform
+36826	syll_augment/unaugmented
+36834	enclitic/indeclform
+36839	indeclform
+36841	indeclform
+36863	syll_augment/unaugmented
+36873	indeclform
+36903	indeclform
+36920	proclitic/indeclform
+indeclform
+36929	enclitic/indeclform
+36937	enclitic/indeclform
+36941	enclitic/indeclform
+36959	syll_augment/unaugmented
+36964	indeclform
+36971	syll_augment/unaugmented
+36975	unaugmented/poetic
+36978	unaugmented
+37036	unaugmented
+37043	poetic/indeclform
+37046	unaugmented
+37049	unaugmented/poetic
+37064	indeclform
+37068	poetic/indeclform
+37083	proclitic/indeclform
+37096	indeclform
+37099	unaugmented/n_infix
+37103	proclitic/indeclform
+37109	poetic/indeclform
+37114	unaugmented/poetic
+37138	proclitic/indeclform
+indeclform
+37145	comp_only
+37165	proclitic/indeclform
+37167	proclitic/indeclform
+37175	unaugmented
+proclitic/indeclform
+37182	enclitic/indeclform
+37203	proclitic/indeclform
+indeclform
+37209	syll_augment/unaugmented
+37223	unaugmented
+37248	proclitic/indeclform
+indeclform
+37270	unaugmented
+37272	proclitic/indeclform
+indeclform
+37286	proclitic/indeclform
+37342	unaugmented
+37345	unaugmented
+37362	syll_augment/unaugmented
+37390	rare
+37395	indeclform
+37397	indeclform
+37406	indeclform
+37416	unaugmented/poetic
+37424	syll_augment/unaugmented
+37432	indeclform
+37448	enclitic/indeclform
+37474	proclitic/indeclform
+37478	poetic/indeclform
+syll_augment/unaugmented/poetic
+37489	unaugmented
+37498	syll_augment/unaugmented
+37507	indeclform
+37514	poetic/indeclform
+37524	proclitic/indeclform
+37526	indeclform
+37535	syll_augment/unaugmented
+37538	indeclform
+proclitic/indeclform
+indeclform
+37553	syll_augment/unaugmented
+37571	proclitic/indeclform
+indeclform
+37592	comp_only
+37617	enclitic/indeclform
+37632	redupl
+37646	proclitic/indeclform
+37649	syll_augment/unaugmented
+37659	syll_augment/unaugmented
+37668	indeclform
+37684	syll_augment/unaugmented
+37688	unaugmented
+37692	syll_augment/unaugmented
+37701	syll_augment/unaugmented
+37706	unaugmented
+37710	unaugmented
+37714	unaugmented
+37718	unaugmented/poetic
+syll_augment/unaugmented
+37736	syll_augment/unaugmented
+37751	indeclform
+37758	unaugmented/poetic
+37770	indeclform
+37773	comp_only
+37776	indeclform
+37780	indeclform
+37792	enclitic/indeclform
+37809	unaugmented
+37813	proclitic/indeclform
+37815	proclitic/indeclform
+37834	poetic/indeclform
+37839	unaugmented/poetic
+indeclform
+37852	indeclform
+37861	proclitic/indeclform
+37870	indeclform
+37878	unaugmented
+37889	poetic/indeclform
+37896	indeclform
+37898	indeclform
+37902	proclitic/indeclform
+37911	indeclform
+37914	unaugmented/poetic
+37918	poetic/indeclform
+37936	indeclform
+37944	unaugmented
+indeclform
+37951	indeclform
+37954	unaugmented/poetic
+37956	indeclform
+37959	proclitic/indeclform
+37965	indeclform
+37977	proclitic/indeclform
+37986	proclitic/indeclform
+indeclform
+37989	poetic/indeclform
+proclitic/indeclform
+38002	proclitic/indeclform
+38005	indeclform
+indeclform
+38017	redupl
+38021	unaugmented/poetic
+38039	enclitic/indeclform
+38046	indeclform
+38049	indeclform
+proclitic/indeclform
+indeclform
+38054	syll_augment/unaugmented
+38060	proclitic/indeclform
+38068	indeclform
+38073	contr/unasp_preverb
+38079	indeclform
+38091	proclitic/indeclform
+38096	indeclform
+38098	indeclform
+38103	indeclform
+38107	proclitic/indeclform
+38110	proclitic/indeclform
+38115	indeclform
+38117	indeclform
+38120	syll_augment/unaugmented
+38191	syll_augment/unaugmented
+38193	enclitic/indeclform
+38195	enclitic/indeclform
+38197	indeclform
+38201	indeclform
+38209	indeclform
+38216	contr
+indeclform
+38235	unaugmented
+38238	syll_augment/unaugmented
+38241	proclitic/indeclform
+indeclform
+38246	enclitic/indeclform
+38251	syll_augment/unaugmented
+38258	unaugmented/poetic
+38260	unaugmented
+38263	proclitic/indeclform
+38269	proclitic/indeclform
+38275	proclitic/indeclform
+38284	proclitic/indeclform
+38286	syll_augment/unaugmented
+38300	syll_augment/unaugmented
+38312	syll_augment/unaugmented
+38323	proclitic/indeclform
+38336	unaugmented
+38339	proclitic/indeclform
+38371	indeclform
+38378	unaugmented/pres_redupl
+38400	indeclform
+38403	syll_augment/unaugmented
+38409	poetic/indeclform
+38412	proclitic/indeclform
+indeclform
+38416	unaugmented
+38433	syll_augment/unaugmented
+38440	syll_augment/unaugmented
+38450	proclitic/indeclform
+38452	indeclform
+38459	indeclform
+38488	indeclform
+38495	causal/pres_redupl
+38497	syll_augment/unaugmented
+38503	indeclform
+38510	syll_augment/unaugmented
+38518	syll_augment/unaugmented
+38529	unaugmented/poetic
+38533	indeclform
+38547	proclitic/indeclform
+indeclform
+38551	proclitic/indeclform
+38555	proclitic/indeclform
+38557	syll_augment/unaugmented
+38575	syll_augment/unaugmented
+38587	indeclform
+38595	pres_redupl
+indeclform
+38602	indeclform
+38612	indeclform
+38620	syll_augment/unaugmented
+38653	unaugmented
+38664	indeclform
+38668	indeclform
+38672	unaugmented/poetic
+38683	indeclform
+38706	indeclform
+38708	unaugmented
+38711	indeclform
+unaugmented
+38718	indeclform
+38729	indeclform
+38732	indeclform
+38748	indeclform
+38798	enclitic/indeclform
+38800	unaugmented/n_infix
+38805	proclitic/indeclform
+38807	indeclform
+38812	indeclform
+38827	indeclform
+38829	syll_augment/unaugmented
+38831	indeclform
+38850	enclitic/indeclform
+38852	indeclform
+38857	proclitic/indeclform
+38861	indeclform
+38866	proclitic/indeclform
+38869	indeclform
+38871	enclitic/indeclform
+38874	proclitic/indeclform
+38885	proclitic/indeclform
+38887	unaugmented/poetic
+38890	indeclform
+38892	indeclform
+38896	indeclform
+38899	unaugmented/poetic
+38908	proclitic/indeclform
+38911	indeclform
+38929	indeclform
+38932	pres_redupl
+38937	unaugmented/poetic
+38939	unaugmented/poetic
+38946	unaugmented/poetic
+38960	unaugmented
+38964	unaugmented
+38966	unaugmented
+38974	unaugmented
+38990	unaugmented
+38994	indeclform
+39004	proclitic/indeclform
+indeclform
+39016	syll_augment/unaugmented
+39019	indeclform
+39021	indeclform
+39030	syll_augment/unaugmented
+39033	enclitic/indeclform
+39038	unaugmented/poetic
+39047	indeclform
+39085	proclitic/indeclform
+39104	contr
+39116	proclitic/indeclform
+39152	enclitic/indeclform
+39193	proclitic/indeclform
+39205	syll_augment/unaugmented
+39212	proclitic/indeclform
+39220	proclitic/indeclform
+39222	indeclform
+39228	redupl
+39246	syll_augment/unaugmented
+39254	enclitic/indeclform
+39283	indeclform
+39291	indeclform
+39293	unaugmented
+39295	indeclform
+39299	unaugmented
+39316	unaugmented/poetic
+39325	indeclform
+39329	unaugmented
+39332	proclitic/indeclform
+39338	proclitic/indeclform
+39342	indeclform
+39345	proclitic/indeclform
+indeclform
+39348	indeclform
+39351	enclitic/indeclform
+39353	enclitic/indeclform
+39355	contr/unasp_preverb
+39373	syll_augment/unaugmented
+39375	indeclform
+39396	indeclform
+39399	indeclform
+39403	enclitic/indeclform
+39409	indeclform
+39430	indeclform
+39433	unaugmented/poetic
+syll_augment/unaugmented
+39479	indeclform
+39486	indeclform
+39506	enclitic/indeclform
+39509	enclitic/indeclform
+39526	proclitic/indeclform
+39561	unaugmented
+39568	proclitic/indeclform
+39572	proclitic/indeclform
+indeclform
+39582	proclitic/indeclform
+39591	indeclform
+39610	unaugmented
+39612	indeclform
+indeclform
+39628	indeclform
+39644	comp_only
+39646	unaugmented/poetic
+unaugmented
+39657	unaugmented
+39663	indeclform
+39666	poetic/indeclform
+39668	proclitic/indeclform
+39679	proclitic/indeclform
+39685	unaugmented/poetic
+39690	comp_only
+39694	comp_only
+39698	unaugmented/poetic
+39711	indeclform
+39735	enclitic/indeclform
+indeclform
+39738	comp_only
+indeclform
+39746	pres_redupl
+39748	proclitic/indeclform
+39752	indeclform
+39755	syll_augment/unaugmented
+39764	indeclform
+39769	unaugmented/poetic
+39774	syll_augment/unaugmented
+39781	indeclform
+39785	syll_augment/unaugmented
+39789	unaugmented
+39797	proclitic/indeclform
+indeclform
+39801	indeclform
+39809	syll_augment/unaugmented
+39819	indeclform
+39823	proclitic/indeclform
+39827	unaugmented
+39834	unaugmented
+39837	syll_augment/unaugmented
+39839	unaugmented
+syll_augment/unaugmented/late
+39843	unaugmented
+39846	unaugmented
+39854	indeclform
+39858	unaugmented
+39874	syll_augment/unaugmented
+39884	unaugmented
+39888	unaugmented/poetic
+indeclform
+39903	syll_augment/unaugmented
+39912	indeclform
+39914	unaugmented
+39920	indeclform
+39924	indeclform
+39926	unaugmented
+39936	unaugmented
+39983	unaugmented
+indeclform
+39986	enclitic/indeclform
+39993	indeclform
+39996	proclitic/indeclform
+40002	proclitic/indeclform
+40007	proclitic/indeclform
+40029	unaugmented
+40041	indeclform
+40052	unaugmented
+40055	unaugmented
+40062	indeclform
+40074	indeclform
+40078	indeclform
+40091	proclitic/indeclform
+40109	indeclform
+40119	enclitic/indeclform
+40143	enclitic/indeclform
+40154	indeclform
+40165	proclitic/indeclform
+40169	proclitic/indeclform
+40194	poetic/indeclform
+unaugmented
+40214	syll_augment/unaugmented
+40225	indeclform
+40230	syll_augment/unaugmented
+40234	indeclform
+40242	causal
+40251	proclitic/indeclform
+40254	unaugmented/poetic
+40269	indeclform
+40276	causal
+40284	proclitic/indeclform
+40313	proclitic/indeclform
+40317	comp_only
+40319	proclitic/indeclform
+40333	comp_only
+40349	indeclform
+40400	enclitic/indeclform
+40410	proclitic/indeclform
+40415	indeclform
+40417	indeclform
+40425	proclitic/indeclform
+40505	enclitic/indeclform
+40517	proclitic/indeclform
+40519	unaugmented
+40526	proclitic/indeclform
+40535	enclitic/indeclform
+40546	indeclform
+40567	unaugmented
+40569	unaugmented/n_infix
+proclitic/indeclform
+40572	indeclform
+40590	syll_augment/unaugmented
+40594	enclitic/indeclform
+40608	indeclform
+40616	indeclform
+40618	enclitic/indeclform
+40626	proclitic/indeclform
+indeclform
+40646	indeclform
+40663	proclitic/indeclform
+indeclform
+40671	proclitic/indeclform
+40675	unaugmented
+syll_augment/unaugmented
+40685	indeclform
+40689	proclitic/indeclform
+40703	unaugmented
+40718	unaugmented
+40722	unaugmented/poetic
+40730	unaugmented
+40739	proclitic/indeclform
+40743	proclitic/indeclform
+40772	syll_augment/unaugmented
+40797	indeclform
+40803	indeclform
+40809	proclitic/indeclform
+40813	proclitic/indeclform
+40830	syll_augment/unaugmented
+40834	indeclform
+40841	indeclform
+40849	unaugmented
+40881	enclitic/indeclform
+40902	indeclform
+40905	unaugmented/poetic
+40908	unaugmented
+40928	indeclform
+40933	proclitic/indeclform
+40939	syll_augment/unaugmented
+40941	unaugmented
+40945	unaugmented/poetic
+40952	redupl
+40958	indeclform
+40973	syll_augment/unaugmented
+40980	enclitic/indeclform
+40984	syll_augment/unaugmented
+40987	unaugmented
+40996	indeclform
+41003	indeclform
+poetic/indeclform
+41009	poetic
+41023	indeclform
+41027	indeclform
+41029	unaugmented
+41031	enclitic/indeclform
+41037	comp_only
+41042	proclitic/indeclform
+41050	indeclform
+41052	unaugmented
+enclitic/indeclform
+41057	unaugmented/poetic
+41081	proclitic/indeclform
+41085	unaugmented/poetic
+41103	proclitic/indeclform
+41107	unaugmented/poetic
+41112	proclitic/indeclform
+41118	proclitic/indeclform
+41121	proclitic/indeclform
+41126	unaugmented/n_infix
+41130	unaugmented
+41140	syll_augment/unaugmented
+41179	indeclform
+41191	rare
+indeclform
+41209	indeclform
+41215	indeclform
+41227	proclitic/indeclform
+41232	proclitic/indeclform
+indeclform
+41263	syll_augment/unaugmented
+41271	indeclform
+41274	indeclform
+41276	enclitic/indeclform
+41288	syll_augment/unaugmented
+41292	indeclform
+41302	proclitic/indeclform
+41319	enclitic/indeclform
+41338	enclitic/indeclform
+41370	syll_augment/unaugmented
+41389	unaugmented
+comp_only
+41409	indeclform
+41415	indeclform
+41434	enclitic/indeclform
+41449	unaugmented
+41454	short_eis
+41463	proclitic/indeclform
+41474	syll_augment/unaugmented
+41480	proclitic/indeclform
+41484	unaugmented/poetic
+41487	syll_augment/unaugmented
+41505	unaugmented/poetic
+41522	syll_augment/unaugmented
+41539	syll_augment/unaugmented
+41555	syll_augment/unaugmented
+41569	indeclform
+41577	syll_augment/unaugmented
+indeclform
+41581	unaugmented
+41594	unaugmented
+41602	syll_augment/unaugmented
+41614	syll_augment/unaugmented
+41620	unaugmented
+41623	unaugmented
+41636	indeclform
+41647	unaugmented/poetic
+41655	syll_augment/unaugmented
+41676	indeclform
+41688	unaugmented
+41716	no_redupl
+41719	unaugmented
+41722	unaugmented
+41729	enclitic/indeclform
+41738	enclitic/indeclform
+41754	indeclform
+41764	unaugmented
+41770	proclitic/indeclform
+41774	indeclform
+41776	poetic
+41791	indeclform
+41821	proclitic/indeclform
+41845	enclitic/indeclform
+41848	enclitic/indeclform
+41854	indeclform
+41858	enclitic/indeclform
+41868	syll_augment/unaugmented
+41890	indeclform
+41893	proclitic/indeclform
+41928	unaugmented
+41935	indeclform
+41939	proclitic/indeclform
+indeclform
+41947	indeclform
+41956	unaugmented
+indeclform
+41978	indeclform
+41984	unaugmented
+41991	unaugmented
+41998	indeclform
+42001	comp_only
+42005	unaugmented/poetic
+42010	syll_augment/unaugmented
+42018	syll_augment/unaugmented
+42022	indeclform
+42028	unaugmented
+42034	late
+42037	unaugmented
+42058	unaugmented
+42104	enclitic/indeclform
+42134	unaugmented
+42142	comp_only
+42152	proclitic/indeclform
+42186	syll_augment/unaugmented
+42197	comp_only
+42205	syll_augment/unaugmented
+42211	unaugmented
+42239	unaugmented/poetic
+42266	proclitic/indeclform
+42269	proclitic/indeclform
+42285	poetic/indeclform
+syll_augment/unaugmented/poetic
+42290	syll_augment/unaugmented
+42326	syll_augment/unaugmented
+indeclform
+42360	unaugmented
+42371	syll_augment/unaugmented
+42377	unaugmented/poetic
+proclitic/indeclform
+42381	indeclform
+42420	proclitic/indeclform
+42422	indeclform
+42428	syll_augment/unaugmented
+42434	unaugmented/poetic
+42446	syll_augment/unaugmented
+42448	proclitic/indeclform
+42453	unaugmented
+42462	unaugmented/poetic
+42470	unaugmented
+42493	indeclform
+42497	indeclform
+42502	syll_augment/unaugmented
+42508	syll_augment/unaugmented
+42512	indeclform
+42515	unaugmented
+42521	syll_augment/unaugmented
+42528	syll_augment/unaugmented
+42536	indeclform
+42553	enclitic/indeclform
+42572	indeclform
+42590	unaugmented
+42593	proclitic/indeclform
+42596	proclitic/indeclform
+42602	proclitic/indeclform
+42606	proclitic/indeclform
+42612	proclitic/indeclform
+indeclform
+42622	indeclform
+42626	proclitic/indeclform
+indeclform
+42636	indeclform
+42640	indeclform
+42643	indeclform
+42652	indeclform
+42669	enclitic/indeclform
+42677	syll_augment/unaugmented
+42681	enclitic/indeclform
+42684	comp_only
+42692	unaugmented
+42696	proclitic/indeclform
+42700	comp_only
+42702	unaugmented/poetic
+42706	enclitic/indeclform
+42712	indeclform
+42715	unaugmented/poetic
+42731	indeclform
+42790	unaugmented
+42792	enclitic/indeclform
+42796	indeclform
+syll_augment/unaugmented/poetic
+42822	proclitic/indeclform
+indeclform
+42830	proclitic/indeclform
+42838	proclitic/indeclform
+42845	syll_augment/unaugmented
+42868	proclitic/indeclform
+42872	syll_augment/unaugmented
+42879	indeclform
+42882	proclitic/indeclform
+42889	indeclform
+42899	proclitic/indeclform
+42910	enclitic/indeclform
+42923	syll_augment/unaugmented
+42968	syll_augment/unaugmented
+42981	syll_augment/unaugmented
+42998	syll_augment/unaugmented
+43007	indeclform
+43014	indeclform
+43031	indeclform
+43071	enclitic/indeclform
+43073	indeclform
+43076	indeclform
+43078	syll_augment/unaugmented
+43085	proclitic/indeclform
+43089	poetic/indeclform
+43096	proclitic/indeclform
+43101	poetic/indeclform
+indeclform
+43110	indeclform
+43116	unaugmented/poetic
+43121	syll_augment/unaugmented
+43128	unaugmented
+43131	unaugmented
+43147	indeclform
+43151	indeclform
+43159	indeclform
+43161	indeclform
+43173	proclitic/indeclform
+indeclform
+43190	indeclform
+43196	proclitic/indeclform
+43210	syll_augment/unaugmented
+43219	proclitic/indeclform
+indeclform
+43256	syll_augment/unaugmented
+43258	enclitic/indeclform
+43261	enclitic/indeclform
+43270	indeclform
+43278	syll_augment/unaugmented
+43282	indeclform
+43294	indeclform
+43297	unaugmented/poetic
+43301	syll_augment/unaugmented
+43304	indeclform
+43307	unaugmented/poetic
+43314	indeclform
+43318	indeclform
+43321	unaugmented/poetic
+43325	syll_augment/unaugmented
+43333	comp_only
+43347	indeclform
+43358	indeclform
+43377	proclitic/indeclform
+43396	proclitic/indeclform
+43403	proclitic/indeclform
+43432	proclitic/indeclform
+43459	indeclform
+43469	proclitic/indeclform
+43479	indeclform
+43482	proclitic/indeclform
+43491	proclitic/indeclform
+43497	indeclform
+43507	unaugmented
+43514	poetic/indeclform
+43519	indeclform
+43541	indeclform
+43544	indeclform
+43556	syll_augment/unaugmented
+43563	enclitic/indeclform
+43572	impersonal
+43597	proclitic/indeclform
+43620	syll_augment/unaugmented
+proclitic/indeclform
+43641	comp_only
+43650	syll_augment/unaugmented
+43683	indeclform
+43689	proclitic/indeclform
+43697	indeclform
+43704	syll_augment/unaugmented
+43752	enclitic/indeclform
+43759	indeclform
+43761	proclitic/indeclform
+43797	indeclform
+43800	indeclform
+43825	indeclform
+43832	enclitic/indeclform
+43843	indeclform
+43856	indeclform
+43859	unaugmented/poetic
+43862	indeclform
+43864	poetic/indeclform
+43870	unaugmented/poetic
+proclitic/indeclform
+43890	unaugmented
+syll_augment/unaugmented
+43918	unaugmented
+43927	syll_augment/unaugmented
+43937	syll_augment/unaugmented
+43953	proclitic/indeclform
+43958	unaugmented
+43975	syll_augment/unaugmented
+enclitic/indeclform
+43978	enclitic/indeclform
+indeclform
+43986	unaugmented/poetic
+43996	indeclform
+44002	unaugmented/poetic
+44006	enclitic/indeclform
+44014	syll_augment/unaugmented
+indeclform
+44021	indeclform
+44024	syll_augment/unaugmented
+44031	indeclform
+44037	syll_augment/unaugmented
+44041	indeclform
+44046	unaugmented
+44048	indeclform
+44050	indeclform
+44052	indeclform
+unaugmented
+indeclform
+44060	unaugmented/poetic
+44066	proclitic/indeclform
+indeclform
+44071	proclitic/indeclform
+indeclform
+44074	indeclform
+44082	syll_augment/unaugmented
+44092	indeclform
+44097	indeclform
+44137	indeclform
+44141	proclitic/indeclform
+indeclform
+44160	syll_augment/unaugmented/poetic
+44179	enclitic/indeclform
+44211	unaugmented
+44214	syll_augment/unaugmented
+44221	syll_augment/unaugmented
+44224	indeclform
+44245	indeclform
+44299	proclitic/indeclform
+44307	syll_augment/unaugmented
+44315	proclitic/indeclform
+indeclform
+44339	redupl
+44343	syll_augment/unaugmented
+44348	indeclform
+44364	syll_augment/unaugmented
+44373	indeclform
+44398	unaugmented
+syll_augment/unaugmented
+44413	indeclform
+44416	unaugmented/poetic
+44418	syll_augment/unaugmented
+44435	unaugmented
+44442	syll_augment/unaugmented
+44446	proclitic/indeclform
+44449	enclitic/indeclform
+44469	proclitic/indeclform
+indeclform
+44477	syll_augment/unaugmented
+44481	unaugmented
+44498	indeclform
+44505	syll_augment/unaugmented
+44511	proclitic/indeclform
+44518	contr/unasp_preverb
+44526	indeclform
+44533	syll_augment/unaugmented
+44539	contr/unasp_preverb
+44550	indeclform
+44556	proclitic/indeclform
+44564	proclitic/indeclform
+44613	poetic/indeclform
+44619	syll_augment/unaugmented
+44627	indeclform
+44640	indeclform
+44643	indeclform
+44670	unaugmented
+44684	proclitic/indeclform
+44701	unaugmented
+44706	proclitic/indeclform
+44729	unaugmented
+44740	enclitic/indeclform
+44742	unaugmented
+44744	syll_augment/unaugmented
+44752	enclitic/indeclform
+44758	unaugmented
+44761	enclitic/indeclform
+44779	indeclform
+44791	indeclform
+44794	proclitic/indeclform
+44831	proclitic/indeclform
+44834	proclitic/indeclform
+44838	unaugmented
+proclitic/indeclform
+44842	unaugmented/n_infix
+44858	syll_augment/unaugmented
+44860	indeclform
+44864	enclitic/indeclform
+44868	proclitic/indeclform
+44880	proclitic/indeclform
+44886	indeclform
+44902	enclitic/indeclform
+44918	indeclform
+44921	proclitic/indeclform
+44929	proclitic/indeclform
+44971	proclitic/indeclform
+indeclform
+44974	enclitic/indeclform
+44978	enclitic/indeclform
+44984	enclitic/indeclform
+44990	unaugmented
+45003	proclitic/indeclform
+45011	proclitic/indeclform
+indeclform
+45017	enclitic/indeclform
+45020	enclitic/indeclform
+45030	syll_augment/unaugmented
+indeclform
+proclitic/indeclform
+45037	indeclform
+45048	syll_augment/unaugmented
+45051	unaugmented
+45064	indeclform
+45067	enclitic/indeclform
+45104	enclitic/indeclform
+45108	syll_augment/unaugmented
+45113	indeclform
+proclitic/indeclform
+45138	unaugmented
+45154	enclitic/indeclform
+45166	enclitic/indeclform
+45178	enclitic/indeclform
+45184	syll_augment/unaugmented
+45191	unaugmented
+unaugmented
+45198	unaugmented/poetic
+45204	enclitic/indeclform
+45219	indeclform
+45256	syll_augment/unaugmented
+45266	enclitic/indeclform
+45284	poetic/indeclform
+45290	enclitic/indeclform
+45293	enclitic/indeclform
+45300	proclitic/indeclform
+45313	syll_augment/unaugmented
+45323	unaugmented
+45360	unaugmented/poetic
+45367	indeclform
+45369	unaugmented
+45374	syll_augment/unaugmented
+45384	unaugmented
+enclitic/indeclform
+45391	syll_augment/unaugmented
+45396	indeclform
+45400	indeclform
+45402	unaugmented/poetic
+indeclform
+45423	unaugmented/n_infix
+45426	enclitic/indeclform
+45437	indeclform
+45456	causal
+45458	indeclform
+45483	enclitic/indeclform
+45492	indeclform
+45495	indeclform
+45498	proclitic/indeclform
+45505	enclitic/indeclform
+45512	syll_augment/unaugmented
+45516	enclitic/indeclform
+45524	enclitic/indeclform
+45552	unaugmented/poetic
+45560	enclitic/indeclform
+45568	proclitic/indeclform
+45585	unaugmented
+45593	unaugmented/n_infix
+45606	syll_augment/unaugmented
+45610	enclitic/indeclform
+45621	proclitic/indeclform
+45624	syll_augment/unaugmented
+45626	indeclform
+45634	poetic/indeclform
+45649	enclitic/indeclform
+45658	syll_augment/unaugmented
+45668	proclitic/indeclform
+45673	proclitic/indeclform
+45678	proclitic/indeclform
+45683	proclitic/indeclform
+45686	proclitic/indeclform
+45707	unaugmented/poetic
+indeclform
+45714	indeclform
+45722	syll_augment/unaugmented
+45725	indeclform
+45727	indeclform
+45730	indeclform
+45744	indeclform
+45754	unaugmented
+45759	n_infix
+45770	syll_augment/unaugmented
+45772	indeclform
+45776	proclitic/indeclform
+45805	syll_augment/unaugmented
+45813	indeclform
+45902	indeclform
+45904	unaugmented/poetic
+45907	proclitic/indeclform
+45917	indeclform
+45925	indeclform
+45928	enclitic/indeclform
+45930	indeclform
+45947	unaugmented
+45964	proclitic/indeclform
+45983	indeclform
+45987	enclitic/indeclform
+proclitic/indeclform
+45993	indeclform
+45996	enclitic/indeclform
+proclitic/indeclform
+46002	enclitic/indeclform
+proclitic/indeclform
+46018	indeclform
+46022	proclitic/indeclform
+46028	proclitic/indeclform
+46040	unaugmented
+indeclform
+46051	indeclform
+46061	indeclform
+46068	proclitic/indeclform
+46080	proclitic/indeclform
+46085	unaugmented
+46110	proclitic/indeclform
+46129	indeclform
+46133	syll_augment/unaugmented
+46141	indeclform
+46167	indeclform
+46170	unaugmented/poetic
+46173	indeclform
+46178	indeclform
+46182	poetic/indeclform
+46188	indeclform
+46191	enclitic/indeclform
+46202	enclitic/indeclform
+46207	proclitic/indeclform
+46215	causal/pres_redupl
+46219	indeclform
+46222	proclitic/indeclform
+46237	proclitic/indeclform
+46246	indeclform
+46260	proclitic/indeclform
+indeclform
+46282	proclitic/indeclform
+indeclform
+46289	indeclform
+46293	indeclform
+46298	enclitic/indeclform
+46301	enclitic/indeclform
+46304	enclitic/indeclform
+46322	unaugmented/poetic
+46333	enclitic/indeclform
+46357	indeclform
+46374	indeclform
+46379	enclitic/indeclform
+46388	syll_augment/unaugmented
+46397	indeclform
+46412	indeclform
+46433	indeclform
+46442	unaugmented
+46453	indeclform
+46457	enclitic/indeclform
+46462	syll_augment/unaugmented
+46479	indeclform
+46489	proclitic/indeclform
+46493	unaugmented/poetic
+46498	syll_augment/unaugmented
+46502	unaugmented
+46507	indeclform
+46520	indeclform
+indeclform
+46524	unaugmented/poetic
+46545	unaugmented
+46561	indeclform
+46564	proclitic/indeclform
+indeclform
+46574	indeclform
+46580	unaugmented/poetic
+46596	indeclform
+46600	indeclform
+46610	indeclform
+syll_augment/unaugmented/poetic
+46622	proclitic/indeclform
+46632	syll_augment/unaugmented
+46634	enclitic/indeclform
+46641	enclitic/indeclform
+46653	proclitic/indeclform
+indeclform
+46656	proclitic/indeclform
+46662	proclitic/indeclform
+46670	indeclform
+46678	proclitic/indeclform
+46682	proclitic/indeclform
+46688	enclitic/indeclform
+46691	unaugmented/poetic
+proclitic/indeclform
+46698	indeclform
+46714	proclitic/indeclform
+46737	proclitic/indeclform
+46744	unaugmented/poetic
+46748	indeclform
+46761	syll_augment/unaugmented
+46765	unaugmented/poetic
+46777	syll_augment/unaugmented
+46792	syll_augment/unaugmented
+46806	enclitic/indeclform
+46810	syll_augment/unaugmented
+46813	unaugmented
+46835	indeclform
+46842	proclitic/indeclform
+46847	unaugmented/poetic
+46853	unaugmented/poetic
+46856	enclitic/indeclform
+46866	syll_augment/unaugmented
+46868	unaugmented
+46885	enclitic/indeclform
+46892	syll_augment/unaugmented
+46894	syll_augment/unaugmented
+46909	indeclform
+46921	unaugmented/poetic
+46927	unaugmented
+46941	proclitic/indeclform
+46948	unaugmented
+46966	unaugmented
+46973	syll_augment/unaugmented
+46978	syll_augment/unaugmented
+47000	indeclform
+47006	syll_augment/unaugmented
+47017	enclitic/indeclform
+47026	proclitic/indeclform
+47049	syll_augment/unaugmented
+syll_augment/unaugmented
+47059	syll_augment/unaugmented
+47074	proclitic/indeclform
+47088	proclitic/indeclform
+indeclform
+47101	indeclform
+47104	indeclform
+47107	unaugmented
+47127	proclitic/indeclform
+47130	unaugmented/poetic
+47150	syll_augment/unaugmented
+47161	unaugmented
+47175	proclitic/indeclform
+47203	syll_augment/unaugmented
+47209	unaugmented
+47224	indeclform
+47234	proclitic/indeclform
+syll_augment/unaugmented
+47251	enclitic/indeclform
+47253	enclitic/indeclform
+47268	poetic
+47278	proclitic/indeclform
+47300	proclitic/indeclform
+47303	syll_augment/unaugmented
+indeclform
+syll_augment/unaugmented
+47309	indeclform
+syll_augment/unaugmented
+47316	unaugmented
+47335	unaugmented/poetic
+47341	proclitic/indeclform
+47345	unaugmented/poetic
+47356	enclitic/indeclform
+47411	proclitic/indeclform
+47426	syll_augment/unaugmented
+47435	unaugmented/poetic
+proclitic/indeclform
+indeclform
+47440	enclitic/indeclform
+47442	unaugmented
+47450	unaugmented/poetic
+47484	proclitic/indeclform
+47486	proclitic/indeclform
+47522	proclitic/indeclform
+47532	enclitic/indeclform
+47535	enclitic/indeclform
+47540	unaugmented
+47550	unaugmented
+47556	indeclform
+47567	proclitic/indeclform
+47575	proclitic/indeclform
+47591	syll_augment/unaugmented
+47599	proclitic/indeclform
+47606	comp_only
+47610	unaugmented
+proclitic/indeclform
+indeclform
+47615	unaugmented/poetic
+47617	unaugmented
+47639	unaugmented
+47648	indeclform
+47655	indeclform
+47657	proclitic/indeclform
+47663	proclitic/indeclform
+47676	enclitic/indeclform
+47680	unaugmented
+unaugmented
+47686	syll_augment/unaugmented
+47695	unaugmented/poetic
+47697	unaugmented
+proclitic/indeclform
+47703	unaugmented
+enclitic/indeclform
+47713	unaugmented
+47740	indeclform
+47744	proclitic/indeclform
+47749	indeclform
+47753	unaugmented/poetic
+47781	syll_augment/unaugmented
+47794	indeclform
+47801	proclitic/indeclform
+47815	proclitic/indeclform
+47833	proclitic/indeclform
+47838	proclitic/indeclform
+indeclform
+47889	indeclform
+47902	enclitic/indeclform
+47915	unaugmented/poetic
+47922	enclitic/indeclform
+47932	proclitic/indeclform
+47942	unaugmented
+47959	proclitic/indeclform
+47979	proclitic/indeclform
+indeclform
+47983	proclitic/indeclform
+48010	syll_augment/unaugmented
+48017	unaugmented/poetic
+short_eis
+proclitic/indeclform
+indeclform
+48039	unaugmented
+48046	unaugmented
+48054	syll_augment/unaugmented
+48085	enclitic/indeclform
+48093	indeclform
+48096	indeclform
+48102	enclitic/indeclform
+48148	unaugmented/poetic
+48151	indeclform
+48166	proclitic/indeclform
+48169	indeclform
+48197	proclitic/indeclform
+48221	unaugmented
+48228	indeclform
+48231	unaugmented
+48242	unaugmented
+48250	proclitic/indeclform
+indeclform
+48262	proclitic/indeclform
+48271	indeclform
+48289	unaugmented
+48292	proclitic/indeclform
+48294	indeclform
+48297	proclitic/indeclform
+48340	indeclform
+48347	indeclform
+48361	comp_only
+48365	indeclform
+48382	indeclform
+48397	proclitic/indeclform
+48425	proclitic/indeclform
+indeclform
+48437	enclitic/indeclform
+48446	syll_augment/unaugmented
+48450	unaugmented/n_infix
+enclitic/indeclform
+48467	syll_augment/unaugmented
+48472	unaugmented
+48477	indeclform
+48479	proclitic/indeclform
+48481	proclitic/indeclform
+48486	syll_augment/unaugmented
+48489	enclitic/indeclform
+48493	indeclform
+48503	proclitic/indeclform
+48509	unaugmented/poetic
+48518	enclitic/indeclform
+48521	enclitic/indeclform
+48541	unaugmented
+48552	indeclform
+48555	unaugmented
+48558	unaugmented/n_infix
+48580	proclitic/indeclform
+48586	unaugmented/n_infix
+48589	indeclform
+48594	unaugmented
+48600	syll_augment/unaugmented
+48607	syll_augment/unaugmented
+48622	enclitic/indeclform
+48647	proclitic/indeclform
+indeclform
+48651	indeclform
+48659	indeclform
+48680	indeclform
+48690	proclitic/indeclform
+indeclform
+48707	enclitic/indeclform
+48723	indeclform
+48728	proclitic/indeclform
+indeclform
+proclitic/indeclform
+48732	indeclform
+proclitic/indeclform
+48736	proclitic/indeclform
+48738	indeclform
+48750	unaugmented
+48769	unaugmented
+indeclform
+proclitic/indeclform
+48775	proclitic/indeclform
+48778	proclitic/indeclform
+48782	unaugmented/poetic
+48789	proclitic/indeclform
+48795	unaugmented/poetic
+indeclform
+48806	syll_augment/unaugmented
+48816	proclitic/indeclform
+48866	syll_augment/unaugmented
+48872	enclitic/indeclform
+48881	comp_only
+48884	syll_augment/unaugmented
+48889	enclitic/indeclform
+48899	indeclform
+48904	indeclform
+48906	proclitic/indeclform
+indeclform
+48916	unaugmented/poetic
+48921	unaugmented
+48927	syll_augment/unaugmented
+48945	indeclform
+48954	indeclform
+48975	unaugmented
+proclitic/indeclform
+48980	indeclform
+48983	unaugmented
+49000	proclitic/indeclform
+indeclform
+49027	proclitic/indeclform
+indeclform
+49033	proclitic/indeclform
+49052	proclitic/indeclform
+49069	proclitic/indeclform
+49074	indeclform
+49084	proclitic/indeclform
+49089	indeclform
+49098	unaugmented/poetic
+49140	proclitic/indeclform
+indeclform
+49157	indeclform
+49161	enclitic/indeclform
+49174	unaugmented/poetic
+49182	proclitic/indeclform
+49196	unaugmented/poetic
+49205	proclitic/indeclform
+indeclform
+49213	proclitic/indeclform
+49231	syll_augment/unaugmented
+49261	indeclform
+49264	indeclform
+49284	unaugmented
+49288	indeclform
+49296	enclitic/indeclform
+49308	proclitic/indeclform
+49329	proclitic/indeclform
+49336	proclitic/indeclform
+49345	proclitic/indeclform
+49360	proclitic/indeclform
+49368	syll_augment/unaugmented
+49390	proclitic/indeclform
+49405	proclitic/indeclform
+49418	indeclform
+49424	unaugmented
+49431	proclitic/indeclform
+49434	r_e_i_alpha/unaugmented/poetic
+49443	unaugmented/poetic
+49452	indeclform
+49456	unaugmented/poetic
+49466	indeclform
+49468	syll_augment/unaugmented
+49488	indeclform
+49494	proclitic/indeclform
+49502	redupl
+49505	unaugmented
+proclitic/indeclform
+49523	proclitic/indeclform
+49527	syll_augment/unaugmented
+49530	poetic/indeclform
+49534	unaugmented
+49536	unaugmented
+49543	proclitic/indeclform
+49556	unaugmented/poetic
+49558	unaugmented/poetic
+49571	indeclform
+49575	indeclform
+49579	unaugmented/poetic
+49582	enclitic/indeclform
+49589	indeclform
+49603	enclitic/indeclform
+49634	proclitic/indeclform
+49680	syll_augment/unaugmented
+49682	proclitic/indeclform
+49694	unaugmented/poetic
+49708	unaugmented
+49732	proclitic/indeclform
+indeclform
+49736	enclitic/indeclform
+49747	syll_augment/unaugmented
+49762	indeclform
+49774	indeclform
+49777	proclitic/indeclform
+49785	enclitic/indeclform
+49791	syll_augment/unaugmented
+49809	proclitic/indeclform
+49813	unaugmented/poetic
+49816	proclitic/indeclform
+49822	syll_augment/unaugmented
+49825	syll_augment/unaugmented
+49830	unasp_preverb
+49843	indeclform
+49852	unaugmented/poetic
+49868	proclitic/indeclform
+49874	indeclform
+49885	enclitic/indeclform
+49893	unaugmented
+49895	indeclform
+49916	indeclform
+49920	indeclform
+49927	poetic/indeclform
+49929	indeclform
+49944	indeclform
+49947	indeclform
+49961	contr
+49969	indeclform
+49971	enclitic/indeclform
+49974	proclitic/indeclform
+49986	enclitic/indeclform
+49988	enclitic/indeclform
+49992	enclitic/indeclform
+50030	proclitic/indeclform
+50043	enclitic/indeclform
+50053	indeclform
+50057	enclitic/indeclform
+50060	enclitic/indeclform
+50083	unaugmented
+proclitic/indeclform
+indeclform
+50108	indeclform
+50118	indeclform
+50129	syll_augment/unaugmented
+50134	unaugmented
+50143	enclitic/indeclform
+50158	enclitic/indeclform
+50166	indeclform
+50173	syll_augment/unaugmented
+50180	proclitic/indeclform
+50187	enclitic/indeclform
+50199	proclitic/indeclform
+50209	unaugmented
+50219	enclitic/indeclform
+50230	indeclform
+50233	syll_augment/unaugmented
+50236	proclitic/indeclform
+50239	proclitic/indeclform
+50242	proclitic/indeclform
+indeclform
+50245	proclitic/indeclform
+50256	indeclform
+50258	indeclform
+50288	proclitic/indeclform
+indeclform
+50309	syll_augment/unaugmented
+50315	unaugmented/poetic
+50322	indeclform
+50325	indeclform
+50338	syll_augment/unaugmented
+50355	unaugmented/poetic
+50361	enclitic/indeclform
+50400	unaugmented/poetic
+50419	syll_augment/unaugmented
+50438	enclitic/indeclform
+50454	syll_augment/unaugmented
+50456	enclitic/indeclform
+50463	syll_augment/unaugmented
+50466	proclitic/indeclform
+50494	indeclform
+50496	syll_augment/unaugmented
+indeclform
+50501	enclitic/indeclform
+50503	syll_augment/unaugmented
+indeclform
+indeclform
+50531	proclitic/indeclform
+50545	proclitic/indeclform
+50617	unaugmented/poetic
+50621	indeclform
+50632	enclitic/indeclform
+50637	indeclform
+50644	indeclform
+50663	indeclform
+50678	indeclform
+50681	proclitic/indeclform
+50691	enclitic/indeclform
+50710	proclitic/indeclform
+poetic
+50755	unaugmented/poetic
+r_e_i_alpha/unaugmented/poetic
+50762	indeclform
+50773	syll_augment/unaugmented
+50792	syll_augment/unaugmented
+50829	indeclform
+50831	indeclform
+50843	contr/unasp_preverb
+50865	contr/unasp_preverb
+50896	indeclform
+50899	unaugmented/poetic
+50905	pres_redupl
+50916	proclitic/indeclform
+50931	indeclform
+50937	indeclform
+unaugmented
+50940	unaugmented/poetic
+50944	proclitic/indeclform
+50951	enclitic/indeclform
+50960	indeclform
+50968	enclitic/indeclform
+50971	unaugmented
+51002	indeclform
+51025	proclitic/indeclform
+51032	redupl
+51041	enclitic/indeclform
+51055	indeclform
+51057	indeclform
+51059	enclitic/indeclform
+51064	unaugmented/poetic
+51078	syll_augment/unaugmented
+51085	unaugmented/poetic
+51096	poetic/indeclform
+51101	poetic/indeclform
+51104	unaugmented
+51116	enclitic/indeclform
+51122	unaugmented
+51126	proclitic/indeclform
+51133	indeclform
+51140	unasp_preverb
+51142	enclitic/indeclform
+51146	indeclform
+51152	syll_augment/unaugmented
+51165	poetic/indeclform
+51170	indeclform
+51180	unaugmented
+51187	proclitic/indeclform
+51198	indeclform
+51221	unaugmented
+51224	indeclform
+51227	syll_augment/unaugmented
+51258	indeclform
+51264	proclitic/indeclform
+51266	enclitic/indeclform
+51269	proclitic/indeclform
+indeclform
+51278	proclitic/indeclform
+51298	proclitic/indeclform
+indeclform
+51303	proclitic/indeclform
+51306	indeclform
+51314	n_infix
+51318	indeclform
+51324	unaugmented
+51331	enclitic/indeclform
+51335	indeclform
+51337	proclitic/indeclform
+51356	proclitic/indeclform
+51364	indeclform
+51366	unaugmented
+51377	indeclform
+51392	enclitic/indeclform
+51403	syll_augment/unaugmented
+51406	indeclform
+51411	unaugmented
+51416	indeclform
+51431	syll_augment/unaugmented
+51434	indeclform
+51449	proclitic/indeclform
+indeclform
+51454	enclitic/indeclform
+51461	syll_augment/unaugmented
+51473	enclitic/indeclform
+51497	unaugmented
+51514	indeclform
+51520	unaugmented/poetic
+51542	unaugmented
+51547	proclitic/indeclform
+51598	syll_augment/unaugmented
+51601	indeclform
+51603	proclitic/indeclform
+51608	enclitic/indeclform
+51668	proclitic/indeclform
+51672	unaugmented
+51683	enclitic/indeclform
+51689	proclitic/indeclform
+51691	proclitic/indeclform
+51718	indeclform
+51722	proclitic/indeclform
+51750	syll_augment/unaugmented
+51789	indeclform
+51792	syll_augment/unaugmented
+51802	enclitic/indeclform
+51818	proclitic/indeclform
+51829	unaugmented
+51841	proclitic/indeclform
+51843	syll_augment/unaugmented
+51855	indeclform
+51858	unaugmented/poetic
+51887	proclitic/indeclform
+51894	indeclform
+51901	proclitic/indeclform
+51920	proclitic/indeclform
+51952	proclitic/indeclform
+51991	proclitic/indeclform
+51998	unaugmented/poetic
+52027	proclitic/indeclform
+52033	enclitic/indeclform
+52035	indeclform
+52056	syll_augment/unaugmented
+52088	proclitic/indeclform
+indeclform
+52097	proclitic/indeclform
+indeclform
+52101	syll_augment/unaugmented
+52103	indeclform
+52118	syll_augment/unaugmented
+52132	enclitic/indeclform
+52139	proclitic/indeclform
+52159	enclitic/indeclform
+52168	unaugmented
+52178	indeclform
+52190	indeclform
+52199	poetic/indeclform
+52206	indeclform
+52208	poetic/indeclform
+52227	indeclform
+52245	unaugmented
+52261	unaugmented
+52264	indeclform
+52266	indeclform
+52292	indeclform
+52301	indeclform
+52312	unaugmented
+52323	indeclform
+52331	enclitic/indeclform
+52333	late
+52339	unaugmented/poetic
+52341	enclitic/indeclform
+52350	proclitic/indeclform
+52354	indeclform
+52359	proclitic/indeclform
+52377	proclitic/indeclform
+52380	enclitic/indeclform
+proclitic/indeclform
+52384	late
+52390	enclitic/indeclform
+indeclform
+52397	enclitic/indeclform
+indeclform
+52415	indeclform
+52417	indeclform
+52428	unaugmented
+52436	unaugmented
+52439	indeclform
+52450	unaugmented/poetic
+52452	unaugmented
+52456	indeclform
+52461	unaugmented/poetic
+52478	unaugmented
+52498	proclitic/indeclform
+indeclform
+52510	indeclform
+52513	indeclform
+52519	unaugmented
+52522	indeclform
+52524	indeclform
+52528	unaugmented/poetic
+52542	unaugmented/poetic
+52558	proclitic/indeclform
+indeclform
+52575	proclitic/indeclform
+52586	unaugmented/poetic
+52601	unaugmented
+52608	unaugmented/poetic
+52611	proclitic/indeclform
+52615	proclitic/indeclform
+indeclform
+52628	proclitic/indeclform
+indeclform
+52631	indeclform
+52635	enclitic/indeclform
+52649	unaugmented
+unaugmented/poetic
+52654	unaugmented
+52657	comp_only
+52676	poetic/indeclform
+52680	unaugmented/poetic
+52690	enclitic/indeclform
+52700	r_e_i_alpha/unaugmented/poetic
+52714	indeclform
+52716	indeclform
+52739	indeclform
+52760	enclitic/indeclform
+52815	unaugmented
+52821	syll_augment/unaugmented
+52832	proclitic/indeclform
+indeclform
+52835	unaugmented
+52837	enclitic/indeclform
+52841	proclitic/indeclform
+52861	proclitic/indeclform
+52869	indeclform
+52889	indeclform
+52893	enclitic/indeclform
+52931	proclitic/indeclform
+52936	enclitic/indeclform
+52947	r_e_i_alpha/unaugmented/poetic
+52972	proclitic/indeclform
+52974	poetic
+52976	indeclform
+52999	unaugmented
+53019	unaugmented/poetic
+53024	r_e_i_alpha/unaugmented/poetic
+53049	unaugmented
+53051	enclitic/indeclform
+53055	unaugmented
+53081	enclitic/indeclform
+53087	indeclform
+53099	r_e_i_alpha/unaugmented/poetic
+53102	syll_augment/unaugmented
+53113	syll_augment/unaugmented
+53117	indeclform
+53138	unaugmented
+53151	indeclform
+53160	syll_augment/unaugmented
+53168	indeclform
+53171	unaugmented/poetic
+53175	syll_augment/unaugmented
+53182	unaugmented/poetic
+53189	syll_augment/unaugmented
+53204	enclitic/indeclform
+53210	proclitic/indeclform
+53223	syll_augment/unaugmented
+53231	indeclform
+53235	indeclform
+53245	pres_redupl
+indeclform
+53258	unaugmented/poetic
+53267	unaugmented/pres_redupl
+indeclform
+53270	syll_augment/unaugmented
+53277	indeclform
+53281	syll_augment/unaugmented
+53308	syll_augment/unaugmented
+indeclform
+53317	indeclform/late
+53319	pres_redupl
+53333	unaugmented/poetic
+53347	unaugmented
+53367	unaugmented
+53370	unaugmented
+unaugmented/causal
+53373	proclitic/indeclform
+53399	unaugmented/causal
+53402	proclitic/indeclform
+53408	enclitic/indeclform
+53413	syll_augment/unaugmented
+53432	indeclform
+53440	enclitic/indeclform
+53451	syll_augment/unaugmented
+53472	unaugmented/causal
+53474	proclitic/indeclform
+53480	proclitic/indeclform
+53487	unaugmented/poetic
+53511	unaugmented/poetic
+53519	indeclform
+53531	enclitic/indeclform
+53535	proclitic/indeclform
+53555	late
+53564	unaugmented
+53572	late
+53576	unaugmented/poetic
+53588	indeclform
+53601	enclitic/indeclform
+53604	enclitic/indeclform
+53607	indeclform
+53612	syll_augment/unaugmented
+53620	indeclform
+53638	proclitic/indeclform
+53654	unaugmented/causal
+53659	indeclform
+53683	proclitic/indeclform
+53687	proclitic/indeclform
+53693	unaugmented
+53719	enclitic/indeclform
+53733	syll_augment/unaugmented
+proclitic/indeclform
+53737	proclitic/indeclform
+53760	proclitic/indeclform
+53766	enclitic/indeclform
+53769	syll_augment/unaugmented
+53790	unaugmented
+indeclform
+53796	indeclform
+53798	indeclform
+53801	indeclform
+53811	unaugmented/n_infix
+proclitic/indeclform
+53821	unaugmented/n_infix
+53823	enclitic/indeclform
+53837	indeclform
+53860	indeclform
+53867	syll_augment/unaugmented
+53884	indeclform
+53897	proclitic/indeclform
+53901	unaugmented/poetic
+53939	proclitic/indeclform
+53945	proclitic/indeclform
+53952	enclitic/indeclform
+53958	indeclform
+53962	indeclform
+53964	syll_augment/unaugmented
+53968	enclitic/indeclform
+53980	enclitic/indeclform
+53984	indeclform
+53986	unaugmented/poetic
+indeclform
+53992	proclitic/indeclform
+53998	proclitic/indeclform
+54006	indeclform
+54010	enclitic/indeclform
+54046	unaugmented
+54050	indeclform
+54078	proclitic/indeclform
+54081	proclitic/indeclform
+54084	enclitic/indeclform
+54096	unaugmented
+proclitic/indeclform
+proclitic/indeclform
+54100	enclitic/indeclform
+54105	proclitic/indeclform
+54119	proclitic/indeclform
+54122	enclitic/indeclform
+54132	unaugmented
+54161	enclitic/indeclform
+54164	enclitic/indeclform
+54175	syll_augment/unaugmented
+indeclform
+54182	unaugmented
+54200	unaugmented/poetic
+54202	indeclform
+54229	proclitic/indeclform
+54236	indeclform
+54262	syll_augment/unaugmented
+54274	indeclform
+54276	unaugmented
+54288	proclitic/indeclform
+54293	unaugmented
+54296	proclitic/indeclform
+54311	proclitic/indeclform
+54317	unaugmented
+54324	unaugmented/n_infix
+54335	indeclform
+54343	enclitic/indeclform
+54346	enclitic/indeclform
+54353	unaugmented
+54356	enclitic/indeclform
+54365	enclitic/indeclform
+54369	proclitic/indeclform
+indeclform
+54381	enclitic/indeclform
+54399	unaugmented
+54422	indeclform
+54447	enclitic/indeclform
+54457	enclitic/indeclform
+54460	enclitic/indeclform
+54466	syll_augment/unaugmented
+54495	syll_augment/unaugmented
+54497	enclitic/indeclform
+54528	syll_augment/unaugmented
+54542	proclitic/indeclform
+54570	syll_augment/unaugmented
+indeclform
+54583	syll_augment/unaugmented
+54587	indeclform
+54590	enclitic/indeclform
+54622	enclitic/indeclform
+54634	indeclform
+54636	syll_augment/unaugmented
+54656	proclitic/indeclform
+indeclform
+54661	unaugmented/n_infix
+54677	enclitic/indeclform
+54685	syll_augment/unaugmented
+54694	enclitic/indeclform
+54700	proclitic/indeclform
+54708	enclitic/indeclform
+54722	indeclform
+54726	unaugmented
+54777	proclitic/indeclform
+54780	indeclform
+54818	unaugmented
+54823	enclitic/indeclform
+54826	enclitic/indeclform
+54831	proclitic/indeclform
+54837	proclitic/indeclform
+54843	indeclform
+54848	proclitic/indeclform
+54850	indeclform
+54853	indeclform
+54874	contr/unasp_preverb
+54876	indeclform
+54882	proclitic/indeclform
+54884	unasp_preverb
+54888	syll_augment/unaugmented
+54902	contr/unasp_preverb
+54908	enclitic/indeclform
+54932	indeclform
+54934	proclitic/indeclform
+54947	syll_augment/unaugmented
+54949	indeclform
+54954	enclitic/indeclform
+54960	indeclform
+54962	syll_augment/unaugmented
+54965	syll_augment/unaugmented
+54997	proclitic/indeclform
+55006	syll_augment/unaugmented
+55009	enclitic/indeclform
+55015	indeclform
+55024	syll_augment/unaugmented
+55028	unaugmented
+55033	indeclform
+55037	unaugmented
+enclitic/indeclform
+55047	enclitic/indeclform
+55049	indeclform
+55066	indeclform
+55068	indeclform
+55083	proclitic/indeclform
+indeclform
+55087	indeclform
+55093	indeclform
+55106	unaugmented/poetic
+55135	poetic/indeclform
+55138	indeclform
+55141	proclitic/indeclform
+indeclform
+55145	proclitic/indeclform
+indeclform
+55155	indeclform
+55158	syll_augment/unaugmented
+55168	proclitic/indeclform
+55182	enclitic/indeclform
+55184	indeclform
+55202	contr/unasp_preverb
+55207	contr
+55222	syll_augment/unaugmented
+55224	indeclform
+55227	proclitic/indeclform
+55239	proclitic/indeclform
+55248	proclitic/indeclform
+syll_augment/unaugmented
+55259	indeclform
+55274	indeclform
+55290	syll_augment/unaugmented
+55310	unaugmented
+55323	unaugmented/poetic
+55326	unaugmented
+55331	indeclform
+55355	proclitic/indeclform
+indeclform
+55358	indeclform
+55369	indeclform
+55383	enclitic/indeclform
+55396	indeclform
+55412	proclitic/indeclform
+55432	unaugmented
+unaugmented
+55438	unaugmented
+55449	proclitic/indeclform
+indeclform
+indeclform
+55455	indeclform
+55461	indeclform
+55485	indeclform
+55489	unaugmented
+55499	indeclform
+55505	unaugmented/poetic
+55512	indeclform
+55529	syll_augment/unaugmented
+55540	poetic/indeclform
+55546	unaugmented/poetic
+55549	unaugmented
+55596	proclitic/indeclform
+55605	proclitic/indeclform
+55651	unaugmented/poetic
+indeclform
+55655	unaugmented/poetic
+55665	unaugmented/poetic
+55669	enclitic/indeclform
+55676	unaugmented
+55680	proclitic/indeclform
+55691	unaugmented
+55715	indeclform
+55731	enclitic/indeclform
+55741	enclitic/indeclform
+55762	proclitic/indeclform
+55770	enclitic/indeclform
+55773	indeclform
+55780	unaugmented
+55782	indeclform
+unaugmented
+55807	unaugmented
+55810	syll_augment/unaugmented
+55813	unaugmented
+55817	indeclform
+55819	unaugmented
+unaugmented
+55844	enclitic/indeclform
+55855	syll_augment/unaugmented
+55861	indeclform
+55892	enclitic/indeclform
+55900	indeclform
+enclitic/indeclform
+unaugmented
+55913	enclitic/indeclform
+unaugmented
+55919	indeclform
+55922	unaugmented/poetic
+proclitic/indeclform
+55928	indeclform
+55943	proclitic/indeclform
+indeclform
+55970	syll_augment/unaugmented
+55989	enclitic/indeclform
+55993	enclitic/indeclform
+55999	unaugmented/poetic
+56017	unaugmented
+56029	enclitic/indeclform
+56033	enclitic/indeclform
+56050	syll_augment/unaugmented
+56072	unaugmented
+56084	proclitic/indeclform
+56102	enclitic/indeclform
+56104	enclitic/indeclform
+56108	syll_augment/unaugmented
+56125	unaugmented/n_infix
+56130	unaugmented/poetic
+56140	enclitic/indeclform
+56150	proclitic/indeclform
+56154	indeclform
+56169	syll_augment/unaugmented
+56176	enclitic/indeclform
+56189	unaugmented
+56208	enclitic/indeclform
+56214	enclitic/indeclform
+unaugmented
+56230	enclitic/indeclform
+56236	indeclform
+56255	enclitic/indeclform
+unaugmented
+56265	enclitic/indeclform
+56277	enclitic/indeclform
+unaugmented
+56285	unaugmented
+56300	indeclform
+56317	unaugmented
+56319	unaugmented
+56331	enclitic/indeclform
+56338	syll_augment/unaugmented
+indeclform
+56362	proclitic/indeclform
+56381	enclitic/indeclform
+56387	syll_augment/unaugmented
+56389	proclitic/indeclform
+56399	enclitic/indeclform
+56434	unaugmented
+56441	unaugmented/poetic
+56450	proclitic/indeclform
+56472	syll_augment/unaugmented
+56483	syll_augment/unaugmented
+56489	unaugmented
+56492	syll_augment/unaugmented
+56503	unaugmented/poetic
+56515	syll_augment/unaugmented
+56527	enclitic/indeclform
+56532	enclitic/indeclform
+56541	enclitic/indeclform
+56553	syll_augment/unaugmented
+56559	indeclform
+56561	poetic/indeclform
+56569	indeclform
+56576	indeclform
+56588	unaugmented
+56611	indeclform
+56618	indeclform
+56628	indeclform
+56636	indeclform
+56650	unaugmented
+56664	syll_augment/unaugmented
+56672	indeclform
+56674	indeclform
+56677	syll_augment/unaugmented
+56685	indeclform
+56689	indeclform
+56697	unaugmented/poetic
+56706	indeclform
+56710	indeclform
+56713	unaugmented/poetic
+56756	unaugmented
+56768	indeclform
+56771	indeclform
+56780	indeclform
+56809	indeclform
+56814	indeclform
+56827	unaugmented
+56837	indeclform
+56842	unaugmented/poetic
+56852	late
+56869	unaugmented
+56879	unaugmented/poetic
+56907	proclitic/indeclform
+56929	indeclform
+56939	poetic
+56942	indeclform
+56944	proclitic/indeclform
+56953	proclitic/indeclform
+indeclform
+56956	proclitic/indeclform
+56964	enclitic/indeclform
+56972	unaugmented
+56977	proclitic/indeclform
+56980	syll_augment/unaugmented
+indeclform
+56987	syll_augment/unaugmented
+indeclform
+56992	indeclform
+56994	indeclform
+56997	proclitic/indeclform
+indeclform
+57006	unaugmented/poetic
+unaugmented
+57019	indeclform
+57021	indeclform
+57081	enclitic/indeclform
+57093	indeclform
+57099	unaugmented/poetic
+57106	enclitic/indeclform
+57114	unaugmented
+57132	proclitic/indeclform
+indeclform
+57143	syll_augment/unaugmented
+57150	unaugmented/poetic
+57156	indeclform
+57172	syll_augment/unaugmented
+57175	unaugmented/poetic
+57180	indeclform
+57203	proclitic/indeclform
+57208	proclitic/indeclform
+indeclform
+57225	r_e_i_alpha/unaugmented/poetic
+57256	syll_augment/unaugmented
+57287	indeclform
+57313	indeclform
+57321	syll_augment/unaugmented
+57323	indeclform
+57334	unaugmented/poetic
+57340	unaugmented/poetic
+57356	proclitic/indeclform
+57364	proclitic/indeclform
+57383	enclitic/indeclform
+57390	enclitic/indeclform
+57394	unaugmented
+57407	proclitic/indeclform
+57423	proclitic/indeclform
+57432	proclitic/indeclform
+57435	syll_augment/unaugmented
+57446	unaugmented
+57453	enclitic/indeclform
+57480	syll_augment/unaugmented
+57497	unaugmented
+57501	syll_augment/unaugmented
+57520	unaugmented
+57526	proclitic/indeclform
+indeclform
+57535	proclitic/indeclform
+57556	indeclform
+57559	proclitic/indeclform
+57568	proclitic/indeclform
+indeclform
+57572	syll_augment/unaugmented
+57574	indeclform
+57583	poetic/indeclform
+57590	unaugmented
+57593	poetic/indeclform
+57611	indeclform
+57613	unaugmented
+57616	proclitic/indeclform
+57619	proclitic/indeclform
+57623	syll_augment/unaugmented
+57629	indeclform
+57632	indeclform
+57644	unaugmented
+57665	proclitic/indeclform
+57671	unaugmented/poetic
+57697	proclitic/indeclform
+57716	proclitic/indeclform
+indeclform
+57722	indeclform
+57724	enclitic/indeclform
+57727	enclitic/indeclform
+57731	proclitic/indeclform
+57756	indeclform
+57759	proclitic/indeclform
+57778	poetic/indeclform
+57785	proclitic/indeclform
+57796	indeclform
+57802	syll_augment/unaugmented
+57811	indeclform
+57817	enclitic/indeclform
+57819	indeclform
+enclitic/indeclform
+57823	unaugmented/n_infix
+57832	poetic
+57836	unaugmented
+57847	proclitic/indeclform
+57869	indeclform
+57885	syll_augment/unaugmented
+57894	unaugmented/poetic
+57905	contr
+57907	syll_augment/unaugmented
+57921	unaugmented
+57927	syll_augment/unaugmented
+57954	indeclform
+57974	enclitic/indeclform
+57986	unaugmented/n_infix
+57997	indeclform
+58002	enclitic/indeclform
+58005	enclitic/indeclform
+58011	unaugmented
+58029	enclitic/indeclform
+58049	unaugmented/poetic
+58051	syll_augment/unaugmented
+58061	indeclform
+58080	syll_augment/unaugmented
+unaugmented
+58085	unaugmented/poetic
+58104	indeclform
+58107	unaugmented/poetic
+indeclform
+58128	proclitic/indeclform
+58131	unaugmented
+58178	proclitic/indeclform
+indeclform
+58184	indeclform
+58194	enclitic/indeclform
+58197	enclitic/indeclform
+58235	indeclform
+58248	indeclform
+58253	unaugmented
+58270	indeclform
+58278	unaugmented
+58304	syll_augment/unaugmented
+58322	indeclform
+58325	syll_augment/unaugmented
+58382	enclitic/indeclform
+58402	unaugmented/poetic
+58418	indeclform
+58433	proclitic/indeclform
+58469	enclitic/indeclform
+58523	enclitic/indeclform
+58534	indeclform
+58543	unaugmented/n_infix
+58549	proclitic/indeclform
+58556	indeclform
+58575	indeclform
+58583	indeclform
+58592	indeclform
+58603	indeclform
+58627	unaugmented
+58635	unaugmented
+58637	proclitic/indeclform
+indeclform
+58672	indeclform
+unaugmented
+58678	syll_augment/unaugmented
+58686	unaugmented
+58709	unaugmented
+58728	syll_augment/unaugmented
+58732	indeclform
+58736	unaugmented
+58789	enclitic/indeclform
+58806	syll_augment/unaugmented
+58816	proclitic/indeclform
+indeclform
+58820	proclitic/indeclform
+58832	proclitic/indeclform
+58839	proclitic/indeclform
+58878	syll_augment/unaugmented
+58898	syll_augment/unaugmented
+58924	syll_augment/unaugmented
+58935	indeclform
+58945	unaugmented
+58966	unaugmented/poetic
+58971	syll_augment/unaugmented
+58980	unaugmented
+59005	proclitic/indeclform
+59033	unaugmented
+59042	indeclform
+59056	proclitic/indeclform
+59076	syll_augment/unaugmented
+59079	unaugmented
+59081	unaugmented
+59083	indeclform
+59089	indeclform
+59112	indeclform
+59127	proclitic/indeclform
+indeclform
+59135	unaugmented/poetic
+59163	unaugmented/poetic
+59173	unaugmented/poetic
+59176	indeclform
+59198	indeclform
+59219	syll_augment/unaugmented
+59249	unaugmented
+59255	unaugmented/poetic
+59266	unaugmented
+59304	syll_augment/unaugmented
+59318	indeclform
+59324	syll_augment/unaugmented
+59329	indeclform
+59365	indeclform
+59370	indeclform
+59377	indeclform
+59405	unaugmented
+59410	indeclform
+59427	indeclform
+59441	indeclform
+59444	poetic/indeclform
+indeclform
+unaugmented
+59461	indeclform
+59466	syll_augment/unaugmented
+59470	indeclform
+59480	enclitic/indeclform
+59493	proclitic/indeclform
+indeclform
+59514	indeclform
+59537	unaugmented
+59549	pres_redupl
+59579	syll_augment/unaugmented
+59581	unaugmented/n_infix
+59600	indeclform
+59631	proclitic/indeclform
+59637	proclitic/indeclform
+59644	proclitic/indeclform
+59660	syll_augment/unaugmented
+59672	indeclform
+59678	indeclform
+59680	unaugmented
+59688	unaugmented
+59690	proclitic/indeclform
+59701	proclitic/indeclform
+59709	unaugmented
+59718	redupl
+59731	redupl
+59734	unaugmented
+59737	unaugmented/poetic
+59742	unaugmented
+59745	unaugmented/poetic
+59756	indeclform
+59763	indeclform
+59773	proclitic/indeclform
+59785	syll_augment/unaugmented
+poetic/indeclform
+indeclform
+59792	indeclform
+59797	unaugmented
+59799	indeclform
+59813	indeclform
+59828	unaugmented
+enclitic/indeclform
+59838	indeclform
+59841	indeclform
+59844	indeclform
+59854	unaugmented/poetic
+59862	poetic/indeclform
+59875	indeclform
+59880	indeclform
+59901	enclitic/indeclform
+59905	indeclform
+59912	proclitic/indeclform
+indeclform
+59918	proclitic/indeclform
+59921	indeclform
+59923	indeclform
+59926	indeclform
+59934	proclitic/indeclform
+59938	indeclform
+59945	proclitic/indeclform
+indeclform
+59951	proclitic/indeclform
+59957	indeclform
+59964	indeclform
+59969	indeclform
+59971	indeclform
+59989	poetic/indeclform
+59991	proclitic/indeclform
+indeclform
+59996	unaugmented
+60001	proclitic/indeclform
+indeclform
+60008	proclitic/indeclform
+indeclform
+60013	unaugmented
+60015	unaugmented
+60023	unaugmented
+60030	indeclform
+60059	indeclform
+60062	proclitic/indeclform
+indeclform
+60090	proclitic/indeclform
+60098	proclitic/indeclform
+indeclform
+60104	proclitic/indeclform
+60107	proclitic/indeclform
+indeclform
+60135	comp_only
+60149	indeclform
+60155	indeclform
+60160	syll_augment/unaugmented
+60202	unaugmented
+60209	indeclform
+60211	indeclform
+60224	proclitic/indeclform
+indeclform
+60230	pres_redupl
+60236	indeclform
+syll_augment/unaugmented
+indeclform
+60242	indeclform
+60247	indeclform
+60252	pres_redupl
+60255	indeclform
+60259	indeclform
+60266	syll_augment/unaugmented
+indeclform
+60277	poetic/indeclform
+60292	indeclform
+60301	unaugmented
+60311	proclitic/indeclform
+60338	indeclform
+60340	indeclform
+60351	proclitic/indeclform
+60354	unaugmented
+60362	unaugmented
+60378	indeclform
+60380	proclitic/indeclform
+60383	proclitic/indeclform
+indeclform
+60397	proclitic/indeclform
+60405	proclitic/indeclform
+60410	indeclform
+60413	indeclform
+60417	proclitic/indeclform
+60420	proclitic/indeclform
+60428	unaugmented/poetic
+60437	proclitic/indeclform
+60441	proclitic/indeclform
+60458	proclitic/indeclform
+60461	indeclform
+60464	proclitic/indeclform
+indeclform
+60473	indeclform
+proclitic/indeclform
+60497	proclitic/indeclform
+60508	proclitic/indeclform
+60523	proclitic/indeclform
+60528	indeclform
+60530	indeclform
+60532	indeclform
+60534	proclitic/indeclform
+indeclform
+60538	indeclform
+60544	indeclform
+60546	indeclform
+60549	unaugmented
+60562	unaugmented
+60578	indeclform
+60582	unaugmented
+60599	indeclform
+60606	indeclform
+60632	poetic/indeclform
+60636	proclitic/indeclform
+indeclform
+60641	indeclform
+60644	indeclform
+60646	unaugmented
+60663	indeclform
+60666	poetic/indeclform
+60693	indeclform
+60695	syll_augment/unaugmented
+indeclform
+60719	unaugmented
+60746	enclitic/nu_movable
+60762	indeclform
+60766	proclitic/indeclform
+60768	indeclform
+60793	proclitic/indeclform
+indeclform
+60808	unaugmented
+indeclform
+60825	unaugmented/poetic
+60834	unaugmented/poetic
+60838	indeclform
+60856	indeclform
+60868	unaugmented
+60871	indeclform
+60875	indeclform
+60882	syll_augment/unaugmented
+indeclform
+60886	indeclform
+60890	syll_augment/unaugmented
+60909	unaugmented
+60914	indeclform
+indeclform
+60926	indeclform
+60928	indeclform
+60946	unaugmented
+60997	indeclform
+61017	indeclform
+61028	indeclform
+61031	indeclform
+61042	indeclform
+61052	syll_augment/unaugmented
+61060	indeclform
+61085	indeclform
+61123	syll_augment/unaugmented
+61131	syll_augment/unaugmented
+61146	indeclform
+61159	indeclform
+61165	indeclform
+61173	indeclform
+61208	indeclform
+61219	proclitic/indeclform
+61230	indeclform
+poetic/indeclform
+61237	indeclform
+proclitic/indeclform
+indeclform
+61247	proclitic/indeclform
+indeclform
+61251	unaugmented
+61255	indeclform
+61261	proclitic/indeclform
+61264	indeclform
+61269	proclitic/indeclform
+61271	unaugmented
+indeclform
+unaugmented
+61279	indeclform
+proclitic/indeclform
+61284	proclitic/indeclform
+indeclform
+61292	indeclform
+61295	unaugmented
+61316	unaugmented/poetic
+61337	enclitic/indeclform
+61340	indeclform
+61342	proclitic/indeclform
+61347	indeclform
+61362	proclitic/indeclform
+61367	unaugmented/poetic
+61383	indeclform
+61396	unaugmented/poetic
+61400	indeclform
+61402	proclitic/indeclform
+61406	proclitic/indeclform
+indeclform
+61411	unaugmented
+unaugmented
+61428	syll_augment/unaugmented
+61431	indeclform
+61460	indeclform
+61488	unaugmented
+61538	unaugmented/poetic
+61541	indeclform
+61543	indeclform
+61556	unaugmented/poetic
+61573	unaugmented
+61582	indeclform
+61588	indeclform
+61593	proclitic/indeclform
+61598	proclitic/indeclform
+indeclform
+61603	proclitic/indeclform
+indeclform
+61615	proclitic/indeclform
+indeclform
+61634	proclitic/indeclform
+indeclform
+61655	indeclform
+61666	proclitic/indeclform
+indeclform
+61676	proclitic/indeclform
+61731	proclitic/indeclform
+61763	proclitic/indeclform
+61771	unaugmented
+61789	proclitic/indeclform
+61792	proclitic/indeclform
+61797	proclitic/indeclform
+indeclform
+61823	proclitic/indeclform
+61827	proclitic/indeclform
+61860	unaugmented/poetic
+61902	unaugmented
+61904	indeclform
+61909	proclitic/indeclform
+61913	proclitic/indeclform
+61923	r_e_i_alpha/unaugmented/poetic
+61936	enclitic/indeclform
+61944	unaugmented/pres_redupl
+61984	indeclform
+62008	unaugmented/pres_redupl
+62012	proclitic/indeclform
+62014	syll_augment/unaugmented
+62020	indeclform
+62023	unaugmented
+62031	enclitic/indeclform
+62039	syll_augment/unaugmented
+indeclform
+62056	syll_augment/unaugmented
+62089	indeclform
+62092	syll_augment/unaugmented
+62096	indeclform
+62115	indeclform
+62122	enclitic/indeclform
+62146	unaugmented/poetic
+62152	unaugmented
+62165	indeclform
+62178	indeclform
+62182	indeclform
+62208	syll_augment/unaugmented
+62217	indeclform
+62219	indeclform
+62221	indeclform
+62229	proclitic/indeclform
+62239	enclitic/indeclform
+62242	enclitic/indeclform
+62282	indeclform
+62287	proclitic/indeclform
+62290	proclitic/indeclform
+indeclform
+62295	enclitic/indeclform
+62299	proclitic/indeclform
+62312	indeclform
+62315	indeclform
+syll_augment/unaugmented
+62328	indeclform
+62333	indeclform
+62344	unaugmented
+62355	unaugmented
+62368	syll_augment/unaugmented
+62378	proclitic/indeclform
+62382	syll_augment/unaugmented
+62394	indeclform
+62403	proclitic/indeclform
+indeclform
+62428	indeclform
+62439	unaugmented
+62469	poetic/indeclform
+62473	syll_augment/unaugmented
+62488	syll_augment/unaugmented
+62490	enclitic/indeclform
+62492	indeclform
+62504	syll_augment/unaugmented
+62523	syll_augment/unaugmented
+62526	proclitic/indeclform
+62538	indeclform
+62540	syll_augment/unaugmented
+62543	unaugmented/poetic
+62547	indeclform
+62556	enclitic/indeclform
+62565	indeclform
+62567	indeclform
+62581	indeclform
+62583	indeclform
+62585	enclitic/indeclform
+62587	poetic/indeclform
+enclitic/indeclform
+62598	indeclform
+62600	indeclform
+62605	syll_augment/unaugmented
+62612	proclitic/indeclform
+62634	unaugmented
+62666	indeclform
+62668	proclitic/indeclform
+62674	indeclform
+62677	unaugmented
+indeclform
+proclitic/indeclform
+indeclform
+62684	unaugmented
+indeclform
+62696	unaugmented
+62714	enclitic/indeclform
+62753	indeclform
+62755	indeclform
+62761	indeclform
+62764	proclitic/indeclform
+62789	enclitic/indeclform
+62792	enclitic/indeclform
+62811	proclitic/indeclform
+62816	enclitic/indeclform
+62825	unaugmented
+62829	unaugmented/poetic
+62850	indeclform
+62852	enclitic/indeclform
+proclitic/indeclform
+62888	unaugmented/poetic
+indeclform
+62912	enclitic/indeclform
+62921	proclitic/indeclform
+62931	indeclform
+62962	proclitic/indeclform
+62968	indeclform
+62986	unaugmented
+62988	enclitic/indeclform
+63047	unaugmented
+63085	indeclform
+63087	enclitic/indeclform
+63100	syll_augment/unaugmented
+63111	enclitic/indeclform
+63119	indeclform
+63142	unaugmented
+63150	unaugmented
+63157	indeclform
+63161	indeclform
+63172	enclitic/indeclform
+63181	indeclform
+63185	indeclform
+63189	indeclform
+63195	indeclform
+63200	indeclform
+63217	indeclform
+63223	indeclform
+63225	indeclform
+indeclform
+63239	indeclform
+63252	indeclform
+63269	indeclform
+63278	syll_augment/unaugmented
+63287	enclitic/indeclform
+63298	unaugmented
+indeclform
+63301	proclitic/indeclform
+indeclform
+63307	indeclform
+63318	indeclform
+63324	enclitic/indeclform
+63331	indeclform
+63335	unaugmented
+63344	proclitic/indeclform
+63352	indeclform
+63377	indeclform
+63393	indeclform
+63462	proclitic/indeclform
+63486	proclitic/indeclform
+indeclform
+63493	proclitic/indeclform
+indeclform
+63497	unaugmented
+proclitic/indeclform
+63525	indeclform
+63528	indeclform
+63589	enclitic/indeclform
+63591	unaugmented
+63610	indeclform
+63629	indeclform
+63646	unaugmented
+63685	enclitic/indeclform
+63691	indeclform
+63695	proclitic/indeclform
+63706	proclitic/indeclform
+63740	unaugmented
+63746	redupl
+63748	indeclform
+63767	indeclform
+63840	indeclform
+63851	syll_augment/unaugmented
+63865	redupl
+63868	enclitic/indeclform
+63886	unaugmented/poetic
+indeclform
+63901	enclitic/indeclform
+63906	syll_augment/unaugmented
+63912	unaugmented/poetic
+indeclform
+63932	poetic/indeclform
+n_infix
+63939	poetic/indeclform
+n_infix
+63962	enclitic/indeclform
+63970	syll_augment/unaugmented
+63974	contr
+proclitic/indeclform
+63984	unaugmented/poetic
+63994	unaugmented/poetic
+64004	unaugmented
+64011	indeclform
+enclitic/indeclform
+64024	redupl
+64031	syll_augment/unaugmented
+unaugmented/poetic
+indeclform
+64036	indeclform
+64044	indeclform
+64063	unaugmented
+64068	syll_augment/unaugmented
+64086	enclitic/indeclform
+64100	comp_only
+64103	indeclform
+64107	proclitic/indeclform
+indeclform
+64124	unaugmented/poetic
+64130	proclitic/indeclform
+indeclform
+64151	unaugmented
+64167	enclitic/indeclform
+64197	proclitic/indeclform
+64215	enclitic/indeclform
+64234	syll_augment/unaugmented
+64238	indeclform
+64252	no_redupl
+unaugmented
+64268	indeclform
+64293	enclitic/indeclform
+64297	indeclform
+64307	unaugmented
+proclitic/indeclform
+64317	proclitic/indeclform
+64379	proclitic/indeclform
+64392	pres_redupl
+64412	indeclform
+64430	unaugmented
+64435	indeclform
+64453	unaugmented
+64458	indeclform
+64473	syll_augment/unaugmented
+64480	syll_augment/unaugmented
+64489	unaugmented
+64495	indeclform
+64529	syll_augment/unaugmented
+64541	unaugmented
+64557	proclitic/indeclform
+indeclform
+64565	syll_augment/unaugmented
+64570	unaugmented/pres_redupl
+64578	indeclform
+64599	unaugmented
+64615	syll_augment/unaugmented
+64650	indeclform
+64658	indeclform
+64673	indeclform
+64714	proclitic/indeclform
+64724	indeclform
+64729	unaugmented/poetic
+64738	unaugmented
+64754	proclitic/indeclform
+64763	enclitic/indeclform
+64772	proclitic/indeclform
+indeclform
+64779	indeclform
+64781	syll_augment/unaugmented
+64789	indeclform
+unaugmented
+64795	proclitic/indeclform
+64799	unaugmented
+64809	unaugmented
+64816	proclitic/indeclform
+64842	proclitic/indeclform
+64856	proclitic/indeclform
+64859	proclitic/indeclform
+64904	syll_augment/unaugmented
+64913	indeclform
+64961	proclitic/indeclform
+64967	proclitic/indeclform
+64971	syll_augment/unaugmented
+64981	poetic
+64989	syll_augment/unaugmented
+65008	proclitic/indeclform
+indeclform
+65015	unaugmented
+65021	unaugmented/poetic
+65023	unaugmented
+65034	indeclform
+65047	unaugmented/poetic
+65056	unaugmented/poetic
+65060	proclitic/indeclform
+65064	indeclform
+65073	proclitic/indeclform
+65077	unaugmented
+65085	indeclform
+65087	proclitic/indeclform
+65116	indeclform
+65151	unaugmented
+65182	proclitic/indeclform
+indeclform
+65191	unaugmented
+65211	indeclform
+65287	enclitic/indeclform
+65291	enclitic/indeclform
+65299	proclitic/indeclform
+65308	enclitic/indeclform
+65326	indeclform
+65334	enclitic/indeclform
+65350	indeclform
+65353	unaugmented/poetic
+65392	enclitic/indeclform
+65397	indeclform
+65401	unaugmented
+indeclform
+65407	proclitic/indeclform
+65415	unaugmented
+65418	unaugmented
+65429	proclitic/indeclform
+65442	indeclform
+65445	comp_only
+enclitic/indeclform
+65454	enclitic/indeclform
+65460	enclitic/indeclform
+65463	comp_only
+65468	unaugmented
+65475	proclitic/indeclform
+65485	comp_only
+65489	proclitic/indeclform
+indeclform
+65492	contr
+65498	contr/unasp_preverb
+65511	indeclform
+65546	unaugmented/poetic
+65560	proclitic/indeclform
+65571	comp_only
+65573	unaugmented/poetic
+unaugmented
+65577	unaugmented/poetic
+65605	comp_only
+65621	indeclform
+65625	indeclform
+65631	indeclform
+65641	unaugmented
+65654	unaugmented
+65661	comp_only
+65685	proclitic/indeclform
+indeclform
+65725	indeclform
+65736	indeclform
+65745	unaugmented/poetic
+65772	unaugmented
+65776	syll_augment/unaugmented
+65778	indeclform
+65786	poetic/indeclform
+65821	syll_augment/unaugmented
+65838	unaugmented
+65844	indeclform
+65860	indeclform
+65863	indeclform
+65875	poetic/indeclform
+65897	enclitic/indeclform
+65907	proclitic/indeclform
+65927	unaugmented/poetic
+65947	enclitic/indeclform
+65956	indeclform
+65961	pres_redupl
+65967	poetic/indeclform
+65976	proclitic/indeclform
+indeclform
+65986	proclitic/indeclform
+65990	unaugmented
+66077	indeclform
+66079	syll_augment/unaugmented
+66092	syll_augment/unaugmented
+66107	proclitic/indeclform
+indeclform
+66130	indeclform
+66148	poetic
+66185	indeclform
+66223	indeclform
+indeclform
+66227	proclitic/indeclform
+66230	indeclform
+66277	indeclform
+66290	indeclform
+66311	indeclform
+66313	indeclform
+66327	unaugmented
+66330	poetic
+66334	enclitic/indeclform
+66340	indeclform
+66353	unaugmented
+66364	poetic/indeclform
+66369	comp_only
+66376	indeclform
+66402	syll_augment/unaugmented
+66405	indeclform
+causal
+66414	proclitic/indeclform
+66421	poetic/indeclform
+66427	indeclform
+unaugmented
+66443	enclitic/indeclform
+66459	enclitic/indeclform
+66478	proclitic/indeclform
+indeclform
+66488	indeclform
+66500	proclitic/indeclform
+indeclform
+66516	enclitic/indeclform
+66524	enclitic/indeclform
+66526	poetic
+66535	proclitic/indeclform
+indeclform
+66571	proclitic/indeclform
+66589	proclitic/indeclform
+66592	unaugmented
+66610	proclitic/indeclform
+indeclform
+66614	proclitic/indeclform
+66617	indeclform
+proclitic/indeclform
+66629	syll_augment/unaugmented
+66644	unaugmented
+proclitic/indeclform
+66652	indeclform
+66655	indeclform
+66659	proclitic/indeclform
+indeclform
+66675	proclitic/indeclform
+66678	unaugmented
+comp_only
+66700	proclitic/indeclform
+66703	indeclform
+66715	proclitic/indeclform
+66717	proclitic/indeclform
+66744	indeclform
+66806	indeclform
+66821	indeclform
+66831	syll_augment/unaugmented
+66837	comp_only
+66839	unaugmented/poetic
+66843	indeclform
+66845	unaugmented/poetic
+66851	indeclform
+66857	enclitic/indeclform
+66865	enclitic/indeclform
+66877	indeclform
+66905	enclitic/indeclform
+66908	enclitic/indeclform
+66911	enclitic/indeclform
+66936	indeclform
+proclitic/indeclform
+66960	enclitic/indeclform
+66965	enclitic/indeclform
+66983	proclitic/indeclform
+67007	indeclform
+67011	indeclform
+67016	indeclform
+67022	comp_only/unaugmented
+67036	proclitic/indeclform
+indeclform
+67043	nu_movable
+67063	proclitic/indeclform
+67078	unaugmented/poetic
+67089	unaugmented
+67111	unaugmented/poetic
+enclitic/indeclform
+67131	proclitic/indeclform
+67137	indeclform
+67157	poetic/indeclform
+67176	indeclform
+67180	unaugmented/poetic
+67223	syll_augment/unaugmented
+67250	unaugmented
+67254	unaugmented
+proclitic/indeclform
+67263	proclitic/indeclform
+67273	unaugmented
+indeclform
+67295	enclitic/indeclform
+67304	proclitic/indeclform
+67309	indeclform
+67327	unaugmented/poetic
+67329	indeclform
+67331	syll_augment/unaugmented
+67342	indeclform
+67348	enclitic/indeclform
+67372	enclitic/indeclform
+67374	unaugmented
+67409	proclitic/indeclform
+indeclform
+67416	proclitic/indeclform
+67436	indeclform
+67461	indeclform
+67491	enclitic/indeclform
+67494	indeclform
+67511	proclitic/indeclform
+67527	syll_augment/unaugmented
+67531	unaugmented
+proclitic/indeclform
+indeclform
+67535	indeclform
+67538	indeclform
+67559	enclitic/indeclform
+67566	indeclform
+67579	enclitic/indeclform
+67584	unaugmented
+67586	proclitic/indeclform
+67597	redupl
+proclitic/indeclform
+67610	indeclform
+67613	proclitic/indeclform
+67625	enclitic/indeclform
+67631	poetic/indeclform
+67641	enclitic/indeclform
+67645	proclitic/indeclform
+67649	proclitic/indeclform
+indeclform
+67668	r_e_i_alpha
+67679	proclitic/indeclform
+indeclform
+67690	indeclform
+67694	indeclform
+67719	enclitic/indeclform
+67726	indeclform
+67740	unaugmented
+67754	indeclform
+67778	enclitic/indeclform
+67789	proclitic/indeclform
+indeclform
+67798	indeclform
+67806	syll_augment/unaugmented
+67830	indeclform
+67836	proclitic/indeclform
+67856	proclitic/indeclform
+67860	unaugmented
+67875	indeclform
+67878	indeclform
+67892	indeclform
+67895	indeclform
+67903	unaugmented/poetic
+67907	redupl
+67910	enclitic/indeclform
+67914	unaugmented
+67926	indeclform
+67932	enclitic/indeclform
+67938	comp_only
+67947	indeclform
+67950	proclitic/indeclform
+indeclform
+67964	proclitic/indeclform
+67981	proclitic/indeclform
+67991	enclitic/indeclform
+68006	unaugmented/poetic
+68041	comp_only
+68070	comp_only
+68083	unaugmented/poetic
+68091	proclitic/indeclform
+68113	proclitic/indeclform
+indeclform
+68118	unaugmented/n_infix
+68137	indeclform
+68141	unaugmented
+68146	indeclform
+68219	indeclform
+68221	indeclform
+68223	indeclform
+68230	enclitic/indeclform
+68232	proclitic/indeclform
+indeclform
+68242	syll_augment/unaugmented
+68263	indeclform
+68268	proclitic/indeclform
+68272	indeclform
+68275	proclitic/indeclform
+68278	syll_augment/unaugmented
+68281	unaugmented
+68288	r_e_i_alpha
+68296	poetic/indeclform
+68298	unaugmented
+68305	proclitic/indeclform
+68324	unaugmented
+68330	proclitic/indeclform
+68343	indeclform
+68351	unaugmented
+68363	proclitic/indeclform
+68383	syll_augment/unaugmented
+68391	proclitic/indeclform
+indeclform
+68422	enclitic/indeclform
+68481	enclitic/indeclform
+68497	proclitic/indeclform
+indeclform
+68508	indeclform
+68522	indeclform
+68525	proclitic/indeclform
+68538	enclitic/indeclform
+68547	proclitic/indeclform
+indeclform
+68551	unaugmented
+68559	proclitic/indeclform
+68572	indeclform
+68579	proclitic/indeclform
+68582	indeclform
+68603	indeclform
+68611	proclitic/indeclform
+68619	indeclform
+68625	proclitic/indeclform
+indeclform
+68635	indeclform
+68653	proclitic/indeclform
+68658	proclitic/indeclform
+68678	indeclform
+68684	indeclform
+poetic
+68700	pres_redupl
+68703	enclitic/indeclform
+68757	proclitic/indeclform
+indeclform
+68764	proclitic/indeclform
+68767	indeclform
+68777	proclitic/indeclform
+68784	proclitic/indeclform
+68822	syll_augment/unaugmented
+68850	proclitic/indeclform
+68894	proclitic/indeclform
+68904	proclitic/indeclform
+68908	proclitic/indeclform
+68912	proclitic/indeclform
+68927	indeclform
+causal
+68935	proclitic/indeclform
+68941	proclitic/indeclform
+68944	proclitic/indeclform
+68953	proclitic/indeclform
+indeclform
+68966	indeclform
+68972	enclitic/indeclform
+68975	unaugmented
+68979	proclitic/indeclform
+68986	indeclform
+68989	indeclform
+68991	proclitic/indeclform
+69011	proclitic/indeclform
+69018	indeclform
+69022	proclitic/indeclform
+69042	proclitic/indeclform
+69054	proclitic/indeclform
+69069	unaugmented/poetic
+69082	indeclform
+69090	proclitic/indeclform
+69097	indeclform
+69110	enclitic/indeclform
+69115	proclitic/indeclform
+69125	comp_only
+69134	unaugmented
+69136	comp_only
+69138	unaugmented/poetic
+69143	indeclform
+69155	proclitic/indeclform
+69157	unaugmented
+69166	indeclform
+69179	indeclform
+69186	indeclform
+69201	indeclform
+69203	indeclform
+69206	proclitic/indeclform
+enclitic/indeclform
+69212	indeclform
+69217	enclitic/indeclform
+69229	indeclform
+69270	unaugmented/poetic
+69277	unaugmented/poetic
+69279	syll_augment/unaugmented
+69283	unaugmented
+69294	unaugmented/poetic
+69300	indeclform
+69315	enclitic/indeclform
+69318	indeclform
+69342	indeclform
+69367	proclitic/indeclform
+69377	proclitic/indeclform
+69421	enclitic/indeclform
+69443	enclitic/indeclform
+69449	unaugmented/poetic
+69451	proclitic/indeclform
+indeclform
+69457	indeclform
+69459	indeclform
+69481	proclitic/indeclform
+69491	proclitic/indeclform
+69503	indeclform
+69516	indeclform
+69519	unaugmented/poetic
+indeclform
+69537	indeclform
+69544	unaugmented/poetic
+69565	indeclform
+69574	comp_only
+69577	enclitic/indeclform
+proclitic/indeclform
+69583	indeclform
+69588	unaugmented/poetic
+69666	syll_augment/unaugmented
+69674	syll_augment/unaugmented/poetic
+69681	unaugmented/poetic
+69692	proclitic/indeclform
+indeclform
+69696	indeclform
+69705	unaugmented/poetic
+69718	indeclform
+69721	indeclform
+69724	unaugmented
+69728	unaugmented
+69740	syll_augment/unaugmented
+69744	unaugmented/poetic
+69755	enclitic/indeclform
+69836	syll_augment/unaugmented
+69840	indeclform
+69842	unaugmented
+69845	indeclform
+69859	syll_augment/unaugmented
+69863	indeclform
+69867	syll_augment/unaugmented
+enclitic/indeclform
+69870	poetic/indeclform
+69885	indeclform
+69894	proclitic/indeclform
+69900	proclitic/indeclform
+69913	proclitic/indeclform
+69916	indeclform
+69930	indeclform
+69937	indeclform
+69939	syll_augment/unaugmented
+69950	indeclform
+69954	poetic
+69971	proclitic/indeclform
+70045	indeclform
+70057	unaugmented/poetic
+70066	indeclform
+70092	proclitic/indeclform
+70094	indeclform
+70123	syll_augment/unaugmented
+70126	proclitic/indeclform
+70136	unaugmented
+70139	unaugmented
+70151	enclitic/indeclform
+70154	enclitic/indeclform
+70195	unasp_preverb
+70200	proclitic/indeclform
+70205	syll_augment/unaugmented
+70208	proclitic/indeclform
+70215	syll_augment/unaugmented
+70234	proclitic/indeclform
+70272	proclitic/indeclform
+70288	syll_augment/unaugmented
+70306	comp_only
+70316	unaugmented
+70335	unaugmented
+70340	syll_augment/unaugmented
+70351	proclitic/indeclform
+70364	unaugmented
+70369	proclitic/indeclform
+70384	proclitic/indeclform
+70391	proclitic/indeclform
+70403	unaugmented/poetic
+70407	enclitic/indeclform
+70444	proclitic/indeclform
+70452	proclitic/indeclform
+70458	enclitic/indeclform
+70464	indeclform
+70466	indeclform
+70483	enclitic/indeclform
+70493	proclitic/indeclform
+70521	unaugmented
+70523	enclitic/indeclform
+proclitic/indeclform
+70535	enclitic/indeclform
+proclitic/indeclform
+70539	proclitic/indeclform
+indeclform
+70553	proclitic/indeclform
+indeclform
+70565	enclitic/indeclform
+70567	comp_only
+70572	enclitic/indeclform
+70583	indeclform
+70588	unaugmented/poetic
+70600	indeclform
+70625	unaugmented
+70629	indeclform
+70642	syll_augment/unaugmented
+70662	enclitic/indeclform
+70673	proclitic/indeclform
+70696	proclitic/indeclform
+70706	proclitic/indeclform
+70714	enclitic/indeclform
+70720	proclitic/indeclform
+70761	indeclform
+70771	indeclform
+70779	syll_augment/unaugmented
+70782	indeclform
+70808	unaugmented
+70813	unaugmented/poetic
+70827	proclitic/indeclform
+70836	proclitic/indeclform
+70853	indeclform
+70859	indeclform
+70864	unaugmented/poetic
+70868	proclitic/indeclform
+70879	unaugmented/poetic
+70894	syll_augment/unaugmented
+70898	syll_augment/unaugmented
+70913	unaugmented/poetic
+70923	indeclform
+70938	proclitic/indeclform
+70967	unaugmented/poetic
+71002	unaugmented
+71005	proclitic/indeclform
+71014	proclitic/indeclform
+71018	indeclform
+71035	poetic
+71041	syll_augment/unaugmented
+71048	rare
+71058	indeclform
+71064	unaugmented
+71078	proclitic/indeclform
+71080	proclitic/indeclform
+71086	poetic/indeclform
+syll_augment/unaugmented/poetic
+71093	enclitic/indeclform
+71095	enclitic/indeclform
+71126	syll_augment/unaugmented
+71134	unaugmented
+71153	syll_augment/unaugmented
+71160	indeclform
+71165	enclitic/indeclform
+71179	unaugmented
+71195	contr
+71198	unaugmented/poetic
+71205	unaugmented/poetic
+71211	unaugmented/n_infix
+71221	unaugmented/poetic
+71240	proclitic/indeclform
+71247	unaugmented
+71281	causal/pres_redupl
+proclitic/indeclform
+71288	indeclform
+71296	rare
+indeclform
+71327	proclitic/indeclform
+indeclform
+71335	comp_only
+71337	proclitic/indeclform
+71345	indeclform
+71352	comp_only
+71354	unaugmented/poetic
+71367	proclitic/indeclform
+71373	unaugmented/poetic
+71387	comp_only
+71389	unaugmented/poetic
+71391	contr
+71393	indeclform
+71399	poetic
+71404	syll_augment/unaugmented
+71415	proclitic/indeclform
+71449	unaugmented/poetic
+71466	proclitic/indeclform
+71511	unaugmented
+71516	proclitic/indeclform
+71523	unaugmented
+71527	indeclform
+71529	unaugmented
+71535	unaugmented/poetic
+indeclform
+71550	indeclform
+71552	indeclform
+71563	unaugmented/poetic
+71570	enclitic/indeclform
+71589	indeclform
+71605	enclitic/indeclform
+71611	indeclform
+71616	indeclform
+71618	indeclform
+71636	indeclform
+71652	proclitic/indeclform
+71658	proclitic/indeclform
+indeclform
+71672	enclitic/indeclform
+71675	enclitic/indeclform
+71677	enclitic/indeclform
+71684	indeclform
+71690	unaugmented/poetic
+71700	enclitic/indeclform
+71722	proclitic/indeclform
+71728	proclitic/indeclform
+71731	unaugmented
+71734	proclitic/indeclform
+71746	unaugmented/poetic
+71753	indeclform
+71758	indeclform
+71761	indeclform
+71764	indeclform
+71776	poetic
+71779	syll_augment/unaugmented
+71784	rare
+indeclform
+71801	indeclform
+71807	unaugmented
+71822	unaugmented/poetic
+71829	proclitic/indeclform
+71837	syll_augment/unaugmented
+71851	enclitic/indeclform
+71864	indeclform
+enclitic/indeclform
+71869	proclitic/indeclform
+indeclform
+71890	proclitic/indeclform
+71899	proclitic/indeclform
+71901	indeclform
+71916	proclitic/indeclform
+71924	proclitic/indeclform
+71933	proclitic/indeclform
+71945	proclitic/indeclform
+71947	indeclform
+71981	enclitic/indeclform
+72009	unaugmented/n_infix
+72049	indeclform
+72055	proclitic/indeclform
+72072	unaugmented/poetic
+72080	unaugmented
+72082	indeclform
+72098	indeclform
+72118	proclitic/indeclform
+72124	unaugmented
+72128	proclitic/indeclform
+72133	proclitic/indeclform
+72181	proclitic/indeclform
+72214	unaugmented
+72255	indeclform
+72262	proclitic/indeclform
+72314	proclitic/indeclform
+indeclform
+72327	proclitic/indeclform
+72330	unaugmented
+72337	syll_augment/unaugmented
+72346	indeclform
+72360	unaugmented
+72398	unaugmented/poetic
+72416	proclitic/indeclform
+72419	syll_augment/unaugmented
+72421	unaugmented
+72458	indeclform
+72498	enclitic/indeclform
+72504	indeclform
+72509	enclitic/indeclform
+72533	unaugmented
+72535	enclitic/indeclform
+72543	syll_augment/unaugmented
+72564	proclitic/indeclform
+72568	indeclform
+72574	unaugmented
+72600	unaugmented
+72631	unaugmented
+72642	unaugmented/poetic
+72659	indeclform
+72690	proclitic/indeclform
+72722	indeclform
+72726	syll_augment/unaugmented
+72731	unaugmented
+72772	proclitic/indeclform
+72778	unaugmented/poetic
+proclitic/indeclform
+72796	unaugmented
+72798	indeclform
+72808	indeclform
+72820	contr
+72824	unaugmented/poetic
+unaugmented
+72855	syll_augment/unaugmented
+72859	unaugmented
+72872	unaugmented
+72885	short_eis
+72923	enclitic/indeclform
+72933	unaugmented
+72970	enclitic/indeclform
+72980	proclitic/indeclform
+indeclform
+72995	syll_augment/unaugmented
+72999	enclitic/indeclform
+73018	proclitic/indeclform
+73021	proclitic/indeclform
+73033	proclitic/indeclform
+73038	proclitic/indeclform
+73045	proclitic/indeclform
+73052	proclitic/indeclform
+73094	syll_augment/unaugmented
+73096	unaugmented
+73109	indeclform
+73121	indeclform
+73128	comp_only
+73133	unaugmented
+73135	indeclform
+73138	proclitic/indeclform
+73147	unaugmented
+73157	indeclform
+73172	enclitic/indeclform
+proclitic/indeclform
+indeclform
+73178	indeclform
+73185	enclitic/indeclform
+73188	proclitic/indeclform
+73191	enclitic/indeclform
+73209	indeclform
+73217	proclitic/indeclform
+73221	indeclform
+73228	unaugmented
+73280	proclitic/indeclform
+73282	proclitic/indeclform
+indeclform
+73286	indeclform
+73290	proclitic/indeclform
+73311	indeclform
+indeclform
+73315	indeclform
+73319	proclitic/indeclform
+73334	comp_only
+73337	unaugmented/poetic
+73360	indeclform
+73366	indeclform
+73376	proclitic/indeclform
+73380	proclitic/indeclform
+73392	proclitic/indeclform
+73396	enclitic/indeclform
+73406	proclitic/indeclform
+73418	indeclform
+73429	indeclform
+73444	indeclform
+73447	indeclform
+73458	unaugmented/poetic
+indeclform
+73464	indeclform
+indeclform
+73468	contr
+73472	unaugmented/poetic
+73475	enclitic/indeclform
+73496	indeclform
+73498	unaugmented
+73504	unaugmented/poetic
+73510	unaugmented
+73519	indeclform
+73524	indeclform
+73543	indeclform
+73567	unaugmented/poetic
+73570	enclitic/indeclform
+73599	enclitic/indeclform
+73611	indeclform
+73621	proclitic/indeclform
+73644	enclitic/indeclform
+73658	unaugmented
+73665	indeclform
+73667	indeclform
+73670	indeclform
+73691	enclitic/indeclform
+73697	enclitic/indeclform
+73702	proclitic/indeclform
+73705	unaugmented
+73715	redupl
+73739	proclitic/indeclform
+73767	syll_augment/unaugmented
+73780	indeclform
+73793	enclitic/indeclform
+73818	unaugmented
+73840	enclitic/indeclform
+73846	indeclform
+73862	unaugmented
+73864	indeclform
+73888	indeclform
+proclitic/indeclform
+73892	proclitic/indeclform
+73898	indeclform
+73908	unaugmented
+73911	indeclform
+73913	unaugmented/pres_redupl
+73915	unaugmented
+73917	pres_redupl
+73922	unaugmented
+73969	unaugmented/poetic
+73972	indeclform
+73983	unaugmented
+74015	unaugmented/poetic
+74027	indeclform
+74042	proclitic/indeclform
+74059	unaugmented/poetic
+74094	unaugmented/n_infix
+74106	indeclform
+74108	indeclform
+74120	indeclform
+74123	indeclform
+74148	enclitic/indeclform
+74163	unaugmented
+74197	unaugmented/n_infix
+74218	enclitic/indeclform
+74221	enclitic/indeclform
+74234	syll_augment/unaugmented
+74240	causal/pres_redupl
+74245	proclitic/indeclform
+indeclform
+74254	contr
+indeclform
+74276	indeclform
+74289	unaugmented
+74306	enclitic/indeclform
+74313	unaugmented
+74344	proclitic/indeclform
+74362	unaugmented
+74372	indeclform
+74378	enclitic/indeclform
+74386	unaugmented
+74395	indeclform
+74400	unaugmented
+74403	poetic/indeclform
+74405	enclitic/indeclform
+74413	indeclform
+74443	unaugmented
+74471	proclitic/indeclform
+74497	indeclform
+74509	proclitic/indeclform
+74516	enclitic/indeclform
+74519	enclitic/indeclform
+74538	unaugmented/n_infix
+74552	indeclform
+74590	indeclform
+74594	indeclform
+74596	indeclform
+74599	indeclform
+74603	indeclform
+74624	enclitic/indeclform
+74678	proclitic/indeclform
+74695	syll_augment/unaugmented
+74706	indeclform
+proclitic/indeclform
+74714	enclitic/indeclform
+74811	proclitic/indeclform
+74832	proclitic/indeclform
+74845	proclitic/indeclform
+74853	indeclform
+74855	indeclform
+74863	proclitic/indeclform
+74874	indeclform
+74893	proclitic/indeclform
+74924	indeclform
+74941	indeclform
+proclitic/indeclform
+74971	unaugmented/poetic
+74986	proclitic/indeclform
+75004	indeclform
+75037	proclitic/indeclform
+75050	indeclform
+75070	indeclform
+75075	indeclform
+75086	indeclform
+75089	indeclform
+75093	enclitic/indeclform
+75097	unaugmented/poetic
+75103	indeclform
+75117	indeclform
+75119	syll_augment/unaugmented
+75122	proclitic/indeclform
+75136	enclitic/indeclform
+75141	indeclform
+75166	enclitic/indeclform
+75177	indeclform
+75180	indeclform
+75193	enclitic/indeclform
+75197	indeclform
+75210	indeclform
+75241	unaugmented
+75247	enclitic/indeclform
+75256	indeclform
+75268	indeclform
+75315	indeclform
+75331	enclitic/indeclform
+75352	unaugmented/poetic
+75356	proclitic/indeclform
+75363	proclitic/indeclform
+75377	enclitic/indeclform
+75393	indeclform
+75399	enclitic/indeclform
+75420	enclitic/indeclform
+75428	proclitic/indeclform
+75453	unaugmented
+75462	enclitic/indeclform
+75464	indeclform
+75519	indeclform
+75556	indeclform
+75558	unaugmented/n_infix
+75561	unaugmented
+75564	indeclform
+75567	indeclform
+75583	enclitic/indeclform
+75622	enclitic/indeclform
+75629	nu_movable
+75658	unaugmented
+75667	enclitic/indeclform
+75695	proclitic/indeclform
+75703	unaugmented
+75730	proclitic/indeclform
+75733	enclitic/indeclform
+75740	proclitic/indeclform
+75750	unaugmented/poetic
+75764	enclitic/indeclform
+75780	enclitic/indeclform
+75798	proclitic/indeclform
+irreg_superl
+75804	proclitic/indeclform
+75807	geog_name
+75816	proclitic/indeclform
+75826	proclitic/indeclform
+75835	proclitic/indeclform
+75839	indeclform
+75844	unaugmented/n_infix
+75855	unaugmented/n_infix
+75858	poetic/indeclform
+75864	enclitic/indeclform
+75890	indeclform
+75893	indeclform
+75895	unaugmented/poetic
+75900	indeclform
+75909	indeclform
+75917	enclitic/indeclform
+75924	indeclform
+75927	indeclform
+75934	proclitic/indeclform
+75944	proclitic/indeclform
+75952	indeclform
+75955	unaugmented
+75958	proclitic/indeclform
+75970	indeclform
+75979	indeclform
+proclitic/indeclform
+75989	proclitic/indeclform
+75992	unaugmented
+75998	comp_only
+76001	unaugmented/pres_redupl
+76007	indeclform
+76019	comp_only
+76024	unaugmented
+76035	indeclform
+76050	proclitic/indeclform
+76058	proclitic/indeclform
+76060	unaugmented/n_infix
+76075	unaugmented/poetic
+76080	indeclform
+76082	indeclform
+76090	unaugmented
+76098	poetic
+76102	indeclform
+76113	proclitic/indeclform
+76119	proclitic/indeclform
+76121	proclitic/indeclform
+76136	enclitic/indeclform
+76139	enclitic/indeclform
+76155	unaugmented/n_infix
+76161	proclitic/indeclform
+76186	indeclform
+76191	indeclform
+76232	proclitic/indeclform
+76243	proclitic/indeclform
+76256	indeclform
+76273	indeclform
+76275	syll_augment/unaugmented
+76291	indeclform
+76307	indeclform
+indeclform
+76319	indeclform
+76323	indeclform
+76334	syll_augment/unaugmented
+76338	proclitic/indeclform
+76342	indeclform
+76346	unaugmented
+76355	unaugmented/poetic
+76368	proclitic/indeclform
+76379	proclitic/indeclform
+76384	unaugmented/poetic
+76387	unaugmented/poetic
+76393	enclitic/indeclform
+76395	indeclform
+76422	syll_augment/unaugmented
+76433	indeclform
+76440	poetic/indeclform
+76483	indeclform
+76507	proclitic/indeclform
+76539	unaugmented
+76544	unaugmented
+76548	unaugmented/poetic
+76569	indeclform
+76588	indeclform
+76597	proclitic/indeclform
+76609	indeclform
+76614	unaugmented/poetic
+indeclform
+76628	proclitic/indeclform
+76646	unaugmented/poetic
+76655	enclitic/indeclform
+76687	proclitic/indeclform
+indeclform
+76690	indeclform
+76692	proclitic/indeclform
+76696	indeclform
+76706	syll_augment/unaugmented
+76715	enclitic/indeclform
+76726	syll_augment/unaugmented
+76732	enclitic/indeclform
+76739	syll_augment/unaugmented
+76745	unaugmented
+indeclform
+76790	enclitic/indeclform
+76811	unaugmented/poetic
+proclitic/indeclform
+76814	unaugmented/n_infix
+76821	comp_only
+76827	comp_only
+76833	proclitic/indeclform
+76836	unaugmented/poetic
+76849	contr
+76881	indeclform
+76889	indeclform
+76892	indeclform
+76897	unaugmented/n_infix
+76907	indeclform
+76909	indeclform
+76940	syll_augment/unaugmented
+76951	unaugmented/n_infix
+76959	proclitic/indeclform
+76966	unaugmented
+77020	indeclform
+77027	comp_only
+77035	unaugmented
+77049	proclitic/indeclform
+77056	proclitic/indeclform
+indeclform
+77125	poetic
+77129	indeclform
+77132	syll_augment/unaugmented
+77134	causal/pres_redupl
+77140	indeclform
+77142	indeclform
+77152	unaugmented
+77162	unaugmented
+77169	enclitic/indeclform
+77178	indeclform
+77184	unaugmented
+77203	unaugmented/poetic
+indeclform
+77207	indeclform
+77219	indeclform
+77224	indeclform
+77251	enclitic/indeclform
+77253	unaugmented/n_infix
+77279	indeclform
+77283	enclitic/indeclform
+77308	indeclform
+77320	proclitic/indeclform
+77326	indeclform
+77386	enclitic/indeclform
+77392	indeclform
+77405	unaugmented
+proclitic/indeclform
+77420	unaugmented/poetic
+77423	indeclform
+77458	indeclform
+77495	unaugmented
+77517	proclitic/indeclform
+77543	proclitic/indeclform
+77560	unaugmented/poetic
+77571	proclitic/indeclform
+indeclform
+77574	indeclform
+77602	contr/unasp_preverb
+77614	syll_augment/unaugmented
+77616	unaugmented
+indeclform
+77619	unaugmented
+77621	proclitic/indeclform
+77633	unaugmented
+77671	proclitic/indeclform
+77674	indeclform
+77714	proclitic/indeclform
+77721	syll_augment/unaugmented/poetic
+77742	proclitic/indeclform
+77747	syll_augment/unaugmented
+77750	causal/pres_redupl
+77760	enclitic/indeclform
+77768	indeclform
+77780	proclitic/indeclform
+77785	proclitic/indeclform
+77793	indeclform
+77822	indeclform
+77827	indeclform
+proclitic/indeclform
+77844	unaugmented
+77856	unaugmented
+77859	proclitic/indeclform
+unaugmented
+77875	unaugmented/poetic
+77879	unaugmented/poetic
+77884	unaugmented
+77893	proclitic/indeclform
+77901	indeclform
+proclitic/indeclform
+77919	indeclform
+77923	unaugmented/poetic
+indeclform
+77929	indeclform
+77931	proclitic/indeclform
+77944	unaugmented/poetic
+77953	unaugmented
+77983	unaugmented
+77998	indeclform
+78002	indeclform
+78005	indeclform
+78010	indeclform
+78012	no_redupl
+78017	proclitic/indeclform
+78022	indeclform
+78024	indeclform
+78038	unaugmented/poetic
+78045	indeclform
+78062	syll_augment/unaugmented
+78067	indeclform
+78073	indeclform
+78097	indeclform
+78114	proclitic/indeclform
+78176	indeclform
+78208	indeclform
+78225	indeclform
+78248	unaugmented/poetic
+78258	unaugmented/poetic
+78274	comp_only
+78297	unaugmented
+78304	syll_augment/unaugmented
+indeclform
+78313	indeclform
+78315	indeclform
+78320	proclitic/indeclform
+78322	enclitic/indeclform
+78329	proclitic/indeclform
+78337	enclitic/indeclform
+78362	unaugmented
+78403	indeclform
+78421	enclitic/indeclform
+78430	indeclform
+78436	enclitic/indeclform
+78441	unaugmented
+78449	proclitic/indeclform
+78454	unaugmented
+78456	enclitic/indeclform
+78470	proclitic/indeclform
+78481	unaugmented
+78484	unaugmented/poetic
+78492	indeclform
+78500	indeclform
+78518	unaugmented
+78520	indeclform
+78547	unaugmented/poetic
+78550	unaugmented
+78600	indeclform
+78606	indeclform
+78608	proclitic/indeclform
+78615	enclitic/indeclform
+78622	proclitic/indeclform
+indeclform
+78638	unaugmented
+78677	proclitic/indeclform
+78693	indeclform
+78695	unaugmented/poetic
+78721	indeclform
+78726	unaugmented/poetic
+78730	unaugmented/poetic
+78738	enclitic/indeclform
+78760	indeclform
+78764	syll_augment/unaugmented/poetic
+78774	proclitic/indeclform
+indeclform
+78828	indeclform
+78843	indeclform
+78845	proclitic/indeclform
+78864	syll_augment/unaugmented
+78901	indeclform
+78941	proclitic/indeclform
+78947	proclitic/indeclform
+78964	unaugmented/poetic
+78979	unaugmented/pres_redupl
+78986	proclitic/indeclform
+79031	redupl
+79033	unaugmented
+79055	proclitic/indeclform
+79057	syll_augment/unaugmented
+79069	enclitic/indeclform
+79086	syll_augment/unaugmented
+79089	unaugmented
+79094	syll_augment/unaugmented
+79110	proclitic/indeclform
+79146	comp_only
+syll_augment/unaugmented
+79161	syll_augment/unaugmented
+79178	contr
+79185	short_eis
+79219	proclitic/indeclform
+indeclform
+79224	proclitic/indeclform
+79233	unaugmented
+proclitic/indeclform
+79244	unaugmented/poetic
+79246	syll_augment/unaugmented
+79280	indeclform
+79286	syll_augment/unaugmented
+79326	indeclform
+79354	proclitic/indeclform
+79360	syll_augment/unaugmented
+79373	indeclform
+79380	indeclform
+79397	syll_augment/unaugmented
+79399	unaugmented
+79403	proclitic/indeclform
+79414	unaugmented
+79432	enclitic/indeclform
+79452	unaugmented/poetic
+79485	indeclform
+79487	syll_augment/unaugmented
+79495	indeclform
+79518	syll_augment/unaugmented
+79539	enclitic/indeclform
+79546	unaugmented/poetic
+79566	raw_sonant
+79583	proclitic/indeclform
+indeclform
+79626	indeclform
+79634	unaugmented/n_infix
+79646	proclitic/indeclform
+indeclform
+79655	indeclform
+79688	comp_only
+79692	syll_augment/unaugmented
+79694	proclitic/indeclform
+79697	indeclform
+79699	unaugmented/poetic
+79713	unaugmented
+enclitic/indeclform
+79724	indeclform
+79732	enclitic/indeclform
+79751	indeclform
+79758	comp_only/unaugmented
+indeclform
+79762	indeclform
+79769	proclitic/indeclform
+79773	indeclform
+79803	indeclform
+79816	indeclform
+79870	syll_augment/unaugmented
+79873	enclitic/indeclform
+79887	proclitic/indeclform
+79915	indeclform
+79925	unaugmented/poetic
+79948	syll_augment/unaugmented
+79987	indeclform
+80004	comp_only
+80006	indeclform
+80028	unaugmented
+80039	indeclform
+80051	unaugmented/poetic
+80063	unaugmented/poetic
+enclitic/indeclform
+80083	unaugmented/poetic
+80103	indeclform
+80113	unaugmented
+80128	enclitic/indeclform
+80133	proclitic/indeclform
+indeclform
+80150	indeclform
+80157	indeclform
+80174	unaugmented/poetic
+80178	indeclform
+80203	contr
+80218	causal
+80242	indeclform
+80252	unaugmented
+80257	enclitic/indeclform
+80278	indeclform
+80283	indeclform
+80286	comp_only
+80305	proclitic/indeclform
+indeclform
+80308	unaugmented
+80311	indeclform
+80313	indeclform
+causal/pres_redupl
+80318	proclitic/indeclform
+80332	comp_only
+80347	indeclform
+80358	proclitic/indeclform
+80379	proclitic/indeclform
+80408	proclitic/indeclform
+80410	unaugmented
+80413	proclitic/indeclform
+indeclform
+80422	unaugmented/n_infix
+80431	unaugmented/poetic
+80440	indeclform
+80445	unaugmented
+80452	indeclform
+80459	proclitic/indeclform
+80478	indeclform
+80489	indeclform
+80493	indeclform
+80553	syll_augment/unaugmented
+80614	enclitic/indeclform
+80617	enclitic/indeclform
+80656	proclitic/indeclform
+80659	enclitic/indeclform
+80661	proclitic/indeclform
+indeclform
+80669	proclitic/indeclform
+indeclform
+80677	proclitic/indeclform
+80683	indeclform
+80689	unaugmented/poetic
+unaugmented
+80703	enclitic/indeclform
+80713	indeclform
+80715	unaugmented
+80719	comp_only
+80745	indeclform
+80747	syll_augment/unaugmented
+80757	unaugmented/poetic
+syll_augment/unaugmented
+80768	indeclform
+80775	proclitic/indeclform
+80799	comp_only
+80824	indeclform
+80836	proclitic/indeclform
+80844	indeclform
+80847	indeclform
+80860	indeclform
+80866	enclitic/indeclform
+80869	enclitic/indeclform
+80876	comp_only
+80886	indeclform
+80889	indeclform
+80908	indeclform
+80912	unaugmented
+80921	indeclform
+80923	enclitic/indeclform
+80925	indeclform
+80934	indeclform
+80984	indeclform
+unaugmented
+80999	contr
+81006	unaugmented/poetic
+81046	enclitic/indeclform
+81048	indeclform
+81053	indeclform
+81068	impersonal
+81086	unaugmented
+81089	indeclform
+81093	indeclform
+81105	unaugmented/poetic
+81114	unaugmented
+81158	unaugmented/poetic
+81177	contr
+81190	proclitic/indeclform
+indeclform
+81229	unaugmented/poetic
+81237	proclitic/indeclform
+81242	unaugmented
+81253	unasp_preverb
+81256	indeclform
+81260	unaugmented
+81273	impersonal
+81280	proclitic/indeclform
+81288	proclitic/indeclform
+81304	indeclform
+81323	proclitic/indeclform
+81348	unaugmented
+81359	unasp_preverb/short_eis
+81386	proclitic/indeclform
+81391	syll_augment/unaugmented
+81398	unaugmented
+81409	unaugmented
+81438	poetic
+81444	unaugmented
+81462	proclitic/indeclform
+81478	unaugmented
+81480	proclitic/indeclform
+81486	indeclform
+81504	unaugmented
+81512	proclitic/indeclform
+indeclform
+81517	unaugmented
+81523	unaugmented/poetic
+81539	enclitic/indeclform
+81558	indeclform
+81567	comp_only
+81576	indeclform
+81591	unaugmented
+81597	comp_only
+81618	proclitic/indeclform
+81627	unaugmented
+81636	proclitic/indeclform
+81646	poetic/indeclform
+indeclform
+81650	proclitic/indeclform
+81653	proclitic/indeclform
+81658	unaugmented
+81686	enclitic/indeclform
+81698	indeclform
+81707	indeclform
+81719	proclitic/indeclform
+81756	indeclform
+81770	indeclform
+81788	unaugmented
+81790	unaugmented
+81812	unaugmented
+81820	proclitic/indeclform
+81848	indeclform
+81857	unaugmented
+81859	unaugmented
+81894	unaugmented
+81906	indeclform
+81909	indeclform
+81913	indeclform
+81925	enclitic/indeclform
+81932	enclitic/indeclform
+81936	geog_name
+81979	indeclform
+81991	unaugmented
+82033	unaugmented
+82043	unaugmented
+82048	indeclform
+82060	proclitic/indeclform
+82063	syll_augment/unaugmented
+82084	indeclform
+82092	indeclform
+82106	unaugmented/poetic
+indeclform
+82131	unaugmented/poetic
+82133	unaugmented
+82137	indeclform
+82150	indeclform
+82154	proclitic/indeclform
+82161	proclitic/indeclform
+indeclform
+82169	enclitic/indeclform
+82172	indeclform
+82177	unaugmented
+82179	poetic
+82186	unaugmented
+82216	unaugmented
+82221	proclitic/indeclform
+82227	syll_augment/unaugmented
+82230	indeclform
+82239	proclitic/indeclform
+indeclform
+82248	enclitic/indeclform
+82250	indeclform
+82255	unaugmented
+82260	indeclform
+82276	unaugmented
+82306	indeclform
+82308	comp_only
+82327	proclitic/indeclform
+indeclform
+82355	indeclform
+82382	unaugmented
+82400	indeclform
+82406	indeclform
+82412	r_e_i_alpha
+82424	unaugmented
+82458	n_infix
+82477	indeclform
+82480	indeclform
+82488	indeclform
+82525	proclitic/indeclform
+82528	enclitic/indeclform
+82532	unaugmented/poetic
+82551	indeclform
+82559	unaugmented
+82561	unaugmented/poetic
+82568	enclitic/indeclform
+82570	comp_only
+82574	indeclform
+82582	comp_only
+82595	proclitic/indeclform
+82604	indeclform
+82635	unaugmented
+82645	enclitic/indeclform
+82647	enclitic/indeclform
+proclitic/indeclform
+82656	proclitic/indeclform
+82665	indeclform
+82674	proclitic/indeclform
+82677	proclitic/indeclform
+82705	indeclform
+82721	enclitic/indeclform
+82724	indeclform
+82730	indeclform
+82732	unaugmented
+82742	indeclform
+82752	indeclform
+82758	indeclform
+82786	indeclform
+82788	indeclform
+82809	indeclform
+82813	proclitic/indeclform
+82823	proclitic/indeclform
+82850	enclitic/indeclform
+82859	unaugmented/poetic
+82870	indeclform
+82874	unaugmented/poetic
+82879	unaugmented/poetic
+contr
+indeclform
+82890	indeclform
+82912	unaugmented/poetic
+82928	indeclform
+82932	enclitic/indeclform
+82937	enclitic/indeclform
+82973	syll_augment/unaugmented
+82989	indeclform
+83005	enclitic/indeclform
+83025	indeclform
+83034	unaugmented/poetic
+83042	proclitic/indeclform
+83056	unaugmented/poetic
+83059	indeclform
+83077	unaugmented/poetic
+unaugmented/poetic
+83085	proclitic/indeclform
+83102	unaugmented/poetic
+proclitic/indeclform
+83117	indeclform
+83125	proclitic/indeclform
+83133	proclitic/indeclform
+83144	proclitic/indeclform
+83147	unaugmented/poetic
+83151	indeclform
+83155	unaugmented/poetic
+83165	indeclform
+83175	indeclform
+83179	proclitic/indeclform
+83181	indeclform
+83191	proclitic/indeclform
+indeclform
+83195	proclitic/indeclform
+indeclform
+83201	proclitic/indeclform
+83213	enclitic/indeclform
+83217	proclitic/indeclform
+indeclform
+83221	unaugmented/poetic
+83231	unaugmented
+83233	indeclform
+83243	proclitic/indeclform
+indeclform
+83247	proclitic/indeclform
+83253	unaugmented/poetic
+83272	indeclform
+83276	proclitic/indeclform
+indeclform
+83280	proclitic/indeclform
+83300	indeclform
+83302	proclitic/indeclform
+83309	unaugmented/poetic
+83312	unaugmented/poetic
+83317	indeclform
+83326	unaugmented/poetic
+proclitic/indeclform
+83344	unaugmented
+unaugmented/poetic
+83349	indeclform
+83357	proclitic/indeclform
+83364	unaugmented/poetic
+83367	proclitic/indeclform
+83374	indeclform
+83402	proclitic/indeclform
+83405	indeclform
+83407	unaugmented
+83409	proclitic/indeclform
+83415	indeclform
+83429	unaugmented/poetic
+proclitic/indeclform
+83446	proclitic/indeclform
+83456	indeclform
+83459	proclitic/indeclform
+83466	unaugmented/poetic
+proclitic/indeclform
+indeclform
+83511	enclitic/indeclform
+83520	proclitic/indeclform
+83527	proclitic/indeclform
+83540	proclitic/indeclform
+83550	proclitic/indeclform
+comp_only
+83558	unaugmented
+83560	indeclform
+83573	unaugmented
+83576	unaugmented
+83593	unaugmented/poetic
+83596	enclitic/indeclform
+indeclform
+83607	unaugmented
+83614	proclitic/indeclform
+83620	proclitic/indeclform
+83628	indeclform
+83640	unaugmented/poetic
+83646	indeclform
+83657	indeclform
+83669	unaugmented/poetic
+indeclform
+83688	unaugmented/poetic
+83703	unaugmented
+proclitic/indeclform
+83711	unaugmented/poetic
+83716	indeclform
+83727	unaugmented
+83745	unaugmented
+83752	indeclform
+unaugmented
+83764	unaugmented
+83767	unaugmented
+83771	indeclform
+83785	indeclform
+83796	proclitic/indeclform
+83804	enclitic/indeclform
+83809	indeclform
+83812	enclitic/indeclform
+83819	indeclform
+83824	indeclform
+83842	proclitic/indeclform
+83855	comp_only
+indeclform
+83859	proclitic/indeclform
+83865	indeclform
+83871	unaugmented/poetic
+83886	proclitic/indeclform
+83894	indeclform
+83908	proclitic/indeclform
+83922	proclitic/indeclform
+indeclform
+83944	indeclform
+83948	proclitic/indeclform
+83963	unaugmented/poetic
+83967	proclitic/indeclform
+83984	indeclform
+83991	indeclform
+83993	indeclform
+83999	indeclform
+84003	unaugmented
+84007	indeclform
+84025	proclitic/indeclform
+indeclform
+84031	indeclform
+proclitic/indeclform
+indeclform
+84035	proclitic/indeclform
+84040	proclitic/indeclform
+indeclform
+84046	unaugmented
+proclitic/indeclform
+84051	indeclform
+84060	unaugmented/poetic
+84067	indeclform
+84069	indeclform
+84082	indeclform
+84085	unaugmented/poetic
+84090	unaugmented/n_infix
+84092	indeclform
+84098	unaugmented/poetic
+84114	poetic/indeclform
+84116	proclitic/indeclform
+84122	proclitic/indeclform
+indeclform
+84128	indeclform
+84131	unaugmented/poetic
+84143	unaugmented
+84150	enclitic/indeclform
+84158	indeclform
+84161	unaugmented/poetic
+proclitic/indeclform
+indeclform
+84174	proclitic/indeclform
+84184	unaugmented/n_infix
+84189	indeclform
+84193	indeclform
+84198	comp_only/unaugmented
+84258	indeclform
+84269	enclitic/indeclform
+84277	proclitic/indeclform
+84289	unaugmented/poetic
+84302	proclitic/indeclform
+indeclform
+84316	indeclform
+84324	indeclform
+84326	comp_only
+84338	unaugmented/poetic
+84349	unaugmented/poetic
+84370	unaugmented/poetic
+84380	proclitic/indeclform
+84390	proclitic/indeclform
+indeclform
+84405	proclitic/indeclform
+84409	unaugmented/poetic
+84416	proclitic/indeclform
+indeclform
+84433	indeclform
+84442	unaugmented
+84454	indeclform
+84471	unaugmented
+84481	unaugmented
+84487	unaugmented
+84514	indeclform
+84520	indeclform
+84527	indeclform
+84536	unaugmented
+84539	indeclform
+84551	indeclform
+84583	indeclform
+84595	unaugmented
+indeclform
+84601	unaugmented
+84604	indeclform
+84606	indeclform
+84610	enclitic/indeclform
+84613	proclitic/indeclform
+84616	indeclform
+proclitic/indeclform
+84620	proclitic/indeclform
+84623	proclitic/indeclform
+84635	proclitic/indeclform
+84662	unaugmented
+84669	proclitic/indeclform
+84680	indeclform
+84682	indeclform
+84684	indeclform
+indeclform
+84693	unaugmented
+84699	enclitic/indeclform
+84704	indeclform
+84708	indeclform
+84713	unaugmented
+84715	indeclform
+84736	indeclform
+84739	indeclform
+84744	unaugmented
+84746	indeclform
+84764	indeclform
+84766	unaugmented/poetic
+84770	unaugmented
+84773	indeclform
+84776	proclitic/indeclform
+84823	unaugmented/poetic
+84828	unaugmented
+84834	indeclform
+84860	unaugmented
+84881	indeclform
+84906	indeclform
+84917	proclitic/indeclform
+84921	unaugmented
+84927	unaugmented/poetic
+84931	unaugmented
+84933	unaugmented
+proclitic/indeclform
+84939	indeclform
+84943	indeclform
+84947	indeclform
+84951	indeclform
+84957	indeclform
+84960	unaugmented/poetic
+84962	proclitic/indeclform
+84971	indeclform
+85022	proclitic/indeclform
+indeclform
+85037	indeclform
+85049	proclitic/indeclform
+85056	unaugmented
+85059	proclitic/indeclform
+indeclform
+85069	indeclform
+85072	unaugmented
+85080	indeclform
+85109	proclitic/indeclform
+85114	comp_only
+85118	unaugmented
+85132	indeclform
+85144	proclitic/indeclform
+85153	indeclform
+85157	enclitic/indeclform
+85162	indeclform
+85165	unaugmented/poetic
+85167	indeclform
+85169	proclitic/indeclform
+85183	proclitic/indeclform
+85207	indeclform
+85219	enclitic/indeclform
+85221	unaugmented
+85230	proclitic/indeclform
+85240	proclitic/indeclform
+85270	enclitic/indeclform
+85281	enclitic/indeclform
+85290	indeclform
+85293	indeclform
+85296	indeclform
+85301	indeclform
+85303	proclitic/indeclform
+indeclform
+85308	indeclform
+85329	indeclform
+85338	enclitic/indeclform
+85341	proclitic/indeclform
+85343	indeclform
+85379	proclitic/indeclform
+85387	indeclform
+85392	unaugmented
+85457	indeclform
+85465	unaugmented
+85471	indeclform
+85473	proclitic/indeclform
+85479	indeclform
+85481	proclitic/indeclform
+indeclform
+85493	unaugmented
+indeclform
+85501	unaugmented
+85504	indeclform
+85511	indeclform
+85516	indeclform
+85528	unaugmented
+85539	unaugmented
+85550	unaugmented
+85561	indeclform
+85567	indeclform
+85570	indeclform
+85577	unaugmented
+85602	indeclform
+85617	indeclform
+85628	indeclform
+85632	indeclform
+85635	indeclform
+85643	unaugmented
+85657	indeclform
+85670	indeclform
+85680	unaugmented/poetic
+85683	proclitic/indeclform
+85686	indeclform
+85689	indeclform
+85706	indeclform
+85710	indeclform
+85726	indeclform
+85761	indeclform
+85773	indeclform
+85779	indeclform
+85784	proclitic/indeclform
+85787	indeclform
+85791	indeclform
+85796	proclitic/indeclform
+85803	indeclform
+85812	proclitic/indeclform
+85818	proclitic/indeclform
+85833	unaugmented
+85854	comp_only
+85858	indeclform
+85864	proclitic/indeclform
+85866	indeclform
+85883	indeclform
+85892	indeclform
+85894	indeclform
+85900	indeclform
+85920	indeclform
+85935	unaugmented
+indeclform
+85952	indeclform
+85996	indeclform
+86006	unaugmented
+indeclform
+86009	proclitic/indeclform
+86012	unaugmented
+86017	proclitic/indeclform
+86021	proclitic/indeclform
+86043	unaugmented
+86062	unaugmented
+indeclform
+86065	proclitic/indeclform
+86069	indeclform
+86072	indeclform
+86085	indeclform
+86088	unaugmented/poetic
+86091	indeclform
+86097	proclitic/indeclform
+86102	indeclform
+86110	proclitic/indeclform
+indeclform
+86115	indeclform
+86117	proclitic/indeclform
+86134	indeclform
+86142	indeclform
+86146	indeclform
+86151	unaugmented/poetic
+86158	indeclform
+86162	proclitic/indeclform
+86172	proclitic/indeclform
+86190	proclitic/indeclform
+86202	proclitic/indeclform
+86212	proclitic/indeclform
+86221	proclitic/indeclform
+indeclform
+86228	unaugmented
+86231	enclitic/indeclform
+86236	indeclform
+86240	enclitic/indeclform
+86244	indeclform
+86269	indeclform
+86273	unaugmented/poetic
+86279	enclitic/indeclform
+86281	proclitic/indeclform
+86292	proclitic/indeclform
+86294	unaugmented
+proclitic/indeclform
+86299	unaugmented/poetic
+86301	proclitic/indeclform
+indeclform
+86317	proclitic/indeclform
+indeclform
+86342	proclitic/indeclform
+indeclform
+86352	indeclform
+86361	proclitic/indeclform
+indeclform
+86394	unaugmented/poetic
+86399	unaugmented/poetic
+86408	unaugmented
+86412	proclitic/indeclform
+86422	indeclform
+86428	unaugmented/poetic
+86436	unaugmented/poetic
+86450	indeclform
+86462	indeclform
+86472	unaugmented/poetic
+86477	indeclform
+86482	unaugmented
+86491	indeclform
+86507	unaugmented/poetic
+86511	indeclform
+indeclform
+86523	unaugmented
+86534	proclitic/indeclform
+86586	unaugmented
+86597	unaugmented
+86642	proclitic/indeclform
+86683	unaugmented
+86689	enclitic/indeclform
+86694	indeclform
+86696	indeclform
+86699	late
+86702	unaugmented/poetic
+86718	proclitic/indeclform
+86721	unaugmented/poetic
+86736	indeclform
+86738	indeclform
+86740	indeclform
+86742	indeclform
+86744	indeclform
+86746	indeclform
+86752	unaugmented/poetic
+unaugmented
+86758	proclitic/indeclform
+86760	unaugmented
+86762	proclitic/indeclform
+86802	unaugmented/poetic
+86804	proclitic/indeclform
+86807	indeclform
+86812	proclitic/indeclform
+86821	proclitic/indeclform
+86831	unaugmented
+86857	indeclform
+86860	indeclform
+unaugmented
+86866	indeclform
+86869	indeclform
+86875	enclitic/indeclform
+86903	unaugmented/poetic
+86907	enclitic/indeclform
+86920	proclitic/indeclform
+86928	indeclform
+86935	unaugmented/poetic
+unaugmented
+indeclform
+86962	unaugmented
+86980	indeclform
+86983	indeclform
+86985	unaugmented
+86988	unaugmented/poetic
+87003	indeclform
+87020	indeclform
+87024	indeclform
+87028	unaugmented
+87030	poetic/indeclform
+87033	unaugmented
+87035	poetic/indeclform
+unaugmented
+indeclform
+87045	unaugmented
+87048	unaugmented/poetic
+87051	indeclform
+87053	indeclform
+87063	proclitic/indeclform
+87074	proclitic/indeclform
+87078	indeclform
+87087	raw_sonant
+87093	indeclform
+87104	proclitic/indeclform
+87107	indeclform
+87113	indeclform
+87119	indeclform
+87135	unaugmented
+87148	unaugmented
+87155	proclitic/indeclform
+87174	indeclform
+87186	unaugmented
+87190	proclitic/indeclform
+87192	proclitic/indeclform
+indeclform
+87196	unaugmented
+87210	proclitic/indeclform
+indeclform
+87213	indeclform
+87223	unaugmented/poetic
+87238	proclitic/indeclform
+indeclform
+87265	indeclform
+87267	proclitic/indeclform
+87269	poetic/indeclform
+87272	proclitic/indeclform
+87274	poetic/indeclform
+87281	indeclform
+87308	proclitic/indeclform
+87312	indeclform
+87320	proclitic/indeclform
+87335	indeclform
+87340	unaugmented
+87342	indeclform
+87351	unaugmented
+87356	unaugmented/poetic
+87366	unaugmented/poetic
+87376	unaugmented/poetic
+87386	indeclform
+87401	proclitic/indeclform
+87403	indeclform
+87412	proclitic/indeclform
+87425	indeclform
+87437	unaugmented
+87445	proclitic/indeclform
+indeclform
+87450	proclitic/indeclform
+87465	proclitic/indeclform
+indeclform
+87473	proclitic/indeclform
+87497	indeclform
+87528	poetic/indeclform
+87534	enclitic/indeclform
+87541	enclitic/indeclform
+87544	indeclform
+87547	enclitic/indeclform
+87552	enclitic/indeclform
+87560	proclitic/indeclform
+87562	enclitic/indeclform
+87571	indeclform
+87582	indeclform
+indeclform
+87587	indeclform
+87593	unaugmented
+87600	indeclform
+87609	indeclform
+87613	indeclform
+87616	unaugmented
+87626	unaugmented
+87699	indeclform
+87702	proclitic/indeclform
+87706	indeclform
+87708	proclitic/indeclform
+87710	indeclform
+87720	indeclform
+87730	unaugmented
+87732	unaugmented
+87751	proclitic/indeclform
+indeclform
+87757	unaugmented
+87767	indeclform
+87775	unaugmented
+87780	indeclform
+87784	enclitic/indeclform
+87813	indeclform
+87829	enclitic/indeclform
+87850	unaugmented
+indeclform
+87854	indeclform
+87880	indeclform
+87898	enclitic/indeclform
+unaugmented
+87904	unaugmented
+87910	indeclform
+87913	unaugmented
+87916	indeclform
+87925	indeclform
+87933	indeclform
+87937	enclitic/indeclform
+87941	unaugmented/n_infix
+87950	proclitic/indeclform
+87962	unaugmented
+87973	unaugmented
+indeclform
+87977	raw_sonant
+87996	unaugmented
+88009	unaugmented/poetic
+88011	indeclform
+88016	unaugmented/poetic
+88026	unaugmented/poetic
+88069	enclitic/indeclform
+88087	indeclform
+proclitic/indeclform
+88095	indeclform
+88099	indeclform
+88124	indeclform
+88126	unaugmented/poetic
+88136	unaugmented/poetic
+88143	unaugmented
+88150	indeclform
+88153	indeclform
+88156	unaugmented/poetic
+88160	enclitic/indeclform
+88162	indeclform
+88175	indeclform
+88202	unaugmented/poetic
+proclitic/indeclform
+88205	indeclform
+88216	unaugmented
+88218	indeclform
+88223	indeclform
+88239	indeclform
+88242	indeclform
+unaugmented
+88256	unaugmented/poetic
+88258	indeclform
+88262	unaugmented
+88264	indeclform
+88274	indeclform
+88277	unaugmented
+unaugmented
+88291	unaugmented/poetic
+88297	unaugmented
+88307	indeclform
+88309	proclitic/indeclform
+indeclform
+88317	unaugmented
+88323	proclitic/indeclform
+88331	proclitic/indeclform
+88337	indeclform
+88347	enclitic/indeclform
+88352	proclitic/indeclform
+88368	indeclform
+88379	proclitic/indeclform
+88385	proclitic/indeclform
+88391	proclitic/indeclform
+88395	unaugmented/pres_redupl
+proclitic/indeclform
+88400	proclitic/indeclform
+88404	proclitic/indeclform
+88406	indeclform
+88413	indeclform
+88428	indeclform
+88431	indeclform
+88470	indeclform
+88473	unaugmented
+88485	unaugmented
+88489	comp_only
+88505	unaugmented
+88518	unaugmented
+88544	unaugmented
+unaugmented
+unaugmented
+proclitic/indeclform
+indeclform
+88552	indeclform
+unaugmented
+88564	unaugmented/poetic
+88569	unaugmented/poetic
+88579	unaugmented/poetic
+88582	enclitic/indeclform
+88588	enclitic/indeclform
+88594	indeclform
+88597	unaugmented
+indeclform
+88614	unaugmented/poetic
+88633	frequentat
+unaugmented/poetic
+88640	unaugmented
+indeclform
+88652	unaugmented
+unaugmented
+88666	unaugmented/poetic
+88675	unaugmented
+indeclform
+88681	indeclform
+88686	indeclform
+88691	indeclform
+88693	unaugmented
+88695	unaugmented
+88720	comp_only
+88726	proclitic/indeclform
+indeclform
+88731	proclitic/indeclform
+indeclform
+88737	proclitic/indeclform
+88739	indeclform
+88741	indeclform
+88749	indeclform
+88767	indeclform
+88769	indeclform
+88772	indeclform
+88775	indeclform
+88781	indeclform
+88784	unaugmented
+88787	indeclform
+88791	proclitic/indeclform
+proclitic/indeclform
+88808	unaugmented
+88819	unaugmented
+88830	comp_only
+88864	proclitic/indeclform
+88869	indeclform
+88873	indeclform
+88893	indeclform
+88896	proclitic/indeclform
+indeclform
+88914	indeclform
+88925	indeclform
+88940	indeclform
+88946	indeclform
+88979	indeclform
+88983	unaugmented
+88990	indeclform
+88993	unaugmented/poetic
+89006	indeclform
+89009	indeclform
+89011	indeclform
+89019	indeclform
+89025	unaugmented
+89033	indeclform
+89035	indeclform
+89037	unaugmented
+89040	proclitic/indeclform
+89045	rare
+89050	indeclform
+89053	rare
+89056	rare
+89068	unaugmented
+89070	indeclform
+89076	indeclform
+89088	indeclform
+89091	unaugmented/poetic
+89095	unaugmented
+89101	proclitic/indeclform
+89106	proclitic/indeclform
+89109	indeclform
+89112	indeclform
+89118	indeclform
+89120	indeclform
+89125	indeclform
+89134	unaugmented
+89138	unaugmented/poetic
+89142	unaugmented
+89144	indeclform
+89146	indeclform
+89159	proclitic/indeclform
+89172	comp_only
+89174	unaugmented/poetic
+89180	proclitic/indeclform
+89187	late
+89204	enclitic/indeclform
+89206	indeclform
+89217	indeclform
+89232	unaugmented
+89235	enclitic/indeclform
+89240	unaugmented
+89273	indeclform
+89277	proclitic/indeclform
+89284	proclitic/indeclform
+89309	unaugmented/poetic
+89318	unaugmented/poetic
+89326	indeclform
+89340	proclitic/indeclform
+89343	indeclform
+89346	unaugmented/poetic
+89358	unaugmented
+89360	indeclform
+89368	enclitic/indeclform
+89375	indeclform
+89399	proclitic/indeclform
+indeclform
+89406	proclitic/indeclform
+89409	proclitic/indeclform
+89439	indeclform
+89442	proclitic/indeclform
+89453	unaugmented/poetic
+89462	indeclform
+89466	unaugmented/poetic
+89468	unaugmented/poetic
+89471	indeclform
+89477	proclitic/indeclform
+89484	proclitic/indeclform
+89487	indeclform
+89493	unaugmented
+89501	unaugmented/poetic
+89508	proclitic/indeclform
+89513	proclitic/indeclform
+89528	unaugmented/poetic
+89545	unaugmented
+89555	proclitic/indeclform
+89562	indeclform
+89573	proclitic/indeclform
+89587	proclitic/indeclform
+poetic/indeclform
+89623	indeclform
+89631	proclitic/indeclform
+89645	indeclform
+89649	proclitic/indeclform
+89668	unaugmented
+89674	proclitic/indeclform
+89697	proclitic/indeclform
+89701	unaugmented/poetic
+89710	proclitic/indeclform
+89714	indeclform
+89717	indeclform
+89725	proclitic/indeclform
+89732	unaugmented/poetic
+89734	indeclform
+89746	indeclform
+89756	proclitic/indeclform
+89761	proclitic/indeclform
+89769	proclitic/indeclform
+89771	poetic/indeclform
+89782	unaugmented/poetic
+89791	proclitic/indeclform
+89808	unaugmented
+89853	proclitic/indeclform
+89856	proclitic/indeclform
+89859	unaugmented/poetic
+89861	proclitic/indeclform
+89868	proclitic/indeclform
+89875	proclitic/indeclform
+89886	proclitic/indeclform
+89905	proclitic/indeclform
+89913	proclitic/indeclform
+89922	proclitic/indeclform
+89928	proclitic/indeclform
+89935	unaugmented/poetic
+89966	proclitic/indeclform
+89985	indeclform
+89998	enclitic/indeclform
+90001	indeclform
+90007	unaugmented
+90019	unaugmented
+90022	indeclform
+90030	indeclform
+90058	proclitic/indeclform
+90060	indeclform
+90080	enclitic/indeclform
+90091	proclitic/indeclform
+90100	unaugmented/poetic
+90114	indeclform
+90121	unaugmented/poetic
+90142	unaugmented
+90145	unaugmented/poetic
+90151	indeclform
+90161	indeclform
+unaugmented
+90176	unaugmented/poetic
+90184	unaugmented/poetic
+90187	proclitic/indeclform
+90190	proclitic/indeclform
+90206	proclitic/indeclform
+90213	indeclform
+90217	unaugmented/poetic
+90225	indeclform
+90234	unaugmented/poetic
+90237	indeclform
+proclitic/indeclform
+90242	proclitic/indeclform
+90245	proclitic/indeclform
+90247	proclitic/indeclform
+90255	unaugmented/poetic
+90259	proclitic/indeclform
+indeclform
+90265	proclitic/indeclform
+90283	proclitic/indeclform
+90295	indeclform
+90327	proclitic/indeclform
+indeclform
+90330	indeclform
+90333	proclitic/indeclform
+indeclform
+90338	proclitic/indeclform
+90354	proclitic/indeclform
+indeclform
+90385	indeclform
+90419	unaugmented
+90421	indeclform
+90430	unaugmented
+90433	proclitic/indeclform
+90448	unaugmented
+90457	indeclform
+90459	unaugmented/poetic
+90493	proclitic/indeclform
+90497	unaugmented/poetic
+90547	unaugmented/poetic
+90550	unaugmented/poetic
+90556	unaugmented/poetic
+90565	unaugmented/poetic
+90587	unaugmented
+indeclform
+90600	indeclform
+90609	indeclform
+90612	indeclform
+90617	indeclform
+90622	indeclform
+90626	indeclform
+90632	indeclform
+90634	comp_only
+90636	unaugmented/poetic
+90642	proclitic/indeclform
+90648	indeclform
+90650	unaugmented/poetic
+90662	proclitic/indeclform
+90675	indeclform
+90678	indeclform
+90680	unaugmented/poetic
+90682	unaugmented/poetic
+90685	unaugmented
+90688	proclitic/indeclform
+indeclform
+90698	proclitic/indeclform
+90701	proclitic/indeclform
+90704	proclitic/indeclform
+90719	proclitic/indeclform
+90724	proclitic/indeclform
+90730	indeclform
+90735	proclitic/indeclform
+90739	proclitic/indeclform
+90741	unaugmented/poetic
+90745	proclitic/indeclform
+90762	unaugmented
+90764	unaugmented/poetic
+90766	proclitic/indeclform
+90792	poetic/indeclform
+90798	unaugmented
+90801	indeclform
+90822	indeclform
+90836	indeclform
+90839	unaugmented/poetic
+90844	indeclform
+90854	proclitic/indeclform
+90858	indeclform
+90860	unaugmented/poetic
+90868	unaugmented/poetic
+90877	unaugmented
+90883	unaugmented/poetic
+90886	indeclform
+90889	unaugmented/poetic
+90891	indeclform
+indeclform
+90896	proclitic/indeclform
+90902	proclitic/indeclform
+90913	indeclform
+90917	unaugmented/poetic
+90943	unaugmented
+90946	pres_redupl
+90950	unaugmented
+90958	indeclform
+proclitic/indeclform
+90962	proclitic/indeclform
+90964	proclitic/indeclform
+90966	proclitic/indeclform
+90987	proclitic/indeclform
+indeclform
+90998	unaugmented
+91028	proclitic/indeclform
+91036	unaugmented
+91071	unaugmented/poetic
+91075	unaugmented/poetic
+unaugmented/poetic
+unaugmented/poetic
+91084	unaugmented/poetic
+91088	proclitic/indeclform
+91095	unaugmented
+91099	enclitic/indeclform
+unaugmented
+91117	unaugmented
+91124	unaugmented
+91133	indeclform
+91138	proclitic/indeclform
+91171	proclitic/indeclform
+91178	unaugmented/poetic
+91184	unaugmented/poetic
+proclitic/indeclform
+indeclform
+91193	unaugmented/poetic
+91203	unaugmented/poetic
+91217	proclitic/indeclform
+indeclform
+proclitic/indeclform
+indeclform
+91228	indeclform
+91236	indeclform
+91245	proclitic/indeclform
+91263	proclitic/indeclform
+91292	unaugmented/poetic
+91297	proclitic/indeclform
+91303	unaugmented/poetic
+91307	proclitic/indeclform
+91323	indeclform
+91334	unaugmented
+91337	proclitic/indeclform
+91353	poetic/indeclform
+91360	indeclform
+91363	unaugmented
+91378	unaugmented/poetic
+91390	proclitic/indeclform
+indeclform
+91396	indeclform
+91424	proclitic/indeclform
+91442	indeclform
+91453	proclitic/indeclform
+91458	indeclform
+91471	proclitic/indeclform
+91508	unaugmented
+proclitic/indeclform
+91524	proclitic/indeclform
+91534	proclitic/indeclform
+91540	proclitic/indeclform
+91560	indeclform
+91569	proclitic/indeclform
+91575	unaugmented
+91578	proclitic/indeclform
+91583	proclitic/indeclform
+91587	proclitic/indeclform
+91595	unaugmented/n_infix
+91612	unaugmented
+91617	proclitic/indeclform
+91619	indeclform
+91622	unaugmented/poetic
+91624	proclitic/indeclform
+91628	proclitic/indeclform
+91633	indeclform
+proclitic/indeclform
+91641	proclitic/indeclform
+indeclform
+91649	proclitic/indeclform
+91654	indeclform
+91675	unaugmented
+91680	indeclform
+91684	indeclform
+91688	proclitic/indeclform
+91694	proclitic/indeclform
+indeclform
+91716	indeclform
+91726	proclitic/indeclform
+91750	indeclform
+unaugmented
+91766	proclitic/indeclform
+91770	proclitic/indeclform
+91776	proclitic/indeclform
+91782	indeclform
+proclitic/indeclform
+91796	indeclform
+91801	indeclform
+91805	indeclform
+91813	indeclform
+91822	indeclform
+91824	indeclform
+91826	indeclform
+91828	indeclform
+91830	indeclform
+91832	indeclform
+91844	indeclform
+91876	indeclform
+91880	enclitic/indeclform
+91887	proclitic/indeclform
+indeclform
+91911	proclitic/indeclform
+91915	unaugmented
+91918	indeclform
+91922	proclitic/poetic/indeclform
+proclitic/indeclform
+indeclform
+91930	indeclform
+91935	unaugmented
+91943	comp_only
+91949	indeclform
+91966	unaugmented
+91974	indeclform
+91979	unaugmented/poetic
+91984	unaugmented
+92006	unaugmented/poetic
+92010	unaugmented/n_infix
+indeclform
+unaugmented
+92014	unaugmented
+92016	unaugmented
+92018	proclitic/indeclform
+indeclform
+92026	proclitic/indeclform
+indeclform
+92030	unaugmented/poetic
+92048	indeclform
+92053	indeclform
+92071	unaugmented
+indeclform
+92077	indeclform
+92096	indeclform
+92104	indeclform
+92108	unaugmented
+92113	indeclform
+92127	enclitic/indeclform
+92135	indeclform
+92161	indeclform
+92170	proclitic/indeclform
+indeclform
+92175	indeclform
+92178	unaugmented/poetic
+92190	proclitic/indeclform
+indeclform
+92228	indeclform
+92230	indeclform
+92232	indeclform
+92239	unaugmented
+92252	unaugmented
+indeclform
+92256	unaugmented
+92260	poetic/indeclform
+92262	unaugmented/poetic
+92274	indeclform
+92292	unaugmented
+92298	proclitic/indeclform
+92301	unaugmented
+92307	unaugmented/poetic
+92325	proclitic/indeclform
+92336	indeclform
+92344	unaugmented
+92358	indeclform
+indeclform
+92380	unasp_preverb
+92395	unasp_preverb
+92412	proclitic/indeclform
+92417	indeclform
+92419	indeclform
+92421	proclitic/indeclform
+indeclform
+92425	indeclform
+indeclform
+92445	indeclform
+indeclform
+92448	proclitic/indeclform
+92451	proclitic/indeclform
+92466	indeclform
+92477	proclitic/indeclform
+92482	proclitic/indeclform
+92490	proclitic/indeclform
+92493	indeclform
+92500	proclitic/indeclform
+92506	indeclform
+92511	indeclform
+92515	unaugmented
+92518	unaugmented/poetic
+92520	proclitic/indeclform
+92525	proclitic/indeclform
+92543	proclitic/indeclform
+92564	proclitic/indeclform
+92568	proclitic/indeclform
+92577	unaugmented
+92584	proclitic/indeclform
+92625	indeclform
+92634	enclitic/indeclform
+92652	enclitic/indeclform
+92655	proclitic/indeclform
+92660	enclitic/indeclform
+92662	proclitic/indeclform
+92666	enclitic/indeclform
+92668	proclitic/indeclform
+92672	enclitic/indeclform
+92674	proclitic/indeclform
+92678	enclitic/indeclform
+92682	proclitic/indeclform
+92700	indeclform
+92703	enclitic/indeclform
+92705	indeclform
+92711	indeclform
+92714	enclitic/indeclform
+92721	indeclform
+92723	indeclform
+92726	indeclform
+92729	indeclform
+92736	indeclform
+92739	indeclform
+92741	indeclform
+92745	indeclform
+92748	enclitic/indeclform
+92750	indeclform
+92763	indeclform
+unaugmented/poetic
+unaugmented
+92771	indeclform
+92780	unaugmented
+92788	unaugmented
+92799	proclitic/indeclform
+92817	proclitic/indeclform
+92824	unaugmented
+92833	unaugmented
+92862	proclitic/indeclform
+92878	unaugmented/poetic
+92889	indeclform
+92892	indeclform
+92926	proclitic/indeclform
+92942	proclitic/indeclform
+92955	indeclform
+92961	indeclform
+indeclform
+92974	indeclform
+indeclform
+92983	proclitic/indeclform
+92985	indeclform
+92987	unaugmented/n_infix
+92995	proclitic/indeclform
+92999	indeclform
+93009	causal
+indeclform
+93024	enclitic/indeclform
+indeclform
+93041	proclitic/indeclform
+93045	indeclform
+93048	unaugmented
+93053	indeclform
+93060	proclitic/indeclform
+93104	unaugmented
+93123	proclitic/indeclform
+93130	unaugmented
+93132	indeclform
+93134	indeclform
+93142	proclitic/indeclform
+93144	indeclform
+93166	proclitic/indeclform
+93168	enclitic/indeclform
+93172	enclitic/indeclform
+93178	indeclform
+93202	indeclform
+93219	indeclform
+93226	proclitic/indeclform
+93228	indeclform
+93240	indeclform
+93242	indeclform
+93252	unaugmented
+93267	indeclform
+indeclform
+93270	r_e_i_alpha
+93275	indeclform
+93293	unaugmented
+93298	indeclform
+93301	indeclform
+93308	enclitic/indeclform
+indeclform
+93312	indeclform
+93317	enclitic/indeclform
+indeclform
+93321	indeclform
+93331	unaugmented/poetic
+93350	proclitic/indeclform
+93357	indeclform
+93404	unaugmented/poetic
+93412	proclitic/indeclform
+indeclform
+93426	unaugmented
+93431	proclitic/indeclform
+93435	unaugmented
+93439	proclitic/indeclform
+93451	unaugmented
+93454	proclitic/indeclform
+93459	unaugmented/poetic
+93474	unaugmented
+93482	unaugmented
+93488	unaugmented/poetic
+93496	enclitic/indeclform
+proclitic/indeclform
+93532	proclitic/indeclform
+93537	proclitic/indeclform
+93541	unaugmented
+93549	enclitic/indeclform
+93562	enclitic/indeclform
+93582	proclitic/indeclform
+93586	proclitic/indeclform
+93601	unasp_preverb
+93609	indeclform
+93617	proclitic/indeclform
+93626	proclitic/indeclform
+93648	unaugmented/n_infix
+93664	unaugmented/n_infix
+93668	unaugmented
+93678	unaugmented/n_infix
+93689	unaugmented/n_infix
+93709	indeclform
+unaugmented/poetic
+93713	unaugmented
+93740	unaugmented
+93743	indeclform
+93758	proclitic/indeclform
+93794	enclitic/indeclform
+93797	enclitic/indeclform
+93803	unaugmented/poetic
+93811	enclitic/indeclform
+93826	indeclform
+93833	indeclform
+poetic
+93839	poetic
+93864	indeclform
+unaugmented
+93888	unaugmented
+93892	indeclform/late
+93894	proclitic/indeclform
+93906	indeclform
+93917	comp_only
+93924	indeclform
+93934	indeclform
+93954	unaugmented
+93961	indeclform
+93966	unaugmented/poetic
+93975	indeclform
+93989	unaugmented/poetic
+unaugmented
+94001	unaugmented/poetic
+94012	unaugmented
+94034	indeclform
+94045	indeclform
+94064	indeclform
+94073	indeclform
+94077	indeclform
+comp_only
+94107	indeclform
+r_e_i_alpha
+94114	unaugmented
+94120	unaugmented
+unaugmented/poetic
+94123	indeclform
+94126	unaugmented
+94135	unaugmented
+94147	unaugmented
+94154	unaugmented
+indeclform
+94174	proclitic/indeclform
+94178	indeclform
+94190	indeclform
+94195	unaugmented/poetic
+proclitic/indeclform
+indeclform
+94200	unaugmented
+94204	indeclform
+94208	indeclform
+94225	unaugmented
+94229	indeclform
+unaugmented
+94250	unaugmented/poetic
+94261	unaugmented
+94271	proclitic/indeclform
+94275	proclitic/indeclform
+indeclform
+94286	proclitic/indeclform
+indeclform
+94291	enclitic/indeclform
+94295	proclitic/indeclform
+indeclform
+94314	proclitic/indeclform
+indeclform
+94334	indeclform
+94338	unaugmented/poetic
+94341	unaugmented
+94346	syll_augment/unaugmented
+indeclform
+unaugmented
+94350	proclitic/indeclform
+94363	indeclform
+94368	proclitic/indeclform
+94379	syll_augment/unaugmented
+94389	unaugmented
+94405	indeclform
+94409	proclitic/indeclform
+indeclform
+94414	unaugmented
+94439	indeclform
+94443	poetic/indeclform
+94447	indeclform
+94453	a_priv
+94471	unaugmented/poetic
+94487	unaugmented
+94494	proclitic/indeclform
+indeclform
+94508	poetic/indeclform
+94519	indeclform
+94534	proclitic/indeclform
+94542	indeclform
+94545	proclitic/indeclform
+poetic/indeclform
+94562	indeclform
+94564	indeclform
+94566	indeclform
+94568	proclitic/indeclform
+poetic/indeclform
+94574	indeclform
+94577	proclitic/indeclform
+94579	unaugmented/poetic
+94592	proclitic/indeclform
+94621	indeclform
+94623	proclitic/indeclform
+94628	indeclform
+94634	unaugmented
+94654	proclitic/indeclform
+indeclform
+94662	proclitic/indeclform
+indeclform
+94675	comp_only
+94711	indeclform
+94726	proclitic/indeclform
+94756	unaugmented
+94807	indeclform
+94813	indeclform
+94820	indeclform
+94825	proclitic/indeclform
+indeclform
+94833	indeclform
+94860	indeclform
+94862	indeclform
+94870	unaugmented
+94873	indeclform
+94883	indeclform
+unaugmented
+94890	unaugmented
+94894	indeclform
+94900	indeclform
+94907	unaugmented
+94913	indeclform
+94917	unaugmented
+94922	proclitic/indeclform
+indeclform
+94925	unaugmented
+94931	indeclform
+94940	indeclform
+94947	indeclform
+94964	proclitic/indeclform
+95008	indeclform
+95010	indeclform
+95017	indeclform
+95035	indeclform
+95037	unaugmented
+95044	indeclform
+95048	indeclform
+95054	indeclform
+95068	unaugmented
+95070	indeclform
+95075	unaugmented
+95087	indeclform
+95091	indeclform
+95095	indeclform
+95105	indeclform
+95130	indeclform
+95151	comp_only/unaugmented
+95156	unaugmented
+95165	proclitic/indeclform
+95168	proclitic/indeclform
+95171	proclitic/indeclform
+95177	indeclform
+95185	proclitic/indeclform
+95208	indeclform
+95214	indeclform
+95221	indeclform
+95234	unaugmented
+95277	indeclform
+95286	indeclform
+95304	indeclform
+unaugmented
+indeclform
+proclitic/indeclform
+95309	indeclform
+proclitic/indeclform
+95312	indeclform
+proclitic/indeclform
+95315	indeclform
+95317	indeclform
+indeclform
+95332	enclitic/indeclform
+95336	indeclform
+95361	enclitic/indeclform
+95365	unaugmented
+95376	proclitic/indeclform
+95390	indeclform
+95396	proclitic/indeclform
+95411	unaugmented
+95439	indeclform
+95444	indeclform
+95446	unaugmented/poetic
+indeclform
+95449	unaugmented/poetic
+95452	indeclform
+95464	enclitic/indeclform
+95488	indeclform
+95495	unaugmented
+proclitic/indeclform
+95501	indeclform
+95509	indeclform
+95512	proclitic/indeclform
+95520	unaugmented
+95529	proclitic/indeclform
+indeclform
+95534	proclitic/indeclform
+95537	proclitic/indeclform
+95540	unaugmented
+indeclform
+95560	unaugmented
+95563	indeclform
+95569	unaugmented
+95575	indeclform
+95577	unaugmented/poetic
+95588	indeclform
+95602	indeclform
+95610	indeclform
+95613	unaugmented
+95623	indeclform
+95630	proclitic/indeclform
+indeclform
+95660	indeclform
+95665	indeclform
+95676	proclitic/indeclform
+95682	indeclform
+95687	indeclform
+95691	enclitic/indeclform
+95725	unaugmented
+95727	proclitic/indeclform
+proclitic/indeclform
+indeclform
+95736	proclitic/indeclform
+95745	unaugmented
+95757	proclitic/indeclform
+95768	proclitic/indeclform
+95770	indeclform
+95776	unaugmented/poetic
+95778	indeclform
+95788	indeclform
+95791	indeclform
+95793	indeclform
+95824	indeclform
+95827	unaugmented/poetic
+95830	indeclform
+95834	proclitic/indeclform
+95839	indeclform
+95845	indeclform
+95855	indeclform
+proclitic/indeclform
+95893	contr/unasp_preverb
+95899	enclitic/indeclform
+95904	unaugmented/n_infix
+95918	indeclform
+95940	unaugmented/poetic
+95943	unaugmented/poetic
+95948	indeclform
+95951	indeclform
+95957	unaugmented
+95965	unaugmented
+indeclform
+95969	unaugmented/poetic
+95990	enclitic/indeclform
+95992	proclitic/indeclform
+indeclform
+unaugmented/n_infix
+96015	indeclform
+96021	indeclform
+96029	unaugmented/poetic
+96034	unaugmented/poetic
+96043	indeclform
+96061	indeclform
+96066	proclitic/indeclform
+96070	indeclform
+96072	enclitic/indeclform
+96074	proclitic/indeclform
+96078	proclitic/indeclform
+96082	proclitic/indeclform
+96112	proclitic/indeclform
+indeclform
+96119	proclitic/indeclform
+indeclform
+96126	proclitic/indeclform
+indeclform
+96133	enclitic/indeclform
+96136	proclitic/indeclform
+96147	indeclform
+96153	indeclform
+96156	indeclform
+96165	indeclform
+96198	indeclform
+96204	indeclform
+96212	indeclform
+96215	indeclform
+96222	proclitic/indeclform
+96227	enclitic/indeclform
+96246	indeclform
+96251	unaugmented/poetic
+96258	proclitic/indeclform
+96261	indeclform
+96268	proclitic/indeclform
+96285	unaugmented
+96295	unaugmented
+96298	unaugmented/poetic
+unaugmented/n_infix
+96303	indeclform
+96305	unaugmented
+96308	enclitic/indeclform
+96310	enclitic/indeclform
+96319	unaugmented
+96327	unaugmented
+96333	unaugmented
+unaugmented
+96340	indeclform
+96347	pres_redupl
+96359	indeclform
+96361	indeclform
+96364	unaugmented
+unaugmented/poetic
+96368	unaugmented/poetic
+96372	unaugmented/poetic
+96376	unaugmented/poetic
+96385	unaugmented
+96388	indeclform
+96391	unaugmented
+96394	indeclform
+96397	unaugmented/poetic
+unaugmented
+unaugmented
+96401	unaugmented/poetic
+unaugmented
+96405	unaugmented/poetic
+unaugmented
+96412	proclitic/indeclform
+96416	indeclform
+96421	proclitic/indeclform
+96424	proclitic/indeclform
+96427	proclitic/indeclform
+96430	proclitic/indeclform
+96433	proclitic/indeclform
+96436	proclitic/indeclform
+96460	unaugmented
+unaugmented
+96467	unaugmented
+96473	unaugmented
+96495	enclitic/indeclform
+96503	enclitic/indeclform
+96527	unaugmented/poetic
+96532	indeclform
+96539	indeclform
+96547	proclitic/indeclform
+96549	proclitic/indeclform
+96552	proclitic/indeclform
+96559	enclitic/indeclform
+96618	indeclform
+96620	indeclform
+96627	indeclform
+96631	indeclform
+96633	indeclform
+96650	proclitic/indeclform
+indeclform
+96664	proclitic/indeclform
+96713	unaugmented
+96743	unaugmented
+96745	indeclform
+96752	indeclform
+96760	proclitic/indeclform
+96766	indeclform
+96776	proclitic/indeclform
+96787	unaugmented
+96806	proclitic/indeclform
+96812	comp_only
+96816	proclitic/indeclform
+96855	unaugmented
+96857	proclitic/indeclform
+96860	unaugmented
+96864	proclitic/indeclform
+96895	indeclform
+comp_only
+96935	proclitic/indeclform
+96949	enclitic/indeclform
+96954	proclitic/indeclform
+96973	indeclform
+96980	indeclform
+96986	proclitic/indeclform
+96995	unaugmented/poetic
+97003	unaugmented/poetic
+97006	proclitic/indeclform
+97014	proclitic/indeclform
+97019	indeclform
+97023	unaugmented/poetic
+97062	proclitic/indeclform
+97069	unaugmented
+97073	unaugmented/poetic
+97077	indeclform
+97089	indeclform
+97102	unaugmented
+97109	proclitic/indeclform
+97119	indeclform
+97127	proclitic/indeclform
+97148	proclitic/indeclform
+97163	unaugmented
+97165	proclitic/indeclform
+97180	indeclform
+97182	indeclform
+97185	unaugmented
+97221	indeclform
+97228	unaugmented/poetic
+97233	proclitic/indeclform
+97238	unaugmented/poetic
+97240	proclitic/indeclform
+97244	proclitic/indeclform
+97246	unaugmented/poetic
+97248	proclitic/indeclform
+indeclform
+97259	indeclform
+97261	indeclform
+indeclform
+97264	indeclform
+97287	proclitic/indeclform
+97331	indeclform
+97335	indeclform
+indeclform
+97370	unaugmented/poetic
+97376	proclitic/indeclform
+indeclform
+97382	unaugmented/poetic
+97392	unaugmented
+97394	proclitic/indeclform
+97400	unaugmented/poetic
+proclitic/indeclform
+97411	indeclform
+97422	indeclform
+97439	proclitic/indeclform
+97452	unaugmented
+97466	unaugmented
+97476	unaugmented
+97483	proclitic/indeclform
+97503	unaugmented/poetic
+97523	indeclform
+97535	unaugmented
+97537	indeclform
+97544	unaugmented
+97561	unaugmented
+97569	unaugmented
+indeclform
+97572	indeclform
+97575	indeclform
+97587	enclitic/indeclform
+97631	proclitic/indeclform
+97643	indeclform
+97653	unaugmented/poetic
+97660	proclitic/indeclform
+97665	indeclform
+97668	indeclform
+97676	unaugmented
+97682	indeclform
+97686	indeclform
+97690	proclitic/indeclform
+indeclform
+97702	proclitic/indeclform
+97709	indeclform
+97711	proclitic/indeclform
+97715	proclitic/indeclform
+97740	proclitic/indeclform
+enclitic/indeclform
+97747	unaugmented/poetic
+97749	proclitic/indeclform
+97753	proclitic/indeclform
+97755	unaugmented/poetic
+97757	unaugmented/poetic
+proclitic/indeclform
+97765	indeclform
+97767	unaugmented
+indeclform
+unaugmented/n_infix
+97774	indeclform
+97777	indeclform
+97783	proclitic/indeclform
+97804	unaugmented
+97806	unaugmented/poetic
+97809	proclitic/indeclform
+97813	proclitic/indeclform
+97835	proclitic/indeclform
+97839	indeclform
+97844	unaugmented/poetic
+97854	unaugmented
+97866	indeclform
+97870	proclitic/indeclform
+97875	proclitic/indeclform
+97880	redupl
+97892	comp_only
+97896	enclitic/indeclform
+97899	indeclform
+97904	proclitic/indeclform
+97908	indeclform
+97912	unaugmented
+97916	indeclform
+97927	proclitic/indeclform
+97929	indeclform
+97944	unaugmented
+proclitic/indeclform
+97967	redupl
+97976	unaugmented
+97978	indeclform
+97991	comp_only
+97999	proclitic/indeclform
+98006	poetic/indeclform
+98030	indeclform
+98066	comp_only/unaugmented
+unaugmented
+98069	indeclform
+98075	proclitic/indeclform
+98082	unaugmented/poetic
+unaugmented
+98091	indeclform
+98094	comp_only
+98096	unaugmented/poetic
+98103	unaugmented/poetic
+98105	proclitic/indeclform
+98110	proclitic/indeclform
+98118	indeclform
+98121	comp_only
+98138	unaugmented/poetic
+98143	unaugmented
+98149	unaugmented
+98159	unaugmented
+98164	proclitic/indeclform
+98175	unaugmented/poetic
+proclitic/indeclform
+98184	proclitic/indeclform
+98188	indeclform
+98194	unaugmented/poetic
+98199	proclitic/indeclform
+98222	proclitic/indeclform
+indeclform
+98228	indeclform
+98232	proclitic/indeclform
+indeclform
+98240	enclitic/indeclform
+98249	indeclform
+98254	proclitic/indeclform
+98262	proclitic/indeclform
+indeclform
+98265	indeclform
+98268	proclitic/indeclform
+indeclform
+98302	causal
+98304	indeclform
+indeclform
+98311	indeclform
+98324	unaugmented/poetic
+98327	comp_only/unaugmented
+98338	indeclform
+98358	indeclform
+98362	indeclform
+98364	unaugmented
+indeclform
+98368	indeclform
+98372	indeclform
+98381	indeclform
+98390	unaugmented/poetic
+98395	proclitic/indeclform
+98400	proclitic/indeclform
+98420	enclitic/indeclform
+98422	proclitic/indeclform
+indeclform
+98451	indeclform
+98463	proclitic/indeclform
+indeclform
+98466	comp_only/unaugmented
+98473	unaugmented
+98482	comp_only
+98487	comp_only
+98515	indeclform
+98520	indeclform
+98540	proclitic/indeclform
+98549	indeclform
+unaugmented
+98553	indeclform
+98561	proclitic/indeclform
+98566	proclitic/indeclform
+98574	indeclform
+indeclform
+98589	indeclform
+enclitic/indeclform
+98598	enclitic/indeclform
+98603	unaugmented
+indeclform
+98625	unaugmented
+98632	proclitic/indeclform
+98636	indeclform
+98642	indeclform
+98647	unaugmented/poetic
+98656	indeclform
+98660	unaugmented
+proclitic/indeclform
+98665	proclitic/indeclform
+98673	indeclform
+98678	proclitic/indeclform
+indeclform
+98683	unaugmented
+98688	proclitic/indeclform
+98690	unaugmented/poetic
+98694	unaugmented
+98697	unaugmented
+indeclform
+98712	unaugmented/poetic
+proclitic/indeclform
+98718	unaugmented
+98725	unaugmented/poetic
+98735	proclitic/indeclform
+98748	indeclform
+proclitic/indeclform
+98752	unaugmented
+98756	indeclform
+98759	proclitic/indeclform
+98763	proclitic/indeclform
+unaugmented/poetic
+98766	proclitic/indeclform
+98769	proclitic/indeclform
+98771	proclitic/indeclform
+98773	proclitic/indeclform
+98775	proclitic/indeclform
+98777	proclitic/indeclform
+98779	proclitic/indeclform
+98781	proclitic/indeclform
+98783	proclitic/indeclform
+98785	proclitic/indeclform
+98787	proclitic/indeclform
+98789	proclitic/indeclform
+98791	proclitic/indeclform
+98793	proclitic/indeclform
+98795	proclitic/indeclform
+98798	proclitic/indeclform
+98801	proclitic/indeclform
+98804	proclitic/indeclform
+98806	unaugmented/poetic
+98824	proclitic/indeclform
+98828	proclitic/indeclform
+98832	proclitic/indeclform
+98837	proclitic/indeclform
+98842	proclitic/indeclform
+98847	proclitic/indeclform
+98852	proclitic/indeclform
+98865	indeclform
+98871	proclitic/indeclform
+indeclform
+98875	proclitic/indeclform
+98883	proclitic/indeclform
+98899	indeclform
+98911	indeclform
+98916	unaugmented/poetic
+98921	unaugmented/poetic
+98927	unaugmented/poetic
+98931	syll_augment/unaugmented
+98936	proclitic/indeclform
+98939	unaugmented
+98955	unaugmented
+98961	unaugmented
+98967	indeclform
+98972	unaugmented
+98997	proclitic/indeclform
+98999	unaugmented/poetic
+99015	proclitic/indeclform
+99052	indeclform
+redupl
+99055	indeclform
+99059	proclitic/indeclform
+99075	proclitic/indeclform
+99082	proclitic/indeclform
+99086	unaugmented
+99088	proclitic/indeclform
+99094	indeclform
+99096	indeclform
+99107	unaugmented/poetic
+99117	proclitic/indeclform
+99127	indeclform
+99151	proclitic/indeclform
+99156	indeclform
+99166	indeclform
+99183	indeclform
+99185	unaugmented
+99187	unaugmented
+99189	unaugmented
+99191	unaugmented
+99193	unaugmented
+99195	unaugmented
+99197	proclitic/indeclform
+99203	indeclform
+99205	indeclform
+99209	indeclform
+99230	comp_only
+99232	unaugmented/poetic
+99266	proclitic/indeclform
+99268	proclitic/indeclform
+99271	indeclform
+99274	indeclform
+99282	indeclform
+99294	proclitic/indeclform
+99298	unaugmented/poetic
+99303	proclitic/indeclform
+99306	proclitic/indeclform
+indeclform
+99310	indeclform
+99315	unaugmented/poetic
+99318	proclitic/indeclform
+99324	proclitic/indeclform
+99328	indeclform
+99334	indeclform
+99349	unaugmented
+99365	unaugmented
+99374	unaugmented
+99378	indeclform
+99381	indeclform
+99384	unaugmented/poetic
+99404	proclitic/indeclform
+99419	proclitic/indeclform
+indeclform
+99424	proclitic/indeclform
+99431	unaugmented
+99433	unaugmented
+99468	proclitic/indeclform
+99473	indeclform
+99480	unaugmented
+99495	indeclform
+99508	indeclform
+99524	indeclform
+99529	proclitic/indeclform
+indeclform
+99568	indeclform
+99570	indeclform
+99577	proclitic/indeclform
+99599	indeclform
+99602	proclitic/indeclform
+indeclform
+99612	unaugmented
+99620	proclitic/indeclform
+99643	proclitic/indeclform
+99656	comp_only
+99658	unaugmented
+99660	comp_only
+99670	proclitic/indeclform
+99698	unaugmented
+99722	unaugmented
+99732	indeclform
+unaugmented
+99768	proclitic/indeclform
+indeclform
+99776	indeclform
+99778	enclitic/indeclform
+99794	proclitic/indeclform
+99798	unaugmented
+99818	proclitic/indeclform
+99822	proclitic/indeclform
+99849	indeclform
+99862	indeclform
+99868	proclitic/indeclform
+99871	indeclform
+99885	indeclform
+99896	indeclform
+99910	indeclform
+99915	proclitic/indeclform
+99919	indeclform
+99926	indeclform
+99929	indeclform
+99938	indeclform
+99942	unaugmented
+99948	indeclform
+99954	unaugmented
+99967	unaugmented/poetic
+99991	unaugmented/poetic
+99993	indeclform
+99995	indeclform
+100020	proclitic/indeclform
+indeclform
+100043	proclitic/indeclform
+100047	proclitic/indeclform
+100055	indeclform
+100063	unaugmented
+100065	indeclform
+100080	unaugmented/poetic
+100091	proclitic/indeclform
+100094	comp_only
+indeclform
+unaugmented
+100100	indeclform
+100102	indeclform
+100149	unaugmented
+proclitic/indeclform
+poetic/indeclform
+100165	indeclform
+100182	indeclform
+100190	indeclform
+100194	unaugmented
+100196	indeclform
+100203	unaugmented
+100205	proclitic/indeclform
+100219	indeclform
+100222	unaugmented
+100228	indeclform
+100230	indeclform
+100240	proclitic/indeclform
+100252	proclitic/indeclform
+indeclform
+100259	indeclform
+100262	proclitic/indeclform
+100272	proclitic/indeclform
+indeclform
+100280	unaugmented
+100282	indeclform
+100287	proclitic/indeclform
+100291	indeclform
+100297	proclitic/indeclform
+100308	unaugmented
+100319	unaugmented
+100326	unaugmented/poetic
+100333	unaugmented
+100336	indeclform
+100341	enclitic/indeclform
+proclitic/indeclform
+100347	proclitic/indeclform
+100352	indeclform
+100375	indeclform
+100382	indeclform
+unaugmented/poetic
+100401	indeclform
+100408	proclitic/indeclform
+100411	proclitic/indeclform
+100415	indeclform
+100427	unaugmented/poetic
+unaugmented/poetic
+100430	indeclform
+100435	unaugmented/poetic
+100454	enclitic/indeclform
+100460	proclitic/indeclform
+100464	indeclform
+100467	unaugmented
+100471	proclitic/indeclform
+100474	indeclform
+100481	proclitic/indeclform
+100499	unaugmented
+100501	unaugmented
+100508	proclitic/indeclform
+100515	enclitic/indeclform
+100541	enclitic/indeclform
+100545	proclitic/indeclform
+100553	indeclform
+100568	proclitic/indeclform
+100570	unaugmented
+100584	proclitic/indeclform
+proclitic/indeclform
+100587	proclitic/indeclform
+100632	proclitic/indeclform
+100636	proclitic/indeclform
+100639	poetic/indeclform
+100642	proclitic/indeclform
+100664	proclitic/indeclform
+100667	proclitic/indeclform
+100670	proclitic/indeclform
+100673	proclitic/indeclform
+100690	proclitic/indeclform
+indeclform
+100707	proclitic/indeclform
+100710	proclitic/indeclform
+100713	proclitic/indeclform
+100716	proclitic/indeclform
+100721	proclitic/indeclform
+100724	proclitic/indeclform
+100728	proclitic/indeclform
+100731	proclitic/indeclform
+100738	indeclform
+100741	indeclform
+100744	indeclform
+100763	indeclform
+100785	proclitic/indeclform
+100801	proclitic/indeclform
+100815	unaugmented
+100824	unaugmented
+100826	proclitic/indeclform
+100832	proclitic/indeclform
+100835	unaugmented
+100841	unaugmented
+100852	unaugmented
+100857	proclitic/indeclform
+100864	unaugmented
+100877	indeclform
+100893	proclitic/indeclform
+100898	unaugmented
+100905	unaugmented
+100917	indeclform
+100920	unaugmented/poetic
+100952	unaugmented/poetic
+100958	indeclform
+100961	indeclform
+100964	proclitic/indeclform
+100971	proclitic/indeclform
+100978	indeclform
+100984	proclitic/indeclform
+100986	proclitic/indeclform
+100988	proclitic/indeclform
+100990	proclitic/indeclform
+101023	indeclform
+101029	proclitic/indeclform
+indeclform
+proclitic/indeclform
+101057	unaugmented
+101072	unaugmented
+101076	indeclform
+101078	unaugmented
+101082	unaugmented
+indeclform
+101088	unaugmented
+enclitic/indeclform
+unaugmented
+101096	unaugmented
+101115	unaugmented
+101122	indeclform
+101142	indeclform
+101153	indeclform
+unaugmented
+101156	unaugmented/poetic
+proclitic/indeclform
+101160	indeclform
+101171	enclitic/indeclform
+101176	syll_augment/unaugmented/late
+101180	indeclform
+101185	enclitic/indeclform
+101206	unaugmented
+101239	proclitic/indeclform
+101264	proclitic/indeclform
+101273	unaugmented
+101275	proclitic/indeclform
+indeclform
+101282	unaugmented
+101286	unaugmented/poetic
+101291	proclitic/indeclform
+101293	unaugmented
+101299	unaugmented/poetic
+101306	proclitic/indeclform
+101311	indeclform
+101318	proclitic/indeclform
+indeclform
+101356	proclitic/indeclform
+101366	unaugmented
+101378	indeclform
+101416	unaugmented
+101430	proclitic/indeclform
+101435	enclitic/indeclform
+101438	indeclform
+101445	indeclform
+101448	unaugmented/poetic
+101450	indeclform
+101466	unaugmented
+101471	unaugmented/poetic
+101479	enclitic/indeclform
+101489	indeclform
+101493	unaugmented/poetic
+101520	unaugmented/poetic
+101525	indeclform
+unaugmented
+101542	proclitic/indeclform
+101547	unaugmented/poetic
+101554	unaugmented/n_infix
+101556	enclitic/indeclform
+101563	unaugmented/poetic
+101566	unaugmented
+101570	indeclform
+101575	indeclform
+101579	indeclform
+101582	proclitic/indeclform
+101601	indeclform
+101604	indeclform
+101615	poetic/indeclform
+101619	indeclform
+101622	unaugmented/poetic
+101626	unaugmented/poetic
+101641	unaugmented
+101650	unaugmented
+101652	proclitic/indeclform
+indeclform
+101662	unaugmented/poetic
+101668	proclitic/indeclform
+indeclform
+101674	proclitic/indeclform
+indeclform
+101689	unaugmented
+101705	proclitic/indeclform
+101710	proclitic/indeclform
+101726	unaugmented/poetic
+101728	unaugmented
+101744	redupl
+101765	indeclform
+101768	indeclform
+101770	comp_only
+101772	unaugmented/poetic
+101779	indeclform
+101789	indeclform
+101796	proclitic/indeclform
+101806	enclitic/indeclform
+101816	proclitic/indeclform
+101841	unaugmented/poetic
+101844	proclitic/indeclform
+101853	enclitic/indeclform
+101857	indeclform
+101882	proclitic/indeclform
+101896	indeclform
+101923	enclitic/indeclform
+101927	unaugmented
+101933	unaugmented/poetic
+101942	comp_only/unaugmented
+101948	comp_only/redupl
+101952	indeclform
+101966	enclitic/indeclform
+101979	indeclform
+101985	unaugmented
+102026	comp_only
+102036	enclitic/indeclform
+102057	syll_augment/unaugmented
+indeclform
+102071	enclitic/indeclform
+indeclform
+102121	indeclform
+102127	proclitic/indeclform
+102133	indeclform
+102141	indeclform
+102157	unaugmented
+102166	proclitic/indeclform
+102173	proclitic/indeclform
+102175	proclitic/indeclform
+102182	unaugmented/poetic
+102190	unaugmented/poetic
+102196	unaugmented/poetic
+102202	indeclform
+102231	indeclform
+102242	unaugmented
+102253	indeclform
+102259	proclitic/indeclform
+indeclform
+102264	indeclform
+102271	indeclform
+102279	indeclform
+102281	enclitic/indeclform
+102290	indeclform
+102296	indeclform
+102301	indeclform
+102305	proclitic/indeclform
+102308	indeclform
+102311	enclitic/indeclform
+102316	indeclform
+102339	proclitic/indeclform
+indeclform
+102349	proclitic/indeclform
+102354	indeclform
+102375	proclitic/indeclform
+102379	comp_only/r_e_i_alpha
+102396	unaugmented
+102399	indeclform
+102401	indeclform
+102406	proclitic/indeclform
+102422	indeclform
+102428	indeclform
+102430	indeclform
+102437	indeclform
+102445	proclitic/indeclform
+102449	proclitic/indeclform
+102453	indeclform
+102466	unaugmented/poetic
+102486	indeclform
+102491	indeclform
+102508	poetic/indeclform
+102517	proclitic/indeclform
+102538	unaugmented/poetic
+102551	poetic/indeclform
+102553	indeclform
+102555	unaugmented
+102557	indeclform
+102559	indeclform
+102564	indeclform
+102611	unaugmented/poetic
+102616	proclitic/indeclform
+102627	proclitic/poetic/indeclform
+102632	proclitic/poetic/indeclform
+102637	proclitic/poetic/indeclform
+102646	proclitic/indeclform
+102653	indeclform
+102676	unaugmented
+102694	indeclform
+102706	unaugmented
+102742	unaugmented
+102744	unaugmented
+102750	proclitic/indeclform
+102752	unaugmented
+102760	unaugmented/poetic
+unaugmented
+102781	unaugmented/poetic
+enclitic/indeclform
+102786	indeclform
+102797	unaugmented
+102801	unaugmented
+102807	enclitic/indeclform
+102813	proclitic/indeclform
+102817	proclitic/indeclform
+102833	indeclform
+102840	proclitic/indeclform
+102848	unaugmented
+proclitic/indeclform
+102851	unaugmented/poetic
+102854	proclitic/indeclform
+102862	unaugmented
+102864	indeclform
+102879	indeclform
+102884	unaugmented
+poetic
+102894	proclitic/indeclform
+102900	proclitic/indeclform
+indeclform
+102912	indeclform
+102915	proclitic/indeclform
+indeclform
+102924	no_redupl
+102930	proclitic/indeclform
+indeclform
+102934	enclitic/indeclform
+103001	proclitic/indeclform
+103015	indeclform
+103017	contr
+103029	indeclform
+103035	indeclform
+103040	indeclform
+103045	indeclform
+103072	unaugmented
+103075	indeclform
+103103	unaugmented
+103119	indeclform
+103123	indeclform
+103148	proclitic/indeclform
+103162	proclitic/indeclform
+103172	unaugmented
+103185	indeclform
+103202	proclitic/indeclform
+103222	unaugmented
+103228	indeclform
+103233	unaugmented
+103237	enclitic/indeclform
+103254	unaugmented
+103264	proclitic/indeclform
+103268	proclitic/indeclform
+indeclform
+103274	proclitic/indeclform
+103297	indeclform
+103300	comp_only/unaugmented
+103316	indeclform
+103332	indeclform
+103354	indeclform
+103357	indeclform
+103359	indeclform
+103361	syll_augment/unaugmented
+103363	enclitic/indeclform
+indeclform
+103368	unaugmented/poetic
+103392	enclitic/indeclform
+103428	enclitic/indeclform
+103433	proclitic/indeclform
+103443	indeclform
+103494	indeclform
+103496	proclitic/indeclform
+103500	unaugmented
+103541	unaugmented/poetic
+103550	proclitic/indeclform
+103562	unaugmented
+103567	indeclform
+103576	proclitic/indeclform
+103584	indeclform
+103592	enclitic/indeclform
+103597	unaugmented
+103602	proclitic/indeclform
+103614	proclitic/indeclform
+indeclform
+103623	indeclform
+103636	unaugmented
+103641	indeclform
+103655	unaugmented/poetic
+103664	indeclform
+103668	proclitic/indeclform
+indeclform
+103673	indeclform
+103692	unaugmented/poetic
+103697	proclitic/indeclform
+103701	proclitic/indeclform
+103705	indeclform
+103709	unaugmented/poetic
+103729	proclitic/indeclform
+103733	proclitic/indeclform
+103736	proclitic/indeclform
+103741	proclitic/indeclform
+103751	comp_only
+103753	proclitic/indeclform
+103755	unaugmented
+103779	proclitic/indeclform
+indeclform
+103782	proclitic/indeclform
+103805	proclitic/indeclform
+103811	indeclform
+103823	proclitic/indeclform
+103832	indeclform
+103834	proclitic/indeclform
+indeclform
+103837	indeclform
+103842	indeclform
+103846	proclitic/indeclform
+103848	proclitic/indeclform
+103856	indeclform
+103875	proclitic/indeclform
+indeclform
+103878	proclitic/indeclform
+103888	unaugmented/poetic
+103892	proclitic/indeclform
+103897	indeclform
+103901	indeclform
+103926	proclitic/indeclform
+indeclform
+103962	indeclform
+103967	proclitic/indeclform
+comp_only
+103974	unaugmented
+103982	indeclform
+103995	proclitic/indeclform
+104001	unaugmented
+104019	comp_only/redupl
+proclitic/indeclform
+indeclform
+104028	unaugmented
+proclitic/indeclform
+104032	proclitic/indeclform
+104050	proclitic/indeclform
+indeclform
+104054	unaugmented
+104056	proclitic/indeclform
+indeclform
+104082	indeclform
+104084	proclitic/indeclform
+104090	unaugmented
+104097	proclitic/indeclform
+104099	enclitic/indeclform
+104119	proclitic/indeclform
+104124	proclitic/indeclform
+104131	proclitic/indeclform
+104138	indeclform
+104150	proclitic/indeclform
+104152	enclitic/indeclform
+104159	proclitic/indeclform
+104172	unaugmented
+104175	redupl
+indeclform
+104185	proclitic/indeclform
+104188	proclitic/indeclform
+104193	proclitic/indeclform
+104199	unaugmented
+104204	proclitic/indeclform
+104208	proclitic/indeclform
+104223	unaugmented/poetic
+104238	proclitic/indeclform
+104249	proclitic/indeclform
+104257	indeclform
+104259	proclitic/indeclform
+104261	enclitic/indeclform
+104268	proclitic/indeclform
+104272	indeclform
+indeclform
+104294	proclitic/indeclform
+indeclform
+104299	proclitic/indeclform
+104303	indeclform
+104309	proclitic/indeclform
+indeclform
+104317	indeclform
+104322	indeclform
+104333	proclitic/indeclform
+104341	proclitic/indeclform
+104343	unaugmented
+104348	proclitic/indeclform
+104352	unaugmented
+104360	proclitic/indeclform
+104363	indeclform
+104367	unaugmented
+104371	proclitic/indeclform
+104377	indeclform
+104390	enclitic/indeclform
+104392	proclitic/indeclform
+104398	indeclform
+104405	unaugmented
+104413	unaugmented/poetic
+104416	indeclform
+104427	proclitic/indeclform
+104429	indeclform
+104436	proclitic/indeclform
+104438	proclitic/indeclform
+104442	unaugmented
+104446	unaugmented/poetic
+proclitic/indeclform
+104470	unaugmented/poetic
+104485	proclitic/indeclform
+104495	proclitic/indeclform
+indeclform
+104509	proclitic/indeclform
+104518	proclitic/indeclform
+104521	indeclform
+104530	proclitic/indeclform
+104536	indeclform
+104545	unaugmented/poetic
+104556	indeclform
+104561	indeclform
+104575	indeclform
+104584	proclitic/indeclform
+indeclform
+104587	indeclform
+indeclform
+104599	proclitic/indeclform
+104605	indeclform
+104609	unaugmented/poetic
+104616	proclitic/indeclform
+indeclform
+104620	indeclform
+104623	proclitic/indeclform
+104630	proclitic/indeclform
+104640	proclitic/indeclform
+104648	unaugmented
+104653	indeclform
+104660	indeclform
+indeclform
+104663	proclitic/indeclform
+104671	indeclform
+104686	indeclform
+104694	proclitic/indeclform
+104698	proclitic/indeclform
+104735	unaugmented/poetic
+indeclform
+104745	indeclform
+unaugmented
+104752	proclitic/indeclform
+indeclform
+104755	indeclform
+unaugmented
+proclitic/indeclform
+104761	proclitic/indeclform
+104765	indeclform
+104779	proclitic/indeclform
+104796	proclitic/indeclform
+104804	proclitic/indeclform
+indeclform
+104817	proclitic/indeclform
+104841	proclitic/indeclform
+104848	indeclform
+104879	indeclform
+104897	indeclform
+104923	unaugmented
+104932	enclitic/indeclform
+104945	unaugmented/poetic
+104948	unaugmented
+104967	proclitic/indeclform
+104972	proclitic/indeclform
+104976	comp_only
+104981	proclitic/indeclform
+104986	indeclform
+104990	indeclform
+104994	indeclform
+105003	unaugmented
+105008	proclitic/indeclform
+105021	proclitic/indeclform
+105028	proclitic/indeclform
+105035	indeclform
+105037	unaugmented
+proclitic/indeclform
+105051	unaugmented/poetic
+105054	poetic
+105057	proclitic/indeclform
+105063	unaugmented
+105075	proclitic/indeclform
+105089	proclitic/indeclform
+105095	proclitic/indeclform
+indeclform
+105103	unaugmented
+105105	unaugmented
+105116	indeclform
+105124	unaugmented
+105130	proclitic/indeclform
+105140	unaugmented
+105154	unaugmented
+105165	indeclform
+105183	indeclform
+105195	unaugmented
+105210	unaugmented
+105216	unaugmented/poetic
+proclitic/indeclform
+105223	indeclform
+105228	unaugmented
+105251	proclitic/indeclform
+105254	indeclform
+105259	unaugmented/poetic
+proclitic/indeclform
+105265	proclitic/indeclform
+105281	indeclform
+105290	indeclform
+indeclform
+105295	proclitic/indeclform
+indeclform
+105304	indeclform
+105306	indeclform
+105308	redupl
+unaugmented
+105319	indeclform
+105321	indeclform
+105329	proclitic/indeclform
+105335	unaugmented/poetic
+105345	indeclform
+unaugmented
+105348	unaugmented/poetic
+105359	indeclform
+105366	proclitic/indeclform
+105368	proclitic/indeclform
+105377	proclitic/indeclform
+105388	indeclform
+105392	unaugmented
+105398	unaugmented
+105403	indeclform
+105413	indeclform
+105444	unaugmented/poetic
+enclitic/indeclform
+unaugmented
+105448	proclitic/indeclform
+105451	proclitic/indeclform
+105466	unaugmented
+unaugmented
+105477	proclitic/indeclform
+105481	unaugmented
+105483	proclitic/indeclform
+105499	indeclform
+105505	proclitic/indeclform
+105512	indeclform
+105518	proclitic/indeclform
+105526	proclitic/indeclform
+indeclform
+105535	proclitic/indeclform
+105546	unaugmented
+proclitic/indeclform
+indeclform
+105551	indeclform
+105559	proclitic/indeclform
+105561	enclitic/indeclform
+105582	indeclform
+105586	proclitic/indeclform
+105589	causal
+105598	indeclform
+105600	indeclform
+105613	enclitic/indeclform
+105619	proclitic/indeclform
+indeclform
+105637	unaugmented
+105671	enclitic/indeclform
+105693	enclitic/indeclform
+105702	proclitic/indeclform
+105704	indeclform
+105711	indeclform
+105713	unaugmented
+105717	proclitic/indeclform
+105723	unaugmented
+105734	proclitic/indeclform
+105741	short_eis
+105747	enclitic/indeclform
+105751	indeclform
+105754	unaugmented
+105757	proclitic/indeclform
+105762	enclitic/indeclform
+105764	unaugmented
+105772	unaugmented/poetic
+proclitic/indeclform
+105776	unaugmented
+105778	proclitic/indeclform
+indeclform
+105784	proclitic/indeclform
+105787	proclitic/indeclform
+105794	unaugmented/poetic
+105800	proclitic/indeclform
+indeclform
+105822	enclitic/indeclform
+105824	indeclform
+105826	unaugmented
+105841	proclitic/indeclform
+105852	proclitic/indeclform
+105855	proclitic/indeclform
+indeclform
+105865	unaugmented/poetic
+105879	indeclform
+indeclform
+105886	unaugmented
+105897	unaugmented
+105900	indeclform
+105904	proclitic/indeclform
+105913	unaugmented/poetic
+105917	proclitic/indeclform
+105930	contr/indeclform
+105932	proclitic/indeclform
+105944	proclitic/indeclform
+105950	proclitic/indeclform
+105957	proclitic/indeclform
+105961	indeclform
+105965	indeclform
+105973	unaugmented
+105982	unaugmented/poetic
+105989	proclitic/indeclform
+105992	proclitic/indeclform
+105998	proclitic/indeclform
+106009	unaugmented/poetic
+106014	proclitic/indeclform
+106019	proclitic/indeclform
+106027	indeclform
+106029	proclitic/indeclform
+106032	proclitic/indeclform
+106035	proclitic/indeclform
+106044	indeclform
+106051	indeclform
+106059	proclitic/indeclform
+106070	indeclform
+106074	late
+106076	unaugmented
+106078	unaugmented/poetic
+106086	unaugmented/poetic
+106092	indeclform
+106103	proclitic/indeclform
+106114	proclitic/indeclform
+106119	proclitic/indeclform
+106126	indeclform
+106130	unaugmented/poetic
+106138	indeclform
+106147	proclitic/indeclform
+106165	unaugmented/poetic
+106179	proclitic/indeclform
+indeclform
+106201	proclitic/indeclform
+106211	proclitic/indeclform
+106230	proclitic/indeclform
+106234	proclitic/indeclform
+106242	indeclform
+106250	proclitic/indeclform
+comp_only
+106259	indeclform
+106262	indeclform
+unaugmented
+106280	unaugmented/poetic
+106287	indeclform
+106300	unaugmented
+proclitic/indeclform
+106304	proclitic/indeclform
+106306	indeclform
+106317	proclitic/indeclform
+106329	unaugmented/poetic
+106331	unaugmented/n_infix
+106338	unaugmented/n_infix
+106346	enclitic/indeclform
+106357	enclitic/indeclform
+106385	proclitic/indeclform
+106388	unaugmented
+106391	unaugmented
+106416	proclitic/indeclform
+106420	proclitic/indeclform
+106423	proclitic/indeclform
+106429	proclitic/indeclform
+indeclform
+106452	proclitic/indeclform
+106473	redupl
+106493	unaugmented
+106499	indeclform
+106513	proclitic/indeclform
+106516	proclitic/indeclform
+106541	indeclform
+106546	proclitic/indeclform
+106559	proclitic/indeclform
+106575	unaugmented/poetic
+106577	indeclform
+106588	unaugmented
+106600	proclitic/indeclform
+106605	proclitic/indeclform
+106611	proclitic/indeclform
+106615	unaugmented/poetic
+106648	unaugmented
+106656	indeclform
+106660	unaugmented
+106662	indeclform
+106666	unaugmented
+proclitic/indeclform
+indeclform
+106671	proclitic/indeclform
+106675	proclitic/indeclform
+106677	unaugmented/poetic
+106686	unaugmented
+106689	unaugmented
+106692	proclitic/indeclform
+106699	proclitic/indeclform
+106709	unaugmented
+106715	unaugmented
+106726	proclitic/indeclform
+indeclform
+106739	indeclform
+106748	unaugmented/poetic
+106757	proclitic/indeclform
+proclitic/indeclform
+106763	unaugmented
+106767	proclitic/indeclform
+106774	unaugmented/poetic
+106784	proclitic/indeclform
+indeclform
+106796	unaugmented
+106807	unaugmented/poetic
+106814	proclitic/indeclform
+106817	proclitic/indeclform
+106819	proclitic/indeclform
+106839	unaugmented
+106855	indeclform
+106867	proclitic/indeclform
+106873	indeclform
+106878	indeclform
+106887	indeclform
+106891	enclitic/indeclform
+106894	indeclform
+106898	indeclform
+106907	proclitic/indeclform
+106915	unaugmented/poetic
+106921	proclitic/indeclform
+poetic/indeclform
+106924	indeclform
+106927	unaugmented/poetic
+106930	proclitic/indeclform
+106937	unaugmented
+106975	unaugmented
+106978	redupl
+106984	unaugmented
+107008	proclitic/indeclform
+107043	proclitic/indeclform
+107045	indeclform
+107048	indeclform
+107053	indeclform
+107065	unaugmented
+107069	indeclform
+107071	enclitic/indeclform
+107073	unaugmented/poetic
+107077	proclitic/indeclform
+107082	proclitic/indeclform
+107090	proclitic/indeclform
+107097	proclitic/indeclform
+107122	proclitic/indeclform
+107126	unaugmented
+107130	unaugmented/poetic
+107137	unaugmented
+107148	syll_augment/unaugmented
+107158	indeclform
+107166	unaugmented
+107169	proclitic/indeclform
+107178	unaugmented
+107185	unaugmented/poetic
+107204	indeclform
+107208	enclitic/indeclform
+107220	indeclform
+107243	indeclform
+107258	contr
+107261	unaugmented/poetic
+proclitic/indeclform
+107279	indeclform
+107285	indeclform
+107293	unaugmented
+107307	indeclform
+107316	unaugmented
+107326	indeclform
+107329	indeclform
+unaugmented
+proclitic/indeclform
+107335	enclitic/indeclform
+indeclform
+107343	proclitic/indeclform
+107347	indeclform
+107362	indeclform
+107376	indeclform
+107390	proclitic/indeclform
+107401	proclitic/indeclform
+107412	proclitic/indeclform
+indeclform
+107426	indeclform
+107428	proclitic/indeclform
+107432	proclitic/indeclform
+107436	unaugmented
+107448	unaugmented
+107450	proclitic/indeclform
+107459	indeclform
+107467	indeclform
+107470	unaugmented/poetic
+indeclform
+107474	unaugmented
+107477	unaugmented
+107480	indeclform
+107483	proclitic/indeclform
+107511	indeclform
+107520	proclitic/indeclform
+107534	proclitic/indeclform
+107543	unaugmented/poetic
+107559	proclitic/indeclform
+107564	unaugmented
+107567	unaugmented
+107570	proclitic/indeclform
+107573	proclitic/indeclform
+107586	proclitic/indeclform
+indeclform
+107603	proclitic/indeclform
+107611	indeclform
+107626	proclitic/indeclform
+107642	unaugmented
+107655	unaugmented
+107660	indeclform
+107668	indeclform
+107675	indeclform
+107682	proclitic/indeclform
+107684	proclitic/indeclform
+107687	indeclform
+107693	indeclform
+unaugmented
+107704	proclitic/indeclform
+107709	enclitic/indeclform
+107716	enclitic/indeclform
+107720	enclitic/indeclform
+107725	indeclform
+107741	unaugmented/poetic
+107747	proclitic/indeclform
+107753	proclitic/indeclform
+107756	indeclform
+107760	unaugmented/poetic
+107764	indeclform
+107780	proclitic/indeclform
+107797	indeclform
+proclitic/indeclform
+107803	proclitic/indeclform
+indeclform
+107816	proclitic/indeclform
+107818	indeclform
+107826	proclitic/indeclform
+indeclform
+107837	unaugmented/poetic
+proclitic/indeclform
+107846	unaugmented
+107859	indeclform
+107863	proclitic/indeclform
+107887	proclitic/indeclform
+107891	short_eis
+107898	indeclform
+107900	proclitic/indeclform
+107908	comp_only
+107910	unaugmented/poetic
+proclitic/indeclform
+107922	indeclform
+107929	indeclform
+107931	indeclform
+107938	unaugmented
+107941	proclitic/indeclform
+indeclform
+107951	unaugmented
+107962	proclitic/indeclform
+107975	unaugmented/poetic
+107982	proclitic/indeclform
+107985	indeclform
+107987	proclitic/indeclform
+107994	indeclform
+107997	indeclform
+108007	indeclform
+108021	indeclform
+108023	proclitic/indeclform
+108025	unaugmented
+108029	indeclform
+108044	proclitic/indeclform
+108049	proclitic/indeclform
+108060	indeclform
+108069	unaugmented
+108074	indeclform
+108079	indeclform
+proclitic/indeclform
+108085	enclitic/indeclform
+108092	proclitic/indeclform
+108100	proclitic/indeclform
+indeclform
+108116	comp_only
+108134	indeclform
+108138	proclitic/indeclform
+108145	indeclform
+108152	proclitic/indeclform
+108159	indeclform
+108165	proclitic/indeclform
+108175	indeclform
+108185	unaugmented/poetic
+108195	unaugmented/poetic
+108226	proclitic/indeclform
+108232	proclitic/indeclform
+indeclform
+indeclform
+108248	proclitic/indeclform
+108255	unaugmented
+proclitic/indeclform
+108269	proclitic/indeclform
+108271	proclitic/indeclform
+108284	proclitic/indeclform
+108293	proclitic/indeclform
+108301	proclitic/indeclform
+108316	unaugmented/poetic
+108318	proclitic/indeclform
+108322	enclitic/indeclform
+108335	proclitic/indeclform
+108343	unaugmented
+indeclform
+108347	indeclform
+108363	proclitic/indeclform
+108371	proclitic/indeclform
+108377	proclitic/indeclform
+108386	proclitic/indeclform
+108407	indeclform
+108416	proclitic/indeclform
+108418	unaugmented
+108427	proclitic/indeclform
+108432	indeclform
+108438	proclitic/indeclform
+108444	proclitic/indeclform
+108451	proclitic/indeclform
+108458	proclitic/indeclform
+indeclform
+108461	proclitic/indeclform
+108471	unaugmented/poetic
+108479	unaugmented
+108489	redupl
+108494	indeclform
+108496	indeclform
+108508	indeclform
+108515	unaugmented
+108517	indeclform
+108526	proclitic/indeclform
+108530	proclitic/indeclform
+108537	proclitic/indeclform
+108540	proclitic/indeclform
+108542	indeclform
+proclitic/indeclform
+108546	indeclform
+108548	indeclform
+108550	indeclform
+108564	proclitic/indeclform
+108570	indeclform
+108587	indeclform
+108603	unaugmented/poetic
+108614	proclitic/indeclform
+108616	proclitic/indeclform
+108625	indeclform
+108633	indeclform
+108645	proclitic/indeclform
+108653	proclitic/indeclform
+108663	indeclform
+108665	indeclform
+contr
+unaugmented
+indeclform
+108672	proclitic/indeclform
+108675	unaugmented/poetic
+108677	indeclform
+contr
+unaugmented
+108681	indeclform
+108688	indeclform
+108693	indeclform
+108695	proclitic/indeclform
+indeclform
+108702	indeclform
+108711	proclitic/indeclform
+108715	indeclform
+108717	indeclform
+108733	indeclform
+108735	indeclform
+unaugmented
+108738	unaugmented/poetic
+proclitic/indeclform
+108747	proclitic/indeclform
+108754	indeclform
+108756	unaugmented
+108771	unaugmented
+108780	unaugmented
+108792	proclitic/poetic/indeclform
+108803	unaugmented
+108806	proclitic/indeclform
+108811	proclitic/indeclform
+108814	unaugmented/poetic
+108832	indeclform
+108840	indeclform
+108856	indeclform
+108861	proclitic/indeclform
+108869	proclitic/indeclform
+108880	proclitic/indeclform
+indeclform
+108883	proclitic/indeclform
+108894	proclitic/indeclform
+108898	proclitic/indeclform
+108902	indeclform
+108910	proclitic/indeclform
+108912	indeclform
+proclitic/indeclform
+108916	proclitic/indeclform
+108921	indeclform
+108931	proclitic/indeclform
+redupl
+proclitic/indeclform
+108935	enclitic/indeclform
+108945	indeclform
+108947	unaugmented
+108956	proclitic/indeclform
+108958	enclitic/indeclform
+108962	indeclform
+108968	enclitic/indeclform
+108970	unaugmented
+108978	proclitic/indeclform
+108980	proclitic/indeclform
+108983	proclitic/indeclform
+108985	unaugmented
+108995	proclitic/indeclform
+indeclform
+109010	indeclform
+109024	enclitic/indeclform
+109040	proclitic/indeclform
+109046	proclitic/indeclform
+109048	proclitic/indeclform
+109058	poetic
+indeclform
+109073	unaugmented
+109075	proclitic/indeclform
+109079	proclitic/indeclform
+109092	proclitic/indeclform
+109097	enclitic/indeclform
+109103	indeclform
+109108	indeclform
+109118	proclitic/indeclform
+109129	indeclform
+109133	late
+109135	unaugmented
+109139	indeclform
+109149	indeclform
+109151	indeclform
+109165	indeclform
+109172	unaugmented
+109179	enclitic/indeclform
+109190	unaugmented/poetic
+109208	proclitic/indeclform
+109216	proclitic/indeclform
+109220	unaugmented/poetic
+unaugmented
+109232	proclitic/indeclform
+109236	proclitic/indeclform
+109249	proclitic/indeclform
+109264	indeclform
+indeclform
+109270	proclitic/indeclform
+109291	proclitic/indeclform
+109306	indeclform
+109318	proclitic/indeclform
+109326	indeclform
+109330	indeclform
+109366	unaugmented/poetic
+109375	unaugmented/poetic
+109377	unaugmented
+109381	unaugmented/poetic
+109387	proclitic/indeclform
+109390	unaugmented
+109392	proclitic/indeclform
+109395	proclitic/indeclform
+109405	proclitic/indeclform
+indeclform
+109420	proclitic/indeclform
+109434	proclitic/indeclform
+109438	proclitic/indeclform
+109451	proclitic/indeclform
+109457	proclitic/indeclform
+109460	indeclform
+109463	indeclform
+109486	enclitic/indeclform
+109535	unaugmented
+109541	proclitic/indeclform
+109544	proclitic/indeclform
+indeclform
+109552	unaugmented/poetic
+109554	unaugmented/poetic
+proclitic/indeclform
+109558	indeclform
+109569	proclitic/indeclform
+109571	unaugmented
+109576	unaugmented/poetic
+109579	unaugmented/poetic
+109583	proclitic/indeclform
+109586	unaugmented
+109588	indeclform
+109591	unaugmented
+109596	proclitic/indeclform
+109603	proclitic/indeclform
+109620	proclitic/indeclform
+109623	proclitic/indeclform
+109626	unaugmented
+109629	proclitic/indeclform
+109632	proclitic/indeclform
+109636	indeclform
+109644	indeclform
+109648	unaugmented/poetic
+109650	unaugmented/poetic
+unaugmented
+109658	indeclform
+109677	indeclform
+109683	unaugmented/poetic
+109685	unaugmented/poetic
+109691	proclitic/indeclform
+109697	indeclform
+109703	proclitic/indeclform
+109707	proclitic/indeclform
+109723	unaugmented/poetic
+109739	indeclform
+109749	unaugmented/poetic
+109754	unaugmented
+109759	unaugmented/poetic
+109763	proclitic/indeclform
+indeclform
+109775	unaugmented/poetic
+109778	proclitic/indeclform
+109781	proclitic/indeclform
+109785	indeclform
+109838	indeclform
+unaugmented
+109860	proclitic/indeclform
+109884	indeclform
+109886	indeclform
+109889	indeclform
+109898	proclitic/indeclform
+109905	indeclform
+unaugmented
+109909	indeclform
+109916	proclitic/indeclform
+geog_name
+109928	unaugmented/poetic
+proclitic/indeclform
+indeclform
+109947	proclitic/indeclform
+109965	indeclform
+109987	enclitic/indeclform
+110009	indeclform
+110035	indeclform
+110053	proclitic/indeclform
+110055	indeclform
+110059	indeclform
+110074	unaugmented/poetic
+110089	indeclform
+110136	unaugmented
+110138	proclitic/indeclform
+110142	unaugmented/poetic
+110146	proclitic/indeclform
+110161	unaugmented
+110164	unaugmented
+proclitic/indeclform
+110174	enclitic/indeclform
+110183	unaugmented
+110192	indeclform
+110202	unaugmented/poetic
+110218	proclitic/indeclform
+110223	proclitic/indeclform
+110228	indeclform
+110230	indeclform
+110240	proclitic/indeclform
+indeclform
+110255	indeclform
+110267	proclitic/indeclform
+110275	unaugmented
+110296	indeclform
+110314	proclitic/indeclform
+110318	unaugmented
+110329	indeclform
+110337	indeclform
+110363	enclitic/indeclform
+110365	enclitic/indeclform
+110391	indeclform
+unaugmented
+proclitic/indeclform
+110398	enclitic/indeclform
+110400	enclitic/indeclform
+110416	proclitic/indeclform
+110418	proclitic/indeclform
+110422	proclitic/indeclform
+110424	unaugmented/poetic
+110429	enclitic/indeclform
+110431	proclitic/indeclform
+110437	enclitic/indeclform
+110439	enclitic/indeclform
+110445	proclitic/indeclform
+110462	proclitic/indeclform
+110477	indeclform
+110481	unaugmented/poetic
+110486	proclitic/indeclform
+110488	proclitic/indeclform
+110494	unaugmented/poetic
+110500	comp_only
+110503	indeclform
+110506	proclitic/indeclform
+110518	proclitic/indeclform
+110521	indeclform
+110524	proclitic/indeclform
+110540	unaugmented
+indeclform
+110545	proclitic/indeclform
+enclitic/indeclform
+110548	unaugmented
+110552	enclitic/indeclform
+110558	enclitic/indeclform
+110583	unaugmented
+unaugmented
+110611	unaugmented
+110618	unaugmented
+110625	proclitic/indeclform
+indeclform
+110630	proclitic/indeclform
+110639	proclitic/indeclform
+110646	proclitic/indeclform
+110648	unaugmented
+110652	unaugmented
+110655	unaugmented
+110661	unaugmented
+110664	unaugmented
+110669	unaugmented
+110672	unaugmented
+110685	syll_augment/unaugmented
+proclitic/indeclform
+110688	unaugmented
+110692	unaugmented/poetic
+proclitic/indeclform
+110731	indeclform
+unaugmented
+110737	proclitic/indeclform
+110754	syll_augment/unaugmented
+110761	proclitic/indeclform
+110774	indeclform
+110791	proclitic/indeclform
+110800	indeclform
+110804	unaugmented/poetic
+110812	indeclform
+110823	indeclform
+110828	indeclform
+110839	proclitic/indeclform
+indeclform
+110842	proclitic/indeclform
+110846	unaugmented/poetic
+110853	proclitic/indeclform
+110868	unaugmented/poetic
+110876	unaugmented/poetic
+110891	indeclform
+110897	proclitic/indeclform
+110909	proclitic/indeclform
+110922	indeclform
+110934	comp_only
+110947	proclitic/indeclform
+110953	proclitic/indeclform
+110960	unaugmented/poetic
+110964	proclitic/indeclform
+110977	redupl
+110985	indeclform
+110991	proclitic/indeclform
+111001	proclitic/indeclform
+indeclform
+111005	proclitic/indeclform
+111011	unaugmented/poetic
+111017	unaugmented
+111054	proclitic/indeclform
+111057	proclitic/indeclform
+111059	unaugmented
+indeclform
+111075	indeclform
+111096	indeclform
+111104	unaugmented/poetic
+111120	indeclform
+111124	syll_augment/unaugmented
+111130	proclitic/indeclform
+indeclform
+111159	indeclform
+111171	indeclform
+111173	indeclform
+111179	proclitic/indeclform
+111188	proclitic/indeclform
+111219	indeclform
+111224	enclitic/indeclform
+111229	unaugmented
+111237	indeclform
+111255	proclitic/indeclform
+111283	unaugmented
+111318	proclitic/indeclform
+111323	unaugmented
+111326	proclitic/indeclform
+111334	syll_augment/unaugmented
+111362	indeclform
+111379	proclitic/indeclform
+111384	indeclform
+111396	unaugmented
+111401	unaugmented/poetic
+111410	indeclform
+111412	proclitic/indeclform
+111437	enclitic/indeclform
+111444	proclitic/indeclform
+indeclform
+111453	proclitic/indeclform
+111465	indeclform
+111477	indeclform
+111490	indeclform
+111503	proclitic/indeclform
+indeclform
+111508	unaugmented
+111515	unaugmented
+proclitic/indeclform
+111532	comp_only
+111539	indeclform
+111554	proclitic/indeclform
+111557	unaugmented
+unaugmented
+proclitic/indeclform
+111568	indeclform
+111573	proclitic/indeclform
+111590	proclitic/indeclform
+111595	indeclform
+111610	unaugmented
+unaugmented/poetic
+111623	proclitic/indeclform
+111629	unaugmented/poetic
+111641	proclitic/indeclform
+111661	indeclform
+111663	unaugmented/poetic
+111665	proclitic/indeclform
+111676	unaugmented
+111684	unaugmented/n_infix
+111695	indeclform
+111699	n_infix
+111748	unaugmented/poetic
+111753	unaugmented/poetic
+111757	indeclform
+111759	indeclform
+111764	indeclform
+111782	unaugmented
+111787	proclitic/indeclform
+111791	indeclform
+111801	proclitic/indeclform
+111824	unaugmented
+111829	proclitic/indeclform
+111848	indeclform
+111857	unaugmented
+111859	unaugmented
+111881	proclitic/indeclform
+111892	unaugmented/n_infix
+111905	indeclform
+111928	proclitic/indeclform
+111934	unaugmented/poetic
+unaugmented
+111937	proclitic/indeclform
+111946	comp_only
+111950	unaugmented/poetic
+111967	unaugmented/poetic
+111980	unaugmented/poetic
+111996	proclitic/indeclform
+112005	proclitic/indeclform
+112009	unaugmented
+112017	proclitic/indeclform
+112027	proclitic/indeclform
+112031	indeclform
+112033	indeclform
+112046	proclitic/indeclform
+112049	proclitic/indeclform
+112062	proclitic/indeclform
+112074	indeclform
+112078	proclitic/indeclform
+112088	proclitic/indeclform
+112105	comp_only/unaugmented
+112117	unaugmented/poetic
+112124	unaugmented
+112132	causal/pres_redupl
+112135	proclitic/indeclform
+112149	enclitic/indeclform
+112151	unaugmented/poetic
+112191	unaugmented
+112197	proclitic/indeclform
+112216	proclitic/indeclform
+112230	enclitic/indeclform
+112241	proclitic/indeclform
+112244	proclitic/indeclform
+112260	enclitic/indeclform
+112262	proclitic/indeclform
+112264	unaugmented/poetic
+112269	unaugmented/poetic
+112286	proclitic/indeclform
+112289	proclitic/indeclform
+112294	proclitic/indeclform
+112297	proclitic/indeclform
+112300	proclitic/indeclform
+112308	proclitic/indeclform
+112312	unaugmented/n_infix
+112321	proclitic/indeclform
+112332	indeclform
+112349	unaugmented/poetic
+112361	unaugmented/poetic
+112369	short_eis
+112390	unaugmented/poetic
+112396	indeclform
+112404	indeclform
+112444	unaugmented
+112453	unaugmented
+112458	proclitic/indeclform
+112460	proclitic/indeclform
+112462	proclitic/indeclform
+112464	proclitic/indeclform
+112466	proclitic/indeclform
+112472	comp_only
+112478	unaugmented
+112480	proclitic/indeclform
+112495	unaugmented
+proclitic/indeclform
+112501	indeclform
+112526	unaugmented
+112528	proclitic/indeclform
+112531	proclitic/indeclform
+112534	proclitic/indeclform
+112537	proclitic/indeclform
+112539	proclitic/indeclform
+112543	unaugmented
+112552	indeclform
+112570	comp_only
+112572	unaugmented/poetic
+indeclform
+112592	indeclform
+112599	unaugmented
+112618	unaugmented/poetic
+112630	proclitic/indeclform
+112653	unaugmented/poetic
+112671	later
+112679	later
+unaugmented
+112686	indeclform
+112695	indeclform
+112698	indeclform
+112704	unaugmented/n_infix
+112719	indeclform
+112726	enclitic/indeclform
+112734	enclitic/indeclform
+112736	proclitic/indeclform
+112742	indeclform
+112753	unaugmented
+112765	indeclform
+112770	comp_only
+112775	enclitic/indeclform
+112780	comp_only
+112782	unaugmented/poetic
+112802	unaugmented
+112811	unaugmented
+unaugmented
+112815	unaugmented
+112821	indeclform
+112824	n_infix
+112839	indeclform
+112841	indeclform
+112845	indeclform
+112861	unaugmented
+112868	unaugmented/poetic
+112870	indeclform
+112873	enclitic/indeclform
+112875	unaugmented
+112883	unaugmented
+112891	enclitic/indeclform
+112921	unaugmented
+112939	unaugmented
+112953	indeclform
+112975	enclitic/indeclform
+113004	indeclform
+113007	unaugmented/n_infix
+113022	unaugmented/poetic
+113051	comp_only
+113055	comp_only
+113057	unaugmented/poetic
+113060	indeclform
+113119	unaugmented
+113126	proclitic/indeclform
+indeclform
+113130	unaugmented
+113141	indeclform
+113143	indeclform
+113150	proclitic/indeclform
+113162	unaugmented
+113183	unaugmented/n_infix
+113189	indeclform
+113199	unaugmented/poetic
+113204	proclitic/indeclform
+113214	unaugmented/poetic
+113222	indeclform
+113224	indeclform
+113230	proclitic/indeclform
+113233	proclitic/indeclform
+113238	unaugmented/poetic
+113240	proclitic/indeclform
+113260	proclitic/indeclform
+113267	proclitic/indeclform
+113281	proclitic/indeclform
+113292	unaugmented/poetic
+113295	proclitic/indeclform
+113306	indeclform
+113310	unaugmented
+unaugmented
+113321	unaugmented/poetic
+113330	unaugmented
+113332	indeclform
+113336	unaugmented/poetic
+113346	indeclform
+113349	unaugmented
+113357	indeclform
+proclitic/indeclform
+113405	unaugmented
+113428	unaugmented/poetic
+113430	proclitic/indeclform
+113435	proclitic/indeclform
+113447	proclitic/indeclform
+indeclform
+113455	enclitic/indeclform
+proclitic/indeclform
+113468	indeclform
+113481	unaugmented
+113483	proclitic/indeclform
+113489	unaugmented
+113498	proclitic/indeclform
+113504	proclitic/indeclform
+113515	proclitic/indeclform
+113519	proclitic/indeclform
+113523	indeclform
+113526	unaugmented/poetic
+113541	proclitic/indeclform
+113554	indeclform
+113567	contr/redupl
+113585	proclitic/indeclform
+113598	unaugmented/poetic
+113600	proclitic/indeclform
+113605	proclitic/indeclform
+113607	unaugmented
+113611	unaugmented/poetic
+113627	proclitic/indeclform
+113663	comp_only
+113665	unaugmented/poetic
+113679	indeclform
+113702	proclitic/indeclform
+113723	n_infix
+113730	unaugmented/poetic
+113751	proclitic/indeclform
+113762	unaugmented
+113768	indeclform
+113771	unaugmented
+indeclform
+113786	unaugmented
+113789	indeclform
+113814	unaugmented
+113821	unaugmented/poetic
+113825	unaugmented
+113832	unaugmented
+113839	proclitic/indeclform
+113845	enclitic/indeclform
+113872	proclitic/indeclform
+113880	enclitic/indeclform
+113898	unaugmented
+113902	indeclform
+113919	enclitic/indeclform
+113952	comp_only
+113958	unaugmented
+113968	indeclform
+113970	early
+113975	proclitic/indeclform
+113977	indeclform
+114005	proclitic/indeclform
+114007	proclitic/indeclform
+114009	proclitic/indeclform
+114024	enclitic/indeclform
+114028	proclitic/indeclform
+114047	proclitic/indeclform
+114054	n_infix
+114063	indeclform
+114072	proclitic/indeclform
+114075	indeclform
+114089	proclitic/indeclform
+114096	unaugmented/poetic
+114104	comp_only
+114106	unaugmented/poetic
+114115	unaugmented
+114133	proclitic/indeclform
+114147	unaugmented
+114174	proclitic/indeclform
+114217	proclitic/indeclform
+114228	unaugmented
+114263	unaugmented/poetic
+114266	indeclform
+114284	proclitic/indeclform
+114291	indeclform
+114308	indeclform
+114321	proclitic/indeclform
+114329	unaugmented
+114346	unaugmented/poetic
+114353	indeclform
+114377	indeclform
+unaugmented
+114395	proclitic/indeclform
+114400	proclitic/indeclform
+114417	enclitic/indeclform
+114426	indeclform
+114432	unaugmented/poetic
+114440	unaugmented/poetic
+114466	proclitic/indeclform
+114472	unaugmented
+114476	unaugmented/poetic
+114487	unaugmented/poetic
+114499	proclitic/indeclform
+114502	indeclform
+114510	proclitic/indeclform
+114525	proclitic/indeclform
+114528	indeclform
+114536	proclitic/indeclform
+unaugmented/poetic
+114549	unaugmented
+114568	proclitic/indeclform
+114585	enclitic/indeclform
+114597	indeclform
+114603	syll_augment/unaugmented
+114616	later
+indeclform
+114630	proclitic/indeclform
+114654	unaugmented
+114661	indeclform
+114683	indeclform
+114702	proclitic/indeclform
+114732	unaugmented/poetic
+114746	proclitic/indeclform
+114765	unaugmented
+114769	proclitic/indeclform
+114777	unaugmented
+indeclform
+114789	unaugmented/poetic
+114791	proclitic/indeclform
+114795	indeclform
+114798	unaugmented/poetic
+114818	proclitic/indeclform
+indeclform
+114832	unaugmented/poetic
+114865	unaugmented
+114886	indeclform
+114905	proclitic/indeclform
+114915	indeclform
+114918	indeclform
+114924	unaugmented/poetic
+114929	proclitic/indeclform
+114931	indeclform
+114934	unaugmented
+114948	indeclform
+114984	enclitic/indeclform
+115002	unaugmented
+115017	unaugmented/poetic
+115028	unaugmented
+115032	indeclform
+115058	enclitic/indeclform
+115073	enclitic/indeclform
+115075	unaugmented/poetic
+115081	proclitic/indeclform
+115083	indeclform
+115097	indeclform
+115108	indeclform
+115118	indeclform
+115122	unaugmented/poetic
+115130	indeclform
+115160	indeclform
+115165	unaugmented
+115167	proclitic/indeclform
+comp_only
+115172	proclitic/indeclform
+indeclform
+115187	indeclform
+115193	unaugmented/poetic
+115197	proclitic/indeclform
+115204	unaugmented
+115212	proclitic/indeclform
+115226	unaugmented
+115229	proclitic/indeclform
+115250	indeclform
+115261	unaugmented/poetic
+115264	proclitic/indeclform
+115279	proclitic/indeclform
+115286	unaugmented
+115301	proclitic/indeclform
+115303	unaugmented
+115315	proclitic/indeclform
+115318	proclitic/indeclform
+115327	proclitic/indeclform
+115334	indeclform
+unaugmented
+115338	unaugmented
+115361	proclitic/indeclform
+115365	indeclform
+115367	proclitic/indeclform
+115379	indeclform
+115396	indeclform
+115403	proclitic/indeclform
+115410	enclitic/indeclform
+115413	indeclform
+115432	proclitic/indeclform
+115441	indeclform
+proclitic/indeclform
+115449	indeclform
+115466	indeclform
+115468	indeclform
+115478	proclitic/indeclform
+115482	proclitic/indeclform
+115497	syll_augment/unaugmented
+115503	proclitic/indeclform
+115537	unaugmented/poetic
+115571	indeclform
+115613	enclitic/indeclform
+115622	proclitic/indeclform
+115630	proclitic/indeclform
+115638	proclitic/indeclform
+115640	indeclform
+115646	indeclform
+115657	poetic/indeclform
+115688	enclitic/indeclform
+115700	indeclform
+115703	unaugmented
+115705	comp_only/unaugmented
+115707	enclitic/indeclform
+115728	unaugmented/poetic
+115766	indeclform
+115785	unasp_preverb
+115789	proclitic/indeclform
+indeclform
+115794	indeclform
+115797	unaugmented
+115803	unaugmented
+115805	indeclform
+115828	unaugmented/poetic
+115838	indeclform
+115842	indeclform
+indeclform
+115863	enclitic/indeclform
+115884	proclitic/indeclform
+115901	indeclform
+115903	indeclform
+115910	indeclform
+115938	redupl
+115955	unaugmented
+115972	indeclform
+115983	proclitic/indeclform
+115999	unaugmented
+116010	indeclform
+116013	proclitic/indeclform
+116016	proclitic/indeclform
+116018	indeclform
+116031	unaugmented
+116036	unaugmented
+116047	unaugmented
+116053	proclitic/indeclform
+116055	indeclform
+116058	proclitic/indeclform
+116061	unaugmented/poetic
+116066	proclitic/indeclform
+116072	indeclform
+116104	unaugmented
+116106	proclitic/indeclform
+proclitic/indeclform
+indeclform
+116115	proclitic/indeclform
+116118	indeclform
+116120	enclitic/indeclform
+116123	proclitic/indeclform
+116127	indeclform
+116138	syll_augment/unaugmented
+116148	unaugmented
+116150	proclitic/indeclform
+116152	proclitic/indeclform
+116165	enclitic/indeclform
+116173	proclitic/indeclform
+indeclform
+116177	unaugmented/poetic
+116179	unaugmented
+116186	indeclform
+116213	proclitic/indeclform
+indeclform
+116225	unaugmented
+116227	proclitic/indeclform
+proclitic/indeclform
+indeclform
+116231	unaugmented/n_infix
+116238	enclitic/indeclform
+116253	indeclform
+116256	proclitic/indeclform
+116283	enclitic/indeclform
+116321	enclitic/indeclform
+116325	proclitic/indeclform
+116327	proclitic/indeclform
+116355	proclitic/indeclform
+116366	proclitic/indeclform
+116383	enclitic/indeclform
+116391	indeclform
+116395	proclitic/indeclform
+116412	unaugmented
+116420	poetic/indeclform
+116422	unaugmented/poetic
+116427	indeclform
+116430	indeclform
+116433	unaugmented/poetic
+116463	proclitic/indeclform
+indeclform
+116471	unaugmented
+116476	unaugmented/poetic
+116478	unaugmented
+116482	indeclform
+116501	unaugmented
+116507	comp_only
+116519	indeclform
+116528	unaugmented
+116533	unaugmented/poetic
+116547	poetic
+116559	indeclform
+116580	comp_only
+indeclform
+116607	unaugmented
+116625	unaugmented
+unaugmented
+116630	unaugmented/poetic
+116650	proclitic/indeclform
+116658	proclitic/indeclform
+116662	unaugmented
+116671	proclitic/indeclform
+116721	unaugmented/poetic
+116728	indeclform
+116730	indeclform
+116755	indeclform
+indeclform
+116763	unaugmented/poetic
+116786	indeclform
+116793	indeclform
+116802	unaugmented
+116819	unaugmented
+116863	unaugmented/poetic
+116880	unaugmented/poetic
+116885	indeclform
+116906	unaugmented/poetic
+116926	indeclform
+116987	indeclform
+117033	proclitic/indeclform
+117056	proclitic/indeclform
+117064	enclitic/indeclform
+117071	proclitic/indeclform
+117108	unaugmented
+117110	unaugmented/poetic
+117114	unaugmented
+117158	indeclform
+117161	unaugmented/poetic
+117163	unaugmented
+117167	unaugmented
+117181	enclitic/indeclform
+117246	proclitic/indeclform
+117259	proclitic/indeclform
+117322	redupl
+indeclform
+117352	causal/pres_redupl
+unaugmented
+117362	unaugmented
+117371	unaugmented
+117403	indeclform
+117411	enclitic/indeclform
+117434	unaugmented
+117447	enclitic/indeclform
+117482	indeclform
+117485	unaugmented
+117493	indeclform
+117516	enclitic/indeclform
+117567	proclitic/indeclform
+117573	proclitic/indeclform
+117600	comp_only
+117602	unaugmented
+117616	poetic/indeclform
+117618	unaugmented
+117624	indeclform
+117640	unaugmented
+117651	proclitic/indeclform
+indeclform
+117672	indeclform
+117678	poetic/indeclform
+117692	unaugmented
+117713	proclitic/indeclform
+117729	proclitic/indeclform
+117740	indeclform
+117744	indeclform
+117753	unaugmented/pres_redupl
+117762	unaugmented
+117764	unaugmented
+117817	proclitic/indeclform
+indeclform
+117828	unaugmented
+117835	indeclform
+117846	indeclform
+117848	proclitic/indeclform
+117854	indeclform
+117857	indeclform
+117870	indeclform
+117874	unaugmented
+117885	proclitic/indeclform
+117893	indeclform
+117896	indeclform
+117931	enclitic/indeclform
+117942	unaugmented/poetic
+117977	unaugmented/poetic
+118046	indeclform
+118083	indeclform
+118118	enclitic/indeclform
+118138	enclitic/indeclform
+118146	indeclform
+118161	indeclform
+118205	indeclform
+118209	indeclform
+118215	proclitic/indeclform
+118230	indeclform
+118234	proclitic/indeclform
+118241	indeclform
+118264	indeclform
+118267	unaugmented/poetic
+118280	indeclform
+118284	proclitic/indeclform
+118375	poetic/indeclform
+118380	indeclform
+118390	proclitic/indeclform
+118426	syll_augment/unaugmented
+118428	unaugmented
+proclitic/indeclform
+118434	unaugmented/poetic
+118464	unaugmented
+118476	causal
+proclitic/indeclform
+118493	unaugmented
+118520	proclitic/indeclform
+118523	unaugmented/poetic
+118529	enclitic/indeclform
+118547	indeclform
+118558	indeclform
+118570	unaugmented/pres_redupl
+118574	unaugmented
+118581	unaugmented
+118612	proclitic/indeclform
+indeclform
+118618	indeclform
+118620	enclitic
+118622	unaugmented
+118638	unaugmented/poetic
+118642	unaugmented
+proclitic/indeclform
+118648	unaugmented
+118685	unaugmented
+118722	unaugmented
+118731	indeclform
+118744	unaugmented/poetic
+118751	rare
+118753	proclitic/indeclform
+118761	unaugmented
+118782	unaugmented/poetic
+118789	proclitic/indeclform
+118817	unaugmented
+118849	unaugmented/poetic
+118877	indeclform
+unaugmented
+118880	proclitic/indeclform
+118889	unaugmented
+118903	proclitic/indeclform
+118907	enclitic/indeclform
+118910	unaugmented
+118915	unaugmented/poetic
+118931	indeclform
+118944	unaugmented/poetic
+118972	indeclform
+118984	indeclform
+119045	proclitic/indeclform
+119047	proclitic/indeclform
+119049	unaugmented
+119100	indeclform
+119104	indeclform
+119107	proclitic/indeclform
+indeclform
+119110	indeclform
+119116	indeclform
+119127	unaugmented
+119143	enclitic/indeclform
+119147	comp_only
+119160	poetic/indeclform
+119201	proclitic/indeclform
+119218	proclitic/indeclform
+119297	indeclform
+119300	unaugmented/poetic
+indeclform
+unaugmented
+119333	proclitic/indeclform
+119349	indeclform
+119358	proclitic/indeclform
+119365	enclitic/indeclform
+119369	indeclform
+unaugmented/poetic
+119372	unaugmented
+119379	indeclform
+119412	proclitic/indeclform
+119435	proclitic/indeclform
+119445	unaugmented
+119473	proclitic/indeclform
+119478	proclitic/indeclform
+119480	proclitic/indeclform
+119516	unaugmented/poetic
+119533	indeclform
+119548	indeclform
+119569	proclitic/indeclform
+119575	unaugmented/poetic
+119608	indeclform
+proclitic/indeclform
+119619	unaugmented
+119637	proclitic/indeclform
+119639	indeclform
+119659	indeclform
+119680	indeclform
+119686	enclitic/indeclform
+119694	unaugmented
+119701	unaugmented
+119708	indeclform
+119719	unaugmented
+119729	pres_redupl
+119736	indeclform
+119743	unaugmented
+119762	indeclform
+119776	unaugmented/poetic
+119781	contr
+119788	enclitic/indeclform
+119793	indeclform
+119795	proclitic/indeclform
+119802	indeclform
+119815	unaugmented
+119819	unaugmented
+119823	unaugmented
+119845	enclitic/indeclform
+119858	unaugmented/poetic
+119870	syll_augment/unaugmented
+119875	unaugmented
+119881	unaugmented/poetic
+119893	proclitic/indeclform
+119934	enclitic/indeclform
+119939	indeclform
+indeclform
+119953	unaugmented
+119958	unaugmented
+119971	proclitic/indeclform
+119975	indeclform
+119988	indeclform
+120000	unaugmented
+indeclform
+120012	unaugmented/n_infix
+120018	proclitic/indeclform
+120022	proclitic/indeclform
+120026	proclitic/indeclform
+120031	proclitic/indeclform
+120034	indeclform
+120081	indeclform
+120085	unaugmented/poetic
+120092	unaugmented
+120120	proclitic/indeclform
+120124	enclitic/indeclform
+120129	indeclform
+120134	enclitic/indeclform
+120147	indeclform
+120153	indeclform
+120191	unaugmented
+120194	unaugmented
+120203	indeclform
+120210	indeclform
+120231	syll_augment/unaugmented
+120239	proclitic/indeclform
+120252	indeclform
+120254	syll_augment/unaugmented
+120263	proclitic/indeclform
+120276	indeclform
+120292	proclitic/indeclform
+120302	proclitic/indeclform
+120312	proclitic/indeclform
+indeclform
+120316	comp_only
+120322	indeclform
+unaugmented
+120344	indeclform
+120352	indeclform
+120369	enclitic/indeclform
+120373	indeclform
+120379	unaugmented/poetic
+120389	proclitic/indeclform
+120393	indeclform
+120395	unaugmented
+120411	indeclform
+120415	unaugmented
+120418	indeclform
+120422	proclitic/indeclform
+120435	unaugmented/poetic
+120437	unaugmented/poetic
+120446	proclitic/indeclform
+120474	proclitic/indeclform
+indeclform
+120485	proclitic/indeclform
+indeclform
+120492	proclitic/indeclform
+120497	proclitic/indeclform
+120506	indeclform
+120518	indeclform
+120521	comp_only
+120528	proclitic/indeclform
+120556	unaugmented/poetic
+120579	indeclform
+120584	indeclform
+120591	unaugmented
+120595	indeclform
+120601	unaugmented
+120604	unaugmented
+120613	proclitic/poetic/indeclform
+unaugmented
+indeclform
+unaugmented/poetic
+120628	indeclform
+120643	contr
+120650	unaugmented
+unaugmented
+120655	unaugmented/poetic
+120660	indeclform
+120663	unaugmented
+120665	proclitic/indeclform
+120667	unaugmented
+120669	unaugmented
+120705	proclitic/indeclform
+120722	unaugmented
+120732	unaugmented
+120737	proclitic/indeclform
+120751	unaugmented
+120757	indeclform
+120764	indeclform
+120774	proclitic/indeclform
+120787	proclitic/indeclform
+120807	proclitic/indeclform
+120814	proclitic/indeclform
+120833	indeclform
+120839	indeclform
+120847	proclitic/indeclform
+120864	indeclform
+120867	proclitic/indeclform
+120884	enclitic/indeclform
+120901	unaugmented
+120916	proclitic/indeclform
+120929	proclitic/indeclform
+120939	proclitic/indeclform
+120949	syll_augment/unaugmented
+120963	unaugmented
+120966	unaugmented
+proclitic/indeclform
+120973	indeclform
+120977	indeclform
+121000	indeclform
+121006	indeclform
+121021	unaugmented
+proclitic/indeclform
+121031	indeclform
+121040	indeclform
+121069	unaugmented
+121086	indeclform
+121098	indeclform
+121123	indeclform
+121133	indeclform
+121138	indeclform
+121140	indeclform
+121145	indeclform
+121154	unaugmented/poetic
+121171	indeclform
+121194	indeclform
+121217	proclitic/indeclform
+121237	indeclform
+121244	indeclform
+121253	indeclform
+121267	indeclform
+unaugmented
+121274	indeclform
+121289	indeclform
+121296	indeclform
+121298	comp_only
+proclitic/indeclform
+121303	indeclform
+121319	indeclform
+121349	proclitic/indeclform
+121357	proclitic/indeclform
+121365	unaugmented/poetic
+121376	unaugmented/poetic
+121383	indeclform
+121402	indeclform
+121413	unaugmented/poetic
+proclitic/indeclform
+indeclform
+121421	indeclform
+121424	proclitic/indeclform
+121434	proclitic/indeclform
+121448	indeclform
+121452	unaugmented
+121467	indeclform
+121489	proclitic/indeclform
+121495	enclitic/indeclform
+121498	enclitic/indeclform
+121500	proclitic/indeclform
+indeclform
+121510	proclitic/indeclform
+121514	comp_only/unaugmented
+121543	proclitic/indeclform
+121552	indeclform
+121558	unaugmented/poetic
+121570	unaugmented/poetic
+comp_only
+indeclform
+121576	indeclform
+121581	unaugmented
+121586	proclitic/indeclform
+indeclform
+121590	pres_redupl
+121600	pres_redupl
+121604	indeclform
+121606	causal/pres_redupl
+121608	indeclform
+121615	indeclform
+121619	indeclform
+121625	unaugmented
+121639	indeclform
+121644	comp_only
+121656	indeclform
+121671	proclitic/indeclform
+121674	unaugmented
+121689	proclitic/indeclform
+121694	indeclform
+121696	enclitic/indeclform
+121699	indeclform
+121716	causal/pres_redupl
+121720	indeclform
+121726	indeclform
+121746	indeclform
+121751	proclitic/indeclform
+121755	indeclform
+121770	indeclform
+121772	enclitic/indeclform
+121787	indeclform
+121798	redupl
+121804	unaugmented/poetic
+indeclform
+121812	proclitic/indeclform
+121815	proclitic/indeclform
+121839	indeclform
+121852	unaugmented
+121854	proclitic/indeclform
+121856	unaugmented
+121863	indeclform
+121877	unaugmented/poetic
+121894	unaugmented
+121897	indeclform
+121927	proclitic/indeclform
+121929	proclitic/indeclform
+indeclform
+121968	indeclform
+121987	proclitic/indeclform
+indeclform
+121995	proclitic/indeclform
+indeclform
+122008	proclitic/indeclform
+indeclform
+122014	indeclform
+122038	syll_augment/unaugmented
+122052	indeclform
+122079	indeclform
+122089	proclitic/indeclform
+indeclform
+122109	unaugmented
+122132	unaugmented/poetic
+122134	proclitic/indeclform
+122145	indeclform
+122165	unaugmented
+122169	unaugmented
+122184	proclitic/indeclform
+122189	proclitic/indeclform
+122191	unaugmented/poetic
+122199	proclitic/indeclform
+122202	proclitic/indeclform
+122204	unaugmented
+122210	proclitic/indeclform
+122233	unaugmented
+proclitic/indeclform
+122241	unaugmented
+122268	enclitic/indeclform
+122277	indeclform
+indeclform
+122283	proclitic/indeclform
+122288	indeclform
+122296	unaugmented
+122302	indeclform
+122304	unaugmented
+122306	indeclform
+122309	indeclform
+122314	proclitic/indeclform
+122321	indeclform
+comp_only
+122330	unaugmented
+122338	indeclform
+122340	proclitic/indeclform
+122344	proclitic/indeclform
+122351	proclitic/indeclform
+122353	poetic
+122356	unaugmented
+122365	proclitic/indeclform
+122372	unaugmented
+122379	unaugmented
+122387	proclitic/indeclform
+122394	unaugmented
+122400	indeclform
+122409	unaugmented
+122412	proclitic/indeclform
+122434	unaugmented
+122459	proclitic/indeclform
+122468	unaugmented
+122477	unaugmented
+122482	unaugmented/poetic
+122486	indeclform
+122488	proclitic/indeclform
+122491	indeclform
+unaugmented
+122494	proclitic/indeclform
+122523	indeclform
+122533	indeclform
+122535	proclitic/indeclform
+122542	unaugmented
+122544	proclitic/indeclform
+122571	proclitic/indeclform
+122590	proclitic/indeclform
+122594	proclitic/indeclform
+122608	indeclform
+122610	indeclform
+unaugmented
+122619	enclitic/indeclform
+122632	proclitic/indeclform
+122634	indeclform
+122658	unaugmented
+122666	proclitic/indeclform
+122673	unaugmented/poetic
+enclitic/indeclform
+122682	proclitic/indeclform
+122696	unaugmented
+122698	proclitic/indeclform
+122704	proclitic/indeclform
+122708	proclitic/indeclform
+122718	proclitic/indeclform
+122730	proclitic/indeclform
+122734	proclitic/indeclform
+122750	unaugmented/poetic
+122752	unaugmented
+122758	proclitic/indeclform
+122762	proclitic/indeclform
+122770	proclitic/indeclform
+unaugmented/poetic
+122774	unaugmented
+122780	unaugmented
+122783	unaugmented
+enclitic/indeclform
+122787	proclitic/indeclform
+122798	unaugmented
+122808	unaugmented/poetic
+122814	poetic
+122842	indeclform
+122857	proclitic/indeclform
+indeclform
+122870	indeclform
+122879	proclitic/indeclform
+indeclform
+122893	indeclform
+indeclform
+122897	indeclform
+122899	proclitic/indeclform
+122902	unaugmented
+122922	unaugmented/n_infix
+122924	indeclform
+122931	unaugmented
+122936	proclitic/indeclform
+122939	unaugmented
+122951	indeclform
+122959	unaugmented
+122961	proclitic/indeclform
+indeclform
+122971	comp_only
+122973	unaugmented/poetic
+122992	proclitic/indeclform
+122995	indeclform
+123007	indeclform
+123009	enclitic/indeclform
+123015	proclitic/indeclform
+123018	indeclform
+123021	unaugmented
+proclitic/indeclform
+123039	comp_only
+123047	unaugmented
+indeclform
+123075	unaugmented
+123085	unaugmented
+123098	unaugmented
+123141	proclitic/indeclform
+123150	indeclform
+123156	proclitic/indeclform
+indeclform
+123159	unaugmented
+123168	proclitic/indeclform
+123172	enclitic/indeclform
+123177	proclitic/indeclform
+123179	unaugmented
+123188	unaugmented/poetic
+123190	indeclform
+123205	indeclform
+123213	proclitic/indeclform
+123217	proclitic/indeclform
+123226	indeclform
+123228	unaugmented/poetic
+123230	proclitic/indeclform
+123242	unaugmented
+123255	unaugmented
+unaugmented
+123268	proclitic/indeclform
+123270	unaugmented/poetic
+123302	unaugmented
+123304	unaugmented/poetic
+123307	proclitic/indeclform
+123322	proclitic/indeclform
+123331	proclitic/indeclform
+123344	proclitic/indeclform
+123347	indeclform
+123353	unaugmented
+123398	unaugmented
+123408	proclitic/indeclform
+123413	unaugmented/poetic
+123417	proclitic/indeclform
+123419	unaugmented/poetic
+123423	proclitic/indeclform
+123431	proclitic/indeclform
+123441	indeclform
+unaugmented
+123456	proclitic/indeclform
+indeclform
+123461	indeclform
+123463	proclitic/indeclform
+123465	indeclform
+123467	unaugmented
+123477	proclitic/indeclform
+123487	proclitic/indeclform
+123498	unaugmented/poetic
+123508	proclitic/indeclform
+123510	indeclform
+123512	indeclform
+123514	indeclform
+proclitic/indeclform
+123519	proclitic/indeclform
+123527	proclitic/indeclform
+indeclform
+123542	unaugmented/poetic
+123553	indeclform
+123555	unaugmented/poetic
+123571	enclitic/indeclform
+123577	unaugmented/poetic
+123584	proclitic/indeclform
+123588	proclitic/indeclform
+indeclform
+123608	proclitic/indeclform
+indeclform
+123612	unaugmented/poetic
+123615	unaugmented
+123621	unaugmented
+123624	proclitic/indeclform
+123628	unaugmented
+123652	comp_only
+123660	pres_redupl
+123669	unaugmented/poetic
+123672	redupl
+proclitic/indeclform
+123675	indeclform
+123693	proclitic/indeclform
+123696	unaugmented
+123698	indeclform
+unasp_preverb
+123701	causal/pres_redupl
+123706	indeclform
+123711	proclitic/indeclform
+indeclform
+123730	proclitic/indeclform
+123750	indeclform
+123754	proclitic/indeclform
+123757	unaugmented/poetic
+123767	unaugmented/poetic
+123773	indeclform
+proclitic/indeclform
+123784	proclitic/indeclform
+123787	unaugmented/poetic
+indeclform
+123791	proclitic/indeclform
+123802	indeclform
+123805	proclitic/indeclform
+123808	unaugmented/poetic
+123815	indeclform
+123819	proclitic/indeclform
+comp_only
+123822	unaugmented/poetic
+123828	proclitic/indeclform
+indeclform
+123831	indeclform
+123836	indeclform
+123854	indeclform
+123858	indeclform
+123870	proclitic/indeclform
+indeclform
+123873	proclitic/indeclform
+123881	indeclform
+123883	unaugmented
+proclitic/indeclform
+123890	proclitic/indeclform
+123896	proclitic/indeclform
+123902	proclitic/indeclform
+123908	proclitic/indeclform
+123914	proclitic/indeclform
+123920	proclitic/indeclform
+123928	indeclform
+123970	unaugmented
+123983	indeclform
+indeclform
+123998	unaugmented
+124008	proclitic/indeclform
+124018	proclitic/indeclform
+124020	indeclform
+124024	proclitic/indeclform
+124030	indeclform
+124044	unaugmented
+124064	indeclform
+124083	unaugmented/poetic
+124085	unaugmented
+124120	proclitic/indeclform
+indeclform
+124134	proclitic/indeclform
+124137	proclitic/indeclform
+124141	indeclform
+124147	proclitic/indeclform
+124155	indeclform
+124169	unaugmented
+124176	unaugmented/poetic
+124182	proclitic/indeclform
+indeclform
+124185	proclitic/indeclform
+124187	proclitic/indeclform
+indeclform
+124213	indeclform
+124219	proclitic/indeclform
+124232	indeclform
+124245	unaugmented
+124247	unaugmented
+124254	unaugmented
+124258	unaugmented
+124267	rare
+124288	proclitic/indeclform
+124299	proclitic/indeclform
+124304	unaugmented
+124311	unaugmented
+124327	proclitic/indeclform
+124336	unaugmented
+124357	proclitic/indeclform
+124366	proclitic/indeclform
+124370	proclitic/indeclform
+124382	proclitic/indeclform
+124389	proclitic/indeclform
+124394	indeclform
+124431	unaugmented/poetic
+124433	proclitic/indeclform
+124455	unaugmented
+124462	proclitic/indeclform
+124470	proclitic/indeclform
+124490	indeclform
+124494	proclitic/indeclform
+comp_only
+124509	indeclform
+124524	indeclform
+124550	unaugmented
+124555	indeclform
+124558	proclitic/indeclform
+124560	unaugmented
+124562	proclitic/indeclform
+124594	proclitic/indeclform
+124607	indeclform
+124615	enclitic/indeclform
+124641	indeclform
+124643	unaugmented/poetic
+124653	enclitic/indeclform
+124658	indeclform
+124660	indeclform
+124687	proclitic/indeclform
+124693	proclitic/indeclform
+124701	indeclform
+unaugmented/n_infix
+124705	unaugmented
+124713	unaugmented
+124722	proclitic/indeclform
+124724	proclitic/indeclform
+124726	enclitic/indeclform
+124737	indeclform
+proclitic/indeclform
+124750	proclitic/indeclform
+124762	unaugmented/poetic
+124775	unaugmented
+124783	comp_only
+proclitic/indeclform
+124787	unaugmented
+124798	proclitic/indeclform
+124821	indeclform
+proclitic/indeclform
+124824	proclitic/indeclform
+indeclform
+124828	proclitic/indeclform
+124832	proclitic/indeclform
+124836	indeclform
+indeclform
+enclitic/indeclform
+124843	proclitic/indeclform
+124869	unaugmented
+124871	proclitic/indeclform
+124883	indeclform
+unaugmented
+124915	indeclform
+124924	indeclform
+124936	indeclform
+124943	indeclform
+124952	indeclform
+124955	indeclform
+124972	indeclform
+124980	indeclform
+124988	indeclform
+124996	proclitic/indeclform
+125000	indeclform
+125009	proclitic/indeclform
+indeclform
+125016	unaugmented
+125021	proclitic/indeclform
+indeclform
+125025	proclitic/indeclform
+125028	proclitic/indeclform
+indeclform
+125054	unaugmented
+125056	indeclform
+125060	proclitic/indeclform
+indeclform
+125073	indeclform
+125088	unaugmented
+125096	proclitic/indeclform
+indeclform
+125102	indeclform
+125132	unaugmented
+125135	unaugmented
+125139	proclitic/indeclform
+125164	proclitic/indeclform
+125166	indeclform
+125172	poetic/indeclform
+125178	proclitic/indeclform
+125180	indeclform
+125183	unaugmented/poetic
+125185	proclitic/indeclform
+125189	proclitic/indeclform
+125194	proclitic/indeclform
+125197	unaugmented
+125210	indeclform
+125218	indeclform
+125220	indeclform
+125231	indeclform
+125235	proclitic/indeclform
+125238	proclitic/indeclform
+indeclform
+125241	indeclform
+125253	proclitic/indeclform
+indeclform
+125262	proclitic/indeclform
+125273	proclitic/indeclform
+indeclform
+125279	proclitic/indeclform
+125289	proclitic/indeclform
+125294	proclitic/indeclform
+125297	unaugmented
+125304	indeclform
+125311	indeclform
+125315	indeclform
+125323	indeclform
+125331	indeclform
+125338	indeclform
+125345	indeclform
+125353	indeclform
+125362	unaugmented/poetic
+proclitic/indeclform
+indeclform
+125375	indeclform
+proclitic/indeclform
+indeclform
+125386	indeclform
+125390	proclitic/indeclform
+125395	proclitic/indeclform
+indeclform
+125398	indeclform
+125403	indeclform
+125408	indeclform
+125417	unaugmented
+125427	indeclform
+125436	unaugmented/poetic
+125442	unaugmented
+125459	unaugmented
+125476	poetic/indeclform
+125500	indeclform
+125566	proclitic/indeclform
+indeclform
+125570	proclitic/indeclform
+indeclform
+125579	proclitic/indeclform
+indeclform
+125583	proclitic/indeclform
+indeclform
+125590	indeclform
+125595	indeclform
+125602	indeclform
+125616	proclitic/indeclform
+indeclform
+125627	proclitic/indeclform
+125647	proclitic/indeclform
+125653	proclitic/indeclform
+125665	proclitic/indeclform
+125689	indeclform
+125694	unaugmented/poetic
+125712	unaugmented/poetic
+125756	indeclform
+125759	indeclform
+125772	proclitic/indeclform
+125778	proclitic/indeclform
+125826	unaugmented/poetic
+125829	indeclform
+125838	unaugmented/poetic
+125845	proclitic/indeclform
+125855	unaugmented/poetic
+125857	proclitic/indeclform
+125861	indeclform
+125864	unaugmented/poetic
+125866	indeclform
+125879	unaugmented/poetic
+125890	indeclform
+125917	indeclform
+125922	indeclform
+125954	proclitic/indeclform
+indeclform
+125974	proclitic/indeclform
+125977	proclitic/indeclform
+125987	unaugmented
+126001	poetic/indeclform
+126004	unaugmented
+126016	indeclform
+126021	enclitic/indeclform
+indeclform
+126025	unaugmented/poetic
+126027	proclitic/indeclform
+126036	unaugmented
+proclitic/indeclform
+126041	proclitic/indeclform
+126060	indeclform
+126068	unaugmented
+126075	indeclform
+126097	indeclform
+126099	comp_only
+126101	unaugmented
+126105	indeclform
+126110	indeclform
+126123	indeclform
+126130	proclitic/indeclform
+126135	proclitic/indeclform
+126138	proclitic/indeclform
+126143	proclitic/indeclform
+indeclform
+126148	indeclform
+indeclform
+126156	unaugmented
+126158	indeclform
+126163	unaugmented/poetic
+126172	proclitic/indeclform
+126178	unaugmented/poetic
+126185	proclitic/indeclform
+126190	unaugmented/poetic
+126202	unaugmented/poetic
+126217	proclitic/indeclform
+indeclform
+126225	unaugmented/poetic
+126235	proclitic/indeclform
+indeclform
+indeclform
+126239	proclitic/indeclform
+indeclform
+126261	unaugmented/poetic
+126274	unaugmented/poetic
+126294	indeclform
+126298	unaugmented/poetic
+126306	unaugmented/poetic
+126324	proclitic/indeclform
+126327	indeclform
+126330	unaugmented/poetic
+proclitic/indeclform
+indeclform
+126349	proclitic/indeclform
+126352	indeclform
+126390	redupl
+126396	proclitic/indeclform
+indeclform
+126400	indeclform
+126404	proclitic/indeclform
+indeclform
+126407	proclitic/indeclform
+126411	proclitic/indeclform
+126416	proclitic/indeclform
+indeclform
+126424	indeclform
+126427	unaugmented/poetic/redupl
+126448	unaugmented/poetic
+126451	proclitic/indeclform
+126456	proclitic/indeclform
+indeclform
+126470	proclitic/indeclform
+indeclform
+126479	proclitic/indeclform
+126482	proclitic/indeclform
+indeclform
+126489	proclitic/indeclform
+126492	proclitic/indeclform
+126495	indeclform
+126502	proclitic/indeclform
+126514	proclitic/indeclform
+indeclform
+126521	proclitic/indeclform
+126525	indeclform
+126542	proclitic/indeclform
+126610	unaugmented/poetic
+126623	proclitic/indeclform
+126628	indeclform
+126631	unaugmented/poetic
+126644	indeclform
+126647	unaugmented/poetic
+126666	unaugmented/poetic
+126673	indeclform
+126675	indeclform
+126679	indeclform
+126698	unaugmented/poetic
+126710	proclitic/indeclform
+indeclform
+126715	proclitic/indeclform
+indeclform
+126719	proclitic/indeclform
+indeclform
+126727	unaugmented
+126732	indeclform
+126737	enclitic/indeclform
+126748	enclitic/indeclform
+126760	indeclform
+126763	unaugmented/poetic
+126769	indeclform
+126772	unaugmented/poetic
+126785	unaugmented/poetic
+126789	proclitic/indeclform
+126794	indeclform
+126816	indeclform
+126824	indeclform
+126827	indeclform
+126829	proclitic/indeclform
+indeclform
+126847	unaugmented/poetic
+126854	indeclform
+126869	unaugmented/poetic
+126873	indeclform
+126901	indeclform
+126903	indeclform
+126938	indeclform
+126955	unaugmented/poetic
+126963	unaugmented/poetic
+126976	unaugmented/poetic
+126982	proclitic/indeclform
+indeclform
+126992	unaugmented/poetic
+126996	indeclform
+127004	proclitic/indeclform
+indeclform
+127007	proclitic/indeclform
+indeclform
+127022	unaugmented
+127038	proclitic/indeclform
+127044	unaugmented
+127047	enclitic/indeclform
+127056	proclitic/indeclform
+indeclform
+127072	unaugmented/poetic
+127082	proclitic/indeclform
+127095	proclitic/indeclform
+127109	proclitic/indeclform
+127114	unaugmented
+127125	indeclform
+127134	indeclform
+127142	proclitic/indeclform
+127152	enclitic/indeclform
+127158	proclitic/indeclform
+127172	indeclform
+127174	unaugmented
+127184	proclitic/indeclform
+127194	proclitic/indeclform
+127239	indeclform
+127247	unaugmented
+127258	indeclform
+127265	indeclform
+127275	indeclform
+127280	proclitic/indeclform
+127293	indeclform
+unaugmented
+127307	proclitic/indeclform
+127309	unaugmented
+127317	indeclform
+127320	proclitic/indeclform
+127336	proclitic/indeclform
+127341	comp_only
+127349	unaugmented/poetic
+127387	unaugmented
+127389	indeclform
+127391	indeclform
+127421	unaugmented
+127428	unaugmented/poetic
+127452	indeclform
+127467	unaugmented
+127480	unaugmented/poetic
+127484	enclitic/indeclform
+127499	proclitic/indeclform
+127509	indeclform
+127516	indeclform
+127520	indeclform
+127523	unaugmented/poetic
+127529	indeclform
+127540	unaugmented/n_infix
+127542	enclitic/indeclform
+127552	unaugmented/poetic
+127596	unaugmented
+127610	proclitic/indeclform
+127646	unaugmented
+127655	indeclform
+127668	unaugmented
+syll_augment/unaugmented
+127683	proclitic/indeclform
+indeclform
+127688	proclitic/indeclform
+127704	unaugmented
+127714	enclitic/indeclform
+proclitic/indeclform
+127741	unaugmented
+127748	unaugmented
+127764	proclitic/indeclform
+127789	unaugmented/poetic
+127833	indeclform
+127837	unaugmented
+127849	enclitic/indeclform
+127864	proclitic/indeclform
+127869	proclitic/indeclform
+127871	unaugmented/poetic
+127896	proclitic/indeclform
+127906	indeclform
+127914	comp_only
+127919	proclitic/indeclform
+127931	unaugmented
+127960	indeclform
+127963	proclitic/indeclform
+127972	indeclform
+127981	unaugmented/poetic
+127993	enclitic/indeclform
+128001	indeclform
+proclitic/indeclform
+128014	proclitic/indeclform
+128018	indeclform
+128035	indeclform
+comp_only
+128059	indeclform
+128069	proclitic/indeclform
+indeclform
+128078	indeclform
+128084	indeclform
+unaugmented
+128148	proclitic/indeclform
+128155	proclitic/indeclform
+128158	proclitic/indeclform
+128168	unaugmented/poetic
+128174	proclitic/indeclform
+128176	proclitic/indeclform
+128186	proclitic/indeclform
+128227	unaugmented/poetic
+128235	proclitic/indeclform
+128251	indeclform
+128259	proclitic/indeclform
+unaugmented/poetic
+128262	proclitic/indeclform
+128265	enclitic/indeclform
+128268	proclitic/indeclform
+128272	enclitic/indeclform
+128277	proclitic/indeclform
+proclitic/indeclform
+128282	indeclform
+128285	proclitic/indeclform
+128291	proclitic/indeclform
+128308	indeclform
+128311	proclitic/indeclform
+128315	proclitic/indeclform
+128328	proclitic/indeclform
+128349	unaugmented
+128355	unaugmented
+128373	indeclform
+128376	indeclform
+128379	indeclform
+128401	enclitic/indeclform
+128417	indeclform
+128420	proclitic/indeclform
+128424	indeclform
+128431	proclitic/indeclform
+128437	proclitic/indeclform
+128443	unaugmented/poetic
+unaugmented
+indeclform
+128486	unaugmented
+128489	unaugmented/poetic
+128499	enclitic/indeclform
+128504	indeclform
+128514	unaugmented
+128525	unaugmented
+128530	indeclform
+128534	indeclform
+128547	indeclform
+128554	unaugmented
+128559	proclitic/indeclform
+indeclform
+128563	unaugmented/poetic
+128565	indeclform
+128568	proclitic/indeclform
+128572	indeclform
+128584	unaugmented
+128591	unaugmented
+128593	proclitic/indeclform
+128606	unaugmented
+128612	indeclform
+128663	indeclform
+128666	proclitic/indeclform
+128670	indeclform
+128680	unaugmented
+128682	unaugmented
+128700	proclitic/indeclform
+128713	indeclform
+128717	unaugmented
+128721	unaugmented/poetic
+128732	indeclform
+128736	comp_only
+128763	unaugmented
+128766	proclitic/indeclform
+128782	indeclform
+128800	unaugmented
+128810	indeclform
+128813	proclitic/indeclform
+128817	indeclform
+128822	unaugmented/poetic
+128828	proclitic/indeclform
+128832	enclitic/indeclform
+128837	unaugmented
+128839	indeclform
+128855	indeclform
+128858	indeclform
+128863	unaugmented
+128866	unaugmented/poetic
+128872	indeclform
+128882	unaugmented
+128905	unaugmented
+128922	indeclform
+128926	proclitic/indeclform
+128940	unaugmented
+128943	indeclform
+128946	indeclform
+128949	indeclform
+128955	proclitic/indeclform
+128966	indeclform
+128970	proclitic/indeclform
+128983	indeclform
+poetic/indeclform
+late
+128994	indeclform
+129006	proclitic/indeclform
+129009	proclitic/indeclform
+indeclform
+129012	indeclform
+129015	proclitic/indeclform
+129040	indeclform
+129043	proclitic/indeclform
+129047	indeclform
+129051	indeclform
+129055	unaugmented/poetic
+129060	unaugmented
+129062	indeclform
+129071	proclitic/indeclform
+129076	indeclform
+129078	indeclform
+129087	comp_only
+129089	unaugmented/poetic
+129093	enclitic/indeclform
+129105	late
+proclitic/indeclform
+129114	late
+129117	unaugmented
+129121	proclitic/indeclform
+129123	indeclform
+129126	indeclform
+129132	unaugmented/poetic
+proclitic/indeclform
+129142	proclitic/indeclform
+129158	unaugmented
+129162	comp_only
+129167	comp_only
+129182	indeclform
+129185	proclitic/indeclform
+129189	indeclform
+129210	unaugmented
+129212	indeclform
+129216	comp_only
+129241	unaugmented/pres_redupl
+129255	unaugmented
+129258	unaugmented
+129264	comp_only
+129283	unaugmented
+129295	unaugmented/poetic
+129315	unaugmented
+129318	proclitic/indeclform
+indeclform
+129322	unaugmented/poetic
+129331	unaugmented
+129337	unaugmented/poetic
+129345	unaugmented/poetic
+129350	indeclform
+129357	unaugmented/poetic
+129364	unaugmented
+129376	indeclform
+129379	proclitic/indeclform
+129383	indeclform
+129393	indeclform
+129398	unaugmented/poetic
+unaugmented
+129401	indeclform
+129406	proclitic/indeclform
+129412	indeclform
+129417	proclitic/indeclform
+129446	proclitic/indeclform
+129461	unaugmented/poetic
+129476	indeclform
+129492	unaugmented
+129514	poetic
+129521	unaugmented
+129527	unaugmented/poetic
+129534	unaugmented/poetic
+proclitic/indeclform
+indeclform
+129539	proclitic/indeclform
+129548	proclitic/indeclform
+indeclform
+129569	proclitic/indeclform
+indeclform
+129573	indeclform
+129575	indeclform
+129579	proclitic/indeclform
+129583	unaugmented/poetic
+129588	unaugmented
+129590	indeclform
+129597	proclitic/indeclform
+129603	proclitic/indeclform
+indeclform
+129633	poetic
+129639	poetic
+129644	proclitic/indeclform
+129669	comp_only
+129672	indeclform
+129674	indeclform
+129678	unaugmented/poetic
+129680	comp_only
+129683	proclitic/indeclform
+129689	proclitic/indeclform
+129724	proclitic/indeclform
+129734	indeclform
+129742	indeclform
+129777	indeclform
+129781	unaugmented
+129784	indeclform
+129787	indeclform
+129789	indeclform
+129797	enclitic/indeclform
+poetic
+129801	comp_only
+129809	indeclform
+129821	comp_only
+129826	proclitic/indeclform
+129838	unaugmented
+129845	indeclform
+129878	proclitic/indeclform
+129883	poetic
+129894	proclitic/indeclform
+indeclform
+129902	unasp_preverb
+129905	poetic
+129918	poetic
+129942	indeclform
+129945	poetic
+129955	proclitic/indeclform
+129964	proclitic/indeclform
+129970	proclitic/indeclform
+129978	proclitic/indeclform
+129980	indeclform
+129984	unaugmented/poetic
+129987	indeclform
+130007	indeclform
+130011	enclitic/indeclform
+poetic
+130015	unaugmented
+comp_only
+130039	proclitic/indeclform
+130044	poetic
+130052	indeclform
+130054	proclitic/indeclform
+indeclform
+130070	indeclform
+130126	unaugmented
+130135	proclitic/indeclform
+indeclform
+130143	unasp_preverb
+130152	indeclform
+proclitic/indeclform
+130158	indeclform
+130161	indeclform
+130164	indeclform
+130166	indeclform
+130169	indeclform
+unaugmented
+130172	indeclform
+unaugmented
+130183	indeclform
+130189	enclitic/indeclform
+130191	unaugmented
+130213	proclitic/indeclform
+130259	indeclform
+130306	proclitic/indeclform
+130312	proclitic/indeclform
+130314	proclitic/indeclform
+130359	contr/unasp_preverb
+130381	proclitic/indeclform
+130384	proclitic/indeclform
+130387	proclitic/indeclform
+130402	unasp_preverb
+130413	unaugmented/poetic
+130436	comp_only/unaugmented
+130463	enclitic/indeclform
+130467	enclitic/indeclform
+130470	enclitic/indeclform
+130473	proclitic/indeclform
+130493	proclitic/indeclform
+130497	indeclform
+130499	unaugmented/poetic
+130501	proclitic/indeclform
+130504	enclitic/indeclform
+130508	unaugmented
+130512	proclitic/indeclform
+130526	proclitic/indeclform
+130540	enclitic/indeclform
+130545	enclitic/indeclform
+130548	enclitic/indeclform
+130551	enclitic/indeclform
+130554	enclitic/indeclform
+130564	indeclform
+130586	comp_only
+130600	indeclform
+130602	indeclform
+130626	unaugmented
+130651	unaugmented
+130654	unaugmented/poetic
+130666	redupl
+130681	indeclform
+130686	unaugmented
+130688	unaugmented/poetic
+130692	comp_only
+130780	redupl
+130794	comp_only
+130798	comp_only
+130806	proclitic/indeclform
+130815	indeclform
+130817	indeclform
+130820	indeclform
+130823	indeclform
+130826	indeclform
+130830	enclitic/indeclform
+130844	unaugmented
+comp_only
+130849	indeclform
+130854	indeclform
+130858	indeclform
+130861	indeclform
+unaugmented
+130864	indeclform
+130867	indeclform
+130870	indeclform
+unaugmented
+130873	indeclform
+130876	indeclform
+130878	indeclform
+130896	enclitic/indeclform
+130902	unaugmented/n_infix
+130905	enclitic/indeclform
+130915	syll_augment/unaugmented
+130919	enclitic/indeclform
+130934	proclitic/indeclform
+indeclform
+130942	comp_only
+130946	unaugmented/poetic
+130953	proclitic/indeclform
+indeclform
+130986	indeclform
+131004	unaugmented
+131018	proclitic/indeclform
+indeclform
+131021	proclitic/indeclform
+131028	proclitic/indeclform
+comp_only
+131031	unaugmented/poetic
+131049	unaugmented
+131066	unaugmented
+131068	comp_only
+131085	comp_only
+131087	unaugmented/poetic
+131117	enclitic/indeclform
+131120	enclitic/indeclform
+131139	proclitic/indeclform
+131169	proclitic/indeclform
+131192	proclitic/indeclform
+131195	indeclform
+131217	proclitic/indeclform
+131268	unaugmented
+131285	indeclform
+131293	indeclform
+131303	proclitic/indeclform
+131346	indeclform
+131364	proclitic/indeclform
+131393	proclitic/indeclform
+131396	enclitic/indeclform
+131426	unaugmented/poetic
+131429	comp_only
+131446	proclitic/indeclform
+131448	unaugmented
+131453	proclitic/indeclform
+131458	enclitic/indeclform
+131468	comp_only
+131477	indeclform
+131491	proclitic/indeclform
+131496	indeclform
+131499	proclitic/indeclform
+131505	proclitic/indeclform
+131509	enclitic/indeclform
+131512	proclitic/indeclform
+131518	proclitic/indeclform
+131522	indeclform
+131527	proclitic/indeclform
+131543	proclitic/indeclform
+131547	indeclform
+131550	redupl
+131568	proclitic/indeclform
+131574	indeclform
+131576	indeclform
+131604	comp_only
+131606	unaugmented/poetic
+131608	indeclform
+131622	indeclform
+131624	indeclform
+131629	enclitic/indeclform
+131632	enclitic/indeclform
+131667	proclitic/indeclform
+131687	proclitic/indeclform
+131726	indeclform
+131731	proclitic/indeclform
+indeclform
+131737	proclitic/indeclform
+131750	proclitic/indeclform
+131754	enclitic/indeclform
+131758	proclitic/indeclform
+131761	proclitic/indeclform
+131776	indeclform
+131779	indeclform
+131781	indeclform
+131784	indeclform
+131787	indeclform
+131790	indeclform
+131793	indeclform
+131795	indeclform
+131837	indeclform
+131847	proclitic/indeclform
+131851	enclitic/indeclform
+131854	proclitic/indeclform
+131859	proclitic/indeclform
+131914	indeclform
+131947	proclitic/indeclform
+indeclform
+131960	indeclform
+proclitic/indeclform
+131967	indeclform
+proclitic/indeclform
+131974	indeclform
+proclitic/indeclform
+131982	proclitic/indeclform
+131998	unaugmented/poetic
+proclitic/indeclform
+132003	unaugmented
+132007	indeclform
+132017	unaugmented/poetic
+132026	proclitic/indeclform
+132064	proclitic/indeclform
+indeclform
+132070	proclitic/indeclform
+132086	proclitic/indeclform
+indeclform
+132090	proclitic/indeclform
+132098	indeclform
+132107	comp_only
+132130	unaugmented/poetic
+132137	proclitic/indeclform
+132145	unaugmented
+132172	comp_only
+132189	comp_only
+132200	redupl
+132217	redupl
+132252	proclitic/indeclform
+132265	unaugmented/poetic
+132267	unaugmented
+132323	indeclform
+132332	enclitic/indeclform
+132348	enclitic/indeclform
+132368	unaugmented/poetic
+132370	proclitic/indeclform
+132402	proclitic/indeclform
+132408	enclitic/indeclform
+132412	proclitic/indeclform
+132427	proclitic/indeclform
+indeclform
+132435	enclitic/indeclform
+132442	indeclform
+132446	indeclform
+132448	indeclform
+132452	indeclform
+132454	indeclform
+unaugmented
+132467	proclitic/indeclform
+indeclform
+132472	indeclform
+132491	enclitic/indeclform
+poetic
+132495	enclitic/indeclform
+comp_only
+132498	unaugmented/poetic
+132504	unaugmented
+132506	indeclform
+132511	indeclform
+132536	indeclform
+132541	indeclform
+unaugmented
+132584	unaugmented/poetic
+132586	proclitic/indeclform
+indeclform
+132591	indeclform
+132596	proclitic/indeclform
+indeclform
+132616	proclitic/indeclform
+indeclform
+132624	indeclform
+132626	unasp_preverb
+132639	proclitic/indeclform
+132652	proclitic/indeclform
+indeclform
+132674	indeclform
+132694	comp_only
+132706	late
+132715	indeclform
+132717	proclitic/indeclform
+132734	indeclform
+132747	unaugmented/poetic
+132759	proclitic/indeclform
+indeclform
+132765	enclitic/indeclform
+132778	enclitic/indeclform
+132789	proclitic/indeclform
+indeclform
+132818	enclitic/indeclform
+132828	proclitic/indeclform
+indeclform
+132834	indeclform
+132837	indeclform
+132840	indeclform
+132843	unaugmented/poetic
+132846	indeclform
+132861	comp_only
+132863	unaugmented/poetic
+132888	unaugmented
+132894	unaugmented
+132897	enclitic/indeclform
+proclitic/indeclform
+132963	unaugmented
+132968	comp_only
+132983	proclitic/indeclform
+132991	indeclform
+132997	indeclform
+133003	unasp_preverb
+133036	unaugmented/poetic
+133054	unaugmented/poetic
+unaugmented
+syll_augment/unaugmented
+133078	unaugmented/poetic
+133085	enclitic/indeclform
+133088	proclitic/indeclform
+unaugmented/poetic
+133094	proclitic/indeclform
+133118	proclitic/indeclform
+133123	indeclform
+133131	unaugmented/poetic
+indeclform
+133136	unaugmented
+133139	indeclform
+133145	indeclform
+133149	indeclform
+133154	indeclform
+133166	unaugmented
+133197	proclitic/indeclform
+indeclform
+133217	indeclform
+133229	enclitic/indeclform
+133234	indeclform
+133240	proclitic/indeclform
+indeclform
+133266	proclitic/indeclform
+133271	proclitic/indeclform
+133276	indeclform
+133279	indeclform
+133286	unaugmented/poetic
+unaugmented
+133299	proclitic/indeclform
+133306	unaugmented
+indeclform
+133309	comp_only
+133317	proclitic/indeclform
+133323	unaugmented/poetic
+133326	indeclform
+133328	indeclform
+133348	comp_only
+133359	indeclform
+133361	indeclform
+133365	comp_only
+133367	unaugmented
+133376	indeclform
+133381	unaugmented
+133394	unaugmented
+133398	indeclform
+133401	unaugmented
+133412	unaugmented
+133430	unaugmented
+133433	unaugmented
+133444	indeclform
+133455	indeclform
+133466	unaugmented
+indeclform
+133474	indeclform
+133479	unaugmented
+133484	unaugmented
+133527	comp_only
+133535	proclitic/indeclform
+133540	proclitic/indeclform
+133545	indeclform
+133549	proclitic/indeclform
+133552	proclitic/indeclform
+133560	comp_only
+133564	comp_only
+133584	enclitic/indeclform
+133591	proclitic/indeclform
+133600	enclitic/indeclform
+133602	indeclform
+133605	poetic/indeclform
+133613	indeclform
+133616	indeclform
+133619	proclitic/indeclform
+indeclform
+133633	proclitic/indeclform
+133636	unaugmented/poetic
+133656	proclitic/indeclform
+133668	indeclform
+133674	n_infix
+indeclform
+133696	indeclform
+133701	unaugmented
+133709	indeclform
+133718	proclitic/indeclform
+133725	unaugmented/poetic
+133735	comp_only/unaugmented/poetic
+133737	indeclform
+133747	unaugmented
+133751	unaugmented/poetic
+133754	unaugmented/poetic
+proclitic/indeclform
+indeclform
+133763	proclitic/indeclform
+133767	comp_only
+133771	comp_only
+133791	enclitic/indeclform
+133794	unaugmented/poetic
+133809	indeclform
+133814	enclitic/indeclform
+133819	unaugmented/poetic
+133833	enclitic/indeclform
+133835	enclitic/indeclform
+proclitic/indeclform
+133850	indeclform
+133877	unaugmented
+133879	proclitic/indeclform
+133891	unaugmented
+133893	proclitic/indeclform
+133896	indeclform
+133909	indeclform
+133933	indeclform
+133941	unaugmented
+133943	proclitic/indeclform
+indeclform
+133968	indeclform
+134005	redupl
+134007	unaugmented
+134018	unaugmented/poetic
+134023	indeclform
+134047	proclitic/indeclform
+indeclform
+134059	unaugmented
+134061	proclitic/indeclform
+134067	unaugmented/poetic
+134070	proclitic/indeclform
+134080	unaugmented
+134089	unaugmented/poetic
+134102	unaugmented/poetic
+134111	unaugmented/poetic
+134121	indeclform
+134154	indeclform
+134159	comp_only
+134162	indeclform
+134178	proclitic/indeclform
+indeclform
+134183	enclitic/indeclform
+134186	enclitic/indeclform
+134193	unaugmented
+134201	indeclform
+134222	unaugmented/poetic
+134239	unaugmented/poetic
+134266	unaugmented
+134271	unaugmented
+134280	unaugmented/poetic
+134310	unaugmented
+134330	proclitic/indeclform
+134333	indeclform
+unaugmented
+134337	indeclform
+proclitic/indeclform
+134350	unaugmented
+134367	proclitic/indeclform
+134424	proclitic/indeclform
+134428	enclitic/indeclform
+134437	unaugmented/poetic
+134463	unaugmented
+134466	indeclform
+134520	indeclform
+134527	unaugmented
+134540	unaugmented
+134550	proclitic/indeclform
+134558	indeclform
+134565	unaugmented/poetic
+134576	unaugmented/poetic
+134581	proclitic/indeclform
+134588	indeclform
+134626	unaugmented
+134647	indeclform
+134659	indeclform
+134661	indeclform
+134671	unaugmented
+134674	indeclform
+134677	comp_only
+134679	unaugmented/poetic
+134685	unaugmented
+134692	indeclform
+134702	proclitic/indeclform
+134713	enclitic/indeclform
+134725	indeclform
+134744	unaugmented/poetic
+134747	unaugmented
+134763	enclitic/indeclform
+134769	enclitic/indeclform
+134775	unaugmented
+134784	proclitic/indeclform
+134791	unaugmented/poetic
+134803	indeclform
+134820	unaugmented
+proclitic/indeclform
+134825	unaugmented
+134828	indeclform
+134842	indeclform
+134844	indeclform
+134877	syll_augment/unaugmented
+134885	unaugmented
+134893	unaugmented
+134903	indeclform
+134907	unaugmented/poetic
+134926	enclitic/indeclform
+134946	unaugmented/poetic
+134967	indeclform
+134976	enclitic/indeclform
+134978	unaugmented
+134995	unaugmented/poetic
+135015	indeclform
+135018	indeclform
+135027	unaugmented
+135029	proclitic/indeclform
+135036	unaugmented
+135047	indeclform
+135068	enclitic/indeclform
+135079	indeclform
+135081	indeclform
+135083	indeclform
+indeclform
+135096	indeclform
+135099	indeclform
+135103	unaugmented/poetic
+135122	proclitic/indeclform
+135130	unaugmented
+135145	indeclform
+135149	enclitic/indeclform
+135152	unaugmented/poetic
+135154	indeclform
+135159	indeclform
+135161	indeclform
+135163	indeclform
+135184	indeclform
+135193	proclitic/indeclform
+135200	indeclform
+135214	unaugmented
+135221	unaugmented
+135229	indeclform
+135232	enclitic/indeclform
+135240	enclitic/indeclform
+135291	indeclform
+135296	proclitic/indeclform
+135302	indeclform
+135305	indeclform
+135308	proclitic/indeclform
+indeclform
+135315	unaugmented
+135328	proclitic/indeclform
+135344	contr
+135347	proclitic/indeclform
+135360	proclitic/indeclform
+135377	enclitic/indeclform
+135381	enclitic/indeclform
+135406	indeclform
+135408	indeclform
+135411	indeclform
+135413	indeclform
+135419	indeclform
+135423	enclitic/indeclform
+135468	unaugmented
+135508	indeclform
+135517	unaugmented/poetic
+135520	indeclform
+135523	indeclform
+135527	unaugmented/poetic
+135534	enclitic/indeclform
+135537	enclitic/indeclform
+135556	indeclform
+135558	indeclform
+135560	indeclform
+135569	proclitic/indeclform
+135632	indeclform
+135634	indeclform
+135636	proclitic/indeclform
+135640	enclitic/indeclform
+135642	indeclform
+135644	proclitic/indeclform
+135660	enclitic/indeclform
+135663	enclitic/indeclform
+135666	enclitic/indeclform
+135683	proclitic/indeclform
+135696	indeclform
+135716	proclitic/indeclform
+135727	proclitic/indeclform
+135736	proclitic/indeclform
+135745	proclitic/indeclform
+135756	proclitic/indeclform
+135760	enclitic/indeclform
+135764	enclitic/indeclform
+135769	proclitic/indeclform
+135775	indeclform
+135778	proclitic/indeclform
+135795	proclitic/indeclform
+135800	proclitic/indeclform
+indeclform
+135805	indeclform
+135808	indeclform
+unaugmented
+135811	indeclform
+135814	unaugmented/poetic
+135833	proclitic/indeclform
+135862	unaugmented
+enclitic/indeclform
+135865	enclitic/indeclform
+poetic
+135869	indeclform
+135874	indeclform
+135876	indeclform
+135879	indeclform
+135891	unaugmented
+indeclform
+135896	enclitic/indeclform
+135899	enclitic/indeclform
+135902	enclitic/indeclform
+135905	enclitic/indeclform
+135909	proclitic/indeclform
+135914	proclitic/indeclform
+135919	proclitic/indeclform
+135922	unaugmented/poetic
+135935	unaugmented
+135948	indeclform
+135964	indeclform
+135974	enclitic/indeclform
+135987	enclitic/indeclform
+135991	unaugmented/poetic
+136004	unaugmented
+136018	indeclform
+136021	indeclform
+136049	proclitic/indeclform
+136054	enclitic/indeclform
+136089	unaugmented/poetic
+136091	indeclform
+136093	indeclform
+proclitic/indeclform
+indeclform
+136115	proclitic/indeclform
+136118	indeclform
+136124	proclitic/indeclform
+136133	unaugmented
+136139	unaugmented/poetic
+136164	proclitic/indeclform
+indeclform
+136169	proclitic/indeclform
+136178	proclitic/indeclform
+136188	unaugmented/poetic
+136221	unaugmented/poetic
+136228	indeclform
+136240	unaugmented
+136249	unaugmented/poetic
+136257	indeclform
+136259	comp_only
+136261	proclitic/indeclform
+136269	unaugmented
+136278	enclitic/indeclform
+136287	proclitic/indeclform
+136290	enclitic/indeclform
+136293	proclitic/indeclform
+136300	unaugmented
+136309	indeclform
+136364	contr/unasp_preverb
+136370	indeclform
+136374	indeclform
+136409	unaugmented/poetic
+136415	unaugmented/poetic
+136442	enclitic/indeclform
+136450	indeclform
+136454	indeclform
+136456	indeclform
+136464	proclitic/indeclform
+136481	unaugmented/poetic
+136489	indeclform
+136495	indeclform
+136508	indeclform
+136510	indeclform
+proclitic/indeclform
+136530	proclitic/indeclform
+indeclform
+136579	unaugmented/poetic
+136603	indeclform
+136606	comp_only
+136608	indeclform
+136621	unaugmented
+136628	comp_only
+136644	enclitic/indeclform
+136649	proclitic/indeclform
+136653	indeclform
+136658	indeclform
+136661	unaugmented
+136663	proclitic/indeclform
+136673	unaugmented
+136675	proclitic/indeclform
+136681	indeclform
+136702	indeclform
+136711	proclitic/indeclform
+136726	unaugmented
+136735	indeclform
+136740	indeclform
+136759	unaugmented/poetic
+136761	proclitic/indeclform
+136764	indeclform
+136776	indeclform
+136779	unaugmented/poetic
+136802	unaugmented
+136823	indeclform
+136827	syll_augment/unaugmented
+136831	indeclform
+136842	enclitic/indeclform
+136849	syll_augment/unaugmented
+136858	indeclform
+136864	indeclform
+136910	proclitic/indeclform
+136946	unaugmented/poetic
+136949	unaugmented
+136960	proclitic/indeclform
+136981	unaugmented/poetic
+136986	unaugmented/poetic
+136993	proclitic/indeclform
+137014	indeclform
+137062	unaugmented/poetic
+137066	unaugmented
+137080	indeclform
+137095	indeclform
+137127	indeclform
+137134	indeclform
+137141	enclitic/indeclform
+137190	enclitic/indeclform
+137195	indeclform
+137205	indeclform
+137211	proclitic/indeclform
+137218	proclitic/indeclform
+137234	indeclform
+137240	unaugmented
+137247	indeclform
+137249	unaugmented
+137251	unaugmented/poetic
+137262	indeclform
+137269	enclitic/indeclform
+137280	enclitic/indeclform
+137298	unaugmented
+137310	rare
+137319	enclitic/indeclform
+137321	proclitic/indeclform
+indeclform
+137335	proclitic/indeclform
+137342	unaugmented/poetic
+137346	proclitic/indeclform
+137359	unaugmented
+unaugmented
+137365	unaugmented/pres_redupl
+137370	indeclform
+137373	unaugmented
+137388	unaugmented/poetic
+137392	proclitic/indeclform
+137396	enclitic/indeclform
+137412	comp_only
+137427	unaugmented
+137443	syll_augment/unaugmented
+137446	enclitic/indeclform
+137468	indeclform
+137471	proclitic/indeclform
+137513	unaugmented
+137532	indeclform
+137580	unaugmented/poetic
+137583	proclitic/indeclform
+137599	indeclform
+137605	enclitic/indeclform
+137612	indeclform
+137628	enclitic/indeclform
+137631	enclitic/indeclform
+137634	enclitic/indeclform
+137637	enclitic/indeclform
+137640	enclitic/indeclform
+137655	indeclform
+137662	indeclform
+137678	indeclform
+137689	unaugmented
+137697	unaugmented
+137700	indeclform
+137723	proclitic/indeclform
+indeclform
+137747	unaugmented
+137758	proclitic/indeclform
+indeclform
+137773	indeclform

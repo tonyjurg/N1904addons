@@ -11,5 +11,22 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-05-29T14:49:05+00:00Z
+@dateWritten=2025-06-01T21:37:14+00:00Z
 
+11994	e)lai
+14204	e)lai
+16185	e)lai
+25434	e)lai
+26821	e)lai
+27825	e)lai
+42922	w(=sin
+44695	e)lai
+44807	e)lai
+46274	e)lai
+46880	e)lai
+68218	a)llac
+78139	e)r
+82086	parain
+104357	lac
+109819	a)nti
+121654	katalal

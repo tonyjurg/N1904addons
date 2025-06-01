@@ -11,5 +11,21 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-05-29T14:49:05+00:00Z
+@dateWritten=2025-06-01T21:37:14+00:00Z
 
+11994	indicative
+14204	indicative
+16185	indicative
+25434	indicative
+26821	indicative
+27825	indicative
+42922	subjunctive
+44695	indicative
+44807	indicative
+46274	indicative
+46880	indicative
+78139	participle
+82086	subjunctive
+104357	indicative
+109819	participle
+121654	participle
