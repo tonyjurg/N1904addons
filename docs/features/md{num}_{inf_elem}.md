@@ -82,7 +82,7 @@ The labels {num} and {inf_elem} are placeholders, which stand for:
       <td>morph_codes</td>
       <td><code>str</code></td>
       <td>List of morp codes provided by Morpheus</td>
-      <td><code>article</code> <code>os_ou/os_ou</code></td>
+      <td></td>
     </tr>
     <tr>
       <td>morph_flags</td>
@@ -94,74 +94,74 @@ The labels {num} and {inf_elem} are placeholders, which stand for:
       <td rowspan="14">Wordform</td>
       <td>aug1_bc</td>
       <td><code>str</code></td>
-      <td>(:aug) Augment in betacode</td>
+      <td>(:aug) Augment mapping in betacode</td>
       <td><code>i)>ei)</code> <code>a)>h)</code></td>
     </tr>
     <tr>
       <td>aug1_uc</td>
       <td><code>str</code></td>
-      <td>(:aug) Augment in unicode</td>
+      <td>(:aug) Augment mapping in unicode</td>
       <td><code>ἰ>εἰ</code> <code>ἐ>ἠ</code></td>
     </tr>
     <tr>
       <td>end_bc</td>
       <td><code>str</code></td>
       <td>(:end) Wordform ending in betacode</td>
-      <td><code>ous</code> <code>ws</code></td>
+      <td><code>ous</code> <code>ws</code> <code>en</code></td>
     </tr>
     <tr>
       <td>end_uc</td>
       <td><code>str</code></td>
       <td>(:end) Wordform ending in unicode</td>
-      <td><code>ες</code> <code>να</code></td>
+      <td><code>ες</code> <code>να</code> <code>εν</code></td>
     </tr>
     <tr>
       <td>lem_base_bc</td>
       <td><code>str</code></td>
       <td>(:lem) Base lemma in betacode</td>
-      <td><code>*bi/blos</code> <code>ge/nesis</code></td>
+      <td><code>*bi/blos</code> <code>ui(o/s</code></td>
     </tr>
     <tr>
       <td>lem_base_uc</td>
       <td><code>str</code></td>
       <td>(:lem) Base lemma in unicode</td>
-      <td><code>Βίβλος</code> <code>γένεσις</code></td>
+      <td><code>ἀδελφός</code> <code>γεννάω</code></td>
     </tr>
     <tr>
       <td>lem_full_bc</td>
       <td><code>str</code></td>
-      <td>(:lem) Full lemma in betacode</td>
+      <td>(:lem) Full lemma in betacode (incl. homonym or pl marker)</td>
       <td><code>*bi/blos</code> <code>ge/nesis</code></td>
     </tr>
     <tr>
       <td>lem_full_uc</td>
       <td><code>str</code></td>
-      <td>(:lem) Full lemma in unicode</td>
+      <td>(:lem) Full lemma in unicode (incl. homonym or pl marker)</td>
       <td><code>Βίβλος</code> <code>γένεσις</code></td>
     </tr>
     <tr>
       <td>lem_homonym</td>
       <td><code>str</code></td>
-      <td>(:lem) Homonym of the lemma</td>
+      <td>(:lem) Set to '1' if this is a homonym lemma</td>
       <td><code>1</code> &lt;empty&gt;</td>
     </tr>
     <tr>
       <td>lem_pl_suffix</td>
       <td><code>str</code></td>
-      <td>(:lem) PL suffix of lemma</td>
+      <td>(:lem) PL suffix of lemma (if '1' often proper or geographic name) </td>
       <td><code>1</code> &lt;empty&gt;</td>
     </tr>
     <tr>
       <td>prvb_bc</td>
       <td><code>str</code></td>
-      <td>(:prvb) Space separated list of prepositions in betacode</td>
+      <td>(:prvb) **Space** separated list of prepositions in betacode</td>
       <td><code>meta/ a)na/</code> <code>su/n</code></td>
     </tr>
     <tr>
       <td>prvb_uc</td>
       <td><code>str</code></td>
-      <td>(:prvb) Space separated list of prepositions in unicode</td>
-      <td><code>ἐκ ἐπί</code> <code>πρός</code></td>
+      <td>(:prvb) Slash separated list of prepositions in unicode</td>
+      <td><code>ἐκ/ἐπί</code> <code>πρός</code></td>
     </tr>
     <tr>
       <td>stem_bc</td>
@@ -179,32 +179,32 @@ The labels {num} and {inf_elem} are placeholders, which stand for:
      <td rowspan="4">Codes and flags</td>
       <td>end_codes</td>
       <td><code>str</code></td>
-      <td>(:end) list of codes for einding</td>
-      <td><code>ous</code> <code>ws</code></td>
+      <td>(:end) list of codes for ending (mainly references to endtables in stemlib)</td>
+      <td><code>os_ou</code> <code>os_ou/os_ou</code></td>
     </tr>
     <tr>
       <td>end_flags</td>
       <td><code>str</code></td>
-      <td>(:end)list of flags for ending</td>
-      <td><code>ες</code> <code>να</code></td>
+      <td>(:end)list of flags for ending (mainly additional morphological properties)</td>
+      <td><code>nu_movable</code> <code>contr</code></td>
     </tr>
     <tr>
       <td>stem_codes</td>
       <td><code>str</code></td>
-      <td>(:stem) listed morph codes for stem</td>
-      <td><code>meta/ a)na/</code> <code>su/n</code></td>
+      <td>(:stem) listed morph codes for stem  (mainly references to endtables in stemlib)</td>
+      <td><code>os_h_on</code> <code>aor1/aw_denom</code></td>
     </tr>
     <tr>
       <td>stem_flags</td>
       <td><code>str</code></td>
-      <td>(:stem) listed morph flags for stem</td>
-      <td><code>ἐκ ἐπί</code> <code>πρός</code></td>
+      <td>(:stem) listed morph flags for stem (mainly additional morphological properties)</td>
+      <td><code>..</code> <code>indeclform</code></td>
     </tr> 
     <tr>
       <td rowspan="2">Derived</td>
       <td>morph</td>
       <td><code>str</code></td>
-      <td>List of derived morphtag(s)</td>
+      <td>Slash separated list of derived morphtag(s) following Sandborg-Petersen morphology (like feature <a href="https://centerblc.github.io/N1904/features/morph.html#start">morph</a> in N1904-TF)</td>
       <td><code>V-AAI-3S</code> <code>N-NDF/N-VDF/N-ADF</code></td>
     </tr>
     <tr>
