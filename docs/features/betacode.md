@@ -14,6 +14,20 @@ For instance, where feature `unicode` would contain 'Ἀβραάμ.' in our con
 
 Betacode is used in specific applications like [Morpheus morphological tagging](https://github.com/perseids-tools/morpheus).
 
+## Using in TF Queries
+
+When working with string values for feature betacode in Text-Fabric query templates, you may encounter characters that interfere with the query. To resolve this issue you need to escape interfering characters (particulary `|`, `\`) using a backslash `\`. When escaping characters (or when the backslash is already part of the betacode) it is also required to add a raw string indicator `r` before the query template definition, in order to prevent marning messages.
+
+For example, the following query template can be used to search for occurences of the betacode a)pokatalla/ch| (ἀποκαταλλάξῃ):
+
+```Python
+betaCodeQuery=r"""
+word betacode=a)pokatalla/ch\|
+"""
+```
+
+This correctly retreives the single occurence in Ephesians 2:16.
+
 ## See also
 
 - [Beta Code encoding](https://stephanus.tlg.uci.edu/encoding.php).
