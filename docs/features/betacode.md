@@ -23,7 +23,7 @@ When working with string values for feature betacode in Text-Fabric, you may enc
 Here it is adviced to escape the `|` character (that is replace it with `\|`). A raw string indicator `r` should also be added before the query template definition to prevent warning messages. To examine all constraints see [TF searchusage](https://annotation.github.io/text-fabric/tf/about/searchusage.html#additional-constraints). In example 1 the query template is defined to locate occurences of the betacode `a)pokatalla/ch|`. This query correctly retrieves the single occurrence of ἀποκαταλλάξῃ, found in Ephesians 2:16.
 
 ```Python
-# example 1
+# Example 1: Text-Fabric query template
 betaCodeQuery=r"""
 word betacode=a)pokatalla/ch\|
 """
@@ -33,10 +33,11 @@ word betacode=a)pokatalla/ch\|
 However, when performing a *'plain Python'* compare do not escape the `|` character. Instead, escape the backslash `\` character by replacing it with a double backslash `\\`. Failure to escape these inherent backslashes can lead to silent errors, except when the backslash is the last character in the betacode (e.g., `kai\`, which will result in an unterminated string). See also example 2 and 3 below.
 
 ```Python
-# example 2
+# Example 2: Plain Python sting compare
 for wordNode in F.otype.s('word'):
     if F.betacode.v(wordNode)=='a)pokatalla/ch|': print (wordNode)
-# example 3
+
+# Example 3: Escaping backslash in plain Python
 for wordNode in F.otype.s('word'):
     if F.betacode.v(wordNode)=="kai\\": print (wordNode)
 ```
