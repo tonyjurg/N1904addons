@@ -33,7 +33,7 @@ word betacode=a)pokatalla/ch\|
 However, when performing a *'plain Python'* compare do not escape the `|` character. Instead, escape the backslash `\` character by replacing it with a double backslash `\\`. Failure to escape these inherent backslashes can lead to silent errors, except when the backslash is the last character in the betacode (e.g., `kai\`, which will result in an unterminated string). See also example 2 and 3 below.
 
 ```Python
-# Example 2: Plain Python sting compare
+# Example 2: Plain Python string compare
 for wordNode in F.otype.s('word'):
     if F.betacode.v(wordNode)=='a)pokatalla/ch|': print (wordNode)
 
