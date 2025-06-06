@@ -1,4 +1,4 @@
-@config
+@node
 @author=Morpheus (perseids-tools)
 @convertedBy=Tony Jurg
 @coreData=Nestle 1904 Text-Fabric (centerBLC)
@@ -11,5 +11,22 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-01T21:37:22+00:00Z
+@dateWritten=2025-06-05T14:37:31+00:00Z
 
+11994	13
+14204	13
+16185	13
+25434	13
+26821	13
+27825	13
+44695	13
+44807	13
+46274	13
+46880	13
+69860	12
+71970	12
+85238	12
+86363	12
+103548	12
+109819	18/19/20/21/22
+111278	12

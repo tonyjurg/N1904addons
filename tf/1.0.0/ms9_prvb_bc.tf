@@ -1,4 +1,4 @@
-@config
+@node
 @author=Morpheus (perseids-tools)
 @convertedBy=Tony Jurg
 @coreData=Nestle 1904 Text-Fabric (centerBLC)
@@ -11,5 +11,8 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-01T21:37:22+00:00Z
+@dateWritten=2025-06-05T14:37:34+00:00Z
 
+57041	a)po/
+75112	dia/ a)po/
+109819	e)n

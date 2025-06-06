@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-01T21:37:10+00:00Z
+@dateWritten=2025-06-05T14:37:21+00:00Z
 
 574	ω
 914	ᾶ

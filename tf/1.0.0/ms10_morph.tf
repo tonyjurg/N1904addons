@@ -1,4 +1,4 @@
-@config
+@node
 @author=Morpheus (perseids-tools)
 @convertedBy=Tony Jurg
 @coreData=Nestle 1904 Text-Fabric (centerBLC)
@@ -11,5 +11,22 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-01T21:37:22+00:00Z
+@dateWritten=2025-06-05T14:37:31+00:00Z
 
+11994	N-NSM/N-VSM
+14204	N-NSM/N-VSM
+16185	N-NSM/N-VSM
+25434	N-NSM/N-VSM
+26821	N-NSM/N-VSM
+27825	N-NSM/N-VSM
+44695	N-NSM/N-VSM
+44807	N-NSM/N-VSM
+46274	N-NSM/N-VSM
+46880	N-NSM/N-VSM
+69860	V-FAI-1S
+71970	V-FAI-1S
+85238	V-FAI-1S
+86363	V-FAI-1S
+103548	V-FAI-1S
+109819	V-PAP-VSM/V-PAP-NSM/V-IAI-3P/V-PAP-NSN/V-PAP-VSN/V-PAP-ASN/V-IAI-1S
+111278	V-FAI-1S
