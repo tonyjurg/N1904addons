@@ -14,6 +14,20 @@ This is a Morpheus Summary (ms) feature.
 
 For example `ms2_morph` = `R-NSN/R-VSN/R-ASN`
 
+The individual morph codes can be decoded using the following tool:
+
+ <script>
+    function openMinimalWindow() {
+      window.open(
+        'https://centerblc.github.io/N1904/features/SP-Morph-decode.html',
+        '_blank',
+        'toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=450,height=400'
+      );
+    }
+  </script>
+  
+<button onclick="openMinimalWindow()">Open Morph decoder</button>
+
 ## Coding
 
 The following Python code demonstrates how to programaticaly obtain details like lemma and morphological tags per grouped analysis blocks.

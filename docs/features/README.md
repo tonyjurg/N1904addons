@@ -37,7 +37,6 @@ Feature name | Data type | Available on node | Description | Examples
 [ms{num}_morph_sim](ms{num}_morph_sim.md)| `str`| `word` | Summary feature for grouped analysis #{num} providing a list of morps similairties to the N1904-TF morph | `100/93/56` `56`
 [ms{num}_num_blocks](ms{num}_num_blocks.md)| `int`| `word` | Summary feature for grouped analysis #{num} providing the number of analytic blocks it summarizes | `3`  `2` 
 
-
 #### Detailed data
 
 These features provide access to detailes of each individual Morpheus analysis block.
@@ -71,4 +70,9 @@ Feature name | Data type | Available on node | Description | Examples
 
 Feature name | Data type | Available on node | Description | Examples
 ---|---|---|---|---
+[formaltag](formaltag.md)| `str`| `word` | The "form-oriented" morphological tag from GBI nodes data | `V-AAI-3S`
+[orig_order](orig_order.md)| `int`| `word` | Word order as it is found in the XML Low Fat Tree implementation of the corpus | `567` `1043`
 [penntree](penntree.md)| `str`| `sentence` | Penntree like syntax tree  |  
+
+
+
