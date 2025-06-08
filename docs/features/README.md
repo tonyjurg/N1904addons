@@ -8,7 +8,7 @@ The features of this package can be grouped as follows:
 
 #### Meta data
 
-These features describe the Morpheus analysis per word-node.
+These features describe the Morpheus analysis per word-node ([more info](morpheus_tf_feature_classes.md)). 
 
 Feature name | Data type | Available on node | Description | Examples
 ---|---|---|---|---
@@ -22,7 +22,7 @@ Feature name | Data type | Available on node | Description | Examples
 
 #### Summary data
 
-These features summarize the Morpheus analysis grouped per lemma.
+These features summarize the Morpheus analysis grouped per lemma ([more info](morpheus_tf_feature_classes.md)).
 
 Feature name | Data type | Available on node | Description | Examples
 ---|---|---|---|---
@@ -37,9 +37,9 @@ Feature name | Data type | Available on node | Description | Examples
 [ms{num}_morph_sim](ms{num}_morph_sim.md)| `str`| `word` | Summary feature for grouped analysis #{num} providing a list of morps similairties to the N1904-TF morph | `100/93/56` `56`
 [ms{num}_num_blocks](ms{num}_num_blocks.md)| `int`| `word` | Summary feature for grouped analysis #{num} providing the number of analytic blocks it summarizes | `3`  `2` 
 
-#### Detailed data
+#### Detail data
 
-These features provide access to detailes of each individual Morpheus analysis block.
+These features provide access to detailes of each individual Morpheus analysis block ([more info](morpheus_tf_feature_classes.md)).
 
 Feature name | Data type | Available on node | Description 
 ---|---|---|---

@@ -8,7 +8,7 @@ Feature group |Feature type | Data type | Available for node types | Feature sta
 
 Morpheus maximum similarity with N1904-TF morph tag for *any* lemma.
 
-This is a Morpheus Metadata (mm) feature.
+This is a Morpheus meta data feature ([more info](morpheus_tf_feature_classes.md)).
 
 ## Feature values
 

@@ -8,11 +8,19 @@ Feature group |Feature type | Data type | Available for node types | Feature sta
 
 Betacode representation of the raw: field of Morpheus for this word node
 
-This is a Morpheus Metadata (mm) feature.
+This is a Morpheus meta data feature ([more info](morpheus_tf_feature_classes.md)).
 
 ## Feature values
 
+The raw form of the word in `unicode, as it was inputted. 
+
+Note that this may include ellipsis (indicated with '). [Crane provides as example ἐπέμπετ᾽](https://github.com/gregorycrane/Homerica/blob/1ad202eec627414e7153f5512d6cb43abc22e308/Tb%2BMorpheus#L77), which could stand for ἐπέμπετε ("you [pl] were sending") or ἐπέμπετο ("s/he was being sent").
+
+
 The following image shows an example of a Morpheus analyses block.
+
+## Notes
+
 
 <IMG SRC="images/morpheus_block_example.png">
 

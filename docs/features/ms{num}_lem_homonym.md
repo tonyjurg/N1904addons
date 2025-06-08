@@ -6,12 +6,12 @@ Feature group |Feature type | Data type | Available for node types | Feature sta
 
 ## Feature description
 
-lemma homonym indicator.
+Lemma homonym indicator.
 
-This is a Morpheus Summary (ms) feature.
+This is a Morpheus summary data feature ([more info](morpheus_tf_feature_classes.md)).
 
 ## Feature values
 
-
+A number (in string format).
 
 ## Data source

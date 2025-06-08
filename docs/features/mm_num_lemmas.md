@@ -8,7 +8,7 @@ Feature group |Feature type | Data type | Available for node types | Feature sta
 
 Number of different lemmas returned by the Morpheus analytic blocks for this word node
 
-This is a Morpheus Metadata (mm) feature.
+This is a Morpheus meta data feature ([more info](morpheus_tf_feature_classes.md)).
 
 ## Feature values
 
