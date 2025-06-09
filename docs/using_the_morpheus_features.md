@@ -135,6 +135,7 @@ for (wordNode,) in wordNodeList:        # wordNodeList is a list of 1-tuples: [(
 >>> lemma #7 uses blocknumbers 7/8/9/10/11
 >>> lemma #8 uses blocknumbers 12/13/14
 >>> lemma #9 uses blocknumbers 15
+```
 
 Now we can pull from the Morpheus analytic blocks any detailed grammatical property we would like to evaluate.
 But in order to be able to use these detailed features, we need to load them first. For this we reload again with inclusion on the detailed dataset:
@@ -164,7 +165,6 @@ for (wordNode,) in wordNodeList:        # wordNodeList is a list of 1-tuples: [(
             prvb_uc = Fs(f"md{block}_prvb_uc").v(wordNode)
 			stem_uc = Fs(f"md{block}_stem_uc").v(wordNode)
 			ending_uc = Fs(f"md{block}_ending_uc").v(wordNode)
-
 ```
 
 ## Now making it efficient
