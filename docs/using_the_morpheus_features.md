@@ -167,5 +167,54 @@ for (wordNode,) in wordNodeList:        # wordNodeList is a list of 1-tuples: [(
 
 ```
 
-This three-tier approach keeps the usual workflow fast and lightweight (meta + summary only) while it still giving you the option to dive deep whenever your research question demands it.
+## Now making it efficient
+
+In the previous example, just a few lookups were performed. Access to the detailed features can be made dramaticlay more efficient. In the above situation, Text-Fabric needs to resolve the string name we passed (for example "md7_workw_bc") into an immutable feature object that it knows how to fetch the value for any node. Doing that name-lookup 24 × ≈138 000 word-nodes = about 3.3 million calls. 
+
+Especialy if we need to perform such actions multiple times, we can better caching the result once per block, thus making it 24 calls total, and then access it with a simple .v(node) method. This caching can be done using the following code: 
+
+```python
+BLOCK_RANGE  = range(1, 25)
+lem_base_uc_feat   = {b: Fs(f"md{b}_lem_base_bc")  for b in BLOCK_RANGE}
+prvb_uc_feat       = {b: Fs(f"md{b}_prvb_uc")      for b in BLOCK_RANGE}
+```
+
+What we created here are just two straight hash-tables `lem_feat[b]` and `workw_feat[b]` (where b is the block number in the range of 1 to 24, inclusive). Now the lookups are very simple to perform:
+
+```Python
+lem_base_uc  = lem_base_uc_feat[b].v(wordNode)
+prvb_uc      = prvb_uc_feat[b].v(wordNode)
+``` 
+
+Putting it all together in a working example where we would like to do something with the combination of lemma and working word for all Morpheus analytic blocks.
+
+```Python 
+# Once, before the big loop, cache the md* features we would like to access
+BLOCK_RANGE  = range(1, 25)
+lem_feat     = {b: Fs(f"md{b}_lem_full_bc")  for b in BLOCK_RANGE}
+workw_feat   = {b: Fs(f"md{b}_workw_bc")     for b in BLOCK_RANGE}
+
+import time
+t0 = time.perf_counter()   # start timer
+counter=0
+
+# Now fire up our word nodes loop
+for wordNode in F.otype.s("word"):
+    # quickly collect (lemma, workw) pairs for this word
+    for block in BLOCK_RANGE:
+        lem   = lem_feat[block].v(wordNode)
+        if not lem:                      # skip empty Morpheus slots fast
+            continue
+        workw = workw_feat[block].v(wordNode)
+        counter +=1
+        # do something interesting with (lem, workw) 
+
+elapsed = time.perf_counter() - t0   #stop timer
+
+print(f"Processed {counter:,} lemma–workw pairs in {elapsed:.2f} s ({counter/elapsed:,.0f} pairs/s)")
+
+>>> Processed 361,580 lemma–workw pairs in 0.74 s (487,831 pairs/s)
+```
+
+This three-tier approach keeps the usual workflow not only fast and lightweight (meta + summary only) while it also gives you fast access to any deep level information your research question demands.
 
