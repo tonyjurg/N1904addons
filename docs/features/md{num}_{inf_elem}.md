@@ -230,6 +230,30 @@ To load both the 'standard' N1904addon features and the detailed_set, you need t
 A = use ("CenterBLC/N1904", version="1.0.0", silence="terse", mod=["tonyjurg/N1904addons/tf/", "tonyjurg/N1904addons/detailed_set"], hoist=globals())
 ```
 
+## Programmatic access 
+
+There are several methods to access the features programmaticaly. One method is to use a variable as feature name in combination with the `Fs(ffff)` method:
+```Python
+for wordNode in wordNodeList
+    for block in range(1, 25):
+        feat = f"md{block}_gender"          # e.g. "md5_gender"
+        gender = Fs(feat).v(wordNode)
+```
+
+This works fine when just looking up a few feature values. A more efficent approach is to first create a straight hash-table:
+
+```Python
+BLOCK_RANGE  = range(1, 25)
+gender_feat   = {b: Fs(f"md{b}_gender")  for b in BLOCK_RANGE}
+
+for wordNode in wordNodeList
+    for block in range(1, 25):
+        gender = gender_feat[block].v(wordNode)
+```
+Both functions deliver the same result, but the second on is much faster, especialy if there are many iterations in the loop. See also ['Using the Morpheus features'](../using_the_morpheus_features.md) or the associated [Jupyter notebook](../notebooks/example_usage.ipynb).
+
+## Morpheus analytic blocks
+ 
 The following image shows an example of a Morpheus analyses block.
 
 <IMG SRC="images/morpheus_block_example.png">
