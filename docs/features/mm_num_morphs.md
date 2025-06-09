@@ -8,7 +8,7 @@ Feature group |Feature type | Data type | Available for node types | Feature sta
 
 Morpheus total number of returned different morph tags in all analytic blocks for this word node
 
-This is a Morpheus meta data feature ([more info](morpheus_tf_feature_classes.md)).
+This is a Morpheus meta data feature ([more info](../using_the_morpheus_features.md)).
 
 ## Feature values
 

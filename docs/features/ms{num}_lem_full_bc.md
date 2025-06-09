@@ -8,7 +8,7 @@ Feature group |Feature type | Data type | Available for node types | Feature sta
 
 Summary feature for grouped analysis #{num} providing the full lemma (incl. homonym or pl-suffix identifiers, if any) encoded in betacode.
 
-This is a Morpheus summary data feature ([more info](morpheus_tf_feature_classes.md)).
+This is a Morpheus summary data feature ([more info](../using_the_morpheus_features.md)).
 
 ## Feature values
 

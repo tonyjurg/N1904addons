@@ -1,4 +1,8 @@
-# Morpheus TF feature classes
+# Using the Morpheus features 
+
+This page first presents an overview of how Morpheus features are logically organized into classes. It then shows how that structure supports a practical workflow, guiding you from a high-level meta view, through a concise summary, and finally to a detailed inspection of the Morpheus data.
+
+## Morpheus feature classes
 
 The total number of distinct Text-Fabric features related to the Morpheus morphological analysis is currently around 900. Without a logical taxonomy this would be unable to handle. Therefore, the Morpheus related Text-Fabric features are devided into three main groups:
 
@@ -20,11 +24,11 @@ A = use ("CenterBLC/N1904", version="1.0.0", silence="terse", mod=["tonyjurg/N19
 
 In this case the option silense="terse" may be realy helpfull in order to supress the huge output during loading and compiling of the large number of features. Take note that althoug loading may take some time, once loaded Text-Fabric is not significant slowed down by the huge number of features.
 
-# Guide: working with Morpheus feature-set in Text-Fabric
+## Guide: working with Morpheus feature-set in Text-Fabric
 
 This section (which is also available as a [downloadable Jupyter Notebook](notebooks/example_usage.ipynb)) will provide you a compact overview of how the concept of [Morpheus TF feature classes](morpheus_tf_feature_classes.md) is helpfull. The example below shows you how to begin at the meta level, drill down to the summary level, and—when needed—inspect the full, detailed analytic blocks. Everything happens within a single environment that brings together the core N1904-TF dataset, the N1904addons module, and optionaly a set of detailed functions when desired.
 
-## Step 1: Load N1904-TF with the Morpheus “standard” features
+### Step 1: Load N1904-TF with the Morpheus “standard” features
 
 ```python
 from tf.app import use
@@ -34,7 +38,7 @@ A = use( "CenterBLC/N1904", version="1.0.0", mod="tonyjurg/N1904addons/tf/", hoi
 The `mod` argument above pulls the feature files straight from the GitHub repository behind N1904addons so no manual download is needed.
 
 
-## Step 2: Start at the meta level (`mm*`)
+### Step 2: Start at the meta level (`mm*`)
 
 Suppose we want to understand how many wordforms be derived from a different lemmas. The first step could be to just create a frequency table:
 
@@ -85,7 +89,7 @@ for (wordNode,) in wordNodeList:        # wordNodeList is a list of 1-tuples: [(
 >>> Total number of analytic blocks: 15
 ```
 
-## Step 3: Explore at the summary level (`ms*`)
+### Step 3: Explore at the summary level (`ms*`)
 
 To examine these 9 lemmas and their respective grammatical details (like morph code) in detail we need to turn to the summary features. This can easily be done using simple Python code. The real trick in there is the use of a variable name that is constructed dynamicaly in combination with using Text-Fabric's `Fs('fff')` method:
 
@@ -111,7 +115,7 @@ for (wordNode,) in wordNodeList:        # wordNodeList is a list of 1-tuples: [(
 >>> #9: lemma=διακονέω      morph=V-PAP-NSM sim=49
 ```
 
-## Step 4 : Deep dive at the detail level (`md*`) 
+### Step 4 : Deep dive at the detail level (`md*`) 
 
 When we want to dig one level deeper, we should dump the data in feature [`ms{num}_block_nums`](ms{num}_block_nums.md), as this allows us to map the summary features (which are numbered) with their related detailed features (which are also numbered but with a different key). 
 ```python

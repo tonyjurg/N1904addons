@@ -8,7 +8,7 @@ Feature group |Feature type | Data type | Available for node types | Feature sta
 
 Lemma pl-suffix indicator.
 
-This is a Morpheus summary data feature ([more info](morpheus_tf_feature_classes.md)).
+This is a Morpheus summary data feature ([more info](../using_the_morpheus_features.md)).
 
 ## Feature values
 
