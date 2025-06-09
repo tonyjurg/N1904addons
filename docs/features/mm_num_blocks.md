@@ -8,11 +8,17 @@ Feature group |Feature type | Data type | Available for node types | Feature sta
 
 Total number of analytic Morpheus blocks return for this word node
 
-This is a Morpheus meta data feature ([more info](../using_the_morpheus_features.md)).
+This is a Morpheus [meta data feature](../using_the_morpheus_features.md#morpheus-feature-classes).
 
 ## Feature values
 
 An integer in the range from 0 (no blocks received) to 24 (inlcusive, being the maximum number of returned analytic blocks by Morpheus).
+
+## Programmatic access
+
+See [this document](../using_the_morpheus_features.md) for more details.
+
+## Morpheus analytic blocks
 
 The following image shows an example of a Morpheus analyses block.
 

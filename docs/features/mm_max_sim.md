@@ -8,11 +8,17 @@ Feature group |Feature type | Data type | Available for node types | Feature sta
 
 Morpheus maximum similarity with N1904-TF morph tag for *any* lemma.
 
-This is a Morpheus meta data feature ([more info](../using_the_morpheus_features.md)).
+This is a Morpheus [meta data feature](../using_the_morpheus_features.md#morpheus-feature-classes).
 
 ## Feature values
 
 An integer.
+
+## Programmatic access
+
+See [this document](../using_the_morpheus_features.md) for more details.
+
+## Morpheus analytic blocks
 
 The following image shows an example of a Morpheus analyses block.
 

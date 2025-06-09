@@ -8,12 +8,16 @@ Feature group |Feature type | Data type | Available for node types | Feature sta
 
 Summary feature for grouped analysis #{num} providing a slash separted list of the prepostions (if any) encoded in unicode.
 
-This is a Morpheus summary data feature ([more info](../using_the_morpheus_features.md)).
+This is a Morpheus [summary data feature](../using_the_morpheus_features.md#morpheus-feature-classes).
 
 ## Feature values
 
 The lemma string in unicode.
 
+## Programmatic access
 
+See [this document](../using_the_morpheus_features.md#guide-working-with-morpheus-feature-set-in-text-fabric) for more details.
+
+## Morpheus analytic blocks
 
 ## Data source

@@ -8,7 +8,7 @@ Feature group |Feature type | Data type | Available for node types | Feature sta
 
 Summary feature for grouped analysis #{num} providing a *space* separted list of the prepostions (if any).
 
-This is a Morpheus summary data feature ([more info](../using_the_morpheus_features.md)).
+This is a Morpheus [summary data feature](../using_the_morpheus_features.md#morpheus-feature-classes).
 
 ## Feature values
 

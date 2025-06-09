@@ -8,8 +8,12 @@ Feature group |Feature type | Data type | Available for node types | Feature sta
 
 Summary feature for grouped analysis #{num} providing a *list* with the associated blocknumbers.
 
-This is a Morpheus summary data feature ([more info](../using_the_morpheus_features.md)).
+This is a Morpheus [summary data feature](../using_the_morpheus_features.md#morpheus-feature-classes).
 
 ## Feature values
 
 The associated blocknumbers are refering to the the set of Morpheus Detail (md) features.
+
+## Programmatic access
+
+See [this document](../using_the_morpheus_features.md) for more details.

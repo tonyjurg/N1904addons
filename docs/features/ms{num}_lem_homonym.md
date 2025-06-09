@@ -8,10 +8,17 @@ Feature group |Feature type | Data type | Available for node types | Feature sta
 
 Lemma homonym indicator.
 
-This is a Morpheus summary data feature ([more info](../using_the_morpheus_features.md)).
+This is a Morpheus [summary data feature](../using_the_morpheus_features.md#morpheus-feature-classes).
 
 ## Feature values
 
 A number (in string format).
+
+## Programmatic access
+
+See [this document](../using_the_morpheus_features.md) for more details.
+
+## Morpheus analytic blocks
+
 
 ## Data source

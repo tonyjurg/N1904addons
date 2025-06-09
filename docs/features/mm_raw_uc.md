@@ -8,7 +8,7 @@ Feature group |Feature type | Data type | Available for node types | Feature sta
 
 Either the unicode representation of the raw: field of Morpheus for this word node
 
-This is a Morpheus meta data feature ([more info](../using_the_morpheus_features.md)).
+This is a Morpheus [meta data feature](../using_the_morpheus_features.md#morpheus-feature-classes).
 
 ## Feature values
 

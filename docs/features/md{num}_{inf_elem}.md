@@ -8,6 +8,8 @@ Feature group |Feature type | Data type | Available for node types | Feature sta
 
 Value for property {inf_elem} reported by Morpheus analysis block #{num}.
 
+This is a Morpheus [detail data feature](../using_the_morpheus_features.md#morpheus-feature-classes).
+
 ## Feature names and values
 
 This page documents **about 750** Text-Fabric features named like `md3_case`, `md17_end_codes`, `md12_lem_full_uc` or `md1_morph`. They collectively form the class of Morpheus detail features ([more info](../using_the_morpheus_features.md)).
