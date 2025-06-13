@@ -45,6 +45,18 @@ Feature name | Data type | Available on node | Description
 ---|---|---|---
 [md{num}\_{inf_elem}](md{num}_{inf_elem}.md)  | `str` | `word` | Overview of features providing access to data from individual Morpheus analytic blocks
 
+#### Analytic data
+
+These features provide access to features based upon analysis of the Morpheus data in connection with N1904-TF morphosyntactic tagging ([more info](morpheus_tf_feature_classes.md)).
+
+Feature name | Data type | Available on node | Description 
+---|---|---|---
+[ma{num}\_pf_altern](ma{num}_pf_altern.md)  | `str` | `phrase` | Phrase function alternatives based on morphological tagging according to base N1904-TF (num=0) or Morpheus (num in range 1,12)
+[ma{num}\_pf_flip](ma{num}_pf_flip.md)  | `int` | `phrase` | Max function flip potential for phrase according to morphological tagging according to base N1904-TF (num=0) or Morpheus (num in range 1,12)
+[ma_pf_max_flip](ma_pf_max_flip.md)  | `int` | `phrase` | Max function flip potential for both N1904-TF and Morpheus based tagging.
+
+
+
 ### Feature group: Statistic
 
 Feature name | Data type | Available on node | Description | Examples
