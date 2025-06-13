@@ -53,7 +53,7 @@ Feature name | Data type | Available on node | Description
 ---|---|---|---
 [ma{num}\_pf_altern](ma{num}_pf_altern.md)  | `str` | `phrase` | Phrase function alternatives based on morphological tagging according to base N1904-TF (num=0) or Morpheus (num in range 1,12)
 [ma{num}\_pf_flip](ma{num}_pf_flip.md)  | `int` | `phrase` | Max function flip potential for phrase according to morphological tagging according to base N1904-TF (num=0) or Morpheus (num in range 1,12)
-[ma_pf_max_flip](ma_pf_max_flip.md)  | `int` | `phrase` | Max function flip potential for both N1904-TF and Morpheus based tagging.
+[ma_pf_max_flip](ma_pf_flip_max.md)  | `int` | `phrase` | Max function flip potential for both N1904-TF and Morpheus based tagging.
 
 
 
