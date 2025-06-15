@@ -2,7 +2,7 @@
 
 Feature group | Feature type | Data type | Available for node types | Feature status
 ---  | --- | --- | --- | ---
-[`statistic`](README.md#feature-group-statistic) | `Node` |`str` | `word` | [✅](featurestatus.md#Trustworthy "Trustworthy")
+[`statistic`](README.md#feature-group-statistic) | `Node` |`int` | `word` | [✅](featurestatus.md#Trustworthy "Trustworthy")
 
 ## Feature short description
 
@@ -143,13 +143,13 @@ The following table provides some statistic key metrics for the normalized entro
 ```txt
 === lemma ===
 Count:   5396
-Min:     0.000000
-25%ile:  0.000000
-Median:  0.000000
-75%ile:  0.265447
-Max:     0.737214
-Mean:    0.122450
-StdDev:  0.189211
+Min:     0000
+25%ile:  0000
+Median:  0000
+75%ile:  0265
+Max:     0737
+Mean:    0122
+StdDev:  0189
 ```
 
 This indicates that most lemmas are highly predictable in terms of their syntactic roles, while a small subset show high entropy due to usage in multiple phrase functions.

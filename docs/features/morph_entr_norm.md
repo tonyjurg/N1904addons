@@ -2,11 +2,13 @@
 
 Feature group | Feature type | Data type | Available for node types | Feature status
 ---  | --- | --- | --- | ---
-[`statistic`](README.md#feature-group-statistic) | `Node` |`str` | `word` | [✅](featurestatus.md#Trustworthy "Trustworthy")
+[`statistic`](README.md#feature-group-statistic) | `Node` |`int` | `word` | [✅](featurestatus.md#Trustworthy "Trustworthy")
 
 ## Feature short description
 
-Normalized entropy of a morph(-tag of a word) as predictor of its parent phrase function (like Subject, Object, etc.).
+Normalized entropy of a morph(-tag of a word)* as predictor of its parent phrase function (like Subject, Object, etc.).
+
+*) For the calculation of entropy the dialect tag (like -ATT) was ignored.
 
 ## Feature values
 
@@ -141,14 +143,14 @@ The following table provides some statistic key metrics for this feature counted
 
 ```text
 === morph ===
-Count:   1055
-Min:     0.000000
-25%ile:  0.000000
-Median:  0.000000
-75%ile:  0.249959
-Max:     0.788319
-Mean:    0.121450
-StdDev:  0.167519
+Count:   1018
+Min:     0000
+25%ile:  0000
+Median:  0000
+75%ile:  0254
+Max:     0788
+Mean:    0125
+StdDev:  0168
 ```
 
 This indicates that most morphs are highly predictable in terms of their syntactic roles, while a small subset show high entropy due to usage in multiple phrase functions.

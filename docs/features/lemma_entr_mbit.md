@@ -1,8 +1,8 @@
-# N1904addons - Feature: lemma_entr
+# N1904addons - Feature: lemma_entr_mbit
 
 Feature group | Feature type | Data type | Available for node types | Feature status
 ---  | --- | --- | --- | ---
-[`statistic`](README.md#feature-group-statistic) | `Node` |`str` | `word` | [✅](featurestatus.md#Trustworthy "Trustworthy")
+[`statistic`](README.md#feature-group-statistic) | `Node` |`int` | `word` | [✅](featurestatus.md#Trustworthy "Trustworthy")
 
 ## Feature short description
 
@@ -144,13 +144,13 @@ The following table provides some statistic key metrics for this feature counted
 ```txt
 === lemma ===
 Count:   5396
-Min:     0.000000
-25%ile:  0.000000
-Median:  0.000000
-75%ile:  0.918296
-Max:     2.550341
-Mean:    0.423607
-StdDev:  0.654563
+Min:     0000
+25%ile:  0000
+Median:  0000
+75%ile:  0918
+Max:     2550
+Mean:    0423
+StdDev:  0654
 ```
 
 This indicates that most lemmas are highly predictable in terms of their syntactic roles, while a small subset show high entropy due to usage in multiple phrase functions.

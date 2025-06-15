@@ -1,8 +1,8 @@
-# N1904addons - Feature: text_entr
+# N1904addons - Feature: text_entr_mbit
 
 Feature group | Feature type | Data type | Available for node types | Feature status
 ---  | --- | --- | --- | ---
-[`statistic`](README.md#feature-group-statistic) | `Node` |`str` | `word` | [✅](featurestatus.md#Trustworthy "Trustworthy")
+[`statistic`](README.md#feature-group-statistic) | `Node` |`int` | `word` | [✅](featurestatus.md#Trustworthy "Trustworthy")
 
 ## Feature short description
 
@@ -10,9 +10,9 @@ Absolute entropy of a surface level wordform (feature[`text`](https://centerblc.
 
 ## Feature values
 
-A float number *stored as a string* representing the entropy expressed in bits.
+A float number *stored as a string* representing the entropy expressed in mili-bits.
 
-In the N1904-TF dataset, the actual value ranges from 0 to 2.584963 (note: the dot denotes a decimal point, not a thousands separator).
+In the N1904-TF dataset, the actual value ranges from 0 to 2584.
 
 ## Feature detailed description
 
@@ -144,13 +144,13 @@ The following table provides some statistic key metrics for the absolute entropy
 ```text
 === text ===
 Count:   19446
-Min:     0.000000
-25%ile:  0.000000
-Median:  0.000000
-75%ile:  0.000000
-Max:     2.584963
-Mean:    0.150982
-StdDev:  0.393071
+Min:     0000
+25%ile:  0000
+Median:  0000
+75%ile:  0000
+Max:     2584
+Mean:    0150
+StdDev:  0393
 ```
 
 This indicates that most text elements are highly predictable in terms of their syntactic roles, while a small subset show high entropy due to usage in multiple phrase functions.

@@ -2,7 +2,7 @@
 
 Feature group | Feature type | Data type | Available for node types | Feature status
 ---  | --- | --- | --- | ---
-[`statistic`](README.md#feature-group-statistic) | `Node` |`str` | `word` | [✅](featurestatus.md#Trustworthy "Trustworthy")
+[`statistic`](README.md#feature-group-statistic) | `Node` |`int` | `word` | [✅](featurestatus.md#Trustworthy "Trustworthy")
 
 ## Feature short description
 
@@ -143,13 +143,13 @@ The following table provides some statistic key metrics for the absolute entropy
 ```text
 === text ===
 Count:   19446
-Min:     0.0000
-25%ile:  0.0000
-Median:  0.0000
-75%ile:  0.0000
-Max:     2.5850
-Mean:    0.1510
-StdDev:  0.3931
+Min:     0000
+25%ile:  0000
+Median:  0000
+75%ile:  0000
+Max:     0747
+Mean:    0043
+StdDev:  0113
 ```
 
 This indicates that most text elements are highly predictable in terms of their syntactic roles, while a small subset show high entropy due to usage in multiple phrase functions.

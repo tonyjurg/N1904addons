@@ -1,18 +1,20 @@
-# N1904addons - Feature: morph_entr
+# N1904addons - Feature: morph_entr_mbit
 
 Feature group | Feature type | Data type | Available for node types | Feature status
 ---  | --- | --- | --- | ---
-[`statistic`](README.md#feature-group-statistic) | `Node` |`str` | `word` | [✅](featurestatus.md#Trustworthy "Trustworthy")
+[`statistic`](README.md#feature-group-statistic) | `Node` |`int` | `word` | [✅](featurestatus.md#Trustworthy "Trustworthy")
 
 ## Feature short description
 
-Absolute entropy of a morph(-tag of a word) as predictor of its parent phrase function (like Subject, Object, etc.).
+Absolute entropy of a morph(-tag of a word)* as predictor of its parent phrase function (like Subject, Object, etc.).
+
+*) For the calculation of entropy the dialect tag (like -ATT) tag was ignored.
 
 ## Feature values
 
-A float number *stored as a string* representing the entropy expressed in bits. 
+A float number *stored as a string* representing the entropy expressed in mili-bits. 
 
-In the N1904-TF dataset, the actual value ranges from 0 to 2.727135 (note: the dot denotes a decimal point, not a thousands separator). 
+In the N1904-TF dataset, the actual value ranges from 0 to 2584.
 
 ## Feature detailed description
 
@@ -140,18 +142,18 @@ $$H_{\text{norm}}(D) = \frac{H(D)}{H_{\text{max}}(D)}$$
 
 </details>
 <br>
-The following table provides some statistic key metrics for this feature counted over the total of 1055 unique morphs in the N1904-TF:
+The following table provides some statistic key metrics for this feature counted over the total of 1018 unique morphs in the N1904-TF:
 
 ```text
 === morph ===
-Count:   1055
-Min:     0.000000
-25%ile:  0.000000
-Median:  0.000000
-75%ile:  0.864717
-Max:     2.727135
-Mean:    0.420148
-StdDev:  0.579520
+Count:   1018
+Min:     0000
+25%ile:  0000
+Median:  0000
+75%ile:  0879
+Max:     2727
+Mean:    0.43
+StdDev:  0.58
 ```
 
 This indicates that most morphs are highly predictable in terms of their syntactic roles, while a small subset show high entropy due to usage in multiple phrase functions.
