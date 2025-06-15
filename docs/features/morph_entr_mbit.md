@@ -12,7 +12,7 @@ Absolute entropy of a morph(-tag of a word)* as predictor of its parent phrase f
 
 ## Feature values
 
-A float number *stored as a string* representing the entropy expressed in mili-bits. 
+A number *stored as integer* representing the entropy in mili-bits.
 
 In the N1904-TF dataset, the actual value ranges from 0 to 2584.
 

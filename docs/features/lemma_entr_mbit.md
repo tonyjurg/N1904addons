@@ -10,7 +10,7 @@ Absolute entropy of the lemma (of this word) as predictor of its parent phrase f
 
 ## Feature values
 
-A float number *stored as a string* representing the entropy expressed in bits.
+A number *stored as integer* representing the entropy in mili-bits.
 
 In the N1904-TF dataset, the actual value ranges from 0 to 2.550341 (note: the dot denotes a decimal point, not a thousands separator). 
 

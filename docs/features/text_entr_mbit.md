@@ -10,7 +10,7 @@ Absolute entropy of a surface level wordform (feature[`text`](https://centerblc.
 
 ## Feature values
 
-A float number *stored as a string* representing the entropy expressed in mili-bits.
+A number *stored as integer* representing the entropy in mili-bits.
 
 In the N1904-TF dataset, the actual value ranges from 0 to 2584.
 

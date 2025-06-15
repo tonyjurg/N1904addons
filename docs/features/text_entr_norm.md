@@ -10,7 +10,7 @@ Normalized entropy of a surface level wordform as predictor of its parent phrase
 
 ## Feature values
 
-A float number *stored as a string* representing the entropy normalized to a range from 0 to 1 (inclusive). The dot denotes a decimal point, not a thousands separator.
+A number *stored as integer* representing the entropy normalized to a range from 0 to 1000 (inclusive).
 
 ## Feature detailed description
 
