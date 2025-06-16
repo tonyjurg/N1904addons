@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:22+00:00Z
+@dateWritten=2025-06-15T22:27:23+00:00Z
 
 914	βασιλεϊ
 1043	λιθ
@@ -290,7 +290,7 @@
 115307	ἀγαπη
 119979	βασιλει
 121334	φυ—ς
-121347	ἰού
+121347	ἰ
 121359	ῥ
 121654	ἀλαλ
 121716	στ

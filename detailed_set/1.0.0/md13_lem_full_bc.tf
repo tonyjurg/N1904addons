@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:21+00:00Z
+@dateWritten=2025-06-15T22:27:23+00:00Z
 
 574	a)ga/zw
 914	basileia/w
@@ -28,7 +28,7 @@
 1961	basileia/w
 2678	basileia/w
 2930	katafrone/w
-2937	di=os
+2937	dia/
 3096	basileia/w
 3221	katapate/w
 3458	basileia/w
@@ -40,8 +40,8 @@
 3943	pera/w2
 4080	a)nemo/w
 4091	pera/w2
-4399	di=os
-4448	di=os
+4399	dia/
+4448	dia/
 4516	ne/w3
 4537	ne/w3
 4647	a)naxwre/w
@@ -57,10 +57,10 @@
 6480	basileia/w
 6516	basileia/w
 6545	dia/rpasis
-6561	di=os
+6561	dia/
 6814	perato/w
 7027	spei=ron
-7121	di=os
+7121	dia/
 7405	basileia/w
 7512	e)ra/omai
 7544	basileia/w
@@ -71,18 +71,18 @@
 7797	basileia/w
 7828	basileia/w
 7852	basileia/w
-7929	di=os
+7929	dia/
 7935	basileia/w
 8400	pera/w2
-8626	di=os
-8649	di=os
+8626	dia/
+8649	dia/
 8699	ti/mhsis
 9008	kure/w
 9305	pera/w2
 9498	a)ga/zw
 9752	basileia/w
-10081	di=os
-10092	di=os
+10081	dia/
+10092	dia/
 10202	a)llotrio/w
 10207	a)llotrio/w
 10264	basileia/w
@@ -90,7 +90,7 @@
 10310	basileia/w
 10491	e)nneo/s
 10517	e)nneo/s
-10701	di=os
+10701	dia/
 10705	basileia/w
 10876	a)ga/zw
 10935	pera/w2
@@ -107,7 +107,7 @@
 12431	a)ga/zw
 12433	e)ra/omai
 12460	e)/ros2
-12462	di=os
+12462	dia/
 12575	basileia/w
 12793	basileia/w
 12857	basileia/w
@@ -133,7 +133,7 @@
 17190	desmeu/w
 17457	a)ei/rw
 18537	basileia/w
-19319	di=os
+19319	dia/
 19409	ne/w3
 19416	r(h=cis
 19430	ne/w3
@@ -152,8 +152,8 @@
 21104	pera/w2
 21453	e)k-sta/zw
 22252	pera/w2
-22526	di=os
-22909	di=os
+22526	dia/
+22909	dia/
 22968	e)pi/-qa/omai
 23244	pera/w2
 23703	basileia/w
@@ -170,7 +170,7 @@
 25576	basileia/w
 25912	e)ra/omai
 25940	e)/ros2
-di=os
+dia/
 26062	a)gapa/w
 26355	a)ni/sthmi
 26539	a)gapa/zw
@@ -204,7 +204,7 @@ di=os
 32902	e)pitimh/
 32952	basileia/w
 33524	a)na/-lo/w
-33543	di=os
+33543	dia/
 33667	sumfw/nhsis
 33678	ne/w3
 33685	r(h=cis
@@ -239,7 +239,7 @@ di=os
 39101	perato/w
 39702	e)/ros2
 39858	e)ra/omai
-39909	di=os
+39909	dia/
 40057	basileia/w
 40076	basileia/w
 40131	a)na/lusis
@@ -280,13 +280,13 @@ di=os
 44475	basileia/w
 44609	a)ga/zw
 44695	e)laiw/n
-44727	di=os
+44727	dia/
 44803	kata/-ba/zw
 44807	e)laiw/n
 44865	liqo/w
 45053	a)ga/zw
 45078	e)/ros2
-di=os
+dia/
 45092	kataliqa/zw
 45197	a)gapa/w
 45411	e)n,a)nti/-ei)mi/
@@ -336,9 +336,9 @@ di=os
 53653	a)ga/zw
 53686	a)ga/zw
 53695	a)ga/zw
-53834	di=os
+53834	dia/
 54056	a)na/-a)ba/w
-54688	di=os
+54688	dia/
 54802	e)laia/w
 55273	a)ga/zw
 55400	po/a
@@ -351,7 +351,7 @@ di=os
 57207	a)ga/zw
 57225	pera/w2
 57618	a)ni/sthmi
-58292	di=os
+58292	dia/
 58644	fu/lacis
 58649	diakone/w
 58666	diakone/w
@@ -394,7 +394,7 @@ ti/mhsis
 67099	i)/dios
 67227	a)na/-a)nia/zw
 67343	peira/zw
-67398	di=os
+67398	dia/
 67439	a)na/-dra/w
 67463	e)piskia/zw
 67834	a)na/-dra/w
@@ -421,7 +421,7 @@ ti/mhsis
 72532	sigh/
 72682	dia/-konia/zw
 72902	periagh/s
-73804	dia/
+73804	*di/h
 73871	mata/|zw
 74013	basileia/w
 74240	e)pi/stamai
@@ -466,7 +466,7 @@ ti/mhsis
 82784	e)n,a)nti/-ei)mi/
 82910	basileia/w
 83054	basileia/w
-83486	di=os
+83486	dia/
 83558	ne/w2
 83661	po/a
 83823	fu/zw
@@ -474,8 +474,8 @@ ti/mhsis
 84173	a)ga/zw
 84226	su/n-i)a/zw
 84240	po/a
-84722	di=os
-85074	di=os
+84722	dia/
+85074	dia/
 85238	a)rh/
 85845	e)piqumia/w
 85867	e)piqumia/w
@@ -498,7 +498,7 @@ ti/mhsis
 88532	po/a
 88703	a)gapa/zw
 89089	basileia/w
-89336	di=os
+89336	dia/
 89824	a)gapa/w
 89866	a)gapa/w
 89880	a)gapa/w
@@ -515,7 +515,7 @@ ti/mhsis
 91069	i)/dios
 91386	a)po/-la/w2
 91444	doko/s
-91556	di=os
+91556	dia/
 91566	a)gapa/w
 91620	basileia/w
 91751	ne/w3
@@ -558,7 +558,7 @@ a)rotria/zw
 97591	kata/-a)poqe/w
 97620	a)ga/zw
 97953	xrau/w
-98057	di=os
+98057	dia/
 98061	dia/-konia/zw
 98435	kata/-a)poqe/w
 98658	dia/-konia/zw
@@ -580,9 +580,9 @@ a)rotria/zw
 100697	pro/s-a)ma/w1
 100789	a)reta/w
 100905	e)ra/omai
-101150	palh/
+101150	pa/lai
 101178	a)ga/zw
-101385	di=os
+101385	dia/
 101928	e)n,a)nti/-ei)mi/
 102077	fu/zw
 102326	kata/-r(a/zw
@@ -596,7 +596,7 @@ a)rotria/zw
 103526	spei=ron
 103548	a)rh/
 103627	a)ga/zw
-103918	di=os
+103918	dia/
 103920	a)ga/zw
 104148	fu/zw
 104354	po/a
@@ -614,7 +614,7 @@ a)rotria/zw
 107355	metasxhma/tisis
 107436	e)ra/omai
 107474	ne/w2
-107865	di=os
+107865	dia/
 107891	su/neimi1
 107956	basileia/w
 108059	a)pokatalla/ssw
@@ -658,7 +658,7 @@ a)rotria/zw
 115307	a)gapa/w
 115545	po/a
 115672	dia/-konia/zw
-115679	di=os
+115679	dia/
 115938	a)pa/llacis
 116087	katasxa/w
 116212	katasxa/w
@@ -689,7 +689,7 @@ a)rotria/zw
 123278	e)cousia/zw
 123422	diakone/w
 123735	kata/rtisis
-123748	di=os
+123748	dia/
 123989	basileia/w
 124283	kata/-pone/omai
 124543	i)/dios
@@ -730,7 +730,7 @@ a)rotria/zw
 133479	ne/w2
 133606	u(fhge/omai
 134467	basileia/w
-134881	di=os
+134881	dia/
 134885	e)ra/omai
 135024	basileia/w
 135062	kure/w

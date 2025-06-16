@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:21+00:00Z
+@dateWritten=2025-06-15T22:27:23+00:00Z
 
 574	aor_pass
 914	aw_pr
@@ -143,7 +143,7 @@
 29136	aor1
 29163	aw_pr
 29482	is_ews
-29601	adverb
+29601	
 29650	irreg_mi
 29917	aw_pr
 30145	reg_fut
@@ -268,7 +268,7 @@
 60493	aor_pass
 60620	aw_fut
 60668	os_on
-61522	adverb
+61522	
 61607	aor_pass
 61746	aor_pass
 61791	aor_pass
@@ -294,7 +294,7 @@
 68218	aor1
 68450	irreg_mi
 68524	aw_fut
-69651	adverb
+69651	
 69785	aw_fut
 69860	h_hs
 69902	irreg_mi
@@ -303,7 +303,7 @@
 70743	ew_pr
 71230	aw_pr
 71281	ami_short
-71291	adverb
+71291	
 71729	aor1
 71970	h_hs
 72345	aor1
@@ -396,7 +396,7 @@
 94687	hs_es
 95459	ow_pr
 95622	is_ews
-95921	adverb
+95921	
 96146	aw_pr
 96356	os_on
 96526	aw_pr

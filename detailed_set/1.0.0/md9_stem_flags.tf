@@ -11,1208 +11,3438 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:30+00:00Z
+@dateWritten=2025-06-15T22:27:33+00:00Z
 
 99	unaugmented
 410	unaugmented
+475	
+574	
 576	unaugmented
+598	
+890	
+914	
+916	
+967	
+1034	
+1043	
+1057	
 1063	unaugmented
 1078	unaugmented/poetic
-1340	unaugmented/poetic
+1115	
+1209	
+1258	
+1298	
+1309	
+1339	
+unaugmented/poetic
 1358	unaugmented
 1385	unaugmented/poetic
+1389	
+1416	
+1446	
+1484	
+1486	
 1592	unaugmented
 1599	unaugmented/poetic
+1611	
+1647	
+1683	
+1685	
+1743	
+1745	
 1764	redupl
-1876	indeclform
-2717	indeclform
+1817	
+1876	
+1880	
+1924	
+1926	
+1938	
+1940	
+
+1961	
+1963	
+1981	
+2027	
+2060	
+2091	
+2101	
+2110	
+2147	
+2179	
+2206	
+2244	
+2321	
+2392	
+2526	
+2563	
+2591	
+2628	
+2678	
+2717	
+
 2765	comp_only
-2797	indeclform
-2937	indeclform
+2773	
+2797	
+2814	
+2923	
+2930	
+2937	
+2939	
+3026	
+3096	
+3127	
+3221	
+3327	
+3390	
 3433	unaugmented
+3444	
+3458	
+3460	
+3463	
 3491	unaugmented
 3508	unaugmented
-3685	indeclform
-3745	indeclform
+3548	
+3572	
+3596	
+3631	
+3676	
+3685	
+3745	
+3760	
+3766	
+3794	
+3804	
+3824	
+3826	
 3831	unaugmented
+3943	
+4080	
+4091	
 4118	unaugmented
 4208	nu_movable/elide_preverb/unasp_preverb
-4399	indeclform
-4439	indeclform
-4448	indeclform
-4534	indeclform
-4561	indeclform
-4653	indeclform
+4216	
+4295	
+4300	
+4344	
+4349	
+4399	
+4439	
+4448	
+4516	
+4534	
+4537	
+4561	
+4647	
+4653	
 4790	unaugmented
 4793	unaugmented
 4814	unaugmented
 4821	unaugmented/poetic
+4873	
 4885	unaugmented/poetic
+4895	
+4928	
+4976	
+4978	
 4985	unaugmented
-5188	indeclform
+5034	
+5052	
+5063	
+5096	
+5188	
+5245	
 5270	unaugmented/poetic
-5448	indeclform
+5315	
+5333	
+5405	
+5425	
+5448	
+5452	
+5478	
+5490	
+5567	
+5579	
 5632	unaugmented
-5692	indeclform
-5710	indeclform
+5690	
+5692	
+5710	
+5716	
+5736	
+5743	
+5749	
+5759	
+5761	
 5768	unaugmented/poetic
+5775	
+5777	
+5786	
+5813	
+5840	
 5843	unaugmented/poetic
-6043	unaugmented
+5852	
+5906	
+5914	
+5935	
+5953	
+6042	
+unaugmented
+6182	
+6187	
+6429	
 6434	unaugmented
 6442	unaugmented
+6451	
+6480	
 6489	unaugmented
 6510	unaugmented
-6561	indeclform
+
+6516	
+6537	
+6545	
+6557	
+6561	
+6563	
+6675	
+6686	
+6696	
+6702	
+6814	
+7027	
+7047	
 7067	unaugmented
-7121	indeclform
+7078	
+7091	
+7121	
 7138	unaugmented
+7140	
+7249	
+7253	
 7282	unaugmented
-7328	indeclform
+7328	
+7405	
+7407	
+7454	
 7460	r_e_i_alpha
+7512	
+7541	
+7544	
+7546	
+7590	
+7593	
+7595	
+7641	
+7670	
 7694	unaugmented
+7747	
 7750	unaugmented
-7929	indeclform
+7786	
+7794	
+7797	
+7799	
+7814	
+7825	
+7828	
+7830	
+7849	
+7852	
+7854	
+7901	
+7929	
+7935	
+7937	
+8008	
 8056	unaugmented/poetic
+8083	
 8369	unaugmented
+8383	
+8400	
 8472	unaugmented
 8530	unaugmented
-8626	indeclform
-8649	indeclform
-8765	indeclform
+8573	
+8626	
+8649	
+8682	
+8699	
+8765	
+8875	
+9008	
 9197	unaugmented
+9211	
+9250	
+9259	
+9296	
+9305	
+9340	
 9377	unaugmented
+
 9399	unaugmented
-indeclform
+
+9449	
+9456	
+9460	
+9481	
+9498	
+9501	
+9514	
 9526	unaugmented
+9528	
 9575	unaugmented/impersonal
-9633	indeclform
+9594	
+9603	
+9633	
 9718	unaugmented
+9722	
+9729	
+9752	
+9920	
 9935	unaugmented/impersonal
+9948	
 10063	unaugmented/poetic
-10081	indeclform
-10092	indeclform
+10080	
+
+10092	
+10098	
+10143	
+10167	
+10184	
 10202	unaugmented/poetic
 10207	unaugmented/poetic
+10259	
+10264	
+10266	
+10278	
+10293	
+10295	
+10310	
+10312	
 10360	unaugmented/poetic
-10697	indeclform
-10701	indeclform
-10820	indeclform
-11007	indeclform
-11892	indeclform
-11923	unaugmented
+10453	
+10491	indeclform
+10506	
+10517	indeclform
+10533	
+10540	
+10576	
+10584	
+10602	
+10627	
+10677	
+10693	
+10697	
+10701	
+10705	
+10707	
+10716	
+10820	
+10868	
+10876	
+10913	
+10935	
+10984	
+11007	
+11049	
+11121	
+11123	
+11135	
+11163	
+11165	
+11184	
+11296	
+11304	
+11306	
+11309	
+11322	
+11333	
+11366	
+11375	
+11442	
+11446	
+11448	
+11570	
+11732	
+11779	
+11892	
+
+11922	
+unaugmented
 11940	unaugmented
-12364	indeclform
-12462	indeclform
+11994	
+12094	
+12113	
+12128	
+12278	
+12350	
+12357	
+12364	
+12414	
+12424	
+12431	
+12433	
+12438	
+12460	
+12462	
+12496	
+12502	
+12563	
+12575	
+12640	
+12698	
 12709	unaugmented
-13334	indeclform
+12747	
+12786	
+12793	
+12857	
+12859	
+12918	
+12969	
+12976	
+13114	
+13206	
+13259	
+13289	
+13306	
+13333	
+
 13377	unaugmented/poetic
+13406	
+13425	
 13457	unaugmented/poetic
 13470	indeclform
 13483	unaugmented/poetic
+13662	
+13678	
+13680	
+13682	
+13777	
+13806	
+13838	
+13852	
+13872	
+13943	
+13974	
+13980	
+13982	
+14000	
+14092	
+14122	
+14138	
+14162	
+14174	
+14185	
+14204	
 14264	unaugmented/impersonal
+14278	
+14280	
 14353	unaugmented
+14403	
+14417	
 14568	unaugmented/poetic
+14592	
+14639	
 14646	unaugmented/poetic
+14649	
+14690	
+14730	
+14869	
+14904	
+14938	
+14952	
+14982	
+14984	
 14994	nu_movable/elide_preverb/unasp_preverb
 15047	contr/nu_movable/elide_preverb/unasp_preverb
+15100	
+15134	
+15194	
+15201	
+15226	
+15229	
+15241	
+15251	
+15293	
 15341	r_e_i_alpha
+15343	
+15379	
+15383	
+15481	
+15508	
+15525	
+15527	
+15603	
+15606	
+15621	
+15704	
+15888	
+15925	
+15984	
+16017	
+16058	
+16148	
+16168	
+16174	
+16185	
 16216	rare
+16240	
+16251	
 16258	impersonal
+16446	
 16599	unaugmented
 16607	unaugmented/impersonal
-16732	unaugmented/poetic
+16648	
+16731	
+unaugmented/poetic
+16781	
+16917	
+16961	
 17184	unaugmented/poetic
 17190	unaugmented/poetic
 17251	unasp_preverb
-17314	indeclform
+17304	
+17314	
 17379	unaugmented
+17407	
+17429	
+17457	
+17500	
+17540	
+17712	
+17914	
+17942	
+18010	
+18025	
+18079	
+18082	
+18091	
+18143	
+18323	
+18397	
+18470	
+18537	
+18547	
+18652	
 18671	unaugmented
+18727	
 18828	unaugmented
 18836	unaugmented
+18851	
+18856	
 18901	unaugmented
-18954	indeclform
+18938	
+18954	
 19007	unaugmented/poetic
-19303	indeclform
-19319	indeclform
-19428	indeclform
+19119	
+19143	
+19148	
+19163	
+19214	
+19303	
+19319	
+19409	
+19416	
+19428	
+19430	
+19666	
+19721	
+19767	
 19770	unaugmented
+19810	
 19874	unaugmented
 19877	unaugmented
-19926	indeclform
-19988	indeclform
+19892	
+19900	
+19926	
+19942	
+19948	
+19954	
+19956	
+19988	
+20131	
+
+20202	
 20255	unaugmented
-20355	indeclform
+20278	
+20300	
+20303	
+20355	
+20397	
+20512	
+20572	
+20579	
 20617	unaugmented/poetic
-21056	indeclform
-21186	indeclform
-21394	indeclform
+20661	
+20674	
+20683	
+20757	
+20773	
+20834	
+21056	
+21095	
+21104	
+21131	
+21167	
+21186	
+21394	
+21437	
+21453	
 21592	unaugmented/poetic
-21639	indeclform
+21613	
+21639	
 21675	unaugmented
+21688	
 21690	unaugmented
+21719	
+21742	
 21893	unaugmented
+22229	
+22252	
 22326	unaugmented
-22526	indeclform
-22538	indeclform
-22693	indeclform
+22378	
+22448	
+22506	
+22526	
+22538	
+22626	
+22693	
 22747	unaugmented/poetic
+22787	
 22859	unaugmented/poetic
-22909	indeclform
+22909	
 22920	unaugmented/poetic
 22936	unaugmented/poetic
+22968	
 23116	unaugmented
+23228	
+23244	
+23289	
 23301	unaugmented/poetic
 23337	unaugmented/poetic
+23399	
+23477	
+23486	
 23510	unaugmented/impersonal
-23570	indeclform
+23546	
+23570	
 23679	unaugmented
-23823	indeclform
+23686	
+23703	
+23823	
+23850	
+23863	
 23875	unaugmented/impersonal
-23901	indeclform
-24315	indeclform
+23901	
+
+24026	
+24315	
 24331	unaugmented
-24643	indeclform
-25288	indeclform
+24377	
+24387	
+24496	
+24553	
+24624	
+24643	
+24724	
+24728	
+24735	
+24748	
+24880	
+24905	
+24922	
+24971	
+25045	
+25093	
+25172	
+25194	
+25288	
+
 25313	unaugmented
+25434	
+25499	
+25565	
+25576	
+25623	
+25702	
 25778	r_e_i_alpha
 r_e_i_alpha/redupl
-25812	indeclform
-25941	indeclform
-25947	indeclform
-26436	indeclform
+25790	
+25812	
+25822	
+25894	
+25909	
+25912	
+25918	
+25929	
+25940	
+
+25947	
+25977	
+25983	
+26023	
+26062	
+26065	
+26295	
+26335	
+26347	
+26355	
+26388	
+26404	
+26435	
+
+26455	
+26464	
 26477	unaugmented/poetic
 26539	unaugmented/poetic
 26557	unaugmented/poetic
 26584	unaugmented
 26631	indeclform
 26643	unaugmented/poetic
+26691	
+26693	
+26738	
+26780	
+26790	
+26821	
+26824	
+26836	
 26883	unaugmented/impersonal
+26895	
+26897	
 26936	unaugmented/impersonal
-26966	indeclform
+26942	
+26966	
 27014	unaugmented/impersonal
-27110	indeclform
-27156	indeclform
+27036	
+27051	
+27110	
+27145	
+27156	
+27213	
 27220	unaugmented/poetic
-27843	indeclform
+27265	
+27335	
+27374	
+27376	
+27461	
+27518	
+27604	
+27639	
+27682	
+27724	
+27774	
+27793	
+27811	
+27815	
+27825	
+27843	
 27848	rare
+27871	
+27886	
 27892	impersonal
-27990	indeclform
+27990	
+28003	
+28063	
+28222	
 28314	unaugmented
-28323	unaugmented/poetic
+28322	
+unaugmented/poetic
+28453	
+28545	
+28570	
 28616	comp_only
 28651	unaugmented/poetic
+28666	
 28703	short_eis
+28723	
 28731	unaugmented
 28746	unaugmented
 28784	unaugmented
+28820	
+28853	
+28892	
+28939	
+29076	
+29133	
+29136	
+29163	
+29191	
+29208	
 29274	unaugmented
-29338	indeclform
+29321	
+29338	
+29348	
 29391	unaugmented
+29421	
 29443	unaugmented/poetic
+29482	
 29487	unaugmented
+29505	
+29601	
+29616	
 29650	elide_preverb/unasp_preverb
-29788	comp_only/unaugmented/poetic
+29689	
+29703	
+29788	
+29796	
 29813	unaugmented/poetic
-29820	comp_only/unaugmented/poetic
-29875	comp_only/unaugmented/poetic
+29820	
+29836	
+29875	
+29917	
+29946	
 30113	unaugmented
+30145	
+30298	
 30325	unaugmented/poetic
 30396	unaugmented/poetic
-30495	indeclform
-30684	comp_only/unaugmented/poetic
-30699	comp_only/unaugmented/poetic
+30495	
+30583	
+30638	
+30684	
+30697	
+30699	
+30783	
+31322	
+31358	
 31370	unaugmented
+31515	
+31540	
 31560	unaugmented/impersonal
+31678	
+31759	
+31768	
+31783	
 31789	unaugmented
+31842	
+31948	
+32119	
 32272	unaugmented
-32306	comp_only/unaugmented/poetic
-32319	unaugmented/poetic
-32387	unaugmented/poetic
+32286	
+32306	
+32318	
+unaugmented/poetic
+32338	
+32350	
+32361	
+32386	
+unaugmented/poetic
+32586	
+32600	
 32742	unaugmented
 32778	unaugmented/poetic
+32848	
 32864	unaugmented
 32888	unaugmented
+32902	
 32950	unaugmented/impersonal
-33227	indeclform
+32952	
+33051	
+33073	
+33104	
+33132	
+33217	
+33227	
 33277	unaugmented/poetic
-33324	comp_only/unaugmented/poetic
-33454	comp_only/unaugmented/poetic
-33543	indeclform
-33566	indeclform
-33574	indeclform
+33324	
+33401	
+33419	
+33428	
+33439	
+33454	
+33503	
+33524	
+33543	
+33566	
+33574	
 33577	unaugmented/poetic
-33699	indeclform
+33667	
+33678	
+33685	
+33699	
+33701	
+33708	
+33711	
 33881	unaugmented
-34190	indeclform
+33983	
+34008	
+34081	
+34141	
+34184	
+34190	
+34192	
+34246	
+34356	
 34490	unaugmented
 34497	unaugmented
-34755	indeclform
+34558	
+34568	
+34570	
+34663	
+34701	
+34755	
+34769	
+34776	
+34808	
+34901	
 34975	unaugmented/poetic
 34983	unaugmented
 35005	unaugmented
 35060	unaugmented
-35079	indeclform
-35100	indeclform
-35229	unaugmented/poetic
+35077	
+35079	
+35094	
+35100	
+35106	
+35125	
+35131	
+35136	
+35145	
+35194	
+
+35225	
+35228	
+unaugmented/poetic
+35238	
+35240	
+35364	
+35398	
+35401	
+35481	
+35548	
 35573	unaugmented
+35610	
+35612	
 35704	unaugmented
+35719	
 35949	unaugmented/poetic
+35966	
+35978	
+36024	
+36047	unaugmented
 36063	unaugmented
 36152	unaugmented
+36161	
+36172	
 36192	unaugmented
 36246	unaugmented
 36299	unaugmented
-36476	comp_only/unaugmented/poetic
-36566	indeclform
+36313	
+36396	
+36476	
+36566	
+36619	
 36623	unaugmented
+36632	
+36721	
+36728	
 36785	unaugmented
+36966	
 36986	unaugmented/impersonal
+37006	
 37093	unaugmented
+
+37112	
+37342	
 37388	unaugmented/poetic
+37390	
 37544	unaugmented
+37632	
+37716	
+37756	
 37838	unaugmented
 37906	unaugmented
+37912	
+37952	
+37955	
+37988	
+38017	
 38047	unaugmented
+38070	
+38073	
+38199	
+38204	
 38253	unaugmented/poetic
 38378	pres_redupl
+38383	
+38421	
 38494	unaugmented/poetic
 unaugmented
+38510	
 38580	unaugmented
+38588	
+38682	
+38705	
+38707	
 38783	unaugmented/poetic
 38810	unaugmented
 38813	unaugmented
+38832	
+38853	
+38856	
 38862	unaugmented
 38870	unaugmented
 38891	unaugmented
+
+38897	
+38944	
 39009	unaugmented
-39293	indeclform
-39644	comp_only/unaugmented/poetic
-39647	indeclform
+39018	
+39090	
+39101	
+39293	
+39319	
+39355	
+39402	
+39409	
+39413	
+39453	
+39457	
+39478	
+39588	
+
+39621	
+39627	
+39644	
+39647	
+39661	
 39683	unaugmented
-39690	comp_only/unaugmented/poetic
-39694	comp_only/unaugmented/poetic
+39690	
+39694	
 39696	unaugmented
+39702	
 39753	unaugmented/impersonal
 39832	rare
 39848	rare
+39858	
 39870	unaugmented
-39909	indeclform
+39909	
+39911	
+39991	
+40057	
+40076	
+40124	
 40128	unaugmented/poetic
+40131	
+40153	
+40162	
+40171	
+40234	
+40268	
+40317	
 40333	comp_only/unaugmented
+40363	
+40414	
+40474	
+40485	
 40487	unaugmented/poetic
+40555	
+40564	
+40607	
+40645	
+40703	
 40811	unaugmented/impersonal
-41037	comp_only/unaugmented/poetic
+40865	
+40900	
+40903	
+40910	
+40943	
+40946	
+40995	
+41009	
+41026	
+41037	
+41048	
+41083	
+41105	
 41149	unaugmented
+41158	
 41161	unaugmented/impersonal
-41390	comp_only/unaugmented/poetic
-42001	comp_only/unaugmented/poetic
+41213	
+41278	
+41300	
+41352	
+41363	
+41373	
+41381	
+41390	
+41398	
+41465	
+41467	
+41482	
+41541	
+41634	
+41640	
+41773	
+41892	indeclform
+41934	
+41950	indeclform
+41997	
+42001	
 42003	unaugmented
+42058	
 42121	unaugmented
-42142	comp_only/unaugmented/poetic
-42197	comp_only/unaugmented/poetic
-42684	comp_only/unaugmented/poetic
-42700	comp_only/unaugmented/poetic
-42790	indeclform
+42134	
+42142	
+42197	
+42347	
+42389	
+42573	
+42584	
+42651	
+42658	
+42684	
+42700	
+42707	
+42713	
+42780	
+42790	
 42809	unaugmented
+42922	
+42976	
+42980	
+42988	
+42995	
+43057	
+43066	
+43117	
+43124	
+43131	
 43162	unaugmented
+43263	indeclform
+43295	
+43305	
+43319	
 43336	unaugmented/poetic
 43383	unaugmented/impersonal
+43452	
+43487	
+43518	
+43682	
+43697	
+43783	
+43799	
+43813	
+43857	
+43861	
+43868	
+43984	
+44000	
+44040	
 44058	unaugmented
+44096	
+44119	
+44138	
 44319	unaugmented/impersonal
 44346	unaugmented/poetic
+44414	
+44429	
+44475	
+44516	
+44518	
+44539	
 44573	r_e_i_alpha
-44727	indeclform
+44609	
+44639	
+44695	
+44727	
+44753	
+44803	
+44807	
+44859	
+44865	
+44908	
 45006	unaugmented/poetic
-45079	indeclform
+45030	
+45044	
+45053	
+45078	
+
+45092	
+45112	
+45118	
+45197	
 45411	elide_preverb/unasp_preverb
+45500	
+45536	
 45570	unaugmented/poetic
-45585	indeclform
+45584	
+
+45603	
 45635	indeclform
 45646	unaugmented/poetic
+45691	
+45693	
+45724	
+45763	
 45835	unaugmented/impersonal
+45853	
+45855	
+45912	
+45941	
+45963	
+46100	
+46168	
+46172	
+46215	
+46274	
+46362	
 46396	redupl
-46813	indeclform
+46434	
+46465	
+46477	
+46491	
+46505	
+46522	
+46610	
+46664	
+46672	
+46684	
+46696	
+46705	
+46707	
+46709	
+46716	
+46728	
+
+46747	
+46778	
+46788	
+46813	
+46833	
 46840	unaugmented/impersonal
+46847	
+46880	
 46905	unaugmented
-46927	indeclform
-47606	comp_only/unaugmented/poetic
+46927	
+47071	
+47242	
+47303	
+47319	
+47352	
+47501	
+47606	
 47617	comp_only
+47770	
+47918	
+47970	
+47988	
+48007	
+48014	
 48039	unaugmented
+48136	
+48146	
+48212	
 48272	comp_only
-48289	indeclform
+48285	
+48289	
 48306	unaugmented/impersonal
-48361	comp_only/unaugmented/poetic
+48316	
+48361	
+48488	
 48507	elide_preverb/unasp_preverb
-48541	indeclform
-48555	indeclform
+48541	
+48550	
+48555	
 48578	unaugmented
-48881	comp_only/unaugmented/poetic
+48600	
+48623	
+48626	
+48644	
+48881	
 48901	unaugmented/impersonal
 48921	unaugmented
+48938	
+48940	
 48948	unaugmented/poetic
+49172	
+49185	
+49231	
+49434	
+49468	
+49481	
+49514	
+49546	
+49659	
+49683	
+49737	
+49825	
+49842	
+49865	
+49928	
+49961	a_priv
+50015	
 50089	indeclform
+50107	
 50113	indeclform
+50217	
+50342	
+50353	
+50383	
+50398	
+50419	
 50421	unaugmented/impersonal
+50442	
+50477	
+50496	
 50536	unaugmented/impersonal
+50570	
+50668	
+50756	
+50792	
 50835	unaugmented/impersonal
-51180	indeclform
+50843	
+50865	
+50980	
+51072	
+51104	
+51122	
+51156	
+51166	
+51180	
+51276	
 51285	unaugmented/impersonal
-51324	indeclform
-51334	n_infix
+51309	
+51324	
+51333	
+n_infix
 51360	unaugmented/impersonal
+51490	
+51503	
+51513	
+51534	
+51541	
+51558	
+51741	
 51976	unaugmented/poetic
-52168	indeclform
-52261	indeclform
-52312	indeclform
-52428	indeclform
-52478	indeclform
-52601	indeclform
+52010	
+52043	
+52062	
+52074	
+52151	
+52168	
+52171	
+52177	
+52189	
+52233	
+52259	
+52261	
+52279	
+52291	
+52312	
+52322	
+52362	
+52428	
+52478	
+52480	
+52525	
+52601	
 52657	unaugmented
-52815	indeclform
+52700	
+52815	
+52875	
 52886	unaugmented
-53049	indeclform
-53055	indeclform
+52947	
+52966	
+53024	
+53049	
+53055	
+53099	
+53102	
+53116	
 53129	unaugmented
-53138	indeclform
-53347	indeclform
-53370	indeclform
-53834	indeclform
-54096	indeclform
-54132	indeclform
-54182	indeclform
+53138	
+53160	
+53189	
+53230	
+53270	
+53308	
+53342	
+53347	
+53370	
+53375	
+53404	
+53471	
+53476	
+53518	
+53564	
+53619	
+53646	
+53653	
+53657	
+53679	
+53686	
+53693	
+53695	
+53834	
+53880	
+53964	
+54056	
+54096	
+54132	
+54182	
 54253	unaugmented/poetic
-54317	indeclform
-54353	indeclform
+54317	
+54353	
 54367	unaugmented
+54411	
+54477	
+54495	
+54545	
 54555	unaugmented
-54688	indeclform
-54726	indeclform
-55310	indeclform
-55438	indeclform
+54608	
+54666	
+54685	
+54688	
+54726	
+54754	
+54802	
+54874	
+54902	
+54925	
+54996	
+55006	
+55042	
+55051	
+55163	
+55175	
+55191	
+55202	
+55207	a_priv
+55222	
+55273	
+55308	
+55310	
+55334	
+55387	
+55395	
+55400	
+55438	
+55613	
+55627	
+55640	
 55683	unaugmented/poetic
 55688	unaugmented/poetic
-55691	indeclform
+55691	
+
+55714	
 55736	unaugmented/poetic
-55819	indeclform
+55742	
+55771	
+55796	
+55819	
+55860	
+55881	
+55883	
 55926	unaugmented/impersonal
-56017	indeclform
-56588	indeclform
-56650	indeclform
+56017	
+56204	
+56338	
+56566	
+56575	
+56588	
+56625	
+56650	
 56658	unaugmented/poetic
+56684	
+56734	
+56821	
+56834	
 56845	unaugmented/impersonal
+56886	
+56891	
 56919	unaugmented/poetic
 56935	unaugmented/poetic
-57007	indeclform
-57114	indeclform
+56947	
+56980	
+56987	
+56996	
+57007	
+57027	
+57033	
+57041	
+57090	
+57114	
+57168	
+57172	
+57179	
+57190	
+57207	
+57215	
+57225	
 57271	unaugmented/poetic
 57290	unaugmented/poetic
-57446	indeclform
+57389	
+57446	
 57449	comp_only/unaugmented
 57476	unaugmented
-57497	indeclform
-57921	indeclform
-58081	indeclform
-58131	indeclform
+57497	
+57618	
+57621	
+57644	
+57749	
+57885	
+57905	a_priv
+57921	
+57927	
+58074	
+58081	
+58131	
+58144	
 58215	unaugmented/poetic
-58292	indeclform
+58227	
+58292	
+58379	
 58425	nu_movable/elide_preverb/unasp_preverb
-58686	indeclform
-58736	indeclform
+58508	
+58602	
+58625	
+58629	
+58644	
+58649	
+58666	
+
+58686	
+58736	
+58753	
 58793	unaugmented/impersonal
+58838	
 58908	unaugmented/poetic
-58945	indeclform
+58945	
 58969	unaugmented
-58980	indeclform
+58980	
+59019	
+59054	
+59058	
+59115	
 59143	unaugmented/poetic
-59266	indeclform
-60202	indeclform
-60719	indeclform
-60868	indeclform
+59169	
+59223	
+59258	
+59266	
+59340	
+59376	
+59403	
+59426	
+59440	
+59469	
+59505	
+59660	
+59666	
+59673	
+59705	
+59713	
+59749	
+59785	
+59817	
+59925	
+59963	
+59973	
+60022	
+60106	
+60120	
+60124	
+60131	
+60174	
+60187	
+60202	
+60233	
+60237	
+60266	
+60268	
+60332	
+60363	
+60382	
+60419	
+60493	
+60499	
+60510	
+60525	
+60564	
+60567	
+60580	
+60620	
+60668	
+60695	
+60719	
+60823	
+60868	
+60882	
+60890	
+60897	
 60920	unaugmented/poetic
-61273	indeclform
-61411	indeclform
-61573	indeclform
-61771	indeclform
+60925	
+60979	
+61052	
+61099	
+61131	
+61145	
+61229	
+61273	
+61291	
+61411	
+61445	
+61522	
+61573	
+61607	
+61746	
+61771	
+61791	
+61808	
+61874	
+61912	
+61923	
 61927	unaugmented/poetic
 61962	unaugmented
+61975	
+62039	
+62066	
 62117	unaugmented
-62439	indeclform
-62696	indeclform
-63150	indeclform
+62167	
+62316	
+62363	
+62368	
+62389	
+62439	
+62467	
+62488	
+62540	
+62566	
+62582	
+62599	
+62696	
+62754	
+62873	
+62878	
+62886	
+62929	
+62938	
+63150	
+63430	
 63564	unaugmented/poetic
-63646	indeclform
+63618	
+63646	
 63675	unaugmented/impersonal
+63678	
 63736	unaugmented/poetic
+63787	
+63789	
 63848	unaugmented/poetic
+63864	
 63905	unaugmented/poetic
+63919	
 63967	unaugmented/poetic
-64063	indeclform
-64100	comp_only/unaugmented/poetic
-64307	indeclform
+64023	
+64037	
+64063	
+64091	
+64095	
+64100	
+64152	
+64179	
+64181	
+64201	
+64258	
+64273	
+64307	
+64316	
 64340	unaugmented
+64343	
+64353	
+64357	
+64375	
+64407	
+64417	
+64421	
+64430	
+64442	
+64453	
+64465	
+64489	
+64500	
+64656	
 64718	unaugmented/poetic
 64727	unaugmented
-64738	indeclform
-64799	indeclform
+64738	
+64778	
+64799	
+64911	
+64934	
+64984	
 65081	unaugmented/impersonal
-65418	indeclform
+65086	
+65164	
+65319	
+65418	
+65436	
 65445	comp_only
+65479	
 65485	comp_only
+65492	a_priv
+65498	
+65571	
+65577	
 65604	unaugmented/poetic
-comp_only/unaugmented/poetic
+
+65634	
 65787	indeclform
 65803	unaugmented/poetic
 65820	unaugmented/poetic
+
+65987	
+66045	
+66087	
+66114	
+66178	
+66289	
+66346	
 66380	unaugmented/impersonal
-66679	comp_only/unaugmented/poetic
+66399	
+66444	
+66462	
+66522	
+66526	
+66542	
+66570	
+66674	
+66679	
 66719	unaugmented/impersonal
-66837	comp_only/unaugmented/poetic
+66831	
+66837	
+67099	
+67227	
 67234	unaugmented/poetic
-67273	indeclform
-67398	indeclform
+67273	
+67306	
+67343	
+67391	
+67398	
+67439	
+67442	
+67463	
+67607	
+67623	
 67723	unaugmented/impersonal
 67753	unaugmented/poetic
 67825	unaugmented/poetic
-68041	comp_only/unaugmented/poetic
-68070	comp_only/unaugmented/poetic
+67834	
+67877	
+68041	
+68070	
+68135	
+68213	
+68218	
 68450	elide_preverb/unasp_preverb
 68524	r_e_i_alpha/unaugmented/poetic
+68649	
 68667	unaugmented/poetic
-68975	indeclform
+68685	
+68975	
+69045	
 69131	unaugmented/poetic
-69136	comp_only/unaugmented/poetic
+69136	
+69214	
 69242	unaugmented
 69344	unaugmented
+69375	
+69408	
+69489	
 69542	unaugmented
+69557	
+69634	
+69651	
+69653	
 69658	unaugmented/poetic
+69718	
+69733	
+69739	
 69747	unaugmented/poetic
+69785	
 69860	indeclform
 69902	elide_preverb/unasp_preverb
-70136	indeclform
+70057	
+70136	
 70149	unaugmented/impersonal
-70306	comp_only/unaugmented/poetic
+70212	
+70246	
+70277	
+70297	
+70306	
 70319	unaugmented/impersonal
 70529	unaugmented/poetic
 70672	unaugmented/poetic
 70689	unaugmented/poetic
+70743	
 70821	unaugmented/poetic
-71134	indeclform
+70856	
+71113	
+71134	
+71230	
 71281	comp_only
-71335	comp_only/unaugmented/poetic
-71352	comp_only/unaugmented/poetic
-71387	comp_only/unaugmented/poetic
-71529	indeclform
+71291	
+71335	
+71352	
+71387	
+71518	
+71529	
+71547	
+71567	
+71571	
+71729	
+71779	
 71951	unaugmented/poetic
+71964	
 71970	indeclform
 71977	unaugmented/poetic
 72027	unaugmented/poetic
 72043	unaugmented/poetic
+72141	
 72177	unaugmented/poetic
+72345	
+72532	
+72568	
 72682	unaugmented/poetic
+72695	
+
+72902	
+72968	
 72987	unaugmented
 73104	unaugmented/poetic
+73147	
+73200	
+73238	
+73301	
+73397	
 73417	redupl
+73498	
+73506	
+73732	
+73804	
+73871	
 74008	unaugmented/impersonal
+74013	
+74020	
+74070	
+74167	
 74207	unaugmented/impersonal
 74240	comp_only
 74243	unaugmented/poetic
-74313	indeclform
+74313	
+74381	
 74388	unaugmented
 74398	unaugmented
 74410	unaugmented/poetic
-74443	indeclform
+74425	
+74443	
+74527	
+74601	
+74650	
+74778	
+74900	
+74916	
+74971	
+75018	
 75031	unaugmented/poetic
+75074	
+75112	
+75137	
+75324	
 75327	unaugmented/impersonal
 75337	unaugmented/poetic
-75453	indeclform
+75453	
+75492	
+75539	
+75544	
+75575	
 75673	unaugmented/poetic
+75723	
+75727	
+75752	
 75848	unaugmented
-75867	unaugmented
-76346	indeclform
-76539	indeclform
+75866	
+unaugmented
+75883	
+75919	
+75962	
+76035	
+76090	
+76126	
+76131	
+76135	
+76346	
+76499	
+76539	
+76562	
+76690	
 76809	unaugmented
-76821	comp_only/unaugmented/poetic
-77027	comp_only/unaugmented/poetic
+76821	
+76848	
+77027	
 77074	unaugmented/impersonal
+77096	
+77114	
 77125	unaugmented
 77134	comp_only
-77152	indeclform
-77184	indeclform
+77152	
+77156	
+77184	
+77205	
+77216	
+77249	
+77276	
 77360	unaugmented
+77437	
+77484	
 77537	unaugmented/poetic
 77597	unaugmented
+77602	
+77706	
 77750	comp_only
+77759	
 77809	unaugmented/poetic
 77814	unaugmented/poetic
+77844	
 77866	unaugmented/poetic
+77898	
+77942	
+77977	
 78049	unaugmented/impersonal
+78056	
+78139	
+78154	
 78356	unaugmented/poetic
-78362	indeclform
-78550	indeclform
+78362	
+78550	
 78596	unaugmented/poetic
+78618	
+78709	
 78807	r_e_i_alpha/unaugmented/poetic
+78843	
 78852	unaugmented/poetic
 78898	unasp_preverb/short_eis
+79026	
+79086	
+79101	
+79152	
+79225	
+79245	
+
+79492	
 79535	comp_only
+79597	
+79673	
 79704	unaugmented/impersonal
+79795	
 80040	unaugmented/poetic
+80314	
+80375	
+80426	
+80429	
+80465	
+80487	
+80504	
+80632	
+80636	
 80770	unaugmented/impersonal
 80821	unaugmented/poetic
+80965	
+80985	
+81112	
 81120	unaugmented/poetic
+81182	
+81244	
 81275	unaugmented
+81295	
 81348	unaugmented
-81398	indeclform
-81478	indeclform
+81398	
+81478	
+81502	
+81540	
+81554	
 81581	unaugmented/poetic
-81591	indeclform
-81658	indeclform
+81591	
+81597	
+81658	
 81673	unaugmented/poetic
 81699	unaugmented/poetic
+81751	
+81806	
+81812	
+81835	
 81857	unaugmented
-81894	indeclform
+81894	
+81897	
+81936	
+
+82024	
 82033	unaugmented
+82064	
+82086	
 82119	unaugmented/impersonal
 82151	unaugmented/impersonal
-82308	comp_only/unaugmented/poetic
+82220	
+82276	
+82308	
+82371	
+82482	
+82529	
 82729	contr/nu_movable/elide_preverb/unasp_preverb
+82735	
 82784	elide_preverb/unasp_preverb
-83407	indeclform
-83486	indeclform
+82910	
+82926	
+82973	
+83054	
+83083	
+83110	
+83274	
+83407	
+83450	
+83469	
+83486	
+83536	
+83551	
 83558	unaugmented
-83607	indeclform
+83582	
+83600	
+83607	
+83661	
 83690	unaugmented/poetic
+83692	
 83700	unaugmented/poetic
+83713	
+83823	
+83862	
+83866	
+83882	
+83916	
+84006	
+84099	
+84146	
+84151	
+84173	
 84226	unaugmented/poetic
-84326	comp_only/unaugmented/poetic
-84442	indeclform
-84487	indeclform
-84536	indeclform
-84662	indeclform
-84693	indeclform
-84722	indeclform
-84744	indeclform
-84828	indeclform
-84860	indeclform
+84240	
+84326	
+84346	
+84407	
+84442	
+84487	
+84536	
+84614	
+84621	
+84662	
+84693	
+84722	
+84744	
+84828	
+84860	
 84874	unaugmented/poetic
-84931	indeclform
+84877	
+84931	
+84955	
 84977	unaugmented/poetic
-85056	indeclform
-85074	indeclform
-85118	indeclform
+85056	
+85074	
+85118	
 85238	indeclform
-85392	indeclform
-85501	indeclform
-85528	indeclform
-85539	indeclform
-85833	indeclform
-85935	indeclform
-86006	indeclform
-86043	indeclform
-86062	indeclform
-86228	indeclform
-86294	indeclform
+85264	
+85370	
+85392	
+85439	
+85501	
+85508	
+85528	
+85539	
+85592	
+85726	
+85775	
+85833	
+85845	
+85855	
+85867	
+85903	
+85935	
+85939	
+85987	
+85994	
+86006	
+86041	
+86043	
+86057	
+86062	
+86069	
+86142	
+86158	
+86228	
+86294	
+86340	
+86347	
+86350	
 86363	indeclform
-86408	indeclform
-86482	indeclform
-86523	indeclform
+86408	
+86449	
+86482	
+86523	
 86583	unaugmented/impersonal
-86586	indeclform
-86683	indeclform
+86586	
+86618	
+86683	
+86705	
+86732	
 86765	unaugmented
-86936	indeclform
-86962	indeclform
-87045	indeclform
-87186	indeclform
-87437	indeclform
+86800	
+86811	
+86936	
+86962	
+87031	
+87037	
+87045	
+87070	
+87078	
+87082	
+87110	
+87122	
+87186	
+87435	
+87437	
 87469	unaugmented/poetic
-87593	indeclform
-87616	indeclform
+87483	
+87557	
+87582	
+87593	
+
+87610	
+87616	
+
+87634	
 87646	unaugmented
-87732	indeclform
+87669	
+87724	
+87732	
 87820	r_e_i_alpha/unaugmented/poetic
-87850	indeclform
+87842	
+87850	
+87882	
 87894	unaugmented/poetic
-87973	indeclform
-87996	indeclform
+87922	
+87943	
+87964	
+87973	
+87996	
+88005	
+88075	
+88177	
+88211	
 88216	unaugmented
-88277	indeclform
+88277	
 unaugmented
 88280	redupl
+88298	
 88315	unaugmented/impersonal
-88317	indeclform
+88317	
+88369	
 88378	unaugmented/poetic
-88473	indeclform
-88489	comp_only/unaugmented/poetic
-88505	indeclform
-88518	indeclform
-88545	indeclform
-88597	indeclform
-88653	indeclform
+88403	
+88421	
+88457	
+88473	
+88489	
+88505	
+88509	
+88518	
+88532	
+88545	
+88597	
+88605	
+88653	
 88703	unaugmented/poetic
+88706	
 88761	unaugmented
 88779	unaugmented/poetic
-88808	indeclform
+88808	
 88811	unaugmented/poetic
 88839	unaugmented/poetic
-89025	indeclform
-89095	indeclform
-89142	indeclform
-89172	comp_only/unaugmented/poetic
+88886	
+88892	
+88968	
+89011	
+89025	
+89089	
+89095	
+89118	
+89142	
+89172	
 89209	unaugmented/poetic
-89232	indeclform
-89336	indeclform
+89232	
+89310	
+89336	
 89363	unaugmented/poetic
-89545	indeclform
-89808	indeclform
-90007	indeclform
-90430	indeclform
-90587	indeclform
-90634	comp_only/unaugmented/poetic
-90762	indeclform
+89545	
+89585	
+89614	
+89692	
+89808	
+89820	
+89824	
+89830	
+89866	
+89880	
+90007	
+90357	
+90370	
+90430	
+90463	
+90587	
+90596	
+90608	
+90628	
+90634	
+90665	
+90697	
+90762	
 90794	unaugmented/poetic
-90798	indeclform
+90798	
 90811	unaugmented/poetic
-90877	indeclform
+90877	
 90943	unaugmented
+90946	
 90950	unaugmented
-91036	indeclform
-91556	indeclform
-91612	indeclform
-91935	indeclform
+90953	
+91001	
+91010	
+91036	
+91064	
+91069	
+91259	
+91361	
+91369	
+91386	
+91444	
+91479	
+91556	
+91566	
+91612	
+91620	
+91635	
+91682	
+91689	
+91751	
+91805	
+91852	
+91892	
+91919	
+91935	
 91943	comp_only/unaugmented
-91966	indeclform
-92012	indeclform
-92014	indeclform
-92016	indeclform
-92071	indeclform
+91966	
+91980	
+92005	
+92012	
+92014	
+92016	
+92064	
+92071	
 92084	unaugmented/poetic
-92239	indeclform
-92252	indeclform
-92301	indeclform
-92344	indeclform
-92515	indeclform
-92765	indeclform
+92158	
+92215	
+92239	
+92252	
+92287	
+92301	
+92303	
+92314	
+92326	
+92344	
+92370	
+92383	
+92398	
+92425	
+92515	
+92685	
+92759	
+92765	
+92807	
+92874	
+92876	
+92891	
 92904	unaugmented/impersonal
+92952	
 93059	unaugmented/poetic
 93114	unaugmented/poetic
-93130	indeclform
-93257	unaugmented/poetic
-93293	indeclform
-93541	indeclform
+93130	
+93155	
+93162	
+93185	
+93238	
+93256	
+unaugmented/poetic
+93260	
+93270	
+93293	
+93310	
+93315	
+93485	
+93541	
+93601	
+93640	
 93676	unaugmented/poetic
-93740	indeclform
+93716	
+93740	
+93760	
 93846	unaugmented
 93855	unaugmented
 93863	unaugmented
 93867	unaugmented/poetic
-93888	indeclform
+93888	
 93917	comp_only/unaugmented
-93954	indeclform
-94012	indeclform
-94135	indeclform
-94147	indeclform
-94261	indeclform
+93950	
+93954	
+94003	
+94012	
+94022	
+94069	
+94082	
+94135	
+94147	
+94157	
+94261	
 94282	unaugmented/impersonal
+94311	
 94339	unaugmented
-94756	indeclform
-94870	indeclform
-94907	indeclform
-94925	indeclform
+94417	
+94432	
+94448	
+94482	
+94605	
+94687	
+94694	
+94756	
+94870	
+94880	
+94907	
+94925	
+94987	
 95027	unaugmented
-95234	indeclform
-95495	indeclform
-95520	indeclform
-95560	indeclform
-95569	indeclform
-95725	indeclform
-95745	indeclform
-95957	indeclform
-95965	indeclform
+95234	
+95261	
+95459	
+95465	
+95495	
+95508	
+95520	
+95560	
+95569	
+95611	
+95622	
+95684	
+95716	
+95725	
+95745	
+95880	
+95893	
+95914	
+95921	
+95938	
+95957	
+95965	
+95988	
+95997	
+96003	
+96015	
+96043	
+96070	
+96096	
+96109	
+96146	
+96152	
+96157	
 96160	unaugmented/impersonal
-96305	indeclform
-96334	indeclform
-96364	indeclform
-96385	indeclform
+96166	
+96231	
+96251	
+96305	
+
+96334	
+96356	
+96364	
+96378	
+96385	
 96399	unaugmented
 96407	unaugmented/poetic
-96473	indeclform
+96419	
+96473	
+96526	
+96540	
+96554	
 96566	unaugmented/impersonal
+96747	
+96807	
 96812	comp_only
+96830	
+96865	
 96882	unaugmented/poetic
+96932	
 96968	unaugmented/poetic
-97163	indeclform
+97163	
 97207	impersonal
 97211	comp_only
-97392	indeclform
-97466	indeclform
-97544	indeclform
-97561	indeclform
-97676	indeclform
-97804	indeclform
-97854	indeclform
-97976	indeclform
+97257	
+97306	
+97331	
+97392	
+97419	
+97466	
+97512	
+97515	
+97544	
+97561	
+97580	elide_preverb/unasp_preverb
+97591	
+97620	
+97676	
+97804	
+97854	
+97953	
+97976	
+97991	
 98012	unaugmented/poetic
 98020	unaugmented/poetic
 98048	unaugmented
-98057	indeclform
+98057	
 98061	unaugmented/poetic
-98067	indeclform
-98083	indeclform
-98094	comp_only/unaugmented/poetic
+98067	
+98070	
+98083	
+98094	
 98121	comp_only/unaugmented
-98143	indeclform
+98143	
 98146	unaugmented/poetic
+98161	
 98294	unaugmented/poetic
-98364	indeclform
+98364	
+98424	
+98435	
 98490	unaugmented/poetic
 98506	unaugmented/impersonal
-98550	indeclform
-98603	indeclform
-98625	indeclform
+98550	
+
+98589	
+98603	
+98625	
 98658	unaugmented/poetic
 98752	unaugmented
-99086	indeclform
+98799	
+98885	
+98962	
+99011	
+99086	
 99145	unaugmented/poetic
 99161	unaugmented/poetic
-99185	indeclform
-99187	indeclform
-99189	indeclform
-99191	indeclform
-99193	indeclform
-99195	indeclform
-99230	comp_only/unaugmented/poetic
-99374	indeclform
-99433	indeclform
-99480	indeclform
-99612	indeclform
+99185	
+99187	
+99189	
+99191	
+99193	
+99195	
+99205	
+99230	
+99374	
+99421	
+99432	
+
+99442	
+99480	
+99608	
+99612	
+99617	
 99635	unaugmented/poetic
-99656	comp_only/unaugmented/poetic
-99658	indeclform
-99660	comp_only/unaugmented/poetic
+99656	
+99658	
+99660	
+99697	
+99704	
+99717	
 99736	unaugmented/poetic
-99942	indeclform
+99796	
+99798	
+99827	
+99834	
+99942	
 99981	impersonal
-100063	indeclform
+100031	
+100063	
 100096	unaugmented
-100203	indeclform
-100222	indeclform
-100308	indeclform
-100319	indeclform
+100203	
+100222	
+100308	
+100319	
 100439	unaugmented/poetic
+100441	
+100497	
+100503	
+100506	
+100520	
+100557	
+100573	
 100581	unaugmented/poetic
+100590	
+100599	
+100613	
+100631	
+100644	
+100646	
+100649	
+100652	
+100656	
+100697	
+100748	
 100762	unaugmented/impersonal
+100789	
+100796	
 100813	unaugmented/impersonal
+100905	
+100923	
 100947	unaugmented/poetic
-101078	indeclform
-101088	indeclform
-101115	indeclform
+100975	
+101078	
+101088	
+101101	
+101115	
+101150	
 101154	comp_only/unaugmented
-101273	indeclform
-101282	indeclform
-101293	indeclform
-101366	indeclform
-101385	indeclform
-101466	indeclform
-101566	indeclform
-101641	indeclform
-101728	indeclform
-101770	comp_only/unaugmented/poetic
-101927	indeclform
+101178	
+101232	
+101240	
+101273	
+101282	
+101293	
+101366	
+101385	
+101391	
+101397	
+101413	
+101422	
+101466	
+101477	
+101566	
+101587	
+101641	
+101660	
+101728	
+101770	
+101782	
+101876	
+101887	
+101927	
+elide_preverb/unasp_preverb
+102057	
+102077	
+102133	
+102202	
+102242	
+102279	
+102326	
+102382	
+102388	
+102421	
+102461	
 102516	unaugmented
-102555	indeclform
-102676	indeclform
-102752	indeclform
-102761	indeclform
-102848	indeclform
-102884	indeclform
+102555	
+102653	
+102661	
+102676	
+102723	
+102752	
+102761	
+102769	
+102816	
+102848	
+102884	
+
+102924	
 102932	unaugmented
-103072	indeclform
-103103	indeclform
-103172	indeclform
-103254	indeclform
+103017	a_priv
+103072	
+103103	
+103122	
+103130	
+103172	
+103175	
+103228	
+103251	
+103254	
+103257	
+103286	
+
+103292	
+103355	
+103367	
+103436	
+103485	
+103507	
+103514	
+103526	
 103548	indeclform
-103597	indeclform
-103636	indeclform
-103918	indeclform
-104054	indeclform
-104405	indeclform
+103597	
+103627	
+103636	
+103744	
+103754	
+103918	
+103920	
+103968	
+104026	
+104035	raw_sonant
+104054	
+104144	
+104148	
+104160	
+104284	
+104354	
+104357	
+104398	
+104402	
+104405	
+104411	
+104421	
+104699	
+104797	
+104891	raw_sonant
+104894	
+104982	
+105022	
+105025	
+105037	
 105102	unaugmented/poetic
-105195	indeclform
-105309	indeclform
+105195	
+105266	
+105309	
+105331	
+105436	
 105438	comp_only
-105466	indeclform
-105481	indeclform
-105546	indeclform
+105466	
+105481	
+105546	
+105572	
+105594	
 105615	unaugmented/poetic
-105637	indeclform
-105754	indeclform
+105624	
+105637	
+105647	
+105656	
+105683	
+105689	
+105754	
+105823	
 105857	unaugmented
-105886	indeclform
+105886	
+106000	
 106002	impersonal
+106015	
 106036	unaugmented/impersonal
 106099	unaugmented/poetic
 106149	impersonal
 106157	impersonal
-106388	indeclform
-106588	indeclform
-106648	indeclform
-106660	indeclform
-106686	indeclform
-106763	indeclform
-106839	indeclform
-106975	indeclform
-106984	indeclform
-107126	indeclform
-107137	indeclform
-107178	indeclform
+106251	
+106324	
+106349	
+106379	
+106388	
+106469	
+106473	
+106588	
+106616	
+106648	
+106660	
+106676	
+106686	
+106763	
+106839	
+106875	
+106937	
+106973	
+106975	
+106984	
+106992	
+107002	
+107030	
+107101	
+107118	
+107126	
+107137	
+107178	
+107209	
+107215	
+107258	a_priv
+107312	
 107351	unaugmented/poetic
+107355	
+107436	
 107456	impersonal
 107474	unaugmented
-107642	indeclform
-107865	indeclform
-108343	indeclform
+107555	
+107579	
+107639	
+107642	
+
+107865	
+107891	
+107908	
+107956	
+107960	
+108041	
+108059	
+108158	
+108302	
+108330	
+108343	
 108370	unaugmented/poetic
+108442	
+108453	
+108476	
 108507	elide_preverb/unasp_preverb
 108569	unaugmented
 108595	unaugmented/poetic
-108803	indeclform
+108631	
+108654	
+108666	a_priv
+108678	a_priv
+108724	
+108780	
+108803	
 108988	unaugmented/poetic
+109025	
 109039	unaugmented/poetic
 109076	unaugmented/impersonal
 109098	unaugmented/impersonal
+109188	
+109259	
 109288	unaugmented/poetic
 109305	unaugmented/poetic
-109390	indeclform
-109535	indeclform
-109571	indeclform
-109586	indeclform
-109626	indeclform
-109651	indeclform
-109754	indeclform
+109353	
+109390	
+109506	
+109511	
+109535	
+109571	
+109586	
+109604	
+109618	
+109621	
+109626	
+109651	
+109730	
+109754	
+109773	
+109792	
 109803	unaugmented/poetic
+109819	
+109862	
+109976	
+110120	
 110175	unaugmented/impersonal
-110275	indeclform
+110221	
+110275	
 110304	unaugmented/poetic
+110386	
+110404	
 110448	contr/nu_movable/elide_preverb/unasp_preverb
-110548	indeclform
-110584	indeclform
+110460	
+110500	
+110541	
+110548	
+110571	
+110584	
+110608	
+110640	
+110655	
 110660	unaugmented/poetic
-110672	indeclform
+110672	
 110704	comp_only/unaugmented
+110748	
 110767	unaugmented/poetic
 110874	unaugmented
 110906	unaugmented
-111229	indeclform
+110930	
+111067	
+111165	
+111190	
+111220	
+111229	
 111278	indeclform
+111373	
 111438	unaugmented/impersonal
-111508	indeclform
-111557	indeclform
+111471	
+111508	
+111557	
+111711	
 111773	unaugmented/poetic
-111782	indeclform
-111824	indeclform
-111946	comp_only/unaugmented/poetic
+111782	
+111799	
+111824	
+111839	
+111929	
+111946	
+111991	
 112044	unaugmented/poetic
+112079	
+112091	
 112106	unaugmented/impersonal
-112124	indeclform
+112117	
+112124	
 112163	unaugmented/impersonal
+112199	
+112228	
 112261	unaugmented/impersonal
 112320	unaugmented
 112443	unaugmented/poetic
-112453	indeclform
+112453	
 112457	unaugmented/poetic
-112526	indeclform
-112570	comp_only/unaugmented/poetic
-112680	indeclform
-112770	comp_only/unaugmented/poetic
-112780	comp_only/unaugmented/poetic
+112461	
+112463	
+112472	
+112478	indeclform
+112515	
+112526	
+
+112558	
+112570	
+112607	
+112610	
+112620	
+112680	
+112688	
+112696	
+112766	
+112770	
+112780	
 112789	unaugmented
-112812	indeclform
-112883	indeclform
-112921	indeclform
+112796	
+112812	
+112815	
+112828	
+112883	
+112898	
+112921	
 112939	unaugmented
-113051	comp_only/unaugmented/poetic
-113055	comp_only/unaugmented/poetic
-113311	indeclform
+113002	
+113051	
+113055	
+113090	
+113232	
+113311	
+113314	
 113328	unaugmented/poetic
-113330	indeclform
-113349	indeclform
-113481	indeclform
+113330	
+113349	
+113422	
+113425	
+113433	
+113481	
+113514	
 113571	unaugmented/impersonal
+113574	
+113578	
+113592	
 113604	unaugmented/poetic
-113607	indeclform
-113663	comp_only/unaugmented/poetic
-113762	indeclform
+113607	
+113663	
+113672	
+113762	
 113811	unaugmented/poetic
 113830	unaugmented/impersonal
-113832	indeclform
+113832	
 113850	unaugmented/poetic
+113895	
+113905	
 113958	unaugmented
-114104	comp_only/unaugmented/poetic
-114147	indeclform
+113995	
+114060	
+114104	
+114122	
+114147	
+114153	
 114181	unaugmented/poetic
-114228	indeclform
+114213	
+114228	
 114274	unaugmented/poetic
 114298	unaugmented
-114329	indeclform
+114303	
+114329	
+114372	
+114504	
 114530	unaugmented/impersonal
-114549	indeclform
+114534	
+114549	
 114590	unaugmented/impersonal
 114599	unaugmented/impersonal
-114654	indeclform
+114654	
+114697	
 114715	indeclform
-114777	indeclform
-114934	indeclform
+114737	
+114744	
+114777	
+114855	
+114860	
+114934	
+114981	
+115009	
+115043	
+115048	
+115060	
 115152	unaugmented/poetic
-115286	indeclform
-115303	indeclform
+115168	
+115184	
+115263	
+115286	
+115303	
+115307	
+115338	
+115346	
+115349	
+115380	
+115426	
 115438	unaugmented/poetic
 115488	unaugmented
 115500	unaugmented
+115545	
 115577	unaugmented
 115649	unaugmented
 115658	indeclform
 115672	unaugmented/poetic
-115679	indeclform
+115679	
 115681	unaugmented/impersonal
 115694	unaugmented
+115780	
+115824	
+115926	
 115938	redupl
 115953	unaugmented
-115955	indeclform
+115955	
 116087	unaugmented
-116179	indeclform
+116138	
+116154	
+116179	
+
+116196	
 116212	unaugmented
 116279	unaugmented/poetic
-116507	comp_only/unaugmented/poetic
-116626	indeclform
+116329	
+116341	
+116427	
+116451	
+116471	
+116507	
+116626	
+116783	
+116821	
+116833	
 116874	unaugmented/poetic
+116914	
+116946	
 117028	unaugmented
 117151	unaugmented/poetic
-117362	indeclform
+117322	
+117362	
+117485	
+117507	
+117521	
+117602	
+117733	
 117758	unaugmented/poetic
 117793	unaugmented/poetic
+117852	
 117860	unaugmented
+117903	raw_sonant
 118017	unaugmented/poetic
+118035	
+118055	
+118090	
+118170	
+118288	
+118293	
+118344	
 118351	unaugmented/poetic
+118401	
+118426	
+118470	
 118579	unaugmented/poetic
-118685	indeclform
-118889	indeclform
+118620	
+118673	
+118675	
+118685	
+118772	
+118889	
 118981	unaugmented/impersonal
-119127	indeclform
+119127	
+119136	
+119210	
+119219	
+119363	
+119393	
+119411	
 119416	unaugmented
 119439	unaugmented/poetic
+119463	
 119467	unaugmented/poetic
+119659	
 119694	unaugmented
-119719	indeclform
+119719	
 119767	unaugmented/poetic
-119875	indeclform
+119781	a_priv
+119875	
 119887	unaugmented
+119901	
 119905	indeclform
-119958	indeclform
-120056	indeclform
+119937	
+119958	
+119979	
+120041	
+120056	a_priv
+120061	
 120117	unaugmented/poetic
+120133	
+120136	
 120141	unaugmented/poetic
-120191	indeclform
+120191	
+120237	
+120285	
 120297	unaugmented/poetic
-120316	comp_only/unaugmented/poetic
-120732	indeclform
-120751	indeclform
-120753	unaugmented/poetic
+120311	
+120316	
+120563	
+120580	
+120588	
+120732	
+120751	
+
+unaugmented/poetic
 120872	unaugmented
+120991	
 121013	unaugmented
+121051	
+121056	
+121067	
 121087	unaugmented
 121259	unaugmented/poetic
-121347	unaugmented
+121334	
+121341	
+121347	
 121353	unaugmented/poetic
 121359	unaugmented
-121452	indeclform
-121483	unaugmented/poetic
-121644	comp_only/unaugmented/poetic
+121374	
+121376	
+121413	
+121452	
+121482	
+unaugmented/poetic
+121602	
+121606	
+121644	
+121647	
+121650	
+121654	
 121661	unaugmented
-121674	indeclform
+121664	
+121674	
 121716	comp_only
+121835	
+121877	
+121909	
+121915	
 122124	unaugmented
+122127	
+122175	
 122204	redupl
 122208	unaugmented
 122249	redupl
-122356	indeclform
-122409	indeclform
-122477	indeclform
+122260	
+122267	
+122356	
+122367	
+122379	
+122394	
+122409	
+122421	
+122441	
+122477	
+122572	
+122689	
+122712	
+122721	
 122727	unaugmented/poetic
-122798	indeclform
-122902	indeclform
-122971	comp_only/unaugmented/poetic
+122798	
+122902	
+122911	
+122929	
+122971	
 122997	unaugmented/poetic
+123052	elide_preverb/unasp_preverb
 123066	unaugmented/poetic
 123103	impersonal
 123136	unaugmented/poetic
-123159	indeclform
+123159	
 123170	unaugmented
-123256	indeclform
+123256	
 123276	unaugmented
-123302	indeclform
-123467	indeclform
-123615	indeclform
-123621	indeclform
-123628	indeclform
+123278	
+123302	
+123345	
+123422	
+123467	
+123615	
+123621	
+123628	
+123645	
 123677	unaugmented/poetic
-123748	indeclform
-124169	indeclform
+123696	
+123701	
+
+123735	
+123748	
+123786	
+123820	
+123874	
+123958	
+123989	
+124025	
+124073	
+124075	
+124169	
+124192	
+124207	
 124241	unaugmented
-124245	indeclform
-124258	indeclform
+124245	
+124258	
+124274	
+124283	
+124328	
+124334	
 124405	unaugmented/poetic
+124409	
 124431	unaugmented/poetic
+124484	
+124495	
+124543	
+124563	
 124566	unaugmented/poetic
+124574	
+124591	
 124593	unaugmented/poetic
-124705	indeclform
-124713	indeclform
+124705	
+124713	
 124716	unaugmented/poetic
+124732	
 124747	unaugmented/impersonal
+124759	
+124771	
 124783	unaugmented
-125132	indeclform
-125417	indeclform
+125132	
+125269	
+125297	
+125302	
+125399	
+125404	
+125417	
+125428	
+125432	
 125658	unaugmented
-126036	indeclform
+125679	
+125723	
+125748	
+125769	
+125797	
+125807	
+125873	
+125883	
+125952	
+126015	
+126036	
 126054	unaugmented/poetic
-126099	comp_only/unaugmented/poetic
-126156	indeclform
+126099	
+126156	
+126303	
+126314	
 126386	unaugmented/poetic
+126481	
+126523	
+126544	
+126569	
 126582	unaugmented/poetic
+126592	
+126615	
+126935	
 126997	unaugmented/poetic
-127044	indeclform
-127114	indeclform
-127174	indeclform
+127044	
+127085	
+127114	
+127174	
+127180	
 127225	unaugmented
-127247	indeclform
-127341	comp_only/unaugmented/poetic
-127421	indeclform
+127237	
+127247	
+127282	
+127324	
+127340	
+
+127416	
+127421	
+127457	
+127543	
 127563	unaugmented/poetic
-127596	indeclform
-127668	indeclform
+127596	
+127599	
+127668	
 127727	unaugmented/poetic
+127736	
+127743	
 127812	comp_only
+127870	
+127920	
 127961	unaugmented/impersonal
-128036	comp_only/unaugmented/poetic
+128036	
+128051	
+128076	
+128152	
+128263	
+128275	
 128287	unaugmented/poetic
+128349	
+128355	
 128388	unaugmented/poetic
-128486	indeclform
-128525	indeclform
-128591	indeclform
-128606	indeclform
+128407	
+128443	
+128486	
+128505	
+128525	
+128535	
+128591	
+128606	
 128629	unaugmented/poetic
-128736	comp_only/unaugmented/poetic
+128736	
+128835	
 128849	unaugmented/poetic
-128863	indeclform
-129087	comp_only/unaugmented/poetic
-129117	indeclform
-129162	comp_only/unaugmented/poetic
-129167	comp_only/unaugmented/poetic
+128863	
+128916	
+128951	
+128999	
+129016	
+129087	
+129117	
+129130	
+129136	
+129162	
+129167	
 129169	unaugmented
-129216	comp_only/unaugmented/poetic
+129204	
+129216	
 129223	poetic
-129255	indeclform
+129255	
 129263	n_infix
-comp_only/unaugmented/poetic
+
+129281	
+129296	
+129304	
+129459	
+129492	
+129540	
 129591	unaugmented/impersonal
-129669	comp_only/unaugmented/poetic
-129680	comp_only/unaugmented/poetic
-129801	comp_only/unaugmented/poetic
+129663	
+129669	
+129680	
+129686	
+129801	
 129808	n_infix
-129821	comp_only/unaugmented/poetic
+129821	
+129936	
 129962	unaugmented/poetic
-130016	comp_only/unaugmented/poetic
+130016	
+130073	
 130086	unaugmented
 130093	unaugmented/poetic
 130211	unaugmented/poetic
 130318	unaugmented/poetic
+130359	
 130421	unaugmented
+130519	
 130651	unaugmented
 130657	unaugmented
 130692	comp_only/unaugmented
-130794	comp_only/unaugmented/poetic
-130798	comp_only/unaugmented/poetic
+130794	
+130798	
 130842	unaugmented/poetic
-130845	comp_only/unaugmented/poetic
+130845	
 130850	comp_only
-130942	comp_only/unaugmented/poetic
+130942	
 130998	unaugmented/poetic
-131029	comp_only/unaugmented/poetic
-131068	comp_only/unaugmented/poetic
-131085	comp_only/unaugmented/poetic
+131029	
+131068	
+131085	
+131109	
+131138	
+131156	
+131225	
 131231	unaugmented/poetic
 131245	unaugmented/poetic
 131255	unaugmented/poetic
 131268	unaugmented
 131278	unaugmented/poetic
-131324	unaugmented
+131288	
+131323	
+unaugmented
+131395	
 131429	comp_only/unaugmented
+131450	
 131468	comp_only
+131481	
+131493	
 131497	comp_only
 131500	comp_only
-131604	comp_only/unaugmented/poetic
+131507	
+131573	
+131604	
+131700	
+131703	
 131775	n_infix
 131777	unaugmented
+131808	
 131882	unaugmented
 131890	unaugmented
+131894	
+131903	
+131918	
 132104	unaugmented/impersonal
 132172	comp_only
-132189	comp_only/unaugmented/poetic
+132183	
+132189	
 132219	unaugmented/impersonal
-132226	poetic
+132225	
+poetic
+132239	
 132243	unaugmented/poetic
-132496	comp_only/unaugmented/poetic
+132350	
+132421	
+132473	
+132496	
 132507	comp_only
+132548	
+132606	
 132636	unaugmented/poetic
 132681	unaugmented/poetic
-132694	comp_only/unaugmented/poetic
-132861	comp_only/unaugmented/poetic
+132694	
+132706	
+132841	
+132861	
+132950	
+133110	
+133144	
 133226	n_infix
+133250	
+133263	
 133269	unaugmented/impersonal
-133309	comp_only/unaugmented/poetic
+133295	
+133303	
+133309	
 133321	n_infix
-133348	comp_only/unaugmented/poetic
-133365	comp_only/unaugmented/poetic
+133348	
+133365	
+133454	
 133479	unaugmented
 133527	comp_only/unaugmented
 133537	unaugmented/poetic
-133560	comp_only/unaugmented/poetic
-133564	comp_only/unaugmented/poetic
+133560	
+133564	
 133567	unaugmented/poetic
+133593	
+133606	
 133686	unaugmented/poetic
-133767	comp_only/unaugmented/poetic
+133723	
+133767	
 unaugmented
-133771	comp_only/unaugmented/poetic
+133771	
+133848	
+133960	
+134118	
+134133	
 134158	n_infix
-comp_only/unaugmented/poetic
+
 134210	unaugmented/poetic
 134259	unaugmented
 134273	unaugmented
 134355	unaugmented/poetic
 134364	unaugmented/poetic
+134382	
+134389	
+134441	
+134467	
+134491	
 134527	unaugmented
 134555	unaugmented
-134677	comp_only/unaugmented/poetic
+134638	
+134677	
 134735	unaugmented
 134758	unaugmented/poetic
-134881	indeclform
+134881	
+134885	
+134923	
+134942	
 134991	unaugmented/impersonal
-135027	indeclform
+135013	
+135024	
+135027	
+
+135045	
+135062	
+135143	
+135165	
+135181	
 135192	unaugmented
 135205	unaugmented
 135444	unaugmented
 135471	unaugmented
+135591	
+135603	
+135612	
 135619	unaugmented
+135625	
+135667	
+135744	
+135781	
+135842	
 135916	unaugmented/poetic
 135921	unaugmented
 unaugmented/poetic
+135999	
+136051	
+136158	
 136168	unaugmented
 136198	unaugmented/poetic
-136259	comp_only/unaugmented/poetic
+136210	
+136213	
+136259	
+136314	
+136364	
 136379	unaugmented/impersonal
-136628	comp_only/unaugmented/poetic
+136445	
+136466	
+136476	
+136628	
+136824	
+136835	
 136930	unaugmented
+136942	
+137213	
 137240	unaugmented
+137261	
+137313	
 137359	unaugmented
 137412	comp_only/unaugmented
 137427	unaugmented
+137459	
 137469	unaugmented/impersonal
+137487	
+137500	
+137523	
+137632	
+137644	
+137646	
+137711	
+137714	
+137733	

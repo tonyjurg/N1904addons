@@ -11,9 +11,22 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:25+00:00Z
+@dateWritten=2025-06-15T22:27:27+00:00Z
 
-42922	dia/ peri/
-78139	dia/ a)po/
-104357	a)po/ kata/
-109819	e)n
+11994	
+14204	
+16185	
+25434	
+26821	
+27825	
+42922	
+44695	
+44807	
+46274	
+46880	
+68218	
+78139	
+82086	
+104357	
+109819	
+121654	

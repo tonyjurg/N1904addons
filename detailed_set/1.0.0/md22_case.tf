@@ -11,32 +11,48 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:25+00:00Z
+@dateWritten=2025-06-15T22:27:27+00:00Z
 
-1446	gen
-1647	gen
-3943	gen
-4091	gen
-8400	gen
-9305	gen
-10935	gen
-19666	gen
-20661	gen
-20773	gen
-21104	gen
-22252	gen
-23244	gen
-24553	gen
-27604	nom/voc/acc
-35966	gen
-42922	dat
-49434	gen
-50756	gen
-52700	gen
-52947	gen
-53024	gen
-53099	gen
-57225	gen
-61923	gen
-78139	nom
-121654	nom
+1446	accusative
+1647	accusative
+3943	accusative
+4091	accusative
+8400	accusative
+9305	accusative
+10935	accusative
+11994	
+14204	
+16185	
+19666	accusative
+20661	accusative
+20773	accusative
+21104	accusative
+22252	accusative
+23244	accusative
+24553	accusative
+25434	
+26821	
+27604	nominative/vocative/accusative
+27825	
+35966	accusative
+42922	dative
+44695	
+44807	
+46274	
+46880	
+49434	accusative
+50756	accusative
+52700	accusative
+52947	accusative
+53024	accusative
+53099	accusative
+57225	accusative
+61923	accusative
+68218	
+78139	nominative
+82086	
+97591	
+98435	
+104357	
+109819	
+121654	nominative

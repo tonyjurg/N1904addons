@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:22+00:00Z
+@dateWritten=2025-06-15T22:27:23+00:00Z
 
 914	basilei
 1043	liq
@@ -223,13 +223,13 @@
 93256	a)rotri
 96146	basilei+
 96526	basilei+
-97580	e)nanti
+97580	e)nanti/on
 97591	q
 98435	q
 99796	u(postas
 100590	u(postas
 100697	a)m
-101928	e)nanti
+101928	e)nanti/on
 102077	fu_s
 102326	r(
 102769	fu_s
@@ -259,13 +259,13 @@
 115307	a)gaph
 119979	basilei+
 121334	fu_s
-121347	i)ou=
+121347	i)
 121359	a)r
 121654	a)lal
 121716	e)pist
 122208	de
 122689	e)piqumi
-123052	e)nanti
+123052	e)nanti/on
 123989	basilei+
 124283	katapon
 125769	a)r

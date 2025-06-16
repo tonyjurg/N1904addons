@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:22+00:00Z
+@dateWritten=2025-06-15T22:27:23+00:00Z
 
 914	basileia/w
 1043	liqa/zw
@@ -290,7 +290,7 @@
 115307	a)gapa/w
 119979	basileia/w
 121334	fusa/w
-121347	i)ou/
+121347	i)o/w
 121359	kata/-r(e/omai
 121654	kata/-a)lala/zw
 121716	e)pi/-sta/zw

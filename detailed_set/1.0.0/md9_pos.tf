@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:30+00:00Z
+@dateWritten=2025-06-15T22:27:33+00:00Z
 
 99	verb
 410	verb
@@ -52,7 +52,7 @@ verb
 1745	verb
 1764	verb
 1817	verb
-1876	adverb
+1876	personal pronoun
 1880	noun
 1924	verb
 1926	verb
@@ -78,15 +78,15 @@ noun
 2591	noun
 2628	verb
 2678	noun
-2717	adverb
+2717	personal pronoun
 noun
 2765	verb
 2773	noun
-2797	adverb
+2797	personal pronoun
 2814	verb
 2923	noun
 2930	verb
-2937	proper noun indeclinable
+2937	noun
 2939	noun
 3026	noun
 3096	verb
@@ -106,8 +106,8 @@ noun
 3596	verb
 3631	verb
 3676	verb
-3685	adverb
-3745	adverb
+3685	personal pronoun
+3745	personal pronoun
 3760	verb
 3766	noun
 3794	noun
@@ -125,15 +125,15 @@ noun
 4300	verb
 4344	verb
 4349	verb
-4399	proper noun indeclinable
-4439	adverb
-4448	proper noun indeclinable
+4399	noun
+4439	personal pronoun
+4448	noun
 4516	verb
-4534	adverb
+4534	personal pronoun
 4537	verb
-4561	adverb
+4561	personal pronoun
 4647	verb
-4653	adverb
+4653	personal pronoun
 4790	verb
 4793	verb
 4814	verb
@@ -149,14 +149,14 @@ noun
 5052	verb
 5063	verb
 5096	noun
-5188	adverb
+5188	personal pronoun
 5245	noun
 5270	verb
 5315	noun
 5333	verb
 5405	verb
 5425	verb
-5448	adverb
+5448	personal pronoun
 5452	verb
 5478	noun
 5490	noun
@@ -164,8 +164,8 @@ noun
 5579	noun
 5632	verb
 5690	verb
-5692	adverb
-5710	adverb
+5692	personal pronoun
+5710	personal pronoun
 5716	noun
 5736	verb
 5743	noun
@@ -200,7 +200,7 @@ noun
 6537	verb
 6545	verb
 6557	verb
-6561	proper noun indeclinable
+6561	noun
 6563	noun
 6675	noun
 6686	verb
@@ -208,17 +208,17 @@ noun
 6702	verb
 6814	verb
 7027	verb
-7047	verb
+7047	personal pronoun
 7067	verb
-7078	verb
-7091	verb
-7121	proper noun indeclinable
+7078	personal pronoun
+7091	personal pronoun
+7121	noun
 7138	verb
 7140	verb
 7249	noun
 7253	verb
 7282	verb
-7328	adverb
+7328	personal pronoun
 7405	noun
 7407	verb
 7454	noun
@@ -247,7 +247,7 @@ noun
 7852	noun
 7854	verb
 7901	verb
-7929	proper noun indeclinable
+7929	noun
 7935	verb
 7937	verb
 8008	noun
@@ -259,11 +259,11 @@ noun
 8472	verb
 8530	verb
 8573	verb
-8626	proper noun indeclinable
-8649	proper noun indeclinable
+8626	noun
+8649	noun
 8682	verb
 8699	verb
-8765	adverb
+8765	personal pronoun
 8875	verb
 9008	verb
 9197	verb
@@ -276,7 +276,7 @@ noun
 9377	verb
 noun
 9399	verb
-adverb
+personal pronoun
 9449	verb
 9456	verb
 9460	noun
@@ -289,7 +289,7 @@ adverb
 9575	verb
 9594	verb
 9603	noun
-9633	adverb
+9633	personal pronoun
 9718	verb
 9722	verb
 9729	noun
@@ -299,8 +299,8 @@ adverb
 9948	noun
 10063	verb
 10080	noun
-proper noun indeclinable
-10092	proper noun indeclinable
+noun
+10092	noun
 10098	noun
 10143	verb
 10167	noun
@@ -317,9 +317,9 @@ proper noun indeclinable
 10312	verb
 10360	verb
 10453	noun
-10491	noun
+10491	noun other indeclinable
 10506	noun
-10517	noun
+10517	noun other indeclinable
 10533	verb
 10540	verb
 10576	noun
@@ -328,18 +328,18 @@ proper noun indeclinable
 10627	noun
 10677	verb
 10693	noun
-10697	adverb
-10701	proper noun indeclinable
+10697	personal pronoun
+10701	noun
 10705	noun
 10707	verb
 10716	verb
-10820	adverb
+10820	personal pronoun
 10868	verb
 10876	verb
 10913	verb
 10935	verb
 10984	verb
-11007	adverb
+11007	personal pronoun
 11049	noun
 11121	verb
 11123	verb
@@ -361,7 +361,7 @@ proper noun indeclinable
 11570	verb
 11732	verb
 11779	verb
-11892	adverb
+11892	personal pronoun
 verb
 11922	verb
 verb
@@ -373,14 +373,14 @@ verb
 12278	verb
 12350	noun
 12357	verb
-12364	adverb
+12364	personal pronoun
 12414	verb
 12424	verb
 12431	verb
 12433	verb
 12438	noun
 12460	verb
-12462	proper noun indeclinable
+12462	noun
 12496	noun
 12502	noun
 12563	noun
@@ -402,7 +402,7 @@ verb
 13289	verb
 13306	verb
 13333	verb
-adverb
+personal pronoun
 13377	verb
 13406	verb
 13425	verb
@@ -453,13 +453,13 @@ adverb
 15047	verb
 15100	verb
 15134	noun
-15194	verb
-15201	verb
+15194	personal pronoun
+15201	personal pronoun
 15226	verb
 15229	verb
-15241	verb
-15251	verb
-15293	verb
+15241	personal pronoun
+15251	personal pronoun
+15293	personal pronoun
 15341	verb
 15343	verb
 15379	verb
@@ -498,7 +498,7 @@ verb
 17190	verb
 17251	verb
 17304	verb
-17314	adverb
+17314	personal pronoun
 17379	verb
 17407	verb
 17429	verb
@@ -528,18 +528,18 @@ verb
 18856	noun
 18901	verb
 18938	verb
-18954	adverb
+18954	personal pronoun
 19007	verb
 19119	verb
 19143	verb
 19148	verb
 19163	noun
 19214	verb
-19303	adverb
-19319	proper noun indeclinable
+19303	personal pronoun
+19319	noun
 19409	verb
 19416	verb
-19428	adverb
+19428	personal pronoun
 19430	verb
 19666	verb
 19721	verb
@@ -550,43 +550,43 @@ verb
 19877	verb
 19892	noun
 19900	noun
-19926	adverb
+19926	personal pronoun
 19942	verb
 19948	verb
 19954	verb
 19956	noun
-19988	adverb
+19988	personal pronoun
 20131	verb
 verb
-20202	verb
+20202	personal pronoun
 20255	verb
 20278	verb
 20300	verb
 20303	noun
-20355	adverb
+20355	personal pronoun
 20397	verb
 20512	noun
 20572	verb
 20579	verb
 20617	verb
 20661	verb
-20674	verb
+20674	personal pronoun
 20683	verb
 20757	noun
 20773	verb
 20834	verb
-21056	adverb
+21056	personal pronoun
 21095	verb
 21104	verb
 21131	verb
 21167	verb
-21186	adverb
-21394	adverb
+21186	personal pronoun
+21394	personal pronoun
 21437	noun
 21453	verb
 21592	verb
 21613	verb
-21639	adverb
+21639	personal pronoun
 21675	verb
 21688	verb
 21690	verb
@@ -598,15 +598,15 @@ verb
 22326	verb
 22378	verb
 22448	verb
-22506	verb
-22526	proper noun indeclinable
-22538	adverb
+22506	personal pronoun
+22526	noun
+22538	personal pronoun
 22626	verb
-22693	adverb
+22693	personal pronoun
 22747	verb
 22787	verb
 22859	verb
-22909	proper noun indeclinable
+22909	noun
 22920	verb
 22936	verb
 22968	verb
@@ -621,25 +621,25 @@ verb
 23486	verb
 23510	verb
 23546	noun
-23570	adverb
+23570	personal pronoun
 23679	verb
 23686	noun
 23703	verb
-23823	adverb
+23823	personal pronoun
 23850	verb
 23863	verb
 23875	verb
-23901	adverb
+23901	personal pronoun
 noun
 24026	verb
-24315	adverb
+24315	personal pronoun
 24331	verb
 24377	verb
 24387	noun
 24496	verb
 24553	verb
 24624	verb
-24643	adverb
+24643	personal pronoun
 24724	noun
 24728	noun
 24735	verb
@@ -652,7 +652,7 @@ noun
 25093	verb
 25172	noun
 25194	noun
-25288	adverb
+25288	personal pronoun
 verb
 25313	verb
 25434	verb
@@ -664,7 +664,7 @@ verb
 25778	verb
 verb
 25790	noun
-25812	adverb
+25812	personal pronoun
 25822	noun
 25894	verb
 25909	verb
@@ -672,8 +672,8 @@ verb
 25918	noun
 25929	verb
 25940	verb
-proper noun indeclinable
-25947	adverb
+noun
+25947	personal pronoun
 25977	noun
 25983	noun
 26023	verb
@@ -686,7 +686,7 @@ proper noun indeclinable
 26388	verb
 26404	verb
 26435	verb
-adverb
+personal pronoun
 26455	noun
 26464	noun
 26477	verb
@@ -708,13 +708,13 @@ adverb
 26897	verb
 26936	verb
 26942	noun
-26966	adverb
+26966	personal pronoun
 27014	verb
 27036	verb
 27051	verb
-27110	adverb
+27110	personal pronoun
 27145	verb
-27156	adverb
+27156	personal pronoun
 27213	verb
 27220	verb
 27265	noun
@@ -732,12 +732,12 @@ adverb
 27811	noun
 27815	verb
 27825	verb
-27843	adverb
+27843	personal pronoun
 27848	verb
 27871	noun
 27886	noun
 27892	verb
-27990	adverb
+27990	personal pronoun
 28003	noun
 28063	verb
 28222	verb
@@ -767,7 +767,7 @@ verb
 29208	verb
 29274	verb
 29321	verb
-29338	adverb
+29338	personal pronoun
 29348	verb
 29391	verb
 29421	verb
@@ -780,12 +780,12 @@ verb
 29650	verb
 29689	verb
 29703	verb
-29788	verb
+29788	noun
 29796	verb
 29813	verb
-29820	verb
+29820	noun
 29836	verb
-29875	verb
+29875	noun
 29917	verb
 29946	verb
 30113	verb
@@ -793,12 +793,12 @@ verb
 30298	verb
 30325	verb
 30396	verb
-30495	adverb
+30495	personal pronoun
 30583	noun
 30638	verb
-30684	verb
+30684	noun
 30697	verb
-30699	verb
+30699	noun
 30783	noun
 31322	verb
 31358	verb
@@ -816,7 +816,7 @@ verb
 32119	noun
 32272	verb
 32286	verb
-32306	verb
+32306	noun
 32318	noun
 verb
 32338	verb
@@ -839,24 +839,24 @@ verb
 33104	noun
 33132	verb
 33217	verb
-33227	adverb
+33227	personal pronoun
 33277	verb
-33324	verb
+33324	noun
 33401	verb
 33419	verb
 33428	verb
 33439	noun
-33454	verb
+33454	noun
 33503	verb
 33524	verb
-33543	proper noun indeclinable
-33566	adverb
-33574	adverb
+33543	noun
+33566	personal pronoun
+33574	personal pronoun
 33577	verb
 33667	verb
 33678	verb
 33685	verb
-33699	adverb
+33699	personal pronoun
 33701	verb
 33708	noun
 33711	verb
@@ -866,7 +866,7 @@ verb
 34081	noun
 34141	verb
 34184	verb
-34190	adverb
+34190	personal pronoun
 34192	noun
 34246	verb
 34356	verb
@@ -877,7 +877,7 @@ verb
 34570	noun
 34663	noun
 34701	verb
-34755	adverb
+34755	personal pronoun
 34769	verb
 34776	noun
 34808	noun
@@ -887,9 +887,9 @@ verb
 35005	verb
 35060	verb
 35077	verb
-35079	adverb
+35079	personal pronoun
 35094	verb
-35100	adverb
+35100	personal pronoun
 35106	noun
 35125	verb
 35131	noun
@@ -926,8 +926,8 @@ verb
 36299	verb
 36313	verb
 36396	verb
-36476	verb
-36566	adverb
+36476	noun
+36566	personal pronoun
 36619	verb
 36623	verb
 36632	verb
@@ -987,7 +987,7 @@ noun
 39018	noun
 39090	verb
 39101	verb
-39293	adverb
+39293	personal pronoun
 39319	verb
 39355	verb
 39402	verb
@@ -1000,12 +1000,12 @@ noun
 noun
 39621	verb
 39627	noun
-39644	verb
-39647	adverb
+39644	noun
+39647	personal pronoun
 39661	noun
 39683	verb
-39690	verb
-39694	verb
+39690	noun
+39694	noun
 39696	verb
 39702	verb
 39753	verb
@@ -1013,7 +1013,7 @@ noun
 39848	verb
 39858	verb
 39870	verb
-39909	proper noun indeclinable
+39909	noun
 39911	noun
 39991	noun
 40057	verb
@@ -1048,7 +1048,7 @@ noun
 40995	noun
 41009	verb
 41026	verb
-41037	verb
+41037	noun
 41048	verb
 41083	verb
 41105	verb
@@ -1062,7 +1062,7 @@ noun
 41363	verb
 41373	verb
 41381	verb
-41390	verb
+41390	noun
 41398	noun
 41465	verb
 41467	verb
@@ -1071,29 +1071,29 @@ noun
 41634	noun
 41640	verb
 41773	verb
-41892	noun
+41892	noun other indeclinable
 41934	noun
-41950	noun
+41950	noun other indeclinable
 41997	noun
-42001	verb
+42001	noun
 42003	verb
 42058	noun
 42121	verb
 42134	verb
-42142	verb
-42197	verb
+42142	noun
+42197	noun
 42347	verb
 42389	verb
 42573	noun
 42584	verb
 42651	noun
 42658	verb
-42684	verb
-42700	verb
+42684	noun
+42700	noun
 42707	verb
 42713	noun
 42780	noun
-42790	adverb
+42790	personal pronoun
 42809	verb
 42922	verb
 42976	verb
@@ -1106,7 +1106,7 @@ noun
 43124	verb
 43131	verb
 43162	verb
-43263	noun
+43263	noun other indeclinable
 43295	noun
 43305	noun
 43319	noun
@@ -1142,7 +1142,7 @@ noun
 44609	verb
 44639	noun
 44695	verb
-44727	proper noun indeclinable
+44727	noun
 44753	verb
 44803	verb
 44807	verb
@@ -1154,7 +1154,7 @@ noun
 45044	verb
 45053	verb
 45078	verb
-proper noun indeclinable
+noun
 45092	verb
 45112	noun
 45118	noun
@@ -1164,7 +1164,7 @@ proper noun indeclinable
 45536	verb
 45570	verb
 45584	verb
-adverb
+personal pronoun
 45603	verb
 45635	proper noun indeclinable
 45646	verb
@@ -1205,20 +1205,20 @@ noun
 46747	verb
 46778	noun
 46788	noun
-46813	adverb
+46813	personal pronoun
 46833	noun
 46840	verb
 46847	verb
 46880	verb
 46905	verb
-46927	adverb
+46927	personal pronoun
 47071	verb
 47242	noun
 47303	noun
 47319	verb
 47352	verb
 47501	verb
-47606	verb
+47606	noun
 47617	verb
 47770	noun
 47918	verb
@@ -1232,21 +1232,21 @@ noun
 48212	verb
 48272	verb
 48285	verb
-48289	adverb
+48289	personal pronoun
 48306	verb
 48316	verb
-48361	verb
+48361	noun
 48488	noun
 48507	verb
-48541	adverb
+48541	personal pronoun
 48550	noun
-48555	adverb
+48555	personal pronoun
 48578	verb
 48600	noun
 48623	verb
 48626	verb
 48644	verb
-48881	verb
+48881	noun
 48901	verb
 48921	verb
 48938	verb
@@ -1267,7 +1267,7 @@ noun
 49842	noun
 49865	verb
 49928	verb
-49961	verb
+49961	noun
 50015	verb
 50089	proper noun indeclinable
 50107	verb
@@ -1296,11 +1296,11 @@ noun
 51122	noun
 51156	noun
 51166	verb
-51180	adverb
+51180	personal pronoun
 51276	verb
 51285	verb
 51309	verb
-51324	adverb
+51324	personal pronoun
 51333	verb
 verb
 51360	verb
@@ -1317,46 +1317,46 @@ verb
 52062	verb
 52074	verb
 52151	verb
-52168	adverb
+52168	personal pronoun
 52171	verb
 52177	noun
 52189	noun
 52233	noun
 52259	noun
-52261	adverb
+52261	personal pronoun
 52279	verb
 52291	noun
-52312	adverb
+52312	personal pronoun
 52322	noun
 52362	verb
-52428	adverb
-52478	adverb
+52428	personal pronoun
+52478	personal pronoun
 52480	noun
 52525	noun
-52601	adverb
+52601	personal pronoun
 52657	verb
 52700	verb
-52815	adverb
+52815	personal pronoun
 52875	verb
 52886	verb
 52947	verb
 52966	verb
 53024	verb
-53049	adverb
-53055	adverb
+53049	personal pronoun
+53055	personal pronoun
 53099	verb
 53102	noun
 53116	noun
 53129	verb
-53138	adverb
+53138	personal pronoun
 53160	noun
 53189	noun
 53230	noun
 53270	noun
 53308	noun
 53342	noun
-53347	adverb
-53370	adverb
+53347	personal pronoun
+53370	personal pronoun
 53375	verb
 53404	verb
 53471	verb
@@ -1371,16 +1371,16 @@ verb
 53686	verb
 53693	noun
 53695	verb
-53834	proper noun indeclinable
+53834	noun
 53880	noun
 53964	noun
 54056	verb
-54096	adverb
-54132	adverb
-54182	adverb
+54096	personal pronoun
+54132	personal pronoun
+54182	personal pronoun
 54253	verb
-54317	adverb
-54353	adverb
+54317	personal pronoun
+54353	personal pronoun
 54367	verb
 54411	verb
 54477	verb
@@ -1390,8 +1390,8 @@ verb
 54608	verb
 54666	verb
 54685	noun
-54688	proper noun indeclinable
-54726	adverb
+54688	noun
+54726	personal pronoun
 54754	noun
 54802	verb
 54874	noun
@@ -1405,46 +1405,46 @@ verb
 55175	verb
 55191	verb
 55202	noun
-55207	verb
+55207	noun
 55222	noun
 55273	verb
 55308	noun
-55310	adverb
+55310	personal pronoun
 55334	noun
 55387	verb
 55395	noun
 55400	noun
-55438	adverb
+55438	personal pronoun
 55613	verb
 55627	noun
 55640	noun
 55683	verb
 55688	verb
-55691	adverb
+55691	personal pronoun
 verb
 55714	noun
 55736	verb
 55742	verb
 55771	verb
 55796	verb
-55819	adverb
+55819	personal pronoun
 55860	noun
 55881	verb
 55883	verb
 55926	verb
-56017	adverb
+56017	personal pronoun
 56204	verb
 56338	noun
 56566	verb
 56575	noun
-56588	adverb
+56588	personal pronoun
 56625	verb
-56650	adverb
+56650	personal pronoun
 56658	verb
 56684	noun
 56734	noun
 56821	verb
-56834	verb
+56834	personal pronoun
 56845	verb
 56886	verb
 56891	verb
@@ -1454,12 +1454,12 @@ verb
 56980	noun
 56987	noun
 56996	noun
-57007	adverb
+57007	personal pronoun
 57027	verb
 57033	verb
 57041	verb
 57090	noun
-57114	adverb
+57114	personal pronoun
 57168	verb
 57172	noun
 57179	noun
@@ -1470,25 +1470,25 @@ verb
 57271	verb
 57290	verb
 57389	verb
-57446	adverb
+57446	personal pronoun
 57449	verb
 57476	verb
-57497	adverb
+57497	personal pronoun
 57618	verb
 57621	verb
 57644	noun
 57749	verb
 57885	noun
-57905	verb
-57921	adverb
+57905	noun
+57921	personal pronoun
 57927	noun
 58074	verb
-58081	adverb
-58131	adverb
+58081	personal pronoun
+58131	personal pronoun
 58144	noun
 58215	verb
 58227	verb
-58292	proper noun indeclinable
+58292	noun
 58379	verb
 58425	verb
 58508	verb
@@ -1499,15 +1499,15 @@ verb
 58649	verb
 58666	verb
 verb
-58686	adverb
-58736	adverb
+58686	personal pronoun
+58736	personal pronoun
 58753	verb
 58793	verb
 58838	verb
 58908	verb
-58945	adverb
+58945	personal pronoun
 58969	verb
-58980	adverb
+58980	personal pronoun
 59019	verb
 59054	noun
 59058	verb
@@ -1516,7 +1516,7 @@ verb
 59169	verb
 59223	noun
 59258	noun
-59266	adverb
+59266	personal pronoun
 59340	verb
 59376	noun
 59403	noun
@@ -1542,7 +1542,7 @@ verb
 60131	verb
 60174	noun
 60187	verb
-60202	adverb
+60202	personal pronoun
 60233	noun
 60237	noun
 60266	noun
@@ -1561,9 +1561,9 @@ verb
 60620	verb
 60668	verb
 60695	noun
-60719	adverb
+60719	personal pronoun
 60823	noun
-60868	adverb
+60868	personal pronoun
 60882	noun
 60890	noun
 60897	verb
@@ -1575,15 +1575,15 @@ verb
 61131	noun
 61145	noun
 61229	noun
-61273	adverb
+61273	personal pronoun
 61291	noun
-61411	adverb
+61411	personal pronoun
 61445	verb
 61522	verb
-61573	adverb
+61573	personal pronoun
 61607	verb
 61746	verb
-61771	adverb
+61771	personal pronoun
 61791	verb
 61808	verb
 61874	verb
@@ -1600,25 +1600,25 @@ verb
 62363	noun
 62368	noun
 62389	verb
-62439	adverb
+62439	personal pronoun
 62467	noun
 62488	noun
 62540	noun
 62566	noun
 62582	noun
 62599	noun
-62696	adverb
+62696	personal pronoun
 62754	verb
 62873	verb
 62878	verb
 62886	verb
 62929	noun
 62938	verb
-63150	adverb
+63150	personal pronoun
 63430	verb
 63564	verb
 63618	noun
-63646	adverb
+63646	personal pronoun
 63675	verb
 63678	verb
 63736	verb
@@ -1631,17 +1631,17 @@ verb
 63967	verb
 64023	verb
 64037	verb
-64063	adverb
+64063	personal pronoun
 64091	noun
-64095	verb
-64100	verb
+64095	personal pronoun
+64100	noun
 64152	noun
 64179	noun
 64181	verb
 64201	verb
 64258	verb
 64273	noun
-64307	adverb
+64307	personal pronoun
 64316	verb
 64340	verb
 64343	noun
@@ -1657,12 +1657,12 @@ verb
 64465	noun
 64489	noun
 64500	noun
-64656	verb
+64656	personal pronoun
 64718	verb
 64727	verb
-64738	adverb
+64738	personal pronoun
 64778	verb
-64799	adverb
+64799	personal pronoun
 64911	verb
 64934	noun
 64984	verb
@@ -1670,17 +1670,17 @@ verb
 65086	verb
 65164	verb
 65319	noun
-65418	adverb
+65418	personal pronoun
 65436	verb
 65445	verb
 65479	verb
 65485	verb
-65492	verb
+65492	noun
 65498	noun
 65571	verb
 65577	verb
 65604	verb
-verb
+noun
 65634	verb
 65787	proper noun indeclinable
 65803	verb
@@ -1702,18 +1702,18 @@ noun
 66542	verb
 66570	verb
 66674	verb
-66679	verb
+66679	noun
 66719	verb
 66831	noun
-66837	verb
+66837	noun
 67099	verb
 67227	verb
 67234	verb
-67273	adverb
+67273	personal pronoun
 67306	verb
 67343	verb
 67391	verb
-67398	proper noun indeclinable
+67398	noun
 67439	verb
 67442	noun
 67463	verb
@@ -1724,8 +1724,8 @@ noun
 67825	verb
 67834	verb
 67877	noun
-68041	verb
-68070	verb
+68041	noun
+68070	noun
 68135	noun
 68213	verb
 68218	verb
@@ -1734,10 +1734,10 @@ noun
 68649	verb
 68667	verb
 68685	verb
-68975	adverb
+68975	personal pronoun
 69045	verb
 69131	verb
-69136	verb
+69136	noun
 69214	verb
 69242	verb
 69344	verb
@@ -1755,16 +1755,16 @@ noun
 69739	noun
 69747	verb
 69785	verb
-69860	interrogative pronoun
+69860	noun other indeclinable
 69902	verb
 70057	verb
-70136	adverb
+70136	personal pronoun
 70149	verb
 70212	verb
 70246	verb
 70277	verb
 70297	verb
-70306	verb
+70306	noun
 70319	verb
 70529	verb
 70672	verb
@@ -1773,15 +1773,15 @@ noun
 70821	verb
 70856	noun
 71113	noun
-71134	adverb
+71134	personal pronoun
 71230	verb
 71281	verb
 71291	verb
-71335	verb
-71352	verb
-71387	verb
+71335	noun
+71352	noun
+71387	noun
 71518	verb
-71529	adverb
+71529	personal pronoun
 71547	verb
 71567	verb
 71571	verb
@@ -1789,7 +1789,7 @@ noun
 71779	noun
 71951	verb
 71964	verb
-71970	interrogative pronoun
+71970	noun other indeclinable
 71977	verb
 72027	verb
 72043	verb
@@ -1824,13 +1824,13 @@ verb
 74207	verb
 74240	verb
 74243	verb
-74313	adverb
+74313	personal pronoun
 74381	verb
 74388	verb
 74398	verb
 74410	verb
 74425	noun
-74443	adverb
+74443	personal pronoun
 74527	noun
 74601	noun
 74650	verb
@@ -1846,7 +1846,7 @@ verb
 75324	verb
 75327	verb
 75337	verb
-75453	adverb
+75453	personal pronoun
 75492	verb
 75539	verb
 75544	verb
@@ -1866,23 +1866,23 @@ verb
 76126	verb
 76131	verb
 76135	verb
-76346	adverb
+76346	personal pronoun
 76499	noun
-76539	adverb
+76539	personal pronoun
 76562	verb
 76690	verb
 76809	verb
-76821	verb
+76821	noun
 76848	noun
-77027	verb
+77027	noun
 77074	verb
 77096	noun
 77114	noun
 77125	verb
 77134	verb
-77152	adverb
+77152	personal pronoun
 77156	noun
-77184	adverb
+77184	personal pronoun
 77205	noun
 77216	verb
 77249	verb
@@ -1908,8 +1908,8 @@ verb
 78139	verb
 78154	noun
 78356	verb
-78362	adverb
-78550	adverb
+78362	personal pronoun
+78550	personal pronoun
 78596	verb
 78618	noun
 78709	verb
@@ -1951,15 +1951,15 @@ noun
 81275	verb
 81295	verb
 81348	verb
-81398	adverb
-81478	adverb
+81398	personal pronoun
+81478	personal pronoun
 81502	verb
 81540	verb
 81554	verb
 81581	verb
-81591	adverb
+81591	personal pronoun
 81597	noun
-81658	adverb
+81658	personal pronoun
 81673	verb
 81699	verb
 81751	noun
@@ -1967,7 +1967,7 @@ noun
 81812	noun
 81835	verb
 81857	verb
-81894	adverb
+81894	personal pronoun
 81897	verb
 81936	noun
 verb
@@ -1979,7 +1979,7 @@ verb
 82151	verb
 82220	verb
 82276	verb
-82308	verb
+82308	noun
 82371	verb
 82482	verb
 82529	verb
@@ -1993,16 +1993,16 @@ verb
 83083	verb
 83110	verb
 83274	verb
-83407	adverb
+83407	personal pronoun
 83450	verb
 83469	noun
-83486	proper noun indeclinable
+83486	noun
 83536	verb
 83551	verb
 83558	verb
 83582	verb
 83600	verb
-83607	adverb
+83607	personal pronoun
 83661	noun
 83690	verb
 83692	noun
@@ -2020,195 +2020,195 @@ verb
 84173	verb
 84226	verb
 84240	noun
-84326	verb
+84326	noun
 84346	verb
 84407	verb
-84442	adverb
-84487	adverb
-84536	adverb
+84442	personal pronoun
+84487	personal pronoun
+84536	personal pronoun
 84614	verb
 84621	verb
-84662	adverb
-84693	adverb
-84722	proper noun indeclinable
-84744	adverb
-84828	adverb
-84860	adverb
+84662	personal pronoun
+84693	personal pronoun
+84722	noun
+84744	personal pronoun
+84828	personal pronoun
+84860	personal pronoun
 84874	verb
 84877	verb
-84931	adverb
+84931	personal pronoun
 84955	verb
 84977	verb
-85056	adverb
-85074	proper noun indeclinable
-85118	adverb
-85238	interrogative pronoun
+85056	personal pronoun
+85074	noun
+85118	personal pronoun
+85238	noun other indeclinable
 85264	verb
 85370	verb
-85392	adverb
+85392	personal pronoun
 85439	verb
-85501	adverb
+85501	personal pronoun
 85508	verb
-85528	adverb
-85539	adverb
+85528	personal pronoun
+85539	personal pronoun
 85592	noun
 85726	noun
 85775	verb
-85833	adverb
+85833	personal pronoun
 85845	verb
 85855	verb
 85867	verb
 85903	verb
-85935	adverb
+85935	personal pronoun
 85939	verb
 85987	noun
 85994	noun
-86006	adverb
+86006	personal pronoun
 86041	noun
-86043	adverb
+86043	personal pronoun
 86057	noun
-86062	adverb
+86062	personal pronoun
 86069	noun
 86142	noun
 86158	noun
-86228	adverb
-86294	adverb
+86228	personal pronoun
+86294	personal pronoun
 86340	verb
 86347	verb
 86350	verb
-86363	interrogative pronoun
-86408	adverb
+86363	noun other indeclinable
+86408	personal pronoun
 86449	verb
-86482	adverb
-86523	adverb
+86482	personal pronoun
+86523	personal pronoun
 86583	verb
-86586	adverb
+86586	personal pronoun
 86618	verb
-86683	adverb
+86683	personal pronoun
 86705	noun
 86732	verb
 86765	verb
 86800	verb
 86811	noun
-86936	adverb
-86962	adverb
+86936	personal pronoun
+86962	personal pronoun
 87031	noun
 87037	noun
-87045	adverb
+87045	personal pronoun
 87070	verb
 87078	noun
 87082	noun
 87110	verb
 87122	verb
-87186	adverb
+87186	personal pronoun
 87435	verb
-87437	adverb
+87437	personal pronoun
 87469	verb
 87483	verb
 87557	verb
 87582	noun
-87593	adverb
+87593	personal pronoun
 noun
 87610	noun
-87616	adverb
+87616	personal pronoun
 noun
 87634	verb
 87646	verb
 87669	noun
 87724	verb
-87732	adverb
+87732	personal pronoun
 87820	verb
 87842	noun
-87850	adverb
+87850	personal pronoun
 87882	noun
 87894	verb
 87922	verb
 87943	verb
 87964	verb
-87973	adverb
-87996	adverb
+87973	personal pronoun
+87996	personal pronoun
 88005	verb
 88075	verb
 88177	verb
 88211	verb
 88216	verb
-88277	adverb
+88277	personal pronoun
 verb
 88280	verb
 88298	noun
 88315	verb
-88317	adverb
+88317	personal pronoun
 88369	verb
 88378	verb
 88403	noun
 88421	verb
 88457	verb
-88473	adverb
-88489	verb
-88505	adverb
+88473	personal pronoun
+88489	noun
+88505	personal pronoun
 88509	verb
-88518	adverb
+88518	personal pronoun
 88532	noun
-88545	adverb
-88597	adverb
+88545	personal pronoun
+88597	personal pronoun
 88605	verb
-88653	adverb
+88653	personal pronoun
 88703	verb
 88706	verb
 88761	verb
 88779	verb
-88808	adverb
+88808	personal pronoun
 88811	verb
 88839	verb
 88886	noun
 88892	noun
 88968	verb
 89011	noun
-89025	adverb
+89025	personal pronoun
 89089	noun
-89095	adverb
+89095	personal pronoun
 89118	noun
-89142	adverb
-89172	verb
+89142	personal pronoun
+89172	noun
 89209	verb
-89232	adverb
+89232	personal pronoun
 89310	noun
-89336	proper noun indeclinable
+89336	noun
 89363	verb
-89545	adverb
+89545	personal pronoun
 89585	verb
 89614	verb
 89692	verb
-89808	adverb
+89808	personal pronoun
 89820	verb
 89824	verb
 89830	noun
 89866	verb
 89880	verb
-90007	adverb
+90007	personal pronoun
 90357	noun
 90370	verb
-90430	adverb
+90430	personal pronoun
 90463	verb
-90587	adverb
+90587	personal pronoun
 90596	verb
 90608	verb
 90628	verb
-90634	verb
+90634	noun
 90665	verb
 90697	verb
-90762	adverb
+90762	personal pronoun
 90794	verb
-90798	adverb
+90798	personal pronoun
 90811	verb
-90877	adverb
+90877	personal pronoun
 90943	verb
 90946	verb
 90950	verb
 90953	verb
 91001	verb
 91010	verb
-91036	adverb
+91036	personal pronoun
 91064	verb
 91069	verb
 91259	verb
@@ -2217,9 +2217,9 @@ verb
 91386	verb
 91444	noun
 91479	verb
-91556	proper noun indeclinable
+91556	noun
 91566	verb
-91612	adverb
+91612	personal pronoun
 91620	noun
 91635	verb
 91682	noun
@@ -2229,35 +2229,35 @@ verb
 91852	noun
 91892	verb
 91919	noun
-91935	adverb
+91935	personal pronoun
 91943	verb
-91966	adverb
+91966	personal pronoun
 91980	verb
 92005	verb
-92012	adverb
-92014	adverb
-92016	adverb
+92012	personal pronoun
+92014	personal pronoun
+92016	personal pronoun
 92064	verb
-92071	adverb
+92071	personal pronoun
 92084	verb
 92158	verb
 92215	verb
-92239	adverb
-92252	adverb
+92239	personal pronoun
+92252	personal pronoun
 92287	noun
-92301	adverb
+92301	personal pronoun
 92303	verb
 92314	noun
 92326	verb
-92344	adverb
+92344	personal pronoun
 92370	noun
 92383	verb
 92398	verb
 92425	noun
-92515	adverb
+92515	personal pronoun
 92685	verb
 92759	noun
-92765	adverb
+92765	personal pronoun
 92807	verb
 92874	noun
 92876	verb
@@ -2266,7 +2266,7 @@ verb
 92952	verb
 93059	verb
 93114	verb
-93130	adverb
+93130	personal pronoun
 93155	verb
 93162	verb
 93185	verb
@@ -2275,34 +2275,34 @@ verb
 verb
 93260	verb
 93270	verb
-93293	adverb
+93293	personal pronoun
 93310	noun
 93315	verb
 93485	noun
-93541	adverb
+93541	personal pronoun
 93601	noun
 93640	verb
 93676	verb
 93716	verb
-93740	adverb
+93740	personal pronoun
 93760	noun
 93846	verb
 93855	verb
 93863	verb
 93867	verb
-93888	adverb
+93888	personal pronoun
 93917	verb
 93950	noun
-93954	adverb
+93954	personal pronoun
 94003	verb
-94012	adverb
+94012	personal pronoun
 94022	verb
 94069	verb
 94082	verb
-94135	adverb
-94147	adverb
+94135	personal pronoun
+94147	personal pronoun
 94157	verb
-94261	adverb
+94261	personal pronoun
 94282	verb
 94311	verb
 94339	verb
@@ -2313,35 +2313,35 @@ verb
 94605	verb
 94687	verb
 94694	verb
-94756	adverb
-94870	adverb
+94756	personal pronoun
+94870	personal pronoun
 94880	noun
-94907	adverb
-94925	adverb
+94907	personal pronoun
+94925	personal pronoun
 94987	verb
 95027	verb
-95234	adverb
+95234	personal pronoun
 95261	verb
 95459	verb
 95465	verb
-95495	adverb
+95495	personal pronoun
 95508	verb
-95520	adverb
-95560	adverb
-95569	adverb
+95520	personal pronoun
+95560	personal pronoun
+95569	personal pronoun
 95611	noun
 95622	verb
 95684	verb
 95716	verb
-95725	adverb
-95745	adverb
+95725	personal pronoun
+95745	personal pronoun
 95880	verb
 95893	verb
 95914	verb
 95921	verb
 95938	verb
-95957	adverb
-95965	adverb
+95957	personal pronoun
+95965	personal pronoun
 95988	verb
 95997	verb
 96003	verb
@@ -2357,17 +2357,17 @@ verb
 96166	verb
 96231	verb
 96251	verb
-96305	adverb
+96305	personal pronoun
 verb
-96334	adverb
+96334	personal pronoun
 96356	verb
-96364	adverb
+96364	personal pronoun
 96378	verb
-96385	adverb
+96385	personal pronoun
 96399	verb
 96407	verb
 96419	verb
-96473	adverb
+96473	personal pronoun
 96526	verb
 96540	noun
 96554	verb
@@ -2380,82 +2380,82 @@ verb
 96882	verb
 96932	noun
 96968	verb
-97163	adverb
+97163	personal pronoun
 97207	verb
 97211	verb
-97257	verb
+97257	personal pronoun
 97306	verb
 97331	noun
-97392	adverb
+97392	personal pronoun
 97419	noun
-97466	adverb
+97466	personal pronoun
 97512	verb
 97515	verb
-97544	adverb
-97561	adverb
+97544	personal pronoun
+97561	personal pronoun
 97580	verb
 97591	verb
 97620	verb
-97676	adverb
-97804	adverb
-97854	adverb
+97676	personal pronoun
+97804	personal pronoun
+97854	personal pronoun
 97953	verb
-97976	adverb
+97976	personal pronoun
 97991	verb
 98012	verb
 98020	verb
 98048	verb
-98057	proper noun indeclinable
+98057	noun
 98061	verb
-98067	adverb
+98067	personal pronoun
 98070	noun
-98083	adverb
-98094	verb
+98083	personal pronoun
+98094	noun
 98121	verb
-98143	adverb
+98143	personal pronoun
 98146	verb
 98161	noun
 98294	verb
-98364	adverb
+98364	personal pronoun
 98424	verb
 98435	verb
 98490	verb
 98506	verb
-98550	adverb
+98550	personal pronoun
 verb
 98589	noun
-98603	adverb
-98625	adverb
+98603	personal pronoun
+98625	personal pronoun
 98658	verb
 98752	verb
 98799	verb
 98885	noun
 98962	verb
 99011	noun
-99086	adverb
+99086	personal pronoun
 99145	verb
 99161	verb
-99185	adverb
-99187	adverb
-99189	adverb
-99191	adverb
-99193	adverb
-99195	adverb
+99185	personal pronoun
+99187	personal pronoun
+99189	personal pronoun
+99191	personal pronoun
+99193	personal pronoun
+99195	personal pronoun
 99205	noun
-99230	verb
-99374	adverb
+99230	noun
+99374	personal pronoun
 99421	verb
 99432	noun
-adverb
+personal pronoun
 99442	verb
-99480	adverb
+99480	personal pronoun
 99608	verb
-99612	adverb
+99612	personal pronoun
 99617	verb
 99635	verb
-99656	verb
-99658	adverb
-99660	verb
+99656	noun
+99658	personal pronoun
+99660	noun
 99697	verb
 99704	verb
 99717	verb
@@ -2464,15 +2464,15 @@ adverb
 99798	noun
 99827	verb
 99834	verb
-99942	adverb
+99942	personal pronoun
 99981	verb
 100031	noun
-100063	adverb
+100063	personal pronoun
 100096	verb
-100203	adverb
-100222	adverb
-100308	adverb
-100319	adverb
+100203	personal pronoun
+100222	personal pronoun
+100308	personal pronoun
+100319	personal pronoun
 100439	verb
 100441	noun
 100497	noun
@@ -2501,36 +2501,36 @@ adverb
 100923	verb
 100947	verb
 100975	verb
-101078	adverb
-101088	adverb
+101078	personal pronoun
+101088	personal pronoun
 101101	verb
-101115	adverb
+101115	personal pronoun
 101150	noun
 101154	verb
 101178	verb
 101232	noun
 101240	noun
-101273	adverb
-101282	adverb
-101293	adverb
-101366	adverb
-101385	proper noun indeclinable
+101273	personal pronoun
+101282	personal pronoun
+101293	personal pronoun
+101366	personal pronoun
+101385	noun
 101391	noun
 101397	verb
 101413	verb
 101422	verb
-101466	adverb
+101466	personal pronoun
 101477	verb
-101566	adverb
+101566	personal pronoun
 101587	noun
-101641	adverb
+101641	personal pronoun
 101660	verb
-101728	adverb
-101770	verb
+101728	personal pronoun
+101770	noun
 101782	noun
 101876	verb
 101887	verb
-101927	adverb
+101927	personal pronoun
 verb
 102057	noun
 102077	verb
@@ -2544,30 +2544,30 @@ verb
 102421	noun
 102461	noun
 102516	verb
-102555	adverb
+102555	personal pronoun
 102653	noun
 102661	noun
-102676	adverb
+102676	personal pronoun
 102723	verb
-102752	adverb
-102761	adverb
+102752	personal pronoun
+102761	personal pronoun
 102769	verb
 102816	verb
-102848	adverb
-102884	adverb
+102848	personal pronoun
+102884	personal pronoun
 verb
 102924	verb
 102932	verb
-103017	verb
-103072	adverb
-103103	adverb
+103017	noun
+103072	personal pronoun
+103103	personal pronoun
 103122	noun
 103130	noun
-103172	adverb
+103172	personal pronoun
 103175	verb
 103228	noun
 103251	verb
-103254	adverb
+103254	personal pronoun
 103257	verb
 103286	verb
 noun
@@ -2579,18 +2579,18 @@ noun
 103507	verb
 103514	verb
 103526	verb
-103548	interrogative pronoun
-103597	adverb
+103548	noun other indeclinable
+103597	personal pronoun
 103627	verb
-103636	adverb
+103636	personal pronoun
 103744	verb
 103754	verb
-103918	proper noun indeclinable
+103918	noun
 103920	verb
 103968	verb
 104026	verb
 104035	verb
-104054	adverb
+104054	personal pronoun
 104144	verb
 104148	verb
 104160	verb
@@ -2599,7 +2599,7 @@ noun
 104357	verb
 104398	noun
 104402	verb
-104405	adverb
+104405	personal pronoun
 104411	verb
 104421	verb
 104699	verb
@@ -2611,28 +2611,28 @@ noun
 105025	noun
 105037	verb
 105102	verb
-105195	adverb
+105195	personal pronoun
 105266	verb
-105309	adverb
+105309	personal pronoun
 105331	verb
 105436	verb
 105438	verb
-105466	adverb
-105481	adverb
-105546	adverb
+105466	personal pronoun
+105481	personal pronoun
+105546	personal pronoun
 105572	verb
 105594	verb
 105615	verb
 105624	verb
-105637	adverb
+105637	personal pronoun
 105647	verb
 105656	verb
 105683	noun
 105689	verb
-105754	adverb
+105754	personal pronoun
 105823	verb
 105857	verb
-105886	adverb
+105886	personal pronoun
 106000	verb
 106002	verb
 106015	verb
@@ -2644,33 +2644,33 @@ noun
 106324	noun
 106349	verb
 106379	verb
-106388	adverb
+106388	personal pronoun
 106469	verb
 106473	verb
-106588	adverb
+106588	personal pronoun
 106616	verb
-106648	adverb
-106660	adverb
+106648	personal pronoun
+106660	personal pronoun
 106676	verb
-106686	adverb
-106763	adverb
-106839	adverb
+106686	personal pronoun
+106763	personal pronoun
+106839	personal pronoun
 106875	verb
 106937	noun
 106973	noun
-106975	adverb
-106984	adverb
+106975	personal pronoun
+106984	personal pronoun
 106992	verb
 107002	verb
 107030	verb
 107101	verb
 107118	verb
-107126	adverb
-107137	adverb
-107178	adverb
+107126	personal pronoun
+107137	personal pronoun
+107178	personal pronoun
 107209	verb
 107215	verb
-107258	verb
+107258	noun
 107312	noun
 107351	verb
 107355	verb
@@ -2680,9 +2680,9 @@ noun
 107555	noun
 107579	noun
 107639	verb
-107642	adverb
+107642	personal pronoun
 verb
-107865	proper noun indeclinable
+107865	noun
 107891	verb
 107908	verb
 107956	verb
@@ -2692,7 +2692,7 @@ verb
 108158	verb
 108302	verb
 108330	noun
-108343	adverb
+108343	personal pronoun
 108370	verb
 108442	verb
 108453	verb
@@ -2702,11 +2702,11 @@ verb
 108595	verb
 108631	verb
 108654	verb
-108666	verb
-108678	verb
+108666	noun
+108678	noun
 108724	verb
 108780	verb
-108803	adverb
+108803	personal pronoun
 108988	verb
 109025	verb
 109039	verb
@@ -2717,19 +2717,19 @@ verb
 109288	verb
 109305	verb
 109353	verb
-109390	adverb
+109390	personal pronoun
 109506	verb
 109511	verb
-109535	adverb
-109571	adverb
-109586	adverb
+109535	personal pronoun
+109571	personal pronoun
+109586	personal pronoun
 109604	verb
 109618	verb
 109621	verb
-109626	adverb
-109651	adverb
+109626	personal pronoun
+109651	personal pronoun
 109730	verb
-109754	adverb
+109754	personal pronoun
 109773	verb
 109792	noun
 109803	verb
@@ -2739,7 +2739,7 @@ verb
 110120	verb
 110175	verb
 110221	verb
-110275	adverb
+110275	personal pronoun
 110304	verb
 110386	verb
 110404	verb
@@ -2747,14 +2747,14 @@ verb
 110460	verb
 110500	noun
 110541	noun
-110548	adverb
+110548	personal pronoun
 110571	verb
-110584	adverb
+110584	personal pronoun
 110608	verb
 110640	verb
 110655	verb
 110660	verb
-110672	adverb
+110672	personal pronoun
 110704	verb
 110748	noun
 110767	verb
@@ -2765,123 +2765,123 @@ verb
 111165	verb
 111190	verb
 111220	noun
-111229	adverb
-111278	interrogative pronoun
+111229	personal pronoun
+111278	noun other indeclinable
 111373	verb
 111438	verb
 111471	verb
-111508	adverb
-111557	adverb
+111508	personal pronoun
+111557	personal pronoun
 111711	verb
 111773	verb
-111782	adverb
+111782	personal pronoun
 111799	verb
-111824	adverb
+111824	personal pronoun
 111839	verb
 111929	verb
-111946	verb
+111946	noun
 111991	noun
 112044	verb
 112079	verb
 112091	verb
 112106	verb
 112117	noun
-112124	adverb
+112124	personal pronoun
 112163	verb
 112199	verb
 112228	noun
 112261	verb
 112320	verb
 112443	verb
-112453	adverb
+112453	personal pronoun
 112457	verb
 112461	verb
 112463	verb
 112472	verb
-112478	noun
+112478	noun other indeclinable
 112515	noun
-112526	adverb
+112526	personal pronoun
 verb
 112558	verb
-112570	verb
+112570	noun
 112607	noun
 112610	verb
 112620	noun
-112680	adverb
+112680	personal pronoun
 112688	noun
 112696	verb
 112766	noun
-112770	verb
-112780	verb
+112770	noun
+112780	noun
 112789	verb
 112796	noun
-112812	adverb
+112812	personal pronoun
 112815	verb
 112828	verb
-112883	adverb
+112883	personal pronoun
 112898	verb
-112921	adverb
+112921	personal pronoun
 112939	verb
 113002	verb
-113051	verb
-113055	verb
+113051	noun
+113055	noun
 113090	noun
 113232	verb
-113311	adverb
+113311	personal pronoun
 113314	verb
 113328	verb
-113330	adverb
-113349	adverb
+113330	personal pronoun
+113349	personal pronoun
 113422	verb
 113425	verb
 113433	verb
-113481	adverb
+113481	personal pronoun
 113514	noun
 113571	verb
 113574	verb
 113578	noun
 113592	verb
 113604	verb
-113607	adverb
-113663	verb
+113607	personal pronoun
+113663	noun
 113672	verb
-113762	adverb
+113762	personal pronoun
 113811	verb
 113830	verb
-113832	adverb
+113832	personal pronoun
 113850	verb
 113895	verb
 113905	verb
 113958	verb
 113995	verb
 114060	noun
-114104	verb
+114104	noun
 114122	verb
-114147	adverb
+114147	personal pronoun
 114153	verb
 114181	verb
 114213	verb
-114228	adverb
+114228	personal pronoun
 114274	verb
 114298	verb
 114303	verb
-114329	adverb
+114329	personal pronoun
 114372	verb
 114504	verb
 114530	verb
 114534	verb
-114549	adverb
+114549	personal pronoun
 114590	verb
 114599	verb
-114654	adverb
+114654	personal pronoun
 114697	verb
 114715	proper noun indeclinable
 114737	verb
 114744	verb
-114777	adverb
+114777	personal pronoun
 114855	verb
 114860	verb
-114934	adverb
+114934	personal pronoun
 114981	verb
 115009	verb
 115043	verb
@@ -2891,8 +2891,8 @@ verb
 115168	verb
 115184	verb
 115263	verb
-115286	adverb
-115303	adverb
+115286	personal pronoun
+115303	personal pronoun
 115307	verb
 115338	noun
 115346	verb
@@ -2907,7 +2907,7 @@ verb
 115649	verb
 115658	proper noun indeclinable
 115672	verb
-115679	proper noun indeclinable
+115679	noun
 115681	verb
 115694	verb
 115780	verb
@@ -2915,11 +2915,11 @@ verb
 115926	verb
 115938	verb
 115953	verb
-115955	adverb
+115955	personal pronoun
 116087	verb
 116138	noun
 116154	verb
-116179	adverb
+116179	personal pronoun
 verb
 116196	verb
 116212	verb
@@ -2929,8 +2929,8 @@ verb
 116427	noun
 116451	verb
 116471	noun
-116507	verb
-116626	adverb
+116507	noun
+116626	personal pronoun
 116783	verb
 116821	verb
 116833	verb
@@ -2940,7 +2940,7 @@ verb
 117028	verb
 117151	verb
 117322	verb
-117362	adverb
+117362	personal pronoun
 117485	noun
 117507	verb
 117521	verb
@@ -2967,11 +2967,11 @@ verb
 118620	verb
 118673	verb
 118675	verb
-118685	adverb
+118685	personal pronoun
 118772	noun
-118889	adverb
+118889	personal pronoun
 118981	verb
-119127	adverb
+119127	personal pronoun
 119136	verb
 119210	verb
 119219	verb
@@ -2984,34 +2984,34 @@ verb
 119467	verb
 119659	noun
 119694	verb
-119719	adverb
+119719	personal pronoun
 119767	verb
-119781	verb
-119875	adverb
+119781	noun
+119875	personal pronoun
 119887	verb
 119901	verb
 119905	proper noun indeclinable
 119937	verb
-119958	adverb
+119958	personal pronoun
 119979	verb
 120041	noun
-120056	adverb
+120056	noun
 120061	verb
 120117	verb
 120133	verb
 120136	verb
 120141	verb
-120191	adverb
+120191	personal pronoun
 120237	verb
 120285	verb
 120297	verb
 120311	noun
-120316	verb
+120316	noun
 120563	verb
 120580	verb
 120588	verb
-120732	adverb
-120751	adverb
+120732	personal pronoun
+120751	personal pronoun
 verb
 verb
 120872	verb
@@ -3030,18 +3030,18 @@ verb
 121374	verb
 121376	verb
 121413	noun
-121452	adverb
+121452	personal pronoun
 121482	verb
 verb
 121602	verb
 121606	verb
-121644	verb
+121644	noun
 121647	noun
 121650	verb
 121654	verb
 121661	verb
 121664	noun
-121674	adverb
+121674	personal pronoun
 121716	verb
 121835	verb
 121877	noun
@@ -3055,48 +3055,48 @@ verb
 122249	verb
 122260	verb
 122267	verb
-122356	adverb
+122356	personal pronoun
 122367	verb
 122379	verb
 122394	verb
-122409	adverb
+122409	personal pronoun
 122421	verb
 122441	verb
-122477	adverb
+122477	personal pronoun
 122572	verb
 122689	verb
 122712	verb
 122721	verb
 122727	verb
-122798	adverb
-122902	adverb
+122798	personal pronoun
+122902	personal pronoun
 122911	verb
 122929	noun
-122971	verb
+122971	noun
 122997	verb
 123052	verb
 123066	verb
 123103	verb
 123136	verb
-123159	adverb
+123159	personal pronoun
 123170	verb
-123256	adverb
+123256	personal pronoun
 123276	verb
 123278	verb
-123302	adverb
+123302	personal pronoun
 123345	verb
 123422	verb
-123467	adverb
-123615	adverb
-123621	adverb
-123628	adverb
+123467	personal pronoun
+123615	personal pronoun
+123621	personal pronoun
+123628	personal pronoun
 123645	verb
 123677	verb
 123696	verb
 123701	verb
 verb
 123735	verb
-123748	proper noun indeclinable
+123748	noun
 123786	verb
 123820	verb
 123874	verb
@@ -3105,12 +3105,12 @@ verb
 124025	verb
 124073	verb
 124075	verb
-124169	adverb
+124169	personal pronoun
 124192	verb
 124207	verb
 124241	verb
-124245	adverb
-124258	adverb
+124245	personal pronoun
+124258	personal pronoun
 124274	verb
 124283	verb
 124328	verb
@@ -3126,21 +3126,21 @@ verb
 124574	verb
 124591	verb
 124593	verb
-124705	adverb
-124713	adverb
+124705	personal pronoun
+124713	personal pronoun
 124716	verb
 124732	verb
 124747	verb
 124759	verb
 124771	verb
 124783	verb
-125132	adverb
+125132	personal pronoun
 125269	verb
 125297	verb
 125302	verb
 125399	verb
 125404	verb
-125417	adverb
+125417	personal pronoun
 125428	verb
 125432	noun
 125658	verb
@@ -3154,10 +3154,10 @@ verb
 125883	verb
 125952	verb
 126015	verb
-126036	adverb
+126036	personal pronoun
 126054	verb
-126099	verb
-126156	adverb
+126099	noun
+126156	personal pronoun
 126303	verb
 126314	verb
 126386	verb
@@ -3170,26 +3170,26 @@ verb
 126615	verb
 126935	noun
 126997	verb
-127044	adverb
+127044	personal pronoun
 127085	verb
-127114	adverb
-127174	adverb
+127114	personal pronoun
+127174	personal pronoun
 127180	verb
 127225	verb
 127237	noun
-127247	adverb
+127247	personal pronoun
 127282	verb
 127324	verb
 127340	verb
-verb
+noun
 127416	verb
-127421	adverb
+127421	personal pronoun
 127457	noun
 127543	noun
 127563	verb
-127596	adverb
+127596	personal pronoun
 127599	verb
-127668	adverb
+127668	personal pronoun
 127727	verb
 127736	verb
 127743	verb
@@ -3197,7 +3197,7 @@ verb
 127870	verb
 127920	verb
 127961	verb
-128036	verb
+128036	noun
 128051	verb
 128076	verb
 128152	verb
@@ -3209,34 +3209,34 @@ verb
 128388	verb
 128407	verb
 128443	verb
-128486	adverb
+128486	personal pronoun
 128505	noun
-128525	adverb
+128525	personal pronoun
 128535	verb
-128591	adverb
-128606	adverb
+128591	personal pronoun
+128606	personal pronoun
 128629	verb
-128736	verb
+128736	noun
 128835	verb
 128849	verb
-128863	adverb
+128863	personal pronoun
 128916	verb
 128951	noun
 128999	verb
 129016	verb
-129087	verb
-129117	adverb
+129087	noun
+129117	personal pronoun
 129130	verb
 129136	verb
-129162	verb
-129167	verb
+129162	noun
+129167	noun
 129169	verb
 129204	verb
-129216	verb
+129216	noun
 129223	verb
-129255	adverb
+129255	personal pronoun
 129263	verb
-verb
+noun
 129281	verb
 129296	verb
 129304	noun
@@ -3245,15 +3245,15 @@ verb
 129540	verb
 129591	verb
 129663	verb
-129669	verb
-129680	verb
+129669	noun
+129680	noun
 129686	verb
-129801	verb
+129801	noun
 129808	verb
-129821	verb
+129821	noun
 129936	noun
 129962	verb
-130016	verb
+130016	noun
 130073	verb
 130086	verb
 130093	verb
@@ -3265,16 +3265,16 @@ verb
 130651	verb
 130657	verb
 130692	verb
-130794	verb
-130798	verb
+130794	noun
+130798	noun
 130842	verb
-130845	verb
+130845	noun
 130850	verb
-130942	verb
+130942	noun
 130998	verb
-131029	verb
-131068	verb
-131085	verb
+131029	noun
+131068	noun
+131085	noun
 131109	verb
 131138	verb
 131156	noun
@@ -3297,7 +3297,7 @@ verb
 131500	verb
 131507	noun
 131573	verb
-131604	verb
+131604	noun
 131700	noun
 131703	verb
 131775	verb
@@ -3311,7 +3311,7 @@ verb
 132104	verb
 132172	verb
 132183	verb
-132189	verb
+132189	noun
 132219	verb
 132225	verb
 verb
@@ -3320,16 +3320,16 @@ verb
 132350	verb
 132421	verb
 132473	noun
-132496	verb
+132496	noun
 132507	verb
 132548	verb
 132606	verb
 132636	verb
 132681	verb
-132694	verb
+132694	noun
 132706	verb
 132841	noun
-132861	verb
+132861	noun
 132950	verb
 133110	verb
 133144	verb
@@ -3339,30 +3339,30 @@ verb
 133269	verb
 133295	verb
 133303	verb
-133309	verb
+133309	noun
 133321	verb
-133348	verb
-133365	verb
+133348	noun
+133365	noun
 133454	verb
 133479	verb
 133527	verb
 133537	verb
-133560	verb
-133564	verb
+133560	noun
+133564	noun
 133567	verb
 133593	noun
 133606	verb
 133686	verb
 133723	verb
-133767	verb
+133767	noun
 verb
-133771	verb
+133771	noun
 133848	verb
 133960	verb
 134118	noun
 134133	verb
 134158	verb
-verb
+noun
 134210	verb
 134259	verb
 134273	verb
@@ -3376,17 +3376,17 @@ verb
 134527	verb
 134555	verb
 134638	verb
-134677	verb
+134677	noun
 134735	verb
 134758	verb
-134881	proper noun indeclinable
+134881	noun
 134885	verb
 134923	verb
 134942	verb
 134991	verb
 135013	verb
 135024	verb
-135027	adverb
+135027	personal pronoun
 verb
 135045	verb
 135062	verb
@@ -3416,14 +3416,14 @@ verb
 136198	verb
 136210	verb
 136213	verb
-136259	verb
+136259	noun
 136314	verb
 136364	verb
 136379	verb
 136445	verb
 136466	verb
 136476	verb
-136628	verb
+136628	noun
 136824	noun
 136835	noun
 136930	verb

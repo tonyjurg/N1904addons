@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:21+00:00Z
+@dateWritten=2025-06-15T22:27:23+00:00Z
 
 914	a_
 1043	w=n
@@ -290,6 +290,7 @@
 115307	ton
 119979	a=n
 121334	ei=
+121347	ou=
 121359	w/meqa
 121654	w=n
 121716	a=sqe

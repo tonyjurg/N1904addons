@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:22+00:00Z
+@dateWritten=2025-06-15T22:27:23+00:00Z
 
 914	aw_pr
 1043	aw_fut
@@ -223,13 +223,13 @@
 93256	os_on
 96146	aw_pr
 96526	aw_pr
-97580	os_h_on
+97580	
 97591	ew_pr
 98435	ew_pr
 99796	reg_fut
 100590	reg_fut
 100697	aw_pr
-101928	os_h_on
+101928	
 102077	ew_pr
 102326	aw_fut
 102769	ew_pr
@@ -259,13 +259,13 @@
 115307	ath_primary
 119979	aw_pr
 121334	ew_pr
-121347	exclam
+121347	ow_pr
 121359	aw_fut
 121654	aw_fut
 121716	aw_fut
 122208	wn_ontos
 122689	aw_pr
-123052	os_h_on
+123052	
 123989	aw_pr
 124283	ew_pr
 125769	h_hs

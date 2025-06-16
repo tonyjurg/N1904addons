@@ -11,14 +11,14 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:21+00:00Z
+@dateWritten=2025-06-15T22:27:23+00:00Z
 
 574	ami_pr
 914	aw_pr
 1043	aw_pr
-1446	aw_pr
+1446	aw_fut
 1484	aw_pr
-1647	aw_pr
+1647	aw_fut
 1683	aw_pr
 1743	aw_pr
 1961	aw_pr
@@ -27,8 +27,8 @@
 3096	aw_pr
 3221	reg_fut
 3458	aw_pr
-3943	aw_pr
-4091	aw_pr
+3943	aw_fut
+4091	aw_fut
 4516	ew_pr
 4537	ew_pr
 4976	aw_pr
@@ -47,14 +47,14 @@
 7797	aw_pr
 7828	aw_pr
 7852	aw_pr
-8400	aw_pr
+8400	aw_fut
 9008	aw_fut
-9305	aw_pr
+9305	aw_fut
 9498	ami_pr
 10293	aw_pr
 10705	aw_pr
 10876	ami_pr
-10935	aw_pr
+10935	aw_fut
 11121	aw_pr
 11163	aw_pr
 11304	aw_pr
@@ -79,20 +79,20 @@
 18537	aw_pr
 19409	ew_pr
 19430	ew_pr
-19666	aw_pr
+19666	aw_fut
 19892	aw_pr
 19900	aw_pr
 20512	aw_pr
 20572	aw_pr
-20661	aw_pr
-20773	aw_pr
-21104	aw_pr
+20661	aw_fut
+20773	aw_fut
+21104	aw_fut
 21453	reg_fut
-22252	aw_pr
-23244	aw_pr
+22252	aw_fut
+23244	aw_fut
 23703	aw_pr
 24496	aw_pr
-24553	aw_pr
+24553	aw_fut
 24724	aw_pr
 24735	aw_pr
 24880	aw_pr
@@ -126,7 +126,7 @@
 33711	ew_pr
 34081	aw_pr
 35548	aw_pr
-35966	aw_pr
+35966	aw_fut
 36632	aw_pr
 36728	ow_pr
 37112	aw_pr
@@ -183,18 +183,18 @@
 48146	aw_pr
 48507	ew_pr
 48921	ew_pr
-49434	aw_pr
+49434	aw_fut
 49481	ami_pr
 49514	ami_pr
 49546	ami_pr
 50353	aw_pr
 50398	aw_pr
-50756	aw_pr
+50756	aw_fut
 52151	ami_pr
-52700	aw_pr
-52947	aw_pr
-53024	aw_pr
-53099	aw_pr
+52700	aw_fut
+52947	aw_fut
+53024	aw_fut
+53099	aw_fut
 53471	ami_pr
 53653	ami_pr
 53686	ami_pr
@@ -206,7 +206,7 @@
 57027	ami_pr
 57033	ami_pr
 57207	ami_pr
-57225	aw_pr
+57225	aw_fut
 58644	is_ews
 58753	ami_pr
 60022	ami_pr
@@ -221,7 +221,7 @@
 61791	ami_pr
 61808	ami_pr
 61912	ami_pr
-61923	aw_pr
+61923	aw_fut
 62566	aw_pr
 62582	aw_pr
 62599	aw_pr
@@ -326,7 +326,7 @@
 96807	ami_pr
 96830	ow_pr
 97211	aw_pr
-97580	irreg_mi
+97580	os_h_on
 97591	ew_pr
 97620	ami_pr
 98435	ew_pr
@@ -342,7 +342,7 @@
 100697	aw_pr
 100905	os_ou
 101178	ami_pr
-101928	irreg_mi
+101928	os_h_on
 102077	ew_pr
 102326	aw_fut
 102769	ew_pr
@@ -401,7 +401,7 @@
 121716	ami_short
 122208	ew_pr
 122689	aw_pr
-123052	irreg_mi
+123052	os_h_on
 123066	h_hs
 123278	aw_fut
 123989	aw_pr

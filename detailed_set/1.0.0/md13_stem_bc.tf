@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:21+00:00Z
+@dateWritten=2025-06-15T22:27:23+00:00Z
 
 574	a)g
 914	basilei
@@ -28,7 +28,7 @@
 1961	basilei+
 2678	basilei
 2930	katafronhs
-2937	di_
+2937	dia/
 3096	basilei+
 3221	paths
 3458	basilei+
@@ -40,8 +40,8 @@
 3943	per
 4080	a)nem
 4091	per
-4399	di_
-4448	di_
+4399	dia/
+4448	dia/
 4516	n
 4537	n
 4647	a)naxwr
@@ -57,10 +57,10 @@
 6480	basilei
 6516	basilei
 6545	diarpas
-6561	di_
+6561	dia/
 6814	perat
 7027	spei_r
-7121	di_
+7121	dia/
 7405	basilei
 7512	e)r
 7544	basilei
@@ -71,18 +71,18 @@
 7797	basilei
 7828	basilei
 7852	basilei
-7929	di_
+7929	dia/
 7935	basilei
 8400	per
-8626	di_
-8649	di_
+8626	dia/
+8649	dia/
 8699	timhs
 9008	kur
 9305	per
 9498	a)g
 9752	basilei
-10081	di_
-10092	di_
+10081	dia/
+10092	dia/
 10202	a)llotri
 10207	a)llotri
 10264	basilei
@@ -90,7 +90,7 @@
 10310	basilei
 10491	e)nne
 10517	e)nne
-10701	di_
+10701	dia/
 10705	basilei
 10876	a)g
 10935	per
@@ -107,7 +107,7 @@
 12431	a)g
 12433	e)r
 12460	e)r
-12462	di_
+12462	dia/
 12575	basilei+
 12793	basilei
 12857	basilei
@@ -133,7 +133,7 @@
 17190	desm
 17457	a)_r
 18537	basilei
-19319	di_
+19319	dia/
 19409	n
 19416	r(h_c
 19430	n
@@ -152,8 +152,8 @@
 21104	per
 21453	stas
 22252	per
-22526	di_
-22909	di_
+22526	dia/
+22909	dia/
 22968	q
 23244	per
 23703	basilei+
@@ -170,7 +170,7 @@
 25576	basilei
 25912	e)r
 25940	e)r
-di_
+dia/
 26062	a)gap
 26355	sta_s
 26539	a)gap
@@ -204,7 +204,7 @@ di_
 32902	e)pitim
 32952	basilei+
 33524	l
-33543	di_
+33543	dia/
 33667	sumfwnhs
 33678	n
 33685	r(h_c
@@ -239,7 +239,7 @@ di_
 39101	perat
 39702	e)r
 39858	e)r
-39909	di_
+39909	dia/
 40057	basilei+
 40076	basilei+
 40131	a)nalus
@@ -280,13 +280,13 @@ di_
 44475	basilei+
 44609	a)g
 44695	e)laiw
-44727	di_
+44727	dia/
 44803	bas
 44807	e)laiw
 44865	liq
 45053	a)g
 45078	e)r
-di_
+dia/
 45092	liqas
 45197	a)gap
 45411	o)/n
@@ -336,9 +336,9 @@ di_
 53653	a)g
 53686	a)g
 53695	a)g
-53834	di_
+53834	dia/
 54056	a)b
-54688	di_
+54688	dia/
 54802	e)lai
 55273	a)g
 55400	poi
@@ -351,7 +351,7 @@ di_
 57207	a)g
 57225	per
 57618	sta_s
-58292	di_
+58292	dia/
 58644	fulac
 58649	dia_kon
 58666	dia_kon
@@ -394,7 +394,7 @@ timhs
 67099	i)di
 67227	a)ni_
 67343	peiras
-67398	di_
+67398	dia/
 67439	dr
 67463	e)piskias
 67834	dr
@@ -421,7 +421,7 @@ timhs
 72532	si_g
 72682	koni
 72902	peria_g
-73804	dia/
+73804	*di
 73871	matai
 74013	basilei+
 74240	e)pist
@@ -466,7 +466,7 @@ timhs
 82784	i)o/n
 82910	basilei+
 83054	basilei+
-83486	di_
+83486	dia/
 83558	n
 83661	poi
 83823	fus
@@ -474,8 +474,8 @@ timhs
 84173	a)g
 84226	i)
 84240	poi
-84722	di_
-85074	di_
+84722	dia/
+85074	dia/
 85238	a)r
 85845	e)piqumi
 85867	e)piqumi
@@ -498,7 +498,7 @@ timhs
 88532	poi
 88703	a)gap
 89089	basilei
-89336	di_
+89336	dia/
 89824	a)gap
 89866	a)gap
 89880	a)gap
@@ -515,7 +515,7 @@ timhs
 91069	i)di
 91386	l
 91444	dok
-91556	di_
+91556	dia/
 91566	a)gap
 91620	basilei
 91751	n
@@ -554,11 +554,11 @@ a)rotri
 96882	koni
 97211	w)p
 97306	sx
-97580	i)o/n
+97580	o)/n
 97591	a)poq
 97620	a)g
 97953	xr
-98057	di_
+98057	dia/
 98061	koni
 98435	a)poq
 98658	koni
@@ -580,10 +580,10 @@ a)rotri
 100697	a)m
 100789	a)ret
 100905	e)r
-101150	pal
+101150	pa/lai
 101178	a)g
-101385	di_
-101928	i)o/n
+101385	dia/
+101928	o)/n
 102077	fus
 102326	r(
 102769	fus
@@ -596,7 +596,7 @@ a)rotri
 103526	spei_r
 103548	a)r
 103627	a)g
-103918	di_
+103918	dia/
 103920	a)g
 104148	fus
 104354	poi
@@ -614,7 +614,7 @@ a)rotri
 107355	metasxhmatis
 107436	e)r
 107474	n
-107865	di_
+107865	dia/
 107891	e)s
 107956	basilei+
 108059	a)llac
@@ -658,7 +658,7 @@ a)rotri
 115307	a)gap
 115545	poi
 115672	koni
-115679	di_
+115679	dia/
 115938	a)pallac
 116087	katasx
 116212	katasx
@@ -683,13 +683,13 @@ a)rotri
 122208	d
 122572	liq
 122689	qu_mi
-123052	i)o/n
+123052	o)/n
 123066	a)gap
 123170	lal
 123278	e)cousi
 123422	dia_kon
 123735	katartis
-123748	di_
+123748	dia/
 123989	basilei+
 124283	pon
 124543	i)di
@@ -730,7 +730,7 @@ a)rotri
 133479	n
 133606	a(_g
 134467	basilei
-134881	di_
+134881	dia/
 134885	e)r
 135024	basilei+
 135062	kur

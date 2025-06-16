@@ -11,821 +11,1340 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:21+00:00Z
+@dateWritten=2025-06-15T22:27:23+00:00Z
 
-1043	nom
-1115	dat
-1876	nom/voc
-1961	nom/voc/acc
-2717	nom/voc
-2797	nom/voc
-2937	nom/voc
-3096	nom/voc/acc
-3458	nom/voc/acc
-3463	gen
-3572	gen
-3685	nom/voc
-3745	nom/voc
-4349	nom/voc/acc
-4399	nom/voc
-4439	nom/voc
-4448	nom/voc
-4534	nom/voc
-4561	nom/voc
-4653	nom/voc
-5188	nom/voc
-5448	nom/voc
-5692	nom/voc
-5710	nom/voc
-6545	dat
-6557	nom/voc/acc
-6561	nom/voc
-7027	gen
-7047	nom/voc
-7078	nom/voc
-7091	nom/voc
-7121	nom/voc
-7328	nom/voc
-7670	gen
-7929	nom/voc
-8626	nom/voc
-8649	nom/voc
-8699	dat
-8765	nom/voc
-9400	nom/voc
-9633	nom/voc
-10081	nom/voc
-10092	nom/voc
-10293	nom/voc/acc
-10491	nom/voc/acc
-10517	nom/voc/acc
-10697	nom/voc
-10701	nom/voc
-10820	nom/voc
-10984	dat
-11007	nom/voc
-11121	nom/voc/acc
-11304	nom/voc/acc
-11322	nom/voc/acc
-11892	nom/voc
-11994	nom
-12364	nom/voc
-12438	nom/voc/acc
-12460	dat
-12462	nom/voc
-12502	nom/voc/acc
-12575	nom/voc/acc
-12918	acc
-13206	dat
-13334	nom/voc
-13680	nom/voc/acc
-14204	nom
-14280	nom/voc/acc
-14646	nom
-15194	nom/voc
-15201	nom/voc
-15241	nom/voc
-15251	nom/voc
-15293	nom/voc
-15343	nom/voc/acc
-15481	dat
-15508	dat
-15525	nom/voc/acc
-15603	dat
-15621	dat
-15984	nom/voc/acc
-16168	nom/voc/acc
-16185	nom
-17314	nom/voc
-18025	gen
-18547	nom/voc/acc
-18954	nom/voc
-19214	nom/voc/acc
-19303	nom/voc
-19319	nom/voc
-19416	dat
-19428	nom/voc
-19926	nom/voc
-19954	dat
-19988	nom/voc
-20131	gen
-20202	nom/voc
-20300	gen
-20355	nom/voc
-20572	nom/voc/acc
-20617	voc
-20674	nom/voc
-21056	nom/voc
-21186	nom/voc
-21394	nom/voc
-21639	nom/voc
-22506	nom/voc
-22526	nom/voc
-22538	nom/voc
-22693	nom/voc
-22909	nom/voc
-23570	nom/voc
-23703	nom/voc/acc
-23823	nom/voc
-23901	nom/voc
-24315	nom/voc
-24496	nom/voc/acc
-24624	dat
-24643	nom/voc
-24735	nom/voc/acc
-24880	nom/voc/acc
-24905	nom/voc/acc
-24922	nom/voc/acc
-25045	nom/voc/acc
-25172	nom/voc/acc
-25194	nom/voc/acc
-25288	nom/voc
-25434	nom
-25812	nom/voc
-25918	nom/voc/acc
-25940	dat
-nom/voc
-25947	nom/voc
-25983	nom/voc/acc
-26436	nom/voc
-26539	nom/voc/acc
-26557	nom/voc/acc
-26821	nom
-26897	nom/voc/acc
-26966	nom/voc
-27110	nom/voc
-27156	nom/voc
-27220	nom
-27811	nom/voc/acc
-27825	nom
-27843	nom/voc
-27990	nom/voc
-29133	nom/voc
-29136	dat
-29163	nom/voc/acc
-29338	nom/voc
-29650	nom/voc/acc
-29796	dat
-29917	nom/voc/acc
-30495	nom/voc
-31768	nom
-32902	gen
-32952	nom/voc/acc
-33227	nom/voc
-33524	voc
-33543	nom/voc
-33566	nom/voc
-33574	nom/voc
-33667	dat
-33685	dat
-33699	nom/voc
-34190	nom/voc
-34570	gen
-34755	nom/voc
-35079	nom/voc
-35100	nom/voc
-35548	nom/voc/acc
-35610	gen
-36047	nom/voc
-36566	nom/voc
-36632	nom/voc/acc
-36728	voc
-36986	dat
-37112	nom/voc/acc
-37716	nom/voc/acc
-38378	acc
-38383	nom/voc/acc
-38494	voc
-38944	nom/voc/acc
-39293	nom/voc
-39647	nom/voc
-39702	dat
-39909	nom/voc
-40057	nom/voc/acc
-40076	nom/voc/acc
-40943	nom/voc/acc
-41026	dat
-41048	dat
-41352	dat
-41381	dat
-41541	nom
-41892	nom/voc/acc
-41950	nom/voc/acc
-42790	nom/voc
-43117	dat
-43124	dat
-43263	nom/voc/acc
-43868	nom/voc/acc
-43984	nom/voc/acc
-44000	nom/voc/acc
-44429	nom/voc/acc
-44475	nom/voc/acc
-44695	nom
-44727	nom/voc
-44807	nom
-45078	dat
-nom/voc
-45118	nom/voc/acc
-45411	nom/voc/acc
-45585	nom/voc
-45855	nom/voc/acc
-46274	nom
-46705	nom/voc/acc
-46813	nom/voc
-46880	nom
-46927	nom/voc
-47970	gen
-48007	nom/voc/acc
-48146	nom/voc/acc
-48289	nom/voc
-48507	nom/voc/acc
-48541	nom/voc
-48555	nom/voc
-49659	acc
-50353	nom/voc/acc
-50398	nom/voc/acc
-50421	dat
-50668	gen
-51166	dat
-51180	nom/voc
-51324	nom/voc
-51490	nom/voc/acc
-51541	gen
-51558	gen
-52168	nom/voc
-52171	acc
-52177	gen
-52261	nom/voc
-52279	gen
-52312	nom/voc
-52428	nom/voc
-52478	nom/voc
-52525	nom/voc/acc
-52601	nom/voc
-52815	nom/voc
-53049	nom/voc
-53055	nom/voc
-53138	nom/voc
-53342	nom/voc/acc
-53347	nom/voc
-53370	nom/voc
-53834	nom/voc
-54096	nom/voc
-54132	nom/voc
-54182	nom/voc
-54317	nom/voc
-54353	nom/voc
-54688	nom/voc
-54726	nom/voc
-54802	nom
-55308	nom/voc/acc
-55310	nom/voc
-55334	nom/voc/acc
-55400	gen
-55438	nom/voc
-55691	nom/voc
-gen
-55819	nom/voc
-55883	nom/voc/acc
-56017	nom/voc
-56588	nom/voc
-56650	nom/voc
-56834	nom/voc
-56996	nom/voc/acc
-57007	nom/voc
-57114	nom/voc
-57179	nom/voc/acc
-57190	nom/voc/acc
-57446	nom/voc
-57497	nom/voc
-57921	nom/voc
-58081	nom/voc
-58131	nom/voc
-58292	nom/voc
-58667	dat
-58686	nom/voc
-58736	nom/voc
-58945	nom/voc
-58980	nom/voc
-59223	nom/voc/acc
-59266	nom/voc
-59973	nom/voc/acc
-60120	gen
-60124	gen
-60187	gen
-60202	nom/voc
-60332	nom/voc/acc
-60668	nom/voc/acc
-60719	nom/voc
-60868	nom/voc
-61273	nom/voc
-61411	nom/voc
-61573	nom/voc
-61771	nom/voc
-62439	nom/voc
-62467	gen
-62696	nom/voc
-62929	gen
-63150	nom/voc
-63646	nom/voc
-64063	nom/voc
-64095	nom/voc
-64307	nom/voc
-64656	nom/voc
-64738	nom/voc
-64778	nom/voc/acc
-64799	nom/voc
-65164	acc
-65418	nom/voc
-65634	dat
-66087	nom/voc/acc
-67099	acc
-67273	nom/voc
-67398	nom/voc
-68213	dat
-68450	nom/voc/acc
-68649	gen
-68975	nom/voc
-69902	nom/voc/acc
-70136	nom/voc
-70856	gen
-71134	nom/voc
-71230	nom/voc/acc
-71529	nom/voc
-72177	voc
-72532	gen
-72682	voc
-72902	nom/voc/acc
-73804	nom/voc
-74013	nom/voc/acc
-74313	nom/voc
-74425	gen
-74443	nom/voc
-74971	nom
-75453	nom/voc
-75673	voc
-75866	nom/voc
-75883	nom/voc/acc
-76126	nom/voc/acc
-76346	nom/voc
-76539	nom/voc
-77114	gen
-77152	nom/voc
-77184	nom/voc
-77205	nom/voc/acc
-77249	nom
-77360	voc
-77866	voc
-77898	nom/voc/acc
-78139	voc
-78362	nom/voc
-78550	nom/voc
-79535	nom/voc/acc
-79673	voc
-81398	nom/voc
-81478	nom/voc
-81591	nom/voc
-81658	nom/voc
-81894	nom/voc
-81897	nom
-82371	nom
-82784	nom/voc/acc
-82910	nom/voc/acc
-83054	nom/voc/acc
-83407	nom/voc
-83486	nom/voc
-83582	gen
-83607	nom/voc
-83661	gen
-84226	nom
-84240	gen
-84442	nom/voc
-84487	nom/voc
-84536	nom/voc
-84662	nom/voc
-84693	nom/voc
-84722	nom/voc
-84744	nom/voc
-84828	nom/voc
-84860	nom/voc
-84931	nom/voc
-85056	nom/voc
-85074	nom/voc
-85118	nom/voc
-85392	nom/voc
-85501	nom/voc
-85528	nom/voc
-85539	nom/voc
-85833	nom/voc
-85845	nom/voc/acc
-85867	nom/voc/acc
-85935	nom/voc
-85987	nom/voc/acc
-85994	nom/voc/acc
-86006	nom/voc
-86041	nom/voc/acc
-86043	nom/voc
-86057	nom/voc/acc
-86062	nom/voc
-86228	nom/voc
-86294	nom/voc
-86350	dat
-86408	nom/voc
-86482	nom/voc
-86523	nom/voc
-86586	nom/voc
-86618	dat
-86683	nom/voc
-86936	nom/voc
-86962	nom/voc
-87031	gen
-87045	nom/voc
-87110	dat
-87186	nom/voc
-87437	nom/voc
-87593	nom/voc
-87610	gen
-87616	nom/voc
-87732	nom/voc
-87850	nom/voc
-87894	voc
-87973	nom/voc
-87996	nom/voc
-88277	nom/voc
-88317	nom/voc
-88378	voc
-88403	gen
-88473	nom/voc
-88505	nom/voc
-88518	nom/voc
-88532	gen
-88545	nom/voc
-88597	nom/voc
-88653	nom/voc
-88703	nom/voc/acc
-88706	gen
-88808	nom/voc
-89025	nom/voc
-89095	nom/voc
-89142	nom/voc
-89232	nom/voc
-89336	nom/voc
-89545	nom/voc
-89808	nom/voc
-90007	nom/voc
-90430	nom/voc
-90587	nom/voc
-90762	nom/voc
-90798	nom/voc
-90877	nom/voc
-90946	dat
-91036	nom/voc
-91064	acc
-91069	acc
-91386	nom/voc/acc
-91444	gen
-91556	nom/voc
-91612	nom/voc
-91935	nom/voc
-91966	nom/voc
-91980	nom/voc/acc
-92005	nom/voc/acc
-92012	nom/voc
-92014	nom/voc
-92016	nom/voc
-92071	nom/voc
-92158	nom/voc/acc
-92215	acc
-92239	nom/voc
-92252	nom/voc
-92301	nom/voc
-92303	nom/voc/acc
-92344	nom/voc
-92515	nom/voc
-92765	nom/voc
-92874	gen
-93130	nom/voc
-93238	nom
-93257	nom/voc/acc
-93293	nom/voc
-93485	nom/voc/acc
-93541	nom/voc
-93640	gen
-93716	gen
-93740	nom/voc
-93888	nom/voc
-93954	nom/voc
-94012	nom/voc
-94135	nom/voc
-94147	nom/voc
-94261	nom/voc
-94311	nom/voc/acc
-94605	voc
-94687	dat
-94756	nom/voc
-94870	nom/voc
-94907	nom/voc
-94925	nom/voc
-95234	nom/voc
-95465	dat
-95495	nom/voc
-95520	nom/voc
-95560	nom/voc
-95569	nom/voc
-95725	nom/voc
-95745	nom/voc
-95957	nom/voc
-95965	nom/voc
-96146	nom/voc/acc
-96305	nom/voc
-dat
-96334	nom/voc
-96356	nom/voc/acc
-96364	nom/voc
-96385	nom/voc
-96473	nom/voc
-96526	nom/voc/acc
-96882	voc
-97163	nom/voc
-97257	nom/voc
-97392	nom/voc
-97466	nom/voc
-97544	nom/voc
-97561	nom/voc
-97580	voc
-97676	nom/voc
-97804	nom/voc
-97854	nom/voc
-97976	nom/voc
-98057	nom/voc
-98061	voc
-98067	nom/voc
-98083	nom/voc
-98143	nom/voc
-98364	nom/voc
-98550	nom/voc
-98603	nom/voc
-98625	nom/voc
-98658	voc
-99086	nom/voc
-99185	nom/voc
-99187	nom/voc
-99189	nom/voc
-99191	nom/voc
-99193	nom/voc
-99195	nom/voc
-99374	nom/voc
-99433	nom/voc
-99480	nom/voc
-99612	nom/voc
-99635	voc
-99658	nom/voc
-99736	voc
-99827	gen
-99834	gen
-99942	nom/voc
-100063	nom/voc
-100203	nom/voc
-100222	nom/voc
-100308	nom/voc
-100319	nom/voc
-100439	voc
-100497	nom/voc/acc
-101078	nom/voc
-101088	nom/voc
-101101	nom
-101115	nom/voc
-101150	nom/voc
-101273	nom/voc
-101282	nom/voc
-101293	nom/voc
-101366	nom/voc
-101385	nom/voc
-101466	nom/voc
-101566	nom/voc
-101641	nom/voc
-101728	nom/voc
-101927	nom/voc
-voc
-102326	voc
-102555	nom/voc
-102676	nom/voc
-102752	nom/voc
-102761	nom/voc
-102848	nom/voc
-102884	nom/voc
-103072	nom/voc
-103103	nom/voc
-103172	nom/voc
-103254	nom/voc
-103292	nom/voc/acc
-103367	nom/voc/acc
-103485	nom/voc/acc
-103514	gen
-103526	gen
-103597	nom/voc
-103636	nom/voc
-103918	nom/voc
-104054	nom/voc
-104354	gen
-104405	nom/voc
-105102	nom/voc/acc
-105195	nom/voc
-105309	nom/voc
-105466	nom/voc
-105481	nom/voc
-105546	nom/voc
-105615	nom/voc/acc
-105624	gen
-105637	nom/voc
-105656	dat
-105754	nom/voc
-105886	nom/voc
-106388	nom/voc
-106469	nom/voc/acc
-106588	nom/voc
-106648	nom/voc
-106660	nom/voc
-106686	nom/voc
-106763	nom/voc
-106839	nom/voc
-106975	nom/voc
-106984	nom/voc
-107126	nom/voc
-107137	nom/voc
-107178	nom/voc
-107355	dat
-107642	nom/voc
-107865	nom/voc
-107956	nom/voc/acc
-108343	nom/voc
-108507	nom/voc/acc
-108724	nom/voc/acc
-108803	nom/voc
-109188	nom/voc/acc
-109288	voc
-109390	nom/voc
-109535	nom/voc
-109571	nom/voc
-109586	nom/voc
-109618	voc
-109626	nom/voc
-109651	nom/voc
-109730	nom/voc/acc
-109754	nom/voc
-109819	nom
-110275	nom/voc
-110304	nom/voc/acc
-110548	nom/voc
-110584	nom/voc
-110672	nom/voc
-111067	dat
-111229	nom/voc
-111508	nom/voc
-111557	nom/voc
-111773	voc
-111782	nom/voc
-111824	nom/voc
-112124	nom/voc
-112453	nom/voc
-112515	gen
-112526	nom/voc
-112558	acc
-112680	nom/voc
-112796	gen
-112812	nom/voc
-112883	nom/voc
-112921	nom/voc
-113002	gen
-113311	nom/voc
-113330	nom/voc
-113349	nom/voc
-113481	nom/voc
-113607	nom/voc
-113762	nom/voc
-113832	nom/voc
-114122	nom/voc/acc
-114147	nom/voc
-114181	voc
-114228	nom/voc
-114274	voc
-114329	nom/voc
-114372	nom/voc/acc
-114549	nom/voc
-114654	nom/voc
-114777	nom/voc
-114934	nom/voc
-115048	nom/voc/acc
-115286	nom/voc
-115303	nom/voc
-115545	gen
-115672	voc
-115679	nom/voc
-115955	nom/voc
-116179	nom/voc
-116626	nom/voc
-117362	nom/voc
-118685	nom/voc
-118772	nom/voc/acc
-118889	nom/voc
-119127	nom/voc
-119363	voc
-119463	voc
-119719	nom/voc
-119875	nom/voc
-119958	nom/voc
-119979	nom/voc/acc
-120191	nom/voc
-120237	nom
-120311	gen
-120563	gen
-120732	nom/voc
-120751	nom/voc
-121051	dat
-121259	nom
-121452	nom/voc
-121674	nom/voc
-121877	nom/voc/acc
-122208	voc
-122260	nom
-122356	nom/voc
-122409	nom/voc
-122477	nom/voc
-122689	voc
-122798	nom/voc
-122902	nom/voc
-122911	nom
-123052	voc
-123066	nom/voc/acc
-123159	nom/voc
-123256	nom/voc
-123278	nom/voc/acc
-123302	nom/voc
-123467	nom/voc
-123615	nom/voc
-123621	nom/voc
-123628	nom/voc
-123735	dat
-123748	nom/voc
-123989	nom/voc/acc
-124169	nom/voc
-124207	dat
-124245	nom/voc
-124258	nom/voc
-124283	nom/voc/acc
-124543	nom/voc/acc
-124705	nom/voc
-124713	nom/voc
-125132	nom/voc
-125269	gen
-125417	nom/voc
-125432	gen
-125679	gen
-125748	gen
-125797	gen
-125807	gen
-125873	gen
-125883	gen
-125952	gen
-126036	nom/voc
-126156	nom/voc
-126303	gen
-126314	gen
-126386	nom/voc/acc
-126569	gen
-126582	nom/voc/acc
-126592	gen
-126615	gen
-127044	nom/voc
-127114	nom/voc
-127174	nom/voc
-127180	nom/voc/acc
-127247	nom/voc
-127421	nom/voc
-127596	nom/voc
-127599	nom/voc/acc
-127668	nom/voc
-127727	nom
-128076	nom/voc/acc
-128263	gen
-128486	nom/voc
-128525	nom/voc
-128591	nom/voc
-128606	nom/voc
-128849	voc
-128863	nom/voc
-129117	nom/voc
-129204	dat
-129255	nom/voc
-130073	nom/voc/acc
-132104	dat
-134881	nom/voc
-135024	nom/voc/acc
-135027	nom/voc
-135143	nom/voc/acc
-135165	nom/voc/acc
-135921	nom
-136314	voc
-136835	nom/voc/acc
-137313	gen
-137646	gen
+574	
+914	
+1043	nominative
+1115	dative
+1258	
+1339	
+1446	
+1484	
+1647	
+1683	
+1743	
+1876	
+1924	
+1938	
+1961	nominative/vocative/accusative
+2678	
+2717	
+2797	
+2930	
+2937	nominative/vocative/accusative
+3096	nominative/vocative/accusative
+3221	
+3458	nominative/vocative/accusative
+3463	genitive
+3548	
+3572	genitive
+3596	
+3685	
+3745	
+3824	
+3943	
+4080	
+4091	
+4208	
+4349	nominative/vocative/accusative
+4399	nominative/vocative/accusative
+4439	
+4448	nominative/vocative/accusative
+4516	
+4534	
+4537	
+4561	
+4647	
+4653	
+4976	
+5188	
+5405	
+5425	
+5448	
+5632	
+5690	
+5692	
+5710	
+5759	
+5775	
+6042	
+6451	
+6480	
+6516	
+6545	dative
+6557	nominative/vocative/accusative
+6561	nominative/vocative/accusative
+6814	
+7027	genitive
+7047	
+7078	
+7091	
+7121	nominative/vocative/accusative
+7328	
+7405	
+7512	
+7544	
+7593	
+7670	genitive
+7747	
+7786	
+7797	
+7828	
+7852	
+7929	nominative/vocative/accusative
+7935	
+8400	
+8626	nominative/vocative/accusative
+8649	nominative/vocative/accusative
+8699	dative
+8765	
+9008	
+9305	
+9400	
+9498	
+9633	
+9752	
+10081	nominative/vocative/accusative
+10092	nominative/vocative/accusative
+10202	
+10207	
+10264	
+10293	nominative/vocative/accusative
+10310	
+10491	nominative/vocative/accusative
+10517	nominative/vocative/accusative
+10697	
+10701	nominative/vocative/accusative
+10705	
+10820	
+10876	
+10935	
+10984	dative
+11007	
+11121	nominative/vocative/accusative
+11135	
+11163	
+11184	
+11304	nominative/vocative/accusative
+11322	nominative/vocative/accusative
+11446	
+11779	
+11892	
+11994	nominative
+12364	
+12424	
+12431	
+12433	
+12438	nominative/vocative/accusative
+12460	dative
+12462	nominative/vocative/accusative
+12502	nominative/vocative/accusative
+12575	nominative/vocative/accusative
+12793	
+12857	
+12918	accusative
+12976	
+13206	dative
+13259	
+13289	
+13334	
+13680	nominative/vocative/accusative
+14204	nominative
+14278	
+14280	nominative/vocative/accusative
+14646	nominative
+14982	
+14994	
+15047	
+15194	
+15201	
+15241	
+15251	
+15293	
+15343	nominative/vocative/accusative
+15379	
+15481	dative
+15508	dative
+15525	nominative/vocative/accusative
+15603	dative
+15621	dative
+15925	
+15984	nominative/vocative/accusative
+16168	nominative/vocative/accusative
+16174	
+16185	nominative
+16258	
+16446	
+17184	
+17190	
+17314	
+17457	
+18025	genitive
+18537	
+18547	nominative/vocative/accusative
+18954	
+19214	nominative/vocative/accusative
+19303	
+19319	nominative/vocative/accusative
+19409	
+19416	dative
+19428	
+19430	
+19666	
+19892	
+19900	
+19926	
+19954	dative
+19988	
+20131	genitive
+20202	
+20300	genitive
+20355	
+20397	
+20512	
+20572	nominative/vocative/accusative
+20579	
+20617	vocative
+20661	
+20674	
+20683	
+20773	
+21056	
+21104	
+21167	
+21186	
+21394	
+21453	
+21639	
+22252	
+22506	
+22526	nominative/vocative/accusative
+22538	
+22693	
+22909	nominative/vocative/accusative
+22968	
+23244	
+23570	
+23703	nominative/vocative/accusative
+23823	
+23901	
+24315	
+24496	nominative/vocative/accusative
+24553	
+24624	dative
+24643	
+24724	
+24735	nominative/vocative/accusative
+24880	nominative/vocative/accusative
+24905	nominative/vocative/accusative
+24922	nominative/vocative/accusative
+25045	nominative/vocative/accusative
+25172	nominative/vocative/accusative
+25194	nominative/vocative/accusative
+25288	
+25434	nominative
+25576	
+25812	
+25912	
+25918	nominative/vocative/accusative
+25940	dative
+nominative/vocative/accusative
+25947	
+25983	nominative/vocative/accusative
+26062	
+26295	
+26355	
+26436	
+26539	nominative/vocative/accusative
+26557	nominative/vocative/accusative
+26691	
+26693	
+26790	
+26821	nominative
+26895	
+26897	nominative/vocative/accusative
+26966	
+27110	
+27145	
+27156	
+27220	nominative
+27604	
+27811	nominative/vocative/accusative
+27815	
+27825	nominative
+27843	
+27892	
+27990	
+28063	
+28651	
+28666	
+28853	
+28892	
+29133	nominative/vocative
+29136	dative
+29163	nominative/vocative/accusative
+29321	
+29338	
+29482	
+29601	
+29650	nominative/vocative/accusative
+29689	
+29796	dative
+29917	nominative/vocative/accusative
+30145	
+30298	
+30495	
+31370	
+31515	
+31540	
+31768	nominative
+32119	
+32386	
+32902	genitive
+32952	nominative/vocative/accusative
+33227	
+33524	vocative
+33543	nominative/vocative/accusative
+33566	
+33574	
+33667	dative
+33678	
+33685	dative
+33699	
+33701	
+33711	
+33881	
+34081	
+34190	
+34570	genitive
+34755	
+34983	
+35005	
+35077	
+35079	
+35100	
+35145	
+35548	nominative/vocative/accusative
+35610	genitive
+35966	
+35978	
+36047	
+36396	
+36566	
+36632	nominative/vocative/accusative
+36728	vocative
+36986	dative
+37112	nominative/vocative/accusative
+37632	
+37716	nominative/vocative/accusative
+37756	
+37912	
+37952	
+38378	accusative
+38383	nominative/vocative/accusative
+38494	vocative
+
+38588	
+38705	
+38832	
+38853	
+38897	
+38944	nominative/vocative/accusative
+39090	
+39101	
+39293	
+39647	
+39702	dative
+39858	
+39909	nominative/vocative/accusative
+40057	nominative/vocative/accusative
+40076	nominative/vocative/accusative
+40131	
+40162	
+40903	
+40943	nominative/vocative/accusative
+41026	dative
+41048	dative
+41083	
+41105	
+41300	
+41352	dative
+41381	dative
+41465	
+41482	
+41541	nominative
+41640	
+41773	
+41892	nominative/vocative/accusative
+41950	nominative/vocative/accusative
+42134	
+42584	
+42658	
+42713	
+42790	
+42922	
+43066	
+43117	dative
+43124	dative
+43131	
+43263	nominative/vocative/accusative
+43295	
+43305	
+43319	
+43857	
+43868	nominative/vocative/accusative
+43984	nominative/vocative/accusative
+44000	nominative/vocative/accusative
+44414	
+44429	nominative/vocative/accusative
+44475	nominative/vocative/accusative
+44609	
+44695	nominative
+44727	nominative/vocative/accusative
+44803	
+44807	nominative
+44865	
+45053	
+45078	dative
+nominative/vocative/accusative
+45092	
+45118	nominative/vocative/accusative
+45197	
+45411	nominative/vocative/accusative
+45500	
+45585	
+45603	
+45691	
+45693	
+45853	
+45855	nominative/vocative/accusative
+45912	
+46168	
+46215	
+46274	nominative
+46396	
+46465	
+46491	
+46522	
+46696	
+46705	nominative/vocative/accusative
+46716	
+46747	
+46813	
+46880	nominative
+46927	
+47970	genitive
+48007	nominative/vocative/accusative
+48146	nominative/vocative/accusative
+48289	
+48507	nominative/vocative/accusative
+48541	
+48555	
+48921	
+49185	
+49434	
+49481	
+49514	
+49546	
+49659	accusative
+50015	
+50353	nominative/vocative/accusative
+50398	nominative/vocative/accusative
+50421	dative
+50668	genitive
+50756	
+51166	dative
+51180	
+51309	
+51324	
+51333	
+51490	nominative/vocative/accusative
+51541	genitive
+51558	genitive
+52151	
+52168	
+52171	accusative
+52177	genitive
+52261	
+52279	genitive
+52312	
+52428	
+52478	
+52525	nominative/vocative/accusative
+52601	
+52700	
+52815	
+52947	
+52966	
+53024	
+53049	
+53055	
+53099	
+53138	
+53342	nominative/vocative/accusative
+53347	
+53370	
+53471	
+53653	
+53686	
+53695	
+53834	nominative/vocative/accusative
+54056	
+54096	
+54132	
+54182	
+54317	
+54353	
+54477	
+54688	nominative/vocative/accusative
+54726	
+54802	nominative
+55042	
+55051	
+55163	
+55175	
+55191	
+55273	
+55308	nominative/vocative/accusative
+55310	
+55334	nominative/vocative/accusative
+55400	genitive
+55438	
+55691	
+genitive
+55819	
+55883	nominative/vocative/accusative
+56017	
+56588	
+56650	
+56658	
+56821	
+56834	
+56996	nominative/vocative/accusative
+57007	
+57027	
+57033	
+57041	
+57114	
+57179	nominative/vocative/accusative
+57190	nominative/vocative/accusative
+57207	
+57225	
+57446	
+57497	
+57618	
+57921	
+58081	
+58131	
+58292	nominative/vocative/accusative
+58425	
+58644	
+58649	
+58666	
+dative
+58686	
+58736	
+58753	
+58945	
+58980	
+59223	nominative/vocative/accusative
+59266	
+59666	
+59713	
+59817	
+59973	nominative/vocative/accusative
+60022	
+60106	
+60120	genitive
+60124	genitive
+60131	
+60187	genitive
+60202	
+60268	
+60332	nominative/vocative/accusative
+60382	
+60419	
+60493	
+60620	
+60668	nominative/vocative/accusative
+60719	
+60868	
+60897	
+60979	
+61099	
+61273	
+61411	
+61522	
+61573	
+61607	
+61746	
+61771	
+61791	
+61808	
+61912	
+61923	
+61975	
+62439	
+62467	genitive
+62566	
+62582	
+62599	
+62696	
+62754	
+62929	genitive
+63150	
+63430	
+63646	
+63787	
+63789	
+63919	
+64037	
+64063	
+64095	
+64181	
+64201	
+64307	
+64656	
+64738	
+64778	nominative/vocative/accusative
+64799	
+64911	
+65086	
+65164	accusative
+65418	
+65634	dative
+65987	
+66087	nominative/vocative/accusative
+66570	
+67099	accusative
+67227	
+67273	
+67343	
+67398	nominative/vocative/accusative
+67439	
+67463	
+67834	
+68213	dative
+68218	
+68450	nominative/vocative/accusative
+68524	
+68649	genitive
+68975	
+69651	
+69785	
+69860	
+69902	nominative/vocative/accusative
+70057	
+70136	
+70212	
+70246	
+70743	
+70856	genitive
+71134	
+71230	nominative/vocative/accusative
+71281	
+71291	
+71529	
+71729	
+71970	
+72177	vocative
+72345	
+72532	genitive
+72682	vocative
+72902	nominative/vocative/accusative
+73804	nominative/vocative/accusative
+73871	
+74013	nominative/vocative/accusative
+74240	
+74313	
+74425	genitive
+74443	
+74971	nominative
+75018	
+75074	
+75324	
+75453	
+75673	vocative
+75727	
+75866	nominative/vocative
+75883	nominative/vocative/accusative
+75962	
+76126	nominative/vocative/accusative
+76346	
+76539	
+76690	
+77114	genitive
+77125	
+77134	
+77152	
+77184	
+77205	nominative/vocative/accusative
+77249	nominative
+77360	vocative
+77750	
+77844	
+77866	vocative
+77898	nominative/vocative/accusative
+77977	
+78139	vocative
+78362	
+78550	
+78807	
+79026	
+79152	
+79225	
+79245	
+79535	nominative/vocative/accusative
+79673	vocative
+79795	
+80636	
+80985	
+81112	
+81120	
+81182	
+81244	
+81398	
+81478	
+81591	
+81658	
+81835	
+81894	
+81897	nominative
+81937	
+82086	
+82220	
+82371	nominative
+82482	
+82529	
+82729	
+82784	nominative/vocative/accusative
+82910	nominative/vocative/accusative
+83054	nominative/vocative/accusative
+83274	
+83407	
+83486	nominative/vocative/accusative
+83558	
+83582	genitive
+83607	
+83661	genitive
+83823	
+84099	
+84173	
+84226	nominative
+84240	genitive
+84407	
+84442	
+84487	
+84536	
+84662	
+84693	
+84722	nominative/vocative/accusative
+84744	
+84828	
+84860	
+84931	
+85056	
+85074	nominative/vocative/accusative
+85118	
+85238	
+85392	
+85501	
+85528	
+85539	
+85833	
+85845	nominative/vocative/accusative
+85855	
+85867	nominative/vocative/accusative
+85903	
+85935	
+85939	
+85987	nominative/vocative/accusative
+85994	nominative/vocative/accusative
+86006	
+86041	nominative/vocative/accusative
+86043	
+86057	nominative/vocative/accusative
+86062	
+86228	
+86294	
+86350	dative
+86363	
+86408	
+86482	
+86523	
+86586	
+86618	dative
+86683	
+86936	
+86962	
+87031	genitive
+87045	
+87070	
+87110	dative
+87186	
+87437	
+87557	
+87593	
+87610	genitive
+87616	
+87724	
+87732	
+87850	
+87894	vocative
+87973	
+87996	
+88216	
+88277	
+88280	
+88317	
+88369	
+88378	vocative
+88403	genitive
+88457	
+88473	
+88505	
+88518	
+88532	genitive
+88545	
+88597	
+88653	
+88703	nominative/vocative/accusative
+88706	genitive
+88808	
+89025	
+89089	
+89095	
+89142	
+89232	
+89336	nominative/vocative/accusative
+89545	
+89808	
+89824	
+89866	
+89880	
+90007	
+90370	
+90430	
+90463	
+90587	
+90596	
+90608	
+90665	
+90697	
+90762	
+90798	
+90877	
+90943	
+90946	dative
+90950	
+90953	
+91010	
+91036	
+91064	accusative
+91069	accusative
+91386	nominative/vocative/accusative
+91444	genitive
+91479	
+91556	nominative/vocative/accusative
+91566	
+91612	
+91620	
+91751	
+91892	
+91935	
+91966	
+91980	nominative/vocative/accusative
+92005	nominative/vocative/accusative
+92012	
+92014	
+92016	
+92064	
+92071	
+92158	nominative/vocative/accusative
+92215	accusative
+92239	
+92252	
+92301	
+92303	nominative/vocative/accusative
+92326	
+92344	
+92515	
+92765	
+92874	genitive
+92876	
+93130	
+93238	nominative
+93256	
+nominative/vocative/accusative
+93260	
+93293	
+93310	
+93485	nominative/vocative/accusative
+93541	
+93640	genitive
+93716	genitive
+93740	
+93888	
+93954	
+94003	
+94012	
+94022	
+94135	
+94147	
+94261	
+94311	nominative/vocative/accusative
+94339	
+94605	vocative
+94687	dative
+94694	
+94756	
+94870	
+94907	
+94925	
+95234	
+95459	
+95465	dative
+95495	
+95520	
+95560	
+95569	
+95622	
+95725	
+95745	
+95921	
+95957	
+95965	
+96146	nominative/vocative/accusative
+96305	
+dative
+96334	
+96356	nominative/vocative/accusative
+96364	
+96385	
+96473	
+96526	nominative/vocative/accusative
+96807	
+96830	
+96882	vocative
+97163	
+97211	
+97257	
+97306	
+97392	
+97466	
+97512	
+97544	
+97561	
+97580	nominative/vocative/accusative
+97591	
+97620	
+97676	
+97804	
+97854	
+97953	
+97976	
+98057	nominative/vocative/accusative
+98061	vocative
+98067	
+98083	
+98143	
+98364	
+98435	
+98550	
+
+98603	
+98625	
+98658	vocative
+98962	
+99086	
+99185	
+99187	
+99189	
+99191	
+99193	
+99195	
+99374	
+99433	
+99480	
+99612	
+99635	vocative
+99658	
+99736	vocative
+99796	
+99827	genitive
+99834	genitive
+99942	
+100063	
+100203	
+100222	
+100308	
+100319	
+100439	vocative
+100497	nominative/vocative/accusative
+100503	
+100506	
+100573	
+100590	
+100599	
+100613	
+100646	
+100649	
+100652	
+100656	
+100697	
+100789	
+100905	
+101078	
+101088	
+101101	nominative
+101115	
+101150	dative
+101178	
+101273	
+101282	
+101293	
+101366	
+101385	nominative/vocative/accusative
+101466	
+101566	
+101641	
+101728	
+101927	
+nominative/vocative/accusative
+102077	
+102326	vocative
+102388	
+102555	
+102676	
+102752	
+102761	
+102769	
+102816	
+102848	
+102884	
+102924	
+103072	
+103103	
+103172	
+103251	
+103254	
+103292	nominative/vocative/accusative
+103367	nominative/vocative/accusative
+103485	nominative/vocative/accusative
+103507	
+103514	genitive
+103526	genitive
+103548	
+103597	
+103627	
+103636	
+103918	nominative/vocative/accusative
+103920	
+104054	
+104148	
+104354	genitive
+104357	
+104405	
+105102	nominative/vocative/accusative
+105195	
+105309	
+105331	
+105466	
+105481	
+105546	
+105615	nominative/vocative/accusative
+105624	genitive
+105637	
+105656	dative
+105754	
+105886	
+106000	
+106379	
+106388	
+106469	nominative/vocative/accusative
+106588	
+106648	
+106660	
+106686	
+106763	
+106839	
+106875	
+106975	
+106984	
+106992	
+107002	
+107126	
+107137	
+107178	
+107209	
+107355	dative
+107436	
+107474	
+107642	
+107865	nominative/vocative/accusative
+107891	
+107956	nominative/vocative/accusative
+108059	
+108158	
+108343	
+108507	nominative/vocative/accusative
+108631	
+108724	nominative/vocative/accusative
+108780	
+108803	
+109188	nominative/vocative/accusative
+109288	vocative
+109390	
+109535	
+109571	
+109586	
+109604	
+109618	vocative
+109621	
+109626	
+109651	
+109730	nominative/vocative/accusative
+109754	
+109819	nominative
+109862	
+109976	
+110275	
+110304	nominative/vocative/accusative
+110448	
+110548	
+110584	
+110655	
+110672	
+110930	
+111067	dative
+111165	
+111190	
+111229	
+111278	
+111373	
+111508	
+111557	
+111711	
+111773	vocative
+111782	
+111824	
+112079	
+112124	
+112453	
+112515	genitive
+112526	
+112558	accusative
+112680	
+112696	
+112796	genitive
+112812	
+112815	
+112828	
+112883	
+112921	
+112939	
+113002	genitive
+113311	
+113328	
+113330	
+113349	
+113481	
+113607	
+113672	
+113762	
+113832	
+113895	
+113958	
+114060	
+114122	nominative/vocative/accusative
+114147	
+114181	vocative
+114228	
+114274	vocative
+114329	
+114372	nominative/vocative/accusative
+114504	
+114534	
+114549	
+114654	
+114777	
+114934	
+115043	
+115048	nominative/vocative/accusative
+115263	
+115286	
+115303	
+115307	
+115545	genitive
+115672	vocative
+115679	nominative/vocative/accusative
+115938	
+115955	
+116087	
+116179	
+116196	
+116212	
+116626	
+117362	
+117733	
+118344	
+118470	
+118685	
+118772	nominative/vocative/accusative
+118889	
+119127	
+119219	
+119363	vocative
+119439	
+119463	vocative
+119719	
+119875	
+119958	
+119979	nominative/vocative/accusative
+120191	
+120237	nominative
+120311	genitive
+120563	genitive
+120580	
+120732	
+120751	
+121051	dative
+121056	
+121067	
+121259	nominative
+121334	
+121347	
+121359	
+121374	
+121452	
+121650	
+121654	
+121661	
+121674	
+121716	
+121877	nominative/vocative/accusative
+122208	vocative
+122260	nominative
+122356	
+122409	
+122477	
+122572	
+122689	vocative
+122798	
+122902	
+122911	nominative
+123052	nominative/vocative/accusative
+123066	nominative/vocative/accusative
+123159	
+123170	
+123256	
+123278	nominative/vocative/accusative
+123302	
+123422	
+123467	
+123615	
+123621	
+123628	
+123735	dative
+123748	nominative/vocative/accusative
+123874	
+123989	nominative/vocative/accusative
+124169	
+124207	dative
+124245	
+124258	
+124274	
+124283	nominative/vocative/accusative
+124328	
+124543	nominative/vocative/accusative
+124705	
+124713	
+124783	
+125132	
+125269	genitive
+125399	
+125404	
+125417	
+125428	
+125432	genitive
+125679	genitive
+125748	genitive
+125769	
+125797	genitive
+125807	genitive
+125873	genitive
+125883	genitive
+125952	genitive
+126036	
+126156	
+126303	genitive
+126314	genitive
+126386	nominative/vocative/accusative
+126569	genitive
+126582	nominative/vocative/accusative
+126592	genitive
+126615	genitive
+127044	
+127114	
+127174	
+127180	nominative/vocative/accusative
+127247	
+127282	
+127324	
+127416	
+127421	
+127596	
+127599	nominative/vocative/accusative
+127668	
+127727	nominative
+127736	
+127920	
+128076	nominative/vocative/accusative
+128152	
+128263	genitive
+128486	
+128525	
+128535	
+128591	
+128606	
+128849	vocative
+128863	
+129016	
+129117	
+129204	dative
+129255	
+129281	
+129296	
+129540	
+130073	nominative/vocative/accusative
+130519	
+131225	
+131288	
+131808	
+132104	dative
+132473	
+132841	
+132950	
+133479	
+133606	
+133723	
+134467	
+134881	nominative/vocative/accusative
+134885	
+135024	nominative/vocative/accusative
+135027	
+135062	
+135143	nominative/vocative/accusative
+135165	nominative/vocative/accusative
+135744	
+135921	nominative
+136158	
+136314	vocative
+136466	
+136835	nominative/vocative/accusative
+137213	
+137313	genitive
+137487	
+137646	genitive
+137711	

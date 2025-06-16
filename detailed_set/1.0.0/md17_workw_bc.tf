@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:22+00:00Z
+@dateWritten=2025-06-15T22:27:23+00:00Z
 
 914	basilei/a_
 1043	liqw=n
@@ -259,7 +259,7 @@
 115307	a)ga/phton
 119979	basilei/+a_n
 121334	fu_/sei
-121347	i)ou=
+121347	i)/ou
 121359	katarw/meqa
 121654	katalalw=n
 121716	e)pista=sqe

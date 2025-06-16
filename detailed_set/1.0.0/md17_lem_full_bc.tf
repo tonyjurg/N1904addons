@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:22+00:00Z
+@dateWritten=2025-06-15T22:27:23+00:00Z
 
 914	basileia/w
 1043	liqa/zw
@@ -223,13 +223,13 @@
 93256	a)ro/trios
 96146	basileia/w
 96526	basileia/w
-97580	e)nanti/os
+97580	e)nanti/on
 97591	kata/-a)poqe/w
 98435	kata/-a)poqe/w
 99796	u(posta/zw
 100590	u(posta/zw
 100697	pro/s-a)ma/w1
-101928	e)nanti/os
+101928	e)nanti/on
 102077	fusa/w
 102326	kata/-r(ai/nw
 102769	fusa/w
@@ -259,13 +259,13 @@
 115307	a)gapa/w
 119979	basileia/w
 121334	fusa/w
-121347	i)ou/
+121347	i)o/w
 121359	kata/-a)ra/zw
 121654	kata/-a)lala/zw
 121716	e)pista/zw
 122208	de/on
 122689	e)piqumia/w
-123052	e)nanti/os
+123052	e)nanti/on
 123989	basileia/w
 124283	katapone/w
 125769	a)rh/

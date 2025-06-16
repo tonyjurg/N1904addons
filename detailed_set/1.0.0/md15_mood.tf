@@ -11,14 +11,14 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:21+00:00Z
+@dateWritten=2025-06-15T22:27:23+00:00Z
 
 574	imperative
 914	indicative
 1043	indicative
-1446	infinitive
+1446	participle
 1484	indicative
-1647	infinitive
+1647	participle
 1683	indicative
 1743	indicative
 1961	participle
@@ -27,8 +27,8 @@
 3096	participle
 3221	participle
 3458	participle
-3943	infinitive
-4091	infinitive
+3943	participle
+4091	participle
 4516	indicative
 4537	indicative
 4976	indicative
@@ -46,14 +46,14 @@
 7797	indicative
 7828	indicative
 7852	indicative
-8400	infinitive
+8400	participle
 9008	participle
-9305	infinitive
+9305	participle
 9498	imperative
 10293	participle
 10705	indicative
 10876	imperative
-10935	infinitive
+10935	participle
 11121	participle
 11163	indicative
 11304	participle
@@ -76,20 +76,20 @@
 18537	indicative
 19409	indicative
 19430	indicative
-19666	infinitive
+19666	participle
 19892	indicative
 19900	indicative
 20512	indicative
 20572	participle
-20661	infinitive
-20773	infinitive
-21104	infinitive
+20661	participle
+20773	participle
+21104	participle
 21453	indicative
-22252	infinitive
-23244	infinitive
+22252	participle
+23244	participle
 23703	participle
 24496	participle
-24553	infinitive
+24553	participle
 24724	indicative
 24735	participle
 24880	participle
@@ -117,7 +117,7 @@
 33711	indicative
 34081	indicative
 35548	participle
-35966	infinitive
+35966	participle
 36632	participle
 36728	infinitive
 37112	participle
@@ -171,18 +171,18 @@
 48146	participle
 48507	indicative
 48921	participle
-49434	infinitive
+49434	participle
 49481	imperative
 49514	imperative
 49546	imperative
 50353	participle
 50398	participle
-50756	infinitive
+50756	participle
 52151	imperative
-52700	infinitive
-52947	infinitive
-53024	infinitive
-53099	infinitive
+52700	participle
+52947	participle
+53024	participle
+53099	participle
 53471	imperative
 53653	imperative
 53686	imperative
@@ -194,7 +194,7 @@
 57027	imperative
 57033	imperative
 57207	imperative
-57225	infinitive
+57225	participle
 58753	imperative
 60022	imperative
 60106	imperative
@@ -208,7 +208,7 @@
 61791	imperative
 61808	imperative
 61912	imperative
-61923	infinitive
+61923	participle
 62566	indicative
 62582	indicative
 62599	indicative
@@ -301,7 +301,6 @@
 96807	imperative
 96830	indicative
 97211	indicative
-97580	participle
 97591	subjunctive
 97620	imperative
 98435	subjunctive
@@ -316,7 +315,6 @@
 100656	imperative
 100697	indicative
 101178	imperative
-101928	participle
 102077	imperative
 102326	participle
 102769	imperative
@@ -364,13 +362,12 @@
 121056	imperative
 121067	imperative
 121334	imperative
-121347	indicative
+121347	imperative
 121359	subjunctive
 121654	participle
 121716	imperative
 122208	indicative
 122689	indicative
-123052	participle
 123278	participle
 123989	participle
 124283	participle

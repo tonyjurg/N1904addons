@@ -11,14 +11,14 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:21+00:00Z
+@dateWritten=2025-06-15T22:27:23+00:00Z
 
 574	present
 914	present
 1043	imperfect
-1446	present
+1446	future
 1484	present
-1647	present
+1647	future
 1683	present
 1743	present
 1961	present
@@ -27,8 +27,8 @@
 3096	present
 3221	future
 3458	present
-3943	present
-4091	present
+3943	future
+4091	future
 4516	imperfect
 4537	imperfect
 4976	present
@@ -46,14 +46,14 @@
 7797	present
 7828	present
 7852	present
-8400	present
+8400	future
 9008	future
-9305	present
+9305	future
 9498	present
 10293	present
 10705	present
 10876	present
-10935	present
+10935	future
 11121	present
 11163	present
 11304	present
@@ -76,20 +76,20 @@
 18537	present
 19409	imperfect
 19430	imperfect
-19666	present
+19666	future
 19892	present
 19900	present
 20512	present
 20572	present
-20661	present
-20773	present
-21104	present
+20661	future
+20773	future
+21104	future
 21453	future
-22252	present
-23244	present
+22252	future
+23244	future
 23703	present
 24496	present
-24553	present
+24553	future
 24724	present
 24735	present
 24880	present
@@ -117,7 +117,7 @@
 33711	imperfect
 34081	present
 35548	present
-35966	present
+35966	future
 36632	present
 36728	present
 37112	present
@@ -171,18 +171,18 @@
 48146	present
 48507	imperfect
 48921	present
-49434	present
+49434	future
 49481	present
 49514	present
 49546	present
 50353	present
 50398	present
-50756	present
+50756	future
 52151	present
-52700	present
-52947	present
-53024	present
-53099	present
+52700	future
+52947	future
+53024	future
+53099	future
 53471	present
 53653	present
 53686	present
@@ -194,7 +194,7 @@
 57027	present
 57033	present
 57207	present
-57225	present
+57225	future
 58753	present
 60022	present
 60106	present
@@ -208,7 +208,7 @@
 61791	present
 61808	present
 61912	present
-61923	present
+61923	future
 62566	present
 62582	present
 62599	present
@@ -301,7 +301,6 @@
 96807	present
 96830	present
 97211	imperfect
-97580	present
 97591	present
 97620	present
 98435	present
@@ -316,7 +315,6 @@
 100656	present
 100697	imperfect
 101178	present
-101928	present
 102077	present
 102326	future
 102769	present
@@ -362,13 +360,12 @@
 121056	present
 121067	present
 121334	present
-121347	imperfect
+121347	present
 121359	present
 121654	present
 121716	present
 122208	imperfect
 122689	imperfect
-123052	present
 123278	future
 123989	present
 124283	present

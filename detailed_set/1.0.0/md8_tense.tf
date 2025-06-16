@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:30+00:00Z
+@dateWritten=2025-06-15T22:27:33+00:00Z
 
 99	present
 324	imperfect
@@ -36,7 +36,6 @@
 1209	imperfect
 1258	present
 1298	present
-1309	imperfect
 1339	future
 present
 1358	present
@@ -66,7 +65,6 @@ present
 1961	present
 1963	imperfect
 2018	imperfect
-2027	imperfect
 2060	future
 2101	imperfect
 2147	present
@@ -146,7 +144,6 @@ present
 4978	imperfect
 4985	present
 5018	imperfect
-5034	imperfect
 5047	imperfect
 5052	present
 5059	imperfect
@@ -199,10 +196,10 @@ aorist
 6814	present
 6874	present
 7027	present
-7047	present
+7047	future
 7067	present
-7078	present
-7091	present
+7078	future
+7091	future
 7138	present
 7140	imperfect
 7177	present
@@ -396,7 +393,6 @@ future
 13425	future
 13457	present
 13466	future
-13474	imperfect
 13483	present
 13501	present
 13528	imperfect
@@ -442,13 +438,13 @@ future
 14994	present
 15047	present
 15100	aorist
-15194	present
-15201	present
+15194	future
+15201	future
 15226	present
 15229	present
-15241	present
-15251	present
-15293	present
+15241	future
+15251	future
+15293	future
 15341	imperfect
 15343	imperfect
 15377	imperfect
@@ -500,7 +496,6 @@ imperfect
 17500	present
 17523	future
 17540	present
-17712	imperfect
 17810	imperfect
 17942	imperfect
 17999	imperfect
@@ -510,7 +505,6 @@ imperfect
 18079	imperfect
 18082	present
 18091	aorist
-18143	imperfect
 18189	imperfect
 18323	future
 18335	imperfect
@@ -523,7 +517,6 @@ imperfect
 18727	future
 18828	present
 18836	present
-18851	imperfect
 18874	aorist
 18901	present
 18915	imperfect
@@ -560,7 +553,7 @@ imperfect
 19988	future
 20131	present
 present
-20202	present
+20202	future
 20255	present
 20278	future
 20300	present
@@ -573,7 +566,7 @@ present
 20617	imperfect
 20637	imperfect
 20661	present
-20674	present
+20674	future
 20683	imperfect
 20773	present
 20834	aorist
@@ -592,7 +585,6 @@ present
 21639	future
 21651	imperfect
 21675	present
-21677	imperfect
 21688	present
 21690	present
 21719	imperfect
@@ -608,7 +600,7 @@ present
 22448	imperfect
 22484	imperfect
 22500	imperfect
-22506	present
+22506	future
 22519	present
 22538	future
 22626	imperfect
@@ -618,7 +610,6 @@ imperfect
 22747	imperfect
 22787	present
 22859	imperfect
-22897	imperfect
 22920	imperfect
 22936	imperfect
 22953	future
@@ -717,7 +708,6 @@ future
 26584	present
 26592	present
 26627	future
-26635	imperfect
 26643	present
 26691	present
 26693	future
@@ -770,7 +760,6 @@ future
 imperfect
 28388	future
 28421	present
-28453	imperfect
 28545	imperfect
 28570	aorist
 28616	present
@@ -787,7 +776,6 @@ imperfect
 28892	present
 28920	future
 28939	present
-29076	imperfect
 29133	present
 29136	aorist
 29163	present
@@ -816,15 +804,12 @@ imperfect
 29709	imperfect
 29727	imperfect
 29730	future
-29788	imperfect
-imperfect
+29789	imperfect
 29796	future
 29809	imperfect
 29813	present
-29820	imperfect
 29835	future
 imperfect
-29875	imperfect
 29917	present
 29946	future
 30113	present
@@ -839,10 +824,8 @@ imperfect
 30514	imperfect
 30591	imperfect
 30638	present
-30684	imperfect
 30697	aorist
-30699	imperfect
-imperfect
+30700	imperfect
 30712	aorist
 30727	present
 30732	future
@@ -870,10 +853,8 @@ imperfect
 32291	aorist
 32298	imperfect
 32304	imperfect
-32306	imperfect
 32319	present
 32338	present
-32350	imperfect
 32361	aorist
 32384	present
 32386	future
@@ -898,12 +879,10 @@ present
 33227	future
 33277	imperfect
 33302	imperfect
-33324	imperfect
 33401	imperfect
 33419	present
 33428	future
 33442	future
-33454	imperfect
 33456	future
 33503	future
 33524	present
@@ -968,7 +947,6 @@ imperfect
 35719	future
 35724	imperfect
 35801	imperfect
-35837	imperfect
 35949	imperfect
 35966	present
 35974	future
@@ -983,7 +961,6 @@ imperfect
 36299	present
 36313	imperfect
 36396	future
-36476	imperfect
 36566	future
 36619	future
 36623	present
@@ -1060,11 +1037,8 @@ future
 39457	imperfect
 39588	present
 39621	future
-39644	imperfect
 39647	future
 39683	future
-39690	imperfect
-39694	imperfect
 39696	future
 39702	present
 39738	future
@@ -1102,7 +1076,6 @@ future
 40943	present
 41009	aorist
 41026	present
-41037	imperfect
 41048	present
 41083	present
 41105	present
@@ -1116,7 +1089,6 @@ future
 41363	imperfect
 41373	imperfect
 41381	present
-41390	imperfect
 41398	imperfect
 41465	future
 41467	imperfect
@@ -1126,13 +1098,10 @@ future
 41773	perfect
 41815	imperfect
 41963	imperfect
-42001	imperfect
 42003	future
 42115	present
 42121	imperfect
 42134	imperfect
-42142	imperfect
-42197	imperfect
 42347	imperfect
 42389	future
 42584	present
@@ -1140,8 +1109,6 @@ future
 42629	present
 42641	present
 42658	future
-42684	imperfect
-42700	imperfect
 42707	future
 42739	present
 42780	present
@@ -1264,7 +1231,6 @@ future
 47352	imperfect
 47501	present
 47560	present
-47606	imperfect
 47617	present
 47870	future
 47918	aorist
@@ -1281,7 +1247,6 @@ future
 48289	future
 48306	present
 48316	present
-48361	imperfect
 48452	present
 48507	imperfect
 48541	future
@@ -1294,7 +1259,6 @@ future
 48634	aorist
 48644	present
 48780	future
-48881	imperfect
 48890	present
 48901	present
 48921	imperfect
@@ -1315,7 +1279,6 @@ future
 49659	imperfect
 49737	future
 49825	aorist
-49830	imperfect
 49865	present
 49893	imperfect
 49928	present
@@ -1458,8 +1421,6 @@ imperfect
 54685	aorist
 54726	future
 54757	imperfect
-54874	imperfect
-54902	imperfect
 54925	imperfect
 54996	future
 55006	aorist
@@ -1469,7 +1430,6 @@ imperfect
 55163	imperfect
 55175	imperfect
 55191	imperfect
-55202	imperfect
 55207	aorist
 55222	aorist
 55231	imperfect
@@ -1514,7 +1474,7 @@ present
 56714	imperfect
 56734	future
 56821	present
-56834	present
+56834	future
 56845	present
 56886	future
 56891	future
@@ -1564,7 +1524,6 @@ aorist
 58074	present
 58081	future
 58131	future
-58144	imperfect
 58201	imperfect
 58215	imperfect
 58227	imperfect
@@ -1723,8 +1682,7 @@ imperfect
 63972	imperfect
 64037	present
 64063	future
-64095	present
-64100	imperfect
+64095	future
 64181	imperfect
 64201	aorist
 64258	imperfect
@@ -1737,7 +1695,7 @@ imperfect
 64407	imperfect
 64588	imperfect
 64624	imperfect
-64656	present
+64656	future
 64663	imperfect
 64718	imperfect
 64727	present
@@ -1754,14 +1712,12 @@ imperfect
 65479	present
 65485	future
 65492	aorist
-65498	imperfect
 65518	imperfect
 65527	imperfect
 65531	imperfect
 65571	future
 65577	future
 65604	present
-imperfect
 65611	future
 65634	future
 65742	present
@@ -1790,10 +1746,8 @@ aorist
 66526	present
 66542	imperfect
 66674	imperfect
-66679	imperfect
 66719	present
 66831	aorist
-66837	imperfect
 66973	imperfect
 67099	imperfect
 67105	imperfect
@@ -1818,8 +1772,6 @@ future
 67888	imperfect
 67983	future
 68033	future
-68041	imperfect
-68070	imperfect
 68108	present
 68213	future
 68218	future
@@ -1835,7 +1787,6 @@ future
 68975	future
 69045	present
 69131	imperfect
-69136	imperfect
 69157	present
 69173	imperfect
 69214	present
@@ -1873,7 +1824,6 @@ imperfect
 70246	present
 70277	future
 70297	present
-70306	imperfect
 70311	imperfect
 70319	present
 70529	present
@@ -1891,9 +1841,6 @@ imperfect
 71230	present
 71281	present
 71291	present
-71335	imperfect
-71352	imperfect
-71387	imperfect
 71398	imperfect
 71518	present
 71529	future
@@ -1940,7 +1887,6 @@ future
 73506	present
 73551	imperfect
 73565	imperfect
-73732	imperfect
 73871	imperfect
 73918	imperfect
 74008	present
@@ -1984,7 +1930,6 @@ future
 75539	future
 75544	imperfect
 75673	imperfect
-75752	imperfect
 75848	present
 75866	imperfect
 imperfect
@@ -2001,13 +1946,11 @@ imperfect
 76690	imperfect
 76768	imperfect
 76809	present
-76821	imperfect
 76853	imperfect
 76865	present
 76914	imperfect
 77004	imperfect
 77017	present
-77027	imperfect
 77043	imperfect
 77074	present
 77114	imperfect
@@ -2024,7 +1967,6 @@ imperfect
 77437	future
 77537	imperfect
 77597	present
-77602	imperfect
 77637	imperfect
 77706	present
 77750	present
@@ -2056,7 +1998,6 @@ imperfect
 78898	aorist
 79026	present
 79086	aorist
-79101	imperfect
 79146	future
 79152	present
 79225	future
@@ -2084,7 +2025,6 @@ aorist
 80636	future
 80770	present
 80821	imperfect
-80965	imperfect
 80985	present
 81112	present
 81120	imperfect
@@ -2105,7 +2045,6 @@ aorist
 81658	future
 81673	present
 81699	present
-81806	imperfect
 81835	imperfect
 81857	present
 81894	future
@@ -2123,7 +2062,6 @@ aorist
 82269	imperfect
 82276	present
 82283	imperfect
-82308	imperfect
 82321	imperfect
 82335	imperfect
 82371	present
@@ -2181,7 +2119,6 @@ future
 84240	imperfect
 84264	future
 84272	present
-84326	imperfect
 84346	present
 84407	present
 84442	future
@@ -2321,7 +2258,6 @@ present
 88438	future
 88457	present
 88473	future
-88489	imperfect
 88505	future
 88509	present
 88518	future
@@ -2350,7 +2286,6 @@ imperfect
 89095	future
 89134	imperfect
 89142	future
-89172	imperfect
 89186	imperfect
 89209	imperfect
 89232	future
@@ -2388,7 +2323,6 @@ imperfect
 90596	present
 90608	present
 90628	future
-90634	imperfect
 90665	present
 90697	present
 90725	future
@@ -2665,7 +2599,7 @@ present
 97163	future
 97207	future
 97211	present
-97257	present
+97257	future
 97291	imperfect
 97306	present
 97392	future
@@ -2709,7 +2643,6 @@ imperfect
 98067	future
 98083	future
 98085	future
-98094	imperfect
 98121	imperfect
 98143	future
 98146	present
@@ -2744,7 +2677,6 @@ imperfect
 99191	future
 99193	future
 99195	future
-99230	imperfect
 99374	future
 99421	present
 99431	aorist
@@ -2760,10 +2692,8 @@ imperfect
 99632	imperfect
 aorist
 99635	imperfect
-99656	imperfect
-imperfect
+99657	imperfect
 future
-99660	imperfect
 99662	present
 99697	future
 99704	imperfect
@@ -2785,6 +2715,7 @@ future
 100222	future
 100308	future
 100319	future
+100346	future
 100439	imperfect
 100490	future
 100497	present
@@ -2839,7 +2770,6 @@ future
 101660	future
 101728	future
 101764	imperfect
-101770	imperfect
 101876	aorist
 101887	future
 101927	future
@@ -3177,7 +3107,6 @@ present
 111839	present
 111929	present
 111936	aorist
-111946	imperfect
 112044	imperfect
 112079	future
 112086	imperfect
@@ -3205,7 +3134,6 @@ present
 112526	future
 present
 112558	imperfect
-112570	imperfect
 112607	future
 112610	imperfect
 112612	present
@@ -3213,8 +3141,6 @@ present
 112688	present
 112696	imperfect
 112766	future
-112770	imperfect
-112780	imperfect
 112788	present
 future
 112796	imperfect
@@ -3230,8 +3156,6 @@ future
 112939	imperfect
 113002	present
 113015	imperfect
-113051	imperfect
-113055	imperfect
 113083	imperfect
 113220	imperfect
 113229	imperfect
@@ -3257,7 +3181,6 @@ future
 113592	imperfect
 113604	present
 113607	future
-113663	imperfect
 113672	present
 113750	imperfect
 113762	future
@@ -3274,7 +3197,6 @@ future
 113958	imperfect
 113970	imperfect
 113995	present
-114104	imperfect
 114122	present
 114147	future
 114153	aorist
@@ -3329,7 +3251,6 @@ future
 115719	imperfect
 115778	future
 115780	present
-115785	imperfect
 115822	future
 115824	present
 115848	aorist
@@ -3355,7 +3276,6 @@ imperfect
 116402	present
 116404	imperfect
 116451	present
-116507	imperfect
 116626	future
 116771	imperfect
 116783	imperfect
@@ -3452,7 +3372,6 @@ present
 120285	imperfect
 120297	present
 120311	imperfect
-120316	imperfect
 120353	imperfect
 120381	imperfect
 120419	present
@@ -3500,8 +3419,7 @@ imperfect
 121581	present
 121602	aorist
 121606	present
-121644	imperfect
-imperfect
+121645	imperfect
 121650	present
 121654	present
 121661	imperfect
@@ -3555,7 +3473,6 @@ imperfect
 aorist
 122911	imperfect
 122931	aorist
-122971	imperfect
 122997	imperfect
 123052	present
 123066	imperfect
@@ -3686,7 +3603,6 @@ present
 126057	imperfect
 126074	imperfect
 126086	imperfect
-126099	imperfect
 126156	future
 126303	imperfect
 126314	imperfect
@@ -3722,7 +3638,6 @@ present
 127324	present
 127328	imperfect
 127340	present
-imperfect
 127385	imperfect
 127416	present
 127421	future
@@ -3743,7 +3658,6 @@ imperfect
 127920	future
 127929	imperfect
 127961	present
-128036	imperfect
 128051	imperfect
 128076	present
 128150	future
@@ -3764,7 +3678,6 @@ imperfect
 128606	future
 128629	imperfect
 128717	present
-128736	imperfect
 128738	imperfect
 128835	present
 128849	imperfect
@@ -3774,20 +3687,15 @@ imperfect
 128916	future
 128999	future
 129016	present
-129087	imperfect
 129101	imperfect
 129117	future
 129130	future
 129136	present
-129162	imperfect
-129167	imperfect
 129169	future
 129204	future
-129216	imperfect
 129223	aorist
 129255	future
 129263	aorist
-imperfect
 129281	present
 129296	present
 129459	aorist
@@ -3796,44 +3704,29 @@ imperfect
 129540	present
 129591	present
 129663	present
-129669	imperfect
-129680	imperfect
 129742	future
 129779	aorist
-129801	imperfect
 129808	aorist
-129821	imperfect
 129835	aorist
-129902	imperfect
 129962	imperfect
-130016	imperfect
 130073	present
 130086	future
 130093	imperfect
 130128	aorist
-130143	imperfect
 130211	imperfect
 130318	imperfect
 130359	present
 130392	present
-130402	imperfect
 130421	aorist
 130519	imperfect
 130651	present
 130657	future
 130692	imperfect
 130708	imperfect
-130794	imperfect
-130798	imperfect
 130842	imperfect
-130845	imperfect
 130850	present
-130942	imperfect
 130986	future
 130998	imperfect
-131029	imperfect
-131068	imperfect
-131085	imperfect
 131109	present
 131138	perfect
 131156	imperfect
@@ -3855,7 +3748,6 @@ future
 131497	present
 131500	present
 131573	present
-131604	imperfect
 131700	present
 131703	future
 131775	aorist
@@ -3869,7 +3761,6 @@ future
 132104	present
 132172	future
 132183	present
-132189	imperfect
 132191	imperfect
 132219	present
 132225	future
@@ -3881,16 +3772,12 @@ aorist
 132421	imperfect
 132441	aorist
 132477	imperfect
-132496	imperfect
 132507	present
 132548	imperfect
 132606	present
-132626	imperfect
 132636	imperfect
 132681	imperfect
-132694	imperfect
 132706	present
-132861	imperfect
 132950	present
 133003	imperfect
 133110	future
@@ -3900,17 +3787,12 @@ aorist
 133263	present
 133269	present
 133303	future
-133309	imperfect
 133321	aorist
-133348	imperfect
-133365	imperfect
 133406	imperfect
 133454	aorist
 133479	imperfect
 133527	imperfect
 133537	imperfect
-133560	imperfect
-133564	imperfect
 133567	imperfect
 133606	present
 133665	aorist
@@ -3918,16 +3800,13 @@ aorist
 133701	imperfect
 133723	imperfect
 133747	imperfect
-133767	imperfect
-future
-133771	imperfect
+133768	future
 133834	present
 133848	imperfect
 133960	future
 134041	future
 134133	present
 134158	aorist
-imperfect
 134210	imperfect
 134259	future
 134273	imperfect
@@ -3942,7 +3821,6 @@ imperfect
 134555	imperfect
 134594	present
 134638	present
-134677	imperfect
 134685	imperfect
 134735	future
 134758	imperfect
@@ -3992,14 +3870,12 @@ imperfect
 136198	imperfect
 136210	imperfect
 136213	present
-136259	imperfect
 136314	present
 136364	present
 136379	present
 136445	imperfect
 136466	future
 136476	future
-136628	imperfect
 136645	present
 136835	present
 136843	present

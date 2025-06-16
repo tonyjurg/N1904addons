@@ -11,6 +11,22 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:31+00:00Z
+@dateWritten=2025-06-15T22:27:34+00:00Z
 
+11994	
+14204	
+16185	
+25434	
+26821	
+27825	
+44695	
+44807	
+46274	
+46880	
+69860	
+71970	
+85238	
+86363	
+103548	
 109819	ἐν
+111278	

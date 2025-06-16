@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:21+00:00Z
+@dateWritten=2025-06-15T22:27:23+00:00Z
 
 574	a)/gw
 914	basileia=
@@ -326,7 +326,7 @@
 96807	a)/gw
 96830	a)pollw=
 97211	prosw/pwn
-97580	e)nanti+o/n
+97580	e)nanti/on
 97591	katapoqh=|
 97620	a)/gw
 98435	katapoqh=|
@@ -342,7 +342,7 @@
 100697	pota_/mwn
 100905	e)/rw
 101178	a)/gw
-101928	e)nanti+o/n
+101928	e)nanti/on
 102077	fu_/sei
 102326	katara=n
 102769	fu_/sei
@@ -401,7 +401,7 @@
 121716	e)pi/stasqe
 122208	de/on
 122689	e)piqumi/wn
-123052	e)nanti+o/n
+123052	e)nanti/on
 123066	a)ga/pa_n
 123278	e)cousiw=n
 123989	basileia=n

@@ -11,27 +11,39 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:21+00:00Z
+@dateWritten=2025-06-15T22:27:23+00:00Z
 
 574	contr
 914	contr
 1043	contr
 1115	contr
 1258	contr
+1446	contr
 1484	contr
+1647	contr
 1683	contr
 1743	contr
 1924	contr
 1938	contr
 1961	contr
 2678	contr
+2930	
+2937	
 3096	contr
 3221	nu_movable/short_subj
 3458	contr
+3463	
 3548	contr
+3572	
 3596	contr
 3824	contr
+3943	contr
 4080	contr
+4091	contr
+4399	
+4448	
+4516	
+4537	
 4647	contr
 4976	contr
 5405	contr
@@ -45,25 +57,43 @@
 6480	contr
 6516	contr
 6545	contr
+6561	
 6814	contr
+7027	
+7121	
 7405	contr
 7512	contr
 7544	contr
 7593	contr
+7670	
 7747	nu_movable
 7786	contr
 7797	contr
 7828	contr
 7852	contr
+7929	
 7935	contr
+8400	contr
+8626	
+8649	
 8699	contr
+9008	
+9305	contr
 9498	contr
 9752	contr
+10081	
+10092	
+10202	
+10207	
 10264	contr
 10293	contr
 10310	contr
+10491	
+10517	
+10701	
 10705	contr
 10876	contr
+10935	contr
 10984	contr
 11121	contr
 11135	contr
@@ -72,17 +102,24 @@
 11322	contr
 11446	contr
 11779	contr
+11994	
 12424	contr
 12431	contr
 12433	contr
 12460	contr
+12462	
 12575	contr
 12793	contr
 12857	contr
+12918	
 13206	contr
+13259	
+13289	
 13680	contr
+14204	
 14278	contr
 14280	contr
+14646	
 14982	contr
 15481	contr
 15508	contr
@@ -91,62 +128,107 @@
 15621	contr
 15925	contr
 16174	contr
+16185	
+17184	
+17190	
 17457	contr
 18537	contr
+19319	
+19409	
 19416	contr
+19430	
+19666	contr
 19892	contr
 19900	contr
 19954	contr
+20131	
+20300	
 20512	contr
 20572	contr
 20617	contr
+20661	contr
 20683	contr
+20773	contr
+21104	contr
+21453	
+22252	contr
+22526	
+22909	
 22968	contr
+23244	contr
 23703	contr
 24496	contr
+24553	contr
 24624	contr
 24724	contr
 24735	contr
 24880	contr
 24905	contr
 24922	contr
+25045	
+25434	
 25576	contr
 25912	contr
 25940	contr
+
 26062	contr
+26355	
 26539	contr
 26557	contr
+26693	
 26790	contr
+26821	
 26895	contr
 26897	contr
 27145	contr
+27220	
+27604	
 27815	contr
+27825	
+28651	
+28666	
 28853	contr
 28892	contr
+29133	
+29136	
 29163	contr
+29482	
 29601	contr
+29650	
 29917	contr
 30145	contr
+30298	
+31515	
 31540	contr
 31768	contr
+32902	
 32952	contr
 33524	contr
+33543	
 33667	contr
+33678	
 33685	contr
+33701	
+33711	
 34081	contr
+34570	
 34983	contr
 35005	contr
 35077	contr
 35145	contr
 35548	contr
+35610	
+35966	contr
 35978	contr
 36632	contr
 36728	contr
 37112	contr
+37632	
 37716	contr
 37756	contr
 37912	contr
 37952	contr
+38383	
 38494	contr
 38588	contr
 38705	contr
@@ -157,8 +239,10 @@
 39101	contr
 39702	contr
 39858	contr
+39909	
 40057	contr
 40076	contr
+40131	
 40162	contr
 40903	contr
 40943	contr
@@ -166,16 +250,24 @@
 41048	contr
 41083	contr
 41105	contr
+41300	
 41352	contr
 41381	contr
+41465	
 41482	contr
+41541	
 41640	contr
+41773	
+41892	
+41950	
 42134	contr
+42658	
 42713	contr
 42922	contr/nu_movable
 43117	contr
 43124	contr
 43131	contr
+43263	
 43295	contr
 43305	contr
 43319	contr
@@ -187,43 +279,80 @@
 44429	contr
 44475	contr
 44609	contr
+44695	
+44727	
+44803	
+44807	
 44865	contr
 45053	contr
 45078	contr
+
+45092	
 45197	contr
+45411	
+45500	
 45603	contr
+45693	
 45853	contr
 45855	contr
 45912	contr
 46168	contr
+46215	
+46274	
+46396	
 46491	contr
 46522	contr
 46696	contr
 46705	contr
 46716	contr
+46880	
+47970	
 48007	contr
 48146	contr
+48507	
 48921	contr
+49434	contr
 49481	contr
 49514	contr
 49546	contr
+49659	
 50353	contr
 50398	contr
+50668	
+50756	contr
 51333	contr
+51541	
+51558	
 52151	contr
+52171	
+52177	
+52279	
+52700	contr
+52947	contr
 52966	contr
+53024	contr
+53099	contr
 53471	contr
 53653	contr
 53686	contr
 53695	contr
+53834	
 54056	contr
+54688	
 54802	contr
 55273	contr
+55400	
+55692	
+56658	
 56821	contr
 57027	contr
 57033	contr
 57041	contr
 57207	contr
+57225	contr
+57618	
+58292	
+58644	
 58649	contr
 58666	contr
 contr
@@ -234,83 +363,142 @@ contr
 60382	contr
 60419	contr
 60493	contr
+60620	
+60668	
 61522	contr
 61607	contr
 61746	contr
 61791	contr
 61808	contr
 61912	contr
+61923	contr
+62467	
 62566	contr
 62582	contr
 62599	contr
+62754	
+62929	
 63430	contr
 63787	contr
 63789	contr
 63919	contr
 64201	contr
 64778	contr
+64911	
 65086	contr
+65164	
 65634	contr
+65987	
 66087	contr
 66570	contr
+67099	
 67227	contr
+67343	
+67398	
 67439	contr
 67463	contr
 67834	contr
 68213	contr
+68218	
+68450	
 68524	contr
 69651	contr
+69785	
+69860	
+69902	
 70057	contr
 70212	contr
 70246	contr
+70743	
+70856	
 71230	contr
+71281	
 71291	contr
+71729	
+71970	
 72177	contr
+72345	
+72532	
 72682	contr
 72902	contr
-73804	indeclform
+73804	
 73871	contr
 74013	contr
+74240	
+74425	
+74971	
+75074	
 75673	contr
 75727	contr
+75866	
+75883	
 75962	contr
 76126	contr
 76690	contr
+77114	
 77125	contr
+77134	
+77205	
+77360	
+77750	
+77844	
 77866	contr
 77898	contr
 77977	contr
 78139	contr
 78807	contr
+79026	
 79152	contr
+79225	
 79245	contr
 79535	contr
 79673	contr
+79795	
+80636	
 80985	contr
+81120	
 81835	contr
+81937	
 82086	contr
+82220	
 82482	contr
 82529	contr
+82784	
 82910	contr
 83054	contr
+83486	
 83558	contr
+83661	
+83823	
+84099	
 84173	contr
 84226	contr
+84240	
+84722	
+85074	
+85238	
 85845	contr
 85867	contr
 85939	contr
 86350	contr
+86363	
 86618	contr
+87031	
 87070	contr
 87110	contr
 87557	contr/nu_movable
+87610	
 87724	contr
 87894	contr
 88216	contr
+88280	
 88378	contr
+88403	
 88457	contr
+88532	
 88703	contr
 89089	contr
+89336	
 89824	contr
 89866	contr
 89880	contr
@@ -323,18 +511,33 @@ contr
 90950	contr
 90953	contr
 91010	contr
+91064	
+91069	
 91386	contr
+91444	
+91556	
 91566	contr
 91620	contr
+91751	
+91892	
 91980	contr
 92005	contr
+92064	
+92158	
+92215	
+92303	
 92326	contr
+92874	
 92876	contr
+93238	
 93256	contr
 contr
 93260	contr
+93716	
 94003	contr
 94022	contr
+94311	
+94339	
 94605	contr
 94687	contr
 94694	contr
@@ -344,23 +547,30 @@ contr
 95921	contr
 96146	contr
 96306	contr
+96356	
 96526	contr
 96807	contr
 96830	contr
 96882	contr
 97211	contr
 97306	contr
+97580	
 97591	contr
 97620	contr
 97953	contr
+98057	
 98061	contr
 98435	contr
 98658	contr
 98962	contr
 99635	contr
 99736	contr
+99796	
+99827	
+99834	
 100439	contr
 100573	contr
+100590	
 100599	contr
 100613	contr
 100646	contr
@@ -370,75 +580,136 @@ contr
 100697	contr
 100789	contr
 100905	contr
+101150	
 101178	contr
+101385	
+101928	
+102077	
 102326	contr
+102769	
 102816	contr
 103292	contr
 103367	contr
+103485	
+103507	
+103514	
+103526	
+103548	
 103627	contr
+103918	
 103920	contr
+104148	
+104354	
+104357	
 105102	contr
 105331	contr
 105615	contr
 105656	contr
+106000	
+106379	
 106469	contr
 106875	contr
 107002	contr
+107209	
 107355	contr
 107436	contr
 107474	contr
+107865	
+107891	
 107956	contr
+108059	
 108158	contr
+108507	
+108631	
 108724	contr
+108780	
 109188	contr
 109288	contr
+109604	
 109618	contr
 109730	contr
 109819	contr
 109976	contr
 110304	contr
 110930	nu_movable
+111165	
+111278	
+111373	
 111773	contr
+112079	
+112515	
+112558	
+112796	
 112815	contr
 112828	contr
 112939	contr
+113328	
 113895	contr
 113958	contr
 114122	contr
 114181	contr
 114274	contr
 114372	contr
+114504	
+114534	
+115043	
 115048	contr
 115263	contr
 115307	contr
+115545	
 115672	contr
+115679	
+115938	
 116087	contr
 116212	contr
 117733	contr
 118344	contr
 119363	contr
+119439	
 119463	contr
 119979	contr
+120311	
 121051	contr
 121056	contr
 121067	contr
+121259	
+121334	
 121347	contr
 121359	contr
 121650	contr
 121654	contr
 121661	contr
+121716	
+122208	
 122572	contr
 122689	contr
+123052	
 123066	contr
+123170	
 123278	contr
 123422	contr
 123735	contr
+123748	
 123989	contr
 124283	contr
+124543	
 124783	contr
+125432	
+125679	
+125748	
 125769	contr
+125797	
+125807	
+125873	
 126386	contr
 126582	contr
+127180	
+127282	
+127324	
+127416	
+127599	
+127727	
+127920	
 128076	contr
 128152	contr
 128535	contr
@@ -446,6 +717,7 @@ contr
 129016	contr
 129204	contr
 129281	contr
+129296	
 129540	contr
 130073	contr
 130519	contr
@@ -458,12 +730,17 @@ contr
 133479	contr
 133606	contr
 134467	contr
+134881	
 134885	contr
 135024	contr
+135062	
 135143	contr
 135165	contr
 135744	contr
 136158	contr
 136314	contr
+136466	
+137313	
 137487	contr
+137646	
 137711	contr

@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:23+00:00Z
+@dateWritten=2025-06-15T22:27:25+00:00Z
 
 10	indicative
 15	indicative
@@ -59,7 +59,8 @@ optative
 247	imperative
 283	indicative
 participle
-293	infinitive
+292	indicative
+infinitive
 295	indicative
 298	participle
 308	participle
@@ -98,6 +99,7 @@ participle
 440	participle
 450	imperative
 454	indicative
+indicative
 457	participle
 459	indicative
 461	participle
@@ -119,9 +121,11 @@ participle
 548	indicative
 554	participle
 557	participle
+559	indicative
 561	indicative
 participle
 imperative
+indicative
 570	subjunctive
 imperative
 575	participle
@@ -133,10 +137,12 @@ subjunctive
 593	indicative
 596	participle
 indicative
+subjunctive
 600	indicative
 603	participle
 607	indicative
 612	participle
+indicative
 616	indicative
 625	participle
 indicative
@@ -146,6 +152,7 @@ indicative
 646	infinitive
 650	indicative
 652	indicative
+indicative
 657	participle
 660	imperative
 663	indicative
@@ -153,7 +160,9 @@ indicative
 participle
 imperative
 678	imperative
+indicative
 682	imperative
+indicative
 686	subjunctive
 688	indicative
 691	infinitive
@@ -161,7 +170,9 @@ imperative
 699	participle
 indicative
 709	indicative
+indicative
 713	indicative
+indicative
 720	subjunctive
 722	participle
 728	participle
@@ -169,6 +180,7 @@ indicative
 737	participle
 739	indicative
 743	indicative
+infinitive
 746	participle
 indicative
 768	indicative
@@ -187,18 +199,23 @@ participle
 participle
 imperative
 825	imperative
+indicative
 829	indicative
 832	participle
 839	participle
 indicative
 848	indicative
+indicative
 852	participle
 856	indicative
 864	indicative
-866	infinitive
+indicative
+infinitive
 participle
 871	indicative
+indicative
 878	participle
+indicative
 indicative
 882	participle
 885	subjunctive
@@ -239,8 +256,11 @@ infinitive
 1058	indicative
 1063	participle
 1066	indicative
+1068	indicative
 1070	indicative
 1074	indicative
+1077	indicative
+1081	subjunctive
 1083	participle
 1086	indicative
 1089	indicative
@@ -248,6 +268,7 @@ infinitive
 1096	indicative
 1110	indicative
 1115	indicative
+1119	indicative
 1125	indicative
 1129	indicative
 1142	infinitive
@@ -276,6 +297,7 @@ indicative
 1212	indicative
 1220	indicative
 1224	indicative
+indicative
 1231	infinitive
 1236	participle
 1243	indicative
@@ -291,12 +313,14 @@ indicative
 1271	indicative
 1278	participle
 1283	indicative
+1287	indicative
 1289	participle
 1292	indicative
 1300	indicative
 1304	indicative
 1307	imperative
-1310	indicative
+1309	subjunctive
+indicative
 1316	indicative
 1322	indicative
 1326	subjunctive
@@ -304,6 +328,8 @@ indicative
 1337	indicative
 1339	indicative
 1345	indicative
+1349	indicative
+1352	infinitive
 1354	indicative
 1356	participle
 1366	indicative
@@ -322,12 +348,15 @@ subjunctive
 1406	participle
 1410	indicative
 indicative
+indicative
 1416	participle
 1419	participle
+indicative
 indicative
 1431	subjunctive
 1433	participle
 1438	participle
+1446	indicative
 1455	participle
 1459	indicative
 1463	participle
@@ -340,8 +369,10 @@ imperative
 1494	indicative
 1499	participle
 1506	participle
+1508	indicative
 1511	indicative
 1515	indicative
+1518	subjunctive
 1521	indicative
 1528	participle
 1531	indicative
@@ -359,6 +390,7 @@ indicative
 participle
 1598	participle
 1604	indicative
+1608	indicative
 1613	indicative
 1617	indicative
 participle
@@ -367,8 +399,10 @@ participle
 1626	participle
 1630	indicative
 1633	indicative
+1647	indicative
 1650	participle
 1654	indicative
+indicative
 1659	participle
 1661	indicative
 1667	participle
@@ -396,12 +430,15 @@ participle
 1775	indicative
 1782	indicative
 1794	indicative
+indicative
 1797	indicative
 1801	participle
-1803	infinitive
+subjunctive
+infinitive
 1808	indicative
 1814	indicative
 1816	infinitive
+subjunctive
 1819	participle
 1821	indicative
 1824	indicative
@@ -412,6 +449,7 @@ participle
 1864	subjunctive
 1866	indicative
 infinitive
+1870	indicative
 1874	indicative
 infinitive
 imperative
@@ -419,6 +457,7 @@ infinitive
 1880	indicative
 1884	subjunctive
 1891	participle
+indicative
 1897	subjunctive
 1904	subjunctive
 1908	subjunctive
@@ -430,6 +469,7 @@ infinitive
 1941	indicative
 1947	subjunctive
 1958	subjunctive
+indicative
 1964	indicative
 1966	indicative
 1970	indicative
@@ -442,10 +482,13 @@ infinitive
 2003	indicative
 2009	subjunctive
 2012	indicative
+indicative
 2020	subjunctive
-2028	subjunctive
+2027	indicative
+subjunctive
 2033	indicative
 2037	imperative
+indicative
 2046	imperative
 2054	participle
 imperative
@@ -453,6 +496,7 @@ imperative
 participle
 2067	indicative
 2076	subjunctive
+2087	indicative
 2089	indicative
 2091	indicative
 2095	subjunctive
@@ -471,12 +515,14 @@ participle
 2147	subjunctive
 participle
 2158	subjunctive
+indicative
 2167	indicative
 2169	imperative
 2172	imperative
 2175	indicative
 2179	subjunctive
 participle
+2190	indicative
 2192	subjunctive
 indicative
 2197	subjunctive
@@ -497,10 +543,12 @@ indicative
 2247	infinitive
 2255	indicative
 2264	indicative
+2269	indicative
 2273	indicative
 2282	subjunctive
 2285	indicative
 2289	infinitive
+indicative
 2292	imperative
 2297	subjunctive
 subjunctive
@@ -510,6 +558,7 @@ indicative
 2321	indicative
 2324	infinitive
 2330	indicative
+indicative
 2333	participle
 2336	imperative
 2343	participle
@@ -527,6 +576,7 @@ imperative
 indicative
 2380	indicative
 indicative
+2383	participle
 2386	indicative
 2392	indicative
 2394	imperative
@@ -570,6 +620,7 @@ infinitive
 2593	indicative
 2600	subjunctive
 imperative
+indicative
 2607	participle
 2611	imperative
 2624	participle
@@ -589,6 +640,7 @@ imperative
 2699	imperative
 2707	indicative
 2713	subjunctive
+2715	indicative
 2717	imperative
 imperative
 2725	subjunctive
@@ -619,7 +671,8 @@ imperative
 2850	indicative
 2852	indicative
 2855	indicative
-2860	indicative
+2859	indicative
+indicative
 2869	indicative
 2874	subjunctive
 2884	indicative
@@ -629,8 +682,10 @@ imperative
 2911	indicative
 participle
 2914	infinitive
+indicative
 2919	indicative
 2923	indicative
+indicative
 2926	indicative
 2930	indicative
 2932	indicative
@@ -638,13 +693,16 @@ participle
 2939	indicative
 2942	imperative
 2947	subjunctive
+indicative
 2950	subjunctive
 2956	subjunctive
 2961	indicative
 2969	imperative
+indicative
 2977	indicative
 2979	indicative
 2981	indicative
+indicative
 2990	indicative
 2995	indicative
 3001	participle
@@ -659,12 +717,15 @@ indicative
 3037	indicative
 3039	participle
 3048	participle
+3051	indicative
 3053	participle
 3057	indicative
 3065	subjunctive
 participle
 3068	subjunctive
+indicative
 3071	subjunctive
+indicative
 3074	subjunctive
 3080	indicative
 indicative
@@ -672,6 +733,7 @@ indicative
 3092	imperative
 3104	indicative
 3108	subjunctive
+indicative
 3115	indicative
 3124	imperative
 3127	subjunctive
@@ -681,6 +743,7 @@ indicative
 indicative
 3143	indicative
 3161	indicative
+indicative
 3164	indicative
 3168	imperative
 subjunctive
@@ -705,9 +768,11 @@ indicative
 indicative
 3253	participle
 indicative
+indicative
 3257	indicative
 3262	indicative
 3269	indicative
+3271	indicative
 3274	indicative
 3277	indicative
 3283	participle
@@ -721,17 +786,21 @@ indicative
 3322	indicative
 3328	imperative
 3342	participle
+indicative
 3348	indicative
 3350	participle
 3358	participle
 3362	participle
+indicative
 3368	indicative
 3370	participle
 3372	imperative
 3377	indicative
+3383	indicative
 3385	indicative
 3392	indicative
 3395	indicative
+3399	indicative
 3409	indicative
 3416	indicative
 3418	indicative
@@ -739,10 +808,12 @@ indicative
 3429	infinitive
 3433	participle
 3436	indicative
+3438	indicative
 3440	indicative
 3446	indicative
 3451	participle
 3455	indicative
+indicative
 3463	participle
 3474	indicative
 3486	indicative
@@ -800,7 +871,9 @@ imperative
 3688	imperative
 3692	imperative
 3696	indicative
+3698	indicative
 3701	participle
+3704	indicative
 3706	indicative
 3709	participle
 3712	participle
@@ -837,13 +910,16 @@ indicative
 3813	indicative
 3815	indicative
 3832	indicative
-3839	indicative
+indicative
+3838	indicative
+indicative
 3848	indicative
 3853	imperative
 3855	indicative
 imperative
 3859	indicative
 3867	participle
+3870	indicative
 3874	indicative
 3878	participle
 3880	participle
@@ -866,6 +942,8 @@ indicative
 participle
 3939	indicative
 infinitive
+indicative
+3943	indicative
 3945	participle
 participle
 3948	indicative
@@ -884,6 +962,7 @@ participle
 4006	imperative
 4009	infinitive
 4014	participle
+4016	indicative
 4019	indicative
 4025	imperative
 4028	indicative
@@ -904,9 +983,13 @@ participle
 4075	indicative
 4085	indicative
 4087	participle
+4089	indicative
+4091	indicative
+indicative
 4097	indicative
 4100	participle
 4104	participle
+4106	infinitive
 4109	infinitive
 4111	infinitive
 4117	imperative
@@ -920,28 +1003,35 @@ participle
 4147	participle
 4149	indicative
 4151	imperative
+4153	indicative
 4159	indicative
 4161	imperative
 4164	participle
 indicative
+indicative
 4170	imperative
 indicative
 indicative
+4178	indicative
 4182	indicative
 4188	participle
 indicative
 4191	participle
+indicative
 4195	indicative
 4200	participle
 4202	imperative
 indicative
 4206	indicative
+indicative
 4212	participle
 4214	indicative
 4216	subjunctive
 4222	participle
+indicative
 4225	indicative
 4227	indicative
+indicative
 4230	participle
 4233	imperative
 indicative
@@ -959,7 +1049,8 @@ indicative
 4284	indicative
 4286	infinitive
 indicative
-4292	infinitive
+4291	indicative
+infinitive
 imperative
 4295	imperative
 4298	subjunctive
@@ -969,7 +1060,9 @@ imperative
 4315	imperative
 imperative
 4321	imperative
+indicative
 4327	participle
+indicative
 indicative
 4333	participle
 4337	indicative
@@ -1020,12 +1113,14 @@ infinitive
 4512	indicative
 4514	indicative
 4516	participle
+indicative
 4523	indicative
 4529	indicative
 4533	indicative
 imperative
 indicative
 4537	participle
+indicative
 4543	indicative
 4546	participle
 4548	imperative
@@ -1044,7 +1139,8 @@ imperative
 4582	imperative
 4584	participle
 4587	participle
-4589	indicative
+indicative
+indicative
 4595	indicative
 4601	subjunctive
 4605	indicative
@@ -1055,6 +1151,7 @@ imperative
 4619	indicative
 4622	indicative
 4630	participle
+4633	indicative
 4639	participle
 4645	participle
 indicative
@@ -1068,12 +1165,14 @@ indicative
 indicative
 4669	indicative
 4673	indicative
+4677	indicative
 4683	participle
 4687	indicative
 4690	participle
 4692	participle
 imperative
 4697	participle
+4699	indicative
 4702	indicative
 4707	indicative
 4711	indicative
@@ -1117,6 +1216,7 @@ participle
 4840	indicative
 4852	subjunctive
 4859	subjunctive
+4861	indicative
 4866	participle
 4871	indicative
 4877	infinitive
@@ -1129,7 +1229,9 @@ participle
 4942	indicative
 4945	participle
 4947	participle
+indicative
 4952	subjunctive
+4954	indicative
 4958	subjunctive
 imperative
 4966	participle
@@ -1144,12 +1246,18 @@ imperative
 4988	indicative
 4990	imperative
 4992	subjunctive
+4998	indicative
+5004	indicative
+5020	indicative
+5025	indicative
 5027	subjunctive
 imperative
 5033	indicative
-5035	imperative
+indicative
+imperative
 5038	subjunctive
 participle
+5041	indicative
 5044	imperative
 5049	subjunctive
 5053	imperative
@@ -1158,18 +1266,24 @@ participle
 5074	subjunctive
 5077	subjunctive
 5081	participle
+subjunctive
+5085	indicative
 5089	imperative
 5096	indicative
 5099	indicative
+5107	indicative
 5111	imperative
 5113	indicative
 5120	imperative
 5131	imperative
 5136	indicative
+5139	indicative
 5146	indicative
 5154	indicative
+5157	indicative
 5165	subjunctive
 5168	subjunctive
+5170	indicative
 5172	subjunctive
 indicative
 5181	subjunctive
@@ -1178,14 +1292,17 @@ indicative
 imperative
 5195	participle
 5198	indicative
+5202	indicative
 5208	indicative
 5213	indicative
 5216	indicative
 participle
 5226	participle
+indicative
 5230	indicative
 5233	subjunctive
 5239	imperative
+indicative
 5245	indicative
 5249	subjunctive
 5255	subjunctive
@@ -1200,6 +1317,7 @@ participle
 5313	indicative
 5315	indicative
 5320	imperative
+5326	indicative
 5329	indicative
 imperative
 5336	imperative
@@ -1229,11 +1347,14 @@ infinitive
 5450	indicative
 5452	infinitive
 5478	participle
+5480	indicative
 5485	indicative
 5490	participle
+5492	indicative
 5497	indicative
 5503	indicative
 5508	indicative
+subjunctive
 5512	indicative
 5516	participle
 5520	indicative
@@ -1245,8 +1366,11 @@ infinitive
 indicative
 5543	participle
 5546	participle
+5548	indicative
 5556	participle
+5558	indicative
 5567	subjunctive
+5575	indicative
 5579	indicative
 5583	subjunctive
 5588	indicative
@@ -1260,6 +1384,7 @@ indicative
 5624	indicative
 5627	indicative
 5629	participle
+indicative
 5632	indicative
 5634	participle
 5637	indicative
@@ -1279,6 +1404,7 @@ imperative
 indicative
 5677	infinitive
 5683	indicative
+indicative
 5687	infinitive
 5691	participle
 imperative
@@ -1336,10 +1462,12 @@ infinitive
 5886	indicative
 5899	indicative
 5903	participle
+5906	imperative
 5912	indicative
 infinitive
 indicative
 5920	indicative
+5924	indicative
 5932	indicative
 5935	indicative
 5940	indicative
@@ -1348,6 +1476,7 @@ indicative
 5952	infinitive
 indicative
 5959	indicative
+5963	indicative
 5969	participle
 5972	indicative
 indicative
@@ -1384,10 +1513,12 @@ infinitive
 6126	indicative
 6129	indicative
 6135	indicative
+indicative
 6146	indicative
 6149	participle
 indicative
 6152	infinitive
+6162	indicative
 6164	indicative
 6178	indicative
 6181	indicative
@@ -1399,6 +1530,7 @@ indicative
 6208	indicative
 6216	participle
 6218	indicative
+indicative
 6224	imperative
 6227	participle
 6230	indicative
@@ -1411,6 +1543,7 @@ indicative
 6251	indicative
 6253	participle
 6256	subjunctive
+6260	indicative
 6263	indicative
 6266	indicative
 6269	indicative
@@ -1445,6 +1578,7 @@ imperative
 6380	participle
 6382	indicative
 6385	subjunctive
+indicative
 6395	indicative
 6397	indicative
 6399	participle
@@ -1463,6 +1597,7 @@ indicative
 6452	participle
 6455	indicative
 6457	indicative
+6459	indicative
 6461	participle
 6465	indicative
 6472	indicative
@@ -1473,8 +1608,10 @@ indicative
 6500	indicative
 6508	indicative
 6512	indicative
+6519	indicative
 6521	indicative
 6523	infinitive
+indicative
 6533	infinitive
 6537	subjunctive
 6545	indicative
@@ -1491,8 +1628,10 @@ indicative
 6594	subjunctive
 6601	indicative
 6611	participle
-6613	imperative
-6623	imperative
+indicative
+imperative
+6622	indicative
+imperative
 6638	indicative
 6642	indicative
 6644	infinitive
@@ -1522,6 +1661,7 @@ indicative
 6775	indicative
 6784	indicative
 6787	indicative
+indicative
 6793	imperative
 6799	indicative
 6808	indicative
@@ -1533,6 +1673,7 @@ indicative
 6839	participle
 6843	indicative
 6845	indicative
+indicative
 6850	indicative
 6852	indicative
 6854	participle
@@ -1544,16 +1685,19 @@ participle
 6864	indicative
 6873	participle
 indicative
+indicative
 6877	indicative
 6887	indicative
 6896	participle
 6899	imperative
 6906	indicative
-6908	participle
+subjunctive
+participle
 6910	infinitive
 indicative
 6915	imperative
-6924	indicative
+6923	subjunctive
+indicative
 participle
 6927	infinitive
 6930	participle
@@ -1569,6 +1713,7 @@ imperative
 6988	participle
 6993	indicative
 6998	indicative
+7005	indicative
 7007	participle
 infinitive
 7016	indicative
@@ -1582,6 +1727,7 @@ indicative
 7037	indicative
 7042	participle
 7045	indicative
+7047	imperative
 7049	indicative
 7055	indicative
 7060	indicative
@@ -1590,9 +1736,11 @@ indicative
 indicative
 7075	infinitive
 7077	indicative
+imperative
 7080	indicative
 7085	indicative
 7089	indicative
+7091	imperative
 7093	indicative
 7100	indicative
 7112	participle
@@ -1657,7 +1805,9 @@ indicative
 7328	imperative
 7330	indicative
 participle
+7334	indicative
 7340	indicative
+7343	indicative
 7346	participle
 7348	indicative
 7352	participle
@@ -1667,7 +1817,8 @@ participle
 7377	indicative
 7381	participle
 7383	participle
-7386	indicative
+7385	imperative
+indicative
 7388	indicative
 7400	indicative
 7402	participle
@@ -1683,6 +1834,7 @@ indicative
 7448	participle
 7454	indicative
 7460	indicative
+7465	indicative
 7467	indicative
 7471	indicative
 7476	indicative
@@ -1698,8 +1850,10 @@ infinitive
 7512	indicative
 7515	imperative
 7520	imperative
+7522	indicative
 7526	infinitive
 7531	imperative
+indicative
 7538	indicative
 7540	participle
 7542	indicative
@@ -1714,6 +1868,7 @@ infinitive
 7591	indicative
 7598	participle
 7600	indicative
+indicative
 7607	indicative
 7611	indicative
 7622	indicative
@@ -1725,6 +1880,7 @@ indicative
 participle
 7643	participle
 7646	indicative
+indicative
 7651	indicative
 7656	participle
 imperative
@@ -1746,7 +1902,9 @@ indicative
 7747	indicative
 7757	participle
 7761	indicative
-7769	indicative
+7763	indicative
+7768	indicative
+indicative
 7780	indicative
 7791	participle
 7793	imperative
@@ -1767,17 +1925,22 @@ indicative
 7846	indicative
 7850	indicative
 7856	participle
+indicative
 7864	participle
 7867	indicative
 participle
 7873	participle
 indicative
-7883	indicative
+7877	indicative
+7882	subjunctive
+indicative
 7885	indicative
 7891	indicative
 7895	indicative
 7903	indicative
-7911	indicative
+7905	indicative
+7910	indicative
+indicative
 7919	indicative
 7922	indicative
 7927	indicative
@@ -1788,17 +1951,21 @@ indicative
 7954	indicative
 7960	indicative
 7963	participle
+indicative
 7968	indicative
 7975	infinitive
 7978	infinitive
+indicative
 7989	indicative
 7998	indicative
 8016	imperative
 8019	indicative
+indicative
 8026	indicative
 8032	indicative
 8035	indicative
 8050	indicative
+indicative
 8062	indicative
 8070	indicative
 8075	indicative
@@ -1839,6 +2006,7 @@ indicative
 indicative
 8228	participle
 8232	indicative
+8236	indicative
 8240	participle
 8242	participle
 8245	indicative
@@ -1853,6 +2021,7 @@ indicative
 8281	indicative
 imperative
 8287	participle
+indicative
 8291	subjunctive
 8297	indicative
 8301	indicative
@@ -1867,6 +2036,7 @@ imperative
 8332	infinitive
 8336	participle
 8344	participle
+indicative
 8348	indicative
 8350	participle
 indicative
@@ -1878,14 +2048,19 @@ indicative
 indicative
 8388	indicative
 8391	infinitive
+indicative
 8396	infinitive
+8398	indicative
+8400	indicative
 8403	subjunctive
 8407	participle
 8410	indicative
+indicative
 8415	participle
 infinitive
 8419	participle
 8421	indicative
+indicative
 8432	indicative
 participle
 8437	indicative
@@ -1922,16 +2097,20 @@ participle
 8539	participle
 8542	indicative
 8545	indicative
+8548	indicative
 8550	indicative
 8552	participle
+8554	indicative
 8557	indicative
 8565	indicative
 8567	participle
 8571	indicative
 8573	participle
 indicative
+8578	indicative
 8581	participle
 8588	indicative
+indicative
 8595	indicative
 8599	indicative
 participle
@@ -1950,16 +2129,20 @@ indicative
 8665	indicative
 imperative
 8674	participle
+8676	indicative
 8679	imperative
 8682	indicative
 8685	subjunctive
+8688	indicative
 8696	subjunctive
 8699	indicative
+8703	indicative
 8708	indicative
 8719	indicative
 8723	participle
 8730	indicative
 8736	indicative
+8739	indicative
 8741	indicative
 8743	participle
 8748	participle
@@ -1967,6 +2150,7 @@ imperative
 8753	imperative
 8755	imperative
 8758	participle
+indicative
 8762	indicative
 8765	imperative
 8767	participle
@@ -1984,6 +2168,7 @@ indicative
 imperative
 8807	indicative
 8814	subjunctive
+8816	indicative
 8818	indicative
 participle
 8823	indicative
@@ -1992,7 +2177,10 @@ participle
 8836	indicative
 8838	indicative
 8842	participle
+indicative
+8846	indicative
 8849	indicative
+8851	indicative
 8853	indicative
 8856	participle
 8863	indicative
@@ -2004,6 +2192,7 @@ participle
 8893	indicative
 8897	participle
 8901	indicative
+indicative
 8909	imperative
 8916	participle
 indicative
@@ -2017,9 +2206,11 @@ indicative
 8942	participle
 imperative
 8946	indicative
+indicative
 8951	participle
 indicative
 8954	indicative
+8957	indicative
 8961	participle
 8966	participle
 indicative
@@ -2035,13 +2226,16 @@ indicative
 9003	participle
 9011	participle
 9014	indicative
+9016	subjunctive
 9022	imperative
 9025	indicative
 9027	indicative
 9036	participle
 9040	indicative
 9047	participle
+indicative
 9051	indicative
+indicative
 9054	indicative
 9058	participle
 9069	indicative
@@ -2063,6 +2257,7 @@ indicative
 9126	indicative
 9129	subjunctive
 9134	indicative
+9138	indicative
 9145	infinitive
 9149	indicative
 9155	indicative
@@ -2081,7 +2276,9 @@ indicative
 indicative
 9215	participle
 9218	indicative
+indicative
 9223	indicative
+indicative
 9229	participle
 9234	participle
 indicative
@@ -2101,7 +2298,9 @@ infinitive
 9296	participle
 9298	indicative
 9300	participle
-9306	indicative
+9303	indicative
+9305	indicative
+indicative
 9308	infinitive
 9312	indicative
 9314	imperative
@@ -2125,12 +2324,14 @@ participle
 infinitive
 9400	imperative
 9408	participle
+9412	indicative
 9418	indicative
 9422	participle
 9424	indicative
 9427	infinitive
 9434	indicative
 9440	subjunctive
+9446	indicative
 9450	indicative
 9456	indicative
 infinitive
@@ -2159,6 +2360,7 @@ participle
 9567	indicative
 9570	infinitive
 9575	indicative
+9577	indicative
 9579	infinitive
 9582	infinitive
 9591	infinitive
@@ -2171,11 +2373,13 @@ infinitive
 9616	participle
 indicative
 9620	imperative
+subjunctive
 9625	indicative
 9629	indicative
 9633	imperative
 9640	indicative
 9646	indicative
+subjunctive
 9649	infinitive
 imperative
 9653	imperative
@@ -2188,6 +2392,7 @@ indicative
 9683	indicative
 9689	subjunctive
 9694	subjunctive
+indicative
 9697	indicative
 9703	indicative
 9709	infinitive
@@ -2200,6 +2405,7 @@ indicative
 9749	participle
 9758	indicative
 9771	indicative
+9773	indicative
 9777	participle
 9779	indicative
 9783	indicative
@@ -2264,11 +2470,14 @@ infinitive
 10006	indicative
 indicative
 10010	indicative
+indicative
+10016	indicative
 10020	indicative
 10027	indicative
 10029	infinitive
 participle
 10034	indicative
+subjunctive
 10039	participle
 10044	indicative
 10047	indicative
@@ -2286,31 +2495,39 @@ infinitive
 10101	subjunctive
 10106	indicative
 10110	imperative
+indicative
+indicative
 10114	indicative
 10117	indicative
 10119	participle
 10125	indicative
 10129	indicative
 10134	infinitive
+indicative
 10139	indicative
 10145	indicative
 10147	indicative
 10149	participle
+10152	indicative
 10154	indicative
 10158	participle
 10162	indicative
 10167	indicative
 10169	indicative
 10172	participle
+indicative
 10176	indicative
 10180	participle
 10183	indicative
 10191	indicative
+10193	indicative
+10199	indicative
 10203	participle
 10208	indicative
 10214	indicative
 10220	subjunctive
 10222	participle
+indicative
 10225	imperative
 10229	participle
 10232	imperative
@@ -2328,6 +2545,7 @@ imperative
 10282	subjunctive
 10284	subjunctive
 10290	subjunctive
+indicative
 10298	indicative
 10305	indicative
 10316	subjunctive
@@ -2335,26 +2553,36 @@ participle
 10325	indicative
 10329	subjunctive
 10335	participle
+indicative
 10338	indicative
 10341	subjunctive
 10349	subjunctive
 10363	infinitive
 10366	infinitive
 10374	indicative
+10380	indicative
 10384	indicative
 10386	imperative
 10389	imperative
 10394	indicative
 infinitive
+indicative
+10400	indicative
+10402	indicative
+10405	indicative
 10408	participle
 infinitive
+indicative
 10420	indicative
 10422	imperative
 10425	imperative
 10430	indicative
+10432	indicative
 10435	infinitive
+indicative
 10439	participle
 infinitive
+indicative
 10446	imperative
 10448	subjunctive
 10453	indicative
@@ -2364,6 +2592,8 @@ infinitive
 10483	subjunctive
 participle
 10488	indicative
+10490	participle
+imperative
 10496	participle
 indicative
 10499	participle
@@ -2371,6 +2601,9 @@ indicative
 infinitive
 10506	indicative
 10509	indicative
+10513	indicative
+10516	participle
+imperative
 10520	participle
 10523	indicative
 10533	subjunctive
@@ -2382,7 +2615,9 @@ imperative
 indicative
 10562	subjunctive
 imperative
-10576	participle
+10568	indicative
+10575	indicative
+participle
 subjunctive
 10582	subjunctive
 10584	imperative
@@ -2400,12 +2635,16 @@ participle
 10643	subjunctive
 indicative
 10655	indicative
-10658	indicative
+10657	indicative
+indicative
 participle
-10665	indicative
+indicative
+10664	indicative
+indicative
 10670	participle
 10673	indicative
 10677	indicative
+indicative
 10684	indicative
 10688	indicative
 10693	indicative
@@ -2448,6 +2687,7 @@ imperative
 imperative
 participle
 indicative
+10824	indicative
 10827	subjunctive
 10829	participle
 participle
@@ -2460,7 +2700,8 @@ indicative
 10854	indicative
 10858	participle
 10862	indicative
-10865	indicative
+10864	indicative
+indicative
 10868	indicative
 10871	infinitive
 10878	indicative
@@ -2474,8 +2715,11 @@ indicative
 10918	indicative
 10924	indicative
 10929	indicative
+indicative
+10935	indicative
 10939	indicative
 10944	indicative
+10946	indicative
 10948	indicative
 10951	participle
 10954	participle
@@ -2491,6 +2735,7 @@ indicative
 10984	indicative
 10992	indicative
 10997	indicative
+11000	indicative
 11005	indicative
 11007	imperative
 11014	indicative
@@ -2545,6 +2790,7 @@ participle
 11197	participle
 indicative
 11203	indicative
+indicative
 11207	infinitive
 imperative
 11211	indicative
@@ -2555,6 +2801,7 @@ imperative
 11226	indicative
 imperative
 11234	indicative
+11236	participle
 11240	indicative
 11246	indicative
 11249	indicative
@@ -2575,9 +2822,12 @@ indicative
 11291	indicative
 11296	indicative
 11301	indicative
+indicative
 11309	indicative
 11312	indicative
 11317	infinitive
+indicative
+11320	indicative
 11325	participle
 11329	indicative
 11331	participle
@@ -2599,19 +2849,28 @@ participle
 11395	indicative
 11401	participle
 11410	indicative
+11412	indicative
+11414	indicative
+11416	indicative
+11418	indicative
+11420	indicative
+11422	indicative
 11433	indicative
 11436	indicative
 11444	indicative
 11452	indicative
 11455	infinitive
+11457	indicative
 11461	participle
 11470	indicative
+11472	indicative
 11477	participle
 11481	indicative
 indicative
 participle
 11490	indicative
 imperative
+11494	indicative
 11500	subjunctive
 11502	indicative
 11506	indicative
@@ -2627,6 +2886,7 @@ participle
 11540	indicative
 indicative
 11543	imperative
+11546	indicative
 11551	participle
 indicative
 11560	imperative
@@ -2655,19 +2915,24 @@ indicative
 11658	indicative
 infinitive
 11662	optative
+indicative
 11668	indicative
 11672	indicative
 11674	indicative
 11682	participle
 11684	infinitive
+11686	indicative
 11688	indicative
 11692	participle
 11697	indicative
 11699	imperative
 indicative
+indicative
 11708	indicative
 11714	indicative
+11716	indicative
 11719	indicative
+11723	indicative
 11725	infinitive
 11727	infinitive
 11729	infinitive
@@ -2742,10 +3007,14 @@ subjunctive
 11971	indicative
 11977	indicative
 11979	indicative
+11984	indicative
 11987	indicative
+indicative
+11990	indicative
 11997	indicative
 12000	participle
 12002	imperative
+indicative
 12011	indicative
 12013	participle
 12018	participle
@@ -2768,6 +3037,7 @@ imperative
 12080	indicative
 12087	indicative
 12093	indicative
+subjunctive
 12100	indicative
 12107	subjunctive
 12109	indicative
@@ -2778,6 +3048,7 @@ indicative
 participle
 12136	participle
 12145	participle
+12147	indicative
 12149	indicative
 indicative
 12153	participle
@@ -2785,6 +3056,7 @@ indicative
 12160	indicative
 12162	indicative
 12172	indicative
+12174	indicative
 12178	indicative
 12181	participle
 12183	participle
@@ -2810,14 +3082,19 @@ indicative
 indicative
 12278	participle
 12280	indicative
+subjunctive
+12284	indicative
 12287	indicative
+indicative
 12291	participle
+indicative
 12295	indicative
 12297	participle
 12303	indicative
 12308	indicative
 12316	indicative
 12323	subjunctive
+indicative
 12328	indicative
 12333	participle
 12336	indicative
@@ -2833,10 +3110,12 @@ imperative
 12369	subjunctive
 imperative
 12372	imperative
+indicative
 12376	indicative
 12381	subjunctive
 12385	participle
 12388	participle
+12390	indicative
 12393	indicative
 12395	participle
 12403	participle
@@ -2848,7 +3127,9 @@ imperative
 12429	subjunctive
 12433	indicative
 12438	indicative
-12444	indicative
+12443	indicative
+indicative
+12447	indicative
 12452	indicative
 12455	participle
 12457	subjunctive
@@ -2884,6 +3165,7 @@ indicative
 12558	indicative
 12563	indicative
 12571	indicative
+12573	indicative
 12578	indicative
 12588	indicative
 12596	indicative
@@ -2917,6 +3199,7 @@ indicative
 12709	subjunctive
 12714	participle
 12716	indicative
+subjunctive
 12721	indicative
 12724	subjunctive
 12730	indicative
@@ -2931,6 +3214,7 @@ optative
 12766	indicative
 12768	participle
 12770	indicative
+indicative
 12776	indicative
 12779	indicative
 12786	indicative
@@ -2946,6 +3230,8 @@ indicative
 12834	participle
 12836	infinitive
 indicative
+12840	indicative
+indicative
 12844	indicative
 12846	participle
 12850	indicative
@@ -2955,6 +3241,7 @@ indicative
 12869	indicative
 12873	infinitive
 12875	participle
+indicative
 12881	indicative
 infinitive
 12884	indicative
@@ -2965,8 +3252,10 @@ imperative
 imperative
 12895	indicative
 12902	participle
+12907	indicative
 12912	participle
 indicative
+12916	indicative
 12918	participle
 12929	participle
 12933	indicative
@@ -2982,7 +3271,9 @@ indicative
 12970	imperative
 12980	subjunctive
 imperative
+indicative
 12986	participle
+12990	indicative
 12993	indicative
 12996	indicative
 13002	indicative
@@ -2990,6 +3281,7 @@ imperative
 participle
 13010	infinitive
 13012	participle
+indicative
 indicative
 13017	participle
 13021	indicative
@@ -2999,7 +3291,9 @@ indicative
 13037	indicative
 13040	participle
 13045	imperative
-13053	indicative
+13047	indicative
+13052	indicative
+indicative
 13063	indicative
 13069	participle
 13073	indicative
@@ -3011,10 +3305,12 @@ indicative
 13101	indicative
 13104	indicative
 13110	indicative
+indicative
 13114	imperative
 13119	indicative
 indicative
 infinitive
+13124	indicative
 13126	participle
 13133	indicative
 13136	indicative
@@ -3073,6 +3369,7 @@ participle
 13376	indicative
 13399	indicative
 13408	indicative
+13410	participle
 13417	participle
 13422	indicative
 13426	participle
@@ -3087,6 +3384,7 @@ indicative
 indicative
 13464	imperative
 13470	subjunctive
+13474	subjunctive
 13481	indicative
 13487	indicative
 13490	indicative
@@ -3142,20 +3440,25 @@ indicative
 13737	subjunctive
 13743	indicative
 13750	indicative
+13753	indicative
 13757	participle
 13763	subjunctive
 13768	indicative
 13772	subjunctive
+13777	subjunctive
 13779	indicative
+13786	indicative
 13790	participle
 13795	participle
 13799	indicative
+13806	subjunctive
 13810	participle
 13814	indicative
 13820	participle
 13824	participle
 13828	indicative
 13837	participle
+subjunctive
 13847	indicative
 13857	indicative
 13872	indicative
@@ -3164,14 +3467,17 @@ infinitive
 13880	participle
 13886	participle
 13894	indicative
+13902	indicative
 13904	indicative
 13911	imperative
 13918	subjunctive
 13931	indicative
 13933	participle
 13937	indicative
+13939	indicative
 13941	indicative
 13952	indicative
+13956	indicative
 13958	indicative
 13970	indicative
 13976	indicative
@@ -3189,6 +3495,7 @@ infinitive
 14045	indicative
 14049	indicative
 14055	indicative
+14058	indicative
 14061	subjunctive
 14084	indicative
 14092	indicative
@@ -3241,6 +3548,7 @@ indicative
 14272	indicative
 14282	indicative
 14294	indicative
+14296	indicative
 14299	indicative
 14302	indicative
 participle
@@ -3252,8 +3560,10 @@ participle
 14332	infinitive
 14335	indicative
 14342	participle
+indicative
 14346	indicative
 14348	indicative
+14358	indicative
 14365	indicative
 14370	subjunctive
 14376	participle
@@ -3261,10 +3571,12 @@ participle
 14386	participle
 imperative
 14393	imperative
+indicative
 14402	imperative
 infinitive
 14415	imperative
-14417	infinitive
+subjunctive
+infinitive
 14426	participle
 14429	participle
 14434	imperative
@@ -3278,6 +3590,7 @@ indicative
 14479	indicative
 14487	subjunctive
 imperative
+14492	indicative
 14495	subjunctive
 indicative
 14502	indicative
@@ -3294,7 +3607,8 @@ imperative
 14542	indicative
 14546	indicative
 14555	subjunctive
-14559	indicative
+14558	indicative
+indicative
 14572	indicative
 14577	indicative
 14584	indicative
@@ -3326,6 +3640,7 @@ indicative
 participle
 14769	participle
 14773	indicative
+14775	indicative
 14780	indicative
 14782	indicative
 14786	indicative
@@ -3371,10 +3686,12 @@ indicative
 14958	indicative
 14960	indicative
 14969	indicative
-14971	indicative
+indicative
+indicative
 14980	indicative
 14988	participle
 14992	indicative
+indicative
 15001	indicative
 15009	participle
 15013	indicative
@@ -3386,6 +3703,7 @@ imperative
 15041	indicative
 imperative
 15045	imperative
+indicative
 15049	indicative
 imperative
 15055	indicative
@@ -3402,6 +3720,7 @@ indicative
 15100	infinitive
 indicative
 15107	indicative
+15110	indicative
 15114	indicative
 15119	indicative
 15124	participle
@@ -3424,7 +3743,9 @@ indicative
 15188	participle
 indicative
 15193	indicative
+imperative
 15200	indicative
+imperative
 15206	participle
 participle
 participle
@@ -3435,23 +3756,28 @@ indicative
 15234	participle
 15239	participle
 indicative
+imperative
 15244	participle
 15249	indicative
+imperative
 imperative
 15254	indicative
 indicative
 15267	indicative
 15272	indicative
 imperative
+indicative
 15280	participle
 15286	indicative
 15291	indicative
+imperative
 imperative
 15296	indicative
 indicative
 15309	indicative
 15314	indicative
 imperative
+indicative
 15322	participle
 15327	participle
 15329	participle
@@ -3488,7 +3814,9 @@ indicative
 15427	indicative
 indicative
 15435	imperative
-15442	indicative
+indicative
+15441	indicative
+indicative
 15452	subjunctive
 15468	indicative
 15474	indicative
@@ -3515,13 +3843,16 @@ indicative
 15568	indicative
 participle
 15571	indicative
-15573	participle
+indicative
+participle
 15575	indicative
 15579	indicative
 15582	indicative
+indicative
 15586	indicative
 15590	indicative
 participle
+indicative
 15596	indicative
 15600	participle
 15603	indicative
@@ -3531,6 +3862,7 @@ participle
 15621	indicative
 15626	imperative
 15629	participle
+indicative
 15636	participle
 15643	indicative
 15647	indicative
@@ -3545,7 +3877,12 @@ indicative
 15678	participle
 15682	indicative
 participle
-15685	participle
+indicative
+participle
+indicative
+15688	indicative
+15690	indicative
+15692	indicative
 15697	indicative
 15700	indicative
 15702	participle
@@ -3553,14 +3890,18 @@ participle
 15709	indicative
 15716	indicative
 15718	indicative
+15720	indicative
+15726	indicative
 15730	indicative
 15732	indicative
 15739	indicative
 15743	indicative
 15750	indicative
 15756	indicative
+indicative
 15759	infinitive
 15761	indicative
+15769	indicative
 15775	participle
 15778	indicative
 15783	subjunctive
@@ -3575,6 +3916,7 @@ indicative
 participle
 15828	indicative
 participle
+indicative
 15835	indicative
 15838	infinitive
 15841	infinitive
@@ -3582,6 +3924,7 @@ participle
 15847	indicative
 15851	indicative
 15857	indicative
+indicative
 15864	indicative
 15871	indicative
 participle
@@ -3591,6 +3934,7 @@ participle
 15892	subjunctive
 15900	indicative
 15903	indicative
+15905	indicative
 15909	participle
 participle
 15914	participle
@@ -3608,6 +3952,7 @@ subjunctive
 15958	infinitive
 15963	indicative
 imperative
+indicative
 15970	indicative
 15972	imperative
 15976	indicative
@@ -3658,11 +4003,13 @@ indicative
 16128	participle
 imperative
 16135	indicative
+16145	indicative
 16148	indicative
 16153	subjunctive
 16168	subjunctive
 16171	participle
 16179	participle
+indicative
 indicative
 16187	indicative
 16193	indicative
@@ -3671,6 +4018,7 @@ indicative
 16206	indicative
 16214	infinitive
 16216	indicative
+16218	indicative
 16221	participle
 16225	indicative
 16229	indicative
@@ -3686,11 +4034,13 @@ indicative
 indicative
 16272	indicative
 16274	indicative
+16279	indicative
 16281	participle
 16284	indicative
 16287	imperative
 16291	participle
-16293	subjunctive
+indicative
+subjunctive
 16295	participle
 16303	indicative
 infinitive
@@ -3716,6 +4066,7 @@ imperative
 16373	imperative
 16375	imperative
 16378	subjunctive
+indicative
 16392	participle
 indicative
 participle
@@ -3738,6 +4089,7 @@ indicative
 16446	indicative
 imperative
 16456	indicative
+indicative
 16460	imperative
 subjunctive
 imperative
@@ -3769,9 +4121,11 @@ participle
 16558	indicative
 16563	indicative
 16567	imperative
+16571	indicative
 16578	participle
 16582	indicative
-16584	indicative
+indicative
+indicative
 16587	indicative
 infinitive
 16593	indicative
@@ -3834,6 +4188,7 @@ indicative
 indicative
 16830	indicative
 16832	indicative
+indicative
 16838	indicative
 16842	indicative
 participle
@@ -3841,6 +4196,7 @@ imperative
 16848	indicative
 16850	participle
 16855	indicative
+subjunctive
 16861	indicative
 16865	participle
 16868	indicative
@@ -3849,9 +4205,11 @@ imperative
 16880	indicative
 16882	indicative
 participle
+16885	indicative
 16888	indicative
 16890	imperative
 16892	indicative
+16894	indicative
 16896	indicative
 16903	indicative
 16908	indicative
@@ -3870,7 +4228,8 @@ infinitive
 16959	infinitive
 16961	indicative
 16964	participle
-16966	indicative
+subjunctive
+indicative
 indicative
 16970	participle
 16972	indicative
@@ -3889,6 +4248,7 @@ participle
 17020	indicative
 17025	indicative
 17027	participle
+17030	indicative
 17033	indicative
 17035	participle
 indicative
@@ -3896,9 +4256,12 @@ indicative
 17043	indicative
 17045	indicative
 infinitive
+17048	indicative
+17051	indicative
 17054	indicative
 17057	participle
 indicative
+17065	indicative
 17070	indicative
 17080	indicative
 17082	participle
@@ -3907,6 +4270,7 @@ indicative
 17096	participle
 17098	indicative
 17103	indicative
+17105	indicative
 17111	indicative
 17117	indicative
 17122	indicative
@@ -3922,6 +4286,7 @@ indicative
 17163	indicative
 17167	participle
 17170	infinitive
+17173	infinitive
 17177	indicative
 17180	infinitive
 17186	indicative
@@ -3931,6 +4296,7 @@ indicative
 17197	indicative
 17202	indicative
 subjunctive
+17206	indicative
 17209	participle
 17211	indicative
 17216	indicative
@@ -3972,6 +4338,7 @@ participle
 indicative
 17362	subjunctive
 17368	participle
+17371	indicative
 17374	indicative
 17381	participle
 17385	indicative
@@ -3982,18 +4349,22 @@ indicative
 17409	participle
 imperative
 17415	participle
+indicative
 17418	indicative
 17422	indicative
+indicative
 17429	indicative
 17431	indicative
 17436	indicative
 17442	indicative
+17444	indicative
 17446	infinitive
 participle
 17449	indicative
 17455	indicative
 17457	subjunctive
 17462	participle
+indicative
 17465	participle
 17468	indicative
 17471	participle
@@ -4008,7 +4379,9 @@ participle
 17491	participle
 17494	participle
 indicative
+17497	indicative
 17499	indicative
+subjunctive
 17507	participle
 17509	indicative
 17516	indicative
@@ -4045,7 +4418,8 @@ imperative
 17638	participle
 17644	indicative
 17652	indicative
-17657	participle
+17656	indicative
+participle
 participle
 indicative
 17662	indicative
@@ -4064,6 +4438,8 @@ subjunctive
 17699	indicative
 17703	imperative
 17708	indicative
+17712	subjunctive
+indicative
 17718	indicative
 17722	indicative
 17726	indicative
@@ -4071,6 +4447,7 @@ subjunctive
 17733	indicative
 17735	participle
 17743	indicative
+indicative
 17746	participle
 17749	indicative
 17758	participle
@@ -4080,6 +4457,7 @@ indicative
 17769	participle
 17773	indicative
 17775	indicative
+17777	indicative
 17782	participle
 17784	indicative
 17790	participle
@@ -4099,8 +4477,10 @@ infinitive
 17867	participle
 17874	indicative
 indicative
+17877	indicative
 17883	imperative
 17885	participle
+17891	indicative
 17893	indicative
 17897	indicative
 17905	participle
@@ -4125,6 +4505,7 @@ imperative
 indicative
 17967	participle
 17977	participle
+indicative
 17981	indicative
 17987	imperative
 17989	infinitive
@@ -4134,6 +4515,7 @@ indicative
 18004	participle
 indicative
 18009	indicative
+subjunctive
 18012	indicative
 18031	indicative
 18033	participle
@@ -4154,6 +4536,8 @@ imperative
 18076	indicative
 18081	imperative
 indicative
+18084	indicative
+18087	indicative
 18089	indicative
 imperative
 indicative
@@ -4172,10 +4556,13 @@ indicative
 imperative
 imperative
 18139	subjunctive
+indicative
+18143	indicative
 18145	indicative
 participle
 18149	imperative
 18153	participle
+indicative
 18157	indicative
 18162	participle
 18164	participle
@@ -4194,6 +4581,8 @@ indicative
 18207	indicative
 18209	indicative
 18223	indicative
+indicative
+18227	indicative
 18231	indicative
 18236	participle
 18238	indicative
@@ -4206,6 +4595,7 @@ indicative
 18259	participle
 18261	imperative
 18265	participle
+18267	indicative
 18279	participle
 18281	infinitive
 18284	indicative
@@ -4222,6 +4612,7 @@ indicative
 18341	indicative
 18344	participle
 18348	participle
+18351	indicative
 18355	indicative
 18358	indicative
 18367	indicative
@@ -4233,6 +4624,7 @@ indicative
 18399	indicative
 participle
 indicative
+18405	subjunctive
 18409	indicative
 18411	participle
 infinitive
@@ -4241,20 +4633,24 @@ infinitive
 18429	indicative
 18434	indicative
 18441	indicative
+indicative
 18449	participle
 18453	indicative
 participle
 18462	participle
+indicative
 18467	indicative
 18472	indicative
 18480	indicative
 18486	indicative
+indicative
 18491	indicative
 18497	participle
 18502	indicative
 18509	indicative
 18514	infinitive
 18517	indicative
+18520	indicative
 18523	participle
 18529	participle
 18531	indicative
@@ -4265,6 +4661,7 @@ participle
 18560	participle
 18564	indicative
 18568	indicative
+18573	subjunctive
 18576	indicative
 18578	infinitive
 18583	participle
@@ -4275,8 +4672,11 @@ participle
 18611	indicative
 18614	participle
 18625	indicative
+subjunctive
 18629	indicative
+indicative
 18636	participle
+indicative
 18640	indicative
 18642	indicative
 18647	indicative
@@ -4301,7 +4701,9 @@ infinitive
 18733	indicative
 18735	indicative
 18738	indicative
+18744	indicative
 18755	participle
+indicative
 indicative
 18771	indicative
 participle
@@ -4326,21 +4728,30 @@ participle
 18833	indicative
 infinitive
 18838	indicative
-18844	participle
+18843	infinitive
+participle
 indicative
 18847	indicative
-18852	indicative
+indicative
+18851	indicative
+indicative
 18854	indicative
 18862	indicative
 18865	indicative
 18869	indicative
 18872	indicative
 18874	subjunctive
+imperative
+indicative
 18878	participle
-18883	subjunctive
+18882	indicative
+subjunctive
+indicative
 18887	indicative
 18889	indicative
 participle
+indicative
+18895	indicative
 18902	participle
 18904	indicative
 18908	participle
@@ -4366,16 +4777,20 @@ imperative
 18957	imperative
 18961	indicative
 18967	indicative
+18969	indicative
 18974	participle
 indicative
 infinitive
 18979	infinitive
 18985	infinitive
 indicative
+indicative
 18989	infinitive
+18991	subjunctive
 18995	indicative
 18997	indicative
 19002	participle
+19004	indicative
 19008	indicative
 19012	indicative
 19014	indicative
@@ -4395,7 +4810,8 @@ indicative
 19067	indicative
 19071	indicative
 19075	indicative
-19081	participle
+19080	indicative
+participle
 19083	participle
 19091	indicative
 indicative
@@ -4409,7 +4825,8 @@ infinitive
 19125	indicative
 19127	infinitive
 19130	indicative
-19135	infinitive
+19134	indicative
+infinitive
 imperative
 19138	imperative
 19143	imperative
@@ -4421,6 +4838,7 @@ imperative
 imperative
 imperative
 19170	imperative
+indicative
 19176	indicative
 19179	participle
 19182	indicative
@@ -4479,10 +4897,12 @@ indicative
 19404	indicative
 19407	indicative
 19409	participle
+indicative
 19416	indicative
 19424	indicative
 19428	imperative
 19430	participle
+indicative
 19435	indicative
 19440	infinitive
 19448	indicative
@@ -4498,6 +4918,7 @@ participle
 19477	indicative
 19479	indicative
 19486	indicative
+indicative
 19500	indicative
 19503	indicative
 infinitive
@@ -4507,7 +4928,9 @@ infinitive
 19524	indicative
 19534	indicative
 19543	indicative
+19545	indicative
 19548	indicative
+indicative
 19551	participle
 participle
 19556	indicative
@@ -4516,12 +4939,15 @@ participle
 19567	indicative
 19573	participle
 19575	imperative
+indicative
 19580	indicative
 19582	indicative
 19586	infinitive
-19588	infinitive
+indicative
+infinitive
 19590	infinitive
-19592	infinitive
+indicative
+infinitive
 19595	indicative
 19597	participle
 19601	participle
@@ -4533,6 +4959,7 @@ participle
 19635	subjunctive
 19643	indicative
 19653	indicative
+19666	indicative
 19676	participle
 19678	indicative
 indicative
@@ -4551,6 +4978,7 @@ participle
 19732	indicative
 19738	subjunctive
 19740	indicative
+indicative
 19745	indicative
 19747	indicative
 19750	indicative
@@ -4566,6 +4994,7 @@ participle
 19798	indicative
 19827	indicative
 19830	indicative
+indicative
 19834	indicative
 19840	infinitive
 19844	infinitive
@@ -4595,6 +5024,7 @@ infinitive
 imperative
 19928	indicative
 19931	indicative
+19933	indicative
 19938	participle
 19942	infinitive
 19948	subjunctive
@@ -4603,19 +5033,23 @@ imperative
 19960	indicative
 19972	subjunctive
 19976	subjunctive
+indicative
 19983	indicative
+19985	indicative
 19988	imperative
 19990	indicative
 19994	indicative
 19997	indicative
 19999	indicative
-20009	participle
+20008	subjunctive
+participle
 indicative
 20013	participle
 20016	indicative
 20021	indicative
 20023	imperative
-20036	indicative
+20035	subjunctive
+indicative
 20039	participle
 20041	indicative
 20043	indicative
@@ -4628,6 +5062,7 @@ imperative
 20083	indicative
 infinitive
 20089	indicative
+20096	indicative
 20098	participle
 infinitive
 20113	indicative
@@ -4652,14 +5087,18 @@ infinitive
 20181	infinitive
 20183	indicative
 20186	indicative
+indicative
 20191	indicative
 20195	indicative
 20200	indicative
-20203	indicative
+20202	imperative
+indicative
+indicative
 20210	indicative
 20212	participle
 20214	participle
 20216	indicative
+indicative
 20226	indicative
 20228	indicative
 20230	infinitive
@@ -4668,6 +5107,7 @@ imperative
 20237	indicative
 20248	indicative
 20253	indicative
+20261	subjunctive
 20266	indicative
 20268	participle
 subjunctive
@@ -4689,6 +5129,7 @@ subjunctive
 20319	indicative
 20323	indicative
 20327	participle
+indicative
 20332	indicative
 indicative
 20338	participle
@@ -4698,9 +5139,11 @@ indicative
 20355	imperative
 20357	indicative
 20359	participle
+20361	indicative
 20367	indicative
 20369	subjunctive
 indicative
+20372	indicative
 20375	participle
 20377	indicative
 20381	participle
@@ -4715,6 +5158,7 @@ indicative
 20432	indicative
 20436	indicative
 20443	subjunctive
+indicative
 20453	subjunctive
 20456	indicative
 20458	participle
@@ -4722,6 +5166,7 @@ indicative
 20464	indicative
 participle
 20468	subjunctive
+indicative
 20473	indicative
 20475	infinitive
 imperative
@@ -4750,6 +5195,7 @@ indicative
 20564	indicative
 20568	indicative
 20570	subjunctive
+20575	indicative
 20580	subjunctive
 20586	subjunctive
 20591	participle
@@ -4767,12 +5213,16 @@ infinitive
 20650	indicative
 20657	participle
 subjunctive
+indicative
+20661	indicative
 20663	participle
 20666	indicative
 20669	indicative
+20674	imperative
 20676	indicative
 20680	indicative
 20687	indicative
+indicative
 20693	infinitive
 20698	indicative
 20705	participle
@@ -4795,6 +5245,9 @@ imperative
 20759	indicative
 20767	indicative
 20770	indicative
+indicative
+20773	indicative
+20776	indicative
 20782	participle
 20788	indicative
 20800	indicative
@@ -4822,20 +5275,28 @@ indicative
 20911	indicative
 20913	indicative
 20919	subjunctive
+subjunctive
 20923	indicative
+20925	indicative
 20932	participle
 20934	indicative
 20936	participle
 imperative
+20939	indicative
+20943	indicative
 20945	subjunctive
 20947	indicative
 20950	participle
 20955	indicative
+indicative
 20960	indicative
+20966	indicative
 20972	indicative
 20978	participle
 20980	indicative
 20982	indicative
+indicative
+20987	indicative
 20991	indicative
 infinitive
 20994	indicative
@@ -4856,6 +5317,7 @@ participle
 infinitive
 21033	infinitive
 21039	participle
+21041	indicative
 21044	indicative
 21047	participle
 21051	subjunctive
@@ -4863,6 +5325,7 @@ infinitive
 21056	imperative
 indicative
 21059	imperative
+indicative
 21068	imperative
 21074	indicative
 21076	indicative
@@ -4872,7 +5335,9 @@ infinitive
 21087	indicative
 21093	indicative
 21095	participle
-21105	indicative
+21102	indicative
+21104	indicative
+indicative
 21111	indicative
 21116	indicative
 participle
@@ -4893,10 +5358,12 @@ subjunctive
 21178	participle
 21185	participle
 imperative
+21188	indicative
 21191	participle
 participle
 21197	participle
-21202	indicative
+21201	indicative
+indicative
 21206	indicative
 21210	subjunctive
 21215	indicative
@@ -4927,6 +5394,7 @@ participle
 21299	indicative
 21305	indicative
 21307	imperative
+indicative
 21311	imperative
 21319	participle
 indicative
@@ -4942,6 +5410,7 @@ indicative
 21351	indicative
 21355	infinitive
 21368	indicative
+indicative
 21375	indicative
 21378	participle
 21380	participle
@@ -4973,6 +5442,7 @@ infinitive
 21467	infinitive
 21469	indicative
 21472	indicative
+indicative
 21478	indicative
 21484	participle
 21486	indicative
@@ -4980,6 +5450,7 @@ infinitive
 21494	participle
 indicative
 participle
+indicative
 21505	participle
 21515	participle
 21518	indicative
@@ -4988,7 +5459,8 @@ participle
 21548	indicative
 21554	indicative
 21575	indicative
-21577	infinitive
+indicative
+infinitive
 21584	participle
 21587	indicative
 21589	indicative
@@ -5000,17 +5472,23 @@ participle
 21611	indicative
 21619	indicative
 21623	subjunctive
+indicative
+21635	indicative
 21639	imperative
 participle
 21644	subjunctive
 21648	indicative
 21652	subjunctive
-21656	imperative
+indicative
+21655	indicative
+imperative
 21659	subjunctive
 21666	subjunctive
 21669	subjunctive
 21671	participle
 21673	imperative
+21677	subjunctive
+21681	indicative
 21685	participle
 indicative
 21688	subjunctive
@@ -5072,7 +5550,8 @@ indicative
 21919	indicative
 participle
 indicative
-21924	subjunctive
+21923	indicative
+subjunctive
 21935	participle
 21943	participle
 21945	indicative
@@ -5095,6 +5574,7 @@ indicative
 22017	indicative
 22019	indicative
 22025	participle
+indicative
 22030	imperative
 22032	indicative
 22035	participle
@@ -5102,11 +5582,13 @@ indicative
 22042	infinitive
 indicative
 22045	indicative
+22049	indicative
 22053	participle
 22055	indicative
 22057	participle
 22059	indicative
 22067	indicative
+indicative
 22070	indicative
 22073	participle
 indicative
@@ -5121,6 +5603,7 @@ participle
 22106	indicative
 22113	imperative
 22116	participle
+indicative
 22123	subjunctive
 22126	subjunctive
 22129	participle
@@ -5143,6 +5626,7 @@ indicative
 22176	indicative
 22185	participle
 22193	participle
+indicative
 22197	indicative
 22199	indicative
 22203	indicative
@@ -5155,10 +5639,14 @@ indicative
 22233	participle
 22240	indicative
 22244	infinitive
+indicative
 22249	infinitive
+indicative
+22252	indicative
 22257	indicative
 22261	participle
 22263	indicative
+indicative
 22267	infinitive
 22270	participle
 indicative
@@ -5182,7 +5670,9 @@ indicative
 22344	indicative
 22346	imperative
 22348	indicative
+22351	indicative
 22355	indicative
+22359	infinitive
 22361	imperative
 22364	indicative
 22367	indicative
@@ -5190,6 +5680,7 @@ indicative
 22376	participle
 22378	participle
 22382	indicative
+indicative
 22386	indicative
 22388	participle
 22394	participle
@@ -5201,6 +5692,11 @@ infinitive
 22411	indicative
 22413	indicative
 22417	indicative
+indicative
+22420	indicative
+indicative
+22423	indicative
+indicative
 22429	indicative
 22431	participle
 22433	indicative
@@ -5217,6 +5713,7 @@ infinitive
 participle
 22502	subjunctive
 22504	indicative
+22506	imperative
 22508	indicative
 22510	indicative
 infinitive
@@ -5229,6 +5726,7 @@ infinitive
 22556	indicative
 22564	indicative
 22570	indicative
+22573	indicative
 22575	indicative
 22577	participle
 22581	participle
@@ -5239,13 +5737,16 @@ infinitive
 22607	indicative
 imperative
 22618	participle
+22620	indicative
 22623	imperative
 22626	indicative
 22628	subjunctive
+22632	indicative
 22637	indicative
 22643	subjunctive
 22645	indicative
 22648	infinitive
+22651	indicative
 22654	participle
 22663	indicative
 22668	indicative
@@ -5255,6 +5756,7 @@ imperative
 22680	imperative
 22682	indicative
 22686	participle
+indicative
 22690	indicative
 infinitive
 22693	imperative
@@ -5262,25 +5764,34 @@ infinitive
 indicative
 22701	participle
 22706	indicative
+indicative
 22712	indicative
 22720	indicative
 22726	indicative
 22728	indicative
 22733	participle
+indicative
 22738	indicative
 22740	infinitive
 22743	indicative
+22745	indicative
+22749	indicative
+22753	indicative
 22756	indicative
 participle
 22761	indicative
 22768	participle
 22770	indicative
+22773	indicative
 22784	indicative
-22803	indicative
+22802	indicative
+indicative
 22805	indicative
 22810	participle
 indicative
+indicative
 22817	participle
+indicative
 22821	indicative
 infinitive
 22826	infinitive
@@ -5299,25 +5810,30 @@ indicative
 22885	infinitive
 22888	indicative
 22890	indicative
+22897	subjunctive
 22900	indicative
 22907	indicative
 22913	imperative
 indicative
 22922	participle
+indicative
 22927	indicative
 22930	participle
 22937	participle
 22940	participle
 22945	indicative
+22948	indicative
 22959	indicative
 22965	indicative
 22968	subjunctive
 22973	participle
 22979	participle
 indicative
+22984	indicative
 22989	participle
 indicative
 22995	participle
+indicative
 22999	indicative
 23001	indicative
 23005	indicative
@@ -5347,9 +5863,11 @@ indicative
 23082	indicative
 23084	subjunctive
 23087	subjunctive
+23090	indicative
 23093	indicative
 23102	indicative
 23104	indicative
+23110	indicative
 23112	indicative
 23115	infinitive
 23120	indicative
@@ -5372,7 +5890,9 @@ indicative
 23176	indicative
 23181	indicative
 23185	participle
+indicative
 23193	indicative
+indicative
 23199	indicative
 23203	indicative
 23206	participle
@@ -5385,6 +5905,8 @@ indicative
 23237	participle
 23240	participle
 indicative
+indicative
+23244	indicative
 23246	indicative
 infinitive
 23255	indicative
@@ -5408,19 +5930,24 @@ indicative
 23311	indicative
 23314	indicative
 23319	indicative
+indicative
 23327	indicative
 indicative
+23334	indicative
 23341	indicative
 23343	indicative
 23346	indicative
 23349	indicative
 23351	indicative
+indicative
 23355	indicative
 23359	indicative
 23363	subjunctive
 23365	participle
 23370	indicative
+23372	subjunctive
 23376	participle
+indicative
 23381	participle
 23385	indicative
 23389	indicative
@@ -5433,9 +5960,12 @@ participle
 23411	indicative
 23415	indicative
 23419	indicative
+23421	indicative
 23424	participle
+23426	indicative
 23429	subjunctive
 23431	indicative
+23438	indicative
 23448	indicative
 23452	participle
 23456	indicative
@@ -5470,11 +6000,13 @@ infinitive
 23556	indicative
 23559	indicative
 imperative
+subjunctive
 23566	indicative
 23570	imperative
 23575	participle
 23582	indicative
 23586	indicative
+subjunctive
 23589	infinitive
 imperative
 23593	imperative
@@ -5499,10 +6031,12 @@ indicative
 23706	participle
 23713	indicative
 23724	indicative
+23726	indicative
 23730	participle
 23733	indicative
 23740	indicative
 participle
+23743	infinitive
 23750	indicative
 23754	indicative
 23760	indicative
@@ -5521,7 +6055,8 @@ indicative
 23803	indicative
 23809	indicative
 23815	imperative
-23819	participle
+23818	indicative
+participle
 23822	indicative
 imperative
 23830	participle
@@ -5570,6 +6105,7 @@ indicative
 23993	indicative
 23996	participle
 23998	indicative
+subjunctive
 24006	indicative
 24009	indicative
 24011	imperative
@@ -5583,7 +6119,9 @@ participle
 24042	indicative
 24045	indicative
 24049	indicative
+24055	indicative
 24058	indicative
+24060	indicative
 24063	subjunctive
 24068	indicative
 imperative
@@ -5602,6 +6140,7 @@ imperative
 24118	indicative
 24120	imperative
 24125	subjunctive
+indicative
 24129	participle
 24132	participle
 indicative
@@ -5612,6 +6151,7 @@ indicative
 24151	indicative
 24154	indicative
 24156	participle
+24158	indicative
 24164	participle
 indicative
 24170	indicative
@@ -5625,6 +6165,7 @@ indicative
 24199	indicative
 24205	indicative
 24212	indicative
+indicative
 24217	indicative
 24220	participle
 24222	indicative
@@ -5633,6 +6174,7 @@ indicative
 24231	indicative
 24233	infinitive
 24235	indicative
+indicative
 24242	participle
 indicative
 24249	indicative
@@ -5678,24 +6220,35 @@ imperative
 24407	indicative
 24411	indicative
 24419	indicative
+indicative
 24425	subjunctive
 24430	imperative
 24433	indicative
 24436	infinitive
+indicative
+24440	indicative
 24444	participle
 infinitive
+indicative
+24449	indicative
 24459	subjunctive
 24461	imperative
 24464	indicative
 24466	infinitive
+indicative
+24471	indicative
 24475	participle
 infinitive
+indicative
 24485	subjunctive
 24487	imperative
 24491	indicative
 24493	infinitive
+indicative
+24499	indicative
 24502	participle
 infinitive
+indicative
 24512	indicative
 24517	indicative
 24521	indicative
@@ -5705,6 +6258,8 @@ imperative
 24540	imperative
 24545	participle
 indicative
+indicative
+24553	indicative
 24557	indicative
 24564	indicative
 24566	indicative
@@ -5725,10 +6280,12 @@ indicative
 24620	indicative
 24624	indicative
 24633	indicative
+24636	indicative
 24641	indicative
 24643	imperative
 24650	indicative
 24653	imperative
+24655	indicative
 24663	indicative
 24666	indicative
 24670	subjunctive
@@ -5750,10 +6307,12 @@ indicative
 24728	indicative
 24733	subjunctive
 24742	subjunctive
+indicative
 24746	participle
 24748	indicative
 participle
 24755	participle
+24757	indicative
 24759	participle
 participle
 24762	participle
@@ -5791,14 +6350,18 @@ indicative
 24865	participle
 24868	indicative
 24877	participle
+indicative
 24883	indicative
 24887	indicative
 24896	participle
 indicative
 24902	indicative
+indicative
 24908	infinitive
 24910	indicative
 24917	infinitive
+indicative
+24920	indicative
 24925	infinitive
 24929	indicative
 participle
@@ -5815,11 +6378,18 @@ infinitive
 24971	indicative
 24974	indicative
 24976	indicative
+24978	indicative
+24980	indicative
+24982	indicative
+24984	indicative
+24986	indicative
+24988	indicative
 24998	subjunctive
 25023	participle
 25028	indicative
 25035	indicative
 25040	participle
+indicative
 25044	indicative
 participle
 25050	indicative
@@ -5831,6 +6401,7 @@ indicative
 25064	participle
 25066	infinitive
 25068	imperative
+indicative
 indicative
 25077	indicative
 25084	indicative
@@ -5860,6 +6431,7 @@ indicative
 indicative
 infinitive
 25172	indicative
+indicative
 25178	indicative
 infinitive
 25182	indicative
@@ -5870,6 +6442,7 @@ indicative
 25201	indicative
 indicative
 25205	infinitive
+25209	indicative
 25213	indicative
 25215	infinitive
 25218	indicative
@@ -5896,6 +6469,7 @@ imperative
 infinitive
 25291	infinitive
 25299	indicative
+indicative
 25303	participle
 25320	indicative
 25325	participle
@@ -5930,10 +6504,14 @@ subjunctive
 25410	indicative
 25414	indicative
 25416	indicative
+25424	indicative
+25426	indicative
 25435	indicative
 25441	indicative
 25443	imperative
+indicative
 25452	participle
+indicative
 25455	indicative
 25457	participle
 25463	indicative
@@ -5947,8 +6525,10 @@ imperative
 25489	indicative
 25491	indicative
 25493	participle
+25496	subjunctive
 25501	indicative
-25507	participle
+25506	indicative
+participle
 indicative
 25511	indicative
 participle
@@ -5959,6 +6539,7 @@ participle
 25534	indicative
 25540	indicative
 25548	indicative
+indicative
 25552	subjunctive
 25555	participle
 25561	participle
@@ -5967,10 +6548,14 @@ indicative
 25569	participle
 25575	participle
 25586	indicative
+indicative
+25589	indicative
 25593	participle
 25597	participle
 25600	indicative
-25609	participle
+indicative
+25608	indicative
+participle
 25613	indicative
 25615	participle
 25619	participle
@@ -5981,10 +6566,13 @@ indicative
 25641	indicative
 25644	participle
 indicative
+25648	indicative
 25655	optative
 25657	indicative
 25662	indicative
+indicative
 25666	participle
+indicative
 25670	indicative
 infinitive
 25673	participle
@@ -6005,6 +6593,7 @@ indicative
 25745	indicative
 25753	indicative
 indicative
+subjunctive
 25759	participle
 25761	indicative
 25764	participle
@@ -6020,6 +6609,7 @@ indicative
 25795	subjunctive
 25799	imperative
 25801	imperative
+indicative
 25807	subjunctive
 25812	imperative
 subjunctive
@@ -6038,10 +6628,12 @@ imperative
 25842	indicative
 25854	subjunctive
 25860	indicative
+25862	indicative
 25868	participle
 25870	indicative
 25882	indicative
 25888	indicative
+indicative
 25892	indicative
 25898	subjunctive
 25902	indicative
@@ -6050,6 +6642,7 @@ imperative
 25912	indicative
 25918	indicative
 25925	indicative
+indicative
 25929	subjunctive
 25932	indicative
 25935	participle
@@ -6097,6 +6690,7 @@ subjunctive
 26095	participle
 indicative
 26099	indicative
+26101	subjunctive
 26105	indicative
 26110	indicative
 26112	indicative
@@ -6106,6 +6700,7 @@ indicative
 26127	indicative
 26129	participle
 26131	indicative
+indicative
 26137	indicative
 26140	indicative
 26146	indicative
@@ -6123,10 +6718,13 @@ indicative
 26187	indicative
 26190	indicative
 26196	indicative
+indicative
 26207	indicative
 indicative
 infinitive
+26212	indicative
 26214	subjunctive
+indicative
 26217	subjunctive
 26220	participle
 26224	indicative
@@ -6191,6 +6789,7 @@ imperative
 indicative
 26476	indicative
 26506	indicative
+26508	participle
 26514	imperative
 26517	indicative
 26519	indicative
@@ -6201,6 +6800,7 @@ indicative
 26535	infinitive
 26539	infinitive
 26557	infinitive
+26559	participle
 26563	indicative
 26572	participle
 26576	indicative
@@ -6217,7 +6817,9 @@ participle
 26620	indicative
 26625	imperative
 26631	subjunctive
+26635	subjunctive
 26641	indicative
+26645	indicative
 26647	indicative
 26653	indicative
 26661	indicative
@@ -6229,6 +6831,7 @@ imperative
 26701	participle
 26705	indicative
 26709	indicative
+26711	indicative
 26717	indicative
 26720	participle
 26724	indicative
@@ -6238,6 +6841,7 @@ imperative
 26738	indicative
 26748	indicative
 26750	participle
+indicative
 26758	participle
 26760	indicative
 26769	indicative
@@ -6251,6 +6855,7 @@ indicative
 26806	subjunctive
 26813	subjunctive
 26815	participle
+26817	indicative
 26825	indicative
 26828	participle
 26836	imperative
@@ -6274,8 +6879,12 @@ infinitive
 26902	indicative
 26907	imperative
 26911	indicative
+26913	indicative
+26916	indicative
 26918	indicative
 26924	indicative
+26927	indicative
+26931	indicative
 26936	indicative
 infinitive
 26942	subjunctive
@@ -6288,11 +6897,13 @@ infinitive
 26965	participle
 imperative
 26972	indicative
+26975	indicative
 26981	indicative
 26986	indicative
 26989	indicative
 participle
 26999	participle
+indicative
 27003	indicative
 27006	subjunctive
 27011	participle
@@ -6300,11 +6911,15 @@ participle
 27016	participle
 imperative
 27023	imperative
+indicative
 27032	imperative
 27034	imperative
 27036	infinitive
+27043	indicative
 27047	imperative
-27051	infinitive
+indicative
+27050	subjunctive
+infinitive
 27060	participle
 27063	participle
 27068	imperative
@@ -6322,6 +6937,7 @@ indicative
 27124	subjunctive
 imperative
 27129	imperative
+indicative
 27132	imperative
 indicative
 27139	indicative
@@ -6352,6 +6968,7 @@ imperative
 27278	subjunctive
 27284	indicative
 27290	indicative
+27296	indicative
 27300	indicative
 27313	imperative
 imperative
@@ -6364,6 +6981,10 @@ imperative
 imperative
 27349	indicative
 27356	indicative
+indicative
+27359	indicative
+27361	indicative
+27363	indicative
 27366	participle
 27368	subjunctive
 27370	participle
@@ -6384,9 +7005,11 @@ indicative
 27437	indicative
 27441	indicative
 27444	participle
+27447	indicative
 27454	indicative
 indicative
 27460	infinitive
+subjunctive
 27465	infinitive
 27469	indicative
 27474	indicative
@@ -6402,10 +7025,13 @@ indicative
 indicative
 indicative
 infinitive
+27513	indicative
 27518	indicative
 27522	subjunctive
+27525	indicative
 27531	indicative
 27533	indicative
+indicative
 27541	participle
 27544	indicative
 27550	optative
@@ -6424,6 +7050,7 @@ subjunctive
 27591	indicative
 27597	indicative
 27599	imperative
+indicative
 27604	indicative
 27609	participle
 imperative
@@ -6434,9 +7061,11 @@ imperative
 27635	subjunctive
 27639	indicative
 27642	participle
-27646	imperative
+27645	indicative
+imperative
 27649	indicative
 27653	indicative
+indicative
 27658	indicative
 27660	indicative
 27663	indicative
@@ -6457,6 +7086,7 @@ infinitive
 27706	indicative
 27708	participle
 27712	participle
+27715	indicative
 27724	indicative
 27726	indicative
 27740	indicative
@@ -6481,6 +7111,7 @@ indicative
 participle
 27819	participle
 indicative
+indicative
 27827	indicative
 27833	indicative
 27835	indicative
@@ -6489,10 +7120,12 @@ indicative
 imperative
 27846	infinitive
 27848	indicative
+27850	indicative
 27856	indicative
 27861	indicative
 27866	indicative
 27871	indicative
+27880	indicative
 27883	infinitive
 27886	indicative
 27890	indicative
@@ -6501,6 +7134,7 @@ imperative
 27899	indicative
 27904	indicative
 27906	indicative
+indicative
 27914	indicative
 27918	imperative
 27921	subjunctive
@@ -6531,6 +7165,7 @@ imperative
 imperative
 28012	imperative
 28015	subjunctive
+indicative
 28028	participle
 indicative
 28033	participle
@@ -6549,6 +7184,7 @@ indicative
 indicative
 28068	imperative
 indicative
+28074	indicative
 28079	imperative
 subjunctive
 imperative
@@ -6593,9 +7229,11 @@ participle
 28235	indicative
 28250	indicative
 28253	subjunctive
+indicative
 28260	indicative
 28266	participle
 28277	indicative
+28282	indicative
 28284	infinitive
 28288	indicative
 28291	indicative
@@ -6610,6 +7248,7 @@ indicative
 28326	indicative
 28331	indicative
 28336	participle
+28339	indicative
 28341	indicative
 28344	participle
 28346	indicative
@@ -6639,6 +7278,7 @@ indicative
 28442	imperative
 28448	indicative
 28450	participle
+28453	subjunctive
 28457	indicative
 28464	participle
 28467	participle
@@ -6651,6 +7291,8 @@ participle
 28486	indicative
 28489	indicative
 28491	indicative
+subjunctive
+indicative
 28499	participle
 28501	indicative
 28503	infinitive
@@ -6790,6 +7432,7 @@ infinitive
 optative
 29018	indicative
 participle
+29026	indicative
 29028	indicative
 29033	participle
 participle
@@ -6808,7 +7451,9 @@ subjunctive
 29061	participle
 29064	indicative
 29070	indicative
-29077	participle
+indicative
+29076	subjunctive
+participle
 29082	participle
 29088	indicative
 indicative
@@ -6820,8 +7465,10 @@ indicative
 29130	indicative
 29133	subjunctive
 29136	participle
+29138	indicative
 29143	participle
-29145	indicative
+indicative
+indicative
 29148	indicative
 29150	participle
 29160	indicative
@@ -6833,7 +7480,8 @@ indicative
 29183	indicative
 29185	participle
 29188	indicative
-29192	indicative
+29191	imperative
+indicative
 29194	participle
 29198	indicative
 29204	participle
@@ -6849,6 +7497,7 @@ participle
 29255	indicative
 29258	participle
 subjunctive
+29262	infinitive
 29268	indicative
 29272	participle
 29276	indicative
@@ -6858,6 +7507,7 @@ indicative
 29293	indicative
 29296	indicative
 29301	participle
+indicative
 29305	indicative
 29307	participle
 29311	participle
@@ -6874,6 +7524,8 @@ indicative
 imperative
 imperative
 29348	indicative
+29350	indicative
+29353	indicative
 29355	indicative
 29357	indicative
 29360	participle
@@ -6897,6 +7549,7 @@ participle
 29417	participle
 indicative
 29422	participle
+indicative
 29426	participle
 indicative
 29432	indicative
@@ -6908,6 +7561,7 @@ indicative
 29453	indicative
 29455	indicative
 29457	participle
+indicative
 29462	imperative
 29469	participle
 29471	participle
@@ -6924,6 +7578,7 @@ indicative
 29505	indicative
 29508	indicative
 29516	infinitive
+29519	indicative
 29523	indicative
 29530	participle
 indicative
@@ -6940,6 +7595,8 @@ infinitive
 29597	participle
 29600	indicative
 29602	participle
+29605	indicative
+indicative
 29608	infinitive
 29612	subjunctive
 29615	indicative
@@ -6957,8 +7614,10 @@ indicative
 29701	indicative
 29703	infinitive
 participle
+indicative
 29714	indicative
 29717	participle
+subjunctive
 29723	indicative
 29728	participle
 29736	indicative
@@ -6972,10 +7631,12 @@ participle
 29773	indicative
 29784	indicative
 indicative
+29788	indicative
 29796	subjunctive
 29800	indicative
 29811	indicative
 29819	indicative
+indicative
 29827	infinitive
 29837	infinitive
 29840	participle
@@ -6987,6 +7648,7 @@ indicative
 29868	indicative
 29871	indicative
 29874	participle
+indicative
 29879	indicative
 infinitive
 29884	infinitive
@@ -6998,6 +7660,7 @@ infinitive
 29898	subjunctive
 29903	indicative
 29908	indicative
+indicative
 29914	indicative
 29917	participle
 29921	indicative
@@ -7013,6 +7676,7 @@ participle
 29952	indicative
 29954	indicative
 29960	indicative
+indicative
 29970	indicative
 29976	indicative
 29980	participle
@@ -7020,6 +7684,7 @@ participle
 29989	indicative
 infinitive
 30001	indicative
+30008	indicative
 30017	participle
 30032	participle
 30035	indicative
@@ -7038,9 +7703,11 @@ participle
 30089	indicative
 30091	indicative
 30103	indicative
+30108	indicative
 30116	indicative
 30118	indicative
 30125	indicative
+30127	indicative
 30130	indicative
 30132	participle
 30135	indicative
@@ -7059,7 +7726,10 @@ participle
 30199	indicative
 30204	participle
 30211	indicative
+indicative
+30217	indicative
 30221	indicative
+indicative
 30227	indicative
 30231	indicative
 30233	indicative
@@ -7067,9 +7737,11 @@ participle
 30248	indicative
 30254	indicative
 30258	indicative
+30271	indicative
 30275	subjunctive
 30283	imperative
 30286	indicative
+30292	indicative
 30296	indicative
 30308	participle
 30310	indicative
@@ -7082,6 +7754,7 @@ participle
 30350	indicative
 30352	imperative
 30356	indicative
+30370	indicative
 30375	participle
 30377	indicative
 30382	indicative
@@ -7094,9 +7767,11 @@ indicative
 30401	indicative
 30405	infinitive
 30408	indicative
+30419	indicative
 30422	indicative
 30429	indicative
 30431	indicative
+indicative
 30439	indicative
 30443	infinitive
 30446	indicative
@@ -7147,15 +7822,18 @@ participle
 30671	infinitive
 30677	participle
 infinitive
+30684	indicative
 30686	participle
 30696	indicative
 indicative
+30699	indicative
 30701	infinitive
 30705	infinitive
 30722	indicative
 30727	infinitive
 30734	participle
 30736	infinitive
+30740	indicative
 30746	indicative
 30748	indicative
 30751	indicative
@@ -7167,7 +7845,10 @@ participle
 participle
 30786	indicative
 30788	infinitive
+30790	indicative
 30794	indicative
+30804	indicative
+30807	indicative
 30811	indicative
 30815	infinitive
 30822	infinitive
@@ -7175,7 +7856,8 @@ participle
 30828	participle
 30830	indicative
 30834	infinitive
-30837	indicative
+30836	indicative
+indicative
 30841	infinitive
 30844	indicative
 30851	indicative
@@ -7202,8 +7884,10 @@ imperative
 30952	participle
 30965	indicative
 30967	indicative
+30970	indicative
 30977	indicative
 30980	subjunctive
+imperative
 30985	subjunctive
 30990	participle
 30994	indicative
@@ -7231,12 +7915,14 @@ indicative
 31087	participle
 31100	indicative
 31110	indicative
+31112	indicative
 31114	infinitive
 31118	indicative
 31125	participle
 31130	indicative
 31133	infinitive
 31137	participle
+31144	indicative
 31149	imperative
 31151	indicative
 31164	participle
@@ -7244,17 +7930,21 @@ indicative
 31175	indicative
 31177	participle
 31184	infinitive
+31187	indicative
 31189	subjunctive
 31194	indicative
+31198	indicative
 31204	infinitive
 31211	infinitive
 31215	participle
 31222	indicative
+31224	indicative
 31228	indicative
 31232	indicative
 31234	indicative
 31246	indicative
 31254	indicative
+31261	indicative
 31270	indicative
 31277	participle
 31280	participle
@@ -7262,6 +7952,8 @@ indicative
 31288	indicative
 31294	imperative
 31296	indicative
+indicative
+31306	indicative
 31308	participle
 31315	indicative
 31319	subjunctive
@@ -7276,11 +7968,14 @@ indicative
 31380	participle
 31385	indicative
 31392	indicative
+indicative
+31396	indicative
 31403	indicative
 31405	indicative
 participle
 31411	indicative
 31415	indicative
+31421	indicative
 31429	indicative
 31432	participle
 31440	participle
@@ -7292,6 +7987,7 @@ participle
 31466	indicative
 31470	indicative
 31480	participle
+indicative
 indicative
 31484	participle
 31487	indicative
@@ -7318,6 +8014,7 @@ infinitive
 31570	indicative
 31573	indicative
 31577	indicative
+indicative
 31581	indicative
 participle
 31588	indicative
@@ -7325,8 +8022,10 @@ participle
 31618	participle
 31649	indicative
 31661	indicative
-31663	participle
+indicative
+participle
 31668	participle
+31671	indicative
 31675	indicative
 31683	participle
 31687	imperative
@@ -7335,6 +8034,8 @@ participle
 31698	indicative
 31704	indicative
 31706	indicative
+31709	indicative
+31714	indicative
 31718	indicative
 indicative
 31725	indicative
@@ -7353,6 +8054,7 @@ infinitive
 31784	indicative
 31789	participle
 31792	indicative
+31794	indicative
 31796	indicative
 31798	indicative
 31802	participle
@@ -7391,6 +8093,7 @@ participle
 31909	infinitive
 31917	indicative
 31935	infinitive
+31938	indicative
 31945	indicative
 31953	participle
 indicative
@@ -7435,6 +8138,7 @@ indicative
 32299	subjunctive
 indicative
 32305	subjunctive
+indicative
 32308	indicative
 32310	indicative
 32312	participle
@@ -7443,11 +8147,13 @@ indicative
 indicative
 32326	indicative
 indicative
+32330	indicative
 32333	indicative
 32340	indicative
 32344	indicative
 32347	imperative
-32351	indicative
+32350	subjunctive
+indicative
 32357	indicative
 32361	infinitive
 32367	indicative
@@ -7459,14 +8165,17 @@ indicative
 32392	participle
 32397	indicative
 32403	indicative
+32411	indicative
 32416	indicative
 32425	indicative
 32430	participle
 32434	indicative
+indicative
 32438	indicative
 participle
 32441	indicative
 32444	participle
+32451	indicative
 32455	indicative
 infinitive
 32458	indicative
@@ -7499,6 +8208,7 @@ participle
 32568	imperative
 32571	indicative
 participle
+indicative
 32576	imperative
 32583	indicative
 32586	indicative
@@ -7509,18 +8219,21 @@ participle
 32623	indicative
 32627	participle
 32634	indicative
+32638	indicative
 32648	indicative
 32659	indicative
 32666	indicative
 32672	participle
 32675	participle
 indicative
+32678	subjunctive
 32682	indicative
 32692	indicative
 32695	infinitive
 32699	participle
 32703	indicative
 32705	indicative
+indicative
 32712	indicative
 participle
 32719	indicative
@@ -7537,6 +8250,7 @@ infinitive
 imperative
 32771	imperative
 32775	participle
+32779	indicative
 32782	indicative
 32786	participle
 32789	indicative
@@ -7545,12 +8259,15 @@ imperative
 32807	indicative
 32812	indicative
 32814	indicative
+32818	indicative
 32823	participle
 32828	indicative
+indicative
 32837	indicative
 participle
 32842	indicative
 32847	participle
+subjunctive
 32850	indicative
 32854	indicative
 32858	participle
@@ -7573,6 +8290,7 @@ indicative
 participle
 32916	participle
 indicative
+indicative
 32924	indicative
 32927	indicative
 32931	indicative
@@ -7583,6 +8301,7 @@ indicative
 32958	indicative
 32960	indicative
 participle
+indicative
 32967	indicative
 32973	infinitive
 32976	infinitive
@@ -7593,7 +8312,8 @@ participle
 33002	participle
 indicative
 33006	participle
-33009	participle
+33008	indicative
+participle
 33013	indicative
 33015	indicative
 33020	infinitive
@@ -7603,7 +8323,9 @@ indicative
 participle
 indicative
 33038	imperative
+indicative
 33043	imperative
+33047	indicative
 33050	participle
 33052	indicative
 33057	participle
@@ -7657,6 +8379,7 @@ participle
 imperative
 33234	indicative
 33240	indicative
+33242	indicative
 33245	indicative
 33253	indicative
 33256	infinitive
@@ -7672,6 +8395,7 @@ participle
 33289	indicative
 participle
 33303	indicative
+indicative
 33306	infinitive
 33309	imperative
 33311	participle
@@ -7680,10 +8404,12 @@ participle
 33319	indicative
 33321	infinitive
 33323	infinitive
+indicative
 33328	participle
 33330	subjunctive
 33335	participle
 33342	indicative
+33347	indicative
 33354	participle
 33358	indicative
 33360	indicative
@@ -7701,7 +8427,8 @@ indicative
 33407	indicative
 33409	infinitive
 indicative
-33416	infinitive
+33415	indicative
+infinitive
 imperative
 33419	imperative
 33422	subjunctive
@@ -7713,9 +8440,12 @@ imperative
 imperative
 33442	participle
 33446	imperative
+indicative
 33453	participle
+indicative
 33456	participle
 33459	indicative
+indicative
 indicative
 33465	participle
 33470	indicative
@@ -7752,6 +8482,7 @@ participle
 33571	indicative
 infinitive
 33574	imperative
+33576	indicative
 33580	indicative
 33586	indicative
 33590	indicative
@@ -7775,11 +8506,13 @@ indicative
 33667	indicative
 33676	indicative
 33678	participle
+indicative
 33685	indicative
 33694	indicative
 33698	indicative
 imperative
 33701	participle
+indicative
 33708	participle
 participle
 indicative
@@ -7801,6 +8534,7 @@ indicative
 33764	indicative
 33770	participle
 33772	indicative
+indicative
 33783	participle
 indicative
 33786	indicative
@@ -7810,8 +8544,10 @@ infinitive
 33803	indicative
 33810	indicative
 33815	infinitive
+33817	indicative
 33821	infinitive
 33823	indicative
+33825	indicative
 33832	indicative
 33834	indicative
 33846	indicative
@@ -7822,15 +8558,18 @@ infinitive
 33863	participle
 33866	imperative
 33868	imperative
+indicative
 33873	participle
 indicative
 indicative
 33881	indicative
 33884	indicative
 33887	infinitive
-33889	infinitive
+indicative
+infinitive
 33891	infinitive
-33893	infinitive
+indicative
+infinitive
 33895	participle
 33898	indicative
 33900	imperative
@@ -7840,6 +8579,7 @@ indicative
 33922	optative
 33925	indicative
 33931	infinitive
+33933	indicative
 33936	infinitive
 33938	indicative
 participle
@@ -7862,6 +8602,7 @@ infinitive
 34059	indicative
 34061	indicative
 34065	participle
+34069	indicative
 34073	indicative
 34079	indicative
 34086	participle
@@ -7944,11 +8685,13 @@ imperative
 34373	participle
 participle
 34376	indicative
+indicative
 34384	indicative
 indicative
 34387	indicative
 34393	indicative
 34396	infinitive
+34399	indicative
 34401	indicative
 34403	indicative
 34408	participle
@@ -7998,7 +8741,9 @@ infinitive
 34633	indicative
 34635	indicative
 34643	indicative
+34648	indicative
 34653	indicative
+indicative
 34660	indicative
 participle
 indicative
@@ -8047,11 +8792,14 @@ participle
 indicative
 34816	indicative
 34818	participle
+indicative
 34823	participle
 indicative
 34827	participle
 34829	indicative
-34833	indicative
+34832	indicative
+indicative
+indicative
 34836	participle
 34839	indicative
 34855	imperative
@@ -8086,6 +8834,7 @@ infinitive
 34976	participle
 34978	indicative
 34980	participle
+indicative
 34983	indicative
 participle
 34990	indicative
@@ -8093,6 +8842,7 @@ participle
 34998	participle
 35000	indicative
 35002	participle
+indicative
 35005	indicative
 35010	indicative
 35022	indicative
@@ -8115,6 +8865,7 @@ imperative
 35062	indicative
 infinitive
 35070	indicative
+indicative
 35074	infinitive
 35078	participle
 imperative
@@ -8141,6 +8892,7 @@ indicative
 35159	indicative
 35162	participle
 35176	indicative
+indicative
 35180	participle
 35185	indicative
 35193	indicative
@@ -8166,6 +8918,7 @@ imperative
 35259	indicative
 35266	subjunctive
 35270	participle
+indicative
 35276	indicative
 35278	imperative
 35281	indicative
@@ -8173,6 +8926,7 @@ imperative
 35289	indicative
 35295	participle
 35299	participle
+subjunctive
 35305	participle
 35308	indicative
 infinitive
@@ -8211,6 +8965,7 @@ indicative
 35422	indicative
 indicative
 35427	indicative
+35429	indicative
 35437	indicative
 35442	indicative
 35450	indicative
@@ -8236,7 +8991,9 @@ indicative
 35524	indicative
 35527	indicative
 35529	imperative
+indicative
 35533	indicative
+35536	indicative
 35539	indicative
 35544	participle
 35546	participle
@@ -8264,6 +9021,7 @@ indicative
 35658	participle
 35661	indicative
 35665	indicative
+indicative
 35672	participle
 indicative
 35677	participle
@@ -8293,6 +9051,7 @@ subjunctive
 35773	indicative
 35777	indicative
 35782	indicative
+35785	indicative
 35788	participle
 35790	indicative
 35792	participle
@@ -8305,6 +9064,8 @@ indicative
 35826	indicative
 35832	participle
 indicative
+35836	indicative
+subjunctive
 35839	indicative
 35843	indicative
 35846	participle
@@ -8314,6 +9075,7 @@ participle
 35857	indicative
 35859	participle
 35863	subjunctive
+35865	indicative
 35867	subjunctive
 imperative
 35871	indicative
@@ -8329,7 +9091,8 @@ infinitive
 35908	indicative
 35911	indicative
 35918	indicative
-35920	infinitive
+subjunctive
+infinitive
 participle
 35925	participle
 indicative
@@ -8338,12 +9101,16 @@ indicative
 35943	participle
 indicative
 35952	indicative
+indicative
 35960	indicative
 35963	subjunctive
+indicative
+35966	indicative
 35970	indicative
 participle
 35974	indicative
 35976	indicative
+35979	indicative
 35983	indicative
 35985	indicative
 participle
@@ -8362,7 +9129,9 @@ participle
 36031	indicative
 36036	indicative
 36039	indicative
+indicative
 36046	indicative
+imperative
 36050	participle
 36056	indicative
 36062	participle
@@ -8381,28 +9150,37 @@ indicative
 36125	participle
 36127	participle
 36130	indicative
+36134	indicative
 36137	indicative
 36145	indicative
 36148	indicative
 36151	indicative
+36154	indicative
 36157	indicative
 36161	subjunctive
+36163	indicative
 36166	infinitive
 indicative
+36169	indicative
 36173	participle
 36178	indicative
 36181	subjunctive
+36183	indicative
 36185	infinitive
 36187	indicative
 36189	participle
 36196	indicative
+indicative
 36201	indicative
+36207	indicative
 36211	indicative
 participle
 36215	participle
 36217	participle
 indicative
 36220	indicative
+indicative
+36225	indicative
 36228	indicative
 36230	infinitive
 36232	participle
@@ -8421,6 +9199,7 @@ indicative
 36277	infinitive
 36283	indicative
 36286	participle
+indicative
 36289	indicative
 indicative
 36297	indicative
@@ -8428,6 +9207,7 @@ indicative
 36303	indicative
 36306	participle
 imperative
+indicative
 36313	imperative
 36316	indicative
 36320	indicative
@@ -8443,6 +9223,7 @@ indicative
 36360	participle
 36365	indicative
 36367	infinitive
+indicative
 36375	indicative
 36382	indicative
 36386	infinitive
@@ -8451,7 +9232,8 @@ indicative
 36403	indicative
 36406	infinitive
 participle
-36409	indicative
+indicative
+indicative
 36417	indicative
 36424	indicative
 36429	participle
@@ -8470,10 +9252,12 @@ indicative
 36468	participle
 36473	indicative
 36475	indicative
+indicative
 36482	indicative
 36486	indicative
 36492	indicative
 36494	imperative
+indicative
 36499	participle
 indicative
 36505	participle
@@ -8485,6 +9269,7 @@ indicative
 36524	imperative
 36526	indicative
 participle
+36529	indicative
 36533	indicative
 infinitive
 36553	indicative
@@ -8519,13 +9304,17 @@ participle
 36636	infinitive
 36638	indicative
 36642	imperative
+indicative
 36658	infinitive
+36660	indicative
 36664	subjunctive
-36666	imperative
+indicative
+imperative
 36669	imperative
 36674	subjunctive
 36676	participle
 36687	imperative
+indicative
 36692	participle
 36694	indicative
 36698	participle
@@ -8550,6 +9339,7 @@ infinitive
 36763	participle
 36765	indicative
 36767	participle
+indicative
 36770	participle
 36775	participle
 indicative
@@ -8564,6 +9354,7 @@ participle
 36803	indicative
 36805	imperative
 36809	participle
+indicative
 36816	subjunctive
 36818	subjunctive
 36825	indicative
@@ -8572,8 +9363,10 @@ indicative
 36832	infinitive
 36836	indicative
 36838	indicative
+36841	indicative
 36849	participle
 36851	subjunctive
+indicative
 36858	indicative
 36863	indicative
 36869	imperative
@@ -8581,6 +9374,7 @@ indicative
 36879	indicative
 36881	participle
 36890	participle
+indicative
 36894	indicative
 36897	indicative
 36899	indicative
@@ -8618,6 +9412,7 @@ indicative
 37008	infinitive
 indicative
 37015	indicative
+subjunctive
 37018	infinitive
 imperative
 37022	imperative
@@ -8630,7 +9425,8 @@ indicative
 37055	indicative
 37057	participle
 37063	participle
-37065	participle
+indicative
+participle
 37069	subjunctive
 37080	indicative
 37082	subjunctive
@@ -8642,6 +9438,7 @@ indicative
 37115	indicative
 37125	participle
 37131	indicative
+indicative
 37135	infinitive
 37137	indicative
 37140	infinitive
@@ -8671,6 +9468,7 @@ indicative
 37244	indicative
 37246	indicative
 37250	infinitive
+37252	indicative
 37257	indicative
 37261	participle
 37263	indicative
@@ -8681,6 +9479,7 @@ indicative
 37282	indicative
 37285	indicative
 37293	indicative
+37296	indicative
 37298	participle
 37303	indicative
 37308	imperative
@@ -8700,6 +9499,7 @@ participle
 37357	indicative
 participle
 37362	indicative
+subjunctive
 37367	participle
 37370	indicative
 37374	indicative
@@ -8715,8 +9515,10 @@ indicative
 37423	indicative
 indicative
 37429	imperative
+37431	indicative
 37443	indicative
 infinitive
+indicative
 37450	indicative
 37455	indicative
 participle
@@ -8750,13 +9552,16 @@ indicative
 37573	infinitive
 37583	indicative
 37585	infinitive
+indicative
 37589	indicative
 37595	participle
+indicative
 indicative
 37601	infinitive
 37605	indicative
 37611	indicative
 participle
+indicative
 37615	participle
 37622	indicative
 37624	indicative
@@ -8766,6 +9571,7 @@ subjunctive
 37634	participle
 37636	indicative
 37639	indicative
+indicative
 37644	participle
 37649	indicative
 37653	indicative
@@ -8789,53 +9595,68 @@ imperative
 37723	indicative
 37728	imperative
 37730	infinitive
+37732	indicative
 37736	indicative
 37743	participle
 37749	participle
+indicative
+37752	subjunctive
 37754	indicative
 37762	indicative
 37768	indicative
-37776	participle
+37775	indicative
+participle
 37781	indicative
 37783	infinitive
 indicative
 37796	subjunctive
 37804	subjunctive
+indicative
 37809	imperative
 imperative
 indicative
 37819	imperative
 37830	subjunctive
+indicative
 37835	subjunctive
 37838	imperative
-37846	subjunctive
+37845	indicative
+subjunctive
 37860	indicative
 37866	imperative
 participle
 37869	participle
 37881	imperative
+37884	indicative
+37887	indicative
 37891	subjunctive
 37893	subjunctive
 37895	imperative
 37897	participle
 37900	imperative
 37906	imperative
+37915	indicative
 37920	subjunctive
 37923	subjunctive
 37925	participle
+indicative
 37930	imperative
 37935	participle
+37941	indicative
 37944	indicative
 37946	infinitive
 37948	imperative
 37955	indicative
 37964	indicative
+indicative
 37981	indicative
 37985	participle
+37988	imperative
 37994	participle
 indicative
 infinitive
 38001	indicative
+38005	indicative
 38013	indicative
 38017	indicative
 38019	participle
@@ -8854,6 +9675,7 @@ indicative
 imperative
 indicative
 38072	infinitive
+subjunctive
 38079	participle
 38089	indicative
 infinitive
@@ -8898,6 +9720,7 @@ participle
 38250	participle
 indicative
 indicative
+38282	participle
 38286	indicative
 38289	indicative
 indicative
@@ -8907,9 +9730,11 @@ indicative
 infinitive
 38300	indicative
 38306	indicative
-38309	participle
+38308	participle
+participle
 38312	indicative
 38315	indicative
+38318	indicative
 38322	indicative
 38325	participle
 38329	participle
@@ -8932,6 +9757,7 @@ indicative
 38378	participle
 38383	participle
 38385	indicative
+38387	indicative
 38390	indicative
 38396	participle
 38399	indicative
@@ -8941,9 +9767,11 @@ imperative
 38414	infinitive
 38416	indicative
 38421	participle
-38423	indicative
+participle
+indicative
 38425	infinitive
 38427	participle
+indicative
 38433	indicative
 38435	participle
 38440	indicative
@@ -8952,7 +9780,9 @@ imperative
 indicative
 38453	infinitive
 38456	indicative
+indicative
 38465	indicative
+38467	indicative
 38472	indicative
 38474	participle
 38478	participle
@@ -8970,6 +9800,7 @@ participle
 38524	indicative
 38526	indicative
 38531	indicative
+38533	indicative
 38540	indicative
 38543	indicative
 38546	indicative
@@ -8989,6 +9820,7 @@ imperative
 38601	imperative
 38611	participle
 38615	subjunctive
+38617	indicative
 38620	indicative
 38626	indicative
 38629	indicative
@@ -8998,10 +9830,12 @@ imperative
 38644	indicative
 38651	indicative
 38653	indicative
-38657	participle
+38656	indicative
+participle
 subjunctive
 38662	imperative
 38666	indicative
+38673	indicative
 38676	indicative
 38678	indicative
 participle
@@ -9029,6 +9863,7 @@ indicative
 indicative
 38738	indicative
 38747	indicative
+indicative
 38750	indicative
 38752	indicative
 38759	participle
@@ -9081,6 +9916,7 @@ subjunctive
 38964	participle
 indicative
 indicative
+indicative
 38972	indicative
 38974	participle
 indicative
@@ -9089,6 +9925,7 @@ participle
 38980	indicative
 38982	indicative
 38989	participle
+indicative
 indicative
 38993	indicative
 39002	indicative
@@ -9118,8 +9955,10 @@ indicative
 39115	indicative
 39124	indicative
 39127	indicative
+indicative
 39133	imperative
 39139	participle
+indicative
 39142	indicative
 39153	participle
 39156	subjunctive
@@ -9142,9 +9981,11 @@ indicative
 39242	indicative
 39246	indicative
 39263	indicative
+39266	indicative
 39268	indicative
 39275	participle
-39281	indicative
+39280	indicative
+indicative
 infinitive
 39284	participle
 imperative
@@ -9159,6 +10000,7 @@ infinitive
 39329	indicative
 39344	indicative
 39354	participle
+subjunctive
 39357	indicative
 participle
 39363	indicative
@@ -9174,6 +10016,7 @@ participle
 39422	indicative
 39426	indicative
 39434	indicative
+indicative
 indicative
 39444	indicative
 39446	indicative
@@ -9219,6 +10062,7 @@ subjunctive
 39619	infinitive
 participle
 39622	infinitive
+indicative
 39626	subjunctive
 indicative
 39630	subjunctive
@@ -9226,6 +10070,7 @@ indicative
 39638	participle
 39642	indicative
 participle
+indicative
 39647	imperative
 39654	imperative
 indicative
@@ -9235,14 +10080,20 @@ indicative
 39667	subjunctive
 39678	indicative
 39688	participle
+39690	indicative
 39693	indicative
+indicative
 39702	indicative
+39704	indicative
 39709	indicative
+39713	indicative
 39717	participle
 39719	indicative
 39722	subjunctive
 39734	subjunctive
+39736	indicative
 39738	subjunctive
+indicative
 39741	subjunctive
 39746	indicative
 39753	indicative
@@ -9252,6 +10103,7 @@ indicative
 39767	infinitive
 39774	indicative
 39779	indicative
+39781	indicative
 39785	indicative
 39789	imperative
 39791	imperative
@@ -9271,9 +10123,11 @@ indicative
 indicative
 39846	indicative
 39848	indicative
+indicative
 39858	indicative
 39863	indicative
 39866	participle
+indicative
 39870	imperative
 imperative
 imperative
@@ -9284,6 +10138,7 @@ indicative
 39891	indicative
 39893	indicative
 39896	participle
+39900	indicative
 39902	participle
 indicative
 39911	indicative
@@ -9309,6 +10164,7 @@ indicative
 40001	indicative
 40003	participle
 40011	participle
+40015	indicative
 40017	participle
 40021	indicative
 40029	imperative
@@ -9331,6 +10187,7 @@ imperative
 40088	participle
 40100	indicative
 40103	indicative
+40107	indicative
 40112	indicative
 imperative
 40117	participle
@@ -9361,6 +10218,7 @@ infinitive
 40213	indicative
 indicative
 40224	indicative
+indicative
 40230	indicative
 40235	indicative
 40242	indicative
@@ -9386,7 +10244,8 @@ indicative
 40334	indicative
 40340	participle
 40348	participle
-40350	participle
+indicative
+participle
 40355	indicative
 40360	participle
 participle
@@ -9407,6 +10266,7 @@ indicative
 40408	indicative
 infinitive
 40414	indicative
+40417	indicative
 40419	indicative
 40428	participle
 indicative
@@ -9432,6 +10292,7 @@ infinitive
 40536	subjunctive
 40545	indicative
 40552	indicative
+indicative
 40555	indicative
 40559	subjunctive
 40566	subjunctive
@@ -9446,6 +10307,7 @@ indicative
 40607	indicative
 40612	subjunctive
 40614	indicative
+indicative
 indicative
 40623	indicative
 40630	indicative
@@ -9474,6 +10336,7 @@ indicative
 40718	subjunctive
 40722	subjunctive
 40726	subjunctive
+40728	indicative
 40730	participle
 40734	indicative
 40736	indicative
@@ -9484,6 +10347,7 @@ indicative
 participle
 40760	participle
 infinitive
+indicative
 40765	participle
 40770	indicative
 40772	indicative
@@ -9503,6 +10367,7 @@ imperative
 40824	indicative
 40830	indicative
 40837	indicative
+40841	indicative
 40848	participle
 indicative
 40854	participle
@@ -9521,18 +10386,22 @@ infinitive
 40911	indicative
 40915	participle
 40917	indicative
+indicative
 40922	indicative
 40924	indicative
+indicative
 40932	indicative
 40939	indicative
 40941	indicative
 40947	indicative
 40950	participle
 40952	indicative
+indicative
 40959	indicative
 40962	indicative
 40967	participle
 40970	participle
+indicative
 40973	indicative
 40981	participle
 40984	indicative
@@ -9545,27 +10414,33 @@ infinitive
 41005	subjunctive
 41009	subjunctive
 41013	subjunctive
-41015	infinitive
+subjunctive
+infinitive
 41017	infinitive
 41020	participle
 41022	imperative
 41025	participle
 indicative
 41029	indicative
-41032	indicative
+41031	indicative
+indicative
 41034	indicative
 infinitive
+indicative
 indicative
 41040	indicative
 41046	indicative
 41048	indicative
 participle
 41052	indicative
-41054	indicative
+indicative
+indicative
 imperative
-41062	indicative
+41061	indicative
+indicative
 41071	subjunctive
 41088	participle
+subjunctive
 41091	indicative
 41102	indicative
 41109	imperative
@@ -9592,6 +10467,7 @@ indicative
 infinitive
 41172	indicative
 41174	infinitive
+subjunctive
 41180	participle
 41184	participle
 41186	participle
@@ -9607,6 +10483,7 @@ indicative
 41226	participle
 41231	indicative
 41234	infinitive
+41236	indicative
 41244	infinitive
 41248	indicative
 participle
@@ -9617,11 +10494,14 @@ participle
 41269	participle
 indicative
 41273	infinitive
+indicative
 41278	indicative
 41280	participle
 indicative
 41284	indicative
 41288	indicative
+41292	indicative
+41294	indicative
 41296	indicative
 41300	indicative
 41308	indicative
@@ -9632,7 +10512,9 @@ infinitive
 41322	indicative
 participle
 41327	subjunctive
+41330	indicative
 41333	subjunctive
+indicative
 41341	subjunctive
 participle
 41346	participle
@@ -9644,11 +10526,13 @@ indicative
 41368	subjunctive
 participle
 imperative
+indicative
 41377	subjunctive
 41379	participle
 41381	indicative
 41384	imperative
 41387	indicative
+41390	indicative
 41393	participle
 41398	participle
 41400	indicative
@@ -9657,6 +10541,7 @@ imperative
 indicative
 41410	participle
 41413	subjunctive
+41415	indicative
 41418	imperative
 41437	subjunctive
 41440	subjunctive
@@ -9704,6 +10589,7 @@ infinitive
 41574	participle
 41577	indicative
 41581	imperative
+41583	indicative
 41599	imperative
 41602	indicative
 41606	indicative
@@ -9711,6 +10597,7 @@ infinitive
 41612	indicative
 41614	indicative
 41620	imperative
+indicative
 41627	imperative
 infinitive
 41630	subjunctive
@@ -9726,6 +10613,7 @@ indicative
 infinitive
 41697	indicative
 41702	indicative
+subjunctive
 41706	indicative
 infinitive
 41714	participle
@@ -9733,6 +10621,7 @@ infinitive
 41719	participle
 indicative
 41724	indicative
+indicative
 41730	participle
 41735	participle
 infinitive
@@ -9744,12 +10633,15 @@ participle
 infinitive
 41752	indicative
 infinitive
+indicative
 41757	participle
 41760	infinitive
+indicative
 41764	participle
 41766	indicative
 41769	indicative
 41773	infinitive
+41776	participle
 41778	participle
 41787	participle
 41789	participle
@@ -9759,8 +10651,11 @@ indicative
 41807	indicative
 infinitive
 41823	indicative
+41825	indicative
+41828	indicative
 41831	indicative
-41833	indicative
+subjunctive
+indicative
 41836	participle
 41838	infinitive
 imperative
@@ -9776,6 +10671,8 @@ indicative
 41884	participle
 41887	participle
 41889	indicative
+41891	participle
+imperative
 41897	indicative
 41900	participle
 41902	subjunctive
@@ -9783,6 +10680,7 @@ indicative
 indicative
 41911	participle
 41913	participle
+indicative
 41917	indicative
 41923	participle
 41925	imperative
@@ -9791,7 +10689,11 @@ indicative
 indicative
 41942	indicative
 41946	participle
+indicative
+41949	participle
+imperative
 41955	indicative
+41957	indicative
 41961	participle
 41964	subjunctive
 41968	indicative
@@ -9806,6 +10708,7 @@ imperative
 41995	indicative
 41997	indicative
 41999	indicative
+42001	indicative
 42009	participle
 indicative
 42014	indicative
@@ -9815,7 +10718,9 @@ indicative
 42034	indicative
 42043	participle
 42048	indicative
-42054	indicative
+indicative
+42053	indicative
+indicative
 42058	participle
 42060	participle
 42064	indicative
@@ -9824,11 +10729,13 @@ infinitive
 42076	participle
 indicative
 42085	indicative
+42087	indicative
 42091	infinitive
 42094	indicative
 infinitive
 42103	indicative
 42108	indicative
+42110	indicative
 42113	participle
 indicative
 42120	indicative
@@ -9837,6 +10744,8 @@ participle
 indicative
 42134	indicative
 42137	indicative
+indicative
+42142	indicative
 42145	indicative
 42147	infinitive
 42150	imperative
@@ -9850,12 +10759,16 @@ indicative
 42184	indicative
 42186	indicative
 42192	indicative
+indicative
+42197	indicative
 42200	indicative
 42202	infinitive
 42205	indicative
 42214	imperative
 42219	imperative
 42222	imperative
+42224	indicative
+42230	indicative
 42234	imperative
 42239	imperative
 42241	participle
@@ -9926,6 +10839,7 @@ indicative
 42470	subjunctive
 42473	subjunctive
 42477	subjunctive
+42479	indicative
 42484	participle
 42492	indicative
 42496	indicative
@@ -9942,11 +10856,13 @@ indicative
 42539	imperative
 42542	indicative
 42551	indicative
+42564	indicative
 42569	indicative
 42573	indicative
 42575	imperative
 42584	subjunctive
 subjunctive
+42587	indicative
 42599	indicative
 42609	indicative
 42618	indicative
@@ -9956,8 +10872,10 @@ subjunctive
 42639	indicative
 participle
 42642	infinitive
+indicative
 42647	indicative
 42651	indicative
+indicative
 42654	indicative
 42658	indicative
 42660	indicative
@@ -9968,11 +10886,15 @@ participle
 42677	indicative
 42680	indicative
 42682	participle
+42684	indicative
 42690	indicative
+42700	indicative
 42716	indicative
+42719	indicative
 42721	indicative
 42724	indicative
 42730	infinitive
+indicative
 42736	infinitive
 42739	participle
 42744	participle
@@ -9993,6 +10915,7 @@ indicative
 42799	indicative
 42801	infinitive
 42805	infinitive
+42810	indicative
 42814	indicative
 42820	indicative
 42825	participle
@@ -10014,14 +10937,17 @@ indicative
 42908	indicative
 42911	participle
 infinitive
+indicative
 42917	subjunctive
 42922	subjunctive
 indicative
 42925	indicative
 42930	subjunctive
+42932	indicative
 42938	indicative
 42943	subjunctive
 42949	subjunctive
+indicative
 42956	indicative
 42959	indicative
 42964	imperative
@@ -10039,6 +10965,8 @@ indicative
 indicative
 43021	indicative
 43027	indicative
+indicative
+43031	indicative
 43033	subjunctive
 43038	imperative
 43041	subjunctive
@@ -10046,6 +10974,7 @@ indicative
 43049	subjunctive
 imperative
 43057	subjunctive
+indicative
 43062	subjunctive
 43065	participle
 indicative
@@ -10060,7 +10989,8 @@ indicative
 43100	indicative
 43108	participle
 participle
-43111	participle
+indicative
+participle
 43113	participle
 43117	indicative
 43120	participle
@@ -10086,8 +11016,10 @@ infinitive
 indicative
 43172	indicative
 43175	infinitive
+indicative
 43180	indicative
 43187	participle
+43189	indicative
 43192	indicative
 43197	indicative
 43201	indicative
@@ -10111,6 +11043,7 @@ indicative
 43252	participle
 43256	indicative
 43260	indicative
+43263	imperative
 43266	indicative
 participle
 infinitive
@@ -10125,7 +11058,9 @@ imperative
 43303	indicative
 43311	indicative
 imperative
-43316	imperative
+43314	indicative
+indicative
+imperative
 43324	indicative
 indicative
 43330	indicative
@@ -10134,10 +11069,12 @@ indicative
 43344	indicative
 43346	indicative
 43348	imperative
-43350	imperative
+indicative
+imperative
 43353	subjunctive
 43355	subjunctive
 43360	participle
+43366	indicative
 43370	indicative
 43372	indicative
 43383	indicative
@@ -10150,6 +11087,7 @@ indicative
 indicative
 indicative
 43417	indicative
+43419	indicative
 43423	indicative
 43427	indicative
 43429	indicative
@@ -10170,7 +11108,9 @@ indicative
 infinitive
 43493	indicative
 43495	imperative
-43499	imperative
+indicative
+43498	subjunctive
+imperative
 43505	subjunctive
 43509	infinitive
 indicative
@@ -10186,6 +11126,7 @@ indicative
 43549	participle
 indicative
 43556	indicative
+43561	indicative
 43565	indicative
 indicative
 43572	infinitive
@@ -10205,6 +11146,7 @@ imperative
 43631	indicative
 43635	infinitive
 43641	indicative
+43645	indicative
 43647	participle
 subjunctive
 43650	indicative
@@ -10223,24 +11165,28 @@ subjunctive
 43714	indicative
 43717	participle
 43725	indicative
+indicative
 43729	infinitive
 43731	participle
 43739	participle
 43743	indicative
 43746	indicative
 43750	indicative
+43759	indicative
 43765	indicative
 43769	indicative
 43772	indicative
 43777	participle
 43779	indicative
 43783	infinitive
+indicative
 43788	indicative
 43792	participle
 43795	imperative
 43799	indicative
 43801	indicative
 43803	participle
+indicative
 43813	participle
 43815	indicative
 43818	participle
@@ -10258,6 +11204,7 @@ imperative
 43861	indicative
 43866	subjunctive
 43875	subjunctive
+indicative
 43879	indicative
 43883	participle
 43887	participle
@@ -10288,9 +11235,12 @@ indicative
 43970	participle
 43975	indicative
 43981	participle
+indicative
 43987	indicative
 43990	indicative
 43995	infinitive
+indicative
+43998	indicative
 44003	infinitive
 indicative
 44007	participle
@@ -10306,11 +11256,16 @@ indicative
 44040	indicative
 44044	indicative
 44046	indicative
+44048	indicative
+44050	indicative
+44052	indicative
+44054	indicative
 44064	subjunctive
 44075	participle
 44078	participle
 44082	indicative
 44085	imperative
+indicative
 indicative
 44090	indicative
 44093	participle
@@ -10327,6 +11282,7 @@ indicative
 44136	indicative
 44138	participle
 indicative
+44145	indicative
 44149	indicative
 44153	participle
 participle
@@ -10370,7 +11326,9 @@ infinitive
 44274	indicative
 44282	indicative
 44284	participle
-44288	indicative
+indicative
+44287	participle
+indicative
 44292	subjunctive
 44296	indicative
 infinitive
@@ -10413,6 +11371,7 @@ indicative
 44417	infinitive
 indicative
 44423	indicative
+indicative
 44427	infinitive
 44431	infinitive
 participle
@@ -10422,6 +11381,7 @@ participle
 44448	indicative
 44453	indicative
 44456	indicative
+44458	subjunctive
 44460	participle
 44462	indicative
 44464	infinitive
@@ -10439,12 +11399,14 @@ indicative
 44514	indicative
 imperative
 44517	participle
+subjunctive
 44522	indicative
 44525	participle
 indicative
 44530	indicative
 44533	indicative
-44540	imperative
+44539	subjunctive
+imperative
 44546	indicative
 participle
 44549	imperative
@@ -10487,12 +11449,16 @@ infinitive
 44670	imperative
 44675	participle
 44677	indicative
-44679	participle
+participle
+participle
+indicative
 44683	indicative
+44686	indicative
 44694	participle
 44696	indicative
 44700	participle
 imperative
+indicative
 44708	participle
 indicative
 44711	participle
@@ -10543,6 +11509,7 @@ indicative
 44925	indicative
 44934	indicative
 44941	participle
+indicative
 44945	indicative
 infinitive
 44948	participle
@@ -10565,6 +11532,7 @@ indicative
 participle
 45030	imperative
 45036	indicative
+indicative
 45039	indicative
 45041	participle
 45046	participle
@@ -10572,6 +11540,7 @@ participle
 45051	indicative
 45056	imperative
 45063	indicative
+indicative
 45069	indicative
 45072	participle
 45075	subjunctive
@@ -10584,6 +11553,7 @@ participle
 45099	infinitive
 45101	indicative
 45103	infinitive
+indicative
 45108	indicative
 45112	indicative
 45118	indicative
@@ -10608,6 +11578,7 @@ indicative
 indicative
 45191	subjunctive
 indicative
+45198	indicative
 45200	indicative
 participle
 45206	indicative
@@ -10616,6 +11587,7 @@ participle
 45214	subjunctive
 45218	subjunctive
 45222	participle
+45224	subjunctive
 45227	indicative
 45230	indicative
 45236	indicative
@@ -10632,6 +11604,7 @@ participle
 45265	indicative
 45267	participle
 45269	indicative
+indicative
 45275	participle
 45285	subjunctive
 indicative
@@ -10656,6 +11629,7 @@ indicative
 45361	indicative
 indicative
 45366	infinitive
+indicative
 45369	participle
 45374	indicative
 45377	imperative
@@ -10731,13 +11705,16 @@ infinitive
 45700	participle
 45702	indicative
 45704	participle
+indicative
 45712	indicative
 45717	participle
+indicative
 45722	indicative
 45724	indicative
 45734	indicative
 45740	participle
 45742	indicative
+indicative
 45756	indicative
 indicative
 45760	participle
@@ -10759,6 +11736,7 @@ imperative
 45816	participle
 45818	indicative
 45824	subjunctive
+subjunctive
 45829	subjunctive
 45834	subjunctive
 indicative
@@ -10770,15 +11748,18 @@ indicative
 45878	indicative
 45885	indicative
 participle
+indicative
 45892	participle
 45901	indicative
+45903	indicative
 45905	imperative
 45912	infinitive
 infinitive
 45916	indicative
 45923	indicative
 infinitive
-45926	infinitive
+indicative
+infinitive
 45929	participle
 45931	indicative
 45943	indicative
@@ -10790,8 +11771,10 @@ participle
 participle
 45980	imperative
 45991	imperative
+indicative
 46000	imperative
 46007	imperative
+indicative
 46014	indicative
 46016	infinitive
 46019	participle
@@ -10800,6 +11783,7 @@ participle
 46032	indicative
 46045	indicative
 46049	indicative
+indicative
 46056	indicative
 participle
 46062	subjunctive
@@ -10844,6 +11828,7 @@ infinitive
 46263	participle
 46267	participle
 indicative
+indicative
 46273	participle
 46279	indicative
 46285	infinitive
@@ -10852,6 +11837,7 @@ indicative
 46305	subjunctive
 46307	indicative
 46311	indicative
+46314	indicative
 46317	participle
 46319	participle
 46326	participle
@@ -10877,9 +11863,12 @@ subjunctive
 46388	indicative
 46390	imperative
 participle
+46393	indicative
 46396	indicative
 46401	participle
 imperative
+46404	indicative
+46407	indicative
 46409	indicative
 46411	indicative
 46416	indicative
@@ -10887,7 +11876,8 @@ imperative
 46431	subjunctive
 46434	indicative
 46437	participle
-46439	imperative
+indicative
+imperative
 participle
 46442	indicative
 46444	indicative
@@ -10906,6 +11896,7 @@ indicative
 indicative
 imperative
 46502	imperative
+indicative
 46505	indicative
 46510	subjunctive
 46525	subjunctive
@@ -10917,6 +11908,7 @@ indicative
 46536	indicative
 46543	participle
 46545	imperative
+indicative
 46548	infinitive
 46556	infinitive
 participle
@@ -10942,6 +11934,7 @@ infinitive
 46661	participle
 46664	participle
 46669	participle
+indicative
 46672	participle
 46675	participle
 46681	indicative
@@ -10963,6 +11956,8 @@ infinitive
 imperative
 46761	indicative
 46767	indicative
+46769	indicative
+46772	indicative
 46774	infinitive
 46777	indicative
 indicative
@@ -10994,11 +11989,13 @@ infinitive
 indicative
 46871	participle
 indicative
+46876	indicative
 46881	indicative
 46887	participle
 46892	indicative
 46894	imperative
 46896	infinitive
+indicative
 46901	indicative
 46908	participle
 46911	indicative
@@ -11023,6 +12020,7 @@ participle
 participle
 imperative
 46981	subjunctive
+indicative
 46986	participle
 imperative
 46991	participle
@@ -11053,6 +12051,7 @@ imperative
 47108	participle
 47111	indicative
 47113	indicative
+indicative
 47122	indicative
 47124	participle
 47132	participle
@@ -11087,7 +12086,8 @@ indicative
 47240	infinitive
 47242	indicative
 47246	participle
-47248	indicative
+subjunctive
+indicative
 indicative
 47254	participle
 47256	indicative
@@ -11100,9 +12100,11 @@ imperative
 47268	participle
 47273	participle
 indicative
+indicative
 47279	indicative
 47281	indicative
 47291	indicative
+47293	indicative
 47297	participle
 47300	indicative
 47303	imperative
@@ -11155,7 +12157,8 @@ indicative
 47481	participle
 47493	participle
 47496	indicative
-47498	indicative
+infinitive
+indicative
 47503	participle
 infinitive
 47508	infinitive
@@ -11179,6 +12182,7 @@ participle
 47594	indicative
 47600	participle
 47604	imperative
+47606	indicative
 47608	participle
 47610	indicative
 47615	participle
@@ -11218,6 +12222,7 @@ imperative
 infinitive
 47724	indicative
 47731	participle
+indicative
 47735	indicative
 47739	indicative
 47745	indicative
@@ -11225,6 +12230,7 @@ infinitive
 47751	participle
 47754	indicative
 47758	infinitive
+indicative
 47762	indicative
 47772	indicative
 47774	indicative
@@ -11247,7 +12253,8 @@ indicative
 47851	infinitive
 47854	indicative
 47859	participle
-47862	indicative
+47861	indicative
+indicative
 47878	indicative
 47880	imperative
 47884	indicative
@@ -11286,6 +12293,7 @@ indicative
 47999	indicative
 48001	imperative
 48004	subjunctive
+indicative
 48010	indicative
 48014	indicative
 48018	indicative
@@ -11295,6 +12303,7 @@ indicative
 indicative
 48049	participle
 48054	indicative
+48056	indicative
 48059	indicative
 48065	participle
 indicative
@@ -11345,6 +12354,7 @@ participle
 48264	participle
 48267	participle
 48270	participle
+48273	indicative
 48276	indicative
 48280	indicative
 48282	participle
@@ -11357,6 +12367,7 @@ subjunctive
 48300	participle
 48306	indicative
 infinitive
+indicative
 48313	infinitive
 48318	infinitive
 48320	indicative
@@ -11365,6 +12376,7 @@ infinitive
 48338	indicative
 48354	indicative
 48360	indicative
+indicative
 48369	indicative
 48374	participle
 indicative
@@ -11376,6 +12388,7 @@ indicative
 48393	imperative
 48401	indicative
 participle
+indicative
 48405	participle
 48415	indicative
 48421	participle
@@ -11399,6 +12412,7 @@ participle
 48499	indicative
 48507	participle
 48516	indicative
+48524	indicative
 48528	indicative
 48532	indicative
 48535	indicative
@@ -11421,14 +12435,17 @@ participle
 48600	indicative
 48604	indicative
 48607	indicative
+48610	subjunctive
 48617	infinitive
 48621	indicative
 48626	indicative
 infinitive
 48631	infinitive
+indicative
 48637	participle
 48645	indicative
 48648	participle
+48656	indicative
 48660	indicative
 48663	indicative
 48665	infinitive
@@ -11455,6 +12472,7 @@ indicative
 48737	indicative
 48742	participle
 48746	indicative
+indicative
 48750	indicative
 participle
 48758	participle
@@ -11488,6 +12506,7 @@ indicative
 48868	indicative
 48874	indicative
 48880	participle
+indicative
 48883	indicative
 indicative
 48893	indicative
@@ -11502,6 +12521,8 @@ infinitive
 infinitive
 48936	infinitive
 48943	infinitive
+48949	indicative
+48952	indicative
 48956	participle
 48963	imperative
 48965	indicative
@@ -11514,8 +12535,10 @@ infinitive
 49002	infinitive
 49005	indicative
 49009	indicative
+indicative
 49015	participle
 49017	indicative
+indicative
 49024	indicative
 49030	participle
 49035	indicative
@@ -11533,6 +12556,7 @@ infinitive
 indicative
 49096	participle
 49103	indicative
+indicative
 49107	subjunctive
 49113	subjunctive
 49117	indicative
@@ -11540,15 +12564,18 @@ indicative
 49127	indicative
 49133	indicative
 49136	participle
+indicative
 49143	indicative
 49149	indicative
 49155	indicative
+indicative
 49159	indicative
 49165	indicative
 49168	indicative
 49170	indicative
 49175	infinitive
 49177	participle
+indicative
 49197	indicative
 49202	indicative
 49204	indicative
@@ -11558,6 +12585,7 @@ indicative
 participle
 49229	indicative
 49231	indicative
+49233	subjunctive
 49235	participle
 49238	indicative
 49242	indicative
@@ -11566,6 +12594,7 @@ participle
 49269	indicative
 49272	indicative
 49277	participle
+indicative
 49284	indicative
 49287	indicative
 49293	indicative
@@ -11601,19 +12630,23 @@ indicative
 49404	indicative
 49409	indicative
 49413	indicative
+49415	subjunctive
 49417	participle
 49420	indicative
 49424	subjunctive
 49433	indicative
+indicative
 49438	indicative
 49441	participle
-49444	indicative
+49443	indicative
+indicative
 49447	participle
 49451	indicative
 imperative
 49458	participle
 49464	indicative
 49468	indicative
+subjunctive
 49471	indicative
 49476	indicative
 49480	indicative
@@ -11638,6 +12671,7 @@ imperative
 49547	indicative
 49549	indicative
 49552	indicative
+49558	indicative
 49560	indicative
 49570	participle
 49573	participle
@@ -11678,8 +12712,10 @@ participle
 49682	indicative
 49688	indicative
 49691	indicative
-49695	indicative
+49694	indicative
+indicative
 infinitive
+indicative
 49701	indicative
 49704	indicative
 49708	imperative
@@ -11700,6 +12736,7 @@ indicative
 49774	imperative
 49781	indicative
 indicative
+49785	indicative
 49787	indicative
 indicative
 49791	indicative
@@ -11713,6 +12750,7 @@ participle
 49822	indicative
 49825	indicative
 49828	indicative
+49830	subjunctive
 49833	indicative
 49836	indicative
 49838	indicative
@@ -11723,7 +12761,9 @@ participle
 49855	participle
 49867	indicative
 49873	indicative
-49879	indicative
+49878	indicative
+indicative
+49888	indicative
 49892	participle
 49894	indicative
 49903	indicative
@@ -11733,12 +12773,15 @@ participle
 49928	subjunctive
 49930	imperative
 indicative
+49933	indicative
 49942	participle
 participle
-49948	indicative
+49947	indicative
+indicative
 indicative
 49953	imperative
 49958	indicative
+49961	subjunctive
 49963	indicative
 49965	imperative
 49968	imperative
@@ -11746,7 +12789,8 @@ indicative
 49976	indicative
 49982	participle
 49985	indicative
-49987	indicative
+indicative
+indicative
 49991	indicative
 49993	participle
 49996	indicative
@@ -11757,10 +12801,14 @@ indicative
 50024	indicative
 50035	indicative
 50040	indicative
+indicative
 50048	indicative
-50065	indicative
+indicative
+50064	indicative
+indicative
 50071	indicative
 50077	indicative
+indicative
 50083	indicative
 50088	participle
 50097	participle
@@ -11795,6 +12843,7 @@ indicative
 50233	indicative
 50238	indicative
 50249	indicative
+indicative
 50254	participle
 50259	indicative
 50264	indicative
@@ -11823,6 +12872,7 @@ infinitive
 50364	infinitive
 50366	participle
 50368	indicative
+indicative
 50376	infinitive
 50378	infinitive
 indicative
@@ -11830,6 +12880,7 @@ indicative
 50388	subjunctive
 50394	indicative
 infinitive
+indicative
 50402	participle
 50407	indicative
 50410	participle
@@ -11842,7 +12893,8 @@ infinitive
 indicative
 50434	indicative
 50437	indicative
-50439	indicative
+indicative
+indicative
 50442	indicative
 50444	indicative
 50447	participle
@@ -11865,6 +12917,7 @@ indicative
 50503	subjunctive
 50507	indicative
 50510	indicative
+indicative
 50520	participle
 50528	indicative
 50535	infinitive
@@ -11874,19 +12927,25 @@ indicative
 50552	indicative
 50562	indicative
 50566	participle
+indicative
 50570	subjunctive
 50572	subjunctive
 50577	indicative
+50582	indicative
 50586	subjunctive
 50591	subjunctive
 50597	participle
+indicative
 50601	indicative
 50604	participle
 50606	indicative
 50609	indicative
+indicative
 50620	indicative
 50626	indicative
+indicative
 50631	indicative
+50637	indicative
 50640	indicative
 50650	participle
 indicative
@@ -11898,19 +12957,24 @@ indicative
 50683	indicative
 participle
 50687	indicative
-50700	indicative
+50694	indicative
+50699	indicative
+indicative
 50704	indicative
 indicative
 50709	participle
 50718	indicative
+indicative
 50721	indicative
 50723	indicative
 50726	indicative
 participle
+indicative
 50732	indicative
 50744	indicative
 50749	indicative
 50753	indicative
+50756	indicative
 50761	indicative
 imperative
 50764	indicative
@@ -11937,11 +13001,13 @@ indicative
 infinitive
 50839	infinitive
 50842	participle
+subjunctive
 50845	indicative
 50847	participle
 50854	indicative
 50859	indicative
 50864	participle
+subjunctive
 50867	indicative
 50869	indicative
 50871	indicative
@@ -11956,6 +13022,7 @@ infinitive
 50910	indicative
 50915	indicative
 50921	participle
+indicative
 50925	indicative
 50930	participle
 50934	indicative
@@ -11964,15 +13031,20 @@ infinitive
 50950	indicative
 50957	indicative
 50959	indicative
+indicative
 50966	indicative
 50971	indicative
 50975	indicative
+50977	indicative
 50980	indicative
 50983	infinitive
 50987	indicative
+50989	indicative
 50993	participle
+50995	participle
 50999	indicative
 51005	indicative
+51007	indicative
 51014	participle
 51018	indicative
 51024	indicative
@@ -11981,6 +13053,7 @@ infinitive
 51034	indicative
 51038	imperative
 51045	indicative
+indicative
 51051	subjunctive
 indicative
 51062	participle
@@ -11999,6 +13072,7 @@ indicative
 indicative
 51110	indicative
 51114	indicative
+51116	indicative
 51118	indicative
 51122	participle
 51126	indicative
@@ -12011,10 +13085,12 @@ indicative
 51166	subjunctive
 51172	indicative
 51176	indicative
+indicative
 51180	imperative
 51184	indicative
 51186	indicative
 51191	participle
+indicative
 51195	indicative
 51201	imperative
 51208	subjunctive
@@ -12074,9 +13150,11 @@ indicative
 51400	indicative
 51403	indicative
 51405	indicative
+indicative
 51408	indicative
 51411	indicative
 51419	indicative
+indicative
 51424	indicative
 51428	imperative
 51431	indicative
@@ -12110,8 +13188,10 @@ indicative
 51530	participle
 51532	indicative
 51534	indicative
+51536	indicative
 51541	participle
-51543	subjunctive
+imperative
+subjunctive
 51546	participle
 51552	indicative
 51556	indicative
@@ -12122,8 +13202,10 @@ indicative
 51570	indicative
 subjunctive
 indicative
+51575	indicative
 51579	indicative
 51586	indicative
+indicative
 51596	participle
 51598	indicative
 51602	indicative
@@ -12131,6 +13213,7 @@ indicative
 51610	indicative
 51612	infinitive
 51616	indicative
+indicative
 51623	indicative
 51631	indicative
 51636	infinitive
@@ -12139,19 +13222,24 @@ indicative
 51643	indicative
 51646	indicative
 51657	indicative
+51659	indicative
 51665	indicative
 51674	indicative
 51677	indicative
+indicative
 51681	indicative
 51686	participle
 51688	indicative
 51697	indicative
+indicative
 51701	indicative
+51704	indicative
 51710	indicative
 51715	indicative
 51721	indicative
 51725	participle
 51728	indicative
+51732	indicative
 51735	indicative
 51739	indicative
 51741	subjunctive
@@ -12177,6 +13265,7 @@ indicative
 indicative
 51821	indicative
 indicative
+51826	indicative
 51829	indicative
 51833	indicative
 51843	indicative
@@ -12184,8 +13273,10 @@ indicative
 51852	indicative
 51864	indicative
 51867	participle
+51871	indicative
 51876	indicative
 51881	indicative
+51883	indicative
 51885	indicative
 51895	participle
 51900	participle
@@ -12198,6 +13289,7 @@ indicative
 51937	indicative
 51940	indicative
 51942	indicative
+51946	indicative
 51951	participle
 51957	participle
 51960	participle
@@ -12211,6 +13303,7 @@ indicative
 51980	indicative
 51983	subjunctive
 51986	subjunctive
+51988	indicative
 51994	indicative
 51999	indicative
 indicative
@@ -12296,9 +13389,11 @@ indicative
 52300	participle
 52302	participle
 52304	indicative
+52308	indicative
 52311	indicative
 imperative
 indicative
+52317	indicative
 52322	indicative
 52325	indicative
 52329	indicative
@@ -12316,7 +13411,9 @@ indicative
 52384	indicative
 52389	indicative
 52393	participle
+indicative
 52400	participle
+indicative
 52405	indicative
 52407	infinitive
 52412	indicative
@@ -12381,6 +13478,7 @@ indicative
 52657	indicative
 52662	indicative
 52664	participle
+52667	indicative
 52670	indicative
 52673	indicative
 52675	indicative
@@ -12389,18 +13487,22 @@ indicative
 52692	optative
 52694	indicative
 52697	indicative
+52700	indicative
 52707	indicative
 52713	indicative
 52717	indicative
 52720	participle
 indicative
-52729	indicative
+52723	indicative
+52728	indicative
+indicative
 52734	indicative
 52743	participle
 52750	participle
 52754	indicative
 52757	indicative
-52761	subjunctive
+52760	indicative
+subjunctive
 52764	subjunctive
 52768	indicative
 participle
@@ -12416,6 +13518,7 @@ indicative
 52808	indicative
 52815	imperative
 52818	indicative
+indicative
 52821	indicative
 52824	imperative
 52827	infinitive
@@ -12441,21 +13544,28 @@ indicative
 52900	indicative
 52903	indicative
 52908	participle
+indicative
 52914	participle
 52916	indicative
 infinitive
 52919	infinitive
 52922	subjunctive
 52924	indicative
+52926	indicative
 52934	indicative
 indicative
 52943	participle
+indicative
 52946	indicative
+indicative
+52950	indicative
 52955	indicative
 52958	indicative
 52968	participle
 indicative
 participle
+52974	participle
+52976	indicative
 52978	indicative
 52981	participle
 52989	participle
@@ -12465,13 +13575,19 @@ participle
 52999	imperative
 indicative
 53002	infinitive
+53004	indicative
 53009	indicative
+53015	indicative
 53017	indicative
+53019	indicative
 53023	participle
+indicative
 53027	indicative
 53032	indicative
+indicative
 53036	participle
 53040	indicative
+53046	indicative
 53049	imperative
 53054	indicative
 imperative
@@ -12480,10 +13596,14 @@ indicative
 53067	participle
 53072	indicative
 53078	indicative
+indicative
 53084	indicative
+53086	indicative
 53090	indicative
+indicative
 53093	participle
 53097	participle
+53099	indicative
 53102	indicative
 53107	indicative
 indicative
@@ -12497,6 +13617,7 @@ imperative
 53137	participle
 imperative
 53142	participle
+indicative
 53152	indicative
 53157	indicative
 53160	indicative
@@ -12506,6 +13627,7 @@ imperative
 53175	indicative
 53178	indicative
 53184	subjunctive
+indicative
 53187	indicative
 53189	indicative
 53194	indicative
@@ -12531,6 +13653,7 @@ indicative
 53292	participle
 53297	subjunctive
 53300	participle
+indicative
 53305	indicative
 53308	indicative
 53312	indicative
@@ -12539,6 +13662,7 @@ indicative
 53325	indicative
 53328	participle
 53333	subjunctive
+subjunctive
 53336	indicative
 53342	subjunctive
 53347	imperative
@@ -12552,6 +13676,7 @@ subjunctive
 53379	indicative
 53388	participle
 53392	participle
+indicative
 53395	subjunctive
 53399	subjunctive
 53406	indicative
@@ -12595,6 +13720,7 @@ indicative
 53569	participle
 53572	subjunctive
 53577	indicative
+indicative
 53587	indicative
 53591	indicative
 53597	indicative
@@ -12627,6 +13753,7 @@ indicative
 53722	indicative
 53724	participle
 53728	indicative
+indicative
 53733	indicative
 53736	participle
 53741	participle
@@ -12661,6 +13788,8 @@ infinitive
 53846	subjunctive
 participle
 53858	indicative
+indicative
+53861	subjunctive
 53866	indicative
 indicative
 53876	indicative
@@ -12688,6 +13817,7 @@ indicative
 53964	indicative
 53971	imperative
 53974	imperative
+indicative
 53983	indicative
 53988	indicative
 53994	indicative
@@ -12696,6 +13826,7 @@ indicative
 54003	indicative
 imperative
 54013	indicative
+indicative
 54016	indicative
 54026	indicative
 54033	indicative
@@ -12705,11 +13836,14 @@ imperative
 54046	indicative
 54054	indicative
 54056	imperative
+indicative
 54062	indicative
+indicative
 54072	indicative
 54075	participle
 54077	indicative
 54083	indicative
+54087	indicative
 54093	indicative
 54095	indicative
 imperative
@@ -12726,6 +13860,7 @@ indicative
 54139	indicative
 54151	participle
 indicative
+54154	indicative
 54158	indicative
 indicative
 54163	participle
@@ -12743,6 +13878,7 @@ imperative
 54192	infinitive
 indicative
 54201	indicative
+indicative
 54206	indicative
 54210	participle
 54214	participle
@@ -12785,16 +13921,19 @@ infinitive
 54350	indicative
 54353	imperative
 54355	indicative
-54357	indicative
+indicative
+indicative
 54362	subjunctive
 54364	indicative
-54366	indicative
+indicative
+indicative
 indicative
 54372	participle
 54376	participle
 54378	indicative
 54380	indicative
-54382	indicative
+indicative
+indicative
 54387	indicative
 54389	indicative
 54392	participle
@@ -12807,6 +13946,7 @@ indicative
 54414	indicative
 54421	indicative
 54430	indicative
+indicative
 54434	indicative
 54438	subjunctive
 54442	indicative
@@ -12828,6 +13968,7 @@ indicative
 54503	indicative
 infinitive
 54508	indicative
+54511	indicative
 54516	indicative
 infinitive
 54519	infinitive
@@ -12844,6 +13985,7 @@ participle
 54560	imperative
 54564	imperative
 54566	participle
+indicative
 54570	indicative
 54578	subjunctive
 54580	participle
@@ -12851,6 +13993,7 @@ participle
 54588	indicative
 infinitive
 54591	participle
+indicative
 54596	indicative
 54601	indicative
 54606	participle
@@ -12877,6 +14020,8 @@ indicative
 54705	indicative
 54713	indicative
 54719	indicative
+indicative
+54722	indicative
 54726	imperative
 54732	participle
 54736	indicative
@@ -12895,8 +14040,11 @@ imperative
 54780	imperative
 54787	indicative
 54789	indicative
+54791	indicative
 54797	indicative
+indicative
 54806	indicative
+indicative
 54814	indicative
 54818	participle
 indicative
@@ -12913,20 +14061,25 @@ indicative
 participle
 54868	subjunctive
 infinitive
-54875	participle
+54874	subjunctive
+participle
 54878	indicative
+indicative
 54884	indicative
 participle
 54887	participle
 indicative
 54899	imperative
-54903	participle
+54902	subjunctive
+participle
+indicative
 indicative
 54910	participle
 54915	participle
 indicative
 participle
-54919	participle
+participle
+participle
 54927	indicative
 54936	participle
 participle
@@ -12955,10 +14108,13 @@ imperative
 55028	subjunctive
 55032	indicative
 55037	indicative
-55039	indicative
+indicative
+indicative
 55042	indicative
 55046	indicative
-55048	indicative
+indicative
+indicative
+indicative
 55051	indicative
 55056	indicative
 55059	indicative
@@ -12997,8 +14153,10 @@ indicative
 55194	indicative
 infinitive
 55197	indicative
-55203	indicative
-55208	indicative
+55202	subjunctive
+indicative
+55207	subjunctive
+indicative
 55214	indicative
 55217	indicative
 55222	indicative
@@ -13017,6 +14175,7 @@ indicative
 55272	indicative
 55275	indicative
 55279	indicative
+indicative
 55284	indicative
 55289	indicative
 indicative
@@ -13033,6 +14192,7 @@ indicative
 55334	indicative
 55338	participle
 55340	indicative
+indicative
 55343	indicative
 55349	participle
 55354	subjunctive
@@ -13049,7 +14209,9 @@ indicative
 55400	participle
 55404	indicative
 55411	indicative
+55415	indicative
 55420	indicative
+indicative
 55429	subjunctive
 55432	indicative
 indicative
@@ -13124,6 +14286,7 @@ indicative
 55714	indicative
 55721	subjunctive
 55725	subjunctive
+indicative
 55729	indicative
 55734	indicative
 55737	indicative
@@ -13131,6 +14294,7 @@ indicative
 55745	indicative
 55751	subjunctive
 55754	subjunctive
+55756	indicative
 55762	indicative
 55768	indicative
 55772	indicative
@@ -13171,6 +14335,7 @@ indicative
 55890	indicative
 55895	participle
 55898	indicative
+55900	indicative
 55906	subjunctive
 indicative
 55911	indicative
@@ -13186,11 +14351,13 @@ infinitive
 55948	indicative
 55952	participle
 indicative
+subjunctive
 55956	indicative
 55962	indicative
 55970	indicative
 55972	imperative
 imperative
+indicative
 55980	indicative
 participle
 indicative
@@ -13220,6 +14387,7 @@ indicative
 56045	indicative
 56050	indicative
 56053	imperative
+indicative
 56058	imperative
 participle
 56062	participle
@@ -13269,6 +14437,7 @@ indicative
 56229	indicative
 56233	indicative
 56235	indicative
+indicative
 56238	indicative
 56244	indicative
 56246	imperative
@@ -13312,12 +14481,14 @@ infinitive
 56371	indicative
 56374	indicative
 56380	indicative
-56382	indicative
+indicative
+indicative
 indicative
 56387	indicative
 56394	indicative
 56398	indicative
-56400	indicative
+indicative
+indicative
 56402	indicative
 56406	indicative
 56412	indicative
@@ -13335,15 +14506,19 @@ infinitive
 56453	indicative
 56457	indicative
 56460	indicative
-56463	indicative
+56462	subjunctive
+indicative
 56466	indicative
+56468	subjunctive
 56470	participle
 56472	indicative
 56474	indicative
+indicative
 56480	indicative
 56483	indicative
 56486	indicative
 56489	subjunctive
+indicative
 56492	indicative
 56497	indicative
 56501	participle
@@ -13352,6 +14527,8 @@ infinitive
 indicative
 56512	indicative
 56515	indicative
+56518	indicative
+56521	indicative
 56525	indicative
 56529	participle
 subjunctive
@@ -13369,6 +14546,7 @@ indicative
 56572	indicative
 56575	indicative
 56579	participle
+56583	indicative
 56588	imperative
 participle
 56593	indicative
@@ -13427,6 +14605,7 @@ indicative
 56817	indicative
 56822	indicative
 56829	indicative
+56834	imperative
 56836	indicative
 56839	indicative
 56845	indicative
@@ -13477,6 +14656,7 @@ indicative
 57031	indicative
 57034	indicative
 57041	subjunctive
+indicative
 57047	indicative
 57058	indicative
 57062	indicative
@@ -13505,6 +14685,7 @@ participle
 infinitive
 57161	indicative
 57163	indicative
+indicative
 57168	indicative
 57170	indicative
 57172	indicative
@@ -13520,16 +14701,21 @@ infinitive
 57215	infinitive
 57217	indicative
 57223	indicative
+57225	indicative
+57228	indicative
 57232	indicative
 57236	participle
 57238	indicative
+indicative
 57242	indicative
 57246	indicative
 57251	indicative
 57256	indicative
 57261	indicative
 57264	indicative
-57268	indicative
+indicative
+57267	indicative
+indicative
 57271	participle
 57284	indicative
 57288	participle
@@ -13551,11 +14737,13 @@ participle
 57366	indicative
 57373	indicative
 57376	subjunctive
+indicative
 57381	indicative
 57387	indicative
 57389	infinitive
 57394	indicative
-57396	indicative
+indicative
+indicative
 57401	indicative
 57406	subjunctive
 57411	indicative
@@ -13580,7 +14768,8 @@ indicative
 57488	indicative
 57492	subjunctive
 57495	indicative
-57497	imperative
+indicative
+imperative
 subjunctive
 57501	indicative
 57505	participle
@@ -13610,15 +14799,19 @@ indicative
 57623	indicative
 57628	indicative
 57635	participle
+indicative
 57639	subjunctive
 indicative
 57644	participle
 57646	participle
+indicative
 57651	subjunctive
+indicative
 57655	indicative
 57657	indicative
 57662	indicative
 57665	indicative
+57673	indicative
 57676	participle
 57679	participle
 indicative
@@ -13630,6 +14823,7 @@ indicative
 indicative
 57702	indicative
 57707	indicative
+57710	indicative
 57714	indicative
 57720	indicative
 57728	participle
@@ -13640,7 +14834,9 @@ indicative
 indicative
 57747	participle
 57749	indicative
+indicative
 57754	subjunctive
+indicative
 57760	indicative
 57762	indicative
 57764	participle
@@ -13670,6 +14866,7 @@ indicative
 57842	subjunctive
 57846	participle
 57849	indicative
+indicative
 57853	indicative
 57858	indicative
 57861	indicative
@@ -13684,6 +14881,7 @@ indicative
 indicative
 57895	indicative
 57902	indicative
+57905	subjunctive
 57907	indicative
 57909	indicative
 57912	indicative
@@ -13696,7 +14894,8 @@ indicative
 57933	indicative
 57936	participle
 57939	indicative
-57943	indicative
+57942	subjunctive
+indicative
 57945	participle
 participle
 57958	indicative
@@ -13708,6 +14907,7 @@ indicative
 57980	participle
 57982	indicative
 indicative
+indicative
 57990	indicative
 57995	indicative
 57998	indicative
@@ -13717,6 +14917,7 @@ indicative
 58017	indicative
 58020	subjunctive
 58024	indicative
+indicative
 58028	indicative
 58032	indicative
 58040	participle
@@ -13736,31 +14937,39 @@ imperative
 58091	infinitive
 58109	participle
 subjunctive
-58112	participle
+indicative
+participle
 58118	indicative
 58120	subjunctive
 58127	indicative
 58131	imperative
 indicative
+58134	indicative
+58140	indicative
 58142	participle
-58145	indicative
+58144	indicative
+indicative
 58149	indicative
 58157	indicative
+58159	indicative
 58168	subjunctive
 58170	indicative
 58175	indicative
 58181	participle
 58183	indicative
 58188	subjunctive
+indicative
 58192	indicative
 58203	subjunctive
 58205	indicative
 subjunctive
 58208	subjunctive
 58218	indicative
+indicative
 58222	indicative
 58225	indicative
 58229	indicative
+58233	indicative
 58237	indicative
 58241	participle
 indicative
@@ -13783,11 +14992,13 @@ indicative
 indicative
 indicative
 58329	imperative
+58332	indicative
 58338	subjunctive
 58344	indicative
 58351	indicative
 indicative
-58362	indicative
+58361	indicative
+indicative
 58364	indicative
 58375	subjunctive
 58377	indicative
@@ -13795,11 +15006,16 @@ indicative
 58388	subjunctive
 58393	indicative
 58397	indicative
+indicative
+58402	indicative
 58407	participle
+indicative
 58411	participle
 58413	indicative
+58415	indicative
 58417	indicative
 58423	indicative
+indicative
 58428	indicative
 58432	participle
 58441	participle
@@ -13827,6 +15043,7 @@ participle
 58529	indicative
 58532	indicative
 58534	imperative
+58537	subjunctive
 58539	indicative
 indicative
 58546	participle
@@ -13846,6 +15063,7 @@ indicative
 58595	subjunctive
 58602	indicative
 58610	participle
+indicative
 58614	subjunctive
 58617	indicative
 58620	subjunctive
@@ -13853,10 +15071,12 @@ indicative
 58625	participle
 58629	indicative
 58633	participle
+58641	indicative
 58644	indicative
 58649	subjunctive
 58651	imperative
 58654	indicative
+58656	indicative
 58662	indicative
 58666	subjunctive
 indicative
@@ -13865,6 +15085,7 @@ indicative
 58680	imperative
 58686	imperative
 58689	indicative
+indicative
 58695	imperative
 58699	indicative
 58706	indicative
@@ -13882,6 +15103,7 @@ indicative
 imperative
 58741	indicative
 58751	indicative
+subjunctive
 58755	subjunctive
 58760	subjunctive
 58765	indicative
@@ -13892,6 +15114,7 @@ indicative
 58776	indicative
 indicative
 58784	indicative
+indicative
 58790	indicative
 58793	indicative
 infinitive
@@ -13906,12 +15129,14 @@ imperative
 58838	indicative
 58842	indicative
 imperative
+indicative
 58850	subjunctive
 58852	indicative
 58855	participle
 indicative
 58863	participle
 58867	indicative
+indicative
 58876	subjunctive
 58878	indicative
 58881	indicative
@@ -13928,7 +15153,9 @@ infinitive
 58924	indicative
 58927	indicative
 58932	indicative
+58935	indicative
 58942	indicative
+indicative
 58945	imperative
 58950	indicative
 58954	subjunctive
@@ -13936,14 +15163,19 @@ indicative
 58969	indicative
 58971	indicative
 58973	participle
+indicative
 58977	indicative
+indicative
 58980	imperative
+indicative
 58983	participle
 58987	participle
 58989	indicative
 58991	participle
+58995	indicative
 58998	indicative
 59002	participle
+indicative
 59009	subjunctive
 59014	subjunctive
 59019	subjunctive
@@ -13971,12 +15203,15 @@ indicative
 59110	indicative
 59115	subjunctive
 59123	participle
+59130	indicative
 59132	indicative
 59136	participle
 59140	participle
+indicative
 59145	optative
 59150	participle
 59153	indicative
+59157	indicative
 59164	indicative
 59169	indicative
 indicative
@@ -13984,6 +15219,7 @@ indicative
 59179	participle
 59181	indicative
 59184	indicative
+59186	indicative
 59190	indicative
 infinitive
 59197	infinitive
@@ -13999,6 +15235,7 @@ indicative
 59228	indicative
 59232	indicative
 59237	subjunctive
+59241	indicative
 59244	indicative
 59249	subjunctive
 59252	indicative
@@ -14061,6 +15298,7 @@ indicative
 59472	participle
 59475	indicative
 59477	indicative
+indicative
 59482	participle
 59485	indicative
 indicative
@@ -14083,6 +15321,7 @@ indicative
 59547	indicative
 59549	indicative
 59558	indicative
+indicative
 59563	indicative
 59568	indicative
 imperative
@@ -14090,10 +15329,13 @@ imperative
 59576	participle
 59579	indicative
 59583	indicative
+indicative
 59587	indicative
 59590	indicative
 59593	imperative
 59596	indicative
+indicative
+59600	indicative
 59605	subjunctive
 participle
 59611	indicative
@@ -14137,6 +15379,8 @@ indicative
 59757	subjunctive
 59761	imperative
 59765	indicative
+indicative
+59770	indicative
 59772	imperative
 59781	indicative
 59785	indicative
@@ -14179,6 +15423,7 @@ indicative
 59960	imperative
 59963	indicative
 59966	participle
+indicative
 59973	indicative
 59975	indicative
 59979	indicative
@@ -14193,6 +15438,7 @@ indicative
 60023	indicative
 60029	indicative
 60032	subjunctive
+60035	indicative
 60046	indicative
 infinitive
 60050	indicative
@@ -14287,8 +15533,10 @@ indicative
 infinitive
 60436	subjunctive
 60439	indicative
+subjunctive
 60445	indicative
 60447	indicative
+60450	indicative
 60453	indicative
 60455	indicative
 60457	subjunctive
@@ -14354,6 +15602,7 @@ indicative
 60718	indicative
 imperative
 60722	indicative
+indicative
 60731	indicative
 60733	participle
 60737	indicative
@@ -14406,6 +15655,7 @@ indicative
 60951	participle
 60953	indicative
 60969	indicative
+indicative
 60979	indicative
 60982	indicative
 60993	indicative
@@ -14415,6 +15665,7 @@ indicative
 infinitive
 61006	subjunctive
 61012	indicative
+61014	indicative
 61017	participle
 61020	indicative
 61025	indicative
@@ -14454,6 +15705,7 @@ indicative
 61150	indicative
 61155	indicative
 61157	indicative
+61162	indicative
 61164	indicative
 61168	subjunctive
 61170	indicative
@@ -14461,6 +15713,7 @@ indicative
 61178	subjunctive
 61182	indicative
 61189	indicative
+61191	indicative
 61200	indicative
 61203	indicative
 61206	indicative
@@ -14487,6 +15740,7 @@ participle
 61317	indicative
 indicative
 61323	indicative
+indicative
 61328	indicative
 61332	indicative
 61336	indicative
@@ -14505,6 +15759,7 @@ imperative
 indicative
 61378	indicative
 61380	subjunctive
+61382	indicative
 61387	subjunctive
 61390	indicative
 61397	indicative
@@ -14516,6 +15771,7 @@ imperative
 61414	indicative
 61418	indicative
 61421	participle
+61425	indicative
 61428	indicative
 61430	indicative
 61433	imperative
@@ -14583,13 +15839,16 @@ participle
 61729	imperative
 61739	indicative
 61742	indicative
+indicative
 61747	indicative
+61749	indicative
 61756	indicative
 61759	subjunctive
 61762	participle
 61769	indicative
 61771	imperative
 61775	participle
+61780	indicative
 61784	participle
 subjunctive
 61799	subjunctive
@@ -14602,7 +15861,8 @@ participle
 61821	participle
 61830	subjunctive
 participle
-61833	participle
+indicative
+participle
 61835	subjunctive
 61841	indicative
 61843	indicative
@@ -14625,13 +15885,17 @@ participle
 61911	subjunctive
 61916	participle
 61918	indicative
+61923	indicative
 61929	indicative
+61931	indicative
 61933	indicative
 61939	indicative
 61944	participle
 61950	indicative
+61952	indicative
 61960	participle
 61972	indicative
+indicative
 61982	participle
 61985	participle
 61988	indicative
@@ -14645,7 +15909,10 @@ indicative
 62014	indicative
 62017	indicative
 indicative
+indicative
+62021	subjunctive
 62023	indicative
+subjunctive
 62027	indicative
 62030	indicative
 62033	indicative
@@ -14667,6 +15934,7 @@ imperative
 indicative
 62092	indicative
 62098	imperative
+62101	indicative
 62107	indicative
 62113	subjunctive
 62115	indicative
@@ -14682,8 +15950,10 @@ indicative
 62163	indicative
 62176	indicative
 62181	indicative
+62184	indicative
 62192	indicative
-62197	indicative
+62196	subjunctive
+indicative
 62208	indicative
 62212	indicative
 62215	indicative
@@ -14739,12 +16009,15 @@ participle
 62410	indicative
 62415	indicative
 indicative
+62423	indicative
 62426	indicative
 62432	indicative
+indicative
 62438	subjunctive
 imperative
 subjunctive
 62443	indicative
+62447	subjunctive
 62451	indicative
 62454	indicative
 62458	indicative
@@ -14764,12 +16037,14 @@ participle
 62508	indicative
 infinitive
 indicative
+62513	indicative
 62519	indicative
 62523	indicative
 62526	indicative
 62531	indicative
 62537	indicative
-62539	subjunctive
+indicative
+subjunctive
 indicative
 62544	indicative
 62550	indicative
@@ -14790,8 +16065,11 @@ indicative
 62614	indicative
 62618	indicative
 62621	indicative
+62623	indicative
 62625	indicative
+62627	indicative
 62629	indicative
+indicative
 62634	subjunctive
 62639	participle
 62643	indicative
@@ -14820,13 +16098,16 @@ indicative
 imperative
 62741	indicative
 62745	indicative
+62747	subjunctive
 62751	indicative
 62753	imperative
 indicative
+62757	subjunctive
 62759	subjunctive
 62763	indicative
 62766	indicative
-62771	participle
+62770	subjunctive
+participle
 62777	participle
 62780	indicative
 62782	imperative
@@ -14848,8 +16129,10 @@ infinitive
 62834	indicative
 62841	indicative
 62843	indicative
+indicative
 62849	indicative
-62853	indicative
+62852	indicative
+indicative
 62860	indicative
 62862	indicative
 62869	indicative
@@ -14874,7 +16157,9 @@ participle
 indicative
 62936	participle
 62940	indicative
+subjunctive
 62945	indicative
+62948	indicative
 62950	participle
 62955	indicative
 62961	indicative
@@ -14893,6 +16178,7 @@ indicative
 indicative
 63008	participle
 63012	indicative
+indicative
 63015	participle
 63019	indicative
 63024	indicative
@@ -14936,6 +16222,7 @@ indicative
 63222	indicative
 63225	imperative
 63234	indicative
+63238	indicative
 63243	participle
 63249	indicative
 63251	subjunctive
@@ -14949,6 +16236,7 @@ indicative
 indicative
 63281	participle
 63284	indicative
+63290	indicative
 63292	indicative
 63295	subjunctive
 63304	indicative
@@ -14976,6 +16264,7 @@ indicative
 63398	indicative
 63404	indicative
 indicative
+indicative
 63408	indicative
 63412	indicative
 63418	participle
@@ -14996,10 +16285,12 @@ indicative
 63497	participle
 63502	indicative
 participle
+indicative
 63513	indicative
 63516	indicative
 63527	indicative
 63531	participle
+indicative
 63536	indicative
 63539	participle
 63543	indicative
@@ -15011,9 +16302,12 @@ participle
 63572	indicative
 63574	indicative
 63583	indicative
+indicative
 63587	indicative
+63591	imperative
 63596	indicative
 63601	indicative
+63603	indicative
 63607	participle
 indicative
 participle
@@ -15021,14 +16315,17 @@ participle
 indicative
 63620	participle
 63623	indicative
+indicative
 63628	indicative
 63631	participle
 63636	indicative
 63645	participle
 imperative
 63648	participle
+indicative
 63654	indicative
 63660	participle
+63662	indicative
 63666	indicative
 63668	indicative
 63671	indicative
@@ -15036,8 +16333,10 @@ imperative
 63679	infinitive
 indicative
 63689	indicative
-63694	participle
+63693	subjunctive
+participle
 63697	indicative
+indicative
 indicative
 63703	indicative
 63708	participle
@@ -15050,6 +16349,8 @@ indicative
 63742	indicative
 63745	participle
 indicative
+indicative
+63749	subjunctive
 63751	indicative
 63754	participle
 63757	indicative
@@ -15083,6 +16384,7 @@ indicative
 63867	indicative
 63875	indicative
 63879	indicative
+indicative
 63884	indicative
 63890	participle
 indicative
@@ -15109,19 +16411,23 @@ indicative
 63970	indicative
 63974	subjunctive
 63984	subjunctive
+63988	indicative
 63994	subjunctive
+63998	indicative
 64004	subjunctive
 64010	indicative
 subjunctive
 64019	indicative
 64024	participle
 64026	indicative
+indicative
 64031	indicative
 64035	indicative
 64038	imperative
 64044	imperative
 64049	imperative
 64054	imperative
+indicative
 64061	imperative
 64063	imperative
 64065	indicative
@@ -15131,7 +16437,9 @@ subjunctive
 64084	indicative
 64088	participle
 64090	participle
+64095	imperative
 64097	indicative
+64100	indicative
 64105	indicative
 participle
 64113	indicative
@@ -15142,6 +16450,7 @@ participle
 64136	indicative
 64147	indicative
 64150	indicative
+imperative
 64157	participle
 64171	subjunctive
 64177	indicative
@@ -15151,9 +16460,11 @@ indicative
 64185	indicative
 64190	indicative
 64192	indicative
+indicative
 64201	indicative
 64206	participle
 indicative
+64209	indicative
 64214	indicative
 64219	indicative
 indicative
@@ -15161,6 +16472,7 @@ indicative
 indicative
 64234	indicative
 64236	imperative
+indicative
 64246	indicative
 indicative
 64252	infinitive
@@ -15173,12 +16485,14 @@ indicative
 64283	indicative
 indicative
 64288	indicative
+64290	indicative
 64295	subjunctive
 64299	indicative
 64302	indicative
 64307	imperative
 64312	participle
 64319	indicative
+indicative
 64323	indicative
 64325	participle
 64328	participle
@@ -15187,6 +16501,7 @@ indicative
 64340	indicative
 64342	indicative
 64346	indicative
+64349	indicative
 64357	participle
 64360	participle
 64362	indicative
@@ -15260,6 +16575,7 @@ infinitive
 64593	indicative
 64599	imperative
 indicative
+64605	indicative
 64613	indicative
 64615	indicative
 64622	indicative
@@ -15272,6 +16588,7 @@ infinitive
 64646	indicative
 64652	indicative
 indicative
+64656	imperative
 64659	indicative
 64664	subjunctive
 64666	participle
@@ -15279,6 +16596,7 @@ indicative
 64672	infinitive
 64674	participle
 64680	indicative
+64683	subjunctive
 64686	indicative
 64689	infinitive
 64692	infinitive
@@ -15304,6 +16622,7 @@ indicative
 64781	indicative
 64786	indicative
 infinitive
+64789	indicative
 64794	indicative
 64799	imperative
 64802	participle
@@ -15314,20 +16633,26 @@ participle
 64835	indicative
 64843	participle
 indicative
+indicative
 64848	participle
 64851	imperative
 64854	indicative
 64861	indicative
 64865	indicative
 participle
+indicative
+64877	indicative
 64881	indicative
 64884	indicative
 64886	participle
+indicative
 64891	indicative
+indicative
 64897	participle
 64900	indicative
 64904	participle
 64908	indicative
+indicative
 64912	indicative
 64914	indicative
 participle
@@ -15336,6 +16661,7 @@ participle
 64965	participle
 64971	indicative
 indicative
+64981	participle
 64984	indicative
 infinitive
 64989	indicative
@@ -15373,11 +16699,13 @@ indicative
 65147	infinitive
 65157	indicative
 65159	infinitive
+indicative
 65164	participle
 65166	indicative
 65170	indicative
 65184	infinitive
 65189	indicative
+65191	imperative
 65196	indicative
 65203	participle
 65207	indicative
@@ -15392,6 +16720,7 @@ infinitive
 65240	indicative
 infinitive
 65243	indicative
+65245	indicative
 65247	participle
 65258	participle
 65263	indicative
@@ -15442,13 +16771,18 @@ indicative
 65479	indicative
 65485	indicative
 65487	indicative
+65492	subjunctive
+65498	subjunctive
 65507	indicative
+indicative
+65513	indicative
 65516	infinitive
 65524	indicative
 65528	subjunctive
 65532	indicative
 65535	imperative
 65543	participle
+65547	indicative
 65555	indicative
 65565	indicative
 65568	participle
@@ -15459,12 +16793,15 @@ participle
 65591	indicative
 65593	infinitive
 65599	indicative
+indicative
 65602	indicative
+65605	indicative
 65613	indicative
 65616	subjunctive
 65619	indicative
 65624	indicative
 65634	indicative
+65643	indicative
 65646	indicative
 65650	infinitive
 65652	indicative
@@ -15480,6 +16817,7 @@ infinitive
 65707	infinitive
 65712	participle
 indicative
+65722	indicative
 65728	indicative
 65733	indicative
 65739	indicative
@@ -15489,6 +16827,7 @@ indicative
 65763	indicative
 65765	indicative
 65769	indicative
+indicative
 65773	indicative
 65776	indicative
 65781	imperative
@@ -15502,7 +16841,9 @@ participle
 65831	subjunctive
 65838	imperative
 65840	imperative
+65848	indicative
 65862	indicative
+65872	indicative
 65876	subjunctive
 65885	indicative
 65887	indicative
@@ -15528,20 +16869,25 @@ subjunctive
 66004	indicative
 66006	participle
 66016	indicative
+indicative
 66035	participle
 indicative
 66038	indicative
 66047	participle
 66050	infinitive
 66054	participle
+indicative
 66059	participle
 66063	participle
 infinitive
+indicative
 66068	indicative
 66070	infinitive
 participle
+66074	indicative
 66079	indicative
 imperative
+indicative
 66085	indicative
 66087	participle
 66091	infinitive
@@ -15557,6 +16903,7 @@ indicative
 indicative
 66136	indicative
 66138	indicative
+66141	indicative
 66144	participle
 66146	participle
 66148	participle
@@ -15574,7 +16921,9 @@ indicative
 66209	participle
 66213	indicative
 66220	indicative
+66223	indicative
 66226	indicative
+66230	indicative
 66232	participle
 66234	infinitive
 66248	indicative
@@ -15614,6 +16963,7 @@ indicative
 66427	indicative
 66432	subjunctive
 66436	indicative
+66449	indicative
 66451	indicative
 66453	indicative
 66458	indicative
@@ -15632,6 +16982,8 @@ imperative
 66534	infinitive
 66544	indicative
 66549	indicative
+indicative
+66552	indicative
 66555	indicative
 66562	participle
 66565	indicative
@@ -15641,6 +16993,7 @@ imperative
 66603	indicative
 66608	participle
 66613	indicative
+66617	indicative
 66621	indicative
 66626	participle
 66629	indicative
@@ -15650,9 +17003,11 @@ imperative
 66668	indicative
 66672	indicative
 66678	indicative
+indicative
 66683	indicative
 66687	participle
 66693	participle
+indicative
 66699	indicative
 66701	optative
 66708	indicative
@@ -15671,6 +17026,7 @@ indicative
 66757	indicative
 infinitive
 participle
+66762	subjunctive
 66765	infinitive
 indicative
 66769	participle
@@ -15680,16 +17036,20 @@ indicative
 66790	indicative
 infinitive
 66797	subjunctive
+indicative
 66801	subjunctive
 66804	infinitive
 66812	participle
 66814	indicative
+imperative
 66817	infinitive
 66819	infinitive
 66830	participle
 indicative
 66836	indicative
+indicative
 66841	infinitive
+66843	indicative
 66846	imperative
 66848	indicative
 66854	indicative
@@ -15724,6 +17084,7 @@ infinitive
 67025	imperative
 67032	infinitive
 67040	infinitive
+67042	indicative
 67048	infinitive
 67058	participle
 67060	indicative
@@ -15742,6 +17103,7 @@ infinitive
 67109	indicative
 67122	indicative
 67130	indicative
+67137	indicative
 67139	indicative
 participle
 indicative
@@ -15810,6 +17172,7 @@ infinitive
 67428	indicative
 67434	indicative
 participle
+67445	indicative
 67448	infinitive
 67452	infinitive
 67458	participle
@@ -15831,11 +17194,13 @@ imperative
 imperative
 67543	participle
 67545	indicative
+67549	indicative
 67553	indicative
 participle
 67562	indicative
 67566	participle
 67573	indicative
+indicative
 67577	infinitive
 67581	participle
 67584	indicative
@@ -15876,6 +17241,7 @@ infinitive
 67721	indicative
 infinitive
 indicative
+67726	indicative
 67733	indicative
 67737	indicative
 participle
@@ -15890,6 +17256,7 @@ indicative
 infinitive
 67786	participle
 67800	indicative
+subjunctive
 67805	infinitive
 indicative
 67812	imperative
@@ -15903,8 +17270,10 @@ infinitive
 67843	indicative
 67845	indicative
 67847	indicative
+indicative
 67852	indicative
 67862	indicative
+67864	subjunctive
 67867	indicative
 67871	indicative
 67873	indicative
@@ -15912,6 +17281,7 @@ infinitive
 67879	imperative
 67885	imperative
 67889	subjunctive
+67895	indicative
 67899	indicative
 67904	indicative
 67906	indicative
@@ -15944,8 +17314,10 @@ participle
 68022	indicative
 68036	indicative
 68038	indicative
+68041	indicative
 68046	indicative
 68069	indicative
+indicative
 68074	participle
 indicative
 68084	indicative
@@ -15961,10 +17333,12 @@ infinitive
 68153	participle
 68155	indicative
 68157	participle
+68160	indicative
 68165	indicative
 68176	participle
 indicative
 68180	indicative
+indicative
 68184	indicative
 68188	participle
 68193	indicative
@@ -15975,6 +17349,7 @@ participle
 68218	indicative
 68222	indicative
 68226	participle
+indicative
 68231	participle
 68235	indicative
 68242	indicative
@@ -15983,18 +17358,23 @@ participle
 68257	imperative
 68262	indicative
 68267	participle
-68273	infinitive
+68272	indicative
+infinitive
 68278	indicative
 68281	imperative
+68292	indicative
 68298	indicative
 68300	participle
 68304	indicative
 68310	infinitive
 68314	indicative
+68316	indicative
+68320	indicative
 68324	indicative
 68327	indicative
 68336	indicative
 infinitive
+68339	indicative
 68349	participle
 68352	indicative
 68358	indicative
@@ -16010,6 +17390,7 @@ indicative
 68406	indicative
 68424	participle
 68427	indicative
+indicative
 68431	indicative
 68437	indicative
 68445	indicative
@@ -16021,6 +17402,7 @@ indicative
 68479	indicative
 68484	participle
 68487	participle
+68489	indicative
 68491	indicative
 68500	indicative
 68507	indicative
@@ -16029,8 +17411,10 @@ indicative
 68516	indicative
 68522	participle
 68530	indicative
+68532	indicative
 68535	indicative
 68542	indicative
+indicative
 68546	indicative
 68551	indicative
 68569	indicative
@@ -16041,6 +17425,7 @@ indicative
 68594	participle
 68598	indicative
 68602	infinitive
+68607	indicative
 68610	infinitive
 68614	indicative
 68617	indicative
@@ -16050,6 +17435,7 @@ indicative
 68633	indicative
 68637	indicative
 68639	indicative
+68642	indicative
 68645	indicative
 68650	indicative
 68660	indicative
@@ -16069,16 +17455,19 @@ participle
 68711	indicative
 68713	participle
 68715	indicative
+68717	indicative
 68719	participle
 68722	indicative
 68725	indicative
 68729	participle
-68732	indicative
+68731	participle
+indicative
 68734	participle
 68737	indicative
 68744	infinitive
 68747	indicative
 68750	indicative
+indicative
 68754	indicative
 68762	indicative
 participle
@@ -16103,6 +17492,7 @@ indicative
 68858	indicative
 infinitive
 68864	subjunctive
+68866	indicative
 68872	indicative
 participle
 68876	indicative
@@ -16124,6 +17514,7 @@ infinitive
 68975	imperative
 indicative
 68978	indicative
+68983	indicative
 68985	participle
 68988	imperative
 68992	indicative
@@ -16153,6 +17544,7 @@ infinitive
 participle
 69121	indicative
 69134	indicative
+69136	indicative
 69140	indicative
 infinitive
 69148	indicative
@@ -16160,6 +17552,7 @@ infinitive
 69161	indicative
 69175	indicative
 69177	indicative
+69179	indicative
 69189	indicative
 69205	indicative
 69216	indicative
@@ -16167,12 +17560,14 @@ infinitive
 69223	participle
 69235	indicative
 69237	indicative
+69240	indicative
 69245	indicative
 participle
 69249	indicative
 69254	indicative
 69259	participle
 69264	participle
+indicative
 69268	indicative
 69273	participle
 69279	indicative
@@ -16183,6 +17578,7 @@ indicative
 69299	indicative
 69304	indicative
 69309	participle
+subjunctive
 69313	indicative
 69317	indicative
 69325	participle
@@ -16206,10 +17602,12 @@ participle
 69412	participle
 participle
 69418	indicative
+indicative
 69424	participle
 indicative
 participle
 69431	participle
+indicative
 69437	indicative
 69441	indicative
 69446	participle
@@ -16253,6 +17651,7 @@ indicative
 69610	participle
 69613	participle
 indicative
+indicative
 69622	indicative
 69628	indicative
 69631	participle
@@ -16264,6 +17663,7 @@ imperative
 69661	subjunctive
 69666	indicative
 69674	optative
+indicative
 69682	indicative
 69685	infinitive
 69687	indicative
@@ -16271,6 +17671,7 @@ imperative
 69706	imperative
 69714	imperative
 69719	indicative
+69726	indicative
 69733	indicative
 69735	participle
 participle
@@ -16281,12 +17682,14 @@ subjunctive
 69758	participle
 69760	participle
 69765	indicative
+indicative
 69773	indicative
 69777	indicative
 69780	participle
 imperative
 69783	imperative
 69790	participle
+69793	indicative
 69796	indicative
 69799	participle
 indicative
@@ -16294,6 +17697,7 @@ indicative
 69811	indicative
 69818	indicative
 participle
+indicative
 69822	indicative
 69824	participle
 69826	participle
@@ -16326,6 +17730,7 @@ indicative
 69939	indicative
 indicative
 69946	indicative
+69950	indicative
 69954	participle
 69962	participle
 69973	indicative
@@ -16337,6 +17742,7 @@ indicative
 69992	indicative
 infinitive
 69997	indicative
+69999	indicative
 70009	indicative
 70013	indicative
 70019	indicative
@@ -16344,17 +17750,22 @@ infinitive
 70029	indicative
 70034	participle
 70037	indicative
+indicative
 70041	participle
 indicative
 70045	participle
 70048	infinitive
+70050	indicative
 70056	participle
+70060	indicative
 70065	participle
 70068	indicative
+70072	indicative
 70080	subjunctive
 70083	participle
 70088	participle
 subjunctive
+indicative
 70095	infinitive
 indicative
 70104	indicative
@@ -16369,6 +17780,7 @@ indicative
 imperative
 imperative
 70139	imperative
+indicative
 70144	indicative
 70149	indicative
 infinitive
@@ -16381,6 +17793,7 @@ indicative
 70178	indicative
 participle
 70182	indicative
+indicative
 70186	indicative
 70188	indicative
 70190	participle
@@ -16410,11 +17823,13 @@ indicative
 70294	imperative
 70298	indicative
 70302	infinitive
+70306	indicative
 70316	indicative
 70319	indicative
 70325	infinitive
 indicative
 70330	indicative
+indicative
 70335	participle
 70340	indicative
 70345	indicative
@@ -16436,7 +17851,9 @@ indicative
 70410	indicative
 70413	indicative
 70415	participle
+indicative
 70419	participle
+70425	indicative
 70427	indicative
 70429	participle
 70431	subjunctive
@@ -16454,6 +17871,7 @@ participle
 70490	indicative
 70492	participle
 70495	participle
+70497	indicative
 70499	indicative
 infinitive
 70505	indicative
@@ -16468,6 +17886,7 @@ infinitive
 70544	indicative
 70547	participle
 70549	participle
+indicative
 70552	participle
 70558	indicative
 70561	indicative
@@ -16475,7 +17894,9 @@ infinitive
 infinitive
 70570	participle
 70574	indicative
+70576	indicative
 70579	indicative
+70581	indicative
 70583	indicative
 70595	indicative
 70597	participle
@@ -16486,6 +17907,7 @@ indicative
 70617	infinitive
 70623	participle
 70625	indicative
+70627	indicative
 70635	participle
 70639	indicative
 participle
@@ -16517,6 +17939,7 @@ infinitive
 70736	indicative
 70739	participle
 indicative
+indicative
 70745	indicative
 70747	imperative
 70750	participle
@@ -16524,6 +17947,7 @@ indicative
 70757	indicative
 70760	participle
 70763	participle
+70765	subjunctive
 70770	participle
 70773	indicative
 70775	participle
@@ -16555,7 +17979,9 @@ indicative
 70896	indicative
 70898	indicative
 70908	indicative
+indicative
 70916	imperative
+70918	indicative
 70921	imperative
 70925	indicative
 70928	indicative
@@ -16566,7 +17992,9 @@ indicative
 70954	participle
 70957	participle
 70960	indicative
-70968	participle
+70962	indicative
+70967	indicative
+participle
 70974	indicative
 70979	infinitive
 70983	indicative
@@ -16588,6 +18016,7 @@ participle
 71061	indicative
 71064	imperative
 71067	indicative
+71075	indicative
 71082	indicative
 71087	optative
 71091	indicative
@@ -16620,13 +18049,17 @@ imperative
 71176	participle
 71184	indicative
 71188	infinitive
+71190	indicative
 71195	infinitive
 71199	participle
 71202	indicative
-71206	participle
+71205	indicative
+participle
 indicative
 71217	indicative
-71222	indicative
+71221	indicative
+indicative
+indicative
 71229	indicative
 participle
 71232	participle
@@ -16647,8 +18080,10 @@ participle
 71281	indicative
 71284	indicative
 71287	infinitive
-71289	infinitive
+indicative
+infinitive
 71294	indicative
+71297	indicative
 71299	infinitive
 71304	indicative
 participle
@@ -16659,16 +18094,21 @@ indicative
 71326	participle
 71332	imperative
 71334	indicative
+indicative
 71341	indicative
 71343	indicative
 71351	indicative
+indicative
 71355	imperative
+71357	indicative
 71360	imperative
 71363	indicative
 71366	indicative
+71373	indicative
 71375	indicative
 71381	indicative
 participle
+71387	indicative
 71390	indicative
 infinitive
 71394	participle
@@ -16712,6 +18152,7 @@ participle
 71572	indicative
 71575	infinitive
 71582	participle
+indicative
 71586	participle
 71592	indicative
 71600	participle
@@ -16734,6 +18175,7 @@ infinitive
 71678	participle
 71686	indicative
 71693	indicative
+71695	indicative
 71697	indicative
 71703	participle
 71705	indicative
@@ -16741,13 +18183,15 @@ infinitive
 71711	indicative
 71713	participle
 71716	indicative
-71719	participle
+71718	indicative
+participle
 71721	indicative
 71725	participle
 71727	indicative
 71731	participle
 71739	participle
 71744	indicative
+71747	indicative
 71749	participle
 indicative
 71752	indicative
@@ -16757,14 +18201,18 @@ indicative
 71776	imperative
 71778	imperative
 indicative
+71785	indicative
 71788	indicative
+indicative
 71793	indicative
 71804	indicative
 71807	imperative
 71810	indicative
 71814	indicative
+71817	indicative
 71821	imperative
-71823	indicative
+indicative
+indicative
 71825	indicative
 71831	indicative
 participle
@@ -16773,11 +18221,13 @@ participle
 71845	participle
 indicative
 71856	indicative
+indicative
 71862	indicative
 71866	indicative
 71873	participle
 71875	participle
 imperative
+indicative
 71880	imperative
 71883	participle
 71886	indicative
@@ -16797,6 +18247,7 @@ indicative
 71964	indicative
 71966	indicative
 71969	participle
+71978	indicative
 71980	indicative
 71984	participle
 71989	participle
@@ -16804,12 +18255,14 @@ indicative
 72000	participle
 72007	indicative
 72017	participle
+indicative
 72020	indicative
 72025	participle
 72030	indicative
 72039	participle
 indicative
 72044	indicative
+72048	indicative
 72054	participle
 72060	indicative
 72065	participle
@@ -16820,8 +18273,10 @@ indicative
 72085	indicative
 72095	indicative
 72100	indicative
+72102	indicative
 72104	infinitive
 72107	participle
+indicative
 indicative
 72111	indicative
 72117	infinitive
@@ -16829,6 +18284,7 @@ indicative
 72124	participle
 infinitive
 72138	indicative
+72142	indicative
 72144	participle
 72146	participle
 72151	indicative
@@ -16837,6 +18293,7 @@ infinitive
 72164	indicative
 72171	indicative
 72173	indicative
+72176	indicative
 72178	infinitive
 72180	participle
 72187	indicative
@@ -16850,6 +18307,7 @@ participle
 infinitive
 72232	indicative
 72239	participle
+indicative
 indicative
 72243	participle
 72247	infinitive
@@ -16890,6 +18348,7 @@ indicative
 participle
 72386	indicative
 72393	participle
+indicative
 72399	indicative
 72402	participle
 indicative
@@ -16931,6 +18390,7 @@ indicative
 72545	imperative
 72552	participle
 indicative
+indicative
 72557	participle
 72560	indicative
 72571	indicative
@@ -16940,6 +18400,7 @@ participle
 72582	indicative
 infinitive
 72585	participle
+72589	indicative
 72591	indicative
 indicative
 72594	participle
@@ -16967,6 +18428,8 @@ indicative
 72725	participle
 indicative
 72731	imperative
+imperative
+72738	indicative
 72742	indicative
 72745	participle
 72747	participle
@@ -16974,7 +18437,9 @@ indicative
 72753	indicative
 72757	participle
 72762	indicative
+indicative
 72767	indicative
+indicative
 72771	participle
 72774	indicative
 72784	indicative
@@ -16990,7 +18455,9 @@ infinitive
 infinitive
 72849	participle
 72852	participle
+indicative
 72855	indicative
+subjunctive
 72869	indicative
 participle
 72879	imperative
@@ -17005,11 +18472,15 @@ indicative
 participle
 72918	participle
 72926	indicative
+indicative
 72933	participle
 72936	indicative
+indicative
 72941	participle
 72945	indicative
+indicative
 72951	participle
+indicative
 72959	indicative
 72969	indicative
 72974	participle
@@ -17032,6 +18503,7 @@ participle
 73076	indicative
 73084	participle
 73086	indicative
+73090	indicative
 73094	indicative
 participle
 indicative
@@ -17061,9 +18533,11 @@ indicative
 73224	participle
 participle
 73229	indicative
+indicative
 73235	indicative
 73240	indicative
 73245	participle
+73250	indicative
 73254	indicative
 73263	indicative
 73269	participle
@@ -17075,6 +18549,7 @@ participle
 73298	indicative
 73303	participle
 infinitive
+indicative
 73308	indicative
 73310	indicative
 73321	indicative
@@ -17103,6 +18578,7 @@ imperative
 73417	subjunctive
 73419	participle
 73422	indicative
+indicative
 73427	infinitive
 73432	participle
 73436	indicative
@@ -17128,15 +18604,19 @@ participle
 73511	indicative
 73516	imperative
 indicative
+indicative
 73523	indicative
 73527	indicative
+73529	indicative
 73533	infinitive
+73535	indicative
 73541	participle
 73545	indicative
 73547	indicative
 73553	indicative
 73555	indicative
 participle
+indicative
 73560	indicative
 73573	indicative
 73575	participle
@@ -17144,9 +18624,11 @@ participle
 73593	indicative
 73601	participle
 73608	indicative
+indicative
 73614	indicative
 73619	indicative
 73626	infinitive
+73628	indicative
 73634	infinitive
 73637	infinitive
 73646	participle
@@ -17165,7 +18647,9 @@ participle
 73717	infinitive
 73719	participle
 indicative
-73733	participle
+indicative
+73732	indicative
+participle
 indicative
 73743	indicative
 73751	indicative
@@ -17195,6 +18679,7 @@ infinitive
 participle
 73845	participle
 73849	indicative
+indicative
 73853	participle
 73855	participle
 73859	indicative
@@ -17217,31 +18702,44 @@ participle
 73943	participle
 73947	participle
 73950	indicative
+subjunctive
 73954	participle
 73956	infinitive
 participle
 73962	participle
 indicative
-73970	indicative
+indicative
+73969	indicative
+indicative
+73974	indicative
 73976	participle
 73982	participle
 73984	indicative
+indicative
+73989	indicative
+73992	indicative
 73994	participle
 73999	participle
 infinitive
 74008	indicative
 74010	infinitive
+indicative
 74016	participle
 74022	participle
 74025	indicative
+74029	indicative
 74031	indicative
 74033	participle
 74036	indicative
+indicative
 74041	participle
 74046	indicative
+indicative
 74050	indicative
+indicative
 74054	indicative
 participle
+74060	indicative
 74064	indicative
 participle
 74068	participle
@@ -17258,11 +18756,13 @@ participle
 74127	indicative
 infinitive
 74134	indicative
+74142	indicative
 74151	participle
 74155	indicative
 74161	participle
 74167	indicative
 74173	participle
+74175	indicative
 74177	indicative
 74187	indicative
 74192	indicative
@@ -17328,6 +18828,7 @@ infinitive
 74479	indicative
 74489	participle
 74493	infinitive
+indicative
 74503	participle
 74508	participle
 74512	participle
@@ -17352,6 +18853,7 @@ indicative
 imperative
 74627	participle
 indicative
+indicative
 74632	participle
 74635	indicative
 74638	participle
@@ -17367,7 +18869,8 @@ participle
 74682	participle
 74695	indicative
 74699	participle
-74701	subjunctive
+imperative
+subjunctive
 74706	participle
 74709	indicative
 74715	indicative
@@ -17376,18 +18879,23 @@ participle
 74728	indicative
 74730	participle
 74737	participle
+74739	indicative
 74745	indicative
 74749	infinitive
 74756	participle
 74759	infinitive
+indicative
 74764	participle
 74766	indicative
 participle
 74775	indicative
 74781	participle
 74784	indicative
+74787	indicative
+74790	indicative
 74793	imperative
 74796	indicative
+indicative
 74808	indicative
 74817	indicative
 74822	infinitive
@@ -17407,31 +18915,39 @@ indicative
 74890	infinitive
 74896	participle
 74901	indicative
+indicative
 74905	infinitive
 74908	indicative
 74913	participle
 74917	indicative
+indicative
 74926	indicative
 74930	indicative
 participle
 74933	participle
 74936	participle
 participle
+indicative
 74940	imperative
 74946	indicative
 74948	indicative
 infinitive
+indicative
 74952	participle
 74954	indicative
 74958	infinitive
 74960	participle
 74964	indicative
+indicative
 74969	participle
-74971	participle
+indicative
+participle
+74974	indicative
 74977	indicative
 74984	indicative
 74990	participle
 74998	indicative
+subjunctive
 75005	indicative
 75007	infinitive
 75009	participle
@@ -17448,10 +18964,12 @@ participle
 75047	indicative
 75052	infinitive
 participle
+indicative
 75058	imperative
 75060	indicative
 75062	indicative
 75064	participle
+75066	indicative
 75071	participle
 75074	infinitive
 75079	indicative
@@ -17472,6 +18990,7 @@ indicative
 75140	indicative
 75146	participle
 75152	indicative
+indicative
 75160	participle
 75164	indicative
 75168	indicative
@@ -17487,11 +19006,14 @@ indicative
 infinitive
 75203	participle
 75206	indicative
+indicative
 75209	participle
 75213	infinitive
 75218	participle
 indicative
+75221	indicative
 75228	indicative
+75230	indicative
 75240	participle
 indicative
 75244	indicative
@@ -17517,7 +19039,8 @@ infinitive
 75313	participle
 indicative
 75320	participle
-75323	indicative
+75322	subjunctive
+indicative
 75327	indicative
 infinitive
 75330	subjunctive
@@ -17529,6 +19052,7 @@ imperative
 75369	indicative
 75374	indicative
 75381	participle
+75384	indicative
 75387	indicative
 75390	indicative
 75392	participle
@@ -17543,6 +19067,7 @@ imperative
 75433	indicative
 75436	participle
 75442	participle
+indicative
 indicative
 75450	indicative
 75453	imperative
@@ -17563,6 +19088,7 @@ indicative
 75499	indicative
 participle
 75507	indicative
+indicative
 75511	indicative
 75518	participle
 75521	indicative
@@ -17584,6 +19110,7 @@ indicative
 75598	participle
 75602	indicative
 75604	infinitive
+indicative
 75609	participle
 75612	indicative
 75620	participle
@@ -17599,7 +19126,9 @@ infinitive
 75658	participle
 75665	indicative
 75673	indicative
+75680	indicative
 75683	participle
+indicative
 75689	indicative
 75692	indicative
 75698	indicative
@@ -17610,11 +19139,13 @@ infinitive
 75732	indicative
 75743	indicative
 75751	indicative
-75753	participle
+indicative
+participle
 75755	participle
 75763	indicative
 75766	infinitive
 75771	indicative
+75779	indicative
 75782	participle
 75785	indicative
 75789	participle
@@ -17643,14 +19174,18 @@ infinitive
 75896	participle
 75898	participle
 75901	indicative
+indicative
 75906	indicative
 75908	infinitive
 75910	indicative
 75912	infinitive
 75918	participle
+75920	indicative
 75923	indicative
-75925	infinitive
-75928	infinitive
+indicative
+infinitive
+75927	indicative
+infinitive
 75931	participle
 75939	indicative
 75947	indicative
@@ -17683,6 +19218,8 @@ participle
 76073	participle
 76077	indicative
 infinitive
+76080	indicative
+76082	indicative
 76090	participle
 infinitive
 76099	participle
@@ -17703,6 +19240,7 @@ indicative
 76160	indicative
 76177	participle
 76181	indicative
+indicative
 76185	participle
 76194	participle
 76204	infinitive
@@ -17722,9 +19260,11 @@ indicative
 76271	participle
 participle
 76275	indicative
+76290	indicative
 76293	indicative
 76295	participle
 76297	indicative
+indicative
 76304	participle
 76310	indicative
 participle
@@ -17753,6 +19293,8 @@ imperative
 76419	infinitive
 76422	indicative
 76430	indicative
+76433	indicative
+76436	subjunctive
 76441	indicative
 76446	indicative
 76456	indicative
@@ -17765,11 +19307,14 @@ infinitive
 76490	participle
 76495	participle
 indicative
+indicative
 76506	participle
 76511	indicative
 76514	indicative
+76516	indicative
 76519	indicative
 76523	participle
+indicative
 76527	indicative
 76530	participle
 76536	infinitive
@@ -17781,20 +19326,25 @@ participle
 76549	participle
 indicative
 76555	participle
+indicative
 76558	participle
 76560	participle
 76563	indicative
+indicative
 76567	participle
 76570	indicative
 participle
+indicative
 76578	participle
 76592	indicative
+indicative
 76596	participle
 76601	indicative
 participle
 76608	participle
 76611	indicative
 76613	indicative
+indicative
 76619	participle
 76626	indicative
 infinitive
@@ -17803,6 +19353,7 @@ infinitive
 76642	indicative
 76647	participle
 76650	infinitive
+indicative
 76654	participle
 76657	indicative
 76660	infinitive
@@ -17817,6 +19368,7 @@ indicative
 76691	infinitive
 76695	participle
 76699	infinitive
+indicative
 76703	infinitive
 76706	indicative
 76713	indicative
@@ -17824,22 +19376,28 @@ participle
 76724	indicative
 indicative
 indicative
+76728	indicative
 76731	indicative
 76734	indicative
+indicative
 76739	indicative
 76743	indicative
 76748	participle
+indicative
 76751	participle
 76755	subjunctive
 76757	indicative
+indicative
 76761	participle
 76763	indicative
+indicative
 76771	participle
 76776	indicative
 76783	indicative
 76787	indicative
 indicative
 76795	participle
+76797	indicative
 76800	indicative
 76803	indicative
 participle
@@ -17847,6 +19405,7 @@ participle
 76815	indicative
 76817	indicative
 participle
+76821	indicative
 76824	participle
 76827	indicative
 76832	participle
@@ -17857,6 +19416,7 @@ participle
 76865	indicative
 76874	participle
 infinitive
+76881	indicative
 76884	infinitive
 76894	infinitive
 indicative
@@ -17890,6 +19450,7 @@ participle
 77022	participle
 participle
 77026	indicative
+indicative
 77030	indicative
 77035	indicative
 77046	indicative
@@ -17898,13 +19459,17 @@ participle
 77053	indicative
 77059	participle
 77064	infinitive
+indicative
 77067	participle
 77071	infinitive
-77074	indicative
+77073	indicative
+indicative
 77078	infinitive
 participle
+77081	indicative
 77086	participle
 77092	indicative
+77094	indicative
 77097	indicative
 77114	participle
 77118	indicative
@@ -17922,8 +19487,10 @@ participle
 77167	indicative
 77172	participle
 77177	indicative
+77181	indicative
 77183	infinitive
 imperative
+77192	indicative
 77194	infinitive
 infinitive
 77198	infinitive
@@ -17934,14 +19501,17 @@ participle
 participle
 77223	indicative
 77228	indicative
+77231	indicative
 77234	participle
 77243	participle
 infinitive
+indicative
 77249	indicative
 77258	participle
 77261	participle
 77264	indicative
 77266	infinitive
+77268	indicative
 77271	subjunctive
 77276	indicative
 indicative
@@ -17989,14 +19559,17 @@ indicative
 participle
 indicative
 infinitive
+indicative
 77456	participle
 77462	participle
 77466	indicative
+indicative
 77470	participle
 77473	indicative
 participle
 77480	participle
 infinitive
+indicative
 77485	indicative
 77488	infinitive
 77491	indicative
@@ -18004,13 +19577,15 @@ infinitive
 indicative
 77521	indicative
 77530	indicative
+77533	indicative
 77540	indicative
 77549	participle
 77551	infinitive
 77555	indicative
 77557	participle
 infinitive
-77561	indicative
+77560	indicative
+indicative
 77567	indicative
 77575	indicative
 participle
@@ -18019,6 +19594,7 @@ participle
 77589	participle
 77594	participle
 77598	indicative
+77602	subjunctive
 77604	indicative
 77606	participle
 77610	indicative
@@ -18046,13 +19622,17 @@ indicative
 participle
 77670	infinitive
 77673	indicative
+77675	indicative
 77678	participle
 77680	indicative
+indicative
 77684	participle
 77686	participle
 indicative
 77693	indicative
+indicative
 77698	participle
+indicative
 indicative
 77702	indicative
 77706	infinitive
@@ -18061,12 +19641,15 @@ indicative
 77717	indicative
 77721	optative
 77727	infinitive
+indicative
 77734	participle
+indicative
 77737	indicative
 77744	indicative
 77747	indicative
 77750	indicative
 77756	indicative
+indicative
 77766	indicative
 participle
 77778	participle
@@ -18075,9 +19658,12 @@ participle
 77792	infinitive
 77795	infinitive
 77801	participle
+77807	indicative
+77812	indicative
 77819	imperative
 participle
 77824	indicative
+indicative
 77830	participle
 77833	participle
 infinitive
@@ -18105,11 +19691,13 @@ participle
 77946	indicative
 77953	indicative
 77955	indicative
+77962	indicative
 77965	participle
 77972	indicative
 77974	participle
 participle
 77977	infinitive
+77980	subjunctive
 77983	imperative
 participle
 77991	indicative
@@ -18119,6 +19707,8 @@ participle
 infinitive
 78014	infinitive
 78019	participle
+78022	indicative
+78024	indicative
 78027	indicative
 78029	indicative
 78036	participle
@@ -18132,7 +19722,8 @@ infinitive
 78062	indicative
 78064	indicative
 78066	infinitive
-78068	infinitive
+indicative
+infinitive
 78071	participle
 participle
 78079	indicative
@@ -18144,43 +19735,59 @@ participle
 78103	indicative
 78107	infinitive
 indicative
+78111	indicative
 78116	indicative
 infinitive
 78119	participle
 78122	participle
 indicative
+indicative
+78129	indicative
+indicative
+78134	indicative
 78137	participle
 78139	participle
+indicative
 78142	participle
 indicative
 participle
 78149	participle
 78152	indicative
+indicative
 78156	indicative
+indicative
 78163	indicative
 participle
 78167	participle
 78171	indicative
 78178	indicative
 78183	infinitive
+indicative
 78188	indicative
 infinitive
 78193	participle
 indicative
 participle
+78203	subjunctive
 78207	participle
 78213	participle
 indicative
 78217	indicative
+indicative
 78223	indicative
+indicative
 78227	indicative
 78231	participle
 78234	indicative
+indicative
 78238	participle
 78241	indicative
-78249	participle
+78248	indicative
+participle
+indicative
 indicative
 78254	participle
+indicative
 78261	participle
 78265	indicative
 78270	indicative
@@ -18195,9 +19802,11 @@ participle
 78314	indicative
 78319	indicative
 78325	indicative
+indicative
 78331	indicative
 78333	indicative
 78341	infinitive
+78343	indicative
 78346	indicative
 78350	indicative
 participle
@@ -18205,6 +19814,7 @@ participle
 78361	infinitive
 imperative
 78364	infinitive
+indicative
 78368	indicative
 78376	participle
 78379	indicative
@@ -18212,10 +19822,12 @@ participle
 78385	imperative
 78391	participle
 indicative
+indicative
 78395	indicative
 78404	participle
 78407	subjunctive
 78413	participle
+78416	indicative
 78419	indicative
 78425	participle
 indicative
@@ -18261,6 +19873,7 @@ infinitive
 78583	participle
 78587	participle
 indicative
+indicative
 78592	participle
 78601	indicative
 78610	indicative
@@ -18273,21 +19886,25 @@ indicative
 78640	indicative
 78656	participle
 78661	indicative
+indicative
 78666	indicative
 78671	indicative
 78673	participle
 78676	participle
 78683	indicative
+78685	indicative
 78688	indicative
 78691	indicative
 78697	indicative
 78702	participle
 78705	indicative
+78707	subjunctive
 78712	indicative
 78715	participle
 78718	infinitive
 indicative
-78731	participle
+78730	indicative
+participle
 78735	indicative
 78740	participle
 78746	indicative
@@ -18306,6 +19923,7 @@ subjunctive
 78781	infinitive
 78787	indicative
 infinitive
+78790	indicative
 78795	indicative
 78799	indicative
 infinitive
@@ -18314,6 +19932,7 @@ infinitive
 imperative
 78819	participle
 78821	infinitive
+indicative
 78827	indicative
 78831	indicative
 78833	infinitive
@@ -18322,6 +19941,7 @@ imperative
 78845	indicative
 78853	participle
 78855	participle
+indicative
 78864	indicative
 78871	indicative
 78880	indicative
@@ -18347,18 +19967,22 @@ indicative
 78974	indicative
 78977	participle
 78979	participle
+indicative
 78990	indicative
 79000	participle
+79004	indicative
 79006	indicative
 participle
 79011	participle
 participle
+indicative
 79016	subjunctive
 indicative
 79020	participle
 79031	infinitive
 79033	participle
 79036	indicative
+79038	indicative
 79042	indicative
 79044	participle
 79050	indicative
@@ -18376,6 +20000,8 @@ indicative
 79094	indicative
 79097	participle
 imperative
+indicative
+79101	indicative
 79103	indicative
 79107	indicative
 79109	infinitive
@@ -18383,6 +20009,7 @@ imperative
 79120	participle
 79123	participle
 79125	indicative
+indicative
 79136	participle
 79140	participle
 79142	participle
@@ -18390,6 +20017,7 @@ imperative
 indicative
 79151	imperative
 79156	indicative
+indicative
 79161	indicative
 79167	indicative
 79169	infinitive
@@ -18405,6 +20033,7 @@ imperative
 79206	participle
 79210	indicative
 79213	participle
+indicative
 79217	participle
 79222	infinitive
 79227	infinitive
@@ -18425,6 +20054,7 @@ participle
 79283	participle
 79286	indicative
 79289	imperative
+79292	indicative
 79295	indicative
 79297	indicative
 79305	indicative
@@ -18435,8 +20065,10 @@ imperative
 participle
 79325	participle
 79330	participle
+indicative
 79334	indicative
 79337	infinitive
+79339	indicative
 79342	participle
 79344	infinitive
 79347	subjunctive
@@ -18470,7 +20102,8 @@ participle
 79444	indicative
 79448	indicative
 participle
-79453	participle
+79452	indicative
+participle
 infinitive
 79459	indicative
 79463	indicative
@@ -18478,6 +20111,7 @@ infinitive
 infinitive
 79475	participle
 79478	indicative
+indicative
 79481	participle
 79487	indicative
 79494	indicative
@@ -18520,6 +20154,7 @@ indicative
 participle
 79645	indicative
 79653	indicative
+79655	indicative
 79659	participle
 79661	participle
 79665	subjunctive
@@ -18527,12 +20162,15 @@ participle
 79673	participle
 infinitive
 79679	infinitive
+79681	indicative
 79686	participle
 79688	participle
 79692	indicative
 imperative
 79696	indicative
+79700	indicative
 79704	indicative
+79706	indicative
 79708	infinitive
 participle
 79712	participle
@@ -18550,6 +20188,7 @@ participle
 79752	subjunctive
 79758	imperative
 79765	subjunctive
+79767	indicative
 79770	participle
 infinitive
 79783	indicative
@@ -18557,6 +20196,7 @@ infinitive
 79787	participle
 79796	participle
 79798	participle
+indicative
 79802	indicative
 79805	participle
 79812	indicative
@@ -18582,6 +20222,7 @@ infinitive
 79875	indicative
 79877	infinitive
 79883	subjunctive
+indicative
 79888	participle
 79891	infinitive
 79897	subjunctive
@@ -18616,22 +20257,30 @@ participle
 80015	infinitive
 80020	indicative
 80022	indicative
+indicative
 80028	indicative
 participle
 80037	participle
+80039	indicative
 80041	participle
 80043	participle
+80047	indicative
 80050	infinitive
-80052	indicative
+indicative
+indicative
 80055	participle
 80059	infinitive
 80070	participle
 80072	participle
 80075	indicative
-80084	participle
+80078	indicative
+80083	indicative
+participle
 80087	infinitive
 80090	indicative
+indicative
 80095	participle
+indicative
 80100	participle
 80105	indicative
 80110	participle
@@ -18680,8 +20329,10 @@ participle
 80293	indicative
 80299	indicative
 participle
+indicative
 80308	indicative
 80312	participle
+indicative
 80315	participle
 80326	infinitive
 indicative
@@ -18692,12 +20343,14 @@ indicative
 80350	participle
 80361	participle
 80363	participle
+indicative
 80371	indicative
 80373	infinitive
 infinitive
 80383	indicative
 80386	infinitive
 80400	participle
+indicative
 80405	indicative
 80410	indicative
 80412	participle
@@ -18705,9 +20358,11 @@ infinitive
 80432	infinitive
 80434	infinitive
 80437	optative
+80440	indicative
 80443	imperative
 80445	indicative
 80447	participle
+80452	indicative
 80461	participle
 80467	indicative
 80471	indicative
@@ -18724,6 +20379,7 @@ indicative
 80520	participle
 80522	indicative
 80526	indicative
+80530	indicative
 80534	participle
 80545	participle
 80547	participle
@@ -18745,22 +20401,28 @@ indicative
 80600	participle
 80604	indicative
 80606	indicative
+indicative
 80611	indicative
 80625	indicative
 80627	participle
 80632	subjunctive
+80634	indicative
 80637	participle
 infinitive
 80647	indicative
 infinitive
+80651	indicative
 80655	infinitive
 80658	infinitive
 80663	indicative
 80668	indicative
 80673	imperative
 80675	participle
+80683	indicative
 80685	participle
-80690	participle
+indicative
+80689	indicative
+participle
 80694	indicative
 80697	infinitive
 participle
@@ -18770,13 +20432,18 @@ participle
 80715	indicative
 infinitive
 80719	participle
+80722	indicative
+80728	indicative
+80732	indicative
 80735	indicative
 80739	participle
 80743	infinitive
 participle
 80747	indicative
 indicative
+indicative
 80751	participle
+indicative
 80755	infinitive
 80758	indicative
 80762	participle
@@ -18801,24 +20468,29 @@ infinitive
 80820	indicative
 80823	participle
 80830	indicative
+indicative
 80833	participle
 80840	indicative
+indicative
 80846	indicative
 80851	participle
 80854	indicative
 participle
 80861	participle
+80863	indicative
 80865	indicative
 80873	participle
 80879	indicative
 80882	indicative
 80885	infinitive
+80889	indicative
 80891	participle
 80894	optative
 80900	optative
 80904	participle
 80909	participle
-80912	participle
+80911	indicative
+participle
 80916	indicative
 infinitive
 80922	participle
@@ -18832,9 +20504,12 @@ participle
 80959	indicative
 80961	optative
 infinitive
-80966	infinitive
+indicative
+80965	indicative
+infinitive
 80972	participle
 infinitive
+80975	indicative
 80980	indicative
 infinitive
 80985	subjunctive
@@ -18842,8 +20517,10 @@ infinitive
 80999	infinitive
 81001	indicative
 indicative
-81007	participle
+81006	indicative
+participle
 81017	participle
+indicative
 81032	participle
 81035	indicative
 81039	indicative
@@ -18885,9 +20562,11 @@ indicative
 81204	subjunctive
 infinitive
 81214	indicative
+81221	indicative
 81226	participle
 81230	indicative
 participle
+indicative
 81242	participle
 indicative
 infinitive
@@ -18908,11 +20587,15 @@ participle
 infinitive
 81314	participle
 81316	indicative
+81319	indicative
+81321	subjunctive
 81325	participle
+indicative
 81341	indicative
 81349	participle
 81356	participle
 81359	participle
+81361	indicative
 81364	indicative
 81366	participle
 81376	indicative
@@ -18925,16 +20608,20 @@ infinitive
 imperative
 imperative
 81401	imperative
+81406	indicative
 81409	indicative
 81411	infinitive
 81418	indicative
 81422	indicative
 81424	participle
+81433	indicative
 81436	indicative
 81438	infinitive
 81442	infinitive
+81445	indicative
 81456	infinitive
 81464	participle
+81467	indicative
 81473	indicative
 81478	imperative
 81486	participle
@@ -18957,6 +20644,7 @@ infinitive
 81567	participle
 81573	indicative
 indicative
+81580	indicative
 81582	indicative
 81587	indicative
 indicative
@@ -18983,6 +20671,7 @@ infinitive
 81690	participle
 indicative
 81694	participle
+81698	indicative
 81700	participle
 indicative
 81709	indicative
@@ -18991,13 +20680,16 @@ indicative
 81717	indicative
 81721	indicative
 81723	infinitive
+81725	indicative
 81728	indicative
 81741	participle
 81745	participle
 infinitive
+indicative
 81753	indicative
 participle
 81763	indicative
+indicative
 81772	participle
 indicative
 81777	participle
@@ -19007,15 +20699,20 @@ indicative
 81789	infinitive
 81800	participle
 indicative
-81807	participle
+indicative
+81806	indicative
+participle
 81812	participle
+indicative
 81816	indicative
+81818	indicative
 81824	participle
 81827	participle
 81832	participle
 81836	indicative
 81843	participle
 81845	indicative
+indicative
 81849	participle
 81854	indicative
 81860	participle
@@ -19028,12 +20725,14 @@ indicative
 81899	infinitive
 infinitive
 81912	indicative
+indicative
 81917	participle
 81922	participle
 81927	indicative
 81929	infinitive
 81933	optative
 participle
+indicative
 81937	infinitive
 81941	participle
 81947	participle
@@ -19056,10 +20755,12 @@ participle
 81998	indicative
 participle
 82002	participle
+82005	indicative
 82008	subjunctive
 participle
 82013	indicative
 82016	participle
+82019	indicative
 82021	indicative
 82030	indicative
 82036	participle
@@ -19071,6 +20772,7 @@ participle
 82057	participle
 82063	indicative
 indicative
+82066	subjunctive
 82068	participle
 82071	infinitive
 82075	infinitive
@@ -19092,6 +20794,7 @@ indicative
 82135	indicative
 82141	indicative
 82145	indicative
+82147	indicative
 82151	indicative
 82153	infinitive
 82158	indicative
@@ -19100,6 +20803,7 @@ participle
 82171	infinitive
 82176	participle
 indicative
+82179	participle
 82182	participle
 82185	participle
 indicative
@@ -19111,6 +20815,7 @@ indicative
 82208	participle
 infinitive
 82214	participle
+82217	indicative
 82225	participle
 infinitive
 indicative
@@ -19135,6 +20840,7 @@ indicative
 participle
 82303	participle
 82305	indicative
+82308	indicative
 82311	participle
 indicative
 infinitive
@@ -19145,20 +20851,25 @@ infinitive
 82333	participle
 82336	indicative
 82339	participle
+82342	indicative
 82348	indicative
 82352	indicative
 82356	indicative
 participle
+82359	indicative
 82361	indicative
 82363	optative
 infinitive
 82370	participle
 indicative
+indicative
 82376	participle
 82382	participle
 82386	participle
 indicative
+indicative
 82391	participle
+82393	indicative
 82396	indicative
 82403	participle
 indicative
@@ -19196,13 +20907,16 @@ indicative
 82553	infinitive
 82555	indicative
 82559	participle
+82562	indicative
 82565	indicative
 82570	indicative
 82572	infinitive
 infinitive
-82575	infinitive
+indicative
+infinitive
 82582	participle
 82584	participle
+82587	indicative
 82589	participle
 participle
 indicative
@@ -19229,22 +20943,28 @@ indicative
 82673	indicative
 82676	participle
 82684	participle
+indicative
 82687	indicative
 82689	indicative
 82691	participle
 indicative
+indicative
 82699	participle
 82702	indicative
+indicative
 82706	participle
 82708	indicative
 82711	infinitive
+82716	indicative
 82719	indicative
 82723	participle
 82727	indicative
+indicative
 82738	participle
 82741	participle
 82744	indicative
 82748	indicative
+indicative
 82751	indicative
 82754	infinitive
 82759	participle
@@ -19256,7 +20976,9 @@ infinitive
 82777	indicative
 82784	participle
 participle
+82788	indicative
 82796	indicative
+indicative
 82803	participle
 82805	indicative
 infinitive
@@ -19275,7 +20997,8 @@ indicative
 82860	indicative
 82865	participle
 82869	indicative
-82871	indicative
+indicative
+indicative
 82876	indicative
 82880	infinitive
 82882	indicative
@@ -19283,6 +21006,7 @@ indicative
 82894	indicative
 participle
 82899	indicative
+82902	indicative
 82907	indicative
 participle
 82913	participle
@@ -19318,10 +21042,12 @@ indicative
 83052	participle
 83058	participle
 83075	participle
+indicative
 83080	indicative
 83093	participle
 83100	participle
 83118	indicative
+83122	indicative
 83135	indicative
 83143	participle
 83164	indicative
@@ -19335,6 +21061,7 @@ indicative
 83225	indicative
 83227	infinitive
 83231	subjunctive
+83235	indicative
 83237	infinitive
 83241	indicative
 infinitive
@@ -19348,8 +21075,10 @@ infinitive
 83304	infinitive
 83307	indicative
 83313	indicative
+indicative
 83318	participle
 83329	indicative
+83332	indicative
 83335	indicative
 83341	indicative
 indicative
@@ -19359,10 +21088,12 @@ indicative
 83373	indicative
 83383	participle
 indicative
+83392	indicative
 83394	infinitive
 83398	participle
 83404	indicative
-83406	indicative
+indicative
+indicative
 imperative
 indicative
 83414	indicative
@@ -19370,23 +21101,29 @@ indicative
 infinitive
 83424	indicative
 83442	indicative
+83452	indicative
 83455	infinitive
 83462	indicative
 83471	indicative
 83473	indicative
 83478	participle
 83480	indicative
+83482	indicative
 83488	indicative
+83492	indicative
 83500	indicative
+83504	indicative
 83508	indicative
 83513	participle
 83519	indicative
+83524	indicative
 83531	participle
 83536	indicative
 83542	participle
 83546	indicative
 83549	infinitive
 83552	indicative
+83556	indicative
 83559	infinitive
 83562	participle
 participle
@@ -19398,6 +21135,7 @@ imperative
 83609	indicative
 83611	participle
 83614	indicative
+subjunctive
 83619	participle
 83623	indicative
 83627	indicative
@@ -19407,12 +21145,15 @@ indicative
 83641	indicative
 83648	participle
 indicative
+83652	subjunctive
 83655	participle
 83659	participle
 83661	participle
 83665	indicative
+83670	indicative
 83682	indicative
 participle
+83689	indicative
 83692	indicative
 83701	indicative
 83713	indicative
@@ -19437,6 +21178,7 @@ indicative
 83836	indicative
 83846	participle
 83855	participle
+indicative
 83858	participle
 83862	indicative
 83880	indicative
@@ -19469,10 +21211,12 @@ indicative
 83983	subjunctive
 83988	indicative
 83997	subjunctive
+84002	indicative
 84004	indicative
 84006	indicative
 84013	participle
 84029	indicative
+84067	indicative
 84081	indicative
 84089	indicative
 84099	indicative
@@ -19487,8 +21231,10 @@ imperative
 84141	participle
 84146	indicative
 84148	optative
+indicative
 84151	indicative
 84166	indicative
+indicative
 84176	indicative
 84180	indicative
 84183	indicative
@@ -19523,21 +21269,26 @@ indicative
 84312	subjunctive
 84323	indicative
 indicative
+84326	indicative
 84339	indicative
 participle
+84354	indicative
 84357	participle
 84360	indicative
 84364	indicative
 84366	indicative
 84371	participle
 84384	indicative
+84394	indicative
 84403	participle
+84420	indicative
 84422	infinitive
 84426	participle
 84435	indicative
 84442	imperative
 84446	indicative
 84448	infinitive
+84454	indicative
 84462	subjunctive
 84466	participle
 84470	indicative
@@ -19552,6 +21303,7 @@ indicative
 84516	indicative
 indicative
 84523	indicative
+84525	indicative
 84529	participle
 84533	indicative
 84536	imperative
@@ -19559,27 +21311,35 @@ indicative
 participle
 84547	participle
 84550	indicative
+84554	indicative
 84559	indicative
 84567	indicative
 84573	indicative
 84578	indicative
 84586	subjunctive
+84596	indicative
 84601	indicative
 84603	indicative
+84608	indicative
 84612	indicative
 84615	participle
+indicative
 84627	indicative
+84638	indicative
 84640	infinitive
 84645	participle
+84648	indicative
 84650	infinitive
 84662	imperative
 84665	participle
+84684	indicative
 84691	infinitive
 84693	imperative
 84703	indicative
 84707	indicative
 84714	indicative
 84718	indicative
+84729	indicative
 84731	infinitive
 84744	imperative
 84751	indicative
@@ -19591,6 +21351,7 @@ participle
 84775	participle
 84777	participle
 84783	indicative
+indicative
 84786	infinitive
 84793	participle
 84795	indicative
@@ -19598,6 +21359,7 @@ participle
 84804	indicative
 84808	participle
 84811	participle
+84818	indicative
 84825	indicative
 84828	imperative
 indicative
@@ -19607,6 +21369,7 @@ indicative
 84842	indicative
 84844	infinitive
 84847	indicative
+84849	indicative
 84852	indicative
 84858	indicative
 84860	imperative
@@ -19619,6 +21382,7 @@ infinitive
 84890	participle
 84895	subjunctive
 84910	indicative
+84913	indicative
 84919	indicative
 84921	indicative
 84931	imperative
@@ -19634,6 +21398,7 @@ infinitive
 84997	indicative
 infinitive
 indicative
+85004	indicative
 85011	participle
 85016	indicative
 85020	participle
@@ -19645,7 +21410,9 @@ indicative
 85056	imperative
 85058	participle
 85073	indicative
+85082	indicative
 85085	indicative
+85094	indicative
 85099	indicative
 85103	indicative
 85108	indicative
@@ -19657,11 +21424,18 @@ indicative
 85138	indicative
 85141	participle
 85159	indicative
+85177	indicative
 85180	indicative
 85186	participle
+85195	indicative
+85203	indicative
 85213	indicative
 85229	participle
 85232	indicative
+85244	indicative
+85247	indicative
+85254	indicative
+85257	indicative
 85269	indicative
 85280	indicative
 85285	indicative
@@ -19670,16 +21444,21 @@ indicative
 85295	indicative
 85300	indicative
 85310	subjunctive
+85313	indicative
 85324	indicative
 subjunctive
 85331	subjunctive
 85333	optative
 85335	indicative
 85340	indicative
-85344	indicative
+85343	indicative
+indicative
 85347	indicative
+indicative
+85351	indicative
 85355	indicative
 indicative
+85362	indicative
 85367	indicative
 85382	subjunctive
 85386	indicative
@@ -19705,6 +21484,7 @@ indicative
 85464	infinitive
 85469	participle
 85478	imperative
+85486	indicative
 85488	infinitive
 85493	imperative
 85501	imperative
@@ -19719,16 +21499,23 @@ imperative
 85543	optative
 85545	indicative
 85548	indicative
+85551	indicative
 85554	indicative
 85556	indicative
+85559	indicative
+85561	indicative
+85563	indicative
 85570	indicative
 85574	indicative
+85578	indicative
 85580	indicative
 85583	participle
 85588	indicative
 85592	indicative
 85601	indicative
+85611	indicative
 85616	imperative
+85623	indicative
 85628	indicative
 85632	indicative
 85638	indicative
@@ -19736,7 +21523,9 @@ imperative
 85651	participle
 85655	participle
 85659	indicative
-85690	indicative
+85663	indicative
+85689	indicative
+indicative
 85692	participle
 85695	indicative
 85699	indicative
@@ -19753,11 +21542,13 @@ imperative
 85749	infinitive
 85752	participle
 85760	indicative
+85768	indicative
 85770	infinitive
 85776	participle
 85778	subjunctive
 85783	indicative
 85795	indicative
+85800	indicative
 85802	infinitive
 85807	indicative
 85811	participle
@@ -19778,6 +21569,8 @@ imperative
 85885	indicative
 85888	indicative
 85890	indicative
+85895	indicative
+85898	indicative
 85904	participle
 85908	indicative
 85913	indicative
@@ -19840,6 +21633,7 @@ indicative
 imperative
 86235	participle
 86239	indicative
+86267	indicative
 86275	indicative
 86278	indicative
 86283	participle
@@ -19865,6 +21659,7 @@ indicative
 86395	indicative
 86398	indicative
 86402	indicative
+86406	indicative
 86408	imperative
 indicative
 86414	indicative
@@ -19876,11 +21671,13 @@ indicative
 indicative
 86457	participle
 86459	infinitive
+indicative
 86473	indicative
 86479	indicative
 86482	imperative
 86485	participle
 86493	indicative
+86499	indicative
 86508	indicative
 86511	indicative
 86516	indicative
@@ -19908,9 +21705,11 @@ imperative
 86610	indicative
 86614	participle
 86618	indicative
+indicative
 86625	participle
 86628	indicative
 86630	indicative
+86637	indicative
 86639	infinitive
 86647	indicative
 86650	indicative
@@ -19931,6 +21730,12 @@ imperative
 86717	indicative
 86724	indicative
 86729	indicative
+86736	indicative
+86738	indicative
+86740	indicative
+86742	indicative
+86744	indicative
+86746	indicative
 86749	indicative
 86753	indicative
 86757	indicative
@@ -19949,18 +21754,21 @@ participle
 86838	infinitive
 86854	indicative
 86886	participle
+86891	indicative
 86899	indicative
 86914	indicative
 86922	indicative
 86926	indicative
 86936	imperative
 86941	indicative
+indicative
 86953	indicative
 86955	indicative
 86962	imperative
 86968	participle
 86975	participle
 86977	participle
+86980	indicative
 86989	subjunctive
 86996	participle
 indicative
@@ -19981,6 +21789,7 @@ imperative
 87047	participle
 87049	indicative
 87054	indicative
+87056	indicative
 87059	indicative
 87062	subjunctive
 87070	subjunctive
@@ -19991,20 +21800,26 @@ indicative
 indicative
 87092	indicative
 87098	indicative
+subjunctive
 87104	indicative
 87106	participle
 87110	indicative
 87114	participle
 87117	indicative
+87119	indicative
 87121	indicative
 87131	infinitive
+87134	indicative
+87139	indicative
 87143	participle
 87146	infinitive
 87150	infinitive
 87154	indicative
 87160	participle
+indicative
 87165	subjunctive
 87175	indicative
+indicative
 87180	indicative
 87186	imperative
 87195	indicative
@@ -20013,7 +21828,8 @@ indicative
 participle
 87209	indicative
 87214	indicative
-87221	indicative
+87220	indicative
+indicative
 87224	participle
 87227	indicative
 87232	subjunctive
@@ -20029,6 +21845,7 @@ indicative
 87283	participle
 87285	indicative
 87294	participle
+87297	indicative
 87300	indicative
 87311	indicative
 87317	indicative
@@ -20037,6 +21854,7 @@ indicative
 87329	participle
 87333	indicative
 87339	indicative
+87349	indicative
 87351	indicative
 87357	indicative
 87362	participle
@@ -20044,6 +21862,7 @@ indicative
 participle
 infinitive
 87378	indicative
+87383	indicative
 87387	participle
 87390	indicative
 87398	participle
@@ -20051,9 +21870,12 @@ infinitive
 87409	indicative
 87411	subjunctive
 87417	indicative
+indicative
 87422	indicative
 87424	infinitive
+indicative
 87427	indicative
+indicative
 87432	indicative
 87436	infinitive
 imperative
@@ -20066,16 +21888,20 @@ imperative
 87481	indicative
 87484	indicative
 87487	indicative
+indicative
 87492	indicative
+indicative
 87495	indicative
 87501	participle
 87505	indicative
 87508	indicative
 87519	participle
+indicative
 87523	participle
 87529	subjunctive
 87533	indicative
 87536	subjunctive
+indicative
 87540	indicative
 87543	subjunctive
 87546	indicative
@@ -20091,8 +21917,10 @@ imperative
 87593	imperative
 indicative
 87597	indicative
-87600	participle
+87599	indicative
+participle
 87603	indicative
+87608	indicative
 87616	imperative
 indicative
 87621	indicative
@@ -20115,6 +21943,7 @@ indicative
 87684	indicative
 87691	indicative
 87698	indicative
+indicative
 87701	indicative
 87705	indicative
 87709	indicative
@@ -20127,6 +21956,7 @@ indicative
 87738	indicative
 87744	indicative
 87759	indicative
+87766	indicative
 87770	indicative
 87775	indicative
 87779	indicative
@@ -20138,6 +21968,10 @@ indicative
 87804	infinitive
 87811	indicative
 imperative
+87816	indicative
+87819	indicative
+87822	indicative
+87825	indicative
 87828	imperative
 87834	infinitive
 87841	imperative
@@ -20146,6 +21980,7 @@ indicative
 87847	subjunctive
 87849	optative
 imperative
+87858	indicative
 87860	infinitive
 87882	indicative
 87889	indicative
@@ -20173,6 +22008,7 @@ imperative
 imperative
 88020	participle
 88028	subjunctive
+88031	indicative
 88034	indicative
 88039	subjunctive
 88042	indicative
@@ -20180,6 +22016,7 @@ imperative
 88049	infinitive
 88058	indicative
 88063	indicative
+indicative
 88072	indicative
 88078	indicative
 88080	infinitive
@@ -20197,17 +22034,24 @@ indicative
 88174	indicative
 88182	subjunctive
 indicative
+88189	indicative
 88194	subjunctive
+subjunctive
 88215	indicative
+88218	indicative
 88222	indicative
+indicative
 88225	indicative
 88228	indicative
+88237	indicative
+88244	indicative
 88248	indicative
 88257	infinitive
 88262	participle
 participle
 88277	imperative
 imperative
+88283	indicative
 88285	infinitive
 88297	participle
 indicative
@@ -20218,6 +22062,7 @@ indicative
 infinitive
 imperative
 infinitive
+indicative
 88321	infinitive
 88326	indicative
 88336	indicative
@@ -20238,6 +22083,7 @@ infinitive
 88403	participle
 88409	participle
 88412	participle
+88417	indicative
 88423	participle
 88430	participle
 88433	participle
@@ -20254,6 +22100,7 @@ infinitive
 88460	participle
 infinitive
 88463	participle
+88466	indicative
 88468	participle
 88472	participle
 imperative
@@ -20261,6 +22108,7 @@ imperative
 88478	imperative
 88486	participle
 participle
+88489	indicative
 88500	participle
 88503	participle
 88505	imperative
@@ -20293,15 +22141,19 @@ indicative
 88608	imperative
 88610	indicative
 88617	indicative
+88619	indicative
 88626	subjunctive
 imperative
+88630	subjunctive
 88633	indicative
 88637	indicative
+88639	indicative
 88644	participle
 88647	infinitive
 88653	imperative
 88663	indicative
 88667	indicative
+indicative
 88671	participle
 imperative
 88698	imperative
@@ -20314,9 +22166,12 @@ imperative
 88720	indicative
 88730	indicative
 88733	indicative
+88735	participle
+88742	participle
 88745	indicative
 88753	participle
 88762	infinitive
+88769	indicative
 88771	indicative
 88774	indicative
 88779	subjunctive
@@ -20325,8 +22180,10 @@ imperative
 88808	imperative
 imperative
 88819	imperative
+indicative
 88824	participle
 88827	imperative
+88829	indicative
 88834	indicative
 infinitive
 88839	participle
@@ -20341,7 +22198,8 @@ infinitive
 88864	indicative
 88866	participle
 88872	indicative
-88874	indicative
+indicative
+indicative
 indicative
 88877	indicative
 88881	infinitive
@@ -20366,11 +22224,13 @@ indicative
 88952	subjunctive
 88955	subjunctive
 88958	indicative
+indicative
 88963	indicative
 88965	indicative
 88970	participle
 subjunctive
 88975	indicative
+88979	indicative
 88983	indicative
 88989	indicative
 88994	indicative
@@ -20384,6 +22244,7 @@ subjunctive
 imperative
 89027	imperative
 89031	infinitive
+89035	indicative
 89037	indicative
 89039	indicative
 89051	participle
@@ -20397,6 +22258,7 @@ imperative
 89095	imperative
 89108	participle
 89123	indicative
+89129	indicative
 89134	imperative
 89142	imperative
 89149	participle
@@ -20405,6 +22267,7 @@ imperative
 89164	indicative
 89168	indicative
 89171	imperative
+indicative
 89178	participle
 89182	indicative
 89185	participle
@@ -20414,21 +22277,26 @@ indicative
 indicative
 89210	infinitive
 89214	infinitive
-89219	imperative
+89218	participle
+imperative
+indicative
 89231	indicative
 imperative
 89234	indicative
 89238	participle
 89240	indicative
 89245	indicative
+indicative
 89250	indicative
 89263	subjunctive
 89276	infinitive
 89287	subjunctive
 89298	imperative
 89304	indicative
+89306	indicative
 89310	indicative
 89314	infinitive
+89319	indicative
 89321	infinitive
 89331	infinitive
 89335	indicative
@@ -20445,6 +22313,7 @@ infinitive
 89387	indicative
 89393	optative
 89401	infinitive
+indicative
 89404	infinitive
 89413	indicative
 89426	indicative
@@ -20454,7 +22323,9 @@ infinitive
 89438	indicative
 89443	participle
 89449	participle
+89454	indicative
 89456	infinitive
+89461	indicative
 89464	participle
 89470	subjunctive
 89476	participle
@@ -20462,6 +22333,7 @@ infinitive
 89493	indicative
 89495	infinitive
 89498	indicative
+89502	indicative
 89526	infinitive
 89533	participle
 infinitive
@@ -20479,15 +22351,19 @@ indicative
 89579	participle
 89581	infinitive
 89589	subjunctive
+indicative
 89593	indicative
 89595	participle
 infinitive
 89601	infinitive
+indicative
 89608	subjunctive
 89611	indicative
+indicative
 89614	participle
 89617	indicative
 89624	infinitive
+indicative
 89633	indicative
 89637	indicative
 89644	indicative
@@ -20496,6 +22372,7 @@ infinitive
 89656	participle
 89658	participle
 89663	indicative
+89666	indicative
 89668	indicative
 89671	participle
 89678	indicative
@@ -20503,6 +22380,7 @@ indicative
 89695	infinitive
 89706	subjunctive
 89709	participle
+89718	indicative
 89723	subjunctive
 89727	participle
 89733	subjunctive
@@ -20520,8 +22398,10 @@ imperative
 89810	imperative
 89821	imperative
 89827	indicative
+89831	indicative
 89833	imperative
 89837	indicative
+indicative
 89840	imperative
 89851	indicative
 89863	imperative
@@ -20551,10 +22431,13 @@ participle
 90006	indicative
 imperative
 90017	indicative
+90026	indicative
 90028	indicative
 90032	indicative
 indicative
 90037	infinitive
+indicative
+90043	indicative
 90051	indicative
 90060	indicative
 90068	indicative
@@ -20566,7 +22449,10 @@ indicative
 90118	infinitive
 90133	participle
 participle
+90146	indicative
+90149	indicative
 90153	participle
+90163	indicative
 90186	participle
 90189	participle
 90198	participle
@@ -20578,6 +22464,7 @@ participle
 90268	participle
 90278	indicative
 90296	indicative
+indicative
 90307	indicative
 90322	subjunctive
 90326	subjunctive
@@ -20590,10 +22477,13 @@ indicative
 90366	indicative
 90377	indicative
 90382	indicative
+90385	indicative
+indicative
 90390	indicative
 indicative
 90395	indicative
 90404	subjunctive
+90406	indicative
 90410	indicative
 indicative
 90419	indicative
@@ -20633,6 +22523,7 @@ indicative
 subjunctive
 90631	subjunctive
 indicative
+90634	indicative
 90641	indicative
 90646	indicative
 90659	indicative
@@ -20640,6 +22531,7 @@ indicative
 90664	imperative
 90666	participle
 90670	indicative
+90675	indicative
 90677	participle
 90685	indicative
 90687	infinitive
@@ -20652,6 +22544,7 @@ imperative
 indicative
 90769	participle
 90771	indicative
+90777	indicative
 90787	indicative
 90790	indicative
 90797	indicative
@@ -20765,8 +22658,10 @@ participle
 91295	imperative
 91306	indicative
 91313	subjunctive
+91316	indicative
 91318	indicative
 91322	subjunctive
+indicative
 91330	indicative
 91334	indicative
 91339	indicative
@@ -20778,6 +22673,7 @@ participle
 91365	indicative
 91374	indicative
 91382	indicative
+indicative
 91392	subjunctive
 91397	indicative
 91400	participle
@@ -20832,6 +22728,7 @@ indicative
 imperative
 91627	indicative
 91630	subjunctive
+91633	indicative
 91640	indicative
 91657	infinitive
 91660	participle
@@ -20846,6 +22743,7 @@ indicative
 91693	participle
 91700	participle
 91713	infinitive
+91718	indicative
 91725	subjunctive
 91737	indicative
 91744	indicative
@@ -20856,21 +22754,32 @@ participle
 91764	subjunctive
 91781	indicative
 91787	infinitive
-91804	indicative
+91796	indicative
+91801	indicative
+91803	indicative
+indicative
 91809	infinitive
 91812	indicative
 91815	infinitive
 91819	participle
 subjunctive
+91822	indicative
+91824	indicative
+91826	indicative
+91828	indicative
+91830	indicative
 91835	infinitive
-91841	infinitive
+91840	subjunctive
+infinitive
 91844	subjunctive
 91846	indicative
+91849	subjunctive
 91852	indicative
 imperative
 91859	indicative
 91863	participle
 91867	infinitive
+91876	indicative
 91878	indicative
 91884	indicative
 91889	indicative
@@ -20892,6 +22801,7 @@ infinitive
 imperative
 91968	indicative
 91970	indicative
+91974	indicative
 91976	indicative
 91982	indicative
 91984	imperative
@@ -20916,12 +22826,14 @@ indicative
 participle
 92108	subjunctive
 92112	optative
+indicative
 92115	indicative
 92118	participle
 92121	participle
 92123	indicative
 indicative
 92126	indicative
+92129	indicative
 92134	participle
 92137	participle
 92139	indicative
@@ -20929,14 +22841,17 @@ imperative
 92147	subjunctive
 92152	indicative
 92155	participle
+indicative
 92158	participle
 92160	indicative
+indicative
 92163	indicative
 92174	indicative
 92176	indicative
 92181	indicative
 92183	indicative
 92186	imperative
+imperative
 92197	indicative
 92202	infinitive
 92211	imperative
@@ -20965,13 +22880,15 @@ indicative
 imperative
 92334	indicative
 infinitive
-92337	infinitive
+indicative
+infinitive
 92340	participle
 indicative
 92344	imperative
 92351	infinitive
 92355	subjunctive
 imperative
+92358	indicative
 92361	imperative
 92366	infinitive
 92370	indicative
@@ -20985,14 +22902,17 @@ infinitive
 92403	imperative
 92406	indicative
 92416	indicative
+92424	indicative
 92430	indicative
 92434	indicative
 92439	indicative
 imperative
 92442	indicative
+92445	indicative
 92454	indicative
 92460	indicative
 92465	indicative
+indicative
 92468	indicative
 92473	indicative
 92478	indicative
@@ -21122,6 +23042,7 @@ participle
 92944	optative
 92948	indicative
 92956	participle
+92966	indicative
 92969	participle
 92997	indicative
 93003	participle
@@ -21138,17 +23059,21 @@ imperative
 93043	participle
 93049	participle
 indicative
+indicative
 93055	infinitive
 indicative
 93059	participle
 93062	subjunctive
 93069	indicative
 93072	participle
+indicative
 93077	participle
 93081	participle
+indicative
 93084	indicative
 93088	indicative
 93094	subjunctive
+93096	indicative
 93104	subjunctive
 93106	indicative
 93109	indicative
@@ -21167,19 +23092,23 @@ indicative
 93156	infinitive
 93161	indicative
 93165	infinitive
+93178	indicative
 93184	indicative
 93187	infinitive
 93189	indicative
 93194	indicative
 93201	indicative
+indicative
 93204	indicative
 93213	indicative
 93218	indicative
+indicative
 93225	indicative
 93231	indicative
 93233	indicative
 93235	participle
 93239	indicative
+93242	indicative
 93246	indicative
 93250	indicative
 93252	indicative
@@ -21208,6 +23137,7 @@ subjunctive
 93344	indicative
 93349	subjunctive
 93356	infinitive
+indicative
 93362	indicative
 93365	subjunctive
 93367	indicative
@@ -21221,6 +23151,7 @@ subjunctive
 93396	indicative
 93400	participle
 93402	indicative
+93405	indicative
 93408	infinitive
 93417	participle
 93422	indicative
@@ -21261,6 +23192,7 @@ participle
 93559	infinitive
 93569	indicative
 93575	indicative
+93578	indicative
 93581	indicative
 93595	indicative
 93601	indicative
@@ -21270,6 +23202,7 @@ participle
 93621	indicative
 93624	indicative
 93633	indicative
+indicative
 93637	infinitive
 93643	indicative
 93646	imperative
@@ -21289,6 +23222,7 @@ infinitive
 93693	indicative
 93700	indicative
 93702	indicative
+93707	indicative
 93713	indicative
 93716	participle
 infinitive
@@ -21319,6 +23253,7 @@ imperative
 93818	indicative
 93821	indicative
 93825	indicative
+indicative
 93830	indicative
 93834	indicative
 93839	indicative
@@ -21328,7 +23263,8 @@ imperative
 93852	infinitive
 93857	indicative
 93860	infinitive
-93865	indicative
+93864	indicative
+indicative
 93871	indicative
 93873	indicative
 93877	indicative
@@ -21362,6 +23298,7 @@ optative
 indicative
 optative
 93985	indicative
+93987	indicative
 93990	imperative
 93994	imperative
 94006	indicative
@@ -21377,12 +23314,14 @@ indicative
 94041	infinitive
 94049	indicative
 94063	participle
-94065	participle
+indicative
+participle
 94068	participle
 indicative
 94073	indicative
 94076	participle
-94078	participle
+indicative
+participle
 94082	indicative
 94086	participle
 94088	indicative
@@ -21390,7 +23329,8 @@ indicative
 94097	indicative
 94100	imperative
 94106	infinitive
-94108	infinitive
+indicative
+infinitive
 imperative
 94114	indicative
 infinitive
@@ -21418,7 +23358,9 @@ indicative
 94245	indicative
 94253	participle
 94255	indicative
+94258	indicative
 94261	imperative
+indicative
 94265	indicative
 94269	participle
 94273	indicative
@@ -21435,8 +23377,10 @@ indicative
 94316	infinitive
 94323	indicative
 94328	indicative
+indicative
 94331	infinitive
 94333	infinitive
+indicative
 94339	indicative
 94341	indicative
 94344	participle
@@ -21452,19 +23396,22 @@ indicative
 94379	indicative
 94382	indicative
 94389	imperative
+indicative
 94392	infinitive
 94400	infinitive
 participle
 94408	indicative
 94414	imperative
 94417	subjunctive
+indicative
 94420	infinitive
 94425	subjunctive
 94432	subjunctive
 94437	indicative
 94440	subjunctive
 94444	subjunctive
-94448	subjunctive
+94447	indicative
+subjunctive
 94453	indicative
 94455	indicative
 94463	imperative
@@ -21482,9 +23429,11 @@ participle
 94515	indicative
 94521	subjunctive
 94525	participle
+indicative
 94528	infinitive
 94530	imperative
 94536	imperative
+94539	indicative
 94541	subjunctive
 94547	subjunctive
 indicative
@@ -21522,7 +23471,8 @@ indicative
 94716	participle
 participle
 indicative
-94732	participle
+94731	indicative
+participle
 94734	indicative
 optative
 94737	optative
@@ -21550,6 +23500,7 @@ participle
 94849	indicative
 94853	infinitive
 94859	indicative
+indicative
 94869	indicative
 imperative
 94874	participle
@@ -21585,6 +23536,7 @@ imperative
 95031	subjunctive
 indicative
 95034	participle
+indicative
 95037	participle
 95040	subjunctive
 95043	subjunctive
@@ -21658,6 +23610,7 @@ indicative
 95267	infinitive
 95272	subjunctive
 95276	participle
+indicative
 95279	participle
 95284	subjunctive
 95289	subjunctive
@@ -21665,19 +23618,27 @@ indicative
 95298	participle
 95301	indicative
 95305	subjunctive
+indicative
+95309	indicative
+95312	indicative
+95315	indicative
+95317	indicative
 95321	participle
 optative
 95324	optative
 95331	subjunctive
 95333	indicative
 95335	participle
+indicative
 95338	participle
 95345	subjunctive
 95347	indicative
+indicative
 95360	subjunctive
 95362	indicative
 95364	participle
 indicative
+95367	indicative
 95369	participle
 95372	optative
 95375	indicative
@@ -21685,6 +23646,7 @@ indicative
 95389	indicative
 95391	participle
 95395	participle
+95402	indicative
 95404	indicative
 95411	imperative
 95413	subjunctive
@@ -21699,6 +23661,7 @@ indicative
 95441	indicative
 95446	indicative
 95449	indicative
+95454	indicative
 95456	subjunctive
 95459	participle
 95465	indicative
@@ -21714,6 +23677,7 @@ imperative
 95504	infinitive
 95507	indicative
 subjunctive
+indicative
 95517	imperative
 95520	imperative
 95523	imperative
@@ -21722,6 +23686,7 @@ subjunctive
 95540	indicative
 95547	indicative
 95549	indicative
+95554	indicative
 95556	indicative
 95559	participle
 imperative
@@ -21730,10 +23695,12 @@ imperative
 95574	subjunctive
 95583	subjunctive
 95585	subjunctive
+95588	indicative
 95591	indicative
 95593	indicative
 95597	subjunctive
 subjunctive
+95602	indicative
 95604	indicative
 95607	indicative
 95616	indicative
@@ -21751,13 +23718,15 @@ subjunctive
 95653	imperative
 optative
 95657	indicative
+95660	indicative
 95663	indicative
 95668	participle
 imperative
 95673	subjunctive
 95675	imperative
 95680	imperative
-95688	indicative
+95687	indicative
+indicative
 imperative
 95692	subjunctive
 imperative
@@ -21784,10 +23753,14 @@ indicative
 95762	imperative
 95765	indicative
 95767	infinitive
+95770	indicative
 95777	indicative
+indicative
+indicative
 95782	indicative
 95785	indicative
 95787	infinitive
+indicative
 95790	imperative
 95792	indicative
 95796	indicative
@@ -21803,7 +23776,8 @@ indicative
 95837	indicative
 95841	indicative
 95847	indicative
-95852	indicative
+95851	subjunctive
+indicative
 indicative
 95860	indicative
 95863	indicative
@@ -21811,6 +23785,7 @@ indicative
 95876	indicative
 95886	indicative
 95892	indicative
+subjunctive
 95901	indicative
 95906	indicative
 95908	indicative
@@ -21821,6 +23796,7 @@ indicative
 95936	indicative
 95944	indicative
 95946	indicative
+95952	indicative
 95956	indicative
 imperative
 95961	indicative
@@ -21870,6 +23846,7 @@ participle
 96211	indicative
 96213	participle
 96218	subjunctive
+96224	indicative
 96226	indicative
 96228	participle
 96236	indicative
@@ -21904,6 +23881,7 @@ participle
 indicative
 imperative
 96338	optative
+96340	indicative
 96347	indicative
 96351	indicative
 96356	participle
@@ -21930,7 +23908,9 @@ imperative
 96448	indicative
 96453	indicative
 indicative
+96459	indicative
 96461	participle
+96465	indicative
 96467	participle
 96473	imperative
 96520	indicative
@@ -21952,11 +23932,13 @@ indicative
 96593	indicative
 96597	participle
 indicative
+96601	indicative
 96632	participle
 96647	imperative
 96649	participle
 96656	participle
 96662	indicative
+96671	indicative
 96675	indicative
 96683	imperative
 96691	imperative
@@ -21968,6 +23950,7 @@ participle
 96709	subjunctive
 96713	indicative
 infinitive
+96718	indicative
 96722	participle
 subjunctive
 96726	infinitive
@@ -21976,6 +23959,7 @@ indicative
 96736	subjunctive
 96739	indicative
 96743	participle
+indicative
 indicative
 96747	indicative
 96751	subjunctive
@@ -22010,6 +23994,7 @@ imperative
 indicative
 96871	indicative
 96876	indicative
+96881	indicative
 96885	indicative
 96890	subjunctive
 96896	participle
@@ -22028,10 +24013,12 @@ indicative
 97005	participle
 97013	participle
 97049	participle
+97056	indicative
 97058	infinitive
 97060	infinitive
 97069	indicative
 97076	indicative
+97081	indicative
 97087	indicative
 97092	optative
 97094	indicative
@@ -22054,15 +24041,20 @@ subjunctive
 97183	participle
 97190	indicative
 97193	indicative
+indicative
 97196	indicative
 97200	indicative
 participle
+97213	indicative
 97218	subjunctive
 97221	indicative
 97226	indicative
 97247	indicative
-97258	indicative
+97257	imperative
+indicative
+97261	indicative
 97263	indicative
+indicative
 97266	indicative
 indicative
 97272	indicative
@@ -22072,10 +24064,13 @@ indicative
 97302	infinitive
 97306	subjunctive
 97310	infinitive
+indicative
 97317	infinitive
 97323	infinitive
+indicative
 97329	participle
 97334	indicative
+indicative
 97337	indicative
 97340	indicative
 97342	subjunctive
@@ -22086,6 +24081,7 @@ indicative
 97392	imperative
 97396	indicative
 97419	participle
+97423	indicative
 97426	participle
 97431	participle
 97434	participle
@@ -22093,6 +24089,7 @@ indicative
 97451	infinitive
 97454	participle
 97457	indicative
+indicative
 97462	indicative
 97466	imperative
 97468	indicative
@@ -22115,18 +24112,23 @@ participle
 imperative
 97548	subjunctive
 97550	indicative
+97552	indicative
 97557	indicative
 97560	indicative
 imperative
 97566	subjunctive
 97569	participle
+97580	indicative
 97583	infinitive
 97585	infinitive
 97591	subjunctive
 97595	indicative
 97597	infinitive
+indicative
+97601	indicative
 97605	indicative
 97607	subjunctive
+97612	indicative
 97615	indicative
 97619	indicative
 97625	indicative
@@ -22134,23 +24136,30 @@ imperative
 97636	subjunctive
 97645	indicative
 participle
+97648	indicative
+97651	indicative
 97659	participle
 97663	indicative
 97670	infinitive
 97676	imperative
 participle
 97679	indicative
+indicative
 97688	participle
 97699	participle
 97708	indicative
 97713	participle
 97717	participle
+97723	indicative
+97730	indicative
 97739	indicative
 97743	participle
 97760	indicative
 indicative
 97764	infinitive
+indicative
 97767	indicative
+97774	indicative
 97781	indicative
 participle
 97787	participle
@@ -22172,6 +24181,7 @@ infinitive
 97874	indicative
 97879	infinitive
 infinitive
+97884	indicative
 97895	participle
 97903	indicative
 97915	indicative
@@ -22184,20 +24194,24 @@ infinitive
 97953	indicative
 97958	indicative
 97967	infinitive
+97971	indicative
 97975	participle
 imperative
 indicative
 97995	indicative
 97997	participle
 98001	indicative
+98005	indicative
 98007	subjunctive
 98014	indicative
+indicative
 98018	subjunctive
 98021	indicative
 98029	indicative
 98039	participle
 98044	participle
 98048	indicative
+98051	indicative
 98059	participle
 98064	indicative
 98066	indicative
@@ -22208,12 +24222,14 @@ indicative
 98083	imperative
 98088	participle
 98091	participle
+98094	indicative
 98100	indicative
 participle
 98107	participle
 indicative
 participle
 98117	indicative
+98122	indicative
 98125	infinitive
 98135	indicative
 98142	indicative
@@ -22234,6 +24250,7 @@ participle
 98225	participle
 98236	subjunctive
 98241	participle
+indicative
 98244	indicative
 98253	subjunctive
 98264	indicative
@@ -22249,10 +24266,13 @@ participle
 98302	indicative
 98313	participle
 98319	subjunctive
+indicative
 98327	indicative
+98332	subjunctive
 98335	indicative
 98338	subjunctive
 98340	indicative
+98352	indicative
 98357	indicative
 98360	participle
 98363	participle
@@ -22276,6 +24296,7 @@ infinitive
 98433	infinitive
 98435	subjunctive
 98443	participle
+98445	indicative
 98450	participle
 98456	participle
 98460	participle
@@ -22345,6 +24366,7 @@ indicative
 98710	subjunctive
 98715	participle
 98718	indicative
+98720	indicative
 98726	infinitive
 98728	indicative
 98732	indicative
@@ -22375,6 +24397,8 @@ indicative
 subjunctive
 98890	imperative
 participle
+98899	indicative
+98911	indicative
 98928	indicative
 participle
 98931	indicative
@@ -22388,7 +24412,9 @@ indicative
 98961	imperative
 98963	indicative
 98966	indicative
+98968	indicative
 98972	indicative
+98974	indicative
 98978	indicative
 98983	participle
 98987	subjunctive
@@ -22400,12 +24426,15 @@ indicative
 99011	indicative
 indicative
 99019	indicative
+indicative
 99022	infinitive
 99035	indicative
 99038	indicative
 99048	participle
+99050	indicative
 99053	indicative
 99061	participle
+99064	indicative
 99068	participle
 99071	indicative
 99086	imperative
@@ -22420,8 +24449,10 @@ indicative
 99137	indicative
 99140	indicative
 99143	indicative
+indicative
 99146	indicative
 99153	subjunctive
+99162	indicative
 99165	indicative
 99172	indicative
 imperative
@@ -22439,6 +24470,7 @@ imperative
 99213	participle
 99217	participle
 99221	infinitive
+99230	indicative
 99235	indicative
 99243	indicative
 99249	indicative
@@ -22446,6 +24478,7 @@ imperative
 99264	indicative
 99270	indicative
 99280	indicative
+99286	indicative
 99288	indicative
 participle
 99299	indicative
@@ -22454,14 +24487,18 @@ participle
 99308	indicative
 99317	participle
 99339	indicative
+indicative
 99349	indicative
 99357	participle
+99367	indicative
 99373	indicative
 imperative
 99376	indicative
+99385	indicative
 99387	infinitive
 99392	indicative
 99395	subjunctive
+indicative
 99406	indicative
 99428	subjunctive
 99432	indicative
@@ -22486,7 +24523,9 @@ imperative
 99513	subjunctive
 99518	indicative
 99522	optative
+99536	indicative
 99545	subjunctive
+indicative
 99551	subjunctive
 99554	indicative
 99559	indicative
@@ -22503,13 +24542,20 @@ imperative
 99642	subjunctive
 99648	participle
 99651	indicative
+99656	indicative
 99658	imperative
+99660	indicative
 99662	indicative
 99669	indicative
 99674	participle
+99682	indicative
 99684	optative
+99690	indicative
 99693	optative
+99711	indicative
 99713	participle
+indicative
+99724	indicative
 99729	indicative
 99731	infinitive
 99733	indicative
@@ -22529,43 +24575,56 @@ subjunctive
 99800	indicative
 infinitive
 99805	subjunctive
+indicative
 99809	subjunctive
 99811	participle
 99816	infinitive
 99827	participle
+participle
+participle
 99831	indicative
 99834	participle
 99840	indicative
 99843	indicative
+99849	indicative
 99855	indicative
 99858	indicative
 99862	participle
 99864	infinitive
+indicative
 99871	participle
 99873	participle
 subjunctive
+indicative
 99880	indicative
 indicative
 indicative
 99888	indicative
+indicative
 99894	participle
 99897	participle
+99900	indicative
 99902	indicative
 99904	indicative
 99909	indicative
 99917	participle
-99919	participle
+indicative
+participle
 99922	indicative
 99936	indicative
 participle
 99942	imperative
 99944	participle
 99956	participle
+99965	indicative
+99974	indicative
+99977	indicative
 99984	participle
 99988	participle
 100006	indicative
 100022	participle
 100024	indicative
+indicative
 100027	indicative
 100031	participle
 infinitive
@@ -22579,6 +24638,7 @@ infinitive
 100071	participle
 100075	participle
 100082	participle
+100085	indicative
 100093	participle
 infinitive
 participle
@@ -22589,6 +24649,8 @@ participle
 100113	imperative
 100129	subjunctive
 100135	indicative
+100138	indicative
+100142	indicative
 100146	indicative
 100149	subjunctive
 100152	infinitive
@@ -22600,24 +24662,31 @@ participle
 100189	participle
 100194	indicative
 infinitive
-100197	infinitive
+indicative
+infinitive
 100202	participle
 imperative
 100208	participle
 100210	participle
 100214	indicative
+100218	indicative
 100221	indicative
 imperative
 100229	indicative
 100234	infinitive
 100242	participle
+indicative
 100245	indicative
 100251	indicative
+100258	indicative
 100261	participle
 100267	participle
 participle
 100274	infinitive
+100279	indicative
+100281	indicative
 100285	infinitive
+100290	indicative
 100293	infinitive
 100296	participle
 100299	imperative
@@ -22635,16 +24704,22 @@ indicative
 100338	indicative
 100345	indicative
 100351	subjunctive
+100362	indicative
 100368	participle
 100371	indicative
 100374	indicative
+indicative
 100378	indicative
 100381	indicative
+indicative
 100387	indicative
 100389	indicative
 indicative
 100393	infinitive
+100395	infinitive
 100410	participle
+100413	indicative
+100415	indicative
 100417	indicative
 100419	participle
 100422	subjunctive
@@ -22660,6 +24735,7 @@ participle
 100467	indicative
 indicative
 100478	indicative
+indicative
 100490	indicative
 100494	indicative
 100497	indicative
@@ -22669,7 +24745,9 @@ indicative
 100510	indicative
 subjunctive
 100521	participle
+indicative
 100532	indicative
+indicative
 100544	indicative
 100551	indicative
 100557	indicative
@@ -22679,6 +24757,7 @@ subjunctive
 100576	subjunctive
 100578	indicative
 100582	indicative
+100593	indicative
 100595	indicative
 100600	indicative
 100603	indicative
@@ -22689,6 +24768,7 @@ indicative
 100616	indicative
 100619	indicative
 100622	indicative
+100625	indicative
 100628	indicative
 100631	indicative
 100635	indicative
@@ -22715,6 +24795,7 @@ indicative
 100767	indicative
 100775	indicative
 100777	participle
+100779	indicative
 100784	indicative
 100792	indicative
 100796	infinitive
@@ -22724,6 +24805,7 @@ indicative
 indicative
 100815	participle
 100817	indicative
+100819	indicative
 100824	indicative
 100831	optative
 100835	indicative
@@ -22737,6 +24819,7 @@ participle
 100864	indicative
 100867	indicative
 100869	indicative
+indicative
 100874	indicative
 100879	participle
 100881	infinitive
@@ -22748,9 +24831,11 @@ infinitive
 participle
 100905	indicative
 indicative
+100910	indicative
 100912	subjunctive
 100915	indicative
-100918	indicative
+100917	indicative
+indicative
 100929	subjunctive
 indicative
 100939	subjunctive
@@ -22771,6 +24856,7 @@ participle
 101009	indicative
 101012	infinitive
 101015	indicative
+101017	infinitive
 101022	indicative
 101028	indicative
 101042	indicative
@@ -22801,7 +24887,8 @@ participle
 101134	indicative
 101138	indicative
 101145	indicative
-101151	indicative
+101150	imperative
+indicative
 101154	indicative
 101159	indicative
 101168	indicative
@@ -22825,9 +24912,12 @@ indicative
 101244	participle
 101247	participle
 101254	subjunctive
+indicative
 101259	indicative
+indicative
 101262	indicative
 101266	participle
+101269	indicative
 101272	indicative
 imperative
 indicative
@@ -22837,9 +24927,11 @@ indicative
 101290	indicative
 101293	imperative
 indicative
+101300	indicative
 101303	imperative
 101305	indicative
 101310	imperative
+indicative
 101313	indicative
 101323	indicative
 indicative
@@ -22861,6 +24953,8 @@ indicative
 101391	participle
 101394	subjunctive
 101401	indicative
+101403	indicative
+101407	indicative
 101411	imperative
 imperative
 imperative
@@ -22875,15 +24969,18 @@ imperative
 101501	participle
 101508	subjunctive
 101514	participle
+101527	indicative
 101533	indicative
 101537	indicative
 101540	participle
+101545	indicative
 101550	indicative
 101555	indicative
 101557	participle
 101560	participle
 infinitive
 101566	imperative
+101570	indicative
 101574	subjunctive
 101581	imperative
 101583	indicative
@@ -22892,7 +24989,9 @@ infinitive
 101594	indicative
 101596	imperative
 101600	indicative
-101605	indicative
+indicative
+101604	indicative
+indicative
 101607	infinitive
 101611	indicative
 101616	indicative
@@ -22915,17 +25014,23 @@ imperative
 101708	subjunctive
 101715	indicative
 101720	indicative
+indicative
 101728	imperative
 indicative
+indicative
 101734	indicative
+indicative
 101741	indicative
+indicative
 101744	infinitive
 101747	indicative
 101757	indicative
 101767	indicative
 101769	imperative
+indicative
 101775	indicative
 101777	indicative
+indicative
 101786	indicative
 101788	participle
 101800	participle
@@ -22935,13 +25040,16 @@ indicative
 101813	indicative
 101815	indicative
 101825	indicative
+indicative
 101833	indicative
 101838	indicative
 101843	indicative
 101848	participle
 101851	participle
+101854	indicative
 101856	subjunctive
-101858	indicative
+indicative
+indicative
 101866	participle
 indicative
 infinitive
@@ -22959,19 +25067,25 @@ infinitive
 101924	participle
 101926	indicative
 imperative
-101929	participle
+indicative
+participle
 101931	indicative
 101942	participle
+101944	indicative
 101948	indicative
+101951	indicative
 101955	participle
 101959	participle
 101967	participle
 101969	infinitive
 101971	indicative
+101978	indicative
+101983	indicative
 101990	subjunctive
 101993	indicative
 101996	infinitive
 101999	indicative
+102001	indicative
 102006	indicative
 102008	participle
 indicative
@@ -22992,6 +25106,7 @@ indicative
 102076	indicative
 102084	participle
 102088	indicative
+102101	indicative
 102104	indicative
 102106	subjunctive
 102120	indicative
@@ -23014,20 +25129,26 @@ indicative
 102187	participle
 102192	indicative
 102205	indicative
+subjunctive
 102211	indicative
 102217	indicative
 participle
 102221	indicative
 infinitive
 102230	indicative
+indicative
 102237	indicative
 participle
 102242	indicative
 102244	indicative
+subjunctive
+102249	subjunctive
 102252	participle
 102257	participle
+102264	indicative
 102270	indicative
 102274	indicative
+102276	indicative
 102278	indicative
 102286	indicative
 102288	participle
@@ -23049,12 +25170,15 @@ indicative
 102385	participle
 102390	indicative
 102394	participle
+102398	indicative
 102405	subjunctive
 102414	subjunctive
 102421	indicative
+indicative
 102424	participle
 102427	indicative
-102429	indicative
+indicative
+indicative
 102433	indicative
 102441	indicative
 102457	indicative
@@ -23062,6 +25186,7 @@ indicative
 102463	participle
 102473	participle
 102476	indicative
+indicative
 102479	infinitive
 102496	indicative
 102506	indicative
@@ -23083,13 +25208,16 @@ indicative
 102576	infinitive
 102581	indicative
 participle
+indicative
 102585	participle
 102587	infinitive
 102593	indicative
+indicative
 102599	subjunctive
 participle
 102607	indicative
 102612	indicative
+102621	indicative
 102623	indicative
 102625	indicative
 102644	participle
@@ -23112,6 +25240,7 @@ participle
 102727	subjunctive
 102730	indicative
 102732	indicative
+102740	indicative
 102744	participle
 102750	indicative
 102752	imperative
@@ -23126,7 +25255,9 @@ participle
 indicative
 102797	indicative
 102804	indicative
-102809	indicative
+102808	subjunctive
+indicative
+indicative
 102812	imperative
 102820	indicative
 102824	indicative
@@ -23163,10 +25294,12 @@ indicative
 102977	indicative
 participle
 102981	indicative
+102989	indicative
 102991	participle
 102993	indicative
 103000	indicative
 103009	indicative
+103017	subjunctive
 103020	indicative
 103022	indicative
 103025	indicative
@@ -23175,6 +25308,7 @@ participle
 imperative
 103034	imperative
 103037	participle
+103045	indicative
 103047	participle
 103057	indicative
 103064	participle
@@ -23209,6 +25343,7 @@ indicative
 103190	participle
 103197	indicative
 103199	indicative
+indicative
 103207	indicative
 103210	participle
 103212	indicative
@@ -23220,10 +25355,12 @@ indicative
 103236	indicative
 103238	participle
 103244	indicative
+103250	indicative
 103254	imperative
 103258	imperative
 103267	indicative
 103270	indicative
+103272	participle
 103279	indicative
 103281	indicative
 imperative
@@ -23261,7 +25398,9 @@ indicative
 103460	participle
 indicative
 103467	imperative
+103471	indicative
 103476	indicative
+103479	indicative
 103485	participle
 103487	indicative
 imperative
@@ -23272,8 +25411,10 @@ imperative
 103507	subjunctive
 103511	indicative
 103514	participle
+indicative
 103522	indicative
 103526	participle
+indicative
 103533	indicative
 103539	participle
 103541	subjunctive
@@ -23310,35 +25451,48 @@ indicative
 103746	infinitive
 103751	indicative
 103755	participle
+103757	indicative
+103762	indicative
+103770	indicative
 103777	indicative
 103781	participle
 103784	indicative
 103802	indicative
+indicative
 103810	participle
 103822	indicative
+103825	indicative
 103831	infinitive
 103851	indicative
 participle
 103858	participle
+103865	indicative
 103867	infinitive
+103869	indicative
 103874	participle
 103882	participle
 103895	participle
 indicative
 103904	indicative
+103909	indicative
+103913	indicative
 103921	participle
+103934	indicative
 103939	indicative
 participle
 103944	participle
 103961	subjunctive
 103970	participle
+103976	indicative
 103978	infinitive
 103981	indicative
 104001	participle
+104006	indicative
 104009	participle
 104019	indicative
 104023	participle
 104028	participle
+104035	subjunctive
 104047	participle
 104054	imperative
 104058	participle
@@ -23384,6 +25538,7 @@ participle
 104330	participle
 104343	participle
 104347	subjunctive
+104350	indicative
 104352	participle
 104354	participle
 104357	subjunctive
@@ -23398,9 +25553,12 @@ indicative
 104429	indicative
 104431	participle
 indicative
+indicative
 104442	indicative
+indicative
 104464	indicative
 104472	participle
+104474	indicative
 104479	indicative
 104484	indicative
 104489	indicative
@@ -23427,6 +25585,7 @@ infinitive
 104668	indicative
 104670	subjunctive
 104679	infinitive
+104684	indicative
 104686	subjunctive
 104688	infinitive
 104700	participle
@@ -23436,12 +25595,16 @@ infinitive
 104719	infinitive
 104722	participle
 104729	subjunctive
+indicative
 104738	participle
 104741	infinitive
+imperative
 104744	indicative
-104746	indicative
+indicative
+indicative
 104751	participle
-104765	participle
+104764	indicative
+participle
 104773	indicative
 104781	indicative
 infinitive
@@ -23458,27 +25621,37 @@ infinitive
 104847	indicative
 104858	indicative
 participle
+indicative
 104862	indicative
 104864	indicative
 104870	indicative
 104872	indicative
 104877	indicative
+indicative
 104885	participle
 104887	indicative
 104890	participle
+subjunctive
 104896	subjunctive
 104901	indicative
+104921	indicative
+104924	indicative
 104931	subjunctive
+104934	indicative
+104946	indicative
 104948	participle
+indicative
 104958	subjunctive
 104960	participle
 104962	participle
 104979	participle
 104983	subjunctive
+indicative
 104989	indicative
 104998	participle
 105000	participle
 105017	indicative
+indicative
 105025	indicative
 105027	indicative
 105032	infinitive
@@ -23489,6 +25662,7 @@ participle
 105056	participle
 105066	participle
 105068	indicative
+105071	indicative
 105081	indicative
 105087	indicative
 105091	indicative
@@ -23503,6 +25677,7 @@ participle
 105129	participle
 105137	participle
 105140	imperative
+105145	participle
 105148	indicative
 105151	imperative
 105154	imperative
@@ -23521,22 +25696,29 @@ imperative
 105207	participle
 105210	imperative
 105219	indicative
+indicative
 105223	indicative
 105233	imperative
 105239	imperative
+105241	indicative
 105245	participle
 105253	indicative
 105255	imperative
 105264	imperative
 105271	indicative
 105274	indicative
+105283	indicative
 105290	indicative
+indicative
 105294	imperative
 105298	indicative
+105304	indicative
 105308	indicative
 imperative
 105314	imperative
 participle
+105319	indicative
+105321	indicative
 105324	indicative
 105327	indicative
 105338	imperative
@@ -23548,7 +25730,8 @@ participle
 105386	indicative
 105392	imperative
 105402	imperative
-105406	participle
+105405	subjunctive
+participle
 105410	indicative
 105412	infinitive
 105416	participle
@@ -23561,6 +25744,7 @@ imperative
 105433	imperative
 105438	indicative
 105442	imperative
+105444	indicative
 105446	indicative
 105453	participle
 105460	indicative
@@ -23587,6 +25771,8 @@ participle
 105589	subjunctive
 105592	participle
 105596	participle
+105598	indicative
+105600	indicative
 105606	subjunctive
 105611	indicative
 105615	infinitive
@@ -23600,8 +25786,11 @@ indicative
 105656	indicative
 105664	indicative
 105670	indicative
+105673	indicative
 105680	indicative
 105683	indicative
+indicative
+105687	indicative
 105690	infinitive
 105701	imperative
 105708	subjunctive
@@ -23649,6 +25838,7 @@ infinitive
 105973	imperative
 105980	indicative
 105988	participle
+105995	indicative
 105997	participle
 106012	subjunctive
 106021	infinitive
@@ -23660,12 +25850,14 @@ infinitive
 106048	indicative
 106050	indicative
 106062	indicative
+106065	indicative
 106069	subjunctive
 106074	subjunctive
 106097	participle
 106118	participle
 106137	indicative
 106158	participle
+106163	indicative
 106173	participle
 106178	participle
 106183	indicative
@@ -23676,12 +25868,16 @@ infinitive
 106231	indicative
 106240	indicative
 106249	subjunctive
+106255	indicative
 106257	infinitive
 106260	participle
 106262	subjunctive
+106266	indicative
 106269	participle
+106276	indicative
 106281	infinitive
 106284	indicative
+106291	indicative
 106295	indicative
 106303	infinitive
 106319	participle
@@ -23689,6 +25885,7 @@ infinitive
 106330	infinitive
 106345	indicative
 106350	participle
+106352	indicative
 106356	indicative
 106363	indicative
 106366	participle
@@ -23702,6 +25899,7 @@ imperative
 106390	indicative
 indicative
 106396	indicative
+indicative
 106418	indicative
 106427	indicative
 106433	optative
@@ -23713,6 +25911,7 @@ indicative
 106462	indicative
 indicative
 106470	participle
+indicative
 106473	infinitive
 106477	infinitive
 106484	infinitive
@@ -23720,6 +25919,7 @@ indicative
 indicative
 106495	indicative
 106497	indicative
+106500	indicative
 106512	subjunctive
 106520	indicative
 106526	indicative
@@ -23736,6 +25936,7 @@ subjunctive
 106563	participle
 106565	indicative
 106578	indicative
+106585	indicative
 106587	infinitive
 imperative
 106593	infinitive
@@ -23769,6 +25970,7 @@ imperative
 106732	subjunctive
 106739	indicative
 106741	subjunctive
+106746	indicative
 106755	indicative
 106763	imperative
 106778	imperative
@@ -23781,7 +25983,11 @@ imperative
 106813	participle
 106816	indicative
 106823	participle
+indicative
+106827	indicative
+106832	indicative
 106834	indicative
+106836	indicative
 106838	indicative
 imperative
 106842	indicative
@@ -23799,9 +26005,11 @@ participle
 106896	indicative
 106905	indicative
 106912	indicative
+indicative
 106919	indicative
 infinitive
-106928	indicative
+106927	indicative
+indicative
 106936	indicative
 participle
 106939	indicative
@@ -23857,20 +26065,27 @@ infinitive
 107191	infinitive
 107203	participle
 107209	subjunctive
+indicative
 107219	indicative
+indicative
 107222	indicative
 indicative
 107227	subjunctive
 107239	indicative
 infinitive
 participle
-107246	participle
-107250	participle
+107245	subjunctive
+participle
+107249	participle
+participle
 107253	indicative
+indicative
+107258	subjunctive
 107269	subjunctive
 107274	indicative
 107280	indicative
 infinitive
+indicative
 107284	indicative
 107287	infinitive
 subjunctive
@@ -23939,17 +26154,21 @@ participle
 107597	indicative
 107608	indicative
 107614	indicative
+indicative
+107632	indicative
 107636	indicative
 107639	indicative
 107642	imperative
 indicative
 107647	participle
+indicative
 107651	indicative
 107655	indicative
 indicative
 participle
 107674	indicative
 participle
+107695	indicative
 107701	imperative
 107707	indicative
 107713	indicative
@@ -23958,9 +26177,11 @@ participle
 107775	participle
 participle
 107787	indicative
+indicative
 107796	participle
 107802	indicative
 107811	participle
+indicative
 107820	indicative
 participle
 107823	participle
@@ -23976,15 +26197,19 @@ participle
 107881	subjunctive
 107893	infinitive
 indicative
-107898	participle
+107897	indicative
+participle
 107904	participle
 107906	participle
 107914	participle
-107922	participle
+107921	indicative
+participle
 107928	participle
 107932	participle
+107934	indicative
 107945	indicative
 107953	indicative
+indicative
 107964	indicative
 107972	indicative
 107984	indicative
@@ -23992,6 +26217,7 @@ indicative
 108001	optative
 108003	optative
 108005	optative
+108012	indicative
 108014	indicative
 108017	indicative
 108025	indicative
@@ -24002,6 +26228,7 @@ indicative
 108051	indicative
 108055	infinitive
 108059	infinitive
+108062	indicative
 108064	participle
 108073	optative
 108078	optative
@@ -24021,6 +26248,7 @@ participle
 108174	indicative
 108178	indicative
 108187	participle
+108189	indicative
 108191	infinitive
 108199	participle
 108209	indicative
@@ -24032,6 +26260,7 @@ participle
 108245	participle
 108252	subjunctive
 108255	participle
+108258	indicative
 108261	indicative
 participle
 108268	participle
@@ -24040,6 +26269,8 @@ participle
 108279	indicative
 108296	subjunctive
 108300	participle
+108304	indicative
+108311	indicative
 108320	indicative
 108330	indicative
 108334	subjunctive
@@ -24048,6 +26279,7 @@ imperative
 108348	indicative
 participle
 108351	participle
+108359	indicative
 108365	indicative
 108373	imperative
 participle
@@ -24078,13 +26310,17 @@ participle
 108525	indicative
 108528	participle
 108536	imperative
+108542	indicative
+108546	indicative
+108548	indicative
 108551	indicative
 108554	participle
 108562	imperative
 participle
 108571	indicative
 participle
-108574	participle
+subjunctive
+participle
 108583	participle
 108596	participle
 108598	participle
@@ -24096,13 +26332,16 @@ indicative
 108622	subjunctive
 108624	subjunctive
 108626	indicative
+108628	indicative
 108640	indicative
 108643	participle
 108662	indicative
-108667	imperative
+108666	subjunctive
+imperative
 108671	indicative
 108676	participle
-108679	imperative
+108678	subjunctive
+imperative
 108685	indicative
 108691	indicative
 108701	subjunctive
@@ -24114,11 +26353,13 @@ indicative
 108746	indicative
 108751	imperative
 108766	imperative
+indicative
 108769	participle
 108771	participle
 108778	participle
 108780	participle
 108782	participle
+indicative
 108788	participle
 108803	imperative
 108809	imperative
@@ -24129,6 +26370,7 @@ indicative
 108839	indicative
 108851	indicative
 108860	imperative
+108865	indicative
 108868	indicative
 108874	imperative
 108879	imperative
@@ -24136,6 +26378,7 @@ indicative
 108888	participle
 108897	participle
 108909	subjunctive
+108912	indicative
 108920	participle
 108928	imperative
 108932	indicative
@@ -24168,6 +26411,7 @@ participle
 109076	indicative
 109078	infinitive
 109081	imperative
+109084	subjunctive
 109087	participle
 109095	participle
 infinitive
@@ -24175,6 +26419,7 @@ infinitive
 109102	infinitive
 109107	indicative
 109121	indicative
+109124	indicative
 109128	subjunctive
 109133	subjunctive
 109145	indicative
@@ -24185,6 +26430,7 @@ infinitive
 109172	imperative
 109177	participle
 109180	participle
+109186	indicative
 109192	indicative
 109195	indicative
 109197	indicative
@@ -24212,6 +26458,7 @@ indicative
 109370	participle
 109372	participle
 109384	indicative
+indicative
 109390	imperative
 109402	indicative
 109404	indicative
@@ -24265,6 +26512,7 @@ indicative
 109672	participle
 109676	infinitive
 109679	indicative
+indicative
 109692	indicative
 109694	indicative
 109699	participle
@@ -24273,9 +26521,11 @@ indicative
 109711	participle
 109714	participle
 109716	participle
+indicative
 109719	infinitive
 109721	indicative
 109725	participle
+109727	indicative
 109738	indicative
 109743	participle
 109750	indicative
@@ -24292,8 +26542,10 @@ indicative
 109820	participle
 109824	infinitive
 109826	subjunctive
+indicative
 109829	infinitive
 109834	indicative
+109840	indicative
 109842	indicative
 109845	participle
 109855	indicative
@@ -24301,15 +26553,20 @@ indicative
 109864	indicative
 infinitive
 109876	indicative
+109884	indicative
+109886	indicative
+109889	indicative
 109904	indicative
 109913	participle
 indicative
 infinitive
 109920	indicative
+109934	indicative
 109936	infinitive
 109939	infinitive
 109946	infinitive
 109953	indicative
+109955	indicative
 109957	indicative
 109963	indicative
 indicative
@@ -24319,9 +26576,11 @@ infinitive
 109973	indicative
 109978	participle
 indicative
+indicative
 109982	infinitive
 109988	indicative
 109991	participle
+109993	indicative
 109995	subjunctive
 110001	participle
 110008	participle
@@ -24334,12 +26593,18 @@ indicative
 110058	indicative
 110061	infinitive
 110069	indicative
-110080	participle
+110079	imperative
+participle
+indicative
 110083	infinitive
 110088	infinitive
 110106	optative
 110116	optative
 110118	optative
+110121	indicative
+110124	indicative
+110129	indicative
+110131	indicative
 110133	infinitive
 110161	indicative
 110164	indicative
@@ -24365,11 +26630,14 @@ indicative
 110274	indicative
 imperative
 110280	participle
+110286	indicative
 110294	indicative
 infinitive
 110301	indicative
+indicative
 110304	infinitive
 110308	indicative
+110310	indicative
 110318	indicative
 110322	infinitive
 110325	infinitive
@@ -24378,6 +26646,7 @@ infinitive
 110332	infinitive
 110338	indicative
 110340	subjunctive
+110344	subjunctive
 110348	subjunctive
 110350	indicative
 110353	infinitive
@@ -24392,6 +26661,7 @@ infinitive
 110392	indicative
 110399	participle
 110401	participle
+indicative
 110409	subjunctive
 110411	participle
 110425	indicative
@@ -24399,11 +26669,14 @@ infinitive
 110438	participle
 110440	participle
 110444	indicative
+110447	indicative
+110451	indicative
 110458	indicative
 110460	imperative
 110476	indicative
 110478	infinitive
-110482	indicative
+110481	indicative
+indicative
 110491	indicative
 110493	subjunctive
 110500	indicative
@@ -24425,7 +26698,9 @@ subjunctive
 subjunctive
 participle
 110578	indicative
+110582	indicative
 110584	imperative
+indicative
 110595	participle
 110599	optative
 subjunctive
@@ -24452,9 +26727,12 @@ indicative
 110671	subjunctive
 imperative
 110676	imperative
+indicative
+110680	indicative
 110683	imperative
 110685	imperative
 110688	imperative
+110696	indicative
 110701	imperative
 110704	imperative
 110707	imperative
@@ -24475,8 +26753,10 @@ indicative
 indicative
 110822	indicative
 110827	indicative
+110834	indicative
 110841	infinitive
 110862	indicative
+110869	indicative
 110871	infinitive
 110880	indicative
 110885	infinitive
@@ -24491,12 +26771,14 @@ infinitive
 110952	infinitive
 110956	participle
 110958	indicative
+110968	indicative
 110971	indicative
 110977	subjunctive
 110984	subjunctive
 participle
 110994	subjunctive
 111017	indicative
+111034	indicative
 111038	infinitive
 111044	infinitive
 111059	indicative
@@ -24506,6 +26788,8 @@ participle
 111089	participle
 111091	participle
 111094	participle
+111096	indicative
+111100	indicative
 111105	infinitive
 participle
 111109	indicative
@@ -24513,6 +26797,7 @@ participle
 111115	participle
 111119	indicative
 111124	participle
+indicative
 indicative
 111128	infinitive
 111138	indicative
@@ -24524,8 +26809,10 @@ indicative
 111172	indicative
 111193	participle
 111201	indicative
+indicative
 111204	infinitive
 111209	indicative
+111215	indicative
 111217	infinitive
 111222	subjunctive
 111226	participle
@@ -24536,7 +26823,10 @@ participle
 infinitive
 111243	participle
 111247	indicative
+111253	indicative
+111261	indicative
 111264	indicative
+111270	indicative
 111281	imperative
 111283	imperative
 111287	indicative
@@ -24558,6 +26848,8 @@ optative
 111387	indicative
 111389	indicative
 111393	optative
+111397	indicative
+111403	indicative
 111408	indicative
 111418	infinitive
 111424	participle
@@ -24571,6 +26863,7 @@ infinitive
 111464	infinitive
 111470	indicative
 111476	subjunctive
+111478	indicative
 111480	infinitive
 111485	indicative
 111489	indicative
@@ -24601,12 +26894,15 @@ imperative
 111638	indicative
 111640	infinitive
 111643	participle
+indicative
 111647	subjunctive
 111650	infinitive
 111652	infinitive
 111659	indicative
+111661	indicative
 111672	indicative
 111685	participle
+indicative
 indicative
 111689	participle
 infinitive
@@ -24624,6 +26920,7 @@ participle
 111760	participle
 111770	indicative
 participle
+indicative
 111776	participle
 111782	imperative
 indicative
@@ -24631,6 +26928,7 @@ indicative
 indicative
 111789	indicative
 111814	indicative
+indicative
 111819	infinitive
 111822	indicative
 111824	imperative
@@ -24638,6 +26936,8 @@ indicative
 111832	subjunctive
 111841	participle
 infinitive
+111845	indicative
+111860	indicative
 111869	indicative
 111875	participle
 111880	subjunctive
@@ -24653,12 +26953,15 @@ indicative
 111930	participle
 111934	participle
 111936	subjunctive
+111946	indicative
 111954	indicative
 infinitive
+111957	indicative
 111960	infinitive
 participle
 111964	participle
 111974	participle
+111983	indicative
 111985	indicative
 111991	indicative
 111993	indicative
@@ -24666,6 +26969,8 @@ participle
 112002	infinitive
 112008	participle
 112024	infinitive
+112031	indicative
+112033	indicative
 112038	indicative
 112040	participle
 112048	imperative
@@ -24691,9 +26996,11 @@ indicative
 112148	indicative
 112152	indicative
 112157	participle
+indicative
 112160	subjunctive
 112163	indicative
 112168	infinitive
+112174	indicative
 112176	subjunctive
 112189	participle
 112192	participle
@@ -24713,6 +27020,7 @@ infinitive
 112265	infinitive
 112267	indicative
 112270	participle
+112277	participle
 112279	indicative
 112285	indicative
 112288	indicative
@@ -24728,6 +27036,7 @@ infinitive
 infinitive
 infinitive
 112335	indicative
+indicative
 112343	participle
 112356	participle
 indicative
@@ -24741,6 +27050,7 @@ imperative
 112410	indicative
 112412	participle
 112418	participle
+112426	indicative
 112429	indicative
 112431	indicative
 112433	indicative
@@ -24767,12 +27077,14 @@ imperative
 imperative
 imperative
 112543	imperative
+112552	indicative
 112554	indicative
 imperative
 112558	participle
 112560	infinitive
 112563	infinitive
 112568	indicative
+112570	indicative
 112578	participle
 indicative
 112583	indicative
@@ -24811,6 +27123,7 @@ infinitive
 112697	infinitive
 112699	participle
 112705	indicative
+subjunctive
 112712	indicative
 112714	imperative
 112718	imperative
@@ -24822,10 +27135,13 @@ infinitive
 112745	participle
 112747	indicative
 112759	imperative
-112766	participle
+112765	indicative
+participle
 112769	participle
+indicative
 112772	imperative
 112778	subjunctive
+indicative
 indicative
 112792	subjunctive
 112796	participle
@@ -24837,8 +27153,10 @@ imperative
 112815	imperative
 112829	indicative
 participle
+indicative
 112836	indicative
-112847	participle
+112846	indicative
+participle
 infinitive
 112850	indicative
 112852	indicative
@@ -24867,6 +27185,7 @@ participle
 112946	infinitive
 112949	indicative
 112959	indicative
+indicative
 112965	infinitive
 112967	indicative
 participle
@@ -24874,18 +27193,24 @@ participle
 112977	participle
 infinitive
 indicative
+indicative
 112991	indicative
+112994	indicative
 113003	indicative
 113008	participle
 indicative
 113015	indicative
+113020	subjunctive
 113024	imperative
 imperative
 113033	imperative
 113039	imperative
+113043	indicative
 113045	indicative
 113047	indicative
+113051	indicative
 113054	indicative
+indicative
 113059	participle
 113066	participle
 113073	infinitive
@@ -24901,12 +27226,15 @@ indicative
 113132	infinitive
 113134	infinitive
 113142	participle
+113146	indicative
 113148	infinitive
 infinitive
 113154	infinitive
 113156	participle
+113160	indicative
 113162	participle
 113164	subjunctive
+113168	subjunctive
 113172	imperative
 participle
 113184	participle
@@ -24938,6 +27266,7 @@ imperative
 113364	participle
 113375	participle
 113379	participle
+113387	indicative
 113389	indicative
 113401	indicative
 113404	indicative
@@ -24946,6 +27275,7 @@ indicative
 113410	indicative
 113413	indicative
 113417	infinitive
+indicative
 113423	imperative
 participle
 113429	indicative
@@ -25001,6 +27331,7 @@ infinitive
 113659	indicative
 113661	imperative
 participle
+indicative
 113667	infinitive
 113674	participle
 imperative
@@ -25022,9 +27353,13 @@ participle
 113747	participle
 113756	indicative
 113762	imperative
+113770	indicative
+113774	indicative
 113779	indicative
 113783	indicative
+113785	indicative
 113787	participle
+113791	indicative
 113795	participle
 113800	imperative
 imperative
@@ -25039,21 +27374,26 @@ imperative
 113841	participle
 113843	participle
 113846	subjunctive
+113851	indicative
 113855	subjunctive
 113861	participle
+113864	indicative
 113870	imperative
 113875	indicative
 113878	indicative
 113899	participle
+113902	indicative
 113904	participle
 113911	participle
 113914	imperative
 113918	indicative
 113920	participle
+indicative
 113925	participle
 113927	participle
 113929	participle
 113933	participle
+113936	indicative
 113939	infinitive
 participle
 113947	indicative
@@ -25080,9 +27420,11 @@ participle
 114062	indicative
 114064	participle
 114066	infinitive
+indicative
 114075	indicative
 114093	subjunctive
 114102	participle
+indicative
 indicative
 114111	participle
 infinitive
@@ -25118,17 +27460,23 @@ infinitive
 114244	indicative
 participle
 114250	indicative
+indicative
+114254	indicative
+114257	indicative
 114260	indicative
 114265	participle
 imperative
 114269	indicative
+114273	indicative
 114277	indicative
+indicative
 114283	indicative
 114288	participle
 imperative
 114302	indicative
 indicative
 114314	imperative
+infinitive
 114317	indicative
 114328	indicative
 imperative
@@ -25141,6 +27489,8 @@ imperative
 114356	indicative
 114360	indicative
 114369	indicative
+indicative
+114379	indicative
 114385	imperative
 114394	indicative
 114399	indicative
@@ -25158,6 +27508,7 @@ subjunctive
 114513	indicative
 114516	indicative
 114522	participle
+114528	indicative
 114530	indicative
 114535	infinitive
 114549	imperative
@@ -25256,14 +27607,18 @@ participle
 115024	indicative
 participle
 115028	indicative
+115032	indicative
 115034	imperative
 infinitive
+115038	indicative
+115040	indicative
 115042	indicative
 infinitive
 115050	imperative
 115054	subjunctive
 imperative
 115062	infinitive
+indicative
 115069	subjunctive
 115071	indicative
 115077	imperative
@@ -25273,7 +27628,9 @@ imperative
 115136	participle
 115141	participle
 115149	indicative
+115155	indicative
 115166	subjunctive
+115174	indicative
 115179	indicative
 115191	indicative
 115200	participle
@@ -25299,7 +27656,8 @@ imperative
 115323	indicative
 115325	imperative
 115332	indicative
-115335	indicative
+115334	indicative
+indicative
 115338	imperative
 115341	indicative
 115343	indicative
@@ -25320,6 +27678,7 @@ indicative
 115397	indicative
 115399	indicative
 115413	indicative
+115426	imperative
 115429	participle
 115440	indicative
 115445	indicative
@@ -25334,12 +27693,16 @@ indicative
 115503	indicative
 115507	indicative
 115512	indicative
+115514	indicative
 115518	indicative
+115520	indicative
 115525	subjunctive
+115528	indicative
 115531	indicative
 115533	imperative
 115543	indicative
 115545	participle
+115565	indicative
 115579	indicative
 115582	indicative
 115586	indicative
@@ -25356,6 +27719,7 @@ indicative
 115652	imperative
 115658	subjunctive
 115668	indicative
+115671	indicative
 115673	participle
 115676	participle
 infinitive
@@ -25373,6 +27737,7 @@ participle
 115715	participle
 infinitive
 115722	participle
+indicative
 115725	indicative
 participle
 115747	indicative
@@ -25382,10 +27747,12 @@ indicative
 115759	participle
 115761	indicative
 115764	indicative
+115766	indicative
 115770	indicative
 115772	indicative
 115781	indicative
 115784	indicative
+subjunctive
 115792	infinitive
 115797	indicative
 115803	indicative
@@ -25395,6 +27762,7 @@ indicative
 115825	participle
 115831	subjunctive
 115833	indicative
+115847	indicative
 115849	participle
 115857	infinitive
 115861	participle
@@ -25408,6 +27776,7 @@ indicative
 participle
 115898	imperative
 115905	indicative
+115908	indicative
 115912	indicative
 115919	indicative
 115926	subjunctive
@@ -25422,6 +27791,7 @@ imperative
 115960	indicative
 115965	infinitive
 115968	subjunctive
+115976	indicative
 115978	infinitive
 115986	indicative
 115988	participle
@@ -25436,6 +27806,7 @@ infinitive
 116036	participle
 116041	indicative
 116047	participle
+116060	indicative
 116063	participle
 116074	indicative
 116087	subjunctive
@@ -25450,6 +27821,7 @@ infinitive
 116146	indicative
 116151	indicative
 116157	indicative
+indicative
 116162	imperative
 116166	indicative
 116175	infinitive
@@ -25471,6 +27843,7 @@ indicative
 116255	indicative
 116261	indicative
 116263	infinitive
+indicative
 116271	participle
 116273	indicative
 116276	indicative
@@ -25478,6 +27851,7 @@ infinitive
 116280	subjunctive
 116284	participle
 116286	infinitive
+indicative
 116291	subjunctive
 116295	infinitive
 116298	indicative
@@ -25486,16 +27860,21 @@ participle
 116311	participle
 116315	participle
 indicative
+116318	indicative
 116322	participle
 116324	indicative
 116326	indicative
 116332	indicative
+indicative
 116343	participle
 indicative
 116352	indicative
 116370	indicative
+indicative
+116375	indicative
 116377	indicative
 116379	infinitive
+indicative
 116385	participle
 116387	indicative
 116392	indicative
@@ -25508,14 +27887,17 @@ indicative
 indicative
 116428	indicative
 116436	participle
+indicative
 116443	indicative
 116454	subjunctive
 116456	infinitive
+indicative
 116468	subjunctive
 116471	participle
 116482	participle
 116486	participle
 116504	indicative
+116507	indicative
 116513	participle
 116522	participle
 116526	participle
@@ -25527,6 +27909,7 @@ infinitive
 116555	subjunctive
 116564	subjunctive
 116568	subjunctive
+indicative
 116577	participle
 116580	indicative
 116586	subjunctive
@@ -25534,6 +27917,7 @@ infinitive
 participle
 116596	participle
 116598	participle
+indicative
 116602	indicative
 116607	indicative
 116616	infinitive
@@ -25546,6 +27930,7 @@ infinitive
 116650	indicative
 116654	indicative
 116660	indicative
+116663	indicative
 116683	participle
 infinitive
 116693	participle
@@ -25558,6 +27943,7 @@ indicative
 116713	participle
 116718	participle
 116735	infinitive
+indicative
 116738	indicative
 116743	participle
 infinitive
@@ -25582,6 +27968,7 @@ participle
 116867	participle
 116870	participle
 116872	infinitive
+indicative
 116875	participle
 116882	participle
 116886	participle
@@ -25590,11 +27977,13 @@ participle
 116901	indicative
 indicative
 116907	participle
+116919	indicative
 116921	indicative
 116929	participle
 116934	indicative
 116940	infinitive
 116948	indicative
+indicative
 116953	participle
 116957	participle
 indicative
@@ -25602,6 +27991,7 @@ indicative
 116976	subjunctive
 116984	participle
 116990	participle
+116993	indicative
 116996	indicative
 116998	infinitive
 indicative
@@ -25613,6 +28003,7 @@ indicative
 117014	participle
 indicative
 117023	indicative
+117029	indicative
 117036	participle
 117039	infinitive
 117049	indicative
@@ -25623,8 +28014,10 @@ infinitive
 117068	participle
 117073	indicative
 117081	participle
+indicative
 117091	indicative
 117098	participle
+indicative
 117114	participle
 117116	participle
 117123	participle
@@ -25634,6 +28027,7 @@ infinitive
 117155	participle
 participle
 117162	indicative
+117164	indicative
 117167	imperative
 117174	indicative
 117186	indicative
@@ -25647,6 +28041,7 @@ participle
 117232	indicative
 117237	participle
 117239	indicative
+indicative
 117242	participle
 117244	indicative
 117248	infinitive
@@ -25665,12 +28060,14 @@ participle
 117318	indicative
 117322	indicative
 117330	indicative
+117334	indicative
 117341	indicative
 117346	indicative
 117352	indicative
 117361	indicative
 imperative
 117367	indicative
+117372	indicative
 117382	indicative
 participle
 117393	indicative
@@ -25679,17 +28076,21 @@ participle
 117425	participle
 117428	indicative
 117432	indicative
+117435	indicative
 117443	indicative
 117450	indicative
 participle
 117456	infinitive
 infinitive
 117462	infinitive
+117464	indicative
 117468	indicative
 117473	infinitive
+indicative
 117477	indicative
 117479	participle
 117485	participle
+indicative
 117488	infinitive
 117495	indicative
 117500	participle
@@ -25700,11 +28101,13 @@ infinitive
 117534	participle
 117539	indicative
 117541	participle
+117553	indicative
 117556	participle
 117561	participle
 117563	indicative
 117566	indicative
 117585	indicative
+117593	indicative
 117595	infinitive
 117600	indicative
 117602	participle
@@ -25741,9 +28144,12 @@ indicative
 117743	indicative
 117751	indicative
 117753	participle
+117756	indicative
 117764	indicative
 117767	indicative
+117769	indicative
 117773	indicative
+117775	indicative
 117780	subjunctive
 117790	participle
 imperative
@@ -25763,16 +28169,20 @@ participle
 117882	participle
 117889	participle
 117897	participle
+117903	subjunctive
 117908	participle
 117914	indicative
 117916	infinitive
 117922	participle
+indicative
 117930	indicative
 117935	participle
+indicative
 117950	indicative
 117959	participle
 117965	infinitive
 117974	participle
+117978	indicative
 117982	participle
 117989	indicative
 117991	participle
@@ -25783,20 +28193,24 @@ participle
 118016	participle
 118027	indicative
 118043	indicative
+118045	indicative
 118050	participle
 118061	participle
 118063	participle
 indicative
 118081	indicative
 118085	indicative
+118092	indicative
 118094	infinitive
 118096	participle
 118103	indicative
 118106	participle
+indicative
 118117	subjunctive
 118119	participle
 118128	infinitive
 118130	participle
+118136	indicative
 118139	indicative
 118141	indicative
 118143	participle
@@ -25811,25 +28225,34 @@ indicative
 118218	indicative
 118226	indicative
 118238	infinitive
+118249	indicative
 118251	indicative
+118258	indicative
 118263	infinitive
 118273	subjunctive
 118278	indicative
-118288	indicative
+indicative
+118287	indicative
+indicative
 118291	infinitive
+118302	indicative
 118310	indicative
 118314	indicative
 118318	infinitive
 118328	participle
+indicative
 118332	infinitive
 118338	indicative
 118341	participle
+indicative
 118346	participle
 118350	participle
 118364	indicative
+indicative
 118369	indicative
 118371	participle
 infinitive
+indicative
 118376	indicative
 participle
 118381	infinitive
@@ -25837,6 +28260,7 @@ participle
 118388	participle
 118402	infinitive
 118405	participle
+indicative
 118409	indicative
 118414	indicative
 118417	indicative
@@ -25864,10 +28288,12 @@ indicative
 118506	indicative
 infinitive
 118514	participle
+118516	indicative
 118519	indicative
 118526	participle
 118528	subjunctive
 118539	indicative
+indicative
 118544	participle
 indicative
 118556	infinitive
@@ -25877,6 +28303,7 @@ indicative
 118581	indicative
 118593	indicative
 118603	participle
+118607	indicative
 118617	indicative
 118622	participle
 118627	indicative
@@ -25884,6 +28311,7 @@ indicative
 118658	subjunctive
 118667	participle
 118669	subjunctive
+118671	indicative
 118678	participle
 118685	imperative
 participle
@@ -25895,6 +28323,7 @@ participle
 participle
 118723	participle
 118730	participle
+indicative
 118734	indicative
 118736	indicative
 118738	indicative
@@ -25907,6 +28336,7 @@ indicative
 118769	indicative
 118772	indicative
 118779	infinitive
+indicative
 118783	participle
 imperative
 118791	participle
@@ -25932,13 +28362,16 @@ indicative
 118874	subjunctive
 118876	indicative
 118885	indicative
+118887	indicative
 118889	imperative
+118891	indicative
 118894	indicative
 118897	participle
 118902	participle
 118906	indicative
 118910	indicative
 infinitive
+118916	indicative
 118920	participle
 118922	participle
 infinitive
@@ -25964,23 +28397,29 @@ infinitive
 119000	participle
 participle
 indicative
+119004	indicative
 119011	indicative
 119019	indicative
 119022	participle
 119024	indicative
 infinitive
+indicative
 119029	indicative
 infinitive
+indicative
 119034	indicative
 119036	participle
 119038	indicative
 119040	indicative
+indicative
 119046	participle
 119049	participle
 119055	participle
 119060	indicative
 119065	participle
+119078	indicative
 119081	indicative
+119086	indicative
 119088	indicative
 119090	participle
 119095	indicative
@@ -26031,10 +28470,12 @@ infinitive
 119293	indicative
 119295	participle
 infinitive
-119302	participle
+119301	indicative
+participle
 infinitive
 119308	participle
 119316	indicative
+119318	indicative
 119322	indicative
 119325	participle
 119334	participle
@@ -26088,12 +28529,14 @@ participle
 119545	subjunctive
 119547	participle
 119550	participle
+indicative
 119562	participle
 119565	indicative
 119568	participle
 119576	indicative
 imperative
 119581	participle
+119585	indicative
 119590	subjunctive
 119594	participle
 119598	indicative
@@ -26107,6 +28550,7 @@ imperative
 119627	indicative
 indicative
 119633	indicative
+indicative
 119636	indicative
 119640	indicative
 119648	indicative
@@ -26120,6 +28564,7 @@ indicative
 119694	participle
 119696	indicative
 119701	participle
+indicative
 119704	infinitive
 119708	indicative
 119714	participle
@@ -26138,9 +28583,11 @@ subjunctive
 119765	indicative
 119768	participle
 119771	participle
-119782	participle
+119781	subjunctive
+participle
 subjunctive
 119787	subjunctive
+119793	indicative
 119801	indicative
 119805	indicative
 119810	participle
@@ -26213,6 +28660,8 @@ indicative
 120080	indicative
 120087	participle
 120092	imperative
+120097	indicative
+120103	indicative
 120111	imperative
 120115	infinitive
 120123	indicative
@@ -26222,10 +28671,14 @@ indicative
 120132	indicative
 120137	participle
 120140	indicative
+120146	indicative
 120155	indicative
+subjunctive
 120163	subjunctive
+120170	subjunctive
 120173	indicative
 120175	subjunctive
+120178	subjunctive
 120184	participle
 120187	indicative
 120189	participle
@@ -26254,8 +28707,11 @@ infinitive
 120275	subjunctive
 120283	participle
 120300	optative
+120305	indicative
 120307	infinitive
 120311	participle
+120316	indicative
+120324	indicative
 120330	indicative
 120334	imperative
 120343	indicative
@@ -26280,6 +28736,7 @@ imperative
 120429	indicative
 120431	imperative
 120434	participle
+120437	indicative
 120440	participle
 120442	indicative
 120444	imperative
@@ -26318,13 +28775,18 @@ indicative
 120601	participle
 120603	indicative
 participle
+120615	indicative
 120618	participle
 indicative
+120623	indicative
 120625	infinitive
 120632	imperative
 120636	imperative
+120641	indicative
 120643	infinitive
+120645	indicative
 120647	infinitive
+120649	indicative
 120657	indicative
 120659	participle
 participle
@@ -26341,6 +28803,7 @@ infinitive
 120714	indicative
 120716	indicative
 120719	participle
+indicative
 120722	participle
 120727	participle
 120731	participle
@@ -26356,6 +28819,7 @@ infinitive
 120780	infinitive
 120789	imperative
 120801	subjunctive
+indicative
 120810	subjunctive
 120817	subjunctive
 120821	participle
@@ -26363,7 +28827,9 @@ infinitive
 120829	imperative
 120835	subjunctive
 120837	imperative
-120840	imperative
+indicative
+indicative
+imperative
 120846	indicative
 120850	indicative
 120854	imperative
@@ -26373,10 +28839,12 @@ infinitive
 120880	indicative
 120886	indicative
 120890	indicative
+120892	indicative
 120896	indicative
 120901	participle
 120907	indicative
 120912	indicative
+120914	participle
 120919	indicative
 120924	indicative
 participle
@@ -26401,6 +28869,7 @@ infinitive
 120997	subjunctive
 120999	indicative
 121002	infinitive
+121006	indicative
 121009	subjunctive
 121011	participle
 121015	subjunctive
@@ -26423,6 +28892,7 @@ indicative
 121090	indicative
 indicative
 121093	infinitive
+subjunctive
 121104	indicative
 121112	indicative
 participle
@@ -26433,6 +28903,7 @@ participle
 121141	participle
 indicative
 121148	indicative
+121150	indicative
 121155	indicative
 indicative
 121160	indicative
@@ -26447,7 +28918,9 @@ participle
 121213	indicative
 121220	indicative
 121225	infinitive
+121236	indicative
 121239	indicative
+indicative
 121242	infinitive
 121250	indicative
 imperative
@@ -26478,6 +28951,7 @@ indicative
 121389	indicative
 121396	indicative
 121401	infinitive
+indicative
 121408	infinitive
 121413	participle
 121416	imperative
@@ -26487,9 +28961,12 @@ indicative
 121446	indicative
 121451	participle
 imperative
+121461	indicative
 121474	indicative
 121491	indicative
 121493	participle
+121495	indicative
+121498	indicative
 121509	participle
 121514	indicative
 121517	indicative
@@ -26511,7 +28988,8 @@ indicative
 121563	subjunctive
 121565	infinitive
 121571	indicative
-121573	indicative
+indicative
+indicative
 121575	indicative
 121578	indicative
 121581	indicative
@@ -26528,12 +29006,16 @@ indicative
 121627	imperative
 121629	imperative
 121631	imperative
+121635	indicative
 121637	imperative
+121641	indicative
 121643	subjunctive
+indicative
 121647	indicative
 121650	imperative
 121654	participle
-121657	participle
+121656	indicative
+participle
 121661	indicative
 121664	indicative
 121669	indicative
@@ -26546,10 +29028,14 @@ infinitive
 121685	infinitive
 121689	indicative
 121691	participle
-121694	imperative
+121693	participle
+imperative
 121697	participle
+121699	indicative
 121701	indicative
+indicative
 121707	indicative
+indicative
 121711	indicative
 121713	indicative
 121716	indicative
@@ -26560,6 +29046,7 @@ infinitive
 121740	subjunctive
 121742	indicative
 121744	indicative
+121746	indicative
 121750	indicative
 121755	indicative
 121759	indicative
@@ -26574,6 +29061,7 @@ participle
 121785	indicative
 121791	indicative
 121798	indicative
+121803	indicative
 121806	indicative
 121808	indicative
 121814	indicative
@@ -26582,6 +29070,7 @@ participle
 121829	participle
 121832	indicative
 121837	participle
+indicative
 121844	indicative
 121849	indicative
 indicative
@@ -26645,11 +29134,16 @@ indicative
 122102	participle
 122108	indicative
 122114	indicative
+122137	indicative
 122148	optative
 122165	participle
+122167	indicative
 122169	participle
+122176	indicative
 122183	participle
+122186	indicative
 122192	participle
+122195	indicative
 122198	infinitive
 122204	indicative
 122208	participle
@@ -26657,7 +29151,9 @@ participle
 122222	participle
 122226	participle
 subjunctive
+indicative
 122240	participle
+indicative
 indicative
 122246	participle
 participle
@@ -26666,15 +29162,20 @@ participle
 participle
 122264	indicative
 122266	indicative
+122271	indicative
 122274	participle
 participle
+indicative
+122278	indicative
 122281	indicative
 122287	participle
+122289	indicative
 122298	indicative
 122304	indicative
 122308	indicative
 122312	participle
 122317	participle
+122320	indicative
 122322	indicative
 122324	infinitive
 122326	participle
@@ -26692,14 +29193,18 @@ imperative
 122382	participle
 122394	imperative
 participle
+122400	indicative
 122402	indicative
 122409	imperative
 122418	participle
 122423	participle
+122435	indicative
 122438	participle
 122445	participle
 122452	infinitive
+indicative
 122458	participle
+122464	indicative
 122470	imperative
 122472	participle
 122477	imperative
@@ -26710,19 +29215,23 @@ participle
 122497	indicative
 122503	indicative
 122508	indicative
+indicative
 122514	indicative
 122518	participle
+indicative
 122521	participle
 122523	participle
 122533	participle
 122542	imperative
 122546	subjunctive
+indicative
 122550	indicative
 122557	participle
 122559	participle
 122563	participle
 122573	participle
 indicative
+122577	indicative
 122580	infinitive
 122589	indicative
 122592	imperative
@@ -26734,11 +29243,15 @@ participle
 122618	indicative
 122620	participle
 122622	indicative
+indicative
 122633	indicative
 122636	participle
+indicative
 122640	indicative
+122650	indicative
 122655	subjunctive
 122660	participle
+indicative
 122676	participle
 122679	participle
 122681	indicative
@@ -26753,6 +29266,7 @@ subjunctive
 122731	participle
 optative
 122737	participle
+indicative
 122746	indicative
 122751	participle
 infinitive
@@ -26772,6 +29286,7 @@ indicative
 122824	participle
 122826	participle
 indicative
+122832	indicative
 122835	indicative
 122839	indicative
 122843	participle
@@ -26799,8 +29314,11 @@ indicative
 122933	indicative
 participle
 122942	imperative
+122951	indicative
 122970	indicative
+indicative
 122983	participle
+indicative
 122986	indicative
 122988	participle
 122994	indicative
@@ -26812,9 +29330,13 @@ participle
 participle
 123020	participle
 123024	optative
+123027	indicative
 123030	infinitive
 123044	participle
+123048	indicative
+123052	indicative
 123054	participle
+123056	indicative
 123058	indicative
 123061	subjunctive
 123064	participle
@@ -26826,6 +29348,7 @@ participle
 123087	imperative
 123089	imperative
 123092	imperative
+123102	indicative
 123109	participle
 123114	participle
 123120	subjunctive
@@ -26842,7 +29365,8 @@ subjunctive
 123182	participle
 123184	optative
 123189	infinitive
-123191	participle
+indicative
+participle
 123198	indicative
 123204	subjunctive
 123207	participle
@@ -26852,17 +29376,21 @@ indicative
 participle
 123225	indicative
 123233	participle
+123235	indicative
 123239	indicative
 123242	indicative
 123250	indicative
 123256	imperative
+123260	indicative
 123267	indicative
 123271	participle
+indicative
 123274	participle
 123283	participle
 123290	imperative
 123293	participle
 123295	indicative
+123297	indicative
 123302	imperative
 123309	infinitive
 123314	participle
@@ -26870,24 +29398,31 @@ participle
 participle
 123333	indicative
 123335	participle
+123337	indicative
 123343	participle
 123345	indicative
 123349	participle
 infinitive
 participle
+123354	indicative
 123361	subjunctive
 123366	subjunctive
 123376	imperative
 123379	imperative
+indicative
+123385	indicative
 123389	participle
 123392	indicative
+123396	indicative
 123402	indicative
+123404	indicative
 123407	participle
 123416	indicative
 123422	indicative
 123427	indicative
 123433	subjunctive
 123440	indicative
+123446	indicative
 123454	imperative
 123462	participle
 123466	participle
@@ -26899,6 +29434,9 @@ participle
 123486	indicative
 123502	indicative
 123507	imperative
+123510	indicative
+123512	indicative
+123514	indicative
 123522	imperative
 imperative
 123535	infinitive
@@ -26938,16 +29476,19 @@ participle
 123705	participle
 123716	infinitive
 123723	participle
+123725	indicative
 123733	participle
 123735	indicative
 indicative
 indicative
 indicative
+123742	indicative
 123755	indicative
 123758	indicative
 participle
 123761	participle
 123763	infinitive
+123768	indicative
 123770	subjunctive
 indicative
 123782	imperative
@@ -26964,15 +29505,18 @@ imperative
 123929	participle
 123931	participle
 123936	indicative
+indicative
 123948	indicative
 123951	indicative
 participle
 123954	participle
+123958	imperative
 123964	imperative
 123971	infinitive
 123974	participle
 123977	subjunctive
 123982	indicative
+123986	indicative
 123998	indicative
 124001	infinitive
 124005	participle
@@ -26995,6 +29539,7 @@ indicative
 124080	participle
 124089	participle
 124103	indicative
+indicative
 124107	indicative
 124113	indicative
 124116	participle
@@ -27021,6 +29566,7 @@ participle
 124207	indicative
 124217	indicative
 124224	indicative
+124228	imperative
 124230	indicative
 124236	indicative
 124242	participle
@@ -27028,6 +29574,7 @@ participle
 imperative
 optative
 124248	participle
+indicative
 indicative
 124252	participle
 124257	indicative
@@ -27045,8 +29592,10 @@ participle
 124308	indicative
 indicative
 124314	infinitive
+124317	indicative
 124320	participle
 infinitive
+124325	subjunctive
 124330	participle
 124333	participle
 124338	indicative
@@ -27054,6 +29603,7 @@ participle
 124346	participle
 124348	indicative
 124360	participle
+124362	indicative
 124368	indicative
 participle
 124375	indicative
@@ -27090,13 +29640,15 @@ indicative
 indicative
 124516	indicative
 124519	infinitive
-124525	participle
+124524	indicative
+participle
 infinitive
 124529	participle
 124533	indicative
 124540	participle
 124543	participle
 124547	participle
+indicative
 124556	indicative
 124560	indicative
 124567	infinitive
@@ -27111,21 +29663,25 @@ infinitive
 124624	indicative
 124628	participle
 124631	indicative
+imperative
 124640	participle
 124651	participle
 indicative
 124663	participle
 indicative
 124666	participle
+indicative
 124675	participle
 124679	imperative
 124697	indicative
 124704	indicative
 imperative
 indicative
+indicative
 124710	participle
 124712	infinitive
 imperative
+124715	indicative
 124717	infinitive
 indicative
 124729	indicative
@@ -27159,6 +29715,7 @@ imperative
 124864	participle
 subjunctive
 124869	imperative
+124888	indicative
 124892	indicative
 124896	indicative
 124898	indicative
@@ -27270,6 +29827,7 @@ indicative
 125425	indicative
 125432	participle
 125437	indicative
+indicative
 125444	indicative
 125447	indicative
 125450	indicative
@@ -27360,6 +29918,7 @@ indicative
 125807	participle
 125813	indicative
 125819	indicative
+indicative
 125822	indicative
 125828	subjunctive
 125835	participle
@@ -27383,6 +29942,7 @@ infinitive
 125932	indicative
 125937	indicative
 125939	indicative
+125943	indicative
 125947	indicative
 125952	participle
 indicative
@@ -27413,6 +29973,7 @@ indicative
 126087	subjunctive
 indicative
 126095	indicative
+126099	indicative
 126101	indicative
 126104	indicative
 126109	subjunctive
@@ -27428,6 +29989,7 @@ imperative
 imperative
 126164	indicative
 126168	indicative
+indicative
 126174	indicative
 126182	indicative
 126187	participle
@@ -27441,6 +30003,7 @@ imperative
 126226	indicative
 126229	indicative
 126233	indicative
+126237	indicative
 126246	indicative
 126252	indicative
 126257	indicative
@@ -27460,6 +30023,7 @@ imperative
 126323	indicative
 126326	indicative
 126339	indicative
+126342	indicative
 126346	subjunctive
 126351	indicative
 126357	indicative
@@ -27494,7 +30058,8 @@ imperative
 126510	indicative
 126513	indicative
 126520	indicative
-126529	indicative
+126528	subjunctive
+indicative
 126536	indicative
 126539	participle
 126541	indicative
@@ -27544,6 +30109,7 @@ indicative
 indicative
 126738	participle
 126749	indicative
+indicative
 126752	participle
 indicative
 126759	indicative
@@ -27551,10 +30117,12 @@ indicative
 126768	indicative
 126774	indicative
 126780	participle
+indicative
 126786	indicative
 126793	participle
 126797	indicative
 126801	indicative
+indicative
 126806	indicative
 126815	indicative
 126821	indicative
@@ -27567,6 +30135,7 @@ indicative
 126856	subjunctive
 126859	indicative
 126862	participle
+indicative
 126872	indicative
 126876	indicative
 126882	subjunctive
@@ -27609,8 +30178,10 @@ indicative
 127048	participle
 127055	participle
 127061	indicative
+indicative
 127065	indicative
 127086	indicative
+infinitive
 127089	indicative
 127094	participle
 127099	indicative
@@ -27624,6 +30195,7 @@ indicative
 127138	indicative
 127144	subjunctive
 127148	indicative
+indicative
 127154	participle
 127157	participle
 127161	indicative
@@ -27640,6 +30212,7 @@ imperative
 127207	indicative
 127215	indicative
 127217	imperative
+127219	indicative
 127222	infinitive
 127225	imperative
 127227	participle
@@ -27661,7 +30234,8 @@ indicative
 127289	infinitive
 127291	indicative
 127295	indicative
-127298	participle
+127297	infinitive
+participle
 127301	participle
 127309	indicative
 127313	indicative
@@ -27669,7 +30243,9 @@ indicative
 127323	participle
 127326	indicative
 127329	subjunctive
+indicative
 127337	indicative
+127341	indicative
 127345	indicative
 participle
 indicative
@@ -27721,8 +30297,11 @@ infinitive
 infinitive
 127534	participle
 127538	indicative
-127544	participle
+127543	imperative
+participle
+indicative
 127555	participle
+indicative
 127567	participle
 infinitive
 127571	indicative
@@ -27734,9 +30313,11 @@ indicative
 127596	imperative
 participle
 127599	participle
+127601	indicative
 127609	indicative
 127623	participle
 127625	participle
+subjunctive
 127629	indicative
 127634	participle
 indicative
@@ -27765,6 +30346,7 @@ indicative
 127733	participle
 participle
 127738	participle
+127749	indicative
 127751	indicative
 indicative
 127760	participle
@@ -27790,6 +30372,7 @@ indicative
 127867	participle
 127872	imperative
 participle
+127881	indicative
 127887	imperative
 participle
 imperative
@@ -27801,6 +30384,7 @@ imperative
 infinitive
 127913	infinitive
 indicative
+127943	indicative
 127952	indicative
 127956	infinitive
 127961	indicative
@@ -27816,9 +30400,11 @@ participle
 128023	participle
 128026	indicative
 128029	participle
+128036	indicative
 128060	participle
 128063	participle
 128074	indicative
+128089	indicative
 128095	imperative
 indicative
 128101	indicative
@@ -27836,10 +30422,19 @@ indicative
 128162	participle
 128173	indicative
 128181	indicative
+subjunctive
 128188	participle
 128190	indicative
 imperative
+indicative
 128195	imperative
+128199	indicative
+128202	indicative
+128205	indicative
+128208	indicative
+128211	indicative
+128214	indicative
+128217	indicative
 128220	indicative
 infinitive
 128225	indicative
@@ -27862,6 +30457,7 @@ indicative
 128351	indicative
 128354	imperative
 participle
+indicative
 indicative
 128363	indicative
 128371	imperative
@@ -27889,6 +30485,7 @@ infinitive
 indicative
 128496	indicative
 imperative
+128499	indicative
 128502	imperative
 128507	imperative
 128511	indicative
@@ -27922,6 +30519,7 @@ infinitive
 imperative
 indicative
 infinitive
+128622	indicative
 128625	subjunctive
 128627	indicative
 128631	imperative
@@ -27942,9 +30540,11 @@ infinitive
 128717	indicative
 128719	indicative
 128724	indicative
-128726	participle
+indicative
+participle
 128731	indicative
 128734	infinitive
+128736	indicative
 128740	infinitive
 128743	infinitive
 128745	indicative
@@ -27982,7 +30582,9 @@ indicative
 infinitive
 128901	imperative
 indicative
+128904	indicative
 128908	participle
+128911	indicative
 128916	indicative
 128925	indicative
 128929	indicative
@@ -28022,6 +30624,7 @@ participle
 infinitive
 129083	indicative
 129086	participle
+indicative
 129091	imperative
 129094	indicative
 129096	indicative
@@ -28040,6 +30643,8 @@ indicative
 129141	indicative
 129148	indicative
 129158	indicative
+129162	indicative
+129167	indicative
 129172	participle
 129174	imperative
 129178	indicative
@@ -28052,6 +30657,7 @@ indicative
 129209	indicative
 indicative
 129214	imperative
+indicative
 indicative
 129222	indicative
 infinitive
@@ -28069,6 +30675,7 @@ imperative
 indicative
 129261	indicative
 129263	indicative
+indicative
 129269	subjunctive
 129272	indicative
 129275	indicative
@@ -28083,6 +30690,7 @@ infinitive
 129309	subjunctive
 129314	participle
 indicative
+129325	subjunctive
 129328	subjunctive
 129331	indicative
 129351	participle
@@ -28096,6 +30704,7 @@ indicative
 129406	indicative
 129409	indicative
 129411	indicative
+indicative
 129417	indicative
 129423	indicative
 129425	infinitive
@@ -28147,18 +30756,25 @@ infinitive
 129602	indicative
 129610	participle
 129613	participle
+129633	participle
+129639	participle
 129642	participle
 participle
 129658	indicative
 129668	participle
+indicative
 129673	indicative
+129680	indicative
 129699	participle
+129701	participle
+129703	indicative
 129721	participle
 129732	participle
 129737	participle
 129739	participle
 129741	participle
-129748	indicative
+129747	indicative
+indicative
 129753	indicative
 129757	participle
 129767	indicative
@@ -28167,11 +30783,16 @@ participle
 129776	indicative
 129785	participle
 129790	participle
+indicative
 129796	indicative
+129798	participle
+129801	indicative
 129803	participle
 129808	indicative
 129810	participle
+indicative
 129817	indicative
+129821	indicative
 129824	participle
 129826	indicative
 129833	infinitive
@@ -28182,12 +30803,15 @@ participle
 129859	participle
 129861	participle
 129866	participle
-129870	participle
+indicative
+129869	indicative
+participle
 129874	indicative
 129877	participle
 129883	infinitive
 129887	infinitive
 129893	indicative
+129902	subjunctive
 129905	infinitive
 129909	infinitive
 129912	indicative
@@ -28206,12 +30830,15 @@ indicative
 participle
 129979	indicative
 129985	participle
-129987	participle
+indicative
+participle
 129991	indicative
 129993	indicative
 129998	participle
 130004	indicative
+130012	participle
 130015	indicative
+indicative
 130019	participle
 130025	participle
 130028	indicative
@@ -28231,10 +30858,12 @@ infinitive
 130111	indicative
 130115	participle
 infinitive
+130143	subjunctive
 130150	indicative
 130156	indicative
 participle
 130159	participle
+130177	indicative
 130186	indicative
 130191	indicative
 130193	indicative
@@ -28280,11 +30909,13 @@ imperative
 130351	indicative
 130353	imperative
 130358	participle
+subjunctive
 130368	indicative
 130372	indicative
 130380	infinitive
 130397	indicative
 130401	indicative
+subjunctive
 130408	participle
 130419	indicative
 130421	indicative
@@ -28303,12 +30934,15 @@ imperative
 130491	indicative
 130500	indicative
 130508	indicative
+indicative
 130514	indicative
 130521	participle
 130525	indicative
 130528	participle
 130538	indicative
 130561	indicative
+130563	indicative
+130567	indicative
 130573	indicative
 130579	imperative
 130583	imperative
@@ -28341,6 +30975,8 @@ infinitive
 130780	infinitive
 130783	indicative
 130793	participle
+indicative
+130798	indicative
 130801	participle
 130811	indicative
 130814	participle
@@ -28348,14 +30984,17 @@ indicative
 130821	participle
 130832	indicative
 130844	indicative
+indicative
 130853	indicative
 130856	participle
+130881	indicative
 130888	indicative
 participle
 130893	participle
 130897	participle
 130903	indicative
-130906	indicative
+130905	indicative
+indicative
 130908	indicative
 130913	indicative
 130915	indicative
@@ -28363,6 +31002,7 @@ participle
 130920	participle
 130927	indicative
 130941	indicative
+indicative
 130948	indicative
 130959	participle
 130963	indicative
@@ -28374,6 +31014,7 @@ participle
 131011	indicative
 131016	indicative
 131024	indicative
+131029	indicative
 131032	indicative
 131034	indicative
 131041	indicative
@@ -28383,10 +31024,13 @@ participle
 131051	indicative
 131056	indicative
 131066	participle
+131068	indicative
 131072	indicative
+131085	indicative
 131089	indicative
 131095	indicative
 131103	indicative
+indicative
 131108	indicative
 131121	participle
 131125	indicative
@@ -28395,11 +31039,13 @@ participle
 131134	indicative
 131138	participle
 131142	indicative
+indicative
 131151	indicative
 131157	indicative
 131162	indicative
 131167	indicative
 131173	participle
+indicative
 indicative
 131179	indicative
 131186	indicative
@@ -28411,6 +31057,7 @@ indicative
 131220	indicative
 131237	indicative
 131241	indicative
+131246	indicative
 131252	indicative
 131257	indicative
 131262	indicative
@@ -28429,11 +31076,13 @@ infinitive
 131332	indicative
 131334	indicative
 131339	participle
+indicative
 131344	indicative
 131353	indicative
 131359	indicative
 131369	indicative
 131384	indicative
+131386	indicative
 131390	indicative
 131394	indicative
 131401	indicative
@@ -28449,9 +31098,11 @@ infinitive
 infinitive
 131471	indicative
 131483	participle
+indicative
 131514	indicative
 131516	indicative
 131532	participle
+indicative
 131536	indicative
 131550	infinitive
 131555	indicative
@@ -28463,12 +31114,14 @@ imperative
 indicative
 131590	indicative
 131592	indicative
+131604	indicative
 131607	participle
 131612	participle
 131615	imperative
 131620	participle
 131628	indicative
 131633	participle
+indicative
 131644	subjunctive
 131658	indicative
 131664	indicative
@@ -28510,8 +31163,10 @@ imperative
 participle
 131936	indicative
 131941	participle
+indicative
 131946	indicative
 131949	participle
+indicative
 131956	indicative
 131980	indicative
 131991	subjunctive
@@ -28554,6 +31209,7 @@ indicative
 132172	indicative
 132177	participle
 132180	indicative
+132189	indicative
 132194	participle
 132199	indicative
 infinitive
@@ -28568,6 +31224,7 @@ infinitive
 132232	subjunctive
 132240	indicative
 132244	infinitive
+132246	indicative
 132249	infinitive
 132257	subjunctive
 132260	subjunctive
@@ -28581,6 +31238,7 @@ infinitive
 132319	indicative
 132327	indicative
 infinitive
+indicative
 132333	participle
 132337	indicative
 132341	indicative
@@ -28596,6 +31254,7 @@ infinitive
 132393	participle
 132395	imperative
 132398	indicative
+indicative
 132406	indicative
 132416	indicative
 132424	indicative
@@ -28611,6 +31270,9 @@ imperative
 132470	participle
 indicative
 132484	indicative
+indicative
+132492	participle
+132496	indicative
 132499	participle
 132504	indicative
 132510	indicative
@@ -28632,6 +31294,7 @@ indicative
 132601	indicative
 132615	indicative
 132620	participle
+132626	subjunctive
 132641	participle
 132643	indicative
 participle
@@ -28642,7 +31305,9 @@ infinitive
 132660	participle
 132677	indicative
 132685	indicative
+132687	indicative
 132693	indicative
+indicative
 132698	participle
 infinitive
 132702	subjunctive
@@ -28652,9 +31317,12 @@ infinitive
 infinitive
 132721	indicative
 132736	indicative
+indicative
 132741	indicative
+indicative
 132744	participle
-132750	subjunctive
+132749	indicative
+subjunctive
 132757	indicative
 132769	infinitive
 132776	indicative
@@ -28664,12 +31332,14 @@ infinitive
 132803	participle
 132809	participle
 132813	indicative
+indicative
 132823	indicative
 132825	indicative
 132831	participle
 132833	indicative
 132852	indicative
 132859	participle
+132861	indicative
 132870	indicative
 132886	indicative
 132894	imperative
@@ -28680,12 +31350,17 @@ infinitive
 132920	indicative
 132923	indicative
 132927	indicative
+indicative
 132931	indicative
 132935	indicative
 132939	indicative
 132950	subjunctive
+indicative
+132954	indicative
 132959	indicative
+indicative
 132972	indicative
+132979	subjunctive
 132988	subjunctive
 132990	indicative
 132996	indicative
@@ -28704,8 +31379,10 @@ participle
 indicative
 133098	indicative
 133119	participle
+indicative
 133128	indicative
 133130	indicative
+133134	subjunctive
 133138	indicative
 133142	indicative
 133148	indicative
@@ -28717,6 +31394,7 @@ infinitive
 133171	indicative
 133174	infinitive
 133179	indicative
+133183	indicative
 133188	infinitive
 133200	participle
 133202	indicative
@@ -28730,6 +31408,8 @@ infinitive
 133248	participle
 133254	indicative
 133256	imperative
+133259	indicative
+133261	indicative
 133263	indicative
 133268	indicative
 indicative
@@ -28741,6 +31421,7 @@ indicative
 133298	indicative
 133307	participle
 indicative
+indicative
 133312	indicative
 133319	participle
 133321	indicative
@@ -28748,10 +31429,13 @@ indicative
 133334	indicative
 133340	subjunctive
 133344	infinitive
+indicative
+133348	indicative
 133352	indicative
 133354	participle
 133362	indicative
 133364	infinitive
+indicative
 133368	participle
 133370	participle
 133374	infinitive
@@ -28765,10 +31449,13 @@ indicative
 133413	subjunctive
 133415	indicative
 133435	subjunctive
+133444	indicative
 133453	subjunctive
 infinitive
-133456	infinitive
+indicative
+infinitive
 133460	participle
+133467	indicative
 133476	indicative
 133478	participle
 133480	imperative
@@ -28782,6 +31469,8 @@ infinitive
 133548	indicative
 133551	participle
 133557	indicative
+133560	indicative
+133564	indicative
 133573	indicative
 infinitive
 133585	participle
@@ -28813,9 +31502,13 @@ indicative
 133717	participle
 133723	indicative
 133731	indicative
+133737	indicative
 133744	indicative
 133753	participle
 133762	indicative
+133767	indicative
+133771	indicative
+133780	indicative
 133783	indicative
 133786	indicative
 133792	participle
@@ -28856,8 +31549,10 @@ imperative
 133982	imperative
 133990	indicative
 133995	indicative
+134001	indicative
 134005	indicative
 134011	indicative
+indicative
 134022	indicative
 134029	indicative
 134044	indicative
@@ -28874,6 +31569,7 @@ imperative
 134145	indicative
 134156	indicative
 134158	indicative
+indicative
 134165	indicative
 134169	indicative
 134171	indicative
@@ -28885,24 +31581,30 @@ imperative
 134211	indicative
 134218	participle
 134224	participle
+indicative
 134231	indicative
 134247	indicative
 infinitive
+indicative
 134253	subjunctive
 134261	indicative
 134267	participle
 134271	imperative
 134273	imperative
+134281	indicative
 134285	indicative
 134289	indicative
+134293	indicative
 134297	indicative
 134306	participle
 134313	participle
 134320	indicative
+134324	indicative
 134328	indicative
 134333	indicative
 134336	indicative
 134344	indicative
+134348	indicative
 134357	indicative
 134360	indicative
 134365	participle
@@ -28937,6 +31639,7 @@ infinitive
 134556	participle
 134559	indicative
 134566	infinitive
+134568	indicative
 134579	imperative
 indicative
 134585	participle
@@ -28944,6 +31647,7 @@ indicative
 134594	subjunctive
 134596	subjunctive
 134601	indicative
+134603	indicative
 134607	participle
 134613	indicative
 134621	indicative
@@ -28954,8 +31658,10 @@ indicative
 134645	indicative
 134649	indicative
 134658	indicative
+134663	indicative
 134671	indicative
 134676	indicative
+indicative
 134680	infinitive
 134692	indicative
 134694	indicative
@@ -28974,6 +31680,7 @@ participle
 134768	indicative
 134770	participle
 134780	indicative
+134782	indicative
 134787	indicative
 134789	participle
 134793	participle
@@ -29002,6 +31709,7 @@ indicative
 134913	indicative
 134915	indicative
 infinitive
+134921	indicative
 134923	indicative
 134925	indicative
 134927	participle
@@ -29025,6 +31733,7 @@ infinitive
 135000	indicative
 135004	indicative
 135009	indicative
+135011	indicative
 135013	indicative
 135019	indicative
 135022	indicative
@@ -29047,6 +31756,7 @@ indicative
 135118	indicative
 135121	indicative
 135127	indicative
+indicative
 135132	infinitive
 135137	infinitive
 135141	infinitive
@@ -29131,6 +31841,7 @@ imperative
 135678	indicative
 participle
 135687	indicative
+indicative
 135691	participle
 135694	indicative
 135702	subjunctive
@@ -29149,7 +31860,9 @@ participle
 135830	indicative
 135838	indicative
 135855	indicative
+indicative
 135862	indicative
+135866	participle
 135873	indicative
 135877	participle
 135881	participle
@@ -29170,6 +31883,7 @@ imperative
 135968	indicative
 135970	indicative
 135972	imperative
+135975	indicative
 135982	participle
 135984	indicative
 135992	indicative
@@ -29206,6 +31920,7 @@ imperative
 136172	participle
 136177	participle
 136181	subjunctive
+indicative
 136190	subjunctive
 136204	participle
 136219	indicative
@@ -29214,11 +31929,13 @@ infinitive
 136237	participle
 136247	indicative
 136256	participle
+136259	indicative
 136263	indicative
 136265	participle
 136272	participle
 136276	participle
 indicative
+136280	indicative
 136286	participle
 136292	indicative
 136297	participle
@@ -29231,8 +31948,10 @@ indicative
 136344	indicative
 136350	indicative
 136355	indicative
+136357	indicative
 136361	indicative
 136363	indicative
+subjunctive
 136368	subjunctive
 136373	subjunctive
 136379	indicative
@@ -29256,6 +31975,7 @@ infinitive
 136506	indicative
 infinitive
 136521	infinitive
+136523	indicative
 136536	indicative
 136543	indicative
 136552	participle
@@ -29263,13 +31983,16 @@ infinitive
 136560	indicative
 136566	participle
 136568	indicative
+indicative
 136584	indicative
+136588	indicative
 136594	indicative
 136600	participle
 136607	indicative
 136616	indicative
 136619	indicative
 136627	participle
+indicative
 136633	indicative
 136637	indicative
 136639	indicative
@@ -29279,9 +32002,11 @@ infinitive
 136671	indicative
 136678	indicative
 136690	indicative
+indicative
 136701	indicative
 136710	indicative
 136716	participle
+indicative
 indicative
 136724	indicative
 136726	participle
@@ -29361,16 +32086,21 @@ participle
 137252	indicative
 137261	indicative
 137273	indicative
+137277	indicative
 137285	subjunctive
 137290	indicative
+indicative
 137293	indicative
+137301	indicative
 137306	subjunctive
+indicative
 137313	participle
 137320	participle
 137329	indicative
 137337	participle
 137359	participle
 137365	infinitive
+137374	indicative
 137382	indicative
 137394	indicative
 137399	indicative
@@ -29379,6 +32109,7 @@ participle
 137421	indicative
 137432	indicative
 137436	indicative
+indicative
 137443	indicative
 137460	indicative
 137464	infinitive
@@ -29414,6 +32145,8 @@ indicative
 137606	participle
 137611	indicative
 137623	subjunctive
+indicative
+137627	subjunctive
 137644	participle
 137646	participle
 137650	indicative

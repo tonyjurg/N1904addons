@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:29+00:00Z
+@dateWritten=2025-06-15T22:27:32+00:00Z
 
 5	verb
 7	verb
@@ -23,75 +23,75 @@ verb
 253	noun
 260	noun
 271	noun
-283	conjunction
+283	noun other indeclinable
 292	verb
-296	verb
-322	adverb
+296	noun other indeclinable
+322	noun other indeclinable
 324	verb
 329	noun
 339	verb
-342	verb
+342	noun other indeclinable
 360	verb
 377	verb
 noun
-382	adverb
-385	verb
+382	noun
+385	noun other indeclinable
 387	noun
 392	verb
 410	verb
-412	relative pronoun
+412	noun other indeclinable
 417	verb
 427	noun
-441	verb
-445	verb
-450	adverb
-470	verb
+441	noun other indeclinable
+445	noun other indeclinable
+450	noun other indeclinable
+470	noun other indeclinable
 475	verb
 477	verb
 484	proper noun indeclinable
 504	personal pronoun
-508	verb
+508	noun other indeclinable
 515	noun
-526	verb
+526	noun other indeclinable
 531	verb
 561	verb
-564	unknown
+564	noun other indeclinable
 574	verb
 576	verb
 578	personal pronoun
-585	adverb
-590	verb
+585	noun other indeclinable
+590	noun other indeclinable
 595	noun
 598	verb
-600	conjunction
-610	noun
+600	noun other indeclinable
+610	noun other indeclinable
 650	verb
 verb
 655	verb
 657	verb
-660	adverb
+660	noun other indeclinable
 662	verb
 668	noun
 684	noun
 686	noun
-713	conjunction
+713	noun other indeclinable
 715	noun
 717	verb
 724	verb
 noun
 739	verb
-744	verb
+744	noun other indeclinable
 747	verb
-752	verb
-755	verb
+752	noun other indeclinable
+755	noun other indeclinable
 763	noun
 769	noun
 776	noun
-782	verb
+782	noun other indeclinable
 791	proper noun indeclinable
-805	adverb
+805	noun other indeclinable
 807	verb
-813	verb
+813	noun other indeclinable
 815	noun
 831	personal pronoun
 834	verb
@@ -99,41 +99,41 @@ noun
 873	proper noun indeclinable
 888	noun
 890	verb
-894	verb
-904	verb
+894	noun other indeclinable
+904	noun other indeclinable
 909	noun
 verb
 914	noun
 916	verb
 922	noun
-929	verb
+929	noun other indeclinable
 935	verb
 950	verb
 961	verb
-conjunction
+noun other indeclinable
 967	verb
 974	proper noun indeclinable
 978	proper noun indeclinable
-985	verb
+985	noun other indeclinable
 995	noun
 1006	verb
 1017	verb
 1021	noun
-1028	verb
+1028	noun other indeclinable
 1034	verb
 1038	noun
 1043	verb
 1057	verb
 1063	verb
-1075	verb
+1075	noun other indeclinable
 1078	verb
-1081	verb
+1081	noun other indeclinable
 1091	proper noun indeclinable
 1093	verb
 1096	verb
-verb
+noun other indeclinable
 1104	verb
-verb
+noun other indeclinable
 1112	noun
 1115	verb
 1125	verb
@@ -143,14 +143,14 @@ verb
 1171	noun
 1175	proper noun indeclinable
 1178	verb
-1190	adverb
+1190	noun other indeclinable
 1192	personal pronoun
 verb
 1197	verb
-1205	adverb
+1205	noun other indeclinable
 1209	verb
 verb
-1218	verb
+1218	noun other indeclinable
 1227	noun
 1234	verb
 1248	verb
@@ -174,7 +174,7 @@ verb
 noun
 1342	verb
 verb
-1352	verb
+1352	noun other indeclinable
 1356	proper noun indeclinable
 1358	noun
 1363	verb
@@ -187,16 +187,16 @@ verb
 verb
 1393	noun
 1395	verb
-1400	adverb
+1400	noun other indeclinable
 1404	verb
 1406	verb
 1416	verb
-1425	verb
+1425	noun other indeclinable
 1434	noun
 1446	verb
 1449	noun
-1456	verb
-1464	verb
+1456	noun other indeclinable
+1464	noun other indeclinable
 1467	verb
 verb
 1480	verb
@@ -206,22 +206,22 @@ verb
 1499	verb
 1513	verb
 1515	verb
-1518	verb
+1518	noun other indeclinable
 1523	verb
 1525	personal pronoun
 1529	proper noun indeclinable
-1549	verb
+1549	noun other indeclinable
 1558	proper noun indeclinable
 1564	personal pronoun
-1578	verb
+1578	noun other indeclinable
 verb
-1583	verb
+1583	noun other indeclinable
 1590	verb
 1592	noun
 1595	proper noun indeclinable
 1598	proper noun indeclinable
 verb
-verb
+noun other indeclinable
 1611	noun
 1647	verb
 1650	noun
@@ -247,25 +247,25 @@ verb
 1743	noun
 1745	verb
 1764	verb
-1770	verb
+1770	noun other indeclinable
 1784	noun
 1787	verb
 1790	noun
-1792	verb
-1802	verb
+1792	noun other indeclinable
+1802	noun other indeclinable
 verb
 1814	noun
 1817	verb
 1832	noun
-1837	verb
+1837	noun other indeclinable
 1851	proper noun indeclinable
 noun
-1860	verb
+1860	noun other indeclinable
 1867	verb
 1870	verb
 1875	verb
 verb
-1878	verb
+1878	noun other indeclinable
 1880	verb
 1882	noun
 1892	verb
@@ -273,12 +273,12 @@ verb
 1906	verb
 1908	noun
 1916	noun
-1922	verb
+1922	noun other indeclinable
 1924	noun
 1926	verb
 1930	noun
 1932	noun
-1936	verb
+1936	noun other indeclinable
 1938	noun
 1940	verb
 verb
@@ -302,15 +302,15 @@ noun
 2060	verb
 2063	verb
 2065	noun
-2070	verb
+2070	noun other indeclinable
 2085	verb
-2090	verb
+2090	noun other indeclinable
 verb
 2097	noun
 2101	verb
 2110	verb
 2119	verb
-2124	verb
+2124	noun other indeclinable
 2126	verb
 2132	verb
 2142	verb
@@ -334,15 +334,15 @@ verb
 2238	verb
 2241	verb
 2244	verb
-2250	verb
+2250	noun other indeclinable
 2257	verb
-2259	verb
+2259	noun other indeclinable
 2266	verb
-2278	verb
+2278	noun other indeclinable
 2281	verb
 2290	verb
-2297	adverb
-adverb
+2297	noun other indeclinable
+noun other indeclinable
 2321	verb
 2333	noun
 2335	verb
@@ -351,27 +351,27 @@ adverb
 2372	noun
 2374	verb
 2381	noun
-2383	verb
+2383	noun
 verb
 2389	verb
 2392	verb
 2394	verb
 2406	verb
-2411	verb
+2411	noun other indeclinable
 2428	verb
 2439	personal pronoun
 2445	verb
 2456	personal pronoun
 2461	verb
 2464	verb
-relative pronoun
+noun other indeclinable
 2493	noun
-2498	verb
+2498	noun other indeclinable
 2508	verb
 2510	personal pronoun
-2513	verb
-2517	verb
-2525	verb
+2513	noun other indeclinable
+2517	noun other indeclinable
+2525	noun other indeclinable
 verb
 2532	verb
 2537	noun
@@ -379,52 +379,52 @@ verb
 2544	noun
 verb
 2548	verb
-2551	verb
+2551	noun other indeclinable
 2557	verb
-2560	verb
+2560	noun other indeclinable
 2563	verb
 2569	verb
-relative pronoun
+noun other indeclinable
 personal pronoun
 2574	verb
-verb
-2579	verb
+noun other indeclinable
+2579	noun other indeclinable
 2583	verb
 2587	verb
-2590	verb
+2590	noun other indeclinable
 verb
 2605	verb
 2609	verb
 verb
 2614	verb
-2616	verb
+2616	noun other indeclinable
 2622	verb
-2625	verb
+2625	noun other indeclinable
 2628	verb
 2635	personal pronoun
 2637	noun
-2640	verb
-2669	verb
+2640	noun other indeclinable
+2669	noun other indeclinable
 2675	verb
 2678	noun
 verb
 2683	verb
-relative pronoun
-verb
+noun other indeclinable
+noun other indeclinable
 2701	proper noun indeclinable
-2704	relative pronoun
+2704	noun other indeclinable
 2717	verb
 verb
 2723	verb
 2728	proper noun indeclinable
 2739	verb
 2750	proper noun indeclinable
-2758	relative pronoun
+2758	noun other indeclinable
 personal pronoun
 2764	proper noun indeclinable
 verb
 2768	verb
-2772	verb
+2772	noun other indeclinable
 verb
 2783	verb
 2789	verb
@@ -432,12 +432,12 @@ verb
 2793	verb
 2797	verb
 2800	verb
-2802	verb
+2802	noun other indeclinable
 2808	verb
-2811	verb
+2811	noun other indeclinable
 2814	verb
 2824	noun
-2838	verb
+2838	noun other indeclinable
 2842	noun
 2858	verb
 2863	verb
@@ -449,7 +449,7 @@ verb
 2885	verb
 2889	verb
 2895	verb
-2903	verb
+2903	noun other indeclinable
 2911	noun
 2913	verb
 2915	verb
@@ -474,10 +474,10 @@ noun
 3009	proper noun indeclinable
 3016	proper noun indeclinable
 3026	verb
-3032	verb
+3032	noun other indeclinable
 verb
 3035	verb
-3038	relative pronoun
+3038	noun other indeclinable
 3069	verb
 3072	verb
 3078	proper noun indeclinable
@@ -486,29 +486,29 @@ verb
 3096	noun
 3115	verb
 3127	verb
-verb
-3135	verb
-3147	verb
+noun other indeclinable
+3135	noun other indeclinable
+3147	noun other indeclinable
 3152	verb
-3155	verb
+3155	noun other indeclinable
 3162	verb
 3167	verb
 3175	verb
-3177	adverb
-3180	verb
+3177	noun other indeclinable
+3180	noun other indeclinable
 3183	verb
 3186	noun
 3190	verb
 3204	verb
 3221	verb
-3223	verb
+3223	noun other indeclinable
 3249	verb
 3255	verb
 3262	verb
 3271	verb
 3274	verb
 3284	verb
-3297	verb
+3297	noun other indeclinable
 3308	verb
 3311	verb
 3313	personal pronoun
@@ -520,7 +520,7 @@ verb
 3349	personal pronoun
 3367	verb
 3369	personal pronoun
-3380	verb
+3380	noun other indeclinable
 3386	verb
 3390	verb
 3394	noun
@@ -534,8 +534,8 @@ verb
 3458	noun
 3460	verb
 3463	verb
-3470	verb
-3476	verb
+3470	noun other indeclinable
+3476	noun other indeclinable
 3491	noun
 3508	verb
 3511	personal pronoun
@@ -551,15 +551,15 @@ verb
 3595	personal pronoun
 verb
 3603	verb
-3605	conjunction
+3605	noun other indeclinable
 3620	personal pronoun
-3626	conjunction
-3630	relative pronoun
+3626	noun other indeclinable
+3630	noun other indeclinable
 verb
 verb
-3635	relative pronoun
+3635	noun other indeclinable
 personal pronoun
-3650	adverb
+3650	noun other indeclinable
 3655	noun
 3657	verb
 3668	noun
@@ -568,7 +568,7 @@ personal pronoun
 3685	verb
 3699	verb
 3712	noun
-3718	verb
+3718	noun other indeclinable
 3722	unknown
 3724	verb
 3745	verb
@@ -579,21 +579,21 @@ verb
 3772	personal pronoun
 3784	verb
 3790	verb
-3793	verb
+3793	noun other indeclinable
 verb
-3800	verb
+3800	noun other indeclinable
 3803	verb
 verb
 3813	verb
-3822	verb
+3822	noun other indeclinable
 3824	noun
 3826	verb
 personal pronoun
 3829	verb
 3831	noun
 3848	verb
-3854	relative pronoun
-3862	verb
+3854	noun other indeclinable
+3862	noun other indeclinable
 3873	verb
 3887	verb
 3894	verb
@@ -618,8 +618,8 @@ verb
 4003	verb
 4021	personal pronoun
 verb
-4025	adverb
-4029	verb
+4025	noun other indeclinable
+4029	noun other indeclinable
 4038	verb
 4051	verb
 4061	verb
@@ -629,42 +629,42 @@ verb
 verb
 4091	verb
 4094	verb
-4106	verb
+4106	noun other indeclinable
 4112	noun
 4114	verb
-4117	adverb
+4117	noun other indeclinable
 verb
 4126	verb
 4130	verb
-4133	conjunction
-4135	noun
+4133	noun other indeclinable
+4135	noun other indeclinable
 4142	personal pronoun
 4159	verb
 4162	personal pronoun
-4170	adverb
+4170	noun other indeclinable
 4172	proper noun indeclinable
-4183	verb
+4183	noun other indeclinable
 4186	personal pronoun
 4198	proper noun indeclinable
-4202	adverb
+4202	noun other indeclinable
 proper noun indeclinable
 4208	verb
 4216	verb
 4219	verb
 4225	verb
 4230	noun
-4233	adverb
+4233	noun other indeclinable
 4247	verb
 4250	noun
 4253	verb
-4257	adverb
+4257	noun other indeclinable
 verb
-4262	verb
+4262	noun other indeclinable
 4271	verb
 4273	verb
 4276	verb
 noun
-verb
+noun other indeclinable
 4288	verb
 4291	verb
 4295	verb
@@ -684,8 +684,8 @@ verb
 4360	verb
 4362	verb
 4364	verb
-4374	verb
-4378	adverb
+4374	noun other indeclinable
+4378	noun other indeclinable
 4393	personal pronoun
 4395	verb
 4399	noun
@@ -714,15 +714,15 @@ verb
 verb
 4534	verb
 4537	verb
-4548	adverb
+4548	noun other indeclinable
 4554	noun
-4556	adverb
+4556	noun other indeclinable
 4561	verb
 4566	verb
 4578	personal pronoun
 verb
-4582	adverb
-4597	verb
+4582	noun other indeclinable
+4597	noun other indeclinable
 4599	verb
 4613	verb
 noun
@@ -742,20 +742,20 @@ verb
 4742	noun
 noun
 4746	personal pronoun
-4751	verb
+4751	noun other indeclinable
 verb
-4759	adverb
+4759	noun other indeclinable
 4773	personal pronoun
-4779	verb
+4779	noun other indeclinable
 4782	personal pronoun
 4785	verb
-verb
+noun other indeclinable
 4790	verb
 4792	proper noun indeclinable
 noun
 4799	verb
 proper noun indeclinable
-4805	verb
+4805	noun other indeclinable
 4812	verb
 4814	noun
 4817	proper noun indeclinable
@@ -783,7 +783,7 @@ verb
 4985	noun
 5018	verb
 5025	verb
-5030	verb
+5030	noun other indeclinable
 5034	verb
 5036	noun
 5047	verb
@@ -791,61 +791,61 @@ verb
 5059	verb
 5063	noun
 5077	verb
-5082	verb
+5082	noun other indeclinable
 5085	verb
 5093	verb
-5095	verb
+5095	noun other indeclinable
 verb
-5104	verb
+5104	noun other indeclinable
 5107	verb
 5109	verb
-5111	adverb
-5115	relative pronoun
-5117	verb
+5111	noun
+5115	noun other indeclinable
+5117	noun other indeclinable
 5119	verb
-5123	relative pronoun
+5123	noun other indeclinable
 personal pronoun
-5128	relative pronoun
+5128	noun other indeclinable
 5140	verb
-5142	verb
+5142	noun other indeclinable
 5146	verb
 5158	verb
 5170	verb
-5176	verb
+5176	noun other indeclinable
 5186	personal pronoun
 5188	verb
-5196	verb
+5196	noun other indeclinable
 5213	verb
 5216	verb
 5220	noun
-5235	verb
+5235	noun other indeclinable
 5237	verb
-5243	verb
+5243	noun other indeclinable
 5245	verb
 5251	verb
 5254	noun
 5259	verb
 5270	noun
-5277	relative pronoun
-5284	relative pronoun
+5277	noun other indeclinable
+5284	noun other indeclinable
 5310	noun
 5315	verb
-5317	verb
-5321	verb
+5317	noun other indeclinable
+5321	noun other indeclinable
 5333	verb
 5344	verb
 5354	verb
-5358	verb
+5358	noun other indeclinable
 5362	noun
 5374	verb
 5385	verb
 5398	verb
-verb
+noun other indeclinable
 5405	verb
-verb
-5413	verb
+noun other indeclinable
+5413	noun other indeclinable
 5425	verb
-5432	verb
+5432	noun other indeclinable
 5448	verb
 5452	verb
 5473	verb
@@ -855,7 +855,7 @@ personal pronoun
 5490	verb
 5492	verb
 5508	verb
-verb
+noun other indeclinable
 5518	verb
 5520	verb
 5526	verb
@@ -865,11 +865,11 @@ verb
 5566	verb
 verb
 proper noun indeclinable
-5578	verb
+5578	noun other indeclinable
 verb
-5604	verb
+5604	noun other indeclinable
 5611	verb
-verb
+noun other indeclinable
 5615	proper noun indeclinable
 5620	noun
 5624	verb
@@ -882,29 +882,29 @@ verb
 5651	verb
 5657	verb
 5666	verb
-5669	verb
+5669	noun other indeclinable
 5686	noun
 5690	verb
 5692	verb
-5697	verb
-5700	adverb
+5697	noun other indeclinable
+5700	noun other indeclinable
 personal pronoun
 proper noun indeclinable
-5705	verb
+5705	noun other indeclinable
 5710	verb
-5715	adverb
+5715	noun other indeclinable
 verb
-5726	adverb
+5726	noun
 5733	verb
 verb
 5736	verb
 5739	verb
 5741	verb
+noun other indeclinable
 verb
-verb
-5747	verb
+5747	noun other indeclinable
 5749	verb
-5757	verb
+5757	noun other indeclinable
 5759	noun
 5761	verb
 5768	verb
@@ -916,7 +916,7 @@ verb
 5790	noun
 5804	verb
 5813	noun
-5817	verb
+5817	noun other indeclinable
 5820	relative pronoun
 5824	verb
 5840	verb
@@ -926,31 +926,31 @@ noun
 5849	verb
 5852	verb
 5854	verb
-adverb
+noun
 5876	verb
-verb
-5895	verb
-5904	verb
+noun other indeclinable
+5895	noun other indeclinable
+5904	noun other indeclinable
 5906	noun
-5908	verb
+5908	noun other indeclinable
 5914	verb
-5921	verb
+5921	noun other indeclinable
 5924	verb
 5930	noun
 verb
 5933	noun
 5935	verb
-5938	verb
-5945	verb
+5938	noun other indeclinable
+5945	noun other indeclinable
 5953	verb
-5960	verb
+5960	noun other indeclinable
 5963	verb
-5965	verb
+5965	noun other indeclinable
 5972	verb
 5978	verb
 5986	verb
 5988	verb
-5993	adverb
+5993	noun other indeclinable
 6001	verb
 6029	verb
 6038	personal pronoun
@@ -958,31 +958,31 @@ verb
 verb
 6045	noun
 6061	verb
-6079	verb
+6079	noun other indeclinable
 6088	noun
 6091	personal pronoun
 6093	verb
 6102	personal pronoun
-6108	adverb
+6108	noun
 personal pronoun
 verb
 verb
-6117	verb
+6117	noun other indeclinable
 6121	verb
 6131	personal pronoun
 6140	verb
-6150	conjunction
+6150	noun other indeclinable
 6162	verb
-6165	verb
+6165	noun other indeclinable
 6171	personal pronoun
-6173	verb
+6173	noun other indeclinable
 6182	verb
 6187	verb
 6196	noun
 6200	verb
 6214	verb
 6216	verb
-6224	adverb
+6224	noun other indeclinable
 6227	verb
 6243	verb
 6251	noun
@@ -993,15 +993,15 @@ verb
 6279	verb
 6282	verb
 verb
-6291	relative pronoun
+6291	noun other indeclinable
 6293	personal pronoun
 6296	personal pronoun
 6331	noun
-6336	adverb
+6336	noun
 6362	verb
 6364	verb
 6366	verb
-6368	verb
+6368	noun other indeclinable
 6377	verb
 6382	verb
 noun
@@ -1013,7 +1013,7 @@ noun
 6429	verb
 6433	proper noun indeclinable
 noun
-6437	verb
+6437	noun other indeclinable
 6442	verb
 6446	verb
 6448	verb
@@ -1022,14 +1022,14 @@ noun
 6457	proper noun indeclinable
 6459	verb
 6480	noun
-6485	verb
+6485	noun other indeclinable
 6488	proper noun indeclinable
 noun
 personal pronoun
 verb
-6493	verb
+6493	noun other indeclinable
 6496	noun
-6504	verb
+6504	noun other indeclinable
 6506	verb
 6509	proper noun indeclinable
 noun
@@ -1052,8 +1052,8 @@ verb
 6581	verb
 6586	verb
 6588	verb
-6604	verb
-6609	verb
+6604	noun other indeclinable
+6609	noun other indeclinable
 6612	verb
 6622	verb
 6635	verb
@@ -1065,7 +1065,7 @@ verb
 personal pronoun
 verb
 verb
-6690	verb
+6690	noun other indeclinable
 6696	verb
 verb
 6702	verb
@@ -1075,20 +1075,20 @@ verb
 6723	verb
 6726	noun
 6730	verb
-6745	conjunction
-6747	verb
+6745	noun other indeclinable
+6747	noun other indeclinable
 6762	verb
-verb
+noun other indeclinable
 6765	verb
-6776	verb
+6776	noun other indeclinable
 6784	verb
-6793	adverb
+6793	noun other indeclinable
 verb
-6800	verb
+6800	noun other indeclinable
 6808	verb
 6814	noun
 6817	noun
-6822	adverb
+6822	noun other indeclinable
 verb
 6834	verb
 6845	verb
@@ -1098,31 +1098,31 @@ verb
 verb
 6881	verb
 6885	noun
-6899	adverb
+6899	noun other indeclinable
 6903	personal pronoun
-6907	verb
+6907	noun other indeclinable
 6911	verb
-6915	adverb
+6915	noun
 6918	verb
 6920	personal pronoun
 6922	verb
-verb
+noun other indeclinable
 6931	verb
 6933	verb
 6941	verb
 6943	personal pronoun
 6955	verb
-adverb
+noun
 6961	personal pronoun
 6967	noun
-6974	verb
-6984	verb
+6974	noun other indeclinable
+6984	noun other indeclinable
 6994	noun
-7021	verb
+7021	noun other indeclinable
 7023	noun
-adverb
+noun
 7027	verb
-7031	verb
+7031	noun other indeclinable
 7035	relative pronoun
 7037	verb
 noun
@@ -1142,7 +1142,7 @@ noun
 7117	personal pronoun
 verb
 7121	noun
-7123	verb
+7123	noun other indeclinable
 7130	verb
 7135	proper noun indeclinable
 7138	noun
@@ -1151,7 +1151,7 @@ verb
 7155	noun
 7158	noun
 7162	noun
-7164	verb
+7164	noun other indeclinable
 7167	noun
 7177	verb
 7185	verb
@@ -1160,7 +1160,7 @@ verb
 7227	verb
 7237	personal pronoun
 7242	proper noun indeclinable
-7247	verb
+7247	noun other indeclinable
 7249	verb
 7253	verb
 7255	verb
@@ -1169,12 +1169,12 @@ verb
 relative pronoun
 7282	noun
 7292	verb
-verb
+noun other indeclinable
 7295	verb
 7300	noun
 7307	proper noun indeclinable
 7323	noun
-7326	verb
+7326	noun other indeclinable
 7328	verb
 7334	verb
 7336	noun
@@ -1188,8 +1188,8 @@ verb
 7405	noun
 7407	verb
 7409	verb
-7412	verb
-7416	verb
+7412	noun other indeclinable
+7416	noun other indeclinable
 7427	verb
 7429	noun
 7432	verb
@@ -1198,15 +1198,15 @@ verb
 verb
 7454	verb
 7460	verb
-verb
+noun other indeclinable
 7467	noun
 7477	personal pronoun
 7479	verb
 7481	verb
 7494	proper noun indeclinable
-7497	noun
+7497	noun other indeclinable
 7504	noun
-7508	verb
+7508	noun other indeclinable
 7512	verb
 7516	noun
 proper noun indeclinable
@@ -1215,21 +1215,21 @@ noun
 7544	noun
 7546	verb
 7552	verb
-verb
+noun other indeclinable
 7558	noun
 7576	proper noun indeclinable
 7579	verb
-7582	verb
+7582	noun other indeclinable
 7590	noun
 7593	noun
 7595	verb
 7604	numeral
 noun
-7614	verb
+7614	noun other indeclinable
 7620	verb
 7628	noun
 7632	verb
-verb
+noun other indeclinable
 7641	verb
 7653	personal pronoun
 verb
@@ -1246,7 +1246,7 @@ verb
 7707	verb
 7718	personal pronoun
 7726	proper noun indeclinable
-7733	verb
+7733	noun other indeclinable
 7735	verb
 7742	verb
 7747	verb
@@ -1255,14 +1255,14 @@ verb
 7778	personal pronoun
 verb
 verb
-relative pronoun
-7784	verb
+noun other indeclinable
+7784	noun other indeclinable
 7786	noun
 7791	verb
 7794	noun
 7797	noun
 7799	verb
-7802	verb
+7802	noun other indeclinable
 7814	verb
 7816	verb
 7818	noun
@@ -1276,8 +1276,8 @@ relative pronoun
 7875	proper noun indeclinable
 noun
 7879	proper noun indeclinable
-7882	verb
-7886	verb
+7882	noun other indeclinable
+7886	noun other indeclinable
 7888	verb
 7892	personal pronoun
 7899	verb
@@ -1288,35 +1288,35 @@ noun
 7929	noun
 7935	noun
 7937	verb
-7970	verb
+7970	noun other indeclinable
 8001	personal pronoun
 8008	verb
 8016	verb
-8027	verb
+8027	noun other indeclinable
 8032	verb
-8040	verb
-8044	verb
+8040	noun other indeclinable
+8044	noun other indeclinable
 8054	noun
 8056	verb
-8058	verb
+8058	noun other indeclinable
 8070	verb
 8083	verb
 8085	noun
 8089	verb
-verb
-8100	verb
+noun other indeclinable
+8100	noun other indeclinable
 8103	noun
-8129	relative pronoun
-8143	verb
+8129	noun other indeclinable
+8143	noun other indeclinable
 8152	verb
 8157	verb
 8181	noun
-8193	verb
+8193	noun other indeclinable
 8214	personal pronoun
 verb
 8217	verb
 8228	verb
-8234	verb
+8234	noun other indeclinable
 8237	noun
 8240	noun
 8243	personal pronoun
@@ -1341,9 +1341,9 @@ noun
 8403	noun
 8415	noun
 8417	noun
-8421	conjunction
+8421	noun other indeclinable
 8436	verb
-conjunction
+noun other indeclinable
 8454	personal pronoun
 8456	verb
 8472	verb
@@ -1358,7 +1358,7 @@ noun
 8545	verb
 8552	verb
 8560	personal pronoun
-8562	verb
+8562	noun other indeclinable
 8569	verb
 8573	verb
 8583	personal pronoun
@@ -1410,7 +1410,7 @@ proper noun indeclinable
 8893	verb
 8903	proper noun indeclinable
 8905	verb
-8909	adverb
+8909	noun other indeclinable
 8911	noun
 8914	verb
 verb
@@ -1431,7 +1431,7 @@ verb
 9008	noun
 9014	verb
 9019	verb
-9024	relative pronoun
+9024	noun other indeclinable
 9036	verb
 9041	noun
 9047	verb
@@ -1439,11 +1439,11 @@ verb
 9081	verb
 9096	verb
 9105	verb
-9130	verb
+9130	noun other indeclinable
 9134	verb
 9136	personal pronoun
 verb
-9140	verb
+9140	noun other indeclinable
 9145	verb
 9149	verb
 9156	personal pronoun
@@ -1475,10 +1475,10 @@ verb
 9312	verb
 9314	noun
 9324	personal pronoun
-9327	verb
+9327	noun other indeclinable
 9338	verb
 9340	verb
-verb
+noun other indeclinable
 9377	verb
 verb
 9393	verb
@@ -1504,7 +1504,7 @@ verb
 9470	verb
 9477	verb
 9481	verb
-9495	verb
+9495	noun other indeclinable
 9498	verb
 9501	verb
 9514	verb
@@ -1512,22 +1512,22 @@ verb
 9526	noun
 9528	verb
 9531	verb
-9538	verb
+9538	noun other indeclinable
 9543	verb
-9550	verb
+9550	noun other indeclinable
 9575	verb
 9594	verb
 9603	verb
 9605	noun
 unknown
 9617	verb
-9621	verb
+9621	noun other indeclinable
 9630	proper noun indeclinable
 9632	verb
 verb
 proper noun indeclinable
 9640	verb
-9647	verb
+9647	noun other indeclinable
 9662	verb
 9665	verb
 9668	verb
@@ -1537,33 +1537,33 @@ proper noun indeclinable
 9692	verb
 9695	verb
 9708	verb
-9710	verb
+9710	noun other indeclinable
 9712	verb
 9718	verb
 9722	verb
-9728	verb
+9728	noun other indeclinable
 verb
 9733	verb
 9741	verb
 noun
 9748	verb
-9750	verb
+9750	noun other indeclinable
 9752	noun
 9777	noun
-9787	relative pronoun
+9787	noun other indeclinable
 9790	proper noun indeclinable
 9795	noun
-relative pronoun
-9800	adverb
+noun other indeclinable
+9800	noun other indeclinable
 9813	verb
-9839	adverb
-9845	adverb
+9839	noun other indeclinable
+9845	noun other indeclinable
 9850	verb
-9858	verb
+9858	noun other indeclinable
 9865	personal pronoun
 verb
 verb
-9873	noun
+9873	noun other indeclinable
 9881	verb
 9908	noun
 9913	noun
@@ -1578,7 +1578,7 @@ verb
 9941	verb
 9946	verb
 9948	verb
-9961	verb
+9961	noun other indeclinable
 9970	verb
 9977	personal pronoun
 verb
@@ -1599,21 +1599,21 @@ verb
 noun
 10090	verb
 10092	noun
-10096	verb
+10096	noun other indeclinable
 10098	verb
 10100	verb
 verb
-10103	relative pronoun
+10103	noun other indeclinable
 10106	verb
 10108	noun
 10110	verb
 10114	verb
 10117	verb
-10122	verb
+10122	noun other indeclinable
 10125	verb
 10133	verb
 10143	verb
-10148	noun
+10148	noun other indeclinable
 10155	personal pronoun
 proper noun indeclinable
 10167	verb
@@ -1637,32 +1637,32 @@ noun
 10232	verb
 10234	verb
 10247	verb
-verb
+noun other indeclinable
 10253	personal pronoun
 verb
 10259	noun
-10262	verb
+10262	noun other indeclinable
 10264	noun
 10266	verb
-10272	verb
+10272	noun other indeclinable
 10276	verb
-verb
+noun other indeclinable
 verb
 10280	verb
 10282	verb
-10285	relative pronoun
+10285	noun other indeclinable
 proper noun indeclinable
 noun
 10293	noun
 10295	verb
 10298	verb
-10300	relative pronoun
-10308	verb
+10300	noun other indeclinable
+10308	noun other indeclinable
 10310	noun
 10312	verb
 10315	verb
 10330	proper noun indeclinable
-10350	verb
+10350	noun other indeclinable
 10360	verb
 10364	proper noun indeclinable
 10379	verb
@@ -1679,20 +1679,20 @@ verb
 10448	verb
 10453	verb
 10457	personal pronoun
-10460	verb
+10460	noun other indeclinable
 10462	noun
-10471	verb
+10471	noun other indeclinable
 10475	noun
 verb
 10489	proper noun indeclinable
 10491	verb
 10493	proper noun indeclinable
 10501	verb
-10505	verb
+10505	noun other indeclinable
 verb
 10513	verb
 10517	verb
-10530	verb
+10530	noun other indeclinable
 10533	verb
 10538	verb
 10540	verb
@@ -1717,20 +1717,20 @@ verb
 verb
 10591	verb
 verb
-10601	verb
+10601	noun other indeclinable
 verb
 10605	verb
-10612	verb
+10612	noun other indeclinable
 10616	verb
-10623	verb
-10626	verb
+10623	noun other indeclinable
+10626	noun other indeclinable
 verb
 10630	verb
 10642	verb
 10646	noun
-10651	verb
+10651	noun other indeclinable
 10657	verb
-10666	verb
+10666	noun other indeclinable
 10673	verb
 10677	verb
 10684	verb
@@ -1764,7 +1764,7 @@ noun
 10832	personal pronoun
 verb
 10835	proper noun indeclinable
-10838	noun
+10838	noun other indeclinable
 10846	proper noun indeclinable
 10854	verb
 10858	proper noun indeclinable
@@ -1772,7 +1772,7 @@ verb
 10868	verb
 10871	verb
 10874	verb
-relative pronoun
+noun other indeclinable
 verb
 10888	noun
 10890	noun
@@ -1812,7 +1812,7 @@ noun
 11163	noun
 11165	verb
 11167	verb
-11174	adverb
+11174	noun other indeclinable
 11178	verb
 11184	verb
 11189	verb
@@ -1821,20 +1821,20 @@ noun
 11213	noun
 11227	noun
 11234	noun
-11236	verb
+11236	noun
 verb
-relative pronoun
+noun other indeclinable
 11240	verb
 11249	noun
 11260	verb
 proper noun indeclinable
-11269	verb
+11269	noun other indeclinable
 11273	verb
 11275	verb
-11283	conjunction
+11283	noun other indeclinable
 11285	verb
 11291	verb
-11295	verb
+11295	noun other indeclinable
 verb
 11304	noun
 11306	verb
@@ -1845,7 +1845,7 @@ verb
 11324	verb
 11327	personal pronoun
 verb
-11330	noun
+11330	noun other indeclinable
 11333	noun
 noun
 11340	verb
@@ -1853,13 +1853,13 @@ noun
 11347	noun
 11351	noun
 11356	verb
-11358	adverb
+11358	noun
 11366	noun
 11372	verb
-11374	verb
+11374	noun other indeclinable
 verb
 11379	personal pronoun
-11382	verb
+11382	noun other indeclinable
 11390	verb
 11410	verb
 11412	verb
@@ -1872,9 +1872,9 @@ verb
 11442	noun
 11446	noun
 11448	verb
-11453	noun
+11453	noun other indeclinable
 11479	verb
-11484	verb
+11484	noun other indeclinable
 11486	verb
 11490	verb
 11499	verb
@@ -1897,16 +1897,16 @@ noun
 11613	verb
 11631	verb
 11640	verb
-11651	relative pronoun
-11660	verb
+11651	noun other indeclinable
+11660	noun other indeclinable
 11663	verb
 11666	verb
 11675	personal pronoun
 11679	personal pronoun
 11692	noun
-11694	verb
+11694	noun other indeclinable
 11697	verb
-11699	adverb
+11699	noun
 11707	verb
 11714	verb
 11725	verb
@@ -1921,7 +1921,7 @@ noun
 11767	verb
 11771	verb
 11776	verb
-verb
+noun other indeclinable
 11779	noun
 verb
 11785	verb
@@ -1938,15 +1938,15 @@ verb
 11846	personal pronoun
 11853	personal pronoun
 11855	verb
-11860	verb
+11860	noun other indeclinable
 11864	verb
-11866	verb
-11877	verb
+11866	noun other indeclinable
+11877	noun other indeclinable
 11888	verb
 11892	verb
 verb
 11897	verb
-11912	adverb
+11912	noun other indeclinable
 11914	verb
 11916	noun
 11922	verb
@@ -1967,65 +1967,65 @@ verb
 12033	noun
 12045	noun
 12052	verb
-adverb
+noun
 12056	verb
 12071	personal pronoun
 verb
 12090	proper noun indeclinable
 12094	verb
 12102	proper noun indeclinable
-12104	verb
+12104	noun other indeclinable
 12107	verb
 12113	verb
-12116	verb
+12116	noun other indeclinable
 12119	personal pronoun
 12122	personal pronoun
 12126	personal pronoun
 12128	verb
-12137	verb
+12137	noun other indeclinable
 12139	verb
-12141	verb
+12141	noun other indeclinable
 12150	proper noun indeclinable
 12153	verb
 12157	personal pronoun
 12160	verb
 12176	noun
-12184	verb
+12184	noun other indeclinable
 12201	verb
 12219	verb
 12221	verb
-verb
+noun other indeclinable
 12230	personal pronoun
 12233	personal pronoun
 12235	proper noun indeclinable
 12237	relative pronoun
-12244	verb
+12244	noun other indeclinable
 12260	verb
 12264	verb
 12266	verb
 12272	verb
 12278	verb
-12281	verb
+12281	noun other indeclinable
 12302	verb
 12308	verb
-verb
+noun other indeclinable
 12316	verb
 12321	verb
 12334	personal pronoun
 verb
 12347	verb
-12349	verb
+12349	noun other indeclinable
 verb
 12352	verb
 verb
 12357	verb
 12364	verb
 12367	noun
-12382	verb
+12382	noun other indeclinable
 12392	noun
 12396	personal pronoun
 12399	personal pronoun
-12404	verb
+12404	noun other indeclinable
 noun
 verb
 12414	verb
@@ -2035,67 +2035,67 @@ verb
 12428	verb
 12431	verb
 12433	verb
-verb
+noun other indeclinable
 noun
 verb
 12438	verb
-12444	conjunction
+12444	noun other indeclinable
 12446	verb
 verb
 12450	personal pronoun
-12453	verb
+12453	noun other indeclinable
 12456	verb
 12459	verb
 verb
 12462	noun
 12468	verb
-12478	relative pronoun
+12478	noun other indeclinable
 12489	verb
 12496	verb
-12498	verb
+12498	noun other indeclinable
 noun
 verb
 12502	verb
 12506	noun
 12514	verb
-12519	verb
+12519	noun other indeclinable
 12525	verb
 12535	verb
 12540	verb
 12555	verb
 12558	verb
-12562	verb
+12562	noun other indeclinable
 verb
 12566	personal pronoun
 12571	verb
 12575	noun
 12577	verb
-12583	verb
+12583	noun other indeclinable
 12590	personal pronoun
-12611	conjunction
-12622	verb
+12611	noun other indeclinable
+12622	noun other indeclinable
 12640	verb
 12654	personal pronoun
 12674	noun
 12687	noun
 12692	personal pronoun
 12698	verb
-verb
+noun other indeclinable
 12709	verb
-12717	verb
+12717	noun other indeclinable
 12730	verb
 12734	verb
 12738	verb
 12744	personal pronoun
 12747	verb
-12751	verb
+12751	noun other indeclinable
 12753	verb
 12755	verb
-12761	verb
+12761	noun other indeclinable
 12767	personal pronoun
 12774	noun
 verb
-12781	verb
+12781	noun other indeclinable
 12784	noun
 12786	verb
 12793	noun
@@ -2106,12 +2106,12 @@ verb
 12832	verb
 12840	noun
 12850	verb
-verb
+noun other indeclinable
 12854	noun
 12857	noun
 12859	verb
 12887	noun
-12891	adverb
+12891	noun
 12896	personal pronoun
 verb
 12900	proper noun indeclinable
@@ -2137,11 +2137,11 @@ verb
 13065	verb
 13067	verb
 13070	personal pronoun
-13077	verb
+13077	noun other indeclinable
 13090	verb
 13092	verb
 13098	verb
-verb
+noun other indeclinable
 13104	noun
 13114	verb
 13119	noun
@@ -2155,7 +2155,7 @@ verb
 13166	proper noun indeclinable
 13170	proper noun indeclinable
 13172	verb
-13182	verb
+13182	noun other indeclinable
 13199	verb
 verb
 13204	verb
@@ -2165,17 +2165,17 @@ verb
 13234	verb
 13241	unknown
 13248	noun
-13257	verb
+13257	noun other indeclinable
 13259	verb
 13274	verb
 13276	verb
 13280	noun
 13285	verb
-verb
+noun other indeclinable
 13289	verb
 13291	verb
-13295	relative pronoun
-13297	verb
+13295	noun other indeclinable
+13297	noun other indeclinable
 13306	verb
 13314	verb
 13333	verb
@@ -2183,30 +2183,30 @@ verb
 13338	personal pronoun
 13345	personal pronoun
 13366	noun
-13369	verb
+13369	noun other indeclinable
 13376	noun
 noun
 13379	verb
 verb
-verb
+noun other indeclinable
 verb
 13384	verb
 verb
-13387	verb
+13387	noun other indeclinable
 verb
 13390	verb
 verb
-13393	verb
+13393	noun other indeclinable
 verb
 13396	verb
 verb
 13403	noun
 13406	noun
 13408	noun
-13410	verb
+13410	noun
 verb
-relative pronoun
-13414	verb
+noun other indeclinable
+13414	noun other indeclinable
 13422	verb
 13424	personal pronoun
 verb
@@ -2214,7 +2214,7 @@ verb
 13437	noun
 13444	verb
 13448	verb
-13453	verb
+13453	noun other indeclinable
 13455	verb
 13457	noun
 noun
@@ -2245,9 +2245,9 @@ noun
 13583	verb
 proper noun indeclinable
 13586	verb
-13590	verb
-13596	verb
-13602	verb
+13590	noun other indeclinable
+13596	noun other indeclinable
+13602	noun other indeclinable
 13645	verb
 13662	verb
 13667	verb
@@ -2258,32 +2258,32 @@ proper noun indeclinable
 13709	proper noun indeclinable
 13723	verb
 personal pronoun
-13729	verb
-13738	verb
+13729	noun other indeclinable
+13738	noun other indeclinable
 13742	verb
 verb
 verb
 13746	verb
 13753	verb
 13757	verb
-13764	verb
-13773	verb
+13764	noun other indeclinable
+13773	noun other indeclinable
 13777	verb
 13779	verb
 verb
 13786	verb
 13790	verb
-13796	verb
-13800	verb
-13803	verb
+13796	noun other indeclinable
+13800	noun other indeclinable
+13803	noun other indeclinable
 13806	verb
-13811	verb
-13815	verb
-13818	verb
-13825	verb
-13829	verb
+13811	noun other indeclinable
+13815	noun other indeclinable
+13818	noun other indeclinable
+13825	noun other indeclinable
+13829	noun other indeclinable
 13833	verb
-13835	verb
+13835	noun other indeclinable
 13838	verb
 13847	verb
 13852	verb
@@ -2302,37 +2302,37 @@ personal pronoun
 13977	proper noun indeclinable
 13980	verb
 13982	verb
-13985	verb
-13996	verb
+13985	noun other indeclinable
+13996	noun other indeclinable
 14000	verb
 14002	verb
 14005	verb
 14029	noun
-14031	adverb
-14050	verb
+14031	noun other indeclinable
+14050	noun other indeclinable
 14076	verb
 noun
 14081	verb
 14087	verb
-14091	verb
+14091	noun other indeclinable
 verb
 14094	verb
 14116	proper noun indeclinable
 14118	verb
 14122	verb
 proper noun indeclinable
-14132	adverb
+14132	noun other indeclinable
 14138	verb
 14144	verb
 14147	noun
-14153	verb
+14153	noun other indeclinable
 14155	verb
 14162	verb
 14166	personal pronoun
 verb
 14174	verb
 14178	verb
-14184	verb
+14184	noun other indeclinable
 verb
 14204	noun
 14207	personal pronoun
@@ -2356,40 +2356,40 @@ noun
 14337	verb
 14351	verb
 14353	noun
-verb
+noun other indeclinable
 verb
 14359	verb
 14365	verb
 14370	verb
 14377	noun
-14382	verb
+14382	noun other indeclinable
 14389	personal pronoun
-verb
+noun other indeclinable
 14395	proper noun indeclinable
 14402	noun
 noun
 proper noun indeclinable
-14411	verb
-14416	verb
+14411	noun other indeclinable
+14416	noun other indeclinable
 noun
-14424	verb
-14430	verb
+14424	noun other indeclinable
+14430	noun other indeclinable
 14456	noun
 14472	verb
 proper noun indeclinable
 14475	noun
 14484	verb
-14488	adverb
+14488	noun
 14492	verb
 14502	noun
 14504	noun
 14510	verb
-14514	adverb
+14514	noun other indeclinable
 14517	verb
-14521	adverb
-verb
-14528	adverb
-verb
+14521	noun
+noun other indeclinable
+14528	noun
+noun other indeclinable
 14543	noun
 14550	verb
 14552	verb
@@ -2402,7 +2402,7 @@ verb
 14592	verb
 14600	verb
 14602	verb
-verb
+noun other indeclinable
 14608	verb
 14618	verb
 14624	verb
@@ -2415,7 +2415,7 @@ noun
 14668	proper noun indeclinable
 14670	verb
 14680	verb
-14689	verb
+14689	noun other indeclinable
 verb
 14699	noun
 14710	personal pronoun
@@ -2424,45 +2424,45 @@ verb
 14730	verb
 14750	verb
 14752	verb
-relative pronoun
-14756	verb
+noun other indeclinable
+14756	noun other indeclinable
 14781	noun
 14794	verb
 14796	verb
-14800	verb
-14810	verb
+14800	noun other indeclinable
+14810	noun other indeclinable
 14822	verb
 noun
 14837	noun
 14852	noun
-14859	adverb
+14859	noun other indeclinable
 14866	verb
 14869	noun
-14889	verb
+14889	noun other indeclinable
 14900	noun
-14903	verb
+14903	noun other indeclinable
 verb
 14912	verb
 14914	verb
-14921	verb
+14921	noun other indeclinable
 14923	verb
 14938	verb
 14942	verb
 14946	verb
-14948	verb
-14950	adverb
+14948	noun other indeclinable
+14950	noun other indeclinable
 14952	verb
-14954	verb
-14956	adverb
+14954	noun other indeclinable
+14956	noun other indeclinable
 14960	verb
 14982	noun
 14984	verb
 verb
 14994	verb
-15022	verb
+15022	noun other indeclinable
 15034	verb
 15037	noun
-15042	adverb
+15042	noun
 15047	verb
 15050	verb
 15069	verb
@@ -2471,7 +2471,7 @@ verb
 15100	verb
 15124	verb
 15132	verb
-verb
+noun other indeclinable
 verb
 15137	verb
 15143	verb
@@ -2480,7 +2480,7 @@ verb
 15178	noun
 15185	proper noun indeclinable
 15187	verb
-15190	verb
+15190	noun other indeclinable
 15194	verb
 15198	proper noun indeclinable
 15201	verb
@@ -2494,7 +2494,7 @@ verb
 15243	verb
 noun
 15247	verb
-15250	adverb
+15250	noun other indeclinable
 verb
 15253	verb
 15278	verb
@@ -2503,7 +2503,7 @@ verb
 15285	verb
 verb
 15289	verb
-15292	adverb
+15292	noun other indeclinable
 verb
 15295	verb
 15320	verb
@@ -2512,8 +2512,8 @@ verb
 15341	verb
 15343	verb
 15353	verb
-verb
-15357	adverb
+noun other indeclinable
+15357	noun other indeclinable
 noun
 15366	verb
 15377	verb
@@ -2526,7 +2526,7 @@ verb
 verb
 15427	noun
 15456	verb
-verb
+noun other indeclinable
 15459	verb
 15463	personal pronoun
 15468	verb
@@ -2542,21 +2542,21 @@ proper noun indeclinable
 15516	personal pronoun
 15525	noun
 15527	verb
-15552	verb
+15552	noun other indeclinable
 15562	personal pronoun
 verb
 15572	verb
 15580	noun
 15583	verb
 15592	verb
-verb
+noun other indeclinable
 15603	verb
-15605	verb
+15605	noun other indeclinable
 verb
 15621	verb
 15629	verb
 15666	verb
-15668	verb
+15668	noun other indeclinable
 15684	verb
 15686	verb
 noun
@@ -2564,9 +2564,9 @@ verb
 15690	verb
 verb
 verb
-verb
+noun other indeclinable
 15702	noun
-verb
+noun other indeclinable
 verb
 15723	personal pronoun
 15725	verb
@@ -2577,21 +2577,21 @@ verb
 15765	personal pronoun
 15773	noun
 15786	verb
-15789	verb
-15796	verb
-15803	verb
-15805	verb
+15789	noun other indeclinable
+15796	noun other indeclinable
+15803	noun other indeclinable
+15805	noun other indeclinable
 15815	verb
 15826	personal pronoun
 verb
 15847	verb
 15876	verb
 15884	verb
-15887	verb
+15887	noun other indeclinable
 verb
 15891	verb
 15894	verb
-15896	verb
+15896	noun other indeclinable
 15920	verb
 15925	verb
 15929	personal pronoun
@@ -2603,19 +2603,19 @@ verb
 15984	verb
 15993	personal pronoun
 verb
-relative pronoun
+noun other indeclinable
 16004	noun
 16015	verb
+noun other indeclinable
 verb
-verb
-16027	noun
+16027	noun other indeclinable
 16033	noun
 16040	verb
-16047	verb
+16047	noun other indeclinable
 16057	verb
 verb
 16073	verb
-16076	conjunction
+16076	noun other indeclinable
 16090	verb
 noun
 16095	verb
@@ -2626,19 +2626,19 @@ noun
 16162	noun
 16168	verb
 16171	noun
-verb
+noun other indeclinable
 16174	noun
 16185	noun
 16187	verb
-16194	verb
-16196	verb
+16194	noun other indeclinable
+16196	noun other indeclinable
 16207	proper noun indeclinable
 16216	verb
 16225	verb
-16230	verb
-16239	verb
+16230	noun other indeclinable
+16239	noun other indeclinable
 verb
-16243	verb
+16243	noun other indeclinable
 16251	verb
 16253	verb
 16258	verb
@@ -2656,8 +2656,8 @@ verb
 16326	verb
 16332	noun
 16336	verb
-16346	relative pronoun
-16350	relative pronoun
+16346	noun other indeclinable
+16350	noun other indeclinable
 16362	verb
 16388	verb
 16391	verb
@@ -2671,32 +2671,32 @@ verb
 16441	verb
 16443	verb
 16446	verb
-adverb
+noun other indeclinable
 16455	verb
 16461	verb
-adverb
-16471	adverb
+noun other indeclinable
+16471	noun other indeclinable
 16485	verb
 16500	noun
 16513	verb
 16522	verb
 16527	noun
-16540	adverb
+16540	noun other indeclinable
 16557	noun
 16563	verb
 16570	verb
 16577	personal pronoun
-16580	verb
+16580	noun other indeclinable
 16583	verb
 16593	verb
 16596	noun
 16599	verb
 16607	verb
-16609	verb
+16609	noun other indeclinable
 16613	verb
-16618	relative pronoun
+16618	noun other indeclinable
 16625	verb
-16630	verb
+16630	noun other indeclinable
 16648	verb
 16650	personal pronoun
 verb
@@ -2728,22 +2728,22 @@ verb
 16805	verb
 proper noun indeclinable
 16809	noun
-16816	adverb
+16816	noun other indeclinable
 16823	noun
 personal pronoun
 16829	verb
 16840	personal pronoun
 16844	verb
 16850	verb
-16856	verb
-verb
+16856	noun other indeclinable
+noun other indeclinable
 16865	verb
 16878	noun
 16880	verb
 16882	verb
 16890	personal pronoun
 16892	verb
-16896	conjunction
+16896	noun other indeclinable
 16905	verb
 16908	verb
 16915	personal pronoun
@@ -2752,7 +2752,7 @@ verb
 verb
 16941	verb
 16961	verb
-16965	verb
+16965	noun other indeclinable
 16974	personal pronoun
 16977	personal pronoun
 16985	verb
@@ -2776,12 +2776,12 @@ verb
 17113	noun
 17126	noun
 17138	verb
-17140	verb
+17140	noun other indeclinable
 17152	verb
 17158	noun
 verb
 verb
-17173	verb
+17173	noun other indeclinable
 17181	proper noun indeclinable
 17184	noun
 17190	noun
@@ -2811,7 +2811,7 @@ verb
 17348	proper noun indeclinable
 17364	personal pronoun
 17379	verb
-17399	verb
+17399	noun other indeclinable
 17401	verb
 17407	verb
 17429	verb
@@ -2827,7 +2827,7 @@ verb
 17523	verb
 17528	personal pronoun
 17540	verb
-17544	verb
+17544	noun other indeclinable
 17554	verb
 17559	verb
 unknown
@@ -2851,7 +2851,7 @@ personal pronoun
 17677	verb
 17681	personal pronoun
 17699	verb
-17703	adverb
+17703	noun other indeclinable
 17707	verb
 17711	noun
 verb
@@ -2860,19 +2860,19 @@ verb
 17746	noun
 17755	personal pronoun
 17765	proper noun indeclinable
-17768	noun
+17768	noun other indeclinable
 17771	verb
-17773	conjunction
+17773	noun other indeclinable
 17790	verb
-17792	verb
-17794	conjunction
+17792	noun other indeclinable
+17794	noun other indeclinable
 17810	verb
 17812	noun
 17820	noun
-17850	verb
-17856	verb
-17863	verb
-17875	conjunction
+17850	noun other indeclinable
+17856	noun other indeclinable
+17863	noun other indeclinable
+17875	noun other indeclinable
 17883	personal pronoun
 17891	verb
 17898	personal pronoun
@@ -2889,45 +2889,45 @@ verb
 17948	verb
 17950	noun
 17958	verb
-relative pronoun
+noun other indeclinable
 verb
 personal pronoun
 17966	verb
 17987	personal pronoun
 17991	verb
-17993	adverb
+17993	noun other indeclinable
 17999	verb
 verb
 18002	verb
 18010	verb
-18012	conjunction
-18017	relative pronoun
-18024	relative pronoun
+18012	noun other indeclinable
+18017	noun other indeclinable
+18024	noun other indeclinable
 verb
 18032	personal pronoun
-18036	relative pronoun
+18036	noun other indeclinable
 verb
 18042	verb
 18048	verb
 18053	verb
 18061	verb
 18079	verb
-18081	adverb
+18081	noun other indeclinable
 verb
-18090	adverb
+18090	noun other indeclinable
 verb
-18110	adverb
+18110	noun other indeclinable
 18114	noun
 18127	verb
 18143	verb
-18149	adverb
+18149	noun other indeclinable
 verb
 18161	proper noun indeclinable
 18179	personal pronoun
 verb
 18189	verb
 18201	personal pronoun
-18206	relative pronoun
+18206	noun other indeclinable
 18213	noun
 18219	personal pronoun
 18222	verb
@@ -2935,40 +2935,40 @@ verb
 18248	noun
 18251	proper noun indeclinable
 verb
-verb
+noun other indeclinable
 18263	proper noun indeclinable
 18274	verb
-18287	adverb
+18287	noun other indeclinable
 18292	proper noun indeclinable
 18295	noun
 18305	verb
 verb
-18309	verb
-18314	adverb
+18309	noun other indeclinable
+18314	noun
 18320	verb
 verb
 18323	verb
 18326	verb
-18329	verb
+18329	noun other indeclinable
 18335	verb
-18345	verb
+18345	noun other indeclinable
 18358	proper noun indeclinable
 18363	personal pronoun
-18370	verb
-18379	conjunction
+18370	noun other indeclinable
+18379	noun other indeclinable
 18393	verb
 18397	verb
 18400	noun
-18405	verb
+18405	noun other indeclinable
 18424	verb
-18430	verb
-18460	relative pronoun
+18430	noun other indeclinable
+18460	noun other indeclinable
 18470	verb
-18478	verb
+18478	noun other indeclinable
 18489	noun
-18491	conjunction
-verb
-18502	conjunction
+18491	noun other indeclinable
+noun other indeclinable
+18502	noun other indeclinable
 18505	verb
 18507	personal pronoun
 18509	verb
@@ -2978,29 +2978,29 @@ verb
 18537	noun
 18539	verb
 verb
-18543	verb
+18543	noun other indeclinable
 18547	verb
 noun
-18561	verb
+18561	noun other indeclinable
 18566	verb
 18568	verb
-18573	verb
+18573	noun other indeclinable
 18579	verb
 18584	proper noun indeclinable
-18603	verb
+18603	noun other indeclinable
 18607	proper noun indeclinable
-18619	verb
+18619	noun other indeclinable
 18624	verb
-18626	verb
-18647	conjunction
-18651	relative pronoun
+18626	noun other indeclinable
+18647	noun other indeclinable
+18651	noun other indeclinable
 verb
 verb
-18656	relative pronoun
+18656	noun other indeclinable
 personal pronoun
-18661	conjunction
-verb
-18667	verb
+18661	noun other indeclinable
+noun other indeclinable
+18667	noun other indeclinable
 18671	verb
 noun
 18682	verb
@@ -3010,12 +3010,12 @@ noun
 18787	verb
 18792	verb
 18794	noun
-18812	conjunction
+18812	noun other indeclinable
 18819	verb
 18828	noun
 18835	proper noun indeclinable
 noun
-18843	verb
+18843	noun other indeclinable
 18849	noun
 18851	verb
 18856	verb
@@ -3036,25 +3036,25 @@ noun
 relative pronoun
 18970	verb
 18986	unknown
-18991	verb
+18991	noun other indeclinable
 18993	verb
-18995	conjunction
+18995	noun other indeclinable
 19007	verb
-19010	verb
+19010	noun other indeclinable
 19020	proper noun indeclinable
 19023	verb
 19043	noun
-19050	conjunction
+19050	noun other indeclinable
 19053	verb
 19067	verb
 19072	verb
 19077	verb
-19084	verb
+19084	noun other indeclinable
 19094	noun
-19113	verb
+19113	noun other indeclinable
 19115	verb
 19119	verb
-verb
+noun other indeclinable
 19131	verb
 19134	verb
 19138	verb
@@ -3076,7 +3076,7 @@ noun
 19225	verb
 19227	verb
 19235	verb
-19237	verb
+19237	noun other indeclinable
 19260	personal pronoun
 19272	verb
 19284	verb
@@ -3098,9 +3098,9 @@ verb
 19337	verb
 19343	personal pronoun
 verb
-19347	verb
+19347	noun other indeclinable
 19376	verb
-verb
+noun other indeclinable
 19388	noun
 19398	noun
 19400	verb
@@ -3111,13 +3111,13 @@ verb
 verb
 verb
 19430	verb
-19437	verb
+19437	noun other indeclinable
 19441	noun
 19445	personal pronoun
 verb
 19455	personal pronoun
 19457	verb
-19459	adverb
+19459	noun other indeclinable
 19468	verb
 19482	personal pronoun
 19491	verb
@@ -3125,7 +3125,7 @@ verb
 19521	noun
 19529	noun
 19538	verb
-19548	conjunction
+19548	noun other indeclinable
 19552	verb
 19561	verb
 19567	verb
@@ -3161,11 +3161,11 @@ verb
 19860	personal pronoun
 19864	verb
 19867	noun
-19870	verb
+19870	noun other indeclinable
 19874	verb
 19876	proper noun indeclinable
 noun
-19881	verb
+19881	noun other indeclinable
 19886	noun
 19891	verb
 noun
@@ -3183,7 +3183,7 @@ verb
 19945	noun
 19948	verb
 19954	verb
-verb
+noun other indeclinable
 verb
 19965	proper noun indeclinable
 19971	verb
@@ -3192,29 +3192,29 @@ verb
 19994	verb
 19997	noun
 20004	personal pronoun
-20008	verb
+20008	noun other indeclinable
 20021	verb
-20023	adverb
+20023	noun
 20026	verb
 20028	personal pronoun
 20030	verb
 20034	verb
-verb
+noun other indeclinable
 20041	verb
 20048	personal pronoun
 20057	verb
-adverb
+noun other indeclinable
 20063	personal pronoun
 20068	noun
 20072	verb
 20085	noun
-20100	verb
-20117	verb
-20123	verb
-20128	adverb
+20100	noun other indeclinable
+20117	noun other indeclinable
+20123	noun other indeclinable
+20128	noun other indeclinable
 20131	verb
 noun
-20135	verb
+20135	noun other indeclinable
 20140	verb
 noun
 20146	proper noun indeclinable
@@ -3225,15 +3225,15 @@ noun
 20202	verb
 verb
 20208	verb
-20220	verb
-20223	verb
+20220	noun other indeclinable
+20223	noun other indeclinable
 20228	noun
 20236	verb
 20239	personal pronoun
 20255	noun
 20257	verb
-20261	verb
-verb
+20261	noun other indeclinable
+noun other indeclinable
 20264	proper noun indeclinable
 20278	verb
 20286	verb
@@ -3247,7 +3247,7 @@ noun
 20333	unknown
 personal pronoun
 20336	proper noun indeclinable
-20353	verb
+20353	noun other indeclinable
 20355	verb
 verb
 20361	verb
@@ -3262,9 +3262,9 @@ noun
 verb
 20408	personal pronoun
 20413	verb
-20423	verb
-20426	verb
-20429	verb
+20423	noun other indeclinable
+20426	noun other indeclinable
+20429	noun other indeclinable
 20435	noun
 20444	verb
 20447	verb
@@ -3273,25 +3273,25 @@ verb
 verb
 20465	noun
 20473	noun
-20483	verb
+20483	noun other indeclinable
 20494	noun
 20500	noun
 20503	noun
 20512	noun
 20514	verb
-relative pronoun
+noun other indeclinable
 20517	verb
 20533	noun
-20536	relative pronoun
+20536	noun other indeclinable
 20544	noun
-20551	verb
+20551	noun other indeclinable
 20564	verb
 20572	noun
 20574	verb
 verb
-verb
+noun other indeclinable
 20579	verb
-20581	relative pronoun
+20581	noun other indeclinable
 20590	noun
 20617	verb
 20619	proper noun indeclinable
@@ -3299,18 +3299,18 @@ verb
 20637	verb
 20642	noun
 20650	verb
-20652	verb
+20652	noun other indeclinable
 20656	noun
 20661	verb
-20668	relative pronoun
-conjunction
-verb
+20668	noun other indeclinable
+noun other indeclinable
+noun other indeclinable
 20674	verb
-20676	conjunction
+20676	noun other indeclinable
 20683	verb
 20685	proper noun indeclinable
-20698	conjunction
-verb
+20698	noun other indeclinable
+noun other indeclinable
 20710	verb
 20714	noun
 20724	verb
@@ -3320,29 +3320,29 @@ verb
 20757	noun
 20773	verb
 20778	verb
-20794	verb
+20794	noun other indeclinable
 20799	verb
-20801	verb
+20801	noun other indeclinable
 20811	verb
 noun
 20834	verb
 20836	noun
-20841	verb
-20845	verb
-20848	conjunction
+20841	noun other indeclinable
+20845	noun other indeclinable
+20848	noun other indeclinable
 20853	verb
 20868	verb
 20876	verb
 20882	verb
 20896	verb
 20904	verb
-20920	verb
-20923	conjunction
+20920	noun other indeclinable
+20923	noun other indeclinable
 20928	noun
 20951	proper noun indeclinable
 20953	proper noun indeclinable
-20969	relative pronoun
-20973	verb
+20969	noun other indeclinable
+20973	noun other indeclinable
 20977	personal pronoun
 21017	verb
 21019	personal pronoun
@@ -3352,28 +3352,28 @@ noun
 verb
 21063	verb
 21072	noun
-21083	verb
+21083	noun other indeclinable
 21095	verb
-21098	verb
+21098	noun other indeclinable
 21104	verb
-21111	conjunction
+21111	noun other indeclinable
 noun
 21131	verb
 21134	noun
 21140	noun
 21143	verb
 21150	noun
-21166	verb
+21166	noun other indeclinable
 noun
 21179	proper noun indeclinable
 21186	verb
 21193	proper noun indeclinable
-21198	verb
+21198	noun other indeclinable
 21209	verb
 21229	noun
-21238	verb
+21238	noun other indeclinable
 21245	noun
-verb
+noun other indeclinable
 21256	verb
 21258	personal pronoun
 verb
@@ -3384,7 +3384,7 @@ verb
 21299	verb
 21304	verb
 21316	verb
-21326	adverb
+21326	noun other indeclinable
 21328	verb
 21338	verb
 21342	verb
@@ -3392,23 +3392,23 @@ verb
 21355	verb
 21384	verb
 21394	verb
-21418	conjunction
+21418	noun other indeclinable
 21427	verb
 21437	verb
-21446	conjunction
+21446	noun other indeclinable
 21448	verb
 21453	verb
 21464	verb
 21480	personal pronoun
 verb
-21488	verb
+21488	noun other indeclinable
 21492	personal pronoun
 21511	noun
 21513	verb
-21545	verb
-21559	verb
-21564	verb
-21569	verb
+21545	noun other indeclinable
+21559	noun other indeclinable
+21564	noun other indeclinable
+21569	noun other indeclinable
 21584	verb
 21590	noun
 21592	verb
@@ -3427,15 +3427,15 @@ verb
 21719	verb
 21721	noun
 21723	verb
-21726	verb
+21726	noun other indeclinable
 21728	verb
 21730	verb
 21734	verb
 21736	verb
-21739	relative pronoun
+21739	noun other indeclinable
 21742	verb
 verb
-21765	verb
+21765	noun other indeclinable
 21767	noun
 21793	verb
 21814	verb
@@ -3449,11 +3449,11 @@ verb
 21905	verb
 21920	verb
 21938	noun
-21963	verb
+21963	noun other indeclinable
 21988	personal pronoun
 verb
 21993	verb
-22000	verb
+22000	noun other indeclinable
 22004	personal pronoun
 22019	verb
 22025	noun
@@ -3461,10 +3461,10 @@ verb
 22030	verb
 22034	personal pronoun
 22037	personal pronoun
-22046	verb
+22046	noun other indeclinable
 22050	noun
 22053	noun
-22083	relative pronoun
+22083	noun other indeclinable
 22100	personal pronoun
 verb
 22103	verb
@@ -3487,23 +3487,23 @@ verb
 22255	noun
 22257	verb
 22269	noun
-22271	conjunction
-22274	verb
-22288	verb
-22291	conjunction
+22271	noun other indeclinable
+22274	noun other indeclinable
+22288	noun other indeclinable
+22291	noun other indeclinable
 22313	personal pronoun
 22326	verb
 22340	verb
-22359	verb
-22362	verb
-22372	conjunction
+22359	noun other indeclinable
+22362	noun other indeclinable
+22372	noun other indeclinable
 22375	verb
 22378	verb
 22399	verb
 22420	verb
 22422	verb
 verb
-22426	verb
+22426	noun other indeclinable
 22448	verb
 22453	personal pronoun
 22456	verb
@@ -3523,7 +3523,7 @@ verb
 22538	verb
 22546	verb
 22548	unknown
-22555	relative pronoun
+22555	noun other indeclinable
 22564	noun
 22567	verb
 22573	verb
@@ -3543,7 +3543,7 @@ verb
 22645	verb
 22651	verb
 22658	verb
-22662	adverb
+22662	noun other indeclinable
 22665	verb
 22685	verb
 22690	noun
@@ -3572,7 +3572,7 @@ noun
 22813	proper noun indeclinable
 22815	verb
 22841	verb
-22849	conjunction
+22849	noun other indeclinable
 22859	noun
 verb
 22869	noun
@@ -3601,10 +3601,10 @@ verb
 22985	proper noun indeclinable
 23001	verb
 23041	unknown
-23052	verb
+23052	noun other indeclinable
 23068	verb
 23086	verb
-23094	verb
+23094	noun other indeclinable
 23098	verb
 23106	personal pronoun
 verb
@@ -3613,17 +3613,17 @@ verb
 23125	personal pronoun
 23162	verb
 23171	verb
-23178	relative pronoun
+23178	noun other indeclinable
 23195	proper noun indeclinable
 23200	personal pronoun
 23212	verb
 23216	verb
 23220	verb
-23227	verb
+23227	noun other indeclinable
 verb
 23244	verb
 23252	proper noun indeclinable
-23258	verb
+23258	noun other indeclinable
 23264	noun
 noun
 23286	verb
@@ -3637,15 +3637,15 @@ noun
 23349	verb
 23359	verb
 23369	verb
-23372	verb
+23372	noun other indeclinable
 23378	proper noun indeclinable
 23381	verb
-23397	relative pronoun
+23397	noun other indeclinable
 23399	verb
 23424	noun
 23435	personal pronoun
 verb
-23445	verb
+23445	noun other indeclinable
 23452	noun
 23454	proper noun indeclinable
 23456	verb
@@ -3662,13 +3662,13 @@ verb
 23546	verb
 23550	noun
 23559	verb
-23561	verb
+23561	noun other indeclinable
 23567	proper noun indeclinable
 23569	verb
 verb
 proper noun indeclinable
 23582	verb
-23587	verb
+23587	noun other indeclinable
 23602	verb
 23605	verb
 23608	verb
@@ -3678,24 +3678,24 @@ proper noun indeclinable
 23626	verb
 23635	verb
 23647	verb
-23654	verb
+23654	noun other indeclinable
 23666	verb
-23671	verb
+23671	noun other indeclinable
 23673	verb
 23679	verb
 23681	verb
-23685	verb
+23685	noun other indeclinable
 verb
 23690	verb
 23698	verb
 noun
 23703	noun
 23705	verb
-23707	verb
+23707	noun other indeclinable
 23730	noun
 23737	proper noun indeclinable
 23742	noun
-verb
+noun other indeclinable
 23750	noun
 23768	verb
 23793	verb
@@ -3721,7 +3721,7 @@ verb
 24007	noun
 24009	verb
 24026	verb
-24043	relative pronoun
+24043	noun other indeclinable
 24049	verb
 24068	verb
 24077	verb
@@ -3733,32 +3733,32 @@ verb
 verb
 24164	noun
 24174	verb
-24179	verb
+24179	noun other indeclinable
 24181	noun
-24185	verb
+24185	noun other indeclinable
 24190	noun
 24211	verb
 24225	personal pronoun
 24233	verb
-24239	verb
-24246	verb
+24239	noun other indeclinable
+24246	noun other indeclinable
 24250	personal pronoun
-24257	verb
+24257	noun other indeclinable
 24263	verb
 24268	verb
-24286	verb
+24286	noun other indeclinable
 24292	verb
 24299	noun
 24315	verb
-24326	verb
+24326	noun other indeclinable
 24329	verb
 24331	noun
 24334	verb
 24346	verb
 24354	verb
 24377	verb
-24381	verb
-24386	verb
+24381	noun other indeclinable
+24386	noun other indeclinable
 verb
 24400	proper noun indeclinable
 24424	verb
@@ -3776,13 +3776,13 @@ verb
 24524	noun
 verb
 24528	noun
-24531	verb
-24536	verb
+24531	noun other indeclinable
+24536	noun other indeclinable
 24538	noun
-24541	verb
+24541	noun other indeclinable
 24548	proper noun indeclinable
 24553	verb
-24563	relative pronoun
+24563	noun other indeclinable
 24583	verb
 24589	personal pronoun
 24602	verb
@@ -3805,11 +3805,11 @@ verb
 noun
 24724	noun
 24726	verb
-verb
+noun other indeclinable
 verb
 24735	noun
 24737	verb
-relative pronoun
+noun other indeclinable
 24748	verb
 24777	verb
 24781	verb
@@ -3818,9 +3818,9 @@ relative pronoun
 24829	verb
 24833	verb
 24836	noun
-24845	verb
+24845	noun other indeclinable
 24849	verb
-24859	conjunction
+24859	noun other indeclinable
 24861	verb
 24868	verb
 24874	personal pronoun
@@ -3844,8 +3844,8 @@ noun
 24947	noun
 24951	noun
 noun
-24960	adverb
-24970	verb
+24960	noun
+24970	noun other indeclinable
 verb
 24976	verb
 24978	verb
@@ -3855,15 +3855,15 @@ verb
 24986	verb
 24988	verb
 24996	verb
-25001	verb
-25019	verb
+25001	noun other indeclinable
+25019	noun other indeclinable
 25032	personal pronoun
-25037	verb
-25044	conjunction
+25037	noun other indeclinable
+25044	noun other indeclinable
 verb
 25051	personal pronoun
 25063	proper noun indeclinable
-25068	adverb
+25068	noun
 25076	verb
 25084	verb
 25093	verb
@@ -3876,7 +3876,7 @@ verb
 25137	personal pronoun
 25145	verb
 25147	verb
-25153	verb
+25153	noun other indeclinable
 25155	verb
 verb
 25160	verb
@@ -3896,9 +3896,9 @@ verb
 25238	personal pronoun
 25246	personal pronoun
 25249	verb
-25255	verb
-25263	verb
-25272	verb
+25255	noun other indeclinable
+25263	noun other indeclinable
+25272	noun other indeclinable
 25284	verb
 25288	verb
 verb
@@ -3918,7 +3918,7 @@ verb
 25396	verb
 25404	verb
 25409	verb
-25418	verb
+25418	noun other indeclinable
 25434	noun
 25441	verb
 25469	verb
@@ -3926,7 +3926,7 @@ verb
 25481	noun
 25491	verb
 25495	verb
-verb
+noun other indeclinable
 25499	verb
 25501	verb
 25504	verb
@@ -3939,55 +3939,55 @@ verb
 25560	personal pronoun
 25563	personal pronoun
 25565	verb
-25570	verb
+25570	noun other indeclinable
 25572	verb
 25576	noun
-25582	verb
+25582	noun other indeclinable
 25591	noun
 25608	verb
 25623	noun
 25625	noun
-verb
+noun other indeclinable
 25633	verb
-25641	conjunction
+25641	noun other indeclinable
 verb
 25645	verb
 25652	verb
 25658	personal pronoun
 verb
 25669	noun
-25677	verb
+25677	noun other indeclinable
 25698	verb
 25700	noun
 25702	verb
 25728	personal pronoun
 25731	personal pronoun
-25755	verb
+25755	noun other indeclinable
 25766	verb
 25771	verb
-25774	adverb
+25774	noun other indeclinable
 25778	verb
 verb
 25784	verb
 25788	verb
-verb
+noun other indeclinable
 verb
 25797	noun
 25807	verb
-verb
+noun other indeclinable
 25810	verb
 25812	verb
 25820	noun
 25822	verb
 25839	verb
-25851	verb
+25851	noun other indeclinable
 25856	proper noun indeclinable
-25865	verb
+25865	noun other indeclinable
 25873	personal pronoun
 25876	personal pronoun
 25879	personal pronoun
 25882	verb
-25884	verb
+25884	noun other indeclinable
 noun
 verb
 25889	verb
@@ -3997,12 +3997,12 @@ verb
 25906	proper noun indeclinable
 25909	verb
 25912	verb
-25914	verb
+25914	noun other indeclinable
 noun
 verb
 25918	verb
 25924	verb
-conjunction
+noun other indeclinable
 verb
 25929	verb
 25936	verb
@@ -4010,16 +4010,16 @@ verb
 verb
 noun
 25947	verb
-25962	conjunction
+25962	noun other indeclinable
 25967	verb
 25969	verb
 25973	verb
 25977	verb
-25979	verb
+25979	noun other indeclinable
 noun
 verb
 25983	verb
-25987	verb
+25987	noun other indeclinable
 26017	noun
 26023	verb
 26059	proper noun indeclinable
@@ -4027,7 +4027,7 @@ verb
 26065	verb
 26068	noun
 26076	personal pronoun
-26101	verb
+26101	noun other indeclinable
 26105	verb
 26112	verb
 26119	personal pronoun
@@ -4035,7 +4035,7 @@ verb
 26128	personal pronoun
 26135	noun
 verb
-26142	verb
+26142	noun other indeclinable
 26160	verb
 26181	verb
 26184	verb
@@ -4060,7 +4060,7 @@ verb
 26335	verb
 26342	personal pronoun
 26347	verb
-26353	verb
+26353	noun other indeclinable
 26355	verb
 26362	personal pronoun
 26373	noun
@@ -4069,10 +4069,10 @@ verb
 26384	verb
 26388	verb
 26391	verb
-26396	relative pronoun
-26398	verb
+26396	noun other indeclinable
+26398	noun other indeclinable
 26404	verb
-26409	verb
+26409	noun other indeclinable
 26415	noun
 26417	verb
 26421	noun
@@ -4095,27 +4095,27 @@ verb
 26497	verb
 26503	verb
 26506	noun
-26508	verb
+26508	noun
 verb
-relative pronoun
+noun other indeclinable
 26514	personal pronoun
 26519	verb
 26523	unknown
 26539	verb
 26557	verb
-26559	verb
-relative pronoun
+26559	noun
+noun other indeclinable
 26568	verb
 26577	verb
-26580	noun
+26580	noun other indeclinable
 26584	noun
 26586	verb
 26592	verb
-26599	verb
+26599	noun other indeclinable
 26603	verb
 personal pronoun
 26614	verb
-verb
+noun other indeclinable
 26620	verb
 noun
 26623	verb
@@ -4128,11 +4128,11 @@ verb
 verb
 26641	verb
 26643	noun
-26657	verb
-26668	verb
-26673	verb
-26678	verb
-26683	verb
+26657	noun other indeclinable
+26668	noun other indeclinable
+26673	noun other indeclinable
+26678	noun other indeclinable
+26683	noun other indeclinable
 26686	personal pronoun
 26691	noun
 26693	verb
@@ -4142,14 +4142,14 @@ noun
 26713	verb
 26722	noun
 26735	verb
-26737	verb
+26737	noun other indeclinable
 verb
 26742	noun
 26746	verb
 26753	verb
 26780	verb
 verb
-26788	adverb
+26788	noun other indeclinable
 26790	verb
 26797	verb
 26821	noun
@@ -4171,7 +4171,7 @@ verb
 26942	verb
 26946	verb
 26951	verb
-26954	verb
+26954	noun other indeclinable
 26964	personal pronoun
 26966	verb
 26986	verb
@@ -4180,15 +4180,15 @@ verb
 27006	verb
 27014	verb
 27019	personal pronoun
-verb
+noun other indeclinable
 27025	proper noun indeclinable
 27032	noun
 27036	noun
 27049	proper noun indeclinable
-verb
+noun other indeclinable
 noun
-27058	verb
-27064	verb
+27058	noun other indeclinable
+27064	noun other indeclinable
 27088	verb
 27091	noun
 27102	noun
@@ -4197,18 +4197,18 @@ proper noun indeclinable
 27110	verb
 noun
 27121	verb
-27125	adverb
-27129	adverb
+27125	noun other indeclinable
+27129	noun other indeclinable
 27139	verb
 27145	verb
 27147	verb
 27156	verb
-verb
+noun other indeclinable
 27177	personal pronoun
 27182	verb
-27188	verb
+27188	noun other indeclinable
 27198	verb
-27200	verb
+27200	noun other indeclinable
 27213	verb
 27220	verb
 27224	noun
@@ -4216,16 +4216,16 @@ verb
 27242	verb
 proper noun indeclinable
 27255	verb
-27264	verb
+27264	noun other indeclinable
 verb
 27285	personal pronoun
 27287	verb
 27296	verb
 27302	personal pronoun
-27304	verb
+27304	noun other indeclinable
 27314	verb
 27316	verb
-27322	relative pronoun
+27322	noun other indeclinable
 27332	verb
 27335	verb
 27349	verb
@@ -4235,23 +4235,23 @@ verb
 27363	verb
 27374	verb
 27376	verb
-27378	conjunction
+27378	noun other indeclinable
 27383	proper noun indeclinable
 27390	personal pronoun
 27393	personal pronoun
-27397	verb
+27397	noun other indeclinable
 27401	verb
-27404	verb
-27416	verb
-27418	verb
+27404	noun other indeclinable
+27416	noun other indeclinable
+27418	noun other indeclinable
 27430	verb
 27443	verb
 27453	verb
 27459	verb
 27461	verb
 27474	verb
-27484	verb
-27516	verb
+27484	noun other indeclinable
+27516	noun other indeclinable
 27518	verb
 27521	verb
 27524	verb
@@ -4272,7 +4272,7 @@ verb
 27660	verb
 27667	noun
 27680	verb
-verb
+noun other indeclinable
 verb
 27702	noun
 27706	verb
@@ -4282,13 +4282,13 @@ verb
 27760	verb
 27774	verb
 27779	verb
-27792	verb
+27792	noun other indeclinable
 verb
 27799	noun
 27805	noun
 27811	verb
 noun
-verb
+noun other indeclinable
 27815	noun
 27817	verb
 27825	noun
@@ -4297,7 +4297,7 @@ verb
 27843	verb
 27848	verb
 27866	verb
-27870	verb
+27870	noun other indeclinable
 verb
 27880	verb
 27886	verb
@@ -4323,10 +4323,10 @@ verb
 28057	verb
 28059	verb
 28063	verb
-28068	adverb
+28068	noun other indeclinable
 28073	verb
 28080	verb
-adverb
+noun other indeclinable
 28104	verb
 noun
 28121	noun
@@ -4335,9 +4335,9 @@ noun
 28159	verb
 28163	noun
 28173	verb
-28175	relative pronoun
+28175	noun other indeclinable
 28182	verb
-28190	verb
+28190	noun other indeclinable
 28216	verb
 28222	verb
 28237	personal pronoun
@@ -4345,7 +4345,7 @@ noun
 28243	personal pronoun
 28252	noun
 28258	noun
-28260	conjunction
+28260	noun other indeclinable
 28264	verb
 28270	personal pronoun
 28284	verb
@@ -4356,7 +4356,7 @@ noun
 28321	noun
 verb
 verb
-28331	conjunction
+28331	noun other indeclinable
 28344	noun
 28346	verb
 28350	verb
@@ -4376,21 +4376,21 @@ verb
 28444	personal pronoun
 28452	verb
 verb
-verb
+noun other indeclinable
 28462	noun
 28470	verb
 28482	noun
 28484	verb
 28486	verb
 28489	verb
-28492	verb
+28492	noun other indeclinable
 28495	verb
 28519	personal pronoun
 28521	verb
 28540	verb
 28545	verb
 28549	verb
-28558	relative pronoun
+28558	noun other indeclinable
 verb
 28570	verb
 28579	personal pronoun
@@ -4400,13 +4400,13 @@ verb
 28618	personal pronoun
 28627	noun
 28629	verb
-28631	adverb
+28631	noun other indeclinable
 noun
 verb
 28650	proper noun indeclinable
 noun
-28654	conjunction
-28664	verb
+28654	noun other indeclinable
+28664	noun other indeclinable
 28666	verb
 28670	verb
 28676	verb
@@ -4433,16 +4433,16 @@ noun
 28853	verb
 28883	proper noun indeclinable
 28892	verb
-conjunction
+noun other indeclinable
 28896	noun
-28901	conjunction
+28901	noun other indeclinable
 28917	noun
 proper noun indeclinable
 28920	verb
 28922	proper noun indeclinable
 28927	personal pronoun
 28939	verb
-28944	verb
+28944	noun other indeclinable
 28949	verb
 28952	verb
 unknown
@@ -4457,7 +4457,7 @@ unknown
 29006	verb
 29031	verb
 29035	verb
-adverb
+noun other indeclinable
 29046	verb
 29050	noun
 29069	verb
@@ -4467,42 +4467,42 @@ noun
 29084	verb
 29089	verb
 29095	verb
-conjunction
-29104	verb
-29123	conjunction
-verb
+noun other indeclinable
+29104	noun other indeclinable
+29123	noun other indeclinable
+noun other indeclinable
 29130	verb
 29133	verb
 29136	verb
 29142	noun
 29144	noun
-conjunction
-29160	conjunction
+noun other indeclinable
+29160	noun other indeclinable
 29163	noun
 29165	verb
 29191	noun
 29204	verb
 29208	verb
-29214	verb
-29217	conjunction
+29214	noun other indeclinable
+29217	noun other indeclinable
 29226	verb
-29262	verb
+29262	noun other indeclinable
 29274	verb
 29276	verb
-29296	conjunction
-29299	noun
-29308	verb
+29296	noun other indeclinable
+29299	noun other indeclinable
+29308	noun other indeclinable
 29318	verb
 29321	verb
 29327	verb
-29332	adverb
+29332	noun other indeclinable
 29338	verb
 29348	verb
 29357	verb
 29383	noun
 29391	noun
 29405	verb
-29419	verb
+29419	noun other indeclinable
 29421	verb
 29443	verb
 29455	verb
@@ -4510,7 +4510,7 @@ conjunction
 verb
 29467	verb
 29482	verb
-verb
+noun other indeclinable
 29487	noun
 29490	verb
 29493	verb
@@ -4526,30 +4526,30 @@ verb
 29543	verb
 29546	proper noun indeclinable
 29570	noun
-29585	verb
+29585	noun other indeclinable
 29591	personal pronoun
 29599	verb
 29601	noun
-29605	unknown
+29605	noun other indeclinable
 29616	verb
-29620	verb
+29620	noun other indeclinable
 29648	verb
 29650	verb
 29652	verb
-29654	verb
+29654	noun other indeclinable
 29661	verb
-29665	conjunction
-29669	conjunction
+29665	noun other indeclinable
+29669	noun other indeclinable
 29672	noun
-29676	verb
-29683	verb
-29687	verb
+29676	noun other indeclinable
+29683	noun other indeclinable
+29687	noun other indeclinable
 29689	verb
 29695	verb
 29703	verb
 29709	verb
-29714	conjunction
-29718	verb
+29714	noun other indeclinable
+29718	noun other indeclinable
 29727	verb
 29730	verb
 29741	verb
@@ -4566,38 +4566,38 @@ verb
 29813	noun
 29815	verb
 29820	verb
-29822	verb
+29822	noun other indeclinable
 29833	verb
-verb
+noun other indeclinable
 verb
 verb
 verb
 verb
 29842	verb
-29860	verb
+29860	noun other indeclinable
 29868	verb
 29875	verb
 29877	verb
-29888	adverb
+29888	noun other indeclinable
 verb
 verb
 29905	verb
-29914	conjunction
+29914	noun other indeclinable
 29917	verb
-29922	verb
-29925	verb
-29940	verb
-29945	conjunction
+29922	noun other indeclinable
+29925	noun other indeclinable
+29940	noun other indeclinable
+29945	noun other indeclinable
 verb
-29953	relative pronoun
+29953	noun other indeclinable
 29978	verb
 29980	verb
 29985	noun
-verb
-29993	verb
-29995	verb
+noun other indeclinable
+29993	noun other indeclinable
+29995	noun other indeclinable
 30007	verb
-30012	adverb
+30012	noun other indeclinable
 30016	verb
 30035	verb
 30039	noun
@@ -4605,8 +4605,8 @@ verb
 30051	verb
 30056	verb
 30066	noun
-30070	adverb
-30072	verb
+30070	noun other indeclinable
+30072	noun other indeclinable
 30093	noun
 30103	verb
 30113	noun
@@ -4616,51 +4616,51 @@ verb
 30135	verb
 30145	verb
 30154	verb
-30156	adverb
+30156	noun other indeclinable
 30160	verb
-30165	verb
+30165	noun other indeclinable
 verb
 30179	verb
 noun
 30182	verb
 30185	verb
-30188	adverb
+30188	noun
 30191	verb
 30197	verb
 30204	verb
-30207	verb
-30232	relative pronoun
-30243	verb
+30207	noun other indeclinable
+30232	noun other indeclinable
+30243	noun other indeclinable
 30258	verb
-30261	verb
+30261	noun other indeclinable
 30269	verb
 30279	verb
-30283	adverb
-30285	relative pronoun
+30283	noun other indeclinable
+30285	noun other indeclinable
 30291	verb
 30293	proper noun indeclinable
-30297	verb
+30297	noun other indeclinable
 verb
-30301	verb
+30301	noun other indeclinable
 30306	noun
 30315	noun
 verb
 30318	verb
 30320	verb
 30325	noun
-30345	adverb
+30345	noun other indeclinable
 30352	verb
 30358	noun
-30379	verb
+30379	noun other indeclinable
 30384	verb
 30396	verb
-30427	relative pronoun
+30427	noun other indeclinable
 verb
 30450	personal pronoun
 verb
 30453	personal pronoun
 30458	noun
-30469	verb
+30469	noun other indeclinable
 30493	verb
 30495	verb
 30507	verb
@@ -4669,84 +4669,84 @@ verb
 30529	noun
 30545	noun
 30551	verb
-30561	verb
+30561	noun other indeclinable
 verb
 30569	proper noun indeclinable
 30575	personal pronoun
-30577	verb
+30577	noun other indeclinable
 30579	verb
 30583	noun
 30591	verb
-conjunction
+noun other indeclinable
 30605	noun
 30607	noun
-30625	verb
+30625	noun other indeclinable
 30632	noun
 30635	verb
 30638	verb
-30680	verb
+30680	noun other indeclinable
 30684	verb
 30697	verb
 30699	verb
 verb
 verb
-30711	verb
+30711	noun other indeclinable
 verb
 30715	noun
 30718	verb
-30720	verb
+30720	noun other indeclinable
 30727	verb
-30729	verb
+30729	noun other indeclinable
 verb
 30732	verb
 verb
 30736	verb
-30751	conjunction
-verb
+30751	noun other indeclinable
+noun other indeclinable
 30754	verb
 noun
-30764	verb
+30764	noun other indeclinable
 30770	noun
 30774	proper noun indeclinable
 30779	noun
 30783	noun
 30813	noun
 30820	verb
-30832	verb
-30856	verb
-30860	conjunction
-30863	verb
-30869	verb
+30832	noun other indeclinable
+30856	noun other indeclinable
+30860	noun other indeclinable
+30863	noun other indeclinable
+30869	noun other indeclinable
 30886	verb
 30891	verb
 30899	verb
-30905	adverb
+30905	noun other indeclinable
 30924	noun
-verb
+noun other indeclinable
 verb
 30934	verb
-30937	verb
+30937	noun other indeclinable
 30946	noun
 30950	verb
 30952	verb
-30954	verb
-30961	verb
-30966	relative pronoun
+30954	noun other indeclinable
+30961	noun other indeclinable
+30966	noun other indeclinable
 30973	personal pronoun
 30975	personal pronoun
 30981	verb
 noun
 30993	noun
-31011	verb
+31011	noun other indeclinable
 31029	personal pronoun
 31045	proper noun indeclinable
-31049	verb
+31049	noun other indeclinable
 31051	verb
 31055	personal pronoun
 31061	verb
-31095	verb
+31095	noun other indeclinable
 31116	verb
-31119	verb
+31119	noun other indeclinable
 31121	verb
 31123	proper noun indeclinable
 verb
@@ -4754,42 +4754,42 @@ verb
 verb
 31129	verb
 31134	verb
-31138	verb
+31138	noun other indeclinable
 31141	verb
 31144	verb
 31147	verb
-31149	adverb
-31151	conjunction
-verb
-31170	conjunction
-31175	conjunction
+31149	noun other indeclinable
+31151	noun other indeclinable
+noun other indeclinable
+31170	noun other indeclinable
+31175	noun other indeclinable
 31187	verb
 31189	verb
 31192	verb
-31195	verb
+31195	noun other indeclinable
 31200	noun
-31202	verb
+31202	noun other indeclinable
 31230	verb
 31232	verb
 31237	verb
 noun
 31242	verb
-verb
+noun other indeclinable
 31247	personal pronoun
 31252	verb
 31265	verb
 31267	verb
-31270	conjunction
+31270	noun other indeclinable
 31288	verb
-31294	adverb
-31302	verb
+31294	noun
+31302	noun other indeclinable
 31308	verb
 31310	verb
 31314	verb
 31322	verb
-31325	conjunction
+31325	noun other indeclinable
 verb
-31335	verb
+31335	noun other indeclinable
 31345	noun
 31349	noun
 noun
@@ -4797,46 +4797,46 @@ verb
 31356	verb
 31358	verb
 31370	verb
-31384	relative pronoun
+31384	noun other indeclinable
 31387	proper noun indeclinable
 31391	verb
 31410	verb
-conjunction
+noun other indeclinable
 31416	personal pronoun
 31430	verb
-31443	verb
-31451	verb
+31443	noun other indeclinable
+31451	noun other indeclinable
 31456	personal pronoun
-31463	verb
-31472	verb
+31463	noun other indeclinable
+31472	noun other indeclinable
 31491	verb
-31493	verb
-31497	verb
+31493	noun other indeclinable
+31497	noun other indeclinable
 31510	personal pronoun
 31515	verb
 31525	verb
-31536	adverb
+31536	noun other indeclinable
 31539	verb
 verb
 31545	verb
-31555	verb
+31555	noun other indeclinable
 31560	verb
-31581	conjunction
+31581	noun other indeclinable
 31590	proper noun indeclinable
-31592	verb
+31592	noun other indeclinable
 31594	verb
-31599	verb
+31599	noun other indeclinable
 31606	noun
-31610	verb
+31610	noun other indeclinable
 31645	noun
 verb
 31651	verb
-31657	verb
+31657	noun other indeclinable
 31663	proper noun indeclinable
-31674	relative pronoun
-31676	verb
+31674	noun other indeclinable
+31676	noun other indeclinable
 31678	verb
-31684	verb
+31684	noun other indeclinable
 31690	verb
 31696	proper noun indeclinable
 31707	proper noun indeclinable
@@ -4844,7 +4844,7 @@ verb
 31719	proper noun indeclinable
 31724	verb
 31742	verb
-31753	verb
+31753	noun other indeclinable
 31759	verb
 31763	noun
 31768	verb
@@ -4860,40 +4860,40 @@ noun
 31859	verb
 31866	verb
 31875	verb
-31877	verb
+31877	noun other indeclinable
 31887	verb
 31891	noun
 31917	verb
-verb
+noun other indeclinable
 31925	verb
-verb
+noun other indeclinable
 31932	noun
 31945	verb
 31948	noun
-31988	verb
-31992	verb
-32014	relative pronoun
+31988	noun other indeclinable
+31992	noun other indeclinable
+32014	noun other indeclinable
 32021	verb
-32030	verb
-32035	conjunction
+32030	noun other indeclinable
+32035	noun other indeclinable
 32039	verb
-32043	relative pronoun
+32043	noun other indeclinable
 32061	verb
 32079	noun
 32119	noun
 32135	noun
 32169	noun
 32197	verb
-32209	verb
-32212	verb
+32209	noun other indeclinable
+32212	noun other indeclinable
 32220	verb
-32225	verb
+32225	noun other indeclinable
 32233	verb
 32242	verb
 verb
 32270	proper noun indeclinable
 32272	noun
-32275	verb
+32275	noun other indeclinable
 32277	verb
 32279	verb
 32286	verb
@@ -4925,59 +4925,59 @@ noun
 32389	verb
 verb
 32401	verb
-32406	verb
+32406	noun other indeclinable
 32420	verb
-32426	verb
-32438	conjunction
-32446	verb
+32426	noun other indeclinable
+32438	noun other indeclinable
+32446	noun other indeclinable
 32465	verb
 32468	verb
-32472	conjunction
+32472	noun other indeclinable
 32475	verb
-32494	verb
+32494	noun other indeclinable
 verb
 32498	verb
 32504	verb
 32506	verb
 32510	personal pronoun
-32512	verb
+32512	noun other indeclinable
 32527	noun
-32529	verb
+32529	noun other indeclinable
 32541	verb
 32551	verb
 32558	verb
 32562	verb
-32579	verb
+32579	noun other indeclinable
 32582	verb
 verb
-32585	verb
+32585	noun other indeclinable
 verb
-32593	verb
+32593	noun other indeclinable
 32600	verb
 32603	noun
-32605	verb
-32609	verb
+32605	noun other indeclinable
+32609	noun other indeclinable
 32618	numeral
 32620	verb
-32622	relative pronoun
+32622	noun other indeclinable
 32627	proper noun indeclinable
 32644	noun
 32647	verb
-32649	verb
+32649	noun other indeclinable
 32668	verb
-verb
-32678	verb
+noun other indeclinable
+32678	noun other indeclinable
 32684	noun
 32695	verb
 32700	noun
 verb
-32712	conjunction
-32715	verb
-32725	verb
+32712	noun other indeclinable
+32715	noun other indeclinable
+32725	noun other indeclinable
 verb
-conjunction
-32732	verb
-32735	conjunction
+noun other indeclinable
+32732	noun other indeclinable
+32735	noun other indeclinable
 32737	verb
 32742	verb
 32745	verb
@@ -4985,10 +4985,10 @@ conjunction
 32762	verb
 32768	noun
 32778	noun
-32803	verb
+32803	noun other indeclinable
 verb
 32822	verb
-32837	conjunction
+32837	noun other indeclinable
 32847	verb
 verb
 32854	verb
@@ -5007,18 +5007,18 @@ verb
 32950	verb
 32952	noun
 32954	verb
-32960	conjunction
-32969	verb
+32960	noun other indeclinable
+32969	noun other indeclinable
 32980	verb
-32983	conjunction
+32983	noun other indeclinable
 32985	noun
 32994	noun
 32997	personal pronoun
 32999	verb
 33004	proper noun indeclinable
-33013	conjunction
+33013	noun other indeclinable
 33022	verb
-33030	relative pronoun
+33030	noun other indeclinable
 33033	noun
 verb
 33044	proper noun indeclinable
@@ -5030,21 +5030,21 @@ noun
 33073	verb
 33077	proper noun indeclinable
 33081	verb
-33084	verb
+33084	noun other indeclinable
 33097	proper noun indeclinable
 33104	verb
 33106	verb
 33108	verb
 33110	noun
 33132	verb
-adverb
+noun other indeclinable
 33135	unknown
 33149	verb
 33161	verb
 33165	proper noun indeclinable
-33176	verb
-33180	verb
-33185	adverb
+33176	noun other indeclinable
+33180	noun other indeclinable
+33185	noun other indeclinable
 33188	noun
 33198	noun
 33200	verb
@@ -5053,17 +5053,17 @@ adverb
 33227	verb
 33238	verb
 33243	verb
-33265	conjunction
+33265	noun other indeclinable
 verb
-verb
+noun other indeclinable
 33269	verb
-33274	verb
+33274	noun other indeclinable
 33277	verb
-33280	conjunction
+33280	noun other indeclinable
 33302	verb
-conjunction
-33309	adverb
-33316	conjunction
+noun other indeclinable
+33309	noun other indeclinable
+33316	noun other indeclinable
 33323	noun
 verb
 33329	noun
@@ -5078,7 +5078,7 @@ noun
 33381	noun
 33397	verb
 33401	verb
-verb
+noun other indeclinable
 33414	verb
 verb
 33419	verb
@@ -5099,8 +5099,8 @@ noun
 33498	verb
 33500	verb
 33503	verb
-33514	verb
-33519	conjunction
+33514	noun other indeclinable
+33519	noun other indeclinable
 33524	verb
 33532	personal pronoun
 33535	personal pronoun
@@ -5120,9 +5120,9 @@ verb
 33593	personal pronoun
 33596	personal pronoun
 33605	verb
-33614	verb
+33614	noun other indeclinable
 33634	verb
-verb
+noun other indeclinable
 33650	verb
 33655	noun
 33661	noun
@@ -5140,25 +5140,25 @@ verb
 noun
 33711	verb
 verb
-33720	verb
+33720	noun other indeclinable
 33724	noun
 33728	personal pronoun
 verb
 33738	verb
 33754	verb
 33767	personal pronoun
-33771	relative pronoun
+33771	noun other indeclinable
 33777	verb
 33802	noun
 33809	verb
-33812	verb
-33823	conjunction
+33812	noun other indeclinable
+33823	noun other indeclinable
 33831	noun
-conjunction
+noun other indeclinable
 noun
 33837	personal pronoun
 33840	personal pronoun
-33843	verb
+33843	noun other indeclinable
 33857	verb
 33875	verb
 33881	verb
@@ -5169,9 +5169,9 @@ noun
 33900	verb
 33903	verb
 33915	verb
-33927	verb
-33938	conjunction
-33940	verb
+33927	noun other indeclinable
+33938	noun other indeclinable
+33940	noun other indeclinable
 33944	verb
 33948	noun
 33983	verb
@@ -5190,12 +5190,12 @@ noun
 34091	personal pronoun
 34101	personal pronoun
 verb
-34114	relative pronoun
+34114	noun other indeclinable
 34118	verb
 34120	verb
-34122	verb
-34128	adverb
-34134	verb
+34122	noun other indeclinable
+34128	noun other indeclinable
+34134	noun other indeclinable
 34138	proper noun indeclinable
 34141	verb
 34144	personal pronoun
@@ -5245,18 +5245,18 @@ verb
 34387	verb
 34392	noun
 noun
-34412	relative pronoun
-34422	verb
+34412	noun other indeclinable
+34422	noun other indeclinable
 34427	verb
-34432	verb
+34432	noun other indeclinable
 34443	verb
-34450	verb
+34450	noun other indeclinable
 34453	verb
-34456	verb
+34456	noun other indeclinable
 34459	verb
 34465	noun
 34471	verb
-34478	verb
+34478	noun other indeclinable
 34483	verb
 34490	verb
 34497	verb
@@ -5278,19 +5278,19 @@ verb
 34608	unknown
 34613	verb
 34626	verb
-adverb
+noun other indeclinable
 34633	verb
 34645	proper noun indeclinable
 34661	verb
 34663	verb
-34665	conjunction
+34665	noun other indeclinable
 34668	verb
 34679	verb
 34683	verb
 34687	personal pronoun
 34701	verb
 34703	verb
-34724	noun
+34724	noun other indeclinable
 34733	noun
 34755	verb
 verb
@@ -5301,26 +5301,26 @@ verb
 34794	verb
 34807	verb
 verb
-34811	verb
+34811	noun other indeclinable
 34816	verb
 34822	personal pronoun
 34824	verb
-34830	verb
+34830	noun other indeclinable
 34841	personal pronoun
 verb
-34847	relative pronoun
-34855	adverb
-34865	conjunction
+34847	noun other indeclinable
+34855	noun other indeclinable
+34865	noun other indeclinable
 noun
-34872	conjunction
+34872	noun other indeclinable
 34879	noun
 34884	verb
 34893	personal pronoun
 34898	verb
 34901	verb
 34923	verb
-34929	verb
-34944	verb
+34929	noun other indeclinable
+34944	noun other indeclinable
 verb
 34951	verb
 34957	personal pronoun
@@ -5333,7 +5333,7 @@ noun
 34998	noun
 35003	verb
 35005	verb
-verb
+noun other indeclinable
 35013	verb
 35015	verb
 35017	verb
@@ -5344,30 +5344,30 @@ verb
 35039	verb
 35044	verb
 35052	verb
-35055	verb
+35055	noun other indeclinable
 35060	verb
 35073	noun
 35077	verb
 35079	verb
-35084	verb
-35088	adverb
+35084	noun other indeclinable
+35088	noun other indeclinable
 personal pronoun
-verb
+noun other indeclinable
 35094	verb
-35096	verb
+35096	noun other indeclinable
 35100	verb
-35105	adverb
+35105	noun other indeclinable
 verb
-35116	adverb
+35116	noun
 35122	verb
 verb
 35125	verb
 35128	verb
 35130	verb
 verb
-35134	verb
+35134	noun other indeclinable
 35136	verb
-35143	verb
+35143	noun other indeclinable
 35145	noun
 35147	verb
 35155	verb
@@ -5378,7 +5378,7 @@ verb
 35175	verb
 35194	verb
 verb
-35199	verb
+35199	noun other indeclinable
 verb
 35205	relative pronoun
 verb
@@ -5389,22 +5389,22 @@ noun
 35235	verb
 35238	verb
 35240	verb
-adverb
+noun
 35257	verb
-35278	adverb
-35281	conjunction
-verb
+35278	noun other indeclinable
+35281	noun other indeclinable
+noun other indeclinable
 35284	verb
 35289	verb
-verb
+noun other indeclinable
 35297	verb
 35299	verb
-verb
+noun other indeclinable
 noun
 35336	verb
-verb
+noun other indeclinable
 35339	noun
-35342	conjunction
+35342	noun other indeclinable
 35361	verb
 35364	verb
 35372	verb
@@ -5422,12 +5422,12 @@ verb
 verb
 35502	verb
 35507	personal pronoun
-35510	verb
+35510	noun other indeclinable
 35518	verb
 verb
-35524	adverb
+35524	noun other indeclinable
 35526	verb
-35534	verb
+35534	noun other indeclinable
 35548	noun
 35550	verb
 35552	personal pronoun
@@ -5442,7 +5442,7 @@ noun
 verb
 35610	verb
 35612	noun
-35617	verb
+35617	noun other indeclinable
 35623	verb
 noun
 35630	proper noun indeclinable
@@ -5450,7 +5450,7 @@ noun
 35638	verb
 35645	noun
 35652	verb
-verb
+noun other indeclinable
 35665	verb
 35670	verb
 35677	noun
@@ -5463,7 +5463,7 @@ verb
 35701	proper noun indeclinable
 35704	noun
 35706	verb
-35710	verb
+35710	noun other indeclinable
 35719	verb
 35724	verb
 35731	verb
@@ -5471,17 +5471,17 @@ personal pronoun
 35734	noun
 35738	personal pronoun
 35756	personal pronoun
-35779	verb
+35779	noun other indeclinable
 35782	verb
 35791	personal pronoun
 35795	verb
 35801	verb
-35809	verb
+35809	noun other indeclinable
 35811	verb
-35816	verb
+35816	noun other indeclinable
 verb
 verb
-35827	verb
+35827	noun other indeclinable
 35836	verb
 verb
 35845	personal pronoun
@@ -5490,15 +5490,15 @@ verb
 35885	noun
 35897	personal pronoun
 35905	noun
-35911	adverb
+35911	noun other indeclinable
 35913	verb
 35915	personal pronoun
 35917	verb
-35919	verb
+35919	noun other indeclinable
 35926	verb
 35936	personal pronoun
 35940	verb
-35946	verb
+35946	noun other indeclinable
 35949	verb
 35956	personal pronoun
 verb
@@ -5515,8 +5515,8 @@ noun
 36047	verb
 36062	verb
 noun
-36071	verb
-36076	verb
+36071	noun other indeclinable
+36076	noun other indeclinable
 36083	verb
 verb
 36089	verb
@@ -5527,9 +5527,9 @@ verb
 36148	verb
 36152	noun
 36161	verb
-36167	conjunction
+36167	noun other indeclinable
 36172	verb
-36174	verb
+36174	noun other indeclinable
 36176	noun
 36191	proper noun indeclinable
 noun
@@ -5547,15 +5547,15 @@ noun
 36306	noun
 36311	verb
 36313	verb
-36331	verb
-36347	adverb
+36331	noun other indeclinable
+36347	noun other indeclinable
 36361	noun
-36375	conjunction
-36377	relative pronoun
+36375	noun other indeclinable
+36377	noun other indeclinable
 verb
-36383	verb
+36383	noun other indeclinable
 36388	personal pronoun
-36395	verb
+36395	noun other indeclinable
 noun
 36399	verb
 36419	noun
@@ -5565,7 +5565,7 @@ noun
 personal pronoun
 36447	verb
 36476	verb
-36481	relative pronoun
+36481	noun other indeclinable
 36486	verb
 36491	verb
 36502	noun
@@ -5576,7 +5576,7 @@ personal pronoun
 36561	verb
 36566	verb
 36581	noun
-adverb
+noun other indeclinable
 36600	personal pronoun
 36619	verb
 36622	proper noun indeclinable
@@ -5601,10 +5601,10 @@ noun
 36772	personal pronoun
 36785	noun
 36787	verb
-36794	adverb
+36794	noun other indeclinable
 36796	noun
 36801	personal pronoun
-36822	verb
+36822	noun other indeclinable
 36826	verb
 36834	personal pronoun
 36840	verb
@@ -5615,7 +5615,7 @@ verb
 36873	noun
 36879	verb
 36889	verb
-36920	verb
+36920	noun other indeclinable
 36926	verb
 36929	personal pronoun
 verb
@@ -5633,7 +5633,7 @@ proper noun indeclinable
 36986	verb
 36990	verb
 37006	verb
-37016	verb
+37016	noun other indeclinable
 37033	verb
 37036	verb
 37039	verb
@@ -5641,7 +5641,7 @@ proper noun indeclinable
 37051	verb
 37064	verb
 37079	verb
-37083	verb
+37083	noun other indeclinable
 37085	verb
 37092	verb
 verb
@@ -5651,29 +5651,29 @@ verb
 noun
 37112	noun
 37114	verb
-37138	verb
+37138	noun other indeclinable
 37145	verb
-37155	adverb
-37167	verb
+37155	noun other indeclinable
+37167	noun other indeclinable
 verb
 verb
 37175	verb
-verb
+noun other indeclinable
 37182	personal pronoun
 37192	verb
 37197	verb
-37203	verb
+37203	noun other indeclinable
 37209	verb
 37215	noun
 37236	verb
-37248	verb
+37248	noun other indeclinable
 37261	verb
-37272	verb
-37286	verb
-37308	adverb
+37272	noun other indeclinable
+37286	noun other indeclinable
+37308	noun other indeclinable
 37314	noun
 37317	verb
-37328	adverb
+37328	noun other indeclinable
 37339	verb
 37342	verb
 37351	verb
@@ -5690,28 +5690,28 @@ verb
 37432	proper noun indeclinable
 37442	verb
 37448	personal pronoun
-37455	conjunction
-37474	verb
+37455	noun other indeclinable
+37474	noun other indeclinable
 37479	verb
 37498	verb
 37501	verb
-37524	verb
+37524	noun other indeclinable
 37535	verb
 noun
-37539	verb
+37539	noun other indeclinable
 37542	verb
 37544	noun
 37550	verb
 37553	verb
-37571	verb
+37571	noun other indeclinable
 37592	verb
 37601	verb
-37611	conjunction
+37611	noun other indeclinable
 37617	personal pronoun
 verb
 37630	verb
 37632	verb
-37646	verb
+37646	noun other indeclinable
 37649	verb
 37653	verb
 37656	verb
@@ -5735,7 +5735,7 @@ verb
 37726	noun
 37736	verb
 37751	proper noun indeclinable
-verb
+noun other indeclinable
 37756	noun
 37758	verb
 37764	noun
@@ -5746,19 +5746,19 @@ verb
 37795	verb
 37799	verb
 37804	verb
-37810	adverb
-37813	relative pronoun
-37815	verb
+37810	noun other indeclinable
+37813	noun other indeclinable
+37815	noun other indeclinable
 37817	verb
 37837	noun
 verb
 37844	verb
 37860	verb
-verb
+noun other indeclinable
 37870	proper noun indeclinable
 37878	verb
 37896	proper noun indeclinable
-37902	verb
+37902	noun other indeclinable
 37904	verb
 37906	verb
 37912	noun
@@ -5768,14 +5768,14 @@ verb
 37952	noun
 37954	verb
 verb
-37959	verb
+37959	noun other indeclinable
 37965	verb
 37967	verb
-37977	verb
-37986	verb
+37977	noun other indeclinable
+37986	noun other indeclinable
 37988	noun
-37990	verb
-38002	verb
+37990	noun other indeclinable
+38002	noun other indeclinable
 38005	verb
 38011	noun
 verb
@@ -5786,27 +5786,27 @@ verb
 38039	personal pronoun
 38046	proper noun indeclinable
 noun
-38050	verb
+38050	noun other indeclinable
 38053	verb
 verb
-38060	relative pronoun
+38060	noun other indeclinable
 verb
 38064	verb
-38066	adverb
+38066	noun other indeclinable
 38070	verb
 38073	verb
 38079	proper noun indeclinable
 38089	verb
-38091	verb
+38091	noun other indeclinable
 38096	proper noun indeclinable
 38103	proper noun indeclinable
-38107	verb
-38110	verb
+38107	noun other indeclinable
+38110	noun other indeclinable
 38120	verb
 38126	verb
 38134	verb
 38136	verb
-38141	adverb
+38141	noun other indeclinable
 38149	verb
 38179	verb
 38190	noun
@@ -5819,55 +5819,55 @@ verb
 38209	relative pronoun
 38216	noun
 relative pronoun
-38223	adverb
+38223	noun other indeclinable
 38229	noun
 38238	verb
-38241	verb
+38241	noun other indeclinable
 38251	verb
 noun
 noun
 38255	verb
 verb
 38261	verb
-38263	verb
+38263	noun other indeclinable
 verb
 38266	verb
 verb
-38269	verb
+38269	noun other indeclinable
 verb
 38273	verb
-38275	verb
+38275	noun other indeclinable
 verb
 38278	verb
 verb
-38282	verb
+38282	noun
 verb
-relative pronoun
+noun other indeclinable
 38286	verb
 38289	unknown
 38294	noun
 38300	verb
-38308	verb
+38308	noun
 38312	verb
 38322	verb
 38334	verb
-38339	verb
+38339	noun other indeclinable
 38347	unknown
 38371	proper noun indeclinable
 38378	verb
 38383	verb
 38403	verb
-38412	verb
+38412	noun other indeclinable
 38416	verb
 38421	verb
-verb
+noun
 noun
 38430	noun
 38433	verb
 38440	verb
 38449	unknown
-verb
-38472	conjunction
+noun other indeclinable
+38472	noun other indeclinable
 38483	verb
 38494	verb
 verb
@@ -5879,9 +5879,9 @@ verb
 38529	verb
 38533	verb
 38538	verb
-38547	verb
-38551	verb
-38555	relative pronoun
+38547	noun other indeclinable
+38551	noun other indeclinable
+38555	noun other indeclinable
 38557	verb
 38575	verb
 38580	verb
@@ -5905,12 +5905,12 @@ noun
 38750	verb
 38760	verb
 38773	verb
-38781	conjunction
+38781	noun other indeclinable
 38783	noun
-38786	conjunction
+38786	noun other indeclinable
 38798	personal pronoun
 38800	verb
-38805	verb
+38805	noun other indeclinable
 38810	verb
 38812	proper noun indeclinable
 noun
@@ -5921,17 +5921,17 @@ noun
 noun
 38853	noun
 38856	verb
-verb
+noun other indeclinable
 38861	proper noun indeclinable
 noun
-38866	verb
+38866	noun other indeclinable
 38869	proper noun indeclinable
 noun
 personal pronoun
 verb
-38874	verb
+38874	noun other indeclinable
 38877	noun
-38885	verb
+38885	noun other indeclinable
 38887	verb
 38890	proper noun indeclinable
 noun
@@ -5939,9 +5939,9 @@ noun
 38897	noun
 38899	verb
 38904	verb
-38908	verb
+38908	noun other indeclinable
 38911	proper noun indeclinable
-38926	adverb
+38926	noun other indeclinable
 38929	proper noun indeclinable
 verb
 38944	verb
@@ -5954,7 +5954,7 @@ verb
 verb
 38997	verb
 39001	noun
-39004	verb
+39004	noun other indeclinable
 39009	verb
 39016	verb
 39018	noun
@@ -5963,19 +5963,19 @@ verb
 39038	verb
 39043	verb
 verb
-39047	adverb
+39047	noun other indeclinable
 39051	noun
 39078	verb
-39085	verb
+39085	noun other indeclinable
 39090	verb
 39095	verb
 39101	noun
 39104	noun
-39109	adverb
+39109	noun other indeclinable
 verb
-39116	verb
+39116	noun other indeclinable
 39124	verb
-39133	adverb
+39133	noun other indeclinable
 verb
 39150	noun
 39152	personal pronoun
@@ -5985,10 +5985,10 @@ verb
 39175	verb
 39185	verb
 39187	verb
-39193	verb
+39193	noun other indeclinable
 39201	verb
-39212	relative pronoun
-39220	verb
+39212	noun other indeclinable
+39220	noun other indeclinable
 39228	verb
 39233	verb
 39241	noun
@@ -5999,16 +5999,16 @@ verb
 39268	noun
 verb
 39283	proper noun indeclinable
-39288	adverb
+39288	noun other indeclinable
 39293	verb
 39299	verb
 39314	verb
 39316	verb
 39319	verb
 39329	verb
-39332	verb
-39338	verb
-39345	relative pronoun
+39332	noun other indeclinable
+39338	noun other indeclinable
+39345	noun other indeclinable
 proper noun indeclinable
 39348	proper noun indeclinable
 39351	personal pronoun
@@ -6031,24 +6031,24 @@ verb
 39453	verb
 39457	verb
 39466	noun
-39477	adverb
+39477	noun other indeclinable
 verb
 39506	personal pronoun
 39509	personal pronoun
 39511	unknown
 39517	verb
 39520	verb
-39526	verb
+39526	noun other indeclinable
 39542	noun
 39561	noun
-39568	verb
-39572	verb
-39582	verb
+39568	noun other indeclinable
+39572	noun other indeclinable
+39582	noun other indeclinable
 39588	verb
 verb
 39593	verb
 39621	verb
-39626	adverb
+39626	noun other indeclinable
 verb
 39633	noun
 39644	verb
@@ -6057,10 +6057,10 @@ verb
 39654	verb
 39661	verb
 39667	noun
-verb
+noun other indeclinable
 39677	verb
 verb
-verb
+noun other indeclinable
 39683	verb
 39685	verb
 39690	verb
@@ -6073,7 +6073,7 @@ verb
 39738	verb
 verb
 39746	verb
-39748	verb
+39748	noun other indeclinable
 39752	relative pronoun
 verb
 39755	verb
@@ -6082,11 +6082,11 @@ verb
 39781	verb
 39785	verb
 39789	noun
-39797	verb
+39797	noun other indeclinable
 39809	verb
 39814	noun
 verb
-39823	verb
+39823	noun other indeclinable
 39825	noun
 39832	verb
 39837	verb
@@ -6119,17 +6119,17 @@ noun
 39981	verb
 39984	proper noun indeclinable
 39991	verb
-39996	verb
+39996	noun other indeclinable
 verb
 39999	verb
-40002	relative pronoun
-40007	verb
+40002	noun other indeclinable
+40007	noun other indeclinable
 40041	proper noun indeclinable
 40052	verb
 40057	noun
 40076	noun
 40078	proper noun indeclinable
-40091	verb
+40091	noun other indeclinable
 40099	noun
 40110	verb
 40119	personal pronoun
@@ -6139,16 +6139,16 @@ verb
 40143	personal pronoun
 verb
 40150	noun
-40152	verb
+40152	noun other indeclinable
 verb
 40158	verb
 40162	verb
-40165	verb
-40169	verb
+40165	noun other indeclinable
+40169	noun other indeclinable
 40171	verb
 40188	noun
 40195	verb
-40205	adverb
+40205	noun other indeclinable
 40212	verb
 40214	verb
 40224	verb
@@ -6157,21 +6157,21 @@ verb
 40232	noun
 40234	noun
 40242	verb
-40251	verb
+40251	noun other indeclinable
 40254	verb
 40264	noun
 40268	verb
 40276	verb
 40278	verb
-40284	verb
+40284	noun other indeclinable
 40286	verb
 40307	verb
 40311	verb
-40313	verb
-40315	adverb
+40313	noun other indeclinable
+40315	noun other indeclinable
 40317	verb
-40319	verb
-40321	adverb
+40319	noun other indeclinable
+40321	noun other indeclinable
 40325	verb
 40333	verb
 40344	verb
@@ -6179,27 +6179,27 @@ verb
 40363	noun
 40381	verb
 40402	noun
-40410	verb
+40410	noun other indeclinable
 40414	verb
 40417	verb
-40425	verb
+40425	noun other indeclinable
 40468	verb
 40474	verb
 40485	verb
 40487	verb
 40498	verb
 verb
-40517	relative pronoun
+40517	noun other indeclinable
 40519	verb
 40522	verb
 verb
-40526	verb
+40526	noun other indeclinable
 40536	verb
 40555	verb
 40561	noun
 40564	verb
 40569	verb
-verb
+noun other indeclinable
 40586	verb
 40590	verb
 40594	personal pronoun
@@ -6212,44 +6212,44 @@ verb
 40618	personal pronoun
 verb
 40623	verb
-40626	verb
+40626	noun other indeclinable
 40630	verb
 40637	noun
 40645	verb
 40648	verb
-40663	verb
+40663	noun other indeclinable
 40669	verb
-40671	verb
+40671	noun other indeclinable
 40675	verb
 verb
-40681	adverb
+40681	noun
 numeral
 40687	verb
-40689	verb
+40689	noun other indeclinable
 40703	verb
 40707	verb
 40716	noun
 40722	noun
 noun
 40726	noun
-40736	conjunction
-40739	verb
-40743	verb
-40747	adverb
+40736	noun other indeclinable
+40739	noun other indeclinable
+40743	noun other indeclinable
+40747	noun other indeclinable
 40753	verb
-40756	conjunction
+40756	noun other indeclinable
 40772	verb
 40778	verb
 40790	verb
-40809	verb
+40809	noun other indeclinable
 40811	verb
-40813	verb
+40813	noun other indeclinable
 40828	noun
 40830	verb
 40837	verb
 40841	verb
 40849	verb
-40859	adverb
+40859	noun other indeclinable
 verb
 40865	verb
 40869	verb
@@ -6261,7 +6261,7 @@ verb
 40910	noun
 40928	proper noun indeclinable
 40931	verb
-40933	verb
+40933	noun other indeclinable
 40939	verb
 40943	noun
 40945	verb
@@ -6279,49 +6279,49 @@ personal pronoun
 41001	verb
 41009	verb
 41011	verb
-41014	verb
+41014	noun other indeclinable
 41019	verb
 41026	verb
 41029	verb
 41037	verb
 verb
-41042	verb
+41042	noun other indeclinable
 41048	verb
 noun
 41052	verb
 41055	verb
-41081	verb
+41081	noun other indeclinable
 41083	noun
 41085	verb
-41089	verb
+41089	noun other indeclinable
 41091	verb
-41103	verb
+41103	noun other indeclinable
 41105	noun
 41107	verb
-41109	adverb
-41121	verb
+41109	noun other indeclinable
+41121	noun other indeclinable
 41126	verb
 41140	verb
-41147	adverb
+41147	noun
 41149	noun
 41151	verb
 verb
 41158	verb
 41161	verb
-41175	verb
+41175	noun other indeclinable
 41191	verb
 proper noun indeclinable
 41194	verb
-41207	adverb
+41207	noun other indeclinable
 41213	verb
 41218	verb
 41220	noun
 verb
-41227	verb
+41227	noun other indeclinable
 41229	verb
-41232	verb
-41252	adverb
-41255	conjunction
+41232	noun other indeclinable
+41252	noun other indeclinable
+41255	noun other indeclinable
 41263	verb
 41269	noun
 41274	verb
@@ -6330,7 +6330,7 @@ verb
 41288	verb
 41292	verb
 41300	verb
-41302	verb
+41302	noun other indeclinable
 41318	verb
 41323	noun
 41340	verb
@@ -6348,12 +6348,12 @@ verb
 41441	verb
 41447	verb
 41454	verb
-41463	verb
+41463	noun other indeclinable
 41465	verb
 41467	verb
 verb
 41474	verb
-41480	verb
+41480	noun other indeclinable
 41482	noun
 41484	verb
 41487	verb
@@ -6379,7 +6379,7 @@ verb
 41676	proper noun indeclinable
 41688	verb
 41691	noun
-41703	verb
+41703	noun other indeclinable
 41706	noun
 41718	noun
 verb
@@ -6389,7 +6389,7 @@ verb
 41754	verb
 41764	verb
 noun
-41770	verb
+41770	noun other indeclinable
 verb
 41773	verb
 41776	noun
@@ -6398,9 +6398,9 @@ verb
 41814	noun
 verb
 41819	noun
-41821	verb
+41821	noun other indeclinable
 41829	noun
-41832	verb
+41832	noun other indeclinable
 41836	verb
 41845	personal pronoun
 41848	personal pronoun
@@ -6410,14 +6410,14 @@ verb
 41880	verb
 41890	proper noun indeclinable
 41892	verb
-verb
+noun other indeclinable
 41901	noun
 41917	verb
 41923	noun
 41928	verb
 41930	verb
 41934	verb
-41939	verb
+41939	noun other indeclinable
 41946	verb
 verb
 41950	verb
@@ -6440,7 +6440,7 @@ verb
 42028	noun
 42034	verb
 42050	verb
-adverb
+noun other indeclinable
 42056	verb
 42058	verb
 42069	verb
@@ -6452,28 +6452,28 @@ adverb
 42142	verb
 verb
 42149	verb
-42152	relative pronoun
+42152	noun other indeclinable
 proper noun indeclinable
 42156	verb
-42167	noun
+42167	noun other indeclinable
 42178	verb
 42186	verb
 42197	verb
 verb
 42204	verb
 verb
-42249	conjunction
-42252	conjunction
-42259	conjunction
-42266	verb
-42269	relative pronoun
+42249	noun other indeclinable
+42252	noun other indeclinable
+42259	noun other indeclinable
+42266	noun other indeclinable
+42269	noun other indeclinable
 42280	proper noun indeclinable
 42286	verb
 42290	verb
 42295	verb
 42301	verb
 42326	verb
-42329	adverb
+42329	noun
 42337	verb
 42347	verb
 42354	verb
@@ -6483,16 +6483,16 @@ verb
 42383	proper noun indeclinable
 42389	verb
 42393	verb
-42396	conjunction
-42411	conjunction
-42420	relative pronoun
+42396	noun other indeclinable
+42411	noun other indeclinable
+42420	noun other indeclinable
 42422	proper noun indeclinable
 42428	verb
 42434	verb
 42440	verb
 42443	verb
 42446	verb
-42448	verb
+42448	noun other indeclinable
 42485	proper noun indeclinable
 42490	verb
 42502	verb
@@ -6511,14 +6511,14 @@ proper noun indeclinable
 verb
 42573	verb
 42584	verb
-42593	verb
-42596	verb
-42602	verb
-42606	verb
-42612	verb
+42593	noun other indeclinable
+42596	noun other indeclinable
+42602	noun other indeclinable
+42606	noun other indeclinable
+42612	noun other indeclinable
 42616	verb
 42623	verb
-42626	verb
+42626	noun other indeclinable
 42629	verb
 42639	noun
 42641	verb
@@ -6532,7 +6532,7 @@ verb
 42677	verb
 42681	personal pronoun
 42684	verb
-42696	verb
+42696	noun other indeclinable
 42700	verb
 42702	verb
 42706	personal pronoun
@@ -6541,35 +6541,35 @@ verb
 42715	verb
 42731	verb
 42739	verb
-42757	conjunction
+42757	noun other indeclinable
 42761	verb
 42780	verb
 42790	verb
 42792	personal pronoun
 42796	proper noun indeclinable
 42809	verb
-42822	verb
+42822	noun other indeclinable
 42825	noun
-42830	verb
+42830	noun other indeclinable
 42832	verb
-42838	verb
+42838	noun other indeclinable
 42845	verb
 42848	verb
 42854	noun
 42862	noun
 42864	noun
-42868	verb
+42868	noun other indeclinable
 42872	verb
 42879	proper noun indeclinable
 42881	verb
-verb
+noun other indeclinable
 42884	verb
 verb
 42888	unknown
 proper noun indeclinable
 noun
 42897	verb
-42899	verb
+42899	noun other indeclinable
 42906	verb
 42910	personal pronoun
 42922	verb
@@ -6605,8 +6605,8 @@ verb
 43074	verb
 43078	verb
 43081	noun
-43085	relative pronoun
-43096	verb
+43085	noun other indeclinable
+43096	noun other indeclinable
 43108	verb
 verb
 verb
@@ -6622,7 +6622,7 @@ noun
 43162	verb
 43164	verb
 verb
-43173	verb
+43173	noun other indeclinable
 43181	noun
 43193	verb
 verb
@@ -6630,11 +6630,11 @@ verb
 43205	noun
 verb
 43210	verb
-43219	verb
+43219	noun other indeclinable
 43237	verb
 43239	verb
 43242	noun
-43250	conjunction
+43250	noun other indeclinable
 43256	verb
 43258	personal pronoun
 verb
@@ -6648,42 +6648,42 @@ verb
 43301	verb
 43305	noun
 43307	verb
-43312	adverb
+43312	noun
 43314	verb
-43316	adverb
+43316	noun other indeclinable
 43319	noun
 43321	verb
 43325	verb
 43336	verb
 43338	verb
 43340	verb
-43348	adverb
-43350	adverb
+43348	noun
+43350	noun
 43376	verb
-verb
+noun other indeclinable
 43381	noun
 43383	verb
-43396	verb
-43403	verb
+43396	noun other indeclinable
+43403	noun other indeclinable
 43407	verb
 43409	verb
 43429	unknown
-43432	verb
-43442	adverb
+43432	noun other indeclinable
+43442	noun other indeclinable
 43452	verb
 43454	verb
 43459	proper noun indeclinable
-43462	adverb
+43462	noun other indeclinable
 43467	verb
-43469	verb
+43469	noun other indeclinable
 43479	proper noun indeclinable
-43482	verb
+43482	noun other indeclinable
 43486	noun
 noun
-43491	verb
+43491	noun other indeclinable
 43493	unknown
 43497	proper noun indeclinable
-verb
+noun other indeclinable
 43504	verb
 noun
 43507	verb
@@ -6695,18 +6695,18 @@ verb
 43556	verb
 43563	personal pronoun
 43579	noun
-43582	conjunction
+43582	noun other indeclinable
 43585	verb
 43587	verb
 43594	noun
-43596	conjunction
-verb
+43596	noun other indeclinable
+noun other indeclinable
 43599	verb
 43605	verb
 verb
 43610	verb
 43620	verb
-verb
+noun other indeclinable
 43626	verb
 43632	noun
 43639	noun
@@ -6721,7 +6721,7 @@ verb
 43682	verb
 43685	verb
 43687	verb
-43689	verb
+43689	noun other indeclinable
 noun
 43695	verb
 43697	noun
@@ -6732,7 +6732,7 @@ noun
 43728	noun
 43752	personal pronoun
 43759	verb
-43761	relative pronoun
+43761	noun other indeclinable
 43772	verb
 43783	noun
 43792	noun
@@ -6747,11 +6747,11 @@ verb
 noun
 43857	noun
 43859	verb
-verb
+noun other indeclinable
 verb
 43868	noun
 43870	verb
-relative pronoun
+noun other indeclinable
 43883	noun
 43891	verb
 43898	verb
@@ -6761,11 +6761,11 @@ relative pronoun
 43933	verb
 43937	verb
 43945	noun
-43953	verb
+43953	noun other indeclinable
 43958	verb
 43962	verb
-43966	conjunction
-43969	noun
+43966	noun other indeclinable
+43969	noun other indeclinable
 43975	verb
 43978	personal pronoun
 proper noun indeclinable
@@ -6783,11 +6783,11 @@ proper noun indeclinable
 44019	noun
 noun
 44024	verb
-44028	adverb
+44028	noun
 44031	proper noun indeclinable
 verb
 44037	verb
-44039	verb
+44039	noun other indeclinable
 verb
 44046	verb
 44048	verb
@@ -6796,19 +6796,19 @@ verb
 44054	verb
 44058	noun
 44060	verb
-44066	verb
-44071	verb
+44066	noun other indeclinable
+44071	noun other indeclinable
 44082	verb
-44085	adverb
+44085	noun
 44092	proper noun indeclinable
 44094	noun
 44096	verb
 44100	verb
 44119	verb
-44127	conjunction
+44127	noun other indeclinable
 44137	proper noun indeclinable
 verb
-44141	verb
+44141	noun other indeclinable
 44150	noun
 44154	verb
 44160	verb
@@ -6821,20 +6821,20 @@ verb
 44221	verb
 44226	verb
 44237	verb
-44253	adverb
-44260	conjunction
-44282	conjunction
+44253	noun other indeclinable
+44260	noun other indeclinable
+44282	noun other indeclinable
 44292	verb
-44299	relative pronoun
+44299	noun other indeclinable
 44307	verb
-44315	verb
+44315	noun other indeclinable
 44318	verb
 verb
 44335	noun
 44339	verb
 44343	verb
 44346	noun
-adverb
+noun
 proper noun indeclinable
 44364	verb
 44388	verb
@@ -6845,35 +6845,35 @@ verb
 44416	verb
 44418	verb
 44425	verb
-adverb
+noun other indeclinable
 44429	noun
 44434	verb
 44439	verb
 44442	verb
-44446	verb
+44446	noun other indeclinable
 44449	personal pronoun
-44458	verb
-44469	verb
+44458	noun other indeclinable
+44469	noun other indeclinable
 44475	noun
 44477	verb
 44496	noun
 44500	verb
 verb
 44505	verb
-44511	verb
+44511	noun other indeclinable
 44516	verb
 verb
 verb
 verb
 44525	noun
-adverb
+noun other indeclinable
 44528	verb
 44533	verb
 44539	verb
 44547	noun
-44549	adverb
+44549	noun other indeclinable
 44552	verb
-44556	verb
+44556	noun other indeclinable
 44573	verb
 verb
 44579	verb
@@ -6888,11 +6888,11 @@ noun
 verb
 44639	verb
 44653	noun
-44684	relative pronoun
+44684	noun other indeclinable
 44695	noun
 44700	noun
-44706	verb
-adverb
+44706	noun other indeclinable
+noun other indeclinable
 44723	verb
 44727	noun
 44729	verb
@@ -6910,14 +6910,14 @@ verb
 44769	noun
 44779	proper noun indeclinable
 44791	proper noun indeclinable
-44794	verb
+44794	noun other indeclinable
 44803	verb
 44807	noun
 44817	verb
-44831	verb
+44831	noun other indeclinable
 44833	verb
-verb
-44839	verb
+noun other indeclinable
+44839	noun other indeclinable
 44842	verb
 44852	verb
 44855	verb
@@ -6928,9 +6928,9 @@ verb
 personal pronoun
 verb
 verb
-44868	relative pronoun
+44868	noun other indeclinable
 44876	noun
-44880	verb
+44880	noun other indeclinable
 44886	proper noun indeclinable
 44894	verb
 44896	verb
@@ -6940,25 +6940,25 @@ verb
 44911	verb
 44918	proper noun indeclinable
 44920	verb
-verb
-44929	verb
+noun other indeclinable
+44929	noun other indeclinable
 44938	verb
 verb
 44944	noun
 44949	noun
-44966	conjunction
-44971	verb
+44966	noun other indeclinable
+44971	noun other indeclinable
 44974	personal pronoun
 44978	personal pronoun
 44984	personal pronoun
 44990	verb
-45003	verb
+45003	noun other indeclinable
 45006	verb
-45011	verb
+45011	noun other indeclinable
 45017	personal pronoun
 45020	personal pronoun
 45030	verb
-45032	verb
+45032	noun other indeclinable
 noun
 verb
 45037	verb
@@ -6966,7 +6966,7 @@ verb
 45048	verb
 45053	verb
 45062	verb
-conjunction
+noun other indeclinable
 verb
 45067	personal pronoun
 45074	verb
@@ -6977,7 +6977,7 @@ noun
 45092	verb
 45108	verb
 45112	verb
-45114	verb
+45114	noun other indeclinable
 noun
 verb
 45118	verb
@@ -6990,7 +6990,7 @@ verb
 45197	verb
 noun
 45204	personal pronoun
-45224	verb
+45224	noun other indeclinable
 45230	verb
 45238	verb
 45246	personal pronoun
@@ -6999,7 +6999,7 @@ noun
 45286	verb
 45290	personal pronoun
 45293	personal pronoun
-45300	verb
+45300	noun other indeclinable
 45313	verb
 45328	verb
 45333	verb
@@ -7022,7 +7022,7 @@ noun
 45438	verb
 45442	verb
 45483	personal pronoun
-45498	verb
+45498	noun other indeclinable
 45500	verb
 45505	personal pronoun
 45512	verb
@@ -7038,7 +7038,7 @@ verb
 45560	personal pronoun
 verb
 45567	noun
-relative pronoun
+noun other indeclinable
 verb
 noun
 45572	verb
@@ -7053,7 +7053,7 @@ verb
 45606	verb
 45611	verb
 45620	verb
-verb
+noun other indeclinable
 45624	verb
 noun
 45627	verb
@@ -7066,10 +7066,10 @@ verb
 45646	noun
 verb
 45658	verb
-45668	verb
-45673	verb
-45678	verb
-45683	verb
+45668	noun other indeclinable
+45673	noun other indeclinable
+45678	noun other indeclinable
+45683	noun other indeclinable
 45691	noun
 45693	verb
 noun
@@ -7088,9 +7088,9 @@ verb
 verb
 45770	verb
 45772	relative pronoun
-45776	verb
+45776	noun other indeclinable
 45805	verb
-45825	verb
+45825	noun other indeclinable
 45835	verb
 45839	noun
 45853	noun
@@ -7099,9 +7099,9 @@ verb
 45872	noun
 45885	verb
 45904	verb
-45907	verb
+45907	noun other indeclinable
 45912	verb
-45921	adverb
+45921	noun other indeclinable
 45925	verb
 45928	personal pronoun
 45941	verb
@@ -7109,63 +7109,63 @@ verb
 45947	verb
 45951	noun
 45963	verb
-verb
+noun other indeclinable
 45974	verb
 45980	noun
 45987	personal pronoun
-verb
+noun other indeclinable
 45993	proper noun indeclinable
 45996	personal pronoun
-verb
+noun other indeclinable
 46002	personal pronoun
-verb
+noun other indeclinable
 46018	proper noun indeclinable
-46022	verb
-46028	verb
+46022	noun other indeclinable
+46028	noun other indeclinable
 46051	proper noun indeclinable
 46063	verb
-46068	verb
+46068	noun other indeclinable
 46078	verb
-46080	verb
+46080	noun other indeclinable
 46100	verb
 46108	verb
-46110	verb
+46110	noun other indeclinable
 46123	noun
 46133	verb
 46141	proper noun indeclinable
 46160	verb
 46168	noun
 46170	verb
-verb
+noun other indeclinable
 verb
 46181	noun
 46191	personal pronoun
 46193	verb
 46206	verb
-verb
+noun other indeclinable
 verb
 46210	verb
 46215	verb
 46220	noun
-46222	relative pronoun
+46222	noun other indeclinable
 46235	verb
-46237	verb
+46237	noun other indeclinable
 46246	proper noun indeclinable
 46253	verb
 46255	verb
-conjunction
-46260	verb
+noun other indeclinable
+46260	noun other indeclinable
 46274	noun
-46282	verb
+46282	noun other indeclinable
 46298	personal pronoun
 46301	personal pronoun
 46305	verb
 46358	noun
-46361	adverb
+46361	noun other indeclinable
 verb
 46379	personal pronoun
 46388	verb
-46390	adverb
+46390	noun
 46396	verb
 46411	verb
 46416	verb
@@ -7179,7 +7179,7 @@ verb
 46477	verb
 46484	noun
 46486	noun
-46489	verb
+46489	noun other indeclinable
 46491	noun
 46493	verb
 46498	verb
@@ -7190,38 +7190,38 @@ verb
 46524	verb
 46534	noun
 46557	noun
-46564	verb
-46573	adverb
+46564	noun other indeclinable
+46573	noun other indeclinable
 46589	verb
 46610	noun
 verb
-46622	verb
+46622	noun other indeclinable
 46627	noun
 46632	verb
 46634	personal pronoun
 46641	personal pronoun
-46653	verb
-46656	relative pronoun
-46662	relative pronoun
+46653	noun other indeclinable
+46656	noun other indeclinable
+46662	noun other indeclinable
 46664	verb
 46670	verb
 46672	verb
-46678	verb
-46682	relative pronoun
+46678	noun other indeclinable
+46682	noun other indeclinable
 46684	verb
 46688	personal pronoun
-46692	verb
+46692	noun other indeclinable
 46696	verb
 46705	noun
 46707	verb
 46709	verb
-46714	verb
+46714	noun other indeclinable
 46716	noun
 46728	verb
 verb
-adverb
+noun other indeclinable
 46736	verb
-relative pronoun
+noun other indeclinable
 46744	verb
 46747	verb
 46750	verb
@@ -7242,11 +7242,11 @@ verb
 46825	verb
 46833	verb
 46840	verb
-46842	verb
+46842	noun other indeclinable
 46847	verb
 46855	noun
 personal pronoun
-46860	adverb
+46860	noun other indeclinable
 46866	verb
 46868	verb
 46880	noun
@@ -7258,51 +7258,51 @@ verb
 46912	noun
 46927	verb
 46936	verb
-46941	verb
+46941	noun other indeclinable
 verb
 46966	verb
 46973	verb
 46976	verb
-46987	adverb
+46987	noun other indeclinable
 47006	verb
 47013	verb
 47017	personal pronoun
-47026	verb
+47026	noun other indeclinable
 47035	noun
 47049	verb
 verb
 noun
 47059	verb
 47071	verb
-47074	relative pronoun
+47074	noun other indeclinable
 47081	verb
-47088	verb
+47088	noun other indeclinable
 47105	verb
 47118	noun
-47127	verb
+47127	noun other indeclinable
 47150	verb
-47155	conjunction
+47155	noun other indeclinable
 47159	noun
 47161	verb
 47184	verb
 47191	noun
-47198	conjunction
+47198	noun other indeclinable
 47203	verb
 47209	verb
 47211	verb
 47222	noun
 47231	verb
 47233	verb
-relative pronoun
+noun other indeclinable
 verb
 47242	verb
-47247	verb
+47247	noun other indeclinable
 47251	personal pronoun
 47253	personal pronoun
 47264	verb
 47268	verb
 47274	verb
-47278	relative pronoun
+47278	noun other indeclinable
 47280	noun
 47303	verb
 47305	verb
@@ -7322,45 +7322,45 @@ verb
 47422	verb
 47426	verb
 47435	noun
-verb
+noun other indeclinable
 47440	personal pronoun
 47442	verb
 47445	verb
 47458	noun
 47462	verb
-47484	verb
-47486	verb
-47497	verb
-conjunction
+47484	noun other indeclinable
+47486	noun other indeclinable
+47497	noun other indeclinable
+noun other indeclinable
 47501	verb
 verb
 47506	noun
-47522	verb
+47522	noun other indeclinable
 verb
 verb
 47532	personal pronoun
 47535	personal pronoun
 47540	verb
 47560	verb
-47567	verb
-47575	verb
+47567	noun other indeclinable
+47575	noun other indeclinable
 noun
 47591	verb
-47599	relative pronoun
-47604	adverb
+47599	noun other indeclinable
+47604	noun other indeclinable
 47606	verb
 47610	verb
-verb
+noun other indeclinable
 47615	noun
 47617	verb
-47629	adverb
+47629	noun other indeclinable
 47631	noun
 verb
-47652	conjunction
+47652	noun other indeclinable
 noun
-47657	verb
+47657	noun other indeclinable
 47659	verb
-47663	verb
+47663	noun other indeclinable
 47676	personal pronoun
 47680	noun
 noun
@@ -7368,19 +7368,19 @@ noun
 47695	noun
 verb
 verb
-verb
+noun other indeclinable
 47704	personal pronoun
 47713	verb
 47727	noun
-47744	relative pronoun
+47744	noun other indeclinable
 47770	verb
 47781	verb
 47794	proper noun indeclinable
-47798	adverb
-47801	verb
+47798	noun other indeclinable
+47801	noun other indeclinable
 47804	noun
-47833	verb
-47838	verb
+47833	noun other indeclinable
+47838	noun other indeclinable
 47860	verb
 47870	verb
 47884	verb
@@ -7389,20 +7389,20 @@ verb
 47915	verb
 47918	verb
 47922	personal pronoun
-47939	conjunction
+47939	noun other indeclinable
 47970	verb
 47977	verb
-47979	verb
+47979	noun other indeclinable
 47987	unknown
 noun
 48007	noun
 verb
 48010	verb
-48012	verb
+48012	noun other indeclinable
 48014	verb
 48018	verb
-verb
-48023	conjunction
+noun other indeclinable
+48023	noun other indeclinable
 48027	noun
 48035	noun
 48039	verb
@@ -7411,38 +7411,38 @@ verb
 48058	verb
 48075	verb
 noun
-48082	conjunction
+48082	noun other indeclinable
 48085	personal pronoun
 48093	proper noun indeclinable
 48096	proper noun indeclinable
 48098	verb
 48102	personal pronoun
-48118	adverb
-48130	conjunction
+48118	noun other indeclinable
+48130	noun other indeclinable
 48136	verb
 48146	noun
 48148	verb
-48166	verb
-48171	conjunction
+48166	noun other indeclinable
+48171	noun other indeclinable
 48176	noun
-conjunction
-48197	relative pronoun
+noun other indeclinable
+48197	noun other indeclinable
 48212	verb
 48221	verb
 48228	relative pronoun
 48231	verb
 48242	verb
 48246	verb
-48250	verb
+48250	noun other indeclinable
 48252	verb
-48257	adverb
-48262	verb
+48257	noun other indeclinable
+48262	noun other indeclinable
 48271	proper noun indeclinable
 verb
 48285	verb
 48289	verb
-48292	relative pronoun
-48297	verb
+48292	noun other indeclinable
+48297	noun other indeclinable
 48300	noun
 48304	verb
 48306	verb
@@ -7454,10 +7454,10 @@ verb
 48381	noun
 proper noun indeclinable
 48384	noun
-48393	adverb
-48397	verb
-48410	adverb
-48425	verb
+48393	noun other indeclinable
+48397	noun other indeclinable
+48410	noun other indeclinable
+48425	noun other indeclinable
 48437	personal pronoun
 48446	verb
 48450	verb
@@ -7465,13 +7465,13 @@ personal pronoun
 verb
 48467	verb
 48477	proper noun indeclinable
-48479	verb
-48481	verb
+48479	noun other indeclinable
+48481	noun other indeclinable
 48486	verb
 48488	noun
 personal pronoun
 48493	proper noun indeclinable
-48503	verb
+48503	noun other indeclinable
 48507	verb
 48509	verb
 48518	personal pronoun
@@ -7495,32 +7495,32 @@ verb
 48626	verb
 48634	verb
 48644	verb
-48647	verb
+48647	noun other indeclinable
 48651	proper noun indeclinable
 48681	noun
-48690	verb
+48690	noun other indeclinable
 48707	personal pronoun
 48724	verb
-48727	conjunction
-verb
-48730	relative pronoun
-48733	verb
-48736	relative pronoun
+48727	noun other indeclinable
+noun other indeclinable
+48730	noun other indeclinable
+48733	noun other indeclinable
+48736	noun other indeclinable
 48740	noun
 48750	verb
 48763	noun
 48769	verb
 proper noun indeclinable
-verb
-48775	relative pronoun
-48778	verb
+noun other indeclinable
+48775	noun other indeclinable
+48778	noun other indeclinable
 48780	verb
 48782	verb
-48789	verb
+48789	noun other indeclinable
 48793	verb
 48806	verb
 48812	noun
-48816	verb
+48816	noun other indeclinable
 48818	verb
 48838	verb
 48842	noun
@@ -7532,7 +7532,7 @@ verb
 verb
 48901	verb
 48904	proper noun indeclinable
-48906	verb
+48906	noun other indeclinable
 48921	verb
 48925	noun
 48927	verb
@@ -7540,39 +7540,39 @@ verb
 48940	verb
 48948	verb
 48954	proper noun indeclinable
-48963	adverb
-48976	verb
+48963	noun other indeclinable
+48976	noun other indeclinable
 48978	verb
 noun
 48988	noun
 48992	noun
-49000	verb
+49000	noun other indeclinable
 49025	noun
-49027	verb
+49027	noun other indeclinable
 49032	verb
+noun other indeclinable
 verb
-verb
-conjunction
-49041	conjunction
+noun other indeclinable
+49041	noun other indeclinable
 49044	verb
-49047	conjunction
-49051	conjunction
-verb
+49047	noun other indeclinable
+49051	noun other indeclinable
+noun other indeclinable
 verb
 49056	verb
-49069	verb
-49072	conjunction
-49076	conjunction
-49084	verb
+49069	noun other indeclinable
+49072	noun other indeclinable
+49076	noun other indeclinable
+49084	noun other indeclinable
 49090	noun
 49097	noun
 verb
 49107	verb
-49117	conjunction
+49117	noun other indeclinable
 49123	verb
-49127	conjunction
-49140	verb
-49143	conjunction
+49127	noun other indeclinable
+49140	noun other indeclinable
+49143	noun other indeclinable
 49157	proper noun indeclinable
 verb
 49161	personal pronoun
@@ -7581,17 +7581,17 @@ verb
 49174	verb
 49185	verb
 49196	verb
-49205	verb
+49205	noun other indeclinable
 49210	verb
 49212	verb
-relative pronoun
+noun other indeclinable
 49215	noun
 49222	verb
 49227	noun
-49229	conjunction
+49229	noun other indeclinable
 49231	verb
-49233	verb
-49242	conjunction
+49233	noun other indeclinable
+49242	noun other indeclinable
 49258	noun
 49266	noun
 49270	verb
@@ -7599,39 +7599,39 @@ relative pronoun
 49296	personal pronoun
 49331	verb
 49353	verb
-49360	verb
+49360	noun other indeclinable
 49366	verb
 49368	verb
 49402	noun
-49405	verb
+49405	noun other indeclinable
 49413	verb
-49415	verb
-49431	verb
+49415	noun other indeclinable
+49431	noun other indeclinable
 49434	verb
-49438	conjunction
+49438	noun other indeclinable
 49443	verb
 noun
 49451	verb
-adverb
+noun other indeclinable
 49456	verb
 49468	verb
-verb
-49480	conjunction
+noun other indeclinable
+49480	noun other indeclinable
 verb
 49490	noun
-49494	verb
+49494	noun other indeclinable
 49500	noun
-49506	relative pronoun
+49506	noun other indeclinable
 49509	verb
 49514	verb
-49523	verb
+49523	noun other indeclinable
 49527	verb
-49543	verb
+49543	noun other indeclinable
 49546	verb
 49556	verb
 49558	verb
 49574	verb
-adverb
+noun other indeclinable
 49579	verb
 49582	personal pronoun
 49584	verb
@@ -7639,9 +7639,9 @@ adverb
 49603	personal pronoun
 49614	verb
 49624	noun
-49633	conjunction
-relative pronoun
-49636	conjunction
+49633	noun other indeclinable
+noun other indeclinable
+49636	noun other indeclinable
 49641	verb
 49648	noun
 49655	noun
@@ -7652,19 +7652,19 @@ relative pronoun
 49694	verb
 49704	verb
 49708	verb
-49710	conjunction
+49710	noun other indeclinable
 49721	verb
 49727	verb
-49732	verb
+49732	noun other indeclinable
 49736	personal pronoun
 verb
 49747	verb
 49752	noun
 49756	verb
-49762	adverb
+49762	noun other indeclinable
 49771	verb
-49774	adverb
-49777	verb
+49774	noun other indeclinable
+49777	noun other indeclinable
 49782	verb
 49791	verb
 49813	verb
@@ -7672,15 +7672,15 @@ verb
 49825	verb
 49830	verb
 49838	verb
-49840	verb
-verb
+49840	noun other indeclinable
+noun other indeclinable
 verb
 49852	verb
 49860	verb
 49865	verb
-49868	verb
+49868	noun other indeclinable
 noun
-49873	conjunction
+49873	noun other indeclinable
 49885	personal pronoun
 verb
 49893	verb
@@ -7698,7 +7698,7 @@ noun
 verb
 49963	verb
 49971	personal pronoun
-49974	relative pronoun
+49974	noun other indeclinable
 49988	personal pronoun
 49992	personal pronoun
 50002	verb
@@ -7706,7 +7706,7 @@ verb
 50015	verb
 50021	noun
 50027	verb
-50030	verb
+50030	noun other indeclinable
 noun
 50037	verb
 50043	personal pronoun
@@ -7714,9 +7714,9 @@ verb
 50057	personal pronoun
 50060	personal pronoun
 verb
-50071	conjunction
+50071	noun other indeclinable
 50083	verb
-verb
+noun other indeclinable
 50089	noun
 50107	verb
 proper noun indeclinable
@@ -7729,29 +7729,29 @@ verb
 50153	verb
 50158	personal pronoun
 50173	verb
-50180	verb
+50180	noun other indeclinable
 50187	personal pronoun
-50199	verb
+50199	noun other indeclinable
 50209	verb
 50217	verb
 50219	personal pronoun
 verb
 50228	verb
 50233	verb
-50236	relative pronoun
-50238	conjunction
-verb
-50242	verb
-50245	verb
+50236	noun other indeclinable
+50238	noun other indeclinable
+noun other indeclinable
+50242	noun other indeclinable
+50245	noun other indeclinable
 50256	proper noun indeclinable
 50258	relative pronoun
 verb
 50267	noun
 50279	verb
 50282	verb
-50287	conjunction
-verb
-50291	conjunction
+50287	noun other indeclinable
+noun other indeclinable
+50291	noun other indeclinable
 50309	verb
 50312	verb
 50315	verb
@@ -7760,8 +7760,8 @@ verb
 50325	relative pronoun
 50328	verb
 50338	verb
-50340	verb
-verb
+50340	noun other indeclinable
+noun other indeclinable
 verb
 50344	verb
 50350	noun
@@ -7771,8 +7771,8 @@ verb
 50362	noun
 50365	noun
 50368	noun
-50381	verb
-verb
+50381	noun other indeclinable
+noun other indeclinable
 verb
 50385	verb
 50394	noun
@@ -7784,8 +7784,8 @@ verb
 50454	verb
 50457	noun
 50463	verb
-50475	verb
-verb
+50475	noun other indeclinable
+noun other indeclinable
 verb
 50481	verb
 50494	proper noun indeclinable
@@ -7796,10 +7796,10 @@ noun
 50519	verb
 verb
 50524	verb
-50531	verb
+50531	noun other indeclinable
 50536	verb
 50540	verb
-50545	verb
+50545	noun other indeclinable
 50570	verb
 50586	verb
 50615	verb
@@ -7807,25 +7807,25 @@ verb
 50632	personal pronoun
 verb
 50637	verb
-50640	conjunction
+50640	noun other indeclinable
 50643	noun
 proper noun indeclinable
 50651	noun
 50663	proper noun indeclinable
 50668	verb
 50678	proper noun indeclinable
-50681	verb
+50681	noun other indeclinable
 50691	personal pronoun
 verb
-50705	conjunction
-50710	verb
+50705	noun other indeclinable
+50710	noun other indeclinable
 noun
-50718	conjunction
-50726	conjunction
-50753	conjunction
+50718	noun other indeclinable
+50726	noun other indeclinable
+50753	noun other indeclinable
 50755	verb
 verb
-50762	adverb
+50762	noun other indeclinable
 50773	verb
 50775	noun
 50779	verb
@@ -7843,11 +7843,11 @@ verb
 50896	proper noun indeclinable
 50899	verb
 50910	verb
-50916	verb
+50916	noun other indeclinable
 50925	noun
 50940	verb
 noun
-50944	relative pronoun
+50944	noun other indeclinable
 50948	noun
 50951	personal pronoun
 50960	verb
@@ -7856,11 +7856,11 @@ verb
 50971	verb
 50980	verb
 50984	noun
-50995	verb
-51005	conjunction
+50995	noun
+51005	noun other indeclinable
 51022	verb
-51024	conjunction
-relative pronoun
+51024	noun other indeclinable
+noun other indeclinable
 noun
 51034	verb
 51041	personal pronoun
@@ -7885,7 +7885,7 @@ verb
 51166	verb
 51176	verb
 51180	verb
-51187	verb
+51187	noun other indeclinable
 51195	verb
 51213	verb
 51218	verb
@@ -7901,15 +7901,15 @@ verb
 51254	verb
 51256	verb
 51266	personal pronoun
-51269	verb
+51269	noun other indeclinable
 51271	noun
 51276	verb
-51278	verb
+51278	noun other indeclinable
 51285	verb
 verb
-51298	verb
+51298	noun other indeclinable
 51300	noun
-51303	verb
+51303	noun other indeclinable
 51305	verb
 51309	verb
 51312	verb
@@ -7919,8 +7919,8 @@ verb
 51331	personal pronoun
 51333	verb
 verb
-51337	verb
-51356	verb
+51337	noun other indeclinable
+51356	noun other indeclinable
 51360	verb
 51362	verb
 51366	verb
@@ -7935,7 +7935,7 @@ verb
 51431	verb
 51434	relative pronoun
 51436	noun
-51449	verb
+51449	noun other indeclinable
 51454	personal pronoun
 verb
 51458	noun
@@ -7947,35 +7947,35 @@ verb
 51482	verb
 51490	verb
 51503	verb
-51512	adverb
+51512	noun other indeclinable
 verb
 51515	noun
 51520	verb
 51534	verb
 51541	verb
-verb
-51547	verb
+noun
+51547	noun other indeclinable
 51558	verb
 51571	verb
 51591	noun
 51598	verb
 51601	relative pronoun
-51603	relative pronoun
+51603	noun other indeclinable
 51608	personal pronoun
 51624	noun
 51631	verb
 51634	noun
 51637	noun
 51643	verb
-51668	verb
+51668	noun other indeclinable
 51672	verb
 51674	noun
 51683	personal pronoun
-51689	verb
-51691	verb
+51689	noun other indeclinable
+51691	noun other indeclinable
 51706	noun
-51715	conjunction
-51722	verb
+51715	noun other indeclinable
+51722	noun other indeclinable
 51725	verb
 51741	verb
 51750	verb
@@ -7989,34 +7989,34 @@ verb
 51802	personal pronoun
 verb
 51811	verb
-51818	verb
-adverb
+51818	noun other indeclinable
+noun other indeclinable
 51829	verb
-51841	verb
-adverb
+51841	noun other indeclinable
+noun other indeclinable
 verb
 51849	verb
 verb
-51876	conjunction
-51887	verb
-51901	verb
+51876	noun other indeclinable
+51887	noun other indeclinable
+51901	noun other indeclinable
 51907	verb
 verb
-51920	verb
-51942	conjunction
+51920	noun other indeclinable
+51942	noun other indeclinable
 51951	verb
-verb
+noun other indeclinable
 51967	noun
 verb
 51976	verb
 51986	verb
-51991	verb
+51991	noun other indeclinable
 52000	verb
 52005	verb
 52008	verb
 52010	verb
-52024	conjunction
-52027	verb
+52024	noun other indeclinable
+52027	noun other indeclinable
 52031	verb
 52033	personal pronoun
 52043	noun
@@ -8027,15 +8027,15 @@ verb
 52072	verb
 52074	verb
 52085	verb
-52088	verb
-52097	verb
+52088	noun other indeclinable
+52097	noun other indeclinable
 52101	verb
-52103	adverb
+52103	noun other indeclinable
 52118	verb
 52129	noun
 52132	personal pronoun
 52138	verb
-verb
+noun other indeclinable
 52148	noun
 52151	verb
 52153	noun
@@ -8044,8 +8044,8 @@ verb
 52171	verb
 52174	verb
 52177	verb
-52187	verb
-verb
+52187	noun other indeclinable
+noun other indeclinable
 verb
 52192	noun
 52206	relative pronoun
@@ -8063,14 +8063,14 @@ verb
 52274	verb
 52279	verb
 52283	noun
-52289	verb
-verb
+52289	noun other indeclinable
+noun other indeclinable
 verb
 52304	noun
 52312	verb
 52316	verb
-52320	verb
-verb
+52320	noun other indeclinable
+noun other indeclinable
 verb
 52331	personal pronoun
 verb
@@ -8080,14 +8080,14 @@ verb
 52341	personal pronoun
 52343	verb
 52348	noun
-52350	verb
-52359	verb
+52350	noun other indeclinable
+52359	noun other indeclinable
 52362	verb
 52369	verb
-52377	verb
-adverb
+52377	noun other indeclinable
+noun other indeclinable
 52380	personal pronoun
-verb
+noun other indeclinable
 52384	verb
 52390	personal pronoun
 proper noun indeclinable
@@ -8106,27 +8106,27 @@ proper noun indeclinable
 verb
 52478	verb
 52480	verb
-52485	conjunction
-52498	verb
+52485	noun other indeclinable
+52498	noun other indeclinable
 52510	proper noun indeclinable
 52513	relative pronoun
 52522	proper noun indeclinable
 52524	relative pronoun
 verb
 verb
-52558	verb
+52558	noun other indeclinable
 52571	noun
-52575	verb
+52575	noun other indeclinable
 52595	verb
 verb
 noun
 52601	verb
 52606	verb
 52608	verb
-52611	verb
-52615	verb
+52611	noun other indeclinable
+52615	noun other indeclinable
 52625	verb
-52628	verb
+52628	noun other indeclinable
 52639	verb
 noun
 52645	verb
@@ -8138,7 +8138,7 @@ verb
 52714	proper noun indeclinable
 52716	relative pronoun
 verb
-52734	conjunction
+52734	noun other indeclinable
 52743	noun
 52757	verb
 52792	verb
@@ -8146,13 +8146,13 @@ verb
 52808	noun
 52815	verb
 52821	verb
-52828	conjunction
-52832	verb
+52828	noun other indeclinable
+52832	noun other indeclinable
 52835	verb
 52837	personal pronoun
-52841	relative pronoun
+52841	noun other indeclinable
 52854	unknown
-52861	relative pronoun
+52861	noun other indeclinable
 52864	verb
 52869	proper noun indeclinable
 52875	verb
@@ -8161,20 +8161,20 @@ verb
 52893	personal pronoun
 52895	verb
 52900	verb
-52931	relative pronoun
+52931	noun other indeclinable
 52933	noun
 52936	personal pronoun
 verb
 52947	verb
 52953	noun
 52966	verb
-52972	relative pronoun
+52972	noun other indeclinable
 52974	noun
 52976	verb
 52994	verb
 53019	verb
 53024	verb
-53032	conjunction
+53032	noun other indeclinable
 53049	verb
 verb
 personal pronoun
@@ -8187,8 +8187,8 @@ verb
 53099	verb
 53102	verb
 53113	verb
-verb
-verb
+noun other indeclinable
+noun other indeclinable
 verb
 53129	verb
 53138	verb
@@ -8201,11 +8201,11 @@ verb
 53182	verb
 53189	verb
 53204	personal pronoun
-53210	verb
+53210	noun other indeclinable
 53219	verb
 53223	verb
-53228	verb
-verb
+53228	noun other indeclinable
+noun other indeclinable
 verb
 53240	verb
 53251	verb
@@ -8217,14 +8217,14 @@ verb
 53308	verb
 53317	proper noun indeclinable
 53325	verb
-53334	verb
+53334	noun other indeclinable
 53339	verb
 53342	verb
 53347	verb
 53370	verb
-53373	verb
+53373	noun other indeclinable
 53375	verb
-53402	verb
+53402	noun other indeclinable
 53404	verb
 53408	personal pronoun
 53413	verb
@@ -8238,20 +8238,20 @@ verb
 53458	noun
 53462	verb
 53471	verb
-53474	verb
+53474	noun other indeclinable
 53476	verb
-53480	verb
+53480	noun other indeclinable
 53487	verb
 53490	verb
 noun
 53509	noun
 53511	verb
-53516	verb
-verb
+53516	noun other indeclinable
+noun other indeclinable
 verb
 53522	noun
 53531	personal pronoun
-53535	verb
+53535	noun other indeclinable
 53549	verb
 53564	verb
 53568	verb
@@ -8263,14 +8263,14 @@ verb
 53605	noun
 53610	verb
 53612	verb
-53617	verb
-verb
+53617	noun other indeclinable
+noun other indeclinable
 verb
 53621	verb
 53625	verb
 53627	verb
 53629	verb
-53638	verb
+53638	noun other indeclinable
 53644	verb
 53646	verb
 53650	noun
@@ -8280,10 +8280,10 @@ verb
 53670	verb
 53677	verb
 53679	verb
-53683	verb
+53683	noun other indeclinable
 53685	noun
 verb
-verb
+noun other indeclinable
 53693	verb
 53695	verb
 noun
@@ -8294,17 +8294,17 @@ verb
 53719	personal pronoun
 53728	verb
 53733	verb
-verb
-53737	verb
+noun other indeclinable
+53737	noun other indeclinable
 53753	noun
-53760	verb
+53760	noun other indeclinable
 53766	personal pronoun
 verb
 53769	verb
 53774	verb
 53776	noun
 53780	verb
-53783	conjunction
+53783	noun other indeclinable
 53790	verb
 53794	verb
 53796	proper noun indeclinable
@@ -8316,15 +8316,15 @@ verb
 53840	noun
 53844	verb
 53860	proper noun indeclinable
-verb
+noun other indeclinable
 53867	verb
 53880	verb
 53889	noun
 53901	verb
-53939	verb
-53945	verb
+53939	noun other indeclinable
+53945	noun other indeclinable
 53952	personal pronoun
-53955	conjunction
+53955	noun other indeclinable
 53964	verb
 53968	personal pronoun
 53980	personal pronoun
@@ -8334,8 +8334,8 @@ verb
 proper noun indeclinable
 53986	verb
 relative pronoun
-53992	verb
-53998	verb
+53992	noun other indeclinable
+53998	noun other indeclinable
 54010	personal pronoun
 54016	verb
 54036	noun
@@ -8344,18 +8344,18 @@ relative pronoun
 54050	proper noun indeclinable
 54053	noun
 54056	verb
-54078	verb
-54081	relative pronoun
+54078	noun other indeclinable
+54081	noun other indeclinable
 54084	personal pronoun
 54095	unknown
 verb
-relative pronoun
-verb
+noun other indeclinable
+noun other indeclinable
 54100	personal pronoun
-54105	verb
+54105	noun other indeclinable
 54109	verb
-54117	conjunction
-54119	verb
+54117	noun other indeclinable
+54119	noun other indeclinable
 54122	personal pronoun
 54124	verb
 54128	verb
@@ -8366,7 +8366,7 @@ noun
 54156	noun
 54161	personal pronoun
 54175	verb
-adverb
+noun other indeclinable
 54182	verb
 54186	verb
 54200	verb
@@ -8378,26 +8378,26 @@ adverb
 54218	verb
 54220	verb
 54225	verb
-54229	verb
+54229	noun other indeclinable
 54253	noun
 noun
 54262	verb
 54270	noun
 54276	verb
-54288	verb
+54288	noun other indeclinable
 54293	verb
-54296	verb
-54311	verb
+54296	noun other indeclinable
+54311	noun other indeclinable
 54317	verb
 54322	verb
 54324	verb
-54335	adverb
+54335	noun other indeclinable
 54341	verb
 54346	personal pronoun
 54353	verb
 54355	verb
 54367	verb
-54369	verb
+54369	noun other indeclinable
 54376	noun
 54378	verb
 54380	verb
@@ -8415,7 +8415,7 @@ noun
 54497	personal pronoun
 54513	verb
 54528	verb
-54542	verb
+54542	noun other indeclinable
 54545	verb
 54555	verb
 noun
@@ -8425,7 +8425,7 @@ verb
 verb
 54583	verb
 54590	personal pronoun
-54596	conjunction
+54596	noun other indeclinable
 54608	verb
 54610	verb
 54616	verb
@@ -8434,15 +8434,15 @@ verb
 54624	verb
 54635	noun
 verb
-54648	conjunction
-54656	verb
+54648	noun other indeclinable
+54656	noun other indeclinable
 54661	verb
 54666	verb
 54677	personal pronoun
 54685	verb
 54688	noun
 54694	personal pronoun
-54700	relative pronoun
+54700	noun other indeclinable
 54708	personal pronoun
 54722	verb
 54726	verb
@@ -8451,7 +8451,7 @@ verb
 54757	verb
 54759	verb
 noun
-54780	adverb
+54780	noun other indeclinable
 54802	verb
 verb
 54809	noun
@@ -8459,22 +8459,22 @@ verb
 54821	verb
 54823	personal pronoun
 54826	personal pronoun
-54831	verb
-54837	verb
+54831	noun other indeclinable
+54837	noun other indeclinable
 54839	verb
-54848	verb
+54848	noun other indeclinable
 54861	verb
 54864	verb
 54874	verb
-54882	relative pronoun
+54882	noun other indeclinable
 54888	verb
 54902	verb
 54908	personal pronoun
 54923	noun
 54925	verb
-54934	verb
+54934	noun other indeclinable
 54947	verb
-54949	adverb
+54949	noun other indeclinable
 54954	personal pronoun
 54956	verb
 54962	verb
@@ -8482,7 +8482,7 @@ verb
 54973	verb
 54984	noun
 54996	verb
-verb
+noun other indeclinable
 55001	noun
 55006	verb
 55009	personal pronoun
@@ -8500,19 +8500,19 @@ verb
 55059	verb
 55062	verb
 verb
-55083	verb
+55083	noun other indeclinable
 55095	verb
 55104	verb
 55111	verb
 55118	verb
 55123	verb
 55138	proper noun indeclinable
-55141	verb
-55145	verb
+55141	noun other indeclinable
+55145	noun other indeclinable
 55150	verb
 55158	verb
 55163	verb
-55168	verb
+55168	noun other indeclinable
 55175	verb
 55180	verb
 55182	personal pronoun
@@ -8522,9 +8522,9 @@ verb
 55202	verb
 55207	verb
 55222	verb
-55227	verb
+55227	noun other indeclinable
 55231	verb
-55239	verb
+55239	noun other indeclinable
 55243	verb
 55249	verb
 55258	noun
@@ -8542,17 +8542,17 @@ relative pronoun
 noun
 55334	verb
 55352	verb
-55355	verb
+55355	noun other indeclinable
 55361	verb
 55371	verb
 55385	verb
 55387	verb
-55393	verb
-verb
+55393	noun other indeclinable
+noun other indeclinable
 verb
 55400	verb
 55411	noun
-verb
+noun other indeclinable
 55420	noun
 55424	verb
 55429	noun
@@ -8560,7 +8560,7 @@ verb
 verb
 verb
 55438	verb
-55449	verb
+55449	noun other indeclinable
 55451	relative pronoun
 55454	noun
 55457	noun
@@ -8574,15 +8574,15 @@ verb
 55524	proper noun indeclinable
 55528	verb
 verb
-55538	conjunction
+55538	noun other indeclinable
 55546	verb
 55559	noun
 55562	noun
 55580	verb
 55584	verb
-55592	conjunction
-55596	verb
-55605	verb
+55592	noun other indeclinable
+55596	noun other indeclinable
+55605	noun other indeclinable
 55608	verb
 55613	verb
 55627	verb
@@ -8604,8 +8604,8 @@ noun
 verb
 55705	verb
 55709	verb
-55712	verb
-verb
+55712	noun other indeclinable
+noun other indeclinable
 verb
 55716	verb
 55721	noun
@@ -8632,8 +8632,8 @@ verb
 55844	personal pronoun
 55851	noun
 55855	verb
-55858	verb
-verb
+55858	noun other indeclinable
+noun other indeclinable
 verb
 55867	verb
 55869	verb
@@ -8646,13 +8646,13 @@ personal pronoun
 55913	personal pronoun
 55919	proper noun indeclinable
 55922	verb
-verb
+noun other indeclinable
 55926	verb
 55928	proper noun indeclinable
 55933	noun
 noun
 55940	noun
-55943	verb
+55943	noun other indeclinable
 55954	verb
 55970	verb
 55973	verb
@@ -8660,7 +8660,7 @@ noun
 55989	personal pronoun
 55993	personal pronoun
 55999	verb
-conjunction
+noun other indeclinable
 verb
 56009	verb
 verb
@@ -8675,9 +8675,9 @@ personal pronoun
 56070	verb
 56072	verb
 verb
-56081	conjunction
-56084	verb
-adverb
+56081	noun other indeclinable
+56084	noun other indeclinable
+noun other indeclinable
 56102	personal pronoun
 56108	verb
 56117	verb
@@ -8688,14 +8688,14 @@ verb
 56138	verb
 verb
 56141	noun
-56149	conjunction
-verb
+56149	noun other indeclinable
+noun other indeclinable
 56152	verb
 56159	verb
 56164	verb
 56169	verb
 56176	personal pronoun
-56181	conjunction
+56181	noun other indeclinable
 56185	noun
 56204	verb
 56210	noun
@@ -8715,7 +8715,7 @@ verb
 56277	personal pronoun
 56283	noun
 56291	verb
-56293	conjunction
+56293	noun other indeclinable
 56299	verb
 56303	verb
 56317	verb
@@ -8727,19 +8727,19 @@ verb
 56371	verb
 56380	verb
 56387	verb
-56389	verb
+56389	noun other indeclinable
 56398	verb
 56406	verb
 56414	verb
 56416	verb
 56422	noun
 56434	verb
-56438	conjunction
+56438	noun other indeclinable
 56440	noun
 verb
-56450	verb
-56462	verb
-56468	verb
+56450	noun other indeclinable
+56462	noun other indeclinable
+56468	noun other indeclinable
 56472	verb
 56479	verb
 56483	verb
@@ -8756,8 +8756,8 @@ verb
 56558	verb
 56566	verb
 56572	noun
-verb
-verb
+noun other indeclinable
+noun other indeclinable
 verb
 56580	noun
 56588	verb
@@ -8779,11 +8779,11 @@ verb
 56658	verb
 56663	verb
 verb
-56673	conjunction
+56673	noun other indeclinable
 relative pronoun
 56677	verb
-56682	verb
-verb
+56682	noun other indeclinable
+noun other indeclinable
 verb
 56701	noun
 56706	proper noun indeclinable
@@ -8811,7 +8811,7 @@ proper noun indeclinable
 56888	noun
 56891	verb
 56900	noun
-56907	verb
+56907	noun other indeclinable
 56910	noun
 56914	verb
 56919	noun
@@ -8824,11 +8824,11 @@ noun
 verb
 56939	verb
 56942	proper noun indeclinable
-56944	verb
+56944	noun other indeclinable
 56947	verb
-conjunction
-56953	verb
-56956	verb
+noun other indeclinable
+56953	noun other indeclinable
+56956	noun other indeclinable
 56964	personal pronoun
 56967	verb
 56969	noun
@@ -8838,7 +8838,7 @@ conjunction
 56992	proper noun indeclinable
 56994	relative pronoun
 56996	verb
-verb
+noun other indeclinable
 57004	verb
 57007	verb
 57018	verb
@@ -8859,7 +8859,7 @@ verb
 57109	verb
 57114	verb
 57124	verb
-57132	verb
+57132	noun other indeclinable
 57143	verb
 57150	verb
 57154	noun
@@ -8871,32 +8871,32 @@ verb
 proper noun indeclinable
 57190	verb
 57199	noun
-57203	verb
+57203	noun other indeclinable
 57207	verb
-verb
+noun other indeclinable
 57215	verb
 57225	verb
-57232	conjunction
+57232	noun other indeclinable
 57235	noun
 57246	verb
 57256	verb
 57260	verb
-conjunction
-57268	conjunction
+noun other indeclinable
+57268	noun other indeclinable
 57271	verb
-57284	conjunction
+57284	noun other indeclinable
 57290	noun
 57311	verb
-57313	adverb
+57313	noun other indeclinable
 57316	verb
 verb
 57321	verb
 57334	verb
 57340	verb
-57356	relative pronoun
+57356	noun other indeclinable
 57360	verb
-57364	verb
-57366	conjunction
+57364	noun other indeclinable
+57366	noun other indeclinable
 57373	verb
 57376	verb
 57381	verb
@@ -8907,12 +8907,12 @@ personal pronoun
 57394	verb
 57404	verb
 57406	verb
-verb
+noun other indeclinable
 57418	noun
 verb
 57422	verb
-verb
-57432	verb
+noun other indeclinable
+57432	noun other indeclinable
 57435	verb
 57439	verb
 57446	verb
@@ -8928,12 +8928,12 @@ verb
 57501	verb
 57509	verb
 57520	verb
-57526	verb
-57529	conjunction
-57535	relative pronoun
+57526	noun other indeclinable
+57529	noun other indeclinable
+57535	noun other indeclinable
 57537	noun
-57559	relative pronoun
-57568	verb
+57559	noun other indeclinable
+57568	noun other indeclinable
 57572	verb
 57590	verb
 57594	noun
@@ -8942,40 +8942,40 @@ verb
 57608	verb
 verb
 57613	verb
-57616	verb
+57616	noun other indeclinable
 57618	verb
-verb
+noun other indeclinable
 57621	verb
 57623	verb
 57644	verb
 57657	verb
 57659	verb
 57671	verb
-57697	relative pronoun
-57714	conjunction
-57716	verb
+57697	noun other indeclinable
+57714	noun other indeclinable
+57716	noun other indeclinable
 57724	personal pronoun
 57727	personal pronoun
-57731	verb
+57731	noun other indeclinable
 57749	verb
 57754	noun
-57759	relative pronoun
-57762	conjunction
+57759	noun other indeclinable
+57762	noun other indeclinable
 57766	verb
 57771	verb
-57785	relative pronoun
+57785	noun other indeclinable
 57802	verb
 57806	verb
-57811	adverb
+57811	noun other indeclinable
 57815	verb
 57817	personal pronoun
-57819	adverb
+57819	noun other indeclinable
 57823	verb
 57832	verb
 57836	verb
 57846	verb
-verb
-57853	conjunction
+noun other indeclinable
+57853	noun other indeclinable
 57861	verb
 57864	noun
 57867	verb
@@ -8990,7 +8990,7 @@ verb
 57921	verb
 noun
 57927	verb
-57942	verb
+57942	noun other indeclinable
 57959	verb
 57974	personal pronoun
 57986	verb
@@ -9011,31 +9011,31 @@ verb
 58104	proper noun indeclinable
 58107	verb
 proper noun indeclinable
-58128	verb
+58128	noun other indeclinable
 58131	verb
 58136	verb
 58139	verb
 58144	verb
-58149	conjunction
+58149	noun other indeclinable
 58175	verb
-58178	verb
+58178	noun other indeclinable
 58183	noun
 58194	personal pronoun
 58197	personal pronoun
 58201	verb
 58206	noun
 58215	verb
-58222	conjunction
+58222	noun other indeclinable
 58227	verb
 58237	verb
-58242	conjunction
+58242	noun other indeclinable
 58253	verb
 58278	verb
 verb
 58292	noun
 58296	verb
 58304	verb
-58317	conjunction
+58317	noun other indeclinable
 58321	verb
 proper noun indeclinable
 58325	verb
@@ -9048,29 +9048,29 @@ proper noun indeclinable
 noun
 58421	noun
 58425	verb
-58433	verb
+58433	noun other indeclinable
 58435	verb
 58455	verb
-adverb
+noun other indeclinable
 58459	verb
 58469	personal pronoun
 verb
 58472	noun
-58481	conjunction
+58481	noun other indeclinable
 58508	verb
 noun
 58523	personal pronoun
 58532	verb
-58534	adverb
-58537	verb
+58534	noun other indeclinable
+58537	noun other indeclinable
 58543	verb
-58549	verb
+58549	noun other indeclinable
 58574	verb
 58582	verb
 58590	noun
 58599	verb
-verb
-verb
+noun other indeclinable
+noun other indeclinable
 verb
 58604	verb
 58609	verb
@@ -9080,7 +9080,7 @@ verb
 58627	verb
 58629	verb
 58635	verb
-58637	verb
+58637	noun other indeclinable
 58644	verb
 58646	verb
 58649	verb
@@ -9098,7 +9098,7 @@ noun
 verb
 58728	verb
 58736	verb
-58752	verb
+58752	noun other indeclinable
 verb
 verb
 58784	noun
@@ -9107,14 +9107,14 @@ verb
 58798	verb
 58805	verb
 verb
-58816	verb
+58816	noun other indeclinable
 58819	verb
-relative pronoun
+noun other indeclinable
 58826	noun
 58828	noun
-58832	verb
+58832	noun other indeclinable
 58838	verb
-relative pronoun
+noun other indeclinable
 58848	verb
 58878	verb
 58887	noun
@@ -9125,7 +9125,7 @@ verb
 58917	verb
 58924	verb
 58929	verb
-58935	noun
+58935	noun other indeclinable
 58945	verb
 noun
 58958	verb
@@ -9134,7 +9134,7 @@ noun
 58969	verb
 58971	verb
 58980	verb
-59005	verb
+59005	noun other indeclinable
 59011	verb
 59014	verb
 59019	verb
@@ -9143,7 +9143,7 @@ noun
 59042	proper noun indeclinable
 59045	noun
 59054	verb
-59056	verb
+59056	noun other indeclinable
 59058	verb
 59076	noun
 59081	verb
@@ -9151,7 +9151,7 @@ noun
 59092	noun
 59099	noun
 59115	verb
-59127	verb
+59127	noun other indeclinable
 59138	verb
 59143	verb
 59163	verb
@@ -9159,7 +9159,7 @@ noun
 verb
 59176	proper noun indeclinable
 59184	noun
-59201	conjunction
+59201	noun other indeclinable
 59208	verb
 59219	verb
 59223	verb
@@ -9184,8 +9184,8 @@ verb
 59346	verb
 59351	noun
 59373	noun
-verb
-verb
+noun other indeclinable
+noun other indeclinable
 verb
 59383	verb
 59393	verb
@@ -9195,18 +9195,18 @@ noun
 59405	verb
 59411	noun
 59426	verb
-59438	verb
-verb
+59438	noun other indeclinable
+noun other indeclinable
 verb
 59466	verb
-verb
-verb
+noun other indeclinable
+noun other indeclinable
 verb
 59480	personal pronoun
 verb
 59485	verb
-conjunction
-59493	verb
+noun other indeclinable
+59493	noun other indeclinable
 59505	verb
 59508	verb
 59510	verb
@@ -9218,25 +9218,25 @@ conjunction
 59584	noun
 59590	verb
 59600	verb
-59613	conjunction
+59613	noun other indeclinable
 59619	verb
 59626	verb
-59631	verb
-59637	verb
+59631	noun other indeclinable
+59637	noun other indeclinable
 59642	verb
-59644	verb
+59644	noun other indeclinable
 59648	verb
 59660	verb
 59666	verb
 59673	verb
 59680	verb
 59688	verb
-59690	verb
+59690	noun other indeclinable
 59696	verb
 59698	verb
 verb
 verb
-verb
+noun other indeclinable
 59703	verb
 59705	verb
 59709	verb
@@ -9248,15 +9248,15 @@ verb
 59737	verb
 59742	verb
 verb
-59747	verb
-verb
+59747	noun other indeclinable
+noun other indeclinable
 verb
 59754	noun
 noun
 59757	noun
 59764	verb
 59768	verb
-59773	verb
+59773	noun other indeclinable
 59779	verb
 59785	verb
 59790	verb
@@ -9272,44 +9272,44 @@ verb
 59879	verb
 59881	verb
 59903	verb
-59912	verb
-59918	verb
+59912	noun other indeclinable
+59918	noun other indeclinable
 59921	proper noun indeclinable
 59923	relative pronoun
 59925	verb
 59930	noun
-59934	verb
+59934	noun other indeclinable
 59938	proper noun indeclinable
-59945	verb
-59951	verb
+59945	noun other indeclinable
+59951	noun other indeclinable
 59956	noun
 proper noun indeclinable
-59961	verb
-verb
+59961	noun other indeclinable
+noun other indeclinable
 verb
 59969	proper noun indeclinable
 59971	relative pronoun
 59973	verb
 59975	verb
 59979	verb
-59991	verb
-60001	verb
+59991	noun other indeclinable
+60001	noun other indeclinable
 60004	verb
-60008	verb
+60008	noun other indeclinable
 60014	verb
 verb
 60022	verb
 60028	verb
 60046	noun
 60060	noun
-60062	verb
+60062	noun other indeclinable
 60066	verb
 60086	noun
-60090	verb
-60098	verb
-60104	verb
+60090	noun other indeclinable
+60098	noun other indeclinable
+60104	noun other indeclinable
 60106	verb
-verb
+noun other indeclinable
 60110	verb
 60120	verb
 60124	verb
@@ -9325,7 +9325,7 @@ verb
 60187	verb
 60202	verb
 60221	verb
-60224	verb
+60224	noun other indeclinable
 60230	verb
 60233	verb
 60236	relative pronoun
@@ -9333,48 +9333,48 @@ verb
 60260	verb
 60266	verb
 60268	verb
-60311	verb
+60311	noun other indeclinable
 60314	noun
 60322	verb
 60332	verb
 60334	verb
-60351	verb
+60351	noun other indeclinable
 60363	verb
 60373	noun
-60380	verb
+60380	noun other indeclinable
 60382	verb
-verb
+noun other indeclinable
 60389	noun
 60394	verb
-60397	verb
+60397	noun other indeclinable
 60403	verb
-60405	verb
+60405	noun other indeclinable
 60413	proper noun indeclinable
-60417	verb
+60417	noun other indeclinable
 60419	verb
-verb
+noun other indeclinable
 60433	verb
-60437	verb
-60440	verb
-relative pronoun
+60437	noun other indeclinable
+60440	noun other indeclinable
+noun other indeclinable
 60447	verb
 60456	verb
-60458	verb
+60458	noun other indeclinable
 60461	proper noun indeclinable
-60464	verb
+60464	noun other indeclinable
 60468	verb
-60474	verb
+60474	noun other indeclinable
 60487	verb
 60493	verb
-60497	verb
+60497	noun other indeclinable
 60499	verb
 60501	noun
 verb
-60508	verb
+60508	noun other indeclinable
 60510	verb
-60523	verb
+60523	noun other indeclinable
 60525	verb
-60534	verb
+60534	noun other indeclinable
 60549	verb
 60556	verb
 60558	noun
@@ -9388,7 +9388,7 @@ noun
 60599	relative pronoun
 60601	noun
 60620	verb
-60636	verb
+60636	noun other indeclinable
 60646	verb
 60652	noun
 60656	noun
@@ -9407,9 +9407,9 @@ verb
 60746	verb
 60760	noun
 60762	proper noun indeclinable
-60766	verb
+60766	noun other indeclinable
 60768	relative pronoun
-60793	verb
+60793	noun other indeclinable
 60810	noun
 60818	noun
 60823	verb
@@ -9445,26 +9445,26 @@ verb
 61121	verb
 61123	verb
 61131	verb
-61143	verb
-verb
+61143	noun other indeclinable
+noun other indeclinable
 verb
 61170	noun
 61178	noun
 61185	noun
 61209	verb
-61219	verb
-61227	verb
+61219	noun other indeclinable
+61227	noun other indeclinable
+noun other indeclinable
 verb
-verb
-61238	verb
+61238	noun other indeclinable
 61242	noun
-61247	verb
-61261	verb
-61269	verb
+61247	noun other indeclinable
+61261	noun other indeclinable
+61269	noun other indeclinable
 61273	verb
 61278	verb
-61280	verb
-61284	verb
+61280	noun other indeclinable
+61284	noun other indeclinable
 61291	verb
 61304	verb
 61314	noun
@@ -9472,20 +9472,20 @@ verb
 61336	verb
 personal pronoun
 verb
-61340	adverb
-61342	verb
+61340	noun other indeclinable
+61342	noun other indeclinable
 61346	verb
 61348	verb
 61350	verb
 61357	noun
-61362	verb
+61362	noun other indeclinable
 61367	verb
-61374	adverb
+61374	noun other indeclinable
 61383	proper noun indeclinable
 verb
-61402	verb
+61402	noun other indeclinable
 61405	verb
-verb
+noun other indeclinable
 61411	verb
 61421	noun
 61428	verb
@@ -9495,7 +9495,7 @@ verb
 61469	verb
 61495	noun
 61498	verb
-adverb
+noun other indeclinable
 61506	noun
 61509	verb
 61522	noun
@@ -9513,45 +9513,45 @@ verb
 61585	proper noun indeclinable
 61588	proper noun indeclinable
 proper noun indeclinable
-61593	verb
-61598	verb
-61603	verb
+61593	noun other indeclinable
+61598	noun other indeclinable
+61603	noun other indeclinable
 61607	verb
-61615	verb
+61615	noun other indeclinable
 61618	verb
-61634	verb
+61634	noun other indeclinable
 61637	verb
 61656	noun
 61665	noun
-verb
-61676	verb
+noun other indeclinable
+61676	noun other indeclinable
 61683	verb
 61703	verb
-61731	verb
+61731	noun other indeclinable
 61746	verb
-61763	verb
+61763	noun other indeclinable
 61769	verb
 61771	verb
 61776	noun
 61778	verb
-61789	verb
+61789	noun other indeclinable
 61791	verb
-verb
-61797	verb
+noun other indeclinable
+61797	noun other indeclinable
 61808	verb
 61810	verb
-61823	verb
-61827	verb
+61823	noun other indeclinable
+61827	noun other indeclinable
 61864	verb
 61874	verb
 61900	verb
 61905	verb
-61909	verb
+61909	noun other indeclinable
 61912	verb
-verb
+noun other indeclinable
 61923	verb
 61927	verb
-61929	conjunction
+61929	noun other indeclinable
 61936	personal pronoun
 verb
 61962	verb
@@ -9560,10 +9560,10 @@ verb
 61990	verb
 61992	proper noun indeclinable
 61999	verb
-62012	relative pronoun
+62012	noun other indeclinable
 62014	verb
 62020	proper noun indeclinable
-verb
+noun other indeclinable
 62023	verb
 verb
 62029	proper noun indeclinable
@@ -9574,21 +9574,21 @@ verb
 62069	verb
 62074	verb
 62077	noun
-62086	conjunction
+62086	noun other indeclinable
 62092	verb
 62113	noun
-62115	adverb
+62115	noun other indeclinable
 62117	verb
 62122	personal pronoun
 62136	noun
-conjunction
-62143	conjunction
-62148	conjunction
+noun other indeclinable
+62143	noun other indeclinable
+62148	noun other indeclinable
 62157	proper noun indeclinable
 62167	verb
-62176	conjunction
+62176	noun other indeclinable
 62188	noun
-62196	verb
+62196	noun other indeclinable
 62206	noun
 62208	verb
 62215	verb
@@ -9598,13 +9598,13 @@ conjunction
 verb
 62242	personal pronoun
 62244	noun
-62248	conjunction
-62251	conjunction
-62287	verb
-62290	verb
+62248	noun other indeclinable
+62251	noun other indeclinable
+62287	noun other indeclinable
+62290	noun other indeclinable
 62295	personal pronoun
-62299	verb
-62312	adverb
+62299	noun other indeclinable
+62312	noun other indeclinable
 62314	verb
 relative pronoun
 verb
@@ -9612,7 +9612,7 @@ verb
 62332	verb
 62344	verb
 62347	unknown
-62361	conjunction
+62361	noun other indeclinable
 62363	verb
 62368	verb
 62382	verb
@@ -9620,14 +9620,14 @@ verb
 62389	noun
 62391	noun
 noun
-62403	verb
+62403	noun other indeclinable
 62416	verb
-62426	conjunction
+62426	noun other indeclinable
 62439	verb
-62447	verb
+62447	noun other indeclinable
 62452	proper noun indeclinable
 62456	verb
-62464	conjunction
+62464	noun other indeclinable
 62467	verb
 62473	verb
 62488	verb
@@ -9640,9 +9640,9 @@ verb
 verb
 62547	noun
 62556	personal pronoun
-62565	adverb
+62565	noun other indeclinable
 noun
-62580	conjunction
+62580	noun other indeclinable
 62582	noun
 62585	personal pronoun
 62588	personal pronoun
@@ -9651,30 +9651,30 @@ noun
 62618	verb
 62647	verb
 62663	verb
-62668	verb
+62668	noun other indeclinable
 62676	proper noun indeclinable
-62679	verb
+62679	noun other indeclinable
 62696	verb
-62699	conjunction
+62699	noun other indeclinable
 62714	personal pronoun
 62726	verb
 62734	verb
-62747	verb
+62747	noun other indeclinable
 62751	verb
-62753	adverb
+62753	noun other indeclinable
 verb
-62757	verb
+62757	noun other indeclinable
 62759	noun
-62764	verb
-62770	verb
+62764	noun other indeclinable
+62770	noun other indeclinable
 noun
 62777	verb
 62780	verb
-62782	adverb
+62782	noun
 62789	personal pronoun
 62792	personal pronoun
 62798	verb
-62811	verb
+62811	noun other indeclinable
 62816	personal pronoun
 62825	verb
 62829	verb
@@ -9683,7 +9683,7 @@ noun
 62873	verb
 62878	verb
 62886	verb
-62892	conjunction
+62892	noun other indeclinable
 62896	noun
 62904	noun
 62912	personal pronoun
@@ -9692,14 +9692,14 @@ noun
 verb
 62936	verb
 62938	verb
-62941	verb
+62941	noun other indeclinable
 62950	verb
-62955	conjunction
-62961	conjunction
-relative pronoun
+62955	noun other indeclinable
+62961	noun other indeclinable
+noun other indeclinable
 noun
 62965	verb
-62968	adverb
+62968	noun other indeclinable
 62975	verb
 verb
 62979	verb
@@ -9707,25 +9707,25 @@ verb
 62995	noun
 63015	verb
 63047	verb
-conjunction
-63068	conjunction
-63078	conjunction
+noun other indeclinable
+63068	noun other indeclinable
+63078	noun other indeclinable
 63083	verb
 63087	personal pronoun
 63100	verb
 63111	personal pronoun
 63119	proper noun indeclinable
-63132	conjunction
+63132	noun other indeclinable
 63150	verb
 63158	noun
 63161	proper noun indeclinable
 63172	personal pronoun
 63180	noun
 63213	verb
-63217	adverb
+63217	noun other indeclinable
 63220	verb
 63222	verb
-63225	adverb
+63225	noun other indeclinable
 63228	verb
 63239	proper noun indeclinable
 verb
@@ -9734,17 +9734,17 @@ verb
 63278	verb
 63287	personal pronoun
 63290	noun
-63292	conjunction
+63292	noun other indeclinable
 63298	verb
 proper noun indeclinable
-63301	verb
-63304	conjunction
+63301	noun other indeclinable
+63304	noun other indeclinable
 63308	noun
 63318	proper noun indeclinable
 63324	personal pronoun
 63331	proper noun indeclinable
 63335	verb
-63344	relative pronoun
+63344	noun other indeclinable
 63352	proper noun indeclinable
 63362	verb
 63383	verb
@@ -9756,22 +9756,22 @@ verb
 63430	verb
 63456	noun
 63461	verb
-relative pronoun
-63484	conjunction
-63486	verb
-63493	verb
+noun other indeclinable
+63484	noun other indeclinable
+63486	noun other indeclinable
+63493	noun other indeclinable
 63497	noun
-verb
-63502	conjunction
+noun other indeclinable
+63502	noun other indeclinable
 63506	noun
-63513	conjunction
+63513	noun other indeclinable
 63536	noun
 63560	verb
 63562	verb
 63564	noun
 63570	verb
 63589	personal pronoun
-63591	verb
+63591	noun
 63599	verb
 63608	noun
 verb
@@ -9779,7 +9779,7 @@ proper noun indeclinable
 63618	verb
 63629	proper noun indeclinable
 63631	verb
-63636	conjunction
+63636	noun other indeclinable
 63646	verb
 63650	proper noun indeclinable
 63673	verb
@@ -9787,9 +9787,9 @@ proper noun indeclinable
 63678	verb
 63685	personal pronoun
 verb
-63693	verb
-63695	relative pronoun
-63706	verb
+63693	noun other indeclinable
+63695	noun other indeclinable
+63706	noun other indeclinable
 verb
 63709	proper noun indeclinable
 63714	proper noun indeclinable
@@ -9800,7 +9800,7 @@ verb
 63740	verb
 63746	verb
 63748	proper noun indeclinable
-verb
+noun other indeclinable
 63761	verb
 63775	verb
 63782	verb
@@ -9829,7 +9829,7 @@ verb
 63933	proper noun indeclinable
 63940	proper noun indeclinable
 noun
-63953	conjunction
+63953	noun other indeclinable
 63959	verb
 63962	personal pronoun
 verb
@@ -9837,7 +9837,7 @@ verb
 63967	noun
 63970	verb
 63972	verb
-63975	verb
+63975	noun other indeclinable
 63984	noun
 63994	noun
 64012	personal pronoun
@@ -9847,7 +9847,7 @@ verb
 64035	verb
 64037	verb
 64041	verb
-64044	adverb
+64044	noun other indeclinable
 64052	verb
 64063	verb
 64068	verb
@@ -9858,11 +9858,11 @@ verb
 64095	verb
 64100	verb
 64103	relative pronoun
-64107	verb
+64107	noun other indeclinable
 64124	verb
 64129	verb
-verb
-64151	verb
+noun other indeclinable
+64151	noun
 verb
 64163	noun
 64167	personal pronoun
@@ -9871,7 +9871,7 @@ verb
 64179	verb
 64181	verb
 64183	verb
-64197	verb
+64197	noun other indeclinable
 64201	verb
 64215	personal pronoun
 verb
@@ -9887,15 +9887,15 @@ verb
 64273	verb
 64276	verb
 64279	noun
-64284	conjunction
+64284	noun other indeclinable
 64293	personal pronoun
 64295	verb
 verb
-64303	noun
+64303	noun other indeclinable
 64307	verb
-relative pronoun
+noun other indeclinable
 64316	verb
-relative pronoun
+noun other indeclinable
 64324	noun
 64331	verb
 64340	verb
@@ -9929,8 +9929,8 @@ relative pronoun
 64489	verb
 64491	verb
 64495	proper noun indeclinable
-64498	verb
-verb
+64498	noun other indeclinable
+noun other indeclinable
 verb
 64517	verb
 64520	verb
@@ -9943,7 +9943,7 @@ verb
 64543	noun
 64546	noun
 64556	verb
-verb
+noun other indeclinable
 64565	verb
 64577	verb
 64584	verb
@@ -9962,54 +9962,54 @@ verb
 64673	proper noun indeclinable
 64678	noun
 64699	noun
-64714	verb
+64714	noun other indeclinable
 64718	verb
 64723	noun
 proper noun indeclinable
 64727	noun
 64729	verb
 64738	verb
-64754	verb
+64754	noun other indeclinable
 64763	personal pronoun
-64772	verb
+64772	noun other indeclinable
 64778	noun
 64781	verb
 64789	verb
-64795	verb
+64795	noun other indeclinable
 64798	verb
 verb
 64809	verb
-64816	verb
+64816	noun other indeclinable
 verb
 64823	noun
-64842	relative pronoun
-64851	adverb
-64856	verb
+64842	noun other indeclinable
+64851	noun other indeclinable
+64856	noun other indeclinable
 64911	verb
 64934	verb
-64961	verb
-64967	verb
+64961	noun other indeclinable
+64967	noun other indeclinable
 64971	verb
-conjunction
+noun other indeclinable
 64981	noun
 64984	verb
 64987	verb
 64989	verb
 64994	noun
-65007	conjunction
-verb
+65007	noun other indeclinable
+noun other indeclinable
 65015	verb
 65021	verb
 65023	verb
 65034	proper noun indeclinable
 65047	verb
 65056	verb
-65060	verb
-65073	verb
+65060	noun other indeclinable
+65073	noun other indeclinable
 65077	verb
 65081	verb
 65086	verb
-verb
+noun other indeclinable
 65097	noun
 65104	noun
 65118	proper noun indeclinable
@@ -10017,15 +10017,15 @@ verb
 65151	verb
 65164	verb
 65170	verb
-65182	verb
-65191	verb
+65182	noun other indeclinable
+65191	noun
 65200	verb
 65218	noun
 65224	proper noun indeclinable
-65283	adverb
+65283	noun other indeclinable
 65287	personal pronoun
-65299	verb
-adverb
+65299	noun other indeclinable
+noun other indeclinable
 65308	personal pronoun
 65319	noun
 noun
@@ -10037,11 +10037,11 @@ noun
 65392	personal pronoun
 65401	verb
 proper noun indeclinable
-65407	relative pronoun
+65407	noun other indeclinable
 65415	noun
 65418	verb
 65423	noun
-65429	verb
+65429	noun other indeclinable
 65433	verb
 65436	verb
 65442	proper noun indeclinable
@@ -10052,10 +10052,10 @@ verb
 65454	personal pronoun
 65460	personal pronoun
 65473	noun
-65475	verb
+65475	noun other indeclinable
 65479	verb
 65485	verb
-65489	verb
+65489	noun other indeclinable
 65492	verb
 65498	verb
 65518	verb
@@ -10064,14 +10064,14 @@ verb
 65531	verb
 65542	verb
 65546	verb
-65560	verb
+65560	noun other indeclinable
 65565	verb
 65571	verb
 65573	verb
 65575	noun
 65577	verb
 65588	verb
-65591	conjunction
+65591	noun other indeclinable
 verb
 65599	verb
 65604	noun
@@ -10088,7 +10088,7 @@ verb
 65656	noun
 65661	verb
 verb
-65685	verb
+65685	noun other indeclinable
 65703	verb
 65742	verb
 65745	verb
@@ -10106,12 +10106,12 @@ verb
 65803	noun
 65820	verb
 verb
-65873	adverb
+65873	noun other indeclinable
 65877	noun
 65883	verb
 65889	noun
 65897	personal pronoun
-65907	verb
+65907	noun other indeclinable
 65925	verb
 65927	verb
 65933	verb
@@ -10121,9 +10121,9 @@ verb
 65954	verb
 65956	proper noun indeclinable
 65960	verb
-65976	verb
+65976	noun other indeclinable
 65985	verb
-verb
+noun other indeclinable
 verb
 65993	verb
 66003	noun
@@ -10136,7 +10136,7 @@ verb
 66079	verb
 66087	verb
 66092	verb
-66107	verb
+66107	noun other indeclinable
 66114	verb
 66116	verb
 66119	verb
@@ -10146,11 +10146,11 @@ verb
 66148	noun
 66150	verb
 66161	verb
-66167	conjunction
+66167	noun other indeclinable
 66178	verb
 66208	verb
 66223	verb
-66227	relative pronoun
+66227	noun other indeclinable
 66230	verb
 66270	noun
 66274	verb
@@ -10172,7 +10172,7 @@ verb
 66402	verb
 66406	verb
 noun
-66414	relative pronoun
+66414	noun other indeclinable
 66422	noun
 66427	proper noun indeclinable
 66430	verb
@@ -10183,45 +10183,45 @@ verb
 verb
 66462	verb
 66474	noun
-66478	verb
+66478	noun other indeclinable
 66481	verb
 66483	verb
 66485	verb
 66489	noun
-66500	verb
+66500	noun other indeclinable
 66516	personal pronoun
 66522	verb
 66524	personal pronoun
 66526	verb
 noun
-66535	verb
+66535	noun other indeclinable
 66542	verb
-66555	conjunction
+66555	noun other indeclinable
 66570	verb
-relative pronoun
-66589	verb
-66610	verb
-66614	verb
+noun other indeclinable
+66589	noun other indeclinable
+66610	noun other indeclinable
+66614	noun other indeclinable
 noun
 66617	verb
-verb
+noun other indeclinable
 66629	verb
 66643	verb
-66645	verb
-66659	verb
+66645	noun other indeclinable
+66659	noun other indeclinable
 66674	verb
-verb
+noun other indeclinable
 66678	verb
 verb
-66700	verb
+66700	noun other indeclinable
 personal pronoun
-66715	verb
-66717	verb
+66715	noun other indeclinable
+66717	noun other indeclinable
 66719	verb
 66726	verb
 66733	verb
 66737	verb
-66762	verb
+66762	noun other indeclinable
 66796	verb
 66801	verb
 66831	verb
@@ -10235,7 +10235,7 @@ personal pronoun
 66868	noun
 66875	verb
 66879	verb
-66881	conjunction
+66881	noun other indeclinable
 verb
 66905	personal pronoun
 66908	personal pronoun
@@ -10244,13 +10244,13 @@ verb
 66919	verb
 66922	noun
 66936	proper noun indeclinable
-verb
+noun other indeclinable
 66943	noun
 66949	verb
 66960	personal pronoun
 66965	personal pronoun
 66973	verb
-66983	verb
+66983	noun other indeclinable
 66985	verb
 66991	verb
 67009	verb
@@ -10260,22 +10260,22 @@ verb
 67027	verb
 verb
 67035	verb
-verb
+noun other indeclinable
 67049	noun
 67055	verb
-67063	verb
+67063	noun other indeclinable
 67078	verb
-67086	conjunction
+67086	noun other indeclinable
 verb
 67099	verb
-67102	conjunction
+67102	noun other indeclinable
 67105	verb
 67111	verb
 personal pronoun
 67115	verb
-67122	conjunction
-67130	conjunction
-verb
+67122	noun other indeclinable
+67130	noun other indeclinable
+noun other indeclinable
 67137	verb
 67143	verb
 67148	noun
@@ -10288,15 +10288,15 @@ noun
 67234	verb
 verb
 67246	verb
-67255	verb
+67255	noun other indeclinable
 67258	verb
-67263	verb
+67263	noun other indeclinable
 67265	verb
 verb
 67273	verb
 67279	verb
 67295	personal pronoun
-67304	relative pronoun
+67304	noun other indeclinable
 67306	verb
 67322	verb
 67327	verb
@@ -10304,7 +10304,7 @@ verb
 verb
 67343	verb
 67346	verb
-adverb
+noun other indeclinable
 personal pronoun
 67353	verb
 verb
@@ -10315,8 +10315,8 @@ verb
 67391	verb
 67398	noun
 67401	verb
-67409	verb
-67416	verb
+67409	noun other indeclinable
+67416	noun other indeclinable
 67422	verb
 67437	verb
 67439	verb
@@ -10330,12 +10330,12 @@ verb
 67480	verb
 67491	personal pronoun
 67500	verb
-67511	verb
+67511	noun other indeclinable
 verb
 67516	verb
 noun
 67527	verb
-67532	verb
+67532	noun other indeclinable
 67538	proper noun indeclinable
 67551	noun
 67559	personal pronoun
@@ -10344,21 +10344,21 @@ noun
 67570	verb
 67579	personal pronoun
 67584	verb
-67586	verb
-67598	verb
+67586	noun other indeclinable
+67598	noun other indeclinable
 verb
 67607	verb
-67613	relative pronoun
+67613	noun other indeclinable
 67623	verb
 67625	personal pronoun
-67640	adverb
+67640	noun
 personal pronoun
-67645	verb
-67649	verb
+67645	noun other indeclinable
+67649	noun other indeclinable
 67668	verb
-67679	verb
+67679	noun other indeclinable
 67687	noun
-67698	adverb
+67698	noun other indeclinable
 67713	verb
 67719	personal pronoun
 67723	verb
@@ -10367,15 +10367,15 @@ personal pronoun
 67749	verb
 67753	verb
 67778	personal pronoun
-67789	verb
-67801	verb
+67789	noun other indeclinable
+67801	noun other indeclinable
 67806	verb
 67825	verb
 67828	noun
 67834	verb
-67836	relative pronoun
-67856	verb
-67864	verb
+67836	noun other indeclinable
+67856	noun other indeclinable
+67864	noun other indeclinable
 67875	proper noun indeclinable
 67877	verb
 67879	verb
@@ -10386,10 +10386,10 @@ personal pronoun
 67932	personal pronoun
 67938	verb
 67947	proper noun indeclinable
-67950	verb
+67950	noun other indeclinable
 67957	verb
-67964	verb
-67981	verb
+67964	noun other indeclinable
+67981	noun other indeclinable
 67983	verb
 67987	noun
 67991	personal pronoun
@@ -10401,12 +10401,12 @@ personal pronoun
 68048	verb
 68070	verb
 68083	verb
-68091	verb
-68093	noun
+68091	noun other indeclinable
+68093	noun other indeclinable
 68098	noun
 68108	verb
 68112	noun
-verb
+noun other indeclinable
 68118	verb
 68135	noun
 68141	verb
@@ -10420,22 +10420,22 @@ verb
 proper noun indeclinable
 68221	relative pronoun
 68230	personal pronoun
-68232	verb
+68232	noun other indeclinable
 68242	verb
 68249	noun
-68268	verb
+68268	noun other indeclinable
 68272	verb
 verb
-68275	verb
+68275	noun other indeclinable
 68278	verb
 68285	verb
 68288	verb
 verb
-68305	verb
+68305	noun other indeclinable
 68324	verb
-68330	verb
+68330	noun other indeclinable
 68351	verb
-68363	verb
+68363	noun other indeclinable
 68367	verb
 68370	verb
 68377	verb
@@ -10443,51 +10443,51 @@ verb
 verb
 68383	verb
 68389	verb
-68391	verb
+68391	noun other indeclinable
 68399	verb
 68422	personal pronoun
-68431	conjunction
+68431	noun other indeclinable
 68450	verb
 68481	personal pronoun
 68484	verb
 68495	noun
-68497	verb
+68497	noun other indeclinable
 68522	proper noun indeclinable
 68524	verb
-verb
+noun other indeclinable
 68538	personal pronoun
-68547	verb
+68547	noun other indeclinable
 68551	verb
 68553	verb
 68555	noun
 68557	verb
-68559	verb
-68579	verb
+68559	noun other indeclinable
+68579	noun other indeclinable
 68603	proper noun indeclinable
 68605	noun
-68611	verb
-68617	conjunction
+68611	noun other indeclinable
+68617	noun other indeclinable
 68623	verb
-68625	verb
+68625	noun other indeclinable
 68647	verb
 68649	verb
-conjunction
-68653	verb
+noun other indeclinable
+68653	noun other indeclinable
 verb
-68658	relative pronoun
+68658	noun other indeclinable
 68667	verb
 68683	verb
 68685	verb
 68697	noun
 68703	personal pronoun
 68725	verb
-68731	verb
-68757	verb
-68764	verb
+68731	noun
+68757	noun other indeclinable
+68764	noun other indeclinable
 68773	verb
-68777	verb
+68777	noun other indeclinable
 68782	noun
-68784	verb
+68784	noun other indeclinable
 68787	noun
 68798	verb
 68801	verb
@@ -10498,53 +10498,53 @@ verb
 68831	verb
 verb
 68845	verb
-68850	verb
-68894	verb
-68904	verb
-68908	verb
+68850	noun other indeclinable
+68894	noun other indeclinable
+68904	noun other indeclinable
+68908	noun other indeclinable
 noun
-68912	verb
+68912	noun other indeclinable
 68928	verb
-68935	relative pronoun
-68941	verb
+68935	noun other indeclinable
+68941	noun other indeclinable
 68943	verb
-verb
-68953	verb
+noun other indeclinable
+68953	noun other indeclinable
 68955	noun
 noun
 68963	noun
 68972	personal pronoun
 68975	verb
-68979	verb
+68979	noun other indeclinable
 69005	verb
-69011	verb
+69011	noun other indeclinable
 69017	verb
-69022	verb
+69022	noun other indeclinable
 69026	verb
 69037	noun
 69039	verb
-69042	verb
+69042	noun other indeclinable
 69045	verb
 69047	verb
 69049	noun
-69054	verb
+69054	noun other indeclinable
 69062	verb
 69069	verb
 69078	verb
-69082	adverb
+69082	noun other indeclinable
 verb
-69086	conjunction
-69090	verb
+69086	noun other indeclinable
+69090	noun other indeclinable
 69096	noun
 69110	personal pronoun
-69115	verb
+69115	noun other indeclinable
 69125	verb
 69129	noun
 69131	verb
 69134	verb
 69136	verb
 69138	verb
-69155	verb
+69155	noun other indeclinable
 69157	verb
 69161	verb
 69171	verb
@@ -10552,7 +10552,7 @@ verb
 69177	verb
 noun
 verb
-69206	relative pronoun
+69206	noun other indeclinable
 personal pronoun
 69214	verb
 69217	personal pronoun
@@ -10564,12 +10564,12 @@ verb
 69275	verb
 69277	verb
 69279	verb
-adverb
+noun
 69289	verb
 69291	verb
 69294	verb
 69300	proper noun indeclinable
-69310	verb
+69310	noun other indeclinable
 69315	personal pronoun
 69318	proper noun indeclinable
 69321	noun
@@ -10577,26 +10577,26 @@ adverb
 69333	verb
 69342	proper noun indeclinable
 69344	verb
-69360	conjunction
-69367	verb
+69360	noun other indeclinable
+69367	noun other indeclinable
 69375	verb
-69377	verb
+69377	noun other indeclinable
 69381	verb
 69408	verb
 69413	noun
 69415	verb
 69421	personal pronoun
 69443	personal pronoun
-69451	verb
+69451	noun other indeclinable
 69457	proper noun indeclinable
 69459	relative pronoun
 verb
 69467	verb
 69475	verb
-69481	verb
+69481	noun other indeclinable
 69483	verb
 69489	verb
-69491	verb
+69491	noun other indeclinable
 69493	verb
 69501	noun
 69511	noun
@@ -10605,13 +10605,13 @@ verb
 69542	noun
 69544	verb
 69557	verb
-69563	conjunction
+69563	noun other indeclinable
 verb
 69574	verb
 69577	personal pronoun
-verb
+noun other indeclinable
 69588	verb
-69606	conjunction
+69606	noun other indeclinable
 69619	verb
 69634	verb
 69636	noun
@@ -10626,7 +10626,7 @@ verb
 69674	verb
 69681	verb
 69683	noun
-69692	verb
+69692	noun other indeclinable
 69698	verb
 verb
 69705	verb
@@ -10646,9 +10646,9 @@ verb
 69776	verb
 69780	noun
 69785	verb
-69802	adverb
-69811	conjunction
-69822	conjunction
+69802	noun other indeclinable
+69811	noun other indeclinable
+69822	noun other indeclinable
 69836	verb
 69859	verb
 noun
@@ -10658,13 +10658,13 @@ noun
 69875	verb
 69881	verb
 69889	verb
-69892	conjunction
-69894	relative pronoun
+69892	noun other indeclinable
+69894	noun other indeclinable
 verb
-69900	relative pronoun
+69900	noun other indeclinable
 69902	verb
 69909	noun
-69913	verb
+69913	noun other indeclinable
 69915	verb
 69924	verb
 69939	verb
@@ -10673,8 +10673,8 @@ verb
 69950	verb
 69954	verb
 69965	verb
-69971	relative pronoun
-69985	adverb
+69971	noun other indeclinable
+69985	noun
 70018	verb
 70044	verb
 proper noun indeclinable
@@ -10685,7 +10685,7 @@ noun
 70078	verb
 70082	verb
 70084	verb
-70092	verb
+70092	noun other indeclinable
 70108	verb
 70116	verb
 70123	verb
@@ -10693,27 +10693,27 @@ noun
 70149	verb
 70151	personal pronoun
 70154	personal pronoun
-70186	conjunction
+70186	noun other indeclinable
 70195	verb
-conjunction
-70200	verb
+noun other indeclinable
+70200	noun other indeclinable
 70203	verb
 70205	verb
-70208	verb
+70208	noun other indeclinable
 70211	noun
 noun
 70215	verb
-adverb
+noun
 70221	noun
-70234	verb
-70240	adverb
+70234	noun other indeclinable
+70240	noun other indeclinable
 70245	verb
 verb
 70254	noun
 70257	verb
 70267	noun
 70270	verb
-70272	verb
+70272	noun other indeclinable
 70276	noun
 verb
 noun
@@ -10730,55 +10730,55 @@ verb
 70335	verb
 70340	verb
 70344	noun
-70351	verb
-70354	adverb
+70351	noun other indeclinable
+70354	noun other indeclinable
 70364	verb
-70369	relative pronoun
-70384	verb
-70391	verb
+70369	noun other indeclinable
+70384	noun other indeclinable
+70391	noun other indeclinable
 70403	verb
 70407	personal pronoun
 70410	verb
-70444	verb
-70452	relative pronoun
+70444	noun other indeclinable
+70452	noun other indeclinable
 70458	personal pronoun
 70480	verb
 70483	personal pronoun
 verb
 70487	noun
-70493	verb
+70493	noun other indeclinable
 70521	verb
-70524	verb
+70524	noun other indeclinable
 70529	noun
-70536	verb
-70539	verb
-70544	conjunction
-70553	verb
+70536	noun other indeclinable
+70539	noun other indeclinable
+70544	noun other indeclinable
+70553	noun other indeclinable
 70557	verb
 70565	personal pronoun
 70572	personal pronoun
-70583	adverb
+70583	noun other indeclinable
 70603	verb
 70606	verb
 70615	noun
 70625	verb
 70633	verb
-70639	conjunction
+70639	noun other indeclinable
 70642	verb
 70647	noun
 70662	personal pronoun
 70672	noun
-verb
-70677	conjunction
+noun other indeclinable
+70677	noun other indeclinable
 70684	noun
-70686	conjunction
+70686	noun other indeclinable
 70689	verb
 70693	verb
-70696	verb
-70706	verb
+70696	noun other indeclinable
+70706	noun other indeclinable
 70714	personal pronoun
 verb
-70720	verb
+70720	noun other indeclinable
 70724	verb
 70731	noun
 70743	verb
@@ -10786,21 +10786,21 @@ verb
 70749	noun
 70757	verb
 70762	noun
-70765	verb
+70765	noun other indeclinable
 70771	proper noun indeclinable
 70779	verb
 70805	noun
 70821	noun
-70827	verb
+70827	noun other indeclinable
 70829	noun
-70836	verb
+70836	noun other indeclinable
 70842	verb
 70846	verb
 70850	verb
 70856	verb
 70864	verb
 noun
-70868	verb
+70868	noun other indeclinable
 70870	unknown
 70879	verb
 70894	verb
@@ -10812,7 +10812,7 @@ noun
 70921	verb
 70929	noun
 70936	noun
-70938	relative pronoun
+70938	noun other indeclinable
 70944	noun
 70952	verb
 70954	verb
@@ -10820,8 +10820,8 @@ noun
 70969	verb
 70972	verb
 70978	verb
-71005	relative pronoun
-71014	verb
+71005	noun other indeclinable
+71014	noun other indeclinable
 71018	proper noun indeclinable
 noun
 71027	verb
@@ -10831,21 +10831,21 @@ noun
 71055	verb
 71058	relative pronoun
 71064	noun
-71078	relative pronoun
-71080	verb
+71078	noun other indeclinable
+71080	noun other indeclinable
 71087	verb
-71092	adverb
+71092	noun other indeclinable
 personal pronoun
 71095	personal pronoun
 71113	verb
 71121	verb
 71126	verb
-71129	adverb
+71129	noun
 71134	verb
 71147	verb
 71152	verb
 verb
-adverb
+noun
 71161	noun
 71165	personal pronoun
 71175	verb
@@ -10856,26 +10856,26 @@ verb
 71205	verb
 71211	verb
 71221	verb
-71229	conjunction
+71229	noun other indeclinable
 verb
-71240	relative pronoun
+71240	noun other indeclinable
 71247	verb
 71261	noun
 71281	verb
-relative pronoun
+noun other indeclinable
 71288	verb
 71291	noun
 71297	verb
 71310	verb
-71327	verb
-71332	adverb
+71327	noun other indeclinable
+71332	noun other indeclinable
 71335	verb
-71337	verb
+71337	noun other indeclinable
 71344	verb
 71350	verb
 71352	verb
 71354	verb
-71367	verb
+71367	noun other indeclinable
 71371	noun
 71375	verb
 71380	unknown
@@ -10886,16 +10886,16 @@ relative pronoun
 71398	verb
 verb
 71404	verb
-71415	verb
+71415	noun other indeclinable
 71436	noun
 71442	noun
 71444	verb
-71466	relative pronoun
+71466	noun other indeclinable
 71479	verb
 71485	verb
-71489	conjunction
+71489	noun other indeclinable
 71511	verb
-71516	verb
+71516	noun other indeclinable
 71518	verb
 71523	verb
 71529	verb
@@ -10916,8 +10916,8 @@ verb
 71632	verb
 71636	noun
 71639	noun
-71652	relative pronoun
-71658	verb
+71652	noun other indeclinable
+71658	noun other indeclinable
 71672	personal pronoun
 71675	personal pronoun
 71677	personal pronoun
@@ -10927,11 +10927,11 @@ verb
 71702	verb
 71707	verb
 71719	noun
-71722	verb
+71722	noun other indeclinable
 verb
-71728	verb
+71728	noun other indeclinable
 verb
-71734	relative pronoun
+71734	noun other indeclinable
 71742	verb
 71753	proper noun indeclinable
 noun
@@ -10947,25 +10947,25 @@ verb
 71800	verb
 relative pronoun
 71807	noun
-71821	adverb
-71829	verb
-adverb
+71821	noun other indeclinable
+71829	noun other indeclinable
+noun other indeclinable
 71837	verb
 71851	personal pronoun
-71869	verb
+71869	noun other indeclinable
 71880	verb
 71883	verb
 71886	verb
-71890	verb
+71890	noun other indeclinable
 71898	verb
-verb
+noun other indeclinable
 71905	verb
-71916	verb
+71916	noun other indeclinable
 verb
 71923	verb
-relative pronoun
-71933	verb
-71945	relative pronoun
+noun other indeclinable
+71933	noun other indeclinable
+71945	noun other indeclinable
 71951	noun
 71960	verb
 71964	verb
@@ -10976,45 +10976,45 @@ relative pronoun
 71993	noun
 72009	verb
 72027	noun
-72030	conjunction
+72030	noun other indeclinable
 72032	verb
 72043	noun
 72049	proper noun indeclinable
 72052	verb
-72055	verb
+72055	noun other indeclinable
 72062	noun
 72072	verb
 72083	verb
-72085	conjunction
+72085	noun other indeclinable
 72099	verb
 72104	verb
-72118	verb
+72118	noun other indeclinable
 72120	verb
 72124	verb
-72127	unknown
+72127	noun
+noun other indeclinable
 verb
-verb
-72133	verb
+72133	noun other indeclinable
 72141	verb
 72152	noun
 72177	verb
-72181	verb
+72181	noun other indeclinable
 72192	noun
 72208	verb
 72213	verb
 verb
 72239	verb
-72262	verb
-72267	conjunction
+72262	noun other indeclinable
+72267	noun other indeclinable
 72272	verb
 72275	verb
-72288	conjunction
-72307	adverb
+72288	noun other indeclinable
+72307	noun other indeclinable
 72309	verb
-72314	verb
+72314	noun other indeclinable
 72322	verb
 72325	noun
-72327	verb
+72327	noun other indeclinable
 noun
 72330	verb
 72336	verb
@@ -11028,7 +11028,7 @@ proper noun indeclinable
 72360	verb
 72369	verb
 72373	noun
-72416	verb
+72416	noun other indeclinable
 72419	verb
 72421	verb
 72426	noun
@@ -11043,10 +11043,10 @@ proper noun indeclinable
 verb
 72537	noun
 72543	verb
-72560	conjunction
-72564	verb
+72560	noun other indeclinable
+72564	noun other indeclinable
 72568	noun
-72592	conjunction
+72592	noun other indeclinable
 72605	verb
 72614	noun
 72619	verb
@@ -11057,7 +11057,7 @@ verb
 72658	verb
 72669	verb
 72682	verb
-72690	verb
+72690	noun other indeclinable
 verb
 72695	verb
 verb
@@ -11065,14 +11065,14 @@ verb
 72726	verb
 72731	verb
 verb
-72772	verb
+72772	noun other indeclinable
 72778	verb
-verb
+noun other indeclinable
 72788	verb
 72793	verb
 72796	verb
 verb
-72806	conjunction
+72806	noun other indeclinable
 72820	noun
 72824	verb
 verb
@@ -11082,7 +11082,7 @@ verb
 72864	verb
 72869	noun
 72874	verb
-72879	adverb
+72879	noun other indeclinable
 72881	verb
 72885	verb
 72892	verb
@@ -11093,17 +11093,17 @@ verb
 72933	verb
 72968	verb
 72970	personal pronoun
-72980	verb
+72980	noun other indeclinable
 72987	verb
 72995	verb
 72999	personal pronoun
 73002	verb
-73018	verb
-73021	verb
-73033	relative pronoun
-73038	verb
-73045	verb
-73052	relative pronoun
+73018	noun other indeclinable
+73021	noun other indeclinable
+73033	noun other indeclinable
+73038	noun other indeclinable
+73045	noun other indeclinable
+73052	noun other indeclinable
 73062	noun
 73077	verb
 73094	verb
@@ -11114,44 +11114,44 @@ verb
 73109	proper noun indeclinable
 73128	verb
 73130	verb
-73138	relative pronoun
+73138	noun other indeclinable
 73147	verb
-73153	adverb
+73153	noun other indeclinable
 73164	verb
 73168	verb
 73172	personal pronoun
-verb
+noun other indeclinable
 73177	verb
 73185	personal pronoun
-73188	verb
+73188	noun other indeclinable
 73191	personal pronoun
 73200	verb
 73211	verb
-73217	relative pronoun
+73217	noun other indeclinable
 73221	proper noun indeclinable
 73228	verb
 73238	verb
 73245	verb
-73280	relative pronoun
-73282	verb
+73280	noun other indeclinable
+73282	noun other indeclinable
 73301	verb
 73312	proper noun indeclinable
 noun
 73315	proper noun indeclinable
 noun
-73319	verb
+73319	noun other indeclinable
 73321	verb
 73325	noun
 verb
 73334	verb
 73337	verb
 73364	noun
-73376	verb
-73380	verb
-73392	verb
+73376	noun other indeclinable
+73380	noun other indeclinable
+73392	noun other indeclinable
 73396	personal pronoun
 verb
-73406	verb
+73406	noun other indeclinable
 73415	verb
 73417	verb
 73429	proper noun indeclinable
@@ -11162,12 +11162,12 @@ verb
 73475	personal pronoun
 73480	verb
 73482	verb
-73497	conjunction
+73497	noun other indeclinable
 noun
 noun
 73504	verb
 73506	verb
-73516	adverb
+73516	noun other indeclinable
 73519	proper noun indeclinable
 73526	noun
 73537	noun
@@ -11179,7 +11179,7 @@ noun
 73599	personal pronoun
 73605	verb
 73613	verb
-73621	verb
+73621	noun other indeclinable
 73644	personal pronoun
 73658	verb
 73666	verb
@@ -11187,18 +11187,18 @@ noun
 73682	verb
 73691	personal pronoun
 73697	personal pronoun
-73702	relative pronoun
+73702	noun other indeclinable
 73705	verb
 73723	verb
 73732	verb
-73739	verb
+73739	noun other indeclinable
 73763	noun
 73767	verb
 73774	verb
 73787	verb
 73793	personal pronoun
 73804	noun
-73811	conjunction
+73811	noun other indeclinable
 73815	verb
 73840	personal pronoun
 73846	proper noun indeclinable
@@ -11206,14 +11206,14 @@ noun
 73871	verb
 73874	verb
 73888	proper noun indeclinable
-verb
-73892	verb
+noun other indeclinable
+73892	noun other indeclinable
 73898	proper noun indeclinable
 73902	verb
 73908	verb
 73917	verb
 verb
-73951	verb
+73951	noun other indeclinable
 73969	verb
 74005	noun
 74008	verb
@@ -11221,7 +11221,7 @@ verb
 74015	verb
 74020	verb
 74028	verb
-74042	verb
+74042	noun other indeclinable
 74059	verb
 74070	verb
 74083	verb
@@ -11241,7 +11241,7 @@ verb
 74234	verb
 74240	verb
 74243	verb
-74245	verb
+74245	noun other indeclinable
 74250	noun
 74254	noun
 proper noun indeclinable
@@ -11251,7 +11251,7 @@ proper noun indeclinable
 verb
 noun
 74318	verb
-74344	verb
+74344	noun other indeclinable
 74356	noun
 74362	verb
 74364	noun
@@ -11274,13 +11274,13 @@ verb
 74442	verb
 verb
 74470	noun
-verb
+noun other indeclinable
 74486	verb
 74488	verb
 74490	verb
 74506	noun
 verb
-74509	verb
+74509	noun other indeclinable
 74513	noun
 74516	personal pronoun
 74519	personal pronoun
@@ -11299,13 +11299,13 @@ verb
 74650	verb
 74652	noun
 verb
-74678	verb
+74678	noun other indeclinable
 verb
 74690	verb
 74695	verb
 74700	verb
 74706	proper noun indeclinable
-verb
+noun other indeclinable
 74713	verb
 74730	verb
 74759	verb
@@ -11313,40 +11313,40 @@ verb
 74771	verb
 74778	noun
 74783	verb
-74793	adverb
-74796	conjunction
-74811	verb
+74793	noun other indeclinable
+74796	noun other indeclinable
+74811	noun other indeclinable
 74827	noun
-74832	verb
-74845	relative pronoun
+74832	noun other indeclinable
+74845	noun other indeclinable
 74849	verb
 74853	proper noun indeclinable
 74855	proper noun indeclinable
-74863	verb
+74863	noun other indeclinable
 74868	verb
 74881	noun
 74884	verb
-74893	verb
+74893	noun other indeclinable
 74895	noun
 74900	verb
 74904	noun
 74916	verb
 74922	noun
-74930	conjunction
+74930	noun other indeclinable
 74936	noun
 verb
-74942	relative pronoun
+74942	noun other indeclinable
 74971	verb
 74978	noun
-74986	verb
+74986	noun other indeclinable
 74989	verb
-74999	verb
+74999	noun other indeclinable
 75002	noun
 75018	noun
 75024	verb
 75028	noun
 75031	verb
-75037	relative pronoun
+75037	noun other indeclinable
 75045	verb
 75051	verb
 75074	verb
@@ -11360,7 +11360,7 @@ verb
 75108	verb
 75112	verb
 75119	verb
-75122	verb
+75122	noun other indeclinable
 75136	personal pronoun
 verb
 75151	noun
@@ -11378,24 +11378,24 @@ verb
 75268	proper noun indeclinable
 75298	noun
 75314	verb
-75322	verb
+75322	noun other indeclinable
 75324	verb
 75327	verb
 75331	personal pronoun
 75337	noun
 75345	verb
 75352	verb
-75356	verb
-75363	verb
+75356	noun other indeclinable
+75363	noun other indeclinable
 75377	personal pronoun
 75399	personal pronoun
 75420	personal pronoun
-75428	verb
+75428	noun other indeclinable
 75453	verb
 75462	personal pronoun
 75464	proper noun indeclinable
 75492	noun
-75511	conjunction
+75511	noun other indeclinable
 75527	numeral
 75539	verb
 75544	verb
@@ -11415,15 +11415,15 @@ noun
 75671	noun
 75673	verb
 75679	noun
-75695	verb
+75695	noun other indeclinable
 75703	verb
 75709	noun
 75723	verb
 75727	verb
 75729	verb
-relative pronoun
+noun other indeclinable
 75733	personal pronoun
-75740	verb
+75740	noun other indeclinable
 75750	verb
 75752	verb
 75764	personal pronoun
@@ -11431,13 +11431,13 @@ relative pronoun
 75780	personal pronoun
 75786	noun
 75793	noun
-75798	relative pronoun
+75798	noun other indeclinable
 noun
-75804	verb
+75804	noun other indeclinable
 75807	noun
-75816	verb
-75826	verb
-75835	verb
+75816	noun other indeclinable
+75826	noun other indeclinable
+75835	noun other indeclinable
 75837	verb
 75839	proper noun indeclinable
 75844	verb
@@ -11454,19 +11454,19 @@ noun
 75919	verb
 75924	verb
 75927	verb
-75934	verb
+75934	noun other indeclinable
 75937	noun
 verb
-75944	relative pronoun
+75944	noun other indeclinable
 75952	proper noun indeclinable
 75955	verb
-75958	verb
+75958	noun other indeclinable
 75962	verb
 75979	proper noun indeclinable
-verb
+noun other indeclinable
 75983	verb
 75987	noun
-75989	verb
+75989	noun other indeclinable
 75991	verb
 verb
 75995	verb
@@ -11475,9 +11475,9 @@ verb
 76019	verb
 76033	verb
 76035	noun
-76044	noun
-76050	verb
-76058	relative pronoun
+76044	noun other indeclinable
+76050	noun other indeclinable
+76058	noun other indeclinable
 76060	verb
 76064	verb
 76075	verb
@@ -11487,10 +11487,10 @@ verb
 76090	verb
 76092	noun
 76102	proper noun indeclinable
-76113	verb
-adverb
-76119	verb
-76121	verb
+76113	noun other indeclinable
+noun other indeclinable
+76119	noun other indeclinable
+76121	noun other indeclinable
 76126	verb
 76131	verb
 76135	verb
@@ -11499,29 +11499,29 @@ personal pronoun
 76143	verb
 76153	verb
 76155	verb
-76161	verb
+76161	noun other indeclinable
 76202	noun
 76216	noun
 76229	verb
-76232	verb
-76243	relative pronoun
+76232	noun other indeclinable
+76243	noun other indeclinable
 76273	proper noun indeclinable
 76275	verb
 76291	proper noun indeclinable
 76295	verb
 76306	verb
-76310	conjunction
+76310	noun other indeclinable
 76320	verb
 76334	verb
 76337	noun
-verb
+noun other indeclinable
 76346	verb
 76355	verb
 76361	verb
-76368	verb
+76368	noun other indeclinable
 76370	verb
 76376	verb
-76379	verb
+76379	noun other indeclinable
 76384	verb
 76390	noun
 76393	personal pronoun
@@ -11529,11 +11529,11 @@ verb
 76408	verb
 76414	verb
 76422	verb
-76430	conjunction
+76430	noun other indeclinable
 76433	verb
 76448	verb
 76499	noun
-76507	verb
+76507	noun other indeclinable
 76517	verb
 76538	verb
 verb
@@ -11544,21 +11544,21 @@ verb
 76577	noun
 76585	verb
 76594	verb
-76597	verb
-76601	conjunction
+76597	noun other indeclinable
+76601	noun other indeclinable
 76606	verb
-76614	unknown
+76614	noun other indeclinable
 proper noun indeclinable
 76619	verb
-76628	verb
+76628	noun other indeclinable
 76646	verb
 76653	noun
 76655	personal pronoun
 76668	noun
 76678	noun
-76687	verb
+76687	noun other indeclinable
 76690	verb
-76692	verb
+76692	noun other indeclinable
 76696	proper noun indeclinable
 76701	verb
 76706	verb
@@ -11572,10 +11572,10 @@ proper noun indeclinable
 76802	verb
 76809	noun
 76811	verb
-relative pronoun
+noun other indeclinable
 76814	verb
 76821	verb
-76833	verb
+76833	noun other indeclinable
 76848	noun
 noun
 76853	verb
@@ -11596,8 +11596,8 @@ noun
 76940	verb
 76948	verb
 76951	verb
-76959	verb
-76961	conjunction
+76959	noun other indeclinable
+76961	noun other indeclinable
 76966	verb
 76992	verb
 76994	verb
@@ -11609,8 +11609,8 @@ noun
 77032	verb
 77035	verb
 77043	verb
-77049	relative pronoun
-77056	verb
+77049	noun other indeclinable
+77056	noun other indeclinable
 77063	noun
 77074	verb
 77086	verb
@@ -11644,9 +11644,9 @@ verb
 77260	verb
 77271	verb
 77276	verb
-conjunction
+noun other indeclinable
 77283	personal pronoun
-77320	relative pronoun
+77320	noun other indeclinable
 77328	noun
 77346	noun
 77356	verb
@@ -11655,7 +11655,7 @@ conjunction
 77379	verb
 77386	personal pronoun
 77405	verb
-verb
+noun other indeclinable
 77409	verb
 77430	verb
 77437	verb
@@ -11663,13 +11663,13 @@ verb
 77472	verb
 77484	noun
 77489	noun
-77517	verb
+77517	noun other indeclinable
 77528	verb
 77537	verb
-77543	verb
+77543	noun other indeclinable
 77551	verb
 77560	verb
-77571	verb
+77571	noun other indeclinable
 77588	noun
 77593	verb
 verb
@@ -11679,56 +11679,56 @@ verb
 77606	verb
 77610	verb
 77614	verb
-77621	verb
+77621	noun other indeclinable
 77624	verb
 77633	verb
 77637	verb
 77648	unknown
-77667	conjunction
-77671	relative pronoun
+77667	noun other indeclinable
+77671	noun other indeclinable
 77689	verb
 77706	verb
 77708	verb
-77714	verb
+77714	noun other indeclinable
 77716	noun
 77720	verb
 verb
 77736	verb
 77741	verb
-relative pronoun
+noun other indeclinable
 77747	verb
 77750	verb
 77752	noun
 77759	noun
 77769	verb
-77780	verb
-77785	relative pronoun
+77780	noun other indeclinable
+77785	noun other indeclinable
 77808	verb
 verb
 77814	noun
-77819	adverb
+77819	noun other indeclinable
 77827	proper noun indeclinable
-verb
+noun other indeclinable
 77830	verb
 77844	verb
 77848	verb
 77853	verb
 77856	verb
 noun
-77859	relative pronoun
+77859	noun other indeclinable
 77866	verb
 77869	noun
 77871	verb
 77875	verb
 77879	verb
-77882	adverb
+77882	noun other indeclinable
 77884	verb
-77893	verb
+77893	noun other indeclinable
 77898	noun
-77902	verb
+77902	noun other indeclinable
 77919	proper noun indeclinable
 77923	verb
-77931	verb
+77931	noun other indeclinable
 77942	verb
 77944	verb
 77947	noun
@@ -11738,11 +11738,11 @@ noun
 verb
 77975	verb
 77977	verb
-77980	verb
+77980	noun other indeclinable
 77995	proper noun indeclinable
 77998	proper noun indeclinable
 78003	verb
-78017	verb
+78017	noun other indeclinable
 78022	verb
 78024	verb
 78039	verb
@@ -11753,16 +11753,16 @@ verb
 noun
 78067	verb
 78073	proper noun indeclinable
-78114	relative pronoun
+78114	noun other indeclinable
 78126	verb
 78139	verb
 78154	noun
-78163	conjunction
+78163	noun other indeclinable
 78178	verb
 noun
 78189	verb
 78202	noun
-verb
+noun other indeclinable
 78208	proper noun indeclinable
 78225	proper noun indeclinable
 verb
@@ -11773,9 +11773,9 @@ verb
 78306	verb
 78312	verb
 78319	verb
-verb
+noun other indeclinable
 78322	personal pronoun
-78329	relative pronoun
+78329	noun other indeclinable
 78337	personal pronoun
 78356	verb
 78362	verb
@@ -11784,12 +11784,12 @@ verb
 78421	personal pronoun
 78436	personal pronoun
 78441	verb
-78449	verb
+78449	noun other indeclinable
 78452	noun
 78454	verb
 78456	personal pronoun
 78461	verb
-78470	verb
+78470	noun other indeclinable
 78477	verb
 78484	verb
 78486	verb
@@ -11804,22 +11804,22 @@ verb
 78594	verb
 78596	verb
 78599	noun
-78608	relative pronoun
+78608	noun other indeclinable
 78615	personal pronoun
 78618	noun
-78622	verb
+78622	noun other indeclinable
 78638	verb
 78664	noun
-78677	verb
+78677	noun other indeclinable
 78679	verb
 78687	noun
-78707	verb
+78707	noun other indeclinable
 78709	verb
 78724	verb
 78738	personal pronoun
 78764	verb
 78769	verb
-78774	verb
+78774	noun other indeclinable
 78784	noun
 78805	noun
 78807	verb
@@ -11834,15 +11834,15 @@ verb
 78898	verb
 78905	verb
 78911	noun
-78941	verb
-78947	verb
+78941	noun other indeclinable
+78947	noun other indeclinable
 78949	verb
 78951	noun
 78959	noun
 78964	verb
 78976	verb
 78982	verb
-78986	relative pronoun
+78986	noun other indeclinable
 78990	verb
 79007	noun
 79026	verb
@@ -11854,7 +11854,7 @@ verb
 79093	noun
 verb
 79101	verb
-79110	relative pronoun
+79110	noun other indeclinable
 79128	verb
 79146	verb
 verb
@@ -11865,11 +11865,11 @@ verb
 79185	verb
 79202	verb
 79205	verb
-79219	verb
-79224	verb
+79219	noun other indeclinable
+79224	noun other indeclinable
 verb
 79229	verb
-79234	verb
+79234	noun other indeclinable
 noun
 79241	verb
 79245	verb
@@ -11880,12 +11880,12 @@ verb
 79280	proper noun indeclinable
 79283	verb
 79286	verb
-79294	noun
+79294	noun other indeclinable
 79303	verb
 79305	verb
 79318	verb
 79326	proper noun indeclinable
-79354	relative pronoun
+79354	noun other indeclinable
 79360	verb
 79375	verb
 79383	noun
@@ -11894,7 +11894,7 @@ verb
 79407	verb
 79414	verb
 79432	personal pronoun
-79448	conjunction
+79448	noun other indeclinable
 79452	verb
 79487	verb
 79491	verb
@@ -11907,12 +11907,12 @@ verb
 79546	verb
 79564	verb
 79582	verb
-verb
+noun other indeclinable
 79597	verb
 79615	verb
 79626	proper noun indeclinable
 79634	verb
-79646	verb
+79646	noun other indeclinable
 79655	verb
 79673	verb
 verb
@@ -11921,7 +11921,7 @@ verb
 79691	noun
 verb
 noun
-relative pronoun
+noun other indeclinable
 79697	proper noun indeclinable
 79704	verb
 79713	verb
@@ -11929,7 +11929,7 @@ personal pronoun
 79723	noun
 79732	personal pronoun
 79750	noun
-79769	relative pronoun
+79769	noun other indeclinable
 79773	proper noun indeclinable
 79787	verb
 79795	verb
@@ -11940,7 +11940,7 @@ personal pronoun
 79867	noun
 79870	verb
 79873	personal pronoun
-79887	relative pronoun
+79887	noun other indeclinable
 79914	noun
 79916	verb
 79925	verb
@@ -11967,7 +11967,7 @@ personal pronoun
 80124	verb
 80128	personal pronoun
 80130	verb
-80133	verb
+80133	noun other indeclinable
 80147	verb
 80169	noun
 80173	noun
@@ -11987,26 +11987,26 @@ verb
 80281	verb
 80283	proper noun indeclinable
 80288	verb
-80305	verb
+80305	noun other indeclinable
 80308	verb
 80312	verb
 verb
 verb
-80318	verb
+80318	noun other indeclinable
 80343	verb
 80348	noun
-80358	verb
+80358	noun other indeclinable
 80363	verb
 80366	verb
 80375	verb
-80379	verb
+80379	noun other indeclinable
 80389	verb
 80393	noun
 80396	verb
 80398	verb
-80408	verb
+80408	noun other indeclinable
 80410	verb
-80413	verb
+80413	noun other indeclinable
 80422	verb
 80426	noun
 80429	verb
@@ -12014,7 +12014,7 @@ verb
 80440	verb
 80445	verb
 80452	verb
-80459	verb
+80459	noun other indeclinable
 80465	verb
 80478	proper noun indeclinable
 80481	verb
@@ -12022,18 +12022,18 @@ verb
 80487	verb
 80489	proper noun indeclinable
 80504	verb
-80560	noun
+80560	noun other indeclinable
 80572	noun
 80614	personal pronoun
 80617	personal pronoun
 80632	verb
 80636	verb
-80656	verb
+80656	noun other indeclinable
 noun
 80659	personal pronoun
-80661	verb
-80669	verb
-80677	verb
+80661	noun other indeclinable
+80669	noun other indeclinable
+80677	noun other indeclinable
 80683	verb
 verb
 verb
@@ -12049,7 +12049,7 @@ verb
 80751	verb
 80758	verb
 80770	verb
-80775	relative pronoun
+80775	noun other indeclinable
 80785	noun
 verb
 80803	noun
@@ -12058,7 +12058,7 @@ verb
 80819	noun
 verb
 verb
-80836	relative pronoun
+80836	noun other indeclinable
 80847	proper noun indeclinable
 80851	noun
 80866	personal pronoun
@@ -12088,26 +12088,26 @@ noun
 81158	verb
 81177	noun
 81182	verb
-81190	verb
+81190	noun other indeclinable
 81197	verb
 81203	verb
 81229	verb
-81237	verb
+81237	noun other indeclinable
 81244	verb
 81253	verb
 81275	verb
 verb
-81280	verb
+81280	noun other indeclinable
 81286	verb
-81288	verb
+81288	noun other indeclinable
 81292	noun
 81295	verb
 81297	verb
 81304	proper noun indeclinable
 81317	noun
-81321	verb
+81321	noun other indeclinable
 verb
-verb
+noun other indeclinable
 81332	verb
 81337	noun
 81348	verb
@@ -12120,16 +12120,16 @@ verb
 81413	verb
 81438	verb
 81454	verb
-81462	verb
+81462	noun other indeclinable
 81474	verb
 81478	verb
-81480	verb
+81480	noun other indeclinable
 81482	noun
 81486	proper noun indeclinable
 81489	verb
 81501	verb
 noun
-81512	verb
+81512	noun other indeclinable
 81523	verb
 81536	noun
 81539	personal pronoun
@@ -12140,11 +12140,11 @@ verb
 81591	verb
 81597	verb
 81607	noun
-81618	verb
+81618	noun other indeclinable
 81627	verb
-81636	verb
-81650	verb
-81653	verb
+81636	noun other indeclinable
+81650	noun other indeclinable
+81653	noun other indeclinable
 81658	verb
 81673	verb
 81686	personal pronoun
@@ -12153,7 +12153,7 @@ verb
 verb
 noun
 81718	noun
-relative pronoun
+noun other indeclinable
 81727	verb
 81739	verb
 81751	noun
@@ -12162,9 +12162,9 @@ relative pronoun
 81806	verb
 81812	adjective
 81815	verb
-81820	verb
+81820	noun other indeclinable
 81835	verb
-81854	conjunction
+81854	noun other indeclinable
 81857	verb
 81859	verb
 81867	noun
@@ -12184,7 +12184,7 @@ verb
 82033	verb
 82043	verb
 82048	proper noun indeclinable
-82060	verb
+82060	noun other indeclinable
 82063	verb
 verb
 82082	verb
@@ -12194,12 +12194,12 @@ verb
 82106	verb
 82113	noun
 82119	verb
-82122	adverb
+82122	noun other indeclinable
 82131	verb
 82148	verb
 82151	verb
-82154	relative pronoun
-82161	verb
+82154	noun other indeclinable
+82161	noun other indeclinable
 82169	personal pronoun
 82174	verb
 82177	verb
@@ -12209,10 +12209,10 @@ noun
 noun
 82216	verb
 82220	verb
-relative pronoun
+noun other indeclinable
 82227	verb
 82235	verb
-82239	verb
+82239	noun other indeclinable
 82248	personal pronoun
 82250	proper noun indeclinable
 82253	verb
@@ -12226,11 +12226,11 @@ noun
 82308	verb
 82321	verb
 82325	verb
-82327	verb
+82327	noun other indeclinable
 82335	verb
 82347	noun
 82371	verb
-82375	noun
+82375	noun other indeclinable
 82402	noun
 82408	noun
 82412	verb
@@ -12244,7 +12244,7 @@ noun
 82497	verb
 82501	noun
 82515	verb
-82525	relative pronoun
+82525	noun other indeclinable
 82528	personal pronoun
 verb
 verb
@@ -12257,17 +12257,17 @@ verb
 82582	verb
 82591	verb
 82594	verb
-verb
+noun other indeclinable
 82616	verb
 82627	verb
 82635	verb
 82645	personal pronoun
 82647	personal pronoun
-verb
+noun other indeclinable
 82665	proper noun indeclinable
 82672	verb
-82674	verb
-82677	verb
+82674	noun other indeclinable
+82677	noun other indeclinable
 82721	personal pronoun
 82724	proper noun indeclinable
 82729	verb
@@ -12278,11 +12278,11 @@ verb
 82792	noun
 82807	noun
 82811	verb
-82813	verb
+82813	noun other indeclinable
 82815	verb
 82819	verb
 82821	noun
-82823	relative pronoun
+82823	noun other indeclinable
 82827	verb
 82830	noun
 82839	verb
@@ -12308,7 +12308,7 @@ relative pronoun
 82990	verb
 83015	verb
 83034	verb
-83042	verb
+83042	noun other indeclinable
 83054	noun
 83056	verb
 83059	proper noun indeclinable
@@ -12317,89 +12317,89 @@ relative pronoun
 verb
 83081	noun
 83083	verb
-83085	verb
+83085	noun other indeclinable
 83090	verb
 83098	verb
 83101	verb
 verb
-verb
+noun other indeclinable
 83110	verb
 83114	verb
-83125	verb
-83133	verb
-83144	verb
+83125	noun other indeclinable
+83133	noun other indeclinable
+83144	noun other indeclinable
 83147	verb
 83155	verb
 83159	verb
 83162	noun
 83168	noun
-83179	verb
-83191	verb
-83195	verb
+83179	noun other indeclinable
+83191	noun other indeclinable
+83195	noun other indeclinable
 83199	verb
-83201	relative pronoun
-83217	verb
+83201	noun other indeclinable
+83217	noun other indeclinable
 83221	verb
 83225	verb
-83243	verb
+83243	noun other indeclinable
 83245	noun
-83247	verb
+83247	noun other indeclinable
 83274	verb
-83276	verb
-83280	verb
+83276	noun other indeclinable
+83280	noun other indeclinable
 83287	verb
-83302	verb
+83302	noun other indeclinable
 83309	verb
 83312	verb
 83321	noun
 83326	verb
-verb
+noun other indeclinable
 83345	verb
 83347	verb
 83349	proper noun indeclinable
-83357	verb
+83357	noun other indeclinable
 83364	verb
-83367	verb
+83367	noun other indeclinable
 83374	proper noun indeclinable
 83383	verb
 verb
 83400	verb
-83402	relative pronoun
+83402	noun other indeclinable
 verb
 83405	verb
 83407	verb
-83409	verb
+83409	noun other indeclinable
 83418	verb
 83421	verb
 83426	verb
 83429	verb
-verb
+noun other indeclinable
 83434	verb
-83446	verb
+83446	noun other indeclinable
 83448	verb
 83450	verb
 83456	proper noun indeclinable
-83459	verb
+83459	noun other indeclinable
 83466	verb
-verb
+noun other indeclinable
 83469	noun
 83475	verb
 noun
-83485	verb
+83485	noun other indeclinable
 noun
 83503	verb
 83506	noun
 83508	unknown
 83511	personal pronoun
 83516	verb
-83520	verb
+83520	noun other indeclinable
 83522	verb
-83527	verb
+83527	noun other indeclinable
 83536	verb
 83538	verb
-83540	verb
+83540	noun other indeclinable
 83548	verb
-83550	verb
+83550	noun other indeclinable
 verb
 83558	verb
 83560	proper noun indeclinable
@@ -12414,7 +12414,7 @@ proper noun indeclinable
 83600	verb
 verb
 83607	verb
-83620	verb
+83620	noun other indeclinable
 83623	verb
 83627	verb
 proper noun indeclinable
@@ -12434,7 +12434,7 @@ verb
 83697	verb
 83700	verb
 83703	verb
-verb
+noun other indeclinable
 83706	verb
 83711	verb
 83713	verb
@@ -12449,7 +12449,7 @@ verb
 83767	verb
 83777	noun
 83784	noun
-83796	verb
+83796	noun other indeclinable
 83799	noun
 83804	personal pronoun
 verb
@@ -12461,11 +12461,11 @@ verb
 83823	verb
 proper noun indeclinable
 83827	verb
-83842	verb
+83842	noun other indeclinable
 83856	verb
 83858	verb
-verb
-adverb
+noun other indeclinable
+noun other indeclinable
 83862	verb
 83865	proper noun indeclinable
 noun
@@ -12473,21 +12473,21 @@ noun
 83873	noun
 83880	verb
 83882	verb
-83886	verb
+83886	noun other indeclinable
 83894	proper noun indeclinable
 83905	verb
-83908	verb
+83908	noun other indeclinable
 verb
 83913	verb
 83916	verb
-83922	verb
+83922	noun other indeclinable
 83938	noun
 83944	proper noun indeclinable
-83948	verb
+83948	noun other indeclinable
 83951	noun
 83957	verb
 83963	verb
-83967	verb
+83967	noun other indeclinable
 83972	verb
 83975	verb
 verb
@@ -12504,13 +12504,13 @@ verb
 84016	noun
 84019	verb
 verb
-84025	verb
-84032	verb
-84035	verb
+84025	noun other indeclinable
+84032	noun other indeclinable
+84035	noun other indeclinable
 84037	verb
-84040	verb
+84040	noun other indeclinable
 84045	verb
-84047	verb
+84047	noun other indeclinable
 84060	verb
 84067	verb
 84072	verb
@@ -12523,10 +12523,10 @@ noun
 84098	verb
 verb
 84106	verb
-84116	verb
+84116	noun other indeclinable
 84118	verb
 verb
-84122	verb
+84122	noun other indeclinable
 84131	verb
 84133	verb
 84143	verb
@@ -12534,10 +12534,10 @@ verb
 84149	noun
 84151	verb
 84161	verb
-verb
+noun other indeclinable
 84169	verb
 84173	verb
-relative pronoun
+noun other indeclinable
 84183	noun
 verb
 84189	proper noun indeclinable
@@ -12548,7 +12548,7 @@ noun
 84230	verb
 84232	verb
 84234	verb
-noun
+noun other indeclinable
 84240	verb
 84244	noun
 84258	proper noun indeclinable
@@ -12556,12 +12556,12 @@ noun
 84267	noun
 84269	personal pronoun
 84272	verb
-84277	verb
+84277	noun other indeclinable
 84279	verb
 84289	verb
 84294	verb
 84300	verb
-84302	verb
+84302	noun other indeclinable
 84324	proper noun indeclinable
 84326	verb
 84328	noun
@@ -12571,20 +12571,20 @@ noun
 noun
 84370	verb
 84376	noun
-84380	verb
+84380	noun other indeclinable
 84388	noun
-84390	verb
+84390	noun other indeclinable
 84399	noun
-84405	verb
+84405	noun other indeclinable
 84407	verb
 84409	verb
-84416	verb
+84416	noun other indeclinable
 84436	noun
 verb
 84442	verb
 noun
 84454	verb
-84462	adverb
+84462	noun other indeclinable
 84470	verb
 verb
 84476	noun
@@ -12604,19 +12604,19 @@ verb
 84595	verb
 verb
 84601	verb
-84613	verb
+84613	noun other indeclinable
 verb
 84616	verb
+noun other indeclinable
+84620	noun other indeclinable
 verb
-84620	verb
-verb
-84623	verb
+84623	noun other indeclinable
 84628	verb
-84635	verb
+84635	noun other indeclinable
 84656	verb
 84660	verb
 84662	verb
-84669	verb
+84669	noun other indeclinable
 84678	noun
 84684	verb
 84693	verb
@@ -12627,7 +12627,7 @@ noun
 84744	verb
 84766	verb
 84773	proper noun indeclinable
-84776	relative pronoun
+84776	noun other indeclinable
 84798	verb
 84814	verb
 84823	verb
@@ -12643,15 +12643,15 @@ proper noun indeclinable
 84898	verb
 noun
 84901	verb
-84917	verb
-adverb
+84917	noun other indeclinable
+noun other indeclinable
 84927	verb
 84931	verb
-84934	verb
+84934	noun other indeclinable
 84955	verb
 84958	verb
 84960	verb
-84962	verb
+84962	noun other indeclinable
 84966	noun
 84977	verb
 84987	verb
@@ -12659,39 +12659,39 @@ adverb
 84997	noun
 84999	verb
 85003	verb
-85022	verb
+85022	noun other indeclinable
 85031	verb
 85039	noun
 85041	verb
 85043	verb
-85049	verb
+85049	noun other indeclinable
 85051	verb
 85056	verb
-85059	verb
+85059	noun other indeclinable
 85062	noun
 85064	verb
 85072	verb
 85074	noun
 85079	verb
 85087	noun
-85108	conjunction
-verb
+85108	noun other indeclinable
+noun other indeclinable
 85118	verb
-85144	relative pronoun
+85144	noun other indeclinable
 85157	personal pronoun
 85165	verb
-85169	verb
+85169	noun other indeclinable
 85174	verb
-85183	relative pronoun
+85183	noun other indeclinable
 85214	noun
 85219	personal pronoun
 85221	verb
-85230	verb
+85230	noun other indeclinable
 verb
 verb
 noun
 85238	noun
-85240	relative pronoun
+85240	noun other indeclinable
 85262	noun
 85264	verb
 85267	verb
@@ -12700,25 +12700,25 @@ noun
 85279	verb
 85281	personal pronoun
 85287	noun
-85303	verb
+85303	noun other indeclinable
 85311	noun
 85316	noun
 85320	verb
 85331	noun
-85341	verb
+85341	noun other indeclinable
 85343	verb
 verb
 85359	noun
 85370	verb
 noun
-85379	verb
+85379	noun other indeclinable
 85390	verb
 85392	verb
 85439	verb
 85455	verb
 verb
-85473	verb
-85481	verb
+85473	noun other indeclinable
+85481	noun other indeclinable
 85490	verb
 85494	proper noun indeclinable
 85501	verb
@@ -12743,7 +12743,7 @@ noun
 85647	verb
 85670	proper noun indeclinable
 85680	verb
-85683	verb
+85683	noun other indeclinable
 85687	verb
 85689	verb
 verb
@@ -12757,20 +12757,20 @@ verb
 85737	verb
 85763	noun
 85775	verb
-85784	verb
+85784	noun other indeclinable
 85787	proper noun indeclinable
 85791	proper noun indeclinable
 noun
-85796	verb
-85812	verb
-85818	verb
+85796	noun other indeclinable
+85812	noun other indeclinable
+85818	noun other indeclinable
 85833	verb
 85840	noun
 85845	verb
 85854	verb
 verb
 85860	noun
-85864	verb
+85864	noun other indeclinable
 85866	proper noun indeclinable
 verb
 85903	verb
@@ -12786,23 +12786,23 @@ verb
 85987	verb
 85994	verb
 86006	verb
-86009	verb
+86009	noun other indeclinable
 86012	verb
-86016	adverb
-verb
-86021	verb
+86016	noun
+noun other indeclinable
+86021	noun other indeclinable
 86029	verb
 86041	verb
 86043	verb
 86057	verb
 86062	verb
-86065	verb
+86065	noun other indeclinable
 86069	noun
 86082	verb
 86088	verb
-86097	verb
-86110	verb
-86117	verb
+86097	noun other indeclinable
+86110	noun other indeclinable
+86117	noun other indeclinable
 86131	verb
 86136	noun
 86140	verb
@@ -12810,14 +12810,14 @@ verb
 86148	verb
 86151	verb
 86158	noun
-86162	verb
-86172	verb
+86162	noun other indeclinable
+86172	noun other indeclinable
 86184	verb
-86190	verb
+86190	noun other indeclinable
 86193	noun
-86202	verb
-86212	verb
-86221	verb
+86202	noun other indeclinable
+86212	noun other indeclinable
+86221	noun other indeclinable
 86226	verb
 86228	verb
 86231	personal pronoun
@@ -12830,25 +12830,25 @@ verb
 86273	verb
 86278	noun
 personal pronoun
-86281	verb
-86292	verb
+86281	noun other indeclinable
+86292	noun other indeclinable
 86294	verb
-verb
+noun other indeclinable
 86299	verb
-adverb
-verb
+noun
+noun other indeclinable
 86309	noun
-86317	verb
+86317	noun other indeclinable
 86323	noun
 86329	noun
 86340	verb
-adverb
-verb
+noun
+noun other indeclinable
 86347	verb
 86350	verb
 86352	proper noun indeclinable
 86356	noun
-86361	verb
+86361	noun other indeclinable
 86363	noun
 86373	verb
 86378	verb
@@ -12858,7 +12858,7 @@ verb
 86397	verb
 86399	verb
 86408	verb
-86412	verb
+86412	noun other indeclinable
 86421	verb
 86428	verb
 86436	verb
@@ -12876,7 +12876,7 @@ noun
 verb
 86511	proper noun indeclinable
 86523	verb
-86534	verb
+86534	noun other indeclinable
 86540	verb
 86556	noun
 86583	verb
@@ -12891,7 +12891,7 @@ verb
 86618	verb
 86630	verb
 86635	verb
-86642	verb
+86642	noun other indeclinable
 86647	verb
 86679	verb
 verb
@@ -12901,7 +12901,7 @@ verb
 86701	verb
 verb
 86705	verb
-86718	verb
+86718	noun other indeclinable
 verb
 86721	verb
 86729	verb
@@ -12913,25 +12913,25 @@ verb
 86744	verb
 86746	verb
 86752	verb
-86758	relative pronoun
-86762	verb
+86758	noun other indeclinable
+86762	noun other indeclinable
 86765	verb
 noun
 86800	verb
 86802	verb
-86804	verb
+86804	noun other indeclinable
 86808	verb
 86811	verb
-verb
-86821	verb
+noun other indeclinable
+86821	noun other indeclinable
 86833	verb
 86852	verb
 86875	personal pronoun
 86884	verb
-86894	verb
+86894	noun other indeclinable
 86903	verb
 86907	personal pronoun
-86920	verb
+86920	noun other indeclinable
 86928	proper noun indeclinable
 86935	verb
 verb
@@ -12951,9 +12951,9 @@ noun
 87048	verb
 verb
 87052	noun
-87063	verb
+87063	noun other indeclinable
 87070	verb
-87074	verb
+87074	noun other indeclinable
 verb
 87078	noun
 87082	verb
@@ -12966,32 +12966,32 @@ verb
 87135	verb
 87148	verb
 87152	verb
-87155	verb
+87155	noun other indeclinable
 87159	verb
 87165	noun
 87174	relative pronoun
 87177	verb
 87186	verb
-87190	relative pronoun
-87192	verb
+87190	noun other indeclinable
+87192	noun other indeclinable
 87195	verb
-87210	verb
+87210	noun other indeclinable
 87222	verb
 verb
 87231	verb
 87236	verb
-87238	relative pronoun
+87238	noun other indeclinable
 87248	noun
 87251	verb
 noun
 87262	noun
-87267	relative pronoun
-87272	relative pronoun
+87267	noun other indeclinable
+87272	noun other indeclinable
 87281	proper noun indeclinable
 87301	noun
-87308	relative pronoun
-87318	adverb
-87320	verb
+87308	noun other indeclinable
+87318	noun
+87320	noun other indeclinable
 verb
 87326	verb
 87346	verb
@@ -13001,9 +13001,9 @@ verb
 87370	noun
 87376	verb
 87390	noun
-87401	verb
+87401	noun other indeclinable
 87409	verb
-87412	verb
+87412	noun other indeclinable
 87414	verb
 verb
 87417	verb
@@ -13013,16 +13013,16 @@ verb
 87437	verb
 87439	verb
 87441	verb
-87445	verb
+87445	noun other indeclinable
 87448	verb
-87450	verb
+87450	noun other indeclinable
 87452	verb
 verb
 87463	verb
-87465	verb
+87465	noun other indeclinable
 87468	verb
 noun
-87473	verb
+87473	noun other indeclinable
 87475	verb
 verb
 87483	verb
@@ -13033,7 +13033,7 @@ verb
 87532	verb
 87555	verb
 87557	verb
-87560	relative pronoun
+87560	noun other indeclinable
 verb
 personal pronoun
 87575	verb
@@ -13060,10 +13060,10 @@ verb
 verb
 87699	verb
 87701	verb
-verb
+noun other indeclinable
 87705	verb
 87707	noun
-relative pronoun
+noun other indeclinable
 87718	verb
 87720	proper noun indeclinable
 87722	verb
@@ -13072,7 +13072,7 @@ relative pronoun
 87732	verb
 87734	verb
 87741	verb
-87751	verb
+87751	noun other indeclinable
 87757	verb
 87766	noun
 87775	verb
@@ -13096,7 +13096,7 @@ relative pronoun
 87937	personal pronoun
 87941	verb
 87943	verb
-87950	verb
+87950	noun other indeclinable
 87959	verb
 87964	verb
 87973	verb
@@ -13106,7 +13106,7 @@ relative pronoun
 verb
 88005	verb
 88009	verb
-88011	adverb
+88011	noun other indeclinable
 88016	verb
 88026	verb
 verb
@@ -13116,7 +13116,7 @@ verb
 88061	noun
 88069	personal pronoun
 88075	verb
-88088	verb
+88088	noun other indeclinable
 88112	verb
 88114	verb
 88117	verb
@@ -13128,7 +13128,7 @@ verb
 88177	verb
 88194	verb
 88202	verb
-relative pronoun
+noun other indeclinable
 88205	proper noun indeclinable
 88211	verb
 88216	verb
@@ -13136,7 +13136,7 @@ verb
 verb
 88223	verb
 88239	proper noun indeclinable
-88247	verb
+88247	noun other indeclinable
 verb
 88252	noun
 88256	verb
@@ -13150,26 +13150,26 @@ verb
 88297	noun
 verb
 88300	noun
-88309	verb
+88309	noun other indeclinable
 88315	verb
 88317	verb
-88323	relative pronoun
-88331	verb
+88323	noun other indeclinable
+88331	noun other indeclinable
 88337	proper noun indeclinable
 88344	noun
 88347	personal pronoun
-88352	verb
+88352	noun other indeclinable
 88369	verb
 88378	verb
-verb
+noun other indeclinable
 88381	verb
-88385	verb
-88391	verb
+88385	noun other indeclinable
+88391	noun other indeclinable
 88393	verb
-88396	verb
-88400	verb
+88396	noun other indeclinable
+88400	noun other indeclinable
 88403	verb
-verb
+noun other indeclinable
 88407	verb
 88421	verb
 88432	verb
@@ -13199,7 +13199,7 @@ verb
 88544	verb
 verb
 noun
-verb
+noun other indeclinable
 88552	proper noun indeclinable
 88560	verb
 88564	verb
@@ -13229,14 +13229,14 @@ verb
 88703	verb
 88706	verb
 88720	verb
-88726	verb
-88731	verb
+88726	noun other indeclinable
+88731	noun other indeclinable
 88733	noun
-88735	verb
+88735	noun
 verb
-relative pronoun
+noun other indeclinable
 88740	verb
-88742	verb
+88742	noun
 88750	verb
 88761	verb
 88769	verb
@@ -13244,8 +13244,8 @@ relative pronoun
 88779	verb
 88781	proper noun indeclinable
 88787	proper noun indeclinable
-88791	relative pronoun
-verb
+88791	noun other indeclinable
+noun other indeclinable
 88808	verb
 88811	noun
 88821	verb
@@ -13256,7 +13256,7 @@ verb
 88886	verb
 88892	verb
 proper noun indeclinable
-88896	verb
+88896	noun other indeclinable
 88899	verb
 88905	verb
 noun
@@ -13288,7 +13288,7 @@ noun
 89025	verb
 89035	verb
 89037	verb
-89040	verb
+89040	noun other indeclinable
 verb
 89059	noun
 89063	verb
@@ -13298,8 +13298,8 @@ verb
 89089	noun
 89091	verb
 89095	verb
-89101	verb
-89106	verb
+89101	noun other indeclinable
+89106	noun other indeclinable
 89118	noun
 89120	proper noun indeclinable
 89125	proper noun indeclinable
@@ -13308,24 +13308,24 @@ verb
 89138	verb
 89142	verb
 89147	noun
-89159	verb
+89159	noun other indeclinable
 89163	verb
 89168	noun
 89172	verb
 89174	verb
-89180	verb
+89180	noun other indeclinable
 89186	verb
 89204	personal pronoun
 89206	proper noun indeclinable
 89209	verb
-89218	verb
+89218	noun
 89232	verb
 89235	personal pronoun
 89240	verb
 89252	noun
 89256	noun
-89277	verb
-89284	verb
+89277	noun other indeclinable
+89284	noun other indeclinable
 89289	verb
 89293	verb
 89307	verb
@@ -13337,105 +13337,105 @@ verb
 89331	verb
 89333	verb
 89336	noun
-89340	verb
+89340	noun other indeclinable
 89345	verb
 89349	verb
 89360	proper noun indeclinable
 89363	noun
 89368	personal pronoun
 89373	verb
-89399	verb
-89406	verb
-89409	verb
+89399	noun other indeclinable
+89406	noun other indeclinable
+89409	noun other indeclinable
 89425	verb
-89442	relative pronoun
+89442	noun other indeclinable
 89445	noun
 89453	verb
 89462	proper noun indeclinable
 89466	verb
 89468	verb
-89477	verb
-89484	verb
+89477	noun other indeclinable
+89484	noun other indeclinable
 89487	proper noun indeclinable
 89490	verb
-89508	verb
+89508	noun other indeclinable
 89510	verb
-89513	verb
+89513	noun other indeclinable
 89528	verb
 89544	noun
 verb
 89562	proper noun indeclinable
 89572	verb
-verb
+noun other indeclinable
 89579	verb
 89585	verb
 verb
-relative pronoun
+noun other indeclinable
 89603	verb
 89605	noun
 89614	verb
 89619	noun
 89621	noun
 89629	verb
-89631	verb
+89631	noun other indeclinable
 89645	proper noun indeclinable
 89647	verb
-89649	verb
+89649	noun other indeclinable
 89668	verb
-89674	verb
+89674	noun other indeclinable
 89679	verb
 89683	noun
 89685	verb
 89690	noun
 89692	verb
-89697	verb
+89697	noun other indeclinable
 89704	verb
-89710	verb
+89710	noun other indeclinable
 89715	verb
-89725	verb
+89725	noun other indeclinable
 89730	noun
 89732	verb
-89743	verb
+89743	noun other indeclinable
 89747	verb
 89754	verb
-89756	verb
+89756	noun other indeclinable
 89760	verb
-verb
+noun other indeclinable
 verb
 unknown
 89765	verb
 89767	verb
-89769	verb
+89769	noun other indeclinable
 89773	verb
-89791	verb
+89791	noun other indeclinable
 89808	verb
 89810	verb
 89812	verb
 89820	verb
 89824	verb
 89830	noun
-89853	verb
-89861	verb
+89853	noun other indeclinable
+89861	noun other indeclinable
 89866	verb
-89868	verb
+89868	noun other indeclinable
 verb
 89873	noun
-89875	verb
+89875	noun other indeclinable
 89880	verb
 89883	verb
-89886	verb
+89886	noun other indeclinable
 89896	noun
-89905	verb
+89905	noun other indeclinable
 verb
-89913	verb
+89913	noun other indeclinable
 verb
 89918	verb
-89922	verb
+89922	noun other indeclinable
 verb
-89928	verb
+89928	noun other indeclinable
 verb
 89941	verb
-89966	verb
+89966	noun other indeclinable
 89972	verb
 verb
 89976	verb
@@ -13447,13 +13447,13 @@ verb
 90012	noun
 90017	verb
 90051	verb
-90058	verb
+90058	noun other indeclinable
 noun
-adverb
+noun other indeclinable
 90063	verb
 90077	noun
 90080	personal pronoun
-90091	verb
+90091	noun other indeclinable
 verb
 90102	verb
 90121	verb
@@ -13462,32 +13462,32 @@ verb
 90145	verb
 90151	proper noun indeclinable
 90157	noun
-90168	verb
+90168	noun other indeclinable
 90174	noun
 90176	verb
 90182	verb
 90184	verb
-90187	verb
-90190	verb
+90187	noun other indeclinable
+90190	noun other indeclinable
 90202	verb
-90206	verb
+90206	noun other indeclinable
 90217	verb
 90221	verb
 90224	noun
 90234	verb
-90238	verb
-90242	verb
-90245	verb
-90247	verb
+90238	noun other indeclinable
+90242	noun other indeclinable
+90245	noun other indeclinable
+90247	noun other indeclinable
 90251	verb
 verb
 90255	verb
-90259	verb
-90265	verb
+90259	noun other indeclinable
+90265	noun other indeclinable
 90272	verb
 90278	verb
 90280	noun
-90283	verb
+90283	noun other indeclinable
 90287	verb
 90300	verb
 90305	verb
@@ -13495,12 +13495,12 @@ verb
 90311	noun
 90315	verb
 90322	verb
-90327	verb
-90333	verb
+90327	noun other indeclinable
+90333	noun other indeclinable
 90336	verb
-90338	verb
+90338	noun other indeclinable
 90351	verb
-90354	verb
+90354	noun other indeclinable
 90357	verb
 90363	verb
 90370	verb
@@ -13508,7 +13508,7 @@ verb
 90400	noun
 90419	verb
 90430	verb
-90433	verb
+90433	noun other indeclinable
 90435	verb
 90448	verb
 90459	verb
@@ -13516,7 +13516,7 @@ verb
 90467	verb
 90472	verb
 verb
-90493	verb
+90493	noun other indeclinable
 90497	verb
 90502	noun
 90506	verb
@@ -13545,9 +13545,9 @@ proper noun indeclinable
 90632	proper noun indeclinable
 90634	verb
 90636	verb
-90642	verb
+90642	noun other indeclinable
 90650	verb
-90662	verb
+90662	noun other indeclinable
 verb
 90665	verb
 90674	verb
@@ -13555,24 +13555,24 @@ verb
 90680	verb
 90682	verb
 90685	verb
-90688	verb
+90688	noun other indeclinable
 90696	verb
 verb
-verb
-90701	verb
-90704	verb
-90719	verb
+noun other indeclinable
+90701	noun other indeclinable
+90704	noun other indeclinable
+90719	noun other indeclinable
 90722	verb
-90724	verb
+90724	noun other indeclinable
 verb
-90735	verb
-90739	verb
+90735	noun other indeclinable
+90739	noun other indeclinable
 90741	verb
-90745	verb
+90745	noun other indeclinable
 90747	verb
 90762	verb
 90764	verb
-90766	verb
+90766	noun other indeclinable
 90771	verb
 90778	verb
 90794	noun
@@ -13587,7 +13587,7 @@ verb
 90844	proper noun indeclinable
 90846	verb
 90852	verb
-90854	verb
+90854	noun other indeclinable
 90858	proper noun indeclinable
 90860	verb
 90868	verb
@@ -13596,9 +13596,9 @@ verb
 90886	proper noun indeclinable
 90889	verb
 90892	relative pronoun
-90896	verb
+90896	noun other indeclinable
 90900	verb
-90902	verb
+90902	noun other indeclinable
 90913	proper noun indeclinable
 90917	verb
 90924	noun
@@ -13608,17 +13608,17 @@ verb
 90946	verb
 90950	verb
 90953	verb
-90959	relative pronoun
-90962	relative pronoun
-90964	relative pronoun
-90966	verb
-90987	verb
+90959	noun other indeclinable
+90962	noun other indeclinable
+90964	noun other indeclinable
+90966	noun other indeclinable
+90987	noun other indeclinable
 90998	verb
 91001	verb
 91010	verb
 91012	verb
 91017	verb
-91028	relative pronoun
+91028	noun other indeclinable
 91030	noun
 91034	verb
 91036	verb
@@ -13632,7 +13632,7 @@ verb
 verb
 verb
 91084	verb
-91088	relative pronoun
+91088	noun other indeclinable
 91095	verb
 91100	verb
 91105	noun
@@ -13642,37 +13642,37 @@ noun
 91123	verb
 91135	noun
 verb
-91138	verb
+91138	noun other indeclinable
 91150	verb
 91155	noun
-91171	relative pronoun
+91171	noun other indeclinable
 noun
 91175	verb
 91178	verb
 91184	verb
-verb
-91187	adverb
+noun other indeclinable
+91187	noun
 91193	verb
 91203	verb
 91214	noun
-91217	verb
-91219	verb
+91217	noun other indeclinable
+91219	noun other indeclinable
 91235	noun
-91245	verb
+91245	noun other indeclinable
 91251	noun
 91256	verb
 91259	verb
-91263	verb
+91263	noun other indeclinable
 91272	verb
 91292	verb
-91297	relative pronoun
+91297	noun other indeclinable
 91303	verb
-91307	verb
+91307	noun other indeclinable
 91322	verb
 verb
 91330	verb
 91334	verb
-91337	verb
+91337	noun other indeclinable
 91344	noun
 91349	verb
 91352	noun
@@ -13684,29 +13684,29 @@ noun
 91369	verb
 91378	verb
 91386	verb
-91390	verb
+91390	noun other indeclinable
 91396	relative pronoun
 91411	verb
 91414	noun
-91424	relative pronoun
+91424	noun other indeclinable
 91436	noun
 91444	verb
-91453	relative pronoun
+91453	noun other indeclinable
 91465	verb
 noun
-91471	verb
+91471	noun other indeclinable
 91474	verb
 91477	verb
 91479	verb
 91482	verb
 91508	verb
-relative pronoun
+noun other indeclinable
 91516	noun
-91524	relative pronoun
+91524	noun other indeclinable
 91529	verb
 91533	verb
-verb
-91540	verb
+noun other indeclinable
+91540	noun other indeclinable
 91544	noun
 91550	verb
 91553	verb
@@ -13714,46 +13714,46 @@ verb
 91559	verb
 91566	verb
 91568	noun
-verb
+noun other indeclinable
 verb
 91573	verb
-91578	verb
-91583	verb
+91578	noun other indeclinable
+91583	noun other indeclinable
 verb
 verb
-91587	relative pronoun
+91587	noun other indeclinable
 91595	verb
 91601	verb
 91603	noun
 noun
 91612	verb
-91617	verb
+91617	noun other indeclinable
 91620	noun
 91622	verb
-91624	verb
-91628	verb
+91624	noun other indeclinable
+91628	noun other indeclinable
 91633	verb
+noun other indeclinable
 verb
-verb
-91641	verb
-91649	verb
+91641	noun other indeclinable
+91649	noun other indeclinable
 91669	verb
 91682	verb
-91688	relative pronoun
+91688	noun other indeclinable
 verb
-91694	verb
+91694	noun other indeclinable
 91698	verb
 91710	verb
-91726	verb
+91726	noun other indeclinable
 91730	verb
 91737	verb
 91739	noun
 91744	verb
 91751	verb
-91766	verb
-91770	verb
-91776	verb
-91783	verb
+91766	noun other indeclinable
+91770	noun other indeclinable
+91776	noun other indeclinable
+91783	noun other indeclinable
 91796	verb
 91801	verb
 91803	noun
@@ -13764,8 +13764,8 @@ verb
 91826	verb
 91828	verb
 91830	verb
-91840	verb
-91849	verb
+91840	noun other indeclinable
+91849	noun other indeclinable
 91852	verb
 91859	noun
 91863	verb
@@ -13774,16 +13774,16 @@ verb
 91878	verb
 91880	personal pronoun
 91884	verb
-91887	verb
+91887	noun other indeclinable
 91892	verb
 91897	verb
 91907	verb
 verb
-91911	verb
+91911	noun other indeclinable
 91913	verb
 91915	verb
 91919	verb
-91923	verb
+91923	noun other indeclinable
 91930	noun
 91935	verb
 91943	verb
@@ -13809,9 +13809,9 @@ verb
 92012	verb
 92014	verb
 92016	verb
-92018	verb
+92018	noun other indeclinable
 92022	verb
-92026	verb
+92026	noun other indeclinable
 92030	verb
 92048	proper noun indeclinable
 92064	verb
@@ -13834,12 +13834,12 @@ noun
 92158	verb
 92161	verb
 92163	verb
-92170	verb
+92170	noun other indeclinable
 92178	verb
 92185	verb
 92187	verb
 92189	verb
-verb
+noun other indeclinable
 92203	noun
 92215	verb
 verb
@@ -13855,14 +13855,14 @@ verb
 92281	noun
 92287	verb
 92292	verb
-92298	relative pronoun
+92298	noun other indeclinable
 92301	verb
 92303	verb
 noun
 92307	verb
 92314	verb
 92323	verb
-92325	relative pronoun
+92325	noun other indeclinable
 verb
 92336	verb
 92344	verb
@@ -13880,57 +13880,57 @@ verb
 verb
 92398	verb
 92405	verb
-92412	verb
-92421	verb
+92412	noun other indeclinable
+92421	noun other indeclinable
 92424	noun
 noun
 proper noun indeclinable
 92445	verb
-92448	verb
-92451	verb
+92448	noun other indeclinable
+92451	noun other indeclinable
 92464	verb
 92466	verb
-92477	relative pronoun
+92477	noun other indeclinable
 92480	noun
-92482	relative pronoun
-92490	verb
-92500	verb
+92482	noun other indeclinable
+92490	noun other indeclinable
+92500	noun other indeclinable
 92507	verb
 92515	verb
 92518	verb
-92520	verb
-92523	adverb
-92525	verb
+92520	noun other indeclinable
+92523	noun other indeclinable
+92525	noun other indeclinable
 92532	verb
-92543	verb
+92543	noun other indeclinable
 verb
 92548	verb
 92550	unknown
 92557	verb
 92561	verb
-92564	verb
-92568	verb
+92564	noun other indeclinable
+92568	noun other indeclinable
 92571	noun
 92576	verb
 verb
 verb
-92584	relative pronoun
+92584	noun other indeclinable
 92587	verb
 92595	noun
 92616	verb
 92623	verb
 92634	personal pronoun
 92652	personal pronoun
-92655	relative pronoun
+92655	noun other indeclinable
 92660	personal pronoun
-92662	relative pronoun
+92662	noun other indeclinable
 92666	personal pronoun
-92668	relative pronoun
+92668	noun other indeclinable
 92672	personal pronoun
-92674	relative pronoun
+92674	noun other indeclinable
 92678	personal pronoun
 verb
-92682	relative pronoun
+92682	noun other indeclinable
 92684	verb
 verb
 92699	noun
@@ -13953,13 +13953,13 @@ proper noun indeclinable
 92780	verb
 92783	verb
 92788	verb
-92799	verb
+92799	noun other indeclinable
 92801	verb
 92805	verb
 92807	verb
 92809	noun
 92812	verb
-92817	verb
+92817	noun other indeclinable
 92820	verb
 92824	verb
 unknown
@@ -13969,7 +13969,7 @@ unknown
 92841	verb
 92847	verb
 92851	verb
-92862	verb
+92862	noun other indeclinable
 verb
 noun
 92867	verb
@@ -13985,16 +13985,16 @@ noun
 92909	verb
 92911	verb
 92922	verb
-92926	verb
-92942	verb
+92926	noun other indeclinable
+92942	noun other indeclinable
 92952	verb
 92962	proper noun indeclinable
 92970	noun
 92975	proper noun indeclinable
-92983	verb
+92983	noun other indeclinable
 92987	verb
 92991	noun
-92995	relative pronoun
+92995	noun other indeclinable
 93002	verb
 93009	verb
 93013	verb
@@ -14003,24 +14003,24 @@ noun
 93026	verb
 93033	verb
 93036	verb
-93041	verb
+93041	noun other indeclinable
 93053	proper noun indeclinable
 93059	verb
-verb
+noun other indeclinable
 93063	verb
 93094	noun
 93114	noun
-93123	verb
+93123	noun other indeclinable
 verb
 93126	personal pronoun
 93130	verb
-93142	verb
+93142	noun other indeclinable
 verb
-adverb
+noun other indeclinable
 93149	verb
 93155	verb
 93162	verb
-93166	relative pronoun
+93166	noun other indeclinable
 93168	personal pronoun
 93172	personal pronoun
 93175	verb
@@ -14030,7 +14030,7 @@ adverb
 93218	noun
 verb
 93225	verb
-verb
+noun other indeclinable
 93233	noun
 93238	proper noun indeclinable
 noun
@@ -14055,7 +14055,7 @@ noun
 93317	personal pronoun
 93327	noun
 93331	verb
-93350	verb
+93350	noun other indeclinable
 93357	verb
 93362	verb
 verb
@@ -14063,11 +14063,11 @@ verb
 93390	noun
 93404	verb
 93410	verb
-93412	verb
-93431	relative pronoun
-93439	relative pronoun
+93412	noun other indeclinable
+93431	noun other indeclinable
+93439	noun other indeclinable
 93453	verb
-relative pronoun
+noun other indeclinable
 93459	verb
 93470	verb
 93473	verb
@@ -14076,20 +14076,20 @@ noun
 93488	verb
 93494	verb
 93496	personal pronoun
-verb
-93532	relative pronoun
+noun other indeclinable
+93532	noun other indeclinable
 93534	unknown
-93537	relative pronoun
+93537	noun other indeclinable
 93541	verb
 93550	personal pronoun
 93562	personal pronoun
 93572	noun
-93582	verb
-93586	verb
+93582	noun other indeclinable
+93586	noun other indeclinable
 93601	verb
-93612	conjunction
-93617	verb
-93626	verb
+93612	noun other indeclinable
+93617	noun other indeclinable
+93626	noun other indeclinable
 93631	verb
 93640	verb
 93648	verb
@@ -14105,7 +14105,7 @@ verb
 93740	verb
 verb
 93747	verb
-93758	relative pronoun
+93758	noun other indeclinable
 93760	verb
 93794	personal pronoun
 93797	personal pronoun
@@ -14128,7 +14128,7 @@ verb
 93883	noun
 93888	verb
 93892	proper noun indeclinable
-93894	verb
+93894	noun other indeclinable
 93900	noun
 93904	verb
 93914	verb
@@ -14169,12 +14169,12 @@ noun
 94154	verb
 94157	verb
 94162	noun
-94174	verb
+94174	noun other indeclinable
 verb
 94187	noun
 94190	proper noun indeclinable
 94195	verb
-verb
+noun other indeclinable
 94200	noun
 94216	verb
 noun
@@ -14187,32 +14187,32 @@ noun
 94255	noun
 94261	verb
 94266	noun
-94271	verb
+94271	noun other indeclinable
 verb
-94275	verb
+94275	noun other indeclinable
 94282	verb
-94286	verb
+94286	noun other indeclinable
 94291	personal pronoun
 verb
 verb
-94295	verb
+94295	noun other indeclinable
 94311	verb
-94314	verb
+94314	noun other indeclinable
 94334	verb
 94336	verb
 94338	verb
 verb
 94341	verb
 94346	noun
-94350	verb
+94350	noun other indeclinable
 94353	noun
 94359	verb
 94366	noun
-94368	verb
-94371	adverb
+94368	noun other indeclinable
+94371	noun other indeclinable
 94379	verb
 94401	noun
-94409	verb
+94409	noun other indeclinable
 94416	verb
 verb
 94424	verb
@@ -14228,37 +14228,37 @@ noun
 94482	verb
 94487	verb
 94492	noun
-94494	verb
+94494	noun other indeclinable
 94497	verb
 94502	verb
 94514	verb
 94521	verb
-94534	verb
+94534	noun other indeclinable
 94542	proper noun indeclinable
 94544	noun
-relative pronoun
+noun other indeclinable
 94548	verb
 94558	verb
 94564	proper noun indeclinable
 94566	proper noun indeclinable
-94568	relative pronoun
-94577	verb
+94568	noun other indeclinable
+94577	noun other indeclinable
 94579	verb
 noun
 verb
 94586	noun
 94588	noun
-94592	verb
+94592	noun other indeclinable
 94605	verb
 94610	noun
 94620	noun
 proper noun indeclinable
-94623	verb
+94623	noun other indeclinable
 94638	noun
 94644	personal pronoun
-94654	verb
+94654	noun other indeclinable
 94658	personal pronoun
-94662	verb
+94662	noun other indeclinable
 94666	personal pronoun
 94670	personal pronoun
 94673	personal pronoun
@@ -14269,7 +14269,7 @@ verb
 94694	verb
 94708	noun
 94711	proper noun indeclinable
-94726	verb
+94726	noun other indeclinable
 94740	verb
 94742	verb
 94756	verb
@@ -14278,8 +14278,8 @@ verb
 94780	verb
 94794	noun
 94820	proper noun indeclinable
-94825	verb
-94832	conjunction
+94825	noun other indeclinable
+94832	noun other indeclinable
 proper noun indeclinable
 94849	noun
 94857	verb
@@ -14296,12 +14296,12 @@ proper noun indeclinable
 94906	noun
 verb
 94917	verb
-94922	verb
+94922	noun other indeclinable
 94925	verb
 94931	proper noun indeclinable
 94940	proper noun indeclinable
 94947	proper noun indeclinable
-94964	verb
+94964	noun other indeclinable
 94966	verb
 noun
 94979	verb
@@ -14325,7 +14325,7 @@ verb
 95074	verb
 verb
 95081	verb
-95087	adverb
+95087	noun other indeclinable
 verb
 95092	verb
 95094	verb
@@ -14333,15 +14333,15 @@ verb
 95102	verb
 95105	proper noun indeclinable
 95123	noun
-95130	adverb
+95130	noun other indeclinable
 verb
 95139	noun
 95156	noun
-95165	relative pronoun
-95168	relative pronoun
-95171	relative pronoun
+95165	noun other indeclinable
+95168	noun other indeclinable
+95171	noun other indeclinable
 95177	proper noun indeclinable
-95185	verb
+95185	noun other indeclinable
 95204	noun
 95207	verb
 proper noun indeclinable
@@ -14363,15 +14363,15 @@ noun
 95301	verb
 verb
 95306	verb
+noun other indeclinable
 verb
 verb
+noun other indeclinable
 verb
 verb
-verb
-verb
-verb
+noun other indeclinable
 95315	verb
-95317	noun
+95317	noun other indeclinable
 proper noun indeclinable
 95326	verb
 95336	verb
@@ -14379,10 +14379,10 @@ proper noun indeclinable
 95353	noun
 95356	verb
 95365	verb
-95376	verb
+95376	noun other indeclinable
 95381	verb
 95395	noun
-verb
+noun other indeclinable
 95402	noun
 verb
 95405	verb
@@ -14396,23 +14396,23 @@ noun
 verb
 95459	verb
 95465	verb
-95467	verb
+95467	noun other indeclinable
 95474	verb
 95480	unknown
 95494	noun
 verb
-verb
+noun other indeclinable
 verb
 95502	verb
 95508	verb
 verb
-95512	verb
+95512	noun other indeclinable
 95516	noun
 95520	verb
 95527	verb
-95529	verb
-95534	verb
-95537	verb
+95529	noun other indeclinable
+95534	noun other indeclinable
+95537	noun other indeclinable
 95549	verb
 noun
 95553	noun
@@ -14426,7 +14426,7 @@ verb
 95610	proper noun indeclinable
 noun
 95622	verb
-95630	verb
+95630	noun other indeclinable
 95641	noun
 95643	noun
 95645	noun
@@ -14436,7 +14436,7 @@ noun
 95660	verb
 95665	noun
 95670	verb
-95676	verb
+95676	noun other indeclinable
 verb
 95684	verb
 95687	verb
@@ -14447,15 +14447,15 @@ verb
 95705	proper noun indeclinable
 95716	verb
 95725	verb
-95727	relative pronoun
-verb
+95727	noun other indeclinable
+noun other indeclinable
 95733	verb
-95736	verb
+95736	noun other indeclinable
 95745	verb
 95751	verb
-95757	verb
+95757	noun other indeclinable
 95761	verb
-95768	verb
+95768	noun other indeclinable
 verb
 verb
 95776	verb
@@ -14466,9 +14466,9 @@ verb
 95795	verb
 95801	verb
 95827	verb
-95834	verb
+95834	noun other indeclinable
 95851	verb
-95856	verb
+95856	noun other indeclinable
 95870	noun
 95880	verb
 95883	noun
@@ -14486,7 +14486,7 @@ verb
 95969	verb
 95988	verb
 95991	verb
-verb
+noun other indeclinable
 95994	verb
 95997	verb
 96003	verb
@@ -14497,22 +14497,22 @@ verb
 verb
 96049	verb
 96060	verb
-96066	verb
+96066	noun other indeclinable
 96070	noun
 96072	personal pronoun
-96074	verb
-96078	verb
+96074	noun other indeclinable
+96078	noun other indeclinable
 96080	verb
-96082	verb
+96082	noun other indeclinable
 96096	verb
 96103	verb
 96107	verb
 96109	verb
-96112	verb
-96119	verb
-96126	verb
+96112	noun other indeclinable
+96119	noun other indeclinable
+96126	noun other indeclinable
 96133	personal pronoun
-96136	verb
+96136	noun other indeclinable
 96138	verb
 96146	noun
 96152	verb
@@ -14526,7 +14526,7 @@ verb
 96204	proper noun indeclinable
 96211	verb
 96215	proper noun indeclinable
-96222	verb
+96222	noun other indeclinable
 96224	noun
 96226	verb
 personal pronoun
@@ -14534,9 +14534,9 @@ personal pronoun
 96234	verb
 96246	proper noun indeclinable
 96251	verb
-96258	verb
+96258	noun other indeclinable
 96262	verb
-96268	verb
+96268	noun other indeclinable
 96275	verb
 96285	verb
 96287	verb
@@ -14571,16 +14571,16 @@ personal pronoun
 96401	personal pronoun
 96405	personal pronoun
 96407	verb
-96412	verb
+96412	noun other indeclinable
 verb
 96419	verb
-96421	verb
-96424	verb
-96427	verb
-96430	verb
+96421	noun other indeclinable
+96424	noun other indeclinable
+96427	noun other indeclinable
+96430	noun other indeclinable
 verb
-96433	verb
-96436	verb
+96433	noun other indeclinable
+96436	noun other indeclinable
 96460	verb
 96467	verb
 96470	noun
@@ -14591,11 +14591,11 @@ verb
 96526	noun
 verb
 96530	noun
-96537	adverb
+96537	noun other indeclinable
 96540	verb
-96547	verb
-96549	verb
-96552	verb
+96547	noun other indeclinable
+96549	noun other indeclinable
+96552	noun other indeclinable
 96554	verb
 96556	verb
 96559	personal pronoun
@@ -14607,9 +14607,9 @@ verb
 96636	noun
 96638	verb
 96646	verb
-96650	verb
+96650	noun other indeclinable
 96654	verb
-96664	verb
+96664	noun other indeclinable
 verb
 96695	verb
 96708	verb
@@ -14619,23 +14619,23 @@ verb
 96745	verb
 96747	verb
 96753	verb
-96760	verb
+96760	noun other indeclinable
 96770	verb
 96772	noun
-96776	verb
+96776	noun other indeclinable
 96778	noun
 96787	verb
 96791	verb
 96804	verb
-96806	relative pronoun
+96806	noun other indeclinable
 verb
 96812	verb
-96816	verb
+96816	noun other indeclinable
 96830	verb
-96846	conjunction
-96857	verb
+96846	noun other indeclinable
+96857	noun other indeclinable
 96861	verb
-96864	verb
+96864	noun other indeclinable
 verb
 96867	verb
 96871	verb
@@ -14644,23 +14644,23 @@ verb
 96903	verb
 96930	verb
 96932	noun
-96935	verb
+96935	noun other indeclinable
 verb
 96946	verb
 96949	personal pronoun
-96954	verb
+96954	noun other indeclinable
 96960	noun
 96966	verb
 96968	noun
 96976	verb
 96981	verb
-96986	verb
+96986	noun other indeclinable
 96993	noun
 96995	verb
 97001	verb
 97003	verb
-97006	verb
-97014	verb
+97006	noun other indeclinable
+97014	noun other indeclinable
 verb
 97017	noun
 97023	verb
@@ -14668,7 +14668,7 @@ verb
 97036	verb
 97052	verb
 97054	verb
-97062	verb
+97062	noun other indeclinable
 verb
 verb
 noun
@@ -14679,32 +14679,32 @@ proper noun indeclinable
 97084	noun
 97087	verb
 97102	verb
-97109	verb
-97127	relative pronoun
-97148	verb
+97109	noun other indeclinable
+97127	noun other indeclinable
+97148	noun other indeclinable
 97150	noun
 97163	verb
-97165	verb
+97165	noun other indeclinable
 97170	verb
 97189	verb
 verb
 97207	verb
 97211	verb
 97216	noun
-97221	adverb
+97221	noun other indeclinable
 97228	verb
-97233	verb
+97233	noun other indeclinable
 97238	verb
-97240	verb
-97244	verb
+97240	noun other indeclinable
+97244	noun other indeclinable
 97246	verb
-97248	verb
+97248	noun other indeclinable
 97257	verb
 97261	verb
 relative pronoun
 97264	verb
 97270	noun
-97287	verb
+97287	noun other indeclinable
 97291	verb
 97306	verb
 97330	noun
@@ -14713,26 +14713,26 @@ noun
 relative pronoun
 97339	verb
 97346	verb
-adverb
+noun other indeclinable
 97365	verb
 97370	verb
-97376	verb
+97376	noun other indeclinable
 97389	verb
 97392	verb
 verb
-verb
+noun other indeclinable
 97400	verb
-verb
+noun other indeclinable
 97404	verb
-97410	verb
+97410	noun other indeclinable
 97414	verb
 97419	verb
-97439	verb
+97439	noun other indeclinable
 97447	verb
 97452	verb
 97466	verb
 97476	verb
-97483	verb
+97483	noun other indeclinable
 97512	verb
 97515	verb
 97534	verb
@@ -14750,67 +14750,67 @@ verb
 97600	verb
 97619	verb
 verb
-97631	verb
+97631	noun other indeclinable
 97643	proper noun indeclinable
 97653	verb
-97660	verb
+97660	noun other indeclinable
 verb
 97676	verb
-97690	verb
-97702	verb
-97711	verb
-97715	verb
+97690	noun other indeclinable
+97702	noun other indeclinable
+97711	noun other indeclinable
+97715	noun other indeclinable
 97722	verb
-97740	relative pronoun
+97740	noun other indeclinable
 personal pronoun
 97747	verb
-97749	relative pronoun
-97753	relative pronoun
+97749	noun other indeclinable
+97753	noun other indeclinable
 97755	verb
 97757	verb
-verb
+noun other indeclinable
 97765	verb
 97769	verb
 97774	verb
-97783	verb
+97783	noun other indeclinable
 97798	verb
 97804	verb
 97806	verb
-97809	verb
-97813	verb
+97809	noun other indeclinable
+97813	noun other indeclinable
 97821	noun
 97826	verb
 97831	verb
-97835	relative pronoun
+97835	noun other indeclinable
 97844	verb
 97854	verb
 97863	verb
 97867	verb
 97869	verb
-verb
+noun other indeclinable
 97873	verb
-97875	verb
+97875	noun other indeclinable
 verb
 97888	noun
 97890	verb
 97892	verb
 97900	verb
-97904	verb
+97904	noun other indeclinable
 verb
 97909	verb
 97915	verb
 97917	verb
 97920	verb
-97927	verb
+97927	noun other indeclinable
 97939	noun
-97945	verb
+97945	noun other indeclinable
 verb
 97953	verb
 97976	verb
 97978	proper noun indeclinable
 97991	verb
 97995	noun
-97999	verb
+97999	noun other indeclinable
 98003	noun
 98012	verb
 98017	verb
@@ -14830,7 +14830,7 @@ verb
 verb
 98069	proper noun indeclinable
 noun
-98075	verb
+98075	noun other indeclinable
 98082	verb
 verb
 98085	verb
@@ -14838,8 +14838,8 @@ verb
 98094	verb
 98096	verb
 98103	verb
-98105	verb
-98110	verb
+98105	noun other indeclinable
+98110	noun other indeclinable
 98118	proper noun indeclinable
 98121	verb
 98125	verb
@@ -14849,22 +14849,22 @@ verb
 98146	noun
 98151	noun
 98161	verb
-98164	verb
+98164	noun other indeclinable
 98175	verb
-verb
-98184	verb
+noun other indeclinable
+98184	noun other indeclinable
 98189	verb
 98194	verb
-98199	verb
+98199	noun other indeclinable
 98208	verb
 98219	verb
-98222	verb
-98232	verb
+98222	noun other indeclinable
+98232	noun other indeclinable
 98240	personal pronoun
 98245	noun
-98254	verb
-98262	verb
-98268	verb
+98254	noun other indeclinable
+98262	noun other indeclinable
+98268	noun other indeclinable
 98294	noun
 98302	verb
 98305	proper noun indeclinable
@@ -14874,7 +14874,7 @@ verb
 98322	verb
 98324	verb
 98327	verb
-98332	verb
+98332	noun other indeclinable
 98362	proper noun indeclinable
 98364	verb
 proper noun indeclinable
@@ -14883,15 +14883,15 @@ proper noun indeclinable
 98377	verb
 98380	verb
 98390	verb
-98395	verb
-98400	verb
+98395	noun other indeclinable
+98400	noun other indeclinable
 98408	verb
 98416	verb
 98420	personal pronoun
-98422	verb
+98422	noun other indeclinable
 98424	verb
 98435	verb
-98463	verb
+98463	noun other indeclinable
 98469	verb
 noun
 98475	noun
@@ -14903,12 +14903,12 @@ noun
 noun
 98520	relative pronoun
 98531	verb
-98540	verb
+98540	noun other indeclinable
 98550	verb
 verb
 98558	verb
-98561	verb
-98566	verb
+98561	noun other indeclinable
+98566	noun other indeclinable
 verb
 98577	verb
 98580	noun
@@ -14921,75 +14921,75 @@ verb
 98618	verb
 98623	verb
 98625	verb
-98632	verb
+98632	noun other indeclinable
 98636	proper noun indeclinable
-98639	adverb
+98639	noun other indeclinable
 98642	proper noun indeclinable
 98647	verb
 98652	noun
 98658	verb
-98661	relative pronoun
-98664	conjunction
-verb
+98661	noun other indeclinable
+98664	noun other indeclinable
+noun other indeclinable
 98673	proper noun indeclinable
-98678	verb
-98688	relative pronoun
+98678	noun other indeclinable
+98688	noun other indeclinable
 98690	verb
 98694	verb
 98697	verb
 98712	verb
-verb
+noun other indeclinable
 98718	verb
 98725	verb
 98728	verb
 98733	verb
-98735	verb
-98740	adverb
-98744	adverb
+98735	noun other indeclinable
+98740	noun other indeclinable
+98744	noun other indeclinable
 98746	noun
-98749	verb
+98749	noun other indeclinable
 98752	verb
 98757	verb
-98759	verb
-98763	relative pronoun
+98759	noun other indeclinable
+98763	noun other indeclinable
 verb
-98766	verb
-98769	verb
-98771	verb
-98773	verb
-98775	verb
-98777	verb
-98779	verb
-98781	verb
-98783	verb
-98785	verb
-98787	verb
-98789	verb
+98766	noun other indeclinable
+98769	noun other indeclinable
+98771	noun other indeclinable
+98773	noun other indeclinable
+98775	noun other indeclinable
+98777	noun other indeclinable
+98779	noun other indeclinable
+98781	noun other indeclinable
+98783	noun other indeclinable
+98785	noun other indeclinable
+98787	noun other indeclinable
+98789	noun other indeclinable
 verb
+noun other indeclinable
+98793	noun other indeclinable
+98795	noun other indeclinable
+98798	noun other indeclinable
 verb
-98793	verb
-98795	verb
-98798	verb
-verb
-98801	verb
-98804	verb
+98801	noun other indeclinable
+98804	noun other indeclinable
 98806	verb
 noun
 98813	verb
 98816	noun
 98820	noun
-98824	relative pronoun
-98828	relative pronoun
-98832	relative pronoun
-98835	adverb
-98837	relative pronoun
-98842	relative pronoun
-98847	relative pronoun
-98852	relative pronoun
+98824	noun other indeclinable
+98828	noun other indeclinable
+98832	noun other indeclinable
+98835	noun other indeclinable
+98837	noun other indeclinable
+98842	noun other indeclinable
+98847	noun other indeclinable
+98852	noun other indeclinable
 98866	verb
-98871	verb
-98875	verb
-98883	relative pronoun
+98871	noun other indeclinable
+98875	noun other indeclinable
+98883	noun other indeclinable
 98885	verb
 98899	verb
 98911	verb
@@ -14997,7 +14997,7 @@ noun
 98927	verb
 98931	verb
 98935	verb
-verb
+noun other indeclinable
 98952	verb
 98955	verb
 verb
@@ -15006,32 +15006,32 @@ noun
 98972	verb
 98978	verb
 noun
-98997	verb
+98997	noun other indeclinable
 98999	verb
 99011	verb
-99015	verb
+99015	noun other indeclinable
 99037	verb
 99042	verb
 99044	verb
 99053	verb
-99059	verb
+99059	noun other indeclinable
 99063	verb
-99075	verb
+99075	noun other indeclinable
 99077	verb
-99082	verb
+99082	noun other indeclinable
 99084	verb
 99086	verb
-99088	verb
+99088	noun other indeclinable
 99090	verb
-adverb
+noun other indeclinable
 99099	verb
-99117	verb
+99117	noun other indeclinable
 99145	verb
 99149	verb
-99151	verb
+99151	noun other indeclinable
 99159	verb
 99161	verb
-99173	adverb
+99173	noun other indeclinable
 99179	verb
 99185	verb
 99187	verb
@@ -15041,21 +15041,21 @@ verb
 verb
 99195	verb
 verb
-verb
+noun other indeclinable
 99205	noun
 99230	verb
 99232	verb
 noun
 99239	verb
-99266	relative pronoun
-99268	verb
+99266	noun other indeclinable
+99268	noun other indeclinable
 99282	proper noun indeclinable
-99294	relative pronoun
-99303	verb
-99306	verb
+99294	noun other indeclinable
+99303	noun other indeclinable
+99306	noun other indeclinable
 99315	verb
-99318	verb
-99324	verb
+99318	noun other indeclinable
+99324	noun other indeclinable
 99349	noun
 99351	noun
 99365	verb
@@ -15065,42 +15065,42 @@ noun
 99382	noun
 99384	verb
 99395	noun
-99404	verb
+99404	noun other indeclinable
 99406	verb
 99411	verb
 99413	verb
-99419	verb
+99419	noun other indeclinable
 99421	verb
-99424	verb
+99424	noun other indeclinable
 99431	verb
 verb
 verb
 noun
 99442	verb
 99450	verb
-99468	verb
+99468	noun other indeclinable
 99480	verb
 99496	verb
 99509	verb
 99512	verb
 99518	noun
 99522	personal pronoun
-99529	verb
+99529	noun other indeclinable
 99538	verb
 99543	verb
-99577	verb
+99577	noun other indeclinable
 99579	verb
 99593	verb
-99602	verb
+99602	noun other indeclinable
 99605	noun
 99608	verb
 99612	verb
 99617	verb
-99620	verb
+99620	noun other indeclinable
 99632	verb
 verb
 99635	verb
-99643	verb
+99643	noun other indeclinable
 99651	verb
 99653	noun
 99656	verb
@@ -15108,7 +15108,7 @@ verb
 verb
 99660	verb
 99662	verb
-99670	verb
+99670	noun other indeclinable
 99697	verb
 99704	verb
 99717	verb
@@ -15117,14 +15117,14 @@ verb
 99736	verb
 99744	noun
 99755	verb
-99768	verb
+99768	noun other indeclinable
 99774	verb
 99779	verb
-99794	verb
+99794	noun other indeclinable
 99796	verb
 99798	noun
-99818	relative pronoun
-99822	relative pronoun
+99818	noun other indeclinable
+99822	noun other indeclinable
 99827	verb
 99831	verb
 99834	verb
@@ -15134,14 +15134,14 @@ verb
 99855	verb
 99862	proper noun indeclinable
 99864	verb
-99868	verb
+99868	noun other indeclinable
 99871	proper noun indeclinable
 99888	noun
 99902	verb
 99904	verb
 99909	verb
 proper noun indeclinable
-99915	verb
+99915	noun other indeclinable
 99919	proper noun indeclinable
 99930	verb
 99937	verb
@@ -15160,18 +15160,18 @@ verb
 100001	verb
 100006	verb
 100008	noun
-100020	verb
+100020	noun other indeclinable
 100031	verb
-100035	adverb
-100043	relative pronoun
+100035	noun other indeclinable
+100043	noun other indeclinable
 100045	verb
-100047	verb
+100047	noun other indeclinable
 100053	verb
 100055	proper noun indeclinable
 100063	verb
 noun
 100080	verb
-100091	verb
+100091	noun other indeclinable
 100094	verb
 proper noun indeclinable
 verb
@@ -15179,25 +15179,25 @@ verb
 100124	verb
 100137	noun
 100149	verb
-relative pronoun
+noun other indeclinable
 100154	noun
 100170	verb
 100196	verb
 100203	verb
-100205	verb
+100205	noun other indeclinable
 100219	proper noun indeclinable
 100222	verb
-100240	relative pronoun
-100252	verb
+100240	noun other indeclinable
+100252	noun other indeclinable
 100259	proper noun indeclinable
-100262	verb
-100272	verb
+100262	noun other indeclinable
+100272	noun other indeclinable
 100280	verb
 100282	proper noun indeclinable
-100287	verb
+100287	noun other indeclinable
 100291	proper noun indeclinable
 noun
-100297	verb
+100297	noun other indeclinable
 verb
 100308	verb
 100311	noun
@@ -15207,18 +15207,18 @@ noun
 100323	verb
 100326	verb
 100333	verb
-100342	relative pronoun
+100342	noun other indeclinable
 100346	verb
-verb
+noun other indeclinable
 100352	proper noun indeclinable
 100375	verb
 100382	verb
 verb
 100388	unknown
-100395	verb
+100395	noun other indeclinable
 100406	verb
-100408	verb
-100411	verb
+100408	noun other indeclinable
+100411	noun other indeclinable
 100415	verb
 100419	verb
 100427	verb
@@ -15229,31 +15229,31 @@ verb
 100439	verb
 100441	verb
 100454	personal pronoun
-100460	verb
-100471	verb
-100481	verb
+100460	noun other indeclinable
+100471	noun other indeclinable
+100481	noun other indeclinable
 100485	noun
 noun
 100490	verb
 100497	verb
 100503	verb
 100506	verb
-100508	verb
+100508	noun other indeclinable
 100515	personal pronoun
 100520	verb
 100541	personal pronoun
-100545	relative pronoun
+100545	noun other indeclinable
 100553	proper noun indeclinable
 100557	verb
 100561	verb
-100568	relative pronoun
+100568	noun other indeclinable
 100573	verb
 100578	noun
 100581	noun
 noun
-100584	relative pronoun
-verb
-100587	verb
+100584	noun other indeclinable
+noun other indeclinable
+100587	noun other indeclinable
 100590	verb
 100593	noun
 100598	verb
@@ -15261,10 +15261,10 @@ verb
 100613	verb
 100628	noun
 100631	verb
-relative pronoun
-100636	verb
+noun other indeclinable
+100636	noun other indeclinable
 100641	noun
-verb
+noun other indeclinable
 100644	verb
 verb
 verb
@@ -15272,23 +15272,23 @@ verb
 100652	verb
 100656	verb
 100661	noun
-100664	verb
-100667	verb
-100670	verb
-100673	verb
+100664	noun other indeclinable
+100667	noun other indeclinable
+100670	noun other indeclinable
+100673	noun other indeclinable
 verb
 100680	noun
-100690	verb
+100690	noun other indeclinable
 100697	verb
-100707	verb
+100707	noun other indeclinable
 verb
-100710	verb
-100713	verb
-100716	verb
-100721	verb
-100724	verb
-100728	verb
-100731	verb
+100710	noun other indeclinable
+100713	noun other indeclinable
+100716	noun other indeclinable
+100721	noun other indeclinable
+100724	noun other indeclinable
+100728	noun other indeclinable
+100731	noun other indeclinable
 verb
 100745	verb
 100748	verb
@@ -15297,28 +15297,28 @@ verb
 100762	verb
 proper noun indeclinable
 100773	verb
-100785	verb
+100785	noun other indeclinable
 100789	noun
 100796	verb
 100799	noun
-100801	verb
+100801	noun other indeclinable
 100804	noun
 100813	verb
 100822	verb
 verb
 verb
-100826	verb
+100826	noun other indeclinable
 100829	verb
-100832	verb
+100832	noun other indeclinable
 100835	verb
 100841	verb
 100848	noun
 100850	verb
 100852	verb
-100857	verb
+100857	noun other indeclinable
 100864	verb
 100877	relative pronoun
-100893	verb
+100893	noun other indeclinable
 100896	verb
 100902	noun
 100905	verb
@@ -15328,22 +15328,22 @@ verb
 100947	noun
 100950	verb
 100956	verb
-100964	verb
-100971	verb
+100964	noun other indeclinable
+100971	noun other indeclinable
 100975	verb
-100984	verb
-100986	verb
-100988	verb
-100990	verb
+100984	noun other indeclinable
+100986	noun other indeclinable
+100988	noun other indeclinable
+100990	noun other indeclinable
 100998	verb
 101003	noun
-101017	verb
+101017	noun other indeclinable
 101023	proper noun indeclinable
-101029	verb
-101031	verb
+101029	noun other indeclinable
+101031	noun other indeclinable
 verb
 101048	verb
-101062	adverb
+101062	noun
 101072	verb
 101076	proper noun indeclinable
 101078	verb
@@ -15358,40 +15358,40 @@ personal pronoun
 101150	noun
 101154	verb
 101156	verb
-verb
+noun other indeclinable
 101160	proper noun indeclinable
 101167	verb
 101178	verb
 101188	verb
 101192	verb
 101198	noun
-101220	adverb
+101220	noun other indeclinable
 101232	verb
 101238	verb
-relative pronoun
+noun other indeclinable
 verb
 101253	verb
 101260	noun
-101264	verb
+101264	noun other indeclinable
 101272	verb
 verb
-101275	verb
+101275	noun other indeclinable
 101282	verb
 verb
 101286	verb
 101290	verb
-verb
+noun other indeclinable
 101293	verb
 101299	verb
-101306	verb
+101306	noun other indeclinable
 101311	verb
-101318	verb
+101318	noun other indeclinable
 101321	noun
 101337	verb
 101346	verb
 verb
 101353	noun
-101356	relative pronoun
+101356	noun other indeclinable
 101366	verb
 101374	verb
 101385	noun
@@ -15401,9 +15401,9 @@ verb
 101412	verb
 verb
 101422	verb
-101430	verb
+101430	noun other indeclinable
 101435	personal pronoun
-101438	adverb
+101438	noun other indeclinable
 101441	verb
 101446	verb
 101448	verb
@@ -15417,8 +15417,8 @@ noun
 101497	verb
 101508	verb
 101520	verb
-101532	verb
-101542	verb
+101532	noun other indeclinable
+101542	noun other indeclinable
 101547	verb
 101554	verb
 101556	personal pronoun
@@ -15427,7 +15427,7 @@ noun
 101568	verb
 101570	verb
 101573	verb
-101582	relative pronoun
+101582	noun other indeclinable
 101587	verb
 101600	noun
 verb
@@ -15438,40 +15438,40 @@ verb
 verb
 101641	verb
 101650	verb
-101652	verb
+101652	noun other indeclinable
 101660	verb
 101662	verb
 101664	verb
-101668	verb
-101674	verb
+101668	noun other indeclinable
+101674	noun other indeclinable
 101689	verb
 101697	noun
-101705	verb
-101710	verb
+101705	noun other indeclinable
+101710	noun other indeclinable
 101728	verb
 101731	noun
 101739	numeral
 101764	verb
 relative pronoun
-101769	adverb
+101769	noun other indeclinable
 verb
 101772	verb
 101779	proper noun indeclinable
 101782	noun
-101796	verb
-101816	verb
+101796	noun other indeclinable
+101816	noun other indeclinable
 101819	verb
 101821	noun
 101823	verb
 101841	verb
-101844	verb
+101844	noun other indeclinable
 101848	noun
 101851	noun
 101857	verb
 101869	noun
 101876	verb
 101878	verb
-101882	verb
+101882	noun other indeclinable
 101887	verb
 101894	verb
 101918	verb
@@ -15487,7 +15487,7 @@ verb
 101970	noun
 101979	proper noun indeclinable
 101985	verb
-102009	conjunction
+102009	noun other indeclinable
 102024	verb
 102031	verb
 102036	personal pronoun
@@ -15498,7 +15498,7 @@ verb
 102093	verb
 102095	noun
 102121	proper noun indeclinable
-102127	verb
+102127	noun other indeclinable
 102133	noun
 102141	relative pronoun
 102145	noun
@@ -15507,10 +15507,10 @@ verb
 102159	verb
 noun
 102164	verb
-102166	verb
+102166	noun other indeclinable
 102172	noun
-verb
-102175	verb
+noun other indeclinable
+102175	noun other indeclinable
 102177	noun
 102180	verb
 102182	verb
@@ -15522,7 +15522,7 @@ verb
 102245	verb
 102249	verb
 102257	noun
-102259	verb
+102259	noun other indeclinable
 102264	verb
 102279	noun
 102281	personal pronoun
@@ -15530,30 +15530,30 @@ verb
 102291	noun
 102295	verb
 proper noun indeclinable
-102305	verb
+102305	noun other indeclinable
 102308	proper noun indeclinable
 102311	personal pronoun
 102326	noun
 102335	noun
-102339	verb
-102349	verb
+102339	noun other indeclinable
+102349	noun other indeclinable
 102353	noun
-102375	verb
+102375	noun other indeclinable
 102379	verb
 102382	verb
 102388	noun
 102396	verb
 102399	proper noun indeclinable
-102406	verb
+102406	noun other indeclinable
 102415	noun
 102421	verb
-noun
+noun other indeclinable
 verb
 102427	verb
 verb
 102441	verb
-102445	relative pronoun
-102449	relative pronoun
+102445	noun other indeclinable
+102449	noun other indeclinable
 102455	verb
 102461	verb
 102466	verb
@@ -15561,19 +15561,19 @@ verb
 102479	verb
 102514	verb
 102516	verb
-verb
+noun other indeclinable
 102538	verb
 102547	verb
-102552	conjunction
+102552	noun other indeclinable
 102555	verb
 102558	noun
 proper noun indeclinable
 102610	verb
 verb
 102613	noun
-102616	verb
+102616	noun other indeclinable
 102638	verb
-102646	verb
+102646	noun other indeclinable
 102653	noun
 102661	verb
 102672	verb
@@ -15596,27 +15596,27 @@ verb
 102797	verb
 102799	verb
 102808	verb
-102813	relative pronoun
+102813	noun other indeclinable
 102816	verb
-relative pronoun
+noun other indeclinable
 102825	verb
-102840	verb
+102840	noun other indeclinable
 102845	verb
 102848	verb
-relative pronoun
+noun other indeclinable
 102851	verb
-102854	relative pronoun
+102854	noun other indeclinable
 102862	noun
 102867	verb
 102883	unknown
 verb
 verb
-102894	verb
+102894	noun other indeclinable
 noun
-102900	verb
-102915	verb
+102900	noun other indeclinable
+102915	noun other indeclinable
 102924	verb
-102930	verb
+102930	noun other indeclinable
 102932	verb
 102934	personal pronoun
 102950	proper noun indeclinable
@@ -15625,7 +15625,7 @@ noun
 102973	noun
 102988	noun
 102998	noun
-103001	verb
+103001	noun other indeclinable
 103003	noun
 103013	verb
 103017	verb
@@ -15642,19 +15642,19 @@ noun
 103087	verb
 103094	verb
 103103	verb
-103119	adverb
+103119	noun other indeclinable
 103122	verb
 103125	verb
 103130	verb
-103148	verb
-103162	verb
+103148	noun other indeclinable
+103162	noun other indeclinable
 103167	verb
 103172	verb
 103175	verb
 103178	unknown
 103192	noun
 103197	verb
-103202	verb
+103202	noun other indeclinable
 verb
 103212	verb
 103216	verb
@@ -15669,12 +15669,12 @@ verb
 103254	verb
 noun
 103257	verb
-103264	verb
-103268	verb
+103264	noun other indeclinable
+103268	noun other indeclinable
 103270	noun
-103272	verb
+103272	noun
 verb
-relative pronoun
+noun other indeclinable
 103286	verb
 verb
 103290	verb
@@ -15704,7 +15704,7 @@ verb
 103420	verb
 103428	personal pronoun
 103430	verb
-103433	verb
+103433	noun other indeclinable
 103436	verb
 103443	proper noun indeclinable
 verb
@@ -15714,7 +15714,7 @@ verb
 103476	noun
 103485	verb
 103487	verb
-103496	verb
+103496	noun other indeclinable
 103500	verb
 103506	verb
 verb
@@ -15726,14 +15726,14 @@ verb
 103533	verb
 103541	verb
 103548	noun
-103550	relative pronoun
+103550	noun other indeclinable
 103571	noun
-103576	verb
+103576	noun other indeclinable
 103592	personal pronoun
 103596	verb
 verb
-103602	verb
-103614	verb
+103602	noun other indeclinable
+103614	noun other indeclinable
 103618	verb
 103627	verb
 103631	verb
@@ -15741,126 +15741,126 @@ verb
 103644	verb
 103655	verb
 103664	proper noun indeclinable
-103668	verb
-103673	adverb
+103668	noun other indeclinable
+103673	noun other indeclinable
 103676	verb
-103685	verb
+103685	noun other indeclinable
 103690	noun
 103692	verb
-103697	verb
+103697	noun other indeclinable
 103700	verb
-verb
+noun other indeclinable
 103709	verb
 103713	verb
 103722	verb
-103729	verb
+103729	noun other indeclinable
 verb
-103733	verb
-103736	verb
-103741	verb
+103733	noun other indeclinable
+103736	noun other indeclinable
+103741	noun other indeclinable
 103744	verb
 103751	verb
-103753	verb
+103753	noun other indeclinable
 verb
 103759	noun
-103779	verb
-103782	verb
+103779	noun other indeclinable
+103782	noun other indeclinable
 103786	verb
 noun
-103805	verb
+103805	noun other indeclinable
 verb
 103809	verb
-103823	verb
+103823	noun other indeclinable
 103830	verb
 103832	proper noun indeclinable
-103834	verb
+103834	noun other indeclinable
 103837	proper noun indeclinable
 103842	proper noun indeclinable
-103846	verb
-103848	verb
+103846	noun other indeclinable
+103848	noun other indeclinable
 103856	proper noun indeclinable
-103875	verb
-103878	verb
+103875	noun other indeclinable
+103878	noun other indeclinable
 103888	verb
-103892	verb
+103892	noun other indeclinable
 103910	verb
 103918	noun
 103920	verb
 verb
-103926	verb
+103926	noun other indeclinable
 103928	verb
 103932	verb
 103953	verb
-103967	verb
+103967	noun other indeclinable
 verb
-103995	verb
+103995	noun other indeclinable
 104019	verb
-verb
+noun other indeclinable
 104026	verb
 104028	verb
+noun other indeclinable
 verb
-verb
-104032	verb
+104032	noun other indeclinable
 104035	verb
-104050	verb
+104050	noun other indeclinable
 104054	verb
-104056	verb
+104056	noun other indeclinable
 104073	verb
 104082	proper noun indeclinable
-104084	verb
-104097	verb
-104119	verb
-104124	verb
-104131	verb
+104084	noun other indeclinable
+104097	noun other indeclinable
+104119	noun other indeclinable
+104124	noun other indeclinable
+104131	noun other indeclinable
 104133	verb
 104138	proper noun indeclinable
 104144	verb
 104148	verb
 verb
-relative pronoun
+noun other indeclinable
 104152	personal pronoun
-104159	verb
+104159	noun other indeclinable
 verb
 noun
 104164	verb
-104185	verb
-104188	verb
-104193	verb
-104204	verb
-104208	verb
+104185	noun other indeclinable
+104188	noun other indeclinable
+104193	noun other indeclinable
+104204	noun other indeclinable
+104208	noun other indeclinable
 104216	noun
 104223	verb
-104238	verb
-104249	verb
+104238	noun other indeclinable
+104249	noun other indeclinable
 104257	proper noun indeclinable
-104259	verb
+104259	noun other indeclinable
 104261	personal pronoun
 104267	verb
-verb
+noun other indeclinable
 104284	verb
-104294	verb
-104299	verb
-104306	noun
-104309	verb
+104294	noun other indeclinable
+104299	noun other indeclinable
+104306	noun other indeclinable
+104309	noun other indeclinable
 104322	proper noun indeclinable
 104332	noun
-verb
-104341	verb
+noun other indeclinable
+104341	noun other indeclinable
 104343	verb
 104347	noun
-verb
+noun other indeclinable
 104351	proper noun indeclinable
 noun
 104354	verb
 104357	verb
-104360	verb
+104360	noun other indeclinable
 104365	noun
 104367	verb
 104370	noun
-verb
-104379	noun
+noun other indeclinable
+104379	noun other indeclinable
 104390	personal pronoun
-104392	verb
+104392	noun other indeclinable
 104398	noun
 104402	verb
 104405	verb
@@ -15868,70 +15868,70 @@ verb
 104411	verb
 104413	verb
 104421	verb
-104427	verb
+104427	noun other indeclinable
 104429	proper noun indeclinable
 verb
 104432	noun
-104436	verb
+104436	noun other indeclinable
 verb
-verb
+noun other indeclinable
 104442	verb
 104446	verb
-verb
+noun other indeclinable
 104470	verb
-104485	verb
-104495	verb
-104509	relative pronoun
-104518	verb
+104485	noun other indeclinable
+104495	noun other indeclinable
+104509	noun other indeclinable
+104518	noun other indeclinable
 104521	proper noun indeclinable
-104530	verb
+104530	noun other indeclinable
 104533	noun
 104545	verb
 104559	verb
-104584	verb
+104584	noun other indeclinable
 104588	proper noun indeclinable
-104599	verb
+104599	noun other indeclinable
 104602	noun
 104604	verb
 104609	verb
-104616	verb
+104616	noun other indeclinable
 104621	verb
-104623	verb
-104630	verb
+104623	noun other indeclinable
+104630	noun other indeclinable
 104632	noun
-104640	verb
+104640	noun other indeclinable
 104653	proper noun indeclinable
 104661	proper noun indeclinable
 noun
-verb
+noun other indeclinable
 104680	noun
 104688	verb
 104691	noun
-104694	verb
-104698	verb
+104694	noun other indeclinable
+104698	noun other indeclinable
 verb
 104725	verb
 104735	verb
 104745	verb
 verb
-104752	verb
-104757	verb
+104752	noun other indeclinable
+104757	noun other indeclinable
 104759	verb
-104761	verb
+104761	noun other indeclinable
 104765	proper noun indeclinable
-104772	verb
+104772	noun other indeclinable
 verb
-104779	verb
+104779	noun other indeclinable
 verb
 unknown
 verb
-104796	verb
+104796	noun other indeclinable
 verb
-104804	verb
-104817	verb
+104804	noun other indeclinable
+104817	noun other indeclinable
 104824	noun
 104838	noun
-104841	verb
+104841	noun other indeclinable
 104858	verb
 verb
 104879	proper noun indeclinable
@@ -15949,34 +15949,34 @@ proper noun indeclinable
 104945	verb
 104947	verb
 noun
-104967	verb
-104972	verb
+104967	noun other indeclinable
+104972	noun other indeclinable
 104976	verb
 104978	verb
-104981	verb
+104981	noun other indeclinable
 verb
 104986	proper noun indeclinable
 105001	noun
 105003	verb
-105008	verb
+105008	noun other indeclinable
 105014	verb
-105021	verb
+105021	noun other indeclinable
 verb
 105025	verb
-105028	verb
+105028	noun other indeclinable
 verb
 105035	proper noun indeclinable
 105037	verb
-verb
+noun other indeclinable
 105045	verb
 105051	verb
 noun
-105057	verb
+105057	noun other indeclinable
 105059	noun
 105061	verb
-105075	verb
-105089	verb
-105095	verb
+105075	noun other indeclinable
+105089	noun other indeclinable
+105095	noun other indeclinable
 105102	verb
 verb
 105105	noun
@@ -15984,24 +15984,24 @@ verb
 105113	verb
 105124	noun
 105128	verb
-105130	verb
-105145	verb
+105130	noun other indeclinable
+105145	noun
 105195	verb
 105216	verb
-verb
+noun other indeclinable
 105223	proper noun indeclinable
 105237	verb
-105251	verb
+105251	noun other indeclinable
 105257	verb
 105259	verb
-relative pronoun
+noun other indeclinable
 105264	verb
-verb
+noun other indeclinable
 verb
 105280	verb
 105290	proper noun indeclinable
 verb
-105295	verb
+105295	noun other indeclinable
 105304	verb
 105306	relative pronoun
 105308	verb
@@ -16009,55 +16009,55 @@ verb
 105319	verb
 105321	verb
 105327	noun
-105329	verb
+105329	noun other indeclinable
 105331	noun
 105335	verb
 105340	verb
 noun
 105348	verb
-105366	verb
+105366	noun other indeclinable
 verb
-relative pronoun
+noun other indeclinable
 105371	verb
-105377	verb
+105377	noun other indeclinable
 verb
 105389	verb
 105403	proper noun indeclinable
-105405	verb
+105405	noun other indeclinable
 105413	proper noun indeclinable
 105428	verb
 105436	verb
 105438	verb
-105444	unknown
+105444	noun other indeclinable
 105446	verb
-105448	relative pronoun
-105451	relative pronoun
+105448	noun other indeclinable
+105451	noun other indeclinable
 verb
 105461	noun
 105466	verb
 verb
 105472	verb
-105477	verb
+105477	noun other indeclinable
 105481	verb
-105483	verb
+105483	noun other indeclinable
 105497	verb
 105500	verb
-105505	verb
+105505	noun other indeclinable
 105508	verb
-105518	verb
+105518	noun other indeclinable
 105525	verb
-relative pronoun
+noun other indeclinable
 105528	verb
-105535	relative pronoun
+105535	noun other indeclinable
 105541	verb
 105546	verb
-relative pronoun
+noun other indeclinable
 105558	verb
-verb
+noun other indeclinable
 105561	personal pronoun
 105563	verb
 105572	verb
-105586	verb
+105586	noun other indeclinable
 105592	noun
 105594	verb
 105598	verb
@@ -16065,7 +16065,7 @@ verb
 105611	verb
 105613	personal pronoun
 105615	verb
-105619	relative pronoun
+105619	noun other indeclinable
 proper noun indeclinable
 105624	verb
 105629	verb
@@ -16080,34 +16080,34 @@ proper noun indeclinable
 105689	verb
 105693	personal pronoun
 105695	proper noun indeclinable
-105702	relative pronoun
+105702	noun other indeclinable
 105710	verb
 proper noun indeclinable
-105717	verb
+105717	noun other indeclinable
 verb
 105723	noun
 105726	verb
 105733	noun
-verb
+noun other indeclinable
 105741	verb
 105747	personal pronoun
 105750	verb
 proper noun indeclinable
 105754	verb
-105757	verb
+105757	noun other indeclinable
 105761	verb
 personal pronoun
 verb
 105767	verb
 verb
-105773	verb
-105778	relative pronoun
-105784	relative pronoun
-105787	relative pronoun
+105773	noun other indeclinable
+105778	noun other indeclinable
+105784	noun other indeclinable
+105787	noun other indeclinable
 verb
 105794	verb
 105798	noun
-105800	relative pronoun
+105800	noun other indeclinable
 105802	verb
 105809	verb
 105811	noun
@@ -16118,11 +16118,11 @@ verb
 proper noun indeclinable
 105831	verb
 105839	noun
-105841	verb
+105841	noun other indeclinable
 105851	verb
+noun other indeclinable
 verb
-verb
-105855	verb
+105855	noun other indeclinable
 105857	noun
 105865	verb
 105875	verb
@@ -16130,37 +16130,37 @@ verb
 105885	verb
 verb
 105900	proper noun indeclinable
-105904	verb
+105904	noun other indeclinable
 105907	noun
 105913	verb
-105917	verb
+105917	noun other indeclinable
 105926	noun
-105932	verb
+105932	noun other indeclinable
 105941	verb
-105944	verb
-105950	verb
-105957	verb
+105944	noun other indeclinable
+105950	noun other indeclinable
+105957	noun other indeclinable
 105961	proper noun indeclinable
 105965	proper noun indeclinable
 105982	verb
 noun
-105989	verb
-105992	verb
-105998	verb
+105989	noun other indeclinable
+105992	noun other indeclinable
+105998	noun other indeclinable
 verb
 verb
 106002	verb
 106006	verb
-106014	verb
+106014	noun other indeclinable
 verb
-106019	verb
-106029	verb
-106032	verb
-106035	relative pronoun
+106019	noun other indeclinable
+106029	noun other indeclinable
+106032	noun other indeclinable
+106035	noun other indeclinable
 verb
 106044	proper noun indeclinable
 106050	verb
-106059	verb
+106059	noun other indeclinable
 verb
 106062	verb
 106069	noun
@@ -16169,35 +16169,35 @@ proper noun indeclinable
 106086	verb
 106089	verb
 106099	noun
-106103	verb
+106103	noun other indeclinable
 106108	verb
-106114	verb
-106119	verb
+106114	noun other indeclinable
+106119	noun other indeclinable
 106122	verb
 106130	verb
 106134	verb
 106137	noun
 106142	verb
-106147	verb
+106147	noun other indeclinable
 verb
 verb
 106157	verb
 106165	verb
 106168	noun
-106179	verb
+106179	noun other indeclinable
 106183	verb
 106197	noun
-106201	verb
+106201	noun other indeclinable
 106203	verb
 106208	verb
-106211	verb
+106211	noun other indeclinable
 106215	verb
-106230	relative pronoun
+106230	noun other indeclinable
 verb
-106234	verb
+106234	noun other indeclinable
 106243	verb
 106249	verb
-verb
+noun other indeclinable
 verb
 106253	verb
 verb
@@ -16206,9 +16206,9 @@ verb
 106277	verb
 106280	verb
 106287	proper noun indeclinable
-106301	verb
-106304	verb
-106317	verb
+106301	noun other indeclinable
+106304	noun other indeclinable
+106317	noun other indeclinable
 verb
 106321	verb
 106324	verb
@@ -16221,38 +16221,38 @@ verb
 106357	personal pronoun
 106370	verb
 106379	verb
-106385	verb
+106385	noun other indeclinable
 106388	verb
 106391	verb
 106399	noun
-106416	verb
-106420	verb
+106416	noun other indeclinable
+106420	noun other indeclinable
 verb
-106423	relative pronoun
-106429	verb
+106423	noun other indeclinable
+106429	noun other indeclinable
 106434	noun
 106437	noun
 verb
-106452	verb
+106452	noun other indeclinable
 106469	verb
 verb
 106473	verb
 106487	unknown
 106493	verb
 106512	verb
-verb
-106516	verb
+noun other indeclinable
+106516	noun other indeclinable
 106518	noun
 106526	unknown
 106541	proper noun indeclinable
-106546	verb
+106546	noun other indeclinable
 106550	verb
-106559	verb
+106559	noun other indeclinable
 106575	verb
 106588	verb
-106600	verb
-106605	verb
-106611	verb
+106600	noun other indeclinable
+106605	noun other indeclinable
+106611	noun other indeclinable
 106615	verb
 verb
 106636	verb
@@ -16261,22 +16261,22 @@ verb
 106656	proper noun indeclinable
 106660	verb
 106662	proper noun indeclinable
-106667	verb
-106671	verb
-106675	verb
+106667	noun other indeclinable
+106671	noun other indeclinable
+106675	noun other indeclinable
 verb
 verb
 106684	noun
 106686	verb
 106689	verb
 verb
-106692	verb
-106699	relative pronoun
+106692	noun other indeclinable
+106699	noun other indeclinable
 106706	verb
 verb
 106709	verb
 106715	verb
-106726	verb
+106726	noun other indeclinable
 106732	noun
 verb
 106739	proper noun indeclinable
@@ -16284,21 +16284,21 @@ noun
 106743	noun
 106747	verb
 verb
-106757	relative pronoun
-verb
+106757	noun other indeclinable
+noun other indeclinable
 106760	verb
 106763	verb
-106767	verb
+106767	noun other indeclinable
 106769	verb
 106778	verb
 106783	noun
-verb
+noun other indeclinable
 106807	verb
-106814	verb
-106817	relative pronoun
-106819	verb
+106814	noun other indeclinable
+106817	noun other indeclinable
+106819	noun other indeclinable
 106839	verb
-106867	verb
+106867	noun other indeclinable
 verb
 106875	verb
 106878	proper noun indeclinable
@@ -16307,28 +16307,28 @@ verb
 personal pronoun
 106894	proper noun indeclinable
 106898	proper noun indeclinable
-106907	relative pronoun
+106907	noun other indeclinable
 106915	verb
-106921	relative pronoun
+106921	noun other indeclinable
 106924	proper noun indeclinable
-106930	verb
+106930	noun other indeclinable
 verb
 106937	noun
 106944	noun
-106961	conjunction
+106961	noun other indeclinable
 106973	verb
 106975	verb
 106984	verb
 106992	verb
 106995	verb
 107002	verb
-107008	verb
+107008	noun other indeclinable
 verb
 107019	noun
 107024	verb
 107028	verb
 107030	verb
-107043	verb
+107043	noun other indeclinable
 verb
 proper noun indeclinable
 107058	verb
@@ -16336,17 +16336,17 @@ proper noun indeclinable
 107070	verb
 personal pronoun
 107073	verb
-107077	verb
-107082	verb
+107077	noun other indeclinable
+107082	noun other indeclinable
 107087	verb
-107090	verb
+107090	noun other indeclinable
 107094	noun
-107097	verb
+107097	noun other indeclinable
 107101	verb
 107118	verb
-107122	verb
+107122	noun other indeclinable
 107126	verb
-107128	conjunction
+107128	noun other indeclinable
 107133	noun
 107136	verb
 verb
@@ -16354,7 +16354,7 @@ verb
 107146	noun
 107154	verb
 107158	proper noun indeclinable
-107169	verb
+107169	noun other indeclinable
 107172	verb
 107178	verb
 107180	noun
@@ -16363,45 +16363,45 @@ verb
 107215	verb
 107220	verb
 107243	proper noun indeclinable
-107245	verb
+107245	noun other indeclinable
 107258	verb
 107261	verb
-verb
+noun other indeclinable
 107267	verb
 107280	verb
 107293	verb
 107306	verb
 107312	verb
 107316	verb
-107331	verb
+107331	noun other indeclinable
 107333	verb
 107335	personal pronoun
 proper noun indeclinable
-107343	verb
+107343	noun other indeclinable
 107351	noun
 107355	verb
 107374	verb
 107376	proper noun indeclinable
-107390	verb
+107390	noun other indeclinable
 verb
 107393	verb
 verb
 107397	verb
-107401	verb
+107401	noun other indeclinable
 verb
-adverb
+noun other indeclinable
 verb
-107412	verb
+107412	noun other indeclinable
 107422	verb
 verb
 107426	proper noun indeclinable
-107428	verb
-107432	verb
+107428	noun other indeclinable
+107432	noun other indeclinable
 verb
 107436	verb
 107439	verb
 107445	noun
-107450	verb
+107450	noun other indeclinable
 107456	verb
 107459	proper noun indeclinable
 107465	verb
@@ -16409,31 +16409,31 @@ verb
 107474	verb
 verb
 107480	proper noun indeclinable
-107483	verb
+107483	noun other indeclinable
 107491	verb
 107495	noun
 107499	verb
 107504	verb
 107511	relative pronoun
-107520	verb
-107534	verb
+107520	noun other indeclinable
+107534	noun other indeclinable
 verb
 107555	verb
-107559	verb
+107559	noun other indeclinable
 107562	verb
 107564	verb
 107567	verb
-107570	verb
-107573	verb
+107570	noun other indeclinable
+107573	noun other indeclinable
 107579	verb
-107586	verb
+107586	noun other indeclinable
 107591	unknown
 107596	verb
 verb
-107603	verb
+107603	noun other indeclinable
 verb
 107623	verb
-107626	verb
+107626	noun other indeclinable
 107636	verb
 107639	verb
 107641	verb
@@ -16445,74 +16445,74 @@ verb
 107665	verb
 107674	verb
 proper noun indeclinable
-107682	verb
+107682	noun other indeclinable
 verb
-verb
-107700	verb
-107704	verb
+noun other indeclinable
+107700	noun other indeclinable
+107704	noun other indeclinable
 107709	personal pronoun
 107716	personal pronoun
 107720	personal pronoun
-107725	adverb
+107725	noun other indeclinable
 107728	verb
 107739	noun
 107741	verb
-107747	verb
+107747	noun other indeclinable
 107751	verb
-107753	verb
+107753	noun other indeclinable
 107760	verb
 107768	verb
-107780	verb
+107780	noun other indeclinable
 107785	verb
 107792	noun
-107798	verb
-107803	verb
-107816	verb
-107826	verb
+107798	noun other indeclinable
+107803	noun other indeclinable
+107816	noun other indeclinable
+107826	noun other indeclinable
 107837	verb
-verb
+noun other indeclinable
 107846	verb
 107862	verb
-verb
+noun other indeclinable
 107865	noun
-107887	verb
+107887	noun other indeclinable
 verb
 107891	verb
 107893	verb
 unknown
 107896	verb
 107898	proper noun indeclinable
-107900	verb
+107900	noun other indeclinable
 107908	verb
 107910	verb
-verb
+noun other indeclinable
 verb
 107922	proper noun indeclinable
 107938	verb
 107940	verb
-verb
+noun other indeclinable
 107956	noun
 107958	verb
 107960	verb
-107962	verb
+107962	noun other indeclinable
 107966	verb
 107973	verb
 107975	verb
-107982	verb
+107982	noun other indeclinable
 107985	proper noun indeclinable
-107987	verb
+107987	noun other indeclinable
 107994	proper noun indeclinable
 noun
 107997	proper noun indeclinable
 108006	verb
 proper noun indeclinable
 108021	proper noun indeclinable
-108023	verb
+108023	noun other indeclinable
 108025	verb
 108034	verb
 108041	verb
-108044	verb
-108049	verb
+108044	noun other indeclinable
+108049	noun other indeclinable
 108055	verb
 108059	verb
 proper noun indeclinable
@@ -16520,85 +16520,85 @@ proper noun indeclinable
 108069	verb
 108074	proper noun indeclinable
 108079	proper noun indeclinable
-verb
+noun other indeclinable
 108091	verb
-verb
-108100	verb
+noun other indeclinable
+108100	noun other indeclinable
 108106	noun
 108108	verb
 108116	verb
 108125	verb
-108138	verb
+108138	noun other indeclinable
 verb
 verb
-108152	verb
+108152	noun other indeclinable
 108158	verb
 proper noun indeclinable
-108165	verb
+108165	noun other indeclinable
 108185	verb
 108195	verb
-108226	verb
-108232	verb
+108226	noun other indeclinable
+108232	noun other indeclinable
 108240	verb
-108248	verb
+108248	noun other indeclinable
 verb
 108255	noun
-verb
+noun other indeclinable
 108261	verb
-108269	verb
-108271	verb
-108284	verb
-108293	verb
+108269	noun other indeclinable
+108271	noun other indeclinable
+108284	noun other indeclinable
+108293	noun other indeclinable
 108298	verb
-108301	verb
+108301	noun other indeclinable
 verb
 108316	verb
-108318	verb
+108318	noun other indeclinable
 108322	personal pronoun
 108330	verb
-108335	verb
+108335	noun other indeclinable
 108343	verb
-108363	relative pronoun
+108363	noun other indeclinable
 108370	noun
-verb
+noun other indeclinable
 108373	verb
-108377	verb
-108386	verb
+108377	noun other indeclinable
+108386	noun other indeclinable
 108395	noun
 108400	verb
 108407	proper noun indeclinable
-108416	verb
+108416	noun other indeclinable
 108418	verb
-108427	verb
-108438	verb
+108427	noun other indeclinable
+108438	noun other indeclinable
 108442	verb
-108444	verb
+108444	noun other indeclinable
 108446	verb
-108451	verb
+108451	noun other indeclinable
 108453	verb
-108458	verb
-108461	verb
+108458	noun other indeclinable
+108461	noun other indeclinable
 108465	noun
 108471	verb
 108476	verb
 108496	proper noun indeclinable
-108506	conjunction
+108506	noun other indeclinable
 verb
 108514	verb
 verb
-108526	verb
-108530	verb
-108537	verb
+108526	noun other indeclinable
+108530	noun other indeclinable
+108537	noun other indeclinable
 verb
-108540	verb
+108540	noun other indeclinable
 noun
 verb
-verb
+noun other indeclinable
 108546	verb
 108548	verb
 108550	relative pronoun
 108552	verb
-108564	verb
+108564	noun other indeclinable
 108569	verb
 relative pronoun
 108573	verb
@@ -16609,34 +16609,34 @@ relative pronoun
 108599	noun
 108601	verb
 108603	verb
-108614	relative pronoun
-108616	verb
+108614	noun other indeclinable
+108616	noun other indeclinable
 108620	verb
 108622	noun
 108625	relative pronoun
 108631	verb
 108633	proper noun indeclinable
-108645	verb
-108653	verb
+108645	noun other indeclinable
+108653	noun other indeclinable
 verb
 108665	proper noun indeclinable
 verb
-108672	verb
+108672	noun other indeclinable
 verb
 108675	verb
 108677	proper noun indeclinable
 verb
 108681	proper noun indeclinable
-108695	verb
-108711	verb
+108695	noun other indeclinable
+108711	noun other indeclinable
 verb
 108715	proper noun indeclinable
 108717	proper noun indeclinable
 108724	verb
 108733	relative pronoun
 108738	verb
-verb
-108747	verb
+noun other indeclinable
+108747	noun other indeclinable
 108751	verb
 108754	proper noun indeclinable
 108756	verb
@@ -16645,37 +16645,37 @@ verb
 108782	verb
 108796	verb
 108803	verb
-108806	verb
-108811	relative pronoun
+108806	noun other indeclinable
+108811	noun other indeclinable
 verb
 108814	verb
 108829	verb
 108838	noun
 108849	verb
-108861	verb
-108869	verb
-108880	verb
-108883	verb
+108861	noun other indeclinable
+108869	noun other indeclinable
+108880	noun other indeclinable
+108883	noun other indeclinable
 verb
-108894	verb
-108898	verb
+108894	noun other indeclinable
+108898	noun other indeclinable
 108908	verb
 noun
-verb
+noun other indeclinable
 108912	verb
-verb
-108916	verb
+noun other indeclinable
+108916	noun other indeclinable
 108918	verb
 108928	verb
 108930	verb
-relative pronoun
+noun other indeclinable
 verb
-verb
+noun other indeclinable
 verb
 personal pronoun
 108937	verb
 108945	proper noun indeclinable
-108956	verb
+108956	noun other indeclinable
 verb
 personal pronoun
 108962	proper noun indeclinable
@@ -16683,13 +16683,13 @@ personal pronoun
 verb
 108975	verb
 verb
-108978	verb
-108980	relative pronoun
-108983	verb
+108978	noun other indeclinable
+108980	noun other indeclinable
+108983	noun other indeclinable
 108988	noun
 108990	verb
 noun
-108995	relative pronoun
+108995	noun other indeclinable
 108997	verb
 109004	verb
 109011	verb
@@ -16697,24 +16697,24 @@ noun
 verb
 109032	verb
 109039	noun
-verb
+noun other indeclinable
 109044	verb
-109046	verb
-109048	verb
-109051	noun
+109046	noun other indeclinable
+109048	noun other indeclinable
+109051	noun other indeclinable
 109058	verb
 109060	verb
 109062	verb
-109075	relative pronoun
+109075	noun other indeclinable
 verb
-109079	verb
+109079	noun other indeclinable
 109081	verb
-109084	verb
-109092	verb
+109084	noun other indeclinable
+109092	noun other indeclinable
 109098	verb
 109103	proper noun indeclinable
 109107	verb
-109118	verb
+109118	noun other indeclinable
 verb
 109121	verb
 109128	noun
@@ -16727,27 +16727,27 @@ proper noun indeclinable
 109184	verb
 109188	noun
 109190	verb
-109208	verb
+109208	noun other indeclinable
 109213	verb
-109216	verb
+109216	noun other indeclinable
 109220	verb
 noun
 109225	noun
-109232	verb
-109236	verb
+109232	noun other indeclinable
+109236	noun other indeclinable
 verb
-109249	verb
+109249	noun other indeclinable
 109253	noun
 109259	verb
-109270	verb
+109270	noun other indeclinable
 109273	verb
 109288	verb
-109291	verb
+109291	noun other indeclinable
 verb
 109299	noun
 109305	verb
 109316	verb
-109318	verb
+109318	noun other indeclinable
 109322	verb
 109351	verb
 109353	verb
@@ -16756,24 +16756,24 @@ verb
 109375	verb
 109377	verb
 109381	verb
-109387	verb
+109387	noun other indeclinable
 109390	verb
-109392	verb
-109395	verb
+109392	noun other indeclinable
+109395	noun other indeclinable
 109402	verb
-109405	verb
+109405	noun other indeclinable
 109411	verb
 109416	verb
-109420	verb
+109420	noun other indeclinable
 verb
-109434	verb
-109438	verb
+109434	noun other indeclinable
+109438	noun other indeclinable
 109440	noun
 109444	verb
 109448	verb
-109451	verb
+109451	noun other indeclinable
 109455	noun
-109457	verb
+109457	noun other indeclinable
 109466	verb
 109490	verb
 109506	verb
@@ -16782,31 +16782,31 @@ verb
 109523	verb
 109535	verb
 109540	verb
-verb
-109544	verb
+noun other indeclinable
+109544	noun other indeclinable
 109552	verb
 109554	verb
-verb
+noun other indeclinable
 109564	verb
-109569	verb
+109569	noun other indeclinable
 109571	verb
 109576	verb
 109579	verb
-109583	relative pronoun
+109583	noun other indeclinable
 109586	verb
-109596	verb
+109596	noun other indeclinable
 109601	verb
-109603	verb
+109603	noun other indeclinable
 verb
 109612	verb
 109618	verb
-109620	verb
+109620	noun other indeclinable
 noun
-109623	relative pronoun
+109623	noun other indeclinable
 109626	verb
 109628	verb
-verb
-109632	relative pronoun
+noun other indeclinable
+109632	noun other indeclinable
 verb
 109636	proper noun indeclinable
 109648	verb
@@ -16815,13 +16815,13 @@ verb
 109676	verb
 109683	verb
 109685	verb
-109691	relative pronoun
+109691	noun other indeclinable
 unknown
 109694	unknown
 109702	verb
-relative pronoun
+noun other indeclinable
 proper noun indeclinable
-109707	relative pronoun
+109707	noun other indeclinable
 109721	unknown
 109723	verb
 109730	noun
@@ -16830,33 +16830,33 @@ proper noun indeclinable
 109749	verb
 109754	verb
 109759	verb
-109763	verb
+109763	noun other indeclinable
 109769	verb
 109773	verb
 109775	verb
-109778	verb
-109781	verb
+109778	noun other indeclinable
+109781	noun other indeclinable
 109785	proper noun indeclinable
 109792	verb
 109803	noun
 109819	verb
 109829	verb
 109853	verb
-109860	verb
+109860	noun other indeclinable
 109862	verb
 109884	verb
 109886	verb
 109889	verb
 109895	verb
-109898	verb
+109898	noun other indeclinable
 109901	verb
-109916	verb
+109916	noun other indeclinable
 noun
 verb
 109920	verb
 109928	verb
-verb
-109947	verb
+noun other indeclinable
+109947	noun other indeclinable
 109953	verb
 109973	verb
 noun
@@ -16872,10 +16872,10 @@ verb
 110041	verb
 110043	noun
 110050	verb
-110053	verb
+110053	noun other indeclinable
 verb
 110065	verb
-110068	adverb
+110068	noun other indeclinable
 110074	verb
 110088	verb
 proper noun indeclinable
@@ -16885,14 +16885,14 @@ proper noun indeclinable
 verb
 110118	verb
 110120	verb
-110138	verb
+110138	noun other indeclinable
 110142	verb
-110146	verb
+110146	noun other indeclinable
 110148	verb
 110150	verb
 110156	verb
 110164	verb
-verb
+noun other indeclinable
 verb
 110175	verb
 110183	verb
@@ -16900,27 +16900,27 @@ verb
 110193	noun
 110195	verb
 110202	verb
-110218	verb
+110218	noun other indeclinable
 110221	verb
-110223	verb
+110223	noun other indeclinable
 110225	verb
 110228	proper noun indeclinable
 110230	proper noun indeclinable
 110234	verb
-110240	verb
+110240	noun other indeclinable
 110248	noun
-110267	verb
+110267	noun other indeclinable
 110274	verb
 verb
 110277	verb
 110304	verb
-110314	verb
+110314	noun other indeclinable
 verb
 110318	verb
 110329	proper noun indeclinable
 verb
 110340	verb
-110344	verb
+110344	noun other indeclinable
 110348	verb
 110360	verb
 110363	personal pronoun
@@ -16928,52 +16928,52 @@ verb
 110383	noun
 110386	verb
 110392	verb
-verb
+noun other indeclinable
 110395	verb
 110398	personal pronoun
 110400	personal pronoun
 110404	verb
 110406	verb
 110415	noun
-verb
-110418	verb
-110422	verb
+noun other indeclinable
+110418	noun other indeclinable
+110422	noun other indeclinable
 110424	verb
 verb
 110427	verb
 110429	personal pronoun
 verb
-verb
+noun other indeclinable
 110434	noun
 110437	personal pronoun
 110439	personal pronoun
-110441	noun
-110445	verb
+110441	noun other indeclinable
+110445	noun other indeclinable
 110448	verb
 110450	verb
 110457	verb
 110460	verb
-110462	verb
+110462	noun other indeclinable
 110464	verb
 110469	verb
 110472	verb
-110481	unknown
+110481	noun other indeclinable
 verb
 110484	noun
 verb
-relative pronoun
-110488	verb
+noun other indeclinable
+110488	noun other indeclinable
 110500	verb
-110506	verb
-110518	verb
+110506	noun other indeclinable
+110518	noun other indeclinable
 verb
 110522	noun
-110524	relative pronoun
+110524	noun other indeclinable
 110526	noun
 110530	verb
 110534	verb
 110541	noun
-110545	relative pronoun
+110545	noun other indeclinable
 personal pronoun
 110548	verb
 110552	personal pronoun
@@ -16984,16 +16984,16 @@ verb
 110586	verb
 110588	noun
 110590	verb
-110603	noun
+110603	noun other indeclinable
 110608	verb
 110614	proper noun indeclinable
-110625	verb
-110630	verb
+110625	noun other indeclinable
+110630	noun other indeclinable
 verb
-110639	verb
+110639	noun other indeclinable
 verb
 noun
-110646	verb
+110646	noun other indeclinable
 110648	verb
 110655	verb
 110660	verb
@@ -17001,66 +17001,66 @@ noun
 110669	verb
 110671	noun
 verb
-110686	verb
+110686	noun other indeclinable
 110692	verb
-verb
+noun other indeclinable
 110704	verb
 110722	verb
-110737	verb
+110737	noun other indeclinable
 110739	verb
 110741	verb
 110748	noun
 110752	verb
-110761	verb
+110761	noun other indeclinable
 110767	noun
-110774	adverb
+110774	noun other indeclinable
 110777	verb
 110789	verb
-110791	verb
+110791	noun other indeclinable
 110796	verb
 110804	verb
 110807	verb
 110819	noun
 110829	verb
-110839	verb
-110842	verb
+110839	noun other indeclinable
+110842	noun other indeclinable
 110846	verb
-110853	verb
+110853	noun other indeclinable
 110868	verb
 110874	noun
 110876	verb
 110883	noun
-110897	verb
+110897	noun other indeclinable
 110899	verb
 110901	verb
 110904	verb
 110906	verb
-110909	verb
+110909	noun other indeclinable
 110913	verb
 110917	verb
 110925	verb
 110930	verb
 110934	verb
 110936	verb
-110947	verb
-110953	verb
+110947	noun other indeclinable
+110953	noun other indeclinable
 110960	verb
-110964	verb
+110964	noun other indeclinable
 110977	verb
 110984	noun
 proper noun indeclinable
-110991	verb
+110991	noun other indeclinable
 110998	verb
-111001	verb
-111005	verb
+111001	noun other indeclinable
+111005	noun other indeclinable
 111011	verb
 111014	verb
 111025	verb
 111046	noun
 111049	noun
 verb
-111054	relative pronoun
-111057	relative pronoun
+111054	noun other indeclinable
+111057	noun other indeclinable
 111059	verb
 111061	noun
 111063	verb
@@ -17073,15 +17073,15 @@ verb
 111104	verb
 111119	verb
 111125	verb
-111130	verb
+111130	noun other indeclinable
 111143	verb
 111145	noun
 111147	verb
 111156	noun
 111165	verb
-111179	verb
+111179	noun other indeclinable
 verb
-111188	verb
+111188	noun other indeclinable
 verb
 verb
 111197	verb
@@ -17092,7 +17092,7 @@ verb
 111224	personal pronoun
 111229	verb
 111245	verb
-111255	verb
+111255	noun other indeclinable
 111266	noun
 111271	verb
 111274	verb
@@ -17101,13 +17101,13 @@ verb
 verb
 111298	noun
 111317	verb
-verb
-111326	verb
+noun other indeclinable
+111326	noun other indeclinable
 111342	verb
 111368	noun
 111370	verb
 111373	verb
-111379	verb
+111379	noun other indeclinable
 verb
 111384	relative pronoun
 verb
@@ -17116,45 +17116,45 @@ verb
 111399	verb
 111401	verb
 111408	verb
-111412	verb
+111412	noun other indeclinable
 111415	verb
 111436	verb
 111438	verb
-111444	verb
+111444	noun other indeclinable
 111450	noun
-111453	verb
+111453	noun other indeclinable
 111464	verb
 111471	verb
-111503	verb
+111503	noun other indeclinable
 111508	verb
 111513	verb
 111515	verb
-verb
+noun other indeclinable
 verb
 111542	noun
 111551	verb
-111554	relative pronoun
+111554	noun other indeclinable
 111556	verb
 verb
-111559	relative pronoun
+111559	noun other indeclinable
 111564	noun
 111571	noun
-111573	verb
+111573	noun other indeclinable
 111577	noun
 111584	noun
-111590	verb
+111590	noun other indeclinable
 verb
 111598	verb
 111610	verb
 verb
-111623	verb
+111623	noun other indeclinable
 111629	verb
 111635	verb
-111641	verb
+111641	noun other indeclinable
 111658	verb
 111661	verb
 111663	verb
-111665	verb
+111665	noun other indeclinable
 111673	verb
 111684	verb
 111695	relative pronoun
@@ -17172,19 +17172,19 @@ verb
 111768	noun
 111773	verb
 111782	verb
-111787	verb
+111787	noun other indeclinable
 verb
 111794	verb
 111799	verb
-111801	verb
+111801	noun other indeclinable
 111824	verb
 noun
-111829	verb
+111829	noun other indeclinable
 111839	verb
 111850	noun
 111857	verb
-111865	verb
-111881	verb
+111865	noun other indeclinable
+111881	noun other indeclinable
 111884	verb
 111886	verb
 111889	verb
@@ -17193,11 +17193,11 @@ noun
 111913	noun
 111916	verb
 111918	verb
-111928	verb
+111928	noun other indeclinable
 verb
 111934	verb
 111936	verb
-verb
+noun other indeclinable
 verb
 111946	verb
 111950	verb
@@ -17205,28 +17205,28 @@ verb
 111980	verb
 verb
 111991	verb
-111996	verb
+111996	noun other indeclinable
 112004	verb
-verb
+noun other indeclinable
 112012	verb
-112017	verb
-112027	verb
+112017	noun other indeclinable
+112027	noun other indeclinable
 112031	verb
 112033	verb
 112035	verb
 112044	verb
-112046	verb
-112049	verb
+112046	noun other indeclinable
+112049	noun other indeclinable
 verb
 verb
-112062	verb
+112062	noun other indeclinable
 112069	noun
 112077	verb
-verb
+noun other indeclinable
 verb
 112083	noun
 112086	verb
-112088	verb
+112088	noun other indeclinable
 112091	verb
 112101	verb
 112103	verb
@@ -17238,7 +17238,7 @@ verb
 verb
 112129	verb
 112131	unknown
-112135	verb
+112135	noun other indeclinable
 verb
 112144	verb
 112150	verb
@@ -17247,35 +17247,35 @@ verb
 verb
 112167	verb
 112180	verb
-112197	verb
+112197	noun other indeclinable
 112199	verb
 112204	noun
-112216	verb
+112216	noun other indeclinable
 112223	verb
 unknown
 112228	verb
 112230	personal pronoun
 112232	unknown
-112241	verb
-112244	verb
+112241	noun other indeclinable
+112244	noun other indeclinable
 112255	verb
 112257	verb
 112261	verb
-verb
+noun other indeclinable
 112264	verb
 112269	verb
-112286	verb
-112289	verb
-112294	verb
-112297	verb
-112300	verb
+112286	noun other indeclinable
+112289	noun other indeclinable
+112294	noun other indeclinable
+112297	noun other indeclinable
+112300	noun other indeclinable
 verb
 112306	verb
-112308	verb
+112308	noun other indeclinable
 112310	verb
 112312	verb
 112320	verb
-verb
+noun other indeclinable
 verb
 112326	noun
 112332	relative pronoun
@@ -17288,39 +17288,39 @@ verb
 112369	verb
 112375	verb
 112380	verb
-112382	adverb
+112382	noun other indeclinable
 112443	verb
 verb
 112449	verb
 112453	verb
 112457	verb
+noun other indeclinable
+112460	noun other indeclinable
 verb
-112460	verb
+noun other indeclinable
 verb
-verb
-verb
-verb
-112466	verb
+noun other indeclinable
+112466	noun other indeclinable
 112468	noun
 112472	verb
 112474	verb
 112478	verb
-112480	verb
+112480	noun other indeclinable
 112486	noun
 112491	verb
 112495	noun
-verb
+noun other indeclinable
 112500	verb
 112515	verb
 112522	verb
 112526	verb
 verb
-relative pronoun
-112531	relative pronoun
-112534	relative pronoun
+noun other indeclinable
+112531	noun other indeclinable
+112534	noun other indeclinable
 112536	noun
-relative pronoun
-112539	verb
+noun other indeclinable
+112539	noun other indeclinable
 verb
 112542	noun
 noun
@@ -17343,20 +17343,20 @@ noun
 112619	verb
 noun
 112624	verb
-112630	verb
+112630	noun other indeclinable
 112632	verb
 112639	verb
 112641	verb
 112650	noun
 112652	noun
-112668	noun
+112668	noun other indeclinable
 112680	verb
 112686	proper noun indeclinable
 112688	verb
 112691	noun
 112696	verb
 112704	verb
-112706	verb
+112706	noun other indeclinable
 112712	noun
 noun
 112725	noun
@@ -17364,7 +17364,7 @@ personal pronoun
 unknown
 112731	verb
 112734	personal pronoun
-112736	verb
+112736	noun other indeclinable
 112740	verb
 112743	noun
 112747	noun
@@ -17425,34 +17425,34 @@ noun
 113106	verb
 113117	noun
 113119	verb
-113123	verb
-113126	verb
+113123	noun other indeclinable
+113126	noun other indeclinable
 113130	verb
-113150	verb
+113150	noun other indeclinable
 113152	verb
 113172	verb
 113183	verb
-113189	adverb
+113189	noun other indeclinable
 113197	noun
 113199	verb
-113204	verb
+113204	noun other indeclinable
 113214	verb
 113220	verb
 113229	verb
-verb
+noun other indeclinable
 113232	verb
-relative pronoun
+noun other indeclinable
 113238	verb
-113240	verb
+113240	noun other indeclinable
 113251	verb
-113260	verb
+113260	noun other indeclinable
 113266	noun
-verb
+noun other indeclinable
 113270	verb
 113275	verb
-113281	verb
+113281	noun other indeclinable
 113292	verb
-113295	verb
+113295	noun other indeclinable
 113297	noun
 113301	verb
 113311	verb
@@ -17465,7 +17465,7 @@ verb
 113346	proper noun indeclinable
 113349	verb
 113351	noun
-113358	verb
+113358	noun other indeclinable
 113362	verb
 113367	noun
 113384	noun
@@ -17473,33 +17473,33 @@ verb
 113417	verb
 113422	verb
 113425	verb
-113430	verb
+113430	noun other indeclinable
 113433	verb
-113435	verb
+113435	noun other indeclinable
 113439	verb
 113441	verb
 noun
-113447	verb
+113447	noun other indeclinable
 113455	personal pronoun
-verb
+noun other indeclinable
 113458	noun
 113467	noun
 113481	verb
-113483	verb
+113483	noun other indeclinable
 113489	verb
 113493	noun
 113496	noun
 verb
-verb
-113504	verb
+noun other indeclinable
+113504	noun other indeclinable
 113514	verb
-verb
-113519	verb
+noun other indeclinable
+113519	noun other indeclinable
 113523	relative pronoun
 113527	noun
 113532	verb
 113535	verb
-113541	relative pronoun
+113541	noun other indeclinable
 113551	verb
 113556	noun
 verb
@@ -17510,17 +17510,17 @@ noun
 113574	verb
 113578	verb
 113583	noun
-113585	verb
+113585	noun other indeclinable
 113592	verb
 113598	verb
-113600	verb
+113600	noun other indeclinable
 113604	verb
-relative pronoun
+noun other indeclinable
 113607	verb
 113611	verb
 113614	noun
 113618	noun
-113627	verb
+113627	noun other indeclinable
 113654	noun
 113659	noun
 113663	verb
@@ -17528,14 +17528,14 @@ relative pronoun
 113672	verb
 113694	verb
 113696	verb
-113702	relative pronoun
+113702	noun other indeclinable
 113705	noun
 113723	proper noun indeclinable
 113730	verb
 113732	verb
 113737	noun
 113750	verb
-verb
+noun other indeclinable
 113762	verb
 113768	relative pronoun
 113771	verb
@@ -17550,10 +17550,10 @@ relative pronoun
 113828	verb
 113830	verb
 113832	verb
-113839	verb
+113839	noun other indeclinable
 113850	verb
 113859	verb
-113872	verb
+113872	noun other indeclinable
 113876	verb
 113880	personal pronoun
 verb
@@ -17571,50 +17571,50 @@ verb
 113965	verb
 113967	verb
 113970	verb
-113975	relative pronoun
+113975	noun other indeclinable
 113978	verb
 113995	verb
-114005	verb
+114005	noun other indeclinable
 verb
-verb
-114009	verb
+noun other indeclinable
+114009	noun other indeclinable
 114020	noun
 114024	personal pronoun
-114028	verb
+114028	noun other indeclinable
 114034	verb
 114037	verb
-114047	verb
+114047	noun other indeclinable
 114053	noun
 proper noun indeclinable
 114060	noun
 114063	proper noun indeclinable
 114069	noun
-114072	verb
+114072	noun other indeclinable
 114075	proper noun indeclinable
 noun
 114085	verb
-114089	verb
+114089	noun other indeclinable
 114096	verb
 114104	verb
 114106	verb
 114122	noun
 114131	verb
-114133	verb
+114133	noun other indeclinable
 verb
 114147	verb
 114151	verb
 114153	verb
 114165	verb
-114174	verb
+114174	noun other indeclinable
 114181	verb
 verb
 114213	verb
-114217	verb
+114217	noun other indeclinable
 114228	verb
-114266	noun
+114266	noun other indeclinable
 114274	verb
 114279	verb
-114284	verb
+114284	noun other indeclinable
 114286	noun
 114291	proper noun indeclinable
 114298	noun
@@ -17622,18 +17622,18 @@ verb
 114303	verb
 114306	noun
 114308	proper noun indeclinable
-114315	verb
+114315	noun other indeclinable
 114320	verb
-verb
+noun other indeclinable
 114329	verb
 114338	noun
 114353	proper noun indeclinable
 114363	noun
 114369	verb
 114372	noun
-114384	verb
-114395	verb
-114400	verb
+114384	noun other indeclinable
+114395	noun other indeclinable
+114400	noun other indeclinable
 114417	personal pronoun
 114421	noun
 114425	verb
@@ -17643,28 +17643,28 @@ verb
 114454	verb
 114457	verb
 114461	verb
-114466	verb
+114466	noun other indeclinable
 114472	verb
 114476	verb
 114487	verb
-114499	verb
+114499	noun other indeclinable
 114502	proper noun indeclinable
 114504	verb
-114510	relative pronoun
+114510	noun other indeclinable
 114522	verb
 noun
-114525	verb
+114525	noun other indeclinable
 114528	verb
 114530	verb
 114534	verb
-114536	relative pronoun
+114536	noun other indeclinable
 verb
 114548	verb
 verb
 114555	verb
 114561	verb
 verb
-114568	verb
+114568	noun other indeclinable
 114583	verb
 114585	personal pronoun
 114588	verb
@@ -17674,32 +17674,32 @@ verb
 114603	verb
 114613	noun
 114621	verb
-114630	verb
+114630	noun other indeclinable
 114654	verb
 114663	verb
 114673	verb
 114683	relative pronoun
 114697	verb
-114702	verb
+114702	noun other indeclinable
 114715	verb
 114726	verb
 114732	verb
 114737	verb
 114744	noun
-114746	verb
+114746	noun other indeclinable
 114757	verb
 verb
 114760	verb
-114769	verb
+114769	noun other indeclinable
 114777	verb
 proper noun indeclinable
 114781	verb
 114789	verb
-114791	verb
+114791	noun other indeclinable
 114798	verb
 114811	verb
 114814	unknown
-114818	verb
+114818	noun other indeclinable
 114832	verb
 114850	noun
 114855	noun
@@ -17710,9 +17710,9 @@ proper noun indeclinable
 proper noun indeclinable
 114898	verb
 114901	verb
-114905	verb
+114905	noun other indeclinable
 114924	verb
-114929	verb
+114929	noun other indeclinable
 114931	relative pronoun
 114934	verb
 114941	noun
@@ -17730,8 +17730,8 @@ proper noun indeclinable
 115060	noun
 115065	noun
 115073	personal pronoun
-115081	verb
-115083	adverb
+115081	noun other indeclinable
+115083	noun other indeclinable
 115115	verb
 verb
 115122	verb
@@ -17744,77 +17744,77 @@ verb
 115152	noun
 115164	verb
 verb
-115167	verb
+115167	noun other indeclinable
 verb
 115170	verb
-115172	verb
+115172	noun other indeclinable
 115184	verb
 verb
 115187	proper noun indeclinable
 115190	verb
 115192	noun
 verb
-115197	verb
+115197	noun other indeclinable
 115200	verb
 115204	verb
 noun
 115207	verb
 115209	verb
-115212	relative pronoun
+115212	noun other indeclinable
 115221	verb
 115226	verb
-115229	verb
+115229	noun other indeclinable
 115231	verb
 115245	verb
 115250	proper noun indeclinable
 115261	verb
 115263	verb
-verb
+noun other indeclinable
 115266	verb
 115272	noun
-115279	relative pronoun
+115279	noun other indeclinable
 115284	verb
 115286	verb
 115291	noun
-115301	relative pronoun
+115301	noun other indeclinable
 115303	verb
 115307	verb
-115315	verb
-115318	verb
+115315	noun other indeclinable
+115318	noun other indeclinable
 verb
 115323	noun
-115327	relative pronoun
+115327	noun other indeclinable
 115334	verb
 verb
 115338	verb
 115343	noun
 115346	verb
 115349	verb
-115356	adverb
+115356	noun other indeclinable
 115359	verb
-115361	verb
+115361	noun other indeclinable
 verb
 verb
 115365	proper noun indeclinable
-115367	verb
+115367	noun other indeclinable
 115372	verb
 115379	relative pronoun
 verb
 noun
-noun
+noun other indeclinable
 115391	noun
-115403	verb
+115403	noun other indeclinable
 115410	personal pronoun
-115413	adverb
+115413	noun other indeclinable
 115416	verb
 115426	noun
-115432	verb
+115432	noun other indeclinable
 115438	verb
-115442	verb
+115442	noun other indeclinable
 115466	proper noun indeclinable
-115478	verb
+115478	noun other indeclinable
 verb
-115482	verb
+115482	noun other indeclinable
 115488	verb
 115497	verb
 115500	verb
@@ -17832,8 +17832,8 @@ verb
 verb
 115613	personal pronoun
 verb
-115622	relative pronoun
-115630	relative pronoun
+115622	noun other indeclinable
+115630	noun other indeclinable
 115640	proper noun indeclinable
 115642	verb
 115644	verb
@@ -17863,7 +17863,7 @@ noun
 115780	verb
 115785	verb
 115787	verb
-115789	verb
+115789	noun other indeclinable
 115792	verb
 115794	proper noun indeclinable
 115797	verb
@@ -17882,10 +17882,10 @@ verb
 115876	noun
 verb
 115880	verb
-115884	verb
+115884	noun other indeclinable
 115886	verb
 verb
-115898	adverb
+115898	noun
 115901	proper noun indeclinable
 noun
 relative pronoun
@@ -17903,67 +17903,67 @@ noun
 115955	verb
 115972	proper noun indeclinable
 115975	verb
-115983	verb
+115983	noun other indeclinable
 115989	noun
 116008	noun
-116013	relative pronoun
-116016	verb
+116013	noun other indeclinable
+116016	noun other indeclinable
 116025	noun
 116031	verb
 noun
 116036	verb
 116047	verb
-116053	verb
-116058	relative pronoun
+116053	noun other indeclinable
+116058	noun other indeclinable
 116061	verb
-116066	relative pronoun
+116066	noun other indeclinable
 116076	verb
 116087	verb
 116090	verb
 116096	verb
-116106	relative pronoun
-verb
-116115	verb
+116106	noun other indeclinable
+noun other indeclinable
+116115	noun other indeclinable
 116119	verb
 personal pronoun
-116123	verb
+116123	noun other indeclinable
 116127	proper noun indeclinable
 116138	verb
 116142	verb
-116150	relative pronoun
-116152	verb
+116150	noun other indeclinable
+116152	noun other indeclinable
 116154	verb
 116170	verb
 noun
 verb
-verb
+noun other indeclinable
 116177	verb
 116179	verb
 verb
 116196	verb
 116212	verb
-verb
+noun other indeclinable
 116217	verb
-116227	relative pronoun
-verb
+116227	noun other indeclinable
+noun other indeclinable
 116231	verb
 116238	personal pronoun
 116242	noun
 116253	proper noun indeclinable
 116255	verb
-verb
+noun other indeclinable
 116279	verb
 116291	verb
 116321	personal pronoun
-116325	relative pronoun
-116327	verb
+116325	noun other indeclinable
+116327	noun other indeclinable
 116329	verb
 116341	verb
-116355	verb
-116366	verb
+116355	noun other indeclinable
+116366	noun other indeclinable
 116375	noun
 116383	personal pronoun
-116395	verb
+116395	noun other indeclinable
 116397	noun
 116402	verb
 116404	verb
@@ -17971,7 +17971,7 @@ verb
 116427	noun
 116433	verb
 116451	verb
-116463	verb
+116463	noun other indeclinable
 116471	verb
 116476	verb
 116478	verb
@@ -17989,9 +17989,9 @@ proper noun indeclinable
 116625	verb
 verb
 116630	verb
-116658	verb
+116658	noun other indeclinable
 116660	verb
-116671	verb
+116671	noun other indeclinable
 116677	verb
 116687	verb
 116721	verb
@@ -18030,12 +18030,12 @@ verb
 117010	verb
 117018	verb
 117028	verb
-117033	verb
+117033	noun other indeclinable
 117052	noun
-117056	verb
+117056	noun other indeclinable
 117060	verb
 117064	personal pronoun
-117071	relative pronoun
+117071	noun other indeclinable
 117110	verb
 117114	verb
 117119	verb
@@ -18048,11 +18048,11 @@ noun
 117185	verb
 117238	verb
 117244	verb
-117246	relative pronoun
-117259	verb
-117264	conjunction
+117246	noun other indeclinable
+117259	noun other indeclinable
+117264	noun other indeclinable
 117273	noun
-117277	conjunction
+117277	noun other indeclinable
 117318	verb
 117322	verb
 117332	noun
@@ -18074,9 +18074,9 @@ noun
 117521	verb
 117523	noun
 117539	verb
-117567	verb
+117567	noun other indeclinable
 verb
-117573	verb
+117573	noun other indeclinable
 117577	verb
 117581	verb
 117585	verb
@@ -18085,23 +18085,23 @@ verb
 verb
 117602	noun
 117608	verb
-117612	conjunction
-117617	conjunction
+117612	noun other indeclinable
+117617	noun other indeclinable
 117624	proper noun indeclinable
 117629	verb
 117632	verb
 117639	verb
 117643	noun
-117651	verb
+117651	noun other indeclinable
 117653	noun
 117673	noun
-117675	conjunction
+117675	noun other indeclinable
 117685	verb
-adverb
+noun
 117689	verb
 noun
-117713	verb
-117729	verb
+117713	noun other indeclinable
+117729	noun other indeclinable
 117733	verb
 117736	verb
 noun
@@ -18113,20 +18113,20 @@ noun
 117793	noun
 117800	noun
 117804	unknown
-117817	verb
+117817	noun other indeclinable
 117828	verb
 117836	noun
 117843	verb
 117847	noun
-verb
-adverb
+noun other indeclinable
+noun other indeclinable
 117852	noun
 117860	verb
 117869	verb
 117873	verb
 verb
-117885	verb
-adverb
+117885	noun other indeclinable
+noun other indeclinable
 117903	verb
 117927	verb
 noun
@@ -18164,15 +18164,15 @@ noun
 118201	verb
 118205	proper noun indeclinable
 118211	unknown
-118215	verb
+118215	noun other indeclinable
 118230	proper noun indeclinable
-118234	verb
+118234	noun other indeclinable
 118241	proper noun indeclinable
 118245	noun
 118254	noun
 118267	verb
 118280	proper noun indeclinable
-118284	verb
+118284	noun other indeclinable
 118287	noun
 verb
 118293	verb
@@ -18187,26 +18187,26 @@ verb
 118369	noun
 118373	noun
 118378	noun
-118390	verb
+118390	noun other indeclinable
 118399	verb
 118401	verb
 118409	verb
 verb
 118426	verb
-adverb
-118429	verb
+noun
+118429	noun other indeclinable
 118441	verb
 118443	noun
 118445	noun
-118463	adverb
+118463	noun
 118469	verb
 verb
 118472	noun
-118477	verb
+118477	noun other indeclinable
 118482	noun
 118503	noun
 118515	verb
-118520	verb
+118520	noun other indeclinable
 verb
 118523	verb
 118527	noun
@@ -18217,11 +18217,11 @@ verb
 noun
 118579	verb
 118611	verb
-verb
+noun other indeclinable
 118620	verb
 118623	noun
 118638	verb
-118643	verb
+118643	noun other indeclinable
 118669	verb
 118673	verb
 118675	noun
@@ -18229,14 +18229,14 @@ verb
 118731	verb
 118744	verb
 verb
-118753	verb
+118753	noun other indeclinable
 118761	verb
 verb
 118769	verb
 118772	verb
 noun
 118782	verb
-118789	verb
+118789	noun other indeclinable
 118813	verb
 118817	verb
 118838	noun
@@ -18245,10 +18245,10 @@ noun
 118864	verb
 118873	verb
 118876	verb
-118880	verb
+118880	noun other indeclinable
 118889	verb
 118892	verb
-118903	verb
+118903	noun other indeclinable
 118907	personal pronoun
 118910	verb
 118915	verb
@@ -18257,24 +18257,24 @@ noun
 118944	verb
 118981	verb
 119036	verb
-119045	relative pronoun
+119045	noun other indeclinable
 noun
-verb
+noun other indeclinable
 119083	noun
 119086	noun
 noun
 119100	proper noun indeclinable
 119103	verb
 119105	verb
-119107	relative pronoun
+119107	noun other indeclinable
 119111	noun
 119127	verb
 119136	verb
 119138	verb
 119143	personal pronoun
-119201	verb
+119201	noun other indeclinable
 119210	verb
-119218	verb
+119218	noun other indeclinable
 verb
 119237	verb
 119250	verb
@@ -18283,11 +18283,11 @@ verb
 119300	verb
 verb
 noun
-119333	relative pronoun
+119333	noun other indeclinable
 verb
 119349	proper noun indeclinable
 119356	noun
-119358	relative pronoun
+119358	noun other indeclinable
 noun
 119363	verb
 119365	personal pronoun
@@ -18301,7 +18301,7 @@ verb
 119413	noun
 119416	noun
 119434	verb
-verb
+noun other indeclinable
 119438	verb
 verb
 119447	verb
@@ -18309,24 +18309,24 @@ verb
 119462	verb
 verb
 119467	verb
-119473	verb
-119478	verb
-119480	verb
-119488	conjunction
+119473	noun other indeclinable
+119478	noun other indeclinable
+119480	noun other indeclinable
+119488	noun other indeclinable
 119508	noun
 119516	verb
 119568	verb
-verb
+noun other indeclinable
 verb
 119575	verb
 119577	verb
-119609	relative pronoun
+119609	noun other indeclinable
 119617	verb
 119619	verb
 119625	verb
 noun
 119628	verb
-119637	relative pronoun
+119637	noun other indeclinable
 119659	noun
 verb
 119663	verb
@@ -18350,12 +18350,12 @@ verb
 119785	noun
 119788	personal pronoun
 119793	verb
-119795	relative pronoun
+119795	noun other indeclinable
 119802	proper noun indeclinable
 119819	verb
 119845	personal pronoun
 119858	verb
-119866	conjunction
+119866	noun other indeclinable
 119870	verb
 119875	verb
 119877	verb
@@ -18364,7 +18364,7 @@ noun
 verb
 119887	verb
 119890	verb
-119893	verb
+119893	noun other indeclinable
 119901	verb
 119905	verb
 119913	noun
@@ -18375,18 +18375,18 @@ verb
 119949	noun
 119958	verb
 119966	verb
-119971	relative pronoun
+119971	noun other indeclinable
 119975	proper noun indeclinable
 119979	noun
 120000	verb
-adverb
+noun other indeclinable
 120008	noun
 120012	verb
 120017	noun
-relative pronoun
-120022	relative pronoun
-120026	verb
-120031	verb
+noun other indeclinable
+120022	noun other indeclinable
+120026	noun other indeclinable
+120031	noun other indeclinable
 120041	verb
 120056	verb
 120061	verb
@@ -18396,7 +18396,7 @@ relative pronoun
 120089	verb
 120091	verb
 120117	verb
-120120	verb
+120120	noun other indeclinable
 120124	personal pronoun
 120133	verb
 personal pronoun
@@ -18406,64 +18406,64 @@ personal pronoun
 120149	noun
 120151	noun
 120153	proper noun indeclinable
-120156	verb
+120156	noun other indeclinable
 120158	verb
 120164	noun
 120166	verb
-120170	verb
-120178	verb
+120170	noun other indeclinable
+120178	noun other indeclinable
 120180	verb
 120191	verb
 120199	verb
 120201	noun
 120231	verb
 120237	verb
-120239	relative pronoun
+120239	noun other indeclinable
 120246	verb
 120260	verb
-120263	verb
+120263	noun other indeclinable
 120265	unknown
 120270	verb
 120285	verb
-120292	verb
+120292	noun other indeclinable
 120297	noun
 120300	verb
-120302	verb
+120302	noun other indeclinable
 120311	verb
-verb
+noun other indeclinable
 120316	verb
 120318	noun
-120329	verb
+120329	noun other indeclinable
 verb
 120336	verb
 120341	noun
 120353	verb
 120369	personal pronoun
-120373	adverb
+120373	noun other indeclinable
 120379	verb
 120381	verb
-120389	verb
+120389	noun other indeclinable
 120393	proper noun indeclinable
 120395	verb
 120401	verb
 120415	noun
 120419	verb
-120422	verb
+120422	noun other indeclinable
 120432	noun
 120435	verb
-120437	noun
-120446	verb
+120437	unknown
+120446	noun other indeclinable
 120468	noun
 120470	verb
-120474	verb
+120474	noun other indeclinable
 120477	verb
-120485	verb
-120492	verb
+120485	noun other indeclinable
+120492	noun other indeclinable
 120494	verb
-120497	relative pronoun
+120497	noun other indeclinable
 120516	verb
 120521	verb
-120528	verb
+120528	noun other indeclinable
 120549	verb
 120556	verb
 120563	verb
@@ -18479,17 +18479,17 @@ verb
 120655	verb
 120660	proper noun indeclinable
 120663	verb
-120665	verb
+120665	noun other indeclinable
 120679	verb
 verb
 120683	verb
 120691	verb
 120699	verb
-120705	verb
-120716	conjunction
+120705	noun other indeclinable
+120716	noun other indeclinable
 120722	noun
 120732	verb
-120737	verb
+120737	noun other indeclinable
 120739	verb
 120744	noun
 120749	noun
@@ -18498,17 +18498,17 @@ verb
 verb
 120763	noun
 120773	noun
-verb
+noun other indeclinable
 120776	verb
-120787	verb
+120787	noun other indeclinable
 120793	verb
 120799	verb
-120807	verb
-120814	verb
+120807	noun other indeclinable
+120814	noun other indeclinable
 120831	unknown
 120839	verb
-120847	verb
-120867	verb
+120847	noun other indeclinable
+120867	noun other indeclinable
 120872	noun
 120876	verb
 120884	personal pronoun
@@ -18516,17 +18516,17 @@ verb
 120907	verb
 120911	verb
 noun
-120914	verb
+120914	noun
 verb
-relative pronoun
+noun other indeclinable
 120918	unknown
-120929	relative pronoun
+120929	noun other indeclinable
 verb
 120936	noun
-120939	verb
+120939	noun other indeclinable
 120949	verb
 120960	verb
-120967	relative pronoun
+120967	noun other indeclinable
 noun
 120989	verb
 120991	verb
@@ -18536,7 +18536,7 @@ noun
 121008	verb
 121013	verb
 verb
-121022	verb
+121022	noun other indeclinable
 121031	proper noun indeclinable
 121042	verb
 121051	verb
@@ -18554,9 +18554,9 @@ noun
 121154	verb
 121156	noun
 121167	unknown
-121217	verb
+121217	noun other indeclinable
 121237	proper noun indeclinable
-121251	adverb
+121251	noun other indeclinable
 121253	proper noun indeclinable
 121259	verb
 verb
@@ -18564,12 +18564,12 @@ verb
 121275	noun
 121280	noun
 verb
-adverb
+noun other indeclinable
 121286	verb
 121290	noun
 121297	noun
 verb
-verb
+noun other indeclinable
 121319	proper noun indeclinable
 121322	verb
 121329	verb
@@ -18577,10 +18577,10 @@ verb
 121339	noun
 121341	verb
 noun
-121347	verb
-121349	verb
+121347	noun other indeclinable
+121349	noun other indeclinable
 121353	noun
-121357	verb
+121357	noun other indeclinable
 121359	verb
 121364	verb
 verb
@@ -18592,12 +18592,12 @@ verb
 121402	verb
 121404	noun
 121413	verb
-verb
+noun other indeclinable
 121419	verb
 verb
 proper noun indeclinable
-121424	verb
-121434	verb
+121424	noun other indeclinable
+121434	noun other indeclinable
 121436	verb
 121439	verb
 121452	verb
@@ -18606,14 +18606,14 @@ proper noun indeclinable
 verb
 121482	verb
 verb
-121489	verb
+121489	noun other indeclinable
 121496	verb
 121499	verb
-verb
-121510	verb
+noun other indeclinable
+121510	noun other indeclinable
 121514	verb
 121530	noun
-121543	verb
+121543	noun other indeclinable
 121550	verb
 121553	noun
 121556	noun
@@ -18625,7 +18625,7 @@ verb
 121577	noun
 verb
 121581	verb
-121586	verb
+121586	noun other indeclinable
 121593	verb
 121602	verb
 121606	verb
@@ -18639,8 +18639,8 @@ verb
 121664	verb
 121669	verb
 121674	verb
-121693	verb
-noun
+121693	noun
+noun other indeclinable
 121696	personal pronoun
 121699	verb
 121716	verb
@@ -18649,54 +18649,54 @@ noun
 121739	noun
 noun
 121746	verb
-121751	verb
+121751	noun other indeclinable
 121755	proper noun indeclinable
 121758	noun
-121770	noun
+121770	noun other indeclinable
 121772	personal pronoun
 121787	proper noun indeclinable
 121798	verb
 121804	verb
-121812	relative pronoun
-121815	verb
-121818	adverb
+121812	noun other indeclinable
+121815	noun other indeclinable
+121818	noun other indeclinable
 121835	noun
 121839	proper noun indeclinable
 121841	verb
-121854	verb
+121854	noun other indeclinable
 121867	noun
 121871	verb
-adverb
+noun other indeclinable
 121877	verb
 121884	noun
 121900	verb
 121909	verb
-adverb
+noun other indeclinable
 121915	verb
-121929	verb
+121929	noun other indeclinable
 121932	verb
-adverb
+noun other indeclinable
 121944	verb
 121950	noun
 121974	verb
-adverb
+noun other indeclinable
 121985	noun
-121987	verb
+121987	noun other indeclinable
 121993	verb
-121995	verb
+121995	noun other indeclinable
 122001	verb
-122008	verb
+122008	noun other indeclinable
 122012	verb
 122018	verb
 122025	noun
 122032	verb
 122046	verb
-122050	conjunction
+122050	noun other indeclinable
 verb
 122068	verb
 122076	verb
 122087	verb
-122089	verb
+122089	noun other indeclinable
 122096	noun
 122105	verb
 verb
@@ -18708,24 +18708,24 @@ verb
 122127	noun
 122129	noun
 122132	verb
-122134	verb
+122134	noun other indeclinable
 122155	verb
 122165	verb
 122175	verb
-122184	verb
-122189	verb
+122184	noun other indeclinable
+122189	noun other indeclinable
 122191	verb
 122193	noun
-122199	verb
-122202	verb
+122199	noun other indeclinable
+122202	noun other indeclinable
 122204	verb
 122208	verb
-122210	verb
+122210	noun other indeclinable
 verb
 122223	noun
 122231	verb
 122233	verb
-verb
+noun other indeclinable
 verb
 122241	verb
 122249	verb
@@ -18734,68 +18734,68 @@ verb
 personal pronoun
 122278	verb
 verb
-122283	verb
+122283	noun other indeclinable
 122288	proper noun indeclinable
 122296	verb
 122304	verb
 122306	relative pronoun
 122310	noun
-122314	verb
+122314	noun other indeclinable
 122319	verb
 122321	relative pronoun
 verb
-122340	verb
+122340	noun other indeclinable
 verb
-122344	relative pronoun
-122351	verb
+122344	noun other indeclinable
+122351	noun other indeclinable
 122355	verb
 verb
-122365	verb
+122365	noun other indeclinable
 verb
 verb
 122372	verb
 122379	verb
-122387	verb
+122387	noun other indeclinable
 122394	verb
 122400	verb
 122407	verb
 122409	verb
-122412	relative pronoun
+122412	noun other indeclinable
 122421	verb
 122428	verb
 122436	verb
 122441	verb
 122443	verb
 122454	verb
-122459	verb
+122459	noun other indeclinable
 122475	verb
 122477	verb
 122479	noun
 verb
 122482	verb
 122486	proper noun indeclinable
-122488	relative pronoun
+122488	noun other indeclinable
 122491	proper noun indeclinable
-122494	relative pronoun
+122494	noun other indeclinable
 122503	verb
 122507	verb
 noun
 122523	proper noun indeclinable
 122529	verb
 122533	proper noun indeclinable
-122535	relative pronoun
-122544	verb
+122535	noun other indeclinable
+122544	noun other indeclinable
 122554	noun
 122564	noun
-122571	relative pronoun
+122571	noun other indeclinable
 verb
 122582	noun
 122585	noun
 122589	noun
+noun other indeclinable
 verb
-verb
-adverb
-122594	verb
+noun
+122594	noun other indeclinable
 verb
 122611	verb
 122619	personal pronoun
@@ -18806,48 +18806,48 @@ verb
 122673	verb
 personal pronoun
 122681	verb
-relative pronoun
+noun other indeclinable
 122689	verb
 122696	verb
-122698	verb
+122698	noun other indeclinable
 122702	verb
-122704	verb
+122704	noun other indeclinable
 122706	verb
-122708	relative pronoun
+122708	noun other indeclinable
 122712	noun
 122717	verb
-verb
+noun other indeclinable
 122720	verb
 verb
 verb
 122724	verb
 noun
 122727	noun
-122730	relative pronoun
-122734	relative pronoun
+122730	noun other indeclinable
+122734	noun other indeclinable
 122739	verb
 122750	verb
 122752	verb
-122758	relative pronoun
+122758	noun other indeclinable
 verb
-122762	relative pronoun
+122762	noun other indeclinable
 122768	verb
-122770	relative pronoun
+122770	noun other indeclinable
 verb
 verb
 122777	verb
 122779	verb
 122784	personal pronoun
-122787	verb
+122787	noun other indeclinable
 122798	verb
 122806	noun
 122808	verb
 122814	verb
 122830	noun
-122857	verb
+122857	noun other indeclinable
 122872	unknown
-122879	verb
-122899	relative pronoun
+122879	noun other indeclinable
+122899	noun other indeclinable
 122902	verb
 verb
 122911	verb
@@ -18859,22 +18859,22 @@ verb
 verb
 verb
 verb
-122936	verb
+122936	noun other indeclinable
 122939	verb
 122947	verb
 122951	verb
-122961	verb
+122961	noun other indeclinable
 122971	verb
 122973	verb
 122985	verb
 122991	verb
-relative pronoun
+noun other indeclinable
 122997	noun
 123009	personal pronoun
 123011	unknown
-123015	relative pronoun
+123015	noun other indeclinable
 123021	verb
-relative pronoun
+noun other indeclinable
 123039	verb
 123047	verb
 verb
@@ -18892,28 +18892,28 @@ verb
 verb
 123125	noun
 123136	noun
-123141	verb
-123156	verb
+123141	noun other indeclinable
+123156	noun other indeclinable
 123159	verb
 123166	verb
-123168	verb
+123168	noun other indeclinable
 123170	verb
 123172	personal pronoun
 123176	verb
-verb
+noun other indeclinable
 123179	verb
 123188	verb
 123190	verb
-123213	verb
-123217	verb
+123213	noun other indeclinable
+123217	noun other indeclinable
 123228	verb
-123230	verb
+123230	noun other indeclinable
 123237	verb
 123242	verb
 123255	verb
 verb
 123261	verb
-123268	verb
+123268	noun other indeclinable
 verb
 verb
 123276	verb
@@ -18921,11 +18921,11 @@ verb
 123301	verb
 verb
 123304	verb
-123307	verb
+123307	noun other indeclinable
 123309	verb
-123322	verb
+123322	noun other indeclinable
 123324	verb
-123331	verb
+123331	noun other indeclinable
 123345	verb
 123358	verb
 123361	verb
@@ -18934,48 +18934,48 @@ verb
 123387	verb
 123391	verb
 123398	verb
-123408	relative pronoun
+123408	noun other indeclinable
 123413	verb
-123417	relative pronoun
+123417	noun other indeclinable
 noun
 verb
 123422	verb
-relative pronoun
-123431	verb
+noun other indeclinable
+123431	noun other indeclinable
 123436	noun
-123451	verb
-123456	verb
+123451	noun other indeclinable
+123456	noun other indeclinable
 123458	verb
-123463	relative pronoun
+123463	noun other indeclinable
 verb
 123467	verb
-123477	verb
+123477	noun other indeclinable
 123479	verb
-123487	verb
+123487	noun other indeclinable
 123498	verb
-123508	relative pronoun
+123508	noun other indeclinable
 123510	verb
 123512	verb
 123514	verb
-relative pronoun
-123519	relative pronoun
+noun other indeclinable
+123519	noun other indeclinable
 123526	verb
-verb
+noun other indeclinable
 123542	verb
 123545	noun
 123555	verb
 123564	verb
 123571	personal pronoun
 123577	verb
-123584	verb
-123588	verb
+123584	noun other indeclinable
+123588	noun other indeclinable
 123590	verb
-123608	verb
+123608	noun other indeclinable
 123612	verb
 123615	verb
 123618	verb
 123621	verb
-123624	relative pronoun
+123624	noun other indeclinable
 123627	verb
 verb
 verb
@@ -18984,43 +18984,43 @@ verb
 123652	verb
 123669	verb
 123672	verb
-verb
+noun other indeclinable
 123675	proper noun indeclinable
 123677	verb
 123684	noun
-123693	relative pronoun
+123693	noun other indeclinable
 noun
 123696	verb
 verb
 123701	verb
 verb
 123706	proper noun indeclinable
-123711	verb
+123711	noun other indeclinable
 123729	verb
-verb
+noun other indeclinable
 123735	verb
 verb
 verb
 verb
-123747	verb
+123747	noun other indeclinable
 noun
 123752	verb
-123754	relative pronoun
+123754	noun other indeclinable
 123757	verb
 123764	verb
 123767	verb
 123770	noun
-123774	verb
-123784	verb
+123774	noun other indeclinable
+123784	noun other indeclinable
 123786	verb
-123791	verb
-123805	verb
+123791	noun other indeclinable
+123805	noun other indeclinable
 123808	verb
-123819	verb
+123819	noun other indeclinable
 verb
 123822	verb
 123826	verb
-123828	relative pronoun
+123828	noun other indeclinable
 proper noun indeclinable
 123833	verb
 123836	proper noun indeclinable
@@ -19031,20 +19031,20 @@ proper noun indeclinable
 verb
 123862	noun
 123865	verb
-123870	verb
-123873	verb
+123870	noun other indeclinable
+123873	noun other indeclinable
 verb
 123881	proper noun indeclinable
-123884	verb
+123884	noun other indeclinable
 123889	verb
-verb
+noun other indeclinable
 123893	verb
-123896	verb
+123896	noun other indeclinable
 123899	verb
-123902	verb
-123908	verb
-123914	verb
-123920	verb
+123902	noun other indeclinable
+123908	noun other indeclinable
+123914	noun other indeclinable
+123920	noun other indeclinable
 123925	verb
 123936	verb
 123940	verb
@@ -19052,9 +19052,9 @@ verb
 123970	verb
 123989	noun
 123991	verb
-124008	verb
-124018	verb
-124024	verb
+124008	noun other indeclinable
+124018	noun other indeclinable
+124024	noun other indeclinable
 verb
 124038	noun
 124067	verb
@@ -19065,16 +19065,16 @@ verb
 124085	verb
 124087	verb
 124115	verb
-124120	verb
+124120	noun other indeclinable
 124123	noun
 124126	unknown
 124131	unknown
-124134	relative pronoun
-124137	verb
+124134	noun other indeclinable
+124137	noun other indeclinable
 124140	noun
 124142	noun
 verb
-124147	verb
+124147	noun other indeclinable
 124152	noun
 124155	proper noun indeclinable
 124157	verb
@@ -19082,12 +19082,12 @@ verb
 124169	verb
 124176	verb
 verb
-124182	verb
-124185	relative pronoun
-124187	verb
+124182	noun other indeclinable
+124185	noun other indeclinable
+124187	noun other indeclinable
 124192	verb
 124207	verb
-124219	verb
+124219	noun other indeclinable
 124222	verb
 124230	verb
 124241	verb
@@ -19099,54 +19099,54 @@ verb
 124269	verb
 124274	verb
 124283	verb
-124288	verb
+124288	noun other indeclinable
 124290	verb
-124299	verb
+124299	noun other indeclinable
 124304	verb
 124306	verb
 124310	noun
-124325	verb
-124327	verb
+124325	noun other indeclinable
+124327	noun other indeclinable
 verb
 124334	verb
 124336	verb
 124351	noun
 verb
-124357	relative pronoun
-124366	verb
-124370	verb
-124382	verb
+124357	noun other indeclinable
+124366	noun other indeclinable
+124370	noun other indeclinable
+124382	noun other indeclinable
 124384	verb
 verb
-124389	verb
+124389	noun other indeclinable
 124405	verb
 124409	verb
 124431	verb
-124433	verb
+124433	noun other indeclinable
 verb
 124444	verb
-124462	verb
+124462	noun other indeclinable
 verb
-124470	verb
+124470	noun other indeclinable
 verb
 124473	verb
 124477	verb
 124484	verb
 124490	proper noun indeclinable
-124494	verb
+124494	noun other indeclinable
 verb
 124497	verb
 124506	verb
 124509	proper noun indeclinable
 verb
 124513	noun
-124516	conjunction
+124516	noun other indeclinable
 124524	verb
 124539	noun
 124543	verb
 124550	verb
-124558	verb
-124562	verb
+124558	noun other indeclinable
+124562	noun other indeclinable
 verb
 124565	verb
 verb
@@ -19156,7 +19156,7 @@ verb
 124586	noun
 124591	verb
 124593	verb
-verb
+noun other indeclinable
 124600	verb
 124615	personal pronoun
 124630	verb
@@ -19166,10 +19166,10 @@ verb
 124684	noun
 noun
 verb
-relative pronoun
+noun other indeclinable
 noun
 124691	noun
-124693	relative pronoun
+124693	noun other indeclinable
 noun
 124697	verb
 noun
@@ -19180,98 +19180,98 @@ noun
 124718	verb
 124720	noun
 verb
-relative pronoun
-124724	verb
-adverb
+noun other indeclinable
+124724	noun other indeclinable
+noun other indeclinable
 personal pronoun
 verb
 124732	verb
 124737	proper noun indeclinable
-verb
+noun other indeclinable
 124747	verb
-124750	verb
+124750	noun other indeclinable
 124759	verb
 124762	verb
 124766	verb
 124771	verb
 124783	verb
-verb
+noun other indeclinable
 124787	verb
-124798	verb
+124798	noun other indeclinable
 124803	verb
 124807	verb
-124822	relative pronoun
-124824	verb
+124822	noun other indeclinable
+124824	noun other indeclinable
 124827	noun
-verb
-124832	verb
+noun other indeclinable
+124832	noun other indeclinable
 124837	relative pronoun
 personal pronoun
-124843	relative pronoun
+124843	noun other indeclinable
 124847	noun
 124850	noun
 124863	verb
 124867	verb
-124871	verb
+124871	noun other indeclinable
 124874	verb
 124876	verb
-124892	conjunction
+124892	noun other indeclinable
 124911	verb
 124923	verb
-124930	conjunction
+124930	noun other indeclinable
 124941	verb
 124948	verb
 124963	verb
 124987	verb
 124995	noun
-verb
+noun other indeclinable
 125001	verb
-125009	verb
+125009	noun other indeclinable
 125011	verb
 125016	verb
 125019	verb
-125021	verb
-125025	relative pronoun
-125028	verb
+125021	noun other indeclinable
+125025	noun other indeclinable
+125028	noun other indeclinable
 125040	verb
 125047	verb
-125060	verb
+125060	noun other indeclinable
 125062	verb
 125077	noun
 125082	verb
 125088	verb
-125096	verb
+125096	noun other indeclinable
 125105	verb
 125107	verb
 125109	verb
 verb
 125132	verb
-125139	verb
+125139	noun other indeclinable
 125145	verb
 125151	noun
-125164	verb
-125178	verb
+125164	noun other indeclinable
+125178	noun other indeclinable
 125181	verb
 125183	verb
-125185	verb
-125189	verb
+125185	noun other indeclinable
+125189	noun other indeclinable
 125193	noun
-verb
+noun other indeclinable
 125197	verb
 125234	verb
-verb
-125238	verb
+noun other indeclinable
+125238	noun other indeclinable
 125242	noun
 125252	noun
-verb
-125262	verb
+noun other indeclinable
+125262	noun other indeclinable
 125266	noun
 125269	verb
-125273	verb
+125273	noun other indeclinable
 125276	noun
-125279	verb
-125289	verb
-125294	verb
+125279	noun other indeclinable
+125289	noun other indeclinable
+125294	noun other indeclinable
 125297	verb
 125302	verb
 125305	noun
@@ -19279,16 +19279,16 @@ verb
 125339	noun
 125356	verb
 125362	verb
-verb
+noun other indeclinable
 125365	noun
 125371	verb
 125375	proper noun indeclinable
-verb
+noun other indeclinable
 125379	verb
 125381	verb
 125387	verb
-125390	verb
-125395	verb
+125390	noun other indeclinable
+125395	noun other indeclinable
 125399	verb
 125404	verb
 125409	noun
@@ -19306,20 +19306,20 @@ verb
 125508	verb
 125552	noun
 125560	noun
-125566	verb
+125566	noun other indeclinable
 125569	verb
-verb
-125579	verb
-125583	verb
+noun other indeclinable
+125579	noun other indeclinable
+125583	noun other indeclinable
 125615	noun
-verb
-125627	relative pronoun
+noun other indeclinable
+125627	noun other indeclinable
 125636	verb
-125647	verb
-125653	verb
+125647	noun other indeclinable
+125653	noun other indeclinable
 125656	verb
 125658	verb
-125665	verb
+125665	noun other indeclinable
 125667	verb
 125669	verb
 125679	verb
@@ -19334,8 +19334,8 @@ verb
 125748	verb
 125762	verb
 125769	verb
-125772	verb
-125778	verb
+125772	noun other indeclinable
+125778	noun other indeclinable
 125797	verb
 125807	verb
 125812	verb
@@ -19344,11 +19344,11 @@ verb
 proper noun indeclinable
 125832	verb
 125838	verb
-125845	verb
+125845	noun other indeclinable
 125847	noun
 125850	noun
 125855	verb
-125857	verb
+125857	noun other indeclinable
 125861	proper noun indeclinable
 125864	verb
 125866	proper noun indeclinable
@@ -19357,10 +19357,10 @@ proper noun indeclinable
 125879	verb
 125883	verb
 125897	verb
-125905	conjunction
+125905	noun other indeclinable
 125917	proper noun indeclinable
 125920	noun
-conjunction
+noun other indeclinable
 proper noun indeclinable
 125927	noun
 125932	noun
@@ -19369,11 +19369,11 @@ proper noun indeclinable
 125947	verb
 125952	verb
 noun
-verb
+noun other indeclinable
 125966	verb
 125971	noun
-125974	verb
-125977	verb
+125974	noun other indeclinable
+125977	noun other indeclinable
 125981	verb
 125987	verb
 125998	noun
@@ -19382,11 +19382,11 @@ proper noun indeclinable
 126023	verb
 126025	verb
 noun
-verb
+noun other indeclinable
 126031	verb
 126036	verb
-verb
-126041	verb
+noun other indeclinable
+126041	noun other indeclinable
 126054	verb
 126057	verb
 126061	verb
@@ -19400,25 +19400,25 @@ verb
 126101	verb
 126113	verb
 126118	verb
-126130	verb
+126130	noun other indeclinable
 126132	noun
-126135	verb
-126138	verb
+126135	noun other indeclinable
+126138	noun other indeclinable
 126142	noun
-verb
+noun other indeclinable
 126156	verb
 126158	proper noun indeclinable
 126163	verb
-126172	verb
+126172	noun other indeclinable
 126178	verb
-126185	verb
+126185	noun other indeclinable
 126190	verb
 126202	verb
-126217	verb
+126217	noun other indeclinable
 126225	verb
-126235	verb
+126235	noun other indeclinable
 126237	verb
-126239	verb
+126239	noun other indeclinable
 126247	noun
 126261	verb
 126266	verb
@@ -19433,52 +19433,52 @@ verb
 126314	verb
 126318	verb
 126322	verb
-126324	verb
+126324	noun other indeclinable
 126328	verb
 126330	verb
-verb
-126349	verb
+noun other indeclinable
+126349	noun other indeclinable
 126353	verb
 126359	verb
 126386	verb
 verb
 126391	verb
 verb
-126396	verb
+126396	noun other indeclinable
 126398	noun
 126401	verb
-126404	verb
-126407	verb
-126411	verb
-126416	verb
+126404	noun other indeclinable
+126407	noun other indeclinable
+126411	noun other indeclinable
+126416	noun other indeclinable
 126427	verb
 126440	verb
 noun
 126448	verb
-126451	verb
+126451	noun other indeclinable
 126453	noun
-126456	verb
+126456	noun other indeclinable
 126465	verb
 126467	noun
-126470	verb
+126470	noun other indeclinable
 126474	verb
-126479	verb
+126479	noun other indeclinable
 126481	verb
-verb
+noun other indeclinable
 126485	noun
-126489	verb
+126489	noun other indeclinable
 126491	noun
-verb
+noun other indeclinable
 126496	verb
-126502	verb
-126514	verb
-126521	verb
+126502	noun other indeclinable
+126514	noun other indeclinable
+126521	noun other indeclinable
 126523	verb
 126527	verb
-verb
+noun other indeclinable
 noun
 126536	noun
-126542	verb
+126542	noun other indeclinable
 126544	verb
 126546	verb
 126552	verb
@@ -19494,7 +19494,7 @@ verb
 126610	verb
 126615	verb
 126618	verb
-126623	verb
+126623	noun other indeclinable
 126627	verb
 proper noun indeclinable
 126631	verb
@@ -19508,9 +19508,9 @@ noun
 126674	verb
 126685	verb
 126698	verb
-126710	verb
-126715	verb
-126719	verb
+126710	noun other indeclinable
+126715	noun other indeclinable
+126719	noun other indeclinable
 126737	personal pronoun
 126748	personal pronoun
 126763	verb
@@ -19518,9 +19518,9 @@ noun
 126777	verb
 126785	verb
 noun
-126789	verb
+126789	noun other indeclinable
 126811	verb
-126829	verb
+126829	noun other indeclinable
 126835	verb
 126838	noun
 126843	verb
@@ -19546,47 +19546,47 @@ proper noun indeclinable
 126963	verb
 126972	verb
 126976	verb
-126982	verb
+126982	noun other indeclinable
 126986	verb
 126992	verb
 126997	verb
-127004	verb
-127007	verb
+127004	noun other indeclinable
+127007	noun other indeclinable
 127030	verb
 127037	verb
-verb
+noun other indeclinable
 127044	verb
 127047	personal pronoun
 127051	noun
-127056	verb
+127056	noun other indeclinable
 127071	noun
 verb
 127075	noun
 127079	verb
-127082	verb
+127082	noun other indeclinable
 127085	verb
-127087	verb
+127087	noun other indeclinable
 127092	verb
 verb
-127095	verb
+127095	noun other indeclinable
 127100	noun
 127105	verb
 127107	noun
-127109	relative pronoun
+127109	noun other indeclinable
 127114	verb
 127120	verb
 127126	verb
-127142	verb
+127142	noun other indeclinable
 127144	verb
 127152	personal pronoun
-127158	verb
+127158	noun other indeclinable
 127172	relative pronoun
 127174	verb
 127180	verb
-127184	verb
+127184	noun other indeclinable
 127189	verb
 127191	noun
-127194	verb
+127194	noun other indeclinable
 127204	noun
 127225	verb
 127227	noun
@@ -19597,14 +19597,14 @@ verb
 127265	proper noun indeclinable
 127269	verb
 127279	verb
-verb
+noun other indeclinable
 127282	verb
 127292	verb
-127297	verb
+127297	noun other indeclinable
 127302	verb
-127307	verb
+127307	noun other indeclinable
 127317	proper noun indeclinable
-127320	verb
+127320	noun other indeclinable
 127324	verb
 noun
 127328	verb
@@ -19636,7 +19636,7 @@ noun
 127467	verb
 127484	personal pronoun
 verb
-127499	verb
+127499	noun other indeclinable
 127513	verb
 127516	proper noun indeclinable
 127523	verb
@@ -19652,10 +19652,10 @@ noun
 127596	verb
 127599	verb
 127605	verb
-127610	relative pronoun
+127610	noun other indeclinable
 127618	verb
 127620	noun
-127626	verb
+127626	noun other indeclinable
 127635	unknown
 127640	verb
 127646	verb
@@ -19664,21 +19664,21 @@ verb
 verb
 127672	noun
 127678	verb
-127683	relative pronoun
+127683	noun other indeclinable
 proper noun indeclinable
 127687	verb
-verb
+noun other indeclinable
 127701	verb
 127704	verb
 127714	personal pronoun
-verb
+noun other indeclinable
 127727	verb
 127736	noun
 127743	verb
 127760	noun
-adverb
+noun
 127763	noun
-verb
+noun other indeclinable
 127776	verb
 127789	verb
 127795	verb
@@ -19689,88 +19689,88 @@ verb
 127837	verb
 127843	verb
 127849	personal pronoun
-127864	verb
-127869	verb
+127864	noun other indeclinable
+127869	noun other indeclinable
 verb
 verb
 127877	verb
 127887	verb
 127895	verb
-verb
+noun other indeclinable
 127909	verb
 127914	verb
-127919	verb
+127919	noun other indeclinable
 verb
 127925	noun
 127929	verb
 127935	verb
-127947	verb
+127947	noun other indeclinable
 127958	verb
 127960	relative pronoun
 verb
-127963	verb
+127963	noun other indeclinable
 noun
 127968	noun
 127981	verb
 127993	personal pronoun
 128001	proper noun indeclinable
-verb
-128014	verb
+noun other indeclinable
+128014	noun other indeclinable
 128016	noun
-128026	conjunction
+128026	noun other indeclinable
 128034	verb
 relative pronoun
 verb
 128051	verb
 128060	verb
-128069	verb
+128069	noun other indeclinable
 128076	noun
-128094	verb
-adverb
+128094	noun other indeclinable
+noun
 128113	verb
-128118	adverb
-verb
+128118	noun other indeclinable
+noun other indeclinable
 128127	verb
 noun
-128135	conjunction
-128148	verb
+128135	noun other indeclinable
+128148	noun other indeclinable
 128150	verb
 128152	noun
-128155	verb
-128158	verb
+128155	noun other indeclinable
+128158	noun other indeclinable
 128164	noun
 128168	verb
-128174	verb
-128176	verb
-128182	verb
-128186	relative pronoun
+128174	noun other indeclinable
+128176	noun other indeclinable
+128182	noun other indeclinable
+128186	noun other indeclinable
 128200	verb
 128203	noun
-128235	verb
+128235	noun other indeclinable
 128239	noun
 128241	verb
-128259	relative pronoun
+128259	noun other indeclinable
 verb
-128262	relative pronoun
+128262	noun other indeclinable
 verb
 128265	personal pronoun
-128268	relative pronoun
+128268	noun other indeclinable
 128272	personal pronoun
 128275	verb
-128277	relative pronoun
-verb
-128285	relative pronoun
+128277	noun other indeclinable
+noun other indeclinable
+128285	noun other indeclinable
 128287	verb
 128290	verb
-verb
+noun other indeclinable
 128293	verb
-128311	relative pronoun
-128315	verb
-128328	relative pronoun
+128311	noun other indeclinable
+128315	noun other indeclinable
+128328	noun other indeclinable
 128333	noun
 128337	noun
 128349	verb
-128354	adverb
+128354	noun other indeclinable
 verb
 128367	verb
 128373	relative pronoun
@@ -19781,13 +19781,13 @@ verb
 128401	personal pronoun
 128407	verb
 128415	verb
-128420	verb
+128420	noun other indeclinable
 128422	verb
 128425	verb
 128427	proper noun indeclinable
-128431	verb
+128431	noun other indeclinable
 128433	verb
-128437	verb
+128437	noun other indeclinable
 128443	verb
 verb
 proper noun indeclinable
@@ -19817,9 +19817,9 @@ verb
 128538	verb
 128544	verb
 128554	verb
-128559	verb
+128559	noun other indeclinable
 128563	verb
-128568	verb
+128568	noun other indeclinable
 128570	verb
 128573	verb
 128584	verb
@@ -19828,7 +19828,7 @@ verb
 128599	verb
 128606	verb
 128612	relative pronoun
-128615	adverb
+128615	noun other indeclinable
 128629	verb
 verb
 128634	verb
@@ -19837,12 +19837,12 @@ verb
 128653	verb
 128659	verb
 128661	verb
-128666	verb
+128666	noun other indeclinable
 128668	verb
 128671	verb
 128673	verb
 128680	verb
-128700	verb
+128700	noun other indeclinable
 128717	verb
 128721	verb
 128724	noun
@@ -19851,16 +19851,16 @@ verb
 128745	noun
 128753	unknown
 verb
-128766	verb
+128766	noun other indeclinable
 128773	verb
 128779	verb
 128800	noun
-128813	verb
+128813	noun other indeclinable
 128815	verb
 128818	verb
 128822	verb
 128824	verb
-128828	relative pronoun
+128828	noun other indeclinable
 128832	personal pronoun
 128835	verb
 128837	verb
@@ -19880,35 +19880,35 @@ verb
 128879	noun
 128892	verb
 128896	verb
-128901	adverb
+128901	noun other indeclinable
 128905	verb
 128914	verb
 128916	verb
 128922	proper noun indeclinable
-128926	verb
+128926	noun other indeclinable
 128930	verb
 128932	verb
 128937	verb
 128946	proper noun indeclinable
 128951	verb
-128955	verb
+128955	noun other indeclinable
 128966	proper noun indeclinable
-128970	relative pronoun
+128970	noun other indeclinable
 verb
 128985	verb
 128988	verb
 128994	proper noun indeclinable
 128999	verb
-129006	verb
-129009	relative pronoun
+129006	noun other indeclinable
+129009	noun other indeclinable
 proper noun indeclinable
 129012	proper noun indeclinable
-129015	relative pronoun
+129015	noun other indeclinable
 verb
 129018	noun
 129030	verb
 129036	verb
-129043	verb
+129043	noun other indeclinable
 129045	verb
 129048	verb
 129050	verb
@@ -19927,20 +19927,20 @@ relative pronoun
 129100	verb
 verb
 129105	verb
-relative pronoun
+noun other indeclinable
 129112	noun
 129114	verb
 129117	verb
 noun
-129121	verb
+129121	noun other indeclinable
 129123	relative pronoun
 129126	proper noun indeclinable
 129130	verb
-129133	verb
+129133	noun other indeclinable
 verb
 129136	verb
 129139	verb
-129142	verb
+129142	noun other indeclinable
 129144	verb
 129148	verb
 129162	verb
@@ -19948,7 +19948,7 @@ verb
 129169	verb
 129172	verb
 129178	verb
-129185	verb
+129185	noun other indeclinable
 129187	verb
 129190	verb
 129196	verb
@@ -19957,18 +19957,18 @@ verb
 verb
 verb
 proper noun indeclinable
-129214	adverb
+129214	noun other indeclinable
 129216	verb
 verb
 verb
 129222	noun
 verb
 129227	noun
-129240	adverb
+129240	noun other indeclinable
 verb
 129248	verb
 129255	verb
-129257	adverb
+129257	noun other indeclinable
 129261	verb
 129263	verb
 verb
@@ -19980,9 +19980,9 @@ verb
 129306	noun
 129312	verb
 129314	verb
-129318	verb
+129318	noun other indeclinable
 129322	verb
-129325	verb
+129325	noun other indeclinable
 129337	verb
 129345	verb
 129354	verb
@@ -19990,10 +19990,10 @@ verb
 129364	noun
 129366	verb
 129372	verb
-129379	verb
+129379	noun other indeclinable
 129381	verb
 129384	verb
-129386	verb
+129386	noun other indeclinable
 129398	verb
 verb
 verb
@@ -20010,33 +20010,33 @@ proper noun indeclinable
 129491	verb
 verb
 129499	verb
-adverb
+noun
 129504	verb
 129507	verb
 129509	verb
 129514	verb
 129516	verb
 129529	verb
-129535	verb
-129539	relative pronoun
+129535	noun other indeclinable
+129539	noun other indeclinable
 verb
-129548	verb
+129548	noun other indeclinable
 129553	verb
 129559	verb
-129566	adverb
-129569	verb
+129566	noun other indeclinable
+129569	noun other indeclinable
 129576	noun
-129579	relative pronoun
+129579	noun other indeclinable
 129584	noun
 verb
 129590	relative pronoun
 verb
-129597	verb
-129600	adverb
-129603	verb
+129597	noun other indeclinable
+129600	noun other indeclinable
+129603	noun other indeclinable
 129633	noun
 129639	noun
-129644	verb
+129644	noun other indeclinable
 129646	verb
 129653	verb
 129663	verb
@@ -20045,21 +20045,21 @@ verb
 129674	proper noun indeclinable
 129678	verb
 129680	verb
-129683	relative pronoun
+129683	noun other indeclinable
 129686	noun
-129689	verb
+129689	noun other indeclinable
 129708	noun
 noun
 129715	noun
 129721	verb
-129724	relative pronoun
+129724	noun other indeclinable
 verb
 129730	noun
 129734	proper noun indeclinable
 129741	verb
 noun
 129761	noun
-129767	conjunction
+129767	noun other indeclinable
 129776	noun
 proper noun indeclinable
 129779	verb
@@ -20077,20 +20077,20 @@ proper noun indeclinable
 129848	noun
 129851	verb
 129859	noun
-129878	verb
+129878	noun other indeclinable
 129883	verb
-129894	verb
+129894	noun other indeclinable
 129902	verb
 129905	verb
 129918	verb
 129929	verb
-129933	adverb
+129933	noun other indeclinable
 129936	verb
 129945	verb
-129955	verb
+129955	noun other indeclinable
 129962	verb
-129964	verb
-129970	relative pronoun
+129964	noun other indeclinable
+129970	noun other indeclinable
 129972	verb
 129980	proper noun indeclinable
 129984	verb
@@ -20104,29 +20104,29 @@ verb
 130023	verb
 130032	verb
 130044	verb
-130054	verb
+130054	noun other indeclinable
 130057	verb
 130073	noun
 130077	verb
 130086	verb
 130093	verb
-130098	conjunction
+130098	noun other indeclinable
 130126	verb
 130128	verb
-130135	verb
+130135	noun other indeclinable
 130143	verb
 130152	proper noun indeclinable
-verb
+noun other indeclinable
 130170	verb
 130183	proper noun indeclinable
 130186	verb
-verb
+noun other indeclinable
 130189	personal pronoun
 130191	verb
 130211	verb
-130213	relative pronoun
+130213	noun other indeclinable
 130215	verb
-130220	adverb
+130220	noun other indeclinable
 130228	verb
 130236	verb
 130249	verb
@@ -20134,22 +20134,22 @@ verb
 130274	verb
 130286	verb
 130290	verb
-130296	adverb
+130296	noun other indeclinable
 130304	verb
-130306	verb
-130312	relative pronoun
-130314	verb
+130306	noun other indeclinable
+130312	noun other indeclinable
+130314	noun other indeclinable
 130318	verb
 verb
 130321	verb
 130326	verb
 130347	verb
-130353	adverb
+130353	noun other indeclinable
 130359	verb
 130374	verb
-130381	verb
-130384	verb
-130387	verb
+130381	noun other indeclinable
+130384	noun other indeclinable
+130387	noun other indeclinable
 130392	verb
 130402	verb
 130409	noun
@@ -20163,16 +20163,16 @@ verb
 verb
 130467	personal pronoun
 130470	personal pronoun
-130473	relative pronoun
-130493	relative pronoun
-130501	relative pronoun
+130473	noun other indeclinable
+130493	noun other indeclinable
+130501	noun other indeclinable
 130504	personal pronoun
 130507	verb
 verb
-130512	relative pronoun
+130512	noun other indeclinable
 130514	noun
 130519	verb
-130526	relative pronoun
+130526	noun other indeclinable
 130540	personal pronoun
 130545	personal pronoun
 130548	personal pronoun
@@ -20194,33 +20194,33 @@ verb
 130688	verb
 130692	verb
 130708	verb
-130776	adverb
+130776	noun other indeclinable
 130788	verb
 130794	verb
 130798	verb
 130803	noun
-130806	verb
-130815	adverb
+130806	noun other indeclinable
+130815	noun other indeclinable
 130830	personal pronoun
 130842	verb
 130844	verb
 verb
 130849	proper noun indeclinable
 verb
-130857	verb
+130857	noun other indeclinable
 130871	verb
-130886	verb
+130886	noun other indeclinable
 130893	noun
 130896	personal pronoun
 130901	noun
 verb
 130915	verb
 130919	personal pronoun
-130934	verb
+130934	noun other indeclinable
 130939	noun
 130942	verb
 130946	verb
-130953	verb
+130953	noun other indeclinable
 130963	verb
 130967	verb
 130970	verb
@@ -20231,8 +20231,8 @@ verb
 131000	verb
 131004	verb
 131017	verb
-verb
-131021	relative pronoun
+noun other indeclinable
+131021	noun other indeclinable
 131029	verb
 131031	verb
 131047	verb
@@ -20248,14 +20248,14 @@ verb
 131120	personal pronoun
 131135	verb
 131138	verb
-verb
+noun other indeclinable
 131156	verb
-131169	relative pronoun
-131192	verb
+131169	noun other indeclinable
+131192	noun other indeclinable
 131195	proper noun indeclinable
 131210	verb
 131213	verb
-131217	relative pronoun
+131217	noun other indeclinable
 verb
 131220	verb
 131225	verb
@@ -20268,14 +20268,14 @@ verb
 131286	noun
 131288	verb
 131295	unknown
-131303	verb
+131303	noun other indeclinable
 131318	verb
 131323	verb
 verb
 131338	verb
-131364	relative pronoun
+131364	noun other indeclinable
 131392	verb
-relative pronoun
+noun other indeclinable
 131395	verb
 personal pronoun
 verb
@@ -20283,39 +20283,39 @@ verb
 131426	verb
 131429	verb
 131440	verb
-131446	relative pronoun
+131446	noun other indeclinable
 131450	verb
-131453	verb
+131453	noun other indeclinable
 131457	verb
 personal pronoun
 verb
 131468	verb
 131477	proper noun indeclinable
 131481	verb
-131491	relative pronoun
+131491	noun other indeclinable
 verb
 verb
 131496	proper noun indeclinable
 verb
-131499	relative pronoun
+131499	noun other indeclinable
 verb
-131505	relative pronoun
+131505	noun other indeclinable
 131507	verb
 131509	personal pronoun
-131512	relative pronoun
-131518	relative pronoun
+131512	noun other indeclinable
+131518	noun other indeclinable
 131520	verb
 131525	verb
-131527	relative pronoun
+131527	noun other indeclinable
 131538	verb
-131543	verb
+131543	noun other indeclinable
 131548	verb
 131553	verb
-131568	verb
+131568	noun other indeclinable
 131572	noun
 verb
-adverb
-131579	adverb
+noun other indeclinable
+131579	noun other indeclinable
 131598	verb
 131602	verb
 131604	verb
@@ -20325,18 +20325,18 @@ verb
 131629	personal pronoun
 131632	personal pronoun
 131640	verb
-131667	verb
-131687	relative pronoun
+131667	noun other indeclinable
+131687	noun other indeclinable
 131700	verb
 131703	verb
 131719	verb
 131728	verb
-131731	verb
-131737	verb
+131731	noun other indeclinable
+131737	noun other indeclinable
 131745	noun
-131750	verb
+131750	noun other indeclinable
 131754	personal pronoun
-131761	verb
+131761	noun other indeclinable
 131771	verb
 131775	verb
 proper noun indeclinable
@@ -20351,12 +20351,12 @@ noun
 131795	relative pronoun
 131808	verb
 131833	verb
-131847	relative pronoun
+131847	noun other indeclinable
 131851	personal pronoun
-131854	relative pronoun
+131854	noun other indeclinable
 verb
 131858	verb
-verb
+noun other indeclinable
 131882	verb
 131886	noun
 131890	verb
@@ -20367,35 +20367,35 @@ verb
 131914	relative pronoun
 131918	verb
 131941	noun
-131947	verb
+131947	noun other indeclinable
 131956	verb
 131960	proper noun indeclinable
-verb
+noun other indeclinable
 131967	proper noun indeclinable
-verb
+noun other indeclinable
 131974	proper noun indeclinable
-verb
-131982	verb
+noun other indeclinable
+131982	noun other indeclinable
 131998	verb
-relative pronoun
+noun other indeclinable
 132013	verb
 132019	verb
-132026	verb
+132026	noun other indeclinable
 132045	noun
 132052	verb
 132060	verb
-132064	verb
+132064	noun other indeclinable
 132067	verb
-132070	relative pronoun
-132085	conjunction
-verb
-132090	relative pronoun
+132070	noun other indeclinable
+132085	noun other indeclinable
+noun other indeclinable
+132090	noun other indeclinable
 132102	verb
 132104	verb
 132107	verb
 132123	noun
 132130	verb
-132137	verb
+132137	noun other indeclinable
 132145	verb
 132160	noun
 verb
@@ -20411,7 +20411,7 @@ verb
 verb
 132239	verb
 132243	verb
-132252	verb
+132252	noun other indeclinable
 verb
 132256	verb
 132265	verb
@@ -20426,23 +20426,23 @@ verb
 132348	personal pronoun
 132350	verb
 132368	verb
-132370	verb
+132370	noun other indeclinable
 132381	verb
 132392	verb
 132395	verb
-132402	verb
+132402	noun other indeclinable
 132408	personal pronoun
-132412	verb
+132412	noun other indeclinable
 132421	verb
 132424	verb
-132427	verb
+132427	noun other indeclinable
 132435	personal pronoun
 132441	verb
 132445	verb
-adverb
-132451	adverb
+noun other indeclinable
+132451	noun other indeclinable
 132455	noun
-132467	verb
+132467	noun other indeclinable
 132473	noun
 132477	verb
 132484	verb
@@ -20454,7 +20454,7 @@ verb
 132504	verb
 132506	proper noun indeclinable
 verb
-132525	conjunction
+132525	noun other indeclinable
 132530	verb
 132536	proper noun indeclinable
 132543	verb
@@ -20463,17 +20463,17 @@ verb
 verb
 132567	verb
 132584	verb
-132586	verb
-132596	verb
+132586	noun other indeclinable
+132596	noun other indeclinable
 132606	verb
 132610	verb
-132616	verb
+132616	noun other indeclinable
 132626	verb
 132628	verb
 132636	verb
-132639	verb
-132652	verb
-132656	adverb
+132639	noun other indeclinable
+132652	noun other indeclinable
+132656	noun other indeclinable
 132660	verb
 132665	verb
 132675	noun
@@ -20484,19 +20484,19 @@ verb
 132706	verb
 132710	verb
 132715	proper noun indeclinable
-132717	verb
+132717	noun other indeclinable
 132727	verb
 132739	noun
 132741	noun
 132747	verb
 132753	noun
-132759	verb
+132759	noun other indeclinable
 132765	personal pronoun
 132778	personal pronoun
-132789	verb
+132789	noun other indeclinable
 132809	verb
 132818	personal pronoun
-132828	verb
+132828	noun other indeclinable
 132831	verb
 132841	noun
 132843	verb
@@ -20510,15 +20510,15 @@ verb
 noun
 132895	verb
 132897	personal pronoun
-verb
+noun other indeclinable
 132913	verb
 132920	noun
 132950	verb
 132953	noun
 132966	verb
 132968	verb
-132979	verb
-132983	relative pronoun
+132979	noun other indeclinable
+132983	noun other indeclinable
 132988	noun
 133003	verb
 133027	verb
@@ -20528,15 +20528,15 @@ verb
 133065	verb
 133067	verb
 133078	verb
-133081	conjunction
+133081	noun other indeclinable
 noun
 133085	personal pronoun
-133088	relative pronoun
-133094	relative pronoun
+133088	noun other indeclinable
+133094	noun other indeclinable
 133110	verb
-133118	relative pronoun
+133118	noun other indeclinable
 133126	verb
-133134	verb
+133134	noun other indeclinable
 133136	verb
 133144	verb
 133158	noun
@@ -20545,29 +20545,29 @@ noun
 133175	verb
 133187	verb
 133194	verb
-133197	verb
+133197	noun other indeclinable
 133208	verb
 133215	verb
 133217	proper noun indeclinable
 133222	noun
 133226	verb
 133229	personal pronoun
-133240	verb
+133240	noun other indeclinable
 133250	verb
 133254	noun
 133263	verb
-133266	verb
+133266	noun other indeclinable
 133269	verb
-133271	verb
+133271	noun other indeclinable
 133282	verb
 133286	verb
 133295	noun
-133299	relative pronoun
+133299	noun other indeclinable
 133303	verb
 133306	verb
 proper noun indeclinable
 133309	verb
-133317	verb
+133317	noun other indeclinable
 133321	verb
 133323	verb
 133325	noun
@@ -20603,16 +20603,16 @@ verb
 verb
 133484	verb
 133487	verb
-133499	adverb
+133499	noun other indeclinable
 133506	verb
 133527	verb
 133534	verb
-relative pronoun
+noun other indeclinable
 133537	verb
-133540	relative pronoun
+133540	noun other indeclinable
 133542	verb
-133549	relative pronoun
-133552	verb
+133549	noun other indeclinable
+133552	noun other indeclinable
 133560	verb
 133564	verb
 133567	verb
@@ -20620,12 +20620,12 @@ relative pronoun
 133593	verb
 133600	personal pronoun
 133606	verb
-133619	verb
-133633	verb
+133619	noun other indeclinable
+133633	noun other indeclinable
 133636	verb
 133652	noun
 133655	noun
-verb
+noun other indeclinable
 133661	verb
 133665	verb
 133674	verb
@@ -20638,16 +20638,16 @@ verb
 133703	verb
 133709	proper noun indeclinable
 133717	noun
-verb
+noun other indeclinable
 133723	verb
 133725	verb
 133737	verb
 133747	verb
 133749	verb
 133751	verb
-133755	verb
+133755	noun other indeclinable
 133759	verb
-133763	verb
+133763	noun other indeclinable
 133767	verb
 verb
 verb
@@ -20661,24 +20661,24 @@ verb
 133833	personal pronoun
 verb
 personal pronoun
+noun other indeclinable
 verb
-verb
-133840	adverb
+133840	noun other indeclinable
 verb
 133848	verb
 133850	proper noun indeclinable
 133854	verb
-133860	adverb
+133860	noun other indeclinable
 133868	noun
 133870	verb
 verb
 133877	verb
-133879	verb
+133879	noun other indeclinable
 133891	verb
-133893	verb
+133893	noun other indeclinable
 133904	verb
 133941	verb
-133943	verb
+133943	noun other indeclinable
 133946	verb
 133959	verb
 verb
@@ -20691,10 +20691,10 @@ verb
 134036	verb
 134040	noun
 noun
-134047	verb
-134061	verb
+134047	noun other indeclinable
+134061	noun other indeclinable
 134067	verb
-134070	relative pronoun
+134070	noun other indeclinable
 134080	verb
 134102	verb
 134109	verb
@@ -20715,7 +20715,7 @@ verb
 134162	proper noun indeclinable
 134164	verb
 134175	verb
-134178	verb
+134178	noun other indeclinable
 134183	personal pronoun
 134186	personal pronoun
 134193	verb
@@ -20732,21 +20732,21 @@ verb
 134278	verb
 134280	verb
 134310	verb
-134330	relative pronoun
+134330	noun other indeclinable
 verb
 134333	proper noun indeclinable
 134337	proper noun indeclinable
-verb
+noun other indeclinable
 134353	noun
 134355	verb
 134364	verb
-134372	conjunction
+134372	noun other indeclinable
 134380	verb
 134382	verb
 134389	verb
 134396	verb
 134407	verb
-134424	verb
+134424	noun other indeclinable
 134428	personal pronoun
 verb
 134437	verb
@@ -20762,12 +20762,12 @@ verb
 134527	verb
 134540	verb
 134548	numeral
-134550	relative pronoun
+134550	noun other indeclinable
 134555	verb
 134558	relative pronoun
 134576	verb
-134579	adverb
-134581	relative pronoun
+134579	noun
+134581	noun other indeclinable
 134588	proper noun indeclinable
 134594	verb
 134626	verb
@@ -20783,13 +20783,13 @@ verb
 134689	verb
 134692	proper noun indeclinable
 134700	verb
-134702	relative pronoun
+134702	noun other indeclinable
 134707	verb
 134713	personal pronoun
 verb
 134716	verb
 134721	verb
-134728	noun
+134728	noun other indeclinable
 134735	verb
 134740	verb
 134745	noun
@@ -20798,18 +20798,18 @@ verb
 134769	personal pronoun
 134775	verb
 134783	noun
-verb
+noun other indeclinable
 134791	verb
 134796	verb
 134801	verb
-134805	conjunction
+134805	noun other indeclinable
 134807	verb
 134820	verb
-verb
+noun other indeclinable
 134825	noun
 134828	proper noun indeclinable
-134842	adverb
-134844	adverb
+134842	noun other indeclinable
+134844	noun other indeclinable
 134862	verb
 134877	verb
 134881	noun
@@ -20818,18 +20818,18 @@ verb
 134903	proper noun indeclinable
 verb
 134907	verb
-134910	conjunction
+134910	noun other indeclinable
 134923	verb
 134926	personal pronoun
 134942	verb
 134946	verb
-134948	conjunction
+134948	noun other indeclinable
 134958	verb
 134976	personal pronoun
 134978	verb
 134991	verb
 134995	verb
-134997	conjunction
+134997	noun other indeclinable
 135013	verb
 135015	proper noun indeclinable
 verb
@@ -20838,7 +20838,7 @@ verb
 135024	noun
 135027	verb
 verb
-relative pronoun
+noun other indeclinable
 135036	verb
 135045	verb
 135054	verb
@@ -20859,7 +20859,7 @@ verb
 135105	verb
 135110	verb
 135121	verb
-verb
+noun other indeclinable
 135143	noun
 135149	personal pronoun
 verb
@@ -20868,7 +20868,7 @@ verb
 135179	verb
 135181	verb
 135192	verb
-verb
+noun other indeclinable
 135196	noun
 verb
 verb
@@ -20884,20 +20884,20 @@ verb
 verb
 135286	verb
 135291	proper noun indeclinable
-135296	relative pronoun
+135296	noun other indeclinable
 135302	proper noun indeclinable
 noun
 135305	proper noun indeclinable
-135308	verb
+135308	noun other indeclinable
 135315	verb
-135328	verb
+135328	noun other indeclinable
 135330	verb
 135332	verb
 135337	noun
 135345	noun
-135347	verb
+135347	noun other indeclinable
 135350	verb
-135360	verb
+135360	noun other indeclinable
 135365	noun
 135377	personal pronoun
 135381	personal pronoun
@@ -20928,62 +20928,62 @@ verb
 135537	personal pronoun
 135544	noun
 135564	verb
-135569	verb
+135569	noun other indeclinable
 135591	noun
 135603	verb
 135612	noun
 135614	verb
 135619	verb
 135625	verb
-135636	verb
-adverb
+135636	noun other indeclinable
+noun other indeclinable
 135640	personal pronoun
 135642	proper noun indeclinable
-135644	verb
+135644	noun other indeclinable
 135660	personal pronoun
 135663	personal pronoun
 135666	personal pronoun
 verb
-135683	relative pronoun
+135683	noun other indeclinable
 135691	noun
-135716	verb
-135727	verb
-135736	verb
+135716	noun other indeclinable
+135727	noun other indeclinable
+135736	noun other indeclinable
 135744	verb
-verb
-135756	verb
+noun other indeclinable
+135756	noun other indeclinable
 135760	personal pronoun
 verb
 verb
 135764	personal pronoun
-135769	verb
+135769	noun other indeclinable
 135772	verb
 135775	proper noun indeclinable
-135778	verb
+135778	noun other indeclinable
 135781	verb
 135783	verb
-135795	relative pronoun
-135800	verb
+135795	noun other indeclinable
+135800	noun other indeclinable
 135803	verb
 135814	verb
-135833	verb
+135833	noun other indeclinable
 135842	noun
 135862	verb
 personal pronoun
 135865	personal pronoun
 noun
 135869	proper noun indeclinable
-135882	verb
+135882	noun other indeclinable
 135890	verb
 135896	personal pronoun
 verb
 135899	personal pronoun
 135902	personal pronoun
 135905	personal pronoun
-135909	relative pronoun
-135914	relative pronoun
+135909	noun other indeclinable
+135914	noun other indeclinable
 135916	verb
-135919	relative pronoun
+135919	noun other indeclinable
 135921	verb
 verb
 verb
@@ -21004,19 +21004,19 @@ verb
 136007	verb
 136012	verb
 136020	verb
-136036	adverb
-136049	verb
+136036	noun other indeclinable
+136049	noun other indeclinable
 136051	verb
 136054	personal pronoun
 136067	verb
 136089	verb
 136091	proper noun indeclinable
 136093	proper noun indeclinable
-verb
+noun other indeclinable
 136101	verb
-136115	verb
+136115	noun other indeclinable
 136118	proper noun indeclinable
-136124	verb
+136124	noun other indeclinable
 136129	verb
 136133	verb
 136135	verb
@@ -21027,11 +21027,11 @@ verb
 136157	noun
 noun
 136161	proper noun indeclinable
-136164	verb
+136164	noun other indeclinable
 136168	verb
-verb
+noun other indeclinable
 136172	noun
-136178	verb
+136178	noun other indeclinable
 136181	verb
 136188	verb
 136198	verb
@@ -21044,12 +21044,12 @@ verb
 136249	verb
 136257	proper noun indeclinable
 136259	verb
-136261	verb
+136261	noun other indeclinable
 136269	verb
 136278	personal pronoun
-136287	verb
+136287	noun other indeclinable
 136290	personal pronoun
-136293	verb
+136293	noun other indeclinable
 136309	proper noun indeclinable
 136314	verb
 136322	verb
@@ -21071,7 +21071,7 @@ noun
 noun
 136457	noun
 136462	verb
-136464	verb
+136464	noun other indeclinable
 136466	verb
 136475	noun
 verb
@@ -21083,8 +21083,8 @@ verb
 noun
 136508	proper noun indeclinable
 136510	proper noun indeclinable
-verb
-136530	relative pronoun
+noun other indeclinable
+136530	noun other indeclinable
 136547	verb
 136558	verb
 136566	verb
@@ -21094,19 +21094,19 @@ verb
 136628	verb
 136644	personal pronoun
 verb
-136649	verb
+136649	noun other indeclinable
 136653	proper noun indeclinable
-136663	verb
-136675	verb
+136663	noun other indeclinable
+136675	noun other indeclinable
 136681	proper noun indeclinable
-136711	verb
+136711	noun other indeclinable
 136726	noun
 136736	noun
 136749	noun
 136756	verb
 136759	verb
-136761	relative pronoun
-136775	adverb
+136761	noun other indeclinable
+136775	noun
 136777	verb
 136779	verb
 136784	verb
@@ -21115,7 +21115,7 @@ verb
 136823	proper noun indeclinable
 noun
 136827	verb
-136833	adverb
+136833	noun
 136835	verb
 136838	verb
 136842	personal pronoun
@@ -21126,18 +21126,18 @@ verb
 verb
 136896	verb
 136900	verb
-136910	verb
+136910	noun other indeclinable
 136930	verb
 136935	verb
 136942	verb
 136947	noun
-136960	verb
+136960	noun other indeclinable
 136973	noun
 136978	verb
 136981	verb
 136984	verb
 136986	verb
-136993	relative pronoun
+136993	noun other indeclinable
 137014	relative pronoun
 137018	verb
 verb
@@ -21153,11 +21153,11 @@ verb
 verb
 137190	personal pronoun
 137195	noun
-137200	conjunction
+137200	noun other indeclinable
 137206	noun
-137211	relative pronoun
+137211	noun other indeclinable
 137213	verb
-137218	verb
+137218	noun other indeclinable
 137222	noun
 137238	noun
 137240	verb
@@ -21172,10 +21172,10 @@ proper noun indeclinable
 137298	verb
 137313	verb
 137319	personal pronoun
-137321	verb
-137335	relative pronoun
+137321	noun other indeclinable
+137335	noun other indeclinable
 137342	verb
-137346	verb
+137346	noun other indeclinable
 137349	verb
 137353	verb
 137359	verb
@@ -21183,7 +21183,7 @@ proper noun indeclinable
 137370	proper noun indeclinable
 137373	verb
 137388	verb
-137392	verb
+137392	noun other indeclinable
 137396	personal pronoun
 verb
 137399	verb
@@ -21202,9 +21202,9 @@ verb
 137466	verb
 137468	relative pronoun
 verb
-137471	verb
+137471	noun other indeclinable
 noun
-137474	adverb
+137474	noun
 137487	verb
 137500	verb
 137503	verb
@@ -21214,11 +21214,11 @@ noun
 137523	verb
 137534	verb
 137536	verb
-137572	adverb
-137583	relative pronoun
+137572	noun
+137583	noun other indeclinable
 137605	personal pronoun
 137613	verb
-137627	verb
+137627	noun other indeclinable
 personal pronoun
 137631	personal pronoun
 verb
@@ -21235,15 +21235,15 @@ verb
 137709	verb
 137711	verb
 137714	verb
-137723	verb
+137723	noun other indeclinable
 137728	verb
 137730	verb
 137733	verb
 137739	noun
 137747	verb
-137758	verb
+137758	noun other indeclinable
 137762	verb
 137766	verb
-137769	verb
-137773	adverb
+137769	noun other indeclinable
+137773	noun other indeclinable
 137776	verb

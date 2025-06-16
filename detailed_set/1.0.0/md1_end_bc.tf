@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:22+00:00Z
+@dateWritten=2025-06-15T22:27:23+00:00Z
 
 os
 ew^s
@@ -231,9 +231,11 @@ w|
 511	a_s
 514	ptai
 517	ou
+i
 521	h=
 a_
-524	h
+ws
+h
 528	osin
 a_
 533	etai
@@ -251,6 +253,7 @@ ous
 561	en
 e/ntes
 ate
+ws
 567	ou
 570	hte
 ate
@@ -275,6 +278,7 @@ o/ntes
 hsan
 a_n
 hn
+a
 612	o/ntes
 615	a_n
 on
@@ -314,7 +318,8 @@ ei/s
 ou
 678	e
 680	on
-684	ws
+683	ei
+ws
 686	w
 688	ei
 691	ei=n
@@ -329,7 +334,8 @@ ou
 ktos
 709	en
 711	on
-715	ws
+714	ei
+ws
 717	hs
 720	h=|
 722	e/n
@@ -343,12 +349,14 @@ a
 739	h
 742	wn
 h
+a=n
 746	a_s
 en
 756	i_
 758	ois
 hs
 761	ous
+764	a
 766	on
 768	en
 771	wn
@@ -397,7 +405,8 @@ ei
 861	ros
 ou
 864	h
-866	ei=n
+ei
+ei=n
 ei/s
 871	en
 874	h
@@ -496,6 +505,7 @@ omen
 1043	wn
 1045	ai
 a
+1049	h
 1052	h
 1055	a_n
 1057	w=n
@@ -508,6 +518,7 @@ etai
 1070	etai
 1074	w
 1078	an
+1081	w
 1083	o/menos
 o/teros
 1090	os
@@ -556,7 +567,8 @@ hn
 1179	on
 ei/s
 1183	ous
-1185	h
+us
+h
 1190	ou=
 hsan
 1193	oi
@@ -639,6 +651,7 @@ on
 1348	os
 1350	os
 on
+a=n
 1354	u_sin
 w|
 a_s
@@ -690,6 +703,7 @@ wn
 1442	h=
 1444	on
 hs
+a_n
 1448	ou
 a_
 1451	w=n
@@ -729,13 +743,15 @@ a_n
 1513	eis
 1515	ei
 ois
+1518	w
 1521	w=
 1523	eis
 wn
 1530	a
 an
 w|
-1534	a_/s
+i
+a_/s
 1536	en
 ou=s
 1539	ous
@@ -758,7 +774,8 @@ ous
 wn
 an
 w|
-1577	en
+i
+en
 1579	h|
 1581	a_|
 wn
@@ -799,6 +816,7 @@ oi
 1641	ew^s
 1643	wn
 1645	a_s
+1647	a_n
 1649	ou
 w/n
 1653	ous
@@ -886,7 +904,8 @@ is
 h=nai
 1818	ous
 me/nh
-1821	ousin
+e
+ousin
 on
 1824	e/a_sin
 on
@@ -904,7 +923,8 @@ a
 1855	wsin
 1857	era
 1862	ois
-1864	hte
+h=
+hte
 1866	on
 ai
 1869	on
@@ -976,9 +996,12 @@ os
 2020	h|s
 2022	on
 2026	on
-2028	h=|s
+ei=
+h=|s
 2031	os
 2033	ei
+2035	a
+2038	ei
 2040	on
 2044	ou
 2046	e
@@ -1015,7 +1038,8 @@ ate
 2115	wn
 2119	ai
 hn
-2122	en
+h
+en
 hn
 2126	a_|
 ou
@@ -1126,6 +1150,7 @@ on
 ate
 2380	h
 ei=s
+2383	i/on
 2386	ei=s
 2388	on
 2392	w
@@ -1201,6 +1226,7 @@ hn
 2559	wn
 2562	w|
 ei=
+2565	i
 2567	hsqe
 2569	esqe
 2572	ai
@@ -1270,6 +1296,7 @@ ei=
 2735	hr
 2738	os
 2744	ois
+e
 2747	hr
 2749	ei=
 2751	mata
@@ -1303,7 +1330,8 @@ a_
 2810	wn
 2813	w|
 ei=
-2817	ete
+2816	h=
+ete
 2819	ous
 2822	h=s
 2824	hs
@@ -1320,8 +1348,10 @@ ete
 ei
 2848	ai
 2850	ousin
-2852	ousin
+e
+ousin
 2857	os
+2859	ei
 2863	a_
 2866	os
 2868	matos
@@ -1355,6 +1385,7 @@ ei=
 2932	asqe
 w|
 ein
+2937	a_
 2939	w
 2942	a=te
 2944	h|
@@ -1371,14 +1402,17 @@ ate
 2972	a
 2974	ou
 2977	ousin
-2979	ousin
-2981	ou=sin
+e
+ousin
+e
+ou=sin
 2983	a_s
 2986	hr
 2989	os
 ei
 a
-2995	ete
+2994	on
+ete
 wn
 3001	w=n
 atai
@@ -1394,9 +1428,11 @@ ete
 3019	ou
 3021	ousin
 3023	w=sin
-3025	ousin
+e
+ousin
 w
-3031	n
+3030	e
+n
 3033	hi
 3035	h|
 ou
@@ -1408,6 +1444,7 @@ o/menon
 3055	os
 3057	u_sin
 3059	w|
+on
 3062	oi
 3065	hte
 ontes
@@ -1433,7 +1470,8 @@ on
 3119	a_|
 3121	a_
 hs
-3124	ete
+h=
+ete
 3127	h=te
 3131	mati
 ete
@@ -1467,7 +1505,8 @@ ei=n
 3198	os
 3201	ou
 3203	ou
-3206	w=te
+3205	h=
+w=te
 3208	on
 3212	hte
 3214	a_s
@@ -1509,6 +1548,7 @@ a
 o/nai
 3289	ois
 3291	w|
+on
 3294	hr
 3299	ois
 ei=
@@ -1549,6 +1589,7 @@ ete
 3377	ontai
 3381	masin
 wn
+en
 3386	oi
 ges
 3390	wn
@@ -1576,7 +1617,8 @@ on
 ous
 ous
 ei=n
-3425	on
+e
+on
 on
 ous
 ous
@@ -1667,7 +1709,8 @@ ou
 3607	is
 hs
 h
-3611	eto
+i
+eto
 3613	en
 3615	ous
 3617	ous
@@ -1787,6 +1830,7 @@ ou=sin
 h/sontai
 3835	os
 3837	on
+ei
 3841	os
 3844	os
 3846	o/ntwn
@@ -1798,7 +1842,8 @@ e
 h/tw
 3859	h
 3864	a_|
-3867	w/n
+3866	i
+w/n
 3869	ous
 3872	a_n
 ou
@@ -1843,7 +1888,9 @@ on
 3938	on
 en
 ei=n
-3945	w/n
+3943	a_n
+i
+w/n
 3947	eus
 en
 w|
@@ -1882,7 +1929,8 @@ ei
 ai
 4011	wn
 ous
-4014	a/nti
+i
+a/nti
 w|
 4018	on
 an
@@ -1923,8 +1971,10 @@ ontes
 4083	a
 w|
 ousin
-4087	o/ntos
+i
+o/ntos
 ou
+4091	a_n
 4094	a_n
 4096	wn
 an
@@ -1933,6 +1983,7 @@ w|
 4103	wn
 o/menoi
 oi
+a=n
 4109	ein
 4111	ei=n
 4114	ou
@@ -1945,6 +1996,7 @@ ontes
 es
 4130	ou
 ai
+4135	a=n
 4137	wn
 h
 wn
@@ -1968,6 +2020,7 @@ on
 en
 a
 4174	h
+a
 4177	ou
 4180	an
 4182	on
@@ -1988,13 +2041,15 @@ an
 4216	h=|
 4219	wn
 wn
-4222	a_/s
+i
+a_/s
 4224	on
 en
 4227	en
 4230	a=n
 in
-4233	ou=
+i
+ou=
 on
 w|
 on
@@ -2054,7 +2109,8 @@ hsan
 a_n
 hn
 4347	ois
-4349	w=n
+i
+w=n
 4351	ous
 4353	en
 on
@@ -2068,7 +2124,8 @@ ei
 4367	a_/s
 en
 w|
-4371	eto
+i
+eto
 ou
 me/nou
 4376	a_|
@@ -2085,6 +2142,7 @@ ou
 on
 4397	ais
 ou
+a_
 4403	w=n
 4405	wn
 ei
@@ -2112,6 +2170,7 @@ w|
 4445	ai
 ou
 ontes
+a_
 4453	oi
 omen
 4457	ai
@@ -2119,7 +2178,8 @@ omen
 4462	en
 ois
 4465	ous
-4467	antai
+h=
+antai
 4469	oi
 4471	nos
 ei=n
@@ -2145,7 +2205,8 @@ ou
 4510	on
 ma
 etai
-4514	ousin
+e
+ousin
 on
 e/on
 4518	ous
@@ -2186,11 +2247,13 @@ ei
 w|
 4579	ai
 ou
-4582	ou=
+i
+ou=
 4584	ou=sa
 4586	h
 ou=sa
-4589	ato
+en
+ato
 4591	ou
 4593	ou
 ou
@@ -2241,7 +2304,8 @@ en
 4678	hn
 4680	h=n
 hn
-4683	onti
+i
+onti
 4687	an
 4689	oi
 ontes
@@ -2267,6 +2331,7 @@ e
 4723	wn
 wn
 wn
+a
 4728	in
 4730	h/tw
 4733	hsan
@@ -2304,7 +2369,8 @@ on
 4790	wn
 ei
 4793	a
-4795	en
+i
+en
 4797	ous
 4799	eis
 a_s
@@ -2343,7 +2409,8 @@ h=te
 a_s
 4863	on
 ou
-4866	a/menos
+i
+a/menos
 4869	a_s
 ou
 en
@@ -2397,6 +2464,7 @@ w=n
 w=n
 4958	hte
 esqe
+4961	on
 4964	a
 4966	o/ta
 ou
@@ -2413,9 +2481,12 @@ ous
 ete
 a
 ete
-4988	ete
-4990	ote
-4992	hsqe
+a=n
+ete
+a=n
+ote
+h=
+hsqe
 on
 4995	on
 4997	on
@@ -2435,7 +2506,8 @@ hte
 ate
 5031	h|
 os
-5035	ate
+5034	ei=
+ate
 ws
 5038	hte
 o/menoi
@@ -2532,7 +2604,8 @@ h|
 5259	ou
 5262	hs
 5265	on
-5267	os
+e
+os
 5270	on
 ou
 on
@@ -2546,6 +2619,7 @@ ou
 5290	hn
 5292	an
 w|
+on
 5296	ous
 ou
 5300	h=te
@@ -2567,6 +2641,7 @@ ate
 5346	ame/nwn
 ai
 ei=sqe
+5350	on
 5352	a/menon
 5354	hn
 5356	ma
@@ -2598,7 +2673,8 @@ omai
 5426	on
 5429	ros
 5434	ois
-5436	hte
+h=
+hte
 5438	on
 ei=n
 hn
@@ -2611,12 +2687,15 @@ an
 on
 5452	ai
 on
+a
 5456	ros
 ou
 5459	era
+a
 5462	ros
 hs
 5465	hn
+a
 5468	a_s
 hs
 5471	oi
@@ -2635,6 +2714,7 @@ on
 5505	on
 ou
 5508	ei=
+w
 5514	os
 5516	w/n
 5518	hn
@@ -2676,7 +2756,8 @@ w
 5583	h|
 5585	on
 ou
-5588	eto
+i
+eto
 5590	en
 5592	ous
 wn
@@ -2845,6 +2926,7 @@ ou
 onto
 5901	eis
 5903	o/menai
+5906	ai
 5909	w|
 5911	w|
 an
@@ -2897,6 +2979,7 @@ eto
 6011	ei
 6013	on
 6017	hr
+e
 6020	era
 6022	ei
 6026	os
@@ -2954,6 +3037,7 @@ ois
 on
 6151	w|
 ei=n
+e
 6156	ou
 6160	eusin
 ois
@@ -2976,7 +3060,8 @@ os
 6210	ou
 6212	os
 6214	ou
-6216	a_/s
+i
+a_/s
 6218	en
 6221	hn
 wn
@@ -3049,8 +3134,10 @@ ou=
 6359	esin
 ei=
 6362	ei=
-6364	ei=
-6366	ei=
+e
+ei=
+e
+ei=
 6370	ais
 6372	hn
 ou
@@ -3141,6 +3228,7 @@ ou
 ei=
 6557	w=n
 6560	ei
+a_
 6563	w
 6565	a
 a_
@@ -3152,11 +3240,13 @@ a_
 6578	h/setai
 6582	h|
 on
+a
 6586	ou
 6588	ou
 h/setai
 w|
 6594	h|
+a
 6597	matos
 6599	ou
 6601	h/setai
@@ -3307,6 +3397,7 @@ o/tera
 ou
 6873	o/nta
 ei=
+ei
 6877	etai
 6879	a
 6881	ou
@@ -3389,6 +3480,7 @@ on
 7044	a
 en
 a
+a_
 7049	en
 7052	h
 7055	en
@@ -3404,23 +3496,28 @@ h
 7075	ein
 a_n
 h
+a_
 7080	en
 7083	a_s
 7085	hsan
 7087	ai
 7089	an
 a
+a_
 7093	en
 7096	h=n
 7098	hn
 7100	ou
 on
+7104	on
 7112	wn
 7114	e/tw
-7116	o/ntes
+i
+o/ntes
 7118	ai
 an
 w|
+a_
 7124	ais
 ei=s
 ois
@@ -3448,7 +3545,8 @@ w=
 7171	ousin
 7173	ontes
 7175	ousin
-7177	ou=sin
+e
+ou=sin
 7179	ou=tai
 ois
 7182	a_
@@ -3507,6 +3605,7 @@ ei/s
 ei/s
 7314	on
 wn
+7317	us
 7319	a_s
 wn
 on
@@ -3519,7 +3618,8 @@ os
 7333	ew^s
 7335	ou
 7338	on
-7340	etai
+us
+etai
 7345	a_s
 ei/s
 7351	on
@@ -3537,8 +3637,10 @@ h=n
 ei/s
 7380	on
 wn
-7386	ei=
+7385	h
+ei=
 7388	ei=
+7391	on
 7398	hn
 hn
 en
@@ -3560,7 +3662,8 @@ ou
 7425	os
 7427	en
 a
-7430	on
+a_
+on
 7432	ou
 7434	en
 7437	en
@@ -3580,6 +3683,7 @@ ma
 as
 7463	w|
 w|
+en
 7467	ei
 a
 7471	*
@@ -3598,7 +3702,8 @@ a
 ontes
 7495	a
 hte
-7498	ois
+a
+ois
 7500	on
 7502	esqai
 a
@@ -3682,7 +3787,8 @@ mme/na
 7645	ous
 en
 7649	a_n
-7651	on
+i
+on
 w|
 7654	ai
 ou
@@ -3737,6 +3843,7 @@ ou
 ous
 7765	on
 7767	ros
+ei
 7771	os
 7774	os
 7776	o/ntwn
@@ -3812,6 +3919,7 @@ ontai
 ous
 7907	on
 7909	ros
+ei
 7913	os
 7916	os
 7918	o/ntwn
@@ -3821,6 +3929,7 @@ w|
 i
 7927	en
 ois
+a_
 7932	eus
 ei/s
 7935	a_|
@@ -3833,7 +3942,8 @@ h|
 ou
 a
 7950	a
-7952	eto
+i
+eto
 7954	en
 7956	ous
 7958	a_s
@@ -3848,6 +3958,7 @@ wn
 7975	esqai
 ous
 7978	ein
+en
 7982	a_
 7986	eis
 7992	onos
@@ -3863,6 +3974,7 @@ os
 8013	ai
 ou
 8016	ai
+8020	en
 8026	onto
 8028	w|
 8031	ous
@@ -3874,7 +3986,8 @@ os
 8046	a_|
 ou
 8050	en
-8052	eis
+ei
+eis
 a_s
 8056	a_n
 wn
@@ -3974,7 +4087,8 @@ an
 w|
 h|
 8250	ew^n
-8252	w/n
+i
+w/n
 en
 8255	on
 8257	h
@@ -3991,7 +4105,8 @@ ontes
 os
 8276	os
 8279	a_
-8281	en
+h
+en
 on
 8285	ous
 8287	o/ntes
@@ -4043,13 +4158,15 @@ eis
 a_n
 8381	oi
 8385	wn
+i
 8388	en
 8390	a_s
 h=nai
 8394	on
 8396	ei=n
 on
-8401	ws
+8400	a_n
+ws
 8403	h|
 8405	ous
 8407	a_s
@@ -4061,8 +4178,10 @@ asqai
 a_s
 8419	ome/nhs
 os
+8422	ei
 8425	on
-8427	ous
+h
+ous
 ous
 8431	h=s
 en
@@ -4087,6 +4206,7 @@ ontes
 8466	ma
 8471	ou
 an
+us
 8475	en
 8477	ous
 ois
@@ -4136,7 +4256,8 @@ ontes
 w=s
 ou
 os
-8573	antes
+8572	i
+antes
 on
 8577	h=n
 8581	o/ntes
@@ -4166,6 +4287,7 @@ hsan
 oi
 8624	eis
 ontes
+a_
 8629	ai
 8631	ousin
 8633	in
@@ -4176,6 +4298,7 @@ wsin
 8646	ei/s
 en
 ois
+a_
 8653	ete
 8655	hn
 8657	ou
@@ -4216,12 +4339,14 @@ wn
 8733	a_
 wn
 8736	ei
+8739	n
 8741	ontai
 8743	ontes
 a_s
 mata
 wn
-8748	a/menos
+i
+a/menos
 8750	on
 en
 ois
@@ -4300,7 +4425,8 @@ ai
 8891	ei=n
 8893	oi=
 8895	on
-8897	w/n
+i
+w/n
 8900	ous
 en
 8904	h
@@ -4331,6 +4457,7 @@ ontes
 on
 hn
 8946	ei
+en
 8951	ei/s
 en
 8954	hn
@@ -4374,7 +4501,8 @@ h/tw
 hs
 9033	a_s
 hs
-9036	a_/s
+i
+a_/s
 9039	ous
 en
 9043	an
@@ -4382,6 +4510,7 @@ en
 9047	a_/s
 9050	os
 to
+ei
 9054	on
 w|
 oi
@@ -4419,7 +4548,8 @@ ou
 en
 omai
 9109	on
-9112	ai
+9111	h
+ai
 ei=s
 ousin
 9118	ousin
@@ -4434,6 +4564,7 @@ w=sin
 9134	ousin
 w|
 9137	ai
+en
 9141	a_|
 oi
 oi
@@ -4473,13 +4604,15 @@ eis
 a_n
 oi
 9213	wn
-9215	a_s
+i
+a_s
 9217	ous
 h
 9221	on
 9223	en
 9226	a
-9229	o/ntes
+9228	i
+o/ntes
 9231	oi
 9233	oi
 ontes
@@ -4522,9 +4655,11 @@ na
 9296	w/n
 ous
 en
-9300	o/ntes
+i
+o/ntes
 9302	ai
-9306	onto
+9305	a_n
+onto
 ous
 ei=n
 9311	ous
@@ -4549,12 +4684,14 @@ oi
 9345	ous
 9347	ete
 9349	ei=te
-9351	ete
+e
+ete
 9354	ous
 9356	wn
 9358	ous
 ous
 ete
+e
 9364	ous
 9366	wn
 9368	a_s
@@ -4678,6 +4815,7 @@ w^s
 en
 9619	w|
 e
+w
 9624	on
 9629	ei=s
 9632	ou
@@ -4688,6 +4826,7 @@ en
 9642	ais
 ou
 9646	ei
+w
 9649	ei=n
 a/sqw
 on
@@ -4730,6 +4869,7 @@ ou
 ou
 9722	ei=
 w|
+a
 9726	in
 ou
 hn
@@ -4744,6 +4884,7 @@ ws
 o/menon
 9752	a_|
 ou
+i
 9756	a_s
 9758	ei
 9760	ous
@@ -4811,6 +4952,7 @@ an
 9869	on
 wn
 9872	hsan
+a
 9875	en
 9877	ous
 9879	a/menos
@@ -4825,7 +4967,8 @@ wn
 9895	on
 oun
 on
-9899	o/ntwn
+i
+o/ntwn
 wn
 9903	ous
 ato
@@ -4839,7 +4982,8 @@ ws
 9918	ou
 9920	wn
 h=|
-9923	an
+i
+an
 on
 9926	ai
 ontes
@@ -4856,7 +5000,8 @@ a_s
 9946	ei=
 9948	w
 9952	a_s
-9954	en
+h
+en
 9957	an
 on
 9960	an
@@ -4874,7 +5019,8 @@ ein
 9983	ou
 en
 ois
-9987	o/ntwn
+i
+o/ntwn
 9990	on
 en
 w|
@@ -4920,11 +5066,13 @@ hs
 10075	ai
 10079	a=n
 on
+a_
 10085	hmen
 ei=n
 o
 10090	ei
 ois
+a_
 10096	hn
 10098	w
 10101	hte
@@ -4934,6 +5082,8 @@ ew^s
 ei=te
 10108	ei+
 10110	a_
+en
+ei
 10114	etai
 10117	ei=
 10119	ome/nwn
@@ -4953,7 +5103,8 @@ on
 a_|
 h/setai
 10147	hsan
-10149	o/ntwn
+a
+o/ntwn
 10151	wn
 10154	on
 10157	a
@@ -5104,10 +5255,13 @@ wn
 10475	ei=
 10477	htai
 10479	w|
-10481	a
+on
+a
 10483	h=|
 10486	wn
 10488	ei=
+10490	onta
+a_
 10494	h
 10496	ei/s
 ei=
@@ -5119,6 +5273,9 @@ hn
 w
 10509	ei
 10511	w|
+on
+10516	onta
+a_
 10520	me/nois
 10524	ma
 10527	ros
@@ -5175,6 +5332,7 @@ ois
 gme/noi
 10662	on
 ma
+ei
 10667	w|
 wn
 10670	w/n
@@ -5194,6 +5352,7 @@ w|
 10695	ws
 10697	a_
 ws
+10701	a_
 10703	h
 10705	a
 10707	wn
@@ -5248,7 +5407,8 @@ a_
 ou
 10789	en
 w|
-10792	a
+on
+a
 10794	a_s
 on
 en
@@ -5277,6 +5437,7 @@ o/ntes
 ou
 10836	o/mena
 hsan
+a
 10840	o/ntes
 an
 10843	w|
@@ -5316,7 +5477,8 @@ ei=
 10909	w|
 ou
 10913	w=n
-10916	eto
+10915	i
+eto
 10918	en
 10920	ous
 10922	ous
@@ -5325,6 +5487,7 @@ ou
 10929	en
 10932	a
 10934	a_s
+a_n
 10937	ou
 10939	an
 w|
@@ -5332,7 +5495,9 @@ oi
 oi
 10944	en
 ous
-10948	on
+ei
+i
+on
 w|
 oi
 ontes
@@ -5340,7 +5505,8 @@ on
 10954	ontes
 10957	ai
 10960	ou
-10962	an
+a
+an
 a_n
 10966	ei/s
 en
@@ -5439,7 +5605,8 @@ ei=n
 11167	ei/s
 11170	ois
 h
-11174	ou=
+11173	i
+ou=
 11176	w/n
 w|
 en
@@ -5472,6 +5639,7 @@ a_
 11229	era
 11232	era
 11234	ei=s
+11236	i/on
 11240	ei
 w|
 11243	os
@@ -5522,7 +5690,8 @@ ei=n
 antes
 11328	ai
 onto
-11331	ontes
+a
+ontes
 11334	atai
 h=nai
 a_s
@@ -5582,6 +5751,7 @@ a_
 w|
 h|
 11452	en
+a
 11455	asqai
 a_s
 11459	na
@@ -5651,16 +5821,19 @@ o/ntes
 11579	hn
 a_n
 on
-11583	on
+a_
+on
 11585	o/ntes
 11587	oi
 an
 11590	on
 11593	on
-11596	on
+11595	a_
+on
 11598	oi
 o/ntes
 11601	on
+a
 11604	ou
 ontes
 11608	oi
@@ -5801,7 +5974,8 @@ ai
 ou
 on
 11901	wn
-11903	ome/nwn
+i
+ome/nwn
 wn
 11907	en
 w|
@@ -5848,6 +6022,7 @@ wn
 11977	an
 11979	an
 w|
+i
 11985	a
 11987	on
 11989	h
@@ -5860,7 +6035,8 @@ wn
 ois
 esqe
 12005	hn
-12011	ete
+12010	us
+ete
 on
 me/nhn
 12015	on
@@ -5873,6 +6049,7 @@ ete
 wn
 a_n
 ei
+us
 12036	ei=
 ous
 12040	en
@@ -5941,7 +6118,8 @@ on
 12164	hs
 ous
 12170	a_s
-12172	en
+i
+en
 ous
 12176	on
 12178	en
@@ -5965,7 +6143,8 @@ h/setai
 ei=te
 on
 w=n
-12217	on
+i
+on
 w|
 oi
 12221	oi
@@ -5996,12 +6175,14 @@ wn
 12274	o/ntwn
 w
 on
-12278	w/n
+i
+w/n
 ous
 en
 12283	ew^s
 12285	an
 12287	h
+ei
 12291	w/n
 12294	in
 en
@@ -6051,7 +6232,8 @@ etai
 12381	hte
 12384	h|
 ontes
-12388	o/ntos
+12387	i
+o/ntos
 ou
 12392	on
 on
@@ -6080,6 +6262,7 @@ a_|
 12438	i/w
 12440	ma
 12442	ou
+en
 12446	ou
 12449	wn
 12452	onto
@@ -6088,6 +6271,7 @@ ontes
 12457	wmen
 12459	ou
 ei=
+12462	a_
 12466	ate
 w|
 12470	wmen
@@ -6102,6 +6286,7 @@ ousin
 12490	*
 ois
 12493	os
+e
 12496	w
 12499	a_|
 a_|
@@ -6156,7 +6341,8 @@ w|
 an
 w|
 12600	o/ntes
-12602	hte
+e
+hte
 on
 12605	ai
 w|
@@ -6276,7 +6462,8 @@ hs
 12815	h|
 ei=
 on
-12819	antes
+i
+antes
 12821	eis
 12824	oi
 12826	a_s
@@ -6292,7 +6479,8 @@ hsan
 12842	hn
 on
 on
-12846	ei/s
+i
+ei/s
 12848	ous
 12850	en
 12852	ais
@@ -6383,7 +6571,8 @@ w/n
 asqai
 13012	me/nous
 en
-13015	on
+ei
+on
 13017	me/non
 ma
 ou
@@ -6404,6 +6593,7 @@ ou
 on
 13049	os
 13051	on
+ei
 13055	os
 13058	os
 13060	o/ntwn
@@ -6576,6 +6766,7 @@ a_
 a_
 h|
 ei=s
+13410	i/on
 13417	u/sin
 ais
 os
@@ -6616,7 +6807,8 @@ ou
 h=nai
 w|
 on
-13495	en
+e
+en
 13498	hs
 13500	a_s
 ai
@@ -6636,6 +6828,7 @@ an
 13529	wsin
 13531	ate
 13533	ei=te
+a
 13537	a
 wn
 13540	ei=te
@@ -6700,6 +6893,7 @@ ai
 13682	wn
 13685	wn
 13689	esqe
+e
 13692	ome/nous
 13694	ei=n
 13697	eis
@@ -6792,6 +6986,7 @@ ai
 13894	ete
 13898	ou
 13901	idos
+en
 13904	ousin
 13906	hs
 13908	a_s
@@ -6799,6 +6994,7 @@ e
 e
 on
 on
+13914	os
 13916	ou
 13918	htai
 13922	ou
@@ -6811,6 +7007,7 @@ ois
 me/nois
 13937	ontai
 oi
+en
 13941	ousin
 e/wn
 wn
@@ -6819,6 +7016,7 @@ a_s
 13952	esqe
 13954	ois
 oi
+en
 13959	oi
 ew^s
 13962	a_s
@@ -6907,7 +7105,8 @@ ou=
 14152	o/menos
 14154	mati
 ou
-14157	w/n
+i
+w/n
 14159	ous
 14162	ou
 eto
@@ -6973,7 +7172,8 @@ h/setai
 14282	ontai
 oi
 14285	oi
-14287	ous
+a
+ous
 14291	h
 nwn
 14294	ou=sin
@@ -7032,7 +7232,8 @@ ai
 ou
 14413	w|
 14415	a/tw
-14417	ai
+w
+ai
 14419	on
 ou
 14425	ri
@@ -7096,7 +7297,8 @@ w=n
 14550	ou
 14552	ou
 14557	ma
-14559	h/sontai
+ei
+h/sontai
 14561	oi
 14566	in
 14568	wn
@@ -7149,6 +7351,7 @@ wn
 14656	h=s
 ete
 14659	hn
+14661	h
 14663	os
 hs
 htai
@@ -7174,8 +7377,10 @@ etai
 14720	a_s
 hs
 14723	a_s
+14726	e
 14728	oi
 14730	wn
+e
 14733	os
 14737	hr
 os
@@ -7291,6 +7496,7 @@ on
 ou
 14968	w=n
 ei=
+ei
 14973	os
 14976	os
 14978	o/ntwn
@@ -7350,9 +7556,11 @@ ote
 an
 15079	oi
 ousai
-15082	e
+h=
+e
 15085	h|
 15089	esqe
+on
 15093	ou=ntas
 15095	ate
 ais
@@ -7381,6 +7589,7 @@ hn
 w
 15139	ei=te
 15145	a_n
+e
 15148	a_n
 15151	os
 w=n
@@ -7394,6 +7603,7 @@ ou
 15166	en
 15168	a
 15175	w|
+a
 15178	a=n
 in
 15181	en
@@ -7403,7 +7613,9 @@ w/n
 ato
 15191	ois
 15193	en
+a_
 15200	en
+a_
 15207	w/n
 w/n
 en
@@ -7424,12 +7636,14 @@ on
 15238	a
 w/n
 en
+a_
 15243	a
 wn
 e
 15247	a
 15249	as
 e
+a_
 15253	a
 a
 *
@@ -7452,6 +7666,7 @@ e
 15289	a
 15291	as
 e
+a_
 15295	a
 a
 *
@@ -7525,6 +7740,7 @@ on
 ete
 15438	os
 15440	on
+ei
 15444	os
 15447	os
 15449	o/ntwn
@@ -7649,6 +7865,7 @@ w
 15707	on
 15709	ate
 15713	wn
+e
 15716	ate
 15718	ontai
 15721	in
@@ -7656,7 +7873,8 @@ on
 15725	oi
 15727	hn
 on
-15730	eto
+i
+eto
 15732	en
 15734	ous
 15737	ous
@@ -7682,6 +7900,7 @@ w|
 wsin
 15785	wsin
 on
+15788	h=
 15791	h|
 15794	os
 htai
@@ -7793,7 +8012,8 @@ hn
 w
 16023	ei=
 16026	ou/menoi
-16028	anto
+a
+anto
 ein
 w|
 16032	os
@@ -7866,7 +8086,8 @@ w
 16171	on
 16174	a_|
 16176	ros
-16179	antes
+16178	i
+antes
 on
 16183	os
 16185	w=n
@@ -7916,9 +8137,11 @@ o/menon
 16284	ei
 16286	ais
 ate
-16289	ws
+ou
+ws
 16291	w/n
-16293	wmai
+ei
+wmai
 16295	w/n
 16297	on
 16301	ous
@@ -8009,6 +8232,7 @@ esqe
 wmen
 ou=
 16465	ou/s
+16467	i
 16469	ou
 ou=ntos
 ou=
@@ -8125,6 +8349,7 @@ ei=n
 on
 oun
 a_n
+a
 16706	ou
 16708	on
 wsin
@@ -8155,6 +8380,7 @@ a_
 en
 w|
 w
+16757	a
 16759	ou
 16761	w=ntos
 16764	h|s
@@ -8211,6 +8437,7 @@ w|
 a_
 h
 ousa
+i
 16870	ou
 16872	ou
 16875	ato
@@ -8222,6 +8449,7 @@ en
 on
 h
 16892	ei
+16894	ei
 16898	ou
 16900	ou
 16903	ato
@@ -8241,7 +8469,8 @@ w=s
 ein
 16938	ein
 16943	on
-16946	wr
+16945	us
+wr
 en
 16949	h
 16951	os
@@ -8261,6 +8490,7 @@ on
 16975	eis
 16978	oi
 16980	ou
+a
 16983	ou
 16985	ai
 on
@@ -8321,7 +8551,8 @@ ws
 17084	ou
 17086	ou
 ontos
-17089	on
+i
+on
 17092	a
 17094	hn
 17096	me/nou
@@ -8358,9 +8589,12 @@ a
 17160	ou=sin
 17163	h
 w|
+17166	e
 17168	ma
 17170	ein
 17172	ona
+a=n
+a
 17176	hn
 ei
 17179	wn
@@ -8425,14 +8659,16 @@ ousin
 17296	*
 17299	on
 en
-17304	on
+17303	ws
+on
 ontes
 h/tw
 w/n
 17310	os
 17313	ei=
 a_
-17316	os
+on
+os
 etai
 w/n
 17320	ato
@@ -8514,7 +8750,8 @@ na
 17457	h|
 17459	on
 ou
-17462	o/ntes
+i
+o/ntes
 17464	on
 o/menon
 17469	ou
@@ -8539,6 +8776,7 @@ on
 17494	menoi
 oun
 on
+ei
 17499	an
 17502	hs
 ou
@@ -8617,7 +8855,8 @@ ei
 17645	e
 17647	e
 17652	es
-17657	o/twn
+17656	ei
+o/twn
 antes
 on
 17661	a_n
@@ -8645,7 +8884,8 @@ h|
 h|
 en
 17701	ma
-17703	ou=
+i
+ou=
 17705	ma
 17707	ou
 h
@@ -8678,11 +8918,13 @@ o/ntes
 17763	on
 17766	o/mena
 hsan
-17769	ontes
+a
+ontes
 w=s
 ou
 os
 17775	a_n
+17777	ei
 17779	ai
 17782	ou=sai
 17784	an
@@ -8731,11 +8973,13 @@ on
 17871	a_|
 17873	ou
 en
+17877	ei
 17880	h
 17883	h
 a
 menai
 17888	ou
+17891	ion
 17896	hn
 hsan
 17899	eis
@@ -8821,7 +9065,8 @@ hsan
 ei/s
 18041	os
 en
-18046	ei=sqe
+18045	h=
+ei=sqe
 18051	oun
 18053	me/non
 ei=te
@@ -8840,7 +9085,8 @@ ou
 18081	ou=
 ei=
 18086	a_n
-18088	on
+ei
+on
 esqe
 ou=
 on
@@ -8868,12 +9114,14 @@ w|
 18127	ei
 ais
 18130	ous
-18132	ei=sqe
+h=
+ei=sqe
 ete
 ate
 18136	ois
 18139	wsin
 18142	a_n
+ei=
 18145	ontai
 ome/nwn
 18148	wn
@@ -8911,7 +9159,8 @@ omen
 a
 an
 18207	hsan
-18209	h
+i
+h
 18211	os
 18214	ois
 18218	a_s
@@ -9019,6 +9268,7 @@ i/on
 wn
 etai
 18403	o/teros
+18405	w
 18410	os
 a_s
 ai
@@ -9030,7 +9280,8 @@ ou
 18424	ei=
 18426	mati
 w|
-18429	eto
+i
+eto
 18431	ais
 18433	ais
 en
@@ -9039,7 +9290,8 @@ ous
 18441	h
 18444	hn
 18446	ou
-18449	wn
+18448	us
+wn
 18453	en
 ome/nous
 18456	ous
@@ -9053,6 +9305,8 @@ eto
 18474	os
 18477	os
 18480	a
+i
+us
 18484	ma
 on
 ei
@@ -9064,6 +9318,7 @@ o/menos
 18508	oi
 oun
 w|
+i
 18514	h=nai
 18516	hn
 en
@@ -9080,7 +9335,8 @@ wn
 ei=te
 18542	ete
 18545	w|
-18547	w=n
+i
+w=n
 18550	an
 18552	a_s
 en
@@ -9095,14 +9351,17 @@ a_n
 18568	en
 ois
 18571	ous
+18573	w
 18576	w=
 18578	e/sqai
 eis
 wn
+18582	us
 18585	a
 an
 w|
-18589	a_/s
+i
+a_/s
 on
 en
 on
@@ -9114,7 +9373,8 @@ ou
 18605	w|
 ontas
 18608	a
-18611	en
+18610	us
+en
 ous
 18616	era
 wn
@@ -9122,8 +9382,11 @@ on
 18621	w|
 18624	w=n
 on
-18627	ou
-18629	ontai
+w
+ou
+i
+ontai
+18633	us
 18636	w/n
 18639	hn
 en
@@ -9135,6 +9398,8 @@ ous
 18652	a_n
 wn
 18658	eis
+i
+us
 18664	h|
 wn
 os
@@ -9177,9 +9442,12 @@ w|
 18738	en
 18740	h
 ou
+us
 18745	hn
 18747	on
 18749	a_s
+i
+us
 18754	hs
 o/ntes
 on
@@ -9192,7 +9460,8 @@ nos
 nos
 ei=to
 ousa
-18775	ousin
+18774	us
+ousin
 w|
 18778	hs
 18780	w/n
@@ -9229,12 +9498,16 @@ en
 18834	ei=n
 18836	a
 18839	on
-18844	a_/s
+i
+18842	a
+a=n
+a_/s
 en
 18847	en
 18849	on
 on
-18852	eto
+ei=
+eto
 18854	en
 on
 n
@@ -9247,9 +9520,11 @@ w|
 18872	ei
 ois
 wmen
+ou=
 18878	ome/na_s
 eis
-18883	w
+18882	ei
+w
 18887	on
 18889	en
 wn
@@ -9259,7 +9534,8 @@ wn
 18898	a_n
 18901	a
 wn
-18904	etai
+i
+etai
 18906	on
 os
 w=n
@@ -9278,12 +9554,14 @@ ato
 w|
 w
 hti
-18934	en
+18933	us
+en
 18936	ou
 18938	a_
 18942	a/menos
 w|
-18945	en
+us
+en
 on
 18948	ei
 w|
@@ -9314,7 +9592,8 @@ ei=n
 ois
 18997	onto
 18999	on
-19002	w/n
+19001	i
+w/n
 19007	wn
 h
 19011	w|
@@ -9351,7 +9630,8 @@ on
 19074	ai
 a_n
 19079	e/wn
-19081	menoi
+ei
+menoi
 19083	o/menoi
 19086	ais
 wn
@@ -9360,7 +9640,8 @@ ei=
 19094	atai
 19096	a_s
 19101	os
-19104	ou/s
+19103	us
+ou/s
 19106	ous
 19108	mati
 ou
@@ -9392,13 +9673,15 @@ on
 19170	e
 19173	on
 19176	h
-19179	a_s
+19178	us
+a_s
 19182	en
 19186	asqai
 19189	ein
 19191	on
 ontas
-19198	en
+19197	i
+en
 19202	an
 19206	os
 eto
@@ -9416,7 +9699,8 @@ ei
 19230	a_/s
 en
 w|
-19234	etai
+i
+etai
 ei=sqai
 on
 19239	a_|
@@ -9458,7 +9742,8 @@ ai
 ous
 a_
 ous
-19306	a_n
+i
+a_n
 19308	ai
 ou
 19312	oi
@@ -9466,6 +9751,7 @@ ontes
 19315	ontai
 19317	ousin
 w|
+a_
 19322	ai
 ou
 19326	ai
@@ -9476,7 +9762,8 @@ ousin
 19337	en
 ois
 19340	ous
-19342	antai
+h=
+antai
 19344	oi
 19346	nos
 19350	os
@@ -9526,7 +9813,8 @@ on
 e/on
 19432	ous
 ous
-19435	eto
+i
+eto
 on
 19440	esqai
 19443	wn
@@ -9573,9 +9861,11 @@ eto
 19536	os
 19538	ou
 19541	ou
-19543	en
+i
+en
 19546	hn
-19550	os
+19549	ei
+os
 mme/nhn
 wn
 19556	oun
@@ -9613,11 +9903,13 @@ on
 19620	ou
 19622	o/ntes
 19624	oi
+us
 19629	on
 oun
 19632	ou
 19634	on
 wsin
+i
 19638	ous
 19641	w=n
 ou
@@ -9629,6 +9921,7 @@ en
 19657	a_s
 19660	wn
 19664	a_s
+19666	a_n
 19668	ou
 19671	on
 19673	na
@@ -9672,7 +9965,8 @@ ois
 19736	on
 on
 wsin
-19740	ei
+i
+ei
 19743	os
 19745	ei=tai
 19747	en
@@ -9715,7 +10009,8 @@ hs
 19823	a_n
 19827	en
 on
-19830	etai
+i
+etai
 19832	on
 19834	etai
 19837	os
@@ -9804,7 +10099,8 @@ matos
 ma
 on
 ei
-19999	ontai
+i
+ontai
 20001	hr
 ou
 20005	oi
@@ -9843,6 +10139,7 @@ e
 20074	os
 20077	h
 20079	hr
+20081	i
 20083	ato
 ein
 20087	an
@@ -9885,7 +10182,8 @@ en
 20159	en
 h=n
 hn
-20164	en
+20163	us
+en
 20168	ein
 os
 h=s
@@ -9904,7 +10202,8 @@ en
 o
 20198	on
 20200	en
-20203	en
+20202	a_
+en
 20206	h=n
 20208	hn
 20210	ou
@@ -9912,12 +10211,15 @@ on
 onta
 20214	o/mena
 20216	en
+20224	on
 20226	en
 20228	ei
 20230	ein
 e/tw
+i
 20234	eto
-20236	a_s
+a
+a_s
 wn
 on
 20241	on
@@ -9954,7 +10256,8 @@ ei
 20312	etai
 20314	os
 20317	wsin
-20319	etai
+us
+etai
 20323	ei
 20325	on
 20327	rme/non
@@ -9964,6 +10267,7 @@ ei
 o/menoi
 20341	wsin
 20343	on
+us
 20346	a_s
 ousin
 on
@@ -9976,7 +10280,8 @@ oi
 ew^s
 20362	ou
 20365	on
-20367	ontai
+us
+ontai
 20369	oi/
 20374	a_s
 o/menoi
@@ -10001,7 +10306,9 @@ e/ntes
 20418	on
 20420	ontai
 20422	ou=sin
-20432	en
+20430	on
+i
+en
 ois
 20435	i
 etai
@@ -10013,14 +10320,16 @@ h=|
 h=|
 20458	on
 20462	h=|
-20464	eto
+e
+eto
 on
 20468	h|
 20470	on
 20473	ei
 20475	ein
 e/tw
-20478	en
+i
+en
 ois
 ete
 20482	ete
@@ -10035,7 +10344,8 @@ w|
 20503	ei
 h/setai
 20506	ou
-20508	en
+i
+en
 20512	a
 20514	ou
 20516	os
@@ -10061,11 +10371,13 @@ os
 20553	ui+
 20556	oi_
 20558	os
-20560	ei
+us
+ei
 20562	on
 20564	en
 20566	os
-20568	en
+i
+en
 20570	wmen
 20572	an
 20574	ou
@@ -10092,7 +10404,8 @@ ous
 ou
 20620	a
 20622	ou
-20625	ais
+20624	i
+ais
 ais
 ais
 ei
@@ -10107,17 +10420,20 @@ ois
 20645	ois
 ais
 en
-20650	ei
+20649	i
+ei
 ois
 20655	a_|
 a_s
 ome/nhs
 wmen
+20661	a_n
 20665	on
 ousin
 on
 20672	w|
-20675	a
+20674	a_
+a
 20678	ou
 20680	etai
 y
@@ -10126,7 +10442,8 @@ ou
 20686	mata
 en
 20690	on
-20693	esqai
+20692	h
+esqai
 20695	on
 20697	os
 20701	h|
@@ -10164,14 +10481,17 @@ on
 20766	a
 ei
 w|
-20770	on
+i
+on
+20773	a_n
 20775	hs
 20778	a_n
 20780	wn
 20782	o/ntos
 ou
 20786	ou
-20788	en
+us
+en
 w|
 20792	wn
 os
@@ -10180,7 +10500,8 @@ w|
 20799	in
 en
 20803	masin
-20806	ei+
+20805	e
+ei+
 20809	ato
 on
 ai
@@ -10239,6 +10560,7 @@ a
 20918	a
 h|
 20922	a_s
+20925	ei
 20928	ei+
 h
 wn
@@ -10260,11 +10582,13 @@ on
 20958	ous
 20960	en
 20962	h
+a
 20965	ou
 20968	an
 20970	oi
 20972	onto
 20975	h|
+i
 20978	ontes
 ous
 on
@@ -10326,10 +10650,12 @@ en
 w|
 21090	ous
 21093	on
-21095	antos
+i
+antos
 21097	ou
 21100	w|
-21105	h
+21104	a_n
+h
 os
 21109	on
 21114	an
@@ -10359,6 +10685,7 @@ w|
 os
 21161	on
 on
+i
 21167	ei+
 matos
 21170	h
@@ -10370,13 +10697,15 @@ wn
 21181	hs
 21185	ei=sa
 a_
+on
 21190	on
 ou=sa
 a_sa
 21196	ou
 ou=sa
 21200	w|
-21202	ato
+en
+ato
 21204	ou
 ou
 en
@@ -10384,7 +10713,8 @@ en
 21213	wn
 ou
 h/somai
-21218	h
+21217	us
+h
 21220	h
 21222	matos
 hs
@@ -10392,6 +10722,7 @@ hs
 21227	mati
 21229	a=tai
 21232	gos
+21234	us
 21236	ous
 ou/s
 21239	w|
@@ -10451,7 +10782,8 @@ a_s
 ou/menon
 ei
 21344	w|
-21346	ou=
+h=
+ou=
 on
 e
 21351	en
@@ -10498,12 +10830,14 @@ h|
 21435	on
 21437	w
 e
-21441	h
+21440	us
+h
 21443	on
 21445	ei
 21448	w=n
 21451	hsan
-21453	ei+
+us
+ei+
 h|
 21456	ato
 ois
@@ -10512,7 +10846,8 @@ a
 h=nai
 h|
 ei=n
-21469	en
+i
+en
 21472	etai
 21475	ida
 ou
@@ -10529,6 +10864,7 @@ ein
 ontes
 onto
 ontes
+en
 21503	a_
 21505	ei=sa
 21509	eis
@@ -10558,7 +10894,8 @@ ou
 21571	a_|
 ou
 21575	ato
-21577	ai
+ei
+ai
 a_n
 in
 21582	ois
@@ -10568,11 +10905,13 @@ ei/s
 21589	en
 21592	a_n
 wn
-21595	en
+i
+en
 21597	a_s
 w|
 wn
-21601	ei=tai
+i
+ei=tai
 21605	ato
 ous
 ein
@@ -10600,7 +10939,8 @@ a
 ois
 21652	hte
 21654	a_n
-21656	ete
+ei
+ete
 ws
 21659	hte
 21664	os
@@ -10611,7 +10951,8 @@ ws
 21675	oun
 21682	on
 ois
-21685	o/ntes
+i
+o/ntes
 an
 21688	o/wsin
 21690	a
@@ -10622,7 +10963,8 @@ w|
 ous
 ous
 21699	on
-21701	en
+i
+en
 21703	eus
 21705	on
 21707	eto
@@ -10684,7 +11026,8 @@ a
 ei
 21828	ou
 en
-21831	ome/nhs
+i
+ome/nhs
 a_s
 ou
 21837	ois
@@ -10725,12 +11068,14 @@ hs
 ou
 21910	ontos
 21912	ou=sa
+us
 21915	hs
 21918	e/a_
 ato
 ousa
 w
-21924	w=|s
+21923	hs
+w=|s
 21927	ki
 21929	hn
 ou
@@ -10743,7 +11088,8 @@ o/menos
 21945	en
 ai
 hn
-21950	a_s
+21949	us
+a_s
 21952	eus
 ora
 en
@@ -10776,7 +11122,8 @@ ou
 21998	an
 o
 22001	w|
-22003	ontai
+i
+ontai
 22005	oi
 22008	oun
 22010	an
@@ -10797,7 +11144,8 @@ a_n
 22035	o/menoi
 22038	ontes
 oi
-22042	ei=n
+22041	e
+ei=n
 oun
 22045	on
 22048	w|
@@ -10812,9 +11160,11 @@ oi
 22062	h|
 22066	ew^n
 on
+ei
 22070	on
 ous
-22073	w/n
+i
+w/n
 en
 22076	on
 22078	h
@@ -10827,7 +11177,9 @@ ena
 ein
 ous
 a
-22095	a_s
+i
+h
+a_s
 hs
 ome/nhs
 o/ntes
@@ -10837,7 +11189,8 @@ ou
 on
 22105	os
 22108	os
-22111	a_
+22110	h
+a_
 h
 on
 ous
@@ -10884,6 +11237,9 @@ w|
 22176	an
 ai
 ai
+a
+on
+22182	a
 22185	w/n
 22188	ous
 22192	uas
@@ -10910,12 +11266,15 @@ mata
 22233	o/ntes
 22235	ous
 oi
-22240	en
+22238	i
+us
+en
 22242	a_s
 ou
 h=nai
 22247	on
 22249	ei=n
+22252	a_n
 22255	ws
 os
 ei=
@@ -10959,7 +11318,8 @@ an
 22326	an
 22329	on
 22332	hsan
-22336	en
+22335	us
+en
 22338	wn
 22340	ei
 ois
@@ -10970,6 +11330,7 @@ ei=te
 22353	on
 22355	en
 22357	os
+22359	a=n
 22361	ou=
 22363	ois
 anto
@@ -10978,14 +11339,16 @@ anto
 22373	wn
 22375	a_
 me/nh
-22378	antes
+i
+antes
 22381	h=n
 on
 22386	hsan
 22388	o/ntwn
 wn
 22392	ou
-22394	o/ntes
+us
+o/ntes
 on
 on
 hn
@@ -11013,7 +11376,8 @@ wntai
 22446	anto
 ou
 onto
-22450	ontai
+i
+ontai
 22452	on
 22454	oi
 22458	e/wn
@@ -11037,7 +11401,8 @@ ou=ntes
 22499	a_s
 22502	wntai
 22504	ousin
-22507	a
+22506	a_
+a
 22510	on
 ei=n
 ous
@@ -11048,8 +11413,10 @@ wn
 on
 22522	oi
 22525	eis
+a_
 22529	ou=sin
 22531	ai
+22533	a
 22535	in
 22537	wn
 a_
@@ -11069,6 +11436,7 @@ a_s
 22567	a_
 wn
 22570	ei
+22573	n
 22575	ontai
 22577	ontes
 a_s
@@ -11117,7 +11485,8 @@ ou=ntes
 a
 a
 ei=te
-22670	a/menos
+i
+a/menos
 22673	on
 en
 ois
@@ -11133,6 +11502,7 @@ a_
 o/mena
 22701	ou=nta
 22703	on
+i
 22706	en
 22708	on
 22711	ou
@@ -11164,6 +11534,7 @@ o/menon
 o
 oi=
 22772	on
+en
 22777	a_s
 22779	wn
 22781	oi
@@ -11183,19 +11554,22 @@ a_
 a_
 h
 22801	a
-22803	etai
+en
+etai
 22805	oi=
 22807	on
 22810	a_/s
 en
 22814	a
 ou
-22817	w/n
+i
+w/n
 22819	a_n
 22821	en
 w=nai
 22826	ei=n
-22829	a_sa
+22828	us
+a_sa
 22832	ou
 22834	en
 22836	on
@@ -11236,6 +11610,7 @@ ousin
 22905	wn
 22907	en
 h|
+a_
 22912	on
 e
 en
@@ -11250,6 +11625,7 @@ me/non
 22933	hn
 22936	on
 o/s
+i
 22940	w/n
 22943	wn
 ou
@@ -11257,10 +11633,12 @@ en
 22947	nos
 22950	an
 22952	a_s
-22954	on
+a_
+on
 22956	wn
 ew^s
-22959	ousin
+i
+ousin
 w|
 on
 22963	on
@@ -11289,7 +11667,8 @@ w|
 23008	hsan
 ou
 23011	ai
-23014	h
+23013	us
+h
 23016	os
 23018	hs
 ou
@@ -11302,7 +11681,8 @@ on
 23031	ois
 eto
 oi
-23035	o/teron
+on
+o/teron
 on
 23039	onto
 ontes
@@ -11325,7 +11705,8 @@ ei
 ois
 omai
 23073	on
-23076	ai
+23075	h
+ai
 ei=s
 ousin
 23082	ousin
@@ -11342,6 +11723,7 @@ h/sontai
 w|
 23107	ai
 ou
+23110	en
 23112	etai
 23115	ai
 wn
@@ -11382,13 +11764,16 @@ a_n
 23179	oi
 23181	en
 ous
-23185	a_/s
+i
+us
+a_/s
 23188	on
 23191	w=n
 ou
 en
 23196	h
-23199	on
+23198	i
+on
 23201	oi
 23203	anto
 23205	w|
@@ -11413,7 +11798,9 @@ w
 23238	ous
 23240	a_/s
 en
-23246	onto
+23244	a_n
+i
+onto
 ei=n
 ous
 23252	a_
@@ -11440,6 +11827,7 @@ ois
 23291	ous
 23293	ete
 23295	ei=te
+e
 23298	me/nhn
 ete
 23301	a_n
@@ -11468,8 +11856,10 @@ ate
 23343	ousin
 23346	en
 ois
-23351	ontai
-23355	ousin
+23350	i
+ontai
+23354	i
+ousin
 w|
 on
 23359	ou=sin
@@ -11508,9 +11898,11 @@ on
 23422	on
 ou
 wn
+e
 23428	hn
 h|s
-23431	en
+i
+en
 23433	ous
 23436	ai
 ou
@@ -11547,7 +11939,8 @@ w|
 ois
 23502	wsin
 23504	ou
-23506	ato
+i
+ato
 ein
 ous
 23510	ei=
@@ -11580,17 +11973,20 @@ en
 w|
 23559	ei
 e
+w
 23566	ei=s
 23569	ou
 a_
 23573	wn
-23575	a/menos
+i
+a/menos
 23577	on
 23580	ais
 ou
 en
 ois
 23586	ei
+w
 23589	ei=n
 a/sqw
 on
@@ -11651,6 +12047,7 @@ ws
 23705	ou
 ui=an
 23708	ei+
+i
 23711	a_s
 23713	ei
 23715	ous
@@ -11670,7 +12067,8 @@ ou
 eto
 onta
 a
-23744	a
+a=n
+a
 eus
 23748	h=s
 23750	atai
@@ -11707,13 +12105,15 @@ h
 23814	os
 ete
 ou
-23819	a/menoi
+23818	a_
+a/menoi
 23822	on
 a_
 23825	oun
 on
 23828	wn
-23830	o/ntwn
+i
+o/ntwn
 wn
 23834	ous
 ato
@@ -11760,13 +12160,15 @@ a
 on
 23914	ptai
 23916	on
-23918	o/ntes
+i
+o/ntes
 23921	a_s
 on
 on
 23926	ous
 23928	eis
 23931	ous
+23933	us
 23936	os
 o/ntes
 on
@@ -11816,7 +12218,8 @@ on
 24021	w/n
 on
 24024	ma
-24026	en
+us
+en
 on
 24029	w/n
 24032	h=s
@@ -11843,7 +12246,8 @@ w|
 24081	h|
 24083	a
 24085	onti
-24087	a_s
+us
+a_s
 24089	hr
 24091	ou
 en
@@ -11922,7 +12326,9 @@ etai
 24231	ou=nto
 on
 ai
-24235	on
+i
+on
+24238	i
 24241	a_|
 o/menos
 a_
@@ -11975,7 +12381,8 @@ on
 24341	ei
 24345	ous
 en
-24348	ete
+h=
+ete
 on
 24354	ei=
 in
@@ -11992,12 +12399,14 @@ w
 24392	h|
 24394	on
 ou
+i
 24399	h|
 a_
 24402	wn
 24405	o/ntwn
 on
 24408	w|
+on
 24411	ei=tai
 os
 os
@@ -12005,6 +12414,7 @@ os
 ou
 24419	tai
 24422	an
+i
 24425	h|
 24430	on
 hn
@@ -12057,10 +12467,12 @@ ete
 a_
 24540	ete
 24542	ois
+i
 24545	a_/s
 etai
 24549	a
 24551	a_s
+24553	a_n
 24555	ou
 24557	ontai
 24559	oi
@@ -12068,7 +12480,8 @@ etai
 24564	ei
 24566	en
 ous
-24569	o/ntes
+i
+o/ntes
 oi
 wn
 on
@@ -12132,7 +12545,8 @@ a_sa
 h|
 on
 a=tai
-24691	on
+i
+on
 w|
 a
 24695	wn
@@ -12165,7 +12579,8 @@ a
 ei
 ei/s
 24753	a
-24755	ome/nou
+i
+ome/nou
 ou
 24758	on
 w/n
@@ -12187,11 +12602,16 @@ on
 24784	os
 24789	os
 24791	a_s
-24794	h|s
-24796	h|s
-24798	h|s
-24800	h|s
-24802	h|s
+24793	h=
+h|s
+h=
+h|s
+h=
+h|s
+h=
+h|s
+h=
+h|s
 a_
 24805	era
 24809	era
@@ -12225,7 +12645,8 @@ ou/menos
 24861	wn
 mata
 a
-24865	a/menos
+i
+a/menos
 24867	ous
 ei
 24870	ais
@@ -12258,9 +12679,11 @@ ei=n
 24922	an
 24924	ou
 ei=n
-24929	onto
+24928	ws
+onto
 ontes
 24932	ous
+i
 24935	atai
 h=nai
 a_s
@@ -12353,7 +12776,8 @@ on
 25105	ei=s
 a_s
 etai
-25109	ontai
+i
+ontai
 w|
 os
 25113	hs
@@ -12405,7 +12829,8 @@ h/sesqe
 25214	on
 ou=nai
 25218	stai
-25220	antes
+i
+antes
 25223	anto
 ei=n
 25226	ou
@@ -12441,8 +12866,10 @@ ai
 ou
 on
 25297	wn
-25299	ontai
-25303	ome/nou
+i
+ontai
+25302	i
+ome/nou
 ou
 25309	w=n
 ou
@@ -12468,7 +12895,8 @@ w|
 oi
 25345	h|
 25348	w|
-25350	en
+on
+en
 e
 25353	on
 25356	a_/s
@@ -12505,10 +12933,12 @@ w|
 e
 25408	is
 25410	en
-25414	en
+25413	us
+en
 25416	ei
 w|
 25420	w|
+i
 25425	a
 25427	h
 25429	an
@@ -12521,7 +12951,8 @@ ou
 ois
 ete
 25446	hn
-25452	o/menoi
+25451	us
+o/menoi
 25454	hn
 ete
 on
@@ -12538,7 +12969,8 @@ on
 ou
 a_n
 ei
-25484	on
+25483	us
+on
 ei
 25489	on
 25491	on
@@ -12548,7 +12980,8 @@ me/non
 25499	ou
 25501	ousin
 on
-25507	o/twn
+25506	ei
+o/twn
 on
 ois
 25511	ei=te
@@ -12588,14 +13021,18 @@ ou
 a
 25578	ros
 25584	ois
-25586	en
+i
+en
 25588	a
 25591	on
 25593	a/menos
+25596	h
 25599	a_s
 en
 25602	an
-25609	o/ntwn
+25606	i
+25608	ion
+o/ntwn
 wn
 25612	a_s
 en
@@ -12621,9 +13058,11 @@ oi_
 25657	on
 25659	ai
 ou
-25662	ontai
+i
+ontai
 25664	a
-25666	w/n
+i
+w/n
 25669	on
 ato
 ein
@@ -12665,10 +13104,12 @@ ou=nto
 eto
 25748	h|
 ou
+i
 25753	eto
 onto
 25757	ew^s
-25759	o/menoi
+i
+o/menoi
 25761	on
 25763	h=n
 mme/nhn
@@ -12712,10 +13153,12 @@ ete
 25837	ete
 o/menoi
 25842	ete
+a
 25848	hr
 25853	ois
 25857	mata
-25860	ontai
+25859	i
+ontai
 25863	a
 25867	w|
 ou=ntos
@@ -12755,6 +13198,7 @@ ontes
 25937	wmen
 25939	ou
 ei=
+a_
 25945	ate
 w|
 a_
@@ -12771,11 +13215,13 @@ antes
 25972	ous
 ei
 ois
+e
 25977	w
 25980	a_|
 a_|
 25983	i/w
-25985	ato
+i
+ato
 ois
 25988	ais
 ei=n
@@ -12852,6 +13298,7 @@ etai
 26116	ei=
 26118	na
 oi=s
+e
 26122	hn
 26124	wte
 on
@@ -12864,7 +13311,8 @@ a_s
 eto
 26141	h
 26143	ois
-26146	oun
+26145	i
+oun
 on
 ai
 26150	hsan
@@ -12875,7 +13323,8 @@ wsan
 en
 26163	on
 on
-26166	ousin
+i
+ousin
 26168	on
 26171	wn
 26176	on
@@ -12926,7 +13375,8 @@ ri
 26266	w|
 26268	on
 26270	w|
-26272	ontai
+i
+ontai
 oi
 26275	on
 26277	ousin
@@ -13003,7 +13453,8 @@ wn
 a_
 w/ntwn
 26439	a=sqe
-26441	w/n
+i
+w/n
 26444	e/wn
 a_s
 wn
@@ -13036,6 +13487,7 @@ on
 26502	uos
 26504	a_
 26506	ei=s
+26508	i/on
 26512	wn
 26514	h
 h
@@ -13058,6 +13510,7 @@ on
 26552	hs
 26554	uos
 26557	a_=n
+26559	i/on
 26561	on
 o/teron
 26566	ma/twn
@@ -13069,12 +13522,14 @@ on
 h
 en
 w|
+26580	a=n
 26584	a_s
 26586	ou
 26590	a_
 on
 ai
-26594	ei/s
+i
+ei/s
 26596	ous
 en
 wn
@@ -13098,11 +13553,14 @@ os
 26641	ei
 on
 on
-26646	ou
+26645	en
+ou
 26648	os
+i
 26652	os
 en
 ou
+26656	i
 26659	h|
 ou
 en
@@ -13125,7 +13583,8 @@ a_
 o/menoi
 26698	o/teron
 ma
-26701	a_s
+i
+a_s
 26704	ou
 ei
 26708	os
@@ -13167,7 +13626,8 @@ en
 on
 26773	on
 hs
-26776	ome/nou
+i
+ome/nou
 ou
 26780	ou
 ei
@@ -13188,7 +13648,8 @@ a_s
 os
 26809	on
 26813	h=|
-26815	me/nou
+i
+me/nou
 ou
 26819	os
 26821	w=n
@@ -13230,7 +13691,8 @@ h/setai
 26897	an
 ontai
 oi
-26901	ous
+a
+ous
 ontai
 oi
 h
@@ -13297,7 +13759,8 @@ e/twsan
 ou
 27045	on
 27047	a/tw
-27051	ai
+27050	w
+ai
 27053	on
 ou
 27059	ri
@@ -13336,6 +13799,7 @@ en
 e
 27128	os
 e
+ei
 27132	ete
 h/sontai
 27135	oi
@@ -13389,6 +13853,7 @@ ou
 27230	h=s
 ete
 27233	hn
+27235	h
 27237	os
 hs
 os
@@ -13414,8 +13879,10 @@ ontai
 27294	a_s
 hs
 27298	a_s
+27301	e
 27303	oi
 27305	w|
+e
 27308	os
 27312	hr
 ete
@@ -13458,10 +13925,12 @@ ei=te
 antes
 wsin
 on
+27403	h=
 27406	h|
 27408	e
 27410	os
 27412	ou
+i
 27415	ou
 27417	a_|
 27420	a_|
@@ -13529,7 +13998,8 @@ hn
 27533	h/setai
 27535	on
 hs
-27538	a_s
+i
+a_s
 27544	en
 27547	eis
 27549	on
@@ -13545,6 +14015,7 @@ ou=nai
 27564	on
 ws
 oi_
+i
 27569	h|
 a_|
 27572	wn
@@ -13583,7 +14054,8 @@ ei
 on
 27642	me/non
 on
-27646	ate
+27645	ei
+ate
 27649	on
 27651	ai
 27653	on
@@ -13592,7 +14064,8 @@ on
 27660	en
 ois
 27663	an
-27667	a_s
+27666	i
+a_s
 ome/nhs
 etai
 27674	me/nwn
@@ -13608,6 +14081,7 @@ w
 ei=sqai
 27697	ein
 w|
+27700	a
 27702	i
 27706	en
 ois
@@ -13628,7 +14102,8 @@ w|
 27745	h
 27747	os
 os
-27750	o/ntwn
+i
+o/ntwn
 wn
 w/n
 on
@@ -13664,11 +14139,13 @@ w
 on
 27815	a_|
 27817	ou
-27819	antes
+i
+antes
 on
 27823	os
 27825	w=n
-27827	ei
+i
+ei
 ois
 27830	ous
 27833	h/sesqe
@@ -13699,7 +14176,8 @@ ai
 27894	ei=n
 27899	omai
 27904	on
-27906	ontai
+i
+ontai
 27908	on
 27911	ma
 27914	ei
@@ -13794,6 +14272,8 @@ esqe
 wmen
 ou=
 28083	ou/s
+28086	i
+us
 28089	ou
 ou=ntos
 etai
@@ -13818,7 +14298,8 @@ on
 28130	ete
 ws
 28133	w/n
-28135	w/n
+us
+w/n
 w|
 ei
 28140	en
@@ -13853,7 +14334,8 @@ wn
 28202	ai
 28205	on
 on
-28209	os
+28208	i
+os
 28211	ei
 w|
 me/nos
@@ -13865,7 +14347,8 @@ on
 28224	ona
 os
 en
-28228	on
+i
+on
 28230	oun
 28233	e/a_
 28235	ontai
@@ -13884,6 +14367,7 @@ ws
 28274	on
 28276	on
 oun
+a
 28280	ou
 a_n
 28284	ai
@@ -13911,6 +14395,7 @@ wn
 on
 on
 w=
+28328	e
 28330	h
 28333	a_
 wn
@@ -13958,7 +14443,8 @@ ate
 on
 on
 28425	ou
-28427	anto
+i
+anto
 28429	ein
 w|
 28432	ein
@@ -13973,6 +14459,7 @@ on
 masin
 on
 on
+i
 28452	ou
 28456	h|
 etai
@@ -13985,6 +14472,7 @@ o/menon
 a_sa
 w|
 ei
+i
 28475	ou
 28478	ou
 28481	ato
@@ -14013,6 +14501,7 @@ ein
 28537	u/nai
 28542	on
 28545	ete
+28547	us
 28549	ou
 wr
 en
@@ -14027,6 +14516,8 @@ w|
 28570	h=|
 28572	w/n
 en
+i
+us
 28577	on
 antes
 28580	eis
@@ -14064,6 +14555,7 @@ a
 28640	h
 28642	ein
 28644	on
+a
 28647	hn
 en
 ois
@@ -14098,6 +14590,7 @@ on
 28702	eis
 an
 28705	on
+28707	on
 28710	h|
 ois
 28714	os
@@ -14116,7 +14609,8 @@ en
 ois
 28741	en
 on
-28746	an
+28745	ws
+an
 on
 on
 28751	os
@@ -14170,7 +14664,8 @@ on
 on
 28830	a
 ou
-28833	ousin
+i
+ousin
 on
 28836	wsin
 on
@@ -14215,6 +14710,7 @@ on
 ou
 mme/nh
 28909	eus
+28912	i
 28914	w|
 ou=sin
 28917	a_s
@@ -14223,6 +14719,7 @@ a_
 28922	a_
 28924	wn
 ou
+i
 28928	o/menoi
 oun
 on
@@ -14258,7 +14755,8 @@ ai
 28988	w|
 on
 on
-28992	ome/nhs
+i
+ome/nhs
 a_s
 hs
 os
@@ -14304,6 +14802,7 @@ on
 29062	hn
 hn
 en
+i
 29067	ma
 29069	ou
 h
@@ -14338,7 +14837,9 @@ ai
 29136	a=sai
 w|
 29139	a
-29142	a_s
+i
+h
+a_s
 ome/nhs
 29146	h
 29149	on
@@ -14357,12 +14858,14 @@ en
 29176	ou
 29179	os
 en
-29183	en
+29182	h
+en
 29185	a/menos
 29187	na
 en
 on
-29192	en
+29191	ai
+en
 29194	ou/s
 29197	nos
 ato
@@ -14387,7 +14890,8 @@ on
 29235	a
 29238	oun
 29240	tai
-29242	ome/nou
+i
+ome/nou
 29244	ou
 a
 29247	h
@@ -14399,6 +14903,7 @@ mata
 29258	ou=sai
 wsin
 on
+29262	a=n
 29265	a_|
 29267	wn
 ontai
@@ -14415,6 +14920,7 @@ antos
 ou=sin
 29293	stai
 29295	os
+29299	a
 29301	ou=sai
 29304	on
 on
@@ -14427,7 +14933,8 @@ hn
 29315	hsan
 29318	ei
 ais
-29321	ei=sqe
+h=
+ei=sqe
 oun
 ei=te
 29325	on
@@ -14445,7 +14952,8 @@ ou
 29346	w|
 29348	ei=
 29352	a_n
-29354	on
+ei
+on
 esqe
 29357	en
 29360	ou=sai
@@ -14491,7 +14999,8 @@ oi
 o/ntes
 an
 29429	ois
-29431	ois
+e
+ois
 an
 on
 29435	me/nois
@@ -14585,6 +15094,8 @@ o/menoi
 e
 29602	o/ti
 29604	in
+ws
+h=s
 29608	ai
 e
 e
@@ -14632,6 +15143,7 @@ on
 29691	a_s
 ou
 29695	ou
+a
 29698	os
 29700	a_s
 e
@@ -14661,7 +15173,8 @@ en
 en
 29747	on
 29749	os
-29751	ou=
+h=
+ou=
 a
 29754	h
 29756	is
@@ -14677,7 +15190,8 @@ hn
 29782	ei+
 ou
 h/sontai
-29789	ou
+29788	ion
+ou
 29791	on
 29796	h|
 29798	matos
@@ -14694,7 +15208,8 @@ ou
 wn
 29818	os
 etai
-29821	ou
+ion
+ou
 29823	mati
 29825	ei+
 a_
@@ -14712,6 +15227,7 @@ sme/non
 29842	en
 a_s
 29846	on
+a
 29849	omai
 29854	hs
 29859	ui=a
@@ -14722,6 +15238,7 @@ hs
 en
 w|
 29874	w/s
+ion
 29877	ou
 29879	hn
 ai
@@ -14807,7 +15324,8 @@ h
 30056	en
 30058	os
 h|
-30061	ou=
+h=
+ou=
 30063	es
 30065	in
 30068	w|
@@ -14873,6 +15391,7 @@ en
 30190	h
 ou
 oito
+30194	a
 30196	ma
 30199	en
 30201	hs
@@ -14905,6 +15424,7 @@ h|
 30258	en
 30266	os
 30268	a_s
+30271	en
 30275	h|
 30277	hr
 30279	ou
@@ -14922,7 +15442,8 @@ h|
 30313	me/nois
 h|
 30316	ou
-30318	en
+i
+en
 30320	ei
 30322	h
 30325	on
@@ -15003,7 +15524,8 @@ ou
 30463	hs
 30465	on
 h|
-30468	eto
+i
+eto
 30471	a_|
 30473	h|
 on
@@ -15049,7 +15571,8 @@ ou
 30548	ei
 w=n
 30551	on
-30553	eto
+i
+eto
 30556	os
 30558	ou=ntas
 ous
@@ -15066,7 +15589,8 @@ ontes
 30585	on
 30591	ou
 30594	ou
-30596	a_s
+i
+a_s
 30598	hr
 ou
 h
@@ -15113,15 +15637,18 @@ ein
 w|
 30681	ti
 30683	h|
-30685	ou
+ion
+ou
 ais
 30688	ais
+30690	i
 30693	on
 hs
 ou
 h/sh|
 h=|
-30700	ou
+30699	ion
+ou
 ai
 ous
 ou
@@ -15191,7 +15718,8 @@ w|
 30829	w|
 eto
 30835	ous
-30837	hsan
+ei
+hsan
 30839	ai
 30841	ei=n
 hn
@@ -15207,7 +15735,8 @@ on
 30861	ois
 os
 30865	mati
-30867	enes
+i
+enes
 a_n
 30871	a_|
 30873	h|
@@ -15230,7 +15759,8 @@ on
 30899	en
 ois
 30902	os
-30904	ei=sqe
+h=
+ei=sqe
 ou=
 30907	omai
 30909	a_n
@@ -15262,7 +15792,8 @@ w|
 h
 30962	ois
 a_s
-30965	eto
+i
+eto
 30967	on
 30969	wn
 30972	on
@@ -15271,7 +15802,8 @@ a_s
 oun
 30979	ous
 wmen
-30982	ws
+h
+ws
 30985	wmen
 30987	ma
 30990	o/s
@@ -15310,6 +15842,7 @@ ontes
 31067	on
 31069	h
 31071	ous
+i
 31074	hsan
 ai
 31078	ei=n
@@ -15322,10 +15855,12 @@ ous
 31090	ou
 31094	on
 31097	a_|
+i
 31100	hsan
 31102	ai
 31104	ou
 wn
+a
 31108	on
 e/ws
 on
@@ -15345,13 +15880,15 @@ on
 h/setai
 31133	ou=nai
 a_n
+a
 31137	me/non
 31140	w|
 ou
 os
 o/nwn
 31147	w=n
-31149	ou=
+i
+ou=
 os
 31155	ma
 e/wn
@@ -15381,6 +15918,7 @@ ou
 oun
 31211	ai
 ous
+a
 31215	sme/non
 31217	ou
 31219	ou
@@ -15394,13 +15932,15 @@ o
 31234	ei=s
 31236	on
 31238	a
+a
 31241	ma
 31244	h|
 31246	on
 31248	oi
 31251	on
 31254	as
-31256	on
+a
+on
 31259	wn
 s
 31262	in
@@ -15434,6 +15974,7 @@ a_
 31321	wn
 w=n
 oi
+i
 31326	a
 is
 hr
@@ -15467,7 +16008,9 @@ ei=to
 in
 31380	ome/nois
 in
+31383	i
 31385	an
+31388	a
 31390	on
 ou
 an
@@ -15482,15 +16025,18 @@ a_|
 31409	is
 ou
 31413	o
-31415	onto
+i
+onto
 31417	eis
 ou
 31420	os
 31424	h|
+31427	i
 31429	eto
 w=n
 31432	o/ntwn
 wn
+a
 31436	os
 31438	hs
 31440	a/ntwn
@@ -15569,7 +16115,8 @@ ei
 31591	mata
 31594	a_|
 hs
-31597	ous
+i
+ous
 en
 31601	a_|
 31603	a_|
@@ -15668,6 +16215,7 @@ omen
 31768	wn
 31770	ai
 a
+31774	h
 31778	h
 31781	a_n
 31783	w=n
@@ -15678,7 +16226,8 @@ on
 on
 etai
 31796	etai
-31798	wn
+i
+wn
 on
 31801	oi
 ontes
@@ -15792,7 +16341,8 @@ e/sqai
 32026	os
 32029	os
 32032	a
-32034	os
+i
+os
 32036	ous
 o/menos
 32039	w=n
@@ -15831,6 +16381,7 @@ en
 a_s
 32217	o/menos
 32220	ou
+i
 32223	en
 32227	ais
 ais
@@ -15853,7 +16404,8 @@ ptai
 w|
 etai
 32264	os
-32266	w/n
+i
+w/n
 on
 en
 w|
@@ -15875,6 +16427,7 @@ wn
 wmi
 hn
 32305	h|s
+ion
 32310	a
 32312	ei/s
 32314	ous
@@ -15914,13 +16467,15 @@ w|
 32386	ei=s
 on
 32389	on
-32392	a_s
+32391	i
+a_s
 32394	on
 32396	os
 h
 32399	ou
 32401	ou
-32403	en
+i
+en
 32405	ous
 32408	ei+
 32410	matos
@@ -15935,9 +16490,11 @@ en
 32428	ais
 wn
 o/menos
-32434	en
+32433	i
+en
 32439	mme/nos
 32441	en
+a
 32444	o/s
 w|
 32448	a_|
@@ -16000,7 +16557,8 @@ ou
 32553	os
 32558	en
 32560	ous
-32562	ei=te
+w=s
+ei=te
 32565	hn
 32567	e
 on
@@ -16068,7 +16626,8 @@ os
 32701	ou
 wn
 eto
-32705	en
+i
+en
 32708	in
 32710	a_s
 32713	wn
@@ -16194,6 +16753,7 @@ on
 32937	wn
 32940	en
 32942	ous
+32944	i
 32946	ais
 esin
 asqai
@@ -16301,7 +16861,8 @@ oi
 33149	en
 33152	na
 33154	ous
-33156	ou=
+h=
+ou=
 33160	ous
 h=|
 w=n
@@ -16310,7 +16871,8 @@ w=n
 33169	h=n
 33172	an
 w|
-33175	eto
+i
+eto
 33179	on
 33181	a_|
 33183	ew^n
@@ -16352,6 +16914,7 @@ h=s
 33243	on
 ois
 eto
+33247	on
 33249	os
 33251	ou
 33253	onto
@@ -16365,7 +16928,8 @@ os
 33266	w=n
 33269	ois
 33271	o/menos
-33273	eto
+i
+eto
 33275	a_|
 33277	wn
 33279	os
@@ -16393,7 +16957,8 @@ on
 on
 ei=n
 33323	ai
-33325	ou
+ion
+ou
 33328	o/ntes
 a_s
 wsin
@@ -16456,7 +17021,8 @@ e
 33446	ou
 33449	on
 33453	a_/s
-33455	wn
+ion
+wn
 a_s
 33459	ei=to
 en
@@ -16474,6 +17040,7 @@ ou
 ontes
 33481	omen
 a
+33484	i
 33487	en
 33489	ato
 hn
@@ -16488,7 +17055,8 @@ ei
 33505	a_/s
 ei
 w|
-33509	en
+i
+en
 hn
 hn
 eis
@@ -16508,6 +17076,7 @@ wn
 33540	a_s
 ou
 ontes
+a_
 33547	w=n
 33549	wn
 ete
@@ -16544,7 +17113,8 @@ w=s
 33604	ous
 en
 33607	ous
-33609	asqe
+h=
+asqe
 33611	ous
 33613	nos
 33617	os
@@ -16619,6 +17189,7 @@ an
 33753	ous
 en
 33756	ous
+e
 33759	wte
 33761	en
 33764	en
@@ -16650,6 +17221,7 @@ on
 33819	hn
 33821	ein
 33824	os
+ei
 33829	ou
 33831	a_
 33833	a_
@@ -16769,7 +17341,8 @@ ou
 34058	ou
 eto
 34061	a=to
-34064	os
+34063	i
+os
 a_s
 34067	ous
 ou
@@ -16803,6 +17376,7 @@ hte
 ou=
 34131	os
 34136	w|
+a
 34139	a
 34141	oun
 34143	ais
@@ -16820,6 +17394,7 @@ h=n
 34174	ws
 34176	wsin
 34179	oi
+a
 34182	a
 34184	oun
 34186	ais
@@ -16966,6 +17541,7 @@ on
 ou=n
 on
 on
+e
 34495	on
 on
 ou=n
@@ -16979,6 +17555,7 @@ etai
 34511	w=n
 ousin
 a
+e
 34516	ou
 hn
 w=sin
@@ -17040,7 +17617,8 @@ a_n
 34626	ou
 34628	en
 34630	os
-34633	en
+34632	us
+en
 34635	eto
 34637	ma
 34639	a_s
@@ -17087,8 +17665,10 @@ en
 34716	ous
 eto
 34719	ois
+h
 34722	ou
-34725	ontos
+34724	a=n
+ontos
 34728	a_s
 en
 ous
@@ -17100,6 +17680,7 @@ e
 34740	os
 34745	hn
 34747	h|s
+34749	e
 34751	a
 34754	ei=n
 a_
@@ -17129,6 +17710,7 @@ w|
 w|
 en
 w
+34810	e
 34814	hn
 in
 on
@@ -17138,8 +17720,10 @@ on
 on
 34826	on
 onta
-34829	eto
-34833	h
+i
+eto
+34832	h=s
+h
 34835	in
 oume/nhn
 in
@@ -17170,7 +17754,8 @@ h
 34882	h|
 34884	en
 h|
-34887	e
+h=
+e
 34889	w/n
 ato
 34892	ou
@@ -17206,7 +17791,8 @@ ou
 34949	ou
 34951	hi
 34953	w|
-34955	an
+i
+an
 34958	ai
 ou
 34964	a/menos
@@ -17389,6 +17975,7 @@ a_sa
 on
 ou
 35299	a=sa
+w
 35304	ou
 ousa
 35307	usin
@@ -17490,10 +18077,13 @@ ein
 35527	en
 35529	ou
 35531	hn
-35533	eto
+i
+eto
+35536	h=s
 35538	os
 en
-35541	in
+a
+in
 35543	hn
 wn
 35546	o/menos
@@ -17520,7 +18110,8 @@ ois
 ais
 35596	ou
 ou
-35601	in
+35600	a
+in
 ome/nwn
 35604	on
 en
@@ -17644,7 +18235,8 @@ wsin
 35853	on
 35856	on
 etai
-35859	on
+e
+on
 35863	h=|
 35866	on
 h|
@@ -17694,6 +18286,7 @@ ou
 35960	en
 35962	ous
 wmen
+35966	a_n
 35968	hs
 35970	hsan
 eo/ntwn
@@ -17730,9 +18323,11 @@ ontes
 ei
 36036	ousin
 w|
-36039	an
+i
+an
 36042	a_n
 36044	wn
+36047	a_
 36049	a_s
 o/nti
 36052	w|
@@ -17796,7 +18391,8 @@ on
 ois
 36165	on
 ei=n
-36170	h
+36169	ei
+h
 wn
 wn
 ome/nh
@@ -17816,6 +18412,7 @@ on
 36199	ous
 36201	en
 36203	h
+a
 36206	ou
 36209	hn
 36211	h
@@ -17920,7 +18517,8 @@ matos
 36403	en
 36406	h=nai
 ou=sa
-36409	ato
+en
+ato
 36411	ou
 36413	ou
 ou
@@ -17954,6 +18552,7 @@ w|
 ato
 ou
 en
+ion
 36479	ou
 36482	h
 36486	en
@@ -17976,7 +18575,8 @@ wn
 a_s
 h
 w|
-36522	ou=
+h=
+ou=
 on
 on
 36526	h/setai
@@ -17994,7 +18594,8 @@ on
 36557	onto
 hn
 36561	en
-36563	ete
+h=
+ete
 36565	en
 a_
 ei
@@ -18045,11 +18646,13 @@ ein
 36649	a_n
 36651	on
 36653	on
+36655	a_
 36657	nas
 ein
 36663	a_n
 hte
-36666	ete
+ei
+ete
 36669	esqe
 36671	oi
 36674	wntai
@@ -18062,6 +18665,7 @@ hs
 36691	ous
 o/menoi
 36694	onto
+a
 36697	a_s
 o/menoi
 36700	ontes
@@ -18086,13 +18690,15 @@ a
 36751	ei
 ei=n
 on
-36755	antes
+i
+antes
 36757	oi
 anto
 w|
 a
 an
-36763	w/n
+i
+w/n
 ous
 en
 36767	a=n
@@ -18150,6 +18756,7 @@ ou
 ate
 ous
 ias
+36873	a_
 36876	an
 36879	an
 antas
@@ -18172,10 +18779,12 @@ ai
 ois
 ma/twn
 oi
-36919	eto
+36918	i
+eto
 36923	on
 o/menon
-36926	a_s
+a
+a_s
 a_n
 w|
 36930	ai
@@ -18222,6 +18831,7 @@ a_|
 h=nai
 en
 37015	ei
+w
 37018	esqai
 a/sqw
 on
@@ -18263,7 +18873,8 @@ ou
 wn
 w
 37097	w=s
-37102	o/twn
+37101	ou
+o/twn
 37106	wntai
 ou
 ws
@@ -18362,7 +18973,8 @@ an
 37287	ais
 37289	ais
 37293	eto
-37297	a_|
+37296	h=s
+a_|
 o/ntwn
 wn
 37302	ous
@@ -18488,7 +19100,8 @@ on
 37553	en
 37556	on
 ous
-37559	ete
+h=
+ete
 37569	eto
 37573	ou=sqai
 37575	a_s
@@ -18531,7 +19144,8 @@ ois
 37639	hsan
 37641	a_n
 hn
-37644	ome/nwn
+i
+ome/nwn
 wn
 37648	w|
 en
@@ -18585,7 +19199,8 @@ on
 37743	w/n
 37747	on
 37749	wn
-37753	os
+37752	w
+os
 37756	a_|
 37758	ou
 37762	en
@@ -18593,6 +19208,7 @@ on
 ous
 37768	en
 ous
+a_
 37773	ou
 ou
 37776	an
@@ -18622,6 +19238,7 @@ wn
 on
 37822	a_n
 37824	mata
+37827	a
 37829	on
 hsqe
 37835	hte
@@ -18630,6 +19247,7 @@ on
 ete
 h
 37841	w|
+37845	ei
 37847	os
 hs
 37851	on
@@ -18667,6 +19285,7 @@ hte
 37928	a_s
 hs
 ate
+i
 37933	on
 37935	e/nta
 37939	ew^s
@@ -18684,6 +19303,7 @@ w
 hsan
 37983	eis
 37985	o/menai
+37988	ai
 37991	w|
 37993	w|
 menoi
@@ -18768,7 +19388,8 @@ eto
 38180	htai
 38182	os
 ai
-38185	ei/s
+i
+ei/s
 38188	a_s
 38190	a=n
 en
@@ -18786,7 +19407,8 @@ ei=n
 38216	ai
 38218	ete
 38221	an
-38223	ou=
+i
+ou=
 os
 38226	h
 wn
@@ -18815,6 +19437,7 @@ on
 38272	ui+
 38276	h|
 38278	a_|
+38282	i/on
 38286	en
 38288	w|
 w=s
@@ -18826,7 +19449,9 @@ ai
 on
 en
 38303	oun
-38309	w/n
+i
+38308	i/on
+w/n
 38311	ous
 en
 os
@@ -18839,7 +19464,8 @@ on
 e/ntes
 on
 38332	h
-38334	a_n
+a
+a_n
 38336	eus
 38338	en
 38341	w|
@@ -18848,6 +19474,7 @@ on
 en
 w=s
 38350	hs
+a
 38353	on
 w/n
 38356	w/n
@@ -18883,7 +19510,8 @@ ou
 38414	esqai
 38416	w=
 38421	i/wn
-38423	ei=
+i/on
+ei=
 38425	e/nai
 38427	o/ntos
 38430	a_s
@@ -18945,7 +19573,8 @@ ida
 ato
 38543	h/setai
 hs
-38546	eto
+i
+eto
 38550	on
 38552	w|
 38554	o/menon
@@ -18979,7 +19608,8 @@ ou
 38611	onti
 38615	h|s
 38618	on
-38620	en
+i
+en
 38622	ous
 38626	ei=
 on
@@ -18999,10 +19629,13 @@ ous
 38653	w=
 w|
 os
-38657	ei/s
+en
+ei/s
 h|
+h=
 38661	ous
 e
+h
 38665	a_
 stai
 38669	a
@@ -19056,6 +19689,7 @@ a
 o/nai
 38765	ois
 38767	w|
+on
 38770	hr
 38773	ou
 ei=
@@ -19063,6 +19697,7 @@ ma
 on
 38778	ou=sin
 on
+i
 38782	wn
 on
 38785	o
@@ -19170,6 +19805,7 @@ o/tera
 ou
 38989	o/nta
 ei=
+ei
 38993	etai
 38995	a
 38997	ou
@@ -19248,6 +19884,7 @@ na
 a_s
 39141	hn
 hsin
+e
 39146	on
 39150	a_n
 39153	o/menoi
@@ -19299,12 +19936,14 @@ en
 39259	ou
 39262	kos
 ete
+39266	en
 39268	ei
 hs
 39271	a_s
 ones
 39275	a_s
-39281	en
+39280	en
+en
 h=n
 39285	ote
 hn
@@ -19341,6 +19980,7 @@ e
 39367	wn
 39370	eis
 39373	en
+i
 39377	ois
 39380	ete
 39382	ous
@@ -19466,6 +20106,7 @@ ou=ntai
 wn
 39640	wn
 39643	sme/non
+ion
 39646	ou
 a_
 39652	hs
@@ -19485,8 +20126,10 @@ ei=
 39683	wn
 39685	ou
 39688	a/menos
+39690	ion
 39692	wn
 h/setai
+ion
 39696	wn
 39698	ou
 39702	ei=
@@ -19559,6 +20202,7 @@ w=
 39845	onas
 w=
 39848	w=
+ei
 39852	on
 39855	a
 39858	w=
@@ -19589,6 +20233,7 @@ w=n
 en
 39907	a_s
 ou
+a_
 39911	w
 39914	a=te
 39916	h|
@@ -19605,11 +20250,13 @@ ate
 39941	ousin
 39943	ousin
 39947	on
-39949	h
+e
+h
 39952	os
 ei
 ous
 w|
+on
 39958	ete
 39960	wn
 39965	w=n
@@ -19618,7 +20265,8 @@ atai
 ou
 ai
 un
-39976	on
+39975	e
+on
 asqe
 39981	wn
 a=te
@@ -19627,7 +20275,8 @@ ate
 39988	ei
 39990	ei
 w
-39995	n
+39994	e
+n
 39997	hi
 39999	h|
 ou
@@ -19639,6 +20288,7 @@ o/menon
 40019	os
 40021	ei
 w|
+on
 40025	oi
 40029	ei=te
 40031	hte
@@ -19654,7 +20304,8 @@ ei=te
 40057	an
 ou
 40061	h/setai
-40064	ou=
+40063	h=
+ou=
 40066	on
 on
 40069	en
@@ -19673,9 +20324,11 @@ on
 on
 40093	ois
 40095	hs
-40099	hs
+40098	e
+hs
 ei
 40105	os
+40107	ei
 40110	a_
 40116	ues
 sme/nai
@@ -19821,7 +20474,8 @@ on
 ei=n
 40388	h=n
 40391	w
-40394	h
+40393	h
+h
 ma
 40397	w
 h=nai
@@ -20077,6 +20731,7 @@ ou
 en
 40935	ois
 ou
+i
 40939	en
 40941	w=
 40943	an
@@ -20091,8 +20746,10 @@ a
 ws
 40959	h
 on
-40962	eto
-40964	eis
+i
+eto
+a
+eis
 40966	a_s
 wn
 40969	a_n
@@ -20127,17 +20784,21 @@ e
 on
 41025	ei/s
 ei=
+41031	en
 41034	esqe
 ein
 omen
+ion
 41040	omen
 41044	ais
 41046	as
 41048	ei=
 wn
+41053	en
 41055	hte
 41059	ai
 a_s
+ei
 41064	os
 41067	os
 41069	o/ntwn
@@ -20212,7 +20873,8 @@ ei=
 41226	o/menos
 41228	mati
 ou
-41231	eto
+i
+eto
 41234	ei=n
 on
 41237	on
@@ -20292,6 +20954,7 @@ on
 hqi
 on
 41389	a_
+ion
 41393	me/nwn
 41398	w=n
 on
@@ -20354,7 +21017,8 @@ ou
 ei=n
 41508	me/nois
 esqe
-41512	a
+41511	h
+a
 41515	anto
 41517	a_s
 41519	ei=sqai
@@ -20448,6 +21112,7 @@ ou
 41699	on
 ou
 41702	etai
+w
 41706	atai
 41709	hs
 41714	wn
@@ -20487,7 +21152,8 @@ etai
 41768	os
 41772	sin
 ai
-41777	dwn
+41776	o/si
+dwn
 ome/nw|
 41780	on
 41785	ou
@@ -20533,10 +21199,13 @@ en
 41875	wn
 41877	os
 41880	wn
-41882	a
+on
+a
 41884	a_s
 41886	wn
 41889	ei
+41891	onta
+a_
 41895	w|
 41897	etai
 41900	o/s
@@ -20564,7 +21233,9 @@ w
 41941	w|
 41945	w|
 ou=nti
-41951	ois
+41949	onta
+a_
+ois
 41954	a_n
 ousin
 a_s
@@ -20593,6 +21264,7 @@ hte
 41997	w
 41999	etai
 a_
+ion
 42003	wn
 42005	ou
 42008	w|
@@ -20621,7 +21293,8 @@ os
 en
 42050	a_n
 a_n
-42054	en
+42053	ei
+en
 42056	a_n
 ou
 w=n
@@ -20631,6 +21304,7 @@ antos
 42064	eto
 os
 a_
+a
 42069	a_n
 hn
 42072	os
@@ -20674,6 +21348,7 @@ w|
 er
 on
 42140	on
+42142	ion
 42146	os
 h=nai
 os
@@ -20685,7 +21360,8 @@ en
 42162	era
 ou
 42166	ou
-42168	ontos
+a=n
+ontos
 en
 on
 42172	hr
@@ -20703,6 +21379,7 @@ w|
 er
 on
 42195	on
+42197	ion
 42201	os
 h=nai
 os
@@ -20849,7 +21526,8 @@ on
 eis
 42498	w|
 42502	en
-42504	ous
+on
+ous
 ou
 42508	en
 w|
@@ -20862,7 +21540,8 @@ en
 42524	on
 eis
 42528	en
-42530	ous
+on
+ous
 ou
 ei
 w|
@@ -20882,6 +21561,7 @@ en
 42563	tos
 42566	a_n
 42568	wn
+42570	i
 42573	w
 ois
 ate
@@ -20935,6 +21615,7 @@ on
 ois
 42682	ou=ntes
 ous
+ion
 42686	wn
 42689	os
 ei
@@ -20942,6 +21623,7 @@ ei
 42697	ois
 on
 ma
+ion
 42702	ou
 42704	os
 42707	ai
@@ -21042,6 +21724,7 @@ w=s
 42908	ktai
 42911	ontes
 h=nai
+en
 42917	wntai
 42922	w=sin
 en
@@ -21076,6 +21759,7 @@ en
 42985	e/ws
 42988	w=n
 42990	ousin
+e
 42995	wn
 h=|
 h/sontai
@@ -21113,7 +21797,8 @@ h|
 o/w
 ei=s
 w|
-43070	an
+i
+an
 43072	oi
 43074	w|
 es
@@ -21163,7 +21848,8 @@ oi
 43168	omen
 ai
 amen
-43172	eto
+i
+eto
 43175	esqai
 43179	os
 eto
@@ -21212,6 +21898,7 @@ ei/s
 43255	ous
 en
 43260	hsan
+43263	a_
 43266	hsan
 antes
 ou=nai
@@ -21236,11 +21923,14 @@ ois
 43305	a
 43307	ou
 43309	ew^s
-43311	ou=sin
+e
+ou=sin
 ou=
-43316	ou=
+43315	ei
+ou=
 43319	a
 43321	ou
+os
 43325	en
 43329	a_s
 ontai
@@ -21254,7 +21944,8 @@ ei=n
 43344	esqe
 43346	ou=sin
 43348	ou=
-43350	ou=
+ei
+ou=
 43353	hte
 43355	hte
 43359	h
@@ -21304,6 +21995,7 @@ en
 43452	on
 43454	ou
 43456	en
+43458	a
 43460	a
 43463	a_|
 43465	os
@@ -21320,7 +22012,8 @@ a
 43492	w|
 w=s
 43495	a/tw
-43499	ete
+43498	w
+ete
 43505	h|
 43507	hn
 ou
@@ -21350,6 +22043,7 @@ w|
 43556	en
 ois
 43560	ma
+ei
 43564	oi
 h/sontai
 en
@@ -21379,7 +22073,8 @@ on
 43622	w|
 43626	on
 43628	ou=mai
-43630	on
+e
+on
 omai
 43635	ein
 43637	on
@@ -21452,6 +22147,7 @@ w=mai
 43775	hs
 43777	w/s
 43779	en
+e
 43782	ous
 ai
 43786	on
@@ -21502,7 +22198,8 @@ w
 43872	on
 43875	h|
 43877	hn
-43879	en
+i
+en
 43881	on
 wn
 wn
@@ -21520,10 +22217,14 @@ on
 43901	os
 43906	os
 43908	a_s
-43911	h|s
-43913	h|s
-43915	h|s
-43917	h|s
+43910	h=
+h|s
+h=
+h|s
+h=
+h|s
+h=
+h|s
 a_
 43920	era
 43924	era
@@ -21548,7 +22249,8 @@ on
 43964	os
 h
 43968	os
-43970	w/n
+a
+w/n
 43972	on
 43974	ous
 en
@@ -21569,6 +22271,7 @@ ei=n
 ei=n
 an
 44007	antes
+i
 44010	atai
 h=nai
 44014	en
@@ -21653,7 +22356,8 @@ w|
 44184	h|
 os
 44187	w|
-44189	en
+on
+en
 e
 44192	on
 44194	ei/s
@@ -21686,9 +22390,11 @@ w/n
 en
 on
 44246	w|
-44248	w/n
+i
+w/n
 eto
-44253	ou=
+44252	i
+ou=
 44255	mati
 ou/menos
 os
@@ -21704,7 +22410,8 @@ ei=n
 44280	a_|
 os
 44284	w/n
-44288	h
+44287	e/n
+h
 44290	a_n
 44292	h|
 on
@@ -21799,7 +22506,8 @@ oun
 on
 44456	an
 an
-44459	ou
+w
+ou
 ontes
 44462	omen
 44464	ai
@@ -21840,6 +22548,7 @@ wn
 en
 44532	a=s
 en
+44537	i
 44540	ou
 44542	ew^n
 44545	os
@@ -21905,11 +22614,14 @@ h=n
 ete
 44670	ate
 ous
-44675	w/n
+44674	i
+w/n
 44677	eto
-44679	wn
+e/n
+wn
 44681	a
-44683	eto
+i
+eto
 44687	h
 44689	an
 44692	os
@@ -21930,6 +22642,7 @@ en
 on
 ete
 44726	a=|
+a_
 44729	ete
 44731	ei=te
 44734	os
@@ -21971,6 +22684,7 @@ on
 wn
 44796	w|
 44799	ou
+h
 44803	ei+
 44805	ous
 44807	w=n
@@ -22007,6 +22721,7 @@ w
 44863	ou=sin
 44865	oi
 ou=sin
+i
 44870	w/n
 44872	in
 en
@@ -22032,7 +22747,8 @@ on
 44934	ws
 44936	on
 44938	hs
-44941	w/n
+44940	i
+w/n
 44944	on
 ato
 ein
@@ -22040,6 +22756,7 @@ ein
 wn
 ois
 ptai
+i
 44955	os
 44957	os
 hs
@@ -22047,6 +22764,7 @@ hs
 ate
 on
 w=n
+i
 44967	wn
 44970	a_n
 44973	w|
@@ -22063,7 +22781,8 @@ ai
 44997	a_s
 44999	ou
 wn
-45002	eto
+i
+eto
 45004	a_|
 45006	wn
 ontos
@@ -22099,6 +22818,7 @@ ontes
 45075	wmen
 45077	ou
 ei=
+a_
 45082	ate
 w|
 45086	wmen
@@ -22111,9 +22831,11 @@ ei=
 hn
 45101	an
 45103	e/nai
+en
 45107	ous
 en
 ois
+e
 45112	w
 45115	a_|
 a_|
@@ -22165,6 +22887,7 @@ en
 w=
 45194	on
 45197	on
+ws
 45200	h/sontai
 o/ntes
 45203	on
@@ -22193,7 +22916,8 @@ etai
 oi=s
 antes
 45249	an
-45251	oito
+h=
+oito
 45254	a_s
 ois
 en
@@ -22210,7 +22934,8 @@ a_s
 45285	h|
 ei=
 on
-45289	an
+i
+an
 45291	eis
 45294	eis
 ei=n
@@ -22223,7 +22948,8 @@ wsan
 45312	ous
 en
 45315	hn
-45318	antes
+45317	i
+antes
 an
 45321	ome/nous
 ous
@@ -22336,6 +23062,7 @@ ei=n
 45536	wn
 45538	ou=sin
 45540	ontai
+e
 45543	ei=n
 45545	antai
 oi
@@ -22425,7 +23152,8 @@ en
 45715	a_n
 a_n
 ousan
-45719	a
+ei
+a
 45722	en
 w=s
 w
@@ -22442,6 +23170,7 @@ hs
 45754	on
 45756	en
 en
+i
 45760	o/ntwn
 45763	ou
 45765	ois
@@ -22472,7 +23201,8 @@ oi
 45816	ontes
 45821	os
 45824	h=te
-45826	wn
+w
+wn
 45829	hte
 ous
 45832	a_s
@@ -22490,7 +23220,8 @@ os
 45855	an
 oi
 45858	oi
-45861	ous
+45860	a
+ous
 oi
 45864	oi
 ontai
@@ -22575,7 +23306,8 @@ hs
 46062	w=sin
 oi
 w=n
-46066	ontai
+i
+ontai
 a
 46069	w|
 46071	h|
@@ -22610,16 +23342,19 @@ ate
 46123	ate
 46125	a_s
 46130	is
-46133	en
+46132	i
+en
 hn
 ois
 ete
 46138	h=n
 46142	a_
 46144	wsin
-46146	ontes
+h
+ontes
 46148	wn
 ete
+46151	h
 46154	os
 46160	hte
 46162	o/mena
@@ -22756,12 +23491,14 @@ os
 46434	ei=
 on
 46437	me/non
-46439	ate
+ei
+ate
 o/ntes
 46442	on
 46444	ei
 ois
 46447	an
+46450	i
 46452	eto
 46454	a_
 en
@@ -22820,6 +23557,7 @@ ou=
 46583	hs
 46586	os
 46589	ou
+a
 46592	sme/non
 etai
 h=n
@@ -22900,7 +23638,8 @@ w
 ws
 46788	h=|
 46790	e/nai
-46792	en
+i
+en
 ois
 46795	a
 46798	ou
@@ -22926,6 +23665,7 @@ w
 46839	mme/non
 ei=
 h=nai
+46845	i
 46847	wn
 h
 46854	os
@@ -22937,8 +23677,10 @@ ai
 46866	en
 ois
 on
-46871	w/n
+46870	i
+w/n
 h
+a
 46875	os
 46878	os
 46880	w=n
@@ -23083,6 +23825,7 @@ h
 47148	a_sa
 w|
 en
+i
 47154	w|
 47158	ato
 wn
@@ -23092,6 +23835,7 @@ os
 w/n
 on
 *
+i
 47174	wn
 47178	os
 *
@@ -23129,6 +23873,7 @@ ai
 47246	w/n
 47248	en
 w=s
+i
 47254	ontes
 on
 on
@@ -23145,6 +23890,7 @@ a
 ou=ntes
 on
 47276	on
+i
 47279	eto
 a_
 h
@@ -23184,7 +23930,8 @@ oi
 47366	amen
 47369	matos
 ou
-47372	a/n
+i
+a/n
 an
 47375	os
 wn
@@ -23248,6 +23995,7 @@ on
 47493	w/n
 47495	oun
 h
+a=n
 47501	wn
 wn
 wn
@@ -23305,12 +24053,14 @@ ate
 47600	onta
 47602	on
 47604	ou=
+47606	ion
 47608	a_s
 47610	on
 47613	w|
 47615	i/on
 47617	ei=te
 47619	ou
+47621	e
 47623	en
 47625	on
 47629	ou=
@@ -23378,6 +24128,7 @@ me/non
 en
 47741	mati
 wn
+i
 47745	on
 on
 o/menoi
@@ -23389,6 +24140,7 @@ an
 w|
 47757	on
 ein
+en
 47761	ou
 ei
 47764	w|
@@ -23432,11 +24184,13 @@ onto
 oi
 47850	w|
 h=nai
+i
 47854	on
 47857	on
 47859	ou/menon
 on
-47862	an
+ei
+an
 on
 47866	ous
 47870	wn
@@ -23489,7 +24243,8 @@ on
 w=n
 w|
 *
-47974	h=|
+e
+h=|
 47977	on
 47981	w|
 mati
@@ -23510,6 +24265,8 @@ hn
 48014	w
 48018	h=|
 48021	w|
+i
+48024	h
 48026	a_
 h
 48029	os
@@ -23557,7 +24314,8 @@ w|
 w|
 48114	a_s
 w=sai
-48118	ou=
+48117	i
+ou=
 48120	mati
 48122	hs
 wn
@@ -23603,8 +24361,10 @@ a_sai
 48204	an
 mata
 48207	a
+i
 48211	on
 an
+a
 48215	hn
 48218	a_|
 48220	wn
@@ -23677,7 +24437,8 @@ a
 on
 48357	ous
 48360	hsan
-48362	wn
+ion
+wn
 48364	os
 48366	mata
 48369	oun
@@ -23694,7 +24455,8 @@ a
 48388	on
 wn
 48391	o/s
-48393	ou=
+i
+ou=
 48396	wn
 48398	h|
 48400	a_|
@@ -23818,6 +24580,7 @@ ois
 48648	ais
 48650	ais
 48653	ou
+i
 48658	hn
 48660	onto
 48662	os
@@ -23829,6 +24592,7 @@ ontes
 on
 48675	a_n
 48678	en
+h
 48681	a_
 48683	en
 48685	ai
@@ -23860,7 +24624,8 @@ eto
 48735	w|
 48737	en
 48740	a_s
-48742	a/ntes
+i
+a/ntes
 h|
 48745	a_|
 an
@@ -23927,7 +24692,8 @@ uos
 ou
 os
 48880	w/n
-48882	wn
+ion
+wn
 en
 en
 48887	ous
@@ -24010,6 +24776,7 @@ ou=ntes
 eto
 49063	ou
 eto
+e
 49068	en
 49070	w|
 h
@@ -24070,11 +24837,14 @@ e/sqai
 49180	ma
 ou
 49185	ma/twn
+e
 49188	matos
 kos
+e
 49192	matos
 49196	ou
 hsan
+i
 49200	os
 c
 eto
@@ -24094,6 +24864,7 @@ ei=
 49226	en
 wn
 49231	on
+49233	w
 49235	o/menos
 49238	en
 49240	os
@@ -24118,6 +24889,7 @@ os
 49282	ros
 os
 ato
+i
 49289	a_
 49291	ou
 49293	an
@@ -24154,7 +24926,8 @@ ou
 49368	en
 a_s
 49371	hs
-49373	lme/noi
+i
+lme/noi
 a_n
 49377	wn
 49379	an
@@ -24163,7 +24936,9 @@ on
 w|
 49386	eis
 49392	os
-49394	a_s
+e
+a_s
+e
 49397	hs
 h
 ois
@@ -24172,6 +24947,7 @@ wn
 49404	w
 49407	os
 49409	ei
+49415	w
 49417	o/menos
 49422	os
 49424	w
@@ -24180,10 +24956,12 @@ ou
 49429	matos
 49432	a_|
 eto
+a_n
 49436	ou
 49440	hs
 wn
-49444	ei
+49443	ion
+ei
 49446	oun
 o/menon
 49449	on
@@ -24195,6 +24973,7 @@ e
 49460	a_n
 49462	ou
 49468	on
+w
 49471	etai
 49476	en
 49478	os
@@ -24203,7 +24982,8 @@ on
 49487	h=|
 49492	on
 49496	wn
-49498	en
+i
+en
 hs
 wn
 49502	mai
@@ -24231,6 +25011,7 @@ w|
 49549	a
 49554	os
 49556	ou
+49558	ion
 49560	ei
 49562	hs
 49566	w=n
@@ -24304,7 +25085,8 @@ ou
 a_s
 49691	etai
 os
-49695	en
+49694	ion
+en
 ei=n
 49699	a_n
 49701	ei
@@ -24349,6 +25131,7 @@ hs
 49779	os
 49782	ei
 w|
+49785	en
 49787	eis
 h
 ous
@@ -24387,6 +25170,7 @@ ontas
 49855	ontas
 49858	on
 49860	ou
+i
 49863	a_|
 49865	h|
 os
@@ -24395,7 +25179,8 @@ eto
 49871	a_s
 49875	hr
 49877	ou
-49879	h
+ei
+h
 49883	ous
 49886	ai
 ou
@@ -24420,13 +25205,16 @@ ou
 49928	h|
 49930	ate
 a_n
-49934	ai
+49933	ei
 ai
+ai
+49937	a
 49939	on
 49941	wn
 menai
 ou=sai
-49945	a_s
+a_
+a_s
 49948	ei=s
 ei
 ois
@@ -24436,6 +25224,7 @@ ate
 49958	an
 a_s
 ws
+w
 49963	ei
 ois
 ate
@@ -24447,6 +25236,7 @@ ate
 49981	on
 me/non
 49985	ei
+en
 49990	oi
 49993	o/tes
 49996	ei=
@@ -24485,9 +25275,11 @@ ou
 50058	oi
 50061	ai
 ou
-50065	an
+50064	ei
+an
 50067	a_s
 a_s
+i
 50075	wn
 50077	h
 50079	a
@@ -24666,7 +25458,8 @@ ei=
 50432	hn
 ou
 eis
-50439	etai
+50438	en
+etai
 50442	ei
 50447	me/nos
 50450	matos
@@ -24740,7 +25533,8 @@ on
 50599	on
 50601	etai
 50604	wn
-50606	tai
+h
+tai
 50609	en
 50612	ma
 50614	ous
@@ -24752,6 +25546,7 @@ en
 50629	on
 50631	an
 50633	oi
+on
 50636	os
 50642	wn
 a
@@ -24777,13 +25572,15 @@ ou
 ou
 50696	a_n
 h=n
-50700	en
+50699	ei
+en
 50702	wn
 50704	en
 50708	hs
 wn
 50711	wn
 50717	a
+50719	ei
 50721	onto
 50723	onto
 50727	me/nos
@@ -24799,6 +25596,7 @@ ou
 50747	hn
 50749	an
 w|
+50756	a_n
 50758	ou
 50761	as
 e
@@ -24909,11 +25707,13 @@ esqai
 50987	etai
 50990	in
 50993	ome/nhn
+50995	i/on
 50997	ou
 50999	en
 51003	w|
 ou
-51008	h
+51007	ei
+h
 51013	ous
 w/s
 51017	a_s
@@ -24962,6 +25762,7 @@ e
 eis
 51113	ar
 51115	u
+en
 51118	eis
 51122	w=n
 51125	wn
@@ -25081,6 +25882,7 @@ ei
 h|
 51382	ous
 51386	w=n
+51388	i
 51391	an
 51393	ai
 ou
@@ -25119,6 +25921,7 @@ ei=n
 51471	on
 51474	ai
 51476	ous
+h=
 51479	en
 w|
 ei=n
@@ -25145,6 +25948,7 @@ w
 51522	a_s
 51524	ai
 51527	on
+h
 51530	wn
 on
 ei
@@ -25153,7 +25957,8 @@ on
 51537	hn
 on
 51541	wn
-51543	h|
+ou=
+h|
 51546	wn
 51551	os
 51553	os
@@ -25187,6 +25992,7 @@ on
 ai
 51614	ois
 51616	en
+ei
 51619	a_s
 51621	w|
 ous
@@ -25231,6 +26037,7 @@ en
 51708	a_s
 51710	en
 51713	on
+i
 51717	os
 51720	os
 ei
@@ -25275,6 +26082,7 @@ en
 w|
 51795	ous
 51797	eto
+h
 51800	ou
 ontos
 51803	oi
@@ -25290,7 +26098,8 @@ eto
 en
 an
 51824	w|
-51827	a_n
+51826	e_s
+a_n
 hn
 en
 on
@@ -25335,7 +26144,8 @@ wn
 ome/nwn
 51914	in
 os
-51918	on
+51917	a
+on
 en
 51922	a_|
 51924	e
@@ -25347,6 +26157,7 @@ eto
 51940	eto
 mati
 51945	os
+ei
 51950	h
 wn
 51954	a_|
@@ -25355,7 +26166,8 @@ ou
 51959	ous
 menon
 51962	ou/s
-51966	on
+51965	h
+on
 ei
 ei
 w|
@@ -25444,7 +26256,8 @@ ois
 52148	ws
 52150	etai
 52152	omai
-52157	oun
+52156	on
+oun
 on
 52160	oi
 ai
@@ -25498,6 +26311,7 @@ ei
 52251	os
 52253	ei
 ei=
+e
 52258	hr
 ei
 52261	a_
@@ -25706,6 +26520,7 @@ masin
 ete
 52697	en
 52699	ous
+a_n
 52702	hs
 52704	a_s
 52706	dos
@@ -25719,7 +26534,8 @@ os
 en
 52725	os
 ous
-52729	to
+52728	ei
+to
 52732	w=n
 ou
 52740	h
@@ -25733,7 +26549,8 @@ etai
 52756	on
 ei
 52759	on
-52761	wmen
+en
+wmen
 ous
 52764	wsin
 52768	en
@@ -25835,9 +26652,11 @@ ou
 52943	a/ntes
 52945	on
 onto
+a_n
 52949	hs
 52953	a_
-52955	ei
+h
+ei
 52958	ei
 52960	ous
 52962	ous
@@ -25848,6 +26667,7 @@ e/ontos
 eto
 o/tes
 52973	ous
+o/si
 52978	ou=sin
 52980	oun
 ou=nta
@@ -25866,12 +26686,15 @@ on
 53011	on
 53014	h=s
 53017	on
+53019	ion
 53021	os
 53023	w/s
+a_n
 53026	hs
 on
 53029	on
 o
+53033	ei
 53040	en
 53042	ais
 ou
@@ -25894,6 +26717,8 @@ antos
 53072	en
 53074	os
 53076	ous
+53079	ei
+e
 53082	ai
 ou
 hsan
@@ -25904,6 +26729,7 @@ oi
 53095	oun
 53097	o/ntes
 on
+a_n
 53101	hs
 on
 w|
@@ -26062,7 +26888,8 @@ h
 ous
 53451	en
 ois
-53454	ete
+h=
+ete
 53456	wn
 53458	atai
 ei=n
@@ -26076,7 +26903,8 @@ on
 a_|
 53479	mme/non
 53482	ais
-53484	ontai
+i
+ontai
 53486	oi
 ou
 53490	a_s
@@ -26229,6 +27057,7 @@ ei
 53830	w=n
 on
 53833	en
+a_
 53836	a
 53840	atai
 ei=n
@@ -26239,10 +27068,12 @@ w|
 53856	w=n
 ou
 on
+53861	w
 53865	ou
 oun
 en
 53870	ous
+53873	h=
 53876	ete
 ein
 h
@@ -26271,6 +27102,7 @@ ou
 53926	en
 o/nai
 on
+53933	i
 53936	ei
 53938	ous
 53941	a_|
@@ -26303,6 +27135,7 @@ os
 54003	ei=s
 on
 54007	w|
+e
 54011	oi
 ou
 on
@@ -26365,6 +27198,7 @@ ei
 54141	ou
 54144	on
 54146	wn
+h
 54150	hs
 ou/shs
 h
@@ -26462,20 +27296,24 @@ a_|
 ei=
 54340	w|
 ousin
-54343	e
+h=
+e
 w=s
 wsan
 54347	ontes
 54352	os
 a_
+54356	en
 54360	os
 54362	htai
 54364	ei
+en
 54367	en
 54371	w|
 wn
 54374	ous
 54376	wn
+54381	en
 54387	a
 54390	os
 54392	a_s
@@ -26580,6 +27418,7 @@ oi/
 on
 54621	os
 54624	on
+h=
 54629	a_s
 54631	os
 etai
@@ -26606,6 +27445,7 @@ on
 54685	on
 ois
 oi
+a_
 54691	ete
 on
 an
@@ -26617,6 +27457,7 @@ an
 an
 54707	ois
 54709	oi
+h=
 54713	sqe
 54718	o/ntwn
 en
@@ -26634,6 +27475,7 @@ os
 54744	on
 on
 54749	wn
+h=
 54752	os
 54754	ei
 54756	on
@@ -26645,13 +27487,15 @@ on
 an
 54769	an
 w|
+h=
 54776	a_s
 54778	on
 54780	e
 54784	a_s
 hs
 54787	etai
-54789	h
+i
+h
 os
 54793	on
 ou
@@ -26741,6 +27585,7 @@ h|
 e
 54967	h|
 54969	ous
+e
 54973	w
 ou
 54977	e
@@ -26768,10 +27613,13 @@ ois
 55028	w=
 55031	hs
 55034	a_
-55039	on
+55038	en
+on
 55042	w
-55048	omai
+55047	en
+omai
 55051	w
+55053	a
 55055	ka
 ete
 55059	w
@@ -26828,6 +27676,7 @@ on
 ei=n
 55197	en
 ois
+55207	w
 55213	ou
 55220	ou
 55222	on
@@ -26973,6 +27822,7 @@ hr
 55546	ou
 on
 55549	w
+e
 55554	a
 55556	os
 55558	en
@@ -27116,7 +27966,8 @@ ous
 55876	h
 55878	en
 55881	ou
-55883	w=n
+i
+w=n
 en
 on
 on
@@ -27155,6 +28006,7 @@ esqai
 55950	ou
 55952	w/n
 en
+a=mai
 55956	en
 on
 55960	matos
@@ -27301,6 +28153,7 @@ ei=
 ou
 56259	ou=nto
 56261	ous
+h
 56264	nto
 56266	oi
 56270	on
@@ -27339,6 +28192,7 @@ an
 h
 ois
 on
+56340	h
 56343	ate
 56346	ete
 ein
@@ -27356,11 +28210,13 @@ on
 56373	ei+
 en
 56376	os
+56381	en
 56383	h
 56385	os
 56387	en
 ois
 56393	on
+56399	en
 56402	en
 56405	ous
 56409	os
@@ -27402,13 +28258,15 @@ en
 h
 os
 56483	en
+i
 56487	e
 56489	w
 56491	on
 en
 w|
 56495	ous
-56497	as
+i
+as
 on
 56501	w=n
 56504	os
@@ -27432,6 +28290,7 @@ an
 56543	ou
 56546	an
 w|
+h=
 56551	oi
 56553	en
 ois
@@ -27564,7 +28423,8 @@ w|
 56827	hn
 56829	hmi
 56832	wn
-56835	a
+56834	a_
+a
 w
 56842	hs
 56844	a
@@ -27742,13 +28602,16 @@ oun
 57215	ai
 57217	en
 57221	wn
-57223	en
+i
+en
+57225	a_n
 57227	ou
 57230	on
 57233	hs
 57235	on
 wn
 57238	en
+ei
 57241	oi
 on
 57244	on
@@ -27763,6 +28626,7 @@ hs
 57263	oi
 an
 57266	on
+ei
 57271	w=n
 os
 57274	a_s
@@ -27821,7 +28685,8 @@ w|
 57389	ai
 57391	oi
 57394	eis
-57396	h
+ei
+h
 ous
 57400	ai
 57403	a_s
@@ -27868,7 +28733,8 @@ os
 en
 57488	w
 57492	hte
-57497	a_
+57496	ei
+a_
 wmen
 57500	on
 en
@@ -27883,7 +28749,8 @@ w/n
 en
 on
 ras
-57524	a_s
+h
+a_s
 onta
 57528	w|
 57531	a
@@ -27985,11 +28852,13 @@ antes
 57749	ei
 57752	on
 57754	h|
+ei
 57760	en
 57763	ous
 ou=sa
 on
 en
+ou
 57771	ousa
 w|
 e
@@ -28049,7 +28918,8 @@ w|
 57872	o/tos
 a
 e
-57876	ei
+h
+ei
 os
 57880	ei
 h|
@@ -28064,6 +28934,7 @@ an
 57901	ous
 en
 57904	ous
+w
 57907	en
 er
 w=
@@ -28134,7 +29005,8 @@ a
 ou
 en
 ois
-58058	esqe
+58057	e
+esqe
 58060	ei
 58064	os
 h|
@@ -28174,7 +29046,8 @@ en
 58139	ou
 58142	ome/nhn
 in
-58145	en
+ei=
+en
 58148	w=n
 58155	wn
 58157	hsan
@@ -28211,6 +29084,7 @@ ous
 an
 58231	w|
 on
+ei
 58236	a
 ei
 58240	os
@@ -28239,6 +29113,7 @@ ou
 58289	wn
 on
 o/nai
+a_
 58296	on
 58298	h
 wn
@@ -28268,6 +29143,7 @@ o
 w
 58355	os
 58359	wn
+58361	ei
 58364	on
 58368	oun
 on
@@ -28285,6 +29161,7 @@ on
 58395	wn
 58397	on
 58400	oun
+58402	ion
 58404	os
 58407	w/n
 58410	hn
@@ -28309,7 +29186,8 @@ on
 en
 58448	o
 58451	mme/non
-58453	ou=
+h=
+ou=
 hr
 wn
 ou=
@@ -28352,7 +29230,8 @@ ei=te
 58532	ei=te
 58534	e
 58536	os
-58538	ou
+w
+ou
 en
 a_n
 58542	nes
@@ -28415,6 +29294,7 @@ ei=
 hn
 58649	h=|
 58651	ei/tw
+58656	ei
 58659	os
 58661	os
 58666	h=|
@@ -28436,7 +29316,8 @@ on
 en
 58701	h
 58704	ou
-58706	a
+i
+a
 58709	w=
 58712	os
 58714	w/s
@@ -28550,6 +29431,7 @@ a_s
 ou
 58932	en
 58934	ou
+w=s
 58940	o/ntwn
 oi
 an
@@ -28562,6 +29444,7 @@ wntai
 an
 58958	a_n
 58960	wn
+on
 58964	a_n
 58966	ou
 ous
@@ -28637,7 +29520,8 @@ ous
 59135	ou
 ome/nou
 59138	ou
-59140	o/tos
+h
+o/tos
 59143	a_n
 59145	oi_
 on
@@ -28747,7 +29631,8 @@ w
 wn
 59383	ou
 ou
-59386	os
+e
+os
 wn
 59389	antos
 on
@@ -28854,6 +29739,7 @@ w/n
 59609	on
 os
 en
+us
 59615	c
 59618	en
 ei
@@ -28871,7 +29757,8 @@ h
 ei=
 on
 59645	w|
-59648	ei=
+59647	us
+ei=
 on
 a
 59652	on
@@ -28927,7 +29814,8 @@ w
 h|
 ws
 59757	h|
-59761	e/sqw
+59760	h=
+e/sqw
 59764	a_
 ete
 59768	on
@@ -29039,7 +29927,8 @@ ei=
 ei=n
 60050	ei=
 o
-60053	ei
+e
+ei
 60055	ete
 o
 60060	ei
@@ -29168,6 +30057,7 @@ o
 60366	on
 ona
 h|
+h
 60371	oi
 60375	on
 60377	a
@@ -29179,6 +30069,7 @@ ein
 60393	ou
 60396	h|
 60399	w|
+60401	e
 60407	hte
 60411	os
 60414	mata
@@ -29328,6 +30219,7 @@ a_n
 wn
 mme/nos
 60799	an
+60801	a=n
 60803	h|
 60805	os
 60808	w=
@@ -29354,6 +30246,7 @@ ein
 60860	ou=sin
 60863	wsan
 60865	era
+e
 60868	a_
 60870	a
 60874	h|
@@ -29773,6 +30666,7 @@ ous
 en
 61921	ais
 ou
+a_n
 61925	ou
 61927	n
 61930	os
@@ -29787,6 +30681,7 @@ on
 61947	on
 61950	h
 ous
+ei
 61955	w=n
 ou
 61959	a_s
@@ -29796,6 +30691,7 @@ w/n
 61970	wn
 a_s
 etai
+ei
 61975	wn
 61977	dwn
 61979	wn
@@ -29821,7 +30717,9 @@ on
 62014	en
 ois
 62018	an
+62021	w
 62023	an
+a=mai
 62027	en
 ous
 62030	ei=te
@@ -29915,6 +30813,7 @@ ei
 62218	w|
 62220	h
 62222	os
+h=
 62228	w=n
 62231	ou
 62233	ei
@@ -29986,6 +30885,7 @@ w/s
 62367	o/menos
 on
 62370	w|
+h=
 62376	w=n
 ou
 62379	ato
@@ -30032,6 +30932,7 @@ en
 62477	os
 ete
 on
+62482	a
 62484	on
 62486	ate
 on
@@ -30106,6 +31007,7 @@ ei
 w|
 62650	os
 62653	a
+i
 62656	w/n
 62658	en
 62661	ous
@@ -30124,6 +31026,7 @@ w
 62689	wn
 an
 62693	ontes
+h=
 62696	a_
 62703	hs
 62706	en
@@ -30150,7 +31053,8 @@ e
 62741	osan
 w|
 mata
-62745	en
+i
+en
 62749	os
 62751	ei
 ois
@@ -30196,6 +31100,7 @@ w|
 eis
 on
 omen
+62822	a
 62824	on
 ei
 ei=n
@@ -30206,10 +31111,12 @@ en
 62834	en
 62836	os
 62839	on
-62841	h
+on
+h
 62843	en
 62846	on
 62849	ei
+62852	en
 62857	ous
 in
 62860	en
@@ -30323,7 +31230,8 @@ an
 63086	w|
 63088	eis
 63090	wn
-63092	e
+h=
+e
 63094	eus
 63096	wn
 63099	os
@@ -30352,7 +31260,8 @@ os
 63142	ou
 an
 63146	ous
-63148	wmen
+h=
+wmen
 on
 a_
 wmen
@@ -30401,6 +31310,7 @@ hn
 63240	a
 63243	w/s
 63245	ous
+63247	h
 63249	stai
 63251	h=|
 63253	h
@@ -30453,7 +31363,8 @@ an
 63342	oun
 o/ntes
 63345	on
-63347	on
+h
+on
 o/ta
 63350	an
 ou
@@ -30464,7 +31375,8 @@ ou
 63361	a_n
 en
 63364	en
-63366	ma
+us
+ma
 63371	w/s
 en
 63374	h
@@ -30512,7 +31424,8 @@ ma
 hs
 63461	hs
 63463	a_s
-63465	on
+on
+on
 63468	ma
 63470	ou
 63472	an
@@ -30529,6 +31442,7 @@ os
 on
 on
 63503	me/nos
+ei
 63508	hn
 63510	wn
 63515	on
@@ -30567,6 +31481,7 @@ hs
 63583	onto
 63586	on
 on
+63591	ou=
 63594	os
 hs
 en
@@ -30643,6 +31558,7 @@ ois
 on
 63745	ou=sa
 h
+63749	w
 63751	ei=
 63753	oun
 w=ta
@@ -30677,6 +31593,7 @@ e
 ei
 h|
 ous
+h=
 63808	ou
 63811	a
 63814	era
@@ -30766,6 +31683,7 @@ ois
 64000	a_n
 ou
 64004	w
+i
 64007	a_s
 64010	a_n
 64013	ai
@@ -30807,9 +31725,11 @@ oi
 64088	o/ntes
 64090	antes
 a
-64096	a
+64095	a_
+a
 en
 64099	ous
+ion
 64102	w=n
 64106	mme/na
 64109	w|
@@ -30832,7 +31752,8 @@ on
 64146	dos
 en
 64150	a_n
-64152	n
+ou=
+n
 os
 64155	a=s
 64157	o/menos
@@ -30858,7 +31779,8 @@ o/meqa
 64200	kti
 an
 64203	a_s
-64206	ome/nhs
+64205	h
+ome/nhs
 h
 ous
 64211	on
@@ -30908,6 +31830,7 @@ ai
 64298	w|
 on
 64302	a_n
+a=n
 64306	h=s
 a_
 64310	w=n
@@ -30938,6 +31861,7 @@ os
 on
 u/wn
 wn
+on
 64357	i/wn
 64359	wn
 64362	h
@@ -30960,7 +31884,8 @@ ous
 ois
 64396	on
 w=s
-64400	on
+64399	h
+on
 h
 ous
 64404	ais
@@ -31091,7 +32016,8 @@ omai
 64648	hs
 ou
 64651	a_
-64657	a
+64656	a_
+a
 64659	en
 64661	ous
 64664	htai
@@ -31237,6 +32163,7 @@ ou=ntes
 64954	ou
 64958	ois
 ou
+i
 64963	ais
 64965	a_/s
 os
@@ -31246,6 +32173,8 @@ en
 64974	os
 ma/twn
 64978	o
+64980	on
+o/si
 64983	oi
 ei
 h=nai
@@ -31316,7 +32245,8 @@ ws
 ou
 65117	e/sqai
 a_
-65121	hsan
+65120	i
+hsan
 65125	ou/menon
 65128	h
 os
@@ -31344,10 +32274,12 @@ ois
 65172	os
 65174	a_n
 65180	wn
+i
 65184	ou=sqai
 65186	a_n
 65188	hs
 a_n
+65191	ou=
 65194	o
 65196	eto
 65200	ou
@@ -31421,7 +32353,8 @@ a_n
 on
 65327	h
 65329	hs
-65332	hn
+65331	a
+hn
 65335	ou=ntes
 oi
 oi
@@ -31466,6 +32399,7 @@ h
 a_
 65422	me/non
 65425	ou
+65427	i
 65431	ais
 ais
 ei
@@ -31493,6 +32427,7 @@ w=
 65487	w=
 ata
 65491	w|
+w
 65494	a
 65497	h=s
 65499	ma
@@ -31548,6 +32483,7 @@ on
 65601	on
 w/mhn
 65604	on
+ion
 65611	wn
 65616	w=
 65619	h
@@ -31559,7 +32495,8 @@ w/mhn
 65636	idi
 65641	hn
 65644	hn
-65646	ei=s
+e
+ei=s
 65648	on
 65650	ei=n
 a_n
@@ -31859,7 +32796,8 @@ on
 oun
 66256	ate
 66258	asqe
-66260	on
+a
+on
 ou
 antos
 ou
@@ -31890,7 +32828,8 @@ en
 w|
 66319	a_n
 66326	oi
-66330	an
+66329	a
+an
 ate
 66335	ontes
 66339	os
@@ -31935,6 +32874,7 @@ os
 66412	wn
 66416	ou
 esqe
+a
 66420	a
 66422	h|
 66427	a
@@ -31945,7 +32885,8 @@ ou
 h/setai
 66439	ou
 66444	ai
-66450	oi
+66449	h=s
+oi
 an
 66453	an
 66455	a_s
@@ -31956,6 +32897,7 @@ an
 eto
 66472	eras
 66474	wn
+66477	i
 66480	mati
 66482	h/sontai
 ai
@@ -31992,7 +32934,8 @@ ois
 66549	ento
 66551	in
 66557	a_
-66559	oi
+h
+oi
 66562	a/ntwn
 66564	on
 an
@@ -32048,6 +32991,7 @@ ou
 en
 66674	wn
 66678	en
+ion
 66681	hs
 66685	os
 66687	ei/s
@@ -32057,6 +33001,7 @@ en
 a_s
 66701	w=|
 66704	a_
+e
 66707	ma
 66709	on
 66712	on
@@ -32112,6 +33057,7 @@ ois
 66812	antes
 ous
 an
+ou=
 66817	esqai
 66819	ein
 66822	mati
@@ -32122,8 +33068,10 @@ e/ntes
 on
 66833	ous
 66835	on
+66837	ion
 66839	ou
 66841	ein
+on
 66845	ou
 ate
 66848	a/meqa
@@ -32181,7 +33129,9 @@ hsan
 66966	ontes
 hsan
 66970	o
+a
 66973	ou
+66975	a
 66977	ou
 ou
 hsan
@@ -32236,6 +33186,7 @@ matos
 67087	a_
 67089	h
 a_
+67092	e
 67096	o/ntwn
 w|
 en
@@ -32253,6 +33204,7 @@ ou
 is
 67121	h
 67125	ous
+e
 67128	hs
 67132	ois
 oi
@@ -32375,11 +33327,13 @@ a_n
 67378	antes
 an
 67383	hs
-67385	eto
+i
+eto
 os
 67389	hn
 67391	a_n
 67396	ontas
+67398	a_
 67403	wn
 eto
 a
@@ -32395,6 +33349,7 @@ ois
 67428	en
 ous
 67431	os
+on
 67434	ento
 ontes
 67437	w|
@@ -32536,6 +33491,7 @@ an
 ei=n
 ei=
 w|
+on
 67727	ois
 67729	os
 67731	e/rwn
@@ -32606,7 +33562,8 @@ a_s
 67860	hs
 67862	en
 on
-67865	ou
+w
+ou
 os
 eto
 67870	oi
@@ -32690,6 +33647,7 @@ matos
 omen
 68038	en
 68040	os
+ion
 68044	ous
 68046	anto
 on
@@ -32705,16 +33663,19 @@ ou
 on
 e/a_
 68069	hsan
+ion
 68072	wn
 68074	a/menoi
 an
 ois
+68079	i
 68081	os
 68083	ou
 en
 68086	eto
 68088	os
 68090	w=n
+68093	a
 68096	os
 68098	e/wn
 on
@@ -32768,6 +33729,7 @@ ontas
 68193	etai
 w=n
 mata
+a
 68198	ou
 68200	ou
 68203	ou
@@ -32826,7 +33788,8 @@ on
 w|
 a_n
 68331	h|
-68333	ma
+e
+ma
 68336	ato
 ou=nai
 w|
@@ -32867,6 +33830,7 @@ on
 68409	a_|
 68411	h|
 68420	a_s
+i
 68423	ai
 antes
 68427	onto
@@ -33023,7 +33987,8 @@ w/n
 68725	ei=te
 ous
 68729	w=n
-68732	ato
+68731	i/on
+ato
 on
 w/n
 68737	en
@@ -33033,6 +33998,7 @@ onta
 68747	eis
 68749	on
 es
+e_s
 68753	on
 en
 68756	h=s
@@ -33042,7 +34008,8 @@ o/s
 68765	h=|
 68768	en
 ous
-68772	e/ntwn
+68771	i
+e/ntwn
 w=n
 68775	h
 w|
@@ -33178,7 +34145,8 @@ ein
 69041	ptai
 69043	w|
 69045	w=n
-69047	a
+h=
+a
 69049	ias
 ate
 69052	h
@@ -33204,6 +34172,7 @@ ois
 69098	h=|
 ai
 hn
+a
 69103	on
 69105	ei
 69108	on
@@ -33220,6 +34189,7 @@ a/menoi
 69131	wn
 69134	en
 in
+ion
 69138	ou
 69140	ato
 ei=n
@@ -33342,6 +34312,7 @@ os
 69375	a_n
 69378	ois
 69381	hsan
+a
 69384	a_s
 69386	a_s
 69389	h=n
@@ -33355,6 +34326,7 @@ on
 os
 69406	eto
 69408	a_n
+a
 69411	ous
 o/menos
 wn
@@ -33496,7 +34468,8 @@ as
 69684	ma/twn
 a=sqai
 69689	is
-69691	os
+e
+os
 69694	w|
 69698	a_
 69702	a
@@ -33537,7 +34510,8 @@ en
 wn
 hqi
 69783	ou
-69785	a_n
+a
+a_n
 69788	on
 69790	ousan
 69794	an
@@ -33576,6 +34550,7 @@ ontos
 a_n
 69857	hn
 69859	en
+a
 69862	eis
 69864	eis
 69867	en
@@ -33629,6 +34604,7 @@ ou
 69968	w|
 69970	oun
 69973	onto
+a
 69976	on
 on
 69984	os
@@ -33731,7 +34707,8 @@ on
 ei=s
 70190	wn
 70193	en
-70195	en
+e
+en
 70199	hs
 70201	w|
 mati
@@ -33789,7 +34766,8 @@ ou
 hs
 70302	ai
 70304	ma
-70307	w=n
+70306	ion
+w=n
 70310	e/wn
 wn
 70316	w=
@@ -33848,7 +34826,8 @@ ous
 h|
 70434	eis
 os
-70438	ou=to
+70437	on
+ou=to
 70441	ous
 70443	ou=ntas
 70445	w|
@@ -33945,7 +34924,8 @@ o/menon
 70621	ous
 70623	ou=ntas
 70625	en
-70628	on
+70627	ei
+on
 70630	mati
 a_n
 70633	w=n
@@ -33994,7 +34974,8 @@ antes
 an
 70726	on
 ou=ntes
-70729	h|s
+h=
+h|s
 ei=n
 ws
 70733	a_/s
@@ -34125,7 +35106,8 @@ ois
 en
 ous
 70964	hn
-70968	ou/ntwn
+70967	ion
+ou/ntwn
 wn
 70972	ei+
 70974	h
@@ -34168,7 +35150,8 @@ on
 71037	e
 71040	os
 en
-71043	e
+ws
+e
 71046	on
 71048	on
 71050	on
@@ -34179,6 +35162,7 @@ en
 en
 71064	ou
 71067	eto
+71071	us
 71074	os
 71077	on
 71081	w|
@@ -34242,14 +35226,16 @@ mata
 71199	a/menos
 71201	ous
 en
-71206	a_/s
+71205	ion
+a_/s
 en
 71209	ois
 71213	wn
 71216	hs
 on
 w|
-71222	en
+71221	ion
+en
 71225	a_n
 71228	os
 71230	w=n
@@ -34300,6 +35286,7 @@ ei/s
 omai
 71309	w|
 asqe
+71312	i
 71314	os
 *
 71317	hs
@@ -34310,6 +35297,7 @@ o/menos
 71329	w|
 71332	ou=
 71334	h
+ion
 71338	ti
 a_|
 71342	e
@@ -34317,6 +35305,7 @@ h
 71346	h
 71349	ai
 71351	hsan
+ion
 71354	ou
 on
 71358	hn
@@ -34329,10 +35318,12 @@ os
 nos
 e/ws
 71372	an
+hs
 71375	a
 71380	ws
 as
 o/menos
+71387	ion
 71389	ou
 71391	ai
 71394	gme/na
@@ -34473,6 +35464,7 @@ a_s
 71670	an
 71673	oi
 71676	oi
+71679	a
 71681	a_n
 71685	h
 anto
@@ -34493,7 +35485,8 @@ a/menos
 71715	os
 eto
 ois
-71719	wn
+h=s
+wn
 71723	ei+
 h|
 o/menos
@@ -34525,7 +35518,8 @@ e
 on
 71778	e
 on
-71782	e
+71781	ws
+e
 71784	on
 71786	on
 71788	en
@@ -34542,7 +35536,8 @@ en
 71816	anta
 71819	on
 71821	ou=
-71823	ei=s
+hs
+ei=s
 71825	hsan
 71828	a_n
 71832	lme/noi
@@ -34606,6 +35601,7 @@ antes
 71966	an
 71968	on
 ontes
+a
 71973	esin
 71975	os
 71977	an
@@ -34685,6 +35681,7 @@ h=nai
 on
 on
 ai
+72127	ws
 72129	a_|
 72131	a_s
 ous
@@ -34981,6 +35978,7 @@ an
 on
 a_n
 72691	a_|
+a
 72695	a_n
 ai
 72698	oi
@@ -35000,6 +35998,7 @@ en
 72728	ma
 72730	on
 ate
+h
 72735	a_n
 72737	on
 72740	on
@@ -35188,6 +36187,7 @@ en
 73094	en
 a_s
 on
+73102	a
 73104	a_n
 73107	ei=
 73110	mata
@@ -35229,6 +36229,7 @@ wn
 73195	antes
 73198	a_s
 73200	w=n
+73202	a
 73204	on
 ome/na_s
 antes
@@ -35440,6 +36441,7 @@ a_s
 ou
 eto
 73622	w|
+a
 73625	o
 ei=n
 ous
@@ -35456,6 +36458,7 @@ an
 73650	an
 73652	a_s
 73654	w=n
+a
 73657	wn
 on
 73661	on
@@ -35493,8 +36496,10 @@ on
 an
 73728	hn
 73731	on
-73733	o/menoi
+ei=
+o/menoi
 a_n
+i
 73738	os
 73743	to
 os
@@ -35614,7 +36619,9 @@ on
 a_/s
 en
 73966	in
-73970	en
+i
+73969	ion
+en
 73973	a_|
 73975	hn
 o/menoi
@@ -35680,6 +36687,7 @@ on
 74087	on
 74089	on
 74092	ais
+i
 74095	o/ntes
 74098	a_s
 on
@@ -35867,11 +36875,13 @@ ois
 h=s
 74463	w=n
 wn
-74466	in
+a
+in
 74468	ontas
 on
 ei
 74473	ais
+a
 74476	on
 o/menos
 74479	e
@@ -35895,6 +36905,7 @@ antes
 74517	oi
 74520	oi
 oi
+74523	a
 74525	an
 74527	a_n
 74529	a_n
@@ -35987,9 +36998,11 @@ en
 74697	a_n
 os
 antes
-74701	w/meqa
+h
+w/meqa
 74703	ous
-74705	in
+a
+in
 an
 74709	amen
 74711	on
@@ -36036,7 +37049,8 @@ en
 74791	an
 74793	ou=
 hs
-74798	mati
+74797	ei
+mati
 os
 os
 74802	a_s
@@ -36088,6 +37102,7 @@ ai
 74892	on
 74895	a_|
 o/ntes
+74898	a
 74900	a_n
 on
 74904	a_n
@@ -36240,7 +37255,8 @@ ontes
 75175	ousin
 h
 75181	esqai
-75183	ei=n
+e
+ei=n
 ois
 75187	h
 75189	os
@@ -36272,6 +37288,7 @@ hn
 75228	ato
 wn
 75232	on
+a
 75236	on
 os
 75239	a_s
@@ -36422,6 +37439,7 @@ on
 75509	hn
 75512	h
 75514	wn
+a
 75518	o/s
 75520	w|
 en
@@ -36529,7 +37547,8 @@ h
 75748	os
 75750	ou
 on
-75753	ontes
+ei=
+ontes
 75755	ontes
 75757	ous
 75762	on
@@ -36541,6 +37560,7 @@ ws
 an
 75775	a_s
 75778	os
+ei
 75782	ontes
 75784	on
 on
@@ -36569,7 +37589,8 @@ eto
 75830	ois
 75833	ome/nois
 75837	a_|
-75839	an
+a
+an
 a_n
 75843	ontas
 75848	wn
@@ -36620,6 +37641,7 @@ ei/s
 ou
 *
 75941	oi
+a
 75945	oneste/rous
 75947	w=
 o/menos
@@ -36644,6 +37666,7 @@ os
 75990	ois
 ois
 ei=
+e
 75996	wn
 etai
 eo/menos
@@ -36670,6 +37693,7 @@ ei=n
 76037	eian
 on
 76040	oien
+76044	a=n
 76046	os
 ou
 76049	onta
@@ -36760,6 +37784,7 @@ a_n
 76229	h|
 eto
 76234	h|
+a
 76237	on
 en
 76240	ous
@@ -36815,7 +37840,8 @@ en
 76339	kti
 76341	matos
 76343	w|
-76345	ou=
+h=
+ou=
 a_
 ei
 76350	h|s
@@ -36856,7 +37882,8 @@ en
 76434	ma
 on
 76437	oi
-76439	on
+a
+on
 76441	o/mhn
 76445	mata
 76448	ou
@@ -36894,7 +37921,8 @@ an
 76517	on
 ous
 en
-76521	os
+ou
+os
 76523	w/n
 76526	hn
 ato
@@ -36924,6 +37952,7 @@ h
 on
 76570	en
 o/menos
+h=s
 76574	hn
 a_n
 76577	a_n
@@ -36946,6 +37975,7 @@ os
 76610	mati
 ei
 76613	en
+ws
 76618	ou
 a/menos
 on
@@ -37053,6 +38083,7 @@ o/menos
 76817	oun
 ou=ntes
 76820	on
+ion
 76823	ous
 a_/s
 76826	wn
@@ -37160,13 +38191,15 @@ a/ntwn
 antes
 77025	ous
 on
+ion
 77030	an
 77032	a_s
 wn
 77035	on
 ou
 das
-77041	os
+77040	a
+os
 77043	ou
 77045	os
 en
@@ -37182,7 +38215,8 @@ esqai
 77066	a
 w/n
 77071	e/sqai
-77074	ei=
+77073	ei
+ei=
 77077	hn
 ei=n
 a_s
@@ -37196,6 +38230,7 @@ en
 on
 77096	a_n
 eto
+77099	a
 77101	on
 on
 os
@@ -37434,7 +38469,8 @@ on
 eto
 ois
 wn
-77561	en
+77560	ion
+en
 77564	on
 77566	ou
 a_n
@@ -37465,7 +38501,8 @@ en
 w|
 77613	w/n
 en
-77616	ei=sqe
+h=
+ei=sqe
 77619	h
 ou
 77622	w|
@@ -37571,7 +38608,8 @@ onta
 h=n
 77837	ma
 77839	on
-77841	in
+a
+in
 etai
 77844	on
 77846	a
@@ -37631,7 +38669,8 @@ ontai
 mme/na
 77977	a_=n
 77979	a_s
-77981	wn
+w
+wn
 77983	ei=te
 ontes
 77986	a_n
@@ -37673,7 +38712,8 @@ ou
 78061	os
 en
 on
-78066	o/nai
+78065	on
+o/nai
 78068	ein
 78071	w/n
 ei/s
@@ -37705,6 +38745,7 @@ h=nai
 78121	wn
 antes
 omen
+78129	h=s
 78132	on
 78135	a_
 78137	o/ntes
@@ -37728,7 +38769,8 @@ e/omen
 o/ntes
 78170	a_s
 amen
-78173	a_s
+ou
+a_s
 78177	w|
 on
 78181	matos
@@ -37765,7 +38807,8 @@ amen
 a_n
 a_n
 78245	ois
-78249	o/ntes
+78248	ion
+o/ntes
 omen
 78252	a_n
 78254	o/ntes
@@ -37877,6 +38920,7 @@ hsan
 78486	a_n
 eis
 78489	e/ws
+78491	a
 78493	h
 78495	ous
 wn
@@ -37950,6 +38994,7 @@ eon
 78637	ai
 ei=te
 78642	os
+78644	a
 78646	ou
 78649	ou
 78652	ou
@@ -37991,7 +39036,8 @@ is
 78722	w|
 78724	hs
 78726	h
-78731	w/n
+78730	hs
+w/n
 a_s
 78734	a_s
 en
@@ -38090,7 +39136,8 @@ antes
 w|
 ei
 ois
-78932	on
+on
+on
 a_n
 78939	os
 me/nos
@@ -38099,7 +39146,8 @@ me/nos
 mme/nos
 78949	ei+
 78955	me/nos
-78957	an
+a
+an
 78959	ou
 ou
 hs
@@ -38153,6 +39201,7 @@ en
 79097	a_/s
 ou
 79100	on
+ei=
 79103	h/setai
 79107	ktai
 79109	ai
@@ -38165,6 +39214,7 @@ ou/menos
 79127	on
 a_s
 79132	hs
+a
 79135	on
 ou/menos
 79140	ou/ntwn
@@ -38224,6 +39274,7 @@ oi
 antai
 79253	wn
 79255	wn
+a
 79258	a_s
 79260	ontas
 79267	ma
@@ -38239,7 +39290,8 @@ on
 79286	en
 79289	ou
 79293	h
-79295	w=
+a=n
+w=
 79297	on
 79299	ou
 79303	ou
@@ -38322,7 +39374,8 @@ ou/s
 79443	os
 79447	on
 79449	w/s
-79453	o/menos
+79452	ion
+o/menos
 w=nai
 79456	es
 79459	ei=tai
@@ -38365,6 +39418,7 @@ ein
 e
 me/ne
 79529	wn
+79531	a
 79533	on
 79535	w=n
 eis
@@ -38574,7 +39628,8 @@ e
 a_s
 79936	ai
 79939	as
-79943	a/menos
+79942	i
+a/menos
 79947	wn
 en
 ate
@@ -38636,12 +39691,14 @@ ma
 ei/shs
 80046	hs
 80050	esqai
-80052	a
+hs
+a
 80055	a_s
 80058	ois
 ein
 80061	on
 80067	ai
+a
 80070	gme/non
 ois
 o/ntes
@@ -38649,7 +39706,8 @@ o/ntes
 on
 80077	ktos
 80080	ida
-80084	antes
+80083	ion
+antes
 80086	eis
 esqai
 80089	w|
@@ -38685,6 +39743,7 @@ a_s
 80152	oros
 80156	an
 80158	oni
+a
 80161	ou
 e/ntos
 80164	ou
@@ -38717,6 +39776,7 @@ o/ntes
 eis
 in
 80221	ois
+80223	a
 80225	hn
 hn
 80230	wn
@@ -38761,11 +39821,14 @@ on
 ou=nta
 ou
 80320	ais
+80322	a
 80324	in
-80326	ai
+e
+ai
 antai
 80332	ou=sin
 80334	w=
+80339	a
 80341	on
 80343	ousin
 in
@@ -38774,6 +39837,7 @@ in
 w|
 wn
 i_
+80353	a
 80355	on
 80360	ais
 mme/nois
@@ -38805,6 +39869,7 @@ w=n
 80412	sme/non
 80415	w|
 80418	ou
+e
 80421	ou
 80426	a_s
 oi
@@ -38873,6 +39938,7 @@ ou
 on
 80557	w/n
 omai
+80560	a
 80562	wn
 80564	mata
 h/setai
@@ -38911,6 +39977,7 @@ an
 80615	eis
 80618	oi
 80620	wn
+a
 80623	ou
 80625	oun
 on
@@ -38923,6 +39990,7 @@ on
 ou=ntes
 ei=n
 on
+a
 80642	on
 80646	os
 h
@@ -38943,7 +40011,8 @@ a_s
 80681	ous
 80685	a_/s
 80687	a_n
-80690	a_s
+80689	ion
+a_s
 80693	matos
 en
 80696	on
@@ -38979,6 +40048,7 @@ en
 eis
 80750	a
 a_/s
+ei
 80755	h=nai
 80758	en
 80761	os
@@ -38989,7 +40059,8 @@ ros
 esqai
 ous
 80774	a
-80779	eis
+80778	on
+eis
 80783	w=
 80785	i/on
 ou
@@ -39021,9 +40092,11 @@ a/menoi
 80838	ous
 a_s
 on
+ei
 80843	os
 80845	ei+
 eto
+80848	a
 80850	on
 wn
 80855	mme/nos
@@ -39044,7 +40117,8 @@ ois
 esqai
 80887	on
 80891	ou/menos
-80893	on
+a
+on
 oi_
 80896	ous
 on
@@ -39055,7 +40129,8 @@ o/ntwn
 80907	hn
 a_n
 a/menos
-80912	a_s
+80911	h=s
+a_s
 80915	matos
 a
 h=nai
@@ -39082,7 +40157,8 @@ on
 80961	oito
 esqai
 80964	a
-80966	esqai
+ei=
+esqai
 80971	ou
 ame/nou
 h=nai
@@ -39104,7 +40180,8 @@ o/mhn
 ai
 81002	h=|
 ou
-81007	o/ntos
+81006	ion
+o/ntos
 81009	a_
 81014	hs
 a_s
@@ -39176,7 +40253,8 @@ mai
 81159	wn
 81161	ei=sqai
 81163	hn
-81169	ous
+81168	a
+ous
 w=n
 81173	ma/twn
 81175	e/omai
@@ -39192,6 +40270,7 @@ ome/nhn
 ontes
 81204	wsi
 ei=n
+81207	a
 81209	esta/thn
 in
 81212	a_s
@@ -39242,12 +40321,14 @@ oume/nwn
 81299	wn
 a
 on
-81304	a_s
+81303	a
+a_s
 81306	a_s
 81308	w=n
 ous
 on
 ei=n
+ws
 81314	o/menos
 ois
 on
@@ -39260,6 +40341,7 @@ ws
 81335	wn
 a_s
 hs
+a
 81340	on
 on
 eu
@@ -39451,6 +40533,7 @@ a/ntes
 w|
 onti
 ei=n
+81749	a
 81751	a_n
 ous
 hmen
@@ -39475,13 +40558,15 @@ amen
 81788	ous
 81790	ous
 81793	os
+81795	a
 81797	a_n
 81799	a_n
 antes
 amen
 81803	a_
 81805	a_s
-81807	w/n
+ei=
+w/n
 81809	hs
 on
 81812	e/on
@@ -39492,12 +40577,14 @@ en
 81823	ais
 ou=ntes
 81827	o/menoi
+a
 81830	on
 81832	w=ntos
 81835	ou
 amen
 81838	hn
-81840	hn
+a
+hn
 81843	o/menoi
 hn
 omen
@@ -39510,9 +40597,11 @@ a
 ou
 81859	ou
 ome/nou
-81864	ous
+81863	h
+ous
 81871	a_n
-81873	e/nai
+h
+e/nai
 ei
 81876	os
 wn
@@ -39532,7 +40621,8 @@ esqai
 81905	hs
 81907	h|
 81910	w|
-81912	eto
+on
+eto
 81916	ou
 ome/nois
 ou
@@ -39550,8 +40640,10 @@ ai
 ena
 81940	hs
 onta
-81943	ba
-81946	on
+a
+ba
+81945	a
+on
 antos
 81949	ou
 antes
@@ -39593,7 +40685,8 @@ antes
 82013	onto
 ws
 82016	ome/nwn
-82020	hn
+82019	h=s
+hn
 ou=nto
 82024	h|
 res
@@ -39641,7 +40734,8 @@ h
 82111	w
 os
 wn
-82115	ou=
+h=
+ou=
 e
 ri
 82119	ei=
@@ -39663,7 +40757,8 @@ c
 eto
 ome/nwn
 82163	a_|
-82165	on
+a
+on
 82167	ktos
 oun
 82170	ai
@@ -39673,13 +40768,15 @@ a_n
 82176	antes
 on
 a_s
-82180	u
+o/si
+u
 82182	antes
 82185	antes
 on
 a_s
 82189	ou/menoi
-82194	eis
+82193	a
+eis
 ous
 wmen
 82198	hs
@@ -39744,6 +40841,7 @@ a_s
 on
 en
 82307	w|
+ion
 82311	a_s
 ato
 ein
@@ -39779,6 +40877,7 @@ ai
 o/ntes
 wn
 82374	an
+a
 82378	a_s
 82380	wn
 82382	antes
@@ -39822,7 +40921,8 @@ ous
 82465	eto
 82467	h=nai
 82470	h=n
-82472	e/ntes
+i
+e/ntes
 82474	wmen
 82476	h
 82478	os
@@ -39854,7 +40954,8 @@ a/menon
 82536	ou
 82538	ous
 on
-82541	eus
+w=s
+eus
 82544	os
 82547	e/nta
 82550	hs
@@ -40135,12 +41236,14 @@ ais
 ou
 83093	ome/nou
 83095	matos
-83098	ka
+83097	a
+ka
 83100	e/ntos
 ou
 ou
 83104	ei+
-83106	ma
+a
+ma
 hs
 83109	ew^s
 wn
@@ -40193,6 +41296,7 @@ a_n
 83205	ou=mai
 83209	w=n
 83211	eo/menos
+83214	h
 83216	h/somai
 83219	mati
 83221	ou
@@ -40322,6 +41426,7 @@ wn
 83481	os
 83484	nas
 hn
+a_
 83488	en
 ous
 83491	os
@@ -40352,6 +41457,7 @@ o/menoi
 wn
 83541	ois
 ontes
+i
 83546	an
 83548	on
 ein
@@ -40413,7 +41519,8 @@ eis
 83633	wn
 83638	ma
 83640	ou
-83643	an
+83642	a
+an
 83647	a
 ontas
 h|
@@ -40437,6 +41544,7 @@ w=n
 83688	ou
 83690	an
 83692	ei
+a
 83696	ta
 83699	on
 a_n
@@ -40449,6 +41557,7 @@ a_s
 83711	ou
 83713	ei=
 w|
+a
 83717	a
 ou
 83722	hn
@@ -40531,6 +41640,7 @@ ei
 83864	os
 83866	a
 83868	wn
+a
 83871	on
 83874	ou
 ou
@@ -40610,6 +41720,7 @@ hn
 ou
 84027	w|
 os
+84030	e
 84034	w|
 84036	ki
 h
@@ -40626,6 +41737,7 @@ a_s
 84066	ou
 84070	a
 84072	hs
+84074	a
 84076	on
 on
 84081	hsan
@@ -40657,7 +41769,8 @@ hsin
 84139	os
 84141	wn
 84143	hn
-84145	on
+a
+on
 w
 84148	oito
 84151	ei=
@@ -40687,10 +41800,12 @@ o/n
 84213	a_n
 84216	ptai
 84220	os
+e
 84226	w=n
 84230	w=n
 84232	on
 84234	an
+a
 84240	i/wn
 ta
 84244	ws
@@ -40740,7 +41855,8 @@ ou
 84323	h/setai
 a
 c
-84327	ou
+ion
+ou
 84330	ou
 is
 a_s
@@ -40763,6 +41879,7 @@ ou
 84368	hs
 84370	ou
 ou/menoi
+a=n
 84374	ou
 iti
 84378	ew^s
@@ -40826,7 +41943,8 @@ omen
 84492	ou=men
 e/nai
 84496	ora
-84499	ka
+84498	a
+ka
 84504	wn
 h
 ei
@@ -40842,9 +41960,11 @@ w|
 84529	ome/nw|
 84531	os
 84533	etai
-84535	in
+a
+in
 a_
-84538	ma
+a
+ma
 84542	ome/nw|
 onti
 84547	ou=nta
@@ -40925,9 +42045,12 @@ tai
 hn
 etai
 84719	os
-84721	is
+e
+is
+a_
 84725	ew^s
-84728	in
+84727	a
+in
 84732	a_n
 84734	a_n
 84737	mati
@@ -40954,6 +42077,7 @@ on
 era
 wn
 w=n
+a
 84793	me/non
 84797	ma
 84801	a_s
@@ -41041,12 +42165,14 @@ ou
 84970	e/ntos
 84974	os
 84977	w=n
-84980	on
+84979	a
+on
 84982	w=n
 en
 84987	ou
 84989	ei=tai
 84993	ou
+a_
 84997	a=|
 ei=n
 hsin
@@ -41057,7 +42183,8 @@ hn
 85013	os
 85016	en
 w|
-85020	e/ntes
+85019	on
+e/ntes
 85024	mati
 ou
 hso/meqa
@@ -41070,7 +42197,8 @@ hso/meqa
 85043	ou
 ou
 w|
-85047	e/ntes
+on
+e/ntes
 hso/meqa
 85051	h|
 ou
@@ -41083,6 +42211,7 @@ ou
 ou
 85072	hn
 omen
+a_
 85078	os
 ou
 85081	a_
@@ -41116,6 +42245,7 @@ mati
 85158	oi
 on
 w|
+on
 85163	is
 85165	ou
 85168	a_
@@ -41142,6 +42272,7 @@ mati
 en
 85216	os
 w|
+on
 85221	a_n
 85223	itos
 85226	a_s
@@ -41152,6 +42283,7 @@ ou=sin
 85235	os
 ou
 ou
+a
 85242	os
 matos
 85246	ous
@@ -41266,6 +42398,7 @@ ous
 w=ntas
 85472	w|
 85474	w|
+85476	h=
 85478	e/tw
 85480	a_
 85483	w|
@@ -41537,6 +42670,7 @@ ei=tai
 omai
 86086	w|
 86088	ou
+a
 86092	on
 w
 86095	on
@@ -41595,14 +42729,18 @@ en
 86217	ma
 86219	ou
 h=|
-86226	ka
+86225	a
+ka
 ou=sin
 a_
-86230	ma
-86234	ka
+a
+ma
+86233	a
+ka
 86238	kos
 ou=sin
-86243	ma
+86242	a
+ma
 86246	matos
 86249	ma
 86251	kos
@@ -41618,6 +42756,7 @@ a_
 86271	w|
 86273	ou
 86275	etai
+e
 86278	atai
 86282	ki
 86284	w|
@@ -41655,12 +42794,15 @@ mata
 86358	ou=ntos
 ou
 matos
+86363	a
 86365	oi
 ai
 86370	ki
-86373	ka
+86372	a
+ka
 h=n
-86378	ka
+86377	a
+ka
 h=te
 ete
 ein
@@ -41770,14 +42912,16 @@ ois
 86597	a_s
 86601	ma
 86603	matos
-86606	on
+86605	a
+on
 ei
 86609	wn
 86614	w=sin
 86616	on
 86618	ei
 86620	on
-86623	in
+86622	a
+in
 ois
 86628	w
 86630	en
@@ -41806,7 +42950,8 @@ on
 86693	w|
 86697	etai
 86699	ei=
-86701	wn
+a
+wn
 ou
 os
 86705	w=n
@@ -41814,6 +42959,7 @@ os
 os
 ous
 86712	w/n
+on
 86715	ei/s
 86719	a_|
 86721	ou
@@ -41875,7 +43021,8 @@ h
 86843	ou
 86846	wn
 86849	w=n
-86852	ka
+86851	a
+ka
 86855	ai
 86858	a_
 86861	a_
@@ -41885,7 +43032,8 @@ h
 86873	ai
 86876	eres
 86881	os
-86884	ka
+86883	a
+ka
 86889	os
 os
 86893	nas
@@ -41909,6 +43057,7 @@ etai
 86943	ma
 a_s
 86947	os
+86949	a
 86951	on
 86953	omai
 86957	a_|
@@ -41948,6 +43097,7 @@ w=
 87033	w=
 87036	w
 87041	ontos
+e
 87044	ontos
 a_
 87047	w=ntos
@@ -42027,7 +43177,8 @@ me/nhn
 87214	h
 ois
 87217	os
-87221	h/sontai
+87220	ei
+h/sontai
 oi
 ou
 w=ntos
@@ -42121,7 +43272,8 @@ etai
 87406	ew^s
 h
 87409	ei
-87411	h|s
+h=
+h|s
 87414	a_|
 87417	etai
 87420	on
@@ -42255,6 +43407,7 @@ ou
 87707	h
 87709	ei
 87711	w|
+a
 87715	e
 87717	a_s
 87719	an
@@ -42333,6 +43486,7 @@ wn
 os
 w=n
 w|
+on
 87878	ma
 wn
 87882	w
@@ -42388,9 +43542,11 @@ ei
 a_
 ou=
 88001	os
-88004	in
+88003	a
+in
 wn
 88007	ato
+e
 88010	etai
 e
 88013	ta
@@ -42411,14 +43567,17 @@ os
 88047	os
 88049	ai
 ous
-88057	in
+88056	a
+in
 hs
 ou
 88062	in
 hs
 88065	on
 w|
-88071	in
+on
+88070	a
+in
 h/sontai
 88074	a_|
 a_|
@@ -42446,8 +43605,10 @@ a_s
 88129	wmai
 88131	a_s
 wn
+a
 88136	on
 oi
+88140	a
 88143	hn
 oi
 88147	eras
@@ -42549,10 +43710,12 @@ in
 h
 ontes
 88362	mata
+a
 88365	in
 88367	ei=san
 88369	a
 88371	a_n
+a
 88374	a_n
 88376	ew^s
 88378	a_n
@@ -42620,6 +43783,7 @@ oi
 o/ntes
 ou/menoi
 a
+ion
 88491	wn
 88493	on
 88499	wn
@@ -42693,6 +43857,7 @@ ou
 88625	on
 h=|s
 ou=
+88630	h|
 88632	an
 ei=
 ou
@@ -42740,15 +43905,19 @@ h
 88728	w|
 88730	ou=tai
 88733	ei=s
+88735	i/on
 88740	h
-88743	on
+88742	i/on
+on
 88745	etai
 ma
 88748	ou
 88750	h
+i
 88753	o/tes
 88755	on
 88757	a_
+h
 88761	ou
 h=nai
 88765	on
@@ -42880,6 +44049,7 @@ ei=
 wmen
 a_
 89027	ate
+on
 89031	e/nai
 ma
 89034	w|
@@ -42895,7 +44065,8 @@ on
 89060	ma
 89062	os
 89064	ei=tai
-89067	hn
+89066	a
+hn
 ei=s
 89071	mati
 89073	on
@@ -42943,7 +44114,9 @@ on
 89164	ei
 89166	in
 89168	eis
+a
 89171	e
+ion
 89174	ou
 os
 89178	wn
@@ -42963,7 +44136,8 @@ ein
 89213	ois
 ein
 os
-89219	e/tw
+89218	i/on
+e/tw
 89222	on
 89224	hn
 89228	os
@@ -42990,7 +44164,8 @@ wmen
 89275	o
 ei=n
 89278	ois
-89280	on
+a
+on
 oun
 89286	mati
 hte
@@ -43020,6 +44195,7 @@ ou
 ai
 89333	on
 89335	ptai
+a_
 89338	omai
 89341	esin
 89344	mati
@@ -43143,6 +44319,7 @@ w
 89595	o/menos
 asqai
 89601	h=nai
+ei
 89605	on
 89607	ous
 w=
@@ -43374,11 +44551,13 @@ etai
 90113	os
 90116	ame/nw|
 90118	ai
+a
 90121	on
 90125	ma
 ou
 ou
-90129	in
+a
+in
 ou
 ois
 ois
@@ -43593,7 +44772,8 @@ ete
 90574	oi
 90577	oi
 oi
-90580	ka
+a
+ka
 90582	oi
 oi
 90585	oi
@@ -43620,6 +44800,7 @@ ato
 90631	htai
 a
 c
+ion
 90636	ou
 90638	ou
 90643	w|
@@ -43670,6 +44851,7 @@ a_n
 90747	ois
 a_n
 90752	nos
+90754	e
 90756	o/ntwn
 90758	nos
 90761	oume/nwn
@@ -43772,12 +44954,14 @@ ai
 90970	a
 90972	ma
 90975	asqe
+90977	e
 90980	asqe
 90983	oi
 90989	os
 90991	is
 90993	oi
-90997	on
+90996	a
+on
 ei=te
 91001	h|
 91006	ou
@@ -43805,6 +44989,7 @@ os
 91061	os
 91064	i/on
 on
+91067	a
 91069	i/on
 on
 ou
@@ -43813,6 +44998,7 @@ ou
 on
 ou
 h
+91080	a
 91082	in
 91084	ou
 91086	ei=san
@@ -43929,6 +45115,7 @@ ei=tai
 91322	w=
 91325	hs
 a_s
+91328	e
 91330	w
 91339	mai
 91342	wn
@@ -43952,9 +45139,11 @@ w|
 a
 91386	n
 91392	hte
+91394	h=
 91397	ptai
 91403	os
 ou=sqe
+a
 91407	ou
 91411	ei
 91414	eis
@@ -43962,8 +45151,10 @@ ou=sqe
 91421	es
 91423	a=sai
 91426	w/n
-91428	sme/noi
-91431	ate
+h
+sme/noi
+91430	h
+ate
 91434	ate
 91436	on
 91438	ate
@@ -44024,6 +45215,7 @@ eras
 w=
 91553	ai
 91555	esqe
+a_
 91558	o
 a
 91561	on
@@ -44061,18 +45253,21 @@ etai
 91643	a_
 91645	h
 a_
+91648	e
 91651	esin
 91656	ros
 ein
 91660	me/noi
-91665	ate
+91664	on
+ate
 91667	h=|
 91669	ou
 91673	on
 91675	a_s
 91681	mati
 91685	mati
-91687	a
+h
+a
 91693	a/menon
 91696	mati
 91698	ou
@@ -44172,7 +45367,8 @@ a
 91926	os
 91928	etai
 ai
-91931	on
+a_
+on
 91933	ou
 ou
 a_
@@ -44180,13 +45376,16 @@ os
 91938	ou
 etai
 91943	wn
+h
 91947	ws
 ma
 91952	mata
 ete
 91955	wn
-91960	ei=sqe
-91965	ei=sqe
+91959	on
+ei=sqe
+91964	on
+ei=sqe
 a_
 91968	ei=te
 91970	ei=te
@@ -44280,6 +45479,7 @@ matos
 hte
 92185	hs
 ate
+h
 92189	on
 92192	mati
 92197	ate
@@ -44315,6 +45515,7 @@ ous
 92277	h|
 92283	a_n
 92287	w
+a
 92292	hn
 w
 92296	ous
@@ -44411,7 +45612,8 @@ hs
 92536	asai
 os
 e/sqai
-92540	ai
+on
+ai
 92544	w|
 ei/s
 os
@@ -44564,6 +45766,7 @@ on
 92863	w|
 wte/ra_
 92869	h|
+a
 92872	h=n
 hn
 w=
@@ -44709,7 +45912,8 @@ hn
 93209	ktos
 93211	hs
 93213	ei
-93216	on
+93215	a
+on
 93218	w=
 93222	os
 93225	ei
@@ -44737,6 +45941,7 @@ omen
 93279	oi/
 93282	a_s
 ousin
+93285	on
 93289	a/meqa
 93291	a_|
 93293	a_
@@ -44763,7 +45968,8 @@ h=n
 93344	a
 93349	htai
 93352	on
-93356	ei=n
+93355	on
+ei=n
 93359	ma
 93362	ei=
 93365	wmai
@@ -44965,7 +46171,8 @@ ate
 ou
 omen
 ete
-93809	ka
+93808	a
+ka
 93812	ontes
 93814	ias
 oi
@@ -45076,7 +46283,8 @@ w
 94060	os
 94063	o/menos
 94065	wn
-94067	hs
+a
+hs
 wn
 ei
 94071	hn
@@ -45122,6 +46330,7 @@ on
 94203	on
 94205	w|
 esqai
+e
 94209	is
 h
 ei
@@ -45140,6 +46349,7 @@ os
 94242	hn
 an
 94245	omen
+e
 94248	ai
 94250	ou
 94253	wn
@@ -45318,6 +46528,7 @@ a_s
 w=|
 94646	os
 ew^s
+a
 94650	o
 ma
 w|
@@ -45407,6 +46618,7 @@ ei=n
 94869	w
 a_
 w|
+on
 94874	ou=nta
 h
 94877	matos
@@ -45453,6 +46665,7 @@ ei
 ou
 94955	h
 94957	ous
+i
 94961	eto
 94963	os
 94966	a_|
@@ -45481,6 +46694,7 @@ ou=sin
 ou=te
 95009	mata
 95011	ona
+i
 95015	hn
 on
 95018	u_mi
@@ -45584,6 +46798,7 @@ ete
 95218	hn
 ou=te
 95222	a
+on
 95226	hte
 95229	w=n
 h|
@@ -45611,6 +46826,7 @@ ei=
 w
 95267	ei=n
 ais
+on
 95272	hte
 wn
 95276	wn
@@ -45630,6 +46846,7 @@ w=n
 95311	ei+
 95314	a_|
 95316	h|
+w=s
 95319	a
 hn
 o/nta
@@ -45710,7 +46927,8 @@ ei=s
 95486	ei=tai
 w=
 95489	w|
-95493	ais
+95492	on
+ais
 w=
 a_
 95497	a_|
@@ -45795,9 +47013,11 @@ ei
 e/sqw
 95655	h|
 95657	ei=
+a
 95662	on
 ei=s
-95666	os
+95665	a_
+os
 95669	e/tw
 95674	hs
 a_/tw
@@ -45869,7 +47089,8 @@ ei=tai
 95813	ete
 ais
 95817	o/nws
-95820	in
+95819	a
+in
 e/sqw
 w
 95825	oi
@@ -45879,18 +47100,21 @@ w
 95841	esqe
 95843	w|
 95847	ete
-95852	ate
+95851	h|
+ate
 a
 95857	ois
 95860	on
 95862	os
 en
 95866	w=n
+95868	a
 95870	a_s
 95873	h
 95876	rtai
 95878	a_|
 95880	h|
+a
 95883	a_s
 95886	h
 95892	h
@@ -45940,7 +47164,8 @@ rtai
 wn
 96002	is
 wn
-96007	os
+96006	e
+os
 rtai
 96011	os
 96013	rtai
@@ -45952,6 +47177,7 @@ on
 96027	res
 96029	ou
 96031	amen
+a
 96034	ou
 96036	en
 96038	on
@@ -45960,7 +47186,8 @@ on
 96046	ontai
 96049	oi
 96051	ontai
-96053	os
+e
+os
 rtai
 96057	os
 96059	rtai
@@ -46054,7 +47281,8 @@ oi
 96257	w
 96259	w|
 96262	w|
-96266	on
+96265	a
+on
 a
 96269	w|
 96273	os
@@ -46208,6 +47436,7 @@ an
 ou
 ai
 96530	atai
+e
 96533	a_
 96535	a_n
 ei=
@@ -46280,7 +47509,8 @@ ontes
 96677	ais
 96679	a_s
 96683	ate
-96685	a_n
+a
+a_n
 ou
 os
 96690	w|
@@ -46528,7 +47758,8 @@ ou
 hmen
 97250	w|
 ote/rws
-97258	omen
+97257	a_
+omen
 97263	ete
 97266	ete
 w
@@ -46541,6 +47772,7 @@ esqe
 97289	a_|
 97291	ou
 97293	ou
+i
 97297	ei+
 o/mhn
 on
@@ -46558,7 +47790,8 @@ ei=n
 97333	a_|
 a/mhn
 97337	omai
-97339	ka
+a
+ka
 omai
 97346	i
 a=|
@@ -46650,6 +47883,8 @@ a_
 97571	w|
 97573	a_
 97578	o/nwn
+97580	ion
+on
 97583	asqai
 97585	ai
 97589	ote/ra_|
@@ -46785,6 +48020,7 @@ e/ws
 97892	ou
 ou
 97895	oume/nhn
+97898	on
 97900	a_
 97902	matos
 97905	h|
@@ -46792,7 +48028,8 @@ ou
 97911	ew^s
 a_
 w|
-97915	ei
+on
+ei
 97917	a_
 97919	hs
 h|
@@ -46804,6 +48041,7 @@ hs
 97938	ou/menon
 97940	hs
 w|
+on
 97944	on
 97946	h|
 ontes
@@ -46836,12 +48074,14 @@ ei
 98000	w|
 ei=tai
 98003	ws
+98005	a
 98007	htai
 h=s
 ma
 98012	a_n
 wn
 ei=tai
+a
 98018	h|
 98020	on
 ei=tai
@@ -46863,6 +48103,7 @@ ou/meqa
 98052	a_n
 98055	ou
 matos
+a_
 98059	ontes
 98061	a_n
 98064	hmen
@@ -46884,6 +48125,7 @@ ous
 98091	an
 in
 wn
+ion
 98096	ou
 98101	mme/non
 98103	on
@@ -46962,6 +48204,7 @@ ki
 98273	o
 ma
 98276	ew^s
+a
 98279	mme/non
 a
 98282	a
@@ -47047,7 +48290,8 @@ ou=men
 98476	ous
 ou=men
 98480	ou=men
-98482	ai
+on
+ai
 98485	matos
 98487	ai
 98490	on
@@ -47103,9 +48347,11 @@ a_
 98606	wn
 o/nti
 98609	e/nti
-98618	ka
+98617	a
+ka
 98621	amen
-98623	ka
+a
+ka
 on
 a_
 98628	omen
@@ -47240,7 +48486,8 @@ a_n
 98884	ois
 w
 h=te
-98890	esqe
+98889	h=
+esqe
 ou=ntes
 ois
 98895	h
@@ -47319,6 +48566,7 @@ omai
 99040	a_|
 99042	hi
 99044	ei+
+99046	i
 99048	o/ntwn
 99051	a_n
 a_n
@@ -47327,7 +48575,8 @@ in
 99056	c
 99061	o/menoi
 99063	ai
-99065	oi
+en
+oi
 99068	w=n
 99070	ous
 en
@@ -47344,7 +48593,8 @@ a_
 99099	in
 99102	on
 99105	on
-99111	h=nai
+99110	on
+h=nai
 99115	a
 99119	hi
 99121	omai
@@ -47359,9 +48609,11 @@ en
 99143	hte
 99145	an
 hte
-99149	on
+99148	a
+on
 99153	h=te
-99159	on
+99158	a
+on
 h
 an
 99163	a_n
@@ -47373,7 +48625,8 @@ on
 etai
 ou=
 99175	o
-99179	on
+99178	a
+on
 h=nai
 hn
 ato
@@ -47396,14 +48649,17 @@ ous
 99204	mati
 99208	a
 99213	antos
+e
 99217	e/ntos
 99221	h=nai
 99223	hn
+99230	ion
 99232	ou
 99235	meqa
 99239	ei+
 99241	ote/rws
-99243	hmen
+on
+hmen
 99246	a_|
 ou
 99249	tai
@@ -47442,14 +48698,16 @@ ew^s
 99329	a_
 99331	a_s
 wn
-99336	ous
+99335	a
+ous
 a_
 wn
 en
 99342	os
 99344	tos
 wn
-99348	in
+99347	a
+in
 w=
 99352	in
 oi
@@ -47575,9 +48833,11 @@ a_n
 99651	ou=men
 99653	a
 99655	on
-99657	ou
+ion
+ou
 a_
-99661	wn
+99660	ion
+wn
 amen
 99664	ois
 99666	on
@@ -47641,6 +48901,8 @@ a_n
 99819	a_n
 99823	a_n
 99827	wn
+ome/nws
+ome/nws
 99831	ei=
 99834	wn
 99836	ais
@@ -47729,7 +48991,8 @@ os
 w=
 100012	a_s
 100014	ou
-100017	on
+100016	a
+on
 100019	os
 100024	w=
 100027	e/omai
@@ -47738,11 +49001,13 @@ w=
 100036	omai
 ai
 100041	ome/nous
-100045	ka
+100044	a
+ka
 ou=ntas
 100048	ki
 100050	ou=ntes
-100053	ka
+100052	a
+ka
 o/meqa
 100057	a
 100059	a_s
@@ -47756,6 +49021,7 @@ ous
 ou=ntes
 100074	ma
 o/menon
+a
 100078	ew^s
 100080	ou
 100082	ontes
@@ -47769,7 +49035,8 @@ an
 hn
 100098	h=|
 100101	h
-100104	on
+100103	a
+on
 ete
 100108	en
 w|
@@ -47821,6 +49088,7 @@ ois
 100220	a
 o/meqa
 a_
+a
 100225	on
 100227	onos
 100229	en
@@ -47842,6 +49110,7 @@ ida
 ome/nhs
 100270	ew^s
 100274	h=nai
+a
 100277	ona
 100280	a_n
 100285	asqai
@@ -47900,7 +49169,8 @@ ws
 esqe
 omai
 100393	e/nai
-100396	wn
+100395	a=n
+wn
 100400	hs
 100402	w|
 100406	ei+
@@ -47910,6 +49180,7 @@ omai
 a
 100419	w=n
 100422	h=te
+100424	a=n
 100427	ou
 on
 100431	a_=s
@@ -47962,6 +49233,7 @@ ontai
 100546	oi
 hs
 100550	os
+100552	a
 100554	a
 wn
 100557	w
@@ -47972,13 +49244,15 @@ asqe
 100574	on
 100576	wmai
 100578	w=
-100581	on
+100580	a
+on
 w=
 100586	h|
 100590	ei+
 100592	ew^s
 100594	oi
 w=ntai
+a
 100598	ka
 100600	omai
 100603	esqe
@@ -47991,7 +49265,8 @@ oi
 100622	etai
 100626	on
 100628	ei
-100630	a_n
+a
+a_n
 w
 100635	amen
 100641	a=|
@@ -48141,7 +49416,8 @@ a
 100965	a_|
 ei=tai
 a
-100970	omai
+100969	on
+omai
 100973	ais
 100975	h|
 100979	is
@@ -48161,7 +49437,8 @@ w=n
 101009	on
 101012	asqai
 101015	a
-101018	wn
+101017	a=n
+wn
 101025	a
 101027	ou
 h
@@ -48220,7 +49497,8 @@ mati
 amen
 101148	ois
 esin
-101151	ei=te
+ai
+ei=te
 101154	ou/meqa
 101156	ou
 101158	w|
@@ -48312,6 +49590,7 @@ w=men
 h=te
 101357	oi
 101361	a/meqa
+101363	a
 101365	a_s
 a_
 101369	a_s
@@ -48320,9 +49599,11 @@ omen
 101377	oi
 101381	o/meqa
 101384	in
+a_
 101389	w
 101393	ws
 wmai
+a
 101397	a_n
 101400	os
 en
@@ -48357,6 +49638,7 @@ matos
 101458	os
 os
 101462	wn
+e
 101465	ou
 a_
 101468	ou
@@ -48383,6 +49665,7 @@ on
 101512	nos
 101514	w=tos
 ou
+a
 101518	ma
 101520	ou
 101522	ros
@@ -48427,7 +49710,9 @@ os
 101620	oi
 101622	on
 101624	e/n
-101631	on
+101630	a
+on
+e
 101636	ou
 on
 o
@@ -48470,7 +49755,8 @@ on
 101715	e/mhn
 ki
 101718	mati
-101720	on
+e
+on
 101722	a
 101727	ous
 a_
@@ -48494,6 +49780,7 @@ a_s
 101764	ou
 101767	w
 101769	ou=
+ion
 101772	ou
 101775	omai
 101777	on
@@ -48521,7 +49808,8 @@ a_n
 101829	a_
 101832	on
 hn
-101836	in
+101835	a
+in
 101838	e/mhn
 ois
 101841	on
@@ -48532,7 +49820,8 @@ ois
 101855	on
 w
 101858	on
-101861	os
+101860	e
+os
 101865	n
 101867	h
 h=nai
@@ -48544,6 +49833,7 @@ ai
 101881	omen
 101883	w|
 101887	ou=sin
+101889	e
 101891	a_n
 amen
 101894	h|
@@ -48561,7 +49851,8 @@ ou
 101924	ou=ntes
 101926	ento
 a_
-101929	o/ntes
+ion
+o/ntes
 101931	mai
 101933	on
 101935	a_s
@@ -48597,7 +49888,8 @@ o
 101999	en
 a_s
 102002	an
-102004	on
+a
+on
 w|
 hn
 102008	sme/nos
@@ -48696,7 +49988,8 @@ on
 102200	ou
 h
 102203	os
-102205	en
+a=n
+en
 102207	oi
 ai
 102211	en
@@ -48721,6 +50014,8 @@ mati
 ei=sqe
 a
 ete
+h|
+102249	h|
 102252	w=n
 102255	ma
 102257	wn
@@ -48793,9 +50088,11 @@ os
 wmen
 102417	ew^s
 oi
-102420	on
+a
+on
 w
-102423	ou
+w=s
+ou
 me/nhn
 hn
 102427	ei=
@@ -48805,9 +50102,11 @@ hn
 102438	mati
 ou
 102441	ei
+i
 102444	masin
 102447	wn
 102451	os
+i
 102454	mati
 102458	os
 102461	w
@@ -48840,6 +50139,7 @@ ei/s
 os
 102528	os
 102533	os
+a
 102536	w=n
 102538	ou
 102540	oito
@@ -48886,9 +50186,11 @@ hte
 on
 asqe
 102628	os
-102630	n
+e
+n
 102633	os
-102635	os
+e
+os
 102638	en
 102640	u
 102647	w|
@@ -48950,6 +50252,7 @@ ate
 102772	ois
 102775	o/ntes
 on
+on
 102779	e/ntes
 102781	ou
 102783	ete
@@ -48964,7 +50267,8 @@ ei=sqe
 102801	ous
 102803	ous
 ou=mai
-102809	a
+102808	h|
+a
 102812	esqe
 102819	oi
 e/omai
@@ -48975,7 +50279,8 @@ e/omai
 102838	on
 102842	ki
 102845	ate
-102847	ate
+e
+ate
 a_
 102850	on
 ou
@@ -49023,7 +50328,8 @@ a_
 102955	a_
 102958	a_s
 102964	hs
-102966	ka
+a
+ka
 tai
 102972	a_s
 102975	a_s
@@ -49040,6 +50346,7 @@ os
 103009	ei
 103013	wn
 hs
+103017	w
 103019	a_
 103023	hr
 103025	ptai
@@ -49052,14 +50359,18 @@ on
 103039	a
 103041	a
 103043	ou
+on
 103047	ou/shs
 103052	oi
+a
 103055	a_s
 a
-103063	ka
+103062	a
+ka
 ei/s
 en
-103068	ma
+103067	a
+ma
 103072	a_
 103074	ei
 103076	h
@@ -49160,6 +50471,7 @@ ois
 103266	w|
 tai
 103270	ei=s
+103272	i/on
 103278	ous
 ete
 103281	ete
@@ -49174,8 +50486,10 @@ kos
 103296	hte
 103299	c
 ei=
+a
 103303	matos
 103306	ma
+a
 103309	kos
 103312	ois
 ei=tai
@@ -49220,6 +50534,7 @@ s
 h
 is
 103385	a
+a
 103388	wn
 103391	os
 103395	ou
@@ -49275,7 +50590,8 @@ ei/tw
 103495	ou=nti
 103497	in
 ois
-103500	a=sqe
+h=
+a=sqe
 os
 103503	etai
 103507	h|
@@ -49300,6 +50616,7 @@ w|
 103544	w|
 omen
 103547	o/menoi
+a
 103551	on
 wmen
 w/meqa
@@ -49321,6 +50638,7 @@ on
 103585	w|
 103587	ou
 103589	wntai
+e
 103593	o/menoi
 oi
 on
@@ -49409,6 +50727,7 @@ a_s
 103760	ou
 ou
 103763	on
+a
 103766	a_n
 103768	matos
 ou
@@ -49424,6 +50743,7 @@ ou
 ou
 103792	in
 103794	ma/twn
+a
 103797	os
 103799	itos
 ou
@@ -49435,6 +50755,7 @@ a_s
 103813	on
 103815	matos
 ou
+a
 103819	a_n
 ou
 103822	eto
@@ -49449,8 +50770,10 @@ asqai
 103847	w|
 103851	hmen
 e/ntes
-103854	in
+a
+in
 103858	ou=ntos
+a
 103861	hn
 103863	matos
 ou
@@ -49476,6 +50799,7 @@ hte
 103914	on
 103916	hs
 ou
+a_
 103921	a_s
 103925	in
 103928	w|
@@ -49515,6 +50839,7 @@ os
 104004	ew^s
 ou
 104009	ontas
+a
 104012	an
 104014	ous
 104016	uos
@@ -49555,8 +50880,10 @@ oume/nou
 104095	ais
 104099	e
 ate
+a
 104103	na
 104105	ou
+104107	a
 104109	onta
 104111	a_s
 104113	ros
@@ -49640,7 +50967,8 @@ ida
 104293	oi
 104296	w|
 104300	w|
-104307	hte
+104306	a=n
+hte
 104311	mati
 104313	ou
 os
@@ -49674,6 +51002,7 @@ a_s
 104372	w|
 104374	w/n
 104376	hn
+104379	a=n
 104381	hn
 104386	ou
 omen
@@ -49716,7 +51045,8 @@ ou
 104468	itos
 104470	ou
 104472	ei/shs
-104478	in
+104477	a
+in
 h
 104482	on
 104484	a
@@ -49744,10 +51074,12 @@ ou
 104535	ou
 104537	hn
 os
+a
 104541	a_n
 104543	itos
 104545	ou
 104547	ei/shs
+104549	a
 104551	an
 104553	ew^s
 ou
@@ -49775,7 +51107,8 @@ os
 104606	os
 a_
 104609	ou
-104611	in
+a
+in
 104613	nwn
 104615	en
 104618	w|
@@ -49798,6 +51131,7 @@ a_
 104667	h=s
 etai
 104670	w=|
+104672	a
 104674	os
 104676	hs
 ou
@@ -49831,8 +51165,10 @@ hn
 104735	ou
 104738	ame/nw|
 104741	ai
+ou=
 104744	ou/meqa
 104746	ou=men
+a
 104749	in
 104751	oume/nhn
 104754	w|
@@ -49879,6 +51215,7 @@ is
 104845	w|
 104847	h
 104849	is
+a
 104852	on
 104854	a_s
 104856	ou
@@ -49992,11 +51329,13 @@ ate
 hte
 105094	a
 105098	e/sqai
+105100	a
 105102	a=n
 hn
 105105	on
 on
 105108	o/menon
+a
 105111	a_s
 105113	hs
 ou=sqai
@@ -50005,7 +51344,8 @@ ou=sqai
 105122	asqai
 105124	on
 on
-105128	on
+105127	a
+on
 e/nta
 105131	h|
 105133	ti
@@ -50015,7 +51355,8 @@ e/nta
 ei=te
 an
 os
-105146	ou
+105145	i/on
+ou
 105149	wn
 h
 esqe
@@ -50028,6 +51369,7 @@ on
 105166	w|
 105168	wn
 105170	e/tw
+on
 105173	a_/tw
 o/menos
 105176	ais
@@ -50100,7 +51442,8 @@ ois
 105305	a_
 105308	en
 a_
-105311	a_
+on
+a_
 105315	ontes
 105318	os
 105320	os
@@ -50140,8 +51483,10 @@ ontes
 105394	ois
 105396	ois
 105398	ous
+on
 105402	ete
-105406	o/mena
+105405	h|
+o/mena
 105408	wn
 on
 105412	ein
@@ -50158,6 +51503,7 @@ e
 105438	ei=
 105441	os
 ete
+105444	ws
 105446	ei=te
 105449	oi
 105452	oi
@@ -50289,6 +51635,7 @@ h
 105741	h=|
 os
 105745	h=s
+i
 105748	eres
 105750	ete
 105752	a
@@ -50300,7 +51647,8 @@ a
 ou
 105763	oi
 ete
-105767	ka
+105766	a
+ka
 ois
 105770	ou
 105772	ou
@@ -50326,6 +51674,7 @@ on
 105816	ou
 105818	os
 105820	os
+i
 105823	oi
 105825	a
 ei=te
@@ -50508,7 +51857,9 @@ ou
 ou
 106240	omai
 106243	h
-106249	h|
+106246	on
+106248	on
+h|
 106251	ei+
 106253	hi
 ei+
@@ -50529,6 +51880,7 @@ ou
 ein
 106284	omai
 oi
+106290	on
 106292	hn
 106294	ou
 en
@@ -50585,6 +51937,7 @@ a_
 106406	matos
 ou
 ou
+a
 106411	a_n
 106413	ida
 106418	h/somai
@@ -50611,7 +51964,8 @@ wn
 106473	ai
 106476	w|
 106478	w|
-106481	on
+106480	on
+on
 106484	ein
 106486	ki
 o/teron
@@ -50681,7 +52035,8 @@ ontes
 oi_
 106641	ou=ntes
 106644	a_n
-106647	a_n
+106646	a
+a_n
 a_
 106650	h|
 ous
@@ -50749,6 +52104,7 @@ ros
 106762	on
 a_
 106765	w|
+on
 106769	a_|
 106772	ou
 106774	ou
@@ -50784,6 +52140,7 @@ ontes
 ou
 106833	on
 on
+e
 106837	on
 a
 a_
@@ -50820,7 +52177,8 @@ on
 106915	on
 106919	w
 ai
-106928	a
+106927	hs
+a
 106931	w|
 106934	os
 106936	omai
@@ -50903,18 +52261,22 @@ in
 os
 e/nai
 107098	ki
-107101	h|
+107100	on
+h|
 os
 107104	ous
 107106	hs
 107108	os
 107110	wn
-107112	on
+a
+on
 os
-107115	os
+a
+os
 wn
 107118	a_n
-107120	hn
+a
+hn
 107123	w|
 o/menos
 os
@@ -50962,8 +52324,10 @@ ou
 107209	w
 107212	in
 107215	wn
-107219	on
-107222	mai
+107218	h
+on
+107221	h
+mai
 w
 107227	w
 107233	ou
@@ -50971,18 +52335,23 @@ ou
 oi
 107239	omai
 e/nai
-107246	o/menos
-107250	o/menos
-107252	on
+107245	w
+o/menos
+107249	e/n
+o/menos
+a
+on
 w
 107256	on
-107259	ew^s
+107258	w
+ew^s
 107261	ou
 107263	w|
 107265	oi
 107267	oi
 107269	w=men
-107274	ei=te
+107273	ws
+ei=te
 107278	os
 107280	ei=
 h=n
@@ -51028,6 +52397,7 @@ on
 107363	mati
 107365	hs
 ou
+a
 107369	an
 107371	asqai
 on
@@ -51110,6 +52480,8 @@ a
 107528	hs
 107532	hn
 107535	w|
+ws
+107538	h
 107540	ete
 107544	ei=n
 107548	ei=te
@@ -51169,6 +52541,7 @@ on
 107674	ei=
 an
 a_n
+107678	a
 107680	os
 ou
 107683	h|
@@ -51249,6 +52622,7 @@ ou
 107858	a_s
 107862	hn
 107864	mati
+a_
 107871	a_s
 amen
 107874	o/meqa
@@ -51276,6 +52650,7 @@ ou=ntes
 107912	hi
 ei+
 ou/menoi
+a
 107917	os
 107919	hs
 ou
@@ -51393,6 +52768,7 @@ ou
 108176	a_
 108178	o/mhn
 108180	os
+a
 108183	a_n
 108185	ou
 108187	ei=san
@@ -51429,6 +52805,7 @@ on
 108257	w|
 108261	w=
 o/menos
+a
 108265	an
 ou
 108268	oume/nhn
@@ -51488,11 +52865,14 @@ ete
 108397	a_s
 108399	hs
 hs
+a
 108403	in
 108405	wn
+a
 108408	a
 108410	ou
-108414	on
+108413	a
+on
 108417	w|
 ei=
 108421	ma
@@ -51548,6 +52928,7 @@ en
 a_s
 ous
 108531	w|
+h=
 108536	e/tw
 108538	ei+
 108541	ei+
@@ -51566,7 +52947,8 @@ wn
 108569	wn
 108571	en
 wn
-108574	ou/menos
+h|
+ou/menos
 108577	os
 108579	kos
 ou
@@ -51587,11 +52969,13 @@ ei
 108615	w=ntes
 108617	w|
 esqe
-108620	h|
+h=
+h|
 108622	h|
 108624	h|s
 108629	a_n
 108631	ei+
+a
 108634	mata
 108636	a_s
 108638	wn
@@ -51606,12 +52990,14 @@ matos
 108659	kos
 108662	hte
 108664	w|
-108667	ei=te
+108666	w
+ei=te
 108670	os
 108673	a_|
 108675	ou
 menos
-108679	ei=te
+108678	w
+ei=te
 108684	h=s
 ete
 108689	h
@@ -51737,6 +53123,7 @@ ri
 108946	a
 ete
 108949	eusin
+a
 108954	on
 108957	w|
 108959	eres
@@ -51745,7 +53132,9 @@ ete
 108967	w=sin
 108969	oi
 ete
-108975	ka
+a
+108974	a
+ka
 ois
 108981	oi
 108984	ti
@@ -51782,6 +53171,7 @@ ou=ntes
 109047	h|
 109049	a_|
 o/menoi
+a
 109057	os
 h|
 109060	a_n
@@ -52008,7 +53398,9 @@ a/meqa
 ni
 109560	is
 109564	hs
+e
 109567	a_s
+e
 109570	w|
 a_
 109573	smeqa
@@ -52088,6 +53480,7 @@ ou=ntes
 109729	ou
 an
 109732	a_n
+i
 109738	ou=men
 109740	w|
 ws
@@ -52226,7 +53619,8 @@ ou=nai
 110074	ou
 110076	ktos
 110078	a_s
-110080	eo/menoi
+ou=
+eo/menoi
 110083	ei=n
 110086	on
 110088	ai
@@ -52267,6 +53661,7 @@ w=men
 w|
 110183	ei=te
 110185	hte
+on
 110190	a_s
 amen
 110195	ou
@@ -52326,6 +53721,7 @@ o
 ou=men
 110321	oi
 ein
+on
 110325	ei=sqai
 ein
 110328	ein
@@ -52377,6 +53773,7 @@ ontai
 on
 110438	w=ntes
 110440	o/menoi
+a
 110443	ois
 hso/meqa
 110446	ais
@@ -52395,6 +53792,7 @@ oi
 ete
 110478	esqai
 oi
+110481	ws
 110484	a_
 ou
 110487	hs
@@ -52420,7 +53818,8 @@ tos
 110534	oi
 a_s
 110538	ktos
-110540	ous
+e
+ous
 110544	wmen
 110547	oi
 a_
@@ -52453,6 +53852,7 @@ ou
 110595	o/ntos
 110600	w=men
 110602	wmen
+a
 110605	w|
 wmen
 110608	ei=te
@@ -52647,6 +54047,7 @@ ew^s
 110998	ou
 111000	ou
 111006	w|
+a
 111009	in
 111011	ou
 111014	ou
@@ -52670,6 +54071,7 @@ ou
 111061	a_
 111063	ou
 111067	h|
+a
 111070	on
 111074	h|
 111076	a_
@@ -52699,7 +54101,8 @@ on
 111132	ou
 w|
 111136	on
-111138	ei=tai
+h
+ei=tai
 111140	a_s
 on
 111143	wn
@@ -52770,6 +54173,7 @@ hs
 111274	ou
 111276	ou
 ou
+a
 111280	oi
 ete
 111283	ei=te
@@ -52835,13 +54239,16 @@ esqai
 111422	ou
 ws
 ou=ntos
+111427	a
 111429	in
 111431	ete
 111434	oi
 111438	ei=
 ei=sqai
 111443	amen
-111448	on
+111446	e
+a=n
+on
 omen
 111454	w|
 111456	w|
@@ -52942,6 +54349,7 @@ ois
 ois
 111658	eis
 ousin
+on
 111662	a_n
 ou
 111666	ei+
@@ -52987,6 +54395,7 @@ ois
 111743	ou/sh|
 a_|
 ei=tai
+a
 111748	on
 111750	hs
 111752	ou
@@ -53057,6 +54466,7 @@ hn
 emai
 111871	on
 e
+a
 111875	ou/sa_s
 111878	a_s
 111880	h|
@@ -53094,6 +54504,7 @@ a_|
 111941	ti
 111943	on
 111945	on
+ion
 111948	ros
 111950	ou
 111953	ous
@@ -53154,7 +54565,8 @@ e/tw
 h|
 ein
 112056	w
-112058	ei=n
+e
+ei=n
 112063	a_|
 112066	os
 h
@@ -53271,6 +54683,7 @@ w=ntos
 os
 112273	ma
 112275	a_s
+112277	oume/nws
 112282	a_s
 on
 112285	h
@@ -53428,6 +54841,7 @@ ei=n
 o/nai
 112565	ois
 112569	on
+ion
 112572	ou
 112576	a_
 112578	me/nh
@@ -53479,6 +54893,7 @@ ma
 112665	hn
 in
 an
+a
 112671	ai
 ousin
 o/menai
@@ -53500,7 +54915,9 @@ hn
 o/nai
 112699	me/nw|
 a_s
+112702	h
 112705	hsan
+w
 112711	h
 ei
 a_s
@@ -53527,17 +54944,20 @@ ei
 112751	hs
 112753	ou
 ou
-112756	ou
+a
+ou
 a_n
 112759	ou
 112766	i/wn
 wn
 112769	ontas
+ion
 112772	e
 112776	oi
 on
 wsin
 omai
+ion
 112782	ou
 112784	ou
 ou
@@ -53546,7 +54966,8 @@ wn
 112792	h|s
 112794	matos
 112796	i/wn
-112798	in
+a
+in
 112802	ei
 112804	ei
 ais
@@ -53570,7 +54991,8 @@ oi
 112840	a
 112842	a
 a
-112847	onta
+112846	w=s
+onta
 h=nai
 112850	antai
 oi
@@ -53592,7 +55014,8 @@ a_s
 112879	ei/twsan
 112881	oi
 112883	a_
-112885	e/twsan
+on
+e/twsan
 112887	oi
 112890	oi
 112893	a_s
@@ -53634,7 +55057,8 @@ on
 112956	a_s
 112959	amen
 112962	on
-112965	ei=n
+112964	e
+ei=n
 112967	a/meqa
 ontes
 112970	a_s
@@ -53683,9 +55107,11 @@ hs
 113047	as
 113049	hn
 a_n
-113052	wn
+ion
+wn
 wn
 w
+ion
 113057	ou
 113059	ou=ntos
 113063	ou
@@ -53719,7 +55145,8 @@ a_n
 on
 113112	en
 113114	wn
-113116	ei=n
+e
+ei=n
 atai
 113119	h
 113121	os
@@ -53825,6 +55252,7 @@ a_
 ew^s
 113314	hs
 113316	ou
+h=
 113319	h=|s
 113321	on
 113323	ou
@@ -53833,15 +55261,18 @@ ou
 a_
 on
 113333	w|
-113335	in
+a
+in
 ou
 113338	antos
 113341	antos
 ei+
 a_|
+113345	a
 113347	a
 113349	a_
-113351	a=n
+a
+a=n
 in
 113354	in
 113356	ei=san
@@ -53961,6 +55392,7 @@ on
 rme/non
 113592	wn
 113594	matos
+113596	a
 113598	on
 113602	w=
 113604	wn
@@ -53995,6 +55427,7 @@ asqai
 113659	atai
 113661	e
 o/menos
+ion
 113665	ou
 113667	ei=n
 113670	on
@@ -54026,7 +55459,8 @@ ei=
 an
 ontes
 in
-113719	e/nai
+h
+e/nai
 113721	ousin
 113724	in
 113727	os
@@ -54134,6 +55568,7 @@ ai
 eis
 me/noi
 oi
+on
 113903	oi
 ontes
 in
@@ -54234,6 +55669,7 @@ os
 on
 sme/nos
 omai
+ion
 114106	ou
 114108	ou
 ou
@@ -54261,6 +55697,7 @@ a_|
 a_s
 114146	ontai
 a_
+a
 114150	a_s
 a_s
 ois
@@ -54281,7 +55718,8 @@ on
 ou
 114181	a_n
 114183	on
-114187	omai
+114186	h
+omai
 114190	os
 114192	ew^s
 114194	en
@@ -54342,9 +55780,11 @@ ato
 ei=
 w|
 114306	os
+a
 114309	a
 ou
 114314	ou
+a=n
 114317	h
 114319	ois
 ois
@@ -54404,7 +55844,8 @@ ou
 os
 114435	ou
 ou
-114438	in
+a
+in
 wn
 ou
 114442	in
@@ -54431,7 +55872,8 @@ ou
 w|
 w|
 w|
-114481	hn
+a
+hn
 in
 is
 114485	h
@@ -54445,7 +55887,8 @@ ou
 114503	onta
 h|
 114506	h|s
-114508	in
+a
+in
 ous
 114513	a/mhn
 114517	os
@@ -54474,6 +55917,7 @@ on
 on
 h
 o/menon
+114558	a
 114560	hn
 ou
 ou
@@ -54692,6 +56136,7 @@ h
 114930	h|
 114932	amen
 114934	a_
+a
 114937	ou
 os
 en
@@ -54750,6 +56195,7 @@ w/s
 on
 ei=n
 115039	in
+ei
 115042	a
 ai
 a=n
@@ -54828,7 +56274,8 @@ wn
 ein
 115204	on
 115207	hn
-115209	w=
+on
+w=
 os
 115213	os
 hs
@@ -54855,10 +56302,13 @@ a
 hs
 115275	a
 ai
-115281	hn
+115280	a
+hn
 115283	on
 115286	a_
-115288	on
+a
+on
+a_
 115293	h
 115295	a_n
 115297	on
@@ -54870,6 +56320,7 @@ a_
 on
 on
 115310	w|
+115312	on
 115316	ki
 115319	w|
 115323	eis
@@ -54898,6 +56349,7 @@ w/s
 115375	w/s
 115380	w
 ei=s
+a
 115385	e
 115387	a_n
 w
@@ -54918,6 +56370,7 @@ ou
 115421	matos
 115423	w=s
 115425	ws
+ai
 115428	os
 a_s
 115431	rasin
@@ -54968,7 +56421,8 @@ w|
 115527	on
 115530	hn
 ei
-115533	a/twsan
+i
+a/twsan
 w|
 115536	oi
 ou
@@ -55035,6 +56489,7 @@ o/mena
 115676	ontas
 ei=n
 a_n
+a_
 115681	ei=
 ote/rws
 ein
@@ -55071,6 +56526,7 @@ esin
 115737	matos
 ou
 ois
+a
 115742	ou
 in
 115746	ois
@@ -55180,6 +56636,7 @@ a_
 matos
 115958	etai
 115960	en
+a
 115964	ois
 h=nai
 115967	wn
@@ -55256,6 +56713,7 @@ hte
 116102	hte
 116104	a_s
 116109	w|
+a
 116112	a_n
 116114	ou
 116117	w|
@@ -55307,7 +56765,8 @@ wmen
 116219	hs
 ou
 hte
-116223	hte
+h=
+hte
 116225	a_s
 116230	w|
 116233	antes
@@ -55362,7 +56821,8 @@ ou
 e/ntwn
 en
 116349	hs
-116352	en
+116351	i
+en
 116354	os
 116357	a_|
 116359	h|
@@ -55434,7 +56894,8 @@ ew^n
 a_s
 116505	is
 hs
-116508	ou
+ion
+ou
 116511	a
 116513	sme/na
 116515	ois
@@ -55455,6 +56916,7 @@ e/a_
 ai
 116545	ais
 116547	sme/non
+116549	a
 116552	ta
 116554	a_s
 w/meqa
@@ -55510,6 +56972,7 @@ os
 ei
 116662	eus
 116665	na
+a
 116668	in
 116673	ais
 116675	kos
@@ -55541,6 +57004,7 @@ ou
 ei/s
 116721	ou
 eus
+a
 116725	in
 116732	os
 116734	os
@@ -55686,7 +57150,8 @@ ai
 en
 117001	ou
 wn
-117005	w=n
+117004	n
+w=n
 w=
 117009	wn
 w=
@@ -55694,6 +57159,7 @@ w=
 en
 117017	a_s
 oi
+117020	a
 117022	onos
 ousin
 117025	hs
@@ -55736,6 +57202,7 @@ h
 117088	os
 117091	en
 ous
+a
 117095	in
 117097	eus
 o/menos
@@ -55786,6 +57253,7 @@ ontes
 hn
 ousin
 117194	on
+a
 117197	on
 117201	ous
 wn
@@ -55805,6 +57273,7 @@ ei=tai
 ontes
 oi
 ousin
+ei
 117242	ou/menos
 117244	h=|
 117247	os
@@ -55823,10 +57292,12 @@ w|
 117282	hs
 tai
 117286	a_
+a
 117289	in
 117291	on
 a=sqai
 e/a_
+117296	a
 117298	in
 n
 esqai
@@ -55850,23 +57321,28 @@ en
 117338	e/wn
 117340	h=s
 en
-117343	o/teron
+i
+o/teron
 117345	on
+117348	a
 117350	ta
 117352	a=tai
 eus
 os
-117358	on
+117357	a
+on
 hs
 hs
 en
 a_
-117364	in
+a
+in
 hs
 ou
 ei=tai
 117371	eus
 117374	na
+a
 117377	in
 117379	is
 117382	etai
@@ -55881,6 +57357,7 @@ h
 117398	onos
 idos
 117404	w|
+i
 117407	on
 117410	a_s
 117415	a_s
@@ -55894,12 +57371,14 @@ os
 117432	h/setai
 117434	eus
 117437	na
-117439	o
+a
+o
 117441	onos
 hs
 en
 os
 ous
+i
 117449	ones
 117451	o/tes
 eis
@@ -55985,7 +57464,8 @@ ein
 117614	h=s
 117618	eus
 117621	o/ntwn
-117623	on
+a
+on
 117625	a
 117627	mati
 117629	a_|
@@ -55998,6 +57478,7 @@ ei=n
 117639	hn
 a_
 117643	ei=s
+117645	a
 117647	on
 117649	e/nta
 117653	ei+
@@ -56030,6 +57511,7 @@ os
 a_
 hn
 hn
+117705	a
 117707	hn
 117709	a
 117711	rasin
@@ -56140,7 +57622,8 @@ n
 onta
 117910	on
 117916	ein
-117918	os
+a
+os
 117922	sme/nwn
 117926	hn
 hn
@@ -56173,7 +57656,8 @@ in
 117988	ai
 ontai
 117991	a/menai
-117993	in
+a
+in
 ai
 117996	onta
 on
@@ -56196,6 +57680,7 @@ wn
 hs
 118025	ou
 118031	ew^s
+e
 118034	matos
 wn
 118037	wn
@@ -56217,6 +57702,7 @@ ei
 118068	kos
 ta
 w|
+on
 118073	ma
 118075	ou
 118078	matos
@@ -56232,6 +57718,7 @@ wn
 118094	ein
 w|
 w=nti
+i
 118100	hs
 hs
 hs
@@ -56258,12 +57745,14 @@ a_
 ei
 118141	h=|
 118143	e/menos
+118145	e
 118147	h
 118149	matos
 stai
 ei/shs
 118153	hs
 hs
+a
 118157	on
 118159	e/ws
 118162	w|
@@ -56291,6 +57780,7 @@ w=s
 en
 118216	mati
 118218	etai
+a
 118221	on
 118224	a_s
 118226	etai
@@ -56411,8 +57901,10 @@ wn
 118449	mata
 118452	a_s
 118454	as
-118456	as
-118459	on
+e
+as
+118458	a
+on
 ontai
 118462	en
 ou=
@@ -56429,6 +57921,7 @@ sme/noi
 118486	matos
 ou
 ou
+118490	i
 118493	eus
 en
 118496	a_n
@@ -56533,7 +58026,8 @@ wn
 118685	a_
 ou=ntes
 118688	w|
-118690	w|
+on
+w|
 ete
 118694	a_n
 ws
@@ -56612,7 +58106,8 @@ ous
 ona
 in
 118830	ousan
-118832	hte
+h=
+hte
 118835	a_n
 118838	ei
 hn
@@ -56709,7 +58204,8 @@ on
 ou
 119011	en
 119013	on
-119017	in
+119016	a
+in
 hs
 eto
 os
@@ -56763,7 +58259,8 @@ hsan
 119113	os
 119115	hs
 119117	os
-119119	in
+a
+in
 on
 119124	a/menoi
 119126	a_s
@@ -56857,7 +58354,8 @@ esqai
 os
 ros
 a/w
-119295	o/menos
+on
+o/menos
 ei=sqai
 119298	w|
 119300	ou
@@ -56913,6 +58411,7 @@ ei+
 ame/nh
 119387	ous
 119389	hs
+i
 119393	w
 ei=
 119397	ou/menon
@@ -56983,6 +58482,7 @@ w/menoi
 119498	ois
 119501	ais
 119503	h=s
+i
 119507	e/ntes
 119510	ew^s
 119512	anto
@@ -57068,12 +58568,14 @@ a_sin
 omen
 a_s
 119675	o/meqa
-119679	hso/meqa
+119678	on
+hso/meqa
 119681	ri
 119683	ma/twn
 119685	omen
 119690	a_s
 a_s
+a
 119694	ou=n
 ois
 on
@@ -57103,7 +58605,8 @@ ei=te
 119750	on
 h=|
 h=|
-119755	hn
+119754	on
+hn
 ete
 119761	on
 119765	etai
@@ -57114,7 +58617,8 @@ ou=ntes
 119776	ou
 119779	a_
 a_s
-119782	ousa
+w
+ousa
 h=|
 119787	w=sin
 119789	oi
@@ -57198,6 +58702,7 @@ ou=nti
 119927	h=s
 a/menoi
 119930	onta
+119932	on
 119937	wn
 o/menoi
 119941	h
@@ -57275,6 +58780,7 @@ ei=sqe
 120094	in
 ous
 os
+e_s
 120101	os
 120105	nas
 ais
@@ -57383,7 +58889,8 @@ ai_
 ou
 i/wn
 120315	on
-120317	ou
+ion
+ou
 120319	ou
 ou
 120323	a_
@@ -57443,6 +58950,7 @@ ei/tw
 120434	o/ntos
 ou
 in
+ws
 120440	ontos
 120442	h/setai
 w|
@@ -57524,7 +59032,8 @@ a_n
 ei=sa
 ei
 on
-120591	a=sqe
+h=
+a=sqe
 oi
 120594	oi
 a
@@ -57654,6 +59163,7 @@ hte
 120834	w|
 hte
 120837	hqi
+ei
 120843	on
 120846	hte
 120848	ois
@@ -57690,8 +59200,10 @@ ma
 120906	on
 ei=te
 on
+a
 120911	hn
 ei=s
+120914	i/on
 120918	ws
 ei=te
 120923	a_n
@@ -57706,9 +59218,11 @@ h|
 120941	en
 120943	os
 120946	w/n
-120948	h|s
+h=
+h|s
 en
-120952	h|s
+120951	h=
+h|s
 120956	eis
 eis
 120959	as
@@ -57833,7 +59347,8 @@ on
 121195	is
 121197	wn
 a_
-121201	oi
+121200	h=
+oi
 oi
 esqe
 oi
@@ -57963,6 +59478,7 @@ ete
 121436	a_|
 121439	a=sqe
 121441	esqe
+a
 121444	a_s
 121449	a_
 121451	ome/nh
@@ -57972,7 +59488,8 @@ h
 hs
 121458	os
 121460	a_
-121462	a_
+ei
+a_
 121465	on
 ma
 121470	a_
@@ -57993,8 +59510,10 @@ os
 etai
 121493	ou=sin
 hn
-121496	oi
-121499	ai
+en
+oi
+121498	en
+ai
 121506	w=n
 121509	ome/nwn
 121512	esin
@@ -58063,9 +59582,11 @@ h/tw
 121640	a_
 121642	an
 h=te
-121645	ou
+ion
+ou
 121647	ei=
-121650	ei=te
+121649	h=
+ei=te
 wn
 oi
 121654	w=n
@@ -58089,12 +59610,14 @@ hs
 ai
 121685	ai
 121691	wn
-121694	e
+121693	i/on
+e
 121697	ontes
 121701	o/meqa
 121705	in
 121707	omen
-121709	on
+ei
+on
 121711	o/meqa
 121713	omen
 121716	asqe
@@ -58308,7 +59831,8 @@ a_s
 a_s
 a_s
 122129	a_s
-122131	in
+a
+in
 ou
 ros
 122135	w|
@@ -58327,6 +59851,7 @@ os
 122155	ou
 122157	ou
 ou
+122160	a
 122163	ou
 os
 a_s
@@ -58432,6 +59957,7 @@ hs
 122353	a_|
 122355	ais
 a_
+a
 122359	anta
 122361	on
 122363	oi
@@ -58446,6 +59972,7 @@ esqe
 122378	era
 ei=sqe
 122382	onta
+a
 122385	ou
 on
 122388	w|
@@ -58620,6 +60147,7 @@ esqai
 122688	wn
 wn
 122691	ontai
+a
 122694	hs
 122696	hn
 122700	esin
@@ -58704,7 +60232,8 @@ on
 ou
 122851	a_n
 122853	en
-122855	h
+e
+h
 os
 122859	mati
 ou
@@ -58759,6 +60288,7 @@ os
 122965	e/ws
 122967	ou
 matos
+122971	ion
 122973	ou
 es
 122980	ai
@@ -58781,7 +60311,8 @@ a_n
 in
 123011	w=s
 ou=ntes
-123014	in
+a
+in
 123016	este/rw|
 ei+
 123019	w|
@@ -58803,6 +60334,7 @@ on
 123047	ou
 123049	a_n
 123051	a_s
+ion
 123054	ou=ntes
 123058	hte
 123060	a_n
@@ -58837,6 +60369,7 @@ on
 123107	ou
 123109	ou=ntas
 a
+i
 123114	w=n
 123118	ou
 ai
@@ -58971,10 +60504,12 @@ w=ntas
 123353	ous
 123358	ois
 123361	w=si
-123364	ous
+123363	a
+ous
 ki
 w=si
-123369	on
+123368	a
+on
 mati
 123374	os
 123376	ate
@@ -59069,6 +60604,7 @@ w|
 123566	os
 123568	ei=tai
 123572	ontes
+a
 123575	ma
 123577	ou
 w|
@@ -59091,7 +60627,8 @@ os
 123614	ws
 a_
 ws
-123618	on
+a
+on
 123620	w=s
 a_
 w=s
@@ -59169,7 +60706,8 @@ w|
 123744	nas
 123746	nwn
 hn
-123749	ou
+a_
+ou
 123752	ou
 ou
 123755	omai
@@ -59259,7 +60797,8 @@ ate
 123929	onta
 123931	onta
 123933	ous
-123935	ous
+e
+ous
 hsin
 123940	ou
 123942	ou
@@ -59270,9 +60809,11 @@ in
 hn
 w/n
 123956	ou
-123959	ou
+123958	ai
+ou
 w=n
-123963	oi
+123962	on
+oi
 ate
 a_n
 123968	in
@@ -59411,6 +60952,7 @@ ois
 ois
 124224	ontai
 124227	ma
+ai
 124230	ei=
 124233	a
 wn
@@ -59474,7 +61016,8 @@ ous
 ew^s
 ome/nous
 ei=n
-124326	kos
+124325	w
+kos
 124328	a_|
 ou
 ome/nous
@@ -59618,7 +61161,8 @@ ma
 124547	ame/nh
 124549	on
 ou
-124553	oi
+124552	h
+oi
 a_n
 124556	w
 hn
@@ -59642,6 +61186,7 @@ ontes
 124593	wn
 124595	h|
 ai
+a
 124599	a_s
 a_s
 wn
@@ -59660,6 +61205,7 @@ ei
 124628	ontas
 124630	oi
 a_n
+ai
 124634	h=
 124640	w=sa
 124643	ou
@@ -59736,6 +61282,7 @@ ous
 124775	ous
 124777	h=n
 hn
+a
 124781	ma
 ou
 w=men
@@ -59756,6 +61303,7 @@ ei=sqe
 124811	os
 124813	os
 os
+a
 124817	ei=san
 w|
 a_n
@@ -59825,6 +61373,7 @@ ou
 124969	omen
 124973	a_
 124976	me/nh
+i
 124981	a_
 124983	amen
 124985	ou
@@ -59948,7 +61497,8 @@ w
 etai
 125246	s
 125248	on
-125250	ei
+h
+ei
 125252	wn
 125255	ti
 125259	on
@@ -60004,7 +61554,8 @@ a
 125365	ei
 125367	ate
 125369	on
-125371	a=te
+h=
+a=te
 125373	on
 125378	w|
 125381	a=|
@@ -60066,6 +61617,7 @@ ete
 125543	on
 125546	ou/menos
 125548	on
+e
 125551	era
 ei
 125554	w=n
@@ -60103,6 +61655,7 @@ ei
 125644	en
 125646	ete
 125648	w|
+i
 125651	a
 ete
 125654	w|
@@ -60166,7 +61719,8 @@ wn
 125785	wn
 125787	en
 on
-125790	en
+e
+en
 on
 a
 125794	a_/tw
@@ -60228,7 +61782,8 @@ a
 125925	ou
 ou
 a
-125929	ete
+h=
+ete
 oi
 125932	ei=
 125935	os
@@ -60307,7 +61862,8 @@ omen
 ou
 ou=men
 126098	a
-126100	ou
+ion
+ou
 ou=men
 126106	h
 ou
@@ -60361,6 +61917,7 @@ o/ta
 126212	ate
 126214	etai
 126219	w|
+126221	h
 126225	ou
 126227	a
 126229	ate
@@ -60630,10 +62187,12 @@ on
 126865	ma
 126867	ou
 126869	ou
+i
 126874	a_
 126876	omen
 126878	on
 126882	w/meqa
+a
 126885	ma
 ou
 ei
@@ -60725,6 +62284,7 @@ ou
 127083	a_|
 127085	h|
 hn
+a=n
 127089	a
 127092	wn
 127094	ou=ntas
@@ -60743,6 +62303,7 @@ a_
 ous
 127126	h
 127128	w=men
+a
 127131	a_s
 ou
 127135	h
@@ -60826,7 +62387,8 @@ e
 127291	ou=tai
 127294	h
 hn
-127298	ome/nwn
+127297	a=n
+ome/nwn
 wn
 127301	ou/ntwn
 127304	a_|
@@ -60848,7 +62410,8 @@ ei=s
 127335	ous
 127337	an
 127340	h|
-127342	a_s
+ion
+a_s
 127344	ws
 ei=s
 a_s
@@ -60954,7 +62517,8 @@ esqai
 ei+
 an
 127541	oi
-127544	mme/noi
+127543	ai
+mme/noi
 127548	ma
 eis
 127552	ou
@@ -61000,7 +62564,8 @@ eis
 on
 127623	a_sai
 127625	ou=sai
-127627	kos
+w
+kos
 a_s
 ntai
 ma
@@ -61086,6 +62651,7 @@ sin
 ou
 ai
 in
+a
 127773	ai
 127776	eis
 127780	wn
@@ -61099,6 +62665,7 @@ oi
 eis
 127798	ai
 oi
+a
 127802	a_s
 wn
 o/menoi
@@ -61122,6 +62689,7 @@ ou
 127837	ou
 ontai
 ai
+a
 127842	wn
 a_s
 o/menoi
@@ -61225,6 +62793,7 @@ is
 128020	h
 128029	o/menos
 128034	ma/twn
+128036	ion
 128038	ou
 ou
 128042	ou
@@ -61292,6 +62861,7 @@ o/mhn
 128178	h|
 a_|
 128181	a
+w
 128184	hn
 hn
 128187	gos
@@ -61307,7 +62877,8 @@ on
 128209	a_
 128212	eis
 128215	a_n
-128220	a
+128219	i
+a
 ein
 128223	hn
 128225	ei
@@ -61360,6 +62931,7 @@ ou
 ei
 128317	ei+
 ou
+i
 128321	on
 on
 a
@@ -61369,7 +62941,8 @@ a
 128333	a=n
 ou
 128337	wn
-128339	ou=
+h=
+ou=
 128343	os
 128346	os
 128349	w=n
@@ -61429,10 +63002,12 @@ eis
 128481	ma
 128486	a_
 w
+a
 128492	hn
 128495	hn
 es
 e
+128499	en
 128502	on
 128505	a
 a
@@ -61461,6 +63036,7 @@ ei=n
 128556	hs
 128561	w|
 128563	ou
+i
 128566	w|
 128569	h|
 a_s
@@ -61508,6 +63084,7 @@ ei
 128656	h=|
 128659	ou
 128661	ou
+i
 128664	w|
 128667	w|
 a_s
@@ -61530,13 +63107,16 @@ a_s
 128711	h
 128717	ei=
 128719	w
+a
 128722	a
 128724	eis
-128726	ou=ntas
+ei
+ou=ntas
 128728	hn
 128731	en
 128734	ei=n
 on
+ion
 128738	wn
 128740	ei=n
 a
@@ -61571,6 +63151,7 @@ ma
 on
 mme/non
 128808	wn
+i
 128811	w|
 128815	a_s
 on
@@ -61596,6 +63177,7 @@ ona
 128862	wn
 a_
 w
+a
 128873	ousa
 hn
 in
@@ -61637,6 +63219,7 @@ ous
 128940	a_s
 128942	w=
 128944	w|
+a
 128947	a
 128951	w
 128953	ois
@@ -61653,6 +63236,7 @@ h=n
 128980	ete
 ate
 128985	w
+i
 128988	w=n
 128991	w=n
 128993	ous
@@ -61678,6 +63262,7 @@ w|
 129035	ma
 ei
 129038	ais
+i
 129041	w|
 129044	esin
 a_s
@@ -61701,6 +63286,7 @@ ei=n
 129083	a
 129085	a
 me/na
+ion
 129089	ou
 129091	e
 129094	as
@@ -61737,7 +63323,9 @@ ou
 129158	w=
 129160	ma
 ou
+ion
 129164	ros
+129167	ion
 129169	wn
 ou
 129172	wn
@@ -61745,6 +63333,7 @@ ou
 129177	ma
 ei
 129180	ais
+i
 129183	w|
 129186	a_|
 a_s
@@ -61761,6 +63350,7 @@ on
 129213	a
 ou=
 a
+ion
 129218	a_n
 129222	atai
 ai
@@ -61785,6 +63375,7 @@ w=
 ous
 129261	ou=sin
 129263	ou=sin
+ion
 129269	w=sin
 129272	a
 129275	as
@@ -61831,6 +63422,7 @@ on
 129371	ma
 ei
 129374	ais
+i
 129377	w|
 129381	a_s
 on
@@ -61949,9 +63541,11 @@ ei+
 w|
 129631	ou
 ous
-129634	ras
+o/si
+ras
 129638	ous
-129640	ras
+o/si
+ras
 ous
 me/nous
 me/nous
@@ -61969,9 +63563,11 @@ ai
 129666	des
 ros
 o/menai
+ion
 129671	ou
 129676	mata
 129678	ou
+129680	ion
 129682	ou
 129684	a
 h
@@ -61985,6 +63581,8 @@ ra
 a
 onta
 wn
+e/n
+129703	en
 129706	on
 129708	on
 on
@@ -62007,8 +63605,10 @@ ome/nw|
 a
 129740	wn
 wn
-129743	gas
-129748	ousin
+a_
+gas
+129747	en
+ousin
 wn
 129751	in
 129753	ousin
@@ -62022,6 +63622,7 @@ os
 129763	os
 129765	wr
 129773	o/menos
+i
 129776	ou=sin
 129778	a
 a_n
@@ -62033,8 +63634,10 @@ a_n
 129793	nas
 129795	nwn
 ou=ntai
-129799	res
+129798	o/si
+res
 oi
+ion
 129803	me/nou
 129806	ou
 129808	ou=sin
@@ -62044,6 +63647,7 @@ oi
 129817	ou=sin
 129819	ous
 wn
+ion
 129823	ou
 ontes
 os
@@ -62057,13 +63661,16 @@ os
 129850	ma
 129852	a_n
 129854	hsan
-129856	on
+i
+on
 129859	a=n
 129861	me/nou
 129864	ou
 on
 mme/non
-129870	sme/non
+en
+129869	en
+sme/non
 i_sin
 129874	on
 on
@@ -62079,7 +63686,9 @@ ai
 ou
 129893	ato
 129896	w|
+e
 129900	h=s
+e
 129904	h=s
 ai
 129907	on
@@ -62094,7 +63703,8 @@ ai
 o
 129928	wn
 ei
-129932	e
+129931	h=
+e
 ou=
 en
 129936	wn
@@ -62105,7 +63715,8 @@ a_
 129947	on
 129951	i_das
 ou
-129954	on
+i
+on
 129956	w|
 129958	ou
 129961	rwn
@@ -62127,13 +63738,16 @@ lme/noi
 129996	a_s
 129998	me/nou
 130001	ou
+i
 130004	en
 130006	on
 130008	ra
 a
-130013	res
+130012	o/si
+res
 oi
 an
+ion
 130018	ou
 ontes
 os
@@ -62223,7 +63837,8 @@ hn
 130190	oi
 an
 130193	an
-130195	on
+i
+on
 130197	en
 130199	on
 a_n
@@ -62250,6 +63865,7 @@ os
 130235	en
 w=n
 130239	h|
+i
 130242	en
 130244	i_da
 130246	a_n
@@ -62275,6 +63891,7 @@ ou=sin
 w|
 a
 h
+i
 130282	en
 130284	i_da
 130286	hn
@@ -62308,6 +63925,7 @@ ou
 130330	on
 130333	on
 130335	h|s
+i
 130338	en
 130340	i_da
 130342	hn
@@ -62340,6 +63958,7 @@ ai
 130388	w|
 130392	wn
 130394	h=s
+i
 130397	en
 130399	hn
 i_da
@@ -62382,7 +64001,8 @@ wn
 wn
 130471	ontes
 130475	oi
-130477	on
+i
+on
 130479	en
 130481	i_da
 130483	hn
@@ -62484,7 +64104,8 @@ ai
 130668	h=n
 130671	an
 wn
-130674	hte
+h=
+hte
 130676	h=n
 130679	an
 130682	a_
@@ -62493,9 +64114,11 @@ wn
 130688	ou
 130692	wn
 wn
-130695	a
+i
+a
 130697	on
 130699	sme/nwn
+on
 130702	res
 des
 sme/noi
@@ -62544,7 +64167,9 @@ on
 130790	wn
 130792	w=n
 w=tes
+ion
 130796	ou
+130798	ion
 130800	ou
 me/nous
 a_s
@@ -62568,6 +64193,7 @@ w|
 130841	rwn
 wn
 130844	an
+ion
 130847	ou
 130850	a
 wn
@@ -62586,13 +64212,15 @@ hn
 130883	nas
 130885	nwn
 hn
-130888	h
+i
+h
 130892	wn
 wn
 130897	me/noi
 130899	a_s
 130901	a_s
-130906	on
+130905	en
+on
 130908	a
 w|
 e
@@ -62606,6 +64234,7 @@ wn
 130933	a_s
 130936	mati
 130938	ou
+130942	ion
 130944	ou
 130946	ou
 130948	ousin
@@ -62619,13 +64248,17 @@ ou
 ei=
 130965	ous
 130967	ou=sin
-130970	ou=sin
+130969	e
+ou=sin
+130972	e
 130974	h|
 130976	ous
 130978	os
+e
 130981	ma
 130984	on
-130987	on
+130986	a_
+on
 130989	ou
 130991	ous
 130993	ei=
@@ -62637,6 +64270,7 @@ a_s
 131004	on
 131007	wn
 wn
+i
 131011	en
 131013	i_da
 131015	hn
@@ -62646,12 +64280,14 @@ h
 131022	on
 131024	on
 131027	ous
+131029	ion
 131031	ou
 a_sin
 131034	hsan
 ois
 131037	ges
-131039	os
+i
+os
 os
 en
 131043	h
@@ -62668,6 +64304,7 @@ a
 131060	wn
 131064	on
 131066	ou=n
+131068	ion
 131070	ou
 131072	h
 131074	os
@@ -62675,6 +64312,7 @@ a
 131078	ais
 131080	wn
 131084	ou
+ion
 131087	ou
 131089	en
 131091	os
@@ -62690,12 +64328,14 @@ ai
 131111	ai
 131113	ai
 131115	os
+i
 131119	oi
 131121	ontes
 131124	gas
 an
 ous
 131128	wsin
+i
 131131	os
 en
 131134	eto
@@ -62713,6 +64353,7 @@ h
 131160	os
 os
 h
+i
 131165	os
 os
 en
@@ -62734,6 +64375,7 @@ a_s
 131200	on
 131202	wn
 hsan
+i
 131206	os
 os
 en
@@ -62757,6 +64399,7 @@ etai
 131251	wn
 on
 131257	hsan
+i
 131260	os
 os
 en
@@ -62776,7 +64419,8 @@ wn
 hs
 131294	c
 w=s
-131297	on
+i
+on
 131299	a
 os
 ou
@@ -62794,6 +64438,7 @@ wn
 wn
 131326	o/ntwn
 ein
+i
 131330	os
 os
 en
@@ -62836,7 +64481,9 @@ ois
 131405	ou=sin
 131407	on
 131409	h=s
+e
 131412	on
+e
 131415	on
 131419	ous
 131422	ousin
@@ -62926,6 +64573,7 @@ w=n
 en
 ou=
 etai
+131586	i
 131588	os
 os
 en
@@ -62935,6 +64583,7 @@ a_n
 131597	rwn
 131600	ou
 131602	ou=
+131604	ion
 131606	ou
 onta
 131609	w|
@@ -63014,7 +64663,8 @@ ou=sin
 131757	wn
 131760	hsan
 131763	ais
-131766	an
+131765	e
+an
 131769	wn
 131772	wn
 131775	ou=sin
@@ -63038,7 +64688,8 @@ wn
 wn
 131823	ma/twn
 wn
-131826	on
+i
+on
 on
 on
 on
@@ -63074,6 +64725,7 @@ an
 131894	ai
 131896	wn
 a_s
+i
 131900	an
 131903	ai
 on
@@ -63087,6 +64739,7 @@ on
 131918	ai
 131921	a
 h|s
+i
 131925	os
 131927	on
 w=ta
@@ -63120,6 +64773,7 @@ ein
 132002	ou
 ous
 132005	a_s
+i
 132008	h
 132010	a
 132013	ou
@@ -63165,7 +64819,8 @@ h
 132113	ais
 132115	eusin
 ois
-132118	h
+i
+h
 132120	os
 os
 w|
@@ -63199,6 +64854,7 @@ a_s
 ous
 132183	ai
 132187	ai
+132189	ion
 132191	ou
 132193	h=s
 w=tes
@@ -63316,6 +64972,7 @@ a_te
 ous
 132409	oi
 wn
+i
 132415	a_|
 eto
 os
@@ -63340,6 +64997,7 @@ ou=
 132455	h
 etai
 u
+i
 132460	os
 os
 en
@@ -63357,8 +65015,10 @@ ou
 132484	ei=
 132487	nas
 132489	nwn
-132493	res
+132492	o/si
+res
 oi
+132496	ion
 132498	ou
 menoi
 132502	ous
@@ -63413,7 +65073,8 @@ ai
 132608	os
 132610	a
 h
-132613	on
+i
+on
 132615	h
 132618	w|
 132620	me/nh
@@ -63453,6 +65114,7 @@ ous
 132689	h=n
 132692	wn
 en
+ion
 132698	ou/shs
 ei=n
 132702	h|
@@ -63476,15 +65138,18 @@ ou
 132736	en
 132739	on
 132741	ei
-132743	on
+ei
+on
 sme/non
 132747	ou
-132750	wsin
+132749	ei
+wsin
 hn
 a_s
 a_s
 a_s
-132757	eto
+132756	i
+eto
 os
 132761	w|
 132766	oi
@@ -63496,7 +65161,8 @@ en
 132779	oi
 ou
 132783	an
-132785	os
+e
+os
 h
 wn
 132791	w|
@@ -63532,6 +65198,7 @@ ou
 132856	wn
 132859	w=n
 ous
+ion
 132863	ou
 132865	a_s
 132867	ktos
@@ -63561,6 +65228,7 @@ on
 132918	on
 on
 ei
+i
 132923	en
 132925	wn
 132927	h
@@ -63577,7 +65245,8 @@ en
 132956	on
 hs
 132959	etai
-132961	on
+ei
+on
 132963	ous
 132965	u
 ou
@@ -63587,6 +65256,7 @@ ou
 132974	is
 132977	matos
 ou
+w
 132984	on
 132986	hn
 on
@@ -63620,7 +65290,8 @@ ou
 133043	h
 133046	on
 133048	hs
-133050	on
+i
+on
 133053	hs
 on
 on
@@ -63663,6 +65334,7 @@ h
 133130	h
 h
 133133	h=
+w
 133136	ou
 133138	an
 133140	onti
@@ -63742,7 +65414,8 @@ h=nai
 133277	h
 133280	is
 133282	wn
-133284	on
+i
+on
 o
 on
 on
@@ -63757,7 +65430,8 @@ w|
 ou
 an
 ei=
-133310	ou
+ion
+ou
 133312	ei=
 133314	h=n
 133318	h|
@@ -63776,6 +65450,7 @@ a
 133343	ou
 ein
 133347	h=n
+ion
 133350	wn
 133352	a=|
 133354	ou=ntas
@@ -63784,6 +65459,7 @@ ein
 133362	h
 w|
 ai
+ion
 133367	ou
 wn
 133370	ou=sin
@@ -63845,13 +65521,15 @@ os
 133491	os
 ou
 oi
-133497	on
+133496	i
+on
 133499	ou=
 133501	on
 o/s
 133505	os
 wn
 133509	ou
+on
 133512	res
 des
 ousai
@@ -63880,13 +65558,16 @@ wn
 133557	ousin
 hn
 hn
+ion
 133562	ou
+133564	ion
 133566	rwn
 wn
 133570	wn
 133573	ato
 ei=n
 133576	hn
+133580	on
 133582	res
 des
 133585	sme/noi
@@ -63906,7 +65587,8 @@ wn
 133624	h
 os
 oi
-133629	on
+133628	i
+on
 on
 on
 o/menon
@@ -63939,7 +65621,8 @@ ou
 133681	h=n
 133683	an
 133685	a_s
-133688	os
+133687	i
+os
 os
 os
 en
@@ -63954,7 +65637,8 @@ n
 hs
 en
 133710	h
-133712	os
+i
+os
 os
 os
 en
@@ -63984,8 +65668,10 @@ ou
 133762	h/setai
 133764	ri
 133766	w|
-133768	wn
+ion
 wn
+wn
+133771	ion
 133773	ou
 133776	os
 133778	ou
@@ -64012,7 +65698,8 @@ ou
 133819	ou
 133822	in
 ou
-133825	a
+i
+a
 hs
 133829	ou
 ou/shs
@@ -64030,7 +65717,8 @@ wn
 wn
 ei=
 133856	wn
-133858	on
+i
+on
 133860	ou=
 h
 h
@@ -64047,7 +65735,8 @@ ou=n
 133882	ou
 on
 u
-133886	os
+i
+os
 os
 en
 133891	ou
@@ -64073,7 +65762,8 @@ ou
 133930	h=n
 133932	h
 133934	h=
-133936	os
+i
+os
 os
 en
 133941	ou
@@ -64082,7 +65772,8 @@ wn
 133948	os
 on
 u
-133952	os
+i
+os
 os
 en
 133957	ou
@@ -64129,7 +65820,8 @@ ma
 134040	wn
 wn
 wn
-134044	on
+i
+on
 o
 on
 134049	w|
@@ -64142,7 +65834,8 @@ gas
 h
 134065	os
 134067	ou
-134069	on
+i
+on
 134071	an
 hn
 gme/nhn
@@ -64188,8 +65881,10 @@ os
 134155	h
 ou=sin
 134158	ou=sin
+ion
 134163	mata
 134165	hsan
+i
 134169	on
 134171	h
 134173	os
@@ -64234,7 +65929,8 @@ ei=n
 134253	w=sin
 134256	ai
 134259	wn
-134261	a
+i
+a
 hs
 hs
 134266	ou
@@ -64246,7 +65942,8 @@ ete
 134278	ou
 134280	ou
 134283	h=n
-134285	en
+i
+en
 134287	os
 134289	en
 134291	hn
@@ -64263,6 +65960,7 @@ on
 134313	ou=ntas
 134315	oni
 ou
+i
 134319	os
 en
 134322	hn
@@ -64276,6 +65974,7 @@ h
 hs
 en
 134340	h|
+i
 134343	os
 en
 134346	hn
@@ -64284,7 +65983,8 @@ ou
 134353	a_s
 134357	eto
 ma
-134360	a
+i
+a
 134362	ou
 134365	ontos
 os
@@ -64298,7 +65998,8 @@ an
 ois
 as
 134389	oi
-134392	a
+134391	i
+a
 134394	ou
 ontos
 i
@@ -64308,6 +66009,7 @@ e
 ai
 134404	ai
 134406	eis
+134408	i
 134410	os
 en
 134413	hn
@@ -64331,6 +66033,7 @@ ma
 ou=nai
 w|
 a_n
+i
 134454	os
 en
 134457	hn
@@ -64355,6 +66058,7 @@ wn
 134495	an
 134498	wn
 wn
+i
 134502	os
 en
 134505	hn
@@ -64368,7 +66072,8 @@ ou
 134523	e/wn
 134526	hs
 ou
-134529	on
+i
+on
 134532	matos
 134534	ontos
 134538	matos
@@ -64411,6 +66116,7 @@ ou
 ous
 134605	on
 134607	ou/menon
+134610	i
 134612	os
 en
 134615	hn
@@ -64446,6 +66152,7 @@ an
 134673	n
 134675	h
 h
+ion
 134679	ou
 ou=nai
 h|
@@ -64473,7 +66180,9 @@ ei
 134723	h
 134726	h
 hs
-134730	en
+a
+i
+en
 134735	wn
 134737	o/ntwn
 134740	a_s
@@ -64532,6 +66241,7 @@ n
 134843	h
 134845	hr
 134847	w=n
+i
 134850	ma/twn
 134852	h=s
 134854	on
@@ -64541,12 +66251,14 @@ n
 134866	matos
 134868	wn
 ou
-134871	a
+i
+a
 w/n
 hn
 ma
 134877	en
 134880	os
+a_
 134883	as
 134885	w=
 134888	on
@@ -64625,7 +66337,8 @@ e/wn
 oi
 135073	oi
 135075	oi
-135077	ei
+i
+ei
 135082	es
 135085	h
 135087	oi
@@ -64715,7 +66428,8 @@ an
 135248	ous
 hs
 an
-135252	a
+i
+a
 hn
 hn
 135257	ou
@@ -64743,6 +66457,7 @@ h|
 en
 135301	ate
 135303	a=
+a
 135306	a
 hs
 135310	w|
@@ -64931,7 +66646,8 @@ e
 135671	os
 135673	ma
 135676	hs
-135678	en
+i
+en
 135680	os
 os
 on
@@ -65012,7 +66728,8 @@ ei
 135860	nwn
 135862	an
 135864	oi
-135867	res
+135866	o/si
+res
 135870	ra
 a
 135873	an
@@ -65033,7 +66750,8 @@ ou
 on
 135903	oi
 135906	oi
-135908	a
+i
+a
 135910	hn
 ou
 ou
@@ -65067,7 +66785,8 @@ on
 135963	on
 135965	mata
 135967	wn
-135970	ei
+135969	i
+ei
 135972	on
 oi
 135977	on
@@ -65095,7 +66814,8 @@ on
 ou
 136027	ma
 136029	a_s
-136031	on
+i
+on
 136033	on
 136036	ou=
 os
@@ -65167,9 +66887,11 @@ ma
 mme/non
 eus
 e/wn
-136157	os
+i
+os
 wn
-136160	on
+i
+on
 a_
 on
 w=ta
@@ -65201,7 +66923,8 @@ wn
 136213	wn
 136215	wn
 136217	wn
-136219	on
+i
+on
 136221	on
 136224	eis
 136226	h=s
@@ -65220,7 +66943,8 @@ ou
 136254	hs
 136256	a_s
 136258	a
-136260	ou
+ion
+ou
 136263	en
 136265	o/ntas
 136267	ma
@@ -65246,7 +66970,8 @@ ou
 hsan
 136314	kwn
 wn
-136317	on
+i
+on
 on
 onta
 136322	ou
@@ -65281,7 +67006,8 @@ h=nai
 on
 on
 on
-136385	on
+i
+on
 ous
 136388	an
 136390	ous
@@ -65296,6 +67022,7 @@ ou
 136409	ou
 136413	an
 136415	on
+e
 136418	ona
 ou
 136422	on
@@ -65333,6 +67060,7 @@ eis
 136488	ou
 136490	a
 h
+i
 136494	h=|
 136496	a
 h
@@ -65378,7 +67106,8 @@ a_s
 136587	ktos
 136590	nas
 136592	nwn
-136594	on
+i
+on
 on
 136597	on
 136600	menon
@@ -65395,6 +67124,7 @@ ois
 136623	ous
 136626	ous
 w=tas
+ion
 136630	ou
 136632	a
 hsan
@@ -65406,6 +67136,7 @@ h
 136645	oi
 136648	mme/nwn
 136651	ois
+a
 136654	a
 wn
 136657	en
@@ -65419,6 +67150,7 @@ an
 136676	ois
 136678	hsan
 os
+a
 136682	a
 wn
 136686	os
@@ -65437,7 +67169,8 @@ mme/nos
 h
 136720	hn
 136722	ros
-136724	on
+i
+on
 on
 on
 136728	h=n
@@ -65506,6 +67239,7 @@ oi
 w=
 136869	hs
 136873	hs
+a=n
 136876	w=n
 ei=
 136880	omai
@@ -65530,7 +67264,8 @@ ri
 136917	w|
 136921	os
 136923	os
-136925	en
+i
+en
 136930	wn
 136932	o/ntwn
 136935	a_s
@@ -65594,6 +67329,7 @@ ous
 137052	mata
 137055	wn
 137057	ou
+i
 137060	w=n
 137063	en
 on
@@ -65625,6 +67361,7 @@ a
 137113	en
 137115	os
 hs
+on
 137119	rwn
 w=n
 on
@@ -65672,6 +67409,7 @@ os
 os
 137192	nes
 137194	ai
+a_
 137197	os
 137199	nwn
 137202	os
@@ -65682,7 +67420,8 @@ on
 on
 137212	os
 hs
-137215	on
+i
+on
 137217	on
 137219	h|
 137222	os
@@ -65695,6 +67434,7 @@ hs
 137237	a_n
 ei
 137240	ou
+e
 137243	hs
 137245	wsin
 h|
@@ -65720,6 +67460,7 @@ hs
 137285	w=sin
 a_s
 c
+137291	ei
 137293	ou=sin
 137295	a_n
 137298	hn
@@ -65752,7 +67493,8 @@ hs
 hs
 ou=n
 ous
-137363	na
+137362	a
+na
 on
 ou=n
 137367	on
@@ -65791,7 +67533,8 @@ ei=
 137436	ou=sin
 137439	nas
 137441	nwn
-137443	en
+i
+en
 137447	oi
 oi
 137450	oi
@@ -65835,8 +67578,10 @@ ai
 137530	ou
 137533	w|
 on
-137536	ei
-137539	h|s
+i
+ei
+137538	h=
+h|s
 137541	ous
 137543	a_s
 137545	ou
@@ -65890,6 +67635,7 @@ a
 137669	hr
 137671	os
 137673	os
+i
 137676	ma
 137679	h
 ousin
@@ -65902,7 +67648,8 @@ e/sqw
 137692	wn
 e/tw
 137695	hs
-137697	w=
+a=n
+w=
 137701	onti
 137703	ous
 137705	a_s

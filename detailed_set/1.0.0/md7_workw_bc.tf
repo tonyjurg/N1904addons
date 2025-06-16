@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:30+00:00Z
+@dateWritten=2025-06-15T22:27:33+00:00Z
 
 99	ou)riou=
 154	a)/mws
@@ -32,7 +32,7 @@ a)/mws
 574	a)gw=
 576	proskunhsw=
 595	e(/ws
-598	e)panw=
+598	e)pa_nw=
 651	o(/dou
 662	kuri/ou
 684	e(/ws
@@ -65,7 +65,7 @@ a)/mws
 1258	liqoi/
 1298	i_(e/rou
 1300	le/gei
-1309	katw=
+1309	ka/tw
 1321	xei/rwn
 a)rou=sin
 1331	sou=
@@ -103,7 +103,7 @@ proskunh/seis
 1745	ou)ra/nwn
 1764	a)gallia=sqe
 1787	e)/a_n
-1817	e)panw=
+1817	e)pa_nw=
 1852	ka_/la_
 1867	kata/lu_sai
 1875	kata/lu_sai
@@ -124,7 +124,7 @@ le/gw
 1981	le/gw
 2018	e)/a_n
 2023	sou=
-2027	a)kei=
+2027	e)/kei
 2032	sou=
 e)/xei
 2041	sou=
@@ -216,7 +216,7 @@ sou=
 2913	kurioi=s
 2923	a_)gaph/sei
 2930	kata_fronh/sei
-2937	*dia=
+2937	*dia/
 2939	le/gw
 2944	yuxh=|
 2960	plei=on
@@ -310,10 +310,10 @@ sou=
 4349	para_/gwn
 4362	le/gei
 4395	e)/legon
-4399	*dia=
+4399	*dia/
 4412	a_)kou/sa_s
 4439	a)lla=
-4448	*dia=
+4448	*dia/
 4458	sou=
 4469	ui(oi=
 4516	ne/on
@@ -349,7 +349,7 @@ pneuma/twn
 4978	ou)ra/nwn
 4985	daimonia=
 5018	trofh=s
-5034	a)kei=
+5034	e)/kei
 5036	e(/ws
 5047	e)/a_n
 5052	a)ci/a_
@@ -415,7 +415,7 @@ daimoni/on
 e)/xei
 5852	pi/nwn
 5854	le/gousin
-5906	pa/lai
+5906	pa/la_|
 5914	le/gw
 5930	e(/ws
 ou)ra/nou
@@ -458,7 +458,7 @@ a)ra=
 6537	dh/sh|
 6545	diarpasei=
 6557	suna_/gwn
-6561	*dia=
+6561	*dia/
 6563	le/gw
 6581	e)/a_n
 6635	ka/rpou
@@ -489,7 +489,7 @@ sou=
 7080	e)pe/sen
 7091	a)lla=
 7093	e)pe/sen
-7121	*dia=
+7121	*dia/
 7138	basilei+a_=s
 7140	ou)ra/nwn
 7147	e)/xei
@@ -509,7 +509,7 @@ a_(
 7383	suni/eis
 7405	basilei/a_
 7407	ou)ra/nwn
-7429	a)/na_
+7429	a)na/
 7451	douloi/
 7454	ei)po/n
 7460	e)speira_=s
@@ -553,7 +553,7 @@ a_(
 7901	dikaiw=n
 7922	le/gousin
 7924	na_i+/
-7929	*dia=
+7929	*dia/
 7935	basilei+a=|
 7937	ou)ra/nwn
 8008	si_/mwn
@@ -574,9 +574,9 @@ e(/ws
 8530	e)/kracen
 8545	le/gei
 8573	diapera_/santes
-8626	*dia=
+8626	*dia/
 8630	sou=
-8649	*dia=
+8649	*dia/
 8682	le/gete
 8693	e)/a_n
 8699	timh/sei
@@ -656,9 +656,9 @@ le/gei
 10045	e(/ws
 10063	daimoni/on
 10080	ei)po/n
-*dia=
+*dia/
 10090	le/gei
-10092	*dia=
+10092	*dia/
 10098	le/gw
 10100	e)/a_n
 10108	o)/rei
@@ -692,10 +692,10 @@ na_i+/
 10419	sou=
 10453	le/gw
 10476	e)/a_n
-10491	e)nnea/
+10491	e)nnea_/
 10501	e)/a_n
 10506	le/gw
-10517	e)nnea/
+10517	e)nnea_/
 10533	a)polh=tai
 10538	e)/a_n
 10540	a_(marth/sh|
@@ -725,7 +725,7 @@ e)/a_n
 10695	e(/ws
 10697	a)lla=
 e(/ws
-10701	*dia=
+10701	*dia/
 10705	basilei/a_
 10707	ou)ra/nwn
 10712	sunara=|
@@ -785,9 +785,9 @@ sou=
 11552	le/gei
 11570	e)sxatw=n
 e(/ws
-11582	a)/na_
+11582	a)na/
 11590	plei=on
-11595	a)/na_
+11595	a)na/
 11640	a)/ron
 11666	sou=
 11732	trith=|
@@ -817,7 +817,7 @@ e)/kracan
 12022	e)/a_n
 12033	e)/xei
 12056	sou=
-12094	e)panw=
+12094	e)pa_nw=
 12107	a)/lloi
 12113	de/ndrwn
 12128	e)kra/zon
@@ -847,7 +847,7 @@ e)/kracan
 12456	e)/a_n
 12459	ou)ra/nou
 e)/rei
-12462	*dia=
+12462	*dia/
 12468	e)/a_n
 12496	le/gw
 12502	poi/w
@@ -912,7 +912,7 @@ sou=
 13468	e(/ws
 13470	qw=
 13473	sou=
-u(pokatw=
+u(poka/tw
 13476	po/dwn
 sou=
 13483	kuri/on
@@ -929,11 +929,11 @@ sou=
 13723	tufloi=
 13743	o)fei/lei
 13746	tufloi=
-13777	e)panw=
+13777	e)pa_nw=
 13779	o)fei/lei
 tufloi=
-13806	e)panw=
-13838	e)panw=
+13806	e)pa_nw=
+13838	e)pa_nw=
 13847	a)podekatou=te
 13852	a)/nhqon
 13872	e)/dei
@@ -1122,7 +1122,7 @@ sou=
 17429	e)ne/paican
 17449	eu(ro/n
 17457	a)rh=|
-17500	e)panw=
+17500	e)pa_nw=
 17523	deciw=n
 17540	katalu/wn
 17560	o(moi/ws
@@ -1132,10 +1132,10 @@ sou=
 17625	e(/ws
 17659	e)/legon
 17711	e(/ws
-katw=
+ka/tw
 17732	a(giw=n
 17810	ui(/wn
-17891	e)pauri/on
+17891	e)pau/rion
 17914	zw^/n
 17924	e(/ws
 17926	trith=s
@@ -1143,14 +1143,14 @@ katw=
 17948	xeirw=n
 17999	kuriou=
 18002	ou)ra/nou
-18010	e)panw=
+18010	e)pa_nw=
 18025	xi/wn
 18037	nekroi/
 18079	nekrw=n
 18082	pro+a/gei
 18091	ei)po/n
 18127	le/gei
-18143	a)kei=
+18143	e)/kei
 18189	e)/a_n
 18295	e(/ws
 18321	sou=
@@ -1172,7 +1172,7 @@ katw=
 18775	le/gousin
 18828	daimonia=
 18836	daimonia=
-18851	a)kei=
+18851	e)/kei
 18856	si_/mwn
 18862	eu(ro/n
 18865	le/gousin
@@ -1211,7 +1211,7 @@ e)/xei
 19287	le/gei
 19303	a)lla=
 19317	le/gousin
-19319	*dia=
+19319	*dia/
 19344	ui(oi=
 19400	palai/ou
 19409	ne/on
@@ -1339,7 +1339,7 @@ le/gei
 21651	e)/a_n
 21657	e(/ws
 21675	xou=n
-21677	u(pokatw=
+21677	u(poka/tw
 21679	po/dwn
 21688	metanow=sin
 21690	daimonia=
@@ -1380,7 +1380,7 @@ sumposia=
 22506	a)lla=
 22509	a_(
 22519	e)perwtw=sin
-22526	*dia=
+22526	*dia/
 22532	sou=
 22538	a)lla=
 22567	kardi/a_
@@ -1402,12 +1402,12 @@ e)/a_n
 22881	te/knwn
 22890	le/gei
 22892	na_i+/
-22897	u(pokatw=
-22909	*dia=
+22897	u(poka/tw
+22909	*dia/
 22918	sou=
 22920	daimoni/on
 22936	daimoni/on
-22953	a)/na_
+22953	a)na/
 22968	e)piqh=|
 23001	le/gei
 23068	le/gei
@@ -1527,7 +1527,7 @@ diakonh/sai_
 25565	e)kra/zon
 25572	kuriou=
 25576	basilei/a_
-25608	e)pauri/on
+25608	e)pau/rion
 25623	a)ra=
 25625	eu(rh/sei
 25702	i_(e/rou
@@ -1552,7 +1552,7 @@ e)ch/ra_ntai
 25936	e)/a_n
 25939	ou)ra/nou
 e)/rei
-*dia=
+*dia/
 25947	a)lla=
 25967	le/gousin
 25973	le/gei
@@ -1599,7 +1599,7 @@ sou=
 26629	e(/ws
 26631	qw=
 26634	sou=
-u(pokatw=
+u(poka/tw
 26637	po/dwn
 sou=
 26641	le/gei
@@ -1649,7 +1649,7 @@ le/gei
 27430	murou=
 27453	murou=
 27459	mu=ron
-27461	e)panw=
+27461	e)pa_nw=
 27518	le/gw
 27521	e)/a_n
 27577	le/gousin
@@ -1709,7 +1709,7 @@ h(merw=n
 28398	ou)ra/nou
 28406	le/gei
 28421	katekri_na=n
-28453	katw=
+28453	ka/tw
 28462	a)rxie/rew^s
 28470	le/gei
 28495	pro+au/lion
@@ -1740,13 +1740,13 @@ h(merw=n
 29001	e(/ws
 29035	e)/legon
 29075	e(/ws
-katw=
+ka/tw
 i)_dw=n
 29084	e)nantia_=s
 29133	a)lla=|
 29136	sunanaba_/sai_
 29163	basilei+a_=n
-29191	pa/lai
+29191	pa/la_|
 29208	e)neilh/se_n
 29274	h(liou=
 29276	e)/legon
@@ -1781,17 +1781,17 @@ i)_dw=n
 29757	sou=
 29761	sou=
 29763	gennh/sei
-29788	e)nwpi/on
+29788	e)nw/pion
 kuriou=
 29796	pi_/h|
 29809	ui(/wn
 29811	e)pistre/yei
 29813	kuri/on
 29815	qe/on
-29820	e)nwpi/on
+29820	e)nw/pion
 29835	fronhsei=
 dikaiw=n
-29875	e)nwpi/on
+29875	e)nw/pion
 29889	e)sh=|
 siwpw=n
 29917	prosdokw=n
@@ -1822,9 +1822,9 @@ siwpw=n
 30591	kuriou=
 30635	a(giw=n
 30638	profh/twn
-30684	e)nwpi/on
+30684	e)nw/pion
 30697	proporeu/sh|
-30699	e)nwpi/on
+30699	e)nw/pion
 kuriou=
 30712	a)fe/sei
 30727	e)pifana=|
@@ -1885,13 +1885,13 @@ a)gw=
 32291	do/can
 32298	e)/a_n
 32304	e)/a_n
-32306	e)nwpi/on
+32306	e)nw/pion
 32318	proskunh/seis
 kuri/on
 32321	qe/on
 sou=
 32338	i_(e/rou
-32350	katw=
+32350	ka/tw
 32361	diafula/cai_
 32366	xei/rwn
 a)rou=sin
@@ -1915,7 +1915,7 @@ sou=
 32742	a)ne/kracen
 32778	daimoni/on
 32847	e)pista_=s
-e)panw=
+e)pa_nw=
 32864	h(liou=
 32888	daimonia=
 32902	e)piti_mw=n
@@ -1940,7 +1940,7 @@ e)panw=
 33238	sou=
 33277	h(merw=n
 33302	kuriou=
-33324	e)nwpi/on
+33324	e)nw/pion
 33329	poia=s
 33341	kera/mwn
 33364	sou=
@@ -1953,13 +1953,13 @@ e)/xei
 33442	a)ra_/s
 33445	sou=
 33450	sou=
-33454	e)nwpi/on
+33454	e)nw/pion
 33456	a)ra_/s
 33467	qe/on
 33475	qe/on
 33503	katali/pwn
 33524	a)llw=n
-33543	*dia=
+33543	*dia/
 33566	a)lla=
 33574	a)lla=
 33577	metanoia=n
@@ -2109,7 +2109,7 @@ a_)gaph/sei
 35801	biou=
 35811	kalh=|
 35818	kalh=|
-35837	u(pokatw=
+35837	u(poka/tw
 35913	sou=
 35917	sou=
 35949	h(merw=n
@@ -2120,7 +2120,7 @@ a_)gaph/sei
 e)pi/stata
 36024	a)ra=
 36030	a)nemoi=s
-36047	a)ntipe/ra_
+36047	a)ntipera=
 36063	daimonia=
 36084	prosepe/sen
 36101	sou=
@@ -2136,7 +2136,7 @@ e)pi/stata
 36313	dihgou=
 36396	r(u_sei=
 36437	e)pi/stata
-36476	e)nwpi/on
+36476	e)nw/pion
 36491	sou=
 36510	sou=
 36518	a_)kou/sa_s
@@ -2144,14 +2144,14 @@ e)pi/stata
 36619	e)cousia=n
 36623	daimonia=
 36632	basilei+a_=n
-36655	a)/na_
+36655	a)na/
 36685	po/dwn
 36687	a)potina/ssete
 36721	nekrw=n
 36728	a)llw=n
 36785	basilei+a_=s
 36840	plei=on
-36873	a)/na_
+36873	a)na/
 36879	kateklina=n
 36939	le/gousin
 36948	a)/lloi
@@ -2193,7 +2193,7 @@ kataskhnwsei=s
 37683	kli_/nh|
 37716	basilei+a_=n
 37756	basilei+a=|
-37770	a)/na_
+37770	a)na/
 37795	o)ligoi=
 37799	kuriou=
 37817	lu/kwn
@@ -2206,7 +2206,7 @@ kataskhnwsei=s
 37952	basilei/a_
 37955	le/gw
 37967	po/lei
-37988	pa/lai
+37988	pa/la_|
 38011	e(/ws
 ou)ra/nou
 38014	e(/ws
@@ -2215,7 +2215,7 @@ ou)ra/nou
 38053	sou=
 38064	ou)ra/nou
 38070	e)cousia=n
-38073	e)panw=
+38073	e)pa_nw=
 38089	a_)dikh/sei
 38126	ou)ra/nou
 38134	so/fwn
@@ -2302,7 +2302,7 @@ a)ra=
 39314	a)ga/phn
 39319	e)/dei
 39329	a)gapa_te/
-39355	e)panw=
+39355	e)pa_nw=
 39363	le/gei
 39402	profh/twn
 39409	a)ra=
@@ -2317,14 +2317,14 @@ le/gw
 39621	e)cousia=n
 39626	nai+/
 le/gw
-39644	e)nwpi/on
+39644	e)nw/pion
 39647	a)lla=
 39654	pa/sai
 39661	le/gw
 39678	o(mologh/sei
 39683	a)ggelw=n
-39690	e)nwpi/on
-39694	e)nwpi/on
+39690	e)nw/pion
+39694	e)nw/pion
 39696	a)ggelw=n
 39702	e)/rei
 39738	a)pologhsh=sqe
@@ -2341,7 +2341,7 @@ dei=
 39885	sou=
 39889	a_(
 39901	qe/on
-39909	*dia=
+39909	*dia/
 39911	le/gw
 39916	yuxh=|
 39927	plei=on
@@ -2415,7 +2415,7 @@ dei=
 40995	le/gw
 41009	a)poklei/sh|
 41026	e)/rei
-41037	e)nwpi/on
+41037	e)nw/pion
 sou=
 41048	e)/rei
 41083	basilei+a=|
@@ -2434,7 +2434,7 @@ sou=
 41363	e)sxa=ton
 41373	e)sxa=ton
 41381	e)/rei
-41390	e)nwpi/on
+41390	e)nw/pion
 41398	u_(/ywn
 41403	tapeinw=n
 41421	sou=
@@ -2455,29 +2455,29 @@ a_)kou/sa_s
 41771	deka=
 41773	u(pa/nthsai
 41815	e)/a_n
-41892	e)nnea/
+41892	e)nnea_/
 41901	e(/ws
 41928	eu(ro/n
 41934	le/gw
-41950	e)nnea/
+41950	e)nnea_/
 41962	deka=
 e)/a_n
 41971	saroi/
 41977	e(/ws
 41991	eu(ro/n
 41997	le/gw
-42001	e)nwpi/on
+42001	e)nw/pion
 42003	a)ggelw=n
 42058	zw^/n
 42115	posoi/
 42121	a)/rtwn
 42134	e)rw=
-42142	e)nwpi/on
+42142	e)nw/pion
 sou=
 42149	sou=
 42156	sou=
 42178	e)pepe/sen
-42197	e)nwpi/on
+42197	e)nw/pion
 sou=
 42204	sou=
 42295	sou=
@@ -2502,8 +2502,8 @@ sou=
 42641	kurioi=s
 42651	a_)gaph/sei
 42658	kata_fronh/sei
-42684	e)nwpi/on
-42700	e)nwpi/on
+42684	e)nw/pion
+42700	e)nw/pion
 42707	pro/fhtai
 42713	basilei/a_
 42739	a)polu/wn
@@ -2547,7 +2547,7 @@ a)xreioi=
 43237	qe/on
 43239	e)pe/sen
 43259	deka=
-43263	e)nnea/
+43263	e)nnea_/
 43269	do/can
 43284	sou=
 43295	basilei/a_
@@ -2614,10 +2614,10 @@ dei=
 44500	sou=
 deka=
 44516	e)cousia=n
-44518	e)panw=
+44518	e)pa_nw=
 deka=
 44528	sou=
-44539	e)panw=
+44539	e)pa_nw=
 44552	sou=
 44573	e)speira_=s
 le/gei
@@ -2632,7 +2632,7 @@ deka=
 44653	e)/xei
 44695	e)lai/wn
 44723	e)/a_n
-44727	*dia=
+44727	*dia/
 44737	e)/xei
 44742	eu(ro/n
 44753	kurioi/
@@ -2659,14 +2659,14 @@ sou=
 45074	e)/a_n
 45077	ou)ra/nou
 e)/rei
-*dia=
+*dia/
 45084	e)/a_n
 45092	kataliqa/sei
 45112	le/gw
 45118	poi/w
 45149	ka/rpou
 45197	a)gaph=ton
-i)/sws
+i)_/sws
 45230	poih/sei
 45381	e)/xei
 45411	e)na/nti_on
@@ -2789,7 +2789,7 @@ si_/mwn
 47501	i(ka/nwn
 xro/nwn
 47560	filoi/
-47606	e)nwpi/on
+47606	e)nw/pion
 47610	eu(ro/n
 47615	ai)/tion
 47617	kathgorei=te
@@ -2824,7 +2824,7 @@ sou=
 48316	trith=|
 48344	*)iw/ana
 48354	e)/legon
-48361	e)nwpi/on
+48361	e)nw/pion
 48384	mona/
 48452	logoi/
 48488	poi/a_
@@ -2846,7 +2846,7 @@ sou=
 48782	a)rtou=
 48793	le/gei
 48842	e)/xei
-48881	e)nwpi/on
+48881	e)nw/pion
 48890	logoi/
 48901	dei=
 48921	nou=n
@@ -2870,14 +2870,14 @@ e(/ws
 49331	le/gei
 49366	kuriou=
 49434	pera=n
-49443	e)pauri/on
+49443	e)pau/rion
 49451	le/gei
 49468	ei)po/n
 49481	a)gw=
 49509	ou)ra/nou
 49514	a)gw=
 49546	a)gw=
-49558	e)pauri/on
+49558	e)pau/rion
 49574	le/gei
 49599	le/gei
 49614	le/gei
@@ -2885,7 +2885,7 @@ e(/ws
 49659	i_)_/dion
 49662	le/gei
 49683	si_/mwn
-49694	e)pauri/on
+49694	e)pau/rion
 49704	le/gei
 49727	le/gei
 49737	pro/fhtai
@@ -2893,7 +2893,7 @@ e(/ws
 49771	le/gei
 49782	le/gei
 49825	ei)po/n
-49830	u(pokatw=
+49830	u(poka/tw
 49838	le/gei
 49842	le/gw
 49865	trith=|
@@ -2902,10 +2902,10 @@ le/gei
 49905	le/gei
 49919	le/gei
 49928	le/gh|
-49944	a)/na_
+49944	a)na/
 49949	le/gei
 49960	e(/ws
-a)_nw=
+a)nw=
 49963	le/gei
 50002	le/gei
 50015	e)la/ssw
@@ -2946,9 +2946,9 @@ e)poiei=
 50786	ou)ra/nou
 50792	ei)po/n
 50835	dei=
-50843	e)panw=
+50843	e)pa_nw=
 50863	ou)ra/nou
-50865	e)panw=
+50865	e)pa_nw=
 50873	marturei=
 50910	a)ga/pa_|
 50925	e)/xei
@@ -3091,7 +3091,7 @@ e)poiei=
 52947	pera=n
 52966	a)nemou=
 52994	le/gei
-53019	e)pauri/on
+53019	e)pau/rion
 53024	pera=n
 53049	a)lla=
 monoi=
@@ -3151,7 +3151,7 @@ a)gw=
 53774	e)/a_n
 53790	zwopoi/oun
 53798	a_(
-53834	*dia=
+53834	*dia/
 53844	e)/a_n
 53880	si_/mwn
 53964	ei)po/n
@@ -3194,7 +3194,7 @@ e)/legon
 54635	gra/fh
 54666	pia/sai_
 54685	ei)po/n
-54688	*dia=
+54688	*dia/
 54726	a)lla=
 54737	le/gei
 54754	kri/nei+
@@ -3203,9 +3203,9 @@ e)/legon
 54802	e)laiw=n
 54839	le/gousin
 54864	e)/legon
-54874	katw=
+54874	ka/tw
 54888	ei)=pe
-54902	katw=
+54902	ka/tw
 54923	e(/ws
 54925	e)sxatw=n
 54956	sou=
@@ -3229,8 +3229,8 @@ kri/nw
 55184	mh_/ti_
 55188	le/gei
 55191	u(pa_gw=
-55202	katw=
-55207	a)_nw=
+55202	ka/tw
+55207	a)nw=
 55222	ei)po/n
 55231	e)/a_n
 55243	e)/legon
@@ -3403,7 +3403,7 @@ le/gei
 57888	e)/a_n
 57892	do/can
 57895	h)/ra_n
-57905	a)_nw=
+57905	a)nw=
 57921	a)lla=
 57927	ei)po/n
 57959	le/gei
@@ -3414,7 +3414,7 @@ le/gei
 58074	a)polh=tai
 58081	a)lla=
 58131	a)lla=
-58144	a)kei=
+58144	e)/kei
 58175	e)/legon
 58201	e)/a_n
 58215	h(merw=n
@@ -3422,10 +3422,10 @@ le/gei
 58253	murou=
 58278	murou=
 le/gei
-58292	*dia=
+58292	*dia/
 58296	mu=ron
 58379	nekrw=n
-58402	e)pauri/on
+58402	e)pau/rion
 58425	u(pa/nthsin
 58435	kuriou=
 58459	sou=
@@ -3781,7 +3781,7 @@ le/gei
 64077	le/gei
 64091	*po/lla
 64095	a)lla=
-64100	e)nwpi/on
+64100	e)nw/pion
 64103	a_(
 64151	o(mou=
 si_/mwn
@@ -3871,8 +3871,8 @@ frugi/a_n
 65447	ui(oi=
 65479	e)kxe/w
 65485	profhteu/sousin
-65492	a)_nw=
-65498	katw=
+65492	a)nw=
+65498	ka/tw
 65518	kuriou=
 65527	e)/a_n
 65531	kuriou=
@@ -3880,7 +3880,7 @@ frugi/a_n
 65577	a)nomw=n
 65599	le/gei
 65604	kuri/on
-e)nwpi/on
+e)nw/pion
 65611	deciw=n
 65622	kardi/a_
 65626	glwssa/
@@ -3935,11 +3935,11 @@ yuxh=|
 66542	nekrw=n
 66570	a_)/ndrwn
 66674	nekrw=n
-66679	e)nwpi/on
+66679	e)nw/pion
 66719	dei=
 66796	plei=on
 66831	ei)po/n
-66837	e)nwpi/on
+66837	e)nw/pion
 66851	a_(
 66875	qe/on
 66915	h)/ra_n
@@ -3973,7 +3973,7 @@ sou=
 67361	e)pe/sen
 67374	eu(ro/n
 67391	e)kklhsia=n
-67398	*dia=
+67398	*dia/
 67401	xei/rwn
 67439	a_)/ndrwn
 67442	gunai/kwn
@@ -3998,8 +3998,8 @@ e)piskia_sh=|
 67907	kata/lu_sai
 67983	diakonia=|
 68033	diakonia=|
-68041	e)nwpi/on
-68070	e)nwpi/on
+68041	e)nw/pion
+68070	e)nw/pion
 68098	i(ere/wn
 68108	e)poiei=
 68112	mega/la_
@@ -4041,7 +4041,7 @@ sou=
 69083	skh/nh
 69129	e(/ws
 69131	h(merw=n
-69136	e)nwpi/on
+69136	e)nw/pion
 69157	katoikei=
 69161	le/gei
 69171	po/dwn
@@ -4115,7 +4115,7 @@ e)cousia=n
 70281	dh=sai
 70287	sou=
 70297	e)klo/ghs
-70306	e)nwpi/on
+70306	e)nw/pion
 70311	ui(/wn
 70319	dei=
 70328	a)nani_a_=s
@@ -4138,7 +4138,7 @@ e)cousia=n
 70903	sou=
 70907	sou=
 70921	metapemya=|
-70967	e)pauri/on
+70967	e)pau/rion
 70972	po/lei
 71019	tetrapo/da_
 71027	ou)ra/nou
@@ -4148,17 +4148,17 @@ e)cousia=n
 71175	qe/on
 71195	a)kou/sa_|
 71202	e)ceni/se_n
-71205	e)pauri/on
-71221	e)pauri/on
+71205	e)pau/rion
+71221	e)pau/rion
 71230	prosdokw=n
 71281	e)pista=sqe
 71291	a)moi/
-71335	e)nwpi/on
+71335	e)nw/pion
 71344	sou=
 71350	sou=
-71352	e)nwpi/on
+71352	e)nw/pion
 71375	e)pe/mya_
-71387	e)nwpi/on
+71387	e)nw/pion
 71391	a)kou/sa_|
 71398	kuriou=
 71485	diabo/lou
@@ -4199,7 +4199,7 @@ a_(
 72062	e(/ws
 72104	a_)nazh/thsai
 72124	i(kano/n
-72127	prwtw/s
+72127	prwtw=s
 72141	pro/fhtai
 72177	diakonia=n
 72239	pia_/sa_s
@@ -4260,13 +4260,13 @@ pro/fhtai
 73605	po/dwn
 73658	i(kano/n
 73682	xei/rwn
-73732	a)kei=
+73732	e)/kei
 73763	e)/xei
 73774	sou=
 73804	di_/a_
 73871	mataiw=n
 73918	trofh=s
-73969	e)pauri/on
+73969	e)pau/rion
 74008	dei=
 74013	basilei+a_=n
 74020	e)kklhsia=n
@@ -4334,7 +4334,7 @@ a)lla=
 75723	gunai/kwn
 75727	a_)/ndrwn
 75729	o)ligoi=
-75752	a)kei=
+75752	e)/kei
 75767	e(/ws
 75786	e(/ws
 75848	e)pikouriw=n
@@ -4372,7 +4372,7 @@ daimoniw=n
 76690	a)pollw=
 76768	kuriou=
 76809	basilei+a_=s
-76821	e)nwpi/on
+76821	e)nw/pion
 76848	*)asi/a_n
 a)kou/sa_|
 76853	kuriou=
@@ -4385,7 +4385,7 @@ a)kou/sa_|
 76994	e)pepe/sen
 77004	kuriou=
 77017	i(kanoi/
-77027	e)nwpi/on
+77027	e)nw/pion
 77035	eu(ro/n
 77043	kuriou=
 77074	dei=
@@ -4413,11 +4413,11 @@ e)kra/zon
 77437	e)kklhsia=n
 77484	suri/a_n
 77537	h(merw=n
-77560	e)pauri/on
+77560	e)pau/rion
 77593	plei=on
 77597	u(pnou=
 e)pe/sen
-77602	katw=
+77602	ka/tw
 77610	e)pepe/sen
 77633	i(kano/n
 77637	au)gh=s
@@ -4447,7 +4447,7 @@ metanoia=n
 78178	e)/legon
 78189	e)ca_/rtisai
 78202	e(/ws
-78248	e)pauri/on
+78248	e)pau/rion
 78292	a)ra_/s
 78306	le/gei
 78356	kardia=n
@@ -4476,7 +4476,7 @@ metanoia=n
 79030	ou)ra/nou
 79033	i(kano/n
 79086	ei)po/n
-79101	a)kei=
+79101	e)/kei
 79128	a)nani_a_=s
 79146	e)pista_=s
 79152	a)gw=
@@ -4491,7 +4491,7 @@ ei)po/n
 79375	a_)kou/sa_s
 79399	le/ge
 79407	na_i+/
-79452	e)pauri/on
+79452	e)pau/rion
 79491	pa/sh|
 suneidh/sei
 79504	a)nani_a_=s
@@ -4518,7 +4518,7 @@ suneidh/sei
 80028	eu(ro/n
 80040	desmw=n
 80052	e)pe/mya_
-80083	e)pauri/on
+80083	e)pau/rion
 80115	poia=s
 80124	sou=
 80130	sou=
@@ -4547,7 +4547,7 @@ suneidh/sei
 80632	metapemyh=tai
 80636	e)nedra=n
 80684	deka=
-80689	e)pauri/on
+80689	e)pau/rion
 80713	a_(
 80733	*kai/sara
 80770	dei=
@@ -4556,13 +4556,13 @@ suneidh/sei
 80819	*kai/sara
 80821	h(merw=n
 80959	e)/legon
-80965	a)kei=
+80965	e)/kei
 80983	e(/ws
 80985	a)napemyw=
 80988	*kai/sara
 80999	a)kou/sa_|
 81002	a_)kou/sh|
-81006	e)pauri/on
+81006	e)pau/rion
 81112	sxw=
 81120	desmi/on
 81177	a)kou/sa_|
@@ -4592,7 +4592,7 @@ a)ci/a_
 81699	desmw=n
 81718	*kai/sara
 81751	*)asi/a_n
-81806	a)kei=
+81806	e)/kei
 81812	ple/on
 81835	a)nemou=
 81857	i(kanou=
@@ -4616,7 +4616,7 @@ paraxeima/sai
 82269	trofh=s
 82276	diatelei=te
 82283	trofh=s
-82308	e)nwpi/on
+82308	e)nw/pion
 82321	trofh=s
 82325	pa/sai
 82335	trofh=s
@@ -4663,7 +4663,7 @@ a_(
 83450	kardiw=n
 83469	yeu_/dei+
 83475	ktisei=
-83486	*dia=
+83486	*dia/
 83508	o(moi/ws
 83522	o)recei=
 83536	e)/dei
@@ -4722,7 +4722,7 @@ paraba/thn
 84264	a)=ras
 84272	e)kxe/ai
 84300	le/gei
-84326	e)nwpi/on
+84326	e)nw/pion
 84346	profh/twn
 84407	a)noxh=|
 84437	poi/ou
@@ -4743,7 +4743,7 @@ le/gei
 84660	perito/mhs
 84662	a)lla=
 84693	a)lla=
-84722	*dia=
+84722	*dia/
 84744	a)lla=
 84798	sou=
 84828	a)lla=
@@ -4761,7 +4761,7 @@ le/gei
 85056	a)lla=
 85064	kuriou=
 85072	katalla/ghn
-85074	*dia=
+85074	*dia/
 85118	a)lla=
 85238	a)/ra
 85264	parakoh=s
@@ -4802,7 +4802,7 @@ a)fo/rmhn
 85987	poi/w
 85994	poi/w
 86006	a)lla=
-86016	oi)kei=
+86016	oi)/kei
 86041	poi/w
 86043	a)lla=
 86057	poi/w
@@ -4815,10 +4815,10 @@ a)fo/rmhn
 86266	e)xqra/
 86268	qe/on
 86294	a)lla=
-86300	oi)kei=
+86300	oi)/kei
 86309	e)/xei
 86340	nekrw=n
-oi)kei=
+oi)/kei
 86347	nekrw=n
 86350	zwopoih/sei
 86363	a)/ra
@@ -4966,7 +4966,7 @@ metamorfou=sqe
 88457	katara=sqe
 88473	a)lla=
 88488	ka_/la_
-e)nwpi/on
+e)nw/pion
 88505	a)lla=
 88509	o)rgh=|
 88516	le/gei
@@ -5020,7 +5020,7 @@ sou=
 89134	kata/lue
 89142	a)lla=
 89163	sou=
-89172	e)nwpi/on
+89172	e)nw/pion
 89186	e)/a_n
 89209	a)dunatw=n
 89218	plh/sion
@@ -5031,7 +5031,7 @@ sou=
 89310	le/gw
 89315	perito/mhs
 89333	qe/on
-89336	*dia=
+89336	*dia/
 89345	sou=
 89349	le/gei
 89363	kuri/on
@@ -5090,7 +5090,7 @@ sou=
 90596	kataisxu_/nh|
 90608	kataisxu_/nh|
 90628	katarghsh=|
-90634	e)nwpi/on
+90634	e)nw/pion
 90665	a)gw=
 90697	a)gw=
 90725	a)podeicei=
@@ -5121,7 +5121,7 @@ kuriou=
 91117	e)poikodomei=
 91136	dhlw/sei
 91155	me/nei
-91187	oi)kei=
+91187	oi)/kei
 91256	so/fwn
 91259	mataioi=
 91322	a)nakri_qw=
@@ -5138,7 +5138,7 @@ kuriou=
 91482	a)ti_moi/
 91516	e(/ws
 91529	e)/a_n
-91556	*dia=
+91556	*dia/
 91559	e)pe/mya_
 91566	a)gaph=ton
 91573	a)namnh/sei
@@ -5160,7 +5160,7 @@ kuriou=
 91892	a)nacioi=
 91907	e)/a_n
 91919	le/gw
-91930	a)/na_
+91930	a)na/
 91935	a)lla=
 91943	a)pistw=n
 91966	a)lla=
@@ -5392,7 +5392,7 @@ a)ga/phn
 95645	e)/xei
 95647	e)/xei
 95649	e)/xei
-95665	a)/na_
+95665	a)na/
 95670	e)/a_n
 95684	pro/fhtai
 95692	a)/lloi
@@ -5405,7 +5405,7 @@ a)ga/phn
 95791	a_(
 95795	kuriou=
 95880	trith=|
-95893	e)panw=
+95893	e)pa_nw=
 95902	e(/ws
 95914	e)sxa=ton
 95921	a)moi/
@@ -5516,7 +5516,7 @@ na_i+/
 97561	a)lla=
 97569	i(kano/n
 97573	e)pitimia=
-97580	e)nanti/on
+97580	e)nanti=on
 97591	katapo/qh|
 97600	a)ga/phn
 97620	a)gw=
@@ -5550,14 +5550,14 @@ kuriou=
 98048	metamorfou/meqa
 98052	do/can
 98055	kuriou=
-98057	*dia=
+98057	*dia/
 98061	diakonia=n
 98066	e)gkakou/men
 a)lla=
 98070	kru/pta
 98083	a)lla=
 98085	fanerwsei=
-98094	e)nwpi/on
+98094	e)nw/pion
 98121	a)pistw=n
 98143	a)lla=
 98146	kuri/on
@@ -5614,7 +5614,7 @@ a)lla=
 99195	a)lla=
 e)kdikh=sin
 99205	a)ra=
-99230	e)nwpi/on
+99230	e)nw/pion
 99374	a)lla=
 99406	perisseu/ete
 99413	pa/sh|
@@ -5638,10 +5638,10 @@ do/can
 99635	proqu_mia=n
 99651	pronoou=men
 99653	ka_/la_
-99656	e)nwpi/on
+99656	e)nw/pion
 kuriou=
 a)lla=
-99660	e)nwpi/on
+99660	e)nw/pion
 99662	sunepemya=men
 99697	e)kklhsiw=n
 99704	a)ga/phs
@@ -5732,7 +5732,7 @@ duna/ta
 101101	yu_/xwn
 101106	a)gapw=
 101115	a)lla=
-101150	*pa/lai
+101150	pa/lai
 101154	a_)pologou/meqa
 101178	a)gw=
 101188	qu_moi/
@@ -5750,7 +5750,7 @@ zh=|
 101346	dokimoi=
 fanw=men
 101366	a)lla=
-101385	*dia=
+101385	*dia/
 101391	pa/rwn
 101397	e)cousia=n
 101412	katarti/zesqe
@@ -5773,14 +5773,14 @@ parakalei=sqe
 101728	a)lla=
 101764	kuriou=
 a_(
-101770	e)nwpi/on
+101770	e)nw/pion
 101782	suri/a_s
 101819	qe/on
 101876	kataskoph/sai_
 101887	katadoulw/sousin
 101894	u(potagh=|
 101927	a)lla=
-e)nanti/on
+e)nanti=on
 101939	perito/mhs
 101947	perito/mhs
 101968	stu_loi=
@@ -5832,7 +5832,7 @@ e)kklei=sai
 102924	a)lla/cai_
 102932	le/gete
 103013	te/knwn
-103017	a)_nw=
+103017	a)nw=
 103072	a)lla=
 103074	le/gei
 103076	gra/fh
@@ -5888,7 +5888,7 @@ a)lla=
 103809	fronhsei=
 103830	kai/rwn
 103910	a)polutrw=sin
-103918	*dia=
+103918	*dia/
 103920	a)gw=
 a_)kou/sa_s
 103932	a)ga/phn
@@ -5896,7 +5896,7 @@ a_)kou/sa_s
 103968	e)pignwsei=
 104026	nekrw=n
 104030	decia=|
-104035	u(pera_nw=
+104035	u(peranw=
 104054	a)lla=
 104144	dianoi/wn
 104148	fu_sei=
@@ -5920,7 +5920,7 @@ a_)kou/sa_s
 104725	a)ga/phn
 104797	a)gaph=|
 104858	le/gei
-104891	u(pera_nw=
+104891	u(peranw=
 104894	ou)ra/nwn
 104920	a(giw=n
 104982	a)gaph=|
@@ -6045,7 +6045,7 @@ dehsei=
 107178	a)lla=
 107209	katanth/sw
 107215	nekrw=n
-107258	a)_nw=
+107258	a)nw=
 107267	teleioi/
 107280	a)pokalu/yei
 107293	skopei=te
@@ -6077,7 +6077,7 @@ e)pizh/tw
 107768	kuriou=
 107785	a)ga/phn
 107862	a)ga/phn
-107865	*dia=
+107865	*dia/
 107888	pa/sh|
 107891	sunesei=
 107896	kuriou=
@@ -6118,9 +6118,9 @@ a_(
 108625	a_(
 108631	a)poxrhsei=
 108654	ti_mh=|
-108666	a)_nw=
+108666	a)nw=
 108673	decia=|
-108678	a)_nw=
+108678	a)nw=
 108712	doch=|
 108724	e)piqumia_=n
 108733	a_(
@@ -6309,7 +6309,7 @@ le/gousin
 111934	h(su/xion
 111936	diagw=men
 111938	pa/sh|
-111946	e)nwpi/on
+111946	e)nw/pion
 111991	le/gw
 112035	polute/lei
 112044	a)gaqw=n
@@ -6361,7 +6361,7 @@ parakalei=
 112550	xh/ra_
 112554	e)/xei
 112558	i_)_/dion
-112570	e)nwpi/on
+112570	e)nw/pion
 112576	xh/ra_
 112581	qe/on
 112607	i)diw=n
@@ -6377,8 +6377,8 @@ xh/ra_
 112740	le/gei
 112743	gra/fh
 112766	triw=n
-112770	e)nwpi/on
-112780	e)nwpi/on
+112770	e)nw/pion
+112780	e)nw/pion
 112788	e)kle/ktwn
 a)ggelw=n
 112796	poi/wn
@@ -6398,8 +6398,8 @@ a)ggelw=n
 113002	ka/kwn
 113015	peri+epei/ra_n
 113030	a)ga/phn
-113051	e)nwpi/on
-113055	e)nwpi/on
+113051	e)nw/pion
+113055	e)nw/pion
 113083	kuriou=
 113090	dei/cei
 113220	kuriou=
@@ -6436,7 +6436,7 @@ a)ggelw=n
 113604	desmw=n
 113607	a)lla=
 113654	me/nei
-113663	e)nwpi/on
+113663	e)nw/pion
 113672	katastrofh=|
 113694	plei=on
 113705	e(/cei
@@ -6464,7 +6464,7 @@ a)ggelw=n
 114060	i(era_/
 114076	gra/fh
 114085	e)panorqw=sin
-114104	e)nwpi/on
+114104	e)nw/pion
 114122	basilei+a_=n
 114134	pa/sh|
 114147	a)lla=
@@ -6548,7 +6548,7 @@ sou=
 115379	a_(
 le/gw
 115416	kuriou=
-115426	pa/lai
+115426	pa/la_|
 115438	h(merw=n
 115479	decia=|
 115488	a)ggelw=n
@@ -6572,7 +6572,7 @@ sou=
 115664	po/dwn
 sou=
 115672	diakonia=n
-115679	*dia=
+115679	*dia/
 115681	dei=
 115694	a)ggelw=n
 115703	parako/h
@@ -6580,7 +6580,7 @@ sou=
 115719	kuriou=
 115778	doch=|
 115780	ti_mh=|
-115785	u(pokatw=
+115785	u(poka/tw
 115787	po/dwn
 115792	u_(po/tacai
 115822	doch=|
@@ -6619,7 +6619,7 @@ parakalei=te
 116427	a)ra=
 116451	i)diw=n
 116471	zw^/n
-116507	e)nwpi/on
+116507	e)nw/pion
 116584	qe/on
 116607	o)fei/lei
 116626	a)lla=
@@ -6673,7 +6673,7 @@ parakalei=te
 117869	skh/nh
 117873	a(giw=n
 xru_sou=n
-117903	u(pera_nw=
+117903	u(peranw=
 117927	skhnh=n
 117968	a(giw=n
 117977	parabo/lh
@@ -6759,7 +6759,7 @@ noqoi/
 119741	troxi/a_s
 119751	e)ktraph=|
 119767	kuri/on
-119781	a)_nw=
+119781	a)nw=
 119783	e)noxlh=|
 119875	a)lla=
 119878	o)/rei
@@ -6789,7 +6789,7 @@ noqoi/
 120297	kuri/on
 120300	kata_/rtisai
 120311	poi/wn
-120316	e)nwpi/on
+120316	e)nw/pion
 120353	e)/a_n
 120381	kuriou=
 120419	teleioi/
@@ -6859,7 +6859,7 @@ le/gei
 121593	le/gei
 121602	u(pota/ghte
 121606	a)ntisth=te
-121644	e)nwpi/on
+121644	e)nw/pion
 kuriou=
 121647	u_(yw/sei
 121650	katalalei=te
@@ -6952,11 +6952,11 @@ e)pestra/fhte
 122929	gunai/kwn
 122931	a)_neu=
 122947	tri/xwn
-122971	e)nwpi/on
+122971	e)nw/pion
 122985	qe/on
 122997	kuri/on
 123011	o(moi/ws
-123052	e)nanti/on
+123052	e)nanti=on
 123066	a_)ga/pa_n
 123096	kuriou=
 123103	de/hsin
@@ -7002,7 +7002,7 @@ stereoi=
 123735	katartisei=
 sthri/cei
 123738	qemeliw/sei
-123748	*dia=
+123748	*dia/
 123752	pi/stou
 123757	o)li/gwn
 123786	a)ga/phs
@@ -7015,7 +7015,7 @@ sthri/cei
 123893	a)reth=|
 123925	a)ga/phn
 123940	kuriou=
-123958	pa/lai
+123958	pa/la_|
 123970	e)klogh=n
 123989	basilei+a_=n
 123991	kuriou=
@@ -7145,7 +7145,7 @@ me/nei
 126083	qe/on
 126086	e)/a_n
 126098	a)resta/
-e)nwpi/on
+e)nw/pion
 126132	me/nei
 126142	me/nei
 126156	a)lla=
@@ -7221,7 +7221,7 @@ sou=
 127328	e)/a_n
 127338	sou=
 127340	a)gaph=|
-e)nwpi/on
+e)nw/pion
 127379	diotrefh=s
 127385	e)/a_n
 127391	a_(
@@ -7230,7 +7230,7 @@ e)nwpi/on
 127435	qe/on
 127457	*po/lla
 127485	filoi/
-127543	pa/lai
+127543	pa/la_|
 127563	kuri/on
 127596	a)lla=
 127599	i_)_/dion
@@ -7258,7 +7258,7 @@ dei=
 128016	*)asi/a_|
 128034	pneuma/twn
 a_(
-e)nwpi/on
+e)nw/pion
 128051	nekrw=n
 128076	basilei+a_=n
 128113	pa/sai
@@ -7307,7 +7307,7 @@ deka=
 128653	ni_kw=n
 128671	le/gei
 128717	katoikei=
-128736	e)nwpi/on
+128736	e)nw/pion
 128738	ui(/wn
 128753	o(moi/ws
 128779	le/gei
@@ -7334,26 +7334,26 @@ deka=
 129061	sou=
 129078	a_(
 129084	sou=
-129087	e)nwpi/on
+129087	e)nw/pion
 129101	e)/a_n
 129117	a)lla=
 129123	a_(
 129130	peripath/sousin
 129136	a)cioi=
 129139	ni_kw=n
-129162	e)nwpi/on
-129167	e)nwpi/on
+129162	e)nw/pion
+129167	e)nw/pion
 129169	a)ggelw=n
 129178	le/gei
 129190	le/gei
 129204	klei/sei
 129211	sou=
-129216	e)nwpi/on
+129216	e)nw/pion
 sou=
 129223	klei/+sai_
 129255	a)lla=
 129263	proskunh/sousin
-e)nwpi/on
+e)nw/pion
 129266	po/dwn
 sou=
 129281	a)gw=
@@ -7381,33 +7381,33 @@ fi/lw
 129590	a_(
 dei=
 129663	bronta=|
-129669	e)nwpi/on
+129669	e)nw/pion
 129672	a_(
-129680	e)nwpi/on
+129680	e)nw/pion
 129686	o(moi/a_
 129709	o(/moion
 129715	o(/moion
 129730	o(/moion
-129742	a)/na_
+129742	a)na/
 129779	do/can
-129801	e)nwpi/on
+129801	e)nw/pion
 129808	proskunh/sousin
-129821	e)nwpi/on
+129821	e)nw/pion
 129835	do/can
 129851	sou=
 129859	decia_/n
-129902	u(pokatw=
+129902	u(poka/tw
 129929	le/gei
 129936	*lew=n
 129962	zw|w=n
-130016	e)nwpi/on
+130016	e)nw/pion
 130032	a(giw=n
 130057	sou=
 130073	basilei+a_=n
 130086	a)ggelw=n
 130093	zw|w=n
 130128	do/can
-130143	u(pokatw=
+130143	u(poka/tw
 130186	e)/legon
 130211	zw|w=n
 130215	bronth=s
@@ -7415,9 +7415,9 @@ dei=
 130274	sfacou=sin
 130318	zw|w=n
 130326	kri_/qwn
-130359	e)panw=
+130359	e)pa_nw=
 130392	qhri/wn
-130402	u(pokatw=
+130402	u(poka/tw
 130421	e)/kracan
 130425	e(/ws
 130460	e(/ws
@@ -7430,24 +7430,24 @@ dei=
 130657	e)/kracen
 130692	metw/pwn
 130708	ui(/wn
-130794	e)nwpi/on
-130798	e)nwpi/on
+130794	e)nw/pion
+130798	e)nw/pion
 130842	zw|w=n
-130845	e)nwpi/on
+130845	e)nw/pion
 130850	prosw/pa_
-130942	e)nwpi/on
+130942	e)nw/pion
 130963	skhnw/sei
-130986	a)/na_
+130986	a)na/
 130993	o(dhgh/sei
 130998	u(da/twn
 131000	e)calei/yei
-131029	e)nwpi/on
+131029	e)nw/pion
 131049	xru_sou=n
 131060	a(giw=n
 131066	xru_sou=n
-131068	e)nwpi/on
+131068	e)nw/pion
 131080	a(giw=n
-131085	e)nwpi/on
+131085	e)nw/pion
 131109	bronta=|
 131138	memi_gme/na_
 131156	de/ndrwn
@@ -7480,7 +7480,7 @@ o(moioi=
 131572	e)/xei
 a)pollu/wn
 131598	kera/twn
-131604	e)nwpi/on
+131604	e)nw/pion
 131700	qei/on
 131703	triw=n
 131745	o(moia=|
@@ -7507,7 +7507,7 @@ a)pollu/wn
 132104	dei=
 132172	profhteu/sousin
 132183	e)laia=|
-132189	e)nwpi/on
+132189	e)nw/pion
 132191	kuriou=
 132219	dei=
 132225	e)cousia=n
@@ -7527,7 +7527,7 @@ klei/+sai_
 132445	ou)ra/nou
 132473	basilei/a_
 132477	kuriou=
-132496	e)nwpi/on
+132496	e)nw/pion
 132507	prosw/pa_
 132530	sou=
 132543	sou=
@@ -7535,20 +7535,20 @@ klei/+sai_
 132556	sou=
 132567	sou=
 132606	bronta=|
-132626	u(pokatw=
+132626	u(poka/tw
 132628	po/dwn
 132636	a)ste/rwn
 132665	deka=
 132675	ou)ra=
 132681	a)ste/rwn
 132683	ou)ra/nou
-132694	e)nwpi/on
+132694	e)nw/pion
 132706	katafagh=|
 132727	qe/on
 132741	e)/xei
 132809	pla/nwn
 132841	basilei/a_
-132861	e)nwpi/on
+132861	e)nw/pion
 132895	ou)ranoi=
 132920	e)/xei
 132950	peth=tai
@@ -7571,13 +7571,13 @@ klei/+sai_
 133282	a(giw=n
 133295	o(moi/a_
 133303	e)cousia=n
-133309	e)nwpi/on
+133309	e)nw/pion
 133321	proskunh/sousin
 133336	mega/la_
 133343	ou)ra/nou
-133348	e)nwpi/on
+133348	e)nw/pion
 133361	a_(
-133365	e)nwpi/on
+133365	e)nw/pion
 133379	e)/xei
 133406	e)/a_n
 133454	a)go/ra_sai
@@ -7586,8 +7586,8 @@ klei/+sai_
 133534	ou)ra/nou
 133537	u(da/twn
 133542	bronth=s
-133560	e)nwpi/on
-133564	e)nwpi/on
+133560	e)nw/pion
+133564	e)nw/pion
 133567	zw|w=n
 133593	gunai/kwn
 133606	u(pagh=|
@@ -7601,10 +7601,10 @@ e)pe/sen
 133723	prosku/nei
 133747	oi)nou=
 133749	qu_/mou
-133767	e)nwpi/on
+133767	e)nw/pion
 a)ggelw=n
 a(giw=n
-133771	e)nwpi/on
+133771	e)nw/pion
 133812	a(giw=n
 133829	ou)ra/nou
 133834	nekroi/
@@ -7627,7 +7627,7 @@ sou=
 134145	doca/sei
 134148	sou=
 134158	proskunh/sousin
-e)nwpi/on
+e)nw/pion
 sou=
 134164	sou=
 134210	zw|w=n
@@ -7653,7 +7653,7 @@ sou=
 134558	a_(
 134594	peripath=|
 134638	bronta=|
-134677	e)nwpi/on
+134677	e)nw/pion
 134685	oi)nou=
 134687	qu_/mou
 134707	ou)ra/nou
@@ -7665,7 +7665,7 @@ sou=
 134807	porfurou=n
 134820	xru_sou=n
 134862	a(giw=n
-134881	*dia=
+134881	*dia/
 134885	e)rw=
 134904	deka=
 134923	u(pa/gei
@@ -7756,10 +7756,10 @@ i)sxurw=n
 136198	i)sxurw=n
 136210	e)leuqerw=n
 136213	doulw=n
-136259	e)nwpi/on
+136259	e)nw/pion
 136314	sarkw=n
 136322	ou)ra/nou
-136364	e)panw=
+136364	e)pa_nw=
 136379	dei=
 136445	nekrw=n
 136466	a)nastasei=
@@ -7768,7 +7768,7 @@ e)cousia=n
 136547	a(giw=n
 136558	ou)ra/nou
 136566	pla/nwn
-136628	e)nwpi/on
+136628	e)nw/pion
 136645	nekroi/
 136756	ou)ra/nou
 136777	skh/nh
@@ -7791,7 +7791,7 @@ pistoi/
 137110	i)sa=
 137138	o(/moion
 137142	qemelioi=
-137195	a)/na_
+137195	a)na/
 137213	dia+u/ghs
 137238	e)/xei
 137240	h(liou=

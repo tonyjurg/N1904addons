@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:21+00:00Z
+@dateWritten=2025-06-15T22:27:23+00:00Z
 
 574	verb
 914	verb
@@ -28,7 +28,7 @@
 1961	verb
 2678	verb
 2930	verb
-2937	noun
+2937	noun other indeclinable
 3096	verb
 3221	verb
 3458	verb
@@ -40,8 +40,8 @@
 3943	verb
 4080	verb
 4091	verb
-4399	noun
-4448	noun
+4399	noun other indeclinable
+4448	noun other indeclinable
 4516	verb
 4537	verb
 4647	verb
@@ -57,10 +57,10 @@
 6480	verb
 6516	verb
 6545	noun
-6561	noun
+6561	noun other indeclinable
 6814	verb
 7027	noun
-7121	noun
+7121	noun other indeclinable
 7405	verb
 7512	verb
 7544	verb
@@ -71,18 +71,18 @@
 7797	verb
 7828	verb
 7852	verb
-7929	noun
+7929	noun other indeclinable
 7935	verb
 8400	verb
-8626	noun
-8649	noun
+8626	noun other indeclinable
+8649	noun other indeclinable
 8699	noun
 9008	verb
 9305	verb
 9498	verb
 9752	verb
-10081	noun
-10092	noun
+10081	noun other indeclinable
+10092	noun other indeclinable
 10202	verb
 10207	verb
 10264	verb
@@ -90,7 +90,7 @@
 10310	verb
 10491	noun
 10517	noun
-10701	noun
+10701	noun other indeclinable
 10705	verb
 10876	verb
 10935	verb
@@ -107,7 +107,7 @@
 12431	verb
 12433	verb
 12460	noun
-12462	noun
+12462	noun other indeclinable
 12575	verb
 12793	verb
 12857	verb
@@ -133,7 +133,7 @@
 17190	verb
 17457	verb
 18537	verb
-19319	noun
+19319	noun other indeclinable
 19409	verb
 19416	noun
 19430	verb
@@ -152,8 +152,8 @@
 21104	verb
 21453	verb
 22252	verb
-22526	noun
-22909	noun
+22526	noun other indeclinable
+22909	noun other indeclinable
 22968	verb
 23244	verb
 23703	verb
@@ -170,7 +170,7 @@
 25576	verb
 25912	verb
 25940	noun
-noun
+noun other indeclinable
 26062	verb
 26355	verb
 26539	verb
@@ -204,7 +204,7 @@ noun
 32902	noun
 32952	verb
 33524	verb
-33543	noun
+33543	noun other indeclinable
 33667	noun
 33678	verb
 33685	noun
@@ -239,7 +239,7 @@ noun
 39101	verb
 39702	noun
 39858	verb
-39909	noun
+39909	noun other indeclinable
 40057	verb
 40076	verb
 40131	noun
@@ -280,13 +280,13 @@ noun
 44475	verb
 44609	verb
 44695	noun
-44727	noun
+44727	noun other indeclinable
 44803	verb
 44807	noun
 44865	verb
 45053	verb
 45078	noun
-noun
+noun other indeclinable
 45092	verb
 45197	verb
 45411	verb
@@ -336,9 +336,9 @@ noun
 53653	verb
 53686	verb
 53695	verb
-53834	noun
+53834	noun other indeclinable
 54056	verb
-54688	noun
+54688	noun other indeclinable
 54802	verb
 55273	verb
 55400	noun
@@ -351,7 +351,7 @@ noun
 57207	verb
 57225	verb
 57618	verb
-58292	noun
+58292	noun other indeclinable
 58644	noun
 58649	verb
 58666	verb
@@ -394,7 +394,7 @@ noun
 67099	noun
 67227	verb
 67343	verb
-67398	noun
+67398	noun other indeclinable
 67439	verb
 67463	verb
 67834	verb
@@ -421,7 +421,7 @@ noun
 72532	noun
 72682	verb
 72902	noun
-73804	preposition
+73804	noun
 73871	verb
 74013	verb
 74240	verb
@@ -466,7 +466,7 @@ noun
 82784	verb
 82910	verb
 83054	verb
-83486	noun
+83486	noun other indeclinable
 83558	verb
 83661	noun
 83823	verb
@@ -474,8 +474,8 @@ noun
 84173	verb
 84226	verb
 84240	noun
-84722	noun
-85074	noun
+84722	noun other indeclinable
+85074	noun other indeclinable
 85238	noun
 85845	verb
 85867	verb
@@ -498,7 +498,7 @@ noun
 88532	noun
 88703	verb
 89089	verb
-89336	noun
+89336	noun other indeclinable
 89824	verb
 89866	verb
 89880	verb
@@ -515,7 +515,7 @@ noun
 91069	noun
 91386	verb
 91444	noun
-91556	noun
+91556	noun other indeclinable
 91566	verb
 91620	verb
 91751	verb
@@ -558,7 +558,7 @@ verb
 97591	verb
 97620	verb
 97953	verb
-98057	noun
+98057	noun other indeclinable
 98061	verb
 98435	verb
 98658	verb
@@ -580,9 +580,9 @@ verb
 100697	verb
 100789	verb
 100905	verb
-101150	noun
+101150	noun other indeclinable
 101178	verb
-101385	noun
+101385	noun other indeclinable
 101928	verb
 102077	verb
 102326	verb
@@ -596,7 +596,7 @@ verb
 103526	noun
 103548	noun
 103627	verb
-103918	noun
+103918	noun other indeclinable
 103920	verb
 104148	verb
 104354	noun
@@ -614,7 +614,7 @@ verb
 107355	noun
 107436	verb
 107474	verb
-107865	noun
+107865	noun other indeclinable
 107891	verb
 107956	verb
 108059	verb
@@ -658,7 +658,7 @@ verb
 115307	verb
 115545	noun
 115672	verb
-115679	noun
+115679	noun other indeclinable
 115938	noun
 116087	verb
 116212	verb
@@ -689,7 +689,7 @@ verb
 123278	verb
 123422	verb
 123735	noun
-123748	noun
+123748	noun other indeclinable
 123989	verb
 124283	verb
 124543	noun
@@ -730,7 +730,7 @@ verb
 133479	verb
 133606	verb
 134467	verb
-134881	noun
+134881	noun other indeclinable
 134885	verb
 135024	verb
 135062	verb

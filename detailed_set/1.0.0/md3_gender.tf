@@ -11,24624 +11,53173 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:27+00:00Z
+@dateWritten=2025-06-15T22:27:29+00:00Z
 
-3	masc
-masc/neut
-22	masc
-99	neut
-109	neut
-neut
-144	masc
-154	masc
-masc
-164	masc
-239	fem
-243	masc
-neut
-masc
-masc
-249	fem
-253	fem
-260	fem
-271	fem
-273	masc/neut
-278	masc
-masc/neut
-fem
-288	fem
-304	neut
-324	masc/neut
-329	masc
-339	masc/neut
-366	neut
-fem
-370	neut
-375	neut
-377	masc/neut
-neut
-381	masc/neut
-383	fem
-399	neut
-401	masc/neut
-neut
-406	neut
-415	neut
-417	masc/neut
-427	fem
-439	masc
-449	masc
-457	masc
-460	neut
-464	masc
-479	neut
-484	fem
-499	fem
-501	neut
-masc
-504	masc
-506	neut
-515	neut
-518	masc
-522	masc
-529	masc
-550	fem
-567	masc
-574	masc
-578	masc
-582	masc
-586	neut
-595	fem
-602	masc
-610	fem
-618	masc
-620	fem
-632	fem
-640	fem
-656	fem
-masc/neut
-659	fem
-662	masc/fem/neut
-668	masc
-672	masc
-684	fem
-687	masc
-693	masc
-697	neut
-702	masc
-715	fem
-722	neut
-724	masc/fem/neut
-neut
-728	masc/neut
-737	fem
-neut
-742	masc
-744	masc
-756	masc/neut
-761	masc/fem/neut
-763	masc/neut
-neut
-769	neut
-771	masc
-775	neut
-neut
-780	masc/neut
-790	fem
-fem
-798	neut
-807	masc/neut
-815	masc
-819	masc
-831	masc
-836	masc
-neut
-842	masc
-854	neut
-873	fem
-fem
-876	fem
-882	fem
-887	neut
-neut
-890	masc
-neut
-901	neut
-909	masc
-913	fem
-fem
-920	neut
-922	neut
-926	masc/neut
-928	masc/neut
-935	masc/neut
-fem
-943	neut
-950	masc
-957	fem
-959	fem
-961	masc
-974	fem
-fem
-neut
-978	fem
-fem
-994	fem
-masc
-1021	neut
-1037	neut
-masc
-neut
-1043	masc
-1049	neut
-1051	fem
-1059	neut
-1065	neut
-1073	fem
-1079	neut
-1091	fem
-1095	fem
-1104	masc
-1112	masc
-1124	masc
-1130	neut
-masc
-1134	fem
-1145	neut
-1149	masc
-1163	neut
-masc
-1173	masc/fem
-1175	fem
-1182	neut
-masc
-1192	masc
-1210	fem
-1213	neut
-1216	neut
-1222	neut
-masc
-1227	masc
-1237	fem
-1242	neut
-1246	neut
-1257	masc
-1262	neut
-1272	neut
-1279	neut
-1285	neut
-1289	masc
-1298	masc/fem/neut
-1307	masc
-neut
-1312	neut
-1321	masc
-1323	masc
-1331	masc/neut
-1334	neut
-masc
-1340	masc
-1342	masc
-masc/neut
-1347	neut
-1352	masc
-1354	masc/neut
-1356	fem
-1358	fem
-1364	masc
-1369	masc
-neut
-1372	neut
-1379	neut
-masc
-1382	masc
-1385	masc
-1387	neut
-masc/neut
-1397	neut
-1408	neut
-1414	fem
-1416	masc
-1433	neut
-neut
-1438	masc/neut
-fem
-1445	masc
-1449	fem
-1452	neut
-1454	neut
-1457	fem
-1475	neut
-masc
-1483	fem
-fem
-1487	masc
-1489	neut
-1493	fem
-1499	masc
-masc
-1502	masc
-1522	fem
-1525	masc
-1529	fem
-1533	masc
-1537	masc
-1556	fem
-1558	fem
-1560	fem
-1564	masc
-1573	fem
-1576	masc
-1581	fem
-1586	fem
-1590	masc
-1592	fem
-1595	fem
-1598	fem
-1605	fem
-1611	fem
-1617	masc
-1639	fem
-1650	masc
-1663	masc
-fem
-1673	masc
-masc/fem
-masc
-1679	neut
-fem
-1682	fem
-fem
-1687	masc
-1689	neut
-1693	masc
-1695	neut
-1701	masc
-1707	neut
-1711	masc
-1713	neut
-1717	masc
-1721	neut
-1724	masc
-1727	masc
-1729	neut
-1735	masc
-1739	neut
-fem
-1742	fem
-fem
-1750	fem
-1755	neut
-masc
-1758	masc/neut
-1765	neut
-neut
-1768	masc/neut
-1780	masc/neut
-1784	fem
-1787	neut
-1790	fem
-1814	masc
-1820	fem
-1832	masc
-1844	masc/neut
-1850	masc/neut
-fem
-fem
-1858	masc/neut
-1863	masc
-1865	neut
-1882	fem
-1885	neut
-1888	fem
-1891	neut
-1901	fem
-1903	neut
-fem
-1906	neut
-1919	fem
-1924	fem
-1938	fem
-1944	neut
-neut
-1948	masc/neut
-fem
-1951	neut
-1961	fem
-1965	neut
-1978	fem
-1983	neut
-1985	neut
-1993	fem
-2010	masc/fem
-2018	neut
-2023	masc/neut
-2026	masc
-2029	neut
-neut
-2032	masc/neut
-2035	neut
-2041	masc/neut
-2047	masc
-2051	masc/neut
-2058	masc/neut
-2060	neut
-2063	masc/neut
-2065	fem
-2075	masc
-2077	neut
-2082	neut
-2092	masc
-2097	fem
-2104	neut
-2112	neut
-2114	neut
-2121	neut
-2130	neut
-2132	masc/neut
-neut
-2136	masc
-2140	masc
-2145	masc
-2148	neut
-2150	masc
-masc/neut
-2154	neut
-2157	masc/neut
-2163	fem
-fem
-masc/neut
-2168	masc
-neut
-2172	masc
-2177	masc
-2180	neut
-2182	masc
-masc/neut
-2186	neut
-2189	masc/neut
-2201	masc/neut
-2203	neut
-2208	neut
-2210	neut
-masc
-2223	neut
-2229	neut
-2238	masc/neut
-2241	masc/neut
-2248	masc
-2253	neut
-2262	neut
-2266	masc
-2271	neut
-2276	masc
-2281	masc/neut
-2283	neut
-2291	fem
-2294	neut
-2296	masc/neut
-2310	neut
-2316	masc
-2318	masc
-2329	masc
-2333	masc
-2335	masc/neut
-neut
-2344	masc
-2348	fem
-masc/neut
-2358	masc
-2361	neut
-2368	masc
-2372	masc
-2379	neut
-2383	masc
-masc/neut
-2389	masc/neut
-2397	masc/neut
-2403	fem
-2409	masc/neut
-2413	neut
-2428	neut
-2433	fem
-masc/fem
-2439	masc
-2445	neut
-2449	masc/neut
-2456	masc
-2466	neut
-2468	masc/neut
-neut
-2477	masc/neut
-2493	neut
-2495	fem
-masc/neut
-2503	fem
-2508	masc/neut
-2510	masc
-2531	fem
-2537	masc/fem/neut
-fem
-neut
-masc/neut
-2543	fem
-fem
-masc/neut
-2548	masc/neut
-fem
-2555	neut
-2557	masc/neut
-neut
-2564	masc
-masc
-2571	masc
-2573	neut
-masc/neut
-2583	neut
-2596	fem
-2600	fem
-2605	masc/neut
-2607	masc
-2610	masc/neut
-2613	fem
-masc/neut
-2620	neut
-2622	masc/neut
-neut
-2629	masc
-2635	masc
-2639	neut
-2643	fem
-2651	neut
-2653	masc/neut
-2659	fem
-2667	masc/neut
-neut
-2675	masc/neut
-2677	fem
-fem
-masc/neut
-2682	fem
-masc/neut
-2692	masc/neut
-2696	masc/fem
-2700	masc/fem
-fem
-2703	masc/neut
-2710	masc/neut
-2714	fem
-2719	fem
-2723	neut
-2728	fem
-2730	fem
-2734	neut
-2736	masc/neut
-neut
-2739	neut
-2745	fem
-neut
-2748	masc/neut
-2750	fem
-2752	masc/neut
-2759	masc
-2764	fem
-2766	fem
-2778	fem
-2783	masc/neut
-2789	masc/neut
-2799	fem
-masc/neut
-2806	neut
-2808	masc/neut
-neut
-2815	masc
-masc
-2824	masc
-2831	masc/neut
-2842	masc
-2850	masc/neut
-fem
-2856	neut
-2858	masc/neut
-2862	fem
-neut
-masc/neut
-neut
-2870	neut
-2872	neut
-2875	neut
-2877	masc/neut
-2879	neut
-2882	masc/neut
-2885	neut
-2887	neut
-2889	masc/neut
-2892	neut
-2895	masc/neut
-2904	masc
-2909	neut
-2911	masc
-fem
-masc/fem/neut
-2918	fem
-2937	fem
-2945	masc/neut
-2954	masc/neut
-2958	fem
-neut
-neut
-2963	masc
-2971	fem
-fem
-2975	neut
-2977	masc/neut
-fem
-2980	fem
-2985	neut
-2987	masc/neut
-neut
-2990	neut
-fem
-2996	masc
-3000	masc/neut
-masc
-masc
-3009	fem
-3016	fem
-3023	masc/neut
-fem
-3029	neut
-fem
-3039	neut
-3048	neut
-3054	neut
-3057	masc/neut
-3061	fem
-3066	masc
-3075	neut
-3078	fem
-3080	masc/neut
-3083	neut
-3085	masc/neut
-neut
-3088	neut
-3094	masc
-3096	fem
-3103	neut
-3112	fem
-3119	fem
-fem
-3123	masc
-3152	masc/neut
-3159	neut
-3167	masc/neut
-3175	masc/neut
-3178	fem
-3184	masc
-3186	masc
-3192	neut
-3204	masc/neut
-masc
-3215	masc/neut
-3225	fem
-fem
-3230	fem
-3244	neut
-3248	neut
-3259	masc/neut
-3263	neut
-3286	fem
-3290	masc/neut
-3293	neut
-3295	masc/neut
-neut
-3301	fem
-3305	neut
-3307	fem
-neut
-3313	masc
-fem
-3323	neut
-3326	masc
-3329	neut
-3333	neut
-fem
-fem
-3339	fem
-3341	fem
-fem
-3349	masc
-3353	neut
-neut
-fem
-3359	fem
-3361	fem
-fem
-3369	masc
-3379	fem
-3382	masc
-3391	fem
-3394	fem
-3397	masc
-fem
-3402	fem
-3404	neut
-3418	masc
-3424	fem
-3430	neut
-3435	neut
-3445	fem
-3450	neut
-masc
-3453	masc
-masc
-3458	fem
-3462	neut
-masc
-3465	fem
-3479	fem
-masc
-masc
-3491	neut
-3504	neut
-3507	fem
-3511	masc
-3539	fem
-3543	masc
-3547	masc
-3564	neut
-fem
-3572	masc
-3576	masc/fem/neut
-3584	neut
-3587	fem
-3591	masc
-3595	masc
-3606	fem
-3610	masc
-3612	neut
-3614	neut
-masc
-3620	masc
-3636	masc
-3638	fem
-masc/neut
-3655	masc
-masc
-neut
-3668	masc
-3675	fem
-fem
-3680	neut
-masc
-3687	neut
-neut
-3692	masc
-3697	masc
-3699	masc
-3709	masc
-3712	masc
-masc
-neut
-masc/fem
-3722	masc
-3732	neut
-3735	masc
-3751	neut
-masc/fem
-3780	neut
-3786	neut
-masc
-3807	neut
-3824	fem
-3827	masc
-3831	fem
-3840	neut
-3843	neut
-3846	masc
-3849	neut
-masc
-3857	masc
-3860	neut
-masc/fem
-3866	masc
-3868	neut
-masc
-3876	fem
-3889	neut
-3896	fem
-3905	fem
-3911	masc
-3917	neut
-neut
-3922	masc/neut
-3926	masc/neut
-3932	masc
-3934	neut
-masc
-3944	masc
-3952	masc
-3954	neut
-3959	neut
-masc
-fem
-3966	fem
-fem
-3971	neut
-3985	fem
-3988	masc
-neut
-3991	masc
-3998	neut
-4000	masc
-4011	fem
-4013	masc
-4021	masc
-fem
-4038	neut
-4046	masc
-masc
-neut
-4067	masc/fem
-4069	masc
-4071	fem
-4073	masc
-4077	neut
-4079	masc
-4082	fem
-4086	masc
-4106	masc
-4110	masc/fem
-4112	neut
-4119	masc
-4121	masc/fem
-4123	masc
-4132	fem
-4135	fem
-4137	fem
-4142	masc
-4147	masc
-4150	fem
-4152	fem
-4162	masc
-4172	fem
-fem
-4175	neut
-4186	masc
-4196	neut
-4198	fem
-4203	fem
-fem
-4210	masc
-4219	fem
-fem
-masc
-fem
-4230	masc
-4232	masc
-4241	fem
-neut
-masc
-4246	fem
-4253	masc/neut
-fem
-4261	neut
-4268	neut
-masc
-4272	fem
-4277	fem
-4281	masc/neut
-4288	masc/neut
-fem
-4298	masc
-neut
-4302	neut
-4317	masc/neut
-4325	masc/neut
-4335	masc
-4341	masc
-4343	neut
-4348	masc
-masc
-neut
-masc
-4358	masc
-4360	masc
-4370	masc
-4386	masc
-4393	masc
-4399	fem
-4407	neut
-4409	masc/neut
-neut
-4417	masc
-4421	masc
-masc
-4429	masc
-4444	masc
-fem
-4447	masc
-fem
-4452	masc
-4455	masc
-4457	fem
-masc/neut
-4464	neut
-masc
-masc
-4468	masc
-4476	fem
-4478	neut
-4482	fem
-4486	fem
-neut
-4510	neut
-fem
-4513	fem
-4524	masc
-4527	neut
-4531	masc
-4549	masc
-4554	masc
-neut
-4566	masc/neut
-4573	neut
-masc
-4578	masc
-fem
-4581	masc
-4586	masc
-4588	neut
-4599	neut
-4606	neut
-4608	masc
-masc
-4611	fem
-4616	fem
-4618	masc/neut
-4620	masc
-4623	fem
-4631	neut
-masc
-4639	fem
-4641	masc
-4652	masc
-4658	neut
-4661	neut
-4671	masc
-4674	fem
-4682	masc
-4686	masc
-4692	masc
-neut
-fem
-4704	masc
-4709	neut
-masc
-4712	neut
-4719	masc
-4724	fem
-masc
-neut
-4729	masc/neut
-4734	fem
-masc
-4740	neut
-masc
-masc
-4746	masc
-4756	fem
-4767	masc/fem/neut
-4769	neut
-4773	masc
-4775	masc
-4782	masc
-4790	masc/fem/neut
-4792	fem
-neut
-masc
-4796	neut
-masc
-4799	fem
-fem
-4808	fem
-4812	masc
-4814	fem
-4817	fem
-4820	fem
-4822	masc
-4828	fem
-neut
-4844	neut
-4848	masc
-4855	masc/neut
-4865	masc
-4869	fem
-4874	neut
-4878	fem
-4881	fem
-4884	fem
-4890	fem
-4894	masc
-masc
-neut
-masc
-4900	masc
-neut
-4906	neut
-4911	neut
-4920	neut
-4923	neut
-4928	masc
-neut
-4933	neut
-4935	neut
-4943	neut
-masc
-4947	masc
-4963	fem
-4965	fem
-4972	masc
-neut
-4975	fem
-fem
-4985	neut
-4987	fem
-4989	fem
-4991	masc
-4997	neut
-5001	masc/neut
-5003	fem
-5008	fem
-5015	neut
-5018	masc
-5036	fem
-5047	neut
-5050	fem
-neut
-neut
-5054	fem
-5056	masc/neut
-5059	neut
-5063	neut
-fem
-5066	masc/neut
-5068	fem
-5075	fem
-5080	masc/neut
-5093	masc
-masc/neut
-5105	fem
-5109	fem
-5114	fem
-5119	masc
-5124	masc
-5129	fem
-5136	masc/neut
-5138	fem
-5140	fem
-5145	fem
-5147	fem
-5153	masc
-5158	masc
-5166	fem
-5186	masc
-5193	masc/neut
-5220	neut
-5224	neut
-5234	fem
-5237	fem
-5251	fem
-5254	fem
-5256	neut
-5266	fem
-5270	masc/fem
-5276	fem
-5278	neut
-5282	neut
-5285	neut
-masc/fem
-5319	fem
-5333	neut
-5362	masc
-5366	neut
-5368	masc
-5377	masc/neut
-masc/neut
-5381	fem
-5392	masc
-5405	masc
-5425	masc
-5435	masc
-5437	neut
-5454	neut
-5460	neut
-5466	neut
-5468	fem
-5474	masc
-5477	neut
-masc
-5489	neut
-masc
-5515	neut
-5523	neut
-5532	neut
-5534	fem
-5538	neut
-5545	neut
-5555	neut
-5557	neut
-5566	neut
-5568	fem
-5570	masc/neut
-5587	masc
-5589	neut
-5591	neut
-masc
-5606	masc/neut
-fem
-neut
-5615	fem
-5618	masc/neut
-5620	neut
-5622	fem
-5628	neut
-5635	neut
-masc
-5642	fem
-5650	masc/neut
-5666	neut
-5675	neut
-masc
-5686	masc
-5701	masc
-fem
-fem
-5709	fem
-5734	masc/neut
-5739	masc/neut
-5741	masc/neut
-5749	masc
-5754	neut
-5759	fem
-5768	fem
-5772	fem
-5774	fem
-fem
-5780	fem
-5785	masc
-5788	neut
-5790	fem
-5800	neut
-5803	neut
-5813	neut
-5815	masc
-5820	fem
-masc
-5838	neut
-5840	masc
-5843	neut
-5846	neut
-5850	neut
-5852	masc
-5857	masc
-5866	fem
-5876	fem
-5880	fem
-5884	neut
-5888	masc
-5891	masc
-5893	neut
-5900	fem
-5902	fem
-5922	fem
-5930	fem
-5933	fem
-masc
-5936	neut
-5941	fem
-5943	fem
-5946	masc
-5955	neut
-5961	fem
-5964	masc
-5970	neut
-masc
-5974	masc
-5976	masc
-5982	neut
-5986	masc
-5988	masc
-5991	fem
-5994	neut
-5996	neut
-6001	masc/neut
-neut
-6016	neut
-6018	fem
-6025	neut
-6029	neut
-fem
-neut
-6038	masc
-6042	masc
-6044	fem
-6047	masc
-6050	fem
-6055	neut
-6067	masc/neut
-neut
-6084	neut
-masc
-6088	neut
-6091	masc
-6093	fem
-6102	masc
-6106	neut
-6109	masc
-fem
-masc/neut
-6119	neut
-6128	neut
-6131	masc
-6153	fem
-6168	neut
-6171	masc
-6175	masc/fem/neut
-6185	neut
-6187	masc/fem/neut
-6196	masc
-6206	masc/fem
-6211	neut
-6215	masc
-6222	fem
-6228	fem
-6232	masc
-6241	neut
-6248	masc/neut
-6253	neut
-6255	neut
-6276	masc
-6282	masc
-masc/neut
-6290	masc/fem
-6292	fem
-6296	masc
-6305	neut
-6307	masc
-6324	neut
-6330	neut
-neut
-6335	masc/neut
-6337	neut
-masc/fem
-6342	neut
-6347	fem
-neut
-6360	masc
-6363	fem
-6365	fem
-6383	fem
-6415	masc
-6422	neut
-6425	masc
-6433	fem
-neut
-6442	masc/fem/neut
-6447	fem
-6450	fem
-fem
-6457	fem
-6460	neut
-6468	neut
-masc
-6479	fem
-fem
-6488	fem
-neut
-masc
-6492	masc/neut
-6496	neut
-6499	fem
-6501	masc/neut
-6509	fem
-neut
-neut
-6514	fem
-fem
-fem
-6521	masc
-6530	fem
-fem
-6534	neut
-6536	masc
-6546	neut
-6555	neut
-6557	masc
-6561	fem
-6565	fem
-neut
-6572	fem
-6581	neut
-6584	neut
-6595	neut
-6616	masc
-6621	neut
-6643	fem
-6656	neut
-6664	fem
-6666	neut
-6674	fem
-6678	neut
-neut
-6681	neut
-6684	masc
-fem
-6691	fem
-6696	masc
-masc/neut
-6702	masc
-masc/neut
-6713	masc
-6720	neut
-6725	neut
-fem
-6752	masc/fem
-fem
-6755	masc/fem
-6759	neut
-6768	masc/fem
-fem
-6771	masc/fem
-6778	fem
-6786	neut
-6794	neut
-6802	fem
-6810	neut
-6814	fem
-6823	neut
-6838	masc
-6868	fem
-6870	fem
-6878	fem
-fem
-6883	neut
-6885	masc/neut
-6893	fem
-6900	fem
-6903	masc
-6916	fem
-6918	masc/neut
-6920	masc
-6922	masc/neut
-6926	masc
-6928	neut
-6933	masc/neut
-6937	fem
-6943	masc
-6953	fem
-6957	fem
-6961	masc
-6969	fem
-6986	fem
-6989	neut
-masc
-6994	neut
-7007	masc
-7011	neut
-7020	fem
-7023	masc
-7026	neut
-masc
-7035	fem
-7038	neut
-7043	fem
-fem
-7046	fem
-7051	fem
-masc/fem
-7061	neut
-7072	neut
-7086	fem
-7090	fem
-7098	fem
-7111	neut
-7115	masc
-7117	masc
-fem
-neut
-7121	fem
-7127	neut
-7131	neut
-7135	fem
-7138	fem
-7162	neut
-7168	neut
-7176	fem
-7181	fem
-7184	fem
-fem
-7201	fem
-neut
-7214	fem
-7234	masc/neut
-7237	masc
-7239	neut
-7242	fem
-7244	masc/neut
-neut
-7251	neut
-7258	fem
-7265	fem
-7282	fem
-7287	neut
-7292	neut
-7299	neut
-neut
-7304	neut
-7307	fem
-masc/fem
-7312	neut
-7315	fem
-7336	neut
-7341	neut
-7349	neut
-7352	fem
-7354	fem
-7359	fem
-7369	neut
-7373	fem
-7378	neut
-7381	fem
-7402	masc
-7404	fem
-fem
-7410	masc
-7421	fem
-7424	neut
-7429	fem
-7435	neut
-7438	neut
-7446	fem
-7450	masc
-7456	masc
-7458	masc
-7465	neut
-7469	neut
-7477	masc
-7486	fem
-neut
-7493	masc
-fem
-7497	neut
-7501	masc/fem
-7503	fem
-fem
-7516	masc
-fem
-7521	fem
-7527	fem
-7540	masc
-neut
-7543	fem
-fem
-7576	fem
-fem
-7590	neut
-7592	fem
-fem
-7605	fem
-7608	neut
-7610	neut
-7612	neut
-masc
-7627	neut
-neut
-7631	masc/neut
-7639	fem
-7641	masc
-7650	masc
-7653	masc
-fem
-7656	masc
-masc
-masc/fem
-7665	neut
-7669	neut
-masc
-7672	masc
-7675	neut
-7679	neut
-7683	neut
-7687	masc
-7691	masc
-7694	fem
-fem
-7699	masc
-7703	neut
-7706	neut
-fem
-fem
-7710	neut
-7712	neut
-7718	masc
-7720	fem
-7726	fem
-7739	neut
-7750	fem
-7752	neut
-fem
-fem
-7761	masc/neut
-7770	neut
-7773	neut
-7776	masc
-7778	masc
-7782	neut
-7786	fem
-7789	fem
-neut
-7794	neut
-7796	fem
-fem
-7817	fem
-7825	neut
-7827	fem
-fem
-7837	fem
-7842	neut
-fem
-7849	neut
-7851	fem
-fem
-7855	masc
-7866	neut
-7875	fem
-fem
-7879	fem
-7881	fem
-7892	masc
-7895	masc/neut
-7901	fem
-7903	masc/neut
-7912	neut
-7915	neut
-7918	masc
-7921	neut
-7925	neut
-7929	fem
-7935	fem
-7938	masc/fem
-7948	fem
-7950	fem
-masc
-7953	neut
-7955	neut
-masc
-7973	fem
-7979	neut
-7981	fem
-7985	fem
-7990	neut
-7995	fem
-8001	masc
-8008	masc
-8012	fem
-8018	fem
-8020	neut
-8024	neut
-8029	neut
-8031	masc
-8054	neut
-8057	fem
-8064	neut
-8068	masc
-8077	neut
-8083	fem
-8085	neut
-8087	fem
-8089	masc/neut
-8092	neut
-8103	neut
-8113	neut
-8118	masc
-8128	neut
-8139	fem
-8157	neut
-8159	fem
-8161	fem
-8179	neut
-8181	neut
-8198	fem
-8210	fem
-8214	masc
-fem
-8227	masc
-8230	neut
-masc
-8237	masc/fem
-8240	masc
-8243	masc
-8247	fem
-8250	masc
-masc
-8264	fem
-fem
-8270	masc
-fem
-masc
-masc/fem
-8275	neut
-8278	fem
-8280	neut
-8282	neut
-8294	neut
-8296	masc
-8307	masc
-8320	fem
-neut
-8329	fem
-8343	fem
-8350	fem
-8356	masc
-8358	fem
-8375	masc
-8383	masc
-8385	masc
-masc
-8390	fem
-8401	fem
-8415	masc
-8417	fem
-8426	neut
-8436	neut
-8440	neut
-8450	masc
-8454	masc
-8456	fem
-8461	masc
-neut
-8464	masc
-neut
-8476	neut
-masc
-8479	masc
-8488	neut
-8491	masc
-8495	neut
-8499	masc
-8501	fem
-8503	neut
-8515	fem
-8531	masc
-masc
-neut
-8537	neut
-masc
-8552	masc/neut
-fem
-8558	neut
-8560	masc
-8567	masc
-8572	masc
-masc
-8583	masc
-8599	masc
-8619	masc
-8625	masc
-fem
-8628	masc
-fem
-masc/neut
-8644	neut
-8649	fem
-8658	neut
-8661	masc/neut
-neut
-8673	neut
-masc/fem/neut
-8690	fem
-8693	neut
-8713	neut
-8716	masc/neut
-8718	masc
-8721	masc/neut
-8723	masc
-neut
-8731	fem
-8733	neut
-fem
-8747	masc
-8767	masc
-8777	masc
-fem
-8782	neut
-masc
-8789	neut
-8793	fem
-8798	neut
-8801	neut
-8804	masc/fem
-8809	masc
-8813	neut
-8821	neut
-8825	neut
-masc/fem
-8829	neut
-8839	neut
-neut
-8842	masc
-8854	fem
-8856	fem
-8864	fem
-8883	fem
-8896	masc
-8899	neut
-masc
-8903	fem
-fem
-masc
-8911	neut
-8914	fem
-masc
-8918	fem
-neut
-8921	masc
-8924	fem
-8927	masc
-8929	neut
-8937	masc
-fem
-8942	masc
-neut
-8945	neut
-8947	neut
-masc/neut
-neut
-8958	fem
-8960	fem
-8964	fem
-8969	fem
-masc
-8973	neut
-8979	masc
-8984	neut
-8989	fem
-8993	masc/fem
-8996	fem
-9006	masc
-9008	masc/fem/neut
-masc
-9012	neut
-masc
-9019	masc/neut
-fem
-9023	masc
-9028	fem
-9035	masc
-9038	neut
-masc
-9041	neut
-9045	fem
-9060	fem
-9071	neut
-9086	masc
-9096	masc
-9098	neut
-9100	masc
-9103	fem
-9110	neut
-neut
-fem
-masc/fem
-masc/neut
-9124	masc/fem
-9129	masc/neut
-9136	masc
-fem
-neut
-masc/fem
-9151	neut
-masc
-9156	masc
-9158	neut
-9161	fem
-9177	fem
-9185	masc
-9187	fem
-9204	masc
-9211	masc
-9213	masc
-masc
-9225	fem
-fem
-9228	masc
-9230	masc
-9243	neut
-9248	fem
-9251	neut
-9254	neut
-9259	masc
-9263	neut
-9272	fem
-9274	fem
-9279	neut
-fem
-9296	masc
-9299	masc
-9301	masc
-fem
-9309	neut
-9311	masc
-9324	masc
-9329	masc
-neut
-9336	neut
-masc
-9344	neut
-9350	fem
-9361	fem
-9368	fem
-9374	neut
-9377	masc
-9391	neut
-9399	masc
-9410	neut
-masc
-9413	fem
-fem
-9420	fem
-9422	masc
-fem
-9425	masc
-fem
-9432	masc
-9434	neut
-masc
-9445	masc
-9447	fem
-9449	masc
-9454	masc/fem
-9460	masc
-9465	neut
-masc
-neut
-9475	neut
-masc
-9479	masc/fem
-9481	masc
-9483	neut
-9489	masc
-9491	neut
-9494	neut
-9498	masc
-9500	masc
-9502	neut
-9517	masc
-9522	masc
-9526	fem
-9531	neut
-9543	neut
-9560	neut
-9563	neut
-masc
-9568	masc
-masc
-9574	neut
-9581	fem
-9587	masc
-9595	fem
-9600	neut
-9603	masc
-9605	masc
-masc/fem
-masc
-masc
-9612	masc
-9614	neut
-9616	masc
-9623	masc
-9627	neut
-9629	fem
-fem
-9634	fem
-9638	neut
-masc
-9653	masc/fem/neut
-9662	neut
-9685	neut
-9688	masc
-9705	neut
-9718	masc
-9724	neut
-9731	neut
-9742	fem
-9752	fem
-9754	masc
-9756	fem
-9759	neut
-masc
-9762	masc
-9777	masc
-9781	fem
-9788	neut
-9790	fem
-9795	fem
-9803	masc
-9811	neut
-9815	masc
-masc
-masc
-9819	fem
-9826	masc/fem
-9828	masc
-9850	fem
-9853	neut
-9856	neut
-9865	masc
-fem
-9870	fem
-9873	fem
-9876	neut
-masc
-9880	fem
-9890	fem
-9898	masc
-9900	fem
-9906	neut
-masc
-masc
-9913	fem
-9915	neut
-9920	fem
-9922	masc
-9925	masc
-fem
-masc
-9930	masc
-9933	neut
-9937	masc
-neut
-9947	neut
-9951	neut
-9953	neut
-9960	neut
-9963	fem
-9967	neut
-9974	fem
-9977	masc
-fem
-neut
-9986	masc
-9997	masc
-masc
-neut
-10003	neut
-10006	masc
-10024	masc/neut
-10032	neut
-masc
-10036	neut
-10040	fem
-masc
-10043	masc/neut
-10045	fem
-masc
-10048	masc/neut
-10056	neut
-masc
-10063	neut
-10066	neut
-masc/fem
-10074	masc
-fem
-10077	masc
-10079	masc
-10081	fem
-10088	neut
-10092	fem
-10095	masc/neut
-10100	neut
-10108	neut
-10121	fem
-10124	fem
-10127	neut
-masc
-10130	neut
-10144	fem
-10148	fem
-10151	fem
-10155	masc
-fem
-10162	neut
-neut
-10165	masc/neut
-10178	neut
-masc
-masc
-10182	masc
-10184	masc
-masc
-masc
-10190	masc
-10198	fem
-10202	masc
-10207	masc
-10210	neut
-masc
-10215	masc
-10225	masc
-10229	masc
-masc
-10238	fem
-10253	masc
-fem
-10256	masc
-masc
-10259	neut
-10264	fem
-10269	masc
-10274	fem
-10280	neut
-10286	fem
-fem
-10293	fem
-10302	masc
-10306	neut
-10310	fem
-10315	neut
-10317	neut
-masc
-10330	fem
-10332	masc/neut
-10352	neut
-10354	masc
-10360	fem
-10364	fem
-fem
-10377	fem
-10379	masc/neut
-10381	neut
-10383	masc/neut
-10385	masc
-neut
-10389	masc
-10392	masc
-masc
-10414	masc
-10417	neut
-10419	masc/neut
-10421	masc
-10425	masc
-10428	masc
-masc
-10451	masc/neut
-10456	neut
-masc
-10459	masc
-10462	neut
-10476	neut
-fem
-10484	neut
-10486	masc
-10489	fem
-masc
-10493	fem
-masc
-10501	neut
-fem
-10508	neut
-10516	masc
-10524	fem
-10528	masc/neut
-10534	neut
-10536	masc/neut
-10538	neut
-10541	neut
-10543	masc/neut
-10545	neut
-10552	neut
-masc/neut
-10558	masc/neut
-neut
-10567	fem
-10574	masc
-10576	masc
-10578	neut
-10580	neut
-10583	fem
-10587	neut
-10591	fem
-10594	masc
-10596	neut
-10599	neut
-10604	fem
-neut
-10611	fem
-10615	fem
-neut
-10622	fem
-10629	neut
-neut
-10634	masc/neut
-10642	neut
-10646	neut
-10658	masc/fem
-10668	fem
-10671	neut
-10675	masc
-10680	neut
-10686	fem
-10690	neut
-masc
-10694	masc
-fem
-10698	fem
-10701	fem
-10704	fem
-fem
-10716	fem
-10726	masc
-masc
-10735	neut
-masc/fem
-10742	fem
-10745	neut
-fem
-10752	neut
-10756	masc
-neut
-10761	neut
-10763	masc
-10766	neut
-masc/fem
-10780	neut
-10784	fem
-10797	masc
-fem
-10804	neut
-10809	masc
-neut
-10815	masc
-neut
-10826	fem
-10832	masc
-10835	fem
-fem
-10838	fem
-10843	masc/fem/neut
-fem
-neut
-fem
-fem
-10851	neut
-masc/fem
-10858	fem
-10863	masc
-10870	masc
-10874	masc/neut
-10876	masc
-masc
-10881	neut
-masc/fem
-10888	fem
-10891	neut
-10897	neut
-10900	neut
-10904	neut
-10914	masc/neut
-masc
-10917	neut
-10919	neut
-masc
-10927	fem
-10931	fem
-fem
-10947	masc
-10954	masc
-10961	neut
-fem
-fem
-neut
-10970	neut
-neut
-10998	masc
-11012	neut
-11022	masc
-11031	neut
-masc
-11036	masc/neut
-11042	masc/neut
-11052	neut
-11068	masc
-fem
-11073	fem
-neut
-11083	neut
-11119	neut
-11121	fem
-11124	neut
-11131	fem
-11139	masc
-11141	fem
-11144	neut
-11146	masc
-11148	masc/fem
-fem
-fem
-11154	fem
-11162	fem
-fem
-11173	masc
-11186	neut
-neut
-11199	neut
-11210	masc
-11213	fem
-neut
-11216	masc
-11236	masc
-masc/neut
-11239	neut
-11242	neut
-11245	neut
-11249	neut
-11252	neut
-masc
-11259	neut
-masc/neut
-fem
-11267	fem
-11277	neut
-11287	fem
-neut
-11290	masc
-11298	neut
-11304	fem
-11314	neut
-11322	fem
-11327	masc
-fem
-11330	fem
-masc
-11333	neut
-masc
-11338	neut
-masc
-11342	neut
-11347	neut
-11350	neut
-fem
-11354	neut
-11361	neut
-11364	masc
-11366	neut
-11368	masc/fem
-neut
-11371	masc
-11377	neut
-11379	masc
-11387	neut
-11432	neut
-11437	masc
-11441	masc
-neut
-11445	fem
-fem
-11453	neut
-11469	fem
-11482	masc
-11487	masc/fem
-11499	neut
-11501	masc
-11504	masc
-11511	fem
-11523	masc
-11533	fem
-masc/fem
-11537	neut
-11539	fem
-11549	fem
-11553	neut
-masc/fem
-11560	neut
-11564	fem
-11570	masc
-fem
-11573	masc/neut
-11576	masc
-11582	fem
-11586	masc
-masc
-11589	neut
-neut
-11595	fem
-11602	neut
-11605	masc
-11607	masc
-11611	neut
-11615	masc/fem
-11622	fem
-11626	neut
-11630	fem
-11634	masc/fem/neut
-masc
-11653	masc
-11662	masc/neut
-11664	neut
-11666	masc/neut
-11669	neut
-11675	masc
-11677	masc
-11679	masc
-masc
-11685	masc
-11692	masc
-11704	neut
-11719	masc/neut
-11733	fem
-11738	fem
-11747	fem
-11753	neut
-11765	masc
-11771	neut
-11776	masc/neut
-11779	fem
-masc/neut
-11783	neut
-masc
-11796	fem
-11812	neut
-11831	masc
-11838	neut
-11840	masc
-11845	neut
-masc
-11850	masc/neut
-masc
-11853	masc
-masc
-11856	masc
-11864	neut
-11871	masc/neut
-11880	masc
-11882	masc/neut
-11885	neut
-11902	masc
-fem
-fem
-11916	neut
-11920	neut
-masc
-11924	masc
-masc
-neut
-fem
-11930	neut
-11937	masc
-11941	masc
-masc
-neut
-fem
-11949	neut
-masc
-11961	masc
-11964	masc
-11966	masc/neut
-11969	neut
-masc
-11973	neut
-fem
-11981	masc
-neut
-11994	masc
-11996	masc
-11999	fem
-masc
-12008	masc/neut
-12022	neut
-12028	neut
-neut
-masc
-fem
-12044	neut
-neut
-12048	masc/neut
-12052	neut
-12054	neut
-12056	masc/neut
-12058	masc
-12071	masc
-fem
-12078	neut
-masc
-12089	fem
-fem
-12095	fem
-neut
-12101	fem
-fem
-12119	masc
-12122	masc
-12126	masc
-12128	masc
-masc
-12135	neut
-12139	masc/neut
-12150	fem
-fem
-12153	fem
-12157	masc
-12163	neut
-12165	masc
-neut
-12170	fem
-masc
-12173	masc
-12176	neut
-12186	masc/fem/neut
-12189	masc
-12204	neut
-neut
-12207	neut
-12215	fem
-masc
-12224	masc/fem/neut
-12230	masc
-12233	masc
-12235	fem
-fem
-fem
-12246	masc/fem/neut
-12248	masc
-12255	neut
-12261	neut
-12263	masc
-12269	neut
-12272	masc
-12276	neut
-masc
-masc
-12297	fem
-12323	fem
-12330	fem
-12334	masc
-fem
-12337	masc
-12341	fem
-12345	neut
-masc
-12352	neut
-12367	neut
-12378	neut
-fem
-12387	masc
-12392	neut
-12396	masc
-12399	masc
-12403	masc
-12405	fem
-12411	masc
-12418	neut
-masc
-12423	fem
-masc
-12426	fem
-12428	neut
-12431	masc
-12435	fem
-12443	neut
-12450	masc
-12455	masc
-neut
-12461	masc/fem
-fem
-12468	neut
-12486	masc
-neut
-12494	fem
-12499	fem
-12513	masc/neut
-12522	neut
-12527	masc/fem
-12537	neut
-12543	neut
-masc
-12552	fem
-12556	neut
-12560	neut
-masc
-12565	neut
-masc
-12569	fem
-12572	fem
-12575	fem
-12582	fem
-12590	masc
-12594	fem
-12601	fem
-12603	neut
-12634	neut
-12637	neut
-12654	masc
-12670	masc
-12674	masc/neut
-12676	neut
-12679	neut
-12687	masc
-12692	masc
-12703	neut
-12725	neut
-masc/fem
-12737	masc
-12754	fem
-12757	neut
-masc
-12767	masc
-12774	neut
-masc/neut
-12783	masc/neut
-neut
-12788	neut
-12791	masc/neut
-fem
-fem
-12798	neut
-masc/neut
-12804	neut
-12818	masc
-12820	masc
-12823	masc
-12829	neut
-12831	fem
-12845	masc
-12847	neut
-masc
-12854	masc
-12856	fem
-fem
-12885	masc
-12887	masc
-12893	neut
-12896	masc
-12900	fem
-fem
-fem
-12904	neut
-neut
-12910	masc
-12926	masc
-12933	neut
-12936	neut
-12942	fem
-12947	masc
-12952	fem
-12959	neut
-12962	masc/fem
-12964	masc
-12979	neut
-12987	masc
-13003	neut
-13005	masc/neut
-13008	neut
-13031	neut
-13035	neut
-13054	neut
-13057	neut
-13060	masc
-13070	masc
-13080	masc/neut
-13083	fem
-fem
-13088	masc
-13091	neut
-masc/fem
-13100	fem
-13105	masc
-13116	masc/fem
-13118	masc
-13128	neut
-masc
-13132	fem
-13144	masc
-13153	fem
-masc
-13157	fem
-masc
-13166	fem
-13170	fem
-13185	fem
-13189	masc
-13192	masc/neut
-13196	masc
-13198	masc
-13200	neut
-13207	neut
-13222	masc/fem
-13226	neut
-masc
-13241	masc
-13243	neut
-13246	neut
-13248	fem
-13251	neut
-13255	fem
-13259	fem
-13272	neut
-masc
-13280	masc
-13289	fem
-13306	fem
-13310	neut
-13315	masc/neut
-13318	neut
-13322	neut
-13326	neut
-13331	neut
-13333	fem
-13338	masc
-13345	masc
-13349	neut
-13361	fem
-13366	fem
-masc
-13372	neut
-13377	masc/fem
-13379	masc
-masc/neut
-13385	masc/neut
-13391	masc/neut
-13397	masc/neut
-13400	fem
-13403	fem
-masc
-neut
-neut
-13410	masc
-masc/neut
-13413	neut
-13417	masc/fem/neut
-13420	neut
-13424	masc
-13426	masc/neut
-13432	neut
-masc
-masc
-13440	masc/neut
-13457	masc
-masc
-13460	masc
-13462	masc/neut
-13466	neut
-13468	fem
-13473	masc/neut
-13476	masc
-masc/neut
-13483	masc
-13494	fem
-13500	fem
-13505	neut
-masc
-13514	masc
-13517	masc
-13520	masc
-13523	masc
-13525	neut
-13527	fem
-neut
-13534	neut
-13536	fem
-13538	fem
-13549	fem
-13561	fem
-13565	fem
-neut
-13568	fem
-13570	fem
-13579	fem
-fem
-fem
-13584	fem
-13586	masc/neut
-13619	masc/neut
-neut
-13631	masc/neut
-13638	masc/neut
-neut
-13641	neut
-13646	neut
-13648	masc/neut
-13651	neut
-masc
-neut
-13656	masc/neut
-13658	masc/neut
-13677	neut
-13680	fem
-13690	fem
-13701	neut
-13707	fem
-13709	fem
-13713	fem
-13719	masc/neut
-13724	masc
-masc
-13744	masc/fem
-13751	neut
-13754	neut
-fem
-neut
-13788	masc
-13793	neut
-13804	masc/neut
-13809	neut
-13823	neut
-13846	neut
-13849	masc/fem
-13852	masc
-13858	fem
-fem
-13866	masc
-13874	fem
-13879	masc
-13893	neut
-13906	masc
-13908	fem
-13911	neut
-masc
-13918	fem
-13930	neut
-13943	fem
-13969	neut
-13974	masc
-13977	fem
-13980	fem
-13990	masc/neut
-13994	fem
-14000	masc
-14004	neut
-14018	masc/neut
-14029	neut
-14035	fem
-14042	fem
-14048	fem
-14053	masc/neut
-14063	fem
-neut
-14066	masc
-14077	fem
-14096	neut
-14103	fem
-14116	fem
-14118	masc/neut
-14123	fem
-14135	neut
-neut
-masc/neut
-14147	fem
-14151	neut
-14155	masc/neut
-masc
-14158	neut
-masc
-14162	masc/fem/neut
-14166	masc
-fem
-14172	masc
-14174	masc/fem/neut
-neut
-14183	neut
-14204	masc
-14207	masc
-fem
-14210	masc
-masc
-14213	masc/fem
-masc
-14222	masc
-14230	neut
-masc
-14237	fem
-14246	masc
-14249	neut
-masc
-14260	masc
-14278	fem
-14280	fem
-14286	neut
-14288	neut
-14294	masc/neut
-fem
-14300	fem
-14308	neut
-14318	masc/neut
-14330	neut
-14336	fem
-14340	neut
-14351	masc
-14353	fem
-14359	masc
-14376	neut
-neut
-14385	neut
-14389	masc
-14395	fem
-masc
-neut
-14404	fem
-14410	neut
-14438	fem
-fem
-14441	masc/neut
-14450	neut
-14456	fem
-14462	fem
-14467	fem
-fem
-14473	fem
-14475	neut
-14480	fem
-fem
-14484	neut
-14490	neut
-masc
-14502	masc/neut
-fem
-neut
-14510	masc
-14517	neut
-14536	fem
-14543	fem
-14547	fem
-14554	neut
-14560	masc
-14568	fem
-masc
-neut
-14574	fem
-14582	masc
-14589	fem
-14609	fem
-14646	masc
-14648	fem
-14650	fem
-fem
-fem
-14661	neut
-neut
-14665	fem
-14668	fem
-14672	neut
-14681	neut
-14684	neut
-14692	neut
-14696	fem
-neut
-14699	fem
-14701	neut
-14703	fem
-neut
-14707	fem
-14710	masc
-14720	fem
-14726	fem
-masc
-14731	fem
-neut
-14736	neut
-14741	fem
-fem
-14747	fem
-14772	fem
-14781	fem
-14783	neut
-14791	fem
-14820	neut
-14823	fem
-fem
-neut
-masc/fem
-masc/neut
-14832	neut
-14835	neut
-14837	fem
-14839	neut
-14852	neut
-14857	masc/fem
-neut
-14863	neut
-14869	neut
-14871	neut
-14878	neut
-masc/fem
-14892	neut
-14897	neut
-masc/fem
-14902	masc
-14906	neut
-14914	neut
-14917	neut
-14927	neut
-masc/fem
-14941	masc/neut
-14943	neut
-masc/fem
-14949	fem
-14972	neut
-14975	neut
-14978	masc
-14981	fem
-fem
-14991	masc
-15000	masc
-15002	fem
-15006	fem
-15008	fem
-15015	masc
-neut
-fem
-15021	neut
-15028	masc
-15043	neut
-15051	fem
-15058	masc
-fem
-15061	fem
-15064	neut
-15066	masc/fem
-15070	masc/neut
-neut
-fem
-15074	masc/neut
-15078	fem
-15080	fem
-masc
-15086	masc/fem
-15099	masc
-15102	neut
-15105	fem
-masc
-15115	fem
-15117	neut
-15121	fem
-15124	fem
-masc
-masc/fem
-masc
-masc/fem
-neut
-15138	fem
-15141	neut
-15145	fem
-fem
-15152	masc/fem/neut
-15160	fem
-15174	neut
-15176	neut
-15178	masc
-15184	neut
-fem
-15197	neut
-fem
-15203	neut
-15206	neut
-15216	masc/fem/neut
-15223	neut
-masc/fem
-15226	fem
-fem
-15232	fem
-15235	neut
-fem
-15244	masc
-masc
-15257	neut
-masc/fem
-15266	fem
-15271	masc
-15278	masc/fem/neut
-masc/neut
-15282	neut
-fem
-15287	masc
-15299	neut
-masc/fem
-15308	fem
-15313	masc
-15320	masc/fem/neut
-masc/neut
-15325	neut
-15327	neut
-15331	masc
-15333	masc
-neut
-15343	masc
-15353	masc/neut
-15363	neut
-masc/fem
-15373	neut
-15384	masc
-15387	fem
-15411	fem
-15434	neut
-15443	neut
-15446	neut
-15449	masc
-15453	neut
-15463	masc
-15477	neut
-fem
-15484	masc
-15486	neut
-15489	fem
-15496	fem
-15500	neut
-15502	fem
-15509	neut
-15513	neut
-15516	masc
-15525	fem
-15527	masc
-15539	masc/fem
-15562	masc
-15564	masc
-masc
-masc
-masc
-15576	masc
-15578	masc
-15580	masc/fem
-15587	masc
-15589	masc
-15591	masc
-15598	masc
-15601	neut
-15629	masc
-15634	masc
-15655	masc/fem
-15666	masc/fem
-15678	masc
-masc
-masc
-masc
-15687	masc/fem
-15691	neut
-15698	masc
-15702	masc
-15714	fem
-15722	neut
-masc
-15728	neut
-masc
-15731	neut
-15733	neut
-masc
-15744	neut
-15747	fem
-15752	neut
-15762	masc
-15765	masc
-15773	masc
-15775	masc/neut
-15788	masc
-15795	fem
-15801	masc
-15826	masc
-fem
-15829	masc
-15832	fem
-15845	neut
-masc
-15854	masc
-15856	masc
-15866	fem
-15872	fem
-15876	neut
-15891	neut
-15894	masc
-15913	neut
-masc
-15925	masc
-15929	masc
-15945	fem
-15949	masc
-fem
-15952	masc
-masc
-15957	masc
-15961	neut
-15970	neut
-15974	neut
-15977	neut
-15983	masc
-15989	fem
-15992	neut
-masc
-fem
-15998	neut
-masc
-16004	fem
-16011	fem
-16013	masc/neut
-fem
-16019	neut
-16022	masc/neut
-16027	fem
-16036	masc
-neut
-16041	neut
-16053	neut
-16070	neut
-16075	masc
-16081	neut
-16087	neut
-16098	masc
-masc/neut
-16101	fem
-16103	neut
-masc
-16128	masc
-16147	neut
-16162	fem
-16164	fem
-16170	masc/neut
-16174	fem
-16178	masc
-16185	masc
-16189	neut
-masc
-16207	fem
-16217	fem
-16220	fem
-16223	neut
-16231	masc
-16237	neut
-masc
-16241	masc
-neut
-16255	neut
-16261	masc
-16265	masc
-16267	masc
-16270	masc
-fem
-neut
-16276	fem
-neut
-masc
-16280	masc
-neut
-16288	masc
-fem
-16297	masc
-16312	fem
-neut
-16315	fem
-16325	neut
-16332	masc
-16336	masc
-16356	fem
-16385	fem
-16388	masc/fem
-16394	masc
-16399	masc
-16402	neut
-16408	fem
-masc/neut
-16418	fem
-masc
-16439	fem
-16449	fem
-16452	neut
-16464	neut
-16467	masc
-16485	neut
-16488	masc
-16493	neut
-16500	masc
-16512	masc
-16519	neut
-16521	masc
-16544	masc
-16555	neut
-16557	masc
-16565	neut
-masc
-neut
-16570	masc/neut
-16577	masc
-16584	masc
-neut
-16596	masc/fem
-16599	masc
-16603	fem
-masc
-neut
-16614	neut
-masc
-16620	fem
-16625	neut
-16629	fem
-16632	masc/fem/neut
-16641	neut
-16645	fem
-masc
-16648	masc
-16650	masc
-fem
-16656	masc
-16667	masc
-16670	masc
-16673	neut
-16680	fem
-16684	masc
-16691	masc
-16695	masc
-16701	neut
-16704	neut
-16706	masc
-16715	masc
-neut
-16720	neut
-16730	neut
-masc
-fem
-16736	neut
-16744	masc/neut
-masc/neut
-neut
-16748	masc
-16751	neut
-16756	masc
-neut
-16763	masc/fem
-16768	neut
-masc
-neut
-16776	neut
-masc
-16779	masc
-16792	neut
-16803	neut
-16806	fem
-16809	masc
-16815	masc
-16824	masc
-16827	neut
-16840	masc
-16843	masc
-masc
-masc/fem
-masc
-16849	neut
-masc
-masc
-neut
-16865	fem
-masc
-16870	masc
-16873	neut
-16878	masc
-16882	masc
-16898	masc
-16906	neut
-16912	neut
-16915	masc
-16924	fem
-16928	fem
-fem
-masc/neut
-neut
-masc
-16939	neut
-16950	neut
-16954	masc
-16956	neut
-16967	masc
-fem
-16974	masc
-16977	masc
-16981	neut
-16983	masc
-16997	fem
-16999	neut
-17002	neut
-17004	masc
-17006	fem
-17013	masc
-17018	masc
-17020	neut
-17023	fem
-17028	fem
-17037	masc
-17041	fem
-17043	neut
-17047	fem
-17060	masc
-17064	masc
-17068	masc/fem/neut
-17071	neut
-17076	fem
-17082	neut
-neut
-17087	masc/neut
-masc
-17090	fem
-17104	fem
-17109	masc
-17113	masc
-neut
-17116	masc
-17124	neut
-17126	masc
-17129	neut
-17132	masc
-neut
-17135	masc
-17138	masc
-17146	masc
-17154	neut
-17158	fem
-masc/neut
-masc/neut
-17166	fem
-neut
-17173	masc
-neut
-17178	neut
-17181	fem
-17184	neut
-17190	neut
-neut
-masc
-17194	masc/neut
-17196	fem
-17199	neut
-17201	fem
-17209	masc
-masc
-17213	neut
-neut
-17227	fem
-17230	fem
-17232	masc
-17237	fem
-17245	masc
-17249	masc
-17264	neut
-17268	fem
-17275	masc
-17277	neut
-17282	neut
-17289	masc
-masc
-17294	neut
-17301	masc
-17304	masc
-masc
-17307	fem
-17309	neut
-17311	neut
-17326	masc
-masc/fem
-17338	neut
-17345	fem
-17348	fem
-17350	masc/neut
-17364	masc
-17391	masc
-17401	fem
-17407	neut
-17409	masc
-17413	masc
-17428	neut
-neut
-17438	fem
-17451	neut
-17461	masc
-17465	masc
-17471	masc
-17478	masc
-17488	fem
-17505	fem
-17511	neut
-17520	masc
-17523	neut
-17528	masc
-17530	masc
-17536	fem
-17538	masc
-neut
-masc
-17547	masc
-neut
-neut
-17560	masc
-masc
-17563	masc
-17570	masc
-17574	masc
-17591	masc
-17599	neut
-17607	masc
-masc
-masc
-17617	fem
-17622	fem
-17625	fem
-17634	neut
-masc
-17638	masc
-fem
-fem
-17660	neut
-17669	fem
-17681	masc
-17684	neut
-17692	neut
-17694	masc
-17702	masc
-17711	fem
-17716	fem
-17720	fem
-17724	fem
-17728	fem
-17732	masc/fem/neut
-17746	masc
-17751	neut
-17755	masc
-17765	fem
-fem
-17768	fem
-masc
-17786	masc
-17789	fem
-fem
-17795	masc
-fem
-17799	masc
-fem
-17807	fem
-17812	fem
-17827	masc
-17836	masc
-17838	neut
-17846	neut
-17879	fem
-17882	fem
-17884	masc
-17898	masc
-17901	masc
-17905	masc
-masc
-17908	neut
-17910	neut
-17914	neut
-17916	masc/fem
-fem
-17919	neut
-17923	masc
-fem
-17927	fem
-17931	masc
-fem
-17942	fem
-17945	fem
-17948	masc
-17950	fem
-17953	neut
-17961	masc
-17966	masc
-17983	fem
-17986	fem
-17988	masc
-17991	masc
-17999	masc/neut
-18014	fem
-18023	masc
-18025	neut
-18031	neut
-masc
-18040	neut
-18045	masc
-18050	neut
-18053	masc
-18075	neut
-18079	fem
-18083	fem
-18086	fem
-18111	masc
-18114	masc
-18116	fem
-18129	neut
-masc
-masc
-18142	fem
-18148	masc
-18161	fem
-fem
-18172	fem
-18176	masc
-18178	neut
-masc
-fem
-18186	masc/neut
-18189	neut
-18198	fem
-18201	masc
-18205	neut
-18208	masc
-18210	neut
-18213	neut
-18218	fem
-masc
-18222	fem
-18226	fem
-18233	neut
-masc
-18239	masc
-18244	neut
-masc
-18248	masc
-18251	fem
-neut
-18262	neut
-fem
-18282	neut
-fem
-18290	masc/neut
-18292	fem
-18294	fem
-fem
-18303	masc
-masc/neut
-18321	masc/neut
-18326	masc/neut
-18328	masc/neut
-18335	masc/neut
-fem
-18343	neut
-18353	neut
-18358	fem
-fem
-neut
-18363	masc
-18377	fem
-18380	neut
-18390	fem
-18393	masc
-18400	masc
-18402	neut
-18414	masc
-18420	fem
-18425	fem
-18428	masc
-18435	masc
-18439	fem
-18473	neut
-18476	neut
-18479	masc
-18481	masc
-18489	masc
-18496	fem
-18500	masc
-18505	neut
-18507	masc
-18511	masc
-18518	neut
-masc
-18522	fem
-18525	masc
-18529	masc
-neut
-18532	neut
-18536	fem
-fem
-18546	masc
-masc
-neut
-18552	fem
-18556	masc
-18570	neut
-masc
-18577	fem
-18584	fem
-18588	masc
-18607	fem
-18617	fem
-18624	fem
-18628	masc
-18657	masc
-18659	masc
-18665	fem
-18672	masc
-18674	masc/fem
-18676	masc
-masc
-18681	fem
-18683	masc
-18686	neut
-masc/fem/neut
-18693	neut
-masc
-18720	masc
-18739	fem
-18749	fem
-masc
-18754	masc
-18767	fem
-18769	fem
-18789	neut
-18794	fem
-18797	neut
-18799	neut
-18806	masc
-18814	fem
-18823	masc
-18828	neut
-fem
-18833	neut
-18835	fem
-neut
-neut
-18840	masc
-18843	masc
-18849	masc/fem
-18856	masc
-18858	masc
-18867	neut
-18870	masc
-18893	masc
-fem
-18898	fem
-18900	fem
-neut
-18903	masc
-18908	masc
-18912	masc
-18914	neut
-neut
-18937	fem
-fem
-18956	neut
-neut
-18965	masc/neut
-fem
-18968	masc
-18970	masc
-18972	neut
-18977	fem
-18986	masc
-19001	masc
-19007	fem
-19009	neut
-19020	fem
-19043	neut
-19057	neut
-19061	fem
-neut
-masc
-19066	fem
-19072	masc/neut
-fem
-19083	masc
-19087	fem
-19094	masc
-19100	neut
-19105	neut
-masc
-19110	neut
-19123	masc/neut
-19131	masc/neut
-fem
-19141	masc/neut
-19146	masc
-neut
-19150	neut
-19162	masc
-19168	masc/neut
-19174	masc/neut
-19191	masc
-masc
-neut
-19197	masc
-19200	neut
-19205	neut
-19214	masc
-19223	masc
-19233	masc
-19248	masc
-19260	masc
-19265	neut
-19276	neut
-19285	neut
-masc
-19292	masc
-19296	masc
-masc
-19305	masc
-19307	masc
-fem
-19311	masc
-19319	fem
-19321	masc
-fem
-19325	masc
-fem
-19330	masc
-19333	fem
-19339	neut
-masc
-masc
-19343	masc
-19349	neut
-19352	fem
-19359	neut
-19361	fem
-19367	fem
-19371	fem
-neut
-19380	fem
-19402	neut
-fem
-19407	fem
-19417	neut
-19422	neut
-19426	masc
-19434	masc
-19441	neut
-19445	masc
-fem
-19455	masc
-19475	neut
-19482	masc
-19494	masc
-19521	neut
-19527	neut
-19529	neut
-19533	masc/fem
-19535	neut
-19542	masc
-19574	fem
-19593	masc
-19604	fem
-19607	fem
-19611	masc
-19618	fem
-19623	masc
-19636	masc
-neut
-masc
-19641	fem
-19652	fem
-19664	fem
-19677	fem
-19691	neut
-19711	fem
-19713	fem
-19721	masc
-neut
-neut
-19726	neut
-19731	fem
-19737	neut
-19739	masc
-19757	neut
-19769	fem
-neut
-19780	masc
-19800	masc
-19802	masc
-19804	neut
-19806	neut
-19810	neut
-19823	masc
-19829	masc
-19836	neut
-19847	masc
-19855	neut
-19858	masc
-19860	masc
-19863	masc
-19865	neut
-19869	neut
-19874	masc/fem/neut
-19876	fem
-neut
-19886	masc
-masc
-19891	neut
-fem
-19897	masc
-19899	fem
-fem
-19903	neut
-neut
-19910	fem
-neut
-19916	neut
-masc
-19924	masc
-19931	masc
-19939	fem
-fem
-19943	neut
-19945	masc
-19958	neut
-neut
-19965	fem
-19968	fem
-19970	fem
-neut
-19981	masc
-19993	neut
-19998	masc
-20000	fem
-20004	masc
-20024	fem
-20026	masc/neut
-20028	masc
-20030	masc/neut
-20032	fem
-20034	masc/neut
-20037	masc
-20044	fem
-20048	masc
-20059	fem
-20063	masc
-20070	fem
-20081	masc
-20085	neut
-20098	masc
-20105	neut
-20119	fem
-20130	neut
-masc
-20141	neut
-20146	fem
-fem
-20165	neut
-20172	neut
-20174	neut
-20178	neut
-20192	fem
-20208	fem
-20214	fem
-20232	masc
-neut
-20235	neut
-fem
-20239	masc
-20255	fem
-20264	fem
-neut
-20295	fem
-20299	neut
-masc
-20307	masc
-neut
-20313	neut
-20320	neut
-masc
-20327	neut
-20333	masc
-masc
-20336	fem
-masc/fem
-20339	masc/fem
-20363	neut
-20371	masc
-20378	masc
-20383	fem
-20388	fem
-20393	fem
-20395	fem
-fem
-20398	fem
-20408	masc
-20413	fem
-20431	masc
-20434	neut
-20437	neut
-20452	masc
-20459	neut
-20463	fem
-20470	neut
-20477	masc
-20507	masc
-20511	fem
-fem
-20529	fem
-20531	neut
-20541	fem
-20544	masc
-20549	masc/fem
-20557	neut
-20563	neut
-20565	neut
-20567	masc
-20572	fem
-20619	fem
-fem
-20624	masc
-20642	masc
-20648	neut
-masc
-20655	fem
-fem
-20685	fem
-20692	neut
-20701	fem
-20707	masc/neut
-20715	masc
-neut
-20731	neut
-20735	masc/fem
-20757	neut
-20760	neut
-20762	neut
-20765	fem
-20769	masc
-20775	masc
-20805	fem
-fem
-20812	neut
-20836	neut
-20840	fem
-20855	fem
-20872	masc
-masc
-20880	masc
-20882	masc
-20902	masc
-20909	neut
-20915	fem
-20918	fem
-20928	neut
-20936	masc
-neut
-fem
-20951	fem
-20953	fem
-20961	fem
-20963	neut
-20976	masc
-masc
-21011	masc
-21019	masc
-21036	fem
-fem
-21046	neut
-21063	masc/neut
-21070	fem
-neut
-masc
-masc
-21077	masc
-21085	fem
-fem
-21089	neut
-masc
-21094	masc
-masc/neut
-21097	masc
-21112	neut
-21123	fem
-21133	fem
-masc
-neut
-21163	masc
-21165	neut
-21167	fem
-21170	masc
-21172	fem
-21179	fem
-21182	neut
-21190	masc/fem
-21193	fem
-21196	masc
-21201	neut
-21208	neut
-neut
-21219	fem
-21228	neut
-21235	neut
-masc
-21245	masc
-21258	masc
-fem
-21265	masc
-21267	masc
-21277	fem
-21294	fem
-21296	fem
-neut
-21302	fem
-21304	masc/neut
-21306	masc
-21312	masc/fem
-21316	masc/neut
-21324	masc
-neut
-21328	masc/neut
-21335	neut
-21337	masc
-21345	masc
-masc
-21359	masc
-21381	fem
-21391	masc
-21407	masc
-21420	masc
-21426	masc
-21433	neut
-21435	masc
-masc
-21443	masc
-21448	masc
-21453	fem
-21458	fem
-21468	masc
-21480	masc
-fem
-21492	masc
-21496	masc
-neut
-21502	fem
-21504	fem
-21508	fem
-21511	neut
-21513	masc
-21519	neut
-21521	neut
-21524	fem
-21531	masc
-21537	fem
-21542	fem
-21550	neut
-masc
-neut
-21578	fem
-21590	neut
-21593	fem
-masc
-21600	masc
-21615	neut
-21633	fem
-21638	neut
-21646	fem
-21651	neut
-21657	fem
-21667	fem
-21670	masc/neut
-21675	neut
-21679	masc
-masc/neut
-21682	masc
-21684	masc
-21688	masc/neut
-21690	neut
-fem
-21700	masc
-21702	neut
-21705	masc
-21713	neut
-21715	neut
-21719	fem
-21721	neut
-21723	masc/neut
-fem
-21731	neut
-21737	neut
-21742	masc
-21745	neut
-21756	neut
-21767	neut
-21775	neut
-21780	neut
-21784	neut
-21787	masc
-21793	masc/neut
-fem
-21806	neut
-21815	neut
-21824	fem
-21830	masc
-21832	fem
-21834	neut
-21849	masc/neut
-21851	fem
-21867	neut
-21873	neut
-21876	neut
-21880	masc
-21884	neut
-neut
-21889	masc
-fem
-21893	fem
-21899	fem
-21903	fem
-21920	fem
-21936	neut
-21938	neut
-21951	neut
-21980	masc
-21984	fem
-21988	masc
-fem
-22002	masc
-22004	masc
-22012	neut
-fem
-neut
-22016	fem
-22025	masc
-22027	masc/fem
-22034	masc
-22037	masc
-22041	fem
-22043	masc
-22050	masc/fem
-22053	masc
-22062	fem
-22066	masc
-22072	masc
-22081	neut
-22092	fem
-masc
-neut
-22100	masc
-fem
-22104	neut
-masc/fem
-22107	neut
-22110	neut
-22113	neut
-22127	neut
-22148	neut
-22163	fem
-22169	fem
-fem
-22177	fem
-fem
-neut
-22182	neut
-22192	fem
-22212	fem
-22229	masc
-22232	masc
-22238	masc
-22242	fem
-22255	fem
-22269	fem
-22277	masc
-22285	fem
-22293	neut
-22305	masc
-22308	masc
-22313	masc
-22319	masc
-neut
-22322	neut
-22333	neut
-22338	fem
-22356	neut
-22359	masc
-22373	fem
-fem
-neut
-22377	masc
-masc
-22389	fem
-22407	masc
-22412	neut
-22422	fem
-22449	masc
-22453	masc
-22466	fem
-22468	neut
-22477	masc
-22482	masc
-22484	neut
-22500	neut
-22507	fem
-22509	fem
-22515	fem
-22521	masc
-22524	masc
-22526	fem
-22529	masc/neut
-masc
-fem
-masc/neut
-neut
-22544	neut
-22548	masc
-22552	masc/neut
-22557	neut
-22559	neut
-22565	fem
-22567	neut
-fem
-22594	masc
-22603	masc/neut
-22605	masc
-22611	masc/neut
-22615	masc/neut
-22617	neut
-masc/fem/neut
-22627	neut
-22634	fem
-22640	neut
-22653	fem
-22660	fem
-masc/neut
-22665	fem
-fem
-fem
-22669	masc
-22680	masc
-22686	masc
-22690	masc
-22694	fem
-22698	fem
-22700	fem
-22704	masc
-neut
-22714	masc
-fem
-22729	neut
-neut
-22733	masc
-22738	masc
-22741	neut
-22758	neut
-fem
-22763	neut
-22768	masc
-22780	masc
-22782	masc
-22798	neut
-22800	fem
-fem
-22813	fem
-fem
-masc
-masc
-22846	fem
-22853	neut
-22859	neut
-22869	masc
-22871	fem
-22876	masc
-22881	neut
-22886	fem
-22893	masc
-22895	fem
-22899	masc
-22905	masc
-22909	fem
-22918	masc/neut
-22920	neut
-22929	masc
-22936	neut
-22938	masc
-22943	fem
-masc
-22946	neut
-22952	fem
-fem
-22956	fem
-22958	masc
-22979	masc
-22985	fem
-22992	fem
-23010	fem
-23015	neut
-23018	fem
-23022	masc
-23040	masc
-masc
-neut
-23067	fem
-23074	neut
-neut
-fem
-masc/fem
-masc/neut
-23086	neut
-23089	masc/fem
-23092	fem
-23099	fem
-23106	masc
-fem
-23109	neut
-neut
-23116	masc
-23118	fem
-23125	masc
-23127	neut
-23158	fem
-23161	fem
-23183	masc
-23185	fem
-23191	fem
-23195	fem
-fem
-23198	masc
-23200	masc
-23222	fem
-neut
-23240	fem
-23245	masc
-23252	fem
-23257	fem
-23264	masc
-23280	neut
-23290	neut
-23296	fem
-23302	masc/neut
-23315	neut
-23319	fem
-23331	neut
-23337	masc/neut
-23350	masc
-23354	masc
-23378	fem
-23395	fem
-neut
-23398	neut
-23424	masc
-23430	masc
-23432	neut
-masc
-23435	masc
-fem
-23450	fem
-23452	masc
-23454	fem
-23457	masc
-fem
-23460	masc
-23462	neut
-23464	masc
-neut
-23474	neut
-23477	masc
-23484	masc/fem
-23489	neut
-23495	neut
-masc
-23505	masc
-23509	neut
-23515	fem
-23524	masc
-23532	masc/fem
-fem
-23542	neut
-23546	masc
-23548	neut
-23550	masc
-23552	fem
-23554	fem
-23563	masc
-neut
-23566	fem
-fem
-23571	fem
-23574	masc
-23593	masc/fem/neut
-23602	neut
-23631	masc
-23647	neut
-23663	neut
-23679	masc
-23681	masc/fem/neut
-23688	neut
-23699	fem
-23703	fem
-23708	fem
-masc
-23711	fem
-23714	neut
-masc
-23717	masc
-23730	masc
-23735	fem
-23737	fem
-23741	masc
-fem
-masc
-fem
-masc
-23750	masc
-23763	masc
-23766	neut
-23770	masc
-23772	masc
-23774	fem
-23779	masc/fem
-23781	masc
-23800	fem
-23810	neut
-23813	neut
-23828	fem
-masc
-23831	fem
-23839	fem
-23845	neut
-23850	fem
-23863	fem
-23868	masc
-neut
-23871	masc
-23873	neut
-23877	masc
-neut
-23885	masc
-23887	neut
-23897	fem
-fem
-23904	neut
-23909	neut
-23911	fem
-23917	masc
-23921	fem
-23935	neut
-23964	masc
-23970	neut
-23980	masc
-23987	masc/neut
-23993	neut
-neut
-24000	neut
-24002	fem
-masc
-24005	fem
-24007	fem
-masc
-24010	masc/neut
-24021	fem
-24047	neut
-24069	neut
-masc/fem
-24073	fem
-neut
-24076	masc
-24082	neut
-fem
-24088	neut
-24091	masc
-24098	fem
-24100	neut
-masc
-neut
-24110	masc
-24119	masc
-24131	fem
-24142	neut
-24144	neut
-24146	masc
-24160	masc
-fem
-24164	masc
-24167	neut
-24181	masc
-24190	neut
-24192	fem
-24202	fem
-24207	neut
-neut
-24222	masc/fem
-fem
-24225	masc
-24234	masc
-24238	masc
-24250	masc
-24273	masc
-24283	masc
-24288	fem
-24290	masc
-24296	neut
-24299	masc
-24321	neut
-24325	masc/fem
-24329	masc/neut
-24331	neut
-24335	masc/fem
-24339	neut
-24342	masc/fem
-neut
-24345	masc
-24347	masc
-24370	masc/neut
-24372	masc/neut
-24378	fem
-24383	neut
-masc/neut
-24389	neut
-24396	masc
-24400	fem
-24402	masc/neut
-24406	masc
-24423	masc
-neut
-24426	masc
-fem
-24429	masc/neut
-neut
-24432	masc
-24434	masc
-24453	masc
-24455	neut
-neut
-24458	masc/neut
-24460	masc
-neut
-24463	masc
-24465	masc
-24481	neut
-neut
-24484	masc/neut
-24486	masc
-24489	masc
-masc
-24496	fem
-24508	neut
-24510	fem
-24522	masc
-24524	fem
-neut
-24528	fem
-24530	fem
-24538	masc/fem
-24543	masc
-24548	fem
-fem
-24568	masc
-24580	neut
-24588	masc
-masc
-24591	neut
-24593	masc
-24599	neut
-24601	masc
-24607	masc/neut
-24634	masc
-24648	neut
-24659	masc
-fem
-24681	neut
-24690	masc
-24693	fem
-24695	fem
-24697	masc
-24699	fem
-24702	fem
-24704	neut
-masc
-24710	masc/fem
-fem
-fem
-24718	fem
-24723	fem
-fem
-24735	fem
-24739	masc
-24746	masc
-fem
-24753	fem
-masc
-24772	neut
-24774	neut
-24776	masc
-24781	masc
-24788	neut
-24791	masc
-24793	masc
-fem
-masc
-24797	masc
-24799	masc
-24801	masc
-24806	masc/neut
-24810	neut
-24816	neut
-24821	neut
-24823	masc
-24831	neut
-masc
-24835	fem
-24837	neut
-24843	fem
-24851	neut
-24853	fem
-24863	fem
-masc
-24866	neut
-masc
-24874	masc
-fem
-24880	fem
-24884	masc
-24886	fem
-24892	neut
-24894	masc
-24905	fem
-24912	neut
-24922	fem
-24926	masc
-24930	masc
-24933	masc
-24935	masc
-24939	neut
-masc
-24942	neut
-24947	neut
-24949	neut
-24951	fem
-neut
-24957	neut
-24963	neut
-24966	masc
-24968	neut
-masc
-24996	neut
-25025	neut
-25029	masc
-25032	masc
-25034	masc
-25045	masc
-25047	neut
-masc
-25051	masc
-25063	fem
-25067	neut
-25073	neut
-25088	masc/neut
-25105	masc/fem
-fem
-25108	masc
-25114	masc
-25117	masc
-25123	neut
-25125	masc
-25127	masc/fem
-neut
-25137	masc
-25139	neut
-25142	masc/fem
-25145	masc/neut
-25147	neut
-25156	masc/neut
-neut
-25159	masc
-25180	masc
-25182	neut
-25185	neut
-25187	masc
-25207	neut
-25219	masc
-25221	masc
-25232	neut
-masc
-25237	neut
-masc
-25243	masc/neut
-fem
-25246	masc
-masc
-fem
-25250	fem
-25266	masc/neut
-25275	masc
-25281	neut
-25298	masc
-25302	masc
-25309	fem
-25314	neut
-25321	neut
-25326	neut
-masc
-neut
-25337	masc
-neut
-25346	neut
-25353	neut
-25357	neut
-masc
-25366	masc
-25371	masc
-neut
-25386	neut
-masc
-25390	masc
-25393	neut
-25402	neut
-masc
-25407	fem
-25409	masc/neut
-25411	masc
-25421	masc
-neut
-25434	masc
-25438	fem
-25449	masc/neut
-25469	neut
-25477	neut
-masc
-25501	masc/neut
-25515	masc
-25517	neut
-25521	neut
-masc
-25536	fem
-25538	fem
-25545	fem
-25547	fem
-25558	masc
-25560	masc
-25563	masc
-25565	masc
-25568	neut
-25572	masc/neut
-25574	fem
-25576	fem
-25579	masc/neut
-25585	masc
-25591	neut
-25594	neut
-25596	neut
-25606	masc
-25610	fem
-25615	fem
-25623	neut
-25637	neut
-25642	neut
-25655	masc
-25658	masc
-fem
-25661	masc
-25665	masc
-25669	neut
-25679	masc/fem/neut
-25682	masc
-25695	neut
-25700	neut
-25702	masc/fem/neut
-25710	neut
-neut
-neut
-25714	neut
-25725	fem
-25728	masc
-25731	masc
-25743	neut
-25750	masc
-25758	masc
-masc
-25766	masc
-25769	neut
-25775	fem
-25782	neut
-masc
-25792	neut
-25797	neut
-25814	neut
-25820	neut
-25824	neut
-fem
-25830	neut
-25843	neut
-25847	neut
-25849	masc/neut
-neut
-25856	fem
-25858	masc/neut
-masc
-25867	masc/fem/neut
-25873	masc
-25876	masc
-25879	masc
-25885	fem
-25891	masc
-25898	fem
-neut
-25901	masc
-25905	fem
-fem
-25915	fem
-25935	masc
-neut
-25941	fem
-25960	neut
-25966	masc
-25971	neut
-masc
-25975	fem
-25980	fem
-25984	masc
-26015	neut
-26017	neut
-26039	neut
-26051	masc
-26059	fem
-26068	masc
-neut
-26076	masc
-26080	neut
-neut
-26084	neut
-26090	masc/neut
-26092	fem
-26106	neut
-masc/fem
-26120	fem
-26122	masc
-26128	masc
-26135	neut
-masc/neut
-26144	masc/neut
-masc
-26155	neut
-26165	masc
-masc/neut
-26185	neut
-masc/fem
-26191	masc
-26202	fem
-26218	neut
-26221	fem
-26234	masc
-26241	fem
-masc
-26245	fem
-masc
-masc
-26249	neut
-26252	neut
-26254	masc
-26257	fem
-26262	fem
-26271	masc
-26278	masc/neut
-26284	masc
-26286	masc
-26288	masc/fem
-neut
-neut
-26303	neut
-26318	neut
-masc
-26328	neut
-26335	masc
-26338	neut
-26342	masc
-26350	fem
-26355	fem
-26357	masc/neut
-26359	fem
-26362	masc
-26370	neut
-masc
-26373	neut
-26379	masc
-26388	fem
-masc/neut
-26404	fem
-neut
-26412	masc
-26415	masc/neut
-26419	neut
-26421	masc
-26423	neut
-26435	fem
-26440	masc
-26446	fem
-26449	neut
-masc
-26455	fem
-26457	masc
-fem
-26461	neut
-masc
-neut
-fem
-26468	masc
-neut
-26471	masc/neut
-masc
-26477	masc
-26479	masc
-masc/neut
-26485	masc/neut
-26491	masc/neut
-26497	masc/neut
-26503	masc/neut
-neut
-26508	masc
-masc/neut
-26511	neut
-26515	masc
-26521	neut
-26523	masc
-26526	fem
-26528	neut
-26539	masc
-26557	masc
-26559	masc
-26568	fem
-26570	neut
-masc
-fem
-26574	neut
-26580	fem
-26584	fem
-26593	masc
-26595	neut
-masc
-26601	masc/fem/neut
-26604	masc
-26606	neut
-neut
-masc
-26621	masc
-26623	masc/neut
-26627	neut
-26629	fem
-26634	masc/neut
-26637	masc
-masc/neut
-26643	masc
-26645	neut
-26649	masc
-neut
-26656	masc
-26667	masc
-26686	masc
-26691	masc/neut
-26693	fem
-fem
-26700	masc
-26707	neut
-26709	fem
-neut
-26713	masc
-26718	fem
-26722	fem
-26725	fem
-26733	fem
-26740	neut
-fem
-fem
-26744	fem
-26746	neut
-26753	masc
-26767	neut
-fem
-26771	masc
-26773	neut
-26775	masc
-26780	masc/fem/neut
-26785	fem
-26795	neut
-masc
-26803	masc
-26814	masc
-26821	masc
-26824	masc/fem/neut
-26828	masc
-26835	masc
-26837	masc/fem
-masc
-26849	neut
-neut
-26852	masc
-26859	fem
-26867	masc
-neut
-26880	masc
-26895	fem
-26897	fem
-26900	neut
-26911	masc/neut
-fem
-26914	fem
-26917	masc
-26923	fem
-26928	masc
-26932	neut
-fem
-26935	masc
-26939	masc
-26943	fem
-26951	neut
-26964	masc
-26970	masc
-26993	neut
-26997	neut
-27015	neut
-27019	masc
-27025	fem
-masc
-neut
-27042	neut
-27049	fem
-27072	fem
-27076	fem
-fem
-27080	neut
-27089	neut
-27091	fem
-27097	fem
-27102	masc
-27104	fem
-27108	fem
-27111	neut
-27118	fem
-27121	neut
-27127	neut
-masc
-27140	fem
-27147	masc
-27155	neut
-27165	neut
-27169	fem
-27177	masc
-27185	fem
-27187	fem
-27220	masc
-27224	fem
-27235	neut
-neut
-27240	fem
-27243	fem
-27246	neut
-27257	fem
-27259	neut
-27267	neut
-27271	fem
-neut
-27277	neut
-fem
-neut
-27282	fem
-27285	masc
-27294	fem
-27301	fem
-masc
-27306	fem
-neut
-27311	neut
-27318	masc
-neut
-27338	masc
-27351	masc
-neut
-masc/fem
-27360	masc/fem
-27369	fem
-27383	fem
-27387	fem
-27390	masc
-27393	masc
-27403	masc
-27413	masc
-27449	fem
-27459	masc
-27471	neut
-27473	masc
-27475	masc/fem
-27481	masc
-masc
-27492	fem
-27521	neut
-27524	masc
-27526	masc
-27537	masc
-27540	neut
-27552	masc
-27567	masc
-27569	fem
-fem
-27573	neut
-27579	masc
-fem
-27594	fem
-27614	neut
-27619	neut
-neut
-27633	fem
-27635	masc
-27640	masc
-27643	neut
-27647	masc/fem
-27650	masc
-fem
-27666	masc
-fem
-27674	masc/neut
-fem
-27677	masc/neut
-neut
-masc
-27684	neut
-27687	masc/neut
-27690	neut
-neut
-27700	neut
-27704	neut
-27711	neut
-27718	neut
-neut
-27736	neut
-27741	masc
-27746	neut
-27749	masc
-masc/neut
-fem
-27774	masc
-27795	neut
-27805	fem
-27807	fem
-27815	fem
-27818	masc
-27825	masc
-masc
-27829	neut
-masc
-neut
-27834	neut
-27840	fem
-27849	fem
-27852	fem
-neut
-27868	neut
-masc
-27872	masc
-neut
-27887	neut
-27891	neut
-27895	masc
-27898	masc
-27905	masc
-27908	masc
-27920	fem
-27925	masc
-27944	fem
-neut
-27947	fem
-27955	neut
-27964	masc
-27969	fem
-27974	neut
-27976	neut
-fem
-masc
-28003	masc
-28006	masc
-28022	fem
-28025	masc/fem
-28042	fem
-masc
-28066	fem
-28070	neut
-28082	neut
-28086	masc
-28092	neut
-28104	neut
-neut
-28107	masc
-28116	neut
-28121	masc
-28142	masc
-28161	neut
-28163	masc
-28171	neut
-masc
-28177	fem
-28182	neut
-28186	fem
-28189	fem
-28192	masc/fem/neut
-28201	fem
-masc
-28208	masc
-28214	fem
-28220	neut
-28222	masc
-28224	fem
-28227	masc
-28237	masc
-28240	masc
-28243	masc
-28246	neut
-28252	fem
-28258	masc
-28264	masc
-28270	masc
-28274	neut
-28278	neut
-28280	masc
-28295	fem
-fem
-28306	masc
-neut
-28311	masc/neut
-neut
-28321	neut
-masc
-fem
-28328	fem
-28332	fem
-neut
-fem
-28337	neut
-28344	masc
-28350	masc/neut
-masc/neut
-neut
-28360	neut
-28369	neut
-masc
-neut
-28375	neut
-28377	masc
-28388	neut
-28399	neut
-28402	masc
-28404	fem
-28411	masc
-28418	masc
-28426	masc
-28442	masc
-28444	masc
-28449	masc
-28460	masc
-28462	masc
-28464	fem
-28466	masc
-28471	masc
-28478	masc
-neut
-28482	masc
-28489	masc
-28495	masc
-28497	fem
-28499	fem
-28506	neut
-28509	fem
-28511	neut
-28517	neut
-28519	masc
-28526	fem
-28532	neut
-28538	neut
-28554	neut
-28561	neut
-masc
-neut
-28574	masc
-28579	masc
-28587	neut
-28600	neut
-28604	neut
-28607	masc
-neut
-28614	masc
-28618	masc
-28620	fem
-neut
-28627	masc
-28632	fem
-masc/neut
-masc/neut
-neut
-28637	masc
-28645	neut
-28650	fem
-neut
-28656	neut
-masc
-28666	fem
-28671	neut
-28678	neut
-28683	masc
-28690	masc
-28693	neut
-neut
-28698	masc
-28700	masc
-28712	neut
-28727	masc
-masc
-28732	neut
-28734	neut
-28743	masc
-28747	neut
-28749	neut
-28769	masc
-28781	masc/neut
-28788	fem
-28802	masc
-28814	fem
-28819	neut
-neut
-28825	fem
-28829	fem
-28832	masc
-28841	masc/fem
-28843	neut
-28883	fem
-28889	fem
-28898	fem
-28902	fem
-masc
-28905	fem
-28908	neut
-28912	masc
-28917	masc
-fem
-28920	neut
-28922	fem
-28926	masc
-masc
-masc
-28934	fem
-28936	masc
-28938	neut
-masc
-28943	masc
-28947	neut
-neut
-28953	masc
-28955	masc
-28957	masc
-28964	masc
-28968	masc
-28970	neut
-masc
-neut
-28985	masc
-masc
-28991	masc
-28994	fem
-29001	fem
-29009	neut
-masc
-29019	neut
-neut
-29023	neut
-29050	masc
-masc/fem
-29058	neut
-29060	masc
-29065	masc
-29075	fem
-29077	masc
-29079	neut
-29081	neut
-29086	neut
-29092	neut
-29107	masc
-fem
-29111	masc
-fem
-29122	neut
-29126	fem
-29135	fem
-29140	masc
-neut
-fem
-29152	neut
-29163	fem
-29176	masc
-neut
-29182	neut
-29205	fem
-29220	fem
-29229	fem
-29231	masc
-fem
-29235	masc
-fem
-29241	masc
-29245	masc
-fem
-29249	masc
-fem
-29262	masc
-29271	fem
-29281	masc/fem
-29292	neut
-29294	neut
-29299	fem
-29316	neut
-29320	masc
-29327	masc
-29333	neut
-29347	neut
-29349	fem
-29352	fem
-29374	neut
-29380	fem
-29383	masc
-29391	neut
-29401	masc/neut
-29404	neut
-29414	masc/fem/neut
-29416	fem
-29430	fem
-29433	neut
-29444	fem
-29447	neut
-29449	masc/neut
-29464	masc
-29467	fem
-neut
-fem
-29473	neut
-29477	fem
-29487	neut
-masc/neut
-fem
-29497	masc/neut
-29507	masc
-masc/neut
-neut
-29512	masc
-masc
-29525	neut
-29534	masc/neut
-29540	neut
-29544	neut
-29546	fem
-fem
-29551	masc
-29559	neut
-masc
-29568	fem
-29570	neut
-29586	masc/fem
-29590	masc/fem
-masc
-29601	masc
-29606	fem
-masc
-29616	masc
-29624	masc
-29632	fem
-neut
-29650	masc
-29655	fem
-29661	masc/neut
-29670	fem
-29672	fem
-29679	fem
-29689	fem
-29691	fem
-29696	neut
-29709	masc/neut
-29711	neut
-29727	masc/neut
-29730	neut
-29738	fem
-29748	neut
-29750	masc
-masc
-masc
-29755	fem
-29757	masc/neut
-29759	fem
-29761	masc/neut
-29765	masc
-29775	masc
-29782	fem
-29788	neut
-masc/neut
-29813	masc
-29815	masc
-fem
-29820	neut
-29825	fem
-neut
-29835	fem
-fem
-29838	masc/neut
-29847	neut
-29856	fem
-29866	neut
-29873	neut
-29875	neut
-29882	masc
-29885	masc
-29890	masc
-29897	fem
-fem
-29912	fem
-29915	neut
-29917	neut
-29919	masc
-29937	neut
-29946	masc
-29955	fem
-fem
-29969	fem
-29972	fem
-29978	fem
-29980	fem
-neut
-29985	masc
-29998	fem
-30002	neut
-30011	fem
-30016	masc
-30038	neut
-masc
-30042	fem
-30052	neut
-30057	neut
-30060	masc
-masc
-30066	neut
-30093	masc
-neut
-30113	fem
-30133	neut
-30138	masc
-30141	masc
-30146	masc
-30158	fem
-30160	masc/neut
-30166	neut
-30176	fem
-neut
-30180	neut
-30183	neut
-30189	fem
-fem
-masc/neut
-30194	neut
-30197	masc/neut
-30202	neut
-30204	fem
-30219	masc
-30237	fem
-fem
-30251	fem
-30265	neut
-30269	masc/neut
-30271	neut
-30276	fem
-30279	masc/neut
-30287	fem
-30291	masc/neut
-30293	fem
-30298	fem
-30306	neut
-fem
-30309	neut
-30315	neut
-masc/neut
-masc
-30321	fem
-neut
-30325	masc
-30337	neut
-30343	fem
-30353	fem
-30355	neut
-30358	neut
-neut
-30368	masc
-30386	fem
-30396	masc
-30406	masc
-30412	masc/neut
-30428	fem
-masc/fem
-30440	neut
-30450	masc
-30453	masc
-masc/fem
-30456	neut
-30458	masc
-30460	masc
-30467	masc
-30471	fem
-30477	masc
-30487	masc
-30490	fem
-30499	neut
-30502	neut
-30508	masc/neut
-30529	masc
-30544	fem
-fem
-30551	masc
-masc
-30568	neut
-fem
-30575	masc
-30580	fem
-masc
-30583	neut
-30585	masc
-30591	masc/neut
-30595	masc
-30597	neut
-30605	masc
-30607	masc
-neut
-30612	neut
-30622	fem
-30624	masc/fem
-30632	neut
-30635	masc/fem/neut
-30638	masc
-30642	fem
-masc/neut
-30650	fem
-30652	masc
-30656	masc/neut
-30669	masc/neut
-30672	masc/fem
-30676	fem
-30684	neut
-30686	fem
-30689	masc/neut
-masc
-30693	masc
-30699	neut
-masc/neut
-30712	fem
-neut
-fem
-neut
-30717	masc
-30719	masc/neut
-30723	fem
-30730	neut
-30739	masc/neut
-30745	masc
-30755	fem
-fem
-30770	neut
-30774	fem
-30778	masc
-fem
-30783	fem
-30800	fem
-30813	neut
-30820	fem
-30838	fem
-fem
-30849	masc/fem
-30866	masc
-30877	masc
-30883	fem
-30886	masc/neut
-30891	masc/neut
-30901	neut
-30903	masc
-30916	neut
-30923	masc
-masc
-30926	fem
-30934	neut
-30936	neut
-30946	fem
-30950	masc
-30952	masc/neut
-30964	masc
-30969	fem
-30973	masc
-30975	masc
-30982	fem
-30992	neut
-masc
-30995	masc/fem
-31000	neut
-31010	neut
-31025	masc
-31029	masc
-31040	fem
-31042	masc
-neut
-31045	fem
-31055	masc
-31061	masc
-31072	masc
-neut
-31075	fem
-31085	masc
-31098	masc
-neut
-31101	fem
-fem
-31105	fem
-neut
-31109	masc
-31116	masc/neut
-31121	masc/neut
-neut
-neut
-31129	masc/neut
-31135	neut
-31141	masc/neut
-31147	masc
-masc
-31158	neut
-31163	masc/fem
-31171	masc
-31191	masc
-masc/neut
-31200	neut
-31208	masc
-31213	neut
-31230	masc
-31236	neut
-masc/neut
-masc
-neut
-31242	masc/neut
-31245	neut
-31247	masc
-31252	masc/neut
-31255	neut
-31267	masc/neut
-31271	neut
-31275	fem
-31300	masc/neut
-31308	neut
-31324	masc
-31341	masc
-31345	fem
-31349	fem
-fem
-masc
-31358	masc/fem/neut
-31365	fem
-31370	fem
-31383	masc
-31386	neut
-fem
-neut
-31391	masc/neut
-31395	fem
-31398	fem
-31402	masc
-31414	masc
-31416	masc
-31427	masc
-neut
-31430	masc
-31433	fem
-neut
-31442	fem
-31448	masc
-neut
-masc/fem
-31456	masc
-31467	fem
-31489	fem
-masc/fem
-31495	masc/fem/neut
-masc
-31503	fem
-31505	neut
-31510	masc
-31515	fem
-31528	fem
-31534	masc/fem
-31537	neut
-31539	masc/neut
-masc
-31543	masc
-31549	neut
-31554	neut
-31575	fem
-31585	fem
-31589	neut
-fem
-31596	masc
-masc
-31606	neut
-31611	neut
-31619	masc/fem/neut
-31626	fem
-31635	fem
-31640	masc
-31645	masc
-31663	fem
-31673	neut
-31678	masc
-31683	masc/neut
-31690	masc/neut
-fem
-31696	fem
-31700	neut
-31707	fem
-fem
-31710	fem
-31712	fem
-31716	fem
-31719	fem
-31762	neut
-masc
-neut
-31768	masc
-31774	neut
-31777	fem
-31785	neut
-31791	neut
-31797	masc
-31800	masc
-31802	masc
-31810	neut
-31813	fem
-31819	neut
-31822	masc
-31830	neut
-31836	neut
-31842	neut
-neut
-31853	masc
-31869	masc/neut
-masc/neut
-31875	masc/neut
-31880	fem
-31888	neut
-masc
-31891	masc
-31893	neut
-31899	fem
-31902	neut
-31911	masc
-31916	fem
-31925	masc
-31932	masc
-31944	masc
-31948	fem
-31952	fem
-masc
-31957	neut
-31960	neut
-31977	fem
-neut
-31999	masc
-32011	masc
-32013	neut
-32025	neut
-32028	neut
-32031	masc
-32033	masc
-32036	masc
-32039	masc
-32047	fem
-32061	masc
-32077	masc/fem
-32079	masc
-32087	fem
-32097	neut
-32099	masc
-32111	masc
-32119	masc
-32135	fem
-32149	masc
-32169	fem
-32198	masc
-32200	masc/fem
-32215	fem
-32221	masc
-32231	masc
-32236	neut
-32248	fem
-32254	neut
-masc
-32257	neut
-32263	neut
-32265	masc
-32270	fem
-32272	fem
-32281	neut
-32283	masc
-32292	masc
-neut
-32298	neut
-32304	neut
-32306	neut
-32310	fem
-32313	neut
-masc
-32319	masc
-32321	masc
-masc/neut
-32338	masc/fem/neut
-32347	masc
-neut
-32353	neut
-32362	masc
-32364	neut
-32366	masc
-32368	masc
-32376	masc/neut
-32381	neut
-masc
-neut
-32387	masc
-32389	masc
-masc/neut
-masc
-32393	neut
-32395	neut
-32402	masc
-32404	neut
-masc
-32408	fem
-32413	fem
-32429	fem
-32433	masc
-32442	neut
-32448	fem
-32475	masc/neut
-32495	fem
-32498	masc/neut
-32504	fem
-32510	masc
-32523	neut
-32526	fem
-neut
-32532	masc/neut
-32568	neut
-neut
-fem
-32572	fem
-32576	neut
-32582	masc/neut
-32588	neut
-32598	fem
-32603	fem
-32612	neut
-32614	neut
-32617	masc
-32620	fem
-32627	fem
-32632	fem
-masc
-32641	fem
-32644	fem
-32658	fem
-32663	neut
-masc
-32668	neut
-32684	fem
-32690	fem
-32693	fem
-32700	neut
-32702	fem
-32704	masc
-32710	fem
-32724	neut
-32728	neut
-32739	masc/fem/neut
-32747	masc/fem
-32749	masc
-masc
-32754	fem
-32756	masc
-32759	neut
-masc/fem/neut
-32766	neut
-masc
-masc
-32778	neut
-32797	masc
-32799	neut
-32802	neut
-32806	fem
-32819	neut
-32827	masc
-32833	fem
-32858	fem
-32875	neut
-32879	fem
-32888	neut
-32893	neut
-neut
-32897	neut
-32902	masc
-32905	fem
-32907	neut
-32910	masc
-32915	fem
-32919	masc/fem
-32922	masc
-32928	fem
-32937	fem
-neut
-32943	neut
-masc
-32947	masc/neut
-32952	fem
-32955	neut
-32964	masc
-32985	neut
-32994	neut
-32997	masc
-33001	masc
-33004	fem
-33006	fem
-33009	neut
-33033	masc
-33044	fem
-33046	masc/neut
-33051	masc
-33053	masc
-33064	masc/neut
-33066	fem
-33073	masc
-33077	fem
-33079	fem
-33081	neut
-33096	fem
-fem
-33101	fem
-fem
-33104	masc
-33109	masc
-masc
-33114	neut
-33118	masc
-33132	masc
-33135	masc
-33143	masc/fem
-33153	neut
-masc
-masc
-masc
-33160	fem
-33165	fem
-33171	neut
-33174	masc
-33183	masc
-33187	masc/fem
-fem
-fem
-33198	masc
-masc
-neut
-33211	masc
-33216	fem
-fem
-33229	neut
-neut
-33238	masc/neut
-33241	masc
-33243	masc
-33248	neut
-33262	fem
-33266	masc
-33272	masc
-33277	fem
-33288	masc/fem
-33295	fem
-33302	masc/neut
-33324	neut
-33329	fem
-33332	neut
-33335	masc
-33339	neut
-33341	masc
-33352	masc
-33354	fem
-33357	fem
-33361	masc
-fem
-33364	masc/neut
-33368	masc
-33371	masc
-33373	masc
-33381	masc
-33387	neut
-33391	neut
-masc
-33395	fem
-33405	masc/neut
-33411	masc
-fem
-33414	masc/neut
-33422	masc
-neut
-neut
-33438	masc
-33445	masc/neut
-33450	masc/neut
-33454	neut
-fem
-33467	masc
-33475	masc
-33479	masc
-neut
-33484	masc
-33496	masc
-33503	masc
-neut
-33508	masc
-33525	masc/fem
-33528	fem
-33532	masc
-33535	masc
-33537	fem
-33540	fem
-33542	masc
-fem
-33555	neut
-masc
-33563	masc
-33567	masc
-masc
-33578	masc
-33580	neut
-33583	masc
-fem
-33587	fem
-33591	masc
-33593	masc
-33596	masc
-33602	neut
-33604	masc
-33608	masc
-33616	neut
-33619	fem
-33625	fem
-33630	fem
-neut
-33645	neut
-33676	fem
-33686	neut
-33688	neut
-fem
-33696	masc
-33705	neut
-33708	masc
-33714	neut
-33724	neut
-33728	masc
-fem
-33742	neut
-33755	neut
-masc
-fem
-33767	masc
-33802	masc
-33806	neut
-33827	fem
-33830	fem
-fem
-33833	fem
-33837	masc
-33840	masc
-33856	fem
-33862	fem
-33877	neut
-masc
-33882	fem
-33900	masc
-33903	masc/neut
-neut
-33909	fem
-33915	fem
-33924	masc
-33946	neut
-33948	neut
-33951	fem
-33954	masc
-33956	fem
-33966	masc
-33968	masc
-33977	neut
-33979	neut
-33983	neut
-33990	masc
-fem
-33993	masc
-33996	masc
-34004	fem
-34012	fem
-34027	neut
-masc
-34031	masc/fem
-34039	neut
-fem
-34042	masc
-34045	neut
-34050	neut
-34055	neut
-34063	masc
-34071	fem
-34074	masc/fem
-masc
-34077	neut
-fem
-34080	fem
-fem
-34085	masc
-34088	neut
-34091	masc
-34094	neut
-34100	fem
-masc
-fem
-34106	fem
-34113	masc/neut
-34115	masc
-34125	fem
-34130	neut
-34132	masc/neut
-34137	neut
-fem
-fem
-34141	masc
-34144	masc
-34146	fem
-34152	neut
-34156	masc/neut
-34159	masc
-34162	neut
-34165	masc
-34168	neut
-34174	masc
-fem
-34178	masc
-fem
-neut
-fem
-fem
-34184	masc
-34187	masc
-34189	fem
-34198	masc/neut
-masc
-34203	fem
-34206	masc
-fem
-34212	fem
-34215	masc
-34227	masc/neut
-34232	fem
-34237	masc
-34243	fem
-fem
-34253	masc
-fem
-34257	masc
-34263	fem
-fem
-34270	masc
-34278	neut
-34282	fem
-fem
-34288	masc
-34294	neut
-34300	fem
-34310	fem
-fem
-34316	masc/neut
-34325	neut
-34327	masc/neut
-34333	neut
-34345	neut
-34347	masc/neut
-masc
-34372	masc
-34376	masc/neut
-34380	masc/neut
-34393	masc
-34413	neut
-34427	masc/neut
-34430	neut
-34443	masc/neut
-34453	masc/neut
-34460	neut
-34463	masc
-34465	masc
-34467	neut
-34483	masc/neut
-34489	masc
-34493	fem
-34499	neut
-34511	masc
-34513	fem
-fem
-34516	neut
-34519	neut
-34528	masc/fem/neut
-34532	neut
-34537	masc/fem/neut
-34539	masc
-34552	masc
-masc/fem
-34557	fem
-34560	neut
-34565	fem
-34568	masc
-34570	masc
-34576	masc/fem
-masc/fem
-34596	neut
-34606	neut
-34608	masc
-34611	neut
-34617	masc/fem
-34629	neut
-34644	neut
-fem
-34660	masc
-34663	masc
-34672	masc
-34678	masc
-masc
-34685	neut
-34687	masc
-34696	masc
-neut
-34707	masc/neut
-34713	masc/fem
-neut
-34716	masc
-34720	neut
-34724	fem
-34731	neut
-34733	masc
-34735	masc
-34749	fem
-34753	masc
-34760	neut
-masc/fem
-34790	neut
-34797	neut
-masc
-34802	masc
-34810	fem
-34822	masc
-34826	neut
-34828	masc
-34832	fem
-34841	masc
-fem
-34858	masc/fem
-34861	fem
-34866	fem
-34876	fem
-34878	neut
-masc
-34886	masc
-34893	masc
-34900	masc
-34905	neut
-34914	fem
-34923	masc
-masc
-neut
-34930	masc/fem
-34932	neut
-34934	neut
-34941	neut
-34954	masc
-34957	masc
-fem
-34968	fem
-34970	neut
-34975	masc
-masc
-34979	neut
-34988	masc
-34990	neut
-34992	neut
-34995	fem
-34997	masc
-masc
-35001	neut
-35013	neut
-35015	masc
-35017	neut
-fem
-35031	fem
-35038	masc/neut
-35052	neut
-35060	masc
-35073	masc
-35089	masc
-35098	neut
-35123	masc/neut
-35128	masc/neut
-35130	masc/neut
-35136	masc
-35140	neut
-35145	fem
-35153	neut
-35157	masc
-35161	masc
-35166	masc
-35170	masc
-35187	fem
-35194	masc/fem
-masc/fem
-35197	masc
-35205	fem
-35219	neut
-35222	neut
-35225	masc
-35229	neut
-35232	neut
-35236	neut
-35238	masc
-35243	masc
-35252	fem
-35257	neut
-35284	fem
-35288	neut
-35299	fem
-35301	neut
-35305	fem
-35329	fem
-35331	neut
-35333	neut
-35339	masc
-35349	fem
-35354	neut
-35359	neut
-masc
-35364	masc
-35366	masc
-35369	neut
-35379	neut
-35383	fem
-neut
-35390	fem
-35396	fem
-neut
-35401	masc
-35404	neut
-35407	neut
-35409	neut
-35413	masc
-35416	masc
-35428	masc/neut
-35451	fem
-35462	fem
-35480	fem
-35482	masc
-35484	fem
-35487	fem
-35489	neut
-35502	masc/neut
-fem
-35507	masc
-35526	masc/neut
-35528	masc
-35532	masc
-35536	fem
-35540	neut
-35548	fem
-35552	masc
-35563	neut
-fem
-35567	masc
-fem
-35573	neut
-35577	masc
-35600	neut
-35602	fem
-35606	neut
-35609	neut
-masc
-35624	neut
-35630	fem
-fem
-35645	neut
-35656	masc
-35659	fem
-35677	masc
-35679	neut
-35687	masc
-fem
-35693	fem
-35695	neut
-35701	fem
-35704	fem
-35723	fem
-35725	neut
-35728	neut
-35732	masc
-35734	neut
-35738	masc
-35742	neut
-35751	fem
-35756	masc
-35760	fem
-masc/fem
-35774	masc/fem
-35791	masc
-35795	neut
-35811	fem
-35818	fem
-35835	neut
-35842	masc
-35845	masc
-35856	masc
-35858	fem
-35866	masc
-35894	fem
-35897	masc
-35905	neut
-35913	masc/neut
-35915	masc
-35917	masc/neut
-35922	masc
-neut
-35936	masc
-35949	fem
-35956	masc
-fem
-35973	fem
-35990	masc
-masc
-masc
-35994	neut
-36009	masc/fem
-36014	fem
-36016	masc/neut
-36020	masc
-36024	neut
-36027	neut
-36038	masc
-36049	fem
-36063	neut
-36079	fem
-36093	masc
-masc
-36101	masc/neut
-36128	fem
-fem
-36133	masc/fem/neut
-36140	neut
-masc
-36143	masc
-36146	neut
-36150	neut
-36152	neut
-fem
-36172	masc
-36176	neut
-36191	fem
-neut
-36202	fem
-36204	neut
-36214	masc
-36245	fem
-neut
-36251	neut
-36255	masc
-36261	masc
-36265	neut
-36279	masc
-neut
-36286	fem
-36293	neut
-36298	fem
-neut
-36306	masc
-36311	masc/neut
-36314	fem
-masc
-36317	neut
-36326	fem
-36329	neut
-masc
-36339	neut
-36344	masc
-36355	masc
-36357	masc
-36361	neut
-36364	masc
-36372	neut
-36374	masc/fem
-36378	masc
-36388	masc
-36394	neut
-36396	fem
-36399	masc
-36408	neut
-36418	fem
-fem
-36425	neut
-masc
-36428	neut
-36435	neut
-36437	masc
-masc
-36441	masc
-36444	neut
-36446	masc
-36458	fem
-36460	fem
-36462	neut
-36472	fem
-36476	neut
-36484	neut
-36489	fem
-36491	masc/neut
-36493	masc
-36502	neut
-36505	masc
-neut
-36508	fem
-36510	masc/neut
-36515	neut
-36517	masc
-36521	masc
-masc
-36524	neut
-36535	masc/fem
-36540	masc
-36559	neut
-36562	masc
-36572	neut
-36581	masc
-36583	masc/fem
-36600	masc
-36603	neut
-36621	neut
-fem
-neut
-36632	fem
-36649	fem
-36655	fem
-36657	fem
-36675	fem
-36685	masc
-masc/neut
-36689	masc
-36695	neut
-36705	neut
-36707	fem
-fem
-neut
-36712	neut
-36716	masc
-neut
-36721	fem
-36723	masc
-36725	neut
-36730	neut
-36749	fem
-36754	masc
-36756	masc
-36760	fem
-neut
-masc
-36767	masc
-36772	masc
-36785	fem
-36792	fem
-36796	neut
-36801	masc
-36803	neut
-36805	neut
-36820	neut
-36834	masc
-36836	neut
-36839	masc/fem
-neut
-36845	masc
-36848	fem
-36853	neut
-36867	fem
-36871	fem
-36873	fem
-36876	neut
-36889	fem
-36913	fem
-36918	masc
-36925	neut
-fem
-36929	masc
-fem
-36934	masc
-fem
-36937	masc
-36941	masc
-36944	neut
-36953	neut
-36964	masc/fem
-36973	masc
-36976	neut
-36978	masc
-36985	neut
-36991	fem
-36999	masc
-37007	fem
-37022	masc/fem/neut
-37027	fem
-37033	neut
-37060	masc
-37076	neut
-37092	masc/fem/neut
-masc
-37101	masc
-37103	masc/fem
-37108	fem
-37112	fem
-37122	fem
-37126	masc
-37149	neut
-37162	masc
-37165	masc/fem
-37171	neut
-37175	neut
-37178	neut
-37182	masc
-37210	neut
-37215	masc
-masc
-37218	fem
-37224	masc/fem
-37226	masc
-37240	masc/neut
-37261	fem
-37264	neut
-37267	neut
-37278	masc
-37296	fem
-fem
-37299	fem
-37314	masc
-37317	masc/neut
-37323	neut
-masc/fem
-37350	fem
-masc/neut
-37360	neut
-masc
-37364	neut
-37368	fem
-masc
-37372	fem
-37375	masc/neut
-37380	masc/neut
-37388	neut
-37393	neut
-masc
-37427	fem
-37432	fem
-37434	masc/neut
-37438	neut
-37448	masc
-37458	fem
-37481	fem
-neut
-37484	masc
-37490	fem
-37492	masc
-37501	neut
-37505	masc
-37521	neut
-37527	fem
-37533	neut
-37536	masc
-37538	masc/fem
-37542	masc/neut
-37544	neut
-37548	neut
-37552	masc/neut
-37557	masc
-masc
-37565	masc/neut
-37567	masc/neut
-37575	fem
-37607	neut
-37617	masc
-fem
-37622	neut
-masc
-37634	masc
-37643	masc
-37645	fem
-37654	masc
-37656	neut
-37661	neut
-masc
-fem
-37668	fem
-fem
-37673	neut
-37690	neut
-37693	neut
-37695	masc
-37709	fem
-37716	fem
-37724	masc
-masc
-masc
-37728	neut
-37740	neut
-masc
-37751	fem
-37756	fem
-37763	neut
-masc
-37770	fem
-37776	fem
-37788	neut
-37792	masc
-37799	masc/neut
-37812	fem
-37817	masc
-37822	fem
-37827	neut
-37837	masc
-37844	neut
-37852	fem
-37854	masc/neut
-37859	fem
-37870	fem
-37872	fem
-37875	neut
-37894	fem
-37896	fem
-fem
-37910	fem
-fem
-fem
-37924	fem
-37928	fem
-37931	masc
-37936	masc/fem
-37940	masc/neut
-37949	neut
-37951	fem
-fem
-37957	neut
-37961	fem
-37967	fem
-37970	masc
-37973	masc
-37975	neut
-37982	fem
-37984	fem
-38004	fem
-38011	fem
-38014	fem
-38016	masc
-38018	neut
-fem
-masc/neut
-38024	neut
-38026	fem
-38029	neut
-38039	masc
-38043	masc
-masc
-38046	fem
-neut
-38049	masc/fem
-38053	masc/neut
-38076	masc
-38079	fem
-38086	fem
-38095	neut
-fem
-38102	neut
-fem
-38105	masc/neut
-38122	masc
-38124	masc
-38130	neut
-38134	masc
-38136	masc
-38139	fem
-38142	neut
-38144	neut
-38149	masc/neut
-neut
-38162	neut
-38166	neut
-38171	neut
-38175	neut
-38179	neut
-fem
-neut
-38184	masc
-masc
-38188	fem
-38190	masc
-38192	masc/fem
-masc
-38195	masc
-38197	fem
-38202	neut
-38206	masc
-38209	fem
-38217	fem
-38222	masc
-38229	masc
-38234	neut
-38236	neut
-38248	neut
-38253	masc
-38255	masc
-masc/neut
-38261	masc/neut
-38267	masc/neut
-38273	masc/neut
-38279	masc/neut
-38282	masc
-masc/neut
-38285	neut
-38289	masc
-38295	neut
-38304	masc
-38308	masc
-38310	neut
-masc
-38321	fem
-38323	masc/fem
-38328	fem
-38332	neut
-neut
-38344	fem
-38347	masc
-38351	neut
-38356	fem
-38366	fem
-38371	fem
-38374	masc
-neut
-38417	masc
-38421	masc
-masc
-38424	masc
-38430	masc
-neut
-38434	neut
-38437	masc
-38443	neut
-masc
-38449	masc
-38459	masc/fem
-38483	masc/neut
-38488	fem
-38495	fem
-38498	masc
-38501	masc
-neut
-fem
-38520	neut
-masc
-38524	fem
-38528	fem
-neut
-38532	neut
-38545	masc
-38560	fem
-38564	masc
-neut
-fem
-38573	fem
-38585	masc/neut
-38587	fem
-fem
-masc/neut
-38592	masc/neut
-38596	masc/fem
-38599	fem
-38602	masc/fem
-38605	masc/neut
-38612	masc/fem
-38616	fem
-38619	masc
-38625	masc/neut
-38637	neut
-38639	masc/fem
-38659	masc
-38663	neut
-fem
-38668	fem
-fem
-38681	masc
-38690	neut
-38695	neut
-38698	masc
-38705	masc
-38721	neut
-38725	neut
-38732	masc/fem
-38735	masc/neut
-38739	neut
-38762	fem
-38766	masc/neut
-38769	neut
-38771	neut
-38776	masc
-38780	masc
-38783	neut
-38791	masc/fem/neut
-38794	neut
-38798	masc
-38803	fem
-neut
-38810	masc/fem/neut
-38812	fem
-neut
-38826	fem
-fem
-38831	fem
-fem
-38835	fem
-38838	neut
-38845	neut
-masc
-38852	fem
-fem
-38855	neut
-38861	fem
-neut
-38869	fem
-neut
-masc
-38873	masc/neut
-38877	neut
-38880	masc/neut
-fem
-38890	fem
-neut
-neut
-38895	fem
-fem
-fem
-38901	neut
-38911	fem
-38929	fem
-38933	neut
-38942	neut
-38944	masc
-38959	masc
-38983	fem
-38985	fem
-38994	fem
-fem
-38999	neut
-39001	masc/neut
-39009	fem
-39018	fem
-fem
-39021	fem
-39023	masc
-39033	masc
-39043	masc
-masc/neut
-39048	neut
-39050	neut
-fem
-39075	neut
-39087	fem
-39090	masc
-39097	neut
-39101	fem
-39110	neut
-39118	fem
-39126	neut
-39134	neut
-39141	masc
-39143	fem
-39150	masc
-39152	masc
-39157	neut
-39162	neut
-39164	masc/neut
-39166	neut
-39168	masc/neut
-39172	neut
-39175	masc/neut
-39185	masc/neut
-39194	masc
-39201	masc/neut
-neut
-39211	neut
-39214	neut
-39219	masc
-39234	neut
-39237	fem
-39239	neut
-39241	masc
-39245	masc/neut
-39248	neut
-masc
-39254	masc
-39267	masc/neut
-neut
-masc
-39274	neut
-39283	fem
-39289	neut
-fem
-39298	neut
-39301	masc/fem
-39306	neut
-39321	fem
-39328	neut
-39343	neut
-39346	fem
-39348	fem
-39351	masc
-fem
-masc
-39367	masc
-39369	fem
-39371	neut
-39374	masc
-39379	neut
-39382	fem
-39390	masc/neut
-39397	neut
-39399	fem
-39402	masc
-masc
-39406	masc/neut
-39409	neut
-39418	masc/neut
-neut
-39427	neut
-39430	fem
-39443	fem
-39453	masc
-39457	masc
-39466	fem
-39489	neut
-39506	masc
-39509	masc
-39511	masc
-39517	neut
-39540	fem
-39542	masc
-39567	fem
-39570	fem
-39588	neut
-39613	masc/fem
-39633	masc
-39638	neut
-39640	masc
-39644	neut
-39649	fem
-39653	masc/neut
-39659	masc
-39674	neut
-39683	masc
-39686	neut
-39690	neut
-39694	neut
-39696	masc
-39715	masc
-39723	fem
-39726	masc
-39744	masc
-39747	fem
-39752	fem
-39772	neut
-39784	fem
-39795	neut
-39801	fem
-39814	masc
-39819	fem
-39825	masc
-39828	neut
-39850	neut
-39854	fem
-fem
-39862	neut
-39864	fem
-fem
-fem
-39868	masc
-fem
-39871	masc/fem
-masc
-39877	neut
-39879	neut
-39885	masc/neut
-masc/neut
-39889	fem
-39895	neut
-39901	masc
-neut
-39907	fem
-39909	fem
-39924	fem
-39926	neut
-neut
-39930	masc
-39939	neut
-39941	masc/neut
-39948	fem
-39951	neut
-39953	neut
-39964	masc/neut
-masc
-masc
-39975	fem
-39981	neut
-39984	fem
-39994	fem
-40003	neut
-40011	neut
-40018	neut
-40024	fem
-40040	neut
-fem
-40045	masc/neut
-masc/neut
-40048	neut
-40051	neut
-40057	fem
-40063	masc
-masc
-40066	neut
-masc
-neut
-40070	neut
-40072	masc/neut
-40076	fem
-40078	fem
-40080	masc/neut
-40088	fem
-40098	fem
-masc
-40104	neut
-40106	masc/neut
-40109	fem
-neut
-masc/neut
-40114	masc/neut
-fem
-40119	masc
-40124	masc/fem
-40128	masc/fem
-fem
-masc
-40134	masc
-40143	masc
-40148	neut
-masc/fem
-40155	neut
-40183	neut
-40186	neut
-40188	fem
-40190	neut
-40203	masc/fem
-neut
-40209	neut
-40216	neut
-40218	masc
-40220	fem
-40224	masc
-40231	neut
-masc
-40234	neut
-40236	neut
-40239	neut
-40243	neut
-masc/fem
-40247	fem
-40254	masc
-40256	neut
-40261	neut
-masc/fem
-40265	masc
-40270	neut
-40278	neut
-40281	neut
-40289	neut
-masc/fem
-40308	neut
-masc/fem
-40314	fem
-40333	masc
-40337	neut
-40339	neut
-40342	fem
-40344	masc/fem/neut
-40348	fem
-40353	fem
-40357	neut
-40363	fem
-40393	neut
-40402	fem
-40406	neut
-40429	masc/fem
-40431	masc/fem/neut
-40452	fem
-40461	fem
-40470	fem
-40475	neut
-40486	neut
-masc
-40512	fem
-40516	masc
-40523	masc/neut
-40525	neut
-40537	masc
-40542	neut
-40544	masc
-40549	neut
-40551	masc
-40556	masc
-40561	fem
-40565	masc
-40578	fem
-40586	fem
-fem
-40593	neut
-masc
-40598	neut
-40603	neut
-40610	neut
-40614	masc
-40618	masc
-40624	neut
-40633	neut
-40637	neut
-40640	fem
-40648	neut
-40683	masc
-40696	neut
-40704	neut
-40709	masc
-40716	fem
-40723	fem
-40752	masc
-40765	fem
-40768	neut
-masc
-40778	masc/neut
-40790	masc
-40793	neut
-40796	neut
-40800	neut
-masc
-40805	neut
-40807	fem
-40821	fem
-40827	neut
-masc
-40833	masc/neut
-40857	neut
-masc
-40863	masc
-40872	fem
-40877	masc/neut
-40881	masc
-40886	neut
-40900	neut
-40902	fem
-fem
-40910	neut
-40928	fem
-fem
-40937	masc
-40943	fem
-40946	neut
-40957	fem
-40960	neut
-masc
-40963	neut
-fem
-40977	masc
-40980	masc
-40982	neut
-40989	neut
-40993	neut
-41006	neut
-41020	masc
-masc
-masc
-masc/fem
-41030	fem
-neut
-41037	neut
-masc/neut
-41045	masc/neut
-41049	masc
-41053	neut
-41063	neut
-41066	neut
-41069	masc
-41083	fem
-41086	fem
-41098	masc
-41105	fem
-41112	masc/fem
-41114	masc
-41117	masc
-masc/fem
-41128	masc
-41134	neut
-41137	masc
-41149	neut
-41170	neut
-41179	fem
-41192	fem
-41194	masc/neut
-41210	neut
-neut
-masc/neut
-41220	fem
-41222	neut
-41225	neut
-41229	masc/neut
-masc
-41261	neut
-masc
-41269	masc
-41276	masc
-41278	fem
-41290	masc/neut
-41293	masc/fem
-41303	fem
-41308	neut
-41323	masc
-41340	masc/neut
-41347	neut
-masc
-41353	masc
-41378	neut
-41380	masc
-41382	masc
-41388	masc
-41390	neut
-41393	masc/neut
-masc
-neut
-41397	neut
-neut
-41402	neut
-neut
-41413	fem
-neut
-41421	masc/neut
-41425	masc/neut
-41428	masc/fem
-masc/neut
-41438	masc
-41440	fem
-41442	masc
-41446	fem
-41455	neut
-41459	masc
-41462	masc
-41465	fem
-41467	fem
-41472	masc/neut
-41476	masc/fem
-41482	fem
-41485	neut
-41500	neut
-41510	neut
-neut
-neut
-41520	neut
-masc
-41533	masc
-41541	fem
-41547	fem
-41549	masc
-41559	neut
-41566	neut
-41570	masc/fem/neut
-41575	neut
-41585	fem
-41603	neut
-41605	masc
-41615	neut
-masc/fem
-41619	neut
-41627	neut
-41632	neut
-neut
-41637	neut
-41640	masc
-fem
-41654	masc
-41676	fem
-41691	masc
-41706	masc
-41713	masc/neut
-41718	masc
-41738	masc
-41743	masc
-neut
-41746	neut
-41765	masc
-41776	masc/neut
-41788	fem
-41791	fem
-41798	masc/neut
-41807	masc
-41811	masc
-41814	fem
-neut
-41819	fem
-41829	masc
-41835	neut
-41845	masc
-41848	masc
-41854	masc/fem
-41858	masc
-41860	masc
-neut
-41875	masc
-41879	masc/neut
-41886	masc
-neut
-41890	fem
-masc
-41901	fem
-41923	masc
-41927	neut
-41936	neut
-41946	masc/neut
-41949	masc
-41963	neut
-41977	fem
-41984	masc
-41987	fem
-41990	neut
-42001	neut
-42003	masc
-42009	masc/neut
-42019	neut
-masc
-fem
-42032	neut
-42037	neut
-42042	fem
-42044	neut
-neut
-masc
-42051	fem
-42058	neut
-42063	neut
-42066	neut
-neut
-42101	fem
-42104	masc
-42121	masc
-42142	neut
-masc/neut
-42149	masc/neut
-neut
-42153	fem
-42156	masc/neut
-42167	fem
-42171	neut
-42188	neut
-42197	neut
-masc/neut
-42204	masc/neut
-42207	neut
-42217	fem
-42243	neut
-42245	neut
-42261	neut
-42264	neut
-42280	fem
-42288	neut
-42292	neut
-neut
-42295	masc/neut
-42299	neut
-42301	masc/neut
-42306	neut
-42316	neut
-42323	neut
-42330	fem
-masc
-42333	masc
-42337	masc/neut
-42347	masc
-42350	neut
-42352	neut
-42354	masc/neut
-42356	neut
-42358	masc/neut
-42360	neut
-42369	neut
-42380	neut
-fem
-fem
-fem
-42390	neut
-neut
-42393	masc/neut
-42408	fem
-42422	fem
-42435	fem
-42440	masc/neut
-42450	neut
-42454	neut
-neut
-masc/fem
-42482	fem
-42485	fem
-42490	masc/fem/neut
-42494	masc/neut
-neut
-42498	masc/fem/neut
-42500	neut
-42503	masc
-fem
-42506	neut
-42511	masc/neut
-fem
-42517	neut
-42524	neut
-42526	neut
-42529	masc
-masc
-42535	masc/neut
-fem
-42539	neut
-42543	neut
-masc/fem
-42549	neut
-42552	neut
-masc
-42568	fem
-42570	masc
-42586	fem
-42591	neut
-42601	neut
-42639	masc
-fem
-masc/fem/neut
-42646	fem
-42668	neut
-masc
-42681	masc
-42684	neut
-42687	neut
-42693	masc/neut
-neut
-42700	neut
-42703	neut
-42706	masc
-42712	fem
-fem
-42738	neut
-masc
-42744	masc
-42748	neut
-42752	masc
-42761	fem
-42766	fem
-42780	neut
-42787	masc
-42792	masc
-42796	fem
-42803	neut
-42809	masc
-42817	neut
-42824	masc
-42829	fem
-42848	neut
-42851	neut
-42856	masc
-42864	fem
-42866	neut
-42877	neut
-42879	fem
-fem
-masc/neut
-42885	masc/neut
-42888	masc
-fem
-fem
-42897	fem
-42900	masc/neut
-42903	masc/neut
-42905	masc/neut
-fem
-42910	masc
-42915	fem
-42921	fem
-masc/neut
-42926	masc
-42965	fem
-neut
-42973	neut
-42976	fem
-42985	masc
-42988	masc
-42991	fem
-neut
-42995	fem
-43002	fem
-43007	fem
-fem
-43035	masc/neut
-43037	fem
-43040	neut
-43042	neut
-43044	masc/neut
-neut
-43048	neut
-43053	neut
-43056	fem
-43059	masc
-43064	masc
-masc
-43069	masc
-neut
-masc
-43074	masc/neut
-43076	masc/fem
-43080	neut
-masc
-43106	masc/neut
-neut
-43109	masc
-43126	neut
-43133	fem
-masc
-43149	neut
-43151	fem
-masc
-43158	neut
-fem
-masc
-43163	neut
-43171	masc
-43181	neut
-43185	fem
-43190	masc/fem
-43196	masc/fem
-43203	masc
-masc
-masc
-neut
-fem
-43209	fem
-43227	fem
-fem
-neut
-43237	masc
-43242	neut
-43254	neut
-masc
-43258	masc
-43261	masc
-43274	neut
-masc/fem
-43282	fem
-43284	masc/neut
-43286	masc
-43292	masc
-43294	fem
-fem
-43304	fem
-fem
-43310	fem
-43318	fem
-fem
-43323	masc/neut
-43329	fem
-43331	fem
-neut
-43336	fem
-43358	fem
-43373	neut
-43379	fem
-43381	masc
-43385	fem
-43416	fem
-43424	neut
-43429	masc
-43444	fem
-43452	masc
-43458	neut
-fem
-fem
-43463	fem
-neut
-43472	fem
-43479	fem
-fem
-43488	fem
-43490	neut
-43493	masc
-43497	fem
-43504	neut
-43528	neut
-43532	neut
-43541	fem
-43544	fem
-43546	neut
-43553	masc
-neut
-43563	masc
-43579	masc
-43585	fem
-43587	masc
-43594	fem
-43599	fem
-43605	fem
-masc
-43626	masc
-43629	fem
-43632	neut
-43639	fem
-43652	neut
-masc
-43656	neut
-43661	neut
-43670	masc
-43673	masc/neut
-43675	fem
-43684	neut
-43688	fem
-43690	neut
-43692	neut
-43697	neut
-43713	neut
-43717	masc
-43723	fem
-43728	neut
-43730	neut
-43734	neut
-43737	neut
-43744	neut
-43746	masc/fem/neut
-masc
-neut
-43752	masc
-43763	neut
-43770	neut
-fem
-43773	neut
-43780	fem
-43792	masc
-neut
-43810	neut
-43812	neut
-neut
-43816	neut
-43818	neut
-43825	fem
-43828	masc
-43832	masc
-fem
-43836	neut
-43838	masc
-43840	fem
-masc
-masc/fem
-fem
-fem
-43851	fem
-43856	fem
-fem
-43868	fem
-43872	masc
-43878	masc
-43882	masc
-masc
-43889	neut
-43894	neut
-masc
-43898	masc
-43905	neut
-43908	masc
-43910	masc
-43912	masc
-fem
-masc
-43916	masc
-43921	masc/neut
-43925	neut
-43929	neut
-43935	neut
-masc
-43940	neut
-masc
-43943	neut
-fem
-43946	neut
-43951	fem
-43960	neut
-43969	fem
-fem
-43973	neut
-masc
-43978	masc
-fem
-43984	fem
-43992	neut
-44000	fem
-44004	neut
-44006	masc
-44008	masc
-44010	masc
-44012	neut
-44015	fem
-44017	neut
-44019	fem
-neut
-44026	neut
-44031	fem
-fem
-44034	masc
-neut
-44042	neut
-44058	fem
-44077	neut
-44091	neut
-fem
-fem
-neut
-44096	masc
-44117	fem
-44133	fem
-44137	fem
-fem
-44150	neut
-44153	masc
-44157	masc/neut
-44165	neut
-masc
-neut
-44172	masc
-masc
-44176	neut
-44179	masc
-44192	neut
-44196	neut
-masc
-44209	masc
-44212	neut
-44215	masc
-44219	neut
-masc
-44224	fem
-44226	masc/neut
-44228	masc
-44237	masc
-44240	neut
-44242	fem
-44244	neut
-44247	masc
-44252	masc
-44278	neut
-44294	neut
-44305	neut
-masc
-44318	masc/neut
-44333	masc
-neut
-neut
-44346	masc
-44348	fem
-fem
-44353	masc
-44368	neut
-masc
-neut
-44372	neut
-44385	neut
-44396	fem
-44401	neut
-44410	neut
-44413	fem
-fem
-44422	masc/fem
-44426	fem
-44429	fem
-44449	masc
-44457	fem
-44460	masc
-44466	fem
-44475	fem
-44494	neut
-masc
-masc
-masc
-fem
-fem
-masc/neut
-44510	neut
-44520	masc
-44523	neut
-44525	masc
-44527	fem
-masc/neut
-masc/fem
-44537	masc
-44542	masc
-44544	neut
-44547	masc
-masc
-44550	fem
-fem
-masc/neut
-44560	masc
-neut
-44579	masc/neut
-44581	masc
-44585	neut
-44600	neut
-44609	masc
-44633	neut
-44635	masc
-44641	neut
-44674	masc
-44682	masc
-44694	neut
-masc
-44699	fem
-masc
-44723	neut
-44725	fem
-44727	fem
-44732	neut
-neut
-masc
-44740	masc
-44748	fem
-44751	neut
-masc
-masc/fem
-44761	masc
-44763	neut
-neut
-neut
-masc
-44778	fem
-fem
-44791	fem
-44793	fem
-44800	neut
-44803	fem
-44807	masc
-44813	fem
-44817	masc
-44825	masc
-44827	neut
-44829	neut
-44833	masc/neut
-44848	neut
-44852	neut
-44855	masc/neut
-44861	neut
-44864	masc
-44867	masc
-44870	fem
-44876	masc
-neut
-44882	fem
-44886	fem
-44894	masc/neut
-neut
-44897	fem
-44899	masc
-44901	masc/neut
-masc
-44904	masc/neut
-44906	masc
-44909	masc
-44911	masc/neut
-masc
-44916	masc
-44918	fem
-44920	masc/neut
-44922	masc
-44925	masc/neut
-44930	masc
-44939	masc/neut
-masc
-44944	neut
-44949	masc
-44952	masc
-44954	neut
-neut
-44957	neut
-44964	fem
-masc
-44970	fem
-44973	masc/fem/neut
-masc
-44978	masc
-44984	masc
-masc
-44994	neut
-45000	fem
-masc
-45006	fem
-45013	masc/fem/neut
-45017	masc
-45020	masc
-45026	neut
-masc
-45031	masc/fem
-45033	fem
-45040	neut
-45042	masc
-45052	fem
-masc
-45067	masc
-45072	masc
-neut
-neut
-45079	fem
-45084	neut
-45089	neut
-45093	fem
-45104	neut
-45106	neut
-masc
-45110	fem
-45115	fem
-45145	neut
-45152	masc/neut
-45154	masc
-45157	neut
-45165	neut
-masc
-45172	neut
-45178	masc
-45186	neut
-masc/fem
-45204	masc
-45209	masc
-45212	neut
-45217	masc/neut
-fem
-fem
-45232	neut
-masc/fem
-45249	neut
-masc
-45252	neut
-45266	masc
-45274	neut
-45288	masc
-45290	masc
-45293	masc
-45310	neut
-45317	masc
-45342	masc
-45345	neut
-masc
-masc
-45356	fem
-45363	fem
-45365	neut
-45371	fem
-45385	masc
-45387	neut
-45389	neut
-45396	fem
-45400	fem
-45407	neut
-45411	masc
-45418	fem
-45426	masc
-masc
-masc/neut
-45433	masc
-45435	masc
-45437	masc/fem
-neut
-45450	neut
-45466	neut
-masc
-45473	neut
-45476	neut
-45483	masc
-45490	neut
-45492	fem
-45495	fem
-45500	fem
-45502	fem
-45505	masc
-45514	neut
-masc
-masc
-45524	masc
-45536	fem
-45541	fem
-45557	neut
-45560	masc
-45563	masc
-45567	neut
-45570	masc
-45572	masc
-45575	masc
-45578	masc
-45584	fem
-45590	masc/neut
-45596	neut
-45598	masc
-masc
-45613	masc
-45625	masc
-45627	masc/neut
-45631	neut
-45633	fem
-45638	masc/neut
-45641	masc
-masc/neut
-45646	masc
-45666	masc
-45671	masc/neut
-45686	masc/fem
-45691	masc/neut
-45693	fem
-fem
-45707	masc
-fem
-45710	fem
-45714	masc/fem
-fem
-45719	fem
-45726	neut
-fem
-fem
-45730	fem
-45732	neut
-45744	fem
-45752	neut
-45754	neut
-45758	masc
-masc
-masc/neut
-45763	masc/fem/neut
-neut
-45766	neut
-45772	fem
-45775	fem
-45789	masc
-45791	masc
-45803	neut
-45816	masc
-45820	neut
-45826	fem
-45839	masc
-45853	fem
-45855	fem
-45858	masc
-45860	neut
-45871	fem
-neut
-45878	masc/neut
-45880	fem
-45883	fem
-45889	masc
-45891	masc
-45894	masc
-45904	masc
-masc
-45910	masc/neut
-45928	masc
-45935	fem
-45941	masc
-45945	masc/neut
-45951	neut
-45960	masc/neut
-45967	masc/neut
-45971	masc/neut
-45981	neut
-45983	fem
-45987	masc
-45993	fem
-masc
-45996	masc
-46002	masc
-46010	neut
-fem
-46017	neut
-fem
-fem
-46051	fem
-46053	neut
-46065	masc
-46067	fem
-46078	masc
-46081	fem
-masc
-masc
-46096	fem
-46126	masc/neut
-46129	fem
-46131	masc/neut
-masc
-46140	neut
-fem
-neut
-46145	neut
-46148	fem
-46150	neut
-neut
-46162	fem
-46164	neut
-46167	fem
-fem
-46174	neut
-46178	fem
-neut
-46181	fem
-46183	neut
-fem
-neut
-46188	fem
-46191	masc
-46204	masc/neut
-fem
-46217	fem
-46219	fem
-neut
-46240	masc
-46245	neut
-fem
-46259	fem
-46262	masc/fem/neut
-46273	neut
-masc
-46277	neut
-46284	masc/fem/neut
-46289	fem
-46293	fem
-fem
-46298	masc
-46301	masc
-46313	masc
-46315	masc
-46317	masc
-46319	neut
-46357	fem
-neut
-46368	masc
-46374	masc/fem
-46379	masc
-46381	neut
-46386	neut
-46392	masc/neut
-46417	masc
-neut
-46429	fem
-46431	masc
-46435	masc
-46450	masc
-neut
-46453	fem
-46457	masc
-46472	masc/neut
-46480	neut
-46484	masc
-46486	fem
-46491	fem
-46519	fem
-46521	fem
-fem
-46534	masc
-46542	masc/neut
-46548	fem
-46557	masc
-46561	fem
-46570	masc/neut
-46574	fem
-46583	masc
-neut
-neut
-46590	neut
-46610	neut
-46613	fem
-neut
-46626	fem
-46630	neut
-46634	masc
-masc
-46639	masc
-46641	masc
-46643	masc
-46651	neut
-46657	neut
-masc
-46660	neut
-46663	neut
-masc
-46668	neut
-46671	neut
-masc
-46674	neut
-46680	masc/neut
-46683	neut
-masc
-46688	masc
-46696	masc
-46702	neut
-46705	fem
-46712	masc
-46716	fem
-46728	masc
-masc
-46731	neut
-masc
-46734	fem
-46748	fem
-46750	masc/neut
-46753	masc
-46755	neut
-46758	masc/neut
-neut
-46763	masc
-46766	masc/fem
-46775	neut
-46779	masc
-46785	fem
-46791	masc
-46794	neut
-46796	fem
-46800	fem
-46806	masc
-46808	neut
-46815	neut
-46818	masc/fem/neut
-masc
-46821	fem
-46823	neut
-46836	neut
-46845	masc
-46847	masc
-46856	masc
-46858	neut
-masc
-46864	neut
-46870	masc
-46873	neut
-46880	masc
-46885	masc
-fem
-46903	fem
-46909	fem
-46912	masc
-46915	masc
-46925	fem
-46947	neut
-46965	fem
-46990	neut
-masc
-47001	masc
-47004	masc
-47008	masc
-47017	masc
-47022	neut
-masc
-47033	fem
-47035	masc
-47037	neut
-47044	neut
-47047	neut
-masc
-47051	fem
-47061	masc
-47071	masc/fem/neut
-47076	fem
-47081	neut
-47083	fem
-47087	masc/neut
-47090	masc/fem/neut
-47100	masc/neut
-fem
-47104	fem
-neut
-47118	masc
-neut
-47124	masc/neut
-47134	neut
-47137	fem
-fem
-47151	masc
-47156	neut
-47159	masc
-47168	fem
-47171	masc
-47174	fem
-47176	neut
-47184	fem
-47191	masc
-47193	fem
-47205	neut
-47211	masc
-47220	masc
-neut
-masc
-47228	neut
-47233	masc/neut
-47237	neut
-47249	masc
-masc
-masc
-47253	masc
-47263	masc
-masc
-47267	neut
-masc
-masc
-47271	fem
-fem
-47277	masc
-47280	neut
-47296	fem
-masc
-47301	neut
-masc
-47304	masc/fem
-47308	neut
-47314	neut
-47325	neut
-47331	neut
-47336	neut
-47342	neut
-47346	neut
-47353	neut
-47356	masc
-47358	neut
-47371	masc
-neut
-47376	fem
-47386	masc
-47392	masc/neut
-47399	masc
-47401	masc
-47404	neut
-47409	masc
-47412	neut
-47415	masc
-neut
-47422	masc
-neut
-47440	masc
-47443	masc
-neut
-47457	fem
-fem
-47465	neut
-47471	neut
-47481	neut
-47490	neut
-47493	fem
-47497	masc
-47501	masc
-masc
-47506	neut
-47532	masc
-47535	masc
-47537	masc/fem
-47543	neut
-47565	neut
-47570	fem
-47572	fem
-47576	fem
-47606	neut
-masc/neut
-47621	fem
-47627	fem
-47631	neut
-47643	masc
-47646	neut
-47648	masc/fem
-47653	neut
-masc/neut
-masc/fem
-47659	fem
-47668	neut
-47676	masc
-47679	masc
-47683	neut
-47704	masc
-47714	fem
-47716	fem
-47723	fem
-47727	neut
-masc/neut
-47742	fem
-masc
-47749	masc/fem
-neut
-47759	neut
-47761	masc
-47770	masc
-47776	masc
-47780	masc
-47794	fem
-47796	masc/neut
-neut
-47800	fem
-47804	fem
-fem
-fem
-47808	fem
-47815	masc/fem
-47825	fem
-47830	fem
-neut
-47842	fem
-47852	masc
-neut
-47859	masc
-neut
-47862	fem
-47870	neut
-47875	neut
-47877	masc
-47889	fem
-47896	neut
-47902	masc
-47904	masc
-masc
-47912	neut
-masc
-47916	neut
-47918	neut
-47922	masc
-47929	masc
-47933	neut
-47936	masc
-neut
-neut
-47942	masc
-47945	neut
-47954	masc
-47960	neut
-masc
-neut
-neut
-47965	fem
-47968	neut
-47970	masc
-47973	fem
-47977	masc
-neut
-47987	masc
-fem
-48000	masc
-48007	fem
-masc/neut
-48013	masc
-48022	masc
-48024	neut
-48027	fem
-48035	fem
-48052	neut
-masc
-48058	masc/neut
-48067	fem
-48069	neut
-48075	masc
-masc
-48078	neut
-48085	masc
-48093	fem
-fem
-48096	fem
-48098	masc
-48102	masc
-48109	fem
-fem
-48114	fem
-48117	masc
-48123	fem
-48136	fem
-fem
-48142	masc
-48146	fem
-48157	masc
-48176	neut
-48184	fem
-48191	fem
-48208	masc
-48212	fem
-neut
-48225	fem
-48228	fem
-48246	masc/neut
-masc
-48265	masc
-48268	masc
-48271	fem
-48276	neut
-48285	fem
-48299	fem
-masc
-48305	neut
-48317	fem
-48331	neut
-48340	fem
-48342	masc
-48344	masc
-48346	masc
-fem
-48350	fem
-48361	neut
-fem
-48365	fem
-48371	neut
-48381	neut
-fem
-48384	fem
-48392	masc
-48396	fem
-48400	fem
-48433	masc
-48437	masc
-48440	fem
-48451	masc
-48477	fem
-fem
-48488	fem
-masc
-48491	neut
-48493	fem
-48495	masc
-48507	masc
-48518	masc
-48521	masc
-48523	masc/neut
-48528	fem
-48533	neut
-48536	neut
-48549	fem
-48560	masc/neut
-48562	fem
-48575	fem
-48578	masc
-48580	masc/fem
-48589	masc/fem
-48598	fem
-48622	masc
-48629	masc
-48639	masc
-48644	masc
-48648	fem
-48651	fem
-48654	masc
-48669	masc
-48672	masc/neut
-neut
-48679	neut
-fem
-neut
-48695	fem
-48701	fem
-48704	fem
-48707	masc
-48717	fem
-48719	neut
-48723	fem
-neut
-masc/neut
-48729	masc/fem
-48732	masc/fem
-48738	masc/fem
-48740	masc
-masc
-48758	masc
-neut
-48762	neut
-masc
-48770	fem
-48780	fem
-48785	fem
-48791	fem
-48812	neut
-48819	masc/neut
-48828	neut
-48836	neut
-48860	fem
-48872	masc
-48881	neut
-fem
-48889	masc
-48895	fem
-48900	neut
-48903	neut
-fem
-fem
-48909	masc
-48919	fem
-48921	masc
-48925	masc
-48929	neut
-48934	masc
-48938	fem
-48941	fem
-48951	neut
-48953	neut
-fem
-48972	fem
-48978	fem
-fem
-48988	fem
-49007	fem
-49015	masc
-49025	neut
-49029	masc/fem/neut
-49032	masc
-49036	neut
-49039	neut
-49044	masc
-49048	neut
-49056	masc
-neut
-49065	fem
-neut
-49074	fem
-49086	fem
-49089	fem
-neut
-49097	neut
-49134	neut
-49145	neut
-49151	neut
-49157	fem
-fem
-49161	masc
-49182	masc/fem
-49186	fem
-49190	fem
-49198	masc
-neut
-49206	masc/fem
-49215	neut
-49217	masc/fem
-49220	fem
-49227	masc
-49232	neut
-49239	neut
-masc
-49243	neut
-49255	neut
-neut
-49258	neut
-masc
-49261	fem
-49264	fem
-fem
-neut
-masc
-masc/neut
-49270	masc
-49274	masc/fem
-49276	neut
-49285	masc
-49288	fem
-neut
-49292	neut
-49296	masc
-49316	neut
-49320	neut
-masc
-49334	neut
-49341	neut
-49351	fem
-49353	masc
-49355	neut
-49359	masc/neut
-49366	masc/neut
-49370	neut
-49372	masc
-49382	neut
-49391	neut
-masc
-fem
-49395	fem
-neut
-49400	neut
-49402	masc
-49408	masc/neut
-49414	neut
-49427	masc
-49439	neut
-49444	neut
-49453	neut
-49457	neut
-49477	neut
-masc
-49481	masc
-49490	neut
-49497	masc
-49500	masc
-neut
-49514	masc
-49519	neut
-49541	neut
-49546	masc
-49550	neut
-49553	neut
-49561	neut
-49566	fem
-49572	masc
-49576	neut
-49582	masc
-49584	fem
-49590	masc
-masc
-49593	neut
-masc
-49596	masc
-49603	masc
-49605	neut
-49610	neut
-49630	fem
-49637	masc
-neut
-49648	neut
-49655	masc
-49669	neut
-masc
-49678	neut
-masc
-49683	masc
-neut
-49699	fem
-49702	neut
-49706	neut
-masc
-49712	neut
-49731	masc
-49736	masc
-49752	masc
-49758	neut
-49764	masc
-49785	neut
-49789	masc
-49795	masc
-neut
-49798	neut
-49803	masc
-49810	neut
-49820	masc
-49824	neut
-49826	masc
-neut
-49829	masc
-49834	masc/fem
-49861	masc
-49863	fem
-49869	fem
-49871	fem
-49874	fem
-49877	masc
-49882	neut
-masc
-49885	masc
-fem
-49895	fem
-49898	masc
-49907	neut
-masc
-49912	masc
-49916	fem
-49920	fem
-49935	fem
-49937	neut
-49941	masc
-fem
-49944	fem
-masc
-49948	masc/fem
-49951	neut
-masc
-49955	fem
-49960	fem
-49971	masc
-49977	neut
-49986	neut
-49988	masc
-49992	masc
-49998	neut
-neut
-50006	masc
-50008	neut
-50015	neut
-50019	neut
-50021	fem
-50028	neut
-masc
-50031	fem
-50033	fem
-50043	masc
-fem
-50053	fem
-50057	masc
-50060	masc
-fem
-50068	fem
-masc
-50075	masc
-50080	neut
-masc
-50086	masc/fem/neut
-50089	fem
-50102	masc
-50107	masc/fem/neut
-fem
-50113	fem
-50118	fem
-50122	masc
-50143	masc
-fem
-50146	neut
-50149	neut
-50153	masc/neut
-50158	masc
-50161	neut
-50166	masc/fem
-neut
-50171	masc
-50185	neut
-50187	masc
-50194	neut
-fem
-50213	neut
-50217	fem
-50219	masc
-fem
-50222	neut
-50228	masc
-50234	neut
-masc
-50256	fem
-fem
-fem
-50262	masc
-50267	neut
-50273	neut
-50300	masc
-50302	masc
-50313	neut
-50320	masc
-50322	fem
-fem
-50325	fem
-50328	neut
-50331	neut
-50336	masc
-50343	masc
-neut
-50350	masc
-50353	fem
-50359	neut
-50362	masc
-50365	masc
-50368	masc
-50380	masc
-50384	masc
-neut
-50394	masc
-50398	fem
-50418	neut
-50420	masc
-50422	fem
-50438	neut
-50446	neut
-50457	masc
-50461	masc
-50467	neut
-50478	masc
-neut
-50490	masc/neut
-50494	fem
-50502	neut
-50505	fem
-50516	neut
-50521	neut
-50527	masc
-50543	neut
-50549	neut
-50553	neut
-50561	neut
-50565	neut
-50574	neut
-50578	neut
-50592	neut
-50596	neut
-50602	neut
-50605	neut
-50607	neut
-50621	fem
-50623	neut
-50632	masc
-fem
-50642	fem
-fem
-fem
-50648	neut
-fem
-50663	fem
-50666	neut
-50668	masc
-50670	fem
-50678	fem
-50680	neut
-50684	fem
-50688	neut
-masc
-50691	masc
-fem
-50702	fem
-50711	masc
-50715	neut
-50717	fem
-50737	fem
-50749	neut
-50775	masc
-50779	neut
-50791	neut
-50796	neut
-masc
-50799	neut
-50804	neut
-50810	neut
-50815	neut
-50818	fem
-50822	neut
-50829	fem
-50831	fem
-fem
-50840	neut
-50846	neut
-50860	neut
-50880	neut
-50886	neut
-neut
-50889	masc/fem
-50894	neut
-50896	fem
-50908	neut
-50914	neut
-50920	neut
-50927	neut
-neut
-50937	fem
-50947	neut
-masc
-neut
-50951	masc
-50953	neut
-masc
-50956	fem
-50963	masc
-50968	masc
-fem
-50979	fem
-50984	neut
-50993	fem
-50995	masc
-51011	neut
-51013	masc
-51026	fem
-51036	neut
-masc
-51041	masc
-51043	fem
-51050	masc
-51055	fem
-51057	fem
-51076	masc
-51089	neut
-masc
-masc
-51102	masc
-51104	masc
-51107	masc
-51116	neut
-51122	masc
-51129	masc/neut
-51133	masc/fem
-51142	masc
-51146	fem
-51150	masc
-51155	neut
-masc
-51194	neut
-51198	fem
-51200	masc
-51216	neut
-51219	masc/neut
-51224	fem
-51233	neut
-masc
-masc
-51237	neut
-51251	masc/neut
-51254	masc/fem
-51258	fem
-51260	masc
-masc
-neut
-51266	masc
-51268	masc/neut
-51271	neut
-51277	neut
-51281	neut
-51288	neut
-masc
-51293	neut
-51296	neut
-51300	neut
-51307	fem
-51317	neut
-fem
-neut
-51322	masc
-51330	neut
-masc
-51333	fem
-51336	fem
-51340	fem
-51343	neut
-51348	masc
-51351	neut
-51355	masc
-51359	fem
-51364	fem
-51367	neut
-51370	neut
-masc
-masc
-51377	masc/fem
-51381	neut
-masc
-51385	neut
-masc
-masc
-masc
-51392	masc
-fem
-51397	neut
-51414	fem
-51416	fem
-51433	neut
-fem
-51436	fem
-51439	neut
-masc
-51454	masc
-fem
-masc
-51458	masc/fem
-neut
-51473	masc
-fem
-51477	masc
-51484	neut
-masc
-51487	fem
-51492	fem
-51500	masc
-51504	neut
-51509	neut
-51518	masc/neut
-51523	neut
-fem
-51528	neut
-neut
-51538	neut
-51540	neut
-masc
-51545	neut
-51550	neut
-51554	neut
-51557	neut
-masc
-51561	neut
-51565	fem
-51578	fem
-51591	neut
-51597	neut
-51600	neut
-fem
-51608	masc
-51619	fem
-51622	masc/fem
-51624	neut
-51632	neut
-51634	neut
-51636	fem
-fem
-51644	neut
-51648	neut
-51656	fem
-51661	fem
-51664	masc
-51666	neut
-51675	neut
-51680	fem
-51683	masc
-51685	neut
-51687	fem
-51706	fem
-51708	fem
-51714	masc
-51719	neut
-51726	neut
-masc
-51734	fem
-51752	neut
-masc
-51756	neut
-51758	fem
-51768	neut
-51770	masc
-51775	masc
-51779	neut
-masc
-51782	neut
-51784	masc/neut
-51787	neut
-51794	neut
-masc
-51798	neut
-51802	masc
-51806	masc
-neut
-neut
-masc/fem
-51817	fem
-51822	neut
-51825	neut
-51831	neut
-51835	neut
-51837	neut
-51845	neut
-masc
-neut
-51849	masc/neut
-51855	fem
-neut
-51865	neut
-masc
-51873	fem
-51879	masc
-51882	masc
-51894	fem
-fem
-51906	masc/neut
-masc
-masc
-fem
-51917	neut
-51927	neut
-51929	masc
-fem
-51936	masc/fem
-51950	masc
-51957	fem
-neut
-masc
-masc
-51963	neut
-51965	neut
-51971	masc/fem
-51975	neut
-masc
-masc
-52002	neut
-masc
-52008	masc/neut
-52014	masc/fem
-neut
-52030	fem
-52033	masc
-52042	masc
-52050	neut
-52053	neut
-52060	masc/neut
-52067	neut
-52069	neut
-52071	masc
-52075	neut
-52082	neut
-52084	masc
-52095	neut
-masc
-52099	masc/fem/neut
-52104	masc/fem
-52110	neut
-masc
-52113	fem
-52115	neut
-52121	neut
-masc
-52124	neut
-52127	neut
-52129	neut
-52132	masc
-52136	neut
-52141	neut
-52145	neut
-52148	fem
-52151	masc
-52153	neut
-52159	masc
-52162	neut
-52174	masc
-neut
-52177	masc
-52182	neut
-masc
-52192	masc
-neut
-52205	masc
-fem
-52213	neut
-52215	masc
-52217	neut
-52224	neut
-masc/neut
-52227	fem
-52241	neut
-52250	neut
-52255	fem
-52257	neut
-52264	fem
-52277	neut
-52279	masc
-52293	neut
-neut
-52298	fem
-52306	neut
-52324	neut
-52330	neut
-masc
-52341	masc
-52346	neut
-52367	neut
-52374	neut
-52380	masc
-52390	masc
-fem
-fem
-52395	masc/neut
-52397	masc
-fem
-fem
-52402	masc/neut
-52415	fem
-52417	fem
-fem
-neut
-52421	neut
-52425	fem
-52430	fem
-52434	neut
-52439	fem
-neut
-52444	masc/fem
-52447	neut
-masc/fem
-52453	neut
-masc/fem
-52456	fem
-neut
-52469	fem
-52473	neut
-52486	neut
-52488	neut
-52507	neut
-52510	fem
-52513	fem
-52516	neut
-52520	fem
-fem
-fem
-52524	fem
-52529	neut
-neut
-52535	neut
-52561	neut
-52571	masc
-neut
-52578	neut
-52583	fem
-52597	neut
-52603	fem
-neut
-52625	neut
-52640	neut
-fem
-52647	neut
-52655	neut
-52658	masc/neut
-52663	neut
-masc/fem/neut
-masc/neut
-masc
-52692	masc/neut
-52698	neut
-masc
-52702	masc
-52704	fem
-52712	neut
-52714	fem
-fem
-fem
-52720	masc/neut
-52726	masc
-52732	fem
-52739	fem
-52742	masc
-52747	neut
-masc
-52750	masc
-neut
-52759	neut
-neut
-52779	neut
-52797	fem
-52799	masc
-neut
-52822	neut
-masc
-52826	fem
-52837	masc
-52847	neut
-masc
-52854	masc
-52869	fem
-52886	masc
-52889	fem
-fem
-52893	masc
-52895	fem
-52901	neut
-52905	neut
-52907	neut
-52912	masc
-52915	neut
-fem
-52933	neut
-52936	masc
-fem
-52949	masc
-52953	neut
-neut
-52961	neut
-masc
-52974	masc/neut
-52981	neut
-52984	masc
-52992	neut
-53020	neut
-53022	neut
-53026	masc
-53028	neut
-53036	neut
-53038	neut
-53044	neut
-masc
-53051	masc
-fem
-53069	masc/neut
-neut
-53073	neut
-53075	neut
-masc
-53080	fem
-masc
-fem
-53087	fem
-53101	masc
-53105	masc
-53110	neut
-masc
-53121	neut
-53123	fem
-53125	neut
-53129	masc
-53142	fem
-53145	neut
-53147	neut
-53155	neut
-53158	neut
-53168	fem
-53173	masc
-53180	masc
-53201	masc
-53204	masc
-53206	masc/neut
-53226	neut
-masc
-53233	masc
-53242	neut
-53254	neut
-53260	neut
-53274	masc
-53277	masc/fem
-53283	neut
-masc
-53287	neut
-53291	neut
-53299	neut
-53310	neut
-53317	neut
-53321	neut
-53335	neut
-53344	fem
-53349	fem
-53357	fem
-53362	neut
-53376	fem
-53381	fem
-53387	neut
-53397	neut
-53405	fem
-53408	masc
-53412	neut
-53416	neut
-53418	neut
-53428	masc
-neut
-53443	neut
-53449	masc
-53453	masc
-53456	fem
-53458	masc
-53462	neut
-53464	neut
-53466	neut
-53469	fem
-53471	masc
-53477	fem
-53483	masc
-53489	neut
-53491	neut
-53495	neut
-53500	neut
-53507	neut
-53509	neut
-53520	neut
-53524	neut
-53527	neut
-53531	masc
-53533	masc/neut
-53544	neut
-53546	neut
-53561	neut
-53563	neut
-neut
-neut
-53570	neut
-53582	neut
-53588	fem
-53601	masc
-53603	masc
-53605	masc
-53607	masc/fem
-53615	neut
-masc
-53621	neut
-53640	neut
-53646	masc
-53652	neut
-masc
-53658	fem
-fem
-53663	masc/fem
-53670	masc/fem
-53672	masc
-neut
-53679	masc
-53686	masc
-53692	neut
-neut
-53695	masc
-53697	neut
-53701	neut
-53710	neut
-53712	neut
-53719	masc
-53723	neut
-53744	fem
-53746	neut
-53749	neut
-53753	masc
-53758	neut
-masc
-53762	neut
-53766	masc
-fem
-53772	fem
-53774	neut
-53791	fem
-53796	fem
-53798	fem
-53810	masc/neut
-53812	masc/fem
-53819	neut
-masc
-53823	masc
-53829	neut
-53834	fem
-53838	neut
-53840	masc
-53844	neut
-53856	fem
-53860	fem
-53866	masc
-53869	neut
-masc
-53873	masc
-53880	masc
-53882	masc
-53884	masc/fem
-53895	neut
-53898	neut
-masc/fem/neut
-53904	neut
-masc
-53908	fem
-53914	masc/neut
-53921	masc
-53933	masc
-53937	neut
-masc
-53941	fem
-53949	neut
-53952	masc
-53958	fem
-53961	masc
-fem
-53968	masc
-53980	masc
-fem
-masc/neut
-53984	fem
-53987	fem
-54004	neut
-neut
-54008	fem
-54010	masc
-54019	neut
-masc
-neut
-54023	neut
-54027	neut
-54030	neut
-54034	masc/fem
-54036	masc
-neut
-54040	fem
-54044	neut
-54049	neut
-fem
-54053	fem
-54067	neut
-neut
-54080	fem
-54084	masc
-54095	masc
-54100	masc
-54122	masc
-54125	neut
-54142	neut
-54146	masc
-neut
-54153	masc
-54156	neut
-54161	masc
-54163	masc
-54173	masc
-54177	fem
-54181	fem
-54186	neut
-54190	fem
-54207	neut
-54210	masc
-54214	masc
-54216	neut
-54225	masc/fem
-54228	neut
-54234	masc
-54242	masc/neut
-54251	neut
-54253	neut
-54256	masc
-54260	masc
-54264	neut
-masc
-54270	neut
-54272	masc
-54278	neut
-54281	masc
-54301	neut
-54303	masc
-54306	neut
-masc
-54309	neut
-54319	fem
-54342	masc
-54346	masc
-54348	neut
-54351	neut
-masc
-54356	neut
-54358	neut
-54360	masc
-54365	neut
-54371	masc/fem/neut
-54373	neut
-masc
-54376	masc
-masc
-54381	neut
-54391	neut
-54401	neut
-54419	neut
-54422	fem
-54435	neut
-masc
-54440	masc/fem
-fem
-54447	masc
-54457	masc
-54460	masc
-54468	neut
-masc
-54472	masc
-54474	masc/neut
-54497	masc
-54505	neut
-54524	neut
-54546	fem
-54552	neut
-masc
-54556	masc
-neut
-54565	neut
-54571	fem
-neut
-54590	masc
-54598	neut
-masc
-54608	masc
-54614	neut
-54620	neut
-masc
-masc
-54625	masc
-54629	fem
-neut
-masc
-54634	fem
-neut
-54637	neut
-54651	neut
-masc
-fem
-54665	fem
-54677	masc
-54688	fem
-54694	masc
-54703	neut
-54708	masc
-54710	masc
-54727	neut
-54730	neut
-54741	neut
-54749	fem
-masc
-neut
-54753	masc/neut
-54757	neut
-54760	masc
-54769	neut
-54771	masc
-54776	fem
-54778	neut
-54781	neut
-54784	fem
-54788	masc
-54795	masc
-54802	masc
-54809	neut
-54812	neut
-54823	masc
-54826	masc
-54843	fem
-54852	fem
-masc/fem
-54861	masc
-54871	neut
-54873	masc
-54884	masc
-54891	neut
-54893	masc/neut
-masc
-54908	masc
-54923	fem
-54925	masc
-54929	neut
-masc
-54932	fem
-54939	neut
-masc
-54943	masc
-54954	masc
-54956	masc/neut
-54958	masc
-54960	fem
-54964	masc/fem
-54968	neut
-masc
-fem
-54972	masc
-54982	neut
-masc
-masc
-54991	neut
-54999	fem
-55009	masc
-55013	neut
-55015	fem
-neut
-masc/neut
-55020	masc/fem
-55022	masc
-55031	masc/fem
-55033	fem
-neut
-55036	neut
-55038	neut
-55047	neut
-55053	neut
-55062	neut
-55066	fem
-55068	fem
-fem
-55072	neut
-55079	neut
-55090	neut
-55093	fem
-neut
-masc/fem
-55099	neut
-masc/fem
-55107	neut
-55116	neut
-55118	masc/neut
-55120	masc
-55138	fem
-55147	masc/fem/neut
-55152	neut
-55155	fem
-55171	masc/neut
-55182	masc
-55187	neut
-55225	neut
-55230	masc/neut
-neut
-55235	neut
-55242	masc/neut
-55251	neut
-masc
-55260	fem
-55263	masc/neut
-55268	neut
-55271	masc/fem
-55273	masc
-fem
-55285	neut
-55292	neut
-masc
-55302	neut
-55314	neut
-55319	neut
-55329	neut
-55331	fem
-fem
-55345	neut
-masc
-55352	neut
-55361	fem
-55367	fem
-55369	fem
-fem
-55372	fem
-55385	masc
-neut
-masc/fem
-55391	neut
-masc
-55397	neut
-55399	neut
-masc
-55407	neut
-55418	neut
-55424	neut
-55426	neut
-55428	fem
-55434	neut
-55442	neut
-neut
-55445	neut
-55451	fem
-55454	neut
-55456	fem
-55461	fem
-55463	neut
-55469	neut
-55471	neut
-55473	masc/neut
-55478	neut
-masc
-55485	fem
-55498	fem
-55503	neut
-55512	fem
-55516	masc/neut
-neut
-55524	fem
-55528	masc
-55531	neut
-masc
-55534	neut
-55537	masc/neut
-55550	fem
-55559	neut
-55562	fem
-55564	fem
-55567	neut
-55587	masc/neut
-55598	fem
-55601	neut
-55604	fem
-55613	fem
-55615	neut
-55619	neut
-55624	neut
-55626	fem
-55633	masc/neut
-neut
-55639	fem
-55641	neut
-55647	neut
-55652	fem
-55657	neut
-55662	neut
-55669	masc
-55672	neut
-55675	masc
-55678	neut
-55683	neut
-55686	masc
-55688	neut
-55708	neut
-55711	neut
-55716	neut
-55729	neut
-55731	masc
-55735	neut
-neut
-55741	masc
-55745	masc
-neut
-55765	masc/neut
-55770	masc
-55773	masc/fem
-neut
-55777	masc
-neut
-55782	fem
-55788	neut
-55791	neut
-55797	neut
-55799	masc/neut
-55811	neut
-55816	masc/fem
-55826	masc
-55828	neut
-55830	masc/neut
-55835	fem
-55837	fem
-55842	neut
-55844	masc
-55849	masc
-55857	masc
-55874	masc
-55881	masc/fem/neut
-masc
-masc
-55892	masc
-fem
-55895	masc
-55901	masc
-55908	masc
-55913	masc
-55919	fem
-55925	fem
-55928	fem
-55933	fem
-neut
-55938	neut
-55940	masc
-55989	masc
-55993	masc
-55998	neut
-56005	neut
-56008	masc
-56011	neut
-56018	masc/fem
-56023	neut
-56032	masc/neut
-masc
-56037	neut
-56039	neut
-masc
-masc
-56052	neut
-56065	neut
-56079	masc
-56086	fem
-56090	neut
-masc
-56102	masc
-56106	neut
-56129	neut
-56131	neut
-56133	neut
-56141	masc
-56144	fem
-fem
-56148	fem
-56159	masc
-56162	neut
-56164	masc/neut
-56167	neut
-56170	neut
-56176	masc
-56180	neut
-56185	fem
-56196	masc
-56199	neut
-56201	masc/neut
-56205	neut
-56210	neut
-56214	masc
-56218	neut
-56220	neut
-56223	neut
-56225	masc/neut
-56227	neut
-56233	neut
-56254	neut
-masc
-56258	neut
-56262	neut
-56265	masc
-56268	neut
-56272	masc
-56274	fem
-neut
-56277	masc
-56280	neut
-neut
-56296	neut
-56304	neut
-56306	neut
-56318	neut
-56320	neut
-56325	neut
-56330	masc
-56333	masc/neut
-56340	neut
-56353	fem
-56359	neut
-56367	masc
-56369	fem
-56372	neut
-56375	neut
-56381	neut
-56384	neut
-56395	neut
-56399	neut
-56407	neut
-neut
-56414	neut
-56416	masc/fem
-56420	fem
-56430	neut
-56440	neut
-56448	neut
-56458	fem
-56464	masc
-neut
-56484	masc
-56487	masc
-56494	neut
-masc
-masc
-56500	neut
-masc
-56506	neut
-56510	masc
-56516	neut
-masc
-56527	masc
-56532	masc
-56541	masc
-56546	neut
-56548	masc
-56555	neut
-masc
-56567	neut
-56569	fem
-neut
-masc/neut
-56577	neut
-56580	neut
-56587	masc
-56595	fem
-neut
-56599	neut
-56605	masc
-56607	neut
-56611	fem
-56618	fem
-fem
-56626	fem
-56628	fem
-fem
-neut
-56633	masc
-56636	fem
-56640	neut
-56654	neut
-56658	masc
-56666	neut
-masc
-56672	masc/fem
-56674	fem
-56680	neut
-masc
-56686	neut
-56689	fem
-56692	masc
-56701	masc
-56705	fem
-fem
-56710	fem
-56714	neut
-56725	neut
-56747	neut
-56749	neut
-56751	neut
-56753	neut
-56761	masc
-neut
-56771	fem
-56773	fem
-56780	fem
-56785	neut
-56788	fem
-56791	neut
-56800	masc
-56803	neut
-56805	neut
-56809	fem
-fem
-56814	fem
-fem
-56819	neut
-56821	masc
-56832	masc
-56837	fem
-56844	fem
-56859	neut
-56862	neut
-56865	neut
-56900	neut
-56904	fem
-56910	neut
-56918	fem
-neut
-56929	fem
-56935	neut
-masc
-masc
-56942	fem
-56947	masc
-56951	neut
-masc
-56955	masc/fem/neut
-56964	masc
-56969	fem
-masc
-56973	masc/neut
-56978	neut
-masc
-56981	masc/fem
-56985	neut
-masc
-56992	fem
-56994	fem
-57011	neut
-57016	masc
-57018	fem
-fem
-57021	fem
-fem
-57027	masc
-57029	fem
-57033	masc
-57037	neut
-57049	fem
-57054	neut
-57065	masc
-57074	neut
-57076	neut
-57081	masc
-57088	neut
-masc
-fem
-57094	fem
-57098	neut
-neut
-masc
-masc
-57106	masc
-57109	masc
-57113	masc
-57118	neut
-57123	neut
-masc
-57127	neut
-masc
-57135	masc/neut
-neut
-57147	neut
-57154	masc
-57156	fem
-neut
-57159	neut
-57169	neut
-57171	neut
-57180	fem
-57202	neut
-57205	neut
-57207	masc
-57210	fem
-57221	fem
-masc
-57235	neut
-57247	neut
-57253	neut
-57255	fem
-57260	masc/fem
-57271	masc
-57278	fem
-57287	fem
-57290	masc
-57293	fem
-57301	neut
-57307	fem
-57311	fem
-masc
-57319	neut
-masc
-57323	fem
-57337	neut
-57345	neut
-masc
-57359	neut
-57369	fem
-57383	masc
-fem
-57388	masc
-57390	masc
-57397	masc
-57403	fem
-neut
-57409	fem
-57412	neut
-57418	neut
-neut
-57427	neut
-57442	neut
-57444	masc/neut
-57451	neut
-57453	masc
-fem
-57456	masc
-57462	neut
-masc
-57471	neut
-57482	neut
-masc
-57490	fem
-57493	neut
-57504	neut
-masc
-masc/fem
-57518	neut
-masc
-57523	neut
-fem
-57537	masc/neut
-57543	masc
-57556	fem
-57561	neut
-masc
-57574	fem
-57578	masc
-57585	neut
-57591	neut
-fem
-57596	masc
-57598	masc
-neut
-57603	neut
-masc
-57606	neut
-57608	masc/neut
-57611	fem
-57614	neut
-57618	fem
-57622	fem
-57625	neut
-masc
-57629	fem
-57632	fem
-57634	neut
-57643	neut
-neut
-57660	masc
-57663	neut
-57666	neut
-masc
-neut
-57672	neut
-57689	neut
-57694	masc
-57708	neut
-masc
-57722	fem
-57724	masc
-57727	masc
-57735	masc
-57740	neut
-57748	neut
-57756	fem
-57763	masc
-fem
-57767	masc
-57771	fem
-57773	masc
-57781	neut
-57783	masc
-57788	fem
-57808	masc
-57813	neut
-masc
-57817	masc
-57826	fem
-neut
-57831	neut
-57843	masc
-57846	masc
-57862	neut
-masc
-57869	fem
-57874	masc
-neut
-57882	neut
-masc
-57886	masc
-neut
-neut
-57899	neut
-57901	masc
-57909	masc/fem/neut
-masc
-neut
-57917	neut
-57922	neut
-57930	neut
-57944	neut
-57954	fem
-57961	neut
-masc
-57966	masc/fem
-57973	masc
-masc
-57980	masc
-57989	fem
-57995	neut
-57997	fem
-57999	masc
-58002	masc
-58005	masc
-58012	neut
-58014	neut
-58016	fem
-58018	fem
-neut
-58029	masc
-58033	masc/neut
-58044	fem
-58057	fem
-58059	neut
-58071	neut
-58088	neut
-58090	masc
-58104	fem
-58108	fem
-fem
-58112	neut
-58117	fem
-58122	neut
-58124	masc
-58142	fem
-58148	fem
-58155	masc
-58177	fem
-58180	masc/fem/neut
-58185	neut
-58194	masc
-58197	masc
-58199	masc
-58201	neut
-58210	neut
-58212	masc
-58215	fem
-58227	fem
-masc
-neut
-58235	fem
-58238	neut
-58245	masc/neut
-58248	fem
-58261	masc
-58270	fem
-58272	neut
-58282	neut
-58286	fem
-58288	neut
-58292	fem
-58296	masc
-58308	neut
-58311	fem
-58315	neut
-58322	fem
-fem
-58327	neut
-masc
-58334	fem
-58346	fem
-58354	neut
-58359	masc
-neut
-58366	neut
-58379	fem
-58382	masc
-58389	neut
-58395	masc
-58403	neut
-58406	neut
-58412	neut
-58414	masc
-58418	fem
-fem
-58421	fem
-58431	neut
-58435	masc/neut
-58437	neut
-58443	neut
-masc
-58452	masc
-masc
-58455	neut
-58457	neut
-58459	masc/neut
-58469	masc
-fem
-58472	neut
-58474	neut
-58476	masc
-58479	neut
-58484	fem
-58487	neut
-58491	neut
-58493	neut
-58497	neut
-58508	fem
-neut
-58514	neut
-58516	neut
-58523	masc
-58526	neut
-58530	neut
-58535	neut
-58560	fem
-58564	masc
-masc
-58571	neut
-58578	masc
-58584	masc
-neut
-58587	masc
-58590	masc
-58592	fem
-58596	neut
-58604	neut
-58606	neut
-58618	neut
-58624	neut
-masc
-58632	neut
-58643	neut
-58646	neut
-58658	neut
-58660	neut
-58663	neut
-58669	neut
-58672	fem
-neut
-58680	neut
-58687	neut
-58695	neut
-masc/neut
-58705	masc
-58710	neut
-58713	neut
-58726	masc
-58732	fem
-58738	fem
-58746	neut
-masc
-58753	masc
-neut
-58774	neut
-58781	neut
-neut
-masc
-58790	masc
-58792	neut
-58802	neut
-58809	neut
-masc
-58812	masc
-58826	neut
-fem
-58830	neut
-masc
-58834	fem
-58853	masc
-58858	fem
-fem
-58862	fem
-58865	fem
-58871	neut
-58879	masc
-58884	masc/neut
-58886	neut
-masc/fem
-masc/neut
-58891	neut
-58896	neut
-58901	fem
-58906	fem
-58926	neut
-58946	neut
-58967	masc
-58972	neut
-58986	neut
-59001	neut
-59007	fem
-59011	neut
-59036	neut
-59042	fem
-59049	neut
-59059	fem
-neut
-59067	neut
-59082	neut
-fem
-masc
-59089	fem
-59096	neut
-59107	neut
-masc
-neut
-59112	fem
-59139	neut
-59151	neut
-neut
-59155	neut
-59161	neut
-59168	masc
-59176	fem
-59184	fem
-59195	fem
-59207	masc
-59210	masc
-59217	masc
-59228	fem
-59245	masc
-59247	neut
-59250	masc
-59258	masc
-59260	masc
-59275	masc
-neut
-59302	neut
-59305	neut
-59310	neut
-59315	fem
-59318	fem
-59333	neut
-59336	neut
-masc
-59339	masc
-59347	masc/neut
-59350	neut
-masc
-59353	neut
-59358	fem
-59383	masc/fem/neut
-59385	fem
-59396	neut
-59398	fem
-59402	masc/neut
-59410	fem
-neut
-59413	neut
-59422	fem
-59434	fem
-neut
-59442	neut
-59445	masc/fem
-59449	neut
-59459	masc
-59471	neut
-59474	masc/neut
-59480	masc
-fem
-masc
-59491	fem
-59497	masc
-59500	neut
-masc
-59505	masc
-59516	masc
-59523	masc
-59526	masc
-59531	neut
-masc
-59561	neut
-masc
-59566	masc
-59569	neut
-neut
-59576	masc/neut
-59589	neut
-59592	masc
-neut
-59616	neut
-59620	masc
-59623	neut
-59628	neut
-59634	neut
-59640	neut
-59652	neut
-59654	masc/neut
-59663	neut
-59684	fem
-59694	neut
-59696	fem
-59698	neut
-59705	masc
-59707	masc
-59711	masc
-59721	neut
-59725	masc
-neut
-59730	masc
-59740	masc
-59743	masc/neut
-59750	masc
-59755	fem
-59760	masc
-59762	masc/neut
-fem
-neut
-59768	masc
-59779	fem
-59788	neut
-59794	neut
-59804	fem
-59824	masc
-59835	masc
-59838	fem
-59841	fem
-fem
-59844	fem
-59873	masc
-neut
-masc/fem
-59880	masc/fem
-59883	neut
-masc
-59888	masc/neut
-59895	neut
-59903	masc
-neut
-masc/fem
-59910	neut
-59914	fem
-59916	neut
-59921	fem
-59923	fem
-59931	neut
-59936	neut
-59938	fem
-59943	neut
-59947	fem
-59949	neut
-59956	neut
-fem
-59959	fem
-59965	neut
-59969	fem
-59971	fem
-59980	neut
-59999	neut
-60004	neut
-60014	neut
-60018	masc
-60022	masc
-60034	masc/neut
-60041	fem
-60043	neut
-60046	masc
-60048	neut
-60052	fem
-60057	neut
-60067	fem
-60071	fem
-60073	neut
-60075	neut
-60084	neut
-60093	fem
-60096	neut
-60100	fem
-60106	masc
-60109	neut
-60112	masc
-60119	neut
-masc
-60122	neut
-60124	masc
-60131	masc
-60142	neut
-60144	masc
-60148	neut
-masc/fem
-60152	neut
-60158	masc
-60162	neut
-60171	neut
-60185	neut
-60187	masc
-60195	neut
-60212	neut
-neut
-60219	masc
-60222	neut
-60229	fem
-60231	neut
-60234	fem
-neut
-fem
-60245	fem
-60250	neut
-60258	masc/neut
-fem
-neut
-60264	neut
-60272	fem
-60278	neut
-60283	neut
-neut
-60297	fem
-60300	fem
-60303	masc/neut
-60306	neut
-60309	masc
-60319	neut
-60321	neut
-60329	neut
-60338	fem
-60340	fem
-60343	neut
-60346	neut
-60349	neut
-60359	neut
-60367	neut
-60369	neut
-60373	neut
-60382	masc
-60389	masc
-60394	neut
-60401	fem
-60403	neut
-60410	fem
-60413	fem
-60415	neut
-neut
-60419	masc
-60426	neut
-60433	neut
-60448	fem
-60456	neut
-60461	fem
-60468	neut
-60477	neut
-60487	fem
-60491	neut
-60493	masc
-fem
-60502	neut
-60504	masc
-60518	masc
-60530	fem
-60532	fem
-fem
-60538	fem
-60540	masc/neut
-60544	fem
-masc
-fem
-fem
-60553	fem
-60567	masc
-60573	neut
-60581	fem
-60583	neut
-neut
-60591	neut
-masc/fem
-fem
-60597	neut
-neut
-fem
-60601	neut
-60614	fem
-60617	fem
-60625	neut
-60627	masc/neut
-60649	neut
-60651	fem
-60654	neut
-60656	masc
-masc/neut
-60664	neut
-60670	neut
-60680	fem
-60684	neut
-60687	fem
-neut
-60702	masc/fem/neut
-60708	fem
-60721	neut
-60724	fem
-neut
-60729	neut
-60752	fem
-neut
-60762	fem
-60768	fem
-60790	neut
-60792	neut
-60796	fem
-60798	neut
-60801	fem
-60804	neut
-60810	neut
-60816	fem
-60818	neut
-60830	neut
-60844	fem
-60850	neut
-60852	fem
-60861	neut
-60866	fem
-60875	fem
-60877	masc
-60879	masc
-neut
-60891	neut
-60893	masc/neut
-60905	masc/neut
-60911	neut
-60915	fem
-60918	masc/neut
-60924	fem
-60932	neut
-60936	neut
-60942	fem
-neut
-60949	fem
-60967	neut
-60975	neut
-60987	neut
-neut
-masc
-60995	fem
-61011	fem
-61013	fem
-61016	fem
-fem
-61024	fem
-61028	fem
-fem
-61035	neut
-61043	neut
-fem
-61046	neut
-61048	fem
-61050	neut
-61053	neut
-61061	neut
-61068	neut
-61072	neut
-61076	fem
-61085	masc/fem
-neut
-61093	neut
-61098	neut
-61111	neut
-61117	masc
-neut
-61121	masc
-61129	fem
-neut
-61132	neut
-61139	neut
-61147	neut
-61152	neut
-61159	fem
-61161	masc/neut
-61165	fem
-61171	neut
-61173	fem
-61180	masc
-61185	neut
-61188	neut
-61204	fem
-61207	masc/neut
-fem
-neut
-61213	masc/neut
-61217	masc/neut
-61222	fem
-61242	fem
-61255	fem
-61257	masc/neut
-61267	neut
-61283	fem
-61293	neut
-61299	masc/neut
-61302	neut
-61305	fem
-neut
-61312	neut
-61314	neut
-61337	masc
-fem
-61347	fem
-masc
-61351	neut
-61353	neut
-61360	masc
-61365	neut
-61371	masc
-61383	fem
-fem
-masc
-61392	neut
-neut
-61419	masc
-61431	fem
-61433	neut
-masc/neut
-61438	neut
-61441	masc
-61449	neut
-61456	neut
-61460	fem
-61465	masc
-61469	masc
-61474	masc
-61476	masc
-61482	masc
-61491	neut
-61495	neut
-neut
-61506	neut
-masc
-61509	masc/neut
-61522	masc
-61528	masc/neut
-61532	neut
-neut
-fem
-61537	neut
-61540	neut
-fem
-61543	fem
-61554	neut
-neut
-61560	neut
-61566	fem
-61578	neut
-61582	fem
-fem
-neut
-fem
-61588	fem
-fem
-fem
-61607	masc
-61609	masc
-61613	neut
-61618	masc/neut
-61623	neut
-neut
-61627	neut
-61630	fem
-61637	masc/neut
-61646	fem
-61650	neut
-61655	fem
-neut
-61661	masc
-61674	fem
-61683	masc/neut
-61685	neut
-61689	neut
-61705	fem
-61729	neut
-61733	fem
-neut
-61736	neut
-61738	fem
-61746	masc
-61754	fem
-61759	neut
-61764	fem
-61776	neut
-61779	fem
-61784	neut
-neut
-61791	masc
-61793	masc
-61798	masc/fem
-neut
-61801	neut
-61804	neut
-61808	masc
-61817	neut
-neut
-61821	neut
-61830	neut
-61833	neut
-61836	neut
-61838	neut
-61858	neut
-61866	fem
-61870	neut
-61874	masc
-61879	neut
-61881	masc
-61886	masc
-61891	neut
-61900	masc/neut
-61904	fem
-61912	masc
-61917	masc
-61925	masc/fem/neut
-61927	fem
-61936	masc
-fem
-61943	neut
-61948	neut
-61951	masc
-61955	fem
-61957	neut
-61966	masc
-61975	masc
-61979	masc
-masc
-61983	neut
-fem
-fem
-61992	fem
-61998	neut
-62007	neut
-62011	fem
-62020	fem
-62029	fem
-62031	masc
-62033	neut
-62036	neut
-62038	masc
-62041	neut
-62048	masc/fem
-62053	neut
-62057	neut
-62064	fem
-62066	masc
-62077	masc
-neut
-62085	neut
-62094	neut
-masc
-62098	masc
-62109	neut
-62117	neut
-62119	neut
-62122	masc
-62125	masc
-62136	masc
-62151	neut
-62155	neut
-62157	fem
-62166	masc
-masc
-62172	neut
-62183	masc
-62188	masc
-neut
-62199	neut
-62201	neut
-62203	neut
-62206	masc
-62214	masc
-62219	fem
-62221	fem
-62223	masc
-62228	fem
-62239	masc
-62242	masc
-62244	masc
-62246	neut
-62254	neut
-62257	fem
-62261	neut
-62269	fem
-62278	masc
-62292	masc/fem/neut
-62295	masc
-62306	neut
-62315	fem
-62325	masc
-62329	masc
-62337	masc
-62339	masc
-62341	neut
-62347	masc
-62354	neut
-62363	masc
-62371	masc
-62376	fem
-62389	fem
-62391	masc
-masc/fem
-62401	masc
-62445	neut
-62452	fem
-62460	neut
-62467	masc
-62470	masc
-62476	neut
-62482	neut
-62485	masc/neut
-62490	masc
-62492	masc/fem
-62498	neut
-62501	masc
-62516	neut
-62527	neut
-62530	masc
-62532	masc
-62537	masc
-62541	masc
-62545	neut
-62556	masc
-62559	masc
-62564	masc
-62566	fem
-fem
-fem
-62581	fem
-fem
-fem
-fem
-masc
-62588	masc
-62598	fem
-fem
-fem
-fem
-62608	neut
-62615	neut
-masc
-62618	masc
-neut
-62636	fem
-62638	neut
-62642	fem
-62649	neut
-62653	fem
-masc
-62666	fem
-62670	fem
-62676	fem
-62689	masc
-62693	masc
-masc
-62701	neut
-62703	fem
-62707	neut
-62714	masc
-62719	masc
-62726	neut
-62736	neut
-62739	masc
-62744	masc
-62748	neut
-62760	neut
-fem
-fem
-62768	neut
-masc
-62771	masc/fem/neut
-62777	neut
-62783	neut
-62785	neut
-62789	masc
-62792	masc
-62795	masc
-neut
-neut
-62800	neut
-62813	fem
-62816	masc
-62822	neut
-62827	neut
-62832	neut
-62835	neut
-62851	masc
-neut
-62855	neut
-62857	masc
-62865	neut
-62872	neut
-62876	masc
-62881	masc
-62883	masc
-62889	fem
-62894	masc
-62896	neut
-62898	neut
-62901	masc
-62907	neut
-62912	masc
-62916	masc
-neut
-62926	neut
-62929	masc
-62933	neut
-62938	masc
-62950	masc
-62963	fem
-62969	neut
-62971	masc/neut
-62977	neut
-62981	neut
-62985	masc/neut
-62988	masc
-62995	masc
-63015	masc
-63024	fem
-63028	masc
-63041	neut
-63052	neut
-63054	neut
-63065	masc
-neut
-63069	neut
-63075	neut
-masc
-63087	masc
-63090	masc
-masc
-63093	neut
-63096	masc
-63098	neut
-63104	masc
-63106	neut
-63111	masc
-63114	neut
-fem
-63119	fem
-63123	neut
-63125	fem
-63131	fem
-63134	neut
-63140	masc
-63143	neut
-63147	masc
-63157	fem
-neut
-63161	fem
-63172	masc
-63177	neut
-63180	neut
-63184	masc
-fem
-63189	fem
-63194	masc
-fem
-63199	masc
-fem
-63202	masc
-63204	fem
-63215	fem
-63218	neut
-63220	masc/neut
-63226	fem
-63228	masc/neut
-63235	neut
-63239	fem
-fem
-63244	neut
-masc
-neut
-neut
-neut
-63252	fem
-neut
-63271	neut
-63276	neut
-masc
-63281	fem
-63287	masc
-63299	fem
-63307	fem
-neut
-63317	fem
-fem
-63324	masc
-63329	masc/neut
-neut
-fem
-63346	neut
-63350	neut
-63352	fem
-63370	neut
-63377	fem
-neut
-63382	neut
-masc/fem
-63393	fem
-neut
-63402	neut
-neut
-63421	masc
-63424	neut
-63428	masc
-63434	masc
-63437	neut
-63450	neut
-63456	neut
-63470	masc
-63506	neut
-63510	masc
-neut
-63524	masc
-fem
-63529	fem
-63536	neut
-63549	masc
-63557	neut
-masc
-63564	masc
-63576	neut
-63579	neut
-63589	masc
-63593	neut
-63597	neut
-63602	masc
-63608	neut
-fem
-fem
-63618	masc
-63629	fem
-63631	fem
-63645	neut
-63650	fem
-63656	neut
-63659	neut
-63661	masc
-63673	masc
-neut
-63678	fem
-63685	masc
-fem
-masc
-63694	fem
-63707	masc
-63709	fem
-63714	fem
-63717	fem
-63723	masc
-63733	neut
-63736	masc
-63748	fem
-63758	neut
-masc
-63763	masc
-63767	masc/fem
-63770	fem
-neut
-neut
-63777	masc
-63787	masc
-63792	masc
-63794	fem
-63805	masc
-masc
-63831	masc/neut
-63833	masc
-63836	masc
-masc/neut
-63840	fem
-63842	fem
-63845	neut
-63848	masc
-63855	fem
-63857	fem
-63864	masc
-fem
-63868	masc
-fem
-neut
-63874	masc
-63876	neut
-masc
-63901	masc
-fem
-63905	masc
-63909	neut
-masc
-63917	neut
-63919	masc
-63921	fem
-63931	masc
-63933	masc
-63940	masc
-63949	neut
-masc
-masc/fem
-63955	fem
-neut
-63958	masc
-63962	masc
-63964	fem
-63967	masc
-neut
-63972	neut
-64005	masc
-64007	fem
-64012	masc
-fem
-64018	fem
-64020	neut
-masc
-64023	masc
-fem
-64041	masc/neut
-64052	masc/neut
-64054	masc
-64070	neut
-masc
-64074	neut
-64079	neut
-masc
-neut
-64086	masc
-64091	fem
-64096	fem
-64098	neut
-masc
-neut
-64102	fem
-fem
-64106	fem
-64116	neut
-masc
-64119	neut
-masc
-neut
-64139	masc
-64144	masc
-64152	masc
-64156	neut
-masc
-masc/fem
-64161	neut
-64163	fem
-64165	fem
-64167	masc
-64174	fem
-64179	masc
-64189	masc
-64203	fem
-64205	neut
-64208	masc
-64215	masc
-fem
-neut
-masc
-64223	masc
-fem
-64232	neut
-64238	fem
-fem
-fem
-64258	masc
-64261	neut
-64266	neut
-masc
-64270	neut
-masc
-64273	masc
-64277	neut
-neut
-masc
-64293	masc
-64296	fem
-64303	fem
-64316	masc
-64324	masc
-64328	neut
-64333	neut
-masc
-64343	masc
-64353	masc
-64357	masc
-64360	neut
-64367	neut
-masc
-64374	fem
-64381	neut
-neut
-masc
-64386	masc
-64397	masc
-64399	neut
-64402	masc
-64407	fem
-neut
-64415	neut
-masc
-masc
-64421	neut
-64426	masc
-64429	neut
-64431	masc
-64434	masc
-fem
-64442	masc
-64449	masc
-64452	neut
-64454	masc
-64458	fem
-64465	masc
-64470	neut
-64472	neut
-64482	masc
-neut
-64488	neut
-64490	masc
-64493	masc
-masc
-fem
-64501	masc
-neut
-64504	masc
-64506	neut
-64514	masc/fem
-64517	masc/neut
-64521	masc
-64535	masc
-64543	masc
-neut
-64546	neut
-64551	neut
-masc
-64566	masc
-64569	neut
-64571	masc
-64574	fem
-neut
-64579	masc
-masc
-64586	neut
-masc
-neut
-64592	fem
-64596	masc
-64603	neut
-64608	neut
-neut
-64618	neut
-masc
-neut
-64624	neut
-64628	fem
-64632	masc
-64635	neut
-64637	neut
-masc/fem
-64642	neut
-64647	neut
-masc/fem
-64650	fem
-neut
-64657	fem
-fem
-64660	neut
-masc
-64663	neut
-64666	neut
-64673	fem
-fem
-64678	masc
-64687	neut
-masc
-64695	fem
-64699	neut
-64718	fem
-64723	masc
-fem
-64727	fem
-64731	masc
-64747	neut
-64762	fem
-masc
-64769	masc
-masc
-64778	fem
-64785	masc/neut
-64792	neut
-64807	fem
-64823	fem
-64831	fem
-64840	fem
-64859	masc/fem
-64861	neut
-64871	neut
-masc
-neut
-64876	masc/neut
-64907	neut
-64911	neut
-64924	masc
-64934	masc
-neut
-fem
-64943	masc
-64952	fem
-64954	masc
-64960	masc
-64981	masc/neut
-64987	masc
-64993	masc
-neut
-64998	masc
-65005	neut
-65009	masc/fem
-65021	masc
-65027	masc/fem
-65033	neut
-fem
-65040	masc/neut
-65047	masc
-65052	fem
-65056	masc
-65064	fem
-65067	masc
-65071	neut
-masc
-65085	masc/fem
-masc
-65095	fem
-neut
-masc
-masc
-65104	fem
-65106	fem
-65110	masc/neut
-65116	masc/fem
-65118	fem
-65120	masc
-65125	masc
-65131	masc
-65134	neut
-65136	masc
-masc
-65139	neut
-65146	fem
-65154	masc
-65171	neut
-65174	masc
-65181	masc
-65186	fem
-65208	masc
-65217	fem
-fem
-65224	fem
-65226	fem
-65236	fem
-65268	neut
-65276	fem
-65281	masc
-65287	masc
-65298	masc/neut
-65308	masc
-65311	fem
-65315	fem
-65319	fem
-fem
-65323	fem
-65326	fem
-fem
-65331	neut
-65334	masc
-65346	fem
-65349	fem
-fem
-fem
-65362	masc
-65371	neut
-65377	neut
-65392	masc
-65402	fem
-65417	fem
-65423	neut
-65427	masc
-65434	neut
-65442	fem
-65446	masc
-65448	masc/neut
-65450	fem
-65452	masc/neut
-65454	masc
-65456	masc/neut
-65460	masc
-65462	masc/neut
-65473	fem
-65494	fem
-65505	neut
-65511	fem
-65517	fem
-masc/neut
-65522	neut
-65527	neut
-65531	masc/neut
-65541	neut
-65548	fem
-65558	neut
-65562	masc/neut
-65571	fem
-65575	neut
-65577	masc
-masc
-65581	neut
-65592	masc
-65604	masc
-neut
-65607	neut
-65609	neut
-65611	neut
-65617	neut
-65621	fem
-neut
-65625	fem
-fem
-65631	fem
-65637	neut
-65644	masc
-fem
-65648	masc/fem
-masc/neut
-65651	fem
-65662	masc/neut
-65670	fem
-65675	neut
-65682	fem
-65686	masc/fem
-65689	fem
-65693	fem
-65696	neut
-65700	neut
-65718	masc/neut
-neut
-65723	masc
-65725	fem
-65729	fem
-65734	neut
-65742	fem
-65755	neut
-65777	masc
-65779	masc/neut
-65783	neut
-65785	fem
-65790	masc/neut
-65793	masc
-masc/neut
-65799	neut
-65801	neut
-65803	masc
-65806	masc
-65808	neut
-65825	masc
-65842	masc/neut
-65846	masc
-masc/neut
-65851	neut
-masc/neut
-65863	fem
-65868	masc/neut
-65873	fem
-65877	masc
-neut
-65880	masc/neut
-65889	masc
-65897	masc
-65909	fem
-65916	masc
-65925	fem
-65936	fem
-65940	fem
-neut
-65947	masc
-65954	fem
-65956	fem
-65964	fem
-65972	fem
-65974	masc
-65978	masc/fem/neut
-65985	masc
-65987	fem
-65993	masc
-65998	masc
-66001	neut
-66003	masc
-66008	fem
-66019	neut
-66035	fem
-66040	fem
-66045	masc/fem/neut
-66047	fem
-66052	neut
-66054	fem
-66057	neut
-66059	fem
-masc
-66067	neut
-66082	fem
-neut
-66087	neut
-66090	fem
-66097	neut
-66105	masc
-66110	masc
-masc/neut
-66116	fem
-66119	fem
-66126	fem
-66130	fem
-66143	neut
-masc
-66148	masc/neut
-66150	masc
-66154	neut
-66157	neut
-66161	masc
-66165	neut
-66168	neut
-66176	masc
-66178	masc/fem/neut
-66192	masc
-66198	neut
-66209	fem
-66211	neut
-66224	masc/fem
-66229	fem
-66236	neut
-66243	neut
-66247	masc/neut
-66259	neut
-66268	neut
-66270	masc/fem
-66285	neut
-66289	fem
-66297	fem
-66311	fem
-66313	fem
-66323	masc/neut
-66328	neut
-neut
-fem
-66334	masc
-66336	masc/neut
-neut
-66340	fem
-66342	neut
-66346	masc
-66349	masc
-66360	masc/neut
-66371	masc/neut
-66377	masc
-66385	masc
-66390	neut
-66392	neut
-66395	masc/fem/neut
-66399	masc
-masc
-66403	neut
-66407	masc
-neut
-66413	masc/neut
-66418	neut
-neut
-fem
-66424	fem
-66427	fem
-neut
-66430	neut
-66443	masc
-66449	fem
-66455	fem
-66459	masc
-66462	masc
-66467	neut
-66473	masc/neut
-masc
-66477	masc
-66481	masc/neut
-66484	fem
-fem
-66489	masc
-66491	neut
-66499	fem
-66507	masc/neut
-66510	fem
-66516	masc
-66519	neut
-66522	masc/fem/neut
-66524	masc
-66526	masc
-neut
-66537	masc
-66539	masc/neut
-66542	fem
-66557	neut
-neut
-66570	masc
-66580	fem
-66593	neut
-66615	fem
-fem
-66658	neut
-66662	masc
-masc/neut
-66670	neut
-66674	fem
-66679	neut
-masc/neut
-masc/fem
-66684	neut
-66686	neut
-66689	masc/neut
-66691	fem
-neut
-66703	fem
-neut
-fem
-66721	fem
-66732	neut
-fem
-66742	neut
-66745	masc
-66769	masc
-66775	neut
-66782	fem
-66787	masc
-66796	neut
-66824	masc
-neut
-66835	masc
-66837	neut
-66840	masc/neut
-66851	fem
-66857	masc
-66859	masc
-66868	neut
-66871	neut
-66875	masc
-66879	masc
-66882	neut
-66884	neut
-66902	fem
-66905	masc
-66908	masc
-66910	neut
-masc
-66919	masc
-66921	neut
-masc
-66924	neut
-66935	neut
-fem
-66939	neut
-66942	masc/neut
-neut
-66949	masc/neut
-66958	fem
-66960	masc
-masc
-66965	masc
-66971	neut
-66973	masc/neut
-66975	neut
-66977	masc/neut
-66982	fem
-66985	fem
-66991	masc/neut
-66998	masc/fem
-67006	fem
-fem
-67009	masc/neut
-67011	fem
-masc
-67016	fem
-67018	masc
-67022	masc
-fem
-67028	masc/neut
-67035	masc/neut
-67041	masc
-67045	fem
-67049	neut
-67055	masc/neut
-masc
-67059	fem
-67061	neut
-67087	neut
-67089	neut
-67092	fem
-67104	neut
-fem
-67107	fem
-67111	masc
-masc
-67115	masc/neut
-masc
-67126	fem
-67128	masc/fem
-67136	masc
-67138	masc
-67143	masc
-67148	neut
-67163	neut
-67171	neut
-67177	neut
-67184	fem
-67217	neut
-67225	neut
-67227	masc
-neut
-67231	neut
-masc
-67235	masc/neut
-67237	masc
-67241	masc
-67251	masc
-67261	neut
-67266	masc/neut
-67276	fem
-67278	neut
-67295	masc
-masc
-67306	masc
-67309	fem
-67327	masc
-67329	fem
-67334	neut
-67340	neut
-67346	masc/neut
-67348	masc
-67354	masc/neut
-67359	masc/neut
-masc
-67372	masc
-67384	masc
-67398	fem
-67401	masc
-67405	fem
-67408	fem
-67422	masc
-67430	neut
-67437	masc/neut
-67439	masc
-67442	masc
-67447	fem
-67461	fem
-fem
-67465	fem
-67473	masc
-67480	neut
-67487	neut
-67491	masc
-67494	fem
-neut
-67512	fem
-67516	masc/neut
-neut
-67523	masc
-67534	masc/fem/neut
-67537	neut
-fem
-67541	fem
-67551	neut
-67556	neut
-67559	masc
-67566	fem
-67568	fem
-67579	masc
-67592	masc
-neut
-67597	neut
-67603	fem
-67607	masc
-67623	masc/fem/neut
-67625	masc
-67629	fem
-67639	neut
-67641	masc
-67651	masc/fem/neut
-67659	neut
-67685	neut
-67687	masc
-67704	masc/neut
-67709	fem
-67719	masc
-67721	neut
-67728	neut
-67732	masc/neut
-67738	masc
-67742	neut
-67749	fem
-67758	neut
-67770	masc
-67773	neut
-67778	masc
-67804	fem
-67825	fem
-67828	masc
-67830	masc/fem
-67834	masc
-67854	neut
-67860	masc
-67875	fem
-67885	masc/fem
-67887	neut
-neut
-67892	fem
-masc
-67897	masc
-67914	neut
-67929	masc
-67932	masc
-67941	neut
-67947	fem
-67949	fem
-67952	masc/fem/neut
-67962	masc
-67971	fem
-67979	neut
-67986	fem
-fem
-fem
-67991	masc
-67996	fem
-neut
-68001	fem
-68014	masc/neut
-68039	neut
-68041	neut
-68049	neut
-68055	neut
-68070	neut
-68079	masc
-neut
-68087	neut
-68090	fem
-68093	fem
-68098	masc/fem
-68101	fem
-68104	masc/fem
-68111	fem
-neut
-68122	masc
-68124	fem
-68129	fem
-68133	fem
-68135	fem
-68153	masc
-neut
-68164	masc
-68176	masc
-68187	masc/fem
-masc
-neut
-68194	masc
-68196	neut
-68207	masc/neut
-neut
-masc
-neut
-68219	fem
-68221	fem
-68223	masc/fem
-masc
-68230	masc
-68244	neut
-68250	neut
-68258	neut
-68265	masc/neut
-68270	fem
-68285	masc/neut
-68289	masc/neut
-68297	masc
-68303	fem
-68332	fem
-68355	neut
-68357	neut
-68371	masc
-fem
-68377	neut
-68381	neut
-68399	masc
-68409	fem
-68421	masc
-masc
-68432	neut
-68450	masc
-68452	masc
-68461	masc
-68481	masc
-68483	masc/neut
-68487	neut
-68494	masc/neut
-masc
-68506	masc
-68522	fem
-68538	masc
-68540	masc/neut
-68555	neut
-68564	neut
-68570	neut
-68575	neut
-68594	masc
-68597	masc/neut
-68603	fem
-68605	masc
-fem
-68615	masc
-68623	fem
-masc/fem
-68635	fem
-68646	masc
-68649	masc
-68677	fem
-masc/fem
-68685	masc/neut
-68694	neut
-neut
-68697	neut
-68703	masc
-68709	fem
-fem
-68727	neut
-68731	masc
-68736	masc
-68738	neut
-68742	masc/neut
-68756	masc
-68763	masc/fem
-68771	masc
-68773	masc
-68782	neut
-68787	neut
-neut
-68790	masc
-fem
-68801	masc/neut
-68803	neut
-68807	masc/neut
-neut
-68818	masc
-68825	neut
-masc
-neut
-68831	masc
-masc/neut
-neut
-68840	neut
-68842	fem
-68865	masc
-68875	masc
-68877	neut
-68881	neut
-68884	neut
-68896	masc
-68903	fem
-68909	fem
-68915	masc
-68919	neut
-masc
-neut
-68929	neut
-68934	masc/neut
-68939	neut
-68955	neut
-neut
-68960	masc/neut
-68963	fem
-68972	masc
-68974	masc/neut
-68982	fem
-68988	neut
-masc/fem
-68991	masc/fem
-68993	masc/neut
-neut
-68996	masc
-69000	fem
-69026	masc
-fem
-69030	neut
-69037	fem
-69045	masc
-masc
-fem
-69049	fem
-69052	masc
-69057	neut
-69079	fem
-69083	neut
-69089	masc/neut
-69095	neut
-masc
-69101	neut
-69110	masc
-69112	masc/neut
-69114	masc
-69117	fem
-69122	neut
-69128	masc/neut
-fem
-69131	fem
-69136	neut
-69153	neut
-69159	neut
-69162	neut
-69166	fem
-69171	masc
-69173	masc
-69178	masc
-69186	fem
-69191	neut
-69207	masc
-69209	masc/neut
-69212	masc/fem
-69214	masc
-69217	masc
-69219	masc/neut
-69228	masc/fem/neut
-69234	masc
-69242	masc
-69252	fem
-69256	masc
-69259	fem
-69261	masc/fem
-69275	neut
-69281	masc
-69291	neut
-69300	fem
-69302	fem
-69315	masc
-69318	fem
-69320	fem
-neut
-69331	neut
-69333	masc
-masc
-masc
-69342	fem
-69347	masc
-69363	fem
-69370	fem
-69382	neut
-69399	neut
-69409	neut
-69413	masc
-69421	masc
-69440	masc
-69443	masc
-69446	masc/neut
-69457	fem
-fem
-fem
-69467	neut
-69483	fem
-69489	masc
-69493	fem
-69501	masc
-69503	masc/fem
-69511	fem
-69513	masc
-69516	fem
-69520	fem
-69522	fem
-69526	neut
-69534	neut
-69542	fem
-69548	masc
-masc/neut
-69555	neut
-69557	masc
-69564	neut
-69569	fem
-69577	masc
-69581	neut
-69583	fem
-69592	masc
-69596	masc
-69599	fem
-69603	masc
-69609	fem
-69619	masc/fem/neut
-masc
-69630	masc
-fem
-69633	neut
-masc
-neut
-neut
-69640	masc
-69649	masc
-69651	masc
-69657	neut
-69663	masc
-69671	masc/neut
-69673	masc
-69677	neut
-69683	neut
-69688	masc
-69690	fem
-69696	fem
-69698	neut
-masc/neut
-69702	fem
-69706	masc
-69711	masc/neut
-69716	masc/neut
-69718	neut
-69720	masc
-fem
-69725	masc/neut
-69734	masc
-neut
-69738	neut
-masc
-69747	masc
-69755	masc
-69764	masc/neut
-masc
-69776	masc/neut
-69779	neut
-masc
-69784	neut
-fem
-69794	fem
-69797	masc
-69819	masc
-69835	masc
-69850	neut
-69855	masc
-69860	masc
-69863	fem
-69865	neut
-69872	neut
-69880	neut
-masc
-69885	fem
-69889	masc
-69902	masc
-69915	fem
-fem
-69925	neut
-69930	fem
-69935	neut
-69941	masc/neut
-69944	neut
-69956	neut
-69965	masc
-69974	neut
-69983	neut
-69995	fem
-70006	neut
-70011	neut
-70018	masc/neut
-70021	neut
-70027	neut
-70039	masc
-70044	fem
-fem
-fem
-70052	neut
-70062	fem
-70064	masc/neut
-70071	fem
-70076	masc
-70078	neut
-70116	fem
-70127	masc
-neut
-70132	masc
-70145	masc
-70148	masc
-70151	masc
-70154	masc
-70187	fem
-masc/fem
-70194	fem
-70210	neut
-masc
-masc
-neut
-70218	masc
-neut
-70221	masc
-70231	fem
-70233	neut
-70236	masc
-70258	masc
-70266	fem
-fem
-70270	masc/neut
-70278	neut
-70280	masc
-70284	masc
-70287	masc/neut
-70292	neut
-masc
-70295	neut
-70297	masc
-70306	neut
-70310	fem
-70318	fem
-70343	neut
-masc
-70347	masc
-neut
-70350	masc
-70386	fem
-fem
-70397	neut
-70400	neut
-70407	masc
-70414	neut
-70419	masc
-70447	neut
-70450	neut
-masc
-70455	fem
-70458	masc
-70466	fem
-70468	fem
-70474	fem
-70483	masc
-fem
-70487	neut
-70509	neut
-70529	masc
-70531	neut
-70542	masc
-70546	fem
-70557	masc/neut
-70565	masc
-70572	masc
-70579	neut
-70592	fem
-70603	masc/neut
-70606	fem
-70613	masc
-70615	neut
-70629	masc/fem
-70633	masc
-70635	masc
-70644	neut
-70646	masc
-70648	masc
-masc
-masc
-70653	neut
-neut
-70662	masc
-70672	masc
-70684	fem
-70687	masc/fem
-70689	neut
-70707	masc/neut
-70714	masc
-fem
-70717	neut
-70727	masc
-masc
-70731	fem
-masc/neut
-70743	neut
-70748	fem
-fem
-fem
-70753	fem
-70756	fem
-70759	masc
-neut
-fem
-fem
-70767	neut
-70771	fem
-70782	fem
-70789	fem
-70791	masc
-70805	fem
-70808	neut
-70821	masc
-70824	fem
-70829	neut
-70846	masc/fem
-70850	masc
-70856	masc
-70862	masc
-70865	neut
-70870	masc
-70876	fem
-70887	neut
-70897	masc
-70901	fem
-70903	masc/neut
-70905	fem
-70907	masc/neut
-70916	neut
-70923	masc/fem
-70929	neut
-70935	neut
-neut
-70941	neut
-70943	neut
-masc
-70952	neut
-70954	masc/neut
-70969	fem
-70972	fem
-70982	fem
-70991	fem
-71017	neut
-fem
-masc/fem
-71025	fem
-71035	neut
-71037	masc/fem
-neut
-71043	masc
-neut
-71047	neut
-masc
-71058	fem
-neut
-71083	neut
-71093	masc
-71095	masc
-71113	masc
-neut
-masc
-71122	masc/neut
-71133	masc
-71143	neut
-71160	fem
-neut
-71165	masc
-71167	neut
-71175	masc
-71183	masc
-71189	masc
-71197	neut
-71226	neut
-71230	neut
-71234	masc/fem
-71246	masc
-71249	neut
-71256	neut
-71261	masc
-71269	masc/fem/neut
-71283	neut
-71291	masc
-neut
-71296	neut
-71312	masc
-neut
-71317	masc
-fem
-71335	neut
-71344	masc/neut
-fem
-71348	fem
-71350	masc/neut
-71352	neut
-71355	neut
-71370	masc
-neut
-71377	masc
-71380	masc
-71387	neut
-71392	neut
-fem
-fem
-masc
-71398	masc/neut
-71406	fem
-71408	neut
-71412	neut
-71417	neut
-neut
-71436	neut
-masc
-masc/neut
-71442	masc
-71455	fem
-71469	neut
-71474	fem
-71479	masc
-71486	neut
-neut
-71503	masc
-71508	neut
-masc
-71513	neut
-71519	fem
-71523	neut
-71536	masc/fem
-71547	fem
-71550	masc/fem
-71556	neut
-71559	neut
-71567	fem
-71570	masc
-71574	neut
-71576	neut
-71580	neut
-71589	fem
-71596	masc
-71605	masc
-71607	masc
-71613	neut
-71616	fem
-71618	fem
-71626	fem
-71628	fem
-71632	masc
-71639	masc
-71650	masc
-71661	masc
-masc/neut
-71668	fem
-71672	masc
-71675	masc
-71677	masc
-71679	neut
-71682	neut
-71684	fem
-71691	neut
-71700	masc
-71702	masc
-masc
-neut
-71718	fem
-masc
-71723	fem
-71729	fem
-71753	fem
-masc/fem
-71758	fem
-71761	fem
-71764	fem
-fem
-71772	fem
-71776	neut
-71778	masc/fem
-71782	masc
-neut
-masc
-71801	fem
-neut
-71823	masc/fem
-71851	masc
-71864	masc/fem
-71883	neut
-masc
-71889	masc
-71896	neut
-neut
-masc/neut
-71909	masc
-71915	fem
-71923	masc/neut
-71943	neut
-71947	masc/fem
-71951	masc
-71953	masc
-71960	masc
-71964	fem
-71968	masc
-masc
-masc
-71974	neut
-71981	masc
-71993	fem
-fem
-71998	fem
-72011	fem
-72019	fem
-72027	masc
-72032	masc/neut
-72034	fem
-72038	neut
-fem
-72043	masc
-72046	neut
-72049	fem
-72052	fem
-72058	fem
-72060	neut
-masc
-fem
-fem
-72067	fem
-72078	fem
-72083	masc/neut
-neut
-72089	masc/fem
-72099	masc/neut
-72110	fem
-72116	masc
-72129	fem
-72131	fem
-72143	fem
-72148	fem
-72152	neut
-72169	fem
-72175	fem
-72187	neut
-72192	neut
-72194	masc
-72204	neut
-72213	fem
-72221	fem
-72223	neut
-72231	masc
-72234	fem
-72239	fem
-72257	neut
-72272	fem
-72275	masc
-72278	neut
-72283	neut
-72289	neut
-72297	masc/fem/neut
-72309	masc/neut
-72325	masc
-72328	neut
-72330	neut
-72332	fem
-72336	masc
-72339	neut
-72346	fem
-72348	masc/neut
-72358	masc/neut
-72368	neut
-72373	neut
-72382	fem
-72409	neut
-72414	neut
-72423	neut
-72425	neut
-masc
-72443	masc
-72451	fem
-72456	masc/neut
-72494	masc
-72498	masc
-72502	neut
-fem
-fem
-72509	masc
-72512	neut
-72516	neut
-72532	masc
-72536	neut
-masc
-72542	masc
-72559	fem
-72568	neut
-neut
-72581	fem
-72605	neut
-72611	masc
-72614	neut
-72617	fem
-72625	fem
-neut
-72638	neut
-72652	masc/neut
-72665	neut
-72669	masc/neut
-72686	masc
-72691	fem
-neut
-72704	neut
-72709	neut
-72721	fem
-72723	masc/neut
-72730	masc
-72735	masc
-72740	masc
-72783	masc
-72793	masc
-72798	masc/fem
-72816	masc
-72829	neut
-72846	neut
-72857	masc/fem
-72874	masc/neut
-72876	fem
-72881	masc/neut
-72883	masc
-72898	fem
-72902	masc
-72906	fem
-neut
-72917	masc/neut
-masc
-72923	masc
-72930	fem
-72935	fem
-72947	fem
-72956	fem
-72968	masc
-72970	masc
-72974	masc
-72999	masc
-73002	masc
-73004	neut
-73013	masc/neut
-73051	fem
-73061	fem
-fem
-73071	neut
-73081	masc
-73102	neut
-73108	neut
-fem
-73113	neut
-73164	masc
-73172	masc
-73177	masc
-masc/fem
-neut
-73185	masc
-73191	masc
-73193	fem
-73198	masc
-73200	masc
-73202	neut
-neut
-73209	fem
-fem
-73220	neut
-fem
-73224	fem
-73232	neut
-73238	fem
-73242	fem
-masc/fem
-73249	fem
-73262	fem
-73270	neut
-73272	neut
-73277	masc/neut
-73295	masc
-neut
-73301	fem
-73306	fem
-73309	neut
-73312	fem
-fem
-73315	fem
-fem
-73325	masc/fem
-masc/neut
-73328	fem
-73348	fem
-73351	neut
-73356	fem
-73363	neut
-neut
-73368	neut
-73378	masc
-73383	neut
-73396	masc
-73402	neut
-masc
-73409	masc/neut
-masc
-73415	neut
-73419	masc/neut
-73421	fem
-73429	fem
-73435	masc
-73439	masc
-73464	fem
-fem
-73475	masc
-73490	neut
-73493	neut
-73495	neut
-73499	masc
-73519	fem
-73524	masc/fem
-neut
-masc
-73528	masc
-73534	masc
-73537	fem
-73543	fem
-73551	masc/neut
-73559	neut
-73562	neut
-73565	masc/neut
-73570	masc
-73581	masc
-73591	masc
-73597	fem
-fem
-masc
-73605	masc
-73611	masc/fem
-73613	fem
-73623	neut
-73632	masc
-73638	masc
-73644	masc
-73655	neut
-73666	masc/neut
-73676	fem
-73680	neut
-73682	masc
-fem
-73691	masc
-73697	masc
-73710	masc
-73714	fem
-73723	fem
-73735	masc
-73742	fem
-73761	fem
-neut
-73774	masc/neut
-73780	masc/fem
-73790	fem
-73792	masc
-masc
-73799	fem
-73803	masc
-fem
-73808	masc
-73812	neut
-73820	masc
-73840	masc
-73845	masc
-fem
-73848	fem
-73855	masc
-73865	fem
-73867	fem
-73871	fem
-73874	neut
-73887	neut
-fem
-73897	neut
-fem
-73903	fem
-73917	masc
-masc
-73923	masc/neut
-73926	masc
-73928	neut
-73938	fem
-73960	fem
-73967	masc
-73993	fem
-73998	fem
-masc
-74002	fem
-74004	neut
-neut
-74009	fem
-74013	fem
-74028	masc/neut
-74039	fem
-74052	fem
-74062	masc
-74072	fem
-74074	neut
-74077	fem
-74079	neut
-74093	masc
-74102	neut
-neut
-74107	neut
-74109	masc
-74131	masc
-74134	masc
-74136	fem
-74148	masc
-74154	fem
-74158	fem
-74161	masc
-74167	masc
-74180	fem
-74189	fem
-neut
-74194	fem
-74205	masc
-neut
-74215	masc
-74218	masc
-74221	masc
-74228	masc
-74241	neut
-74243	fem
-74248	neut
-74250	neut
-74255	fem
-74264	neut
-74273	masc
-74276	masc/fem
-74281	masc/neut
-74284	fem
-74286	fem
-74290	fem
-74296	masc
-74298	masc
-74303	fem
-74306	masc
-74308	masc/neut
-74314	neut
-74318	masc/neut
-masc
-74328	neut
-74333	masc
-74336	fem
-fem
-74339	neut
-74341	fem
-74348	fem
-74356	masc
-74364	masc
-neut
-74377	masc/neut
-masc
-74381	masc
-74395	fem
-fem
-74405	masc
-74410	masc
-74412	neut
-fem
-74424	masc
-masc
-74427	fem
-74442	masc
-74460	masc
-74463	neut
-74465	neut
-74474	neut
-neut
-74489	masc
-74492	fem
-74495	fem
-74501	masc
-74503	masc
-74506	masc
-74513	neut
-74515	fem
-masc
-74519	masc
-74523	neut
-74525	fem
-74527	fem
-74529	fem
-74537	neut
-74540	masc/neut
-74542	fem
-74547	masc/neut
-74552	masc/fem
-74555	masc
-74559	fem
-74563	masc/neut
-74571	fem
-74576	masc/neut
-masc/neut
-masc
-masc/neut
-74582	masc
-74584	masc
-74587	neut
-74590	fem
-fem
-74599	masc/fem
-74601	neut
-74624	masc
-74630	fem
-74643	fem
-74647	fem
-74652	neut
-74679	fem
-74685	masc
-74690	masc/neut
-74694	fem
-74697	masc
-74704	neut
-74706	fem
-74713	masc/neut
-74724	masc
-74730	masc
-74732	fem
-74734	fem
-74741	masc
-74752	fem
-74755	masc
-74764	masc
-masc
-74771	masc/neut
-74778	fem
-74780	fem
-74783	fem
-74803	fem
-74818	neut
-74827	neut
-74839	neut
-fem
-neut
-74849	fem
-74853	fem
-74855	fem
-fem
-74865	fem
-74871	fem
-74877	fem
-74881	fem
-74895	fem
-74898	neut
-74900	fem
-74904	fem
-74912	masc
-74916	fem
-74922	neut
-74933	masc
-74936	masc
-74939	fem
-neut
-masc/fem
-74951	fem
-74953	neut
-74955	fem
-neut
-74960	masc
-74969	fem
-74971	masc
-74975	masc/fem
-74978	fem
-74981	fem
-74989	fem
-74991	fem
-74995	fem
-75002	neut
-75018	neut
-75024	masc
-75027	neut
-masc
-75041	neut
-neut
-75045	fem
-75051	masc/neut
-75061	fem
-75065	masc/neut
-75070	masc/fem
-75075	masc/fem
-75081	masc/fem/neut
-75085	fem
-75089	masc/fem
-75091	fem
-75093	masc
-fem
-75102	masc/neut
-75111	fem
-masc
-75121	masc
-75124	masc
-masc/neut
-75136	masc
-masc/fem
-75139	neut
-75141	fem
-75144	fem
-fem
-75151	masc
-75164	neut
-75166	masc
-fem
-masc/neut
-masc/neut
-75175	masc/neut
-75177	fem
-75180	masc/fem
-75182	fem
-75188	neut
-75191	fem
-75193	masc
-75196	fem
-fem
-75205	fem
-75229	fem
-75233	neut
-75236	masc/fem
-75239	fem
-75243	masc
-75246	fem
-masc
-75256	fem
-75263	fem
-75268	fem
-fem
-75274	neut
-75277	fem
-75282	masc
-75298	masc
-75301	neut
-75318	fem
-75324	masc
-75331	masc
-75333	neut
-neut
-75337	masc
-75343	neut
-neut
-masc/neut
-75377	masc
-75395	fem
-75399	masc
-75403	masc
-neut
-75406	fem
-75410	neut
-75418	neut
-75420	masc
-75430	neut
-75437	fem
-75440	fem
-75449	fem
-75456	fem
-75462	masc
-75464	fem
-75470	neut
-75488	masc
-75492	fem
-75512	masc
-75514	masc
-neut
-75532	masc
-75536	neut
-75538	masc
-75544	fem
-75546	neut
-75549	neut
-masc
-neut
-masc
-75560	fem
-neut
-75568	fem
-75575	masc
-75578	fem
-75583	masc
-75598	masc
-75620	masc
-neut
-masc
-75632	masc
-75643	masc
-75659	neut
-75664	masc
-75667	masc
-75671	neut
-75679	masc
-75688	masc
-75706	fem
-75709	masc
-75718	fem
-75723	masc
-75727	masc
-75733	masc
-75736	masc
-75738	neut
-75747	neut
-75763	neut
-masc
-75767	fem
-75775	fem
-75777	neut
-75780	masc
-75786	fem
-fem
-75793	masc
-75799	fem
-75807	fem
-75838	neut
-fem
-fem
-75848	fem
-75860	neut
-75864	masc
-75866	fem
-masc/fem/neut
-75871	neut
-75876	masc/neut
-75883	neut
-75886	masc
-75890	fem
-75893	fem
-75900	masc/fem
-75905	masc/neut
-75909	masc/fem
-75917	masc
-75919	masc/fem
-75937	masc
-masc
-75942	neut
-neut
-75946	fem
-masc
-75952	fem
-75954	masc/neut
-75962	neut
-75971	neut
-75973	neut
-75978	neut
-fem
-75986	fem
-masc
-75993	fem
-75995	masc
-fem
-75998	masc
-76002	masc/neut
-76007	fem
-neut
-76013	neut
-76030	fem
-76033	masc
-76035	neut
-76044	fem
-76048	masc/neut
-76063	fem
-fem
-76092	neut
-76098	fem
-76100	neut
-76102	fem
-76112	fem
-76126	masc
-76131	fem
-76134	masc/neut
-fem
-masc
-76139	masc
-76141	neut
-76143	masc/neut
-76149	neut
-76154	fem
-76165	neut
-76180	fem
-76186	masc/fem
-76189	masc
-masc
-76192	neut
-76202	neut
-76216	neut
-76235	neut
-neut
-76248	fem
-76251	fem
-76253	neut
-76258	neut
-76265	masc
-76267	fem
-76269	fem
-76273	fem
-76280	masc/neut
-76284	masc/neut
-76291	fem
-76306	masc
-76308	fem
-neut
-76311	fem
-76316	neut
-76320	masc/neut
-76336	neut
-masc
-76344	masc
-masc
-76359	masc
-76362	masc
-76370	fem
-76376	fem
-76390	fem
-76393	masc
-76403	masc
-neut
-neut
-76411	fem
-76414	masc
-76423	neut
-masc
-76435	masc
-76438	neut
-76442	masc/neut
-76455	fem
-76486	neut
-76491	fem
-76499	fem
-76517	neut
-76520	masc
-76532	fem
-76534	neut
-76546	fem
-76565	fem
-76569	masc/fem
-76572	fem
-76577	fem
-76581	fem
-76585	fem
-76589	neut
-76594	neut
-76606	masc/neut
-76615	fem
-76618	masc
-masc
-76653	fem
-76655	masc
-76668	neut
-76671	masc/fem
-76678	neut
-76680	masc
-76683	masc
-76690	fem
-76696	fem
-fem
-fem
-76701	neut
-76705	fem
-76712	masc
-76715	masc
-76723	masc
-76732	masc
-76734	neut
-76748	masc
-76768	masc/neut
-masc
-76780	masc
-76785	fem
-76790	masc
-76802	fem
-masc/fem
-masc
-76806	fem
-76809	fem
-76821	neut
-76826	fem
-76829	fem
-76831	fem
-masc
-76841	masc
-76848	fem
-76853	masc/neut
-76863	neut
-76866	neut
-76868	masc
-76886	fem
-76889	fem
-76892	fem
-fem
-76901	masc
-76907	fem
-76909	fem
-fem
-76914	masc/neut
-masc
-masc
-76918	fem
-76927	neut
-76929	masc
-76939	masc
-76955	neut
-76965	masc
-76970	fem
-76992	neut
-77004	masc/neut
-masc
-77016	fem
-77020	fem
-77027	neut
-77032	masc
-masc
-77040	neut
-77043	masc/neut
-neut
-77054	neut
-77061	fem
-77063	fem
-77068	neut
-77083	fem
-77086	masc/neut
-77090	neut
-77096	fem
-77099	neut
-77109	masc
-77114	masc
-77116	masc
-77125	masc
-77129	fem
-fem
-77135	neut
-77139	fem
-fem
-77142	masc/fem
-77148	neut
-77156	fem
-neut
-77160	fem
-77164	masc
-neut
-77169	masc
-neut
-masc
-77178	masc/fem
-77189	fem
-77191	neut
-77204	fem
-neut
-77207	fem
-77215	neut
-masc
-masc
-fem
-fem
-77221	masc
-77224	fem
-77235	masc/fem
-77251	masc
-fem
-77257	masc
-77276	masc
-77279	fem
-77283	masc
-masc/fem
-77295	neut
-77299	masc
-neut
-77312	neut
-77325	fem
-fem
-77328	masc
-77331	neut
-77346	masc
-77358	neut
-77360	masc
-77362	fem
-77379	neut
-masc/neut
-77384	masc
-77386	masc
-77392	masc/fem
-77444	masc
-neut
-77448	fem
-77455	fem
-77458	fem
-fem
-fem
-77472	fem
-masc/fem
-77479	masc
-77484	fem
-77489	neut
-fem
-77497	fem
-77503	masc/fem
-77516	fem
-77524	fem
-77528	masc/fem/neut
-77537	fem
-77541	fem
-77549	masc/neut
-masc/neut
-77553	neut
-77573	masc/neut
-77588	neut
-masc/neut
-77593	neut
-77608	neut
-77615	masc
-77617	fem
-77619	neut
-77627	fem
-77637	masc/fem
-77648	masc
-77658	masc
-77674	masc/fem
-77677	masc
-77686	fem
-77689	neut
-77704	neut
-77708	neut
-77711	fem
-77716	fem
-77720	masc
-77724	fem
-77736	neut
-77741	fem
-77752	fem
-fem
-77759	fem
-77762	masc/neut
-77764	neut
-77769	masc/neut
-77774	masc
-77778	masc/neut
-77784	masc
-77796	fem
-77808	masc
-77814	masc
-masc/neut
-77827	fem
-77830	neut
-77835	neut
-77839	masc
-neut
-77845	neut
-fem
-77850	masc/neut
-77857	masc
-77869	neut
-77871	masc/neut
-masc
-77875	masc
-77885	neut
-77898	fem
-77905	fem
-neut
-77919	fem
-77933	fem
-77937	masc
-77947	neut
-77954	neut
-77961	fem
-77963	fem
-77970	masc/neut
-fem
-77975	fem
-77979	fem
-77981	fem
-77985	neut
-77989	fem
-77993	masc
-77995	fem
-77998	fem
-78001	fem
-78003	masc/neut
-78030	neut
-78039	neut
-fem
-78043	neut
-78046	neut
-78052	masc/neut
-78056	masc
-78058	masc/neut
-masc
-neut
-78063	masc
-78073	fem
-78101	neut
-78103	fem
-78118	fem
-78121	fem
-78126	masc
-78129	fem
-78135	masc
-78139	masc
-78141	fem
-78154	fem
-78164	neut
-78170	fem
-78172	masc
-fem
-78179	neut
-78186	neut
-78190	fem
-78192	fem
-78196	fem
-78202	fem
-78208	fem
-78225	fem
-fem
-78233	masc
-78242	fem
-78274	fem
-78277	fem
-masc/fem
-78290	fem
-78297	masc
-78305	fem
-78310	masc
-78315	fem
-78322	masc
-78325	masc/neut
-78337	masc
-78347	neut
-78373	masc/neut
-masc
-78382	masc/neut
-78384	fem
-78389	fem
-78399	fem
-78403	masc/fem
-78410	neut
-78415	masc/neut
-78420	fem
-masc
-78425	fem
-78427	neut
-78430	masc/fem
-78436	masc
-78443	neut
-78447	neut
-78452	neut
-78456	masc
-78461	masc
-neut
-78467	fem
-78477	fem
-78485	neut
-78489	masc
-78491	neut
-fem
-78496	masc
-78500	fem
-78511	neut
-78515	neut
-78517	masc
-78520	masc/fem
-78526	fem
-78533	neut
-78543	neut
-78554	masc
-78577	neut
-78584	fem
-78591	neut
-78596	fem
-78599	fem
-78605	fem
-fem
-neut
-78611	fem
-78613	fem
-78615	masc
-78618	fem
-78620	masc
-78624	masc/fem/neut
-78626	neut
-78641	neut
-78643	neut
-neut
-78664	neut
-78674	neut
-78676	masc
-78679	fem
-78684	neut
-78687	neut
-78689	neut
-78693	fem
-78709	masc/fem/neut
-78713	fem
-78720	fem
-78725	neut
-78738	masc
-78752	neut
-78760	fem
-78784	neut
-78793	neut
-78805	neut
-78825	neut
-78836	masc
-neut
-78843	neut
-78846	neut
-78848	neut
-78852	fem
-masc
-78858	masc
-78866	neut
-78875	fem
-78882	masc/neut
-neut
-78892	neut
-78911	masc
-78920	fem
-78925	neut
-78944	fem
-78949	fem
-78951	neut
-78956	neut
-78959	masc/fem/neut
-78962	fem
-78981	masc
-78988	neut
-78993	neut
-78999	fem
-79007	masc
-79026	fem
-79044	fem
-79056	masc
-79063	masc
-neut
-79069	masc
-79090	masc
-neut
-79093	masc
-79102	masc
-79108	masc
-79132	masc/fem
-neut
-79141	masc
-79152	masc
-79159	neut
-79162	neut
-79166	masc/neut
-79168	masc
-79171	fem
-79176	masc/fem
-79184	neut
-79186	masc/fem
-79190	fem
-79205	masc/neut
-79221	masc/fem/neut
-79225	fem
-79229	masc
-79231	neut
-79235	neut
-79241	masc/neut
-79245	masc
-79247	masc
-79250	neut
-79255	fem
-neut
-79258	masc
-79262	masc
-79264	neut
-79271	masc/neut
-79279	masc
-fem
-79290	neut
-79294	fem
-79296	masc
-79308	fem
-masc
-79323	fem
-79325	masc/neut
-fem
-79335	neut
-79350	fem
-79359	neut
-79365	neut
-79369	neut
-79377	neut
-79383	masc
-79387	neut
-79395	neut
-79404	neut
-79410	neut
-79419	neut
-79432	masc
-79437	neut
-79442	neut
-79446	neut
-79462	masc
-79471	neut
-79483	neut
-79492	fem
-79500	fem
-neut
-79514	neut
-79520	masc
-79522	neut
-79529	neut
-79531	neut
-79535	neut
-79539	masc
-79542	neut
-79550	neut
-79555	neut
-79560	neut
-neut
-79564	masc/neut
-79567	masc
-79570	neut
-79572	neut
-79574	neut
-79597	fem
-79618	masc/neut
-79626	fem
-fem
-79642	masc
-79662	neut
-79666	neut
-79669	fem
-79678	fem
-79686	fem
-79690	neut
-masc
-79697	fem
-79703	masc
-79711	fem
-79714	masc
-79718	masc
-79723	fem
-79730	masc/fem
-79732	masc
-79744	neut
-79750	fem
-79768	fem
-79773	fem
-79782	masc/fem
-79789	neut
-79807	neut
-79809	fem
-79811	masc
-79814	masc
-79825	neut
-79836	neut
-79847	masc
-79851	masc
-79857	neut
-79862	masc
-79872	neut
-masc
-79878	masc
-79903	fem
-79905	masc/fem
-79914	fem
-79921	masc/fem
-79927	neut
-79937	neut
-79942	masc
-79947	masc
-79954	fem
-79986	masc
-79998	masc
-80003	fem
-80009	neut
-neut
-80017	fem
-80026	fem
-80029	neut
-80034	fem
-80037	neut
-80040	fem
-80054	masc
-80064	masc
-80068	neut
-80076	neut
-80100	masc
-80110	masc/fem
-80115	fem
-80120	neut
-80122	fem
-80124	masc/neut
-80128	masc
-80130	masc/neut
-80132	fem
-80143	fem
-80145	neut
-80150	masc
-80159	neut
-80167	neut
-80169	masc
-masc
-80173	neut
-80179	neut
-80181	neut
-80183	masc
-fem
-80199	neut
-masc
-80204	masc
-masc/neut
-80223	neut
-80230	fem
-80235	neut
-80257	masc
-80265	neut
-80274	masc
-neut
-masc
-80279	neut
-80281	masc
-80283	fem
-80288	masc/neut
-80290	neut
-80292	masc/fem
-80295	fem
-80300	masc
-80307	masc/fem/neut
-80311	masc/fem
-masc
-80314	masc/neut
-masc
-80322	neut
-80325	fem
-80328	masc
-80332	masc/neut
-80334	masc/fem/neut
-80337	masc
-neut
-neut
-80348	masc/fem/neut
-80351	masc/neut
-80353	neut
-80366	masc
-80372	masc/neut
-80375	fem
-80383	masc
-masc/fem
-80389	masc
-80392	fem
-neut
-80396	masc
-80398	neut
-80415	masc/fem/neut
-80419	fem
-80426	fem
-80462	neut
-80465	fem
-80470	masc/neut
-80474	neut
-80478	fem
-80484	masc
-neut
-80489	fem
-80491	fem
-80504	fem
-80510	fem
-80513	neut
-80531	masc
-80534	masc/neut
-80548	neut
-80559	masc
-neut
-80563	neut
-80582	neut
-80588	fem
-80592	neut
-80604	masc/fem
-fem
-80614	masc
-80617	masc
-masc
-80620	masc
-neut
-80640	neut
-80643	neut
-80657	neut
-80659	masc
-80679	fem
-80681	masc/fem
-80703	masc
-80708	fem
-80710	fem
-80713	fem
-80719	masc/neut
-neut
-80726	masc
-80730	neut
-80733	masc
-80736	neut
-80760	neut
-80778	neut
-80783	masc/fem/neut
-80785	neut
-80799	masc/neut
-80803	masc
-80806	masc
-80809	neut
-80816	masc
-80819	masc
-80821	fem
-80824	masc
-80826	neut
-80838	masc/fem
-fem
-80842	neut
-80847	fem
-neut
-80851	masc
-80866	masc
-80869	masc
-80872	masc
-80880	neut
-80886	masc/fem
-80890	neut
-80892	neut
-80908	fem
-80911	fem
-80923	masc
-80925	fem
-fem
-80931	fem
-80934	masc/fem
-80945	masc
-80949	neut
-80952	masc
-80983	fem
-80988	masc
-81009	masc
-81015	fem
-81025	masc/neut
-81036	neut
-81040	neut
-81042	masc
-81046	masc
-81048	masc/fem
-81058	masc
-81066	masc
-81076	neut
-81085	neut
-81094	masc/fem/neut
-81101	masc/neut
-81107	masc
-81120	neut
-81126	fem
-81135	masc
-81137	neut
-81140	neut
-81151	masc
-81153	masc
-81156	neut
-81164	neut
-masc
-81168	neut
-81192	neut
-81203	neut
-81206	neut
-neut
-81224	masc/neut
-81236	masc/neut
-81241	fem
-81250	masc
-81258	neut
-81270	masc
-81274	fem
-fem
-81286	masc/fem/neut
-81292	neut
-81294	masc
-81297	masc/neut
-81299	fem
-81303	neut
-fem
-81306	masc
-81317	fem
-81322	fem
-81335	masc
-fem
-81338	neut
-81359	masc/neut
-masc/neut
-81366	fem
-81378	masc
-81387	masc
-neut
-81390	masc
-81394	masc
-81405	masc/neut
-81410	masc
-81412	masc
-81423	masc
-masc
-masc
-81437	masc
-81440	fem
-81451	masc
-81454	masc
-81459	neut
-81465	fem
-81471	masc
-81474	masc/fem
-81482	masc
-81486	fem
-81501	masc
-fem
-81514	masc/fem/neut
-81519	fem
-81526	fem
-81536	masc
-81539	masc
-81545	masc
-81548	neut
-masc
-81551	masc
-81554	fem
-81567	masc/neut
-neut
-81574	fem
-81576	fem
-fem
-masc
-81583	neut
-81592	fem
-81601	neut
-81624	masc
-81628	neut
-81630	neut
-81642	neut
-81657	masc
-81673	fem
-81677	neut
-81680	neut
-81686	masc
-81690	masc
-81694	masc
-neut
-81699	fem
-neut
-81702	neut
-81712	neut
-81718	masc
-81724	fem
-81740	fem
-81749	neut
-81751	fem
-81756	masc/fem
-81759	masc
-81768	neut
-81778	fem
-81781	masc
-81785	neut
-81795	neut
-81797	fem
-81799	fem
-81803	fem
-81805	fem
-81808	neut
-81817	fem
-81828	neut
-81833	fem
-81839	neut
-81843	masc
-81848	masc/fem
-masc
-81863	neut
-81867	neut
-81872	neut
-81875	neut
-81877	masc
-81880	masc
-neut
-81898	masc/neut
-81903	neut
-81917	masc/neut
-81925	masc
-81936	masc
-81940	masc
-81942	neut
-neut
-81945	neut
-81968	neut
-81981	masc
-81983	masc
-81987	neut
-81994	masc
-82017	masc/neut
-82019	fem
-82039	fem
-82048	fem
-82051	fem
-masc
-82058	neut
-82062	fem
-82074	masc
-82084	fem
-82087	fem
-82089	masc
-82092	fem
-82095	masc/neut
-82113	masc
-masc
-masc
-82118	masc
-82124	masc
-neut
-82139	neut
-82148	masc
-82150	masc/fem
-82152	fem
-82160	masc/neut
-82164	neut
-82169	masc
-82172	masc/fem
-82178	fem
-masc/neut
-82187	fem
-82193	neut
-82198	fem
-82203	fem
-82216	neut
-82220	fem
-82223	fem
-82228	neut
-82235	neut
-82248	masc
-82250	fem
-fem
-82253	masc
-82255	fem
-82261	neut
-82265	neut
-82269	masc
-masc
-82273	fem
-masc
-82281	fem
-82283	masc
-82293	masc/neut
-82308	neut
-82311	fem
-82321	masc
-82324	fem
-82335	masc
-82345	neut
-82347	neut
-82355	masc/fem
-82375	neut
-82400	fem
-82402	fem
-82406	fem
-82408	fem
-82416	masc
-82426	neut
-82441	masc
-82443	masc
-82458	masc
-82471	masc
-82475	neut
-masc
-fem
-82480	masc/fem
-82488	masc/fem
-82494	fem
-neut
-82501	neut
-82519	fem
-82528	masc
-82530	neut
-82532	masc
-82543	neut
-82550	masc
-fem
-82556	neut
-82561	masc
-82568	masc
-82577	neut
-82581	fem
-masc/neut
-82594	neut
-82605	masc/neut
-82612	fem
-fem
-masc/fem
-82630	neut
-82645	masc
-82647	masc
-82656	masc/fem
-82661	fem
-82665	fem
-82671	masc/fem
-fem
-82682	masc
-82686	fem
-82688	fem
-masc/fem
-82698	fem
-82712	fem
-82721	masc
-82724	fem
-82726	masc/neut
-82730	masc/fem
-82733	masc/fem/neut
-82735	masc
-82738	fem
-neut
-82746	neut
-82759	masc/neut
-82765	fem
-masc/fem
-82772	masc
-masc
-82776	fem
-82784	masc
-82792	masc/fem/neut
-82801	masc
-82807	neut
-82809	fem
-fem
-82815	masc/neut
-82818	masc
-82821	masc
-82830	neut
-82834	fem
-82836	fem
-82850	masc
-82854	neut
-82875	masc
-82878	neut
-82881	fem
-fem
-82890	masc/fem
-82892	neut
-82898	fem
-82904	fem
-82910	fem
-82913	fem
-82918	masc
-82923	masc
-82926	masc
-82929	fem
-82932	masc
-82936	masc/neut
-masc
-82950	neut
-neut
-masc
-82956	masc
-82958	neut
-82965	masc/neut
-masc
-82989	fem
-neut
-83002	fem
-83026	neut
-83054	fem
-83059	fem
-83062	masc/neut
-masc
-masc/neut
-83071	masc/neut
-masc
-83077	masc
-83081	neut
-83083	masc
-83097	neut
-83104	fem
-neut
-83110	fem
-masc
-masc/neut
-83114	masc/neut
-masc/neut
-83139	masc
-masc/neut
-83157	masc/neut
-83159	masc/neut
-masc
-masc/neut
-masc
-83164	masc/fem/neut
-83168	neut
-masc
-masc/neut
-83173	masc/neut
-neut
-fem
-83177	masc/neut
-83183	masc/fem
-83187	neut
-83204	masc/neut
-83211	masc
-83214	neut
-masc
-83224	fem
-83228	fem
-83238	fem
-83245	neut
-83250	masc/neut
-83257	fem
-83260	neut
-83265	fem
-83272	masc/fem
-83309	masc
-83321	masc
-83336	neut
-83349	fem
-83356	fem
-83365	masc
-83369	neut
-83374	fem
-83383	fem
-83387	masc/fem/neut
-83400	masc
-83403	masc
-83412	fem
-83415	fem
-83417	fem
-neut
-83438	masc
-83444	neut
-83451	fem
-83456	fem
-83458	fem
-83464	fem
-83469	neut
-83475	fem
-neut
-83486	fem
-83490	neut
-83493	fem
-fem
-83498	fem
-fem
-83506	neut
-masc/neut
-masc
-83511	masc
-83522	fem
-fem
-83539	fem
-83543	masc
-83548	masc
-83551	fem
-83554	neut
-83558	masc
-83560	fem
-83574	fem
-83578	fem
-83582	neut
-83595	neut
-masc
-fem
-fem
-83605	fem
-83618	neut
-neut
-83626	neut
-83628	fem
-83630	fem
-83632	neut
-neut
-83636	neut
-83642	neut
-fem
-83646	fem
-fem
-83654	neut
-neut
-83657	fem
-fem
-83661	masc
-fem
-neut
-83678	masc
-83684	neut
-83691	masc
-83693	neut
-83697	masc/neut
-83702	neut
-83705	fem
-83715	neut
-fem
-83732	neut
-83740	fem
-83747	neut
-83752	fem
-83761	masc
-83777	masc
-83784	neut
-83789	masc/fem
-83791	masc/fem
-83799	neut
-83804	masc
-83808	neut
-83812	masc
-fem
-83819	fem
-83823	fem
-fem
-83838	masc
-83845	fem
-83847	fem
-83852	fem
-83858	masc/neut
-83861	fem
-83863	neut
-83865	fem
-fem
-83869	neut
-83871	masc
-83873	neut
-masc/neut
-masc
-83891	fem
-83894	fem
-83902	neut
-83905	masc
-83909	neut
-83913	masc
-83921	fem
-83925	neut
-83929	neut
-83932	neut
-83937	neut
-masc
-83942	neut
-83944	fem
-83951	neut
-83957	masc
-83965	fem
-83972	masc
-83976	neut
-83979	neut
-83984	fem
-masc
-masc/neut
-83989	neut
-83991	fem
-83993	fem
-83999	fem
-84007	fem
-84013	fem
-masc
-84016	neut
-84019	masc
-84024	neut
-84030	fem
-fem
-84037	masc
-84039	neut
-84045	masc
-84052	neut
-84069	fem
-84072	masc
-84074	neut
-neut
-84077	masc
-84080	neut
-84082	fem
-fem
-84092	fem
-84094	fem
-84104	neut
-84106	masc/fem
-84119	masc/neut
-84125	masc
-84128	fem
-neut
-masc/neut
-84138	neut
-84140	neut
-84144	neut
-84152	neut
-84158	fem
-fem
-84173	masc
-84183	masc/neut
-84185	fem
-84187	neut
-84189	fem
-fem
-84193	fem
-fem
-84217	neut
-84221	fem
-84225	neut
-masc
-84229	neut
-84232	masc
-84235	neut
-84239	neut
-masc
-84244	fem
-84248	neut
-84250	fem
-84252	fem
-fem
-84258	fem
-84260	fem
-84264	fem
-84267	neut
-84269	masc
-84271	fem
-84280	fem
-84293	fem
-84296	neut
-fem
-neut
-84307	neut
-84312	fem
-84314	neut
-84324	fem
-84326	neut
-84328	neut
-84346	masc
-84350	neut
-84352	masc
-masc/neut
-84361	masc
-84372	fem
-84376	neut
-84381	masc
-masc
-84385	neut
-84388	neut
-84399	neut
-84424	neut
-84430	masc
-84433	fem
-84436	neut
-84443	neut
-84449	fem
-84455	masc
-neut
-84467	neut
-84476	neut
-84482	neut
-84497	masc/neut
-neut
-84511	masc
-84514	fem
-neut
-84530	neut
-84534	neut
-84537	neut
-84549	neut
-84551	fem
-84565	neut
-84571	masc/fem
-84574	fem
-84579	fem
-84587	masc
-84589	neut
-84606	fem
-84628	masc
-84656	masc
-84660	masc
-84674	masc/neut
-84678	neut
-84680	fem
-84694	neut
-84699	masc
-84704	fem
-84708	fem
-84710	neut
-84720	fem
-84722	fem
-84727	neut
-84754	masc/neut
-84757	neut
-84762	masc
-84773	fem
-84775	neut
-84777	neut
-84791	neut
-84798	masc/neut
-84803	fem
-84809	masc/fem
-84811	fem
-84816	fem
-84831	fem
-84838	neut
-84857	neut
-84863	fem
-84874	masc
-masc/neut
-84877	fem
-84880	neut
-fem
-84883	masc/neut
-84886	neut
-84889	masc/neut
-84898	masc
-neut
-84901	masc/neut
-masc/neut
-masc
-masc/neut
-84912	fem
-84938	neut
-fem
-84943	fem
-84947	fem
-84951	fem
-84956	neut
-fem
-84965	masc/neut
-neut
-84971	masc/fem
-84974	masc
-neut
-masc/neut
-masc
-84979	neut
-84994	neut
-85005	fem
-neut
-85008	neut
-85011	neut
-masc/neut
-masc
-85015	masc/neut
-85039	neut
-85062	neut
-85064	masc/neut
-masc/neut
-masc
-masc/neut
-85074	fem
-85080	fem
-neut
-85087	neut
-85090	neut
-85096	fem
-neut
-85107	neut
-85111	neut
-85120	neut
-85125	masc
-85157	masc
-85162	fem
-85167	fem
-85175	masc
-masc/neut
-85211	neut
-85214	neut
-85219	masc
-85221	neut
-85233	neut
-85236	masc
-masc/neut
-masc
-85246	fem
-85256	fem
-85262	neut
-85270	masc
-85274	neut
-85281	masc
-85293	fem
-neut
-85296	fem
-85301	fem
-neut
-85308	fem
-85311	neut
-85315	neut
-neut
-masc
-masc/neut
-85320	masc/neut
-masc/neut
-85329	fem
-85345	neut
-85349	masc
-85359	neut
-85368	masc
-85370	fem
-neut
-85399	neut
-neut
-85402	masc/neut
-85414	fem
-85417	neut
-85428	masc
-85430	neut
-85435	neut
-masc
-85439	fem
-85474	masc
-masc
-masc
-85479	fem
-neut
-85484	masc/neut
-85494	fem
-fem
-masc/neut
-fem
-85508	fem
-85511	fem
-fem
-masc/neut
-fem
-85518	neut
-85520	masc/neut
-85534	neut
-85546	neut
-85569	neut
-85591	masc
-85593	neut
-85598	masc/neut
-85602	fem
-fem
-masc/neut
-fem
-85617	fem
-fem
-masc/neut
-fem
-85625	neut
-85635	masc/fem
-85647	fem
-85662	masc/neut
-85669	neut
-fem
-85672	fem
-85684	masc
-masc
-85687	masc/neut
-masc/neut
-85696	neut
-neut
-85706	fem
-85715	neut
-85718	neut
-85726	neut
-85733	neut
-fem
-85737	neut
-85740	neut
-85742	neut
-85763	neut
-85767	masc/neut
-85771	fem
-85775	fem
-85781	neut
-85787	fem
-85790	neut
-fem
-neut
-85799	masc/neut
-85817	fem
-85828	neut
-85830	neut
-85840	neut
-85850	neut
-85858	fem
-neut
-neut
-85862	masc
-85866	fem
-85871	neut
-neut
-85878	masc
-85882	masc
-fem
-neut
-85892	fem
-masc
-fem
-85900	fem
-85902	neut
-85905	neut
-85907	masc
-85915	neut
-85918	neut
-85920	fem
-masc
-neut
-85924	neut
-85936	fem
-neut
-85940	neut
-neut
-85948	fem
-85952	fem
-neut
-neut
-85956	masc
-85959	neut
-neut
-85998	neut
-86007	fem
-fem
-86011	neut
-86014	neut
-86035	masc
-86063	fem
-86067	neut
-86069	neut
-86077	masc
-neut
-86089	neut
-86101	neut
-86136	neut
-masc
-masc/neut
-86140	masc/neut
-masc/neut
-neut
-86158	neut
-86163	masc
-masc
-neut
-86173	masc
-masc
-86176	masc
-86193	neut
-86196	neut
-86222	masc/fem
-86225	neut
-86229	neut
-86231	masc
-86233	neut
-86236	fem
-86240	masc
-86242	neut
-86244	fem
-86266	fem
-86268	masc
-86276	fem
-86278	masc
-masc
-86307	masc/neut
-86316	masc
-86322	masc
-neut
-86329	neut
-86340	fem
-86344	neut
-86347	fem
-masc
-86352	fem
-fem
-86355	masc/neut
-neut
-86363	masc
-86372	neut
-86377	neut
-86404	fem
-86416	neut
-86424	masc/neut
-neut
-86439	masc/neut
-86447	neut
-86449	fem
-fem
-86461	fem
-fem
-86477	fem
-86483	neut
-86485	neut
-86491	fem
-86496	fem
-86498	masc
-86505	neut
-86510	neut
-fem
-fem
-86543	masc/neut
-86556	neut
-86577	masc/neut
-86593	neut
-86595	masc
-86604	neut
-neut
-masc
-86609	masc/fem/neut
-86612	neut
-86616	masc
-neut
-86622	neut
-86626	neut
-86641	masc/fem
-86669	neut
-86672	masc/neut
-86675	masc/neut
-86685	masc/neut
-86694	fem
-neut
-masc/fem
-86700	neut
-masc
-86704	neut
-neut
-86707	neut
-86709	masc
-masc
-neut
-86719	fem
-86726	masc/neut
-86728	fem
-86734	masc/neut
-86750	neut
-86756	fem
-86760	masc
-86766	neut
-86769	fem
-86772	neut
-86794	neut
-86796	fem
-86805	masc
-masc
-86808	masc/neut
-masc/neut
-fem
-86813	masc
-86824	neut
-86843	masc/neut
-86851	neut
-86857	fem
-86860	fem
-86863	fem
-86866	fem
-86869	fem
-86872	fem
-86875	masc
-86880	neut
-masc
-86883	neut
-86885	neut
-86898	neut
-86900	neut
-86907	masc
-86913	neut
-86923	masc
-86928	fem
-86937	fem
-86946	neut
-86949	neut
-86972	masc/neut
-86981	masc
-86983	fem
-86999	neut
-neut
-87018	neut
-neut
-87037	neut
-87042	fem
-87051	fem
-neut
-87055	neut
-87060	masc
-87064	masc
-87078	neut
-87105	neut
-87123	neut
-87140	fem
-87144	neut
-87152	masc
-87158	fem
-87160	fem
-87172	fem
-masc
-fem
-87181	fem
-87185	masc
-87231	neut
-87233	neut
-87239	fem
-87242	masc
-87248	masc
-87252	masc
-87262	masc
-87265	masc/fem
-87279	neut
-87281	fem
-87301	neut
-87303	neut
-87321	neut
-87328	neut
-87335	fem
-87342	fem
-87346	masc
-87348	fem
-87354	neut
-87370	masc
-87382	masc
-87388	masc
-87391	neut
-87397	neut
-87403	fem
-87410	masc
-87415	masc/neut
-87423	masc
-87433	masc
-87435	fem
-87441	masc/neut
-87448	masc/neut
-87453	masc/neut
-87462	neut
-neut
-87468	masc/neut
-masc
-87476	masc/neut
-neut
-neut
-87483	fem
-87497	fem
-neut
-87500	neut
-87509	masc
-87514	neut
-87517	masc
-87519	neut
-87523	masc
-87532	masc/neut
-87555	neut
-87562	masc
-87566	fem
-87570	fem
-87576	masc
-87581	masc/neut
-neut
-fem
-87587	fem
-87590	neut
-87592	masc/neut
-87600	fem
-87604	neut
-87606	fem
-87609	fem
-fem
-87613	fem
-87615	fem
-87622	masc
-masc
-87627	fem
-87630	neut
-87632	neut
-87635	fem
-87646	masc/fem
-87659	fem
-fem
-87668	masc
-87673	neut
-87692	neut
-87706	fem
-neut
-87712	neut
-87715	masc
-87718	masc/neut
-87720	fem
-fem
-masc/neut
-87724	masc
-87736	neut
-87767	fem
-87780	fem
-87782	masc
-87784	masc
-87792	neut
-87805	fem
-87808	fem
-87813	fem
-87815	fem
-87829	masc
-87831	fem
-87837	masc
-fem
-neut
-87841	neut
-87852	fem
-87854	fem
-neut
-87866	fem
-87872	fem
-87879	fem
-87907	fem
-87910	fem
-masc
-fem
-87916	fem
-87922	fem
-87925	fem
-87927	neut
-87933	fem
-87935	neut
-87937	masc
-87943	masc
-87964	masc
-87974	fem
-87976	masc
-87984	masc
-87991	fem
-87994	fem
-87997	masc
-88000	neut
-88003	neut
-masc/neut
-masc
-88008	fem
-88024	masc
-88027	neut
-88037	neut
-88046	neut
-88056	neut
-masc/neut
-88061	neut
-masc/neut
-88069	masc
-neut
-masc/neut
-88079	fem
-88091	neut
-88114	neut
-neut
-88124	fem
-88132	fem
-neut
-88136	masc
-88139	fem
-neut
-88145	neut
-88150	fem
-88153	fem
-88177	neut
-88185	neut
-88205	fem
-88210	fem
-88216	masc
-masc/neut
-88230	neut
-88239	fem
-neut
-88242	fem
-88250	fem
-88252	neut
-88254	masc
-88258	fem
-88260	masc/neut
-88262	neut
-masc
-88270	masc/neut
-88280	fem
-88286	fem
-88289	fem
-88300	neut
-88324	neut
-88334	fem
-fem
-88337	fem
-88339	fem
-neut
-88347	masc
-88349	neut
-88353	masc
-88358	fem
-fem
-88363	neut
-88368	masc/fem
-fem
-88372	neut
-88383	neut
-88389	neut
-masc
-88393	fem
-neut
-88398	neut
-88402	neut
-masc
-88406	fem
-88411	masc
-88432	masc/neut
-88438	fem
-88442	masc
-88446	masc/fem/neut
-88470	fem
-fem
-88487	masc
-fem
-neut
-88493	masc
-88496	masc/neut
-88517	masc
-88519	neut
-fem
-neut
-88523	masc/neut
-88526	neut
-88532	masc
-masc
-88552	fem
-neut
-88560	neut
-88565	fem
-88573	neut
-88582	masc
-88588	masc
-88610	fem
-88618	masc
-88622	neut
-88626	fem
-masc
-88650	neut
-88655	neut
-88658	neut
-88671	masc
-88675	masc
-88678	neut
-88680	neut
-88703	masc
-neut
-88706	masc
-88724	neut
-masc
-88735	masc
-masc/neut
-88738	neut
-fem
-88742	masc
-88749	fem
-88751	masc
-88756	neut
-88758	neut
-fem
-88766	masc/neut
-fem
-neut
-88770	neut
-88772	fem
-88775	fem
-88777	neut
-88781	fem
-88787	fem
-fem
-88793	fem
-88811	masc
-88813	masc
-88817	fem
-88824	masc
-88826	fem
-88836	neut
-neut
-88839	masc
-88842	neut
-neut
-88846	masc
-88849	neut
-88852	neut
-88854	masc
-88857	neut
-88865	neut
-neut
-88871	masc/fem/neut
-88879	neut
-masc
-88887	fem
-88889	fem
-88893	fem
-fem
-88901	neut
-88904	fem
-masc/neut
-88908	neut
-neut
-masc/neut
-88917	neut
-88919	neut
-masc/neut
-88929	masc/neut
-88936	neut
-88941	masc/neut
-88943	neut
-88947	masc/neut
-88949	neut
-88953	neut
-88957	masc/neut
-88962	masc
-88968	fem
-88978	masc/neut
-88986	masc/neut
-88999	masc
-neut
-89003	neut
-89006	fem
-fem
-89011	neut
-89014	masc/neut
-89041	masc/neut
-masc
-neut
-89045	masc
-89053	masc
-89056	masc
-89059	neut
-fem
-neut
-89063	masc/neut
-89066	neut
-89072	masc/neut
-89077	masc
-89082	masc/neut
-89088	fem
-fem
-89094	masc
-89104	neut
-89110	masc
-89118	neut
-89120	fem
-89125	fem
-89127	masc
-89136	masc
-89139	neut
-89141	fem
-89147	neut
-89149	masc/neut
-masc
-89161	neut
-89163	masc/neut
-89169	neut
-neut
-89172	neut
-89176	neut
-89178	neut
-89183	neut
-89186	neut
-89189	neut
-89193	neut
-89199	neut
-89204	masc
-89206	fem
-89209	masc
-89216	masc/neut
-89218	masc
-89227	neut
-masc
-89235	masc
-89239	masc
-89243	fem
-89252	neut
-89256	neut
-89260	masc
-89264	neut
-89279	neut
-masc
-89289	masc
-89293	masc/neut
-masc/neut
-masc
-masc/neut
-89302	neut
-masc
-89305	fem
-89312	masc
-89315	masc
-89317	fem
-89326	fem
-89330	masc
-89333	masc
-89336	fem
-89339	masc
-89345	masc/neut
-89359	neut
-fem
-89363	masc
-89368	masc
-89375	fem
-89380	neut
-89388	neut
-89394	fem
-89405	fem
-89410	fem
-89421	masc/neut
-neut
-89444	fem
-neut
-89459	masc/neut
-masc
-89462	fem
-89466	masc
-89470	fem
-fem
-neut
-89485	masc
-masc
-fem
-89490	masc
-89499	masc
-89509	fem
-89514	fem
-89528	masc
-89530	masc/neut
-89538	masc
-89544	masc
-89555	masc/fem
-89558	masc/neut
-89562	fem
-fem
-89567	fem
-89583	fem
-89585	masc
-masc
-89592	fem
-89595	masc
-89597	fem
-89600	masc/neut
-89603	neut
-masc/neut
-masc
-89614	masc
-89619	neut
-89621	fem
-89623	masc/fem
-89629	masc/fem/neut
-89638	fem
-89643	fem
-89645	fem
-89665	masc/neut
-89667	fem
-89670	neut
-89673	fem
-89677	masc/neut
-89681	fem
-89683	neut
-89685	masc/neut
-masc/neut
-masc
-masc/neut
-89690	neut
-89704	masc
-89714	fem
-neut
-89717	fem
-89723	fem
-89729	fem
-neut
-89735	neut
-89742	masc/neut
-89747	fem
-89750	masc/neut
-89754	fem
-89762	masc/neut
-89765	masc/fem/neut
-89772	masc/neut
-89787	masc
-89792	masc
-masc
-89800	fem
-89807	masc/fem/neut
-89811	fem
-89819	fem
-89822	neut
-89830	fem
-89832	masc
-89836	fem
-89839	fem
-89845	masc/fem
-89856	masc/fem
-89862	masc
-89869	masc/neut
-89873	masc/fem
-masc/neut
-89876	masc
-89883	masc
-89887	masc
-89896	masc/fem
-89902	fem
-89906	masc/neut
-89914	masc/neut
-89920	fem
-89923	masc/neut
-89929	masc/neut
-89938	neut
-masc
-89941	masc
-89948	neut
-89950	fem
-89970	fem
-fem
-89975	masc/neut
-89978	fem
-89985	fem
-fem
-neut
-89997	fem
-masc
-90002	masc/neut
-masc/neut
-masc
-90009	fem
-90012	neut
-90022	fem
-90024	masc/neut
-90035	fem
-90046	neut
-90057	masc/neut
-90059	neut
-90063	masc/neut
-masc/neut
-masc
-90067	masc/neut
-90069	fem
-90071	neut
-90077	masc
-90080	masc
-masc/fem
-90084	fem
-90087	neut
-90092	masc/neut
-90094	fem
-masc/fem
-neut
-masc/fem
-90102	fem
-90104	fem
-90106	neut
-90112	neut
-90117	fem
-90119	neut
-90121	masc
-90126	masc
-masc/neut
-neut
-90137	neut
-90139	masc
-90150	neut
-fem
-90157	neut
-masc
-masc/neut
-90161	fem
-90172	masc/neut
-masc
-neut
-90179	neut
-90191	masc
-masc
-90198	masc/neut
-90202	masc/neut
-masc/neut
-masc
-masc/neut
-90209	fem
-90211	masc/neut
-90219	masc/neut
-90221	masc/neut
-masc
-masc/neut
-masc
-90229	masc/neut
-90239	masc
-masc
-neut
-90252	fem
-90255	masc
-90257	masc/neut
-90262	fem
-90272	masc/neut
-masc/neut
-masc
-masc/neut
-90279	fem
-fem
-90285	fem
-90287	masc/neut
-masc/neut
-masc
-masc/neut
-90292	neut
-90302	masc
-masc/neut
-90305	masc/neut
-masc/neut
-90309	fem
-90311	neut
-90315	masc/neut
-masc/neut
-masc
-masc/neut
-90346	masc/neut
-90352	neut
-90360	neut
-90362	masc/neut
-90370	fem
-90376	masc/neut
-90378	neut
-masc
-90384	masc/neut
-90391	masc/fem/neut
-neut
-90394	masc/neut
-90400	masc/fem
-90405	neut
-90415	fem
-90421	masc/fem
-90428	masc
-90439	neut
-90442	masc/neut
-neut
-90446	neut
-90457	masc/fem
-90467	masc
-90472	masc
-90485	neut
-90500	neut
-90502	neut
-90506	masc
-90508	neut
-90510	neut
-90521	fem
-90530	masc
-masc
-90546	masc
-90552	neut
-90554	neut
-90573	masc/neut
-90575	neut
-90579	neut
-90588	fem
-neut
-90593	neut
-90600	fem
-masc/fem
-90605	neut
-90609	fem
-fem
-90612	fem
-masc/fem
-90617	fem
-fem
-90620	neut
-90622	fem
-90624	neut
-90626	fem
-neut
-90632	fem
-90634	neut
-90643	masc
-masc
-90648	masc/fem
-90660	neut
-90663	masc/neut
-90665	masc
-90668	fem
-90680	masc
-90693	masc
-90696	masc
-masc
-90709	fem
-90711	neut
-90725	fem
-90730	fem
-90732	masc/neut
-90740	fem
-90742	fem
-90754	fem
-90761	fem
-90772	neut
-90779	masc/neut
-90794	masc
-90797	fem
-90801	fem
-90815	fem
-90817	neut
-90822	masc/fem
-90825	neut
-90827	neut
-90833	neut
-90836	fem
-neut
-90844	fem
-90858	fem
-90886	fem
-90890	neut
-masc/fem
-fem
-90906	fem
-90913	fem
-90924	masc
-90926	neut
-90929	neut
-90934	neut
-90943	masc
-masc/neut
-90950	masc
-masc/neut
-90953	masc
-90967	masc
-fem
-fem
-90972	fem
-90977	fem
-90996	neut
-91010	fem
-91012	fem
-91017	fem
-91029	neut
-masc
-91034	fem
-91037	neut
-91042	neut
-91047	neut
-masc
-91050	neut
-91053	neut
-91057	neut
-masc
-neut
-91067	neut
-91076	masc
-91078	masc
-91080	neut
-91105	masc
-91107	neut
-91109	masc
-91112	masc
-masc
-91121	neut
-91130	masc
-masc
-91133	fem
-91135	neut
-91137	neut
-91144	masc
-91154	masc
-91163	masc
-91172	neut
-91176	neut
-fem
-91197	neut
-91199	neut
-91201	fem
-91204	neut
-91223	masc/fem
-91226	fem
-91228	fem
-91235	neut
-91241	neut
-91248	fem
-91251	masc
-91256	masc
-neut
-91265	neut
-91267	masc/neut
-91272	fem
-91285	neut
-masc/neut
-91289	masc/neut
-masc
-91294	fem
-91299	masc/neut
-91302	masc
-91321	masc/neut
-91326	fem
-91328	fem
-91340	neut
-91344	masc
-91352	fem
-91355	neut
-masc
-91360	fem
-fem
-91367	masc
-91372	neut
-91386	neut
-91388	fem
-91391	masc/fem
-91394	masc
-91396	fem
-91405	neut
-91410	masc
-91427	neut
-91430	neut
-91433	masc/neut
-91436	masc
-91446	neut
-91448	fem
-91455	neut
-91465	masc/fem
-neut
-masc
-91472	masc
-91516	fem
-91520	fem
-91527	fem
-91529	neut
-91535	masc
-91542	masc
-masc
-neut
-91548	fem
-91552	fem
-fem
-91556	fem
-91568	masc
-91570	masc/neut
-91572	fem
-91579	masc
-masc
-91593	fem
-91600	fem
-neut
-neut
-masc
-91619	fem
-fem
-91625	fem
-91632	fem
-91639	masc
-91643	neut
-91646	neut
-91648	fem
-91654	masc/fem
-91670	masc/neut
-neut
-91673	masc
-91682	masc
-91686	neut
-91689	masc
-91693	neut
-91698	masc/neut
-masc
-91701	masc/neut
-91708	fem
-91710	masc/neut
-masc/neut
-masc
-91728	fem
-91730	masc/neut
-91732	masc
-91735	masc/neut
-91738	neut
-neut
-91741	neut
-91760	masc/neut
-91762	masc
-91780	fem
-91805	neut
-91816	neut
-91850	neut
-91855	neut
-91857	masc/neut
-fem
-91861	masc/neut
-91875	masc/fem/neut
-91879	neut
-masc
-91890	neut
-91898	neut
-91902	fem
-fem
-91907	neut
-91930	fem
-91943	masc
-neut
-91947	masc
-91951	neut
-91955	fem
-neut
-91961	neut
-91977	neut
-91980	fem
-92005	fem
-92022	masc/neut
-masc
-masc/neut
-92031	masc/neut
-neut
-92037	neut
-92039	neut
-92048	fem
-92053	fem
-92057	neut
-92073	masc/neut
-92075	neut
-masc
-92079	neut
-92084	masc
-92087	fem
-92089	neut
-92095	neut
-fem
-92098	masc/neut
-fem
-masc/neut
-92104	fem
-fem
-92107	masc/neut
-92110	fem
-92116	neut
-neut
-92121	neut
-92127	masc
-92132	neut
-92136	masc/neut
-neut
-92143	neut
-92146	neut
-92153	neut
-92164	neut
-92167	masc/neut
-fem
-92182	fem
-92189	masc
-92193	masc/neut
-92198	masc
-92203	neut
-92220	neut
-92225	masc
-92228	fem
-92232	fem
-92240	neut
-92242	masc
-92245	neut
-92253	fem
-92259	fem
-92278	fem
-neut
-masc
-neut
-92283	fem
-masc/neut
-92288	neut
-92296	fem
-92308	neut
-92311	neut
-92320	fem
-masc
-92323	neut
-92326	masc
-92345	neut
-masc
-92352	neut
-92356	masc/neut
-92373	neut
-masc
-92408	neut
-92410	neut
-92417	fem
-92419	fem
-92425	neut
-fem
-92428	masc/neut
-92433	fem
-92437	neut
-92443	neut
-92446	fem
-92455	fem
-neut
-92479	neut
-masc
-92484	neut
-92493	fem
-92506	fem
-masc
-92511	fem
-92522	fem
-92527	masc/neut
-92531	masc
-92541	neut
-92544	masc/neut
-92548	masc/neut
-92550	masc
-neut
-92556	masc/neut
-92570	masc/neut
-neut
-92576	masc
-92578	masc/neut
-92587	masc/neut
-92593	masc
-92595	neut
-92599	neut
-masc
-92616	neut
-92623	neut
-92625	fem
-92633	masc/neut
-masc
-92638	masc/neut
-92642	fem
-92644	neut
-92652	masc
-92658	neut
-92660	masc
-92666	masc
-92672	masc
-92678	masc
-masc
-92684	masc
-92694	fem
-92697	neut
-92700	fem
-92702	masc/neut
-92706	masc/neut
-neut
-92711	fem
-92721	fem
-92723	fem
-92726	fem
-92729	fem
-92731	masc/neut
-92734	neut
-92741	fem
-92745	fem
-92756	masc/neut
-fem
-92768	neut
-92772	masc/neut
-92780	masc
-92783	neut
-92824	masc
-masc
-92829	neut
-92833	masc
-masc
-92837	neut
-92848	neut
-92851	neut
-92854	neut
-92856	neut
-92863	masc/neut
-fem
-92867	neut
-92870	neut
-92872	fem
-92876	masc
-92885	neut
-92889	fem
-92892	fem
-92911	masc
-92923	neut
-92929	neut
-92939	masc
-92952	masc/fem
-92955	masc/fem
-92958	neut
-92962	fem
-neut
-92970	masc
-masc
-masc
-92975	fem
-neut
-92985	fem
-92991	fem
-92999	fem
-93001	fem
-masc/fem
-neut
-93005	fem
-93007	fem
-93013	neut
-93018	neut
-93025	fem
-neut
-masc/neut
-93030	fem
-93033	neut
-93037	masc
-93043	masc
-93045	fem
-93053	fem
-93058	neut
-masc
-93063	fem
-neut
-93068	masc
-93078	fem
-93081	fem
-93083	masc
-93087	fem
-93094	masc
-93114	masc
-masc/neut
-93119	masc
-93124	masc/neut
-93134	fem
-93139	masc
-93143	masc/neut
-93145	fem
-93168	masc
-93172	masc
-93175	masc/neut
-93192	masc
-93215	neut
-93221	neut
-93229	masc
-93235	masc
-93238	fem
-93244	fem
-93248	fem
-93251	neut
-93255	neut
-neut
-masc
-93259	neut
-neut
-93268	fem
-fem
-93274	masc/neut
-fem
-fem
-93281	masc/neut
-93294	neut
-93298	masc/fem
-93304	masc/neut
-93307	neut
-masc
-fem
-fem
-93312	fem
-93315	masc/fem/neut
-93317	masc
-93326	neut
-masc
-93331	masc
-93349	fem
-93352	masc
-93363	neut
-93378	neut
-93390	masc
-93397	neut
-93404	masc
-93415	masc/fem
-93462	masc/neut
-93470	masc/fem
-93478	neut
-93483	neut
-93486	neut
-93488	masc
-93495	neut
-masc
-93514	neut
-93516	neut
-93540	fem
-93547	masc/fem/neut
-93558	fem
-93561	neut
-masc
-93564	masc/neut
-93572	neut
-93574	masc
-93594	fem
-93601	masc
-93608	fem
-fem
-fem
-93613	neut
-masc
-93620	fem
-93622	neut
-93632	masc/neut
-93638	fem
-fem
-neut
-93649	fem
-93653	neut
-93665	fem
-93670	fem
-93676	masc
-93679	fem
-93690	fem
-93706	masc/neut
-93709	fem
-93715	neut
-masc
-93722	fem
-93730	neut
-93735	fem
-93747	masc/neut
-93764	fem
-93777	masc/neut
-93787	masc/neut
-93789	neut
-93792	neut
-93794	masc
-93797	masc
-93808	neut
-93811	masc
-93814	fem
-93821	fem
-neut
-93827	neut
-93832	neut
-fem
-93835	masc/fem/neut
-93843	fem
-93846	masc/fem/neut
-93851	masc/neut
-93855	masc/fem/neut
-93858	masc
-masc/neut
-93862	masc
-masc/fem/neut
-93867	masc
-93872	neut
-93876	neut
-93878	neut
-93882	neut
-93892	neut
-93896	neut
-93900	neut
-93904	masc/neut
-93906	fem
-93915	fem
-93917	masc
-93921	neut
-93928	neut
-93931	neut
-93961	fem
-neut
-93977	masc/fem/neut
-93986	neut
-94003	masc
-neut
-94006	masc/neut
-94018	fem
-94022	masc
-masc/neut
-94026	fem
-neut
-neut
-94040	fem
-94042	neut
-94045	fem
-94047	neut
-masc
-94053	neut
-94058	masc/neut
-neut
-94066	neut
-94073	fem
-94078	fem
-94086	neut
-94103	masc
-94118	masc
-94122	fem
-fem
-94144	neut
-94149	neut
-94152	neut
-94155	fem
-94162	neut
-94175	masc/neut
-94178	fem
-94185	neut
-94187	neut
-94190	fem
-94192	neut
-94207	fem
-fem
-94212	fem
-neut
-94216	neut
-94218	fem
-94223	neut
-94228	neut
-fem
-94246	fem
-fem
-94256	neut
-94266	masc
-94270	masc/neut
-94291	masc
-94299	masc/neut
-94320	fem
-94336	fem
-94349	fem
-94359	masc/neut
-94364	neut
-neut
-masc
-masc
-94387	masc/neut
-94392	fem
-94401	masc
-94405	fem
-94416	neut
-94420	fem
-94424	neut
-94436	masc/neut
-94452	masc/neut
-94462	masc/neut
-94478	neut
-94480	neut
-94482	masc
-94492	neut
-94514	masc/neut
-94533	fem
-94542	fem
-94544	fem
-94556	fem
-94559	neut
-neut
-94564	fem
-94566	fem
-94575	neut
-94580	masc
-94586	masc
-94588	masc
-94605	masc
-94608	neut
-94610	masc
-94615	neut
-94619	neut
-masc
-fem
-neut
-94628	fem
-94638	neut
-94648	neut
-94676	neut
-94678	fem
-fem
-94683	fem
-neut
-94689	neut
-94703	neut
-94706	fem
-fem
-94709	neut
-94711	fem
-fem
-94715	fem
-neut
-neut
-94722	neut
-masc
-94732	neut
-94745	neut
-94754	neut
-94757	fem
-neut
-94760	neut
-94762	neut
-94772	neut
-94780	neut
-94784	neut
-94794	neut
-94802	neut
-94807	fem
-94810	neut
-94813	fem
-94817	neut
-94820	fem
-fem
-neut
-94824	masc
-94833	fem
-neut
-neut
-94842	fem
-94844	fem
-neut
-94849	masc
-94851	neut
-94857	masc/neut
-94862	fem
-94865	fem
-94867	masc/neut
-94873	fem
-neut
-fem
-94878	fem
-94880	neut
-94883	fem
-94885	fem
-94894	fem
-94896	masc/neut
-94900	fem
-94903	masc/neut
-94908	neut
-94921	fem
-94929	masc
-94931	fem
-fem
-94936	neut
-94939	neut
-fem
-fem
-94946	neut
-fem
-fem
-94953	masc/neut
-94955	fem
-94958	masc
-94962	neut
-94967	masc
-94980	fem
-fem
-95001	fem
-95005	masc/neut
-95008	fem
-95010	fem
-95012	masc
-95019	neut
-95021	fem
-95027	masc
-95034	fem
-95039	neut
-95044	fem
-95046	neut
-95048	fem
-95052	neut
-95054	fem
-95058	masc
-95067	neut
-95069	neut
-fem
-95074	neut
-95091	fem
-95095	fem
-95105	fem
-95121	fem
-neut
-neut
-neut
-95126	neut
-95128	neut
-95139	fem
-95161	neut
-95173	neut
-95177	fem
-95184	masc
-95208	fem
-95214	fem
-95221	fem
-fem
-95227	neut
-95229	masc
-fem
-95243	neut
-95253	neut
-masc
-fem
-95258	neut
-95266	fem
-95268	fem
-95275	neut
-95278	neut
-masc
-fem
-95286	fem
-95293	neut
-95296	fem
-fem
-masc
-95300	fem
-95302	neut
-95308	fem
-95311	fem
-95318	fem
-95326	neut
-95341	neut
-95353	neut
-95355	fem
-neut
-95370	fem
-95373	fem
-masc
-95381	neut
-95394	neut
-masc
-95403	fem
-95405	neut
-95410	fem
-95415	neut
-masc
-fem
-95421	neut
-95424	fem
-95429	neut
-95455	neut
-95458	neut
-masc
-95474	masc
-95480	masc
-95483	neut
-95487	masc/fem/neut
-95491	masc/neut
-95493	fem
-95507	masc
-95513	fem
-95516	fem
-95533	neut
-95539	masc
-95550	masc
-95552	fem
-fem
-95563	fem
-95572	neut
-95575	fem
-95583	masc/neut
-fem
-95592	neut
-95594	neut
-95610	fem
-fem
-95615	fem
-95626	neut
-95628	neut
-95646	fem
-95650	neut
-95655	fem
-95658	neut
-95663	masc/fem
-95665	fem
-95670	neut
-95688	masc/fem
-95691	masc
-95694	neut
-95699	neut
-masc
-95705	fem
-95716	masc
-95723	neut
-95729	fem
-95733	masc/fem/neut
-fem
-95749	neut
-95763	masc
-95772	masc/neut
-neut
-95780	fem
-95791	fem
-95794	neut
-masc/neut
-95797	masc
-95814	fem
-neut
-95819	neut
-95827	masc
-95857	masc/neut
-95861	neut
-masc
-95866	neut
-masc/neut
-neut
-95870	masc
-95872	neut
-95875	neut
-95878	fem
-95881	neut
-95883	masc
-95885	neut
-95899	masc
-95901	masc/neut
-fem
-95921	masc
-95925	neut
-95948	fem
-95951	fem
-95959	fem
-95966	fem
-95984	masc
-95986	neut
-95988	fem
-95995	neut
-95997	fem
-96003	fem
-96006	fem
-masc
-96011	masc
-96015	neut
-96018	masc/neut
-96021	fem
-96023	masc/neut
-96030	neut
-96032	neut
-96035	neut
-96038	masc
-96043	neut
-96052	fem
-masc
-96057	masc
-96060	neut
-fem
-96063	masc/neut
-96069	masc/neut
-neut
-96072	masc
-96075	masc
-96083	masc
-96093	masc
-96096	fem
-96109	fem
-96121	masc
-96131	masc
-96133	masc
-96135	masc/neut
-96146	fem
-96150	fem
-96153	fem
-96156	fem
-96177	neut
-96179	neut
-96189	neut
-neut
-96192	masc
-neut
-96198	fem
-neut
-96204	fem
-neut
-96209	neut
-96215	fem
-neut
-96219	neut
-96221	neut
-96227	masc
-96231	fem
-96233	masc
-96241	fem
-96246	fem
-96249	fem
-96259	masc
-masc
-96262	masc/neut
-masc/neut
-96265	neut
-96286	masc/neut
-96288	fem
-96290	fem
-96292	masc
-96310	masc
-96316	neut
-96322	neut
-96343	masc
-neut
-96359	fem
-96361	fem
-96375	fem
-96378	masc
-96386	neut
-96388	fem
-96390	masc
-96392	neut
-96394	fem
-96407	masc
-96416	fem
-96419	fem
-96428	fem
-96437	fem
-96455	neut
-masc
-96461	neut
-neut
-96470	masc
-96479	neut
-masc
-96485	neut
-96491	neut
-96495	masc
-96499	neut
-96503	masc
-96520	fem
-96522	neut
-96526	fem
-96530	masc
-fem
-fem
-masc
-96559	masc
-96575	masc
-96588	masc
-96594	neut
-96596	neut
-96599	neut
-96604	masc/neut
-96609	masc/neut
-96618	fem
-neut
-fem
-96625	neut
-96633	masc/fem
-96636	neut
-96638	masc/neut
-masc/neut
-masc
-masc/neut
-96654	masc/neut
-96657	neut
-neut
-96660	masc/neut
-96665	masc/neut
-96669	fem
-96684	neut
-96688	masc/neut
-96695	neut
-96702	fem
-96708	neut
-96717	masc/neut
-96720	neut
-96722	neut
-96725	masc
-96733	fem
-96735	fem
-96737	fem
-96741	fem
-96753	neut
-96758	fem
-96766	masc/fem
-96769	fem
-neut
-neut
-masc
-96778	fem
-96787	masc/fem
-96791	neut
-96798	fem
-96800	fem
-96803	masc
-masc/neut
-96807	masc
-96830	fem
-96833	fem
-96839	fem
-96847	fem
-96859	fem
-96862	neut
-masc/neut
-96869	fem
-96874	fem
-neut
-96879	fem
-96904	fem
-96909	neut
-96915	neut
-96922	masc/neut
-96928	fem
-fem
-96932	fem
-96934	fem
-96936	masc/neut
-fem
-96945	fem
-96948	fem
-masc
-96957	neut
-96968	masc
-96973	fem
-96976	masc/neut
-masc
-96979	masc/neut
-fem
-96985	masc/neut
-96987	masc
-masc
-96991	masc/neut
-masc
-neut
-96998	neut
-97017	fem
-97025	masc/neut
-97027	masc/neut
-masc
-masc/neut
-97031	neut
-97036	masc/neut
-masc/neut
-masc
-masc/neut
-neut
-97043	masc
-97048	neut
-masc
-fem
-97054	fem
-masc/neut
-97059	fem
-97064	fem
-neut
-97074	neut
-97077	fem
-97080	masc/neut
-97082	fem
-97084	neut
-97086	masc/neut
-97089	fem
-97091	masc/neut
-97097	masc/neut
-97105	masc/neut
-97112	masc
-97119	fem
-97121	masc/neut
-neut
-97124	masc/neut
-97126	neut
-97139	fem
-97145	masc/neut
-97150	fem
-neut
-97159	fem
-97191	fem
-97197	neut
-97203	masc/neut
-97205	masc/neut
-97207	fem
-97211	masc
-97214	fem
-97216	neut
-97220	masc/neut
-97224	masc/neut
-97228	masc
-97231	masc/neut
-neut
-97254	fem
-97262	fem
-97269	neut
-fem
-97276	fem
-97279	neut
-97281	masc/neut
-97286	masc/neut
-97289	fem
-97291	masc/neut
-masc/neut
-masc
-masc
-97297	fem
-97301	fem
-97309	masc/neut
-97312	fem
-97316	fem
-97319	fem
-97322	masc/neut
-97330	fem
-neut
-97336	fem
-97338	neut
-97354	neut
-97356	neut
-neut
-97359	masc/neut
-neut
-97362	fem
-97368	neut
-97373	masc
-masc
-neut
-97379	masc/neut
-97416	masc/neut
-neut
-97419	neut
-fem
-97424	masc
-97427	fem
-97429	neut
-97432	fem
-97442	masc/neut
-97447	masc
-97451	fem
-97453	neut
-97455	masc/neut
-97461	neut
-97463	masc/neut
-97471	masc/neut
-97474	fem
-97486	fem
-97492	fem
-97495	neut
-97500	neut
-97521	fem
-neut
-fem
-fem
-97527	masc/neut
-97534	masc
-97538	neut
-97540	masc
-97553	fem
-97568	fem
-97572	fem
-neut
-97575	fem
-97578	masc
-97582	fem
-97592	neut
-97596	fem
-97610	masc/neut
-97613	neut
-97620	masc
-97630	fem
-97633	masc/neut
-97639	masc
-97643	fem
-97653	masc
-97655	masc/neut
-97661	masc/neut
-97681	fem
-97689	fem
-97692	masc
-97701	masc/neut
-97705	neut
-masc/neut
-97741	masc
-97759	masc
-97773	fem
-97776	masc/neut
-fem
-fem
-masc/neut
-97786	masc/neut
-97794	neut
-97796	fem
-masc/neut
-fem
-97800	masc/neut
-97821	neut
-97823	masc/neut
-97826	masc
-97828	neut
-97830	fem
-97837	fem
-97839	fem
-97841	masc/neut
-97848	fem
-97858	fem
-97866	fem
-neut
-97887	masc
-neut
-97899	fem
-neut
-97908	fem
-neut
-97916	fem
-neut
-97930	neut
-97938	masc
-neut
-97957	masc
-97978	fem
-97980	fem
-97985	fem
-97991	fem
-97998	neut
-98000	masc
-98003	fem
-98008	masc
-98013	fem
-98017	neut
-98020	masc
-98024	neut
-98026	masc
-98034	masc/neut
-neut
-98043	masc/neut
-98055	masc/neut
-98057	fem
-98069	fem
-fem
-98085	fem
-98087	fem
-98091	fem
-98094	neut
-98103	masc
-masc/neut
-98112	neut
-98118	fem
-98121	masc
-98133	masc/neut
-98136	masc
-98144	masc
-98146	masc
-98150	masc/neut
-neut
-98153	neut
-neut
-98156	neut
-98167	masc/neut
-98178	masc/neut
-98188	fem
-98198	masc/neut
-98205	masc
-98208	masc
-98221	masc
-98228	fem
-98231	masc
-98235	masc/neut
-98240	masc
-98245	neut
-98249	fem
-98252	masc
-98258	masc/neut
-98260	neut
-98263	masc/fem
-98265	fem
-98277	neut
-98290	neut
-neut
-98294	masc
-98297	fem
-98299	masc
-98305	fem
-98307	neut
-98309	fem
-98311	fem
-98314	neut
-98316	masc
-98331	neut
-98333	masc/neut
-98337	neut
-98339	masc/neut
-98341	fem
-98343	fem
-98354	masc
-98358	masc/fem
-98360	masc/neut
-masc/neut
-fem
-fem
-98365	fem
-98367	fem
-fem
-98370	fem
-98372	fem
-98375	fem
-fem
-98379	neut
-neut
-fem
-98383	masc/neut
-neut
-98394	neut
-98404	masc
-masc/neut
-98420	masc
-98424	neut
-98437	masc
-98441	neut
-98444	fem
-98449	neut
-98451	masc/fem
-98461	neut
-98469	masc/neut
-neut
-98475	neut
-98490	masc
-98504	fem
-98511	masc/neut
-98515	fem
-neut
-98520	fem
-98525	masc
-98531	masc/neut
-fem
-98543	masc/neut
-98556	masc/neut
-98575	fem
-98579	masc/neut
-98581	fem
-98584	neut
-98589	neut
-masc
-98598	masc
-98602	masc/neut
-98606	fem
-98617	neut
-98622	neut
-98624	masc
-98633	masc
-98636	fem
-fem
-98641	fem
-fem
-98644	neut
-98649	masc/neut
-fem
-98652	neut
-masc/neut
-98656	masc/fem
-98662	neut
-98666	masc
-98668	masc
-98673	fem
-98675	fem
-98679	masc/fem
-98685	masc/neut
-98691	masc/neut
-98693	masc/neut
-98696	masc/neut
-98705	masc/neut
-98727	fem
-98730	masc
-98732	fem
-masc/neut
-98736	fem
-98739	masc
-98746	neut
-98748	fem
-98756	fem
-neut
-98790	fem
-98803	fem
-98805	fem
-98807	neut
-98809	masc
-98813	neut
-98816	neut
-98819	fem
-neut
-98827	masc/fem
-98856	neut
-98860	masc/neut
-98863	fem
-98865	fem
-neut
-masc/neut
-98872	masc/fem
-98878	masc/neut
-98889	masc
-98908	masc/neut
-98914	neut
-98926	fem
-98932	neut
-98934	neut
-98942	fem
-98953	fem
-98957	masc
-98962	masc
-98964	fem
-98979	masc
-98995	masc
-99001	fem
-99014	neut
-99018	masc/neut
-99029	fem
-99034	masc/neut
-99037	fem
-99044	fem
-masc/neut
-masc
-99049	masc/neut
-99051	fem
-fem
-99055	fem
-99057	masc/neut
-99067	neut
-masc
-99072	fem
-neut
-99078	masc
-99090	fem
-99096	masc/fem
-99098	masc/neut
-99101	masc/neut
-99104	masc/neut
-99112	neut
-99116	fem
-99126	neut
-fem
-fem
-99135	fem
-99139	neut
-99142	neut
-99148	neut
-masc
-99155	masc/neut
-fem
-99158	neut
-masc
-99166	fem
-99178	neut
-masc
-99205	neut
-99214	fem
-99224	masc/neut
-99227	masc/neut
-99229	fem
-neut
-99233	neut
-99239	fem
-masc/neut
-99247	masc
-neut
-99255	masc/neut
-neut
-99261	masc/neut
-99267	neut
-99269	fem
-99274	fem
-99276	masc/neut
-99278	masc
-fem
-99282	fem
-99287	fem
-99292	masc/neut
-99302	neut
-99322	fem
-neut
-99328	fem
-99332	fem
-99334	fem
-neut
-99338	fem
-99345	fem
-neut
-neut
-99351	neut
-99357	masc
-masc/neut
-99377	masc
-99379	masc/neut
-99381	masc/fem
-neut
-99388	fem
-99397	fem
-99407	fem
-99411	fem
-99418	masc/neut
-99434	neut
-99436	masc
-99450	masc/neut
-masc/neut
-masc
-masc/neut
-neut
-99456	fem
-99495	fem
-99508	fem
-99512	neut
-99534	masc/neut
-99538	fem
-99543	fem
-99545	fem
-99548	masc/neut
-99551	fem
-99555	neut
-99561	neut
-99576	masc/neut
-99580	masc
-neut
-99588	fem
-99592	fem
-99600	neut
-99605	neut
-99608	masc
-99617	masc
-99619	masc/neut
-99625	fem
-99627	masc/neut
-99632	masc/neut
-99636	masc/neut
-99641	fem
-99648	fem
-99650	masc/neut
-99653	fem
-99656	neut
-masc/neut
-99660	neut
-99667	masc/neut
-99674	neut
-99679	fem
-99683	fem
-99686	masc
-99691	fem
-99695	masc/neut
-99697	masc
-99699	masc/neut
-99705	masc/neut
-99707	masc/neut
-99710	masc/neut
-99717	masc
-99737	masc/neut
-99740	masc/neut
-99743	neut
-fem
-99750	masc/neut
-99763	masc/neut
-99766	masc/neut
-99770	neut
-99779	neut
-99786	fem
-99796	fem
-99807	fem
-99813	masc/neut
-99826	neut
-masc
-99833	neut
-masc
-99856	neut
-99860	neut
-99862	fem
-99866	fem
-99871	fem
-99876	neut
-masc
-99885	fem
-99892	neut
-99907	masc/neut
-99910	fem
-99914	masc/neut
-99919	fem
-99924	masc/neut
-99928	neut
-fem
-neut
-99937	fem
-fem
-99941	masc/fem/neut
-99944	fem
-neut
-99950	neut
-99958	masc
-99964	masc/neut
-99967	masc
-99969	masc/neut
-99980	fem
-fem
-99983	masc/neut
-99985	fem
-neut
-100007	fem
-neut
-100014	masc/neut
-100016	neut
-100026	fem
-100031	masc
-100034	fem
-100042	fem
-100044	neut
-100052	neut
-100055	fem
-100057	fem
-100060	masc/neut
-100062	fem
-100064	fem
-100073	neut
-100076	neut
-100083	neut
-100089	masc/neut
-100095	fem
-100099	masc/neut
-fem
-100102	fem
-neut
-100110	masc/neut
-100117	neut
-100120	masc/neut
-100124	neut
-100133	masc/neut
-100136	neut
-masc
-100144	masc/neut
-100153	fem
-neut
-100157	neut
-fem
-100165	fem
-100170	masc/fem
-100172	neut
-100177	neut
-100179	neut
-100219	fem
-100223	neut
-100230	masc/fem
-neut
-100237	masc/neut
-100244	fem
-100250	masc/neut
-100256	masc/neut
-100259	fem
-100271	masc/neut
-100275	neut
-100278	masc/neut
-100280	neut
-100282	fem
-100284	masc/neut
-100291	fem
-neut
-100294	neut
-100298	masc/neut
-100302	neut
-100310	neut
-masc
-100313	masc
-100316	neut
-100325	fem
-100330	fem
-100333	masc
-100337	masc
-100343	neut
-100346	masc
-100352	fem
-100354	masc/neut
-100363	masc
-100367	neut
-100383	masc
-100388	masc
-100395	masc
-100406	fem
-100414	fem
-100419	neut
-100423	neut
-fem
-100428	masc
-100432	fem
-100435	masc
-100438	masc/neut
-100441	masc
-100443	fem
-100454	masc
-100458	fem
-100462	neut
-100469	fem
-masc/neut
-100473	neut
-fem
-100485	fem
-neut
-100488	neut
-100491	fem
-neut
-100505	masc
-100515	masc
-100524	masc/neut
-100530	neut
-masc
-100541	masc
-100552	neut
-fem
-100555	fem
-100562	fem
-100569	fem
-100573	masc
-neut
-100580	neut
-masc
-100590	fem
-100596	neut
-100599	masc
-100612	fem
-100627	fem
-100629	neut
-fem
-100633	neut
-100646	masc
-100649	masc
-100652	masc
-100656	masc
-100658	masc/neut
-100660	masc
-100677	masc
-100680	neut
-100689	masc
-100697	masc
-100699	fem
-100708	fem
-100727	neut
-100732	neut
-100738	fem
-100741	fem
-100743	fem
-fem
-100748	masc
-100763	fem
-100768	neut
-100773	masc/neut
-masc
-100776	neut
-100782	neut
-100787	neut
-100789	masc
-100791	masc
-100795	fem
-100799	neut
-100804	neut
-100823	masc/neut
-100827	masc
-100829	masc
-100842	neut
-100848	fem
-100865	neut
-100868	neut
-100875	fem
-100877	fem
-100896	neut
-100902	neut
-fem
-100915	neut
-100936	masc
-100947	masc
-100957	masc
-fem
-100961	fem
-100967	fem
-100978	fem
-100981	masc/neut
-100995	masc/neut
-101003	neut
-101011	masc/neut
-101017	masc
-101023	fem
-101025	fem
-101048	fem
-101051	neut
-101056	masc/neut
-101069	fem
-101076	fem
-masc/neut
-101079	fem
-101083	fem
-101089	masc
-101095	fem
-101102	masc/neut
-101105	fem
-101114	fem
-101116	fem
-101119	fem
-101122	masc/fem
-101126	fem
-101130	fem
-101137	fem
-101139	fem
-101152	neut
-101158	masc
-101160	fem
-101162	neut
-101166	masc/neut
-masc
-101177	fem
-masc
-101200	neut
-101204	fem
-101226	fem
-101230	masc
-101232	masc
-101234	neut
-101240	masc
-101252	neut
-neut
-101267	masc/neut
-101270	fem
-101301	fem
-101308	fem
-101315	neut
-masc
-masc
-101321	fem
-101326	neut
-101328	neut
-101337	masc
-101340	fem
-101352	masc
-101363	neut
-101365	fem
-101369	fem
-101383	masc/neut
-101385	fem
-101391	masc
-101393	masc
-101395	neut
-101399	neut
-masc
-101419	neut
-101427	masc/neut
-101434	fem
-masc
-101441	masc/neut
-masc
-masc/neut
-101445	fem
-101450	fem
-101457	masc/neut
-101463	fem
-101467	neut
-masc
-masc/neut
-101477	fem
-101479	masc
-101495	masc/neut
-101497	masc/neut
-masc
-masc/neut
-101505	neut
-masc/neut
-101509	fem
-101516	neut
-101518	fem
-101523	masc/neut
-101525	fem
-101534	neut
-101541	fem
-101544	masc/neut
-101547	masc
-101556	masc
-101558	fem
-101563	masc
-101565	masc/neut
-101568	neut
-101590	fem
-101599	fem
-fem
-101603	masc
-101612	masc/neut
-101622	masc
-101627	neut
-101630	neut
-101632	fem
-101635	neut
-101644	masc
-masc/neut
-101649	fem
-101651	masc
-101655	neut
-101676	neut
-101680	fem
-101685	neut
-101688	neut
-101697	neut
-101719	fem
-101731	fem
-101740	masc
-101750	fem
-101764	masc/neut
-fem
-101770	neut
-101773	neut
-101779	fem
-101782	fem
-101785	fem
-101797	masc
-101802	neut
-neut
-101805	fem
-101812	masc
-101819	masc
-101821	neut
-101823	masc
-101829	masc
-101835	neut
-101841	masc
-101848	masc
-101851	masc/neut
-101860	fem
-101862	neut
-101865	fem
-101869	neut
-101879	masc/neut
-101883	masc
-masc
-101886	fem
-101889	fem
-101896	fem
-fem
-101902	fem
-101906	masc/neut
-101910	masc
-101916	neut
-101923	masc
-101930	neut
-101933	masc
-101939	masc
-neut
-101947	masc
-101952	fem
-101966	masc
-101970	fem
-101974	masc
-101979	fem
-101988	fem
-101997	neut
-102002	fem
-neut
-102007	neut
-102021	neut
-102031	masc
-102036	masc
-102043	fem
-102045	fem
-102047	neut
-102049	neut
-102054	fem
-102065	fem
-102072	fem
-102077	fem
-102086	neut
-102093	neut
-102095	neut
-102097	masc/neut
-masc
-102102	masc
-102109	masc/neut
-102115	neut
-102121	fem
-102128	masc
-102133	neut
-masc
-102141	fem
-102145	masc
-102151	neut
-102158	masc
-102168	masc
-102176	fem
-102187	masc/neut
-102192	masc/fem/neut
-102199	neut
-102202	neut
-masc
-fem
-102208	masc
-102210	fem
-102215	masc
-masc
-102218	masc
-102224	masc/neut
-102243	fem
-102250	neut
-102257	masc
-102279	neut
-neut
-masc
-102288	fem
-102290	fem
-neut
-neut
-102296	fem
-102298	neut
-102303	neut
-102306	masc
-neut
-fem
-102311	masc
-102317	neut
-102326	masc
-102330	neut
-102346	fem
-neut
-102353	neut
-102356	masc
-neut
-neut
-102363	neut
-102371	neut
-102373	fem
-102377	masc
-fem
-102382	masc
-102387	masc/neut
-masc
-neut
-102393	neut
-masc
-102399	fem
-102401	fem
-102405	fem
-102407	masc
-masc
-102415	neut
-102419	neut
-102434	fem
-102442	masc
-102452	masc
-102455	masc/neut
-102458	masc
-102467	neut
-102469	fem
-102472	masc
-102486	fem
-102497	neut
-102501	neut
-102504	masc
-fem
-102514	masc
-102516	masc
-102520	neut
-102526	neut
-102531	neut
-102534	neut
-102545	neut
-102553	fem
-102557	fem
-neut
-fem
-neut
-102564	fem
-102568	masc
-masc/neut
-102582	masc
-102589	neut
-102592	masc/neut
-102595	masc
-102613	neut
-102617	masc
-masc
-102622	masc
-102624	masc
-102629	fem
-fem
-102634	fem
-102647	masc
-masc
-102652	masc/neut
-neut
-102666	neut
-102673	masc/fem
-102684	fem
-102690	neut
-102694	fem
-102700	neut
-102708	neut
-102728	neut
-102733	neut
-102743	masc/neut
-102746	neut
-102759	neut
-102766	masc
-102769	fem
-102776	masc
-102786	fem
-masc/fem
-102789	fem
-102796	fem
-102799	fem
-102805	fem
-102811	fem
-102815	neut
-masc
-102821	masc/neut
-102827	neut
-102839	masc/neut
-102846	fem
-102855	masc
-102859	neut
-102861	masc/neut
-102865	neut
-102867	masc
-102870	masc/neut
-102876	masc/neut
-102881	fem
-102883	masc
-102886	fem
-102891	masc
-102895	masc
-102905	fem
-102914	masc
-102921	fem
-102928	neut
-102934	masc
-102945	neut
-102950	fem
-102955	fem
-102960	neut
-102965	neut
-102968	neut
-102973	neut
-102978	fem
-102988	neut
-102990	fem
-102998	neut
-103003	fem
-103013	neut
-103015	fem
-103019	neut
-103024	masc/neut
-103028	fem
-fem
-103032	neut
-103034	neut
-fem
-103038	neut
-fem
-fem
-103053	neut
-103061	neut
-neut
-103067	neut
-103075	fem
-neut
-103088	neut
-103108	fem
-masc
-103116	masc
-fem
-103124	neut
-neut
-103127	masc
-fem
-103137	neut
-103140	masc
-103146	masc/neut
-103164	masc
-masc
-103167	masc
-103178	masc
-103180	fem
-103182	fem
-103185	fem
-103191	fem
-neut
-103194	neut
-103201	fem
-103203	masc/neut
-neut
-103208	neut
-103211	fem
-103216	neut
-103228	neut
-103234	masc
-103237	masc
-masc
-fem
-103255	neut
-103260	neut
-103272	masc
-masc/neut
-103275	neut
-103285	fem
-103297	fem
-103301	neut
-103307	neut
-103316	fem
-neut
-103329	fem
-103332	fem
-103338	neut
-103342	fem
-fem
-103354	fem
-neut
-103357	fem
-103362	neut
-masc
-fem
-fem
-103367	fem
-103371	neut
-103386	neut
-103392	masc
-103395	masc/neut
-masc
-103399	fem
-103416	masc
-103420	neut
-103428	masc
-103436	masc
-neut
-103442	fem
-fem
-neut
-103452	masc/neut
-103465	masc
-103490	neut
-103499	masc
-103506	neut
-103512	neut
-neut
-masc
-103524	neut
-103526	masc
-103535	neut
-103538	masc
-103548	masc
-103580	fem
-103587	masc/neut
-103590	fem
-103592	masc
-103599	fem
-103618	masc/neut
-masc/neut
-masc
-masc/neut
-103627	masc
-103631	masc
-103649	masc
-103664	fem
-103667	masc
-103676	masc/neut
-masc/neut
-masc
-masc/neut
-103683	masc/neut
-103688	masc/neut
-masc
-neut
-103700	neut
-103702	masc
-masc
-103711	masc/neut
-103713	masc/neut
-masc
-masc/neut
-103717	neut
-103722	masc/neut
-masc/neut
-masc
-masc/neut
-neut
-103728	fem
-103737	masc
-103740	fem
-103744	masc
-103747	fem
-103751	masc
-103756	fem
-103759	neut
-masc
-masc/neut
-103764	neut
-103778	fem
-103787	neut
-103795	neut
-103804	fem
-103809	fem
-103811	masc/fem
-103817	neut
-103832	fem
-neut
-103836	masc
-fem
-103842	fem
-103853	neut
-103856	fem
-neut
-103859	neut
-103868	fem
-103877	masc
-103886	fem
-103888	masc
-103891	masc/neut
-103908	masc/neut
-103918	fem
-103920	masc
-103924	fem
-103928	masc/neut
-masc
-103942	masc/neut
-103950	neut
-103953	masc/neut
-masc/neut
-masc
-masc/neut
-neut
-103961	fem
-103968	fem
-103975	masc/neut
-103979	fem
-103982	fem
-103988	neut
-104007	fem
-104010	neut
-104022	masc
-104026	fem
-104030	fem
-104060	neut
-104071	neut
-104082	fem
-neut
-104088	fem
-104096	masc/neut
-104101	neut
-104107	neut
-104109	neut
-104130	masc
-104136	masc/neut
-104138	fem
-104144	neut
-104148	fem
-104152	masc
-104154	neut
-104160	neut
-neut
-104168	fem
-104171	fem
-104177	masc
-104189	masc
-masc
-104207	fem
-104209	masc
-masc
-104216	neut
-104222	masc/neut
-104239	masc
-masc
-104246	neut
-104254	neut
-masc
-104257	fem
-104261	masc
-masc
-104266	fem
-masc
-104271	neut
-104277	masc/neut
-104284	masc/fem
-104300	masc
-masc
-104303	masc/fem
-masc
-104306	fem
-104313	masc/neut
-104317	fem
-104319	masc/neut
-neut
-104322	fem
-fem
-neut
-104332	fem
-104351	fem
-104354	masc
-104365	neut
-104370	fem
-104379	fem
-104384	neut
-104390	masc
-104398	neut
-104402	masc/fem
-104409	masc/fem/neut
-104421	masc
-104425	masc/neut
-masc
-104429	fem
-masc
-104432	fem
-104437	masc/neut
-104444	masc
-104450	fem
-104453	neut
-104456	masc/neut
-masc
-104459	masc/neut
-104475	fem
-neut
-neut
-104499	masc/neut
-104521	fem
-104531	masc
-masc
-neut
-104539	neut
-104549	neut
-104559	masc/fem/neut
-104561	fem
-104571	masc/neut
-104575	fem
-104588	fem
-neut
-104602	neut
-104604	fem
-fem
-104610	neut
-104618	masc
-masc
-104621	masc/neut
-masc/neut
-104631	fem
-neut
-104645	masc/neut
-104649	masc/neut
-104651	fem
-masc/neut
-fem
-104661	fem
-neut
-104672	neut
-104678	fem
-104680	neut
-104690	masc
-neut
-104697	masc/neut
-104727	masc/neut
-104731	neut
-104740	neut
-104747	neut
-104753	masc/fem
-104755	fem
-104762	masc
-masc
-104765	fem
-104775	fem
-104777	neut
-104780	masc/neut
-104795	fem
-104809	neut
-104812	neut
-104822	masc/neut
-104824	masc
-104827	neut
-104834	neut
-104838	neut
-104846	masc/neut
-104848	fem
-104850	neut
-104856	masc/neut
-104875	neut
-104879	fem
-fem
-fem
-104884	neut
-104889	neut
-104897	fem
-neut
-104920	masc/fem/neut
-104922	masc
-104929	masc/neut
-104932	masc
-104955	masc/neut
-104986	fem
-neut
-104990	fem
-104992	masc
-104995	neut
-104998	neut
-105001	neut
-105014	fem
-105029	masc/neut
-105031	fem
-105035	fem
-105042	masc
-105052	neut
-105054	fem
-105059	neut
-105064	fem
-105083	masc
-105094	fem
-105097	masc
-105099	fem
-neut
-105102	masc
-105109	neut
-105120	masc/neut
-105127	neut
-masc
-105135	fem
-105141	fem
-105145	masc
-105147	neut
-105149	fem
-fem
-105155	neut
-105161	masc/neut
-105167	neut
-105192	masc/neut
-105214	masc
-105221	fem
-105223	fem
-105226	neut
-105235	masc/neut
-105249	neut
-105252	masc
-105257	fem
-105262	fem
-105269	neut
-masc
-105272	fem
-105277	masc/neut
-105286	neut
-105290	fem
-105306	fem
-105316	neut
-105331	fem
-105333	masc/neut
-105337	fem
-105341	neut
-105345	fem
-105358	fem
-105361	masc
-105367	masc/neut
-105372	neut
-105383	fem
-105389	masc/neut
-105403	fem
-105406	fem
-105408	fem
-masc
-105413	fem
-105415	neut
-fem
-105421	neut
-105430	neut
-105436	fem
-105439	masc
-neut
-masc
-105456	neut
-fem
-fem
-fem
-105461	neut
-105470	fem
-105472	masc/neut
-105498	masc/neut
-105500	masc/neut
-105508	masc/neut
-masc/neut
-masc
-masc/neut
-105515	fem
-105520	masc/neut
-fem
-105525	masc/neut
-105528	masc/neut
-neut
-105537	neut
-masc
-105541	fem
-105548	fem
-105552	masc
-105555	fem
-105558	masc/neut
-105561	masc
-105568	neut
-masc
-105607	neut
-105613	masc
-105615	masc
-105617	fem
-105620	fem
-fem
-105623	neut
-masc
-105632	masc
-105640	neut
-105644	neut
-masc
-105648	neut
-fem
-105671	masc
-105685	masc
-105693	masc
-105695	fem
-105701	masc/neut
-105704	fem
-105708	fem
-105711	fem
-105716	masc/neut
-105718	masc/neut
-105722	masc
-105726	masc/neut
-105732	masc
-fem
-105738	masc
-fem
-105746	masc
-masc
-105751	fem
-105753	masc/neut
-105756	fem
-105761	masc/neut
-masc
-105766	neut
-105768	masc/fem/neut
-105777	masc/neut
-105780	masc
-105789	masc/neut
-105792	fem
-105798	fem
-105802	masc/neut
-105807	neut
-105809	neut
-105815	neut
-masc/neut
-105821	masc
-masc
-masc/fem
-fem
-fem
-105833	neut
-105835	fem
-105837	masc/neut
-neut
-masc
-105853	masc/neut
-105857	neut
-105869	fem
-105876	neut
-105879	masc/fem
-fem
-fem
-105900	fem
-fem
-105907	neut
-105919	fem
-105921	fem
-105930	fem
-masc/neut
-105933	fem
-105941	masc
-105960	neut
-fem
-105965	fem
-fem
-105970	fem
-105983	neut
-106000	fem
-106002	fem
-106006	masc/fem/neut
-106015	fem
-106030	fem
-106041	masc
-106044	fem
-106049	neut
-106053	neut
-106060	masc/neut
-106064	fem
-106070	fem
-106072	masc/neut
-106077	masc/neut
-106089	masc/neut
-masc
-masc/neut
-fem
-106097	masc/neut
-106099	masc
-masc/neut
-106102	masc
-106109	masc/neut
-masc
-106115	masc
-masc
-106120	masc/fem/neut
-106132	masc/neut
-106134	masc/neut
-masc
-masc/neut
-masc
-106145	masc/neut
-106149	fem
-106153	masc/neut
-106162	masc/neut
-106165	masc
-106168	fem
-fem
-106176	neut
-neut
-106181	masc
-106185	fem
-masc/neut
-masc
-106190	masc
-106196	masc/neut
-neut
-106204	fem
-106215	fem
-106223	fem
-106225	masc/fem
-106228	neut
-106233	fem
-106236	masc/neut
-masc
-106242	fem
-106244	masc/neut
-106251	fem
-106254	fem
-106258	fem
-fem
-106267	fem
-masc/neut
-106273	neut
-masc
-masc/neut
-106283	fem
-106286	neut
-fem
-106302	masc
-106318	masc/neut
-106324	masc
-106334	neut
-106344	masc
-106346	masc
-106351	neut
-106357	masc
-106362	masc
-masc/neut
-106375	neut
-106379	fem
-106381	fem
-masc
-106393	neut
-106399	neut
-106401	masc/neut
-106407	masc
-masc/neut
-neut
-106415	neut
-106428	masc
-106434	neut
-106437	neut
-106443	masc
-106476	masc
-106487	masc
-106489	fem
-106494	neut
-106502	masc/neut
-106511	masc/neut
-106514	masc
-masc
-106518	neut
-106524	fem
-106530	masc/neut
-106536	fem
-fem
-106541	fem
-106543	masc/neut
-neut
-106553	fem
-106563	masc/neut
-106569	masc/neut
-106576	neut
-106581	masc/neut
-106612	masc
-106615	masc
-106640	neut
-106646	neut
-106654	fem
-106656	fem
-fem
-106662	fem
-masc
-106672	masc
-masc
-106678	fem
-106684	fem
-106712	neut
-106723	neut
-106729	masc
-neut
-106733	masc
-106739	fem
-fem
-106742	neut
-masc
-106745	masc
-106776	fem
-106782	neut
-masc
-106795	neut
-106828	fem
-masc/neut
-neut
-106835	fem
-106850	masc/neut
-106868	masc/neut
-masc
-106875	masc
-masc/fem/neut
-106878	fem
-106880	masc/neut
-106886	masc
-fem
-106889	masc/neut
-106891	masc
-106894	fem
-fem
-106898	fem
-masc/neut
-masc
-106906	neut
-106915	masc
-106924	fem
-106931	masc/neut
-neut
-106940	neut
-106944	masc/fem
-106948	masc/neut
-106958	fem
-106963	fem
-106968	neut
-106973	masc
-106976	neut
-107002	masc
-107009	masc/neut
-107018	neut
-neut
-107021	masc
-masc/neut
-107032	masc/neut
-107044	masc/neut
-fem
-fem
-107058	masc/fem
-107069	fem
-masc
-masc
-107078	masc
-masc
-107111	neut
-107114	neut
-107119	neut
-107133	neut
-107135	masc
-107143	neut
-107146	neut
-107151	masc/neut
-masc
-107154	masc/neut
-107158	fem
-neut
-107165	masc
-107173	fem
-107180	neut
-107182	masc/neut
-107189	fem
-107212	masc/neut
-107215	fem
-107217	neut
-neut
-107221	neut
-107233	masc/neut
-masc
-107241	neut
-107243	fem
-107251	neut
-107263	masc
-masc
-107277	neut
-107300	fem
-107303	masc/neut
-107318	masc/neut
-107324	neut
-107326	fem
-107329	fem
-107334	fem
-masc
-fem
-107339	masc/neut
-107351	masc
-107353	masc
-107360	masc/neut
-107367	neut
-107376	fem
-neut
-107391	masc/neut
-107402	masc/neut
-107406	masc
-107422	masc
-masc
-107426	fem
-107433	masc/neut
-107440	masc/neut
-107444	neut
-masc
-107456	fem
-107459	fem
-107461	masc/neut
-107465	masc
-107467	fem
-107471	fem
-107473	neut
-masc
-107478	masc/neut
-107480	fem
-107482	masc/neut
-107484	masc
-masc
-107489	fem
-107491	masc/fem
-fem
-fem
-fem
-fem
-fem
-fem
-fem
-masc/fem
-fem
-107511	fem
-107525	neut
-107531	masc/neut
-107535	masc/neut
-107537	neut
-neut
-masc
-107552	neut
-107562	masc/fem
-107579	neut
-107584	neut
-107591	masc
-107596	fem
-107602	neut
-107607	neut
-107610	fem
-fem
-107624	neut
-107638	neut
-107641	fem
-107650	masc/neut
-107653	neut
-107658	neut
-107660	fem
-107662	masc/neut
-107670	neut
-107675	fem
-107677	masc/neut
-neut
-107685	masc
-masc
-107691	fem
-masc/neut
-fem
-107702	neut
-107705	masc
-masc
-107708	fem
-masc
-107714	fem
-107716	masc
-107720	masc
-107728	masc/neut
-masc
-masc/neut
-107734	masc/neut
-107737	masc/neut
-masc
-neut
-107744	neut
-107751	neut
-107754	masc
-107762	masc/neut
-107766	fem
-107768	masc/neut
-masc/neut
-masc
-masc/neut
-107774	masc/neut
-107779	masc/neut
-107781	masc
-masc
-107792	neut
-107807	fem
-107813	fem
-107830	fem
-107839	fem
-107847	masc/neut
-107852	masc/neut
-107855	masc/neut
-neut
-107859	masc/fem
-107861	masc/neut
-107865	fem
-107871	fem
-107876	masc/neut
-107891	fem
-107896	masc/neut
-107898	fem
-fem
-107908	fem
-107913	fem
-107915	neut
-107922	fem
-107930	fem
-107933	fem
-107940	masc/fem/neut
-107946	fem
-107956	fem
-107970	neut
-107973	masc
-107981	neut
-107985	fem
-neut
-107994	fem
-fem
-107997	fem
-108007	fem
-neut
-108021	fem
-neut
-108029	fem
-108034	fem
-108041	fem
-108043	fem
-108048	neut
-108052	neut
-108060	fem
-neut
-108065	neut
-108074	fem
-108079	fem
-108084	fem
-108106	neut
-108110	fem
-108116	masc
-108122	fem
-108140	fem
-108156	masc/neut
-108159	fem
-108164	masc/neut
-108175	fem
-108181	neut
-108190	fem
-108206	neut
-108215	neut
-108231	masc
-108234	fem
-108242	neut
-108246	neut
-108253	neut
-108257	masc
-108263	neut
-108272	fem
-108275	fem
-108281	masc/neut
-108297	fem
-108299	fem
-108305	neut
-108317	masc/neut
-108322	masc
-108333	fem
-108352	masc/neut
-108360	masc
-108362	masc/neut
-108367	masc
-108370	masc
-108382	fem
-108391	fem
-108393	neut
-108395	neut
-108401	neut
-108406	neut
-fem
-108413	neut
-masc
-neut
-108419	neut
-108432	fem
-108446	fem
-108455	masc/neut
-108465	neut
-108476	fem
-108478	fem
-108488	masc/neut
-108490	fem
-108494	masc/fem
-neut
-fem
-108501	masc/neut
-masc/fem
-108507	masc
-masc/fem
-108532	masc
-108535	fem
-108538	fem
-108541	fem
-108544	neut
-108550	fem
-108552	fem
-108559	masc/neut
-108561	fem
-108569	masc
-fem
-108583	fem
-108588	neut
-108591	neut
-108593	neut
-108596	masc
-108599	fem
-108601	fem
-108607	masc
-108619	masc
-108625	fem
-108627	neut
-108631	fem
-neut
-fem
-108664	masc
-fem
-108669	neut
-masc
-108673	fem
-108677	fem
-108681	fem
-108688	fem
-108690	masc/neut
-108694	masc
-108699	neut
-masc
-108702	fem
-108704	masc/neut
-108715	fem
-fem
-fem
-108733	fem
-108735	fem
-108744	masc
-neut
-108754	fem
-neut
-108757	neut
-108764	masc/neut
-108782	masc
-108793	fem
-108796	masc
-108804	neut
-108808	masc
-108825	fem
-108829	neut
-108832	masc/fem
-108837	neut
-masc
-108856	fem
-108859	masc/neut
-108864	masc/neut
-108875	neut
-108878	masc/neut
-108901	masc/neut
-108905	neut
-108908	neut
-108915	neut
-108918	masc/neut
-masc
-108923	fem
-108926	fem
-108930	masc/neut
-108934	masc/neut
-masc
-108945	fem
-108950	neut
-neut
-108957	masc/neut
-masc
-108962	fem
-108964	masc/neut
-108968	masc
-108971	neut
-neut
-108974	neut
-108976	masc/fem/neut
-108988	masc
-108990	neut
-108997	masc/neut
-109002	neut
-109004	masc/neut
-109011	masc/neut
-masc
-109014	neut
-109024	masc
-masc/fem
-109027	masc
-109035	neut
-109039	masc
-109051	neut
-109054	masc/neut
-109056	neut
-109059	masc/fem
-109067	masc/neut
-109088	neut
-109090	masc/neut
-109099	fem
-109103	fem
-109106	neut
-109110	neut
-109119	masc/neut
-109123	fem
-109129	fem
-109131	masc/neut
-109136	masc/neut
-109140	neut
-109147	masc/neut
-neut
-109151	fem
-109154	fem
-109156	neut
-109161	neut
-109163	masc
-109167	masc
-neut
-109171	fem
-109175	masc
-neut
-masc
-109179	masc
-109182	masc
-109188	fem
-109196	fem
-109198	neut
-109200	masc/neut
-109202	masc/neut
-masc
-109207	masc/neut
-109224	neut
-109229	masc/neut
-109239	fem
-fem
-neut
-109243	neut
-109253	fem
-109265	fem
-fem
-109272	fem
-109292	masc/neut
-109296	neut
-109305	fem
-fem
-109309	masc/neut
-109317	fem
-109320	fem
-109322	masc/neut
-masc
-masc
-109335	masc/neut
-109341	masc/neut
-109344	masc/neut
-109360	masc/neut
-masc/neut
-masc
-masc/neut
-109369	masc/neut
-109378	masc/neut
-neut
-109381	masc
-masc/neut
-109386	fem
-109393	fem
-109408	fem
-109411	fem
-masc/neut
-109416	masc/neut
-109421	fem
-109429	fem
-109436	fem
-109440	fem
-109442	masc/neut
-109445	neut
-109448	masc/neut
-109453	fem
-109455	fem
-109460	fem
-109462	masc/neut
-fem
-109466	masc
-109472	fem
-109478	masc/neut
-masc/neut
-109484	fem
-109490	masc
-109511	fem
-109515	fem
-109527	masc/neut
-109530	fem
-neut
-109542	masc/fem/neut
-109547	masc/neut
-109550	fem
-109552	masc
-109558	fem
-109561	masc/neut
-109565	fem
-109568	fem
-109579	masc
-109592	masc/neut
-109595	masc
-109604	fem
-109607	masc/fem
-109615	masc/neut
-109621	neut
-109624	masc/neut
-109631	masc/neut
-109633	neut
-109636	fem
-109641	masc/neut
-109648	masc
-109654	fem
-109658	masc/fem
-109665	masc/neut
-109671	fem
-109677	masc/fem
-masc/neut
-109681	fem
-109683	masc
-109689	neut
-109692	masc
-109694	masc
-109704	fem
-109706	masc/neut
-109711	masc
-fem
-109714	masc
-109720	fem
-109726	fem
-109730	fem
-109733	masc
-neut
-109742	neut
-109747	masc/neut
-109769	fem
-109773	masc
-109782	masc
-masc
-neut
-fem
-fem
-109792	fem
-109799	masc
-109803	masc
-109810	fem
-109819	masc
-109821	fem
-109830	fem
-109838	fem
-109847	masc/neut
-109858	masc/neut
-109867	fem
-109877	fem
-neut
-masc
-109882	masc/neut
-109895	masc/neut
-masc/neut
-masc
-109905	fem
-109907	masc/neut
-109909	fem
-109917	fem
-109924	masc/neut
-109933	masc/neut
-109937	fem
-109943	masc/neut
-109954	neut
-109960	neut
-109962	fem
-109966	neut
-109974	neut
-109976	masc
-109978	masc
-109985	masc/neut
-109989	fem
-neut
-109995	fem
-neut
-109998	masc/neut
-110004	fem
-110006	masc/neut
-110009	masc/fem
-110015	masc/neut
-110017	neut
-110020	masc/neut
-110024	fem
-110029	fem
-neut
-110041	fem
-masc/neut
-neut
-110045	masc/neut
-110047	neut
-110050	neut
-110054	masc/neut
-masc/fem
-110063	masc/neut
-110071	fem
-110075	masc/neut
-110078	fem
-110080	masc
-110084	masc/neut
-110089	fem
-110093	masc/neut
-110096	neut
-110100	masc/neut
-110102	neut
-masc
-masc/neut
-masc
-110109	masc/neut
-110111	fem
-fem
-110114	neut
-masc
-110130	fem
-110134	masc/neut
-110145	masc/neut
-110150	masc/neut
-masc/neut
-masc
-110156	masc/fem/neut
-110162	fem
-110166	masc/neut
-masc
-110172	masc/neut
-110176	fem
-110193	neut
-110195	masc/neut
-masc
-110200	fem
-110203	neut
-110205	masc/neut
-110207	fem
-110213	masc/neut
-110224	neut
-110228	fem
-110230	fem
-110234	masc
-110248	masc
-110261	fem
-neut
-110270	neut
-110277	masc
-110287	fem
-110304	masc
-110317	fem
-110320	fem
-110329	fem
-fem
-110335	masc/neut
-110352	fem
-110363	masc
-110365	masc
-110372	neut
-masc
-110379	neut
-110383	neut
-110385	masc
-110395	masc/neut
-neut
-110398	masc
-110400	masc
-110406	masc/neut
-110412	neut
-110414	neut
-masc
-110429	masc
-110432	masc
-110434	masc
-110437	masc
-110439	masc
-110441	neut
-110450	masc/neut
-110457	masc/neut
-110469	masc
-110483	neut
-neut
-masc/neut
-110496	neut
-110503	fem
-110519	neut
-110521	fem
-neut
-fem
-110535	fem
-110539	fem
-110541	neut
-110546	masc
-110552	masc
-110558	masc
-110564	fem
-110573	fem
-110576	neut
-110579	fem
-neut
-110588	neut
-110590	masc/neut
-masc/neut
-masc
-masc/neut
-110597	masc/neut
-110603	neut
-110614	fem
-110620	fem
-110629	masc/neut
-110631	masc/neut
-110634	fem
-110641	neut
-110643	masc
-fem
-110650	fem
-110660	masc
-110691	fem
-110694	masc
-masc
-110697	fem
-110705	neut
-110709	masc
-110718	neut
-110723	fem
-110727	masc/neut
-110731	fem
-neut
-110741	masc/neut
-masc/neut
-masc
-masc/neut
-110747	neut
-masc
-fem
-110756	masc/neut
-110765	fem
-110767	masc
-110777	masc/neut
-masc/neut
-masc
-masc/neut
-110782	masc/neut
-110790	fem
-110793	fem
-masc/neut
-110796	masc/neut
-masc
-masc
-110807	masc/neut
-masc
-masc/neut
-110816	masc/neut
-110819	neut
-110821	neut
-110823	fem
-110825	masc/neut
-110828	fem
-110833	masc/neut
-110838	fem
-110850	masc/neut
-110857	masc/neut
-110865	fem
-110872	fem
-110874	fem
-110882	masc
-neut
-110888	fem
-110896	masc/neut
-110899	fem
-110901	masc/neut
-masc
-110906	masc
-110917	masc
-110925	masc/neut
-masc/neut
-masc
-110932	neut
-110936	masc/neut
-110957	neut
-110960	masc
-masc/neut
-110963	fem
-110966	fem
-110974	masc/neut
-110976	fem
-110980	neut
-110982	masc/neut
-110985	fem
-110989	masc
-110992	fem
-110998	masc/neut
-masc/neut
-masc
-111007	neut
-111012	masc/neut
-111014	masc/neut
-masc
-masc/neut
-111019	fem
-111025	masc/neut
-masc/neut
-masc
-masc/neut
-111030	masc/neut
-111039	fem
-111046	neut
-111049	neut
-111056	masc/neut
-111058	neut
-111060	fem
-neut
-111063	masc/neut
-111066	fem
-111068	neut
-111071	neut
-neut
-111075	fem
-111077	masc
-111080	neut
-111084	neut
-111088	neut
-111093	neut
-masc
-masc
-111108	neut
-111113	neut
-111117	fem
-111137	neut
-111142	neut
-111145	fem
-111148	fem
-111152	neut
-111155	neut
-masc
-masc
-111173	fem
-111178	masc
-111181	fem
-111199	fem
-111207	neut
-111211	neut
-111220	neut
-111224	masc
-111228	fem
-111241	masc/neut
-111245	masc/neut
-neut
-111248	fem
-neut
-111259	fem
-fem
-111265	fem
-neut
-111269	masc/neut
-111274	masc/neut
-masc/neut
-masc
-masc/neut
-masc
-111289	neut
-111294	masc/neut
-111297	neut
-masc
-masc/neut
-masc
-masc
-111303	neut
-111305	neut
-111307	masc/neut
-neut
-111310	fem
-111321	masc/neut
-111337	masc/neut
-111339	neut
-111342	masc/neut
-111349	fem
-111357	fem
-111362	fem
-111367	neut
-masc
-111371	fem
-111380	masc/neut
-111382	fem
-neut
-fem
-111390	neut
-111392	masc
-111394	masc/neut
-111407	masc/neut
-111415	masc/neut
-masc
-masc/neut
-111419	fem
-111427	neut
-111433	masc/neut
-111440	fem
-neut
-111446	fem
-fem
-111450	neut
-111459	fem
-111465	masc/fem
-masc/neut
-111468	neut
-111481	fem
-111484	neut
-111487	fem
-111491	neut
-111517	masc/neut
-masc
-masc
-111525	fem
-111541	masc/neut
-neut
-111563	neut
-masc
-111571	neut
-111576	neut
-masc
-111580	masc/neut
-neut
-111595	fem
-111598	masc/neut
-masc/neut
-masc
-masc/neut
-111604	masc/neut
-111607	masc/neut
-masc
-111613	masc/neut
-111615	masc/neut
-masc
-111619	masc/neut
-111624	fem
-111626	masc
-111632	masc/neut
-masc
-111635	masc/fem/neut
-masc/neut
-111639	masc
-111645	fem
-111666	fem
-111695	fem
-111699	masc
-111703	neut
-111705	neut
-111707	neut
-111714	neut
-111746	neut
-111748	masc
-111762	masc
-masc
-111765	masc/neut
-masc/neut
-neut
-masc
-111776	neut
-111779	fem
-111784	neut
-111791	fem
-111794	masc/neut
-masc/neut
-111802	masc
-masc
-111805	neut
-111809	masc
-111811	neut
-masc
-masc
-111821	masc
-111825	neut
-111831	masc/neut
-111833	masc
-masc
-111847	neut
-111850	fem
-111870	masc
-111873	neut
-111875	fem
-111877	masc
-111884	fem
-111913	masc
-111924	fem
-111930	neut
-111935	neut
-111943	masc
-111946	neut
-111949	masc/neut
-111953	fem
-111959	fem
-111971	masc
-masc
-neut
-111980	masc
-111990	fem
-111997	fem
-111999	fem
-112019	neut
-112021	fem
-112044	neut
-112057	fem
-112066	masc
-112069	masc
-112074	fem
-112077	fem
-112079	fem
-112083	neut
-112086	neut
-112089	fem
-112097	neut
-112103	masc
-112109	neut
-112125	neut
-112131	masc
-masc
-112150	fem
-112167	fem
-112199	fem
-112204	masc
-112215	fem
-112223	neut
-masc
-112228	fem
-112230	masc
-112232	masc
-masc
-112236	neut
-112242	fem
-112245	masc
-masc
-112248	masc
-112253	masc
-112255	neut
-112275	fem
-112307	neut
-112320	masc/fem/neut
-112322	fem
-masc
-112326	masc
-112332	fem
-neut
-112341	neut
-112345	fem
-neut
-neut
-112350	masc
-112359	neut
-112371	masc/neut
-masc
-112380	fem
-112393	neut
-112396	fem
-112399	neut
-112404	fem
-112408	neut
-112420	neut
-112424	masc
-112432	neut
-112443	masc/neut
-112449	masc/neut
-112457	masc/neut
-112465	fem
-112468	fem
-112472	fem
-112474	fem
-112481	masc
-112485	masc
-neut
-112491	masc
-112500	masc/neut
-fem
-112503	neut
-112507	neut
-112515	masc
-112517	neut
-112522	masc/neut
-112530	masc
-112536	fem
-112542	fem
-112546	fem
-112550	fem
-112556	masc
-112562	masc
-112570	neut
-112573	fem
-112576	fem
-112581	masc
-112591	fem
-fem
-112602	neut
-112607	fem
-112610	fem
-112619	masc
-fem
-112624	masc
-112632	masc
-112639	masc/fem/neut
-112650	fem
-112652	fem
-112658	masc/neut
-112663	neut
-112665	fem
-112668	neut
-112671	fem
-112679	fem
-112686	fem
-112688	masc
-112691	fem
-112695	fem
-112701	fem
-neut
-112708	masc
-112711	fem
-112713	fem
-112719	fem
-112724	fem
-112726	masc
-masc
-112734	masc
-112742	fem
-neut
-112745	masc
-112749	masc
-neut
-112755	neut
-112766	masc
-masc
-112770	neut
-112772	masc
-112775	masc
-112780	neut
-112784	masc/neut
-masc
-112788	masc
-masc
-112796	masc
-neut
-112807	neut
-112816	neut
-112822	masc/neut
-112824	masc
-112826	fem
-112830	fem
-112836	masc/neut
-112839	fem
-112841	fem
-fem
-112845	fem
-112854	masc
-112870	fem
-neut
-112873	masc
-112880	neut
-112886	neut
-112891	masc
-112909	masc/neut
-masc/neut
-masc
-masc/neut
-112920	masc
-112922	masc
-112934	fem
-112939	masc
-112943	fem
-112953	fem
-112963	neut
-fem
-112975	masc
-112993	fem
-113002	neut
-113004	fem
-113015	neut
-113035	neut
-113049	fem
-113051	neut
-113053	masc
-113055	neut
-113060	fem
-neut
-113063	masc/neut
-masc
-113068	masc/fem/neut
-113071	fem
-113074	masc
-113083	masc/neut
-masc/neut
-masc
-masc/neut
-113091	neut
-113096	neut
-113101	masc
-113104	neut
-113115	fem
-113117	masc
-113122	masc
-113143	masc/fem
-neut
-113152	masc
-113159	neut
-113172	neut
-113192	masc/neut
-113195	masc/neut
-masc
-neut
-113205	masc
-masc
-113211	masc
-113217	masc/neut
-masc
-113220	masc/neut
-masc/neut
-113229	masc
-113232	fem
-113246	fem
-113248	masc
-113251	masc/neut
-113253	masc
-113261	masc
-113266	masc
-113270	masc/neut
-113274	fem
-masc/neut
-113279	neut
-113282	masc
-113285	fem
-113287	masc
-113296	masc
-neut
-113301	masc
-113306	masc/fem
-neut
-113317	masc
-113321	masc
-113323	masc/neut
-masc/neut
-113328	neut
-113331	neut
-113334	neut
-113339	fem
-113342	fem
-113345	neut
-fem
-113348	masc/neut
-113350	neut
-masc
-113357	masc/fem
-113359	masc
-masc
-113362	masc
-fem
-113367	neut
-113372	masc/neut
-masc/neut
-masc
-113384	neut
-113398	fem
-113411	neut
-113421	fem
-113425	masc
-113431	fem
-113436	masc
-masc
-113439	fem
-113441	neut
-neut
-113448	masc/fem
-113451	neut
-113455	masc
-113458	fem
-113463	masc
-113465	masc
-neut
-masc
-113471	neut
-113492	neut
-masc
-113495	masc
-neut
-masc/neut
-113501	fem
-113503	fem
-113520	masc
-masc
-113523	fem
-113527	neut
-113529	masc
-113532	neut
-113540	neut
-113544	masc/neut
-masc
-113557	neut
-113564	neut
-113572	masc
-113581	masc
-neut
-masc
-113589	masc
-113592	fem
-113596	neut
-113598	masc
-113602	masc/fem/neut
-113604	fem
-113608	neut
-113614	neut
-113616	neut
-113618	neut
-113628	masc
-masc
-113634	neut
-113649	fem
-113659	masc
-113663	neut
-113670	masc
-113675	neut
-neut
-113687	fem
-113694	neut
-113699	neut
-113701	fem
-113714	fem
-113716	masc
-masc/neut
-neut
-113723	masc
-113725	neut
-113737	masc
-113746	neut
-113750	masc/neut
-113758	fem
-113761	fem
-113764	fem
-113766	fem
-113768	fem
-113772	fem
-113775	fem
-neut
-113792	neut
-masc
-113809	fem
-113811	masc
-113817	fem
-113823	neut
-113826	neut
-113828	masc/neut
-113833	neut
-113846	fem
-113848	neut
-113853	fem
-113867	fem
-113871	neut
-113880	masc
-fem
-113919	masc
-113927	fem
-113929	fem
-113938	fem
-113940	fem
-113954	fem
-fem
-113958	masc
-113967	neut
-fem
-113970	fem
-fem
-113977	fem
-fem
-113989	fem
-113991	fem
-114002	fem
-114006	fem
-114019	neut
-masc
-114024	masc
-114029	masc
-masc
-114034	fem
-114040	masc/fem
-114053	neut
-masc
-114057	neut
-114060	fem
-114063	fem
-fem
-masc
-114069	neut
-114073	masc
-masc
-fem
-neut
-114094	neut
-114099	neut
-masc
-114104	neut
-114108	masc/neut
-masc
-114122	fem
-114124	neut
-114130	neut
-neut
-neut
-114141	neut
-114148	neut
-114162	fem
-114176	neut
-masc
-neut
-114182	masc/neut
-neut
-114186	neut
-114189	neut
-114196	neut
-114208	neut
-114215	neut
-masc/fem
-114220	fem
-neut
-114230	masc/neut
-114236	neut
-114259	fem
-114268	neut
-114275	neut
-114279	neut
-114286	neut
-114291	fem
-114297	neut
-masc
-fem
-114301	fem
-114305	neut
-masc
-neut
-fem
-114315	masc
-114323	fem
-114336	neut
-114338	masc
-114352	neut
-fem
-114362	neut
-masc
-114372	fem
-114377	fem
-114388	masc
-114397	neut
-114402	masc
-neut
-114408	masc
-114413	masc
-114417	masc
-114420	neut
-masc
-114425	masc/neut
-fem
-114429	masc/neut
-114435	masc
-masc/neut
-neut
-114439	masc
-114443	fem
-114453	neut
-masc/fem
-114457	masc
-fem
-114475	masc/neut
-114480	neut
-114490	masc/neut
-masc
-114494	masc/neut
-114496	fem
-114498	masc
-114500	masc
-114502	fem
-114507	neut
-114512	masc
-114523	fem
-114533	neut
-114540	neut
-114548	neut
-114553	neut
-neut
-neut
-114558	neut
-114561	neut
-114575	masc
-114585	masc
-114588	masc
-114597	fem
-114601	fem
-fem
-114606	fem
-neut
-fem
-114613	fem
-114616	fem
-fem
-neut
-114621	masc/fem
-114624	fem
-masc
-114627	masc
-114632	fem
-114642	fem
-neut
-fem
-114656	fem
-114658	neut
-114661	fem
-114663	masc
-114676	neut
-masc
-114683	fem
-114695	fem
-114715	fem
-114723	fem
-114726	masc/neut
-114729	neut
-114735	masc
-114740	neut
-neut
-114744	fem
-114752	neut
-114755	neut
-114763	masc/neut
-masc
-114774	masc
-114778	fem
-114788	masc/neut
-114795	fem
-114803	fem
-114814	masc
-114824	fem
-114835	masc/neut
-masc/neut
-masc
-114842	masc/neut
-114845	fem
-114855	fem
-114862	masc
-114867	masc/neut
-114876	neut
-masc
-114886	fem
-114891	fem
-114894	masc
-114913	neut
-114915	fem
-114918	fem
-neut
-114923	masc/neut
-114931	fem
-114935	neut
-114938	masc
-114940	fem
-neut
-114951	fem
-114953	neut
-masc
-masc/neut
-114958	masc/neut
-114971	neut
-114977	masc
-114981	fem
-114984	masc
-114989	fem
-114991	fem
-114994	fem
-115019	neut
-115021	neut
-115031	masc
-115033	neut
-neut
-115044	masc/fem
-115048	neut
-115050	neut
-115058	masc
-115060	fem
-115065	fem
-115069	neut
-115072	masc
-masc
-115080	fem
-115082	fem
-115087	masc/neut
-115090	masc/neut
-masc
-115094	neut
-115101	masc/neut
-115110	masc/neut
-115115	masc/neut
-115124	masc/neut
-115126	masc/neut
-masc
-masc/neut
-masc
-115135	masc/neut
-115141	fem
-masc/neut
-115152	masc
-115160	fem
-115164	masc/neut
-masc/fem
-fem
-115168	fem
-115173	masc/fem
-115175	masc
-115185	masc/neut
-neut
-fem
-115190	masc/fem/neut
-115192	neut
-115198	masc
-115202	masc
-115205	neut
-115219	masc/neut
-masc
-115222	masc
-115234	masc
-masc
-115240	masc
-115246	masc
-115250	fem
-fem
-115272	masc
-115280	neut
-115284	masc/neut
-115287	neut
-masc
-neut
-115291	neut
-115297	neut
-115302	neut
-115305	neut
-115313	masc
-115319	masc/neut
-115333	masc
-115350	masc
-neut
-115353	neut
-115359	masc/neut
-115362	masc/neut
-neut
-115365	fem
-115368	masc
-115372	masc/neut
-115374	masc
-115376	neut
-115379	fem
-115382	neut
-115387	fem
-115390	neut
-neut
-115394	masc/neut
-115398	masc
-115400	neut
-115404	masc
-masc
-115409	fem
-masc
-115416	masc/neut
-masc
-masc/neut
-115422	masc/neut
-115427	neut
-115438	fem
-115441	masc/fem
-115466	fem
-neut
-115475	neut
-115479	fem
-115488	masc
-115498	masc
-115500	masc
-115508	masc
-115527	masc/fem
-115532	masc
-115544	neut
-masc
-115560	neut
-115562	masc/neut
-neut
-115571	fem
-115577	fem
-115584	neut
-115587	masc
-neut
-115590	neut
-115592	masc/neut
-neut
-115595	neut
-115598	masc/neut
-115603	masc
-115610	masc
-masc/neut
-115613	masc
-115636	neut
-115640	fem
-masc
-masc/neut
-115644	masc/neut
-115646	masc/fem
-115649	masc
-115651	masc
-115654	neut
-115656	fem
-115661	masc/neut
-115664	masc
-masc/neut
-115669	fem
-115673	fem
-neut
-115679	fem
-115684	fem
-115692	neut
-115694	masc
-115700	fem
-115717	neut
-115719	masc/neut
-115724	fem
-115726	masc/neut
-115740	neut
-115759	masc
-115763	neut
-115769	neut
-masc
-115783	neut
-115787	masc
-115794	fem
-neut
-115805	fem
-neut
-fem
-115817	neut
-115838	fem
-neut
-115843	fem
-neut
-115854	fem
-neut
-115863	masc
-115870	fem
-115876	masc
-115880	masc/neut
-115886	fem
-115888	masc
-115901	fem
-fem
-fem
-115906	neut
-115910	fem
-fem
-115921	masc
-115923	neut
-115943	neut
-115949	fem
-115953	masc
-115961	neut
-neut
-115968	fem
-115972	fem
-115975	masc
-115989	masc
-116006	masc/neut
-116008	masc
-neut
-116015	masc
-116025	neut
-116030	neut
-116035	neut
-116040	neut
-116044	neut
-116046	neut
-116050	masc
-116061	masc
-116064	masc
-116073	neut
-116076	neut
-116094	masc
-116096	neut
-116105	masc/neut
-116110	neut
-116112	fem
-116120	masc
-116122	masc/neut
-116127	fem
-116131	masc
-116169	masc/neut
-neut
-fem
-116184	fem
-116195	masc/neut
-116202	masc/neut
-116217	neut
-116222	masc
-116226	masc/neut
-116238	masc
-116242	neut
-masc
-116248	masc
-116253	fem
-fem
-116274	neut
-116294	masc/neut
-116305	neut
-116313	fem
-116321	masc
-116341	masc
-116351	masc
-116353	neut
-116357	fem
-116383	masc
-116391	masc/fem
-116393	fem
-116397	masc
-116404	neut
-116413	masc/neut
-116417	masc
-116426	fem
-neut
-116434	neut
-116451	fem
-neut
-116471	neut
-116473	neut
-116478	masc/fem
-116482	fem
-116500	masc
-116506	masc/fem
-neut
-116509	neut
-116511	fem
-116513	fem
-116519	masc/fem
-neut
-116546	masc/neut
-masc
-116549	neut
-neut
-116565	masc
-116581	fem
-116584	masc
-116590	fem
-116592	neut
-116618	neut
-116636	neut
-masc
-116644	neut
-116655	masc
-116666	neut
-116692	masc
-116698	fem
-116723	neut
-116730	masc/fem
-neut
-116746	neut
-116754	fem
-masc/fem
-fem
-116761	fem
-116771	masc
-116774	neut
-116777	fem
-116783	masc
-116786	fem
-neut
-masc
-116790	neut
-116793	fem
-116795	fem
-116799	masc
-116809	masc/neut
-116821	masc
-116826	masc
-116831	masc
-116833	fem
-116842	neut
-116861	masc
-116870	masc
-116885	fem
-116914	masc
-116924	masc/neut
-116926	fem
-116929	fem
-116938	neut
-116943	masc/neut
-116953	masc
-116957	masc
-116961	masc/neut
-116977	fem
-116980	neut
-116991	neut
-117002	masc
-117004	masc
-117007	masc
-117011	masc
-117018	fem
-117020	neut
-117028	fem
-117031	neut
-117037	neut
-117047	masc
-117052	neut
-117060	masc
-117064	masc
-117076	neut
-117090	masc/neut
-117092	masc
-neut
-117104	neut
-117113	neut
-117119	masc
-117121	fem
-117132	masc
-117151	fem
-117178	neut
-117181	masc
-117195	neut
-117202	fem
-117209	neut
-117214	fem
-117236	fem
-117238	fem
-117243	neut
-117253	neut
-fem
-117261	fem
-117265	neut
-117273	neut
-117278	neut
-117286	neut
-neut
-117293	fem
-117296	neut
-117327	neut
-117329	masc
-117331	neut
-masc
-masc/neut
-117338	masc/fem
-117340	masc
-117342	masc
-117348	neut
-117357	neut
-117359	masc
-117363	neut
-117369	neut
-117375	neut
-117384	masc
-neut
-117394	neut
-117405	masc
-117411	masc
-117419	neut
-117423	neut
-117425	masc/neut
-117429	masc
-117438	neut
-117445	masc
-masc
-masc
-117453	neut
-117458	neut
-117460	neut
-117477	masc
-117485	neut
-117490	fem
-117493	masc/fem
-117513	fem
-117516	masc
-117521	masc/neut
-neut
-fem
-117535	neut
-117538	fem
-117543	neut
-117561	masc/neut
-117568	fem
-117577	masc/fem/neut
-117586	neut
-masc
-117599	fem
-117619	neut
-117622	neut
-117624	fem
-117632	masc
-117635	masc
-117644	neut
-neut
-117650	masc
-117653	neut
-117672	fem
-fem
-117687	fem
-117690	masc
-117701	masc
-117705	neut
-117712	fem
-117714	fem
-117719	fem
-117725	neut
-117733	masc
-117735	fem
-117737	masc
-neut
-117740	fem
-117749	fem
-117752	masc
-117759	fem
-117763	fem
-117770	masc
-117790	masc
-117793	masc
-neut
-117796	masc/neut
-117800	fem
-117802	fem
-neut
-masc/fem
-117808	fem
-117811	neut
-fem
-117823	fem
-117835	fem
-fem
-117843	neut
-117846	fem
-fem
-117852	masc
-117854	fem
-117857	fem
-117860	masc
-117863	fem
-117869	neut
-fem
-fem
-fem
-masc/fem/neut
-117893	fem
-117896	fem
-fem
-117899	fem
-117908	masc
-117917	neut
-117926	fem
-117928	neut
-117931	masc
-117935	masc
-117944	neut
-117950	masc/fem/neut
-117968	masc/fem/neut
-117972	fem
-117975	masc/neut
-117992	neut
-118010	fem
-masc
-118017	neut
-neut
-118032	fem
-118035	masc
-118038	neut
-118046	fem
-fem
-118055	masc
-118057	masc
-118075	masc/neut
-118077	neut
-118082	neut
-118085	neut
-118088	masc/neut
-118090	masc
-118097	masc
-neut
-118112	fem
-118114	masc
-118118	masc
-118135	neut
-118140	neut
-118142	neut
-118145	fem
-fem
-fem
-118154	masc
-neut
-118159	masc
-118170	masc
-118183	neut
-118187	masc
-118196	fem
-neut
-118204	neut
-fem
-fem
-118211	masc
-118217	neut
-118219	neut
-118230	fem
-118239	fem
-118241	fem
-118245	neut
-118252	fem
-masc
-fem
-118269	masc/neut
-118276	neut
-118280	fem
-fem
-118293	masc
-118306	neut
-118308	fem
-118325	neut
-masc
-118344	fem
-118347	neut
-118351	neut
-118369	masc
-118378	neut
-118380	fem
-118384	neut
-118393	neut
-118399	masc
-118401	masc
-118437	neut
-118440	fem
-masc/neut
-118443	masc
-neut
-fem
-118455	fem
-118458	neut
-118468	fem
-masc/neut
-118472	neut
-118482	neut
-118487	masc
-masc/neut
-118490	masc
-118496	fem
-118503	fem
-118513	neut
-118521	fem
-118527	fem
-118529	masc
-118534	masc
-118547	masc/fem
-118552	masc
-118558	fem
-118566	fem
-118569	masc
-118575	fem
-118580	fem
-118585	neut
-fem
-118590	fem
-118600	neut
-118611	masc/fem/neut
-118615	masc
-118618	masc/fem
-118622	neut
-neut
-118632	fem
-118651	fem
-118663	neut
-118666	neut
-118675	fem
-118681	fem
-118686	masc
-118694	fem
-118698	masc/neut
-118705	fem
-118708	neut
-118710	fem
-neut
-118726	masc
-118728	masc
-118730	masc/fem/neut
-118740	neut
-118751	masc
-118773	masc
-118788	fem
-118813	neut
-118820	masc/neut
-118830	fem
-masc
-118836	masc/neut
-118847	fem
-118856	neut
-118859	neut
-118865	neut
-118873	neut
-118877	fem
-neut
-118907	masc
-118909	fem
-118924	fem
-neut
-118928	neut
-118951	fem
-118964	neut
-118986	neut
-118994	fem
-119016	neut
-119021	fem
-119036	masc
-119039	fem
-119046	masc
-119071	neut
-119073	fem
-119083	neut
-119087	masc
-119100	fem
-119105	neut
-119108	fem
-119110	fem
-neut
-119115	masc
-fem
-119118	neut
-119135	neut
-masc/fem
-119143	masc
-119145	fem
-masc
-masc/neut
-neut
-119150	masc/neut
-119174	neut
-119178	fem
-119183	fem
-119191	neut
-119193	neut
-119200	neut
-119204	masc
-119207	neut
-119210	fem
-119213	neut
-119221	fem
-119232	fem
-119244	masc
-119248	fem
-119250	masc
-119264	fem
-masc
-119277	masc
-119284	masc
-fem
-masc
-119315	masc/neut
-119321	fem
-119327	neut
-119329	masc
-119334	masc
-119336	fem
-119347	neut
-119349	fem
-119352	fem
-fem
-119356	fem
-119359	neut
-fem
-119363	fem
-119365	masc
-119367	neut
-fem
-fem
-119376	fem
-fem
-119379	fem
-119385	fem
-119390	masc
-119397	neut
-neut
-119411	masc
-masc/fem
-neut
-119416	fem
-119439	masc
-119446	masc
-119462	masc
-fem
-119467	fem
-119469	masc
-119490	neut
-119504	masc
-119508	neut
-119518	masc/neut
-119525	masc/neut
-119532	neut
-masc/fem
-119535	masc
-119538	neut
-119547	masc
-masc/fem
-119570	fem
-119593	masc/neut
-119617	masc/neut
-119626	masc
-119630	neut
-119641	neut
-119659	neut
-119670	masc/neut
-119673	fem
-119681	fem
-119683	neut
-119686	masc
-119691	fem
-neut
-119697	neut
-119708	fem
-119710	neut
-119714	neut
-119721	neut
-119733	fem
-119736	fem
-fem
-119741	fem
-119745	fem
-masc/neut
-119767	masc
-masc
-119771	fem
-119785	neut
-119788	masc
-119802	fem
-fem
-119807	neut
-119822	masc
-119845	masc
-119856	neut
-119858	masc
-119868	neut
-masc
-119877	neut
-neut
-119880	fem
-119887	masc
-fem
-119891	masc
-119901	fem
-119905	fem
-119907	masc
-119913	neut
-119934	masc
-119940	fem
-119949	masc
-119975	fem
-119977	fem
-119979	fem
-119991	fem
-119996	neut
-119998	masc/neut
-120003	masc/neut
-120008	neut
-120017	fem
-120029	neut
-120034	fem
-120042	neut
-120045	neut
-120055	masc
-120060	masc
-120064	fem
-120066	masc
-120078	masc/neut
-120089	masc/neut
-120095	masc
-masc
-120100	neut
-120112	masc
-120124	masc
-120127	masc
-120134	masc
-120141	fem
-120147	fem
-fem
-neut
-120151	masc
-120153	fem
-120161	masc
-120164	neut
-120189	fem
-120201	neut
-120224	neut
-120229	masc/neut
-120238	masc/neut
-120256	masc/neut
-120259	neut
-fem
-120265	masc
-120277	neut
-120282	neut
-120285	fem
-120289	masc
-120297	masc
-masc/neut
-120301	fem
-120309	fem
-120311	masc
-120313	masc/fem
-120316	neut
-120318	neut
-masc
-masc/neut
-120322	fem
-120332	fem
-120341	neut
-masc/neut
-120348	masc/neut
-120353	neut
-120357	fem
-120362	masc/neut
-120368	fem
-masc
-120377	masc/neut
-120381	masc/neut
-masc
-masc/neut
-120393	fem
-120403	neut
-120405	neut
-masc/neut
-120411	fem
-120414	masc
-120428	masc/neut
-120432	neut
-120447	fem
-120450	neut
-120455	masc
-120462	neut
-120465	neut
-120468	neut
-120470	masc/neut
-120475	fem
-120481	neut
-120483	neut
-120487	neut
-120489	neut
-120494	fem
-120496	neut
-120503	neut
-120518	fem
-120526	neut
-120533	masc/fem
-120538	neut
-120554	neut
-120558	neut
-120563	neut
-120579	fem
-neut
-120584	fem
-120586	neut
-120590	masc
-120595	fem
-120599	neut
-120620	fem
-120622	fem
-120626	fem
-120628	masc/fem
-120660	fem
-120663	neut
-120676	masc/neut
-120679	fem
-120687	neut
-120699	masc/neut
-120706	masc
-120717	neut
-120739	fem
-120749	fem
-120752	masc
-120757	fem
-120760	neut
-120763	neut
-120767	fem
-120773	fem
-120776	fem
-fem
-120793	masc/neut
-masc/neut
-masc
-masc/neut
-120799	neut
-120804	masc/neut
-120831	masc
-120851	fem
-120853	fem
-120859	neut
-120868	fem
-120872	fem
-120882	neut
-120884	masc
-120886	masc/neut
-masc/neut
-120891	fem
-120898	masc
-120901	neut
-120903	fem
-120909	neut
-120911	masc
-120914	masc
-masc/neut
-120917	neut
-masc
-120933	masc
-120944	neut
-120947	masc
-120951	masc
-fem
-120968	neut
-120973	fem
-120980	masc
-120982	masc
-120989	neut
-120999	masc
-fem
-121004	neut
-121014	masc
-121020	masc/neut
-121031	fem
-fem
-121040	fem
-121042	neut
-121046	neut
-121056	masc
-121059	neut
-121063	masc/neut
-121067	masc
-masc
-121078	neut
-121081	neut
-121083	masc
-121086	fem
-neut
-121097	neut
-fem
-121106	neut
-121108	masc/neut
-121120	masc
-121122	neut
-fem
-121133	fem
-121138	fem
-neut
-fem
-fem
-121157	neut
-121167	masc
-121171	fem
-121183	fem
-121190	masc
-121194	fem
-121198	neut
-121200	masc
-121207	neut
-121211	fem
-121227	neut
-121237	fem
-121244	masc/fem
-121246	neut
-121249	fem
-121253	fem
-121255	fem
-neut
-121259	masc
-masc
-fem
-121267	fem
-121274	fem
-fem
-neut
-121280	neut
-121289	fem
-fem
-121292	neut
-121296	fem
-fem
-121302	masc/neut
-fem
-121305	neut
-121319	fem
-121322	neut
-121329	masc
-121334	fem
-121339	fem
-121342	masc
-121347	masc
-121353	masc
-121361	fem
-121374	masc
-121382	fem
-fem
-121396	masc
-121404	fem
-121413	neut
-121419	fem
-121421	fem
-121437	masc/neut
-121442	neut
-121444	fem
-121448	fem
-121455	masc/fem
-121464	neut
-masc
-121467	fem
-121471	masc
-121477	masc/fem
-masc/fem
-121480	masc
-121483	masc
-121493	masc/neut
-121495	neut
-121498	neut
-121507	masc/neut
-121513	masc/neut
-121530	neut
-121534	fem
-121540	masc
-121546	masc/neut
-121551	neut
-fem
-neut
-121556	fem
-121561	neut
-121574	neut
-masc
-fem
-neut
-121587	masc/fem
-121594	neut
-121613	masc/neut
-121632	neut
-masc
-masc/neut
-121639	fem
-121642	fem
-121644	neut
-masc/neut
-121648	fem
-masc
-121651	fem
-121653	neut
-masc
-121657	neut
-121681	neut
-121690	neut
-neut
-121693	masc
-121696	masc
-masc
-121719	fem
-fem
-121722	masc/neut
-121726	fem
-121736	fem
-neut
-neut
-masc
-121754	masc/neut
-fem
-121758	fem
-121762	neut
-121766	masc/neut
-neut
-121772	masc
-121779	masc/neut
-121782	neut
-121784	masc/neut
-121787	fem
-121789	masc/neut
-121792	neut
-121794	masc/neut
-121796	neut
-121800	neut
-121802	fem
-121804	masc
-121811	masc/neut
-121819	neut
-121824	masc/neut
-121827	masc/neut
-neut
-121831	masc/neut
-121834	fem
-fem
-121839	fem
-121841	masc/neut
-121853	masc/neut
-121855	fem
-masc
-121860	neut
-121867	fem
-121871	masc/neut
-121873	neut
-121884	fem
-121895	masc/neut
-neut
-fem
-121900	masc/neut
-121906	fem
-121911	neut
-121915	masc
-121927	masc/fem
-121932	masc/neut
-121944	masc/neut
-121946	neut
-121949	neut
-masc
-121952	masc
-121968	masc/fem
-121972	masc/neut
-122001	fem
-122012	masc/neut
-122014	fem
-neut
-122024	neut
-masc
-122040	fem
-122051	masc/fem
-masc/fem
-122066	masc/fem
-122068	fem
-122074	neut
-122079	fem
-122087	neut
-122094	fem
-122100	neut
-neut
-122116	neut
-122119	masc
-masc/neut
-122123	masc
-122126	fem
-fem
-122129	fem
-neut
-122142	masc
-masc/neut
-122150	neut
-122155	masc/neut
-masc/neut
-masc
-masc/neut
-neut
-neut
-122164	masc
-122166	fem
-122169	neut
-122172	masc
-masc/neut
-122175	fem
-122187	fem
-122190	fem
-122193	neut
-122208	masc
-122215	neut
-masc/neut
-122223	neut
-122235	fem
-masc
-masc/neut
-122268	masc
-122272	fem
-122277	masc/fem
-122279	masc
-122286	masc/neut
-122288	fem
-122290	masc
-122296	masc
-122299	neut
-122305	fem
-fem
-122310	neut
-122313	fem
-122321	fem
-122331	masc/neut
-122333	masc
-122341	fem
-masc
-masc/neut
-122353	fem
-masc/neut
-122357	neut
-122360	fem
-122373	neut
-122375	neut
-122383	neut
-122386	masc
-122392	masc/neut
-122396	neut
-122406	masc/neut
-122417	masc/neut
-122421	masc
-122428	masc
-122430	fem
-122436	masc
-122441	fem
-122445	neut
-122449	masc/neut
-122454	masc
-122457	masc/neut
-122463	fem
-122475	masc/fem
-122479	neut
-122486	fem
-122491	fem
-122498	neut
-122507	masc/neut
-122520	fem
-122523	fem
-122526	neut
-122533	fem
-122541	fem
-122551	neut
-122553	neut
-masc
-122564	neut
-122575	neut
-122582	fem
-122585	neut
-masc
-masc/neut
-122591	masc
-122595	neut
-122601	neut
-122610	fem
-122619	masc
-122630	fem
-122632	masc/fem
-122645	neut
-122659	fem
-122666	masc/fem
-masc
-122674	masc
-122689	masc
-122692	neut
-122697	masc/neut
-122702	fem
-122707	masc/neut
-122712	fem
-122717	masc
-122719	fem
-122724	fem
-neut
-122727	masc
-122744	neut
-122748	fem
-122752	neut
-122779	masc
-122784	masc
-122806	neut
-122814	neut
-122830	neut
-122836	neut
-122838	masc
-122841	masc/neut
-122854	fem
-122872	masc
-122876	masc/neut
-122909	neut
-122912	masc/neut
-masc
-122915	fem
-122918	masc/neut
-122926	neut
-122929	masc
-122940	masc/neut
-122944	neut
-122947	masc
-122950	neut
-122956	neut
-122971	neut
-122977	masc
-122979	fem
-122982	fem
-122985	masc
-122988	fem
-122991	masc/neut
-122997	masc/fem
-122999	fem
-123007	fem
-123009	masc
-123011	masc
-123013	neut
-123017	neut
-123033	masc/neut
-123055	neut
-123062	neut
-123066	masc
-123069	fem
-123073	fem
-123094	neut
-123096	masc/neut
-123104	fem
-123107	masc/neut
-123110	fem
-masc
-123113	neut
-fem
-fem
-neut
-123119	fem
-123125	neut
-123131	fem
-123136	masc
-123139	masc
-123144	masc/neut
-masc/fem
-123152	fem
-123172	masc
-123174	masc/neut
-123178	masc
-123186	fem
-123192	neut
-123194	masc
-123197	neut
-123203	fem
-123223	masc
-neut
-123226	fem
-123247	fem
-masc
-123261	masc
-123264	masc
-masc/neut
-123269	fem
-123274	masc/neut
-123276	masc
-123281	masc/neut
-123291	neut
-neut
-neut
-123313	neut
-123327	neut
-123336	masc/neut
-123344	masc/fem
-123363	neut
-fem
-123366	masc/neut
-123368	neut
-masc
-123388	neut
-123390	neut
-123394	neut
-123407	masc
-123411	masc
-123418	fem
-123428	neut
-123434	neut
-123436	neut
-masc
-masc/neut
-123441	fem
-123458	fem
-123464	masc
-123472	masc/neut
-123479	fem
-123489	masc/neut
-123491	neut
-123501	fem
-123506	masc/neut
-123526	masc
-123531	neut
-neut
-123545	masc
-123547	masc/neut
-123559	neut
-123563	neut
-masc/fem
-123571	masc
-123573	neut
-123575	fem
-123578	neut
-123583	fem
-123591	neut
-123594	masc/fem
-123597	masc/neut
-123599	neut
-123610	masc
-123617	neut
-masc
-123622	masc/fem
-123627	masc
-123643	masc
-masc
-123653	neut
-neut
-123666	fem
-123671	fem
-123675	fem
-123678	masc/neut
-123682	neut
-123686	masc/neut
-123689	neut
-123691	masc/neut
-123694	masc
-123698	masc/fem
-123704	fem
-123706	fem
-fem
-123714	masc/neut
-123717	neut
-123722	neut
-123724	fem
-123727	neut
-123731	masc
-123748	fem
-123752	neut
-123757	neut
-123759	masc
-123761	masc
-123764	neut
-123772	fem
-fem
-123775	fem
-123779	neut
-123792	masc
-123798	masc
-masc/neut
-123802	masc/fem
-123809	masc/neut
-123812	masc
-masc/neut
-123820	fem
-123824	masc
-123826	masc/neut
-masc/neut
-123829	fem
-neut
-masc/fem
-123833	fem
-123836	fem
-123842	neut
-123847	fem
-123854	fem
-fem
-123857	fem
-masc/fem
-123862	neut
-123865	fem
-123875	masc
-123881	fem
-123886	fem
-masc/neut
-123899	fem
-123933	masc/fem
-fem
-123940	masc/neut
-masc/neut
-masc
-masc/neut
-123960	neut
-123966	masc/neut
-123978	masc
-123984	fem
-123988	neut
-fem
-123991	masc/neut
-masc/neut
-123995	masc
-masc/neut
-124000	fem
-124011	fem
-masc
-124023	fem
-124025	fem
-124027	neut
-124030	fem
-124037	neut
-masc
-masc/neut
-masc
-masc
-124049	fem
-124052	fem
-neut
-124067	masc/neut
-masc/neut
-masc
-masc/neut
-124082	neut
-124096	neut
-124099	neut
-124116	fem
-124123	neut
-124126	neut
-124131	masc
-124140	fem
-124142	neut
-124150	masc/neut
-124152	masc
-124154	neut
-fem
-124157	masc
-124168	masc
-124177	fem
-124208	fem
-124213	fem
-124216	fem
-124223	fem
-124232	fem
-124234	fem
-124239	neut
-124241	masc
-masc/neut
-124269	fem
-124281	neut
-124283	masc
-124296	neut
-124301	fem
-124303	fem
-124305	fem
-124310	masc
-124318	fem
-124333	masc
-fem
-124336	masc
-124344	fem
-124350	fem
-neut
-masc/neut
-124359	fem
-fem
-fem
-124373	fem
-124383	fem
-124392	fem
-124409	masc
-124412	fem
-124431	masc
-124444	fem
-124452	neut
-124467	masc
-124480	masc
-124490	fem
-124495	fem
-124497	masc/neut
-124500	masc
-masc/neut
-124509	fem
-fem
-neut
-124513	masc/neut
-124532	masc
-124539	masc
-124552	neut
-124561	masc/neut
-124563	fem
-124565	neut
-124573	masc/fem/neut
-masc
-124579	masc/neut
-masc
-124582	masc/neut
-124586	masc
-124588	neut
-124593	fem
-124597	neut
-124601	fem
-124604	masc
-124607	fem
-124615	masc
-124618	neut
-124628	masc
-neut
-124647	neut
-124653	masc
-124658	fem
-124668	fem
-124675	neut
-124680	fem
-124682	neut
-124684	neut
-neut
-masc/neut
-124688	fem
-masc
-124691	fem
-masc
-124694	neut
-124698	masc
-124708	fem
-124720	neut
-masc/neut
-124726	masc
-124732	fem
-124737	fem
-124745	fem
-124749	fem
-124755	masc
-124763	fem
-124771	fem
-124779	neut
-124791	masc
-124803	masc/neut
-masc/neut
-124810	neut
-124812	masc/neut
-124815	neut
-124825	fem
-124827	masc
-124836	masc/fem
-fem
-masc
-124847	masc
-124850	masc
-fem
-124874	fem
-124876	masc/neut
-masc/neut
-124880	masc
-masc/neut
-124883	fem
-124889	fem
-124901	masc/neut
-124905	fem
-124907	masc/neut
-124915	fem
-124928	neut
-124936	masc/fem
-124950	masc/neut
-124952	fem
-124955	fem
-fem
-124965	masc
-masc/neut
-124972	fem
-124974	masc/neut
-124977	masc
-124980	fem
-124989	neut
-neut
-124995	neut
-125000	fem
-neut
-125003	neut
-125011	neut
-125018	fem
-neut
-125034	fem
-125038	masc
-125043	fem
-125047	neut
-125049	neut
-125056	fem
-fem
-125061	masc/fem
-neut
-125066	masc/neut
-125073	masc/fem
-125078	fem
-125082	neut
-125084	neut
-125091	neut
-125097	masc/fem
-125107	neut
-125116	masc
-neut
-125124	neut
-masc/neut
-125142	neut
-125145	neut
-125147	masc
-125150	neut
-masc
-neut
-125157	masc
-125166	fem
-fem
-125180	fem
-125188	neut
-125192	neut
-masc
-125218	fem
-masc
-fem
-neut
-125223	neut
-125240	neut
-fem
-neut
-125249	neut
-125251	neut
-masc
-125264	fem
-125266	fem
-125268	neut
-masc
-125283	neut
-125291	fem
-125296	fem
-125303	neut
-fem
-neut
-125313	neut
-125316	fem
-125318	neut
-125325	neut
-125333	neut
-125336	neut
-125339	fem
-neut
-125347	neut
-125355	neut
-125359	neut
-125369	neut
-masc
-125375	fem
-125379	neut
-125386	fem
-125392	neut
-neut
-125398	fem
-neut
-125403	fem
-neut
-125408	fem
-masc
-125423	neut
-125427	fem
-neut
-125430	neut
-125432	masc
-125434	fem
-125441	fem
-125448	neut
-125458	neut
-125463	masc/neut
-125469	masc/neut
-125473	masc/neut
-125478	masc/neut
-125482	neut
-125487	masc/neut
-125501	neut
-125505	fem
-125507	neut
-125511	neut
-neut
-125516	fem
-125521	neut
-125525	neut
-125527	neut
-masc
-125531	neut
-masc
-125535	neut
-125537	neut
-125545	neut
-125549	fem
-125553	neut
-125568	masc/neut
-neut
-125585	fem
-125590	fem
-125595	masc/fem
-125599	neut
-125606	fem
-125625	fem
-125632	fem
-125645	fem
-125649	masc
-125656	neut
-125669	neut
-masc
-neut
-125675	neut
-125678	neut
-masc
-125689	masc/fem
-neut
-125698	neut
-125700	neut
-125704	fem
-neut
-125720	neut
-neut
-125723	masc/fem
-125726	neut
-125733	neut
-125747	neut
-masc
-125756	fem
-neut
-125759	fem
-125763	neut
-125771	neut
-125777	neut
-125780	neut
-125784	neut
-125789	fem
-125795	fem
-neut
-masc
-125806	neut
-masc
-125814	neut
-125817	neut
-125823	neut
-125829	fem
-125834	neut
-125842	neut
-125850	masc
-125852	neut
-125859	fem
-125861	fem
-125866	fem
-125871	neut
-125873	masc
-125881	neut
-125883	masc
-125887	neut
-125890	fem
-125912	fem
-125916	neut
-fem
-125920	fem
-125922	fem
-125927	fem
-masc
-125933	fem
-neut
-125938	neut
-125946	neut
-125950	neut
-125952	masc
-125958	neut
-125967	neut
-125973	neut
-125976	fem
-125982	neut
-125985	masc/neut
-126004	neut
-126016	fem
-126022	fem
-126035	fem
-126040	fem
-126044	neut
-126047	fem
-126055	masc/neut
-neut
-neut
-126059	masc/neut
-fem
-neut
-neut
-126065	neut
-126069	masc/neut
-126072	neut
-126074	neut
-fem
-neut
-126083	masc
-126086	neut
-126091	neut
-126093	masc
-126097	fem
-fem
-neut
-126105	fem
-masc
-126115	masc
-masc/neut
-126123	masc/fem
-126125	neut
-126128	masc
-126141	neut
-126144	masc/fem
-126149	masc/fem
-126158	fem
-126165	neut
-126179	neut
-126184	masc
-126193	neut
-126213	neut
-126221	neut
-126231	neut
-126234	neut
-126238	neut
-126247	neut
-126254	neut
-126256	fem
-126263	neut
-126266	masc
-126268	masc/neut
-126277	masc/neut
-126284	fem
-126293	neut
-fem
-126302	neut
-masc
-126311	masc
-neut
-126314	masc
-126318	masc
-neut
-neut
-126327	fem
-126332	masc/fem
-neut
-126338	neut
-126340	neut
-126352	fem
-126355	neut
-126359	masc
-126361	neut
-126364	fem
-126373	neut
-masc/neut
-126378	neut
-126381	fem
-126386	masc
-masc
-126391	neut
-126394	neut
-126397	masc/fem
-126400	fem
-126405	masc/fem
-126410	neut
-126417	masc/fem
-neut
-126424	masc/fem
-126430	neut
-neut
-126440	neut
-126442	neut
-masc
-126445	neut
-126449	neut
-126468	neut
-126471	masc/fem
-neut
-126477	neut
-neut
-126487	neut
-126495	fem
-126498	masc/neut
-126504	fem
-126507	neut
-126525	fem
-neut
-126529	fem
-126532	neut
-neut
-126537	neut
-126547	neut
-126549	masc
-126551	fem
-neut
-126555	neut
-126558	masc
-126566	neut
-126569	masc
-126576	masc
-126581	masc
-masc
-126591	neut
-masc
-126594	masc
-126601	neut
-126603	neut
-masc
-126606	neut
-masc
-126614	neut
-masc
-126626	neut
-126628	fem
-126634	masc
-126638	masc
-126644	fem
-126650	masc
-126654	fem
-126660	neut
-neut
-126673	fem
-neut
-fem
-126679	fem
-126681	masc/neut
-126684	neut
-masc
-126690	neut
-126692	neut
-masc
-126695	neut
-126701	neut
-126707	masc
-masc
-126728	neut
-126732	fem
-fem
-neut
-masc/fem
-126737	masc
-126748	masc
-masc/fem
-126752	neut
-126760	fem
-neut
-126766	neut
-126769	fem
-neut
-126773	neut
-126779	neut
-126791	neut
-126799	neut
-126807	neut
-126816	fem
-neut
-neut
-126820	neut
-126822	neut
-126824	masc/fem
-126827	fem
-126834	neut
-126841	neut
-126856	masc
-neut
-126860	neut
-126870	masc
-126873	fem
-126879	neut
-neut
-126883	neut
-126885	fem
-126888	masc/neut
-126890	neut
-126892	neut
-126894	masc/neut
-126896	neut
-126899	neut
-126901	fem
-126903	fem
-126907	neut
-126929	neut
-126938	fem
-neut
-neut
-126944	neut
-126949	neut
-126951	neut
-126959	neut
-126967	neut
-126973	neut
-126979	neut
-126988	neut
-neut
-126996	masc/fem
-127011	masc
-masc
-127015	neut
-127027	neut
-127030	fem
-127039	fem
-127047	masc
-127050	fem
-neut
-127053	fem
-127055	fem
-127057	masc/fem
-127060	masc/neut
-127067	masc/neut
-127069	masc
-127071	neut
-127075	neut
-masc
-masc/neut
-127083	fem
-127087	masc
-neut
-127092	neut
-masc/neut
-127096	fem
-127100	neut
-127106	masc
-neut
-127111	neut
-masc
-127125	fem
-127129	neut
-127131	masc
-127134	fem
-masc
-127145	neut
-127152	masc
-127156	masc
-127162	neut
-127165	neut
-127172	fem
-127176	neut
-127179	neut
-masc
-127183	neut
-127188	masc/neut
-masc
-127192	neut
-neut
-127209	fem
-127226	neut
-masc
-127237	fem
-127243	neut
-127251	fem
-127258	fem
-127260	masc/neut
-127264	masc
-fem
-127269	masc/neut
-127272	neut
-127274	masc/fem/neut
-127281	fem
-127286	masc
-127292	masc/neut
-fem
-neut
-127297	masc
-127302	masc/neut
-127304	fem
-127308	fem
-127317	fem
-fem
-127322	fem
-masc
-127325	masc
-127328	neut
-127335	masc/fem
-masc/fem
-127338	masc/neut
-127341	neut
-fem
-127344	masc
-127370	fem
-127376	neut
-127378	masc
-masc/fem
-127382	fem
-neut
-127385	neut
-127389	fem
-127391	fem
-127396	fem
-127414	fem
-127418	masc
-127424	neut
-127430	neut
-127435	masc
-masc
-127444	fem
-127451	neut
-fem
-neut
-masc/neut
-masc/fem
-127457	fem
-127460	masc
-127464	neut
-127468	masc
-127473	masc
-127481	masc
-127483	masc
-masc
-127492	masc
-masc/neut
-127501	fem
-127504	masc
-masc
-127508	masc
-127516	fem
-127524	masc/neut
-127530	masc
-127537	fem
-127541	fem
-masc
-127553	masc/neut
-fem
-127563	masc
-masc/neut
-127566	masc
-127570	fem
-127574	neut
-neut
-masc
-127594	fem
-127600	masc
-127604	fem
-127615	fem
-127618	fem
-127620	masc/fem
-127635	masc
-127646	masc
-127649	neut
-127652	neut
-127654	neut
-127661	masc
-127671	masc
-masc
-127675	fem
-127680	fem
-127684	fem
-127686	fem
-127693	neut
-127710	masc
-127714	masc
-127718	masc/neut
-127727	masc
-127729	neut
-fem
-127734	masc
-127736	fem
-masc
-masc
-127740	masc
-masc
-127743	fem
-127745	neut
-127760	masc
-127763	masc
-127770	neut
-127782	fem
-127789	neut
-127800	neut
-127803	fem
-127808	fem
-127814	fem
-127827	masc/neut
-masc/neut
-masc
-masc/neut
-neut
-127840	neut
-127842	fem
-127849	masc
-masc
-127862	masc/neut
-fem
-127875	masc
-127877	masc/neut
-masc/neut
-masc
-masc/neut
-127883	neut
-127904	masc
-fem
-127910	fem
-127914	masc
-127920	fem
-127924	masc/neut
-neut
-masc
-masc/neut
-127929	masc/neut
-masc/neut
-127935	neut
-127949	masc
-masc/neut
-127954	neut
-127960	fem
-127964	neut
-127968	neut
-127985	masc
-masc/neut
-fem
-127989	masc/fem
-neut
-127993	masc
-128001	fem
-128004	fem
-neut
-128016	fem
-128022	neut
-128025	neut
-128028	neut
-128034	neut
-fem
-neut
-128042	masc
-masc/neut
-neut
-masc/fem
-neut
-128048	neut
-128051	fem
-128053	neut
-masc
-128056	fem
-128061	fem
-128064	fem
-128067	neut
-masc/neut
-128075	fem
-fem
-128081	fem
-128084	fem
-128114	fem
-128123	neut
-128128	masc
-neut
-128131	neut
-128134	neut
-128137	neut
-128139	neut
-128143	neut
-128145	masc/neut
-128150	fem
-128152	fem
-128156	masc
-128164	neut
-128172	masc
-128179	fem
-128188	fem
-128191	neut
-128195	neut
-128200	neut
-128203	fem
-128219	masc
-128232	masc
-128238	masc
-masc/fem
-128243	neut
-128251	fem
-128256	fem
-128258	fem
-128260	masc
-masc
-128263	neut
-128265	masc
-128272	masc
-128275	masc/fem
-128282	fem
-128287	neut
-128293	fem
-128308	fem
-128312	neut
-128317	fem
-128319	masc
-neut
-128333	masc
-128337	masc
-masc
-masc
-128342	neut
-masc
-128345	neut
-128348	neut
-neut
-128355	neut
-128370	masc
-neut
-128373	fem
-128376	fem
-128379	fem
-128388	masc
-128393	fem
-128398	masc
-128401	masc
-128407	masc
-128410	fem
-masc
-fem
-128422	fem
-neut
-fem
-128426	neut
-fem
-128433	fem
-128435	neut
-masc
-128441	masc
-128443	masc
-128445	fem
-128447	masc/neut
-128454	masc/neut
-128456	neut
-128464	masc
-128473	masc/fem
-128479	neut
-128488	neut
-128490	neut
-128493	masc/neut
-128495	fem
-128499	neut
-128502	masc
-128504	fem
-fem
-128507	neut
-128512	masc
-128516	masc
-masc/neut
-128522	neut
-128528	neut
-128530	fem
-128534	fem
-masc
-128537	neut
-128564	masc
-128569	fem
-fem
-neut
-fem
-128574	neut
-masc
-128577	neut
-128585	masc/neut
-128599	masc/neut
-128607	masc
-128609	masc
-128611	masc
-fem
-128618	neut
-128621	masc/neut
-128629	fem
-128637	masc
-128642	neut
-128652	neut
-masc
-128662	masc
-128668	fem
-neut
-fem
-128672	neut
-128684	neut
-128687	masc
-128689	masc
-128704	neut
-masc/fem
-128707	neut
-128715	neut
-masc
-128720	neut
-128722	fem
-neut
-128736	neut
-128753	masc
-masc
-128760	masc
-128765	fem
-128772	neut
-128807	neut
-128809	masc
-128815	fem
-neut
-fem
-128819	neut
-128823	neut
-128832	masc
-128835	masc/fem
-128838	masc/neut
-fem
-128853	masc/neut
-128855	fem
-128857	masc/neut
-fem
-fem
-masc/fem
-128862	masc/neut
-128865	neut
-128867	neut
-128872	fem
-fem
-128914	neut
-128922	fem
-128931	fem
-128933	neut
-128936	neut
-masc
-128945	neut
-fem
-128948	masc/neut
-128966	fem
-fem
-128969	masc
-128975	fem
-128986	masc
-neut
-masc
-128990	neut
-128994	fem
-129010	fem
-fem
-fem
-fem
-129016	masc
-129018	neut
-129029	neut
-129039	masc
-129045	fem
-neut
-fem
-129049	neut
-129051	fem
-129061	masc/neut
-fem
-129064	neut
-129067	neut
-129075	neut
-fem
-fem
-fem
-129084	masc/neut
-129086	fem
-neut
-129100	masc
-neut
-129112	fem
-129116	masc
-129119	fem
-129123	fem
-129126	fem
-129128	masc
-129134	masc
-neut
-129138	neut
-masc
-129144	masc
-129162	neut
-129167	neut
-129169	masc
-129171	neut
-129181	masc
-129187	fem
-neut
-fem
-129191	neut
-neut
-neut
-129195	neut
-129200	neut
-129206	masc
-129211	masc/neut
-fem
-129216	neut
-masc/neut
-129222	masc
-129225	neut
-fem
-129244	masc
-129246	masc
-129248	masc/neut
-129264	neut
-129266	masc
-masc/neut
-129270	neut
-129273	masc
-neut
-129281	masc
-masc
-129312	masc/neut
-neut
-masc
-129350	fem
-129365	neut
-129375	masc
-129381	fem
-neut
-fem
-129385	neut
-129387	neut
-masc/fem
-neut
-129393	fem
-129400	masc/neut
-fem
-129403	neut
-129409	masc
-129415	neut
-129423	fem
-masc
-129430	neut
-masc
-neut
-129444	neut
-129447	neut
-129458	masc
-129462	neut
-129470	fem
-129476	fem
-129480	masc/neut
-129486	masc/neut
-129491	neut
-129493	masc
-129499	masc
-129507	neut
-129528	neut
-masc
-129540	masc
-129552	neut
-129573	fem
-129575	fem
-fem
-129584	masc
-129589	masc
-fem
-129612	neut
-129614	masc/fem
-fem
-129621	fem
-129625	masc/fem
-fem
-129633	masc/neut
-129639	masc/neut
-129646	masc
-129651	fem
-129653	masc
-129663	masc
-129669	neut
-129672	fem
-129674	fem
-129680	neut
-129686	neut
-129698	fem
-129703	neut
-129708	neut
-neut
-129715	neut
-129730	neut
-129734	fem
-129736	fem
-neut
-129739	neut
-masc
-129742	fem
-129754	fem
-129757	masc
-masc/fem/neut
-neut
-neut
-masc
-neut
-129764	neut
-129766	neut
-129769	neut
-129772	neut
-129774	masc
-129776	masc/neut
-fem
-fem
-129797	masc
-masc/neut
-129801	neut
-129817	masc/neut
-129820	fem
-neut
-129824	masc
-masc
-129827	neut
-masc
-129830	neut
-129832	masc/neut
-129842	neut
-129845	fem
-neut
-129848	neut
-129850	fem
-masc/neut
-129855	masc
-129859	masc
-129869	neut
-129897	fem
-129901	fem
-129914	neut
-129931	masc
-129935	neut
-masc
-neut
-129941	masc
-fem
-129953	masc
-129962	fem
-129978	masc/fem
-129980	fem
-129987	fem
-129996	fem
-130002	masc
-neut
-130007	fem
-130009	fem
-130011	masc
-masc/neut
-130016	neut
-130023	masc
-130025	fem
-130029	fem
-130032	masc/fem/neut
-130037	masc
-masc
-130048	neut
-130057	masc/neut
-130062	fem
-130072	masc/neut
-fem
-130086	masc
-130093	fem
-130099	neut
-130101	fem
-130107	masc
-130110	masc
-130132	neut
-130149	masc
-130152	fem
-130155	neut
-130157	masc
-130166	fem
-130169	fem
-130172	fem
-130183	fem
-130185	fem
-130189	masc
-130194	masc
-130196	neut
-130211	fem
-masc/neut
-130224	neut
-130236	masc
-130240	masc
-neut
-130251	masc/neut
-130280	masc
-neut
-130291	masc/neut
-130298	fem
-130300	neut
-130305	masc
-130318	fem
-fem
-130324	masc/fem
-130326	neut
-130330	neut
-130336	masc
-neut
-130348	masc/neut
-130357	neut
-130363	neut
-130366	neut
-masc
-130374	neut
-130392	neut
-130395	masc
-neut
-130409	neut
-130415	neut
-130424	masc
-fem
-masc
-neut
-130429	neut
-neut
-130439	masc/neut
-130459	masc
-fem
-130463	masc
-130465	fem
-130467	masc
-130469	fem
-masc
-130476	masc
-130478	neut
-130483	fem
-130489	neut
-130492	fem
-130497	fem
-130504	masc
-130514	fem
-130523	neut
-130530	neut
-130536	masc
-fem
-130540	masc
-masc
-130545	masc
-130548	masc
-130551	masc
-130554	masc
-130564	fem
-130569	fem
-130571	masc
-130581	fem
-130584	fem
-130598	neut
-130600	fem
-neut
-fem
-130606	fem
-130609	masc
-130639	masc
-130642	neut
-130672	masc
-masc
-130681	fem
-neut
-130689	masc/neut
-130692	masc
-fem
-masc
-130712	masc
-130788	masc
-130792	fem
-130794	neut
-130798	neut
-130802	fem
-fem
-130809	fem
-130814	masc
-130816	neut
-130819	masc/neut
-130830	masc
-130842	fem
-130845	neut
-130849	fem
-130851	fem
-130856	masc
-130858	fem
-130861	fem
-130864	fem
-130867	fem
-130870	fem
-130873	fem
-130876	fem
-130880	masc/neut
-130887	masc
-130893	masc
-130896	masc
-130899	fem
-130901	fem
-130905	neut
-130910	masc
-130919	masc
-130929	fem
-fem
-130939	neut
-130942	neut
-130950	fem
-130958	neut
-130969	fem
-130972	fem
-130977	neut
-130979	fem
-neut
-130982	neut
-130986	fem
-130997	fem
-neut
-131001	neut
-131003	neut
-masc
-131008	fem
-masc
-131017	neut
-131028	masc/fem
-neut
-131038	masc
-131054	fem
-131060	masc/fem/neut
-131064	masc
-131068	neut
-131073	neut
-131080	masc/fem/neut
-131085	neut
-131090	neut
-131109	masc
-131116	masc
-masc
-131120	masc
-131129	masc
-neut
-masc
-131138	neut
-131163	masc
-neut
-131183	masc
-131195	fem
-131204	masc
-neut
-131218	fem
-131225	masc
-131229	fem
-131231	neut
-131238	neut
-131245	neut
-131255	neut
-neut
-131258	masc
-neut
-131278	masc
-131283	fem
-131285	fem
-neut
-131293	fem
-131295	masc
-masc
-131305	masc/neut
-131318	masc
-masc
-131323	masc
-masc
-131328	masc
-neut
-131346	fem
-131370	neut
-131373	neut
-131392	neut
-131396	masc
-131410	fem
-neut
-131413	fem
-neut
-131419	fem
-131429	masc
-131440	fem
-131443	neut
-131445	masc
-131458	masc
-fem
-131465	masc/neut
-131472	neut
-131475	fem
-131477	fem
-131481	masc/fem
-131490	masc
-131493	masc/fem
-131496	fem
-131498	masc
-131507	masc
-131509	masc
-masc
-masc
-131520	masc
-131522	fem
-131525	masc
-masc
-131537	masc
-fem
-131546	masc
-fem
-neut
-masc
-131552	fem
-fem
-131557	masc
-131573	masc
-131576	fem
-131586	masc
-neut
-131598	neut
-131604	neut
-131607	masc
-131611	neut
-131615	neut
-131629	masc
-131632	masc
-131638	fem
-131640	fem
-131650	neut
-131661	masc
-131669	fem
-131674	fem
-131683	fem
-131694	fem
-131700	neut
-131703	masc
-131725	fem
-fem
-131728	neut
-131734	fem
-131740	fem
-fem
-131744	fem
-fem
-131754	masc
-131758	masc/fem
-131765	fem
-131771	masc
-fem
-131776	fem
-neut
-131779	fem
-131781	fem
-131784	fem
-fem
-131787	fem
-neut
-131790	fem
-fem
-131793	fem
-fem
-fem
-131808	fem
-fem
-131813	masc
-fem
-131819	fem
-131824	fem
-masc
-131837	fem
-fem
-131848	neut
-131851	masc
-131871	masc
-131874	masc
-131886	masc
-masc
-131889	neut
-131892	fem
-131894	masc
-131896	masc
-masc
-masc
-neut
-131901	fem
-131903	masc
-131912	fem
-neut
-fem
-131916	fem
-131918	masc
-131921	fem
-131923	masc
-neut
-131931	masc
-131941	masc
-131960	fem
-131967	fem
-131974	fem
-131977	neut
-132006	masc
-fem
-132019	fem
-132035	masc
-132045	masc
-132060	masc/neut
-132067	masc/neut
-132094	neut
-132098	fem
-132105	masc
-132113	fem
-132117	masc
-132121	masc/fem
-132123	masc
-132126	neut
-132133	masc
-132136	masc
-132152	neut
-132160	masc
-132162	fem
-132168	masc/fem/neut
-132173	fem
-fem
-132181	fem
-132185	fem
-132187	masc
-fem
-neut
-132191	masc/neut
-132206	fem
-132211	fem
-132234	fem
-132237	fem
-132243	neut
-132245	fem
-132256	neut
-132263	fem
-132265	masc
-132273	fem
-132284	fem
-132287	fem
-132300	neut
-masc
-fem
-132310	masc
-132312	fem
-132317	fem
-fem
-masc/fem
-132323	fem
-132325	fem
-132330	fem
-132332	masc
-132346	neut
-132348	masc
-132360	masc/fem
-fem
-132377	fem
-132393	fem
-132408	masc
-132410	fem
-masc
-132435	masc
-132448	fem
-neut
-132452	fem
-132454	fem
-132458	masc
-neut
-132466	fem
-132470	masc
-132472	fem
-fem
-132477	masc/neut
-masc/neut
-132481	masc/neut
-132491	masc
-masc/neut
-132495	masc
-neut
-132503	fem
-132506	fem
-132508	fem
-132513	masc
-132515	masc
-masc
-neut
-132519	neut
-132521	neut
-132524	neut
-132526	neut
-132530	masc/neut
-132536	fem
-132541	fem
-132543	masc/neut
-132545	neut
-132548	fem
-132556	masc/neut
-132567	masc/neut
-132581	neut
-fem
-132585	neut
-132591	fem
-132606	masc
-132612	masc
-132624	fem
-132628	masc
-132636	masc
-132657	fem
-132674	fem
-neut
-132681	masc
-132691	neut
-fem
-132694	neut
-132714	neut
-fem
-132727	masc
-132734	fem
-132739	masc
-132752	fem
-fem
-132756	masc
-132762	neut
-132765	masc
-132774	neut
-fem
-132778	masc
-132783	neut
-fem
-132787	fem
-132794	neut
-fem
-neut
-132798	neut
-132800	neut
-132802	neut
-132806	neut
-masc
-neut
-masc
-132818	masc
-132831	fem
-132834	fem
-neut
-132837	fem
-132840	fem
-fem
-132844	masc/neut
-132846	fem
-neut
-132849	masc/neut
-132851	neut
-132853	neut
-132857	masc/neut
-neut
-masc/fem/neut
-132861	neut
-132864	masc/neut
-fem
-132872	neut
-132878	neut
-132883	fem
-132889	fem
-132892	neut
-132897	masc
-132900	masc
-132907	neut
-132909	neut
-132912	fem
-132914	neut
-132917	neut
-132921	masc
-neut
-132924	neut
-fem
-neut
-132942	fem
-132953	masc
-132973	neut
-132991	fem
-132997	fem
-133008	neut
-fem
-133016	neut
-fem
-133027	masc
-133034	masc
-133041	masc
-133046	neut
-133048	masc
-masc
-133053	masc
-masc
-133065	neut
-133078	masc
-133082	neut
-fem
-133085	masc
-133100	neut
-fem
-133116	masc
-133123	fem
-133132	fem
-133140	fem
-neut
-133151	masc
-133153	masc/fem
-133158	masc
-133167	neut
-133173	neut
-133175	fem
-133187	masc
-133200	masc
-133208	masc/fem/neut
-133215	neut
-133217	fem
-133222	fem
-133229	masc
-133250	masc
-133276	fem
-133279	fem
-133282	masc/fem/neut
-masc
-133286	masc
-133295	neut
-133300	fem
-133305	masc/neut
-133307	fem
-133309	neut
-133323	masc
-133325	neut
-133328	fem
-133335	fem
-neut
-133348	neut
-133358	neut
-fem
-fem
-fem
-133365	neut
-133368	masc
-133398	fem
-masc
-133406	neut
-133437	fem
-133441	fem
-133443	fem
-133448	fem
-133459	neut
-133462	fem
-133474	fem
-133477	neut
-133479	masc
-133490	neut
-133496	masc
-133506	neut
-133527	masc
-fem
-133537	neut
-133545	fem
-133555	fem
-133560	neut
-133564	neut
-133567	fem
-133579	fem
-133584	masc
-133591	masc/fem
-133593	masc
-133600	masc
-133622	fem
-133628	masc
-133636	masc
-masc
-133647	neut
-133652	fem
-133655	masc
-133661	masc
-133666	neut
-133668	fem
-133685	fem
-neut
-masc
-133692	masc
-133696	fem
-133703	neut
-133708	neut
-fem
-133711	masc
-133717	masc
-133725	masc
-133732	fem
-133749	neut
-133767	neut
-masc
-masc/fem/neut
-133771	neut
-133775	neut
-133779	fem
-133788	fem
-133791	masc
-masc
-133794	masc
-133804	fem
-133809	fem
-133812	masc/fem/neut
-133814	masc
-133817	masc
-133823	masc
-masc
-133830	fem
-neut
-masc/fem
-masc
-133835	masc
-133837	masc/neut
-133849	fem
-fem
-133853	fem
-133856	fem
-masc
-133868	masc/fem
-133885	masc
-133901	neut
-133904	masc/neut
-133906	neut
-neut
-133909	fem
-133912	neut
-133914	neut
-133920	neut
-133933	fem
-133935	masc
-133951	masc
-133958	neut
-133974	masc
-neut
-masc/neut
-133982	neut
-133989	neut
-133991	fem
-fem
-133996	neut
-134007	masc
-134016	neut
-134023	fem
-134036	masc
-134040	masc/neut
-fem
-134043	masc
-134056	fem
-134060	neut
-134064	neut
-neut
-134068	masc
-134073	fem
-134107	masc
-134117	masc
-neut
-134120	fem
-fem
-134123	masc/neut
-masc
-neut
-134127	neut
-134129	fem
-134132	fem
-134134	masc/neut
-neut
-134143	masc
-134148	masc/neut
-neut
-134152	neut
-neut
-fem
-134159	neut
-masc/neut
-neut
-fem
-134164	masc/neut
-134166	masc
-134172	neut
-fem
-134183	masc
-134186	masc
-134190	fem
-134201	fem
-134206	neut
-134210	fem
-134216	masc
-134218	fem
-134220	neut
-134232	neut
-fem
-134254	fem
-134259	masc
-masc
-134267	fem
-134276	masc
-134278	neut
-134284	masc
-134286	neut
-masc
-134301	masc
-134304	fem
-134308	fem
-134313	masc
-134317	masc
-neut
-134333	fem
-neut
-134337	fem
-134341	masc
-neut
-134353	fem
-134355	neut
-134359	masc
-134364	neut
-masc/neut
-masc/fem
-134368	neut
-134371	neut
-134373	neut
-masc/fem
-neut
-134378	neut
-134380	masc/fem/neut
-134382	masc
-134391	masc
-134395	masc/neut
-134397	masc
-neut
-134400	neut
-134404	fem
-fem
-134407	masc/neut
-masc
-neut
-134423	fem
-134428	masc
-fem
-134444	fem
-134452	masc
-neut
-134466	fem
-fem
-134473	fem
-fem
-134481	masc
-134487	fem
-134491	neut
-fem
-134499	fem
-masc
-neut
-134520	fem
-134523	fem
-134528	masc
-134555	masc/fem/neut
-neut
-fem
-fem
-134562	masc
-134572	fem
-134584	neut
-134588	fem
-134607	masc
-134610	masc
-neut
-134630	fem
-134638	masc
-134659	fem
-134661	fem
-134665	fem
-134667	fem
-fem
-134674	fem
-134677	neut
-134687	neut
-134692	fem
-134696	masc
-134703	neut
-134710	fem
-134713	masc
-fem
-134716	masc
-134722	neut
-134725	fem
-134728	fem
-masc
-134735	masc
-134740	masc
-134745	masc
-134748	masc
-134758	neut
-134763	masc
-masc
-134769	masc
-134783	masc
-134791	masc
-134803	fem
-134807	neut
-134828	fem
-134843	fem
-134848	masc
-134852	fem
-134857	fem
-134862	masc/fem/neut
-134868	masc
-masc
-masc
-134872	fem
-134879	neut
-134881	fem
-134886	masc
-134903	fem
-134907	masc
-134926	masc
-134942	masc
-134946	masc
-neut
-134955	neut
-134957	neut
-134960	fem
-134964	masc
-134967	fem
-134971	masc
-134973	masc
-134976	masc
-134979	neut
-134982	neut
-134995	masc
-135015	fem
-135018	fem
-135021	masc
-135024	fem
-135030	masc
-135046	fem
-135060	neut
-masc
-masc/fem/neut
-135066	fem
-135068	masc
-135076	masc
-135079	fem
-135081	fem
-135084	fem
-135094	fem
-135096	fem
-135099	fem
-135103	masc
-135124	neut
-135131	fem
-135143	fem
-fem
-135149	masc
-135154	fem
-135159	fem
-135161	fem
-135163	fem
-135165	fem
-135168	fem
-135184	fem
-135196	masc
-135200	fem
-135204	masc
-masc/fem/neut
-135207	masc
-135212	masc
-135218	neut
-135223	neut
-135228	neut
-fem
-135232	masc
-masc
-135240	masc
-135248	masc
-135251	masc
-135258	fem
-135260	neut
-135279	neut
-135282	fem
-135289	neut
-135291	fem
-135302	fem
-neut
-neut
-fem
-135316	fem
-135327	neut
-135333	neut
-135337	fem
-135345	neut
-135349	fem
-135351	fem
-135363	neut
-135365	masc
-neut
-135368	neut
-135377	masc
-masc
-135381	masc
-135397	neut
-135403	masc
-135406	fem
-135408	fem
-135411	fem
-135413	fem
-neut
-neut
-135419	fem
-135421	masc/neut
-135423	masc
-135432	neut
-135435	fem
-135451	fem
-135457	neut
-135461	neut
-135465	neut
-135471	masc
-135473	neut
-135479	masc/fem
-135483	neut
-135489	neut
-135503	neut
-135508	fem
-masc
-masc/neut
-135519	neut
-fem
-neut
-135523	fem
-fem
-135532	fem
-masc/neut
-masc
-135537	masc
-135544	neut
-135553	masc
-135556	fem
-135558	fem
-135560	fem
-135564	neut
-135576	neut
-135580	neut
-135588	neut
-135591	neut
-135603	masc
-135610	masc
-135612	neut
-135614	fem
-135619	neut
-135623	fem
-135625	masc
-135629	masc
-135632	fem
-135634	fem
-135640	masc
-135642	fem
-135651	neut
-135660	masc
-135663	masc
-135666	masc
-135668	neut
-135670	neut
-135674	masc/neut
-135677	masc
-135691	masc
-135696	fem
-135708	fem
-135717	masc
-135728	masc
-135737	masc
-135746	masc
-135757	masc
-135759	neut
-masc
-135762	masc/neut
-135764	masc
-135768	neut
-135772	masc/neut
-135774	neut
-fem
-135781	masc
-135783	masc/fem/neut
-135803	masc/neut
-135805	fem
-neut
-135808	fem
-135811	fem
-135815	masc/neut
-neut
-135819	fem
-fem
-135823	neut
-135842	fem
-135852	neut
-135863	masc
-135865	masc
-masc/neut
-135869	fem
-135871	fem
-135881	masc
-135890	fem
-135894	masc/neut
-135896	masc
-135899	masc
-135902	masc
-135905	masc
-masc
-masc
-135916	neut
-135921	masc/neut
-135923	masc/neut
-135925	neut
-135927	masc
-neut
-135930	masc/neut
-neut
-135941	neut
-135943	neut
-135948	fem
-135964	fem
-135967	masc/fem/neut
-135969	masc
-135972	neut
-masc/fem
-masc
-135987	masc
-135997	masc
-136007	masc/neut
-136012	masc/neut
-136017	masc
-136020	neut
-fem
-136023	neut
-masc
-136030	masc
-136040	neut
-136054	masc
-136066	fem
-136086	neut
-136091	fem
-136093	fem
-136101	neut
-136104	masc
-136118	fem
-136135	neut
-136155	masc
-masc
-masc
-masc/neut
-masc
-136161	fem
-136172	masc
-136192	fem
-136195	masc
-136198	masc
-136206	fem
-136210	fem
-136213	fem
-136215	masc/neut
-136218	masc
-136221	masc
-136224	masc
-136228	fem
-136230	fem
-fem
-136249	masc
-136253	neut
-136255	neut
-136257	fem
-fem
-neut
-136267	fem
-136272	masc
-136278	masc
-136290	masc
-136308	neut
-fem
-136314	masc
-fem
-masc
-136338	neut
-neut
-136341	neut
-136347	neut
-masc
-136352	fem
-masc
-136370	fem
-136374	fem
-fem
-masc
-136382	masc
-136384	masc
-136400	neut
-136403	masc
-136405	neut
-136415	masc
-fem
-136424	fem
-136432	fem
-136439	masc/neut
-fem
-masc
-masc
-136445	fem
-136450	fem
-fem
-masc
-136454	fem
-136456	fem
-fem
-136460	neut
-neut
-136466	fem
-136468	fem
-136471	neut
-136484	masc/neut
-136489	fem
-fem
-masc
-masc
-136495	fem
-fem
-masc
-136499	neut
-masc
-136503	masc
-136508	fem
-136510	fem
-136527	neut
-136529	fem
-136531	fem
-136534	masc
-136547	masc/fem/neut
-136563	neut
-136565	neut
-masc
-136579	masc
-136581	neut
-136585	fem
-136593	masc
-136597	neut
-136608	fem
-136611	neut
-136628	neut
-136644	masc
-136652	neut
-fem
-136655	fem
-136658	fem
-136666	neut
-136669	neut
-masc
-136680	neut
-fem
-136683	fem
-136685	neut
-136688	neut
-masc
-136697	neut
-136699	neut
-136702	fem
-136723	masc
-136730	neut
-136732	masc
-136735	fem
-fem
-136740	fem
-136749	masc
-136774	fem
-136776	fem
-neut
-136786	fem
-136794	neut
-136797	fem
-136801	neut
-masc
-136806	fem
-136808	neut
-136822	neut
-fem
-fem
-136828	neut
-136834	fem
-136836	neut
-136839	neut
-neut
-136842	masc
-136854	neut
-136858	fem
-136874	fem
-neut
-masc
-136900	neut
-136906	neut
-136909	fem
-136920	neut
-136922	neut
-136924	masc
-136930	masc
-136935	masc
-136947	masc
-136950	masc
-136973	masc
-136987	neut
-136990	masc/fem
-137013	fem
-fem
-137018	masc
-137024	masc/fem
-137027	masc
-137029	masc/fem
-137034	masc/fem
-137039	masc/fem
-137050	fem
-137058	masc
-neut
-masc
-137080	fem
-137098	masc/neut
-137110	fem
-137127	fem
-137134	fem
-137136	neut
-137138	neut
-137141	masc
-137151	neut
-137153	neut
-masc
-137156	neut
-137159	neut
-137162	neut
-137165	neut
-137168	neut
-137171	neut
-137174	neut
-137177	neut
-137180	neut
-137183	neut
-137186	neut
-137190	masc
-137195	fem
-137205	fem
-fem
-137209	neut
-137213	masc/fem
-masc
-137220	neut
-137222	masc
-neut
-137225	neut
-137227	fem
-137234	fem
-137241	fem
-137247	fem
-137255	neut
-137262	fem
-137264	neut
-137269	masc
-masc
-137276	fem
-137280	masc
-137286	fem
-137293	masc/neut
-137309	neut
-masc
-137312	neut
-masc
-137319	masc
-137337	neut
-137349	fem
-137362	neut
-fem
-137370	fem
-137375	fem
-137379	neut
-137385	neut
-137396	masc
-137412	masc
-fem
-137428	neut
-masc
-neut
-137442	masc
-137446	masc
-137452	neut
-masc
-neut
-137457	neut
-137459	masc
-137468	fem
-137472	neut
-137478	neut
-137487	masc
-137489	neut
-fem
-137495	neut
-137503	masc
-137516	masc/neut
-137521	masc/neut
-137523	masc
-137534	neut
-masc
-137538	masc
-137547	neut
-137552	neut
-137557	neut
-137562	neut
-137568	neut
-neut
-137576	neut
-137585	masc
-137590	neut
-137594	neut
-masc
-137597	neut
-137599	fem
-137605	masc
-137608	fem
-fem
-137612	fem
-neut
-fem
-137628	masc
-137631	masc
-137634	masc
-137637	masc
-masc
-137640	masc
-137644	masc
-137646	masc
-137649	masc
-137662	fem
-137668	neut
-137670	neut
-137672	neut
-137674	masc
-137678	fem
-137683	neut
-fem
-137688	neut
-neut
-137691	neut
-137696	fem
-137709	neut
-137713	fem
-137715	neut
-137720	fem
-137728	neut
-137733	masc
-137740	neut
-137763	neut
-masc/fem
-137771	masc
-masc
-137776	masc/neut
-masc
+3	masculine
+masculine/neuter
+
+7	
+22	masculine
+26	
+98	
+neuter
+109	neuter
+neuter
+144	masculine
+154	masculine
+masculine
+164	masculine
+168	
+238	
+feminine
+
+243	masculine
+neuter
+masculine
+masculine
+
+249	feminine
+253	feminine
+260	feminine
+271	feminine
+
+masculine/neuter
+276	
+278	masculine
+masculine/neuter
+feminine
+283	
+287	
+feminine
+
+292	
+296	
+304	neuter
+313	
+316	
+320	
+322	
+324	masculine/neuter
+327	
+329	masculine
+339	masculine/neuter
+342	
+353	
+356	
+360	
+363	
+366	neuter
+feminine
+370	neuter
+
+375	neuter
+377	masculine/neuter
+feminine
+
+381	masculine/neuter
+
+feminine
+385	
+387	
+392	
+395	
+399	neuter
+401	masculine/neuter
+neuter
+406	neuter
+409	
+
+
+
+
+415	neuter
+417	masculine/neuter
+422	
+427	feminine
+
+435	
+437	
+439	masculine
+441	
+445	
+448	
+masculine
+
+455	
+457	masculine
+460	neuter
+464	masculine
+467	
+470	
+475	
+477	
+479	neuter
+484	feminine
+487	
+495	
+499	feminine
+501	neuter
+masculine
+504	masculine
+506	neuter
+508	
+515	feminine
+
+518	feminine
+522	masculine
+
+525	
+
+529	masculine
+531	
+550	feminine
+553	
+559	
+561	
+563	
+
+566	
+masculine
+571	
+574	masculine
+576	
+578	masculine
+581	
+masculine
+585	
+neuter
+590	
+595	feminine
+598	
+masculine/neuter
+
+602	masculine
+610	feminine
+613	
+618	masculine
+620	feminine
+623	
+626	
+632	feminine
+640	feminine
+646	
+650	
+
+653	
+655	
+feminine
+masculine/neuter
+659	feminine
+
+662	masculine/feminine/neuter
+666	
+668	masculine
+670	
+672	masculine
+676	
+679	
+684	feminine
+
+
+masculine
+693	masculine
+
+
+697	neuter
+702	masculine
+706	
+710	
+713	
+715	feminine
+717	
+722	neuter
+724	masculine/feminine/neuter
+feminine
+
+728	masculine/neuter
+
+737	feminine
+
+
+742	masculine
+744	neuter
+747	
+752	
+755	
+masculine/neuter
+758	
+761	masculine/feminine/neuter
+763	masculine/neuter
+
+769	neuter
+771	masculine
+775	neuter
+feminine
+778	
+780	masculine/neuter
+
+
+790	feminine
+feminine
+798	
+800	
+803	
+805	
+807	masculine/neuter
+811	
+813	
+815	masculine
+817	
+819	masculine
+823	
+826	
+831	masculine
+834	
+
+masculine
+neuter
+842	masculine
+846	
+849	
+852	
+854	
+860	
+862	
+872	
+feminine
+feminine
+876	feminine
+880	
+882	feminine
+887	neuter
+feminine
+890	masculine
+
+894	
+901	neuter
+904	
+906	
+909	masculine
+
+913	feminine
+feminine
+916	
+920	neuter
+922	feminine
+924	
+926	masculine/neuter
+
+masculine/neuter
+
+931	
+935	masculine/neuter
+feminine
+
+940	
+943	neuter
+948	
+950	masculine
+957	feminine
+
+feminine
+961	masculine
+
+
+967	
+974	feminine
+feminine
+neuter
+978	feminine
+feminine
+981	
+985	
+
+990	
+994	feminine
+masculine
+1006	
+1012	
+1017	
+1021	neuter
+1023	
+1026	
+
+
+1034	
+1036	
+
+masculine
+neuter
+1043	masculine
+1045	
+1047	
+1049	
+1051	feminine
+1057	
+1059	neuter
+1063	
+1065	neuter
+1068	
+1073	feminine
+1075	
+1077	
+
+neuter
+1081	
+1087	
+1091	feminine
+1093	
+1095	feminine
+
+
+1099	
+1102	
+1104	masculine
+
+1108	
+1110	
+1112	masculine
+
+1115	
+1118	
+
+1124	masculine
+
+1130	neuter
+masculine
+1134	feminine
+1141	
+1144	
+neuter
+1149	masculine
+1152	
+1154	
+1161	
+1163	neuter
+masculine
+
+1171	
+1173	masculine/feminine
+
+feminine
+1178	
+1182	neuter
+masculine
+1187	
+1190	
+1192	masculine
+
+1197	
+
+1205	
+
+1209	
+feminine
+1213	neuter
+1216	neuter
+1218	
+1222	neuter
+masculine
+
+
+1227	masculine
+1229	
+1233	
+
+1237	feminine
+1242	neuter
+1246	neuter
+1248	
+1250	
+1252	
+
+
+
+1257	masculine
+
+1262	neuter
+1264	
+
+1272	neuter
+1279	feminine
+1281	
+1285	neuter
+1287	
+1289	masculine
+1297	
+masculine/feminine/neuter
+1300	
+1302	
+1304	
+
+
+masculine
+neuter
+
+1312	
+1315	
+
+1318	
+1321	masculine
+
+masculine
+1325	
+1331	masculine/neuter
+1334	neuter
+masculine
+1339	
+masculine
+1342	masculine
+masculine/neuter
+1347	neuter
+1349	
+1352	neuter
+1354	masculine/neuter
+1356	feminine
+1358	feminine
+
+
+1363	
+masculine
+1366	
+1369	masculine
+neuter
+1372	neuter
+1374	
+1377	
+1379	neuter
+masculine
+
+masculine
+1385	masculine
+1387	neuter
+masculine/neuter
+
+1393	
+1395	
+1397	neuter
+1400	
+1404	
+1406	
+1408	
+1412	
+1414	feminine
+1416	masculine
+1421	
+1425	
+
+1433	neuter
+feminine
+1436	
+1438	masculine/neuter
+feminine
+1445	masculine
+
+
+1449	feminine
+1452	neuter
+1454	neuter
+1456	
+feminine
+1464	
+
+1467	
+
+1475	neuter
+masculine
+1479	
+
+1483	feminine
+feminine
+1486	
+masculine
+1489	neuter
+1493	feminine
+1499	masculine
+masculine
+1502	masculine
+1505	
+1508	
+1511	
+1513	
+1515	
+1518	
+1521	
+feminine
+
+1525	masculine
+1527	
+1529	feminine
+1533	feminine
+
+1537	masculine
+1542	
+1548	
+
+
+1554	
+1556	feminine
+1558	feminine
+1560	feminine
+1564	masculine
+1566	
+1573	feminine
+1576	feminine
+1578	
+
+1581	feminine
+1583	
+1586	feminine
+1590	masculine
+1592	feminine
+1595	feminine
+1598	feminine
+
+
+
+1605	feminine
+1607	
+
+
+1611	feminine
+1617	masculine
+1619	
+1639	feminine
+1647	
+
+1650	masculine
+1655	
+1660	
+1663	masculine
+feminine
+
+1667	
+1670	
+1673	masculine
+masculine/feminine
+masculine
+1677	
+1679	
+feminine
+1682	feminine
+feminine
+1685	
+
+masculine
+1689	
+1692	
+masculine
+1695	
+1697	
+1700	
+masculine
+1707	
+1710	
+masculine
+1713	
+1716	
+masculine
+1720	
+
+1724	masculine
+1726	
+masculine
+1729	
+1731	
+
+1734	
+masculine
+1739	
+feminine
+1742	feminine
+feminine
+1745	
+
+
+1750	feminine
+1755	neuter
+masculine
+1758	masculine/neuter
+1761	
+
+1764	
+
+neuter
+1768	masculine/neuter
+1770	
+1772	
+1777	
+1780	masculine/neuter
+1782	
+1784	feminine
+1787	neuter
+1790	feminine
+1792	
+1795	
+1799	
+1802	
+
+1808	
+1811	
+
+1814	masculine
+1817	
+1820	
+1832	masculine
+1837	
+1844	masculine/neuter
+1850	masculine/neuter
+feminine
+feminine
+1858	masculine/neuter
+1860	
+1862	
+masculine
+1865	
+1867	
+1870	
+1872	
+1875	
+
+
+feminine
+1880	
+
+feminine
+
+
+neuter
+1888	feminine
+1891	neuter
+
+1897	
+1899	
+1901	feminine
+
+neuter
+feminine
+1906	neuter
+1908	
+1916	
+1919	feminine
+1922	
+1924	feminine
+1926	
+1929	
+
+1932	
+1936	
+1938	feminine
+1940	
+
+1943	
+
+neuter
+1947	
+masculine/neuter
+feminine
+1951	neuter
+1959	
+1961	feminine
+1963	
+1965	
+1970	
+1973	
+
+1978	feminine
+1981	
+
+
+1985	neuter
+1987	
+1989	
+1993	feminine
+1996	
+
+
+2000	
+2004	
+
+2008	
+
+masculine/feminine
+2013	
+2016	
+2018	neuter
+2023	masculine/neuter
+2026	masculine
+
+2029	
+neuter
+2032	masculine/neuter
+
+2035	
+
+2041	masculine/neuter
+2043	
+2046	
+masculine
+2049	
+2051	masculine/neuter
+2058	masculine/neuter
+2060	neuter
+
+2063	masculine/neuter
+2065	feminine
+2067	
+2069	
+
+2072	
+2074	
+masculine
+
+neuter
+2079	
+2082	neuter
+2084	
+
+2087	
+2090	feminine
+
+masculine
+2097	feminine
+
+
+2101	
+2104	
+2107	
+2110	
+
+
+2114	neuter
+2119	
+2121	
+2124	
+2126	
+
+
+2130	neuter
+2132	masculine/neuter
+neuter
+2136	masculine
+
+2140	masculine
+2142	
+2145	masculine
+2147	
+neuter
+2150	masculine
+masculine/neuter
+2154	neuter
+2157	masculine/neuter
+2159	
+2162	
+feminine
+feminine
+masculine/neuter
+2168	masculine
+neuter
+2172	masculine
+2174	
+2177	masculine
+2179	
+neuter
+2182	masculine
+masculine/neuter
+2186	neuter
+2189	masculine/neuter
+
+2192	
+2196	
+
+2200	
+masculine/neuter
+2203	neuter
+2206	
+
+
+2210	neuter
+masculine
+2214	
+2216	
+2218	
+2223	neuter
+2226	
+2229	
+2234	
+
+2237	
+masculine/neuter
+2240	
+masculine/neuter
+2244	
+
+2247	
+masculine
+2250	
+
+2253	
+2256	
+
+2259	
+2262	
+2266	masculine
+
+2269	
+2271	
+2274	
+2276	masculine
+2278	
+2281	masculine/neuter
+2283	
+2287	feminine
+2289	
+
+feminine
+2294	neuter
+2296	masculine/neuter
+
+
+2303	
+2306	
+2310	
+2316	masculine
+2318	masculine
+2321	
+
+2325	
+2329	masculine
+2331	
+2333	masculine
+2335	masculine/neuter
+neuter
+2340	
+2342	
+2344	masculine
+2348	feminine
+masculine/neuter
+2358	masculine
+
+2361	neuter
+
+2364	
+2366	
+2368	masculine
+2372	masculine
+2374	
+2379	
+2381	
+2383	masculine
+masculine/neuter
+2386	
+2389	masculine/neuter
+2392	
+
+
+2397	masculine/neuter
+2399	
+2403	feminine
+2406	
+
+2409	masculine/neuter
+
+
+
+
+2416	
+2421	
+2425	
+2428	neuter
+2433	feminine
+masculine/feminine
+2436	
+2439	masculine
+2443	
+2445	neuter
+2449	masculine/neuter
+2452	
+
+2456	masculine
+2460	
+
+2464	
+
+neuter
+2468	masculine/neuter
+neuter
+2473	
+2477	masculine/neuter
+2485	
+2487	
+2492	
+neuter
+
+feminine
+masculine/neuter
+
+
+2500	
+2503	feminine
+2508	masculine/neuter
+2510	masculine
+2512	
+
+2517	
+2525	feminine
+
+
+2531	feminine
+
+2537	masculine/feminine/neuter
+feminine
+neuter
+masculine/neuter
+2542	
+feminine
+feminine
+masculine/neuter
+2548	masculine/neuter
+feminine
+2551	
+
+2555	neuter
+2557	masculine/neuter
+neuter
+2560	
+
+2563	
+masculine
+feminine
+2569	
+
+masculine
+2573	
+masculine/neuter
+
+2579	
+2583	neuter
+2587	
+2590	feminine
+
+
+2596	feminine
+2600	feminine
+
+
+2605	masculine/neuter
+2607	masculine
+2609	
+masculine/neuter
+2612	
+feminine
+masculine/neuter
+
+
+
+2620	neuter
+2622	masculine/neuter
+neuter
+2625	
+
+2628	
+masculine
+2635	masculine
+2637	
+2639	
+
+2643	feminine
+2651	neuter
+2653	masculine/neuter
+2656	
+2658	
+feminine
+
+2664	
+2667	masculine/neuter
+neuter
+
+2671	
+2675	masculine/neuter
+2677	feminine
+feminine
+masculine/neuter
+2682	feminine
+masculine/neuter
+
+
+2692	masculine/neuter
+2696	masculine/feminine
+2700	masculine/feminine
+feminine
+2703	masculine/neuter
+
+2710	masculine/neuter
+2714	feminine
+
+2717	
+
+feminine
+2721	
+2723	neuter
+2728	feminine
+2730	feminine
+
+2733	
+neuter
+2736	masculine/neuter
+neuter
+2739	neuter
+2745	
+neuter
+2748	masculine/neuter
+
+feminine
+2752	masculine/neuter
+2757	
+
+masculine
+2764	feminine
+
+feminine
+2768	
+2772	feminine
+
+
+2778	feminine
+2782	
+masculine/neuter
+2789	masculine/neuter
+
+2793	
+2797	
+
+feminine
+masculine/neuter
+
+
+
+2806	neuter
+2808	masculine/neuter
+neuter
+2811	
+
+2814	
+masculine
+masculine
+
+
+2824	masculine
+2831	masculine/neuter
+2834	
+2836	
+2838	
+2842	masculine
+2850	masculine/neuter
+
+2856	neuter
+2858	masculine/neuter
+2862	feminine
+neuter
+masculine/neuter
+neuter
+2867	
+2870	neuter
+2872	neuter
+2875	neuter
+2877	masculine/neuter
+
+neuter
+2882	masculine/neuter
+2885	neuter
+2887	neuter
+2889	masculine/neuter
+2892	neuter
+2895	masculine/neuter
+2898	
+2903	
+masculine
+2909	neuter
+2911	masculine
+feminine
+masculine/feminine/neuter
+2915	
+2918	feminine
+
+2923	
+
+2928	
+
+
+2932	
+
+2937	neuter
+2939	
+
+2942	
+2944	
+masculine/neuter
+2948	
+2950	
+2952	
+2954	masculine/neuter
+2956	
+2958	feminine
+neuter
+neuter
+2963	masculine
+2967	
+2970	
+feminine
+feminine
+
+
+
+2977	masculine/neuter
+
+2980	
+
+
+
+2985	neuter
+2987	masculine/neuter
+neuter
+2990	neuter
+feminine
+2995	
+masculine
+2999	
+masculine/neuter
+masculine
+masculine
+
+3007	
+3009	feminine
+3014	
+3016	feminine
+
+
+
+
+3023	masculine/neuter
+
+3026	
+3028	
+
+
+3032	
+
+3035	
+
+3038	
+neuter
+3041	
+3045	
+
+3048	neuter
+3051	
+3054	neuter
+3057	masculine/neuter
+3061	feminine
+3066	masculine
+3069	
+3071	
+
+3075	neuter
+3078	feminine
+3080	masculine/neuter
+3083	neuter
+3085	masculine/neuter
+neuter
+3088	
+
+3092	
+3094	masculine
+3096	feminine
+3100	
+3103	neuter
+3105	
+3109	
+3112	feminine
+3115	
+3119	feminine
+feminine
+3123	masculine
+
+3127	
+
+3132	
+3135	
+3138	
+3140	
+3147	
+
+3150	
+3152	masculine/neuter
+3155	
+
+3159	neuter
+3161	
+
+
+
+
+3167	masculine/neuter
+3169	
+3173	
+3175	masculine/neuter
+3177	
+feminine
+3180	
+
+3183	
+masculine
+3186	masculine
+3188	
+3190	
+3192	neuter
+3200	
+3202	
+3204	masculine/neuter
+masculine
+
+3212	
+3215	masculine/neuter
+3220	
+
+3223	
+3225	feminine
+feminine
+3230	feminine
+
+3234	
+
+3238	
+3241	
+3244	neuter
+3248	neuter
+
+3252	
+3255	
+3258	
+masculine/neuter
+3262	
+neuter
+3265	
+3269	
+3271	
+3274	
+3277	
+3279	
+3284	
+3286	feminine
+3289	
+masculine/neuter
+3293	neuter
+3295	masculine/neuter
+neuter
+
+3299	
+
+feminine
+3305	neuter
+3307	feminine
+neuter
+3311	
+
+masculine
+feminine
+3318	
+3323	neuter
+3326	masculine
+
+3329	feminine
+3333	
+feminine
+feminine
+3339	feminine
+3341	feminine
+feminine
+
+3348	
+masculine
+3353	
+neuter
+feminine
+3359	feminine
+3361	feminine
+feminine
+
+3365	
+3367	
+
+masculine
+3372	
+3379	feminine
+
+3382	masculine
+3385	
+
+3390	
+feminine
+3394	feminine
+
+3397	masculine
+feminine
+
+3402	feminine
+3404	neuter
+3407	
+3409	
+3414	
+3416	
+3418	masculine
+3421	
+3424	
+3427	
+3430	neuter
+3433	
+3435	neuter
+3438	
+3444	
+feminine
+3450	neuter
+masculine
+3453	masculine
+masculine
+3456	
+3458	feminine
+3460	
+3462	neuter
+masculine
+3465	feminine
+
+3469	
+
+3472	
+3474	
+3476	
+3479	feminine
+masculine
+masculine
+3483	
+3488	
+3491	neuter
+3494	
+3502	
+3504	
+3507	feminine
+
+3510	
+masculine
+3521	
+3524	
+3531	
+3539	feminine
+
+3543	masculine
+
+3547	masculine
+
+3550	
+3556	
+3564	neuter
+feminine
+3568	
+3572	masculine
+3576	masculine/feminine/neuter
+3579	
+3584	neuter
+3587	feminine
+
+3591	masculine
+
+3595	masculine
+
+3603	
+3605	
+feminine
+3610	feminine
+3612	
+3614	neuter
+masculine
+3617	
+3620	masculine
+3625	
+
+3630	
+
+
+3635	
+masculine
+3638	feminine
+masculine/neuter
+3641	
+3643	
+3650	
+3655	masculine
+masculine
+neuter
+3661	
+3663	
+3666	
+
+masculine
+3672	
+3674	
+feminine
+feminine
+3678	
+3680	neuter
+masculine
+
+3685	
+
+neuter
+neuter
+
+
+3692	masculine
+3696	
+masculine
+
+masculine
+3703	
+
+3709	masculine
+3712	masculine
+masculine
+neuter
+masculine/feminine
+3718	
+3722	masculine
+3724	
+3728	
+3730	
+3732	neuter
+3735	masculine
+3743	
+3745	
+3747	
+3751	neuter
+masculine/feminine
+3760	
+
+3766	
+3772	
+3777	
+3780	neuter
+3783	
+
+3786	neuter
+masculine
+3790	
+3793	feminine
+
+
+3800	
+
+3803	
+
+3806	
+
+3813	
+3822	
+3824	feminine
+3826	
+masculine
+3829	
+3831	feminine
+3833	
+3840	neuter
+3843	neuter
+3846	masculine
+3848	
+neuter
+masculine
+
+
+
+
+3857	masculine
+3860	neuter
+masculine/feminine
+
+3866	feminine
+3868	neuter
+masculine
+
+3873	
+3876	feminine
+
+3882	
+3887	
+3889	neuter
+3894	
+3896	feminine
+3905	feminine
+3911	masculine
+3917	neuter
+feminine
+3920	
+3922	masculine/neuter
+3926	masculine/neuter
+3932	masculine
+3934	neuter
+masculine
+3941	
+3943	
+feminine
+3948	
+3951	
+masculine
+3954	neuter
+3957	
+3959	neuter
+masculine
+feminine
+3966	feminine
+feminine
+
+
+
+neuter
+3974	
+
+3977	
+3981	
+3985	feminine
+
+3988	masculine
+neuter
+3991	masculine
+3994	
+3998	neuter
+4000	masculine
+
+4003	
+4008	
+
+4011	feminine
+
+feminine
+
+4016	
+4021	masculine
+feminine
+
+4025	
+4029	
+4038	neuter
+4046	masculine
+masculine
+neuter
+
+4051	
+4054	
+
+4061	
+4067	masculine/feminine
+4069	masculine
+4071	feminine
+4073	masculine
+4077	
+4079	masculine
+
+4082	feminine
+4086	feminine
+4088	
+
+4091	
+
+4094	
+4106	neuter
+4110	masculine/feminine
+4112	feminine
+4114	
+4117	
+
+masculine
+4121	masculine/feminine
+4123	masculine
+4125	
+
+4130	
+
+feminine
+
+4135	masculine/feminine
+4137	feminine
+4142	masculine
+4147	masculine
+
+4150	feminine
+4152	feminine
+
+4159	
+4161	
+masculine
+4166	
+4170	
+
+feminine
+feminine
+4175	
+
+
+
+4183	
+4186	masculine
+4192	
+4196	neuter
+4198	feminine
+4202	
+feminine
+feminine
+4207	
+
+
+masculine
+4216	
+4219	feminine
+feminine
+feminine
+feminine
+
+4225	
+4228	
+4230	masculine
+4232	feminine
+
+4238	
+4241	feminine
+neuter
+masculine
+4246	feminine
+
+
+4250	
+4253	masculine/neuter
+feminine
+4257	
+
+4261	neuter
+
+4265	
+4268	neuter
+masculine
+4271	
+feminine
+
+4276	
+feminine
+
+4280	
+masculine/neuter
+4285	
+4288	masculine/neuter
+feminine
+4291	
+4293	
+4295	
+4298	masculine
+
+
+
+neuter
+4304	
+
+4312	
+
+4315	
+
+masculine/neuter
+4319	
+4321	
+
+4325	masculine/neuter
+4329	
+4332	
+4335	masculine
+4341	masculine
+4343	neuter
+
+4348	feminine
+masculine
+neuter
+masculine
+4358	masculine
+4360	masculine
+4362	
+4364	
+4367	
+4370	feminine
+4372	
+4374	
+4378	
+4385	
+masculine
+4390	
+4393	masculine
+4395	
+4398	
+neuter
+4407	neuter
+4409	masculine/neuter
+neuter
+4412	
+
+4417	masculine
+4421	masculine
+masculine
+4429	masculine
+4433	
+4437	
+
+
+4444	masculine
+feminine
+4447	masculine
+neuter
+4452	masculine
+4455	masculine
+4457	feminine
+masculine/neuter
+4462	
+4464	neuter
+masculine
+masculine
+4468	masculine
+
+
+4476	feminine
+4478	neuter
+4482	feminine
+4486	feminine
+neuter
+4491	
+4496	
+4505	
+4507	
+4510	neuter
+feminine
+4513	
+4516	
+
+4519	
+
+4524	masculine
+
+4527	neuter
+4529	
+4531	masculine
+
+4534	
+4537	
+
+4540	
+4545	
+4548	
+masculine
+4554	masculine
+
+
+4561	
+4563	
+4566	masculine/neuter
+4573	neuter
+masculine
+4578	masculine
+feminine
+
+feminine
+
+4586	masculine
+4588	
+
+
+
+
+4594	
+
+4597	
+4599	neuter
+4602	
+4604	
+4606	neuter
+4608	masculine
+masculine
+4611	feminine
+4613	
+
+4616	feminine
+4618	masculine/neuter
+
+masculine
+4622	
+feminine
+4627	
+4631	neuter
+masculine
+
+4636	
+4639	feminine
+4641	masculine
+4646	
+
+4652	masculine
+
+4657	
+
+4661	neuter
+4671	masculine
+4674	feminine
+4677	
+
+4682	feminine
+4685	
+masculine
+4689	
+4692	masculine
+neuter
+feminine
+4699	
+4704	masculine
+
+4707	
+4709	neuter
+masculine
+
+
+4715	
+
+4718	
+masculine
+4721	
+4724	feminine
+masculine
+
+4729	masculine/neuter
+4731	
+4734	feminine
+masculine
+4740	neuter
+masculine
+masculine
+
+4746	masculine
+4751	
+
+4756	feminine
+4759	
+4766	
+masculine/feminine/neuter
+4769	neuter
+4773	masculine
+4775	masculine
+4777	
+4779	
+
+4782	masculine
+4785	
+
+
+
+4790	masculine/feminine/neuter
+4792	feminine
+neuter
+feminine
+4796	neuter
+masculine
+4799	feminine
+feminine
+4803	
+4805	
+4808	feminine
+4812	masculine
+4814	feminine
+4817	feminine
+4820	feminine
+
+masculine
+4828	feminine
+
+
+4840	
+4843	
+neuter
+4848	masculine
+4850	
+
+4854	
+masculine/neuter
+
+4859	
+4861	
+4864	
+feminine
+4869	feminine
+
+4873	
+neuter
+4878	feminine
+4881	feminine
+4884	feminine
+
+4890	feminine
+4894	masculine
+masculine
+neuter
+masculine
+4900	masculine
+neuter
+4903	
+4906	neuter
+
+4911	neuter
+4913	
+4917	
+4920	neuter
+
+4923	neuter
+
+4928	masculine
+neuter
+4933	neuter
+4935	neuter
+4943	neuter
+masculine
+
+4947	masculine
+
+4954	
+4959	
+4963	feminine
+4965	feminine
+4967	
+4971	
+masculine
+
+4975	feminine
+feminine
+4978	
+4980	
+
+
+4984	
+neuter
+
+
+4989	
+
+masculine
+
+4997	neuter
+
+5001	masculine/neuter
+5003	feminine
+
+5008	feminine
+5015	neuter
+5018	masculine
+
+
+5023	
+5025	
+5028	
+5030	
+5034	
+5036	feminine
+
+5041	
+5044	
+5047	neuter
+5050	feminine
+neuter
+neuter
+5054	feminine
+
+masculine/neuter
+5059	neuter
+5063	neuter
+feminine
+
+masculine/neuter
+5068	feminine
+5072	
+5074	
+feminine
+5077	
+5079	
+masculine/neuter
+5082	
+5085	
+5089	
+5093	masculine
+masculine/neuter
+feminine
+
+
+
+5104	
+feminine
+5107	
+5109	feminine
+5111	
+5113	
+feminine
+
+5117	
+5119	masculine
+
+5123	
+masculine
+5127	
+
+feminine
+5131	
+5136	masculine/neuter
+5138	feminine
+
+feminine
+5142	
+5145	feminine
+
+feminine
+5153	masculine
+
+5156	
+
+masculine
+5165	
+feminine
+5169	
+
+5175	
+
+5185	
+masculine
+5188	
+5191	
+5193	masculine/neuter
+5195	
+
+
+
+5202	
+5211	
+5213	
+5216	
+5220	feminine
+5224	neuter
+5227	
+5234	feminine
+
+5237	feminine
+5239	
+
+5243	feminine
+5245	
+
+5251	feminine
+
+5254	feminine
+
+neuter
+5258	
+
+5266	
+5270	masculine/feminine
+
+5273	
+5276	feminine
+
+neuter
+5280	
+5282	neuter
+5284	
+neuter
+masculine/feminine
+
+
+5297	
+5310	
+5315	
+
+
+5319	feminine
+
+
+
+5326	
+5329	
+5333	neuter
+5336	
+5344	
+5347	
+
+5354	
+5357	
+
+5362	masculine
+5366	neuter
+
+masculine
+5374	
+
+5377	masculine/neuter
+masculine/neuter
+5381	feminine
+5385	
+5387	
+5390	
+5392	masculine
+
+5398	
+
+
+5404	
+masculine
+
+5409	
+5412	
+
+5415	
+5418	
+5424	
+masculine
+5428	
+5431	
+
+5434	
+masculine
+5437	
+5448	
+5452	
+5454	
+
+5457	
+5460	
+5466	
+5468	feminine
+5472	
+
+masculine
+5476	
+neuter
+masculine
+5480	
+5489	neuter
+masculine
+5492	
+5506	
+5508	
+
+5515	neuter
+5518	
+
+
+5523	neuter
+5526	
+
+5529	
+
+5532	neuter
+5534	feminine
+5538	neuter
+5545	neuter
+5548	
+5555	neuter
+5557	neuter
+
+5560	
+5562	
+5566	neuter
+
+feminine
+5570	masculine/neuter
+5572	
+
+5575	
+5578	feminine
+
+
+5583	
+5586	
+feminine
+5589	
+5591	neuter
+masculine
+5597	
+5600	
+5604	
+5606	masculine/neuter
+feminine
+neuter
+5611	
+
+
+5615	feminine
+5617	
+masculine/neuter
+5620	feminine
+5622	feminine
+
+
+5627	
+neuter
+5630	
+5632	
+5634	
+neuter
+masculine
+
+5640	
+5642	feminine
+
+5645	
+
+5649	
+masculine/neuter
+
+5657	
+5666	neuter
+5669	
+
+5675	neuter
+masculine
+
+5684	
+5686	masculine
+
+5690	
+5692	
+5697	
+
+5700	
+masculine
+feminine
+feminine
+5705	
+5707	
+5709	feminine
+
+5715	
+
+
+5719	
+5724	
+5726	
+5728	
+5733	
+masculine/neuter
+5736	
+5739	masculine/neuter
+5741	masculine/neuter
+feminine
+
+
+5747	
+5749	masculine
+5752	
+5754	neuter
+5757	
+5759	feminine
+5761	
+5763	
+5768	feminine
+5770	
+5772	feminine
+5774	feminine
+feminine
+5777	
+5780	feminine
+5785	masculine
+
+5788	neuter
+5790	feminine
+5794	
+
+5800	neuter
+5803	neuter
+
+5809	
+5813	neuter
+5815	masculine
+5817	
+5820	feminine
+masculine
+5824	
+5826	
+5838	neuter
+5840	masculine
+5842	
+neuter
+
+5846	neuter
+5848	
+
+neuter
+5852	masculine
+5854	
+
+5857	masculine
+5859	
+5866	feminine
+5876	feminine
+
+5880	feminine
+5883	
+
+5888	masculine
+5891	masculine
+5893	
+
+
+5900	feminine
+5902	feminine
+5904	
+
+
+
+
+5914	
+
+5919	
+5921	
+feminine
+5924	
+
+5930	feminine
+
+5933	feminine
+masculine
+
+
+
+
+5941	feminine
+5943	feminine
+5945	
+masculine
+5948	
+
+5953	
+
+
+5958	
+5960	
+feminine
+5963	
+masculine
+
+5967	
+5969	
+neuter
+masculine
+
+5974	masculine
+5976	masculine
+
+
+5982	
+
+5986	masculine
+5988	masculine
+5991	feminine
+5993	
+neuter
+5996	
+6001	masculine/neuter
+neuter
+6006	
+6014	
+6016	neuter
+6018	
+6023	
+6025	neuter
+6029	neuter
+feminine
+neuter
+6033	
+6038	masculine
+6042	masculine
+
+feminine
+
+6047	masculine
+6050	feminine
+6054	
+
+6061	
+6067	masculine/neuter
+neuter
+6079	
+6081	
+6084	neuter
+masculine
+6088	feminine
+6091	masculine
+6093	feminine
+
+6102	masculine
+6106	neuter
+6108	
+masculine
+feminine
+masculine/neuter
+
+6117	
+6119	neuter
+6121	
+6126	
+6128	
+6131	masculine
+6133	
+
+6136	
+6139	
+
+6150	
+6153	
+6156	
+
+6160	
+
+
+6165	
+
+
+
+6171	masculine
+6173	
+
+masculine/feminine/neuter
+6180	
+
+
+6184	
+
+
+masculine/feminine/neuter
+6191	
+6196	masculine
+6200	
+6202	
+6206	masculine/feminine
+6209	
+6211	neuter
+6213	
+
+feminine
+
+6219	
+6222	feminine
+6224	
+6227	
+feminine
+6232	masculine
+
+6237	
+6240	
+neuter
+6243	
+6247	
+masculine/neuter
+6251	
+
+neuter
+6255	neuter
+6260	
+6263	
+6271	
+6276	masculine
+6279	
+
+6282	masculine
+masculine/neuter
+6290	masculine/feminine
+
+feminine
+
+6296	masculine
+6301	
+6305	neuter
+6307	masculine
+6324	neuter
+6330	neuter
+feminine
+6333	
+6335	masculine/neuter
+
+neuter
+masculine/feminine
+6342	neuter
+6347	feminine
+neuter
+6360	masculine
+6362	
+
+
+
+
+6368	
+6370	
+6373	
+6377	
+6382	
+feminine
+
+
+
+6391	
+6393	
+6413	
+6415	masculine
+6418	
+
+6422	neuter
+6425	masculine
+6429	
+6433	feminine
+neuter
+
+6437	
+
+6440	
+6442	masculine/feminine/neuter
+6446	
+feminine
+
+6450	feminine
+feminine
+6457	feminine
+6459	
+neuter
+6467	
+neuter
+masculine
+6476	
+6479	feminine
+feminine
+
+6483	
+6485	
+6488	feminine
+neuter
+masculine
+
+masculine/neuter
+
+6496	feminine
+6499	feminine
+6501	masculine/neuter
+
+6504	
+6506	
+6509	feminine
+neuter
+neuter
+6514	feminine
+feminine
+feminine
+
+
+
+
+masculine
+6524	
+6527	
+
+6530	feminine
+feminine
+
+
+neuter
+6536	masculine
+
+6544	
+
+neuter
+6550	
+6552	
+6555	neuter
+6557	masculine
+6559	
+6561	neuter
+6563	
+
+feminine
+neuter
+6572	feminine
+6574	
+6581	neuter
+
+6584	
+
+
+
+
+6593	
+
+
+
+6598	
+6604	
+6606	
+6609	
+
+6612	
+6616	masculine
+6620	
+neuter
+
+6630	
+6634	
+
+6641	
+
+feminine
+6649	
+6652	
+6655	
+neuter
+6660	
+
+6664	feminine
+6666	neuter
+6670	
+6674	feminine
+
+6677	
+
+neuter
+6681	neuter
+6683	
+masculine
+feminine
+
+6688	
+6690	
+feminine
+6696	masculine
+masculine/neuter
+6702	masculine
+masculine/neuter
+6706	
+6708	
+6713	masculine
+6717	
+6720	neuter
+6722	
+
+6725	neuter
+feminine
+6730	
+6736	
+6741	
+6745	
+6747	
+6750	
+6752	masculine/feminine
+feminine
+6755	masculine/feminine
+6759	neuter
+6761	
+
+
+6765	
+6768	masculine/feminine
+feminine
+6771	masculine/feminine
+6776	
+6778	feminine
+6784	
+6786	
+6788	
+6793	
+neuter
+6797	
+
+6800	
+6802	feminine
+6808	
+6810	
+6814	feminine
+6817	
+6822	
+neuter
+6831	
+6833	
+
+6838	masculine
+
+6845	
+
+6850	
+6854	
+6868	feminine
+6870	feminine
+6874	
+6878	feminine
+feminine
+
+
+
+neuter
+6885	masculine/neuter
+6893	feminine
+6895	
+6899	
+feminine
+6903	masculine
+6905	
+6907	
+6910	
+
+6915	
+feminine
+6918	masculine/neuter
+6920	masculine
+6922	masculine/neuter
+
+6926	masculine
+
+neuter
+6930	
+
+
+masculine/neuter
+6937	feminine
+6941	
+
+masculine
+6947	
+6950	
+6953	feminine
+
+
+
+feminine
+6961	masculine
+6966	
+
+6969	feminine
+
+6973	
+
+
+6984	
+6986	feminine
+6989	neuter
+masculine
+6994	neuter
+6998	
+7005	
+7007	masculine
+7011	neuter
+7020	feminine
+
+7023	masculine
+
+7026	neuter
+masculine
+
+7031	
+
+7035	feminine
+7037	
+neuter
+7043	feminine
+feminine
+7046	feminine
+
+7049	
+7051	feminine
+masculine/feminine
+7059	
+7061	feminine
+7067	
+7072	feminine
+7078	
+7080	
+7086	feminine
+7090	feminine
+
+7093	
+7098	feminine
+7111	neuter
+
+7115	feminine
+7117	masculine
+feminine
+neuter
+7121	neuter
+7123	
+7127	neuter
+7129	
+
+
+
+7135	feminine
+7138	feminine
+7140	
+7147	
+7155	
+7158	
+7161	
+feminine
+7164	
+7167	
+
+7176	
+
+7181	feminine
+7184	feminine
+feminine
+7191	
+7198	
+7201	feminine
+neuter
+
+7208	
+7214	feminine
+7217	
+7223	
+7227	
+
+7232	
+7234	masculine/neuter
+7236	
+masculine
+7239	
+7242	feminine
+7244	masculine/neuter
+
+7247	feminine
+7249	
+
+
+7253	
+7255	
+7258	feminine
+
+7264	
+feminine
+
+7272	
+7274	
+
+7282	feminine
+7287	neuter
+7292	neuter
+
+7295	
+
+7299	neuter
+neuter
+7304	neuter
+7307	feminine
+masculine/feminine
+7312	neuter
+7315	feminine
+7323	
+7326	
+7328	
+7334	
+7336	feminine
+7341	neuter
+7343	
+7349	neuter
+7352	feminine
+7354	feminine
+
+
+7359	feminine
+
+
+
+
+7369	neuter
+7373	feminine
+7378	neuter
+7381	feminine
+7383	
+7385	
+
+7388	
+7398	
+
+7402	masculine
+7404	feminine
+feminine
+7407	
+7409	
+masculine
+7412	
+
+7415	
+
+7418	
+7421	feminine
+7423	
+neuter
+7427	
+7429	masculine
+7431	
+
+7435	
+7437	
+neuter
+7442	
+7444	
+7446	feminine
+7450	masculine
+
+
+
+
+7456	masculine
+7458	masculine
+7460	
+
+
+7465	
+7467	
+7469	neuter
+7476	
+masculine
+7479	
+7481	
+7486	feminine
+neuter
+7492	
+masculine
+feminine
+7496	
+feminine
+7501	masculine/feminine
+7503	feminine
+feminine
+
+7508	
+7510	
+7512	
+7515	
+masculine
+feminine
+7520	
+feminine
+
+7526	
+feminine
+7531	
+
+7536	
+
+7540	masculine
+neuter
+7543	feminine
+feminine
+7546	
+7552	
+
+
+7556	
+7558	
+7576	feminine
+feminine
+
+
+7582	
+7584	
+
+
+
+7590	neuter
+7592	feminine
+feminine
+7595	
+7600	
+
+7604	
+feminine
+
+7608	neuter
+7610	neuter
+7612	neuter
+masculine
+
+7620	
+7627	neuter
+feminine
+
+7631	masculine/neuter
+
+
+7639	feminine
+7641	masculine
+7647	
+7650	feminine
+7653	masculine
+feminine
+
+masculine
+masculine
+masculine/feminine
+7660	
+7663	
+
+neuter
+7667	
+
+neuter
+masculine
+7672	masculine
+7675	neuter
+7677	
+
+neuter
+7683	neuter
+7687	masculine
+7690	
+masculine
+
+7694	feminine
+feminine
+7698	
+masculine
+
+
+7703	neuter
+7706	neuter
+feminine
+feminine
+7710	neuter
+7712	neuter
+7718	masculine
+7720	feminine
+7722	
+7725	
+feminine
+7733	
+7735	
+
+7739	neuter
+7741	
+
+7745	
+7747	
+7750	feminine
+
+neuter
+feminine
+feminine
+7761	masculine/neuter
+7763	
+7766	
+7770	neuter
+7773	neuter
+7776	masculine
+7778	masculine
+
+
+
+neuter
+7784	
+7786	feminine
+
+7789	feminine
+neuter
+
+7794	neuter
+7796	feminine
+feminine
+7799	
+7802	
+
+7808	
+7813	
+
+7816	
+feminine
+
+7825	neuter
+7827	feminine
+feminine
+7830	
+7837	feminine
+7841	
+neuter
+feminine
+7849	neuter
+7851	feminine
+feminine
+7854	
+masculine
+7857	
+7866	
+7875	feminine
+feminine
+
+7879	feminine
+7881	feminine
+
+7886	
+7888	
+
+7892	masculine
+7895	masculine/neuter
+7899	
+7901	feminine
+7903	masculine/neuter
+7905	
+7908	
+7912	neuter
+7915	neuter
+7918	masculine
+7921	neuter
+
+7924	
+neuter
+7927	
+7929	neuter
+7935	feminine
+7937	
+masculine/feminine
+7941	
+7945	
+7947	
+feminine
+7950	feminine
+feminine
+7953	
+7955	neuter
+masculine
+7964	
+7967	
+7970	
+7973	feminine
+7978	
+
+7981	feminine
+7985	feminine
+7990	neuter
+
+7995	feminine
+7997	
+
+8001	masculine
+8003	
+8008	masculine
+8012	feminine
+8014	
+8016	
+8018	feminine
+
+
+8024	neuter
+8027	
+8029	neuter
+8031	masculine
+
+8038	
+8040	
+8044	
+8047	
+8050	
+8054	feminine
+8056	
+feminine
+
+8060	
+8064	neuter
+8068	masculine
+8070	
+8073	
+8077	neuter
+8083	feminine
+8085	feminine
+8087	feminine
+8089	masculine/neuter
+
+8092	neuter
+8100	
+8103	feminine
+8107	
+
+8110	
+
+8113	neuter
+8118	masculine
+8124	
+8128	
+
+8136	
+8139	feminine
+8143	
+
+8148	
+8152	
+8157	neuter
+8159	feminine
+8161	feminine
+8175	
+8179	neuter
+8181	feminine
+8183	
+8193	
+8198	feminine
+8200	
+8205	
+8210	feminine
+8214	masculine
+feminine
+
+
+8226	
+masculine
+
+8230	neuter
+masculine
+8234	
+8236	
+masculine/feminine
+8240	masculine
+8243	masculine
+8247	feminine
+8250	masculine
+feminine
+8264	feminine
+feminine
+8270	masculine
+feminine
+masculine
+masculine/feminine
+8275	neuter
+8278	feminine
+
+
+8282	neuter
+8288	
+8290	
+8294	neuter
+8296	masculine
+
+8303	
+8307	masculine
+8309	
+8314	
+8320	feminine
+neuter
+8323	
+
+8329	feminine
+8334	
+8343	feminine
+8345	
+8348	
+8350	feminine
+8356	masculine
+8358	feminine
+8367	
+8369	
+8375	masculine
+8378	
+8383	masculine
+8385	masculine
+feminine
+
+8390	feminine
+8392	
+8398	
+8400	
+feminine
+
+
+8411	
+8415	masculine
+8417	feminine
+8421	
+8426	
+8436	neuter
+
+8440	neuter
+8450	masculine
+8454	masculine
+8456	feminine
+8461	masculine
+neuter
+8464	masculine
+
+8470	
+
+
+8476	neuter
+masculine
+8479	masculine
+
+8484	
+
+8488	neuter
+8490	
+masculine
+
+8494	
+neuter
+8499	masculine
+8501	feminine
+8503	neuter
+8505	
+
+8508	
+8510	
+8515	feminine
+8530	
+masculine
+masculine
+neuter
+8535	
+8537	neuter
+masculine
+
+8543	
+8545	
+8548	
+8552	masculine/neuter
+feminine
+
+8558	neuter
+8560	masculine
+8562	
+
+8565	
+8567	masculine
+8569	
+8571	
+feminine
+masculine
+8578	
+8583	masculine
+8585	
+8587	
+
+
+
+8599	masculine
+8607	
+
+
+8611	
+8614	
+
+8618	
+masculine
+8625	masculine
+neuter
+8628	masculine
+feminine
+masculine/neuter
+8643	
+neuter
+8646	
+
+8649	neuter
+8653	
+8656	
+
+feminine
+8661	masculine/neuter
+neuter
+8665	
+
+8673	neuter
+masculine/feminine/neuter
+8676	
+8682	
+8684	
+
+
+8688	
+8690	feminine
+8693	neuter
+
+
+8699	
+8702	
+
+8706	
+8711	
+
+feminine
+8716	masculine/neuter
+8718	masculine
+8721	masculine/neuter
+8723	masculine
+neuter
+8730	
+feminine
+8733	neuter
+feminine
+8736	
+8738	
+
+8747	feminine
+8751	
+8753	
+8755	
+8759	
+8762	
+8765	
+8767	masculine
+8769	
+8772	
+8777	masculine
+feminine
+
+8781	
+
+masculine
+8789	neuter
+8791	
+
+feminine
+8798	neuter
+8801	neuter
+8804	masculine/feminine
+8806	
+
+8809	masculine
+8813	neuter
+
+8816	
+8819	
+8821	neuter
+8823	
+8825	neuter
+masculine/feminine
+8828	
+neuter
+8831	
+8836	
+8838	
+
+neuter
+8842	masculine
+
+8846	
+8849	
+8851	
+8854	feminine
+8856	feminine
+8858	
+8862	
+8864	feminine
+
+8871	
+8875	
+
+8883	feminine
+8893	
+8896	feminine
+8899	neuter
+masculine
+8902	
+feminine
+feminine
+masculine
+8909	
+8911	neuter
+8914	feminine
+masculine
+8917	
+feminine
+neuter
+8921	masculine
+8924	feminine
+8927	masculine
+8929	neuter
+8932	
+8937	masculine
+feminine
+
+8942	masculine
+neuter
+8945	
+8947	
+masculine/neuter
+neuter
+8951	
+
+8954	
+
+8957	
+feminine
+8960	feminine
+8962	
+8964	feminine
+8969	feminine
+masculine
+
+8973	neuter
+8975	
+
+8979	masculine
+8984	neuter
+8989	feminine
+8991	
+
+masculine/feminine
+8996	feminine
+9006	masculine
+9008	masculine/feminine/neuter
+masculine
+9011	
+neuter
+masculine
+
+9016	
+9019	masculine/neuter
+feminine
+9023	masculine
+
+9028	feminine
+9033	
+9035	feminine
+
+9038	neuter
+masculine
+9041	neuter
+9045	feminine
+9047	
+
+9060	feminine
+9062	
+
+9071	neuter
+9074	
+9081	
+9085	
+masculine
+9091	
+9096	masculine
+9098	neuter
+9100	masculine
+9103	feminine
+
+
+9110	
+
+feminine
+masculine/feminine
+masculine/neuter
+9122	
+9124	masculine/feminine
+9128	
+masculine/neuter
+
+9132	
+9134	
+9136	masculine
+feminine
+
+masculine/feminine
+
+9145	
+9149	
+9151	neuter
+masculine
+
+9155	
+masculine
+9158	neuter
+9161	feminine
+9164	
+
+9167	
+9177	feminine
+9180	
+9185	masculine
+9187	feminine
+9197	
+9200	
+9204	masculine
+9207	
+9211	masculine
+9213	masculine
+feminine
+9219	
+9224	
+feminine
+feminine
+9228	feminine
+9230	masculine
+9239	
+
+
+9243	neuter
+9245	
+
+9248	feminine
+9250	
+neuter
+9254	neuter
+9257	
+9259	masculine
+9263	neuter
+9268	
+
+
+9272	feminine
+9274	feminine
+9276	
+9278	
+neuter
+feminine
+9284	
+9290	
+9296	masculine
+9299	feminine
+9301	masculine
+feminine
+
+9305	
+9309	neuter
+9311	masculine
+
+9314	
+9316	
+9324	masculine
+9327	
+9329	masculine
+
+9336	neuter
+masculine
+
+9340	
+
+9344	
+9347	
+9349	
+
+
+9358	
+9361	
+9368	feminine
+9371	
+9373	
+
+9377	masculine
+
+
+
+9391	
+9393	
+9399	masculine
+
+9410	neuter
+masculine
+
+feminine
+feminine
+9417	
+9420	feminine
+
+masculine
+feminine
+
+masculine
+feminine
+9430	
+
+masculine
+9434	neuter
+masculine
+9440	
+9445	masculine
+
+feminine
+9449	masculine
+
+9454	masculine/feminine
+9456	
+9458	
+9460	masculine
+9462	
+9464	
+neuter
+masculine
+neuter
+9469	
+
+
+9473	
+9475	neuter
+masculine
+
+9479	masculine/feminine
+
+masculine
+9483	
+9489	masculine
+9491	neuter
+9494	neuter
+
+9497	
+masculine
+9500	masculine
+
+
+9504	
+9511	
+9514	
+9517	masculine
+9519	
+9522	masculine
+9526	feminine
+9528	
+9531	neuter
+9538	
+9540	
+9543	neuter
+9550	
+9552	
+9560	
+9563	neuter
+masculine
+9568	masculine
+masculine
+9573	
+
+
+9577	
+9581	feminine
+9587	masculine
+9594	
+feminine
+9600	neuter
+9603	masculine
+9605	masculine
+masculine/feminine
+masculine
+masculine
+9612	masculine
+9614	neuter
+9616	masculine
+
+
+9620	
+
+9623	masculine
+9625	
+
+
+9629	feminine
+feminine
+
+
+
+feminine
+9638	neuter
+masculine
+
+9643	
+
+9647	
+9653	masculine/feminine/neuter
+9656	
+9662	neuter
+
+9665	
+
+
+
+9672	
+
+9675	
+
+9678	
+
+9685	neuter
+9688	masculine
+
+9692	
+
+9695	
+9697	
+9701	
+
+9705	neuter
+9707	
+
+9710	
+9712	
+
+9715	
+9718	masculine
+
+9722	
+9724	
+9727	
+feminine
+
+
+
+
+
+9741	
+feminine
+
+9747	
+
+9750	
+9752	feminine
+
+feminine
+9756	feminine
+9759	neuter
+masculine
+9762	masculine
+9769	
+9773	
+9777	masculine
+9781	feminine
+9786	
+
+neuter
+9790	feminine
+9793	
+9795	feminine
+
+9800	
+9803	masculine
+9808	
+
+9811	neuter
+9813	
+
+masculine
+masculine
+masculine
+9819	feminine
+9822	
+9824	
+9826	masculine/feminine
+
+masculine
+9837	
+9839	
+9842	
+9845	
+
+9850	feminine
+9853	neuter
+9856	neuter
+9858	
+9861	
+
+9865	masculine
+feminine
+
+9870	feminine
+9873	feminine
+9876	neuter
+masculine
+9880	feminine
+
+9885	
+
+9890	feminine
+9893	
+9898	feminine
+9900	feminine
+9902	
+9906	neuter
+masculine
+masculine
+9913	feminine
+
+neuter
+9917	
+
+9920	feminine
+9922	feminine
+9925	masculine
+feminine
+masculine
+9930	masculine
+9932	
+
+9935	
+9937	masculine
+neuter
+9940	
+
+9946	
+neuter
+
+9950	
+
+9953	
+9960	neuter
+
+9963	feminine
+9967	neuter
+9969	
+
+9974	feminine
+9977	masculine
+feminine
+
+9982	
+9984	
+9986	feminine
+9997	masculine
+masculine
+neuter
+10003	
+10006	masculine
+
+10011	
+10016	
+10024	masculine/neuter
+10029	
+
+10032	neuter
+masculine
+
+
+neuter
+10040	feminine
+
+10043	masculine/neuter
+
+feminine
+
+
+masculine/neuter
+
+10056	neuter
+masculine
+10061	
+10063	neuter
+10066	neuter
+masculine/feminine
+10070	
+10074	masculine
+feminine
+
+masculine
+10079	masculine
+
+neuter
+10088	neuter
+10090	
+10092	neuter
+10095	masculine/neuter
+feminine
+10098	
+
+neuter
+
+10103	
+10106	
+
+neuter
+10110	
+neuter
+10114	
+10117	
+
+10121	feminine
+
+10124	feminine
+
+10127	neuter
+masculine
+10130	neuter
+10132	
+
+10135	
+10143	
+feminine
+10148	feminine
+10151	feminine
+
+10155	masculine
+feminine
+10159	
+10162	neuter
+neuter
+10165	masculine/neuter
+10167	
+10169	
+
+10173	
+10178	neuter
+masculine
+masculine
+10182	masculine
+
+masculine
+masculine
+masculine
+10190	masculine
+10192	
+
+10197	
+feminine
+
+10202	masculine
+10207	masculine
+10210	neuter
+masculine
+10213	
+
+masculine
+
+10223	
+10225	masculine
+10229	masculine
+masculine
+10232	
+10234	
+10237	
+feminine
+10245	
+10247	
+
+10253	masculine
+feminine
+
+masculine
+masculine
+10259	neuter
+10262	
+10264	feminine
+10266	
+10269	masculine
+10272	
+10274	feminine
+10276	
+feminine
+
+
+neuter
+10282	
+10285	
+feminine
+feminine
+10291	
+10293	feminine
+10295	
+10298	
+10300	
+10302	masculine
+10306	neuter
+10308	
+10310	feminine
+10312	
+10315	neuter
+
+neuter
+masculine
+10321	
+10328	
+
+feminine
+10332	masculine/neuter
+10336	
+10347	
+10350	
+
+neuter
+10354	masculine
+10356	
+10360	feminine
+
+10364	feminine
+feminine
+10368	
+10371	
+10375	
+10377	feminine
+10379	masculine/neuter
+
+neuter
+10383	masculine/neuter
+10385	masculine
+neuter
+10389	masculine
+10391	
+masculine
+masculine
+10396	
+10398	
+10400	
+10402	
+10405	
+10410	
+10414	masculine
+10416	
+neuter
+10419	masculine/neuter
+10421	masculine
+
+10425	masculine
+10427	
+masculine
+masculine
+10432	
+10434	
+10436	
+10441	
+10444	
+10446	
+10448	
+10451	masculine/neuter
+10453	
+10455	
+
+masculine
+10459	masculine
+
+
+feminine
+10467	
+10470	
+
+
+10474	
+
+neuter
+feminine
+10484	neuter
+
+masculine
+10488	
+feminine
+
+
+10493	feminine
+masculine
+10497	
+10501	neuter
+feminine
+10505	feminine
+
+
+
+10513	
+10516	
+
+10524	feminine
+10526	
+10528	masculine/neuter
+
+
+
+10533	
+neuter
+10536	masculine/neuter
+10538	neuter
+10540	
+neuter
+10543	masculine/neuter
+
+neuter
+10548	
+10550	
+
+neuter
+masculine/neuter
+
+10558	masculine/neuter
+neuter
+10562	
+
+10565	
+10567	feminine
+
+10574	masculine
+
+masculine
+10578	neuter
+10580	neuter
+10582	
+feminine
+
+10586	
+neuter
+10591	feminine
+
+10594	masculine
+10596	neuter
+10599	neuter
+
+feminine
+
+
+feminine
+neuter
+
+10611	feminine
+
+10615	feminine
+neuter
+10622	feminine
+
+10626	feminine
+
+
+
+neuter
+10633	
+masculine/neuter
+10641	
+neuter
+10646	neuter
+
+10650	
+
+
+masculine/neuter
+10655	
+10657	
+masculine/feminine
+10660	
+10666	
+10668	feminine
+10671	neuter
+10673	
+10675	masculine
+10677	
+
+10680	neuter
+10684	
+10686	feminine
+10688	
+10690	neuter
+masculine
+10693	
+masculine
+feminine
+10697	
+feminine
+10701	neuter
+10704	feminine
+feminine
+10707	
+10712	
+10716	feminine
+
+10720	
+
+
+10726	masculine
+masculine
+10731	
+10735	neuter
+masculine/feminine
+10742	feminine
+10745	neuter
+feminine
+
+10752	neuter
+10756	masculine
+neuter
+10759	
+10761	neuter
+
+masculine
+10766	neuter
+masculine/feminine
+
+
+
+
+10776	
+10780	neuter
+10783	
+feminine
+10786	
+
+10797	masculine
+feminine
+
+10801	
+10804	neuter
+10806	
+10809	masculine
+neuter
+10812	
+10814	
+masculine
+neuter
+10820	
+10824	
+10826	feminine
+
+10832	masculine
+
+
+feminine
+feminine
+10838	feminine
+10841	
+
+masculine/feminine/neuter
+feminine
+neuter
+feminine
+feminine
+10851	neuter
+masculine/feminine
+
+
+10858	feminine
+10860	
+10863	masculine
+neuter
+10868	
+10870	masculine
+
+10874	masculine/neuter
+
+masculine
+masculine
+10881	neuter
+masculine/feminine
+
+10888	feminine
+
+
+neuter
+10897	neuter
+10900	neuter
+10902	
+
+neuter
+10908	
+10910	
+10913	
+masculine/neuter
+feminine
+10917	
+10919	neuter
+masculine
+10922	
+10927	feminine
+10930	
+feminine
+feminine
+10935	
+
+10947	feminine
+10954	masculine
+
+10957	
+10960	
+
+feminine
+feminine
+neuter
+10966	
+
+10970	
+neuter
+10975	
+10978	
+10981	
+10984	
+10995	
+10998	masculine
+11000	
+
+11005	
+11007	
+11012	neuter
+11018	
+11022	masculine
+11028	
+
+11031	
+masculine
+11036	masculine/neuter
+11038	
+
+11042	masculine/neuter
+11047	
+11049	
+11051	
+
+11054	
+
+11058	
+11064	
+
+
+11068	masculine
+feminine
+
+11073	feminine
+neuter
+
+
+11082	
+neuter
+11085	
+11096	
+11106	
+11114	
+11119	feminine
+11121	feminine
+11123	
+neuter
+11129	
+11131	feminine
+11135	
+11139	masculine
+11141	feminine
+
+11144	neuter
+11146	masculine
+
+masculine/feminine
+feminine
+feminine
+11153	
+feminine
+11162	feminine
+feminine
+11165	
+11167	
+11173	feminine
+
+11178	
+11182	
+11184	
+
+neuter
+neuter
+11189	
+11195	
+
+11199	neuter
+11201	
+11204	
+11206	
+11208	
+11210	masculine
+
+11213	feminine
+neuter
+11216	masculine
+11220	
+11222	
+11224	
+11226	
+
+11234	
+11236	masculine
+masculine/neuter
+
+neuter
+
+11242	neuter
+11245	neuter
+11249	neuter
+11252	neuter
+masculine
+
+11258	
+neuter
+masculine/neuter
+feminine
+11267	feminine
+11269	
+
+11273	
+11275	
+11277	neuter
+11283	
+11285	
+11287	feminine
+neuter
+11290	masculine
+
+11294	
+feminine
+
+
+
+11302	
+11304	feminine
+11306	
+11309	
+
+
+11314	feminine
+11318	
+11320	
+11322	feminine
+
+
+11327	masculine
+feminine
+11330	feminine
+masculine
+11333	neuter
+masculine
+11338	neuter
+masculine
+
+11342	neuter
+11347	neuter
+11349	
+neuter
+feminine
+11353	
+neuter
+11356	
+11358	
+11361	neuter
+11364	masculine
+11366	neuter
+11368	masculine/feminine
+neuter
+11371	masculine
+
+11374	feminine
+
+
+
+11379	masculine
+11382	
+11386	
+neuter
+11389	
+
+11393	
+
+11404	
+
+11410	
+11412	
+11414	
+11416	
+11418	
+11420	
+11422	
+11425	
+
+11431	
+neuter
+
+11437	masculine
+
+11440	
+masculine
+neuter
+11445	feminine
+feminine
+11448	
+11450	
+11453	feminine
+
+11457	
+11460	
+
+11469	feminine
+11472	
+11475	
+11479	
+
+11482	masculine
+11484	
+11486	
+masculine/feminine
+11490	
+
+11494	
+11499	neuter
+11501	masculine
+11503	
+masculine
+11511	feminine
+11514	
+
+11522	
+masculine
+11526	
+11531	
+11533	feminine
+masculine/feminine
+
+11537	
+11539	feminine
+11541	
+11543	
+11546	
+11549	feminine
+11552	
+neuter
+masculine/feminine
+
+11557	
+11559	
+neuter
+11564	feminine
+11570	masculine
+feminine
+11573	masculine/neuter
+11576	masculine
+11580	
+11582	masculine
+11586	masculine
+masculine
+11589	
+neuter
+11595	masculine
+11602	
+
+
+masculine
+11607	masculine
+
+11610	
+neuter
+11613	
+11615	masculine/feminine
+
+11622	feminine
+11626	neuter
+11628	
+11630	feminine
+
+11634	masculine/feminine/neuter
+masculine
+11640	
+11644	
+11648	
+11651	
+11653	masculine
+11659	
+
+11662	masculine/neuter
+
+neuter
+11666	masculine/neuter
+11669	
+11675	masculine
+
+masculine
+11679	masculine
+masculine
+
+11685	masculine
+
+11692	masculine
+11694	
+11696	
+
+11699	
+11701	
+11704	neuter
+11706	
+
+11714	
+11716	
+11719	masculine/neuter
+11723	
+11725	
+11727	
+11729	
+11732	
+feminine
+11738	feminine
+11741	
+11745	
+11747	feminine
+11752	
+neuter
+11755	
+11759	
+11761	
+11765	masculine
+11767	
+11771	neuter
+11774	
+11776	masculine/neuter
+
+11779	feminine
+masculine/neuter
+
+11783	neuter
+masculine
+
+11787	
+11789	
+
+11793	
+11796	feminine
+11798	
+11801	
+11805	
+11807	
+11812	neuter
+11815	
+11826	
+11831	masculine
+
+11838	neuter
+11840	masculine
+11843	
+
+
+masculine
+11850	masculine/neuter
+masculine
+11853	masculine
+masculine
+
+masculine
+11860	
+
+11864	neuter
+
+
+
+11871	masculine/neuter
+11875	
+
+
+
+11880	masculine
+11882	masculine/neuter
+11885	neuter
+11887	
+
+11891	
+
+
+11897	
+
+11902	feminine
+feminine
+feminine
+11912	
+11914	
+11916	neuter
+11920	
+masculine
+
+
+masculine
+masculine
+neuter
+feminine
+11930	neuter
+11937	masculine
+11940	
+masculine
+masculine
+neuter
+feminine
+11948	
+neuter
+masculine
+11954	
+11956	
+
+
+
+11961	masculine
+11964	masculine
+11966	masculine/neuter
+11969	neuter
+masculine
+
+11973	neuter
+feminine
+11976	
+11981	feminine
+
+11984	
+11988	
+11990	
+11994	masculine
+11996	masculine
+11999	feminine
+masculine
+12002	
+
+12008	masculine/neuter
+12019	
+12022	neuter
+12024	
+
+12027	
+
+neuter
+masculine
+feminine
+12033	
+12040	
+12044	neuter
+feminine
+
+12048	masculine/neuter
+
+12052	neuter
+
+neuter
+12056	masculine/neuter
+12058	masculine
+12071	masculine
+feminine
+12076	
+12078	neuter
+masculine
+12089	feminine
+feminine
+12094	
+feminine
+neuter
+12100	
+feminine
+feminine
+12104	
+12106	
+
+12113	
+12116	
+12118	
+masculine
+12122	masculine
+12126	masculine
+12128	masculine
+masculine
+12131	
+12135	neuter
+12137	
+12139	masculine/neuter
+12141	
+12146	
+
+12149	
+feminine
+feminine
+12153	feminine
+12157	masculine
+12160	
+12163	neuter
+12165	masculine
+neuter
+12170	feminine
+feminine
+12173	masculine
+
+12176	neuter
+12184	
+
+masculine/feminine/neuter
+12189	masculine
+12192	
+12195	
+12201	
+12204	neuter
+neuter
+12207	neuter
+12213	
+12215	feminine
+feminine
+12219	
+12221	
+
+
+masculine/feminine/neuter
+12230	masculine
+12233	masculine
+12235	feminine
+feminine
+feminine
+
+12244	
+
+masculine/feminine/neuter
+12248	masculine
+12250	
+12255	neuter
+12260	
+neuter
+12263	masculine
+
+12266	
+12269	
+12272	masculine
+12276	neuter
+feminine
+masculine
+12281	
+12284	
+12289	
+12292	
+12297	feminine
+12302	
+12308	
+
+12311	
+12313	
+12316	
+12321	
+12323	feminine
+
+12330	feminine
+12334	masculine
+feminine
+12337	masculine
+
+12341	feminine
+12343	
+12345	neuter
+masculine
+
+12349	feminine
+
+
+neuter
+
+12357	
+12362	
+12364	
+12366	
+neuter
+12373	
+12378	neuter
+feminine
+
+12382	
+12384	
+12387	feminine
+12389	
+
+12392	neuter
+12396	masculine
+12399	masculine
+12401	
+12403	masculine
+
+feminine
+
+12411	masculine
+12414	
+12416	
+12418	neuter
+masculine
+
+12422	
+feminine
+masculine
+12426	feminine
+12428	neuter
+12431	masculine
+
+
+
+feminine
+
+12438	
+12443	
+
+
+
+
+
+12450	masculine
+12453	
+12455	masculine
+neuter
+12458	
+
+
+masculine/feminine
+neuter
+12468	neuter
+12471	
+12478	
+12485	
+masculine
+neuter
+12489	
+12494	
+12496	
+
+
+feminine
+
+12502	
+12505	
+
+12512	
+masculine/neuter
+
+12516	
+12519	
+
+12522	neuter
+12524	
+
+12527	masculine/feminine
+12533	
+12535	
+12537	neuter
+12539	
+
+12543	neuter
+masculine
+12550	
+12552	feminine
+
+12555	
+neuter
+12558	
+12560	neuter
+masculine
+feminine
+
+
+
+masculine
+12569	feminine
+12571	
+feminine
+
+12575	feminine
+
+
+12582	feminine
+
+
+12590	masculine
+12594	feminine
+12601	
+12603	neuter
+
+
+12607	
+
+
+12611	
+
+12622	
+12634	
+12637	neuter
+12640	
+12643	
+
+12650	
+
+12654	masculine
+12657	
+
+12664	
+12670	masculine
+
+12674	masculine/neuter
+12676	neuter
+12679	neuter
+12686	
+masculine
+
+12692	masculine
+12698	
+
+12703	neuter
+12709	
+12712	
+12717	
+
+12721	
+12724	
+neuter
+masculine/feminine
+
+12730	
+12734	
+12736	
+masculine
+
+12744	
+12747	
+12750	
+
+12753	
+feminine
+
+12757	neuter
+masculine
+12761	
+12767	masculine
+12771	
+12773	
+neuter
+masculine/neuter
+12781	
+12783	masculine/neuter
+feminine
+12786	
+
+
+12791	masculine/neuter
+feminine
+feminine
+
+
+12798	neuter
+masculine/neuter
+12801	
+12804	neuter
+12814	
+12816	
+12818	feminine
+12820	masculine
+12823	masculine
+12827	
+12829	
+12831	feminine
+
+12836	
+12840	neuter
+
+12845	feminine
+
+neuter
+masculine
+12850	
+
+12854	masculine
+12856	feminine
+feminine
+12859	
+12863	
+12865	
+12867	
+12871	
+
+
+12876	
+12885	masculine
+
+masculine
+
+12891	
+12893	neuter
+12896	masculine
+
+12900	feminine
+feminine
+feminine
+12904	neuter
+neuter
+12907	
+12910	masculine
+12916	
+12918	
+12925	
+masculine
+12931	
+
+neuter
+12935	
+neuter
+12942	feminine
+12944	
+12947	masculine
+12952	feminine
+12955	
+12957	
+
+neuter
+12962	masculine/feminine
+12964	masculine
+12968	
+
+
+12974	
+12976	
+12979	neuter
+12982	
+12987	masculine
+
+12990	
+12992	
+12996	
+13000	
+13003	neuter
+13005	masculine/neuter
+13008	neuter
+13010	
+13019	
+13021	
+13024	
+13028	
+13030	
+neuter
+13035	neuter
+13037	
+13039	
+13041	
+13045	
+13047	
+13054	neuter
+13057	neuter
+13060	masculine
+13063	
+13065	
+13067	
+13070	masculine
+13077	
+13080	masculine/neuter
+13083	feminine
+feminine
+13088	masculine
+13090	
+
+masculine/feminine
+
+13097	
+
+
+feminine
+13104	
+masculine
+13111	
+13114	
+13116	masculine/feminine
+13118	masculine
+
+13124	
+13128	neuter
+masculine
+13132	feminine
+
+13136	
+13142	
+13144	masculine
+13150	
+13153	feminine
+masculine
+13157	feminine
+masculine
+
+13162	
+13164	
+13166	feminine
+13170	feminine
+
+
+
+
+13182	
+13185	feminine
+13189	masculine
+13192	masculine/neuter
+13196	masculine
+13198	masculine
+
+neuter
+13202	
+13204	
+13206	
+neuter
+13209	
+13212	
+13214	
+13216	
+13218	
+
+13222	masculine/feminine
+13226	neuter
+masculine
+13232	
+13234	
+13237	
+
+13240	
+masculine
+13243	neuter
+13246	neuter
+13248	feminine
+13251	neuter
+13255	feminine
+13257	
+13259	feminine
+13270	
+13272	neuter
+masculine
+
+13276	
+13280	masculine
+13284	
+
+
+13289	feminine
+13291	
+13295	
+13297	
+
+13300	
+13306	feminine
+13310	neuter
+
+13313	
+
+masculine/neuter
+13318	neuter
+13322	neuter
+13326	neuter
+13331	neuter
+13333	feminine
+
+13338	masculine
+13344	
+masculine
+13349	
+13353	
+13360	
+feminine
+13366	feminine
+masculine
+13369	
+
+
+neuter
+13376	
+masculine/feminine
+13379	masculine
+masculine/neuter
+
+
+13384	
+masculine/neuter
+13387	
+
+13390	
+masculine/neuter
+13393	
+
+13396	
+masculine/neuter
+13400	feminine
+13403	feminine
+masculine
+neuter
+neuter
+13408	
+13410	masculine
+masculine/neuter
+
+neuter
+
+13417	masculine/feminine/neuter
+13420	neuter
+13422	
+13424	masculine
+
+masculine/neuter
+13432	neuter
+masculine
+masculine
+13436	
+
+13439	
+masculine/neuter
+13444	
+13446	
+13448	
+13450	
+13453	
+13455	
+13457	masculine
+masculine
+
+masculine
+
+masculine/neuter
+13466	neuter
+13468	feminine
+
+
+13473	masculine/neuter
+
+13476	masculine
+masculine/neuter
+
+13481	
+13483	masculine
+
+13486	
+13494	
+13500	feminine
+
+13505	neuter
+masculine
+13513	
+masculine
+13517	masculine
+
+13520	masculine
+13523	masculine
+13525	neuter
+13527	feminine
+neuter
+13530	
+13533	
+
+13536	feminine
+13538	feminine
+13540	
+
+13545	
+13549	feminine
+13559	
+13561	feminine
+13564	
+feminine
+neuter
+13568	feminine
+13570	feminine
+
+13574	
+13577	
+13579	feminine
+feminine
+feminine
+13583	
+feminine
+13586	masculine/neuter
+13590	
+13592	
+13596	
+13602	
+13619	masculine/neuter
+neuter
+13626	
+13631	masculine/neuter
+13638	masculine/neuter
+neuter
+13641	neuter
+13645	
+
+13648	masculine/neuter
+13651	neuter
+masculine
+neuter
+13656	masculine/neuter
+13658	masculine/neuter
+13662	
+13667	
+13672	
+13677	
+
+13680	feminine
+13682	
+13689	
+
+13693	
+13696	
+13701	
+
+13707	feminine
+
+feminine
+13713	feminine
+
+13718	
+masculine/neuter
+13721	
+13723	
+masculine
+masculine
+13727	
+
+
+
+13736	
+
+
+
+13741	
+
+
+masculine/feminine
+13746	
+13751	neuter
+13753	
+neuter
+feminine
+neuter
+
+13762	
+
+
+
+13771	
+
+
+
+13776	
+
+
+
+
+13786	
+13788	masculine
+13790	
+13793	neuter
+13796	
+
+13800	
+13803	
+masculine/neuter
+13806	
+
+13809	neuter
+13811	
+
+13815	
+13818	
+
+
+13823	neuter
+13825	
+
+13829	
+
+13832	
+
+13835	
+
+13838	
+
+13841	
+13846	
+
+13849	masculine/feminine
+13852	masculine
+13858	feminine
+feminine
+
+13866	masculine
+13872	
+
+feminine
+13878	
+masculine
+13888	
+13893	
+
+13897	
+13904	
+
+masculine
+13908	feminine
+13911	neuter
+masculine
+13915	
+13918	feminine
+13922	
+13925	
+13930	
+
+13938	
+13941	
+13943	feminine
+13952	
+13955	
+13958	
+
+13964	
+13969	
+
+13974	masculine
+13976	
+feminine
+13980	feminine
+13982	
+
+
+
+13990	masculine/neuter
+13992	
+
+feminine
+13996	
+
+14000	masculine
+14002	
+14004	
+
+
+14010	
+14018	masculine/neuter
+14022	
+14029	feminine
+14031	
+14033	
+14035	feminine
+
+14038	
+14041	
+feminine
+14047	
+feminine
+14050	
+14053	masculine/neuter
+14058	
+14061	
+14063	feminine
+neuter
+14066	masculine
+14072	
+14075	
+
+feminine
+
+14081	
+14086	
+
+14089	
+14091	feminine
+
+
+
+14096	neuter
+14103	feminine
+14106	
+14116	feminine
+14118	masculine/neuter
+14122	
+feminine
+14132	
+14134	
+neuter
+neuter
+masculine/neuter
+
+14140	
+14144	
+14147	feminine
+
+14151	neuter
+14153	
+14155	masculine/neuter
+feminine
+14158	neuter
+masculine
+14161	
+masculine/feminine/neuter
+14166	masculine
+feminine
+
+
+14172	masculine
+
+masculine/feminine/neuter
+neuter
+14177	
+
+14181	
+14183	neuter
+feminine
+
+
+14199	
+14201	
+14204	masculine
+14207	masculine
+feminine
+14210	masculine
+masculine
+
+masculine/feminine
+
+14222	masculine
+
+14226	
+14229	
+neuter
+masculine
+
+14234	
+14237	feminine
+
+14243	
+14246	masculine
+14249	neuter
+masculine
+14253	
+14257	
+14260	masculine
+
+14263	
+
+14278	feminine
+14280	feminine
+14286	
+14288	neuter
+14294	masculine/neuter
+feminine
+
+14300	feminine
+14302	
+14308	feminine
+14318	masculine/neuter
+14320	
+14327	
+14330	feminine
+14336	feminine
+
+14340	neuter
+14343	
+14351	masculine
+14353	feminine
+
+
+14358	
+masculine
+14365	
+14370	
+14376	neuter
+feminine
+14379	
+14382	
+14385	neuter
+14389	masculine
+
+14394	
+feminine
+masculine
+neuter
+14399	
+14402	
+
+feminine
+14408	
+14410	neuter
+
+
+14416	
+
+14420	
+14424	
+14430	
+14434	
+14438	feminine
+feminine
+14441	masculine/neuter
+14450	neuter
+14452	
+14455	
+feminine
+
+14462	feminine
+14464	
+14467	feminine
+feminine
+14471	
+
+feminine
+14475	feminine
+14478	
+14480	feminine
+feminine
+14484	neuter
+14486	
+
+
+14490	neuter
+masculine
+
+14502	masculine/neuter
+feminine
+neuter
+14508	
+
+masculine
+14513	
+
+14516	
+neuter
+14520	
+
+
+14524	
+14528	
+
+14536	feminine
+
+14543	feminine
+14547	feminine
+
+
+
+
+
+14554	neuter
+14559	
+masculine
+14562	
+14568	feminine
+masculine
+neuter
+14574	feminine
+14577	
+14582	masculine
+14586	
+
+14589	feminine
+14592	
+14596	
+14599	
+
+
+
+
+14608	
+feminine
+
+14617	
+
+14623	
+
+14628	
+14634	
+14639	
+14641	
+
+14646	masculine
+14648	feminine
+
+feminine
+feminine
+feminine
+14656	
+14659	
+14661	
+neuter
+14665	feminine
+14668	feminine
+
+
+
+
+14680	
+neuter
+14683	
+
+14689	feminine
+
+
+
+14695	
+feminine
+neuter
+14699	feminine
+
+neuter
+14703	feminine
+neuter
+14707	feminine
+14710	masculine
+14712	
+14720	feminine
+14723	
+14726	
+masculine
+14730	
+
+neuter
+14734	
+14736	neuter
+14741	feminine
+feminine
+
+14747	feminine
+
+
+
+
+
+
+14755	
+
+14762	
+14772	feminine
+14775	
+14781	feminine
+14783	neuter
+14791	feminine
+
+
+
+
+
+14800	
+
+14810	
+
+14818	
+14820	
+14822	
+feminine
+feminine
+neuter
+masculine/feminine
+masculine/neuter
+14831	
+
+
+14835	neuter
+
+feminine
+14839	neuter
+14842	
+
+14846	
+
+14851	
+feminine
+14856	
+masculine/feminine
+
+
+14861	
+14863	neuter
+14865	
+
+14869	neuter
+14871	neuter
+14878	neuter
+masculine/feminine
+14883	
+
+14888	
+
+14892	neuter
+14897	neuter
+masculine/feminine
+
+
+14902	masculine
+feminine
+
+
+
+14911	
+
+14914	neuter
+14916	
+neuter
+14921	
+14923	
+
+14927	neuter
+masculine/feminine
+14933	
+
+
+14938	
+14941	masculine/neuter
+
+neuter
+masculine/feminine
+
+
+
+
+feminine
+
+14952	
+14954	
+14956	
+14960	
+14965	
+14969	
+14972	neuter
+14975	neuter
+14978	masculine
+14981	feminine
+feminine
+14984	
+
+
+14991	masculine
+14993	
+
+
+14999	
+masculine
+
+feminine
+15006	feminine
+15008	feminine
+15015	masculine
+neuter
+feminine
+15021	neuter
+
+15028	masculine
+15031	
+15034	
+15037	
+15041	
+
+neuter
+15045	
+
+
+15050	
+feminine
+
+15058	masculine
+feminine
+15061	feminine
+15064	neuter
+
+masculine/feminine
+15068	
+
+masculine/neuter
+
+feminine
+15074	masculine/neuter
+15076	
+15078	feminine
+15080	feminine
+masculine
+
+15085	
+masculine/feminine
+15088	
+
+15095	
+15099	masculine
+
+15102	neuter
+15105	feminine
+masculine
+15109	
+
+15114	
+feminine
+
+neuter
+15121	feminine
+
+
+feminine
+masculine
+masculine/feminine
+masculine
+masculine/feminine
+neuter
+15131	
+
+feminine
+
+
+15137	
+feminine
+
+15141	
+15143	
+15145	feminine
+
+15148	
+15152	masculine/feminine/neuter
+15156	
+15160	feminine
+15162	
+15168	
+15174	neuter
+15176	
+15178	masculine
+15182	
+15184	neuter
+feminine
+15187	
+15190	
+15194	
+15197	neuter
+feminine
+15201	
+15203	neuter
+15206	neuter
+15212	
+15215	
+masculine/feminine/neuter
+
+15223	neuter
+masculine/feminine
+15226	feminine
+feminine
+15229	
+15232	feminine
+15235	neuter
+feminine
+15238	
+15241	
+15243	
+masculine
+masculine
+15247	
+15250	
+
+15253	
+15257	neuter
+masculine/feminine
+
+15266	feminine
+15271	masculine
+
+
+
+15277	
+masculine/feminine/neuter
+masculine/neuter
+15282	neuter
+feminine
+15285	
+
+masculine
+15289	
+15292	
+
+15295	
+15299	neuter
+masculine/feminine
+
+15308	feminine
+15313	masculine
+
+
+
+15319	
+masculine/feminine/neuter
+masculine/neuter
+15325	neuter
+15327	neuter
+15330	
+masculine
+15333	masculine
+
+15336	
+15341	
+15343	masculine
+15353	masculine/neuter
+
+15357	
+
+15361	
+15363	neuter
+masculine/feminine
+
+
+15373	
+15377	
+15379	
+15383	
+masculine
+15387	feminine
+15396	
+15401	
+15404	
+15408	
+
+15411	feminine
+
+
+
+15421	
+15427	
+15430	
+15434	neuter
+
+
+15443	neuter
+15446	neuter
+15449	masculine
+15452	
+neuter
+15455	
+
+
+15459	
+
+15463	masculine
+15466	
+15468	
+15471	
+
+15474	
+15476	
+neuter
+feminine
+15481	
+15484	masculine
+15486	neuter
+15488	
+feminine
+15495	
+feminine
+15500	neuter
+
+feminine
+15505	
+15508	
+neuter
+15513	neuter
+
+15516	masculine
+15518	
+15524	
+feminine
+15527	masculine
+
+15539	masculine/feminine
+15552	
+15562	masculine
+
+masculine
+masculine
+
+masculine
+15572	
+15576	
+15578	masculine
+15580	masculine/feminine
+15583	
+15587	
+15589	masculine
+15591	masculine
+
+
+15598	masculine
+15600	
+neuter
+15603	
+15605	feminine
+
+
+15610	
+15618	
+
+15621	
+15624	
+15626	
+15628	
+masculine
+
+15634	masculine
+15637	
+15642	
+15655	masculine/feminine
+15666	masculine/feminine
+15668	
+15678	masculine
+masculine
+
+masculine
+15684	
+15686	
+masculine/feminine
+
+15690	
+neuter
+
+
+15698	masculine
+15700	
+15702	masculine
+feminine
+
+
+15709	
+15714	
+
+
+15720	
+15722	neuter
+masculine
+15725	
+
+
+neuter
+feminine
+15731	
+15733	neuter
+masculine
+15737	
+15739	
+15742	
+
+
+15747	feminine
+15752	neuter
+15754	
+
+15757	
+15761	
+masculine
+15765	masculine
+15767	
+15769	
+15772	
+masculine
+
+masculine/neuter
+15786	
+15788	masculine
+
+15791	
+15795	feminine
+
+
+15799	
+15801	masculine
+15803	
+15805	
+15808	
+
+15815	
+
+15818	
+15822	
+15826	masculine
+feminine
+15829	masculine
+
+15832	feminine
+15845	neuter
+masculine
+
+15850	
+
+15854	masculine
+15856	masculine
+15858	
+15864	
+15866	feminine
+15871	
+feminine
+15876	neuter
+15879	
+15884	
+15886	
+feminine
+
+
+15891	neuter
+15894	masculine
+15896	
+
+
+15903	
+15905	
+15913	neuter
+masculine
+15920	
+15922	
+15925	masculine
+
+15929	masculine
+15942	
+15945	feminine
+15949	masculine
+feminine
+
+masculine
+masculine
+15957	masculine
+15961	neuter
+15963	
+
+
+15970	neuter
+15972	
+15974	neuter
+15976	
+neuter
+15983	masculine
+
+15989	feminine
+15992	neuter
+masculine
+feminine
+
+
+15998	neuter
+masculine
+16004	feminine
+16011	feminine
+16013	masculine/neuter
+feminine
+
+feminine
+
+
+
+16021	
+masculine/neuter
+
+16027	feminine
+16029	
+16033	
+16036	masculine
+neuter
+16039	
+
+neuter
+16044	
+16047	
+
+16052	
+neuter
+16056	
+
+
+16062	
+16065	
+16069	
+neuter
+16072	
+
+16075	masculine
+
+16078	
+16081	neuter
+16084	
+16087	neuter
+
+16090	
+
+16095	
+16098	masculine
+masculine/neuter
+16101	feminine
+16103	neuter
+masculine
+16107	
+
+16113	
+16123	
+16128	masculine
+16130	
+
+16145	
+16147	neuter
+
+16150	
+16153	
+16158	
+16161	
+feminine
+16164	feminine
+16168	
+16170	masculine/neuter
+
+
+16174	feminine
+
+16178	feminine
+16181	
+16185	masculine
+16187	
+16189	neuter
+masculine
+16194	
+
+
+16202	
+16207	feminine
+16216	
+feminine
+
+16220	feminine
+
+16223	neuter
+16225	
+16227	
+16230	
+masculine
+16237	neuter
+masculine
+feminine
+
+masculine
+
+
+16249	
+16251	
+16253	
+16255	neuter
+16258	
+16261	masculine
+16265	masculine
+
+masculine
+16270	masculine
+feminine
+neuter
+16276	feminine
+neuter
+masculine
+
+masculine
+neuter
+16284	
+16287	
+
+feminine
+
+16297	masculine
+16301	
+16308	
+16312	feminine
+neuter
+16315	feminine
+
+16320	
+16322	
+16325	neuter
+
+16329	
+16332	masculine
+16335	
+masculine
+16340	
+16342	
+16346	
+16350	
+16356	feminine
+16362	
+
+16367	
+16369	
+
+16372	
+
+16375	
+16379	
+16385	feminine
+16388	masculine/feminine
+16391	
+16394	masculine
+16397	
+16399	masculine
+16402	neuter
+16405	
+16408	feminine
+masculine/neuter
+16413	
+16416	
+16418	feminine
+masculine
+16429	
+16439	feminine
+16441	
+16443	
+16446	
+
+16449	feminine
+
+16452	neuter
+16454	
+
+16457	
+16460	
+
+
+16464	neuter
+
+16467	feminine
+16469	
+16471	
+16479	
+16485	neuter
+16488	masculine
+16491	
+16493	neuter
+16495	
+16500	masculine
+16502	
+
+16509	
+16511	
+masculine
+
+16519	neuter
+16521	masculine
+
+16527	
+16540	
+16544	masculine
+
+16551	
+16555	neuter
+
+masculine
+16559	
+16563	
+16565	neuter
+masculine
+neuter
+16570	masculine/neuter
+
+16577	masculine
+16580	
+16582	
+
+masculine
+
+16588	
+16593	
+16596	masculine/feminine
+16599	masculine
+
+16603	feminine
+masculine
+
+16607	
+16609	
+16613	
+neuter
+masculine
+16618	
+16620	feminine
+16625	neuter
+16629	feminine
+
+
+masculine/feminine/neuter
+16641	neuter
+
+16645	feminine
+masculine
+16648	masculine
+16650	masculine
+feminine
+16656	masculine
+16667	masculine
+16670	masculine
+16672	
+neuter
+16680	feminine
+16682	
+
+masculine
+16687	
+16691	masculine
+16695	masculine
+16701	neuter
+16704	
+
+masculine
+16712	
+16715	masculine
+neuter
+16720	neuter
+16724	
+16727	
+
+16730	feminine
+masculine
+feminine
+
+16735	
+neuter
+
+
+16741	
+16744	masculine/neuter
+masculine/neuter
+neuter
+16748	masculine
+16751	neuter
+
+
+16755	
+masculine
+
+
+
+
+16763	masculine/feminine
+16765	
+16767	
+neuter
+masculine
+neuter
+16772	
+
+
+16776	neuter
+masculine
+16779	masculine
+16781	
+
+16788	
+
+16792	neuter
+16800	
+
+16803	neuter
+
+
+feminine
+16808	
+masculine
+16815	masculine
+
+16822	
+
+masculine
+16827	neuter
+16829	
+16833	
+16836	
+16840	masculine
+16843	masculine
+masculine
+masculine/feminine
+masculine
+16849	neuter
+masculine
+masculine
+neuter
+16856	
+
+16859	
+16865	feminine
+feminine
+16870	masculine
+
+16873	neuter
+16878	masculine
+16880	
+16882	masculine
+16885	
+16890	
+16892	
+16896	
+16898	masculine
+
+16905	
+
+16908	
+16912	neuter
+16915	masculine
+16917	
+
+16923	
+feminine
+
+16928	feminine
+feminine
+masculine/neuter
+neuter
+masculine
+
+16939	
+16941	
+16950	neuter
+16952	
+16954	masculine
+16956	
+16959	
+16961	
+16965	
+16967	masculine
+feminine
+16974	masculine
+16977	masculine
+16979	
+16981	
+
+masculine
+16985	
+16994	
+16997	feminine
+16999	neuter
+17002	
+
+masculine
+
+feminine
+17013	masculine
+17018	masculine
+17020	neuter
+17023	feminine
+17025	
+17028	feminine
+17030	
+17037	masculine
+17041	feminine
+17043	neuter
+17047	feminine
+
+17051	neuter
+
+17059	
+masculine
+17063	
+masculine
+
+
+17068	masculine/feminine/neuter
+17071	neuter
+17076	feminine
+17082	neuter
+feminine
+17085	
+17087	masculine/neuter
+feminine
+17090	feminine
+17094	
+
+17100	
+17104	feminine
+
+17108	
+masculine
+17111	
+17113	masculine
+neuter
+17116	masculine
+17119	
+17124	neuter
+17126	masculine
+17128	
+neuter
+17132	masculine
+neuter
+17135	masculine
+17138	masculine
+17140	
+
+17146	masculine
+17152	
+17154	neuter
+17158	feminine
+masculine/neuter
+masculine/neuter
+17163	
+17166	
+neuter
+17173	neuter
+
+17178	neuter
+17180	
+feminine
+
+17184	neuter
+17190	neuter
+neuter
+masculine
+17194	masculine/neuter
+17196	feminine
+
+17199	neuter
+17201	feminine
+
+
+
+17206	
+17209	masculine
+masculine
+17213	
+feminine
+17220	
+17222	
+17227	feminine
+17229	
+feminine
+17232	masculine
+17234	
+17237	feminine
+17245	masculine
+17249	masculine
+17251	
+17262	
+17264	neuter
+17266	
+17268	feminine
+
+17273	
+
+masculine
+17277	neuter
+17280	
+17282	neuter
+17286	
+17289	masculine
+masculine
+
+17294	neuter
+17300	
+masculine
+17303	
+masculine
+masculine
+17307	feminine
+17309	neuter
+17311	
+17313	
+
+17320	
+17324	
+
+masculine
+masculine/feminine
+17330	
+17336	
+17338	neuter
+17340	
+17343	
+17345	feminine
+17348	feminine
+17350	masculine/neuter
+17352	
+17364	masculine
+17366	
+17371	
+17377	
+17379	
+17390	
+masculine
+17396	
+17399	
+17401	feminine
+
+17406	
+neuter
+17409	masculine
+17413	masculine
+17416	
+17423	
+17426	
+17428	
+neuter
+17438	feminine
+17440	
+17444	
+17446	
+17449	
+17451	neuter
+17457	
+17460	
+feminine
+17463	
+17465	masculine
+17471	masculine
+17477	
+masculine
+17488	feminine
+17490	
+17500	
+17503	
+17505	feminine
+
+17511	neuter
+17520	masculine
+17523	neuter
+17526	
+17528	masculine
+17530	masculine
+17536	feminine
+17538	masculine
+neuter
+masculine
+17544	
+17547	masculine
+neuter
+neuter
+
+17552	
+
+
+17556	
+17558	
+
+masculine
+masculine
+17563	masculine
+17569	
+masculine
+
+17574	masculine
+
+17579	
+17582	
+
+17588	
+17591	masculine
+17594	
+17597	
+17599	
+
+17607	masculine
+masculine
+masculine
+17617	feminine
+
+17622	feminine
+17625	feminine
+
+17632	
+17634	neuter
+masculine
+
+17638	masculine
+feminine
+feminine
+17645	
+17647	
+17653	
+17659	
+
+17662	
+17665	
+17668	
+feminine
+17677	
+17681	masculine
+17684	neuter
+17687	
+17692	neuter
+17694	masculine
+17697	
+17699	
+17702	feminine
+
+17706	
+
+17711	feminine
+
+
+17716	feminine
+17718	
+17720	feminine
+17724	feminine
+17728	feminine
+17732	masculine/feminine/neuter
+17742	
+17744	
+17746	masculine
+17751	neuter
+17755	masculine
+17757	
+17765	feminine
+feminine
+17768	feminine
+masculine
+17771	
+17773	
+17775	
+17785	
+masculine
+17789	feminine
+feminine
+17792	
+17794	
+masculine
+feminine
+17799	masculine
+feminine
+
+17807	feminine
+17810	
+17812	feminine
+17820	
+17826	
+masculine
+17830	
+17835	
+masculine
+17838	neuter
+17846	neuter
+17850	
+17856	
+
+17859	
+17863	
+17871	
+
+17875	
+17879	feminine
+17882	feminine
+
+masculine
+17887	
+
+17891	
+17897	
+masculine
+17901	masculine
+17905	masculine
+masculine
+17908	
+17910	neuter
+17912	
+17914	neuter
+17916	masculine/feminine
+feminine
+17919	neuter
+17923	masculine
+feminine
+17926	
+feminine
+17929	
+17931	masculine
+feminine
+17937	
+17942	feminine
+17945	feminine
+
+
+masculine
+17950	feminine
+17953	neuter
+17955	
+17957	
+
+
+
+masculine
+17966	masculine
+17978	
+17983	feminine
+17986	feminine
+
+masculine
+
+17991	masculine
+17993	
+17999	masculine/neuter
+
+
+
+18010	
+
+
+18014	feminine
+18016	
+
+
+18022	
+masculine
+
+neuter
+18028	
+
+
+neuter
+masculine
+18036	
+
+
+18040	neuter
+18042	
+18045	masculine
+
+18048	
+18050	
+18053	masculine
+
+18061	
+18071	
+18074	
+
+18079	feminine
+18081	
+
+feminine
+
+18086	feminine
+18090	
+
+
+18097	
+18100	
+18105	
+18108	
+18110	
+masculine
+18114	masculine
+
+feminine
+18120	
+18124	
+18127	
+18129	neuter
+masculine
+masculine
+
+
+
+18140	
+18142	feminine
+
+18148	masculine
+
+
+18154	
+18161	feminine
+feminine
+18172	feminine
+18176	masculine
+
+
+masculine
+feminine
+
+18184	
+18186	masculine/neuter
+18189	neuter
+18193	
+18198	feminine
+18201	masculine
+18205	neuter
+
+18208	feminine
+18210	neuter
+18213	neuter
+18215	
+18218	feminine
+masculine
+18222	feminine
+18224	
+18226	feminine
+
+18230	masculine/neuter
+18233	neuter
+masculine
+18238	
+masculine
+18244	neuter
+masculine
+18248	masculine
+18251	feminine
+neuter
+
+18262	neuter
+feminine
+18267	
+18270	
+18273	
+
+18276	
+18282	neuter
+feminine
+18285	
+18287	
+18290	masculine/neuter
+18292	feminine
+18294	feminine
+feminine
+18298	
+18301	
+18303	masculine
+masculine/neuter
+
+
+18309	
+
+18312	
+
+
+
+18320	
+masculine/neuter
+18323	
+18326	masculine/neuter
+
+masculine/neuter
+
+18331	
+18335	masculine/neuter
+feminine
+
+18340	
+18343	neuter
+18345	
+18347	
+18350	
+
+18353	neuter
+18358	feminine
+feminine
+neuter
+
+18363	masculine
+18369	
+
+
+18377	feminine
+18379	
+neuter
+18390	feminine
+
+18393	masculine
+18397	
+18400	masculine
+18402	neuter
+18405	
+18407	
+18412	
+18414	masculine
+18417	
+18420	feminine
+18424	
+feminine
+18427	
+feminine
+18430	
+18435	masculine
+18439	feminine
+18442	
+18451	
+18456	
+18460	
+18462	
+
+18466	
+18470	
+18472	
+neuter
+18476	neuter
+18478	
+masculine
+18481	feminine
+18487	
+18489	masculine
+18491	
+
+18494	
+18496	feminine
+18499	
+masculine
+18502	
+18505	neuter
+18507	masculine
+18509	
+18511	feminine
+18518	neuter
+masculine
+
+18522	feminine
+18525	masculine
+
+
+18529	masculine
+
+18532	neuter
+18536	feminine
+feminine
+
+
+
+18542	
+
+
+18546	feminine
+masculine
+neuter
+18552	feminine
+18556	masculine
+18561	
+18564	
+18566	
+18568	
+18570	neuter
+masculine
+18573	
+18576	
+feminine
+18579	
+18584	feminine
+18588	feminine
+
+18594	
+18600	
+18603	
+
+18607	feminine
+18617	feminine
+18619	
+
+18624	feminine
+18626	
+
+feminine
+18630	
+18637	
+18646	
+
+18651	
+
+
+18656	
+masculine
+18659	feminine
+18661	
+
+18665	feminine
+18667	
+18671	
+masculine
+18674	masculine/feminine
+18676	masculine
+masculine
+18680	
+feminine
+
+masculine
+18685	
+neuter
+masculine/feminine/neuter
+
+
+18693	neuter
+masculine
+18697	
+
+
+18709	
+18712	
+
+18720	masculine
+18725	
+18727	
+18733	
+18739	feminine
+18741	
+18744	
+
+18749	feminine
+feminine
+18754	masculine
+18757	
+18767	feminine
+18769	feminine
+18775	
+18781	
+18787	
+18789	neuter
+18792	
+18794	feminine
+18797	
+18799	neuter
+18806	masculine
+18812	
+
+feminine
+18819	
+18823	masculine
+18825	
+18828	neuter
+feminine
+18833	neuter
+18835	feminine
+neuter
+
+18840	feminine
+
+18843	neuter
+
+18848	
+masculine/feminine
+18851	
+18856	masculine
+18858	masculine
+18860	
+18862	
+18865	
+18867	
+18870	masculine
+18872	
+18874	
+
+
+18883	
+
+18891	
+18893	masculine
+feminine
+
+
+18898	feminine
+18900	feminine
+neuter
+18903	feminine
+18908	masculine
+18912	masculine
+18914	
+neuter
+18919	
+18922	
+18925	
+
+18928	
+18936	
+feminine
+feminine
+18948	
+18950	
+18954	
+
+neuter
+neuter
+
+
+18963	
+18965	masculine/neuter
+feminine
+
+masculine
+
+masculine
+18972	neuter
+18977	feminine
+18986	masculine
+
+18991	
+18993	
+18995	
+19001	feminine
+19004	
+19007	feminine
+19009	
+
+19014	
+19020	feminine
+19023	
+19041	
+19043	feminine
+19048	
+19050	
+19053	
+19057	neuter
+19061	feminine
+neuter
+masculine
+19066	feminine
+
+
+19072	masculine/neuter
+feminine
+19075	
+19077	
+19083	masculine
+
+19086	
+feminine
+19091	
+
+19094	masculine
+19097	
+19100	neuter
+19105	neuter
+masculine
+
+19109	
+
+19112	
+
+19115	
+19119	
+
+19122	
+masculine/neuter
+19126	
+19128	
+19131	masculine/neuter
+feminine
+19134	
+19136	
+19138	
+19141	masculine/neuter
+19143	
+19146	masculine
+
+
+
+neuter
+19152	
+
+19159	
+
+19162	masculine
+
+
+
+19168	masculine/neuter
+19170	
+
+19174	masculine/neuter
+19179	
+19186	
+19191	masculine
+masculine
+
+19197	feminine
+19200	neuter
+19205	neuter
+19214	masculine
+19218	
+19223	masculine
+19225	
+19227	
+19230	
+19233	feminine
+19235	
+19237	
+19240	
+19247	
+masculine
+19252	
+
+19260	masculine
+19265	
+19272	
+19275	
+
+19284	
+neuter
+masculine
+
+19292	masculine
+19296	masculine
+masculine
+19301	
+
+
+19305	feminine
+
+masculine
+feminine
+19311	masculine
+19317	
+19319	neuter
+19321	masculine
+feminine
+19325	masculine
+feminine
+19330	masculine
+19332	
+feminine
+19337	
+19339	neuter
+masculine
+masculine
+19343	masculine
+
+
+19347	
+19349	neuter
+19352	feminine
+19359	neuter
+19361	feminine
+19367	feminine
+19371	feminine
+neuter
+19376	
+
+19380	feminine
+19383	
+19388	
+
+19396	
+19398	
+
+
+19402	neuter
+feminine
+19407	feminine
+19409	
+
+19412	
+
+19416	
+neuter
+19422	neuter
+19426	masculine
+
+
+19430	
+
+19433	
+feminine
+19437	
+19440	
+feminine
+19445	masculine
+feminine
+
+19455	masculine
+19457	
+19459	feminine
+19461	
+19468	
+19473	
+19475	
+19482	masculine
+19484	
+
+19487	
+19490	
+
+19494	masculine
+19505	
+19517	
+19521	feminine
+19527	neuter
+19529	feminine
+19533	masculine/feminine
+19535	neuter
+19537	
+
+19540	
+19542	feminine
+19545	
+19548	
+19552	
+19558	
+19561	
+19565	
+19567	
+
+19570	
+19574	feminine
+
+
+19580	
+19586	
+
+
+
+
+
+
+masculine
+19600	
+19604	feminine
+19606	
+feminine
+
+
+19611	masculine
+19618	feminine
+19620	
+19623	masculine
+19630	
+19632	
+19636	feminine
+neuter
+masculine
+19641	feminine
+
+19652	feminine
+19664	feminine
+19666	
+
+19677	feminine
+
+19683	
+19686	
+19689	
+19691	feminine
+19705	
+19711	feminine
+19713	feminine
+19721	masculine
+neuter
+
+19725	
+neuter
+19728	
+
+19731	feminine
+19737	neuter
+19739	feminine
+19741	
+19745	
+19754	
+19757	neuter
+19759	
+19762	
+19767	
+19769	feminine
+neuter
+19772	
+19778	
+19780	masculine
+19784	
+19790	
+19799	
+masculine
+19802	masculine
+19804	neuter
+19806	neuter
+19810	neuter
+19814	
+19823	masculine
+19829	feminine
+19831	
+19836	neuter
+19847	masculine
+19849	
+19851	
+19853	
+19855	
+
+19858	masculine
+19860	masculine
+19863	masculine
+
+
+19867	
+19869	
+
+
+
+19874	masculine/feminine/neuter
+19876	feminine
+neuter
+19881	
+19883	
+19885	
+masculine
+masculine
+19891	neuter
+feminine
+19897	masculine
+19899	feminine
+feminine
+19903	neuter
+neuter
+19910	feminine
+neuter
+19915	
+neuter
+masculine
+
+19924	masculine
+19926	
+19928	
+19931	masculine
+19933	
+19936	
+
+19939	feminine
+feminine
+
+
+neuter
+19945	masculine
+19948	
+19953	
+
+feminine
+
+
+
+neuter
+19962	
+19965	feminine
+19968	feminine
+19970	feminine
+neuter
+19975	
+
+
+19981	masculine
+19983	
+19985	
+19988	
+19993	
+
+19997	
+feminine
+20000	feminine
+20002	
+20004	masculine
+20006	
+20008	
+20010	
+20021	
+20023	
+feminine
+20026	masculine/neuter
+20028	masculine
+20030	masculine/neuter
+20032	feminine
+20034	masculine/neuter
+
+20037	masculine
+20039	
+20041	
+20044	feminine
+20048	masculine
+20057	
+feminine
+feminine
+20063	masculine
+20067	
+
+20070	feminine
+
+
+20081	feminine
+20085	neuter
+20096	
+20098	masculine
+20100	
+20105	neuter
+20113	
+20117	
+20119	feminine
+20121	
+20123	
+20126	
+
+
+20130	neuter
+masculine
+
+20135	
+
+20140	
+neuter
+20146	feminine
+feminine
+20153	
+20165	feminine
+20172	
+20174	neuter
+20178	feminine
+20186	
+
+20192	feminine
+20202	
+
+
+20208	feminine
+20214	feminine
+20217	
+20220	
+20223	
+20226	
+20228	
+20232	feminine
+
+20235	
+feminine
+20239	masculine
+20248	
+20250	
+20255	feminine
+
+
+20261	
+
+20264	feminine
+neuter
+20278	
+20280	
+20286	
+20289	
+20291	
+20294	
+feminine
+20299	neuter
+masculine
+20303	
+20306	
+masculine
+neuter
+20313	neuter
+20320	neuter
+masculine
+20327	neuter
+
+20332	
+masculine
+masculine
+20336	feminine
+masculine/feminine
+20339	masculine/feminine
+20353	
+20355	
+
+
+20361	
+20363	feminine
+20369	
+
+masculine
+
+20377	
+masculine
+20383	feminine
+
+
+20388	feminine
+
+
+
+20393	feminine
+20395	feminine
+feminine
+
+feminine
+
+20407	
+masculine
+20413	feminine
+20423	
+20426	
+20429	
+20431	feminine
+
+20434	
+
+20437	neuter
+20444	
+20447	
+20452	masculine
+20458	
+neuter
+20463	
+20465	
+20468	
+
+neuter
+
+20473	
+20477	feminine
+
+20480	
+20482	
+
+20486	
+20488	
+20491	
+20494	
+20500	
+20503	
+20506	
+feminine
+
+20511	feminine
+feminine
+
+
+
+20517	
+20524	
+20529	feminine
+20531	neuter
+20533	
+20535	
+
+20540	
+feminine
+20543	
+masculine
+20549	masculine/feminine
+20551	
+
+20557	neuter
+20563	
+
+neuter
+20567	feminine
+
+
+20572	feminine
+
+
+
+
+20579	
+
+
+20590	
+20610	
+20617	
+
+feminine
+feminine
+
+
+20624	feminine
+20637	
+20642	masculine
+20645	
+20647	
+neuter
+feminine
+
+20652	
+20655	feminine
+feminine
+20659	
+20661	
+20668	
+
+
+
+20674	
+20676	
+20678	
+20683	
+20685	feminine
+20688	
+20692	
+20698	
+
+20701	feminine
+20707	masculine/neuter
+20710	
+20714	
+masculine
+
+
+20721	
+20724	
+20727	
+20731	neuter
+20735	masculine/feminine
+20738	
+20741	
+
+20744	
+20746	
+20753	
+20757	neuter
+20760	
+20762	neuter
+20765	feminine
+20769	feminine
+20771	
+20773	
+20775	masculine
+
+20778	
+20783	
+20785	
+20794	
+20799	
+20801	
+20805	
+feminine
+20811	
+feminine
+20816	
+20823	
+20828	
+20832	
+20834	
+20836	feminine
+20840	feminine
+
+20845	
+20848	
+20853	
+20855	feminine
+20866	
+20868	
+20870	
+20872	masculine
+masculine
+20875	
+
+
+20880	masculine
+20882	masculine
+20886	
+20889	
+20895	
+
+20902	masculine
+20904	
+20909	
+20915	feminine
+20918	feminine
+20920	
+20922	
+
+20927	
+neuter
+20936	masculine
+neuter
+feminine
+
+20943	
+20951	feminine
+20953	feminine
+20956	
+20960	
+feminine
+20963	
+
+
+
+20969	
+20973	
+20976	feminine
+masculine
+20983	
+20987	
+21011	masculine
+21017	
+21019	masculine
+21021	
+21023	
+21031	
+21036	feminine
+feminine
+21040	
+
+21046	neuter
+21050	
+21054	
+21056	
+
+21059	
+
+21063	masculine/neuter
+21070	feminine
+neuter
+masculine
+masculine
+
+21076	
+masculine
+21083	
+21085	feminine
+feminine
+
+21089	neuter
+masculine
+21094	feminine
+masculine/neuter
+
+masculine
+
+
+21102	
+21104	
+
+21111	
+neuter
+21123	feminine
+21129	
+21131	
+21133	feminine
+masculine
+
+21140	
+21143	
+21150	
+21154	
+21163	feminine
+21165	neuter
+
+feminine
+21170	masculine
+21172	feminine
+21179	feminine
+21182	neuter
+21186	
+21188	
+21190	masculine/feminine
+21193	feminine
+21195	
+masculine
+21198	
+
+21201	
+
+
+21205	
+
+21208	
+neuter
+21214	
+21219	feminine
+
+
+21226	
+21228	
+
+21235	neuter
+masculine
+21238	
+21241	
+
+21245	masculine
+
+
+21249	
+21252	
+21256	
+21258	masculine
+feminine
+
+21265	masculine
+21267	masculine
+21270	
+21277	feminine
+21285	
+21289	
+21292	
+21294	feminine
+21296	feminine
+neuter
+21299	
+21302	feminine
+21304	masculine/neuter
+
+masculine
+
+
+21312	masculine/feminine
+21316	masculine/neuter
+21318	
+21322	
+
+masculine
+
+
+21328	masculine/neuter
+21335	neuter
+21337	masculine
+
+21342	
+
+21345	masculine
+masculine
+21351	
+21354	
+
+
+21359	masculine
+21369	
+21372	
+
+21375	
+21381	feminine
+21384	
+21387	
+21389	
+21391	masculine
+21394	
+21398	
+21406	
+masculine
+21414	
+21418	
+21420	masculine
+21425	
+masculine
+
+21433	neuter
+21435	masculine
+masculine
+
+
+21441	
+21443	masculine
+21446	
+21448	masculine
+21453	feminine
+21458	feminine
+21464	
+21468	feminine
+21473	
+21476	
+21480	masculine
+feminine
+
+21488	
+21492	masculine
+21496	masculine
+
+21502	feminine
+21504	feminine
+21508	feminine
+21511	feminine
+21513	masculine
+
+21519	neuter
+21521	neuter
+21524	feminine
+21531	masculine
+21536	
+feminine
+21539	
+21542	feminine
+21545	
+21548	
+21550	neuter
+masculine
+
+21557	
+21559	
+21562	
+21564	
+21567	
+21569	
+21572	
+21577	
+feminine
+21580	
+21582	
+21584	
+21590	feminine
+21592	
+feminine
+feminine
+21597	
+21600	feminine
+
+21613	
+21615	neuter
+21624	
+21626	
+21633	feminine
+21635	
+21638	neuter
+
+21644	
+21646	feminine
+21648	
+21651	neuter
+21653	
+21656	
+feminine
+
+21663	
+21666	
+feminine
+21670	masculine/neuter
+21673	
+21675	neuter
+21677	
+21679	masculine
+masculine/neuter
+
+masculine
+21684	feminine
+21688	masculine/neuter
+21690	neuter
+feminine
+21695	
+21700	feminine
+21702	neuter
+21705	masculine
+21710	
+21712	
+
+21715	neuter
+21719	feminine
+21721	feminine
+21723	masculine/neuter
+feminine
+21726	
+21728	
+21730	
+
+21734	
+21736	
+
+21739	
+21742	masculine
+
+21745	neuter
+21747	
+21756	neuter
+21765	
+21767	feminine
+21771	
+
+21774	
+
+21778	
+21780	neuter
+21782	
+21784	
+21787	masculine
+21791	
+21793	masculine/neuter
+feminine
+21802	
+21806	neuter
+21814	
+neuter
+21822	
+
+feminine
+21827	
+
+21830	feminine
+21832	feminine
+
+
+21838	
+21840	
+21843	
+21849	masculine/neuter
+21851	feminine
+21862	
+21867	neuter
+21870	
+
+21873	neuter
+21876	neuter
+21880	masculine
+21884	
+neuter
+21889	masculine
+feminine
+21893	feminine
+21897	
+21899	feminine
+21903	feminine
+21905	
+21909	
+21920	feminine
+21923	
+21931	
+21936	neuter
+21938	feminine
+21940	
+21946	
+21951	neuter
+21954	
+
+21958	
+21963	
+21970	
+21976	
+21980	masculine
+21984	feminine
+21988	masculine
+feminine
+
+21993	
+21996	
+22000	
+22002	feminine
+22004	masculine
+22012	neuter
+feminine
+neuter
+22016	feminine
+22019	
+22025	masculine
+
+masculine/feminine
+22030	
+22032	
+22034	masculine
+22037	masculine
+22041	
+22043	masculine
+22046	
+
+22049	
+masculine/feminine
+22053	masculine
+22062	feminine
+22066	masculine
+22072	feminine
+22081	
+
+
+22092	feminine
+feminine
+
+
+22100	masculine
+feminine
+
+
+
+masculine/feminine
+22107	neuter
+22110	
+
+22113	neuter
+22117	
+22122	
+22127	neuter
+22129	
+
+22132	
+22137	
+22148	neuter
+22150	
+22152	
+
+22155	
+22159	
+22163	feminine
+22165	
+22169	feminine
+feminine
+22172	
+
+22176	
+feminine
+feminine
+
+22182	
+22192	feminine
+22194	
+22197	
+22199	
+22212	feminine
+22221	
+22229	masculine
+22231	
+masculine
+22238	feminine
+22242	feminine
+
+22245	
+22250	
+22252	
+22255	feminine
+22257	
+22264	
+22269	feminine
+22271	
+22274	
+22277	masculine
+22285	feminine
+22288	
+
+22291	
+22293	neuter
+22305	masculine
+22308	masculine
+22313	masculine
+22319	masculine
+neuter
+22322	
+22326	
+22333	neuter
+22338	feminine
+22340	
+22342	
+22346	
+22351	
+22356	neuter
+22359	neuter
+22361	
+
+22364	
+22372	
+feminine
+feminine
+neuter
+22377	feminine
+masculine
+22383	
+22389	feminine
+22391	
+22397	
+22399	
+22407	masculine
+22412	
+22416	
+22418	
+
+
+
+feminine
+
+
+22426	
+22437	
+
+
+22441	
+22445	
+
+
+
+feminine
+22453	masculine
+22456	
+22466	feminine
+
+
+
+22477	masculine
+22482	masculine
+22484	neuter
+22499	
+neuter
+22506	
+feminine
+22509	feminine
+22515	feminine
+22519	
+22521	masculine
+22524	masculine
+22526	neuter
+22529	masculine/neuter
+masculine
+feminine
+masculine/neuter
+
+22538	
+
+22544	neuter
+22546	
+22548	masculine
+22552	masculine/neuter
+22555	
+22557	
+22559	neuter
+22564	
+feminine
+22567	neuter
+feminine
+22570	
+22572	
+
+22584	
+
+
+22592	
+22594	masculine
+
+22598	
+
+22603	masculine/neuter
+22605	masculine
+22607	
+
+22611	masculine/neuter
+22615	masculine/neuter
+22617	neuter
+masculine/feminine/neuter
+22620	
+22626	
+neuter
+
+22630	
+22632	
+22634	feminine
+22640	neuter
+
+
+22645	
+22648	
+
+22651	
+22653	feminine
+22657	
+
+22660	feminine
+masculine/neuter
+
+22665	feminine
+feminine
+feminine
+
+feminine
+22674	
+22676	
+22680	masculine
+22684	
+
+masculine
+
+22690	masculine
+
+22693	
+feminine
+22696	
+
+feminine
+22700	feminine
+22704	feminine
+
+22707	
+22710	
+
+22714	masculine
+feminine
+
+22718	
+22720	
+22726	
+22728	
+
+neuter
+22733	masculine
+
+22738	masculine
+22740	
+
+22744	
+
+22747	
+22749	
+22753	
+22758	neuter
+feminine
+22761	
+22763	
+22766	
+
+masculine
+22770	
+22777	
+22780	masculine
+22782	masculine
+
+22787	
+
+22798	neuter
+22800	feminine
+feminine
+22805	
+22810	
+22812	
+feminine
+feminine
+masculine
+feminine
+22818	
+22832	
+22841	
+22845	
+feminine
+22849	
+22852	
+neuter
+22859	neuter
+
+22866	
+22869	masculine
+22871	feminine
+22876	masculine
+22881	neuter
+22886	feminine
+22888	
+22890	
+22892	
+masculine
+22895	feminine
+22897	
+22899	masculine
+22905	masculine
+22907	
+22909	neuter
+22913	
+
+22918	masculine/neuter
+22920	neuter
+22923	
+22927	
+22929	masculine
+22933	
+22936	neuter
+22938	feminine
+22943	feminine
+masculine
+22946	feminine
+22948	
+22952	feminine
+masculine
+22956	feminine
+22958	feminine
+22965	
+22968	
+22976	
+
+22979	masculine
+22983	
+
+feminine
+22987	
+22990	
+22992	feminine
+
+22996	
+23001	
+23009	
+feminine
+23015	neuter
+23018	feminine
+
+23022	masculine
+23028	
+23032	
+23035	
+23040	masculine
+masculine
+neuter
+
+23047	
+23050	
+23052	
+23058	
+23067	feminine
+
+23074	
+
+feminine
+masculine/feminine
+masculine/neuter
+23086	neuter
+
+23089	masculine/feminine
+
+23092	feminine
+23094	
+23096	
+23098	
+feminine
+23102	
+23104	
+23106	masculine
+feminine
+
+
+
+23115	
+masculine
+23118	feminine
+23122	
+
+23125	masculine
+23127	neuter
+23131	
+23133	
+23143	
+23148	
+23153	
+23158	feminine
+23160	
+feminine
+
+23171	
+23176	
+23178	
+23181	
+23183	feminine
+23185	feminine
+
+23191	feminine
+
+23194	
+feminine
+feminine
+23198	feminine
+23200	masculine
+23208	
+23211	
+
+23216	
+
+23219	
+
+23222	feminine
+neuter
+23225	
+23227	feminine
+
+
+
+23240	feminine
+23242	
+23244	
+feminine
+23250	
+23252	feminine
+23257	feminine
+
+
+23262	
+23264	masculine
+
+
+23280	
+23286	
+23289	
+
+23293	
+23295	
+
+
+23299	
+23301	
+masculine/neuter
+23306	
+23311	
+23314	
+
+23319	feminine
+
+23323	
+23327	
+
+23331	
+23334	
+23337	masculine/neuter
+23341	
+23343	
+23346	
+23349	
+feminine
+23352	
+23354	feminine
+23359	
+23362	
+23368	
+
+23372	
+23377	
+feminine
+23380	
+
+23387	
+23392	
+23395	feminine
+
+
+neuter
+
+23409	
+23421	
+23423	
+masculine
+23426	
+23430	feminine
+23432	neuter
+masculine
+23435	masculine
+feminine
+
+
+23440	
+23443	
+23445	
+23447	
+23450	feminine
+
+masculine
+23454	feminine
+23456	
+masculine
+feminine
+23460	masculine
+23462	neuter
+23464	masculine
+
+23470	
+23472	
+23474	
+23477	masculine
+23484	masculine/feminine
+23486	
+23488	
+neuter
+23491	
+23494	
+neuter
+masculine
+23502	
+23504	
+feminine
+23509	
+
+23513	
+
+feminine
+23524	masculine
+23532	masculine/feminine
+feminine
+23536	
+23542	neuter
+23546	masculine
+23548	neuter
+23550	masculine
+23552	feminine
+23554	feminine
+
+23559	
+
+
+23563	masculine
+
+23566	feminine
+feminine
+
+
+
+feminine
+23574	feminine
+23581	
+
+23584	
+23587	
+23593	masculine/feminine/neuter
+23596	
+23602	neuter
+
+23605	
+
+
+
+23612	
+
+23615	
+
+23618	
+23620	
+23622	
+23626	
+23628	
+23631	masculine
+23635	
+
+23643	
+
+23647	neuter
+23653	
+
+23663	neuter
+23665	
+
+23670	
+
+23673	
+
+23676	
+23679	masculine
+23681	masculine/feminine/neuter
+23683	
+23685	feminine
+
+
+
+
+
+23698	
+feminine
+
+23703	feminine
+
+
+23707	
+feminine
+feminine
+23711	feminine
+23714	neuter
+masculine
+23717	masculine
+23726	
+23730	masculine
+
+23735	feminine
+23737	feminine
+23739	
+23741	masculine
+feminine
+neuter
+feminine
+masculine
+23750	masculine
+23760	
+23762	
+masculine
+23765	
+neuter
+23768	
+
+masculine
+23772	masculine
+23774	feminine
+23779	masculine/feminine
+
+masculine
+23793	
+
+23800	feminine
+23804	
+23810	neuter
+23813	neuter
+23815	
+
+23818	
+23823	
+23828	feminine
+feminine
+23831	feminine
+23833	
+23839	feminine
+23842	
+23845	neuter
+23847	
+
+23850	feminine
+
+23863	feminine
+23868	masculine
+
+
+masculine
+23873	
+23875	
+23877	masculine
+neuter
+23885	masculine
+23887	neuter
+23889	
+23894	
+
+23897	feminine
+feminine
+23901	
+
+
+
+23907	
+23909	neuter
+23911	feminine
+23917	feminine
+23921	feminine
+23935	neuter
+23952	
+23956	
+
+23964	masculine
+23970	neuter
+23972	
+
+23980	masculine
+23987	masculine/neuter
+23993	neuter
+neuter
+23996	
+23998	
+
+neuter
+24002	feminine
+
+24005	feminine
+
+feminine
+
+
+masculine/neuter
+
+24021	feminine
+24026	
+24039	
+24043	
+24045	
+24047	neuter
+24049	
+24055	
+24060	
+24063	
+24066	
+24068	
+neuter
+masculine/feminine
+24073	feminine
+neuter
+24076	masculine
+
+24080	
+
+neuter
+feminine
+
+24088	neuter
+24090	
+masculine
+
+24094	
+24097	
+feminine
+24100	neuter
+masculine
+
+24106	
+24108	
+24110	masculine
+24118	
+masculine
+
+
+
+24126	
+24131	feminine
+24141	
+
+24144	neuter
+24146	masculine
+24150	
+
+24154	
+24157	
+
+24160	masculine
+feminine
+
+24164	masculine
+24167	
+24174	
+24179	
+24181	masculine
+24183	
+24185	
+
+24190	feminine
+24192	feminine
+24202	feminine
+
+24205	
+24207	
+neuter
+24210	
+
+24213	
+24222	masculine/feminine
+feminine
+24225	masculine
+24233	
+feminine
+24236	
+24238	feminine
+
+24246	
+24248	
+24250	masculine
+24257	
+24259	
+24263	
+24268	
+24270	
+24273	masculine
+24283	masculine
+24286	
+24288	feminine
+24290	masculine
+24292	
+24295	
+neuter
+24299	masculine
+
+24302	
+24309	
+24315	
+24321	neuter
+24325	masculine/feminine
+
+
+24329	masculine/neuter
+24331	neuter
+24334	
+masculine/feminine
+24339	
+24342	masculine/feminine
+neuter
+24345	masculine
+
+masculine
+
+24354	
+24357	
+24363	
+24370	masculine/neuter
+24372	masculine/neuter
+24376	
+
+feminine
+
+24381	
+24383	
+masculine/neuter
+
+feminine
+
+
+
+24392	
+24395	
+feminine
+24398	
+
+feminine
+24402	masculine/neuter
+24406	masculine
+24410	
+24417	
+24420	
+24423	feminine
+neuter
+
+masculine
+feminine
+24429	masculine/neuter
+neuter
+24432	masculine
+24434	masculine
+24437	
+24439	
+
+24446	
+24449	
+24453	masculine
+24455	neuter
+neuter
+24458	masculine/neuter
+
+masculine
+neuter
+24463	masculine
+24465	masculine
+24467	
+24469	
+24471	
+24477	
+24481	neuter
+neuter
+24484	masculine/neuter
+
+masculine
+24489	masculine
+masculine
+24494	
+24496	feminine
+
+
+
+24504	
+24508	neuter
+24510	feminine
+24512	
+24522	masculine
+24524	feminine
+neuter
+24528	feminine
+
+feminine
+
+24535	
+
+24538	masculine/feminine
+24540	
+
+24543	feminine
+24545	
+24547	
+feminine
+feminine
+24553	
+
+24563	
+24568	feminine
+24573	
+24577	
+24580	neuter
+24582	
+
+24586	
+24588	masculine
+masculine
+24591	neuter
+24593	masculine
+24596	
+24598	
+neuter
+24601	masculine
+
+24607	masculine/neuter
+24609	
+24617	
+24620	
+24624	
+24628	
+24634	masculine
+24636	
+
+24641	
+24643	
+24648	neuter
+24655	
+24659	masculine
+feminine
+24666	
+24669	
+
+24673	
+24676	
+
+24681	neuter
+24685	
+24689	
+feminine
+24693	feminine
+24695	feminine
+24697	masculine
+24699	feminine
+
+24702	feminine
+24704	neuter
+masculine
+24708	
+24710	masculine/feminine
+feminine
+feminine
+24717	
+feminine
+24723	feminine
+feminine
+
+
+feminine
+
+
+24731	
+24733	
+24735	feminine
+
+
+
+masculine
+24742	
+
+24746	masculine
+feminine
+
+
+24753	feminine
+feminine
+24756	
+
+24769	
+24771	
+neuter
+
+neuter
+24776	masculine
+
+24781	masculine
+24785	
+24788	neuter
+24791	masculine
+
+masculine
+feminine
+masculine
+24797	masculine
+24799	masculine
+24801	masculine
+24803	
+24806	masculine/neuter
+24810	neuter
+24816	neuter
+
+24821	neuter
+24823	masculine
+24829	
+24831	neuter
+masculine
+
+
+feminine
+
+neuter
+24843	feminine
+24845	
+24849	
+24851	neuter
+24853	feminine
+24855	
+24859	
+24861	
+24863	feminine
+feminine
+24866	neuter
+masculine
+
+24871	
+
+24874	masculine
+feminine
+24878	
+24880	feminine
+
+
+24884	masculine
+24886	feminine
+24890	
+
+neuter
+24894	masculine
+24896	
+
+24900	
+24903	
+24905	feminine
+
+
+24909	
+24912	feminine
+24918	
+24920	
+24922	feminine
+
+
+24926	masculine
+24928	
+24930	masculine
+24933	feminine
+24935	masculine
+24939	neuter
+masculine
+
+neuter
+24947	neuter
+
+neuter
+24951	feminine
+neuter
+
+
+24956	
+neuter
+24960	
+24963	neuter
+24966	masculine
+24968	neuter
+masculine
+feminine
+
+
+24976	
+24978	
+24980	
+24982	
+24984	
+24986	
+24988	
+24991	
+24994	
+24996	neuter
+24998	
+25001	
+
+25019	
+
+25022	
+25024	
+neuter
+25029	masculine
+
+25032	masculine
+
+masculine
+
+25037	
+25039	
+25041	
+25044	
+masculine
+25047	neuter
+masculine
+25051	masculine
+25062	
+feminine
+25067	
+
+25070	
+25073	neuter
+25075	
+
+25084	
+25088	masculine/neuter
+25093	
+25096	
+25099	
+25105	masculine/feminine
+feminine
+25108	feminine
+25114	masculine
+
+25117	masculine
+25123	neuter
+25125	masculine
+25127	masculine/feminine
+neuter
+25130	
+25133	
+25135	
+
+masculine
+25139	neuter
+25142	masculine/feminine
+25145	masculine/neuter
+25147	neuter
+25150	
+25153	
+25155	
+masculine/neuter
+neuter
+25159	masculine
+
+25163	
+25165	
+
+25169	
+25172	
+
+25180	masculine
+25182	neuter
+25185	neuter
+25187	masculine
+
+25191	
+25194	
+
+25207	neuter
+25209	
+
+25219	feminine
+25221	masculine
+
+25232	neuter
+masculine
+
+25236	
+
+masculine
+25243	masculine/neuter
+feminine
+25246	masculine
+masculine
+feminine
+
+feminine
+25255	
+
+25259	
+
+25263	
+
+25266	masculine/neuter
+25270	
+
+
+
+25275	masculine
+25281	neuter
+25283	
+
+25287	
+
+
+25293	
+
+25298	feminine
+25300	
+25302	feminine
+25304	
+25309	feminine
+
+25312	
+
+neuter
+25319	
+25321	neuter
+25325	
+
+masculine
+neuter
+25334	
+25337	masculine
+neuter
+25341	
+25345	
+neuter
+25350	
+25353	neuter
+25356	
+neuter
+masculine
+
+25366	masculine
+25368	
+
+
+masculine
+neuter
+25377	
+
+25384	
+25386	neuter
+masculine
+
+25390	masculine
+25392	
+neuter
+25396	
+25402	neuter
+masculine
+
+25406	
+feminine
+25409	masculine/neuter
+
+masculine
+25418	
+25420	
+feminine
+
+25424	
+25426	
+25434	masculine
+25438	feminine
+
+25441	
+25443	
+
+25449	masculine/neuter
+25453	
+25467	
+25469	neuter
+25471	
+
+25474	
+25476	
+neuter
+masculine
+
+25481	
+25491	
+25495	
+
+25498	
+
+25501	masculine/neuter
+25504	
+25508	
+25511	
+25515	masculine
+25517	neuter
+25520	
+neuter
+masculine
+25536	feminine
+25538	feminine
+25545	feminine
+25547	feminine
+
+
+25552	
+25558	masculine
+25560	masculine
+25563	masculine
+25565	masculine
+25568	neuter
+25570	
+25572	masculine/neuter
+25574	feminine
+25576	feminine
+
+25579	masculine/neuter
+25582	
+25585	feminine
+25587	
+25589	
+25591	neuter
+25594	neuter
+25596	
+25599	
+25601	
+25606	feminine
+25608	
+25610	feminine
+25615	feminine
+25620	
+25622	
+neuter
+25625	
+
+25633	
+
+25636	
+neuter
+25641	
+neuter
+25644	
+
+25648	
+25652	
+25655	masculine
+25658	masculine
+feminine
+
+feminine
+25663	
+25665	feminine
+25667	
+25669	neuter
+25677	
+
+masculine/feminine/neuter
+25682	masculine
+25687	
+25692	
+25695	neuter
+25698	
+25700	feminine
+
+masculine/feminine/neuter
+25706	
+25710	
+neuter
+neuter
+25714	neuter
+25725	feminine
+25728	masculine
+25731	masculine
+25735	
+25743	neuter
+25749	
+feminine
+25755	
+25758	feminine
+masculine
+
+25766	masculine
+25769	neuter
+25771	
+25774	
+feminine
+25778	
+
+25781	
+neuter
+masculine
+
+25786	
+25788	
+feminine
+
+
+
+25794	
+
+
+neuter
+25802	
+25807	
+
+25810	
+
+
+
+
+25816	
+25820	feminine
+25822	
+
+neuter
+feminine
+
+25828	
+
+
+25834	
+25837	
+25839	
+
+25842	
+
+25847	neuter
+25849	masculine/neuter
+neuter
+
+25853	
+
+
+feminine
+25858	masculine/neuter
+feminine
+25862	
+25865	
+
+masculine/feminine/neuter
+25869	
+25873	masculine
+25876	masculine
+25879	masculine
+25882	
+25884	
+feminine
+
+25889	
+25891	masculine
+25894	
+25898	feminine
+neuter
+25901	masculine
+
+25904	
+feminine
+feminine
+25909	
+25912	
+
+
+feminine
+
+25918	
+25923	
+
+
+
+
+25929	
+25935	masculine
+neuter
+25938	
+
+
+neuter
+25947	
+25949	
+25960	
+25962	
+25965	
+masculine
+
+25969	
+25971	neuter
+masculine
+
+25975	
+25977	
+
+
+feminine
+
+25983	
+feminine
+25987	
+26013	
+26015	neuter
+26017	neuter
+26020	
+26023	
+
+26031	
+26039	neuter
+26048	
+26051	masculine
+26059	feminine
+26062	
+26065	
+26068	masculine
+
+
+26076	masculine
+26080	neuter
+
+26084	neuter
+26090	masculine/neuter
+26092	feminine
+26096	
+26101	
+
+26105	
+neuter
+masculine/feminine
+
+26112	
+26116	
+26119	
+
+26122	masculine
+26128	masculine
+26132	
+26134	
+neuter
+masculine/neuter
+26142	
+26144	masculine/neuter
+feminine
+26148	
+26155	
+26159	
+
+26165	feminine
+masculine/neuter
+26181	
+26184	
+
+masculine/feminine
+
+26190	
+masculine
+26197	
+26202	feminine
+26205	
+
+26212	
+26214	
+
+26217	
+neuter
+26221	feminine
+26224	
+26228	
+
+26233	
+masculine
+26238	
+26241	feminine
+masculine
+26245	feminine
+masculine
+masculine
+26249	neuter
+26252	neuter
+26254	masculine
+
+26257	feminine
+26259	
+26262	feminine
+
+
+
+
+26271	feminine
+26277	
+masculine/neuter
+26284	masculine
+26286	masculine
+26288	masculine/feminine
+
+neuter
+26293	
+26295	
+26299	
+26302	
+neuter
+26305	
+26309	
+26311	
+26313	
+26316	
+26318	neuter
+masculine
+26325	
+26328	neuter
+26335	masculine
+26338	neuter
+26342	masculine
+26347	
+26350	feminine
+26353	
+26355	feminine
+26357	masculine/neuter
+26359	feminine
+26362	masculine
+26370	neuter
+masculine
+26373	feminine
+26375	
+26379	masculine
+26383	
+
+26388	feminine
+masculine/neuter
+26391	
+26395	
+
+26398	
+26400	
+26404	feminine
+
+26409	
+26412	masculine
+26414	
+masculine/neuter
+
+
+26419	neuter
+26421	masculine
+26423	neuter
+26435	feminine
+
+26439	
+feminine
+26445	
+feminine
+26449	
+masculine
+
+26455	feminine
+26457	masculine
+feminine
+26460	
+neuter
+masculine
+
+feminine
+26466	
+26468	masculine
+neuter
+26471	masculine/neuter
+masculine
+26476	
+masculine
+26479	masculine
+masculine/neuter
+
+
+26484	
+masculine/neuter
+26487	
+
+26490	
+masculine/neuter
+26493	
+
+26496	
+masculine/neuter
+26499	
+
+26503	masculine/neuter
+neuter
+26506	
+26508	masculine
+masculine/neuter
+
+neuter
+26514	
+masculine
+26519	
+26521	neuter
+26523	masculine
+26526	feminine
+26528	
+26536	
+26539	masculine
+26541	
+
+26544	
+26546	
+
+26551	
+
+26557	masculine
+26559	masculine
+
+26562	
+26568	feminine
+26570	neuter
+masculine
+feminine
+26574	
+26576	
+
+26580	masculine/feminine
+
+26584	feminine
+
+
+26592	
+feminine
+
+neuter
+masculine
+
+26599	
+
+masculine/feminine/neuter
+
+
+masculine
+26606	
+neuter
+masculine
+26614	
+
+
+26618	
+
+
+masculine
+
+masculine/neuter
+26627	neuter
+26629	feminine
+
+
+26634	masculine/neuter
+
+26637	masculine
+masculine/neuter
+26641	
+26643	masculine
+26645	
+
+26649	feminine
+neuter
+26654	
+
+feminine
+
+26660	
+
+
+26667	masculine
+
+26673	
+26678	
+26683	
+26685	
+masculine
+26691	masculine/neuter
+26693	feminine
+feminine
+26698	
+26700	feminine
+
+26703	
+26706	
+neuter
+26709	feminine
+neuter
+
+26713	masculine
+26718	feminine
+26722	feminine
+26725	feminine
+26733	feminine
+
+
+26737	feminine
+
+
+
+feminine
+feminine
+26744	feminine
+26746	neuter
+26751	
+26753	masculine
+26757	
+26767	neuter
+feminine
+26771	masculine
+26773	neuter
+26775	feminine
+26777	
+26779	
+masculine/feminine/neuter
+
+26785	feminine
+
+26788	
+26790	
+26795	neuter
+masculine
+
+26803	masculine
+26813	
+feminine
+26816	
+
+26821	masculine
+26823	
+masculine/feminine/neuter
+26828	masculine
+26835	masculine
+
+masculine/feminine
+
+26846	
+26848	
+neuter
+neuter
+26852	masculine
+26854	
+26856	
+26859	feminine
+
+26864	
+26867	masculine
+
+26873	
+26877	
+26880	masculine
+26882	
+
+26895	feminine
+26897	feminine
+26900	
+26907	
+26911	masculine/neuter
+feminine
+
+feminine
+26916	
+masculine
+26923	feminine
+26926	
+
+masculine
+26931	
+neuter
+feminine
+26935	masculine
+
+26939	masculine
+26942	
+feminine
+26946	
+26951	neuter
+26953	
+
+26959	
+26962	
+26964	masculine
+26966	
+26970	masculine
+26972	
+26975	
+26984	
+26986	
+26989	
+26993	feminine
+26997	neuter
+27000	
+27006	
+27014	
+neuter
+27019	masculine
+
+27024	
+feminine
+masculine
+neuter
+27029	
+27032	
+27036	
+27040	
+27042	neuter
+
+27048	
+feminine
+
+
+27054	
+27058	
+27064	
+27068	
+27072	feminine
+27076	feminine
+feminine
+27080	neuter
+27082	
+27088	
+neuter
+27091	feminine
+
+27097	feminine
+27099	
+27102	masculine
+27104	feminine
+27106	
+
+feminine
+27110	
+feminine
+27113	
+27115	
+27118	feminine
+27121	neuter
+27123	
+
+feminine
+27127	neuter
+masculine
+feminine
+27132	
+27139	
+feminine
+27145	
+
+masculine
+27149	
+27152	
+27154	
+neuter
+
+
+27165	neuter
+27169	feminine
+27172	
+27177	masculine
+27181	
+
+27185	feminine
+27187	feminine
+
+27190	
+27197	
+
+27200	
+27206	
+27213	
+27215	
+
+27220	masculine
+27224	feminine
+27226	
+27230	
+27233	
+27235	
+neuter
+27240	feminine
+27242	
+feminine
+
+
+
+27255	
+27257	feminine
+
+
+27264	feminine
+
+
+
+27270	
+feminine
+neuter
+27274	
+
+27277	neuter
+feminine
+neuter
+27282	feminine
+27285	masculine
+27287	
+27294	feminine
+27296	
+27298	
+27301	
+masculine
+27304	
+27306	
+neuter
+27309	
+27311	neuter
+27313	
+
+27316	
+27318	
+neuter
+27322	
+27328	
+27332	
+
+27335	
+27338	masculine
+
+27341	
+27345	
+
+27349	
+27351	
+neuter
+masculine/feminine
+27357	
+27359	
+masculine/feminine
+
+27363	
+
+27368	
+feminine
+27373	
+
+27376	
+
+
+27383	feminine
+27387	feminine
+27390	masculine
+27393	masculine
+27395	
+27397	
+27401	
+27403	masculine
+
+27406	
+27408	
+27411	
+27413	feminine
+27415	
+
+27418	
+27422	
+
+27425	
+27430	
+27437	
+
+27441	
+27443	
+27447	
+27449	feminine
+27452	
+
+
+27459	masculine
+27461	
+27469	
+27471	neuter
+27473	masculine
+
+masculine/feminine
+27479	
+
+masculine
+masculine
+27484	
+
+27490	
+27492	feminine
+27496	
+27499	
+27504	
+27507	
+27509	
+27513	
+27516	feminine
+27518	
+
+27521	neuter
+27524	masculine
+
+masculine
+27531	
+27534	
+27537	feminine
+27540	neuter
+27552	masculine
+27563	
+27567	feminine
+27569	feminine
+feminine
+27573	
+27576	
+
+27579	masculine
+feminine
+
+27594	feminine
+
+27597	
+27599	
+
+27604	
+
+27610	
+27614	neuter
+
+
+
+
+
+neuter
+27622	
+27633	feminine
+27635	masculine
+27638	
+
+masculine
+27643	neuter
+27647	masculine/feminine
+27650	masculine
+feminine
+27654	
+27658	
+27660	
+27666	feminine
+feminine
+27674	masculine/neuter
+feminine
+27677	masculine/neuter
+neuter
+masculine
+
+feminine
+
+
+
+27686	
+masculine/neuter
+
+27690	neuter
+neuter
+27693	
+27697	
+27700	
+27702	
+27704	neuter
+27706	
+27711	neuter
+27714	
+
+27718	
+neuter
+27722	
+
+
+27728	
+27731	
+27735	
+neuter
+27738	
+
+27741	masculine
+27743	
+27746	neuter
+27749	feminine
+masculine/neuter
+feminine
+27754	
+
+27760	
+27769	
+27774	masculine
+
+
+27779	
+27792	feminine
+
+
+
+27799	
+27801	
+27804	
+feminine
+27807	feminine
+27811	
+
+
+27815	feminine
+
+
+feminine
+27821	
+27825	masculine
+feminine
+
+27829	neuter
+masculine
+
+27834	
+27836	
+27840	feminine
+27843	
+27848	
+feminine
+
+27852	feminine
+neuter
+27858	
+27866	
+27868	neuter
+masculine
+feminine
+
+masculine
+
+27880	
+27883	
+27886	
+neuter
+27891	neuter
+
+27895	masculine
+27898	masculine
+
+27904	
+feminine
+27907	
+masculine
+
+27914	
+27917	
+
+27920	feminine
+27925	masculine
+27933	
+27936	
+27940	
+27944	feminine
+neuter
+27947	feminine
+
+27952	
+27955	neuter
+27963	
+masculine
+27966	
+27968	
+feminine
+
+27972	
+27974	neuter
+27976	neuter
+feminine
+masculine
+27981	
+27984	
+27990	
+28000	
+
+28003	masculine
+28006	masculine
+28008	
+
+
+28012	
+28016	
+28022	feminine
+28025	masculine/feminine
+28037	
+28040	
+28042	feminine
+masculine
+28050	
+28057	
+28059	
+28063	
+
+28066	feminine
+
+
+28070	neuter
+28072	
+
+
+28079	
+
+
+neuter
+
+28086	feminine
+28089	
+28092	neuter
+28099	
+28104	neuter
+neuter
+28107	masculine
+28116	neuter
+
+28121	masculine
+28123	
+
+28130	
+28137	
+28142	masculine
+28159	
+28161	neuter
+
+masculine
+28166	
+28170	
+neuter
+masculine
+
+28175	
+28177	feminine
+28182	neuter
+28186	feminine
+28189	feminine
+
+
+masculine/feminine/neuter
+28201	feminine
+masculine
+28208	feminine
+28214	feminine
+28216	
+28220	neuter
+28222	masculine
+28224	feminine
+28226	
+feminine
+28237	masculine
+28240	masculine
+28243	masculine
+28246	neuter
+28252	feminine
+
+
+28257	
+masculine
+28260	
+28264	masculine
+28270	masculine
+28274	neuter
+28278	
+
+masculine
+28282	
+28284	
+28293	
+28295	feminine
+feminine
+28299	
+28301	
+28305	
+masculine
+
+28310	
+masculine/neuter
+
+28314	
+28319	
+28321	feminine
+masculine
+feminine
+28326	
+28328	
+28331	
+feminine
+neuter
+feminine
+28336	
+neuter
+
+
+28344	masculine
+28346	
+28350	masculine/neuter
+masculine/neuter
+neuter
+28360	neuter
+
+28365	
+28368	
+neuter
+masculine
+neuter
+28373	
+28375	neuter
+28377	masculine
+
+28385	
+
+28388	neuter
+28397	
+
+neuter
+28401	
+masculine
+28404	feminine
+
+
+28411	masculine
+28416	
+28418	masculine
+28421	
+28425	
+feminine
+28428	
+28433	
+28440	
+28442	masculine
+28444	masculine
+28449	feminine
+28451	
+
+
+
+28456	
+28460	masculine
+
+masculine
+28464	feminine
+28466	masculine
+28470	
+feminine
+28474	
+28477	
+masculine
+neuter
+28482	masculine
+28484	
+28486	
+28489	masculine
+28492	
+
+28495	masculine
+28497	feminine
+28499	feminine
+28503	
+28506	
+28508	
+feminine
+28511	neuter
+28517	neuter
+28519	masculine
+28521	
+
+28525	
+feminine
+
+28531	
+neuter
+28538	
+28540	
+28545	
+28549	
+28554	neuter
+28558	
+
+28561	neuter
+masculine
+
+28567	
+28570	
+28573	
+feminine
+28576	
+28579	masculine
+28587	neuter
+28600	neuter
+28603	
+neuter
+28607	masculine
+neuter
+28610	
+28612	
+28614	masculine
+28616	
+
+masculine
+28620	feminine
+neuter
+28627	masculine
+28629	
+28631	
+feminine
+masculine/neuter
+masculine/neuter
+neuter
+28637	masculine
+28640	
+28645	
+28648	
+28650	feminine
+neuter
+28654	
+28656	neuter
+masculine
+28664	
+28666	feminine
+28670	
+neuter
+28676	
+28678	neuter
+28681	
+28683	masculine
+
+
+
+28690	masculine
+28693	
+feminine
+28698	masculine
+28700	masculine
+28703	
+28710	
+28712	neuter
+28716	
+
+28721	
+28723	
+28727	masculine
+masculine
+28731	
+neuter
+28734	neuter
+28737	
+28741	
+28743	masculine
+28745	
+
+neuter
+28749	neuter
+28753	
+28756	
+
+
+28769	masculine
+28774	
+28776	
+28781	masculine/neuter
+
+28784	
+28788	feminine
+28802	masculine
+28805	
+28814	feminine
+28816	
+28819	
+neuter
+28825	feminine
+28829	feminine
+28831	
+feminine
+
+28841	masculine/feminine
+28843	neuter
+28846	
+28853	
+28856	
+28870	
+28883	feminine
+28885	
+28889	feminine
+28892	
+
+28895	
+
+28898	feminine
+28901	
+feminine
+masculine
+28905	feminine
+
+28908	neuter
+28912	feminine
+28917	masculine
+feminine
+28920	neuter
+28922	feminine
+
+28925	
+feminine
+masculine
+masculine
+28934	feminine
+28936	masculine
+28938	neuter
+masculine
+28943	masculine
+
+28947	neuter
+neuter
+
+28951	
+
+masculine
+28955	masculine
+28957	masculine
+28963	
+masculine
+
+28968	masculine
+
+neuter
+masculine
+neuter
+28975	
+28978	
+
+28985	masculine
+masculine
+28991	feminine
+28993	
+feminine
+28998	
+29001	feminine
+
+29006	
+29009	neuter
+masculine
+
+29019	neuter
+neuter
+29023	neuter
+29026	
+29031	
+29035	
+feminine
+29038	
+29046	
+29050	masculine
+masculine/feminine
+29053	
+29058	neuter
+29060	masculine
+29065	feminine
+29068	
+
+29071	
+29075	feminine
+
+masculine
+29079	neuter
+29081	neuter
+29083	
+
+
+
+29089	
+29092	neuter
+29095	
+
+
+29104	
+29107	masculine
+feminine
+29111	masculine
+feminine
+29114	
+29122	
+
+
+29126	feminine
+29130	
+29133	
+29135	feminine
+
+29138	
+29140	feminine
+
+feminine
+29144	neuter
+
+29152	neuter
+29160	
+29163	feminine
+
+
+29175	
+masculine
+neuter
+29181	
+
+
+29190	
+
+29196	
+29201	
+29204	
+feminine
+29208	
+29214	
+29217	
+29220	feminine
+29226	
+
+29229	feminine
+29231	masculine
+feminine
+29235	masculine
+feminine
+29241	feminine
+29243	
+29245	masculine
+feminine
+29249	masculine
+feminine
+
+29262	neuter
+
+29271	feminine
+29273	
+
+29276	
+29281	masculine/feminine
+29286	
+
+29292	
+29294	neuter
+29296	
+29299	feminine
+29302	
+29308	
+29316	neuter
+29318	
+29320	masculine
+
+29323	
+29327	masculine
+29332	
+neuter
+29338	
+
+
+29343	
+29345	
+29347	
+
+feminine
+
+29352	feminine
+29357	
+
+29363	
+29374	neuter
+29377	
+29379	
+feminine
+29382	
+masculine
+29391	neuter
+29397	
+29401	masculine/neuter
+29404	
+
+29407	
+29414	masculine/feminine/neuter
+
+feminine
+
+29419	
+29421	
+29423	
+29430	
+29433	neuter
+29443	
+feminine
+29447	
+29449	masculine/neuter
+29455	
+29458	
+29464	masculine
+
+29467	feminine
+neuter
+feminine
+29473	neuter
+29475	
+
+feminine
+29482	
+
+
+29487	neuter
+masculine/neuter
+feminine
+
+29493	
+29497	masculine/neuter
+29501	
+29505	
+29507	masculine
+masculine/neuter
+neuter
+29512	masculine
+masculine
+29516	
+29519	
+29525	neuter
+
+
+29533	
+masculine/neuter
+29540	feminine
+29542	
+
+neuter
+29546	feminine
+feminine
+29551	masculine
+29559	neuter
+masculine
+29568	feminine
+29570	neuter
+29581	
+29585	
+masculine/feminine
+29590	masculine/feminine
+masculine
+29598	
+
+29601	masculine
+29605	
+
+masculine
+
+29615	
+masculine
+29620	
+29624	masculine
+29627	
+29631	
+feminine
+neuter
+29646	
+29648	
+29650	masculine
+
+
+29654	
+feminine
+29660	
+masculine/neuter
+29665	
+29669	
+feminine
+29672	feminine
+29676	
+29679	feminine
+
+29683	
+
+29687	
+29689	feminine
+29691	feminine
+
+29694	
+
+
+29702	
+
+29705	
+29708	
+masculine/neuter
+29711	neuter
+29714	
+
+29718	
+29721	
+29727	masculine/neuter
+29730	neuter
+
+29733	
+29738	feminine
+29741	
+29744	
+29748	neuter
+29750	masculine
+masculine
+masculine
+29755	feminine
+29757	masculine/neuter
+29759	feminine
+29761	masculine/neuter
+29763	
+29765	masculine
+29767	
+29770	
+29775	masculine
+29782	feminine
+
+29788	masculine
+masculine/neuter
+29796	
+29805	
+29809	
+29811	
+29813	masculine
+29815	masculine
+feminine
+29820	masculine
+
+
+29825	feminine
+neuter
+
+
+29833	
+
+feminine
+feminine
+
+masculine/neuter
+29842	
+29847	
+29856	feminine
+29860	
+29865	
+neuter
+29868	
+29873	neuter
+29875	masculine
+
+
+29879	
+
+29882	masculine
+29885	masculine
+29888	
+
+masculine
+29894	
+29897	feminine
+feminine
+29905	
+29909	
+29912	feminine
+29914	
+neuter
+29917	neuter
+29919	masculine
+29922	
+
+29925	
+
+29933	
+29937	
+29939	
+
+
+29945	
+masculine
+29953	
+29955	feminine
+feminine
+29959	
+29961	
+29964	
+29969	feminine
+29972	feminine
+29974	
+29976	
+29978	feminine
+29980	feminine
+
+29984	
+masculine
+
+29989	
+29993	
+29995	
+29997	
+feminine
+
+30001	
+neuter
+30006	
+
+
+30011	feminine
+
+30016	masculine
+30022	
+
+30029	
+30035	
+30038	neuter
+masculine
+30041	
+feminine
+30045	
+30051	
+neuter
+30056	
+neuter
+30060	masculine
+masculine
+30065	
+neuter
+
+
+30070	
+30072	
+30075	
+30078	
+30081	
+30091	
+30093	masculine
+neuter
+30099	
+30101	
+30103	
+30108	
+30113	feminine
+
+30118	
+30124	
+30127	neuter
+
+30132	
+neuter
+30135	
+30138	masculine
+30141	masculine
+30145	
+masculine
+30154	
+30156	
+30158	feminine
+30160	masculine/neuter
+30163	
+30165	
+neuter
+30170	masculine
+30176	feminine
+
+30179	
+neuter
+
+
+neuter
+30185	
+30188	
+feminine
+feminine
+masculine/neuter
+30194	
+30197	masculine/neuter
+30202	neuter
+30204	feminine
+30207	
+30212	
+30217	
+30219	masculine
+30222	
+30232	
+30237	feminine
+feminine
+30243	
+30251	feminine
+30255	
+30258	
+30261	
+30265	neuter
+30269	masculine/neuter
+30271	
+30275	
+feminine
+30278	
+masculine/neuter
+30283	
+30285	
+30287	feminine
+
+
+30291	masculine/neuter
+
+feminine
+30297	
+feminine
+30301	
+30306	neuter
+feminine
+30309	
+30315	neuter
+masculine/neuter
+feminine
+
+30320	
+feminine
+neuter
+30325	masculine
+30327	
+30332	
+
+
+30337	
+30341	
+30343	feminine
+
+
+30348	
+30352	
+feminine
+30355	
+
+30358	neuter
+neuter
+30365	
+30368	masculine
+
+
+30377	
+30379	
+
+
+30384	
+
+feminine
+30392	
+
+30396	masculine
+30400	
+30404	
+30406	masculine
+30412	masculine/neuter
+
+30416	
+30418	
+
+30427	
+feminine
+masculine/feminine
+30431	
+
+30440	neuter
+30442	
+30450	masculine
+
+30453	masculine
+masculine/feminine
+30456	
+30458	masculine
+30460	masculine
+
+30467	feminine
+30469	
+30471	feminine
+30477	masculine
+30482	
+30484	
+30486	
+masculine
+30490	feminine
+30492	
+
+30495	
+30499	neuter
+30502	
+30507	
+masculine/neuter
+30511	
+30514	
+30516	
+30518	
+30521	
+30529	masculine
+30533	
+30541	
+30544	feminine
+feminine
+
+30551	masculine
+feminine
+30561	
+
+30568	neuter
+feminine
+30575	masculine
+30577	
+30579	
+feminine
+masculine
+30583	neuter
+30585	masculine
+30591	masculine/neuter
+
+30594	
+feminine
+30597	neuter
+30599	
+30605	masculine
+30607	masculine
+neuter
+30610	
+30612	
+30615	
+
+
+30619	
+30621	
+feminine
+30624	masculine/feminine
+
+30629	
+30632	feminine
+30635	masculine/feminine/neuter
+30638	masculine
+
+30641	
+feminine
+masculine/neuter
+30650	feminine
+
+masculine
+30656	masculine/neuter
+30660	
+
+30669	masculine/neuter
+
+30672	masculine/feminine
+30676	feminine
+30680	
+30684	masculine
+
+feminine
+30689	masculine/neuter
+feminine
+30693	masculine
+30697	
+30699	masculine
+masculine/neuter
+
+
+
+
+30708	
+30710	
+
+feminine
+neuter
+feminine
+feminine
+30717	masculine
+
+masculine/neuter
+
+30723	feminine
+30725	
+
+
+30729	
+neuter
+30732	
+
+30735	
+
+30739	masculine/neuter
+
+30742	
+30745	masculine
+30751	
+
+30754	
+feminine
+feminine
+30758	
+30764	
+30770	neuter
+30774	feminine
+30778	masculine
+feminine
+30783	feminine
+30790	
+30800	feminine
+30804	
+30807	
+30813	feminine
+30817	
+
+30820	feminine
+30832	
+
+30838	feminine
+feminine
+
+30849	masculine/feminine
+30851	
+30854	
+30856	
+30860	
+30863	
+
+30866	feminine
+30868	
+
+30871	
+30877	masculine
+30883	feminine
+30886	masculine/neuter
+
+30890	
+masculine/neuter
+30899	
+30901	neuter
+30903	masculine
+
+
+30908	
+30914	
+30916	
+30918	
+30923	masculine
+masculine
+
+feminine
+30930	
+30934	neuter
+30936	neuter
+
+30943	
+
+30946	feminine
+30950	masculine
+30952	masculine/neuter
+
+
+30956	
+30960	
+
+30964	feminine
+30966	
+30969	feminine
+
+30973	masculine
+30975	masculine
+30981	
+feminine
+30992	neuter
+masculine
+30995	masculine/feminine
+31000	neuter
+31010	neuter
+
+31018	
+31020	
+31024	
+masculine
+31029	masculine
+31040	feminine
+31042	masculine
+neuter
+31045	feminine
+31049	
+31051	
+31054	
+masculine
+31061	masculine
+31072	feminine
+
+31075	feminine
+31077	
+31084	
+masculine
+31089	
+31092	
+31095	
+31098	feminine
+
+31101	feminine
+feminine
+
+31105	feminine
+
+31109	masculine
+31112	
+31114	
+
+masculine/neuter
+31119	
+
+masculine/neuter
+
+neuter
+
+
+
+31128	
+masculine/neuter
+31132	
+31134	
+
+31138	
+
+
+masculine/neuter
+31144	
+31147	masculine
+feminine
+
+31151	
+
+31158	neuter
+31163	masculine/feminine
+31166	
+31170	
+masculine
+31175	
+31179	
+31181	
+31187	
+
+
+31191	masculine
+masculine/neuter
+31195	
+
+31198	
+31200	neuter
+31202	
+
+31206	
+31208	masculine
+31210	
+
+31213	
+31216	
+31219	
+31224	
+31228	
+31230	masculine
+31232	
+31234	
+31236	neuter
+masculine/neuter
+masculine
+
+31242	masculine/neuter
+
+
+
+31247	masculine
+31252	masculine/neuter
+31255	
+31261	
+31265	
+31267	masculine/neuter
+31270	
+neuter
+31273	
+31275	feminine
+31282	
+31284	
+31288	
+31293	
+
+31297	
+
+31300	masculine/neuter
+31302	
+
+31306	
+31308	neuter
+31310	
+31314	
+31318	
+31322	
+31324	feminine
+
+
+31335	
+31341	masculine
+31345	feminine
+31349	feminine
+feminine
+masculine
+31354	
+31356	
+
+masculine/feminine/neuter
+31365	feminine
+31370	feminine
+31372	
+
+31377	
+31381	
+31383	feminine
+
+31386	neuter
+feminine
+
+31391	masculine/neuter
+
+
+31395	feminine
+
+31398	feminine
+31402	masculine
+31410	
+
+31414	feminine
+31416	masculine
+
+
+31421	
+31424	
+
+31427	feminine
+
+31430	masculine
+31433	feminine
+
+31442	feminine
+
+
+31448	masculine
+neuter
+masculine/feminine
+
+31456	masculine
+
+
+31463	
+31465	
+31467	feminine
+31472	
+31481	
+
+31489	feminine
+masculine/feminine
+
+31493	
+
+masculine/feminine/neuter
+masculine
+
+31503	feminine
+31505	neuter
+31507	
+31510	masculine
+31512	
+31515	feminine
+31519	
+31523	
+31525	
+31528	feminine
+31530	
+31533	
+masculine/feminine
+31536	
+neuter
+31539	masculine/neuter
+masculine
+31543	masculine
+31545	
+31549	
+31554	
+
+31557	
+31560	
+31575	feminine
+31578	
+31581	
+31585	feminine
+31587	
+31589	neuter
+feminine
+31592	
+31594	
+31596	feminine
+masculine
+31599	
+31603	
+31606	neuter
+
+31610	
+neuter
+31619	masculine/feminine/neuter
+31626	feminine
+31628	
+31630	
+31632	
+31635	feminine
+31638	
+31640	masculine
+31645	masculine
+
+31651	
+31657	
+31659	
+31662	
+feminine
+31666	
+31670	
+
+31673	neuter
+
+31676	
+31678	masculine
+31680	
+31682	
+masculine/neuter
+
+31686	
+31690	masculine/neuter
+feminine
+
+31695	
+feminine
+31700	neuter
+31707	feminine
+feminine
+
+feminine
+31712	feminine
+31714	
+
+feminine
+31719	feminine
+31723	
+
+
+31732	
+31737	
+31742	
+31745	
+
+31748	
+31751	
+
+
+31759	
+31761	
+
+masculine
+neuter
+31768	masculine
+31770	
+31772	
+31774	
+31777	feminine
+31783	
+31785	neuter
+31789	
+31791	neuter
+31794	
+31797	feminine
+31800	masculine
+31802	masculine
+31806	
+31808	
+31810	neuter
+
+31813	feminine
+31815	
+31819	neuter
+
+31822	masculine
+31830	neuter
+31836	neuter
+31838	
+31842	neuter
+neuter
+31846	
+
+31853	masculine
+31859	
+31866	
+31869	masculine/neuter
+masculine/neuter
+31872	
+31875	masculine/neuter
+31877	
+31879	
+feminine
+31882	
+31885	
+31887	
+neuter
+masculine
+31891	masculine
+31893	neuter
+31899	feminine
+31902	neuter
+31905	
+31909	
+31911	masculine
+31914	
+31916	feminine
+
+
+31920	
+31923	
+31925	masculine
+
+31929	
+31932	masculine
+
+31938	
+31941	
+31944	masculine
+
+31948	feminine
+31952	feminine
+masculine
+31957	neuter
+31960	neuter
+31964	
+31969	
+31971	
+31976	
+feminine
+neuter
+31985	
+31988	
+31992	
+
+31999	masculine
+32007	
+32011	masculine
+32013	neuter
+
+32020	
+
+32024	
+neuter
+32028	neuter
+32030	
+masculine
+32033	feminine
+32035	
+masculine
+32039	masculine
+32043	
+32046	
+feminine
+
+32050	
+32052	
+32054	
+32056	
+32058	
+32060	
+masculine
+
+32064	
+32066	
+32068	
+32070	
+32072	
+32074	
+32076	
+masculine/feminine
+
+masculine
+
+32082	
+32084	
+32086	
+feminine
+
+32090	
+32092	
+32094	
+32096	
+neuter
+
+masculine
+
+32102	
+32104	
+32106	
+32108	
+32110	
+masculine
+
+32114	
+32116	
+32118	
+masculine
+
+32122	
+32124	
+32126	
+32128	
+32130	
+32132	
+32134	
+feminine
+
+32138	
+32140	
+32142	
+32144	
+32146	
+32148	
+masculine
+
+32152	
+32154	
+32156	
+32158	
+32160	
+32162	
+32164	
+32166	
+32168	
+feminine
+
+32172	
+32174	
+32176	
+32178	
+32180	
+32182	
+32184	
+32186	
+32188	
+32190	
+
+
+32194	
+32196	
+
+masculine
+32200	masculine/feminine
+32203	
+32205	
+32209	
+
+32212	
+32214	
+feminine
+32219	
+
+feminine
+32225	
+32231	masculine
+32233	
+32236	neuter
+32238	
+32240	
+
+
+
+
+
+32248	feminine
+32251	
+32254	neuter
+masculine
+32257	
+32263	neuter
+32265	feminine
+32270	feminine
+32272	feminine
+32275	
+32277	
+32279	
+32281	neuter
+32283	masculine
+32286	
+32291	
+masculine
+
+
+32298	neuter
+32300	
+32304	neuter
+
+masculine
+
+32309	
+feminine
+32312	
+neuter
+masculine
+
+32318	
+masculine
+32321	masculine
+masculine/neuter
+32326	
+32330	
+32337	
+masculine/feminine/neuter
+32340	
+32342	
+32344	
+
+
+masculine
+neuter
+32350	
+32353	
+32356	
+
+32359	
+
+
+masculine
+32364	
+32366	masculine
+
+masculine
+32370	
+32376	masculine/neuter
+32378	
+
+32381	neuter
+masculine
+
+
+32386	
+masculine
+32389	masculine
+masculine/neuter
+feminine
+32393	neuter
+32395	neuter
+32397	
+32399	
+32401	
+feminine
+
+neuter
+masculine
+
+32408	feminine
+
+32411	
+32413	feminine
+32418	
+32420	
+32422	
+32426	
+32429	feminine
+32433	feminine
+32435	
+32437	masculine/neuter
+
+32442	
+32446	
+32448	feminine
+32451	
+32455	
+32461	
+32465	
+32468	
+32471	masculine/neuter
+
+32475	masculine/neuter
+32478	
+32484	
+32486	
+32490	
+32492	
+32494	
+feminine
+
+32498	masculine/neuter
+32504	feminine
+
+
+32510	masculine
+32512	
+32515	
+32520	
+32523	
+32526	feminine
+neuter
+32529	
+32531	
+masculine/neuter
+32541	
+32547	
+32549	
+32551	
+32558	
+32562	
+32565	
+32568	neuter
+neuter
+feminine
+32572	feminine
+
+32576	neuter
+32579	
+32582	masculine/neuter
+
+32585	feminine
+
+
+
+32593	
+32596	
+32598	feminine
+32600	
+
+32603	feminine
+
+
+32609	
+
+32612	
+
+neuter
+32617	masculine
+
+32620	feminine
+32622	
+32627	feminine
+32632	feminine
+masculine
+32636	
+32638	
+32641	feminine
+32644	feminine
+32647	
+
+
+
+32654	
+32658	feminine
+32660	
+32663	neuter
+masculine
+32668	neuter
+
+32678	
+32684	feminine
+32686	
+32689	
+feminine
+32692	
+feminine
+32695	
+32700	feminine
+
+feminine
+32704	feminine
+32706	
+32710	feminine
+32712	
+32715	
+32723	
+
+
+
+
+neuter
+32730	
+32732	
+32735	
+32737	
+32739	masculine/feminine/neuter
+32742	
+
+32745	
+32747	masculine/feminine
+32749	masculine
+masculine
+32753	
+feminine
+
+masculine
+32758	
+neuter
+masculine/feminine/neuter
+
+
+32766	neuter
+masculine
+masculine
+32771	
+32773	
+32778	neuter
+
+32784	
+32797	masculine
+32799	neuter
+32802	
+
+
+32806	feminine
+
+32817	
+
+neuter
+32822	
+
+32827	masculine
+32829	
+32833	feminine
+32835	
+32837	
+32847	
+
+32851	
+32854	
+32858	feminine
+
+32863	
+
+32870	
+32875	neuter
+32879	feminine
+32882	
+32888	neuter
+32893	neuter
+
+32896	
+neuter
+32899	
+
+32902	masculine
+32904	
+feminine
+32907	
+32910	masculine
+32915	feminine
+32918	
+masculine/feminine
+32922	masculine
+32928	feminine
+
+32933	
+32937	feminine
+neuter
+32940	
+32943	
+feminine
+32947	masculine/neuter
+32950	
+32952	feminine
+
+
+
+32958	
+32960	
+32962	
+32964	masculine
+32969	
+
+32979	
+
+32983	
+32985	neuter
+32994	neuter
+32997	masculine
+32999	
+33001	masculine
+33004	feminine
+33006	feminine
+33008	
+neuter
+33013	
+33022	
+33025	
+33030	
+33032	
+masculine
+
+33038	
+
+33044	feminine
+33046	masculine/neuter
+
+33050	
+masculine
+
+masculine
+33055	
+33062	
+33064	masculine/neuter
+
+feminine
+33071	
+33073	masculine
+33077	feminine
+33079	feminine
+33081	neuter
+33084	
+
+33088	
+33096	feminine
+feminine
+33101	feminine
+feminine
+33104	masculine
+33106	
+33108	
+masculine
+masculine
+
+33113	
+
+33118	masculine
+33132	masculine
+
+33135	masculine
+33141	
+33143	masculine/feminine
+
+33146	
+33149	
+33153	neuter
+masculine
+masculine
+masculine
+33158	
+33160	feminine
+
+33165	feminine
+33171	neuter
+33174	feminine
+33176	
+
+33180	
+33183	masculine
+33185	
+33187	masculine/feminine
+feminine
+feminine
+33197	
+masculine
+masculine
+neuter
+33204	
+33206	
+33209	
+
+masculine
+33215	
+feminine
+feminine
+33220	
+33227	
+33229	neuter
+neuter
+
+
+33236	
+33238	masculine/neuter
+33240	
+masculine
+
+masculine
+33248	neuter
+33251	
+33262	feminine
+33265	
+masculine
+
+33269	
+33272	feminine
+33274	
+33277	feminine
+33280	
+33283	
+33288	masculine/feminine
+
+33295	feminine
+33302	masculine/neuter
+
+
+33306	
+33309	
+33313	
+33316	
+33323	
+masculine
+
+33329	feminine
+33332	feminine
+33335	masculine
+33338	
+feminine
+33341	masculine
+33345	
+33347	
+33351	
+masculine
+33354	feminine
+33357	feminine
+
+33361	masculine
+feminine
+33364	masculine/neuter
+33367	
+masculine
+33371	masculine
+33373	masculine
+33378	
+33381	masculine
+33384	
+33387	neuter
+33391	neuter
+masculine
+33395	feminine
+
+
+33401	
+
+33404	
+masculine/neuter
+33408	
+33411	masculine
+feminine
+33414	masculine/neuter
+
+33417	
+33419	
+33422	masculine
+
+neuter
+33426	
+
+
+
+33435	
+
+33438	masculine
+
+
+33442	
+33445	masculine/neuter
+33447	
+33450	masculine/neuter
+33453	
+masculine
+feminine
+
+33461	
+33464	
+33467	masculine
+33475	masculine
+33478	
+masculine
+
+33482	
+33484	feminine
+33489	
+33496	masculine
+33498	
+33500	
+33503	masculine
+neuter
+
+33508	feminine
+
+33514	
+33517	
+33519	
+33524	
+masculine/feminine
+
+33528	feminine
+33532	masculine
+33535	masculine
+33537	feminine
+33540	feminine
+
+masculine
+neuter
+33550	
+33552	
+33554	
+neuter
+masculine
+
+33563	masculine
+33566	
+masculine
+masculine
+33572	
+
+
+33576	
+
+masculine
+33580	neuter
+33583	masculine
+feminine
+33587	feminine
+33589	
+33591	masculine
+33593	masculine
+33596	masculine
+33598	
+33601	
+neuter
+33604	masculine
+
+33608	masculine
+
+33611	
+
+33614	
+33616	neuter
+33619	feminine
+33621	
+
+33625	feminine
+33630	feminine
+neuter
+33634	
+
+33639	
+33642	
+33645	
+33650	
+33655	
+
+33661	
+
+33664	
+33667	
+33672	
+
+33676	feminine
+33678	
+
+33681	
+
+33685	
+neuter
+33688	neuter
+feminine
+33696	masculine
+
+
+
+33701	
+
+33704	
+neuter
+33708	masculine
+
+33711	
+
+33714	neuter
+33720	
+33722	
+33724	feminine
+33728	masculine
+feminine
+
+33738	
+33742	neuter
+33744	
+33751	
+33754	
+neuter
+masculine
+
+33761	
+33767	masculine
+33769	
+33771	
+33773	
+33776	
+
+33789	
+33794	
+33796	
+33800	
+33802	masculine
+33804	
+33806	neuter
+33808	
+
+33812	
+33817	
+33823	
+33827	feminine
+33829	
+feminine
+feminine
+
+feminine
+33837	masculine
+33840	masculine
+33842	
+
+
+33850	
+33856	feminine
+
+33859	
+33861	
+feminine
+33866	
+33869	
+33873	
+33875	
+33877	neuter
+masculine
+33881	
+feminine
+
+33885	
+33887	
+
+
+
+
+
+
+33898	
+33900	masculine
+33903	masculine/neuter
+neuter
+33906	
+33909	feminine
+33911	
+33915	feminine
+33921	
+33923	
+masculine
+33927	
+33933	
+33938	
+33940	
+33942	
+
+
+33946	
+33948	neuter
+33951	feminine
+
+33954	masculine
+33956	feminine
+33966	masculine
+33968	masculine
+33971	
+33977	neuter
+33979	neuter
+33983	neuter
+33990	masculine
+feminine
+33993	masculine
+33996	masculine
+34002	
+34004	feminine
+34008	
+34012	feminine
+
+34017	
+34027	neuter
+masculine
+34031	masculine/feminine
+34033	
+
+34039	neuter
+feminine
+34042	masculine
+34045	neuter
+34050	neuter
+34054	
+
+34058	
+34063	feminine
+34065	
+34068	
+
+34071	feminine
+
+
+masculine/feminine
+masculine
+34077	
+feminine
+34080	feminine
+feminine
+
+
+
+masculine
+34088	
+34090	
+masculine
+34094	
+34096	
+
+34100	feminine
+masculine
+feminine
+34106	feminine
+34113	masculine/neuter
+
+masculine
+34117	
+
+
+
+
+
+34125	feminine
+34128	
+34130	neuter
+34132	masculine/neuter
+34134	
+
+34137	
+feminine
+feminine
+34141	masculine
+34144	masculine
+34146	feminine
+34149	
+34152	
+
+34156	masculine/neuter
+34158	
+masculine
+34162	
+34165	masculine
+34168	
+34174	masculine
+feminine
+34178	masculine
+feminine
+
+feminine
+feminine
+34184	masculine
+34187	masculine
+34189	feminine
+
+
+
+34195	
+34198	masculine/neuter
+masculine
+
+34203	feminine
+
+34206	masculine
+feminine
+
+34211	
+feminine
+
+34215	masculine
+34222	
+34225	
+34227	masculine/neuter
+34232	feminine
+34237	masculine
+
+34241	
+34243	feminine
+feminine
+34246	
+34249	
+34251	
+
+masculine
+feminine
+
+34257	masculine
+34259	
+
+34263	feminine
+feminine
+
+34270	masculine
+34275	
+34278	neuter
+
+34282	feminine
+feminine
+
+34288	masculine
+34292	
+34294	neuter
+
+34298	
+34300	feminine
+
+34307	
+34310	feminine
+feminine
+34313	
+34316	masculine/neuter
+34318	
+34320	
+34325	neuter
+34327	masculine/neuter
+34330	
+
+34333	
+34342	
+34345	neuter
+34347	masculine/neuter
+masculine
+34352	
+34356	
+34359	
+34363	
+
+34367	
+34370	
+34372	masculine
+34376	masculine/neuter
+
+34380	masculine/neuter
+34384	
+34386	
+
+34390	
+34392	
+masculine
+34399	
+34412	
+neuter
+34415	
+34422	
+
+34425	
+34427	masculine/neuter
+34430	neuter
+34432	
+
+
+34437	
+
+34440	
+
+34443	masculine/neuter
+34446	
+34450	
+
+34453	masculine/neuter
+34456	
+
+34459	
+neuter
+34463	masculine
+34465	masculine
+34467	neuter
+34469	
+34471	
+34478	
+
+34481	
+34483	masculine/neuter
+34489	masculine
+
+34493	
+34497	
+34499	neuter
+34504	
+
+
+34510	
+masculine
+
+feminine
+
+34516	neuter
+34518	
+neuter
+34523	
+
+34527	
+masculine/feminine/neuter
+34532	neuter
+34535	
+34537	masculine/feminine/neuter
+34539	masculine
+34543	
+
+34547	
+34551	
+masculine
+masculine/feminine
+34556	
+feminine
+
+34560	neuter
+34565	feminine
+34568	masculine
+34570	masculine
+34572	
+
+34576	masculine/feminine
+masculine/feminine
+34583	
+34592	
+34596	neuter
+34603	
+
+34606	feminine
+34608	masculine
+34611	neuter
+34613	
+34617	masculine/feminine
+34626	
+
+34629	neuter
+34633	
+34644	neuter
+feminine
+34647	
+
+34651	
+34654	
+34656	
+34660	masculine
+
+34663	masculine
+34665	
+34668	
+34671	
+masculine
+34678	masculine
+masculine
+34683	
+34685	neuter
+
+masculine
+34696	masculine
+
+34701	
+34703	
+34707	masculine/neuter
+34713	masculine/feminine
+neuter
+34716	masculine
+34720	
+34722	
+34724	masculine/feminine
+34730	
+neuter
+
+masculine
+34735	masculine
+34745	
+34749	
+34753	masculine
+34755	
+
+34760	neuter
+masculine/feminine
+34769	
+34771	
+34776	
+34782	
+34787	
+34790	neuter
+34793	
+
+34797	neuter
+masculine
+34802	masculine
+
+34807	
+
+
+
+
+
+34816	
+34819	
+34822	masculine
+34824	
+34826	neuter
+34828	feminine
+34830	
+
+
+34834	
+34841	masculine
+feminine
+
+34847	
+34855	
+34858	masculine/feminine
+34861	feminine
+
+34865	
+feminine
+34872	
+34876	feminine
+34878	neuter
+masculine
+34884	
+34886	masculine
+34890	
+34893	masculine
+34898	
+34900	masculine
+
+34905	neuter
+34914	feminine
+
+34923	masculine
+masculine
+
+34929	
+masculine/feminine
+34932	
+34934	neuter
+34938	
+34941	neuter
+34944	
+
+34949	
+34951	
+34954	feminine
+34957	masculine
+feminine
+
+34968	feminine
+
+neuter
+34975	masculine
+masculine
+34978	
+neuter
+34981	
+34983	
+34988	masculine
+34990	neuter
+34992	neuter
+34995	feminine
+34997	masculine
+masculine
+35000	
+neuter
+35003	
+35005	
+
+35013	neuter
+35015	masculine
+35017	neuter
+feminine
+35020	
+35025	
+
+35029	
+35031	feminine
+35035	
+35037	
+masculine/neuter
+
+35044	
+35052	neuter
+35055	
+
+35060	masculine
+35063	
+35071	
+35073	masculine
+
+35077	
+35079	
+35084	
+
+35088	
+masculine
+
+35094	
+35096	
+35098	neuter
+
+
+35105	
+
+
+35109	
+35114	
+35116	
+
+35122	
+masculine/neuter
+35125	
+35128	masculine/neuter
+35130	masculine/neuter
+
+
+35134	
+35136	masculine
+35140	neuter
+35143	
+35145	feminine
+
+
+35149	
+35153	neuter
+35155	
+35157	masculine
+35161	masculine
+35166	masculine
+35170	masculine
+35174	
+
+35177	
+35182	
+35185	
+35187	feminine
+35193	
+masculine/feminine
+masculine/feminine
+
+masculine
+35199	
+
+35203	
+35205	feminine
+
+35208	
+35216	
+35219	neuter
+35222	neuter
+35225	masculine
+35228	
+neuter
+
+
+neuter
+35234	
+
+neuter
+35238	masculine
+35240	
+
+35243	masculine
+35245	
+35252	feminine
+35257	neuter
+35266	
+35268	
+35271	
+35274	
+35276	
+35278	
+35281	
+
+35284	feminine
+35288	
+
+
+35293	
+35297	
+35299	feminine
+
+neuter
+35304	
+feminine
+35312	
+35324	
+35327	
+35329	feminine
+35331	neuter
+35333	neuter
+35336	
+
+35339	masculine
+35341	
+
+35345	
+35349	feminine
+35353	
+
+35358	
+neuter
+masculine
+
+35364	masculine
+
+masculine
+35369	neuter
+35372	
+35376	
+35379	neuter
+35383	feminine
+neuter
+35390	feminine
+35396	feminine
+neuter
+
+35400	
+masculine
+
+35404	
+35407	neuter
+35409	neuter
+35411	
+35413	masculine
+
+35416	masculine
+35420	
+35428	masculine/neuter
+
+35451	feminine
+35462	feminine
+35466	
+35479	
+feminine
+
+masculine
+35484	feminine
+35487	feminine
+35489	
+35497	
+
+35502	masculine/neuter
+feminine
+35507	masculine
+35509	
+
+35518	
+
+35524	
+35526	masculine/neuter
+
+masculine
+35530	
+35532	feminine
+35534	
+
+
+35540	
+35548	feminine
+
+
+35552	masculine
+35558	
+35560	
+35563	neuter
+feminine
+35567	masculine
+feminine
+35573	neuter
+35577	masculine
+35580	
+35588	
+35596	
+35600	
+35602	feminine
+35605	
+feminine
+
+35609	neuter
+masculine
+
+
+35615	
+35617	
+
+35623	
+neuter
+35628	
+35630	feminine
+feminine
+
+
+35638	
+35643	
+35645	feminine
+35652	
+
+35656	masculine
+35659	feminine
+35665	
+
+35670	
+35672	
+
+35677	masculine
+35679	neuter
+
+35687	masculine
+feminine
+
+35692	
+feminine
+
+neuter
+35697	
+
+35701	feminine
+35704	feminine
+
+
+35710	
+35719	
+35723	feminine
+
+neuter
+35728	neuter
+35730	
+
+masculine
+35734	neuter
+35737	
+masculine
+35742	neuter
+35750	
+feminine
+35756	masculine
+35760	feminine
+masculine/feminine
+35774	masculine/feminine
+35779	
+35782	
+35785	
+35788	
+35790	
+masculine
+35795	neuter
+35797	
+35800	
+
+35809	
+35811	feminine
+35814	
+35816	
+
+feminine
+35827	
+
+35832	
+35835	neuter
+
+
+
+
+35842	masculine
+
+35845	masculine
+35853	
+35856	masculine
+35858	
+
+35865	
+masculine
+
+
+35870	
+
+35873	
+35875	
+35880	
+35882	
+35885	
+35889	
+35894	feminine
+35897	masculine
+35899	
+35905	feminine
+35911	
+35913	masculine/neuter
+35915	masculine
+35917	masculine/neuter
+35919	
+35922	masculine
+neuter
+35925	
+
+35935	
+masculine
+35939	
+
+35946	
+35949	feminine
+35953	
+35956	masculine
+feminine
+
+35960	
+35964	
+35966	
+35968	
+35970	
+35973	feminine
+
+35978	
+
+35990	masculine
+masculine
+masculine
+
+neuter
+35998	
+36001	
+36003	
+36006	
+36009	masculine/feminine
+
+36014	feminine
+36016	masculine/neuter
+36020	masculine
+36024	neuter
+36027	
+36030	
+
+36033	
+36038	feminine
+36040	
+36042	
+36047	
+36049	feminine
+36062	
+neuter
+36071	
+36076	
+36079	feminine
+36083	
+
+36087	
+36089	
+36091	
+36093	masculine
+masculine
+36096	
+
+
+36100	
+masculine/neuter
+36107	
+36109	
+36113	
+
+36117	
+36124	
+36128	feminine
+feminine
+36132	
+masculine/feminine/neuter
+
+36136	
+36140	neuter
+masculine
+36143	masculine
+36146	neuter
+36148	
+36150	
+36152	neuter
+feminine
+
+36161	
+36163	
+36167	
+36172	masculine
+36174	
+
+neuter
+36181	
+36183	
+36191	feminine
+neuter
+36194	
+
+36197	
+36201	
+feminine
+36204	
+
+
+
+36214	masculine
+36221	
+36225	
+36239	
+36244	
+feminine
+neuter
+36251	neuter
+36254	
+masculine
+36261	masculine
+36263	
+
+neuter
+36274	
+36279	masculine
+
+36286	feminine
+
+36289	
+
+36292	
+neuter
+36296	
+36298	feminine
+neuter
+36303	
+36306	masculine
+36308	
+36311	masculine/neuter
+36313	
+feminine
+masculine
+
+neuter
+36322	
+36326	feminine
+
+36329	neuter
+masculine
+
+36333	
+36339	neuter
+36341	
+36344	masculine
+36347	
+36355	masculine
+36357	masculine
+
+36361	neuter
+36364	masculine
+36368	
+36371	
+
+36374	masculine/feminine
+
+36377	
+masculine
+36383	
+36385	
+36388	masculine
+36394	neuter
+
+feminine
+36399	masculine
+36403	
+36408	
+
+
+
+
+36414	
+36418	feminine
+feminine
+
+36424	
+neuter
+masculine
+36428	neuter
+36434	
+neuter
+36437	masculine
+masculine
+36441	masculine
+36444	neuter
+36446	masculine
+
+
+36457	
+feminine
+36460	feminine
+36462	
+36464	
+36472	feminine
+
+
+36476	masculine
+36478	
+36481	
+36484	neuter
+36486	
+36489	feminine
+36491	masculine/neuter
+
+masculine
+36495	
+36498	
+36502	neuter
+
+
+masculine
+
+
+feminine
+36510	masculine/neuter
+36515	neuter
+36517	masculine
+
+
+36521	masculine
+masculine
+36524	neuter
+36529	
+36533	
+36535	masculine/feminine
+36538	
+36540	masculine
+36559	neuter
+36561	
+masculine
+
+36566	
+36570	
+36572	
+36581	masculine
+
+masculine/feminine
+
+36586	
+36591	
+36594	
+36600	masculine
+
+36603	neuter
+36619	
+36621	neuter
+feminine
+neuter
+36632	feminine
+
+
+36636	
+36638	
+36642	
+
+36649	feminine
+36655	masculine
+36657	feminine
+36660	
+36662	
+36666	
+36669	
+36672	
+36675	feminine
+36685	masculine
+masculine/neuter
+
+
+masculine
+36695	
+36697	
+36705	neuter
+36707	feminine
+feminine
+neuter
+36712	feminine
+36714	
+36716	masculine
+
+36721	feminine
+36723	masculine
+36725	
+36727	
+
+36730	
+36735	
+
+36747	
+36749	feminine
+36754	feminine
+36756	masculine
+36758	
+36760	feminine
+neuter
+feminine
+36767	masculine
+
+36772	masculine
+36785	feminine
+
+
+36792	feminine
+36794	
+36796	neuter
+36801	masculine
+36803	neuter
+36805	neuter
+36810	
+36813	
+36820	
+36822	
+
+36826	
+36830	
+36834	masculine
+36836	neuter
+36838	
+masculine/feminine
+neuter
+
+36845	masculine
+36847	
+feminine
+36852	
+neuter
+36858	
+36863	
+36867	feminine
+
+36871	feminine
+36873	masculine
+36876	neuter
+36879	
+36889	feminine
+36891	
+36894	
+36897	
+36902	
+
+36913	feminine
+36916	
+36918	feminine
+36920	
+
+36925	
+feminine
+
+36929	masculine
+feminine
+36934	masculine
+feminine
+36937	masculine
+36939	
+36941	masculine
+36944	neuter
+36948	
+36951	
+36953	
+36958	
+
+36964	masculine/feminine
+36966	
+36970	
+
+36973	masculine
+
+
+neuter
+36978	masculine
+36982	
+36985	
+
+36989	
+
+feminine
+36999	masculine
+37006	
+feminine
+37009	
+37013	
+37016	
+37022	masculine/feminine/neuter
+37025	
+37027	feminine
+37033	neuter
+
+37036	
+
+
+
+37043	
+
+37046	
+
+37049	
+37051	
+37060	masculine
+37064	
+37068	
+37074	
+37076	neuter
+37078	
+
+37082	
+
+37085	
+
+37088	
+37092	masculine/feminine/neuter
+masculine
+
+37096	
+37098	
+
+37101	
+37103	masculine/feminine
+37107	
+feminine
+
+37112	feminine
+
+
+37119	
+37122	feminine
+37126	masculine
+37132	
+37138	
+
+37144	
+
+
+37149	neuter
+37151	
+37155	
+37161	
+masculine
+37165	masculine/feminine
+37167	
+
+
+37171	neuter
+
+37175	neuter
+
+37178	neuter
+37182	masculine
+37185	
+37187	
+37192	
+
+37197	
+37203	
+
+37208	
+
+neuter
+37215	masculine
+masculine
+37218	feminine
+37223	
+masculine/feminine
+37226	masculine
+37236	
+37239	
+masculine/neuter
+37248	
+
+37252	
+37256	
+37261	feminine
+37264	neuter
+37267	neuter
+37269	
+
+37272	
+
+37278	masculine
+37286	
+37296	
+feminine
+37299	feminine
+37301	
+37308	
+37311	
+
+37314	masculine
+37316	
+masculine/neuter
+
+37323	
+masculine/feminine
+37328	
+37339	
+37342	
+37344	
+
+37350	feminine
+masculine/neuter
+37358	
+37360	neuter
+masculine
+
+
+neuter
+37368	feminine
+
+
+37372	feminine
+37374	
+masculine/neuter
+
+37380	masculine/neuter
+37384	
+
+37388	neuter
+37390	
+37393	neuter
+masculine
+
+37397	
+37400	
+37406	
+37408	
+37415	
+
+37423	
+
+37427	feminine
+
+37431	
+feminine
+37434	masculine/neuter
+37436	
+37438	neuter
+37441	
+
+37445	
+37448	masculine
+37455	
+37458	feminine
+37465	
+37468	
+37474	
+37478	
+
+37481	feminine
+neuter
+37484	masculine
+37489	
+feminine
+37492	masculine
+37498	
+37501	neuter
+
+37505	masculine
+37507	
+37514	
+37516	
+37521	neuter
+37524	
+37526	
+feminine
+37531	
+37533	neuter
+37535	
+masculine
+37538	masculine/feminine
+
+
+37542	masculine/neuter
+37544	neuter
+37548	
+37550	
+37552	masculine/neuter
+
+37557	masculine
+masculine
+
+37565	masculine/neuter
+37567	masculine/neuter
+37571	
+
+37575	feminine
+37578	
+37584	
+37586	
+37592	
+
+37597	
+37601	
+37607	
+37610	
+
+37613	
+37617	masculine
+feminine
+37622	neuter
+masculine
+37627	
+37629	
+
+37632	
+37634	masculine
+37640	
+37643	feminine
+37645	feminine
+
+37648	
+
+37653	
+masculine
+37656	neuter
+37659	
+37661	neuter
+masculine
+feminine
+37668	feminine
+feminine
+
+
+
+neuter
+37676	
+
+37679	
+37683	
+
+37688	
+37690	neuter
+37692	
+neuter
+37695	masculine
+37697	
+37701	
+37706	
+
+37709	feminine
+
+37714	
+37716	feminine
+
+
+
+37723	
+masculine
+masculine
+masculine
+37728	neuter
+37732	
+37736	
+37740	neuter
+masculine
+37750	
+feminine
+
+37756	feminine
+
+
+37763	neuter
+masculine
+37770	masculine
+37773	
+
+
+feminine
+37780	masculine/neuter
+37784	
+37788	neuter
+37792	masculine
+37794	
+
+37798	
+masculine/neuter
+
+37804	
+
+37808	
+
+
+
+feminine
+
+37815	
+37817	masculine
+37819	
+37822	feminine
+37827	
+37831	
+37834	
+37837	masculine
+
+
+
+37844	neuter
+37848	
+37852	feminine
+
+masculine/neuter
+
+37859	feminine
+
+
+37866	
+37870	feminine
+37872	feminine
+37875	neuter
+37877	
+
+
+37881	
+
+37884	
+37887	
+37889	
+37894	feminine
+
+feminine
+feminine
+
+37900	
+37902	
+37904	
+37906	
+37910	feminine
+feminine
+feminine
+
+
+
+37918	
+37924	feminine
+37926	
+37928	feminine
+37930	
+feminine
+37936	masculine/feminine
+37940	masculine/neuter
+
+37944	
+
+37948	
+
+37951	feminine
+feminine
+
+
+
+
+
+37959	
+37961	feminine
+37963	
+37965	
+37967	feminine
+37970	masculine
+37973	masculine
+37975	
+
+
+37982	feminine
+37984	feminine
+37986	
+
+
+
+
+38000	
+38002	
+38004	feminine
+
+
+38011	feminine
+
+38014	feminine
+
+masculine
+
+neuter
+feminine
+masculine/neuter
+
+38024	neuter
+38026	feminine
+38028	
+neuter
+38033	
+38037	
+38039	masculine
+38043	masculine
+masculine
+38046	feminine
+neuter
+38049	masculine/feminine
+
+
+38053	masculine/neuter
+
+38060	
+
+38063	
+
+38066	
+38068	
+38070	
+
+38073	
+38076	masculine
+38079	feminine
+38082	
+38086	feminine
+38089	
+38091	
+38094	
+
+feminine
+38098	
+38100	
+38102	
+feminine
+38105	masculine/neuter
+38107	
+38109	
+
+38115	
+38117	
+
+38120	
+38122	masculine
+38124	masculine
+
+
+38130	
+
+38134	masculine
+38136	masculine
+38139	feminine
+38141	
+neuter
+38144	
+38149	masculine/neuter
+neuter
+38154	
+38162	neuter
+38164	
+38166	neuter
+38171	neuter
+38173	
+38175	neuter
+38179	neuter
+feminine
+neuter
+38183	
+feminine
+masculine
+38188	feminine
+38190	masculine
+
+masculine/feminine
+masculine
+38195	masculine
+38197	feminine
+
+
+38201	
+
+38204	
+38206	masculine
+38209	feminine
+38211	
+38216	
+feminine
+
+38222	feminine
+
+38226	
+38229	masculine
+38233	
+neuter
+
+neuter
+38238	
+38241	
+
+
+38246	
+38248	neuter
+38250	
+
+
+masculine
+38255	masculine
+masculine/neuter
+
+
+38260	
+masculine/neuter
+38263	
+
+38266	
+masculine/neuter
+38269	
+
+38273	masculine/neuter
+38275	
+
+38278	
+masculine/neuter
+38282	masculine
+masculine/neuter
+
+neuter
+
+38289	masculine
+
+38292	
+38294	
+neuter
+38298	
+38300	
+38304	feminine
+38308	masculine
+38310	neuter
+masculine
+
+38318	
+38321	feminine
+
+masculine/feminine
+38328	feminine
+38332	neuter
+
+
+38336	
+38339	
+38341	
+38344	feminine
+38347	masculine
+38351	
+38356	feminine
+38366	feminine
+38371	feminine
+38373	
+masculine
+neuter
+38378	
+38383	
+38387	
+38391	
+38400	
+38403	
+38405	
+38409	
+38412	
+
+38416	
+masculine
+38421	masculine
+masculine
+
+masculine
+38426	
+38428	
+38430	masculine
+neuter
+38433	
+neuter
+38437	masculine
+38439	
+
+38443	neuter
+masculine
+38448	
+masculine
+
+38452	
+38457	
+38459	masculine/feminine
+38467	
+38472	
+38476	
+38482	
+masculine/neuter
+38487	
+feminine
+38494	
+feminine
+38497	
+masculine
+38500	
+masculine
+
+feminine
+38509	
+
+38516	
+38518	
+38520	neuter
+masculine
+38524	feminine
+38528	feminine
+neuter
+38532	neuter
+
+38538	
+38540	
+38545	feminine
+38547	
+
+38551	
+38555	
+
+
+38560	feminine
+
+38564	masculine
+neuter
+feminine
+38573	feminine
+
+
+38580	
+38585	masculine/neuter
+38587	feminine
+feminine
+masculine/neuter
+38592	masculine/neuter
+38595	
+masculine/feminine
+38599	feminine
+38602	masculine/feminine
+38605	masculine/neuter
+38612	masculine/feminine
+38616	feminine
+
+38619	feminine
+
+38624	
+masculine/neuter
+
+
+38634	
+38636	
+neuter
+38639	masculine/feminine
+38645	
+
+38651	
+38653	
+38657	
+
+masculine
+38661	
+38663	
+feminine
+
+38668	feminine
+feminine
+38672	
+
+38676	
+38679	
+38681	masculine
+
+
+
+38687	
+38689	
+feminine
+38693	
+
+feminine
+38698	masculine
+
+38701	
+38704	
+masculine
+
+
+
+38711	
+
+38715	
+38718	
+38721	neuter
+38725	neuter
+
+38729	
+38732	masculine/feminine
+38734	
+masculine/neuter
+38738	
+neuter
+38747	
+
+38750	
+38752	
+38755	
+38760	
+38762	feminine
+38765	
+masculine/neuter
+38769	neuter
+38771	neuter
+
+
+
+38776	masculine
+38780	feminine
+
+38783	neuter
+38786	
+38790	
+masculine/feminine/neuter
+38794	neuter
+38798	masculine
+38800	
+38802	
+feminine
+neuter
+
+38807	
+
+38810	masculine/feminine/neuter
+38812	feminine
+neuter
+38818	
+
+38822	
+38826	feminine
+feminine
+38829	
+38831	feminine
+feminine
+38835	feminine
+38838	neuter
+38842	
+38845	neuter
+masculine
+38850	
+38852	feminine
+feminine
+
+
+
+
+38861	feminine
+neuter
+
+38866	
+38869	feminine
+neuter
+masculine
+
+masculine/neuter
+
+38877	feminine
+38880	masculine/neuter
+feminine
+38883	
+38885	
+38887	
+38890	feminine
+neuter
+neuter
+38895	feminine
+feminine
+feminine
+
+
+38901	neuter
+38904	
+38908	
+
+38911	feminine
+38913	
+38917	
+38919	
+38923	
+38926	
+38929	feminine
+
+
+
+neuter
+38937	
+38939	
+38942	neuter
+38944	masculine
+38946	
+38952	
+38954	
+
+38959	masculine
+
+38964	
+
+
+
+38974	
+38983	feminine
+38985	feminine
+38990	
+38994	feminine
+feminine
+
+
+
+neuter
+39001	masculine/neuter
+39004	
+
+
+39009	feminine
+39014	
+
+
+39018	feminine
+feminine
+39021	feminine
+39023	masculine
+39030	
+39032	
+masculine
+39037	
+
+39043	masculine
+masculine/neuter
+39046	
+
+neuter
+39050	neuter
+feminine
+39054	
+39060	
+39075	neuter
+39077	
+
+39082	
+
+39085	
+39087	feminine
+39090	masculine
+39095	
+39097	
+39101	feminine
+39104	
+39109	
+neuter
+39116	
+39118	feminine
+39124	
+39126	
+39128	
+39133	
+neuter
+39139	
+
+masculine
+
+
+39150	masculine
+39152	masculine
+39157	neuter
+39159	
+39162	neuter
+39164	masculine/neuter
+39166	neuter
+39168	masculine/neuter
+
+39172	neuter
+39175	masculine/neuter
+39185	masculine/neuter
+39187	
+39193	
+masculine
+39197	
+39201	masculine/neuter
+neuter
+39205	
+39211	neuter
+
+39214	neuter
+39218	
+masculine
+
+39222	
+
+
+39228	
+39233	
+neuter
+39237	feminine
+39239	
+39241	masculine
+39244	
+masculine/neuter
+
+39248	neuter
+masculine
+39254	masculine
+39258	
+39261	
+39263	
+39267	masculine/neuter
+neuter
+masculine
+39274	neuter
+39281	
+39283	feminine
+39285	
+39288	
+neuter
+feminine
+
+39293	
+39295	
+39298	
+
+39301	masculine/feminine
+39306	neuter
+39309	
+39314	
+
+
+39319	
+
+feminine
+39323	
+39325	
+39328	
+
+39332	
+39338	
+39342	
+
+
+
+feminine
+39348	feminine
+39351	masculine
+feminine
+masculine
+39355	
+39357	
+
+39363	
+39367	masculine
+39369	feminine
+39371	neuter
+39373	
+feminine
+
+39379	
+
+39382	feminine
+39390	masculine/neuter
+39392	
+39396	
+
+
+feminine
+39402	masculine
+masculine
+39406	masculine/neuter
+
+39409	neuter
+39411	
+39413	
+39418	masculine/neuter
+
+39422	
+39426	
+feminine
+39430	feminine
+39432	
+
+
+39436	
+39438	
+39442	
+feminine
+39446	
+39453	masculine
+39457	masculine
+
+39466	feminine
+39469	
+39472	
+39475	
+
+
+
+
+39486	
+39489	
+
+39504	
+39506	masculine
+39509	masculine
+39511	masculine
+39517	neuter
+39520	
+39523	
+39525	
+
+39531	
+
+39534	
+39537	
+39540	feminine
+
+masculine
+
+39561	
+39567	feminine
+
+39570	feminine
+
+
+
+39582	
+39588	neuter
+
+39591	
+39593	
+39607	
+39609	
+
+39612	
+masculine/feminine
+39619	
+39621	
+39623	
+39626	
+
+
+39633	masculine
+39638	neuter
+
+masculine
+39644	masculine
+
+
+
+39649	feminine
+39653	masculine/neuter
+
+39657	
+39659	masculine
+
+
+39663	
+39666	
+
+
+
+39674	neuter
+39676	
+
+
+
+39683	masculine
+
+
+neuter
+39690	masculine
+39694	masculine
+39696	masculine
+
+
+39702	
+39704	
+39707	
+
+39711	
+39713	
+39715	masculine
+39723	feminine
+39726	masculine
+39732	
+39735	
+
+39738	
+
+39744	masculine
+39746	
+feminine
+
+39752	feminine
+
+39755	
+39759	
+
+39763	
+
+39769	
+39772	neuter
+39774	
+39781	
+39784	feminine
+
+39789	
+39791	
+39795	
+39797	
+
+39801	feminine
+39803	
+39809	
+39811	
+39814	masculine
+
+39819	feminine
+
+39823	
+39825	masculine
+39827	
+
+39830	
+39832	
+39834	
+39837	
+39839	
+
+39843	
+39846	
+39848	
+39850	neuter
+39854	feminine
+feminine
+39858	
+39860	
+39862	neuter
+
+feminine
+feminine
+feminine
+
+masculine
+feminine
+
+masculine/feminine
+masculine
+
+
+39877	neuter
+39879	neuter
+39884	
+masculine/neuter
+masculine/neuter
+39888	
+feminine
+39895	neuter
+39900	
+masculine
+neuter
+
+39907	feminine
+
+neuter
+39911	
+
+39914	
+39916	
+39920	
+39923	
+feminine
+39926	neuter
+neuter
+39930	masculine
+39934	
+39936	
+39939	
+39941	masculine/neuter
+39948	
+
+39951	neuter
+39953	neuter
+39958	
+39963	
+masculine/neuter
+masculine
+masculine
+39970	
+
+39973	
+39975	
+39977	
+39981	neuter
+
+
+feminine
+
+
+39991	
+39993	
+
+39996	
+
+39999	
+
+40002	
+neuter
+40005	
+40007	
+40011	neuter
+40015	
+40018	neuter
+40021	
+40024	feminine
+40029	
+40034	
+40037	
+40040	neuter
+feminine
+40043	
+
+masculine/neuter
+masculine/neuter
+40048	neuter
+40051	
+
+40055	
+40057	feminine
+
+40062	
+masculine
+masculine
+40066	neuter
+masculine
+
+40070	neuter
+40072	masculine/neuter
+40074	
+40076	feminine
+40078	feminine
+40080	masculine/neuter
+40082	
+40088	feminine
+40091	
+40093	
+40098	
+masculine
+
+40104	neuter
+40106	masculine/neuter
+40109	feminine
+neuter
+masculine/neuter
+40114	masculine/neuter
+feminine
+40119	masculine
+40124	masculine/feminine
+40128	masculine/feminine
+feminine
+
+
+40134	masculine
+40139	
+40142	
+masculine
+
+40148	neuter
+masculine/feminine
+
+40152	feminine
+
+
+
+40158	
+40162	
+40165	
+40169	
+40171	
+40173	
+40175	
+40177	
+
+40182	
+
+
+40186	neuter
+
+feminine
+40190	neuter
+40194	
+
+40199	
+40202	
+masculine/feminine
+
+
+40208	
+neuter
+40211	
+
+40214	
+40216	neuter
+40218	masculine
+40220	feminine
+40222	
+40224	masculine
+
+40230	
+neuter
+masculine
+40234	neuter
+40236	neuter
+40239	neuter
+40242	
+neuter
+masculine/feminine
+40247	feminine
+
+
+40251	
+40254	masculine
+40256	neuter
+40261	neuter
+masculine/feminine
+
+
+masculine
+40268	
+
+
+40275	
+
+40278	neuter
+40280	
+neuter
+40284	
+40286	
+
+40289	neuter
+masculine/feminine
+40307	
+neuter
+masculine/feminine
+
+
+
+
+feminine
+
+40317	
+40319	
+40321	
+40325	
+40330	
+40333	masculine
+
+40337	neuter
+40339	neuter
+40342	feminine
+
+masculine/feminine/neuter
+
+40348	feminine
+
+40353	feminine
+
+40357	neuter
+40363	feminine
+40375	
+40380	
+
+40392	
+
+
+40397	
+40400	
+40402	feminine
+40405	
+
+40410	
+40414	
+
+40417	
+40422	
+40425	
+40429	masculine/feminine
+40431	masculine/feminine/neuter
+40452	feminine
+40461	feminine
+
+40468	
+40470	feminine
+40473	
+
+
+40485	
+
+masculine
+40497	
+
+
+40505	
+40507	
+40512	feminine
+40514	
+40516	masculine
+
+40519	
+40521	
+
+masculine/neuter
+40525	neuter
+
+40528	
+40533	
+40535	
+
+masculine
+40542	neuter
+40544	masculine
+
+
+40549	neuter
+40551	masculine
+
+
+40555	
+masculine
+40561	feminine
+40564	
+masculine
+
+
+40569	
+
+40572	
+40578	feminine
+40586	feminine
+feminine
+40589	
+
+40592	
+
+masculine
+40598	neuter
+40603	
+40607	
+
+40610	neuter
+40612	
+40614	masculine
+40616	
+40618	masculine
+
+40623	
+neuter
+40626	
+
+40630	
+40632	
+
+40635	
+40637	neuter
+40640	feminine
+40645	
+
+40648	neuter
+40650	
+40654	
+40658	
+40663	
+
+40666	
+40669	
+40671	
+40675	
+
+40681	
+
+masculine
+40685	
+40687	
+40689	
+40691	
+40696	neuter
+40703	
+neuter
+40706	
+
+40709	masculine
+40716	feminine
+40718	
+40722	
+feminine
+40726	
+40728	
+40730	
+
+40734	
+40736	
+40739	
+40743	
+40747	
+40752	masculine
+
+40756	
+40761	
+
+40765	feminine
+40768	neuter
+masculine
+40772	
+40778	masculine/neuter
+40790	masculine
+
+40793	neuter
+40796	
+
+40800	neuter
+masculine
+
+
+40805	
+40807	feminine
+
+
+40811	
+40813	
+40817	
+40821	feminine
+
+40824	
+40827	neuter
+masculine
+40830	
+40833	masculine/neuter
+
+40837	
+40840	
+
+40849	
+40857	neuter
+masculine
+
+
+40863	masculine
+40865	
+40868	
+
+40872	feminine
+
+40877	masculine/neuter
+
+40881	masculine
+40886	neuter
+40892	
+40896	
+
+40900	neuter
+40902	feminine
+feminine
+
+
+40908	
+40910	neuter
+40918	
+40925	
+40928	feminine
+feminine
+
+
+40933	
+40935	
+
+feminine
+40939	
+40941	
+40943	feminine
+
+
+neuter
+40952	
+
+40956	
+feminine
+
+40960	neuter
+feminine
+40963	
+feminine
+40966	
+40971	
+40973	
+40977	masculine
+
+
+masculine
+40982	neuter
+40984	
+40987	
+40989	feminine
+40992	
+
+40995	
+
+
+41001	
+41003	
+
+41006	neuter
+
+41009	
+41011	
+41013	
+
+41019	
+masculine
+masculine
+masculine
+masculine/feminine
+41025	
+
+
+41029	
+feminine
+
+
+41035	
+41037	masculine
+masculine/neuter
+41042	
+41044	
+masculine/neuter
+41048	
+masculine
+
+41052	
+
+
+
+41057	
+41059	
+41063	neuter
+41066	neuter
+41069	masculine
+41080	
+
+41083	feminine
+
+
+feminine
+41089	
+41091	
+41098	masculine
+41100	
+41103	
+41105	feminine
+
+
+41109	
+
+
+masculine/feminine
+41114	masculine
+41116	
+masculine
+masculine/feminine
+41120	
+
+41126	
+41128	masculine
+41130	
+41134	
+41137	masculine
+
+41140	
+41143	
+41147	
+41149	neuter
+41151	
+
+41158	
+41161	
+41170	
+41175	
+41179	feminine
+41182	
+41191	
+feminine
+41194	masculine/neuter
+41207	
+41209	
+neuter
+neuter
+masculine/neuter
+
+41215	
+41218	
+41220	feminine
+
+
+41225	neuter
+41227	
+41229	masculine/neuter
+feminine
+41232	
+
+41236	
+41240	
+41248	
+41252	
+41255	
+41258	
+41260	
+neuter
+masculine
+
+41269	masculine
+41271	
+41273	
+
+41276	masculine
+41278	feminine
+41281	
+41284	
+41288	
+41290	masculine/neuter
+41292	
+masculine/feminine
+
+41299	
+
+41302	
+feminine
+
+41308	neuter
+41312	
+41317	
+
+
+41322	
+masculine
+41330	
+41334	
+41338	
+41340	masculine/neuter
+41344	
+41347	neuter
+masculine
+41352	
+masculine
+41359	
+41363	
+41370	
+
+41373	
+41377	
+neuter
+41380	masculine
+
+masculine
+
+
+41388	masculine
+
+masculine
+41393	masculine/neuter
+masculine
+
+41397	neuter
+neuter
+41402	neuter
+neuter
+41406	
+41409	
+41413	feminine
+neuter
+
+41418	
+41420	
+masculine/neuter
+41425	masculine/neuter
+41428	masculine/feminine
+masculine/neuter
+41434	
+41438	masculine
+41440	feminine
+
+masculine
+41446	feminine
+
+41449	
+41451	
+41454	
+
+41459	masculine
+41462	masculine
+
+41465	feminine
+41467	feminine
+
+41472	masculine/neuter
+41474	
+41476	masculine/feminine
+41480	
+41482	feminine
+
+
+neuter
+41487	
+41491	
+41500	neuter
+
+41504	
+
+41509	
+
+
+neuter
+41520	neuter
+masculine
+
+41527	
+41532	
+masculine
+41539	
+41541	feminine
+41546	
+feminine
+
+masculine
+41555	
+41559	feminine
+41566	neuter
+41569	
+masculine/feminine/neuter
+
+41575	neuter
+
+
+
+41580	
+
+41583	
+41585	feminine
+41594	
+41596	
+41599	
+41602	
+neuter
+41605	masculine
+
+41608	
+41614	
+neuter
+masculine/feminine
+41619	neuter
+
+
+41623	
+41627	neuter
+41632	neuter
+neuter
+
+41636	
+
+41640	masculine
+feminine
+41646	
+
+41654	masculine
+
+41658	
+41665	
+41668	
+41676	feminine
+41688	
+41691	masculine
+41703	
+41706	masculine
+41712	
+masculine/neuter
+41716	
+41718	masculine
+
+
+41722	
+
+
+
+41729	
+41731	
+41736	
+41738	masculine
+41742	
+masculine
+
+41746	neuter
+41752	
+
+
+41761	
+41764	
+masculine
+41767	
+41770	
+
+41773	
+
+41776	masculine/neuter
+41781	
+41785	
+41788	feminine
+41790	
+feminine
+41797	
+masculine/neuter
+41807	masculine
+41811	masculine
+41814	feminine
+neuter
+41819	feminine
+41821	
+41825	
+41828	
+masculine
+41832	
+41835	neuter
+
+41840	
+41845	masculine
+41848	masculine
+41851	
+41854	masculine/feminine
+41858	masculine
+41860	masculine
+
+41868	
+41873	
+41875	masculine
+41878	
+masculine/neuter
+
+41885	
+masculine
+neuter
+41890	feminine
+
+
+
+41895	
+41901	feminine
+
+41906	
+41910	
+41914	
+41917	
+41919	
+41923	masculine
+41925	
+41927	
+
+41930	
+41934	
+
+
+41939	
+
+41946	masculine/neuter
+
+41949	
+
+
+41956	
+
+41962	
+neuter
+
+41971	
+41975	
+41977	feminine
+
+
+41982	
+41984	masculine
+41987	feminine
+
+41990	
+
+41997	
+
+42001	masculine
+42003	masculine
+
+
+42009	masculine/neuter
+
+42016	
+42018	
+neuter
+masculine
+feminine
+
+42028	
+42031	
+neuter
+42034	
+42037	neuter
+42042	feminine
+42044	neuter
+neuter
+masculine
+42049	
+
+feminine
+42056	
+
+neuter
+42062	
+neuter
+42066	neuter
+
+42069	
+42082	
+42087	
+42090	
+42095	
+42098	
+42101	feminine
+42104	masculine
+42110	
+42115	
+42117	
+42121	masculine
+42127	
+42134	
+42138	
+42142	masculine
+masculine/neuter
+42149	masculine/neuter
+neuter
+42152	
+feminine
+42156	masculine/neuter
+42158	
+42166	
+masculine/feminine
+42171	neuter
+42173	
+42178	
+42182	
+42186	
+42188	neuter
+42193	
+42197	masculine
+masculine/neuter
+42204	masculine/neuter
+
+42207	neuter
+42211	
+
+42217	feminine
+42222	
+42224	
+42227	
+42230	
+42234	
+42239	
+42243	
+42245	neuter
+42249	
+42252	
+42259	
+42261	neuter
+42263	
+neuter
+42266	
+42269	
+42280	feminine
+42285	
+
+42288	neuter
+42290	
+42292	
+neuter
+42295	masculine/neuter
+42299	neuter
+42301	masculine/neuter
+42306	
+42316	neuter
+42319	
+42323	neuter
+42325	
+
+
+42329	
+feminine
+masculine
+42333	masculine
+42337	masculine/neuter
+42340	
+42347	masculine
+42350	
+42352	neuter
+42354	masculine/neuter
+42356	neuter
+42358	masculine/neuter
+42360	neuter
+42369	neuter
+42371	
+42377	
+
+42380	neuter
+feminine
+feminine
+feminine
+42389	
+
+neuter
+42393	masculine/neuter
+42396	
+42403	
+42408	feminine
+42411	
+42420	
+42422	feminine
+42424	
+42428	
+42434	
+feminine
+42440	masculine/neuter
+42443	
+42446	
+42448	
+42450	neuter
+42453	
+
+neuter
+masculine/feminine
+42462	
+42470	
+42479	
+42482	feminine
+42485	feminine
+42489	
+masculine/feminine/neuter
+42492	
+
+masculine/neuter
+neuter
+
+
+masculine/feminine/neuter
+42500	neuter
+42502	
+
+feminine
+
+neuter
+42508	
+42510	
+masculine/neuter
+feminine
+42515	
+42517	neuter
+42521	
+42524	neuter
+
+neuter
+42528	
+
+masculine
+
+
+42534	
+masculine/neuter
+feminine
+42539	neuter
+42543	neuter
+masculine/feminine
+42549	
+42551	
+
+masculine
+
+
+42561	
+
+42564	
+42568	feminine
+
+feminine
+42572	
+
+42576	
+42578	
+42584	
+42586	feminine
+
+42590	
+neuter
+42593	
+42596	
+42601	neuter
+
+42606	
+42610	
+42612	
+
+42616	
+42622	
+
+42625	
+
+
+42629	
+42635	
+
+42639	masculine
+feminine
+masculine/feminine/neuter
+42643	
+42646	feminine
+
+42651	
+
+42656	
+
+
+42660	
+
+42668	neuter
+masculine
+42677	
+42680	
+masculine
+42684	masculine
+42687	neuter
+42692	
+masculine/neuter
+
+42696	
+42700	masculine
+
+
+neuter
+42706	masculine
+
+
+42712	feminine
+feminine
+
+
+42719	
+42722	
+42731	
+
+42738	neuter
+masculine
+42742	
+42744	masculine
+42748	neuter
+42752	masculine
+42757	
+42761	feminine
+42763	
+42766	feminine
+42777	
+42780	neuter
+42787	masculine
+
+42790	
+42792	masculine
+42796	feminine
+
+
+42803	neuter
+42809	masculine
+
+42817	neuter
+42822	
+
+masculine
+
+42828	
+feminine
+
+42832	
+42838	
+42840	
+
+42845	
+42848	neuter
+42851	neuter
+42854	
+42856	masculine
+
+42859	
+42862	
+42864	feminine
+42866	
+
+
+42872	
+42877	
+42879	feminine
+feminine
+masculine/neuter
+
+42884	
+masculine/neuter
+42888	masculine
+feminine
+feminine
+42894	
+42897	feminine
+42899	
+masculine/neuter
+42903	masculine/neuter
+42905	masculine/neuter
+feminine
+42910	masculine
+42912	
+neuter
+42915	feminine
+42921	feminine
+masculine/neuter
+
+42925	
+masculine
+42932	
+42935	
+42938	
+42943	
+42950	
+42956	
+42963	
+42965	feminine
+neuter
+42968	
+42973	neuter
+42976	feminine
+42980	
+
+42984	
+masculine
+42988	masculine
+42991	
+neuter
+42995	feminine
+
+42998	
+43002	feminine
+
+43006	
+feminine
+feminine
+43014	
+43016	
+43018	
+43025	
+43027	
+
+43031	
+43033	
+43035	masculine/neuter
+43037	feminine
+
+43040	neuter
+
+neuter
+43044	masculine/neuter
+neuter
+43048	neuter
+
+43053	neuter
+43056	feminine
+
+
+masculine
+43062	
+43064	masculine
+masculine
+
+43069	feminine
+neuter
+masculine
+43073	
+masculine/neuter
+43076	masculine/feminine
+43078	
+43080	neuter
+masculine
+
+
+43085	
+43088	
+
+43096	
+43101	
+
+43105	
+masculine/neuter
+neuter
+
+masculine
+
+43115	
+
+
+43119	
+43121	
+43124	
+43126	neuter
+43128	
+43131	
+43133	feminine
+masculine
+43136	
+43142	
+43145	
+
+
+43149	
+
+feminine
+masculine
+43158	neuter
+feminine
+masculine
+
+
+
+
+
+43169	
+43171	feminine
+43173	
+
+43176	
+43181	feminine
+43185	feminine
+43188	
+
+masculine/feminine
+43193	
+
+43196	masculine/feminine
+43201	
+43203	masculine
+masculine
+masculine
+neuter
+feminine
+43209	feminine
+
+43216	
+43219	
+
+43226	
+feminine
+feminine
+
+43231	
+43233	
+43237	masculine
+43239	
+43242	neuter
+43245	
+43250	
+43252	
+43254	neuter
+masculine
+
+43258	masculine
+
+43261	masculine
+43263	
+43269	
+
+
+
+43274	neuter
+masculine/feminine
+43278	
+43280	
+43282	feminine
+43284	masculine/neuter
+
+masculine
+43292	
+43294	feminine
+feminine
+
+
+
+43301	
+43304	feminine
+feminine
+
+
+43310	
+
+
+43314	
+43316	
+43318	feminine
+feminine
+
+
+43323	masculine/neuter
+43325	
+43329	feminine
+43331	feminine
+
+
+43336	feminine
+
+
+
+
+43346	
+
+
+43350	
+43358	feminine
+
+43366	
+43373	neuter
+43375	
+
+
+43379	feminine
+
+masculine
+43383	
+43385	feminine
+43396	
+43403	
+43406	
+
+
+
+43416	feminine
+43419	
+43424	neuter
+43429	masculine
+43432	
+43442	
+43444	feminine
+43452	masculine
+43454	
+43458	
+feminine
+feminine
+43462	
+feminine
+neuter
+43466	
+
+43469	
+43472	feminine
+43476	
+43479	feminine
+feminine
+
+
+43486	
+
+feminine
+43490	neuter
+
+43493	masculine
+43496	
+feminine
+
+
+43504	neuter
+
+43507	
+
+43510	
+43514	
+
+
+43518	
+
+43526	
+43528	neuter
+43532	neuter
+43541	feminine
+43544	feminine
+43546	neuter
+43550	
+43553	masculine
+neuter
+43556	
+43563	masculine
+43565	
+
+43568	
+43572	
+43579	masculine
+43582	
+
+43585	feminine
+43587	masculine
+43594	feminine
+43596	
+
+43599	feminine
+43605	feminine
+masculine
+43609	
+
+43620	
+
+43623	
+43626	masculine
+43629	
+43632	feminine
+43639	feminine
+43641	
+43645	
+43648	
+43650	
+43652	neuter
+masculine
+
+43656	neuter
+43660	
+neuter
+43666	
+43668	
+43670	masculine
+
+43673	masculine/neuter
+43675	feminine
+43679	
+43682	
+
+
+
+43687	
+feminine
+
+neuter
+43692	neuter
+43694	
+
+43697	neuter
+
+43704	
+43713	
+
+
+43717	masculine
+43721	
+43723	feminine
+43726	
+43728	neuter
+43730	neuter
+43734	neuter
+43736	
+neuter
+43744	neuter
+43746	masculine/feminine/neuter
+masculine
+
+43752	masculine
+43759	
+43761	
+43763	neuter
+
+43767	
+43769	
+neuter
+feminine
+
+neuter
+43775	
+43780	
+43783	
+
+43791	
+masculine
+neuter
+43797	
+43799	
+
+43804	
+43807	
+43810	
+43812	neuter
+neuter
+43816	neuter
+43818	neuter
+43825	feminine
+43828	masculine
+43832	masculine
+feminine
+
+43836	neuter
+43838	masculine
+43840	feminine
+masculine
+masculine/feminine
+feminine
+feminine
+43850	
+feminine
+43856	feminine
+feminine
+
+
+feminine
+
+
+43864	
+43866	
+43868	feminine
+
+
+
+masculine
+43875	
+
+43878	feminine
+43882	masculine
+masculine
+43888	
+neuter
+
+
+43894	neuter
+masculine
+43898	masculine
+43902	
+43905	neuter
+43908	masculine
+
+masculine
+43912	masculine
+feminine
+masculine
+43916	masculine
+43918	
+43921	masculine/neuter
+43925	neuter
+43927	
+43929	neuter
+43933	
+43935	neuter
+masculine
+
+43940	neuter
+masculine
+43943	neuter
+feminine
+
+neuter
+43951	feminine
+43953	
+43955	
+43958	
+43960	neuter
+43962	
+43966	
+43969	feminine
+feminine
+43973	neuter
+masculine
+
+
+43978	masculine
+feminine
+43982	
+43984	feminine
+
+
+43988	
+43992	feminine
+43996	
+43998	
+44000	feminine
+
+
+44004	neuter
+44006	masculine
+44008	feminine
+44010	masculine
+44012	neuter
+44014	
+feminine
+44017	neuter
+44019	feminine
+neuter
+
+
+44024	
+44026	neuter
+44028	
+44031	feminine
+feminine
+44034	masculine
+neuter
+44037	
+44039	feminine
+
+
+
+44046	
+44048	
+44050	
+44052	
+
+
+44058	feminine
+
+
+44064	
+44066	
+
+44071	
+
+44074	
+44076	
+neuter
+44082	
+44085	
+44087	
+44091	neuter
+feminine
+feminine
+feminine
+44096	masculine
+
+44099	
+
+44117	feminine
+44119	
+44127	
+44133	feminine
+44137	feminine
+feminine
+44141	
+
+44145	
+44150	neuter
+44153	masculine
+
+44156	
+masculine/neuter
+44160	
+44165	
+masculine
+neuter
+44172	masculine
+masculine
+44176	neuter
+44179	masculine
+44181	
+44184	
+44189	
+44192	neuter
+44196	neuter
+masculine
+44205	
+44209	masculine
+44211	
+neuter
+44214	
+masculine
+44219	neuter
+masculine
+
+44224	feminine
+44226	masculine/neuter
+
+masculine
+44237	masculine
+44240	neuter
+44242	feminine
+44244	neuter
+
+
+feminine
+44252	feminine
+
+44260	
+44276	
+
+
+44280	
+44282	
+44285	
+44292	
+44294	
+44299	
+44305	neuter
+masculine
+
+44312	
+44315	
+
+44318	masculine/neuter
+
+44321	
+44333	masculine
+
+neuter
+44339	
+44343	
+44346	masculine
+
+feminine
+feminine
+44353	masculine
+44356	
+44358	
+44362	
+44364	
+44368	neuter
+masculine
+
+44372	neuter
+
+44385	neuter
+44387	
+
+
+44391	
+44396	feminine
+44398	
+
+
+feminine
+44410	
+44413	feminine
+feminine
+
+
+44418	
+44422	masculine/feminine
+44424	
+
+feminine
+44429	feminine
+44431	
+44434	
+
+44439	
+44442	
+44446	
+44449	masculine
+44452	
+44456	
+feminine
+
+
+masculine
+44464	
+44466	feminine
+44469	
+
+44475	feminine
+44477	
+44481	
+44494	neuter
+masculine
+masculine
+masculine
+feminine
+feminine
+masculine/neuter
+
+44505	
+44510	
+
+44516	
+
+
+
+masculine
+44523	neuter
+44525	masculine
+
+feminine
+masculine/neuter
+masculine/feminine
+
+44533	
+44537	feminine
+44539	
+44542	masculine
+44544	neuter
+44547	masculine
+masculine
+
+feminine
+feminine
+masculine/neuter
+44556	
+44560	masculine
+
+44564	
+44573	
+
+44577	
+44579	masculine/neuter
+
+masculine
+44585	
+44598	
+44600	feminine
+44609	masculine
+44613	
+44619	
+
+44622	
+44626	
+
+44629	
+44633	neuter
+44635	masculine
+
+
+44639	
+
+
+44643	
+44648	
+44653	
+44664	
+44667	
+44670	
+44674	feminine
+44680	
+44682	feminine
+44684	
+44686	
+44694	neuter
+masculine
+44699	feminine
+masculine
+
+
+44706	
+
+44721	
+44723	neuter
+44725	feminine
+
+neuter
+44729	
+44731	
+
+neuter
+masculine
+
+44737	
+44740	masculine
+44742	
+44744	
+44746	
+44748	feminine
+44751	neuter
+masculine
+masculine/feminine
+
+44758	
+44761	masculine
+44763	neuter
+
+neuter
+masculine
+
+44769	
+44778	feminine
+feminine
+44789	
+44791	feminine
+44793	feminine
+
+44796	
+44799	
+
+44803	feminine
+
+44807	masculine
+44813	feminine
+44817	masculine
+
+44825	masculine
+44827	neuter
+44829	neuter
+44831	
+44833	masculine/neuter
+
+44836	
+44838	
+
+44842	
+44846	
+
+neuter
+44852	neuter
+44855	masculine/neuter
+44857	
+
+
+
+neuter
+44863	
+masculine
+
+
+feminine
+
+44870	feminine
+44876	masculine
+
+
+44880	
+44882	feminine
+44886	feminine
+44894	masculine/neuter
+
+
+feminine
+44899	masculine
+44901	masculine/neuter
+masculine
+44904	masculine/neuter
+44906	masculine
+44908	
+masculine
+44911	masculine/neuter
+masculine
+44916	masculine
+44918	feminine
+44920	masculine/neuter
+
+masculine
+44925	masculine/neuter
+44929	
+masculine
+44938	
+masculine/neuter
+feminine
+44942	
+44944	neuter
+44949	masculine
+44952	feminine
+44954	neuter
+neuter
+44957	neuter
+44962	
+44964	feminine
+feminine
+
+44970	feminine
+
+
+masculine/feminine/neuter
+masculine
+44978	masculine
+44982	
+44984	masculine
+masculine
+
+44990	
+44994	neuter
+44999	
+feminine
+feminine
+45003	
+45006	feminine
+45008	
+45011	
+
+masculine/feminine/neuter
+45017	masculine
+45020	masculine
+45026	neuter
+masculine
+45030	
+masculine/feminine
+
+feminine
+
+45037	
+45040	neuter
+45042	masculine
+45044	
+45046	
+45048	
+45051	
+feminine
+masculine
+45056	
+45061	
+
+
+
+
+45067	masculine
+45072	masculine
+
+neuter
+45076	
+
+
+neuter
+45084	neuter
+45087	
+45089	neuter
+45092	
+feminine
+45101	
+45104	
+45106	neuter
+masculine
+
+45110	
+45112	
+
+
+feminine
+
+45118	
+45124	
+45126	
+45137	
+
+45145	neuter
+45148	
+
+
+45152	masculine/neuter
+45154	masculine
+45157	neuter
+45164	
+neuter
+masculine
+45172	neuter
+45177	
+masculine
+45184	
+45186	neuter
+masculine/feminine
+
+45191	
+
+45197	
+
+45200	
+45204	masculine
+45209	masculine
+45212	neuter
+45217	masculine/neuter
+feminine
+feminine
+45224	
+
+45227	
+45230	
+45232	neuter
+masculine/feminine
+
+45238	
+45243	
+45246	
+45249	neuter
+masculine
+45252	neuter
+45256	
+45266	masculine
+45270	
+45272	
+45274	neuter
+45284	
+45286	
+45288	feminine
+45290	masculine
+45293	masculine
+45300	
+45310	
+45313	
+45315	
+45317	feminine
+45319	
+45323	
+45327	
+
+45333	
+45336	
+
+45342	masculine
+45344	
+
+masculine
+masculine
+45356	feminine
+45359	
+
+45363	feminine
+45365	neuter
+45367	
+45369	
+45371	feminine
+45374	
+45381	
+45384	
+masculine
+45387	neuter
+45389	neuter
+45391	
+45395	
+feminine
+45400	feminine
+
+
+
+
+45407	neuter
+45409	
+45411	masculine
+
+45418	feminine
+
+45423	
+45426	masculine
+masculine
+masculine/neuter
+45433	masculine
+45435	masculine
+45437	masculine/feminine
+neuter
+45441	
+
+45449	
+neuter
+45452	
+45456	
+45458	
+45460	
+45464	
+45466	neuter
+masculine
+45473	neuter
+45476	neuter
+45483	masculine
+45490	neuter
+45492	feminine
+45495	feminine
+45498	
+45500	feminine
+45502	feminine
+45505	masculine
+45512	
+45514	neuter
+masculine
+masculine
+
+
+45521	
+45524	masculine
+45527	
+45529	
+45536	feminine
+45538	
+45541	
+45548	
+45550	
+
+
+45555	
+45557	
+45560	masculine
+
+45563	masculine
+45567	neuter
+
+
+masculine
+45572	masculine
+45575	masculine
+45578	masculine
+45584	feminine
+
+45590	masculine/neuter
+45593	
+45596	neuter
+45598	masculine
+masculine
+45603	
+45606	
+45610	
+
+45613	masculine
+45620	
+
+45624	
+masculine
+
+masculine/neuter
+45631	neuter
+45633	feminine
+
+
+45638	masculine/neuter
+45641	masculine
+masculine/neuter
+45646	masculine
+
+45649	
+
+45656	
+45658	
+45661	
+45666	masculine
+45668	
+45671	masculine/neuter
+45673	
+45678	
+45683	
+45685	
+masculine/feminine
+45691	masculine/neuter
+45693	feminine
+feminine
+45698	
+45705	
+45707	masculine
+feminine
+45710	feminine
+45714	masculine/feminine
+feminine
+45719	feminine
+45722	
+45724	
+
+
+feminine
+feminine
+45730	feminine
+45732	neuter
+45739	
+45743	
+feminine
+45749	
+45752	neuter
+45754	neuter
+45758	feminine
+masculine
+masculine/neuter
+45762	
+masculine/feminine/neuter
+
+
+neuter
+45770	
+45772	feminine
+
+45775	feminine
+
+45782	
+45789	masculine
+45791	
+45800	
+45803	neuter
+45805	
+
+45813	
+45816	masculine
+45820	neuter
+45825	
+feminine
+45830	
+45835	
+45839	masculine
+45842	
+45846	
+45853	feminine
+45855	feminine
+45858	masculine
+45860	
+45870	
+feminine
+neuter
+45878	masculine/neuter
+45880	feminine
+45883	feminine
+45885	
+45887	
+45889	masculine
+45891	masculine
+45894	masculine
+45898	
+45902	
+
+masculine
+masculine
+45907	
+45909	
+masculine/neuter
+45912	
+
+45917	
+45921	
+45925	
+45928	masculine
+45930	
+45935	feminine
+45941	masculine
+45943	
+
+masculine/neuter
+45947	
+45951	feminine
+45960	masculine/neuter
+45963	
+
+45966	
+masculine/neuter
+45970	
+masculine/neuter
+45974	
+45980	
+
+45983	feminine
+45987	masculine
+
+45992	
+feminine
+masculine
+45996	masculine
+
+46002	masculine
+
+46008	
+46010	
+feminine
+46014	
+
+46017	neuter
+feminine
+feminine
+46022	
+46028	
+46034	
+46040	
+
+46050	
+feminine
+46053	neuter
+46061	
+46063	
+46065	feminine
+46067	feminine
+
+
+46071	
+46078	masculine
+46080	
+feminine
+masculine
+masculine
+46085	
+46089	
+46096	feminine
+46100	
+46107	
+
+46110	
+46115	
+46123	
+46126	masculine/neuter
+46129	feminine
+46131	masculine/neuter
+feminine
+
+
+46140	neuter
+feminine
+neuter
+46145	
+46148	feminine
+
+
+
+46160	
+46162	feminine
+
+
+46167	feminine
+feminine
+
+
+feminine
+
+
+
+46177	
+feminine
+neuter
+46181	feminine
+
+neuter
+feminine
+neuter
+46188	feminine
+46191	masculine
+46193	
+46198	
+46202	
+46204	masculine/neuter
+feminine
+
+
+
+46210	
+46212	
+46215	
+46217	feminine
+46219	feminine
+neuter
+46222	
+46235	
+46237	
+46240	masculine
+46245	neuter
+feminine
+46252	
+
+
+
+
+46259	feminine
+
+
+masculine/feminine/neuter
+46269	
+46273	neuter
+masculine
+46277	neuter
+46282	
+
+masculine/feminine/neuter
+46286	
+46289	feminine
+46293	feminine
+feminine
+46298	masculine
+46301	masculine
+46304	
+
+46313	masculine
+
+masculine
+46317	masculine
+46319	neuter
+46321	
+
+46333	
+46335	
+46349	
+46353	
+46357	feminine
+neuter
+46361	
+
+46368	masculine
+46374	masculine/feminine
+46379	masculine
+46381	neuter
+46386	neuter
+46388	
+46390	
+46392	masculine/neuter
+
+46396	
+
+46402	
+46404	
+46407	
+46411	
+
+
+46416	
+masculine
+neuter
+46429	feminine
+46431	masculine
+46433	
+
+masculine
+46442	
+46450	feminine
+
+46453	feminine
+
+
+46457	masculine
+46462	
+46465	
+46472	masculine/neuter
+46474	
+46477	
+46479	
+
+46484	masculine
+46486	feminine
+46489	
+46491	feminine
+
+
+46496	
+46498	
+46502	
+
+46505	
+46507	
+46510	
+46512	
+46515	
+46518	
+feminine
+
+feminine
+feminine
+
+
+
+46530	
+46534	masculine
+46542	masculine/neuter
+46545	
+
+46548	feminine
+46552	
+46556	
+masculine
+46560	
+feminine
+
+46564	
+
+46570	masculine/neuter
+46573	
+feminine
+46576	
+46580	
+46583	masculine
+
+neuter
+46588	
+
+
+46596	
+46600	
+46610	neuter
+
+
+feminine
+neuter
+46622	
+46626	feminine
+
+46630	neuter
+46632	
+46634	masculine
+masculine
+46639	masculine
+46641	masculine
+46643	masculine
+46651	neuter
+46653	
+
+46656	
+neuter
+masculine
+46660	neuter
+46662	
+neuter
+masculine
+46668	neuter
+46670	
+neuter
+masculine
+46674	neuter
+46678	
+46680	masculine/neuter
+46682	
+neuter
+masculine
+46687	
+masculine
+46691	
+
+46696	masculine
+46698	
+46702	neuter
+46705	feminine
+46707	
+46709	
+46712	masculine
+46714	
+46716	feminine
+46724	
+46726	
+46728	masculine
+masculine
+
+neuter
+masculine
+46734	feminine
+
+
+
+46744	
+46747	
+feminine
+46750	masculine/neuter
+46753	
+46755	neuter
+46758	masculine/neuter
+neuter
+46761	
+46763	masculine
+46765	
+masculine/feminine
+46769	
+46772	
+46775	neuter
+46777	
+
+masculine
+46782	
+46785	feminine
+46788	
+46791	feminine
+
+46794	
+46796	feminine
+46800	feminine
+46805	
+masculine
+46808	neuter
+46810	
+46813	
+46815	neuter
+
+46818	masculine/feminine/neuter
+masculine
+46821	feminine
+46823	neuter
+46825	
+46829	
+46833	
+46835	
+
+46840	
+46842	
+
+46845	feminine
+46847	masculine
+46853	
+46855	
+masculine
+46858	neuter
+masculine
+
+46864	neuter
+46866	
+46868	
+46870	feminine
+46873	
+46876	
+46880	masculine
+46885	masculine
+feminine
+46890	
+46892	
+46894	
+46897	
+46903	feminine
+46905	
+
+46908	
+feminine
+46912	masculine
+46914	
+masculine
+46919	
+46921	
+46925	feminine
+46927	
+46936	
+46941	
+
+
+46947	neuter
+
+
+46951	
+46958	
+46965	feminine
+
+46971	
+46973	
+46976	
+46978	
+46982	
+46985	
+46987	
+46990	neuter
+masculine
+47000	
+masculine
+
+47004	masculine
+47006	
+47008	masculine
+47012	
+
+
+47017	masculine
+47022	neuter
+masculine
+
+47026	
+47032	
+feminine
+
+masculine
+47037	neuter
+47042	
+47044	neuter
+
+47047	neuter
+masculine
+
+
+feminine
+47055	
+47057	
+47059	
+47061	masculine
+47070	
+masculine/feminine/neuter
+47074	
+47076	feminine
+47081	neuter
+47083	feminine
+47087	masculine/neuter
+
+
+masculine/feminine/neuter
+47100	masculine/neuter
+feminine
+
+47104	feminine
+neuter
+
+
+47114	
+47117	
+masculine
+neuter
+47124	masculine/neuter
+47127	
+47130	
+47134	neuter
+47137	feminine
+feminine
+47150	
+feminine
+47155	
+neuter
+47159	masculine
+47161	
+47168	feminine
+47171	feminine
+47173	
+feminine
+
+neuter
+47184	feminine
+47186	
+47190	
+masculine
+47193	feminine
+47197	
+
+47203	
+47205	neuter
+47209	
+47211	masculine
+47216	
+47220	masculine
+neuter
+masculine
+47224	
+47228	neuter
+47230	
+
+
+masculine/neuter
+
+
+47237	
+47240	
+47242	
+47247	
+47249	masculine
+feminine
+masculine
+47253	masculine
+47256	
+47263	masculine
+masculine
+47267	neuter
+masculine
+masculine
+47271	feminine
+feminine
+47274	
+
+47277	feminine
+
+47280	neuter
+
+47284	
+47293	
+47296	feminine
+masculine
+
+47300	
+neuter
+masculine
+
+masculine/feminine
+
+47308	neuter
+
+
+47314	neuter
+47316	
+47319	
+47321	
+47325	neuter
+47327	
+
+47331	neuter
+47334	
+
+neuter
+47341	
+neuter
+47344	
+
+neuter
+47352	
+
+47356	masculine
+47358	neuter
+47368	
+47370	
+feminine
+neuter
+47376	feminine
+47385	
+masculine
+47392	masculine/neuter
+47399	masculine
+47401	masculine
+47404	neuter
+47409	masculine
+47411	
+neuter
+47415	masculine
+neuter
+47418	
+47422	masculine
+neuter
+47426	
+47435	
+
+
+47440	masculine
+47442	
+masculine
+
+
+47450	
+47457	feminine
+feminine
+47462	
+47464	
+neuter
+47471	
+47474	
+47481	neuter
+47484	
+47486	
+47490	neuter
+47493	feminine
+47497	neuter
+
+47500	
+masculine
+masculine
+47506	feminine
+47510	
+47517	
+47522	
+
+
+47532	masculine
+47535	masculine
+47537	masculine/feminine
+47539	
+
+47543	neuter
+47548	
+47550	
+47556	
+47560	
+47565	neuter
+47567	
+47570	feminine
+47572	feminine
+47575	
+feminine
+47591	
+47599	
+47604	
+47606	masculine
+masculine/neuter
+47610	
+
+
+47615	
+47617	
+47619	
+47621	
+47627	feminine
+47629	
+47631	neuter
+
+47639	
+47643	masculine
+47646	neuter
+47648	masculine/feminine
+47652	
+feminine
+masculine/neuter
+masculine/feminine
+47657	
+47659	feminine
+47663	
+47668	neuter
+47673	
+47676	masculine
+47679	masculine
+
+
+47683	neuter
+47686	
+47692	
+47695	
+
+
+
+47703	
+masculine
+47713	
+feminine
+47716	feminine
+47719	
+47723	feminine
+
+47727	feminine
+masculine/neuter
+47732	
+47740	
+47742	feminine
+feminine
+
+47749	masculine/feminine
+neuter
+47753	
+47759	
+
+masculine
+47767	
+47770	masculine
+47776	masculine
+47780	masculine
+
+47785	
+47791	
+47794	feminine
+47796	masculine/neuter
+
+
+47800	feminine
+
+47803	
+feminine
+feminine
+feminine
+47808	feminine
+47815	masculine/feminine
+47820	
+47825	feminine
+47830	feminine
+
+
+
+47837	
+
+
+47842	feminine
+47847	
+47852	feminine
+
+47859	masculine
+neuter
+47862	feminine
+47870	neuter
+47873	
+47875	neuter
+47877	masculine
+
+47884	
+47886	
+47889	feminine
+47891	
+47893	
+47896	neuter
+47902	masculine
+47904	masculine
+masculine
+
+47909	
+47912	neuter
+masculine
+
+
+neuter
+47918	neuter
+47922	masculine
+47929	masculine
+
+47932	
+neuter
+47936	masculine
+neuter
+neuter
+
+47942	masculine
+47945	neuter
+47954	masculine
+47959	
+neuter
+masculine
+neuter
+neuter
+47965	feminine
+
+47968	neuter
+47970	masculine
+47973	
+
+47977	masculine
+
+
+
+47983	
+47987	masculine
+feminine
+47999	
+masculine
+48005	
+48007	feminine
+masculine/neuter
+48010	
+48012	feminine
+masculine
+
+48017	
+
+
+
+48022	feminine
+
+
+48026	
+feminine
+48032	
+48035	feminine
+
+48038	
+
+48045	
+
+48050	
+48052	neuter
+masculine
+
+48056	
+48058	masculine/neuter
+48067	feminine
+48069	neuter
+
+48075	masculine
+masculine
+48078	neuter
+48082	
+48085	masculine
+48093	feminine
+feminine
+48096	feminine
+48098	masculine
+48102	masculine
+48109	feminine
+feminine
+48114	feminine
+48117	feminine
+
+48123	feminine
+48130	
+48133	
+48136	feminine
+feminine
+48142	masculine
+48146	feminine
+
+
+48151	
+48156	
+masculine
+48166	
+48169	masculine/neuter
+48171	
+48176	neuter
+
+
+48184	feminine
+48187	
+48191	feminine
+48193	
+48197	
+48201	
+48208	feminine
+48212	feminine
+
+48221	
+48225	feminine
+48228	feminine
+48231	
+48237	
+48242	
+48245	
+masculine/neuter
+masculine
+48250	
+
+
+48257	
+48262	
+48265	masculine
+48268	masculine
+48271	feminine
+
+
+48276	neuter
+48280	
+48285	feminine
+48289	
+48292	
+48294	
+48297	
+48299	feminine
+masculine
+48303	
+
+
+
+48308	
+48316	
+feminine
+48323	
+48327	
+48331	neuter
+48338	
+48340	feminine
+48342	masculine
+48344	masculine
+48346	masculine
+feminine
+48350	feminine
+
+48354	
+48360	
+masculine
+feminine
+48365	feminine
+48371	neuter
+48374	
+48381	neuter
+feminine
+48384	feminine
+48392	feminine
+
+48395	
+feminine
+
+48400	feminine
+
+48403	
+48410	
+48425	
+
+48433	masculine
+48437	masculine
+48440	feminine
+48442	
+48446	
+48450	
+masculine
+
+48455	
+48462	
+48467	
+48472	
+48477	feminine
+feminine
+
+48481	
+48486	
+48488	feminine
+masculine
+48491	neuter
+48493	feminine
+48495	masculine
+
+48503	
+48507	masculine
+
+
+48512	
+48518	masculine
+48521	masculine
+48523	masculine/neuter
+
+48526	
+48528	feminine
+48533	
+48536	neuter
+48541	
+48547	
+48549	feminine
+
+48552	
+48555	
+48558	
+
+masculine/neuter
+48562	feminine
+48573	
+48575	feminine
+48578	masculine
+48580	masculine/feminine
+
+48586	
+48589	masculine/feminine
+48594	
+48598	feminine
+48600	
+48607	
+48610	
+48615	
+
+48622	masculine
+
+48626	
+48629	masculine
+48632	
+48634	
+
+48639	masculine
+48644	masculine
+
+48647	
+feminine
+48651	feminine
+48654	feminine
+48656	
+48659	masculine/neuter
+48667	
+48669	masculine
+48672	masculine/neuter
+
+48678	
+
+feminine
+neuter
+48684	
+
+48690	
+
+48695	feminine
+48699	
+48701	feminine
+48704	feminine
+48707	masculine
+48717	feminine
+48719	neuter
+48723	feminine
+neuter
+masculine/neuter
+48727	
+
+masculine/feminine
+
+48732	masculine/feminine
+
+48735	
+
+
+masculine/feminine
+48740	masculine
+feminine
+48746	
+
+48750	
+48758	masculine
+
+48762	neuter
+masculine
+48769	
+feminine
+
+48773	
+48775	
+48778	
+48780	feminine
+
+
+48785	feminine
+48789	
+48791	feminine
+48793	
+48795	
+
+48800	
+48802	
+48806	
+48810	
+48812	feminine
+48816	
+48818	
+masculine/neuter
+48828	
+48836	
+48838	
+48842	
+48845	
+48860	feminine
+48866	
+48868	
+48872	masculine
+48877	
+48881	masculine
+feminine
+48884	
+48889	masculine
+
+48895	feminine
+48899	
+
+
+48903	neuter
+feminine
+feminine
+
+
+
+masculine
+48916	
+48919	feminine
+48921	masculine
+
+48925	masculine
+48927	
+48929	
+48934	masculine
+48938	feminine
+48940	
+feminine
+48945	
+48947	
+
+
+48951	neuter
+
+neuter
+feminine
+48963	
+48965	
+48968	
+48972	feminine
+48975	
+
+48978	feminine
+feminine
+
+
+
+
+48988	feminine
+48992	
+48995	
+
+49000	
+
+49005	
+49007	feminine
+49010	
+49015	masculine
+49017	
+
+49024	
+feminine
+49027	
+
+masculine/feminine/neuter
+49032	masculine
+
+
+
+neuter
+49039	neuter
+49041	
+49044	masculine
+49047	
+neuter
+49051	
+
+
+49056	masculine
+neuter
+49059	
+49063	
+49065	
+neuter
+49068	
+
+49072	
+49074	feminine
+49076	
+49084	
+49086	feminine
+49089	feminine
+neuter
+49097	neuter
+
+49104	
+49107	
+49109	
+49115	
+49117	
+49123	
+49125	
+49127	
+49134	neuter
+49137	
+49140	
+
+49143	
+49145	neuter
+49148	
+49151	neuter
+49156	
+feminine
+feminine
+49161	masculine
+
+49172	
+49174	
+49178	
+49181	
+masculine/feminine
+49184	
+
+
+49190	
+49196	
+49198	feminine
+neuter
+49205	
+masculine/feminine
+49208	
+49210	
+
+
+
+49215	neuter
+49217	masculine/feminine
+49220	feminine
+49222	
+49224	
+49226	
+masculine
+49229	
+49231	
+neuter
+
+49238	
+
+masculine
+49242	
+
+49245	
+49247	
+49252	
+49255	
+neuter
+49258	feminine
+masculine
+49261	feminine
+49264	feminine
+feminine
+feminine
+masculine
+masculine/neuter
+49270	masculine
+49272	
+49274	masculine/feminine
+49276	neuter
+49278	
+49281	
+49284	
+feminine
+49288	feminine
+neuter
+
+49292	
+
+49296	masculine
+49298	
+49308	
+49316	
+49320	neuter
+masculine
+49329	
+49331	
+49334	neuter
+49336	
+49339	
+49341	neuter
+49345	
+49348	
+49351	feminine
+49353	masculine
+49355	neuter
+49358	
+masculine/neuter
+
+49362	
+49366	masculine/neuter
+49368	
+49370	neuter
+49372	feminine
+49374	
+49382	neuter
+49387	
+49390	
+neuter
+masculine
+
+49395	
+neuter
+49398	
+49400	neuter
+49402	masculine
+49405	
+49408	masculine/neuter
+49413	
+neuter
+
+49418	
+49424	
+
+49427	masculine
+
+49431	
+49434	
+
+49438	
+neuter
+49443	
+neuter
+49451	
+feminine
+neuter
+49455	
+
+neuter
+49461	
+
+49466	
+49468	
+
+49476	
+
+masculine
+49480	
+masculine
+49488	
+49490	feminine
+49494	
+49497	feminine
+49500	masculine
+
+
+49505	
+
+49508	
+
+49514	masculine
+49519	neuter
+49523	
+49527	
+49530	
+
+49534	
+49536	
+49541	neuter
+49543	
+49545	
+masculine
+49550	
+49553	neuter
+49555	
+
+49558	
+49561	neuter
+49566	feminine
+
+49571	
+masculine
+
+
+feminine
+neuter
+49578	
+
+49582	masculine
+49584	feminine
+
+49589	
+masculine
+masculine
+49593	neuter
+masculine
+49596	masculine
+49599	
+49602	
+masculine
+49605	neuter
+49609	
+neuter
+49614	
+49616	
+49624	
+49630	feminine
+49632	
+
+
+49636	
+masculine
+neuter
+49641	
+49648	neuter
+49655	masculine
+49659	
+49662	
+49669	neuter
+masculine
+49678	neuter
+masculine
+
+49682	
+masculine
+neuter
+49694	
+49697	
+49699	feminine
+49702	neuter
+49704	
+49706	neuter
+masculine
+
+49710	
+49712	neuter
+49721	
+49727	
+49731	masculine
+
+
+
+49736	masculine
+
+49741	
+49747	
+49752	masculine
+49756	
+49758	neuter
+49762	
+49764	masculine
+49771	
+49773	
+feminine
+49777	
+49782	
+49785	
+49788	
+masculine
+49791	
+49794	
+masculine
+neuter
+
+neuter
+49803	masculine
+
+49809	
+neuter
+49812	
+
+49816	
+
+49819	
+masculine
+49822	
+49824	
+
+masculine
+
+49829	masculine
+
+49832	
+49834	masculine/feminine
+49836	
+49838	
+49840	feminine
+feminine
+
+
+49851	
+
+49859	
+
+feminine
+49863	feminine
+49865	
+49868	
+feminine
+49871	feminine
+49873	
+feminine
+49876	
+masculine
+49882	neuter
+masculine
+49885	masculine
+feminine
+
+
+49893	
+
+feminine
+49897	
+masculine
+49905	
+49907	neuter
+masculine
+49910	
+49912	masculine
+49916	feminine
+
+49919	
+feminine
+49922	
+49924	
+49927	
+
+
+49931	
+49935	feminine
+49937	
+49941	masculine
+feminine
+49944	masculine
+masculine
+49947	
+masculine/feminine
+
+49951	neuter
+masculine
+49955	feminine
+49960	feminine
+
+49963	
+49965	
+49968	
+
+49971	masculine
+49974	
+49977	neuter
+49986	
+49988	masculine
+49990	
+49992	masculine
+49996	
+49998	neuter
+neuter
+50002	
+50006	masculine
+50008	neuter
+50010	
+50015	neuter
+50019	neuter
+50021	feminine
+50024	
+
+50027	
+neuter
+masculine
+
+feminine
+50033	feminine
+50037	
+
+50041	
+50043	masculine
+feminine
+
+50049	
+50053	feminine
+50055	
+50057	masculine
+50060	masculine
+feminine
+
+50068	feminine
+feminine
+50071	
+50075	masculine
+50078	
+50080	neuter
+masculine
+50083	
+
+
+masculine/feminine/neuter
+50089	feminine
+50102	masculine
+50106	
+masculine/feminine/neuter
+feminine
+50113	feminine
+50117	
+feminine
+50122	masculine
+50129	
+
+50134	
+50137	
+50143	masculine
+feminine
+
+
+50149	neuter
+50151	
+
+masculine/neuter
+50156	
+50158	masculine
+50161	neuter
+50166	masculine/feminine
+
+50170	
+masculine
+50173	
+50180	
+50185	neuter
+50187	masculine
+50194	neuter
+feminine
+50199	
+50206	
+50208	
+
+
+50212	
+
+50217	feminine
+50219	masculine
+feminine
+
+
+50224	
+50228	masculine
+50230	
+50233	
+neuter
+masculine
+
+50238	
+
+50242	
+
+50245	
+50247	
+50250	
+50253	
+50255	
+feminine
+feminine
+feminine
+
+50262	masculine
+50267	feminine
+50273	
+50279	
+50281	
+
+50287	
+
+
+50291	
+50300	masculine
+50302	masculine
+50309	
+50312	
+
+50315	
+50320	masculine
+50322	feminine
+feminine
+50325	feminine
+50328	neuter
+50331	neuter
+50334	
+
+masculine
+50338	
+50340	feminine
+feminine
+
+masculine
+neuter
+50350	masculine
+50353	feminine
+
+
+
+50359	neuter
+50361	
+masculine
+50365	masculine
+50368	masculine
+
+50374	
+50379	
+masculine
+feminine
+feminine
+
+masculine
+neuter
+50389	
+50394	masculine
+50396	
+50398	feminine
+
+
+50412	
+50418	
+
+masculine
+
+feminine
+50429	
+50433	
+50437	
+
+50442	
+50446	neuter
+50449	
+50451	
+50454	
+50456	
+masculine
+50460	
+masculine
+50463	
+50466	
+neuter
+50469	
+50475	feminine
+feminine
+
+masculine
+
+50481	
+50486	
+50490	masculine/neuter
+50492	
+
+feminine
+50496	
+
+50500	
+
+neuter
+
+
+feminine
+50510	
+
+50514	
+50516	neuter
+50518	
+
+
+neuter
+50523	
+
+50527	masculine
+
+50531	
+50533	
+50536	
+50539	
+
+50543	neuter
+50545	
+50547	
+
+neuter
+50553	neuter
+50561	neuter
+50565	neuter
+50567	
+50570	
+50572	
+
+neuter
+50578	neuter
+50582	
+50586	
+50592	neuter
+50595	
+neuter
+50598	
+50602	neuter
+50605	
+50607	
+50609	
+
+50613	
+50615	
+
+
+50621	feminine
+50623	
+50626	
+
+50632	masculine
+feminine
+50637	
+50640	
+50642	feminine
+feminine
+feminine
+50648	neuter
+feminine
+50651	
+50663	feminine
+50665	
+neuter
+50668	masculine
+50670	feminine
+50677	
+feminine
+50680	
+
+
+50684	feminine
+50688	neuter
+masculine
+50691	masculine
+feminine
+
+
+50702	feminine
+50705	
+50710	
+masculine
+50713	
+50715	
+50717	feminine
+
+50726	
+50728	
+50737	feminine
+50749	neuter
+50753	
+50755	
+
+
+50762	
+50770	
+50773	
+50775	masculine
+50779	neuter
+50785	
+
+50790	
+
+
+50796	neuter
+masculine
+50799	
+50803	
+neuter
+
+50810	neuter
+50813	
+50815	neuter
+50818	feminine
+
+50822	feminine
+50825	
+50829	feminine
+50831	feminine
+feminine
+50835	
+50840	neuter
+50843	
+50846	neuter
+50859	
+neuter
+50862	
+
+50865	
+50869	
+50873	
+50877	
+50880	neuter
+50882	
+50886	
+neuter
+50889	masculine/feminine
+50894	neuter
+50896	feminine
+50898	
+
+
+50904	
+
+50908	neuter
+50910	
+50914	neuter
+
+
+50919	
+neuter
+50922	
+50925	
+
+neuter
+neuter
+50931	
+50935	
+50937	feminine
+
+
+
+
+50944	
+50947	neuter
+masculine
+
+50951	masculine
+50953	
+masculine
+50956	feminine
+
+50960	
+50963	masculine
+50968	masculine
+feminine
+
+
+50977	
+50979	feminine
+
+50984	feminine
+50989	
+50993	feminine
+50995	masculine
+
+51002	
+51004	
+
+51008	
+
+51011	neuter
+51013	masculine
+51022	
+
+
+
+feminine
+51032	
+51034	
+51036	neuter
+masculine
+51041	masculine
+51043	feminine
+
+51046	
+51050	masculine
+51052	
+51055	feminine
+51057	feminine
+51059	
+51064	
+51072	
+51075	
+masculine
+51078	
+51080	
+51083	feminine
+
+
+51089	neuter
+masculine
+masculine
+51096	
+51101	
+masculine
+51104	masculine
+
+51107	masculine
+51110	
+51116	
+51118	
+51122	masculine
+51126	
+
+51129	masculine/neuter
+51133	masculine/feminine
+51138	
+
+
+51142	masculine
+
+
+51146	feminine
+51148	
+
+masculine
+51152	
+51155	neuter
+masculine
+51158	
+51161	
+51165	
+
+51168	
+51170	
+51176	
+
+51180	
+51187	
+51189	
+51192	
+
+neuter
+
+51198	feminine
+51200	masculine
+51213	
+51215	
+neuter
+51218	
+masculine/neuter
+51221	
+51223	
+feminine
+51227	
+51229	
+
+
+51233	neuter
+masculine
+masculine
+51237	
+
+51240	
+51243	
+51248	
+51251	masculine/neuter
+51254	
+51256	
+51258	feminine
+51260	masculine
+masculine
+
+51264	
+51266	masculine
+51268	masculine/neuter
+
+
+neuter
+51273	
+51276	
+
+
+51281	neuter
+51284	
+
+
+51288	neuter
+masculine
+51293	
+51295	
+
+51298	
+
+neuter
+51303	
+51305	
+
+feminine
+51309	
+51312	
+51314	
+51316	
+
+feminine
+neuter
+51322	masculine
+51324	
+51326	
+51330	
+masculine
+51333	feminine
+
+
+feminine
+
+51340	feminine
+51343	neuter
+51346	
+51348	masculine
+51351	neuter
+51355	masculine
+
+51359	feminine
+
+
+
+51364	feminine
+51366	
+
+51370	neuter
+masculine
+masculine
+51374	
+51377	masculine/feminine
+51379	
+51381	neuter
+masculine
+51385	neuter
+masculine
+masculine
+feminine
+51392	masculine
+feminine
+
+51397	
+51403	
+51406	
+51411	
+51414	feminine
+51416	feminine
+51420	
+51424	
+51431	
+51433	neuter
+feminine
+51436	feminine
+51439	neuter
+masculine
+51449	
+
+51454	masculine
+feminine
+masculine
+51458	masculine/feminine
+neuter
+51461	
+51465	
+51470	
+
+51473	masculine
+feminine
+51477	masculine
+51482	
+51484	neuter
+masculine
+51487	feminine
+51490	
+51492	feminine
+
+51497	
+
+51500	masculine
+51503	
+
+51509	neuter
+51512	
+
+
+
+51518	masculine/neuter
+51520	
+51522	
+
+feminine
+
+51528	
+neuter
+51534	
+51536	
+
+neuter
+51540	neuter
+masculine
+
+
+51545	neuter
+51547	
+51550	neuter
+51554	
+51557	neuter
+masculine
+51561	neuter
+51565	feminine
+51571	
+51575	
+51578	feminine
+51587	
+51591	feminine
+51597	
+
+51600	neuter
+feminine
+51603	
+51608	masculine
+51612	
+51619	feminine
+51622	masculine/feminine
+51624	feminine
+51627	
+51631	
+
+51634	feminine
+51636	feminine
+feminine
+51643	
+
+51648	neuter
+51650	
+
+51656	feminine
+51659	
+51661	feminine
+51664	masculine
+51666	
+51668	
+51670	
+51672	
+51674	
+
+51678	
+51680	feminine
+51683	masculine
+51685	neuter
+51687	feminine
+
+
+51691	
+51693	
+51698	
+51704	
+51706	feminine
+51708	feminine
+51710	
+51714	feminine
+
+51718	
+neuter
+51722	
+51725	
+
+masculine
+51732	
+51734	feminine
+51741	
+51743	
+
+51750	
+51752	neuter
+masculine
+51756	neuter
+51758	feminine
+51761	
+51765	
+51768	neuter
+51770	masculine
+
+51775	masculine
+51777	
+51779	neuter
+masculine
+51782	neuter
+51784	masculine/neuter
+
+51787	neuter
+51789	
+51792	
+51794	neuter
+masculine
+51798	
+51800	
+51802	masculine
+
+51806	masculine
+
+neuter
+masculine/feminine
+
+
+51815	
+51817	feminine
+
+
+
+51822	neuter
+51825	
+
+
+51829	
+51831	neuter
+51835	neuter
+51837	
+51841	
+
+
+51845	neuter
+masculine
+neuter
+51849	masculine/neuter
+
+51855	feminine
+neuter
+
+
+51864	
+neuter
+masculine
+51871	
+51873	feminine
+51876	
+51879	masculine
+51882	masculine
+
+51887	
+51894	feminine
+feminine
+51901	
+51906	masculine/neuter
+masculine
+masculine
+feminine
+51912	
+51914	
+51917	
+51920	
+51927	neuter
+51929	masculine
+feminine
+51934	
+51936	masculine/feminine
+51942	
+51950	masculine
+
+
+51954	
+
+51957	feminine
+neuter
+masculine
+masculine
+51963	
+51965	
+51967	
+
+51971	masculine/feminine
+51973	
+51975	neuter
+masculine
+masculine
+51980	
+51986	
+51988	
+51991	
+51998	
+52000	
+52002	neuter
+masculine
+
+
+52008	masculine/neuter
+52010	
+52012	
+52014	masculine/feminine
+neuter
+52021	
+52024	
+52027	
+52030	feminine
+
+52033	masculine
+52035	
+52042	masculine
+
+52048	
+52050	neuter
+52053	neuter
+52056	
+
+52060	masculine/neuter
+52062	
+52067	neuter
+52069	neuter
+52071	masculine
+
+52074	
+neuter
+52082	neuter
+52084	masculine
+
+
+52088	
+
+52095	neuter
+masculine
+
+
+masculine/feminine/neuter
+52101	
+52103	feminine
+masculine/feminine
+52107	
+52110	neuter
+masculine
+52113	feminine
+52115	neuter
+52118	
+52121	
+masculine
+52124	neuter
+52127	neuter
+52129	feminine
+52132	masculine
+52136	
+52138	
+
+52141	neuter
+52145	neuter
+52148	feminine
+52151	masculine
+52153	feminine
+52159	masculine
+52161	
+
+52165	
+52168	
+52171	
+
+52174	masculine
+neuter
+52177	masculine
+
+
+52182	neuter
+masculine
+52185	
+52187	feminine
+feminine
+
+
+52192	masculine
+neuter
+52199	
+52202	
+52205	masculine
+feminine
+52208	
+52210	
+52213	neuter
+52215	masculine
+
+neuter
+52220	
+52224	neuter
+masculine/neuter
+52227	feminine
+52229	
+52233	
+52241	neuter
+52243	
+52245	
+52247	
+52250	neuter
+52254	
+
+52257	neuter
+52259	
+52261	
+52264	feminine
+
+
+52270	
+52274	
+52277	neuter
+52279	masculine
+52283	
+52289	feminine
+feminine
+
+
+
+neuter
+52298	feminine
+52301	
+52304	
+
+neuter
+52308	
+52312	
+
+52315	
+
+
+52319	
+feminine
+feminine
+
+
+
+52326	
+52330	
+masculine
+
+
+52335	
+
+
+
+
+52341	masculine
+52343	
+52346	neuter
+52348	
+
+
+52354	
+52357	
+52359	
+52362	
+52367	
+52369	
+52372	
+52374	
+52376	
+
+
+52380	masculine
+
+52384	
+52386	
+
+52390	masculine
+feminine
+feminine
+52394	
+masculine/neuter
+52397	masculine
+feminine
+feminine
+52401	
+masculine/neuter
+52413	
+52415	feminine
+52417	feminine
+feminine
+neuter
+52421	
+52423	
+52425	feminine
+52428	
+52430	feminine
+
+52434	neuter
+52436	
+52439	feminine
+neuter
+52444	masculine/feminine
+52447	neuter
+masculine/feminine
+52450	
+52452	
+
+masculine/feminine
+52456	feminine
+neuter
+52459	
+52461	
+52467	
+52469	feminine
+52473	neuter
+
+52478	
+52480	
+52485	
+neuter
+52488	neuter
+52497	
+
+
+52501	
+52504	
+52507	neuter
+
+52510	feminine
+52513	feminine
+
+52516	neuter
+52519	
+feminine
+feminine
+feminine
+52524	feminine
+
+
+52528	
+
+neuter
+52533	
+52535	neuter
+52540	
+52542	
+52545	
+52550	
+52555	
+52557	
+
+
+52561	
+52568	
+
+52571	masculine
+
+52574	
+
+52577	
+neuter
+52582	
+feminine
+52586	
+52589	
+52594	
+
+
+neuter
+52601	
+52603	feminine
+
+52606	
+
+
+52610	
+
+52615	
+
+52618	
+52623	
+52625	neuter
+52627	
+
+
+52631	
+
+52635	
+
+52638	
+
+neuter
+feminine
+52645	
+52647	neuter
+
+
+
+52652	
+52654	
+
+52657	
+masculine/neuter
+52663	neuter
+masculine/feminine/neuter
+masculine/neuter
+masculine
+
+52671	
+52676	
+
+52680	
+52683	
+52686	
+52689	
+
+52692	masculine/neuter
+52698	neuter
+masculine
+
+52702	masculine
+52704	feminine
+52712	
+52714	feminine
+feminine
+feminine
+
+52720	masculine/neuter
+52723	
+52726	masculine
+52732	feminine
+
+
+52739	feminine
+52742	masculine
+
+52747	neuter
+masculine
+52750	masculine
+
+52757	
+52759	neuter
+
+52768	
+52777	
+52779	neuter
+52791	
+
+52797	feminine
+
+masculine
+neuter
+52803	
+52808	
+52815	
+52819	
+52821	
+neuter
+masculine
+52826	feminine
+
+
+52832	
+
+52835	
+52837	masculine
+52841	
+52847	neuter
+masculine
+52854	masculine
+52861	
+52864	
+52867	
+
+feminine
+52875	
+52886	masculine
+52889	feminine
+feminine
+52893	masculine
+52895	feminine
+52898	
+52900	
+
+52905	neuter
+52907	neuter
+52909	
+52912	masculine
+52915	
+feminine
+52926	
+52931	
+52933	neuter
+52936	masculine
+feminine
+
+52944	
+52947	
+52949	masculine
+
+52953	neuter
+
+52961	neuter
+masculine
+
+52966	
+52972	
+52974	masculine/neuter
+52976	
+52981	neuter
+52984	masculine
+52987	
+52992	neuter
+52994	
+52999	
+53004	
+53008	
+53015	
+53019	
+neuter
+53022	neuter
+53024	
+53026	masculine
+53028	
+53032	
+53034	
+53036	neuter
+53038	
+53043	
+neuter
+masculine
+
+53049	
+
+masculine
+feminine
+
+53055	
+53061	
+53068	
+masculine/neuter
+
+53073	neuter
+53075	
+masculine
+53080	
+masculine
+feminine
+
+53086	
+feminine
+53091	
+53099	
+53101	masculine
+
+53105	
+53108	
+53110	neuter
+masculine
+53113	
+feminine
+feminine
+
+
+
+53121	
+53123	feminine
+53125	
+53129	masculine
+53132	
+53138	
+53142	feminine
+
+
+neuter
+53147	neuter
+53149	
+
+
+
+53155	neuter
+53158	neuter
+53160	
+53165	
+53168	feminine
+53170	
+
+
+masculine
+53175	
+53180	masculine
+
+
+53185	
+53189	
+53201	masculine
+53204	masculine
+53206	masculine/neuter
+53210	
+53212	
+53218	
+
+53223	
+53226	neuter
+masculine
+feminine
+feminine
+
+
+53233	masculine
+
+
+53239	
+
+53242	neuter
+53245	
+
+53250	
+
+53254	neuter
+53257	
+
+53260	neuter
+53263	
+
+53266	
+
+
+53270	
+53274	masculine
+53277	masculine/feminine
+53281	
+53283	neuter
+masculine
+53287	neuter
+53291	neuter
+53297	
+53299	neuter
+53301	
+53305	
+53308	
+
+
+53316	
+neuter
+53319	
+53321	neuter
+53325	
+53333	
+
+
+53338	
+
+53342	
+53344	feminine
+53347	
+53349	feminine
+
+53357	feminine
+
+53362	neuter
+53364	
+53367	
+
+
+
+
+53373	
+53375	
+feminine
+53381	feminine
+
+53387	neuter
+53393	
+53395	
+
+neuter
+53399	
+53402	
+53404	
+feminine
+53408	masculine
+53411	
+
+
+53416	neuter
+53418	neuter
+
+53421	
+
+53424	
+53428	masculine
+neuter
+53432	
+53434	
+53440	
+53442	
+
+53445	
+
+53448	
+masculine
+53451	
+53453	masculine
+
+53456	feminine
+53458	masculine
+53462	neuter
+53464	neuter
+53466	neuter
+53469	feminine
+53471	masculine
+
+53474	
+53476	
+feminine
+53480	
+53483	feminine
+53487	
+53489	neuter
+
+neuter
+
+53495	neuter
+53500	
+53503	
+53505	
+53507	neuter
+53509	neuter
+
+
+53513	
+53516	feminine
+feminine
+
+
+neuter
+53522	
+
+neuter
+53527	neuter
+53531	masculine
+53533	masculine/neuter
+53535	
+53537	
+53544	neuter
+53546	neuter
+53548	
+
+53553	
+
+
+53558	
+53561	neuter
+53563	neuter
+neuter
+neuter
+53567	
+
+
+neuter
+53572	
+53575	
+
+
+
+53582	neuter
+53588	feminine
+53594	
+
+53601	masculine
+53603	masculine
+
+masculine
+53607	masculine/feminine
+53610	
+53612	
+53615	neuter
+masculine
+feminine
+feminine
+
+
+neuter
+53625	
+
+
+
+
+53631	
+
+53636	
+
+
+53640	neuter
+53644	
+53646	masculine
+53650	
+
+neuter
+masculine
+
+53657	
+feminine
+feminine
+53663	masculine/feminine
+53670	masculine/feminine
+53672	masculine
+neuter
+53677	
+53679	masculine
+53683	
+
+
+masculine
+
+53692	neuter
+neuter
+53695	masculine
+
+feminine
+53701	neuter
+53705	
+53710	neuter
+53712	neuter
+
+
+
+53719	masculine
+53723	neuter
+53728	
+
+53733	
+
+53737	
+53744	feminine
+
+neuter
+53749	neuter
+53753	masculine
+
+53758	neuter
+masculine
+
+53762	
+53766	masculine
+feminine
+
+
+53772	feminine
+53774	neuter
+53776	
+53779	
+
+53783	
+53790	
+feminine
+53794	
+53796	feminine
+53798	feminine
+53801	
+53808	
+
+masculine/neuter
+
+masculine/feminine
+53817	
+53819	neuter
+masculine
+
+
+masculine
+53829	neuter
+53833	
+neuter
+53837	
+
+53840	masculine
+53844	neuter
+53850	
+53856	feminine
+
+53859	
+feminine
+
+53865	
+masculine
+
+53869	neuter
+masculine
+53873	masculine
+53876	
+53878	
+53880	masculine
+53882	masculine
+53884	masculine/feminine
+53889	
+53895	
+53897	
+neuter
+masculine/feminine/neuter
+
+
+
+53904	neuter
+masculine
+53908	feminine
+53911	
+53913	
+masculine/neuter
+53918	
+53921	masculine
+53933	feminine
+53937	neuter
+masculine
+
+53941	feminine
+53945	
+53949	
+53952	masculine
+53954	
+
+53958	feminine
+53961	masculine
+feminine
+53964	
+53968	masculine
+53970	
+
+53974	
+
+53980	masculine
+feminine
+masculine/neuter
+
+feminine
+53986	
+feminine
+53992	
+53994	
+53996	
+53998	
+
+54001	
+54004	neuter
+neuter
+
+54008	
+54010	masculine
+54012	
+54014	
+54016	
+54019	neuter
+masculine
+neuter
+54023	neuter
+54027	neuter
+54030	neuter
+54034	masculine/feminine
+54036	masculine
+neuter
+54040	feminine
+54043	
+
+54046	
+54048	
+
+feminine
+54052	
+feminine
+54056	
+
+54063	
+54067	
+neuter
+54078	
+54080	feminine
+
+54084	masculine
+54086	
+
+54095	masculine
+
+
+
+54100	masculine
+54105	
+54107	
+54109	
+54116	
+
+54119	
+54122	masculine
+54124	
+
+54128	
+54130	
+54132	
+
+54138	
+54141	
+feminine
+54146	masculine
+
+54153	masculine
+
+54156	neuter
+54161	masculine
+54163	masculine
+
+54170	
+54173	masculine
+54175	
+
+feminine
+54181	feminine
+
+
+54186	neuter
+54188	
+54190	feminine
+
+54199	
+
+54202	
+54206	
+neuter
+54210	masculine
+54212	
+54214	masculine
+
+neuter
+54218	
+54220	
+
+54225	masculine/feminine
+54228	neuter
+
+54234	masculine
+54236	
+54241	
+masculine/neuter
+
+54248	
+
+
+neuter
+54253	neuter
+
+54256	masculine
+
+
+
+masculine
+54262	
+54264	neuter
+masculine
+54269	
+feminine
+54272	masculine
+
+
+54276	
+54278	
+54280	
+masculine
+54288	
+54290	
+54292	
+
+54296	
+54300	
+neuter
+54303	masculine
+
+
+
+masculine
+54309	neuter
+54311	
+54314	
+54317	
+54319	feminine
+54322	
+54324	
+54333	
+54335	
+
+
+54341	
+masculine
+
+54346	masculine
+54348	
+54351	neuter
+masculine
+
+54355	
+
+54358	neuter
+54360	masculine
+54365	
+54367	
+54369	
+
+masculine/feminine/neuter
+54373	neuter
+masculine
+54376	masculine
+masculine
+
+54380	
+
+54391	neuter
+54397	
+54399	
+54401	
+54403	
+54411	
+54419	
+54422	feminine
+
+
+54426	
+
+54431	
+54434	
+neuter
+masculine
+54438	
+54440	neuter
+feminine
+
+54445	
+54447	masculine
+54449	
+
+54453	
+54456	
+masculine
+54460	masculine
+54462	
+54466	
+54468	neuter
+masculine
+54472	masculine
+54474	masculine/neuter
+54477	
+54493	
+54495	
+54497	masculine
+54505	
+54511	
+54513	
+54524	neuter
+54528	
+54540	
+54542	
+54545	
+feminine
+54552	neuter
+masculine
+54555	
+masculine
+neuter
+54565	neuter
+54567	
+54570	
+feminine
+neuter
+
+54577	
+54583	
+54585	
+54587	
+54590	masculine
+54592	
+54596	
+54598	
+masculine
+54603	
+
+54608	masculine
+54610	
+54614	neuter
+54616	
+
+54620	neuter
+masculine
+masculine
+54624	
+masculine
+54629	feminine
+neuter
+masculine
+54634	feminine
+neuter
+
+
+54639	
+54648	
+54651	neuter
+masculine
+feminine
+54656	
+
+54661	
+54664	
+feminine
+
+54677	masculine
+54685	
+54688	neuter
+54693	
+masculine
+54700	
+54702	
+neuter
+54705	
+54708	masculine
+54710	masculine
+54713	
+54718	
+54720	
+54722	
+54726	
+neuter
+54730	neuter
+54736	
+
+54741	neuter
+54748	
+feminine
+masculine
+neuter
+54753	masculine/neuter
+
+54757	neuter
+54759	
+masculine
+54762	
+54766	
+
+54769	neuter
+54771	masculine
+54776	feminine
+
+neuter
+54780	
+
+54784	feminine
+54788	feminine
+54791	
+54794	
+masculine
+54798	
+54802	masculine
+
+54807	
+54809	neuter
+54812	neuter
+54818	
+54821	
+54823	masculine
+54826	masculine
+54831	
+
+54837	
+54839	
+54843	feminine
+54848	
+54850	
+
+feminine
+masculine/feminine
+54861	masculine
+54864	
+54870	
+neuter
+54873	masculine
+
+54876	
+54879	
+54882	
+54884	masculine
+54888	
+54891	neuter
+54893	masculine/neuter
+masculine
+54902	
+54905	
+54908	masculine
+54923	feminine
+54925	masculine
+54929	neuter
+masculine
+54932	feminine
+54934	
+54939	neuter
+masculine
+54943	masculine
+54947	
+54949	
+54952	
+54954	masculine
+
+masculine/neuter
+54958	masculine
+
+feminine
+54962	
+54964	masculine/feminine
+
+54968	neuter
+masculine
+
+54972	masculine
+
+54977	
+54982	neuter
+masculine
+masculine
+54989	
+
+neuter
+54996	
+
+54999	feminine
+55001	
+55006	
+55009	masculine
+55013	neuter
+
+feminine
+neuter
+masculine/neuter
+55020	masculine/feminine
+
+masculine
+55024	
+55028	
+55031	masculine/feminine
+55033	feminine
+neuter
+55036	
+
+
+55042	
+55046	
+
+55049	
+55051	
+55053	
+55055	
+
+55059	
+55062	neuter
+
+55066	feminine
+55068	feminine
+feminine
+55072	
+55079	neuter
+55083	
+
+
+55087	
+55090	
+55093	feminine
+neuter
+masculine/feminine
+55099	neuter
+masculine/feminine
+55104	
+55106	
+neuter
+55111	
+55116	neuter
+55118	masculine/neuter
+
+masculine
+55123	
+55128	
+55135	
+55138	feminine
+55141	
+
+55145	
+
+masculine/feminine/neuter
+55150	
+55152	
+55155	feminine
+
+
+
+55163	
+55168	
+55171	masculine/neuter
+55175	
+55178	
+55180	
+55182	masculine
+55184	
+55187	
+
+55191	
+55194	
+55197	
+55202	
+
+55207	
+55212	
+
+
+55219	
+
+55222	
+55224	
+
+55227	
+55230	masculine/neuter
+neuter
+55235	
+55239	
+55242	masculine/neuter
+
+55248	
+
+55251	neuter
+masculine
+55254	
+55258	
+
+feminine
+
+55263	masculine/neuter
+55268	neuter
+55271	masculine/feminine
+55273	masculine
+feminine
+55277	
+55279	
+
+55285	
+55289	
+
+55292	neuter
+masculine
+55298	
+
+55302	
+55308	
+55310	
+55314	neuter
+55317	
+55319	neuter
+55323	
+55326	
+55329	
+55331	feminine
+feminine
+55334	
+55337	
+55341	
+55343	
+55345	neuter
+masculine
+55352	neuter
+55355	
+
+55358	
+55361	feminine
+55363	
+55367	feminine
+55369	feminine
+feminine
+
+feminine
+
+55383	
+55385	masculine
+
+masculine/feminine
+55389	
+55391	neuter
+masculine
+feminine
+feminine
+
+
+
+55399	neuter
+masculine
+55407	neuter
+55411	
+
+55415	
+55418	neuter
+55420	
+
+55424	neuter
+55426	neuter
+55428	feminine
+
+55431	
+
+
+
+55437	
+
+
+55441	
+
+neuter
+55445	neuter
+55448	
+
+
+feminine
+55454	neuter
+
+feminine
+
+55461	feminine
+55463	neuter
+
+55466	
+
+55469	neuter
+55471	neuter
+55473	masculine/neuter
+55476	
+55478	neuter
+masculine
+
+55482	
+55484	
+feminine
+55487	
+55489	
+55492	
+55494	
+55498	feminine
+
+55503	neuter
+
+
+55509	
+55511	
+feminine
+55514	
+55516	masculine/neuter
+neuter
+55524	feminine
+55528	masculine
+
+55531	neuter
+masculine
+
+neuter
+55537	masculine/neuter
+
+55540	
+55545	
+
+55549	
+
+55559	feminine
+55562	feminine
+55564	feminine
+55566	
+
+55569	
+55577	
+55579	
+
+
+55584	
+
+55587	masculine/neuter
+
+55592	
+55596	
+55598	feminine
+55600	
+
+55604	feminine
+
+55608	
+55613	feminine
+
+
+
+55619	neuter
+55621	
+55624	
+55626	feminine
+
+55629	
+55632	
+masculine/neuter
+neuter
+55638	
+feminine
+
+feminine
+55645	
+55647	neuter
+55650	
+
+feminine
+55654	
+
+55657	feminine
+55661	
+
+55664	
+
+55667	
+
+masculine
+55672	neuter
+55675	masculine
+
+55678	
+55680	
+55683	neuter
+
+
+masculine
+55688	neuter
+55690	
+
+
+55698	
+55703	
+55705	
+55708	neuter
+
+55711	neuter
+feminine
+feminine
+
+
+neuter
+55721	
+55725	
+
+55729	neuter
+55731	masculine
+55735	
+neuter
+
+55741	masculine
+
+55745	masculine
+neuter
+55751	
+55755	
+
+55762	
+
+55765	masculine/neuter
+55770	masculine
+
+55773	masculine/feminine
+neuter
+55776	
+masculine
+neuter
+55780	
+55782	feminine
+
+55788	neuter
+55791	neuter
+55796	
+
+55799	masculine/neuter
+55807	
+55810	
+
+55813	
+55815	
+masculine/feminine
+
+
+
+
+55825	
+masculine
+55828	neuter
+55830	masculine/neuter
+55833	
+55835	feminine
+55837	feminine
+55842	neuter
+55844	masculine
+55849	masculine
+55851	
+55855	
+55857	masculine
+feminine
+feminine
+
+
+55867	
+55869	
+55874	masculine
+55880	
+masculine/feminine/neuter
+feminine
+masculine
+55892	masculine
+feminine
+
+masculine
+55900	
+masculine
+
+
+55907	
+masculine
+55913	masculine
+
+
+55919	feminine
+55921	
+
+
+55925	feminine
+
+55928	feminine
+55930	
+55933	feminine
+neuter
+55938	
+55940	masculine
+55943	
+
+55946	
+55949	
+
+55954	
+55956	
+55959	
+55963	
+55970	
+55972	
+
+
+55977	
+55985	
+55989	masculine
+55993	masculine
+55998	
+
+
+
+56005	neuter
+56008	masculine
+
+
+
+56014	
+
+56017	
+masculine/feminine
+56022	
+
+56026	
+56029	
+56032	masculine/neuter
+masculine
+56035	
+56037	neuter
+56039	neuter
+masculine
+masculine
+56043	
+56050	
+56052	
+
+
+56058	
+56065	neuter
+56070	
+56072	
+
+56079	
+56081	
+56084	
+
+feminine
+56089	
+neuter
+masculine
+56094	
+56102	masculine
+56104	
+56106	neuter
+56108	
+56117	
+56120	
+56125	
+56129	neuter
+
+neuter
+56133	
+56137	
+
+
+
+masculine
+56144	feminine
+feminine
+56148	feminine
+
+
+56152	
+56154	
+56159	masculine
+56161	
+
+56164	masculine/neuter
+56167	neuter
+56169	
+
+56176	masculine
+56179	
+
+
+56185	feminine
+56189	
+
+
+56196	masculine
+56199	neuter
+56201	masculine/neuter
+56204	
+
+56208	
+56210	neuter
+56212	
+56214	masculine
+
+
+56218	neuter
+
+
+56223	neuter
+56225	masculine/neuter
+56227	
+56230	
+56233	neuter
+56235	
+
+56239	
+56244	
+56248	
+56252	
+56254	neuter
+masculine
+
+
+
+56262	
+56265	masculine
+56268	neuter
+56271	
+masculine
+56274	feminine
+feminine
+56277	masculine
+
+
+neuter
+
+56283	
+56285	
+56291	
+56293	
+56296	neuter
+56299	
+
+
+56303	
+
+56306	neuter
+56310	
+56313	
+56317	
+neuter
+
+
+56325	neuter
+56329	
+masculine
+
+56333	masculine/neuter
+56336	
+56338	
+
+
+56346	
+56351	
+
+feminine
+56359	neuter
+56362	
+
+56366	
+masculine
+56369	feminine
+56371	
+
+56374	
+neuter
+56380	
+
+56383	
+neuter
+56387	
+56389	
+56395	
+56398	
+
+56406	
+
+neuter
+56414	neuter
+56416	masculine/feminine
+56420	feminine
+
+
+56426	
+56430	
+56434	
+56436	
+56438	
+56440	neuter
+
+56446	
+56448	neuter
+56450	
+56458	feminine
+56462	
+56464	masculine
+
+56468	
+56472	
+56475	
+56478	
+
+
+56483	
+feminine
+56487	masculine
+56489	
+
+56492	
+56494	neuter
+masculine
+feminine
+56500	neuter
+masculine
+56503	
+56506	neuter
+56510	masculine
+56515	
+neuter
+masculine
+
+56521	
+56527	masculine
+56532	masculine
+56534	
+56541	masculine
+56543	
+56546	neuter
+56548	masculine
+56551	
+56553	
+56555	neuter
+masculine
+
+
+
+56561	
+56566	
+
+56569	feminine
+neuter
+masculine/neuter
+
+feminine
+feminine
+
+
+neuter
+56580	feminine
+56582	
+
+56587	masculine
+
+56595	feminine
+neuter
+56599	feminine
+56601	
+56605	masculine
+56607	neuter
+56609	
+56611	feminine
+56614	
+
+56618	feminine
+feminine
+56621	
+56625	
+feminine
+56628	feminine
+feminine
+neuter
+
+56633	masculine
+56636	feminine
+56639	
+
+
+56644	
+56649	
+
+56653	
+
+56656	
+56658	masculine
+56663	
+
+56666	neuter
+masculine
+56672	masculine/feminine
+
+feminine
+56677	
+56680	neuter
+masculine
+feminine
+feminine
+
+
+
+56689	feminine
+
+56692	masculine
+56697	
+56699	
+56701	masculine
+56705	feminine
+feminine
+56710	feminine
+
+56713	
+neuter
+56716	
+56724	
+neuter
+56729	
+56732	
+56734	
+56736	
+56740	
+56743	
+56747	neuter
+56749	neuter
+56751	neuter
+56753	neuter
+56756	
+
+
+56761	masculine
+neuter
+56768	
+56771	feminine
+56773	feminine
+
+56779	
+feminine
+56785	neuter
+56788	feminine
+56791	
+56796	
+56800	masculine
+56803	neuter
+56805	neuter
+56809	feminine
+feminine
+56814	feminine
+feminine
+56819	neuter
+56821	masculine
+56827	
+56832	masculine
+56834	
+56836	
+feminine
+56842	
+56844	feminine
+
+56850	
+56852	
+56859	feminine
+56862	neuter
+56864	
+
+56869	
+56879	
+56886	
+
+
+56891	
+
+56900	neuter
+
+56904	feminine
+56907	
+56910	feminine
+56912	
+56914	
+56917	
+feminine
+neuter
+
+56924	
+
+
+
+56929	feminine
+56935	neuter
+masculine
+masculine
+56939	
+56942	feminine
+56944	
+56947	masculine
+
+56951	neuter
+masculine
+
+
+masculine/feminine/neuter
+
+56959	
+56964	masculine
+56967	
+56969	feminine
+
+56972	
+masculine/neuter
+56975	
+56977	
+neuter
+masculine
+
+masculine/feminine
+
+
+56985	neuter
+masculine
+
+
+56991	
+feminine
+56994	feminine
+56996	
+
+
+57000	
+57004	
+57006	
+
+57010	
+
+57013	
+57016	masculine
+57018	feminine
+feminine
+57021	feminine
+feminine
+57024	
+57027	masculine
+57029	feminine
+57033	masculine
+
+57036	
+neuter
+57041	
+
+57047	
+57049	feminine
+57054	neuter
+57058	
+57065	masculine
+57070	
+57074	neuter
+57076	neuter
+57080	
+masculine
+57086	
+57088	neuter
+masculine
+feminine
+57093	
+feminine
+57096	
+57098	feminine
+neuter
+masculine
+masculine
+57103	
+
+57106	masculine
+57109	masculine
+57113	masculine
+
+57118	
+57123	neuter
+masculine
+
+57127	neuter
+masculine
+57132	
+
+
+masculine/neuter
+
+57139	
+
+
+57143	
+57147	neuter
+57149	
+
+57154	masculine
+57156	feminine
+neuter
+57159	neuter
+57164	
+57168	
+
+57171	
+
+57174	
+
+57177	
+57179	
+feminine
+57182	
+57186	
+57188	
+57190	
+57192	
+57197	
+57199	
+57202	
+
+
+neuter
+57207	masculine
+
+
+feminine
+57215	
+57221	feminine
+feminine
+57225	
+
+57228	
+57232	
+57235	neuter
+57246	
+
+57251	
+57253	neuter
+57255	feminine
+
+57260	masculine/feminine
+
+57265	
+57268	
+57271	masculine
+57278	feminine
+57284	
+57287	feminine
+57290	masculine
+57293	feminine
+57296	
+57301	neuter
+57305	
+57307	feminine
+57311	feminine
+masculine
+
+57315	
+
+
+57319	neuter
+masculine
+
+57323	feminine
+57332	
+
+
+57337	neuter
+57339	
+
+57345	neuter
+masculine
+57356	
+57359	
+
+57364	
+57366	
+57369	feminine
+57373	
+57376	
+
+57381	
+57383	masculine
+feminine
+57388	masculine
+
+masculine
+57394	
+57396	
+masculine
+57401	
+57403	feminine
+neuter
+57406	
+
+57409	feminine
+57412	
+57415	
+
+57418	neuter
+neuter
+57422	
+
+57427	
+57432	
+57435	
+57439	
+57442	neuter
+57444	masculine/neuter
+57446	
+57449	
+57451	neuter
+57453	masculine
+feminine
+57456	masculine
+
+57462	neuter
+masculine
+57465	
+
+
+57471	
+57475	
+
+
+57480	
+57482	neuter
+masculine
+
+57490	feminine
+57493	
+57497	
+
+57501	
+57503	
+neuter
+masculine
+masculine/feminine
+57509	
+57515	
+57518	neuter
+masculine
+
+57523	
+feminine
+57526	
+
+57529	
+57535	
+57537	masculine/neuter
+57543	masculine
+57551	
+57554	
+57556	feminine
+57559	
+57561	
+masculine
+57568	
+
+57572	
+57574	feminine
+57578	masculine
+
+57583	
+57585	neuter
+57590	
+
+feminine
+
+
+57596	masculine
+
+masculine
+neuter
+57601	
+57603	neuter
+masculine
+57606	neuter
+57608	masculine/neuter
+
+57611	feminine
+57613	
+
+57616	
+57618	feminine
+
+57621	
+feminine
+
+57625	neuter
+masculine
+57629	feminine
+57632	feminine
+57634	neuter
+57636	
+57639	
+57643	neuter
+neuter
+57647	
+57651	
+
+57657	
+57659	
+masculine
+57663	
+57665	
+neuter
+masculine
+neuter
+57670	
+
+neuter
+
+57689	neuter
+57693	
+masculine
+57697	
+57708	neuter
+masculine
+
+57714	
+57716	
+
+57722	feminine
+57724	masculine
+57727	masculine
+57731	
+57735	masculine
+57740	
+57742	
+57748	
+
+
+57754	
+57756	feminine
+57759	
+57762	
+masculine
+feminine
+57766	
+
+57771	feminine
+57773	masculine
+
+57778	
+57781	neuter
+57783	masculine
+57785	
+57788	feminine
+57796	
+57802	
+57806	
+57808	masculine
+57811	
+57813	neuter
+masculine
+
+57817	masculine
+57819	feminine
+
+57823	
+57825	
+feminine
+neuter
+57831	neuter
+
+57835	
+
+
+57842	
+masculine
+57846	masculine
+
+57850	
+57853	
+57861	
+neuter
+masculine
+
+57867	
+57869	feminine
+57871	
+57874	masculine
+
+57880	
+57882	neuter
+masculine
+57885	
+masculine
+
+neuter
+57890	
+57892	
+
+
+
+57899	neuter
+57901	masculine
+57905	
+57907	
+57909	masculine/feminine/neuter
+masculine
+
+57917	
+57921	
+feminine
+57927	
+57930	
+57933	
+57937	
+57942	
+57944	neuter
+57954	feminine
+57956	
+57959	
+57961	neuter
+masculine
+57966	masculine/feminine
+57973	masculine
+masculine
+57980	masculine
+57982	
+57984	
+57986	
+57988	
+feminine
+57995	neuter
+57997	feminine
+
+masculine
+58002	masculine
+58005	masculine
+58009	
+58011	
+
+58014	neuter
+58016	feminine
+
+feminine
+neuter
+58024	
+
+58029	masculine
+
+58032	
+masculine/neuter
+58043	
+feminine
+58046	
+58048	
+
+
+
+58055	
+58057	
+
+
+58061	
+58065	
+58067	
+58071	neuter
+58074	
+58080	
+
+
+58084	
+
+
+58088	
+58090	masculine
+58093	
+58098	
+58104	feminine
+58106	
+
+feminine
+feminine
+58111	
+neuter
+58117	feminine
+58122	neuter
+58124	masculine
+58126	
+58128	
+58131	
+58134	
+58136	
+58139	
+
+58142	feminine
+58144	
+58148	feminine
+
+58155	masculine
+58159	
+58163	
+58165	
+58175	
+58177	feminine
+
+
+masculine/feminine/neuter
+58183	
+
+
+58188	
+
+58194	masculine
+58197	masculine
+58199	masculine
+58201	neuter
+58206	
+58210	neuter
+58212	masculine
+58215	feminine
+
+58219	
+58222	
+58225	
+58227	feminine
+masculine
+neuter
+58235	feminine
+58237	
+neuter
+58242	
+58245	masculine/neuter
+58248	feminine
+58253	
+58260	
+masculine
+58269	
+feminine
+58272	neuter
+58277	
+
+
+58282	neuter
+58286	feminine
+
+neuter
+58292	neuter
+58296	masculine
+58304	
+58308	
+58311	feminine
+58315	
+58317	
+58321	
+feminine
+feminine
+58325	
+58327	neuter
+masculine
+58332	
+58334	feminine
+
+58338	
+58344	
+58346	feminine
+58351	
+58354	neuter
+58359	masculine
+
+58366	feminine
+58377	
+58379	feminine
+58382	masculine
+58389	
+58395	masculine
+58398	
+58402	
+neuter
+58406	neuter
+58408	
+58412	
+58414	masculine
+
+58418	feminine
+feminine
+58421	feminine
+58424	
+
+58431	neuter
+58433	
+58435	masculine/neuter
+58437	neuter
+58439	
+58443	neuter
+masculine
+58452	masculine
+masculine
+58455	neuter
+
+neuter
+58459	masculine/neuter
+58464	
+58468	
+masculine
+feminine
+58472	neuter
+58474	
+58476	masculine
+58479	
+58481	
+58484	feminine
+58487	neuter
+58491	neuter
+58493	neuter
+58496	
+
+58502	
+58505	
+58508	feminine
+feminine
+58514	neuter
+58516	
+58523	masculine
+58526	neuter
+58529	
+
+58532	
+58534	
+neuter
+58537	
+
+58540	
+58543	
+58548	
+
+58551	
+58556	
+58560	feminine
+58564	masculine
+masculine
+58571	neuter
+58574	
+
+58578	masculine
+58582	
+
+masculine
+neuter
+58587	masculine
+58590	masculine
+
+feminine
+
+58596	neuter
+58598	
+
+feminine
+feminine
+
+
+neuter
+58606	neuter
+58608	
+
+58611	
+58614	
+58617	
+neuter
+58620	
+58624	neuter
+masculine
+58627	
+
+
+58632	neuter
+58635	
+
+
+
+58641	
+
+neuter
+
+58646	neuter
+
+58649	
+
+58658	neuter
+58660	neuter
+58663	neuter
+58665	
+
+
+58669	neuter
+58672	feminine
+neuter
+58678	
+58680	neuter
+58684	
+58686	
+feminine
+58690	
+58692	
+58695	neuter
+masculine/neuter
+58701	
+58703	
+
+feminine
+58709	
+neuter
+58713	neuter
+58716	
+
+
+58720	
+
+58724	
+
+masculine
+58728	
+58732	feminine
+
+58735	
+
+58738	feminine
+58742	
+
+58746	neuter
+masculine
+
+
+58752	
+masculine
+neuter
+58765	
+58771	
+58774	neuter
+58779	
+58781	
+neuter
+masculine
+
+
+58789	
+masculine
+58792	
+
+58797	
+
+58802	neuter
+58804	
+
+
+58809	neuter
+masculine
+58812	masculine
+58816	
+
+58819	
+
+58823	
+58826	neuter
+feminine
+
+58830	neuter
+masculine
+
+58834	feminine
+58838	
+
+58842	
+
+
+58848	
+58853	masculine
+58858	feminine
+feminine
+58861	
+feminine
+58865	feminine
+58868	
+58871	neuter
+58874	
+58878	
+masculine
+58884	masculine/neuter
+58886	neuter
+masculine/feminine
+masculine/neuter
+58891	feminine
+58896	
+58898	
+58900	
+feminine
+58906	feminine
+58908	
+58917	
+58921	
+58924	
+58926	
+58929	
+
+58934	
+masculine
+58940	
+58943	
+58945	
+feminine
+58958	
+58964	
+
+
+masculine
+58969	
+58971	
+neuter
+58974	
+58978	
+58980	
+
+58986	neuter
+58989	
+58995	
+59001	neuter
+59003	
+59005	
+59007	feminine
+59011	neuter
+59014	
+59019	
+59022	
+59028	
+59033	
+59036	neuter
+59042	feminine
+59045	
+59049	neuter
+59054	
+59056	
+59058	
+feminine
+
+59062	
+59067	neuter
+59074	
+59076	
+59079	
+59081	
+
+feminine
+masculine
+
+59089	feminine
+59092	
+59094	
+59096	neuter
+59099	
+59104	
+59107	neuter
+masculine
+
+59111	
+feminine
+
+59115	
+59117	
+
+59123	
+59127	
+
+59130	
+59135	
+59137	
+
+
+59141	
+59143	
+59151	
+neuter
+59155	neuter
+59157	
+59161	
+59163	
+59168	masculine
+
+59172	
+
+59175	
+feminine
+59184	feminine
+59186	
+59195	feminine
+59198	
+59201	
+59207	masculine
+
+59210	masculine
+59216	
+masculine
+59219	
+59223	
+59226	
+59228	feminine
+59232	
+59241	
+59244	
+masculine
+59247	neuter
+59249	
+masculine
+59252	
+59255	
+
+59258	masculine
+59260	masculine
+59266	
+59273	
+59275	masculine
+neuter
+59279	
+59281	
+59293	
+59302	feminine
+59304	
+
+59309	
+
+59312	
+59315	feminine
+59318	feminine
+59320	
+59322	
+59324	
+59326	
+59329	
+59331	
+59333	neuter
+59336	neuter
+masculine
+59339	masculine
+
+59343	
+59346	
+masculine/neuter
+59350	neuter
+masculine
+59353	neuter
+59357	
+feminine
+59365	
+59370	
+59373	
+feminine
+feminine
+
+
+59382	
+masculine/feminine/neuter
+
+
+59388	
+59391	
+59393	
+
+
+neuter
+
+feminine
+59402	masculine/neuter
+
+59405	
+59407	
+59410	feminine
+neuter
+59413	neuter
+59422	feminine
+
+59426	
+
+59429	
+59434	feminine
+
+59438	feminine
+feminine
+
+
+neuter
+59444	
+masculine/feminine
+
+59449	neuter
+59459	masculine
+59461	
+59466	
+feminine
+feminine
+
+
+
+59473	
+masculine/neuter
+
+59478	
+59480	masculine
+feminine
+masculine
+59485	
+
+59491	feminine
+
+
+
+59496	
+masculine
+59500	neuter
+masculine
+59505	masculine
+59508	
+59510	
+59514	
+
+masculine
+59522	
+masculine
+
+59526	masculine
+59531	neuter
+masculine
+59537	
+59549	
+59559	
+59561	neuter
+masculine
+
+59566	masculine
+59569	neuter
+neuter
+59576	masculine/neuter
+59579	
+59581	
+59583	
+neuter
+59589	
+
+59592	masculine
+neuter
+59597	
+59600	
+59605	
+59613	
+59616	
+59619	
+masculine
+59623	neuter
+59625	
+
+59628	neuter
+59631	
+59633	
+neuter
+59637	
+59640	neuter
+59642	
+59644	
+59648	
+59652	neuter
+59654	masculine/neuter
+59660	
+59663	
+59666	
+59669	
+59672	
+
+59676	
+
+
+59680	
+59684	feminine
+59688	
+59690	
+59694	
+
+feminine
+
+neuter
+
+
+
+59703	
+59705	masculine
+59707	masculine
+59709	
+
+masculine
+59713	
+59718	
+
+59721	neuter
+
+59725	masculine
+feminine
+59730	masculine
+
+59734	
+59737	
+59740	masculine
+59742	
+masculine/neuter
+59745	
+59747	feminine
+feminine
+
+masculine
+59754	
+feminine
+
+
+59760	masculine
+59762	masculine/neuter
+feminine
+neuter
+
+
+59768	masculine
+59770	
+59772	
+
+59776	
+59779	feminine
+59781	
+
+59785	
+
+
+
+59790	
+59792	
+59794	neuter
+59797	
+59799	
+59804	feminine
+59813	
+59817	
+
+59821	
+59823	
+masculine
+59826	
+59828	
+
+
+59833	
+59835	masculine
+59838	feminine
+59841	feminine
+feminine
+59844	feminine
+59851	
+59854	
+
+59862	
+59866	
+59870	
+59873	masculine
+neuter
+masculine/feminine
+59879	
+masculine/feminine
+
+59883	neuter
+masculine
+59888	masculine/neuter
+59895	neuter
+59898	
+59901	
+59903	masculine
+neuter
+masculine/feminine
+59910	
+59912	
+
+feminine
+59916	neuter
+59918	
+
+59921	feminine
+59923	feminine
+59925	
+
+59930	
+neuter
+59934	
+
+neuter
+
+feminine
+59940	
+
+59943	
+59945	
+
+feminine
+59949	neuter
+59951	
+
+
+59956	feminine
+feminine
+59959	feminine
+
+feminine
+feminine
+
+
+neuter
+59967	
+59969	feminine
+59971	feminine
+59973	
+59975	
+59979	
+
+59989	
+59991	
+
+59996	
+59999	neuter
+60001	
+
+60004	neuter
+60008	
+
+60013	
+neuter
+
+60018	masculine
+60022	masculine
+
+60028	
+
+
+60034	masculine/neuter
+
+60041	feminine
+60043	neuter
+60046	masculine
+60048	
+60050	
+60052	
+60055	
+60057	
+60059	
+
+60062	
+
+60066	
+feminine
+60071	feminine
+60073	neuter
+60075	neuter
+60079	
+60082	
+60084	
+60086	
+60090	
+60093	feminine
+60096	
+60098	
+
+feminine
+60104	
+
+masculine
+
+
+neuter
+
+60112	masculine
+60119	neuter
+masculine
+60122	neuter
+60124	masculine
+60128	
+60131	masculine
+
+60135	
+60138	
+60142	neuter
+60144	masculine
+60147	
+
+masculine/feminine
+60152	neuter
+60155	
+60157	
+masculine
+60160	
+60162	neuter
+60164	
+60169	
+60171	neuter
+60174	
+60185	neuter
+60187	masculine
+60190	
+60193	
+60195	neuter
+60198	
+60202	
+
+60209	
+60211	
+neuter
+neuter
+60219	masculine
+60221	
+neuter
+60224	
+
+60229	feminine
+
+neuter
+60233	
+feminine
+neuter
+feminine
+
+
+60240	
+60242	
+60245	feminine
+
+
+60250	neuter
+60252	
+60254	
+
+60258	masculine/neuter
+feminine
+neuter
+60264	
+60266	
+
+
+60272	feminine
+
+60277	
+
+60283	
+neuter
+60292	
+60297	feminine
+60300	feminine
+
+60303	masculine/neuter
+60306	neuter
+
+
+masculine
+60311	
+
+60314	
+60319	neuter
+60321	
+
+60329	neuter
+60332	
+
+
+60338	feminine
+60340	feminine
+60343	neuter
+60346	neuter
+60349	neuter
+60351	
+
+60354	
+60359	neuter
+60362	
+
+60367	neuter
+
+
+60372	
+feminine
+60378	
+60380	
+
+masculine
+
+
+60389	masculine
+60394	neuter
+60396	
+
+60399	
+60401	
+60403	neuter
+60405	
+
+60410	feminine
+60413	feminine
+60415	neuter
+neuter
+
+
+masculine
+
+60426	
+60428	
+60430	
+60433	neuter
+60436	
+
+
+60440	
+
+60447	
+feminine
+60450	
+60456	neuter
+60458	
+
+60461	feminine
+60464	
+
+60468	neuter
+60473	
+
+60477	neuter
+60486	
+feminine
+60491	neuter
+60493	masculine
+feminine
+60497	
+60499	
+60501	
+neuter
+60504	masculine
+60508	
+60510	
+60514	
+60518	masculine
+60521	
+
+
+60525	
+60528	
+60530	feminine
+60532	feminine
+feminine
+
+
+60538	feminine
+60540	masculine/neuter
+60544	feminine
+masculine
+feminine
+feminine
+60549	
+60553	feminine
+60556	
+60558	
+60562	
+
+
+60567	masculine
+
+60570	
+60572	
+neuter
+
+60578	
+60580	
+feminine
+
+
+neuter
+60589	
+
+neuter
+masculine/feminine
+feminine
+60596	
+
+neuter
+feminine
+60601	neuter
+
+60606	
+60610	
+60613	
+feminine
+60617	feminine
+60620	
+60625	neuter
+60627	masculine/neuter
+
+60632	
+60636	
+
+60640	
+
+60644	
+60646	
+60648	
+neuter
+60651	feminine
+
+
+
+60656	masculine
+masculine/neuter
+
+
+60661	
+
+
+neuter
+60666	
+60668	
+60670	
+60673	
+
+60676	
+60679	
+feminine
+60682	
+
+feminine
+60686	
+feminine
+neuter
+60690	
+
+
+
+60695	
+
+60701	
+masculine/feminine/neuter
+
+
+60708	feminine
+
+
+60718	
+
+60721	neuter
+
+
+feminine
+feminine
+60729	
+60731	
+60735	
+60746	
+60752	feminine
+neuter
+60760	
+
+feminine
+60766	
+60768	feminine
+60771	
+60790	neuter
+60792	neuter
+
+
+
+feminine
+60798	
+60801	
+60803	
+neuter
+60808	
+
+neuter
+
+60816	feminine
+60818	neuter
+
+60823	
+60825	
+60829	
+
+60834	
+
+60838	
+60843	
+feminine
+60847	
+60850	neuter
+60852	feminine
+
+60856	
+
+60860	
+
+60866	
+60868	
+60871	
+60874	
+feminine
+
+masculine
+60879	masculine
+
+60882	
+
+60886	
+
+60890	
+
+60893	masculine/neuter
+60897	
+60904	
+masculine/neuter
+
+60909	
+60911	
+60914	
+feminine
+
+
+masculine/neuter
+60920	
+60924	feminine
+
+
+60928	
+60931	
+neuter
+60935	
+neuter
+60940	
+60942	feminine
+neuter
+60946	
+60949	feminine
+60953	
+60967	
+60970	
+60975	
+60979	
+60982	
+60987	
+neuter
+masculine
+
+
+60995	feminine
+
+
+
+61001	
+61006	
+61011	feminine
+
+feminine
+
+61016	feminine
+feminine
+61020	
+61024	feminine
+61026	
+61028	feminine
+feminine
+61031	
+61034	
+
+61037	
+
+61042	
+neuter
+feminine
+
+neuter
+61048	feminine
+61050	feminine
+61052	
+
+61055	
+
+61060	
+neuter
+61064	
+61068	neuter
+61072	neuter
+61076	feminine
+
+61084	
+masculine/feminine
+neuter
+61089	
+61093	neuter
+61098	
+
+61103	
+61109	
+61111	neuter
+61113	
+61115	
+61117	masculine
+
+61121	masculine
+61123	
+61127	
+61129	feminine
+
+
+neuter
+61135	
+61139	neuter
+61143	feminine
+feminine
+
+
+
+61152	neuter
+61159	feminine
+
+masculine/neuter
+
+61165	feminine
+61168	
+61170	
+
+61173	feminine
+
+61178	
+61180	masculine
+61185	feminine
+61188	
+61191	
+61200	
+61204	feminine
+61207	masculine/neuter
+feminine
+neuter
+61213	masculine/neuter
+61217	masculine/neuter
+61219	
+61222	feminine
+61227	feminine
+feminine
+
+
+
+61236	
+
+
+
+61242	feminine
+61247	
+
+61251	
+61255	feminine
+61257	masculine/neuter
+61261	
+61264	
+61266	
+
+61269	
+61271	
+
+
+
+61276	
+61278	
+
+
+61283	feminine
+
+
+61291	
+
+
+61295	
+61299	masculine/neuter
+61302	neuter
+61304	
+feminine
+
+61312	
+61314	neuter
+
+
+61320	
+61324	
+61336	
+masculine
+feminine
+
+feminine
+61342	
+
+61346	
+feminine
+masculine
+61350	
+
+
+neuter
+61357	
+61360	masculine
+
+
+61365	
+61367	
+61369	
+61371	masculine
+61373	
+
+61376	
+61378	
+61382	
+feminine
+feminine
+masculine
+61392	
+neuter
+61396	
+61400	
+61402	
+
+61405	
+
+
+61410	
+
+
+61419	masculine
+61421	
+61424	
+
+61428	
+61430	
+feminine
+
+neuter
+masculine/neuter
+61438	neuter
+61440	
+masculine
+61445	
+61449	neuter
+61455	
+neuter
+61460	feminine
+61465	masculine
+61469	masculine
+61472	
+61474	masculine
+61476	masculine
+61482	masculine
+61488	
+61491	neuter
+61495	neuter
+neuter
+61498	
+
+61502	
+61506	neuter
+masculine
+61509	masculine/neuter
+61518	
+
+
+
+masculine
+61528	masculine/neuter
+61532	
+neuter
+feminine
+61537	neuter
+
+
+
+feminine
+61543	feminine
+61554	
+neuter
+
+61560	
+61563	
+61566	feminine
+
+61570	
+
+
+
+61578	
+
+
+61582	feminine
+feminine
+neuter
+feminine
+61588	feminine
+feminine
+feminine
+61593	
+61598	
+
+61603	
+
+61606	
+masculine
+61609	masculine
+61613	neuter
+61615	
+
+61618	masculine/neuter
+61623	neuter
+neuter
+61627	
+61630	feminine
+61634	
+
+61637	masculine/neuter
+61645	
+feminine
+61648	
+61650	neuter
+61655	feminine
+neuter
+61661	masculine
+61665	
+
+
+61674	feminine
+61676	
+61683	masculine/neuter
+61685	neuter
+61689	
+61691	
+61693	
+
+61700	
+
+61703	
+61705	feminine
+61708	
+
+61715	
+61718	
+
+61721	
+61727	
+
+neuter
+61731	
+61733	feminine
+neuter
+61736	neuter
+61738	feminine
+61742	
+
+61746	masculine
+61749	
+61754	feminine
+61759	neuter
+61763	
+feminine
+61769	
+61771	
+61776	feminine
+
+
+feminine
+
+61784	neuter
+neuter
+61789	
+
+masculine
+
+masculine
+61797	
+masculine/feminine
+neuter
+61801	neuter
+61803	
+
+61807	
+masculine
+61810	
+61817	neuter
+neuter
+61821	neuter
+61823	
+61827	
+
+61830	neuter
+61832	
+neuter
+61835	
+neuter
+61838	
+61841	
+61858	neuter
+61860	
+61864	
+61866	feminine
+61870	
+61874	masculine
+
+61879	neuter
+61881	masculine
+61886	masculine
+61891	
+61894	
+61900	masculine/neuter
+61902	
+61904	feminine
+
+61909	
+61912	masculine
+
+61917	masculine
+61922	
+
+
+masculine/feminine/neuter
+61927	feminine
+61929	
+61931	
+61936	masculine
+feminine
+
+61943	neuter
+
+61948	
+61950	
+masculine
+61955	feminine
+
+neuter
+61962	
+61966	masculine
+61971	
+61975	masculine
+61979	masculine
+masculine
+61983	neuter
+feminine
+feminine
+61990	
+61992	feminine
+
+
+61998	neuter
+
+62007	neuter
+
+62011	feminine
+
+62014	
+62019	
+feminine
+
+62023	
+
+62029	feminine
+
+masculine
+62033	neuter
+62036	neuter
+
+masculine
+
+
+
+62044	
+62047	
+masculine/feminine
+62053	neuter
+62056	
+
+62063	
+feminine
+62066	masculine
+62069	
+62074	
+62076	
+masculine
+neuter
+62081	
+62085	neuter
+
+62089	
+62092	
+62094	neuter
+masculine
+
+62098	masculine
+62101	
+62105	
+62107	
+62109	neuter
+62113	
+62115	
+62117	neuter
+62119	neuter
+62122	masculine
+62125	masculine
+62136	masculine
+
+62140	
+62143	
+
+
+
+
+
+62151	neuter
+
+62155	
+62157	feminine
+62161	
+62165	
+masculine
+masculine
+62172	neuter
+62176	
+62178	
+
+62182	
+masculine
+
+62187	
+masculine
+neuter
+62195	
+
+62199	neuter
+62201	neuter
+62203	neuter
+62205	
+masculine
+62208	
+62214	masculine
+
+62217	
+62219	feminine
+62221	feminine
+62223	masculine
+62228	feminine
+
+
+
+62233	
+62239	masculine
+
+62242	masculine
+62244	masculine
+62246	
+62248	
+62251	
+62254	neuter
+62257	feminine
+62261	neuter
+62263	
+62269	feminine
+
+62275	
+
+62278	masculine
+62280	
+62282	
+62287	
+62290	
+
+masculine/feminine/neuter
+62295	masculine
+62299	
+62306	neuter
+62312	
+62314	
+feminine
+
+62320	
+62325	masculine
+62328	
+masculine
+62332	
+
+
+
+62337	masculine
+
+masculine
+62341	neuter
+62343	
+
+
+62347	masculine
+62354	neuter
+
+62361	
+62363	masculine
+62368	
+62371	masculine
+62376	feminine
+
+
+62382	
+62385	
+62389	feminine
+
+masculine
+masculine/feminine
+62394	
+62401	masculine
+62403	
+
+62407	
+62413	
+62416	
+62421	
+62423	
+62426	
+62428	
+62433	
+62439	
+62445	neuter
+62447	
+62452	feminine
+62454	
+
+
+62458	
+62460	neuter
+62462	
+62464	
+62467	masculine
+62469	
+masculine
+62473	
+62476	neuter
+62482	
+62485	masculine/neuter
+62488	
+62490	masculine
+62492	masculine/feminine
+62495	
+62498	neuter
+62500	
+masculine
+62504	
+62513	
+62516	neuter
+62523	
+62526	
+neuter
+62530	masculine
+
+masculine
+62537	masculine
+
+
+
+masculine
+62543	
+
+neuter
+62547	
+62556	masculine
+62559	masculine
+
+62562	
+
+masculine
+
+feminine
+feminine
+feminine
+62572	
+
+62575	
+62577	
+
+62580	
+feminine
+feminine
+feminine
+feminine
+masculine
+62587	
+masculine
+
+62598	feminine
+feminine
+feminine
+feminine
+62605	
+62608	neuter
+62612	
+62614	
+neuter
+masculine
+62618	masculine
+
+62623	
+62627	
+62630	
+62634	
+62636	feminine
+62638	neuter
+62642	feminine
+62646	
+
+62649	neuter
+62653	feminine
+feminine
+62663	
+62666	feminine
+62668	
+62670	feminine
+62674	
+62676	feminine
+
+
+
+
+62682	
+62684	
+
+62689	masculine
+62693	masculine
+masculine
+62696	
+62699	
+62701	neuter
+62703	feminine
+62707	neuter
+62714	masculine
+62718	
+masculine
+62721	
+62726	neuter
+62734	
+62736	neuter
+62739	masculine
+62744	feminine
+62747	
+neuter
+62751	
+62753	feminine
+
+
+62757	
+62759	
+
+feminine
+feminine
+62764	
+62768	neuter
+masculine
+
+masculine/feminine/neuter
+62777	neuter
+62780	
+62782	
+neuter
+62785	
+62789	masculine
+62792	masculine
+62795	masculine
+neuter
+neuter
+
+62800	neuter
+62811	
+62813	feminine
+
+62816	masculine
+62822	
+62825	
+62827	
+62829	
+62831	
+
+62835	neuter
+62844	
+62849	
+
+masculine
+
+
+62855	neuter
+62857	masculine
+62862	
+62865	neuter
+62867	
+62871	
+
+
+
+
+masculine
+62878	
+
+
+masculine
+
+masculine
+62886	
+62888	
+feminine
+
+62892	
+62894	masculine
+62896	feminine
+62898	neuter
+62901	masculine
+62904	
+62907	neuter
+62910	
+62912	masculine
+62916	masculine
+neuter
+62921	
+62923	
+62926	neuter
+62929	masculine
+
+
+62933	neuter
+62936	
+62938	masculine
+62941	
+62948	
+62950	masculine
+62955	
+62958	
+62960	
+
+
+feminine
+62965	
+62968	feminine
+neuter
+62971	masculine/neuter
+62975	
+
+neuter
+62979	
+62981	neuter
+62985	masculine/neuter
+
+
+masculine
+62993	
+62995	masculine
+63013	
+63015	masculine
+63019	
+63024	feminine
+63027	
+masculine
+63041	neuter
+63046	
+
+
+63052	neuter
+63054	neuter
+63065	masculine
+
+63068	
+neuter
+63075	neuter
+masculine
+63078	
+63083	
+63085	
+63087	masculine
+63090	masculine
+masculine
+63093	neuter
+63096	masculine
+63098	
+63100	
+63104	masculine
+
+neuter
+63111	masculine
+63114	
+feminine
+63119	feminine
+63121	
+63123	neuter
+63125	feminine
+63131	feminine
+
+63134	neuter
+63140	masculine
+63142	
+neuter
+63147	masculine
+63150	
+63153	
+63157	feminine
+neuter
+63161	feminine
+63172	masculine
+63177	neuter
+63180	neuter
+
+63183	
+masculine
+feminine
+63187	
+63189	feminine
+63193	
+masculine
+feminine
+
+63199	masculine
+feminine
+63202	masculine
+63204	feminine
+63213	
+63215	feminine
+63217	
+neuter
+63220	masculine/neuter
+63222	
+
+63225	feminine
+feminine
+63228	masculine/neuter
+63233	
+63235	neuter
+63238	
+feminine
+feminine
+63244	neuter
+masculine
+
+
+neuter
+63252	feminine
+neuter
+
+63263	
+63268	
+
+63271	
+63276	neuter
+masculine
+
+63281	feminine
+63287	masculine
+63290	neuter
+63292	
+63297	
+
+feminine
+63301	
+
+63304	
+63307	feminine
+neuter
+
+
+63316	
+feminine
+feminine
+63324	masculine
+63327	
+63329	masculine/neuter
+neuter
+feminine
+63334	
+
+
+63344	
+63346	
+63350	neuter
+
+feminine
+63358	
+
+63362	
+63370	neuter
+63372	
+63375	
+63377	feminine
+neuter
+63382	
+masculine/feminine
+
+63393	feminine
+neuter
+63399	
+63402	neuter
+neuter
+
+63406	
+63408	
+63420	
+masculine
+63424	feminine
+63428	masculine
+63430	
+63433	
+masculine
+63437	neuter
+63445	
+63450	neuter
+63456	neuter
+63461	
+
+63469	
+masculine
+63484	
+63486	
+
+63493	
+
+63497	
+
+63502	
+63506	feminine
+63510	masculine
+
+63513	
+63524	masculine
+feminine
+63528	
+feminine
+63532	
+63536	neuter
+63541	
+63549	masculine
+63557	neuter
+masculine
+63560	
+63562	
+63564	masculine
+63566	
+63570	
+63576	neuter
+63579	neuter
+63584	
+63589	masculine
+63591	
+63593	neuter
+63596	
+neuter
+
+
+63602	masculine
+
+63608	neuter
+feminine
+feminine
+63618	masculine
+63624	
+63628	
+feminine
+63631	feminine
+63636	
+63640	
+63645	neuter
+
+63649	
+feminine
+63656	neuter
+63659	neuter
+63661	masculine
+
+63673	masculine
+
+
+63678	feminine
+63685	masculine
+feminine
+masculine
+63691	
+63693	
+feminine
+
+63697	
+63699	
+63703	
+63706	
+masculine
+63709	feminine
+63714	feminine
+63717	feminine
+63722	
+masculine
+63725	
+63731	
+63733	
+
+63736	masculine
+63740	
+63746	
+
+feminine
+
+63751	
+63758	
+masculine
+63761	
+63763	masculine
+63767	masculine/feminine
+63770	feminine
+
+neuter
+63775	
+63777	masculine
+
+63782	
+63787	masculine
+63789	
+
+63792	masculine
+63794	feminine
+63796	
+63801	
+63803	
+63805	masculine
+masculine
+63808	
+63822	
+63831	masculine/neuter
+63833	masculine
+63836	masculine
+masculine/neuter
+63840	feminine
+63842	feminine
+63845	
+63848	masculine
+63851	
+63855	feminine
+63857	feminine
+63864	masculine
+feminine
+63867	
+masculine
+feminine
+feminine
+63874	masculine
+63876	neuter
+masculine
+63880	
+63884	
+63886	
+
+63901	masculine
+feminine
+63905	masculine
+
+63909	neuter
+masculine
+63912	
+
+63915	
+63917	neuter
+63919	masculine
+
+feminine
+63927	
+63931	masculine
+
+masculine
+63939	
+masculine
+
+63943	
+63949	neuter
+masculine
+masculine/feminine
+63953	
+63955	feminine
+
+63958	masculine
+
+63962	masculine
+
+feminine
+63967	masculine
+neuter
+63970	
+63972	neuter
+63974	
+
+63978	
+63982	
+63984	
+63988	
+63992	
+63994	
+63998	
+64001	
+64004	
+feminine
+64007	feminine
+64010	
+
+masculine
+feminine
+
+64016	
+64018	feminine
+64020	neuter
+masculine
+64023	masculine
+feminine
+64027	
+64031	
+
+
+64035	
+
+
+64041	masculine/neuter
+64044	
+64052	masculine/neuter
+64054	masculine
+
+64063	
+64065	
+
+64068	
+64070	neuter
+masculine
+64074	neuter
+64077	
+64079	neuter
+masculine
+
+64085	
+masculine
+64091	feminine
+64095	
+feminine
+
+neuter
+masculine
+masculine
+64102	feminine
+feminine
+64106	feminine
+
+
+64116	
+masculine
+64119	neuter
+masculine
+neuter
+64123	
+
+64128	
+
+
+
+64133	
+64139	masculine
+64144	masculine
+64150	
+
+masculine
+64155	
+neuter
+masculine
+masculine/feminine
+64161	neuter
+64163	feminine
+64165	feminine
+64167	masculine
+
+64171	
+64174	feminine
+
+64177	
+64179	masculine
+64181	
+64183	
+64189	masculine
+64193	
+64197	
+64201	
+64203	feminine
+64205	
+64208	masculine
+
+64215	masculine
+feminine
+
+masculine
+64220	
+64223	masculine
+feminine
+64228	
+
+64232	neuter
+64234	
+64236	
+
+feminine
+feminine
+feminine
+
+64252	
+
+64255	
+64258	masculine
+
+64261	neuter
+64266	neuter
+masculine
+
+64270	neuter
+masculine
+64273	masculine
+64276	
+
+neuter
+masculine
+64284	
+64290	
+64293	masculine
+64295	
+feminine
+
+64302	
+masculine/feminine
+64307	
+
+64316	masculine
+
+64320	
+64324	masculine
+64328	neuter
+64331	
+64333	neuter
+masculine
+64340	
+64343	masculine
+64349	
+64353	masculine
+64357	masculine
+64360	neuter
+64365	
+64367	neuter
+masculine
+64370	
+64374	feminine
+
+64379	
+64381	
+neuter
+masculine
+64386	masculine
+64392	
+64397	masculine
+64399	
+64402	masculine
+64407	feminine
+
+64411	
+
+64415	neuter
+masculine
+masculine
+64419	
+64421	neuter
+64423	
+64425	
+masculine
+64428	
+
+
+masculine
+
+64434	masculine
+feminine
+64438	
+64442	masculine
+64444	
+64446	
+64448	
+masculine
+64451	
+
+
+masculine
+
+64458	feminine
+64461	
+64465	masculine
+64467	
+64470	neuter
+64472	
+
+64477	
+64480	
+64482	masculine
+neuter
+64485	
+64488	
+
+masculine
+
+64493	masculine
+masculine
+feminine
+64498	feminine
+feminine
+
+masculine
+
+64504	masculine
+64506	neuter
+64513	
+masculine/feminine
+64517	masculine/neuter
+64520	
+masculine
+64523	
+64529	
+64533	
+64535	masculine
+64539	
+64541	
+64543	masculine
+neuter
+64546	neuter
+64551	neuter
+masculine
+64556	
+
+
+64563	
+64565	
+masculine
+64569	neuter
+
+masculine
+64574	feminine
+neuter
+64577	
+
+masculine
+masculine
+64584	
+64586	neuter
+masculine
+neuter
+64592	feminine
+64596	masculine
+64599	
+64603	neuter
+64605	
+64608	
+neuter
+64615	
+64618	neuter
+masculine
+
+64624	neuter
+64628	feminine
+64632	masculine
+64635	neuter
+64637	neuter
+masculine/feminine
+64642	neuter
+64646	
+
+masculine/feminine
+
+feminine
+neuter
+64656	
+feminine
+feminine
+
+neuter
+masculine
+64663	neuter
+64666	neuter
+64669	
+64673	feminine
+feminine
+64678	masculine
+64683	
+64687	neuter
+masculine
+64695	feminine
+64699	feminine
+64703	
+64714	
+64716	
+64718	feminine
+64723	masculine
+feminine
+64727	feminine
+
+
+64731	masculine
+64738	
+64742	
+64747	
+64754	
+64757	
+64762	feminine
+masculine
+64769	masculine
+masculine
+
+
+
+64778	feminine
+
+64781	
+64785	masculine/neuter
+64788	
+
+
+64792	neuter
+64795	
+64797	
+
+
+64803	
+64807	feminine
+64809	
+64812	
+64816	
+
+64823	feminine
+
+64831	feminine
+64840	feminine
+64842	
+64844	
+
+64849	
+64851	
+64856	
+64859	masculine/feminine
+64861	neuter
+64867	
+64871	neuter
+masculine
+neuter
+64876	masculine/neuter
+
+64884	
+64887	
+64891	
+
+64896	
+64904	
+64907	
+64909	
+64911	neuter
+64913	masculine/neuter
+
+64924	masculine
+64927	
+64934	masculine
+neuter
+feminine
+64942	
+masculine
+64946	
+64952	feminine
+
+masculine
+64959	
+feminine
+
+64965	
+64967	
+64971	
+
+64981	masculine/neuter
+64984	
+64987	masculine
+64989	
+64993	masculine
+feminine
+64998	masculine
+
+65001	
+65005	
+65007	
+
+masculine/feminine
+65015	
+65021	masculine
+65023	
+65027	masculine/feminine
+65029	
+65033	neuter
+feminine
+65036	
+65040	masculine/neuter
+65042	
+65047	masculine
+65050	
+65052	feminine
+65056	masculine
+65060	
+65064	feminine
+65066	
+masculine
+65071	neuter
+masculine
+
+65077	
+
+65081	
+65085	masculine/feminine
+masculine
+
+65095	feminine
+neuter
+masculine
+masculine
+65101	
+65104	feminine
+65106	feminine
+65110	masculine/neuter
+65114	
+65116	masculine/feminine
+65118	feminine
+65120	feminine
+65125	masculine
+65131	masculine
+65134	neuter
+65136	masculine
+masculine
+65139	neuter
+65141	
+65146	feminine
+65151	
+65154	masculine
+65160	
+65164	
+65167	
+65170	
+neuter
+65174	masculine
+65181	feminine
+
+
+65186	feminine
+65189	
+65191	
+65199	
+
+65208	masculine
+65211	masculine/neuter
+
+65217	feminine
+feminine
+65224	feminine
+65226	feminine
+65236	feminine
+65243	
+65245	
+65261	
+65268	
+65273	
+65276	feminine
+
+65281	masculine
+65283	
+65286	
+masculine
+65291	
+65293	
+65296	
+65298	masculine/neuter
+
+
+65302	
+65308	masculine
+65311	feminine
+65315	feminine
+65319	feminine
+feminine
+65323	feminine
+65326	feminine
+feminine
+65331	
+65334	masculine
+65336	
+65344	
+65346	feminine
+65349	feminine
+feminine
+feminine
+
+
+
+65362	masculine
+65370	
+
+65374	
+65377	neuter
+65385	
+65392	masculine
+65397	
+65401	
+feminine
+65407	
+65409	
+65411	
+65414	
+
+65417	feminine
+
+65423	feminine
+
+65427	feminine
+65429	
+65431	
+65433	
+neuter
+65436	
+65438	
+65442	feminine
+
+65445	
+masculine
+
+masculine/neuter
+65450	feminine
+65452	masculine/neuter
+65454	masculine
+65456	masculine/neuter
+65460	masculine
+65462	masculine/neuter
+
+65468	
+65473	feminine
+65475	
+65479	
+65481	
+65485	
+65489	
+
+65492	
+65494	feminine
+65498	
+65504	
+neuter
+65507	
+
+65511	feminine
+65513	
+65517	feminine
+masculine/neuter
+65522	neuter
+65527	neuter
+65531	masculine/neuter
+65535	
+65537	
+65541	neuter
+
+65545	
+
+
+feminine
+65553	
+65555	
+65557	
+neuter
+65560	
+65562	masculine/neuter
+65565	
+65569	
+65571	feminine
+
+
+
+feminine
+65577	masculine
+masculine
+
+65581	neuter
+65587	
+
+65591	
+masculine
+65596	
+65599	
+
+65602	
+65604	masculine
+masculine
+65607	feminine
+65609	
+65611	neuter
+65617	feminine
+65621	feminine
+neuter
+65625	feminine
+feminine
+65631	feminine
+65634	
+65637	
+65641	
+65643	
+masculine
+
+65648	masculine/feminine
+masculine/neuter
+65651	feminine
+65654	
+65656	
+65660	
+
+masculine/neuter
+65670	feminine
+65672	
+65675	
+65682	feminine
+
+65685	
+masculine/feminine
+65689	feminine
+65693	feminine
+65696	
+65700	neuter
+65703	
+65706	
+65711	
+65717	
+masculine/neuter
+
+65722	
+masculine
+65725	feminine
+65727	
+65729	feminine
+65734	neuter
+65736	
+65742	feminine
+65744	
+
+65750	
+65752	
+65755	neuter
+
+65758	
+65763	
+65765	
+65770	
+65772	
+
+65776	
+masculine
+
+masculine/neuter
+65783	neuter
+65785	feminine
+
+
+65790	masculine/neuter
+65793	masculine
+masculine/neuter
+65799	neuter
+65801	
+65803	masculine
+65806	masculine
+
+neuter
+65818	
+65820	
+
+65825	masculine
+65838	
+65842	masculine/neuter
+65844	
+65846	masculine
+masculine/neuter
+
+65851	neuter
+masculine/neuter
+65856	feminine
+
+65860	
+65863	feminine
+65867	
+masculine/neuter
+65872	
+feminine
+65875	
+65877	masculine
+neuter
+65880	masculine/neuter
+65883	
+65889	masculine
+65895	
+65897	masculine
+65903	
+65907	
+65909	feminine
+65911	
+65914	
+65916	masculine
+65925	feminine
+
+
+65933	
+
+65936	feminine
+65940	feminine
+feminine
+65947	masculine
+65954	feminine
+65956	feminine
+65960	
+
+65964	feminine
+65967	
+65972	feminine
+65974	masculine
+65976	
+
+masculine/feminine/neuter
+65985	masculine
+
+feminine
+65990	
+65993	masculine
+65996	
+65998	masculine
+66001	neuter
+66003	masculine
+66008	feminine
+66017	
+66019	neuter
+66022	
+66034	
+feminine
+66040	feminine
+66043	
+
+masculine/feminine/neuter
+66047	feminine
+66049	
+66052	neuter
+66054	feminine
+
+66057	neuter
+66059	feminine
+masculine
+66065	
+66067	neuter
+66071	
+66074	
+66077	
+66079	
+66081	
+feminine
+neuter
+66087	neuter
+66090	feminine
+66092	
+66097	neuter
+66103	
+66105	masculine
+
+
+
+66110	masculine
+masculine/neuter
+
+66114	
+66116	feminine
+66119	feminine
+66121	
+66126	feminine
+
+
+66130	feminine
+66141	
+66143	neuter
+masculine
+66148	masculine/neuter
+66150	masculine
+66154	neuter
+66157	neuter
+66161	masculine
+66165	
+66167	
+neuter
+66176	masculine
+
+masculine/feminine/neuter
+66185	
+66190	
+66192	masculine
+66196	
+66198	neuter
+66208	
+feminine
+66211	neuter
+66220	
+66223	
+masculine/feminine
+66226	
+
+
+feminine
+
+
+66233	
+66236	neuter
+66243	neuter
+66247	masculine/neuter
+66251	
+66259	
+66263	
+
+66268	neuter
+66270	masculine/feminine
+66274	
+66277	
+66283	
+66285	neuter
+66287	
+66289	feminine
+
+66297	feminine
+
+66300	
+66303	
+66305	
+66309	
+66311	feminine
+66313	feminine
+66315	
+66323	masculine/neuter
+66327	
+
+
+feminine
+66334	masculine
+66336	masculine/neuter
+neuter
+66340	feminine
+66342	feminine
+66346	masculine
+66349	masculine
+
+66353	
+66360	masculine/neuter
+66364	
+66366	
+66369	
+
+masculine/neuter
+66376	
+masculine
+66380	
+66385	masculine
+66390	neuter
+66392	feminine
+66395	masculine/feminine/neuter
+66398	
+masculine
+masculine
+66402	
+
+66405	
+
+masculine
+neuter
+66413	masculine/neuter
+
+66416	
+66418	
+neuter
+feminine
+
+
+66424	feminine
+66427	feminine
+neuter
+66430	neuter
+66432	
+
+66435	
+66438	
+66443	masculine
+
+66449	
+66455	feminine
+66458	
+masculine
+
+66462	masculine
+66467	neuter
+66473	masculine/neuter
+masculine
+66477	feminine
+
+
+66481	masculine/neuter
+66483	
+feminine
+feminine
+66488	
+masculine
+66491	neuter
+66495	
+66499	feminine
+
+
+66507	masculine/neuter
+66510	feminine
+66516	masculine
+66519	neuter
+66521	
+masculine/feminine/neuter
+66524	masculine
+66526	masculine
+feminine
+66535	
+
+masculine
+66539	masculine/neuter
+66542	feminine
+66550	
+
+
+66555	
+66557	neuter
+
+66570	masculine
+
+66580	feminine
+66589	
+66592	
+neuter
+
+66603	
+66610	
+
+66614	
+feminine
+feminine
+
+
+66621	
+66629	
+66633	
+66637	
+66640	
+66643	
+
+
+66652	
+66655	
+66658	
+
+
+66662	masculine
+masculine/neuter
+
+66670	neuter
+66672	
+66674	feminine
+
+66678	
+masculine
+masculine/neuter
+masculine/feminine
+66684	neuter
+66686	neuter
+66689	masculine/neuter
+66691	feminine
+neuter
+66694	
+66696	
+66700	
+
+66703	feminine
+neuter
+
+66715	
+66717	
+66719	
+66721	feminine
+66725	
+
+66732	
+feminine
+66735	
+66737	
+66742	
+66744	
+masculine
+
+66762	
+
+66769	masculine
+66775	
+66780	
+66782	feminine
+66785	
+66787	masculine
+66796	neuter
+66798	
+66801	
+66806	
+66815	
+66821	
+66823	
+masculine
+neuter
+66831	
+66834	
+masculine
+66837	masculine
+
+
+masculine/neuter
+66843	
+
+
+66851	feminine
+66857	masculine
+66859	masculine
+
+66865	
+66868	feminine
+66871	
+66875	masculine
+66877	
+66879	masculine
+66881	
+neuter
+66884	neuter
+66902	feminine
+66905	masculine
+66908	masculine
+66910	neuter
+masculine
+66915	
+66919	masculine
+66921	neuter
+masculine
+66924	neuter
+66935	neuter
+feminine
+
+66939	neuter
+
+66942	masculine/neuter
+feminine
+66949	masculine/neuter
+66956	
+66958	feminine
+66960	masculine
+masculine
+66965	masculine
+66967	
+66971	
+
+masculine/neuter
+66975	
+
+masculine/neuter
+
+
+66982	feminine
+
+66985	feminine
+66991	masculine/neuter
+66998	masculine/feminine
+67003	
+67005	
+feminine
+feminine
+67009	masculine/neuter
+67011	feminine
+masculine
+
+67016	feminine
+67018	masculine
+67022	masculine
+feminine
+67027	
+masculine/neuter
+67035	masculine/neuter
+
+
+67041	masculine
+
+
+67045	feminine
+67049	feminine
+
+67052	
+67055	masculine/neuter
+masculine
+67059	feminine
+67061	neuter
+67063	
+67065	
+67070	
+67077	
+
+67081	
+67086	
+neuter
+67089	neuter
+67092	
+67098	
+
+67102	
+67104	neuter
+feminine
+67107	feminine
+67109	
+67111	masculine
+masculine
+67114	
+masculine/neuter
+masculine
+67122	
+67126	
+67128	masculine/feminine
+67130	
+
+67136	masculine
+
+masculine
+67143	masculine
+67148	neuter
+67157	
+67163	neuter
+67171	neuter
+67176	
+neuter
+67180	
+67184	feminine
+67195	
+67201	
+67208	
+67217	neuter
+67223	
+67225	neuter
+67227	masculine
+feminine
+67231	neuter
+masculine
+67234	
+masculine/neuter
+67237	masculine
+67241	masculine
+67246	
+
+67250	
+masculine
+67254	
+
+67257	
+
+
+67261	
+
+
+67265	
+masculine/neuter
+67273	
+
+
+feminine
+67278	neuter
+
+67281	
+67295	masculine
+masculine
+
+67304	
+
+masculine
+67309	feminine
+67311	
+67317	
+67322	
+67324	
+67327	masculine
+67329	feminine
+67331	
+
+67334	neuter
+67340	
+67342	
+
+67346	masculine/neuter
+
+masculine
+67353	
+masculine/neuter
+67357	
+67359	masculine/neuter
+masculine
+
+67367	
+67372	masculine
+67374	
+67382	
+67384	feminine
+67389	
+67391	
+67398	neuter
+67401	masculine
+67405	feminine
+67408	feminine
+
+
+67413	
+67416	
+67422	masculine
+67430	neuter
+67436	
+masculine/neuter
+
+masculine
+67442	masculine
+67445	
+67447	feminine
+67450	
+67459	
+67461	feminine
+feminine
+
+67465	feminine
+67473	masculine
+67476	
+67480	neuter
+67485	
+67487	neuter
+
+67491	masculine
+67494	feminine
+neuter
+67500	
+67511	
+feminine
+
+67516	masculine/neuter
+feminine
+67521	
+67523	masculine
+67527	
+
+67531	
+
+
+masculine/feminine/neuter
+
+67537	neuter
+feminine
+67541	feminine
+67549	
+67551	neuter
+67556	neuter
+
+67559	masculine
+67566	feminine
+67568	feminine
+67570	
+67573	
+
+67579	masculine
+67584	
+67586	
+67592	masculine
+
+67596	
+neuter
+
+
+67603	feminine
+67607	masculine
+67610	
+67612	
+
+67617	
+67622	
+masculine/feminine/neuter
+67625	masculine
+67629	feminine
+67631	
+67639	
+
+masculine
+67644	
+
+67648	
+
+
+masculine/feminine/neuter
+67659	neuter
+67668	
+67679	
+
+
+67685	neuter
+
+masculine
+67690	
+67694	
+67698	
+67704	masculine/neuter
+67706	
+67709	feminine
+67712	
+
+67715	
+67719	masculine
+67721	neuter
+67723	
+
+67726	
+67728	neuter
+67732	masculine/neuter
+
+67738	masculine
+67740	
+67742	neuter
+67747	
+67749	feminine
+
+
+67753	
+
+67758	neuter
+67770	masculine
+67773	neuter
+67778	masculine
+67786	
+67789	
+
+
+67798	
+67801	
+67804	feminine
+
+
+67812	
+67819	
+67825	feminine
+
+67828	masculine
+67830	masculine/feminine
+67833	
+masculine
+67836	
+67848	
+67852	
+67854	neuter
+67856	
+67860	masculine
+67864	
+
+67875	feminine
+67877	
+
+
+67885	masculine/feminine
+67887	
+neuter
+67890	
+67892	feminine
+masculine
+67895	
+67897	masculine
+67900	
+67903	
+67907	
+67910	
+67912	
+67914	neuter
+67926	
+67928	
+masculine
+67931	
+masculine
+67938	
+
+67941	
+67944	
+67947	feminine
+67949	feminine
+
+
+masculine/feminine/neuter
+67957	
+67962	masculine
+67964	
+67971	feminine
+67979	
+67981	
+67983	
+67986	feminine
+feminine
+feminine
+67991	masculine
+67996	feminine
+neuter
+68001	feminine
+68005	
+
+
+68012	
+
+masculine/neuter
+68030	
+68033	
+
+
+
+68039	neuter
+68041	masculine
+68043	
+68046	
+68048	
+neuter
+68055	neuter
+68070	masculine
+68079	feminine
+neuter
+68082	
+
+68087	neuter
+68090	feminine
+
+68093	feminine
+68098	masculine/feminine
+68101	feminine
+68104	masculine/feminine
+68108	
+68111	feminine
+neuter
+
+
+68118	
+68122	masculine
+68124	feminine
+68129	feminine
+68133	feminine
+68135	feminine
+68137	
+68141	
+68146	
+68152	
+masculine
+
+68156	
+68160	
+68164	masculine
+68176	masculine
+68181	
+68187	masculine/feminine
+masculine
+neuter
+68194	masculine
+68196	
+
+68199	
+68202	
+68206	
+masculine/neuter
+
+masculine
+neuter
+68213	
+68218	
+feminine
+
+feminine
+68223	masculine/feminine
+masculine
+68227	
+68230	masculine
+68232	
+
+
+68238	
+68242	
+68244	neuter
+
+
+68249	
+neuter
+68257	
+neuter
+68261	
+68263	
+68265	masculine/neuter
+68268	
+68270	feminine
+68272	
+
+68275	
+68278	
+68281	
+68285	masculine/neuter
+68288	
+masculine/neuter
+68292	
+68296	
+masculine
+
+68303	feminine
+68305	
+68313	
+68316	
+68320	
+68324	
+68330	
+68332	
+68339	
+68343	
+68345	
+68351	
+68355	neuter
+68357	
+68361	
+68363	
+68365	
+68367	
+68370	
+masculine
+feminine
+68377	neuter
+
+
+68381	neuter
+68383	
+68389	
+68391	
+
+68399	masculine
+68409	feminine
+68421	feminine
+masculine
+68428	
+68431	
+neuter
+68435	
+68443	
+68447	
+68450	masculine
+68452	masculine
+68461	masculine
+68464	
+68469	
+68481	masculine
+68483	masculine/neuter
+
+68487	neuter
+68489	
+68494	masculine/neuter
+masculine
+68497	
+
+68504	
+68506	masculine
+68508	
+68520	
+68522	feminine
+68524	
+
+68532	
+68538	masculine
+68540	masculine/neuter
+68543	
+68547	
+
+68551	
+68553	
+68555	neuter
+68557	
+68559	
+68564	neuter
+68570	neuter
+68572	
+68575	neuter
+68579	
+68582	
+
+68594	masculine
+68597	masculine/neuter
+68601	
+68603	feminine
+68605	masculine
+feminine
+
+68611	
+68615	masculine
+68617	
+68619	
+
+68623	feminine
+masculine/feminine
+
+
+68628	
+68632	
+68635	feminine
+68642	
+68646	masculine
+
+68649	masculine
+
+68653	
+
+68657	
+
+68667	
+
+68672	
+68674	
+68677	feminine
+masculine/feminine
+68682	
+
+
+masculine/neuter
+68694	
+neuter
+68697	feminine
+68699	
+
+68703	masculine
+68709	feminine
+feminine
+68717	
+68722	
+68725	
+68727	neuter
+68731	masculine
+68736	masculine
+68738	neuter
+68742	masculine/neuter
+68750	
+
+68754	
+68756	masculine
+
+
+68763	masculine/feminine
+
+68767	masculine/neuter
+68769	
+68771	feminine
+68773	masculine
+68777	
+68779	
+
+68782	neuter
+68784	
+68787	neuter
+neuter
+68790	masculine
+feminine
+68797	
+
+68800	
+masculine/neuter
+68803	neuter
+68807	masculine/neuter
+neuter
+68818	masculine
+68821	
+
+68825	neuter
+masculine
+neuter
+68831	masculine
+masculine/neuter
+neuter
+68840	neuter
+68842	feminine
+68845	
+
+68849	
+
+68853	
+68855	
+68865	masculine
+
+68875	masculine
+68877	neuter
+68881	neuter
+68884	neuter
+68886	
+
+68891	
+68894	
+68896	masculine
+68903	feminine
+
+68908	
+feminine
+68912	
+68914	
+masculine
+68919	neuter
+masculine
+neuter
+
+68924	
+68927	
+
+neuter
+68934	masculine/neuter
+
+68939	neuter
+68941	
+68943	
+
+68946	
+68948	
+68950	
+68953	
+
+neuter
+neuter
+68960	masculine/neuter
+68963	feminine
+68966	
+68972	masculine
+68974	masculine/neuter
+
+68978	
+
+68981	
+feminine
+
+68986	
+68988	neuter
+masculine/feminine
+68991	masculine/feminine
+68993	masculine/neuter
+neuter
+68996	masculine
+69000	feminine
+69005	
+69011	
+69017	
+
+69022	
+69026	masculine
+feminine
+
+69030	neuter
+69037	feminine
+
+
+69042	
+69045	masculine
+masculine
+feminine
+69049	feminine
+69052	masculine
+69054	
+69056	
+neuter
+69062	
+
+69068	
+
+69072	
+69074	
+
+69078	
+feminine
+69082	
+neuter
+
+69086	
+69089	masculine/neuter
+
+69092	
+69095	neuter
+masculine
+
+69099	
+69101	
+69110	masculine
+69112	masculine/neuter
+69114	masculine
+
+69117	feminine
+69121	
+neuter
+69125	
+69128	masculine/neuter
+feminine
+69131	feminine
+69134	
+
+masculine
+
+
+69143	
+69153	neuter
+69155	
+69157	
+69159	neuter
+69161	
+neuter
+69166	feminine
+69171	masculine
+69173	masculine
+69177	
+masculine
+
+69186	feminine
+69189	
+69191	neuter
+69195	
+69198	
+69201	
+69203	
+
+
+
+masculine
+69209	masculine/neuter
+69212	masculine/feminine
+69214	masculine
+69217	masculine
+69219	masculine/neuter
+69221	
+69227	
+masculine/feminine/neuter
+
+69234	masculine
+69240	
+69242	masculine
+69251	
+feminine
+69256	masculine
+69259	feminine
+69261	masculine/feminine
+69264	
+
+69269	
+
+69275	neuter
+
+
+69279	
+
+masculine
+69283	
+69288	
+
+69291	neuter
+69293	
+
+69297	
+69300	feminine
+69302	feminine
+69304	
+69310	
+69315	masculine
+69318	feminine
+69320	feminine
+neuter
+69326	
+69331	neuter
+69333	masculine
+masculine
+masculine
+
+69340	
+69342	feminine
+69344	
+
+69347	masculine
+69360	
+69363	feminine
+
+69367	
+69370	feminine
+69375	
+69377	
+69381	
+
+69384	
+69399	neuter
+69408	
+
+69413	masculine
+69415	
+69419	
+69421	masculine
+69432	
+69440	masculine
+69443	masculine
+69446	masculine/neuter
+69448	
+
+69451	
+
+69457	feminine
+feminine
+feminine
+
+69467	neuter
+
+69475	
+69481	
+69483	feminine
+69489	masculine
+
+
+69493	feminine
+69501	masculine
+69503	masculine/feminine
+69511	feminine
+69513	masculine
+69516	feminine
+69518	
+
+feminine
+69522	feminine
+69526	feminine
+69534	
+69537	
+69542	feminine
+
+
+69546	
+69548	masculine
+masculine/neuter
+69555	neuter
+69557	masculine
+69563	
+neuter
+
+69569	feminine
+69574	
+69577	masculine
+
+69581	
+69583	feminine
+69587	
+
+
+69592	masculine
+69596	masculine
+69599	feminine
+69603	masculine
+69606	
+69609	feminine
+69615	
+69618	
+masculine/feminine/neuter
+masculine
+69630	masculine
+feminine
+69633	neuter
+masculine
+
+feminine
+69640	masculine
+69649	masculine
+
+masculine
+69653	
+69657	neuter
+
+69661	
+69663	masculine
+69666	
+69671	masculine/neuter
+69673	masculine
+
+
+69677	
+69679	feminine
+
+
+69683	feminine
+69688	masculine
+69690	
+69692	
+
+69696	feminine
+69698	neuter
+masculine/neuter
+69702	feminine
+69704	
+
+masculine
+69711	masculine/neuter
+69715	
+masculine/neuter
+
+neuter
+69720	masculine
+feminine
+69724	
+masculine/neuter
+
+69728	
+69733	
+masculine
+neuter
+
+69738	neuter
+masculine
+
+69744	
+69747	masculine
+69750	
+69755	masculine
+69763	
+masculine/neuter
+masculine
+
+69770	
+69776	masculine/neuter
+69779	neuter
+masculine
+69784	
+feminine
+69793	
+feminine
+69797	masculine
+69799	
+69802	
+69811	
+69819	masculine
+
+69822	
+69828	
+69830	
+69835	masculine
+
+69840	
+69842	
+69845	
+69850	neuter
+69853	
+69855	masculine
+69859	
+masculine
+69863	feminine
+69865	neuter
+69867	
+
+69870	
+69872	neuter
+69875	
+69880	neuter
+masculine
+69885	feminine
+69887	
+69889	masculine
+69892	
+69894	
+
+69897	
+
+69900	
+69902	masculine
+
+69909	
+69912	
+
+69915	feminine
+feminine
+69918	
+69922	
+69924	
+
+69930	feminine
+69932	
+
+69935	neuter
+69937	
+69939	
+
+masculine/neuter
+69944	neuter
+69946	
+69950	
+69952	
+69954	
+69956	neuter
+69960	
+69965	masculine
+69971	
+69974	
+69983	neuter
+69985	
+69995	feminine
+69999	
+70006	neuter
+70011	
+70015	
+70018	masculine/neuter
+70021	neuter
+70027	neuter
+70033	
+70038	
+masculine
+70044	feminine
+feminine
+feminine
+
+70050	
+70052	neuter
+70057	
+70059	
+
+70062	feminine
+
+masculine/neuter
+70066	
+
+70070	
+feminine
+
+
+70076	masculine
+70078	neuter
+70080	
+70082	
+70084	
+70090	
+70092	
+70094	
+70107	
+
+70116	feminine
+70123	
+70126	
+masculine
+neuter
+70132	masculine
+70136	
+70139	
+
+70145	masculine
+70148	masculine
+
+70151	masculine
+70154	masculine
+70162	
+70176	
+70183	
+
+70186	
+feminine
+masculine/feminine
+70194	
+
+
+70200	
+70203	
+70205	
+70208	
+70210	neuter
+masculine
+masculine
+neuter
+70215	
+
+70218	masculine
+neuter
+70221	masculine
+70224	
+70231	feminine
+70233	neuter
+
+70236	masculine
+70240	
+70242	
+70245	
+
+70254	
+
+70257	
+masculine
+70263	
+70266	feminine
+feminine
+70270	masculine/neuter
+
+
+70276	
+
+neuter
+70280	masculine
+
+70284	masculine
+70287	masculine/neuter
+
+70292	neuter
+masculine
+70295	
+70297	masculine
+70301	
+
+70306	masculine
+70310	feminine
+
+70316	
+70318	feminine
+
+70322	
+70328	
+70331	
+70335	
+70340	
+70343	neuter
+masculine
+
+70347	masculine
+neuter
+70350	masculine
+
+70353	
+
+70363	
+
+
+70369	
+70374	
+70378	
+
+70384	
+70386	feminine
+feminine
+70390	
+
+70397	
+70400	neuter
+70402	
+
+
+70407	masculine
+70410	
+70414	neuter
+70416	
+70419	masculine
+70425	
+70444	
+70447	
+70450	neuter
+masculine
+
+70455	feminine
+70458	masculine
+70464	
+70466	feminine
+70468	feminine
+70474	feminine
+70480	
+70483	masculine
+feminine
+
+70487	feminine
+
+70493	
+70497	
+70509	
+70521	
+70523	
+
+70526	
+70529	masculine
+70531	
+70535	
+
+70539	
+
+70542	masculine
+70544	
+70546	feminine
+70550	
+70553	
+
+70556	
+masculine/neuter
+70565	masculine
+70567	
+70572	masculine
+70576	
+70579	neuter
+70581	
+70583	
+70586	
+70588	
+70592	feminine
+70600	
+70602	
+masculine/neuter
+70606	feminine
+
+70613	masculine
+70615	feminine
+70625	
+70629	masculine/feminine
+70632	
+masculine
+70635	masculine
+70639	
+70642	
+70644	neuter
+70646	masculine
+
+masculine
+masculine
+masculine
+70653	neuter
+neuter
+70656	
+
+70662	masculine
+70669	
+70672	masculine
+
+70677	
+70681	
+70683	
+feminine
+70686	
+masculine/feminine
+70689	neuter
+70693	
+70696	
+70706	
+masculine/neuter
+70714	masculine
+feminine
+70717	
+70720	
+70722	
+70724	
+70727	masculine
+masculine
+70731	feminine
+masculine/neuter
+
+70741	
+70743	neuter
+70747	
+feminine
+feminine
+feminine
+70752	
+feminine
+70756	feminine
+
+70759	masculine
+neuter
+feminine
+feminine
+70765	
+70767	neuter
+70770	
+feminine
+70779	
+70782	feminine
+70789	feminine
+70791	masculine
+70805	feminine
+70808	neuter
+70813	
+70821	masculine
+70824	feminine
+70826	
+
+70829	neuter
+70836	
+70840	
+70842	
+70846	masculine/feminine
+70850	masculine
+70853	
+70855	
+masculine
+70859	
+70862	masculine
+
+
+feminine
+70868	
+70870	masculine
+70873	
+70876	feminine
+70878	
+
+70887	neuter
+70889	
+70894	
+70897	masculine
+
+70901	feminine
+70903	masculine/neuter
+70905	feminine
+70907	masculine/neuter
+70909	
+70912	
+
+70916	neuter
+
+
+70921	
+70923	masculine/feminine
+70925	
+70929	neuter
+70935	neuter
+neuter
+70938	
+70941	neuter
+70943	neuter
+masculine
+70952	neuter
+70954	masculine/neuter
+70962	
+70967	
+70969	feminine
+70972	feminine
+70978	
+70981	
+feminine
+70989	
+70991	feminine
+70997	
+71002	
+71005	
+71008	
+71014	
+71016	
+neuter
+feminine
+masculine/feminine
+71025	feminine
+
+
+71030	
+71033	
+71035	neuter
+71037	masculine/feminine
+neuter
+71041	
+
+masculine
+
+71047	neuter
+masculine
+71052	
+71055	
+71058	feminine
+neuter
+71064	
+71075	
+71078	
+71080	
+71083	neuter
+71086	
+
+71092	
+masculine
+71095	masculine
+71098	
+71103	
+71112	
+masculine
+neuter
+masculine
+71119	
+71121	
+masculine/neuter
+71124	
+71126	
+71129	
+71133	masculine
+
+
+
+71143	
+71147	
+71152	
+
+
+71158	
+71160	feminine
+neuter
+71164	
+masculine
+71167	neuter
+71169	
+71175	masculine
+71179	
+
+71183	masculine
+71189	masculine
+
+71193	
+71195	
+71197	neuter
+
+71202	
+71205	
+
+71211	
+71221	
+71223	
+71226	neuter
+71229	
+neuter
+71234	masculine/feminine
+
+71239	
+
+71243	
+71246	masculine
+
+71249	neuter
+71256	neuter
+71259	
+71261	masculine
+71269	masculine/feminine/neuter
+71281	
+
+neuter
+71288	
+71291	masculine
+neuter
+71296	neuter
+
+71299	
+71310	
+71312	feminine
+neuter
+71317	masculine
+feminine
+
+71322	
+71327	
+
+71332	
+71335	masculine
+71337	
+71344	masculine/neuter
+feminine
+71348	feminine
+71350	masculine/neuter
+71352	masculine
+
+
+neuter
+71357	
+71360	
+71363	
+71367	
+71370	masculine
+neuter
+71373	
+71375	
+71377	masculine
+71380	masculine
+
+71387	masculine
+
+
+71391	
+neuter
+feminine
+feminine
+masculine
+71397	
+masculine/neuter
+
+71404	
+71406	feminine
+71408	
+71412	neuter
+71415	
+71417	neuter
+neuter
+71432	
+71436	feminine
+masculine
+masculine/neuter
+71442	masculine
+71444	
+71449	
+71455	feminine
+71466	
+71469	neuter
+71472	
+71474	feminine
+71479	masculine
+71484	
+
+
+neuter
+71489	
+71491	
+71497	
+
+71501	
+71503	masculine
+71508	neuter
+masculine
+71511	
+71513	neuter
+71515	
+
+71518	
+feminine
+71523	neuter
+71527	
+71529	
+71534	
+
+masculine/feminine
+71547	feminine
+71550	masculine/feminine
+
+
+71556	
+71559	neuter
+71562	
+
+71567	feminine
+71570	masculine
+
+
+71574	neuter
+71576	feminine
+
+71579	
+neuter
+71583	
+71587	
+
+feminine
+71592	
+71596	masculine
+71605	masculine
+71607	masculine
+
+71611	
+71613	
+71616	feminine
+71618	feminine
+71620	
+71626	feminine
+71628	feminine
+71632	masculine
+71634	
+71636	
+71639	masculine
+
+71642	
+71650	masculine
+71652	
+71655	
+71658	
+
+71661	masculine
+masculine/neuter
+71667	
+feminine
+71672	masculine
+71675	masculine
+71677	masculine
+71679	
+71682	
+71684	feminine
+71689	
+
+
+71695	
+71700	masculine
+71702	masculine
+masculine
+
+71707	
+71718	
+masculine
+71722	
+feminine
+71728	
+feminine
+71731	
+71734	
+71737	
+71741	
+
+71746	
+
+71749	
+
+71753	feminine
+masculine/feminine
+71758	feminine
+71761	feminine
+71764	feminine
+feminine
+
+
+71771	
+feminine
+71774	
+71776	neuter
+71778	masculine/feminine
+
+71781	
+masculine
+
+masculine
+
+71789	
+71793	
+71796	
+
+71799	
+
+feminine
+neuter
+71807	
+71817	
+71821	
+
+masculine/feminine
+71829	
+
+71837	
+71849	
+71851	masculine
+71857	
+71860	
+71864	masculine/feminine
+
+71869	
+
+71872	
+71877	
+71880	
+71883	neuter
+masculine
+71886	
+71889	masculine
+
+71896	neuter
+neuter
+masculine/neuter
+
+71901	
+71905	
+71909	masculine
+71915	feminine
+
+
+
+71920	
+71922	
+masculine/neuter
+
+
+71933	
+71935	
+
+71940	feminine
+71943	neuter
+71945	
+71947	masculine/feminine
+71951	masculine
+71953	masculine
+71958	
+71960	masculine
+71964	feminine
+71968	masculine
+masculine
+masculine
+71974	neuter
+71977	
+
+
+71981	masculine
+71993	feminine
+feminine
+71998	feminine
+72003	
+72007	
+72009	
+
+feminine
+72013	
+72018	
+feminine
+72027	masculine
+72030	
+72032	masculine/neuter
+72034	feminine
+72038	neuter
+feminine
+
+72043	masculine
+72046	neuter
+72048	
+feminine
+72052	feminine
+72055	
+72058	feminine
+72060	neuter
+masculine
+feminine
+feminine
+72067	feminine
+72069	
+72071	
+
+72078	feminine
+72080	
+72082	
+masculine/neuter
+
+
+72089	masculine/feminine
+72098	
+masculine/neuter
+72102	
+72104	
+72109	
+feminine
+72116	masculine
+72118	
+72120	
+72122	
+72124	
+
+72127	masculine
+
+feminine
+72131	feminine
+72133	
+72141	
+
+feminine
+
+72147	
+feminine
+72152	feminine
+
+72158	
+72160	
+72169	feminine
+72171	
+72175	feminine
+
+
+
+72180	
+
+72187	neuter
+72192	feminine
+72194	masculine
+72196	
+72204	neuter
+72208	
+72213	feminine
+
+72221	feminine
+72223	
+72231	masculine
+
+72234	feminine
+72239	feminine
+72241	
+72244	
+72247	
+72255	
+72257	neuter
+72262	
+72267	
+72272	feminine
+72275	masculine
+72277	
+
+72283	neuter
+72288	
+neuter
+72297	masculine/feminine/neuter
+72302	
+72307	
+72309	masculine/neuter
+
+72314	
+
+72321	
+
+
+72325	masculine
+
+
+neuter
+72330	neuter
+
+feminine
+72336	masculine
+
+72339	neuter
+72343	
+72345	
+feminine
+72348	masculine/neuter
+
+72353	
+72358	masculine/neuter
+72360	
+72368	
+
+72373	feminine
+
+72382	feminine
+72394	
+72398	
+72407	
+
+neuter
+72412	
+72414	neuter
+72416	
+72419	
+72421	
+72423	
+72425	neuter
+masculine
+72429	
+72440	
+72443	masculine
+72451	feminine
+72455	
+masculine/neuter
+72458	masculine/neuter
+
+
+72466	
+72468	
+
+72473	
+72480	
+
+72494	masculine
+72496	
+72498	masculine
+72502	neuter
+feminine
+feminine
+72506	
+72509	masculine
+72511	
+neuter
+72515	
+neuter
+72532	masculine
+
+72535	
+neuter
+masculine
+72542	masculine
+
+72545	
+72554	
+72559	feminine
+
+72564	
+72568	neuter
+neuter
+72574	
+72581	feminine
+72589	
+72592	
+72595	
+72600	
+72605	neuter
+72608	
+72610	
+masculine
+72614	feminine
+72617	feminine
+72619	
+72625	feminine
+neuter
+72631	
+72633	
+72638	neuter
+72642	
+
+72646	
+72652	masculine/neuter
+72658	
+
+
+72665	neuter
+72668	
+masculine/neuter
+72677	
+
+72682	
+72686	masculine
+72688	
+72690	
+feminine
+
+72695	
+
+72704	neuter
+72709	neuter
+72714	
+72721	feminine
+
+masculine/neuter
+72726	
+72730	masculine
+
+
+72735	masculine
+72738	
+72740	masculine
+72753	
+72759	
+72763	
+72768	
+72772	
+72774	
+72777	
+
+
+72783	masculine
+72788	
+72791	
+72793	masculine
+72796	
+
+masculine/feminine
+72806	
+72808	
+72816	masculine
+72820	
+72823	
+
+
+72829	neuter
+72836	
+
+
+72846	neuter
+72852	
+
+72855	
+
+masculine/feminine
+72859	
+72864	
+72869	
+72872	
+
+masculine/neuter
+72876	feminine
+72879	
+72881	masculine/neuter
+72883	masculine
+72885	
+72892	
+72895	
+72898	feminine
+72902	masculine
+72906	feminine
+neuter
+72916	
+masculine/neuter
+masculine
+72923	masculine
+72927	
+72930	feminine
+72933	
+72935	feminine
+
+
+72946	
+feminine
+72952	
+72956	feminine
+72963	
+
+72968	masculine
+
+masculine
+72974	masculine
+72977	
+72980	
+
+72987	
+
+72995	
+72999	masculine
+73002	masculine
+
+neuter
+73006	
+73010	
+73013	masculine/neuter
+73017	
+
+73021	
+73026	
+73030	
+73033	
+73038	
+73040	
+73045	
+73051	feminine
+
+73061	feminine
+feminine
+73071	neuter
+73077	
+73081	masculine
+73086	
+73090	
+73094	
+73096	
+73099	
+73101	
+
+73104	
+73107	
+neuter
+feminine
+73113	neuter
+73116	
+73121	
+73128	
+73130	
+
+73133	
+73135	
+73138	
+73144	
+73147	
+73153	
+73157	
+73164	masculine
+
+73168	
+73172	masculine
+
+
+73177	masculine
+masculine/feminine
+neuter
+73184	
+masculine
+73188	
+73191	masculine
+73193	feminine
+73198	masculine
+73200	masculine
+73202	
+neuter
+73209	feminine
+feminine
+
+73217	
+73220	neuter
+feminine
+73223	
+feminine
+73227	
+
+73230	
+73232	neuter
+73235	
+73238	feminine
+73242	feminine
+masculine/feminine
+73245	
+73249	feminine
+
+73254	
+73256	
+73262	feminine
+73270	
+73272	neuter
+73274	
+73276	
+masculine/neuter
+73280	
+73282	
+
+73286	
+73290	
+73295	masculine
+
+73301	feminine
+73305	
+feminine
+73308	
+
+73311	
+feminine
+feminine
+73315	feminine
+feminine
+73319	
+73321	
+73325	masculine/feminine
+masculine/neuter
+73328	feminine
+73332	
+73334	
+73336	
+
+
+73345	
+73348	feminine
+73351	neuter
+73353	
+73356	feminine
+73360	
+73363	
+feminine
+73366	
+73368	neuter
+73376	
+
+masculine
+73380	
+73383	neuter
+73386	
+73389	
+73392	
+73396	masculine
+
+73401	
+
+masculine
+73406	
+73409	masculine/neuter
+masculine
+73415	neuter
+73417	
+
+masculine/neuter
+73421	feminine
+73423	
+73429	feminine
+73435	masculine
+73439	masculine
+73444	
+73447	
+73457	
+
+
+73464	feminine
+feminine
+73467	
+
+73471	
+
+73475	masculine
+73480	
+73482	
+73490	neuter
+73493	neuter
+73495	neuter
+
+
+
+masculine
+73503	
+
+73506	
+73510	
+
+73516	
+73518	
+feminine
+73524	masculine/feminine
+neuter
+masculine
+73528	masculine
+
+73532	
+73534	masculine
+
+73537	feminine
+
+73543	feminine
+73550	
+masculine/neuter
+73555	
+73557	
+
+neuter
+73562	neuter
+73564	
+masculine/neuter
+73567	
+73569	
+masculine
+73581	masculine
+73591	masculine
+73597	feminine
+feminine
+masculine
+73605	masculine
+73609	
+73611	masculine/feminine
+73613	feminine
+73621	
+73623	
+73628	
+73632	masculine
+73634	
+73637	
+masculine
+73644	masculine
+73652	
+73655	
+73658	
+73665	
+masculine/neuter
+
+73670	
+73674	
+73676	feminine
+73680	feminine
+73682	masculine
+feminine
+73691	masculine
+73693	
+73697	masculine
+73702	
+73705	
+73710	masculine
+73713	
+feminine
+
+73717	
+73721	
+73723	feminine
+73732	
+73734	
+feminine
+73739	
+73742	feminine
+73748	
+73754	
+73758	
+73761	feminine
+
+
+73765	
+73767	
+73769	
+73774	masculine/neuter
+73780	masculine/feminine
+73785	
+73787	
+73790	feminine
+73792	masculine
+masculine
+
+73799	feminine
+73803	masculine
+feminine
+73808	masculine
+73811	
+neuter
+73814	
+
+73818	
+
+masculine
+
+73837	
+73840	masculine
+73845	masculine
+feminine
+73848	feminine
+73850	
+73855	masculine
+73859	
+73862	
+73864	
+feminine
+73867	feminine
+73871	feminine
+73874	neuter
+73877	
+73887	neuter
+feminine
+
+73892	
+73896	
+neuter
+feminine
+73902	
+feminine
+73908	
+73911	
+73913	
+73915	
+73917	masculine
+masculine
+73922	
+masculine/neuter
+73926	masculine
+73928	neuter
+73931	
+73933	
+73938	feminine
+73951	
+73960	feminine
+73962	
+73964	
+73967	feminine
+73969	
+73972	
+73974	
+73983	
+
+
+73989	
+73992	
+feminine
+73996	
+73998	feminine
+masculine
+74002	feminine
+74004	
+feminine
+74008	
+feminine
+74011	
+74013	feminine
+
+
+74020	
+74027	
+masculine/neuter
+
+74037	
+74039	feminine
+74042	
+74047	
+74051	
+feminine
+74054	
+74058	
+
+
+74062	masculine
+74070	
+
+feminine
+
+neuter
+74077	feminine
+74079	
+74083	
+74093	feminine
+
+74102	
+neuter
+74106	
+neuter
+
+masculine
+74111	
+74120	
+74123	
+74127	
+74131	masculine
+74134	masculine
+
+feminine
+74142	
+74145	
+74148	masculine
+74154	feminine
+74158	feminine
+74161	masculine
+74163	
+74167	masculine
+74175	
+74180	feminine
+74189	feminine
+neuter
+74192	
+74194	feminine
+74197	
+74205	masculine
+
+
+74215	masculine
+
+74218	masculine
+74221	masculine
+74225	
+
+74228	masculine
+74232	
+74234	
+74240	
+
+74243	feminine
+74245	
+
+
+neuter
+74250	feminine
+
+74254	
+feminine
+74259	
+74262	
+74264	neuter
+74273	masculine
+74276	masculine/feminine
+74279	
+74281	masculine/neuter
+74284	feminine
+74286	feminine
+74289	
+feminine
+74294	
+74296	masculine
+
+masculine
+74303	feminine
+74306	masculine
+74308	masculine/neuter
+74312	
+
+feminine
+74317	
+masculine/neuter
+masculine
+74328	neuter
+74333	masculine
+74336	feminine
+feminine
+
+neuter
+74341	feminine
+74344	
+74348	feminine
+74352	
+74354	
+74356	masculine
+74359	
+74362	
+74364	masculine
+neuter
+74369	
+74372	
+74374	
+74377	masculine/neuter
+masculine
+
+74381	masculine
+74386	
+74388	
+74390	
+74395	feminine
+feminine
+74398	
+74400	
+74403	
+74405	masculine
+74410	masculine
+74412	neuter
+feminine
+74423	
+masculine
+masculine
+74427	feminine
+74432	
+74434	
+74442	masculine
+
+
+74446	
+74458	
+74460	masculine
+74463	neuter
+74465	
+74470	
+
+74474	
+neuter
+74486	
+74488	
+masculine
+
+
+feminine
+
+
+feminine
+74497	
+74501	masculine
+74503	masculine
+74506	masculine
+
+74509	
+74513	feminine
+74515	feminine
+masculine
+74519	masculine
+74523	
+74525	feminine
+74527	feminine
+74529	feminine
+74532	
+74537	
+
+
+masculine/neuter
+74542	feminine
+
+74546	
+masculine/neuter
+74552	masculine/feminine
+74555	masculine
+
+
+74559	feminine
+74563	masculine/neuter
+74570	
+feminine
+74573	
+74575	
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+74582	masculine
+74584	masculine
+74587	feminine
+
+74590	feminine
+feminine
+74594	
+74596	
+
+74599	masculine/feminine
+74601	neuter
+74603	
+74617	
+74622	
+
+masculine
+74629	
+feminine
+74643	feminine
+74647	feminine
+74650	
+74652	feminine
+
+74665	
+74678	
+feminine
+74685	masculine
+74689	
+masculine/neuter
+74694	feminine
+
+74697	masculine
+74700	
+74704	
+74706	feminine
+
+74712	
+masculine/neuter
+
+74724	masculine
+74728	
+74730	masculine
+74732	feminine
+74734	feminine
+74739	
+74741	masculine
+74752	feminine
+74755	masculine
+74759	
+
+74764	masculine
+masculine
+74770	
+masculine/neuter
+74778	feminine
+74780	feminine
+74783	feminine
+74787	
+74790	
+74793	
+74796	
+74803	feminine
+74811	
+74818	neuter
+74827	feminine
+74832	
+74839	
+feminine
+neuter
+74843	
+
+
+74849	feminine
+74852	
+feminine
+74855	feminine
+feminine
+74863	
+74865	feminine
+74868	
+74871	feminine
+74874	
+74877	feminine
+74881	feminine
+74884	
+74887	
+74890	
+74893	
+74895	feminine
+74898	
+74900	feminine
+74902	
+74904	feminine
+74908	
+74912	masculine
+74916	feminine
+74918	
+74922	feminine
+74924	
+74930	
+74933	masculine
+74936	masculine
+
+
+feminine
+neuter
+masculine/feminine
+
+74947	
+74950	
+feminine
+74953	
+74955	feminine
+neuter
+74960	masculine
+74965	
+74969	feminine
+
+masculine
+74974	
+masculine/feminine
+74978	feminine
+74981	feminine
+74986	
+74989	feminine
+74991	feminine
+74995	feminine
+74999	
+75002	neuter
+75004	masculine/neuter
+75018	neuter
+75024	masculine
+75027	neuter
+masculine
+75031	
+75037	
+75041	neuter
+neuter
+75045	feminine
+
+75050	
+masculine/neuter
+75054	
+75058	
+75060	
+feminine
+75065	masculine/neuter
+
+75070	masculine/feminine
+75074	
+masculine/feminine
+75081	masculine/feminine/neuter
+75085	feminine
+
+75089	masculine/feminine
+
+feminine
+75093	masculine
+feminine
+
+
+
+
+75100	
+75102	masculine/neuter
+
+75108	
+75111	feminine
+masculine
+75117	
+75119	
+
+masculine
+
+75124	masculine
+masculine/neuter
+75136	masculine
+masculine/feminine
+75139	
+75141	feminine
+75144	feminine
+feminine
+75151	masculine
+75153	
+75155	
+75164	neuter
+75166	masculine
+feminine
+masculine/neuter
+masculine/neuter
+75175	masculine/neuter
+
+feminine
+75180	masculine/feminine
+75182	
+75187	
+neuter
+75191	feminine
+75193	masculine
+75196	feminine
+feminine
+75205	feminine
+75207	
+75210	
+75221	
+75229	feminine
+
+75233	
+75236	masculine/feminine
+75239	feminine
+75241	
+75243	masculine
+75246	feminine
+masculine
+
+75256	feminine
+75258	
+75263	feminine
+
+
+75268	feminine
+feminine
+75274	neuter
+75277	feminine
+75280	
+75282	masculine
+75288	
+75297	
+masculine
+75301	neuter
+75314	
+
+75318	feminine
+75322	
+75324	masculine
+75327	
+75331	masculine
+75333	neuter
+neuter
+75337	masculine
+75343	neuter
+neuter
+masculine/neuter
+75351	
+
+75356	
+75359	
+75363	
+75377	masculine
+
+75384	
+75393	
+
+feminine
+75398	
+masculine
+75403	masculine
+neuter
+75406	feminine
+75410	neuter
+75413	
+75418	
+75420	masculine
+75423	
+75427	
+
+
+neuter
+75437	feminine
+
+75440	feminine
+75444	
+75449	feminine
+75453	
+75456	feminine
+75462	masculine
+
+feminine
+75470	
+
+
+75488	masculine
+75492	feminine
+75508	
+75511	
+masculine
+75514	masculine
+
+75519	
+75527	
+
+75532	masculine
+75536	
+75538	masculine
+
+75544	feminine
+75546	
+75549	neuter
+masculine
+neuter
+masculine
+75555	
+
+75558	
+
+feminine
+neuter
+75564	
+75567	
+feminine
+75575	masculine
+75578	feminine
+75583	masculine
+75589	
+75598	masculine
+75605	
+75620	masculine
+
+masculine
+75629	
+75632	masculine
+75643	masculine
+75658	
+neuter
+
+75664	masculine
+
+75667	masculine
+75670	
+feminine
+75673	
+75679	masculine
+
+75684	
+75688	masculine
+75692	
+75695	
+75703	
+75706	feminine
+75709	masculine
+
+75717	
+feminine
+75723	masculine
+75727	masculine
+75729	
+
+75733	masculine
+75736	masculine
+75738	
+75740	
+75745	
+75747	neuter
+75749	
+
+75752	
+75758	
+75763	neuter
+masculine
+75767	feminine
+75775	feminine
+75777	neuter
+75780	masculine
+75786	feminine
+feminine
+75793	masculine
+75798	
+feminine
+75804	
+75807	feminine
+75810	
+75815	
+
+75823	
+75826	
+75835	
+75837	
+
+feminine
+feminine
+75844	
+75848	feminine
+75855	
+
+75858	
+75860	neuter
+75863	
+masculine
+75866	feminine
+masculine/feminine/neuter
+
+75871	
+75876	masculine/neuter
+75880	
+75883	neuter
+75886	masculine
+75890	feminine
+
+75893	feminine
+75895	
+75900	masculine/feminine
+75902	
+75905	masculine/neuter
+75909	masculine/feminine
+75913	
+75917	masculine
+75919	masculine/feminine
+
+75924	
+
+75927	
+75930	
+75934	
+75936	
+masculine
+masculine
+75941	
+
+neuter
+
+75946	feminine
+masculine
+75952	feminine
+75954	masculine/neuter
+
+75958	
+75962	neuter
+75966	
+75969	
+
+neuter
+75973	neuter
+75978	neuter
+feminine
+
+75983	
+75986	feminine
+masculine
+75989	
+75991	
+
+
+75995	masculine
+feminine
+75998	masculine
+76001	
+masculine/neuter
+
+76007	feminine
+neuter
+
+76011	
+76013	neuter
+76016	
+76019	
+76024	
+76030	feminine
+76033	masculine
+
+neuter
+76044	masculine/feminine
+76048	masculine/neuter
+76050	
+76053	
+76058	
+76060	
+76063	feminine
+feminine
+76066	
+76074	
+
+76077	
+76080	
+76082	
+
+76088	
+76090	
+76092	neuter
+76096	
+76098	feminine
+76100	neuter
+76102	feminine
+76112	feminine
+
+
+76119	
+76121	
+76126	masculine
+76131	feminine
+76134	masculine/neuter
+feminine
+masculine
+76139	masculine
+76141	neuter
+76143	masculine/neuter
+76149	neuter
+76153	
+feminine
+
+76161	
+76165	neuter
+76180	feminine
+76182	
+76186	masculine/feminine
+76189	masculine
+masculine
+
+neuter
+76197	
+76201	
+feminine
+76216	feminine
+76225	
+76229	
+
+76232	
+76235	
+neuter
+76243	
+76248	feminine
+76251	feminine
+76253	neuter
+76256	
+76258	neuter
+76265	masculine
+76267	feminine
+76269	feminine
+76273	feminine
+76275	
+76280	masculine/neuter
+76284	masculine/neuter
+76288	
+76290	
+feminine
+76295	
+76298	
+76306	masculine
+
+feminine
+neuter
+
+feminine
+76316	neuter
+76319	
+masculine/neuter
+76322	
+
+76325	
+76334	
+76336	neuter
+masculine
+
+76342	
+76344	masculine
+masculine
+
+
+76355	
+76358	
+masculine
+
+
+masculine
+76368	
+76370	feminine
+76376	feminine
+76379	
+76383	
+
+76387	
+76390	feminine
+76393	masculine
+76395	
+76403	masculine
+
+neuter
+76408	
+76411	feminine
+76414	masculine
+76417	
+76422	
+neuter
+masculine
+76428	
+76430	
+76433	
+76435	masculine
+
+76438	
+76440	
+76442	masculine/neuter
+
+76448	
+76453	
+76455	feminine
+76468	
+76478	
+76483	
+76486	neuter
+76491	feminine
+76497	
+76499	feminine
+76507	
+76516	
+neuter
+76520	
+76524	
+76527	
+76532	feminine
+76534	neuter
+76536	
+76538	
+
+76544	
+76546	feminine
+
+
+76550	
+76556	
+76558	
+76562	
+76564	
+feminine
+76569	masculine/feminine
+76572	
+76575	
+76577	feminine
+76581	feminine
+76585	feminine
+76588	
+neuter
+76593	
+neuter
+76597	
+76601	
+76605	
+masculine/neuter
+76609	
+76614	
+feminine
+76617	
+masculine
+masculine
+76628	
+76633	
+76640	
+76645	
+
+76649	
+76651	
+76653	feminine
+76655	masculine
+76668	feminine
+76671	masculine/feminine
+76676	
+
+feminine
+76680	masculine
+76683	masculine
+76687	
+
+76690	feminine
+76692	
+76696	feminine
+feminine
+feminine
+76700	
+neuter
+76705	feminine
+
+76710	
+76712	masculine
+76715	masculine
+76721	
+76723	masculine
+76726	
+76728	
+76732	masculine
+76734	neuter
+
+76739	
+76745	
+
+76748	masculine
+
+76758	
+76764	
+76767	
+masculine/neuter
+masculine
+76773	
+76780	masculine
+76785	feminine
+76788	
+76790	masculine
+76797	
+76802	feminine
+masculine/feminine
+masculine
+76806	feminine
+76809	feminine
+
+
+
+76814	
+76821	masculine
+
+76824	
+76826	feminine
+
+76829	feminine
+76831	feminine
+masculine
+
+76835	
+
+76841	masculine
+76848	feminine
+
+76852	
+masculine/neuter
+76863	neuter
+76865	
+feminine
+76868	masculine
+76877	
+76879	
+76881	
+76886	feminine
+76889	feminine
+76892	feminine
+feminine
+76897	
+76901	masculine
+76907	feminine
+76909	feminine
+feminine
+76913	
+masculine/neuter
+masculine
+masculine
+76918	feminine
+76924	
+76927	neuter
+76929	masculine
+76931	
+76939	masculine
+
+76948	
+76951	
+
+76955	neuter
+76959	
+76961	
+76965	masculine
+
+76968	
+76970	feminine
+76972	
+76977	
+
+
+76990	
+76992	neuter
+76994	
+77003	
+masculine/neuter
+masculine
+77015	
+feminine
+
+77020	feminine
+77022	
+77027	masculine
+77032	masculine
+masculine
+77035	
+77040	
+77042	
+masculine/neuter
+neuter
+77048	
+
+77054	neuter
+77056	
+
+77061	feminine
+77063	feminine
+77065	
+77068	
+77074	
+77081	
+77083	feminine
+77086	masculine/neuter
+77090	neuter
+77094	
+77096	feminine
+77099	
+77108	
+masculine
+77114	masculine
+
+masculine
+77125	masculine
+77129	feminine
+feminine
+77132	
+77134	
+
+77139	feminine
+feminine
+77142	masculine/feminine
+77145	
+77147	
+
+77152	
+77156	feminine
+neuter
+77160	feminine
+77162	
+77164	masculine
+
+77167	
+
+masculine
+feminine
+masculine
+77178	masculine/feminine
+77181	
+77184	
+77189	feminine
+77191	neuter
+
+77203	
+feminine
+neuter
+77207	feminine
+77215	neuter
+masculine
+masculine
+feminine
+feminine
+77221	masculine
+77224	feminine
+77228	
+77231	
+77235	masculine/feminine
+77245	
+77249	
+77251	masculine
+feminine
+
+77257	masculine
+77260	
+77268	
+77271	
+77276	masculine
+
+77279	feminine
+
+77283	masculine
+masculine/feminine
+77292	
+
+77295	neuter
+77299	masculine
+neuter
+77307	
+
+77312	
+77315	
+77320	
+77322	
+77325	feminine
+feminine
+77328	masculine
+77331	neuter
+77346	masculine
+77354	
+77356	
+77358	neuter
+77360	masculine
+77362	feminine
+77367	
+77372	
+77379	neuter
+masculine/neuter
+
+77384	masculine
+77386	masculine
+77392	masculine/feminine
+77398	
+77401	
+77405	
+
+77409	
+77414	
+77420	
+77423	
+77430	
+77435	
+77437	
+77444	masculine
+neuter
+77448	feminine
+77454	
+feminine
+77458	feminine
+feminine
+feminine
+77467	
+77472	feminine
+masculine/feminine
+77479	masculine
+77482	
+77484	feminine
+77487	
+77489	feminine
+feminine
+
+77495	
+77497	feminine
+77503	masculine/feminine
+77516	feminine
+
+77524	feminine
+77528	masculine/feminine/neuter
+77533	
+77537	feminine
+77541	feminine
+77543	
+77549	masculine/neuter
+masculine/neuter
+
+77553	neuter
+77555	
+77560	
+77565	
+77567	
+77571	
+
+masculine/neuter
+masculine/neuter
+77587	
+neuter
+masculine/neuter
+
+77593	neuter
+
+77596	
+
+
+77600	
+77602	
+77606	
+77608	neuter
+77610	
+77614	
+masculine
+
+feminine
+77619	neuter
+
+
+77624	
+77627	feminine
+77633	
+77637	masculine/feminine
+77648	masculine
+77658	masculine
+77667	
+77671	
+77674	masculine/feminine
+
+77677	masculine
+77681	
+77686	feminine
+77689	neuter
+77694	
+77700	
+77704	neuter
+77706	
+77708	neuter
+77711	feminine
+77713	
+
+77716	feminine
+77719	
+masculine
+
+77724	feminine
+77728	
+77735	
+neuter
+77741	feminine
+
+77747	
+77750	
+77752	feminine
+feminine
+77756	
+
+77759	feminine
+
+77762	masculine/neuter
+77764	neuter
+77768	
+masculine/neuter
+77774	masculine
+77778	masculine/neuter
+77780	
+77784	masculine
+
+77790	
+77792	
+
+77795	
+feminine
+
+77807	
+masculine
+
+77812	
+77814	masculine
+masculine/neuter
+77819	
+77822	
+77825	
+77827	feminine
+
+77830	neuter
+
+77835	
+77839	masculine
+
+77844	
+
+feminine
+77848	
+77850	masculine/neuter
+77853	
+77856	
+masculine
+77859	
+
+77866	
+77869	neuter
+
+masculine/neuter
+masculine
+77875	masculine
+77878	
+
+77882	
+77884	
+
+77893	
+77898	feminine
+77901	
+
+77905	feminine
+
+77910	
+77916	
+77918	
+feminine
+77922	
+
+
+
+77929	
+77931	
+77933	feminine
+77937	masculine
+77942	
+
+
+77947	feminine
+
+77950	
+
+77953	
+
+77960	
+feminine
+
+feminine
+77966	
+77969	
+masculine/neuter
+feminine
+77975	feminine
+
+
+77979	feminine
+
+feminine
+77983	
+77985	
+77989	feminine
+77991	
+77993	masculine
+77995	feminine
+77998	feminine
+78001	feminine
+
+masculine/neuter
+78005	
+78009	
+
+78012	
+78017	
+78022	
+78024	
+78029	
+
+78038	
+neuter
+feminine
+78043	neuter
+78045	
+
+78049	
+78052	masculine/neuter
+78056	masculine
+
+masculine/neuter
+masculine
+
+78062	
+masculine
+78067	
+78072	
+feminine
+78075	
+78090	
+78092	
+78097	
+78101	
+78103	feminine
+78106	
+78111	
+78114	
+78117	
+feminine
+78121	feminine
+78124	
+78126	masculine
+78129	
+
+78134	
+masculine
+78139	masculine
+
+feminine
+78153	
+feminine
+78157	
+78163	
+neuter
+78170	feminine
+78172	
+feminine
+78176	
+78178	
+feminine
+
+78184	
+78186	
+78189	
+feminine
+78192	feminine
+78194	
+78196	feminine
+78201	
+feminine
+
+78208	feminine
+78218	
+78223	
+
+feminine
+feminine
+78233	masculine
+78235	
+78242	feminine
+78248	
+78251	
+78255	
+78258	
+
+78270	
+78273	
+feminine
+78277	feminine
+masculine/feminine
+78290	feminine
+78292	
+78295	
+78297	masculine
+78304	
+feminine
+
+78310	masculine
+78312	
+
+78315	feminine
+78319	
+
+78322	masculine
+78325	masculine/neuter
+
+78329	
+78337	masculine
+
+
+78343	
+78346	
+neuter
+78350	
+78356	
+78362	
+78365	
+78367	
+
+78370	
+78372	
+masculine/neuter
+masculine
+78378	
+
+78381	
+masculine/neuter
+78384	feminine
+78389	feminine
+78393	
+78399	feminine
+78403	masculine/feminine
+78410	neuter
+78415	masculine/neuter
+
+78418	
+78420	feminine
+masculine
+78425	feminine
+78427	neuter
+78430	masculine/feminine
+78436	masculine
+78441	
+78443	neuter
+78446	
+neuter
+78449	
+78452	feminine
+78454	
+
+masculine
+78461	masculine
+neuter
+78467	feminine
+78469	
+
+78477	feminine
+
+78481	
+78484	
+
+
+78489	masculine
+78491	
+feminine
+78496	masculine
+78500	feminine
+78511	
+78515	neuter
+78517	masculine
+
+
+masculine/feminine
+78526	feminine
+78533	neuter
+78537	
+78543	
+78547	
+78550	
+78554	masculine
+78577	neuter
+78581	
+78584	feminine
+78589	
+78591	neuter
+78594	
+78596	feminine
+
+78599	feminine
+
+78605	feminine
+feminine
+neuter
+
+78611	feminine
+78613	feminine
+
+masculine
+78618	feminine
+78620	masculine
+78622	
+
+masculine/feminine/neuter
+
+neuter
+78638	
+78641	neuter
+78643	neuter
+
+
+78648	
+78651	
+78662	
+78664	neuter
+78666	
+78671	
+78674	neuter
+78676	masculine
+
+78679	feminine
+78684	
+
+78687	neuter
+78689	neuter
+78693	feminine
+78695	
+78699	
+78703	
+78707	
+
+masculine/feminine/neuter
+78711	
+
+feminine
+
+78718	
+78720	feminine
+
+78724	
+
+
+78730	
+78735	
+78738	masculine
+78746	
+78752	neuter
+78755	
+78760	feminine
+78764	
+78769	
+78774	
+
+78780	
+78784	feminine
+78790	
+78792	
+
+78805	feminine
+78807	
+
+
+78814	
+78822	
+78824	
+neuter
+78827	
+
+78830	
+78836	masculine
+neuter
+78843	neuter
+78845	
+neuter
+78848	neuter
+78852	feminine
+masculine
+78856	
+78858	masculine
+78861	
+78864	
+78866	neuter
+78873	
+78875	feminine
+78880	
+78882	masculine/neuter
+neuter
+78885	
+78891	
+neuter
+78898	
+78901	
+78905	
+78911	masculine
+78916	
+78920	feminine
+78925	
+78941	
+78944	feminine
+78947	
+78949	feminine
+78951	neuter
+78956	
+78958	
+masculine/feminine/neuter
+78962	feminine
+
+
+78968	
+78976	
+78979	
+
+masculine
+
+78986	
+78988	neuter
+
+
+78993	neuter
+78999	feminine
+79004	
+
+79007	masculine
+79013	
+79026	feminine
+79029	
+
+
+79033	
+79038	
+79043	
+feminine
+79053	
+79055	
+masculine
+
+79063	masculine
+neuter
+79069	masculine
+79072	
+79077	
+79083	
+79086	
+79089	
+masculine
+neuter
+79093	masculine
+
+79097	
+79099	
+
+
+masculine
+79108	masculine
+
+
+79116	
+
+79119	
+79126	
+
+
+79132	masculine/feminine
+
+79140	
+masculine
+79146	
+
+79152	masculine
+79157	
+79159	neuter
+79161	
+neuter
+79166	masculine/neuter
+79168	masculine
+79171	feminine
+
+79176	masculine/feminine
+79178	
+79181	
+79183	
+
+
+masculine/feminine
+79190	feminine
+79199	
+
+79202	
+79205	masculine/neuter
+79209	
+79214	
+79219	
+
+masculine/feminine/neuter
+79224	
+feminine
+79229	masculine
+79231	neuter
+79233	
+
+neuter
+
+79241	masculine/neuter
+79244	
+masculine
+
+masculine
+79249	
+
+79255	feminine
+
+79258	masculine
+79262	masculine
+79264	
+79268	
+
+79271	masculine/neuter
+79279	masculine
+feminine
+79283	
+79286	
+79290	
+79292	
+79294	masculine/feminine
+79296	masculine
+79299	
+79302	
+
+79305	
+79308	feminine
+masculine
+79318	
+79323	feminine
+79325	masculine/neuter
+feminine
+79331	
+79335	neuter
+79339	
+79341	
+
+79350	feminine
+79354	
+79359	neuter
+
+79365	neuter
+79367	
+79369	neuter
+79373	
+79375	
+79377	neuter
+
+79380	
+79383	masculine
+79387	neuter
+79395	neuter
+79397	
+79399	
+79403	
+neuter
+79407	
+
+79410	neuter
+79414	
+79419	neuter
+79427	
+79431	
+masculine
+79437	neuter
+79442	
+79446	
+79448	
+79452	
+79462	masculine
+
+79471	neuter
+79479	
+79481	
+79483	neuter
+79485	
+
+
+79491	
+feminine
+79495	
+
+79500	feminine
+neuter
+79503	
+
+
+79510	
+79514	neuter
+79518	
+79520	masculine
+79522	neuter
+79528	
+neuter
+79531	
+79535	neuter
+79539	masculine
+79542	neuter
+79545	
+
+79550	neuter
+79555	
+79557	
+79560	
+neuter
+
+79564	masculine/neuter
+79566	
+masculine
+79570	neuter
+79572	
+79574	neuter
+79582	
+
+
+
+79597	feminine
+79601	
+79615	
+79618	masculine/neuter
+79626	feminine
+feminine
+79634	
+79637	
+79642	masculine
+79645	
+
+
+79650	
+79655	
+79662	neuter
+79666	neuter
+79669	feminine
+79673	
+
+79677	
+feminine
+79681	
+79683	
+79686	feminine
+79688	
+79690	neuter
+masculine
+
+
+
+79697	feminine
+79699	
+
+79703	masculine
+
+79706	
+79708	
+79711	feminine
+79713	
+masculine
+79718	masculine
+79723	feminine
+
+79728	
+79730	masculine/feminine
+79732	masculine
+79744	neuter
+79750	feminine
+
+79758	
+
+79762	
+
+79767	
+feminine
+
+79772	
+feminine
+79775	
+79779	
+79782	masculine/feminine
+79784	
+79787	
+79789	neuter
+79795	
+79799	
+79801	
+79803	
+79807	neuter
+79809	feminine
+79811	masculine
+79814	masculine
+79816	
+79820	
+79822	
+79825	neuter
+79836	neuter
+79847	masculine
+79850	
+masculine
+79856	
+neuter
+79860	
+79862	masculine
+79867	
+
+79870	
+79872	
+masculine
+79876	
+
+masculine
+79884	
+79887	
+79890	
+79893	
+79902	
+feminine
+79905	masculine/feminine
+79914	feminine
+
+
+79920	
+masculine/feminine
+79925	
+79927	neuter
+79934	
+79936	
+
+79942	feminine
+79947	masculine
+
+79954	feminine
+79963	
+
+79969	
+79986	masculine
+
+79993	
+79998	masculine
+80001	
+80003	feminine
+
+80006	
+80009	neuter
+
+80017	feminine
+80023	
+80026	feminine
+80028	
+neuter
+80032	
+80034	feminine
+80037	neuter
+
+
+feminine
+80047	
+80049	
+
+
+
+80054	masculine
+
+80058	
+
+80063	
+masculine
+80068	
+80076	feminine
+80078	
+80083	
+80090	
+
+80093	
+80096	
+80100	masculine
+80103	
+80110	masculine/feminine
+80113	
+80115	feminine
+80120	
+80122	feminine
+80124	masculine/neuter
+80128	masculine
+
+masculine/neuter
+80132	feminine
+
+
+80136	
+80143	feminine
+80145	neuter
+
+
+80150	masculine
+80157	
+80159	
+
+80164	
+80167	neuter
+80169	masculine
+masculine
+
+80173	feminine
+
+80178	
+neuter
+80181	feminine
+80183	masculine
+feminine
+80199	neuter
+masculine
+80202	
+
+masculine
+masculine/neuter
+80208	
+80213	
+80218	
+80223	
+80230	feminine
+80235	neuter
+
+
+80242	
+
+80252	
+
+80257	masculine
+80263	
+80265	neuter
+80269	
+80271	
+80274	masculine
+neuter
+masculine
+80278	
+neuter
+80281	masculine
+80283	feminine
+80286	
+80288	masculine/neuter
+80290	
+80292	masculine/feminine
+
+80295	feminine
+80300	masculine
+
+80305	
+
+masculine/feminine/neuter
+
+80311	masculine/feminine
+masculine
+
+masculine/neuter
+masculine
+
+80318	
+80322	
+80325	
+
+80328	masculine
+80332	masculine/neuter
+80334	masculine/feminine/neuter
+80337	masculine
+
+
+80343	
+80347	
+masculine/feminine/neuter
+
+80351	masculine/neuter
+80353	
+80358	
+80363	
+
+80366	masculine
+80372	masculine/neuter
+80374	
+feminine
+80379	
+80383	masculine
+masculine/feminine
+
+80389	masculine
+80392	feminine
+feminine
+80396	masculine
+80398	neuter
+80401	
+80408	
+80410	
+80413	
+
+masculine/feminine/neuter
+80418	
+
+80421	
+
+80426	feminine
+80429	
+80431	
+
+80435	
+80440	
+80445	
+80450	
+80452	
+80456	
+80459	
+80462	
+80465	feminine
+80470	masculine/neuter
+80474	neuter
+80476	
+80478	feminine
+80481	
+
+80484	masculine
+neuter
+80487	
+
+feminine
+80491	feminine
+80493	
+
+80504	feminine
+
+80510	feminine
+80513	neuter
+80518	
+80527	
+80530	
+masculine
+80534	masculine/neuter
+80536	
+80542	
+80544	
+80548	neuter
+80550	
+80553	
+80559	masculine
+feminine
+80563	
+80568	
+80572	
+80582	neuter
+80588	feminine
+80592	neuter
+80600	
+80604	masculine/feminine
+feminine
+80607	
+80614	masculine
+80617	masculine
+masculine
+80620	masculine
+
+
+80628	
+80630	
+80632	
+80634	
+80636	
+80640	
+80643	neuter
+80647	
+80651	
+80656	
+neuter
+80659	masculine
+80661	
+
+80664	
+80666	
+80669	
+
+80674	
+80677	
+80679	feminine
+80681	masculine/feminine
+80683	
+
+
+
+80689	
+
+80692	
+80700	
+80703	masculine
+80708	feminine
+80710	feminine
+80713	feminine
+80715	
+
+
+80719	masculine/neuter
+
+80722	
+80726	masculine
+80728	
+80730	neuter
+80732	
+masculine
+80736	neuter
+80742	
+80744	
+
+80747	
+80749	
+80751	
+80757	
+
+80760	neuter
+80764	
+80768	masculine/neuter
+80770	
+80775	
+80778	
+80780	
+80783	masculine/feminine/neuter
+80785	neuter
+
+80793	
+80799	masculine/neuter
+80803	masculine
+80806	masculine
+
+80809	neuter
+80813	
+80815	
+masculine
+80819	masculine
+
+feminine
+80824	masculine
+80826	neuter
+80831	
+80836	
+80838	masculine/feminine
+feminine
+80842	neuter
+80844	
+80847	feminine
+
+80851	masculine
+80860	
+80863	
+80866	masculine
+80869	masculine
+80872	masculine
+80875	
+
+80879	
+
+80886	masculine/feminine
+80889	
+neuter
+80892	
+80902	
+80907	
+feminine
+80911	
+
+80914	
+80919	
+80921	
+80923	masculine
+
+feminine
+feminine
+80930	
+feminine
+80934	masculine/feminine
+80937	
+80945	masculine
+80949	neuter
+80952	masculine
+80958	
+
+
+80963	
+80965	
+80969	
+80975	
+80977	
+80979	
+80983	feminine
+
+
+80988	masculine
+80997	
+
+
+81002	
+
+81006	
+81008	
+masculine
+81015	feminine
+81018	
+81025	masculine/neuter
+81033	
+81035	
+neuter
+81040	neuter
+81042	masculine
+81046	masculine
+81048	masculine/feminine
+81050	
+81053	
+81058	masculine
+81061	
+81066	masculine
+81068	
+81076	neuter
+81078	
+81080	
+81085	neuter
+
+81089	
+81092	
+
+masculine/feminine/neuter
+81096	
+81101	masculine/neuter
+81105	
+81107	masculine
+81112	
+81114	
+81118	
+81120	neuter
+81125	
+feminine
+
+81135	masculine
+81137	neuter
+
+81140	neuter
+81142	
+81149	
+81151	masculine
+81153	masculine
+81156	neuter
+81158	
+81161	
+81164	neuter
+masculine
+81168	
+81175	
+81177	
+81182	
+81190	
+
+neuter
+81194	
+81197	
+81203	neuter
+81206	
+
+81221	
+81224	masculine/neuter
+81228	
+
+81232	
+81236	masculine/neuter
+
+
+81241	feminine
+
+81244	
+81248	
+81250	masculine
+81253	
+81256	
+
+neuter
+81260	
+
+81270	masculine
+
+81273	
+feminine
+feminine
+
+81280	
+81286	masculine/feminine/neuter
+81288	
+81290	
+81292	neuter
+81294	masculine
+
+81297	masculine/neuter
+81299	feminine
+81303	
+feminine
+81306	masculine
+81312	
+81317	feminine
+81319	
+81321	
+feminine
+
+81326	
+81328	
+81330	
+81332	
+81335	masculine
+feminine
+
+
+81347	
+
+81355	
+81359	masculine/neuter
+masculine/neuter
+
+81366	feminine
+81378	masculine
+81386	
+masculine
+neuter
+81390	masculine
+
+81394	masculine
+81398	
+81405	masculine/neuter
+
+81409	
+masculine
+81412	masculine
+
+81423	masculine
+masculine
+masculine
+81427	
+81433	
+81436	
+masculine
+
+81440	feminine
+
+
+81444	
+
+81449	
+
+masculine
+81454	masculine
+
+81459	neuter
+81462	
+81465	feminine
+81467	
+81471	masculine
+81474	masculine/feminine
+81476	
+81478	
+81480	
+81482	masculine
+81486	feminine
+81489	
+81495	
+81501	masculine
+feminine
+81504	
+81512	
+
+masculine/feminine/neuter
+81517	
+81519	feminine
+81522	
+
+81526	feminine
+81536	masculine
+81539	masculine
+
+81545	masculine
+
+81548	neuter
+masculine
+
+masculine
+
+81554	feminine
+81558	
+81566	
+masculine/neuter
+neuter
+81572	
+81574	feminine
+81576	feminine
+feminine
+masculine
+81580	
+
+81583	neuter
+81591	
+feminine
+81597	
+81601	neuter
+81607	
+81618	
+
+81624	masculine
+81627	
+
+81630	neuter
+81636	
+81641	
+neuter
+81646	
+
+
+81650	
+81653	
+81657	masculine
+
+81673	feminine
+81675	
+81677	neuter
+81680	neuter
+81682	
+81686	masculine
+81690	masculine
+81694	masculine
+
+81697	
+
+feminine
+neuter
+81702	neuter
+81707	
+81712	neuter
+81715	
+81718	masculine
+
+81721	
+
+
+feminine
+
+81727	
+
+81736	
+81739	
+feminine
+81747	
+81749	
+81751	feminine
+81756	masculine/feminine
+
+81759	masculine
+81764	
+81768	neuter
+81770	
+81776	
+81778	feminine
+81781	masculine
+81785	feminine
+81788	
+81790	
+81795	
+81797	feminine
+81799	feminine
+81802	
+feminine
+81805	feminine
+
+81808	neuter
+
+81812	
+
+81815	
+81817	feminine
+
+81820	
+81828	
+81833	feminine
+
+
+81839	
+81843	masculine
+81846	
+81848	masculine/feminine
+masculine
+81854	
+81857	
+81859	
+81863	
+81865	
+81867	feminine
+81872	
+81875	neuter
+81877	masculine
+81880	masculine
+
+81886	
+81889	
+81892	
+81894	
+81897	
+masculine/neuter
+81900	
+81903	neuter
+81905	
+
+81909	
+81913	
+81917	masculine/neuter
+
+81920	
+81925	masculine
+81929	
+81931	
+
+81935	
+masculine
+
+81940	masculine
+81942	
+neuter
+81945	
+81949	
+81956	
+81968	neuter
+81973	
+81979	
+81981	masculine
+81983	masculine
+81987	neuter
+81991	
+81994	masculine
+81998	
+82005	
+82014	
+82017	masculine/neuter
+82019	
+
+
+82024	
+82028	
+82033	
+82039	feminine
+82043	
+82048	feminine
+
+82051	feminine
+masculine
+82058	neuter
+82060	
+82062	feminine
+
+
+82066	
+82074	masculine
+
+82082	
+82084	feminine
+82086	
+feminine
+82089	masculine
+82091	
+feminine
+82094	
+masculine/neuter
+82097	
+82099	
+82105	
+
+
+82113	masculine
+masculine
+masculine
+82118	masculine
+
+82122	
+82124	masculine
+neuter
+82131	
+82133	
+82137	
+
+
+82147	
+masculine
+82150	masculine/feminine
+
+feminine
+82154	
+82160	masculine/neuter
+
+
+82164	
+82168	
+masculine
+82172	masculine/feminine
+82174	
+82177	
+feminine
+masculine/neuter
+82186	
+feminine
+82193	
+82198	feminine
+82203	feminine
+82211	
+82216	neuter
+
+82220	feminine
+
+82223	feminine
+82227	
+neuter
+82230	
+
+82235	neuter
+82239	
+
+82245	
+82248	masculine
+82250	feminine
+feminine
+82253	masculine
+82255	feminine
+82260	
+neuter
+82265	neuter
+82269	masculine
+masculine
+82273	feminine
+masculine
+82276	
+82280	
+feminine
+82283	masculine
+82293	masculine/neuter
+82299	
+82306	
+
+masculine
+82311	feminine
+82321	masculine
+
+82324	feminine
+
+
+
+
+82335	masculine
+82342	
+82345	
+82347	neuter
+82355	masculine/feminine
+
+82359	
+82362	
+82364	
+82371	
+
+82375	feminine
+82382	
+82388	
+82393	
+82400	feminine
+82402	feminine
+82406	feminine
+82408	feminine
+
+82412	
+82416	masculine
+82424	
+
+neuter
+82428	
+82430	
+82435	
+82441	masculine
+82443	masculine
+82458	masculine
+82461	
+82471	feminine
+82475	
+masculine
+feminine
+82480	masculine/feminine
+82482	
+82488	masculine/feminine
+82491	
+82494	feminine
+feminine
+82497	
+82501	feminine
+82506	
+82515	
+82519	feminine
+82521	
+82524	
+
+82528	masculine
+
+neuter
+82532	masculine
+82536	
+82539	
+82541	
+82543	neuter
+82550	masculine
+feminine
+82555	
+neuter
+82559	
+82561	masculine
+
+82568	masculine
+82570	
+82574	
+82577	neuter
+82581	feminine
+masculine/neuter
+82587	
+82591	
+82594	neuter
+
+82602	
+82604	
+masculine/neuter
+82607	
+82612	feminine
+feminine
+masculine/feminine
+82616	
+82621	
+82627	
+82630	neuter
+82635	
+82639	
+82645	masculine
+82647	masculine
+
+82656	masculine/feminine
+82659	
+
+feminine
+82665	feminine
+82671	masculine/feminine
+feminine
+82674	
+82677	
+82682	masculine
+82685	
+feminine
+82688	feminine
+masculine/feminine
+82693	
+82698	feminine
+82700	
+82703	
+82705	masculine/neuter
+82711	
+feminine
+82716	
+82721	masculine
+82724	feminine
+82726	masculine/neuter
+82728	
+
+masculine/feminine
+82732	
+masculine/feminine/neuter
+82735	masculine
+82738	feminine
+neuter
+82742	
+
+82746	
+82749	
+82751	
+
+82758	
+masculine/neuter
+82765	feminine
+masculine/feminine
+82772	masculine
+masculine
+82776	feminine
+
+82784	masculine
+82786	
+82788	
+82792	masculine/feminine/neuter
+82794	
+82797	
+82801	masculine
+82806	
+feminine
+82809	feminine
+feminine
+
+82813	
+
+masculine/neuter
+82818	masculine
+
+82821	masculine
+82823	
+
+82827	
+82830	feminine
+82834	feminine
+82836	feminine
+82839	
+82844	
+82850	masculine
+82854	neuter
+82859	
+82870	
+82874	
+masculine
+
+82878	neuter
+
+
+feminine
+feminine
+82890	masculine/feminine
+82892	
+82894	
+82898	feminine
+82902	
+82904	feminine
+82910	feminine
+
+
+feminine
+82917	
+masculine
+82921	
+82923	masculine
+82926	masculine
+82928	
+feminine
+82932	masculine
+82936	masculine/neuter
+masculine
+82945	
+82947	
+82950	neuter
+
+masculine
+82956	masculine
+82958	feminine
+82960	
+82965	masculine/neuter
+masculine
+82973	
+82979	
+82986	
+82989	feminine
+neuter
+
+82996	
+83002	feminine
+83005	
+83011	
+83015	
+
+83020	
+83025	
+
+83029	
+83033	
+
+83041	
+
+
+83054	feminine
+
+
+83059	feminine
+83061	
+masculine/neuter
+masculine
+masculine/neuter
+83071	masculine/neuter
+masculine
+83076	
+masculine
+
+83081	feminine
+83083	masculine
+
+
+83089	
+
+
+
+83097	
+
+
+83101	
+
+
+feminine
+
+83108	
+83110	feminine
+masculine
+masculine/neuter
+
+masculine/neuter
+masculine/neuter
+83117	
+83119	
+83122	
+83125	
+83130	
+83132	
+
+83135	
+83139	masculine
+masculine/neuter
+83144	
+83147	
+83151	
+83153	
+83155	
+83157	masculine/neuter
+83159	masculine/neuter
+masculine
+masculine/neuter
+masculine
+83164	masculine/feminine/neuter
+
+
+83168	feminine
+masculine
+masculine/neuter
+83173	masculine/neuter
+
+feminine
+83177	masculine/neuter
+83179	
+
+
+83183	masculine/feminine
+83187	neuter
+83191	
+
+83195	
+
+83198	
+
+
+
+83204	masculine/neuter
+83211	masculine
+
+
+
+
+83217	
+
+83220	
+
+83224	feminine
+
+83228	feminine
+83231	
+83233	
+83235	
+83238	feminine
+83243	
+
+feminine
+83247	
+83250	masculine/neuter
+83253	
+83257	feminine
+83260	
+83265	feminine
+83269	
+83272	masculine/feminine
+83274	
+83276	
+
+83280	
+83287	
+
+83300	
+83302	
+83307	
+83309	masculine
+83312	
+83314	
+83317	
+83321	masculine
+83326	
+
+83332	
+83336	neuter
+83344	
+
+83347	
+83349	feminine
+83356	feminine
+
+83363	
+
+masculine
+83367	
+83369	neuter
+83374	feminine
+83377	
+83380	
+83383	feminine
+
+
+83387	masculine/feminine/neuter
+
+83392	
+83400	masculine
+83402	
+masculine
+83405	
+83407	
+83409	
+83412	feminine
+83415	feminine
+83417	feminine
+neuter
+83421	
+83426	
+
+83429	
+
+83434	
+83438	masculine
+83440	
+83444	neuter
+83446	
+83448	
+83450	
+feminine
+
+83454	
+83456	feminine
+83458	feminine
+
+83464	feminine
+
+
+
+
+neuter
+83475	feminine
+neuter
+83482	
+83485	feminine
+neuter
+83490	neuter
+83492	
+feminine
+feminine
+83498	feminine
+feminine
+83503	
+
+83506	neuter
+masculine/neuter
+masculine
+83511	masculine
+83516	
+83518	
+83520	
+83522	feminine
+feminine
+
+83527	
+
+83536	
+83538	
+feminine
+
+83543	feminine
+83548	masculine
+83550	
+feminine
+83554	neuter
+83556	
+83558	masculine
+83560	feminine
+83564	
+83569	
+
+
+83573	
+feminine
+83576	
+83578	feminine
+83582	neuter
+
+
+83592	
+
+83595	
+masculine
+feminine
+feminine
+83600	
+
+
+83605	feminine
+
+
+83609	
+83614	
+
+83618	neuter
+neuter
+
+83623	
+83626	neuter
+
+feminine
+83630	feminine
+83632	neuter
+neuter
+
+83636	
+83639	
+
+83642	
+feminine
+83646	feminine
+feminine
+83652	
+83654	neuter
+neuter
+83657	feminine
+feminine
+83661	masculine
+feminine
+
+83665	
+83668	
+
+
+
+
+83675	
+83678	masculine
+83682	
+83684	
+83687	
+
+
+
+masculine
+
+
+83697	masculine/neuter
+83700	
+83702	neuter
+
+
+feminine
+
+83710	
+
+83713	
+83715	
+feminine
+83718	
+83724	
+
+83727	
+83731	
+neuter
+83735	
+83740	feminine
+83745	
+83747	neuter
+83752	feminine
+
+
+
+83761	masculine
+83764	
+83767	
+83769	
+83771	
+83777	masculine
+83784	neuter
+
+
+83789	masculine/feminine
+83791	masculine/feminine
+83793	
+83796	
+
+83799	feminine
+83804	masculine
+
+83807	
+neuter
+
+
+83812	masculine
+feminine
+83819	feminine
+83823	feminine
+feminine
+
+83827	
+83833	
+83838	masculine
+
+83842	
+83844	
+feminine
+83847	feminine
+83852	feminine
+83855	
+
+83858	masculine/neuter
+
+
+feminine
+
+neuter
+83865	feminine
+feminine
+83869	
+83871	masculine
+83873	feminine
+masculine/neuter
+masculine
+
+83880	
+83882	
+
+83886	
+
+83891	feminine
+83894	feminine
+83898	
+83902	neuter
+83905	masculine
+83908	
+neuter
+83911	
+83913	masculine
+83916	
+83921	feminine
+
+
+
+neuter
+83929	neuter
+83932	neuter
+83937	neuter
+masculine
+83942	neuter
+83944	feminine
+83946	
+83948	
+
+83951	feminine
+83954	
+83957	masculine
+83962	
+
+83965	feminine
+83967	
+83972	masculine
+83975	
+neuter
+83979	neuter
+83981	
+83984	feminine
+masculine
+masculine/neuter
+83988	
+neuter
+83991	feminine
+83993	feminine
+83995	
+83997	
+83999	feminine
+84001	
+
+
+84006	
+feminine
+84013	feminine
+masculine
+84016	feminine
+84019	masculine
+
+84024	neuter
+
+
+84030	
+feminine
+
+
+84035	
+84037	masculine
+84039	neuter
+
+
+84045	masculine
+
+
+84051	
+neuter
+84055	
+84059	
+
+84064	
+
+84067	
+84069	feminine
+84072	masculine
+84074	
+neuter
+84077	masculine
+84080	
+84082	feminine
+feminine
+
+
+84088	
+84090	
+84092	feminine
+
+feminine
+84097	
+
+
+84104	neuter
+84106	masculine/feminine
+84110	
+84114	
+84116	
+84118	
+masculine/neuter
+84121	
+
+
+84125	masculine
+
+84128	feminine
+neuter
+masculine/neuter
+
+84133	
+84135	
+84138	neuter
+84140	neuter
+84143	
+
+84146	
+84149	neuter
+
+
+neuter
+84156	
+84158	feminine
+feminine
+
+
+
+
+84167	
+84169	
+
+84173	masculine
+
+84183	masculine/neuter
+
+feminine
+
+
+84189	feminine
+feminine
+84192	
+feminine
+feminine
+84198	
+84217	
+84221	
+84225	neuter
+masculine
+84229	neuter
+
+84232	masculine
+84234	
+feminine
+84239	neuter
+masculine
+84244	feminine
+84248	neuter
+84250	feminine
+84252	feminine
+feminine
+84258	feminine
+84260	feminine
+84264	feminine
+84267	neuter
+84269	masculine
+84271	feminine
+
+84277	
+84279	
+feminine
+84283	
+84289	
+84293	feminine
+
+84296	
+feminine
+neuter
+84300	
+84302	
+
+
+
+84307	neuter
+84312	feminine
+84314	neuter
+84316	
+
+84319	
+84324	feminine
+84326	masculine
+
+feminine
+84338	
+84342	
+84346	masculine
+84349	
+feminine
+84352	masculine
+masculine/neuter
+
+84361	masculine
+84368	
+
+
+84372	
+84374	
+84376	feminine
+84380	
+masculine
+masculine
+84385	neuter
+84388	feminine
+84390	
+
+
+84394	
+84398	
+feminine
+84401	
+84405	
+84407	
+
+
+84415	
+
+
+84420	
+84424	neuter
+84430	masculine
+84433	feminine
+84435	
+feminine
+
+84442	
+feminine
+84449	feminine
+84454	
+masculine
+neuter
+84462	
+84467	neuter
+84470	
+
+84476	feminine
+84481	
+feminine
+84487	
+84489	
+84492	
+84497	masculine/neuter
+
+
+
+84503	
+84506	
+84511	masculine
+84514	feminine
+neuter
+
+84520	
+
+84525	
+84527	
+84530	neuter
+84534	
+
+
+
+84539	
+84549	neuter
+84551	feminine
+84553	
+
+84559	
+84562	
+
+84565	neuter
+84571	masculine/feminine
+84574	feminine
+84579	feminine
+84583	
+84587	masculine
+84589	neuter
+84595	
+
+84601	
+84604	
+84606	feminine
+84608	
+84610	
+84613	
+
+84616	
+
+84620	
+
+84623	
+84628	masculine
+84635	
+84638	
+84648	
+84656	masculine
+84660	masculine
+84662	
+84669	
+84672	
+84674	masculine/neuter
+84678	feminine
+84680	feminine
+84682	
+84684	
+
+84687	
+84692	
+
+feminine
+84697	
+84699	masculine
+84702	
+84704	feminine
+84708	feminine
+84710	neuter
+84713	
+84715	masculine/neuter
+84720	
+84722	neuter
+84727	
+
+
+84736	
+84739	
+84741	
+84744	
+84746	
+84754	masculine/neuter
+84757	
+84762	masculine
+84764	
+84766	
+
+84770	
+84773	feminine
+84775	neuter
+
+neuter
+84784	
+84791	
+84798	masculine/neuter
+84801	
+84803	feminine
+84809	masculine/feminine
+84811	feminine
+84814	
+84816	feminine
+84818	
+84822	
+
+84825	
+84827	
+
+84831	feminine
+84833	
+
+
+84838	
+84844	
+84849	
+84857	
+84860	
+84863	feminine
+84874	masculine
+masculine/neuter
+84877	feminine
+84880	feminine
+feminine
+84883	masculine/neuter
+84886	feminine
+84888	
+masculine/neuter
+84895	
+84898	masculine
+feminine
+
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+84906	
+84912	feminine
+
+84915	
+84917	
+
+84921	
+84925	
+
+
+84931	
+84933	
+
+84938	
+feminine
+84943	feminine
+84947	feminine
+84951	feminine
+84955	
+
+feminine
+
+
+
+84962	
+84964	
+masculine/neuter
+feminine
+84969	
+84971	masculine/feminine
+84974	masculine
+neuter
+masculine/neuter
+masculine
+84979	
+84987	
+84992	
+
+
+84997	
+84999	
+85003	
+
+feminine
+neuter
+85008	
+85011	neuter
+masculine/neuter
+masculine
+85015	masculine/neuter
+85022	
+
+85025	
+85028	
+85031	
+
+85037	
+
+feminine
+
+
+
+
+
+85049	
+85051	
+
+85056	
+85059	
+
+
+feminine
+
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+85069	
+85072	
+85074	neuter
+85079	
+feminine
+neuter
+
+85087	feminine
+85090	neuter
+85094	
+85096	feminine
+neuter
+85107	neuter
+
+
+85111	neuter
+85114	
+85118	
+85120	neuter
+85124	
+masculine
+85132	
+85140	
+85144	
+85151	
+85153	
+
+85157	masculine
+85162	feminine
+85164	
+
+85167	feminine
+85169	
+85172	
+85174	
+masculine
+masculine/neuter
+
+85183	
+85193	
+85195	
+85203	
+85205	
+85207	
+
+85211	neuter
+85214	feminine
+
+85219	masculine
+85221	neuter
+85230	
+
+
+feminine
+
+85236	masculine
+masculine/neuter
+masculine
+85240	
+85244	
+85246	feminine
+
+85254	
+85256	feminine
+
+
+85262	feminine
+85264	
+
+85267	
+85270	masculine
+85274	feminine
+85277	
+85279	
+85281	masculine
+85287	
+85290	masculine/neuter
+85293	feminine
+neuter
+85296	feminine
+85301	feminine
+neuter
+
+
+85308	feminine
+85310	
+feminine
+85313	
+
+neuter
+feminine
+masculine
+masculine/neuter
+
+masculine/neuter
+masculine/neuter
+85324	
+85329	feminine
+85331	
+85338	
+85341	
+85343	
+
+
+85348	
+masculine
+85351	
+85354	
+85359	feminine
+
+85362	
+85368	masculine
+85370	feminine
+feminine
+85373	
+
+85379	
+85383	
+85385	
+85387	
+85389	
+
+
+
+85399	
+neuter
+85402	masculine/neuter
+85411	
+85414	feminine
+85417	neuter
+85424	
+85428	masculine
+85430	
+85435	
+masculine
+85439	feminine
+85443	
+85455	
+
+
+
+85462	
+85465	
+85471	
+
+
+masculine
+masculine
+masculine
+85479	feminine
+neuter
+
+
+85484	masculine/neuter
+85486	
+85490	
+
+85493	
+feminine
+feminine
+masculine/neuter
+feminine
+85501	
+85504	
+
+85508	feminine
+85511	feminine
+feminine
+masculine/neuter
+feminine
+85516	
+
+neuter
+85520	masculine/neuter
+85522	
+85525	
+85528	
+85530	
+85534	
+85539	
+85541	
+85545	
+
+85548	
+85550	
+
+85553	
+
+85556	
+85559	
+85561	
+85563	
+85567	
+
+
+
+
+85577	
+
+85591	masculine
+
+feminine
+85598	masculine/neuter
+85602	feminine
+feminine
+masculine/neuter
+feminine
+85611	
+85617	feminine
+feminine
+masculine/neuter
+feminine
+85623	
+85625	
+85627	
+
+85631	
+
+85635	masculine/feminine
+85643	
+85647	feminine
+85657	
+
+
+85662	masculine/neuter
+
+85668	
+neuter
+feminine
+85672	feminine
+85679	
+
+85683	
+masculine
+masculine
+
+masculine/neuter
+masculine/neuter
+
+
+85695	
+
+neuter
+85700	
+
+85705	
+feminine
+85710	
+
+85714	
+neuter
+85717	
+neuter
+85722	
+85724	
+85726	neuter
+85729	
+85732	
+neuter
+feminine
+85737	neuter
+85739	
+neuter
+85742	neuter
+85745	
+85747	
+85761	
+
+feminine
+
+85766	
+masculine/neuter
+
+85771	feminine
+85773	
+85775	feminine
+85779	
+
+
+85784	
+85787	feminine
+85790	neuter
+feminine
+feminine
+
+85796	
+85799	masculine/neuter
+
+85802	
+
+85809	
+85812	
+85817	feminine
+
+85827	
+neuter
+85830	neuter
+85833	
+85838	
+85840	feminine
+85845	
+85848	
+85850	neuter
+85852	
+85854	
+
+85858	feminine
+neuter
+feminine
+85862	masculine
+85864	
+
+feminine
+
+85871	neuter
+neuter
+85878	
+85882	masculine
+feminine
+neuter
+85892	feminine
+masculine
+feminine
+
+
+85898	
+85900	feminine
+85902	neuter
+
+85905	feminine
+85907	masculine
+85913	
+85915	neuter
+85918	neuter
+85920	feminine
+masculine
+neuter
+85924	neuter
+85926	
+85930	
+85935	
+feminine
+neuter
+85939	
+neuter
+feminine
+
+
+85948	feminine
+85950	
+85952	feminine
+neuter
+feminine
+85956	masculine
+
+85959	
+neuter
+85987	
+
+85994	
+85996	
+
+
+86006	
+feminine
+feminine
+
+
+neuter
+
+86014	
+86016	
+
+
+86021	
+86029	
+86035	masculine
+86041	
+86043	
+86050	
+86057	
+86062	
+feminine
+86065	
+
+neuter
+86069	neuter
+86072	
+86074	
+86077	masculine
+
+
+86082	
+86085	
+
+
+
+
+86091	
+86097	
+86101	neuter
+
+
+
+86110	
+
+
+86115	
+86117	
+86128	
+86130	
+
+86134	
+
+feminine
+masculine
+masculine/neuter
+
+masculine/neuter
+masculine/neuter
+neuter
+86146	
+86148	
+86150	
+
+86155	
+86158	neuter
+86162	
+masculine
+masculine
+neuter
+86168	
+86172	
+masculine
+masculine
+86176	masculine
+86178	
+86183	
+
+86188	
+86190	
+86193	feminine
+86196	neuter
+86202	
+86209	
+86212	
+86218	
+86221	
+masculine/feminine
+86225	
+
+
+
+
+86231	masculine
+86233	
+
+86236	feminine
+86240	masculine
+86242	
+86244	feminine
+
+86256	
+86260	
+86266	feminine
+
+masculine
+
+86271	
+
+
+86276	
+86278	masculine
+masculine
+86281	
+86284	
+
+86291	
+
+86294	
+
+86299	
+
+
+
+
+86307	masculine/neuter
+86309	
+86313	
+
+86316	masculine
+
+
+86322	masculine
+feminine
+86329	feminine
+86331	
+86335	
+86340	feminine
+
+
+
+neuter
+86347	feminine
+masculine
+86350	
+86352	feminine
+feminine
+86355	masculine/neuter
+feminine
+
+86359	
+86361	
+
+masculine
+86366	
+86371	
+
+
+86375	
+86377	
+
+
+
+86382	
+86386	
+
+86389	
+86394	
+86397	
+
+
+86404	feminine
+86406	
+86408	
+86412	
+86416	neuter
+86421	
+
+86424	masculine/neuter
+
+86428	
+
+86433	
+
+86436	
+86439	masculine/neuter
+86447	
+86449	feminine
+feminine
+86452	
+86454	
+86458	
+86460	
+feminine
+feminine
+86470	
+
+
+86477	feminine
+86479	
+86482	
+feminine
+86485	neuter
+86491	feminine
+86496	feminine
+86498	masculine
+
+86501	
+86503	
+86505	neuter
+
+
+
+86510	
+feminine
+feminine
+86518	
+86523	
+86527	
+
+86534	
+86540	
+
+86543	masculine/neuter
+86556	neuter
+86560	
+86576	
+masculine/neuter
+86583	
+86585	
+
+86593	neuter
+86595	masculine
+86597	
+86602	
+86604	
+
+masculine
+86609	masculine/feminine/neuter
+
+86612	
+86614	
+86616	masculine
+neuter
+
+
+86622	
+86626	
+86630	
+
+86634	
+
+
+
+86641	masculine/feminine
+
+86647	
+86665	
+86668	
+neuter
+86672	masculine/neuter
+86675	masculine/neuter
+86678	
+
+
+86682	
+
+86685	masculine/neuter
+86689	
+86694	feminine
+neuter
+masculine/feminine
+
+86699	
+
+masculine
+
+86704	neuter
+neuter
+86707	neuter
+86709	masculine
+masculine
+neuter
+86718	
+feminine
+
+
+86726	masculine/neuter
+86728	feminine
+
+86732	
+
+masculine/neuter
+86736	
+86738	
+86740	
+86742	
+86744	
+86746	
+86750	
+86752	
+
+
+86756	feminine
+86758	
+86760	masculine
+86762	
+86765	
+feminine
+
+86769	feminine
+86772	
+86794	neuter
+86796	feminine
+
+86800	
+
+
+86804	
+masculine
+masculine
+
+masculine/neuter
+masculine/neuter
+feminine
+
+
+masculine
+86821	
+86823	
+
+
+86831	
+86833	
+86842	
+masculine/neuter
+86851	
+
+86854	
+86857	feminine
+86860	feminine
+
+86863	feminine
+86866	feminine
+86869	feminine
+86872	feminine
+86875	masculine
+86878	
+86880	neuter
+masculine
+86883	
+
+neuter
+86891	
+86894	feminine
+86898	
+
+neuter
+86902	
+
+86907	masculine
+
+86913	
+
+86920	
+86923	masculine
+86928	feminine
+86934	
+
+
+feminine
+86942	
+86946	neuter
+86949	
+86962	
+86965	
+86970	
+86972	masculine/neuter
+86977	
+86980	
+masculine
+86983	feminine
+86985	
+86987	
+
+
+86991	
+86995	
+86999	
+neuter
+87002	
+
+87016	
+87018	neuter
+neuter
+
+
+87024	
+87027	
+
+87030	
+
+87033	
+87035	
+
+neuter
+87040	
+87042	
+
+87045	
+
+87048	
+
+87051	feminine
+neuter
+
+87055	
+
+87060	masculine
+87063	
+masculine
+87070	
+87074	
+
+87078	neuter
+87082	
+87086	
+
+87093	
+87096	
+87098	
+
+87104	
+neuter
+87107	
+
+87110	
+87113	
+87117	
+87119	
+87121	
+
+neuter
+
+
+
+87128	
+
+87131	
+87134	
+
+87139	
+feminine
+
+87144	neuter
+87148	
+87150	
+87152	masculine
+
+87155	
+87158	feminine
+
+feminine
+
+87165	
+87169	
+
+87172	feminine
+masculine
+feminine
+87176	
+
+87181	feminine
+87184	
+masculine
+
+87188	
+87190	
+87192	
+
+87195	
+
+87210	
+
+87213	masculine/neuter
+87222	
+
+87229	
+87231	neuter
+87233	neuter
+87236	
+87238	
+feminine
+87242	masculine
+87248	masculine
+87251	
+masculine
+87258	
+87260	
+87262	masculine
+87265	masculine/feminine
+87267	
+87269	
+87272	
+87274	
+87278	
+
+87281	feminine
+87297	
+87301	feminine
+87303	
+87308	
+
+87312	
+
+
+87318	
+87320	
+neuter
+87326	
+87328	neuter
+87335	feminine
+87339	
+
+87342	feminine
+87346	masculine
+87348	feminine
+
+87351	
+87354	
+87356	
+87365	
+
+87370	masculine
+87372	
+87375	
+
+87378	
+87382	masculine
+
+87386	
+87388	masculine
+87390	
+
+87397	neuter
+87401	
+87403	feminine
+87409	
+masculine
+87412	
+87414	
+masculine/neuter
+87417	
+
+87423	masculine
+87425	
+87427	
+
+87433	masculine
+87435	feminine
+87437	
+87439	
+87441	masculine/neuter
+87445	
+
+87448	masculine/neuter
+87450	
+87452	
+masculine/neuter
+87462	
+neuter
+87465	
+
+87468	masculine/neuter
+masculine
+87473	
+87475	
+masculine/neuter
+
+neuter
+87481	
+87483	feminine
+87485	
+87488	
+87493	
+87495	
+87497	feminine
+neuter
+87500	neuter
+87509	masculine
+87514	neuter
+87517	masculine
+87519	neuter
+
+87523	masculine
+87528	
+87532	masculine/neuter
+87534	
+87537	
+87541	
+87544	
+87547	
+87552	
+87555	neuter
+87557	
+87560	
+
+masculine
+87566	feminine
+87570	feminine
+
+87575	
+masculine
+87581	masculine/neuter
+neuter
+feminine
+87585	
+87587	feminine
+87590	feminine
+87592	masculine/neuter
+
+
+87599	
+feminine
+87604	neuter
+87606	feminine
+87608	
+feminine
+feminine
+87613	feminine
+87615	feminine
+
+
+87622	masculine
+masculine
+
+87626	
+feminine
+87630	neuter
+87632	neuter
+87634	
+feminine
+87638	
+87640	
+87646	masculine/feminine
+87651	
+87656	
+
+87659	feminine
+feminine
+87668	masculine
+
+87673	neuter
+87677	
+87692	neuter
+87696	
+87699	
+87701	
+
+87705	
+feminine
+neuter
+
+87710	
+
+
+
+87715	masculine
+87717	
+masculine/neuter
+
+feminine
+feminine
+masculine/neuter
+
+masculine
+87730	
+87732	
+87734	
+87736	neuter
+87741	
+87751	
+
+87757	
+87759	
+
+87764	
+87766	neuter
+feminine
+87775	
+87780	feminine
+87782	masculine
+87784	masculine
+87792	neuter
+87797	
+87802	
+87805	feminine
+87808	feminine
+87811	
+87813	feminine
+87815	feminine
+
+87819	
+
+87822	
+87825	
+
+87829	masculine
+87831	feminine
+
+87837	masculine
+feminine
+feminine
+87841	neuter
+
+87850	
+
+feminine
+87854	feminine
+neuter
+87858	
+87860	
+87862	
+87866	feminine
+87868	
+87872	feminine
+87879	feminine
+
+87882	
+87894	
+87897	
+
+
+87902	
+87904	
+87906	
+feminine
+
+87910	feminine
+masculine
+feminine
+
+
+87916	feminine
+87918	
+87922	feminine
+
+87925	feminine
+87927	neuter
+87932	
+feminine
+87935	neuter
+87937	masculine
+
+
+87941	
+87943	masculine
+
+87950	
+87959	
+87962	
+87964	masculine
+
+87967	
+87973	
+feminine
+87976	masculine
+
+87979	
+
+87984	masculine
+87986	
+
+87991	feminine
+87994	feminine
+
+
+masculine
+
+88000	neuter
+88003	
+masculine/neuter
+masculine
+88007	
+
+
+88011	
+88016	
+88024	masculine
+88026	
+neuter
+88031	neuter
+88037	neuter
+88041	
+88046	neuter
+88049	
+88051	
+88056	
+masculine/neuter
+88061	neuter
+masculine/neuter
+88064	
+88069	masculine
+
+masculine/neuter
+88074	
+
+88079	feminine
+88087	
+
+88091	
+88095	
+88097	
+88099	
+88104	
+88112	
+88114	neuter
+neuter
+88117	
+88124	feminine
+88126	
+88129	
+88132	feminine
+
+88136	masculine
+88139	feminine
+
+88143	
+88145	feminine
+88150	feminine
+88153	feminine
+88155	
+
+88160	
+88162	
+
+88169	
+88175	
+88177	neuter
+88183	
+88185	neuter
+88189	
+88194	
+
+88197	
+88202	
+
+88205	feminine
+88207	
+88210	feminine
+
+
+88216	masculine
+masculine/neuter
+
+88221	
+88223	
+88230	
+
+
+88235	
+88237	
+88239	feminine
+neuter
+88242	feminine
+
+
+88247	feminine
+
+88250	feminine
+88252	feminine
+88254	masculine
+
+
+
+feminine
+88260	masculine/neuter
+
+neuter
+masculine
+
+
+88270	masculine/neuter
+88274	
+88277	
+
+88280	feminine
+
+88283	
+88286	feminine
+88289	feminine
+
+
+88297	
+
+88300	feminine
+88307	
+88309	
+
+88315	
+88317	
+88319	
+88323	
+neuter
+88331	
+88334	feminine
+feminine
+88337	feminine
+88339	feminine
+neuter
+88344	
+88347	masculine
+88349	neuter
+88352	
+masculine
+88358	feminine
+feminine
+88363	
+88365	
+88368	masculine/feminine
+feminine
+88372	
+88378	
+
+88381	
+88383	neuter
+88385	
+88389	neuter
+masculine
+
+88393	feminine
+neuter
+
+
+88398	neuter
+88400	
+
+neuter
+masculine
+
+88406	feminine
+
+88411	masculine
+88413	
+88417	
+88421	
+88425	
+88428	
+88431	
+masculine/neuter
+88438	feminine
+88441	
+masculine
+88446	masculine/feminine/neuter
+88451	
+88454	
+88457	
+88466	
+88470	feminine
+feminine
+88473	
+88475	
+88478	
+88485	
+88487	masculine
+feminine
+masculine
+88492	
+masculine
+88495	
+masculine/neuter
+88505	
+
+88509	
+88512	
+88515	
+
+masculine
+
+neuter
+feminine
+neuter
+88523	masculine/neuter
+88526	neuter
+88532	masculine
+masculine
+88535	
+88539	
+88541	
+88543	
+
+
+
+
+
+88552	feminine
+neuter
+
+88560	neuter
+
+88564	
+feminine
+88569	
+88571	
+88573	neuter
+88576	
+88578	
+
+
+
+masculine
+88588	masculine
+88592	
+88594	
+88597	
+
+88605	
+88608	
+88610	feminine
+88612	
+88614	
+88618	masculine
+
+88622	neuter
+88626	feminine
+masculine
+88630	
+88633	
+
+88639	
+
+
+88646	
+88650	feminine
+88652	
+
+88655	feminine
+88657	
+feminine
+88663	
+88666	
+
+
+88671	masculine
+
+88675	masculine
+
+88678	neuter
+88680	neuter
+
+88686	
+88691	
+88693	
+88695	
+88698	
+
+88703	masculine
+neuter
+88706	masculine
+88710	
+88714	
+88716	
+88718	
+88720	
+88722	
+88724	neuter
+masculine
+
+
+88731	
+
+
+88735	masculine
+masculine/neuter
+
+neuter
+feminine
+
+
+masculine
+88749	feminine
+
+feminine
+88756	
+
+
+feminine
+
+
+88766	masculine/neuter
+feminine
+neuter
+
+
+88772	feminine
+88775	feminine
+88777	neuter
+88779	
+88781	feminine
+88783	
+
+88787	feminine
+feminine
+
+88791	
+
+feminine
+88808	
+88811	masculine
+88813	masculine
+88817	feminine
+88819	
+
+
+88824	masculine
+88826	feminine
+
+88829	
+
+88836	neuter
+neuter
+88839	masculine
+88842	neuter
+neuter
+88846	masculine
+88849	neuter
+88852	neuter
+88854	masculine
+88857	neuter
+88864	
+neuter
+neuter
+88869	
+
+masculine/feminine/neuter
+88873	
+88877	
+88879	neuter
+masculine
+
+88886	
+feminine
+88889	feminine
+88892	
+feminine
+feminine
+88896	
+
+
+
+88901	neuter
+88904	feminine
+masculine/neuter
+
+88908	neuter
+neuter
+masculine/neuter
+88912	
+88914	
+
+88917	neuter
+88919	neuter
+masculine/neuter
+88924	
+
+
+88929	masculine/neuter
+88931	
+88936	neuter
+88939	
+
+masculine/neuter
+
+neuter
+88946	
+masculine/neuter
+88949	neuter
+88952	
+neuter
+88956	
+masculine/neuter
+88959	
+88962	masculine
+88968	feminine
+88971	
+88975	
+88978	masculine/neuter
+
+88983	
+88986	masculine/neuter
+88990	
+88992	
+
+88996	
+88998	
+masculine
+
+
+
+neuter
+89006	feminine
+feminine
+
+
+
+neuter
+89014	masculine/neuter
+89018	
+
+
+89024	
+
+89033	
+89035	
+89037	
+89040	
+masculine/neuter
+masculine
+
+89045	masculine
+89048	
+89050	
+89053	masculine
+89056	masculine
+
+89059	feminine
+feminine
+neuter
+89063	masculine/neuter
+89066	
+
+
+89070	
+89072	masculine/neuter
+89074	
+89076	
+masculine
+89082	masculine/neuter
+89088	feminine
+feminine
+
+
+89094	masculine
+
+89098	
+89101	
+89103	
+neuter
+89106	
+89109	
+masculine
+89112	
+
+89118	neuter
+89120	feminine
+89122	
+89125	feminine
+89127	masculine
+89129	
+89134	
+89136	masculine
+
+
+neuter
+89141	feminine
+
+89144	
+89146	
+feminine
+89149	masculine/neuter
+masculine
+89159	
+89161	neuter
+89163	masculine/neuter
+89168	
+
+neuter
+89172	masculine
+
+
+89176	neuter
+89178	neuter
+89180	
+89183	neuter
+89186	neuter
+
+89189	
+89193	neuter
+89199	neuter
+89201	
+89204	masculine
+
+feminine
+89209	masculine
+89216	masculine/neuter
+
+masculine
+89220	
+89227	neuter
+masculine
+89232	
+89235	masculine
+89239	masculine
+
+89243	feminine
+89246	
+89252	feminine
+89256	feminine
+89260	masculine
+89263	
+neuter
+89273	
+89277	
+89279	
+masculine
+89284	
+89289	masculine
+89292	
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+89298	
+89302	neuter
+masculine
+89305	feminine
+
+
+
+
+
+89312	masculine
+89315	masculine
+89317	feminine
+
+
+89321	
+89326	feminine
+89330	masculine
+
+89333	masculine
+89336	neuter
+89338	
+masculine
+
+89343	
+89345	masculine/neuter
+
+89349	
+
+89353	
+89355	
+89358	
+neuter
+feminine
+89363	masculine
+89368	masculine
+
+89373	
+89375	feminine
+89377	
+89380	neuter
+89388	neuter
+89393	
+feminine
+89398	
+
+
+89402	
+89405	feminine
+
+89409	
+feminine
+89421	masculine/neuter
+
+89425	
+
+89439	
+89442	
+89444	feminine
+feminine
+89447	
+89452	
+
+
+89459	masculine/neuter
+masculine
+
+feminine
+89466	masculine
+
+
+89470	feminine
+feminine
+neuter
+89477	
+89479	
+
+89484	
+masculine
+masculine
+feminine
+89490	masculine
+89493	
+89499	masculine
+89501	
+
+89508	
+feminine
+
+89513	
+feminine
+89523	
+
+89528	masculine
+
+masculine/neuter
+89538	masculine
+89544	masculine
+
+89553	
+89555	masculine/feminine
+89558	masculine/neuter
+89562	feminine
+feminine
+
+89567	feminine
+89572	
+
+89579	
+
+89583	feminine
+89585	masculine
+masculine
+
+
+89590	
+89592	feminine
+89595	masculine
+
+feminine
+89600	masculine/neuter
+89603	neuter
+masculine/neuter
+masculine
+89608	
+89612	
+89614	masculine
+89619	neuter
+89621	feminine
+89623	masculine/feminine
+89625	
+89629	masculine/feminine/neuter
+89631	
+89636	
+
+feminine
+
+89643	feminine
+89645	feminine
+89647	
+89649	
+89652	
+89665	masculine/neuter
+
+feminine
+
+89670	
+89673	feminine
+
+89677	masculine/neuter
+89679	
+89681	feminine
+89683	feminine
+
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+89690	feminine
+89692	
+
+89697	
+89701	
+89704	masculine
+89710	
+89714	feminine
+neuter
+89717	feminine
+
+89723	feminine
+89725	
+89729	feminine
+feminine
+89732	
+89734	
+neuter
+89739	
+89742	masculine/neuter
+feminine
+89746	
+feminine
+89750	masculine/neuter
+89754	feminine
+89756	
+89760	
+
+masculine/neuter
+
+89765	masculine/feminine/neuter
+89767	
+89769	
+89771	
+masculine/neuter
+
+89782	
+
+
+89787	masculine
+89791	
+masculine
+masculine
+89797	
+89800	feminine
+89807	masculine/feminine/neuter
+
+89810	
+feminine
+
+89819	feminine
+
+
+neuter
+89824	
+89830	feminine
+
+masculine
+
+89836	feminine
+89838	
+feminine
+
+89845	masculine/feminine
+89851	
+
+
+89856	masculine/feminine
+89859	
+89861	
+masculine
+
+89866	
+89868	
+masculine/neuter
+
+89873	masculine/feminine
+masculine/neuter
+
+masculine
+89880	
+89882	
+masculine
+89886	
+masculine
+
+89893	
+89896	masculine/feminine
+89898	
+89902	feminine
+89905	
+masculine/neuter
+
+89913	
+masculine/neuter
+
+89918	
+89920	feminine
+89922	
+masculine/neuter
+
+89928	
+masculine/neuter
+89933	
+89935	
+
+89938	neuter
+masculine
+89941	masculine
+89947	
+neuter
+89950	feminine
+89955	
+89964	
+89966	
+89970	feminine
+feminine
+
+
+
+masculine/neuter
+
+89978	feminine
+89985	feminine
+feminine
+neuter
+89995	
+89997	feminine
+masculine
+90001	
+masculine/neuter
+masculine/neuter
+masculine
+90007	
+90009	feminine
+90012	feminine
+90017	
+90019	
+90022	feminine
+90024	masculine/neuter
+90026	
+90030	
+90035	feminine
+
+90038	
+90043	
+90046	neuter
+90050	
+
+90057	masculine/neuter
+
+neuter
+
+90062	
+masculine/neuter
+masculine/neuter
+masculine
+90067	masculine/neuter
+90069	feminine
+90071	neuter
+90077	masculine
+90080	masculine
+masculine/feminine
+90084	feminine
+90087	neuter
+90091	
+masculine/neuter
+90094	feminine
+masculine/feminine
+neuter
+masculine/feminine
+90100	
+90102	feminine
+90104	feminine
+90106	neuter
+90112	neuter
+90114	
+90117	feminine
+
+
+90121	masculine
+90126	masculine
+masculine/neuter
+
+90131	
+
+90137	feminine
+90139	masculine
+90142	
+
+90145	
+
+90149	
+neuter
+feminine
+90156	
+feminine
+masculine
+masculine/neuter
+90161	feminine
+
+
+90168	feminine
+90172	masculine/neuter
+masculine
+feminine
+90176	
+90179	neuter
+90182	
+
+
+90187	
+90190	
+masculine
+masculine
+90198	masculine/neuter
+90201	
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+
+90209	feminine
+90211	masculine/neuter
+90213	
+90215	
+90217	
+90219	masculine/neuter
+90221	masculine/neuter
+masculine
+masculine/neuter
+masculine
+
+
+90229	masculine/neuter
+90233	
+
+90237	
+
+masculine
+masculine
+
+
+90245	
+90247	
+90251	
+feminine
+90255	masculine
+
+masculine/neuter
+90259	
+
+90262	feminine
+90265	
+90271	
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+90278	
+feminine
+feminine
+90283	
+90285	feminine
+
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+90292	neuter
+90295	
+90297	
+90299	
+
+
+masculine
+masculine/neuter
+
+masculine/neuter
+masculine/neuter
+
+90309	feminine
+90311	feminine
+
+90314	
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+90322	
+90327	
+
+90330	
+90333	
+
+90336	
+90338	
+90346	masculine/neuter
+90351	
+
+90354	
+
+
+
+90360	
+90362	masculine/neuter
+
+90370	feminine
+90376	masculine/neuter
+90378	neuter
+masculine
+90384	masculine/neuter
+
+
+90391	masculine/feminine/neuter
+
+90394	masculine/neuter
+90396	
+90400	masculine/feminine
+90404	
+
+
+90415	feminine
+90419	
+
+masculine/feminine
+90428	masculine
+90430	
+90433	
+90435	
+90439	neuter
+90441	
+masculine/neuter
+neuter
+90446	neuter
+
+
+90457	masculine/feminine
+90459	
+90463	
+90467	masculine
+90472	masculine
+
+90480	
+90485	neuter
+90489	
+
+90493	
+90496	
+
+90500	neuter
+90502	feminine
+90506	masculine
+90508	neuter
+90510	feminine
+90513	
+90515	
+90521	feminine
+90530	masculine
+masculine
+90546	masculine
+
+90550	
+90552	
+90554	neuter
+
+
+
+90564	
+
+
+90569	
+90573	masculine/neuter
+90575	
+90578	
+
+
+90583	
+90587	
+feminine
+neuter
+
+
+
+neuter
+90596	
+90598	
+90600	feminine
+masculine/feminine
+
+
+
+neuter
+90608	
+feminine
+feminine
+90612	feminine
+masculine/feminine
+
+
+90617	feminine
+feminine
+
+neuter
+90622	feminine
+90624	neuter
+90626	feminine
+neuter
+
+90632	feminine
+90634	masculine
+
+
+
+
+90641	
+
+masculine
+masculine
+90648	masculine/feminine
+90650	
+90660	neuter
+90662	
+masculine/neuter
+90665	masculine
+90668	feminine
+90673	
+
+
+90678	
+90680	masculine
+
+
+90685	
+90688	
+
+
+90693	masculine
+90696	masculine
+masculine
+
+
+90701	
+90704	
+90709	feminine
+90711	neuter
+90719	
+90722	
+90724	
+feminine
+90730	feminine
+90732	masculine/neuter
+90735	
+90739	
+feminine
+
+feminine
+90745	
+90747	
+90751	
+90754	
+90756	
+
+90761	feminine
+
+90764	
+90766	
+90771	
+neuter
+90777	
+
+masculine/neuter
+90783	
+
+90787	
+
+90792	
+90794	masculine
+90796	
+feminine
+
+90801	feminine
+90811	
+
+90815	feminine
+90817	neuter
+90820	
+90822	masculine/feminine
+90825	neuter
+90827	feminine
+
+90833	neuter
+
+90836	feminine
+neuter
+
+
+90844	feminine
+
+
+
+90851	
+
+90854	
+90858	feminine
+
+
+90862	
+
+90867	
+
+90874	
+
+90877	
+90882	
+
+90886	feminine
+90888	
+
+neuter
+masculine/feminine
+feminine
+90896	
+90900	
+90902	
+90906	feminine
+90913	feminine
+
+90916	
+
+90924	masculine
+90926	
+90929	neuter
+90932	
+90934	neuter
+90943	masculine
+masculine/neuter
+90946	
+90950	masculine
+masculine/neuter
+90953	masculine
+90957	
+
+
+90962	
+90964	
+90966	
+masculine
+feminine
+feminine
+90972	feminine
+90977	
+90980	
+90984	
+90987	
+
+90994	
+90996	
+90998	
+91001	
+91010	feminine
+91012	feminine
+
+91017	feminine
+91022	
+91028	
+neuter
+masculine
+91034	feminine
+91036	
+neuter
+91042	neuter
+91047	neuter
+masculine
+91050	neuter
+91053	neuter
+91057	neuter
+masculine
+neuter
+
+91064	
+91067	
+91069	
+91071	
+91074	
+
+masculine
+
+masculine
+
+
+91082	
+
+
+91088	
+91095	
+91099	
+
+91105	masculine
+
+neuter
+91109	masculine
+91112	masculine
+masculine
+
+91117	
+91121	neuter
+91123	
+
+91130	masculine
+masculine
+91133	feminine
+91135	neuter
+
+
+
+91144	masculine
+91150	
+
+91154	masculine
+
+91157	
+91160	
+91163	masculine
+91171	
+feminine
+91175	
+
+feminine
+
+
+91183	
+
+
+
+
+
+91192	
+
+
+91197	neuter
+91199	neuter
+91201	feminine
+
+
+neuter
+91207	
+91212	
+91214	
+91217	
+
+
+
+91223	masculine/feminine
+91226	feminine
+91228	feminine
+91231	
+
+91235	neuter
+
+
+91241	neuter
+91244	
+
+91248	feminine
+91251	masculine
+91256	masculine
+
+
+
+91263	
+91265	neuter
+91267	masculine/neuter
+91272	feminine
+91285	neuter
+masculine/neuter
+91289	masculine/neuter
+masculine
+91292	
+91294	feminine
+91297	
+
+masculine/neuter
+91302	masculine
+
+91307	
+91309	
+91314	
+91316	
+91321	masculine/neuter
+
+
+91326	feminine
+91328	
+91330	
+91334	
+91337	
+91340	neuter
+91344	masculine
+91349	
+91351	
+feminine
+
+
+neuter
+masculine
+91359	
+feminine
+feminine
+
+
+91365	
+91367	masculine
+91369	
+91372	neuter
+91377	
+
+91383	
+91386	neuter
+91388	feminine
+91390	
+masculine/feminine
+91394	masculine
+91396	feminine
+91402	
+91404	
+
+
+
+91410	masculine
+
+91414	
+91418	
+91424	
+91427	
+91429	
+
+91433	masculine/neuter
+91436	masculine
+91442	
+91444	
+91446	neuter
+91448	feminine
+91453	
+91455	
+91458	
+91465	masculine/feminine
+feminine
+masculine
+91471	
+masculine
+91474	
+91477	
+91479	
+91482	
+91486	
+91488	
+91490	
+91496	
+91498	
+91504	
+91508	
+
+91511	
+
+91516	feminine
+91520	feminine
+
+91524	
+91527	feminine
+91529	neuter
+91533	
+
+masculine
+91540	
+91542	masculine
+masculine
+feminine
+
+91548	feminine
+91550	
+91552	feminine
+feminine
+91555	
+neuter
+91559	
+
+91566	
+91568	masculine
+
+masculine/neuter
+91572	feminine
+
+91575	
+91578	
+masculine
+masculine
+91583	
+
+
+91587	
+91593	feminine
+91595	
+91600	feminine
+neuter
+neuter
+masculine
+
+91612	
+91617	
+91619	feminine
+feminine
+
+
+91624	
+feminine
+91627	
+
+91630	
+91632	feminine
+
+
+
+91639	masculine
+91641	
+
+neuter
+91646	neuter
+91648	
+
+91654	masculine/feminine
+
+91661	
+91669	
+masculine/neuter
+neuter
+91673	masculine
+91675	
+91680	
+91682	masculine
+91684	
+91686	
+91688	
+masculine
+91693	neuter
+
+
+91697	
+masculine/neuter
+masculine
+91701	masculine/neuter
+91703	
+
+91708	feminine
+
+masculine/neuter
+masculine/neuter
+masculine
+91716	
+91718	
+91726	
+91728	feminine
+
+masculine/neuter
+91732	masculine
+91735	masculine/neuter
+91737	
+
+neuter
+91741	neuter
+91744	
+91750	
+
+91754	
+91760	masculine/neuter
+91762	masculine
+91766	
+91770	
+91776	
+91780	feminine
+91782	
+
+91785	
+91793	
+
+91796	
+91801	
+91803	neuter
+91805	neuter
+91807	
+
+91813	
+91816	neuter
+91822	
+
+
+91826	
+91828	
+91830	
+91832	
+91840	
+91844	
+91846	
+91849	
+neuter
+91852	
+
+91855	neuter
+
+masculine/neuter
+feminine
+
+91861	masculine/neuter
+91863	
+91875	masculine/feminine/neuter
+
+91878	
+
+masculine
+91884	
+91886	
+
+
+91890	neuter
+91892	
+
+91897	
+
+91902	feminine
+feminine
+91907	neuter
+
+91911	
+91913	
+91915	
+91918	
+
+91922	
+
+
+91929	
+masculine
+91932	
+91934	
+
+91943	masculine
+
+91947	masculine
+91949	
+91951	
+91953	
+91955	feminine
+feminine
+91960	
+feminine
+91965	
+
+91968	
+91970	
+91974	
+91976	
+
+91979	
+feminine
+91982	
+91984	
+91992	
+92000	
+92005	feminine
+
+
+92010	
+
+
+92014	
+92016	
+92018	
+
+92021	
+masculine/neuter
+masculine
+masculine/neuter
+92026	
+
+92029	
+
+masculine/neuter
+neuter
+92037	neuter
+92039	neuter
+92048	feminine
+92053	feminine
+92057	neuter
+92064	
+92071	
+
+masculine/neuter
+92075	neuter
+masculine
+
+92079	neuter
+92084	masculine
+
+92087	feminine
+92089	feminine
+92092	
+92094	
+
+feminine
+92098	masculine/neuter
+feminine
+masculine/neuter
+92102	
+92104	feminine
+feminine
+
+masculine/neuter
+
+92110	feminine
+92113	
+92115	
+
+neuter
+92121	neuter
+92127	masculine
+92129	
+
+92132	neuter
+92135	
+masculine/neuter
+neuter
+92140	
+92143	neuter
+92146	neuter
+
+92150	
+92153	neuter
+92156	
+92158	
+92161	
+92163	
+
+92167	masculine/neuter
+feminine
+
+
+
+92175	
+
+92178	
+92181	
+feminine
+92185	
+92187	
+92189	masculine
+
+
+92193	masculine/neuter
+92198	masculine
+92203	feminine
+92215	
+
+92220	neuter
+92223	
+92225	masculine
+92228	feminine
+92230	
+92232	feminine
+92234	
+
+92238	
+
+neuter
+92242	masculine
+92245	neuter
+92247	
+
+92251	
+
+feminine
+92256	
+92258	
+feminine
+
+92262	
+92268	
+92274	
+92277	
+feminine
+neuter
+masculine
+feminine
+92283	feminine
+masculine/neuter
+92287	
+
+92292	
+92296	feminine
+92298	
+92301	
+92303	
+
+92307	
+neuter
+92311	neuter
+92314	
+92320	feminine
+masculine
+92323	neuter
+92325	
+masculine
+
+92336	
+92341	
+92344	
+neuter
+masculine
+92352	neuter
+92356	masculine/neuter
+92358	
+
+92363	
+92370	
+92373	neuter
+masculine
+
+92379	
+
+92383	
+92386	
+92393	
+
+
+92398	
+92405	
+92408	neuter
+92410	neuter
+92412	
+92417	feminine
+92419	feminine
+92421	
+
+92424	neuter
+neuter
+feminine
+92428	masculine/neuter
+92433	feminine
+92435	
+92437	neuter
+92443	neuter
+92445	
+feminine
+92448	
+92451	
+92453	
+
+feminine
+neuter
+92460	
+92462	
+92464	
+
+
+92468	
+92470	
+92473	
+
+92477	
+
+neuter
+masculine
+92482	
+
+neuter
+92490	
+92492	
+feminine
+92499	
+
+92506	feminine
+masculine
+92511	feminine
+92515	
+92518	
+92520	
+92522	feminine
+
+92525	
+92527	masculine/neuter
+92531	masculine
+
+92534	
+92540	
+neuter
+92543	
+masculine/neuter
+92548	masculine/neuter
+92550	masculine
+neuter
+92556	masculine/neuter
+
+92560	
+
+92564	
+92568	
+92570	masculine/neuter
+neuter
+
+92576	masculine
+
+masculine/neuter
+92580	
+92583	
+
+92587	masculine/neuter
+92593	masculine
+92595	feminine
+92597	
+92599	
+masculine
+92608	
+92614	
+92616	neuter
+92623	neuter
+92625	feminine
+92633	masculine/neuter
+masculine
+92638	masculine/neuter
+92642	feminine
+92644	neuter
+92652	masculine
+92655	
+92658	neuter
+92660	masculine
+92662	
+92666	masculine
+92668	
+92672	masculine
+92674	
+92678	masculine
+masculine
+92682	
+92684	masculine
+
+92689	
+
+92694	feminine
+92697	neuter
+92699	
+feminine
+
+masculine/neuter
+
+
+
+masculine/neuter
+neuter
+92710	
+feminine
+
+
+
+
+92721	feminine
+92723	feminine
+92726	feminine
+92728	
+feminine
+
+masculine/neuter
+92734	neuter
+92736	
+92739	
+92741	feminine
+92744	
+feminine
+
+
+
+
+
+92756	masculine/neuter
+feminine
+92759	
+92763	
+
+
+92768	neuter
+92771	
+masculine/neuter
+92774	
+92780	masculine
+
+92783	neuter
+92788	
+92798	
+
+92801	
+
+92805	
+92807	
+92809	
+92811	
+
+92816	
+
+92819	
+
+92824	masculine
+masculine
+
+92829	neuter
+92833	masculine
+masculine
+
+92837	neuter
+92841	
+92847	
+neuter
+92851	neuter
+92854	neuter
+92856	neuter
+92862	
+masculine/neuter
+feminine
+92867	neuter
+92870	
+92872	feminine
+92874	
+92876	masculine
+92878	
+92884	
+
+92889	feminine
+92891	
+feminine
+92894	
+
+
+92898	
+92904	
+92906	
+92909	
+92911	masculine
+92915	
+92922	
+
+92926	
+92929	
+92932	
+92938	
+masculine
+
+92942	
+92948	
+
+92952	masculine/feminine
+92955	masculine/feminine
+92958	neuter
+92960	
+
+feminine
+neuter
+92966	
+92970	masculine
+masculine
+masculine
+92974	
+feminine
+neuter
+92980	
+92983	
+92985	feminine
+92987	
+92990	
+feminine
+92993	
+92995	
+92999	feminine
+93001	feminine
+masculine/feminine
+neuter
+93005	feminine
+93007	feminine
+93009	
+
+
+93013	neuter
+93016	
+93018	neuter
+93020	
+
+93024	
+feminine
+neuter
+masculine/neuter
+93030	feminine
+93033	neuter
+93036	
+masculine
+93041	
+93043	masculine
+93045	feminine
+93047	
+
+93051	
+93053	feminine
+93058	neuter
+masculine
+
+93062	
+feminine
+neuter
+93068	masculine
+93073	
+93078	feminine
+93080	
+feminine
+
+masculine
+
+93086	
+feminine
+93094	masculine
+93096	
+93104	
+93114	masculine
+masculine/neuter
+93119	masculine
+93122	
+
+masculine/neuter
+
+
+93130	
+93132	
+93134	feminine
+93139	masculine
+93141	
+
+masculine/neuter
+
+feminine
+93149	
+93155	
+93162	
+93166	
+93168	masculine
+93172	masculine
+93174	
+masculine/neuter
+93178	
+93185	
+93190	
+93192	
+93199	
+93202	
+93208	
+93215	
+93218	
+
+93221	neuter
+93225	
+
+93228	
+masculine
+
+93233	
+93235	masculine
+93238	feminine
+
+
+
+
+93244	feminine
+93246	
+93248	feminine
+93251	
+
+93255	neuter
+neuter
+masculine
+93259	neuter
+neuter
+93263	
+93265	
+93267	
+feminine
+feminine
+
+93272	
+93274	masculine/neuter
+feminine
+feminine
+93278	
+
+93281	masculine/neuter
+
+93291	
+93293	
+neuter
+93298	masculine/feminine
+93300	
+
+93303	
+masculine/neuter
+93306	
+
+masculine
+feminine
+feminine
+93312	feminine
+93314	
+masculine/feminine/neuter
+93317	masculine
+
+93321	
+93326	neuter
+masculine
+
+93331	masculine
+
+93334	
+93349	feminine
+
+
+masculine
+93357	
+93362	
+neuter
+93370	
+93378	neuter
+93381	
+93387	
+
+93390	masculine
+93397	neuter
+93404	masculine
+
+93410	
+93412	
+
+93415	masculine/feminine
+93426	
+93431	
+93435	
+93439	
+93451	
+93453	
+
+93459	
+93462	masculine/neuter
+93464	
+93466	
+93470	masculine/feminine
+93473	
+
+93478	neuter
+93482	
+neuter
+93485	
+feminine
+93488	masculine
+93491	
+93494	
+
+masculine
+
+93509	
+93511	
+93514	neuter
+93516	neuter
+93532	
+93534	
+93537	
+93540	feminine
+
+93547	masculine/feminine/neuter
+93549	
+
+93558	feminine
+93561	
+masculine
+93564	masculine/neuter
+93569	
+93572	feminine
+93574	masculine
+93578	
+93582	
+93586	
+93594	feminine
+93601	masculine
+93608	feminine
+feminine
+feminine
+93612	
+neuter
+masculine
+93617	
+93620	feminine
+93622	neuter
+93626	
+93628	
+93631	
+masculine/neuter
+93634	
+93638	feminine
+feminine
+neuter
+93646	
+93648	
+feminine
+93653	neuter
+93664	
+feminine
+93668	
+93670	feminine
+93676	masculine
+93678	
+feminine
+
+93687	
+93689	
+feminine
+93695	
+93706	masculine/neuter
+
+93709	feminine
+
+93713	
+93715	neuter
+masculine
+93722	feminine
+93724	
+
+93730	neuter
+93734	
+feminine
+93739	
+
+
+93743	
+93747	masculine/neuter
+
+93754	
+93758	
+93760	
+93764	feminine
+93766	
+93770	
+93774	
+93776	
+masculine/neuter
+93781	
+93784	
+93786	
+masculine/neuter
+93789	
+93792	neuter
+93794	masculine
+93797	masculine
+93801	
+93803	
+93805	
+93808	
+
+93811	masculine
+93814	feminine
+93816	
+93818	
+93821	feminine
+
+93826	
+
+93832	
+feminine
+
+masculine/feminine/neuter
+93838	
+
+93843	feminine
+93846	masculine/feminine/neuter
+93849	
+
+masculine/neuter
+93854	
+masculine/feminine/neuter
+93857	
+masculine
+masculine/neuter
+93862	masculine
+masculine/feminine/neuter
+
+
+93867	masculine
+93870	
+93872	neuter
+93876	neuter
+93878	neuter
+93882	neuter
+
+93888	
+93890	
+
+neuter
+93894	
+93896	neuter
+
+93900	feminine
+93902	
+
+masculine/neuter
+93906	feminine
+93912	
+93914	
+feminine
+93917	masculine
+93919	
+93921	neuter
+93924	
+
+93928	feminine
+93930	
+neuter
+93934	
+
+93940	
+93947	
+
+93950	
+93954	
+93956	
+
+93961	feminine
+neuter
+93966	
+93968	
+93971	
+93975	
+93977	masculine/feminine/neuter
+93980	
+93982	
+93985	
+neuter
+
+
+
+
+93994	
+93999	
+
+
+94003	masculine
+neuter
+94006	masculine/neuter
+94008	
+94012	
+94018	feminine
+94020	
+94022	masculine
+masculine/neuter
+
+94026	feminine
+
+neuter
+94030	
+94034	
+94037	
+94040	feminine
+94042	
+94045	feminine
+94047	neuter
+masculine
+94053	neuter
+94057	
+masculine/neuter
+neuter
+94064	
+94066	
+94068	
+
+94072	
+feminine
+94077	
+feminine
+94082	
+94086	neuter
+94094	
+94101	
+94103	masculine
+94107	
+
+94114	
+94118	masculine
+94120	
+
+feminine
+feminine
+94126	
+94135	
+94137	
+94142	
+94144	feminine
+94147	
+94149	feminine
+94151	
+feminine
+94154	
+feminine
+94157	
+94162	feminine
+94174	
+masculine/neuter
+94178	feminine
+94181	
+94185	neuter
+94187	feminine
+94190	feminine
+94192	neuter
+94194	
+
+
+
+94200	
+94204	
+
+94207	
+feminine
+94212	feminine
+
+94216	neuter
+
+feminine
+94223	neuter
+
+
+94228	
+feminine
+
+94235	
+94238	
+94246	
+feminine
+
+
+
+94255	
+
+94258	
+94261	
+
+94265	
+masculine
+94270	masculine/neuter
+
+
+94275	
+
+94282	
+94286	
+
+94291	masculine
+
+
+94295	
+
+94299	masculine/neuter
+94311	
+94314	
+
+94320	feminine
+94323	
+94328	
+
+94334	
+94336	feminine
+
+
+
+94341	
+94346	
+
+
+feminine
+
+94353	
+94358	
+masculine/neuter
+94363	
+
+neuter
+masculine
+masculine
+
+94371	
+94377	
+94379	
+94387	masculine/neuter
+94389	
+
+94392	feminine
+94397	
+94400	
+masculine
+94404	
+feminine
+
+94409	
+
+94414	
+94416	neuter
+
+
+94420	feminine
+94424	neuter
+94431	
+
+94435	
+masculine/neuter
+
+94439	
+
+94443	
+
+94447	
+
+94450	
+
+masculine/neuter
+
+94456	
+94459	
+94461	
+masculine/neuter
+94470	
+
+94475	
+94478	neuter
+94480	neuter
+94482	masculine
+94487	
+94492	feminine
+94494	
+
+94497	
+94501	
+
+
+94508	
+94513	
+masculine/neuter
+94519	
+94521	
+94526	
+94530	
+
+94533	feminine
+
+94539	
+94542	feminine
+94544	feminine
+
+
+
+
+94556	feminine
+94558	
+
+
+94562	
+94564	feminine
+94566	feminine
+94568	
+
+94574	
+
+94577	
+94579	
+masculine
+
+94586	masculine
+94588	masculine
+94590	
+94592	
+94594	
+94598	
+94605	masculine
+
+94608	neuter
+94610	masculine
+94614	
+neuter
+94619	neuter
+masculine
+feminine
+neuter
+
+94628	feminine
+94630	
+94634	
+94638	feminine
+
+94644	
+94648	
+94654	
+
+94658	
+94662	
+
+94666	
+94670	
+94673	
+94675	
+neuter
+94678	feminine
+feminine
+
+94683	feminine
+neuter
+94687	
+94689	neuter
+94694	
+
+94703	neuter
+94706	feminine
+feminine
+
+neuter
+94711	feminine
+feminine
+
+94715	feminine
+neuter
+neuter
+94722	neuter
+masculine
+94726	
+94731	
+neuter
+94740	
+94742	
+94745	neuter
+94754	neuter
+94756	
+feminine
+neuter
+
+neuter
+94762	
+94769	
+94772	neuter
+94777	
+94780	neuter
+
+94784	
+94791	
+94794	neuter
+94799	
+94801	
+neuter
+94807	feminine
+94809	
+neuter
+94813	feminine
+94817	neuter
+94820	feminine
+feminine
+neuter
+94824	masculine
+
+
+94830	
+94832	
+feminine
+neuter
+neuter
+94842	feminine
+94844	feminine
+neuter
+94849	masculine
+94851	neuter
+94857	masculine/neuter
+94859	
+
+94862	feminine
+94865	feminine
+94867	masculine/neuter
+94869	
+
+94873	feminine
+neuter
+feminine
+
+94878	feminine
+94880	neuter
+94883	feminine
+
+feminine
+94887	
+94890	
+94892	
+94894	feminine
+94896	masculine/neuter
+94899	
+feminine
+94903	masculine/neuter
+94906	
+
+neuter
+94913	
+94917	
+94921	feminine
+
+
+94925	
+94929	masculine
+
+feminine
+feminine
+94936	neuter
+94939	neuter
+feminine
+feminine
+94946	neuter
+feminine
+feminine
+94951	
+94953	masculine/neuter
+94955	feminine
+94958	feminine
+94962	neuter
+94964	
+94966	
+masculine
+94970	
+94979	
+feminine
+feminine
+94987	
+95001	feminine
+95005	masculine/neuter
+
+95008	feminine
+95010	feminine
+95012	feminine
+95015	
+95017	
+95019	neuter
+95021	feminine
+95024	
+95027	masculine
+
+95031	
+95034	feminine
+
+95037	
+95039	neuter
+
+95044	feminine
+95046	neuter
+95048	feminine
+95052	neuter
+
+feminine
+95058	masculine
+95060	
+95063	
+95067	neuter
+
+neuter
+feminine
+95074	neuter
+
+95081	
+95084	
+95087	
+
+
+95091	feminine
+
+95094	
+feminine
+
+95102	
+95104	
+feminine
+95108	
+95121	feminine
+neuter
+neuter
+neuter
+95126	neuter
+95128	neuter
+
+
+
+95139	feminine
+95151	
+95154	
+95156	
+95161	
+95165	
+95168	
+95171	
+95173	
+95177	feminine
+
+95184	masculine
+
+95198	
+95201	
+95204	
+95207	
+feminine
+
+95214	feminine
+
+
+95218	
+
+95221	feminine
+feminine
+95227	neuter
+95229	masculine
+feminine
+95233	
+
+
+95241	
+95243	neuter
+95247	
+95253	neuter
+masculine
+feminine
+95257	
+neuter
+95261	
+
+95266	feminine
+95268	feminine
+95275	neuter
+95277	
+neuter
+masculine
+feminine
+95282	
+95284	
+95286	feminine
+
+95289	
+95293	neuter
+
+95296	feminine
+feminine
+masculine
+95300	feminine
+
+neuter
+95304	
+
+
+
+feminine
+
+
+feminine
+
+
+95315	
+95317	masculine
+feminine
+95326	neuter
+95331	
+
+95336	
+95341	neuter
+95345	
+95347	
+
+95353	feminine
+95355	feminine
+neuter
+95360	
+
+95365	
+95367	
+95370	feminine
+
+95373	feminine
+masculine
+
+
+95381	neuter
+95388	
+
+
+95394	neuter
+masculine
+
+
+95402	neuter
+feminine
+
+neuter
+95410	feminine
+
+95413	
+95415	neuter
+masculine
+feminine
+95420	
+neuter
+95424	feminine
+95428	
+neuter
+95439	
+95444	
+
+
+
+95449	
+95452	
+
+neuter
+neuter
+95458	neuter
+masculine
+95462	
+95464	
+
+95467	feminine
+95470	
+95474	masculine
+95480	masculine
+95483	neuter
+95487	masculine/feminine/neuter
+
+
+95491	masculine/neuter
+95493	feminine
+
+
+
+
+95500	
+
+
+95504	
+95507	masculine
+
+
+95511	
+
+feminine
+95516	feminine
+
+95520	
+95523	
+95527	
+
+
+
+
+95533	
+
+95537	
+95539	masculine
+
+
+95549	
+masculine
+95552	feminine
+feminine
+
+95556	
+95560	
+95563	feminine
+95569	
+95572	neuter
+95574	
+feminine
+
+
+95583	masculine/neuter
+feminine
+95587	
+
+95591	
+
+
+neuter
+95598	
+95602	
+95610	feminine
+feminine
+95613	
+
+feminine
+95622	
+
+
+95626	
+95628	neuter
+95630	
+
+95641	
+95643	
+95645	
+feminine
+
+95649	
+neuter
+95655	feminine
+95657	
+
+95660	
+95663	masculine/feminine
+95665	masculine
+95670	neuter
+95676	
+
+95682	
+
+
+95687	
+masculine/feminine
+95691	masculine
+
+95694	neuter
+95696	
+95699	neuter
+masculine
+95702	
+95705	feminine
+95716	masculine
+95723	neuter
+95725	
+
+
+
+feminine
+95731	
+95733	masculine/feminine/neuter
+feminine
+95736	
+95738	
+95745	
+95749	neuter
+95751	
+
+95757	
+95761	
+95763	masculine
+95768	
+
+
+95772	masculine/neuter
+neuter
+95775	
+
+95778	
+
+feminine
+
+95783	
+95785	
+95788	
+95791	feminine
+
+
+
+masculine/neuter
+95797	masculine
+
+95801	
+95806	
+95813	
+feminine
+neuter
+95819	
+95824	
+95827	masculine
+95830	
+95834	
+95839	
+95841	
+95845	
+
+
+95849	
+95851	
+95855	
+
+masculine/neuter
+95861	
+masculine
+95866	neuter
+masculine/neuter
+
+95870	masculine
+95872	
+95875	
+95878	feminine
+95880	
+
+95883	masculine
+95885	
+95893	
+95897	
+95899	masculine
+95901	masculine/neuter
+feminine
+95904	
+95914	
+95918	
+95921	masculine
+95925	neuter
+95938	
+
+
+95943	
+95948	feminine
+95950	
+feminine
+
+95957	
+
+feminine
+95965	
+feminine
+95968	
+
+95971	
+95982	
+95984	masculine
+95986	
+95988	feminine
+95990	
+
+
+
+
+
+95997	feminine
+96000	
+96003	feminine
+96006	
+masculine
+96009	
+96011	masculine
+96015	neuter
+96018	masculine/neuter
+96021	feminine
+96023	masculine/neuter
+
+96028	
+
+
+96032	
+
+
+
+
+96038	masculine
+96041	
+96043	neuter
+
+96047	
+96049	
+96052	
+masculine
+96055	
+96057	masculine
+96060	neuter
+feminine
+96063	masculine/neuter
+96065	
+
+96069	masculine/neuter
+neuter
+96072	masculine
+96074	
+masculine
+96077	
+
+96080	
+96082	
+masculine
+96093	masculine
+96096	feminine
+96103	
+96107	
+96109	feminine
+96112	
+
+96119	
+
+masculine
+96126	
+
+
+96131	masculine
+96133	masculine
+
+masculine/neuter
+
+96138	
+
+96144	
+96146	feminine
+
+
+96150	feminine
+96152	
+feminine
+
+96156	feminine
+
+96160	
+96165	
+
+96173	
+96177	neuter
+96179	neuter
+96181	
+96185	
+96188	
+
+neuter
+96192	masculine
+
+96195	
+96198	feminine
+neuter
+96202	
+96204	feminine
+neuter
+96209	neuter
+96211	
+
+96215	feminine
+neuter
+96219	neuter
+96221	neuter
+
+96224	neuter
+96226	
+masculine
+96231	feminine
+
+masculine
+
+96241	feminine
+96246	feminine
+
+96249	feminine
+96251	
+96257	
+
+masculine
+masculine
+
+masculine/neuter
+masculine/neuter
+
+
+96268	
+96274	
+
+96280	
+96285	
+masculine/neuter
+
+feminine
+96290	feminine
+96292	masculine
+96295	
+96298	
+
+96303	
+
+
+
+96308	
+96310	masculine
+
+96316	neuter
+96319	
+96322	neuter
+96324	
+96327	
+96333	
+
+96337	
+96339	
+
+96343	masculine
+neuter
+96347	
+96356	
+96359	feminine
+96361	feminine
+96364	
+
+96368	
+96372	
+96375	feminine
+
+96378	masculine
+96385	
+neuter
+96388	feminine
+96390	masculine
+
+neuter
+96394	feminine
+96397	
+
+
+96401	
+
+96405	
+
+masculine
+96412	
+
+96416	feminine
+96419	feminine
+96421	
+96424	
+96427	
+feminine
+96430	
+
+96433	
+
+96436	
+feminine
+96444	
+96455	neuter
+masculine
+96459	
+
+neuter
+neuter
+96465	
+96467	
+96470	masculine
+96473	
+96479	neuter
+masculine
+96485	neuter
+96488	
+
+96491	neuter
+96495	masculine
+96499	neuter
+96503	masculine
+96510	
+96516	
+96520	feminine
+96522	
+96526	feminine
+
+
+96530	masculine
+
+feminine
+masculine
+96536	
+
+96539	
+
+96547	
+96549	
+96552	
+96554	
+96556	
+96559	masculine
+
+96566	
+96575	masculine
+96588	masculine
+96594	neuter
+96596	neuter
+96598	
+neuter
+96601	
+96604	masculine/neuter
+96609	masculine/neuter
+96616	
+
+feminine
+neuter
+feminine
+96625	neuter
+96627	
+96629	
+96631	
+96633	masculine/feminine
+96636	feminine
+
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+96646	
+
+96650	
+
+96653	
+masculine/neuter
+96657	
+neuter
+96660	masculine/neuter
+96664	
+masculine/neuter
+96669	feminine
+96671	
+96677	
+96684	
+96688	masculine/neuter
+96695	neuter
+96700	
+96702	feminine
+96708	neuter
+96713	
+96716	
+masculine/neuter
+
+96720	neuter
+96722	neuter
+96724	
+masculine
+96728	
+96733	feminine
+96735	feminine
+
+feminine
+96741	feminine
+96743	
+
+
+96747	
+96752	masculine/neuter
+neuter
+96758	feminine
+96760	
+96766	masculine/feminine
+
+96769	feminine
+neuter
+neuter
+masculine
+
+
+96776	
+96778	feminine
+96781	
+96784	
+96787	masculine/feminine
+96791	neuter
+96793	
+96795	
+96798	feminine
+96800	feminine
+96803	masculine
+masculine/neuter
+96806	
+masculine
+96812	
+96816	
+
+96819	
+96830	feminine
+
+96833	feminine
+96837	
+96839	feminine
+96846	
+feminine
+96850	
+96854	
+
+
+
+96859	feminine
+
+
+neuter
+masculine/neuter
+
+
+96867	
+96869	feminine
+96871	
+96874	feminine
+
+96879	feminine
+96881	
+
+96885	
+96890	
+96895	
+
+96898	
+96903	
+feminine
+96909	
+96915	neuter
+96922	masculine/neuter
+
+96928	feminine
+feminine
+
+96932	feminine
+96934	feminine
+
+masculine/neuter
+feminine
+96945	feminine
+
+96948	feminine
+masculine
+96952	
+96954	
+96957	neuter
+96960	
+96963	
+96966	
+96968	masculine
+96971	
+96973	feminine
+96975	
+masculine/neuter
+masculine
+96979	masculine/neuter
+feminine
+
+96985	masculine/neuter
+
+masculine
+masculine
+96991	masculine/neuter
+masculine
+feminine
+96995	
+96998	neuter
+97001	
+
+
+97006	
+97014	
+
+97017	feminine
+97019	
+97021	
+97023	
+97025	masculine/neuter
+97027	masculine/neuter
+masculine
+masculine/neuter
+97031	neuter
+97035	
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+neuter
+97043	masculine
+97048	neuter
+masculine
+feminine
+97052	
+97054	feminine
+masculine/neuter
+
+97059	feminine
+
+97062	
+
+feminine
+feminine
+97069	
+97072	
+
+
+97076	
+feminine
+97079	
+masculine/neuter
+
+feminine
+97084	feminine
+
+masculine/neuter
+
+97089	feminine
+97091	masculine/neuter
+97097	masculine/neuter
+97102	
+97105	masculine/neuter
+97109	
+
+97112	masculine
+97119	feminine
+97121	masculine/neuter
+neuter
+97124	masculine/neuter
+97126	
+
+97129	
+97139	feminine
+97145	masculine/neuter
+97148	
+97150	feminine
+
+97153	
+97158	
+feminine
+97161	
+97163	
+97165	
+97169	
+
+97180	
+
+
+97185	
+97189	
+
+feminine
+97194	
+97197	
+97201	
+97203	masculine/neuter
+97205	masculine/neuter
+97207	feminine
+97211	masculine
+97213	
+feminine
+97216	feminine
+97220	masculine/neuter
+
+97224	masculine/neuter
+97228	masculine
+97231	masculine/neuter
+
+
+97237	
+
+97240	
+97244	
+97246	
+
+
+
+97254	feminine
+97257	
+97259	
+97261	
+feminine
+
+
+97266	
+97269	
+feminine
+97276	feminine
+97279	
+97281	masculine/neuter
+97286	masculine/neuter
+
+97289	feminine
+
+masculine/neuter
+masculine/neuter
+masculine
+feminine
+97297	feminine
+97301	feminine
+97305	
+
+97309	masculine/neuter
+97311	
+feminine
+97316	feminine
+97319	feminine
+97322	masculine/neuter
+97324	
+97330	feminine
+neuter
+97335	
+feminine
+97338	
+
+97344	
+97346	
+
+97354	neuter
+97356	
+neuter
+97359	masculine/neuter
+neuter
+97362	feminine
+97365	
+97368	neuter
+
+
+97373	masculine
+masculine
+neuter
+
+
+97379	masculine/neuter
+97382	
+97389	
+97392	
+
+
+97396	
+97400	
+
+97404	
+97408	
+97410	feminine
+
+
+97414	
+97416	masculine/neuter
+neuter
+97419	neuter
+feminine
+97422	
+
+masculine
+97427	feminine
+97429	neuter
+97432	feminine
+97437	
+97439	
+97441	
+masculine/neuter
+97447	masculine
+
+97451	feminine
+
+
+97455	masculine/neuter
+97458	
+97461	
+97463	masculine/neuter
+97466	
+
+97471	masculine/neuter
+97474	feminine
+97476	
+97483	
+
+97486	feminine
+97488	
+97492	feminine
+97495	neuter
+97498	
+97500	neuter
+97502	
+
+97512	
+97515	
+97521	feminine
+
+feminine
+feminine
+97527	masculine/neuter
+97534	masculine
+
+97537	
+feminine
+97540	masculine
+97544	
+97546	
+97548	
+97550	
+97552	
+feminine
+
+97557	
+97560	
+
+97566	
+97568	feminine
+
+
+97572	feminine
+neuter
+97575	feminine
+97578	masculine
+97580	masculine
+97582	feminine
+97585	
+97587	
+97590	
+
+neuter
+97595	
+feminine
+
+
+97600	
+
+97610	masculine/neuter
+
+
+neuter
+97615	
+97619	
+masculine
+97626	
+97630	feminine
+
+
+masculine/neuter
+97638	
+masculine
+97642	
+feminine
+97645	
+97648	
+97651	
+97653	masculine
+
+masculine/neuter
+97657	
+97660	
+masculine/neuter
+97665	
+97668	
+97676	
+97680	
+feminine
+
+97684	
+97686	
+97689	feminine
+
+
+masculine
+97698	
+97701	masculine/neuter
+
+97705	
+masculine/neuter
+
+97709	
+
+
+97715	
+97722	
+
+97730	
+
+97740	
+masculine
+97746	
+
+97749	
+
+97753	
+97755	
+97757	
+
+masculine
+97761	
+97765	
+97767	
+
+
+97773	feminine
+
+
+masculine/neuter
+feminine
+feminine
+masculine/neuter
+97781	
+97783	
+97785	
+masculine/neuter
+97794	
+
+feminine
+masculine/neuter
+feminine
+97800	masculine/neuter
+97804	
+97806	
+97809	
+97813	
+97815	
+97821	feminine
+
+masculine/neuter
+97826	masculine
+97828	
+97830	feminine
+
+97835	
+
+feminine
+97839	feminine
+97841	masculine/neuter
+97843	
+
+97847	
+feminine
+97850	
+97854	
+97858	feminine
+
+97863	
+
+97866	feminine
+neuter
+
+
+
+97873	
+97875	
+
+97880	
+97882	
+97884	
+97887	masculine
+feminine
+97890	
+
+
+
+97896	
+97899	feminine
+neuter
+
+97904	
+
+
+97908	feminine
+neuter
+97912	
+97915	
+feminine
+neuter
+97920	
+97927	
+97929	
+neuter
+97934	
+
+97938	masculine
+feminine
+
+97944	
+
+
+97952	
+
+97957	masculine
+97963	
+97967	
+97969	
+97971	
+97974	
+97976	
+97978	feminine
+97980	feminine
+97985	feminine
+97991	feminine
+97995	
+97998	
+
+masculine
+98003	feminine
+98006	
+98008	masculine
+98012	
+feminine
+98017	neuter
+
+98020	masculine
+98024	neuter
+98026	masculine
+98030	masculine/neuter
+98034	masculine/neuter
+neuter
+98040	
+98042	
+masculine/neuter
+98048	
+98050	
+
+
+98055	masculine/neuter
+98057	neuter
+98061	
+98066	
+
+98069	feminine
+feminine
+98075	
+98081	
+
+
+98085	feminine
+98087	feminine
+98091	feminine
+
+98094	masculine
+
+
+
+98103	masculine
+masculine/neuter
+
+98110	
+98112	neuter
+98114	
+98118	feminine
+98121	masculine
+
+98125	
+98128	
+98131	
+
+masculine/neuter
+98136	masculine
+
+
+98143	
+masculine
+98146	masculine
+98149	
+masculine/neuter
+feminine
+98153	
+neuter
+98156	neuter
+98159	
+98161	
+98164	
+98166	
+masculine/neuter
+98173	
+
+
+
+
+masculine/neuter
+98184	
+98188	feminine
+
+98193	
+
+98197	
+masculine/neuter
+
+98205	masculine
+98208	masculine
+98219	
+
+masculine
+
+
+98228	feminine
+98230	
+masculine
+
+
+98235	masculine/neuter
+98240	masculine
+98242	
+98245	feminine
+98249	feminine
+98251	
+masculine
+98254	
+98258	masculine/neuter
+98260	neuter
+98262	
+masculine/feminine
+98265	feminine
+98268	
+
+98277	
+98290	
+neuter
+98294	masculine
+98297	feminine
+98299	masculine
+98302	
+98304	
+feminine
+98307	neuter
+98309	feminine
+98311	feminine
+98314	feminine
+98316	masculine
+98319	
+
+98322	
+
+
+98327	
+98329	
+98331	neuter
+
+masculine/neuter
+98337	neuter
+
+masculine/neuter
+98341	feminine
+98343	feminine
+98351	
+
+
+masculine
+98356	
+98358	masculine/feminine
+98360	masculine/neuter
+masculine/neuter
+feminine
+feminine
+
+feminine
+98367	feminine
+feminine
+98370	feminine
+98372	feminine
+98375	feminine
+feminine
+
+98379	
+neuter
+feminine
+98383	masculine/neuter
+neuter
+
+
+
+98390	
+98394	neuter
+
+98397	
+98400	
+98404	masculine
+masculine/neuter
+98407	
+
+98411	
+98416	
+98420	masculine
+98422	
+
+neuter
+98435	
+98437	masculine
+98441	neuter
+98444	feminine
+
+98449	neuter
+98451	masculine/feminine
+98454	
+98461	
+98463	
+
+98466	
+98468	
+masculine/neuter
+feminine
+98473	
+98475	feminine
+98480	
+98482	
+98484	
+98487	
+98490	masculine
+98504	feminine
+98506	
+98508	
+98510	
+masculine/neuter
+98515	feminine
+feminine
+
+98520	feminine
+98525	masculine
+98530	
+masculine/neuter
+feminine
+98534	
+98540	
+98543	masculine/neuter
+98548	
+
+
+
+98553	
+98556	masculine/neuter
+98558	
+98561	
+
+98566	
+
+98571	
+98574	
+feminine
+98577	
+
+masculine/neuter
+
+feminine
+98584	
+98589	neuter
+masculine
+98598	masculine
+98602	masculine/neuter
+
+
+98606	feminine
+98613	
+98616	
+
+
+
+98622	
+
+masculine
+
+98630	
+98632	
+masculine
+
+98636	feminine
+feminine
+98639	
+
+feminine
+feminine
+98644	neuter
+98646	
+
+
+masculine/neuter
+feminine
+98652	feminine
+masculine/neuter
+98656	masculine/feminine
+98658	
+98660	
+
+
+98664	
+
+masculine
+98668	masculine
+98673	feminine
+98675	feminine
+98678	
+masculine/feminine
+98683	
+98685	masculine/neuter
+98688	
+
+
+masculine/neuter
+98693	masculine/neuter
+
+98696	masculine/neuter
+
+
+
+98705	masculine/neuter
+98707	
+98712	
+
+98718	
+98720	
+98723	
+
+
+98727	feminine
+
+98730	masculine
+98732	feminine
+masculine/neuter
+98735	
+feminine
+98739	masculine
+
+98744	
+98746	neuter
+98748	feminine
+
+98752	
+98756	feminine
+neuter
+98759	
+98763	
+
+
+
+
+98769	
+98771	
+98773	
+98775	
+98777	
+98779	
+98781	
+
+
+98785	
+98787	
+98789	
+feminine
+
+98793	
+98795	
+98797	
+
+
+98801	
+98803	feminine
+
+feminine
+
+feminine
+98809	masculine
+98813	neuter
+98816	feminine
+
+98819	feminine
+feminine
+98824	
+98827	masculine/feminine
+
+98832	
+98835	
+
+
+98842	
+98847	
+98852	
+98856	neuter
+98860	masculine/neuter
+
+98863	feminine
+98865	feminine
+neuter
+masculine/neuter
+
+98870	
+
+masculine/feminine
+
+98875	
+98878	masculine/neuter
+98883	
+
+
+98889	masculine
+
+98895	
+98899	
+98908	masculine/neuter
+98911	
+98914	neuter
+98916	
+98921	
+98926	feminine
+
+98931	
+neuter
+98934	
+
+
+98939	
+98941	
+feminine
+98952	
+feminine
+98955	
+
+masculine
+98961	
+masculine
+
+feminine
+98966	
+
+
+98972	
+98974	
+
+98978	
+masculine
+98995	masculine
+98997	
+98999	
+99001	feminine
+99011	
+99014	
+
+99017	
+masculine/neuter
+
+
+99029	feminine
+99034	masculine/neuter
+99037	feminine
+
+99042	
+99044	feminine
+masculine/neuter
+feminine
+99049	masculine/neuter
+
+feminine
+feminine
+
+99055	feminine
+99057	masculine/neuter
+99059	
+99063	
+99067	neuter
+masculine
+99070	
+99072	feminine
+neuter
+99075	
+99077	
+masculine
+99082	
+99084	
+
+
+99088	
+99090	feminine
+
+99094	
+99096	masculine/feminine
+99098	masculine/neuter
+
+99101	masculine/neuter
+99104	masculine/neuter
+99107	
+99112	
+
+99116	feminine
+
+99119	
+99122	
+99126	
+feminine
+feminine
+99130	
+99133	
+99135	feminine
+99139	
+99142	
+99144	
+
+99148	
+masculine
+99151	
+99154	
+masculine/neuter
+feminine
+99158	
+masculine
+
+
+
+99166	feminine
+99168	
+
+
+99173	
+99178	
+masculine
+99183	
+99185	
+99187	
+
+
+99191	
+
+
+99195	
+
+
+99203	
+99205	neuter
+
+99209	
+99212	
+99214	
+99216	
+99220	
+99224	masculine/neuter
+99227	masculine/neuter
+99229	feminine
+masculine
+
+
+feminine
+99239	feminine
+masculine/neuter
+99247	masculine
+
+99252	
+99255	masculine/neuter
+
+
+99261	masculine/neuter
+99266	
+neuter
+
+feminine
+99271	
+99274	feminine
+99276	masculine/neuter
+99278	masculine
+feminine
+99282	feminine
+99284	
+99286	
+feminine
+99292	masculine/neuter
+99294	
+99296	
+99298	
+99302	
+
+99306	
+
+99310	
+99313	
+
+
+99318	
+99320	
+99322	feminine
+
+
+99326	
+99328	feminine
+
+99332	feminine
+99334	feminine
+
+99338	feminine
+99340	
+99345	feminine
+
+
+99349	
+99351	neuter
+99357	masculine
+masculine/neuter
+99360	
+99365	
+99367	
+99374	
+99377	masculine
+
+masculine/neuter
+99381	masculine/feminine
+feminine
+99384	
+
+99387	
+feminine
+99392	
+99395	
+
+feminine
+99400	
+99404	
+99406	
+feminine
+99411	feminine
+99413	
+
+99417	
+masculine/neuter
+
+
+
+99424	
+99428	
+99431	
+
+
+feminine
+99436	masculine
+99442	
+99445	
+99448	
+
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+
+99456	feminine
+99463	
+99468	
+99470	
+99473	
+99479	
+
+99484	
+99491	
+99495	feminine
+
+
+99502	
+99504	
+99506	
+99508	feminine
+
+99512	neuter
+
+99518	
+99522	
+99524	
+99527	
+99529	
+
+99534	masculine/neuter
+99536	
+99538	feminine
+99543	feminine
+99545	feminine
+
+99548	masculine/neuter
+99551	feminine
+99555	neuter
+99561	neuter
+99568	
+
+
+99576	masculine/neuter
+
+99579	
+masculine
+
+99588	feminine
+99592	feminine
+
+99596	
+99599	
+neuter
+99602	
+
+99605	feminine
+99608	masculine
+99612	
+99617	masculine
+99619	masculine/neuter
+
+99625	feminine
+99627	masculine/neuter
+99630	
+
+masculine/neuter
+
+99635	
+masculine/neuter
+99641	feminine
+99643	
+99648	feminine
+99650	masculine/neuter
+
+99653	feminine
+99656	masculine
+masculine/neuter
+
+99660	masculine
+99662	
+99667	masculine/neuter
+99670	
+99674	neuter
+99678	
+feminine
+99682	
+feminine
+99686	masculine
+99690	
+feminine
+99695	masculine/neuter
+99697	masculine
+
+masculine/neuter
+99704	
+masculine/neuter
+99707	masculine/neuter
+99710	masculine/neuter
+
+99714	
+99717	masculine
+99722	
+99724	
+99727	
+99732	
+
+99736	
+masculine/neuter
+99740	masculine/neuter
+
+99743	
+feminine
+99750	masculine/neuter
+99755	
+99763	masculine/neuter
+99766	masculine/neuter
+99768	
+
+neuter
+99774	
+99776	
+99778	
+neuter
+99782	
+99786	feminine
+99792	
+99794	
+99796	feminine
+99798	
+99800	
+
+99806	
+feminine
+99809	
+99813	masculine/neuter
+99818	
+99822	
+99826	neuter
+masculine
+99831	
+99833	neuter
+masculine
+99840	
+99845	
+99848	
+
+
+
+99854	
+
+neuter
+99858	
+99860	neuter
+99862	feminine
+
+
+
+feminine
+99868	
+99871	feminine
+99874	
+
+neuter
+masculine
+99884	
+feminine
+99887	
+
+
+99892	neuter
+99896	
+99900	
+99902	
+99904	
+99907	masculine/neuter
+99909	
+feminine
+99914	masculine/neuter
+
+99918	
+feminine
+99924	masculine/neuter
+99926	
+
+
+feminine
+neuter
+99937	feminine
+feminine
+99941	masculine/feminine/neuter
+
+99944	feminine
+feminine
+99948	
+
+feminine
+99954	
+99958	masculine
+99961	
+99964	masculine/neuter
+
+99967	masculine
+
+masculine/neuter
+99974	
+99977	
+99980	feminine
+feminine
+99983	masculine/neuter
+
+feminine
+feminine
+99989	
+
+
+99993	
+99995	
+
+100000	
+
+100006	
+feminine
+feminine
+100013	
+masculine/neuter
+100016	
+100020	
+
+100025	
+feminine
+
+100031	masculine
+
+100034	feminine
+
+100037	
+100042	feminine
+
+
+
+100047	
+100052	
+
+100055	feminine
+100057	feminine
+100060	masculine/neuter
+100062	feminine
+
+feminine
+
+
+100073	neuter
+100076	
+100079	
+
+100083	neuter
+100085	
+100088	
+masculine/neuter
+100091	
+
+100094	
+feminine
+
+100099	masculine/neuter
+feminine
+100102	feminine
+
+100105	
+
+100108	
+100110	masculine/neuter
+100117	
+100120	masculine/neuter
+100124	neuter
+100127	
+100132	
+masculine/neuter
+100136	neuter
+masculine
+
+100142	
+100144	masculine/neuter
+100149	
+
+
+100153	feminine
+feminine
+100157	
+feminine
+
+100162	
+100165	feminine
+100167	
+
+100170	masculine/feminine
+100172	neuter
+100177	neuter
+100179	
+100182	
+100190	
+100194	
+
+
+
+100199	
+100203	
+100205	
+100214	
+100218	
+feminine
+100222	
+
+100226	
+100228	
+100230	masculine/feminine
+neuter
+100233	
+100237	masculine/neuter
+100240	
+100243	
+feminine
+
+100250	masculine/neuter
+100252	
+
+100255	
+masculine/neuter
+100258	
+feminine
+100262	
+
+
+100271	masculine/neuter
+
+
+100275	
+100278	masculine/neuter
+
+neuter
+
+feminine
+100284	masculine/neuter
+100287	
+100290	
+feminine
+neuter
+100294	neuter
+100297	
+masculine/neuter
+100302	neuter
+100308	
+100310	neuter
+masculine
+
+masculine
+100316	neuter
+100319	
+100321	
+100323	
+100325	feminine
+
+100330	feminine
+100333	masculine
+100335	
+
+masculine
+100341	
+
+neuter
+100346	masculine
+
+100350	
+100352	feminine
+100354	masculine/neuter
+100362	
+masculine
+
+100367	neuter
+100375	
+100378	
+100382	
+masculine
+100388	masculine
+
+100395	neuter
+100397	
+100401	
+100406	feminine
+100408	
+100411	
+100413	
+feminine
+
+100419	neuter
+100422	
+
+
+100426	
+
+masculine
+100430	
+
+feminine
+
+100435	masculine
+100438	masculine/neuter
+
+100441	masculine
+100443	feminine
+100454	masculine
+100458	feminine
+100460	
+100462	neuter
+100464	
+100467	
+100469	feminine
+masculine/neuter
+
+
+
+feminine
+100479	
+100481	
+100485	feminine
+feminine
+100488	
+100490	
+feminine
+neuter
+100497	
+100499	
+100501	
+100503	
+100505	masculine
+
+100508	
+100510	
+100515	masculine
+100519	
+
+100522	
+100524	masculine/neuter
+100530	neuter
+masculine
+100533	
+100539	
+100541	masculine
+
+
+100545	
+
+100552	
+feminine
+100555	feminine
+100557	
+100561	
+feminine
+100564	
+100568	
+feminine
+
+100573	masculine
+neuter
+100578	
+100580	
+masculine
+
+100584	
+
+100587	
+100590	feminine
+100593	neuter
+100595	
+
+100598	
+masculine
+100601	
+100603	
+100605	
+100608	
+100610	
+100612	feminine
+
+
+100617	
+100620	
+100623	
+100625	
+100627	feminine
+
+
+feminine
+
+
+
+100636	
+100639	
+100641	
+
+100644	
+
+masculine
+100648	
+masculine
+100651	
+masculine
+100655	
+masculine
+
+masculine/neuter
+
+masculine
+
+100664	
+
+100667	
+100670	
+100673	
+
+100677	masculine
+100680	neuter
+100686	
+100689	masculine
+
+
+100697	masculine
+100699	feminine
+100704	
+100707	
+feminine
+100710	
+100713	
+100716	
+100721	
+100724	
+100727	neuter
+
+100731	
+neuter
+100738	feminine
+100741	feminine
+100743	feminine
+feminine
+
+100748	masculine
+100750	
+100753	
+100760	
+100762	
+feminine
+100768	neuter
+100772	
+masculine/neuter
+masculine
+100776	neuter
+100779	
+100782	
+100785	
+100787	neuter
+100789	masculine
+
+masculine
+100795	feminine
+
+100799	feminine
+100801	
+100803	
+feminine
+
+100811	
+100813	
+100815	
+100819	
+100822	
+masculine/neuter
+
+100826	
+masculine
+100829	masculine
+100832	
+100835	
+100838	
+100841	
+neuter
+100848	feminine
+
+
+100852	
+100857	
+100861	
+100864	
+neuter
+100868	
+100870	
+100875	feminine
+100877	feminine
+100881	
+100883	
+100891	
+100893	
+100896	neuter
+100898	
+100901	
+neuter
+feminine
+100905	
+100910	
+100915	neuter
+100917	
+100919	
+
+100923	
+100936	masculine
+100939	
+100947	masculine
+100950	
+100952	
+100954	
+100956	
+masculine
+feminine
+100961	feminine
+100964	
+
+
+feminine
+100971	
+100975	
+100978	feminine
+100980	
+masculine/neuter
+100984	
+100986	
+100988	
+100990	
+100995	masculine/neuter
+100998	
+101003	neuter
+101011	masculine/neuter
+
+101017	neuter
+101019	
+101023	feminine
+101025	feminine
+
+101029	
+
+
+
+
+
+101047	
+feminine
+
+101051	
+101056	masculine/neuter
+
+101062	
+101065	
+
+101069	feminine
+101072	
+101075	
+feminine
+masculine/neuter
+
+feminine
+101082	
+feminine
+101086	
+101088	
+masculine
+
+101092	
+101095	feminine
+
+101101	
+masculine/neuter
+
+101105	feminine
+
+101108	
+101114	feminine
+
+feminine
+101119	feminine
+101122	masculine/feminine
+101126	feminine
+101128	
+101130	feminine
+101137	feminine
+101139	feminine
+101142	
+101150	
+
+
+
+
+101156	
+
+masculine
+101160	feminine
+101162	neuter
+101166	masculine/neuter
+masculine
+101171	
+101176	
+feminine
+masculine
+101180	
+101183	
+101185	
+101188	
+101192	
+101198	
+101200	neuter
+101204	feminine
+101206	
+101212	
+101219	
+
+101226	feminine
+101230	masculine
+101232	masculine
+101234	neuter
+101238	
+
+masculine
+101252	
+neuter
+
+
+101260	neuter
+101262	
+
+
+
+101267	masculine/neuter
+101269	
+feminine
+101272	
+
+
+
+
+101280	
+101282	
+
+101286	
+101290	
+
+101293	
+101299	
+
+feminine
+101303	
+
+
+
+101308	feminine
+101310	
+
+101313	
+101315	
+masculine
+masculine
+
+
+
+feminine
+101323	
+101326	
+101328	
+101333	
+101337	masculine
+101339	
+feminine
+101346	
+
+101352	masculine
+
+101356	
+101363	
+101365	feminine
+
+101369	feminine
+101374	
+101377	
+
+101381	
+101383	masculine/neuter
+101385	neuter
+101389	
+101391	masculine
+101393	masculine
+101395	
+101397	
+101399	neuter
+masculine
+101403	
+101407	
+101411	
+
+
+101416	
+
+101419	neuter
+101422	
+101424	
+101427	masculine/neuter
+
+101430	
+101434	feminine
+masculine
+101438	
+101440	
+masculine/neuter
+masculine
+masculine/neuter
+101445	feminine
+
+
+
+101450	feminine
+101452	
+101457	masculine/neuter
+101463	
+101465	
+
+feminine
+masculine
+masculine/neuter
+101471	
+101473	
+101477	feminine
+101479	masculine
+101481	
+101485	
+101489	
+101491	
+101493	
+101495	masculine/neuter
+101497	masculine/neuter
+masculine
+masculine/neuter
+
+101505	neuter
+masculine/neuter
+101508	
+feminine
+101511	
+101513	
+101516	
+101518	feminine
+
+
+101523	masculine/neuter
+101525	feminine
+
+
+101532	feminine
+101534	
+101537	
+101539	
+101541	feminine
+
+101544	masculine/neuter
+
+101547	masculine
+101552	
+101554	
+
+masculine
+101558	feminine
+101561	
+101563	masculine
+
+masculine/neuter
+
+101568	neuter
+101570	
+101572	
+
+101575	
+101579	
+101582	
+101587	
+
+101590	feminine
+101599	feminine
+feminine
+
+101603	masculine
+
+
+101608	
+101612	masculine/neuter
+101615	
+101619	
+101622	masculine
+101626	
+
+101630	
+101632	
+101635	neuter
+
+101641	
+101644	masculine
+masculine/neuter
+101649	feminine
+
+
+
+
+101655	
+101657	
+101660	
+
+
+101664	
+101668	
+
+101674	
+
+neuter
+101680	feminine
+101685	
+101688	neuter
+
+101697	feminine
+101700	
+
+101704	
+
+
+101710	
+101713	
+101719	
+101721	
+101726	
+101728	
+101730	
+feminine
+101735	
+
+101739	
+masculine
+101742	
+101744	
+101750	feminine
+101758	
+101763	
+masculine/neuter
+feminine
+101767	
+
+
+masculine
+
+
+
+101778	
+feminine
+101782	feminine
+101785	feminine
+101789	
+
+101792	
+101796	
+masculine
+101801	
+
+neuter
+101805	feminine
+
+101812	
+101816	
+
+101819	masculine
+101821	feminine
+101823	masculine
+101826	
+101829	masculine
+101835	
+101841	masculine
+101844	
+101848	masculine
+101851	masculine/neuter
+101853	
+
+101857	
+101860	
+101862	neuter
+101864	
+feminine
+101867	
+101869	feminine
+101876	
+101878	
+masculine/neuter
+101882	
+masculine
+masculine
+101886	feminine
+
+101889	
+101891	
+101894	
+101896	feminine
+feminine
+
+101902	feminine
+101906	masculine/neuter
+101910	
+
+101916	neuter
+101918	
+101921	
+101923	masculine
+101927	
+masculine
+101930	
+101933	masculine
+101939	masculine
+neuter
+101942	
+101944	
+101947	masculine
+
+101950	
+
+feminine
+101957	
+101966	masculine
+101968	
+101970	feminine
+101972	
+101974	masculine
+101978	
+feminine
+101983	
+101985	
+101988	feminine
+101996	
+
+102001	
+feminine
+
+102007	
+102009	
+102011	
+102021	
+102024	
+102026	
+102031	masculine
+102033	
+102036	masculine
+102042	
+feminine
+102045	feminine
+102047	
+102049	
+102054	feminine
+
+102057	
+
+102062	
+102065	feminine
+102070	
+
+feminine
+102077	feminine
+102081	
+102086	
+102090	
+102093	neuter
+102095	feminine
+102097	masculine/neuter
+masculine
+102101	
+masculine
+102109	masculine/neuter
+102112	
+102115	
+
+102121	feminine
+102123	
+102127	
+masculine
+102133	neuter
+masculine
+102139	
+102141	feminine
+102145	masculine
+
+102151	feminine
+102153	
+102156	
+
+masculine
+
+
+102164	
+102166	
+
+masculine
+102172	
+
+102175	
+feminine
+
+102179	
+
+
+
+
+102187	masculine/neuter
+102190	
+102192	masculine/feminine/neuter
+102194	
+
+
+
+102199	feminine
+102202	neuter
+masculine
+
+102206	
+102208	masculine
+102210	feminine
+102215	masculine
+masculine
+102218	masculine
+102224	masculine/neuter
+
+102231	
+
+102237	
+102242	
+feminine
+102245	
+
+102249	
+neuter
+102253	
+102257	masculine
+102259	
+
+
+102264	
+
+102271	
+
+102276	
+102278	
+neuter
+
+masculine
+102285	
+
+102288	feminine
+102290	feminine
+neuter
+
+102295	
+feminine
+102298	neuter
+102301	
+102303	
+102305	
+masculine
+neuter
+feminine
+102311	masculine
+102316	
+neuter
+102321	
+102324	
+102326	masculine
+
+102330	
+102335	
+102339	
+
+102342	
+102344	
+
+feminine
+
+102349	
+
+102353	neuter
+
+
+masculine
+
+neuter
+102363	neuter
+102371	neuter
+102373	feminine
+102375	
+102377	masculine
+feminine
+
+102382	masculine
+
+102387	masculine/neuter
+masculine
+
+102393	neuter
+masculine
+102396	
+102398	
+feminine
+102401	feminine
+102403	
+102405	feminine
+
+masculine
+masculine
+102412	
+102415	feminine
+102419	
+102421	
+masculine
+
+102427	
+
+
+
+102434	feminine
+102437	
+102439	
+102441	
+feminine
+102445	
+102449	
+102452	feminine
+
+102455	masculine/neuter
+102458	masculine
+102461	
+102465	
+
+neuter
+102469	feminine
+102472	masculine
+102476	
+
+102479	
+102482	
+102486	feminine
+102489	
+102491	
+102497	neuter
+102501	neuter
+102504	masculine
+feminine
+102508	
+
+102514	masculine
+102516	masculine
+
+102520	neuter
+102526	neuter
+102531	neuter
+102534	
+102537	
+
+102541	
+102545	neuter
+102547	
+102551	
+
+feminine
+102555	
+
+feminine
+neuter
+feminine
+neuter
+102564	feminine
+102568	masculine
+masculine/neuter
+102574	
+102582	masculine
+
+102589	neuter
+102592	masculine/neuter
+
+
+masculine
+102610	
+
+
+feminine
+102616	
+masculine
+masculine
+102621	
+masculine
+102624	masculine
+102627	
+102629	
+feminine
+102632	
+102634	
+102637	
+
+102645	
+
+masculine
+masculine
+
+102652	masculine/neuter
+neuter
+
+102657	
+102660	
+
+102666	neuter
+102672	
+masculine/feminine
+102676	
+102678	
+102684	feminine
+
+102690	
+102694	feminine
+102696	
+
+
+102700	
+102705	
+
+102708	neuter
+102712	
+102723	
+102728	
+102730	
+
+102733	neuter
+102737	
+
+
+
+102742	
+masculine/neuter
+
+102746	neuter
+102750	
+102752	
+102754	
+102759	feminine
+
+
+102766	masculine
+102769	feminine
+102772	
+102776	masculine
+102781	
+
+
+102786	feminine
+masculine/feminine
+102789	feminine
+102794	
+
+feminine
+
+102799	feminine
+102801	
+102805	feminine
+102807	
+
+102810	
+feminine
+
+
+102815	
+masculine
+
+102820	
+masculine/neuter
+102825	
+102827	
+102833	
+102839	masculine/neuter
+
+102845	
+
+102848	
+
+102851	
+102854	
+masculine
+102859	neuter
+102861	masculine/neuter
+
+102864	
+
+
+masculine
+102870	masculine/neuter
+102876	masculine/neuter
+102879	
+
+feminine
+102883	masculine
+
+
+feminine
+102890	
+masculine
+102894	
+masculine
+102900	
+
+
+102905	feminine
+102911	
+
+102914	masculine
+
+
+102919	
+102921	feminine
+102924	
+102928	
+
+
+
+
+102934	masculine
+102942	
+102945	
+102948	
+102950	feminine
+102955	feminine
+102960	neuter
+102965	
+
+102968	neuter
+102973	feminine
+102978	feminine
+102981	
+102988	neuter
+
+feminine
+102998	neuter
+103001	
+103003	feminine
+103013	neuter
+103015	feminine
+103017	
+103019	neuter
+103024	masculine/neuter
+103028	feminine
+feminine
+103032	neuter
+103034	neuter
+feminine
+103038	
+feminine
+feminine
+103043	
+103045	
+103049	
+103053	
+103057	
+103061	neuter
+
+
+103067	
+103072	
+103074	
+feminine
+neuter
+103087	
+neuter
+103093	
+
+103103	
+103107	
+feminine
+masculine
+103111	
+103116	masculine
+feminine
+
+feminine
+103122	
+
+
+neuter
+103127	masculine
+feminine
+103130	
+103137	
+103140	masculine
+103143	
+103146	masculine/neuter
+103148	
+
+
+103153	
+103162	
+103164	masculine
+masculine
+103167	masculine
+103172	
+103175	
+103178	masculine
+103180	feminine
+103182	feminine
+103185	feminine
+103189	
+103191	feminine
+neuter
+103194	neuter
+103197	
+103200	
+feminine
+
+masculine/neuter
+
+103208	neuter
+103211	feminine
+
+103216	neuter
+103221	
+
+103228	neuter
+103232	
+
+masculine
+103237	masculine
+masculine
+feminine
+103243	
+103249	
+
+
+103254	
+feminine
+103257	
+
+103260	neuter
+103264	
+103268	
+
+
+103272	masculine
+masculine/neuter
+
+neuter
+
+103279	
+103281	
+
+103285	feminine
+
+
+103290	
+103292	
+103297	feminine
+103300	
+
+
+103307	
+103316	feminine
+neuter
+103320	
+
+103324	
+103326	
+103329	feminine
+103332	feminine
+103338	neuter
+103342	feminine
+feminine
+103346	
+103352	
+103354	feminine
+neuter
+103357	feminine
+
+
+103361	
+
+masculine
+feminine
+feminine
+103367	feminine
+
+103370	
+neuter
+103374	
+103377	
+103379	
+103386	
+103392	masculine
+103394	
+masculine/neuter
+masculine
+103398	
+feminine
+103405	
+
+
+103416	masculine
+103420	neuter
+103424	
+103428	masculine
+103430	
+103433	
+103436	masculine
+neuter
+103442	feminine
+feminine
+neuter
+
+103448	
+103451	
+masculine/neuter
+
+103455	
+103461	
+103465	masculine
+103471	
+103476	
+103479	
+103485	
+103487	
+103490	neuter
+103494	
+
+
+103498	
+masculine
+
+103506	neuter
+
+103511	
+
+neuter
+masculine
+
+103517	
+103522	
+103524	neuter
+103526	masculine
+
+103531	
+103533	
+
+neuter
+103538	masculine
+103541	
+103544	
+103548	masculine
+103550	
+103552	
+103562	
+103567	
+103571	
+103575	
+
+103580	feminine
+103584	
+103586	
+masculine/neuter
+103590	
+103592	masculine
+103596	
+
+103599	feminine
+103602	
+103607	
+103612	
+103614	
+
+103617	
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+103623	
+
+103626	
+masculine
+103631	masculine
+103636	
+
+103641	
+103644	
+
+103649	masculine
+103654	
+
+
+103658	
+103664	feminine
+103666	
+masculine
+
+
+103673	
+103675	
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+103681	
+103683	masculine/neuter
+103685	feminine
+103688	masculine/neuter
+masculine
+feminine
+103692	
+103697	
+103700	neuter
+
+masculine
+masculine
+103705	
+103707	
+103709	
+103711	masculine/neuter
+103713	masculine/neuter
+masculine
+masculine/neuter
+103717	neuter
+103721	
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+neuter
+
+feminine
+
+
+103733	
+103736	
+masculine
+103739	
+feminine
+
+103744	masculine
+
+103747	feminine
+103751	masculine
+
+
+
+
+feminine
+
+103759	feminine
+masculine
+masculine/neuter
+
+103764	
+103767	
+103769	
+
+103772	
+103775	
+103778	feminine
+
+
+103782	
+103786	
+feminine
+
+103790	
+103795	
+103800	
+103803	
+feminine
+
+
+103809	feminine
+103811	masculine/feminine
+103814	
+103816	
+
+103820	
+103823	
+103825	
+103827	
+103830	
+103832	feminine
+neuter
+
+
+masculine
+feminine
+103840	
+103842	feminine
+103846	
+103848	
+103853	
+103855	
+feminine
+neuter
+103859	
+103862	
+103864	
+
+103868	feminine
+
+103871	
+
+103875	
+
+masculine
+
+103886	feminine
+103888	masculine
+103891	masculine/neuter
+
+103897	
+103901	
+
+103908	masculine/neuter
+
+
+103913	
+103916	
+
+neuter
+103920	masculine
+
+103924	feminine
+103926	
+
+masculine/neuter
+masculine
+103932	
+103934	
+103942	masculine/neuter
+103950	neuter
+103952	
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+neuter
+103960	
+feminine
+
+103967	
+feminine
+
+103974	
+masculine/neuter
+
+103979	feminine
+103982	feminine
+103986	
+103988	neuter
+103991	
+103994	
+
+104001	
+104005	
+
+feminine
+104010	
+104013	
+104017	
+104019	
+
+
+masculine
+104026	feminine
+104028	
+
+feminine
+
+
+104035	
+104039	
+104050	
+
+104054	
+104056	
+
+104060	neuter
+
+104065	
+104071	neuter
+104073	
+104078	
+104081	
+feminine
+neuter
+
+104088	feminine
+104090	
+104096	masculine/neuter
+
+104099	
+104101	
+104104	
+
+104107	
+104109	neuter
+104111	
+
+104114	
+104116	
+104119	
+104121	
+104124	
+104129	
+
+
+104133	
+104136	masculine/neuter
+104138	feminine
+104144	neuter
+104146	
+104148	feminine
+
+
+104152	masculine
+104154	neuter
+104159	
+neuter
+feminine
+104164	
+
+104168	feminine
+104171	feminine
+
+104175	
+
+masculine
+104179	
+104182	
+104185	
+104188	
+masculine
+masculine
+104193	
+104195	
+104199	
+104203	
+
+104207	feminine
+
+masculine
+masculine
+104214	
+104216	feminine
+104221	
+masculine/neuter
+
+104227	
+104233	
+104238	
+masculine
+masculine
+104243	
+104246	neuter
+104249	
+104253	
+
+
+104257	feminine
+104259	
+104261	masculine
+masculine
+104266	feminine
+masculine
+
+104271	
+
+
+104277	masculine/neuter
+104281	
+104284	masculine/feminine
+104294	
+
+104299	
+masculine
+masculine
+104303	masculine/feminine
+
+104306	masculine/feminine
+104309	
+
+104312	
+masculine/neuter
+104317	feminine
+
+masculine/neuter
+neuter
+104322	feminine
+feminine
+neuter
+104328	
+104332	feminine
+
+104336	
+104341	
+104343	
+104347	
+
+104350	
+feminine
+
+104354	masculine
+104357	
+104360	
+104363	
+
+feminine
+
+
+104370	feminine
+
+104377	
+104379	masculine/feminine
+104384	
+104386	
+104390	masculine
+104392	
+104398	neuter
+104401	
+masculine/feminine
+104404	
+
+
+104409	masculine/feminine/neuter
+104411	
+
+
+104416	
+104421	masculine
+104424	
+masculine/neuter
+masculine
+
+104429	feminine
+masculine
+104432	feminine
+
+104436	
+masculine/neuter
+
+104442	
+
+masculine
+
+
+
+104450	feminine
+104453	neuter
+104455	
+masculine/neuter
+masculine
+104459	masculine/neuter
+104462	
+104469	
+
+104474	
+feminine
+
+
+104485	
+104489	
+104491	
+104495	
+
+104498	
+masculine/neuter
+104506	
+104509	
+104515	
+104518	
+104521	feminine
+104530	
+masculine
+masculine
+feminine
+
+104536	
+104539	
+104541	feminine
+104544	
+
+104549	
+104554	
+
+
+104559	masculine/feminine/neuter
+104561	feminine
+104570	
+masculine/neuter
+104573	
+104575	feminine
+104577	
+104579	
+104584	
+
+
+
+feminine
+neuter
+104598	
+
+104602	feminine
+104604	feminine
+feminine
+104608	
+
+
+104615	
+
+
+masculine
+masculine
+
+masculine/neuter
+masculine/neuter
+
+104630	
+feminine
+feminine
+104635	
+104640	
+104645	masculine/neuter
+104648	
+masculine/neuter
+104651	feminine
+masculine/neuter
+feminine
+104659	
+
+feminine
+neuter
+
+
+104670	
+
+
+104676	
+
+feminine
+104680	feminine
+
+104683	
+
+104686	
+104688	
+104690	masculine
+feminine
+104694	
+104696	
+masculine/neuter
+
+
+104725	
+
+masculine/neuter
+104730	
+neuter
+104734	
+
+
+104740	neuter
+
+
+104745	
+
+
+104752	
+masculine/feminine
+104755	feminine
+
+
+104759	
+104761	
+masculine
+masculine
+
+feminine
+104768	
+104772	feminine
+
+104775	feminine
+104777	neuter
+104779	
+masculine/neuter
+
+
+104795	feminine
+
+
+104802	
+104804	
+
+104808	
+neuter
+104812	neuter
+104817	
+104822	masculine/neuter
+104824	masculine
+104827	neuter
+104834	neuter
+104838	feminine
+104841	
+104846	masculine/neuter
+104848	feminine
+104850	
+104855	
+masculine/neuter
+104858	
+
+
+104873	
+104875	
+104878	
+feminine
+feminine
+feminine
+104884	neuter
+
+104889	neuter
+
+
+104894	
+104896	
+feminine
+neuter
+104907	
+104920	masculine/feminine/neuter
+
+masculine
+
+
+104926	
+104928	
+masculine/neuter
+
+
+masculine
+104934	
+104942	
+
+
+
+
+
+
+
+104952	
+104954	
+masculine/neuter
+104967	
+104972	
+104976	
+104978	
+104981	
+
+104984	
+104986	feminine
+neuter
+104990	feminine
+104992	masculine
+
+
+neuter
+104998	neuter
+105001	feminine
+105003	
+105008	
+105014	feminine
+
+105018	
+105021	
+
+105025	
+105028	
+masculine/neuter
+105031	feminine
+105035	feminine
+105037	
+
+105040	
+105042	masculine
+105045	
+105050	
+
+feminine
+105054	feminine
+105057	
+105059	feminine
+105061	
+105063	
+feminine
+105070	
+
+105075	
+105083	masculine
+
+105089	
+105094	feminine
+
+
+masculine
+105099	feminine
+
+105102	masculine
+
+105105	
+105109	
+105111	
+105113	
+105116	
+105118	
+105120	masculine/neuter
+105124	
+105127	
+masculine
+105130	
+105135	feminine
+105140	
+feminine
+105144	
+masculine
+
+
+105149	feminine
+feminine
+
+105154	
+neuter
+105161	masculine/neuter
+105163	
+105165	
+105167	neuter
+105181	
+105183	
+105190	
+105192	masculine/neuter
+105195	
+
+105204	
+
+105210	
+105214	masculine
+
+
+
+105220	
+feminine
+105223	feminine
+105226	neuter
+105228	
+105235	masculine/neuter
+105237	
+105239	
+105241	
+105249	neuter
+105251	
+masculine
+105254	
+
+105257	feminine
+
+
+
+105262	feminine
+105264	
+
+
+105269	neuter
+masculine
+105272	feminine
+105277	masculine/neuter
+105280	
+
+
+
+105285	
+neuter
+105290	feminine
+
+105295	
+
+105304	
+105306	feminine
+105308	
+
+105316	
+105319	
+105321	
+
+105327	
+105329	
+105331	feminine
+
+masculine/neuter
+105335	
+105337	feminine
+105339	
+
+feminine
+105345	feminine
+
+
+
+105351	
+105356	
+105358	feminine
+
+105361	
+105366	
+masculine/neuter
+
+105371	
+neuter
+105375	
+105377	
+
+105383	feminine
+105388	
+masculine/neuter
+105392	
+105397	
+
+105402	
+feminine
+105405	
+feminine
+105408	feminine
+masculine
+105412	
+feminine
+105415	neuter
+feminine
+105418	
+105421	neuter
+105428	
+
+neuter
+105433	
+105436	feminine
+105438	
+masculine
+neuter
+masculine
+
+105444	
+
+
+105448	
+105451	
+
+105456	
+feminine
+feminine
+feminine
+
+feminine
+105464	
+105466	
+
+105470	feminine
+
+masculine/neuter
+105475	
+105477	
+105481	
+
+
+105497	
+masculine/neuter
+
+masculine/neuter
+105505	
+105507	
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+
+
+105515	feminine
+105518	
+105520	masculine/neuter
+feminine
+105524	
+masculine/neuter
+
+
+masculine/neuter
+
+105535	
+105537	neuter
+masculine
+105541	feminine
+105544	
+105546	
+
+feminine
+
+105551	
+masculine
+105555	feminine
+105558	masculine/neuter
+
+105561	masculine
+105563	
+105568	neuter
+masculine
+105572	
+105580	
+105582	
+105584	
+105586	
+105589	
+105592	
+105594	
+105598	
+105600	
+105607	neuter
+105611	
+105613	masculine
+105615	masculine
+105617	feminine
+105619	
+feminine
+feminine
+105623	neuter
+masculine
+105629	
+105632	
+105635	
+105637	
+105640	neuter
+105644	neuter
+masculine
+105647	
+
+feminine
+105651	
+105653	
+105656	
+105668	
+105671	masculine
+105673	
+
+105683	
+
+masculine
+105687	
+105689	
+105693	masculine
+105695	feminine
+105701	masculine/neuter
+
+105704	feminine
+105708	feminine
+105710	
+feminine
+105713	
+105715	
+masculine/neuter
+
+masculine/neuter
+105722	masculine
+
+105726	masculine/neuter
+105732	masculine
+feminine
+
+105738	masculine
+feminine
+105741	
+105746	feminine
+masculine
+105750	
+feminine
+105753	masculine/neuter
+
+
+feminine
+
+105761	masculine/neuter
+masculine
+
+
+105766	
+
+masculine/feminine/neuter
+105770	
+105772	
+
+105776	
+masculine/neuter
+
+
+masculine
+105784	
+105787	
+
+masculine/neuter
+105792	feminine
+
+
+105796	
+105798	feminine
+105800	
+
+masculine/neuter
+105807	
+105809	neuter
+105811	
+105815	neuter
+masculine/neuter
+105821	feminine
+masculine
+masculine/feminine
+feminine
+feminine
+
+105831	
+105833	
+105835	feminine
+105837	masculine/neuter
+neuter
+masculine
+105841	
+
+105849	
+105851	
+
+masculine/neuter
+105855	
+
+neuter
+105860	
+105864	
+
+105869	feminine
+105873	
+
+
+
+105879	masculine/feminine
+feminine
+feminine
+105885	
+
+105892	
+105896	
+
+105900	feminine
+feminine
+105904	
+105907	feminine
+105912	
+
+105917	
+105919	feminine
+105921	feminine
+105926	
+105930	feminine
+masculine/neuter
+
+feminine
+105941	masculine
+105944	
+105946	
+105949	
+
+105957	
+105960	neuter
+feminine
+105963	
+105965	feminine
+feminine
+
+105970	feminine
+
+105973	
+105977	
+105982	
+feminine
+105989	
+105992	
+105995	
+105998	
+
+feminine
+106002	feminine
+106006	masculine/feminine/neuter
+106009	
+106014	
+feminine
+
+106019	
+
+
+106024	
+106027	
+106029	
+feminine
+106032	
+106035	
+
+106038	
+106041	masculine
+106044	feminine
+106049	neuter
+
+
+106053	neuter
+106059	
+masculine/neuter
+106062	
+106064	feminine
+
+106069	
+feminine
+106072	masculine/neuter
+106074	
+106076	
+masculine/neuter
+
+106082	
+106086	
+106089	masculine/neuter
+masculine
+masculine/neuter
+feminine
+106097	masculine/neuter
+106099	masculine
+masculine/neuter
+106102	masculine
+
+106108	
+masculine/neuter
+masculine
+106114	
+masculine
+masculine
+106119	
+masculine/feminine/neuter
+106122	
+106124	
+106126	
+106128	
+106130	
+106132	masculine/neuter
+106134	masculine/neuter
+masculine
+masculine/neuter
+masculine
+
+
+106142	
+106145	masculine/neuter
+106147	
+
+feminine
+106153	masculine/neuter
+106157	
+106162	masculine/neuter
+
+106165	masculine
+106168	feminine
+feminine
+106171	
+106176	
+neuter
+106179	
+
+masculine
+106183	
+106185	feminine
+masculine/neuter
+masculine
+106190	masculine
+
+106196	masculine/neuter
+feminine
+106201	
+106203	
+feminine
+
+106208	
+106211	
+106215	feminine
+
+106223	feminine
+106225	masculine/feminine
+106228	neuter
+106230	
+
+106233	feminine
+
+106236	masculine/neuter
+masculine
+106242	feminine
+
+masculine/neuter
+106249	
+
+feminine
+106253	
+feminine
+
+106258	feminine
+feminine
+106262	
+
+106266	
+feminine
+masculine/neuter
+106273	feminine
+masculine
+masculine/neuter
+
+
+106280	
+106283	feminine
+106286	
+feminine
+106291	
+
+
+106295	
+106298	
+106300	
+
+masculine
+106304	
+
+
+106317	
+masculine/neuter
+106321	
+106324	masculine
+106328	
+
+106331	
+106334	feminine
+106338	
+106344	masculine
+106346	masculine
+106348	
+
+106351	
+
+106354	
+106357	masculine
+106359	
+106362	masculine
+masculine/neuter
+106370	
+106375	
+106379	feminine
+106381	feminine
+masculine
+106385	
+106388	
+106391	
+106393	
+106397	
+106399	feminine
+106401	masculine/neuter
+106405	
+106407	masculine
+masculine/neuter
+
+106415	
+
+106420	
+
+
+
+106428	masculine
+
+
+106434	feminine
+106437	feminine
+
+
+106443	masculine
+106448	
+106452	
+106469	
+
+
+106473	
+106476	masculine
+106487	masculine
+106489	feminine
+106493	
+
+
+106497	
+106499	
+
+106502	masculine/neuter
+
+106511	masculine/neuter
+
+
+masculine
+masculine
+
+
+feminine
+106520	
+
+106524	feminine
+106526	
+
+106529	
+masculine/neuter
+
+106536	feminine
+feminine
+106541	feminine
+106543	masculine/neuter
+
+
+
+106550	
+106553	feminine
+
+106559	
+106563	masculine/neuter
+106569	masculine/neuter
+106575	
+
+
+106581	masculine/neuter
+106585	
+106588	
+106592	
+106600	
+
+106604	
+
+
+
+106611	
+masculine
+
+106615	masculine
+
+
+106621	
+106633	
+106636	
+106638	
+106640	neuter
+106646	
+106648	
+106654	feminine
+106656	feminine
+feminine
+106660	
+106662	feminine
+masculine
+106666	
+
+
+106671	
+masculine
+masculine
+106675	
+
+
+feminine
+106681	
+106684	feminine
+
+
+106689	
+
+106692	
+106699	
+106705	
+
+
+106709	
+106712	neuter
+106715	
+106723	neuter
+106726	
+
+106729	masculine
+neuter
+106732	
+masculine
+106739	feminine
+feminine
+
+
+masculine
+106745	masculine
+
+
+
+106757	
+
+106760	
+106763	
+106767	
+106769	
+106772	
+106774	
+106776	feminine
+106778	
+106782	neuter
+masculine
+
+
+106791	
+106795	neuter
+
+106805	
+106807	
+106811	
+106814	
+106816	
+
+106819	
+106824	
+106826	
+
+feminine
+masculine/neuter
+
+106832	
+106835	
+
+106839	
+
+106845	
+106850	masculine/neuter
+106855	
+106861	
+106863	
+106867	
+masculine/neuter
+masculine
+106872	
+
+106875	masculine
+masculine/feminine/neuter
+106878	feminine
+106880	masculine/neuter
+106883	
+106886	masculine
+feminine
+106889	masculine/neuter
+
+masculine
+106894	feminine
+feminine
+106898	feminine
+masculine/neuter
+masculine
+106904	
+
+
+
+106911	
+106913	
+106915	masculine
+106920	
+
+
+106924	feminine
+106927	
+106930	
+masculine/neuter
+
+106937	
+106939	
+neuter
+106944	masculine/feminine
+106948	masculine/neuter
+106956	
+106958	feminine
+106961	
+106963	feminine
+106968	
+106973	masculine
+106975	
+neuter
+106978	
+106984	
+106992	
+106995	
+107001	
+masculine
+107004	
+
+107008	
+masculine/neuter
+107016	
+
+
+feminine
+107021	masculine
+masculine/neuter
+
+
+107028	
+107030	
+107032	masculine/neuter
+107042	
+
+masculine/neuter
+feminine
+feminine
+107048	
+
+107053	
+107056	
+107058	masculine/feminine
+
+107061	
+107063	
+107065	
+107069	feminine
+masculine
+masculine
+107073	
+107077	
+masculine
+masculine
+107082	
+107087	
+107090	
+107092	
+107094	
+107097	
+107101	
+107109	
+107111	
+107114	
+107118	
+
+107122	
+
+107126	
+107128	
+107130	
+107133	feminine
+107135	masculine
+
+
+107143	neuter
+
+107146	feminine
+107148	
+107151	masculine/neuter
+masculine
+
+masculine/neuter
+107158	feminine
+neuter
+107165	masculine
+
+107169	
+107172	
+feminine
+107178	
+107180	feminine
+107182	masculine/neuter
+107185	
+107189	feminine
+
+107198	
+107202	
+107204	
+107206	
+
+
+
+
+107212	masculine/neuter
+107215	feminine
+107217	
+
+107220	
+
+107225	
+107233	masculine/neuter
+masculine
+107241	neuter
+107243	feminine
+107245	
+107251	
+107254	
+107258	
+107260	
+
+
+masculine
+masculine
+107267	
+107271	
+107273	
+
+107277	neuter
+107279	
+
+107282	
+107285	
+107290	
+107293	
+107298	
+107300	feminine
+107303	masculine/neuter
+107306	
+
+107312	
+107315	
+
+
+masculine/neuter
+107324	neuter
+107326	feminine
+107329	feminine
+
+
+107333	
+feminine
+masculine
+feminine
+107339	masculine/neuter
+107343	
+
+107346	
+
+107351	masculine
+107353	masculine
+107355	
+107360	masculine/neuter
+107362	
+107365	
+
+
+107370	
+107374	
+107376	feminine
+neuter
+107389	
+
+masculine/neuter
+107393	
+
+107397	
+107401	
+masculine/neuter
+
+
+107406	masculine
+107412	
+
+107422	masculine
+masculine
+107426	feminine
+107428	
+107431	
+
+masculine/neuter
+107436	
+
+107439	
+masculine/neuter
+107444	neuter
+masculine
+107448	
+107450	
+107453	
+107456	feminine
+107459	feminine
+107461	masculine/neuter
+107465	masculine
+107467	feminine
+
+
+
+feminine
+107473	neuter
+masculine
+
+107477	
+masculine/neuter
+107480	feminine
+107482	masculine/neuter
+
+masculine
+masculine
+107489	feminine
+107491	masculine/feminine
+feminine
+feminine
+feminine
+feminine
+feminine
+feminine
+feminine
+masculine/feminine
+feminine
+107502	
+107504	
+107506	
+107510	
+feminine
+107520	
+
+107523	
+107525	neuter
+107528	
+107531	masculine/neuter
+107534	
+masculine/neuter
+107537	
+
+
+107543	
+107552	
+107554	
+
+107559	
+107562	masculine/feminine
+107564	
+107567	
+107570	
+107573	
+107579	neuter
+107584	neuter
+107586	
+
+
+107591	masculine
+
+107596	feminine
+
+107602	
+
+
+
+107607	
+107610	feminine
+feminine
+107613	
+107615	
+107620	
+107623	
+
+107626	
+107632	
+107636	
+107638	
+
+107641	feminine
+
+
+107648	
+107650	masculine/neuter
+
+107653	neuter
+107655	
+107658	neuter
+107660	feminine
+107662	masculine/neuter
+107664	
+
+107668	
+
+neuter
+107674	
+feminine
+107677	masculine/neuter
+
+107681	
+
+
+
+masculine
+masculine
+
+107689	
+107691	feminine
+masculine/neuter
+feminine
+
+
+107700	feminine
+
+neuter
+107704	
+masculine
+masculine
+107708	feminine
+masculine
+107711	
+107714	feminine
+107716	masculine
+107720	masculine
+107725	
+107727	
+masculine/neuter
+masculine
+masculine/neuter
+107732	
+107734	masculine/neuter
+107737	masculine/neuter
+masculine
+feminine
+107741	
+107744	neuter
+107747	
+107751	neuter
+107753	
+masculine
+107756	
+107758	
+107760	
+107762	masculine/neuter
+107764	
+
+feminine
+
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+107774	masculine/neuter
+107779	masculine/neuter
+
+masculine
+masculine
+107785	
+107787	
+
+107792	feminine
+107797	
+
+107800	
+107803	
+
+107807	feminine
+
+107810	
+107812	
+feminine
+107816	
+107818	
+107826	
+
+107830	feminine
+107835	
+
+
+
+feminine
+107844	
+107846	
+masculine/neuter
+107852	masculine/neuter
+107854	
+masculine/neuter
+neuter
+107859	masculine/feminine
+107861	masculine/neuter
+
+
+107865	neuter
+107871	feminine
+107876	masculine/neuter
+107884	
+107886	
+
+
+107891	feminine
+107893	
+
+
+masculine/neuter
+
+feminine
+feminine
+
+107908	feminine
+
+
+
+
+feminine
+107915	
+107919	
+
+
+feminine
+107929	
+feminine
+
+107933	feminine
+
+107937	
+
+107940	masculine/feminine/neuter
+
+
+107945	
+feminine
+107949	
+
+
+107954	
+107956	feminine
+
+
+107960	
+
+
+107966	
+107970	neuter
+107973	masculine
+
+
+
+107981	
+
+107984	
+feminine
+neuter
+
+107989	
+107994	feminine
+feminine
+107997	feminine
+108006	
+feminine
+neuter
+108010	
+108012	
+108021	feminine
+neuter
+
+108025	
+108029	feminine
+108031	
+108034	feminine
+108041	feminine
+108043	feminine
+
+108048	
+
+108052	neuter
+108055	
+108058	
+
+feminine
+neuter
+
+108065	feminine
+
+108068	
+
+
+108072	
+108074	feminine
+108079	feminine
+
+108082	
+108084	feminine
+
+108091	
+
+108100	
+
+108105	
+feminine
+
+
+
+feminine
+108116	masculine
+
+
+108120	
+108122	feminine
+108125	
+108132	
+108134	
+108136	
+108138	
+
+feminine
+108145	
+108152	
+108156	masculine/neuter
+108158	
+feminine
+108163	
+masculine/neuter
+
+108170	
+108172	
+108175	feminine
+
+108181	
+108184	
+
+108189	
+feminine
+
+108194	
+
+108206	neuter
+108212	
+108215	neuter
+108217	
+108222	
+
+108226	
+108231	masculine
+
+
+feminine
+108237	
+108240	
+108242	neuter
+108246	neuter
+108248	
+
+108253	neuter
+108255	
+
+masculine
+
+108261	
+108263	
+108266	
+108269	
+
+
+feminine
+108275	feminine
+108279	
+108281	masculine/neuter
+108284	
+108293	
+108297	feminine
+
+feminine
+108301	
+
+108304	
+neuter
+108311	
+108313	
+108315	
+
+masculine/neuter
+
+108320	
+108322	masculine
+108330	
+108333	feminine
+108335	
+108337	
+108343	
+
+108347	
+108352	masculine/neuter
+108359	
+masculine
+108362	masculine/neuter
+
+108367	masculine
+108370	masculine
+
+108373	
+108377	
+108382	feminine
+108386	
+108388	
+108391	feminine
+108393	neuter
+108395	feminine
+108400	
+
+108406	
+feminine
+108409	
+
+108413	
+masculine
+
+
+108418	
+neuter
+108426	
+
+108432	feminine
+108437	
+
+108442	
+108444	
+108446	feminine
+
+108451	
+108453	
+
+masculine/neuter
+108458	
+
+108461	
+108465	feminine
+108470	
+
+
+108476	feminine
+108478	feminine
+
+108488	masculine/neuter
+
+feminine
+108494	masculine/feminine
+neuter
+feminine
+108498	
+108501	masculine/neuter
+masculine/feminine
+108506	
+masculine
+masculine/feminine
+108511	
+108513	
+
+
+108517	
+108524	
+108526	
+
+108530	
+108532	masculine
+108535	feminine
+108537	
+feminine
+108540	
+feminine
+
+
+neuter
+108546	
+108548	
+108550	feminine
+108552	feminine
+108558	
+masculine/neuter
+108561	feminine
+108564	
+108569	masculine
+feminine
+
+108573	
+108576	
+108580	
+108583	feminine
+108586	
+
+neuter
+108591	feminine
+108593	neuter
+108595	
+masculine
+108599	feminine
+108601	feminine
+
+
+
+108607	masculine
+108611	
+
+108614	
+108616	
+108618	
+masculine
+
+108622	
+108625	feminine
+108627	neuter
+
+108631	feminine
+
+feminine
+108645	
+108653	
+
+108660	
+108663	
+masculine
+feminine
+
+
+masculine/neuter
+neuter
+masculine
+108672	
+feminine
+
+
+108677	feminine
+
+
+108681	feminine
+108688	feminine
+108690	masculine/neuter
+108693	
+masculine
+
+
+
+108699	neuter
+masculine
+108702	feminine
+108704	masculine/neuter
+108711	
+
+108715	feminine
+feminine
+feminine
+108724	
+108733	feminine
+108735	feminine
+
+
+
+
+108744	
+
+108747	
+108751	
+108754	feminine
+neuter
+
+neuter
+108762	
+108764	masculine/neuter
+108766	
+
+108771	
+108776	
+108780	
+108782	masculine
+
+108787	
+108792	
+feminine
+108796	masculine
+108803	
+neuter
+108806	
+108808	masculine
+108811	
+
+
+
+108825	feminine
+108829	neuter
+108832	masculine/feminine
+
+108837	neuter
+masculine
+108840	
+108849	
+108856	feminine
+
+
+masculine/neuter
+108861	
+108863	
+masculine/neuter
+
+108869	
+108874	
+neuter
+108877	
+masculine/neuter
+108880	
+
+108883	
+
+108894	
+108898	
+108900	
+masculine/neuter
+
+
+108905	neuter
+108908	neuter
+
+
+108912	
+
+108915	neuter
+
+108918	masculine/neuter
+masculine
+108921	
+
+feminine
+108925	
+feminine
+108928	
+108930	masculine/neuter
+
+
+
+masculine/neuter
+masculine
+108937	
+108942	
+108945	feminine
+108947	
+108949	
+
+neuter
+108956	
+masculine/neuter
+masculine
+108961	
+feminine
+108964	masculine/neuter
+108967	
+masculine
+
+
+
+neuter
+108974	
+
+masculine/feminine/neuter
+108978	
+108980	
+108983	
+108985	
+108988	masculine
+108990	neuter
+
+108993	
+
+
+
+masculine/neuter
+109002	
+109004	masculine/neuter
+109010	
+masculine/neuter
+masculine
+
+neuter
+109024	masculine
+masculine/feminine
+109027	masculine
+109032	
+
+109035	
+109038	
+masculine
+
+109043	
+
+109046	
+109048	
+109051	feminine
+109054	masculine/neuter
+109056	neuter
+109058	
+masculine/feminine
+
+
+
+
+109066	
+masculine/neuter
+109073	
+109075	
+
+109078	
+
+109081	
+109084	
+109088	neuter
+109090	masculine/neuter
+109092	
+109097	
+
+feminine
+109103	feminine
+109106	neuter
+
+
+109110	neuter
+109118	
+masculine/neuter
+109121	
+109123	feminine
+
+109128	
+feminine
+109131	masculine/neuter
+109133	
+109135	
+masculine/neuter
+109139	
+neuter
+109146	
+masculine/neuter
+neuter
+
+
+feminine
+109154	feminine
+109156	neuter
+109161	neuter
+109163	masculine
+109165	
+109167	masculine
+neuter
+
+109171	feminine
+
+109175	masculine
+neuter
+masculine
+109179	masculine
+109182	masculine
+109184	
+
+
+109188	feminine
+
+
+109196	feminine
+109198	neuter
+
+masculine/neuter
+109202	masculine/neuter
+masculine
+109207	masculine/neuter
+
+109213	
+109216	
+109219	
+
+
+109224	
+
+109229	masculine/neuter
+109232	
+109236	
+
+109239	feminine
+feminine
+neuter
+109243	neuter
+109247	
+109249	
+109253	feminine
+109259	
+109264	
+feminine
+feminine
+109270	
+109272	feminine
+
+109282	
+109284	
+109288	
+109291	
+masculine/neuter
+109295	
+neuter
+109299	
+109302	
+109305	feminine
+feminine
+109309	masculine/neuter
+109316	
+feminine
+
+
+feminine
+109322	masculine/neuter
+masculine
+masculine
+109326	
+109328	
+109330	
+
+109335	masculine/neuter
+109341	masculine/neuter
+109344	masculine/neuter
+
+109350	
+
+109353	
+109359	
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+109365	
+
+109369	masculine/neuter
+109374	
+
+109377	
+masculine/neuter
+
+109381	masculine
+masculine/neuter
+109385	
+feminine
+
+109390	
+109392	
+feminine
+109395	
+109397	
+109402	
+109405	
+
+109408	feminine
+109411	feminine
+masculine/neuter
+109415	
+masculine/neuter
+109420	
+feminine
+109429	feminine
+109434	
+109436	feminine
+109438	
+109440	feminine
+109442	masculine/neuter
+109444	
+neuter
+109447	
+masculine/neuter
+109451	
+109453	feminine
+109455	feminine
+109457	
+109460	feminine
+109462	masculine/neuter
+feminine
+109466	masculine
+
+109472	feminine
+109478	masculine/neuter
+masculine/neuter
+109484	feminine
+109486	
+
+109490	masculine
+109495	
+
+109503	
+109506	
+109508	
+109511	feminine
+109515	feminine
+109518	
+109523	
+109527	masculine/neuter
+109530	feminine
+
+109534	
+
+109540	
+
+masculine/feminine/neuter
+109544	
+
+
+masculine/neuter
+
+109550	feminine
+109552	masculine
+
+
+
+109558	feminine
+109561	masculine/neuter
+109564	
+
+
+109568	
+
+109571	
+109575	
+
+109579	masculine
+109583	
+109586	
+
+
+109591	
+masculine/neuter
+109595	
+
+109601	
+109603	
+feminine
+109607	masculine/feminine
+109610	
+109612	
+109615	masculine/neuter
+109618	
+109620	
+neuter
+109623	
+masculine/neuter
+109626	
+109628	
+
+109631	masculine/neuter
+
+neuter
+109635	
+feminine
+109641	masculine/neuter
+
+109644	
+109648	masculine
+
+
+
+109654	feminine
+
+109658	masculine/feminine
+109660	
+109665	masculine/neuter
+109671	feminine
+109676	
+masculine/feminine
+masculine/neuter
+109680	
+feminine
+109683	masculine
+
+
+109689	neuter
+109691	
+masculine
+109694	masculine
+109697	
+109702	
+
+feminine
+109706	masculine/neuter
+
+109711	masculine
+feminine
+109714	masculine
+109717	
+109720	feminine
+
+
+
+
+109726	feminine
+
+109730	feminine
+109732	
+feminine
+feminine
+109739	
+
+109742	
+109747	masculine/neuter
+
+
+109754	
+109759	
+109763	
+
+109769	feminine
+109773	masculine
+
+
+109778	
+109781	
+masculine
+masculine
+
+feminine
+feminine
+109792	feminine
+109799	masculine
+109803	masculine
+109808	
+109810	feminine
+109813	
+109819	masculine
+109821	feminine
+109824	
+109827	
+109829	
+feminine
+109838	feminine
+
+
+109847	masculine/neuter
+109850	
+
+109853	
+109858	masculine/neuter
+109860	
+109862	
+109867	feminine
+109877	feminine
+neuter
+masculine
+109882	masculine/neuter
+109884	
+109886	
+109889	
+109894	
+masculine/neuter
+masculine/neuter
+masculine
+
+109900	
+
+109904	
+feminine
+
+masculine/neuter
+109909	feminine
+109916	
+feminine
+
+109920	
+109924	masculine/neuter
+109927	
+
+
+
+109932	
+masculine/neuter
+
+109936	
+feminine
+109939	
+109943	masculine/neuter
+109947	
+109953	
+
+
+109957	
+109960	
+109962	feminine
+109964	
+
+
+109973	
+feminine
+109976	masculine
+109978	masculine
+
+
+109985	masculine/neuter
+109987	
+
+feminine
+neuter
+109993	
+109995	feminine
+neuter
+109998	masculine/neuter
+110004	feminine
+110006	masculine/neuter
+110009	masculine/feminine
+110014	
+masculine/neuter
+110017	
+
+110020	masculine/neuter
+
+110024	feminine
+110029	feminine
+feminine
+110035	
+110037	
+110039	
+110041	feminine
+masculine/neuter
+feminine
+110045	masculine/neuter
+110047	
+110049	
+neuter
+110052	
+
+masculine/neuter
+masculine/feminine
+110059	
+
+110063	masculine/neuter
+110065	
+110068	
+110071	feminine
+110073	
+
+masculine/neuter
+110078	feminine
+
+masculine
+
+110084	masculine/neuter
+110088	
+feminine
+110093	masculine/neuter
+110096	neuter
+110100	masculine/neuter
+110102	neuter
+masculine
+masculine/neuter
+masculine
+
+110109	masculine/neuter
+110111	feminine
+feminine
+110114	neuter
+masculine
+
+110118	
+110120	
+
+110124	
+110129	
+feminine
+
+110133	
+masculine/neuter
+110136	
+110138	
+110141	
+
+110145	masculine/neuter
+
+110148	
+
+masculine/neuter
+masculine/neuter
+masculine
+110156	masculine/feminine/neuter
+
+110161	
+feminine
+110164	
+
+masculine/neuter
+masculine
+110172	masculine/neuter
+110174	
+
+feminine
+110180	
+110183	
+110185	
+110187	
+110192	
+feminine
+
+masculine/neuter
+masculine
+110200	feminine
+
+
+neuter
+110205	masculine/neuter
+110207	feminine
+110213	masculine/neuter
+110218	
+110221	
+110223	
+neuter
+
+110228	feminine
+110230	feminine
+110234	masculine
+110240	
+
+110245	
+110248	masculine
+110255	
+110261	feminine
+neuter
+110267	
+110270	neuter
+110274	
+
+110277	masculine
+110283	
+110286	
+feminine
+110294	
+110296	
+110301	
+
+110304	masculine
+110308	
+110310	
+110314	
+
+110317	feminine
+
+110320	feminine
+110329	feminine
+feminine
+110335	masculine/neuter
+110337	
+110340	
+110344	
+110348	
+110352	feminine
+110360	
+110363	masculine
+110365	masculine
+110369	
+110372	
+masculine
+110376	
+110379	neuter
+110383	feminine
+
+masculine
+
+110391	
+
+
+110395	masculine/neuter
+
+110398	masculine
+110400	masculine
+110402	
+110404	
+
+masculine/neuter
+110412	
+110414	neuter
+masculine
+
+110418	
+
+110422	
+110424	
+
+110427	
+110429	masculine
+
+
+masculine
+110434	masculine
+110437	masculine
+110439	masculine
+110441	feminine
+110445	
+110447	
+
+
+masculine/neuter
+
+110457	masculine/neuter
+110460	
+110462	
+110464	
+110469	masculine
+110472	
+110476	
+
+110481	
+
+
+neuter
+masculine/neuter
+
+110488	
+110493	
+
+110496	neuter
+110500	
+110503	feminine
+110506	
+110517	
+
+neuter
+110521	feminine
+neuter
+feminine
+
+110526	
+110530	
+110532	
+110534	
+feminine
+110539	
+
+neuter
+110545	
+masculine
+110548	
+110552	masculine
+110558	masculine
+110561	
+110564	feminine
+110571	
+110573	feminine
+110576	
+110579	feminine
+neuter
+110582	
+
+
+
+
+110588	feminine
+
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+
+110597	masculine/neuter
+110603	feminine
+110608	
+110611	
+110614	feminine
+110617	
+
+110620	feminine
+110625	
+
+110629	masculine/neuter
+
+masculine/neuter
+110634	feminine
+110639	
+
+feminine
+110643	masculine
+feminine
+
+
+110648	
+110650	feminine
+110652	
+110655	
+110658	
+110660	masculine
+
+110664	
+110669	
+110671	
+
+110676	
+
+110680	
+110683	
+110685	
+
+110688	
+110691	feminine
+
+
+masculine
+masculine
+
+feminine
+110701	
+110704	
+neuter
+110707	
+110709	masculine
+
+110715	
+110718	neuter
+110721	
+
+feminine
+110727	masculine/neuter
+110731	feminine
+neuter
+110737	
+110739	
+
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+110747	neuter
+masculine
+feminine
+110752	
+110754	
+110756	masculine/neuter
+
+110761	
+110765	feminine
+110767	masculine
+110774	
+110776	
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+110782	masculine/neuter
+110789	
+feminine
+
+
+feminine
+masculine/neuter
+110796	masculine/neuter
+masculine
+masculine
+110800	
+110802	
+110804	
+110807	masculine/neuter
+masculine
+masculine/neuter
+110811	
+
+
+110816	masculine/neuter
+110819	neuter
+110821	
+110823	feminine
+110825	masculine/neuter
+110828	feminine
+
+110833	masculine/neuter
+
+110838	feminine
+
+
+110842	
+110844	
+
+
+110850	masculine/neuter
+110853	
+110857	masculine/neuter
+110862	
+110865	feminine
+110867	
+
+
+110872	feminine
+110874	feminine
+
+
+110880	
+110882	masculine
+neuter
+
+110888	feminine
+110891	
+110896	masculine/neuter
+
+110899	feminine
+
+masculine/neuter
+masculine
+110904	
+110906	masculine
+110908	
+
+110913	
+110917	masculine
+110922	
+110924	
+masculine/neuter
+masculine/neuter
+masculine
+110930	
+110932	neuter
+110934	
+
+masculine/neuter
+110940	
+110943	
+110945	
+110947	
+110950	
+110953	
+110957	
+110960	masculine
+masculine/neuter
+110963	feminine
+
+110966	feminine
+110968	
+110971	
+110974	masculine/neuter
+110976	feminine
+
+110980	neuter
+110982	masculine/neuter
+110984	
+feminine
+110989	masculine
+110991	
+feminine
+110997	
+masculine/neuter
+masculine/neuter
+masculine
+
+
+111005	
+111007	
+111009	
+
+
+masculine/neuter
+111014	masculine/neuter
+masculine
+masculine/neuter
+
+111019	feminine
+111023	
+
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+111030	masculine/neuter
+111034	
+111039	feminine
+111041	
+111046	feminine
+111049	feminine
+
+111054	
+111056	masculine/neuter
+
+
+
+feminine
+neuter
+
+masculine/neuter
+111066	feminine
+
+
+111071	
+neuter
+111074	
+feminine
+
+masculine
+111080	neuter
+111084	neuter
+111088	neuter
+111093	neuter
+masculine
+masculine
+
+111100	
+111103	
+
+111108	
+111112	
+
+111117	feminine
+111119	
+
+111124	
+
+
+111130	
+
+
+111137	
+111142	neuter
+
+111145	feminine
+111147	
+feminine
+111152	neuter
+111155	neuter
+masculine
+masculine
+
+
+111161	
+111163	
+111165	
+111167	
+111169	
+
+
+111173	feminine
+
+111177	
+masculine
+
+
+feminine
+111183	
+111188	
+
+
+111197	
+111199	feminine
+111202	
+111207	feminine
+111211	neuter
+111214	
+
+111217	
+111219	
+neuter
+111222	
+111224	masculine
+111228	feminine
+
+111235	
+111237	
+
+111241	masculine/neuter
+111245	masculine/neuter
+
+111248	feminine
+neuter
+111253	
+111255	
+111259	feminine
+feminine
+
+111265	feminine
+feminine
+
+111269	masculine/neuter
+
+
+
+
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+masculine
+111281	
+111283	
+111286	
+111289	feminine
+
+111294	masculine/neuter
+111297	neuter
+masculine
+masculine/neuter
+masculine
+masculine
+111303	neuter
+111305	neuter
+111307	masculine/neuter
+neuter
+
+feminine
+111317	
+
+111320	
+masculine/neuter
+111323	
+111325	
+
+111334	
+111337	masculine/neuter
+111339	neuter
+111341	
+masculine/neuter
+
+111349	feminine
+111357	feminine
+111362	feminine
+111367	neuter
+masculine
+111370	
+feminine
+111373	
+111375	
+111379	
+masculine/neuter
+111382	feminine
+
+feminine
+
+111387	
+111390	neuter
+111392	masculine
+
+masculine/neuter
+111396	
+
+111399	
+
+
+111403	
+111406	
+masculine/neuter
+
+111410	
+111412	
+111414	
+masculine/neuter
+masculine
+masculine/neuter
+111419	feminine
+111427	
+111433	masculine/neuter
+111436	
+
+
+111440	feminine
+
+111444	
+
+
+
+111450	neuter
+111453	
+111459	feminine
+111464	
+masculine/feminine
+masculine/neuter
+111468	
+111471	
+111476	
+
+
+111481	feminine
+111484	
+111487	feminine
+111490	
+
+
+111499	
+111503	
+
+111508	
+111513	
+111515	
+
+masculine/neuter
+masculine
+masculine
+111525	feminine
+111527	
+111532	
+111534	
+111539	
+111541	masculine/neuter
+feminine
+111546	
+111551	
+111554	
+111556	
+
+
+
+111563	neuter
+masculine
+111566	
+111568	
+111571	feminine
+111573	
+111576	neuter
+masculine
+111580	masculine/neuter
+neuter
+111584	
+111590	
+
+
+111594	
+feminine
+111597	
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+111604	masculine/neuter
+111607	masculine/neuter
+masculine
+111610	
+
+111613	masculine/neuter
+111615	masculine/neuter
+masculine
+111619	masculine/neuter
+111623	
+feminine
+111626	masculine
+
+111629	
+111632	masculine/neuter
+masculine
+
+masculine/feminine/neuter
+masculine/neuter
+111639	masculine
+
+
+111644	
+feminine
+111648	
+111658	
+111661	
+111663	
+111665	
+feminine
+111673	
+111676	
+111679	
+111684	
+111686	
+
+111695	feminine
+
+111699	masculine
+
+
+111703	
+111705	neuter
+111707	neuter
+111711	
+111714	
+111719	
+111726	
+111728	
+111737	
+111739	
+111746	
+111748	masculine
+111750	
+
+111753	
+111757	
+
+
+111762	masculine
+masculine
+
+masculine/neuter
+masculine/neuter
+
+masculine
+111770	
+111772	
+
+111776	neuter
+111779	feminine
+111782	
+
+
+111787	
+
+111791	feminine
+111793	
+masculine/neuter
+masculine/neuter
+111799	
+111801	
+masculine
+masculine
+111805	neuter
+111809	masculine
+111811	
+masculine
+masculine
+111815	
+111819	
+111821	masculine
+111824	
+feminine
+111827	
+111829	
+
+masculine/neuter
+111833	masculine
+masculine
+111839	
+111845	
+
+neuter
+
+111850	feminine
+111856	
+
+111859	
+
+111865	feminine
+111870	masculine
+111873	
+111875	feminine
+111877	masculine
+111880	
+
+111884	feminine
+111886	
+111889	
+
+111892	
+111905	
+111911	
+111913	masculine
+111916	
+111918	
+111924	feminine
+111928	
+
+neuter
+111934	
+neuter
+
+
+
+
+111943	masculine
+111946	masculine
+
+111949	masculine/neuter
+
+111953	feminine
+111957	
+111959	feminine
+111967	
+111971	masculine
+masculine
+neuter
+111980	masculine
+
+
+
+111990	feminine
+
+111996	
+feminine
+111999	feminine
+112004	
+
+112009	
+112012	
+112017	
+112019	neuter
+112021	feminine
+112027	
+112031	
+112033	
+112035	
+112044	neuter
+112046	
+112049	
+
+
+112057	
+112062	
+112066	masculine
+112069	masculine
+112074	feminine
+112077	feminine
+
+feminine
+
+112083	feminine
+112086	neuter
+112088	
+feminine
+112091	
+112097	neuter
+112099	
+112101	
+112103	masculine
+112105	
+
+112109	neuter
+112114	
+112117	
+112124	
+neuter
+112128	
+
+
+masculine
+masculine
+112135	
+
+112140	
+112143	
+
+
+112149	
+feminine
+
+
+112158	
+112161	
+
+
+112167	feminine
+112174	
+112179	
+
+112183	
+112191	
+112197	
+112199	feminine
+112204	masculine
+112206	
+112215	feminine
+
+112218	
+112223	neuter
+masculine
+112228	feminine
+112230	masculine
+112232	masculine
+masculine
+112236	neuter
+
+112241	
+feminine
+112244	
+masculine
+masculine
+112248	masculine
+
+112253	masculine
+112255	neuter
+112257	
+112260	
+
+
+112264	
+112268	
+
+112275	feminine
+112286	
+112289	
+112294	
+112297	
+112300	
+
+112306	
+
+
+
+
+112312	
+112320	masculine/feminine/neuter
+
+feminine
+masculine
+112326	masculine
+
+112332	feminine
+neuter
+112335	
+
+112341	neuter
+112345	feminine
+
+neuter
+112349	
+masculine
+112353	
+112359	feminine
+
+
+112369	
+112371	masculine/neuter
+masculine
+112375	
+112380	feminine
+112382	
+112386	
+112390	
+112393	neuter
+112396	feminine
+112399	neuter
+112404	feminine
+112408	neuter
+112420	neuter
+112424	masculine
+112426	
+112429	
+112431	
+
+112435	
+
+112443	masculine/neuter
+
+112449	masculine/neuter
+112452	
+
+112457	masculine/neuter
+
+112460	
+
+
+
+
+feminine
+
+112468	feminine
+112472	feminine
+112474	feminine
+112478	
+
+
+masculine
+112485	masculine
+feminine
+112491	masculine
+
+112495	
+
+112500	masculine/neuter
+feminine
+112503	neuter
+112507	neuter
+112515	masculine
+112517	neuter
+
+112522	masculine/neuter
+112526	
+
+
+112530	masculine
+
+112534	
+112536	feminine
+
+112539	
+
+112542	feminine
+
+112546	feminine
+
+112550	feminine
+112552	
+
+
+112556	masculine
+112558	
+112562	masculine
+112570	masculine
+
+
+feminine
+112576	feminine
+112579	
+112581	masculine
+112583	
+112591	feminine
+feminine
+112595	
+
+112599	
+112602	neuter
+
+112607	feminine
+112610	feminine
+112612	
+112618	
+masculine
+feminine
+
+112624	masculine
+112630	
+112632	masculine
+112634	
+112636	
+112638	
+masculine/feminine/neuter
+112641	
+
+112645	
+112650	feminine
+112652	feminine
+
+112657	
+masculine/neuter
+112663	
+112665	feminine
+112668	feminine
+112671	feminine
+112679	feminine
+
+112684	
+112686	feminine
+112688	masculine
+112691	feminine
+112695	feminine
+
+112698	
+112701	feminine
+
+112704	
+
+
+
+masculine
+
+112711	feminine
+
+feminine
+112719	feminine
+
+112724	feminine
+
+masculine
+masculine
+112730	
+
+112734	masculine
+112736	
+112740	
+112742	feminine
+neuter
+112745	masculine
+112747	
+112749	masculine
+neuter
+112752	
+
+
+
+112761	
+112765	
+masculine
+masculine
+112770	masculine
+112772	masculine
+112775	masculine
+112780	masculine
+
+
+112784	masculine/neuter
+masculine
+112788	masculine
+masculine
+112796	masculine
+
+112802	
+112804	
+112807	neuter
+112809	
+112811	
+
+112815	
+feminine
+112821	
+masculine/neuter
+112824	masculine
+112826	feminine
+112828	
+
+feminine
+
+112833	
+112836	masculine/neuter
+112839	feminine
+112841	feminine
+feminine
+112845	feminine
+masculine
+112852	
+112854	masculine
+
+112860	
+
+112867	
+
+112870	feminine
+neuter
+112873	masculine
+112875	
+112879	
+
+112882	
+
+112886	
+
+
+112891	masculine
+112898	
+
+112901	
+112906	
+112908	
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+112920	masculine
+
+masculine
+112924	
+112927	
+112934	feminine
+112939	masculine
+112943	feminine
+112953	feminine
+112960	
+112963	
+
+112975	masculine
+112980	
+112985	
+112993	feminine
+
+113002	neuter
+113004	feminine
+113007	
+113015	neuter
+
+113020	
+113022	
+113030	
+113033	
+113035	neuter
+113043	
+113049	feminine
+113051	masculine
+113053	masculine
+
+masculine
+
+
+
+113060	feminine
+neuter
+113063	masculine/neuter
+masculine
+
+113068	masculine/feminine/neuter
+113071	feminine
+113073	
+masculine
+113079	
+113081	
+
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+113088	
+
+
+neuter
+113096	neuter
+113101	masculine
+113104	neuter
+113106	
+113115	
+113117	masculine
+113119	
+113122	masculine
+feminine
+113126	
+
+113130	
+113136	
+113140	
+
+113143	masculine/feminine
+neuter
+113146	
+113150	
+113152	masculine
+113159	neuter
+
+113162	
+113168	
+113172	neuter
+113175	
+113183	
+113189	
+113192	masculine/neuter
+113195	masculine/neuter
+masculine
+feminine
+113199	
+113204	
+masculine
+masculine
+113211	masculine
+
+113214	
+113217	masculine/neuter
+masculine
+
+masculine/neuter
+masculine/neuter
+
+
+
+
+113229	masculine
+
+113232	feminine
+
+113235	
+113238	
+113240	
+113246	feminine
+113248	masculine
+113251	masculine/neuter
+113253	masculine
+113260	
+masculine
+113266	masculine
+
+113270	masculine/neuter
+113274	feminine
+masculine/neuter
+113279	
+113281	
+masculine
+113285	feminine
+113287	masculine
+113291	
+
+113295	
+masculine
+feminine
+113301	masculine
+113306	masculine/feminine
+neuter
+113310	
+
+113314	
+113317	masculine
+113321	masculine
+
+masculine/neuter
+masculine/neuter
+113328	neuter
+
+
+neuter
+
+113334	
+113336	
+
+113339	feminine
+113342	feminine
+
+113345	
+feminine
+113348	masculine/neuter
+
+
+masculine
+113354	
+113357	masculine/feminine
+
+masculine
+masculine
+113362	masculine
+feminine
+113367	feminine
+113369	
+
+113372	masculine/neuter
+masculine/neuter
+masculine
+113381	
+113384	feminine
+
+113387	
+113398	feminine
+113404	
+
+113411	
+113417	
+
+113421	feminine
+
+113425	masculine
+113428	
+113430	
+feminine
+113433	
+113435	
+masculine
+masculine
+113439	feminine
+113441	neuter
+feminine
+113445	
+113447	
+masculine/feminine
+
+113451	
+
+113455	masculine
+
+113458	feminine
+113463	masculine
+113465	masculine
+neuter
+masculine
+
+113471	
+113481	
+113483	
+113489	
+113492	neuter
+masculine
+113495	masculine
+neuter
+masculine/neuter
+
+113501	feminine
+113503	feminine
+
+113506	
+113514	
+
+113519	
+masculine
+masculine
+113523	feminine
+113526	
+feminine
+113529	masculine
+113531	
+neuter
+113535	
+113539	
+neuter
+
+113544	masculine/neuter
+masculine
+113550	
+
+113554	
+113556	
+neuter
+113560	
+113564	neuter
+113567	
+113571	
+masculine
+113574	
+113576	
+113578	
+
+113581	masculine
+neuter
+masculine
+113585	
+113589	masculine
+113592	feminine
+113596	
+113598	masculine
+113600	
+113602	masculine/feminine/neuter
+
+feminine
+
+113607	
+neuter
+113610	
+
+113614	feminine
+113616	neuter
+
+feminine
+113620	
+113627	
+masculine
+masculine
+113631	
+113634	neuter
+113636	
+113640	
+
+113645	
+
+113648	
+feminine
+
+
+113654	
+113659	masculine
+113663	masculine
+
+
+113670	masculine
+113672	
+113675	neuter
+neuter
+113678	
+
+
+113687	feminine
+113690	
+113692	
+113694	neuter
+113696	
+113699	neuter
+113701	feminine
+
+113705	
+113714	feminine
+113716	masculine
+masculine/neuter
+
+113723	masculine
+113725	neuter
+113729	
+
+
+
+113737	masculine
+113740	
+113746	neuter
+113750	masculine/neuter
+
+113758	feminine
+113761	feminine
+
+113764	feminine
+113766	feminine
+113768	feminine
+113770	
+
+feminine
+113774	
+feminine
+neuter
+113785	
+
+113789	
+
+
+neuter
+masculine
+113799	
+113805	
+113809	feminine
+113811	masculine
+113814	
+113817	feminine
+113820	
+
+113823	
+
+
+neuter
+113828	masculine/neuter
+113830	
+113832	
+neuter
+113839	
+113845	
+feminine
+113848	neuter
+113850	
+
+113853	feminine
+113858	
+
+113863	
+
+113866	
+feminine
+113871	
+
+
+113876	
+113880	masculine
+feminine
+113887	
+
+113890	
+113893	
+
+
+113898	
+113902	
+113905	
+113918	
+masculine
+113921	
+113927	feminine
+113929	feminine
+
+
+113936	
+113938	feminine
+113940	feminine
+113952	
+113954	feminine
+feminine
+113958	masculine
+113965	
+113967	neuter
+feminine
+113970	feminine
+feminine
+113975	
+113977	feminine
+feminine
+113989	feminine
+113991	feminine
+113995	
+113997	
+114002	feminine
+114005	
+feminine
+
+114009	
+114018	
+neuter
+masculine
+114024	masculine
+114028	
+masculine
+masculine
+114034	feminine
+114037	
+114040	masculine/feminine
+114047	
+114053	neuter
+masculine
+114057	
+114059	
+feminine
+114062	
+feminine
+feminine
+masculine
+
+
+114069	feminine
+114072	
+masculine
+masculine
+feminine
+neuter
+114085	
+114089	
+114094	neuter
+
+
+114099	neuter
+masculine
+114104	masculine
+
+
+114108	masculine/neuter
+masculine
+
+114115	
+114118	
+
+114122	feminine
+
+neuter
+114130	neuter
+neuter
+neuter
+
+
+114141	
+114147	
+
+114150	
+
+114153	
+114162	feminine
+114165	
+114170	
+114174	
+114176	neuter
+masculine
+neuter
+114181	
+masculine/neuter
+neuter
+114186	
+114189	neuter
+114194	
+114196	neuter
+114208	neuter
+114213	
+114215	neuter
+masculine/feminine
+
+114220	feminine
+neuter
+114227	
+
+114230	masculine/neuter
+114234	
+
+neuter
+114245	
+114251	
+114254	
+114257	
+114259	feminine
+114263	
+114266	
+114268	neuter
+114273	
+
+neuter
+114278	
+neuter
+114284	
+114286	neuter
+114291	feminine
+114297	neuter
+masculine
+feminine
+114301	feminine
+114303	
+114305	neuter
+masculine
+
+feminine
+114310	
+114315	neuter
+114317	
+114320	
+
+114323	feminine
+114329	
+114336	neuter
+114338	masculine
+114340	
+114346	
+114352	neuter
+feminine
+114356	
+114362	neuter
+masculine
+114369	
+
+114372	feminine
+
+114377	feminine
+
+
+114384	feminine
+114388	masculine
+114395	
+114397	neuter
+114400	
+114402	masculine
+neuter
+114408	masculine
+114413	masculine
+114417	masculine
+114420	neuter
+masculine
+114423	
+114425	masculine/neuter
+feminine
+114429	masculine/neuter
+114432	
+114435	masculine
+masculine/neuter
+
+114439	masculine
+
+114443	feminine
+114453	neuter
+masculine/feminine
+114457	masculine
+feminine
+114461	
+
+114465	
+
+114472	
+
+114475	masculine/neuter
+
+114480	
+
+114485	
+114487	
+114490	masculine/neuter
+masculine
+
+114494	masculine/neuter
+114496	feminine
+114498	masculine
+
+masculine
+114502	feminine
+114504	
+114507	
+114510	
+114512	masculine
+114514	
+114522	
+feminine
+114525	
+114528	
+114530	
+114533	neuter
+
+114536	
+
+114540	neuter
+114548	neuter
+
+114553	neuter
+neuter
+neuter
+114557	
+
+114561	neuter
+
+114567	
+
+114575	masculine
+114577	
+114583	
+114585	masculine
+114588	masculine
+114590	
+114597	feminine
+114599	
+114601	feminine
+feminine
+
+114605	
+feminine
+neuter
+feminine
+114613	feminine
+114616	feminine
+feminine
+neuter
+114621	masculine/feminine
+114624	feminine
+masculine
+114627	masculine
+114630	
+114632	feminine
+114642	feminine
+neuter
+feminine
+114654	
+114656	feminine
+114658	neuter
+114661	feminine
+114663	masculine
+114673	
+114676	neuter
+masculine
+114682	
+feminine
+114691	
+114695	feminine
+114697	
+114699	
+114702	
+114715	feminine
+114723	feminine
+114725	
+masculine/neuter
+114729	neuter
+114731	
+
+114735	masculine
+114737	
+114740	neuter
+neuter
+114744	feminine
+114746	
+114752	neuter
+114755	neuter
+
+
+
+114760	
+
+114763	masculine/neuter
+masculine
+
+
+114769	
+114774	masculine
+114777	
+feminine
+114781	
+114786	
+114788	masculine/neuter
+
+114791	
+114793	
+114795	feminine
+114797	
+
+114803	feminine
+114811	
+114814	masculine
+114818	
+
+114824	feminine
+114827	
+114829	
+
+114832	
+114835	masculine/neuter
+masculine/neuter
+masculine
+114842	masculine/neuter
+114845	feminine
+114850	
+114854	
+feminine
+114858	
+114860	
+114862	masculine
+114865	
+114867	masculine/neuter
+114872	
+114876	neuter
+masculine
+114885	
+feminine
+114891	feminine
+114894	
+114898	
+114901	
+114904	
+
+114913	
+114915	feminine
+114918	feminine
+neuter
+
+
+114923	masculine/neuter
+
+114926	
+114929	
+114931	feminine
+114934	
+
+114937	
+masculine
+
+feminine
+feminine
+
+114948	
+
+114951	feminine
+114953	feminine
+masculine
+masculine/neuter
+
+114958	masculine/neuter
+114962	
+114964	
+114971	neuter
+114977	masculine
+
+114981	feminine
+114984	masculine
+114986	
+114989	feminine
+114991	feminine
+114994	feminine
+114996	
+115002	
+115004	
+
+115007	
+115009	
+115017	
+115019	
+115021	neuter
+115028	
+115031	masculine
+
+neuter
+neuter
+115038	
+115043	
+masculine/feminine
+115048	neuter
+115050	neuter
+115054	
+115058	masculine
+115060	feminine
+115063	
+115065	feminine
+115069	neuter
+115072	masculine
+masculine
+115075	
+115080	feminine
+
+feminine
+
+115087	masculine/neuter
+115090	masculine/neuter
+masculine
+115094	neuter
+115097	
+115101	masculine/neuter
+115108	
+115110	masculine/neuter
+115115	masculine/neuter
+
+115118	
+115120	
+115122	
+115124	masculine/neuter
+115126	masculine/neuter
+masculine
+masculine/neuter
+masculine
+
+
+115135	masculine/neuter
+115141	feminine
+masculine/neuter
+115144	
+115149	
+115152	masculine
+115155	
+115160	feminine
+115164	masculine/neuter
+masculine/feminine
+feminine
+
+feminine
+115170	
+
+
+masculine/feminine
+
+masculine
+115184	
+masculine/neuter
+
+feminine
+115190	masculine/feminine/neuter
+115192	feminine
+
+115197	
+masculine
+115200	
+115202	masculine
+115204	
+feminine
+115207	
+115209	
+115212	
+115219	masculine/neuter
+masculine
+
+masculine
+115224	
+
+
+115229	
+115231	
+115234	
+masculine
+115240	masculine
+115242	
+115245	
+masculine
+115250	feminine
+feminine
+115261	
+115263	
+
+115266	
+
+115272	masculine
+115276	
+115279	
+
+115284	masculine/neuter
+115286	
+
+masculine
+
+115291	feminine
+115295	
+115297	neuter
+115301	
+neuter
+
+115305	neuter
+115307	
+115309	
+115313	masculine
+115315	
+115318	
+masculine/neuter
+
+115323	
+115327	
+115329	
+115333	masculine
+
+
+115337	
+
+115343	
+115346	
+115349	
+masculine
+
+115353	neuter
+115355	
+
+115359	masculine/neuter
+115361	
+masculine/neuter
+neuter
+115365	feminine
+115367	
+masculine
+115372	masculine/neuter
+115374	masculine
+115376	
+115379	feminine
+
+
+feminine
+115387	feminine
+115390	
+feminine
+115394	masculine/neuter
+115396	
+115398	masculine
+115400	neuter
+115403	
+masculine
+masculine
+115409	feminine
+masculine
+
+115413	
+115415	
+masculine/neuter
+masculine
+masculine/neuter
+115420	
+115422	masculine/neuter
+115426	
+neuter
+115432	
+115436	
+115438	feminine
+115441	masculine/feminine
+
+115449	
+115451	
+115458	
+115463	
+115466	feminine
+neuter
+
+115472	
+115475	neuter
+115478	
+feminine
+115482	
+115485	
+115488	masculine
+115490	
+115493	
+115497	
+
+115500	masculine
+115503	
+115508	masculine
+115512	
+115514	
+115520	
+115527	masculine/feminine
+
+115531	
+feminine
+
+115537	
+115543	
+neuter
+masculine
+115548	
+115553	
+115560	neuter
+115562	masculine/neuter
+neuter
+115565	
+115568	
+115571	feminine
+115577	feminine
+
+115584	feminine
+115587	masculine
+neuter
+115590	neuter
+115592	masculine/neuter
+neuter
+115595	neuter
+115598	masculine/neuter
+115603	masculine
+115610	masculine
+masculine/neuter
+
+masculine
+
+115616	
+115622	
+115628	
+115630	
+115636	neuter
+115638	
+115640	feminine
+masculine
+masculine/neuter
+115644	masculine/neuter
+115646	masculine/feminine
+115649	masculine
+
+
+115654	neuter
+115656	feminine
+
+
+115661	masculine/neuter
+115664	masculine
+masculine/neuter
+115668	
+feminine
+115671	
+
+feminine
+feminine
+115679	neuter
+115681	
+115684	feminine
+115688	
+115690	
+115692	neuter
+115694	masculine
+115700	feminine
+115703	
+115705	
+115707	
+115709	
+115714	
+115717	feminine
+
+masculine/neuter
+115723	
+feminine
+115726	masculine/neuter
+
+
+
+115734	
+115740	
+115742	
+
+115747	
+115759	masculine
+115763	
+
+
+
+115768	
+
+masculine
+115778	
+115780	
+115783	neuter
+
+
+115787	masculine
+
+
+
+115792	
+115794	feminine
+neuter
+115797	
+115803	
+115805	feminine
+neuter
+feminine
+115817	feminine
+115820	
+
+
+115824	
+115828	
+115832	
+115838	feminine
+neuter
+115842	
+feminine
+neuter
+115846	
+
+
+115854	feminine
+feminine
+115857	
+115863	masculine
+115865	
+115870	feminine
+115872	
+115876	masculine
+
+115880	masculine/neuter
+115884	
+115886	feminine
+
+masculine
+115892	
+115898	
+115901	feminine
+feminine
+feminine
+115906	neuter
+115908	neuter
+115910	feminine
+feminine
+
+115918	
+115921	masculine
+115923	feminine
+
+
+
+115931	
+
+115938	
+115942	
+feminine
+115945	
+115948	
+feminine
+115953	masculine
+115955	
+115961	
+neuter
+115968	feminine
+115971	
+feminine
+115975	masculine
+
+115981	
+115983	
+115986	
+115989	masculine
+115992	
+115999	
+116006	masculine/neuter
+116008	masculine
+neuter
+
+116013	
+116015	masculine
+
+
+
+116020	
+116024	
+neuter
+116030	neuter
+
+
+
+
+neuter
+
+116040	neuter
+116044	neuter
+116046	neuter
+
+116050	masculine
+116053	
+
+
+116057	
+
+116060	
+masculine
+116064	masculine
+116066	
+116071	
+
+neuter
+116076	neuter
+116084	
+116087	
+116090	
+116094	masculine
+116096	neuter
+116098	
+
+116102	
+116104	
+masculine/neuter
+
+
+
+116110	
+116112	feminine
+
+116115	
+116117	
+masculine/neuter
+
+masculine
+116122	masculine/neuter
+
+116127	feminine
+116131	masculine
+116138	
+116140	
+116142	
+116148	
+116150	
+116152	
+116154	
+116156	
+116158	
+116162	
+116165	
+116167	
+116169	masculine/neuter
+neuter
+feminine
+
+
+
+116177	
+116179	
+
+116184	feminine
+116186	
+116194	
+masculine/neuter
+
+116201	
+masculine/neuter
+116206	
+116209	
+116212	
+
+
+
+116217	neuter
+116219	
+
+116222	masculine
+
+116225	
+masculine/neuter
+
+
+
+116231	
+116238	masculine
+116240	
+116242	feminine
+masculine
+
+116248	masculine
+116253	feminine
+feminine
+
+
+116258	
+
+116264	
+116267	
+
+116274	
+116279	
+116283	
+116287	
+116290	
+
+116293	
+masculine/neuter
+116304	
+neuter
+116313	feminine
+116318	
+116321	masculine
+116324	
+
+116327	
+116329	
+116331	
+116333	
+116341	masculine
+
+116344	
+116351	feminine
+
+neuter
+116355	
+116357	feminine
+116359	
+116364	
+116366	
+116369	
+116371	
+116375	neuter
+116380	
+116383	masculine
+116391	masculine/feminine
+116393	feminine
+116395	
+116397	masculine
+116402	
+116404	neuter
+116406	
+
+116410	
+116412	
+masculine/neuter
+
+116417	masculine
+
+116420	
+116422	
+116426	feminine
+neuter
+116430	
+116432	
+
+neuter
+116437	
+116440	
+116443	
+116447	
+116451	feminine
+neuter
+116457	
+116463	
+
+116471	neuter
+116473	neuter
+116475	
+
+116478	masculine/feminine
+116482	feminine
+116489	
+116500	masculine
+
+116506	masculine/feminine
+masculine
+
+neuter
+116511	feminine
+116513	feminine
+116516	
+116519	masculine/feminine
+neuter
+116528	
+116532	
+
+116543	
+116546	masculine/neuter
+masculine
+116549	
+neuter
+116559	
+116565	masculine
+116567	
+116569	
+116574	
+
+116580	
+feminine
+116584	masculine
+116586	
+116590	feminine
+116592	neuter
+116599	neuter
+116607	
+116610	
+116618	neuter
+116625	
+
+116629	
+
+116636	neuter
+masculine
+116644	neuter
+116650	
+116655	masculine
+116658	
+116660	
+116662	
+
+116666	
+116671	
+116676	
+
+116687	
+116692	masculine
+116698	feminine
+116720	
+
+
+
+116728	
+116730	masculine/feminine
+neuter
+116735	
+neuter
+116746	feminine
+116751	
+
+116754	feminine
+masculine/feminine
+feminine
+116761	feminine
+
+
+116771	masculine
+116774	neuter
+
+116777	feminine
+
+116783	masculine
+116786	feminine
+neuter
+masculine
+116790	feminine
+116793	feminine
+116795	feminine
+116799	masculine
+116802	
+116808	
+masculine/neuter
+116819	
+116821	masculine
+116826	masculine
+116831	masculine
+116833	feminine
+116841	
+neuter
+116861	masculine
+116863	
+116870	masculine
+116873	
+
+116879	
+
+116885	feminine
+116892	
+116905	
+
+116914	masculine
+116919	
+116924	masculine/neuter
+116926	feminine
+116929	feminine
+116931	
+116938	neuter
+116941	
+116943	masculine/neuter
+116946	
+116949	
+116952	
+masculine
+116957	masculine
+
+116961	masculine/neuter
+116977	feminine
+116980	feminine
+116987	
+116991	neuter
+116993	neuter
+116998	
+117002	masculine
+
+masculine
+117006	
+masculine
+117010	
+masculine
+117018	feminine
+117020	
+
+117028	feminine
+
+
+neuter
+117033	
+117035	
+117037	neuter
+117039	
+117041	
+117047	masculine
+
+117052	feminine
+117056	
+117060	masculine
+117063	
+masculine
+117066	
+117071	
+117075	
+neuter
+117082	
+117085	
+117090	masculine/neuter
+117092	masculine
+
+117097	
+117099	
+117104	neuter
+117108	
+
+
+
+117113	neuter
+
+117119	masculine
+117121	feminine
+117123	
+117127	
+117132	masculine
+117145	
+117150	
+feminine
+117155	
+117158	
+117160	
+
+
+
+
+117167	
+117172	
+117178	neuter
+117181	masculine
+117185	
+117195	
+117202	feminine
+117209	neuter
+117213	
+feminine
+
+117230	
+117236	feminine
+117238	feminine
+117243	
+
+117246	
+117253	neuter
+feminine
+117259	
+117261	feminine
+
+117264	
+
+117269	
+117273	feminine
+117277	
+neuter
+117286	neuter
+
+117293	feminine
+117296	
+117300	
+117305	
+
+117314	
+117318	
+117322	
+
+117327	
+
+masculine
+
+neuter
+masculine
+masculine/neuter
+
+117338	masculine/feminine
+117340	masculine
+117342	feminine
+
+117347	
+
+117352	
+
+117357	
+117359	masculine
+117361	
+
+
+117369	
+117371	
+
+117375	
+117384	masculine
+feminine
+117390	
+117394	neuter
+117396	
+117403	
+
+feminine
+117411	masculine
+117416	
+117419	neuter
+117423	feminine
+
+masculine/neuter
+117429	masculine
+117432	
+117434	
+
+117438	
+117443	
+117445	masculine
+feminine
+masculine
+117450	
+117453	feminine
+117458	neuter
+117460	feminine
+117464	
+117468	
+117474	
+117477	masculine
+117481	
+
+
+117485	neuter
+
+117490	feminine
+117493	masculine/feminine
+117496	
+117507	
+117511	
+117513	feminine
+117516	masculine
+117521	masculine/neuter
+neuter
+feminine
+117527	
+117531	
+117535	neuter
+117538	feminine
+
+117543	neuter
+117553	
+117561	masculine/neuter
+117567	
+feminine
+
+117573	
+117575	
+117577	masculine/feminine/neuter
+117581	
+117585	
+neuter
+masculine
+117592	
+
+117599	feminine
+
+117602	
+117608	
+
+117612	
+117616	
+
+
+neuter
+117622	
+117624	feminine
+117629	
+117632	masculine
+117635	masculine
+117637	
+117639	
+
+117643	
+neuter
+
+117650	masculine
+
+
+neuter
+117670	
+117672	feminine
+feminine
+117675	
+117678	
+117685	
+
+feminine
+117689	
+masculine
+117692	
+117701	masculine
+117703	
+117705	
+117712	feminine
+
+feminine
+117719	feminine
+117725	
+117729	
+117733	masculine
+117735	feminine
+
+masculine
+
+117740	feminine
+117743	
+
+117749	feminine
+117751	
+masculine
+
+117756	
+117758	
+feminine
+117762	
+feminine
+
+117767	
+117769	
+masculine
+117775	
+117784	
+117789	
+masculine
+117793	masculine
+
+117796	masculine/neuter
+117800	feminine
+117802	feminine
+
+masculine/feminine
+
+117808	feminine
+117811	neuter
+feminine
+117817	
+
+
+
+
+117823	feminine
+117828	
+117835	feminine
+feminine
+117843	neuter
+117846	feminine
+feminine
+
+
+
+117852	masculine
+117854	feminine
+117857	feminine
+117860	masculine
+117862	
+feminine
+117869	neuter
+feminine
+feminine
+feminine
+masculine/feminine/neuter
+
+117885	
+
+117893	feminine
+117896	feminine
+feminine
+117899	feminine
+117903	
+117907	
+masculine
+117916	
+
+117923	
+117926	feminine
+
+feminine
+117930	
+masculine
+117935	masculine
+
+117941	
+
+117944	neuter
+
+117950	masculine/feminine/neuter
+117955	
+117960	
+117962	
+117968	masculine/feminine/neuter
+117972	feminine
+
+117975	masculine/neuter
+117977	
+
+117988	
+117992	
+
+
+118003	
+118007	
+
+118010	feminine
+masculine
+118014	
+118017	neuter
+feminine
+118023	
+118032	
+118035	masculine
+118038	feminine
+118040	
+
+118045	
+feminine
+feminine
+118049	
+118051	
+118055	masculine
+118057	masculine
+118074	
+masculine/neuter
+118077	feminine
+118082	neuter
+
+
+neuter
+118087	
+masculine/neuter
+118090	masculine
+118092	
+118095	
+
+feminine
+feminine
+118101	
+118105	
+118107	
+
+118112	feminine
+118114	masculine
+118118	masculine
+118127	
+118129	
+118134	
+neuter
+neuter
+118138	
+118140	
+
+neuter
+118145	
+feminine
+feminine
+118154	masculine
+
+118159	masculine
+118161	
+118170	masculine
+118183	neuter
+118187	masculine
+118196	feminine
+neuter
+118201	
+118204	neuter
+feminine
+feminine
+118209	
+118211	masculine
+118215	
+118217	neuter
+118219	
+118228	
+118230	feminine
+118234	
+118236	
+118239	feminine
+118241	feminine
+118245	neuter
+118249	
+118252	feminine
+masculine
+feminine
+118258	
+118264	
+
+
+
+118269	masculine/neuter
+118273	
+118276	neuter
+
+118279	
+feminine
+feminine
+118284	
+118287	neuter
+
+118293	masculine
+
+118299	
+118302	
+
+118306	feminine
+118308	feminine
+
+118325	neuter
+masculine
+118328	
+
+118335	
+118342	
+118344	feminine
+118346	
+neuter
+118351	neuter
+118363	
+118365	
+118369	masculine
+118372	
+neuter
+118375	
+
+118378	feminine
+118380	feminine
+118383	
+neuter
+118390	
+118393	neuter
+118399	masculine
+118401	masculine
+118406	
+118409	
+
+118426	
+
+
+
+118434	
+
+
+neuter
+118440	feminine
+masculine/neuter
+118443	masculine
+
+feminine
+118455	
+118458	
+118462	
+
+
+
+
+118468	feminine
+masculine/neuter
+
+118472	neuter
+118476	
+
+118482	feminine
+118485	
+118487	masculine
+masculine/neuter
+118490	feminine
+118493	
+
+118496	feminine
+118503	feminine
+118513	neuter
+118515	
+
+118520	
+feminine
+
+
+118527	feminine
+118529	masculine
+118531	
+118534	masculine
+
+118539	
+
+118545	
+118547	masculine/feminine
+118552	masculine
+118558	feminine
+118561	
+118566	feminine
+118568	
+masculine
+
+118574	
+feminine
+118579	
+feminine
+
+118585	neuter
+feminine
+118590	feminine
+118600	neuter
+118607	
+118611	masculine/feminine/neuter
+
+
+118615	masculine
+118618	masculine/feminine
+118620	
+118622	neuter
+feminine
+
+118630	
+118632	feminine
+118637	
+
+118642	
+
+118648	
+118651	feminine
+118658	
+118663	neuter
+118666	neuter
+118669	
+118671	
+118673	
+118675	feminine
+118681	feminine
+118684	
+
+masculine
+118691	
+118694	feminine
+
+118698	masculine/neuter
+118705	feminine
+118708	neuter
+118710	feminine
+neuter
+118722	
+
+118726	masculine
+118728	masculine
+118730	masculine/feminine/neuter
+
+118736	
+118740	neuter
+118743	
+
+
+118751	masculine
+118753	
+118761	
+
+118766	
+118769	
+118772	
+masculine
+118776	
+118780	
+118782	
+118784	
+118788	feminine
+
+118793	
+118813	neuter
+118817	
+118820	masculine/neuter
+118830	feminine
+masculine
+
+118836	masculine/neuter
+118838	
+118843	
+118847	feminine
+
+
+118851	
+118856	neuter
+118859	neuter
+118861	
+118864	
+neuter
+118873	neuter
+118876	
+feminine
+neuter
+118880	
+118887	
+118889	
+118891	
+
+
+118903	
+118907	masculine
+118909	feminine
+
+118915	
+
+118924	feminine
+neuter
+
+118928	neuter
+118931	
+
+118942	
+
+
+118950	
+feminine
+118954	
+118964	neuter
+118972	
+
+118978	
+
+118981	
+118984	
+
+
+118990	
+118994	feminine
+119004	
+119006	
+
+
+119011	
+119016	
+119021	feminine
+119026	
+119031	
+119036	masculine
+119039	feminine
+119041	
+119045	
+masculine
+
+
+
+119064	
+119071	neuter
+119073	feminine
+119078	
+
+119083	neuter
+119086	neuter
+masculine
+
+119100	feminine
+119102	
+
+
+neuter
+119107	
+feminine
+119110	feminine
+neuter
+119115	masculine
+feminine
+119118	
+119127	
+119135	
+masculine/feminine
+119138	
+
+119143	masculine
+119145	feminine
+masculine
+masculine/neuter
+
+119150	masculine/neuter
+119152	
+119160	
+119162	
+119172	
+119174	neuter
+119177	
+feminine
+119183	feminine
+
+119191	neuter
+119193	neuter
+119200	
+
+119204	masculine
+119207	
+119210	feminine
+119213	neuter
+119218	
+
+119221	feminine
+119225	
+119232	feminine
+119237	
+119239	
+119244	masculine
+119246	
+
+feminine
+119250	masculine
+119253	
+119255	
+119262	
+119264	feminine
+masculine
+119272	
+119277	masculine
+119283	
+masculine
+feminine
+masculine
+119290	
+119297	
+119299	
+
+
+
+119314	
+masculine/neuter
+119318	
+119321	feminine
+119327	neuter
+
+masculine
+119333	
+masculine
+119336	feminine
+
+119343	
+119347	neuter
+119349	feminine
+119352	feminine
+feminine
+119356	feminine
+119358	
+feminine
+feminine
+119363	feminine
+119365	masculine
+
+neuter
+feminine
+feminine
+
+119372	
+119376	feminine
+feminine
+119379	feminine
+119385	feminine
+119389	
+feminine
+119393	
+
+119397	neuter
+neuter
+119411	masculine
+masculine/feminine
+feminine
+119416	feminine
+119434	
+
+119438	
+masculine
+119442	
+119445	
+masculine
+
+119453	
+119462	masculine
+feminine
+119467	feminine
+119469	masculine
+119473	
+
+119478	
+119480	
+119488	
+119490	neuter
+119504	feminine
+119508	feminine
+119515	
+
+119518	masculine/neuter
+119525	masculine/neuter
+119532	neuter
+masculine/feminine
+119535	masculine
+119538	neuter
+119547	masculine
+masculine/feminine
+119551	
+119568	
+
+feminine
+119572	
+119574	
+
+119577	
+119585	
+119593	masculine/neuter
+119596	
+119604	
+119608	
+
+
+
+119615	
+119617	masculine/neuter
+119619	
+119621	
+119625	
+masculine
+119628	
+119630	neuter
+119634	
+119636	
+
+
+
+119641	neuter
+119650	
+119653	
+119659	neuter
+
+119663	
+
+119670	masculine/neuter
+119673	feminine
+119679	
+
+feminine
+119683	neuter
+119686	masculine
+119691	feminine
+
+119694	
+119697	neuter
+119701	
+
+119707	
+feminine
+119710	neuter
+119714	neuter
+119716	
+119719	
+
+neuter
+119729	
+119733	feminine
+119736	feminine
+feminine
+119741	feminine
+119743	
+119745	feminine
+masculine/neuter
+119751	
+119755	
+
+119762	
+119767	masculine
+masculine
+119771	feminine
+119775	
+
+119781	
+119783	
+119785	feminine
+119788	masculine
+119793	
+119795	
+119802	feminine
+feminine
+119807	
+119811	
+119815	
+119819	
+119822	masculine
+
+119842	
+119845	masculine
+119856	neuter
+119858	masculine
+119860	
+119866	
+119868	neuter
+masculine
+
+119875	
+119877	neuter
+neuter
+119880	feminine
+
+119887	masculine
+feminine
+119890	
+masculine
+119893	
+
+119897	
+119901	feminine
+119905	feminine
+119907	masculine
+119913	neuter
+119916	
+119918	
+119921	
+119934	masculine
+119937	
+119939	
+feminine
+
+119944	
+119949	masculine
+119953	
+119958	
+119966	
+119971	
+119975	feminine
+119977	feminine
+119979	feminine
+119982	
+
+119988	
+
+119991	feminine
+119996	neuter
+119998	masculine/neuter
+120000	
+
+120003	masculine/neuter
+120007	
+feminine
+120011	
+
+120015	
+120017	feminine
+
+120022	
+120026	
+120029	neuter
+120031	
+120034	feminine
+120041	
+neuter
+120045	neuter
+120049	
+120052	
+120055	masculine
+
+120060	masculine
+
+120064	feminine
+
+masculine
+
+120072	
+120075	
+120078	masculine/neuter
+120081	
+120084	
+
+120089	masculine/neuter
+120091	
+
+120095	masculine
+masculine
+
+120100	neuter
+120103	
+120107	
+120111	
+masculine
+120117	
+120120	
+120124	masculine
+120127	masculine
+
+
+120133	
+masculine
+120136	
+120141	feminine
+120146	
+feminine
+feminine
+feminine
+
+masculine
+120153	feminine
+120156	
+120158	
+120161	masculine
+120163	
+feminine
+
+
+120170	
+120178	
+120180	
+120183	
+120189	feminine
+120191	
+120194	
+120196	
+120199	
+120201	feminine
+120203	
+
+120210	
+120212	
+120219	
+120224	neuter
+120226	
+120229	masculine/neuter
+120231	
+120237	
+masculine/neuter
+
+120246	
+120252	
+120254	
+120256	masculine/neuter
+120259	
+feminine
+
+120263	
+120265	masculine
+120270	
+120272	
+120276	
+neuter
+120281	
+neuter
+120285	feminine
+120289	masculine
+120292	
+120297	masculine
+masculine/neuter
+120300	
+feminine
+
+120305	
+120307	
+120309	feminine
+
+masculine
+
+masculine/feminine
+120316	masculine
+
+feminine
+masculine
+masculine/neuter
+120322	feminine
+
+
+120329	feminine
+
+120332	feminine
+120334	
+
+
+120341	feminine
+masculine/neuter
+120344	
+
+120348	masculine/neuter
+120352	
+neuter
+120357	feminine
+
+120362	masculine/neuter
+120368	feminine
+masculine
+120372	
+
+120377	masculine/neuter
+120379	
+120381	masculine/neuter
+masculine
+masculine/neuter
+120389	
+120391	
+120393	feminine
+120395	
+120401	
+120403	
+120405	neuter
+masculine/neuter
+120411	feminine
+120414	masculine
+
+120418	
+
+120422	
+120425	
+120428	masculine/neuter
+120432	neuter
+
+120435	
+120437	
+120446	
+feminine
+120450	neuter
+120453	
+120455	masculine
+120462	neuter
+120465	
+120468	neuter
+
+masculine/neuter
+120474	
+feminine
+120477	
+
+120481	neuter
+120483	neuter
+120485	
+
+neuter
+
+neuter
+120492	
+120494	feminine
+
+
+
+120503	neuter
+120506	
+120515	
+
+120518	feminine
+120520	
+
+
+120526	neuter
+120528	
+120531	
+120533	masculine/feminine
+120536	
+120538	
+120549	
+120553	
+
+120556	
+120558	neuter
+120563	neuter
+120573	
+
+120579	feminine
+neuter
+120584	feminine
+120586	neuter
+120588	
+120590	masculine
+
+120595	feminine
+120597	
+120599	neuter
+120601	
+120604	
+120606	
+120613	
+
+
+
+120620	feminine
+120622	feminine
+
+120626	feminine
+
+masculine/feminine
+120630	
+120641	
+120643	
+120645	
+120647	
+120649	
+
+
+120655	
+120660	feminine
+120663	neuter
+120665	
+120667	
+120669	
+120673	
+120675	
+masculine/neuter
+
+120679	feminine
+
+120683	
+120687	
+
+120691	
+120697	
+120699	masculine/neuter
+120704	
+
+masculine
+120711	
+120713	
+120716	
+neuter
+120720	
+120722	
+120725	
+120732	
+120737	
+120739	feminine
+
+120742	
+120744	
+120749	feminine
+120751	
+masculine
+
+120757	feminine
+120760	neuter
+120763	neuter
+
+
+120767	feminine
+120773	feminine
+
+120776	feminine
+feminine
+120782	
+
+120787	
+120789	
+120792	
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+120798	
+neuter
+120801	
+
+120804	masculine/neuter
+120807	
+120810	
+120814	
+120831	masculine
+120833	
+120839	
+120846	
+
+120851	feminine
+120853	feminine
+
+120859	neuter
+120861	
+120864	
+120867	
+feminine
+120872	feminine
+120876	
+120882	neuter
+120884	masculine
+120886	masculine/neuter
+masculine/neuter
+120890	
+feminine
+
+120898	masculine
+120901	neuter
+120903	feminine
+
+120907	
+120909	
+120911	masculine
+
+120914	masculine
+masculine/neuter
+
+neuter
+masculine
+
+
+120924	
+120927	
+120929	
+
+120933	masculine
+120936	
+
+120939	
+120941	
+120944	neuter
+120947	masculine
+120949	
+120951	masculine
+feminine
+
+120960	
+120963	
+120966	
+
+feminine
+120970	
+120973	feminine
+120977	
+120980	masculine
+
+masculine
+120989	neuter
+120991	
+120997	
+120999	masculine
+feminine
+121002	
+121004	neuter
+121006	
+121008	
+121013	
+masculine
+
+121019	
+masculine/neuter
+
+
+
+
+121026	
+121028	
+121031	feminine
+feminine
+
+121040	feminine
+121042	neuter
+121044	
+121046	neuter
+121051	
+121055	
+masculine
+121058	
+neuter
+121063	masculine/neuter
+121067	masculine
+masculine
+
+121078	
+121081	neuter
+121083	masculine
+121086	feminine
+neuter
+121090	
+121094	
+121097	
+feminine
+121103	
+121106	neuter
+121108	masculine/neuter
+121110	
+121117	
+121120	masculine
+121122	
+feminine
+121128	
+121133	feminine
+121138	feminine
+neuter
+feminine
+feminine
+121145	
+
+121150	
+121154	
+121156	
+
+
+121167	masculine
+121171	feminine
+121174	
+121182	
+feminine
+121190	masculine
+121194	feminine
+121198	neuter
+121200	masculine
+121203	
+121207	
+121211	feminine
+121215	
+121217	
+121225	
+121227	neuter
+121230	
+121235	
+
+feminine
+121240	
+121244	masculine/feminine
+121246	neuter
+121249	feminine
+
+
+121253	feminine
+121255	feminine
+neuter
+121259	masculine
+masculine
+feminine
+121265	
+121267	feminine
+
+
+121274	feminine
+feminine
+neuter
+121280	neuter
+
+
+121285	
+
+121289	feminine
+feminine
+121292	neuter
+121296	feminine
+feminine
+
+
+121302	masculine/neuter
+feminine
+121305	neuter
+121319	feminine
+121322	neuter
+121326	
+121329	masculine
+121334	feminine
+121339	feminine
+121341	
+masculine
+121347	masculine
+121349	
+121351	
+121353	masculine
+121357	
+121359	
+121361	feminine
+121364	
+
+121368	
+
+121374	masculine
+121376	
+121382	feminine
+feminine
+
+121396	masculine
+121400	
+
+
+121404	feminine
+121408	
+121413	neuter
+
+
+121419	feminine
+
+feminine
+121423	
+
+121427	
+121431	
+121434	
+121436	
+masculine/neuter
+121439	
+121441	
+
+121444	feminine
+121448	feminine
+121452	
+121455	masculine/feminine
+121464	neuter
+masculine
+121467	feminine
+121471	masculine
+121477	masculine/feminine
+masculine/feminine
+121480	masculine
+121482	
+masculine
+121489	
+
+121493	masculine/neuter
+121495	
+
+121498	
+
+
+
+121507	masculine/neuter
+121510	
+121513	masculine/neuter
+
+121517	
+
+121520	
+121523	
+121525	
+121527	
+121529	
+feminine
+121534	feminine
+
+121538	
+121540	masculine
+
+121543	
+121546	masculine/neuter
+121550	
+
+feminine
+neuter
+
+
+feminine
+
+
+121561	neuter
+121566	
+
+121569	
+
+
+
+
+
+masculine
+feminine
+neuter
+
+121581	
+121586	
+masculine/feminine
+121590	
+
+121593	
+neuter
+121598	
+121600	
+
+
+121604	
+
+
+121608	
+121611	
+121613	masculine/neuter
+121615	
+
+121619	
+121624	
+
+121632	neuter
+masculine
+masculine/neuter
+
+121637	
+121639	feminine
+121641	
+feminine
+121644	masculine
+masculine/neuter
+121647	
+feminine
+masculine
+
+feminine
+121653	neuter
+masculine
+121656	
+neuter
+121660	
+
+121664	
+121666	
+121669	
+121671	
+121674	
+121678	
+121681	neuter
+121683	
+121685	
+121689	
+neuter
+neuter
+121693	masculine
+
+121696	masculine
+masculine
+121699	
+121702	
+121711	
+121716	
+121719	feminine
+feminine
+121722	masculine/neuter
+121725	
+feminine
+121734	
+
+feminine
+neuter
+neuter
+masculine
+
+121746	
+121750	
+
+121754	masculine/neuter
+feminine
+121758	feminine
+121762	neuter
+121766	masculine/neuter
+neuter
+121770	
+121772	masculine
+121779	masculine/neuter
+121782	neuter
+121784	masculine/neuter
+
+121787	feminine
+121789	masculine/neuter
+121791	
+neuter
+121794	masculine/neuter
+121796	neuter
+121798	
+121800	neuter
+121802	feminine
+
+masculine
+
+121810	
+masculine/neuter
+
+121815	
+
+121818	
+neuter
+121824	masculine/neuter
+121826	
+masculine/neuter
+neuter
+121831	masculine/neuter
+121834	feminine
+feminine
+121838	
+feminine
+121841	masculine/neuter
+121852	
+masculine/neuter
+
+feminine
+masculine
+121860	neuter
+121863	
+121867	feminine
+121869	
+
+masculine/neuter
+
+neuter
+121877	
+121884	feminine
+
+121894	
+masculine/neuter
+
+feminine
+
+
+masculine/neuter
+121903	
+121906	feminine
+121909	
+
+neuter
+121915	masculine
+
+121926	
+masculine/feminine
+121929	
+
+121932	masculine/neuter
+
+121944	masculine/neuter
+121946	
+121949	neuter
+masculine
+121952	masculine
+121959	
+121968	masculine/feminine
+121972	masculine/neuter
+121974	
+
+121985	
+121987	
+
+121990	
+121993	
+121995	
+
+122001	feminine
+122007	
+
+
+122011	
+masculine/neuter
+122014	feminine
+neuter
+122018	
+122024	neuter
+masculine
+122032	
+122038	
+122040	feminine
+122042	
+122046	
+122050	
+masculine/feminine
+masculine/feminine
+122054	
+122056	
+122058	
+122066	masculine/feminine
+122068	feminine
+122074	neuter
+122076	
+122079	feminine
+122081	
+122087	neuter
+122089	
+
+122094	feminine
+122096	
+122099	
+
+neuter
+122105	
+
+
+
+
+
+122112	
+122114	
+122116	neuter
+122119	masculine
+masculine/neuter
+
+
+masculine
+
+122126	feminine
+feminine
+122129	feminine
+
+122132	
+122134	
+122137	
+122142	masculine
+masculine/neuter
+122145	
+122147	
+122150	neuter
+122154	
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+neuter
+
+122163	
+masculine
+
+feminine
+
+122169	neuter
+122172	masculine
+masculine/neuter
+122175	feminine
+
+122184	
+
+
+feminine
+122189	
+feminine
+
+122193	feminine
+122195	
+122199	
+122202	
+122204	
+122207	
+masculine
+122210	
+
+122215	neuter
+masculine/neuter
+122219	
+122221	
+122223	feminine
+122228	
+122231	
+122233	
+
+feminine
+masculine
+masculine/neuter
+122241	
+
+122249	
+122260	
+122267	
+masculine
+122271	
+feminine
+122276	
+masculine/feminine
+
+masculine
+122281	
+122283	
+122286	masculine/neuter
+122288	feminine
+
+masculine
+122296	masculine
+122299	
+122302	
+122304	
+feminine
+feminine
+122309	
+feminine
+122313	feminine
+
+122316	
+122319	
+
+feminine
+
+122324	
+122330	
+masculine/neuter
+122333	masculine
+122338	
+
+
+feminine
+masculine
+masculine/neuter
+
+122351	
+122353	feminine
+masculine/neuter
+
+
+
+122360	feminine
+122365	
+
+
+122371	
+
+
+122375	neuter
+122377	
+122379	
+122383	
+122386	masculine
+
+122392	masculine/neuter
+122394	
+122396	
+122400	
+122402	
+122405	
+masculine/neuter
+
+122409	
+
+122412	
+122417	masculine/neuter
+122421	masculine
+
+122426	
+122428	masculine
+122430	feminine
+122433	
+
+
+masculine
+122441	feminine
+122443	
+122445	neuter
+122449	masculine/neuter
+122453	
+masculine
+122456	
+masculine/neuter
+122459	
+122463	feminine
+
+122468	
+122470	
+122475	masculine/feminine
+122477	
+122479	feminine
+
+122482	
+122486	feminine
+122488	
+122491	feminine
+
+122494	
+122498	neuter
+122503	
+122507	masculine/neuter
+
+
+122519	
+feminine
+122523	feminine
+122526	neuter
+122529	
+122533	feminine
+122535	
+122541	feminine
+
+122544	
+122546	
+
+122549	
+122551	
+122553	neuter
+masculine
+122564	neuter
+122566	
+122571	
+
+122574	
+neuter
+122577	
+122580	
+122582	feminine
+122584	
+feminine
+masculine
+masculine/neuter
+122589	
+
+masculine
+
+122594	
+neuter
+122601	neuter
+122608	
+122610	feminine
+
+122619	masculine
+122623	
+122625	
+122630	feminine
+
+masculine/feminine
+122634	
+122637	
+122645	neuter
+122650	
+
+122654	
+122656	
+122658	
+feminine
+122661	
+122664	
+122666	masculine/feminine
+
+122673	
+masculine
+122681	
+
+122689	masculine
+122692	
+122694	
+122696	
+masculine/neuter
+
+122702	feminine
+122704	
+122706	
+masculine/neuter
+
+122712	feminine
+122717	masculine
+
+feminine
+
+
+
+122724	feminine
+feminine
+122727	masculine
+122730	
+122734	
+122736	
+122738	
+
+122744	
+122748	feminine
+
+
+122752	neuter
+122755	
+122758	
+
+122762	
+122768	
+122770	
+
+
+122774	
+122777	
+122779	masculine
+
+122783	
+masculine
+122787	
+122795	
+122798	
+122805	
+feminine
+
+
+122814	neuter
+122817	
+122823	
+122830	neuter
+
+
+122836	
+122838	masculine
+122841	masculine/neuter
+
+122846	
+122849	
+122853	
+
+122857	
+
+122860	
+122867	
+122870	
+122872	masculine
+122876	masculine/neuter
+122879	
+
+122882	
+122893	
+
+122896	
+
+122899	
+122902	
+
+122909	neuter
+122911	
+masculine/neuter
+masculine
+122915	feminine
+122917	
+masculine/neuter
+122921	
+
+122924	
+122926	feminine
+122929	masculine
+
+
+
+122936	
+122939	
+masculine/neuter
+122944	neuter
+122947	masculine
+122950	neuter
+
+122956	neuter
+122959	
+122961	
+
+122964	
+122971	masculine
+
+
+122977	
+122979	feminine
+
+122982	feminine
+122984	
+masculine
+122988	feminine
+122990	
+masculine/neuter
+
+122995	
+122997	masculine/feminine
+122999	feminine
+123007	feminine
+
+masculine
+123011	masculine
+123013	
+123015	
+123017	neuter
+
+123021	
+
+123027	
+123033	masculine/neuter
+123039	
+123047	
+
+123052	masculine
+123055	
+
+123062	neuter
+123065	
+masculine
+123069	feminine
+123073	feminine
+123075	
+123078	
+123080	
+123085	
+123094	
+123096	masculine/neuter
+123098	
+123101	
+
+
+feminine
+123107	masculine/neuter
+123110	feminine
+feminine
+123113	neuter
+feminine
+feminine
+neuter
+
+
+feminine
+123122	
+123125	feminine
+123127	
+123131	feminine
+123136	masculine
+123139	masculine
+
+
+123143	
+masculine/neuter
+masculine/feminine
+123150	
+123152	feminine
+123156	
+
+123159	
+123163	
+
+123166	
+123168	
+123170	
+123172	masculine
+123174	masculine/neuter
+123176	
+
+masculine
+
+123183	
+123186	feminine
+
+
+123190	
+123192	
+123194	masculine
+123197	neuter
+123203	feminine
+123205	
+
+123213	
+123217	
+123223	
+
+123226	feminine
+
+
+123230	
+123235	
+123237	
+123241	
+
+123247	feminine
+masculine
+123255	
+
+123258	
+123260	
+masculine
+123264	masculine
+masculine/neuter
+123268	
+feminine
+
+123272	
+123274	masculine/neuter
+123276	masculine
+123278	
+123281	masculine/neuter
+123291	
+neuter
+neuter
+123297	
+123301	
+
+123304	
+123307	
+123309	
+123313	neuter
+123322	
+123324	
+123327	neuter
+123331	
+123336	masculine/neuter
+
+123344	masculine/feminine
+
+123347	
+
+123350	
+123353	
+
+123358	
+123361	
+123363	
+feminine
+123366	masculine/neuter
+123368	
+masculine
+123380	
+123385	
+123387	
+neuter
+123390	
+
+123394	neuter
+123396	
+123398	
+123404	
+123407	masculine
+
+
+
+masculine
+123413	
+
+123416	
+
+feminine
+
+
+123422	
+
+
+123427	
+neuter
+123431	
+123434	neuter
+123436	feminine
+masculine
+masculine/neuter
+123441	feminine
+
+123446	
+123451	feminine
+123454	
+123456	
+
+feminine
+123461	
+123463	
+masculine
+
+123467	
+123469	
+123471	
+masculine/neuter
+123474	
+123477	
+123479	feminine
+123481	
+
+
+123485	
+
+
+123489	masculine/neuter
+
+
+123494	
+123497	
+
+123501	feminine
+
+123506	masculine/neuter
+123508	
+
+
+123512	
+123514	
+
+123517	
+123519	
+123526	masculine
+
+
+123531	
+neuter
+123534	
+123539	
+
+
+
+
+123545	masculine
+123547	masculine/neuter
+123553	
+
+
+123558	
+neuter
+123563	neuter
+masculine/feminine
+123571	masculine
+123573	
+123575	feminine
+
+
+neuter
+123582	
+feminine
+
+123588	
+
+
+neuter
+123594	masculine/feminine
+123596	
+masculine/neuter
+123599	neuter
+123604	
+123608	
+
+masculine
+
+
+123615	
+
+
+masculine
+123621	
+masculine/feminine
+123624	
+123627	masculine
+
+
+123631	
+123635	
+123641	
+123643	masculine
+masculine
+
+123652	
+
+neuter
+123658	
+123660	
+
+123666	feminine
+123668	
+
+123671	feminine
+
+
+123675	feminine
+123677	
+masculine/neuter
+123682	
+123684	
+123686	masculine/neuter
+123689	neuter
+123691	masculine/neuter
+123693	
+masculine
+123696	
+
+masculine/feminine
+
+123701	
+
+123704	feminine
+123706	feminine
+feminine
+123711	
+
+123714	masculine/neuter
+123716	
+neuter
+123722	neuter
+123724	feminine
+
+123727	neuter
+
+
+
+masculine
+123735	
+
+
+
+123742	
+123747	feminine
+neuter
+123750	
+
+neuter
+123754	
+123757	neuter
+123759	masculine
+123761	masculine
+123764	neuter
+
+
+
+
+123770	
+123772	feminine
+feminine
+
+feminine
+123779	neuter
+123782	
+123784	
+123786	
+
+
+123791	
+masculine
+123798	masculine
+masculine/neuter
+123802	masculine/feminine
+123805	
+123807	
+
+masculine/neuter
+123812	masculine
+masculine/neuter
+123815	
+123817	
+123819	
+feminine
+
+
+123824	masculine
+
+masculine/neuter
+masculine/neuter
+
+feminine
+neuter
+masculine/feminine
+123833	feminine
+123835	
+feminine
+123838	
+123842	feminine
+123845	
+123847	feminine
+
+
+123851	
+123854	feminine
+feminine
+123857	feminine
+masculine/feminine
+123862	feminine
+123865	feminine
+123870	
+
+123873	
+
+masculine
+123881	feminine
+123883	
+
+123886	feminine
+masculine/neuter
+123889	
+
+123893	
+123896	
+123899	feminine
+123902	
+123905	
+123908	
+123911	
+123914	
+123917	
+123920	
+123925	
+123928	
+123933	masculine/feminine
+
+123936	
+
+123939	
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+123953	
+123955	
+123958	
+
+neuter
+123966	masculine/neuter
+123970	
+123978	
+123983	
+feminine
+123986	
+123988	neuter
+feminine
+
+masculine/neuter
+masculine/neuter
+123995	masculine
+masculine/neuter
+123998	
+124000	feminine
+124008	
+124011	feminine
+masculine
+124018	
+124020	
+124023	feminine
+
+feminine
+124027	
+124030	feminine
+124032	
+124037	neuter
+masculine
+masculine/neuter
+masculine
+masculine
+124044	
+124049	feminine
+124052	feminine
+neuter
+124064	
+124066	
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+124073	
+124075	
+124078	
+124082	neuter
+
+124085	
+124087	
+
+124095	
+neuter
+124099	neuter
+124104	
+124114	
+
+feminine
+124120	
+
+124123	neuter
+124126	neuter
+124131	masculine
+
+124134	
+124137	
+124140	feminine
+
+neuter
+
+124147	
+124149	
+masculine/neuter
+124152	masculine
+124154	
+feminine
+124157	masculine
+
+124165	
+124168	
+
+124176	
+feminine
+124182	
+
+124185	
+124187	
+
+124192	
+124207	
+feminine
+124213	feminine
+124216	feminine
+124219	
+124222	
+feminine
+124228	
+124230	
+124232	feminine
+124234	feminine
+124237	
+124239	neuter
+124241	masculine
+masculine/neuter
+124244	
+
+
+
+124250	
+124254	
+
+124257	
+
+124267	
+124269	feminine
+124274	
+
+124281	neuter
+124283	masculine
+124288	
+
+
+
+124296	neuter
+124299	
+124301	feminine
+
+feminine
+
+feminine
+
+124310	masculine
+
+124317	
+feminine
+124325	
+124327	
+
+124333	masculine
+feminine
+124336	masculine
+124344	feminine
+124350	feminine
+neuter
+masculine/neuter
+124357	
+124359	feminine
+feminine
+feminine
+
+
+124366	
+124370	
+124373	feminine
+124382	
+feminine
+
+
+124389	
+124391	
+feminine
+124394	
+124397	
+124403	
+124405	
+124409	masculine
+124412	feminine
+124417	
+
+124420	
+124429	
+124431	masculine
+124433	
+
+
+124439	
+124443	
+feminine
+124452	neuter
+124454	
+
+124462	
+
+124467	masculine
+124470	
+
+124473	
+124477	
+124480	masculine
+124484	
+124487	
+124490	feminine
+124492	
+
+
+feminine
+
+masculine/neuter
+124500	masculine
+masculine/neuter
+124506	
+
+124509	feminine
+feminine
+neuter
+124513	masculine/neuter
+124516	
+124524	
+124526	
+124531	
+masculine
+
+124538	
+masculine
+124543	
+124548	
+124550	
+124552	
+124555	
+
+124558	
+124560	
+masculine/neuter
+
+feminine
+124565	neuter
+
+124573	masculine/feminine/neuter
+masculine
+124579	masculine/neuter
+masculine
+
+masculine/neuter
+124586	masculine
+124588	
+124591	
+124593	feminine
+
+124597	
+124599	
+
+feminine
+124604	masculine
+124607	feminine
+124610	
+
+124615	masculine
+124618	neuter
+124620	
+124628	masculine
+
+
+
+
+124635	
+124641	
+
+
+124647	neuter
+124653	masculine
+124656	
+124658	feminine
+124660	
+124664	
+124667	
+feminine
+124675	neuter
+124680	feminine
+124682	
+124684	neuter
+neuter
+masculine/neuter
+
+feminine
+masculine
+124691	feminine
+masculine
+
+neuter
+124697	
+masculine
+124701	
+
+124705	
+
+
+feminine
+124713	
+124715	
+
+
+
+124720	neuter
+masculine/neuter
+
+124724	
+
+masculine
+
+124732	feminine
+124737	feminine
+
+124745	feminine
+124747	
+124749	feminine
+
+124752	
+124755	masculine
+124759	
+124761	
+
+feminine
+124766	
+124771	feminine
+124773	
+124775	
+124778	
+
+124782	
+
+
+124787	
+124791	masculine
+124798	
+
+124802	
+masculine/neuter
+masculine/neuter
+124807	
+124810	neuter
+124812	masculine/neuter
+124815	
+124821	
+
+124824	
+feminine
+124827	masculine
+
+124832	
+124836	masculine/feminine
+feminine
+masculine
+124843	
+124846	
+masculine
+124850	masculine
+feminine
+124857	
+124863	
+124866	
+
+124869	
+124871	
+124874	feminine
+
+masculine/neuter
+masculine/neuter
+124880	masculine
+masculine/neuter
+124883	feminine
+
+124888	
+feminine
+124892	
+124901	masculine/neuter
+124903	
+124905	feminine
+124907	masculine/neuter
+124910	
+
+124915	feminine
+124921	
+124923	
+
+124926	
+124928	neuter
+124930	
+124936	masculine/feminine
+124941	
+124943	
+124948	
+124950	masculine/neuter
+124952	feminine
+124955	feminine
+feminine
+124958	
+124962	
+
+
+masculine
+masculine/neuter
+124972	feminine
+124974	masculine/neuter
+124977	feminine
+124980	feminine
+124985	
+124987	
+
+
+neuter
+124995	neuter
+
+125000	feminine
+neuter
+125003	
+125007	
+125009	
+
+neuter
+125016	
+125018	feminine
+neuter
+125021	
+
+125025	
+125028	
+
+125034	feminine
+125038	masculine
+
+
+
+125043	feminine
+125047	neuter
+125049	
+125054	
+125056	feminine
+feminine
+125060	
+masculine/feminine
+neuter
+125066	masculine/neuter
+125072	
+masculine/feminine
+125077	
+feminine
+125082	neuter
+125084	
+125088	
+125091	neuter
+125093	
+125096	
+masculine/feminine
+125101	
+
+125105	
+125107	neuter
+125109	
+
+125116	masculine
+neuter
+125124	neuter
+masculine/neuter
+125132	
+125135	
+
+
+125139	
+125142	
+125145	neuter
+125147	masculine
+
+125150	neuter
+masculine
+
+125157	masculine
+
+125161	
+125164	
+125166	feminine
+feminine
+125172	
+
+
+125178	
+125180	feminine
+
+
+
+125185	
+125188	
+
+125192	neuter
+masculine
+
+125197	
+125208	
+
+
+125218	feminine
+masculine
+feminine
+neuter
+125223	neuter
+125229	
+
+
+125234	
+
+125238	
+
+
+feminine
+neuter
+125249	
+125251	neuter
+masculine
+
+
+125260	
+125262	
+125264	feminine
+125266	feminine
+125268	neuter
+masculine
+125272	
+
+
+125276	
+125279	
+125283	neuter
+125288	
+
+125291	feminine
+125294	
+125296	feminine
+
+125302	
+
+feminine
+neuter
+125309	
+
+
+125313	
+125315	
+feminine
+125318	feminine
+125321	
+
+
+125325	
+125330	
+
+125333	
+125336	neuter
+125338	
+feminine
+
+125345	
+125347	
+125353	
+125355	
+
+
+125359	neuter
+125361	
+
+
+
+
+125369	neuter
+masculine
+
+125375	feminine
+
+
+125379	neuter
+125381	
+125386	feminine
+
+
+125390	
+125392	
+neuter
+125395	
+
+125398	feminine
+neuter
+125403	feminine
+neuter
+125408	feminine
+masculine
+
+
+125415	
+125417	
+125419	
+
+125423	neuter
+125427	feminine
+neuter
+
+neuter
+125432	masculine
+125434	feminine
+
+
+
+
+125441	feminine
+
+
+125448	
+125458	
+
+
+125462	
+masculine/neuter
+125467	
+
+masculine/neuter
+
+125472	
+masculine/neuter
+
+125476	
+125478	masculine/neuter
+125482	
+125484	
+125486	
+masculine/neuter
+125491	
+125493	
+125496	
+125500	
+
+125503	
+125505	feminine
+125507	
+
+125511	
+neuter
+125516	feminine
+125521	neuter
+
+
+125525	neuter
+125527	
+masculine
+125531	neuter
+masculine
+125535	neuter
+125537	neuter
+125545	neuter
+125549	
+125552	
+neuter
+125560	
+125566	
+
+masculine/neuter
+neuter
+
+
+125579	
+
+125583	
+
+feminine
+125590	feminine
+125595	masculine/feminine
+125597	
+125599	neuter
+125602	
+125606	feminine
+125614	
+
+
+
+125621	
+125624	
+feminine
+125627	
+125629	
+125632	feminine
+125636	
+125645	feminine
+
+
+125649	feminine
+125652	
+
+125656	neuter
+125658	
+125664	
+
+125667	
+
+neuter
+masculine
+
+125674	
+
+125678	neuter
+masculine
+125682	
+
+125687	
+
+masculine/feminine
+neuter
+125694	
+125698	feminine
+125700	neuter
+125704	feminine
+
+125712	
+125719	
+
+neuter
+125723	masculine/feminine
+125726	
+125733	neuter
+
+125747	neuter
+masculine
+125754	
+125756	feminine
+neuter
+125759	feminine
+125762	
+
+125769	
+125771	neuter
+
+125777	neuter
+
+125780	neuter
+125784	neuter
+125787	
+125789	
+
+125795	feminine
+neuter
+masculine
+125806	neuter
+masculine
+125811	
+
+125814	
+125817	neuter
+125820	
+125823	neuter
+125825	
+
+125828	
+feminine
+125831	
+
+125834	neuter
+125837	
+
+125841	
+
+125844	
+
+125847	
+125850	masculine
+125852	
+125854	
+
+125857	
+125859	feminine
+125861	feminine
+125863	
+
+125866	feminine
+125868	
+
+125871	neuter
+125873	masculine
+125878	
+
+125881	neuter
+125883	masculine
+125886	
+
+125890	feminine
+125897	
+125903	
+125905	
+125910	
+125912	feminine
+125916	
+feminine
+125919	
+feminine
+
+feminine
+125924	
+125926	
+feminine
+masculine
+
+125931	
+
+feminine
+neuter
+125937	
+
+125941	
+
+
+125945	
+
+
+125950	neuter
+125952	masculine
+
+
+
+125958	neuter
+125962	
+125966	
+
+125971	
+
+neuter
+
+125976	feminine
+
+125981	
+
+125985	masculine/neuter
+125987	
+
+125992	
+125997	
+
+126001	
+
+126004	neuter
+
+
+126008	
+126011	
+126015	
+feminine
+126018	
+126020	
+
+feminine
+
+
+
+
+
+126031	
+126035	feminine
+
+
+126040	feminine
+
+126044	
+126047	feminine
+126051	
+126054	
+masculine/neuter
+
+neuter
+
+masculine/neuter
+feminine
+neuter
+
+126065	neuter
+126068	
+masculine/neuter
+126072	neuter
+126074	neuter
+feminine
+neuter
+126078	
+126083	masculine
+126086	neuter
+126090	
+
+126093	masculine
+
+126097	feminine
+feminine
+masculine
+
+
+126105	feminine
+masculine
+
+126110	
+126112	
+
+
+masculine
+masculine/neuter
+126118	
+126123	masculine/feminine
+126125	neuter
+126128	masculine
+
+
+126132	
+126135	
+126138	
+126141	
+
+
+masculine/feminine
+126146	
+126148	
+masculine/feminine
+126155	
+
+
+feminine
+126160	
+126162	
+
+126165	
+126169	
+126172	
+126174	
+126177	
+
+neuter
+126182	
+126184	masculine
+
+126189	
+
+126193	neuter
+126197	
+126201	
+
+126209	
+126213	
+126217	
+
+126221	
+126224	
+
+
+126231	
+126234	neuter
+
+
+
+neuter
+
+
+126244	
+
+
+feminine
+126250	
+
+126254	neuter
+126256	feminine
+126260	
+
+126263	neuter
+126266	masculine
+126268	masculine/neuter
+126273	
+
+126277	masculine/neuter
+126284	feminine
+126289	
+126291	
+126293	
+feminine
+
+126297	
+
+126302	neuter
+masculine
+126305	
+
+126311	masculine
+neuter
+126314	masculine
+126318	masculine
+
+neuter
+126322	
+126324	
+126327	feminine
+
+
+
+
+masculine/feminine
+
+126336	
+126338	neuter
+
+neuter
+126342	
+126348	
+
+126352	feminine
+
+126355	
+126359	masculine
+126361	
+126364	feminine
+126369	
+126373	neuter
+masculine/neuter
+126376	
+126378	neuter
+126381	feminine
+126384	
+126386	masculine
+masculine
+126390	
+neuter
+
+126394	neuter
+126396	
+masculine/feminine
+
+126400	feminine
+
+
+126404	
+masculine/feminine
+126407	
+126410	
+
+126416	
+masculine/feminine
+
+126420	
+126422	
+
+masculine/feminine
+126427	
+126429	
+
+neuter
+126433	
+126437	
+
+126440	neuter
+
+
+masculine
+126445	neuter
+126447	
+
+neuter
+126451	
+126453	
+126456	
+
+
+126465	
+126467	
+neuter
+126470	
+masculine/feminine
+neuter
+126474	
+126477	neuter
+neuter
+
+126481	
+
+
+
+
+126487	neuter
+126489	
+126491	
+
+126495	feminine
+
+126498	masculine/neuter
+126501	
+
+126504	feminine
+126507	
+126514	
+
+126521	
+126523	
+126525	feminine
+neuter
+
+
+feminine
+126532	
+neuter
+126536	
+neuter
+126542	
+126544	
+126546	
+
+126549	masculine
+126551	feminine
+neuter
+126554	
+
+
+126558	masculine
+126562	
+
+
+126566	neuter
+126569	masculine
+126572	
+126574	
+126576	masculine
+126579	
+126581	masculine
+masculine
+126589	
+126591	neuter
+masculine
+126594	masculine
+
+126599	
+126601	neuter
+126603	
+masculine
+126606	neuter
+masculine
+126609	
+
+126614	neuter
+masculine
+126618	
+126621	
+
+
+126626	
+
+feminine
+126630	
+
+126634	masculine
+
+126638	masculine
+
+
+126644	feminine
+
+
+
+126650	masculine
+
+126654	feminine
+126656	
+
+126659	
+
+neuter
+126665	
+
+
+126673	feminine
+neuter
+feminine
+126679	feminine
+126681	masculine/neuter
+126684	neuter
+masculine
+126688	
+126690	neuter
+126692	
+masculine
+126695	neuter
+126697	
+
+126701	neuter
+126707	masculine
+masculine
+126710	
+
+126715	
+
+126719	
+
+126727	
+
+126732	feminine
+feminine
+
+masculine/feminine
+
+masculine
+126748	masculine
+masculine/feminine
+
+126752	neuter
+
+
+126760	feminine
+neuter
+
+
+126766	
+126769	feminine
+neuter
+
+
+
+
+126776	
+
+
+neuter
+126781	
+126784	
+
+
+126789	
+126791	neuter
+126794	
+
+126797	
+126799	
+126801	
+
+126806	
+neuter
+126810	
+
+
+126816	feminine
+neuter
+
+
+neuter
+126822	neuter
+126824	masculine/feminine
+126827	feminine
+126829	
+
+126832	
+126834	neuter
+
+126838	
+126840	
+neuter
+126843	
+126846	
+
+126849	
+126851	
+126854	
+126856	masculine
+
+
+
+neuter
+126863	
+126866	
+
+
+
+feminine
+126873	feminine
+126879	
+neuter
+126883	
+126885	feminine
+
+126888	masculine/neuter
+126890	neuter
+
+
+126894	masculine/neuter
+126896	neuter
+126898	
+
+126901	feminine
+126903	feminine
+126906	
+neuter
+126909	
+126912	
+126918	
+126920	
+126922	
+126929	neuter
+126935	
+126937	
+feminine
+neuter
+neuter
+126944	neuter
+126948	
+
+126951	neuter
+126954	
+
+126959	neuter
+126962	
+
+
+126967	neuter
+126971	
+
+
+126975	
+
+126979	neuter
+126982	
+
+126986	
+126988	
+neuter
+126991	
+
+126995	
+masculine/feminine
+
+127004	
+
+127007	
+
+127010	
+masculine
+masculine
+127015	neuter
+127022	
+127027	neuter
+127030	feminine
+127033	
+127037	
+
+feminine
+127044	
+127047	masculine
+127050	feminine
+feminine
+127053	feminine
+127055	feminine
+
+masculine/feminine
+127060	masculine/neuter
+127062	
+127067	masculine/neuter
+127069	masculine
+
+neuter
+
+127075	neuter
+masculine
+masculine/neuter
+
+
+
+127082	
+feminine
+127085	
+127087	neuter
+
+127092	neuter
+masculine/neuter
+127095	
+feminine
+127100	neuter
+
+127105	
+masculine
+neuter
+127109	
+127111	neuter
+masculine
+
+
+127120	
+127125	feminine
+
+127129	
+127131	masculine
+
+127134	feminine
+masculine
+127142	
+127144	
+
+127149	
+127152	masculine
+127156	masculine
+127158	
+127162	neuter
+127165	neuter
+127167	
+127172	feminine
+127174	
+127176	neuter
+
+127179	neuter
+masculine
+127183	neuter
+
+127187	
+masculine/neuter
+masculine
+127191	
+neuter
+neuter
+
+127204	
+
+127209	feminine
+127217	
+127219	
+127225	
+neuter
+masculine
+127231	
+127234	
+127237	feminine
+
+
+127243	feminine
+127247	
+127251	feminine
+127256	
+127258	feminine
+127260	masculine/neuter
+127264	masculine
+feminine
+127269	masculine/neuter
+127272	neuter
+127274	masculine/feminine/neuter
+
+127279	
+
+feminine
+
+127286	masculine
+127292	masculine/neuter
+feminine
+neuter
+127297	neuter
+127302	masculine/neuter
+127304	feminine
+127307	
+feminine
+
+127313	
+127317	feminine
+feminine
+127320	
+127322	feminine
+masculine
+
+masculine
+127328	neuter
+
+
+127335	masculine/feminine
+masculine/feminine
+127338	masculine/neuter
+127340	
+masculine
+feminine
+127344	masculine
+
+127347	
+
+
+127352	
+127362	
+127367	
+127370	feminine
+127374	
+127376	neuter
+127378	masculine
+masculine/feminine
+127382	feminine
+feminine
+127385	neuter
+
+
+
+feminine
+127391	feminine
+
+
+127396	feminine
+127414	feminine
+127416	
+127418	masculine
+127421	
+127424	neuter
+127427	
+
+127430	neuter
+127433	
+127435	masculine
+masculine
+127444	feminine
+127448	
+127450	
+
+feminine
+neuter
+masculine/neuter
+masculine/feminine
+127457	feminine
+127459	
+masculine
+127464	feminine
+127467	
+masculine
+127472	
+masculine
+127480	
+masculine
+127483	masculine
+masculine
+
+
+127488	
+127492	masculine
+masculine/neuter
+127499	
+
+feminine
+127504	masculine
+masculine
+127508	masculine
+
+127511	
+127513	
+127516	feminine
+127520	
+127523	
+masculine/neuter
+127528	
+
+masculine
+127537	feminine
+127540	
+feminine
+masculine
+
+127545	
+127549	
+127551	
+
+masculine/neuter
+feminine
+127556	
+127563	masculine
+masculine/neuter
+127566	masculine
+127568	
+127570	feminine
+127574	neuter
+
+masculine
+127594	feminine
+
+
+127599	
+masculine
+
+127604	feminine
+
+127609	
+
+127615	feminine
+127618	feminine
+127620	masculine/feminine
+127626	
+127635	masculine
+127640	
+127646	masculine
+127649	neuter
+127652	neuter
+127654	
+
+127658	
+127660	
+masculine
+127668	
+
+
+masculine
+masculine
+127675	feminine
+127678	
+127680	feminine
+127683	
+feminine
+127686	feminine
+
+
+127693	
+127695	
+
+127701	
+
+127704	
+127709	
+masculine
+127713	
+masculine
+
+127717	
+masculine/neuter
+127727	masculine
+127729	neuter
+feminine
+127734	masculine
+127736	feminine
+masculine
+masculine
+127740	masculine
+masculine
+127743	feminine
+127745	neuter
+127747	
+
+
+127760	masculine
+
+127763	masculine
+
+127767	
+
+127770	
+127773	
+127776	
+127782	feminine
+127789	neuter
+127793	
+127795	
+127797	
+127800	
+127802	
+feminine
+127808	feminine
+
+127812	
+127814	feminine
+127826	
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+
+
+
+127835	
+
+
+127840	
+127842	feminine
+
+127848	
+masculine
+masculine
+127862	masculine/neuter
+feminine
+
+127866	
+127869	
+
+
+127875	masculine
+
+masculine/neuter
+masculine/neuter
+masculine
+masculine/neuter
+
+
+neuter
+127887	
+127889	
+127895	
+
+127904	masculine
+feminine
+
+127909	
+feminine
+127913	
+masculine
+127916	
+
+127919	
+feminine
+127922	
+127924	masculine/neuter
+feminine
+masculine
+masculine/neuter
+
+masculine/neuter
+masculine/neuter
+
+127935	neuter
+127938	
+127943	
+127947	feminine
+127949	masculine
+masculine/neuter
+127954	neuter
+127956	
+127958	
+
+feminine
+
+127963	
+neuter
+127968	feminine
+
+127971	
+
+127974	
+127980	
+
+127985	masculine
+masculine/neuter
+feminine
+127989	masculine/feminine
+neuter
+127993	masculine
+127996	
+128001	feminine
+
+128004	feminine
+neuter
+128012	
+128014	
+128016	feminine
+128018	
+128020	
+128022	neuter
+128025	neuter
+
+128028	neuter
+128034	neuter
+feminine
+masculine
+
+128039	
+128042	masculine
+masculine/neuter
+neuter
+masculine/feminine
+neuter
+128048	neuter
+128051	feminine
+128053	neuter
+masculine
+128056	feminine
+128059	
+
+feminine
+128064	feminine
+128067	neuter
+masculine/neuter
+
+
+128072	
+128074	
+feminine
+feminine
+128078	
+
+128081	feminine
+
+128084	feminine
+
+128089	
+128094	feminine
+
+128108	
+128113	
+feminine
+
+128118	
+feminine
+128123	neuter
+128126	
+
+masculine
+neuter
+128131	neuter
+128134	neuter
+
+128137	neuter
+128139	neuter
+128143	neuter
+128145	masculine/neuter
+128148	
+128150	feminine
+128152	feminine
+128154	
+
+masculine
+128158	
+128164	feminine
+128167	
+
+128172	masculine
+128174	
+128176	
+128179	feminine
+128182	
+128186	
+128188	feminine
+128191	neuter
+
+128195	neuter
+128198	
+
+neuter
+128202	
+feminine
+128205	
+
+128208	
+128211	
+128214	
+128217	
+128219	feminine
+128227	
+128232	masculine
+128235	
+128238	masculine
+masculine/feminine
+128241	
+128243	neuter
+128251	feminine
+128254	
+128256	feminine
+128258	feminine
+
+masculine
+masculine
+
+neuter
+128265	masculine
+128267	
+
+128272	masculine
+128274	
+masculine/feminine
+128277	
+
+128282	feminine
+
+
+
+
+neuter
+128290	
+
+128293	feminine
+128295	
+128300	
+128302	
+128308	feminine
+128310	
+
+neuter
+128315	
+128317	feminine
+
+feminine
+
+128327	
+
+128333	masculine
+
+128337	masculine
+masculine
+masculine
+128342	neuter
+masculine
+128345	neuter
+128348	neuter
+neuter
+128354	
+neuter
+128357	
+128363	
+128366	
+
+128369	
+masculine
+neuter
+128373	feminine
+128376	feminine
+
+128379	feminine
+128388	masculine
+128393	feminine
+128398	masculine
+128401	masculine
+128407	masculine
+
+128410	feminine
+masculine
+feminine
+128415	
+
+
+
+128420	
+128422	feminine
+neuter
+feminine
+
+neuter
+feminine
+128431	
+128433	feminine
+
+neuter
+masculine
+
+128441	masculine
+128443	masculine
+
+feminine
+128447	masculine/neuter
+128454	masculine/neuter
+128456	
+128458	
+
+
+128462	
+128464	masculine
+128469	
+128473	masculine/feminine
+128476	
+128479	feminine
+128486	
+
+
+
+
+128492	
+masculine/neuter
+128495	feminine
+
+128499	
+128502	masculine
+128504	feminine
+feminine
+128507	neuter
+
+128512	masculine
+128514	
+128516	masculine
+masculine/neuter
+128519	
+128522	neuter
+128525	
+128527	
+
+128530	feminine
+128534	feminine
+masculine
+128537	neuter
+
+128544	
+128546	
+
+
+128553	
+
+128559	
+
+128562	
+
+feminine
+
+
+128568	
+feminine
+feminine
+neuter
+feminine
+
+neuter
+masculine
+128577	neuter
+128584	
+masculine/neuter
+128591	
+128593	
+128599	masculine/neuter
+128605	
+
+masculine
+
+masculine
+128611	masculine
+feminine
+128615	
+128618	neuter
+128620	
+masculine/neuter
+
+128629	feminine
+
+128634	
+128637	masculine
+128642	neuter
+
+128649	
+128651	
+neuter
+masculine
+128658	
+
+
+
+feminine
+
+
+128666	
+128668	feminine
+neuter
+feminine
+
+neuter
+
+128680	
+128682	
+128684	neuter
+128686	
+masculine
+128689	masculine
+128700	
+128704	neuter
+masculine/feminine
+128707	neuter
+128713	
+128715	neuter
+masculine
+
+128719	
+
+
+feminine
+
+
+128732	
+128736	masculine
+128738	
+128743	
+128745	
+128753	masculine
+masculine
+128756	
+128760	masculine
+128763	
+128765	feminine
+
+128769	
+128772	neuter
+
+128779	
+128781	
+
+
+128786	
+128788	
+128800	
+128805	
+128807	neuter
+128809	feminine
+
+
+128813	
+128815	feminine
+neuter
+feminine
+
+neuter
+128821	
+
+neuter
+
+128827	
+
+128832	masculine
+128834	
+masculine/feminine
+128837	
+masculine/neuter
+feminine
+128843	
+128849	
+128853	masculine/neuter
+128855	feminine
+128857	masculine/neuter
+feminine
+feminine
+neuter
+128862	masculine/neuter
+
+
+
+
+
+128872	feminine
+feminine
+128879	
+128882	
+
+128892	
+128896	
+128901	
+128904	
+
+128911	
+128914	neuter
+128916	
+128922	feminine
+128926	
+128930	
+feminine
+
+
+128936	neuter
+masculine
+128940	
+128943	
+128945	
+feminine
+128948	masculine/neuter
+
+128951	
+128955	
+128966	feminine
+feminine
+
+masculine
+
+
+128975	feminine
+128980	
+128983	
+
+
+feminine
+neuter
+masculine
+128990	neuter
+128994	feminine
+128999	
+129006	
+129009	
+feminine
+feminine
+feminine
+feminine
+129015	
+masculine
+129018	neuter
+
+129029	neuter
+
+129036	
+129038	
+feminine
+
+
+129043	
+129045	feminine
+neuter
+feminine
+
+neuter
+
+feminine
+129054	
+
+129060	
+masculine/neuter
+feminine
+129064	
+129066	
+
+
+129071	
+129075	neuter
+feminine
+feminine
+feminine
+129084	masculine/neuter
+129086	feminine
+masculine
+
+
+129093	
+129098	
+129100	masculine
+neuter
+129105	
+
+129112	feminine
+
+
+129116	masculine
+
+
+feminine
+129121	
+129123	feminine
+129126	feminine
+129128	masculine
+129130	
+129132	
+
+masculine
+
+
+
+neuter
+masculine
+129142	
+129144	masculine
+129148	
+129151	
+129158	
+129161	
+masculine
+
+129167	masculine
+129169	masculine
+
+neuter
+
+129178	
+129180	
+feminine
+
+
+129185	
+129187	feminine
+neuter
+feminine
+
+neuter
+neuter
+neuter
+129195	neuter
+
+129200	neuter
+129204	
+129206	masculine
+129209	
+
+masculine/neuter
+feminine
+129214	
+129216	masculine
+masculine/neuter
+
+129222	masculine
+
+129225	
+feminine
+
+129240	
+
+129244	masculine
+
+masculine
+129248	masculine/neuter
+129254	
+
+129257	
+
+129261	
+129263	
+masculine
+129266	masculine
+masculine/neuter
+129270	
+129273	masculine
+
+129281	masculine
+masculine
+
+129286	
+
+129295	
+
+129304	
+129306	
+129309	
+129312	masculine/neuter
+neuter
+masculine
+
+129318	
+
+129321	
+
+129325	
+129328	
+129331	
+129336	
+
+129344	
+
+129348	
+129350	feminine
+129353	
+
+129356	
+
+129364	
+neuter
+
+129372	
+129374	
+feminine
+
+
+129379	
+129381	feminine
+neuter
+feminine
+
+neuter
+feminine
+neuter
+masculine/feminine
+neuter
+129393	feminine
+129397	
+
+
+masculine/neuter
+feminine
+129403	
+129406	
+129409	masculine
+129412	
+129415	
+129417	
+129423	feminine
+masculine
+
+129427	
+129430	
+masculine
+
+129440	
+129443	
+
+129446	
+neuter
+129457	
+masculine
+
+129461	
+neuter
+129470	feminine
+129472	
+129476	feminine
+129480	masculine/neuter
+129483	
+129486	masculine/neuter
+129491	neuter
+
+masculine
+129499	masculine
+
+129504	
+129507	neuter
+129509	
+129511	
+129514	
+129516	
+129521	
+129523	
+129527	
+neuter
+masculine
+129534	
+
+
+129539	
+masculine
+129545	
+129548	
+
+129551	
+neuter
+
+129559	
+129561	
+129566	
+
+129569	
+
+129573	feminine
+
+feminine
+feminine
+129579	
+129583	
+masculine
+
+129588	
+masculine
+feminine
+
+129595	
+129597	
+129600	
+129603	
+
+129612	neuter
+129614	masculine/feminine
+feminine
+
+129621	feminine
+129623	
+129625	masculine/feminine
+feminine
+129630	
+129633	masculine/neuter
+129639	masculine/neuter
+129644	
+129646	masculine
+129651	feminine
+
+masculine
+129656	
+129663	masculine
+129669	masculine
+
+129672	feminine
+
+feminine
+129677	
+
+129680	masculine
+
+129683	
+129686	neuter
+129689	
+129691	
+129695	
+129698	feminine
+129703	
+129708	neuter
+neuter
+129715	neuter
+129721	
+129724	
+
+129730	neuter
+129734	feminine
+129736	feminine
+neuter
+129739	neuter
+masculine
+
+masculine
+129748	
+129754	feminine
+129757	masculine
+masculine/feminine/neuter
+neuter
+neuter
+masculine
+neuter
+129764	neuter
+129766	neuter
+
+129769	neuter
+129772	neuter
+129774	feminine
+129776	masculine/neuter
+feminine
+feminine
+
+129781	
+129784	
+129787	
+129789	
+
+
+129797	masculine
+masculine/neuter
+129801	masculine
+
+129805	
+129808	
+
+
+
+129817	masculine/neuter
+129819	
+feminine
+masculine
+
+129824	masculine
+masculine
+
+neuter
+masculine
+129830	neuter
+129832	masculine/neuter
+129835	
+129838	
+129842	
+129844	
+feminine
+neuter
+129848	feminine
+129850	feminine
+masculine/neuter
+
+129854	
+feminine
+129859	masculine
+
+129863	
+129869	
+129878	
+
+129883	
+129887	
+129890	
+129894	
+
+129897	
+129901	
+
+129905	
+129914	
+129918	
+129929	
+129931	masculine
+129933	
+
+neuter
+masculine
+neuter
+129941	masculine
+feminine
+129945	
+129952	
+feminine
+129955	
+129957	
+129962	feminine
+129964	
+129970	
+129972	
+129978	masculine/feminine
+
+feminine
+129983	
+
+129986	
+feminine
+129993	
+129996	feminine
+
+130000	
+130002	feminine
+
+130007	feminine
+130009	feminine
+130011	masculine
+masculine/neuter
+130015	
+masculine
+
+130023	masculine
+130025	feminine
+130028	
+feminine
+130032	masculine/feminine/neuter
+130035	
+
+masculine
+masculine
+
+130044	
+130047	
+
+130052	
+
+
+
+130057	masculine/neuter
+130062	feminine
+130068	
+130070	
+
+masculine/neuter
+feminine
+130077	
+130086	masculine
+130089	
+130093	feminine
+130098	
+neuter
+130101	feminine
+130107	masculine
+
+130110	masculine
+130126	
+130128	
+130132	neuter
+130135	
+
+130143	
+130149	masculine
+130152	feminine
+
+130155	neuter
+130157	masculine
+
+130161	
+130164	
+130166	feminine
+130169	feminine
+
+130172	feminine
+
+130177	
+130183	feminine
+130185	feminine
+
+feminine
+130189	masculine
+130191	
+130193	
+feminine
+130196	
+130211	feminine
+masculine/neuter
+
+
+
+130220	
+130224	neuter
+130228	
+130236	masculine
+130239	
+feminine
+
+130248	
+
+
+masculine/neuter
+130259	
+130274	
+130280	feminine
+
+130286	
+130288	
+
+
+masculine/neuter
+130296	
+130298	feminine
+130300	neuter
+130304	
+masculine
+
+130309	
+130312	
+130314	
+130318	feminine
+feminine
+130321	
+130324	masculine/feminine
+130326	neuter
+130330	neuter
+130336	feminine
+
+130345	
+130347	
+masculine/neuter
+130353	
+130357	neuter
+130359	
+
+130363	neuter
+130366	neuter
+masculine
+130370	
+130374	neuter
+130380	
+
+130384	
+130387	
+130392	neuter
+130395	feminine
+
+130402	
+
+130406	
+130409	feminine
+130412	
+
+130415	feminine
+130421	
+
+130424	masculine
+feminine
+
+neuter
+
+neuter
+neuter
+130434	
+130436	
+130439	masculine/neuter
+130442	
+130459	masculine
+feminine
+130463	masculine
+
+feminine
+130467	masculine
+130469	feminine
+masculine
+130473	
+130476	feminine
+130478	
+130483	feminine
+130489	neuter
+130492	feminine
+
+130497	feminine
+130499	
+130501	
+130504	masculine
+130506	
+
+
+
+130512	
+130514	feminine
+130519	
+130523	neuter
+130526	
+130530	neuter
+130536	masculine
+feminine
+130540	masculine
+masculine
+130545	masculine
+130548	masculine
+130551	masculine
+130554	masculine
+
+130561	
+130563	
+feminine
+130567	
+130569	feminine
+130571	masculine
+130573	
+130581	feminine
+130584	feminine
+130586	
+
+130590	
+130595	
+
+130598	
+130600	feminine
+neuter
+feminine
+130605	
+feminine
+130609	masculine
+130620	
+130626	
+130631	
+130639	masculine
+130642	neuter
+130651	
+130654	
+130657	
+
+130661	
+130666	
+130672	masculine
+masculine
+130681	feminine
+neuter
+130686	
+
+
+masculine/neuter
+130692	masculine
+feminine
+feminine
+130708	
+130712	masculine
+130776	
+130780	
+130788	masculine
+130792	feminine
+130794	masculine
+
+130798	masculine
+
+130802	feminine
+feminine
+130806	
+130809	feminine
+130812	
+130814	masculine
+
+neuter
+
+
+masculine/neuter
+
+130823	
+130826	
+130830	masculine
+130834	
+130842	feminine
+130844	
+masculine
+
+130849	feminine
+
+feminine
+130853	
+
+
+masculine
+feminine
+feminine
+130861	feminine
+
+130864	feminine
+130867	feminine
+130870	feminine
+
+130873	feminine
+130876	feminine
+130878	
+
+masculine/neuter
+
+130886	feminine
+feminine
+
+130893	masculine
+130896	masculine
+130899	feminine
+130901	feminine
+
+
+130905	
+130910	masculine
+130913	
+130915	
+130918	
+masculine
+130929	feminine
+feminine
+130934	
+
+130937	
+130939	feminine
+130941	
+masculine
+
+130945	
+
+130950	feminine
+130953	
+
+130956	
+130958	neuter
+130961	
+130963	
+130967	
+130969	
+
+130972	
+130977	neuter
+130979	
+neuter
+130982	
+130986	masculine
+130988	
+130993	
+130997	feminine
+neuter
+131000	
+neuter
+131003	neuter
+masculine
+131008	feminine
+feminine
+131017	neuter
+
+
+131021	
+131028	masculine/feminine
+masculine
+
+
+131038	feminine
+131045	
+131047	
+131049	
+131054	feminine
+131056	
+131060	masculine/feminine/neuter
+131064	masculine
+131066	
+131068	masculine
+
+131073	neuter
+131080	masculine/feminine/neuter
+131083	
+131085	masculine
+
+
+131089	
+neuter
+131098	
+131100	
+131104	
+131109	masculine
+131116	feminine
+masculine
+131120	masculine
+131129	feminine
+neuter
+masculine
+131135	
+131138	neuter
+
+131143	
+131156	
+131163	feminine
+neuter
+131169	
+131175	
+131183	masculine
+131192	
+131195	feminine
+131197	
+131204	feminine
+neuter
+131210	
+131212	
+
+131217	
+feminine
+131220	
+131225	masculine
+131229	feminine
+131231	neuter
+131235	
+131237	
+neuter
+131245	neuter
+
+131255	neuter
+
+131258	feminine
+neuter
+131267	
+
+131278	masculine
+131283	feminine
+131285	feminine
+neuter
+131288	
+131293	feminine
+131295	masculine
+feminine
+131303	
+131305	masculine/neuter
+
+131318	masculine
+masculine
+131323	masculine
+masculine
+131328	feminine
+neuter
+131337	
+
+131340	
+131346	feminine
+131348	
+131362	
+131364	
+131370	neuter
+131373	neuter
+131376	
+
+
+131382	
+
+131386	
+131392	neuter
+
+131395	
+masculine
+
+131405	
+131410	
+neuter
+131413	
+neuter
+131416	
+131419	feminine
+131425	
+
+131429	masculine
+131440	feminine
+131443	neuter
+131445	masculine
+
+131448	
+131450	
+131453	
+131457	
+masculine
+feminine
+131465	masculine/neuter
+131468	
+131472	neuter
+131475	feminine
+131477	feminine
+131481	masculine/feminine
+131484	
+131490	masculine
+
+
+masculine/feminine
+131496	feminine
+
+masculine
+
+
+131505	
+131507	masculine
+131509	masculine
+masculine
+masculine
+
+131514	
+131518	
+131520	masculine
+131522	feminine
+
+131525	masculine
+masculine
+
+
+131533	
+131537	masculine
+feminine
+
+131543	
+131546	masculine
+feminine
+neuter
+masculine
+
+131552	feminine
+feminine
+131557	masculine
+131568	
+131572	
+masculine
+
+131576	feminine
+131579	
+131586	feminine
+neuter
+131598	neuter
+
+131601	
+
+
+masculine
+
+
+masculine
+
+131610	
+neuter
+
+131615	neuter
+131622	
+131624	
+131629	masculine
+131632	masculine
+131634	
+131636	
+131638	feminine
+131640	feminine
+131650	neuter
+131654	
+131661	masculine
+131667	
+131669	feminine
+131674	feminine
+131683	feminine
+131687	
+131694	feminine
+131700	neuter
+131703	masculine
+131712	
+131715	
+
+131718	
+
+
+131725	feminine
+feminine
+131728	neuter
+131731	
+
+131734	feminine
+131737	
+131740	feminine
+feminine
+131744	feminine
+feminine
+131750	
+131754	masculine
+131758	masculine/feminine
+131761	
+131765	
+131771	masculine
+feminine
+131775	
+feminine
+neuter
+131779	feminine
+131781	feminine
+131784	feminine
+feminine
+131787	feminine
+neuter
+131790	feminine
+feminine
+131793	feminine
+feminine
+feminine
+131808	feminine
+feminine
+131813	masculine
+feminine
+131819	feminine
+131824	feminine
+feminine
+131832	
+
+131837	feminine
+feminine
+131842	
+131846	
+
+neuter
+131851	masculine
+131853	
+
+
+131858	
+
+131862	
+131869	
+131871	masculine
+131874	masculine
+131882	
+
+131886	masculine
+masculine
+131889	
+
+131892	feminine
+131894	masculine
+131896	masculine
+masculine
+feminine
+
+131901	feminine
+131903	masculine
+131910	
+
+feminine
+neuter
+feminine
+131916	feminine
+131918	masculine
+131921	feminine
+131923	feminine
+neuter
+131931	masculine
+131939	
+131941	masculine
+
+131947	
+
+
+
+131956	
+131960	feminine
+
+131967	feminine
+
+131974	feminine
+
+131977	
+131982	
+131986	
+
+131991	
+131997	
+
+
+132003	
+132005	
+feminine
+feminine
+
+132012	
+
+132017	
+132019	feminine
+
+
+132026	
+132029	
+132031	
+132035	masculine
+132045	masculine
+132052	
+132054	
+132060	masculine/neuter
+132064	
+
+132067	masculine/neuter
+132070	
+132079	
+132085	
+
+
+132090	
+132094	
+132098	feminine
+132102	
+132104	
+masculine
+132107	
+132109	
+132113	feminine
+132117	feminine
+132121	masculine/feminine
+132123	masculine
+
+132126	neuter
+132129	
+
+132133	masculine
+132136	masculine
+
+132144	
+
+132152	
+132160	masculine
+
+feminine
+132168	masculine/feminine/neuter
+132172	
+feminine
+feminine
+132180	
+feminine
+132183	
+132185	feminine
+132187	masculine
+feminine
+masculine
+
+masculine/neuter
+132196	
+132200	
+132204	
+132206	feminine
+132211	feminine
+132213	
+132215	
+132217	
+132219	
+132225	
+
+132232	
+132234	feminine
+132237	feminine
+132239	
+132243	neuter
+132245	feminine
+
+132249	
+132252	
+
+
+132256	neuter
+132263	feminine
+132265	masculine
+132267	
+132271	
+132273	feminine
+132276	
+132284	feminine
+132287	feminine
+132300	neuter
+masculine
+feminine
+132310	masculine
+132312	feminine
+132317	feminine
+feminine
+masculine/feminine
+132323	feminine
+132325	feminine
+132327	
+132329	
+feminine
+132332	masculine
+132344	
+132346	
+132348	masculine
+132350	
+132360	masculine/feminine
+feminine
+132367	
+
+132370	
+132377	feminine
+132381	
+132388	
+132391	
+
+feminine
+132395	
+132399	
+132402	
+132408	masculine
+132410	feminine
+feminine
+
+132421	
+132424	
+132427	
+
+132435	masculine
+132437	
+132441	
+
+
+
+
+
+132448	feminine
+neuter
+132451	
+feminine
+132454	feminine
+
+132458	feminine
+neuter
+132466	feminine
+
+
+132470	masculine
+132472	feminine
+feminine
+
+
+
+masculine/neuter
+masculine/neuter
+132480	
+masculine/neuter
+
+132484	
+
+132491	masculine
+masculine/neuter
+132495	masculine
+masculine
+
+
+132503	feminine
+
+132506	feminine
+
+feminine
+132510	
+
+
+masculine
+132515	masculine
+masculine
+neuter
+132519	neuter
+132521	neuter
+132524	neuter
+
+
+132530	masculine/neuter
+132536	feminine
+132541	feminine
+
+masculine/neuter
+132545	neuter
+132548	feminine
+132555	
+masculine/neuter
+132567	masculine/neuter
+132574	
+132581	neuter
+feminine
+
+
+neuter
+
+
+132591	feminine
+132595	
+
+
+132599	
+132606	masculine
+132610	
+132612	feminine
+132616	
+
+132624	feminine
+132626	
+132628	masculine
+132636	masculine
+132639	
+132652	
+
+132656	
+feminine
+132660	
+132665	
+132670	
+132674	feminine
+neuter
+
+
+132681	masculine
+
+
+132687	
+132691	neuter
+feminine
+
+masculine
+132702	
+132706	
+132710	
+132714	neuter
+feminine
+132717	
+132727	masculine
+132732	
+132734	feminine
+132736	
+
+132739	masculine
+132741	
+132746	
+
+132752	feminine
+feminine
+132756	feminine
+132759	
+
+132762	neuter
+132765	masculine
+132767	
+
+
+132771	
+132774	neuter
+feminine
+132778	masculine
+132780	
+132783	neuter
+
+132787	feminine
+132789	
+
+132794	neuter
+feminine
+neuter
+132798	neuter
+132800	neuter
+132802	neuter
+132806	neuter
+masculine
+neuter
+masculine
+132812	
+132814	
+132818	masculine
+132820	
+132822	
+132828	
+
+132831	feminine
+132834	feminine
+neuter
+132837	feminine
+132840	feminine
+feminine
+
+
+masculine/neuter
+132846	feminine
+neuter
+
+masculine/neuter
+
+
+132853	neuter
+132857	masculine/neuter
+neuter
+masculine/feminine/neuter
+132861	masculine
+
+
+masculine/neuter
+feminine
+132870	
+132872	feminine
+132875	
+132878	feminine
+132883	feminine
+132888	
+feminine
+132891	
+feminine
+132894	
+
+132897	masculine
+
+132900	masculine
+132907	
+132909	neuter
+132912	feminine
+
+neuter
+132917	
+132920	
+feminine
+
+132924	neuter
+feminine
+
+132928	
+132942	feminine
+132945	
+132947	
+132950	
+
+132953	masculine
+
+132963	
+132966	
+132968	
+
+132973	neuter
+132976	
+132978	
+
+132983	
+132988	
+132991	feminine
+132997	feminine
+133003	
+133008	neuter
+feminine
+133011	
+133013	
+133016	neuter
+feminine
+133023	
+133027	masculine
+
+133034	masculine
+
+
+133041	masculine
+133046	neuter
+133048	masculine
+feminine
+133053	masculine
+masculine
+
+
+133058	
+133065	neuter
+
+
+133073	
+133078	masculine
+133081	
+neuter
+feminine
+133085	masculine
+133087	
+
+
+133093	
+
+133100	neuter
+feminine
+133104	
+133108	
+133110	
+133116	masculine
+
+
+133120	
+133123	feminine
+
+
+
+
+133131	
+feminine
+133134	
+
+
+133138	
+
+feminine
+
+133144	
+
+133148	
+
+133151	masculine
+133153	masculine/feminine
+
+133158	masculine
+
+133161	
+133166	
+neuter
+133173	neuter
+
+feminine
+133182	
+
+133187	masculine
+
+133191	
+133194	
+
+133197	
+
+133200	masculine
+133204	
+133208	masculine/feminine/neuter
+133210	
+133215	neuter
+133217	feminine
+133222	feminine
+133226	
+133229	masculine
+133234	
+133239	
+
+
+133245	
+133247	
+133250	masculine
+
+
+133254	
+133257	
+133259	
+133261	
+133263	
+
+133266	
+133269	
+133271	
+133276	feminine
+133279	feminine
+133282	masculine/feminine/neuter
+feminine
+133286	masculine
+
+133295	neuter
+133299	
+feminine
+133303	
+
+masculine/neuter
+
+feminine
+
+masculine
+
+133312	
+133317	
+133321	
+133323	masculine
+133325	neuter
+
+133328	feminine
+
+
+
+
+133334	
+feminine
+neuter
+133340	
+133342	
+
+133345	
+133348	masculine
+133352	
+133358	feminine
+feminine
+feminine
+feminine
+133364	
+masculine
+
+
+masculine
+133370	
+133374	
+133376	
+133379	
+133381	
+133393	
+
+133397	
+feminine
+masculine
+
+
+133403	
+133406	neuter
+133408	
+133411	
+
+133415	
+133430	
+133433	
+133437	feminine
+133441	feminine
+133443	feminine
+
+133448	feminine
+133453	
+
+
+
+
+133459	neuter
+
+133462	feminine
+133465	
+
+
+133470	
+133472	
+133474	feminine
+133477	neuter
+
+masculine
+133483	
+
+133487	
+133490	neuter
+133492	
+133496	feminine
+133499	
+133506	neuter
+133509	
+133517	
+133521	
+133523	
+133527	masculine
+feminine
+133533	
+
+
+133537	neuter
+133540	
+133542	
+133545	feminine
+
+133549	
+133552	
+133555	feminine
+133558	
+
+masculine
+
+133564	masculine
+133567	feminine
+133576	
+
+133579	feminine
+133584	masculine
+133590	
+masculine/feminine
+133593	masculine
+133596	
+133598	
+133600	masculine
+133602	
+133605	
+
+133613	
+
+133616	
+133619	
+
+133622	feminine
+133627	
+feminine
+133633	
+133636	masculine
+masculine
+133647	neuter
+133652	feminine
+133655	masculine
+
+
+133661	masculine
+133663	
+133665	
+
+133668	feminine
+
+133672	
+133674	
+
+133685	feminine
+neuter
+feminine
+133692	masculine
+
+
+133696	feminine
+133698	
+133700	
+
+
+neuter
+133707	
+neuter
+feminine
+133711	feminine
+133717	masculine
+
+
+133721	
+133723	
+133725	masculine
+133729	
+133732	feminine
+133734	
+
+
+
+133741	
+133746	
+
+
+neuter
+
+
+
+133754	
+
+
+133759	
+
+133763	
+133766	
+masculine
+masculine
+masculine/feminine/neuter
+133771	masculine
+
+133775	neuter
+133777	
+133779	feminine
+
+133788	feminine
+133791	masculine
+masculine
+133794	masculine
+133798	
+133800	
+133804	feminine
+
+133807	
+133809	feminine
+133812	masculine/feminine/neuter
+133814	masculine
+133817	masculine
+
+
+133823	masculine
+feminine
+133826	
+133828	
+
+feminine
+neuter
+masculine/feminine
+masculine
+
+masculine
+
+masculine/neuter
+133840	
+
+133848	
+feminine
+feminine
+133853	feminine
+
+133856	feminine
+feminine
+133860	
+133868	masculine/feminine
+133870	
+
+133875	
+133877	
+133879	
+133882	
+133885	feminine
+133890	
+
+133893	
+
+133896	
+133901	neuter
+133904	masculine/neuter
+133906	neuter
+
+133909	feminine
+
+
+
+133914	neuter
+133920	neuter
+133927	
+133933	feminine
+133935	feminine
+133940	
+
+
+
+
+133946	
+133951	feminine
+133956	
+133958	neuter
+
+
+133962	
+133966	
+133968	
+133974	masculine
+neuter
+masculine/neuter
+133982	neuter
+133986	
+133989	
+133991	feminine
+feminine
+133996	neuter
+134000	
+
+134005	
+134007	masculine
+134012	
+134015	
+neuter
+
+
+134022	
+feminine
+134036	masculine
+134040	masculine/neuter
+feminine
+134043	feminine
+134047	
+
+134056	feminine
+134059	
+
+
+134064	neuter
+neuter
+
+
+feminine
+134070	
+134073	feminine
+134079	
+
+134085	
+134088	
+
+
+134092	
+134101	
+
+134106	
+masculine
+
+
+
+
+134114	
+
+134117	masculine
+neuter
+134120	feminine
+feminine
+134123	masculine/neuter
+masculine
+neuter
+134127	neuter
+134129	feminine
+134132	feminine
+
+masculine/neuter
+neuter
+134143	masculine
+134145	
+134148	masculine/neuter
+
+134152	
+neuter
+feminine
+134156	
+134158	
+masculine
+masculine/neuter
+
+feminine
+134164	masculine/neuter
+134166	feminine
+134172	neuter
+feminine
+134175	
+
+134178	
+
+134183	masculine
+134186	masculine
+134190	feminine
+134192	
+
+134201	feminine
+134206	neuter
+134210	feminine
+134216	masculine
+134218	feminine
+
+neuter
+
+
+
+134225	
+134232	neuter
+feminine
+
+134237	
+
+
+134244	
+134249	
+134254	feminine
+134259	masculine
+feminine
+134263	
+134265	
+
+feminine
+134271	
+134273	
+134276	masculine
+
+neuter
+
+
+
+134284	feminine
+134286	neuter
+masculine
+134289	
+134291	
+
+
+134301	masculine
+134304	feminine
+134308	feminine
+
+
+134313	masculine
+134316	
+feminine
+neuter
+134320	
+134322	
+
+
+134330	
+
+134333	feminine
+neuter
+134337	feminine
+
+134341	feminine
+neuter
+134344	
+134346	
+
+
+134350	
+134353	feminine
+134355	neuter
+134359	feminine
+134361	
+134364	neuter
+masculine/neuter
+masculine/feminine
+
+neuter
+134371	neuter
+
+neuter
+masculine/feminine
+
+134377	
+
+134380	masculine/feminine/neuter
+134382	masculine
+134389	
+
+feminine
+134393	
+134395	masculine/neuter
+
+masculine
+neuter
+134400	neuter
+134404	feminine
+feminine
+134407	masculine/neuter
+feminine
+neuter
+134411	
+134413	
+
+134421	
+134423	feminine
+
+134428	masculine
+feminine
+134436	
+
+
+134441	
+134444	feminine
+134451	
+feminine
+neuter
+134455	
+134457	
+
+134462	
+
+134466	feminine
+feminine
+
+134473	feminine
+feminine
+134476	
+
+134481	masculine
+
+
+134487	feminine
+134491	neuter
+feminine
+134499	feminine
+feminine
+neuter
+134503	
+134505	
+
+134517	
+134520	feminine
+134523	feminine
+134527	
+feminine
+134531	
+134533	
+134537	
+134539	
+
+134543	
+134545	
+134548	
+134550	
+134552	
+134555	masculine/feminine/neuter
+neuter
+feminine
+feminine
+134562	masculine
+134565	
+134568	
+134572	feminine
+134575	
+
+
+134579	
+134581	
+134584	neuter
+134588	feminine
+134590	
+134594	
+134599	
+134603	
+134607	masculine
+134610	feminine
+neuter
+134613	
+134615	
+
+134622	
+134625	
+
+134628	
+134630	feminine
+
+134638	masculine
+134647	
+134659	feminine
+134661	feminine
+134663	
+
+feminine
+134667	feminine
+feminine
+134671	
+134674	feminine
+134677	masculine
+
+
+134683	
+
+
+
+neuter
+134689	
+
+134692	feminine
+134694	
+134696	masculine
+134700	
+134702	
+neuter
+134706	
+
+134710	feminine
+134713	masculine
+feminine
+134716	masculine
+134719	
+134721	
+
+134725	feminine
+
+134728	feminine
+feminine
+134735	masculine
+134740	masculine
+134744	
+masculine
+134747	
+masculine
+134758	neuter
+134763	masculine
+masculine
+134768	
+masculine
+134774	
+
+134782	
+masculine
+
+134791	masculine
+134796	
+134801	
+134803	feminine
+134805	
+134807	neuter
+134814	
+
+134819	
+
+
+134825	
+134828	feminine
+134842	
+feminine
+
+134848	feminine
+134852	feminine
+134857	feminine
+134859	
+134862	masculine/feminine/neuter
+134865	
+134868	masculine
+masculine
+feminine
+134872	feminine
+134877	
+134879	neuter
+134881	neuter
+134885	
+masculine
+134892	
+
+
+134897	
+134903	feminine
+
+134907	masculine
+134910	
+134921	
+134923	
+134926	masculine
+134942	masculine
+
+134946	masculine
+
+
+134955	neuter
+134957	neuter
+
+134960	feminine
+134964	masculine
+
+134967	feminine
+134969	
+134971	masculine
+134973	masculine
+134975	
+masculine
+134978	
+neuter
+134982	neuter
+134988	
+134991	
+
+134995	masculine
+134997	
+135011	
+135013	
+135015	feminine
+
+135018	feminine
+135020	
+masculine
+
+135024	feminine
+135027	
+
+
+masculine
+135032	
+135035	
+
+135045	
+feminine
+
+135052	
+135054	
+135058	
+135060	
+masculine
+masculine/feminine/neuter
+135066	feminine
+135068	masculine
+135070	
+135073	
+135075	
+feminine
+
+135079	feminine
+135081	feminine
+135083	masculine/neuter
+feminine
+135086	
+
+135090	
+135094	feminine
+135096	feminine
+
+135099	feminine
+135103	masculine
+135105	
+135110	
+135116	
+135121	
+
+135124	neuter
+135128	
+135130	
+feminine
+
+135135	
+135137	
+135143	feminine
+feminine
+
+135149	masculine
+
+
+
+135154	feminine
+135159	feminine
+135161	feminine
+135163	feminine
+135165	feminine
+135168	feminine
+135178	
+
+135181	
+135184	feminine
+135189	
+
+135192	
+
+135195	
+masculine
+
+
+135200	feminine
+135204	masculine
+masculine/feminine/neuter
+135207	masculine
+135212	masculine
+135214	
+135218	
+135220	
+
+
+neuter
+135228	neuter
+feminine
+135232	masculine
+masculine
+135240	masculine
+
+135247	
+masculine
+135251	feminine
+135253	
+135256	
+
+feminine
+135260	neuter
+135263	
+135278	
+
+135282	feminine
+135285	
+
+135289	neuter
+135291	feminine
+135294	
+135296	
+135302	feminine
+neuter
+
+feminine
+135308	
+
+135315	
+feminine
+135322	
+135327	
+
+135330	
+135332	
+
+
+
+135337	feminine
+135344	
+feminine
+135347	
+135349	feminine
+
+feminine
+135360	
+135363	
+135365	masculine
+neuter
+135368	neuter
+135377	masculine
+masculine
+135381	masculine
+135397	feminine
+135400	
+135403	masculine
+135406	feminine
+135408	feminine
+135411	feminine
+135413	feminine
+neuter
+
+135419	feminine
+135421	masculine/neuter
+135423	masculine
+
+135427	
+135432	
+135435	feminine
+135440	
+135442	
+135444	
+
+135451	feminine
+135457	neuter
+135461	neuter
+135465	neuter
+135468	
+135471	masculine
+135473	neuter
+135475	
+135479	masculine/feminine
+135483	neuter
+135489	neuter
+135503	neuter
+135505	
+135508	feminine
+masculine
+masculine/neuter
+135512	
+135514	
+135517	
+135519	neuter
+feminine
+neuter
+135523	feminine
+feminine
+135527	
+135532	feminine
+masculine/neuter
+masculine
+
+135537	masculine
+135544	feminine
+135547	
+135553	masculine
+135556	feminine
+135558	feminine
+135560	feminine
+135564	neuter
+135569	
+135572	
+
+135576	
+135580	neuter
+135588	neuter
+135591	neuter
+135603	masculine
+135610	masculine
+135612	neuter
+135614	feminine
+135619	neuter
+135623	feminine
+135625	masculine
+135629	masculine
+135632	feminine
+135634	feminine
+135636	
+
+135640	masculine
+135642	feminine
+135644	
+135651	
+135655	
+135660	masculine
+135663	masculine
+135666	masculine
+
+
+
+neuter
+135674	masculine/neuter
+
+135677	feminine
+135683	
+135688	
+135691	masculine
+135696	feminine
+135705	
+135708	feminine
+135710	
+135716	
+masculine
+135727	
+masculine
+135731	
+
+135736	
+masculine
+135744	
+
+masculine
+135749	
+135756	
+masculine
+135759	
+masculine
+
+masculine/neuter
+
+masculine
+135768	
+
+135772	masculine/neuter
+135774	neuter
+feminine
+135778	
+135781	masculine
+135783	masculine/feminine/neuter
+135795	
+135798	
+135800	
+
+135803	masculine/neuter
+135805	feminine
+neuter
+135808	feminine
+
+135811	feminine
+135813	
+
+masculine/neuter
+
+135819	feminine
+feminine
+135822	
+
+
+135833	
+135842	feminine
+
+135852	neuter
+135856	
+135862	
+masculine
+135865	masculine
+masculine/neuter
+135869	feminine
+135871	feminine
+135873	
+
+
+
+135879	
+135881	masculine
+feminine
+135885	
+135887	
+135890	feminine
+
+
+
+masculine/neuter
+135896	masculine
+
+
+masculine
+135902	masculine
+135905	masculine
+masculine
+feminine
+135909	
+135911	
+135914	
+135916	neuter
+135919	
+135921	masculine/neuter
+
+masculine/neuter
+135925	
+135927	masculine
+neuter
+135930	masculine/neuter
+neuter
+135935	
+135939	
+135941	
+135943	neuter
+135945	
+135948	feminine
+135950	
+135957	
+135964	feminine
+135967	masculine/feminine/neuter
+135969	feminine
+
+135972	neuter
+masculine/feminine
+masculine
+
+135978	
+
+
+135984	
+135987	masculine
+
+135990	
+
+
+135997	masculine
+
+
+136002	
+136004	
+136007	masculine/neuter
+136012	masculine/neuter
+136017	masculine
+
+
+neuter
+feminine
+136023	neuter
+masculine
+136030	feminine
+136036	
+136040	neuter
+136049	
+136051	
+136053	
+masculine
+136057	
+136064	
+136066	feminine
+
+136073	
+136085	
+neuter
+136088	
+
+136091	feminine
+136093	feminine
+
+
+136101	neuter
+136104	masculine
+136108	
+136110	
+136115	
+136117	
+feminine
+136124	
+136129	
+136132	
+
+
+neuter
+136137	
+
+
+
+136143	
+136151	
+136155	masculine
+feminine
+masculine
+masculine/neuter
+feminine
+136161	feminine
+136164	
+
+
+136168	
+
+
+136172	masculine
+136175	
+136178	
+136181	
+
+136187	
+
+136191	
+feminine
+136194	
+masculine
+136197	
+masculine
+136200	
+136206	feminine
+136208	
+136210	feminine
+136213	feminine
+136215	masculine/neuter
+136218	feminine
+136221	masculine
+136224	masculine
+136228	feminine
+136230	feminine
+feminine
+
+136236	
+136239	
+
+136243	
+136245	
+136247	
+136249	masculine
+136252	
+neuter
+136255	neuter
+136257	feminine
+feminine
+masculine
+
+
+136267	feminine
+
+
+136272	masculine
+136275	
+136278	masculine
+136280	
+136283	
+136287	
+
+136290	masculine
+136293	
+136296	
+136299	
+
+136304	
+136306	
+136308	neuter
+feminine
+136314	masculine
+feminine
+feminine
+136321	
+
+136334	
+136338	neuter
+neuter
+136341	neuter
+136347	neuter
+masculine
+136352	feminine
+masculine
+136357	
+136361	
+136364	
+
+136368	
+136370	feminine
+136374	feminine
+feminine
+masculine
+136379	
+136382	masculine
+136384	feminine
+136397	
+136400	feminine
+136403	masculine
+136405	feminine
+136408	
+
+136413	
+136415	masculine
+
+136419	
+136424	feminine
+136432	feminine
+136438	
+masculine/neuter
+feminine
+masculine
+masculine
+136445	feminine
+136450	feminine
+feminine
+masculine
+136454	feminine
+136456	feminine
+feminine
+136460	neuter
+neuter
+
+136464	
+136466	feminine
+136468	feminine
+136471	neuter
+136475	
+
+136480	
+
+136483	
+masculine/neuter
+136486	
+136488	
+feminine
+feminine
+masculine
+feminine
+136495	feminine
+feminine
+masculine
+136499	neuter
+masculine
+136503	masculine
+
+136507	
+feminine
+136510	feminine
+
+136513	
+136523	
+136527	neuter
+136529	feminine
+
+feminine
+136534	masculine
+136545	
+136547	masculine/feminine/neuter
+136557	
+
+136563	neuter
+136565	neuter
+masculine
+136569	
+136572	
+136575	
+136579	masculine
+136581	neuter
+136585	feminine
+136588	
+136593	feminine
+136597	neuter
+136603	
+136605	
+
+
+feminine
+136611	neuter
+136621	
+136628	masculine
+
+136643	
+masculine
+
+136649	
+136652	
+feminine
+136655	feminine
+136658	feminine
+136661	
+136663	
+136666	neuter
+136669	neuter
+masculine
+136673	
+136675	
+136678	
+136680	
+feminine
+136683	feminine
+136685	neuter
+136688	neuter
+masculine
+136691	
+136694	
+136697	neuter
+136699	neuter
+136702	feminine
+136704	
+136707	
+136711	
+136718	
+136721	
+136723	feminine
+136726	
+136729	
+neuter
+136732	masculine
+136735	feminine
+feminine
+136740	feminine
+136749	masculine
+136751	
+136755	
+
+136758	
+
+136761	
+136764	
+136769	
+136772	
+136774	feminine
+
+feminine
+neuter
+
+
+136784	
+136786	feminine
+136789	
+
+136794	neuter
+136797	feminine
+136800	
+neuter
+masculine
+136806	feminine
+136808	neuter
+136822	
+feminine
+feminine
+136827	
+neuter
+136831	
+136833	
+feminine
+
+neuter
+136838	
+neuter
+
+136842	masculine
+
+
+136847	
+136849	
+136854	neuter
+136857	
+feminine
+136864	
+136869	
+
+136874	
+neuter
+masculine
+
+136880	
+136896	
+136900	neuter
+136906	neuter
+136909	feminine
+
+136912	
+136917	
+136920	neuter
+136922	neuter
+136924	feminine
+136930	masculine
+136935	masculine
+136942	
+136946	
+masculine
+136949	
+masculine
+136955	
+136960	
+136973	masculine
+136977	
+
+136980	
+
+136984	
+
+
+neuter
+136990	masculine/feminine
+
+136993	
+
+137008	
+137013	feminine
+feminine
+137018	masculine
+
+137024	masculine/feminine
+137027	masculine
+137029	masculine/feminine
+137032	
+137034	masculine/feminine
+137039	masculine/feminine
+137045	
+
+137050	feminine
+137056	
+137058	feminine
+neuter
+masculine
+137062	
+137066	
+137068	
+137080	feminine
+137095	
+137098	masculine/neuter
+137110	feminine
+137122	
+137127	feminine
+137129	
+137134	feminine
+137136	neuter
+137138	neuter
+137141	masculine
+
+
+137148	
+
+137151	neuter
+137153	neuter
+masculine
+137156	neuter
+137159	neuter
+137162	neuter
+137165	neuter
+137168	neuter
+137171	neuter
+137174	neuter
+137177	neuter
+137180	neuter
+137183	neuter
+137186	neuter
+137190	masculine
+137195	masculine
+137200	
+
+137205	feminine
+feminine
+137209	neuter
+137211	
+137213	masculine/feminine
+feminine
+137218	
+137220	neuter
+137222	masculine
+neuter
+137225	neuter
+137227	feminine
+137234	feminine
+137238	
+
+
+
+137247	feminine
+137249	
+
+
+137255	neuter
+137261	
+feminine
+137264	feminine
+
+137269	masculine
+masculine
+137275	
+feminine
+
+137280	masculine
+137286	feminine
+137293	masculine/neuter
+137295	
+137298	
+137301	
+137306	
+
+137309	neuter
+masculine
+137312	neuter
+masculine
+137317	
+137319	masculine
+137321	
+
+137326	
+137335	
+137337	neuter
+137339	
+137341	
+
+137344	
+137346	
+137349	feminine
+137352	
+
+137359	
+
+137362	
+feminine
+137365	
+137368	
+137370	feminine
+
+
+
+
+feminine
+137379	neuter
+137385	neuter
+137387	
+
+137390	
+137392	
+137396	masculine
+
+
+
+137405	
+137409	
+137412	masculine
+feminine
+137427	
+
+masculine
+neuter
+137432	
+137436	
+
+137442	feminine
+
+137446	masculine
+
+
+137452	neuter
+masculine
+neuter
+137457	neuter
+137459	masculine
+137463	
+
+137466	
+
+feminine
+
+137471	
+neuter
+137474	
+137478	neuter
+137481	
+137484	
+137487	masculine
+137489	neuter
+feminine
+137495	
+137500	
+137503	masculine
+
+137506	
+137511	
+137513	
+137516	masculine/neuter
+137521	masculine/neuter
+137523	masculine
+137528	
+
+137532	
+
+neuter
+feminine
+
+137538	masculine
+137541	
+137544	
+137547	neuter
+137552	neuter
+137557	neuter
+137562	neuter
+137568	neuter
+neuter
+137572	
+137576	neuter
+137580	
+137583	
+137585	masculine
+137587	
+137590	neuter
+137593	
+neuter
+masculine
+137597	neuter
+137599	feminine
+137604	
+masculine
+137608	feminine
+feminine
+137612	feminine
+neuter
+feminine
+137622	
+137624	
+137627	
+masculine
+137631	masculine
+
+137634	masculine
+137637	masculine
+masculine
+137640	masculine
+137644	masculine
+137646	masculine
+137649	masculine
+
+137654	
+
+137659	
+137662	feminine
+137668	neuter
+137670	neuter
+137672	neuter
+137674	feminine
+137678	feminine
+137680	
+137683	neuter
+feminine
+137688	neuter
+neuter
+137691	neuter
+137696	
+
+137700	
+137703	
+137706	
+137709	neuter
+137711	
+137713	feminine
+
+neuter
+137720	feminine
+137723	
+
+137728	neuter
+137730	
+137733	masculine
+
+137739	
+neuter
+137744	
+137746	
+
+137755	
+137758	
+
+137762	
+neuter
+masculine/feminine
+137766	
+137769	feminine
+137771	masculine
+masculine
+
+137775	
+masculine/neuter
+masculine

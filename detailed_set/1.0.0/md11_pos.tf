@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:21+00:00Z
+@dateWritten=2025-06-15T22:27:23+00:00Z
 
 574	verb
 914	verb
@@ -30,7 +30,7 @@
 1924	verb
 1938	verb
 1961	verb
-2027	noun
+2027	noun other indeclinable
 2060	noun
 2678	verb
 2717	personal pronoun
@@ -67,7 +67,7 @@
 4895	noun
 4928	noun
 4976	verb
-5034	noun
+5034	noun other indeclinable
 5188	personal pronoun
 5405	verb
 5425	verb
@@ -230,11 +230,11 @@ verb
 17429	verb
 17457	verb
 18025	verb
-18143	noun
+18143	noun other indeclinable
 18537	verb
 18547	verb
 18671	verb
-18851	noun
+18851	noun other indeclinable
 18856	noun
 18954	personal pronoun
 19007	verb
@@ -691,7 +691,7 @@ verb
 57921	personal pronoun
 58081	personal pronoun
 58131	personal pronoun
-58144	noun
+58144	noun other indeclinable
 58215	verb
 58292	noun
 58425	verb
@@ -855,7 +855,7 @@ noun
 72682	verb
 72902	verb
 73506	verb
-73732	noun
+73732	noun other indeclinable
 73804	noun
 73871	verb
 74013	verb
@@ -878,7 +878,7 @@ noun
 75492	verb
 75673	verb
 75727	verb
-75752	noun
+75752	noun other indeclinable
 75866	noun
 75883	noun
 75962	verb
@@ -916,7 +916,7 @@ noun
 78843	verb
 78852	verb
 79026	verb
-79101	noun
+79101	noun other indeclinable
 79152	verb
 79225	verb
 79245	verb
@@ -929,7 +929,7 @@ noun
 80632	verb
 80636	verb
 80821	verb
-80965	noun
+80965	noun other indeclinable
 80985	verb
 81112	verb
 81120	verb
@@ -942,7 +942,7 @@ noun
 81658	personal pronoun
 81673	verb
 81699	verb
-81806	noun
+81806	noun other indeclinable
 81835	verb
 81894	personal pronoun
 81897	verb
@@ -1188,7 +1188,7 @@ verb
 96146	verb
 96152	noun
 96166	verb
-96251	preposition
+96251	noun other indeclinable
 96305	personal pronoun
 noun
 96334	personal pronoun

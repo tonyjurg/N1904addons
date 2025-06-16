@@ -11,158 +11,309 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:21+00:00Z
+@dateWritten=2025-06-15T22:27:23+00:00Z
 
-1043	masc
-1446	masc
-1647	masc
-1961	masc
-3096	masc
-3221	masc/neut
-3458	masc
-3943	masc
-4091	masc
-7512	masc
-8400	masc
-9008	masc
-9305	masc
-10293	masc
-10935	masc
-11121	masc
-11304	masc
-11322	masc
-11994	neut
-12433	masc
-12575	masc
-13680	masc
-14204	neut
-14280	masc
-15525	masc
-16185	neut
-17457	fem
-19666	masc
-20572	masc
-20661	masc
-20773	masc
-21104	masc
-22252	masc
-23244	masc
-23703	masc
-24496	masc
-24553	masc
-24735	masc
-24880	masc
-24905	masc
-24922	masc
-25434	neut
-25912	masc
-26821	neut
-26897	masc
-27825	neut
-28853	fem
-28892	fem
-29163	masc
-29482	fem
-31768	masc
-32952	masc
-33524	masc
-35548	masc
-35966	masc
-36632	masc
-36728	masc
-37112	masc
-37632	fem
-37716	masc
-39858	masc
-40057	masc
-40076	masc
-40943	masc
-41541	masc
-42134	masc
-43868	masc
-43984	masc
-44000	masc
-44429	masc
-44475	masc
-44695	neut
-44807	neut
-45855	masc
-46274	neut
-46705	masc
-46880	neut
-48007	masc
-48146	masc
-49434	masc
-50353	masc
-50398	masc
-50756	masc
-52700	masc
-52947	masc
-53024	masc
-53099	masc
-57225	masc
-61923	masc
-63430	fem
-64201	masc
-64778	masc
-67343	fem
-69785	masc
-74013	masc
-74971	fem
-76126	masc
-77125	fem
-77898	masc
-78139	neut
-79026	masc
-79535	masc/fem/neut
-81937	fem
-82784	masc
-82910	masc
-83054	masc
-85845	masc
-85867	masc
-91386	masc
-91444	fem
-91980	masc
-92005	masc
-92874	fem
-93238	masc
-93256	neut
-93260	fem
-95622	fem
-96146	masc
-96526	masc
-97580	masc
-100905	masc
-101928	masc
-102326	masc
-103292	masc
-103367	masc
-106469	masc
-107436	masc
-107956	masc
-108507	masc
-108724	masc
-109188	masc
-109618	masc
-109730	masc
-114122	masc
-114372	masc
-115043	fem
-115048	masc
-119979	masc
-121654	masc
-123052	masc
-123278	masc
-123989	masc
-124283	masc
-125769	fem
-128076	masc
-129296	fem
-130073	masc
-134885	masc
-135024	masc
-135062	masc
-135143	masc
-135165	masc
-136158	masc
+914	
+1043	masculine
+1446	neuter
+1484	
+1647	neuter
+1683	
+1743	
+1961	masculine
+2678	
+2930	
+3096	masculine
+3221	masculine/neuter
+3458	masculine
+3943	neuter
+4091	neuter
+4516	
+4537	
+4976	
+5775	
+6451	
+6480	
+6516	
+6814	
+7405	
+7512	masculine
+7544	
+7593	
+7797	
+7828	
+7852	
+8400	neuter
+9008	masculine
+9305	neuter
+10293	masculine
+10705	
+10935	neuter
+11121	masculine
+11163	
+11304	masculine
+11322	masculine
+11446	
+11994	neuter
+12433	masculine
+12575	masculine
+12793	
+12857	
+13680	masculine
+14204	neuter
+14278	
+14280	masculine
+14982	
+15525	masculine
+16185	neuter
+17457	feminine
+18537	
+19409	
+19430	
+19666	neuter
+19892	
+19900	
+20512	
+20572	masculine
+20661	neuter
+20773	neuter
+21104	neuter
+21453	
+22252	neuter
+23244	neuter
+23703	masculine
+24496	masculine
+24553	neuter
+24724	
+24735	masculine
+24880	masculine
+24905	masculine
+24922	masculine
+25434	neuter
+25576	
+25912	masculine
+26062	
+26821	neuter
+26895	
+26897	masculine
+27145	
+27604	
+27825	neuter
+28853	feminine
+28892	feminine
+29163	masculine
+29482	feminine
+29650	
+29917	
+30145	
+31768	masculine
+32952	masculine
+33524	masculine
+33678	
+33701	
+33711	
+34081	
+35548	masculine
+35966	neuter
+36632	masculine
+36728	masculine
+37112	masculine
+37632	feminine
+37716	masculine
+37912	
+37952	
+38588	
+38832	
+38853	
+38897	
+39101	
+39858	masculine
+40057	masculine
+40076	masculine
+40162	
+40903	
+40943	masculine
+41541	masculine
+42134	masculine
+42658	
+42713	
+42922	
+43295	
+43305	
+43319	
+43857	
+43868	masculine
+43984	masculine
+44000	masculine
+44414	
+44429	masculine
+44475	masculine
+44695	neuter
+44803	
+44807	neuter
+45197	
+45411	
+45853	
+45855	masculine
+46168	
+46274	neuter
+46396	
+46522	
+46705	masculine
+46880	neuter
+48007	masculine
+48146	masculine
+48507	
+48921	
+49434	neuter
+50353	masculine
+50398	masculine
+50756	neuter
+52700	neuter
+52947	neuter
+53024	neuter
+53099	neuter
+54056	
+54802	
+57225	neuter
+60620	
+61923	neuter
+62566	
+62582	
+62599	
+63430	feminine
+64201	masculine
+64778	masculine
+66087	
+67343	feminine
+67463	
+68218	
+68450	
+69785	masculine
+69860	
+69902	
+70246	
+71230	
+71281	
+71729	
+71970	
+74013	masculine
+74240	
+74971	feminine
+76126	masculine
+77125	feminine
+77134	
+77360	
+77750	
+77898	masculine
+77977	
+78139	neuter
+79026	masculine
+79225	
+79535	masculine/feminine/neuter
+79795	
+80636	
+81937	feminine
+82086	
+82784	masculine
+82910	masculine
+83054	masculine
+83558	
+83823	
+85238	
+85845	masculine
+85867	masculine
+86363	
+88216	
+88457	
+89089	
+89824	
+89866	
+89880	
+90463	
+90943	
+90950	
+91386	masculine
+91444	feminine
+91566	
+91620	
+91751	
+91980	masculine
+92005	masculine
+92874	feminine
+93238	masculine
+93256	neuter
+93260	feminine
+95622	feminine
+96146	masculine
+96526	masculine
+97580	neuter
+97591	
+98435	
+99796	
+100590	
+100697	
+100905	masculine
+101928	neuter
+102077	
+102326	masculine
+102769	
+103292	masculine
+103367	masculine
+103548	
+104148	
+104357	
+105102	
+106469	masculine
+107209	
+107436	masculine
+107474	
+107956	masculine
+108059	
+108158	
+108507	masculine
+108724	masculine
+108780	
+109188	masculine
+109618	masculine
+109730	masculine
+109819	
+111278	
+112079	
+112939	
+113958	
+114122	masculine
+114372	masculine
+114534	
+115043	feminine
+115048	masculine
+115307	
+119979	masculine
+121334	
+121347	
+121359	
+121654	masculine
+121716	
+122208	
+122689	
+123052	neuter
+123278	masculine
+123989	masculine
+124283	masculine
+125769	feminine
+128076	masculine
+129296	feminine
+130073	masculine
+131225	
+132473	
+132841	
+132950	
+133479	
+133606	
+134467	
+134885	masculine
+135024	masculine
+135062	masculine
+135143	masculine
+135165	masculine
+136158	masculine

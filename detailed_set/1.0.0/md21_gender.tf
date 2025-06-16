@@ -11,50 +11,76 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-05T14:37:25+00:00Z
+@dateWritten=2025-06-15T22:27:27+00:00Z
 
-1446	masc
-1647	masc
-3943	masc
-4091	masc
-4516	fem
-4537	fem
-8400	masc
-9305	masc
-10935	masc
-19409	fem
-19430	fem
-19666	masc
-20661	masc
-20773	masc
-21104	masc
-22252	masc
-23244	masc
-24553	masc
-27604	fem
-29650	neut
-29917	neut
-33678	fem
-33701	fem
-33711	fem
-35966	masc
-37632	fem
-45411	neut
-48507	neut
-49434	masc
-50756	masc
-52700	masc
-52947	masc
-53024	masc
-53099	masc
-57225	masc
-61923	masc
-66087	neut
-68450	neut
-69902	neut
-71230	neut
-78139	masc
-91751	fem
-108780	fem
-109819	neut
-121654	neut
+1446	feminine
+1647	feminine
+3943	feminine
+4091	feminine
+4516	feminine
+4537	feminine
+8400	feminine
+9305	feminine
+10935	feminine
+11994	
+14204	
+16185	
+19409	feminine
+19430	feminine
+19666	feminine
+20661	feminine
+20773	feminine
+21104	feminine
+22252	feminine
+23244	feminine
+24553	feminine
+25434	
+26062	
+26821	
+27604	feminine
+27825	
+29650	neuter
+29917	neuter
+33678	feminine
+33701	feminine
+33711	feminine
+35966	feminine
+37632	feminine
+42922	
+44695	
+44807	
+45197	
+45411	neuter
+46274	
+46880	
+48507	neuter
+49434	feminine
+50756	feminine
+52700	feminine
+52947	feminine
+53024	feminine
+53099	feminine
+57225	feminine
+61923	feminine
+66087	neuter
+68218	
+68450	neuter
+69902	neuter
+71230	neuter
+78139	masculine
+82086	
+82784	
+89824	
+89866	
+89880	
+91566	
+91751	feminine
+97591	
+98435	
+104357	
+108780	feminine
+109819	neuter
+114534	
+115307	
+121359	
+121654	neuter
