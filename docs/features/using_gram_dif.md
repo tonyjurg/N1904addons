@@ -2,13 +2,13 @@
 
 ## Introduction
 
-The `m*_gram_dif` features quantify grammatical differences between the Morpheus analyses and the N1904-TF annotations, which in this context is regarded the reference. Each feature in this group annotates a wordnode with a 9-character string indicating whether Morpheus’s analysis  **differs** from the reference. Differences are indicated using a `letter` while matches are indicated usint a dot (`.`). 
+The `m*_gram_dif` features quantify grammatical differences between the Morpheus analyses and the N1904-TF annotations, which in this context is regarded the reference. Each feature in this group annotates a wordnode with a 9-character string indicating whether Morpheusâ€™s analysis  **differs** from the reference. Differences are indicated using a `letter` while matches are indicated usint a dot (`.`). 
 
 ## Related features
 
 Feature(s) | Description
 ---|---
-[md{num}_gram_dif](md{num)_gram_dif) | grammatical difference against N1904-TF, with num in the range (1-24), inclusive.
+[md{num}_gram_dif](md{num}_gram_dif) | grammatical difference against N1904-TF, with num in the range (1-24), inclusive.
 [ms{num}_gram_dif](ms{num}_gram_dif.md) | grammatical difference against N1904-TF, with num in range (1-12), inclusive.
 [mm_gram_dif](mm_gram_dif.md) | grammatical difference against N1904-TF 
 
