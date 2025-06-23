@@ -11,24 +11,24 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:23+00:00Z
+@dateWritten=2025-06-22T22:25:25+00:00Z
 
 1043	aw_fut/azw
-1446	aw_pr/a_stem
-1647	aw_pr/a_stem
+1446	aw_fut/a_stem
+1647	aw_fut/a_stem
 1961	aw_pr/iaw_denom
 2930	is_ews
 3096	aw_pr/iaw_denom
 3458	aw_pr/iaw_denom
-3943	aw_pr/a_stem
-4091	aw_pr/a_stem
+3943	aw_fut/a_stem
+4091	aw_fut/a_stem
 4516	os_on
 4537	os_on
 6814	aw_pr/a_stem
-8400	aw_pr/a_stem
-9305	aw_pr/a_stem
+8400	aw_fut/a_stem
+9305	aw_fut/a_stem
 10293	aw_pr/iaw_denom
-10935	aw_pr/a_stem
+10935	aw_fut/a_stem
 11121	aw_pr/iaw_denom
 11304	aw_pr/iaw_denom
 11322	aw_pr/iaw_denom
@@ -41,17 +41,17 @@
 16185	aw_pr/iaw_denom
 19409	os_on
 19430	os_on
-19666	aw_pr/a_stem
+19666	aw_fut/a_stem
 20572	aw_pr/iaw_denom
-20661	aw_pr/a_stem
-20773	aw_pr/a_stem
-21104	aw_pr/a_stem
+20661	aw_fut/a_stem
+20773	aw_fut/a_stem
+21104	aw_fut/a_stem
 21453	reg_fut/azw
-22252	aw_pr/a_stem
-23244	aw_pr/a_stem
+22252	aw_fut/a_stem
+23244	aw_fut/a_stem
 23703	aw_pr/iaw_denom
 24496	aw_pr/iaw_denom
-24553	aw_pr/a_stem
+24553	aw_fut/a_stem
 24735	aw_pr/iaw_denom
 24880	aw_pr/iaw_denom
 24905	aw_pr/iaw_denom
@@ -73,7 +73,7 @@
 33701	os_on
 33711	os_on
 35548	aw_pr/iaw_denom
-35966	aw_pr/a_stem
+35966	aw_fut/a_stem
 36632	aw_pr/iaw_denom
 36728	art_adj
 37112	aw_pr/iaw_denom
@@ -104,18 +104,18 @@
 48007	aw_pr/iaw_denom
 48146	aw_pr/iaw_denom
 48507	ew_pr/ew_denom
-49434	aw_pr/a_stem
+49434	aw_fut/a_stem
 50353	aw_pr/iaw_denom
 50398	aw_pr/iaw_denom
-50756	aw_pr/a_stem
-52700	aw_pr/a_stem
-52947	aw_pr/a_stem
-53024	aw_pr/a_stem
-53099	aw_pr/a_stem
+50756	aw_fut/a_stem
+52700	aw_fut/a_stem
+52947	aw_fut/a_stem
+53024	aw_fut/a_stem
+53099	aw_fut/a_stem
 54056	ath_primary/aw_denom
 54802	aw_pr/iaw_denom
-57225	aw_pr/a_stem
-61923	aw_pr/a_stem
+57225	aw_fut/a_stem
+61923	aw_fut/a_stem
 64201	aw_pr/aw_denom
 64778	aw_pr/iaw_denom
 66087	ew_pr/ew_denom

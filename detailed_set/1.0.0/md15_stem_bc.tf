@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:23+00:00Z
+@dateWritten=2025-06-22T22:25:25+00:00Z
 
 574	a)g
 914	basilei
@@ -326,7 +326,7 @@
 96807	a)g
 96830	l
 97211	w)p
-97580	e)nanti
+97580	o)/n
 97591	a)poq
 97620	a)g
 98435	a)poq
@@ -342,7 +342,7 @@
 100697	a)m
 100905	e)r
 101178	a)g
-101928	e)nanti
+101928	o)/n
 102077	fu_s
 102326	r(
 102769	fu_s
@@ -401,7 +401,7 @@
 121716	e)pist
 122208	d
 122689	e)piqumi
-123052	e)nanti
+123052	o)/n
 123066	a)gap
 123278	ou)si
 123989	basilei

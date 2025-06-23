@@ -11,15 +11,15 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:23+00:00Z
+@dateWritten=2025-06-22T22:25:25+00:00Z
 
 574	e)gw=
 914	basileia=
 1043	li/qwn
 1258	liqoi=
-1446	pera=n
+1446	pera_=n
 1484	basileia=
-1647	pera=n
+1647	pera_=n
 1683	basileia=
 1743	basileia=
 1924	basileia=|
@@ -31,8 +31,8 @@
 3221	katapath/sousin
 3458	basilei+a=n
 3824	basileia=|
-3943	pera=n
-4091	pera=n
+3943	pera_=n
+4091	pera_=n
 4516	ne/on
 4537	ne/on
 4647	a)naxwrei=te
@@ -58,9 +58,9 @@
 7828	basileia=
 7852	basileia=
 7935	basileia=|
-8400	pera=n
+8400	pera_=n
 9008	kuriw=n
-9305	pera=n
+9305	pera_=n
 9498	e)gw=
 9752	basileia=|
 10264	basileia=|
@@ -70,7 +70,7 @@
 10517	e)nnea_/
 10705	basileia=
 10876	e)gw=
-10935	pera=n
+10935	pera_=n
 11121	basilei+a=n
 11135	e)piqh=|
 11163	basileia=
@@ -100,23 +100,23 @@
 18537	basileia=
 19409	ne/on
 19430	ne/on
-19666	pera=n
+19666	pera_=n
 19892	basileia=
 19900	basileia=
 20131	speirw=n
 20300	speirw=n
 20512	basileia=
 20572	basilei+a=n
-20661	pera=n
-20773	pera=n
-21104	pera=n
+20661	pera_=n
+20773	pera_=n
+21104	pera_=n
 21453	e)ksta/sei
-22252	pera=n
+22252	pera_=n
 22968	e)piqh=|
-23244	pera=n
+23244	pera_=n
 23703	basilei+a=n
 24496	basilei+a=n
-24553	pera=n
+24553	pera_=n
 24724	basileia=
 24735	basilei+a=n
 24880	basilei+a=n
@@ -158,7 +158,7 @@
 35145	basileia=|
 35548	basilei+a=n
 35610	speirw=n
-35966	pera=n
+35966	pera_=n
 36632	basilei+a=n
 36728	a)llw=n
 37112	basilei+a=n
@@ -229,22 +229,22 @@
 48146	basilei+a=n
 48507	e)nanti+o/n
 48921	nou=n
-49434	pera=n
+49434	pera_=n
 49481	e)gw=
 49514	e)gw=
 49546	e)gw=
 49659	i)/dion
 50353	basilei+a=n
 50398	basilei+a=n
-50756	pera=n
+50756	pera_=n
 51541	speirw=n
 51558	speirw=n
 52151	e)gw=
 52171	i)/dion
-52700	pera=n
-52947	pera=n
-53024	pera=n
-53099	pera=n
+52700	pera_=n
+52947	pera_=n
+53024	pera_=n
+53099	pera_=n
 53471	e)gw=
 53653	e)gw=
 53686	e)gw=
@@ -257,7 +257,7 @@
 57033	e)gw=
 57041	a)polw=ntai
 57207	e)gw=
-57225	pera=n
+57225	pera_=n
 58644	fula/cei
 58753	e)gw=
 60022	e)gw=
@@ -274,7 +274,7 @@
 61791	e)gw=
 61808	e)gw=
 61912	e)gw=
-61923	pera=n
+61923	pera_=n
 62566	basileia=
 62582	basileia=
 62599	basileia=

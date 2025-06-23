@@ -11,14 +11,12 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:23+00:00Z
+@dateWritten=2025-06-22T22:25:25+00:00Z
 
 574	singular
 914	singular
 1043	singular
-1446	singular
 1484	singular
-1647	singular
 1683	singular
 1743	singular
 1961	singular
@@ -27,8 +25,6 @@
 3096	singular
 3221	plural
 3458	singular
-3943	singular
-4091	singular
 4516	singular
 4537	singular
 4976	singular
@@ -47,14 +43,11 @@
 7797	singular
 7828	singular
 7852	singular
-8400	singular
 9008	singular
-9305	singular
 9498	singular
 10293	singular
 10705	singular
 10876	singular
-10935	singular
 11121	singular
 11163	singular
 11304	singular
@@ -79,20 +72,13 @@
 18537	singular
 19409	singular
 19430	singular
-19666	singular
 19892	singular
 19900	singular
 20512	singular
 20572	singular
-20661	singular
-20773	singular
-21104	singular
 21453	singular
-22252	singular
-23244	singular
 23703	singular
 24496	singular
-24553	singular
 24724	singular
 24735	singular
 24880	singular
@@ -120,15 +106,12 @@
 31540	singular
 31768	singular
 32952	singular
-33524	
 33678	singular
 33701	singular
 33711	singular
 34081	singular
 35548	singular
-35966	singular
 36632	singular
-36728	
 37112	singular
 37632	singular
 37716	singular
@@ -183,18 +166,12 @@
 48146	singular
 48507	plural
 48921	singular
-49434	singular
 49481	singular
 49514	singular
 49546	singular
 50353	singular
 50398	singular
-50756	singular
 52151	singular
-52700	singular
-52947	singular
-53024	singular
-53099	singular
 53471	singular
 53653	singular
 53686	singular
@@ -206,7 +183,6 @@
 57027	singular
 57033	singular
 57207	singular
-57225	singular
 58644	dual
 58753	singular
 60022	singular
@@ -221,7 +197,6 @@
 61791	singular
 61808	singular
 61912	singular
-61923	singular
 62566	singular
 62582	singular
 62599	singular
@@ -370,7 +345,6 @@
 108724	singular
 108780	singular
 109188	singular
-109618	
 109730	singular
 109819	singular
 109976	singular

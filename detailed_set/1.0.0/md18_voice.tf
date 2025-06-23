@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:23+00:00Z
+@dateWritten=2025-06-22T22:25:25+00:00Z
 
 1043	active
 1446	active
@@ -55,12 +55,10 @@
 26062	active
 26821	active
 26897	active
-27604	middle
 27825	active
 29163	active
 29650	active
 29917	active
-30145	middle
 31768	active
 32952	active
 35548	active
@@ -106,7 +104,6 @@
 64201	active
 64778	active
 66087	active
-68218	middle
 68450	active
 69902	active
 70246	active
@@ -123,7 +120,6 @@
 83054	active
 85845	active
 85867	active
-88457	middle
 89824	active
 89866	active
 89880	active
@@ -133,20 +129,17 @@
 93238	active
 96146	active
 96526	active
-97591	middle
-98435	middle
 99796	active
 100590	active
 100697	active
 102326	active
 103292	active
 103367	active
-104357	middle
 105102	active
 106469	active
-107209	middle/passive
+107209	middlePassive
 107956	active
-108059	middle/passive
+108059	middlePassive
 108507	active
 108724	active
 109188	active
@@ -157,11 +150,10 @@
 114534	active
 115307	active
 119979	active
-121359	middle
 121654	active
 122689	active
 123989	active
-124283	middle/passive
+124283	middlePassive
 128076	active
 130073	active
 131225	active

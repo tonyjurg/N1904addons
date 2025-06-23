@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:23+00:00Z
+@dateWritten=2025-06-22T22:25:25+00:00Z
 
 914	indicative
 1043	participle
@@ -267,7 +267,6 @@
 115307	imperative
 119979	participle
 121334	indicative
-121347	indicative
 121359	subjunctive
 121654	participle
 121716	indicative

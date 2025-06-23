@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:27+00:00Z
+@dateWritten=2025-06-22T22:25:28+00:00Z
 
 11994	lpcngtmv.
 14204	lpcngtmv.
@@ -26,7 +26,7 @@
 46880	lpcngtmv.
 68218	lpc.gtmv.
 78139	l.c.g....
-82086	l.....m..
+82086	......m..
 104357	lp...tmv.
 109819	l.cn.tmv.
 121654	l.c.gt...

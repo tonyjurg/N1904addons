@@ -11,42 +11,42 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:27+00:00Z
+@dateWritten=2025-06-22T22:25:28+00:00Z
 
-1446	pe/ra_n
-1647	pe/ra_n
-3943	pe/ra_n
-4091	pe/ra_n
-8400	pe/ra_n
-9305	pe/ra_n
-10935	pe/ra_n
+1446	per
+1647	per
+3943	per
+4091	per
+8400	per
+9305	per
+10935	per
 11994	e)lai+
 14204	e)lai+
 16185	e)lai+
-19666	pe/ra_n
-20661	pe/ra_n
-20773	pe/ra_n
-21104	pe/ra_n
-22252	pe/ra_n
-23244	pe/ra_n
-24553	pe/ra_n
+19666	per
+20661	per
+20773	per
+21104	per
+22252	per
+23244	per
+24553	per
 25434	e)lai+
 26821	e)lai+
 27825	e)lai+
-35966	pe/ra_n
+35966	per
 42922	per
 44695	e)lai+
 44807	e)lai+
 46274	e)lai+
 46880	e)lai+
-49434	pe/ra_n
-50756	pe/ra_n
-52700	pe/ra_n
-52947	pe/ra_n
-53024	pe/ra_n
-53099	pe/ra_n
-57225	pe/ra_n
-61923	pe/ra_n
+49434	per
+50756	per
+52700	per
+52947	per
+53024	per
+53099	per
+57225	per
+61923	per
 68218	a)llac
 78139	per
 82086	ai)n

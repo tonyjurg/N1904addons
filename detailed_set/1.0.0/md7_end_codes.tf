@@ -11,32 +11,32 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:33+00:00Z
+@dateWritten=2025-06-22T22:25:33+00:00Z
 
 99	ow_pr
 154	ow_pr
 ow_pr
-247	irreg_adj3
-253	
-260	
-271	
+247	aor1
+253	conj
+260	conj
+271	conj
 324	ow_pr
-339	
+339	exclam
 377	ow_pr
 387	is_ews
 410	ow_pr
 417	ow_pr
-427	
+427	conj
 475	aor1
 477	wn_ousa_on
 574	aw_pr
 576	reg_fut
-595	
-598	ew_pr
+595	conj
+598	aw_fut
 651	ow_pr
 662	ow_pr
-684	
-715	
+684	conj
+715	conj
 724	ow_pr
 739	aor_pass
 807	ow_pr
@@ -68,17 +68,17 @@ ow_pr
 1309	ow_pr
 1321	ow_pr
 ow_pr
-1331	
+1331	exclam
 1339	reg_fut
 ew_pr
 1342	ew_pr
-
+exclam
 1358	aw_pr
 1363	aor1
 1372	aw_pr
 1377	w_stem
 1385	ew_pr
-1388	
+1388	exclam
 aor1
 1406	wn_ousa_on
 1416	aw_pr
@@ -103,14 +103,14 @@ aor1
 1745	ow_pr
 1764	aw_fut
 1787	aw_pr
-1817	ew_pr
+1817	aw_fut
 1852	h_hs
 1867	aor1
 1875	aor1
 aw_pr
 1880	w_stem
-1882	
-1901	
+1882	conj
+1901	conj
 1906	aw_pr
 1924	aw_pr
 1926	ow_pr
@@ -123,71 +123,71 @@ w_stem
 1963	ow_pr
 1981	w_stem
 2018	aw_pr
-2023	
+2023	exclam
 2027	ew_pr
-2032	
+2032	exclam
 is_ews
-2041	
-2051	
-2058	
+2041	exclam
+2051	exclam
+2058	exclam
 2060	aw_fut
-2063	
-2065	
+2063	exclam
+2065	conj
 2085	ew_pr
 2091	w_stem
-2097	
+2097	conj
 2101	aw_pr
 2110	w_stem
-2132	
+2132	exclam
 2147	aw_fut
-2151	
-2157	
-2165	
+2151	exclam
+2157	exclam
+2165	exclam
 2179	aw_fut
-2183	
-2189	
+2183	exclam
+2189	exclam
 2206	w_stem
 2211	w_stem
 2223	aw_pr
-2241	
+2241	exclam
 2244	w_stem
 2266	ow_pr
-2281	
+2281	exclam
 2297	irreg_decl3
 irreg_decl3
 2321	w_stem
 2333	os_h_on
-2335	
-2349	
+2335	exclam
+2349	exclam
 2359	fut_perf
-2383	
-
-2389	
+2383	os_h_on
+exclam
+2389	exclam
 2392	w_stem
 2394	os_h_on
 2406	ow_pr
 2428	aw_pr
 2445	aw_pr
 2464	ow_pr
-2508	
+2508	exclam
 2526	w_stem
 2537	os_ou
-2540	
-2545	
-2548	
-2557	
+2540	exclam
+2545	exclam
+2548	exclam
+2557	exclam
 2563	reg_fut
 2587	aw_pr
 2591	w_stem
-2605	
-2610	
-2614	
-2622	
+2605	exclam
+2610	exclam
+2614	exclam
+2622	exclam
 2628	reg_fut
-2675	
+2675	exclam
 2678	h_hs
-
-2683	
+exclam
+2683	exclam
 2717	aw_pr
 h_hs
 2723	aw_pr
@@ -195,28 +195,28 @@ h_hs
 2765	aw_pr
 2768	aw_pr
 2773	w_stem
-2783	
-2789	
+2783	exclam
+2789	exclam
 2793	h_hs
 2797	aw_pr
-2800	
-2808	
+2800	exclam
+2808	exclam
 2814	reg_fut
 2824	ew_pr
 2842	ew_pr
-2858	
+2858	exclam
 2863	aw_pr
-
+exclam
 2872	aw_pr
-2877	
-2882	
+2877	exclam
+2882	exclam
 2885	aw_pr
-2889	
-2895	
+2889	exclam
+2895	exclam
 2913	ow_pr
 2923	fut_perf
 2930	fut_perf
-2937	irreg_decl3
+2937	eus_ews
 2939	w_stem
 2944	aw_fut
 2960	os_h_on
@@ -229,10 +229,10 @@ h_hs
 3035	reg_fut
 3096	aw_pr
 3127	ath_primary
-3152	
-3167	
-3175	
-3204	
+3152	exclam
+3167	exclam
+3175	exclam
+3204	exclam
 3221	fut_perf
 3262	is_ews
 3274	is_ews
@@ -295,35 +295,35 @@ reg_fut
 4216	ew_pr
 4225	aor1
 4250	hs_eos
-4253	
+4253	exclam
 4276	ew_pr
-4288	
+4288	exclam
 4295	ew_pr
 4300	aw_fut
 is_ews
 4312	w_stem
 4316	ath_primary
-
-4325	
+exclam
+4325	exclam
 4341	ew_pr
 4344	aw_fut
 4349	aw_pr
 4362	w_stem
 4395	os_ou
-4399	irreg_decl3
+4399	eus_ews
 4412	wn_ousa_on
 4439	aw_pr
-4448	irreg_decl3
-4458	
+4448	eus_ews
+4458	exclam
 4469	ow_pr
 4516	ew_pr
 4534	aw_pr
 4537	ew_pr
 4561	aw_pr
-4566	
+4566	exclam
 4599	aw_pr
 4614	hs_eos
-4618	
+4618	exclam
 4647	ew_pr
 4653	aw_pr
 4689	ow_pr
@@ -350,7 +350,7 @@ ow_pr
 4985	aw_pr
 5018	ew_pr
 5034	ew_pr
-5036	
+5036	conj
 5047	aw_pr
 5052	aw_pr
 5059	aw_pr
@@ -364,12 +364,12 @@ ow_pr
 5188	aw_pr
 5237	ew_pr
 5245	w_stem
-5254	
+5254	conj
 5270	ew_pr
 5315	w_stem
 5333	ow_pr
 5374	ew_pr
-5385	irreg_adj3
+5385	aor1
 5398	is_ews
 5405	aw_pr
 5425	aw_pr
@@ -392,20 +392,20 @@ ew_pr
 5710	aw_pr
 5715	irreg_decl3
 w_stem
-5734	
+5734	exclam
 5736	reg_fut
-5739	
-5741	
+5739	exclam
+5741	exclam
 5743	w_stem
 5749	ow_pr
 5759	aw_pr
 5761	ow_pr
 5768	ow_pr
-5772	
+5772	conj
 5775	h_hs
 5777	ow_pr
 5786	ath_primary
-5790	
+5790	conj
 5813	os_h_on
 5820	article
 5824	w_stem
@@ -417,19 +417,19 @@ is_ews
 5854	w_stem
 5906	h_hs
 5914	w_stem
-5930	
+5930	conj
 ow_pr
-5933	
+5933	conj
 5935	reg_fut
 5953	w_stem
 5978	ow_pr
 5986	ow_pr
 5993	irreg_decl3
-6001	
+6001	exclam
 6029	aw_pr
 6042	aw_pr
 reg_fut
-6111	
+6111	exclam
 6182	w_stem
 6187	ow_pr
 6251	is_ews
@@ -437,10 +437,10 @@ reg_fut
 6263	is_ews
 6279	w_stem
 6282	w_stem
-
+exclam
 6366	is_ews
 6382	is_ews
-
+conj
 6418	os_ou
 is_ews
 6429	aor2
@@ -458,7 +458,7 @@ aw_fut
 6537	aor1
 6545	reg_fut
 6557	aw_pr
-6561	irreg_decl3
+6561	eus_ews
 6563	w_stem
 6581	aw_pr
 6635	ow_pr
@@ -466,9 +466,9 @@ aw_fut
 6675	w_stem
 6686	reg_fut
 6696	aw_pr
-
+exclam
 6702	aw_pr
-
+exclam
 6730	ew_pr
 6794	os_h_on
 6814	hs_ou
@@ -477,8 +477,8 @@ aw_fut
 6845	w_stem
 6874	ew_pr
 6879	aw_pr
-6918	
-6922	
+6918	exclam
+6922	exclam
 7027	aw_pr
 7035	article
 7037	irreg_mi
@@ -489,7 +489,7 @@ aw_fut
 7080	irreg_mi
 7091	aw_pr
 7093	irreg_mi
-7121	irreg_decl3
+7121	eus_ews
 7138	aw_pr
 7140	ow_pr
 7147	is_ews
@@ -509,14 +509,14 @@ article
 7383	ew_pr
 7405	h_hs
 7407	ow_pr
-7429	
+7429	oos_oon
 7451	ow_pr
 7454	aor2
 7460	aw_fut
 7467	is_ews
 7479	ow_pr
 7481	w_stem
-7504	
+7504	conj
 7512	aw_pr
 7541	os_h_on
 7544	h_hs
@@ -525,7 +525,7 @@ article
 7590	os_h_on
 7593	h_hs
 7595	ow_pr
-7605	
+7605	conj
 7620	ew_pr
 7632	aor1
 7641	ew_pr
@@ -553,11 +553,11 @@ article
 7901	ow_pr
 7922	w_stem
 7924	irreg_decl3
-7929	irreg_decl3
+7929	eus_ews
 7935	aw_pr
 7937	ow_pr
 8008	ow_pr
-8016	irreg_adj3
+8016	aor1
 8056	aw_pr
 8083	ow_pr
 8157	aw_pr
@@ -568,20 +568,20 @@ article
 8369	w_stem
 8383	ow_pr
 8400	aw_pr
-
+conj
 8436	ow_pr
 8472	aor1
 8530	aor1
 8545	w_stem
 8573	aor1
-8626	irreg_decl3
-8630	
-8649	irreg_decl3
+8626	eus_ews
+8630	exclam
+8649	eus_ews
 8682	w_stem
 8693	aw_pr
 8699	reg_fut
 8733	aw_pr
-8739	hs_eos
+8739	h_hs
 8762	os_h_on
 8765	aw_pr
 8772	os_h_on
@@ -595,7 +595,7 @@ article
 8984	ow_pr
 8992	irreg_decl3
 9008	ow_pr
-9019	
+9019	exclam
 9096	ew_pr
 9134	w_stem
 9149	w_stem
@@ -642,23 +642,23 @@ w_stem
 9718	aw_pr
 9722	reg_fut
 9729	w_stem
-9742	
+9742	conj
 9752	aw_pr
 9795	s_dos
-9913	
+9913	conj
 9920	ow_pr
 9932	w_stem
 9935	evw_pr
 9948	w_stem
 10007	is_ews
-10024	
-10040	
-10045	
+10024	exclam
+10040	conj
+10045	conj
 10063	ew_pr
 10080	aor2
-irreg_decl3
+eus_ews
 10090	w_stem
-10092	irreg_decl3
+10092	eus_ews
 10098	w_stem
 10100	aw_pr
 10108	w_stem
@@ -687,9 +687,9 @@ irreg_decl3
 10312	ow_pr
 10315	aw_pr
 10360	ow_pr
-10379	
-10383	
-10419	
+10379	exclam
+10383	exclam
+10419	exclam
 10453	w_stem
 10476	aw_pr
 10491	os_h_on
@@ -699,11 +699,11 @@ irreg_decl3
 10533	aw_fut
 10538	aw_pr
 10540	fut_perf
-10543	
+10543	exclam
 10552	aw_pr
-
+exclam
 wn_ousa_on
-10558	
+10558	exclam
 aw_pr
 10562	wn_ousa_on
 10576	aw_fut
@@ -719,13 +719,13 @@ aw_pr
 10630	aw_pr
 10642	aw_pr
 10677	fut_perf
-10686	
+10686	conj
 10688	w_stem
 10693	w_stem
-10695	
+10695	conj
 10697	aw_pr
-
-10701	irreg_decl3
+conj
+10701	eus_ews
 10705	h_hs
 10707	ow_pr
 10712	aw_pr
@@ -734,14 +734,14 @@ aw_pr
 10747	is_ews
 10786	ow_pr
 10820	aw_pr
-10826	
+10826	conj
 10833	ow_pr
 10854	w_stem
 10868	w_stem
 10871	aor1
-10874	
+10874	exclam
 10876	aw_pr
-10888	
+10888	conj
 10902	is_ews
 10904	aw_pr
 10913	aw_pr
@@ -761,10 +761,10 @@ aw_pr
 11196	ow_pr
 11211	w_stem
 11213	as_antos
-11236	
-
+11236	os_h_on
+exclam
 11240	w_stem
-11260	
+11260	exclam
 11275	wn_ousa_on
 11296	w_stem
 11304	aw_pr
@@ -784,12 +784,12 @@ aw_pr
 11541	w_stem
 11552	w_stem
 11570	aw_pr
-
-11582	
+conj
+11582	oos_oon
 11590	os_h_on
-11595	
+11595	oos_oon
 11640	ath_primary
-11666	
+11666	exclam
 11732	ew_pr
 11741	ow_pr
 11745	ow_pr
@@ -797,9 +797,9 @@ aw_pr
 11761	os_ou
 11767	ow_pr
 11771	h_hs
-11776	
+11776	exclam
 11779	aw_pr
-
+exclam
 11798	w_stem
 11801	w_stem
 11812	h_hs
@@ -816,8 +816,8 @@ aor1
 11994	os_ou
 12022	aw_pr
 12033	is_ews
-12056	
-12094	ew_pr
+12056	exclam
+12094	aw_fut
 12107	art_adj
 12113	ow_pr
 12128	w_stem
@@ -847,7 +847,7 @@ aor1
 12456	aw_pr
 12459	ow_pr
 evw_pr
-12462	irreg_decl3
+12462	eus_ews
 12468	aw_pr
 12496	w_stem
 12502	ow_pr
@@ -886,8 +886,8 @@ evw_pr
 13162	w_stem
 13200	aw_pr
 13206	reg_fut
-13241	os_h_on
-13248	
+13241	ow_pr
+13248	conj
 13259	reg_fut
 13289	reg_fut
 13306	ow_pr
@@ -896,25 +896,25 @@ aw_pr
 13366	os_h_on
 13377	ew_pr
 13379	ew_pr
-
-13385	
+exclam
+13385	exclam
 13390	aw_fut
-
-13397	
+exclam
+13397	exclam
 13406	os_h_on
-13410	
-
+13410	os_h_on
+exclam
 13425	ath_primary
 13444	w_stem
 13448	w_stem
 13457	ew_pr
 13466	h_hs
-13468	
+13468	conj
 13470	aw_pr
-13473	
+13473	exclam
 ow_pr
 13476	ow_pr
-
+exclam
 13483	ew_pr
 13501	ath_primary
 13528	aw_pr
@@ -929,11 +929,11 @@ ow_pr
 13723	ow_pr
 13743	aor1
 13746	ow_pr
-13777	ew_pr
+13777	aw_fut
 13779	aor1
 ow_pr
-13806	ew_pr
-13838	ew_pr
+13806	aw_fut
+13838	aw_fut
 13847	ow_pr
 13852	w_stem
 13872	w_stem
@@ -946,12 +946,12 @@ ow_pr
 13982	w_stem
 14000	aw_pr
 14005	ow_pr
-14077	
+14077	conj
 14092	w_stem
-14118	
+14118	exclam
 14122	w_stem
 14138	w_stem
-14147	
+14147	conj
 14155	ow_pr
 14162	ow_pr
 14174	ow_pr
@@ -967,26 +967,26 @@ ow_pr
 14402	hs_ou
 h_hs
 14417	h_hs
-14456	
+14456	conj
 14484	aw_pr
 14504	os_h_on
 14517	aw_pr
-14543	
+14543	conj
 14554	aw_pr
 14568	ow_pr
 14587	ow_pr
 14592	ow_pr
-14608	irreg_adj3
+14608	aor1
 14624	ow_pr
 14639	reg_fut
 14646	ow_pr
 14649	ow_pr
-
+conj
 14690	w_stem
-14699	
+14699	conj
 14712	ow_pr
 14730	ow_pr
-14781	
+14781	conj
 14869	aw_fut
 14900	is_ews
 14904	w_stem
@@ -998,9 +998,9 @@ h_hs
 14984	ow_pr
 aw_fut
 14994	ath_primary
-15034	irreg_adj3
+15034	aor1
 15047	ath_primary
-15050	irreg_adj3
+15050	aor1
 15100	aor1
 15134	w_stem
 15194	aw_pr
@@ -1011,13 +1011,13 @@ aw_fut
 15241	aw_pr
 15251	aw_pr
 15278	ow_pr
-
+exclam
 15293	aw_pr
 15320	ow_pr
-
+exclam
 15341	aw_fut
 15343	aw_pr
-15353	
+15353	exclam
 15377	aw_fut
 15379	aw_pr
 15383	w_stem
@@ -1054,7 +1054,7 @@ aw_fut
 16095	w_stem
 16148	w_stem
 16153	os_h_on
-16162	
+16162	conj
 16168	aw_pr
 16174	aw_pr
 16185	os_ou
@@ -1064,36 +1064,36 @@ aw_fut
 16251	aor1
 16253	w_stem
 16258	evw_pr
-16267	os_h_on
+16267	ow_pr
 16284	w_stem
-16289	
+16289	conj
 16308	w_stem
-16315	
+16315	conj
 16326	irreg_mi
 16362	w_stem
 16402	aw_pr
 16405	os_h_on
-16409	
+16409	exclam
 16441	w_stem
 16446	w_stem
 16461	aw_fut
 16485	ow_pr
 16557	ws_w
 16563	w_stem
-16570	
+16570	exclam
 16596	w_stem
 16599	aw_pr
 16607	evw_pr
 16625	ow_pr
 16648	aw_pr
-16680	
+16680	conj
 16684	ws_w
 16712	aor2
 16724	aor1
 16731	aw_fut
 ow_pr
 16741	aor1
-16744	
+16744	exclam
 16774	w_stem
 16781	w_stem
 16792	h_hs
@@ -1103,12 +1103,12 @@ ow_pr
 16892	w_stem
 16917	aor2
 16929	os_h_on
-
+exclam
 16961	aor1
-17076	
+17076	conj
 17100	ow_pr
 17152	w_stem
-17159	
+17159	exclam
 17184	ew_pr
 17190	ew_pr
 17251	aor1
@@ -1122,28 +1122,28 @@ ow_pr
 17429	aor1
 17449	aor2
 17457	aw_pr
-17500	ew_pr
+17500	aw_fut
 17523	h_hs
 17540	aw_pr
-17560	os_h_on
+17560	ow_pr
 17569	os_ou
 17579	hs_ou
 17591	ew_pr
-17625	
+17625	conj
 17659	os_ou
-17711	
+17711	conj
 ow_pr
 17732	aw_fut
 17810	ow_pr
-17891	
+17891	ew_pr
 17914	ws_wn
-17924	
+17924	conj
 17926	eus_ews
 17942	ow_pr
 17948	ow_pr
 17999	ow_pr
 18002	ow_pr
-18010	ew_pr
+18010	aw_fut
 18025	ow_pr
 18037	ow_pr
 18079	ow_pr
@@ -1152,10 +1152,10 @@ ow_pr
 18127	w_stem
 18143	ew_pr
 18189	aw_pr
-18295	
-18321	
+18295	conj
+18321	exclam
 18323	reg_fut
-18326	
+18326	exclam
 18335	ow_pr
 18397	os_h_on
 18424	is_ews
@@ -1184,24 +1184,24 @@ ow_pr
 18938	aw_pr
 18948	w_stem
 18954	aw_pr
-18965	
+18965	exclam
 article
 19007	ow_pr
 19067	w_stem
-19072	
+19072	exclam
 19115	w_stem
 19119	w_stem
-19131	
+19131	exclam
 19138	ath_primary
-19141	
+19141	exclam
 19143	ew_pr
 19148	aw_fut
 is_ews
 19159	w_stem
 19163	w_stem
 19165	ath_primary
-19168	
-19174	
+19168	exclam
+19174	exclam
 19179	h_hs
 19191	ew_pr
 19214	aw_pr
@@ -1211,7 +1211,7 @@ is_ews
 19287	w_stem
 19303	aw_pr
 19317	w_stem
-19319	irreg_decl3
+19319	eus_ews
 19344	ow_pr
 19400	ow_pr
 19409	ew_pr
@@ -1257,9 +1257,9 @@ aw_pr
 19994	os_ou
 19997	is_ews
 20021	w_stem
-20026	
-20030	
-20034	
+20026	exclam
+20030	exclam
+20034	exclam
 20041	w_stem
 20057	w_stem
 20131	aw_pr
@@ -1275,7 +1275,7 @@ irreg_mi
 20286	w_stem
 20300	aw_pr
 20303	ew_pr
-20333	os_h_on
+20333	ow_pr
 20355	aw_pr
 ow_pr
 20369	art_adj
@@ -1309,7 +1309,7 @@ ow_pr
 20928	w_stem
 21056	aw_pr
 w_stem
-21063	
+21063	exclam
 21095	aor1
 21104	aw_pr
 21131	ew_pr
@@ -1320,9 +1320,9 @@ w_stem
 21229	os_h_on
 21256	os_ou
 21289	irreg_mi
-21304	
-21316	
-21328	
+21304	exclam
+21316	exclam
+21328	exclam
 21338	ew_pr
 21342	w_stem
 21355	perfp_vow
@@ -1337,7 +1337,7 @@ w_stem
 21615	ow_pr
 21639	aw_pr
 21651	aw_pr
-21657	
+21657	conj
 21675	ew_pr
 21677	ow_pr
 21679	ow_pr
@@ -1351,11 +1351,11 @@ w_stem
 21736	os_ou
 21742	aw_pr
 wn_ousa_on
-21793	
+21793	exclam
 21822	wn_ousa_on
 21876	aw_pr
 21885	aw_pr
-21890	
+21890	conj
 21893	aw_pr
 21993	h_hs
 22019	w_stem
@@ -1368,7 +1368,7 @@ aw_fut
 22221	h_hs
 22229	aw_pr
 22252	aw_pr
-22255	
+22255	conj
 22257	w_stem
 22326	aor1
 22340	w_stem
@@ -1380,13 +1380,13 @@ aw_fut
 22506	aw_pr
 22509	article
 22519	aw_pr
-22526	irreg_decl3
-22532	
+22526	eus_ews
+22532	exclam
 22538	aw_pr
 22567	aw_pr
-22573	hs_eos
-22611	
-22615	
+22573	h_hs
+22611	exclam
+22615	exclam
 22626	w_stem
 aw_pr
 22640	aw_pr
@@ -1403,11 +1403,11 @@ aw_pr
 22890	w_stem
 22892	irreg_decl3
 22897	ow_pr
-22909	irreg_decl3
-22918	
+22909	eus_ews
+22918	exclam
 22920	ew_pr
 22936	ew_pr
-22953	
+22953	oos_oon
 22968	ew_pr
 23001	w_stem
 23068	w_stem
@@ -1442,7 +1442,7 @@ aw_pr
 23679	aw_pr
 23681	aw_fut
 23686	w_stem
-23699	
+23699	conj
 23703	aw_pr
 23742	s_dos
 23768	w_stem
@@ -1456,26 +1456,26 @@ aw_pr
 23901	aw_pr
 w_stem
 23970	aw_pr
-23987	
+23987	exclam
 23998	w_stem
-24002	
-24007	
+24002	conj
+24007	conj
 24026	aor2
 24083	hs_ou
 24233	ath_primary
 24268	w_stem
 24315	aw_pr
-24329	
+24329	exclam
 24331	aw_pr
 24354	is_ews
 24377	ew_pr
 24387	w_stem
 24424	aw_pr
-24429	
+24429	exclam
 24455	aw_pr
-24458	
+24458	exclam
 24481	aw_pr
-24484	
+24484	exclam
 24496	aw_pr
 24525	aw_pr
 24553	aw_pr
@@ -1487,7 +1487,7 @@ w_stem
 24728	w_stem
 24735	aw_pr
 24748	ew_pr
-24806	
+24806	exclam
 24868	w_stem
 24880	aw_pr
 24897	w_stem
@@ -1501,10 +1501,10 @@ w_stem
 25093	reg_fut
 25115	ow_pr
 25123	aw_pr
-25145	
+25145	exclam
 25147	h_hs
 25155	reg_fut
-
+exclam
 25172	aw_pr
 25194	aw_pr
 25207	h_hs
@@ -1515,7 +1515,7 @@ aor1
 25313	ow_pr
 25325	wn_ousa_on
 25368	hs_eos
-25409	
+25409	exclam
 25434	os_ou
 25441	w_stem
 25469	aw_pr
@@ -1527,7 +1527,7 @@ aor1
 25565	w_stem
 25572	ow_pr
 25576	h_hs
-25608	
+25608	ew_pr
 25623	aw_fut
 25625	is_ews
 25702	ow_pr
@@ -1552,7 +1552,7 @@ perfp_vow
 25936	aw_pr
 25939	ow_pr
 evw_pr
-irreg_decl3
+eus_ews
 25947	aw_pr
 25967	w_stem
 25973	w_stem
@@ -1581,27 +1581,27 @@ aw_pr
 26464	eus_ews
 26477	ew_pr
 26479	ew_pr
-
-26485	
-26491	
-26497	
-26503	
-26508	
-
+exclam
+26485	exclam
+26491	exclam
+26497	exclam
+26503	exclam
+26508	os_h_on
+exclam
 26539	aw_pr
 26557	aw_pr
-26559	
+26559	os_h_on
 26568	aw_fut
 26584	aw_pr
 26592	ath_primary
 26603	w_stem
 26627	h_hs
-26629	
+26629	conj
 26631	aw_pr
-26634	
+26634	exclam
 ow_pr
 26637	ow_pr
-
+exclam
 26641	w_stem
 26643	ew_pr
 26691	ow_pr
@@ -1630,7 +1630,7 @@ w_stem
 27032	hs_ou
 27036	h_hs
 27051	h_hs
-27091	
+27091	conj
 27110	aw_pr
 27121	aw_pr
 27145	aw_pr
@@ -1638,7 +1638,7 @@ w_stem
 27182	ow_pr
 27213	reg_fut
 27220	ow_pr
-27224	
+27224	conj
 27226	ow_pr
 27265	w_stem
 27287	ow_pr
@@ -1649,7 +1649,7 @@ w_stem
 27430	ow_pr
 27453	ow_pr
 27459	os_ou
-27461	ew_pr
+27461	aw_fut
 27518	w_stem
 27521	aw_pr
 27577	w_stem
@@ -1667,7 +1667,7 @@ w_stem
 27774	irreg_mi
 27793	w_stem
 27799	os_h_on
-27805	
+27805	conj
 27811	aw_pr
 27815	aw_pr
 27825	os_ou
@@ -1681,9 +1681,9 @@ w_stem
 evw_pr
 27904	os_ou
 27914	w_stem
-27920	
+27920	conj
 27940	w_stem
-27947	
+27947	conj
 27977	hs_ou
 27990	aw_pr
 28000	w_stem
@@ -1696,14 +1696,14 @@ evw_pr
 28163	ws_w
 28182	ow_pr
 28222	aw_pr
-28252	
+28252	conj
 28258	ws_w
 28314	reg_fut
 28319	ew_pr
 28322	aw_fut
 ow_pr
 28346	aor1
-28350	
+28350	exclam
 28365	w_stem
 28388	h_hs
 28398	ow_pr
@@ -1719,7 +1719,7 @@ ow_pr
 28612	w_stem
 28616	ew_pr
 28629	aor1
-28633	
+28633	exclam
 28651	ew_pr
 28666	reg_fut
 28676	ew_fut
@@ -1734,12 +1734,12 @@ ow_pr
 28892	aw_pr
 28920	h_hs
 28939	aw_pr
-28953	os_h_on
+28953	ow_pr
 28963	os_ou
 28975	hs_ou
-29001	
+29001	conj
 29035	os_ou
-29075	
+29075	conj
 ow_pr
 hs_eos
 29084	aw_fut
@@ -1778,20 +1778,20 @@ hs_eos
 29727	ow_pr
 29730	h_hs
 29741	irreg_mi
-29757	
-29761	
+29757	exclam
+29761	exclam
 29763	is_ews
-29788	
+29788	ew_pr
 ow_pr
 29796	w_stem
 29809	ow_pr
 29811	is_ews
 29813	ew_pr
 29815	ew_pr
-29820	
+29820	ew_pr
 29835	reg_fut
 ow_pr
-29875	
+29875	ew_pr
 29889	irreg_mi
 h_hs
 29917	aw_pr
@@ -1799,22 +1799,22 @@ h_hs
 30016	aor2
 30113	aw_pr
 30145	reg_fut
-30160	
+30160	exclam
 30166	ew_pr
 30179	fut_perf
 30191	ow_pr
-30197	
-30269	
+30197	exclam
+30269	exclam
 30279	ow_pr
-30291	
+30291	exclam
 30298	reg_fut
 30316	ow_pr
 30325	ew_pr
-30352	irreg_adj3
+30352	aor1
 30358	os_h_on
 30396	ow_pr
 30495	aw_pr
-30508	
+30508	exclam
 30514	w_stem
 30545	os_h_on
 30551	ew_pr
@@ -1822,21 +1822,21 @@ h_hs
 30591	ow_pr
 30635	aw_fut
 30638	aw_pr
-30684	
+30684	ew_pr
 30697	aor1
-30699	
+30699	ew_pr
 ow_pr
 30712	reg_fut
 30727	aw_pr
 30730	ew_pr
 30732	aw_fut
-30755	
+30755	conj
 30783	h_hs
 30886	ow_pr
 30891	ow_pr
 30926	ew_pr
 30950	ew_pr
-30982	
+30982	conj
 31061	ew_pr
 31121	ow_pr
 31125	w_stem
@@ -1844,21 +1844,21 @@ ow_pr
 31189	h_hs
 31192	ow_pr
 31230	ew_pr
-31237	
-31242	
-31252	
+31237	exclam
+31242	exclam
+31252	exclam
 31265	aor1
-31267	
+31267	exclam
 31322	aw_pr
 31345	hs_ou
 31349	os_h_on
-
+conj
 31358	ow_pr
 31370	aw_fut
 31391	ow_pr
 31491	aor2
 31515	reg_fut
-31539	
+31539	exclam
 aw_pr
 31560	evw_pr
 31645	ws_w
@@ -1868,8 +1868,8 @@ aw_pr
 31768	ow_pr
 31783	ow_pr
 31789	ow_pr
-31822	os_h_on
-31842	verb_adj2
+31822	ow_pr
+31842	evw_pr
 31917	is_ews
 31945	is_ews
 31948	hs_ou
@@ -1885,85 +1885,85 @@ aw_pr
 32291	aor1
 32298	aw_pr
 32304	aw_pr
-32306	
+32306	ew_pr
 32318	aor1
 ew_pr
 32321	ew_pr
-
+exclam
 32338	ow_pr
 32350	ow_pr
 32361	aor1
 32366	ow_pr
 ow_pr
-32376	
+32376	exclam
 32384	aor1
 32386	reg_fut
 ew_pr
 32389	ew_pr
-
+exclam
 32475	ow_pr
 32495	reg_fut
 32498	ow_pr
 32506	ew_pr
 32527	aor2_pass
 32551	os_ou
-32582	
+32582	exclam
 32586	w_stem
 32600	w_stem
 32668	ow_pr
-32684	
+32684	conj
 32742	aor1
 32778	ew_pr
 32847	aw_fut
-ew_pr
+aw_fut
 32864	ow_pr
 32888	aw_pr
 32902	ew_pr
 32904	aw_fut
-32928	
+32928	conj
 32950	evw_pr
 32952	aw_pr
 32999	aor2_pass
 33051	ow_pr
 33053	os_ou
-33064	
+33064	exclam
 33073	aw_pr
 33104	ow_pr
 33106	irreg_mi
 33132	aw_pr
-33135	os_h_on
+33135	ow_pr
 33161	irreg_mi
 33188	ath_primary
 33200	aw_pr
 33217	aw_pr
 33227	aw_pr
-33238	
+33238	exclam
 33277	ow_pr
 33302	ow_pr
-33324	
+33324	ew_pr
 33329	heis_hessa
 33341	ow_pr
-33364	
+33364	exclam
 33401	w_stem
-33414	
+33414	exclam
 33419	ew_pr
 33428	aw_fut
 is_ews
 33439	w_stem
 33442	h_hs
-33445	
-33450	
-33454	
+33445	exclam
+33450	exclam
+33454	ew_pr
 33456	h_hs
 33467	ew_pr
 33475	ew_pr
 33503	aw_pr
 33524	aw_pr
-33543	irreg_decl3
+33543	eus_ews
 33566	aw_pr
 33574	aw_pr
 33577	aw_pr
-33591	os_h_on
+33591	ow_pr
 33650	ow_pr
 33662	is_ews
 33667	reg_fut
@@ -1977,7 +1977,7 @@ is_ews
 w_stem
 33881	aw_pr
 33900	w_stem
-33903	
+33903	exclam
 33983	aw_fut
 34008	ow_pr
 34033	ew_pr
@@ -1989,9 +1989,9 @@ w_stem
 34192	w_stem
 34195	os_h_on
 34206	aw_fut
-34227	
+34227	exclam
 34246	ew_pr
-34257	os_h_on
+34257	ow_pr
 34260	os_h_on
 34264	os_h_on
 34278	aw_pr
@@ -2003,10 +2003,10 @@ w_stem
 34331	ow_pr
 34356	ath_primary
 34392	is_ews
-34427	
-34443	
-34453	
-34483	
+34427	exclam
+34443	exclam
+34453	exclam
+34483	exclam
 34490	ow_pr
 34497	ow_pr
 34505	ow_pr
@@ -2055,10 +2055,10 @@ os_ou
 35100	aw_pr
 35105	irreg_decl3
 w_stem
-35123	
+35123	exclam
 35125	reg_fut
-35128	
-35130	
+35128	exclam
+35130	exclam
 w_stem
 35136	ow_pr
 35145	aw_pr
@@ -2083,11 +2083,11 @@ is_ews
 fut_perf
 35401	ow_pr
 35407	os_h_on
-35428	
+35428	exclam
 35481	w_stem
 35497	h_hs
-35502	
-35526	
+35502	exclam
+35526	exclam
 35548	aw_pr
 35563	ow_pr
 35573	aw_pr
@@ -2110,8 +2110,8 @@ fut_perf
 35811	ew_pr
 35818	ew_pr
 35837	ow_pr
-35913	
-35917	
+35913	exclam
+35917	exclam
 35949	ow_pr
 35966	aw_pr
 35974	reg_fut
@@ -2123,7 +2123,7 @@ os_ou
 36047	aw_pr
 36063	aw_pr
 36084	irreg_mi
-36101	
+36101	exclam
 36152	aw_pr
 36161	reg_fut
 36172	ow_pr
@@ -2132,26 +2132,26 @@ os_ou
 36239	aor2
 36246	aw_pr
 36299	aw_pr
-36311	
+36311	exclam
 36313	ew_pr
 36396	reg_fut
 36437	os_ou
-36476	
-36491	
-36510	
+36476	ew_pr
+36491	exclam
+36510	exclam
 36518	wn_ousa_on
 36566	aw_pr
 36619	aw_fut
 36623	aw_pr
 36632	aw_pr
-36655	
+36655	oos_oon
 36685	ow_pr
 36687	w_stem
 36721	ow_pr
 36728	aw_pr
 36785	aw_pr
 36840	os_h_on
-36873	
+36873	oos_oon
 36879	aw_pr
 36939	w_stem
 36948	art_adj
@@ -2164,25 +2164,25 @@ os_ou
 37092	aw_fut
 aw_pr
 w_stem
-37108	
+37108	conj
 37112	aw_pr
 37168	reg_fut
 os_ou
 37192	aor1
 37215	os_ou
 37236	w_stem
-37317	
+37317	exclam
 37342	ew_pr
-37351	
-37368	
-37380	
+37351	exclam
+37368	conj
+37380	exclam
 37385	aor1
 37388	ew_pr
 37390	aor2
 37423	ew_fut
 37501	aw_pr
 37536	os_ou
-37542	
+37542	exclam
 37544	aw_pr
 37630	ow_pr
 37632	aor1
@@ -2193,7 +2193,7 @@ reg_fut
 37683	aor1
 37716	aw_pr
 37756	aw_pr
-37770	
+37770	oos_oon
 37795	ow_pr
 37799	ow_pr
 37817	ow_pr
@@ -2207,20 +2207,20 @@ reg_fut
 37955	w_stem
 37967	ew_pr
 37988	h_hs
-38011	
+38011	conj
 ow_pr
-38014	
+38014	conj
 38017	reg_fut
 38047	aw_pr
-38053	
+38053	exclam
 38064	ow_pr
 38070	aw_fut
-38073	ew_pr
+38073	aw_fut
 38089	fut_perf
 38126	ow_pr
 38134	ow_pr
 38141	irreg_decl3
-38149	
+38149	exclam
 38179	aw_pr
 38197	article
 38199	w_stem
@@ -2230,31 +2230,31 @@ ow_pr
 article
 38253	ew_pr
 38255	ew_pr
-
-38261	
+exclam
+38261	exclam
 38266	aw_fut
-
-38273	
-38279	
-38282	
-
-38308	
+exclam
+38273	exclam
+38279	exclam
+38282	os_h_on
+exclam
+38308	os_h_on
 38322	irreg_mi
-38347	os_h_on
+38347	ow_pr
 38378	aw_fut
 38383	w_stem
 38421	aw_fut
-
-38449	os_h_on
+os_h_on
+38449	ow_pr
 38483	ow_pr
 38494	aw_pr
 aw_fut
 38510	aor2
 38529	ow_pr
 38580	w_stem
-38585	
+38585	exclam
 38588	h_hs
-
+exclam
 38626	is_ews
 38646	ow_pr
 38682	w_stem
@@ -2290,26 +2290,26 @@ aw_fut
 39104	ew_pr
 39110	os_h_on
 39134	os_h_on
-39164	
-39168	
-39175	
-39185	
+39164	exclam
+39168	exclam
+39175	exclam
+39185	exclam
 39187	ew_pr
-39201	
+39201	exclam
 39233	irreg_mi
 39293	aw_pr
 39299	ow_pr
 39314	ath_primary
 39319	w_stem
 39329	os_h_on
-39355	ew_pr
+39355	aw_fut
 39363	w_stem
 39402	aw_pr
 39409	aw_fut
 39413	ew_pr
 39453	aw_pr
 39457	ew_pr
-39466	
+39466	conj
 39477	irreg_decl3
 w_stem
 39588	ow_pr
@@ -2317,14 +2317,14 @@ w_stem
 39621	aw_fut
 39626	irreg_decl3
 w_stem
-39644	
+39644	ew_pr
 39647	aw_pr
-39654	irreg_adj3
+39654	aor1
 39661	w_stem
 39678	is_ews
 39683	aw_pr
-39690	
-39694	
+39690	ew_pr
+39694	ew_pr
 39696	aw_pr
 39702	evw_pr
 39738	reg_fut
@@ -2338,10 +2338,10 @@ evw_pr
 39860	aw_fut
 39870	w_stem
 39879	h_hs
-39885	
+39885	exclam
 39889	article
 39901	ew_pr
-39909	irreg_decl3
+39909	eus_ews
 39911	w_stem
 39916	aw_fut
 39927	os_h_on
@@ -2372,32 +2372,32 @@ evw_pr
 40333	aw_pr
 40344	ow_pr
 40363	aw_pr
-40402	
+40402	conj
 40414	w_stem
 40474	w_stem
 40485	w_stem
 40487	ow_pr
 40498	ow_pr
-40523	
+40523	exclam
 40536	ew_fut
 40555	w_stem
-40561	
+40561	conj
 40564	aw_pr
 40586	aw_fut
 40607	w_stem
 40610	aw_pr
 40612	ew_pr
-40614	os_h_on
+40614	ow_pr
 40619	aw_fut
 40623	irreg_mi
 40645	w_stem
 40648	aw_pr
 40703	ew_pr
 40707	w_stem
-40716	
+40716	conj
 40723	hs_ou
 40753	aw_fut
-40778	
+40778	exclam
 40790	ew_pr
 40811	evw_pr
 40837	ew_pr
@@ -2410,36 +2410,36 @@ evw_pr
 40931	ow_pr
 40943	aw_pr
 40946	os_h_on
-40957	
+40957	conj
 40979	ow_pr
 40995	w_stem
 41009	aor1
 41026	evw_pr
-41037	
-
+41037	ew_pr
+exclam
 41048	evw_pr
 41083	aw_pr
 41105	aw_pr
 41149	aw_pr
 41158	ew_pr
 41161	evw_pr
-41194	
+41194	exclam
 41213	w_stem
-41220	
+41220	conj
 41229	ow_pr
 41278	aor1
 41300	reg_fut
-41340	
+41340	exclam
 41352	evw_pr
 41363	aw_pr
 41373	aw_pr
 41381	evw_pr
-41390	
+41390	ew_pr
 41398	ow_pr
 41403	os_h_on
-41421	
-41425	
-41429	
+41421	exclam
+41425	exclam
+41429	exclam
 41454	irreg_mi
 41465	reg_fut
 41467	ow_pr
@@ -2456,43 +2456,43 @@ wn_ousa_on
 41773	ath_primary
 41815	aw_pr
 41892	os_h_on
-41901	
+41901	conj
 41928	aor2
 41934	w_stem
 41950	os_h_on
 41962	aw_fut
 aw_pr
 41971	os_ou
-41977	
+41977	conj
 41991	aor2
 41997	w_stem
-42001	
+42001	ew_pr
 42003	aw_pr
 42058	ws_wn
 42115	ow_pr
 42121	aw_pr
 42134	aw_pr
-42142	
-
-42149	
-42156	
+42142	ew_pr
+exclam
+42149	exclam
+42156	exclam
 42178	irreg_mi
-42197	
-
-42204	
-42295	
-42301	
-42337	
+42197	ew_pr
+exclam
+42204	exclam
+42295	exclam
+42301	exclam
+42337	exclam
 42347	ow_pr
-42354	
-42358	
+42354	exclam
+42358	exclam
 42389	w_stem
-42393	
-42440	
+42393	exclam
+42440	exclam
 42490	ow_pr
-42511	
+42511	exclam
 42532	w_stem
-42535	
+42535	exclam
 42554	ow_pr
 42573	w_stem
 42584	aw_pr
@@ -2502,17 +2502,17 @@ aw_pr
 42641	ow_pr
 42651	fut_perf
 42658	fut_perf
-42684	
-42700	
+42684	ew_pr
+42700	ew_pr
 42707	ath_primary
 42713	h_hs
 42739	w_stem
 42780	ew_pr
 42790	aw_pr
 42809	aw_pr
-42881	
-42885	
-42888	os_h_on
+42881	exclam
+42885	exclam
+42888	ow_pr
 42906	aw_pr
 42922	ew_pr
 42943	ew_pr
@@ -2525,7 +2525,7 @@ aw_pr
 42995	ow_pr
 43016	hs_es
 43040	aw_pr
-43044	
+43044	exclam
 43048	aw_pr
 reg_fut
 43053	aw_pr
@@ -2534,7 +2534,7 @@ reg_fut
 43117	evw_pr
 43124	evw_pr
 43131	ew_pr
-43133	
+43133	conj
 os_ou
 43136	os_h_on
 43145	is_ews
@@ -2549,18 +2549,18 @@ ow_pr
 43259	aw_fut
 43263	os_h_on
 43269	aor1
-43284	
+43284	exclam
 43295	h_hs
 43305	h_hs
 43319	h_hs
 43336	ow_pr
 43383	evw_pr
-43429	os_h_on
+43429	ow_pr
 43452	w_stem
 43454	ow_pr
 43486	hs_ou
 h_hs
-43493	os_h_on
+43493	ow_pr
 43504	aw_pr
 43516	is_ews
 43518	w_stem
@@ -2587,7 +2587,7 @@ is_ews
 43857	h_hs
 43861	w_stem
 43868	aw_pr
-43921	
+43921	exclam
 43933	wn_ousa_on
 43962	wn_ousa_on
 43984	aw_pr
@@ -2599,10 +2599,10 @@ is_ews
 44119	ew_pr
 44138	w_stem
 44154	wn_ousa_on
-44226	
+44226	exclam
 44237	ew_pr
 44292	h_hs
-44318	
+44318	exclam
 evw_pr
 44339	aor1
 44346	ew_pr
@@ -2611,17 +2611,17 @@ evw_pr
 44434	aw_fut
 44439	aw_fut
 44475	aw_pr
-44500	
+44500	exclam
 aw_fut
 44516	aw_fut
-44518	ew_pr
+44518	aw_fut
 aw_fut
-44528	
-44539	ew_pr
-44552	
+44528	exclam
+44539	aw_fut
+44552	exclam
 44573	aw_fut
 w_stem
-44579	
+44579	exclam
 os_ou
 44598	aw_fut
 44609	aw_pr
@@ -2632,7 +2632,7 @@ aw_fut
 44653	is_ews
 44695	os_ou
 44723	aw_pr
-44727	irreg_decl3
+44727	eus_ews
 44737	is_ews
 44742	aor2
 44753	ow_pr
@@ -2641,16 +2641,16 @@ aw_fut
 44807	os_ou
 44817	ew_pr
 44833	ow_pr
-44855	
+44855	exclam
 44859	w_stem
 44861	aw_pr
 44865	ow_pr
-44894	
-44904	
+44894	exclam
+44904	exclam
 44908	reg_fut
-44920	
+44920	exclam
 44938	ew_pr
-
+exclam
 45006	ow_pr
 45030	aor2
 45044	aw_fut
@@ -2659,14 +2659,14 @@ aw_fut
 45074	aw_pr
 45077	ow_pr
 evw_pr
-irreg_decl3
+eus_ews
 45084	aw_pr
 45092	reg_fut
 45112	w_stem
 45118	ow_pr
 45149	ow_pr
 45197	aw_pr
-os_h_on
+ow_pr
 45230	is_ews
 45381	is_ews
 45411	w_stem
@@ -2689,11 +2689,11 @@ aw_pr
 45611	w_stem
 45620	w_stem
 45631	h_hs
-45633	
+45633	conj
 45635	aw_pr
-45638	
+45638	exclam
 45641	ow_pr
-
+exclam
 45646	ew_pr
 45691	ow_pr
 45693	reg_fut
@@ -2716,7 +2716,7 @@ aw_pr
 46100	ow_pr
 46168	h_hs
 46172	w_stem
-46181	
+46181	conj
 46193	ow_pr
 46208	ew_pr
 46215	aw_pr
@@ -2732,11 +2732,11 @@ aw_pr
 46465	aw_pr
 46477	w_stem
 46484	os_ou
-46486	
+46486	conj
 46491	aw_pr
 46505	w_stem
 46510	os_h_on
-46519	
+46519	conj
 46522	h_hs
 46610	aw_fut
 46664	aw_pr
@@ -2750,14 +2750,14 @@ aw_pr
 46728	ow_pr
 ow_pr
 46747	aw_pr
-46750	
-46758	
+46750	exclam
+46758	exclam
 46778	w_stem
 46782	is_ews
-46785	
+46785	conj
 46788	aor1
 46813	aw_pr
-46819	os_h_on
+46819	ow_pr
 46833	w_stem
 46840	evw_pr
 46847	ow_pr
@@ -2768,7 +2768,7 @@ ow_pr
 46927	aw_pr
 46936	ow_pr
 47035	ws_w
-47051	
+47051	conj
 47071	ow_pr
 47081	ow_pr
 47118	ws_w
@@ -2784,12 +2784,12 @@ ow_pr
 47352	w_stem
 47435	os_h_on
 47445	reg_fut
-47458	
+47458	conj
 47462	wn_ousa_on
 47501	ow_pr
 ow_pr
 47560	ow_pr
-47606	
+47606	ew_pr
 47610	aor2
 47615	os_h_on
 47617	ew_pr
@@ -2803,12 +2803,12 @@ ow_pr
 47977	ew_pr
 47988	aw_pr
 48007	aw_pr
-
+exclam
 48014	w_stem
 48018	irreg_mi
-48035	
+48035	conj
 48039	ow_pr
-48058	
+48058	exclam
 48075	ew_pr
 48136	reg_fut
 48146	aw_pr
@@ -2824,7 +2824,7 @@ ow_pr
 48316	ew_pr
 48344	hs_ou
 48354	os_ou
-48361	
+48361	ew_pr
 48384	s_dos
 48452	ow_pr
 48488	h_hs
@@ -2846,7 +2846,7 @@ ow_pr
 48782	ew_pr
 48793	w_stem
 48842	is_ews
-48881	
+48881	ew_pr
 48890	ow_pr
 48901	evw_pr
 48921	ew_pr
@@ -2854,8 +2854,8 @@ ow_pr
 48940	ew_pr
 48948	aw_pr
 48978	ew_pr
-
-48988	
+conj
+48988	conj
 49032	ew_pr
 49044	ew_pr
 49056	ew_pr
@@ -2870,14 +2870,14 @@ ow_pr
 49331	w_stem
 49366	ow_pr
 49434	aw_pr
-49443	
+49443	ew_pr
 49451	w_stem
 49468	aor2
 49481	aw_pr
 49509	ow_pr
 49514	aw_pr
 49546	aw_pr
-49558	
+49558	ew_pr
 49574	w_stem
 49599	w_stem
 49614	w_stem
@@ -2885,7 +2885,7 @@ ow_pr
 49659	w_stem
 49662	w_stem
 49683	ow_pr
-49694	
+49694	ew_pr
 49704	w_stem
 49727	w_stem
 49737	ath_primary
@@ -2902,20 +2902,20 @@ w_stem
 49905	w_stem
 49919	w_stem
 49928	w_stem
-49944	
+49944	oos_oon
 49949	w_stem
-49960	
-ath_secondary
+49960	conj
+ew_pr
 49963	w_stem
 50002	w_stem
 50015	aor1
-50021	
+50021	conj
 50027	ow_pr
 50037	aor1
 50089	h_hs
 50107	ow_pr
 50113	h_hs
-50153	
+50153	exclam
 50217	ow_pr
 50228	w_stem
 50258	article
@@ -2946,15 +2946,15 @@ ew_fut
 50786	ow_pr
 50792	aor2
 50835	evw_pr
-50843	ew_pr
+50843	aw_fut
 50863	ow_pr
-50865	ew_pr
+50865	aw_fut
 50873	aor2_pass
 50910	h_hs
 50925	is_ews
 50941	hs_eos
 50980	w_stem
-50995	
+50995	os_h_on
 51022	aw_fut
 51034	w_stem
 51052	w_stem
@@ -2971,10 +2971,10 @@ w_stem
 51180	aw_pr
 51195	w_stem
 51213	w_stem
-51219	
+51219	exclam
 51231	w_stem
 51238	aw_pr
-51251	
+51251	exclam
 51256	w_stem
 51271	w_stem
 51276	w_stem
@@ -2998,7 +2998,7 @@ reg_fut
 51520	aor1
 51534	w_stem
 51541	aw_pr
-
+os_h_on
 51558	aw_pr
 51571	art_adj
 51601	article
@@ -3009,11 +3009,11 @@ reg_fut
 51756	aw_pr
 51765	w_stem
 51777	w_stem
-51784	
+51784	exclam
 ew_pr
 51803	ow_pr
 51811	ew_pr
-51849	
+51849	exclam
 ew_pr
 51907	ow_pr
 aw_pr
@@ -3022,17 +3022,17 @@ w_stem
 51976	ow_pr
 52000	w_stem
 52005	ath_primary
-52008	
+52008	exclam
 52010	ew_pr
 52031	os_ou
 52043	h_hs
 52057	ath_primary
-52060	
+52060	exclam
 52062	ew_pr
 52072	ath_primary
 52074	ew_pr
 52138	ew_fut
-52148	
+52148	conj
 52151	aw_pr
 52168	aw_pr
 52171	w_stem
@@ -3040,7 +3040,7 @@ w_stem
 52177	ow_pr
 52189	w_stem
 52206	article
-52215	os_h_on
+52215	ow_pr
 52220	hs_eos
 52227	article
 52233	is_ews
@@ -3082,7 +3082,7 @@ ew_fut
 52792	w_stem
 52808	is_ews
 52815	aw_pr
-52854	os_h_on
+52854	ow_pr
 52864	w_stem
 52875	aw_fut
 52886	aw_pr
@@ -3091,7 +3091,7 @@ ew_fut
 52947	aw_pr
 52966	ow_pr
 52994	w_stem
-53019	
+53019	ew_pr
 53024	aw_pr
 53049	aw_pr
 ow_pr
@@ -3151,11 +3151,11 @@ aw_pr
 53774	aw_pr
 53790	ew_pr
 53798	article
-53834	irreg_decl3
+53834	eus_ews
 53844	aw_pr
 53880	ow_pr
 53964	aor2
-53982	
+53982	exclam
 53987	article
 54016	w_stem
 54043	hs_eos
@@ -3194,7 +3194,7 @@ os_ou
 54635	aor2_pass
 54666	aor1
 54685	aor2
-54688	irreg_decl3
+54688	eus_ews
 54726	aw_pr
 54737	w_stem
 54754	hs_eos
@@ -3206,14 +3206,14 @@ os_ou
 54874	ow_pr
 54888	os_ou
 54902	ow_pr
-54923	
+54923	conj
 54925	aw_pr
-54956	
+54956	exclam
 54965	os_ou
 54996	reg_fut
 55001	is_ews
 55006	aor2
-55017	
+55017	exclam
 55042	aw_pr
 55051	aw_pr
 55059	os_ou
@@ -3221,7 +3221,7 @@ os_ou
 os_ou
 55104	aor2_pass
 55111	os_ou
-55118	
+55118	exclam
 55150	reg_fut
 55163	aw_pr
 55175	aw_pr
@@ -3230,7 +3230,7 @@ os_ou
 55188	w_stem
 55191	aw_pr
 55202	ow_pr
-55207	ath_secondary
+55207	ew_pr
 55222	aor2
 55231	aw_pr
 55243	os_ou
@@ -3280,7 +3280,7 @@ ew_pr
 55881	ow_pr
 55883	aw_pr
 55926	evw_pr
-55933	
+55933	conj
 56001	os_ou
 56009	art_adj
 os_ou
@@ -3288,21 +3288,21 @@ os_ou
 os_ou
 56017	aw_pr
 56026	os_ou
-56032	
+56032	exclam
 56070	w_stem
 56120	os_ou
 56138	art_adj
 os_ou
 56152	w_stem
-56164	
-56185	
+56164	exclam
+56185	conj
 56204	w_stem
 56248	is_ews
 56252	is_ews
 56268	aw_pr
 56283	is_ews
 56299	aor1
-56333	
+56333	exclam
 56338	aor2
 56414	aw_pr
 56534	ow_pr
@@ -3337,7 +3337,7 @@ os_ou
 56937	ow_pr
 56947	aw_pr
 56967	os_ou
-56969	
+56969	conj
 56980	aor2
 56987	aor2
 56994	article
@@ -3385,7 +3385,7 @@ aw_fut
 57509	aw_fut
 57596	ew_pr
 57601	w_stem
-57608	
+57608	exclam
 w_stem
 57618	reg_fut
 57621	ew_pr
@@ -3403,7 +3403,7 @@ w_stem
 57888	aw_pr
 57892	aor1
 57895	h_hs
-57905	ath_secondary
+57905	ew_pr
 57921	aw_pr
 57927	aor2
 57959	w_stem
@@ -3422,13 +3422,13 @@ w_stem
 58253	ow_pr
 58278	ow_pr
 w_stem
-58292	irreg_decl3
+58292	eus_ews
 58296	os_ou
 58379	ow_pr
-58402	
+58402	ew_pr
 58425	ath_primary
 58435	ow_pr
-58459	
+58459	exclam
 58508	ow_pr
 58574	w_stem
 58582	w_stem
@@ -3445,7 +3445,7 @@ aw_pr
 58666	ew_pr
 reg_fut
 58686	aw_pr
-58696	
+58696	exclam
 58704	ow_pr
 58716	wn_ousa_on
 58720	art_adj
@@ -3522,9 +3522,9 @@ ath_primary
 59705	ow_pr
 59713	aw_pr
 59722	w_stem
-59743	
+59743	exclam
 59749	w_stem
-59755	
+59755	conj
 59764	aw_pr
 59768	ew_pr
 59785	aor2
@@ -3633,26 +3633,26 @@ aor2
 61170	is_ews
 61209	aw_pr
 61229	w_stem
-61242	
+61242	conj
 61273	aw_pr
 61291	w_stem
 61304	hs_eos
 61336	w_stem
 61411	aw_pr
-61434	
+61434	exclam
 61445	aw_fut
 61469	ew_pr
 61498	reg_fut
-61509	
+61509	exclam
 61522	ow_pr
-61528	
+61528	exclam
 61543	article
 61573	aw_pr
 61607	aw_pr
-61618	
-61637	
+61618	exclam
+61637	exclam
 61656	aor2_pass
-61683	
+61683	exclam
 61746	aw_pr
 61771	aw_pr
 61791	aw_pr
@@ -3660,7 +3660,7 @@ aor2
 61810	aor1
 61864	aor1
 61874	ew_pr
-61900	
+61900	exclam
 61912	aw_pr
 61923	aw_pr
 61927	ow_pr
@@ -3727,9 +3727,9 @@ ath_primary
 63150	aw_pr
 63158	aor2_pass
 63213	w_stem
-63220	
+63220	exclam
 63222	w_stem
-63228	
+63228	exclam
 63253	aor2_pass
 w_stem
 63335	art_adj
@@ -3742,7 +3742,7 @@ w_stem
 63560	w_stem
 63562	h_hs
 63564	ew_pr
-63591	
+63591	os_h_on
 63618	ow_pr
 63646	aw_pr
 63675	evw_pr
@@ -3775,15 +3775,15 @@ w_stem
 64023	ow_pr
 64035	w_stem
 64037	aw_fut
-64041	
-64052	
+64041	exclam
+64052	exclam
 64063	aw_pr
 64077	w_stem
 64091	hs_ou
 64095	aw_pr
-64100	
+64100	ew_pr
 64103	article
-64151	
+64151	os_h_on
 ow_pr
 64171	art_adj
 64177	w_stem
@@ -3806,11 +3806,11 @@ w_stem
 64357	aw_fut
 64365	w_stem
 64375	aw_fut
-64397	os_h_on
+64397	ow_pr
 64407	ow_pr
 64411	w_stem
 64417	ow_pr
-64421	verb_adj2
+64421	evw_pr
 64423	w_stem
 64425	irreg_decl3
 64430	ow_pr
@@ -3826,7 +3826,7 @@ w_stem
 64489	ow_pr
 64491	w_stem
 64500	w_stem
-64517	
+64517	exclam
 64520	is_ews
 64523	is_ews
 64533	is_ews
@@ -3836,9 +3836,9 @@ w_stem
 64577	w_stem
 64584	w_stem
 64588	aw_pr
-64592	
+64592	conj
 64624	aw_pr
-64628	
+64628	conj
 64656	aw_pr
 64658	article
 64663	aw_pr
@@ -3849,17 +3849,17 @@ w_stem
 64778	aw_pr
 64799	aw_pr
 64817	aor1
-64823	
+64823	conj
 64911	ew_pr
 64934	ow_pr
 64984	w_stem
 65077	ew_pr
 65081	evw_pr
 65086	ow_pr
-65104	
+65104	conj
 65164	w_stem
 65170	irreg_mi
-65191	
+65191	os_h_on
 65200	ow_pr
 65319	hs_ou
 h_hs
@@ -3871,7 +3871,7 @@ h_hs
 65447	ow_pr
 65479	aor1
 65485	reg_fut
-65492	ath_secondary
+65492	ew_pr
 65498	ow_pr
 65518	ow_pr
 65527	aw_pr
@@ -3880,22 +3880,22 @@ h_hs
 65577	ow_pr
 65599	w_stem
 65604	ew_pr
-
+ew_pr
 65611	h_hs
 65622	aw_pr
 65626	os_h_on
 65634	reg_fut
-65649	
-65662	
+65649	exclam
+65662	exclam
 65703	ow_pr
 65742	aw_pr
 65773	w_stem
 65783	h_hs
-65785	
+65785	conj
 65787	aw_pr
-65790	
+65790	exclam
 65793	ow_pr
-
+exclam
 65803	ew_pr
 65820	aw_pr
 aor2
@@ -3928,31 +3928,31 @@ aw_fut
 66444	ath_primary
 66460	ow_pr
 66462	aw_pr
-66481	
-66483	irreg_adj3
+66481	exclam
+66483	aor1
 66522	ow_pr
 66526	ew_pr
 66542	ow_pr
 66570	ow_pr
 66674	ow_pr
-66679	
+66679	ew_pr
 66719	evw_pr
 66796	os_h_on
 66831	aor2
-66837	
+66837	ew_pr
 66851	article
 66875	ew_pr
 66915	h_hs
 66919	ew_pr
-66949	
+66949	exclam
 66973	ow_pr
 66985	ew_pr
-66991	
-67009	
+66991	exclam
+67009	exclam
 67013	aor1
-67028	
-67035	
-67055	
+67028	exclam
+67035	exclam
+67055	exclam
 67087	aw_pr
 67099	w_stem
 67105	aw_pr
@@ -3960,8 +3960,8 @@ aw_fut
 67195	aw_fut
 67227	aw_fut
 67234	aw_pr
-
-67266	
+exclam
+67266	exclam
 67273	aw_pr
 67279	aw_fut
 67306	aw_fut
@@ -3969,11 +3969,11 @@ aw_fut
 67332	irreg_decl3
 67343	aw_pr
 67346	ow_pr
-67354	
+67354	exclam
 67361	irreg_mi
 67374	aor2
 67391	aw_fut
-67398	irreg_decl3
+67398	eus_ews
 67401	ow_pr
 67439	ow_pr
 67442	ow_pr
@@ -3998,8 +3998,8 @@ reg_fut
 67907	aor1
 67983	aw_fut
 68033	aw_fut
-68041	
-68070	
+68041	ew_pr
+68070	ew_pr
 68098	h_hs
 68108	ew_fut
 68112	os_h_on
@@ -4010,8 +4010,8 @@ reg_fut
 68221	article
 68249	is_ews
 68273	perfp_vow
-68285	
-68289	
+68285	exclam
+68289	exclam
 68324	ew_pr
 68377	aw_pr
 68379	os_ou
@@ -4025,12 +4025,12 @@ reg_fut
 68667	aw_pr
 68683	ew_pr
 68685	ew_pr
-68731	
+68731	os_h_on
 68787	ew_pr
 68801	ow_pr
-68807	
+68807	exclam
 68831	ow_pr
-
+exclam
 68955	w_stem
 68975	aw_pr
 69026	ow_pr
@@ -4039,9 +4039,9 @@ reg_fut
 69062	ew_pr
 69078	os_ou
 69083	ew_pr
-69129	
+69129	conj
 69131	ow_pr
-69136	
+69136	ew_pr
 69157	ew_pr
 69161	w_stem
 69171	ow_pr
@@ -4061,7 +4061,7 @@ ew_fut
 69483	ew_pr
 69489	ow_pr
 69493	ew_pr
-69511	
+69511	conj
 69542	aw_pr
 69557	ow_pr
 69564	ew_pr
@@ -4072,13 +4072,13 @@ ew_fut
 69653	aw_fut
 69657	aw_pr
 aw_fut
-69671	
+69671	exclam
 69698	aw_pr
-
-69711	
+exclam
+69711	exclam
 69716	ow_pr
 69718	aw_fut
-69725	
+69725	exclam
 69733	aw_pr
 69739	ow_pr
 69747	ew_pr
@@ -4092,10 +4092,10 @@ aw_fut
 69902	w_stem
 69915	reg_fut
 69924	fut_perf
-69941	
+69941	exclam
 69946	w_stem
 70018	ow_pr
-70046	
+70046	conj
 70057	ew_pr
 70059	ow_pr
 70064	ow_pr
@@ -4109,13 +4109,13 @@ aw_fut
 70212	aw_fut
 70246	aw_pr
 70257	aw_fut
-70270	
+70270	exclam
 70276	is_ews
 aw_fut
 70281	aor1
-70287	
+70287	exclam
 70297	ath_primary
-70306	
+70306	ew_pr
 70311	ow_pr
 70319	evw_pr
 70328	aw_fut
@@ -4128,17 +4128,17 @@ aw_fut
 70672	ew_pr
 70689	ow_pr
 70693	ew_fut
-70731	
+70731	conj
 70743	ew_pr
-70747	irreg_adj3
+70747	aor1
 70757	ew_fut
 70821	ew_pr
 70850	ew_pr
 70856	ow_pr
-70903	
-70907	
+70903	exclam
+70907	exclam
 70921	aw_pr
-70967	
+70967	ew_pr
 70972	ew_pr
 71019	hs_ou
 71027	ow_pr
@@ -4148,17 +4148,17 @@ aw_fut
 71175	ew_pr
 71195	ew_pr
 71202	reg_fut
-71205	
-71221	
+71205	ew_pr
+71221	ew_pr
 71230	aw_pr
 71281	aw_pr
 71291	ow_pr
-71335	
-71344	
-71350	
-71352	
+71335	ew_pr
+71344	exclam
+71350	exclam
+71352	ew_pr
 71375	aw_pr
-71387	
+71387	ew_pr
 71391	ew_pr
 71398	ow_pr
 71485	w_stem
@@ -4183,7 +4183,7 @@ ow_pr
 article
 71880	aw_pr
 71886	is_ews
-71898	
+71898	exclam
 71905	irreg_mi
 71923	ow_pr
 71951	ew_pr
@@ -4192,14 +4192,14 @@ article
 71968	ew_pr
 71970	os_ou
 71977	aw_pr
-71993	
+71993	conj
 72027	ew_pr
 72032	ow_pr
 72043	ew_pr
-72062	
+72062	conj
 72104	perfp_vow
 72124	os_h_on
-72127	eus_ews
+72127	os_h_on
 72141	ath_primary
 72177	aw_pr
 72239	aw_fut
@@ -4207,9 +4207,9 @@ article
 72309	ow_pr
 72336	ow_pr
 72345	aor1
-72348	
+72348	exclam
 72353	w_stem
-72358	
+72358	exclam
 72460	ow_pr
 72511	os_ou
 72532	aw_pr
@@ -4233,7 +4233,7 @@ ath_primary
 72968	aw_pr
 72987	w_stem
 73002	ew_pr
-73062	
+73062	conj
 73096	aor2
 73104	aw_pr
 73107	is_ews
@@ -4246,7 +4246,7 @@ ath_primary
 73301	ow_pr
 73316	os_h_on
 73321	w_stem
-73326	
+73326	exclam
 73334	aor1
 73397	ew_pr
 73415	aw_pr
@@ -4254,7 +4254,7 @@ ath_primary
 73468	ew_pr
 73498	os_on
 73506	ew_pr
-73537	
+73537	conj
 73551	ow_pr
 73565	ow_pr
 73605	ow_pr
@@ -4262,11 +4262,11 @@ ath_primary
 73682	ow_pr
 73732	ew_pr
 73763	is_ews
-73774	
+73774	exclam
 73804	os_h_on
 73871	ow_pr
 73918	ew_pr
-73969	
+73969	ew_pr
 74008	evw_pr
 74013	aw_pr
 74020	aw_fut
@@ -4295,7 +4295,7 @@ aw_pr
 74470	is_ews
 74527	h_hs
 74576	ow_pr
-74601	verb_adj2
+74601	evw_pr
 74650	ath_primary
 74690	ow_pr
 74713	ow_pr
@@ -4318,12 +4318,12 @@ aw_pr
 75137	ow_pr
 75177	article
 75243	ew_pr
-75265	irreg_adj3
+75265	aor1
 75314	irreg_mi
 75324	ow_pr
 75327	evw_pr
 75337	ew_pr
-75345	
+75345	exclam
 75453	aw_pr
 75492	hs_ou
 75539	w_stem
@@ -4335,8 +4335,8 @@ aw_pr
 75727	ow_pr
 75729	ow_pr
 75752	ew_pr
-75767	
-75786	
+75767	conj
+75786	conj
 75848	aw_pr
 75856	os_ou
 75866	ow_pr
@@ -4357,7 +4357,7 @@ aw_pr
 76126	aw_pr
 76131	ow_pr
 76135	ow_pr
-76143	
+76143	exclam
 76229	aw_fut
 76306	ew_pr
 76346	aw_pr
@@ -4372,7 +4372,7 @@ aw_pr
 76690	aw_pr
 76768	ow_pr
 76809	aw_pr
-76821	
+76821	ew_pr
 76848	hs_ou
 ew_pr
 76853	ow_pr
@@ -4385,7 +4385,7 @@ ew_pr
 76994	irreg_mi
 77004	ow_pr
 77017	ow_pr
-77027	
+77027	ew_pr
 77035	aor2
 77043	ow_pr
 77074	evw_pr
@@ -4413,7 +4413,7 @@ w_stem
 77437	aw_fut
 77484	h_hs
 77537	ow_pr
-77560	
+77560	ew_pr
 77593	os_h_on
 77597	ow_pr
 irreg_mi
@@ -4446,8 +4446,8 @@ aw_pr
 78154	h_hs
 78178	os_ou
 78189	perfp_d
-78202	
-78248	
+78202	conj
+78248	ew_pr
 78292	h_hs
 78306	w_stem
 78356	aw_pr
@@ -4459,7 +4459,7 @@ aw_pr
 78550	aw_pr
 78594	ow_pr
 78596	ow_pr
-78599	
+78599	conj
 78618	s_dos
 78679	ew_pr
 78709	ow_pr
@@ -4468,7 +4468,7 @@ aw_pr
 78827	w_stem
 78843	aw_fut
 78852	ow_pr
-78882	
+78882	exclam
 78898	ath_secondary
 78949	ew_pr
 78990	aor2_pass
@@ -4482,52 +4482,52 @@ aw_pr
 79152	aw_pr
 79178	ew_pr
 79185	irreg_mi
-79205	
+79205	exclam
 79225	reg_fut
-79241	
+79241	exclam
 79245	aw_pr
 aor2
-79271	
+79271	exclam
 79375	wn_ousa_on
 79399	os_h_on
 79407	irreg_decl3
-79452	
+79452	ew_pr
 79491	aor1
 reg_fut
 79504	aw_fut
 79535	ew_pr
-79564	
+79564	exclam
 79597	ow_pr
 79615	w_stem
 79673	aw_pr
 79688	aw_fut
 79693	hs_eos
 79704	evw_pr
-79723	
-79750	
+79723	conj
+79750	conj
 79787	wn_ousa_on
 79795	aw_fut
 79820	is_ews
 79860	aor1
-79914	
+79914	conj
 79916	aw_pr
-79954	
+79954	conj
 79963	eus_ews
 79986	is_ews
 80004	aw_fut
 80028	aor2
 80040	ow_pr
 80052	aw_pr
-80083	
+80083	ew_pr
 80115	heis_hessa
-80124	
-80130	
+80124	exclam
+80130	exclam
 80147	aw_fut
 80183	os_h_on
 80199	os_h_on
 80203	ew_pr
 80218	reg_fut
-80288	
+80288	exclam
 80308	aor2
 80312	w_stem
 80314	aw_pr
@@ -4547,7 +4547,7 @@ reg_fut
 80632	aw_pr
 80636	aw_fut
 80684	aw_fut
-80689	
+80689	ew_pr
 80713	article
 80733	hs_ou
 80770	evw_pr
@@ -4557,12 +4557,12 @@ reg_fut
 80821	ow_pr
 80959	os_ou
 80965	ew_pr
-80983	
+80983	conj
 80985	ew_pr
 80988	hs_ou
 80999	ew_pr
 81002	wn_ousa_on
-81006	
+81006	ew_pr
 81112	aw_pr
 81120	ew_pr
 81177	ew_pr
@@ -4573,10 +4573,10 @@ reg_fut
 81286	aw_fut
 81295	aw_fut
 81297	ow_pr
-81317	
+81317	conj
 81348	ow_pr
 81398	aw_pr
-81405	
+81405	exclam
 81454	ew_pr
 81474	ew_pr
 81478	aw_pr
@@ -4593,7 +4593,7 @@ aw_pr
 81718	hs_ou
 81751	hs_ou
 81806	ew_pr
-81812	verb_adj2
+81812	wn_on_comp
 81835	ow_pr
 81857	ow_pr
 81894	aw_pr
@@ -4616,9 +4616,9 @@ aor1
 82269	ew_pr
 82276	ew_pr
 82283	ew_pr
-82308	
+82308	ew_pr
 82321	ew_pr
-82325	irreg_adj3
+82325	aor1
 82335	ew_pr
 82371	aw_pr
 82408	os_h_on
@@ -4641,7 +4641,7 @@ aw_fut
 article
 82910	aw_pr
 82926	aw_pr
-82929	
+82929	conj
 82973	aor2
 82990	aw_pr
 83054	aw_pr
@@ -4663,8 +4663,8 @@ article
 83450	aw_pr
 83469	is_ews
 83475	reg_fut
-83486	irreg_decl3
-83508	os_h_on
+83486	eus_ews
+83508	ow_pr
 83522	reg_fut
 83536	w_stem
 83548	ew_pr
@@ -4681,7 +4681,7 @@ article
 83682	ew_pr
 83690	aw_pr
 83692	ew_pr
-83697	
+83697	exclam
 83700	aw_pr
 83713	reg_fut
 83724	ow_pr
@@ -4698,7 +4698,7 @@ aor1
 83957	ew_pr
 83976	aw_pr
 83979	aw_pr
-83986	
+83986	exclam
 83989	aw_pr
 83997	aor1
 84006	hs_eos
@@ -4707,7 +4707,7 @@ ath_h_aor
 84072	ath_primary
 84093	aw_pr
 84099	reg_fut
-84119	
+84119	exclam
 84146	w_stem
 84151	hs_eos
 84169	aor1
@@ -4718,11 +4718,11 @@ ath_h_aor
 84232	ew_pr
 84234	aw_pr
 84240	ow_pr
-84244	
+84244	conj
 84264	aor1
 84272	ew_pr
 84300	w_stem
-84326	
+84326	ew_pr
 84346	aw_pr
 84407	ew_pr
 84437	ow_pr
@@ -4743,9 +4743,9 @@ w_stem
 84660	ath_primary
 84662	aw_pr
 84693	aw_pr
-84722	irreg_decl3
+84722	eus_ews
 84744	aw_pr
-84798	
+84798	exclam
 84828	aw_pr
 84833	aor1
 84860	aw_pr
@@ -4761,7 +4761,7 @@ w_stem
 85056	aw_pr
 85064	ow_pr
 85072	aor_pass
-85074	irreg_decl3
+85074	eus_ews
 85118	aw_pr
 85238	os_ou
 85264	aw_pr
@@ -4802,7 +4802,7 @@ ath_primary
 85987	ow_pr
 85994	ow_pr
 86006	aw_pr
-86016	
+86016	eus_ews
 86041	ow_pr
 86043	aw_pr
 86057	ow_pr
@@ -4815,10 +4815,10 @@ ath_primary
 86266	os_h_on
 86268	ew_pr
 86294	aw_pr
-86300	
+86300	eus_ews
 86309	is_ews
 86340	ow_pr
-
+eus_ews
 86347	ow_pr
 86350	reg_fut
 86363	os_ou
@@ -4881,17 +4881,17 @@ aw_fut
 87346	ew_pr
 87390	eus_ews
 87409	w_stem
-87415	
+87415	exclam
 87435	ow_pr
 87437	aw_pr
 87439	w_stem
-87441	
-87448	
-87453	
+87441	exclam
+87448	exclam
+87453	exclam
 87463	aw_pr
-87468	
+87468	exclam
 ew_pr
-87476	
+87476	exclam
 87483	ow_pr
 87495	w_stem
 87498	aor2_pass
@@ -4916,15 +4916,15 @@ w_stem
 87669	w_stem
 87705	w_stem
 87707	aor2_pass
-87718	
-87722	
+87718	exclam
+87722	exclam
 87724	aw_pr
 87732	aw_pr
 87734	w_stem
 87757	ew_pr
 87775	ew_pr
 87782	ew_pr
-87805	
+87805	conj
 87811	w_stem
 87820	aw_pr
 87842	w_stem
@@ -4966,13 +4966,13 @@ ow_pr
 88457	aw_pr
 88473	aw_pr
 88488	h_hs
-
+ew_pr
 88505	aw_pr
 88509	ew_pr
 88516	w_stem
 88518	aw_pr
 aw_pr
-88523	
+88523	exclam
 88526	aw_pr
 88532	ow_pr
 88545	aw_pr
@@ -4985,9 +4985,9 @@ hs_eos
 88703	aw_pr
 88706	aw_pr
 88720	is_ews
-88735	
-
-88742	
+88735	os_h_on
+exclam
+88742	os_h_on
 88761	ow_pr
 88779	aw_pr
 88808	aw_pr
@@ -5004,26 +5004,26 @@ hs_eos
 88953	aw_pr
 88957	ow_pr
 88968	ow_pr
-88978	
-88986	
+88978	exclam
+88986	exclam
 88998	w_stem
 89002	is_ews
 89007	os_h_on
 89011	aw_fut
 89025	aw_pr
-89063	
+89063	exclam
 89067	ath_primary
-89072	
+89072	exclam
 89089	h_hs
 89095	aw_pr
 89118	aw_fut
 89134	w_stem
 89142	aw_pr
-89163	
-89172	
+89163	exclam
+89172	ew_pr
 89186	aw_pr
 89209	ow_pr
-89218	
+89218	os_h_on
 89232	aw_pr
 89289	ew_pr
 89293	ow_pr
@@ -5031,8 +5031,8 @@ hs_eos
 89310	w_stem
 89315	ath_primary
 89333	ew_pr
-89336	irreg_decl3
-89345	
+89336	eus_ews
+89345	exclam
 89349	w_stem
 89363	ew_pr
 89373	w_stem
@@ -5052,7 +5052,7 @@ hs_eos
 89747	ath_primary
 89765	aw_fut
 89808	aw_pr
-89810	irreg_adj3
+89810	aor1
 89820	aw_fut
 89824	aw_pr
 89830	s_dos
@@ -5060,7 +5060,7 @@ hs_eos
 89880	aw_pr
 89883	ehs_eou
 89941	aw_fut
-89973	irreg_adj3
+89973	aor1
 90007	aw_pr
 90017	aw_pr
 90051	is_ews
@@ -5071,7 +5071,7 @@ hs_eos
 90251	aor1
 90272	ow_pr
 90278	is_ews
-90280	
+90280	conj
 90287	ow_pr
 90305	ow_pr
 90315	ow_pr
@@ -5090,7 +5090,7 @@ hs_eos
 90596	w_stem
 90608	w_stem
 90628	reg_fut
-90634	
+90634	ew_pr
 90665	aw_pr
 90697	aw_pr
 90725	reg_fut
@@ -5121,11 +5121,11 @@ ow_pr
 91117	ew_pr
 91136	is_ews
 91155	hs_eos
-91187	
+91187	eus_ews
 91256	ow_pr
 91259	ow_pr
 91322	aw_pr
-91352	
+91352	conj
 91359	is_ews
 91361	hs_ou
 91365	is_ews
@@ -5136,9 +5136,9 @@ ow_pr
 91477	ow_pr
 91479	ow_pr
 91482	ow_pr
-91516	
+91516	conj
 91529	aw_pr
-91556	irreg_decl3
+91556	eus_ews
 91559	aw_pr
 91566	aw_pr
 91573	is_ews
@@ -5160,7 +5160,7 @@ ow_pr
 91892	ow_pr
 91907	aw_pr
 91919	w_stem
-91930	
+91930	oos_oon
 91935	aw_pr
 91943	aw_pr
 91966	aw_pr
@@ -5180,10 +5180,10 @@ ow_pr
 92158	w_stem
 92189	ew_pr
 92215	w_stem
-92225	os_h_on
+92225	ow_pr
 92235	ow_pr
 92239	aw_pr
-92242	os_h_on
+92242	ow_pr
 92248	ow_pr
 92252	aw_pr
 92256	aor2_pass
@@ -5206,7 +5206,7 @@ is_ews
 92515	aw_pr
 92532	aw_pr
 92548	ow_pr
-92550	os_h_on
+92550	ow_pr
 92561	ow_pr
 92577	aor2_pass
 ow_pr
@@ -5239,7 +5239,7 @@ w_stem
 92909	h_hs
 92911	ew_pr
 92952	ow_pr
-92991	
+92991	conj
 93013	aw_pr
 93018	aw_pr
 93033	aw_pr
@@ -5324,7 +5324,7 @@ ath_primary
 aor2
 94448	aw_pr
 94452	ow_pr
-os_on
+ow_pr
 94462	ow_pr
 94471	ew_pr
 94482	aw_pr
@@ -5341,7 +5341,7 @@ os_on
 94756	aw_pr
 94758	aw_pr
 94780	aw_pr
-94857	
+94857	exclam
 94870	aw_pr
 94880	h_hs
 94883	article
@@ -5392,7 +5392,7 @@ ath_primary
 95645	is_ews
 95647	is_ews
 95649	is_ews
-95665	
+95665	oos_oon
 95670	aw_pr
 95684	ath_primary
 95692	art_adj
@@ -5405,8 +5405,8 @@ ath_primary
 95791	article
 95795	ow_pr
 95880	ew_pr
-95893	ew_pr
-95902	
+95893	aw_fut
+95902	conj
 95914	aw_pr
 95921	ow_pr
 95938	aw_fut
@@ -5457,8 +5457,8 @@ evw_pr
 96554	ew_pr
 96560	ow_pr
 96566	evw_pr
-96604	
-96609	
+96604	exclam
+96609	exclam
 96638	ow_pr
 96646	ow_pr
 96654	ow_pr
@@ -5468,7 +5468,7 @@ evw_pr
 96747	reg_fut
 96753	aw_pr
 96770	aw_pr
-96778	
+96778	conj
 96791	aw_pr
 96804	ow_pr
 96807	aw_pr
@@ -5492,7 +5492,7 @@ reg_fut
 97211	aw_pr
 97257	aw_pr
 97262	article
-97270	
+97270	conj
 97291	ow_pr
 97306	ath_primary
 97331	aw_fut
@@ -5540,7 +5540,7 @@ irreg_decl3
 97976	aw_pr
 97991	reg_fut
 97995	hs_eos
-98003	
+98003	conj
 98012	aw_pr
 98017	aw_pr
 98020	ew_pr
@@ -5550,14 +5550,14 @@ ow_pr
 98048	ow_pr
 98052	aor1
 98055	ow_pr
-98057	irreg_decl3
+98057	eus_ews
 98061	aw_pr
 98066	ow_pr
 aw_pr
 98070	hs_ou
 98083	aw_pr
 98085	reg_fut
-98094	
+98094	ew_pr
 98121	aw_pr
 98143	aw_pr
 98146	ew_pr
@@ -5584,7 +5584,7 @@ ath_primary
 98625	aw_pr
 98658	aw_pr
 98728	w_stem
-98733	
+98733	exclam
 98752	ew_pr
 98757	aw_pr
 98799	ew_pr
@@ -5614,7 +5614,7 @@ aw_pr
 99195	aw_pr
 ew_pr
 99205	aw_fut
-99230	
+99230	ew_pr
 99374	aw_pr
 99406	w_stem
 99413	aor1
@@ -5638,10 +5638,10 @@ aor1
 99635	aw_pr
 99651	ew_pr
 99653	h_hs
-99656	
+99656	ew_pr
 ow_pr
 aw_pr
-99660	
+99660	ew_pr
 99662	aw_pr
 99697	aw_fut
 99704	ath_primary
@@ -5713,7 +5713,7 @@ hs_ou
 100796	aor1
 100813	evw_pr
 100823	ow_pr
-100848	
+100848	conj
 100850	ow_pr
 100877	article
 100896	aw_pr
@@ -5750,7 +5750,7 @@ ew_pr
 101346	ow_pr
 aw_pr
 101366	aw_pr
-101385	irreg_decl3
+101385	eus_ews
 101391	ow_pr
 101397	aw_fut
 101412	w_stem
@@ -5773,7 +5773,7 @@ ew_pr
 101728	aw_pr
 101764	ow_pr
 article
-101770	
+101770	ew_pr
 101782	h_hs
 101819	ew_pr
 101876	aor1
@@ -5806,7 +5806,7 @@ w_stem
 102388	hs_ou
 102421	w_stem
 102441	w_stem
-102455	
+102455	exclam
 102461	w_stem
 102476	os_on
 102479	perfp_vow
@@ -5832,7 +5832,7 @@ aor1
 102924	aor1
 102932	w_stem
 103013	ow_pr
-103017	ath_secondary
+103017	ew_pr
 103072	aw_pr
 103074	w_stem
 103076	aor2_pass
@@ -5847,8 +5847,8 @@ aor1
 103251	ath_primary
 103254	aw_pr
 103257	ath_primary
-103272	
-
+103272	os_h_on
+exclam
 103286	aor_pass
 w_stem
 103290	ew_pr
@@ -5888,7 +5888,7 @@ aw_pr
 103809	reg_fut
 103830	ow_pr
 103910	ow_pr
-103918	irreg_decl3
+103918	eus_ews
 103920	aw_pr
 wn_ousa_on
 103932	ath_primary
@@ -5896,7 +5896,7 @@ wn_ousa_on
 103968	reg_fut
 104026	ow_pr
 104030	aw_pr
-104035	ath_secondary
+104035	ew_pr
 104054	aw_pr
 104144	aw_pr
 104148	reg_fut
@@ -5920,7 +5920,7 @@ wn_ousa_on
 104725	ath_primary
 104797	ew_pr
 104858	w_stem
-104891	ath_secondary
+104891	ew_pr
 104894	ow_pr
 104920	aw_fut
 104982	ew_pr
@@ -5931,7 +5931,7 @@ wn_ousa_on
 105111	aw_pr
 105113	ath_primary
 105128	ew_pr
-105145	
+105145	os_h_on
 105195	aw_pr
 105237	aor1
 105264	ew_pr
@@ -5964,7 +5964,7 @@ aw_pr
 105656	reg_fut
 105683	w_stem
 105689	aw_fut
-105726	
+105726	exclam
 105741	irreg_mi
 105754	aw_pr
 105761	ow_pr
@@ -6045,7 +6045,7 @@ reg_fut
 107178	aw_pr
 107209	aor1
 107215	ow_pr
-107258	ath_secondary
+107258	ew_pr
 107267	ow_pr
 107280	is_ews
 107293	ew_pr
@@ -6077,7 +6077,7 @@ ajw_pr
 107768	ow_pr
 107785	ath_primary
 107862	ath_primary
-107865	irreg_decl3
+107865	eus_ews
 107888	aor1
 107891	reg_fut
 107896	ow_pr
@@ -6118,9 +6118,9 @@ article
 108625	article
 108631	reg_fut
 108654	ew_pr
-108666	ath_secondary
+108666	ew_pr
 108673	aw_pr
-108678	ath_secondary
+108678	ew_pr
 108712	reg_fut
 108724	aw_pr
 108733	article
@@ -6267,7 +6267,7 @@ article
 111072	aw_pr
 111095	ew_pr
 111119	os_ou
-111145	
+111145	conj
 111165	reg_fut
 111180	aor1
 111189	aor1
@@ -6309,7 +6309,7 @@ w_stem
 111934	os_on
 111936	aw_fut
 111938	aor1
-111946	
+111946	ew_pr
 111991	w_stem
 112035	ew_pr
 112044	ow_pr
@@ -6342,18 +6342,18 @@ evw_pr
 112332	article
 112369	irreg_mi
 112443	ow_pr
-112449	
+112449	exclam
 112453	aw_pr
 112457	ow_pr
 112461	ew_pr
 112463	ew_pr
-112468	
+112468	conj
 112472	reg_fut
 112478	hs_es
 112491	ow_pr
-112500	
+112500	exclam
 112515	ow_pr
-112522	
+112522	exclam
 112526	aw_pr
 ew_pr
 112540	aor1
@@ -6361,7 +6361,7 @@ ew_pr
 112550	os_h_on
 112554	is_ews
 112558	w_stem
-112570	
+112570	ew_pr
 112576	os_h_on
 112581	ew_pr
 112607	aw_fut
@@ -6377,14 +6377,14 @@ os_h_on
 112740	w_stem
 112743	aor2_pass
 112766	aw_fut
-112770	
-112780	
+112770	ew_pr
+112780	ew_pr
 112788	ow_pr
 aw_pr
 112796	ow_pr
 112812	aw_pr
 112815	aw_pr
-112822	
+112822	exclam
 112828	ow_pr
 112842	h_hs
 112855	ow_pr
@@ -6398,16 +6398,16 @@ aw_pr
 113002	ow_pr
 113015	aw_pr
 113030	ath_primary
-113051	
-113055	
+113051	ew_pr
+113055	ew_pr
 113083	ow_pr
 113090	is_ews
 113220	ow_pr
 113229	aw_pr
 113232	reg_fut
-113251	
-113270	
-113275	
+113251	exclam
+113270	exclam
+113275	exclam
 113301	ow_pr
 113311	aw_pr
 113314	ath_primary
@@ -6436,7 +6436,7 @@ aw_pr
 113604	ow_pr
 113607	aw_pr
 113654	hs_eos
-113663	
+113663	ew_pr
 113672	ew_pr
 113694	os_h_on
 113705	is_ews
@@ -6464,14 +6464,14 @@ aw_pr
 114060	os_h_on
 114076	aor2_pass
 114085	ow_pr
-114104	
+114104	ew_pr
 114122	aw_pr
 114134	aor1
 114147	aw_pr
 114151	aw_pr
 114153	reg_fut
 114181	aw_pr
-
+exclam
 114213	reg_fut
 114228	aw_pr
 114274	aw_pr
@@ -6479,7 +6479,7 @@ aw_pr
 114303	reg_fut
 114329	aw_pr
 114372	aw_pr
-114425	
+114425	exclam
 114439	ow_pr
 114457	ow_pr
 114472	aor2_pass
@@ -6507,7 +6507,7 @@ ew_pr
 114811	aw_pr
 114855	ws_w
 114860	ew_pr
-114867	
+114867	exclam
 114931	article
 114934	aw_pr
 114981	ws_w
@@ -6516,17 +6516,17 @@ ew_pr
 115043	aor1
 115048	aw_pr
 115060	ws_w
-115115	
+115115	exclam
 115126	ow_pr
-115135	
-115142	
+115135	exclam
+115142	exclam
 115144	ath_primary
 115152	ew_pr
-115164	
+115164	exclam
 115168	reg_fut
 115170	ow_pr
 115184	ew_pr
-
+exclam
 115190	aw_fut
 115207	ath_primary
 115231	ow_pr
@@ -6534,7 +6534,7 @@ ew_pr
 115263	ew_pr
 115266	ow_pr
 115272	os_h_on
-115284	
+115284	exclam
 115286	aw_pr
 115303	aw_pr
 115307	aw_pr
@@ -6543,8 +6543,8 @@ ew_pr
 115346	reg_fut
 115349	w_stem
 115356	irreg_decl3
-115359	
-115372	
+115359	exclam
+115372	exclam
 115379	article
 w_stem
 115416	ow_pr
@@ -6556,23 +6556,23 @@ w_stem
 115531	w_stem
 115543	w_stem
 115545	ow_pr
-115562	
+115562	exclam
 115577	aw_pr
-115592	
-115598	
+115592	exclam
+115598	exclam
 115610	ow_pr
-
+exclam
 115614	ow_pr
-115642	
+115642	exclam
 115649	aw_pr
 115654	h_hs
-115656	
+115656	conj
 115658	aw_pr
-115661	
+115661	exclam
 115664	ow_pr
-
+exclam
 115672	aw_pr
-115679	irreg_decl3
+115679	eus_ews
 115681	evw_pr
 115694	aw_pr
 115703	ew_pr
@@ -6586,7 +6586,7 @@ w_stem
 115822	reg_fut
 115824	ew_pr
 115848	aor1
-115880	
+115880	exclam
 115903	article
 115926	reg_fut
 115938	aor1
@@ -6619,7 +6619,7 @@ ew_pr
 116427	aw_fut
 116451	aw_fut
 116471	ws_wn
-116507	
+116507	ew_pr
 116584	ew_pr
 116607	aor1
 116626	aw_pr
@@ -6664,7 +6664,7 @@ ew_pr
 117758	aw_pr
 117770	ew_pr
 117793	ew_pr
-117800	
+117800	conj
 117804	os_on
 117828	aw_pr
 117843	ew_pr
@@ -6673,7 +6673,7 @@ ew_pr
 117869	ew_pr
 117873	aw_fut
 eos_eh_eon
-117903	ath_secondary
+117903	ew_pr
 117927	ew_pr
 117968	aw_fut
 117977	ew_pr
@@ -6687,7 +6687,7 @@ eos_eh_eon
 118141	ew_pr
 118170	aw_pr
 118201	ew_pr
-118211	os_h_on
+118211	ow_pr
 118254	aw_fut
 118288	w_stem
 118293	ew_pr
@@ -6697,11 +6697,11 @@ eos_eh_eon
 118401	aw_pr
 118409	w_stem
 118426	aor2
-118441	
-118469	
+118441	exclam
+118469	exclam
 ew_pr
 118521	aw_pr
-118527	
+118527	conj
 118534	ow_pr
 118545	aor2_pass
 118568	w_stem
@@ -6759,7 +6759,7 @@ ow_pr
 119741	hs_ou
 119751	ew_pr
 119767	ew_pr
-119781	ath_secondary
+119781	ew_pr
 119783	aw_fut
 119875	aw_pr
 119878	w_stem
@@ -6789,7 +6789,7 @@ ow_pr
 120297	ew_pr
 120300	perfp_d
 120311	ow_pr
-120316	
+120316	ew_pr
 120353	aw_pr
 120381	ow_pr
 120419	ow_pr
@@ -6810,8 +6810,8 @@ aw_pr
 120793	ow_pr
 120799	aw_pr
 120872	aw_pr
-120914	
-
+120914	os_h_on
+exclam
 120989	aw_pr
 120991	w_stem
 121004	aw_pr
@@ -6821,12 +6821,12 @@ ew_pr
 121042	aw_pr
 121051	evw_pr
 121056	aw_pr
-121063	
+121063	exclam
 121067	aw_pr
 121087	aw_pr
 121090	reg_fut
 121139	aor2_pass
-121167	os_h_on
+121167	ow_pr
 121259	ow_pr
 ow_pr
 121275	os_h_on
@@ -6837,7 +6837,7 @@ ow_pr
 121322	ow_pr
 121334	reg_fut
 121341	aor1
-121347	ew_pr
+121347	ow_pr
 121353	ew_pr
 121359	aw_pr
 121374	hs_ou
@@ -6859,7 +6859,7 @@ w_stem
 121593	w_stem
 121602	aor2_pass
 121606	aw_pr
-121644	
+121644	ew_pr
 ow_pr
 121647	fut_perf
 121650	ew_pr
@@ -6867,17 +6867,17 @@ ow_pr
 121661	ew_pr
 121664	hs_eos
 121674	aw_pr
-121693	
+121693	os_h_on
 121716	aw_pr
 121719	os_h_on
 121737	aw_pr
 121798	ow_pr
 121835	h_hs
 121841	ow_pr
-121867	
+121867	conj
 121871	ow_pr
 121877	ew_pr
-121884	
+121884	conj
 121900	ow_pr
 121909	ath_primary
 121915	ow_pr
@@ -6948,14 +6948,14 @@ aor1
 122902	aw_pr
 perf_act
 122911	ow_pr
-122913	os_h_on
+122913	ow_pr
 122929	ow_pr
 122931	ew_pr
 122947	ow_pr
-122971	
+122971	ew_pr
 122985	ew_pr
 122997	ew_pr
-123011	os_h_on
+123011	ow_pr
 123052	w_stem
 123066	aw_pr
 123096	ow_pr
@@ -6991,7 +6991,7 @@ aw_pr
 123627	ow_pr
 aw_pr
 ow_pr
-123643	os_h_on
+123643	ow_pr
 123645	aor2_pass
 123672	is_ews
 123677	aw_pr
@@ -7002,7 +7002,7 @@ ow_pr
 123735	reg_fut
 is_ews
 123738	is_ews
-123748	irreg_decl3
+123748	eus_ews
 123752	ow_pr
 123757	ow_pr
 123786	ath_primary
@@ -7026,7 +7026,7 @@ is_ews
 124087	aor1
 124115	ow_pr
 124123	w_stem
-124140	
+124140	conj
 124143	reg_fut
 124169	aw_pr
 124192	reg_fut
@@ -7090,7 +7090,7 @@ aw_pr
 125132	aw_pr
 125145	aw_pr
 125197	aor1
-125266	
+125266	conj
 125269	aw_pr
 125276	hs_eos
 125297	ew_pr
@@ -7145,7 +7145,7 @@ hs_eos
 126083	ew_pr
 126086	aw_pr
 126098	hs_ou
-
+ew_pr
 126132	hs_eos
 126142	hs_eos
 126156	aw_pr
@@ -7199,7 +7199,7 @@ h_hs
 127044	aw_pr
 127085	ew_pr
 127092	ow_pr
-
+exclam
 127107	aw_fut
 127114	aw_pr
 127144	ew_pr
@@ -7212,16 +7212,16 @@ h_hs
 127225	w_stem
 127237	hs_ou
 127247	aw_pr
-127269	
+127269	exclam
 127279	aw_pr
 127282	ew_pr
-127292	
-127302	
+127292	exclam
+127302	exclam
 127324	ew_pr
 127328	aw_pr
-127338	
+127338	exclam
 127340	ew_pr
-
+ew_pr
 127379	hs_es
 127385	aw_pr
 127391	article
@@ -7236,7 +7236,7 @@ h_hs
 127599	w_stem
 127605	ow_pr
 127620	os_h_on
-127635	os_h_on
+127635	ow_pr
 127668	aw_pr
 127670	ath_primary
 127701	ew_pr
@@ -7258,10 +7258,10 @@ evw_pr
 128016	hs_ou
 128034	ow_pr
 article
-
+ew_pr
 128051	ow_pr
 128076	aw_pr
-128113	irreg_adj3
+128113	aor1
 128118	irreg_decl3
 128127	w_stem
 128150	reg_fut
@@ -7284,20 +7284,20 @@ article
 128425	w_stem
 128433	aw_pr
 128443	ow_pr
-128447	
-128454	
+128447	exclam
+128454	exclam
 128486	aw_pr
 128492	ath_primary
-
+exclam
 128505	os_h_on
-128517	
+128517	exclam
 128522	aw_pr
 128525	aw_pr
 128534	article
 aw_pr
 128544	w_stem
 128573	w_stem
-128585	
+128585	exclam
 128591	aw_pr
 128606	aw_pr
 128612	article
@@ -7307,23 +7307,23 @@ aw_fut
 128653	h_hs
 128671	w_stem
 128717	ew_pr
-128736	
+128736	ew_pr
 128738	ow_pr
-128753	os_h_on
+128753	ow_pr
 128779	w_stem
 128818	w_stem
 128835	ow_pr
-128838	
+128838	exclam
 128843	ath_primary
 128849	aw_pr
-128853	
-128857	
+128853	exclam
+128857	exclam
 128859	aw_pr
 128863	aw_pr
 128892	reg_fut
 128914	aw_pr
 128916	reg_fut
-128930	irreg_adj3
+128930	aor1
 128951	w_stem
 128971	w_stem
 128988	h_hs
@@ -7331,44 +7331,44 @@ aw_fut
 129016	aw_pr
 129036	w_stem
 129048	w_stem
-129061	
+129061	exclam
 129078	article
-129084	
-129087	
+129084	exclam
+129087	ew_pr
 129101	aw_pr
 129117	aw_pr
 129123	article
 129130	reg_fut
 129136	ow_pr
 129139	h_hs
-129162	
-129167	
+129162	ew_pr
+129167	ew_pr
 129169	aw_pr
 129178	w_stem
 129190	w_stem
 129204	reg_fut
-129211	
-129216	
-
+129211	exclam
+129216	ew_pr
+exclam
 129223	aor1
 129255	aw_pr
 129263	reg_fut
-
+ew_pr
 129266	ow_pr
-
+exclam
 129281	aw_pr
 129296	aw_pr
 129304	hs_eos
-129312	
+129312	exclam
 129314	h_hs
 129354	ow_pr
 129372	w_stem
 129384	w_stem
-129400	
+129400	exclam
 129459	aor1
 129470	s_dos
-129480	
-129486	
+129480	exclam
+129486	exclam
 129491	aw_pr
 ow_pr
 129507	aw_pr
@@ -7381,28 +7381,28 @@ ow_pr
 129590	article
 evw_pr
 129663	aw_pr
-129669	
+129669	ew_pr
 129672	article
-129680	
+129680	ew_pr
 129686	os_h_on
 129709	os_h_on
 129715	os_h_on
 129730	os_h_on
-129742	
+129742	oos_oon
 129779	aor1
-129801	
+129801	ew_pr
 129808	reg_fut
-129821	
+129821	ew_pr
 129835	aor1
-129851	
+129851	exclam
 129859	os_h_on
 129902	ow_pr
 129929	w_stem
 129936	ws_w
 129962	ow_pr
-130016	
+130016	ew_pr
 130032	aw_fut
-130057	
+130057	exclam
 130073	aw_pr
 130086	aw_pr
 130093	ow_pr
@@ -7415,12 +7415,12 @@ evw_pr
 130274	reg_fut
 130318	ow_pr
 130326	aw_pr
-130359	ew_pr
+130359	aw_fut
 130392	ow_pr
 130402	ow_pr
 130421	aor1
-130425	
-130460	
+130425	conj
+130460	conj
 130464	ow_pr
 130507	ow_pr
 130519	ow_pr
@@ -7430,24 +7430,24 @@ evw_pr
 130657	aor1
 130692	aw_pr
 130708	ow_pr
-130794	
-130798	
+130794	ew_pr
+130798	ew_pr
 130842	ow_pr
-130845	
+130845	ew_pr
 130850	aw_pr
-130942	
+130942	ew_pr
 130963	is_ews
-130986	
+130986	oos_oon
 130993	is_ews
 130998	ow_pr
 131000	is_ews
-131029	
+131029	ew_pr
 131049	eos_eh_eon
 131060	aw_fut
 131066	eos_eh_eon
-131068	
+131068	ew_pr
 131080	aw_fut
-131085	
+131085	ew_pr
 131109	aw_pr
 131138	perfp_g
 131156	ow_pr
@@ -7461,7 +7461,7 @@ evw_pr
 131268	ow_pr
 131278	ow_pr
 131288	aw_pr
-131295	os_h_on
+131295	ow_pr
 131323	aw_fut
 aw_pr
 131338	ow_pr
@@ -7480,7 +7480,7 @@ ow_pr
 131572	is_ews
 w_stem
 131598	ow_pr
-131604	
+131604	ew_pr
 131700	ew_pr
 131703	aw_fut
 131745	aw_fut
@@ -7501,13 +7501,13 @@ w_stem
 131941	os_h_on
 132013	ow_pr
 132052	w_stem
-132060	
-132067	
+132060	exclam
+132067	exclam
 132102	w_stem
 132104	evw_pr
 132172	reg_fut
 132183	aw_pr
-132189	
+132189	ew_pr
 132191	ow_pr
 132219	evw_pr
 132225	aw_fut
@@ -7527,13 +7527,13 @@ aor1
 132445	ow_pr
 132473	h_hs
 132477	ow_pr
-132496	
+132496	ew_pr
 132507	aw_pr
-132530	
-132543	
+132530	exclam
+132543	exclam
 132548	ow_pr
-132556	
-132567	
+132556	exclam
+132567	exclam
 132606	aw_pr
 132626	ow_pr
 132628	ow_pr
@@ -7542,13 +7542,13 @@ aor1
 132675	eus_ews
 132681	ow_pr
 132683	ow_pr
-132694	
+132694	ew_pr
 132706	ew_pr
 132727	ew_pr
 132741	is_ews
 132809	os_on
 132841	h_hs
-132861	
+132861	ew_pr
 132895	ow_pr
 132920	is_ews
 132950	ew_pr
@@ -7571,13 +7571,13 @@ aor1
 133282	aw_fut
 133295	os_h_on
 133303	aw_fut
-133309	
+133309	ew_pr
 133321	reg_fut
 133336	os_h_on
 133343	ow_pr
-133348	
+133348	ew_pr
 133361	article
-133365	
+133365	ew_pr
 133379	is_ews
 133406	aw_pr
 133454	aor1
@@ -7586,8 +7586,8 @@ aor1
 133534	ow_pr
 133537	ow_pr
 133542	aw_fut
-133560	
-133564	
+133560	ew_pr
+133564	ew_pr
 133567	ow_pr
 133593	ow_pr
 133606	aw_pr
@@ -7601,10 +7601,10 @@ irreg_mi
 133723	ew_pr
 133747	ow_pr
 133749	ow_pr
-133767	
+133767	ew_pr
 aw_pr
 aw_fut
-133771	
+133771	ew_pr
 133812	aw_fut
 133829	ow_pr
 133834	ow_pr
@@ -7613,23 +7613,23 @@ w_stem
 133848	ow_pr
 133868	os_h_on
 133877	eos_eh_eon
-133904	
+133904	exclam
 133960	aw_fut
-133976	
+133976	exclam
 134016	ow_pr
 134036	ow_pr
 134041	aw_fut
 134118	os_h_on
 134120	hs_ou
-134123	
+134123	exclam
 134133	ow_pr
-
+exclam
 134145	is_ews
-134148	
+134148	exclam
 134158	reg_fut
-
-
-134164	
+ew_pr
+exclam
+134164	exclam
 134210	ow_pr
 134220	ow_pr
 134259	aw_pr
@@ -7641,7 +7641,7 @@ w_stem
 134382	aw_pr
 134389	ow_pr
 134396	irreg_decl3
-134407	
+134407	exclam
 134441	aw_fut
 134451	aor1
 134467	h_hs
@@ -7653,7 +7653,7 @@ w_stem
 134558	article
 134594	ew_pr
 134638	aw_pr
-134677	
+134677	ew_pr
 134685	ow_pr
 134687	ow_pr
 134707	ow_pr
@@ -7665,7 +7665,7 @@ w_stem
 134807	eos_eh_eon
 134820	eos_eh_eon
 134862	aw_fut
-134881	irreg_decl3
+134881	eus_ews
 134885	aw_pr
 134904	aw_fut
 134923	ew_pr
@@ -7704,7 +7704,7 @@ irreg_mi
 135315	oos_oh_oon
 135332	w_stem
 135337	os_h_on
-135421	
+135421	exclam
 135424	ow_pr
 135442	ow_pr
 135444	ow_pr
@@ -7713,7 +7713,7 @@ irreg_mi
 135473	ow_pr
 135483	w_stem
 135503	ow_pr
-135510	
+135510	exclam
 135512	aw_pr
 135535	ow_pr
 135564	eos_eh_eon
@@ -7726,8 +7726,8 @@ irreg_mi
 135667	ath_primary
 135744	aw_pr
 135761	ow_pr
-
-135772	
+exclam
+135772	exclam
 135781	aw_pr
 135783	aw_fut
 135842	ow_pr
@@ -7743,8 +7743,8 @@ ow_pr
 135997	ow_pr
 135999	aor1
 136002	w_stem
-136007	
-136012	
+136007	exclam
+136012	exclam
 136020	reg_fut
 136051	hs_eos
 136133	ow_pr
@@ -7756,10 +7756,10 @@ ow_pr
 136198	ow_pr
 136210	ow_pr
 136213	ow_pr
-136259	
+136259	ew_pr
 136314	aw_pr
 136322	ow_pr
-136364	ew_pr
+136364	aw_fut
 136379	evw_pr
 136445	ow_pr
 136466	reg_fut
@@ -7768,7 +7768,7 @@ aw_fut
 136547	aw_fut
 136558	ow_pr
 136566	os_on
-136628	
+136628	ew_pr
 136645	ow_pr
 136756	ow_pr
 136777	ew_pr
@@ -7791,7 +7791,7 @@ ow_pr
 137110	aw_fut
 137138	os_h_on
 137142	ow_pr
-137195	
+137195	oos_oon
 137213	aor_pass
 137238	is_ews
 137240	ow_pr
@@ -7815,8 +7815,8 @@ evw_pr
 137500	aor1
 137503	ow_pr
 137511	w_stem
-137516	
-137521	
+137516	exclam
+137521	exclam
 137523	aw_pr
 137534	reg_fut
 137536	w_stem

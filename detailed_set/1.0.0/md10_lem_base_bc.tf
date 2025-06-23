@@ -11,14 +11,14 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:23+00:00Z
+@dateWritten=2025-06-22T22:25:24+00:00Z
 
 99	ou)rio/w
 410	u(pno/w
 475	proskune/w
 574	a)ga/w
 576	proskune/w
-598	e)pa/nw
+598	pana/w
 914	basileia/w
 916	ou)rano/w
 967	a)/grios
@@ -27,24 +27,24 @@
 1209	ou)rano/w
 1258	liqo/w
 1298	i(ero/w
-1309	ka/tw
+1309	ka/tos
 1339	e)kpeira/zw
 kure/w
 1358	basileia/w
 1385	kure/w
 1416	kata/-lipa/zw
-1446	pera/w_(2)
+1446	pera/w_(1)
 1484	basileia/w
 1486	ou)rano/w
 1592	basileia/w
 1611	*suria/s
-1647	pera/w_(2)
+1647	pera/w_(1)
 1683	basileia/w
 1685	ou)rano/w
 1743	basileia/w
 1745	ou)rano/w
 1764	a)gallia/w
-1817	e)pa/nw
+1817	pana/w
 1876	a)/llos
 1924	basileia/w
 1926	ou)rano/w
@@ -81,9 +81,9 @@ kure/w
 3824	basileia/w
 3826	ou)rano/w
 3831	basileia/w
-3943	pera/w_(2)
+3943	pera/w_(1)
 4080	a)nemo/w
-4091	pera/w_(2)
+4091	pera/w_(1)
 4118	e)krh/gnumi
 4208	u(po/,a)nti/-i(/hmi
 4216	meta/-ba/zw
@@ -128,7 +128,7 @@ kure/w
 5777	ou)rano/w
 5840	pi=non
 5852	pi=non
-5906	pa/lai
+5906	palh/
 5935	katabai/nw
 6042	a)ga/w
 6187	i(ero/w
@@ -180,7 +180,7 @@ kure/w
 8008	simo/s
 8056	a)po/-e(stia/w
 8083	nekrw/n
-8400	pera/w_(2)
+8400	pera/w_(1)
 8472	e)krh/gnumi
 8530	e)krh/gnumi
 8573	dia/,peri/-a)sa/w
@@ -191,7 +191,7 @@ kure/w
 9008	kurio/w
 9259	xeima/zw
 9296	kata/-lipa/zw
-9305	pera/w_(2)
+9305	pera/w_(1)
 9340	dialogi/zomai
 9400	a)/llos
 9460	simo/s
@@ -233,7 +233,7 @@ kure/w
 10820	a)/llos
 10876	a)ga/w
 10913	kardia/w
-10935	pera/w_(2)
+10935	pera/w_(1)
 10984	katalei/bw
 11007	a)/llos
 11121	basileia/w
@@ -257,7 +257,7 @@ diakone/w
 e)krh/gnumi
 11940	e)krh/gnumi
 11994	e)laio/w
-12094	e)pa/nw
+12094	pana/w
 12128	kra/zw
 12278	kata/-lipa/zw
 12357	dia/-kriqa/w
@@ -287,9 +287,9 @@ a)/llos
 13662	u(/ywsis
 13680	basileia/w
 13682	ou)rano/w
-13777	e)pa/nw
-13806	e)pa/nw
-13838	e)pa/nw
+13777	pana/w
+13806	pana/w
+13838	pana/w
 13943	nekrw/n
 13980	dikai/a
 14122	e)pi/-suna/gnumi
@@ -352,10 +352,10 @@ h(mero/w
 17407	e)n-e)pai/ssw
 17429	e)n-e)pai/ssw
 17457	a)ra/omai
-17500	e)pa/nw
-17712	ka/tw
+17500	pana/w
+17712	ka/tos
 17942	nekrw/n
-18010	e)pa/nw
+18010	pana/w
 18025	xia/zw
 18079	nekrw/n
 18082	proa/gnumi
@@ -382,7 +382,7 @@ h(mero/w
 19416	r(h/ssw
 19428	a)/llos
 19430	ne/w_(2)
-19666	pera/w_(2)
+19666	pera/w_(1)
 19721	kra/zw
 19767	e)k-ou)sia/zw
 19810	*qwma=s_(-pl)
@@ -405,15 +405,15 @@ h(mero/w
 20572	basileia/w
 20579	para/-bole/w
 20617	skia/zw
-20661	pera/w_(2)
+20661	pera/w_(1)
 20674	a)/llos
 20683	a)nemo/w
 20757	ai)/rw
-20773	pera/w_(2)
+20773	pera/w_(1)
 20834	dama/zw
 21056	a)/llos
 21095	dia/,peri/-a)sa/w
-21104	pera/w_(2)
+21104	pera/w_(1)
 21131	parakale/w
 21167	r(usa/w
 21186	a)/llos
@@ -427,7 +427,7 @@ h(mero/w
 21719	nekrw/n
 21893	basileia/w
 22229	i)xqua/w
-22252	pera/w_(2)
+22252	pera/w_(1)
 22326	a)na/-e)krh/gnumi
 22378	dia/,peri/-a)sa/w
 22506	a)/llos
@@ -436,7 +436,7 @@ h(mero/w
 22693	a)/llos
 22909	di=os
 22968	e)piqe/w
-23244	pera/w_(2)
+23244	pera/w_(1)
 23289	dialogi/zomai
 23337	poso/w
 23399	o(/ros
@@ -452,7 +452,7 @@ h(mero/w
 24026	suspara/ssw
 24315	a)/llos
 24496	basileia/w
-24553	pera/w_(2)
+24553	pera/w_(1)
 24624	katalei/bw
 24643	a)/llos
 24724	basileia/w
@@ -518,7 +518,7 @@ a)/llos
 27213	e)pisuna/gw
 27220	a)na/-e)me/w
 27335	e)k-ou)sia/zw
-27461	e)pa/nw
+27461	pana/w
 27604	a)panta/w
 27639	dei=cis
 27724	u(po/-a)/gnumi
@@ -534,7 +534,7 @@ a)/llos
 28222	kata/-lipa/zw
 28322	trei=s
 h(mero/w
-28453	ka/tw
+28453	ka/tos
 28616	kathgore/w
 28651	desmeu/w
 28666	sta/zw
@@ -544,11 +544,11 @@ h(mero/w
 28820	e)n-e)pai/ssw
 28853	a)ra/omai
 28892	a)ra/omai
-29076	ka/tw
+29076	ka/tos
 29133	a)na/-la/zw
 29136	su/n,a)na/-ba/zw
 29163	basileia/w
-29191	pa/lai
+29191	palh/
 29274	h(lio/w
 29321	e)kqambe/w
 29338	a)/llos
@@ -587,12 +587,12 @@ h(mero/w
 32286	e)k-ou)sia/zw
 32319	kure/w
 32338	i(ero/w
-32350	ka/tw
+32350	ka/tos
 32361	dia/,a)po/-u(la/zomai
 32386	e)kpeira/zw
 kure/w
 32742	a)na/-e)krh/gnumi
-32848	e)pa/nw
+32848	pana/w
 32864	h(lio/w
 32902	e)pitima/w
 32950	de/omai
@@ -652,10 +652,10 @@ o(moio/w
 35704	basileia/w
 35719	su/n-i)o/omai
 35949	h(mero/w
-35966	pera/w_(2)
+35966	pera/w_(1)
 35978	a)nemo/w
 36024	ai)/rw
-36047	a)ntipe/ra
+36047	a)nti/-pera/w_(2)
 36161	e)pith/kw
 36172	i(kano/w
 36396	r(usa/w
@@ -674,10 +674,10 @@ o(moio/w
 37756	basileia/w
 37912	basileia/w
 37952	basileia/w
-37988	pa/lai
+37988	palh/
 38017	katabai/nw
 38070	e)k-ou)sia/zw
-38073	e)pa/nw
+38073	pana/w
 38253	kure/w
 38378	e)pi/-bi/bhmi
 38383	i)di/w
@@ -695,7 +695,7 @@ e)pista/zw
 39090	a)na/-dra/w
 39101	perato/w
 39293	a)/llos
-39355	e)pa/nw
+39355	pana/w
 39409	ai)/rw
 39457	kata/-bole/w
 39621	e)k-ou)sia/zw
@@ -780,8 +780,8 @@ e)pista/zw
 44429	basileia/w
 44475	basileia/w
 44516	e)k-ou)sia/zw
-44518	e)pa/nw
-44539	e)pa/nw
+44518	pana/w
+44539	pana/w
 44609	a)ga/w
 44695	e)laio/w
 44727	di=os
@@ -865,14 +865,14 @@ simo/s
 48938	nekrw/n
 49172	e)k-ou)sia/zw
 49185	ai(mata/w
-49434	pera/w_(2)
+49434	pera/w_(1)
 49481	a)ga/w
 49514	a)ga/w
 49546	a)ga/w
 49659	i)di/w
 49683	simo/s
 49928	le/gw_(3)
-49961	a)/nw_(2)
+49961	a)/noos
 50015	e)lau/nw
 50089	boa/w
 50107	i(ero/w
@@ -885,10 +885,10 @@ simo/s
 50536	de/omai
 50570	a)po/-la/zomai
 50668	poi=os
-50756	pera/w_(2)
+50756	pera/w_(1)
 50835	de/omai
-50843	e)pa/nw
-50865	e)pa/nw
+50843	pana/w
+50865	pana/w
 51072	sugxra/omai
 51156	pi=non
 51166	pie/zw
@@ -920,15 +920,15 @@ proskune/w
 52525	poi=os
 52601	a)/llos
 52657	kathgore/w
-52700	pera/w_(2)
+52700	pera/w_(1)
 52815	a)/llos
 52875	a)po/-la/zomai
-52947	pera/w_(2)
+52947	pera/w_(1)
 52966	a)nemo/w
-53024	pera/w_(2)
+53024	pera/w_(1)
 53049	a)/llos
 53055	a)/llos
-53099	pera/w_(2)
+53099	pera/w_(1)
 53138	a)/llos
 53342	poi=os
 53347	a)/llos
@@ -961,16 +961,16 @@ proskune/w
 54688	di=os
 54726	a)/llos
 54802	e)laia/w
-54874	ka/tw
-54902	ka/tw
+54874	ka/tos
+54902	ka/tos
 54925	ei)s-xa/w
 55042	u(po/-a)ga/zw
 55051	u(po/-a)ga/zw
 55163	u(po/-a)ga/zw
 55175	u(po/-a)ga/zw
 55191	u(po/-a)ga/zw
-55202	ka/tw
-55207	a)/nw_(2)
+55202	ka/tos
+55207	a)/noos
 55273	a)ga/w
 55308	poi=os
 55310	a)/llos
@@ -1005,7 +1005,7 @@ timo/w
 57190	poi=os
 57207	a)ga/w
 57215	pie/zw
-57225	pera/w_(2)
+57225	pera/w_(1)
 57271	a)sqenh/s
 57290	kure/w
 57389	liqa/zw
@@ -1015,7 +1015,7 @@ timo/w
 57618	a)ni/sthmi
 57621	ei)s-xate/w
 57749	u(po/-a)/gnumi
-57905	a)/nw_(2)
+57905	a)/noos
 57921	a)/llos
 58074	a)po/-la/zomai
 58081	a)/llos
@@ -1093,7 +1093,7 @@ time/w
 61808	a)ga/w
 61874	kata/-bole/w
 61912	a)ga/w
-61923	pera/w_(2)
+61923	pera/w_(1)
 61975	fana/w
 62066	simo/s
 62167	simo/s
@@ -1162,8 +1162,8 @@ time/w
 65418	a)/llos
 65445	profhteu/w
 65485	profhteu/w
-65492	a)/nw_(2)
-65498	ka/tw
+65492	a)/noos
+65498	ka/tos
 65571	progignw/skw
 65577	a)na/-o)ma/zw
 65604	kure/w
@@ -1257,7 +1257,7 @@ time/w
 73301	nekrw/n
 73506	a)pwqe/w
 73732	a)/kos
-73804	*di/on
+73804	*di=a
 73871	mataio/w
 74008	de/omai
 74013	basileia/w
@@ -1323,7 +1323,7 @@ daimona/w
 77484	*suria/s
 77537	h(mero/w
 77597	u(pno/w
-77602	ka/tw
+77602	ka/tos
 77706	para/-a(plo/w
 77750	e)pi/-i(sta/w
 77814	kure/w
@@ -1689,7 +1689,7 @@ a)rotria/zw
 95622	proskune/w
 95725	a)/llos
 95745	a)/llos
-95893	e)pa/nw
+95893	pana/w
 95914	sxa/zw
 95921	a)mo/w
 95938	e)kklhsia/zw
@@ -1869,7 +1869,7 @@ e)n,a)nti/-ei)=mi
 102848	a)/llos
 102884	a)/llos
 102924	a)na/-lh/gw
-103017	a)/nw_(2)
+103017	a)/noos
 103072	a)/llos
 103103	a)/llos
 103130	w)fe/lhsis
@@ -1894,7 +1894,7 @@ e)n,a)nti/-ei)=mi
 103920	a)ga/w
 103968	e)pigignw/skw
 104026	nekrw/n
-104035	u(pera/nw
+104035	u(po/-r(ai/nw
 104054	a)/llos
 104148	fu/zw
 104160	e)lee/w
@@ -1905,7 +1905,7 @@ e)n,a)nti/-ei)=mi
 104411	oi)keio/w
 104699	a)gapa/zw
 104797	a)gapa/zw
-104891	u(pera/nw
+104891	u(po/-r(ai/nw
 104894	ou)rano/w
 104982	a)gapa/zw
 105022	a)gapa/zw
@@ -1961,7 +1961,7 @@ e)n,a)nti/-ei)=mi
 107178	a)/llos
 107209	katanta/w
 107215	nekrw/n
-107258	a)/nw_(2)
+107258	a)/noos
 107351	kure/w
 107355	metasxhmati/zw
 107436	e)re/w
@@ -1987,8 +1987,8 @@ e)pize/w
 108595	su/n-desme/w
 108631	a)poxra/w
 108654	time/w
-108666	a)/nw_(2)
-108678	a)/nw_(2)
+108666	a)/noos
+108678	a)/noos
 108724	e)piqumia/w
 108780	ne/w_(2)
 108803	a)/llos
@@ -2147,7 +2147,7 @@ parakale/w
 115303	a)/llos
 115307	a)gapa/w
 115346	a)poti/nw
-115426	pa/lai
+115426	palh/
 115438	h(mero/w
 115488	a)nagela/w
 115500	a)nagela/w
@@ -2182,7 +2182,7 @@ parakale/w
 117507	ou)rano/w
 117733	a)ga/w
 117793	kure/w
-117903	u(pera/nw
+117903	u(po/-r(ai/nw
 118017	a)gaqo/w
 118090	nekrw/n
 118293	kata/-bole/w
@@ -2207,14 +2207,14 @@ parakale/w
 119694	dokw/
 119719	a)/llos
 119767	kure/w
-119781	a)/nw_(2)
+119781	a)/noos
 119875	a)/llos
 119887	a)nagela/w
 119901	dikai/a
 119937	ou)rano/w
 119958	a)/llos
 119979	basileia/w
-120056	a)/nw_(2)
+120056	a)/noos
 120133	e)k-ou)sia/zw
 120136	skhne/w
 120191	a)/llos
@@ -2236,7 +2236,7 @@ a)/patos
 121259	a)na/-e)me/w
 121334	fu/zw
 121341	dama/zw
-121347	i)o/omai
+121347	i)o/w
 121353	kure/w
 121359	kataro/w
 121374	kata/-r(ai/nw
@@ -2296,7 +2296,7 @@ a)/patos
 123748	di=os
 123820	e)pigignw/skw
 123874	e)piqumia/w
-123958	pa/lai
+123958	palh/
 123989	basileia/w
 124025	u(pomna/omai
 124073	parousia/zw
@@ -2364,7 +2364,7 @@ a)/patos
 127340	a)gapa/zw
 127416	a)gapa/w
 127421	a)/llos
-127543	pa/lai
+127543	palh/
 127563	kure/w
 127596	a)/llos
 127599	i)di/w
@@ -2409,7 +2409,7 @@ a)/patos
 129936	*la=s
 130073	basileia/w
 130086	a)nagela/w
-130359	e)pa/nw
+130359	pana/w
 130421	e)krh/gnumi
 130519	a)nemo/w
 130651	h(lio/w
@@ -2504,7 +2504,7 @@ i)sxuro/w
 136198	i)sxuro/w
 136213	doulo/w
 136314	sarka/w
-136364	e)pa/nw
+136364	pana/w
 136379	de/omai
 136445	nekrw/n
 136466	a)ni/sthmi

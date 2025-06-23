@@ -11,225 +11,134 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:32+00:00Z
+@dateWritten=2025-06-22T22:25:32+00:00Z
 
 99	contr
 154	contr
 contr
 238	contr
-247	indeclform
-253	
-260	
-271	
-283	
+283	indeclform
 324	contr
 339	contr
 377	contr
-
-382	
 387	contr
 410	contr
 417	contr
-427	
-475	
-477	
-515	
-531	
-574	
-576	
-595	
-598	contr
-600	
-650	
-contr
+531	indeclform
+600	indeclform
+651	contr
 655	contr
-657	
 662	contr
-684	
-686	
-713	
-715	
+713	indeclform
 724	contr
-
-739	
-769	
-776	
 807	contr
-852	
-888	
 890	contr/poetic
 910	contr
-914	
 916	contr
-922	
 935	contr
 950	contr
 961	contr
-
-967	
-995	
+indeclform
 1017	contr
-1021	
-1034	
-1043	
 1057	contr
 1063	contr
 1078	contr
-1096	
 1115	contr
-1125	
-1154	
+1154	indeclform
 1193	contr
 1197	contr
 1209	contr
-
-1227	
 1234	contr
 1254	contr
-
 1258	contr
-1279	
 1281	contr
-1289	
 1298	contr
-1300	
 1306	contr
 1309	contr
-1318	
+1318	indeclform
 1321	contr
 contr/nu_movable
 1331	contr
 1339	short_subj
-
-1342	
-contr
-1358	
+1343	contr
 1363	contr
 1372	contr
-1377	
-1385	
-1387	
-contr
+1388	contr
 short_subj
 1404	contr
-1406	
 1416	contr
-1434	
 1446	contr
 1467	contr
 contr
 1480	contr
-1484	
 1486	contr
-1489	
-1499	
 1513	contr
-1515	
 1523	contr
 1579	contr
-1592	
 1599	contr
-1611	
 1647	contr
-1650	
 1664	contr
-1683	
 1685	contr
 1720	contr
-1724	
 1731	contr
 contr
-1743	
 1745	contr
-1764	
 1787	contr
-1817	contr
-1852	
-1867	
-1875	
-contr
-1880	
-1882	
-1901	
+1876	contr
 1906	contr
-1924	
 1926	contr
-1938	
 1940	contr
-
 1945	contr
-1947	
-1951	
-1961	
 1963	contr
 1974	contr
-1981	
 2018	contr
 2023	contr
 2027	contr
 2032	contr
 contr
-2036	
+2036	indeclform
 2041	contr
-2047	
 2051	contr
 2058	contr
 2060	contr
 2063	contr
-2065	
 2085	contr
-2091	
-2097	
 2101	contr
-2110	
-2119	
 2126	contr
 2132	contr
-2142	
+2142	indeclform
 2147	contr
 2151	contr
 2157	contr
 2164	contr
 contr
-2174	
+2174	indeclform
 2179	contr
 2183	contr
 2189	contr
-2203	
-2206	
 2211	contr
 2216	contr
 2223	contr
 2234	short_subj
 2241	contr
-2244	
 2257	contr
 2266	contr
 2281	contr
 2297	indeclform
 indeclform
-2321	
-2333	
 2335	contr
 2349	contr
 2359	short_subj
-2372	
-2374	
-2381	
-2383	
-contr
+2374	indeclform
+2384	contr
 2389	contr
-2392	
 2394	contr
 2406	contr
 2428	contr
 2445	contr
 2464	contr
-2493	
 2508	contr
-2526	
-2532	
-2537	
+2532	indeclform
 2540	contr
 2544	contr
 contr
@@ -238,7 +147,6 @@ contr
 2563	contr
 2583	contr
 2587	contr/nu_movable
-2591	
 2605	contr
 2609	contr
 contr
@@ -246,19 +154,15 @@ contr
 2622	contr
 2628	contr
 2675	contr
-2678	
-contr
+2679	contr
 2683	contr
 2717	contr
-
 2723	contr
 2739	contr
 2765	contr
 2768	contr/nu_movable
-2773	
 2783	contr
 2789	contr
-
 2793	contr
 2797	contr
 2800	contr
@@ -271,7 +175,6 @@ contr
 contr
 2872	contr
 2877	contr
-
 2882	contr
 2885	contr
 2889	contr
@@ -279,139 +182,83 @@ contr
 2913	contr
 2923	short_subj
 2930	short_subj
-2937	contr/r_e_i_alpha
-2939	
 2944	contr
-2960	
 2963	contr
 2974	contr
 2977	contr/nu_movable
 3001	contr
-3026	
-3033	
-3035	
-3089	
-3094	
-3096	
 3127	contr
 3152	contr
 3167	contr
 3175	contr
-3183	
-3186	
-3190	
+3183	indeclform
+3190	indeclform
 3204	contr
 3221	contr/nu_movable
-3262	
-3274	
 3308	contr
-3311	
 3314	contr
 3327	contr
-3329	
-3334	
 3367	contr
 3386	contr
 3390	contr
 3395	nu_movable
-3402	
 3433	contr
 3444	contr
-3458	
 3460	contr
-3463	
 3491	contr
 3508	contr
 3544	contr
 3548	contr
-3550	
-3556	
-3572	
 3592	contr
 3596	contr
-3603	
-3605	
-3626	
+3605	indeclform
+3626	indeclform
 3631	contr
 3657	contr
-3676	
-3678	
 3685	contr
-3724	
 3745	contr
-3747	
 3760	contr
-3766	
-3784	
-3794	
-3803	
-
-3824	
 3826	contr
 3829	contr
-3831	
 3873	contr
-3918	
-3932	
 3943	contr
-3951	
 3954	contr
-3957	
 3969	contr
 short_subj
 3977	contr
 3981	contr
-3991	
-4001	
 4022	contr
 4038	contr
-4051	
 4061	contr
 4071	contr
 4080	contr
 4091	contr
 4094	contr
-4112	
 4114	contr
-4118	
 4126	contr
 4130	contr
-4133	
+4133	indeclform
 4208	nu_movable
 4216	contr
 4225	nu_movable
-4230	
 4250	contr
 4253	contr
 4258	indeclform
-4276	
-
 4288	contr
 4295	contr
 4300	contr
 contr
-4312	
-4316	
-contr
+4317	contr
 4325	contr
-4341	
 4344	contr
 4349	contr
-4360	
-4362	
-4395	
-4399	contr/r_e_i_alpha
-4412	
 4433	contr
 4439	contr
 4445	contr
-4448	contr/r_e_i_alpha
 4457	contr
 contr
 4469	contr
-4516	
 4534	contr
-4537	
 4561	contr
 4566	contr
 4579	contr
@@ -421,20 +268,14 @@ contr
 4647	contr
 4653	contr
 4689	contr
-4693	
 4705	contr
-4707	
 4716	nu_movable
-4718	
+4718	indeclform
 4752	contr
-4785	
 4790	contr
 4793	contr
 4799	contr
-4814	
 4821	contr
-
-4840	
 4851	contr
 4855	contr
 4873	contr
@@ -442,39 +283,24 @@ contr
 4885	contr
 4895	contr
 4928	contr
-4976	
 4978	contr
 4985	contr
 5018	contr
 5034	contr
-5036	
 5047	contr
 5052	contr
 5059	contr
 5063	contr
-5077	
 5093	contr
-5096	
 5109	contr
-5111	
 5119	contr
 5140	contr
 5188	contr
-5220	
 5237	contr
-5245	
 5251	contr
-5254	
-5270	
-5310	
-5315	
 5333	contr
 5362	contr
 5374	contr
-5385	indeclform
-5398	
-5405	
-5425	
 5448	contr
 5452	late
 5478	contr
@@ -484,115 +310,64 @@ contr
 5562	contr
 5566	contr
 contr
-5579	
-5611	
-5620	
 5632	contr
 5642	proclitic/indeclform
 5646	contr
 5657	contr
 5666	contr
-5686	
 5690	contr
 5692	contr
 5710	contr
 5715	indeclform
-
-5726	
 5733	contr
 contr
-5736	
 5739	contr
 5741	contr
-5743	
 5749	contr
-5759	
 5761	contr
 5768	contr
-5772	
-5775	
 5777	contr
 5786	contr
-5790	
-5813	
 5820	proclitic/indeclform
 5824	nu_movable
 5840	contr
 5842	nu_movable
-
-contr
+5844	contr
 5852	contr
 5854	nu_movable
-
 5876	contr
-5906	
-5914	
-5930	
-contr
-5933	
-5935	
-5953	
+5931	contr
 5978	contr
 5986	contr
-5988	
 5993	indeclform
 6001	contr
 6029	contr
-6042	
-contr
+6043	contr
 6061	contr
-6088	
 6093	contr
-6108	
 6110	contr
 contr
 6140	contr
-6150	
-6182	
+6150	indeclform
 6187	contr
 6200	contr
 6216	contr
 6251	contr
 6255	contr
-6263	
-6279	
-6282	
-contr
-6331	
-6336	
-6366	
-6382	
-
-6418	
-
-6429	
+6283	contr
 6434	contr
 6442	contr
-6451	
-6480	
 6489	contr
 6491	contr
-6496	
 6506	contr
 6510	contr
-
-6516	
 6518	contr
 6528	contr
-6533	
-contr
-6536	
-
-6545	
+6534	contr
 6557	contr
-6561	contr/r_e_i_alpha
-6563	
 6581	contr
 6635	contr
 6661	contr
-6674	
-
-6681	
 6685	contr
 contr/nu_movable
 6696	contr
@@ -600,181 +375,100 @@ contr
 6702	contr
 contr
 6708	indeclform
-6717	
-6726	
+6717	indeclform
 6730	contr
-6745	
+6745	indeclform
 6765	contr
 6784	contr/nu_movable/short_subj
-6794	
 6808	contr/short_subj
-6814	
 6817	contr
-6823	
-6845	
 6874	contr
 6879	contr
-6885	
-6915	
 6918	contr
 6922	contr
-6933	
 6941	indeclform
-6956	
-6994	
-7024	
 7027	contr
 7035	proclitic/indeclform
-7037	
-
 7047	contr
-7049	
-7061	
 7067	contr
-7072	
 7078	contr
-7080	
 7091	contr
-7093	
 7118	contr
-7121	contr/r_e_i_alpha
-7138	
 7140	contr
 7147	contr
 7155	contr
 7158	contr
-7162	
 7177	contr/nu_movable
-7185	
 7198	contr
 7202	contr
 7227	contr
-7249	
 7253	contr
 7255	contr
 7258	proclitic/indeclform
 7264	contr
 proclitic/indeclform
-7282	
-7292	
 7295	contr
-7300	
 7323	contr
 7328	contr
-7336	
 7355	contr
-7360	
 7363	poetic
 7383	contr
-7385	
-7405	
+7385	contr
 7407	contr
-7429	contr
 7451	contr
-7454	
 7460	contr
 7467	contr
 7479	contr
 7481	nu_movable
-7504	
 7512	contr
-7516	
-7541	
-7544	
 7546	contr
-7558	
 7579	contr
-7590	
-7593	
 7595	contr
-7605	
 7620	contr
-7628	
-7632	
 7641	contr
 7654	contr
-7657	
 7670	contr
 7692	contr
-7694	
 7700	contr
-7707	
-7735	
 7747	contr/nu_movable
-7750	
 7779	contr
-7786	
-7794	
-7797	
 7799	contr
 7814	contr
 7818	contr
-7825	
-7828	
 7830	contr
-7849	
-7852	
 7854	contr
-7876	
-7888	
 7899	contr
 7901	contr
 7922	nu_movable
-7924	
-7929	contr/r_e_i_alpha
-7935	
+7924	indeclform
 7937	contr
 8008	contr
-8016	indeclform
-8054	
 8056	contr
 8083	contr
-8085	
 8089	contr/nu_movable/short_subj
-8103	
 8157	contr
-8181	
 8215	contr
-8217	
-8228	
-8237	
-8240	
 8271	contr
 8309	nu_movable
 8320	contr
 8343	contr
 8358	contr
-8367	
-8369	
 8383	contr
 8400	contr
-
-8415	
-8421	
+8421	indeclform
 8436	contr
-
+indeclform
 8456	contr
-8472	
 8508	contr
-8530	
-8545	
 8569	contr
-8573	
-8626	contr/r_e_i_alpha
 8629	contr
 contr
-8649	contr/r_e_i_alpha
 8657	contr
-
-8666	
-8682	
 8693	contr
 8699	contr
 8712	contr
-
-8730	
 8733	contr
-8739	
+8739	contr
 8762	contr
 8765	contr
 8772	contr
@@ -783,47 +477,31 @@ nu_movable
 8806	contr
 8809	contr
 8813	contr
-8856	
 8865	contr
 8875	contr
 8893	contr
 8905	contr
-8911	
-8918	
-
 8938	contr
-8969	
 8984	contr
-8992	
-9008	
+8992	indeclform
 9019	contr
 9036	contr
-9041	
 9047	contr
-9071	
-9096	
 9134	nu_movable
 9137	contr
-9149	
 9177	contr
 9187	contr
-9197	
-9200	
 9211	contr
 9240	contr
-9250	
-contr
+9251	contr
 9259	contr
 9269	contr
 9276	contr
-9280	
 9284	contr
 9296	contr
 9302	contr
 9305	contr
-9340	
 9377	contr
-
 9399	contr
 contr
 9423	indeclform
@@ -831,170 +509,97 @@ nu_movable
 9426	contr
 9440	contr
 9449	contr/poetic
-
-9456	
 9460	contr
 9470	contr
 9481	contr
-9498	
-9501	
 9514	contr
-9526	
 9528	contr
 9531	contr
 9543	contr
 9575	contr
 9594	contr
 9603	contr
-9606	
 9632	contr
 contr
 9662	contr
 9679	contr
 9685	contr
-9712	
 9718	contr
 9722	contr
-9729	
 9733	indeclform
 9741	contr
-
-9752	
-9777	
-9795	
-9850	
 9866	contr
-
-9913	
 9920	contr
 9926	contr
 9932	nu_movable
 9935	contr
-9937	
-9948	
 9978	contr
-9999	
 10007	contr
 10024	contr
-10040	
-10045	
-10063	
 10075	contr
-10079	
-
-contr/r_e_i_alpha
-10090	
-10092	contr/r_e_i_alpha
-10098	
 10100	contr
-
 10106	contr
 10108	contr
-10110	
-10114	
 10117	short_subj
 10143	contr
 10167	contr
-10169	
-
-10183	
-contr
+10170	indeclform
+10184	contr
 10197	contr
 10202	contr
 10207	contr
 10213	contr
 10216	contr
 10229	contr
-
-10232	
-10247	
+10247	indeclform
 10254	contr
-10259	
-10264	
 10266	contr
-10278	
 10280	contr
-10282	
-10287	
-10293	
 10295	contr
-10298	
-10310	
 10312	contr
 10315	contr
 10360	contr
 10379	contr
 10383	contr
-10391	
+10391	indeclform
 10419	contr
-10427	
+10427	indeclform
 10448	contr
-10453	
-10462	
-10475	
-contr
-10491	
+10476	contr
+10491	contr
 10501	contr
-10506	
-10517	
+10517	contr
 10533	contr
 10538	contr
-10540	
 10543	contr
-10548	
+10548	indeclform
 10552	contr
 contr
-
 10558	contr
 contr
-10562	
-10565	
+10565	indeclform
 10576	contr
 10580	contr
 10582	contr
-10584	
 10586	contr
 contr
 10592	contr
-10602	
 10605	contr
 10616	contr
-10627	
 10630	contr
 10642	contr
-10646	
 10677	short_subj
-10684	
-10686	
-10688	
-10693	
-10695	
 10697	contr
-
-10701	contr/r_e_i_alpha
-10705	
 10707	contr
 10712	contr
-10716	
 10727	contr
 10747	contr
-10762	
 10769	contr
 10786	contr
-10814	
 10820	contr
-10826	
-
 10833	contr
-10854	
-10864	
-10868	
-10871	
+10864	contr
 10874	contr
-10876	
-10888	
-10890	
-10902	
 10904	contr
 10913	contr
 10935	contr
@@ -1002,215 +607,106 @@ contr
 11001	contr
 11007	contr
 11018	nu_movable
-11029	
-11049	
 11066	nu_movable
 11069	contr
-11074	
-11119	
-11121	
 11123	contr
-11131	
 11135	contr
 11141	contr
-11150	
-11163	
 11165	contr
 11167	contr
 11184	contr
 11196	contr
-11211	
-11213	
-11227	
-11234	
-11236	
-contr
-11240	
-11249	
+11237	contr
 11260	contr
-11275	
-11283	
-11296	
-11304	
+11283	indeclform
 11306	contr
-11309	
-11314	
-11322	
 11324	contr
 11328	contr
-11333	
-11342	
-11347	
-11351	
-11358	
-11366	
-11375	
-11442	
-11446	
 11448	contr
 11486	contr
 11499	contr
-11526	
 11535	nu_movable
-11541	
-11552	
 11570	contr
-
-11573	
-11582	contr
-11590	
-11595	contr
-11640	
 11666	contr
-11692	
-11699	
 11714	contr/nu_movable/short_subj
-11725	
 11732	contr
 11741	contr
 11745	contr
 11747	contr
-11759	
-11761	
 11767	contr
-11771	
 11776	contr
-11779	
-contr
+11780	contr
 11798	nu_movable
-11801	
-11812	
 11832	contr
 11855	nu_movable
 11864	contr
 11892	contr
-
 11914	contr
-11916	
-11922	
-
-11926	
-11940	
-11943	
 11959	nu_movable
 11973	contr
-11994	
 12022	contr
 12027	contr
 12033	contr
-12045	
-12053	
 12056	contr
 12072	contr
-12094	contr
 12107	contr
 12113	contr
-12128	
 12139	contr
-12153	
-12160	
-12201	
 12219	contr
 12237	proclitic/indeclform
 12260	nu_movable
-12264	
-12266	
-12272	
+12266	indeclform
 12278	contr
 12302	contr
-12316	
-12321	
+12321	indeclform
 12335	contr
-12350	
 12352	contr
-
 12357	contr
 12364	contr
 12367	contr
-12405	
-contr
+12406	contr
 12414	contr
-12424	
 12428	contr
-12431	
 12433	contr
-12435	
-contr
+12436	contr
 12438	contr
-12444	
+12444	indeclform
 12446	contr
 12456	contr
 12459	contr
 contr
-12462	contr/r_e_i_alpha
 12468	contr
-12496	
-12499	
-contr
+12500	contr
 12502	contr
-12506	
 12555	nu_movable
-12558	
-12563	
-12575	
 12577	contr
-12611	
+12611	indeclform
 12640	contr
-12674	
-12698	
 12709	contr
-12730	
 12734	nu_movable
 12747	contr/nu_movable
-12755	
-12774	
-contr
-12784	
-12786	
-12793	
+12775	contr
 12795	contr
-12832	
-12840	
-12857	
+12840	contr
 12859	contr
-12891	
-12901	
-12905	
-12918	
-12955	
 12969	contr
 12976	contr
 12979	contr
 12988	contr
-12996	
-13021	
 13065	contr
 13067	contr
 13098	contr
 13104	contr
-13114	
-13119	
-13150	
 13154	contr
 13159	nu_movable
-13162	
 13172	contr
 13200	contr
-13206	
-13241	
-13248	
-13259	
 13285	contr
-13289	
 13306	contr
 13314	contr
 13333	contr
 contr
-13366	
-13376	
-
-13379	
-contr
+13380	contr
 13382	contr
 13384	contr
 contr
@@ -1220,154 +716,78 @@ contr
 13394	contr
 13396	contr
 contr
-13406	
-13408	
-13410	
-contr
+13411	contr
 13425	contr
-13437	
 13444	nu_movable
-13448	
 13455	contr
-13457	
-13466	
-13468	
 13470	contr
 13473	contr
 contr
 13476	contr
 contr
 13481	contr
-13483	
-13501	
 13528	contr
 13541	nu_movable
-13580	
 13645	contr
 13662	short_subj
-13667	
-13678	
-13680	
 13682	contr
 13723	contr
 13743	contr
 contr
 13746	contr
-13777	contr
 13779	contr
 contr
-13790	
-13806	contr
 13833	contr
-13838	contr
 13847	contr
-13852	
-13872	
 13878	contr
-13906	
-13912	
-13931	
 13943	contr
 13955	contr
 13959	contr
 13974	contr/poetic
 13980	contr
-13982	
 14000	contr/poetic
-14002	
 14005	contr
-14029	
 14076	contr
-
-14092	
 14118	contr
-14122	
-14138	
 14144	contr
-14147	
 14155	contr
 14162	contr
 14167	contr
 14174	contr
-14185	
-14204	
 14208	contr
-14210	
-14212	
-14222	
 14260	contr
 14264	contr
-14278	
-14280	
-14308	
-14330	
-14337	
-14353	
 14355	contr
 14370	contr
-14377	
-14402	
-
-14417	
-14456	
-14475	
 14484	contr
-14488	
-14504	
-14510	
 14517	contr
-14521	
-14528	
-14543	
 14554	contr
 14568	contr
 14587	contr
 14592	contr
-14608	indeclform
 14624	contr
 14639	contr/nu_movable
 14646	contr
 14649	contr
-
-14670	
 14680	contr
-14690	
-14699	
 14712	contr
 14730	contr
-14781	
-14823	
-14837	
-14852	
-14869	
 14900	contr
-14904	
 14914	contr
 14923	contr
 14938	contr
 14946	contr
 14952	contr
-14960	
-14982	
 14984	contr
 contr
 14994	nu_movable
-15034	indeclform
 15037	contr
-15042	
 15047	contr/nu_movable
-15050	indeclform
 15069	contr
-15080	
-15100	
-15124	
-15134	
 15137	contr
-15178	
 15194	contr
 15201	contr
 15216	contr
-15226	
 15229	contr
 15241	contr
 15251	contr
@@ -1381,613 +801,334 @@ contr
 15353	contr
 15377	contr
 15379	contr
-15383	
 15412	contr
 15427	contr
-15459	
-15468	
-15481	
-15500	
 15508	contr
-15513	
-15525	
 15527	contr
 15563	contr
 15603	contr
-15606	
 15621	contr
-15629	
 15666	contr
 15691	contr
-15704	
 15725	contr
-15773	
-15786	
 15815	contr
 15827	contr
-15876	
-15888	
 15891	contr
-15925	
 15950	contr
 15970	indeclform
-15976	
 15984	contr
 15994	contr
-16017	
-16033	
 16058	contr
-16076	
-16091	
-16095	
-16148	
-16153	
-16162	
+16076	indeclform
 16168	contr
-16171	
-16174	
-16185	
-16187	
 16216	contr
-16240	
-16251	
-16253	
-16258	
 16266	short_subj
-
 16271	contr
-16281	
-16284	
-16289	
-16308	
-16315	
-contr
-16326	
-16336	
-16362	
+16316	contr
 16388	contr
 16391	contr
 16402	contr
-16405	
 16409	contr
-16441	
-16446	
 16461	contr
 16485	contr
 16527	contr
-16557	
-16563	
 16570	contr
-16596	
 16599	contr
 16607	contr
 16625	contr
 16648	contr/poetic
 16651	contr
-16680	
-16684	
-16712	
-16724	
 16728	contr
-16730	
-contr
+16731	contr
 contr
 16741	contr
 16744	contr
 16759	contr
 16773	contr
-
-16781	
-16792	
 16801	contr
-16805	
-16823	
 16829	contr
-16844	
-16850	
-16865	
 16880	contr
-16892	
-16896	
+16896	indeclform
 16908	contr
-16917	
-16929	
-contr
+16930	contr
 16941	contr
-16961	
-17051	
+17051	contr
 17064	contr
 17068	contr
-17076	
-17083	
 17094	contr
 17100	contr
 17109	contr
-17152	
-17158	
-contr
-17184	
-17190	
-17192	
+17159	contr
 17201	indeclform
-17209	
-17214	
-17230	
-17251	
 17268	indeclform
-17280	
-17289	
 17291	nu_movable
-17304	
 17314	contr
 17379	contr
 17401	contr
-17407	
-17429	
-17449	
 17457	contr
-17465	
-17478	
-17500	contr
-17520	
-17523	
 17540	contr
 17554	contr
-17560	
-17569	
-17579	
-17591	
 17600	contr
-17608	
-17625	
 17653	indeclform
-17659	
-17711	
-contr
+17712	contr
 17732	contr
-17746	
 17771	contr
-17773	
+17773	indeclform
 17790	contr
-17794	
+17794	indeclform
 17810	contr
-17820	
-17875	
-17891	
+17875	indeclform
 17914	contr
-17924	
 17926	contr
 17932	contr
 17942	contr
 17948	contr
-17958	
 17999	contr
 contr
 18002	contr
-18010	contr
-18012	
+18012	indeclform
 18025	contr
 18037	contr
 18048	contr
 18053	contr
 18079	contr
-18082	
-18091	
-18127	
 18143	contr
 18150	indeclform
 18180	contr
 18189	contr
-18213	
 18222	contr
-18295	
 18306	contr
-18314	
 18320	contr
 contr
-18323	
 18326	contr
 18335	contr
-18379	
+18379	indeclform
 18393	contr
-18397	
-18424	
 18470	contr
-18489	
-18491	
-18502	
+18491	indeclform
+18502	indeclform
 18505	contr
 18509	contr
 18527	contr
-18537	
 18539	contr
 contr
 18547	contr
-
 18566	contr
 18579	contr
-18647	
+18647	indeclform
 18652	contr
-18661	
-18671	
+18661	indeclform
 18682	contr
 18689	contr
 18727	contr
 18775	nu_movable
-18812	
+18812	indeclform
 18819	contr
 18828	contr
 18836	contr
-18849	
 18851	contr
 18856	contr
-18862	
 18865	nu_movable
-18872	
 18874	contr
 18901	contr
 18915	contr
-18928	
-18938	
-18948	
 18954	contr
 18965	contr
 proclitic/indeclform
-18986	
-18995	
+18986	contr
+18995	indeclform
 19007	contr
 19023	contr
-19043	
-19050	
-19067	
+19050	indeclform
 19072	contr
 19077	indeclform
-19115	
-19119	
 19131	contr
-19138	
 19141	contr
 19143	contr
 19148	contr
 contr
-19159	
-19163	
-19165	
 19168	contr
 19174	contr
-19179	
-19191	
-19200	
 19214	contr
-19225	
-19272	
-19284	
-19287	
 19303	contr
 19308	contr
 19317	nu_movable
-19319	contr/r_e_i_alpha
 19322	contr
 19326	contr
 19333	contr
 19344	contr
-19388	
-19398	
 19400	contr
-19409	
 19416	contr
 19428	contr
-19430	
-19441	
 19446	contr
-19457	
-19459	
-19468	
 19491	contr
-19494	
-19521	
-19529	
-19548	
-19561	
-19567	
-19580	
+19548	indeclform
 19600	contr
-19604	
-19608	
-19611	
 19666	contr
 19689	contr
-19691	
-19721	
-
 19729	contr
 19767	contr
 19770	contr
 19799	contr
-
-19810	
-19853	
-19864	
 19867	contr
 19874	contr
 19877	contr
 19891	contr
-
-19900	
 19903	contr
 19926	contr
 19928	contr
 19937	contr
-19942	
-contr
-19945	
-19948	
-19954	
-19956	
+19943	contr
 19971	contr
 19983	contr
 19988	contr
-19994	
 19997	contr
 20021	nu_movable
-20023	
 20026	contr
 20030	contr
 20034	contr
-20041	
-20057	
-
 20072	contr
-20085	
 20131	contr
 contr
-20140	
-
-20153	
-20165	
-20178	
-20186	
 20202	contr
-
 20228	contr
-20236	
-20255	
 20257	contr
-20278	
-20286	
 20300	contr
 20303	contr
-20308	
-20327	
-20333	
 20355	contr
 contr
-20363	
 20369	contr
 20384	contr
-20389	
 20397	contr
-20435	
-20458	
-contr
-20465	
+20459	contr
 20473	contr
 20494	contr
 20500	contr
 20503	contr
-20512	
 20514	contr
-20533	
-20544	
 20564	nu_movable
-20572	
 20574	contr
 20579	contr
-20590	
 20617	contr
 20622	contr
 20637	contr
-20642	
-20650	
 20661	contr
-20669	
+20669	indeclform
 20674	contr
-20676	
+20676	indeclform
 20683	contr
-20698	
+20698	indeclform
 20710	nu_movable
 20714	contr
-20727	
-20753	
-20757	
 20773	contr
 20778	contr
 20799	contr/nu_movable
-20811	
-
 20834	late
-20836	
-20848	
+20848	indeclform
 20853	contr
-20868	
 20876	contr
-20882	
-20904	
-20923	
+20923	indeclform
 20928	contr
-21017	
 21056	contr
-
 21063	contr
-21095	
 21104	contr
-21111	
-
+21111	indeclform
 21131	contr
 21140	contr
 21167	contr
 21186	contr
 21209	contr
-21229	
 21245	contr
-21256	
 21259	contr
-21289	
 21304	contr
 21316	contr
 21328	contr
 21338	contr
-21342	
-21355	
-21384	
 21394	contr
-21418	
-21427	
-21437	
-21446	
+21418	indeclform
+21446	indeclform
 21448	contr
-21453	
 21481	contr
-21511	
 21513	contr
 21584	contr
-21590	
 21592	contr
 21613	contr
 21615	contr
 21639	contr
 21651	contr
-21657	
 21675	contr
 21677	contr
 21679	contr
 21688	contr/nu_movable
 21690	contr
-21712	
 21719	contr
-21721	
 21723	contr/nu_movable/short_subj
 21728	contr
-21730	
 21734	contr
-21736	
 21742	contr/poetic
-
-21767	
 21793	contr
 21814	contr
-21822	
 21876	contr
 21885	contr
-21890	
-21893	
-21920	
-21938	
 21989	contr
-21993	
-22019	
-22025	
-22027	
-22050	
-22053	
 22101	contr
-22103	
 22137	nu_movable
-22150	
 22159	nu_movable
 22163	contr
-22169	
-
-22176	
-contr
+22177	contr
 contr
 22192	contr
 22212	contr
-22221	
 22229	contr
 22252	contr
-22255	
-22257	
-22271	
-22291	
-22326	
-22340	
-22372	
+22271	indeclform
+22291	indeclform
+22372	indeclform
 22375	contr
-22378	
 22399	contr
 22422	contr
-22448	
 22456	indeclform
 22484	contr
 22500	contr
 22506	contr
 22509	proclitic/indeclform
 22519	contr/nu_movable
-22526	contr/r_e_i_alpha
 22531	contr
 contr
 22538	contr
-22548	
-22564	
 22567	contr
-22573	
+22573	contr
 22585	contr
-22594	
 22599	contr
-22608	
 22611	contr
 22615	contr
-22626	
-contr
+22627	contr
 22640	contr
 22658	contr
 22665	contr
 22693	contr
-22698	
 22715	contr
-22720	
 22747	contr
 22770	contr
 22783	contr
 22787	contr
-22801	
 22805	contr
 22815	contr
-22841	
-22849	
-22859	
-22869	
+22849	indeclform
 22881	contr
-22890	
-22892	
+22892	indeclform
 22897	contr
-22909	contr/r_e_i_alpha
 22918	contr
-22920	
-22936	
 22944	contr
-22946	
-22953	contr
 22965	contr/nu_movable
 22968	contr
-22979	
-23001	
-23041	
-23068	
 23086	contr
 23098	indeclform
 23107	contr
 23116	contr
-23171	
 23212	contr
-23220	
-23228	
 23244	contr
-23286	
-23289	
 23301	contr
-23319	
 23328	nu_movable
 23337	contr
 23343	nu_movable
@@ -2001,207 +1142,121 @@ contr
 23470	contr
 23472	contr
 23477	contr/poetic
-23486	
-23491	
 23510	contr
 23546	contr
 23550	contr
-23559	
 23569	contr
 contr
 23602	contr
 23647	contr
-23673	
 23679	contr
 23681	contr
-23686	
 23690	indeclform
 23698	contr
-
-23703	
 23705	contr
-23730	
-23742	
-23768	
 23793	contr
-23818	
+23818	contr
 23823	contr
 23839	proclitic/indeclform
 23850	contr
 23863	contr
 23870	nu_movable
 23875	contr
-23877	
-23885	
 23901	contr
-
 23970	contr
 23987	contr
-23998	
-24002	
-24007	
 24026	nu_movable
-24068	
-24081	
-24083	
 24097	contr
 24161	contr
-24164	
-24190	
-24233	
-24268	
 24315	contr
 24329	contr
 24331	contr
-24354	
 24377	contr
-24387	
 24424	contr
 24429	contr
 24455	contr
 24458	contr
 24481	contr
 24484	contr
-24496	
 24498	contr
-24512	
 24525	contr
 24553	contr
 24624	contr
 24637	contr
 24643	contr
 24660	contr
-24666	
 24681	contr
 24685	contr
-24693	
 24699	contr
-24712	
-24724	
 24726	contr
-24728	
-24735	
 24737	contr
 24748	contr
-24803	
 24806	contr
-24859	
-24868	
-24880	
+24859	indeclform
 24882	contr
 24886	contr
-24897	
-24905	
 24907	contr
-24912	
-24922	
 24924	contr
-24941	
-
-24947	
-24951	
-
-24960	
-24971	
 24996	contr
-25044	
+25044	indeclform
 contr
-25068	
 25084	contr/nu_movable/short_subj
 25093	nu_movable/short_subj
 25115	contr
 25123	contr
 25145	contr
-25147	
-25155	
-contr
+25156	contr
 25172	contr
 25194	contr
-25207	
 25222	contr
-25234	
 25249	nu_movable
 25288	contr
-
 25313	contr
-25321	
-25325	
-25338	
-25353	
 25368	contr
 25409	contr
-25434	
-25441	
 25469	contr
 25481	contr
-25491	
 25495	contr
 25499	contr
 25501	contr/nu_movable
 25504	indeclform
-25508	
 25552	contr
-25565	
 25572	contr
-25576	
-25608	
-25623	
 25625	contr
-25641	
-25652	
+25641	indeclform
+25652	indeclform
 25659	contr
-25700	
 25702	contr
 25766	contr
-25771	
-25778	
-
-25784	
 25788	contr
-25790	
 25797	contr
 25807	contr
 25810	contr
 25812	contr
-25820	
-25822	
-25882	
-25885	
-contr
+25886	contr
 25894	contr
-25904	
 25909	contr
 25912	contr
-25915	
-contr
+25916	contr
 25918	contr
 25924	contr
-
+indeclform
 25929	contr
 25936	contr
 25939	contr
 contr
-contr/r_e_i_alpha
 25947	contr
-25962	
+25962	indeclform
 25967	nu_movable
-25973	
-25977	
-25980	
-contr
+25981	contr
 25983	contr
-26017	
 26023	contr
 26062	contr
 26065	contr
-26105	
-26122	
-26135	
-contr
+26136	contr
 26181	nu_movable
 26190	contr
 26206	contr
-26238	
 26242	contr
 26264	contr
 26277	nu_movable
@@ -2209,700 +1264,404 @@ contr
 26295	contr
 26335	contr
 26347	contr
-26355	
-26373	
 26384	contr
 26388	contr
 26404	contr
 26415	contr
 26435	contr
 contr
-26445	
-26455	
 26464	contr
-26476	
-
-26479	
-contr
+26480	contr
 26485	contr
 26491	contr
 26497	contr
 26503	contr
-26506	
-26508	
-contr
-26523	
+26509	contr
 26539	contr
 26557	contr
-26559	
 26568	contr
-26584	
 26586	contr
-26592	
 26603	nu_movable
-26627	
-26629	
 26631	contr
 26634	contr
 contr
 26637	contr
 contr
-26641	
-26643	
-26691	
-26693	
-
-26722	
-26738	
-26742	
-26746	
 26780	contr
-
 26790	contr
-26821	
 26824	contr
-26828	
-26836	
 26880	contr
 26883	contr
-26895	
-26897	
 26914	contr
-26935	
-contr
+26936	contr
 26942	contr/nu_movable
 26946	contr
 26951	contr
 26966	contr
-26993	
 27006	contr
 27014	contr
-27032	
-27036	
-27051	
-27088	
-27091	
 27110	contr
-
 27121	contr
-27125	
-27129	
 27145	contr
-27147	
 27156	contr
 27182	contr
 27213	contr
 27220	contr
-27224	
 27226	contr
-27242	
 27255	contr
-27265	
 27287	contr
 27335	contr
-27374	
-27376	
-27378	
-27401	
+27378	indeclform
 27430	contr
 27443	indeclform
 27453	contr
-27459	
-27461	contr
-27518	
 27521	contr
 27577	nu_movable
 27580	contr
-27597	
-27604	
 27614	contr
-27622	
-27635	
-27639	
-27643	
 27651	contr
-27658	
-27682	
-27702	
 27724	contr
-27774	
-27793	
-27799	
-27805	
 27811	contr
-
-27815	
 27817	contr
-27825	
-27827	
 27843	contr
 27848	contr
-27866	
-27871	
-27886	
 27891	contr
-
 27899	short_subj
-27904	
-27914	
-27920	
-27940	
-27947	
-contr
-27964	
-27977	
+27948	contr
 27990	contr
-28000	
 28003	contr
 28025	contr
-28057	
-28063	
 28080	contr
 28104	contr
-
-28137	
 28159	nu_movable
-28163	
 28182	contr
 28222	contr
-28252	
-28258	
-28260	
+28260	indeclform
 28295	contr
 28301	indeclform
 28314	contr
 28319	contr
-28321	
+28322	contr
 contr
-contr
-28331	
+28331	indeclform
 28346	contr
 28350	contr
-28365	
-28388	
 28398	contr
-28402	
-28406	
 28421	contr
 28425	contr
 28428	indeclform
-28442	
 28452	contr
 contr
-28462	
-28470	
 28484	contr
 28486	contr
-28495	
-28521	
 28540	contr
-28545	
 28549	contr
-28570	
-28612	
 28616	contr
 28629	contr
-28632	
-contr
-28651	
-28654	
-28666	
+28633	contr
+28654	indeclform
 28670	contr
 28676	contr
-28694	
-28703	
-28723	
-28731	
-28746	
-28756	
 28784	contr
-28820	
 28853	contr
 28892	contr
-
+indeclform
 28896	contr
-28901	
-28917	
-28920	
+28901	indeclform
 28939	contr
 28949	contr
-28953	
-28963	
-28975	
-29001	
 29031	indeclform
-29035	
-
-29075	
-contr
-
+29076	contr
 29084	contr
 29095	contr
-
-29123	
+indeclform
+29123	indeclform
 29130	contr
 29133	contr
-29136	
-29144	
-
-29160	
-29163	
+29144	contr
+indeclform
+29160	indeclform
 29165	contr
-29191	
 29208	nu_movable
-29217	
+29217	indeclform
 29226	contr
 29274	contr
-29276	
-29296	
-29318	
-29321	
+29296	indeclform
 29327	contr
 29338	contr
-29348	
-29383	
 29391	contr
 29405	contr
 29421	contr
 29443	contr
-29465	
-29467	
 29482	contr
 29487	contr
 29493	contr/nu_movable
 29505	contr/nu_movable
-29525	
 29527	contr
 29534	contr
-29540	
 29543	contr
 29599	contr
 29601	contr
 29616	contr
 29648	contr
-29650	
 29652	contr
 29661	contr
-29665	
-29669	
-29689	
+29665	indeclform
+29669	indeclform
 29695	contr
 29703	late
 29709	contr
-29714	
+29714	indeclform
 29727	contr
-29730	
-29741	
 29757	contr
 29761	contr
-29763	
-29788	
-contr
-29796	
+29789	contr
 29809	contr
-29811	
-29813	
-29815	
-29820	
-29835	
-contr
-29875	
+29836	contr
 29877	contr
-29889	
-contr
-29914	
+29890	contr
+29914	indeclform
 29917	contr
-29945	
+29945	indeclform
 contr
-29978	
-29980	
 30007	contr
-30016	
-30041	
-30066	
-30113	
-30127	
+30041	indeclform
+30127	contr
 contr
 30145	contr
 30154	contr
 30160	contr
 30166	contr
 30179	short_subj
-
 30182	contr
-30188	
 30191	contr
 30197	contr
 30269	contr
 30279	contr
 30291	contr
-30298	
-30306	
-30315	
-contr
-30325	
-30352	indeclform
-30358	
+30316	contr
 30384	contr
 30396	contr
-30428	
 30495	contr
 30507	contr
 contr
-30514	
-30545	
-30551	
 30562	contr
 30579	contr
-30583	
 30591	contr
-
-30632	
+indeclform
 30635	contr
 30638	contr/poetic
-30684	
-30697	
-30699	
-contr
+30700	contr
 30712	contr
-30715	
 30718	contr
 30727	contr
 30730	contr
 30732	contr
 contr
-30736	
-30751	
-30755	
-30770	
-30783	
-30813	
-30860	
+30751	indeclform
+30860	indeclform
 30886	contr
 30891	contr
 30926	contr
 30934	contr
-30946	
-30950	
-30952	
-30981	
-
+30981	contr
 31051	contr
-31061	
 31121	contr
-31125	
-contr
+31126	contr
 31134	contr
 31141	contr
 31147	contr
-31151	
-31170	
-31175	
-31189	
+31151	indeclform
+31170	indeclform
+31175	indeclform
 31192	contr
-31230	
 31237	contr
 31242	contr
 31252	contr
 31265	contr
 31267	contr
-31270	
-31294	
-31308	
-31310	
+31270	indeclform
+31310	indeclform
 31322	contr
-31325	
+31325	indeclform
 contr
-31345	
-31349	
-
-contr
+31351	contr
 31356	contr
 31358	contr
-31370	
 31391	contr
 31410	contr
-
+indeclform
 31430	contr
-31491	
-31515	
 31539	contr
-
 31560	contr
-31581	
+31581	indeclform
 31594	contr
-31606	
-31645	
-contr
+31646	contr
 31651	contr
 31678	contr
 31690	contr
 31724	contr
 31742	contr
-31759	
-31768	
 31783	contr
 31789	contr
-31822	
-31842	
-
-31875	
-31917	
-31945	
 31948	contr
 32021	contr
-32035	
+32035	indeclform
 32039	contr
 32061	contr
 32079	poetic
-32119	
-32135	
-32169	
 32197	contr
 32220	contr
 32242	contr
-
-32272	
 32286	contr
 32291	contr
 32298	contr
 32304	contr
-32306	
-32309	
+32309	indeclform
 32318	short_subj
-
-32321	
-contr
+32322	contr
 32338	contr
 32346	contr
 32350	contr
-32359	
-32361	
+32359	indeclform
 32366	contr
 contr/nu_movable
 32376	contr
-32384	
 32386	short_subj
-
-32389	
-contr
+32390	contr
 32401	contr
-32438	
-32472	
+32438	indeclform
+32472	indeclform
 32475	contr
 32495	contr
 32498	contr
 32504	contr
 32506	contr
-32527	
-32551	
 32562	contr
 32582	contr
-32586	
-32600	
-32603	
-32620	
-32644	
 32668	contr
-32684	
-32695	
-32700	
-contr
-32712	
+32701	contr
+32712	indeclform
 32726	contr
-
-32735	
-32742	
-32745	
+indeclform
+32735	indeclform
 32755	contr
 32762	contr
-32778	
 32804	contr
-32837	
+32837	indeclform
 32847	contr
-contr
 32864	contr
 32888	contr
-32893	
 32900	contr
 32902	contr
 32904	contr
-32919	
-32928	
 32950	contr
-32952	
 32954	contr
-32960	
+32960	indeclform
 32980	contr
-32983	
-32985	
-32994	
+32983	indeclform
 32999	contr
-33013	
-33033	
+33013	indeclform
 33051	contr
-33053	
 33064	contr
 33073	contr
 33081	contr
 33104	contr
-33106	
 33132	contr
-33135	
-33161	
 33188	contr
 33200	contr
-33217	
 33227	contr
 33238	contr
-33265	
+33265	indeclform
 33277	contr
-33280	
+33280	indeclform
 33302	contr
-
-33316	
-33323	
-
-33329	
-33332	
-33339	
+indeclform
+33316	indeclform
 33341	contr
 33364	contr
-33401	
 33414	contr
 33419	contr
 33428	contr
 contr
-33439	
-33442	
 33445	contr
 33450	contr
-33454	
-33456	
-33467	
-33475	
 33503	contr
-33519	
+33519	indeclform
 33524	contr
-33543	contr/r_e_i_alpha
 33566	contr
 33574	contr
 33577	contr
 33584	contr
 33587	indeclform
-33591	
 33650	contr
-33655	
-33661	
-
-33667	
 33673	contr
-33678	
 33685	contr
 33699	contr
-33701	
 33708	contr
-
-33711	
-
-33724	
 33729	contr
 33738	indeclform
 33777	contr
-33823	
+33823	indeclform
 33831	contr
-
+indeclform
 33881	contr
-33900	
 33903	contr
 33915	contr
-33938	
+33938	indeclform
 33944	contr
-33983	
 34002	contr
 34008	contr
 34028	contr
 34033	contr
 34045	contr
 34065	contr
-34081	
 34083	contr
 34102	contr
 34141	contr
 34179	contr
 34184	contr
 34190	contr
-34192	
 34195	contr
 34206	contr
 34227	contr
 34246	contr
-34251	
 34254	contr
-34257	
 34260	contr
-34264	
 34275	contr/nu_movable
 34278	contr
-34283	
 34294	contr
-34300	
-34311	
 34313	contr
-34320	
 34331	contr
 34356	contr
-34359	
-34364	
-34392	
 34427	contr
 34443	contr
 34453	contr
-34459	
-34465	
-34471	
+34459	indeclform
+34471	indeclform
 34483	contr
 34490	contr
 34497	contr
 34505	contr
 contr
 34512	nu_movable
-
 34516	contr
 34518	contr/nu_movable
 34524	contr
 34557	proclitic/indeclform
-
 34568	contr
-34570	
-34606	
-34613	
-34633	
 34663	contr
-34665	
-34668	
+34665	indeclform
 34679	contr
 34683	contr
-34701	
 34703	contr
 34755	contr
-
 34769	contr
-34776	
-34794	
-34808	
-34816	
-34824	
 34842	contr
-34865	
-
-34872	
-34901	
-34923	
+34865	indeclform
+34872	indeclform
 34945	contr
-34951	
 34958	contr
-34975	
 34983	contr
 35005	contr
 35015	contr
@@ -2912,260 +1671,161 @@ contr
 35044	contr
 35052	contr
 35060	contr
-35073	
 35077	contr
 35079	contr
 35094	contr
 35100	contr
 35105	indeclform
-
-35116	
 35122	contr
 contr
-35125	
 35128	contr
 35130	contr
-
 35136	contr
-35145	
 35147	contr
-35155	
-35161	
 35175	contr
 35194	contr
 contr
 35200	contr
 35205	proclitic/indeclform
-
 35225	contr
-35228	
-
-contr
+35230	contr
 35238	contr
-35240	
-
 35257	contr
-35281	
+35281	indeclform
 35284	contr
 35297	contr
-35301	
-35342	
+35342	indeclform
 35364	contr
-35372	
-35397	
-short_subj
+35398	short_subj
 35401	contr
-35407	
 35428	contr
 35462	contr
-35481	
 35497	contr
 35502	contr
 35526	contr
-35548	
 35550	contr
 35558	indeclform
 35563	contr
 35573	contr
-35577	
 35580	contr
 35588	contr
-35606	
-contr
+35607	contr
 35610	contr
 35612	contr
-35623	
-
 35633	contr
-35638	
-35645	
-35652	
-35665	
 35688	contr
 35694	contr
-35704	
 35706	contr
-35719	
 35724	contr
 35731	contr
-35734	
 35795	contr
 35801	contr
 35811	contr
 35817	contr
 contr
 35837	contr
-35853	
-35859	
-35885	
-35905	
 35913	contr
 35917	contr
 35940	contr
 35949	contr
 35957	contr
 35966	contr
-35974	
 35978	contr
-35991	
-
-36024	
 36030	contr
 36042	contr
 36047	contr
 36063	contr
-36084	
 36097	contr
 36101	contr
 36152	contr
-36161	
-36167	
+36167	indeclform
 36172	contr
 36176	contr
 36192	contr
-36239	
 36246	contr
-36251	
 36299	contr
 36311	contr
 36313	contr
-36361	
-36375	
+36375	indeclform
 36378	contr
 36396	contr
 36399	contr
-36437	
-36476	
 36491	contr
-36502	
 36510	contr
-36518	
 36566	contr
 36619	contr
 36623	contr
-36632	
 36634	contr
-36655	contr
 36685	contr
-36687	
-36712	
 36721	contr
 36728	contr
-36758	
-36767	
-36785	
 36787	contr
-36840	
-36873	contr
 36879	contr
 36889	contr
-36926	
 36930	contr
 36935	indeclform
 36939	nu_movable
 36948	contr
 36951	contr
-36966	
 36975	contr
 36986	contr
 37006	contr
 37033	contr
-37085	
 37092	contr
 contr
-
 37099	indeclform
 37107	contr
-
-37112	
 37114	contr
 37145	contr
-37168	
-
 37192	contr
-37215	
-37236	
-37261	
 37317	contr
 37339	contr
 37342	contr
 37351	contr
-37368	
 37380	contr
-37385	
-37388	
 37390	nu_movable
 37416	contr
 37423	contr
-37455	
+37455	indeclform
 37501	contr
-37536	
 37542	contr
 37544	contr
 37592	contr
-37611	
+37611	indeclform
 37618	contr
 37630	contr
-37632	
-37653	
 37656	contr
 37671	contr
 short_subj
 37679	contr
 37683	contr
-37695	
-37714	
-37716	
 37718	contr
-37723	
-37726	
-37756	
 37758	contr
-37770	contr
 37773	contr
 37795	contr
 37799	contr
 37817	contr
-37837	
-
 37844	contr
-37860	
-37906	
-37912	
 37914	contr
-37944	
-37952	
 37954	contr
-
 37967	contr
-37988	
-38011	
-contr
-38014	
-38017	
+38012	contr
 38047	contr
 38053	contr
 38064	contr
 38070	contr
-38073	contr
 38089	short_subj
 38126	contr
 38134	contr
-38136	
 38141	indeclform
 38149	contr
 38179	contr
-38190	
 38197	proclitic/indeclform
-38199	
 38204	contr
 38209	proclitic/indeclform
 38216	contr
 proclitic/indeclform
-38252	
-
-38255	
-contr
+38256	contr
 38261	contr
 38264	contr
 38266	contr
@@ -3175,320 +1835,173 @@ contr
 38276	contr
 38278	contr
 contr
-38282	
-contr
-38308	
-38322	
+38283	contr
 38334	contr
-38347	
-38378	
-38383	
-38416	
 38421	contr
-
-
-38430	
-38449	
-38472	
+38472	indeclform
 38483	contr
 38494	contr
-
 38500	contr
-38510	
 38529	contr
-38580	
 38585	contr
-38588	
-contr
+38589	contr
 38626	contr
 38646	contr
-38653	
-38669	
-38682	
-38690	
-38695	
-38705	
-38707	
-38738	
-38750	
 38773	contr
-38781	
-38783	
-38786	
+38781	indeclform
+38786	indeclform
 38800	indeclform
 38810	contr
 38813	contr
 38819	contr
-38832	
-38853	
-38856	
 38862	contr
 38870	contr
 38872	contr
-38877	
 38887	contr
 38891	contr
-
-38897	
 38899	contr
-38904	
 38930	contr
 38944	contr
-38964	
-
 38990	contr
 38995	contr
-39001	
-39009	
-39018	
 39038	contr
-39044	
-39051	
 39090	contr
 39095	contr/short_subj
-39101	
 39104	contr
-39110	
 39124	contr/nu_movable/short_subj
-39134	
 39164	contr
 39168	contr
-
 39175	contr
 39185	contr
 39187	contr
 39201	contr
-39228	
-39233	
-39241	
 39245	contr
-39269	
 39293	contr
 39299	contr
-39314	
 39316	contr
-39319	
 39329	contr
 39352	contr
-39355	contr
-39363	
 39402	contr/poetic
-39409	
 39413	contr
-39427	
 39433	contr
 39453	contr/poetic
 39457	contr
-39466	
 39477	indeclform
-
-39542	
-39561	
 39588	contr
-
 39621	contr
 39626	indeclform
-
 39633	contr
-39644	
 39646	contr
 contr
-39654	indeclform
-39661	
-39678	
 39683	contr
 39685	contr
-39690	
-39694	
 39696	contr
 39698	contr
 39702	contr
-39738	
-39746	
 39752	proclitic/indeclform
 contr
-39763	
 39832	contr
 39848	contr
 39858	contr
 39860	contr
-39866	
 39870	contr
-39879	
 39885	contr
-39888	
+39888	indeclform
 proclitic/indeclform
-39901	
-39909	contr/r_e_i_alpha
-39911	
 39916	contr
-39927	
 39930	contr
 39941	contr/nu_movable
 39965	contr
-39991	
-39997	
-39999	
-40052	
-40057	
-40076	
 40099	contr
 40110	contr
 40124	contr
-40128	
-40131	
 40144	contr
 40150	contr
-40153	
 40158	contr/short_subj
 40162	short_subj
 40171	contr
-40188	
-40234	
 40264	contr
-40268	
 40278	contr
 40286	contr
 40311	contr
 40317	contr
-40325	
 40333	contr
 40344	contr
 40363	contr
-40402	
-40414	
 40468	contr
-40474	
-40485	
-40487	
 40498	contr
-40519	
 40522	contr
 contr
-40536	
-40555	
-40561	
 40564	contr
 40569	indeclform
 40586	contr
-40598	
-40607	
 40610	contr
 40612	contr
-40614	
 40619	contr
-40623	
-40637	
-40645	
 40648	contr
-40681	
 40703	contr
-40707	
-40716	
-40722	
-r_e_i_alpha
-40736	
+40723	r_e_i_alpha
+40736	indeclform
 40753	contr
-40756	
+40756	indeclform
 40778	contr
-40790	
 40811	contr
 40837	contr
 40849	contr
 40860	contr
-40865	
 40869	contr
-40892	
-40900	
-40903	
 40905	contr
-40910	
 40931	contr
-40943	
 40945	contr
-
-40957	
 40964	contr
 40979	contr
-40989	
-40995	
-41009	
 41011	contr
 41019	contr
 41026	contr
 41029	contr
-41037	
-contr
+41038	contr
 41048	contr
 41052	contr
-41083	
 41085	contr
-41105	
 41107	contr
 41126	indeclform
-41147	
 41149	contr
 41152	contr
 41158	contr
 41161	contr
-41191	
 41194	contr
-41213	
 41218	contr
-41220	
 41229	contr
-41255	
-41278	
-41300	
+41255	indeclform
 41340	contr
 41352	contr
 41363	contr
 41373	contr
 41381	contr
-41390	
 41398	contr
 41403	contr
 41421	contr
 41425	contr
 41429	contr
 41447	contr
-41454	
-41465	
 41467	contr
-
-41482	
 41484	contr
 41491	contr
-41512	
 41532	contr
-41541	
 41548	contr
-41559	
-41634	
 41640	contr
 41665	contr
-41718	
 41724	contr
-41765	
 41771	contr
-41773	
 41815	contr
-41892	
-41901	
+41892	contr
 41917	contr
-41928	
-41934	
 41946	contr
-41950	
+41950	contr
 41962	contr
 contr
 41971	contr
-41977	
 41982	contr
-41987	
-41991	
-41997	
-42001	
 42003	contr
 42005	contr
 42009	contr
@@ -3500,70 +2013,53 @@ contr
 42115	contr
 42121	contr
 42134	contr
-42142	
-contr
+42143	contr
 42149	contr
 42156	contr
-42178	
-42197	
-contr
+42198	contr
 42204	contr
-42249	
-42252	
-42259	
+42249	indeclform
+42252	indeclform
+42259	indeclform
 42295	contr
 42301	contr
-42329	
 42337	contr
 42347	contr
 42354	contr
 42358	contr
-42389	
 42393	contr
-42396	
-42411	
-42434	
+42396	indeclform
+42411	indeclform
+42434	indeclform
 42440	contr
-42443	
 42490	contr
 42505	contr
 42511	contr
-42532	
 42535	contr
 42554	contr
-42573	
 42584	contr
 42616	contr
-42623	
 42629	contr
 42641	contr
 42651	short_subj
 42658	short_subj
-42684	
-42700	
 42702	contr
 42707	contr
-42713	
 42715	contr
 42739	contr
-42757	
+42757	indeclform
 42780	contr
 42790	contr
 42809	contr
 42825	contr
 42832	contr
-42848	
-42864	
 42881	contr
 42885	contr
-42888	
 42890	contr
-42897	
 42906	contr
 42922	contr/nu_movable
 42925	contr
 42943	contr
-42956	
 42973	contr
 42976	contr
 42980	nu_movable/short_subj
@@ -3572,179 +2068,87 @@ contr
 42995	contr
 43016	contr
 43040	contr
-
+indeclform
 43044	contr
-
 43048	contr
-
 43053	contr
-43057	
 43066	contr
 43109	contr
 43117	contr
 43124	contr
 43131	contr
-43133	
-
-43136	
 43145	contr
-43162	
 43164	contr
 contr
-43181	
 43193	contr
-43201	
-43205	
-
-43237	
-43239	
-43242	
-43250	
+43250	indeclform
 43259	contr
-43263	
+43263	contr
 43269	contr
 43284	contr
-43295	
 43297	contr
-43305	
 43307	contr
-43312	
-43319	
 43321	contr
 43336	contr
-43348	
-43350	
-43381	
 43383	contr
-43429	
-43452	
 43454	contr
-43486	
-
-43493	
 43504	contr
-43516	
-43518	
 43550	nu_movable
-43582	
+43582	indeclform
 43585	contr
-43587	
-43594	
-43596	
+43596	indeclform
 43599	contr
-43605	
-
 43610	contr
-43626	
-43632	
-43639	
-43641	
-43660	
 43668	contr/nu_movable
 43670	contr
-43682	
-43685	
 43687	contr/nu_movable
-43697	
-contr
+43698	contr
 43715	contr
 43723	contr
 43783	contr
-43799	
 43813	contr
 43818	contr
 43833	contr
-43844	
-43857	
 43859	contr
-43861	
-43868	
 43870	contr
-43918	
 43921	contr
-43933	
-43962	
-43966	
-43984	
+43966	indeclform
 43986	contr
-43992	
-44000	
 44002	contr
-44017	
-44019	
-
-44028	
-44040	
-44058	
 44060	contr
-44085	
-44094	
 44096	contr/poetic
 44119	contr
-44127	
-44138	
-44150	
-44154	
-44176	
-44192	
+44127	indeclform
 44226	contr
-44237	
-44260	
-44282	
-44292	
+44260	indeclform
+44282	indeclform
 44318	contr
 contr
-44335	
-44339	
-44346	
-
-44401	
-44414	
 44416	contr
 44425	contr
-44429	
 44434	contr
 44439	contr
-44475	
 44500	contr
 contr
 44516	contr
-44518	contr
-contr
+44519	contr
 44528	contr
-44539	contr
 44552	contr
 44573	contr
-
 44579	contr
-
 44598	contr
-44600	
-44609	
-44620	
 44629	contr
 44636	contr
 contr
-44639	
 44653	contr
-44695	
 44723	contr
-44727	contr/r_e_i_alpha
-44729	
 44731	contr
 44737	contr
-44742	
 44753	contr
-44758	
 44769	contr
-44803	
-44807	
-44817	
 44833	contr
 44842	indeclform
-44852	
 44855	contr
-44859	
 44861	contr
 44865	contr
 44894	contr
@@ -3753,40 +2157,30 @@ contr
 44920	contr
 44938	contr
 contr
-44966	
-44990	
+44966	indeclform
 45006	contr
-45030	
-45033	
-contr
+45034	contr
 45044	contr
-45053	
 45062	contr
-
+indeclform
 45074	contr
 45077	contr
 contr
-contr/r_e_i_alpha
 45084	contr
 45092	contr
-45112	
-45115	
-contr
+45116	contr
 45118	contr
 45149	contr
 45197	contr
-
-45230	
+contr
 45328	contr
 45336	contr
 45360	contr
 45381	contr
 45402	contr
-45411	
 45418	contr
 45423	indeclform
 45438	contr
-45500	
 45517	contr
 45536	contr
 45550	contr
@@ -3794,242 +2188,128 @@ contr
 45555	contr
 45561	contr
 45567	contr
-45569	
-
-45572	
-45575	
-45578	
 45584	contr
 contr
 45593	indeclform
 45603	contr
 45611	nu_movable
-45620	
-45631	
-45633	
 45635	contr
 45638	contr
 45641	contr
 contr
-45646	
-contr
-45691	
-45693	
-
-45715	
-45724	
-45728	
-45732	
-45760	
+45647	contr
 45763	contr
 45765	contr
 45772	proclitic/indeclform
 45835	contr
-45839	
-45853	
-45855	
 45870	contr
-45872	
 45912	contr
 45941	contr
-45951	
 45963	contr
 45974	contr
-45980	
 46063	contr
 46078	contr
 46100	contr
 46160	contr
-46168	
 46170	contr
-46172	
-46181	
 46193	contr
 46206	contr
 46208	contr
 46215	contr
-46256	
-46274	
+46256	indeclform
 46305	contr/nu_movable
-46362	
-46390	
-46396	
 46411	contr
-46416	
-46431	
-46434	
-46442	
-46455	
 46465	contr
-46477	
-46484	
-46486	
-46491	
 46493	contr
-46505	
-46510	
-46519	
-46522	
 46524	contr
-46610	
-46627	
 46664	contr
 46672	contr
 46684	contr
-46696	
-46705	
-46707	
-46709	
-46716	
 46728	contr
 contr
-46744	
+46744	indeclform
 46747	contr
 46750	contr
 46758	contr
-46765	
-46778	
-46782	
-46785	
-46788	
+46765	indeclform
 46813	contr
-46819	
-46833	
 46840	contr
 46847	contr
 46855	contr
-46868	
-46880	
 46886	contr
 46905	contr
 46927	contr
 46936	contr
 46942	contr
-47035	
-47051	
 47071	contr
 47081	contr
-47118	
-47155	
+47155	indeclform
 47161	contr
-47198	
+47198	indeclform
 47209	contr
 47231	contr
 47233	contr
-47242	
-47264	
-47268	
-47274	
-47303	
 47308	contr
-47310	
 47314	contr
 47319	contr
-47331	
 47335	contr
 47345	contr
-47352	
-47372	
-47399	
-47435	
-47442	
 47445	contr
-47458	
-47462	
-47498	
+47498	indeclform
 47501	contr
 contr
-47506	
 47560	contr
-47576	
-47606	
-47610	
-47615	
 47617	contr
-47631	
-contr
-47652	
-
+47632	contr
+47652	indeclform
 47659	contr
-47695	
-contr
-
-47713	
-47727	
+47696	contr
 47770	contr
-47804	
-47870	
 47915	contr
-47918	
-47939	
+47939	indeclform
 47970	contr
-47977	
-47987	
+47987	contr
 contr
-48007	
-contr
-48014	
-48018	
-48023	
-48035	
+48008	contr
+48023	indeclform
 48039	contr
 48058	contr
-48075	
-48082	
-48098	
-48130	
+48082	indeclform
+48130	indeclform
 48136	contr
-48146	
 48148	contr
-48171	
-48177	
-48212	
+48171	indeclform
+48177	indeclform
 48228	proclitic/indeclform
-48231	
-48242	
 48246	contr
 48272	contr
 48285	contr
 48289	contr
 48306	contr
 48316	contr
-48344	
-48354	
-48361	
 48384	contr
 48450	indeclform
 48452	contr
-48488	
-48507	
 48509	contr
 48526	contr
 48541	contr
 48550	contr
 48555	contr
 48558	indeclform
-48575	
 48578	contr
 48581	nu_movable
 48586	indeclform
-48594	
-48600	
 48615	contr
 48623	contr
-48626	
 48634	contr
 48644	contr/poetic
 48724	contr
-48727	
-48750	
+48727	indeclform
 48769	contr
-48780	
 48782	contr
-48793	
-48812	
 48818	contr
 48838	contr
 48842	contr
-48881	
 48890	contr
 48901	contr
 48921	contr
@@ -4037,27 +2317,17 @@ contr
 48940	contr
 48948	contr
 48978	contr
-
-48988	
 48992	contr
-49025	
-49032	
-49035	
-49041	
-49044	
-49047	
-49051	
-49056	
-49072	
-49076	
-49090	
-49097	
-contr
-49107	
-49117	
-49123	
-49127	
-49143	
+49035	indeclform
+49041	indeclform
+49047	indeclform
+49051	indeclform
+49072	indeclform
+49076	indeclform
+49098	contr
+49117	indeclform
+49127	indeclform
+49143	indeclform
 49162	contr
 49172	contr
 49174	contr
@@ -4065,123 +2335,64 @@ contr
 49196	contr
 49210	contr
 49212	contr
-49215	
 49222	contr
-49229	
-49231	
-49242	
-49258	
-49266	
-49270	
-49284	
-49331	
+49229	indeclform
+49242	indeclform
 49366	contr
 49434	contr
-49438	
-49443	
-49451	
-
+49438	indeclform
 49456	contr
-49468	
-49480	
-
-49490	
+49480	indeclform
 49509	contr
-49514	
-49546	
 49556	contr
-49558	
-49574	
-
 49579	contr
 49584	contr
-49599	
-49614	
 49624	contr
-49633	
-49636	
+49633	indeclform
+49636	indeclform
 49641	contr
-49648	
-49655	
-49659	
-49662	
 49683	contr
-49694	
-49704	
-49710	
+49710	indeclform
 49721	contr
-49727	
 49737	contr
-49756	
-49771	
-49774	
-49782	
 49813	contr
-49825	
 49830	contr
-49838	
-49842	
 49852	contr
 49865	contr
 49869	contr
-49873	
+49873	indeclform
 49886	contr
 49893	contr
-
-49905	
-49919	
-49928	
-49944	contr
-
-49949	
-49960	
-contr
-49963	
-50002	
-50006	
+49961	contr
 50015	contr
-50021	
 50027	contr
 50031	contr
 50037	contr
 50044	contr
 50061	contr
-50071	
+50071	indeclform
 50089	contr
 50107	contr
 50113	contr
-50130	
 50144	contr
 50153	contr
 50217	contr
 50220	contr
-50228	
-50238	
+50238	indeclform
 50258	proclitic/indeclform
 contr
-50267	
-50279	
-50287	
-50291	
+50287	indeclform
+50291	indeclform
 50315	contr
 50325	proclitic/indeclform
 50328	contr
-50342	
 50344	contr
-50353	
 50355	contr
-
-50383	
 50385	contr
-50398	
 50400	contr
-50419	
 50421	contr
 50442	contr
-50477	
-50496	
 50502	contr
-
 50519	contr
 contr
 50536	contr
@@ -4189,27 +2400,20 @@ contr
 50586	contr
 50617	contr
 50633	contr
-50640	
-50643	
+50640	indeclform
 50651	contr
-50668	
 50692	contr
-50705	
+50705	indeclform
 50711	contr
-50718	
-50726	
-50753	
-50755	
+50718	indeclform
+50726	indeclform
+50753	indeclform
+50755	indeclform
 contr
 50779	contr
 50786	contr
-50790	
-50792	
-50822	
 50835	contr
-50843	contr
 50863	contr
-50865	contr
 50873	contr
 50899	contr
 50910	contr
@@ -4217,42 +2421,24 @@ contr
 50940	contr
 contr
 50969	contr
-50980	
-50984	
-50995	
-51005	
+51005	indeclform
 51022	contr
-51024	
-51034	
+51024	indeclform
 51043	contr
-51052	
 51072	contr
 51085	contr
 51104	contr
-
 51122	contr
-51140	
 51143	contr
 51156	contr
-51161	
-51166	
-51176	
 51180	contr
-51195	
-51213	
 51218	contr
 contr
 51230	contr
-
-51235	
 51238	contr
 51251	contr
-51254	
-51256	
 51271	contr
-51276	
 51285	contr
-
 51300	contr
 51309	contr
 51314	contr
@@ -4260,84 +2446,45 @@ contr
 51333	contr
 contr/nu_movable
 51360	contr
-51362	
 51366	contr
-51379	
-51386	
 51393	contr
-51424	
 51434	proclitic/indeclform
 51455	contr
-51471	
 51474	contr
-51482	
 51490	contr
-51503	
-51513	
-51520	
-51534	
 51541	contr
-
 51558	contr
 51571	contr
-51591	
 51601	proclitic/indeclform
-51624	
-51631	
-51634	
-51637	
 51672	contr
 51674	contr
 51706	contr
-51715	
-51725	
+51715	indeclform
 51741	contr
 51756	contr
 51761	contr
-51765	
-51777	
 51784	contr
 contr
 51803	contr
 51811	contr
 51849	contr
 contr
-51876	
+51876	indeclform
 51907	contr
 contr
-51942	
+51942	indeclform
 51967	contr
-
 51976	contr
-52000	
-52005	
 52008	contr
 52010	contr
-52024	
-52031	
-52043	
-52057	
+52024	indeclform
 52060	contr
 52062	contr
-52072	
 52074	contr
-52103	
-52129	
 52138	contr
-52148	
-52151	
-52153	
 52168	contr
-52171	
-52174	
-52177	
-52189	
 52206	proclitic/indeclform
-52210	
-52215	
-52220	
 52227	proclitic/indeclform
-52233	
 52247	contr
 52254	contr
 52259	contr/short_subj
@@ -4345,72 +2492,48 @@ contr
 52270	contr
 52274	contr
 52279	contr
-52283	
-52291	
 52304	contr
 52312	contr
 52316	contr
-52322	
 52332	contr
 52339	contr
 52348	contr
 52362	contr
-52413	
-52419	
 52428	contr
 52434	contr
-52436	
 52452	contr
 52459	contr
-52473	
 52478	contr
-52480	
-52485	
+52485	indeclform
 52513	proclitic/indeclform
 52524	proclitic/indeclform
 contr
 contr
-52595	
-contr
-
+52596	contr
 52601	contr
-52606	
 52608	contr
 52625	contr
 52639	contr
-
 52645	contr
-52647	
 52650	contr
-52657	
 52700	contr
 52716	proclitic/indeclform
 contr
-52734	
+52734	indeclform
 52743	contr
-52757	
-52792	
 52803	contr
 52808	contr
 52815	contr
-52828	
-52835	
-52854	
-52864	
+52828	indeclform
 52875	contr
 52886	contr
 52889	proclitic/indeclform
 52895	contr
-52900	
-52933	
 52937	contr
 52947	contr
-52953	
 52966	contr
-52994	
-53019	
 53024	contr
-53032	
+53032	indeclform
 53049	contr
 contr
 53052	contr
@@ -4418,23 +2541,15 @@ contr
 53069	contr
 53082	contr
 53099	contr
-53102	
-53116	
 53129	contr
 53138	contr
-53160	
 53171	contr
 53182	contr
-53189	
 53219	contr
-53230	
 53240	contr
 53251	contr
 53258	contr
 53264	contr
-53270	
-53305	
-53308	
 53339	contr
 53342	contr
 53347	contr
@@ -4443,18 +2558,11 @@ contr
 53404	contr
 53419	contr
 53422	contr
-53424	
-53442	
 53446	contr
 53462	contr
-53471	
 53476	contr
 53487	contr
-53490	
-
-53509	
 53511	contr
-53518	
 53522	contr
 53549	contr
 53564	contr
@@ -4462,156 +2570,94 @@ contr
 contr
 contr
 53576	contr
-
 53610	contr
-53619	
 53621	contr
 53625	contr
 53644	contr
 53646	contr
 53650	contr
-53653	
 53657	contr
 53677	contr
 53679	contr
 53685	contr
-
 53693	contr
-53695	
-
-
-53705	
 53714	contr
 contr
-53728	
 53767	contr
 53774	contr
-53783	
+53783	indeclform
 53790	contr
 53798	proclitic/indeclform
 53811	indeclform
 53821	indeclform
-53834	contr/r_e_i_alpha
 53844	contr
 53880	contr
 53901	contr
-53955	
-53964	
+53955	indeclform
 53981	contr
 contr
-53986	
+53986	indeclform
 proclitic/indeclform
-54016	
 54043	contr
-54046	
-54053	
-54056	
-54095	
+54095	contr
 contr
-54109	
-54117	
-54124	
+54117	indeclform
 54128	contr
-54130	
 54132	contr
-
-54142	
 54182	contr
 54186	contr
 54200	contr
-54210	
 54212	contr
-54214	
 54220	contr
-54253	
-54270	
 54317	contr
-54322	
 54324	indeclform
 54341	nu_movable
 54353	contr
-54367	
 54399	contr
-54411	
-54434	
-54442	
 54477	contr
-54495	
 54513	contr
 54545	contr
-54555	
 54557	contr
-54572	
-contr
-54596	
+54573	contr
+54596	indeclform
 54608	contr
-54610	
 54616	contr
-
-54624	
-54635	
-54648	
+54648	indeclform
 54661	indeclform
-54666	
-54685	
-54688	contr/r_e_i_alpha
 54726	contr
-54737	
 54754	contr/short_subj
 54757	contr
-54759	
-
 54802	contr
 contr
 54839	nu_movable
-54864	
 54874	contr
-54888	
 54902	contr
-54923	
 54925	contr
 54956	contr
-54965	
-54973	
-54996	
 55001	contr
-55006	
 55017	contr
-55028	
 55037	contr
 55042	contr
 55051	contr
 55055	contr
-55059	
 55062	contr
-
 55104	contr
-55111	
 55118	contr
 55150	nu_movable
 55163	contr
 55175	contr
-55180	
-55184	
-55188	
 55191	contr
 55202	contr
 55207	contr
-55222	
 55231	contr
-55243	
-55273	
-proclitic/indeclform
+55274	proclitic/indeclform
 55308	contr
 55310	contr
 55332	contr
 55334	contr
 55352	contr
 55361	contr
-55371	
 55387	contr
-55395	
-55400	
 55411	contr
 55420	contr
 55424	contr
@@ -4619,255 +2665,147 @@ proclitic/indeclform
 55433	contr
 55438	contr
 55451	proclitic/indeclform
-55454	
 55461	proclitic/indeclform
-55463	
-55476	
-55503	
 55505	contr
-55528	
-55538	
+55538	indeclform
 55546	contr
-55559	
-55562	
 55580	contr
 55584	contr
-55592	
-55608	
+55592	indeclform
 55613	contr
-55627	
-55634	
-55640	
-
 55651	contr
 55655	contr
-55657	
 55665	contr
-55676	
-55683	
-55688	
 55691	contr
 contr
 55705	contr
-55714	
 55716	contr
-55736	
 55742	contr
 55746	contr
 55755	contr
 55771	contr
 55778	contr
-55796	
 55807	contr
-55810	
 55813	contr
 55819	contr
 contr
-55833	
-55860	
-55867	
 55881	contr
 55883	contr
 55893	contr
 55922	contr
 55926	contr
-55933	
-55954	
-55973	
-56000	
-
+55954	contr
+56000	indeclform
 56009	contr
-
 56014	contr
-
 56017	contr
-56026	
 56032	contr
-56058	
-56070	
 56072	contr
-56081	
-56120	
+56081	indeclform
 56125	indeclform
-56129	
-contr
+56130	contr
 56138	contr
-
-56149	
+56149	indeclform
 56152	nu_movable
 56164	contr
-56181	
-56185	
-56204	
+56181	indeclform
 56248	contr
-56252	
 56268	contr
-56275	
 56283	contr
 56291	contr
-56293	
+56293	indeclform
 56299	contr
 56317	contr
 56319	contr
 56333	contr
-56338	
 56353	contr
 56369	contr
 56414	contr
-56422	
-56438	
-56440	
-contr
-56501	
-56503	
+56438	indeclform
+56441	contr
+56503	indeclform
 56534	contr
 56551	contr
 56558	contr
-56566	
 56572	contr
-56575	
-56580	
 56588	contr
-56599	
 56625	contr
 56649	contr/nu_movable
 contr
 56658	contr
 56663	contr
-56673	
+56673	indeclform
 proclitic/indeclform
-56684	
-56701	
 56714	contr
 56724	contr
-56734	
 56796	contr
-56821	
 56834	contr
 56837	proclitic/indeclform
 56845	contr
-56859	
 56864	contr
 56886	contr
-56888	
 56891	contr
-56900	
-56910	
-56914	
-56919	
-contr
+56920	contr
 56926	contr
-
-56935	
 56937	contr
-56939	
 56947	contr
-
-56967	
-56969	
-56980	
-56987	
+indeclform
 56994	proclitic/indeclform
 56996	contr
 57004	contr
 57007	contr
-57018	
-57027	
-57033	
 57041	contr
-57047	
 57090	contr
-57094	
-57098	
-
 57114	contr
-57124	
 57150	contr
-57157	
-57168	
-57172	
 57175	contr
 57179	contr
 57190	contr
-57199	
-57207	
-57215	
 57225	contr
-57232	
-57235	
-57246	
-57261	
-57268	
+57232	indeclform
+57261	indeclform
+57268	indeclform
 57271	contr
-57284	
-57290	
-57311	
-57316	
-
+57284	indeclform
 57334	contr
 57340	contr
-57360	
-57366	
-57373	
+57366	indeclform
 57376	contr
 57381	nu_movable
 57384	contr
 57389	late
-57394	
 57404	contr
 57406	contr
 57419	contr
 57422	contr
-57439	
 57446	contr
-57449	
 57454	contr
 57466	contr
 57476	contr
-
 57497	contr
 contr
 57509	contr
-57529	
+57529	indeclform
 57590	contr
-57596	
-57601	
 57608	contr
-
 57613	contr
-57618	
 57621	contr
 57644	contr
-57657	
-57659	
+57659	indeclform
 57671	contr
-57714	
+57714	indeclform
 57749	contr
-57762	
-57766	
-57771	
+57762	indeclform
 57806	nu_movable
-57815	
-57819	
 57823	indeclform
-57853	
-57861	
-57864	
-57867	
-57880	
-57885	
+57853	indeclform
 57888	contr
 57892	contr
 57894	contr
-
 57905	contr
 57921	contr
-
-57927	
-57959	
 57986	indeclform
 57997	proclitic/indeclform
-58009	
 58019	contr
 58032	contr/nu_movable
 58074	contr
@@ -4877,768 +2815,417 @@ contr
 58136	contr
 58139	contr
 58144	contr
-58149	
-58175	
-58183	
+58149	indeclform
 58201	contr
 58215	contr
-58222	
+58222	indeclform
 58227	contr
-58242	
+58242	indeclform
 58253	contr
 58278	contr
-
-58292	contr/r_e_i_alpha
-58296	
-58317	
-58366	
+58317	indeclform
 58379	contr
-58402	
-58419	
 58425	nu_movable
 58435	contr
 58459	contr
 58470	contr
-58472	
-58481	
+58481	indeclform
 58508	contr
-
 58543	indeclform
-58574	
 58582	nu_movable
-58602	
 58604	contr
 58617	contr
 contr
 58625	contr
-58629	
 58644	contr
 58646	contr
 58649	contr
 58663	contr
 58666	contr
 contr
-58678	
 58686	contr
-
 58696	contr
 58704	contr
-58716	
-58718	
 58720	contr
-
 58736	contr
-58753	
-contr
+58754	contr
 58784	contr
 58793	contr
 58819	contr
-58826	
 58838	contr
 58848	contr
 58888	contr
-58891	
 58908	contr
 58917	contr
 58929	contr
 58945	contr
-
 58958	contr
 58964	contr
 58966	contr
-58969	
 58980	contr
 59011	contr
-59014	
-59019	
-59022	
-59028	
 59045	contr
 59054	contr/short_subj
 59058	contr
-59076	
 59081	contr
 59089	proclitic/indeclform
 59115	contr
 59138	contr
 59143	contr
 59163	contr
-59168	
-contr
-59201	
-59208	
+59169	contr
+59201	indeclform
 59223	contr
-59232	
 59247	contr
 59249	contr
-59256	
 59258	contr
 59266	contr
-59273	
 59279	contr
-59302	
-59322	
-59340	
-59376	
 59383	contr
 59396	contr
-59403	
 59405	contr
-59411	
-59426	
-59440	
-59469	
 59481	contr
-59485	
-
+59486	indeclform
 59505	contr
-59508	
-59510	
-59515	
-59524	
-59563	
 59581	indeclform
-59584	
-59590	
-59613	
-59619	
-59642	
-59648	
-59660	
+59584	contr
+59613	indeclform
 59666	contr
-59673	
 59680	contr
 59688	contr
 59696	contr
 59698	contr
-
-
-59703	
 59705	contr
-59709	
 59713	contr
-59719	
-59722	
-59726	
-59737	
+59737	indeclform
 59743	contr
-59749	
-59755	
 59764	contr
-59768	
 59779	contr
-59785	
 59794	contr
 59817	contr
-59821	
-59828	
-59833	
-59870	
-59879	
-59881	
 59923	proclitic/indeclform
-59925	
-59956	
-59963	
 59971	proclitic/indeclform
 59973	contr
-59975	
-59979	
 60004	contr
 60014	contr
 contr
-60022	
 60028	contr
 60060	contr
-60066	
-60086	
-60106	
 60120	contr
 60124	contr
-60131	
-
-60135	
-60138	
 60162	contr
 60164	contr
-60169	
 60174	short_subj
 60187	contr
 60202	contr
-60221	
-60230	
 60233	contr
 60236	proclitic/indeclform
-
 60260	contr
-60266	
 60268	contr
 60314	contr
 60322	contr
 60332	contr
 60334	contr
 60363	contr
-60373	
-60382	
 60394	contr
 60403	contr
-60419	
 60433	contr
 60456	contr
 60468	contr
 60487	contr
-60493	
 60499	contr
 60502	contr
 60510	contr
 60525	contr
 60549	contr
-60556	
 60558	contr
 60564	contr
 60567	contr
 60570	contr
 60573	contr
-60580	
 60599	proclitic/indeclform
-60601	
-60620	
 60646	contr
 60652	contr
-60656	
-60668	
-60684	
 60686	contr
 60692	contr
-60695	
 60702	contr
 60719	contr
-60725	
 60746	contr/nu_movable
 60760	contr
 60768	proclitic/indeclform
-60810	
-60818	
-60823	
-60829	
 60853	contr
 60868	contr
-60882	
-60890	
 60897	contr
-60909	
 60920	contr
-60925	
 60932	contr
 60943	contr
-60953	
 60979	contr
-61012	
-61020	
-61026	
-61034	
 61045	contr
-61050	
-61052	
-61084	
 61099	contr
-61103	
-61109	
 61121	contr
-61131	
-61145	
 61170	contr
-61185	
 61209	contr
-61229	
-61242	
 61273	contr
 61278	contr
-61291	
-61304	
-61314	
 61316	contr
 61336	nu_movable
 61338	contr
-61340	
 61346	contr
 61367	contr
-61405	
 61411	contr
 61421	contr
 61434	contr
-61440	
 61445	contr
-61469	
-61495	
-61498	
-61506	
 61509	contr
 61522	contr
 61528	contr
-61537	
-
+61538	indeclform
 61543	proclitic/indeclform
-61555	
-
+61556	indeclform
 61567	contr
 61572	contr
 contr
-61607	
 61618	contr
 61637	contr
-61656	
 61683	contr
 61703	contr
-61746	
 61769	contr
 61771	contr
-61776	
 61778	contr
-61791	
-61808	
 61810	contr
 61864	contr
 61874	contr
 61900	contr
-61905	
-61912	
 61923	contr
 61927	contr
-61929	
+61929	indeclform
 61937	contr
 61962	contr
 61975	contr
-61990	
 61992	indeclform
-61999	
-62023	
-
+62024	contr
 62029	indeclform
-62039	
 62066	contr
 62074	nu_movable
-62077	
-62086	
-62113	
+62086	indeclform
 62117	contr
-62136	
-
-62143	
-62148	
+62137	indeclform
+62143	indeclform
+62148	indeclform
 62167	contr
-62176	
-62188	
-62206	
-62215	
-62233	
+62176	indeclform
 62240	contr
-62248	
-62251	
+62248	indeclform
+62251	indeclform
 62315	proclitic/indeclform
-
 62332	contr
-62361	
+62361	indeclform
 62363	contr
-62368	
-62385	
-62389	
-62391	
-62426	
+62426	indeclform
 62439	contr
 62452	indeclform
-62464	
-62467	
-62488	
+62464	indeclform
 62539	contr
-
-62547	
-62566	
-62580	
-62582	
-62599	
-62647	
-62663	
+62580	indeclform
 62696	contr
-62699	
+62699	indeclform
 62726	contr
-62734	
-62751	
-62753	
-contr
-62759	
+62754	contr
 62777	contr
-62780	
-62782	
-62798	
 62825	contr
 62829	contr
-62849	
-62862	
 62873	contr
 62878	contr
 62886	contr
-62892	
-62896	
+62892	indeclform
 62904	contr
 62917	contr
-62929	
-
-62936	
 62938	contr
-62950	
-62955	
-62961	
-62965	
-62968	
-62975	
-
-62979	
+62955	indeclform
+62961	indeclform
 62995	contr
-63015	
-63048	
-63068	
-63078	
-63083	
-63132	
+63048	indeclform
+63068	indeclform
+63078	indeclform
+63132	indeclform
 63150	contr
-63158	
-63180	
-63213	
 63220	contr
-63222	
-63225	
 63228	contr
-63253	
-
-63290	
-63292	
-63304	
-63335	
-63384	
-63394	
-63403	
-
-63424	
+63290	contr
+63292	indeclform
+63304	indeclform
+63335	indeclform
 63430	contr
-63456	
-63461	
-63484	
-63497	
-63502	
-63506	
-63513	
-63560	
-63562	
-63564	
-63591	
+63484	indeclform
+63502	indeclform
+63513	indeclform
 63599	contr
-63609	
 63618	contr
-63631	
-63636	
+63636	indeclform
 63646	contr
-63673	
 63675	contr
 63678	contr
 63686	contr
 63707	contr
 63725	nu_movable
-63731	
-63734	
-63736	
 63740	contr
-63761	
-63775	
-63782	
-63787	
-63789	
-
-63796	
-63803	
-63822	
-63833	
-63836	
-63848	
 63864	contr
 63869	contr
-
-63884	
 63902	contr
-63905	
-63919	
-63927	
-63953	
-63959	
+63953	indeclform
 63963	contr
 contr
-63967	
 63972	contr
-63984	
-63994	
 64013	contr
 64023	contr
-64035	
 64037	contr
 64041	contr
 64052	contr
 64063	contr
-64077	
 64091	contr
 64095	contr
-64100	
 64103	proclitic/indeclform
 64124	contr
-64129	
-64151	
-contr
+64152	contr
 64163	contr
 64171	contr
-64177	
 64179	contr
 64181	contr
 64183	nu_movable
-64201	
 64216	contr
-64220	
-64224	
 64239	contr
-64253	
 64258	contr
-
 64273	contr
-64276	
-64284	
+64284	indeclform
 64295	contr
 contr
 64307	contr
 64316	contr
-64331	
-64340	
 64343	contr
 64353	contr
 64357	contr
-64365	
-64375	
-64397	
 64407	contr
-64411	
 64417	contr
-64421	
-64423	
-64425	
+64425	indeclform
 64430	contr
-64432	
-64438	
 64442	contr
-64446	
-64448	
+64448	indeclform
 64453	contr
-64455	
-64461	
 64465	contr
 64489	contr
-64491	
-64500	
 64517	contr
-64520	
 64523	contr
-64533	
-64535	
-64539	
 64543	contr
-64556	
-64577	
-64584	
 64588	contr
-64592	
 64624	contr
-64628	
 64656	contr
 64658	proclitic/indeclform
 64663	contr
-64669	
-64678	
-64699	
 64718	contr
-64727	
 64729	contr
 64738	contr
-64778	
 64798	contr
 contr
-64817	
-64823	
-64911	
 64934	contr
-64972	
-64984	
-64987	
-64994	
-65007	
+64972	indeclform
+65007	indeclform
 65077	contr
 65081	contr
 65086	contr
-65104	
-65164	
-65170	
-65191	
 65200	contr
-65218	
-65319	
-
 65353	contr
-65370	
-65401	
 65415	contr
 65418	contr
-65423	
-65433	
-65436	
 65443	contr
 65445	nu_movable/short_subj
 65447	contr
-65473	
-65479	
 65485	nu_movable/short_subj
 65492	contr
 65498	contr
 65518	contr
-65522	
 65527	contr
 65531	contr
 65542	contr
 65546	contr
-65571	
 65573	contr
-65575	
 65577	contr
 65588	contr
-65591	
-
-65599	
-65604	
-
-65607	
-65611	
-65617	
+65591	indeclform
 65622	contr
-65626	
-65634	
 65649	contr
 65661	contr
 contr
 65703	contr
 65742	contr
 65745	contr
-65755	
-65773	
-65783	
-65785	
 65787	contr
 65790	contr
 65793	contr
 contr
-65803	
 65820	contr
-
-65925	
 65927	contr
-65933	
-contr
-65941	
+65934	contr
 65954	contr
 65985	contr
-65987	
-65993	
 66043	contr
 66045	contr
-66052	
 66087	contr
 66114	contr
-66116	
-66119	
 66127	short_subj
-66150	
-66161	
-66167	
+66167	indeclform
 66178	contr
 66208	contr
 66274	contr
 66289	contr
 66327	contr
 66340	proclitic/indeclform
-66342	
 66346	contr/poetic
 66366	contr
 66369	contr
 66371	contr
 66380	contr
 66385	contr
-66392	
 66395	contr
 66399	contr/poetic
 66430	contr
-66432	
 66444	contr
 66460	contr
 66462	contr/poetic
 66481	contr
-66483	indeclform
 66485	contr
-66489	
 66522	contr
 66526	contr
-
 66542	contr
-66555	
+66555	indeclform
 66570	contr
-66615	
 66674	contr
 66678	nu_movable
-
 66719	contr
 66726	contr
 66733	contr
-66796	
-66831	
-66837	
 66839	contr
 66845	contr
 66851	proclitic/indeclform
-66859	
-66868	
-66875	
 66879	contr
-66881	
-66915	
-66919	
-66943	
+66881	indeclform
 66949	contr
 66973	contr
 66985	contr
 66991	contr
 67009	contr
-67013	
 67028	contr
 67035	contr
-67049	
 67055	contr
 67078	contr
-67086	
+67086	indeclform
 contr
-67099	
-67102	
+67102	indeclform
 67105	contr
 67115	contr
-67122	
-67130	
-67148	
+67122	indeclform
+67130	indeclform
 67195	contr
 67208	contr
-67217	
-67227	
-
 67234	contr
 contr
 67246	contr
@@ -5648,169 +3235,109 @@ contr
 67273	contr
 67279	contr
 67306	contr
-67322	
-67332	
-67343	
+67332	indeclform
 67346	contr
 67353	contr
 contr
-67361	
-67374	
 67382	contr
 67391	contr
-67398	contr/r_e_i_alpha
 67401	contr
 67439	contr
 67442	contr
 67459	contr
 67462	contr
-
 67480	contr
 67500	contr
-67512	
 67516	contr
-
 67568	poetic
 67570	contr
-67584	
-67599	
 67607	contr
 67623	contr
-67640	
 67668	contr
 67723	contr
 67749	contr
 67753	contr
 67825	contr
 67834	contr
-67877	
 67888	contr
 67903	contr
-67907	
 67938	contr
-67957	
 67983	contr
-67987	
 68006	contr
 68033	contr
 68035	contr
-68041	
 68048	contr
-68070	
 68083	contr
-68098	
 68108	contr
-68112	
 68118	indeclform
-68135	
-68141	
-68164	
-68194	
 68213	contr
 68218	short_subj
 68221	proclitic/indeclform
 68249	contr
-68273	
 68285	contr
 68288	contr
 contr
-68324	
 68377	contr
-68379	
-68399	
-68431	
-68450	
-68484	
-68495	
+68431	indeclform
 68524	contr
 68553	contr
-68555	
 68557	contr
-68617	
-68623	
-68647	
+68617	indeclform
 68649	contr
-
+indeclform
 68667	contr
 68683	contr/nu_movable
 68685	contr
-68697	
-68731	
 68773	contr
 68782	contr
 68787	contr
-68798	
 68801	contr
 68807	contr
-68821	
 68831	contr
 contr
 68845	contr/nu_movable
-68909	
 68943	contr
 68955	contr
 contr
-68963	
 68975	contr
 69017	contr
 69026	contr
-69037	
 69039	contr
 69045	contr/poetic
 69047	contr
 69049	contr
-69062	
 69069	contr
-69078	
-69083	
-69086	
-69096	
+69086	indeclform
 69125	contr
-69129	
 69131	contr
-69136	
 69138	contr
 69157	contr
-69161	
 69171	contr
-69173	
-69177	
 69214	contr/poetic
 69228	contr
 69242	contr
 69269	contr
 contr
-69275	
 69277	contr
-69280	
-69291	
 69294	contr
-69321	
 69331	contr
-69333	
-69344	
-69360	
+69360	indeclform
 69375	contr
 69408	contr
 69459	proclitic/indeclform
 contr
-69467	
 69483	contr
 69489	contr
 69493	contr
-69511	
 69519	contr
-69526	
-69542	
 69544	contr
 69557	contr
-69563	
+69563	indeclform
 contr
 69588	contr
-69606	
+69606	indeclform
 69619	contr
 69634	contr
-69636	
 69640	contr
 69651	contr
 69653	contr
@@ -5818,54 +3345,37 @@ contr
 contr
 69671	contr
 69681	contr
-69683	
 69698	contr
 contr
 69705	contr
-
 69711	contr
 69716	contr
-69718	
 69725	contr
 69733	contr
 69739	contr
-69747	
 69764	contr
-
 69776	contr
 69785	contr
-69811	
-69822	
-69860	
+69811	indeclform
+69822	indeclform
 69863	proclitic/indeclform
 69872	contr
-69875	
 69881	contr
-69892	
-69902	
-69915	
-69924	
+69892	indeclform
 69941	contr
-69946	
-69985	
 70018	contr
 70044	contr
-70046	
 70057	contr
 70059	contr
 70064	contr
 70078	contr
 70082	contr
 70108	contr
-70116	
 70136	contr
 70149	contr
-70186	
-70195	
-
+70186	indeclform
+70196	indeclform
 70203	contr
-70212	
-70216	
 70245	contr
 contr
 70257	contr
@@ -5873,104 +3383,62 @@ contr
 70270	contr
 70276	contr
 contr
-
-70281	
 70287	contr
-70297	
-70306	
 70311	contr
 70319	contr
 70328	contr
 70335	contr
-70364	
 70403	contr
-70410	
 70480	contr/nu_movable
 70484	contr
-70487	
-70521	
-70529	
-70544	
+70544	indeclform
 70557	contr
 70603	contr
-70615	
 70633	contr
-70639	
-70647	
-70672	
-70677	
+70639	indeclform
+70677	indeclform
 70684	contr
-70686	
+70686	indeclform
 70689	contr
 70693	contr
 70715	contr
-70731	
-70743	
-70747	indeclform
-70749	
 70757	contr
 70762	contr
-70805	
-70821	
-70829	
-70850	
-70856	
 70864	contr
-
-70870	
+70870	contr
 70879	contr
 70903	contr
 70907	contr
 70913	contr
 70921	contr
-70929	
-70936	
-70944	
 70954	contr
-70967	
 70972	contr
-71019	
 71027	contr
-71035	
 71055	contr
 71058	proclitic/indeclform
-71064	
 71113	contr
 71121	contr
-71129	
 71134	contr
 71147	contr
-71154	
-71161	
-71175	
 71195	contr
-71197	
-
+71198	indeclform
 71202	nu_movable
-71205	
 71211	indeclform
-71221	
-71229	
+71229	indeclform
 contr
 71247	contr
-71281	
 71291	contr
 71310	contr
-71335	
 71344	contr
 71350	contr
-71352	
 71354	contr
-71371	
 71375	contr
-71387	
 71389	contr
 71391	contr
 71398	contr
-71436	
 71479	contr
 71485	contr
-71489	
+71489	indeclform
 71518	contr
 71523	contr
 71529	contr
@@ -5979,135 +3447,80 @@ contr
 71563	contr
 71567	contr
 71571	contr
-71576	
 71588	contr
-71592	
-71607	
-contr
-71632	
-71636	
+71608	contr
 71690	contr
-71702	
 71723	contr
-71729	
 71742	contr
 71754	contr
 71767	contr
-71776	
-71779	
 71796	contr
 71800	contr
 proclitic/indeclform
-71807	
 71880	contr
 71883	contr
-71886	
 71898	contr
-71905	
 71923	contr
-71951	
-71960	
-71964	
-71968	
-71970	
 71977	contr
-71993	
 72009	indeclform
-72027	
-72030	
+72030	indeclform
 72032	contr
-72043	
-72062	
 72072	contr
-72085	
-72104	
+72085	indeclform
 72120	contr
-72124	
-72127	
-72129	
 72141	contr
-72152	
 72177	contr
-72192	
-72239	
-72267	
-72275	
-72288	
+72267	indeclform
+72288	indeclform
 72309	contr
 72322	contr
-72330	
 72336	contr
-72345	
 72348	contr
-72353	
 72358	contr
-72369	
-72373	
 72421	contr
 72460	contr
 72468	contr
 72481	contr
-72511	
 72532	contr
-
-72560	
-72568	
-72592	
-72605	
-72614	
+72560	indeclform
+72592	indeclform
 72619	contr
 72642	contr
 72652	contr
 72658	contr
 72669	contr
 72682	contr
-72691	
 72695	contr
 contr
-72732	
+72732	contr
 72778	contr
-72793	
-72796	
-contr
-72806	
+72797	contr
+72806	indeclform
 72820	contr
 72824	contr
 contr
 72864	contr
 72874	contr
 72881	contr
-72885	
 72892	contr
-72895	
 72902	contr
 72917	contr
 72968	contr/poetic
-72987	
-73002	
-73062	
 73077	contr
-73096	
 73101	contr
 73104	contr
-73107	
 73128	contr
 73130	contr
 73147	contr
 73164	contr
 73168	contr
-73177	
 73200	contr/poetic
 73211	contr
 73238	contr
 73245	nu_movable
 73301	contr
-73313	
-73316	
-73321	
 73326	contr
-73334	
 73337	contr
-73364	
 73397	contr
 73415	contr
 73417	contr
@@ -6115,37 +3528,26 @@ contr
 73468	contr
 73472	contr
 73480	contr
-73482	
-73497	
-
-
+73497	indeclform
 73504	contr
 73506	contr
-73537	
 73551	contr
 73565	contr
 73605	contr
 73613	contr
-73658	
-73680	
 73682	contr
 73723	contr
 73732	contr
 73763	contr
 73774	contr
-73804	
-73811	
+73811	indeclform
 73815	contr
 73865	contr
 73871	contr
-73874	
 73902	contr
 73917	contr
 contr
-73969	
-74005	
 74008	contr
-74013	
 74015	contr
 74020	contr
 74059	contr
@@ -6159,368 +3561,211 @@ contr
 74197	indeclform
 74207	contr
 74226	contr
-74240	
 74243	contr
-74250	
 74254	contr
-74296	
 74313	contr
-
 74318	contr
-74362	
-74364	
 74379	contr
 74381	contr/poetic
-74388	
-74390	
-74396	
-74398	
-74410	
-74423	
-74425	
 74427	contr
-74432	
-74442	
-contr
+74443	contr
 74470	contr
 74486	contr
 74488	contr
-74513	
-74527	
 74538	indeclform
 74576	contr
-74587	
-contr
-74601	
+74588	contr
 74650	contr
-74652	
-contr
-74679	
+74653	contr
 74690	contr
-74700	
+74700	contr
 74713	contr
 74730	contr
 74771	contr
-74778	
-74796	
-74827	
+74796	indeclform
 74849	contr
 74868	contr
-74881	
 74884	contr
-74895	
 74900	contr
-74904	
 74916	contr
-74922	
-74930	
+74930	indeclform
 74937	contr
 74971	contr
 74989	contr
-75002	
-75018	
-75024	
 75031	contr
-75045	
-75074	
 75081	contr
-75091	
 75094	contr
 contr
 75097	contr
 75108	contr
-75112	
 75137	contr
 75155	contr
 75167	contr
 75177	proclitic/indeclform
 75241	contr
-75243	
-75265	indeclform
-75314	
 75324	contr
 75327	contr
-75337	
 75345	contr
 75352	contr
 75453	contr
 75492	poetic
-75511	
-75539	
+75511	indeclform
 75544	contr
 75558	indeclform
 75575	contr
-75578	
 75629	nu_movable
 75632	contr
-75658	
-
-75671	
 75673	contr
 75723	contr
 75727	contr
 75729	contr
 75750	contr
 75752	contr
-75767	
-75786	
-75799	
 75837	contr
 75844	indeclform
 75848	contr
 75855	indeclform
-
 75866	contr
 contr
-
-75883	
-75895	
+75895	indeclform
 75919	contr
-75937	
-75955	
-75962	
 75983	contr
 75992	contr
 75995	contr
-75998	
 76019	contr
-76033	
-76035	
 76060	indeclform
 76075	contr
-76090	
-76092	
 76126	contr
 76131	contr
 76135	contr
 76143	contr
 76153	contr
 76155	indeclform
-76202	
-76216	
 76229	contr
 76295	contr
-76306	
-76310	
+76310	indeclform
 76346	contr
-76355	
+76355	indeclform
 76370	contr
-76376	
 76384	contr
-76390	
-76405	
-76408	
-76414	
-76430	
+76430	indeclform
 76448	contr
-76499	
 76539	contr
 76548	contr
 76558	contr
 76562	contr
 76575	contr
-76577	
-76601	
+76601	indeclform
 76606	contr
 76619	contr
 76646	contr
-76653	
-76668	
-76678	
 76690	contr
 76768	contr
-76802	
-76809	
 76811	contr
 76814	indeclform
-76821	
-76848	
-contr
+76849	contr
 76853	contr
 76865	contr
-
 76868	contr
-76893	
 76897	indeclform
-76910	
 76914	contr
-76929	
 76931	contr
 76948	contr
 76951	indeclform
-76961	
+76961	indeclform
 76966	contr
-76994	
 77004	contr
-77015	
 77017	contr
-77027	
-77035	
 77043	contr
-77063	
 77074	contr
 77086	contr
-77096	
 77108	contr
-77114	
 77116	contr
-77125	
-77134	
 77152	contr
-77156	
-77162	
-77170	
-contr
+77171	contr
 77184	contr
-77189	
-77205	
 77215	contr
-
-77221	
-77235	
 77249	contr
 77252	contr
 indeclform
 77260	contr
 77271	contr
-77276	
-
-77328	
-77346	
-77360	
-77379	
-77405	
+77277	indeclform
 77409	contr
 77430	contr
 77437	contr
-77472	
-77484	
-77489	
 77537	contr
 77551	late
-77560	
-77593	
 77597	contr
-
 77602	contr
 77606	contr
-77610	
 77624	contr
-77633	
 77637	contr
-77648	
-77667	
+77648	contr
+77667	indeclform
 77689	contr
-77706	
-77716	
-77720	
-77750	
-77759	
-77808	
-contr
-77814	
-77830	
-77844	
+77809	contr
 77853	contr
-77857	
 77866	contr
-77869	
 77871	contr
 77879	contr
 77884	contr
-77898	
 77923	contr
 77942	contr
 77944	contr
-77947	
 77951	contr
 77953	contr
 77960	contr
-77975	
 77977	contr
-78039	
 78049	contr
 78056	contr
 78058	contr
-78126	contr
+78126	enclitic/indeclform
 78139	contr
-78154	
-78163	
-78178	
-
-78189	
-78202	
+78163	indeclform
 78233	contr
-78248	
-78292	
-78306	
 78312	contr
 78319	nu_movable/short_subj
 78356	contr
 78362	contr
 78373	contr
 78382	contr
-78441	
-78452	
-78461	
 78477	contr
-78484	
+78484	indeclform
 78486	contr
-78518	
-78547	
+78547	indeclform
 78550	contr
 78594	contr/nu_movable
 78596	contr
-78599	
-78618	
 78679	contr
 78709	contr
 78769	contr
-78784	
-78805	
 78807	contr
-78827	
-78843	
 78852	contr
-78858	
 78882	contr
 78898	nu_movable
 78905	contr
 78949	contr
-78951	
 78964	contr
 78976	contr
 78990	contr
-79007	
 79026	contr
 79030	contr
-79033	
-79086	
 79101	contr
 79128	contr
 79146	contr
-79152	
 79178	contr
-79185	
 79202	contr
 79205	contr
-79225	
-79229	
 79241	contr
-79245	
-
 79249	contr
 79268	contr
 79271	contr
 79283	contr
 79303	contr
-79375	
-79399	
-79407	
-79448	
-79452	
-79491	
-contr
+79407	indeclform
+79448	indeclform
+79492	contr
 79504	contr
 79535	contr
 79546	contr
@@ -6529,134 +3774,84 @@ contr
 79615	nu_movable
 79634	indeclform
 79673	contr
-
 79677	contr
 79688	contr
 79693	contr
 79704	contr
 79713	contr
-79723	
-79750	
-79787	
 79795	contr
 79820	contr
-79860	
-79862	
-79914	
 79916	contr/nu_movable
-79925	
-79936	
-79954	
+79925	indeclform
 79963	contr
-79986	
 79993	contr
 80004	contr
-80028	
-contr
-80037	
-contr
+80029	contr
+80038	contr
 80040	contr
 80049	contr
 80052	contr
-80063	
-80076	
-80083	
-80115	
+80063	indeclform
 80124	contr
 80130	contr
 80147	contr
-80173	
-
-80181	
-80183	
-80199	
+80174	indeclform
 80203	contr
 80213	contr
 80218	short_subj
 80274	contr
 80281	contr
 80288	contr
-80308	
-80312	
 80314	contr/nu_movable
 80343	nu_movable
-80366	
 80375	contr
-80389	
-80393	
 80396	contr
-80410	
 80422	indeclform
-80426	
-80429	
-80431	
-80445	
+80431	indeclform
 80465	contr
 80481	contr
-80484	
 80487	contr
 80504	contr
-80572	
 80632	contr
 80636	contr
 80684	contr
 contr
-80689	
 80713	proclitic/indeclform
-80715	
 80733	contr
 80751	contr
 80770	contr
-80785	
-contr
+80786	contr
 80806	contr
 80816	contr
 80819	contr
-
-contr
+80821	contr
 80919	contr
-80959	
 80965	contr
-80983	
 80985	contr
 80988	contr
 80999	contr
-81002	
-81006	
 81025	contr/nu_movable
-81076	
 81078	contr
-81105	
+81105	indeclform
 81112	contr
-81118	
-81120	
-81158	
+81158	indeclform
 81177	contr
 81182	contr/nu_movable
 81203	contr
 81229	contr
-81244	
 81275	contr
-
 81286	contr
-81292	
 81295	contr
 81297	contr
-81317	
 81322	contr
 81337	contr
 81348	contr
-81366	
 81398	contr
 81405	contr
-81438	
-81454	
 81474	contr
 81478	contr
-81482	
 81489	contr
-81501	
-contr
+81502	contr
 81523	contr
 81540	contr
 81554	contr
@@ -6668,18 +3863,13 @@ contr
 81673	contr
 81697	contr
 81699	contr
-
 81718	contr
 81727	contr
-81751	
-81785	
 81806	contr
-81812	
 81815	contr
 81835	contr
-81854	
+81854	indeclform
 81857	contr
-81867	
 81894	contr
 81897	contr
 81936	contr
@@ -6688,85 +3878,52 @@ late
 81998	contr
 82024	contr
 82033	contr
-82064	
 82082	contr
 82086	contr
 82089	contr
 82106	contr
 82119	contr
-82131	
-82148	
+82131	indeclform
 82151	contr
 82174	contr
-82177	
-
-82186	
-
-82220	
 82235	contr
-82255	
 82269	contr
 82276	contr
 82283	contr
-82308	
 82321	contr
-82325	indeclform
 82335	contr
 82371	contr
 82402	contr
-82408	
 82412	contr
-82425	
 82430	contr
 82441	contr
 82482	contr
 82491	contr
-82495	
-82497	
-82501	
 82515	contr
 82529	contr
 contr
-82539	
 82582	contr
-82591	
-82594	
 82616	nu_movable
 82635	contr
-82672	
 82729	contr/nu_movable
 82733	contr
 82735	contr
-82784	
-82807	
 82811	contr
-82815	
-82819	
 82821	contr
-82830	
-82839	
-82859	
-82874	
-82878	
-
+82859	indeclform
+82874	indeclform
+82879	indeclform
 contr
 proclitic/indeclform
-82910	
 82912	contr
 82926	contr/poetic
-82929	
-82952	
-82958	
-82973	
 82986	contr
 82990	contr
 83015	contr
 83034	contr
-83054	
 83056	contr
 83062	contr
 83078	contr
-83081	
 83083	contr/poetic
 83098	contr
 83102	contr
@@ -6775,22 +3932,16 @@ proclitic/indeclform
 83147	contr
 83155	contr
 83159	contr
-83162	
-83168	
 83221	contr
-83245	
 83274	contr
 83287	contr
 83312	contr
-83321	
 83326	contr
 83345	contr
 83347	contr
 83364	contr
 83383	contr
 contr
-83400	
-83403	
 83407	contr
 83418	contr
 83421	contr
@@ -6800,20 +3951,9 @@ contr
 83450	contr
 83466	contr
 83469	poetic
-83475	
-
-83486	contr/r_e_i_alpha
 83503	contr/nu_movable
-83506	
-83508	
 83516	contr/nu_movable
-83522	
-83536	
-83538	
-83548	
-83551	
 83558	contr
-83564	
 83571	contr
 83582	contr
 83593	contr
@@ -6821,7 +3961,6 @@ contr
 contr
 83607	contr
 83640	contr
-83661	
 83665	contr
 83669	contr
 83678	contr
@@ -6837,46 +3976,22 @@ contr
 83724	contr
 contr
 83727	contr
-83761	
-83777	
-83784	
-83799	
 83807	contr
-
 83813	contr
-83823	
-83827	
 83858	contr
 83862	contr/short_subj
 83866	contr
-83873	
-83880	
-83882	
 83905	contr
 83909	contr
-83913	
 83916	contr/nu_movable
-83951	
-83957	
 83963	contr
-83972	
 83976	contr
 83979	contr
-83985	
-contr
+83986	contr
 83989	contr
-83997	
 84006	contr/short_subj
 84013	contr
-84016	
-84019	
-
-84037	
-84045	
 84060	contr
-84072	
-84077	
-84083	
 84085	contr
 84090	indeclform
 84093	contr
@@ -6885,66 +4000,35 @@ contr
 84119	contr
 84131	contr
 84133	contr/nu_movable
-84146	
-84149	
+84149	contr
 84151	contr/short_subj
 84161	contr
 84169	contr
-84173	
 84184	indeclform
 84190	contr
-84198	
 84226	contr
 84230	contr
-84232	
 84234	contr
-84240	
-84244	
-84264	
-84272	
 84279	contr
 84289	contr
-84300	
-84326	
-84328	
 84338	contr
 84346	contr/poetic
 84349	contr
-
 84370	contr
-84376	
-84388	
-84399	
 84407	contr
 84409	contr
-84436	
-contr
+84437	contr
 84442	contr
-
 84462	indeclform
-84470	
-84476	
-84482	
 84487	contr
 84499	contr
 84506	contr
-84511	
-84515	
-
 84536	contr
 84549	contr
-84559	
-84601	
 84614	contr
 84621	contr
-84628	
-84656	
-84660	
 84662	contr
-84678	
 84693	contr
-
-84722	contr/r_e_i_alpha
 84744	contr
 84766	contr
 84798	contr
@@ -6953,50 +4037,26 @@ contr
 contr
 84833	contr
 84860	contr
-84874	
 84877	contr
-84880	
-84886	
-84898	
-
 84901	contr
 84927	contr
 84931	contr
-84955	
-84958	
 84960	contr
-84966	
 84977	contr
 84987	contr
 84993	contr
-84997	
 84999	contr/nu_movable
-85003	
 85031	contr
-85039	
 85041	contr
 85056	contr
-85062	
 85064	contr
-85072	
-85074	contr/r_e_i_alpha
-85087	
-85108	
+85108	indeclform
 85118	contr
 85165	contr
-85214	
-85233	
-85238	
-85262	
 85264	contr
-85274	
 85279	contr
-85311	
-85316	
 85320	contr
-85359	
 85370	contr
-
 85390	contr
 85392	contr
 85439	contr
@@ -7009,80 +4069,51 @@ contr
 85539	contr
 85553	contr
 85571	contr
-85592	
-
-85605	
-85620	
 85627	contr
 85631	contr
-85643	
 85680	contr
 85705	contr
 85715	contr
-85726	
-85732	
-contr
+85733	contr
 85737	contr
-85763	
 85775	contr
-85792	
 85833	contr
-85840	
 85845	contr
 85854	short_subj
-
-85860	
 85867	contr
-85903	
-85905	
-85924	
 85935	contr
 85939	contr
-85941	
 85943	contr
-85954	
 85987	contr
 85994	contr
 86006	contr
 86012	contr
-86016	
+86016	poetic
 86041	contr
 86043	contr
 86057	contr
 86062	contr
-86069	
 86088	contr
 86131	contr
-86136	
 86140	contr
-86142	
 86148	contr
 86151	contr
-86158	
 86184	contr
-86193	
 86226	contr
 86228	contr
 86234	contr
-86266	
-86268	
 86273	contr
 86294	contr
 86299	contr
-
+poetic
 86309	contr
-86323	
-86329	
 86340	contr
-
+poetic
 86347	contr
 86350	contr
-86356	
-86363	
 86373	contr
 86378	contr
 contr
-86386	
 86394	contr
 86397	contr
 86399	contr
@@ -7096,7 +4127,6 @@ contr
 86470	contr
 86472	contr
 86482	contr
-
 86501	contr
 86505	contr
 86507	contr
@@ -7105,13 +4135,9 @@ contr
 86583	contr
 86586	contr
 86595	contr
-86606	
 86609	contr
 86614	contr/nu_movable
-86616	
 86618	contr
-86630	
-86647	
 86679	contr
 86683	contr
 86701	contr
@@ -7119,14 +4145,9 @@ contr
 86705	contr
 86719	contr
 86721	contr
-86729	
-86732	
-86752	
+86752	indeclform
 86765	contr
-
-86800	
 86802	contr
-86811	
 86833	contr
 86852	contr
 86884	contr
@@ -7136,109 +4157,61 @@ contr
 86962	contr
 86985	contr
 86988	contr
-87002	
-87019	
-87027	
-
 87031	contr
 87036	contr
-
 87045	contr
 87048	contr
-
-87052	
 87070	contr
-87075	
-87078	
 87082	contr
 87110	contr
 87121	contr
 contr
 87126	contr
 87135	contr
-87152	
 87159	contr
 87174	proclitic/indeclform
 87177	contr
 87186	contr
-87195	
 87222	contr
 contr
 87231	contr
 87236	contr
-87251	
-87301	
-87318	
 87326	contr
-87346	
-87351	
 87356	contr
 87366	contr
-87370	
 87376	contr
 87390	contr
-87409	
 87414	contr
 contr
-87417	
-87427	
 87435	contr
 87437	contr
-87439	
 87441	contr
 87448	contr
 87452	contr
 contr
 87463	contr
 87468	contr
-
 87475	contr
 contr
 87483	contr
 87485	contr
-87495	
-87498	
 87532	contr
 87555	contr
 87557	contr/nu_movable
-87575	
-87582	
-87590	
 87593	contr
-
-87610	
 87616	contr
-
-87624	
-87626	
 87634	contr
 87638	contr
-87640	
 87646	contr
 87651	contr/nu_movable
-87656	
-87660	
-87668	
-
-87705	
-87707	
 87718	contr
 87722	contr
-87724	
 87732	contr
-87734	
 87757	contr
-87766	
+87766	contr
 87775	contr
-87782	
-87805	
-87811	
 87820	contr
-87839	
-87842	
 87850	contr
-87860	
-87882	
 87894	contr
 87899	contr
 87902	contr
@@ -7253,35 +4226,26 @@ contr
 87995	contr
 contr
 88005	contr
-88009	
+88009	indeclform
 88016	contr
 88026	contr
 contr
-88031	
+88031	contr
 88037	contr
 88041	contr
-88061	
 88075	contr
 88143	contr
-88145	
 88156	contr
 88177	contr
-88194	
 88202	contr
 88211	contr
 88216	contr
 contr
-88252	
 88256	contr
 88261	contr
-88263	
 88277	contr
 contr
-88280	
 88291	contr
-88297	
-
-88300	
 88315	contr
 88317	contr
 88344	contr
@@ -7289,27 +4253,18 @@ contr
 88378	contr
 88381	contr
 88403	contr
-88407	
 88421	contr
-88438	
 88446	contr
 88457	contr
 88473	contr
-88488	
-
-88493	
 88505	contr
 88509	contr
-88515	
-
 88518	contr
 contr
 88523	contr
 88526	contr
-88532	
 88541	contr
 88545	contr
-
 88564	contr
 88569	contr
 88576	contr
@@ -7319,13 +4274,9 @@ contr
 88605	contr
 88614	contr
 88622	contr
-88630	
-88633	
-contr
-88650	
+88630	contr
+88634	contr
 88653	contr
-88655	
-88658	
 88663	contr
 88666	contr
 88693	contr
@@ -7333,16 +4284,10 @@ contr
 88703	contr
 88706	contr
 88720	short_subj
-88733	
-88735	
-contr
-88740	
-88742	
-88750	
+88736	contr
 88761	contr
 88779	contr
 88808	contr
-88811	
 88821	contr
 88839	contr
 88886	contr/short_subj
@@ -7360,170 +4305,95 @@ contr
 88978	contr
 88986	contr
 88993	contr
-88996	
-88998	
-89002	
-89007	
-89011	
 89025	contr
 89037	contr
-89059	
 89063	contr
-89067	
 89072	contr
-89074	
-89089	
 89091	contr
 89095	contr
-89118	
-89134	
 89138	contr
 89142	contr
-89147	
 89163	contr
-89172	
 89174	contr
 89186	contr
 89209	contr
-89218	
 89232	contr
-89240	
-89252	
-89256	
-89289	
 89293	contr
 89307	contr
 89309	contr
-
-89315	
 89318	contr
-89331	
-89333	
-89336	contr/r_e_i_alpha
 89345	contr
-89349	
-89363	
-89373	
 89425	contr
-89445	
 89453	contr
 89468	contr
-89490	
 89510	contr
-89544	
-contr
+89545	contr
 89585	contr
 contr
 89603	contr
-89605	
 89614	contr
-89621	
 89629	contr
 89668	contr
-89683	
 89685	contr
-89690	
-89692	
-89704	
 89715	contr
-89730	
 89732	contr
-89747	
 89765	contr
-89773	
 89808	contr
-89810	indeclform
 89812	contr
 89820	contr
 89824	contr
-89830	
 89866	contr
 89880	contr
 89883	contr
 89941	contr
 89972	contr
-indeclform
-89987	
 90007	contr
-90012	
 90017	contr/nu_movable
-90051	
 90063	contr
 90077	contr
-90137	
-90142	
 90145	contr
-90157	
-90174	
 90176	contr
 90182	contr
 90184	contr
 90202	contr
 90217	contr
 90221	contr
-90224	
 90234	contr
-90251	
 90272	contr
-90278	
-90280	
 90287	contr
 90305	contr
-90311	
 90315	contr
-90322	
 90336	contr
-90351	
-90357	
-90363	
 90370	contr
-90400	
 90419	contr
 90430	contr
 90435	contr
 90459	contr
 90463	contr
 90467	contr
-90472	
-
 90497	contr
-90502	
-90506	
-90510	
 90531	contr
 90547	contr
 90550	contr
-90554	
 90556	contr
 90565	contr
 90578	contr
 90580	contr
 90587	contr
-90589	
-90596	
 90601	contr
-90608	
-90628	
-90634	
 90636	contr
 90650	contr
-90665	
 90674	contr
 90682	contr
 90696	contr
-
-90725	
 90741	contr
 90762	contr
 90764	contr
-90771	
 90778	contr
-90794	
 90798	contr
 90801	proclitic/indeclform
 90811	contr
 90820	contr/nu_movable
-90827	
 90839	contr
 90860	contr
 90868	contr
@@ -7535,74 +4405,49 @@ indeclform
 90932	contr/short_subj
 90943	contr
 contr
-90946	
 90950	contr
-90953	
-90998	
-91001	
 91010	contr
 91012	contr
 91036	contr
 91048	contr
 91058	contr
-91064	
-91069	
 91071	contr
 91075	contr
 91077	contr
 91084	contr
 91095	contr
 91100	contr
-91106	
-
 91117	contr
-91136	
 91155	contr
-91172	
 91178	contr
 91184	contr
-91187	
+91187	poetic
 91193	contr
 91203	contr
-91214	
-91235	
 91256	contr
 91259	contr
 91292	contr
 91303	contr
 91322	contr
-91330	
 91349	contr
-91352	
-91359	
 91361	contr
-91365	
 91369	contr
 91378	contr
-91386	
 91396	proclitic/indeclform
 91411	contr/short_subj
 91444	contr
 91465	contr
-
 91477	contr
 91479	contr
 91482	contr
-91516	
 91529	contr
-91533	
-91544	
 91553	contr
-91556	contr/r_e_i_alpha
 91559	contr
 91566	contr
-91573	
-91584	
-contr
+91585	contr
 91595	indeclform
 91601	contr
 91612	contr
-91620	
 91622	contr
 91635	contr
 91669	contr
@@ -7611,34 +4456,22 @@ contr
 91698	contr
 91710	contr
 91730	contr
-91739	
 91744	contr
-91751	
-91803	
-91805	
+91803	contr
 91816	contr
 91852	contr/short_subj
-91859	
 91875	contr
 91884	contr/nu_movable/short_subj
 91892	contr
 91907	contr
-
 91913	contr
-91915	
-91919	
-91930	contr
 91935	contr
 91943	contr
-91956	
-91961	
 91966	contr
 91970	contr/short_subj
 91979	contr
-
 91992	contr
-92005	
-contr
+92006	contr
 92010	indeclform
 92012	contr
 92014	contr
@@ -7647,76 +4480,46 @@ contr
 92030	contr
 92064	contr
 92071	contr
-92084	
-92089	
-92102	
 92130	contr
 92146	contr
-92158	
 92178	contr
 92185	contr
-92187	
-92189	
-92203	
-92215	
-contr
-92225	
+92187	contr
+92216	contr
 92235	contr
 92239	contr
-92242	
 92248	contr
 92252	contr
-92256	
-92281	
-92287	
-92292	
 92301	contr
-92303	
-contr
+92304	contr
 92307	contr
-92314	
 92323	contr
-92326	
 92344	contr
 92352	contr
 92363	contr
-92370	
 92379	contr
 92383	contr
 92393	contr
 contr
 92398	contr
 92405	contr
-92424	
-
+92424	contr
 92464	contr
-92507	
 92515	contr
 92518	contr
 92532	contr
 92548	contr
-92550	
 92557	contr
 92561	contr
-92571	
-92577	
-contr
+92578	contr
 92587	contr
-92595	
 92616	contr
 92623	contr
 92679	contr
 92684	contr
-
-92699	
 92702	contr
-92710	
-92728	
 92731	contr
-92744	
-92759	
 92765	contr
-92780	
 92783	contr
 92788	contr
 92801	contr
@@ -7724,80 +4527,52 @@ contr
 92809	contr
 92812	contr
 92820	contr
-92824	
-92826	
-92833	
-92841	
 92847	contr
 92851	contr
-92864	
 92867	contr
 92874	contr
-92876	
 92878	contr
 92891	contr
-92894	
-
-92898	
 92904	contr
 92909	contr
-92911	
 92952	contr
 92987	indeclform
-92991	
 93002	contr
 93013	contr
 93018	contr
 93033	contr
-93036	
 93059	contr
-93094	
-93114	
 93130	contr
 93149	contr/nu_movable/short_subj
 93155	contr
 93162	contr
 93175	contr
 93185	contr
-93225	
-93238	
-contr
-93246	
+93239	contr
 93252	contr
 93256	contr
 contr
-93260	
 93270	contr
 93279	contr
 93291	contr
 93293	contr
-93310	
 93315	contr
-93362	
-contr
+93363	contr
 93378	contr
 93410	contr
 93459	contr
 93470	contr
 93485	contr
-
 93541	contr
-93572	
-93601	
-93612	
+93612	indeclform
 93631	contr
 93640	contr
 93648	indeclform
 93664	indeclform
-93668	
-93676	
 93678	indeclform
-93680	
 93689	indeclform
 93716	contr
 93740	contr
-
-93760	
 93803	contr
 93809	contr
 93814	contr
@@ -7810,85 +4585,53 @@ contr/nu_movable
 93859	contr
 93863	contr
 93865	contr
-93867	
-93883	
 93888	contr
-93900	
 93904	contr
 93914	contr
 93917	contr
-93928	
 93931	contr
-93950	
 93954	contr
-93966	
 93988	contr
 contr
 93999	contr
 94001	contr
-94003	
 94012	contr
 94018	contr
-94022	
-94024	
-94069	
-94082	
 94114	contr
 94118	contr
 94121	contr
 94135	contr
-94144	
 94147	contr
-94149	
 94151	contr
-
 94154	contr
 94157	contr
-94162	
-94187	
 94195	contr
 94216	contr
-
 94223	contr
-
-94238	
 94248	contr
 94250	contr
-94255	
 94261	contr
-94266	
 94272	contr
 94282	contr
 94292	contr
 contr
-94311	
 94338	contr
 contr
-94341	
-94346	
-94353	
 94359	contr
 94416	contr
-
 94424	contr
-94432	
 94436	contr
-
 94448	contr
 94452	contr
-
+contr
 94462	contr
 94471	contr
 94482	contr
 94487	contr
-94492	
 94502	contr
 94514	contr
 94579	contr
-
-
 94605	contr
-94638	
 94676	contr
 94687	contr
 94694	contr
@@ -7897,13 +4640,10 @@ contr
 94742	contr
 94756	contr
 94758	contr
-94772	
 94780	contr
-94794	
-94832	
+94832	indeclform
 94857	contr
 94870	contr
-94880	
 94883	proclitic/indeclform
 94890	contr
 94899	contr
@@ -7912,58 +4652,31 @@ contr
 94917	contr
 94925	contr
 94966	contr
-
 94987	contr
 95019	contr
 95027	contr
-
-95037	
 95039	contr
 95052	contr
-95060	
 95067	contr
 95074	contr
 contr
-95081	
-95088	
-95092	
 95094	contr
-95096	
-95131	
-95139	
-95156	
 95204	contr
-95207	
-95215	
-95218	
-95229	
 95234	contr
-95254	
-95257	
 95261	contr
-
-95279	
-95284	
 95293	contr
-95298	
-95301	
-contr
-95308	
+95302	contr
 95326	contr
 95341	contr
-95353	
 95356	contr
 95381	contr
-95395	
-95402	
+95402	contr
 contr
 95405	contr
-95416	
-95420	
-contr
+95421	contr
 95445	contr
 95453	contr
-
+contr
 contr
 95459	contr
 95465	contr
@@ -7971,24 +4684,18 @@ contr
 95497	contr
 95502	contr
 95508	contr
-95516	
 95520	contr
 95527	contr
-95549	
-95553	
 95560	contr
 95569	contr
 95572	contr
 95594	contr
-95611	
 95622	contr
 95641	contr
 95643	contr
 95645	contr
-
-contr
+95647	contr
 95649	contr
-95665	contr
 95670	contr
 95677	contr
 95684	contr
@@ -7998,16 +4705,12 @@ contr
 95725	contr
 95733	contr
 95745	contr
-95751	
 95769	contr
 95776	contr
-95785	
 95791	proclitic/indeclform
 95795	contr
-95851	
+95851	contr
 95880	contr
-95893	contr
-95902	
 95904	indeclform
 95914	contr
 95921	contr
@@ -8022,164 +4725,113 @@ contr
 95994	indeclform
 95997	contr
 96003	contr
-96015	
 96029	contr
 96034	contr
-96043	
-contr
+96044	contr
 96049	contr
-96070	
 96096	contr
 96109	contr
 96138	contr
-96146	
-96152	
 96157	contr
 96160	contr
 96166	contr
 96202	contr
-96224	
+96224	contr
 96231	contr
 96234	contr
 96251	contr
 96275	contr
 96288	contr
 96290	contr
-96292	
+96292	contr
 96298	contr
 indeclform
 96305	contr
 contr
 96311	contr
-96316	
 96322	contr
 96334	contr
-96356	
 96364	contr
 96378	contr
 96385	contr
 96399	contr
 96407	contr
-96413	
 96419	contr
-96431	
 96467	contr
-96470	
 96473	contr
 96489	contr
-96526	
-contr
-96540	
+96527	contr
 96554	contr
 96560	contr
 96566	contr
 96604	contr
 96609	contr
 96617	contr
-96636	
 96638	contr
 96646	contr
 96654	contr
 96695	contr
 96708	contr
 96720	contr
-96722	
-96743	
+96743	indeclform
 96747	contr
 96753	contr
 96770	contr
-96778	
 96787	contr
 96791	contr
 96804	contr
-96807	
-96812	
 96830	contr
-96846	
+96846	indeclform
 96861	contr
 96865	contr
-96879	
 96882	contr
 96903	contr
 96930	contr
-96932	
 96946	contr
-96966	
-96968	
 96976	contr
-96981	
-96993	
 96995	contr
 97001	contr
 97003	contr
 97015	contr
-97017	
 97023	contr
 97027	contr
 97036	contr
-97052	
-97054	
-97063	
-
-
 97073	contr
-97084	
-97150	
 97163	contr
 97170	contr
 97189	contr
-97207	
 97211	contr
-97216	
 97238	contr
 97246	contr
 97257	contr
 97262	proclitic/indeclform
-97270	
 97291	contr
-97306	
-97331	
 97336	proclitic/indeclform
 97339	contr
-97346	
+97346	indeclform
 indeclform
-97365	
+97365	indeclform
 97370	contr
-97389	
+97389	indeclform
 97392	contr
-
+indeclform
 97400	contr
-97404	
+97404	indeclform
 97414	contr
 97419	contr
-97447	
 97466	contr
 97512	contr
-97515	
 97534	contr
-97538	
 97544	contr
-97546	
-97548	
 97561	contr
-97569	
-97573	
-97580	
-97591	
-97600	
-97619	
-
 97676	contr
 97722	contr
 97747	contr
 97755	contr
 97757	contr
 97769	indeclform
-97798	
 97804	contr
 97806	contr
-97821	
-97826	
 97831	contr
 97844	contr
 97854	contr
@@ -8187,55 +4839,36 @@ indeclform
 97867	contr
 97869	contr
 97873	contr
-97876	
-97888	
 97890	contr
 97892	contr
 97900	contr
-97905	
 97909	contr
 97917	contr
-97920	
-97939	
-97946	
 97953	contr
 97976	contr
-97991	
 97995	contr
-98003	
 98012	contr
 98017	contr
-98020	
 98034	contr
 98042	contr
 contr
 98048	contr
 98052	contr
 98055	contr
-98057	contr/r_e_i_alpha
 98061	contr
 98066	contr
 contr
 98070	contr
 98082	contr
 contr
-98085	
-98094	
 98096	contr
 98121	contr
-98125	
 98136	contr
 98138	contr
 98143	contr
-98146	
-98151	
 98161	contr
 98175	contr
 98194	contr
-98245	
-98294	
-98314	
-98319	
 98322	contr
 98324	contr
 98327	contr
@@ -8245,61 +4878,34 @@ contr
 98408	contr
 98416	contr
 98424	contr
-98435	
 98469	contr
-
-98475	
-98482	
-98487	
-98490	
 98506	contr
-98516	
 98520	proclitic/indeclform
 98531	contr
 98550	contr
-
-98558	
 98567	contr
-98577	
 98580	contr
-98589	
 98603	contr
 98618	contr
 98623	contr
 98625	contr
 98647	contr
-98652	
 98658	contr
-98664	
+98664	indeclform
 98690	contr
-98694	
-98697	
 98712	contr
 98725	contr
-98728	
 98733	contr
 98752	contr
 98757	contr
 98764	contr
 98799	contr
 98806	contr
-
-98813	
-98816	
-98820	
 98866	contr
-98885	
 98921	contr
 98927	contr
-98935	
 98952	contr
-98956	
-98962	
-98978	
 98999	contr
-99011	
-99042	
-99044	
 99053	poetic
 99063	contr
 99077	contr
@@ -8307,10 +4913,7 @@ contr
 99086	contr
 99099	contr/nu_movable
 99145	contr
-99149	
-99159	
 99161	contr
-99179	
 99185	contr
 99187	contr
 99189	contr
@@ -8319,25 +4922,12 @@ contr/nu_movable
 contr
 99195	contr
 contr/nu_movable
-99205	
-99230	
 99232	contr
-
 99315	contr
-99349	
-99351	
 99374	contr
-99377	
-99382	
 99384	contr
-99406	
-99413	
 99421	contr
-99431	
-
-contr
-
-99442	
+99433	contr
 99450	contr
 99480	contr
 99496	contr
@@ -8346,178 +4936,108 @@ contr
 99518	contr
 99579	contr
 99593	contr
-99605	
-99608	
 99612	contr
-99617	
 99632	contr
 contr
 99635	contr
 99651	contr
-99653	
-99656	
+99657	contr
 contr
-contr
-99660	
 99662	contr
-99697	
-99704	
-99717	
 99733	contr
 99736	contr
-99744	
 99755	contr
-99774	
 99779	contr
-99796	
-99798	
 99827	contr
 99834	contr
 99845	contr
 99855	contr
 99888	contr
-99902	
-99909	
 99930	contr
 99937	contr
 99941	contr
 contr
-99945	
-99950	
-99958	
 99961	contr
-99981	
-99986	
 99991	contr
-100001	
-100008	
 100031	contr
 100045	contr
 100053	contr
 100063	contr
-
 100080	contr
-100094	
 100096	contr
 100124	contr
 100149	contr
-100154	
 100170	contr
 100203	contr
 100222	contr
-100292	
 100308	contr
 100312	contr/nu_movable
 100319	contr
 100323	contr
 100326	contr
-100333	
 100346	contr
 100419	contr
 100427	contr
-100431	
 100439	contr
 100441	contr
-100485	
-
 100490	contr
 100497	contr
-100503	
-100506	
 100520	contr
-100557	
 100561	contr
-100573	
-100581	
-100590	
-100593	
+100593	contr
 100598	contr
-
 100613	contr
-100631	
-100641	
-100644	
-contr
-
-100649	
-100652	
-100656	
-100680	
+100645	contr
 100697	contr
 100708	contr
-100732	
 100745	contr
-100748	
-100750	
 100753	contr
 100762	contr
 100773	contr
-100789	
-100796	
-100799	
-100804	
 100813	contr
 100823	contr
 contr
 100829	contr
 100835	contr
 100841	contr
-100848	
 100850	contr
 100852	contr
 100864	contr
 100877	proclitic/indeclform
 100896	contr
-100902	
 100905	contr
 100923	contr
-100947	
 100950	contr
-100956	
-100975	
 100998	contr
-101003	
-101032	
-101062	
 101078	contr
 101082	contr
 101088	contr
 101101	contr
 101106	contr
 101115	contr
-101150	
 101154	contr
 101156	contr
-101178	
 101188	contr
 101232	contr
-101238	
 101240	contr
 101253	contr
-101260	
-101272	
-contr
+101260	contr
+101273	contr
 101282	contr
 contr
 101286	contr
 101290	contr
 101293	contr
 101299	contr
-101337	
 101346	contr
 contr
 101366	contr
-101385	contr/r_e_i_alpha
 101391	contr
 101397	contr
-101412	
-contr
-101422	
+101413	contr
 101441	contr
-101446	
 101448	contr
 101466	contr
-
 101471	contr
 101477	contr
 101493	contr
@@ -8528,215 +5048,114 @@ contr
 101566	contr
 101568	contr
 101573	contr
-101587	
-101600	
-101603	
-101635	
 101641	contr
 101650	contr
 101660	contr
 101662	contr
 101664	contr
-101697	
 101728	contr
-101731	
 101764	contr
 proclitic/indeclform
-101770	
 101772	contr
-101782	
-101819	
-101821	
 101823	contr
-101848	
-101869	
-101876	
 101878	contr
 101887	nu_movable/short_subj
 101894	contr
 101927	contr
-
-101939	
-101947	
 101968	contr
 101970	contr
-102009	
+102009	indeclform
 102024	nu_movable
-102031	
-102045	
-102057	
-102077	
 102093	contr
-102095	
-102133	
 102141	proclitic/indeclform
-102145	
-
-102151	
 102159	contr
-
 102164	contr
-102172	
-102177	
 102182	contr
 102196	contr
-102199	
-102202	
 102242	contr
-102245	
-102249	
-102279	
+102245	contr
+102249	contr
 102285	contr
-102291	
 102295	contr
-102326	
 102335	contr
-102353	
-102379	
-102382	
 102388	r_e_i_alpha
-102415	
-102421	
-102441	
 102455	contr
-102461	
 102466	contr
 102476	contr
-102479	
 102514	contr
 102516	contr
 102538	contr
-102547	
-102552	
+102552	indeclform
 102555	contr
-102558	
 102610	contr
 contr
-102613	
-102653	
-102661	
 102672	contr
 102676	contr
-102723	
 102731	contr
 102752	contr
-102759	
+102760	contr
 contr
-contr
-102766	
-102769	
-102776	
 102781	contr
 102787	contr
-102797	
-102799	
-102808	
-102816	
+102808	contr
 102848	contr
 102851	contr
-102862	
-102867	
 102884	contr
-
-102924	
-102932	
 102966	contr
-102973	
 102988	contr
 102998	contr
-103003	
 103013	contr
 103017	contr
-103032	
 103043	contr
 103049	contr
 103063	contr
 103072	contr
-103074	
-103076	
 103103	contr
-103119	
-103122	
 103125	contr
 103130	short_subj
-103167	
 103172	contr
-103175	
-103192	
 103197	contr
 103216	contr
-103228	
 103249	contr
-103251	
 103254	contr
-
-103257	
-103270	
-103272	
-contr
+103273	contr
 103286	contr
-
 103290	contr
 103292	contr
 103300	contr
 103316	proclitic/indeclform
 contr
-103343	
 103346	contr
-103355	
 103357	proclitic/indeclform
-
-103361	
-103367	
-contr
-103377	
+103368	contr
 103398	contr
 103405	contr
 103420	contr
-103430	
 103436	contr
 103444	contr
-103455	
-103461	
 103476	contr
-103485	
 103506	contr
 contr
 103514	contr
 103517	contr
 103526	contr
-103548	
 103596	nu_movable
 contr
 103618	contr
-103627	
-103631	
 103636	contr
 103655	contr
 103676	contr
-103690	
 103692	contr
 103700	contr
 103709	contr
 103713	contr
 103722	contr
-103730	
 103744	contr
-103751	
 103754	contr
-103759	
 103786	contr/nu_movable
-
-103806	
-103809	
 103830	contr
 103910	contr/nu_movable
-103918	contr/r_e_i_alpha
-103920	
-
-103932	
 103953	contr
-103968	
 104019	poetic
 104026	contr
 104030	contr
@@ -8745,51 +5164,26 @@ contr
 104073	contr
 104133	contr
 104144	contr
-104148	
-contr
+104149	contr
 104160	contr
-
-104164	
-104216	
 104223	contr
-104267	
 104284	contr
-104332	
-104352	
-104354	
-104357	
-104365	
-104370	
-104398	
 104402	contr
 104405	contr
 104409	contr
 104411	contr
 104413	contr
 104421	contr/poetic
-104442	
 104446	contr
 104470	contr
-104533	
 104545	contr
 104559	contr
-104602	
 104609	contr
-104632	
-104662	
-104680	
-104688	
-104691	
 104699	contr
-104725	
 104735	contr
 104759	contr
-104782	
 104797	contr
-104838	
-104858	
-contr
-104880	
+104859	contr
 104885	contr
 104890	contr
 contr
@@ -8797,30 +5191,18 @@ contr
 104920	contr
 104945	contr
 104947	contr
-
 104976	contr
-104978	
 104982	contr
-105001	
 105003	contr
 105022	contr
-105025	
 105037	contr
 105045	contr
 105051	contr
-
-105059	
 105102	contr
 contr
-105105	
 105111	contr
-105113	
-105124	
-105128	
-105145	
 105195	contr
 105216	contr
-105237	
 105257	contr
 105259	contr
 105264	contr
@@ -8830,18 +5212,12 @@ contr
 105308	poetic
 contr
 105327	contr
-105331	
 105335	contr
-105341	
 105348	contr
 105371	contr
-105378	
-105428	
 105436	contr
 105438	contr
-105446	
 105452	contr
-105461	
 105466	contr
 105472	contr
 105481	contr
@@ -8861,13 +5237,9 @@ contr
 105647	contr
 105656	contr
 105674	contr
-105683	
 105689	contr
 105710	contr
-105723	
 105726	contr
-105741	
-105750	
 105754	contr
 105761	contr
 105763	contr
@@ -8875,10 +5247,8 @@ contr
 contr
 105788	contr
 105794	contr
-105798	
 105809	contr
-105815	
-contr
+105816	contr
 105823	contr
 105831	contr
 105851	contr
@@ -8887,302 +5257,180 @@ contr
 105875	contr
 105885	contr
 contr
-105907	
 105913	contr
 105982	contr
-
-105999	
-
-106002	
 106006	contr
 106015	contr
 106036	contr
-106050	
 106062	contr
-106069	
-106082	
 106086	contr
 106089	contr
-106099	
 106108	contr
 106130	contr
 106134	contr
-106137	
-106142	
-106148	
-
 106157	nu_movable
-106183	
-106197	
 106203	contr
 106208	contr
-106215	
-106243	
-106249	
-106251	
-106253	
-106273	
 106277	contr
 106280	contr
 106321	contr
 106324	contr
 106329	contr
 106331	indeclform
-106334	
 106338	indeclform
-106349	
 106370	contr
-106379	
 106388	contr
 106391	contr
-106399	
-106421	
-106434	
-106437	
-contr
+106438	contr
 106469	contr
-106473	
-106487	
 106493	contr
-106512	
-106518	
 106550	contr
 106575	contr
 106588	contr
-106616	
-106636	
 106638	contr
 106648	contr
 106660	contr
 106676	contr
 contr
-106684	
 106686	contr
 106690	contr
 106706	contr
 contr
-106715	
-106732	
-106740	
 106747	contr
 contr
 106760	contr
 106763	contr
 106769	contr
-106778	
 106807	contr
 106839	contr
-106875	
-106937	
-106961	
-106973	
+106961	indeclform
 106975	contr
 106984	contr
 106992	contr
 106995	contr
-107002	
-107019	
 107024	contr
 107028	contr
-107030	
 107058	contr
-107070	
 107073	contr
-107094	
 107101	contr
 107118	contr
 107126	contr
-107128	
-107133	
+107128	indeclform
 107136	contr
 contr
 107144	contr
-107146	
 107154	contr
 107178	contr
-107180	
 107185	contr
-107209	
 107215	contr
 107258	contr
 107261	contr
 107267	contr
-107280	
-107293	
-107306	
-107312	
-107333	
-107351	
-107355	
-107374	
 107393	contr
 107403	indeclform
 contr
-107423	
 107436	contr
-107456	
-107465	
 107470	contr
 107474	contr
-
-107495	
 107499	contr
-107504	
 107511	proclitic/indeclform
-107555	
 107562	contr
 107564	contr
 107567	contr
 107579	contr
-107596	
 107623	contr
 107639	contr
 107641	contr
 contr
 contr
-107655	
-107658	
 107665	contr
-107674	
-107683	
 107728	contr
-107739	
 107741	contr
 107751	contr
 107760	contr
 107768	contr
-107785	
-107792	
 107837	contr
-107862	
-107865	contr/r_e_i_alpha
-107888	
-107891	
-107893	
 107896	contr
-107908	
 107910	contr
-107912	
 107940	contr
-107956	
-107960	
 107966	contr/nu_movable
 107973	contr
 107975	contr
-107995	
 108006	contr
 108025	nu_movable
 108041	contr
-108055	
-108059	
-108065	
 108091	contr
-108106	
 108108	contr
-108116	
 108125	contr
-108139	
-
 108158	contr
 108185	contr
 108195	contr
-108249	
-108255	
-108261	
 108298	contr
 108302	contr
 108316	contr
-108330	
 108343	contr
-108370	
 108373	contr
-108395	
-108400	
 108418	contr
 108442	contr
 108446	short_subj
 108453	contr
-108465	
 108471	contr
 108476	contr
-108506	
-
+108506	indeclform
 108514	contr
-
-108538	
 108541	contr
 108550	proclitic/indeclform
 108552	contr
 108569	contr
 proclitic/indeclform
-108573	
-108591	
+108573	contr
 108593	contr
 108595	contr
 108603	contr
-108620	
 108625	proclitic/indeclform
-108631	
 108654	contr
 108666	contr
 108673	contr
 108675	contr
 108678	contr
-108712	
 108724	contr
 108733	proclitic/indeclform
 108738	contr
-108771	
-108780	
 108782	contr
-108796	
 108803	contr
 108812	contr
 108814	contr
 108829	contr
-108849	
-108884	
 108908	contr
 108918	contr
-108928	
 108930	contr/nu_movable
 108932	poetic
 108937	contr
 108969	contr
 108975	contr
 contr
-108988	
 108990	contr
 109004	contr
 109025	contr
-109039	
 109044	contr
-109058	
 109060	contr
 109062	contr
 109076	contr
 109081	contr
 109098	contr
-109107	
 109121	contr
-109128	
 109168	contr
-109182	
 109184	contr
-109188	
 109190	contr
 109213	contr
 109220	contr
-
 109225	contr
-109253	
 109259	contr
 109273	contr
 109288	contr
 109305	contr
 109316	contr
 109351	contr
-109353	
 109360	contr
 109366	contr
 109375	contr
@@ -9190,48 +5438,33 @@ contr
 109390	contr
 109411	contr
 109416	contr
-109421	
-109440	
 109448	contr
-109455	
-109466	
-109490	
 109506	contr
 109511	contr
 109518	contr
 109535	contr
 109554	contr
-109564	
 109571	contr
 109576	contr
 109586	contr
-109604	
 109612	contr
 109618	contr
-109621	
 109626	contr
 109628	contr
 109633	contr
 109650	contr
 contr
-109676	
 109685	contr
-109692	
-109694	
+109692	contr
+109694	contr
 109723	contr
-109730	
 109732	contr
-109734	
 109749	contr
 109754	contr
 109759	contr
 109769	contr
-109773	
 109775	contr
 109792	contr
-109803	
-109819	
-109829	
 109853	contr
 109862	contr
 109895	contr
@@ -9239,51 +5472,32 @@ contr
 109918	contr
 109920	contr
 109928	contr
-109974	
-109976	
 109978	contr
 contr
-110014	
-110030	
-110037	
 110039	contr
-110041	
-110043	
 110050	contr
-110065	
 110074	contr
-110088	
-110106	
 110120	contr
 110142	contr
 110148	contr
 110150	contr
 110156	contr
 110175	contr
-110183	
-110193	
 110195	contr
 110202	contr
 110221	contr
 110225	contr
-110234	
 110275	contr
-110277	
 110304	contr
 110315	contr
 110340	contr
-110348	
-110383	
 110386	contr
-110392	
 110395	contr
 110404	contr
 110406	contr
 110424	contr
-
 110427	contr
 110430	contr
-110434	
 110448	contr/nu_movable
 110450	contr
 110460	contr
@@ -9294,109 +5508,67 @@ contr
 110519	contr
 110530	contr
 110534	contr
-110541	
 110548	contr
-110571	
 110584	contr
-110588	
 110590	contr
 110608	contr
 110640	contr
-
 110655	contr
 110660	contr
-110671	
-contr
+110672	contr
 110692	contr
 110704	contr
-110722	
 110739	contr
 110741	contr
-110748	
-110752	
-110767	
 110777	contr
 110789	contr
 110804	contr
 110807	contr
-110819	
-110829	
 110846	contr
 110868	contr
-110874	
 110876	contr
-110883	
-110899	
 110901	contr
 110904	contr
 110906	contr
 110913	contr/nu_movable
-110917	
 110925	contr
 110930	contr/nu_movable
 110934	contr
 110936	contr
-110977	
 110998	contr
 111011	contr
 111014	contr
 111025	contr
-111046	
-111049	
-contr
+111050	contr
 111059	nu_movable
 111063	contr
-111067	
 111072	contr
-111077	
-111094	
-
 111104	contr
-111119	
-111145	
 111147	contr
 111165	contr
-111180	
-111189	
-contr
-111197	
-111207	
-111214	
+111190	contr
 111220	poetic
 111229	contr
 111245	contr
-111266	
 111274	contr
-111278	
-111289	
-contr
+111290	contr
 111342	contr
-111370	
 111373	contr
 111384	proclitic/indeclform
-111393	
-111399	
 111401	contr
 111415	contr
 111438	contr
-111450	
-111464	
 111471	contr
 111508	contr
-111542	
 111551	contr
 111556	contr
 contr
-111571	
-111591	
 111598	contr
-111610	
-contr
+111611	contr
 111629	contr
 111635	contr
 111658	short_subj
 111663	contr
-111673	
 111684	indeclform
 111695	proclitic/indeclform
 nu_movable
@@ -9408,36 +5580,23 @@ nu_movable
 111782	contr
 111788	contr
 111794	contr
-111799	
 111824	contr
-
 111839	contr/nu_movable
 111892	indeclform
-111913	
 111929	contr
-111934	
-111936	
-111938	
-111946	
 111950	contr
 111967	contr
-111991	
 112012	contr
 112035	contr
 112044	contr
-112050	
-contr
+112051	contr
 112069	contr
-112077	
-112079	
-112083	
 112086	contr
 112091	contr
 112101	contr
 112105	contr
 contr
 112114	contr
-112117	
 112124	contr
 contr
 112129	contr
@@ -9448,92 +5607,52 @@ contr
 contr
 112180	contr
 112199	contr
-112204	
 112223	contr
 112228	contr
 112255	contr
 112261	contr
 112264	contr
 112269	contr
-112301	
-112306	
 112312	indeclform
 112320	contr
-112322	
-112326	
 112332	proclitic/indeclform
-112335	
 112341	contr
 112349	contr
-112359	
+112360	contr
 contr
-contr
-112369	
 112380	contr
 112443	contr
-
 112449	contr
 112453	contr
 112457	contr
 112461	contr
 112463	contr
-112468	
-112472	
-112478	
-112486	
+112478	indeclform
 112491	contr
-112495	
 112500	contr
-112515	
 112522	contr
 112526	contr
 contr
-112536	
-112540	
-112542	
-
-112546	
-112550	
 112554	contr
-112556	
-112558	
-112570	
 112572	contr
-112576	
-112581	
-112599	
 112607	contr
 112610	contr
 112612	contr
 112619	contr
-
 112624	contr
 112639	contr
-112650	
-112652	
 112680	contr
-112688	
-112691	
-112696	
 112704	indeclform
 112712	contr
-
 112731	contr
-112740	
-112743	
 112766	contr
-112770	
-112780	
 112782	contr
 112788	contr
 contr
-112796	
 112812	contr
 112815	contr
-
 112822	contr
 112828	contr
-112842	
 112855	contr
 112860	contr
 112868	contr
@@ -9547,77 +5666,49 @@ contr
 112985	contr
 113002	contr
 113007	indeclform
-113015	
 113022	contr
-113030	
-113051	
-113055	
 113057	contr
 113083	contr
-113090	
-113130	
-113172	
 113183	indeclform
-113197	
 113199	contr
 113214	contr
 113220	contr
 113229	contr
 113232	contr
-113238	
+113238	indeclform
 113251	contr
-113266	
 113270	contr
 113275	contr
 113292	contr
-113297	
 113301	contr
 113311	contr
-113314	
 113323	contr
-113328	
 113330	contr
 113336	contr
 113349	contr
-113351	
 113362	contr
-113367	
-113384	
 113405	contr
-113417	
 113422	contr/nu_movable
 113425	contr
 113433	contr
-113441	
-
-113458	
 113481	contr
-113496	
-contr
+113497	contr
 113514	contr
 113523	proclitic/indeclform
-113527	
 113532	contr
 113535	contr
 113551	contr
 113557	contr
 113564	contr
-113567	
 113571	contr
-
 113574	contr
-113578	
 113592	contr
 113604	contr
 113607	contr
 113611	contr
-113614	
-113618	
 113654	contr
-113663	
 113665	contr
 113672	contr
-113694	
 113705	contr
 113730	contr
 113750	contr
@@ -9628,9 +5719,7 @@ proclitic/indeclform
 113776	contr
 113786	contr
 113799	contr
-113805	
 113809	contr
-113811	
 113828	contr
 113830	contr
 113832	contr
@@ -9644,22 +5733,12 @@ proclitic/indeclform
 113930	contr
 113955	contr
 113958	contr
-113967	
 113970	contr
 113995	contr
-114006	
 114034	contr
-114053	
-114060	
-114069	
-114076	
 114085	contr/nu_movable
 114096	contr
-114104	
 114106	contr
-114122	
-114131	
-114134	
 114147	contr
 114151	contr
 114153	contr/nu_movable
@@ -9668,23 +5747,18 @@ contr
 114213	contr
 114228	contr
 114274	contr
-114286	
 114298	contr
 114301	contr
 114303	contr
 114329	contr
-114372	
 114425	contr
 114432	contr
 114439	contr
 contr
 114454	contr
 114457	contr
-114472	
 114476	contr
 114487	contr
-114504	
-114523	
 114530	contr
 114534	contr
 114537	contr
@@ -9693,171 +5767,109 @@ contr
 114561	contr
 contr
 114583	contr
-114588	
 114590	contr
 114597	proclitic/indeclform
 114599	contr
 114613	contr
 114654	contr
-114663	
 114683	proclitic/indeclform
 114697	contr
-114715	
 114726	contr/nu_movable
 114732	contr
 114737	contr
-114744	
 114757	contr
 contr
 114777	contr
 114789	contr
 114798	contr
 114811	contr
-114814	
+114814	contr
 114832	contr
-114855	
 114860	contr
 114867	contr
 114901	contr
 114924	contr
 114931	proclitic/indeclform
 114934	contr
-114941	
-114953	
-114981	
-114989	
 115009	contr
 115043	late
-115048	
-115060	
-115065	
 115115	contr
 contr
 115122	contr
 115126	contr
-115129	
 115135	contr
 115142	contr
-115144	
-115152	
 115164	contr
 contr
-115168	
 115170	contr
 115184	contr
 contr
 115190	contr
-115192	
-
-115204	
-
-115207	
+115193	indeclform
 115231	contr
 115245	contr
-115261	
+115261	indeclform
 115263	contr
 115266	contr
-115272	
 115284	contr
 115286	contr
-115291	
 115303	contr
 115307	contr
 115335	contr
 115338	contr
-115346	
-115349	
 115356	indeclform
 115359	contr
-115363	
 115372	contr
 115379	proclitic/indeclform
-
-115391	
 115416	contr
-115426	
 115438	contr
 115479	contr
 115488	contr
 115500	contr
-115531	
 115537	contr
-115543	
-115545	
 115562	contr
-115577	
-115584	
 115592	contr
-115595	
 115598	contr
 115610	contr
 contr
 115614	contr
 115642	contr
 115649	contr
-115654	
-115656	
 115658	contr
 115661	contr
 115664	contr
 contr
 115672	contr
-
-
-115679	contr/r_e_i_alpha
 115681	contr
 115694	contr
 115703	contr
-115705	
-115717	
 115719	contr
 115728	contr
-115778	
 115780	contr
 115785	contr
 115787	contr
-115792	
-115817	
 115821	contr
-
 115824	contr
 115828	contr
 115832	contr
 115848	contr
-115855	
 115877	contr
 115880	contr
-115887	
-115898	
-115902	
-proclitic/indeclform
-115908	
-115911	
-115923	
+115903	proclitic/indeclform
+115908	contr
 115925	contr
-
 115932	contr
-115938	
 115942	contr
-
 115953	contr
 115955	contr
-115975	
-116025	
 116031	contr
 contr
-116036	
-116047	
 116076	contr
 116087	contr
-116090	
 116096	contr
-116119	
-116138	
 116142	contr
 116154	contr
 116170	contr
-
 116177	contr
 116179	contr
 contr
@@ -9865,89 +5877,63 @@ contr
 116212	contr
 116217	contr
 116231	indeclform
-116242	
-116255	
 116279	contr
-116291	
 116329	contr
 116341	contr
-116375	
-116402	
+116375	contr
 116404	contr
-116422	
-116427	
 116433	contr
 116451	contr
 116471	contr
 116476	contr
 116478	contr
 116506	contr
-
 116533	contr
 116580	contr
-116584	
 116590	contr
-116599	
+116599	contr
 116607	contr
 116625	contr
 contr
 116630	contr
-116660	
 116687	contr
 116721	contr
-116736	
-116746	
+116736	contr
 116763	contr
 116771	contr
 116778	contr
 116783	contr
 116788	contr
-116790	
 116821	contr
-116826	
 116831	contr
 116833	contr
 116863	contr
 116874	contr
 116880	contr
-116892	
 116906	contr
-116914	
-116946	
 116958	contr
 116977	contr
-116980	
-116993	
+116993	contr
 117018	contr
 117028	contr
-117052	
-117060	
 117110	contr
 117114	contr
 117119	contr
-117132	
 117151	contr
 117161	contr
 contr
 117185	contr
 117238	contr
 117244	contr
-117264	
-117273	
-117277	
+117264	indeclform
+117277	indeclform
 117318	poetic
 117322	poetic
-117338	
 117362	contr
-117385	
-117423	
-117453	
-117460	
 117468	contr
 117485	contr
 117507	contr
 117511	contr
-117521	
 117523	contr
 117539	contr/nu_movable
 117568	contr
@@ -9956,123 +5942,75 @@ contr
 117585	nu_movable
 117599	contr
 contr
-117602	
-117612	
-117617	
+117612	indeclform
+117617	indeclform
 117629	contr
-117639	
 117653	contr
-117675	
-117685	
-
-117689	
-117733	
-117736	
-117751	
+117675	indeclform
 117758	contr
-117770	
-117793	
-117800	
-117804	
-117828	
-117843	
 117852	r_e_i_alpha
 117860	contr
-117869	
 117873	contr
 contr
 117903	contr
-117927	
-
 117968	contr
 117973	contr
 117977	contr
 118003	contr
 118008	contr
-118010	
 118017	contr
-
 118023	contr
 118035	contr
-118038	
 118041	contr
 118055	contr
 118057	contr
-118077	
 118090	contr
-118098	
 118105	contr
 118108	contr/nu_movable
-118136	
+118136	contr
 118141	contr
 118170	contr
-118201	
-118211	
-118245	
 118254	contr
 118267	contr
-118287	
-
+118287	contr
 118293	contr
-118299	
-118306	
 118308	contr
 118335	contr
 118344	contr
 118351	contr
-118373	
-118378	
+118373	contr
 118399	contr
 118401	contr
-118409	
-contr
-118426	
-
+118410	contr
 118441	contr
 118445	contr
-118463	
 118469	contr
 contr
-118472	
-118482	
 118503	contr
 118515	contr
 118521	contr
 118523	contr
-118527	
 118534	contr
 118545	contr
-118568	
 118579	contr
 118611	contr
-118620	
-118623	
 118638	contr
 118669	contr
-118673	
-118675	
 118685	contr
 118744	contr
-
-118769	
 118772	contr/short_subj
 118782	contr
-118817	
 118838	contr
 118849	contr
 118873	contr
 118889	contr
 118915	contr
 118926	contr
-118928	
 118944	contr
 118981	contr
 119036	contr
-119046	
-119083	
-119086	
+119086	contr
 119103	contr
-119111	
 119127	contr
 119136	contr
 119138	contr
@@ -10083,18 +6021,11 @@ contr
 119253	contr
 119255	contr
 119300	contr
-119302	
 119334	contr
 119356	poetic
-119359	
 119363	contr
 119366	contr
-119372	
-119393	
-
 119411	contr/poetic
-119413	
-119416	
 119434	contr
 119438	contr
 contr
@@ -10103,33 +6034,24 @@ contr
 119462	contr
 contr
 119467	contr
-119488	
-119508	
+119488	indeclform
 119516	contr
-119568	
 119570	contr
 119575	contr
-119577	
 119617	contr
 119619	contr
 119625	contr
 119628	contr
-119659	
-contr
+119660	contr
 119663	contr
 119683	contr
 119694	contr
-119716	
 119719	contr
-119733	
-119741	
 119751	contr
-119767	
 119776	contr
 119781	contr
 119783	contr
-119785	
-119866	
+119866	indeclform
 119875	contr
 119878	contr
 119880	contr
@@ -10137,57 +6059,33 @@ contr
 119887	contr
 119890	contr
 119901	contr
-119905	
-119913	
 119937	contr
 119958	contr
 119966	contr
-119979	
-120000	
-120008	
 120012	indeclform
-120017	
 120041	contr/short_subj
 120056	contr
 120061	contr
-120072	
 120085	contr
 120091	contr
 120117	contr
 120133	contr
 120136	contr
 120141	contr
-120149	
-120151	
-120164	
 120166	contr
 120191	contr
 120199	contr
-120201	
-120231	
 120237	contr
-120246	
 120285	contr
-120297	
-120300	
-120311	
-120316	
-120318	
 120336	contr
-120341	
 120353	contr
 120379	contr
 120381	contr
-120415	
 120419	contr
-120432	
 120435	contr
-120437	
-120468	
+120437	contr
 120470	contr
 120477	contr
-120494	
-120516	
 120521	contr
 120549	contr/nu_movable
 120556	contr
@@ -10195,207 +6093,128 @@ contr
 120574	contr
 120580	contr
 120588	contr
-120601	
 120643	contr
 120655	contr
 120679	contr
 contr
 120691	contr
 120699	contr
-120716	
-120722	
+120716	indeclform
 120732	contr
-120739	
-120744	
-120749	
 120751	contr
 contr
 contr
-120763	
-120773	
-120776	
 120793	contr
 120799	contr
-120872	
 120876	contr/nu_movable
 120890	contr/nu_movable
 120907	contr
-120911	
-
-120914	
-contr
-120968	
+120915	contr
 120989	contr
-120991	
 121004	contr
 121008	contr
 121013	contr
 contr
 121042	contr
 121051	contr
-121056	
 121063	contr
-121067	
 121087	contr
 121090	nu_movable
-121139	
-121141	
 121154	contr
-121167	
 121259	contr
 contr
-121275	
-121280	
-121286	
-121290	
-121297	
-contr
+121298	contr
 121322	contr
-121334	
-121339	
 121341	late
-121347	
-121353	
+121347	contr
 121359	contr
 121364	contr/nu_movable
 contr
 121374	r_e_i_alpha
 121376	contr
 121400	contr
-121404	
-121413	
 121419	contr
 contr
 121436	contr
 121439	contr
 121452	contr
-121471	
 121477	contr
 121482	contr
 contr
 121496	contr
 121499	contr
-121514	
-121530	
-121553	
-121556	
 121558	contr
 121561	contr
 121570	contr
 contr
-121577	
-
 121581	contr
-121593	
-121602	
 121606	contr
-121644	
-contr
+121645	contr
 121647	short_subj
 121650	contr
 121654	contr
 121661	contr
 121664	contr/short_subj
 121674	contr
-121693	
-121716	
-121719	
 121737	contr
-121758	
 121798	contr
-121835	
 121841	contr
-121867	
 121871	contr
-121877	
-121884	
 121900	contr
 121909	contr
 121915	contr
 121932	contr
 121944	contr
-121974	
+121974	indeclform
 indeclform
 121985	contr
-121993	
 122012	contr
 122032	contr
 122046	contr
-122050	
-122068	
-122076	
+122050	indeclform
 122087	contr
-122105	
-contr
+122106	contr
 122112	contr
-122114	
 122124	contr
-122127	
-122129	
 122132	contr
 122155	contr
 122175	contr
 122191	contr
-122193	
 122204	contr
-122208	
-122223	
 122231	contr
 122233	contr
-122235	
 122241	contr
-122249	
 122260	contr
 122267	contr
-122279	
 122304	contr
 122306	proclitic/indeclform
-122310	
 122319	contr
 122321	proclitic/indeclform
 contr/nu_movable
-122341	
 122355	contr
 contr
-122366	
-contr
+122367	contr
 122379	contr
-122394	
 122407	contr
 122409	contr
 122421	contr
 122428	contr
-122436	
 122441	contr
 122443	contr
-122454	
 122477	contr
-122479	
-contr
+122480	contr
 122482	contr
-122503	
 122507	contr
 contr
-122564	
 122572	contr
 122582	contr
-122585	
 122589	contr
-122591	
-
 122631	contr
 122673	contr
 122689	contr
 122696	contr
 122706	contr/nu_movable
-122712	
-122717	
 122720	contr
-
-
-122724	
-
-122727	
 122739	contr/nu_movable
 122750	contr
 122759	contr
@@ -10403,37 +6222,24 @@ contr
 122771	contr
 contr
 122777	contr
-122779	
 122798	contr
-122806	
 122808	contr
-122814	
-122830	
-122872	
+122872	contr
 122902	contr
-
 122911	contr
-122913	
 122918	contr/nu_movable
 122922	indeclform
-122926	
 122929	contr
 contr
 contr
 contr
 122939	contr
 122947	contr
-122971	
 122973	contr
-122985	
 122991	contr/nu_movable
-122997	
-123011	
 123021	contr
 123039	contr
-123052	
 123066	contr
-123073	
 123096	contr
 123103	nu_movable
 123107	contr
@@ -10441,8 +6247,6 @@ contr
 123116	contr
 123118	contr
 contr
-123125	
-123136	
 123159	contr
 123170	contr
 123179	contr
@@ -10451,7 +6255,6 @@ contr
 123237	contr
 123255	contr
 contr
-123261	
 123269	contr
 contr
 123276	contr
@@ -10463,85 +6266,51 @@ contr
 123324	contr
 123345	contr/nu_movable
 123366	contr
-123369	
-123387	
-123391	
 123398	contr
 123413	contr
-123418	
-contr
+123419	contr
 123422	contr
-123436	
-123458	
 123464	contr
 123467	contr
-123479	
 123498	contr
-123526	
 123542	contr
-123545	
 123555	contr
 123564	contr
 123577	contr
 123612	contr
 123615	contr
-123618	
 123621	contr
 123627	contr
 contr
 contr
-123643	
-123645	
-123652	
 123669	contr
-123672	
 123677	contr
 123684	contr
-123694	
 123696	contr
 123701	contr
 contr
 123729	contr
-123735	
-
-123738	
-123748	contr/r_e_i_alpha
 123752	contr
 123757	contr
 123767	contr
-123786	
 123808	contr
-123820	
 123822	contr
 123826	contr
-123842	
-123849	
 123851	contr
-123862	
 123874	contr
-123889	
 123893	contr
-123925	
 123936	contr/nu_movable
 123940	contr
-123958	
 123970	contr
-123989	
 123991	contr
-124025	
 124067	contr
 124073	contr
 124075	contr
-124082	
-contr
+124083	contr
 124085	contr
 124087	contr
 124115	contr
 124123	contr
-124126	
-124140	
-124143	
-124152	
 124169	contr
 124176	contr
 contr
@@ -10550,44 +6319,33 @@ contr
 124241	contr
 124245	contr
 124258	contr
-124267	
 124269	contr
 124274	contr
 124283	contr
 124290	contr
 124328	contr
 124334	contr
-124351	
-124384	
-contr
+124385	contr
 124405	contr
-124409	
-124431	
 124444	contr
 124463	contr
 124471	contr
 124473	contr
 124477	contr
 124484	contr
-124495	
 124497	contr
 124510	contr
-124513	
-124516	
-124543	
-124563	
+124516	indeclform
 124566	contr
 124573	contr
 contr/poetic
 124582	contr
-124586	
 124591	contr
 124593	contr
 124600	contr
 124630	contr
 124643	contr
 124656	contr
-124685	
 124688	contr
 124691	contr
 124702	indeclform
@@ -10606,17 +6364,13 @@ contr/poetic
 124787	contr
 124803	contr
 124807	contr
-124827	
 124837	proclitic/indeclform
-124850	
 124863	contr
 124867	contr
 124876	contr
-124892	
+124892	indeclform
 124911	contr
-124930	
-124948	
-124995	
+124930	indeclform
 125001	contr
 125011	contr
 125019	contr
@@ -10625,60 +6379,43 @@ contr/poetic
 125082	contr
 125105	contr
 125107	contr
-125109	
+125109	indeclform
 contr
 125132	contr
 125145	contr
-125181	
 125183	contr
 125197	contr
-125234	
-125242	
-125266	
 125269	contr
 125276	contr
 125297	contr
 125302	contr
-125305	
-125318	
-125339	
 125356	contr
 125362	contr
 125365	contr
 125371	contr
 125379	contr
 125381	contr
-125387	
 125399	contr
 125404	contr
 125409	r_e_i_alpha
 125411	contr
 125417	contr
 125428	contr
-125432	
 125436	contr
 contr
-125441	
 125552	contr
 125560	contr
 125569	contr
 125615	contr
-125636	
 125656	contr
 125658	contr
 125667	contr
 125669	contr
-125679	
-125687	
 125694	contr
-125698	
 125712	contr
 125721	contr
 125723	contr
-125748	
 125769	contr
-125797	
-125807	
 125812	contr
 125826	contr
 125832	contr
@@ -10687,24 +6424,17 @@ contr
 125855	contr
 125864	contr
 125869	contr
-125873	
 125879	contr
 125883	contr
 125897	contr
-125905	
-125920	
-
-125927	
+125905	indeclform
+125921	indeclform
 125932	contr
 125942	contr
 125947	contr
 125952	contr
 contr
 125971	contr
-125981	
-125998	
-126015	
-126023	
 126025	contr
 contr
 126031	contr
@@ -10714,10 +6444,8 @@ contr
 126061	contr
 126074	contr
 126076	contr
-126083	
 126086	contr
 126098	contr
-
 126118	contr
 126132	contr
 126142	contr
@@ -10727,67 +6455,43 @@ contr
 126190	contr
 126202	contr
 126225	contr
-126247	
 126261	contr
-126266	
 126274	contr
-126289	
 126291	contr
-126295	
 126298	contr
 126303	contr
 126306	contr
-126311	
 126314	contr
-126318	
-126322	
-126328	
 126330	contr
-126353	
-126359	
 126386	contr
-
 126391	contr
 contr
 126398	contr
-126401	
-126427	
 126440	contr
 126448	contr
 126453	contr
-126465	
 126467	contr
-126474	
 126481	contr
 126485	contr
 126491	contr
-126496	
 126523	contr
-126527	
 126536	contr
 126544	contr
 126546	contr
 126552	contr
 126556	contr
-126558	
 126569	contr
-126576	
 126582	contr
 126592	contr
-126594	
-contr
+126595	contr
 126610	contr
 126615	contr
 126618	contr
 126627	contr
 126631	contr
-126634	
-contr
-126645	
+126635	contr
 126647	contr
 126666	contr
-
-126674	
 126685	contr
 126698	contr
 126763	contr
@@ -10803,9 +6507,6 @@ contr
 126896	contr
 126903	proclitic/indeclform
 126907	contr
-126909	
-126918	
-126935	
 126955	contr
 126963	contr
 126976	contr
@@ -10814,29 +6515,20 @@ contr
 127030	contr
 127037	contr
 127044	contr
-127051	
-127071	
-contr
-127075	
+127072	contr
 127085	contr
 127092	contr
 contr
-127100	
 127105	contr
-127107	
 127114	contr
 127120	contr
-127126	
 127144	contr
 127172	proclitic/indeclform
 127174	contr
 127180	contr
-127189	
 127191	contr
 127204	contr
-127225	
 127237	contr
-127243	
 127247	contr
 127269	contr
 127279	contr
@@ -10847,87 +6539,53 @@ contr
 127328	contr
 127338	contr
 127340	contr
-
 127349	contr
 127374	contr
 127379	contr
-127383	
 127385	contr
-127387	
 127391	proclitic/indeclform
 127416	contr
 127421	contr
 127428	contr
-127435	
 127457	contr
-127464	
 127485	contr
-127513	
 127540	indeclform
 contr
-127543	
 127552	contr
-127563	
-127568	
 127596	contr
-127599	
 127605	contr
 127618	contr
-127620	
-127635	
 127640	contr
 127668	contr
-127670	
 127687	contr
 127701	contr
 127727	contr
-127736	
 127743	contr
-127761	
 127789	contr
 127802	contr
 127812	contr
 127827	contr
-127832	
 127843	contr
 127870	contr
 contr
 127877	contr
 127887	contr
 127895	contr
-127909	
-127914	
-127920	
-127925	
 127929	contr
 127960	proclitic/indeclform
 contr
-127968	
 127981	contr
-128016	
-128026	
+128026	indeclform
 128034	contr
 proclitic/indeclform
-
 128051	contr
-128076	
-128095	
-128113	indeclform
 128118	indeclform
-128127	
-128135	
-128150	
-128152	
-128164	
+128135	indeclform
 128168	contr
-128203	
-128239	
-128260	
 128263	contr
 128275	contr
 128287	contr
 128293	contr
-128333	
 128349	contr
 128355	contr
 128367	contr
@@ -10935,95 +6593,59 @@ proclitic/indeclform
 128376	proclitic/indeclform
 128379	proclitic/indeclform
 128388	contr
-128393	
-128407	
 128415	contr
-128425	
 128433	contr
 128443	contr
 contr
 128447	contr
 128454	contr
-128458	
-128462	
-128479	
 128486	contr
-128489	
-128492	
-contr
-128502	
-128505	
+128489	indeclform
+128493	contr
 128517	contr
 128522	contr
 128525	contr
 128534	proclitic/indeclform
-
-128544	
 128563	contr
-128573	
 128584	contr
 contr
 128591	contr
-128599	
 128606	contr
 128612	proclitic/indeclform
 128629	contr
 contr
 128634	contr
-128649	
 128653	contr
 128659	contr
 128661	contr
-128671	
 128680	contr
 128717	contr
-128721	
-128736	
+128721	indeclform
 128738	contr
-128753	
-
-128779	
-128800	
-128818	
 128822	contr
 128835	contr
 128837	contr
 contr
-128843	
 128849	contr
 128853	contr
 128857	contr
 128859	contr
-128862	
-contr
-128866	
-128873	
-128879	
-128892	
-128896	
+128863	contr
+128866	indeclform
 128914	contr
 128916	nu_movable/short_subj
-128930	indeclform
 128932	contr
 128937	contr
-128951	
 128971	nu_movable
 128988	contr
 128999	contr
-129016	
-129018	
-129036	
-129048	
 129055	contr
 129060	contr
 contr
 129078	proclitic/indeclform
 129084	contr
-129087	
 129089	contr
-129100	
-contr
-129112	
+129101	contr
 129117	contr
 129123	proclitic/indeclform
 129130	nu_movable/short_subj
@@ -11031,26 +6653,16 @@ contr
 129136	contr
 129139	contr
 129144	contr
-129162	
-129167	
 129169	contr
-129178	
-129190	
 129204	contr
 129210	contr
 contr
-129216	
+129217	contr
 contr
-contr
-129223	
-129248	
 129255	contr
 129263	contr/nu_movable
-
 129266	contr
 contr
-129281	
-129296	
 129304	contr
 129312	contr
 129314	contr
@@ -11059,102 +6671,55 @@ contr
 129345	contr
 129354	contr
 129357	contr
-129364	
-129372	
-129384	
 129398	contr
 contr
 contr
-129459	
-129470	
 129480	contr
 129486	contr
 129491	contr
 contr
-129499	
-
 129504	contr
 129507	contr
-129509	
-129514	
 129516	contr
 129529	contr
-129540	
-129559	
-129585	
 129590	proclitic/indeclform
 contr
 129646	contr
 129663	contr
-129669	
 129672	proclitic/indeclform
 129678	contr
-129680	
-129686	
-129708	
-
-129715	
-129730	
-129742	contr
-129767	
+129767	indeclform
 129779	contr
 129781	contr
-129801	
 129808	contr/nu_movable
-129821	
 129835	contr
 129838	contr
-129848	
 129851	contr
-129859	
-129883	
 129902	contr
-129905	
-129918	
-129929	
-129936	
-129945	
 129962	contr
 129984	contr
-129996	
-130015	
-
-130023	
 130032	contr
-130044	
 130057	contr
-130073	
 130086	contr
 130093	contr
-130098	
+130098	indeclform
 130126	contr
 130128	contr
 130143	contr
-130186	
-130191	
 130211	contr
-130215	
 130236	contr
 130249	contr
 contr
 130274	nu_movable
 130290	contr
 130318	contr
-
 130326	contr
 130347	contr
-130359	contr
 130392	contr
 130402	contr
-130409	
 130413	contr
-130415	
-130421	
-130425	
-130460	
 130464	contr
 130507	contr
-
 130519	contr
 130555	contr
 130573	nu_movable
@@ -11163,43 +6728,25 @@ contr
 130605	contr
 130651	contr
 130654	contr
-130657	
 130688	contr
 130692	contr
 130708	contr
-130794	
-130798	
 130842	contr
-130844	
-
 130850	contr
 130902	indeclform
-130939	
-130942	
 130946	contr
-130963	
-130986	contr
-130993	
 130997	contr
 contr
-131000	
-131017	
-131029	
 131031	contr
 131049	contr
 131060	contr
 131066	contr
-131068	
 131080	contr
-131085	
 131087	contr
 131109	contr
 131135	contr
-131138	
 131156	contr
-131210	
 131213	contr
-131220	
 131225	contr
 131229	contr
 131231	contr
@@ -11208,7 +6755,6 @@ contr
 131268	contr
 131278	contr
 131288	contr
-131295	
 131323	contr
 contr
 131338	contr
@@ -11216,8 +6762,6 @@ contr
 131405	contr/nu_movable
 131426	contr
 131429	contr
-131440	
-131450	
 131459	contr
 131468	nu_movable/short_subj
 131481	contr
@@ -11227,79 +6771,54 @@ contr
 131500	contr
 131507	contr
 131525	contr
-131553	
 131572	contr
 contr
 131598	contr
 131602	contr
-131604	
 131606	contr
-
-131700	
 131703	contr
 131719	contr
 131745	contr
 131771	contr
 131775	contr/nu_movable
 131777	contr
-131788	
 131795	proclitic/indeclform
 131808	contr
 131833	contr
 131855	contr
-131882	
-131886	
-131890	
 131894	contr
 131903	contr
 131911	contr
-
 131914	proclitic/indeclform
 131918	contr
-131941	
-131956	
 131998	contr
 132013	contr
-132019	
-132052	
 132060	contr
 132067	contr
-132085	
+132085	indeclform
 132102	nu_movable
 132104	contr
-132107	
 132130	contr
-132160	
-132162	
 132172	nu_movable/short_subj
 132183	contr
-132189	
 132191	contr
 132219	contr
 132225	contr
-
 132239	contr
 132243	contr
-132253	
 132256	contr
-132271	
 132350	contr
 132368	contr
-132381	
 132392	contr
 132395	contr
 132421	contr
-132424	
 132441	contr
 132445	contr
 132455	contr
-132473	
 132477	contr
-132496	
 132498	contr
-132504	
 132507	contr
-132525	
+132525	indeclform
 132530	contr
 132543	contr
 132548	contr
@@ -11316,87 +6835,51 @@ contr
 132677	contr/short_subj
 132681	contr
 132683	contr
-132694	
 132706	contr
-132727	
-132739	
 132741	contr
 132747	contr
 132809	contr
-132831	
-132841	
 132843	contr
-132861	
 132863	contr
-132872	
-132878	
 132891	contr
-
 132895	contr
 132920	contr
 132950	contr
-132953	
 132966	contr
 132968	contr
-133003	
 133036	contr
 133058	contr
 133065	contr
 133067	contr
-133081	
-
+133081	indeclform
 133110	contr
 133126	contr
 133144	contr
-133167	
-133175	
-133187	
-133194	
 133208	contr
-133222	
 133226	contr/nu_movable
 133250	contr
 133254	contr
 133263	contr
 133269	contr
 133282	contr
-133295	
 133303	contr
-133309	
 133321	contr/nu_movable
-133325	
 133331	contr
-133336	
-133340	
 133343	contr
-133348	
-133352	
-133358	
 133361	proclitic/indeclform
-133365	
 133379	contr
 133399	contr
 133406	contr
-133443	
-133454	
 133479	contr
 133527	contr
 133534	contr
 133537	contr
-133542	
-133560	
-133564	
 133567	contr
 133593	contr
 133606	contr
-133652	
-133661	
 133665	contr
-133674	
 133685	contr
 contr
-133693	
-
 133701	contr
 133703	contr
 133723	contr
@@ -11404,23 +6887,18 @@ contr
 133749	contr
 133751	contr
 133759	contr
-133767	
+133768	contr
 contr
-contr
-133771	
 133812	contr
 133819	contr
 133829	contr
 133834	contr
 133840	indeclform
-
 133848	contr
-133868	
 133877	contr
 133904	contr
 133960	contr
 133976	contr
-133982	
 134016	contr
 134018	contr
 134036	contr
@@ -11429,58 +6907,44 @@ contr
 134102	contr
 134109	contr
 134111	contr
-134118	
-134120	
 134123	contr
 134133	contr
 contr
-134145	
 134148	contr
 134158	contr/nu_movable
-
-contr
+134160	contr
 134164	contr
 134175	contr
 134210	contr
-134216	
 134220	contr
 134222	contr
 134239	contr
 134259	contr
-134273	
-134276	
 134278	contr
 134280	contr
 134331	contr
 134353	contr
 134355	contr
 134364	contr
-134372	
+134372	indeclform
 134380	contr
 134382	contr/poetic
 134389	contr
-134396	
+134396	indeclform
 134407	contr
 134429	contr
 134437	contr
 134441	contr
 134451	contr
-134467	
-134473	
-134481	
 134483	contr
 134491	contr
 134527	contr
 134555	contr
 134558	proclitic/indeclform
 134576	contr
-134579	
 134594	contr
-134630	
 134638	contr
 134668	contr
-134671	
-134677	
 134679	contr
 134685	contr
 134687	contr
@@ -11488,92 +6952,66 @@ contr
 134700	contr
 134707	contr
 134714	contr
-134716	
 134735	contr
-134740	
 134758	contr
 134775	contr
-134783	
 134801	contr
-134805	
+134805	indeclform
 134807	contr
 134820	contr
 134862	contr
-134881	contr/r_e_i_alpha
 134885	contr
 134904	contr
-134910	
+134910	indeclform
 134923	contr
 134942	contr
-134948	
-134978	
+134948	indeclform
 134991	contr
-134997	
+134997	indeclform
 135013	contr
 135016	contr
 135018	proclitic/indeclform
 135020	contr
-135024	
 135027	contr
 contr
 135045	contr
-135062	
 135073	contr
 135075	contr
-135077	
 135081	proclitic/indeclform
-135094	
 135097	contr
 135099	proclitic/indeclform
 135121	contr/nu_movable
-135143	
 135150	contr
 135152	contr
-135165	
 135179	contr
 135181	contr
-135192	
-135197	
-
 135205	contr
 135221	contr
 135223	contr
 135241	contr
 135257	contr
-
 135286	contr
 135303	contr
 135315	contr
 135330	contr
-135332	
-135337	
-135345	
-135397	
 135421	contr
 135424	contr
 135440	contr
 135442	contr
 135444	contr
 contr
-135451	
 135471	contr
 135473	contr
 135475	contr
-135483	
 135503	contr
 135510	contr
 135512	contr
-135517	
-135527	
+135517	indeclform
+135527	indeclform
 135535	contr
-135544	
 135564	contr
-135591	
-135603	
-135612	
 135614	contr
 135619	contr
-135625	
 135667	contr
 135744	contr
 135761	contr
@@ -11581,28 +7019,18 @@ contr
 135772	contr
 135781	contr/poetic
 135783	contr
-135803	
 135814	contr
-135842	
-135862	
-135890	
 135897	contr
 135916	contr
 135921	contr
 contr
-
 135939	contr
 135967	contr
-135970	
-135984	
 135988	contr
 135991	contr
 135997	contr
-135999	
-136002	
 136007	contr
 136012	contr
-136020	
 136051	contr/short_subj
 136089	contr
 136101	contr
@@ -11611,85 +7039,54 @@ contr
 136137	contr
 136139	contr
 136143	contr
-136158	
-136168	
 136181	contr
 136188	contr
 136198	contr
 136210	contr
-136213	
-136231	
-136259	
 136314	contr
 136322	contr
-136352	
-136364	contr
 136375	contr
 136379	contr
-136400	
-136405	
 136409	contr
-136440	
 136445	contr
 136451	contr
-136466	
 136475	contr
 contr
 136481	contr
-136490	
 136496	contr
 136547	contr
 136558	contr
 136566	contr
 136575	contr
 136606	contr
-136628	
 136645	contr
-136726	
-136749	
 136756	contr
 136759	contr
-136775	
-136777	
 136779	contr
-136784	
-136800	
-136824	
-136833	
 136835	contr
-136838	
 136843	contr
 contr
 136876	contr
 136900	contr
 136930	contr
-136935	
 136942	contr
-136973	
 136978	contr
 136981	contr
 136984	contr
 136986	contr
 137014	proclitic/indeclform
 137019	contr
-137060	
 137066	contr
-137110	
-137138	
 137142	contr
-137195	contr
-137200	
+137200	indeclform
 137206	contr
-137213	
 137238	contr
 137240	contr
 137251	contr
 137261	nu_movable/short_subj
-137264	
 137275	contr
 137295	contr
 137298	contr
-137313	
 137342	contr
 137353	contr
 137359	contr
@@ -11697,31 +7094,20 @@ contr
 137397	contr
 137412	contr
 137427	contr
-137432	
 137447	contr
 contr
 137457	contr
 137459	contr/poetic
 137468	proclitic/indeclform
 contr
-137474	
-137487	
-137500	
 137503	contr
-137511	
 137516	contr
 137521	contr
 137523	contr/poetic
-137534	
-137536	
-137572	
 137632	contr
 137644	contr
-137646	
 137650	contr
 137680	nu_movable
-137689	
-137697	
 137709	contr
 137711	contr
 137714	contr
@@ -11729,6 +7115,5 @@ contr
 137730	contr
 137733	contr
 137739	poetic
-137762	
-137766	
+137766	indeclform
 137776	contr

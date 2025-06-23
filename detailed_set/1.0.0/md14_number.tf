@@ -11,15 +11,13 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:23+00:00Z
+@dateWritten=2025-06-22T22:25:25+00:00Z
 
 574	singular
 914	singular
 1043	plural
 1258	singular
-1446	
 1484	singular
-1647	
 1683	singular
 1743	singular
 1924	singular
@@ -31,8 +29,6 @@
 3221	plural
 3458	singular
 3824	singular
-3943	
-4091	
 4516	singular
 4537	singular
 4647	plural
@@ -58,9 +54,7 @@
 7828	singular
 7852	singular
 7935	singular
-8400	
 9008	singular
-9305	
 9498	singular
 9752	singular
 10264	singular
@@ -70,7 +64,6 @@
 10517	singular
 10705	singular
 10876	singular
-10935	
 11121	singular
 11135	singular
 11163	singular
@@ -100,23 +93,16 @@
 18537	singular
 19409	singular
 19430	singular
-19666	
 19892	singular
 19900	singular
 20131	plural
 20300	plural
 20512	singular
 20572	singular
-20661	
-20773	
-21104	
 21453	singular
-22252	
 22968	singular
-23244	
 23703	singular
 24496	singular
-24553	
 24724	singular
 24735	singular
 24880	singular
@@ -143,7 +129,6 @@
 29136	singular
 29163	singular
 29482	singular
-29601	
 29650	singular
 29917	singular
 30145	singular
@@ -158,7 +143,6 @@
 35145	singular
 35548	singular
 35610	plural
-35966	
 36632	singular
 36728	singular
 37112	singular
@@ -229,22 +213,16 @@
 48146	singular
 48507	singular
 48921	singular
-49434	
 49481	singular
 49514	singular
 49546	singular
 49659	singular
 50353	singular
 50398	singular
-50756	
 51541	plural
 51558	plural
 52151	singular
 52171	singular
-52700	
-52947	
-53024	
-53099	
 53471	singular
 53653	singular
 53686	singular
@@ -257,7 +235,6 @@
 57033	singular
 57041	plural
 57207	singular
-57225	
 58644	singular
 58753	singular
 60022	singular
@@ -268,13 +245,11 @@
 60493	singular
 60620	plural
 60668	singular
-61522	
 61607	singular
 61746	singular
 61791	singular
 61808	singular
 61912	singular
-61923	
 62566	singular
 62582	singular
 62599	singular
@@ -294,8 +269,6 @@
 68218	singular
 68450	singular
 68524	singular
-69651	
-69785	
 69860	singular
 69902	singular
 70057	singular
@@ -303,10 +276,8 @@
 70743	plural
 71230	singular
 71281	plural
-71291	
 71729	singular
 71970	singular
-72345	
 73871	singular
 74013	singular
 74240	plural
@@ -325,12 +296,10 @@
 77977	singular
 78139	singular
 78807	singular
-79026	
 79152	singular
 79225	singular
 79245	singular
 79535	singular
-79673	
 79795	plural
 80636	plural
 80985	singular
@@ -396,7 +365,6 @@
 94687	singular
 95459	plural
 95622	singular
-95921	
 96146	singular
 96356	singular
 96526	singular
@@ -426,7 +394,6 @@
 101178	singular
 101928	singular
 102077	singular
-102326	
 102769	singular
 102816	singular
 103292	singular

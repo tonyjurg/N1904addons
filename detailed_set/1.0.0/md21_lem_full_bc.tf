@@ -11,29 +11,29 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:27+00:00Z
+@dateWritten=2025-06-22T22:25:28+00:00Z
 
-1446	pe/ra
-1647	pe/ra
-3943	pe/ra
-4091	pe/ra
+1446	pera/w2
+1647	pera/w2
+3943	pera/w2
+4091	pera/w2
 4516	neio/s
 4537	neio/s
-8400	pe/ra
-9305	pe/ra
-10935	pe/ra
+8400	pera/w2
+9305	pera/w2
+10935	pera/w2
 11994	e)laia/w
 14204	e)laia/w
 16185	e)laia/w
 19409	neio/s
 19430	neio/s
-19666	pe/ra
-20661	pe/ra
-20773	pe/ra
-21104	pe/ra
-22252	pe/ra
-23244	pe/ra
-24553	pe/ra
+19666	pera/w2
+20661	pera/w2
+20773	pera/w2
+21104	pera/w2
+22252	pera/w2
+23244	pera/w2
+24553	pera/w2
 25434	e)laia/w
 26062	a)gapa/zw
 26821	e)laia/w
@@ -44,7 +44,7 @@
 33678	neio/s
 33701	neio/s
 33711	neio/s
-35966	pe/ra
+35966	pera/w2
 37632	a)na/-la/zw
 42922	diapera/w
 44695	e)laia/w
@@ -54,14 +54,14 @@
 46274	e)laia/w
 46880	e)laia/w
 48507	e)nanti/os
-49434	pe/ra
-50756	pe/ra
-52700	pe/ra
-52947	pe/ra
-53024	pe/ra
-53099	pe/ra
-57225	pe/ra
-61923	pe/ra
+49434	pera/w2
+50756	pera/w2
+52700	pera/w2
+52947	pera/w2
+53024	pera/w2
+53099	pera/w2
+57225	pera/w2
+61923	pera/w2
 66087	pro/s-doka/zw
 68218	a)nala/zomai
 68450	e)nanti/os

@@ -11,16 +11,16 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:23+00:00Z
+@dateWritten=2025-06-22T22:25:24+00:00Z
 
 574	a)gw=
 914	basilei/a_
 1043	liqw=n
 1115	suna/cei
 1258	liqoi/
-1446	pera_=n
+1446	pera=n
 1484	basilei/a_
-1647	pera_=n
+1647	pera=n
 1683	basilei/a_
 1743	basilei/a_
 1924	basileia=|
@@ -28,7 +28,7 @@
 1961	basilei+a=n
 2678	basilei/a_
 2930	katafronh/sei
-2937	dia/
+2937	di=a
 3096	basilei+a=n
 3221	katapath/sousin
 3458	basilei+a=n
@@ -37,11 +37,11 @@
 3572	poiw=n
 3596	a)nemoi=
 3824	basileia=|
-3943	pera_=n
+3943	pera=n
 4080	a)nemoi=
-4091	pera_=n
-4399	dia/
-4448	dia/
+4091	pera=n
+4399	di=a
+4448	di=a
 4516	ne/on
 4537	ne/on
 4647	a)naxwrei=te
@@ -57,10 +57,10 @@
 6480	basilei/a_
 6516	basilei/a_
 6545	diarpa/sei
-6561	dia/
+6561	di=a
 6814	pera/twn
 7027	spei_/rwn
-7121	dia/
+7121	di=a
 7405	basilei/a_
 7512	e)rw=
 7544	basilei/a_
@@ -71,18 +71,18 @@
 7797	basilei/a_
 7828	basilei/a_
 7852	basilei/a_
-7929	dia/
+7929	di=a
 7935	basileia=|
-8400	pera_=n
-8626	dia/
-8649	dia/
+8400	pera=n
+8626	di=a
+8649	di=a
 8699	timh/sei
 9008	kuri/wn
-9305	pera_=n
+9305	pera=n
 9498	a)gw=
 9752	basileia=|
-10081	dia/
-10092	dia/
+10081	di=a
+10092	di=a
 10202	a)llotriw=n
 10207	a)llotriw=n
 10264	basileia=|
@@ -90,10 +90,10 @@
 10310	basileia=|
 10491	e)nnea_/
 10517	e)nnea_/
-10701	dia/
+10701	di=a
 10705	basilei/a_
 10876	a)gw=
-10935	pera_=n
+10935	pera=n
 10984	katalei/yei
 11121	basilei+a=n
 11135	e)piqh=|
@@ -107,7 +107,7 @@
 12431	a)gw=
 12433	e)rw=
 12460	e)/rei
-12462	dia/
+12462	di=a
 12575	basilei+a=n
 12793	basilei/a_
 12857	basilei/a_
@@ -133,11 +133,11 @@
 17190	de/smion
 17457	a)_rh=|
 18537	basilei/a_
-19319	dia/
+19319	di=a
 19409	ne/on
 19416	r(h_/cei
 19430	ne/on
-19666	pera_=n
+19666	pera=n
 19892	basilei/a_
 19900	basilei/a_
 19954	diarpa/sei
@@ -146,19 +146,19 @@
 20512	basilei/a_
 20572	basilei+a=n
 20617	skia=n
-20661	pera_=n
+20661	pera=n
 20683	a)ne/mou
-20773	pera_=n
-21104	pera_=n
+20773	pera=n
+21104	pera=n
 21453	e)ksta/sei
-22252	pera_=n
-22526	dia/
-22909	dia/
+22252	pera=n
+22526	di=a
+22909	di=a
 22968	e)piqh=|
-23244	pera_=n
+23244	pera=n
 23703	basilei+a=n
 24496	basilei+a=n
-24553	pera_=n
+24553	pera=n
 24624	katalei/yei
 24724	basilei/a_
 24735	basilei+a=n
@@ -170,7 +170,7 @@
 25576	basilei/a_
 25912	e)rw=
 25940	e)/rei
-dia/
+di=a
 26062	a)gaph=ton
 26355	a)nasta_/sei
 26539	a)gapa=n
@@ -204,7 +204,7 @@ dia/
 32902	e)pitimw=n
 32952	basilei+a=n
 33524	a)llw=n
-33543	dia/
+33543	di=a
 33667	sumfwnh/sei
 33678	ne/on
 33685	r(h_/cei
@@ -218,7 +218,7 @@ dia/
 35145	basileia=|
 35548	basilei+a=n
 35610	spei_/rwn
-35966	pera_=n
+35966	pera=n
 35978	a)ne/mou
 36632	basilei+a=n
 36728	a)llw=n
@@ -239,7 +239,7 @@ dia/
 39101	pera/twn
 39702	e)/rei
 39858	e)rw=
-39909	dia/
+39909	di=a
 40057	basilei+a=n
 40076	basilei+a=n
 40131	a)nalu/shi
@@ -280,13 +280,13 @@ dia/
 44475	basilei+a=n
 44609	a)gw=
 44695	e)laiw/n
-44727	dia/
+44727	di=a
 44803	kataba/sei
 44807	e)laiw/n
 44865	liqoi/
 45053	a)gw=
 45078	e)/rei
-dia/
+di=a
 45092	kataliqa/sei
 45197	a)gaph=ton
 45411	e)nanti+o/n
@@ -311,7 +311,7 @@ dia/
 48146	basilei+a=n
 48507	e)nanti+o/n
 48921	nou=n
-49434	pera_=n
+49434	pera=n
 49481	a)gw=
 49514	a)gw=
 49546	a)gw=
@@ -319,7 +319,7 @@ dia/
 50353	basilei+a=n
 50398	basilei+a=n
 50668	poiw=n
-50756	pera_=n
+50756	pera=n
 51333	proskunh=tai
 51541	spei_/rwn
 51558	spei_/rwn
@@ -327,18 +327,18 @@ dia/
 52171	i)/dion
 52177	poiw=n
 52279	ti_mw=n
-52700	pera_=n
-52947	pera_=n
+52700	pera=n
+52947	pera=n
 52966	a)ne/mou
-53024	pera_=n
-53099	pera_=n
+53024	pera=n
+53099	pera=n
 53471	a)gw=
 53653	a)gw=
 53686	a)gw=
 53695	a)gw=
-53834	dia/
+53834	di=a
 54056	a)nabh=te
-54688	dia/
+54688	di=a
 54802	e)laiw=n
 55273	a)gw=
 55400	poiw=n
@@ -349,9 +349,9 @@ dia/
 57033	a)gw=
 57041	a)polw=ntai
 57207	a)gw=
-57225	pera_=n
+57225	pera=n
 57618	a)nasta_/sei
-58292	dia/
+58292	di=a
 58644	fula/cei+
 58649	dia_konh=|
 58666	dia_konh=|
@@ -371,7 +371,7 @@ timh/sei
 61791	a)gw=
 61808	a)gw=
 61912	a)gw=
-61923	pera_=n
+61923	pera=n
 62467	poiw=n
 62566	basilei/a_
 62582	basilei/a_
@@ -394,7 +394,7 @@ timh/sei
 67099	i)/dion
 67227	a)nani_a=
 67343	pei/rasai
-67398	dia/
+67398	di=a
 67439	a)/ndrwn
 67463	e)piskiash=|
 67834	a)/ndrwn
@@ -421,7 +421,7 @@ timh/sei
 72532	si_ga_/n
 72682	diakonia=n
 72902	peria_gw=n
-73804	*di/a_
+73804	dia/
 73871	mataiw=n
 74013	basilei+a=n
 74240	e)pi/stasqe
@@ -466,7 +466,7 @@ timh/sei
 82784	e)nantio/n
 82910	basilei+a=n
 83054	basilei+a=n
-83486	dia/
+83486	di=a
 83558	nou=n
 83661	poiw=n
 83823	fu/sei
@@ -474,8 +474,8 @@ timh/sei
 84173	a)gw=
 84226	suniw=n
 84240	poiw=n
-84722	dia/
-85074	dia/
+84722	di=a
+85074	di=a
 85238	a)ra_/
 85845	e)piqumia=n
 85867	e)piqumia=n
@@ -498,7 +498,7 @@ timh/sei
 88532	poiw=n
 88703	a)gapa=n
 89089	basilei/a_
-89336	dia/
+89336	di=a
 89824	a)gaph=ton
 89866	a)gaph=ton
 89880	a)gaph=ton
@@ -515,7 +515,7 @@ timh/sei
 91069	i)/dion
 91386	a)pollw=n
 91444	dokw/
-91556	dia/
+91556	di=a
 91566	a)gaph=ton
 91620	basilei/a_
 91751	ne/on
@@ -554,11 +554,11 @@ a)rotria=n
 96882	diakonia=n
 97211	prosw/pwn
 97306	sxh=te
-97580	e)nanti+o/n
+97580	e)nantio/n
 97591	katapoqh=|
 97620	a)gw=
 97953	xrw/meqa
-98057	dia/
+98057	di=a
 98061	diakonia=n
 98435	katapoqh=|
 98658	diakonia=n
@@ -580,10 +580,10 @@ a)rotria=n
 100697	pota/mwn
 100789	a)re/ta_
 100905	e)rw=
-101150	pa/lai
+101150	pala=|
 101178	a)gw=
-101385	dia/
-101928	e)nanti+o/n
+101385	di=a
+101928	e)nantio/n
 102077	fu/sei
 102326	katara=n
 102769	fu/sei
@@ -596,7 +596,7 @@ a)rotria=n
 103526	spei_/rwn
 103548	a)ra_/
 103627	a)gw=
-103918	dia/
+103918	di=a
 103920	a)gw=
 104148	fu/sei
 104354	poiw=n
@@ -614,7 +614,7 @@ a)rotria=n
 107355	metasxhmati/sei
 107436	e)rw=
 107474	nou=n
-107865	dia/
+107865	di=a
 107891	sune/sei
 107956	basilei+a=n
 108059	a)pokatalla/cai_
@@ -658,7 +658,7 @@ a)rotria=n
 115307	a)gaph=ton
 115545	poiw=n
 115672	diakonia=n
-115679	dia/
+115679	di=a
 115938	a)palla/chi
 116087	katasxw=men
 116212	katasxw=men
@@ -674,7 +674,7 @@ a)rotria=n
 121067	a)gw=
 121259	a)ne/mwn
 121334	fu/sei
-121347	i_)/ou
+121347	i)/ou
 121359	katarw/meqa
 121650	katalalei=te
 121654	kata_la/lwn
@@ -683,13 +683,13 @@ a)rotria=n
 122208	de/on
 122572	liqoi/
 122689	e)piqu_miw=n
-123052	e)nanti+o/n
+123052	e)nantio/n
 123066	a)gapa=n
 123170	katalalei=sqe
 123278	e)cousiw=n
 123422	dia_ko/nei
 123735	katarti/sei
-123748	dia/
+123748	di=a
 123989	basilei+a=n
 124283	kataponou/menon
 124543	i)/dion
@@ -730,7 +730,7 @@ a)rotria=n
 133479	nou=n
 133606	u(pa_gh=|
 134467	basilei/a_
-134881	dia/
+134881	di=a
 134885	e)rw=
 135024	basilei+a=n
 135062	kuri/wn

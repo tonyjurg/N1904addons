@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:23+00:00Z
+@dateWritten=2025-06-22T22:25:25+00:00Z
 
 574	verb
 914	verb
@@ -143,7 +143,7 @@
 29136	verb
 29163	verb
 29482	noun
-29601	noun other indeclinable
+29601	adverb
 29650	verb
 29917	verb
 30145	verb
@@ -268,7 +268,7 @@
 60493	verb
 60620	verb
 60668	noun
-61522	noun other indeclinable
+61522	adverb
 61607	verb
 61746	verb
 61791	verb
@@ -294,7 +294,7 @@
 68218	verb
 68450	verb
 68524	verb
-69651	noun other indeclinable
+69651	adverb
 69785	verb
 69860	noun
 69902	verb
@@ -303,7 +303,7 @@
 70743	verb
 71230	verb
 71281	verb
-71291	noun other indeclinable
+71291	adverb
 71729	verb
 71970	noun
 72345	verb
@@ -396,7 +396,7 @@
 94687	noun
 95459	verb
 95622	noun
-95921	noun other indeclinable
+95921	adverb
 96146	verb
 96356	noun
 96526	verb

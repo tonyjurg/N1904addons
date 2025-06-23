@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:23+00:00Z
+@dateWritten=2025-06-22T22:25:24+00:00Z
 
 574	aw_pr
 914	aw_pr
@@ -19,20 +19,20 @@
 1115	is_ews
 1258	ow_pr
 1339	aor1
-1446	aw_fut
+1446	aw_pr
 1484	aw_pr
-1647	aw_fut
+1647	aw_pr
 1683	aw_pr
 1743	aw_pr
-1876	
+1876	art_adj
 1924	aw_pr
 1938	aw_pr
 1961	aw_pr
 2678	aw_pr
-2717	
-2797	
+2717	art_adj
+2797	art_adj
 2930	reg_fut
-2937	os_on
+2937	os_h_on
 3096	aw_pr
 3221	aor1
 3458	aw_pr
@@ -40,32 +40,32 @@
 3548	ow_pr
 3572	os_h_on
 3596	ow_pr
-3685	
-3745	
+3685	art_adj
+3745	art_adj
 3824	aw_pr
-3943	aw_fut
+3943	aw_pr
 4080	ow_pr
-4091	aw_fut
+4091	aw_pr
 4208	w_stem
 4349	aw_fut
-4399	os_on
-4439	
-4448	os_on
+4399	os_h_on
+4439	art_adj
+4448	os_h_on
 4516	ew_pr
-4534	
+4534	art_adj
 4537	ew_pr
-4561	
+4561	art_adj
 4647	ew_pr
-4653	
+4653	art_adj
 4976	aw_pr
-5188	
+5188	art_adj
 5405	aw_pr
 5425	aw_pr
-5448	
+5448	art_adj
 5632	ew_pr
 5690	ow_pr
-5692	
-5710	
+5692	art_adj
+5710	art_adj
 5759	aw_pr
 5775	aw_pr
 6042	aw_pr
@@ -74,14 +74,14 @@
 6516	aw_pr
 6545	is_ews
 6557	aw_fut
-6561	os_on
+6561	os_h_on
 6814	ow_pr
 7027	a_hs
-7047	
-7078	
-7091	
-7121	os_on
-7328	
+7047	art_adj
+7078	art_adj
+7091	art_adj
+7121	os_h_on
+7328	art_adj
 7405	aw_pr
 7512	aw_pr
 7544	aw_pr
@@ -92,21 +92,21 @@
 7797	aw_pr
 7828	aw_pr
 7852	aw_pr
-7929	os_on
+7929	os_h_on
 7935	aw_pr
-8400	aw_fut
-8626	os_on
-8649	os_on
+8400	aw_pr
+8626	os_h_on
+8649	os_h_on
 8699	is_ews
-8765	
+8765	art_adj
 9008	ow_pr
-9305	aw_fut
-9400	
+9305	aw_pr
+9400	art_adj
 9498	aw_pr
-9633	
+9633	art_adj
 9752	aw_pr
-10081	os_on
-10092	os_on
+10081	os_h_on
+10092	os_h_on
 10202	ow_pr
 10207	ow_pr
 10264	aw_pr
@@ -114,14 +114,14 @@
 10310	aw_pr
 10491	os_h_on
 10517	os_h_on
-10697	
-10701	os_on
+10697	art_adj
+10701	os_h_on
 10705	aw_pr
-10820	
+10820	art_adj
 10876	aw_pr
-10935	aw_fut
+10935	aw_pr
 10984	is_ews
-11007	
+11007	art_adj
 11121	aw_pr
 11135	aw_fut
 11163	aw_pr
@@ -130,15 +130,15 @@
 11322	aw_pr
 11446	aw_pr
 11779	aw_pr
-11892	
+11892	art_adj
 11994	ow_pr
-12364	
+12364	art_adj
 12424	aw_pr
 12431	aw_pr
 12433	aw_pr
 12438	os_h_on
 12460	hs_eos
-12462	os_on
+12462	os_h_on
 12502	os_h_on
 12575	aw_pr
 12793	aw_pr
@@ -148,7 +148,7 @@
 13206	is_ews
 13259	reg_fut
 13289	reg_fut
-13334	
+13334	art_adj
 13680	aw_pr
 14204	ow_pr
 14278	aw_pr
@@ -157,11 +157,11 @@
 14982	aw_pr
 14994	w_stem
 15047	irreg_mi
-15194	
-15201	
-15241	
-15251	
-15293	
+15194	art_adj
+15201	art_adj
+15241	art_adj
+15251	art_adj
+15293	art_adj
 15343	aw_fut
 15379	aor2_pass
 15481	is_ews
@@ -178,62 +178,62 @@
 16446	w_stem
 17184	ew_pr
 17190	ew_pr
-17314	
+17314	art_adj
 17457	ew_pr
 18025	os_ou
 18537	aw_pr
 18547	aw_fut
-18954	
+18954	art_adj
 19214	aw_fut
-19303	
-19319	os_on
+19303	art_adj
+19319	os_h_on
 19409	ew_pr
 19416	is_ews
-19428	
+19428	art_adj
 19430	ew_pr
-19666	aw_fut
+19666	aw_pr
 19892	aw_pr
 19900	aw_pr
-19926	
+19926	art_adj
 19954	is_ews
-19988	
+19988	art_adj
 20131	a_hs
-20202	
+20202	art_adj
 20300	a_hs
-20355	
+20355	art_adj
 20397	aw_pr
 20512	aw_pr
 20572	aw_pr
 20579	w_stem
 20617	aw_fut
-20661	aw_fut
-20674	
+20661	aw_pr
+20674	art_adj
 20683	ow_pr
-20773	aw_fut
-21056	
-21104	aw_fut
+20773	aw_pr
+21056	art_adj
+21104	aw_pr
 21167	ew_pr
-21186	
-21394	
+21186	art_adj
+21394	art_adj
 21453	reg_fut
-21639	
-22252	aw_fut
-22506	
-22526	os_on
-22538	
-22693	
-22909	os_on
+21639	art_adj
+22252	aw_pr
+22506	art_adj
+22526	os_h_on
+22538	art_adj
+22693	art_adj
+22909	os_h_on
 22968	aw_fut
-23244	aw_fut
-23570	
+23244	aw_pr
+23570	art_adj
 23703	aw_pr
-23823	
-23901	
-24315	
+23823	art_adj
+23901	art_adj
+24315	art_adj
 24496	aw_pr
-24553	aw_fut
+24553	aw_pr
 24624	is_ews
-24643	
+24643	art_adj
 24724	aw_pr
 24735	aw_pr
 24880	aw_pr
@@ -242,20 +242,20 @@
 25045	aw_fut
 25172	os_ou
 25194	os_ou
-25288	
+25288	art_adj
 25434	ow_pr
 25576	aw_pr
-25812	
+25812	art_adj
 25912	aw_pr
 25918	os_h_on
 25940	hs_eos
-os_on
-25947	
+os_h_on
+25947	art_adj
 25983	os_h_on
 26062	ew_pr
 26295	aw_fut
 26355	reg_fut
-26436	
+26436	art_adj
 26539	aw_fut
 26557	aw_fut
 26691	ow_pr
@@ -264,18 +264,18 @@ os_on
 26821	ow_pr
 26895	aw_pr
 26897	aw_pr
-26966	
-27110	
+26966	art_adj
+27110	art_adj
 27145	aw_pr
-27156	
+27156	art_adj
 27220	ew_pr
 27604	aor1
 27811	os_ou
 27815	aw_pr
 27825	ow_pr
-27843	
+27843	art_adj
 27892	ew_pr
-27990	
+27990	art_adj
 28063	w_stem
 28651	ew_pr
 28666	reg_fut
@@ -285,7 +285,7 @@ os_on
 29136	aw_fut
 29163	aw_pr
 29321	ew_pr
-29338	
+29338	art_adj
 29482	fut_perf
 29601	ew_fut
 29650	irreg_mi
@@ -294,7 +294,7 @@ os_on
 29917	aw_pr
 30145	reg_fut
 30298	reg_fut
-30495	
+30495	art_adj
 31370	aor1
 31515	reg_fut
 31540	aw_pr
@@ -303,35 +303,35 @@ os_on
 32386	aor1
 32902	os_on
 32952	aw_pr
-33227	
+33227	art_adj
 33524	ow_pr
-33543	os_on
-33566	
-33574	
+33543	os_h_on
+33566	art_adj
+33574	art_adj
 33667	is_ews
 33678	ew_pr
 33685	is_ews
-33699	
+33699	art_adj
 33701	ew_pr
 33711	ew_pr
 33881	aw_pr
 34081	aw_pr
-34190	
+34190	art_adj
 34570	os_h_on
-34755	
+34755	art_adj
 34983	ew_pr
 35005	ew_pr
 35077	ow_pr
-35079	
-35100	
+35079	art_adj
+35100	art_adj
 35145	aw_pr
 35548	aw_pr
 35610	a_hs
-35966	aw_fut
+35966	aw_pr
 35978	ow_pr
-36047	
+36047	h_hs
 36396	ew_pr
-36566	
+36566	art_adj
 36632	aw_pr
 36728	ow_pr
 36986	eus_ews
@@ -353,11 +353,11 @@ aor1
 38944	aw_fut
 39090	aw_pr
 39101	ow_pr
-39293	
-39647	
+39293	art_adj
+39647	art_adj
 39702	hs_eos
 39858	aw_pr
-39909	os_on
+39909	os_h_on
 40057	aw_pr
 40076	aw_pr
 40131	reg_fut
@@ -382,7 +382,7 @@ aor1
 42584	aw_fut
 42658	reg_fut
 42713	aw_pr
-42790	
+42790	art_adj
 42922	aw_fut
 43066	aw_fut
 43117	hs_eos
@@ -401,19 +401,19 @@ aor1
 44475	aw_pr
 44609	aw_pr
 44695	ow_pr
-44727	os_on
+44727	os_h_on
 44803	reg_fut
 44807	ow_pr
 44865	ow_pr
 45053	aw_pr
 45078	hs_eos
-os_on
+os_h_on
 45092	reg_fut
 45118	os_h_on
 45197	ew_pr
 45411	irreg_mi
 45500	reg_fut
-45585	
+45585	art_adj
 45603	aw_pr
 45691	ow_pr
 45693	reg_fut
@@ -431,19 +431,19 @@ os_on
 46705	aw_pr
 46716	aw_pr
 46747	aw_fut
-46813	
+46813	art_adj
 46880	ow_pr
-46927	
+46927	art_adj
 47970	os_on
 48007	aw_pr
 48146	aw_pr
-48289	
+48289	art_adj
 48507	irreg_mi
-48541	
-48555	
+48541	art_adj
+48555	art_adj
 48921	ew_pr
 49185	aw_pr
-49434	aw_fut
+49434	aw_pr
 49481	aw_pr
 49514	aw_pr
 49546	aw_pr
@@ -453,52 +453,52 @@ os_on
 50398	aw_pr
 50421	eus_ews
 50668	os_h_on
-50756	aw_fut
+50756	aw_pr
 51166	os_h_on
-51180	
+51180	art_adj
 51309	ew_pr
-51324	
+51324	art_adj
 51333	ew_pr
 51490	os_h_on
 51541	a_hs
 51558	a_hs
 52151	aw_pr
-52168	
+52168	art_adj
 52171	os_on
 52177	os_h_on
-52261	
+52261	art_adj
 52279	os_ou
-52312	
-52428	
-52478	
+52312	art_adj
+52428	art_adj
+52478	art_adj
 52525	os_h_on
-52601	
-52700	aw_fut
-52815	
-52947	aw_fut
+52601	art_adj
+52700	aw_pr
+52815	art_adj
+52947	aw_pr
 52966	ow_pr
-53024	aw_fut
-53049	
-53055	
-53099	aw_fut
-53138	
+53024	aw_pr
+53049	art_adj
+53055	art_adj
+53099	aw_pr
+53138	art_adj
 53342	os_h_on
-53347	
-53370	
+53347	art_adj
+53370	art_adj
 53471	aw_pr
 53653	aw_pr
 53686	aw_pr
 53695	aw_pr
-53834	os_on
+53834	os_h_on
 54056	aw_pr
-54096	
-54132	
-54182	
-54317	
-54353	
+54096	art_adj
+54132	art_adj
+54182	art_adj
+54317	art_adj
+54353	art_adj
 54477	aor2_pass
-54688	os_on
-54726	
+54688	os_h_on
+54726	art_adj
 54802	aw_pr
 55042	aor2_pass
 55051	aor2_pass
@@ -507,49 +507,49 @@ os_on
 55191	aor2_pass
 55273	aw_pr
 55308	os_h_on
-55310	
+55310	art_adj
 55334	os_h_on
 55400	os_h_on
-55438	
-55691	
+55438	art_adj
+55691	art_adj
 os_ou
-55819	
+55819	art_adj
 55883	aw_fut
-56017	
-56588	
-56650	
+56017	art_adj
+56588	art_adj
+56650	art_adj
 56658	ow_pr
 56821	aw_pr
-56834	
+56834	art_adj
 56996	os_h_on
-57007	
+57007	art_adj
 57027	aw_pr
 57033	aw_pr
 57041	ow_pr
-57114	
+57114	art_adj
 57179	os_h_on
 57190	os_h_on
 57207	aw_pr
-57225	aw_fut
-57446	
-57497	
+57225	aw_pr
+57446	art_adj
+57497	art_adj
 57618	reg_fut
-57921	
-58081	
-58131	
-58292	os_on
+57921	art_adj
+58081	art_adj
+58131	art_adj
+58292	os_h_on
 58425	w_stem
 58644	aor1
 58649	ew_pr
 58666	ew_pr
 is_ews
-58686	
-58736	
+58686	art_adj
+58736	art_adj
 58753	aw_pr
-58945	
-58980	
+58945	art_adj
+58980	art_adj
 59223	os_h_on
-59266	
+59266	art_adj
 59666	aor2_pass
 59713	aor2_pass
 59817	aor2_pass
@@ -560,7 +560,7 @@ is_ews
 60124	h_hs
 60131	aw_pr
 60187	h_hs
-60202	
+60202	art_adj
 60268	aor2_pass
 60332	os_h_on
 60382	aw_pr
@@ -568,60 +568,60 @@ is_ews
 60493	aw_pr
 60620	ew_pr
 60668	os_on
-60719	
-60868	
+60719	art_adj
+60868	art_adj
 60897	aor2_pass
 60979	aor2_pass
 61099	aor2_pass
-61273	
-61411	
+61273	art_adj
+61411	art_adj
 61522	ew_fut
-61573	
+61573	art_adj
 61607	aw_pr
 61746	aw_pr
-61771	
+61771	art_adj
 61791	aw_pr
 61808	aw_pr
 61912	aw_pr
-61923	aw_fut
+61923	aw_pr
 61975	aw_pr
-62439	
+62439	art_adj
 62467	os_h_on
 62566	aw_pr
 62582	aw_pr
 62599	aw_pr
-62696	
+62696	art_adj
 62754	aor2_pass
 62929	os_h_on
-63150	
+63150	art_adj
 63430	ew_pr
-63646	
+63646	art_adj
 63787	aw_pr
 63789	aw_pr
 63919	aw_pr
 64037	emi_aor
-64063	
-64095	
+64063	art_adj
+64095	art_adj
 64181	aor2_pass
 64201	aw_pr
-64307	
-64656	
-64738	
+64307	art_adj
+64656	art_adj
+64738	art_adj
 64778	aw_pr
-64799	
+64799	art_adj
 64911	ew_pr
 65086	aw_pr
 65164	os_on
-65418	
+65418	art_adj
 65634	is_ews
 65987	reg_fut
 66087	aw_pr
 66570	aw_pr
 67099	os_on
 67227	aw_pr
-67273	
+67273	art_adj
 67343	aor1
-67398	os_on
+67398	os_h_on
 67439	aw_pr
 67463	aor1
 67834	aw_pr
@@ -630,22 +630,22 @@ is_ews
 68450	irreg_mi
 68524	aw_fut
 68649	h_hs
-68975	
+68975	art_adj
 69651	ew_fut
 69785	aw_pr
 69860	aw_fut
 69902	irreg_mi
 70057	ew_pr
-70136	
+70136	art_adj
 70212	aw_pr
 70246	aw_pr
 70743	ew_pr
 70856	os_h_on
-71134	
+71134	art_adj
 71230	aw_pr
 71281	aw_pr
 71291	ew_fut
-71529	
+71529	art_adj
 71729	reg_fut
 71970	aw_fut
 72177	aw_fut
@@ -653,32 +653,32 @@ is_ews
 72532	h_hs
 72682	aw_fut
 72902	aw_fut
-73804	os_ou
+73804	h_hs
 73871	ow_pr
 74013	aw_pr
 74240	aw_pr
-74313	
+74313	art_adj
 74425	os_h_on
-74443	
+74443	art_adj
 74971	aw_fut
 75018	aw_fut
 75074	ath_primary
 75324	ow_pr
-75453	
+75453	art_adj
 75673	aw_pr
 75727	aw_pr
 75866	n_nos
 75883	wn_on_comp
 75962	ew_pr
 76126	aw_pr
-76346	
-76539	
+76346	art_adj
+76539	art_adj
 76690	aw_fut
 77114	os_h_on
 77125	aor1
 77134	aw_pr
-77152	
-77184	
+77152	art_adj
+77184	art_adj
 77205	hs_ou
 77249	aw_fut
 77360	w_stem
@@ -688,8 +688,8 @@ is_ews
 77898	aw_pr
 77977	aw_pr
 78139	aw_pr
-78362	
-78550	
+78362	art_adj
+78550	art_adj
 78807	aw_fut
 79026	aw_pr
 79152	aw_pr
@@ -704,12 +704,12 @@ is_ews
 81120	ew_pr
 81182	ath_h_aor
 81244	ath_primary
-81398	
-81478	
-81591	
-81658	
+81398	art_adj
+81478	art_adj
+81591	art_adj
+81658	art_adj
 81835	ow_pr
-81894	
+81894	art_adj
 81897	aw_fut
 81937	aor1
 82086	ow_pr
@@ -722,11 +722,11 @@ is_ews
 82910	aw_pr
 83054	aw_pr
 83274	aw_pr
-83407	
-83486	os_on
+83407	art_adj
+83486	os_h_on
 83558	ew_pr
 83582	h_hs
-83607	
+83607	art_adj
 83661	os_h_on
 83823	reg_fut
 84099	fut_perf
@@ -734,252 +734,252 @@ is_ews
 84226	aw_fut
 84240	os_h_on
 84407	ew_pr
-84442	
-84487	
-84536	
-84662	
-84693	
-84722	os_on
-84744	
-84828	
-84860	
-84931	
-85056	
-85074	os_on
-85118	
+84442	art_adj
+84487	art_adj
+84536	art_adj
+84662	art_adj
+84693	art_adj
+84722	os_h_on
+84744	art_adj
+84828	art_adj
+84860	art_adj
+84931	art_adj
+85056	art_adj
+85074	os_h_on
+85118	art_adj
 85238	aw_fut
-85392	
-85501	
-85528	
-85539	
-85833	
+85392	art_adj
+85501	art_adj
+85528	art_adj
+85539	art_adj
+85833	art_adj
 85845	aw_pr
 85855	ew_pr
 85867	aw_pr
 85903	ew_pr
-85935	
+85935	art_adj
 85939	ew_pr
 85987	os_h_on
 85994	os_h_on
-86006	
+86006	art_adj
 86041	os_h_on
-86043	
+86043	art_adj
 86057	os_h_on
-86062	
-86228	
-86294	
+86062	art_adj
+86228	art_adj
+86294	art_adj
 86350	is_ews
 86363	aw_fut
-86408	
-86482	
-86523	
-86586	
+86408	art_adj
+86482	art_adj
+86523	art_adj
+86586	art_adj
 86618	hs_es
-86683	
-86936	
-86962	
+86683	art_adj
+86936	art_adj
+86962	art_adj
 87031	os_ou
-87045	
+87045	art_adj
 87070	aw_fut
 87110	hs_eos
-87186	
-87437	
+87186	art_adj
+87437	art_adj
 87557	aw_fut
-87593	
+87593	art_adj
 87610	hs_ou
-87616	
+87616	art_adj
 87724	aw_pr
-87732	
-87850	
+87732	art_adj
+87850	art_adj
 87894	aw_fut
-87973	
-87996	
+87973	art_adj
+87996	art_adj
 88216	ew_pr
-88277	
+88277	art_adj
 88280	reg_fut
-88317	
+88317	art_adj
 88369	aw_pr
 88378	aw_fut
 88403	os_ou
 88457	perfp_d
-88473	
-88505	
-88518	
+88473	art_adj
+88505	art_adj
+88518	art_adj
 88532	os_h_on
-88545	
-88597	
-88653	
+88545	art_adj
+88597	art_adj
+88653	art_adj
 88703	aw_fut
 88706	h_hs
-88808	
-89025	
+88808	art_adj
+89025	art_adj
 89089	aw_pr
-89095	
-89142	
-89232	
-89336	os_on
-89545	
-89808	
+89095	art_adj
+89142	art_adj
+89232	art_adj
+89336	os_h_on
+89545	art_adj
+89808	art_adj
 89824	ew_pr
 89866	ew_pr
 89880	ew_pr
-90007	
+90007	art_adj
 90370	aw_fut
-90430	
+90430	art_adj
 90463	ow_pr
-90587	
+90587	art_adj
 90596	aor1
 90608	aor1
 90665	aw_pr
 90697	aw_pr
-90762	
-90798	
-90877	
+90762	art_adj
+90798	art_adj
+90877	art_adj
 90943	ew_pr
 90946	is_ews
 90950	ew_pr
 90953	aw_pr
 91010	aw_fut
-91036	
+91036	art_adj
 91064	os_on
 91069	os_on
 91386	aw_pr
 91444	os_ou
 91479	reg_fut
-91556	os_on
+91556	os_h_on
 91566	ew_pr
-91612	
+91612	art_adj
 91620	aw_pr
 91751	ew_pr
 91892	reg_fut
-91935	
-91966	
+91935	art_adj
+91966	art_adj
 91980	aw_pr
 92005	aw_pr
-92012	
-92014	
-92016	
+92012	art_adj
+92014	art_adj
+92016	art_adj
 92064	fut_perf
-92071	
+92071	art_adj
 92158	os_on
 92215	os_on
-92239	
-92252	
-92301	
+92239	art_adj
+92252	art_adj
+92301	art_adj
 92303	os_on
 92326	aw_pr
-92344	
-92515	
-92765	
+92344	art_adj
+92515	art_adj
+92765	art_adj
 92874	os_ou
 92876	aw_pr
-93130	
+93130	art_adj
 93238	aw_fut
 93256	ow_pr
 aw_fut
 93260	aw_pr
-93293	
+93293	art_adj
 93310	aw_fut
 93485	os_h_on
-93541	
+93541	art_adj
 93640	h_hs
 93716	os_ou
-93740	
-93888	
-93954	
+93740	art_adj
+93888	art_adj
+93954	art_adj
 94003	aw_pr
-94012	
+94012	art_adj
 94022	aw_pr
-94135	
-94147	
-94261	
+94135	art_adj
+94147	art_adj
+94261	art_adj
 94311	os_on
 94339	ew_pr
 94605	aw_fut
 94687	hs_es
 94694	ew_pr
-94756	
-94870	
-94907	
-94925	
-95234	
+94756	art_adj
+94870	art_adj
+94907	art_adj
+94925	art_adj
+95234	art_adj
 95459	ow_pr
 95465	hs_eos
-95495	
-95520	
-95560	
-95569	
+95495	art_adj
+95520	art_adj
+95560	art_adj
+95569	art_adj
 95622	aor1
-95725	
-95745	
+95725	art_adj
+95745	art_adj
 95921	ew_fut
-95957	
-95965	
+95957	art_adj
+95965	art_adj
 96146	aw_pr
-96305	
+96305	art_adj
 hs_eos
-96334	
+96334	art_adj
 96356	os_on
-96364	
-96385	
-96473	
+96364	art_adj
+96385	art_adj
+96473	art_adj
 96526	aw_pr
 96807	aw_pr
 96830	aw_fut
 96882	aw_fut
-97163	
+97163	art_adj
 97211	aw_pr
-97257	
+97257	art_adj
 97306	aw_pr
-97392	
-97466	
+97392	art_adj
+97466	art_adj
 97512	aw_pr
-97544	
-97561	
+97544	art_adj
+97561	art_adj
 97580	irreg_mi
 97591	aw_pr
 97620	aw_pr
-97676	
-97804	
-97854	
+97676	art_adj
+97804	art_adj
+97854	art_adj
 97953	aw_pr
-97976	
-98057	os_on
+97976	art_adj
+98057	os_h_on
 98061	aw_fut
-98067	
-98083	
-98143	
-98364	
+98067	art_adj
+98083	art_adj
+98143	art_adj
+98364	art_adj
 98435	aw_pr
-98550	
+98550	art_adj
 ew_pr
-98603	
-98625	
+98603	art_adj
+98625	art_adj
 98658	aw_fut
 98962	aw_pr
-99086	
-99185	
-99187	
-99189	
-99191	
-99193	
-99195	
-99374	
-99433	
-99480	
-99612	
+99086	art_adj
+99185	art_adj
+99187	art_adj
+99189	art_adj
+99191	art_adj
+99193	art_adj
+99195	art_adj
+99374	art_adj
+99433	art_adj
+99480	art_adj
+99612	art_adj
 99635	aw_fut
-99658	
+99658	art_adj
 99736	aw_fut
 99796	reg_fut
 99827	a_hs
 99834	a_hs
-99942	
-100063	
-100203	
-100222	
-100308	
-100319	
+99942	art_adj
+100063	art_adj
+100203	art_adj
+100222	art_adj
+100308	art_adj
+100319	art_adj
 100439	aw_fut
 100497	os_h_on
 100503	ew_pr
@@ -995,40 +995,40 @@ ew_pr
 100697	aw_pr
 100789	aw_pr
 100905	aw_pr
-101078	
-101088	
+101078	art_adj
+101088	art_adj
 101101	aw_fut
-101115	
+101115	art_adj
 101150	h_hs
 101178	aw_pr
-101273	
-101282	
-101293	
-101366	
-101385	os_on
-101466	
-101566	
-101641	
-101728	
-101927	
+101273	art_adj
+101282	art_adj
+101293	art_adj
+101366	art_adj
+101385	os_h_on
+101466	art_adj
+101566	art_adj
+101641	art_adj
+101728	art_adj
+101927	art_adj
 irreg_mi
 102077	reg_fut
 102326	aw_fut
 102388	aor1
-102555	
-102676	
-102752	
-102761	
+102555	art_adj
+102676	art_adj
+102752	art_adj
+102761	art_adj
 102769	reg_fut
 102816	aw_pr
-102848	
-102884	
+102848	art_adj
+102884	art_adj
 102924	aor1
-103072	
-103103	
-103172	
+103072	art_adj
+103103	art_adj
+103172	art_adj
 103251	ew_pr
-103254	
+103254	art_adj
 103292	aw_pr
 103367	aw_pr
 103485	os_on
@@ -1036,179 +1036,179 @@ irreg_mi
 103514	a_hs
 103526	a_hs
 103548	aw_fut
-103597	
+103597	art_adj
 103627	aw_pr
-103636	
-103918	os_on
+103636	art_adj
+103918	os_h_on
 103920	aw_pr
-104054	
+104054	art_adj
 104148	reg_fut
 104354	os_h_on
 104357	aor1
-104405	
+104405	art_adj
 105102	aw_pr
-105195	
-105309	
+105195	art_adj
+105309	art_adj
 105331	aw_pr
-105466	
-105481	
-105546	
+105466	art_adj
+105481	art_adj
+105546	art_adj
 105615	aw_fut
 105624	h_hs
-105637	
+105637	art_adj
 105656	is_ews
-105754	
-105886	
+105754	art_adj
+105886	art_adj
 106000	reg_fut
 106379	reg_fut
-106388	
+106388	art_adj
 106469	aw_pr
-106588	
-106648	
-106660	
-106686	
-106763	
-106839	
+106588	art_adj
+106648	art_adj
+106660	art_adj
+106686	art_adj
+106763	art_adj
+106839	art_adj
 106875	aw_pr
-106975	
-106984	
+106975	art_adj
+106984	art_adj
 106992	aw_pr
 107002	aw_pr
-107126	
-107137	
-107178	
+107126	art_adj
+107137	art_adj
+107178	art_adj
 107209	reg_fut
 107355	is_ews
 107436	aw_pr
 107474	ew_pr
-107642	
-107865	os_on
+107642	art_adj
+107865	os_h_on
 107891	reg_fut
 107956	aw_pr
 108059	aor1
 108158	ow_pr
-108343	
+108343	art_adj
 108507	irreg_mi
 108631	reg_fut
 108724	aw_pr
 108780	ew_pr
-108803	
+108803	art_adj
 109188	aw_pr
 109288	aw_fut
-109390	
-109535	
-109571	
-109586	
+109390	art_adj
+109535	art_adj
+109571	art_adj
+109586	art_adj
 109604	reg_fut
 109618	ow_pr
 109621	ew_pr
-109626	
-109651	
+109626	art_adj
+109651	art_adj
 109730	aw_pr
-109754	
+109754	art_adj
 109819	ow_pr
 109862	aw_pr
 109976	aw_pr
-110275	
+110275	art_adj
 110304	aw_fut
 110448	irreg_mi
-110548	
-110584	
+110548	art_adj
+110584	art_adj
 110655	ew_pr
-110672	
+110672	art_adj
 110930	aor1
 111067	is_ews
 111165	fut_perf
 111190	ew_pr
-111229	
+111229	art_adj
 111278	aw_fut
 111373	aor1
-111508	
-111557	
+111508	art_adj
+111557	art_adj
 111711	aw_pr
 111773	aw_fut
-111782	
-111824	
+111782	art_adj
+111824	art_adj
 112079	reg_fut
-112124	
-112453	
+112124	art_adj
+112453	art_adj
 112515	os_h_on
-112526	
+112526	art_adj
 112558	os_on
-112680	
+112680	art_adj
 112696	ew_pr
 112796	os_h_on
-112812	
+112812	art_adj
 112815	ajw_pr
 112828	ow_pr
-112883	
-112921	
+112883	art_adj
+112921	art_adj
 112939	ew_pr
 113002	h_hs
-113311	
+113311	art_adj
 113328	ew_pr
-113330	
-113349	
-113481	
-113607	
+113330	art_adj
+113349	art_adj
+113481	art_adj
+113607	art_adj
 113672	ew_pr
-113762	
-113832	
+113762	art_adj
+113832	art_adj
 113895	ow_pr
 113958	ew_pr
 114060	aw_fut
 114122	aw_pr
-114147	
+114147	art_adj
 114181	aw_fut
-114228	
+114228	art_adj
 114274	aw_fut
-114329	
+114329	art_adj
 114372	aw_pr
 114504	reg_fut
 114534	ew_pr
-114549	
-114654	
-114777	
-114934	
+114549	art_adj
+114654	art_adj
+114777	art_adj
+114934	art_adj
 115043	aor1
 115048	aw_pr
 115263	ew_pr
-115286	
-115303	
+115286	art_adj
+115303	art_adj
 115307	ew_pr
 115545	os_h_on
 115672	aw_fut
-115679	os_on
+115679	os_h_on
 115938	reg_fut
-115955	
+115955	art_adj
 116087	aw_pr
-116179	
+116179	art_adj
 116196	ew_pr
 116212	aw_pr
-116626	
-117362	
+116626	art_adj
+117362	art_adj
 117733	aw_pr
 118344	aw_fut
 118470	ew_pr
-118685	
+118685	art_adj
 118772	hs_eos
-118889	
-119127	
+118889	art_adj
+119127	art_adj
 119219	w_stem
 119363	aw_fut
 119439	ow_pr
 119463	aw_fut
-119719	
-119875	
-119958	
+119719	art_adj
+119875	art_adj
+119958	art_adj
 119979	aw_pr
-120191	
+120191	art_adj
 120237	aw_fut
 120311	os_h_on
 120563	h_hs
 120580	aw_pr
-120732	
-120751	
+120732	art_adj
+120751	art_adj
 121051	hs_eos
 121056	aw_pr
 121067	aw_pr
@@ -1217,55 +1217,55 @@ irreg_mi
 121347	ow_pr
 121359	ow_pr
 121374	aor1
-121452	
+121452	art_adj
 121650	ew_pr
 121654	ow_pr
 121661	ew_pr
-121674	
+121674	art_adj
 121716	aw_pr
 121877	os_on
 122208	w_stem
 122260	aw_fut
-122356	
-122409	
-122477	
+122356	art_adj
+122409	art_adj
+122477	art_adj
 122572	ow_pr
 122689	aw_pr
-122798	
-122902	
+122798	art_adj
+122902	art_adj
 122911	aw_fut
 123052	irreg_mi
 123066	aw_fut
-123159	
+123159	art_adj
 123170	ew_pr
-123256	
+123256	art_adj
 123278	aw_fut
-123302	
+123302	art_adj
 123422	ew_pr
-123467	
-123615	
-123621	
-123628	
+123467	art_adj
+123615	art_adj
+123621	art_adj
+123628	art_adj
 123735	is_ews
-123748	os_on
+123748	os_h_on
 123874	aw_pr
 123989	aw_pr
-124169	
+124169	art_adj
 124207	fut_perf
-124245	
-124258	
+124245	art_adj
+124258	art_adj
 124274	ew_pr
 124283	ew_pr
 124328	aw_pr
 124543	os_on
-124705	
-124713	
+124705	art_adj
+124713	art_adj
 124783	ew_pr
-125132	
+125132	art_adj
 125269	h_hs
 125399	aw_pr
 125404	aw_pr
-125417	
+125417	art_adj
 125428	aw_pr
 125432	os_h_on
 125679	os_h_on
@@ -1276,8 +1276,8 @@ irreg_mi
 125873	os_h_on
 125883	h_hs
 125952	h_hs
-126036	
-126156	
+126036	art_adj
+126156	art_adj
 126303	h_hs
 126314	h_hs
 126386	aw_fut
@@ -1285,35 +1285,35 @@ irreg_mi
 126582	aw_fut
 126592	h_hs
 126615	h_hs
-127044	
-127114	
-127174	
+127044	art_adj
+127114	art_adj
+127174	art_adj
 127180	aw_fut
-127247	
+127247	art_adj
 127282	ath_primary
 127324	ath_primary
 127416	ath_primary
-127421	
-127596	
+127421	art_adj
+127596	art_adj
 127599	os_on
-127668	
+127668	art_adj
 127727	ew_pr
 127736	aw_pr
 127920	reg_fut
 128076	aw_pr
 128152	aw_pr
 128263	os_ou
-128486	
-128525	
+128486	art_adj
+128525	art_adj
 128535	aw_pr
-128591	
-128606	
+128591	art_adj
+128606	art_adj
 128849	aw_fut
-128863	
+128863	art_adj
 129016	aw_pr
-129117	
+129117	art_adj
 129204	is_ews
-129255	
+129255	art_adj
 129281	aw_pr
 129296	aor1
 129540	aw_pr
@@ -1330,10 +1330,10 @@ irreg_mi
 133606	aw_fut
 133723	ew_pr
 134467	aw_pr
-134881	os_on
+134881	os_h_on
 134885	aw_pr
 135024	aw_pr
-135027	
+135027	art_adj
 135062	ow_pr
 135143	aw_pr
 135165	aw_pr

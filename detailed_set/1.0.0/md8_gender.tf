@@ -11,1276 +11,448 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:33+00:00Z
+@dateWritten=2025-06-22T22:25:33+00:00Z
 
-99	
-154	
-
-247	feminine
-324	
-377	
-410	
-417	
-475	
-574	
-576	
-598	
-807	
-890	
-910	
 914	feminine
-916	
-935	
-961	
 967	neuter
 1034	masculine/neuter
 1043	masculine
-1057	
-1063	
-1078	
 1096	feminine
-1115	
 1125	feminine
-1209	
-1258	
-1298	
-1309	masculine/feminine/neuter
 1321	masculine/feminine
-1339	
-masculine
-1358	
-1363	
-1372	
+1340	masculine
 1385	masculine
 1389	feminine
 1416	masculine
-1446	neuter
-1467	
-1480	
+1446	masculine
 1484	feminine
-1486	
-1592	
-1599	
 1611	feminine
-1647	neuter
+1647	masculine
 1683	feminine
-1685	
 1743	feminine
-1745	
-1764	
-1787	
-1817	
 1852	feminine
-1876	
 1880	masculine/neuter
-1906	
-1924	
-1926	
-1938	
-1940	
-masculine/neuter
-1945	
+1941	masculine/neuter
 1951	masculine
-1961	
-1963	
 1981	masculine/neuter
-2018	
-2027	neuter
 2060	masculine
 2091	masculine/neuter
-2101	
 2110	masculine/neuter
-2147	
-2179	
 2206	masculine/neuter
 2211	masculine
-2223	
 2244	masculine/neuter
 2321	masculine/neuter
 2333	masculine/feminine
-2383	
+2383	neuter
 2392	masculine/neuter
-2428	
-2445	
-2464	
 2526	masculine/neuter
-2563	
 2591	masculine/neuter
-2628	
 2678	feminine
-2717	
-feminine
-2723	
-2739	
-2765	
+2718	feminine
 2773	masculine/neuter
 2793	feminine
-2797	
-2814	
-2872	
-2885	
-2913	
 2923	feminine
-2930	
-2937	feminine
+2937	masculine
 2939	masculine/neuter
 2960	masculine
-2963	
 3026	masculine/neuter
-3033	feminine
-3035	
-3096	
-3127	
-3221	
 3262	feminine
 3274	feminine
-3308	
-3327	
-3390	
-3433	
-3444	
-3458	
-3460	
-3463	
-3491	
-3508	
-3548	
-3572	
-3596	
 3631	neuter
-3657	
-3676	
-3685	
-3745	
 3760	neuter
 3766	masculine/neuter
 3794	masculine/neuter
 3804	masculine/neuter
-3824	
-3826	
-3831	
-3943	neuter
-3954	
-3970	
+3943	masculine
 3981	feminine
-4080	
-4091	neuter
+4091	masculine
 4118	neuter
-4208	
-4216	
-4276	
-4295	
 4300	neuter
 4316	neuter
 4344	neuter
-4349	
-4399	feminine
-4439	
-4448	feminine
-4516	
-4534	
-4537	
-4561	
-4599	
-4647	
-4653	
+4399	masculine
+4448	masculine
 4718	feminine
-4790	
-4793	
-4814	
-4821	
-4855	
 4873	neuter
-4885	
 4895	masculine
 4928	masculine
 4976	feminine
-4978	
-4985	
-5018	
-5034	neuter
-5047	
-5052	
-5059	
-5063	
 5096	masculine/neuter
-5140	
-5188	
 5245	masculine/neuter
-5270	
 5315	masculine/neuter
-5333	
-5374	
-5385	feminine
 5398	feminine
-5405	
-5425	
-5448	
-5452	
 5478	masculine
 5490	masculine
-5566	
-
 5579	masculine/neuter
-5632	
-5657	
-5666	
-5690	
-5692	
-5710	
 5716	masculine/neuter
-5736	
 5743	masculine/neuter
 5749	masculine
-5759	
-5761	
-5768	
 5775	feminine
-5777	
-5786	
 5813	neuter
 5840	masculine
-5843	
 5852	masculine
 5906	feminine
 5914	masculine/neuter
-5935	
 5953	masculine/neuter
-5986	
-6029	
-6042	
-
 6182	masculine/neuter
-6187	
-6255	
 6263	feminine
 6366	feminine
 6382	feminine
 6429	neuter
-6434	
-6442	
 6451	feminine
 6480	feminine
-6489	
-6510	
-feminine
+6511	feminine
 6516	feminine
-6534	
-6537	
-6545	
-6557	
-6561	feminine
+6561	masculine
 6563	masculine/neuter
-6581	
 6675	masculine/neuter
 6686	masculine/neuter
 6696	masculine
 6702	masculine
-6730	
 6794	masculine
-6814	
 6823	masculine
-6874	
 7027	masculine
-7047	
-7067	
-7078	
-7091	
-7121	feminine
-7138	
-7140	
+7121	masculine
 7177	masculine/neuter
 7249	masculine/neuter
-7253	
-7255	
-7282	
-7328	
-7383	
 7405	feminine
-7407	
-7429	
-7451	
 7454	neuter
-7460	
-7479	
-7512	
 7541	neuter
 7544	feminine
-7546	
 7590	neuter
 7593	feminine
-7595	
-7620	
-7641	
 7670	masculine
-7694	
-7747	
-7750	
-7779	
-7786	
 7794	neuter
 7797	feminine
-7799	
-7814	
 7825	neuter
 7828	feminine
-7830	
 7849	neuter
 7852	feminine
-7854	
 7876	feminine
-7901	
 7924	feminine
-7929	feminine
-7935	
-7937	
+7929	masculine
 8008	masculine
-8016	feminine
-8056	
-8083	
-8157	
-8369	
 8383	masculine
-8400	neuter
+8400	masculine
 8472	neuter
-8530	
 8573	masculine
-8626	feminine
-8649	feminine
-8682	
-8693	
-8699	
-8739	
+8626	masculine
+8649	masculine
+8739	neuter
 8762	masculine/feminine
-8765	
 8772	masculine/feminine
-8809	
-8813	
 8865	masculine/feminine
-8875	
 8893	masculine/feminine
 8992	feminine
 9008	masculine
-9197	
 9211	masculine
-9250	
-
 9259	masculine
-9276	
-9284	
 9296	masculine
-9305	neuter
-9340	
-9377	
-neuter
-9399	
-
-9449	
-9456	
+9305	masculine
+9378	neuter
 9460	masculine
 9481	masculine
-9498	
 9501	masculine/neuter
 9514	neuter
-9526	
-9528	
-9531	
-9543	
-9575	
-9594	
 9603	feminine
-9633	
-9662	
-9685	
-9712	
 9718	neuter
-9722	
 9729	masculine/neuter
-9752	
-9920	
-9935	
 9948	masculine/neuter
-10063	
 10080	neuter
-feminine
-10092	feminine
+masculine
+10092	masculine
 10098	masculine/neuter
-10100	
-10143	
-10167	
 10170	feminine
 10184	masculine
-10197	
-10202	
-10207	
-10213	
 10232	neuter
 10259	feminine
-10264	
-10266	
 10278	masculine/neuter
-10280	
-10293	
-10295	
 10298	feminine
-10310	
-10312	
-10315	
-10360	
 10453	masculine/neuter
-10476	
 10491	feminine
-10501	
 10506	masculine/neuter
 10517	feminine
-10533	
-10538	
-10540	
-10552	
-10559	
 10576	neuter
-10580	
-10584	
-10587	
 10602	masculine/neuter
-10605	
-10616	
 10627	masculine/neuter
-10630	
-10642	
-10677	
 10693	masculine/neuter
-10697	
-10701	feminine
+10701	masculine
 10705	feminine
-10707	
 10716	masculine
-10786	
-10820	
-10868	
-10876	
 10902	feminine
-10904	
 10913	neuter
-10935	neuter
-10984	
-11007	
+10935	masculine
 11049	masculine/neuter
-11121	
-11123	
-11135	
 11163	feminine
-11165	
-11184	
 11213	masculine
-11236	
+11236	neuter
 11296	masculine/neuter
-11304	
-11306	
 11309	masculine/neuter
-11322	
 11333	feminine
 11351	masculine
 11366	feminine
 11375	masculine/neuter
 11442	neuter
 11446	feminine
-11448	
-11499	
-11570	
-11582	
 11590	masculine
-11595	
 11640	neuter
-11732	
-11741	
-11745	
 11771	masculine
-11779	
 11812	masculine
-11864	
-11892	
-
-11922	
-neuter
+11923	neuter
 11940	neuter
 11994	masculine
-12022	
-12094	
-12113	
 12128	neuter
-12139	
 12266	feminine
 12278	masculine
 12350	masculine/neuter
-12352	
-12357	
-12364	
 12414	neuter
-12424	
-12428	
-12431	
-12433	
-12438	
-12456	
-12460	
-12462	feminine
-12468	
+12462	masculine
 12496	masculine/neuter
-12502	
 12563	masculine/neuter
-12575	
-12640	
 12698	neuter
-12709	
 12730	feminine
 12747	masculine/neuter
-12775	
 12786	masculine/neuter
 12793	feminine
 12857	feminine
-12859	
-12918	
-12969	
 12976	neuter
-12979	
-12988	
-13114	
-13200	
-13206	
-13241	
-13259	
-13289	
-13306	
-13333	
-
 13366	neuter
-13377	
 13406	neuter
-13410	
-13425	
+13410	neuter
 13457	masculine
 13466	masculine
 13470	masculine
-13474	
 13483	masculine
-13501	
-13528	
-13645	
 13662	feminine
 13667	feminine
-13678	
-13680	
-13682	
-13777	
-13806	
-13838	
-13852	
-13872	
-13943	
-13955	
-13974	
-13980	
-13982	
-14000	
 14092	masculine/neuter
-14122	
 14138	masculine/neuter
-14155	
-14162	
-14174	
 14185	masculine/neuter
 14204	masculine
 14260	masculine
-14264	
 14278	feminine
-14280	
-14353	
-14403	
-14417	
-14484	
 14504	feminine
-14517	
-14554	
-14568	
-14592	
-14608	feminine
-14639	
-14646	
-14649	
 14690	masculine/neuter
-14712	
-14730	
 14869	feminine
 14904	masculine/neuter
-14914	
-14938	
-14952	
 14960	feminine
 14982	feminine
-14984	
-14994	
-15034	feminine
-15047	
-15050	feminine
-15100	
 15134	masculine/neuter
-15194	
-15201	
 15226	masculine
-15229	
-15241	
-15251	
-15293	
-15341	
-15343	
-15377	
-15379	
-15383	
-15459	
 15468	feminine
-15481	
 15500	masculine
-15508	
 15513	masculine
-15525	
-15527	
-15563	
-15603	
 15606	masculine/neuter
-15621	
 15704	masculine/neuter
-15725	
-15815	
 15888	masculine/neuter
-15891	
-15925	
 15970	masculine/feminine/neuter
-15984	
 16017	masculine/neuter
-16058	
 16148	masculine/neuter
-16168	
-16174	
 16185	masculine
-16216	
 16240	masculine/neuter
-16251	
-16258	
-16267	
-16402	
-16446	
-16461	
 16485	masculine
 16599	neuter
-16607	
 16625	masculine
-16648	
 16731	neuter
-
 16781	masculine/neuter
 16792	masculine
-16805	
 16850	feminine
 16917	neuter
-16961	
-17100	
-17184	
-17190	
-17251	
 17304	neuter
-17314	
 17379	neuter
-17401	
-17407	
-17429	
-17457	
-17500	
 17523	masculine
 17540	masculine
-17560	
-17712	masculine/feminine/neuter
 17732	neuter
-17810	
 17914	masculine/feminine
-17942	
 17948	feminine
-17999	
-18010	
 18025	masculine
-18037	
-18079	
-18082	
 18091	neuter
-18143	neuter
-18189	
-18323	
-18335	
 18397	neuter
 18424	feminine
-18470	
 18505	masculine
 18537	feminine
-18540	
-18547	
 18652	neuter
-18671	
 18727	neuter
-18828	
-18836	
-18851	neuter
 18856	masculine
-18874	
-18901	
-18915	
-18938	
-18954	
-19007	
-19119	
 19138	neuter
-19143	
 19148	neuter
 19163	masculine/neuter
 19165	neuter
-19179	
-19214	
-19303	
-19319	feminine
-19409	
-19416	
-19428	
-19430	
+19319	masculine
 19561	feminine
-19604	
-19666	neuter
+19666	masculine
 19721	neuter
 19767	neuter
-19770	
-19800	
 19810	masculine
-19874	
-19877	
-19891	
-feminine
+19892	feminine
 19900	feminine
-19903	
-19926	
 19942	feminine
-
-19948	
-19954	
 19956	masculine/neuter
-19971	
-19988	
 20131	masculine
-
-20202	
-20255	
-20278	
 20300	masculine
 20303	neuter
-20333	
-20355	
-
-20397	
-20459	
 20512	feminine
-20572	
-20579	
-20617	
-20637	
-20661	neuter
-20674	
-20683	
+20661	masculine
 20757	feminine
-20773	neuter
-20834	
-20853	
-21056	
+20773	masculine
 21095	masculine/neuter
-21104	neuter
-21131	
-21167	
-21186	
-21209	
-21394	
+21104	masculine
 21437	masculine/neuter
-21453	
 21513	masculine/feminine
-21592	
 21613	neuter
-21639	
-21651	
 21675	masculine
-21677	
-21688	
-21690	
-21719	
-21742	
-21876	
-21885	
-21893	
-22229	
-22252	neuter
-22257	
+22252	masculine
 22326	neuter
 22378	masculine
-22448	
-22484	
-22500	
-22506	
 22519	masculine/neuter
-22526	feminine
-22538	
-22573	
-22626	
-
-22640	
-22693	
-22747	
+22526	masculine
+22573	neuter
 22770	masculine/feminine
-22787	
 22805	masculine/feminine
-22859	
 22892	feminine
-22897	
-22909	feminine
-22920	
-22936	
-22953	
-22968	
-23086	
-23116	
+22909	masculine
 23228	masculine/neuter
-23244	neuter
-23289	
-23301	
+23244	masculine
 23319	feminine
 23337	masculine
-23399	
-23477	
-23486	
-23510	
 23546	feminine
-23570	
-23602	
-23647	
-23673	
 23679	neuter
 23681	neuter
 23686	masculine/neuter
-23703	
-23793	
-23823	
-23850	
-23863	
-23875	
-23901	
-masculine/neuter
-23970	
-24026	
+23902	masculine/neuter
 24083	masculine
-24233	
-24315	
-24331	
 24354	feminine
-24377	
 24387	masculine/neuter
-24424	
-24455	
-24481	
-24496	
-24525	
-24553	neuter
-24624	
-24643	
-24681	
+24553	masculine
 24724	feminine
 24728	masculine/neuter
-24735	
-24748	
-24880	
-24905	
-24922	
 24951	masculine
 24971	masculine/neuter
-24996	
-25045	
 25093	masculine/neuter
-25123	
 25147	masculine
-25155	
-25172	
-25194	
 25207	masculine
-25288	
-
-25313	
 25434	masculine
-25469	
-25499	
 25565	neuter
-25572	
 25576	feminine
 25623	feminine
-25702	
-25778	
-
 25790	masculine/neuter
-25807	
-25812	
 25822	masculine/neuter
 25894	neuter
-25904	
-25909	
-25912	
-25918	
-25929	
-25936	
-25940	
-feminine
-25947	
+25941	masculine
 25977	masculine/neuter
-25983	
-26023	
-26062	
-26065	
 26105	feminine
-26136	
-26290	
-26295	
 26335	masculine
-26347	
-26355	
-26388	
-26404	
-26435	
-
 26455	neuter
 26464	masculine
 26477	masculine
-26508	
-26539	
-26557	
-26559	
+26508	neuter
+26559	neuter
 26568	masculine
-26584	
-26592	
 26627	masculine
 26631	masculine
-26635	
 26643	masculine
 26691	masculine
-26693	
 26722	neuter
 26738	masculine/neuter
 26742	neuter
 26746	masculine
-26780	
-26790	
 26821	masculine
-26824	
-26836	
 26880	masculine
-26883	
 26895	feminine
-26897	
-26914	
-26936	
-26942	
-26946	
-26951	
-26966	
-27014	
-27036	
-27051	
-27110	
-27121	
 27145	masculine
-27156	
-27213	
-27220	
 27265	masculine/neuter
-27287	
 27335	neuter
 27374	masculine/neuter
 27376	masculine/neuter
-27430	
-27453	
-27461	
 27518	masculine/neuter
-27521	
-27604	
-27614	
 27639	feminine
 27643	masculine/feminine
 27682	masculine/neuter
-27724	
 27774	neuter
 27793	masculine/neuter
-27811	
-27815	
 27825	masculine
-27843	
-27848	
 27871	masculine/neuter
-27886	
-27891	
-
 27977	masculine
-27990	
 28003	masculine
-28063	
-28080	
 28104	masculine
 28182	masculine
 28222	masculine
-28314	
-28319	
 28322	neuter
-
 28388	masculine
 28421	masculine
-28453	masculine/feminine/neuter
-28545	
-28570	
 28616	neuter
-28651	
-28666	
-28676	
-28703	
-28723	
 28731	neuter
 28746	neuter
 28756	masculine
 28784	neuter
-28820	
-28853	
-28892	
 28920	masculine
 28939	masculine
-28953	
-29076	masculine/feminine/neuter
-29133	
-29136	
-29163	
 29191	feminine
-29208	
-29274	
-29321	
-29338	
-29348	
-29391	
-29421	
-29443	
-29465	feminine
-29467	
-29482	
-29487	
 29505	masculine/neuter
 29525	masculine
-29534	
-29543	
-29601	
 29616	masculine
-29648	
-29650	
-29661	
-29689	
-29703	
-29709	
-29727	
 29730	masculine
 29763	feminine
-29788	masculine/feminine
-
-29796	
-29809	
 29811	feminine
 29813	masculine
-29820	masculine/feminine
-29835	
-
-29875	masculine/feminine
 29917	masculine
 29946	masculine
-30113	
-30145	
-30191	
-30279	
-30298	
-30316	
 30325	masculine
-30352	feminine
 30358	feminine
-30396	
-30495	
-30514	
 30583	feminine
-30591	
 30635	neuter
-30638	
-30684	masculine/feminine
-30697	
-30699	masculine/feminine
-
-30712	
-30727	
-30732	
 30783	feminine
-30886	
-30891	
-31121	
-31125	
-31141	
-31192	
-31265	
 31322	neuter
 31345	masculine
 31349	neuter
-31358	
 31370	feminine
-31391	
-31515	
-31540	
-31560	
 31678	masculine
-31690	
 31759	masculine/neuter
 31768	masculine
-31783	
-31789	
-31822	
-31842	masculine
 31917	feminine
 31945	feminine
 31948	masculine
-32061	
 32119	feminine
-32272	
 32286	neuter
-32291	
-32298	
-32304	
-32306	masculine/feminine
 32318	feminine
 masculine
-32338	
-32350	masculine/feminine/neuter
-32361	
 32366	masculine/feminine
-32384	
-32386	
-masculine
-32475	
-32495	
-32498	
+32387	masculine
 32586	masculine/neuter
 32600	masculine/neuter
-32742	
-32778	
-32847	
-
-32864	
-32888	
 32902	masculine
-32904	
-32950	
-32952	
 33051	masculine
-33073	
 33104	masculine
-33132	
-33135	
-33188	
-33200	
-33217	
-33227	
-33277	
-33302	
-33324	masculine/feminine
 33341	masculine
-33401	
-33419	
 33428	neuter
 33439	masculine/neuter
-33442	
-33454	masculine/feminine
-33456	
 33503	masculine
 33524	neuter
-33543	feminine
-33566	
-33574	
-33577	
-33591	
-33650	
+33543	masculine
 33662	feminine
-33667	
-33673	
-33678	
-33685	
-33699	
-33701	
 33708	neuter
-33711	
-33881	
 33983	masculine
-34008	
 34081	feminine
-34141	
-34184	
-34190	
 34192	masculine/neuter
-34246	
-34257	
 34264	neuter
-34278	
 34283	neuter
-34294	
 34300	neuter
-34356	
-34490	
-34497	
-34505	
-34518	
 34558	masculine/neuter
 34568	masculine
-34570	
 34663	feminine
-34701	
 34703	feminine
-34755	
 34769	neuter
 34776	masculine/neuter
 34808	masculine/neuter
 34866	neuter
 34901	masculine/neuter
-34951	feminine
 34975	masculine
-34983	
-35005	
-35015	
-35044	
-35052	
 35060	neuter
-35077	
-35079	
-35094	
-35100	
 35106	masculine/neuter
-35125	
 35131	masculine/neuter
 35136	masculine
-35145	
-35194	
-
 35225	masculine
-35228	
-
 35238	masculine
-35240	
-35297	
 35364	masculine
 35397	masculine
 feminine
@@ -1288,868 +460,282 @@ feminine
 35407	masculine
 35481	masculine/neuter
 35497	feminine
-35548	
-35573	
 35577	masculine
-35580	
-35607	
 35610	masculine
-35612	
-35694	
-35704	
-35719	
-35724	
-35801	
-35837	
-35949	
-35966	neuter
-35974	
-35978	
+35966	masculine
 36024	feminine
-36047	
-36063	
-36152	
-36161	
 36172	neuter
-36192	
-36246	
-36299	
-36313	
-36396	
-36476	masculine/feminine
-36566	
 36619	neuter
-36623	
-36632	
-36655	
-36721	
 36728	neuter
-36785	
 36840	masculine
-36873	
 36879	masculine
-36966	
-36986	
-37006	
-37033	
-37085	
 37092	neuter
 neuter
 masculine/neuter
-37112	
-37168	
-37192	
-37342	
-37385	
-37388	
-37390	
-37423	
-37501	
-37544	
-37632	
-37656	
-37672	
 37683	feminine
-37716	
-37756	
-37770	
-37799	
-37838	
-37844	
 37860	feminine
-37906	
 37912	feminine
-37944	
 37952	feminine
 37955	masculine/neuter
 37988	feminine
-38017	
-38047	
 38070	neuter
-38073	
-38134	
-38179	
 38199	masculine/neuter
-38204	
 38253	masculine
-38282	
-38308	
-38347	
+38282	neuter
+38308	neuter
 38378	feminine
-38383	
 38421	neuter
-
-38449	
-38483	
-38494	
-feminine
-38510	
-38529	
-38580	
+neuter
+38495	feminine
 38588	feminine
 38682	masculine/neuter
-38705	
 38707	masculine/neuter
 38738	feminine
 38750	feminine
-38783	
-38810	
-38813	
 38832	feminine
 38853	feminine
-38856	
-38862	
-38870	
-38891	
-feminine
+38892	feminine
 38897	feminine
-38944	
-38990	
-39009	
 39018	feminine
 39044	feminine
 39090	masculine
-39101	
 39110	masculine
 39134	masculine
-39187	
-39293	
-39319	
-39355	
-39402	
 39409	feminine
-39413	
-39453	
-39457	
 39478	masculine/neuter
-39588	
-masculine/neuter
+39589	masculine/neuter
 39621	neuter
 39627	masculine/neuter
-39644	masculine/feminine
-39647	
-39654	feminine
 39661	masculine/neuter
 39678	feminine
 39683	neuter
-39690	masculine/feminine
-39694	masculine/feminine
 39696	neuter
-39702	
-39738	
 39746	feminine
-39753	
-39832	
-39848	
-39858	
-39870	
-39909	feminine
+39909	masculine
 39911	masculine/neuter
 39927	masculine
-39930	
 39991	masculine/neuter
-39997	feminine
-39999	
-40057	
-40076	
-40124	
-40128	
-40131	
-40144	
 40153	masculine/neuter
-40162	
-40171	
 40234	feminine
 40268	masculine/neuter
-40278	
-40317	
 40325	feminine
-40333	
-40363	
 40414	masculine/neuter
-40474	
-40485	
-40487	
 40555	masculine/neuter
-40564	
 40586	masculine
 40607	masculine/neuter
-40610	
-40612	
-40614	
 40645	masculine/neuter
-40648	
-40703	
 40723	masculine
-40811	
-40837	
-40865	
 40900	neuter
 40903	feminine
 40910	neuter
-40943	
 40946	neuter
 40995	masculine/neuter
-41009	
-41026	
-41037	masculine/feminine
-41048	
-41083	
-41105	
-41149	
-41158	
-41161	
 41213	masculine/neuter
-41229	
 41278	feminine
-41300	
-41352	
-41363	
-41373	
-41381	
-41390	masculine/feminine
-41398	
 41403	feminine
-41465	
-41467	
-41482	
-41491	
 41541	masculine
 41634	masculine/neuter
 41640	masculine
-41773	
-41815	
 41892	feminine
 41934	masculine/neuter
 41950	feminine
-41963	
 41997	masculine/neuter
-42001	masculine/feminine
 42003	neuter
 42058	masculine/feminine
-42115	
-42121	
-42134	
-42142	masculine/feminine
-42197	masculine/feminine
-42347	
-42389	
 42573	masculine/neuter
-42584	
-42616	
 42623	feminine
-42629	
-42641	
 42651	feminine
-42658	
-42684	masculine/feminine
-42700	masculine/feminine
-42707	
 42713	feminine
 42739	masculine
 42780	masculine
-42790	
 42809	neuter
-42888	
-42922	
-42973	
-42976	
 42980	masculine/neuter
-42988	
-42992	
-42995	
-43040	
-43048	
-
-43053	
-43057	
-43066	
-43117	
-43124	
-43131	
-43162	
-43164	
 43263	feminine
-43269	
 43295	feminine
 43305	feminine
 43319	feminine
-43336	
-43383	
-43429	
 43452	neuter
-43487	
-43493	
-43504	
 43516	feminine
 43518	masculine/neuter
 43594	neuter
-43641	
-43670	
 43682	masculine/neuter
 43685	feminine
 43697	feminine
-43715	
-43783	
 43799	masculine/neuter
-43813	
 43818	feminine
 43857	feminine
 43861	masculine/neuter
-43868	
-43984	
-44000	
 44019	masculine
 44040	masculine/neuter
-44058	
-44096	
-44119	
 44138	feminine
-44319	
 44346	masculine
 44414	feminine
-44429	
-44475	
 44516	neuter
-44518	
-44539	
-44573	
 44580	neuter
-44598	
-44609	
 44639	masculine/neuter
 44695	masculine
-44723	
-44727	feminine
-44753	
-44803	
+44727	masculine
 44807	masculine
-44833	
 44859	masculine/neuter
-44861	
-44865	
 44908	masculine/neuter
-45006	
-45030	
 45044	neuter
-45053	
-45074	
-45078	
-feminine
-45084	
-45092	
+45079	masculine
 45112	masculine/neuter
-45118	
-45197	
-
 45230	feminine
-45411	
-45438	
-45500	
-45536	
-45561	
 45570	masculine
-45584	
-
 45603	masculine
 45631	masculine
 45635	masculine
 45646	masculine
 45691	masculine
-45693	
 45724	masculine/neuter
 45728	neuter
 45732	masculine
-45763	
-45765	
-45835	
 45853	feminine
-45855	
 45872	feminine
 45912	masculine
-45941	
-45963	
-46063	
-46100	
 46168	feminine
 46172	masculine/neuter
-46193	
-46208	
-46215	
 46274	masculine
-46362	
-46396	
 46434	feminine
-46465	
 46477	masculine/neuter
-46491	
 46505	masculine/neuter
 46522	feminine
 46610	feminine
-46664	
-46672	
-46684	
-46696	
-46705	
-46707	
-46709	
-46716	
 46728	masculine
 masculine
-46747	
 46778	masculine/neuter
 46782	feminine
-46788	
-46813	
-46819	
 46833	masculine/neuter
-46840	
 46847	masculine
 46868	masculine
 46880	masculine
-46905	
-46927	
-47071	
 47081	masculine
-47233	
-47242	
 47268	feminine
-47303	
-47308	
-47314	
-47319	
 47331	masculine
-47352	
 47435	masculine/feminine
 47501	neuter
-47560	
-47606	masculine/feminine
 47615	masculine/feminine
-47617	
 47695	masculine/feminine
 47770	masculine
 47870	masculine
-47918	
 47970	masculine
-47988	
-48007	
 48014	masculine/neuter
-48039	
-48136	
-48146	
 48212	feminine
-48246	
-48272	
-48285	
-48289	
-48306	
-48316	
 48344	masculine
-48361	masculine/feminine
-48452	
 48488	feminine
-48507	
-48541	
-48550	
-48555	
 48578	neuter
 48600	neuter
-48623	
-48626	
-48634	
-48644	
-48780	
-48881	masculine/feminine
-48890	
-48901	
-48921	
-48938	
-48940	
-48948	
 49172	neuter
 49185	masculine
-49210	
-49212	
 49231	neuter
-49366	
-49434	neuter
+49434	masculine
 49468	neuter
-49481	
-49514	
-49546	
-49659	
 49683	masculine
-49737	
 49825	neuter
-49830	
 49842	masculine/neuter
-49865	
-49893	
-49928	
-49944	
-49961	
-50015	
-50027	
-50037	
 50089	feminine
-50107	
 50113	feminine
-50217	
-50259	
-50328	
 50342	masculine/neuter
-50344	
-50353	
 50383	masculine/neuter
-50385	
-50398	
 50419	neuter
-50421	
-50442	
 50477	masculine/neuter
 50496	neuter
-50502	
-50536	
-50570	
-50668	
-50756	neuter
-50779	
+50756	masculine
 50792	neuter
-50835	
-50843	
-50865	
 50910	feminine
-50980	
-50995	
-51022	
-51072	
+50995	neuter
 51104	masculine/feminine
 51122	masculine/feminine
-51140	
 51156	masculine
 51161	feminine
-51166	
 51176	feminine
-51180	
-51276	
-51285	
-51309	
-51324	
-51333	
-
-51360	
-51490	
-51503	
 51513	masculine/neuter
-51520	
-51534	
 51541	masculine
 51558	masculine
-51741	
-51756	
-51803	
-51907	
-
-51976	
 52005	neuter
-52010	
-52043	
 52057	neuter
-52062	
 52072	neuter
-52074	
-52138	
-52151	
-52168	
-52171	
-52177	
 52189	masculine/neuter
-52215	
 52220	neuter
 52233	feminine
-52247	
-52254	
 52259	neuter
-52261	
-52270	
-52274	
 52279	masculine
 52291	masculine/neuter
-52312	
 52322	masculine/neuter
-52332	
 52362	neuter
 52413	neuter
-52428	
-52434	
-52478	
 52480	masculine/neuter
-52525	
-52596	
-52601	
-52625	
-52639	
-52645	
-52657	
-52700	neuter
-52717	
-52815	
-52854	
-52875	
-52886	
-52947	neuter
-52966	
-53024	neuter
-53049	
-53055	
-53069	
-53099	neuter
+52700	masculine
+52947	masculine
+53024	masculine
+53099	masculine
 53102	neuter
 53116	masculine/neuter
-53129	
-53138	
 53160	neuter
 53189	neuter
 53230	masculine/neuter
 53270	neuter
 53305	feminine
 53308	neuter
-53342	
-53347	
-53370	
-53375	
-53404	
-53462	
-53471	
-53476	
 53518	masculine/neuter
 53564	masculine/feminine
-53570	
 53577	feminine
 53619	masculine/neuter
-53621	
 53646	masculine
-53653	
-53657	
 53679	masculine
-53686	
 53693	masculine/feminine
-53695	
 53705	feminine
 53728	feminine
-53774	
-53790	
-53834	feminine
-53844	
+53834	masculine
 53880	masculine
 53964	neuter
-54056	
-54096	
-54132	
-54182	
-54186	
-54212	
-54220	
-54253	
-54317	
-54353	
-54367	
-54411	
 54442	feminine
-54477	
 54495	neuter
-54545	
-54555	
-54557	
 54608	masculine
-54666	
 54685	neuter
-54688	feminine
-54726	
+54688	masculine
 54754	neuter
-54757	
 54802	masculine
-54874	masculine/feminine/neuter
-54902	masculine/feminine/neuter
-54925	
-54996	
 55006	neuter
-55042	
-55051	
 55059	neuter
-55062	
-neuter
-55163	
-55175	
-55191	
-55202	masculine/feminine/neuter
-55207	
+55063	neuter
 55222	neuter
-55231	
-55273	
-55308	
-55310	
-55334	
-55352	
 55371	feminine
-55387	
 55395	masculine/neuter
-55400	
-55424	
-55431	
-55438	
 55613	masculine
 55627	masculine/neuter
-55634	
 55640	masculine/neuter
-55683	
-55688	
-55691	
-
-55705	
 55714	masculine/neuter
-55716	
-55736	
-55742	
-55746	
-55771	
-55778	
-55796	
-55819	
 55860	masculine/neuter
-55881	
-55883	
-55926	
-56017	
-56204	
 56252	feminine
-56268	
-56299	
 56338	neuter
-56414	
-56566	
 56575	masculine/neuter
-56588	
-56625	
-56650	
-56658	
 56684	masculine/neuter
-56714	
-56734	
-56821	
-56834	
-56845	
 56864	feminine
 56886	neuter
 56891	neuter
-56919	
-56935	
-56937	
 56947	masculine
-56980	
 56987	neuter
-56996	
-57007	
-57027	
-57033	
-57041	
 57047	feminine
 57090	masculine
 57094	feminine
 57099	masculine
-57114	
-57168	
 57172	neuter
-57179	
-57190	
-57207	
-57215	
-57225	neuter
-57271	
+57225	masculine
 57290	masculine
-57316	
-57360	
-57376	
-57389	
-57404	
-57406	
-57419	
-57422	
-57446	
-57449	
-57476	
-57497	
-
-57509	
-57618	
-57621	
 57644	masculine/feminine
 57659	feminine
-57749	
 57885	neuter
-57888	
-57892	
-57905	
-57921	
 57927	neuter
-58019	
-58074	
-58081	
-58131	
-58144	neuter
-58201	
-58215	
-58227	
-58253	
-58278	
-58292	feminine
-58379	
-58425	
-58435	
-58508	
+58292	masculine
 58602	masculine/neuter
-58604	
-58618	
 58625	masculine
-58629	
-58644	
-58646	
-58649	
-58663	
-58666	
-
-58686	
-58736	
-58753	
-
-58793	
-58819	
-58838	
-58888	
-58908	
-58929	
-58945	
-58958	
-58964	
-58969	
-58980	
-59011	
-59019	
 59022	neuter
 59028	neuter
 59054	neuter
-59058	
-59115	
-59143	
-59169	
-59223	
-59247	
-59249	
 59258	masculine
-59266	
-59340	
 59376	masculine/neuter
-59396	
 59403	masculine/neuter
 59426	masculine/neuter
 59440	masculine/neuter
@@ -2158,179 +744,81 @@ neuter
 59642	feminine
 59648	feminine
 59660	neuter
-59666	
 59673	masculine/neuter
-59698	
 59705	masculine
-59713	
 59749	masculine/neuter
 59785	neuter
-59794	
-59817	
 59879	neuter
 59925	masculine/neuter
 59963	masculine/neuter
-59973	
 59975	feminine
 59979	feminine
-60004	
-60014	
-60022	
-60028	
-60106	
-60120	
-60124	
-60131	
-60135	
-60162	
 60164	feminine
 60169	feminine
 60174	feminine
-60187	
-60202	
 60221	feminine
 60230	feminine
-60233	
 60237	neuter
 60266	neuter
-60268	
-60322	
-60332	
-60334	
-60363	
-60382	
-60394	
-60403	
-60419	
-60433	
-60456	
-60468	
-60493	
-60499	
-60502	
-60510	
-60525	
-60564	
-60567	
-60570	
-60573	
 60580	masculine/neuter
-60620	
-60668	
 60695	neuter
-60719	
-60746	
 60823	feminine
 60853	feminine
-60868	
 60882	neuter
 60890	neuter
-60897	
-60920	
 60925	masculine/neuter
-60932	
-60943	
 60953	feminine
-60979	
 61012	feminine
 61020	feminine
 61026	feminine
 61034	feminine
 61052	neuter
-61099	
 61131	neuter
 61145	masculine/neuter
 61229	masculine/neuter
-61273	
 61291	masculine/neuter
 61304	neuter
-61411	
 61445	neuter
-61498	
-61522	
-61573	
-61607	
-61746	
-61771	
-61791	
-61808	
-61810	
-61864	
-61874	
-61912	
-61923	neuter
-61927	
+61923	masculine
 61962	neuter
 61975	masculine
 62039	neuter
 62066	masculine
-62117	
 62167	masculine
-62240	
 62316	neuter
 62363	masculine
 62368	neuter
 62389	masculine
-62439	
-62467	
 62488	neuter
 62540	neuter
 62566	feminine
 62582	feminine
 62599	feminine
-62696	
 62726	masculine
-62754	
 62777	masculine
 62873	neuter
 62878	neuter
 62886	neuter
-62917	
-62929	
 62938	masculine
 62975	neuter
 neuter
-63150	
-63335	
-63430	
-63461	
+63335	neuter
 63564	masculine
 63618	masculine
-63646	
-63675	
-63678	
 63736	masculine
-63787	
-63789	
 63848	masculine
 63864	masculine
 63905	masculine
-63919	
 63967	masculine
-63972	
 64023	masculine
-64037	
-64063	
 64091	masculine
-64095	
-64100	masculine/feminine
 64152	masculine
 64179	masculine
-64181	
-64201	
-64258	
 64273	masculine
-64307	
-64316	
-64340	
 64343	masculine
-64353	
 64357	neuter
 64375	feminine
-64397	
-64407	
 64417	masculine
-64421	masculine
 64425	feminine
 64430	masculine/neuter
 64442	masculine
@@ -2341,2795 +829,704 @@ neuter
 64500	masculine/neuter
 64520	feminine
 64533	feminine
-64588	
-64624	
-64656	
-64663	
-64718	
-64727	
-64738	
-64778	
-64799	
-64817	feminine
 64911	masculine
 64934	masculine
-64984	
-65081	
 65086	masculine
-65164	
 65319	masculine
 feminine
-65418	
-65436	
 65445	masculine/neuter
-65479	
 65485	masculine/neuter
-65492	
-65498	masculine/feminine/neuter
-65518	
-65527	
-65531	
-65571	
 65577	masculine
 65604	masculine
-masculine/feminine
 65611	masculine
-65634	
-65742	
 65783	masculine
 65787	masculine
 65803	masculine
-65820	
-neuter
-65925	
-65933	feminine
-65954	
-65985	
-65987	
-66045	
+65821	neuter
 66087	masculine
-66114	
-66178	
-66289	
-66346	
-66366	
-66371	
-66380	
 66395	neuter
-66399	
-66430	
-66444	
-66462	
-66483	feminine
-66522	
 66526	masculine
-66542	
 66570	masculine
-66674	
-66679	masculine/feminine
-66719	
 66796	masculine
 66831	neuter
-66837	masculine/feminine
-66973	
-67099	
-67105	
-67115	
-67227	
-67234	
-67273	
 67306	neuter
 67332	feminine
 67343	feminine
-67346	
 67391	neuter
-67398	feminine
+67398	masculine
 67401	masculine/feminine
 67439	masculine
 67442	masculine
-67462	
-
-67512	
-67516	
-67570	
-67599	feminine
 67607	masculine
-67623	
-67723	
-67749	
-67753	
-67825	
 67834	masculine
 67877	masculine/neuter
-67888	
-67983	
-68033	
-68041	masculine/feminine
-68070	masculine/feminine
-68108	
 68112	feminine
 68135	feminine
-68213	
-68218	
-68324	
-68377	
 68379	neuter
-68450	
-68524	
-68557	
-68647	feminine
-68649	
-68667	
 68685	masculine/neuter
-68731	
-68801	
-68975	
+68731	neuter
 69026	masculine/feminine
-69045	
 69078	neuter
-69131	
-69136	masculine/feminine
-69157	
-69173	
-69214	
 69242	neuter
-69269	
 69275	masculine
 69291	masculine
-69344	
 69375	neuter
 69408	neuter
-69460	
 69489	masculine
-69542	
 69557	masculine
 69564	masculine
 69634	masculine
 69640	masculine/feminine
-69651	
 69653	neuter
-69657	
-
-69716	
 69718	feminine
-69733	
 69739	masculine
 69747	masculine
-69764	
-69776	
 69785	masculine
 69860	neuter
-69872	
 69875	feminine
-69902	
-69915	
-70018	
-70057	
-70064	
-70078	
-70136	
-70149	
-70195	
-70212	
-70246	
 70277	neuter
-70297	
-70306	masculine/feminine
-70311	
-70319	
 70529	masculine
-70557	
-70603	
 70672	masculine
-70689	
-70693	
 70743	masculine
-70747	feminine
-70757	
 70821	masculine
-70856	
 71113	masculine
-71134	
-71202	
 71230	masculine
-71281	
-71291	
-71335	masculine/feminine
-71352	masculine/feminine
-71387	masculine/feminine
-71398	
-71518	
-71529	
-71547	
-71567	
-71571	
-71608	
-71729	
 71779	neuter
 71886	feminine
-71923	
 71951	masculine
 71964	feminine
 71970	neuter
-71977	
 72027	masculine
-72032	
 72043	masculine
 72124	neuter
-72127	
-72141	
-72177	
-72309	
+72127	masculine
 72336	masculine/feminine
-72345	
-72460	
-72532	
 72568	feminine
-72652	
-72658	
-72669	
-72682	
 72695	neuter
-
-72793	
-72874	
-72881	
-72902	
-72917	
-72968	
-72987	
-73104	
 73107	feminine
-73147	
-73200	
-73238	
-73301	
-73397	
-73415	
-73417	
 73498	masculine
-73506	
-73551	
-73565	
 73658	neuter
 73682	masculine/feminine
-73732	neuter
-73804	
-73871	
-73918	
-74008	
-74013	
+73804	feminine
 74020	neuter
 74070	neuter
-74103	
-74167	
-74207	
-74240	
-74243	
-74313	
-74318	
-74379	
-74381	
-74388	
-74398	
 74410	masculine
-74425	
 74432	neuter
-74443	
 74527	feminine
-74576	
-74601	masculine
-74650	
-74690	
-74713	
-74771	
 74778	feminine
 74881	feminine
 74895	masculine
 74900	masculine
 74916	masculine
-74971	
 75018	masculine
-75031	
-75074	
-75081	
-75095	
-75108	
 75112	masculine
-75137	
-75265	feminine
-75324	
-75327	
 75337	masculine
-75453	
-75492	
-75539	
-75544	
 75575	masculine
 75658	masculine
-75673	
 75723	masculine
 75727	masculine
-75752	neuter
 75848	neuter
-75866	
-
 75883	neuter
-75919	
-75962	
-75992	
 75995	masculine/feminine
 76035	feminine
 76090	masculine
 76092	masculine
 76126	masculine
-76131	
-76135	
-76346	
 76499	feminine
-76539	
 76562	neuter
 76577	feminine
-76606	
-76690	
-76768	
-76809	
-76821	masculine/feminine
 76848	masculine
-76853	
-76865	
 76868	masculine/feminine
-76914	
-77004	
-77017	
-77027	masculine/feminine
-77043	
-77074	
 77096	masculine
-77114	
-77125	
-77134	
-77152	
 77156	feminine
 77162	neuter
 77171	masculine/feminine
-77184	
 77205	neuter
 77216	neuter
 77249	neuter
-77260	
 77276	neuter
 77360	masculine
-77405	
 77437	neuter
 77484	feminine
-77537	
 77593	masculine
-77597	
-77602	masculine/feminine/neuter
 77633	masculine
-77637	
 77706	feminine
 77716	masculine
-77750	
 77759	masculine
-77809	
 77814	masculine
 77830	masculine
-77844	
-77866	
-77871	
-77898	
 77942	neuter
-77951	
 77977	masculine
 78039	neuter
-78049	
 78056	masculine
-78058	
-78139	
 78154	feminine
-78292	
-78356	
-78362	
-78373	
-78382	
-78441	
-78550	
-78596	
 78618	feminine
-78709	
-78807	
 78843	feminine
-78852	
 78898	neuter
 79026	masculine
 79033	masculine
 79086	neuter
-79101	neuter
-79146	
-79152	
-79225	
-79245	
-neuter
+79246	neuter
 79407	feminine
-79491	feminine
-
 79535	masculine
-79597	
-79673	
-79688	
-79704	
 79795	neuter
-79860	
 79986	feminine
-80004	
 80040	masculine
 80199	masculine
-80218	
 80312	neuter
-80314	
-80375	
 80426	feminine
-80429	
-80465	
 80484	feminine
-80487	
 80504	neuter
-80632	
 80636	neuter
-80770	
-80821	
-80965	neuter
-80985	
-81112	
-81120	
-81182	
-81203	
-81244	
-81275	
 81286	neuter
 81295	neuter
 81297	feminine
-81348	
-81398	
-81478	
-81502	
-81540	
-81554	
-81581	
-81591	
 81597	feminine
-81658	
 81673	masculine
 81699	neuter
 81751	masculine
-81806	neuter
-81812	masculine
-81835	
-81857	
-81894	
-81897	
+81812	masculine/feminine
 81936	feminine
-
-82024	
-82033	
-82064	
-82086	
-82119	
-82148	
-82151	
-82220	
-82235	
-82269	
-82276	
-82283	
-82308	masculine/feminine
-82321	
-82325	feminine
-82335	
 82371	neuter
 82408	neuter
-82482	
-82529	
-masculine
-82616	
-82729	
+82530	masculine
 82735	neuter
-82784	
-82819	
-82910	
-82926	
-82973	
-83054	
-83062	
-83083	
-83110	
-83114	
-83159	
-83274	
-83407	
-83426	
 83450	neuter
 83469	masculine/feminine
-83475	
-83486	feminine
-83508	
-83522	
-83536	
-83551	
-83558	
-83564	feminine
+83486	masculine
 83582	masculine
-83600	
-83607	
-83661	
 83665	feminine
-83678	
-83690	
-83692	
-83700	
-83713	
-83725	
-83807	
-83823	
 83858	feminine
 83862	neuter
 83866	feminine
-83882	
-83905	
-83916	
-83976	
-83979	
-83989	
 84006	neuter
-84099	
 84146	masculine/neuter
 84151	neuter
-84169	
-84173	
 84198	masculine/feminine
-84226	
-84230	
 84234	masculine
-84240	
-84264	
-84272	
-84326	masculine/feminine
-84346	
-84407	
-84442	
 84470	feminine
-84487	
-84536	
-84614	
-84621	
-84662	
-84693	
-84722	feminine
-84744	
-84828	
-84833	
-84860	
+84722	masculine
 84874	masculine
-84877	
-84901	
-84931	
-84955	
-84977	
-85056	
-85064	
-85072	
-85074	feminine
-85118	
+85074	masculine
 85238	neuter
-85264	
-85279	
-85320	
-85370	
-85392	
-85439	
-85501	
-85508	
-85528	
-85539	
-85553	
-85571	
 85592	masculine/neuter
-85627	
-85631	
-85715	
 85726	feminine
 85732	feminine
-
-85737	
-85775	
-85833	
-85845	
 85854	feminine
-
-85867	
-85903	
-85935	
-85939	
-85987	
-85994	
-86006	
-86041	
-86043	
-86057	
-86062	
 86069	feminine
-86140	
 86142	feminine
 86158	feminine
-86228	
-86294	
-86340	
-86347	
-86350	
 86363	neuter
-86408	
-86449	
-86458	
-86470	
-86482	
-86523	
-86583	
-86586	
 86609	neuter
-86618	
-86679	
-86683	
-86701	
 86705	masculine/feminine/neuter
-86719	
 86729	feminine
-86732	
-86765	
-86800	
 86811	masculine/neuter
-86936	
-86962	
 87002	feminine
-87028	
-87031	
 87037	feminine
-87045	
-87070	
-87075	feminine
 87078	feminine
-87082	
-87110	
 87122	neuter
-87177	
-87186	
-87231	
-87236	
 87251	feminine
 87390	masculine
-87435	
-87437	
-87463	
 87469	masculine
-87483	
-87532	
-87555	
-87557	
 87582	feminine
-87593	
-masculine/neuter
+87594	masculine/neuter
 87610	feminine
-87616	
-masculine/neuter
-87626	
-87634	
-87638	
-87646	
-87651	
+87617	masculine/neuter
 87669	masculine/neuter
-87724	
-87732	
-87775	
-87782	
-87820	
 87842	masculine/neuter
-87850	
 87882	masculine/neuter
-87894	
-87899	
-87922	
-87943	
-87964	
-87973	
-87996	
-88005	
-88027	
-88037	
-88075	
-88177	
-88194	
-88211	
-88216	
-
-88277	
-
-88280	
 88298	masculine/neuter
-88315	
-88317	
-88369	
-88378	
-88381	
 88403	masculine
-88421	
-88438	
 88446	neuter
-88457	
-88473	
 88488	feminine
-masculine/feminine
-88505	
-88509	
-88518	
-
-88526	
-88532	
-88545	
-88597	
 88605	neuter
-88622	
-88653	
-88703	
-88706	
 88720	feminine
-88735	
-88742	
-88761	
-88779	
-88808	
+88735	neuter
+88742	neuter
 88811	masculine
-88839	
 88886	neuter
 88892	neuter
-88936	
-88943	
-88949	
-88953	
-88957	
-88968	
 89002	feminine
 89011	feminine
-89025	
 89089	feminine
-89095	
 89118	feminine
-89134	
-89142	
-89172	masculine/feminine
-89186	
-89209	
-89218	
-89232	
-89293	
-89307	
+89218	neuter
 89310	masculine/neuter
-89336	feminine
+89336	masculine
 89363	masculine
-89510	
-89545	
 89585	neuter
-89603	
-89614	
 89629	neuter
-89685	
-89692	
-89715	
 89765	neuter
-89808	
-89810	feminine
 89820	neuter
-89824	
 89830	feminine
-89866	
-89880	
-89973	feminine
-90007	
 90017	masculine/neuter
 90051	feminine
-90063	
-90142	
-90202	
-90221	
-90251	feminine
-90272	
 90278	feminine
-90287	
-90305	
-90315	
 90357	masculine/neuter
-90370	
-90430	
-90463	
-90467	
-90587	
-90596	
-90608	
-90628	
-90634	masculine/feminine
-90665	
-90697	
-90725	
-90762	
-90778	
 90794	masculine
-90798	
-90811	
-90877	
-90943	
-
-90946	
-90950	
-90953	
-90998	
-91001	
-91010	
-91036	
-91064	
-91069	
-91095	
-91100	
-91117	
 91136	feminine
-91256	
-91259	
 91359	feminine
 91361	feminine
 91365	feminine
 91369	neuter
 91386	masculine
 91444	masculine
-91479	
-91482	
-91529	
-91556	feminine
-91566	
+91556	masculine
 91573	feminine
-91584	feminine
-91601	
-91612	
 91620	feminine
-91635	
 91682	masculine
 91689	masculine
-91698	
-91710	
-91730	
-91751	
 91805	feminine
-91816	
 91852	neuter
 91875	neuter
-91892	
-91907	
 91919	masculine/neuter
-91930	
-91935	
-91943	
-91966	
-91980	
-92005	
-92012	
-92014	
-92016	
-92022	
-92064	
-92071	
 92084	masculine
-92102	
-92146	
-92158	
-92215	
-92225	
-92235	
-92239	
-92242	
-92248	
-92252	
 92287	masculine/neuter
-92292	
-92301	
-92303	
 92314	masculine/neuter
-92323	
-92326	
-92344	
-92352	
 92370	masculine/neuter
-92383	
-92398	
 92425	feminine
-92515	
-92548	
-92550	
-92561	
-92577	
-
-92587	
-92616	
-92623	
-92685	
-92702	
-92731	
 92759	masculine/neuter
-92765	
-92783	
 92807	neuter
-92812	
 92826	feminine
 92841	feminine
-92851	
-92867	
 92874	masculine
-92876	
-92891	
-92904	
 92909	feminine
-92952	
-93013	
-93018	
-93033	
-93059	
 93114	masculine
-93130	
 93155	neuter
 93162	neuter
-93175	
 93185	neuter
 93238	masculine
 93256	masculine
-
 93260	masculine
-93270	
-93293	
 93310	feminine
-93315	
 93362	feminine
-
-93378	
-93485	
-93541	
 93601	neuter
 93640	masculine
 93676	masculine
 93716	masculine
-93740	
-feminine
+93741	feminine
 93760	masculine/neuter
 93834	masculine/neuter
 93839	masculine/neuter
-93846	
-93851	
-93855	
-93859	
-93863	
-93865	
 93867	masculine
-93888	
-93904	
-93917	
-93931	
 93950	masculine/neuter
-93954	
-93988	
-94003	
-94012	
-94022	
-94069	
-94082	
-94135	
-94147	
 94157	neuter
-94216	
-94223	
-94261	
-94282	
-94293	
-94311	
-94339	
-94341	
-94359	
-94416	
-
-94424	
-94432	
-94436	
-94448	
-94452	
-94462	
 94482	masculine
-94502	
-94514	
 94605	neuter
-94687	
 94694	masculine
-94740	
-94742	
-94756	
-94758	
-94780	
-94870	
 94880	feminine
-94907	
-94925	
-94987	
-95019	
 95027	neuter
-95039	
-95052	
-95067	
-95074	
 95094	masculine
-95234	
 95261	neuter
-95293	
-95302	
-95308	
-95326	
-95341	
-95356	
-95381	
-95421	
-95455	
-95459	
-95465	
-95495	
-95508	
-95520	
-95527	
-95560	
-95569	
-95572	
-95594	
 95611	feminine
-95622	
-95665	
-95670	
-95684	
-95694	
-95716	
-95725	
 95733	neuter
-95745	
-95795	
-95880	
-95893	
-95914	
-95921	
 95938	neuter
-95957	
-95965	
-95988	
-95997	
-96003	
 96015	feminine
 96043	feminine
-
-96049	
 96070	feminine
-96096	
-96109	
-96146	
-96152	
 96157	neuter
-96160	
-96166	
-96231	
-96234	
-96251	
-96275	
-96305	
-
-96311	
-96322	
-96334	
-96356	
-96364	
-96378	
-96385	
-96399	
-96407	
-96413	
-96419	
-96431	
-96467	
-96473	
-96526	
 96540	masculine/neuter
-96554	
-96560	
-96566	
-96638	
-96646	
-96654	
-96695	
-96708	
-96720	
-96747	
-96753	
-96770	
-96791	
-96804	
-96807	
-96812	
-96830	
-96865	
-96882	
 96932	feminine
 96966	neuter
 96968	masculine
-96976	
-97027	
-97036	
-97052	feminine
-97054	
-97063	feminine
-
 97150	masculine
-97163	
-97207	
 97211	neuter
-97257	
-97291	
-97306	
 97331	feminine
 97346	feminine
 97365	feminine
 97389	feminine
-97392	
-feminine
+97393	feminine
 97404	feminine
-97414	
 97419	masculine/feminine/neuter
-97466	
-97512	
-97515	
-97544	
-97561	
 97569	masculine
-97580	neuter
-97591	
-97620	
-97676	
-97804	
-97831	
-97854	
-97863	
-97867	
-97873	
-97876	
-97890	
-97900	
-97905	
-97909	
-97917	
-97920	
-97946	
-97953	
-97976	
-97991	
-98012	
-98017	
+97580	masculine
 98020	masculine
-98034	
-98042	
-
-98048	
-98052	
-98055	
-98057	feminine
-98061	
-98067	
+98057	masculine
 98070	feminine
-98083	
-98085	
-98094	masculine/feminine
-98121	
-98143	
 98146	masculine
 98161	feminine
 98294	masculine
-98322	
-98364	
-98380	
-98424	
-98435	
-98469	
 98490	masculine
-98506	
-98531	
-98550	
-
 98589	feminine
-98603	
-98625	
-98658	
-98752	
-98757	
-98799	
 98813	masculine
 98885	masculine/neuter
-98935	
-98962	
 99011	masculine/neuter
-99042	feminine
-99044	
-99086	
-99145	
-99161	
-99185	
-99187	
-99189	
-99191	
-99193	
-99195	
 99205	feminine
-99230	masculine/feminine
-99374	
-99413	feminine
-99421	
-99431	
-masculine/neuter
-
-99442	
-99450	
-99480	
-99512	
-99593	
+99432	masculine/neuter
 99608	neuter
-99612	
 99617	neuter
-99632	
-
-99635	
 99653	feminine
-99656	masculine/feminine
-
-
-99660	masculine/feminine
-99662	
 99697	neuter
-99704	
 99717	neuter
-99736	
-99779	
-99796	
 99798	masculine
 99827	masculine
 99834	masculine
 99855	feminine
 99902	feminine
 99909	feminine
-99930	
 99937	feminine
 99941	neuter
-
-99981	
 100031	masculine
-100063	
-masculine
-100096	
-100124	
-100149	
-100203	
-100222	
-100308	
-100319	
+100064	masculine
 100323	masculine
-100346	masculine
 100419	feminine
-100439	
 100441	masculine
-100490	
-100497	
-100503	
-100506	
-100520	
 100557	masculine/neuter
 100561	feminine
-100573	
 100581	masculine
-100590	
-100599	
-100613	
 100631	masculine/neuter
 100644	masculine/neuter
-100646	
-100649	
-100652	
-100656	
 100697	masculine
 100748	neuter
-100750	
-100762	
-100773	
 100789	feminine
-100796	
-100813	
-100823	
-100896	
-100905	
-100923	
 100947	masculine
 100956	neuter
-100975	
-101032	feminine
-101078	
-101088	
-101101	
-101106	
-101115	
 101150	feminine
-101154	
-101178	
-101188	
 101232	neuter
 101240	masculine
-101253	
-101272	
-
-101282	
-101293	
-101366	
-101385	feminine
+101385	masculine
 101391	masculine
 101397	neuter
-101413	
-101422	
-101441	
-101466	
-101477	
-101497	
-101566	
-101568	
 101587	masculine/neuter
-101641	
 101660	neuter
-101728	
-101764	
-101770	masculine/feminine
 101782	feminine
-101876	
 101887	masculine/neuter
-101927	
-neuter
-102045	
+101928	masculine
 102057	neuter
-102077	
-102093	
 102133	feminine
 102202	feminine
-102242	
 102279	feminine
 102295	masculine/feminine
 102326	masculine
-102382	
-102388	
 102421	masculine/neuter
 102461	masculine/neuter
 102516	neuter
-102555	
 102653	feminine
 102661	masculine/neuter
-102676	
-102723	
-102752	
-102761	
-102769	
-102797	
-102816	
-102848	
-102884	
-
-102924	
-102932	
-103017	
-103072	
-103103	
 103122	masculine/neuter
-103125	
 103130	feminine
-103172	
-103175	
-103216	
 103228	feminine
-103251	
-103254	
-103257	
-103272	
-103286	
-masculine/neuter
-103290	
-103292	
-103300	
-103317	
-103346	
+103272	neuter
+103287	masculine/neuter
 103355	feminine
 103361	neuter
-103367	
-103420	
 103436	masculine/feminine
-103485	
-103506	
-
 103514	masculine
 103526	masculine
 103548	neuter
-103597	
-103618	
-103627	
-103636	
-103676	
-103713	
-103722	
-103730	feminine
-103744	
-103754	
-103806	feminine
-103809	
-103830	
-103918	feminine
-103920	
-103953	
-103968	
-104026	
-104030	
-104035	
-104054	
+103918	masculine
 104144	masculine
-104148	
-104160	
-104284	
-104354	
-104357	
 104398	feminine
-104402	
-104405	
 104409	neuter
-104411	
-104421	
-104442	
 104559	neuter
-104699	
-104797	
-104891	
-104894	
 104920	neuter
-104982	
-105022	
 105025	masculine/neuter
-105037	
-105102	
-105113	
-105145	
-105195	
-105237	feminine
-105264	
-105266	
-105308	
-
-105331	
-105371	
-105378	feminine
-105436	
-105438	
-105446	
-105466	
-105472	
-105481	
-105508	
-105546	
+105145	neuter
 105572	neuter
 105594	neuter
-105615	
-105624	
 105629	feminine
-105637	
 105647	neuter
-105656	
 105683	masculine/neuter
 105689	neuter
-105754	
-105761	
-105763	
-105768	
-105788	
-105809	
-105816	
-105823	
-105857	
-105886	
-105999	feminine
-
-106002	
 106006	neuter
-106015	
-106036	
 106050	feminine
-106089	
 106099	masculine
-106108	
-106134	
-106142	feminine
-106148	feminine
-
-106157	
 106183	feminine
-106215	
-106249	
-106251	
-106253	feminine
-106277	
 106324	feminine
-106349	
-106379	
-106388	
-106421	feminine
-106469	
-106473	
-106512	
-106588	
-106616	
-106648	
-106660	
-106676	
-106686	
-106715	
-106747	
-106763	
-106839	
-106875	
 106937	masculine
 106973	neuter
-106975	
-106984	
-106992	
-107002	
-107030	
-107101	
 107118	neuter
-107126	
-107137	
-107154	
-107178	
-107209	
-107215	
-107258	
-107267	
 107280	feminine
-107293	
 107312	masculine/neuter
 107351	masculine
-107355	
-107436	
-107456	
-107474	
-feminine
+107475	feminine
 107555	masculine/neuter
 107579	feminine
-107596	
-107639	
-107642	
-
 107674	feminine
-107683	
-107728	
-107768	
-107865	feminine
-107888	feminine
-107891	
-107896	
-107908	
-107912	feminine
+107865	masculine
 107940	neuter
-107956	
-107960	
-108041	
-108059	
-108125	
-108139	feminine
-
-108158	
-108249	feminine
-108302	
 108330	masculine/neuter
-108343	
 108370	masculine
-108373	
-108400	
-108418	
-108442	
-108446	
-108453	
-108476	
-108507	
-108552	
 108569	neuter
-108593	
-108595	
-108631	
-108654	
-108666	
-108673	
-108678	
-108712	
-108724	
-108780	
-108803	
-108829	
-108884	feminine
-108908	
-108918	
-108932	
-108969	
-108976	
 108988	masculine
-108990	
-109004	
-109025	
 109039	masculine
-109044	
-109076	
-109081	
-109098	
 109107	feminine
-109168	
-109188	
-109213	
 109259	neuter
-109288	
 109305	neuter
-109353	
-109360	
-109390	
-109416	
-109421	
-109448	
-109506	
-109511	
-109535	
-109571	
-109586	
-109604	
-109612	
 109618	neuter
 109621	feminine
-109626	
-109628	
-109633	
-109651	
-109730	
-109732	
-109754	
 109773	neuter
 109792	neuter
 109803	masculine
 109819	masculine
-109862	
-109895	
-109920	
-109976	
-110037	feminine
-110041	
-110050	
-110065	feminine
-110120	
-110150	
 110156	neuter
-110175	
-110183	
-110195	
-110221	
-110275	
-110304	
-110340	
-110386	
-110395	
 110404	neuter
-110406	
-110430	
-110448	
-110450	
-110460	
-110472	
-110485	
 110500	feminine
 110541	feminine
-110548	
-110571	
-110584	
-110590	
-110608	
-110640	
-110655	
-110660	
-110672	
-110704	
-110741	
 110748	feminine
 110752	feminine
 110767	masculine
-110777	
-110807	
-110874	
-110899	
-110901	
 110906	neuter
-110925	
 110930	masculine/neuter
-110936	
 110977	feminine
-110998	
-111014	
-111025	
-111063	
-111067	
-111072	
-111165	
-111180	feminine
-111189	feminine
-
 111220	masculine/feminine
-111229	
-111245	
-111274	
 111278	neuter
-111342	
 111370	feminine
-111373	
-111415	
-111438	
 111471	neuter
-111508	
-111557	
-111591	feminine
-111598	
-111610	
-111658	
-111707	
-111711	
-111773	
-111782	
-111794	
-111799	
-111824	
-111839	
-111929	
 111934	neuter
-111936	
-111938	feminine
-111946	masculine/feminine
 111991	masculine/neuter
-112044	
-112050	feminine
-112079	
-112086	
-112091	
-112105	
-
 112117	neuter
-112124	
-112129	
-112144	
-112163	
-112199	
 112228	neuter
-112255	
-112261	
-112301	
-112320	
-112322	
 112443	neuter
-112453	
 112457	neuter
-112461	
-112463	
-112472	
-112478	
+112478	masculine/feminine/neuter
 112491	masculine/feminine
-112515	
-112526	
-
-112540	feminine
 112542	feminine
 112550	neuter
-112558	
-112570	masculine/feminine
 112576	neuter
 112607	neuter
-112610	
-112612	
 112619	feminine
 feminine
 112639	neuter
-112680	
 112688	masculine
-112696	
 112766	neuter
-112770	masculine/feminine
-112780	masculine/feminine
-112788	
-neuter
-112796	
-112812	
-112815	
-112828	
+112789	neuter
 112842	feminine
-112855	
-112883	
-112887	
-112898	
-112909	
-112921	
-112939	
 113002	masculine
-113015	
-113051	masculine/feminine
-113055	masculine/feminine
-113083	
 113090	feminine
-113220	
-113229	
-113232	
 113301	masculine/feminine
-113311	
-113314	
-113323	
-113328	
-113330	
-113349	
-113422	
 113425	masculine
-113433	
 113458	masculine
-113481	
-113497	
-113514	
-113535	
-113551	
-113557	
-113564	
-113571	
-113574	
 113578	masculine/neuter
-113592	
 113604	neuter
-113607	
-113663	masculine/feminine
-113672	
 113694	masculine
-113750	
-113762	
-113776	
 113811	masculine
-113828	
-113830	
-113832	
-113850	
-113876	
-113890	
-113895	
-113905	
-113958	
 113967	masculine
-113970	
-113995	
 114060	feminine
-114104	masculine/feminine
-114122	
-114134	feminine
-114147	
-114153	
-114181	
-114213	
-114228	
-114274	
 114298	masculine
-114303	
-114329	
-114372	
-114439	
-114472	
-114504	
-114530	
-114534	
-114549	
-114590	
-114599	
-114654	
-114697	
-114715	
-114737	
 114744	feminine
-114777	
 114855	feminine
-114860	
-114934	
 114981	feminine
 114989	feminine
-115009	
-115043	
 115048	masculine
 115060	feminine
-115126	
 115152	masculine
-115168	
-115184	
 115190	neuter
-115263	
-115286	
-115303	
-115307	
-115338	
-115346	
 115349	masculine/neuter
 115380	masculine/neuter
-115416	
 115426	feminine
-115438	
-115479	
 115488	neuter
 115500	neuter
-115545	
-115577	
 115610	masculine/feminine
 115649	neuter
 115654	masculine
 115658	masculine
-115672	
-115679	feminine
-115681	
+115679	masculine
 115694	neuter
-115703	
 115705	neuter
-115719	
-115778	
-115780	
-115785	
-115822	
-115824	
-115848	
-115926	
-115938	
 115953	neuter
-115955	
 116036	feminine
 116047	feminine
-116076	
-116087	
-116096	
 116138	neuter
-116154	
-116179	
-
-116196	
-116212	
-116217	
-116279	
-116329	
-116341	
-116402	
-116404	
 116427	feminine
 116451	masculine
 116471	masculine/feminine
-116507	masculine/feminine
-116626	
-116771	
-116783	
-116788	
-116821	
 116831	masculine/feminine
-116833	
-116874	
-116914	
-116946	
-117028	
-117151	
-117185	
-117322	
-117362	
 117485	masculine/feminine
-117507	
 117521	neuter
-117568	
 117577	masculine
-117585	
 117602	masculine
-117629	
-117733	
-117758	
 117793	masculine
-117828	
 117852	neuter
-117860	
 117873	masculine
-117903	
 117968	masculine
-117977	
-118017	
-118035	
-118041	
-118055	
-118090	
-118170	
-118211	
-118288	
-118293	
 118344	masculine
-118351	
-118401	
 118426	neuter
-118470	
-118521	
-118579	
 118611	masculine
-118620	
-118669	
-118673	
 118675	feminine
-118685	
 118772	masculine
-118873	
-118889	
-118981	
-119127	
-119136	
-119210	
-119219	
-119237	
-119253	
-119255	
 119363	masculine
 119393	masculine/neuter
 feminine
-119411	
-119416	
 119438	masculine
-
-119462	
-masculine
+119463	masculine
 119467	neuter
-119570	
-119577	
-119617	
 119625	feminine
 119659	feminine
-
-119694	
-119719	
-119741	
 119767	masculine
-119781	
-119783	
-119875	
 119887	neuter
-119901	
-119905	
-119937	
-119958	
 119966	masculine/feminine
-119979	
 120041	neuter
-120056	
-120061	
 120072	feminine
-120117	
 120133	neuter
-120136	
-120141	
-120166	
-120191	
-120237	
-120285	
 120297	masculine
-120311	
-120316	masculine/feminine
-120353	
-120381	
-120419	
-120470	
-120494	
 120563	masculine
-120580	
-120588	
-120732	
-120739	
-120751	
-
-
-120776	
-120793	
-120799	
-120872	
-120914	
-120989	
-120991	
-121004	
-121013	
-
-121042	
-121051	
-121056	
-121067	
-121087	
-121167	
-121259	
-
+120914	neuter
 121280	feminine
 121322	masculine
-121334	
-121341	
-121347	
 121353	masculine
-121359	
-121374	
-121376	
 121413	masculine/feminine/neuter
-121439	
-121452	
-121482	
-
-121496	
-121514	
-121561	
-121581	
-121602	
-121606	
-121644	masculine/feminine
-
 121647	feminine
-121650	
 121654	masculine
-121661	
 121664	neuter
-121674	
-121693	
-121716	
+121693	neuter
 121719	neuter
-121737	
-121798	
-121835	
-121841	
-121871	
-121877	
-121900	
-121909	
 121915	masculine
-121932	
-121944	
 121974	feminine
-121993	
-122012	
-122032	
-122087	
 122114	feminine
-122124	
 122127	feminine
-122155	
-122175	
-122204	
 122208	masculine
-122231	
-122235	
-122249	
-122260	
-122267	
-122279	
-122341	
-122356	
-122366	feminine
-
-122379	
-122394	
-122409	
-122421	
-122441	
-122443	
-122477	
-122507	
-122572	
 122689	masculine
 122706	masculine/neuter
 122712	feminine
-122721	
-feminine
-122724	
 122727	masculine
-122759	
-122772	
-122798	
 122814	masculine
-122902	
-
-122911	
-122913	
 122929	masculine
-122931	
-122971	masculine/feminine
-122997	
-123011	
-123052	neuter
-123066	
-123096	
-123103	
-123107	
-123116	
+123052	masculine
 123136	masculine
-123159	
-123170	
-123255	
-
-123269	
 123276	neuter
-123278	
-123302	
 123309	feminine
 123345	masculine/neuter
-123398	
-123422	
-123458	
-123467	
-123479	
-123615	
-123621	
-123628	
-123643	
-123645	
-123677	
-123696	
-123701	
-
-123729	
-123735	
-feminine
+123736	feminine
 123738	feminine
-123748	feminine
-123757	
-123786	
-123820	
-123826	
-123849	
-123851	
-123874	
-123889	
-123893	
-123940	
+123748	masculine
 123958	feminine
-123989	
-123991	
-124025	
-124067	
 124073	neuter
-124075	
-124087	
-124143	
-124169	
-124192	
-124207	
 124241	neuter
-124245	
-124258	
-124267	
-124274	
 124283	neuter
-124328	
-124334	
-124384	
-124405	
-124409	
-124431	
-124471	
-124477	
-124484	
-124495	
-124497	
-124543	
-124563	
-124566	
 124573	neuter
-
-124582	
-124591	
-124593	
-124705	
-124713	
-124716	
-124721	
 124732	feminine
-124747	
 124759	neuter
 124771	feminine
-124783	
-124787	
-124803	
-124863	
-124867	
-124876	
-125001	
-125019	
-125047	
-125062	
-125082	
-125107	
-125110	
-125132	
-125145	
-125269	
-125297	
-125302	
-125379	
 125381	feminine
-125399	
-125404	
-125411	
-125417	
-125428	
-125432	
-125569	
-125656	
-125658	
-125669	
-125679	
-125721	
-125723	
-125748	
-125769	
-125797	
-125807	
-125873	
-125883	
-125952	
-126015	
-126036	
-126054	
-126057	
-126074	
-126086	
-126099	masculine/feminine
-126156	
-126303	
-126314	
-126386	
-126391	
-126427	
-126440	
-126481	
-126523	
-126544	
-126552	
-126556	
-126569	
-126582	
-126592	
 126595	feminine
-126615	
 126618	feminine
 126685	neuter
-126880	
-126890	
-126896	
-126907	
 126918	feminine
 126935	masculine/neuter
-126997	
-127037	
-127044	
-127085	
-127114	
-127144	
-127174	
-127180	
-127225	
 127237	masculine
-127247	
-127279	
-127282	
-127324	
-127328	
-127340	
-masculine/feminine
-127385	
-127416	
-127421	
 127457	masculine
-127485	
 127543	feminine
 127563	masculine
-127596	
-127599	
 127620	neuter
-127635	
-127668	
-127701	
-127727	
-127736	
-127743	
-127789	
-127812	
-127827	
-127870	
-127877	
-127920	
-127929	
-127961	
 128016	masculine
-128036	masculine/feminine
-128051	
-128076	
-128113	feminine
-128150	
-128152	
 128203	feminine
 128239	neuter
 128263	masculine
-128275	
-128287	
-128293	
 128333	masculine/feminine
 128349	masculine/feminine
 128355	masculine/feminine
-128388	
 128407	neuter
-128433	
-128443	
-128486	
 128505	feminine
-128522	
-128525	
-128535	
-128591	
-128606	
-128629	
 128653	neuter
-128717	
-128736	masculine/feminine
-128738	
-128753	
-128835	
-128849	
-128863	
-128892	
-128914	
 128916	masculine/neuter
-128930	feminine
 128951	masculine/neuter
 128988	neuter
 128999	neuter
-129016	
-129087	masculine/feminine
-129101	
-129117	
 129130	masculine/neuter
-129136	
 129139	neuter
-129162	masculine/feminine
-129167	masculine/feminine
 129169	neuter
-129204	
-129216	masculine/feminine
-129223	
-129255	
-129263	
-masculine/feminine
-129281	
 129296	feminine
 129304	masculine/neuter
 129314	neuter
-129459	
-129491	
-masculine/neuter
-129507	
+129492	masculine/neuter
 129529	neuter
-129540	
 129585	neuter
-129591	
-129663	
-129669	masculine/feminine
-129680	masculine/feminine
 129686	neuter
 129709	masculine
 129715	masculine
 129730	masculine
-129742	
-129779	
-129801	masculine/feminine
-129808	
-129821	masculine/feminine
-129835	
 129859	masculine/feminine
-129902	
 129936	masculine
-129962	
-130016	masculine/feminine
 130032	neuter
-130073	
 130086	neuter
-130093	
-130128	
-130143	
-130211	
 130236	neuter
-130318	
-130359	
 130392	masculine
-130402	
 130421	neuter
-130519	
-130651	
-130657	
-130692	
-130708	
-130794	masculine/feminine
-130798	masculine/feminine
-130842	
-130845	masculine/feminine
-130850	
-130942	masculine/feminine
 130963	feminine
-130986	
 130993	feminine
-130998	
 131000	feminine
-131029	masculine/feminine
 131060	neuter
-131068	masculine/feminine
 131080	neuter
-131085	masculine/feminine
-131109	
 131138	feminine
-131156	
 131225	masculine
-131231	
-131245	
-131255	
-131268	
-131278	
-131288	
-131295	
 131323	neuter
 neuter
 131395	neuter
-131429	
-131450	
 131468	masculine/neuter
-131481	
-131493	
-131497	
-131500	
 131507	masculine
 131573	masculine
 131598	masculine
-131604	masculine/feminine
 131700	masculine
 131703	neuter
 131771	masculine/feminine
-131775	
-131777	
 131808	masculine
-131882	
-131890	
-131894	
-131903	
-131918	
 131941	masculine/feminine
-132104	
 132172	masculine/neuter
-132183	
-132189	masculine/feminine
-132191	
-132219	
 132225	neuter
-
 132239	neuter
-132243	
-132253	feminine
-132256	
 132271	feminine
-132350	
 132395	masculine/feminine
-132421	
-132441	
 132473	feminine
-132477	
-132496	masculine/feminine
-132507	
-132548	
-132606	
-132626	
-132636	
-132681	
-132694	masculine/feminine
-132706	
 132809	feminine
 132841	feminine
-132861	masculine/feminine
-132950	
-133003	
 133065	masculine
 133082	masculine
 133110	neuter
 133144	neuter
 133167	feminine
 133208	neuter
-133226	
-133250	
-133263	
-133269	
 133282	neuter
 133295	feminine
 133303	neuter
-133309	masculine/feminine
-133321	
 133336	feminine
-133348	masculine/feminine
-133365	masculine/feminine
-133406	
-133454	
-133479	
-133527	
-133537	
-133560	masculine/feminine
-133564	masculine/feminine
-133567	
 133593	masculine
-133606	
-133665	
-133686	
-133701	
-133723	
-133747	
-133767	masculine/feminine
+133768	neuter
 neuter
-neuter
-133771	masculine/feminine
 133812	neuter
-133834	
-133848	
 133868	neuter
 133960	neuter
 134041	neuter
 134118	feminine
-134133	
 134145	feminine
-134158	
-masculine/feminine
-134210	
 134259	neuter
-134273	
-134355	
-134364	
 134380	neuter
-134382	
-134389	
 134396	feminine
 134441	neuter
-134451	
 134467	feminine
 134491	masculine
-134527	
-134555	
-134594	
-134638	
-134677	masculine/feminine
-134685	
 134735	neuter
-134758	
-134775	
 134807	masculine
 134862	neuter
-134881	feminine
-134885	
-134923	
-134942	
-134991	
-135013	
-135024	
-135027	
-neuter
+134881	masculine
+135028	neuter
 135045	neuter
 135062	masculine
-135075	
-135143	
-135150	
-135165	
 135181	neuter
-135192	
-135205	
-135221	
-135241	
 135337	neuter
-135424	
-135442	
-135444	
-135471	
-135535	
 135564	masculine
 135591	masculine/neuter
 135603	neuter
 135612	neuter
 135619	masculine
 135625	neuter
-135667	
-135744	
-135761	
-135781	
 135783	neuter
 135842	masculine
-135897	
-135916	
-135921	
-
-135939	
 135967	neuter
-135988	
-135999	
 136051	neuter
-136133	
-136158	
-136168	
-136198	
-136210	
 136213	masculine
-136259	masculine/feminine
 136314	masculine
-136364	
-136379	
-136445	
-136466	
 136476	neuter
 136547	neuter
 136566	feminine
-136628	masculine/feminine
-136645	
 136784	feminine
 136800	feminine
 136824	feminine
-136835	
-136843	
-
 136876	neuter
 136930	neuter
-136942	
-136984	
-137019	
 137138	masculine
-137195	
-137213	
-137240	
 137261	masculine/neuter
-137275	
-137295	
-137313	
-137359	
-137397	
-137412	
-137427	
 137432	feminine
-137447	
-
-137459	
-137469	
-137487	
-137500	
-137523	
-137632	
 137644	masculine
-137646	
-137709	
-137711	
-137714	
-137728	
 137733	masculine
 137766	feminine
-137776	

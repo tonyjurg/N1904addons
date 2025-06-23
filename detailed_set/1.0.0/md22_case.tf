@@ -11,48 +11,32 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:27+00:00Z
+@dateWritten=2025-06-22T22:25:28+00:00Z
 
-1446	accusative
-1647	accusative
-3943	accusative
-4091	accusative
-8400	accusative
-9305	accusative
-10935	accusative
-11994	
-14204	
-16185	
-19666	accusative
-20661	accusative
-20773	accusative
-21104	accusative
-22252	accusative
-23244	accusative
-24553	accusative
-25434	
-26821	
+1446	genitive
+1647	genitive
+3943	genitive
+4091	genitive
+8400	genitive
+9305	genitive
+10935	genitive
+19666	genitive
+20661	genitive
+20773	genitive
+21104	genitive
+22252	genitive
+23244	genitive
+24553	genitive
 27604	nominative/vocative/accusative
-27825	
-35966	accusative
+35966	genitive
 42922	dative
-44695	
-44807	
-46274	
-46880	
-49434	accusative
-50756	accusative
-52700	accusative
-52947	accusative
-53024	accusative
-53099	accusative
-57225	accusative
-61923	accusative
-68218	
+49434	genitive
+50756	genitive
+52700	genitive
+52947	genitive
+53024	genitive
+53099	genitive
+57225	genitive
+61923	genitive
 78139	nominative
-82086	
-97591	
-98435	
-104357	
-109819	
 121654	nominative

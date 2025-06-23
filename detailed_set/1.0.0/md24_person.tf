@@ -1,0 +1,28 @@
+@node
+@author=Morpheus (perseids-tools)
+@convertedBy=Tony Jurg
+@coreData=Nestle 1904 Text-Fabric (centerBLC)
+@coreDataUrl=https://github.com/CenterBLC/N1904
+@description=Morpheus analytic block 24 grammatical person
+@license=Creative Commons Attribution 4.0 International (CC BY 4.0)
+@licenseUrl=https://github.com/tonyjurg/N1904addons/blob/main/LICENSE.md
+@provenance=jupyter Notebook (https://github.com/tonyjurg/create_TF_feature_betacode)
+@valueType=str
+@version=1.0.0
+@website=https://github.com/tonyjurg/N1904addon
+@writtenBy=Text-Fabric
+@dateWritten=2025-06-22T22:25:28+00:00Z
+
+11994	p1
+14204	p1
+16185	p1
+25434	p1
+26821	p1
+27825	p1
+42922	p3
+44695	p1
+44807	p1
+46274	p1
+46880	p1
+82086	p1
+104357	p2

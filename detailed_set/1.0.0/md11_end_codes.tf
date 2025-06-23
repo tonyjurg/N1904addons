@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:23+00:00Z
+@dateWritten=2025-06-22T22:25:24+00:00Z
 
 574	aw_pr
 914	aw_pr
@@ -30,7 +30,7 @@
 1924	aw_pr
 1938	aw_pr
 1961	aw_pr
-2027	
+2027	hs_eos
 2060	oos_oon
 2678	aw_pr
 2717	art_adj
@@ -67,7 +67,7 @@
 4895	os_h_on
 4928	os_h_on
 4976	aw_pr
-5034	
+5034	hs_eos
 5188	art_adj
 5405	aw_pr
 5425	aw_pr
@@ -230,11 +230,11 @@ aor1
 17429	aor1
 17457	ew_pr
 18025	aw_fut
-18143	
+18143	hs_eos
 18537	aw_pr
 18547	aw_fut
 18671	aor1
-18851	
+18851	hs_eos
 18856	os_h_on
 18954	art_adj
 19007	ow_pr
@@ -691,7 +691,7 @@ ow_pr
 57921	art_adj
 58081	art_adj
 58131	art_adj
-58144	
+58144	hs_eos
 58215	ow_pr
 58292	os_h_on
 58425	irreg_mi
@@ -855,7 +855,7 @@ is_ews
 72682	aw_fut
 72902	aw_fut
 73506	ew_pr
-73732	
+73732	hs_eos
 73804	os_ou
 73871	ow_pr
 74013	aw_pr
@@ -878,7 +878,7 @@ is_ews
 75492	aw_fut
 75673	aw_pr
 75727	aw_pr
-75752	
+75752	hs_eos
 75866	os_ou
 75883	wn_onos
 75962	aw_pr
@@ -916,7 +916,7 @@ is_ews
 78843	aor1
 78852	ow_pr
 79026	ath_primary
-79101	
+79101	hs_eos
 79152	aw_pr
 79225	reg_fut
 79245	aw_pr
@@ -929,7 +929,7 @@ is_ews
 80632	ath_primary
 80636	ath_h_aor
 80821	ow_pr
-80965	
+80965	hs_eos
 80985	aw_pr
 81112	aw_pr
 81120	ew_pr
@@ -942,7 +942,7 @@ is_ews
 81658	art_adj
 81673	ew_pr
 81699	ew_pr
-81806	
+81806	hs_eos
 81835	ow_pr
 81894	art_adj
 81897	aw_fut
@@ -1188,7 +1188,7 @@ aw_fut
 96146	aw_pr
 96152	is_ews
 96166	aw_pr
-96251	
+96251	prep
 96305	art_adj
 hs_eos
 96334	art_adj

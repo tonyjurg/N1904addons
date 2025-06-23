@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:23+00:00Z
+@dateWritten=2025-06-22T22:25:25+00:00Z
 
 914	singular
 1043	singular
@@ -223,13 +223,13 @@
 93256	plural
 96146	singular
 96526	singular
-97580	
+97580	singular
 97591	singular
 98435	singular
 99796	singular
 100590	singular
 100697	singular
-101928	
+101928	singular
 102077	singular
 102326	singular
 102769	singular
@@ -237,7 +237,6 @@
 103367	singular
 104148	singular
 104357	singular
-105102	
 106469	singular
 107209	singular
 107474	plural
@@ -259,13 +258,12 @@
 115307	dual
 119979	singular
 121334	singular
-121347	singular
 121359	plural
 121654	singular
 121716	plural
 122208	singular
 122689	singular
-123052	
+123052	singular
 123989	singular
 124283	singular
 125769	singular

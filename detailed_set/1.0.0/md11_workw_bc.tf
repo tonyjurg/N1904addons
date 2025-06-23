@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:23+00:00Z
+@dateWritten=2025-06-22T22:25:24+00:00Z
 
 574	a_)gw=
 914	basilei+a=
@@ -30,7 +30,7 @@
 1924	basileia=|
 1938	basileia=|
 1961	basilei+a=n
-2027	e)kei=
+2027	a)/kei
 2060	eu)no/wn
 2678	basilei+a=
 2717	a)/lla_
@@ -67,7 +67,7 @@
 4895	si_mw=n
 4928	si_mw=n
 4976	basilei+a=
-5034	e)kei=
+5034	a)/kei
 5188	a)/lla_
 5405	a_)gw=
 5425	a_)gw=
@@ -230,11 +230,11 @@ dia_ko/nhsai
 17429	e)nepai=+can
 17457	a)rh=|
 18025	xiw=n
-18143	e)kei=
+18143	a)/kei
 18537	basilei+a=
 18547	paragw=n
 18671	a)ne/kracen
-18851	e)kei=
+18851	a)/kei
 18856	si_mw=n
 18954	a)/lla_
 19007	h(me/rwn
@@ -691,7 +691,7 @@ ti/mw
 57921	a)/lla_
 58081	a)/lla_
 58131	a)/lla_
-58144	e)kei=
+58144	a)/kei
 58215	h(me/rwn
 58292	di_/a_
 58425	u(panth=sin
@@ -855,7 +855,7 @@ timh/sei+
 72682	diakonia=n
 72902	peri+agw=n
 73506	a)pwqei=sqe
-73732	e)kei=
+73732	a)/kei
 73804	*di=a
 73871	matai/wn
 74013	basilei+a=n
@@ -878,7 +878,7 @@ timh/sei+
 75492	*ludia=n
 75673	e)cepemya=n
 75727	a)ndrw=n
-75752	e)kei=
+75752	a)/kei
 75866	ce/nwn
 75883	*)/areion
 75962	qew=
@@ -916,7 +916,7 @@ timh/sei+
 78843	a)=ra
 78852	h(me/rwn
 79026	meshmbri/a_n
-79101	e)kei=
+79101	a)/kei
 79152	a_)gw=
 79225	e)ksta/sei
 79245	a_)gw=
@@ -929,7 +929,7 @@ timh/sei+
 80632	metape/myhtai
 80636	e)ne/dran
 80821	h(me/rwn
-80965	e)kei=
+80965	a)/kei
 80985	a)napemyw=
 81112	sxw=
 81120	desmi/on
@@ -942,7 +942,7 @@ timh/sei+
 81658	a)/lla_
 81673	desmw=n
 81699	desmw=n
-81806	e)kei=
+81806	a)/kei
 81835	a)ne/mou
 81894	a)/lla_
 81897	yuxw=n
@@ -1284,7 +1284,7 @@ a)fo/rmhn
 101088	a)/lla_
 101101	yuxw=n
 101115	a)/lla_
-101150	palai/
+101150	pa/la_|
 101178	a_)gw=
 101240	pa_rw=n
 101273	a)/lla_
@@ -1544,7 +1544,7 @@ a)patw=n
 121259	a)nemw=n
 121334	fu/sei
 121341	dama_/sa_|
-121347	i)ou=
+121347	i_)/ou
 121359	katarw/meqa
 121374	kata_=ra
 121452	a)/lla_

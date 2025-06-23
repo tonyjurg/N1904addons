@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:23+00:00Z
+@dateWritten=2025-06-22T22:25:25+00:00Z
 
 574	verb
 914	verb
@@ -326,7 +326,7 @@
 96807	verb
 96830	verb
 97211	verb
-97580	noun
+97580	verb
 97591	verb
 97620	verb
 98435	verb
@@ -342,7 +342,7 @@
 100697	verb
 100905	noun
 101178	verb
-101928	noun
+101928	verb
 102077	verb
 102326	verb
 102769	verb
@@ -401,7 +401,7 @@
 121716	verb
 122208	verb
 122689	verb
-123052	noun
+123052	verb
 123066	noun
 123278	verb
 123989	verb

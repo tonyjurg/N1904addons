@@ -11,42 +11,42 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:27+00:00Z
+@dateWritten=2025-06-22T22:25:28+00:00Z
 
-1446	noun other indeclinable
-1647	noun other indeclinable
-3943	noun other indeclinable
-4091	noun other indeclinable
-8400	noun other indeclinable
-9305	noun other indeclinable
-10935	noun other indeclinable
+1446	noun
+1647	noun
+3943	noun
+4091	noun
+8400	noun
+9305	noun
+10935	noun
 11994	verb
 14204	verb
 16185	verb
-19666	noun other indeclinable
-20661	noun other indeclinable
-20773	noun other indeclinable
-21104	noun other indeclinable
-22252	noun other indeclinable
-23244	noun other indeclinable
-24553	noun other indeclinable
+19666	noun
+20661	noun
+20773	noun
+21104	noun
+22252	noun
+23244	noun
+24553	noun
 25434	verb
 26821	verb
 27825	verb
-35966	noun other indeclinable
+35966	noun
 42922	verb
 44695	verb
 44807	verb
 46274	verb
 46880	verb
-49434	noun other indeclinable
-50756	noun other indeclinable
-52700	noun other indeclinable
-52947	noun other indeclinable
-53024	noun other indeclinable
-53099	noun other indeclinable
-57225	noun other indeclinable
-61923	noun other indeclinable
+49434	noun
+50756	noun
+52700	noun
+52947	noun
+53024	noun
+53099	noun
+57225	noun
+61923	noun
 68218	noun
 78139	verb
 82086	verb

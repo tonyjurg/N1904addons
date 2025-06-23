@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:23+00:00Z
+@dateWritten=2025-06-22T22:25:24+00:00Z
 
 574	a)ga/w
 914	basileia/w
@@ -30,7 +30,7 @@
 1924	basileia/w
 1938	basileia/w
 1961	basileia/w
-2027	e)kei=
+2027	a)/kos
 2060	eu)/nous
 2678	basileia/w
 2717	a)/llos
@@ -67,7 +67,7 @@
 4895	simo/s
 4928	simo/s
 4976	basileia/w
-5034	e)kei=
+5034	a)/kos
 5188	a)/llos
 5405	a)ga/w
 5425	a)ga/w
@@ -230,11 +230,11 @@ diakone/w
 17429	e)n-e)pai/ssw
 17457	a)re/omai
 18025	xia/zw
-18143	e)kei=
+18143	a)/kos
 18537	basileia/w
 18547	para/-a)ga/zw
 18671	a)nakra/zw
-18851	e)kei=
+18851	a)/kos
 18856	simo/s
 18954	a)/llos
 19007	h(mero/w
@@ -691,7 +691,7 @@ timo/w
 57921	a)/llos
 58081	a)/llos
 58131	a)/llos
-58144	e)kei=
+58144	a)/kos
 58215	h(mero/w
 58292	di=os
 58425	u(po/,a)nti/-i(/hmi
@@ -855,8 +855,8 @@ ti/mhsis
 72682	dia/-konia/zw
 72902	peri/-a)ga/zw
 73506	a)po/-o)qe/w
-73732	e)kei=
-73804	*di=a
+73732	a)/kos
+73804	*di=on
 73871	mataio/w
 74013	basileia/w
 74240	e)pi/-i(sta/w
@@ -878,7 +878,7 @@ ti/mhsis
 75492	*ludia/zw
 75673	e)k,e)pi/-e)mya/w
 75727	a)na/-dra/w
-75752	e)kei=
+75752	a)/kos
 75866	ce/nos_(1)
 75883	*)arei/wn
 75962	qea/w
@@ -916,7 +916,7 @@ ti/mhsis
 78843	ai)/rw
 78852	h(mero/w
 79026	meshmbria/w
-79101	e)kei=
+79101	a)/kos
 79152	a)ga/w
 79225	e)k-sta/zw
 79245	a)ga/w
@@ -929,7 +929,7 @@ ti/mhsis
 80632	meta/,a)po/-e)mya/w
 80636	e)n-didra/skw
 80821	h(mero/w
-80965	e)kei=
+80965	a)/kos
 80985	a)na/,a)po/-e)mya/w
 81112	sxa/zw
 81120	desmeu/w
@@ -942,7 +942,7 @@ ti/mhsis
 81658	a)/llos
 81673	desme/w
 81699	desme/w
-81806	e)kei=
+81806	a)/kos
 81835	a)nemo/w
 81894	a)/llos
 81897	yuxa/zw
@@ -1214,7 +1214,7 @@ e)/ros_(2)
 97512	sxa/zw
 97544	a)/llos
 97561	a)/llos
-97580	e)n,a)nti/-ei)mi/
+97580	e)n,a)nti/-ei)=mi
 97591	kata/,a)po/-qa/omai
 97620	a)ga/w
 97676	a)/llos
@@ -1284,7 +1284,7 @@ a)forma/w
 101088	a)/llos
 101101	yuxa/zw
 101115	a)/llos
-101150	palh/
+101150	pa/lh
 101178	a)ga/w
 101240	ph=ros
 101273	a)/llos
@@ -1298,7 +1298,7 @@ a)forma/w
 101641	a)/llos
 101728	a)/llos
 101927	a)/llos
-e)n,a)nti/-ei)mi/
+e)n,a)nti/-ei)=mi
 102077	fu/zw
 102133	ai)/rw
 102202	ai)/rw
@@ -1544,7 +1544,7 @@ a)pa/th
 121259	a)na/-e)me/w
 121334	fu/zw
 121341	dama/zw
-121347	i)o/omai
+121347	i)o/w
 121359	kataro/w
 121374	katai/rw
 121452	a)/llos
@@ -1572,7 +1572,7 @@ a)pa/th
 122798	a)/llos
 122902	a)/llos
 122911	yuxa/zw
-123052	e)n,a)nti/-ei)mi/
+123052	e)n,a)nti/-ei)=mi
 123066	a)gapa/zw
 123159	a)/llos
 123170	katalale/w

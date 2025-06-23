@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:23+00:00Z
+@dateWritten=2025-06-22T22:25:24+00:00Z
 
 4647	ἀ>α—ʼ
 27145	ἀ>α—ʼ
@@ -26,6 +26,5 @@
 93260	ἀ>α—ʼ
 97211	ὠ>ὠ
 100697	ἀ>α—ʼ
-121347	ἰ>ι—ʼ
 121654	ἀ>α—ʼ
 131225	ἀ>α—ʼ

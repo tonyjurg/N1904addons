@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:32+00:00Z
+@dateWritten=2025-06-22T22:25:32+00:00Z
 
 99	singular
 154	singular
@@ -21,25 +21,21 @@ singular
 253	singular
 260	singular
 271	singular
-283	
 324	singular
 339	singular
 377	singular
-
-382	
+plural
+382	singular
 387	singular
 410	singular
 417	singular
 427	singular
-475	
 477	singular
-515	
-531	
+515	plural
 574	singular
 576	singular
 595	singular
 598	singular
-600	
 650	singular
 singular
 655	singular
@@ -47,38 +43,34 @@ singular
 662	singular
 684	singular
 686	dual
-713	
 715	singular
 724	singular
-
+plural
 739	singular
 769	singular
-776	
+776	plural
 807	singular
 852	singular
-888	
+888	plural
 890	plural
 910	plural
 914	plural
 916	singular
-922	
+922	plural
 935	singular
 950	plural
 961	singular
-
 967	plural
 995	plural
 1017	singular
 1021	singular
 1034	singular
-1043	
 1057	singular
 1063	singular
 1078	singular
 1096	singular
 1115	singular
 1125	singular
-1154	
 1193	singular
 1197	singular
 1209	singular
@@ -88,14 +80,13 @@ dual
 1254	singular
 singular
 1258	singular
-1279	
+1279	plural
 1281	singular
 1289	plural
 1298	singular
 1300	singular
 1306	singular
 1309	singular
-1318	
 1321	plural
 plural
 1331	singular
@@ -105,7 +96,6 @@ singular
 singular
 1358	singular
 1363	singular
-1372	
 1377	singular
 1385	singular
 1387	plural
@@ -114,8 +104,7 @@ singular
 1404	singular
 1406	singular
 1416	singular
-1434	
-1446	
+1434	plural
 1467	singular
 singular
 1480	plural
@@ -130,7 +119,6 @@ singular
 1592	plural
 1599	singular
 1611	plural
-1647	
 1650	plural
 1664	singular
 1683	plural
@@ -142,7 +130,6 @@ singular
 1743	plural
 1745	singular
 1764	plural
-1787	
 1817	singular
 1852	singular
 1867	singular
@@ -151,25 +138,21 @@ singular
 1880	singular
 1882	singular
 1901	singular
-1906	
 1924	plural
 1926	singular
 1938	plural
 1940	singular
 singular
-1945	
 1947	singular
 1951	plural
 1961	plural
 1963	singular
 1974	singular
 1981	singular
-2018	
 2023	singular
 2027	singular
 2032	singular
 singular
-2036	
 2041	singular
 2047	singular
 2051	singular
@@ -185,13 +168,11 @@ singular
 2119	singular
 2126	singular
 2132	singular
-2142	
 2147	singular
 2151	singular
 2157	singular
 2164	singular
 singular
-2174	
 2179	singular
 2183	singular
 2189	singular
@@ -199,7 +180,6 @@ singular
 2206	singular
 2211	plural
 2216	singular
-2223	
 2234	singular
 2241	singular
 2244	singular
@@ -214,7 +194,6 @@ singular
 2349	singular
 2359	singular
 2372	singular
-2374	
 2381	plural
 2383	singular
 singular
@@ -222,13 +201,10 @@ singular
 2392	singular
 2394	plural
 2406	singular
-2428	
-2445	
 2464	singular
 2493	singular
 2508	singular
 2526	singular
-2532	
 2537	dual
 2540	singular
 2544	singular
@@ -251,14 +227,11 @@ singular
 2683	singular
 2717	singular
 singular
-2723	
-2739	
 2765	singular
 2768	plural
 2773	singular
 2783	singular
 2789	singular
-
 2793	singular
 2797	singular
 2800	singular
@@ -269,17 +242,15 @@ singular
 2858	singular
 2863	singular
 singular
-2872	
 2877	singular
 plural
 2882	singular
-2885	
 2889	singular
 2895	singular
 2913	singular
 2923	singular
 2930	singular
-2937	singular
+2937	plural
 2939	singular
 2944	singular
 2960	plural
@@ -297,18 +268,15 @@ plural
 3152	singular
 3167	singular
 3175	singular
-3183	
 3186	singular
-3190	
 3204	singular
 3221	plural
 3262	singular
 3274	singular
-3308	
 3311	singular
 3314	singular
 3327	singular
-3329	
+3329	plural
 3334	plural
 3367	singular
 3386	singular
@@ -319,21 +287,16 @@ plural
 3444	singular
 3458	plural
 3460	singular
-3463	
 3491	singular
 3508	plural
 3544	singular
 3548	singular
 3550	singular
 3556	singular
-3572	
 3592	singular
 3596	singular
 3603	singular
-3605	
-3626	
 3631	singular
-3657	
 3676	singular
 3678	singular
 3685	singular
@@ -351,11 +314,9 @@ singular
 3829	singular
 3831	plural
 3873	singular
-3918	
+3918	plural
 3932	plural
-3943	
 3951	singular
-3954	
 3957	singular
 3969	singular
 singular
@@ -369,14 +330,12 @@ singular
 4061	singular
 4071	singular
 4080	singular
-4091	
 4094	singular
-4112	
+4112	plural
 4114	singular
 4118	singular
 4126	singular
 4130	singular
-4133	
 4208	singular
 4216	singular
 4225	singular
@@ -400,12 +359,12 @@ singular
 4360	singular
 4362	singular
 4395	singular
-4399	singular
+4399	plural
 4412	singular
 4433	singular
 4439	singular
 4445	singular
-4448	singular
+4448	plural
 4457	singular
 singular
 4469	singular
@@ -415,7 +374,6 @@ singular
 4561	singular
 4566	singular
 4579	singular
-4599	
 4614	singular
 4618	singular
 4647	plural
@@ -425,7 +383,6 @@ singular
 4705	singular
 4707	singular
 4716	plural
-4718	
 4752	singular
 4785	singular
 4790	singular
@@ -448,19 +405,17 @@ plural
 5018	singular
 5034	singular
 5036	singular
-5047	
 5052	singular
-5059	
 5063	singular
 5077	singular
 5093	plural
 5096	singular
 5109	singular
-5111	
+5111	singular
 5119	plural
 5140	singular
 5188	singular
-5220	
+5220	plural
 5237	singular
 5245	singular
 5251	singular
@@ -482,23 +437,21 @@ plural
 5530	singular
 5560	singular
 5562	singular
-5566	
-singular
+5567	singular
 5579	singular
 5611	singular
-5620	
+5620	plural
 5632	plural
 5642	singular
 5646	singular
 5657	singular
-5666	
 5686	singular
 5690	singular
 5692	singular
 5710	singular
 5715	singular
 singular
-5726	
+5726	singular
 5733	singular
 singular
 5736	singular
@@ -523,9 +476,9 @@ singular
 singular
 5852	singular
 5854	plural
-
+singular
 5876	singular
-5906	plural
+5906	singular
 5914	singular
 5930	singular
 singular
@@ -537,29 +490,26 @@ singular
 5988	dual
 5993	singular
 6001	singular
-6029	
 6042	singular
 singular
 6061	singular
-6088	
+6088	plural
 6093	singular
-6108	
+6108	singular
 6110	singular
 singular
 6140	singular
-6150	
 6182	singular
 6187	singular
 6200	singular
 6216	singular
 6251	singular
-6255	
 6263	singular
 6279	singular
 6282	singular
 singular
-6331	
-6336	
+6331	plural
+6336	singular
 6366	singular
 6382	singular
 singular
@@ -572,7 +522,7 @@ singular
 6480	plural
 6489	singular
 6491	singular
-6496	
+6496	plural
 6506	singular
 6510	singular
 singular
@@ -580,14 +530,12 @@ singular
 6518	singular
 6528	singular
 6533	singular
-
 6536	singular
 singular
 6545	singular
 6557	singular
-6561	singular
+6561	plural
 6563	singular
-6581	
 6635	singular
 6661	singular
 6674	singular
@@ -600,10 +548,8 @@ singular
 6702	singular
 singular
 6708	plural
-6717	
 6726	plural
 6730	singular
-6745	
 6765	singular
 6784	plural
 6794	plural
@@ -615,35 +561,35 @@ singular
 6874	singular
 6879	singular
 6885	plural
-6915	
+6915	singular
 6918	singular
 6922	singular
 6933	plural
 6941	plural
-6956	
+6956	singular
 6994	singular
-7024	
+7024	singular
 7027	singular
 7035	singular
 7037	singular
 singular
 7047	singular
 7049	singular
-7061	
+7061	plural
 7067	singular
-7072	
+7072	plural
 7078	singular
 7080	singular
 7091	singular
 7093	singular
 7118	singular
-7121	singular
+7121	plural
 7138	plural
 7140	singular
 7147	singular
 7155	singular
 7158	singular
-7162	
+7162	plural
 7177	plural
 7185	dual
 7198	plural
@@ -661,15 +607,15 @@ singular
 7300	singular
 7323	singular
 7328	singular
-7336	
+7336	plural
 7355	singular
 7360	singular
 7363	singular
 7383	singular
-7385	
+7385	singular
 7405	plural
 7407	singular
-7429	plural
+7429	singular
 7451	singular
 7454	singular
 7460	singular
@@ -682,14 +628,14 @@ singular
 7541	singular
 7544	plural
 7546	singular
-7558	
+7558	singular
 7579	singular
 7590	singular
 7593	plural
 7595	singular
 7605	singular
 7620	singular
-7628	
+7628	plural
 7632	singular
 7641	singular
 7654	singular
@@ -720,20 +666,18 @@ singular
 7899	singular
 7901	plural
 7922	plural
-7924	
-7929	singular
+7929	plural
 7935	plural
 7937	singular
 8008	singular
 8016	singular
-8054	
+8054	plural
 8056	singular
 8083	plural
-8085	
+8085	plural
 8089	plural
-8103	
-8157	
-8181	
+8103	plural
+8181	plural
 8215	singular
 8217	plural
 8228	singular
@@ -747,34 +691,28 @@ singular
 8367	plural
 8369	singular
 8383	plural
-8400	
-singular
+8401	singular
 8415	plural
-8421	
 8436	plural
-
 8456	singular
 8472	singular
 8508	singular
-8530	
 8545	singular
 8569	singular
 8573	plural
-8626	singular
+8626	plural
 8629	singular
 singular
-8649	singular
+8649	plural
 8657	singular
-
+plural
 8666	dual
 8682	plural
-8693	
 8699	singular
 8712	singular
-
+plural
 8730	plural
 8733	singular
-8739	singular
 8762	singular
 8765	singular
 8772	singular
@@ -782,7 +720,6 @@ singular
 plural
 8806	singular
 8809	singular
-8813	
 8856	singular
 8865	singular
 8875	singular
@@ -794,7 +731,6 @@ singular
 8938	singular
 8969	dual
 8984	plural
-8992	
 9008	plural
 9019	singular
 9036	singular
@@ -820,7 +756,6 @@ singular
 9284	singular
 9296	singular
 9302	singular
-9305	
 9340	plural
 9377	plural
 singular
@@ -841,17 +776,12 @@ singular
 9514	singular
 9526	plural
 9528	singular
-9531	
-9543	
 9575	singular
 9594	singular
 9603	plural
-9606	plural
 9632	singular
 singular
-9662	
 9679	singular
-9685	
 9712	singular
 9718	singular
 9722	singular
@@ -882,12 +812,11 @@ singular
 10075	singular
 10079	plural
 singular
-singular
+plural
 10090	singular
-10092	singular
+10092	plural
 10098	singular
-10100	
-dual
+10101	dual
 10106	plural
 10108	singular
 10110	singular
@@ -896,7 +825,6 @@ dual
 10143	singular
 10167	singular
 10169	singular
-
 10183	singular
 singular
 10197	singular
@@ -907,13 +835,11 @@ singular
 10229	plural
 singular
 10232	plural
-10247	
 10254	singular
 10259	singular
 10264	plural
 10266	singular
 10278	singular
-10280	
 10282	plural
 10287	singular
 10293	plural
@@ -921,47 +847,31 @@ singular
 10298	singular
 10310	plural
 10312	singular
-10315	
 10360	singular
 10379	singular
 10383	singular
-10391	
 10419	singular
-10427	
 10448	plural
 10453	singular
-10462	
+10462	plural
 10475	singular
-
-10491	plural
-10501	
+10491	singular
 10506	singular
-10517	plural
+10517	singular
 10533	singular
-10538	
 10540	singular
 10543	singular
-10548	
-10552	
-singular
+10553	singular
 singular
 10558	singular
-
 10562	singular
-10565	
 10576	singular
-10580	
 10582	singular
 10584	singular
 10586	singular
-
 10592	singular
 10602	singular
-10605	
-10616	
 10627	singular
-10630	
-10642	
 10646	singular
 10677	singular
 10684	singular
@@ -971,11 +881,10 @@ singular
 10695	singular
 10697	singular
 singular
-10701	singular
+10701	plural
 10705	plural
 10707	singular
 10712	singular
-10716	
 10727	plural
 10747	singular
 10762	singular
@@ -987,7 +896,7 @@ singular
 singular
 10833	singular
 10854	singular
-10864	
+10864	singular
 10868	singular
 10871	singular
 10874	singular
@@ -995,9 +904,7 @@ singular
 10888	singular
 10890	singular
 10902	singular
-10904	
 10913	singular
-10935	
 10984	singular
 11001	singular
 11007	singular
@@ -1007,7 +914,7 @@ singular
 11066	plural
 11069	singular
 11074	dual
-11119	
+11119	plural
 11121	plural
 11123	singular
 11131	singular
@@ -1029,12 +936,11 @@ singular
 11249	dual
 11260	singular
 11275	singular
-11283	
 11296	singular
 11304	plural
 11306	singular
 11309	singular
-11314	
+11314	plural
 11322	plural
 11324	singular
 11328	singular
@@ -1042,14 +948,13 @@ singular
 11342	singular
 11347	singular
 11351	singular
-11358	
+11358	singular
 11366	singular
 11375	singular
 11442	singular
 11446	plural
 11448	singular
 11486	singular
-11499	
 11526	singular
 11535	plural
 11541	singular
@@ -1057,13 +962,13 @@ singular
 11570	plural
 singular
 11573	plural
-11582	plural
+11582	singular
 11590	plural
-11595	plural
+11595	singular
 11640	plural
 11666	singular
 11692	plural
-11699	
+11699	singular
 11714	plural
 11725	singular
 11732	singular
@@ -1082,9 +987,7 @@ singular
 11812	plural
 11832	singular
 11855	plural
-11864	
 11892	singular
-
 11914	singular
 11916	singular
 11922	singular
@@ -1095,11 +998,10 @@ singular
 11959	plural
 11973	plural
 11994	plural
-12022	
 12027	plural
 12033	singular
-12045	
-12053	
+12045	plural
+12053	singular
 12056	singular
 12072	singular
 12094	singular
@@ -1114,16 +1016,13 @@ singular
 12237	singular
 12260	plural
 12264	singular
-12266	
 12272	plural
 12278	singular
 12302	singular
 12316	singular
-12321	
 12335	singular
 12350	singular
-12352	
-dual
+12353	dual
 12357	plural
 12364	singular
 12367	singular
@@ -1131,19 +1030,15 @@ dual
 singular
 12414	singular
 12424	singular
-12428	
 12431	singular
 12433	singular
 12435	plural
 singular
 12438	singular
-12444	
 12446	singular
-12456	
 12459	singular
 singular
-12462	singular
-12468	
+12462	plural
 12496	singular
 12499	plural
 singular
@@ -1154,7 +1049,6 @@ singular
 12563	singular
 12575	plural
 12577	singular
-12611	
 12640	singular
 12674	plural
 12698	singular
@@ -1165,22 +1059,21 @@ singular
 12755	singular
 12774	singular
 singular
-12784	
+12784	plural
 12786	singular
 12793	plural
 12795	singular
 12832	singular
-12840	
+12840	singular
 12857	plural
 12859	singular
-12891	
+12891	singular
 12901	singular
 12905	singular
 12918	singular
 12955	singular
 12969	singular
 12976	singular
-12979	
 12988	singular
 12996	singular
 13021	singular
@@ -1195,9 +1088,8 @@ singular
 13159	plural
 13162	singular
 13172	singular
-13200	
 13206	singular
-13241	
+13241	plural
 13248	singular
 13259	singular
 13285	singular
@@ -1240,7 +1132,6 @@ singular
 13481	singular
 13483	singular
 13501	singular
-13528	
 13541	plural
 13580	singular
 13645	singular
@@ -1276,7 +1167,7 @@ singular
 14000	plural
 14002	plural
 14005	singular
-14029	
+14029	plural
 14076	singular
 singular
 14092	singular
@@ -1299,27 +1190,24 @@ singular
 14264	singular
 14278	plural
 14280	plural
-14308	
-14330	
+14308	plural
+14330	plural
 14337	singular
 14353	plural
 14355	singular
 14370	plural
-14377	
+14377	plural
 14402	dual
 plural
 14417	plural
 14456	singular
-14475	
-14484	
-14488	
+14475	plural
+14488	singular
 14504	singular
 14510	dual
-14517	
-14521	
-14528	
+14521	singular
+14528	singular
 14543	singular
-14554	
 14568	singular
 14587	singular
 14592	singular
@@ -1338,11 +1226,10 @@ singular
 14781	singular
 14823	plural
 14837	plural
-14852	
+14852	plural
 14869	singular
 14900	singular
 14904	singular
-14914	
 14923	singular
 14938	singular
 14946	singular
@@ -1354,7 +1241,7 @@ singular
 14994	singular
 15034	singular
 15037	plural
-15042	
+15042	singular
 15047	singular
 15050	singular
 15069	singular
@@ -1367,7 +1254,6 @@ singular
 15194	singular
 15201	singular
 15216	singular
-15226	
 15229	singular
 15241	singular
 15251	singular
@@ -1407,7 +1293,6 @@ singular
 15827	singular
 15876	singular
 15888	singular
-15891	
 15925	singular
 15950	singular
 15970	singular
@@ -1417,7 +1302,6 @@ singular
 16017	singular
 16033	singular
 16058	singular
-16076	
 16091	singular
 16095	singular
 16148	singular
@@ -1434,7 +1318,7 @@ singular
 16253	singular
 16258	singular
 16266	singular
-
+plural
 16271	singular
 16281	singular
 16284	singular
@@ -1447,7 +1331,6 @@ singular
 16362	singular
 16388	singular
 16391	singular
-16402	
 16405	singular
 16409	singular
 16441	singular
@@ -1469,7 +1352,7 @@ singular
 16712	singular
 16724	singular
 16728	singular
-16730	
+16730	plural
 singular
 singular
 16741	singular
@@ -1480,7 +1363,6 @@ singular
 16781	singular
 16792	plural
 16801	singular
-16805	
 16823	singular
 16829	singular
 16844	singular
@@ -1488,21 +1370,17 @@ singular
 16865	dual
 16880	plural
 16892	singular
-16896	
 16908	plural
 16917	singular
 16929	dual
 singular
 16941	plural
 16961	singular
-17051	
-17064	
+17051	singular
 17068	singular
 17076	singular
-17083	
-17094	
+17083	plural
 17100	singular
-17109	
 17152	singular
 17158	singular
 singular
@@ -1511,7 +1389,7 @@ singular
 17192	singular
 17201	plural
 17209	singular
-17214	
+17214	plural
 17230	dual
 17251	plural
 17268	plural
@@ -1533,7 +1411,7 @@ singular
 17523	plural
 17540	singular
 17554	singular
-17560	
+17560	plural
 17569	singular
 17579	dual
 17591	singular
@@ -1547,12 +1425,9 @@ singular
 17732	singular
 17746	plural
 17771	singular
-17773	
 17790	singular
-17794	
 17810	singular
 17820	singular
-17875	
 17891	singular
 17914	singular
 17924	singular
@@ -1565,7 +1440,6 @@ singular
 singular
 18002	singular
 18010	singular
-18012	
 18025	singular
 18037	singular
 18048	plural
@@ -1577,25 +1451,21 @@ singular
 18143	singular
 18150	plural
 18180	singular
-18189	
 18213	singular
 18222	singular
 18295	singular
 18306	singular
-18314	
+18314	singular
 18320	singular
 singular
 18323	singular
 18326	singular
 18335	singular
-18379	
 18393	plural
 18397	plural
 18424	singular
 18470	singular
 18489	singular
-18491	
-18502	
 18505	plural
 18509	singular
 18527	singular
@@ -1606,15 +1476,11 @@ plural
 singular
 18566	singular
 18579	singular
-18647	
 18652	singular
-18661	
-18671	
 18682	plural
 18689	singular
 18727	singular
 18775	plural
-18812	
 18819	singular
 18828	singular
 18836	singular
@@ -1626,19 +1492,16 @@ singular
 18872	singular
 18874	plural
 18901	singular
-18915	
 18928	singular
 18938	singular
 18948	singular
 18954	singular
 18965	singular
 singular
-18986	
-18995	
+18986	singular
 19007	singular
 19023	singular
-19043	
-19050	
+19043	plural
 19067	singular
 19072	singular
 19077	plural
@@ -1666,7 +1529,7 @@ singular
 19303	singular
 19308	singular
 19317	plural
-19319	singular
+19319	plural
 19322	singular
 19326	singular
 19333	singular
@@ -1678,16 +1541,15 @@ singular
 19416	singular
 19428	singular
 19430	singular
-19441	
+19441	plural
 19446	singular
 19457	singular
-19459	
+19459	dual
 19468	singular
 19491	singular
 19494	singular
-19521	
-19529	
-19548	
+19521	plural
+19529	plural
 19561	singular
 19567	singular
 19580	singular
@@ -1695,9 +1557,8 @@ singular
 19604	singular
 19608	singular
 19611	singular
-19666	
 19689	singular
-19691	
+19691	plural
 19721	singular
 singular
 19729	singular
@@ -1705,38 +1566,33 @@ singular
 19770	singular
 19799	singular
 singular
-19810	
 19853	singular
 19864	singular
 19867	singular
 19874	singular
 19877	singular
-19891	
-plural
+19892	plural
 19900	plural
-19903	
 19926	singular
 19928	singular
 19937	singular
 19942	singular
-
 19945	singular
 19948	singular
 19954	singular
 19956	singular
-19971	
 19983	singular
 19988	singular
 19994	singular
 19997	singular
 20021	plural
-20023	
+20023	singular
 20026	singular
 20030	singular
 20034	singular
 20041	singular
 20057	singular
-
+dual
 20072	singular
 20085	singular
 20131	singular
@@ -1744,8 +1600,8 @@ singular
 20140	singular
 singular
 20153	singular
-20165	
-20178	
+20165	plural
+20178	plural
 20186	singular
 20202	singular
 singular
@@ -1759,17 +1615,16 @@ singular
 20303	singular
 20308	singular
 20327	plural
-20333	
+20333	plural
 20355	singular
 singular
-20363	
+20363	plural
 20369	singular
 20384	singular
 20389	singular
 20397	singular
 20435	singular
 20458	singular
-
 20465	singular
 20473	singular
 20494	singular
@@ -1783,51 +1638,41 @@ singular
 20572	plural
 20574	singular
 20579	singular
-20590	
+20590	singular
 20617	singular
 20622	singular
 20637	singular
 20642	plural
 20650	singular
-20661	
-20669	
 20674	singular
-20676	
 20683	singular
-20698	
 20710	plural
 20714	dual
 20727	dual
 20753	singular
 20757	singular
-20773	
 20778	singular
 20799	singular
 20811	singular
-
+plural
 20834	singular
-20836	
-20848	
+20836	plural
 20853	singular
 20868	singular
 20876	singular
 20882	singular
 20904	singular
-20923	
 20928	singular
 21017	plural
 21056	singular
 singular
 21063	singular
 21095	singular
-21104	
-21111	
-singular
+21112	singular
 21131	singular
 21140	singular
 21167	dual
 21186	singular
-21209	
 21229	singular
 21245	plural
 21256	singular
@@ -1841,22 +1686,19 @@ singular
 21355	singular
 21384	singular
 21394	singular
-21418	
 21427	singular
 21437	singular
-21446	
 21448	singular
 21453	singular
 21481	singular
-21511	
+21511	plural
 21513	plural
 21584	singular
-21590	
+21590	plural
 21592	singular
 21613	singular
 21615	plural
 21639	singular
-21651	
 21657	singular
 21675	plural
 21677	singular
@@ -1865,7 +1707,7 @@ singular
 21690	singular
 21712	singular
 21719	plural
-21721	
+21721	plural
 21723	plural
 21728	singular
 21730	singular
@@ -1873,16 +1715,14 @@ singular
 21736	singular
 21742	plural
 singular
-21767	
+21767	plural
 21793	singular
 21814	singular
 21822	singular
-21876	
-21885	
 21890	singular
 21893	plural
 21920	dual
-21938	
+21938	plural
 21989	singular
 21993	plural
 22019	singular
@@ -1905,33 +1745,26 @@ singular
 22212	singular
 22221	plural
 22229	singular
-22252	
 22255	singular
 22257	singular
-22271	
-22291	
 22326	singular
 22340	singular
-22372	
 22375	singular
 22378	plural
 22399	singular
 22422	singular
 22448	plural
 22456	plural
-22484	
-22500	
 22506	singular
 22509	singular
 22519	plural
-22526	singular
+22526	plural
 22531	singular
 singular
 22538	singular
 22548	singular
 22564	plural
 22567	singular
-22573	singular
 22585	singular
 22594	singular
 22599	singular
@@ -1939,8 +1772,6 @@ singular
 22611	singular
 22615	singular
 22626	plural
-
-22640	
 22658	singular
 22665	singular
 22693	singular
@@ -1955,27 +1786,24 @@ singular
 22805	singular
 22815	singular
 22841	singular
-22849	
 22859	singular
 22869	singular
 22881	plural
 22890	singular
-22892	
 22897	singular
-22909	singular
+22909	plural
 22918	singular
 22920	singular
 22936	singular
 22944	singular
-22946	
-22953	plural
+22946	plural
+22953	singular
 22965	plural
 22968	singular
 22979	plural
 23001	singular
 23041	singular
 23068	singular
-23086	
 23098	plural
 23107	singular
 23116	plural
@@ -1983,7 +1811,6 @@ singular
 23212	singular
 23220	singular
 23228	singular
-23244	
 23286	singular
 23289	plural
 23301	singular
@@ -2009,8 +1836,6 @@ singular
 23559	singular
 23569	singular
 singular
-23602	
-23647	
 23673	singular
 23679	singular
 23681	singular
@@ -2024,7 +1849,7 @@ singular
 23742	singular
 23768	singular
 23793	singular
-23818	
+23818	singular
 23823	singular
 23839	singular
 23850	plural
@@ -2035,7 +1860,6 @@ singular
 23885	singular
 23901	singular
 singular
-23970	
 23987	singular
 23998	singular
 24002	singular
@@ -2047,7 +1871,7 @@ singular
 24097	singular
 24161	singular
 24164	plural
-24190	
+24190	plural
 24233	singular
 24268	singular
 24315	singular
@@ -2056,23 +1880,17 @@ singular
 24354	singular
 24377	singular
 24387	singular
-24424	
 24429	singular
-24455	
 24458	singular
-24481	
 24484	singular
 24496	plural
 24498	singular
 24512	plural
-24525	
-24553	
 24624	singular
 24637	singular
 24643	singular
 24660	singular
 24666	singular
-24681	
 24685	singular
 24693	singular
 24699	singular
@@ -2085,7 +1903,6 @@ singular
 24748	singular
 24803	dual
 24806	singular
-24859	
 24868	singular
 24880	plural
 24882	singular
@@ -2093,7 +1910,7 @@ singular
 24897	singular
 24905	plural
 24907	singular
-24912	
+24912	plural
 24922	plural
 24924	singular
 24941	singular
@@ -2101,16 +1918,13 @@ singular
 24947	singular
 24951	singular
 singular
-24960	
+24960	singular
 24971	singular
-24996	
-25044	
-singular
-25068	
+25045	singular
+25068	singular
 25084	plural
 25093	plural
 25115	singular
-25123	
 25145	singular
 25147	plural
 25155	singular
@@ -2122,7 +1936,6 @@ singular
 25234	singular
 25249	plural
 25288	singular
-
 25313	singular
 25321	singular
 25325	singular
@@ -2132,7 +1945,6 @@ singular
 25409	singular
 25434	plural
 25441	singular
-25469	
 25481	singular
 25491	singular
 25495	singular
@@ -2147,10 +1959,8 @@ singular
 25608	singular
 25623	singular
 25625	singular
-25641	
-25652	
 25659	singular
-25700	
+25700	plural
 25702	singular
 25766	plural
 25771	singular
@@ -2163,7 +1973,7 @@ plural
 25807	singular
 25810	singular
 25812	singular
-25820	
+25820	plural
 25822	singular
 25882	singular
 25885	plural
@@ -2176,14 +1986,11 @@ singular
 singular
 25918	singular
 25924	singular
-
 25929	plural
-25936	
 25939	singular
 singular
-singular
+plural
 25947	singular
-25962	
 25967	plural
 25973	singular
 25977	singular
@@ -2205,12 +2012,11 @@ singular
 26242	singular
 26264	singular
 26277	plural
-26290	
 26295	singular
 26335	singular
 26347	dual
 26355	singular
-26373	
+26373	plural
 26384	singular
 26388	plural
 26404	plural
@@ -2272,21 +2078,18 @@ singular
 singular
 26942	plural
 26946	plural
-26951	
 26966	singular
-26993	
+26993	plural
 27006	plural
 27014	singular
 27032	dual
 27036	plural
 27051	plural
-27088	
 27091	singular
 27110	singular
-
-27121	
-27125	
-27129	
+plural
+27125	dual
+27129	dual
 27145	singular
 27147	dual
 27156	singular
@@ -2302,7 +2105,6 @@ singular
 27335	singular
 27374	singular
 27376	singular
-27378	
 27401	singular
 27430	singular
 27443	plural
@@ -2310,12 +2112,10 @@ singular
 27459	plural
 27461	singular
 27518	singular
-27521	
 27577	plural
 27580	singular
 27597	singular
 27604	singular
-27614	
 27622	singular
 27635	singular
 27639	singular
@@ -2340,8 +2140,7 @@ singular
 27866	singular
 27871	singular
 27886	singular
-27891	
-singular
+27892	singular
 27899	singular
 27904	singular
 27914	singular
@@ -2367,15 +2166,13 @@ singular
 28222	singular
 28252	singular
 28258	singular
-28260	
 28295	singular
 28301	plural
 28314	singular
 28319	dual
-28321	
+28321	plural
 singular
 singular
-28331	
 28346	singular
 28350	singular
 28365	singular
@@ -2405,11 +2202,10 @@ singular
 28632	singular
 singular
 28651	singular
-28654	
 28666	singular
 28670	singular
 28676	singular
-28694	
+28694	plural
 28703	plural
 28723	plural
 28731	singular
@@ -2419,42 +2215,34 @@ singular
 28820	plural
 28853	singular
 28892	singular
-
 28896	singular
-28901	
 28917	singular
 28920	plural
 28939	singular
 28949	singular
-28953	
+28953	plural
 28963	singular
 28975	dual
 29001	singular
 29031	plural
 29035	singular
-
+dual
 29075	singular
 singular
 plural
 29084	singular
 29095	singular
-
-29123	
 29130	singular
 29133	singular
 29136	singular
-29144	
-
-29160	
+29144	singular
 29163	plural
 29165	singular
-29191	plural
+29191	singular
 29208	singular
-29217	
 29226	singular
 29274	singular
 29276	singular
-29296	
 29318	singular
 29321	plural
 29327	singular
@@ -2474,7 +2262,7 @@ plural
 29525	plural
 29527	singular
 29534	singular
-29540	
+29540	plural
 29543	singular
 29599	singular
 29601	singular
@@ -2483,13 +2271,10 @@ plural
 29650	singular
 29652	singular
 29661	singular
-29665	
-29669	
 29689	singular
 29695	singular
 29703	singular
 29709	singular
-29714	
 29727	singular
 29730	plural
 29741	singular
@@ -2510,18 +2295,15 @@ plural
 29877	singular
 29889	singular
 plural
-29914	
 29917	singular
-29945	
-singular
+29946	singular
 29978	singular
 29980	dual
 30007	singular
 30016	singular
-30041	
 30066	singular
 30113	plural
-30127	
+30127	singular
 singular
 30145	singular
 30154	singular
@@ -2530,7 +2312,7 @@ singular
 30179	singular
 singular
 30182	singular
-30188	
+30188	singular
 30191	singular
 30197	singular
 30269	singular
@@ -2556,8 +2338,7 @@ singular
 30579	singular
 30583	singular
 30591	singular
-
-30632	
+30632	plural
 30635	singular
 30638	plural
 30684	singular
@@ -2565,19 +2346,17 @@ singular
 30699	singular
 singular
 30712	singular
-30715	
+30715	plural
 30718	singular
 30727	singular
 30730	singular
 30732	singular
 singular
 30736	singular
-30751	
 30755	singular
 30770	singular
 30783	plural
-30813	
-30860	
+30813	plural
 30886	singular
 30891	singular
 30926	singular
@@ -2585,7 +2364,7 @@ singular
 30946	plural
 30950	singular
 30952	plural
-30981	
+30981	singular
 singular
 31051	singular
 31061	singular
@@ -2595,9 +2374,6 @@ singular
 31134	singular
 31141	singular
 31147	singular
-31151	
-31170	
-31175	
 31189	singular
 31192	singular
 31230	singular
@@ -2606,13 +2382,10 @@ singular
 31252	singular
 31265	singular
 31267	singular
-31270	
-31294	
+31294	singular
 31308	singular
-31310	
 31322	singular
-31325	
-singular
+31326	singular
 31345	plural
 31349	singular
 singular
@@ -2622,14 +2395,12 @@ singular
 31370	dual
 31391	singular
 31410	singular
-
 31430	singular
 31491	singular
 31515	singular
 31539	singular
 singular
 31560	singular
-31581	
 31594	singular
 31606	singular
 31645	singular
@@ -2640,18 +2411,16 @@ singular
 31724	singular
 31742	singular
 31759	singular
-31768	
 31783	singular
 31789	singular
-31822	
-31842	plural
+31822	plural
+31842	singular
 singular
 31875	plural
 31917	singular
 31945	singular
 31948	singular
 32021	singular
-32035	
 32039	singular
 32061	singular
 32079	singular
@@ -2665,10 +2434,7 @@ singular
 32272	singular
 32286	singular
 32291	singular
-32298	
-32304	
 32306	singular
-32309	
 32318	singular
 singular
 32321	singular
@@ -2676,7 +2442,6 @@ singular
 32338	singular
 32346	singular
 32350	singular
-32359	
 32361	singular
 32366	plural
 plural
@@ -2687,8 +2452,6 @@ singular
 32389	singular
 singular
 32401	singular
-32438	
-32472	
 32475	singular
 32495	singular
 32498	singular
@@ -2706,19 +2469,14 @@ singular
 32668	singular
 32684	singular
 32695	singular
-32700	
+32700	plural
 singular
-32712	
 32726	singular
-
-32735	
-32742	
 32745	singular
 32755	plural
 32762	singular
 32778	singular
 32804	singular
-32837	
 32847	singular
 singular
 32864	singular
@@ -2732,13 +2490,10 @@ singular
 32950	singular
 32952	plural
 32954	singular
-32960	
 32980	singular
-32983	
 32985	singular
 32994	singular
 32999	singular
-33013	
 33033	plural
 33051	singular
 33053	dual
@@ -2748,24 +2503,19 @@ singular
 33104	singular
 33106	singular
 33132	singular
-33135	
+33135	plural
 33161	singular
 33188	singular
-33200	
 33217	singular
 33227	singular
 33238	singular
-33265	
 33277	singular
-33280	
 33302	singular
-
-33316	
 33323	singular
 singular
 33329	plural
-33332	
-33339	
+33332	plural
+33339	plural
 33341	plural
 33364	singular
 33401	plural
@@ -2782,15 +2532,14 @@ singular
 33467	singular
 33475	singular
 33503	singular
-33519	
 33524	singular
-33543	singular
+33543	plural
 33566	singular
 33574	singular
 33577	singular
 33584	singular
 33587	singular
-33591	
+33591	plural
 33650	singular
 33655	singular
 33661	singular
@@ -2805,20 +2554,16 @@ singular
 singular
 33711	singular
 singular
-33724	
+33724	plural
 33729	singular
 33738	plural
 33777	singular
-33823	
 33831	singular
-
 33881	singular
 33900	singular
 33903	singular
 33915	singular
-33938	
 33944	singular
-33983	
 34002	singular
 34008	singular
 34028	singular
@@ -2839,13 +2584,11 @@ singular
 34246	singular
 34251	singular
 34254	singular
-34257	
+34257	plural
 34260	plural
 34264	singular
 34275	plural
-34278	
 34283	singular
-34294	
 34300	singular
 34311	singular
 34313	plural
@@ -2858,9 +2601,7 @@ singular
 34427	singular
 34443	singular
 34453	singular
-34459	
 34465	singular
-34471	
 34483	singular
 34490	singular
 34497	singular
@@ -2874,12 +2615,10 @@ singular
 34557	singular
 singular
 34568	singular
-34570	
-34606	
+34606	plural
 34613	singular
 34633	singular
 34663	plural
-34665	
 34668	singular
 34679	plural
 34683	singular
@@ -2894,9 +2633,7 @@ singular
 34816	singular
 34824	singular
 34842	singular
-34865	
-singular
-34872	
+34866	singular
 34901	singular
 34923	singular
 34945	singular
@@ -2910,7 +2647,6 @@ singular
 35031	singular
 35035	singular
 35044	singular
-35052	
 35060	singular
 35073	singular
 35077	singular
@@ -2919,7 +2655,7 @@ singular
 35100	singular
 35105	singular
 singular
-35116	
+35116	singular
 35122	singular
 singular
 35125	singular
@@ -2943,13 +2679,11 @@ singular
 singular
 35238	singular
 35240	plural
-
+singular
 35257	plural
-35281	
 35284	singular
 35297	singular
 35301	singular
-35342	
 35364	singular
 35372	singular
 35397	plural
@@ -2970,7 +2704,7 @@ singular
 35577	dual
 35580	singular
 35588	singular
-35606	
+35606	plural
 singular
 35610	singular
 35612	singular
@@ -2978,7 +2712,7 @@ singular
 singular
 35633	singular
 35638	singular
-35645	
+35645	plural
 35652	singular
 35665	singular
 35688	singular
@@ -2998,14 +2732,12 @@ singular
 35853	singular
 35859	singular
 35885	singular
-35905	
+35905	plural
 35913	singular
 35917	singular
 35940	singular
 35949	singular
 35957	singular
-35966	
-35974	
 35978	singular
 35991	dual
 dual
@@ -3019,7 +2751,6 @@ dual
 36101	singular
 36152	singular
 36161	singular
-36167	
 36172	plural
 36176	singular
 36192	singular
@@ -3030,7 +2761,6 @@ dual
 36311	singular
 36313	singular
 36361	singular
-36375	
 36378	singular
 36396	dual
 36399	singular
@@ -3045,10 +2775,10 @@ dual
 36623	singular
 36632	plural
 36634	singular
-36655	plural
+36655	singular
 36685	plural
 36687	plural
-36712	
+36712	plural
 36721	plural
 36728	singular
 36758	plural
@@ -3056,7 +2786,7 @@ dual
 36785	plural
 36787	singular
 36840	plural
-36873	plural
+36873	singular
 36879	singular
 36889	singular
 36926	singular
@@ -3069,7 +2799,6 @@ dual
 36975	singular
 36986	singular
 37006	singular
-37033	
 37085	singular
 37092	singular
 singular
@@ -3092,23 +2821,18 @@ singular
 37351	singular
 37368	singular
 37380	singular
-37385	
 37388	singular
 37390	singular
 37416	singular
 37423	singular
-37455	
-37501	
 37536	dual
 37542	singular
 37544	singular
 37592	singular
-37611	
 37618	singular
 37630	singular
 37632	singular
 37653	singular
-37656	
 37671	singular
 singular
 37679	singular
@@ -3121,14 +2845,13 @@ singular
 37726	singular
 37756	plural
 37758	singular
-37770	plural
+37770	singular
 37773	singular
 37795	singular
 37799	singular
 37817	plural
 37837	singular
 plural
-37844	
 37860	singular
 37906	plural
 37912	plural
@@ -3138,7 +2861,7 @@ plural
 37954	singular
 singular
 37967	singular
-37988	plural
+37988	singular
 38011	singular
 singular
 38014	singular
@@ -3154,7 +2877,6 @@ singular
 38136	dual
 38141	singular
 38149	singular
-38179	
 38190	plural
 38197	singular
 38199	singular
@@ -3180,7 +2902,7 @@ singular
 38308	singular
 38322	singular
 38334	singular
-38347	
+38347	plural
 38378	singular
 38383	singular
 38416	singular
@@ -3188,8 +2910,7 @@ singular
 singular
 singular
 38430	singular
-38449	
-38472	
+38449	plural
 38483	singular
 38494	singular
 dual
@@ -3205,16 +2926,14 @@ singular
 38653	singular
 38669	singular
 38682	singular
-38690	
-38695	
+38690	plural
+38695	plural
 38705	singular
 38707	singular
 38738	singular
 38750	singular
 38773	singular
-38781	
 38783	singular
-38786	
 38800	plural
 38810	singular
 38813	singular
@@ -3225,7 +2944,7 @@ singular
 38862	singular
 38870	singular
 38872	singular
-38877	
+38877	plural
 38887	singular
 38891	singular
 singular
@@ -3275,7 +2994,7 @@ plural
 39402	plural
 39409	singular
 39413	plural
-39427	
+39427	plural
 39433	singular
 39453	plural
 39457	singular
@@ -3316,10 +3035,9 @@ singular
 39870	singular
 39879	plural
 39885	singular
-39888	
-singular
+39889	singular
 39901	singular
-39909	singular
+39909	plural
 39911	singular
 39916	singular
 39927	plural
@@ -3347,7 +3065,6 @@ singular
 40234	singular
 40264	singular
 40268	singular
-40278	
 40286	singular
 40311	singular
 40317	singular
@@ -3360,7 +3077,6 @@ singular
 40468	plural
 40474	plural
 40485	plural
-40487	
 40498	singular
 40519	singular
 40522	singular
@@ -3373,23 +3089,19 @@ singular
 40586	singular
 40598	singular
 40607	singular
-40610	
 40612	plural
-40614	
+40614	plural
 40619	singular
 40623	singular
 40637	singular
 40645	singular
-40648	
-40681	
+40681	singular
 40703	singular
 40707	singular
 40716	singular
 40722	dual
 singular
-40736	
 40753	singular
-40756	
 40778	singular
 40790	singular
 40811	singular
@@ -3410,7 +3122,7 @@ singular
 40957	singular
 40964	singular
 40979	singular
-40989	
+40989	plural
 40995	singular
 41009	singular
 41011	singular
@@ -3426,7 +3138,7 @@ singular
 41105	plural
 41107	singular
 41126	plural
-41147	
+41147	singular
 41149	singular
 41152	singular
 41158	singular
@@ -3437,7 +3149,6 @@ singular
 41218	plural
 41220	singular
 41229	singular
-41255	
 41278	plural
 41300	singular
 41340	singular
@@ -3461,9 +3172,8 @@ singular
 41491	singular
 41512	singular
 41532	singular
-41541	
 41548	singular
-41559	
+41559	plural
 41634	singular
 41640	plural
 41665	singular
@@ -3472,16 +3182,14 @@ singular
 41765	singular
 41771	singular
 41773	singular
-41815	
-41892	plural
+41892	singular
 41901	singular
 41917	singular
 41928	singular
 41934	singular
 41946	plural
-41950	plural
+41950	singular
 41962	singular
-
 41971	singular
 41977	singular
 41982	singular
@@ -3508,21 +3216,15 @@ singular
 42197	singular
 singular
 42204	singular
-42249	
-42252	
-42259	
 42295	singular
 42301	singular
-42329	
+42329	singular
 42337	singular
 42347	plural
 42354	singular
 42358	singular
 42389	singular
 42393	singular
-42396	
-42411	
-42434	
 42440	singular
 42443	singular
 42490	singular
@@ -3546,7 +3248,6 @@ singular
 42713	plural
 42715	singular
 42739	plural
-42757	
 42780	plural
 42790	singular
 42809	singular
@@ -3556,28 +3257,21 @@ singular
 42864	plural
 42881	singular
 42885	singular
-42888	
+42888	plural
 42890	singular
-42897	
 42906	singular
 42922	plural
 42925	singular
 42943	singular
 42956	singular
-42973	
 42976	plural
 42980	plural
 42988	plural
-42992	
 42995	plural
 43016	dual
-43040	
-
 43044	singular
 singular
-43048	
-singular
-43053	
+43049	singular
 43057	singular
 43066	singular
 43109	plural
@@ -3591,7 +3285,7 @@ singular
 43162	plural
 43164	singular
 singular
-43181	
+43181	plural
 43193	singular
 43201	plural
 43205	dual
@@ -3599,44 +3293,40 @@ singular
 43237	singular
 43239	singular
 43242	singular
-43250	
 43259	singular
-43263	plural
+43263	singular
 43269	singular
 43284	singular
 43295	plural
 43297	singular
 43305	plural
 43307	singular
-43312	
+43312	singular
 43319	plural
 43321	singular
 43336	singular
-43348	
-43350	
+43348	singular
+43350	singular
 43381	singular
 43383	singular
-43429	
+43429	plural
 43452	singular
 43454	singular
 43486	dual
 plural
-43493	
-43504	
+43493	plural
 43516	singular
 43518	singular
 43550	plural
-43582	
 43585	singular
 43587	singular
 43594	singular
-43596	
 43599	singular
 43605	dual
 singular
 43610	singular
 43626	singular
-43632	
+43632	plural
 43639	plural
 43641	singular
 43660	singular
@@ -3664,24 +3354,22 @@ singular
 43921	singular
 43933	singular
 43962	singular
-43966	
 43984	plural
 43986	singular
-43992	
+43992	plural
 44000	plural
 44002	singular
 44017	singular
 44019	singular
 singular
-44028	
+44028	singular
 44040	singular
 44058	plural
 44060	singular
-44085	
-44094	
+44085	singular
+44094	plural
 44096	plural
 44119	singular
-44127	
 44138	singular
 44150	singular
 44154	singular
@@ -3689,16 +3377,14 @@ singular
 44192	singular
 44226	singular
 44237	singular
-44260	
-44282	
 44292	singular
 44318	singular
 singular
 44335	singular
 44339	singular
 44346	singular
-
-44401	
+singular
+44401	plural
 44414	plural
 44416	singular
 44425	singular
@@ -3719,7 +3405,7 @@ singular
 44579	singular
 singular
 44598	singular
-44600	
+44600	plural
 44609	singular
 44620	singular
 44629	singular
@@ -3728,8 +3414,7 @@ singular
 44639	singular
 44653	singular
 44695	plural
-44723	
-44727	singular
+44727	plural
 44729	plural
 44731	plural
 44737	singular
@@ -3745,7 +3430,6 @@ singular
 44852	singular
 44855	singular
 44859	singular
-44861	
 44865	singular
 44894	singular
 44904	singular
@@ -3753,7 +3437,6 @@ singular
 44920	singular
 44938	singular
 singular
-44966	
 44990	plural
 45006	singular
 45030	singular
@@ -3762,12 +3445,9 @@ singular
 45044	singular
 45053	singular
 45062	singular
-
-45074	
 45077	singular
 singular
-singular
-45084	
+plural
 45092	singular
 45112	singular
 45115	plural
@@ -3775,7 +3455,7 @@ singular
 45118	singular
 45149	singular
 45197	dual
-
+singular
 45230	singular
 45328	singular
 45336	singular
@@ -3785,7 +3465,6 @@ singular
 45411	singular
 45418	dual
 45423	plural
-45438	
 45500	singular
 45517	singular
 45536	plural
@@ -3832,7 +3511,7 @@ singular
 45872	singular
 45912	singular
 45941	plural
-45951	
+45951	plural
 45963	singular
 45974	plural
 45980	singular
@@ -3848,11 +3527,10 @@ singular
 46206	singular
 46208	singular
 46215	singular
-46256	
 46274	plural
 46305	plural
 46362	singular
-46390	
+46390	singular
 46396	singular
 46411	plural
 46416	singular
@@ -3883,17 +3561,15 @@ singular
 46716	plural
 46728	singular
 singular
-46744	
 46747	singular
 46750	singular
 46758	singular
-46765	
 46778	singular
 46782	singular
 46785	singular
 46788	singular
 46813	singular
-46819	
+46819	plural
 46833	singular
 46840	singular
 46847	singular
@@ -3910,9 +3586,7 @@ singular
 47071	singular
 47081	plural
 47118	singular
-47155	
 47161	plural
-47198	
 47209	plural
 47231	singular
 47233	singular
@@ -3921,25 +3595,21 @@ singular
 47268	singular
 47274	singular
 47303	singular
-47308	
 47310	dual
-47314	
 47319	plural
 47331	plural
 47335	singular
 47345	singular
 47352	plural
-47372	
 47399	plural
 47435	singular
 47442	singular
 47445	singular
 47458	singular
 47462	singular
-47498	
 47501	plural
 plural
-47506	
+47506	plural
 47560	singular
 47576	plural
 47606	singular
@@ -3948,41 +3618,34 @@ plural
 47617	plural
 47631	singular
 singular
-47652	
-
+47653	plural
 47659	singular
 47695	singular
 singular
 singular
 47713	singular
-47727	
+47727	plural
 47770	plural
 47804	singular
 47870	plural
 47915	singular
 47918	plural
-47939	
 47970	singular
 47977	singular
-47987	
+47987	singular
 singular
 48007	plural
 singular
 48014	singular
 48018	singular
-48023	
 48035	singular
 48039	singular
 48058	singular
 48075	singular
-48082	
 48098	singular
-48130	
 48136	singular
 48146	plural
 48148	singular
-48171	
-48177	
 48212	plural
 48228	singular
 48231	singular
@@ -4019,13 +3682,12 @@ singular
 48634	singular
 48644	plural
 48724	singular
-48727	
 48750	singular
 48769	plural
 48780	singular
 48782	singular
 48793	singular
-48812	
+48812	plural
 48818	singular
 48838	singular
 48842	singular
@@ -4040,24 +3702,15 @@ singular
 singular
 48988	singular
 48992	singular
-49025	
+49025	plural
 49032	singular
-49035	
-49041	
 49044	singular
-49047	
-49051	
 49056	singular
-49072	
-49076	
 49090	dual
 49097	singular
 singular
 49107	singular
-49117	
 49123	singular
-49127	
-49143	
 49162	singular
 49172	singular
 49174	singular
@@ -4067,39 +3720,32 @@ singular
 49212	singular
 49215	singular
 49222	singular
-49229	
 49231	singular
-49242	
-49258	
-49266	
+49258	plural
+49266	plural
 49270	singular
 49284	singular
 49331	singular
 49366	singular
-49434	
-49438	
 49443	singular
 49451	singular
-
+dual
 49456	singular
 49468	singular
-49480	
-singular
-49490	
+49481	singular
+49490	plural
 49509	singular
 49514	singular
 49546	singular
 49556	singular
 49558	singular
 49574	singular
-
+dual
 49579	singular
 49584	singular
 49599	singular
 49614	singular
 49624	singular
-49633	
-49636	
 49641	singular
 49648	singular
 49655	singular
@@ -4108,13 +3754,12 @@ singular
 49683	singular
 49694	singular
 49704	singular
-49710	
 49721	singular
 49727	singular
 49737	singular
 49756	singular
 49771	singular
-49774	
+49774	dual
 49782	singular
 49813	singular
 49825	singular
@@ -4124,14 +3769,13 @@ singular
 49852	singular
 49865	singular
 49869	plural
-49873	
 49886	singular
 49893	singular
 singular
 49905	singular
 49919	singular
 49928	singular
-49944	plural
+49944	singular
 singular
 49949	singular
 49960	singular
@@ -4146,7 +3790,6 @@ singular
 50037	singular
 50044	singular
 50061	singular
-50071	
 50089	singular
 50107	singular
 50113	singular
@@ -4156,23 +3799,17 @@ singular
 50217	plural
 50220	singular
 50228	singular
-50238	
 50258	singular
 singular
-50267	
+50267	plural
 50279	singular
-50287	
-50291	
 50315	singular
 50325	singular
-50328	
 50342	singular
-50344	
 50353	plural
 50355	singular
 singular
 50383	singular
-50385	
 50398	plural
 50400	singular
 50419	singular
@@ -4180,8 +3817,7 @@ singular
 50442	singular
 50477	singular
 50496	singular
-50502	
-dual
+50503	dual
 50519	singular
 singular
 50536	singular
@@ -4189,23 +3825,14 @@ singular
 50586	singular
 50617	singular
 50633	singular
-50640	
 50643	singular
 50651	singular
-50668	
 50692	singular
-50705	
 50711	singular
-50718	
-50726	
-50753	
-50755	
-
-50779	
 50786	singular
 50790	plural
 50792	singular
-50822	
+50822	plural
 50835	singular
 50843	singular
 50863	singular
@@ -4218,11 +3845,9 @@ singular
 singular
 50969	singular
 50980	singular
-50984	
+50984	plural
 50995	singular
-51005	
 51022	singular
-51024	
 51034	singular
 51043	singular
 51052	singular
@@ -4280,19 +3905,16 @@ plural
 singular
 51558	singular
 51571	singular
-51591	
+51591	plural
 51601	singular
-51624	
+51624	plural
 51631	singular
-51634	
+51634	plural
 51637	plural
-51672	
 51674	singular
 51706	plural
-51715	
 51725	singular
 51741	singular
-51756	
 51761	plural
 51765	singular
 51777	singular
@@ -4302,10 +3924,8 @@ singular
 51811	singular
 51849	singular
 singular
-51876	
 51907	singular
 plural
-51942	
 51967	singular
 singular
 51976	singular
@@ -4313,7 +3933,6 @@ singular
 52005	plural
 52008	singular
 52010	singular
-52024	
 52031	singular
 52043	plural
 52057	plural
@@ -4321,20 +3940,19 @@ singular
 52062	singular
 52072	plural
 52074	singular
-52103	
-52129	
+52103	dual
+52129	plural
 52138	singular
 52148	singular
 52151	singular
-52153	
+52153	plural
 52168	singular
 52171	singular
 52174	singular
-52177	
 52189	singular
 52206	singular
 52210	singular
-52215	
+52215	plural
 52220	singular
 52227	singular
 52233	singular
@@ -4358,14 +3976,12 @@ singular
 52413	singular
 52419	dual
 52428	singular
-52434	
 52436	dual
 52452	plural
 52459	singular
 52473	singular
 52478	singular
 52480	singular
-52485	
 52513	singular
 52524	singular
 singular
@@ -4376,26 +3992,22 @@ singular
 52601	singular
 52606	plural
 52608	singular
-52625	
 52639	singular
 singular
 52645	singular
 52647	singular
 52650	singular
 52657	singular
-52700	
 52716	singular
 singular
-52734	
 52743	singular
 52757	singular
 52792	singular
 52803	singular
 52808	singular
 52815	singular
-52828	
 52835	singular
-52854	
+52854	plural
 52864	singular
 52875	singular
 52886	plural
@@ -4404,20 +4016,16 @@ singular
 52900	singular
 52933	plural
 52937	singular
-52947	
 52953	dual
 52966	singular
 52994	singular
 53019	singular
-53024	
-53032	
 53049	singular
 singular
 53052	singular
 53055	singular
 53069	singular
 53082	singular
-53099	
 53102	singular
 53116	singular
 53129	plural
@@ -4446,7 +4054,6 @@ singular
 53424	singular
 53442	singular
 53446	singular
-53462	
 53471	singular
 53476	singular
 53487	singular
@@ -4460,12 +4067,10 @@ singular
 53564	singular
 53568	singular
 singular
-
 53576	singular
 singular
 53610	singular
 53619	singular
-53621	
 53625	singular
 53644	singular
 53646	singular
@@ -4479,86 +4084,71 @@ singular
 53693	singular
 53695	singular
 dual
-
+plural
 53705	singular
 53714	singular
 singular
 53728	singular
 53767	singular
-53774	
-53783	
 53790	singular
 53798	singular
 53811	plural
 53821	plural
-53834	singular
-53844	
+53834	plural
 53880	singular
 53901	singular
-53955	
 53964	singular
 53981	singular
 singular
-53986	
-singular
+53987	singular
 54016	singular
 54043	singular
 54046	dual
 54053	singular
 54056	plural
-54095	
+54095	singular
 singular
 54109	singular
-54117	
 54124	singular
 54128	singular
 54130	singular
 54132	singular
 plural
-54142	
+54142	plural
 54182	singular
-54186	
 54200	singular
 54210	plural
 54212	singular
 54214	plural
 54220	singular
 54253	singular
-54270	
+54270	plural
 54317	singular
 54322	singular
 54324	plural
 54341	plural
 54353	singular
-54367	
 54399	plural
-54411	
 54434	singular
 54442	singular
 54477	singular
 54495	singular
 54513	singular
 54545	singular
-54555	
-54557	
 54572	singular
 singular
-54596	
 54608	singular
 54610	singular
 54616	singular
 singular
 54624	singular
 54635	singular
-54648	
 54661	plural
-54666	
 54685	singular
-54688	singular
+54688	plural
 54726	singular
 54737	singular
 54754	singular
-54757	
 54759	singular
 singular
 54802	singular
@@ -4583,8 +4173,7 @@ singular
 55051	singular
 55055	singular
 55059	singular
-55062	
-singular
+55063	singular
 55104	singular
 55111	singular
 55118	singular
@@ -4598,7 +4187,6 @@ singular
 55202	singular
 55207	singular
 55222	singular
-55231	
 55243	singular
 55273	singular
 singular
@@ -4606,15 +4194,12 @@ singular
 55310	singular
 55332	singular
 55334	singular
-55352	
 55361	singular
 55371	singular
 55387	singular
 55395	singular
-55400	
 55411	singular
 55420	singular
-55424	
 55431	singular
 55433	plural
 55438	singular
@@ -4626,22 +4211,20 @@ singular
 55503	singular
 55505	singular
 55528	singular
-55538	
 55546	singular
-55559	
+55559	plural
 55562	plural
 55580	singular
 55584	singular
-55592	
 55608	singular
 55613	singular
 55627	singular
 55634	singular
 55640	singular
-
+plural
 55651	singular
 55655	singular
-55657	
+55657	plural
 55665	singular
 55676	plural
 55683	singular
@@ -4650,13 +4233,10 @@ singular
 singular
 55705	singular
 55714	singular
-55716	
 55736	singular
 55742	singular
-55746	
 55755	singular
 55771	singular
-55778	
 55796	plural
 55807	plural
 55810	dual
@@ -4672,10 +4252,8 @@ plural
 55922	singular
 55926	singular
 55933	singular
-55954	
-55973	
-56000	
-singular
+55954	singular
+56001	singular
 56009	singular
 singular
 56014	singular
@@ -4683,29 +4261,23 @@ singular
 56017	singular
 56026	singular
 56032	singular
-56058	
 56070	singular
 56072	plural
-56081	
 56120	singular
 56125	plural
 56129	singular
 singular
 56138	singular
 singular
-56149	
 56152	plural
 56164	singular
-56181	
 56185	singular
 56204	plural
 56248	singular
 56252	singular
-56268	
-56275	
+56275	plural
 56283	singular
 56291	singular
-56293	
 56299	singular
 56317	plural
 56319	plural
@@ -4713,32 +4285,27 @@ singular
 56338	singular
 56353	singular
 56369	singular
-56414	
 56422	singular
-56438	
 56440	singular
 singular
 56501	plural
-56503	
 56534	singular
 56551	singular
 56558	singular
 56566	plural
 56572	singular
 56575	singular
-56580	
+56580	plural
 56588	singular
-56599	
+56599	plural
 56625	singular
 56649	plural
 singular
 56658	singular
 56663	singular
-56673	
-singular
+56674	singular
 56684	singular
 56701	singular
-56714	
 56724	singular
 56734	singular
 56796	dual
@@ -4746,13 +4313,13 @@ singular
 56834	singular
 56837	singular
 56845	singular
-56859	
+56859	plural
 56864	singular
 56886	singular
 56888	singular
 56891	singular
 56900	singular
-56910	
+56910	plural
 56914	singular
 56919	singular
 singular
@@ -4762,7 +4329,6 @@ singular
 56937	singular
 56939	singular
 56947	singular
-
 56967	singular
 56969	singular
 56980	singular
@@ -4778,7 +4344,7 @@ singular
 57047	singular
 57090	singular
 57094	singular
-57098	
+57098	plural
 plural
 57114	singular
 57124	singular
@@ -4791,15 +4357,9 @@ plural
 57190	singular
 57199	singular
 57207	singular
-57215	
-57225	
-57232	
 57235	singular
 57246	singular
-57261	
-57268	
 57271	singular
-57284	
 57290	singular
 57311	singular
 57316	singular
@@ -4807,16 +4367,13 @@ singular
 57334	singular
 57340	singular
 57360	singular
-57366	
 57373	singular
 57376	plural
 57381	plural
 57384	singular
 57389	singular
 57394	singular
-57404	
 57406	singular
-57419	
 57422	singular
 57439	singular
 57446	singular
@@ -4828,7 +4385,6 @@ singular
 57497	singular
 plural
 57509	plural
-57529	
 57590	plural
 57596	singular
 57601	singular
@@ -4839,36 +4395,30 @@ singular
 57621	singular
 57644	singular
 57657	singular
-57659	
 57671	singular
-57714	
 57749	singular
-57762	
 57766	singular
 57771	dual
 57806	plural
 57815	singular
-57819	
+57819	dual
 57823	plural
-57853	
 57861	singular
 57864	singular
 57867	singular
 57880	singular
 57885	singular
-57888	
 57892	singular
 57894	singular
 plural
 57905	singular
 57921	singular
-
+plural
 57927	singular
 57959	singular
 57986	plural
 57997	singular
 58009	singular
-58019	
 58032	plural
 58074	singular
 58081	singular
@@ -4877,21 +4427,16 @@ plural
 58136	singular
 58139	singular
 58144	singular
-58149	
 58175	singular
 58183	singular
-58201	
 58215	singular
-58222	
 58227	plural
-58242	
 58253	singular
 58278	singular
 singular
-58292	singular
+58292	plural
 58296	plural
-58317	
-58366	
+58366	plural
 58379	plural
 58402	singular
 58419	singular
@@ -4900,27 +4445,22 @@ singular
 58459	singular
 58470	singular
 58472	singular
-58481	
 58508	plural
-
+plural
 58543	plural
 58574	singular
 58582	plural
 58602	singular
-58604	
 58617	singular
-
 58625	singular
 58629	singular
 58644	singular
-58646	
 58649	singular
-58663	
 58666	singular
 singular
 58678	dual
 58686	singular
-
+plural
 58696	singular
 58704	singular
 58716	singular
@@ -4929,7 +4469,6 @@ singular
 singular
 58736	singular
 58753	singular
-
 58784	singular
 58793	singular
 58819	plural
@@ -4937,18 +4476,16 @@ singular
 58838	singular
 58848	singular
 58888	singular
-58891	
+58891	plural
 58908	singular
 58917	singular
 58929	singular
 58945	singular
-
+plural
 58958	singular
 58964	singular
 58966	singular
-58969	
 58980	singular
-59011	
 59014	singular
 59019	singular
 59022	singular
@@ -4965,23 +4502,20 @@ singular
 59163	singular
 59168	singular
 singular
-59201	
 59208	singular
 59223	singular
 59232	singular
-59247	
 59249	singular
 59256	singular
 59258	singular
 59266	singular
 59273	singular
 59279	singular
-59302	
+59302	plural
 59322	singular
 59340	plural
 59376	singular
 59383	singular
-59396	
 59403	singular
 59405	plural
 59411	singular
@@ -4990,7 +4524,6 @@ singular
 59469	singular
 59481	singular
 59485	singular
-
 59505	singular
 59508	singular
 59510	singular
@@ -4998,9 +4531,8 @@ singular
 59524	singular
 59563	singular
 59581	plural
-59584	
+59584	singular
 59590	singular
-59613	
 59619	singular
 59642	singular
 59648	singular
@@ -5010,8 +4542,7 @@ singular
 59680	plural
 59688	plural
 59696	singular
-59698	
-plural
+59699	plural
 dual
 59703	singular
 59705	singular
@@ -5019,8 +4550,7 @@ dual
 59713	singular
 59719	plural
 59722	singular
-59726	
-59737	
+59726	plural
 59743	singular
 59749	singular
 59755	singular
@@ -5028,7 +4558,6 @@ dual
 59768	singular
 59779	singular
 59785	singular
-59794	
 59817	singular
 59821	singular
 59828	singular
@@ -5038,15 +4567,13 @@ dual
 59881	singular
 59923	singular
 59925	singular
-59956	
+59956	plural
 59963	singular
 59971	singular
 59973	singular
 59975	singular
 59979	singular
-60004	
-60014	
-plural
+60015	plural
 60022	singular
 60028	dual
 60060	singular
@@ -5059,7 +4586,6 @@ plural
 singular
 60135	singular
 60138	singular
-60162	
 60164	singular
 60169	singular
 60174	singular
@@ -5078,18 +4604,12 @@ singular
 60332	singular
 60334	plural
 60363	singular
-60373	
+60373	plural
 60382	singular
-60394	
-60403	
 60419	singular
-60433	
-60456	
-60468	
 60487	singular
 60493	singular
 60499	singular
-60502	
 60510	singular
 60525	singular
 60549	plural
@@ -5098,7 +4618,6 @@ singular
 60564	singular
 60567	plural
 60570	singular
-60573	
 60580	singular
 60599	singular
 60601	singular
@@ -5107,13 +4626,13 @@ singular
 60652	singular
 60656	singular
 60668	singular
-60684	
+60684	plural
 60686	singular
 60692	singular
 60695	singular
 60702	singular
 60719	singular
-60725	
+60725	plural
 60746	singular
 60760	singular
 60768	singular
@@ -5129,8 +4648,6 @@ singular
 60909	singular
 60920	singular
 60925	singular
-60932	
-60943	
 60953	singular
 60979	singular
 61012	singular
@@ -5138,7 +4655,7 @@ singular
 61026	singular
 61034	singular
 61045	singular
-61050	
+61050	plural
 61052	singular
 61084	singular
 61099	singular
@@ -5148,7 +4665,7 @@ singular
 61131	singular
 61145	singular
 61170	singular
-61185	
+61185	plural
 61209	singular
 61229	singular
 61242	singular
@@ -5160,7 +4677,7 @@ singular
 61316	singular
 61336	plural
 61338	singular
-61340	
+61340	dual
 61346	singular
 61367	singular
 61405	dual
@@ -5177,10 +4694,8 @@ singular
 61522	singular
 61528	singular
 61537	singular
-
 61543	singular
 61555	singular
-
 61567	singular
 61572	singular
 singular
@@ -5193,7 +4708,7 @@ singular
 61746	singular
 61769	singular
 61771	singular
-61776	
+61776	plural
 61778	singular
 61791	singular
 61808	singular
@@ -5203,9 +4718,7 @@ singular
 61900	singular
 61905	singular
 61912	singular
-61923	
 61927	singular
-61929	
 61937	singular
 61962	singular
 61975	singular
@@ -5213,63 +4726,49 @@ singular
 61992	plural
 61999	singular
 62023	singular
-
+singular
 62029	plural
 62039	singular
 62066	singular
 62074	singular
 62077	singular
-62086	
 62113	singular
 62117	singular
 62136	singular
-
-62143	
-62148	
 62167	singular
-62176	
 62188	singular
 62206	singular
 62215	singular
 62233	singular
 62240	singular
-62248	
-62251	
 62315	singular
 singular
 62332	singular
-62361	
 62363	singular
 62368	singular
 62385	singular
-62389	
 62391	singular
-62426	
 62439	singular
 62452	plural
-62464	
-62467	
 62488	singular
 62539	singular
 singular
 62547	singular
 62566	plural
-62580	
 62582	plural
 62599	plural
 62647	singular
 62663	singular
 62696	singular
-62699	
 62726	plural
 62734	singular
 62751	singular
-62753	
+62753	dual
 singular
 62759	singular
 62777	plural
 62780	singular
-62782	
+62782	singular
 62798	singular
 62825	singular
 62829	singular
@@ -5278,56 +4777,41 @@ singular
 62873	singular
 62878	singular
 62886	singular
-62892	
-62896	
+62896	plural
 62904	singular
-62917	
-62929	
-singular
+62930	singular
 62936	singular
 62938	singular
 62950	singular
-62955	
-62961	
 62965	singular
-62968	
+62968	dual
 62975	plural
 plural
 62979	singular
 62995	singular
 63015	singular
-63048	
-63068	
-63078	
 63083	singular
-63132	
 63150	singular
 63158	singular
 63180	singular
 63213	singular
 63220	singular
 63222	singular
-63225	
+63225	dual
 63228	singular
 63253	singular
 singular
-63290	
-63292	
-63304	
-63335	singular
+63290	singular
 63384	singular
 63394	singular
 63403	singular
 singular
-63424	
+63424	plural
 63430	singular
 63456	singular
 63461	singular
-63484	
 63497	singular
-63502	
-63506	
-63513	
+63506	plural
 63560	singular
 63562	plural
 63564	singular
@@ -5336,7 +4820,6 @@ singular
 63609	singular
 63618	singular
 63631	singular
-63636	
 63646	singular
 63673	plural
 63675	singular
@@ -5362,18 +4845,16 @@ singular
 63848	singular
 63864	plural
 63869	singular
-
+plural
 63884	singular
 63902	singular
 63905	singular
 63919	singular
 63927	singular
-63953	
 63959	singular
 63963	singular
 singular
 63967	singular
-63972	
 63984	dual
 63994	dual
 64013	singular
@@ -5408,7 +4889,6 @@ singular
 singular
 64273	singular
 64276	singular
-64284	
 64295	singular
 singular
 64307	singular
@@ -5420,19 +4900,17 @@ singular
 64357	singular
 64365	singular
 64375	singular
-64397	
+64397	plural
 64407	plural
 64411	singular
 64417	singular
-64421	plural
+64421	singular
 64423	singular
-64425	
 64430	singular
 64432	singular
 64438	singular
 64442	singular
 64446	singular
-64448	
 64453	singular
 64455	singular
 64461	singular
@@ -5450,16 +4928,13 @@ singular
 64556	singular
 64577	singular
 64584	singular
-64588	
 64592	singular
-64624	
 64628	singular
 64656	singular
 64658	singular
-64663	
 64669	singular
 64678	singular
-64699	
+64699	plural
 64718	singular
 64727	plural
 64729	singular
@@ -5471,12 +4946,9 @@ singular
 64823	singular
 64911	singular
 64934	singular
-64972	
 64984	singular
 64987	plural
-64994	
-65007	
-65077	
+64994	plural
 65081	singular
 65086	plural
 65104	singular
@@ -5492,7 +4964,7 @@ plural
 65401	plural
 65415	singular
 65418	singular
-65423	
+65423	plural
 65433	singular
 65436	singular
 65443	singular
@@ -5505,23 +4977,21 @@ plural
 65498	singular
 65518	singular
 65522	singular
-65527	
 65531	singular
 65542	singular
 65546	singular
 65571	singular
 65573	singular
-65575	
+65575	plural
 65577	singular
 65588	singular
-65591	
-dual
+65592	dual
 65599	singular
 65604	singular
 singular
-65607	
+65607	plural
 65611	plural
-65617	
+65617	plural
 65622	singular
 65626	dual
 65634	singular
@@ -5546,7 +5016,7 @@ singular
 65927	singular
 65933	singular
 singular
-65941	
+65941	plural
 65954	singular
 65985	singular
 65987	singular
@@ -5561,24 +5031,22 @@ singular
 66127	singular
 66150	singular
 66161	singular
-66167	
 66178	singular
 66208	singular
 66274	singular
 66289	plural
 66327	plural
 66340	singular
-66342	
+66342	plural
 66346	plural
 66366	singular
 66369	singular
 66371	singular
 66380	singular
 66385	plural
-66392	
+66392	plural
 66395	singular
 66399	plural
-66430	
 66432	singular
 66444	singular
 66460	singular
@@ -5589,9 +5057,8 @@ singular
 66489	singular
 66522	singular
 66526	plural
-
+plural
 66542	plural
-66555	
 66570	plural
 66615	plural
 66674	plural
@@ -5607,38 +5074,32 @@ singular
 66845	singular
 66851	singular
 66859	plural
-66868	
+66868	plural
 66875	singular
 66879	singular
-66881	
 66915	plural
 66919	singular
-66943	
+66943	plural
 66949	singular
 66973	singular
 66985	singular
 66991	singular
 67009	singular
-67013	
 67028	singular
 67035	singular
-67049	
+67049	plural
 67055	singular
 67078	singular
-67086	
-singular
+67087	singular
 67099	singular
-67102	
 67105	singular
 67115	singular
-67122	
-67130	
 67148	singular
 67195	singular
 67208	singular
 67217	singular
 67227	plural
-
+plural
 67234	singular
 singular
 67246	singular
@@ -5649,7 +5110,6 @@ singular
 67279	singular
 67306	singular
 67322	singular
-67332	
 67343	singular
 67346	singular
 67353	singular
@@ -5658,7 +5118,7 @@ singular
 67374	singular
 67382	singular
 67391	singular
-67398	singular
+67398	plural
 67401	plural
 67439	plural
 67442	plural
@@ -5669,14 +5129,14 @@ singular
 67500	singular
 67512	singular
 67516	singular
-
+plural
 67568	singular
 67570	singular
 67584	singular
 67599	singular
 67607	plural
 67623	singular
-67640	
+67640	singular
 67668	singular
 67723	singular
 67749	singular
@@ -5684,7 +5144,6 @@ singular
 67825	singular
 67834	plural
 67877	singular
-67888	
 67903	singular
 67907	singular
 67938	singular
@@ -5715,10 +5174,8 @@ singular
 68288	singular
 singular
 68324	plural
-68377	
 68379	singular
 68399	singular
-68431	
 68450	singular
 68484	singular
 68495	singular
@@ -5726,15 +5183,13 @@ singular
 68553	singular
 68555	singular
 68557	singular
-68617	
 68623	singular
 68647	singular
 68649	singular
-
 68667	singular
 68683	singular
 68685	singular
-68697	
+68697	plural
 68731	singular
 68773	singular
 68782	singular
@@ -5763,7 +5218,6 @@ singular
 69069	singular
 69078	singular
 69083	singular
-69086	
 69096	plural
 69125	singular
 69129	singular
@@ -5782,14 +5236,12 @@ singular
 singular
 69275	plural
 69277	singular
-69280	
+69280	singular
 69291	plural
 69294	singular
 69321	singular
 69331	singular
 69333	plural
-69344	
-69360	
 69375	singular
 69408	singular
 69459	singular
@@ -5800,25 +5252,22 @@ singular
 69493	singular
 69511	singular
 69519	singular
-69526	
+69526	plural
 69542	plural
 69544	singular
 69557	singular
-69563	
-plural
+69564	plural
 69588	singular
-69606	
 69619	singular
 69634	singular
-69636	
+69636	plural
 69640	plural
 69651	singular
 69653	singular
-69657	
-singular
+69658	singular
 69671	singular
 69681	singular
-69683	
+69683	plural
 69698	singular
 singular
 69705	singular
@@ -5833,39 +5282,31 @@ singular
 69764	singular
 singular
 69776	singular
-69785	
-69811	
-69822	
-69860	
+69860	singular
 69863	singular
-69872	
 69875	singular
 69881	plural
-69892	
 69902	singular
 69915	singular
 69924	singular
 69941	singular
 69946	singular
-69985	
+69985	singular
 70018	singular
 70044	singular
 70046	singular
 70057	singular
 70059	singular
 70064	singular
-70078	
 70082	singular
 70108	singular
 70116	plural
 70136	singular
 70149	singular
-70186	
 70195	singular
-
 70203	singular
 70212	plural
-70216	
+70216	singular
 70245	singular
 singular
 70257	singular
@@ -5887,20 +5328,16 @@ singular
 70410	singular
 70480	plural
 70484	singular
-70487	
+70487	plural
 70521	singular
 70529	singular
-70544	
 70557	singular
 70603	singular
-70615	
+70615	plural
 70633	singular
-70639	
 70647	singular
 70672	singular
-70677	
 70684	singular
-70686	
 70689	singular
 70693	singular
 70715	singular
@@ -5914,10 +5351,9 @@ singular
 70821	singular
 70829	singular
 70850	singular
-70856	
 70864	singular
-
-70870	
+plural
+70870	singular
 70879	singular
 70903	singular
 70907	singular
@@ -5937,21 +5373,19 @@ singular
 71064	singular
 71113	singular
 71121	singular
-71129	
+71129	singular
 71134	singular
 71147	singular
-71154	
+71154	singular
 71161	dual
 71175	singular
 71195	plural
 71197	singular
-
 71202	singular
 71205	singular
 71211	plural
 71221	singular
-71229	
-singular
+71230	singular
 71247	singular
 71281	plural
 71291	singular
@@ -5967,10 +5401,9 @@ singular
 71389	singular
 71391	plural
 71398	singular
-71436	
+71436	plural
 71479	singular
 71485	singular
-71489	
 71518	singular
 71523	singular
 71529	singular
@@ -5979,7 +5412,7 @@ singular
 71563	singular
 71567	plural
 71571	singular
-71576	
+71576	plural
 71588	singular
 71592	singular
 71607	singular
@@ -6009,30 +5442,25 @@ singular
 71960	singular
 71964	plural
 71968	singular
-71970	
+71970	singular
 71977	singular
 71993	singular
 72009	plural
 72027	singular
-72030	
 72032	singular
 72043	singular
 72062	singular
 72072	singular
-72085	
 72104	singular
 72120	singular
 72124	plural
-72127	
 72129	singular
 72141	singular
-72152	
+72152	plural
 72177	singular
-72192	
+72192	plural
 72239	singular
-72267	
 72275	singular
-72288	
 72309	singular
 72322	singular
 72330	singular
@@ -6042,7 +5470,7 @@ singular
 72353	singular
 72358	singular
 72369	singular
-72373	
+72373	plural
 72421	plural
 72460	singular
 72468	singular
@@ -6050,11 +5478,9 @@ singular
 72511	singular
 72532	plural
 singular
-72560	
 72568	singular
-72592	
 72605	plural
-72614	
+72614	plural
 72619	singular
 72642	singular
 72652	singular
@@ -6064,12 +5490,11 @@ singular
 72691	singular
 72695	singular
 singular
-72732	
+72732	singular
 72778	singular
 72793	singular
 72796	singular
 singular
-72806	
 72820	plural
 72824	singular
 singular
@@ -6107,17 +5532,15 @@ singular
 73326	singular
 73334	singular
 73337	singular
-73364	
+73364	plural
 73397	singular
-73415	
 73417	singular
 73458	singular
 73468	plural
 73472	singular
 73480	singular
 73482	singular
-73497	
-singular
+73498	singular
 singular
 73504	singular
 73506	plural
@@ -6127,14 +5550,13 @@ singular
 73605	plural
 73613	singular
 73658	plural
-73680	
+73680	plural
 73682	plural
 73723	singular
 73732	singular
 73763	singular
 73774	singular
 73804	plural
-73811	
 73815	singular
 73865	singular
 73871	singular
@@ -6143,7 +5565,7 @@ singular
 73917	plural
 singular
 73969	singular
-74005	
+74005	plural
 74008	singular
 74013	plural
 74015	singular
@@ -6152,20 +5574,18 @@ singular
 74070	singular
 74083	singular
 74094	plural
-74103	
 74107	singular
-74163	
 74167	singular
 74197	plural
 74207	singular
 74226	singular
 74240	plural
 74243	singular
-74250	
+74250	plural
 74254	plural
 74296	singular
 74313	singular
-
+plural
 74318	singular
 74362	singular
 74364	singular
@@ -6177,7 +5597,6 @@ singular
 74398	singular
 74410	singular
 74423	singular
-74425	
 74427	singular
 74432	singular
 74442	singular
@@ -6185,35 +5604,31 @@ singular
 74470	singular
 74486	singular
 74488	singular
-74513	
+74513	plural
 74527	plural
 74538	plural
 74576	singular
-74587	
+74587	plural
 singular
-74601	plural
+74601	singular
 74650	singular
-74652	
+74652	plural
 singular
 74679	singular
 74690	singular
-74700	
+74700	singular
 74713	singular
 74730	plural
 74771	singular
 74778	plural
-74796	
-74827	
+74827	plural
 74849	singular
 74868	singular
 74881	plural
 74884	singular
 74895	plural
-74900	
 74904	plural
-74916	
-74922	
-74930	
+74922	plural
 74937	singular
 74971	plural
 74989	singular
@@ -6245,7 +5660,6 @@ singular
 75352	singular
 75453	singular
 75492	singular
-75511	
 75539	singular
 75544	plural
 75558	plural
@@ -6255,7 +5669,7 @@ singular
 75632	plural
 75658	plural
 singular
-75671	
+75671	plural
 75673	singular
 75723	plural
 75727	plural
@@ -6274,7 +5688,6 @@ singular
 singular
 singular
 75883	singular
-75895	
 75919	singular
 75937	singular
 75955	singular
@@ -6296,14 +5709,12 @@ singular
 76143	singular
 76153	singular
 76155	plural
-76202	
-76216	
+76202	plural
+76216	plural
 76229	singular
 76295	singular
 76306	singular
-76310	
 76346	singular
-76355	
 76370	singular
 76376	singular
 76384	singular
@@ -6311,7 +5722,6 @@ singular
 76405	singular
 76408	singular
 76414	singular
-76430	
 76448	singular
 76499	plural
 76539	singular
@@ -6320,13 +5730,12 @@ singular
 76562	singular
 76575	singular
 76577	plural
-76601	
 76606	singular
 76619	singular
 76646	singular
 76653	plural
-76668	
-76678	
+76668	plural
+76678	plural
 76690	singular
 76768	singular
 76802	singular
@@ -6338,7 +5747,7 @@ singular
 plural
 76853	singular
 76865	singular
-
+plural
 76868	plural
 76893	singular
 76897	plural
@@ -6348,7 +5757,6 @@ plural
 76931	singular
 76948	singular
 76951	plural
-76961	
 76966	plural
 76994	singular
 77004	singular
@@ -6362,14 +5770,13 @@ plural
 77086	plural
 77096	plural
 77108	singular
-77114	
 77116	singular
 77125	singular
 77134	plural
 77152	singular
 77156	plural
 77162	plural
-77170	
+77170	plural
 plural
 77184	singular
 77189	singular
@@ -6384,7 +5791,6 @@ plural
 77260	singular
 77271	singular
 77276	singular
-
 77328	plural
 77346	plural
 77360	plural
@@ -6395,7 +5801,7 @@ plural
 77437	singular
 77472	singular
 77484	plural
-77489	
+77489	plural
 77537	singular
 77551	singular
 77560	singular
@@ -6408,8 +5814,7 @@ singular
 77624	singular
 77633	plural
 77637	singular
-77648	
-77667	
+77648	singular
 77689	singular
 77706	singular
 77716	plural
@@ -6432,7 +5837,7 @@ singular
 77923	singular
 77942	singular
 77944	singular
-77947	
+77947	plural
 77951	singular
 77953	plural
 77960	singular
@@ -6442,12 +5847,10 @@ singular
 78049	singular
 78056	singular
 78058	singular
-78126	singular
 78139	singular
 78154	plural
-78163	
 78178	singular
-
+plural
 78189	singular
 78202	singular
 78233	singular
@@ -6461,13 +5864,11 @@ singular
 78373	singular
 78382	singular
 78441	singular
-78452	
+78452	plural
 78461	singular
 78477	singular
-78484	
 78486	singular
 78518	plural
-78547	
 78550	singular
 78594	plural
 78596	singular
@@ -6476,8 +5877,8 @@ singular
 78679	singular
 78709	singular
 78769	singular
-78784	
-78805	
+78784	plural
+78805	plural
 78807	singular
 78827	singular
 78843	singular
@@ -6492,7 +5893,6 @@ singular
 78976	singular
 78990	singular
 79007	plural
-79026	
 79030	singular
 79033	plural
 79086	singular
@@ -6516,8 +5916,6 @@ singular
 79303	singular
 79375	singular
 79399	singular
-79407	
-79448	
 79452	singular
 79491	singular
 singular
@@ -6534,7 +5932,6 @@ singular
 79688	singular
 79693	singular
 79704	singular
-79713	
 79723	singular
 79750	singular
 79787	singular
@@ -6544,7 +5941,6 @@ singular
 79862	plural
 79914	singular
 79916	plural
-79925	
 79936	singular
 79954	singular
 79963	plural
@@ -6558,16 +5954,14 @@ singular
 80040	singular
 80049	singular
 80052	singular
-80063	
-80076	
+80076	plural
 80083	singular
 80115	plural
 80124	singular
 80130	singular
 80147	singular
-80173	
-
-80181	
+80173	plural
+80181	plural
 80183	singular
 80199	plural
 80203	plural
@@ -6583,20 +5977,18 @@ singular
 80366	singular
 80375	plural
 80389	singular
-80393	
+80393	plural
 80396	singular
 80410	singular
 80422	plural
 80426	plural
 80429	singular
-80431	
 80445	singular
 80465	plural
 80481	singular
 80484	plural
 80487	singular
 80504	singular
-80572	
 80632	singular
 80636	singular
 80684	singular
@@ -6626,16 +6018,12 @@ singular
 81025	singular
 81076	singular
 81078	singular
-81105	
 81112	singular
 81118	singular
 81120	singular
-81158	
 81177	plural
 81182	plural
-81203	
 81229	singular
-81244	
 81275	singular
 singular
 81286	singular
@@ -6672,14 +6060,13 @@ singular
 81718	singular
 81727	singular
 81751	plural
-81785	
+81785	plural
 81806	singular
 81812	singular
 81815	singular
 81835	singular
-81854	
 81857	singular
-81867	
+81867	plural
 81894	singular
 81897	singular
 81936	dual
@@ -6694,7 +6081,6 @@ singular
 82089	singular
 82106	singular
 82119	singular
-82131	
 82148	singular
 82151	singular
 82174	singular
@@ -6703,7 +6089,6 @@ singular
 82186	singular
 singular
 82220	singular
-82235	
 82255	plural
 82269	singular
 82276	plural
@@ -6721,9 +6106,9 @@ singular
 82441	plural
 82482	singular
 82491	singular
-82495	
+82495	plural
 82497	dual
-82501	
+82501	plural
 82515	singular
 82529	singular
 singular
@@ -6738,25 +6123,22 @@ singular
 82733	singular
 82735	singular
 82784	singular
-82807	
+82807	plural
 82811	singular
 82815	plural
 82819	plural
 82821	singular
-82830	
+82830	plural
 82839	singular
-82859	
-82874	
 82878	singular
-
-plural
+82880	plural
 singular
 82910	plural
 82912	singular
 82926	plural
 82929	singular
 82952	singular
-82958	
+82958	plural
 82973	singular
 82986	plural
 82990	singular
@@ -6766,7 +6148,7 @@ singular
 83056	singular
 83062	singular
 83078	singular
-83081	
+83081	plural
 83083	plural
 83098	singular
 83102	singular
@@ -6776,9 +6158,9 @@ singular
 83155	singular
 83159	singular
 83162	singular
-83168	
+83168	plural
 83221	singular
-83245	
+83245	plural
 83274	singular
 83287	singular
 83312	singular
@@ -6802,10 +6184,10 @@ singular
 83469	singular
 83475	singular
 singular
-83486	singular
+83486	plural
 83503	singular
 83506	singular
-83508	
+83508	plural
 83516	singular
 83522	singular
 83536	singular
@@ -6821,7 +6203,6 @@ singular
 singular
 83607	singular
 83640	singular
-83661	
 83665	singular
 83669	singular
 83678	singular
@@ -6836,11 +6217,10 @@ singular
 83713	singular
 83724	singular
 singular
-83727	
 83761	singular
 83777	singular
 83784	singular
-83799	
+83799	plural
 83807	singular
 singular
 83813	singular
@@ -6849,26 +6229,23 @@ singular
 83858	plural
 83862	singular
 83866	singular
-83873	
+83873	plural
 83880	singular
 83882	singular
 83905	singular
 83909	singular
 83913	plural
 83916	plural
-83951	
+83951	plural
 83957	singular
 83963	singular
 83972	singular
-83976	
-83979	
 83985	singular
 singular
-83989	
 83997	singular
 84006	singular
 84013	dual
-84016	
+84016	plural
 84019	singular
 dual
 84037	singular
@@ -6886,7 +6263,7 @@ singular
 84131	singular
 84133	singular
 84146	singular
-84149	
+84149	singular
 84151	singular
 84161	singular
 84169	singular
@@ -6898,7 +6275,6 @@ singular
 84230	dual
 84232	singular
 84234	singular
-84240	
 84244	singular
 84264	singular
 84272	singular
@@ -6906,25 +6282,25 @@ singular
 84289	singular
 84300	singular
 84326	singular
-84328	
+84328	plural
 84338	singular
 84346	plural
 84349	singular
-
+plural
 84370	singular
-84376	
-84388	
-84399	
+84376	plural
+84388	plural
+84399	plural
 84407	singular
 84409	singular
-84436	
+84436	plural
 singular
 84442	singular
-
+plural
 84462	singular
 84470	singular
-84476	
-84482	
+84476	plural
+84482	plural
 84487	singular
 84499	singular
 84506	singular
@@ -6941,10 +6317,10 @@ singular
 84656	singular
 84660	singular
 84662	singular
-84678	
+84678	plural
 84693	singular
-
-84722	singular
+plural
+84722	plural
 84744	singular
 84766	singular
 84798	singular
@@ -6955,17 +6331,17 @@ singular
 84860	singular
 84874	singular
 84877	plural
-84880	
-84886	
+84880	plural
+84886	plural
 84898	singular
-
+plural
 84901	singular
 84927	singular
 84931	singular
 84955	singular
 84958	singular
 84960	singular
-84966	
+84966	plural
 84977	plural
 84987	singular
 84993	singular
@@ -6973,30 +6349,29 @@ singular
 84999	singular
 85003	plural
 85031	singular
-85039	
+85039	plural
 85041	singular
 85056	singular
-85062	
+85062	plural
 85064	singular
 85072	plural
-85074	singular
-85087	
-85108	
+85074	plural
+85087	plural
 85118	singular
 85165	singular
-85214	
-85233	
-85238	
-85262	
+85214	plural
+85233	plural
+85238	singular
+85262	plural
 85264	singular
-85274	
+85274	plural
 85279	singular
-85311	
-85316	
+85311	plural
+85316	plural
 85320	singular
-85359	
+85359	plural
 85370	plural
-
+plural
 85390	singular
 85392	singular
 85439	plural
@@ -7010,7 +6385,7 @@ singular
 85553	singular
 85571	singular
 85592	singular
-
+plural
 85605	dual
 85620	dual
 85627	singular
@@ -7018,29 +6393,26 @@ singular
 85643	plural
 85680	singular
 85705	singular
-85715	
 85726	singular
 85732	singular
-
-85737	
-85763	
+85763	plural
 85775	plural
-85792	
+85792	plural
 85833	singular
-85840	
+85840	plural
 85845	singular
 85854	singular
 singular
-85860	
+85860	plural
 85867	singular
 85903	singular
-85905	
+85905	plural
 85924	dual
 85935	singular
 85939	singular
-85941	
+85941	plural
 85943	singular
-85954	
+85954	plural
 85987	singular
 85994	singular
 86006	singular
@@ -7053,14 +6425,14 @@ singular
 86069	singular
 86088	singular
 86131	singular
-86136	
+86136	plural
 86140	singular
 86142	singular
 86148	singular
 86151	singular
 86158	singular
 86184	singular
-86193	
+86193	plural
 86226	singular
 86228	singular
 86234	singular
@@ -7071,14 +6443,14 @@ singular
 86299	singular
 singular
 86309	singular
-86323	
-86329	
+86323	plural
+86329	plural
 86340	plural
 singular
 86347	plural
 86350	singular
-86356	
-86363	
+86356	plural
+86363	singular
 86373	singular
 86378	singular
 plural
@@ -7096,7 +6468,7 @@ plural
 86470	singular
 86472	singular
 86482	singular
-
+plural
 86501	singular
 86505	plural
 86507	singular
@@ -7110,8 +6482,6 @@ plural
 86614	plural
 86616	singular
 86618	singular
-86630	
-86647	
 86679	singular
 86683	singular
 86701	singular
@@ -7121,9 +6491,8 @@ singular
 86721	singular
 86729	singular
 86732	singular
-86752	
 86765	plural
-
+plural
 86800	singular
 86802	singular
 86811	singular
@@ -7134,7 +6503,6 @@ singular
 86935	singular
 singular
 86962	singular
-86985	
 86988	singular
 87002	singular
 87019	singular
@@ -7155,7 +6523,6 @@ singular
 87121	singular
 singular
 87126	singular
-87135	
 87152	dual
 87159	singular
 87174	singular
@@ -7164,11 +6531,10 @@ singular
 87195	singular
 87222	singular
 singular
-87231	
 87236	singular
 87251	singular
-87301	
-87318	
+87301	plural
+87318	singular
 87326	singular
 87346	singular
 87351	dual
@@ -7189,7 +6555,6 @@ singular
 87448	singular
 87452	singular
 singular
-87463	
 87468	singular
 singular
 87475	singular
@@ -7199,11 +6564,10 @@ singular
 87495	singular
 87498	singular
 87532	singular
-87555	
 87557	plural
 87575	singular
 87582	singular
-87590	
+87590	plural
 87593	singular
 singular
 87610	dual
@@ -7227,14 +6591,13 @@ singular
 87724	singular
 87732	singular
 87734	singular
-87757	
-87766	
+87766	singular
 87775	singular
 87782	singular
 87805	singular
 87811	singular
 87820	singular
-87839	
+87839	plural
 87842	singular
 87850	singular
 87860	singular
@@ -7253,17 +6616,13 @@ singular
 87995	singular
 singular
 88005	singular
-88009	
 88016	singular
 88026	singular
-
-88031	
-88037	
+88031	singular
 88041	singular
 88061	singular
 88075	singular
-88143	
-88145	
+88145	plural
 88156	singular
 88177	singular
 88194	singular
@@ -7271,7 +6630,7 @@ singular
 88211	singular
 88216	singular
 singular
-88252	
+88252	plural
 88256	singular
 88261	singular
 88263	plural
@@ -7281,7 +6640,7 @@ plural
 88291	singular
 88297	singular
 singular
-88300	
+88300	plural
 88315	singular
 88317	singular
 88344	singular
@@ -7303,10 +6662,7 @@ singular
 88515	singular
 singular
 88518	singular
-
 88523	singular
-88526	
-88532	
 88541	singular
 88545	singular
 dual
@@ -7318,18 +6674,15 @@ singular
 88597	singular
 88605	singular
 88614	singular
-88622	
-88630	
+88630	singular
 88633	singular
 singular
-88650	
+88650	plural
 88653	singular
-88655	
-88658	
+88655	plural
+88658	plural
 88663	plural
 88666	singular
-88693	
-88695	
 88703	plural
 88706	singular
 88720	singular
@@ -7350,10 +6703,6 @@ singular
 88899	singular
 88906	singular
 88931	singular
-88936	
-88943	
-88949	
-88953	
 88957	singular
 88968	plural
 88971	singular
@@ -7367,7 +6716,7 @@ singular
 89011	singular
 89025	singular
 89037	plural
-89059	
+89059	plural
 89063	singular
 89067	plural
 89072	singular
@@ -7379,17 +6728,16 @@ singular
 89134	singular
 89138	singular
 89142	singular
-89147	
+89147	plural
 89163	singular
 89172	singular
 89174	singular
-89186	
 89209	plural
 89218	singular
 89232	singular
 89240	singular
-89252	
-89256	
+89252	plural
+89256	plural
 89289	singular
 89293	singular
 89307	singular
@@ -7399,13 +6747,13 @@ singular
 89318	singular
 89331	plural
 89333	singular
-89336	singular
+89336	plural
 89345	singular
 89349	singular
 89363	singular
 89373	singular
 89425	singular
-89445	
+89445	plural
 89453	singular
 89468	singular
 89490	singular
@@ -7414,19 +6762,18 @@ singular
 singular
 89585	plural
 singular
-89603	
 89605	singular
 89614	singular
 89621	singular
 89629	singular
 89668	plural
-89683	
+89683	plural
 89685	singular
-89690	
+89690	plural
 89692	singular
 89704	singular
 89715	singular
-89730	
+89730	plural
 89732	singular
 89747	singular
 89765	singular
@@ -7445,16 +6792,16 @@ singular
 singular
 89987	singular
 90007	singular
-90012	
+90012	plural
 90017	plural
 90051	singular
 90063	singular
 90077	plural
-90137	
+90137	plural
 90142	plural
 90145	singular
-90157	
-90174	
+90157	plural
+90174	plural
 90176	singular
 90182	singular
 90184	singular
@@ -7469,7 +6816,7 @@ singular
 90280	singular
 90287	singular
 90305	singular
-90311	
+90311	plural
 90315	singular
 90322	plural
 90336	singular
@@ -7487,9 +6834,9 @@ singular
 90472	dual
 singular
 90497	singular
-90502	
+90502	plural
 90506	singular
-90510	
+90510	plural
 90531	singular
 90547	singular
 90550	singular
@@ -7516,14 +6863,13 @@ singular
 90741	singular
 90762	singular
 90764	singular
-90771	
 90778	singular
 90794	singular
 90798	singular
 90801	singular
 90811	singular
 90820	plural
-90827	
+90827	plural
 90839	singular
 90860	singular
 90868	singular
@@ -7558,7 +6904,7 @@ singular
 91117	singular
 91136	singular
 91155	singular
-91172	
+91172	plural
 91178	singular
 91184	singular
 91187	singular
@@ -7579,28 +6925,25 @@ singular
 91365	singular
 91369	singular
 91378	singular
-91386	
 91396	singular
 91411	singular
 91444	singular
 91465	singular
-
+plural
 91477	singular
 91479	singular
 91482	singular
 91516	singular
-91529	
 91533	dual
-91544	
+91544	plural
 91553	singular
-91556	singular
+91556	plural
 91559	singular
 91566	dual
 91573	singular
 91584	singular
 singular
 91595	plural
-91601	
 91612	singular
 91620	plural
 91622	singular
@@ -7614,24 +6957,22 @@ singular
 91739	plural
 91744	singular
 91751	singular
-91803	
+91803	singular
 91805	singular
-91816	
 91852	singular
 91859	plural
 91875	singular
 91884	plural
 91892	singular
-91907	
-dual
+91908	dual
 91913	singular
 91915	plural
 91919	singular
-91930	plural
+91930	singular
 91935	singular
 91943	plural
-91956	
-91961	
+91956	plural
+91961	plural
 91966	singular
 91970	plural
 91979	singular
@@ -7648,26 +6989,25 @@ singular
 92064	singular
 92071	singular
 92084	singular
-92089	
+92089	plural
 92102	singular
 92130	singular
-92146	
 92158	singular
 92178	singular
 92185	singular
-92187	
+92187	singular
 92189	singular
-92203	
+92203	plural
 92215	singular
 singular
-92225	
+92225	plural
 92235	singular
 92239	singular
-92242	
+92242	plural
 92248	singular
 92252	singular
 92256	plural
-92281	
+92281	plural
 92287	singular
 92292	plural
 92301	singular
@@ -7675,10 +7015,8 @@ singular
 singular
 92307	singular
 92314	singular
-92323	
 92326	singular
 92344	singular
-92352	
 92363	singular
 92370	singular
 92379	singular
@@ -7687,7 +7025,7 @@ singular
 singular
 92398	singular
 92405	singular
-92424	
+92424	singular
 singular
 92464	singular
 92507	singular
@@ -7695,16 +7033,14 @@ singular
 92518	singular
 92532	singular
 92548	singular
-92550	
+92550	plural
 92557	singular
 92561	singular
 92571	singular
 92577	plural
 singular
 92587	singular
-92595	
-92616	
-92623	
+92595	plural
 92679	plural
 92684	plural
 singular
@@ -7717,7 +7053,6 @@ singular
 92759	singular
 92765	singular
 92780	singular
-92783	
 92788	singular
 92801	singular
 92807	singular
@@ -7729,9 +7064,7 @@ singular
 92833	singular
 92841	singular
 92847	singular
-92851	
 92864	plural
-92867	
 92874	singular
 92876	singular
 92878	singular
@@ -7746,9 +7079,6 @@ singular
 92987	plural
 92991	singular
 93002	singular
-93013	
-93018	
-93033	
 93036	singular
 93059	singular
 93094	singular
@@ -7760,31 +7090,26 @@ singular
 93175	singular
 93185	singular
 93225	singular
-93238	
-dual
+93239	dual
 93246	singular
 93252	singular
 93256	plural
 plural
 93260	plural
-93270	
 93279	singular
 93291	singular
 93293	singular
 93310	plural
 93315	singular
 93362	singular
-
-93378	
 93410	singular
 93459	singular
 93470	singular
 93485	singular
-
+plural
 93541	singular
-93572	
+93572	plural
 93601	singular
-93612	
 93631	singular
 93640	singular
 93648	plural
@@ -7813,12 +7138,11 @@ plural
 93867	singular
 93883	singular
 93888	singular
-93900	
+93900	plural
 93904	singular
 93914	singular
 93917	plural
-93928	
-93931	
+93928	plural
 93950	singular
 93954	singular
 93966	singular
@@ -7837,20 +7161,18 @@ singular
 94118	singular
 94121	singular
 94135	singular
-94144	
+94144	plural
 94147	singular
-94149	
+94149	plural
 94151	singular
-
+plural
 94154	singular
 94157	singular
-94162	
-94187	
+94162	plural
+94187	plural
 94195	singular
-94216	
-plural
-94223	
-plural
+94217	plural
+94224	plural
 94238	singular
 94248	singular
 94250	singular
@@ -7868,27 +7190,25 @@ plural
 94346	dual
 94353	dual
 94359	singular
-94416	
-plural
-94424	
+94417	plural
 94432	plural
 94436	singular
 plural
 94448	singular
 94452	singular
-
+singular
 94462	singular
 94471	singular
 94482	singular
 94487	singular
-94492	
+94492	plural
 94502	singular
 94514	singular
 94579	singular
 plural
 singular
 94605	singular
-94638	
+94638	plural
 94676	plural
 94687	singular
 94694	singular
@@ -7896,34 +7216,24 @@ singular
 94740	singular
 94742	singular
 94756	singular
-94758	
 94772	singular
-94780	
 94794	singular
-94832	
 94857	singular
 94870	singular
 94880	dual
 94883	singular
-94890	
 94899	singular
 94906	singular
 singular
-94917	
 94925	singular
 94966	singular
 singular
 94987	singular
-95019	
 95027	singular
 plural
 95037	plural
-95039	
-95052	
 95060	plural
-95067	
-95074	
-singular
+95075	singular
 95081	plural
 95088	singular
 95092	singular
@@ -7944,27 +7254,19 @@ singular
 singular
 95279	plural
 95284	singular
-95293	
 95298	plural
 95301	singular
-
 95308	singular
-95326	
-95341	
-95353	
-95356	
-95381	
+95353	plural
 95395	plural
-95402	
+95402	singular
 singular
 95405	plural
 95416	plural
 95420	singular
-
 95445	singular
 95453	singular
-
-
+singular
 95459	singular
 95465	singular
 95495	singular
@@ -7978,8 +7280,6 @@ singular
 95553	singular
 95560	singular
 95569	singular
-95572	
-95594	
 95611	singular
 95622	singular
 95641	singular
@@ -7988,12 +7288,10 @@ singular
 plural
 singular
 95649	singular
-95665	plural
-95670	
+95665	singular
 95677	singular
 95684	singular
 95692	singular
-95694	
 95716	plural
 95725	singular
 95733	singular
@@ -8004,7 +7302,7 @@ singular
 95785	singular
 95791	singular
 95795	singular
-95851	
+95851	singular
 95880	singular
 95893	singular
 95902	singular
@@ -8038,21 +7336,20 @@ singular
 96160	singular
 96166	singular
 96202	singular
-96224	
+96224	singular
 96231	plural
 96234	singular
 96251	singular
 96275	singular
 96288	singular
 96290	singular
-96292	
+96292	singular
 96298	singular
 plural
 96305	singular
 singular
 96311	singular
 96316	plural
-96322	
 96334	singular
 96356	singular
 96364	singular
@@ -8076,26 +7373,18 @@ singular
 96604	singular
 96609	singular
 96617	singular
-96636	
+96636	plural
 96638	singular
 96646	singular
 96654	singular
-96695	
-96708	
-96720	
 96722	singular
-96743	
 96747	singular
-96753	
-96770	
 96778	singular
 96787	singular
-96791	
 96804	singular
 96807	singular
 96812	singular
 96830	singular
-96846	
 96861	plural
 96865	singular
 96879	plural
@@ -8108,7 +7397,7 @@ singular
 96968	singular
 96976	singular
 96981	singular
-96993	
+96993	plural
 96995	singular
 97001	singular
 97003	singular
@@ -8121,16 +7410,16 @@ singular
 97054	singular
 97063	singular
 singular
-
+plural
 97073	singular
-97084	
+97084	plural
 97150	plural
 97163	singular
 97170	singular
 97189	singular
 97207	singular
 97211	plural
-97216	
+97216	plural
 97238	singular
 97246	singular
 97257	singular
@@ -8141,15 +7430,10 @@ singular
 97331	singular
 97336	singular
 97339	singular
-97346	
-singular
-97365	
+97347	singular
 97370	singular
-97389	
 97392	singular
-
 97400	singular
-97404	
 97414	singular
 97419	plural
 97447	singular
@@ -8157,7 +7441,7 @@ singular
 97512	singular
 97515	singular
 97534	singular
-97538	
+97538	plural
 97544	singular
 97546	plural
 97548	singular
@@ -8178,7 +7462,7 @@ singular
 97798	dual
 97804	singular
 97806	singular
-97821	
+97821	plural
 97826	singular
 97831	singular
 97844	singular
@@ -8188,7 +7472,7 @@ singular
 97869	singular
 97873	singular
 97876	singular
-97888	
+97888	plural
 97890	singular
 97892	singular
 97900	singular
@@ -8196,7 +7480,7 @@ singular
 97909	singular
 97917	singular
 97920	singular
-97939	
+97939	plural
 97946	singular
 97953	plural
 97976	singular
@@ -8204,7 +7488,6 @@ singular
 97995	singular
 98003	singular
 98012	singular
-98017	
 98020	singular
 98034	singular
 98042	singular
@@ -8212,7 +7495,7 @@ singular
 98048	plural
 98052	singular
 98055	singular
-98057	singular
+98057	plural
 98061	singular
 98066	plural
 singular
@@ -8228,32 +7511,31 @@ singular
 98138	singular
 98143	singular
 98146	singular
-98151	
+98151	plural
 98161	singular
 98175	singular
 98194	singular
-98245	
+98245	plural
 98294	singular
-98314	
+98314	plural
 98319	singular
 98322	singular
 98324	singular
 98327	plural
 98364	singular
-98380	
 98390	singular
 98408	singular
 98416	singular
 98424	singular
 98435	singular
 98469	singular
-
-98475	
+plural
+98475	plural
 98482	singular
 98487	singular
 98490	singular
 98506	singular
-98516	
+98516	plural
 98520	singular
 98531	singular
 98550	singular
@@ -8268,9 +7550,8 @@ singular
 98623	singular
 98625	singular
 98647	singular
-98652	
+98652	plural
 98658	singular
-98664	
 98690	singular
 98694	plural
 98697	plural
@@ -8278,15 +7559,14 @@ singular
 98725	singular
 98728	singular
 98733	singular
-98752	
 98757	singular
 98764	singular
 98799	singular
 98806	singular
-
+plural
 98813	plural
-98816	
-98820	
+98816	plural
+98820	plural
 98866	singular
 98885	singular
 98921	singular
@@ -8300,7 +7580,6 @@ singular
 99011	singular
 99042	singular
 99044	singular
-99053	
 99063	singular
 99077	singular
 99084	singular
@@ -8322,13 +7601,13 @@ singular
 99205	singular
 99230	singular
 99232	singular
-
+plural
 99315	singular
 99349	dual
 99351	singular
 99374	singular
 99377	singular
-99382	
+99382	plural
 99384	singular
 99406	plural
 99413	singular
@@ -8336,17 +7615,16 @@ singular
 99431	plural
 singular
 singular
-
+plural
 99442	singular
 99450	singular
 99480	singular
 99496	singular
 99509	singular
-99512	
 99518	singular
 99579	singular
 99593	plural
-99605	
+99605	plural
 99608	singular
 99612	singular
 99617	singular
@@ -8368,7 +7646,6 @@ singular
 99744	singular
 99755	singular
 99774	plural
-99779	
 99796	singular
 99798	singular
 99827	singular
@@ -8382,15 +7659,15 @@ singular
 99937	singular
 99941	singular
 singular
-99945	
-99950	
+99945	plural
+99950	plural
 99958	singular
 99961	singular
 99981	singular
-99986	
+99986	plural
 99991	singular
 100001	singular
-100008	
+100008	plural
 100031	singular
 100045	singular
 100053	singular
@@ -8398,10 +7675,8 @@ singular
 singular
 100080	singular
 100094	singular
-100096	
-100124	
 100149	singular
-100154	
+100154	plural
 100170	singular
 100203	singular
 100222	singular
@@ -8419,7 +7694,7 @@ singular
 100439	singular
 100441	singular
 100485	plural
-
+plural
 100490	singular
 100497	singular
 100503	singular
@@ -8430,7 +7705,7 @@ singular
 100573	singular
 100581	singular
 100590	singular
-100593	
+100593	singular
 100598	singular
 singular
 100613	singular
@@ -8453,9 +7728,8 @@ singular
 100762	singular
 100773	singular
 100789	singular
-100796	
-100799	
-100804	
+100799	plural
+100804	plural
 100813	singular
 100823	singular
 plural
@@ -8467,7 +7741,6 @@ plural
 100852	plural
 100864	plural
 100877	singular
-100896	
 100902	plural
 100905	singular
 100923	singular
@@ -8478,14 +7751,14 @@ plural
 100998	singular
 101003	plural
 101032	singular
-101062	
+101062	singular
 101078	singular
 101082	singular
 101088	singular
 101101	singular
 101106	singular
 101115	singular
-101150	plural
+101150	singular
 101154	plural
 101156	singular
 101178	singular
@@ -8493,8 +7766,7 @@ plural
 101232	singular
 101238	singular
 101240	singular
-101253	
-101260	
+101260	singular
 101272	singular
 singular
 101282	singular
@@ -8507,7 +7779,7 @@ singular
 101346	singular
 plural
 101366	singular
-101385	singular
+101385	plural
 101391	singular
 101397	singular
 101412	plural
@@ -8517,7 +7789,7 @@ plural
 101446	singular
 101448	singular
 101466	singular
-
+plural
 101471	singular
 101477	plural
 101493	singular
@@ -8526,18 +7798,16 @@ plural
 101520	singular
 101554	plural
 101566	singular
-101568	
 101573	singular
 101587	singular
 101600	singular
 101603	singular
 101635	singular
 101641	singular
-101650	
 101660	singular
 101662	singular
 101664	singular
-101697	
+101697	plural
 101728	singular
 101731	plural
 101764	singular
@@ -8546,11 +7816,10 @@ singular
 101772	singular
 101782	plural
 101819	singular
-101821	
+101821	plural
 101823	singular
 101848	plural
-101869	
-101876	
+101869	plural
 101878	singular
 101887	plural
 101894	singular
@@ -8560,19 +7829,17 @@ singular
 101947	singular
 101968	singular
 101970	singular
-102009	
 102024	singular
 102031	singular
 102045	singular
 102057	singular
 102077	singular
-102093	
-102095	
+102095	plural
 102133	singular
 102141	singular
 102145	dual
 dual
-102151	
+102151	plural
 102159	singular
 dual
 102164	singular
@@ -8580,22 +7847,20 @@ dual
 102177	dual
 102182	singular
 102196	singular
-102199	
+102199	plural
 102202	singular
 102242	plural
-102245	
-102249	
+102245	singular
+102249	singular
 102279	singular
 102285	singular
 102291	singular
 102295	singular
-102326	
 102335	dual
 102353	singular
-102379	
 102382	singular
 102388	singular
-102415	
+102415	plural
 102421	singular
 102441	singular
 102455	singular
@@ -8607,12 +7872,11 @@ dual
 102516	singular
 102538	singular
 102547	singular
-102552	
 102555	singular
 102558	singular
 102610	singular
 singular
-102613	
+102613	plural
 102653	singular
 102661	singular
 102672	singular
@@ -8620,7 +7884,7 @@ singular
 102723	singular
 102731	singular
 102752	singular
-102759	
+102759	plural
 singular
 singular
 102766	singular
@@ -8630,7 +7894,7 @@ singular
 102787	singular
 102797	plural
 102799	singular
-102808	
+102808	singular
 102816	singular
 102848	singular
 102851	singular
@@ -8638,10 +7902,9 @@ singular
 102867	dual
 102884	singular
 singular
-102924	
 102932	plural
 102966	singular
-102973	
+102973	plural
 102988	singular
 102998	singular
 103003	plural
@@ -8655,21 +7918,19 @@ singular
 103074	singular
 103076	singular
 103103	singular
-103119	
+103119	dual
 103122	singular
-103125	
 103130	singular
 103167	singular
 103172	singular
 103175	singular
 103192	plural
 103197	singular
-103216	
 103228	singular
 103249	singular
 103251	singular
 103254	singular
-
+plural
 103257	singular
 103270	plural
 103272	singular
@@ -8680,7 +7941,6 @@ singular
 103292	singular
 103300	singular
 103316	singular
-
 103343	singular
 103346	singular
 103355	plural
@@ -8692,7 +7952,6 @@ singular
 103377	singular
 103398	singular
 103405	singular
-103420	
 103430	plural
 103436	plural
 103444	singular
@@ -8700,12 +7959,11 @@ singular
 103461	plural
 103476	singular
 103485	singular
-103506	
-singular
+103507	singular
 103514	singular
 103517	singular
 103526	singular
-103548	
+103548	singular
 103596	plural
 singular
 103618	singular
@@ -8714,7 +7972,7 @@ singular
 103636	singular
 103655	singular
 103676	singular
-103690	
+103690	plural
 103692	singular
 103700	singular
 103709	singular
@@ -8724,20 +7982,19 @@ singular
 103744	singular
 103751	singular
 103754	singular
-103759	
+103759	plural
 103786	plural
-
+plural
 103806	singular
 103809	singular
 103830	singular
 103910	plural
-103918	singular
+103918	plural
 103920	singular
 singular
 103932	plural
 103953	singular
 103968	singular
-104019	
 104026	plural
 104030	singular
 104035	singular
@@ -8748,17 +8005,16 @@ singular
 104148	singular
 singular
 104160	singular
-
+plural
 104164	plural
-104216	
+104216	plural
 104223	singular
 104267	singular
 104284	singular
 104332	plural
 104352	singular
-104354	
 104357	singular
-104365	
+104365	plural
 104370	plural
 104398	singular
 104402	singular
@@ -8770,23 +8026,23 @@ singular
 104442	plural
 104446	singular
 104470	singular
-104533	
+104533	plural
 104545	singular
 104559	singular
-104602	
+104602	plural
 104609	singular
-104632	
+104632	plural
 104662	dual
-104680	
+104680	plural
 104688	singular
-104691	
+104691	plural
 104699	singular
 104725	plural
 104735	singular
 104759	singular
 104782	singular
 104797	singular
-104838	
+104838	plural
 104858	singular
 singular
 104880	singular
@@ -8801,17 +8057,16 @@ singular
 104976	singular
 104978	singular
 104982	singular
-105001	
+105001	plural
 105003	singular
 105022	singular
 105025	singular
 105037	singular
 105045	singular
 105051	singular
-
-105059	
+plural
+105059	plural
 105102	singular
-
 105105	singular
 105111	singular
 105113	singular
@@ -8827,12 +8082,11 @@ singular
 105266	singular
 105280	singular
 105306	singular
-105308	
-singular
+105309	singular
 105327	singular
 105331	plural
 105335	singular
-105341	
+105341	plural
 105348	singular
 105371	plural
 105378	singular
@@ -8841,7 +8095,7 @@ singular
 105438	singular
 105446	plural
 105452	singular
-105461	
+105461	plural
 105466	singular
 105472	singular
 105481	singular
@@ -8876,21 +8130,19 @@ singular
 105788	singular
 105794	singular
 105798	plural
-105809	
 105815	singular
 singular
 105823	singular
-105831	
 105851	plural
 105857	singular
 105865	singular
 105875	singular
 105885	singular
 singular
-105907	
+105907	plural
 105913	singular
 105982	singular
-
+plural
 105999	singular
 singular
 106002	singular
@@ -8913,7 +8165,7 @@ singular
 singular
 106157	singular
 106183	singular
-106197	
+106197	plural
 106203	singular
 106208	singular
 106215	singular
@@ -8921,31 +8173,31 @@ singular
 106249	singular
 106251	singular
 106253	singular
-106273	
+106273	plural
 106277	singular
 106280	singular
 106321	singular
 106324	plural
 106329	singular
 106331	plural
-106334	
+106334	plural
 106338	plural
 106349	singular
 106370	singular
 106379	singular
 106388	singular
 106391	plural
-106399	
+106399	plural
 106421	singular
-106434	
-106437	
+106434	plural
+106437	plural
 singular
 106469	singular
 106473	singular
-106487	
+106487	singular
 106493	plural
 106512	singular
-106518	
+106518	plural
 106550	singular
 106575	singular
 106588	singular
@@ -8961,7 +8213,6 @@ singular
 106690	singular
 106706	singular
 singular
-106715	
 106732	singular
 106740	dual
 106747	singular
@@ -8974,14 +8225,13 @@ singular
 106839	singular
 106875	singular
 106937	singular
-106961	
 106973	singular
 106975	singular
 106984	singular
 106992	singular
 106995	singular
 107002	singular
-107019	
+107019	plural
 107024	singular
 107028	singular
 107030	singular
@@ -8992,15 +8242,14 @@ singular
 107101	singular
 107118	singular
 107126	singular
-107128	
-107133	
+107133	plural
 107136	singular
 singular
 107144	singular
-107146	
+107146	plural
 107154	singular
 107178	singular
-107180	
+107180	plural
 107185	singular
 107209	singular
 107215	plural
@@ -9046,16 +8295,16 @@ singular
 107674	singular
 107683	singular
 107728	singular
-107739	
+107739	plural
 107741	singular
 107751	singular
 107760	singular
 107768	singular
 107785	plural
-107792	
+107792	plural
 107837	singular
 107862	plural
-107865	singular
+107865	plural
 107888	singular
 107891	singular
 107893	singular
@@ -9075,9 +8324,9 @@ singular
 108041	plural
 108055	singular
 108059	singular
-108065	
+108065	plural
 108091	singular
-108106	
+108106	plural
 108108	singular
 108116	singular
 108125	singular
@@ -9096,17 +8345,16 @@ singular
 108343	singular
 108370	singular
 108373	plural
-108395	
+108395	plural
 108400	singular
 108418	singular
 108442	singular
 108446	singular
 108453	singular
-108465	
+108465	plural
 108471	singular
 108476	plural
-108506	
-singular
+108507	singular
 108514	singular
 singular
 108538	singular
@@ -9115,8 +8363,8 @@ singular
 108552	singular
 108569	singular
 singular
-108573	
-108591	
+108573	singular
+108591	plural
 108593	plural
 108595	singular
 108603	singular
@@ -9139,20 +8387,16 @@ singular
 108803	singular
 108812	singular
 108814	singular
-108829	
 108849	plural
 108884	singular
-108908	
 108918	singular
 108928	plural
 108930	singular
-108932	
 108937	plural
 108969	singular
 108975	singular
 singular
 108988	singular
-108990	
 109004	singular
 109025	singular
 109039	singular
@@ -9166,7 +8410,6 @@ singular
 109107	singular
 109121	singular
 109128	singular
-109168	
 109182	singular
 109184	singular
 109188	plural
@@ -9186,7 +8429,6 @@ dual
 109360	singular
 109366	singular
 109375	singular
-109377	
 109390	singular
 109411	singular
 109416	singular
@@ -9211,17 +8453,16 @@ dual
 109621	singular
 109626	singular
 109628	singular
-109633	
 109650	singular
 singular
 109676	singular
 109685	singular
-109692	
-109694	
+109692	singular
+109694	singular
 109723	singular
 109730	plural
 109732	singular
-109734	
+109734	plural
 109749	singular
 109754	singular
 109759	singular
@@ -9239,17 +8480,16 @@ singular
 109918	singular
 109920	plural
 109928	singular
-109974	
+109974	plural
 109976	singular
 109978	plural
 singular
 110014	plural
-110030	
+110030	plural
 110037	singular
 110039	singular
 110041	singular
-110043	
-110050	
+110043	plural
 110065	singular
 110074	singular
 110088	singular
@@ -9261,7 +8501,7 @@ singular
 110156	singular
 110175	singular
 110183	plural
-110193	
+110193	plural
 110195	singular
 110202	singular
 110221	singular
@@ -9273,7 +8513,7 @@ singular
 110315	singular
 110340	plural
 110348	dual
-110383	
+110383	plural
 110386	singular
 110392	plural
 110395	singular
@@ -9298,11 +8538,11 @@ singular
 110548	singular
 110571	singular
 110584	singular
-110588	
+110588	plural
 110590	singular
 110608	plural
 110640	singular
-
+plural
 110655	plural
 110660	plural
 110671	singular
@@ -9341,13 +8581,12 @@ singular
 111011	singular
 111014	singular
 111025	singular
-111046	
-111049	
+111046	plural
+111049	plural
 singular
 111059	singular
 111063	singular
 111067	singular
-111072	
 111077	singular
 111094	singular
 singular
@@ -9360,15 +8599,15 @@ singular
 111189	singular
 singular
 111197	plural
-111207	
+111207	plural
 111214	singular
 111220	singular
 111229	singular
 111245	singular
-111266	
+111266	plural
 111274	singular
-111278	
-111289	
+111278	singular
+111289	plural
 singular
 111342	singular
 111370	singular
@@ -9383,11 +8622,11 @@ singular
 111464	singular
 111471	singular
 111508	singular
-111542	
+111542	plural
 111551	singular
 111556	plural
 singular
-111571	
+111571	plural
 111591	singular
 111598	singular
 111610	plural
@@ -9400,7 +8639,6 @@ singular
 111684	plural
 111695	singular
 plural
-111707	
 111711	singular
 111737	singular
 111753	singular
@@ -9410,7 +8648,7 @@ plural
 111794	singular
 111799	singular
 111824	singular
-
+plural
 111839	singular
 111892	plural
 111913	singular
@@ -9430,8 +8668,7 @@ singular
 112069	singular
 112077	dual
 112079	singular
-112083	
-112086	
+112083	plural
 112091	singular
 112101	singular
 112105	singular
@@ -9451,7 +8688,6 @@ singular
 112204	singular
 112223	plural
 112228	singular
-112255	
 112261	singular
 112264	singular
 112269	singular
@@ -9462,10 +8698,9 @@ singular
 112322	singular
 112326	plural
 112332	singular
-112335	
 112341	singular
 112349	singular
-112359	
+112359	plural
 singular
 singular
 112369	singular
@@ -9479,12 +8714,10 @@ singular
 112463	singular
 112468	singular
 112472	singular
-112478	singular
-112486	
+112486	plural
 112491	plural
 112495	dual
 112500	singular
-112515	
 112522	singular
 112526	singular
 singular
@@ -9527,10 +8760,9 @@ singular
 112782	singular
 112788	singular
 singular
-112796	
 112812	singular
 112815	singular
-
+plural
 112822	singular
 112828	singular
 112842	singular
@@ -9558,19 +8790,18 @@ singular
 113130	singular
 113172	singular
 113183	plural
-113197	
+113197	plural
 113199	singular
 113214	singular
 113220	singular
 113229	singular
 113232	singular
-113238	
 113251	singular
 113266	singular
 113270	singular
 113275	singular
 113292	singular
-113297	
+113297	plural
 113301	plural
 113311	singular
 113314	singular
@@ -9581,27 +8812,25 @@ singular
 113349	singular
 113351	plural
 113362	plural
-113367	
-113384	
+113367	plural
+113384	plural
 113405	plural
 113417	singular
 113422	singular
 113425	singular
 113433	singular
 113441	singular
-
+plural
 113458	plural
 113481	singular
 113496	singular
 singular
 113514	singular
 113523	singular
-113527	
+113527	plural
 113532	singular
 113535	singular
 113551	singular
-113557	
-113564	
 113567	singular
 113571	singular
 singular
@@ -9611,8 +8840,8 @@ singular
 113604	singular
 113607	singular
 113611	singular
-113614	
-113618	
+113614	plural
+113618	plural
 113654	singular
 113663	singular
 113665	singular
@@ -9623,10 +8852,7 @@ singular
 113750	singular
 113762	singular
 113768	singular
-113771	
-singular
-113776	
-113786	
+113772	singular
 113799	singular
 113805	plural
 113809	plural
@@ -9651,7 +8877,7 @@ singular
 114034	singular
 114053	singular
 114060	plural
-114069	
+114069	plural
 114076	singular
 114085	plural
 114096	singular
@@ -9713,7 +8939,7 @@ singular
 114789	singular
 114798	singular
 114811	singular
-114814	
+114814	singular
 114832	singular
 114855	plural
 114860	singular
@@ -9722,13 +8948,12 @@ singular
 114924	singular
 114931	singular
 114934	singular
-114941	
-114953	
+114941	plural
+114953	plural
 114981	plural
 114989	singular
 115009	singular
 115043	singular
-115048	
 115060	plural
 115065	singular
 115115	singular
@@ -9747,20 +8972,18 @@ singular
 115184	singular
 singular
 115190	singular
-115192	
-
+115192	plural
 115204	plural
-
+plural
 115207	plural
 115231	singular
 115245	singular
-115261	
 115263	singular
 115266	singular
 115272	singular
 115284	singular
 115286	singular
-115291	
+115291	plural
 115303	singular
 115307	dual
 115335	singular
@@ -9773,9 +8996,9 @@ singular
 115372	singular
 115379	singular
 singular
-115391	
+115391	plural
 115416	singular
-115426	plural
+115426	singular
 115438	singular
 115479	singular
 115488	singular
@@ -9783,10 +9006,9 @@ singular
 115531	singular
 115537	singular
 115543	singular
-115545	
 115562	singular
 115577	plural
-115584	
+115584	plural
 115592	singular
 115595	singular
 115598	singular
@@ -9803,13 +9025,13 @@ singular
 singular
 115672	singular
 singular
-
-115679	singular
+plural
+115679	plural
 115681	singular
 115694	singular
 115703	singular
 115705	singular
-115717	
+115717	plural
 115719	singular
 115728	singular
 115778	singular
@@ -9817,41 +9039,38 @@ singular
 115785	singular
 115787	plural
 115792	singular
-115817	
+115817	plural
 115821	singular
 singular
 115824	singular
 115828	singular
 115832	singular
 115848	singular
-115855	
+115855	plural
 115877	singular
 115880	singular
 115887	singular
-115898	
+115898	singular
 115902	singular
 singular
-115908	
+115908	singular
 115911	singular
-115923	
+115923	plural
 115925	singular
 singular
 115932	singular
 115938	singular
 115942	singular
-
+plural
 115953	singular
 115955	singular
 115975	singular
 116025	singular
-116031	
-singular
+116032	singular
 116036	singular
 116047	singular
-116076	
 116087	plural
 116090	singular
-116096	
 116119	plural
 116138	singular
 116142	singular
@@ -9863,17 +9082,15 @@ plural
 plural
 116196	singular
 116212	plural
-116217	
 116231	plural
-116242	
+116242	plural
 116255	singular
 116279	singular
 116291	singular
 116329	singular
 116341	singular
-116375	
+116375	singular
 116402	singular
-116404	
 116422	singular
 116427	singular
 116433	singular
@@ -9887,22 +9104,21 @@ singular
 116580	singular
 116584	singular
 116590	singular
-116599	
+116599	singular
 116607	singular
-116625	
-singular
+116626	singular
 116630	singular
 116660	singular
 116687	singular
 116721	singular
-116736	
-116746	
+116736	singular
+116746	plural
 116763	singular
 116771	singular
 116778	singular
 116783	plural
 116788	singular
-116790	
+116790	plural
 116821	singular
 116826	singular
 116831	plural
@@ -9916,11 +9132,11 @@ singular
 116946	singular
 116958	plural
 116977	singular
-116980	
-116993	
+116980	plural
+116993	singular
 117018	singular
 117028	singular
-117052	
+117052	plural
 117060	singular
 117110	singular
 117114	singular
@@ -9932,17 +9148,13 @@ singular
 117185	singular
 117238	singular
 117244	singular
-117264	
-117273	
-117277	
-117318	
-117322	
+117273	plural
 117338	plural
 117362	singular
-117385	
-117423	
-117453	
-117460	
+117385	plural
+117423	plural
+117453	plural
+117460	plural
 117468	singular
 117485	singular
 117507	singular
@@ -9957,14 +9169,11 @@ singular
 117599	singular
 singular
 117602	singular
-117612	
-117617	
 117629	singular
 117639	plural
 117653	singular
-117675	
 117685	singular
-
+singular
 117689	singular
 117733	singular
 117736	singular
@@ -9973,7 +9182,6 @@ singular
 117770	singular
 117793	singular
 117800	singular
-117804	plural
 117828	plural
 117843	singular
 117852	singular
@@ -9983,7 +9191,7 @@ singular
 singular
 117903	singular
 117927	plural
-
+plural
 117968	singular
 117973	singular
 117977	singular
@@ -9991,50 +9199,49 @@ singular
 118008	singular
 118010	singular
 118017	singular
-
+plural
 118023	singular
 118035	singular
-118038	
+118038	plural
 118041	singular
 118055	singular
 118057	plural
-118077	
+118077	plural
 118090	singular
-118098	
+118098	plural
 118105	singular
 118108	plural
-118136	
+118136	singular
 118141	singular
 118170	singular
 118201	plural
-118211	
+118211	plural
 118245	singular
 118254	singular
 118267	singular
-118287	
+118287	singular
 singular
 118293	singular
 118299	singular
-118306	
+118306	plural
 118308	singular
 118335	singular
-118344	
 118351	singular
-118373	
-118378	
+118373	singular
+118378	plural
 118399	plural
 118401	singular
 118409	singular
 singular
 118426	singular
-
+singular
 118441	singular
 118445	singular
-118463	
+118463	singular
 118469	singular
 singular
 118472	singular
-118482	
+118482	plural
 118503	singular
 118515	singular
 118521	singular
@@ -10046,7 +9253,7 @@ singular
 118579	singular
 118611	singular
 118620	dual
-118623	
+118623	plural
 118638	singular
 118669	plural
 118673	singular
@@ -10060,7 +9267,6 @@ singular
 118817	plural
 118838	singular
 118849	singular
-118873	
 118889	singular
 118915	singular
 118926	singular
@@ -10070,7 +9276,7 @@ singular
 119036	singular
 119046	plural
 119083	singular
-119086	
+119086	singular
 119103	singular
 119111	singular
 119127	singular
@@ -10086,14 +9292,13 @@ singular
 119302	singular
 119334	plural
 119356	singular
-119359	
-119363	
+119359	plural
 119366	singular
 119372	singular
 119393	singular
 singular
 119411	plural
-119413	
+119413	plural
 119416	singular
 119434	singular
 119438	singular
@@ -10101,10 +9306,8 @@ singular
 119447	singular
 119453	plural
 119462	singular
-
 119467	singular
-119488	
-119508	
+119508	plural
 119516	singular
 119568	singular
 119570	singular
@@ -10128,8 +9331,7 @@ singular
 119776	singular
 119781	singular
 119783	singular
-119785	
-119866	
+119785	plural
 119875	singular
 119878	singular
 119880	singular
@@ -10144,7 +9346,7 @@ singular
 119966	singular
 119979	plural
 120000	plural
-120008	
+120008	plural
 120012	plural
 120017	singular
 120041	singular
@@ -10157,32 +9359,30 @@ singular
 120133	singular
 120136	singular
 120141	singular
-120149	
+120149	plural
 120151	singular
-120164	
+120164	plural
 120166	singular
 120191	singular
 120199	singular
-120201	
+120201	plural
 120231	plural
 120237	singular
 120246	singular
 120285	plural
 120297	singular
 120300	singular
-120311	
 120316	singular
-120318	
+120318	plural
 120336	singular
-120341	
-120353	
+120341	plural
 120379	singular
 120381	singular
 120415	singular
 120419	singular
 120432	singular
 120435	singular
-120437	
+120437	singular
 120468	singular
 120470	singular
 120477	singular
@@ -10202,7 +9402,6 @@ singular
 singular
 120691	singular
 120699	plural
-120716	
 120722	singular
 120732	singular
 120739	singular
@@ -10215,7 +9414,6 @@ singular
 120773	singular
 120776	singular
 120793	singular
-120799	
 120872	plural
 120876	plural
 120890	plural
@@ -10224,14 +9422,11 @@ singular
 plural
 120914	singular
 singular
-120968	
-120989	
+120968	plural
 120991	singular
-121004	
 121008	singular
 121013	singular
 singular
-121042	
 121051	singular
 121056	singular
 121063	singular
@@ -10241,7 +9436,7 @@ singular
 121139	singular
 121141	dual
 121154	singular
-121167	
+121167	plural
 121259	plural
 singular
 121275	dual
@@ -10254,7 +9449,7 @@ singular
 121334	singular
 121339	plural
 121341	singular
-121347	
+121347	singular
 121353	singular
 121359	plural
 121364	plural
@@ -10263,7 +9458,6 @@ singular
 121376	singular
 121400	singular
 121404	singular
-121413	
 121419	singular
 singular
 121436	singular
@@ -10276,11 +9470,10 @@ plural
 121496	singular
 121499	singular
 121514	plural
-121530	
+121530	plural
 121553	dual
 121556	dual
 121558	singular
-121561	
 121570	singular
 singular
 121577	singular
@@ -10300,7 +9493,6 @@ singular
 121693	singular
 121716	plural
 121719	singular
-121737	
 121758	plural
 121798	singular
 121835	plural
@@ -10314,17 +9506,14 @@ singular
 121915	plural
 121932	singular
 121944	singular
-121974	
-singular
+121975	singular
 121985	dual
 121993	singular
 122012	singular
 122032	plural
 122046	singular
-122050	
 122068	singular
 122076	dual
-122087	
 122105	singular
 singular
 122112	singular
@@ -10336,12 +9525,11 @@ singular
 122155	singular
 122175	plural
 122191	singular
-122193	
+122193	plural
 122204	plural
 122208	plural
-122223	
+122223	plural
 122231	singular
-122233	
 122235	singular
 122241	plural
 122249	plural
@@ -10350,7 +9538,7 @@ singular
 122279	singular
 122304	singular
 122306	singular
-122310	
+122310	plural
 122319	singular
 122321	singular
 plural
@@ -10370,7 +9558,7 @@ singular
 122443	singular
 122454	singular
 122477	singular
-122479	
+122479	plural
 singular
 122482	singular
 122503	singular
@@ -10379,14 +9567,13 @@ singular
 122564	singular
 122572	singular
 122582	singular
-122585	
+122585	plural
 122589	dual
 122591	singular
-
+singular
 122631	singular
 122673	singular
 122689	singular
-122696	
 122706	plural
 122712	plural
 122717	singular
@@ -10394,7 +9581,7 @@ singular
 plural
 singular
 122724	singular
-
+plural
 122727	singular
 122739	singular
 122750	singular
@@ -10405,31 +9592,29 @@ singular
 122777	plural
 122779	singular
 122798	singular
-122806	
+122806	plural
 122808	singular
 122814	plural
 122830	singular
-122872	
+122872	singular
 122902	singular
 plural
 122911	singular
-122913	
+122913	plural
 122918	singular
 122922	plural
-122926	
+122926	plural
 122929	plural
 singular
 singular
 singular
-122939	
 122947	plural
 122971	singular
 122973	singular
 122985	singular
 122991	singular
 122997	singular
-123011	
-123021	
+123011	plural
 123039	singular
 123052	singular
 123066	plural
@@ -10438,14 +9623,12 @@ singular
 123103	singular
 123107	singular
 123110	singular
-123116	
 123118	singular
 singular
-123125	
+123125	plural
 123136	singular
 123159	singular
 123170	plural
-123179	
 123188	singular
 123228	singular
 123237	singular
@@ -10471,7 +9654,7 @@ singular
 123418	singular
 singular
 123422	singular
-123436	
+123436	plural
 123458	singular
 123464	singular
 123467	singular
@@ -10490,7 +9673,7 @@ singular
 123627	plural
 singular
 singular
-123643	
+123643	plural
 123645	plural
 123652	plural
 123669	singular
@@ -10505,7 +9688,7 @@ singular
 123735	singular
 singular
 123738	singular
-123748	singular
+123748	plural
 123752	singular
 123757	singular
 123767	singular
@@ -10514,18 +9697,17 @@ singular
 123820	singular
 123822	singular
 123826	singular
-123842	
+123842	plural
 123849	singular
 123851	singular
-123862	
+123862	plural
 123874	singular
 123889	plural
 123893	singular
 123925	plural
 123936	singular
 123940	singular
-123958	plural
-123970	
+123958	singular
 123989	plural
 123991	singular
 124025	singular
@@ -10534,11 +9716,9 @@ singular
 124075	singular
 124082	singular
 singular
-124085	
 124087	singular
 124115	singular
 124123	singular
-124126	
 124140	singular
 124143	singular
 124152	singular
@@ -10573,7 +9753,6 @@ singular
 124497	singular
 124510	singular
 124513	plural
-124516	
 124543	singular
 124563	singular
 124566	singular
@@ -10612,23 +9791,13 @@ plural
 124863	singular
 124867	singular
 124876	singular
-124892	
 124911	singular
-124930	
 124948	dual
 124995	dual
-125001	
 125011	singular
-125019	
-125047	
-125062	
-125082	
 125105	plural
-125107	
-125109	
-dual
+125110	dual
 125132	singular
-125145	
 125181	singular
 125183	singular
 125197	singular
@@ -10640,13 +9809,12 @@ dual
 125297	singular
 125302	singular
 125305	dual
-125318	
+125318	plural
 125339	singular
 125356	singular
 125362	singular
 125365	singular
 125371	plural
-125379	
 125381	singular
 125387	singular
 125399	singular
@@ -10655,30 +9823,21 @@ dual
 125411	singular
 125417	singular
 125428	singular
-125432	
 125436	singular
 singular
 125441	singular
 125552	singular
 125560	singular
-125569	
 125615	singular
 125636	singular
-125656	
 125658	plural
 125667	singular
-125669	
-125679	
 125687	plural
 125694	singular
-125698	
+125698	plural
 125712	singular
-125721	
 125723	singular
-125748	
 125769	singular
-125797	
-125807	
 125812	singular
 125826	singular
 125832	singular
@@ -10687,13 +9846,10 @@ singular
 125855	singular
 125864	singular
 125869	singular
-125873	
 125879	singular
 125883	singular
 125897	plural
-125905	
 125920	singular
-
 125927	singular
 125932	singular
 125942	singular
@@ -10710,12 +9866,9 @@ singular
 126031	plural
 126036	singular
 126054	singular
-126057	
 126061	singular
-126074	
 126076	singular
 126083	singular
-126086	
 126098	singular
 singular
 126118	plural
@@ -10727,7 +9880,7 @@ singular
 126190	singular
 126202	singular
 126225	singular
-126247	
+126247	plural
 126261	singular
 126266	singular
 126274	singular
@@ -10747,12 +9900,10 @@ singular
 126359	singular
 126386	plural
 singular
-126391	
-plural
+126392	plural
 126398	singular
 126401	singular
 126427	plural
-126440	
 126448	singular
 126453	singular
 126465	plural
@@ -10767,7 +9918,6 @@ plural
 126536	singular
 126544	singular
 126546	plural
-126552	
 126556	singular
 126558	singular
 126569	singular
@@ -10798,11 +9948,7 @@ singular
 126847	singular
 126851	singular
 126869	singular
-126880	
-126890	
-126896	
 126903	singular
-126907	
 126909	singular
 126918	singular
 126935	singular
@@ -10814,7 +9960,7 @@ singular
 127030	singular
 127037	singular
 127044	singular
-127051	
+127051	plural
 127071	singular
 singular
 127075	singular
@@ -10836,7 +9982,7 @@ singular
 127204	singular
 127225	plural
 127237	singular
-127243	
+127243	plural
 127247	singular
 127269	singular
 127279	singular
@@ -10844,15 +9990,13 @@ singular
 127292	singular
 127302	singular
 127324	plural
-127328	
 127338	singular
 127340	singular
 singular
 127349	singular
 127374	singular
 127379	plural
-127383	
-127385	
+127383	plural
 127387	singular
 127391	singular
 127416	plural
@@ -10860,12 +10004,12 @@ singular
 127428	singular
 127435	singular
 127457	singular
-127464	
+127464	plural
 127485	singular
 127513	singular
 127540	plural
 singular
-127543	plural
+127543	singular
 127552	singular
 127563	singular
 127568	singular
@@ -10874,7 +10018,7 @@ singular
 127605	singular
 127618	singular
 127620	singular
-127635	
+127635	plural
 127640	singular
 127668	singular
 127670	singular
@@ -10883,7 +10027,7 @@ singular
 127727	plural
 127736	singular
 127743	singular
-127761	
+127761	singular
 127789	singular
 127802	singular
 127812	singular
@@ -10898,27 +10042,25 @@ singular
 127909	singular
 127914	singular
 127920	singular
-127925	
+127925	plural
 127929	singular
 127960	singular
 singular
-127968	
+127968	plural
 127981	singular
 128016	plural
-128026	
 128034	plural
 singular
 singular
 128051	plural
 128076	plural
-128095	
+128095	singular
 128113	singular
 128118	singular
 128127	singular
-128135	
 128150	singular
 128152	plural
-128164	
+128164	plural
 128168	singular
 128203	singular
 128239	singular
@@ -10946,15 +10088,13 @@ plural
 128454	singular
 128458	singular
 128462	plural
-128479	
+128479	plural
 128486	singular
-128489	
 128492	plural
 singular
 128502	singular
 128505	singular
 128517	singular
-128522	
 128525	singular
 128534	singular
 singular
@@ -10977,10 +10117,9 @@ singular
 128671	singular
 128680	plural
 128717	singular
-128721	
 128736	singular
 128738	singular
-128753	
+128753	plural
 singular
 128779	singular
 128800	singular
@@ -10996,12 +10135,10 @@ singular
 128859	singular
 128862	plural
 singular
-128866	
 128873	dual
 128879	plural
 128892	singular
 128896	singular
-128914	
 128916	plural
 128930	singular
 128932	singular
@@ -11022,7 +10159,6 @@ singular
 129087	singular
 129089	singular
 129100	singular
-
 129112	plural
 129117	singular
 129123	singular
@@ -11069,12 +10205,10 @@ singular
 129470	singular
 129480	singular
 129486	singular
-129491	
-singular
+129492	singular
 129499	singular
-
+singular
 129504	singular
-129507	
 129509	singular
 129514	singular
 129516	singular
@@ -11095,16 +10229,13 @@ singular
 singular
 129715	singular
 129730	singular
-129742	plural
-129767	
+129742	singular
 129779	singular
-129781	
 129801	singular
 129808	plural
 129821	singular
 129835	singular
-129838	
-129848	
+129848	plural
 129851	singular
 129859	plural
 129883	singular
@@ -11126,8 +10257,6 @@ singular
 130073	plural
 130086	singular
 130093	singular
-130098	
-130126	
 130128	singular
 130143	singular
 130186	singular
@@ -11146,9 +10275,9 @@ plural
 130359	singular
 130392	plural
 130402	singular
-130409	
+130409	plural
 130413	singular
-130415	
+130415	plural
 130421	singular
 130425	singular
 130460	singular
@@ -11163,7 +10292,6 @@ singular
 130605	singular
 130651	singular
 130654	singular
-130657	
 130688	singular
 130692	plural
 130708	singular
@@ -11174,11 +10302,11 @@ singular
 singular
 130850	singular
 130902	plural
-130939	
+130939	plural
 130942	singular
 130946	singular
 130963	singular
-130986	plural
+130986	singular
 130993	singular
 130997	singular
 plural
@@ -11208,7 +10336,7 @@ plural
 131268	singular
 131278	plural
 131288	singular
-131295	
+131295	plural
 131323	singular
 singular
 131338	singular
@@ -11247,9 +10375,7 @@ plural
 131808	singular
 131833	singular
 131855	singular
-131882	
 131886	plural
-131890	
 131894	singular
 131903	singular
 131911	singular
@@ -11257,14 +10383,12 @@ plural
 131914	singular
 131918	singular
 131941	plural
-131956	
 131998	singular
 132013	singular
 132019	plural
 132052	singular
 132060	singular
 132067	singular
-132085	
 132102	plural
 132104	singular
 132107	singular
@@ -11281,7 +10405,6 @@ singular
 132239	singular
 132243	plural
 132253	singular
-132256	
 132271	singular
 132350	singular
 132368	singular
@@ -11299,7 +10422,6 @@ singular
 132498	singular
 132504	singular
 132507	singular
-132525	
 132530	singular
 132543	singular
 132548	plural
@@ -11328,10 +10450,10 @@ singular
 132843	singular
 132861	singular
 132863	singular
-132872	
-132878	
+132872	plural
+132878	plural
 132891	singular
-
+plural
 132895	singular
 132920	singular
 132950	singular
@@ -11343,8 +10465,7 @@ singular
 133058	singular
 133065	plural
 133067	singular
-133081	
-singular
+133082	singular
 133110	singular
 133126	singular
 133144	singular
@@ -11371,12 +10492,11 @@ singular
 133343	singular
 133348	singular
 133352	plural
-133358	
+133358	plural
 133361	singular
 133365	singular
 133379	singular
 133399	singular
-133406	
 133443	plural
 133454	singular
 133479	singular
@@ -11455,11 +10575,9 @@ singular
 134353	singular
 134355	plural
 134364	plural
-134372	
 134380	singular
 134382	plural
 134389	singular
-134396	
 134407	singular
 134429	singular
 134437	singular
@@ -11474,7 +10592,7 @@ singular
 134555	singular
 134558	singular
 134576	singular
-134579	
+134579	singular
 134594	singular
 134630	dual
 134638	singular
@@ -11495,20 +10613,16 @@ singular
 134775	singular
 134783	singular
 134801	singular
-134805	
 134807	plural
 134820	singular
 134862	singular
-134881	singular
+134881	plural
 134885	singular
 134904	singular
-134910	
 134923	singular
 134942	singular
-134948	
 134978	singular
 134991	singular
-134997	
 135013	singular
 135016	singular
 135018	singular
@@ -11532,7 +10646,6 @@ singular
 135165	plural
 135179	singular
 135181	singular
-135192	
 135197	singular
 singular
 135205	singular
@@ -11547,8 +10660,8 @@ plural
 135330	singular
 135332	singular
 135337	singular
-135345	
-135397	
+135345	plural
+135397	plural
 135421	singular
 135424	singular
 135440	singular
@@ -11563,10 +10676,8 @@ singular
 135503	plural
 135510	singular
 135512	singular
-135517	
-135527	
 135535	singular
-135544	
+135544	plural
 135564	plural
 135591	plural
 135603	singular
@@ -11583,7 +10694,6 @@ singular
 135783	singular
 135803	plural
 135814	singular
-135842	
 135862	singular
 135890	dual
 135897	singular
@@ -11598,7 +10708,6 @@ plural
 135988	singular
 135991	singular
 135997	plural
-135999	
 136002	singular
 136007	singular
 136012	singular
@@ -11612,12 +10721,10 @@ plural
 136139	singular
 136143	singular
 136158	plural
-136168	
 136181	plural
 136188	singular
 136198	plural
 136210	plural
-136213	
 136231	singular
 136259	singular
 136314	singular
@@ -11626,8 +10733,8 @@ plural
 136364	singular
 136375	singular
 136379	singular
-136400	
-136405	
+136400	plural
+136405	plural
 136409	singular
 136440	singular
 136445	plural
@@ -11649,13 +10756,13 @@ singular
 136749	plural
 136756	singular
 136759	singular
-136775	
+136775	singular
 136777	singular
 136779	singular
 136784	singular
 136800	singular
 136824	singular
-136833	
+136833	singular
 136835	singular
 136838	singular
 136843	singular
@@ -11677,19 +10784,16 @@ singular
 137110	singular
 137138	singular
 137142	singular
-137195	plural
-137200	
+137195	singular
 137206	singular
 137213	singular
 137238	singular
 137240	singular
 137251	singular
 137261	plural
-137264	
+137264	plural
 137275	singular
 137295	singular
-137298	
-137313	
 137342	singular
 137353	singular
 137359	singular
@@ -11704,9 +10808,8 @@ singular
 137459	plural
 137468	singular
 singular
-137474	
+137474	singular
 137487	singular
-137500	
 137503	plural
 137511	singular
 137516	singular
@@ -11714,21 +10817,17 @@ singular
 137523	plural
 137534	singular
 137536	singular
-137572	
+137572	singular
 137632	singular
 137644	singular
-137646	
 137650	singular
 137680	plural
 137689	plural
 137697	dual
-137709	
 137711	singular
 137714	singular
-137728	
 137730	singular
 137733	singular
 137739	singular
 137762	singular
-137766	
 137776	singular

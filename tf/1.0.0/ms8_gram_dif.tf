@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:37+00:00Z
+@dateWritten=2025-06-22T22:25:37+00:00Z
 
 574	lpc..tmv.
 2937	l.cng....
@@ -121,13 +121,13 @@
 71291	l.cn.....
 71970	l........
 72568	lp.n.tmv.
-73804	l.cng....
+73804	l.c.g....
 75112	l.c....v.
 76035	lp.n.tmv.
 78843	lp.n.tmv.
 79152	lpc..tmv.
 79245	lpc..tmv.
-82086	l.....m..
+82086	......m..
 83486	l.cng....
 84173	lpc..tmv.
 84722	l.cng....

@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:23+00:00Z
+@dateWritten=2025-06-22T22:25:24+00:00Z
 
 574	a)g
 914	basilei+
@@ -30,7 +30,7 @@
 1924	basilei
 1938	basilei
 1961	basilei+
-2027	e)kei=
+2027	a)k
 2060	eu)n
 2678	basilei+
 2717	a)ll
@@ -67,7 +67,7 @@
 4895	si_m
 4928	si_m
 4976	basilei+
-5034	e)kei=
+5034	a)k
 5188	a)ll
 5405	a)g
 5425	a)g
@@ -230,11 +230,11 @@ dia_konhs
 17429	a)i_+c
 17457	a)r
 18025	xi
-18143	e)kei=
+18143	a)k
 18537	basilei+
 18547	a)g
 18671	krac
-18851	e)kei=
+18851	a)k
 18856	si_m
 18954	a)ll
 19007	h(mer
@@ -691,7 +691,7 @@ tim
 57921	a)ll
 58081	a)ll
 58131	a)ll
-58144	e)kei=
+58144	a)k
 58215	h(mer
 58292	di_
 58425	h(=sin
@@ -855,7 +855,7 @@ timhs
 72682	koni
 72902	a)g
 73506	o)q
-73732	e)kei=
+73732	a)k
 73804	*di_
 73871	matai
 74013	basilei+
@@ -878,7 +878,7 @@ timhs
 75492	*ludi
 75673	e)my
 75727	dr
-75752	e)kei=
+75752	a)k
 75866	cen
 75883	*)arei
 75962	qe
@@ -916,7 +916,7 @@ timhs
 78843	a)_r
 78852	h(mer
 79026	meshmbria_
-79101	e)kei=
+79101	a)k
 79152	a)g
 79225	stas
 79245	a)g
@@ -929,7 +929,7 @@ timhs
 80632	e)myh
 80636	dr
 80821	h(mer
-80965	e)kei=
+80965	a)k
 80985	e)my
 81112	sx
 81120	desm
@@ -942,7 +942,7 @@ timhs
 81658	a)ll
 81673	desm
 81699	desm
-81806	e)kei=
+81806	a)k
 81835	a)nem
 81894	a)ll
 81897	yux

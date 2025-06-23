@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:23+00:00Z
+@dateWritten=2025-06-22T22:25:25+00:00Z
 
 914	contr
 1043	contr
@@ -28,14 +28,11 @@
 3458	contr
 3943	contr
 4091	contr
-4516	
-4537	
 4976	contr
 5775	contr
 6451	contr
 6480	contr
 6516	contr
-6814	
 7405	contr
 7544	contr
 7593	contr
@@ -64,10 +61,7 @@
 14982	contr
 15525	contr
 16185	contr
-17457	
 18537	contr
-19409	
-19430	
 19666	contr
 19892	contr
 19900	contr
@@ -89,29 +83,20 @@
 24922	contr
 25434	contr
 25576	contr
-26062	
 26821	contr
 26895	contr
 26897	contr
 27604	contr
 27825	contr
-28853	
-28892	
 29163	contr
-29650	
 29917	contr
 30145	contr
 31768	contr
 32952	contr
-33524	
-33678	
-33701	
-33711	
 34081	contr
 35548	contr
 35966	contr
 36632	contr
-36728	
 37112	contr
 37632	contr
 37716	contr
@@ -121,7 +106,6 @@
 38832	contr
 38853	contr
 38897	contr
-39101	
 40057	contr
 40076	contr
 40162	short_subj
@@ -143,8 +127,6 @@
 44475	contr
 44695	contr
 44807	contr
-45197	
-45411	
 45853	contr
 45855	contr
 46168	contr
@@ -155,7 +137,6 @@
 46880	contr
 48007	contr
 48146	contr
-48507	
 48921	contr
 49434	contr
 50353	contr
@@ -165,39 +146,31 @@
 52947	contr
 53024	contr
 53099	contr
-54056	
 54802	contr
 57225	contr
-60620	
 61923	contr
 62566	contr
 62582	contr
 62599	contr
-63430	
 64201	contr
 64778	contr
 66087	contr
 68218	contr
-68450	
 69785	contr
-69902	
 70246	contr
 71230	contr
 71281	contr
 71729	contr
 74013	contr
 74240	contr
-74971	
 76126	contr
 77134	contr
-77360	
 77750	contr
 77898	contr
 78139	contr
 79026	contr
 79225	contr
 82086	contr
-82784	
 82910	contr
 83054	contr
 83558	contr
@@ -205,31 +178,21 @@
 85845	contr
 85867	contr
 88216	contr
-88457	
 89089	contr
-89824	
-89866	
-89880	
-90463	
 90943	contr
 90950	contr
 91386	contr
-91566	
 91620	contr
-91751	
 91980	contr
 92005	contr
 93238	contr
-93256	
 96146	contr
 96526	contr
-97580	
 97591	contr
 98435	contr
 99796	contr
 100590	contr
 100697	contr
-101928	
 102077	contr
 102326	contr
 102769	contr
@@ -242,40 +205,30 @@
 107209	contr
 107474	contr
 107956	contr
-108059	
-108507	
 108724	contr
-108780	
 109188	contr
-109618	
 109730	contr
-109819	
 112939	contr
 113958	contr
 114122	contr
 114372	contr
 114534	contr
 115048	contr
-115307	
 119979	contr
 121334	contr
-121347	contr
+121347	indeclform
 121359	contr
 121654	contr
 121716	contr
-122208	
 122689	contr
-123052	
 123989	contr
 124283	contr
-125769	
 128076	contr
 130073	contr
 131225	contr
 132473	contr
 132841	contr
 133479	contr
-133606	
 134467	contr
 135024	contr
 135062	contr

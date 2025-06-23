@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:23+00:00Z
+@dateWritten=2025-06-22T22:25:24+00:00Z
 
 574	aw_pr/aw_denom
 914	aw_pr/iaw_denom
@@ -30,7 +30,7 @@
 1924	aw_pr/iaw_denom
 1938	aw_pr/iaw_denom
 1961	aw_pr/iaw_denom
-2027	
+2027	hs_eos
 2060	oos_oon
 2678	aw_pr/iaw_denom
 2717	art_adj
@@ -52,7 +52,6 @@
 4080	ow_pr/ow_denom
 4091	aw_pr/a_stem
 4118	aor1/reg_conj
-4208	
 4216	aw_fut/azw
 4349	aw_fut/azw
 4399	os_h_on
@@ -67,7 +66,7 @@
 4895	os_h_on
 4928	os_h_on
 4976	aw_pr/iaw_denom
-5034	
+5034	hs_eos
 5188	art_adj
 5405	aw_pr/aw_denom
 5425	aw_pr/aw_denom
@@ -200,8 +199,6 @@ aor1/ew_denom
 14869	aor1/airw
 14938	h_hs
 14982	aw_pr/iaw_denom
-14994	
-15047	
 15194	art_adj
 15201	art_adj
 15226	ow_pr/ow_denom
@@ -230,11 +227,11 @@ aor1/ew_denom
 17429	aor1/ss
 17457	ew_pr/ew_denom
 18025	aw_fut/azw
-18143	
+18143	hs_eos
 18537	aw_pr/iaw_denom
 18547	aw_fut/azw
 18671	aor1/reg_conj
-18851	
+18851	hs_eos
 18856	os_h_on
 18954	art_adj
 19007	ow_pr/ow_denom
@@ -365,7 +362,6 @@ os_h_on
 29482	aor1/ew_denom
 29601	ow_pr/ow_denom
 29616	aw_pr/aw_denom
-29650	
 29689	reg_fut/reg_conj
 29703	aw_fut/azw
 29796	aw_fut/azw
@@ -466,7 +462,6 @@ aw_fut/azw
 40131	reg_fut/uzw
 40162	reg_fut/ew_denom
 40234	aor1/airw
-40333	
 40903	aw_pr/iaw_denom
 40943	aw_pr/iaw_denom
 41009	is_ews
@@ -524,7 +519,6 @@ os_h_on
 45092	reg_fut/azw
 45118	os_h_on
 45197	ew_pr/aw_denom
-45411	
 45500	reg_fut/a_stem
 45585	art_adj
 45603	aw_pr/aw_denom
@@ -566,7 +560,6 @@ os_h_on
 48007	aw_pr/iaw_denom
 48146	aw_pr/iaw_denom
 48289	art_adj
-48507	
 48541	art_adj
 48550	hs_eos
 48555	art_adj
@@ -691,10 +684,9 @@ ow_pr/ow_denom
 57921	art_adj
 58081	art_adj
 58131	art_adj
-58144	
+58144	hs_eos
 58215	ow_pr/ow_denom
 58292	os_h_on
-58425	
 58625	hs_eos
 58644	reg_fut/azw
 58649	ew_pr/ew_denom
@@ -819,7 +811,6 @@ is_ews
 68135	is_ews
 68213	is_ews
 68218	ew_fut/azw
-68450	
 68524	ath_primary/aw_denom
 68649	ow_pr/ow_denom
 68975	art_adj
@@ -833,7 +824,6 @@ is_ews
 69739	os_h_on
 69785	ath_primary/aw_denom
 69860	h_hs
-69902	
 70057	ew_pr/ew_denom
 70136	art_adj
 70212	aw_pr/iaw_denom
@@ -855,7 +845,7 @@ is_ews
 72682	aw_fut/azw
 72902	aw_fut/azw
 73506	ew_pr/ew_denom
-73732	
+73732	hs_eos
 73804	os_ou
 73871	ow_pr/ow_denom
 74013	aw_pr/iaw_denom
@@ -878,7 +868,7 @@ is_ews
 75492	aw_fut/azw
 75673	aw_pr/aw_denom
 75727	aw_pr/a_stem
-75752	
+75752	hs_eos
 75866	os_ou
 75883	wn_onos
 75962	aw_pr/aw_denom
@@ -916,7 +906,7 @@ is_ews
 78843	aor1/airw
 78852	ow_pr/ow_denom
 79026	ath_primary/aw_denom
-79101	
+79101	hs_eos
 79152	aw_pr/aw_denom
 79225	reg_fut/azw
 79245	aw_pr/aw_denom
@@ -929,12 +919,11 @@ is_ews
 80632	ath_primary/aw_denom
 80636	ath_h_aor/a_stem
 80821	ow_pr/ow_denom
-80965	
+80965	hs_eos
 80985	aw_pr/aw_denom
 81112	aw_pr/a_stem
 81120	ew_pr/ew_denom
 81182	ow_pr/ow_denom
-81244	
 81398	art_adj
 81478	art_adj
 81591	art_adj
@@ -942,7 +931,7 @@ is_ews
 81658	art_adj
 81673	ew_pr/ew_denom
 81699	ew_pr/ew_denom
-81806	
+81806	hs_eos
 81835	ow_pr/ow_denom
 81894	art_adj
 81897	aw_fut/azw
@@ -952,8 +941,6 @@ is_ews
 82371	aw_fut/azw
 82482	ow_pr/ow_denom
 82529	ow_pr/ow_denom
-82729	
-82784	
 82910	aw_pr/iaw_denom
 83054	aw_pr/iaw_denom
 83274	aw_pr/a_stem
@@ -969,7 +956,6 @@ is_ews
 83823	reg_fut/uzw
 84099	aor1/ew_denom
 84173	aw_pr/aw_denom
-84226	
 84240	os_h_on
 84407	ew_pr/ew_denom
 84442	art_adj
@@ -1113,7 +1099,6 @@ is_ews
 91805	aor1/airw
 91892	reg_fut/reg_conj
 91935	art_adj
-91943	
 91966	art_adj
 91980	aw_pr/iaw_denom
 92005	aw_pr/iaw_denom
@@ -1150,7 +1135,6 @@ aw_fut/azw
 93716	os_ou
 93740	art_adj
 93888	art_adj
-93917	
 93954	art_adj
 94003	aw_pr/aw_denom
 94012	art_adj
@@ -1188,7 +1172,6 @@ aw_fut/azw
 96146	aw_pr/iaw_denom
 96152	is_ews
 96166	aw_pr/a_stem
-96251	
 96305	art_adj
 hs_eos
 96334	art_adj
@@ -1214,7 +1197,6 @@ hs_eos
 97512	aw_pr/a_stem
 97544	art_adj
 97561	art_adj
-97580	
 97591	aw_pr/a_stem
 97620	aw_pr/aw_denom
 97676	art_adj
@@ -1226,7 +1208,6 @@ hs_eos
 98061	aw_fut/azw
 98067	art_adj
 98083	art_adj
-98121	
 98143	art_adj
 98364	art_adj
 98424	ew_pr/ew_denom
@@ -1298,7 +1279,6 @@ ath_primary/aw_denom
 101641	art_adj
 101728	art_adj
 101927	art_adj
-
 102077	reg_fut/uzw
 102133	aor1/airw
 102202	aor1/airw
@@ -1389,7 +1369,6 @@ ath_primary/aw_denom
 108059	aor1/ss
 108158	ew_pr/ew_denom
 108343	art_adj
-108507	
 108631	reg_fut/aw_denom
 108654	ew_pr/ew_denom
 108724	aw_pr/iaw_denom
@@ -1416,7 +1395,6 @@ ath_primary/aw_denom
 110221	ew_pr/ew_denom
 110275	art_adj
 110304	aw_fut/azw
-110448	
 110500	hs_ou
 110541	aor1/airw
 110548	art_adj
@@ -1572,7 +1550,6 @@ h_hs
 122798	art_adj
 122902	art_adj
 122911	aw_fut/azw
-123052	
 123066	aw_fut/azw
 123159	art_adj
 123170	ew_pr/ew_denom

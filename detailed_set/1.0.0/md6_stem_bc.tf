@@ -11,13 +11,13 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:32+00:00Z
+@dateWritten=2025-06-22T22:25:32+00:00Z
 
 99	ou)ri
 154	a)m
 a)m
 238	dr
-247	pa/sa_|
+247	pas
 253	e(
 260	e(
 271	e(
@@ -25,15 +25,15 @@ a)m
 324	kuri
 339	s
 377	kuri
-dia/
-382	i)dou/
+di_
+382	*)id
 387	e(c
 410	u(pn
 417	kuri
 427	e(
 475	kunhs
 477	a_)k
-515	dia/
+515	di_
 531	sou=
 574	a)g
 576	kunhs
@@ -50,18 +50,18 @@ o(d
 713	h)/n
 715	e(
 724	kuri
-dia/
+di_
 739	a)ixq
 769	pa_r
-776	dia/
+776	di_
 807	kuri
 852	a_)k
-888	dia/
+888	di_
 890	prof
 910	no
 914	basilei
 916	ou)ran
-922	dia/
+922	di_
 935	kuri
 950	trix
 961	trof
@@ -88,7 +88,7 @@ leg
 1254	qe
 ei)p
 1258	liq
-1279	dia/
+1279	di_
 1281	qe
 1289	a(gi
 1298	i(er
@@ -114,7 +114,7 @@ proskunhs
 1404	dihkon
 1406	a_)k
 1416	lip
-1434	dia/
+1434	di_
 1446	per
 1467	ski
 qanat
@@ -216,7 +216,7 @@ na_i+/
 2372	qelont
 2374	sou=
 2381	a)gaphs
-2383	plhsi
+2383	plhs
 s
 2389	s
 2392	leg
@@ -279,7 +279,7 @@ a(pl
 2913	kuri
 2923	a)gaphs
 2930	a)fronhs
-2937	*di
+2937	*di_
 2939	leg
 2944	yux
 2960	plei
@@ -308,7 +308,7 @@ a(pl
 3311	poiws
 3314	a)nqrwp
 3327	prof
-3329	dia/
+3329	di_
 3334	platei_
 3367	o)lig
 3386	luk
@@ -351,7 +351,7 @@ leg
 3829	ui(
 3831	basilei
 3873	petr
-3918	dia/
+3918	di_
 3932	i)_d
 3943	per
 3951	a)kolouqhs
@@ -371,7 +371,7 @@ skhnws
 4080	a)nem
 4091	per
 4094	xwr
-4112	dia/
+4112	di_
 4114	o(d
 4118	r(ac
 4126	qe
@@ -400,12 +400,12 @@ s
 4360	leg
 4362	leg
 4395	leg
-4399	*di
+4399	*di_
 4412	a_)k
 4433	qusi
 4439	l
 4445	maq
-4448	*di
+4448	*di_
 4457	maq
 s
 4469	ui(
@@ -456,11 +456,11 @@ pneumat
 5093	pod
 5096	leg
 5109	pol
-5111	i)dou/
+5111	*)id
 5119	luk
 5140	e(dri
 5188	l
-5220	dia/
+5220	di_
 5237	pol
 5245	leg
 5251	pol
@@ -471,7 +471,7 @@ pneumat
 5333	dwmat
 5362	strouqi
 5374	a)_n
-5385	pa/sa_|
+5385	pas
 5398	o(mologhs
 5405	a)g
 5425	a)g
@@ -486,7 +486,7 @@ pneumat
 s
 5579	leg
 5611	a_)k
-5620	dia/
+5620	di_
 5632	prosdok
 5642	a_(/
 5646	tufl
@@ -498,7 +498,7 @@ s
 5710	l
 5715	na_i+/
 leg
-5726	i)dou/
+5726	*)id
 5733	w)p
 s
 5736	kataskeuas
@@ -523,7 +523,7 @@ daimon
 e)x
 5852	pin
 5854	leg
-i)dou/
+*)id
 5876	pol
 5906	pal
 5914	leg
@@ -541,9 +541,9 @@ ou)ran
 6042	a)g
 paus
 6061	kardi
-6088	dia/
+6088	di_
 6093	maq
-6108	i)dou/
+6108	*)id
 6110	maq
 s
 6140	qe
@@ -558,8 +558,8 @@ s
 6279	leg
 6282	ktein
 s
-6331	dia/
-6336	i)dou/
+6331	di_
+6336	*)id
 6366	a)kous
 6382	sbes
 e(
@@ -572,7 +572,7 @@ mh_t
 6480	basilei
 6489	daimoni
 6491	ui(
-6496	dia/
+6496	di_
 6506	qe
 6510	daimoni
 a)r
@@ -585,7 +585,7 @@ e)
 dhs
 6545	diarpas
 6557	a)g
-6561	*di
+6561	*di_
 6563	leg
 6581	e)
 6635	karp
@@ -615,35 +615,35 @@ s
 6874	katoik
 6879	e)sxat
 6885	prwt
-6915	i)dou/
+6915	*)id
 6918	s
 6922	s
 6933	leg
 6941	ti/nes
-6956	i)dou/
+6956	*)id
 6994	pa_r
-7024	i)dou/
+7024	*)id
 7027	speir
 7035	a_(/
 7037	e(/n
 pa_r
 7047	l
 7049	e(/n
-7061	dia/
+7061	di_
 7067	h(li
-7072	dia/
+7072	di_
 7078	l
 7080	e(/n
 7091	l
 7093	e(/n
 7118	maq
-7121	*di
+7121	*di_
 7138	basilei
 7140	ou)ran
 7147	e)x
 7155	e)x
 7158	e)x
-7162	dia/
+7162	di_
 7177	suni
 7185	leg
 7198	i)d
@@ -661,12 +661,12 @@ a_(/
 7300	pa_r
 7323	e)x
 7328	l
-7336	dia/
+7336	di_
 7355	merimn
 7360	a)path
 7363	sumpnig
 7383	i(
-7385	dh/
+7385	d
 7405	basilei
 7407	ou)ran
 7429	a)n
@@ -689,7 +689,7 @@ a_(/
 7595	ou)ran
 7605	e(
 7620	bol
-7628	dia/
+7628	di_
 7632	a)noic
 7641	a)bol
 7654	maq
@@ -721,19 +721,19 @@ a_(/
 7901	dikai
 7922	leg
 7924	nai/
-7929	*di
+7929	*di_
 7935	basilei
 7937	ou)ran
 8008	si_m
-8016	pa/sa_|
-8054	dia/
+8016	pas
+8054	di_
 8056	i(sti
 8083	nekr
-8085	dia/
+8085	di_
 8089	e)rg
-8103	dia/
+8103	di_
 8157	e)
-8181	dia/
+8181	di_
 8215	maq
 8217	h)r
 8228	a_)k
@@ -760,18 +760,18 @@ h)/n
 8545	leg
 8569	qe
 8573	diapera_s
-8626	*di
+8626	*di_
 8629	maq
 s
-8649	*di
+8649	*di_
 8657	qe
-dia/
+di_
 8666	ti_m
 8682	leg
 8693	e)
 8699	timhs
 8712	qe
-dia/
+di_
 8730	ti_m
 8733	kardi
 8739	mat
@@ -882,9 +882,9 @@ e(s
 10075	maq
 10079	i)di
 ei)p
-*di
+*di_
 10090	leg
-10092	*di
+10092	*di_
 10098	leg
 10100	e)
 e)xh
@@ -930,13 +930,13 @@ prwt
 10427	sou=
 10448	fronhs
 10453	leg
-10462	dia/
+10462	di_
 10475	dok
 e)
-10491	e)nne
+10491	ne
 10501	e)
 10506	leg
-10517	e)nne
+10517	ne
 10533	l
 10538	e)
 10540	a(marths
@@ -971,7 +971,7 @@ e)
 10695	e(
 10697	l
 e(
-10701	*di
+10701	*di_
 10705	basilei
 10707	ou)ran
 10712	a)r
@@ -987,7 +987,7 @@ e(
 a)pod
 10833	doul
 10854	leg
-10864	e)pei/
+10864	e)p
 10868	e)d
 10871	e)lehs
 10874	s
@@ -1007,7 +1007,7 @@ a)pod
 11066	leg
 11069	maq
 11074	ai)ti
-11119	dia/
+11119	di_
 11121	basilei
 11123	ou)ran
 11131	paidi
@@ -1023,7 +1023,7 @@ a)pod
 11213	poi
 11227	ti_m
 11234	a)gaphs
-11236	plhsi
+11236	plhs
 s
 11240	leg
 11249	u(ster
@@ -1034,7 +1034,7 @@ s
 11304	basilei
 11306	ou)ran
 11309	leg
-11314	dia/
+11314	di_
 11322	basilei
 11324	qe
 11328	maq
@@ -1042,7 +1042,7 @@ s
 11342	pa_r
 11347	pa_r
 11351	dunat
-11358	i)dou/
+11358	*)id
 11366	a)r
 11375	leg
 11442	o(moi
@@ -1063,7 +1063,7 @@ e(
 11640	a)ro
 11666	s
 11692	i)di
-11699	i)dou/
+11699	*)id
 11714	kri^n
 11725	paic
 11732	trit
@@ -1098,8 +1098,8 @@ r(ac
 12022	e)
 12027	r(
 12033	e)x
-12045	dia/
-12053	i)dou/
+12045	di_
+12053	*)id
 12056	s
 12072	maq
 12094	a)n
@@ -1142,7 +1142,7 @@ ou)si
 12456	e)
 12459	ou)ran
 e)r
-12462	*di
+12462	*di_
 12468	e)
 12496	leg
 12499	poi
@@ -1165,15 +1165,15 @@ ou)si
 12755	leg
 12774	pa_r
 kuri
-12784	dia/
+12784	di_
 12786	leg
 12793	basilei
 12795	qe
 12832	leg
-12840	e)pei/
+12840	e)p
 12857	basilei
 12859	ou)ran
-12891	i)dou/
+12891	*)id
 12901	sitist
 12905	e(toi_m
 12918	i)_di
@@ -1222,7 +1222,7 @@ s
 s
 13406	o(moi
 13408	a)gaphs
-13410	plhsi
+13410	plhs
 s
 13425	prof
 13437	dok
@@ -1276,7 +1276,7 @@ tufl
 14000	prof
 14002	martur
 14005	ui(
-14029	dia/
+14029	di_
 14076	dikai
 e(
 14092	leg
@@ -1299,31 +1299,31 @@ e(
 14264	d
 14278	basilei
 14280	basilei
-14308	dia/
-14330	dia/
+14308	di_
+14330	di_
 14337	a)gaph
 14353	basilei
 14355	o(l
 14370	i)d
-14377	dia/
+14377	di_
 14402	katabat
 a)r
 14417	a)r
 14456	e(
-14475	dia/
+14475	di_
 14484	e)
-14488	i)dou/
+14488	*)id
 14504	megal
 14510	du_n
 14517	e)
-14521	i)dou/
-14528	i)dou/
+14521	*)id
+14528	*)id
 14543	e(
 14554	e)
 14568	h(mer
 14587	ou)ran
 14592	ou)ran
-14608	pa/sa_|
+14608	pas
 14624	ou)ran
 14639	a)c
 14646	a)nem
@@ -1338,7 +1338,7 @@ e(
 14781	e(
 14823	poi
 14837	poi
-14852	dia/
+14852	di_
 14869	a)r
 14900	eu(rhs
 14904	leg
@@ -1352,11 +1352,11 @@ e(
 14984	ou)ran
 dek
 14994	u(panth
-15034	pa/sa_|
+15034	pas
 15037	mes
-15042	i)dou/
+15042	*)id
 15047	a)nt
-15050	pa/sa_|
+15050	pas
 15069	e)lai
 15080	leg
 15100	a_)gora
@@ -1469,7 +1469,7 @@ qanat
 16712	eu(r
 16724	lu_s
 16728	qe
-16730	dia/
+16730	di_
 tri
 h(mer
 16741	kri^n
@@ -1495,11 +1495,11 @@ leg
 s
 16941	oi)_d
 16961	a_)rnhs
-17051	e)pei/
+17051	e)p
 17064	kerame
 17068	cen
 17076	e(
-17083	dia/
+17083	di_
 17094	tim
 17100	ui(
 17109	kerame
@@ -1511,7 +1511,7 @@ s
 17192	leg
 17201	ti/na
 17209	leg
-17214	dia/
+17214	di_
 17230	leg
 17251	ei)s
 17268	ti/na
@@ -1582,7 +1582,7 @@ b
 18222	maq
 18295	e(
 18306	qe
-18314	i)dou/
+18314	*)id
 18320	w)p
 s
 18323	kataskeuas
@@ -1637,7 +1637,7 @@ a_(/
 18995	h)/n
 19007	h(mer
 19023	qur
-19043	dia/
+19043	di_
 19050	h)/n
 19067	leg
 19072	s
@@ -1666,7 +1666,7 @@ e)x
 19303	l
 19308	maq
 19317	leg
-19319	*di
+19319	*di_
 19322	maq
 19326	maq
 19333	maq
@@ -1678,15 +1678,15 @@ e)x
 19416	r(hc
 19428	l
 19430	n
-19441	dia/
+19441	di_
 19446	maq
 19457	leg
-19459	i)de/
+19459	*)
 19468	leg
 19491	qe
 19494	a)rxiere
-19521	dia/
-19529	dia/
+19521	di_
+19529	di_
 19548	h)/n
 19561	qerapeus
 19567	leg
@@ -1697,7 +1697,7 @@ e)x
 19611	ktein
 19666	per
 19689	karter
-19691	dia/
+19691	di_
 19721	r(az
 leg
 19729	qe
@@ -1730,13 +1730,13 @@ e)
 19994	leg
 19997	e)x
 20021	leg
-20023	i)dou/
+20023	*)id
 20026	s
 20030	s
 20034	s
 20041	leg
 20057	leg
-i)de/
+*)
 20072	qe
 20085	pa_r
 20131	speir
@@ -1744,8 +1744,8 @@ speir
 20140	e(/n
 pa_r
 20153	e(/n
-20165	dia/
-20178	dia/
+20165	di_
+20178	di_
 20186	e(/n
 20202	l
 e(/n
@@ -1762,7 +1762,7 @@ e(/n
 20333	o(moi
 20355	l
 kair
-20363	dia/
+20363	di_
 20369	l
 20384	merimn
 20389	a)path
@@ -1804,9 +1804,9 @@ e)
 20778	xwr
 20799	oi)k
 20811	dhs
-dia/
+di_
 20834	dam
-20836	dia/
+20836	di_
 20848	h)/n
 20853	liq
 20868	leg
@@ -1848,10 +1848,10 @@ pa_r
 21448	e)t
 21453	sta_s
 21481	maq
-21511	dia/
+21511	di_
 21513	xeir
 21584	piq
-21590	dia/
+21590	di_
 21592	i(sti
 21613	e)cousi
 21615	pneumat
@@ -1865,7 +1865,7 @@ pa_r
 21690	daimoni
 21712	leg
 21719	nekr
-21721	dia/
+21721	di_
 21723	e)rg
 21728	l
 21730	leg
@@ -1873,7 +1873,7 @@ pa_r
 21736	leg
 21742	prof
 a_)k
-21767	dia/
+21767	di_
 21793	s
 21814	dr
 21822	a_)k
@@ -1882,7 +1882,7 @@ a_)k
 21890	e(
 21893	basilei
 21920	leg
-21938	dia/
+21938	di_
 21989	maq
 21993	h)r
 22019	leg
@@ -1924,7 +1924,7 @@ prasi
 22506	l
 22509	a_(/
 22519	e)rwt
-22526	*di
+22526	*di_
 22531	maq
 s
 22538	l
@@ -1962,12 +1962,12 @@ e)
 22890	leg
 22892	nai/
 22897	kat
-22909	*di
+22909	*di_
 22918	s
 22920	daimon
 22936	daimon
 22944	tur
-22946	dia/
+22946	di_
 22953	a)n
 22965	kal
 22968	q
@@ -2024,7 +2024,7 @@ e(
 23742	leuk
 23768	leg
 23793	kri_q
-23818	e)ca/pina
+23818	i)n
 23823	l
 23839	a_(/
 23850	nekr
@@ -2047,7 +2047,7 @@ leg
 24097	i(sti
 24161	maq
 24164	i)di
-24190	dia/
+24190	di_
 24233	e)rwths
 24268	leg
 24315	l
@@ -2093,7 +2093,7 @@ leg
 24897	leg
 24905	basilei
 24907	qe
-24912	dia/
+24912	di_
 24922	basilei
 24924	qe
 24941	leg
@@ -2101,12 +2101,12 @@ pa_r
 24947	pa_r
 24951	dunat
 pa_r
-24960	i)dou/
+24960	*)id
 24971	leg
 24996	e)
 25044	h)/n
 a)g
-25068	i)dou/
+25068	*)id
 25084	kri^n
 25093	paic
 25115	ui(
@@ -2150,7 +2150,7 @@ konhs
 25641	h)/n
 25652	sou=
 25659	maq
-25700	dia/
+25700	di_
 25702	i(er
 25766	r(iz
 25771	leg
@@ -2163,7 +2163,7 @@ h)ra_
 25807	kri_q
 25810	kardi
 25812	l
-25820	dia/
+25820	di_
 25822	leg
 25882	leg
 25885	poi
@@ -2181,7 +2181,7 @@ h)/n
 25936	e)
 25939	ou)ran
 e)r
-*di
+*di_
 25947	l
 25962	h)/n
 25967	leg
@@ -2210,7 +2210,7 @@ kuri
 26335	lip
 26347	x
 26355	stas
-26373	dia/
+26373	di_
 26384	qe
 26388	nekr
 26404	nekr
@@ -2229,12 +2229,12 @@ s
 26497	s
 26503	s
 26506	a)gaphs
-26508	plhsi
+26508	plhs
 s
 26523	*kalw
 26539	a)gap
 26557	a)gap
-26559	plhsi
+26559	plhs
 26568	qusi
 26584	basilei
 26586	qe
@@ -2274,7 +2274,7 @@ d
 26946	merimn
 26951	e)
 26966	l
-26993	dia/
+26993	di_
 27006	i)d
 27014	d
 27032	katabat
@@ -2283,10 +2283,10 @@ d
 27088	ti_s
 27091	e(
 27110	l
-dia/
+di_
 27121	e)
-27125	i)de/
-27129	i)de/
+27125	*)
+27129	*)
 27145	a)poplan
 27147	du_n
 27156	l
@@ -2372,7 +2372,7 @@ pa_r
 28301	ti/nes
 28314	lu_s
 28319	xeiropoi
-28321	dia/
+28321	di_
 tri
 h(mer
 28331	h)/n
@@ -2409,7 +2409,7 @@ s
 28666	sta_s
 28670	b
 28676	e)poi
-28694	dia/
+28694	di_
 28703	ei(s
 28723	leg
 28731	r(ac
@@ -2432,7 +2432,7 @@ h)/n
 29001	e(
 29031	ti/nes
 29035	leg
-i)de/
+*)
 29075	e(
 kat
 i)_d
@@ -2443,7 +2443,7 @@ h)/n
 29130	dihkon
 29133	l
 29136	a)b
-29144	e)pei/
+29144	e)p
 h)/n
 29160	h)/n
 29163	basilei
@@ -2474,7 +2474,7 @@ h)/n
 29525	dec
 29527	qe
 29534	kuri
-29540	dia/
+29540	di_
 29543	shmei
 29599	log
 29601	a)m
@@ -2521,7 +2521,7 @@ eu)
 30041	sou=
 30066	pa_r
 30113	basilei
-30127	e)pei/
+30127	e)p
 dr
 30145	e)piskia_s
 30154	qe
@@ -2530,7 +2530,7 @@ dr
 30179	a)dunaths
 pa_r
 30182	qe
-30188	i)dou/
+30188	*)id
 30191	kuri
 30197	s
 30269	s
@@ -2541,7 +2541,7 @@ pa_r
 30315	pa_r
 kuri
 30325	ku_ri
-30352	pa/sa_|
+30352	pas
 30358	megal
 30384	oi)
 30396	a)gaq
@@ -2557,7 +2557,7 @@ s
 30583	a)r
 30591	kuri
 h)/n
-30632	dia/
+30632	di_
 30635	a(gi
 30638	prof
 30684	w)p
@@ -2565,7 +2565,7 @@ h)/n
 30699	w)p
 kuri
 30712	e(s
-30715	dia/
+30715	di_
 30718	qe
 30727	fan
 30730	skot
@@ -2576,7 +2576,7 @@ qanat
 30755	e(
 30770	pa_r
 30783	*suri
-30813	dia/
+30813	di_
 30860	h)/n
 30886	kuri
 30891	kuri
@@ -2585,7 +2585,7 @@ qanat
 30946	strati
 30950	q
 30952	leg
-30981	dh/
+30981	d
 e(
 31051	kardi
 31061	q
@@ -2607,7 +2607,7 @@ mhtr
 31265	doc
 31267	s
 31270	h)/n
-31294	i)dou/
+31294	*)id
 31308	leg
 31310	sou=
 31322	kardi
@@ -2706,7 +2706,7 @@ s
 32668	qu_m
 32684	e(
 32695	krhmnis
-32700	dia/
+32700	di_
 mes
 32712	h)/n
 32726	ou)si
@@ -2764,8 +2764,8 @@ h)/n
 33323	qein
 w)p
 33329	poi
-33332	dia/
-33339	dia/
+33332	di_
+33339	di_
 33341	keram
 33364	s
 33401	logiz
@@ -2784,7 +2784,7 @@ e)x
 33503	lip
 33519	h)/n
 33524	l
-33543	*di
+33543	*di_
 33566	l
 33574	l
 33577	oi)
@@ -2805,7 +2805,7 @@ sxis
 palai
 33711	n
 leg
-33724	dia/
+33724	di_
 33729	maq
 33738	ti/nes
 33777	qe
@@ -2875,7 +2875,7 @@ suka
 leg
 34568	log
 34570	poi
-34606	dia/
+34606	di_
 34613	a_)k
 34633	e(/n
 34663	teleut
@@ -2919,7 +2919,7 @@ xhr
 35100	l
 35105	na_i+/
 leg
-35116	i)dou/
+35116	*)id
 35122	w)p
 s
 35125	kataskeuas
@@ -2943,7 +2943,7 @@ daimon
 e)x
 35238	pin
 35240	leg
-i)dou/
+*)id
 35257	tekn
 35281	h)/n
 35284	pol
@@ -2970,7 +2970,7 @@ a)gaphs
 35577	*)iwan
 35580	trop
 35588	dihkon
-35606	dia/
+35606	di_
 bol
 35610	speir
 35612	speir
@@ -2978,7 +2978,7 @@ bol
 pa_r
 35633	ou)ran
 35638	e(/n
-35645	dia/
+35645	di_
 35652	e(/n
 35665	e(/n
 35688	maq
@@ -2998,7 +2998,7 @@ kal
 35853	krupt
 35859	a)pokruf
 35885	dok
-35905	dia/
+35905	di_
 35913	s
 35917	s
 35940	qe
@@ -3048,7 +3048,7 @@ e)pistat
 36655	a)n
 36685	pod
 36687	a)potinass
-36712	dia/
+36712	di_
 36721	nekr
 36728	l
 36758	a(ghs
@@ -3175,9 +3175,9 @@ s
 38276	o(l
 38278	oi)
 s
-38282	plhsi
+38282	plhs
 s
-38308	plhsi
+38308	plhs
 38322	e(/n
 38334	kuri
 38347	o(moi
@@ -3185,7 +3185,7 @@ s
 38383	i)_di
 38416	dws
 38421	tri
-plhsi
+plhs
 dok
 38430	lh|st
 38449	o(moi
@@ -3205,8 +3205,8 @@ s
 38653	qhs
 38669	paidi
 38682	leg
-38690	dia/
-38695	dia/
+38690	di_
+38695	di_
 38705	a)g
 38707	leg
 38738	ai)ths
@@ -3225,7 +3225,7 @@ s
 38862	daimoni
 38870	daimoni
 38872	ui(
-38877	dia/
+38877	di_
 38887	qe
 38891	daimoni
 a)r
@@ -3275,7 +3275,7 @@ a(pl
 39402	prof
 39409	a)r
 39413	suneudok
-39427	dia/
+39427	di_
 39433	qe
 39453	prof
 39457	a)bol
@@ -3293,7 +3293,7 @@ leg
 39644	w)p
 39646	qe
 l
-39654	pa/sa_|
+39654	pas
 39661	leg
 39678	o(mologhs
 39683	gel
@@ -3319,7 +3319,7 @@ d
 39888	sou=
 a_(/
 39901	q
-39909	*di
+39909	*di_
 39911	leg
 39916	yux
 39927	plei
@@ -3381,7 +3381,7 @@ s
 40637	pa_r
 40645	leg
 40648	e)
-40681	i)dou/
+40681	*)id
 40703	katarg
 40707	leg
 40716	e(
@@ -3410,7 +3410,7 @@ o(moi
 40957	e(
 40964	pol
 40979	o)lig
-40989	dia/
+40989	di_
 40995	leg
 41009	kleis
 41011	qur
@@ -3426,7 +3426,7 @@ s
 41105	basilei
 41107	qe
 41126	ti/nes
-41147	i)dou/
+41147	*)id
 41149	daimoni
 41152	tel
 41158	trit
@@ -3463,7 +3463,7 @@ a_)k
 41532	e)rwt
 41541	bo
 41548	e)rwt
-41559	dia/
+41559	di_
 41634	leg
 41640	a)ndr
 41665	mi_s
@@ -3473,13 +3473,13 @@ a_)k
 41771	dek
 41773	a)nths
 41815	e)
-41892	e)nne
+41892	ne
 41901	e(
 41917	kal
 41928	eu(r
 41934	leg
 41946	no
-41950	e)nne
+41950	ne
 41962	dek
 e)
 41971	sar
@@ -3513,7 +3513,7 @@ s
 42259	h)/n
 42295	s
 42301	s
-42329	i)dou/
+42329	*)id
 42337	s
 42347	fil
 42354	s
@@ -3591,7 +3591,7 @@ fag
 43162	leg
 43164	doul
 a)xrei
-43181	dia/
+43181	di_
 43193	dek
 43201	h)r
 43205	e)pistat
@@ -3601,19 +3601,19 @@ e)lehs
 43242	pa_r
 43250	h)/n
 43259	dek
-43263	e)nne
+43263	ne
 43269	doc
 43284	s
 43295	basilei
 43297	qe
 43305	basilei
 43307	qe
-43312	i)dou/
+43312	*)id
 43319	basilei
 43321	qe
 43336	h(mer
-43348	i)dou/
-43350	i)dou/
+43348	*)id
+43350	*)id
 43381	prwt
 43383	d
 43429	o(moi
@@ -3636,7 +3636,7 @@ a)r
 dikhs
 43610	dik
 43626	q
-43632	dia/
+43632	di_
 43639	xhr
 43641	dikhs
 43660	leg
@@ -3667,18 +3667,18 @@ eu(rhs
 43966	h)/n
 43984	basilei
 43986	qe
-43992	dia/
+43992	di_
 44000	basilei
 44002	qe
 44017	pa_r
 44019	dunat
 pa_r
-44028	i)dou/
+44028	*)id
 44040	leg
 44058	basilei
 44060	qe
-44085	i)dou/
-44094	dia/
+44085	*)id
+44094	di_
 44096	prof
 44119	trit
 44127	h)/n
@@ -3697,8 +3697,8 @@ d
 44335	pa_r
 44339	lu_s
 44346	ku_ri
-i)dou/
-44401	dia/
+*)id
+44401	di_
 44414	basilei
 44416	qe
 44425	xwr
@@ -3719,7 +3719,7 @@ leg
 44579	s
 kri_n
 44598	peir
-44600	dia/
+44600	di_
 44609	a)g
 44620	a)ra_t
 44629	dek
@@ -3729,7 +3729,7 @@ dek
 44653	e)x
 44695	*)elai
 44723	e)
-44727	*di
+44727	*di_
 44729	lu_
 44731	r(
 44737	e)x
@@ -3766,7 +3766,7 @@ h)/n
 45074	e)
 45077	ou)ran
 e)r
-*di
+*di_
 45084	e)
 45092	kataliqas
 45112	leg
@@ -3832,7 +3832,7 @@ makr
 45872	megal
 45912	promelet
 45941	fil
-45951	dia/
+45951	di_
 45963	l
 45974	i)d
 45980	gnwt
@@ -3852,7 +3852,7 @@ makr
 46274	*)elai
 46305	e)l
 46362	e)d
-46390	i)dou/
+46390	*)id
 46396	sunanths
 46411	r(
 46416	leg
@@ -3939,7 +3939,7 @@ si_m
 47498	h)/n
 47501	i(kan
 xron
-47506	dia/
+47506	di_
 47560	fil
 47576	e)xqr
 47606	w)p
@@ -3949,13 +3949,13 @@ xron
 47631	a)ci
 qanat
 47652	h)/n
-dia/
+di_
 47659	pol
 47695	ai)ti
 qanat
 eu(r
 47713	i)sxu_
-47727	dia/
+47727	di_
 47770	gunaik
 47804	makari
 47870	dec
@@ -4025,7 +4025,7 @@ s
 48780	klas
 48782	a)rt
 48793	leg
-48812	dia/
+48812	di_
 48818	kardi
 48838	sark
 48842	e)x
@@ -4040,7 +4040,7 @@ s
 e(
 48988	e(
 48992	a)r
-49025	dia/
+49025	di_
 49032	q
 49035	h)/n
 49041	h)/n
@@ -4070,8 +4070,8 @@ qe
 49229	h)/n
 49231	ei)p
 49242	h)/n
-49258	dia/
-49266	dia/
+49258	di_
+49266	di_
 49270	q
 49284	a(ghs
 49331	leg
@@ -4080,19 +4080,19 @@ qe
 49438	h)/n
 49443	au)r
 49451	leg
-i)de/
+*)
 49456	qe
 49468	ei)p
 49480	h)/n
 a)g
-49490	dia/
+49490	di_
 49509	ou)ran
 49514	a)g
 49546	a)g
 49556	qe
 49558	au)r
 49574	leg
-i)de/
+*)
 49579	qe
 49584	maq
 49599	leg
@@ -4114,7 +4114,7 @@ i)de/
 49737	prof
 49756	leg
 49771	leg
-49774	i)de/
+49774	*)
 49782	leg
 49813	qe
 49825	ei)p
@@ -4159,7 +4159,7 @@ a)_n
 50238	h)/n
 50258	a_(/
 e)poi
-50267	dia/
+50267	di_
 50279	marturhs
 50287	h)/n
 50291	h)/n
@@ -4205,7 +4205,7 @@ per
 50786	ou)ran
 50790	martur
 50792	ei)p
-50822	dia/
+50822	di_
 50835	d
 50843	a)n
 50863	ou)ran
@@ -4218,8 +4218,8 @@ per
 men
 50969	maq
 50980	e)d
-50984	dia/
-50995	plhsi
+50984	di_
+50995	plhs
 51005	h)/n
 51022	phg
 51024	h)/n
@@ -4280,11 +4280,11 @@ proskunhs
 o(m
 51558	speir
 51571	l
-51591	dia/
+51591	di_
 51601	a_(/
-51624	dia/
+51624	di_
 51631	leg
-51634	dia/
+51634	di_
 51637	lali
 51672	tim
 51674	e)x
@@ -4321,12 +4321,12 @@ leg
 52062	pat
 52072	a)ro
 52074	pat
-52103	i)de/
-52129	dia/
+52103	*)
+52129	di_
 52138	e)poi
 52148	e(
 52151	a)g
-52153	dia/
+52153	di_
 52168	l
 52171	i)_di
 52174	q
@@ -4479,7 +4479,7 @@ a)g
 53693	z
 53695	a)g
 z
-dia/
+di_
 53705	zhs
 53714	ou)ran
 b
@@ -4491,7 +4491,7 @@ b
 53798	a_(/
 53811	ti/nes
 53821	ti/nes
-53834	*di
+53834	*di_
 53844	e)
 53880	si_m
 53901	qe
@@ -4515,7 +4515,7 @@ l
 54130	leg
 54132	l
 plan
-54142	dia/
+54142	di_
 54182	l
 54186	e)
 54200	qe
@@ -4524,7 +4524,7 @@ plan
 54214	i)di
 54220	doc
 54253	daimon
-54270	dia/
+54270	di_
 54317	l
 54322	leg
 54324	ti/nes
@@ -4554,7 +4554,7 @@ leg
 54661	ti/nes
 54666	pias
 54685	ei)p
-54688	*di
+54688	*di_
 54726	l
 54737	leg
 54754	kri^n
@@ -4628,7 +4628,7 @@ a_(/
 55528	q
 55538	h)/n
 55546	qe
-55559	dia/
+55559	di_
 55562	lali
 55580	bol
 55584	e)piqumi
@@ -4638,10 +4638,10 @@ a_(/
 55627	leg
 55634	e)legx
 55640	leg
-dia/
+di_
 55651	qe
 55655	qe
-55657	dia/
+55657	di_
 55665	qe
 55676	leg
 55683	daimon
@@ -4672,7 +4672,7 @@ oi)_d
 55922	qe
 55926	d
 55933	e(
-55954	xamai/
+55954	xam
 55973	niy
 56000	h)/n
 leg
@@ -4702,7 +4702,7 @@ leg
 56248	e)x
 56252	lalhs
 56268	e)
-56275	dia/
+56275	di_
 56283	e)x
 56291	deuter
 56293	h)/n
@@ -4726,9 +4726,9 @@ qe
 56566	leg
 56572	men
 56575	leg
-56580	dia/
+56580	di_
 56588	l
-56599	dia/
+56599	di_
 56625	a)g
 56649	a)kolouqhs
 l
@@ -4746,13 +4746,13 @@ a_(/
 56834	l
 56837	a_(/
 56845	d
-56859	dia/
+56859	di_
 56864	a)gap
 56886	e)cousi
 56888	qein
 56891	e)cousi
 56900	pa_r
-56910	dia/
+56910	di_
 56914	leg
 56919	daimon
 e)x
@@ -4778,7 +4778,7 @@ h)/n
 57047	a(rpas
 57090	*poll
 57094	kal
-57098	dia/
+57098	di_
 po
 57114	l
 57124	q
@@ -4848,7 +4848,7 @@ leg
 57771	leg
 57806	leg
 57815	leg
-57819	i)de/
+57819	*)
 57823	ti/nes
 57853	h)/n
 57861	leg
@@ -4862,7 +4862,7 @@ leg
 h)r
 57905	a)_n
 57921	l
-dia/
+di_
 57927	ei)p
 57959	leg
 57986	ti/nes
@@ -4888,10 +4888,10 @@ dia/
 58253	mur
 58278	mur
 leg
-58292	*di
+58292	*di_
 58296	mu_r
 58317	h)/n
-58366	dia/
+58366	di_
 58379	nekr
 58402	au)r
 58419	bai
@@ -4902,7 +4902,7 @@ leg
 58472	prwt
 58481	h)/n
 58508	nekr
-dia/
+di_
 58543	ti/nes
 58574	leg
 58582	leg
@@ -4920,7 +4920,7 @@ e)
 timhs
 58678	ei)p
 58686	l
-dia/
+di_
 58696	s
 58704	ou)ran
 58716	a_)k
@@ -4937,12 +4937,12 @@ e)
 58838	a)g
 58848	ui(
 58888	kuri
-58891	dia/
+58891	di_
 58908	kardi
 58917	kardi
 58929	doc
 58945	l
-dia/
+di_
 58958	doc
 58964	doc
 58966	qe
@@ -4976,7 +4976,7 @@ a)g
 59266	l
 59273	leg
 59279	e)x
-59302	dia/
+59302	di_
 59322	e(/n
 59340	leg
 59376	leg
@@ -4998,7 +4998,7 @@ h)/n
 59524	leg
 59563	leg
 59581	ti/nes
-59584	e)pei/
+59584	e)p
 59590	leg
 59613	h)/n
 59619	leg
@@ -5019,7 +5019,7 @@ e)xh
 59713	a)g
 59719	a)kolouqhs
 59722	leg
-59726	dia/
+59726	di_
 59737	sou=
 59743	s
 59749	leg
@@ -5038,7 +5038,7 @@ e)xh
 59881	leg
 59923	a_(/
 59925	leg
-59956	dia/
+59956	di_
 59963	leg
 59971	a_(/
 59973	poi
@@ -5078,7 +5078,7 @@ ei)p
 60332	poi
 60334	a)g
 60363	ai(r
-60373	dia/
+60373	di_
 60382	a)g
 60394	e)
 60403	e)
@@ -5107,13 +5107,13 @@ ei)p
 60652	mi_s
 60656	prwt
 60668	i)_di
-60684	dia/
+60684	di_
 60686	mi_s
 60692	log
 60695	ei)p
 60702	kuri
 60719	l
-60725	dia/
+60725	di_
 60746	prof
 60760	mi_s
 60768	a_(/
@@ -5138,7 +5138,7 @@ ei)p
 61026	lalhs
 61034	docas
 61045	e)x
-61050	dia/
+61050	di_
 61052	ei)p
 61084	leg
 61099	a)g
@@ -5148,7 +5148,7 @@ ei)p
 61131	ei)p
 61145	leg
 61170	e)x
-61185	dia/
+61185	di_
 61209	kardi
 61229	leg
 61242	e(
@@ -5160,7 +5160,7 @@ ei)p
 61316	qe
 61336	leg
 61338	maq
-61340	i)de/
+61340	*)
 61346	paroimi
 61367	qe
 61405	e)xh
@@ -5193,7 +5193,7 @@ l
 61746	a)g
 61769	e)rwt
 61771	l
-61776	dia/
+61776	di_
 61778	log
 61791	a)g
 61808	a)g
@@ -5213,7 +5213,7 @@ l
 61992	ti/na
 61999	leg
 62023	e(s
-xamai/
+xam
 62029	ti/na
 62039	ei)p
 62066	si_m
@@ -5264,12 +5264,12 @@ ei)p
 62726	porfur
 62734	leg
 62751	leg
-62753	i)de/
+62753	*)
 a)g
 62759	gnwt
 62777	porfur
 62780	leg
-62782	i)dou/
+62782	*)id
 62798	leg
 62825	o)feil
 62829	qe
@@ -5279,7 +5279,7 @@ a)g
 62878	e)cousi
 62886	e)cousi
 62892	h)/n
-62896	dia/
+62896	di_
 62904	e)x
 62917	e)
 62929	poi
@@ -5290,7 +5290,7 @@ leg
 62955	h)/n
 62961	h)/n
 62965	leg
-62968	i)de/
+62968	*)
 62975	a)ro
 a)ro
 62979	leg
@@ -5307,26 +5307,26 @@ a)ro
 63213	leg
 63220	s
 63222	leg
-63225	i)de/
+63225	*)
 63228	s
 63253	graf
 leg
-63290	e)pei/
+63290	e)p
 63292	h)/n
 63304	h)/n
-63335	a)ll
+63335	a)/llou
 63384	leg
 63394	graf
 63403	graf
 leg
-63424	dia/
+63424	di_
 63430	a)r
 63456	prwt
 63461	a)loh
 63484	h)/n
 63497	kain
 63502	h)/n
-63506	dia/
+63506	di_
 63513	h)/n
 63560	leg
 63562	h)r
@@ -5362,7 +5362,7 @@ leg
 63848	ku_ri
 63864	qur
 63869	maq
-dia/
+di_
 63884	leg
 63902	maq
 63905	ku_ri
@@ -5459,7 +5459,7 @@ maq
 64663	e)
 64669	oi)m
 64678	prwt
-64699	dia/
+64699	di_
 64718	h(mer
 64727	basilei
 64729	qe
@@ -5474,7 +5474,7 @@ l
 64972	h)/n
 64984	e)d
 64987	graf
-64994	dia/
+64994	di_
 65007	h)/n
 65077	e)piskop
 65081	d
@@ -5492,7 +5492,7 @@ frugi
 65401	nwtis
 65415	trit
 65418	l
-65423	dia/
+65423	di_
 65433	leg
 65436	xe
 65443	sark
@@ -5511,7 +5511,7 @@ frugi
 65546	qe
 65571	gnws
 65573	qe
-65575	dia/
+65575	di_
 65577	o(m
 65588	qanat
 65591	h)/n
@@ -5519,9 +5519,9 @@ du_n
 65599	leg
 65604	ku_ri
 w)p
-65607	dia/
+65607	di_
 65611	dec
-65617	dia/
+65617	di_
 65622	kardi
 65626	glwss
 65634	kataskhnws
@@ -5546,7 +5546,7 @@ ei)p
 65927	a)rt
 65933	pas
 yux
-65941	dia/
+65941	di_
 65954	koin
 65985	trof
 65987	a)gallias
@@ -5568,14 +5568,14 @@ yux
 66289	nekr
 66327	oi)_d
 66340	a_(/
-66342	dia/
+66342	di_
 66346	prof
 66366	kair
 66369	w)p
 66371	kuri
 66380	d
 66385	xron
-66392	dia/
+66392	di_
 66395	a(gi
 66399	prof
 66430	e)
@@ -5584,12 +5584,12 @@ yux
 66460	ui(
 66462	prof
 66481	s
-66483	pa/sa_|
+66483	pas
 66485	patri
 66489	prwt
 66522	i(er
 66526	n
-dia/
+di_
 66542	nekr
 66555	h)/n
 66570	a)ndr
@@ -5607,13 +5607,13 @@ w)p
 66845	qe
 66851	a_(/
 66859	a)peilhs
-66868	dia/
+66868	di_
 66875	q
 66879	e)t
 66881	h)/n
 66915	h)r
 66919	q
-66943	dia/
+66943	di_
 66949	s
 66973	kuri
 66985	pol
@@ -5622,7 +5622,7 @@ w)p
 67013	w)ris
 67028	s
 67035	s
-67049	dia/
+67049	di_
 67055	s
 67078	qe
 67086	h)/n
@@ -5638,7 +5638,7 @@ kardi
 67208	tim
 67217	pa_r
 67227	a)nani
-dia/
+di_
 67234	kardi
 s
 67246	tim
@@ -5658,7 +5658,7 @@ s
 67374	eu(r
 67382	dr
 67391	klhsi
-67398	*di
+67398	*di_
 67401	xeir
 67439	a)ndr
 67442	gunaik
@@ -5669,14 +5669,14 @@ e)piskia_s
 67500	zhl
 67512	thrhs
 67516	kuri
-dia/
+di_
 67568	gerousi
 67570	ui(
 67584	eu(r
 67599	pas
 67607	qur
 67623	i(er
-67640	i)dou/
+67640	*)id
 67668	bi
 67723	d
 67749	deci
@@ -5734,8 +5734,8 @@ h)/n
 68667	kardi
 68683	dik
 68685	n
-68697	dia/
-68731	plhsi
+68697	di_
+68731	plhs
 68773	e)t
 68782	sin
 68787	bat
@@ -5782,7 +5782,7 @@ sin
 qe
 69275	dec
 69277	qe
-69280	i)dou/
+69280	*)id
 69291	dec
 69294	qe
 69321	pa_r
@@ -5800,7 +5800,7 @@ e)poi
 69493	pol
 69511	e(
 69519	qe
-69526	dia/
+69526	di_
 69542	basilei
 69544	qe
 69557	si_m
@@ -5810,7 +5810,7 @@ karter
 69606	h)/n
 69619	kuri
 69634	si_m
-69636	dia/
+69636	di_
 69640	xeir
 69651	a)m
 69653	e)cousi
@@ -5818,7 +5818,7 @@ karter
 q
 69671	s
 69681	qe
-69683	dia/
+69683	di_
 69698	kardi
 s
 69705	qe
@@ -5836,7 +5836,7 @@ stref
 69785	meshmbri
 69811	h)/n
 69822	h)/n
-69860	a)/ra
+69860	*)ar
 69863	a_(/
 69872	e)
 69875	o(dhghs
@@ -5847,7 +5847,7 @@ stref
 69924	h(ghs
 69941	s
 69946	leg
-69985	i)dou/
+69985	*)id
 70018	kuri
 70044	pol
 70046	e(
@@ -5865,7 +5865,7 @@ stref
 h)/n
 70203	a)ni
 70212	a)nani
-70216	i)dou/
+70216	*)id
 70245	dr
 i)
 70257	a)ni
@@ -5887,13 +5887,13 @@ pa_r
 70410	leg
 70480	e)l
 70484	maq
-70487	dia/
+70487	di_
 70521	a(ghs
 70529	ku_ri
 70544	h)/n
 70557	kuri
 70603	kuri
-70615	dia/
+70615	di_
 70633	e)t
 70639	h)/n
 70647	i)a_t
@@ -5906,7 +5906,7 @@ pa_r
 70715	maq
 70731	e(
 70743	e)rw
-70747	pa/sa_|
+70747	pas
 70749	xhr
 70757	e)poi
 70762	dork
@@ -5916,7 +5916,7 @@ pa_r
 70850	q
 70856	poi
 70864	qe
-dia/
+di_
 70870	faner
 70879	qe
 70903	s
@@ -5937,10 +5937,10 @@ dia/
 71064	koin
 71113	si_m
 71121	petr
-71129	i)dou/
+71129	*)id
 71134	l
 71147	b
-71154	i)dou/
+71154	*)id
 71161	ai)ti
 71175	q
 71195	a)k
@@ -5967,7 +5967,7 @@ prosdok
 71389	qe
 71391	a)k
 71398	kuri
-71436	dia/
+71436	di_
 71479	i)
 71485	bol
 71489	h)/n
@@ -5979,7 +5979,7 @@ prosdok
 71563	qe
 71567	nekr
 71571	prof
-71576	dia/
+71576	di_
 71588	petr
 71592	e(/n
 71607	tomh
@@ -6009,7 +6009,7 @@ a_(/
 71960	q
 71964	h(suxas
 71968	q
-71970	a)/ra
+71970	*)ar
 71977	oi)
 71993	e(
 72009	ti/nes
@@ -6026,9 +6026,9 @@ a_(/
 72127	prwt
 72129	o)x
 72141	prof
-72152	dia/
+72152	di_
 72177	koni
-72192	dia/
+72192	di_
 72239	pi
 72267	h)/n
 72275	q
@@ -6042,7 +6042,7 @@ a_(/
 72353	leg
 72358	s
 72369	a)lhq
-72373	dia/
+72373	di_
 72421	oi)_d
 72460	i(kan
 72468	qur
@@ -6054,7 +6054,7 @@ a(ghs
 72568	a)r
 72592	h)/n
 72605	blast
-72614	dia/
+72614	di_
 72619	xwr
 72642	qe
 72652	kuri
@@ -6064,7 +6064,7 @@ a(ghs
 72691	o)x
 72695	klhsi
 prof
-72732	dh/
+72732	d
 72778	qe
 72793	nhs
 72796	eu(r
@@ -6107,7 +6107,7 @@ i(st
 73326	s
 73334	h)reths
 73337	qe
-73364	dia/
+73364	di_
 73397	katafron
 73415	e)
 73417	e)kdihg
@@ -6127,7 +6127,7 @@ prwt
 73605	pod
 73613	maq
 73658	i(kan
-73680	dia/
+73680	di_
 73682	xeir
 73723	pol
 73732	a)k
@@ -6143,7 +6143,7 @@ prwt
 73917	pipl
 trof
 73969	au)r
-74005	dia/
+74005	di_
 74008	d
 74013	basilei
 74015	qe
@@ -6161,11 +6161,11 @@ trof
 74226	log
 74240	st
 74243	h(mer
-74250	dia/
+74250	di_
 74254	a)k
 74296	q
 74313	l
-dia/
+di_
 74318	kuri
 74362	a(ghs
 74364	prwt
@@ -6185,25 +6185,25 @@ l
 74470	e)x
 74486	o(l
 74488	e)kklhsi
-74513	dia/
+74513	di_
 74527	*suri
 74538	ti/nes
 74576	kuri
-74587	dia/
+74587	di_
 log
 74601	pl
 74650	prof
-74652	dia/
+74652	di_
 log
 74679	o)x
 74690	kuri
-74700	dh/
+74700	d
 74713	kuri
 74730	st
 74771	kuri
 74778	*suri
 74796	h)/n
-74827	dia/
+74827	di_
 74849	pol
 74868	e)kklhsi
 74881	frugi
@@ -6212,7 +6212,7 @@ log
 74900	musi
 74904	*biquni
 74916	musi
-74922	dia/
+74922	di_
 74930	h)/n
 74937	b
 74971	ne
@@ -6236,7 +6236,7 @@ doul
 75177	a_(/
 75241	u(mn
 75243	q
-75265	pa/sa_|
+75265	pas
 75314	e(/n
 75324	kuri
 75327	d
@@ -6255,7 +6255,7 @@ doul
 75632	*)i_as
 75658	i(kan
 pa_r
-75671	dia/
+75671	di_
 75673	y
 75723	gunaik
 75727	a)ndr
@@ -6296,8 +6296,8 @@ dok
 76143	s
 76153	mes
 76155	ti/nes
-76202	dia/
-76216	dia/
+76202	di_
+76216	di_
 76229	texn
 76295	b
 76306	q
@@ -6325,8 +6325,8 @@ dok
 76619	e)pist
 76646	qe
 76653	a)xai
-76668	dia/
-76678	dia/
+76668	di_
+76678	di_
 76690	l
 76768	kuri
 76802	mhn
@@ -6338,7 +6338,7 @@ dok
 a)k
 76853	kuri
 76865	e)poi
-dia/
+di_
 76868	xeir
 76893	ponhr
 76897	ti/nes
@@ -6369,7 +6369,7 @@ dia/
 77152	l
 77156	a)si
 77162	i(kan
-77170	dia/
+77170	di_
 xeir
 77184	l
 77189	qea_
@@ -6395,7 +6395,7 @@ h)/n
 77437	klhsi
 77472	mhn
 77484	*suri
-77489	dia/
+77489	di_
 77537	h(mer
 77551	kl
 77560	au)r
@@ -6432,7 +6432,7 @@ oi)
 77923	qe
 77942	klhsi
 77944	qe
-77947	dia/
+77947	di_
 77951	i)di
 77953	oi)_d
 77960	luk
@@ -6442,12 +6442,12 @@ oi)
 78049	d
 78056	log
 78058	kuri
-78126	k
+78126	kw=
 78139	a)per
 78154	*suri
 78163	h)/n
 78178	leg
-dia/
+di_
 78189	a)rtis
 78202	e(
 78233	tur
@@ -6461,7 +6461,7 @@ dia/
 78373	kuri
 78382	kuri
 78441	h(g
-78452	dia/
+78452	di_
 78461	q
 78477	zhl
 78484	sou=
@@ -6476,8 +6476,8 @@ dia/
 78679	pol
 78709	i(er
 78769	l
-78784	dia/
-78805	dia/
+78784	di_
+78805	di_
 78807	bi
 78827	leg
 78843	a)r
@@ -6559,15 +6559,15 @@ qanat
 80049	dr
 80052	e)my
 80063	sou=
-80076	dia/
+80076	di_
 80083	au)r
 80115	poi
 80124	s
 80130	s
 80147	a)ni
-80173	dia/
+80173	di_
 sou=
-80181	dia/
+80181	di_
 80183	sh
 80199	plei
 80203	a)k
@@ -6583,7 +6583,7 @@ sou=
 80366	q
 80375	dikai
 80389	q
-80393	dia/
+80393	di_
 80396	e)t
 80410	eu(r
 80422	ti/nes
@@ -6672,14 +6672,14 @@ a)ci
 81718	*kaisar
 81727	*)itali
 81751	a)si
-81785	dia/
+81785	di_
 81806	a)k
-81812	ple
+81812	pl
 81815	*)itali
 81835	a)nem
 81854	h)/n
 81857	i(kan
-81867	dia/
+81867	di_
 81894	l
 81897	yu_x
 81936	foinik
@@ -6710,7 +6710,7 @@ o)rgui
 82283	trof
 82308	w)p
 82321	trof
-82325	pa/sa_|
+82325	pas
 82335	trof
 82371	ei)
 82402	prw|r
@@ -6721,9 +6721,9 @@ o)rgui
 82441	kolumb
 82482	barbar
 82491	pur
-82495	dia/
+82495	di_
 82497	u(_
-82501	dia/
+82501	di_
 82515	pur
 82529	barbar
 krem
@@ -6738,12 +6738,12 @@ krem
 82733	for
 82735	tri
 82784	ti_
-82807	dia/
+82807	di_
 82811	qanat
 82815	leg
 82819	a)gkasq
 82821	*kaisar
-82830	dia/
+82830	di_
 82839	lalhs
 82859	sou=
 82874	sou=
@@ -6756,7 +6756,7 @@ a_(/
 82926	prof
 82929	e(
 82952	*kalw
-82958	dia/
+82958	di_
 82973	ei)p
 82986	i)d
 82990	kardi
@@ -6766,7 +6766,7 @@ a_(/
 83056	qe
 83062	kuri
 83078	qe
-83081	dia/
+83081	di_
 83083	prof
 83098	sark
 83102	qe
@@ -6776,9 +6776,9 @@ a_(/
 83155	qe
 83159	kuri
 83162	prwt
-83168	dia/
+83168	di_
 83221	qe
-83245	dia/
+83245	di_
 83274	sx
 83287	barbar
 83312	qe
@@ -6802,7 +6802,7 @@ o(r
 83469	yeud
 83475	ktis
 pa_r
-83486	*di
+83486	*di_
 83503	xr
 83506	pa_r
 83508	o(moi
@@ -6840,7 +6840,7 @@ doc
 83761	prwt
 83777	prwt
 83784	pa_r
-83799	dia/
+83799	di_
 83807	dikai
 pa_r
 83813	poi
@@ -6849,14 +6849,14 @@ pa_r
 83858	log
 83862	kri^n
 83866	krupt
-83873	dia/
+83873	di_
 83880	o)nomaz
 83882	au)
 83905	tufl
 83909	skot
 83913	nhpi
 83916	morf
-83951	dia/
+83951	di_
 83957	q
 83963	qe
 83972	tomh
@@ -6868,7 +6868,7 @@ s
 83997	fu_lass
 84006	kri^n
 84013	tel
-84016	dia/
+84016	di_
 84019	tomh
 ba
 84037	tomh
@@ -6886,7 +6886,7 @@ katarghs
 84131	qe
 84133	sunist
 84146	leg
-84149	e)pei/
+84149	e)p
 84151	kri^n
 84161	qe
 84169	doc
@@ -6906,25 +6906,25 @@ katarghs
 84289	qe
 84300	leg
 84326	w)p
-84328	dia/
+84328	di_
 84338	qe
 84346	prof
 84349	qe
-dia/
+di_
 84370	qe
-84376	dia/
-84388	dia/
-84399	dia/
+84376	di_
+84388	di_
+84399	di_
 84407	o)x
 84409	qe
-84436	dia/
+84436	di_
 poi
 84442	l
-dia/
+di_
 84462	na_i+/
 84470	dikaiws
-84476	dia/
-84482	dia/
+84476	di_
+84482	di_
 84487	l
 84499	sark
 84506	e)x
@@ -6941,10 +6941,10 @@ leg
 84656	tomh
 84660	tomh
 84662	l
-84678	dia/
+84678	di_
 84693	l
-dia/
-84722	*di
+di_
+84722	*di_
 84744	l
 84766	qe
 84798	s
@@ -6955,17 +6955,17 @@ l
 84860	l
 84874	ku_ri
 84877	nekr
-84880	dia/
-84886	dia/
+84880	di_
+84886	di_
 84898	q
-dia/
+di_
 84901	kuri
 84927	qe
 84931	l
 84955	ai)sxu_n
 84958	a)gaph
 84960	qe
-84966	dia/
+84966	di_
 84977	a)sqen
 84987	dikai
 84993	a)gaq
@@ -6973,30 +6973,30 @@ dia/
 84999	sunist
 85003	a)gaph
 85031	o)rg
-85039	dia/
+85039	di_
 85041	qanat
 85056	l
-85062	dia/
+85062	di_
 85064	kuri
 85072	a)llag
-85074	*di
-85087	dia/
+85074	*di_
+85087	di_
 85108	h)/n
 85118	l
 85165	qe
-85214	dia/
-85233	dia/
-85238	a)/ra
-85262	dia/
+85214	di_
+85233	di_
+85238	*)ar
+85262	di_
 85264	ko
-85274	dia/
+85274	di_
 85279	dikai
-85311	dia/
-85316	dia/
+85311	di_
+85316	di_
 85320	kuri
-85359	dia/
+85359	di_
 85370	nekr
-dia/
+di_
 85390	qanat
 85392	l
 85439	nekr
@@ -7010,7 +7010,7 @@ z
 85553	doul
 85571	doul
 85592	leg
-dia/
+di_
 85605	doul
 85620	doul
 85627	doul
@@ -7023,24 +7023,24 @@ dia/
 85732	xrhmatis
 e)
 85737	e)
-85763	dia/
+85763	di_
 85775	nekr
-85792	dia/
+85792	di_
 85833	l
-85840	dia/
+85840	di_
 85845	qumi
 85854	qu_mhs
 a)formh
-85860	dia/
+85860	di_
 85867	qumi
 85903	a)formh
-85905	dia/
+85905	di_
 85924	dikai
 85935	l
 85939	fan
-85941	dia/
+85941	di_
 85943	a)gaq
-85954	dia/
+85954	di_
 85987	poi
 85994	poi
 86006	l
@@ -7053,14 +7053,14 @@ a)formh
 86069	a)r
 86088	qe
 86131	qanat
-86136	dia/
+86136	di_
 86140	kuri
 86142	a)r
 86148	n
 86151	qe
 86158	a)r
 86184	qanat
-86193	dia/
+86193	di_
 86226	sark
 86228	l
 86234	sark
@@ -7071,14 +7071,14 @@ a)formh
 86299	qe
 oi)k
 86309	e)x
-86323	dia/
-86329	dia/
+86323	di_
+86329	di_
 86340	nekr
 oi)k
 86347	nekr
 86350	zwopoihs
-86356	dia/
-86363	a)/ra
+86356	di_
+86363	*)ar
 86373	sark
 86378	sark
 z
@@ -7096,7 +7096,7 @@ z
 86470	ui(
 86472	qe
 86482	l
-dia/
+di_
 86501	e)leuqeri
 86505	tekn
 86507	qe
@@ -7123,7 +7123,7 @@ qe
 86732	a)gaph
 86752	sou=
 86765	ni_k
-dia/
+di_
 86800	a)gaph
 86802	qe
 86811	leg
@@ -7167,8 +7167,8 @@ qe
 87231	e)
 87236	ui(
 87251	poihs
-87301	dia/
-87318	i)dou/
+87301	di_
+87318	*)id
 87326	skandal
 87346	q
 87351	martur
@@ -7203,7 +7203,7 @@ s
 87557	a)postal
 87575	leg
 87582	a)r
-87590	dia/
+87590	di_
 87593	l
 leg
 87610	pera_t
@@ -7228,13 +7228,13 @@ leg
 87732	l
 87734	leg
 87757	log
-87766	e)pei/
+87766	e)p
 87775	e)pizht
 87782	logh
 87805	e(
 87811	leg
 87820	qhr
-87839	dia/
+87839	di_
 87842	leg
 87850	l
 87860	parazhlws
@@ -7257,13 +7257,13 @@ l
 88016	qe
 88026	qe
 e)
-88031	e)pei/
+88031	e)p
 88037	e)
 88041	i(sti
 88061	pa_r
 88075	e)lai+
 88143	log
-88145	dia/
+88145	di_
 88156	qe
 88177	e)le
 88194	e)lehs
@@ -7271,7 +7271,7 @@ e)
 88211	o(d
 88216	n
 kuri
-88252	dia/
+88252	di_
 88256	qe
 88261	qusi
 88263	a(gi
@@ -7281,7 +7281,7 @@ morf
 88291	qe
 88297	telei
 leg
-88300	dia/
+88300	di_
 88315	d
 88317	l
 88344	e)x
@@ -7319,13 +7319,13 @@ tag
 88605	e)cousi
 88614	qe
 88622	e)
-88630	ei)kh=|
+88630	ei)k
 88633	for
 qe
-88650	dia/
+88650	di_
 88653	l
-88655	dia/
-88658	dia/
+88655	di_
+88658	di_
 88663	tel
 88666	qe
 88693	tim
@@ -7334,10 +7334,10 @@ qe
 88706	a)gap
 88720	qu_mhs
 88733	a)gaphs
-88735	plhsi
+88735	plhs
 s
 88740	a)gaph
-88742	plhsi
+88742	plhs
 88750	a)gaph
 88761	u(pn
 88779	o)q
@@ -7367,7 +7367,7 @@ s
 89011	a)r
 89025	l
 89037	oi)_d
-89059	dia/
+89059	di_
 89063	s
 89067	a)gaph
 89072	s
@@ -7379,17 +7379,17 @@ s
 89134	lu_
 89138	qe
 89142	l
-89147	dia/
+89147	di_
 89163	s
 89172	w)p
 89174	qe
 89186	e)
 89209	a)dunat
-89218	plhsi
+89218	plhs
 89232	l
 89240	e(s
-89252	dia/
-89256	dia/
+89252	di_
+89256	di_
 89289	q
 89293	kuri
 89307	doc
@@ -7399,13 +7399,13 @@ leg
 89318	qe
 89331	doc
 89333	q
-89336	*di
+89336	*di_
 89345	s
 89349	leg
 89363	ku_ri
 89373	leg
 89425	mest
-89445	dia/
+89445	di_
 89453	qe
 89468	qe
 89490	q
@@ -7420,19 +7420,19 @@ e)t
 89621	a)xai
 89629	a(gi
 89668	oi)_d
-89683	dia/
+89683	di_
 89685	kuri
-89690	dia/
+89690	di_
 89692	a)gaph
 89704	q
 89715	koni
-89730	dia/
+89730	di_
 89732	qe
 89747	foibh
 89765	a(gi
 89773	xrhi+z
 89808	l
-89810	pa/sa_|
+89810	pas
 89812	e)kklhsi
 89820	klhsi
 89824	a)gap
@@ -7442,19 +7442,19 @@ e)t
 89883	*)apell
 89941	e(rm
 89972	e)kklhsi
-pa/sa_|
+pas
 89987	pa_r
 90007	l
-90012	dia/
+90012	di_
 90017	a)pat
 90051	suntriy
 90063	kuri
 90077	*)i_as
-90137	dia/
+90137	di_
 90142	e)pitag
 90145	qe
-90157	dia/
-90174	dia/
+90157	di_
+90174	di_
 90176	qe
 90182	e)kklhsi
 90184	qe
@@ -7469,7 +7469,7 @@ pa/sa_|
 90280	e(
 90287	kuri
 90305	kuri
-90311	dia/
+90311	di_
 90315	kuri
 90322	leg
 90336	n
@@ -7487,9 +7487,9 @@ pa/sa_|
 90472	e(/twn
 a)qeths
 90497	qe
-90502	dia/
+90502	di_
 90506	q
-90510	dia/
+90510	di_
 90531	taur
 90547	qe
 90550	qe
@@ -7523,7 +7523,7 @@ a)g
 90801	a_(/
 90811	kardi
 90820	a)gap
-90827	dia/
+90827	di_
 90839	qe
 90860	qe
 90868	qe
@@ -7558,7 +7558,7 @@ pa_r
 91117	e)poikodom
 91136	dhlws
 91155	men
-91172	dia/
+91172	di_
 91178	qe
 91184	qe
 91187	oi)k
@@ -7584,16 +7584,16 @@ pa_r
 91411	kri^n
 91444	dok
 91465	mwr
-dia/
+di_
 91477	i)sxur
 91479	doc
 91482	a)ti_m
 91516	e(
 91529	e)
 91533	e)xh
-91544	dia/
+91544	di_
 91553	mi_m
-91556	*di
+91556	*di_
 91559	e)my
 91566	a)gap
 91573	a)namnhs
@@ -7614,7 +7614,7 @@ e)kklhsi
 91739	mi_kr
 91744	zu_m
 91751	n
-91803	e)pei/
+91803	e)p
 91805	a)r
 91816	e)
 91852	kri^n
@@ -7630,8 +7630,8 @@ e)xh
 91930	a)n
 91935	l
 91943	i(st
-91956	dia/
-91961	dia/
+91956	di_
+91961	di_
 91966	l
 91970	ster
 91979	qe
@@ -7648,16 +7648,16 @@ qe
 92064	katarghs
 92071	l
 92084	ku_ri
-92089	dia/
+92089	di_
 92102	a)r
 92130	sark
 92146	e)
 92158	i)_di
 92178	qe
 92185	tim
-92187	dh/
+92187	d
 92189	q
-92203	dia/
+92203	di_
 92215	i)_di
 dr
 92225	o(moi
@@ -7667,7 +7667,7 @@ dr
 92248	i)di
 92252	l
 92256	ster
-92281	dia/
+92281	di_
 92287	leg
 92292	e)pitag
 92301	l
@@ -7687,7 +7687,7 @@ e)x
 dr
 92398	suneudok
 92405	dr
-92424	e)pei/
+92424	e)p
 a)r
 92464	dr
 92507	tomh
@@ -7702,7 +7702,7 @@ a)r
 92577	e)pitag
 kuri
 92587	kuri
-92595	dia/
+92595	di_
 92616	e)
 92623	e)
 92679	xr
@@ -7780,9 +7780,9 @@ e)
 93459	qe
 93470	a)sqen
 93485	poi
-dia/
+di_
 93541	l
-93572	dia/
+93572	di_
 93601	o)/n
 93612	h)/n
 93631	tup
@@ -7813,11 +7813,11 @@ qu
 93867	ku_ri
 93883	oi)kodom
 93888	l
-93900	dia/
+93900	di_
 93904	kuri
 93914	kal
 93917	i(st
-93928	dia/
+93928	di_
 93931	e)
 93950	leg
 93954	l
@@ -7837,15 +7837,15 @@ qe
 94118	ei)k
 94121	qe
 94135	l
-94144	dia/
+94144	di_
 94147	l
-94149	dia/
+94149	di_
 94151	dr
-dia/
+di_
 94154	o)feil
 94157	e)cousi
-94162	dia/
-94187	dia/
+94162	di_
+94187	di_
 94195	qe
 94216	e)
 kom
@@ -7876,19 +7876,19 @@ pinh
 a)ggell
 94448	pin
 94452	kuri
-a)naci
+a)ci
 94462	kuri
 94471	a)rt
 94482	pin
 94487	pin
-94492	dia/
+94492	di_
 94502	i(kan
 94514	kuri
 94579	qe
 lal
 leg
 94605	koni
-94638	dia/
+94638	di_
 94676	pneumat
 94687	e)nerg
 94694	diair
@@ -7951,11 +7951,11 @@ e)
 95308	kaluy
 95326	e)
 95341	e)
-95353	dia/
+95353	di_
 95356	e)
 95381	e)
 95395	lal
-95402	e)pei/
+95402	e)p
 zhl
 95405	pneumat
 95416	lal
@@ -7963,7 +7963,7 @@ zhl
 e)
 95445	n
 95453	n
-e)pei/
+e)p
 e)
 95459	a)naplhr
 95465	e)r
@@ -8004,7 +8004,7 @@ e)x
 95785	dok
 95791	a_(/
 95795	kuri
-95851	ei)kh=|
+95851	ei)k
 95880	trit
 95893	a)n
 95902	e(
@@ -8038,7 +8038,7 @@ nekr
 96160	d
 96166	q
 96202	ta_g
-96224	e)pei/
+96224	e)p
 96231	nekr
 96234	nekr
 96251	n
@@ -8076,7 +8076,7 @@ qe
 96604	s
 96609	s
 96617	qanat
-96636	dia/
+96636	di_
 96638	kuri
 96646	e(drai
 96654	kuri
@@ -8108,7 +8108,7 @@ qe
 96968	ku_ri
 96976	kuri
 96981	a)gaph
-96993	dia/
+96993	di_
 96995	qe
 97001	e)kklhsi
 97003	qe
@@ -8121,16 +8121,16 @@ qe
 97054	qli_y
 97063	pas
 qli_y
-dia/
+di_
 97073	qe
-97084	dia/
+97084	di_
 97150	a)si
 97163	l
 97170	qanat
 97189	qanat
 97207	dehs
 97211	swp
-97216	dia/
+97216	di_
 97238	qe
 97246	qe
 97257	l
@@ -8157,7 +8157,7 @@ nai/
 97512	sx
 97515	e)d
 97534	sunox
-97538	dia/
+97538	di_
 97544	l
 97546	a)gaph
 97548	gnwt
@@ -8178,7 +8178,7 @@ a)g
 97798	dia_konhq
 97804	l
 97806	qe
-97821	dia/
+97821	di_
 97826	q
 97831	i(kan
 97844	qe
@@ -8188,7 +8188,7 @@ a)g
 97869	qanat
 97873	liq
 97876	doc
-97888	dia/
+97888	di_
 97890	doc
 97892	w)p
 97900	koni
@@ -8196,7 +8196,7 @@ a)g
 97909	koni
 97917	koni
 97920	doc
-97939	dia/
+97939	di_
 97946	doc
 97953	xr
 97976	l
@@ -8212,7 +8212,7 @@ kuri
 98048	metamorf
 98052	doc
 98055	kuri
-98057	*di
+98057	*di_
 98061	koni
 98066	kak
 l
@@ -8228,13 +8228,13 @@ l
 98138	qe
 98143	l
 98146	ku_ri
-98151	dia/
+98151	di_
 98161	lamy
 98175	qe
 98194	qe
-98245	dia/
+98245	di_
 98294	ku_ri
-98314	dia/
+98314	di_
 98319	perisseus
 98322	doc
 98324	qe
@@ -8247,13 +8247,13 @@ l
 98424	skhn
 98435	o)q
 98469	kuri
-dia/
-98475	dia/
+di_
+98475	di_
 98482	dhmhs
 98487	dhmhs
 98490	ku_ri
 98506	d
-98516	dia/
+98516	di_
 98520	a_(/
 98531	kuri
 98550	l
@@ -8268,7 +8268,7 @@ a)formh
 98623	sark
 98625	l
 98647	qe
-98652	dia/
+98652	di_
 98658	koni
 98664	h)/n
 98690	qe
@@ -8283,10 +8283,10 @@ a)formh
 98764	qe
 98799	a)gap
 98806	qe
-dia/
+di_
 98813	dec
-98816	dia/
-98820	dia/
+98816	di_
+98820	di_
 98866	kardi
 98885	leg
 98921	qe
@@ -8322,13 +8322,13 @@ dik
 99205	a)r
 99230	w)p
 99232	qe
-dia/
+di_
 99315	qe
 99349	martur
 99351	pa_r
 99374	l
 99377	prwt
-99382	dia/
+99382	di_
 99384	qe
 99406	perisseu
 99413	pas
@@ -8336,7 +8336,7 @@ dia/
 99431	e)pitag
 leg
 l
-dia/
+di_
 99442	a)gaph
 99450	kuri
 99480	l
@@ -8346,7 +8346,7 @@ dia/
 99518	e)x
 99579	kardi
 99593	e)my
-99605	dia/
+99605	di_
 99608	e)kklhs
 99612	l
 99617	e)kklhs
@@ -8382,15 +8382,15 @@ l
 99937	plhr
 99941	a(gi
 l
-99945	dia/
-99950	dia/
+99945	di_
+99950	di_
 99958	q
 99961	tag
 99981	dehs
-99986	dia/
+99986	di_
 99991	qe
 100001	dwr
-100008	dia/
+100008	di_
 100031	par
 100045	sark
 100053	sark
@@ -8401,7 +8401,7 @@ dunat
 100096	ko
 100124	e)
 100149	doc
-100154	dia/
+100154	di_
 100170	a)sqen
 100203	l
 100222	l
@@ -8419,7 +8419,7 @@ dunat
 100439	koni
 100441	par
 100485	a)xai
-dia/
+di_
 100490	a)gap
 100497	poi
 100503	a)formh
@@ -8430,7 +8430,7 @@ dia/
 100573	a)g
 100581	ku_ri
 100590	sta_s
-100593	e)pei/
+100593	e)p
 100598	sark
 a)g
 100613	doul
@@ -8454,8 +8454,8 @@ a)g
 100773	kuri
 100789	a)ret
 100796	pias
-100799	dia/
-100804	dia/
+100799	di_
+100804	di_
 100813	d
 100823	kuri
 oi)_d
@@ -8478,7 +8478,7 @@ oi)_d
 100998	a)sqen
 101003	a)fr
 101032	pas
-101062	i)dou/
+101062	*)id
 101078	l
 101082	o)feil
 101088	l
@@ -8494,7 +8494,7 @@ oi)_d
 101238	leg
 101240	par
 101253	e)
-101260	e)pei/
+101260	e)p
 101272	a)sqen
 l
 101282	l
@@ -8507,7 +8507,7 @@ z
 101346	dokim
 fan
 101366	l
-101385	*di
+101385	*di_
 101391	par
 101397	e)cousi
 101412	katartiz
@@ -8517,7 +8517,7 @@ kal
 101446	a)gaph
 101448	qe
 101466	l
-dia/
+di_
 101471	qe
 101477	nekr
 101493	qe
@@ -8537,7 +8537,7 @@ dia/
 101660	klhsi
 101662	qe
 101664	porq
-101697	dia/
+101697	di_
 101728	l
 101731	*)arabi
 101764	kuri
@@ -8546,10 +8546,10 @@ a_(/
 101772	qe
 101782	*suri
 101819	q
-101821	dia/
+101821	di_
 101823	e)t
 101848	i)di
-101869	dia/
+101869	di_
 101876	skophs
 101878	e)leuqeri
 101887	doulws
@@ -8567,12 +8567,12 @@ ti
 102057	ei)p
 102077	fu_s
 102093	e)
-102095	dia/
+102095	di_
 102133	a)r
 102141	a_(/
 102145	oi)kodom
 ba
-102151	dia/
+102151	di_
 102159	taur
 z
 102164	z
@@ -8580,11 +8580,11 @@ z
 102177	z
 102182	qe
 102196	qe
-102199	dia/
+102199	di_
 102202	a)r
 102242	e)pitel
-102245	ei)kh=|
-102249	ei)kh=|
+102245	ei)k
+102249	ei)k
 102279	a)r
 102285	ui(
 102291	graf
@@ -8595,7 +8595,7 @@ z
 102379	h)gora_s
 102382	a)_r
 102388	katar
-102415	dia/
+102415	di_
 102421	leg
 102441	leg
 102455	s
@@ -8612,7 +8612,7 @@ z
 102558	graf
 102610	ui(
 qe
-102613	dia/
+102613	di_
 102653	a)r
 102661	leg
 102672	doul
@@ -8620,7 +8620,7 @@ qe
 102723	a)gora_s
 102731	ui(
 102752	l
-102759	dia/
+102759	di_
 qe
 l
 102766	q
@@ -8630,7 +8630,7 @@ l
 102787	a)sqen
 102797	parathr
 102799	mhn
-102808	ei)kh=|
+102808	ei)k
 102816	a)g
 102848	l
 102851	qe
@@ -8641,7 +8641,7 @@ klei+s
 102924	lac
 102932	leg
 102966	sark
-102973	dia/
+102973	di_
 102988	sin
 102998	sin
 103003	*)arabi
@@ -8655,7 +8655,7 @@ klei+s
 103074	leg
 103076	graf
 103103	l
-103119	i)de/
+103119	*)
 103122	leg
 103125	e)
 103130	w)felhs
@@ -8669,10 +8669,10 @@ klei+s
 103249	e)leuqeri
 103251	a)formh
 103254	l
-dia/
+di_
 103257	a)gaph
 103270	a)gaphs
-103272	plhsi
+103272	plhs
 s
 103286	a)_lwq
 leg
@@ -8705,7 +8705,7 @@ speir
 103514	speir
 103517	sark
 103526	speir
-103548	a)/ra
+103548	*)ar
 103596	fu_lass
 l
 103618	kuri
@@ -8714,7 +8714,7 @@ l
 103636	l
 103655	qe
 103676	kuri
-103690	dia/
+103690	di_
 103692	qe
 103700	pist
 103709	qe
@@ -8724,14 +8724,14 @@ l
 103744	a)bol
 103751	w)p
 103754	a)gap
-103759	dia/
+103759	di_
 103786	a)polutr
-dia/
+di_
 103806	pas
 103809	fronhs
 103830	kair
 103910	a)polutr
-103918	*di
+103918	*di_
 103920	a)g
 a_)k
 103932	a)gaph
@@ -8748,9 +8748,9 @@ a_)k
 104148	fu_s
 o)rg
 104160	e)le
-dia/
+di_
 104164	a)gaph
-104216	dia/
+104216	di_
 104223	qe
 104267	tomh
 104284	cen
@@ -8758,7 +8758,7 @@ dia/
 104352	kain
 104354	poi
 104357	katallac
-104365	dia/
+104365	di_
 104370	e)xqr
 104398	a)r
 104402	cen
@@ -8770,23 +8770,23 @@ dia/
 104442	sunoikodom
 104446	qe
 104470	qe
-104533	dia/
+104533	di_
 104545	qe
 104559	a(gi
-104602	dia/
+104602	di_
 104609	qe
-104632	dia/
+104632	di_
 104662	patri
-104680	dia/
+104680	di_
 104688	oi)khs
-104691	dia/
+104691	di_
 104699	a)gap
 104725	a)gaph
 104735	qe
 104759	e)kklhsi
 104782	paths
 104797	a)gap
-104838	dia/
+104838	di_
 104858	leg
 b
 104880	katwter
@@ -8801,15 +8801,15 @@ telei
 104976	o(di
 104978	planh
 104982	a)gap
-105001	dia/
+105001	di_
 105003	a(f
 105022	a)gap
 105025	leg
 105037	peripat
 105045	oi)
 105051	qe
-dia/
-105059	dia/
+di_
+105059	di_
 105102	e)r
 strof
 105105	palai
@@ -8817,7 +8817,7 @@ strof
 105113	a)path
 105124	kain
 105128	q
-105145	plhsi
+105145	plhs
 105195	l
 105216	qe
 105237	pas
@@ -8832,7 +8832,7 @@ l
 105327	e)x
 105331	basilei
 105335	qe
-105341	dia/
+105341	di_
 105348	qe
 105371	pat
 105378	pas
@@ -8841,7 +8841,7 @@ l
 105438	faus
 105446	peripat
 105452	sof
-105461	dia/
+105461	di_
 105466	l
 105472	kuri
 105481	l
@@ -8887,10 +8887,10 @@ kuri
 105875	bol
 105885	sark
 l
-105907	dia/
+105907	di_
 105913	qe
 105982	qe
-dia/
+di_
 105999	pas
 proskarterhs
 106002	dehs
@@ -8913,7 +8913,7 @@ proskarterhs
 dehs
 106157	d
 106183	e)piteles
-106197	dia/
+106197	di_
 106203	kardi
 106208	desm
 106215	bebaiws
@@ -8921,31 +8921,31 @@ dehs
 106249	perisseu
 106251	gnws
 106253	pas
-106273	dia/
+106273	di_
 106277	doc
 106280	qe
 106321	desm
 106324	tolm
 106329	qe
 106331	ti/nes
-106334	dia/
+106334	di_
 106338	ti/nes
 106349	a)gaph
 106370	desm
 106379	fa_s
 106388	l
 106391	oi)_d
-106399	dia/
+106399	di_
 106421	pas
-106434	dia/
-106437	dia/
+106434	di_
+106437	di_
 qanat
 106469	qumi
 106473	lu_s
 106487	a)nagkai_
 106493	oi)_d
 106512	perisseu
-106518	dia/
+106518	di_
 106550	yux
 106575	qe
 106588	l
@@ -8981,7 +8981,7 @@ qe
 106992	sx
 106995	e)my
 107002	a)g
-107019	dia/
+107019	di_
 107024	qanat
 107028	yux
 107030	a_)naplhrws
@@ -8993,14 +8993,14 @@ qe
 107118	klhsi
 107126	l
 107128	h)/n
-107133	dia/
+107133	di_
 107136	zhmi
 l
 107144	zhmi
-107146	dia/
+107146	di_
 107154	kuri
 107178	l
-107180	dia/
+107180	di_
 107185	qe
 107209	a)nths
 107215	nekr
@@ -9046,16 +9046,16 @@ e)piz
 107674	plhrws
 107683	doc
 107728	kuri
-107739	dia/
+107739	di_
 107741	qe
 107751	pist
 107760	qe
 107768	kuri
 107785	a)gaph
-107792	dia/
+107792	di_
 107837	qe
 107862	a)gaph
-107865	*di
+107865	*di_
 107888	pas
 107891	e(s
 107893	paths
@@ -9075,9 +9075,9 @@ e)piz
 108041	nekr
 108055	oi)khs
 108059	la_c
-108065	dia/
+108065	di_
 108091	oi)
-108106	dia/
+108106	di_
 108108	qanat
 108116	w)p
 108125	e(drai
@@ -9096,13 +9096,13 @@ ktis
 108343	l
 108370	ku_ri
 108373	pat
-108395	dia/
+108395	di_
 108400	a)path
 108418	katoik
 108442	tom
 108446	du_s
 108453	tom
-108465	dia/
+108465	di_
 108471	qe
 108476	nekr
 108506	h)/n
@@ -9115,8 +9115,8 @@ a)lws
 108552	ski
 108569	gel
 a_(/
-108573	ei)kh=|
-108591	dia/
+108573	ei)k
+108591	di_
 108593	a(f
 108595	desm
 108603	qe
@@ -9221,7 +9221,7 @@ l
 109723	qe
 109730	basilei
 109732	doc
-109734	dia/
+109734	di_
 109749	qe
 109754	l
 109759	qe
@@ -9239,16 +9239,16 @@ l
 109918	mon
 109920	e)my
 109928	qe
-109974	dia/
+109974	di_
 109976	a)g
 109978	steg
 e)my
 110014	a)gaph
-110030	dia/
+110030	di_
 110037	pas
 110039	a)nagk
 110041	qli_y
-110043	dia/
+110043	di_
 110050	e)
 110065	pas
 110074	qe
@@ -9261,7 +9261,7 @@ e)my
 110156	a(gi
 110175	d
 110183	peripat
-110193	dia/
+110193	di_
 110195	kuri
 110202	qe
 110221	ti_m
@@ -9273,7 +9273,7 @@ e)my
 110315	o(l
 110340	pat
 110348	e)xh
-110383	dia/
+110383	di_
 110386	a)c
 110392	leg
 110395	kuri
@@ -9298,11 +9298,11 @@ a(b
 110548	l
 110571	a)gaph
 110584	l
-110588	dia/
+110588	di_
 110590	kuri
 110608	kal
 110640	a)gap
-dia/
+di_
 110655	mu_q
 110660	a)sqen
 110671	a)pod
@@ -9341,8 +9341,8 @@ l
 111011	qe
 111014	kuri
 111025	kuri
-111046	dia/
-111049	dia/
+111046	di_
+111049	di_
 log
 111059	sthk
 111063	kuri
@@ -9360,15 +9360,15 @@ q
 111189	pas
 a)pat
 111197	a)gaph
-111207	dia/
+111207	di_
 111214	planh
 111220	yeud
 111229	l
 111245	kuri
-111266	dia/
+111266	di_
 111274	kuri
-111278	a)/ra
-111289	dia/
+111278	*)ar
+111289	di_
 log
 111342	kuri
 111370	sthric
@@ -9383,11 +9383,11 @@ log
 111464	e)pibarhs
 111471	e)cousi
 111508	l
-111542	dia/
+111542	di_
 111551	trap
 111556	h(g
 l
-111571	dia/
+111571	di_
 111591	pas
 111598	kuri
 111610	e)pitag
@@ -9410,7 +9410,7 @@ leg
 111794	kuri
 111799	a)gaph
 111824	l
-dia/
+di_
 111839	tup
 111892	ti/nes
 111913	prwt
@@ -9430,7 +9430,7 @@ tag
 112069	eu)
 112077	a)_thq
 112079	a)ba_s
-112083	dia/
+112083	di_
 112086	e)
 112091	a)gap
 112101	e)piskop
@@ -9465,7 +9465,7 @@ d
 112335	ti_s
 112341	pist
 112349	qe
-112359	dia/
+112359	di_
 log
 qe
 112369	h(=|
@@ -9479,8 +9479,8 @@ a)ggell
 112463	a)gap
 112468	e(
 112472	gnws
-112478	a)mel
-112486	dia/
+112478	a)me/lei
+112486	di_
 112491	xeir
 112495	melet
 112500	s
@@ -9530,7 +9530,7 @@ gel
 112796	poi
 112812	l
 112815	xr
-dia/
+di_
 112822	s
 112828	prodhl
 112842	kal
@@ -9558,7 +9558,7 @@ l
 113130	a)ggell
 113172	fu_lac
 113183	ti/nes
-113197	dia/
+113197	di_
 113199	qe
 113214	qe
 113220	kuri
@@ -9570,7 +9570,7 @@ l
 113270	s
 113275	s
 113292	qe
-113297	dia/
+113297	di_
 113301	xeir
 113311	l
 113314	a)gaph
@@ -9581,22 +9581,22 @@ l
 113349	l
 113351	i)di
 113362	xron
-113367	dia/
-113384	dia/
+113367	di_
+113384	di_
 113405	oi)_d
 113417	fu_lac
 113422	tup
 113425	log
 113433	a)gap
 113441	fu_lac
-dia/
+di_
 113458	a)si
 113481	l
 113496	pa_r
 kuri
 113514	dunam
 113523	a_(/
-113527	dia/
+113527	di_
 113532	pist
 113535	i(kan
 113551	bi
@@ -9611,8 +9611,8 @@ prwt
 113604	desm
 113607	l
 113611	qe
-113614	dia/
-113618	dia/
+113614	di_
+113618	di_
 113654	men
 113663	w)p
 113665	qe
@@ -9651,7 +9651,7 @@ a_(/
 114034	a)nqrwp
 114053	pa_r
 114060	i(er
-114069	dia/
+114069	di_
 114076	graf
 114085	e)panorq
 114096	qe
@@ -9722,8 +9722,8 @@ trap
 114924	qe
 114931	a_(/
 114934	l
-114941	dia/
-114953	dia/
+114941	di_
+114953	di_
 114981	kal
 114989	kal
 115009	matai
@@ -9747,10 +9747,10 @@ e)rg
 115184	a)gap
 s
 115190	a(gi
-115192	dia/
+115192	di_
 sou=
 115204	h(k
-dia/
+di_
 115207	a)gaph
 115231	desm
 115245	e)my
@@ -9760,7 +9760,7 @@ dia/
 115272	sh
 115284	s
 115286	l
-115291	dia/
+115291	di_
 115303	l
 115307	a)gap
 115335	o)feil
@@ -9773,7 +9773,7 @@ dia/
 115372	s
 115379	a_(/
 leg
-115391	dia/
+115391	di_
 115416	kuri
 115426	pal
 115438	h(mer
@@ -9786,7 +9786,7 @@ leg
 115545	poi
 115562	s
 115577	basilei
-115584	dia/
+115584	di_
 115592	s
 115595	pa_r
 115598	s
@@ -9803,13 +9803,13 @@ s
 s
 115672	koni
 stell
-dia/
-115679	*di
+di_
+115679	*di_
 115681	d
 115694	gel
 115703	parako
 115705	e)ndik
-115717	dia/
+115717	di_
 115719	kuri
 115728	qe
 115778	doc
@@ -9817,29 +9817,29 @@ dia/
 115785	kat
 115787	pod
 115792	tac
-115817	dia/
+115817	di_
 115821	qanat
 doc
 115824	ti_m
 115828	qe
 115832	qanat
 115848	doc
-115855	dia/
+115855	di_
 115877	gel
 115880	s
 115887	u(mnhs
-115898	i)dou/
+115898	*)id
 115902	paidi
 a_(/
-115908	e)pei/
+115908	e)p
 115911	paidi
-115923	dia/
+115923	di_
 115925	qanat
 a_)rghs
 115932	qanat
 115938	a)pallac
 115942	qanat
-dia/
+di_
 115953	gel
 115955	l
 115975	q
@@ -9865,13 +9865,13 @@ kal
 116212	sx
 116217	e)
 116231	ti/nes
-116242	dia/
+116242	di_
 116255	e(/n
 116279	i(sti
 116291	dok
 116329	o)rg
 116341	a)bol
-116375	e)pei/
+116375	e)p
 116402	ei)r
 116404	e)
 116422	a)ll
@@ -9887,7 +9887,7 @@ w)p
 116580	i(st
 116584	q
 116590	qusi
-116599	e)pei/
+116599	e)p
 116607	o)feil
 116625	tim
 l
@@ -9895,14 +9895,14 @@ l
 116660	leg
 116687	qanat
 116721	qe
-116736	e)pei/
-116746	dia/
+116736	e)p
+116746	di_
 116763	qe
 116771	trof
 116778	log
 116783	telei
 116788	trof
-116790	dia/
+116790	di_
 116821	nekr
 116826	q
 116831	xeir
@@ -9916,11 +9916,11 @@ l
 116946	a)gaph
 116958	e)piqum
 116977	mi_m
-116980	dia/
-116993	e)pei/
+116980	di_
+116993	e)p
 117018	a)nqrwp
 117028	per
-117052	dia/
+117052	di_
 117060	q
 117110	qe
 117114	a)s
@@ -9933,16 +9933,16 @@ men
 117238	a)nqrwp
 117244	z
 117264	h)/n
-117273	dia/
+117273	di_
 117277	h)/n
 117318	e)sxhk
 117322	e)sxhk
 117338	i(er
 117362	l
-117385	dia/
-117423	dia/
-117453	dia/
-117460	dia/
+117385	di_
+117423	di_
+117453	di_
+117460	di_
 117468	e)x
 117485	z
 117507	ou)ran
@@ -9964,7 +9964,7 @@ i(st
 117653	o)r
 117675	h)/n
 117685	leg
-i)dou/
+*)id
 117689	leg
 117733	a)g
 117736	leg
@@ -9983,7 +9983,7 @@ i)dou/
 xru_s
 117903	a)_n
 117927	skhnh
-dia/
+di_
 117968	a(gi
 117973	skhn
 117977	bol
@@ -9991,19 +9991,19 @@ dia/
 118008	kair
 118010	kei
 118017	a)gaq
-dia/
+di_
 118023	skhn
 118035	trag
-118038	dia/
+118038	di_
 118041	i)di
 118055	trag
 118057	taur
-118077	dia/
+118077	di_
 118090	nekr
-118098	dia/
+118098	di_
 118105	qanat
 118108	a)polutr
-118136	e)pei/
+118136	e)p
 118141	z
 118170	trag
 118201	skhnh
@@ -10011,30 +10011,30 @@ dia/
 118245	pa_r
 118254	a)ntitup
 118267	qe
-118287	e)pei/
+118287	e)p
 e)d
 118293	a)bol
 118299	tel
-118306	dia/
+118306	di_
 118308	qusi
 118335	deuter
 118344	ski
 118351	a)gaq
-118373	e)pei/
-118378	dia/
+118373	e)p
+118378	di_
 118399	taur
 118401	trag
 118409	leg
 qusi
 118426	ei)p
-i)dou/
+*)id
 118441	s
 118445	qusi
-118463	i)dou/
+118463	*)id
 118469	s
 a)nair
 118472	prwt
-118482	dia/
+118482	di_
 118503	qusi
 118515	qusi
 118521	deci
@@ -10046,7 +10046,7 @@ a)nair
 118579	oi)
 118611	a(gi
 118620	fa
-118623	dia/
+118623	di_
 118638	qe
 118669	katano
 118673	a)gaph
@@ -10070,7 +10070,7 @@ katapaths
 119036	e)pist
 119046	a)llotri
 119083	pa_r
-119086	e)pei/
+119086	e)p
 119103	ou)ran
 119111	pa_r
 119127	l
@@ -10086,14 +10086,14 @@ katapaths
 119302	proskair
 119334	o(r
 119356	*)eruqr
-119359	dia/
+119359	di_
 119363	peir
 119366	*ai)gupti
 119372	e(s
 119393	leg
 e)pileiy
 119411	prof
-119413	dia/
+119413	di_
 119416	basilei
 119434	i)sxur
 119438	e)klin
@@ -10104,7 +10104,7 @@ a)llotri
 peir
 119467	desm
 119488	h)/n
-119508	dia/
+119508	di_
 119516	qe
 119568	katafronhs
 119570	deci
@@ -10128,7 +10128,7 @@ noq
 119776	qe
 119781	a)_n
 119783	o)xl
-119785	dia/
+119785	di_
 119866	h)/n
 119875	l
 119878	o)r
@@ -10144,7 +10144,7 @@ qe
 119966	dhl
 119979	basilei
 120000	a)_lisk
-120008	dia/
+120008	di_
 120012	ti/nes
 120017	desm
 120041	kri^n
@@ -10157,13 +10157,13 @@ qe
 120133	e)cousi
 120136	skhn
 120141	zw|
-120149	dia/
+120149	di_
 120151	a)rxiere
-120164	dia/
+120164	di_
 120166	i)di
 120191	l
 120199	qusi
-120201	dia/
+120201	di_
 120231	ei(k
 120237	yu_x
 120246	poiws
@@ -10172,9 +10172,9 @@ qe
 120300	a)rtis
 120311	poi
 120316	w)p
-120318	dia/
+120318	di_
 120336	log
-120341	dia/
+120341	di_
 120353	e)
 120379	qe
 120381	kuri
@@ -10182,7 +10182,7 @@ qe
 120419	telei
 120432	pa_r
 120435	qe
-120437	a(plw=s
+120437	a(pl
 120468	pa_r
 120470	kuri
 120477	o(d
@@ -10222,9 +10222,9 @@ kardi
 120907	tel
 120911	graf
 a)gaphs
-120914	plhsi
+120914	plhs
 s
-120968	dia/
+120968	di_
 120989	e)
 120991	leg
 121004	e)
@@ -10254,7 +10254,7 @@ i(st
 121334	fu_s
 121339	glwss
 121341	dam
-121347	i)ou=
+121347	i)
 121353	ku_ri
 121359	a)r
 121364	o(moi
@@ -10276,7 +10276,7 @@ a)gaq
 121496	polem
 121499	max
 121514	e)piqum
-121530	dia/
+121530	di_
 121553	fili
 121556	e)xqr
 121558	qe
@@ -10297,7 +10297,7 @@ kuri
 121661	katalal
 121664	kri^n
 121674	l
-121693	plhsi
+121693	plhs
 121716	st
 121719	poi
 121737	e)
@@ -10336,10 +10336,10 @@ o(d
 122155	kuri
 122175	nekr
 122191	qe
-122193	dia/
+122193	di_
 122204	a)galli
 122208	d
-122223	dia/
+122223	di_
 122231	doc
 122233	tim
 122235	kaluy
@@ -10350,7 +10350,7 @@ o(d
 122279	po
 122304	dihkon
 122306	a_(/
-122310	dia/
+122310	di_
 122319	ou)ran
 122321	a_(/
 qu_m
@@ -10370,7 +10370,7 @@ strof
 122443	doc
 122454	q
 122477	l
-122479	dia/
+122479	di_
 log
 122482	qe
 122503	e(/n
@@ -10379,10 +10379,10 @@ men
 122564	pa_r
 122572	liq
 122582	qusi
-122585	dia/
+122585	di_
 122589	periex
 122591	graf
-i)dou/
+*)id
 122631	skandal
 122673	qe
 122689	qumi
@@ -10394,7 +10394,7 @@ i)dou/
 u(potag
 pas
 122724	ktis
-dia/
+di_
 122727	ku_ri
 122739	dik
 122750	qe
@@ -10405,7 +10405,7 @@ doul
 122777	a)gap
 122779	q
 122798	l
-122806	dia/
+122806	di_
 122808	qe
 122814	po
 122830	pa_r
@@ -10416,7 +10416,7 @@ straf
 122913	o(moi
 122918	dr
 122922	ti/nes
-122926	dia/
+122926	di_
 122929	gunaik
 strof
 a)_n
@@ -10441,7 +10441,7 @@ log
 123116	e)
 123118	a)gaq
 zhl
-123125	dia/
+123125	di_
 123136	ku_ri
 123159	l
 123170	katalal
@@ -10471,7 +10471,7 @@ l
 123418	logi
 qe
 123422	kon
-123436	dia/
+123436	di_
 123458	purws
 123464	cen
 123467	l
@@ -10505,7 +10505,7 @@ stere
 123735	katartis
 sthric
 123738	qemeliws
-123748	*di
+123748	*di_
 123752	pist
 123757	o)lig
 123767	qe
@@ -10514,10 +10514,10 @@ sthric
 123820	gnws
 123822	qe
 123826	kuri
-123842	dia/
+123842	di_
 123849	doc
 123851	a)ret
-123862	dia/
+123862	di_
 123874	e)piqumi
 123889	a)reth
 123893	a)ret
@@ -10640,7 +10640,7 @@ kl
 125297	peripat
 125302	a)g
 125305	skoti
-125318	dia/
+125318	di_
 125339	paidi
 125356	i)sxur
 125362	qe
@@ -10671,7 +10671,7 @@ men
 125679	poi
 125687	a)gaph
 125694	qe
-125698	dia/
+125698	di_
 125712	qe
 125721	e)
 125723	o(moi
@@ -10727,7 +10727,7 @@ w)p
 126190	qe
 126202	qe
 126225	qe
-126247	dia/
+126247	di_
 126261	qe
 126266	q
 126274	qe
@@ -10814,7 +10814,7 @@ e)x
 127030	kuri
 127037	a)gap
 127044	l
-127051	dia/
+127051	di_
 127071	pa_r
 qe
 127075	pa_r
@@ -10836,7 +10836,7 @@ s
 127204	e)x
 127225	leg
 127237	*poll
-127243	dia/
+127243	di_
 127247	l
 127269	s
 127279	a)gap
@@ -10851,7 +10851,7 @@ w)p
 127349	qe
 127374	e)kklhsi
 127379	*diotref
-127383	dia/
+127383	di_
 127385	e)
 127387	u(pomnhs
 127391	a_(/
@@ -10860,7 +10860,7 @@ w)p
 127428	qe
 127435	q
 127457	*poll
-127464	dia/
+127464	di_
 127485	fil
 127513	a)gaph
 127540	ti/nes
@@ -10883,7 +10883,7 @@ a)nqrwp
 127727	a)nem
 127736	a)gri
 127743	plan
-127761	i)dou/
+127761	*)id
 127789	sklhr
 127802	e)piqumi
 127812	w)p
@@ -10898,11 +10898,11 @@ qe
 127909	fu_lac
 127914	w)p
 127920	a)gallias
-127925	dia/
+127925	di_
 127929	kuri
 127960	a_(/
 d
-127968	dia/
+127968	di_
 127981	qe
 128016	a)si
 128026	h)/n
@@ -10911,14 +10911,14 @@ a_(/
 w)p
 128051	nekr
 128076	basilei
-128095	i)dou/
-128113	pa/sa_|
+128095	*)id
+128113	pas
 128118	na_i+/
 128127	leg
 128135	h)/n
 128150	qli_y
 128152	basilei
-128164	dia/
+128164	di_
 128168	qe
 128203	smurn
 128239	o(moi
@@ -10946,7 +10946,7 @@ oi)_d
 128454	s
 128458	du_n
 128462	ei)r
-128479	dia/
+128479	di_
 128486	l
 128489	sou=
 128492	a)gaph
@@ -11003,7 +11003,7 @@ l
 128896	nohs
 128914	e)
 128916	nohs
-128930	pa/sa_|
+128930	pas
 128932	e)kklhsi
 128937	e)raun
 128951	leg
@@ -11072,7 +11072,7 @@ s
 129491	e)
 fil
 129499	nohs
-i)dou/
+*)id
 129504	qur
 129507	e)
 129509	a)kous
@@ -11104,7 +11104,7 @@ o(moi
 129821	w)p
 129835	doc
 129838	tim
-129848	dia/
+129848	di_
 129851	s
 129859	deci
 129883	oi)c
@@ -11146,9 +11146,9 @@ leg
 130359	a)n
 130392	qhri
 130402	kat
-130409	dia/
+130409	di_
 130413	qe
-130415	dia/
+130415	di_
 130421	r(ac
 130425	e(
 130460	e(
@@ -11174,7 +11174,7 @@ e(s
 w)p
 130850	w)p
 130902	ti/nes
-130939	dia/
+130939	di_
 130942	w)p
 130946	qe
 130963	skhnws
@@ -11328,10 +11328,10 @@ kleis
 132843	qe
 132861	w)p
 132863	qe
-132872	dia/
-132878	dia/
+132872	di_
+132878	di_
 132891	qanat
-dia/
+di_
 132895	ou)ran
 132920	e)x
 132950	pet
@@ -11371,7 +11371,7 @@ o(moi
 133343	ou)ran
 133348	w)p
 133352	plan
-133358	dia/
+133358	di_
 133361	a_(/
 133365	w)p
 133379	e)x
@@ -11474,7 +11474,7 @@ s
 134555	daimoni
 134558	a_(/
 134576	qe
-134579	i)dou/
+134579	*)id
 134594	pat
 134630	leg
 134638	bront
@@ -11499,7 +11499,7 @@ s
 134807	porfur
 134820	xru_s
 134862	a(gi
-134881	*di
+134881	*di_
 134885	e)r
 134904	dek
 134910	h)/n
@@ -11547,8 +11547,8 @@ leg
 135330	kardi
 135332	leg
 135337	xhr
-135345	dia/
-135397	dia/
+135345	di_
+135397	di_
 135421	s
 135424	por
 135440	xru_s
@@ -11566,7 +11566,7 @@ timi
 135517	sou=
 135527	sou=
 135535	por
-135544	dia/
+135544	di_
 135564	porfur
 135591	ple
 135603	r(az
@@ -11626,8 +11626,8 @@ leg
 136364	a)n
 136375	xili
 136379	d
-136400	dia/
-136405	dia/
+136400	di_
+136405	di_
 136409	qe
 136440	xi_lia
 136445	nekr
@@ -11649,13 +11649,13 @@ e)cousi
 136749	a(gi
 136756	ou)ran
 136759	qe
-136775	i)dou/
+136775	*)id
 136777	skhnh
 136779	qe
 136784	skhnws
 136800	e)caleiy
 136824	prwt
-136833	i)dou/
+136833	*)id
 136835	poi
 136838	leg
 136843	log
@@ -11685,7 +11685,7 @@ pist
 137240	h(li
 137251	qe
 137261	paths
-137264	dia/
+137264	di_
 137275	doc
 137295	doc
 137298	tim
@@ -11704,7 +11704,7 @@ pist
 137459	prof
 137468	a_(/
 d
-137474	i)dou/
+137474	*)id
 137487	a)g
 137500	kunhs
 137503	pod
@@ -11714,7 +11714,7 @@ d
 137523	prof
 137534	proskunhs
 137536	leg
-137572	i)dou/
+137572	*)id
 137632	farmak
 137644	fil
 137646	poi

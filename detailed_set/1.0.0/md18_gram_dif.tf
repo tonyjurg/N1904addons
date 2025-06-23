@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:23+00:00Z
+@dateWritten=2025-06-22T22:25:25+00:00Z
 
 1043	l.cngtmv.
 1446	l.cngtmv.
@@ -22,8 +22,8 @@
 3458	lpc.gtmv.
 3943	l.cngtmv.
 4091	l.cngtmv.
-4516	l...g....
-4537	l...g....
+4516	....g....
+4537	....g....
 6814	lpc.gtmv.
 8400	l.cngtmv.
 9305	l.cngtmv.
@@ -39,8 +39,8 @@
 14280	lpc.gtmv.
 15525	lpc.gtmv.
 16185	l.cngtmv.
-19409	l...g....
-19430	l...g....
+19409	....g....
+19430	....g....
 19666	l.cngtmv.
 20572	lpc.gtmv.
 20661	l.cngtmv.
@@ -65,13 +65,13 @@
 29163	lpc.gtmv.
 29650	l.cngtmv.
 29917	l........
-30145	lp.....v.
+30145	.p.....v.
 31768	l.cngtmv.
 32952	lpc.gtmv.
 33524	....g....
-33678	l...g....
-33701	l...g....
-33711	l...g....
+33678	....g....
+33701	....g....
+33711	....g....
 35548	lpc.gtmv.
 35966	l.cngtmv.
 36632	lpc.gtmv.
@@ -86,7 +86,7 @@
 40943	lpc.gtmv.
 41541	lpc.gtmv.
 42658	lpc.gtmv.
-42922	l........
+42922	.........
 43868	lpc.gtmv.
 43984	lpc.gtmv.
 44000	lpc.gtmv.
@@ -126,10 +126,10 @@
 71230	l........
 71729	lpc.gtmv.
 74013	lpc.gtmv.
-74971	l........
+74971	.........
 76126	l.c.gt...
 77898	lpc.gtmv.
-78139	l.c.g....
+78139	..c.g....
 79225	lpc.gtmv.
 82086	l........
 82784	lpcngtmv.
@@ -144,7 +144,7 @@
 90463	lpcngtmv.
 91386	l.cng....
 91566	lpcngtmv.
-91751	l.c......
+91751	..c......
 91980	lpc.gtmv.
 92005	lpc.gtmv.
 93238	lpc.gtmv.
@@ -158,15 +158,15 @@
 102326	l.c.gtmv.
 103292	lpc.gtmv.
 103367	lpc.gtmv.
-104357	lp...tmv.
+104357	.p...tmv.
 105102	l.cngtmvd
 106469	lpc.gtmv.
 107209	lp...tmv.
 107956	lpc.gtmv.
-108059	lp.n.tmv.
+108059	.p.n.tmv.
 108507	lpcngtmv.
 108724	lpc.gtmv.
-108780	l...g....
+108780	....g....
 109188	lpc.gtmv.
 109618	....g....
 109730	lpc.gtmv.
@@ -181,7 +181,7 @@
 121654	l.c.gt...
 122689	lpcngtmv.
 123989	lpc.gtmv.
-124283	l.c.g..v.
+124283	..c.g..v.
 128076	lpc.gtmv.
 130073	lpc.gtmv.
 131225	lpcngtmv.

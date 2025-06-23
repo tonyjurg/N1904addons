@@ -11,42 +11,42 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:27+00:00Z
+@dateWritten=2025-06-22T22:25:28+00:00Z
 
-1446	
-1647	
-3943	
-4091	
-8400	
-9305	
-10935	
+1446	singular
+1647	singular
+3943	singular
+4091	singular
+8400	singular
+9305	singular
+10935	singular
 11994	singular
 14204	singular
 16185	singular
-19666	
-20661	
-20773	
-21104	
-22252	
-23244	
-24553	
+19666	singular
+20661	singular
+20773	singular
+21104	singular
+22252	singular
+23244	singular
+24553	singular
 25434	singular
 26821	singular
 27825	singular
-35966	
+35966	singular
 42922	plural
 44695	singular
 44807	singular
 46274	singular
 46880	singular
-49434	
-50756	
-52700	
-52947	
-53024	
-53099	
-57225	
-61923	
+49434	singular
+50756	singular
+52700	singular
+52947	singular
+53024	singular
+53099	singular
+57225	singular
+61923	singular
 68218	singular
 78139	singular
 82086	singular

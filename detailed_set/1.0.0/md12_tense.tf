@@ -11,16 +11,16 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:23+00:00Z
+@dateWritten=2025-06-22T22:25:24+00:00Z
 
 574	present
 914	present
 1043	present
 1258	present
 1339	aorist
-1446	future
+1446	imperfect
 1484	present
-1647	future
+1647	imperfect
 1683	present
 1743	present
 1924	present
@@ -34,9 +34,9 @@
 3548	present
 3596	present
 3824	present
-3943	future
+3943	imperfect
 4080	present
-4091	future
+4091	imperfect
 4208	present
 4349	future
 4516	imperfect
@@ -65,9 +65,9 @@
 7828	present
 7852	present
 7935	present
-8400	future
+8400	imperfect
 9008	imperfect
-9305	future
+9305	imperfect
 9498	present
 9752	present
 10202	imperfect
@@ -77,7 +77,7 @@
 10310	present
 10705	present
 10876	present
-10935	future
+10935	imperfect
 11121	present
 11135	future
 11163	present
@@ -120,7 +120,7 @@
 19214	future
 19409	imperfect
 19430	imperfect
-19666	future
+19666	imperfect
 19892	present
 19900	present
 20397	present
@@ -128,18 +128,18 @@
 20572	present
 20579	present
 20617	future
-20661	future
+20661	imperfect
 20683	imperfect
-20773	future
-21104	future
+20773	imperfect
+21104	imperfect
 21167	imperfect
 21453	future
-22252	future
+22252	imperfect
 22968	future
-23244	future
+23244	imperfect
 23703	present
 24496	present
-24553	future
+24553	imperfect
 24724	present
 24735	present
 24880	present
@@ -198,7 +198,7 @@
 35077	imperfect
 35145	present
 35548	present
-35966	future
+35966	imperfect
 35978	imperfect
 36396	imperfect
 36632	present
@@ -285,22 +285,22 @@ aorist
 48507	present
 48921	imperfect
 49185	imperfect
-49434	future
+49434	imperfect
 49481	present
 49514	present
 49546	present
 50015	aorist
 50353	present
 50398	present
-50756	future
+50756	imperfect
 51309	present
 51333	present
 52151	present
-52700	future
-52947	future
+52700	imperfect
+52947	imperfect
 52966	imperfect
-53024	future
-53099	future
+53024	imperfect
+53099	imperfect
 53471	present
 53653	present
 53686	present
@@ -321,7 +321,7 @@ aorist
 57033	present
 57041	present
 57207	present
-57225	future
+57225	imperfect
 57618	future
 58425	present
 58644	aorist
@@ -348,7 +348,7 @@ aorist
 61791	present
 61808	present
 61912	present
-61923	future
+61923	imperfect
 61975	imperfect
 62566	present
 62582	present
@@ -629,7 +629,7 @@ future
 121067	present
 121259	present
 121334	future
-121347	imperfect
+121347	present
 121359	present
 121374	aorist
 121650	imperfect

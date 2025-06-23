@@ -11,47 +11,33 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:27+00:00Z
+@dateWritten=2025-06-22T22:25:28+00:00Z
 
-1446	
-1647	
-3943	
-4091	
-8400	
-9305	
-10935	
-11994	
-14204	
-16185	
-19666	
-20661	
-20773	
-21104	
-22252	
-23244	
-24553	
-25434	
-26821	
-27825	
-35966	
+1446	feminine
+1647	feminine
+3943	feminine
+4091	feminine
+8400	feminine
+9305	feminine
+10935	feminine
+19666	feminine
+20661	feminine
+20773	feminine
+21104	feminine
+22252	feminine
+23244	feminine
+24553	feminine
+35966	feminine
 42922	masculine/neuter
-44695	
-44807	
-46274	
-46880	
-49434	
-50756	
-52700	
-52947	
-53024	
-53099	
-57225	
-61923	
+49434	feminine
+50756	feminine
+52700	feminine
+52947	feminine
+53024	feminine
+53099	feminine
+57225	feminine
+61923	feminine
 68218	feminine
 78139	masculine
-82086	
-97591	
-98435	
-104357	
 109819	masculine
 121654	masculine

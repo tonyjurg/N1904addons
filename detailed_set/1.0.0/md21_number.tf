@@ -11,29 +11,29 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:27+00:00Z
+@dateWritten=2025-06-22T22:25:28+00:00Z
 
-1446	plural
-1647	plural
-3943	plural
-4091	plural
+1446	singular
+1647	singular
+3943	singular
+4091	singular
 4516	singular
 4537	singular
-8400	plural
-9305	plural
-10935	plural
+8400	singular
+9305	singular
+10935	singular
 11994	plural
 14204	plural
 16185	plural
 19409	singular
 19430	singular
-19666	plural
-20661	plural
-20773	plural
-21104	plural
-22252	plural
-23244	plural
-24553	plural
+19666	singular
+20661	singular
+20773	singular
+21104	singular
+22252	singular
+23244	singular
+24553	singular
 25434	plural
 26062	dual
 26821	plural
@@ -44,7 +44,7 @@
 33678	singular
 33701	singular
 33711	singular
-35966	plural
+35966	singular
 37632	singular
 42922	plural
 44695	plural
@@ -54,14 +54,14 @@
 46274	plural
 46880	plural
 48507	singular
-49434	plural
-50756	plural
-52700	plural
-52947	plural
-53024	plural
-53099	plural
-57225	plural
-61923	plural
+49434	singular
+50756	singular
+52700	singular
+52947	singular
+53024	singular
+53099	singular
+57225	singular
+61923	singular
 66087	singular
 68218	singular
 68450	singular
@@ -69,7 +69,6 @@
 71230	singular
 78139	singular
 82086	singular
-82784	
 89824	dual
 89866	dual
 89880	dual

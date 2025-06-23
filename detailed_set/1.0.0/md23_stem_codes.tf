@@ -11,42 +11,42 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:27+00:00Z
+@dateWritten=2025-06-22T22:25:28+00:00Z
 
-1446	
-1647	
-3943	
-4091	
-8400	
-9305	
-10935	
+1446	h_hs
+1647	h_hs
+3943	h_hs
+4091	h_hs
+8400	h_hs
+9305	h_hs
+10935	h_hs
 11994	aw_pr/iaw_denom
 14204	aw_pr/iaw_denom
 16185	aw_pr/iaw_denom
-19666	
-20661	
-20773	
-21104	
-22252	
-23244	
-24553	
+19666	h_hs
+20661	h_hs
+20773	h_hs
+21104	h_hs
+22252	h_hs
+23244	h_hs
+24553	h_hs
 25434	aw_pr/iaw_denom
 26821	aw_pr/iaw_denom
 27825	aw_pr/iaw_denom
-35966	
+35966	h_hs
 42922	aw_pr/aw_denom
 44695	aw_pr/iaw_denom
 44807	aw_pr/iaw_denom
 46274	aw_pr/iaw_denom
 46880	aw_pr/iaw_denom
-49434	
-50756	
-52700	
-52947	
-53024	
-53099	
-57225	
-61923	
+49434	h_hs
+50756	h_hs
+52700	h_hs
+52947	h_hs
+53024	h_hs
+53099	h_hs
+57225	h_hs
+61923	h_hs
 68218	is_ews
 78139	ew_pr/aw_denom
 82086	ew_pr/e_stem

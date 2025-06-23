@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:23+00:00Z
+@dateWritten=2025-06-22T22:25:25+00:00Z
 
 574	aorist
 914	present
@@ -410,7 +410,7 @@
 121067	aorist
 121259	imperfect
 121334	present
-121347	present
+121347	imperfect
 121359	imperfect
 121654	present
 121716	imperfect

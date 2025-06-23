@@ -11,18967 +11,5445 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:27+00:00Z
-
+@dateWritten=2025-06-22T22:25:28+00:00Z
 
 3	attic
-
-
-7	
 22	doric/aeolic
-26	
-doric/aeolic
-34	
-
-68	
-76	
-95	
-
+27	doric/aeolic
 98	attic
-
-
 109	doric/aeolic
 doric/aeolic
-144	
-
 149	attic/epic/ionic
 attic/epic/ionic
-154	
-
-164	
-168	
-
-171	
-
-
 176	doric/aeolic
-
-
 238	epic
-
-
-doric/*theocr.
-243	
-
-
-
-
-249	
-doric/aeolic
-
-253	
+241	doric/*theocr.
+247	attic/epic/ionic
+250	doric/aeolic
+253	doric
 255	doric/aeolic
-258	
-260	
-262	
-
-doric/aeolic
-267	
-269	
-
-
+260	doric
+264	doric/aeolic
+271	doric
 attic
-
-doric/aeolic
+274	doric/aeolic
 276	attic
 278	attic
-
-
-epic/doric/ionic/aeolic
+281	epic/doric/ionic/aeolic
 283	epic/doric/aeolic
-286	
-
-
-attic/epic
-292	
-296	
-
-attic/epic/doric/ionic
-
-301	
-304	
-307	
-
-310	
-313	
-316	
-318	
-320	
-
-attic/epic/doric
-324	
+289	attic/epic
+298	attic/epic/doric/ionic
+308	doric/ionic
+322	attic/epic/doric
 327	doric
-
-
 331	epic
-333	
 336	doric/aeolic
-339	
-342	
 344	attic/ionic/epic
-
-348	
-353	
 355	doric/aeolic
-
-360	
-363	
-
-
-
-
-370	
-epic/doric/aeolic
-
+371	epic/doric/aeolic
 375	epic
-
-
-
+378	epic
 attic
-381	
-attic/epic/doric
-
-385	
-
-
+382	attic/epic/doric
 392	attic/epic/doric/ionic
 394	doric/aeolic
-
-397	
-399	
-401	
-
-406	
-408	
-attic
-
-attic/ionic/epic/doric
-
-epic/doric
-
-
-417	
+409	attic
+411	attic/ionic/epic/doric
+413	epic/doric
 419	epic
-422	
-424	
-427	
-
+427	doric
 434	doric/aeolic
-
 437	attic
 439	attic
-441	
-444	
-
-ionic
+446	ionic
 448	attic
 ionic
 attic/epic/doric
-452	
-455	ionic
-457	
-
-460	
 462	ionic/epic
-
-
-epic
-467	
-470	
-
+465	epic
 475	attic/ionic
-
-
-479	
-ionic/epic
-484	doric
-487	
+480	ionic/epic
+484	attic/epic/ionic
 492	parad_form
 494	parad_form
 attic
-499	
-
-
-
-
-
 506	epic/ionic
-
-
-511	
-515	
+515	epic
 attic
-518	epic/doric/ionic/aeolic
 521	attic/epic/ionic
 doric/aeolic
-
-525	
-
+doric
 529	doric/aeolic
-
-
-539	
-542	
-545	
 548	attic/epic/ionic/doric
-550	
 553	attic
 557	epic
-559	ionic
-561	
-563	
-doric
-
-attic
-
-570	
-
-574	
+566	attic
 576	attic/ionic/doric
-
-
 581	attic
 ionic
-
 585	attic/epic/doric
-
-588	
-
-
-
 593	epic
-595	
-597	
-
-attic/epic/doric
-epic/doric/aeolic
-602	
+595	doric
+600	epic/doric/aeolic
 608	doric/aeolic
-610	
-613	ionic
 615	doric/aeolic
-
-618	
-
-
-622	
-
-626	
-
-629	
-632	
-634	
 640	ionic/doric/aeolic
-645	
-
 650	doric
-
-653	ionic
 655	doric/aeolic
-
-
-659	
-attic/epic/doric
-662	
+660	attic/epic/doric
 666	attic/epic
-668	
-670	
-672	
-676	
-678	
-ionic
-
-682	
-
-
-
-
-
-
-693	
+683	attic/epic
+doric
 attic
-
-697	
+694	attic
 700	epic
-702	
-706	
-710	ionic
-
 713	epic/doric/aeolic
-
-
+attic/epic
+doric
 717	doric
-719	
 722	epic
-
-
-
+725	epic
 attic
-728	
-
-
-734	
-
 737	attic/epic/doric
-
-
-
-
-
-744	doric/aeolic
-746	
-
-752	
-755	
-
-758	
-760	
-attic/epic/doric
-763	
-
-767	
-attic/epic/ionic/doric
-
-
-
-
+756	epic/doric/ionic/aeolic
+761	attic/epic/doric
+768	attic/epic/ionic/doric
 775	epic
-
-778	attic
-780	
-doric/aeolic
-
-790	attic/epic/doric/ionic
-
-795	
-797	attic/ionic
-
-
 epic
+778	attic
+781	doric/aeolic
+790	attic/epic/doric/ionic
+797	attic/ionic
+800	epic
 803	attic
 805	attic/epic/doric
-807	
 811	attic/epic
-813	
-
-
-817	
-819	
-823	
 825	attic/epic/doric
-ionic
-attic/epic/ionic
-831	
-834	
-attic
-
-
+827	attic/epic/ionic
+835	attic
 840	epic
-842	
-846	
-848	
-ionic
-attic/epic/ionic
-852	
-854	
-
-
-858	
+850	attic/epic/ionic
 860	attic
-862	
-865	
-872	ionic
-
-doric/aeolic
-876	
+865	attic/epic
+874	doric/aeolic
 879	epic/doric
-ionic
 882	attic/epic/ionic
 887	epic
-
-
-
-
-
-894	
+epic
 897	ionic
-900	
-
-904	
-
-
-908	
-
-attic/epic
-913	
-
-
-
-920	
-
-
+910	attic/epic
+922	epic
 924	attic
-926	
+927	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-
-
-
-934	
-
-doric/aeolic
-
-doric/aeolic
-940	
-943	
-
-948	
-
-doric
-955	
-957	
-
-
+936	doric/aeolic
+938	doric/aeolic
+950	doric
 961	doric/aeolic
 epic/doric/aeolic
-
 967	doric/laconia
-
-
-974	doric
-
-
-978	doric
-
+974	attic/epic/ionic
+978	attic/epic/ionic
 981	attic
-
-985	
-attic/epic
+986	attic/epic
 attic/epic/ionic
-
-990	
-attic/epic/doric
+991	attic/epic/doric
 doric/aeolic
 doric/aeolic
-
-attic/epic/doric
-998	
-1003	
-1006	
-
-1010	
+995	attic/epic/doric
 1012	doric
-1014	
 1017	doric
-
-1020	
-doric/laconia
-1023	
-1025	
-doric
+1021	doric/laconia
+1026	doric
 attic/epic
-
-
-1031	
-1034	
 1036	doric
-
-doric/aeolic
-
-1041	
-
-doric
-1045	
+1038	doric/aeolic
+1043	doric
 1047	attic/epic
-1049	doric/aeolic
-1051	
+1049	attic/epic/doric
 1055	doric/aeolic
-
-
-
-
-1062	
-attic/epic/doric
-
-
-1068	ionic
+1063	attic/epic/doric
 1071	attic/epic/doric
 1073	epic/doric
-
-
-
-ionic
-doric/aeolic
-
-1081	doric
-
-1085	
-1087	
-
-
-1091	
-1093	
+1078	doric/aeolic
 1095	epic/doric
-
-
-1099	
-1102	
-1104	
-
-
-ionic
-
+1107	ionic
 1110	attic/epic/doric/ionic
-1112	
-
-1115	
-1118	
-ionic
 1121	doric/aeolic
-1124	
-
-1127	
-
-1130	
-
-
-1134	
-
 1137	attic/epic/ionic
 1140	attic/epic/ionic
 attic
-1144	
-
-1149	
-attic/epic/doric
+1150	attic/epic/doric
 doric/aeolic
-
-
-
-1158	
 1161	epic/ionic/attic/doric
-1163	
-
-
-
-1171	
 1173	attic
-
-
-1177	
-epic
-1182	
-
-
-1186	
-attic
+1175	attic/epic/ionic
+1178	epic
+1187	attic
 1190	attic/epic/doric
-1192	
-
 1195	epic
-1197	
-
 1200	doric/aeolic
-
 1205	attic/epic/doric
 doric/aeolic
-
-
-
-attic/epic/doric/ionic
-1213	
-epic
-
-
-1218	
-1221	
-
-
-
-ionic
-1227	
-
+1210	attic/epic/doric/ionic
+1214	epic
+1229	attic
+1233	attic
 attic
-1232	
-attic
-attic
-1236	
-doric/aeolic
-1242	
-1246	
-1248	
-
-
-epic
-
-attic
-
-
-
-
-epic/ionic/attic/doric
+1237	doric/aeolic
+1251	epic
+1253	attic
+1258	epic/ionic/attic/doric
 1260	epic/ionic/attic/doric
-1262	
 1264	epic/ionic/attic/doric
-
-1267	
-1269	
-
-epic
-
-1275	
-1278	
-
-1281	
-
-
-1285	
-1287	ionic
+1271	epic
+1279	epic
 1289	doric/aeolic
-1294	
 1297	attic
-
-1300	
-
-
-epic
-
-attic
-
-
-
-
-1312	
+1303	epic
+1305	attic
 1314	attic/epic/doric
-
-attic/epic
-
-
-1320	
-doric
+1316	attic/epic
+1321	doric
 epic
-
-
-
-1331	
-1333	
-
-
-1338	
-attic
-
-1342	
-
-1345	
-1347	
-1349	ionic
-
-
-doric/aeolic
-1354	
-
-
+1339	attic
+1356	attic/epic/ionic
 doric/aeolic
 doric/aeolic
 attic
 attic
 1363	doric/aeolic
-
-1366	
-
-
-
-
-
-doric/aeolic
+1372	doric/aeolic
 attic/epic/doric
-
-1376	
-
-
-
-
-
-
-1385	
-1387	
-
-attic/ionic
-1391	
-
-
-
-epic
-1397	
+1389	attic/ionic
+1395	epic
 1400	attic/epic/doric
 attic/epic/doric
-
 1404	epic/ionic/attic/doric
-
-
-1408	
-
-1412	ionic
 1414	doric/aeolic
 1416	attic/epic/ionic
 1420	epic/doric
-ionic
 1424	doric
-
-
-
-1430	
 1433	epic
-
-1436	attic
-1438	
-attic/epic/ionic
-
-1442	attic/epic/ionic
-1444	
-
-doric/aeolic
-attic
-
-
-
-1452	
-
-
-1456	
-
-
 epic
-1464	
-
+1436	attic
+1439	attic/epic/ionic
+1442	attic/epic/ionic
+1446	doric/aeolic
+attic
+1459	epic
 1467	ionic
 epic/ionic/attic
 attic
-1471	
-
-
-
-
-
 1479	attic/epic
 attic/epic
-1483	
-
-
-
-attic/epic/doric
-1489	
+1487	attic/epic/doric
 1491	doric/aeolic
-1493	
-epic
-1499	
-
-1502	
-1505	
-1508	ionic
+1494	epic
 1510	doric/aeolic
 doric/aeolic
-1513	
-1515	
-
-1518	doric
-
-1521	
-epic/doric
+1522	epic/doric
 attic/epic
-
-
 1527	epic/doric/ionic/aeolic
-1529	
-
-1532	
-epic/doric/ionic/aeolic
-epic
+1534	epic
 1536	epic
-
 1542	attic
 1545	attic/epic/ionic
-1548	
-
-attic/epic
-1552	
+1550	attic/epic
 1554	attic
-1556	
-
-
-
-
-1564	
 1566	epic/doric/ionic/aeolic
-1573	
-1575	
-epic/doric/ionic/aeolic
-epic
-
-attic/epic/ionic
-
-
-1583	
-1586	
+1577	epic
+1579	attic/epic/ionic
 1590	doric/laconia
-1592	
-1595	
-1598	
+1595	attic/epic/ionic
+1598	attic/epic/ionic
 doric/aeolic
-
-attic/epic
-1604	
-
-1607	
-ionic
-attic/epic/ionic
+1601	attic/epic
+1609	attic/epic/ionic
 1611	doric
-1614	
-1617	doric/aeolic
+1617	doric
 1619	doric/aeolic
 attic/epic/doric
-1634	
-attic/epic/doric
-1637	
-1639	
-1643	
-1645	
+1635	attic/epic/doric
 1647	doric/aeolic
 attic
-
-attic/epic/doric
-1655	ionic
-1657	
-1659	
-
-1662	
-
-doric/aeolic
-
-1667	
-1670	
-1673	
-
-
-
-attic/epic
-1679	
-
-1682	
-
-
-
-
-
-1689	
+1650	attic/epic/doric
+1664	doric/aeolic
+1677	attic/epic
 1691	attic/ionic
-
-
-1695	
 1697	attic/epic/doric/ionic
 1699	attic/epic/ionic
-
-
-1707	
-1710	
-
-1713	
-1715	
-
-
-attic/epic/doric
-
-ionic
-
-1724	
-1726	
-
-attic/epic/doric
-
-1731	
-
-1734	
-
-1739	
-
-1742	
-
-
-
-
-
+1718	attic/epic/doric
+1720	ionic
+1728	attic/epic/doric
 1750	epic/doric
-1754	
-
-
 1758	epic/doric
-1761	
-
-1764	
-
-
 1768	epic/doric
-1770	
-1772	
 1777	epic/doric/aeolic
 1780	epic/doric
-1782	
-1784	
 1786	attic/epic/ionic
 doric/aeolic
-1790	
-1792	
-
-
-ionic
-1797	
-1799	
-
-epic
-
+1801	epic
+attic/epic/doric
 ionic/attic/epic
-
-
-
-1808	
 1810	attic
 attic
 attic
-
-doric/aeolic
+1814	doric/aeolic
 epic/doric/ionic/aeolic
-1817	
-
-attic/epic/ionic
-ionic
-epic
-
-1826	
-1830	
+1819	attic/epic/ionic
+1821	epic
 1832	doric/aeolic
-1834	
-attic/epic/ionic
-1837	
-
-
 1843	attic
 epic/doric
-
-
-
 1849	attic/epic/doric
 epic/doric
-
-
 1858	epic/doric
-1860	
-1862	
-
+1863	attic/epic/ionic
 doric
-
-
-
-1869	
-
 1872	epic/doric/aeolic
-
-
-
-doric/aeolic
-
-attic/epic/ionic
-1880	
+1876	doric/aeolic
+1878	attic/epic/ionic
+1881	doric
 doric
-
-
-
-
-1888	
-attic/epic/ionic
-1891	epic
-
-epic
-
-
-
-
-
 attic
-
-
-
-
-doric/aeolic
+1889	attic/epic/ionic
+1891	epic
+1893	epic
+1899	attic
+1901	doric
+attic
+1904	doric/aeolic
 1906	doric/aeolic
-1908	
-1910	
-1913	
-
-1916	
-1919	
-1922	
-
-
-
-
-1929	
-
-1932	
-1936	
-
-
-
-
-
+1929	attic
 1943	doric
-
-doric/aeolic
-
-
-epic/doric
-
-1951	
-
-
-1956	
-
-
-ionic
+1945	doric/aeolic
+1948	epic/doric
 1961	doric/aeolic
-
-
-1965	
-1969	
-
-1973	
-
-1977	
-attic/ionic
+1973	attic
+1978	attic/ionic
 attic/epic/doric
-1981	
-doric
-
-1985	
+1982	doric
 1987	attic/epic
-1989	
-1992	
-attic/ionic
-1996	
-
-attic/epic
-2000	
-
+1993	attic/ionic
+1996	attic
+1998	attic/epic
 2004	attic/epic
-
-2008	
-
-
-2013	ionic
+2008	attic
 2015	doric/aeolic
 attic
-
-doric/aeolic
-2023	
-
-2026	
-attic/epic/doric/ionic
-2029	
-
-2032	
-
-
-
-
-2038	
-2041	
-
-attic
-
-2046	
-
+2018	doric/aeolic
+2027	attic/epic/doric/ionic
+2038	attic/epic
+2043	attic
 2049	attic/epic
-2051	
-2053	
-2055	
-2058	
-
-epic
+2060	epic
 attic/epic
-
-
-
-
-2067	
-2069	
-
-
-
-
-
-
-
-
+2065	doric
 2079	attic/epic
 attic/epic/ionic
-2082	
-attic/epic/ionic
+2083	attic/epic/ionic
 attic/epic
-
-2087	ionic
 2090	attic/epic/ionic
-
-
-
-
-
-2097	
-
-
-2101	
-2104	
-2106	
-
-attic/epic/doric
-2110	
-doric
-
-2114	
-attic/epic/doric
-2119	
-2121	doric/aeolic
-2124	
-
-ionic
-
-
-2130	
-2132	
-
-epic/doric/ionic/aeolic
-
-
-
-2140	
-
-
-
-2145	
-
-attic/doric/aeolic
+2097	doric
+attic
+2108	attic/epic/doric
+2111	doric
+2115	attic/epic/doric
+2121	attic/epic/doric
+2126	ionic
+2134	epic/doric/ionic/aeolic
+2147	attic/doric/aeolic
 epic
-
-
-
-2153	
-
-2157	
-2159	ionic
-doric/aeolic
-2162	
-
-ionic
-
-2167	
-
-
-2172	
-
-
-
-2177	
-
-attic/doric/aeolic
+2160	doric/aeolic
+2164	ionic
+2179	attic/doric/aeolic
 epic
-
-
-
-2185	
-
-2189	
-ionic
-doric/aeolic
-
-2196	
-
-2200	
-attic/epic/ionic
+2191	doric/aeolic
+2196	attic
+2201	attic/epic/ionic
 2203	doric/laconia
 attic/epic/doric
-2206	
-doric
-
-2210	
-epic/ionic/attic/doric
-2214	
+2207	doric
+2211	epic/ionic/attic/doric
 2216	epic/ionic/attic
-
-attic/epic
+2218	attic/epic
 2223	doric/aeolic
-2225	
-
-2229	
-2233	
-
-
 2237	attic/epic
-
 2240	doric
-
-attic/epic/doric
-2244	
-doric
-
-
-
-2250	
-attic/epic
-2253	
+2242	attic/epic/doric
+2245	doric
+2248	doric
+2251	attic/epic
 2256	attic
-
-2259	
-
-attic/epic/ionic
-
-2265	
-doric
-
-2269	ionic
-2271	
-epic/doric/ionic/aeolic
+2261	attic/epic/ionic
+2266	doric
+2272	epic/doric/ionic/aeolic
 2274	attic
 2276	ionic
-2278	
-
-2281	
-2283	
-
-attic/epic/ionic
-2287	
-attic/epic/ionic
-
-
-doric/aeolic
-
-2294	
+2285	attic/epic/ionic
+2288	attic/epic/ionic
+2291	doric/aeolic
 2296	epic/doric
 epic
 epic
-2303	
-2305	
-attic
-
-2310	
-2316	
-2318	
-attic/epic/doric
-2321	
-doric
-
+2306	attic
+2319	attic/epic/doric
+2322	doric
 2325	attic/epic
-
-2329	
-
-ionic
 2333	doric/aeolic
-2335	
-
-
 2340	doric/ionic
 2342	attic/epic
 doric
-
-
-2348	
-
-2352	
-2358	
-
 2361	epic
-
-2364	
 2366	attic/epic
 doric
-
-2372	
-
-
-
-
-
-2379	
 2381	attic/ionic
-2383	doric/laconia
-
-2386	
-2388	
-
-attic/epic/doric
-2392	
-doric
-
+2390	attic/epic/doric
+2393	doric
 2397	epic/doric
-2399	
-
-
-
-epic/doric
-2406	
-attic
+2403	epic/doric
+2407	attic
 2409	epic/doric
 attic
-
-
-
-2416	
-
-
-
-2421	
-2423	
-
-
 2428	doric/aeolic
 2430	attic/ionic/doric
-2432	
-epic/doric
-
-2436	
-
-2439	
-doric/aeolic
+2433	epic/doric
+2437	attic/epic
+2440	doric/aeolic
 2443	epic
 2445	doric/aeolic
 doric
 2449	epic/doric
-
-
-
+2453	attic/epic
 attic/epic
-
-2456	
 2460	epic
 epic/ionic
-2464	
-
-
 2468	epic/doric
-
-
-2473	
 2477	epic/doric
-
-2480	
-
-
 2485	doric/aeolic
-
-
-2491	
-
-
+2494	attic/epic
+2496	epic/doric
 attic/epic
-
-epic/doric
-attic/epic
-
-2500	
 2503	doric/epic/ionic
-2505	
-2507	
-
-2510	
-doric/aeolic
+2511	doric/aeolic
 epic
-
-2517	
-2522	
-
-
-attic/epic/ionic
-
-doric
+2525	attic/epic/ionic
+2527	doric
 epic
-2531	
-
-2534	
-2536	
-doric/aeolic
-
-
-
-
-attic/epic
-
-ionic
-
-2548	
-
-2551	
-attic/epic
-2555	
-2557	
-
-attic/epic/doric
-
-attic/epic
-2563	
-
-epic/doric/ionic/aeolic
-2568	
-epic/ionic
-
-
-doric/aeolic
-
-epic
-
-2579	
+2537	doric/aeolic
+2542	attic/epic
+2544	ionic
+2552	attic/epic
+2559	attic/epic/doric
+2561	attic/epic
+2569	epic/ionic
+2572	doric/aeolic
+2574	epic
 2581	epic
-
-
-2587	
 2590	attic/epic/ionic
-
-doric
+2592	doric
 epic
-2596	
-2600	
-
-ionic
-2605	
-2607	
 2609	doric/aeolic
-
-
-attic/epic
-
-
-attic/epic
-
-attic/epic
-2620	
-2622	
-
-attic/epic/doric
-
-attic/epic
-2628	
-
-2632	
-2635	
+2612	attic/epic
+2615	attic/epic
+2617	attic/epic
+2624	attic/epic/doric
+2626	attic/epic
 2637	epic
-2639	
-
-
-
-
-2645	
-2647	
-
-2651	
 2653	epic/doric
-
-doric/aeolic
-
+2655	doric/aeolic
 2658	attic
 epic/doric
-
-2664	
-2666	
-
-
-
-2671	
 2674	doric/aeolic
-
-2677	
-
-
 2682	doric/aeolic
-
-
-
-2688	
-attic/epic/ionic
-2692	
-2694	
+2689	attic/epic/ionic
 2696	attic
 2700	attic
-
-2703	
-
-2707	
-2710	
-2712	
-
-
-ionic
 2717	doric/aeolic
-
-
-
-attic
-
-doric/aeolic
-2725	
-2728	
-2730	
-
+2721	attic
+2723	doric/aeolic
 2733	doric
-
 2736	epic/doric
-
-
-doric/aeolic
-2741	
-
-2745	ionic
-
+2739	doric/aeolic
 2748	epic/doric
-
-
 2752	epic/doric
-2756	
-ionic
-
-
-doric/aeolic
-
-epic
-2764	
-
-
-2768	
+2757	ionic
+2760	doric/aeolic
+2762	epic
 2772	attic/epic/ionic
-
-doric
+2774	doric
 epic
-2778	
-2782	
-
-2789	
-
-2792	
-
 2797	doric/aeolic
 attic/epic
-
-
-attic/epic
-
-attic/epic
-
-2806	
-2808	
-
-attic/epic/doric
-
-attic/epic
-
-
-
-
-
-doric
-2820	
+2801	attic/epic
+2803	attic/epic
+2810	attic/epic/doric
+2812	attic/epic
+2816	attic/epic/ionic
+2818	doric
 2822	attic/epic/ionic
-2824	
 2826	epic/doric/ionic/aeolic
-
 2830	doric/aeolic
 attic/epic/doric/ionic
 2833	epic
-
 2836	doric
-2838	
-2842	
 2844	epic/doric/ionic/aeolic
-
 2848	doric/aeolic
-
-attic/epic/doric/ionic
-ionic
-epic
-2856	
-2858	
-
-2862	
-ionic
-
-
+2850	attic/epic/doric/ionic
+2852	epic
+2859	attic/epic
+2863	ionic
 2867	attic
-2870	
 2872	doric/aeolic
-2875	
-2877	
-attic
-
-2882	
-
+2878	attic
 2885	doric/aeolic
-2887	
-2889	
-
-2892	
-2895	
-
-2898	
 2901	attic
-2903	
-
-
-2908	
-
 2911	doric/aeolic
 epic/doric/ionic/aeolic
-
-2915	
-2918	
-
-2922	
-attic/ionic
-
-
+2923	attic/ionic
 2928	attic
 attic
-
-
-
-
-2937	
-2939	
-doric
-
-
-
-
-epic/doric
-
-2948	
-
-doric
+2937	doric/aeolic
+2940	doric
+2945	epic/doric
+2950	doric
 2952	attic/epic
 2954	epic/doric
-
-doric
-
-
-doric/aeolic
-
+2956	doric
+attic/epic
+2959	doric/aeolic
 2963	doric/aeolic
 2967	attic
-2969	
-ionic
-
-
-attic
-
-
-
-epic
-ionic
-epic
-ionic
-epic/ionic
-ionic
-doric/aeolic
-2985	
+2973	attic
+2977	epic
+2979	epic
+2981	epic/ionic
+2983	doric/aeolic
 2987	epic/doric
-
-
-
-
-
-2994	
-
-
-
-2999	
-epic/doric
+3000	epic/doric
 epic/ionic/attic/doric
 doric/aeolic
-
-
 3006	doric/aeolic
-
-3009	
-3011	
-3013	
-
-epic
-
-
+3015	epic
+3018	attic
 attic
-attic
-
-epic
-
-attic/epic/ionic
-ionic
-epic
-
+3021	epic
+3023	attic/epic/ionic
+3025	epic
 3028	doric
-
-ionic
-
-
-doric
-
-epic
-
-3038	
-epic
-3041	
+3033	epic
+3035	epic
+3039	epic
 3045	attic
 attic
-3048	
-3051	ionic
-3053	
-
-3057	
-
-3060	
-epic/doric
-3063	
+3061	epic/doric
 3065	attic/ionic/doric
-
-
-3069	
-
-
-
-
-
-
-3077	
-
-doric/aeolic
+3079	doric/aeolic
 attic/epic/doric
-3083	
 3085	epic/doric
-
-
-
-ionic
-3092	
-3094	
+3089	ionic
 3096	doric/aeolic
-3100	
-3102	
-
 3105	doric
-
 3108	attic/ionic/doric
-ionic
-3112	
 3115	attic/ionic
-3117	
-
-
-
-
-3123	
-
-
-
-
-
-3131	
-
-attic/ionic
-3135	
+3123	attic/epic/ionic
+3133	attic/ionic
 3138	attic/epic
 3140	doric
-
-3147	
-attic/epic
+3148	attic/epic
 3150	attic
-3152	
-3155	
+3156	attic/epic
+3161	attic/epic/doric/ionic
+3164	attic/epic
 attic/epic
-3159	
-
-attic/epic/doric/ionic
-
-
-attic/epic
-attic/epic
-3167	
 3169	doric
-3172	
-attic
-3175	
+3173	attic
 3177	attic/epic/doric
-
-
-
-attic/epic
-3183	
-
-
-
-
-attic
-3190	
-3192	
-3194	
+3181	attic/epic
+3188	attic
 3196	attic/epic/doric
-3199	
-attic
+3200	attic
 3202	attic
-3204	
-
-
-3208	
+3205	attic/epic/ionic
 3212	doric
 3214	epic/doric/aeolic
 epic/doric
-
-
-
-
-
-attic/ionic/epic/doric
-3223	
-3225	
-
-3228	
-
-epic/doric
-
+3221	attic/ionic/epic/doric
+3230	epic/doric
 3234	doric
-
-3238	
-3240	
-doric
-3244	
-3246	
-3248	
-attic/epic/ionic
-
+3241	doric
+3249	attic/epic/ionic
 3252	attic/epic
 doric
-
-
-
-3258	
-epic/doric
-3261	
-
-
-epic
-
-3267	
-3269	
-
-
-3273	
-
-
-3277	
-
-
-3282	
-3284	
-3286	
-3289	
-epic/doric
-
-
-
+3259	epic/doric
+3264	epic
+3290	epic/doric
 3295	epic/doric
-
-
-3299	
-
-
 3303	attic/epic/doric
-3305	
-3307	
-doric/aeolic
-
-
-attic/epic/doric
+3308	doric/aeolic
+3311	attic/epic/doric
 doric
-
-epic
-3318	
-
-3323	
-
-3326	
-doric/aeolic
-
-
+3314	epic
+3327	doric/aeolic
+3329	epic
 3331	doric
-3333	
-
-
-3339	
-
-
-attic/epic/doric/ionic
-ionic
+3342	attic/epic/doric/ionic
 3345	doric/aeolic
 3348	epic
-
-3353	
-doric/aeolic
-
-3359	
-
-
-attic/epic/doric/ionic
-ionic
+3354	doric/aeolic
+3362	attic/epic/doric/ionic
 3365	attic/epic/ionic
-3367	
-epic
-
-3372	
-
-
+3368	epic
 3379	epic/doric
-
-3382	
-
+3383	epic
 3385	epic
-
-3388	
-
-
-
-
-3394	
-epic
-
-
-doric/aeolic
-
-
+3395	epic
+3398	doric/aeolic
 3402	doric
-3404	
-3406	
-
-
-attic/epic
-3412	
-3414	
-
-attic/epic
-
-doric/aeolic
-3420	
-
-
-attic/epic/doric
-ionic
-3426	
-
-
-attic/epic/doric
-
-3432	
-attic/epic/doric
-
-
-3438	ionic
-3442	
-
-
-
-
-3448	
-3450	
-
-3453	
-
-3456	ionic
+3409	attic/epic
+3416	attic/epic
+3418	doric/aeolic
+3423	attic/epic/doric
+3429	attic/epic/doric
+3433	attic/epic/doric
 3458	doric/aeolic
-
-
-3462	
-attic/epic/doric
-3465	
-attic
-3468	
-attic
-
-3472	
+3463	attic/epic/doric
+3466	attic
+3469	attic
 3474	epic
-3476	
-attic/epic/ionic
-
-
-
-
-
-attic/epic
+3477	attic/epic/ionic
+3483	attic/epic
 3488	attic/epic
-3491	
 3494	attic/epic
 3497	attic/epic
 doric/aeolic
-
-3501	
-
-
-
 3506	epic/doric/aeolic
 epic/doric
 attic/epic
-3510	
-
 3514	doric/aeolic
-3518	
-
 3521	doric
 3524	attic/epic
-3527	
 3530	epic/doric
-
 3533	doric/aeolic
-
 3536	doric/aeolic
-3539	
-doric/aeolic
-3542	
-
-
-3547	
-attic/epic/doric
+3540	doric/aeolic
+3548	attic/epic/doric
 3550	epic
-
-
-attic/epic/ionic
-3555	
-epic
-3559	
+3553	attic/epic/ionic
+3556	epic
 3561	doric/aeolic
-3564	
-
-
 3568	doric
-3571	
-attic/epic/doric
-3575	
-
+3572	attic/epic/doric
 3578	epic/doric
-
 3581	doric/aeolic
-
 3584	aeolic
-3587	
-doric/aeolic
-3590	
-
-
-3595	
-attic/epic/doric
-3599	
-
-attic/epic/ionic
+3588	doric/aeolic
+3596	attic/epic/doric
+3601	attic/epic/ionic
 3603	epic
 3605	epic/doric/aeolic
-
-epic/doric/ionic/aeolic
+3607	epic/doric/ionic/aeolic
 3609	attic/epic/ionic
-epic/doric/ionic/aeolic
-3612	
-3614	
-
 3617	doric
-3620	
-attic/epic/doric
-
-
-3625	
-epic/doric/aeolic
-3630	
-doric/aeolic
-
-3634	
-
-
-
-
-doric/aeolic
-3641	
-
-attic
-
-3646	
-attic/epic/doric
+3621	attic/epic/doric
+3626	epic/doric/aeolic
+3631	doric/aeolic
+3639	doric/aeolic
+3643	attic
+3647	attic/epic/doric
 3650	attic/epic/doric
 3653	attic/epic
-
-
-
-doric/aeolic
+3657	doric/aeolic
 3659	attic/epic/ionic
-3661	
-3663	
-3665	
-
-
-
-
 3672	epic/doric/ionic/aeolic
-3674	
-
-
-3678	
-
-
-
-epic/doric/aeolic
-3684	
-doric/aeolic
-
-
-
-attic/epic
-
-3692	
-3695	
-epic/doric
-
-ionic
-doric/laconia
-
-3703	
-ionic
-3706	
-
+3682	epic/doric/aeolic
+3685	doric/aeolic
+3689	attic/epic
+3696	epic/doric
+3699	doric/laconia
 3709	attic/epic/doric
-3712	
-
-
-epic
-
-3718	
-
-
-3722	doric/aeolic
-3724	
-
-attic/epic/doric
-3728	
+3722	doric
+3726	attic/epic/doric
 3730	epic/ionic/attic/doric
-3732	
-3735	
-
-
-3739	
-
-
-3743	
-
-doric/aeolic
-
-
-
-3751	
-epic
-
+3745	doric/aeolic
 3756	attic/epic/doric
-3758	
-
-doric/aeolic
-
-3763	
-epic/doric/aeolic
-3766	
-
+3760	doric/aeolic
+3764	epic/doric/aeolic
 3772	doric
 attic/epic/doric
 3777	attic/epic
-
-
-
 3783	attic/epic
-
-3786	
-
-3790	
 3792	attic/epic/doric
 attic/epic/ionic
-
-doric
-3800	
-attic/epic
-3803	
-
+3795	doric
+3801	attic/epic
 3806	doric
-
-3809	
 3813	attic/epic/doric/ionic
-3816	
-3822	
-
-
-
-
-
-3829	
-3831	
-3833	ionic
-3835	
-3837	
-
-3840	
-3843	
-3845	
-
-3848	
-
-
-attic/epic
-
-
-
-3857	
+3838	attic/epic
+3851	attic/epic
 3859	doric/aeolic
-
-epic
-
-
-
-attic/epic/ionic
-epic/doric/ionic/aeolic
-3868	
-
-ionic
+3865	attic/epic/ionic
 3872	doric/aeolic
-
-epic
+3874	epic
 3876	doric/aeolic
-
 3880	doric
-3882	
-3887	
-3889	
-3892	
 3894	attic/epic
-
-
-3900	
 3904	doric
-
-3907	
-3911	doric/aeolic
+3911	doric
 3917	epic
-
+epic
 3920	attic
-3922	
 3924	doric/aeolic
 doric/aeolic
-
-epic
+3927	epic
 3929	doric/aeolic
 3932	attic/epic/doric
-3934	
-
-3937	
-3941	ionic
 3943	doric/aeolic
-epic/doric/ionic/aeolic
-3946	
-epic
-
-
-3951	
-
+3947	epic
 3954	doric/aeolic
-
-3957	
-
-
-
-
 3964	epic
-3966	
-
-attic
-
-attic/epic
-
+3968	attic
+3970	attic/epic
 3973	epic
 attic
-
-
-
-
-3981	
-3984	
-
-
-
-
-
-3991	
-3994	
-3997	
-
-4000	
-
-
-attic/epic/doric/ionic
-4008	
-
-4011	
-
-epic/doric/ionic/aeolic
-doric/aeolic
-
-ionic
-4020	
-
-doric/aeolic
-
+4003	attic/epic/doric/ionic
+4014	doric/aeolic
+4022	doric/aeolic
 4025	attic/epic/doric
-4029	
-
-epic/ionic
-4036	
-
-doric
-4044	
-4046	
-
-
-
-4051	
-
-
-
-
-4057	
+4031	epic/ionic
+4038	doric
 4059	attic/ionic
 4061	attic/epic/doric
-4063	
-epic/ionic
+4064	epic/ionic
 4067	doric/aeolic
 attic/epic/ionic
-
 4071	epic
-4073	
-4077	
-4079	
-attic/epic/doric
-4082	
-
-
-epic
-epic/doric/ionic/aeolic
-4088	
-ionic
+4080	attic/epic/doric
+4085	epic
 4091	doric/aeolic
-ionic
 4094	doric/aeolic
-
-4097	
-
-4101	
-
-
-4106	doric/aeolic
-4108	
-4110	
-4112	
-4114	
+4112	epic
 4117	attic/epic/doric
-
-
-
+4121	attic
+4124	epic
 attic
-4123	
-epic
-attic
-
-4130	
-
-
-epic/doric/aeolic
+4133	epic/doric/aeolic
 4135	doric/aeolic
-4137	
-4139	
-
-doric/attic/epic/ionic
-
+4141	doric/attic/epic/ionic
 4145	attic/epic/doric
-4147	
-
-4150	
-4152	
-ionic
-4156	
-
-4159	
-
-
-
-4165	
-ionic
 4170	attic/epic/doric
 attic/ionic/epic/doric
-doric
-
-4175	
-attic
+attic/epic/ionic
+4176	attic
 epic/ionic/attic
-ionic
 4180	doric/aeolic
-4182	
-
-4186	
-4189	
-4192	ionic
-4196	
-4198	
-
-
 4202	attic/epic/doric
-doric
-
-epic/doric/ionic/aeolic
-
-ionic
-epic/ionic
+attic/epic/ionic
+4205	epic/doric/ionic/aeolic
+4208	epic/ionic
 attic/epic
 attic
-4216	
-
-
-
-
-epic/doric/ionic/aeolic
-epic
-ionic
+4222	epic
 4225	attic/epic/doric
-4227	
-ionic
 4230	doric/aeolic
-4232	epic/doric/ionic/aeolic
-attic/epic/doric
-
-
-
-
-doric
+4233	attic/epic/doric
+4238	doric
 epic
 4241	attic/epic/doric
-
-
-4246	
-
-attic/epic
+4248	attic/epic
 4250	attic/epic/doric/ionic
-4253	
-
-doric/aeolic
+4255	doric/aeolic
 4257	attic/epic/doric
 doric
-
-
-epic/ionic
-
-
+4261	epic/ionic
 4265	attic/epic
 4267	doric
-
-
-doric/aeolic
+4270	doric/aeolic
 attic/epic
-
-
-
-
-attic/epic
-
-
-4280	
-epic/doric
-
-4285	
-4288	
-
-doric/aeolic
-
-4293	
+4276	attic/epic
+4281	epic/doric
+4290	doric/aeolic
 4295	attic/epic
-
-4298	
-
-doric/aeolic
-
-
-epic
+4300	doric/aeolic
+4303	epic
 attic
-
-
 4308	attic/epic/ionic
 4310	doric/aeolic
-
-
-attic/epic
-4315	
-epic
-
+4313	attic/epic
+4316	epic
 4319	epic/doric
-4321	
-ionic
-4325	
-4328	
-ionic
-4332	
-4335	
-attic/epic/doric
-4341	
-4343	
-doric/aeolic
-4348	epic/doric/ionic/aeolic
-epic/ionic/attic/doric
-
-
+4336	attic/epic/doric
+4344	doric/aeolic
+4349	epic/ionic/attic/doric
 4353	epic
-4355	
-
 4358	doric/laconia
-
-
-4362	
-
-attic/epic/doric/ionic
+4364	attic/epic/doric/ionic
 4367	doric
 attic/epic/ionic/doric
-
-epic/doric/ionic/aeolic
-4372	
-
-
-
-
 4378	attic/epic/doric
 4380	doric/aeolic
 4385	attic/epic
 attic
-4389	
-
-4393	
-4395	
-4397	
-
-
-
-
-
-attic/epic/doric
-4405	
-
-
+4399	doric/aeolic
+4403	attic/epic/doric
 4409	epic/doric
-
-4412	
-
-
-doric/aeolic
+4415	doric/aeolic
 epic
-
-4421	
-doric/aeolic
+4422	doric
 4426	epic
-
-4429	
-
-4432	
-doric/aeolic
-
-4436	
-
-
-doric/aeolic
-4441	
-4443	
-
-doric/aeolic
-
-
-
-
-4452	
-4454	
-
+4433	doric/aeolic
+4439	doric/aeolic
+4445	doric/aeolic
+4448	doric/aeolic
 4457	doric/aeolic
-
-
-epic
-4462	
-
-
-
-
-4468	
-
-attic
-4474	
-4476	
-4478	
-
+4460	epic
+4466	attic/epic/ionic
+4470	attic
 4482	doric/aeolic
-4484	
-4486	
-
-
-4490	
-attic/epic/doric/ionic
-4494	
+4491	attic/epic/doric/ionic
 4496	doric
-4498	
-4501	
-4505	
-
-attic
-4510	
-doric/aeolic
-4513	ionic
-epic
-
-epic/doric/ionic/aeolic
-ionic
+4507	attic
+4511	doric/aeolic
+4514	epic
+4516	epic/doric/ionic/aeolic
 4519	doric
-
-4524	
-attic/epic/doric
-4527	
+4525	attic/epic/doric
 4529	attic/epic
-4531	
-attic/epic/doric
+4532	attic/epic/doric
 4534	doric/aeolic
 epic
-
-epic/doric/ionic/aeolic
-ionic
+4537	epic/doric/ionic/aeolic
 4540	doric
 4543	attic/epic/doric
-
-
-4547	
-attic/epic/doric
-
-
+4548	attic/epic/doric
 4552	attic/epic
-
-
-
-attic
-
-
+4556	attic
 4561	doric/aeolic
-4563	
-4565	
-
 4570	epic
-4573	
-
-4576	
-4578	
-doric/aeolic
-
-epic/doric/ionic/aeolic
-attic/epic/doric
+4579	doric/aeolic
+4582	attic/epic/doric
 4584	attic/epic/doric
-
-doric/aeolic
+4586	doric/aeolic
 attic/epic/doric/ionic
-
-
-attic
-
-attic
-4594	
 epic
-4597	
+4590	attic
+4592	attic
+4595	epic
 4599	doric/aeolic
-
 4602	attic
-4604	
-4606	
-4608	
-epic
+4609	epic
 4611	attic/epic/doric
-4613	
-attic/epic/doric/ionic
-
-
-epic/doric/ionic/aeolic
-
-epic/doric/aeolic
-
+4614	attic/epic/doric/ionic
+4617	epic/doric/ionic/aeolic
+4619	epic/doric/aeolic
 4622	doric/aeolic
-
-4625	
-4627	
-4631	
-
-ionic
 4635	doric/aeolic
 attic
-
 4639	attic/epic/doric
 4641	epic/doric/aeolic
 4645	attic/epic/doric
 epic
-
-
 4652	attic/doric/laconia
 doric/aeolic
-
-4656	
-
-
-4661	
 4664	epic/doric
-4669	
 4671	attic/doric/laconia
-4673	
-
-doric/aeolic
-4677	ionic
-attic/epic/ionic
+4675	doric/aeolic
+4678	attic/epic/ionic
 4680	attic/epic/ionic
-4682	epic/doric/ionic/aeolic
-doric
+4683	doric
 4685	attic/epic
 attic
-4689	
-4692	
-attic/ionic
-
-epic
-4699	ionic
+4693	attic/ionic
+4695	epic
 4701	doric/aeolic
-
-
-
-
-4707	
-
-
-
-
-
-4715	
-epic
-
-
-
-
-
-
-4724	
-
-
+4716	epic
 4729	epic/doric
 4731	doric
-4734	
-
-4739	
-
-
-
-epic
-4746	
-4751	
+4743	epic
+4752	attic/epic/ionic
+4754	attic/epic/ionic
 attic/epic/ionic
-
-attic/epic/ionic
-attic/epic/ionic
-
-4758	
-attic/epic/doric
-4761	
-
-
+4759	attic/epic/doric
 4766	attic
-
-4769	
-4773	
-attic/epic/doric
-
+4774	attic/epic/doric
 4777	doric
-4779	
+4780	attic/epic
+4787	attic/epic
+4795	epic
+4798	doric/aeolic
 attic/epic
-4782	
-4785	
-
-attic/epic
-
-
-
-
-
-
-epic/doric/ionic/aeolic
-epic
-
-
-doric/aeolic
-attic/epic
-
+attic/epic/ionic
 4802	doric/aeolic
 doric/aeolic
-4805	
-4808	
 4812	doric/laconia
-4814	
-4817	
-4820	
+4817	attic/epic/ionic
+4820	attic/epic/ionic
 doric/aeolic
 attic/epic/doric
-4826	
-
-
-
-doric/aeolic
-4836	
-
-4839	
-
-4842	
-
-
-4848	
+4830	doric/aeolic
 4850	doric/aeolic
-
-
 4854	attic
-
-attic
+4856	attic
 4859	doric
 epic/doric/aeolic
-ionic
-4864	
-epic/doric/ionic/aeolic
-4868	
-epic/doric/aeolic
-
-4872	
+4869	epic/doric/aeolic
+4873	doric/aeolic
+doric
+4881	attic/epic/ionic
+4884	attic/epic/ionic
 doric/aeolic
-doric
-4878	
-4881	
-4884	
-doric/aeolic
-
-4888	
-
-
-4893	
-
-
-
-
-
-4900	
-
-4903	
-4906	
-attic
-4910	
-
-4913	
-
-4916	
-doric
-4920	
-doric
-4923	
-attic
-4928	
-
+4907	attic
+4917	doric
+4921	doric
+4924	attic
 4932	doric/aeolic
-
-4935	
-4937	
-4941	
-
-
-
-
-
-
-ionic
-
-4951	
-
-4954	ionic
-4957	
-
-
-4961	
-4963	
-4965	
-
-attic
-4971	
-
-
-4975	
-
-
-
-
-
-
-
-4984	
-
-
-ionic/doric/aeolic
+4967	attic
+4987	ionic/doric/aeolic
 4989	ionic/doric/aeolic
 epic
-
+attic/epic/ionic
 doric
-4997	
-ionic
-doric/aeolic
+4999	doric/aeolic
 doric/aeolic
 epic/doric
-
-doric/aeolic
-ionic
-
-5008	
-5015	
+5003	doric/aeolic
 5018	doric/aeolic
-
-ionic
-5023	
-5025	
-5027	
-
-
-
+5023	attic
 5034	attic/epic/doric/ionic
-
-
-
-
-5041	ionic
+5036	doric
+attic
 5043	doric/aeolic
-
 5047	doric/aeolic
-5050	
-
-
-5054	
-doric/aeolic
+5055	doric/aeolic
 epic/doric
 5059	doric/aeolic
-5061	
-5063	
-
-doric/aeolic
+5065	doric/aeolic
 epic/doric
 5068	epic/doric
-
-5072	
-
-doric
+5072	attic
+5074	doric
 epic/doric
-5077	
 5079	doric
 epic/doric
-5082	
-5084	
-
-5089	
-5092	
-doric
+5082	attic/epic/doric
+5093	doric
 epic/doric
 attic/epic/ionic
-
-doric
-
+5097	doric
 5100	attic/epic/ionic
-5104	
-
-5107	
-
-attic/ionic
+5109	attic/ionic
 attic/epic/ionic
 attic/epic/doric
 attic/epic/doric
-
-epic/doric
-
-5117	
-
-doric
+5114	epic/doric
+5119	doric
 ionic
-5123	
-
-attic
-5127	
-
-
-doric/aeolic
-
-5133	
-
-
-attic/epic/doric/ionic
+5125	attic
+5130	doric/aeolic
+5136	attic/epic/doric/ionic
 5138	epic/doric
-ionic
-
-5142	
-5145	
-attic/epic/doric/ionic
+5146	attic/epic/doric/ionic
 epic/doric
-5149	
-
 5153	attic/parad_form
-
-5156	
-ionic
-doric/laconia
-
+5158	doric/laconia
 5165	epic
 epic/doric
-
-attic/ionic/doric
-
-
-
-doric
+5168	attic/ionic/doric
+5172	doric
 5175	doric
-
-attic/epic/ionic
-
-
-
-doric
-
-5185	
-
+5177	attic/epic/ionic
+5181	doric
 5188	doric/aeolic
 5191	attic
 5193	epic/doric
 5195	attic/epic/doric
-
-doric
-
-5202	ionic
-5210	
-parad_form
+5197	doric
+5211	parad_form
 5213	attic/epic/doric/ionic
 5216	epic/ionic
-5218	
-5220	
+5220	epic
 5222	doric/aeolic
-
-
-5226	
-ionic
 5234	epic/doric
-
-
-attic/ionic
-
-
-ionic
+5237	attic/ionic
 5242	doric
 attic/epic/ionic
-5245	
-doric
-
-
-doric
+5246	doric
+5249	doric
 doric/aeolic
 attic/epic
 attic
-5254	
-
-
-epic
+5254	doric
+5257	epic
 attic
-
-
 5262	attic/epic/ionic
-
-5266	ionic
-
-
-5270	
-
-
-attic/epic
+5273	attic/epic
 attic/epic/ionic
-
-doric/aeolic
-
-
-5280	
-5282	
-
-
-
-
-
-
+5276	doric/aeolic
 5290	epic/doric
-5293	
-
-5297	
-
-5300	
-5305	
-
-
-5310	
-
-
-5314	
-
-doric
-
-
-
-epic/ionic
-
-attic/epic
+5316	doric
+5320	epic/ionic
+5322	attic/epic
 attic
-5325	
-ionic
-5329	
-
-
-
-doric
-5335	
-epic/ionic
-
-
-5344	
-
-
-
-epic/ionic
-5350	
-5352	
-5354	
-5357	
-
-5360	
-5362	
+5333	doric
+5336	epic/ionic
+5348	epic/ionic
+5360	attic/epic
 5364	attic/epic
 5366	epic
-
-
-
-5371	
 5373	attic/epic/ionic
 epic/doric/ionic
 attic
 5377	epic/doric
 epic/doric
-5381	
-5385	
+5385	attic/epic/ionic
 attic/epic/ionic/doric/aeolic
 epic
-
 5390	epic/ionic
-
-
-
-5398	
-
-
-
-
-
-
-
-
-
-
-attic
-5411	
-attic
-
-5415	
-5418	
+5409	attic
+5412	attic
+5418	attic
 doric
-5421	
-
-
-doric/aeolic
-
-5427	
-attic
-5430	
-attic
-
-5434	
-
+5424	doric/aeolic
+5428	attic
+5431	attic
+5435	attic/epic/ionic
 doric
-
-
-attic/epic/doric
+5439	attic/epic/doric
 epic/doric
-
 5443	attic/epic/ionic
-
-
-attic/epic/doric
+5446	attic/epic/doric
 epic/doric
 doric/aeolic
 doric/aeolic
-
 5452	doric/aeolic
-5454	
-attic
-5457	
-5460	
-5462	
-5466	
+5455	attic
 5468	doric/aeolic
 5472	attic
-
-
-5476	
-
-
-5480	
-5482	
-
-
-5486	
-5489	
-
-5492	
-5494	
-
-
-5498	
-5502	
-
-5506	
 5508	attic/epic
-doric
-
-
-5513	
-5515	
-
-5518	
-
-
-5523	
-
-5526	
-
-5529	
-
-5532	
 5534	epic/doric
-
-5538	
-
-5543	
-5545	
-5547	
-ionic
-doric/aeolic
-5555	
-5557	
-ionic
-doric/aeolic
-
-5562	
+5549	doric/aeolic
+5559	doric/aeolic
 5566	doric/aeolic
-
-
-
-
 5572	epic/doric/laconia
-
-
-ionic
-doric/aeolic
-
-attic/epic/ionic
-
-doric
-
-
-
-5586	
-epic/doric/ionic/aeolic
-5589	
-5591	
-
-
-5595	
-
-
+5576	doric/aeolic
+5578	attic/epic/ionic
+5580	doric
 5600	attic
-5604	
 5606	epic
-
-
-5610	
-
-
-attic/epic
-5615	
+5613	attic/epic
 5617	attic
-
+5619	epic
 epic
-
-
-
-
-
-
-5627	
-
-5630	
-
-
 5634	epic/ionic/attic/doric
-
-
-
-
-5640	
-5642	
-
-5645	
-
-epic
+5647	epic
 5649	epic/ionic/attic/doric
 attic/epic/doric
 epic/ionic/attic/doric
 5654	epic/ionic/attic/doric
 epic
-5657	
-5660	
-5663	
 5666	doric/aeolic
-
-5669	
-
-5673	
-
-
-
-attic/epic
+5677	attic/epic
 5679	attic/epic/doric
-
-
-
-5684	ionic
-5686	
-doric/aeolic
-5689	
-attic
-
-doric/aeolic
-
+5687	doric/aeolic
+5690	attic
+5692	doric/aeolic
 5695	attic/epic/doric
-5697	
-
-
-attic/epic/doric
-
-
-
-5705	
+5700	attic/epic/doric
 5707	ionic
-
-
-doric/aeolic
-
-5713	
-attic/epic/doric
+5710	doric/aeolic
+5714	attic/epic/doric
 epic
-
-doric
-5719	
-5723	
-
+5717	doric
 5726	attic/epic/doric
 attic/epic/doric
-
-5731	
 5733	epic/ionic/attic
-
-5736	
-5738	
-
-
-
-attic/epic/ionic
-
-doric
-
-5747	
+5742	attic/epic/ionic
+5744	doric
 5749	doric
-5751	
-attic
-5754	
-5756	
-
-
-
-
-
-5763	
-5765	
-5767	
-
-
-attic
-5772	
-5774	
-
-
-
+5752	attic
+5770	attic
+5772	doric
 5780	doric/aeolic
 epic
-5785	
-doric/aeolic
-5788	
-
-
-
-5794	
-
-ionic
-5799	
-
-
-5803	
-
-5807	
-5809	
+5786	doric/aeolic
+5790	doric
+5796	ionic
 5811	doric/aeolic
 5813	attic/epic/ionic
-5815	
-5817	
 5819	epic
-
-attic/epic/doric
+5821	attic/epic/doric
 5823	attic/epic/doric
 attic/epic/doric/ionic
 5826	doric
-5828	
-
-5832	
-5834	
-5836	
 5838	doric/laconia
 5840	attic/epic/ionic
 5842	epic
-
-
-
-
-epic
+5847	epic
 attic
-
-doric/laconia
+5850	doric/laconia
 5852	attic/epic/ionic
 5854	epic
 attic/epic/doric
-5857	
 5859	doric
 attic/epic/doric
-
-5863	
-5866	
-
-
-
-epic
-5872	
-
+5870	epic
 5875	doric/aeolic
 attic/epic
-
-5880	
-doric/aeolic
+5881	doric/aeolic
 attic
-
-
-
-5888	
-5891	
-5893	
-
-
-
-5900	
+5901	attic
+5903	doric/aeolic
+5905	doric
+doric
 attic
-
-doric/aeolic
-
-doric
-doric
-
-
-5913	
-
-doric
-
-5919	
-5921	
-
-5924	
-doric
-5929	
-
-
-5933	
-
-attic/ionic
-
-
-
-5941	
-attic
-
-doric/aeolic
-
-
-5948	
-
-5952	
-
-doric
-
-attic/epic/ionic
-5958	
-5960	
-
-5963	
-
-
-
-attic/epic
-
-epic/ionic/attic/doric
-
-
-
-attic/epic/doric
-
-
-
-attic
-
+5915	doric
+5925	doric
+5930	doric
+5933	doric
+5935	attic/ionic
+5942	attic
+5944	doric/aeolic
+5948	attic
+5954	doric
+5956	attic/epic/ionic
+5967	attic/epic
+5969	epic/ionic/attic/doric
+5973	attic/epic/doric
+5977	attic
 5981	attic/epic/ionic
-
-attic/epic/ionic
-
-
-
-5988	
-5991	
+5983	attic/epic/ionic
 5993	epic
-
-5996	
-5998	
-6000	
-
-
-6005	
-attic
-6008	
+6006	attic
 6011	ionic
-6014	
-
-
-6018	ionic
-6021	
-ionic
-
-
-
-epic
+6022	ionic
+6026	epic
 6029	doric/aeolic
 doric/aeolic
-
-epic
-
-6038	
-6042	
-
-epic/doric
-
-6047	
-
+6032	epic
+6044	epic/doric
 6050	epic/doric
 6052	epic
-6054	
-
-6057	
-6060	
-ionic
+6061	ionic
 6066	epic
 epic/doric
-
-6070	
-
-6076	
-
-6079	
-
-attic/epic
-
-
-
-
-6088	
-
-6091	
+6081	attic/epic
+6088	epic
 6093	doric/aeolic
-
-6097	
-6102	
 6106	epic/ionic
-
-attic/epic/doric
-
-doric/aeolic
-
-epic
-
-
-6117	
-6119	
-6121	
-
-
-6125	
-attic/ionic/epic/doric
-6128	
-6131	
-6133	
-
-
-ionic
+6108	attic/epic/doric
+6110	doric/aeolic
+6112	epic
+6126	attic/ionic/epic/doric
 6139	attic
-
-6146	
-
-
-
-epic/doric/aeolic
-
-6153	ionic
-6156	
-
-
+6150	epic/doric/aeolic
 6160	epic/ionic
-
-
-
-6165	
-attic/epic
-
-
-6171	
-
-
-attic/epic
-
+6166	attic/epic
+6174	attic/epic
 6178	attic/ionic
-6180	
-epic
-
+6181	epic
 6184	doric
-
-attic
-
-
-6191	
-6194	
-6196	
-
-6199	
-doric/aeolic
-
-
-6205	
-
+6186	attic
+6200	doric/aeolic
+6202	attic
 6209	attic
-6211	
-epic
+6212	epic
 attic
-
-epic/doric/ionic/aeolic
-epic
-6218	
-ionic
-6222	
+6216	epic
 6224	attic/epic/doric
-6226	
-
-doric/aeolic
-6230	
-6232	
-
-6237	
-
-
-
-
-6243	
-
-
-6247	
-epic/doric
-6251	
-
-epic
+6228	doric/aeolic
+6248	epic/doric
+6253	epic
 6255	doric/aeolic
-
-6260	ionic
-6262	
-
+6262	attic/epic
 6266	attic/epic/doric/ionic
-
-6269	
 6271	attic
-6276	attic/epic/ionic
-6278	
-
-attic/epic
-6282	
-
-6285	
-6287	
+6276	doric
+6280	attic/epic
 6290	doric/aeolic
-
-
-doric
-6296	
-6299	
-6301	
-6305	
-6307	
-6313	
+6293	doric
 6320	attic/ionic
-
-
-
-
-6327	
 6330	epic
-
+epic
 6333	attic
-6335	
-attic/epic/doric
-
-epic
-
-
-6342	
-6344	
-
-epic/doric
-
-doric/aeolic
-
-
-6353	
+6336	attic/epic/doric
+6346	epic/doric
+6348	doric/aeolic
 6360	attic/epic/doric/ionic
-
-
-ionic
-
-ionic
-
-
-
-6370	
 6372	epic/doric
-
-6375	
-
-
-6379	
-
-
-
-
-
+6383	doric
+attic
 doric
-ionic
 6391	attic/epic
-6393	
-doric/aeolic
+6394	doric/aeolic
 epic
-
-
-
-6408	
-6413	
-6415	
-attic/epic/doric
-6418	
-
-6422	
-epic
-6425	
-6429	
-6431	
-
-
-
-
-
-
-attic/epic
-6440	
-
-
-doric
+6416	attic/epic/doric
+6423	epic
+6438	attic/epic
+6443	doric
 6445	doric/aeolic
 attic/epic
-
-
-
-doric
-
-
-6457	doric
+6450	attic/epic/ionic
+6457	attic/epic/ionic
 epic/doric/ionic/aeolic
-
-
-
-6464	
-6467	
-
-
-6472	
-6476	
-6479	
-
-
-6483	
-attic/epic/doric
-
-6487	
-
-
-
-
-epic/doric
-
-
+6484	attic/epic/doric
+6492	epic/doric
+6495	epic
 epic
-
 6499	doric/aeolic
 6501	epic/doric
-
-6504	
-6506	
-attic/epic/doric
-
-
-
-
-
+6507	attic/epic/doric
 6514	epic/doric
-
-
-attic
-
-
-
-doric/aeolic
-
-6524	ionic
+6517	attic
+6521	doric/aeolic
 6526	doric/aeolic
 attic
-
-6530	
-doric/aeolic
-
-
-doric/aeolic
-
-
-
-6539	
-6541	
+6531	doric/aeolic
+6534	doric/aeolic
 6543	doric/aeolic
-
-
-
-
-
-6550	
-6552	
-6555	
-
-epic/ionic/attic/doric
-6559	
-
-
-6563	
-doric
-doric
-
-6568	
-6572	
+6548	doric/ionic
+6557	epic/ionic/attic/doric
+6561	doric/aeolic
+6564	doric
+attic/epic/ionic
 6574	attic
-6576	
-
 6581	doric/aeolic
-
-6584	
-attic
-
-attic
-
-6590	
-6593	
-
-
-attic
+6585	attic
+6587	attic
+6593	attic
+6596	attic
 6598	attic
-
-
-6602	
-6604	
-
-attic/epic
-6609	
-attic/epic
+6606	attic/epic
+6610	attic/epic
 doric
-
-
-6616	
-6619	
-
-
-
-
-6626	
-6629	
-
-
-
 6634	attic
-
-6641	
-
-
-6645	
-6647	
 6649	attic
 6652	ionic
 6655	attic/epic
-
-6659	
-attic
-
-6663	
-
-6666	
-
-6669	
-attic
-
-6673	
-
-
+6660	attic
+6670	attic
 6677	doric
-
-
-6681	
-
+6683	attic/epic/doric/ionic
+6685	epic
 attic/epic/doric/ionic
-
-epic
-attic/epic/doric/ionic
-
-
-6690	
-
-6693	
-6695	
-doric
-
-6700	
-
-doric
-
-
-
-
-
-doric
-
-
-6713	
-6715	
-
-
+6696	doric
+6702	doric
+6708	doric
 6719	attic/epic/doric
-
 6722	epic/ionic/attic/doric
-
-
-
-doric/aeolic
+6726	doric/aeolic
 6730	attic/epic/doric/ionic
-6733	
-6736	
-
 6741	attic
 6745	epic/doric/aeolic
-
-
-
-
-attic
+6750	attic
 6752	attic/epic
 doric/aeolic
 6755	attic/epic
-6759	
-epic
+6760	epic
 attic
-
-
-
-ionic
+6765	ionic
 6767	attic/epic/ionic
 attic/epic
 doric/aeolic
 6771	attic/epic
-6776	
-
-attic/ionic
-
-6781	
+6778	attic/ionic
 6784	attic/epic/doric/ionic
-6786	
-6788	ionic
 6793	attic/epic/doric
-
-6797	
-attic
-6800	
-
-attic/ionic
-
-6805	
-6808	
-6810	
-
-
-
-
+6798	attic
+6802	attic/ionic
 6816	attic/epic/ionic
-
 6819	doric/aeolic
-
 6822	attic/epic/doric
-
-
-6829	
-6831	
-
-attic
-
-6838	
-attic/epic/doric
-6842	
-
-
-
-ionic
-6849	
-
-6852	
-6854	
-
-
-6858	
-6860	
-
-6864	
-6866	
-
-
-6870	
-
-6873	
-attic/epic/doric/ionic
-
-6878	
-
-attic
-
-
-
-
-
-6889	
-
-
-
-doric/aeolic
-6895	
+6833	attic
+6839	attic/epic/doric
+6874	attic/epic/doric/ionic
+attic/epic
+6880	attic
+6893	doric/aeolic
 6898	attic/epic/doric
 attic/epic/doric
-
-
-6903	
-6905	
-6907	
-6909	
-
-
-6913	
-
-attic/epic/doric
-
-
-
-6920	
-6922	
-
-6926	
-
-
+6907	attic/epic/doric
+6915	attic/epic/doric
+6923	attic/epic/doric
 6930	epic/ionic/attic/doric
-
-attic/epic
+6932	attic/epic
 doric
-
-
-6937	
-
-
 6941	doric
 epic
-
-6945	
-6947	
-6949	
-
-
 6953	epic/doric/aeolic
-
-
-attic/epic/doric
-
-
-
-6961	
-6963	
-6966	
-
-6969	
-attic
-6972	
-attic
-
-
-6977	
-6982	
-6984	
-
-
-attic/epic/ionic
-6989	
-
-6992	
-6994	
+6956	attic/epic/doric
+6966	attic
+6970	attic
+6973	attic
+6987	attic/epic/ionic
 6996	doric/aeolic
-6998	
 7001	attic/epic/doric
-7005	ionic
-7007	
-7011	
-7013	
-7019	
-
-
-7023	
-attic/epic/doric
-
-
-attic/epic/ionic
+7024	attic/epic/doric
+7027	attic/epic/ionic
 attic
 epic/ionic/attic/doric
-7031	
-attic/epic
+7032	attic/epic
 epic/ionic/attic/doric
-7035	
 7037	epic
-
-7040	
-7042	
-
-
-7046	
-doric/aeolic
 7049	epic
-
-
-doric/aeolic
-7054	
+7052	doric/aeolic
 7056	attic/epic/ionic
 7059	epic/doric/ionic/aeolic
-7061	
-7063	
+7061	epic
 7066	attic/epic/ionic
-
-7072	
-7074	
+7072	epic
 7076	doric/aeolic
-7078	doric/aeolic
 7080	epic
-
+7082	doric/aeolic
 doric/aeolic
-doric/aeolic
-7085	
-
-doric/aeolic
-7090	
-doric/aeolic
+7087	doric/aeolic
 7093	epic
-
 7096	attic/epic/ionic
 7098	attic/epic/ionic
 7100	epic
-
-
-7104	
-
-7107	
-
-7110	
-
-
-7115	epic/doric/ionic/aeolic
-7117	
-doric/aeolic
+7118	doric/aeolic
 epic/ionic
-
-
-
-
+7121	doric/aeolic
 7125	attic/epic
-
-
 7129	epic/ionic/attic/doric
-
-
-doric
-7135	
-doric/aeolic
-7138	
-
-
-
-7143	
-7147	
-7149	
-7154	
-
-7157	
-
-
-7161	
-
-7164	
-7166	
-attic/epic/doric
-
-7170	
-epic
-7174	
-epic
-ionic
-epic
-7179	
-
-
-
-7184	
-attic/epic/doric/ionic
+7132	doric
+7136	doric/aeolic
+7162	epic
+7167	attic/epic/doric
+7171	epic
+7175	epic
+7177	epic
+7185	attic/epic/doric/ionic
 7187	epic
-7189	
-
-
-7196	
-
-
-7201	
-ionic
+7202	ionic
 attic
-7208	
-
-7214	
-7216	
-
-attic/epic/doric
-7223	
-7226	
-ionic
-
+7209	attic
+7218	attic/epic/doric
+7227	ionic
 7232	epic
 7234	epic/doric
-7236	
-
-7239	
-epic
-7242	
+7240	epic
 7244	epic/doric
-
-epic
+7246	epic
 attic/epic/ionic
-7249	
-doric
-
+7250	doric
 7253	doric/aeolic
-7255	
 7257	attic/epic/doric
-
-
-7261	
-7264	
-
-
-7268	
-7272	
 7274	epic/doric
 attic
 doric/aeolic
-7282	
-7284	
-7287	
-
-7290	
-7292	
-
-
-ionic
-
-7299	
-
-7302	
+7295	ionic
+7303	epic
+7308	doric/aeolic
 epic
-
-7306	
-
-doric/aeolic
-epic
-7312	
-7315	
-7317	
-
-
-7322	
-
 7325	doric/aeolic
-
-
-doric/aeolic
-7334	
-7336	
-7339	
-7341	
-7343	ionic
-doric/aeolic
+7328	doric/aeolic
+7336	epic
+7344	doric/aeolic
 doric/aeolic
 epic
-7349	
-7352	
-7354	
-
-attic
-7359	
-ionic/doric/aeolic
+7356	attic
+7360	ionic/doric/aeolic
 attic
 attic
-
-7369	
-7371	
 7373	attic/epic/ionic
 attic/epic/ionic
 epic
-7378	
-7381	
-7383	
 7385	doric/aeolic
 attic/epic
 7388	attic/epic
-
-7391	
-
-7394	
-
-7397	
-doric/ionic
+7398	doric/ionic
 epic/doric
-7401	
-
-7404	
-
-
-
 7409	doric/aeolic
-
-7412	
-attic/epic
-7415	
-
+7413	attic/epic
 7418	attic/epic
-7421	
-
-
-
-7427	
-7429	doric/aeolic
-
+7431	attic
 attic
-attic
-7434	
-
 7437	attic/ionic
-
-7441	
-attic/ionic/epic/doric
-
-doric
-7446	
-7450	
-
+7442	attic/ionic/epic/doric
+7444	doric
+7452	attic
 attic
-attic
-
-
-
-
-
+7457	attic/epic
 7460	attic/epic/ionic
-
-attic/epic
-7465	
-7467	
-7469	
-7472	
+7462	attic/epic
+7465	epic
 7476	attic/ionic/epic/doric
-
-7479	
-
-epic
-7485	
-
-
+7481	epic
 7489	epic
-7491	
-
-
-
-7496	
-
-
+7497	doric
 7501	epic/ionic
-7503	
-
+7504	doric
 attic
-7508	
-
-attic
+7510	attic
 7512	attic/epic/ionic
-7514	
-
-
-
-7520	
-
-ionic
-doric/aeolic
-7526	
-
-7531	
-ionic
+7523	doric/aeolic
 7534	doric/aeolic
-
-doric/ionic
+7536	doric/ionic
 epic/doric
-7539	
-
-attic/epic/ionic
-7543	
-
-
-
-7549	
-
-7552	
-
-attic/epic
-7556	
-
-
-7562	
-7567	
-
-attic/epic/doric
-7576	
-
-attic
-
-7582	
+7541	attic/epic/ionic
+7554	attic/epic
+7569	attic/epic/doric
+7578	attic
 7584	epic/ionic/attic/doric
-
-doric/ionic
+7586	doric/ionic
 epic/doric
-7589	
-attic/epic/ionic
-7592	
-
-
-
+7590	attic/epic/ionic
 7598	attic/epic/doric/ionic
 7600	epic/doric
-ionic
 7604	doric/aeolic
-
-
-7608	
-
-
-7612	
-
-
+doric
 7617	attic/epic/doric
 7620	doric/aeolic
-7623	
 7627	epic
-
-attic
-7631	
-
-
-7637	
-7639	
-
-
-
-7646	
-ionic
-7649	doric/aeolic
-epic/doric/ionic/aeolic
-
-
-
-doric/aeolic
-
-
-
-attic
-7660	epic/doric
-
-7663	attic
-attic
-
-7667	epic/ionic/attic/doric
-
-
-attic/epic/ionic
-7672	
-7675	
 epic
 attic
-
-
-7683	
-7687	
-7690	epic
-
-
-7694	
-
-7698	epic
-
-
+7649	doric/aeolic
+7654	doric/aeolic
+7658	attic
+7660	epic/doric
+7663	attic
 attic
-
-
-7706	
-
-
-7710	
-7712	
-7715	
-7718	
+7667	epic/ionic/attic/doric
+7670	attic/epic/ionic
+7676	epic
+attic
+7690	epic
+7698	epic
+7701	attic
 7720	doric/aeolic
 attic/epic/doric
 epic
-7725	
-
-7733	
-
-
-attic
+7736	attic
 7738	attic/epic/doric/ionic
-
-epic
+7740	epic
 attic
-
-7745	
 7747	attic/epic/doric/ionic
-
-7750	
-
-
-
-
-7757	
 7759	doric/aeolic
 7761	doric/epic
-7763	ionic
 7766	attic
-
-
-7770	
-7773	
-7775	
-
-
-
-
-attic/epic/doric/ionic
-
-
-7784	
-
-
-attic
-7789	
-
-
+7768	attic/epic
+7780	attic/epic/doric/ionic
+7787	attic
 7794	attic/epic/ionic
-7796	
-
-
-
-7802	
-attic/epic
-7805	
-
+7803	attic/epic
 7808	epic/doric
-7810	
-7812	
-
-
 7816	attic/epic
-
-
-7820	
 7825	attic/epic/ionic
-7827	
-
-
-
 7832	doric
-
-epic/doric/aeolic
-
-7837	
-
+7834	epic/doric/aeolic
 7841	epic/doric/aeolic
-
-
 7849	attic/epic/ionic
-7851	
-
-
-
-epic/ionic
-7857	ionic
+7855	epic/ionic
 7859	doric/aeolic
-7861	
-7866	
-7868	
-
-7873	
-
-
-
-ionic
-doric/aeolic
-
-7881	
-
-
-7886	
-
-
-attic
-7892	
-attic/epic/doric
+7878	doric/aeolic
+7882	attic/epic/doric
+7889	attic
+7893	attic/epic/doric
 7895	attic/epic/doric
-7897	
-
-
-
-
 7903	doric/epic
-7905	ionic
 7908	attic
-
-
-7912	
-7915	
-7917	
-
-
-
-
-epic
-
-
-
-7927	
-
-
+7910	attic/epic
+7922	epic
+7929	doric/aeolic
 7932	epic
-7934	
-
-
-
-attic/ionic
-7941	
-7943	
-
-attic
-7947	
-
-7950	
-epic/doric/ionic/aeolic
-7953	
-7955	
-
+7938	attic/ionic
+7945	attic
+7957	doric/aeolic
 doric/aeolic
 doric/aeolic
-doric/aeolic
-7964	ionic
-7967	
-7970	
-
-epic/ionic
-
-7975	
+7972	epic/ionic
 7978	attic/epic
-
-
-
-
-7985	
-attic
-
-7990	
-attic
+epic
+7986	attic
+7991	attic
 7993	epic
-
-
-
-
-
-8001	
-8003	
-8008	
 8010	doric/aeolic
-8012	
-doric/aeolic
-
-
-
-8018	
+8013	doric/aeolic
+8015	attic/epic
+attic/epic/ionic
+8019	epic
 epic
-
-8022	
-
-
-8027	
-
-
-8031	
-
-
-
 8036	doric
-8038	
-
-
-
-8044	
-
-
-
-8049	
-attic/ionic/epic/doric
-
+8050	attic/ionic/epic/doric
+attic/epic
 attic/epic
 doric/aeolic
-
-8056	doric/aeolic
-
-
-
-attic/epic
-
-8064	
-8068	attic
-8070	
-8072	
-
-8076	
-
-8080	
-
-
-
-8085	
-8087	
-attic
-attic/epic/doric
-
-
-
-8095	
-8097	attic/epic/ionic
-
-8100	
-epic/ionic
-
-
-8107	
-attic
-8110	
 epic
-8113	
-
-
-
-8118	
-8124	
-8128	
-
-
-8132	
+8056	doric/aeolic
+8060	attic/epic
+8068	attic
+8072	doric/aeolic
+8085	epic
+8088	attic
+attic/epic/doric
+8097	attic/epic/ionic
+8101	epic/ionic
+8103	epic
+8108	attic
+8111	epic
 8136	attic
-8138	
-
-
-8143	
-attic/epic
-
-8147	
-attic/epic
-8152	
-epic/doric
-8156	
-doric/aeolic
+8144	attic/epic
+8148	attic/epic
+8153	epic/doric
+8157	doric/aeolic
 doric
-
-8161	
-
-8164	
 8168	epic
-8170	
-
-8174	
-attic
-8179	
-ionic/epic
-
+8175	attic
+8180	ionic/epic
+epic
 8183	doric
-8186	
 8190	epic
 8192	attic/epic/ionic
-
-
-epic/ionic
-8197	
-
-8200	
-
-
+8195	epic/ionic
 8205	attic/epic
-8208	
-
-
-8214	
-doric/aeolic
-
-doric/aeolic
+8215	doric/aeolic
+8217	doric/aeolic
 8226	attic/epic
 attic
-
-8230	
-
-8234	
-8236	ionic
-attic
+8237	attic
 8240	doric/aeolic
-8243	
-attic/epic/doric
-8246	
-epic
-
-
-epic
-epic/doric/ionic/aeolic
+8244	attic/epic/doric
+8247	epic
+8250	epic
 8253	epic
-8257	
-8259	
-8264	
-
-8268	
-
-
+8271	doric/aeolic
+8273	attic
+8280	attic/epic/doric
+8289	doric/aeolic
 doric/aeolic
-
-attic
-8275	
-8278	
-
-doric/aeolic
-
-
-8286	
-8288	ionic
-doric/aeolic
-doric/aeolic
-8292	
-8294	
-8296	
-
-
-
-doric/aeolic
+8300	doric/aeolic
 epic
 8303	epic
-
-8307	
 8309	epic
-
-
-
-8314	
-
-8320	
-
-8323	
-
-8329	
-8333	
-attic
-8336	
-8343	
-
-ionic
-8348	
-8350	
-8353	
-8356	
+8334	attic
 8358	doric/aeolic
 8360	attic/epic/doric
-8362	
 8367	doric/aeolic
-8369	
-
-8372	
 8374	attic/epic
-
 8377	doric/laconia
 doric/aeolic
 8383	doric
-8385	
-epic/doric/ionic/aeolic
-epic/doric/ionic/aeolic
+8387	epic/doric/ionic/aeolic
 8390	epic/doric/aeolic
-8392	ionic
 8396	attic/epic
-8398	ionic
 8400	doric/aeolic
-
-
-
-8407	
-8411	ionic
-8413	
-8415	doric/aeolic
-8417	
-8421	epic/doric/aeolic
-
-8426	doric/aeolic
-
-8429	
-8431	attic/epic/ionic
-8433	
-
-
 doric
+8415	doric/aeolic
+8421	epic/doric/aeolic
+attic/epic
+8426	attic/epic/doric
+8431	attic/epic/ionic
+8436	doric
 epic/doric/aeolic
-8440	
 8442	epic/ionic
 8444	epic/ionic
-8447	
 8450	attic/epic/doric
-
 8453	doric/aeolic
-
 8456	doric/aeolic
-8459	
-8461	
-attic/epic/doric
-8464	
-
-8469	
+8462	attic/epic/doric
+8470	attic
 attic
-attic
-
-
-8476	
-
-
-
-
-attic/epic/doric
-
-
-epic/ionic
+8481	attic/epic/doric
+8484	epic/ionic
 epic/ionic/attic/doric
-8487	
-
-
-
-
-
-8494	
-
-8499	
-
-
-8503	
-8505	
-
 8508	epic
-
-attic
-8512	
-8514	
-
-8518	
+8510	attic
 8522	attic/epic/doric
-8529	
-epic/doric
-
-
-
+8530	epic/doric
 8535	epic/doric/ionic/aeolic
-8537	
-
-
-8541	
-8543	
-8545	
-
-8548	ionic
-
-8552	
-
-ionic
-8558	
-8560	
-8562	
-attic/epic
-8565	
-
-
-8569	
-epic
-
-epic/doric/ionic/aeolic
-attic
-
-
+8563	attic/epic
+8570	epic
+8573	attic
 8577	attic/epic/ionic
-ionic
-8583	
 8585	attic
-8587	
-
-ionic
-attic/epic/ionic
-8592	
-8596	
-8599	doric/aeolic
+8590	attic/epic/ionic
+8599	doric
 8602	attic/epic/doric
-8604	
-
 8607	attic
-
-attic
-8611	
+8609	attic
 8614	doric/aeolic
-
-
 8618	attic/epic
 attic
-
-
-8624	
-
-
-
-
-doric/aeolic
-
-epic
-8634	
-
-
+8626	doric/aeolic
+8629	doric/aeolic
+8631	epic
 8639	doric/aeolic
-
 8643	doric/laconia
-
 8646	epic/ionic/attic/doric
-
-
-
-
-8653	
+8649	doric/aeolic
 8656	attic
-
-
+8658	epic
 8661	epic/doric
-
-8665	
-doric/aeolic
-8673	
-
-8676	
-8678	
-8682	
-8684	
-
-attic/epic
-
-
-
-
-
-
-doric/aeolic
-
-
-8697	
-
-attic/ionic
-8702	
-
-8706	
+8666	doric/aeolic
+8684	attic
+8686	attic/epic
+8693	doric/aeolic
+8699	attic/ionic
 8711	attic
-
-
+8713	epic
 8716	epic/doric
 doric/aeolic
-attic/epic/ionic
+doric
 epic/doric
-
-epic/doric
+8721	epic/doric
 doric/aeolic
-
-
-
-8730	
-
 8733	ionic
-
-8736	
-8738	
-
+8739	epic/doric/aeolic
 8744	doric/aeolic
-8746	
-epic/doric/ionic/aeolic
-8751	
-
-
-8755	
-
-8758	
-ionic
-8762	
 8765	doric/aeolic
-8767	
-
-attic
-8772	
-8775	
-8777	
-doric/aeolic
+8769	attic
+8778	doric/aeolic
 epic
-
-doric
-
-
-8789	
+8781	doric
 8791	epic/ionic/attic/doric
-
-doric
-
-8796	
-8798	
-8800	
-
-
-
-epic/ionic
-8806	
-epic
+8793	attic/epic/ionic
+8804	epic/ionic
+8807	epic
 attic/epic/doric
-
-8812	
-doric/aeolic
-
-8816	ionic
+8813	doric/aeolic
 8819	epic/ionic/attic/doric
-8821	
-
-
-
-
-attic
+8826	attic
 8828	epic/doric
-
-8831	
-
 8835	attic/epic/doric
-
-
-attic/epic
-
-
-8842	
-ionic
-8846	ionic
+8838	attic/epic
 8848	doric/aeolic
 attic/epic
-8851	ionic
-8854	
-8856	
-
-attic
-8860	
+8858	attic
 8862	ionic
-8864	
-
-8868	
 8871	ionic
-8874	
-
+8876	doric/aeolic
 doric/aeolic
 doric/aeolic
 doric/aeolic
 doric/aeolic
-doric/aeolic
-
-8883	
-
-8892	
-
-8896	epic/doric/ionic/aeolic
-8899	
-
-8902	ionic
-
-doric/aeolic
+8904	doric/aeolic
 doric
 8909	attic/epic/doric
-8911	
-
-
-
-
-attic/epic/doric/ionic
+8916	attic/epic/doric/ionic
 epic/doric
 attic/epic/doric/ionic
 attic/ionic
-8921	
-epic
-8924	
-
-
-doric/aeolic
-8929	
-8931	
-doric
-8937	
-doric/aeolic
-
-epic/ionic/attic/doric
-8942	
-
-8945	
-
-
-
-
+8922	epic
+8927	doric
+8932	doric
+8938	doric/aeolic
+8940	epic/ionic/attic/doric
+8947	epic
 8951	epic/ionic/attic/doric
-
-
-epic/doric/aeolic
-
-
-ionic
-
-8960	
-
-attic
-8964	
+8954	epic/doric/aeolic
+8962	attic
 8966	attic/epic/doric/ionic
 attic/epic
-
-attic/epic/doric/ionic
-
-attic/epic/doric/ionic
-8973	
+8969	attic/epic/doric/ionic
+8971	attic/epic/doric/ionic
 8975	epic/ionic/attic/doric
-
-
-8979	
-8983	
-doric
+8984	doric
 8986	attic/epic/doric
-8989	
-8991	
-
-
-8996	
-8998	
-
-
-9002	
-
-
-9006	
-
-
-
-
-epic/ionic/attic/doric
-
-
-
-9016	
+9011	epic/ionic/attic/doric
 9018	attic/epic/ionic
-
-
-epic/doric/ionic/aeolic
-9023	
-
+9021	epic/doric/ionic/aeolic
 9027	doric/aeolic
-
-
-9031	
-9033	
-9035	epic/doric/ionic/aeolic
-epic
-9038	
-
-
-
+9036	epic
 9043	doric/aeolic
-9045	
 9047	epic
-ionic
-9050	
-9052	
-9054	
-
-attic/epic/doric
-9060	
+9052	attic/epic
+9056	attic/epic/doric
 9062	doric
 doric
-9071	
-9074	
-9081	
 9085	doric
-
 9089	attic/epic/doric
 9091	doric
-9096	
-9098	
-9100	
 9103	epic/doric/aeolic
-
-
-
-
-9110	
-doric/aeolic
+9111	attic/epic/doric
 doric/aeolic
 attic/epic
 attic/epic/doric
-9117	
-epic
-
-
-9122	
+9118	epic
 9124	attic/epic
-
-
-
-
-attic/epic/doric/ionic
-
-
-
+9129	attic/epic/doric/ionic
 9134	epic
-
-
-doric/aeolic
-
+9137	doric/aeolic
+epic
 attic
-
-
-epic/ionic/attic/doric
-9145	
-9149	
-
-
-
-
-9155	
-
+9142	epic/ionic/attic/doric
 9158	epic/ionic
-
-9161	
-9164	
-attic/epic
-
-doric
-
+9165	attic/epic
+9167	doric
 9170	attic/epic/ionic
 epic
-9173	
-9177	
-9179	
-epic/doric
+9180	epic/doric
 9182	epic
-9184	
-
 9187	doric/aeolic
 9189	attic/epic/doric
-9191	
-9197	
-
 9200	doric/aeolic
-
 9203	attic/epic
-
 9206	doric/laconia
 doric/aeolic
 9211	doric
-9213	
-epic/doric/ionic/aeolic
-
-9219	ionic
-9223	
-ionic
-
-
-9228	epic/doric/ionic/aeolic
-9230	
-9235	
-9238	
-attic
-
-
-
-
+9239	attic
 9245	epic/ionic/attic/doric
-
-
-
-9250	
-
-
-9254	
-9257	
+9257	epic
 9259	attic/epic/ionic
-
-9263	
 9268	attic
-
-ionic
+9270	ionic
 attic/epic/doric
-
-9274	
-
-
-
-
-
-doric/aeolic
+9280	doric/aeolic
 9284	attic/epic/doric/ionic
-9287	
-9290	
-
 9296	attic/epic/ionic
-9298	
-epic/doric/ionic/aeolic
-9301	
-doric/aeolic
-ionic
+9302	doric/aeolic
 9305	doric/aeolic
 doric
-9309	
-9311	
-
-
-epic
-9316	
-
-9320	
-9324	
-9327	
-
-
-
-9332	
-9336	
-
-
-
-
-
-
-9344	
-9346	
-
+9314	epic
 9349	attic/epic
-ionic
-
-9355	
-
-9358	
-9361	ionic
-9363	
-9365	
-
 9368	doric/aeolic
-9371	
-
-attic/epic
-
-
-
-
-
-doric
-
-9382	
-9385	
-9389	
-
-
-
-
-9395	
-9398	
-
-doric/aeolic
-
-9404	
-9410	
-
-ionic
-
-doric/aeolic
-
-9417	
+9373	attic/epic
+9379	doric
+9400	doric/aeolic
+9414	doric/aeolic
 9420	epic/doric/aeolic
-
-
-
-epic
-
-epic
+9424	epic
+9426	epic
 9430	attic
-
-
 9434	epic/ionic
-
 9437	attic/epic/ionic
-9440	
 9442	doric
 attic/epic/doric
-9445	
-
-
-
-
-
-
-9454	
-9456	
 9458	epic/ionic/attic/doric
-9460	
-
-
-9464	
-
-
-
-epic
+9468	epic
 attic
-
-attic
+9471	attic
 9473	epic/ionic/attic/doric
-9475	
-
-
-
-
-
-doric/aeolic
-9483	
-9486	
-
-9489	
-9491	
-9493	
-
-
-9497	
-
-9500	
-
-
-9504	
-
-9507	
-
-
-
-
-
+9481	doric/aeolic
 9514	doric/aeolic
 9516	doric/aeolic
-
-
-attic/epic/doric/ionic
-9521	
-
-doric/aeolic
-
-9526	
-
-
-9530	
-doric/aeolic
-
-
+9519	attic/epic/doric/ionic
+9523	doric/aeolic
+9531	doric/aeolic
 9535	attic/epic/ionic
-9537	
-
-9540	
-9542	
-doric/aeolic
-9545	
+9543	doric/aeolic
 9547	attic/epic/ionic
-9549	
-
-9552	
-
-attic/ionic
-9556	
-
-9559	
-
-9563	
-
-
-
-
-
-
-9572	
-
-
-attic/epic
-9577	ionic
-9581	
-9583	
-
-
+9554	attic/ionic
+9575	attic/epic
 9587	attic/epic/ionic
-9589	
-9593	
-epic/ionic
-
-9600	
-
-
-doric
-
-
-attic
-
-
-
-
-9612	
-9614	
+9594	epic/ionic
+9603	doric
+9606	attic
 9616	epic
-
-attic/epic
-
-
-doric
-
-
-
-
-
-
-
-attic/epic
-
-attic
-
-doric/aeolic
-
-
-
-
-
-
-
-9642	
-
-
-
-
-doric
-
-9650	
+9618	attic/epic
+9629	attic/epic
+9631	attic
+9633	doric/aeolic
 9653	doric/aeolic
-9656	
 9662	doric/aeolic
-
-9665	
-
-
-
-9672	
-
-9675	
-
-9678	
-
-9681	
+9672	attic
 9685	doric/aeolic
-9688	
-
-9692	
-
-9695	
-
-
-9701	
-
-
-9705	
-epic
+9706	epic
 attic
-
-9710	
-
-epic
+9712	epic
 attic
-9715	
-
-
-attic/epic/doric
-
-9721	
-
-9724	
-9727	
-attic/epic/ionic
-
+9718	attic/epic/doric
+9728	attic/epic/ionic
+9730	doric
+9732	epic
 doric
-
-epic
-doric
-
-9738	
-
 9741	epic/ionic/attic
-
-
+doric
+attic
 attic/epic/doric
 9747	attic
-
-
-
-
-
-
-epic/doric/ionic/aeolic
 9756	doric/aeolic
-9758	
-
-
-9762	
 9766	attic/epic/ionic
-9769	
-9771	
-9773	ionic
-
-
 9777	doric/aeolic
-9780	
-
-9786	
-
-
-9790	
-9793	
-9795	
-
 9798	attic
 9800	attic/epic/doric
-9802	
-
-9805	
-9808	
-epic/ionic/attic/doric
-9811	
-
-
-attic/epic
+9809	epic/ionic/attic/doric
+9814	attic/epic
 attic
-
-
-9819	
-9822	
-9824	
 9826	attic/epic
 doric/aeolic
-
-9831	
-9834	
-9837	
 9839	attic/epic/doric
 9842	attic/epic/doric
 9845	attic/epic/doric
 doric/aeolic
-
 9850	attic/epic/doric/ionic
-9853	
+9854	epic
+9866	doric/aeolic
 epic
-
-
-9858	
-9861	
-
-9865	
+9885	epic/ionic
 doric/aeolic
-epic
-
-9870	
-9873	
-9875	
-
-
-9880	
-
-
-9884	
-epic/ionic
-doric/aeolic
-9890	
-
-
-
-
-9897	
-epic/doric/ionic/aeolic
-
-
-
+9902	attic
+9913	doric
+9916	epic
 attic
-
-9905	
-
-
-
-9910	
-9913	
-
-
-epic
-attic
-
-
-
-9922	epic/doric/ionic/aeolic
-
-9925	
-doric/aeolic
-
-
-9930	
-
-epic
-
-doric
+9926	doric/aeolic
+9932	epic
+9934	doric
 attic/epic
-9937	
-
 9940	epic/ionic/attic/doric
-
-
-9946	
-
-
 9950	doric
-
-
-doric/aeolic
-
-9956	
-
-9960	
-
-
-
-9967	
-epic
+9953	attic/epic/doric
+9968	epic
 attic
-
-
-9974	
-
-
-
-doric/aeolic
-
-
-
-attic
-9984	
-
-epic/doric/ionic/aeolic
-
-9991	
-
+9978	doric/aeolic
+9982	attic
 9994	attic/epic/doric
-9997	
-
-attic/ionic
-
-10003	
-10006	doric/aeolic
-
-10010	
-ionic
-10016	ionic
-10023	
-
-10026	
-10029	
-epic/ionic/attic/doric
-10032	
-
-
-
-
+9999	attic/ionic
+10006	doric
+10030	epic/ionic/attic/doric
 10039	attic/epic/ionic
-
-
+doric
 10043	epic/doric
 epic
-
-
-
-epic/doric
-
+doric
+10048	epic/doric
 10054	attic/ionic
-
-
-
-10059	
-10061	
-10063	
-10066	
-epic
-
-10070	
-10072	
-10074	
-doric/aeolic
+10075	doric/aeolic
 attic/epic
 attic
 10079	doric/aeolic
-
-
-
-10084	
+10081	doric/aeolic
 10086	attic/epic/doric
-10088	
-10090	
-
-
+10092	doric/aeolic
 10095	epic/doric
 attic/epic/ionic
-10098	
-doric
+10099	doric
 doric/aeolic
 doric
-10103	
-
 10106	attic/epic
 attic/epic
-
-
-
-doric
-
+10111	doric
+attic/epic
 10114	attic/doric/ionic/aeolic
-10117	
-doric
-
-10121	
-
-
-
-
-
-
-
-
-
-epic
+10118	doric
+10131	epic
 attic
-
-10135	ionic
-
-
 10139	epic
-10142	
-epic/ionic
-
-10148	
-
-10151	
-ionic
-10154	
-
-
+10143	epic/ionic
 10159	attic/epic
-
 10162	epic/ionic
-
 10165	epic/doric
-
-attic/epic
-10169	
-
-10172	
-ionic
+10167	attic/epic
 10175	doric/aeolic
-
-10178	
-
-
-
-
-attic/epic
+10183	attic/epic
 doric/aeolic
-
-parad_form
+10186	parad_form
 10188	attic/epic/ionic
-
-
-epic
+10191	epic
 doric/aeolic
-
-10195	
-
-epic
-
-
-
-
-
-10205	
-
-
-10209	
-
-
-10213	
-epic
-
-
-
-10219	
-10223	ionic
-doric/aeolic
-
-10229	
-
-
-epic
-10234	
-10237	
-
-10241	
-10243	
-10245	
-10247	
-
-attic/epic/ionic
-
-
-
-
-doric/aeolic
+10197	epic
+10214	epic
+10224	doric/aeolic
+10232	epic
+10249	attic/epic/ionic
+10254	doric/aeolic
 attic/epic
 attic
-
-
-
-10262	
-
-
-
-
-10269	
-10272	
-
-
-10276	
-attic/epic/ionic
-
-doric
+10277	attic/epic/ionic
+10279	doric
 doric/aeolic
-
-
-10285	
-
-
-
-
-
-ionic
 10293	doric/aeolic
-
-
-10298	
-10300	
-10302	
-10306	
-10308	
-
-
-
-
 10315	doric/aeolic
 doric
 epic
-
-10320	
-attic/epic
-10323	
-
-10328	
-
-
-
-
-10334	
-
-ionic
-
-
-
-
-
-10344	
-10347	
-10349	
-
-attic/epic
-
-10354	
+10321	attic/epic
+10328	attic
+10351	attic/epic
 10356	attic/epic
-10358	
-
-
-doric/aeolic
-10364	
-
-
+10361	doric/aeolic
 10368	attic/epic
-10371	
-10373	
-10375	
-10377	
-10379	
-
-
-10383	
-
-
-
-10389	
-
-
-
-
-10396	ionic
 10398	attic/epic/ionic
-
-
-
-
-10404	
-
-10408	
-10410	ionic
-10414	
-10416	
-
-10419	
-
-
-
-10425	
-
-
-
-
-10431	
-ionic
 10434	attic/epic/ionic
-10436	
-10439	
-10441	ionic
 10443	doric/aeolic
 attic
-
-epic
-
-doric
-
-
-
-10453	
+10446	epic
+10448	doric
 10455	doric
-
-
-attic/epic/doric
-
-
-
-
+10458	attic/epic/doric
+10462	epic
 10464	epic
 10467	attic
-10469	
-attic
-
-
-
-doric
+10470	attic
+10474	doric
 attic/epic
 doric/aeolic
 doric/aeolic
-
-10480	
 10484	epic
-
-
-
-
-
-
-doric/aeolic
-
-
-doric/aeolic
+10487	attic/epic
+10494	doric/aeolic
 10497	attic/epic
-10499	
 10501	doric/aeolic
 doric/aeolic
 10505	attic/epic/ionic
-
-doric
-
-
-10511	
-
-
-
-10516	
-doric/aeolic
-10519	
-10522	
+10507	doric
 10524	doric/aeolic
-
-attic
+10526	attic
 10528	epic/doric
 attic
-
-
-
-attic/doric/aeolic
+10533	attic/doric/aeolic
 epic
-
-
 10538	doric/aeolic
-10540	
-
-10543	
-
-
-10548	
-10550	
-
-doric/aeolic
-
-
-10558	
-doric/aeolic
-10561	
-
-
-
-
-10567	
-
-10570	
-
-10574	
-
-attic/epic/doric
-10578	
+10552	doric/aeolic
+10559	doric/aeolic
+10576	attic/epic/doric
 10580	doric/aeolic
-10582	
-
-epic/ionic
-
-
-doric/aeolic
-10591	
-
-
-
-10596	
-10599	
-doric
+10584	epic/ionic
+10587	doric/aeolic
+10600	doric
 attic/epic/ionic
-
+10603	doric
+10605	doric/aeolic
 doric
-
-doric/aeolic
-doric
-
 10609	attic/epic/ionic
-10611	
-
-10615	
-doric/aeolic
+10616	doric/aeolic
 doric
-
 10620	attic/epic/ionic
-10622	
-
 10626	attic/epic/ionic
-
-doric
-
-doric/aeolic
-10632	
-
-epic/doric
-
+10628	doric
+10630	doric/aeolic
+10634	epic/doric
 10637	attic/epic/ionic
-
-10641	
-doric/aeolic
-10645	
-
-attic
-10649	
-attic
-
-
-attic/epic/doric
+10642	doric/aeolic
+10647	attic
+10650	attic
 10655	epic
-10657	
+10658	attic/epic
+10663	doric/aeolic
 attic/epic
-
-ionic
-10662	
-doric/aeolic
-
-
-
-
-
-
-10671	
-
-
-
-
-10677	
-ionic
-
-
-10682	
-10684	
-
-
-10688	
-
-
-
-
-
-
-
+10686	doric
+10695	doric
 10697	doric/aeolic
-
-10700	
-
-10704	
-
-
-
-10709	
-10712	
-10714	
-
-
-
-10720	
-attic/epic/doric
-
-
-
-10726	
-
-
-10731	
-10735	
-
-10742	
-10745	
-
-
+doric
+10701	doric/aeolic
+10721	attic/epic/doric
 10750	attic/epic/doric
-10752	
-
-attic/epic
-
-
-
-10759	
-10761	
-
-
-
-10766	
-
-attic
-
-
-epic/doric
-10776	
-
-10780	
-
-10783	
-
-
-
-
-10789	
-
-
-10794	
+10754	attic/epic
+10768	attic
+10771	epic/doric
 10796	epic
-
-ionic
-
-
-attic/epic/doric/ionic
+10798	ionic
+10801	attic/epic/doric/ionic
 attic/epic/doric
-10804	
-10806	
-10809	
-
-10812	
-10814	
-
-
-10818	
 10820	doric/aeolic
 10822	doric
-10824	ionic
-10826	
-
-10829	
-10832	
-
-
-
-
-10838	
-10841	
-attic/epic
-
-
-
-
-
-
-10851	
-
-
-
-
-
-
-
+10826	doric
+10842	attic/epic
+10858	attic/epic/ionic
 10860	doric/aeolic
-10862	
-
-
-10867	
-attic/epic
-10870	
-attic/ionic
-10874	
-
-
-
-
-10881	
-
-
-10888	
-
-
-
-10893	
-
-10897	
-10899	
-
-
-
-doric
+10868	attic/epic
+10871	attic/ionic
+10888	doric
+10903	doric
 doric/aeolic
-
-
 10908	attic/epic
-10910	
-
-
-
-epic/doric
-epic/doric/ionic/aeolic
-10917	
-10919	
-
+10914	epic/doric
 10922	doric
-10925	
-10927	
-10929	
-ionic
-
-
-10934	
-doric/aeolic
+10935	doric/aeolic
 attic
-
-10940	
-attic/epic/doric
-10946	
-epic/doric/ionic/aeolic
-
-
-10954	
-
-10957	
-10960	
-
-
+10941	attic/epic/doric
+10946	attic/epic
+10962	attic/epic/ionic
 doric
-
 10966	epic/ionic/attic/doric
-
-
-10970	
-
-
-10975	
-10977	
-attic/ionic/epic/doric
-10981	
-10984	
-10993	
-10995	
-10998	
-11000	ionic
-
+10978	attic/ionic/epic/doric
 11005	epic
 11007	doric/aeolic
 11009	epic
-
-11012	
-11016	
 11018	epic
-
-
-11022	
-11028	
-
-
-
-
 11035	doric/aeolic
 epic/doric
 11038	doric
-
-doric/aeolic
+11040	doric/aeolic
 11042	epic/doric
-11046	
-epic/doric/aeolic
-11049	
+11047	epic/doric/aeolic
 11051	doric
-
-11054	
-
-11058	
-
-
-
-11063	
-doric/ionic
-
-epic
-
-
-doric/aeolic
-
-11073	
-
-attic
-
-
-11080	
-
-
-
-11085	
-
-
+11054	attic
+11064	doric/ionic
+11066	epic
+11069	doric/aeolic
+11075	attic
 11089	epic
 11096	epic
-11100	
-
-
 11106	epic
-11110	
-
-
 11114	epic
-11117	
-11119	
+11119	epic
 11121	doric/aeolic
-
-
-
-11128	
-
-
-
-
-doric/aeolic
-
-
-
+11133	doric/aeolic
 11138	doric
-
 11141	doric/aeolic
 attic/ionic
-
-
-11146	
-
-epic/ionic
-
-
-11152	
-
-
-11158	
-11160	
-11162	
-
-
-
+11148	epic/ionic
 11167	attic/epic/doric/ionic
 doric/aeolic
-
-
-
-11173	epic/doric/ionic/aeolic
-attic/epic/doric
-
-11177	
-
-11180	
-
-doric
-
+11174	attic/epic/doric
+11182	doric
+11184	attic/epic/ionic
 attic/epic/ionic
-attic/epic/ionic
-
-
-11189	
-
-
-11193	
-
-attic
-
-
-11199	
-11201	
-11204	ionic
+11195	attic
 11206	attic/epic/ionic
 11208	attic/epic/doric/ionic
 doric/aeolic
 doric/aeolic
-
-
-doric/aeolic
-
-11216	
-11219	
-
-
-
-
-
-
-
-doric/aeolic
+11213	doric/aeolic
+11227	doric/aeolic
 11234	attic/ionic
-11236	doric/laconia
-
-
-
-
-
-
-
-
-
-
-
 11249	attic/epic/doric
-11251	
-
-
-
-11258	
-
-
-
-
-11265	
-11267	
-11269	
-
 11273	attic/epic/doric/ionic
-11275	
-11277	
-
-11281	
 11283	epic/doric/aeolic
-11285	
-11287	
-
-11290	
-
-11293	
-
-attic/epic/ionic
-
-doric
-
-11300	
-11302	ionic
+11295	attic/epic/ionic
+11297	doric
+11300	doric
 11304	doric/aeolic
-
-
-11309	
-doric
-
-11314	
-11318	
-
-ionic
+11310	doric
+11314	epic
 11322	doric/aeolic
 attic
-
-11327	
-doric/aeolic
-11330	
-
-
-
-doric/aeolic
-11336	
-11338	
-
-
-
-
-11345	
-11347	
-11349	
-
-
-
-epic/ionic/attic/doric
-
-
-
-
-attic/epic/doric
-11360	
-
-11364	
-
-
+11328	doric/aeolic
+11334	doric/aeolic
+11353	epic/ionic/attic/doric
+11358	attic/epic/doric
 11368	attic
-
-11371	
-
-
-attic/epic/ionic
-
-doric
-
-11379	
-11382	
-
+11374	attic/epic/ionic
+11376	doric
 11386	doric
-
-epic
+11388	epic
 attic
-
-
-
-doric/aeolic
-
-11398	
-
+11393	doric/aeolic
 11402	doric/aeolic
-
-doric/aeolic
+11404	doric/aeolic
 attic
-11410	
-doric/aeolic
-
-11414	
-doric/aeolic
-
-11418	
-11420	
-11422	
+11411	doric/aeolic
+11415	doric/aeolic
 11425	attic
 attic
-11428	
 11431	attic/epic/ionic
-
-
-11437	
-epic/ionic/attic/doric
+11438	epic/ionic/attic/doric
 11440	epic/ionic/attic/doric
-
-attic/epic/ionic
-11445	
-
-
-
-11450	
-11452	
-
-
-11456	epic/doric/aeolic
-ionic
-11460	
-attic/epic/ionic
-11463	
-
-11466	
-11469	doric
-
-11472	ionic
-11475	
-11478	
-
-doric/aeolic
+11442	attic/epic/ionic
+11453	doric
 epic
-
-11484	
-
-
-
-11489	
-
-
-11494	ionic
-11498	
-doric/aeolic
-11501	
-
-doric
-
-11506	
-11510	
-attic/epic/ionic
-11513	
-doric/aeolic
+11456	epic/doric/aeolic
+11461	attic/epic/ionic
+11469	doric
+11480	doric/aeolic
+epic
+11499	doric/aeolic
+11503	doric
+11511	attic/epic/ionic
+11514	doric/aeolic
 attic/ionic/epic/doric
-11517	
-11522	
-
-11526	
-
-
 11531	attic/epic/ionic
 11533	doric
-
-epic
-
-
-11539	
-11541	
-
-
-11546	ionic
-11549	
-11552	
-
-
-attic
+11535	epic
+11555	attic
 11557	attic/epic
-11559	
-
 11562	epic/doric/aeolic
 11564	ionic
-11568	
-
-
-
-
-
-11576	
-
+11571	doric
 11580	doric/aeolic
-
-doric/aeolic
-11586	
-
-11589	
-
-11593	
-11595	doric/aeolic
-11601	
-
+11603	attic
 attic
-attic
-
-11607	
-epic/ionic/attic/doric
+11608	epic/ionic/attic/doric
 11610	doric/aeolic
-
 11613	epic
 11615	attic
 attic/ionic/epic
-11620	
-11622	
-11626	
 11628	epic/ionic/attic/doric
-11630	
-
-11633	
-attic/epic/doric
-
-
+11634	attic/epic/doric
+11636	attic/epic
 11640	epic
-11642	
-11644	
-
-11647	
-attic/epic
-
-11651	
-11653	
-
-11657	
-
-
-
+11648	attic/epic
 11662	attic/epic/doric
-
-
-11666	
-
-11669	
-attic/epic/doric
-11672	
-11675	
-epic/ionic/attic/doric
-
-11679	
-
-epic/ionic/attic/doric
-
-11685	
-ionic
+11670	attic/epic/doric
+11676	epic/ionic/attic/doric
+11681	epic/ionic/attic/doric
 11688	epic
-11690	
 11692	doric/aeolic
-11694	
-
-
-
-
-attic/epic/doric
-
-ionic
-11704	
-epic
+11699	attic/epic/doric
+11705	epic
 attic
-
 11714	attic/epic/doric/ionic
-11716	ionic
 11719	attic/epic/doric/ionic
-11723	ionic
-11725	
-11727	
-11729	
-11731	
-epic/ionic
-
-11735	
-
-
-
-
-
-epic
-11743	
-
-epic
+11732	epic/ionic
+11741	epic
+11745	epic
 11747	epic/ionic/attic/doric
 11749	attic/epic/doric
-
-11752	
-
-11755	
-11757	
-11759	
-
-
-
-11765	
-11767	
-
-
-
-
-11773	
-
-11776	
-
-
-
-
-epic/ionic/attic/doric
-11783	
-
-
-
-
-
-attic/epic
-
+11781	epic/ionic/attic/doric
+11789	attic/epic
 11793	epic/doric/laconia
-
-attic/epic/doric
-
-epic/ionic/attic/doric
+11795	attic/epic/doric
+11797	epic/ionic/attic/doric
 epic
-
-
-
-
 11805	epic/doric/laconia
-
-
-11810	
-
-
-
-11815	
-11817	
-11819	
-11825	
-attic
-11828	
-11831	
-
-11834	
-
-11837	
-
-11840	
-11843	
-
-
-
-
-
+11826	attic
 11850	attic/epic/doric/ionic
-
-11853	
-
-epic
-
-
-11860	
-doric
+11855	epic
+11861	doric
 11864	doric/aeolic
-
-
-doric
+11867	doric
 11871	epic/doric
-11875	
-
-
-doric
-11880	
+11875	attic
+11878	doric
 11882	epic/doric
-
-11885	
-epic
+11886	epic
 attic
-
-
-
-
-doric/aeolic
+11892	doric/aeolic
 attic/ionic
-11897	
-
-11901	
-epic/doric/ionic/aeolic
-
-
-
 11907	attic/epic/ionic/doric
-
 11912	attic/epic/doric
-11914	
-11916	
-11918	
-11920	
-
-epic/ionic/attic
-
-
-
-attic/ionic
-
-epic
-11930	
+11922	epic/ionic/attic
+11926	attic/ionic
+11928	epic
 11933	attic/ionic
-
-
-11937	
-11939	
-
-
-
-attic/ionic
-
-epic
+11943	attic/ionic
+11945	epic
 11948	doric
-
-
-11954	
-
-
-doric
+11957	doric
 doric
 epic
-
-
-
-
-
-11966	
-
-11969	
-
-
-
-doric
-
+11973	doric
 11976	epic/doric/ionic/aeolic
-11980	
-epic/doric/ionic/aeolic
-
-11984	ionic
-11987	
-ionic
-11990	ionic
-11992	
-
-
-
-
-
 11999	epic/doric/aeolic
-
-
-
-ionic
 12008	epic/doric
-12010	
-12019	
 12022	doric/aeolic
-
-doric
-
-
-attic/epic
-
-
-
-
-doric/aeolic
-
-
+12024	doric
+12027	attic/epic
+12032	doric/aeolic
 12036	attic/epic/doric/ionic
 12040	epic/doric/aeolic
-
 12044	epic
-
+epic
 attic
-12048	
-epic/ionic
-
-
-doric/laconia
+12049	epic/ionic
+12052	doric/laconia
 attic/epic/doric
-
-ionic/epic
-
-12058	
-12062	
-12065	
-12071	
-doric/aeolic
+12055	ionic/epic
+12072	doric/aeolic
 12076	epic/doric
-
-
-
-
-12089	
-
-12094	
-
-
-12100	
-
-
-12104	
-
-
-
-12109	
-12111	
-
-
-12115	
-
-
-
-
 12121	attic/epic/doric
-
-12126	
-12128	
-
 12131	attic/epic
-12135	
-12137	
-12139	
-12141	
-12146	
-ionic
-12149	
-doric
-
-epic/doric/ionic/aeolic
+12150	attic/epic/ionic
+12152	epic/doric/ionic/aeolic
 attic/epic/doric/ionic
-
-12157	
 12159	attic/epic/doric
-
-12163	
-doric
-
-
-
-12170	
-epic/doric/ionic/aeolic
-
-
-ionic
-12176	
+12164	doric
 12178	doric
-12184	
-attic/epic
-
+12185	attic/epic
 12188	doric/aeolic
 doric/aeolic
-
 12192	epic/doric
 12194	doric/aeolic
 doric/aeolic
-
-attic/epic/doric
+12197	attic/epic/doric
 doric/aeolic
 doric/aeolic
-12201	
-
-12204	
-ionic
-
-ionic
+12205	ionic
+12207	ionic
 12213	attic/epic
-12215	
-epic/doric/ionic/aeolic
-
-
-
 12221	epic/ionic/attic/doric
-
-attic/epic
-
-12230	
-
-12233	
-
-
-
-
-attic/ionic/epic/doric
-12244	
-attic/epic
-
-12248	
+12223	attic/epic
+12238	attic/ionic/epic/doric
+12245	attic/epic
 12250	attic/epic
 12255	epic/ionic
-
-12258	
 12260	epic
-
-12263	
-
-
-
-12269	
-
-12272	
-12274	
 12276	epic/ionic
-epic/doric/ionic/aeolic
-attic/epic/ionic
-12280	
-
-12284	ionic
-doric/aeolic
-12288	
-
-12292	ionic
+12278	attic/epic/ionic
+12281	attic/epic/doric
+12285	doric/aeolic
+12288	attic/epic
+epic
 12297	attic/epic/doric
 epic/ionic/attic
-12300	
-12302	
-
-12308	
-
-12311	
-
-
-
-12316	
-12318	
-12320	
-
-
-doric/aeolic
-ionic
-12330	
-epic/ionic/attic
-12334	
-doric/aeolic
-12337	
-
-12341	
-epic/ionic/attic
+12323	doric/aeolic
+12331	epic/ionic/attic
+12335	doric/aeolic
+12342	epic/ionic/attic
 epic/ionic/attic/doric
-12345	
-
-
-
-attic/epic/ionic
-
-doric
+12349	attic/epic/ionic
+12351	doric
 doric/aeolic
 doric
-12356	
-
-
-
 12362	epic/ionic/attic
 epic
 doric/aeolic
 12366	attic/epic
-
-
-
-
-12373	ionic
 12375	doric/aeolic
-12378	
-
-
+12380	attic
 doric
-
-
-
-12387	epic/doric/ionic/aeolic
-12389	
-ionic
-12392	
-
-
-doric
-
-
-12399	
+12395	doric
 12401	attic
-12403	
-
-doric
-
-
-attic/epic
-12410	
-
+12405	doric
+12408	attic/epic
 12414	doric/aeolic
 12416	epic/ionic/attic/doric
-12418	
-
-
-
-attic/ionic
+12422	attic/ionic
 epic/doric
-
-12426	
-
-doric/aeolic
-
-12431	
-doric
+12428	doric/aeolic
+12432	doric
 attic/epic/ionic
-
-doric
-
-
-attic/epic/doric
-12442	
-
+12435	doric
+12438	attic/epic/doric
+12443	epic
 epic/doric/aeolic
-
-
-
-
-
-
-12453	
-
-
-doric/aeolic
-
-
-
-attic/epic/doric/ionic
+12456	doric/aeolic
+12460	attic/epic/doric/ionic
 attic
-
-
-12465	
-12467	
 doric/aeolic
-12470	
-
-
-attic/epic/doric
-12478	
-
-epic
+12468	doric/aeolic
+12473	attic/epic/doric
+12480	epic
 12482	attic/epic/ionic
 12485	attic/epic
 attic
 epic/ionic
-
-doric/aeolic
-12491	
-12494	ionic
-attic/epic/doric
-
-doric
-
-doric
-
-
-attic/epic/doric
-
+12489	doric/aeolic
+12495	attic/epic/doric
+12497	doric
+12499	doric
+12502	attic/epic/doric
 12505	doric
 attic/epic
 12512	attic/epic
-
-
-12516	
 12518	attic/epic/doric
-
-attic/epic
-12522	
+12520	attic/epic
 12524	epic/ionic/attic/doric
-
-attic/epic/doric
-
-12529	
-
+12526	attic/epic/doric
 12533	attic/epic
-12535	
-12537	
 12539	epic/ionic/attic/doric
-
-
-
-
-
-
-
-
-
 12550	attic/ionic/epic/doric
-12552	
-attic
+12553	attic
 12555	epic
-
-12558	
-
-
-
-attic/epic/ionic
-
-doric
-
-
-doric/aeolic
-12569	
-doric/aeolic
+12562	attic/epic/ionic
+12564	doric
+12567	doric/aeolic
+12570	doric/aeolic
 epic/ionic
 epic/doric
-ionic
 12575	doric/aeolic
 attic
-
-
-12580	
 12582	epic/doric
-
-
-12587	
-12589	
-
 12592	doric/aeolic
-12594	
-doric/aeolic
-12597	
-12601	ionic
-12603	
-attic
-
-
-doric/ionic
+12595	doric/aeolic
+12604	attic
+12607	doric/ionic
 epic/doric
-
 12611	epic/doric/aeolic
 doric
-12618	
 12621	epic/doric
-
-
 12626	epic/doric
 12631	attic/epic/doric
-12634	
-12637	
-
-
-
-
-12643	
-
-12650	
-
-12654	
-attic/epic/doric
-12657	
-
-
-12662	
-12664	
-
-12669	
-
-
-doric
-
-
-12676	
-
-12679	
-12681	
-12686	
-
-
-12691	
-
+12655	attic/epic/doric
+12672	doric
 12694	attic/epic/doric
-12698	
-
-
-12703	
-
-12706	
 12709	attic/epic/ionic
 12711	doric/aeolic
-
-12716	
-
+12717	attic/epic/doric
 attic
-12721	
-12724	
-
-
-attic
-12729	
-
+12727	attic
 12732	attic/epic/doric
-
-epic
-
-
-doric/aeolic
-
-12744	
-attic/epic/doric
+12734	epic
+12737	doric
+12745	attic/epic/doric
 12747	attic/epic/doric/ionic
-
-12750	
-
-12753	
-
-
-
-
-
-12761	
-12763	
-12765	
-
-
-12771	ionic
-12773	
-
-
-12780	
-
-12783	
-
-12786	
-doric
-
-
+12784	epic
+12787	doric
 12791	epic/doric
-
-
-attic
-
-12798	
-doric
-12801	
-12804	
-attic/epic/doric
-
-12812	
-12814	
-
-attic/ionic
-12818	epic/doric/ionic/aeolic
-12820	
-
-12823	
+12794	attic
+12799	doric
+12805	attic/epic/doric
+12814	attic
+12816	attic/ionic
 12825	doric/aeolic
 doric/aeolic
-
-12829	
-
-
-
-12836	
-12840	
-ionic
-
-12844	
-epic/doric/ionic/aeolic
-epic/ionic/attic/doric
-
-
-12850	
-
-12853	
-
-12856	
-
-
-
-12861	
+12846	epic/ionic/attic/doric
 12863	attic/ionic/epic/doric
 12865	attic/epic
-12867	
-12869	
-12871	
-
-
-12876	ionic
-12880	
-
-12884	
-
-
-
-epic/ionic
+12888	epic/ionic
 12891	attic/epic/doric
 12893	attic
-
-12896	
-epic/ionic/attic/doric
-
-12900	
-
-
-12904	
-
-12907	ionic
-12910	
-12913	
-12916	ionic
+12897	epic/ionic/attic/doric
 12918	doric/laconia
-12922	
 12924	doric/aeolic
-
-
-12931	
-
-
-12935	
-
 12938	ionic/epic
 12941	epic
-
-12944	
 12947	epic/parad_form
 epic
-12952	
-
-
-
-12957	
-
-
-12962	
-12964	
-12967	
-doric/aeolic
+12968	doric/aeolic
 doric/laconia
-
-12972	
-doric/aeolic
+12973	doric/aeolic
 doric
-
-
 12979	doric/aeolic
-
-
-ionic
-12987	
-
-12990	ionic
+12991	doric/aeolic
+12998	doric
+13009	ionic/epic
 doric/aeolic
-
-
-12996	
-
-
-13000	
-13003	
-
-
-13008	
-ionic/epic
-doric/aeolic
-13012	
-epic
-
-13016	
-
+13013	epic
+attic/epic
 13019	attic
-13021	
-
-13024	
-13027	
-
 13030	attic
-
-13034	
-
-ionic/epic
-
+13036	ionic/epic
 13039	epic/ionic/attic/doric
-
-
-13044	
-doric/epic
-13047	ionic
-13049	
-13051	
-
-13054	
-13057	
-13059	
-
+13045	doric/epic
+13052	attic/epic
 13063	epic
-13065	
-13067	
-
-13070	
-13073	
-13077	
-
 13080	epic
-
 13083	epic/doric/aeolic
-
-
-
-13088	
 13090	doric/aeolic
-
-doric/aeolic
-
-13096	
-attic
-
-
-epic/doric/aeolic
-13103	
-
-
-
-13108	
-13111	ionic
-13113	
-epic/ionic
+13092	doric/aeolic
+13097	attic
+13100	epic/doric/aeolic
+13114	epic/ionic
 13116	attic
-
-
-attic/epic
-13124	
-13128	
-
+13119	attic/epic
 13131	doric/aeolic
-
-
-
-13136	
-doric/aeolic
-
+13137	doric/aeolic
 13142	attic
-13144	
-13147	
-13150	
-
-
-
-ionic
-13157	
-
-epic
-13161	
-
-
-epic
-13166	
-13170	
-attic
-
-attic/epic
-
-13182	
-attic/epic/ionic
-
-
-
-
-13189	
-
+13154	ionic
+13159	epic
+13164	epic
+13171	attic
+13173	attic/epic
+13183	attic/epic/ionic
 13192	doric
-13194	
-13196	
-13198	
-
-doric/aeolic
-
-
-
-
-13206	
-
-13209	
-13212	
-13214	
+13200	doric/aeolic
 13216	attic/epic
-13218	
-doric/aeolic
+13219	doric/aeolic
 13222	attic
-
-13226	
-
-
-13231	
-
-13234	
-13237	
-attic/epic
-13240	
-doric/aeolic
-13243	
-13246	
-13248	
-
-
-
-13255	
-13257	
-
-attic/ionic
-13261	
-
-
-13268	
+13238	attic/epic
+13248	doric
+13259	attic/ionic
 13270	epic/ionic/attic/doric
-13272	
-
-
-
-
-
 13279	doric/aeolic
 doric/aeolic
 13284	attic
-
-
-13288	
-attic/ionic
+13289	attic/ionic
 13291	attic/epic/doric
-13295	
-attic/epic/doric
-
-attic/epic
+13296	attic/epic/doric
+13298	attic/epic
 13300	epic
-
-13305	
-
-
 13310	epic
 doric
-
-attic
-
-
-attic/epic/doric
-
-
-13322	
-13326	
-13329	
-13331	
-13333	
-doric/aeolic
-
-13338	
-attic/epic/doric
-13341	
-
-13344	
-
-13349	
-13353	
-
+13313	attic
+13316	attic/epic/doric
+13334	doric/aeolic
+13339	attic/epic/doric
 13358	attic/ionic/epic/doric
-
-
-
 13366	doric
-
-attic/epic/ionic
-
-attic/epic
-
-
-13375	
-attic/ionic
-
-13379	
-
-
-attic/epic/ionic
-
-ionic
-
-13387	
-attic/epic/ionic
-
-
-
-13393	
-attic/epic/ionic
-
-
-
-13400	
-attic/epic/ionic
+13368	attic/epic/ionic
+13370	attic/epic
+13376	attic/ionic
+13382	attic/epic/ionic
+13384	ionic
+13388	attic/epic/ionic
+13394	attic/epic/ionic
+13401	attic/epic/ionic
 13403	attic/epic/ionic
-
-
-attic/epic/ionic
+13406	attic/epic/ionic
 13408	attic/ionic
-13410	doric/laconia
-
-
-
-
-13417	
-13419	
-
-
-attic
-13424	
-doric/aeolic
-
-13428	
+13422	attic
+13425	doric/aeolic
 13430	attic/ionic/epic/doric
-13432	
-
-
-
-doric
+13436	doric
 attic/epic
-
-attic
-
-
-epic
+13439	attic
+13442	epic
 13444	epic
-
-attic
-13448	
-
-
-13453	
+13446	attic
 13455	attic/epic
-13457	
-
-
-
-attic/epic
-
-
+13461	attic/epic
+13464	attic/epic/doric
+13468	doric
+attic
 attic/epic/doric
-
-
-
-
-
-attic/epic/doric
-13473	
-
-
-doric
-
-
+13474	attic/epic/doric
+13476	doric
 13481	attic/epic
-13483	
-
-epic
-
-13491	
-
-13494	ionic
-13496	
-13500	
-attic/ionic
-13504	
-
-
+13485	epic
+13501	attic/ionic
 13509	attic/epic/doric
-13512	
-
-
-
-13517	
-
-13520	
-
-13523	
-13525	
-13527	
-doric/aeolic
-
-doric
-
-13533	
-
-13536	
-13538	
-
-
-epic
-13544	
-epic
+13528	doric/aeolic
+13530	doric
+13541	epic
+13545	epic
 epic
 13549	epic/ionic
-13552	
-13554	
-
-
 13559	attic/epic
-13561	
-
-epic
-
-
-
-13568	
-13570	
-epic
+13563	epic
+13571	epic
 13574	doric/aeolic
 13577	attic/epic/doric
-13579	
-
-
 13583	attic/epic/doric
-
 13586	epic
 13589	doric/aeolic
-
-13592	
 13594	doric/aeolic
 doric/aeolic
-
-13602	
 13604	epic
 13606	attic/epic
-
-
-
-13613	
-
-13616	
 13619	epic/doric
-
-13626	
-13629	
-doric
+13630	doric
 epic/doric
-
 13634	attic/epic/ionic
-
 13638	epic/doric
-
-13641	
-
-13644	
-doric/aeolic
-
+13645	doric/aeolic
 13648	epic/doric
-13650	
-
-
-
 13656	epic/doric
 13658	epic/doric
-13662	
-13667	
 13672	doric
-
 13676	doric/aeolic
-
-
 13680	doric/aeolic
-
-
-
-
-
-13688	
-
-ionic
-13693	
 13696	doric
-
 13700	doric/aeolic
-
-
 13704	doric/aeolic
 13707	doric/aeolic
-
-
-
 13713	doric/aeolic
 attic/epic
-13718	
-epic/doric
+13719	epic/doric
 13721	doric
 attic/epic/doric
-
-
-
-13727	
-
-
-attic/epic
-13736	
-
-
-attic/epic
-
-attic
-
-
-
-13746	
-
-13751	
-13753	
-
-doric
-
-
-13762	
-
-
-attic/epic
-
-13771	
-
-
-attic/epic
+13727	attic
+13730	attic/epic
+13736	attic
+13739	attic/epic
+13741	attic
+13755	doric
+13762	attic
+13765	attic/epic
+13771	attic
+13774	attic/epic
 13776	attic/epic
-
-
-
-
-
-13783	
-13786	
-13788	
-13790	
-13793	
-13795	
-
-attic/epic
-
-
-
-
-13803	
-
-13806	
-
-13809	
-
-
-attic/epic
-13814	
-
-
-13818	
-attic/epic
+13797	attic/epic
+13804	epic/doric/ionic/aeolic
+13812	attic/epic
+13819	attic/epic
 attic/epic/doric
-13823	
-
-
-attic/epic
-13828	
-
-attic/epic
-
-attic
-
-13835	
-attic/epic
-13838	
-
+13826	attic/epic
+13830	attic/epic
+13832	attic
+13836	attic/epic
 13841	doric
-
 13845	doric/aeolic
-
-
-13849	
-13852	
-13857	
-
-
-attic
-
-13866	
-13870	
+13860	attic
 13872	attic/epic
-
-
-
-
-attic/epic/doric
-
-
-
+13877	attic/epic/doric
 13888	doric
-
 13892	doric/aeolic
-
-
 13897	attic
-13902	
+13902	epic
 13904	epic
-
-attic/epic/ionic
-13908	
-13911	
-
-13914	
-attic
-13917	
-doric/aeolic
-13922	
-
+13906	attic/epic/ionic
+13915	attic
+13918	doric/aeolic
 13925	doric
-
 13929	doric/aeolic
-
-
-
 13938	attic/epic/doric
-
+epic
 13941	epic
-13943	
-13945	attic/epic/ionic
-
-13952	
-13955	
-
-13958	
-
-13962	
+13945	doric/aeolic
+13956	epic
 13964	doric
-
 13968	doric/aeolic
-
-attic/epic
+13970	attic/epic
 13972	attic/epic/doric
-
-
 13976	attic/epic
-
-
-
-
-13982	
-
-
-
 13987	ionic
-
-
-
-
-
-
-
-attic/epic/doric
-
-attic/epic
-
-
-
+13992	attic
+13995	attic/epic/doric
+13997	attic/epic
 14002	attic/epic
-
-
-
-
-
-
 14010	epic/doric/aeolic
-14013	
-14016	
-
-epic/doric
+14018	epic/doric
 attic
-14022	
-14024	
-14029	
+14029	epic
 14031	attic/epic/doric
 attic/epic/doric
-
 14035	epic/doric
 epic/doric/aeolic
 14038	doric
 14040	parad_form
-
-
 14045	epic
-14047	
-
-epic
-
+14049	epic
 14053	epic/doric
 14055	epic
-
-14058	ionic
-14061	
 14063	epic/doric
-
-
-
-14068	
 14070	attic/epic/ionic
-
-attic
+14072	attic
 14075	attic
-
-
+14077	doric
 attic
-14081	
-14083	
 14086	attic
-
 14089	attic
-
-attic/epic/ionic
-
-doric
-
-
-
-
+14091	attic/epic/ionic
+14093	doric
 14099	doric/aeolic
-14103	
-attic/epic/doric/ionic
+14104	attic/epic/doric/ionic
 14106	epic/doric/aeolic
 14108	attic/epic/doric
-14116	
-14118	
-
-
-epic/doric/ionic/aeolic
+14121	epic/doric/ionic/aeolic
 epic/ionic/attic
-
-14126	
-doric/aeolic
-14130	
+14127	doric/aeolic
 14132	attic/epic/doric
 14134	doric
-
-ionic
+14136	ionic
 epic/doric
-
 14140	doric
-
-
-14144	
-14147	
-
-
-14151	
-14153	
-14155	
-epic/doric/ionic/aeolic
-14158	
-
-
+14147	doric
 attic
-
-
-14165	
-
-doric/aeolic
-
-
-
-doric/aeolic
+14161	attic
+14167	doric/aeolic
+14171	doric/aeolic
 doric/aeolic
 attic
-
-
 14177	epic/ionic/attic/doric
-
-
-
-
-
-
-attic/epic/ionic
-
-doric
-
-
-14192	
-14195	
-14199	
-
-attic
-
-
-
-
-
-
-doric/aeolic
+14184	attic/epic/ionic
+14186	doric
+14201	attic
+14208	doric/aeolic
 14210	doric/aeolic
-
-
-attic
-
-
-14218	
+14213	attic
 14222	doric/aeolic
-
-14225	
-attic
+14226	attic
 14229	epic/ionic/attic/doric
-
-
-
-
-
-
-
-epic/doric
+14237	epic/doric
 attic/ionic
-14242	
-attic/epic
-14245	
-
-attic/epic/doric
-
-
-
+14243	attic/epic
+14247	attic/epic/doric
 14253	attic/ionic/epic/doric
 epic
 14257	doric
 14259	doric/aeolic
 doric
 epic
-
-epic/ionic
+14263	epic/ionic
 attic/epic
-14275	
-14278	
-
-doric/aeolic
-14286	
-14288	
-14290	
-14292	
-
-attic/epic/doric/ionic
+14280	doric/aeolic
+14294	attic/epic/doric/ionic
 epic/doric
-ionic
 14299	epic
 epic/doric
 14302	epic/ionic
-14304	
-14306	
-14308	
+14308	epic
 14310	doric/aeolic
-
-14313	
 14318	attic/epic/doric/ionic
 14320	attic/epic/doric/ionic
 14324	doric/aeolic
 14327	attic/ionic/epic/doric
-14330	
+14330	epic
 14334	doric/aeolic
-14336	
-doric
-
-
-
-14342	
-ionic
+14337	doric
 14351	doric/laconia
-14353	
-
-attic/epic/ionic
-
-attic/epic
-ionic
-doric/laconia
-attic/epic/ionic
-14364	
-
-14370	
+14355	attic/epic/ionic
+14357	attic/epic
+14359	doric/laconia
 14376	epic
-
+epic
 14379	attic
-14382	
-
-
-
-14388	
-
-
-
-
-14394	ionic
-
-doric/aeolic
-
-
-attic
-14401	
-attic/epic/doric
-
-
-
-14407	
-
-14410	
-
-attic/epic
-14414	
-14416	doric
-
-14420	
-14424	
-
-14430	
+14396	doric/aeolic
+14399	attic
+14402	attic/epic/doric
+14412	attic/epic
 14433	ionic
-
-14436	
-
-doric/aeolic
-
+14438	doric/aeolic
 14441	epic/doric
-14447	
-epic/doric/ionic/aeolic
+14448	epic/doric/ionic/aeolic
 attic/epic/ionic
-
-
-epic/doric/aeolic
+14452	epic/doric/aeolic
 14455	attic
-
+doric
 attic
-14460	
-
+14462	doric/aeolic
+14468	doric/aeolic
 doric/aeolic
-14464	
-
-14467	
+14471	attic
 doric/aeolic
-doric/aeolic
-
-
-doric/aeolic
-doric
-14475	
+attic/epic/ionic
+14475	epic
 14478	doric
-14480	
+14481	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-doric/aeolic
-
-doric
-
-attic/epic/doric
-14490	
-
-
-14494	
-doric
+14484	doric/aeolic
+14486	doric
+14488	attic/epic/doric
+14495	doric
 14500	doric/aeolic
 14502	attic/epic/doric/ionic
-
-
 14508	attic/ionic
-
-
 14513	doric
 attic/epic/doric
 14516	doric
 doric/aeolic
-14519	
-doric
+14520	doric
 attic/epic/doric
-
-
-
-14526	
-
-attic/epic/doric
-
-14532	
-doric
-14536	
-
-14539	
-14543	
-14547	
-
-attic
-
-attic
-
+14528	attic/epic/doric
+14533	doric
+14543	doric
+14549	attic
+14551	attic
 14554	doric/aeolic
-14558	
-
-
+14558	attic/epic
 14562	epic/doric/ionic/aeolic
-14564	
-14567	
-
-
-
-14574	
-14576	
-
-14582	
-14585	
-attic
-
-14589	
-attic
-
-
-14595	
-attic/ionic
+14586	attic
+14590	attic
+14596	attic/ionic
 14599	attic
-
-attic
-
-
-14606	
-14608	
-
-doric/aeolic
+14601	attic
+14608	attic/epic/ionic
+14610	doric/aeolic
 14612	attic/epic/ionic
 14617	attic
-
-
-
-
 14623	attic
-
-
 14628	doric/aeolic
 14631	attic/epic/doric/ionic
-14634	
-
 14639	attic/epic/doric/ionic
 14641	doric
-
-
-
-
-doric
-14648	
-
-
-
-
-
+14646	doric
+14650	doric
 14656	epic/ionic/attic
 epic
 14659	epic/doric
-14661	doric/aeolic
-
-attic/*ar.
+14661	attic/epic/doric
+14663	attic/*ar.
 14665	doric/aeolic
-14668	
-
-
-ionic
-
-14680	
-
-
-ionic
-
-14687	
-epic
+14671	ionic
+14683	ionic
+14688	epic
 attic/epic/ionic
-
-doric
-
-
-
-
-
-
-14699	
-
-
-
-doric/aeolic
-
-14707	
-attic/epic/ionic
-14710	
+14691	doric
+14699	doric
+attic
+14703	doric/aeolic
+14708	attic/epic/ionic
 14712	epic/ionic/attic/doric
-
-
-
-
-
-14720	
-14723	
-14726	ionic
-
-attic/epic/doric
-
-
-ionic
-
-epic
-
-
-
-14741	
-doric/aeolic
+14728	attic/epic/doric
+14733	epic
+14742	doric/aeolic
 attic
-14747	
-
-attic
-
-attic
-
-
+14749	attic
+14751	attic
 14755	doric/aeolic
-
 14758	ionic
 14762	attic
 14767	attic/epic/doric
 14771	doric/*theocr.
-
-
-14775	ionic
-14779	
-14781	
-
-
-14791	
-
-attic
-
-attic
-
-
-14800	
-attic/epic
-14803	
-14806	
+14781	doric
+14793	attic
+14795	attic
+14801	attic/epic
 14809	doric
-
-attic/epic
+14811	attic/epic
 14813	epic
 14816	epic
-14818	
-14820	
-
-
-doric
-
-
-
-epic/doric
+14823	doric
+14827	epic/doric
 14831	ionic
-
-
-14835	
-doric
+14836	doric
 doric
 epic/ionic
-
 14842	epic/doric
-
-14845	
-
-
-
+attic
+14846	attic
 14850	doric/aeolic
-
-
+14852	epic
 14856	ionic
-
-
-
-
-attic/epic
-
-
-epic
+14861	attic/epic
+14864	epic
 attic
-
-14868	
-
-14871	
-
-
-14876	
-14878	
-
-
-14882	
-
-attic
-14886	
+14884	attic
 14888	epic/doric
-
-
-
-
-
-14895	
-14897	
-
-
-
 14902	attic/epic/doric
 attic/epic/ionic
-
-doric
-
-
-attic/epic/ionic
+14905	doric
 14910	attic/epic/doric/ionic
-
-
 14914	doric/aeolic
-14916	
-
-14919	
-14921	
-
-ionic
-
-
-
-
-
+14923	ionic
 14930	doric
 14933	doric
-
-
-14938	
-
-
-
-
-
-
-attic
-
-
-
-
-
-
-epic
-14954	
-
-
-
-ionic
-14960	
-14965	
-
-
-14969	
-
-14972	
-14975	
-14977	
-
-
-14981	
-
-
-
-
-
+14945	attic
+14952	epic
+14958	ionic
+14970	attic/epic
 14988	doric
 doric/aeolic
-
-
-
-ionic
-epic/ionic
+14994	epic/ionic
 attic
-
-14999	
-
+15001	doric/aeolic
+15009	doric
 doric/aeolic
-
-15006	
-15008	
-doric
-doric/aeolic
-
-
-
-15015	
-
-
-15020	
-
-
-15025	
-
-
-
 15031	attic
-
-15034	
-15036	
-attic/epic/ionic
+15034	attic/epic/ionic
+15037	attic/epic/ionic
 15041	epic/doric/aeolic
 attic/epic/doric
-
-
-
-ionic
-epic
-
-
-
-
-
-doric/aeolic
+15047	epic
+15050	attic/epic/ionic
+15053	doric/aeolic
 15056	doric/aeolic
-
-
-
-15061	
 15064	epic/ionic
 epic
 attic
-
-attic
-
-epic/doric
-
-
-
-
-15076	
-15078	
+15068	attic
+15070	epic/doric
 15080	doric
-
-
-
-
-
-attic
-15088	doric
-
-
-15095	
-15097	
-15099	
-
-
-
-
-15105	
-
-
-15109	
-ionic
-15114	doric
-
-
-
-15121	
-doric/aeolic
-
-doric
-
-
-
-attic
-
-15131	epic/ionic/attic/doric
-
 attic/epic/ionic
-
-doric
-
-doric/aeolic
+15086	attic
+15088	doric
+15114	doric
+15122	doric/aeolic
+15124	doric
+15128	attic
+15131	epic/ionic/attic/doric
+15133	attic/epic/ionic
+15135	doric
+15137	doric/aeolic
 epic/doric
-
-15141	
-
-
 15145	doric
-ionic
 15148	doric/aeolic
 15152	attic/epic/doric
-15155	
-
-15159	
-
-
-
-15168	
 15174	epic
-15176	
 15178	doric/aeolic
 15182	epic/doric/ionic/aeolic
-15184	
-
-15187	
-
-15190	
-
-15194	doric/aeolic
-15197	
-
-15201	doric/aeolic
-15203	
 15206	epic
-
 15209	epic/doric
 attic/epic/ionic
 15212	epic/doric
 15215	attic
-
-
-
-15223	
-
-
-
-
-15229	
-15232	
-15235	
-
-15238	
-
-
-doric/aeolic
-15243	
-
-
-15247	
-15250	
-doric/aeolic
-15253	
-15256	
-
-
-
-15261	
-15264	
-
-
-15268	
-
-
-
-
-
-ionic
 15276	doric/aeolic
 attic
-
-
-15282	
-
-15285	
-
-
-15289	
-15292	
-doric/aeolic
-15295	
-15298	
-
-
-
-15303	
-15306	
-
-
-15310	
-
-
-
-
-
-ionic
 15318	doric/aeolic
 attic
-
-
-15325	
 15327	epic
-15330	
-
-epic/doric/aeolic
-
-
-15336	
-15340	
-attic/epic/ionic
+15332	epic/doric/aeolic
+15341	attic/epic/ionic
 15343	epic/ionic/attic/doric
-15345	
-15350	
-15353	
-
-
-attic/epic/ionic
-
-epic/ionic/attic
-15360	
-epic/ionic/attic/doric
-15363	
-
-
-
-
-
-
-15373	
-
-15376	
-
+15356	attic/epic/ionic
+15358	epic/ionic/attic
+15361	epic/ionic/attic/doric
 15379	epic/ionic/attic/doric
-15381	
 15383	attic/epic
-
 15386	attic/epic/doric
-
-15389	
 15394	attic/epic/doric
-15396	
-15398	
-
-
-
-15404	
+15396	attic
 15408	epic
 attic/epic
 doric
-
-
-
-attic/epic
+15414	attic/epic
 15416	doric
 15421	attic
-15423	
-15426	
-
-
-15430	
-15433	
-
-doric/epic
-ionic
-15438	
-15440	
-
-15443	
-15446	
-15448	
-
-15452	
-
-epic
+15435	doric/epic
+15441	attic/epic
+15454	epic
 attic
-
-
-
-epic
-
-15463	
-attic/epic/doric
-15466	
-
-
-
-
-doric/aeolic
-
-15474	
-
-
-
-
-doric/aeolic
-15481	
-15484	
-15486	
-15488	
-
-15491	
-
-15495	
-
-15499	
-
-
-
-15505	
-15507	
-attic/epic/doric/ionic
-
-ionic/epic
-15512	
-
-
-15516	
+15459	epic
+15464	attic/epic/doric
+15471	doric/aeolic
+15479	doric/aeolic
+15508	attic/epic/doric/ionic
+15510	ionic/epic
 15518	attic
-15520	
-
 15524	doric
 doric/aeolic
-
-
-attic
-15539	
-15552	
-epic/ionic
-15559	
-attic/ionic
-
-
-
-
-
-
-
-epic
-
-15572	
-
-15576	
-15578	
-epic
-
-15583	
-
-15587	
-15589	
-epic
+15528	attic
+15553	epic/ionic
+15560	attic/ionic
+15568	epic
+15579	epic
+15590	epic
 attic/epic/doric
-
-
-epic/ionic
-15598	
+15594	epic/ionic
 15600	epic/ionic/attic/doric
-
-ionic/epic
+15602	ionic/epic
 attic/epic/doric/ionic
-
-attic/epic/ionic
-
-doric
-15609	
-attic/ionic
-15613	
-
-
-
-
-
-attic/ionic
-
-attic/epic/doric/ionic
-15624	
-15626	
-15628	
-attic
-ionic
-15634	
-15636	
-attic/epic
+15605	attic/epic/ionic
+15607	doric
+15610	attic/ionic
+15619	attic/ionic
+15621	attic/epic/doric/ionic
+15629	attic
+15637	attic/epic
 15641	attic/epic/doric
-
-15646	
-15652	
-15655	
-15658	
-15663	
 15666	doric/aeolic
-15668	
-epic/ionic
-15671	
-15674	
-attic/ionic
-15678	
-
-
-
-epic
-
-
-
-
-
-
-
-
-doric/aeolic
-
-
-epic/ionic
-15696	
-
-
-
-attic/ionic
-
-
-attic/epic/ionic
-
-doric
-15707	
-
-attic/ionic
-15712	
-
-ionic
-
-attic/ionic
-15720	ionic
-doric
-
-
-15725	
-ionic
-attic/epic/ionic
-
-epic/doric/ionic/aeolic
-15731	
-15733	
-
+15669	epic/ionic
+15675	attic/ionic
+15682	epic
+15691	doric/aeolic
+15694	epic/ionic
+15700	attic/ionic
+15703	attic/epic/ionic
+15705	doric
+15709	attic/ionic
+15716	attic/ionic
+15721	doric
+15727	attic/epic/ionic
 15737	doric
-15739	
-15741	
-
-
-
-
 15747	doric/aeolic
-15752	
-epic
+15753	epic
 attic
-
-15757	ionic
-15760	
-
-
-
-15765	
 15767	attic
-15769	ionic
 15771	epic/doric
 attic
 ionic
 attic
-
-15779	
-15785	
-
-15788	
-
-
-doric
-
-
+15788	attic/epic/ionic
+15791	doric
 15795	doric/aeolic
-
-attic/epic
+15797	attic/epic
 15799	attic
 15801	attic
-15803	
-
-
-
 15808	attic
 epic/ionic/attic
-
-
 15813	attic/epic/doric/ionic
-
-
-attic
+15816	attic
 15818	epic/ionic
-
-15822	
-
-15826	
-doric/aeolic
-15829	
-ionic
-
-
-
-15842	
-15845	
-
-
-
-
-doric
-
-
+15827	doric/aeolic
+15850	doric
 15854	epic
-15856	
-15858	ionic
-
-15863	
-
-15866	
-
-15869	
-15871	
-attic/epic/doric/ionic
-15876	
-15878	
-attic
-15881	
-15884	
+15872	attic/epic/doric/ionic
+15879	attic
 15886	attic/ionic/epic/doric
 attic/epic/ionic
-
-doric
+15889	doric
 15891	doric/aeolic
 15894	doric/laconia
-15896	
-
-attic/epic
-15902	
-attic/ionic/epic/doric
-15905	ionic
-15908	
-15910	
-
-
-
-
-doric/aeolic
+15898	attic/epic
+15903	attic/ionic/epic/doric
+15915	doric/aeolic
 15919	parad_form
-
-
-
-15925	
-doric
-
-15929	
-15931	
-
-
-15936	
-
+15926	doric
 15939	doric/aeolic
-
-15942	
-
 15945	attic/epic/ionic
-
-15948	
-
-doric/aeolic
+15950	doric/aeolic
 attic/epic
 attic
-
-
-15957	
-15961	
-15963	
-
-ionic
-15970	
 15972	epic/ionic
-
-
-15976	
-
-
-
-15983	
-attic/epic/doric
-15987	
-
-
-
-15992	
-
-doric/aeolic
-
-epic/doric
-
-
-
-16004	
-16007	
-
-
-
-
-16013	
-
-
-attic/epic/ionic
-
-doric
-
-
-
-epic/doric
-
-16027	
-
-attic/epic
-
-
-16033	
-attic/epic/doric
-
-
-
+15984	attic/epic/doric
+15994	doric/aeolic
+15996	epic/doric
+16016	attic/epic/ionic
+16018	doric
+16022	epic/doric
+16029	attic/epic
+16034	attic/epic/doric
 16039	epic/ionic/attic/doric
-
-
-
-16044	
-16046	
-
-attic/epic
-16052	
-
+16048	attic/epic
 16055	epic
 attic
-
-
-16061	
-
 16065	attic/epic
-16067	
-16069	
-
-epic
+16071	epic
 attic
-
-16075	
-epic/doric/aeolic
-
-
-
-16081	
+16076	epic/doric/aeolic
 16084	epic/ionic/attic/doric
 16086	doric/aeolic
-
-epic/doric
-16090	
-
-attic/epic/doric
-
-16095	
-
+16088	epic/doric
+16092	attic/epic/doric
 16098	epic/ionic
-
-16101	
-
-
-
-16107	
-epic/doric
-16110	
-16112	
-
-
-
-16120	
-16122	
-epic/doric/laconia
-16125	
-16127	
-
-
-
-
-16137	
-
-16142	
-
-16145	ionic
-16147	
-
+16108	epic/doric
+16123	epic/doric/laconia
 16150	doric
-
-
-attic/epic/ionic
-16156	
+16153	attic/epic/ionic
 16158	attic
 16161	attic/epic/doric
-
-16164	
-16168	
+doric
 16170	epic/doric
-
-
-
-
-attic
-16177	
-epic/doric/ionic/aeolic
-16180	
-ionic
-16183	
-
-
-
-
-
-
-
-16194	
-
-
-
-16199	
-16202	
-16206	
-
-16211	
-16216	
-epic/doric
-ionic
+16175	attic
+16217	epic/doric
 16220	doric/aeolic
 epic/ionic/attic/doric
-16223	
-
-
-
-
-16230	
-
-attic/epic/doric
-16236	
-
-
-attic/epic/ionic
-
-
-
-
-
-
-16249	
-16251	
-16253	
-
-
-
-16258	
-16260	
-
-16263	
-
-
-
-doric/aeolic
-16270	
-doric/aeolic
+16232	attic/epic/doric
+16239	attic/epic/ionic
+16271	doric/aeolic
 epic/ionic
-
-16276	
-
-
-ionic
-doric/laconia
-
-16284	
-16286	
-
-
-
-
-16292	
-16297	
-16301	
-16303	
-16307	
-
-
-16312	
-doric/aeolic
-
-
+16280	doric/laconia
+16289	doric
+16292	attic/epic
+16313	doric/aeolic
+16315	doric
 epic/ionic/attic
-
-16320	
-16322	
-16325	
-epic
-
-16329	
-16332	
-
-
-
-
-16340	
+16326	epic
 16342	epic/doric/laconia
-16344	
-
-
-attic/epic/doric
-
-16350	
+16347	attic/epic/doric
 16356	epic/doric/aeolic
-16358	
-16362	
-attic/epic
-
-16366	
-
+16363	attic/epic
 16369	doric/aeolic
-
-16372	
-
-16375	
-
-
-
-ionic
-16384	
-
 16388	doric/aeolic
-16390	
-attic
-16394	
-
-
-
-
-doric/aeolic
+16391	attic
+16399	doric/aeolic
 16402	doric/aeolic
-
 16405	attic/epic/ionic
 16408	doric/aeolic
-
-16413	
 16416	doric/aeolic
-16418	
-
-16428	
-epic/ionic/attic
-16433	
-16435	
+16429	epic/ionic/attic
 16439	epic/doric/aeolic
-16441	
-
-
-
-16446	
-attic/epic/doric
-16449	
-
-16452	
-epic
+16447	attic/epic/doric
+16453	epic
 attic
-
-16457	ionic
-
-
-
-attic/epic/ionic
+16461	attic/epic/ionic
 attic/epic/doric
-16464	
-epic/doric
-16467	epic/doric/ionic/aeolic
-16469	
+16465	epic/doric
 16471	attic/epic/doric
 doric/aeolic
-
-
-
-
-16479	
-16482	
 16485	doric
-
-
-attic/epic/ionic
-16490	
-attic
-16493	
+16488	attic/epic/ionic
+16491	attic
 16495	epic/doric
-16498	
-16500	
-
-
+16502	attic
 doric
-16506	
 16509	epic/doric/ionic/aeolic
 16511	attic/epic
 attic
-
-
-16519	
-16521	
-
-
-16526	
-
-
-16530	
-doric/aeolic
-
-
+16531	doric/aeolic
 16540	attic/epic/doric
-
-
-
-attic
-
-16547	
-
+16544	attic
 16550	doric/aeolic
-
-16553	
-16555	
-attic
+16556	attic
 ionic
-
-
-16562	
-
-
-
-
-
 16569	doric/aeolic
-
-ionic
-16577	
 16579	doric/aeolic
-
-16582	
-
-attic/epic
-
-
-16588	
-16591	
-16593	
-16596	
-
-doric/aeolic
+16584	attic/epic
+16598	doric/aeolic
 attic/epic/doric
-
-16603	
-doric/aeolic
-
+16604	doric/aeolic
 16607	attic/epic
-16609	
-attic/epic/ionic
-
-
-
-
-
+16610	attic/epic/ionic
 16617	attic/epic/doric
-
-
-ionic/attic/epic
-16622	
+16620	ionic/attic/epic
 16625	doric
 16629	doric
-
-attic/epic
-
-16636	
-16641	
-epic/doric/aeolic
-
-16645	
-doric/aeolic
-
-
-
-
-doric/aeolic
-16655	
-
-16661	
-16667	
-
-16670	
-16672	
-
-16675	
-16677	
-
-
-
+16631	attic/epic
+16642	epic/doric/aeolic
+16646	doric/aeolic
+16651	doric/aeolic
+16680	doric
 16682	doric/aeolic
 attic
 ionic
-16687	
-16689	
-
+16691	attic/epic/doric
 attic/epic/doric
-attic/epic/doric
-16695	
-16697	
-16701	
-attic/epic/doric
+16702	attic/epic/doric
 doric/aeolic
-
+16705	attic
 attic
-attic
-16711	
-
-
-
-
-
 16720	epic/ionic
-16724	
 16727	attic
-
-16730	
+16730	epic
 doric/laconia
-
-
 16735	doric
-
-ionic/epic
-
-
-16741	
-
-16744	
-attic/epic/doric
-
-16748	
-16751	
-ionic/epic
-
-
-
-
-
+16737	ionic/epic
+16745	attic/epic/doric
+16752	ionic/epic
+16758	attic
+16760	attic
+16763	attic
+16771	epic
 attic
-
-attic
-16762	
-attic
-
-
-16767	
-
-
-
-epic
-attic
-
-
-
-
-
 16779	epic/ionic
-
-
-doric
+16782	doric
 16788	attic
-
-
-
-
-16796	
-
-
 16800	attic
-
-
-
-ionic/epic
+16804	ionic/epic
 epic/doric
-
-16808	
-
-epic/doric
-
+16810	epic/doric
 16813	doric/aeolic
-
-
-
 16820	doric/aeolic
-
-doric
+16822	doric
 attic/epic
-
 16827	epic/ionic
 16829	epic/ionic/attic
-16831	
-16833	ionic
-16836	
-16840	
-16843	
-
-attic
-
-
-16849	
-
-
-
-16854	
-16856	
-
-
-
-16861	
-
-epic
+16845	attic
+16856	attic/epic/doric
+16863	epic
 16865	attic/epic/doric/ionic
-epic/doric/ionic/aeolic
 16868	epic
-
+16870	attic
 attic
-attic
-16873	
-16876	
-16878	
-
-doric/aeolic
-
-epic
-
-16885	ionic
+16880	doric/aeolic
+16882	epic
 16888	epic
 16890	doric
-16892	
-16894	
+16894	attic/epic
 16896	epic/doric/aeolic
-
+16898	attic
 attic
-attic
-
-16904	
-
-
-
-doric/aeolic
-16911	
-
-16915	
-16917	
-attic/epic
-
-16923	
-
-
-16928	
-
-
-
-
-attic/epic
-
-
-attic/epic
-16939	
-
-doric/aeolic
-16945	
-16950	
-
-attic
+16908	doric/aeolic
+16918	attic/epic
+16933	attic/epic
+16936	attic/epic
+16941	doric/aeolic
+16952	attic
 16954	attic
-16956	
-16959	
-16961	
-16965	
-16967	doric/aeolic
+16965	attic/epic/doric
+16967	doric
 attic/doric/aeolic
-16972	
-16974	
-
-16977	
 16979	attic
-16981	
+16982	attic
 attic
-attic
-16985	
-16988	
-16990	
 16994	attic/epic
-
-
-attic/epic/doric
+16997	attic/epic/doric
 doric/aeolic
-
-
-17002	
-doric
-
-epic/doric
-
-
-17013	
-
-
-
-
-
+17003	doric
+17005	epic/doric
 17020	epic/ionic
-
-17023	
-17025	
-17027	
-
-17030	ionic
-17037	
-17039	
-17041	
 17043	epic/ionic
-
 17046	attic/epic/doric
-
-ionic
 17050	doric/aeolic
-
-doric
-17059	
-
+17052	doric
 17063	attic
-
-ionic
-
-17068	
-17071	
-17076	
-17079	
+17076	doric
 17082	epic
-
+epic
 17085	attic
-17087	
-epic/doric/ionic/aeolic
-
-
-
 17094	doric/ionic
 attic
-
-
-
-
-epic
-17104	
-ionic
+17100	epic
 17108	attic
-
 17111	epic/doric
-17113	
-
-17116	
-
-
-attic
+17119	attic
 17122	attic/ionic/epic/doric
-17124	
-17126	
-17128	
-
-ionic/epic
-
-
-
-17135	
+17130	ionic/epic
 17138	epic
-17140	
+17141	attic/epic
 attic/epic
-attic/epic
-17144	
-
-attic/epic/ionic
-17148	
-17150	
-
-
-
-
-17156	
-17158	
-
-attic/epic/doric
-17162	
-doric
-
-17166	ionic
-epic
-17173	doric/aeolic
-
-17178	
+17146	attic/epic/ionic
+17160	attic/epic/doric
+17163	doric
+17167	epic
 17180	epic/attic
-
-attic/epic
-
-
-
-
-
-17189	
-
-
-
-17194	
-17196	
-
-
-
-17201	
-
+17182	attic/epic
+17203	doric
 doric
-doric
-17206	
-17209	
-
-17213	
-
-17220	
-
-attic
-17224	
-17227	
-17229	
-attic/epic/doric/ionic
-17232	
+17214	epic
+17222	attic
+17230	attic/epic/doric/ionic
 17234	attic/epic
-
-
-
-17239	
-17245	
-17247	
-17249	
-17251	
-17254	
 17262	epic/ionic/attic/doric
-17264	
-17266	
-
-
-
-
-
 17273	doric
 doric
-
 17277	epic/ionic
-17280	
-
-
-17284	
 17286	doric
-17289	
-
-epic
-17294	
-17297	
-17299	
-attic/ionic/epic/doric
-
-17303	
-
-
+17291	epic
+17300	attic/ionic/epic/doric
+17303	doric
 17307	attic/epic/doric
-17309	
-17311	
 17313	attic/epic
 doric/aeolic
-
-17318	
-17320	
-doric/aeolic
-
+17321	doric/aeolic
 17324	attic
 attic
-
-
-
-
-attic
+17330	attic
 17336	epic/ionic/attic/doric
-17338	
-
-
-17342	
-
-17345	
-17347	
-
-17350	
-
-epic/doric
-
-17359	
-17361	
-17363	
-
-doric/aeolic
+17352	epic/doric
+17365	doric/aeolic
 attic
-17371	ionic
-17374	
 17377	attic/epic/ionic
 17379	doric/aeolic
-17386	
-17390	
-
-17393	
-17396	
-17399	
-
-ionic
-
-17405	
-
-
-
-
-
-17412	
-
-17416	ionic
-17418	
-17422	
-ionic
-17426	
-17428	
-
-
-
-17436	
-17438	
-17440	
-17442	
-17444	ionic
-17446	
-17449	
-17451	
-17455	
-
-epic
-17460	
-epic/doric/ionic/aeolic
-17463	ionic
-17465	
-17467	
-17471	
-17473	
-17475	
-
-doric
-
-17481	
-17488	
-17490	
+17401	ionic
+17457	epic
+17477	doric
 17495	attic/epic/doric
-17497	
-17500	
-17503	
+17497	attic/epic
 17505	doric
-
-17511	
-ionic/epic
-
-17515	
-17517	
-
+17512	ionic/epic
 17520	doric/aeolic
-
-
-
-17525	
-
-17528	
-17530	
-attic/epic/doric
+17531	attic/epic/doric
 17534	doric/aeolic
 epic/doric/aeolic
-
-17538	
-
-attic/epic/ionic
-17544	
+17540	attic/epic/ionic
 17546	ionic
-
-
-
-
-epic
-
-attic
-
-17556	
-
-attic
-
-doric/aeolic
-
-
-
-
-
-
-17568	
-
-
-epic/ionic
-17573	
-doric/aeolic
-
-ionic/epic
+17551	epic
+17553	attic
+17558	attic
+17571	epic/ionic
+17574	doric/aeolic
+17576	ionic/epic
 17579	attic/epic/doric
-17581	
-attic
-
+17582	attic
 17585	epic
 17588	epic/doric/aeolic
-
-17591	
-
-17594	
-
-17597	
-17599	
-
-
-epic
-17607	
-doric/aeolic
-
-17611	
-
-
-17615	
+17602	epic
+17608	doric/aeolic
 17617	attic/epic/ionic
-
-
-17621	
-
+17622	attic/epic/ionic
 17624	attic/epic/ionic
-
-
-17628	
-17631	
-doric/aeolic
-17634	
-
-
-17638	
-epic
+doric
+17632	doric/aeolic
+17639	epic
 epic
 17645	epic/ionic
-
-epic/ionic
-
-
-
+17647	epic/ionic
 17653	doric
-17655	
-
-17659	
-
-doric
+17656	attic/epic
+17661	doric
 attic/epic
 17665	epic/doric/ionic/aeolic
-17667	
-
-
-17671	
-17673	
-
+17674	doric
 attic/epic/doric
 17677	attic/epic/doric/ionic
-17681	
 17684	epic/ionic
 17686	attic/epic/doric
-
-17689	
-
-17692	
-17694	
-17696	
-
-17699	
-17702	epic/doric/ionic/aeolic
-attic/epic/doric
+17703	attic/epic/doric
 17706	attic
-
-17711	
-
-ionic
-17716	
-attic/epic/ionic
-
-17720	
-doric/aeolic
-17724	
-
-17728	
-17730	
-attic/ionic
-
-
-17736	
-
-
-
-17742	
-
-ionic
+17711	doric
+17717	attic/epic/ionic
+17721	doric/aeolic
+17731	attic/ionic
 17746	doric/aeolic
-17751	
-17755	
-17757	
-17765	
-ionic
-17768	
-
-17771	
-epic
+17766	ionic
+17772	epic
 epic/doric/aeolic
 17775	doric/aeolic
-17777	
+17777	attic/epic
 17779	doric/aeolic
-
-
-doric
+17782	doric
 17785	attic/epic
 attic
-
-17789	
-epic/ionic/doric
-
-
+17790	epic/ionic/doric
 17794	epic/doric/aeolic
-
-
-17799	
-
-attic
-17805	
-17807	
-
-
-epic
-17812	
-17815	
-17818	
+17801	attic
+17810	epic
 17820	doric/aeolic
 17826	attic/epic
 attic
 17830	attic/epic
 17835	attic
 attic
-
-
-17843	
-17846	
-17850	
-17852	
-17856	
-attic/epic
-17859	
-
-
-17863	
-
-
-17867	
-17870	
-
-attic
-
-
-epic/doric/aeolic
-17877	
-17879	
-17882	
-doric
-
-doric/aeolic
+17857	attic/epic
+17872	attic
+17875	epic/doric/aeolic
+17877	attic/epic
+17883	doric
+17885	doric/aeolic
 17887	attic
 attic
-
 17891	doric/laconia
-17894	
-17897	
-
-
-17901	
-17905	
-
-17908	
-17910	
-17912	
-17914	
-
-attic/epic
+17916	attic/epic
 doric/aeolic
 epic
-
-17921	
-17923	
-
+17924	doric
 17926	doric
-
-
-
-17931	
-doric/aeolic
-17936	
-attic/epic
-17939	
-
-
-
-17945	
-doric
+17932	doric/aeolic
+17937	attic/epic
+17946	doric
 doric
 doric/aeolic
 17950	attic/epic/ionic
-17952	
-
-17955	
-doric/aeolic
-
-
-
-
-
-17964	
-17966	
-17970	
-17972	
-17976	
-attic/epic/ionic
-ionic
-17981	
-17983	
-17986	
-doric
-
-
-17991	
+17956	doric/aeolic
+17977	attic/epic/ionic
+17987	doric
 17993	attic/epic/doric
-17999	
-epic
-
-
-18010	
-
-epic/doric/aeolic
-18014	
-18016	
-
-
-18022	
-
-
-doric
-
+18000	epic
+18012	epic/doric/aeolic
+18025	doric
 18028	attic
 attic
-
-
-
-18036	
-
-epic/ionic/attic/doric
-18040	
-18042	
-18045	
+18038	epic/ionic/attic/doric
+18045	attic/epic/ionic
 epic/ionic
 18048	doric/aeolic
-18050	
-18053	
-attic/epic
-
-18058	
-18061	
-18063	
-18067	
-18069	
-doric/aeolic
+18054	attic/epic
+18070	doric/aeolic
 epic/ionic
-18073	
-
-
-
-
-
-
 18081	attic/epic/doric
 epic/ionic/attic
 epic/doric
-ionic
 18086	doric/aeolic
-
+attic/epic
 18090	attic/epic/doric
-
-doric
+18092	doric
 18094	doric
-
-
-attic
-
-
-attic
-18102	
-18104	
-
-18107	
-
+18097	attic
+18100	attic
 18110	attic/epic/doric
-
-attic/ionic/epic/doric
-18114	
-
-
+18112	attic/ionic/epic/doric
 18118	doric
-18120	
-18124	
-
-
-
-18129	
-
-
+18131	attic/epic/ionic
 epic/ionic
-
-
-18137	
-
-
-ionic
 18142	doric/aeolic
 attic/epic/doric/ionic
-18146	
-18148	
-attic/epic/doric
+18149	attic/epic/doric
 doric
-18152	
-18154	ionic
-18160	
-
-
-18165	
-
-
-18169	
-18172	
-18176	
-epic/ionic
-
-
-doric/aeolic
-
-18184	
-18186	
-
+18169	doric
+18177	epic/ionic
+18180	doric/aeolic
 18189	doric/aeolic
-18192	
-attic
+18193	attic
 18196	epic
 18198	epic/doric
 18200	epic
-
-18205	
-
-18208	epic/doric/ionic/aeolic
-18210	
-18213	
-attic/epic/doric
-
-18218	
-
-18221	
-doric/aeolic
-
-ionic
+18214	attic/epic/doric
+18222	doric/aeolic
 18226	doric/aeolic
-ionic
-18229	
-attic/epic/doric
-
-
-
-
-18238	
-
-18244	
-
-18247	
-
-18251	doric
-
-
-18256	
+18251	attic/epic/ionic
 18258	attic/epic/ionic
-18261	
-
-
-doric/aeolic
-18267	ionic
+18264	doric/aeolic
 18269	doric/aeolic
 attic
 18273	attic
-
 18276	attic
-
-18282	
-
 18285	doric
 18287	attic/epic/doric
 attic/epic/doric
 18290	epic/doric
-
-
+18292	attic/epic/ionic
 doric/aeolic
 doric/aeolic
-
-18297	
-attic
+doric
+18298	attic
 18301	attic
 18303	attic
-
-
-
-18309	
-attic/epic
+18310	attic/epic
 doric/aeolic
 attic/epic
 doric
 attic/epic/doric
-
-18318	
 18320	epic/ionic/attic
-
-18323	
-18325	
-
+18327	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-
-
-
-18334	
-
-doric/aeolic
-
-doric/aeolic
-18340	
-18342	
-
-18345	
-
-
-18350	
-ionic
-18353	
-18355	
-18358	doric
-
-
-
-18363	
-doric/aeolic
-18369	
-
-attic/epic
+18336	doric/aeolic
+18338	doric/aeolic
+18358	attic/epic/ionic
+18364	doric/aeolic
+18371	attic/epic
 attic/epic/ionic
-
-attic/epic/doric
+18374	attic/epic/doric
 doric/aeolic
 doric/aeolic
-
 18379	epic/doric/aeolic
-
-
-18383	
-18388	
-18390	
-
 18393	attic/epic/doric
 18397	doric/laconia
-18400	
-18402	
-18404	
-doric
-
-
-
-
-18411	
-
-18414	
-
-18417	
-attic/epic/doric
+18418	attic/epic/doric
 18420	epic/doric
-
-18424	
-epic/doric
-18427	
-epic/doric/ionic/aeolic
-18430	
+18425	epic/doric
 18433	ionic
-
-
-
-18439	
-18442	ionic
 18444	attic/epic/ionic
-
-
-18448	
-18450	
-attic
+18451	attic
 18453	epic
-18456	
-18460	
-doric/aeolic
-
-ionic
+18461	doric/aeolic
 18466	doric/aeolic
-18468	
-
-
-18472	
-
-epic
-
-
-18478	
-
-18481	epic/doric/ionic/aeolic
-
-18486	
-ionic
-18489	
+18474	epic
 18491	epic/doric/aeolic
-
-
-
 18496	doric/aeolic
-18498	
-attic
-
+18499	attic
 18502	epic/doric/aeolic
-
-
-doric
-18507	
-attic/epic/doric
+18505	doric
+18508	attic/epic/doric
 epic/ionic/attic/doric
-
-epic/doric/ionic/aeolic
-
 18516	attic/epic/ionic
-
-
-
-ionic
 18522	doric/aeolic
 18525	doric/laconia
 attic
-
-18529	
-
-18532	
-
-18536	
-
-attic
-
-attic/epic
-18542	
-
-attic/epic
-18546	epic/doric/ionic/aeolic
-epic/ionic/attic/doric
-
+18538	attic
+18540	attic/epic
+18544	attic/epic
+18547	epic/ionic/attic/doric
 18550	doric/aeolic
-18552	
-epic
-18556	
-18561	
-
-epic/ionic
+18553	epic
+18563	epic/ionic
 doric/aeolic
-18566	
-18568	
-
-
-
-18573	doric
-
-18576	
-epic/doric
+18577	epic/doric
 18579	attic/epic
-
-18582	
-18584	
-
-18587	
-epic/doric/ionic/aeolic
-epic
-
-epic
+18589	epic
+18591	epic
 18594	attic
 18597	attic/epic/ionic
-18600	
-18603	
-attic/epic
-18606	
-
-
-18610	
-18617	
-18619	
-attic/epic
-18622	
-
-
-
-doric
-
-epic/doric/ionic/aeolic
-
-ionic
-18633	
-18637	ionic
-18643	
-
-18646	
-epic/doric/aeolic
-18651	
-doric/aeolic
-
-18655	
-
-
-
-epic/doric/ionic/aeolic
-
-epic/doric/aeolic
-
-
-epic/ionic
-
-18667	
+18604	attic/epic
+18620	attic/epic
+18647	epic/doric/aeolic
+18652	doric/aeolic
+18661	epic/doric/aeolic
+18664	epic/ionic
 18671	epic/doric
-
-
-attic
-18676	
-attic
-18680	
-
-doric/aeolic
-
-
-
-
-
-attic
-
+18674	attic
+18677	attic
+18682	doric/aeolic
+18688	attic
 18691	attic/ionic
-
-
-
-18697	
-
-
-18701	
-18706	
-18708	
-
-18711	
-
-
-18720	
-
 18725	doric/aeolic
 18727	doric/aeolic
-18733	
 18735	epic
-
-18738	
-
-18741	
-
-18744	ionic
-attic/epic/ionic
-18747	
-18749	
-epic/doric/ionic/aeolic
-
-
-18754	
-18756	
-ionic
+18745	attic/epic/ionic
 18759	doric/aeolic
-18763	
-18766	
-
 18769	doric/aeolic
-18771	
-attic/epic/doric/ionic
-18774	
-epic
-
-
-18781	
-18783	
-18787	
-18789	
+18772	attic/epic/doric/ionic
+18775	epic
 18792	attic/epic
-
-
-18797	
-18799	
-18801	
-18806	doric/aeolic
+18806	doric
 18812	epic/doric/aeolic
 attic/epic/ionic
-
-epic/doric/ionic/aeolic
+18815	epic/doric/ionic/aeolic
 attic/epic/ionic
 18819	doric/aeolic
-18823	doric/aeolic
+18823	doric
 18825	doric/aeolic
 attic/epic/doric
-18828	
-
-doric
-18832	
-epic/doric/aeolic
-18835	
-
-
-18840	epic/doric/ionic/aeolic
-
-
-doric/aeolic
-doric
-
-18847	
-ionic
-attic
+18830	doric
+18833	epic/doric/aeolic
+18841	epic
+18844	doric
+18849	attic
 18851	attic/epic/doric/ionic
-18856	
-18858	
-18860	
-18862	
 18865	epic
-
-
 18869	epic
-
-18872	
-
-attic/epic/ionic
-epic/attic/doric
-ionic
-doric/aeolic
+18874	attic/epic/ionic
+attic
+18877	doric/aeolic
 doric/aeolic
 attic/epic
-
-18882	
+18882	attic/epic
 doric
-ionic
-18887	
-18889	
-18891	ionic
+18892	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-ionic
-attic/epic/ionic
+18896	attic/epic/ionic
 18898	doric/aeolic
-18900	
-
-18903	epic/doric/ionic/aeolic
 18908	attic/epic/doric
 18911	attic/epic/doric
-
-
-
-doric/aeolic
+18915	doric/aeolic
 18917	attic/epic/ionic
-18919	
-18921	
-
-18924	
-
-
-18928	
-
-
-18933	
-
-18936	
-
-
 18942	attic/ionic
-
-
-doric
-18948	
-
-epic/doric/aeolic
-18953	
-doric/aeolic
-
-
-
-attic/epic
-
-18961	
-
-attic
-18965	
-
-epic/doric
-
-ionic
-doric/laconia
-
-
-18975	
-18977	
+18945	doric
+18950	epic/doric/aeolic
+18954	doric/aeolic
+18958	attic/epic
+18963	attic
+18967	epic/doric
+18970	doric/laconia
 18979	attic/epic
-18986	doric/aeolic
-ionic
-18991	
+18991	attic/epic/doric
 18993	attic
 18995	epic/doric/aeolic
-18997	
-19001	epic/doric/ionic/aeolic
-19004	ionic
-19007	
-19009	
-
-19014	
-19020	
 19023	doric/aeolic
-19026	
-19034	
-
-
-
-19039	
-19041	
-
-
-19048	
+19043	epic
 19050	epic/doric/aeolic
-19052	
-attic/epic/ionic
-19057	
-19059	
+19053	attic/epic/ionic
 19061	attic/epic/doric
-
-
-19066	
-
-attic/epic
-19072	
-
-doric/aeolic
+19068	attic/epic
+19074	doric/aeolic
 doric/aeolic
 19077	doric
-
-
-
-19083	
-
-19086	
-
-
+19080	attic/epic
 19091	attic/epic
 attic/epic
-
-doric/aeolic
+19094	doric/aeolic
 19096	doric/aeolic
-
-
-
-
-19103	
-19105	
-
-attic/epic
-19109	
-
-19112	
-
-
-
-
-
-
-
-
-19122	
-epic/doric
-
-19126	
+19107	attic/epic
+19123	epic/doric
 19128	attic/epic
-19131	
-
-doric/aeolic
-
-19136	
+19133	doric/aeolic
 19138	epic
-19141	
 19143	attic/epic
-
-19146	
-
-doric/aeolic
-
-
-epic
+19148	doric/aeolic
+19151	epic
 attic
-
 19155	doric/aeolic
-
 19158	attic/epic/ionic
-
-attic/epic
-19162	
-
-
-epic
-19168	
-19170	
-ionic
-19174	
-19176	
-19178	
-
-19182	
-
-19186	
-19191	
-
-
-19197	epic/doric/ionic/aeolic
-
-19200	
+19160	attic/epic
+19165	epic
 19202	doric/aeolic
-19205	
-19207	
 19214	epic/ionic/attic/doric
 epic
 19218	attic
-19220	
-
 19223	doric/laconia
-19225	
-
-attic/epic/doric/ionic
+19227	attic/epic/doric/ionic
 19230	doric
 attic/epic/ionic/doric
-
-epic/doric/ionic/aeolic
 19235	attic/epic
-19237	
-
-
-
 19243	doric/aeolic
 19247	attic/epic
 attic
-19251	
-
-doric/aeolic
+19253	doric/aeolic
 19257	attic/epic/doric
-
-19260	
-
-
-19265	
-
-
-
-
 19271	attic/epic/doric
-
-19274	
-
-
-
-
-attic/epic/doric
-19281	
-
-19284	
-
-
-
-
-
-doric/aeolic
+19279	attic/epic/doric
+19290	doric/aeolic
 epic
-
-19296	
-doric/aeolic
-19299	
-
-
-
-doric/aeolic
-19305	epic/doric/ionic/aeolic
-doric/aeolic
-
-doric/aeolic
-
-19311	
+19297	doric
+19303	doric/aeolic
+19306	doric/aeolic
+19308	doric/aeolic
 19317	epic
-
-
-
-
-doric/aeolic
-
-19325	
-doric/aeolic
-
+19319	doric/aeolic
+19322	doric/aeolic
+19326	doric/aeolic
 19329	epic
-
-19332	
-doric/aeolic
-
-epic
-19337	
-
-
-
-
-19343	
-
-attic
-19347	
-19349	
-
-19352	
-19355	
+19333	doric/aeolic
+19335	epic
+19341	attic/epic/ionic
+19345	attic
 19357	epic
-19359	
-19361	
-
 19367	doric/aeolic
-19369	
-19371	
-
-
-19375	
-attic/epic/doric/ionic
-
-attic/epic/ionic
-
-
+19376	attic/epic/doric/ionic
+19378	attic/epic/ionic
 19383	doric
-19385	
-
-19388	
-
-19391	
-
-19396	
-19398	
-attic
+19399	attic
 attic/epic/doric
-19402	
-doric/aeolic
-19407	
-
-epic/doric/ionic/aeolic
-ionic
+19403	doric/aeolic
+19409	epic/doric/ionic/aeolic
 19412	doric
-
-19415	
-
-
-19422	
-19426	
-attic/epic/doric
+19427	attic/epic/doric
 doric/aeolic
-
-epic/doric/ionic/aeolic
-ionic
+19430	epic/doric/ionic/aeolic
 19433	doric
-epic/doric/ionic/aeolic
-19437	
-19440	
-
-
-19445	
-doric/aeolic
-
-
-
-19455	
-19457	
-
-
-
-epic
-19464	
-
-19468	
-
-19472	
-attic/ionic/epic/doric
-19475	
-doric/aeolic
-19482	
-19484	
-
-
-ionic
+19441	epic
+19446	doric/aeolic
+19461	epic
+19473	attic/ionic/epic/doric
+19476	doric/aeolic
 19490	attic
-
-
 19494	ionic
-19502	
-19505	
-
 19508	parad_form
-19513	
-
-attic/epic/doric/ionic
+19515	attic/epic/doric/ionic
 19517	epic
-
-19521	
-19526	
-
-19529	
-19533	
-19535	
-epic
+19521	epic
+19529	epic
+19536	epic
 attic
-
 19540	attic
-19542	epic/doric/ionic/aeolic
-
-19545	ionic
 19548	epic/doric/aeolic
-
-19552	
-19554	
+attic/epic
 19556	attic/epic/doric
-19558	
-19561	
-19563	
-
-
-19567	
-attic/epic
+19568	attic/epic
 19570	attic/epic
-19572	
-doric
+19573	doric
 doric/aeolic
-
-ionic
-19578	
-19580	
-
-19585	
-
-
-
-
-
-
-
-
-19595	
 19600	doric
-19602	
-
-attic/ionic
+19604	attic/ionic
 19606	ionic
-
-
-attic/epic
-19611	
-19613	
-19615	
-19618	
-19620	
-19623	
-19625	
-
-
-19630	
-19632	
-19636	epic/doric/ionic/aeolic
-
-
-
-
-
-
+19609	attic/epic
 19646	doric/aeolic
-19650	
-19652	
-attic/epic/ionic/doric
-19655	
-19657	
-19659	
-
-19662	
-19664	
+19653	attic/epic/ionic/doric
 19666	doric/aeolic
 attic
-
-19670	
-
-19677	
-attic/epic
-
-19683	
-19685	
-
-
-19689	
-
-
-19694	
-
-19703	
-
-
-19708	
-19711	
-19713	
+19678	attic/epic
+19691	epic
 19717	attic/epic/doric
-
-
-19721	
-
-
-19725	
-
-epic
+19727	epic
 attic
-
-19731	
-19733	
-
-
-19737	
-19739	epic/doric/ionic/aeolic
-
-ionic
-19743	
 19745	attic/epic
-19750	
 19754	attic/ionic/epic/doric
-
-
-
-19759	
-19761	
-
 19767	doric/aeolic
-19769	
-
 19772	attic/ionic/epic/doric
-19774	
 19777	doric/aeolic
 attic/epic
-19780	
 19784	attic
 19787	attic/epic/ionic
 19790	attic
-19794	
-doric/aeolic
-19797	
-19799	
-
-19802	
-19804	
-19806	
-19808	
+19795	doric/aeolic
 19810	ionic
 19814	attic
-19817	
-19821	
 19823	doric/aeolic
-19829	epic/doric/ionic/aeolic
-19831	ionic
-19836	
-19839	
-19847	
-19849	
-
-
-19853	
-19855	
-
-19858	
-
-
-
-
-doric/aeolic
-
-
-19867	
-19869	
-
-attic/epic
-
-
-
-
-
-
-19881	
+19863	doric/aeolic
+19871	attic/epic
 19883	epic
-
-
-doric/aeolic
-
+19886	doric/aeolic
 19891	doric/aeolic
-
-19896	
-doric/aeolic
-19899	
-
+19897	doric/aeolic
 19903	doric/aeolic
-
-19908	
-epic
-
-
-19915	
-
-
-
-19923	
-doric/aeolic
+19909	epic
+19924	doric/aeolic
 19926	doric/aeolic
-19928	
-19930	
-doric/aeolic
-19933	ionic
+19931	doric/aeolic
 19935	doric/aeolic
 attic
-
-19939	
-doric/aeolic
-
-
-doric/aeolic
-
-
-19947	
-
-19950	
+19940	doric/aeolic
+19943	doric/aeolic
 19952	doric/aeolic
-
-
-attic/epic/ionic
-
-doric
-
-
-19962	
-
-
-
-19968	
-doric/aeolic
-
-doric/aeolic
-19975	
-
-ionic
-19981	
-
-
-19985	ionic
+19955	attic/epic/ionic
+19957	doric
+19969	doric/aeolic
+19971	doric/aeolic
+19975	attic
 19988	doric/aeolic
-19991	
-19993	
-
-19996	
-
-epic/doric/ionic/aeolic
-20000	
-
-
-20004	
-20006	
-20008	
-20010	
+20008	attic/epic/doric
 20013	attic/epic/doric
-20017	
 20021	epic
-
-attic/epic/doric
-
-
-
-20028	
-20030	
-20032	
-doric/aeolic
-
-
+20023	attic/epic/doric
+20033	doric/aeolic
+20035	attic/epic/doric
 epic
-
 20039	epic/ionic/attic/doric
-
-
-
-20044	
-
-
-20048	
-20053	
-20055	
-20057	
-
-
-
-
-20063	
-20065	
-20067	
-
-20070	
-attic
-
-20075	
-20079	
-20081	epic/doric/ionic/aeolic
-20083	
-20085	
+20067	attic
+20071	attic
 20087	doric/aeolic
-20096	ionic
-20098	
-20100	
-
-epic/ionic
-20105	
+20102	epic/ionic
 20109	doric/aeolic
-
 20112	attic/epic/ionic
 doric/aeolic
-20117	
-20119	
 20121	epic
-
-
-
-20126	
-
-attic/epic/doric
-
-
-attic/epic/ionic
-
-20135	
-attic/epic
+20128	attic/epic/doric
+20131	attic/epic/ionic
+20136	attic/epic
 epic/ionic/attic/doric
-
 20140	epic
-
-20143	
-20145	
-
-
 20153	epic
-
-20156	
-20158	
 20160	attic/epic/ionic
-20163	
-20165	
-20167	
+20165	epic
 20170	attic/epic/ionic
-20172	
-20174	
-20178	
-20180	
+20178	epic
 20182	doric/aeolic
 20186	epic
-ionic
+20188	doric/aeolic
 doric/aeolic
-doric/aeolic
-20191	
-
-doric/aeolic
-20198	
-
-20202	doric/aeolic
-epic
-ionic
+20193	doric/aeolic
+20203	epic
 20206	attic/epic/ionic
 20208	attic/epic/ionic
 20210	epic
-
-
-20214	
-20217	ionic
-
-20220	
-
-20223	
-
 20226	epic
-20228	
-20232	epic/doric/ionic/aeolic
-
-20235	
-doric/aeolic
-
-20239	
-
-20242	
-20244	
-doric/aeolic
+20236	doric/aeolic
+20245	doric/aeolic
 doric/aeolic
 20248	epic
-
-doric
-20255	
-attic
-
-
-20261	
-
-20264	
-
-20267	
-20271	
-attic/epic/doric
-20277	
-
-
-
-20284	
-20286	
-
-
-
+20250	doric
+20256	attic
+20261	attic/epic/doric
+20272	attic/epic/doric
 20291	epic/doric
-20294	
-
+20295	attic/epic/ionic
 doric/aeolic
 doric/aeolic
-20299	
-attic/epic/ionic
-20303	
+20300	attic/epic/ionic
 20306	epic
-
-
-20310	
 20312	epic
-
-20318	
-20320	
-
-20323	
-20327	
-ionic
 20332	epic
-doric/aeolic
-
-
-
-doric/aeolic
+20337	doric/aeolic
 20339	epic/ionic
-20344	
-
-
-epic
-20350	
-epic
+20347	epic
+20351	epic
 doric/aeolic
-
-
-doric/aeolic
-
-epic
-20361	
-20363	
-20366	
-20369	
-epic
-
-ionic
-doric/aeolic
+20355	doric/aeolic
+20357	epic
+20363	epic
+20370	epic
+20373	doric/aeolic
 doric/aeolic
 20377	epic
-
-20383	
-doric/aeolic
+20384	doric/aeolic
 attic
-20388	
-ionic/doric/aeolic
+20389	ionic/doric/aeolic
 attic
 attic
-20393	
-
-
-
-doric/aeolic
-
-epic
+20397	doric/aeolic
+20399	epic
 20407	epic
-
-
 20411	attic/epic/ionic
 20413	attic/epic/ionic
 20416	epic
 20422	epic
-
-
-20426	
-
-20429	
-
-epic/doric/ionic/aeolic
-epic
-
-
-
-20437	
-20439	
-
-20444	
-
+20432	epic
 20447	epic/doric
-
-
-
 20452	doric/aeolic
-20454	
-20457	
-
-doric/aeolic
-
-
-20463	ionic
-20465	
-20467	
-
-ionic
-
-
-
-
-20477	epic/doric/ionic/aeolic
-epic
-
-
-
-
-
+20459	doric/aeolic
+20478	epic
 20486	attic/epic
 20488	doric
 20491	doric
-20494	
-20496	
-20499	
-
-20502	
-
-
-20506	
-epic/doric/ionic/aeolic
-epic
-20511	
-
-attic
-
-
+20508	epic
+20513	attic
 20517	doric
-20520	
 20522	attic/epic/ionic
-20524	
-20526	
 20529	doric
-20531	
 20533	epic
 20535	doric/aeolic
-
-
 20540	doric/aeolic
-
-attic/epic/ionic
+20542	attic/epic/ionic
 attic/epic
-
 20549	doric/aeolic
-20551	
-attic/epic
-
+20552	attic/epic
 20556	attic/epic/doric
-
-
-
-
-20563	
-epic/doric/aeolic
-
-20567	epic/doric/ionic/aeolic
-epic
-
+20564	epic/doric/aeolic
+20568	epic
 20572	doric/aeolic
 attic
-
-
-
-
-20579	
-attic/epic/doric
-
-20587	
+20580	attic/epic/doric
 20589	attic/epic/ionic
-
-
-20593	
-20595	
-
 20598	attic/epic/ionic
-20602	
-20605	
-20607	
-attic/epic/doric
+20608	attic/epic/doric
 20610	attic/epic
-20615	
 20617	ionic/doric/aeolic
-
-
-
-attic
-
-20624	epic/doric/ionic/aeolic
-20629	
+20621	attic
 20637	doric/aeolic
-
-20640	
 20642	doric/aeolic
-20645	
-
-attic/epic/doric
-
-epic/doric/ionic/aeolic
-
-
-
-attic/epic/ionic
-
-
-
-20658	
-ionic
+20647	attic/epic/doric
+20653	attic/epic/ionic
 20661	doric/aeolic
 20666	epic
-20668	
-epic/doric/aeolic
-
-attic/epic
-20674	doric/aeolic
+20669	epic/doric/aeolic
+20671	attic/epic
 20676	epic/doric/aeolic
-20678	
 20682	attic/epic/ionic
 attic
-20685	
-20688	ionic
-20692	doric/aeolic
+20692	attic/epic/doric
 20698	epic/doric/aeolic
-
-
-epic/ionic/attic
-
+20701	epic/ionic/attic
 20707	epic
 20710	epic
-
-20713	
-
-
-
-
 20720	attic/ionic
 attic/epic
-20724	
-
-epic/ionic
+20726	epic/ionic
 doric/aeolic
-
-20731	
 20735	doric/aeolic
 attic/epic/ionic
-20738	
-
-
-
-
-20744	
-
-
-20753	
-20756	
-
-20760	
-20762	
-20765	
-
-
-
-epic/doric/ionic/aeolic
-
-ionic
 20773	doric/aeolic
-20775	
-ionic
 20778	doric/aeolic
-
-
-20783	
-
-attic
-20787	
-attic/ionic/epic/doric
-
-
-
-
-20794	
+20785	attic
+20788	attic/ionic/epic/doric
 20799	ionic/epic
-20801	
-20805	ionic
-attic/ionic
-20811	
-
-20816	
-20823	
-doric/aeolic
+20806	attic/ionic
+20812	epic
+20824	doric/aeolic
 attic/epic
 20827	doric/aeolic
 doric/aeolic
-20832	
 20834	doric/aeolic
-20836	
-20840	
-
-20845	
+20836	epic
 20848	epic/doric/aeolic
-20851	
 20853	epic/ionic/attic/doric
 20855	attic/epic/doric
-20858	
-
-attic/epic/doric/aeolic
-20862	
-20865	
-
-20868	
-
-
-20872	
-attic
+20860	attic/epic/doric/aeolic
+20873	attic
 epic
 attic
-
-attic
-
-
-
-20882	
-
+20877	attic
 20886	epic
-20888	
-
-20893	
-
-attic
-
-20900	
-doric/aeolic
-
-20904	
-
+20895	attic
+20901	doric/aeolic
 20907	doric/aeolic
-20909	
-20915	
-
-
-
-
-
-20922	
-epic/doric/aeolic
-20925	
+20920	attic/epic/doric
+20923	epic/doric/aeolic
+20925	attic/epic
 20927	attic/epic
-
-20930	
-attic/epic/ionic
+20931	attic/epic/ionic
 doric/attic/epic/ionic
-20936	
-
-
-ionic
-20942	
-ionic
-20945	
-20948	
-20950	
-
-20953	
-20955	
-ionic
 20960	attic/ionic/epic/doric
-
-20963	
-attic
+20964	attic
 epic/ionic/attic
-ionic
 20968	doric/aeolic
-
-20973	
-
-epic/ionic
-epic/doric/ionic/aeolic
-
-20980	
-20983	ionic
-20987	ionic
-20991	
-attic/epic/doric
-
+20975	epic/ionic
+20992	attic/epic/doric
 21003	epic
-21005	
-
-
 21009	attic/epic/doric
-21011	
 21013	doric/aeolic
-21017	
-
-
-21021	
 21023	attic/epic
-21026	
-
-
-21030	
-attic/epic/doric
-21034	
-
-
-
-21040	
-ionic
-21046	
-21048	
-21050	
-21053	
-
+21031	attic/epic/doric
 21056	doric/aeolic
-
-
-
-ionic
-21063	
-21066	
-21069	
-
-
-
-
-epic/doric/aeolic
+21074	epic/doric/aeolic
 21076	attic/ionic/epic/doric
-
-21079	
-21081	
-21083	
-
-attic/ionic
-
-attic/ionic/epic/doric
-
-
-
-21093	
-epic/doric/ionic/aeolic
+21085	attic/ionic
+21087	attic/ionic/epic/doric
+21095	attic
 attic
 attic
-attic
-
-attic/epic
-21102	ionic
+21099	attic/epic
 21104	doric/aeolic
-
 21111	epic/doric/aeolic
-
 21114	doric/aeolic
-21117	
-
-attic/epic/doric
+21119	attic/epic/doric
 21123	attic/epic/doric
-21125	
-21129	
 21131	attic/epic/doric/ionic
-21133	
-
-
-21138	
-
-
-
-21143	
-doric/aeolic
-
-21147	
-21150	
-21152	
-21154	
-21157	
-21161	
-21163	epic/doric/ionic/aeolic
+21139	doric
+21144	doric/aeolic
 21165	attic/epic/doric/ionic
-
-attic/ionic
-21169	
-doric/aeolic
-21172	
-attic/epic/doric/ionic
-
-
-
+21167	attic/ionic
+21170	doric/aeolic
+21173	attic/epic/doric/ionic
 21178	attic/ionic/epic
-
-21182	
-21185	
-doric/aeolic
-
-ionic
-21190	
-attic/epic/doric/ionic
+21186	doric/aeolic
+21191	attic/epic/doric/ionic
 attic/epic/ionic
-
-
-attic
+21195	attic
 attic
 attic/epic/doric/ionic
-
-attic/epic
-
-
-
-attic
-21205	
-epic
-21208	
-doric/aeolic
-21212	
-attic/epic/doric
-
-21217	
-21219	
-attic/epic/ionic
+21199	attic/epic
+21201	epic
+21203	attic
+21206	epic
+21209	doric/aeolic
+21213	attic/epic/doric
+21220	attic/epic/ionic
 attic
 21226	attic/epic
-21228	
-
-
-21234	
-
-
-21238	
-
-21241	
-
 21244	doric
 epic
-
-attic/epic
-
-epic
-
-
-
-
-attic/epic/doric
-21256	
-
-
-doric/aeolic
-
-21264	
-
+21247	attic/epic
+21249	epic
+21254	attic/epic/doric
+21259	doric/aeolic
 21267	epic
-
-
-
 21273	attic/epic/doric
-21277	
-21280	
 21282	attic/epic/doric/ionic
-
-
-epic/doric/aeolic
-21287	
+21285	epic/doric/aeolic
 21289	epic
-
-21292	
-
-
+21294	attic/epic/ionic
 21296	epic/doric/aeolic
-
-21299	
-21301	
-
-epic/doric/ionic/aeolic
-
-epic/doric/aeolic
-
-
-ionic
-epic/doric
-21311	
-doric/aeolic
-
-21316	
-21318	
-21321	
+21303	epic/doric/ionic/aeolic
+21305	epic/doric/aeolic
+21309	epic/doric
+21312	doric/aeolic
+21322	attic
 attic
-attic
-
-
-attic
-
-
-21330	
-21335	
-21337	
-
+21326	attic
 21341	attic/epic/doric
-
-attic/epic
-21345	
+21343	attic/epic
+21345	attic/epic/ionic
 attic
-
-
-21350	
-
-
-21354	
-
-
-
-21359	
 21363	attic/epic/ionic
-21369	ionic
 21372	attic
 attic
 21375	attic/epic
-21381	
-21384	
-
-
-attic/epic
-21389	
-21391	
-
+21387	attic/epic
 21394	doric/aeolic
-
-21397	
-
 21401	attic/epic/doric
-21403	
 21406	attic
-
-21414	
-21416	
 21418	epic/doric/aeolic
-21420	
-21422	
 21425	attic
-
-
-21431	
-21433	
 21435	attic/doric/laconia
-
-
-
-21440	
-
 21443	attic/doric/laconia
 21445	epic/ionic/attic/doric
 epic/doric/aeolic
-21448	
-
-21451	
-
-attic/ionic
-21456	
-
-
-
-21464	
-21468	epic/doric/ionic/aeolic
-
-21473	ionic
-21476	
+21453	attic/ionic
 21478	epic
-
-
+21481	doric/aeolic
+21490	epic/ionic
+21497	epic
+21509	attic
 doric/aeolic
-
-21486	
-21488	
-
-epic/ionic
-21492	
-21496	
-
-
-
-21501	
-
-
-
-
-
-21508	
-attic
-doric/aeolic
-
-
-doric
-
-ionic/doric/aeolic
-
-21519	
-21521	
 epic
-21524	
+21513	doric
+21515	ionic/doric/aeolic
+21522	epic
 21531	doric/aeolic
-21535	
-epic
-
-doric/aeolic
-
-21542	
-21545	
-
+21536	epic
+21538	doric/aeolic
 21548	epic
-
-
-
-
-
 21555	doric
-21557	
-
-
-
-21562	
-21564	
-21567	
-21569	
-
-
-
-21574	
-21576	
-
-
-21580	
-
-
-attic/epic/doric
+21576	attic/epic
+21583	attic/epic/doric
 attic/epic/doric/ionic
 doric/aeolic
-
-21590	
+21590	epic
 21592	doric/aeolic
-
-epic/doric/ionic/aeolic
-epic
+21595	epic
 doric/aeolic
 doric/aeolic
-
-21600	epic/doric/ionic/aeolic
-attic/epic
-21603	
-21605	
+21601	attic/epic
 21607	attic/epic/doric
 21611	epic
-
-doric/aeolic
-
-doric
-
-21620	
-
-21624	ionic
-
-
-
-21629	
-
-21632	
-doric/aeolic
-
-ionic
-21638	
-doric/aeolic
-21643	
-doric
-21646	
+21613	doric/aeolic
+21615	doric
+21633	doric/aeolic
+21639	doric/aeolic
+21644	doric
 21648	epic
-
 21651	doric/aeolic
-
-ionic
-doric/aeolic
-
-
-
-
-
-21663	
-21665	
-doric
+21654	doric/aeolic
+attic/epic
+21657	doric
+attic
+21663	attic
+21666	doric
 epic/doric
 21670	epic/doric
-
-21673	
 21675	epic/doric
-21677	
-
-doric
+21677	attic/epic/doric
+21679	doric
 epic/doric
-ionic
-doric/laconia
-
-epic/doric/ionic/aeolic
-21687	
-epic
-21690	
-
-
-21694	
-
-21699	
-epic/doric/ionic/aeolic
-21702	
-ionic/epic
-21705	
+21682	doric/laconia
+21688	epic
+21703	ionic/epic
 21709	doric/aeolic
-
-21712	
-
-
-
-21718	
-
-21721	
+21721	epic
 21723	attic/epic/doric
-
-attic
-
-
-
-21730	
-
-
-21734	
-21736	
-
-doric
-
-
-
-
-
-21745	
+21725	attic
+21738	doric
 21747	epic
-
-attic/epic/doric
+21749	attic/epic/doric
 21751	attic/epic/ionic
-21753	
-21756	
-21758	
-epic/doric
+21759	epic/doric
 21761	attic/epic/ionic
-21763	
-21765	
-epic/ionic
-
-21771	
-attic
-21774	
-
+21766	epic/ionic
+epic
+21772	attic
 21778	epic
-21780	
-
-attic/epic
-21784	
-
-21787	
+21782	attic/epic
 21791	attic
-21793	
-
-21798	
-21802	
-21804	
-21806	
 21811	attic/epic/ionic
 doric
 21814	epic
-
-21817	
-21822	
-
-
-21827	
-
-21830	epic/doric/ionic/aeolic
-21832	
-attic
-
-21838	
-
-attic/ionic/epic/doric
-21843	
+21833	attic
+21840	attic/ionic/epic/doric
 21846	attic/epic/doric
-21849	
-21851	
-21855	
 21860	attic/epic/ionic
-
-attic/epic
-21866	
-
+21862	attic/epic
 21869	ionic/epic
-
-attic/epic
-21873	
-21875	
-doric/aeolic
-21879	
-
-21884	
-doric/aeolic
-21888	
-
-
-21893	
-
+21871	attic/epic
+21876	doric/aeolic
+21885	doric/aeolic
+21890	doric
 21896	attic/epic/doric/ionic
-
-
-
-21901	
-21903	
-21905	
-21908	
-attic
+21909	attic
 21912	attic/epic/doric/ionic
-
-
-doric
+21915	doric
 21920	attic/epic/doric/ionic
-
-
-doric
-
-21926	
-
-21930	
-attic
-21936	
-ionic/epic
-
+21923	doric/aeolic
+21931	attic
+21937	ionic/epic
+epic
 21940	doric
-21943	
-
-21946	
-21949	
-
-
-ionic/epic
+21952	ionic/epic
 21954	epic/doric
-
-21958	
-21963	
-
-epic/ionic
-21967	
-21970	
-
-
+21965	epic/ionic
 21976	attic/epic
 21980	attic/doric/laconia
-21983	
-
-21988	
-doric/aeolic
-
+21989	doric/aeolic
 21993	doric/aeolic
-21996	
-22000	
-
-epic/doric/ionic/aeolic
-22004	
-22011	
-
-
-
-22016	
-22019	
-
 22025	doric/aeolic
-ionic
-attic
-22030	
-
-doric/aeolic
-22034	
-22037	
-22041	ionic
+22027	attic
+22032	doric/aeolic
 22043	attic/epic/doric
-22045	
-
-attic/epic
-22049	ionic
-attic
+22047	attic/epic
+22050	attic
 22053	doric/aeolic
-22055	
-22059	
 22062	epic
-
-doric
-
-epic
-
-
-22070	
-22072	epic/doric/ionic/aeolic
+22064	doric
+22066	epic
+22068	attic/epic
 22074	epic
-22078	
-22081	
-doric/aeolic
-
-22085	
-
-22089	
-22092	
-epic/doric/ionic/aeolic
-doric/aeolic
-
-22099	
-
-doric/aeolic
-
-
-
-attic
-22107	
-22110	doric/aeolic
-
-22113	
-22115	
-22117	ionic
-22119	
+22082	doric/aeolic
+22094	attic/epic/doric
+22101	doric/aeolic
+22105	attic
+22110	attic/epic/doric
 22122	doric/aeolic
-22124	
-
-
-
 22129	epic/ionic/attic/doric
-
-
-epic
-
+22132	epic
 22137	epic
-
-22142	
-22146	
-22148	
-22150	
-
-
-
-22155	
-
 22159	epic
-22163	
 22165	epic/doric
-
-22169	
-
-
-attic/epic
-
-
+22172	attic/epic
 22176	epic
 doric/aeolic
 doric/aeolic
-
-
-22182	
-
-22185	
-22192	
-
-ionic
-22197	
 22199	epic/doric
 22203	epic
-22205	
-
-22208	
-22212	
-22214	attic/epic/ionic
-22216	
 22221	doric/aeolic
-22223	
-22227	
-
-
 22231	doric/aeolic
-
-22238	epic/doric/ionic/aeolic
-
 22242	epic/doric/aeolic
-
-22245	ionic
 22249	attic/epic
-ionic
 22252	doric/aeolic
-22255	
+22255	doric
 22257	epic/ionic/attic
-22261	
-
-
-ionic
-22266	
-22269	
 22271	epic/doric/aeolic
-22274	
-
-22277	
-22281	
 22283	attic/epic/ionic
 22285	attic/epic/doric
-22288	
-attic/epic
+22289	attic/epic
 attic/epic/doric
 epic/doric/aeolic
-22293	
-22296	
-
 22305	attic/epic/doric
-
-22308	
-22313	
-22317	
-22319	
-attic/epic/doric
-22322	
-22326	
-22333	
-22335	
-22338	
-22340	
-
-
-attic/epic/doric
-
-
-epic/ionic
-22351	ionic
-22356	
-22359	doric/aeolic
-
-attic
-
-
-
-
-22367	
-
+22320	attic/epic/doric
+22343	attic/epic/doric
+22346	epic/ionic
+22361	attic
 22370	epic/ionic/attic/doric
 22372	epic/doric/aeolic
-
-
-ionic
-22377	epic/doric/ionic/aeolic
-attic
-
+22375	ionic
+22378	attic
 22381	attic/epic/ionic
-
-ionic
-22388	
-
-
-attic
-22393	
-22396	
-attic/epic/ionic
+22391	attic
+22397	attic/epic/ionic
 22399	doric/aeolic
-22402	
-
-22407	doric/aeolic
-22411	
-
-22416	
-
-ionic
-doric/aeolic
-
-ionic
-attic/epic
-
-ionic
-22426	
+22407	doric
+22416	attic
+22419	doric/aeolic
+22422	attic/epic
 22428	epic
-22431	
 22433	attic/epic/doric
-22435	
 22437	attic
-
-attic
-22441	
-22445	
+22439	attic
+22445	attic
 doric/aeolic
-
-
-epic/doric/ionic/aeolic
-22453	
 22456	doric
-
-
-22460	
-
-22464	
-
-
-
-
-doric
+22469	doric
 22474	epic
-22477	
-22482	
-attic/epic/doric
+22483	attic/epic/doric
 doric/aeolic
-
-22487	
-doric/aeolic
-
-
-epic
-22495	
-
-22499	
-doric/aeolic
-
-22503	
-epic
-22506	doric/aeolic
-
-22509	
-
-22515	
+22488	doric/aeolic
+22491	epic
+22500	doric/aeolic
+22504	epic
 22517	doric/laconia
 22519	attic/epic/doric/ionic
-22521	
-22524	
-
-
-
-
-attic/epic/doric
-
-doric/aeolic
-
-
-22536	
-
-doric/aeolic
+22526	doric/aeolic
+22529	attic/epic/doric
+22531	doric/aeolic
+22538	doric/aeolic
 doric
 22541	epic
-22544	
-22546	
-
-attic/epic/ionic
+22548	doric
 epic/doric
 doric/aeolic
-
-epic/doric
-
-22555	
-22557	
-22559	
-
-22564	
-
+22552	epic/doric
 22567	ionic
-
-22570	
-22572	
-
+22573	epic/doric/aeolic
 22578	doric/aeolic
-22580	
 22584	attic
-
-attic/epic
-22589	
-
+22586	attic/epic
 22592	epic
-
-attic/epic/ionic
+22594	doric
 attic/epic
 22598	attic
-
-
 22603	epic/doric
 doric
-
-22607	
-doric/aeolic
-22611	
-22615	
-22617	
-
-22620	
-22622	
-22626	
-doric/aeolic
-
+22608	doric/aeolic
+22627	doric/aeolic
 22630	attic/epic
-
-
-
-
-22636	
-22638	
-
-doric/aeolic
-
-
-22645	
-22648	
-attic/epic
-
-
-
-
+22640	doric/aeolic
+22649	attic/epic
 22657	attic
-
-
-attic/ionic
+22660	attic/ionic
 epic/doric
-
-22665	
-
-
-attic/epic
-epic/doric/ionic/aeolic
+22668	attic/epic
 22674	epic
-
-
-
 22680	epic/ionic
 22684	attic
-
-
-ionic
-22689	
-doric/aeolic
-
+22690	doric/aeolic
 22693	doric/aeolic
-
-
+22696	attic
+22710	attic
 attic
-
-
-22700	
-
-22704	epic/doric/ionic/aeolic
-
-
-ionic
-22709	
-attic
-attic
-
-22714	
-doric/aeolic
-
+22715	doric/aeolic
 22718	epic/doric
-22720	
-
 22725	attic/epic/doric
-
-
-attic/epic
-
-
-22733	
-ionic
-22737	
-doric/aeolic
-22740	
-
-
-
-
-ionic
+22728	attic/epic
+22738	doric/aeolic
 22747	ionic/doric/aeolic
-22749	ionic
 22751	doric/aeolic
-22753	ionic
-22756	
-22758	
-
 22761	epic
-22763	
-22765	
-attic
-
-
-22770	
-22773	
-22775	
+22766	attic
+22773	epic
 22777	ionic
-
-
-
-22782	
-
-
+22785	doric/aeolic
+doric/aeolic
+22788	doric/aeolic
 doric/aeolic
 doric/aeolic
-
-doric/aeolic
-doric/aeolic
-doric/aeolic
-22792	
-22794	
-
-
-22798	
-
-
-
-
-
-22805	
+22802	epic
 22810	doric
-
-ionic
-
-
-doric
-epic/doric/ionic/aeolic
-22818	ionic
-doric/aeolic
-
-22824	
+22815	doric
+22819	doric/aeolic
 22826	doric/attic/epic
-22828	
-attic/epic/ionic
-22831	
-
-doric/*theocr.
-22839	
-attic/epic/doric/ionic
+22829	attic/epic/ionic
+22833	doric/*theocr.
+22840	attic/epic/doric/ionic
 epic
-22845	
-
 22849	epic/doric/aeolic
 22852	attic/epic
-
-22857	
-22859	
-doric
-
-22863	
+22860	doric
 22866	epic
-22869	
-22871	
-22873	
-22876	
-22880	
-doric
+22881	doric
 22885	attic/epic/doric
-
 22888	doric
-22890	
-
-
-
-22895	
-22897	
-22899	
-epic
-
-
-22904	
-
-22907	
-22909	
-22913	
-ionic/epic/doric/aeolic
-
-22917	
-
-22920	
+22897	attic/epic/doric
+22900	epic
+22909	doric/aeolic
+22914	ionic/epic/doric/aeolic
 22922	attic/epic/doric/ionic
-ionic
-22927	
-22929	
-epic
-
+22930	epic
 22933	epic/doric
-22936	
-22938	epic/doric/ionic/aeolic
-22941	
-
-
-doric
-
-
-22948	ionic
+22944	doric
+22946	epic
 22950	doric/aeolic
-22952	
-doric/aeolic
-
-
-
-22958	epic/doric/ionic/aeolic
-epic
-
-
-22963	
+22959	epic
 22965	attic/epic/doric
-22967	
-
-
-22971	
-22975	
-attic
+22976	attic
 attic
 22979	doric/aeolic
 doric
-22983	
-ionic
-
-22987	
-22989	
-
 22992	ionic/attic/epic
-
-22995	
-ionic
-23001	
-
-23004	
-23008	
-
-
-doric/aeolic
-23013	
-23015	
+23011	doric/aeolic
 23018	ionic/attic/epic
-
-23022	doric/aeolic
-23024	
-
-
+23022	doric
 23028	attic/epic/doric
-
-23031	
-
-23034	
-
-
-23038	
-23040	
-attic/epic/ionic
-
-epic/doric/aeolic
+23041	doric
+23043	epic/doric/aeolic
 23047	attic/epic
-23050	
-23052	
 23055	ionic
 23058	attic
-23061	
-
-
-
 23067	epic/doric/aeolic
-
-
-
-
-23074	
-doric/aeolic
+23075	attic/epic/doric
 doric/aeolic
 attic/epic
 attic/epic/doric
-23081	
-epic
-
-
+23082	epic
 23086	doric/aeolic
 doric
 23089	attic/epic
-ionic
-23092	
-23094	
-
-
 23098	doric
-
-
-
-epic
-23104	
-
-
-doric/aeolic
-
-
-
+23102	epic
+23107	doric/aeolic
+23110	epic
 23112	epic
-
-23115	
-
-23118	
-23122	
-
-23125	
 23127	epic/ionic
-
-23130	
-attic/epic
-
-doric
-
+23131	attic/epic
+23133	doric
 23136	attic/epic/ionic
-23138	
-23140	
-23142	
-epic/doric
+23143	epic/doric
 23145	epic
-23147	
-
-
 23153	attic/epic
-
-23158	
-23160	
-
-
-23164	
-23167	
 23171	doric/aeolic
-23174	
 23176	doric/aeolic
-23178	
 23181	epic/doric
-23183	epic/doric/ionic/aeolic
-
-epic
-ionic
-23189	
-
-
-
-
-ionic
-
-doric/aeolic
-23198	epic/doric/ionic/aeolic
-
-
-23203	
-23205	
-23208	
-23210	
-attic
-
+23185	epic
+23196	doric/aeolic
+23211	attic
 23216	attic/epic/ionic
 attic/epic
-23219	
-
-
-
-
 23225	attic/epic
 23227	attic/epic/ionic
-
-doric
-
-23232	
-
-
+23229	doric
 23240	epic
-
-ionic
 23244	doric/aeolic
-epic/doric/ionic/aeolic
-doric
-23250	
-
-
-23254	
-
-23257	
-
-attic/epic
-23262	
-
-
-epic
-
-
-23270	
-23280	
-23282	
-epic
-23286	
-
-
-
-
-23292	
-
+23246	doric
+23259	attic/epic
+23265	epic
+23283	epic
 23295	attic/epic
-ionic
-
-23299	
 23301	ionic/doric/aeolic
 epic/doric
-23305	
-
-23310	
-
-23313	
-
-
 23319	doric
-ionic
-23323	
 23326	attic/epic
-
-epic
-
-
-
-23333	
-ionic
-23337	
-23341	
+23328	epic
 23343	epic
-
 23346	epic
-
-23349	
-epic/doric/ionic/aeolic
-23352	ionic
-23354	epic/doric/ionic/aeolic
-epic
-
-
+23355	epic
 23359	attic/epic/doric
-23361	
-
-doric
+23363	doric
 23368	attic
-
-
-23372	
+23372	attic/epic/doric
 23374	doric
-23376	
-ionic
-
-23380	
-attic/epic/doric/ionic
+23381	attic/epic/doric/ionic
 doric/aeolic
-
-
-23387	
-
-23391	
-epic
-
-23395	
-
-
-doric/aeolic
+23392	epic
+23398	doric/aeolic
 ionic/attic/epic/doric
 attic/epic/doric
 23404	doric/aeolic
-
-
-23409	
-23417	
-23419	
-23421	ionic
-23423	
-
-
-ionic
-23429	
-epic/doric/ionic/aeolic
-
-
-
-23435	
+23436	doric/aeolic
+23439	doric/aeolic
 doric/aeolic
-
-ionic
-doric/aeolic
-doric/aeolic
-
-23443	
-23445	
-
-
 23450	epic/doric/aeolic
-
-
-
-
 23456	epic
-
-epic
-23460	
+23458	epic
 23462	epic/ionic
-
-
-
-attic/epic/ionic
-23470	
-doric
-
-23474	
-
-
-
-23484	
-23486	
+23466	attic/epic/ionic
+23471	doric
 23488	epic/ionic/attic/doric
-
-
-
-
-23494	
-
-
 23498	attic/ionic
-
-
 23502	attic/epic/doric
-
-
-epic/doric/ionic/aeolic
-
-23509	
-attic/epic
+23510	attic/epic
 23513	attic
-
-
-23518	
-
-
-
-23523	
-attic/epic/ionic
-23526	
-
-23531	
-attic/epic
+23524	attic/epic/ionic
+23532	attic/epic
 doric/aeolic
-23536	
-23542	
-
-23545	
-doric
-
-
+23546	doric
 23550	epic
 23552	attic/epic/doric
 23554	epic/doric/aeolic
-
-attic/ionic
-
-23559	
-
-doric
-
-
-
-
-attic/epic
-
-attic
-
-doric/aeolic
-
-
-
-epic/doric/ionic/aeolic
-23578	
-23580	
-
-
-
-
-
-
-doric
-
-23590	
+23556	attic/ionic
+23566	attic/epic
+23568	attic
+23570	doric/aeolic
 23593	doric/aeolic
-23596	
 23602	doric/aeolic
-
-23605	
-
-
-
-23612	
-
-23615	
-
-23618	
+23612	attic
 23620	attic
-23622	
-23624	
 23626	attic/epic
-23628	
-23631	
-23635	
-
-
-23643	
-
 23647	doric/aeolic
-
 23653	doric
-
-
-
-
-
-23663	
-epic
+23664	epic
 attic
-
-
-23670	
-
-
-epic
+23673	epic
 attic
-23676	
-
-
-attic/epic/doric
-
-
+23679	attic/epic/doric
 23683	epic
-
-attic/epic/ionic
-
+23685	attic/epic/ionic
+23687	doric
+23689	epic
 doric
-
-epic
-doric
-23692	
-23695	
-
 23698	epic/ionic/attic
-
-
+doric
+attic
 attic/epic/doric
 23703	doric/aeolic
 attic
-
-doric/aeolic
-
-attic/ionic
-epic/doric/ionic/aeolic
-
-doric/aeolic
-23713	
-
-
-23717	
+23706	doric/aeolic
+23708	attic/ionic
+23711	doric/aeolic
 23722	attic/epic/ionic
-23724	
-23726	ionic
-
-
 23730	doric/aeolic
 doric
-23734	
-
-23737	
-23739	
-23741	
-
-doric/aeolic
-
-epic
-
+23745	epic
 23748	attic/epic/ionic
-
-doric/aeolic
-23755	
-
-
-
+23750	doric/aeolic
 23760	doric/aeolic
 23762	attic/epic
 attic
 23765	epic/ionic/attic/doric
-
-
-
-attic/epic
+23769	attic/epic
 attic
-23772	
-23774	
 23779	attic/epic
 doric/aeolic
-
-23784	
-23787	
-23789	
-23792	
-doric
+23793	doric
 attic/epic/doric
 23800	attic/epic/doric/ionic
-
 23804	doric/aeolic
-
-23810	
-epic
-
-
-23815	
-
-23818	
-23821	
-
-doric/aeolic
-23826	
-23828	
-epic/doric/ionic/aeolic
-
-
-
+23811	epic
+23823	doric/aeolic
+23833	attic
+23846	epic
 attic
-
-
-
-
-23839	
-
-
-
-
-23845	
-epic
-attic
-
-
-
-
-23859	
-23862	
-
-23866	
-23868	
-
-epic
-
-
-
-doric
+23870	epic
+23874	doric
 attic/epic
-23877	
-
-23881	
-
-23885	
-
-
-23889	
-23891	
 23894	attic
-
-
-
-
 23901	doric/aeolic
-
-doric
-
-23906	
-ionic/epic/doric/aeolic
-23909	
-
-
-
-23917	epic/doric/ionic/aeolic
+23903	doric
+23907	ionic/epic/doric/aeolic
 23921	epic/doric/aeolic
-
-23925	
 23928	parad_form
-23933	
-23935	
 23945	attic/ionic/epic/doric
-23947	
 23952	doric
-
-
-
+23956	attic
 attic
-attic
-23962	
-23964	
-
-23967	
 23970	doric/aeolic
-23972	
-epic/ionic
-23976	
-23978	
-23980	
+23973	epic/ionic
 23984	epic/ionic
-23986	
-
-
 23990	doric
-23992	
-
-
 23996	epic/ionic/attic/doric
-
-
-
-
-24002	
-
+24002	doric
 24005	epic/doric
 epic
-
-
-
-epic/doric
-
+doric
+24010	epic/doric
 24021	attic/epic/doric
-24025	
-
 24029	attic/epic/doric
-
 24032	attic/epic/ionic
 24036	attic/ionic/epic/doric
-24039	
-
-24043	
 24045	epic/doric/aeolic
-
-
-24049	
-
-24055	ionic
 24058	doric
-24060	ionic
-24062	
-
-24066	
-
-
-
-attic
-
-24073	
-
-24076	
-
-
-24080	
-
-
-
-attic/epic
+24070	attic
+24084	attic/epic
 doric
-
-
-
 24090	attic
-
-epic
-
-attic/epic/doric/ionic
-
-
-
-attic/epic/doric
-24100	
-
-
-
+24092	epic
+24094	attic/epic/doric/ionic
+24098	attic/epic/doric
 24105	attic/ionic
 attic/epic
 24108	attic/epic
-24110	
-
-24113	
-24115	
 24117	attic/epic/doric
-
-
-
-
-
-24125	
-ionic
-24129	
-24131	
-
-
-24137	
 24141	attic/epic
-
-24144	
-24146	
-
-24150	
-
-24154	
-24157	
-ionic
-24160	
-doric/aeolic
-
+24161	doric/aeolic
 24164	doric/aeolic
-
-24167	
-24169	
 24171	attic/epic/doric
-24174	
-
-24179	
 24181	doric/aeolic
-24183	
-
-
-
-24189	
-
-24192	
-24194	
-24196	
-
+24190	epic
 24202	epic/doric/aeolic
-
 24205	epic
-
-
-
-epic
+24209	epic
 attic
-
-24213	ionic
-
-
 24217	epic
-24221	
-attic/epic
+24222	attic/epic
 doric/aeolic
 epic
-
 24227	attic/epic/doric
 24233	attic/ionic
-epic/doric/ionic/aeolic
-
-ionic
-24238	epic/doric/ionic/aeolic
-
-
-
-24245	
-
-
-
-24250	
-24252	
-24256	
-
-
-
-
 24263	attic/epic/ionic
-24266	
-24268	
-
-
-
-
-
-24282	
-
-24286	
-
-
-24290	
-24292	
-
-24295	
+24295	attic
 epic
-
-
-
-doric
-
-attic/epic
-24304	
-
-24309	
-
-24312	
-
+24300	doric
+24302	attic/epic
+24309	attic
 24315	doric/aeolic
-24317	
-24320	
-
-
 24324	epic
-
-
-attic/epic
-24329	
-
-
-24333	
-attic/epic
+24327	attic/epic
+24334	attic/epic
 attic
-24339	
-
 24342	attic
-
-24345	
-
-
-
-24354	
-24356	
-attic/epic
-24359	
+24347	attic/epic/ionic
+24357	attic/epic
 24361	epic
-
-
-24367	
-24370	
-
-
-24376	
-
-epic/doric
+24376	attic
+24378	epic/doric
 epic/doric/laconia
-24381	
-24383	
-
-
-attic/epic/ionic
-
-doric
-
-
-
-
-24395	
-epic/doric/ionic/aeolic
-24398	
-
-
-
-
-24404	
-
-
-24408	
-
-
-
-24414	
-24417	
-24420	ionic
+24386	attic/epic/ionic
+24388	doric
+24398	attic
 24422	doric/aeolic
-epic/doric/ionic/aeolic
-doric/aeolic
-
-
-
-24429	
-
-24432	
-24434	
-
-24437	ionic
+24424	doric/aeolic
 24439	attic/epic/ionic
-
-doric/aeolic
-24443	
-
-24446	ionic
+24441	doric/aeolic
 24448	doric/aeolic
-ionic
-24453	
 24455	doric/aeolic
-
-24458	
-
-
-
-24463	
-24465	
-24467	ionic
 24469	attic/epic/ionic
-
-
-24475	
-24477	ionic
 24479	doric/aeolic
 24481	doric/aeolic
-
-24484	
-
-
-
-24489	
-
-24492	
-24494	ionic
 24496	doric/aeolic
 attic
-
-
-24502	
-24504	ionic
 24506	doric/aeolic
-24508	
-24510	
-
-
-24516	
-24521	
-
-24524	
-doric/aeolic
-24528	
-
-doric/aeolic
-
-
+24525	doric/aeolic
+24530	doric/aeolic
 24534	epic
-
-
-
-ionic/doric/aeolic
-24540	
-
-
-epic/doric/ionic/aeolic
+24538	ionic/doric/aeolic
 24545	doric
-24547	ionic
-
-
-24551	
 24553	doric/aeolic
 attic
-
 24559	attic/epic/doric
-24563	
-24568	epic/doric/ionic/aeolic
-24571	
-24573	
-24575	
-24577	
-24580	
 24582	epic/ionic/attic/doric
-
-
-
-doric
-24588	
-
+24586	doric
 24591	epic/ionic
-24593	
-24596	
-24598	
-
-24601	
-
-
 24606	doric/aeolic
 epic/doric
 24609	doric
-24613	
-24617	
-24619	
-attic/ionic/epic/doric
-24624	
-24628	
-24634	
-24636	ionic
-
+24620	attic/ionic/epic/doric
 24641	epic
 24643	doric/aeolic
 epic
-24646	
-24648	
-24652	
-24655	ionic
 24657	doric/aeolic
-24659	
-doric/aeolic
-
-24663	
-24666	
-
-24669	
-
-24673	
-24675	
-doric/ionic
-
+24660	doric/aeolic
+24669	attic
+24676	doric/ionic
 24681	doric/aeolic
 24683	attic/epic/ionic
 24685	epic
-24687	
-24689	
-epic/doric/ionic/aeolic
-
-
-
-
-
-doric
-
+24696	doric
 24699	doric/aeolic
 attic/ionic
-
-attic/epic/doric
-24704	
-
-attic/epic/ionic/doric
-24708	
-
-epic/ionic
-
-
-24716	
-
-
-
-24721	
-24723	
-
-attic
-
-attic/epic/ionic
-
-doric
-24731	
-
-doric
+24702	attic/epic/doric
+24706	attic/epic/ionic/doric
+24710	epic/ionic
+24725	attic
+24727	attic/epic/ionic
+24729	doric
+24731	attic
+24733	doric
 24735	doric/aeolic
 attic
-
-
-
-
-
-
-ionic
-24746	
-
-attic/epic
+24748	attic/epic
 attic/epic/doric/ionic
 doric/aeolic
-
-24753	
-epic/doric/ionic/aeolic
-
-
-ionic
-
-24760	
-24762	
-24768	
-doric
-
-attic/epic/ionic
-
-doric
-
-24776	
-
-
-
+24769	doric
+24771	attic/epic/ionic
+24773	doric
 24781	epic
-
-24785	
-
-
-
 24790	doric/aeolic
 doric/aeolic
 doric
-
+attic/epic/ionic
 epic/ionic
-
+attic/epic/ionic
 epic/ionic
-
-24799	
-24801	
+attic/epic/ionic
+24799	attic/epic/ionic
+24801	attic/epic/ionic
 24803	doric/aeolic
-24806	
-24810	
-24813	
-24815	
-
-
-
-24820	
-
-24823	
-
-
-attic/ionic/epic/doric
-24829	
-
-epic
-
-attic/epic
-
-
-epic/ionic/attic
-
-24841	
-24843	
-24845	
+24826	attic/ionic/epic/doric
+24831	epic
+24833	attic/epic
+24836	epic/ionic/attic
 24849	attic/epic/doric/ionic
-24851	
-24853	
-
-attic/epic
-
-
+24855	attic/epic
 24859	epic/doric/aeolic
-24861	
-24863	
-epic/doric/ionic/aeolic
-24866	
-
-
-24870	
-
-
-
-
-
-24878	ionic
+24873	doric
 24880	doric/aeolic
 attic
-
-24884	
 24886	doric/aeolic
-
-
 24890	epic/ionic/attic/doric
-
-
-24894	
 24896	epic/ionic/attic/doric
-
-
-24900	
-
-24903	ionic
 24905	doric/aeolic
 attic
-
-24909	
-24912	
-24914	
-24918	
-
-ionic
+24912	epic
 24922	doric/aeolic
 attic
-
-24926	
-24928	
-24930	
-24933	epic/doric/ionic/aeolic
-
-doric/aeolic
-24937	
-
-
-
-
-
-24944	
-24946	
-
-
-
-24951	
-
-attic/epic
-
-
-attic/epic
-
-
-
-attic/epic/doric
-24962	
-
-24966	
-24968	
-
-attic/epic/ionic
-
-doric
-24976	
-doric/aeolic
-
-24980	
-doric/aeolic
-
-24984	
-24986	
-24988	
-24991	
+24928	doric
+24935	doric/aeolic
+24953	attic/epic
+24956	attic/epic
+24960	attic/epic/doric
+24970	attic/epic/ionic
+24972	doric
+24977	doric/aeolic
+24981	doric/aeolic
 24994	attic
 24996	doric/aeolic
-
-
-
-25001	
-attic/epic
-
-
-doric/aeolic
+25002	attic/epic
+25005	doric/aeolic
 25009	doric/aeolic
-25016	
-25019	
-attic/epic
+25020	attic/epic
 25022	attic/epic
 25024	attic/epic/ionic
-
-25029	
-epic/ionic/attic/doric
-25032	
-epic/ionic/attic/doric
-
-doric/aeolic
-25037	
-
-
-25041	ionic
+25030	epic/ionic/attic/doric
+25033	epic/ionic/attic/doric
+25035	doric/aeolic
 25044	epic/doric/aeolic
 epic/ionic/attic/doric
-25047	
-
-25050	
-
-25059	
-
-
-attic/epic
-
-
-
-25067	
-attic/epic/doric
-
-ionic
-25073	
-epic
+25062	attic/epic
+25068	attic/epic/doric
+25074	epic
 attic
-
 25084	attic/epic/doric/ionic
-25086	
 25088	attic/epic/doric/ionic
 25093	attic/epic/doric/ionic
-
 25096	attic/epic/doric/ionic
-
 25099	attic/epic/doric/ionic
 25102	epic
-25104	
-attic/epic
+25105	attic/epic
 doric/aeolic
 epic
-epic/doric/ionic/aeolic
-
-
-25113	
-
-
-25117	
-
-25120	
-
-
-doric/aeolic
-25125	
+25123	doric/aeolic
 25127	attic
-
-25130	
-
-
-
 25135	doric
 doric
-
 25139	epic/ionic
-
 25142	attic
-
-
-
-
-
-25149	
-
-
-25153	
-
-epic
-
-
-25159	
-
-
-
-
-
-attic/epic
-
+25155	epic
+25165	attic/epic
 25169	epic/doric/laconia
-
-attic/epic/doric
-
-
-25176	
-attic/epic/doric
-25180	
+25171	attic/epic/doric
+25177	attic/epic/doric
 25182	epic/ionic
-
-
-
-25187	
-
-
 25191	epic/doric/laconia
-
-attic/epic/doric
-
-
-25199	
-attic/epic/doric
-25205	
-
-
-
-
-
-25212	
-25214	
-25219	epic/doric/ionic/aeolic
-25221	
-
-
-25225	
-25228	
-25232	
-
-
-
-
-
-
-
-25241	
+25193	attic/epic/doric
+25200	attic/epic/doric
 25243	attic/epic/doric/ionic
-
-25246	
-
-
-epic
-
-
-25255	
-doric
-25259	
-
-25263	
-doric
+25249	epic
+25256	doric
+25259	attic
+25264	doric
 25266	epic/doric
-25270	
-
-
-doric
-25275	
-25278	
-25281	
-epic
+25270	attic
+25273	doric
+25282	epic
 attic
-
-
-
-
-doric/aeolic
+25288	doric/aeolic
 attic/ionic
-25293	
-
-25297	
-epic/doric/ionic/aeolic
-25300	ionic
-25302	epic/doric/ionic/aeolic
-
-
-
-25308	
-
-
 25312	attic
 attic/epic/doric
-
-epic
-
+25315	epic
 25319	doric
-25321	
-25323	
-25325	
-
-
-
-25331	
 25334	attic/epic
 epic
 25337	attic
 attic/ionic
 25341	doric/aeolic
-
-25344	
-attic/ionic
-
-25349	
-epic/doric
+25345	attic/ionic
+25350	epic/doric
 epic
 25353	attic/ionic
 25356	doric
-
-
-
-
 25363	epic
-25365	
-
-
-attic/epic/doric/ionic
-
-attic/epic
-
-
+25368	attic/epic/doric/ionic
+25370	attic/epic
 25374	attic/epic/doric
-25377	
-attic/ionic/epic
-
+25378	attic/ionic/epic
 25384	epic/ionic/attic/doric
-
-
-
-
-
-
 25392	doric
-
-25396	
-
-25399	
-
-25402	
-
-
-
-
-
-epic/doric/ionic/aeolic
-
-epic/doric/aeolic
-
-25413	
-25417	
-
-
-
-epic/doric/ionic/aeolic
-
-25424	ionic
-25426	ionic
+25408	epic/doric/ionic/aeolic
+25410	epic/doric/aeolic
 25429	doric/aeolic
-25432	
-
-
-
-25437	
-
-
-25441	
-
-
-ionic
 25449	epic/doric
-25451	
-
-ionic
-25457	
-25459	
-25462	
-25464	
-25467	
 25469	doric/aeolic
-
-doric
-
-
-attic/epic
+25471	doric
+25474	attic/epic
 25476	epic/ionic
-
-
-
-doric/aeolic
-
-25483	
-25485	
-25489	
-25491	
-25493	
+25480	doric/aeolic
 25495	doric/aeolic
-
-
-attic
-
+attic/epic/doric
+25498	attic
 25501	attic/epic/doric/ionic
 25504	doric
-
-
-25508	
-
-
-attic/epic
-
-25515	
+25506	attic/epic
+25511	attic/epic
 25517	epic/ionic
-
-25520	
-
-
-25524	
 25527	epic
 25534	epic
-
-
-25538	
-25545	
-25547	
-
-ionic
-25551	
-
-25556	
-
-
-25560	
-25563	
-25565	
-25568	
-25570	
-25572	
-25574	
-25576	
-attic
-25579	
-25582	
-25585	epic/doric/ionic/aeolic
-
-ionic
-25589	ionic
-25591	
-25594	
-25596	doric/aeolic
-25599	
-
-ionic
-doric/aeolic
-
-
-
-epic/doric/ionic/aeolic
-
-doric/laconia
-
-
-
-
+25577	attic
+25596	attic/epic/doric
+25602	doric/aeolic
+25608	doric/laconia
 25615	attic/epic/doric
 epic/ionic/attic
-
-
-doric
-
-
-
-
-
-
-
-25633	
-
-
-
-
-25639	
-
-epic/doric/aeolic
-
+25619	doric
+25641	epic/doric/aeolic
 25644	epic/ionic/attic/doric
-
-25648	ionic
-25651	
-
-25654	
-
-25657	
-
-doric/aeolic
-
-epic/doric/ionic/aeolic
-25663	ionic
-25665	epic/doric/ionic/aeolic
-25667	ionic
-25669	
-
-25677	
-attic/epic
-
+25659	doric/aeolic
+25678	attic/epic
 25681	doric/aeolic
 doric/aeolic
-
 25686	doric/aeolic
 doric/aeolic
-
-attic/epic/doric
+25689	attic/epic/doric
 doric/aeolic
 doric/aeolic
 epic/doric
-25694	
-epic/doric/aeolic
-
-
-
-25700	
+25695	epic/doric/aeolic
+25700	epic
 attic
-
 25706	epic
-
-
-25710	
-
-ionic
-
-ionic
-25717	attic/epic/ionic
-25725	
-25728	
-
-25731	
-
+25712	ionic
+25714	ionic
 25734	attic/epic/doric
-
-25743	
-25746	
-
-25749	
-epic/doric/ionic/aeolic
-25754	
-
-25758	epic/doric/ionic/aeolic
-
-
-
+25755	attic/epic/doric
+25760	epic
 25763	epic/ionic/attic
-25765	
-doric
-25769	
-
-
-
-25774	
-
-epic/ionic/attic
-25778	
-
+25766	doric
+25776	epic/ionic/attic
 25781	epic/ionic/attic/doric
-
-
-
-
-
-25788	
-attic/epic/ionic
-
-doric
-
-25794	
-
-attic/epic
-
-
-
-25802	ionic
+25789	attic/epic/ionic
+25791	doric
+25794	attic
+25796	attic/epic
 25804	doric/aeolic
-25806	
-doric
-
-
-ionic
-
-doric/aeolic
-
-
-
-attic/epic
-25819	
-
-25822	
-doric
-
-
-
+25807	doric
+25810	ionic
+25812	doric/aeolic
+25816	attic/epic
+25820	epic
+25823	doric
 25828	attic/epic
-
-
 25834	doric
-25837	
-25839	
-
-
-
-
-
-
-25847	
 25849	epic/doric
-
-
-25853	
-
-doric
-
+25855	doric
 25858	epic/doric
-epic/doric/ionic/aeolic
-25862	ionic
-25865	
-attic/epic
-
-attic/epic/doric
-
-25873	
-
-25876	
-
-25879	
-25882	
-
-
-doric
-
-
-attic/epic
-
-
-
+25866	attic/epic
+25868	attic/epic/doric
+25885	doric
+25888	attic/epic
 25894	doric/aeolic
-25896	
-
-doric/epic/ionic
-
-25901	
-
-
-attic/ionic
+25898	doric/epic/ionic
+25904	attic/ionic
 epic/doric
-
-25909	
 25912	attic/epic/ionic
 doric
-
-doric
-
-
-attic/epic/doric
-25922	
-
-
-epic/doric/aeolic
-
-
-
-
-25935	
+25915	doric
+25918	attic/epic/doric
+25925	epic/doric/aeolic
+25936	doric/aeolic
+25940	attic/epic/doric/ionic
 doric/aeolic
-
-
-
-attic/epic/doric/ionic
-
-
-25944	
-25946	
-doric/aeolic
-
-
-
-25956	
+25947	doric/aeolic
 25958	attic/epic/ionic
-25960	
-doric
+25961	doric
 epic/doric/aeolic
 25965	attic/epic
 attic
 epic
-
-doric/aeolic
-25971	
-
-
-
-ionic
-attic/epic/doric
-
-doric
-
-doric
-
-
-attic/epic/doric
-epic/doric/ionic/aeolic
-
-
-
+25969	doric/aeolic
+25976	attic/epic/doric
+25978	doric
+25980	doric
+25983	attic/epic/doric
 25997	epic/doric
 26000	epic/doric
 26005	attic/epic/doric
-26009	
 26013	attic/epic
-
-
-
-
-
-attic/epic/doric
-
-
-
-
-attic
-26031	
-
-26035	
-26039	
-26043	
-26046	
-26048	
-26051	
-26059	
-26062	
-
-26065	
-26068	
-
-
-26073	
-26076	
-attic/epic/doric
+26019	attic/epic/doric
+26024	attic
+26077	attic/epic/doric
 26080	epic/ionic
-
-26084	
-
-26087	
-26090	
-26092	
-
-26096	
-26099	
-26101	
+26101	attic/epic/doric
 attic
-26104	
-
-
-
-attic
-26112	
-26116	
-26119	
-ionic
-26122	
-26126	
-
-
-26132	ionic
-26134	
-
-
-26141	
-
-26144	
-epic/doric/ionic/aeolic
-attic/epic/doric
-26148	
-26155	
+26108	attic
+26146	attic/epic/doric
 26159	epic/doric
-
-26164	
-epic/doric/ionic/aeolic
-epic
-26169	
-
-26173	
-26175	
-26178	
+26166	epic
 26181	epic
-
 26184	doric/aeolic
-
-doric/aeolic
-
-26189	
-
-
-
-26194	
-26197	ionic
-26199	
+26186	doric/aeolic
 26202	epic/doric/aeolic
-26204	
-attic
-
-26212	
-26214	
-
-
-
-
+26205	attic
 26220	doric
-
-26224	
-
-
-26228	
-
-26232	
-attic/epic/doric
-
-26238	
-
-
-
-ionic
-26245	
-
-
+26233	attic/epic/doric
+26242	ionic
 26249	epic/ionic
-
-26252	
-26254	
-
-
-
 26259	epic
-26262	
-attic
-
-attic/epic
-
-26268	
-26270	
-epic/doric/ionic/aeolic
+26263	attic
+26265	attic/epic
 26277	epic
 doric
-
-26282	
-26284	
-26286	
 26288	attic
-
-doric/aeolic
-
-26293	
-26295	
-26298	
-
-26301	
-
-
-26305	
-26309	
+26290	doric/aeolic
 26311	attic/epic
-26313	
-
 26316	doric/aeolic
-26318	
-
-epic
-26324	
-
-26328	
+26320	epic
 26330	epic
-26334	
-attic/epic/ionic
-26338	
-26342	
-
-
-
-26347	
-26350	
-26353	
-
-attic/ionic
+26335	attic/epic/ionic
+26355	attic/ionic
 26357	attic/epic/doric/ionic
-
-
-26362	
-26364	
-
-26369	
-
-
-
-
-26375	
-
+26373	epic
 26378	doric/aeolic
 doric/aeolic
 26383	attic
-
-26387	
-
-attic/epic/doric/ionic
+26389	attic/epic/doric/ionic
 26391	attic/epic/doric
 26395	epic
-
-attic/epic/doric
-
-26400	
-
-26403	
-
-
-26407	
-26409	
-
-26412	
-
-attic
-
-
-
-
-
-26421	
-attic/epic/doric
-
-26432	
-26435	
-doric/aeolic
-
-26439	
-epic/doric/ionic/aeolic
-26442	
-
-
-
-
+26397	attic/epic/doric
+26414	attic
+26422	attic/epic/doric
+26436	doric/aeolic
 26448	doric
-
-attic/epic/ionic
+26450	doric
 doric
-
-attic/ionic/epic/doric
+26453	attic/ionic/epic/doric
 26455	doric
-26457	
-attic/epic/ionic
+26458	attic/epic/ionic
 26460	doric
-
-
-
-attic/epic/ionic
-26466	
-26468	
-
-26471	
-
-
+26464	attic/epic/ionic
 26476	attic/ionic
-
-26479	
-
-
-attic/epic/ionic
+26482	attic/epic/ionic
 26484	ionic
-
-26487	
-attic/epic/ionic
-26490	
-
-26493	
-attic/epic/ionic
-26496	
-
-26499	
-attic/epic/ionic
-26503	
-
+26488	attic/epic/ionic
+26494	attic/epic/ionic
+26500	attic/epic/ionic
 26506	attic/ionic
-26508	doric/laconia
-
-
-
 26514	doric
-
-
-26519	
-
-
-epic
-attic/epic/ionic
-26526	epic/doric/aeolic
-
-
-
-26532	
-26535	
-
-26539	doric
-26541	
-attic/epic/ionic
-26544	ionic
-26546	
-attic/epic/ionic
-26551	
-attic/epic/ionic
-26557	doric
-26559	doric/laconia
-
-26562	
-26565	
-26568	epic/doric/ionic/aeolic
-26570	
-
-attic/epic/doric
-26574	
-26576	doric
-
-
-
-doric/aeolic
-
-
-26584	
-attic
-
-26592	attic/ionic
-epic/doric/ionic/aeolic
-epic/ionic/attic/doric
-
-
-epic
-26599	
-attic/epic
-
-
-epic
-
-
-
-
-
-epic
-26614	
-
-attic/epic
-26618	attic/epic
-
-
-
-attic/epic
-
-
-attic/epic/doric
-
-
-
-
-
-attic/epic/doric
-26634	
-
-
+26522	epic
 doric
-
-26641	
-26643	
-26645	
-
+26526	epic/doric/aeolic
+26539	doric
+26542	attic/epic/ionic
+26544	ionic
+26547	attic/epic/ionic
+26552	attic/epic/ionic
+26557	doric
+26568	epic/doric/ionic/aeolic
+26572	attic/epic/doric
+26576	doric
+26580	doric/aeolic
+26585	attic
+26592	attic/ionic
+26594	epic/ionic/attic/doric
+26597	epic
+26600	attic/epic
+26603	epic
+26609	epic
+26616	attic/epic
+26618	attic/epic
+26622	attic/epic
+26625	attic/epic/doric
+26629	doric
+attic
+attic/epic/doric
+26635	attic/epic/doric
+26637	doric
+26645	epic
 26648	epic
-epic/doric/ionic/aeolic
-
-26654	
-
-epic/doric/ionic/aeolic
-
-
-26660	
-epic
-
-
-
-
-
-
-
+26661	epic
 26670	attic/epic/doric
-26673	
 26675	epic
 26677	doric/aeolic
-
 26682	doric/aeolic
-
-26685	
-
-
+26688	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-
 26693	attic/ionic
-
-26698	
-
-epic/doric/ionic/aeolic
-attic/epic/ionic
+26701	attic/epic/ionic
 26703	attic
-26706	
-
-26709	
-
-ionic
 26713	doric/laconia
-26717	
-
 26720	attic/epic/doric/ionic
 epic
 doric/aeolic
 26724	doric
-
-26727	
 26733	epic/doric/aeolic
-
-
-
-attic/epic/ionic
-
-doric
-
-
-doric/aeolic
-26744	
-26746	
+26737	attic/epic/ionic
+26739	doric
+26742	doric/aeolic
 26748	doric
-
-
-ionic
 26753	doric/laconia
-26756	
-attic
-
-
-
-26763	
+26757	attic
 26765	attic
-26767	
-
 26770	doric
-
-26773	
-26775	epic/doric/ionic/aeolic
-
-
-
-attic
-
-
-
-
-
-
-
-26788	
+26779	attic
 26790	epic/ionic/attic/doric
 26793	doric/aeolic
-26795	
-
-
-
 26800	doric/aeolic
 doric/aeolic
 doric/aeolic
 doric/aeolic
-
-
-26808	
-26811	
-
-doric
-epic/doric/ionic/aeolic
-26816	
-ionic
-26819	
-
-
+26813	doric
 26823	attic
-
 26828	doric/aeolic
-
-26833	
-26835	
-epic/ionic
+26836	epic/ionic
 attic
-
-
-26842	
-26846	
-
-attic/epic
-
-
-26852	
-
-attic/epic
-
-
-
-
-epic/doric
+26848	attic/epic
+26854	attic/epic
+26859	epic/doric
 attic/ionic
-26863	
-attic/epic
-26866	
-
-
-attic/epic/doric
-
+26864	attic/epic
+26869	attic/epic/doric
 26873	attic/ionic/epic/doric
 26876	doric
 doric
 26879	doric/aeolic
 doric
-
-epic/ionic
+26882	epic/ionic
 attic/epic
-26895	
-
-doric/aeolic
-26900	
-26905	
-
-
+26897	doric/aeolic
 26911	attic/epic/doric/ionic
 epic/doric
-ionic
-
-26916	ionic
-doric/aeolic
-26920	
-attic/epic/doric
-26923	
-26926	
-ionic
-doric/laconia
-
-26931	ionic
-
-
-doric/aeolic
-
-attic/epic
+26917	doric/aeolic
+26921	attic/epic/doric
+26928	doric/laconia
+26934	doric/aeolic
+26936	attic/epic
 26939	doric/laconia
 26942	attic/epic/ionic
 epic/doric
-26945	
-
-
-doric
-26950	
-doric/aeolic
+26948	doric
+26951	doric/aeolic
 26953	doric
-
-attic/epic/ionic
-
-
-26959	
-
-26962	
-26964	
+26955	attic/epic/ionic
 26966	doric/aeolic
-26970	
-26972	
-26975	ionic
-26983	
-parad_form
+26984	parad_form
 26986	attic/epic/doric/ionic
 26989	epic/ionic
-26991	
-26993	
+26993	epic
 26995	doric/aeolic
-
-
-26999	
-ionic
-27006	
-27011	
-27013	
-attic/epic
-
-27018	
-
-
-
-
-27024	ionic
-
-doric/aeolic
-
-
-attic
-27031	
-attic/epic/doric
-27035	
-
-
-27039	
-
-27042	
-ionic
-27046	
-27048	ionic
-
-doric
-
-27054	
-27058	
-
-27064	
+27014	attic/epic
+27026	doric/aeolic
+27029	attic
+27032	attic/epic/doric
 27067	ionic
-
-27070	
-
-doric/aeolic
-27076	
-doric/aeolic
+27072	doric/aeolic
+27077	doric/aeolic
 doric/aeolic
 epic/doric/ionic/aeolic
-
-
-epic/doric/aeolic
+27082	epic/doric/aeolic
 27088	epic/doric
-
-27091	
+27091	doric
 attic
-27095	
-
+27097	doric/aeolic
+27103	doric/aeolic
 doric/aeolic
-27099	
-
-27102	
+27106	attic
 doric/aeolic
-doric/aeolic
-
-
-doric/aeolic
-doric
+attic/epic/ionic
 27110	doric/aeolic
-
+epic
 27113	doric
-27115	
 27117	doric/aeolic
 doric/aeolic
-27120	
-doric/aeolic
-
-doric
-
-
-27127	
-
-
-
-
-
+27121	doric/aeolic
+27123	doric
+27130	attic/epic
 27137	doric/aeolic
 27139	attic/epic/doric/ionic
-
 27145	doric
-
-
 27149	doric
-27152	
 27154	doric
-
-doric/aeolic
-
+27156	doric/aeolic
 27160	ionic
-
-27165	
-27169	
-27171	
-
-27177	
-27180	
-attic
-
-27185	
-attic
-
-
-27190	
-27193	
+27181	attic
+27186	attic
 27197	attic
-
-
-
-27202	
 27206	doric/aeolic
-27208	
-attic/epic/doric/ionic
-27213	
+27209	attic/epic/doric/ionic
 27215	doric
-
-
-
-
+27220	doric
+27223	attic/epic/ionic
 doric
-27222	
-attic/epic/ionic
-
-
-
-
 27230	epic/ionic/attic
 epic
 27233	epic/doric
-27235	doric/aeolic
-
-attic/*ar.
+27235	attic/epic/doric
+27237	attic/*ar.
 27240	doric/aeolic
-27242	
-
-
+27245	ionic
+27257	ionic
 ionic
-
-27255	
-
-ionic
-ionic
-
-27262	
-epic
+27263	epic
 attic/epic/ionic
-
-doric
-
-
-
-
-
-
-27274	
-
-
-
-doric/aeolic
-
-27282	
-attic/epic/ionic
-27285	
+27266	doric
+27278	doric/aeolic
+27283	attic/epic/ionic
 27287	epic/ionic/attic/doric
-
-
-27291	
-27294	
-27296	
-27298	
-27301	ionic
-
-attic/epic/doric
-
-27306	ionic
-
-epic
-
-
-
-27313	
-
-
-
-27318	
-
-
-27322	
+27303	attic/epic/doric
+27308	epic
 27327	doric/aeolic
-
-27330	
-27332	
-
 27335	doric/aeolic
 27338	epic
-
 27341	attic/epic
-27344	
-
-
-27348	
-
-27351	
-
-
-27355	
-27357	
-27359	
-
-
-
-
-
-
-27368	
-epic/doric
-27371	
+27364	epic
+27369	epic/doric
 27373	doric
-
-attic/epic/ionic
-
-
-epic/doric/aeolic
-27383	
-27385	
+27378	epic/doric/aeolic
 27387	doric/aeolic
 27389	attic/epic/doric
-
-
-27393	
-
-
-27397	
-27400	
-
-27403	
-
-
-doric
-
-
+27403	attic/epic/ionic
+27406	doric
 27411	attic
-27413	epic/doric/ionic/aeolic
-27415	
-
-
-
-
-
 27422	attic
 epic/ionic/attic
-
-
-
 27428	attic/epic/doric/ionic
-
-
-
-attic/epic/ionic
+27432	attic/epic/ionic
 27434	attic/epic/ionic
-27436	
-epic/ionic
-
+27437	epic/ionic
 27441	doric/aeolic
 27443	doric
-27447	ionic
-
-
-
 27452	attic
-
-epic/doric/aeolic
-27459	
-27461	
-27463	
-27467	
+27454	epic/doric/aeolic
 27469	doric/aeolic
-27471	
-27473	
-
-epic/ionic
-27477	
+27475	epic/ionic
 27479	doric
-
-
-epic
-27484	
-
-27489	
-
-27492	
-27495	
-
-
-27499	
-
-27502	
-27504	
-
+27482	epic
 27507	attic/ionic/epic/doric
 epic
-
-27512	
-ionic
 27516	attic/epic/ionic
-27518	
-doric
+27519	doric
 27521	doric/aeolic
 27524	doric/laconia
-ionic
-
-27530	
-attic/ionic/epic/doric
-27534	ionic
-27537	epic/doric/ionic/aeolic
-doric/aeolic
-27540	
-
-
-
-
+27531	attic/ionic/epic/doric
+27538	doric/aeolic
 27547	parad_form
-
 27550	attic/epic/doric
-
-
-27558	
-27563	
-27565	
+27565	doric
 attic/epic/doric
-epic/doric/ionic/aeolic
-
-attic/epic/ionic
-
-
-27573	
-27576	
-epic
-
-
-doric/aeolic
-
-
-27586	
-27591	
-27593	
-
-
-27597	
-
-
-ionic
+27569	attic/epic/ionic
+27577	epic
+27580	doric/aeolic
 27604	attic/ionic
 doric
-27607	
-27610	
-
 27614	doric/aeolic
-
-epic/ionic
+27616	epic/ionic
 attic/epic
-
-
-
-27622	
-
-27627	
-27631	
-
-
-
-doric/aeolic
+27635	doric/aeolic
 27638	doric
-
-
-27642	
-
-27645	
-
-attic
-27649	
-
-doric/aeolic
-27653	
-ionic
-27658	
-27660	
-
-27666	epic/doric/ionic/aeolic
-
-27670	
-
-
-27674	
-
-27677	
-
-
-
-attic/epic/ionic
-
-doric
-
-
-
-epic/doric
-
-27690	
-doric/laconia
-27693	
-
+27645	attic/epic
+27647	attic
+27651	doric/aeolic
+27681	attic/epic/ionic
+27683	doric
+27687	epic/doric
+27691	doric/laconia
 27697	attic/epic
-
-
-
-
-
-attic/epic/doric
-
-27706	
-
-
-
-
-
-27714	
-ionic
-27718	
-
+27703	attic/epic/doric
 27721	epic
 attic
-
-
-27727	
-
 27731	attic/epic
-27733	
-27735	
-
-epic
+27737	epic
 attic
-
-27741	
-
-
-
-27746	
-27749	epic/doric/ionic/aeolic
-
-
-
-27754	
-epic/doric
-27758	
-27760	
-
-27766	
-27768	
-epic/doric/laconia
-
-27772	
-27774	
-
-
-27779	
-
-27784	
-
-27790	
-
-attic/epic/ionic
-
-doric
-
-27797	
-
-attic/epic/ionic
-
-attic
+27755	epic/doric
+27769	epic/doric/laconia
+27792	attic/epic/ionic
+27794	doric
+27799	attic/epic/ionic
+27801	attic
 27804	attic/epic/doric
-
-27807	
-27811	
-
-
-
-
-attic
-
-epic/doric/ionic/aeolic
-27820	
-ionic
-27823	
-
-
-epic/doric/ionic/aeolic
-
-
-
-
-
-27834	
-27836	
-27840	
-27842	
-doric/aeolic
-
-27848	
-epic/doric
-ionic
-27852	doric/aeolic
-
-27855	
-27857	
-
-27863	
-attic/epic/doric
-27866	
-
-
-
-attic/epic/ionic
-
-
-
-27876	
-
-27880	
-27883	
-27886	
-
-27891	doric/aeolic
-
-27895	
-
-
-
-
-27904	
-epic/doric/ionic/aeolic
-27907	ionic
-doric/laconia
-
-27911	doric/aeolic
-27914	
-27916	
-
-
-27920	
-27923	
-27925	
-27931	attic/epic/ionic
-27933	
-27935	
-attic/epic
-27940	
-
-27944	
-doric/aeolic
-
-
-epic/ionic/attic
-
-27952	
-27955	
-27957	
-27959	attic/epic/ionic
-27962	
-
-
-27966	
-27968	
-
-
-27972	epic
-27974	
-27976	
-
-
-
-27981	epic/doric/laconia
-27984	
-27986	
-
-attic/epic/doric
-
-doric/aeolic
-
-27996	
-28000	
-attic/epic
-
-doric/aeolic
-28005	
-
-28008	doric/aeolic
-
-
-28012	
-
-
-
-ionic
-28021	
-
-28025	doric/aeolic
-28033	
-28037	
-28040	doric/aeolic
-28042	
-
-28045	
-28047	
-28049	
-attic/epic/ionic
-
-28055	
-28057	
-
-
-28061	
-28063	
-
-
-
-
-attic/epic/doric
-28070	
-epic
-attic
-
-ionic
-doric/aeolic
-
-
-
-
-attic/epic/ionic
-attic/epic/doric
-
-epic/doric
-28086	epic/doric/ionic/aeolic
-
-28089	
-28092	
-doric/aeolic
-
-
-
-28099	
-28101	
-28104	doric
-
-
-attic/epic/ionic
-28109	
-
-28112	
-
-28116	
-epic/doric
-28120	
-
-
-
 doric
-28127	
-28130	
-attic/epic/doric
-28134	
-28136	
-
-28142	
-28145	doric/aeolic
-
-
-28151	
-28153	
-
-28158	doric/aeolic
-
-28161	
+27816	attic
+27843	doric/aeolic
+27849	epic/doric
+27852	doric/aeolic
+27864	attic/epic/doric
+27870	attic/epic/ionic
+27891	doric/aeolic
+27908	doric/laconia
+27911	doric/aeolic
+27920	doric
+27931	attic/epic/ionic
+27936	attic/epic
+27945	doric/aeolic
+27947	doric
+epic/ionic/attic
+27959	attic/epic/ionic
+27972	epic
+27981	epic/doric/laconia
+27988	attic/epic/doric
+27990	doric/aeolic
+28001	attic/epic
+28003	doric/aeolic
+28008	doric/aeolic
+28025	doric/aeolic
+28040	doric/aeolic
+28050	attic/epic/ionic
+28068	attic/epic/doric
+28071	epic
 attic
+28075	doric/aeolic
+28080	attic/epic/ionic
+attic/epic/doric
+28083	epic/doric
+28093	doric/aeolic
+28104	doric
+28107	attic/epic/ionic
+28117	epic/doric
+28123	attic
+doric
+28131	doric
+28145	doric/aeolic
+28158	doric/aeolic
+28162	attic
 ionic
-28165	
-
 28170	epic/ionic/attic/doric
-
-
-
-
-
-
-ionic/attic/epic
-28179	
+28177	ionic/attic/epic
 28182	doric
 28186	doric
 28189	epic/doric
-
-attic/epic
-
-28195	
-28199	
-28201	
-doric/aeolic
-28206	
-28208	epic/doric/ionic/aeolic
-
-
-28212	
-28214	
-
-
+28191	attic/epic
+28202	doric/aeolic
 28218	epic
-28220	
 28222	attic/epic/ionic
-28224	
 28226	epic
-epic/doric/ionic/aeolic
-
-28237	
-
-28240	
-28243	
-
-28246	
-
-
-
-attic/epic/ionic/doric
-
-
-
-ionic
+28250	attic/epic/ionic/doric
+28252	doric
 28256	epic/doric
 attic
 ionic
 28260	epic/doric/aeolic
-28262	
-
-attic/epic/doric
-28269	
-
-28272	
-28274	
+28264	attic/epic/doric
 28277	attic/epic/doric
-
-attic
+28279	attic
 attic
 doric/aeolic
-ionic
-28284	
-28287	
-
 28291	attic/epic/doric
-28293	
 28295	epic
-
-doric/aeolic
-
-doric/aeolic
+28297	doric/aeolic
+28299	doric/aeolic
 28301	doric
 doric/aeolic
 attic/epic/doric
-28305	
-
-
-28310	
-
-
-attic/epic/doric
-
-28319	
-28321	
+28313	attic/epic/doric
+28321	epic
 doric/laconia
-
-28325	
-
-28328	ionic
 28330	epic/attic/ionic
 epic/doric/aeolic
-
-
-
 28336	doric
-
-ionic/epic
-ionic
-
-attic/ionic/epic/doric
-28344	
-
-
-28348	
-28350	
-attic/epic/doric
-
-28356	
-
-28360	
-ionic/epic
-28365	
-
-28368	
-
-
-
-epic
+28338	ionic/epic
+28341	attic/ionic/epic/doric
+28351	attic/epic/doric
+28361	ionic/epic
+28372	epic
 attic
-28375	
-28377	
-
-attic/epic/doric
-
+28379	attic/epic/doric
 28385	attic
-
-
-
-
-28393	
-
-
 28397	attic
-
-
 28401	ionic/epic
-
-28404	
-
-
-
 28409	doric/aeolic
-
-
-28414	
-
-doric
-28418	
+28416	doric
 28421	doric/aeolic
-28423	
 28425	epic/ionic/attic
-epic/doric/ionic/aeolic
-
-doric
-28430	
-28433	
+28428	doric
 28440	attic/epic
-
-
-28444	
-doric/aeolic
-28448	
-epic/doric/ionic/aeolic
+28445	doric/aeolic
 28451	attic
-
-
-
-
-
 28458	epic
-
-
-attic
+28461	attic
 ionic
 28464	attic/epic/doric/ionic
-28466	
-
-attic/epic/ionic
-
-
-epic/doric/ionic/aeolic
-28473	
-attic
+28468	attic/epic/ionic
+28474	attic
 28476	epic
 attic
 attic
-
-28482	
 28484	doric/aeolic
 28486	doric/aeolic
-28488	
-epic
-28491	
-
-ionic
+28489	epic
+28492	attic/epic/doric
 28495	doric/laconia
-28497	
 28499	attic/epic/doric/ionic
-28501	
 28503	attic/epic
 28505	attic/epic/doric
-
-28508	
-
-28511	
-28516	
-
-28519	
-28521	
-attic/epic
-
-28525	
-
-
-28531	
-
-28534	
-attic/epic
-28538	
-
-doric/aeolic
-28544	
-
-28547	
-
-attic
-28554	
-
-28558	
-
-
-
-
-
-28567	
-28570	
+28522	attic/epic
+28535	attic/epic
+28540	doric/aeolic
+28549	attic
 28572	attic/epic/doric
-
-epic/doric/ionic/aeolic
-
-
-28579	
-
-
-
-
-28585	
-28587	
-28590	
+28576	epic
 28598	attic/ionic/epic/doric
-28600	
-28603	
-
-ionic/epic
-
-
-
+28605	ionic/epic
 28610	epic/ionic/attic/doric
-
-
 28614	epic
 28616	attic/epic/doric
-
-
-
-
-
-28627	
-
-
-28631	
-
-
-attic/epic/doric
-
-28637	
+28634	attic/epic/doric
 28640	doric
-28645	
 28648	attic/epic/doric
-
-
-
-
 28654	epic/doric/aeolic
-28656	
-
-28659	
-
-28664	
-
-attic/ionic
-
+28666	attic/ionic
 28670	epic
-
-28673	
 28676	epic/ionic/attic/doric
-
-
 28681	doric
-
-
-
+28685	doric
 doric
-doric
-28688	
-
-
-28693	
-
-28698	
-
-
-28702	
-
-28706	
-
-28710	
-
-
+28694	epic
 28716	epic/ionic/attic/doric
 epic
-
-
 28721	doric
-
-
-28725	
-
-
-
-28731	
-
-28734	
 28737	epic
-
-
 28741	attic/ionic/epic/doric
-
-
-28745	
-
-
-28749	
+28745	doric
 28753	attic/epic
-
-28756	
-
-epic/doric
-
-28766	
-
-28769	
+28758	epic/doric
 28771	doric/aeolic
-
-28774	
 28776	doric/aeolic
-
-28779	
 28781	attic/epic/doric
 attic/epic/ionic
 28784	doric/aeolic
 28786	epic
 28788	ionic/doric/aeolic
-28791	
-28793	
-28796	
-28799	
-28801	
-
-28804	
-
-28810	
-
-28814	
-
-epic/ionic/attic/doric
-
-28819	
-
-
-
+28816	epic/ionic/attic/doric
 28825	ionic/doric/aeolic
-28827	
-28829	
-28831	
-epic/doric/ionic/aeolic
-epic
-28835	
+28833	epic
 28839	epic
-
-
-28843	
-
 28846	attic
-28849	
-28852	
-epic
-28856	
+28853	epic
 28858	epic
-28860	
-28864	
-28866	
-
-28870	
-
-
-
-28876	
-epic
+28877	epic
 28879	attic/ionic
-28882	
-
-28885	
-28889	
-
-
-epic
+28892	epic
 epic/doric/aeolic
-28895	
-doric
+28896	doric
 28898	doric
 28901	epic/doric/aeolic
-
-
-28905	
-
-28908	
-ionic/epic
-
-28912	epic/doric/ionic/aeolic
-
-
-attic/ionic
+28909	ionic/epic
+28915	attic/ionic
 28917	epic/doric/aeolic
-
-
-
-28922	
-
-28925	
-epic/doric/ionic/aeolic
-
-
-attic/epic/doric
+28929	attic/epic/doric
 28932	doric/aeolic
 epic/doric/aeolic
-
-28936	
-28938	
-attic/epic/ionic
-28943	
-
+28939	attic/epic/ionic
 28946	ionic
-
-
-epic
-
-attic
-
-doric/aeolic
-28955	
-
-
-28960	
-
-
-
-
-epic/ionic
-28967	
-doric/aeolic
-
-
-
-
-ionic/epic
+28949	epic
+28951	attic
+28965	epic/ionic
+28968	doric/aeolic
+28973	ionic/epic
 28975	attic/epic/doric
-28977	
-attic
-
-
-attic/epic/doric
-28985	
-
-
-
-
-28991	epic/doric/ionic/aeolic
-28993	
-attic/epic/ionic
-
+28978	attic
+28981	attic/epic/doric
+28994	attic/epic/ionic
 28998	attic/epic/ionic
 29000	attic/epic/ionic
-
-
-29005	
 doric
-
-29009	
-
-
+29006	doric
 29013	epic
 epic
-29017	
-29019	
-
-29022	
-
-29025	
-ionic
-
 29031	doric
-
-29035	
-
-doric
+29037	doric
 attic/epic
-29041	
-29043	
 29045	attic/epic/doric
 attic/epic/doric/ionic
-29050	
-epic/ionic
+29051	epic/ionic
 attic/epic/doric
-
-29055	
-attic/epic/doric
-29058	
-29060	
+29056	attic/epic/doric
 29062	epic/doric
-29065	epic/doric/ionic/aeolic
 29068	attic
-
-29071	ionic
-29075	
-
-attic/epic/doric
-29079	
-29081	
-29083	
-
-
-
-29089	
-29092	
+29075	doric
+29077	attic/epic/doric
 29094	epic
-
-epic/doric/aeolic
+29096	epic/doric/aeolic
 doric/aeolic
-29101	
-
-doric
-
-29107	
-
-29111	
-
+29103	doric
 29114	attic
-
-29118	
 29120	attic/epic/ionic
-
-
-epic/doric/aeolic
-
-
-
-attic/epic/doric
-
+29123	epic/doric/aeolic
+29127	attic/epic/doric
 29130	epic/ionic/attic/doric
-
 29133	epic
 doric/aeolic
-
-doric
-
-ionic
-29140	epic/doric/ionic/aeolic
-doric/aeolic
-
-29144	
-epic/doric/aeolic
-29147	
-29152	
-
-29155	
-attic/epic/ionic
+29136	doric
+29141	attic/epic/doric
+29145	epic/doric/aeolic
+29156	attic/epic/ionic
 29160	epic/doric/aeolic
 29163	doric/aeolic
 attic
-
-attic/ionic
-
+29166	attic/ionic
 29175	attic
 attic
-
-29181	
-doric/aeolic
+29182	attic/epic/doric
 epic/doric/aeolic
 29188	attic/ionic/epic/doric
-29190	
-doric
-29195	
-attic
-29198	
+29191	doric
+29196	attic
 29201	attic/epic
-29204	
-
-attic/epic/doric
+29206	attic/epic/doric
 29208	epic/doric
-
-29214	
-29216	
-epic/doric/aeolic
-
-
-
-29224	
+29217	epic/doric/aeolic
 29226	doric/aeolic
 attic
-
-
-29231	
-
-29235	
-
 29238	attic/epic/doric
-
-29241	epic/doric/ionic/aeolic
 29243	attic
-29245	
-
-29249	
-
-attic
+29251	attic
 29254	attic/epic/ionic
-29256	
-
-doric
-29262	doric/aeolic
-
-
-29266	
-29269	
-29271	
+29258	doric
+29263	epic
 29273	attic
-
-29276	
 29278	doric/aeolic
-
 29281	attic
-29284	
-29286	
-attic
-
+29287	attic
 29291	epic
-
-29294	
 29296	epic/doric/aeolic
-29299	
 29301	doric
-ionic
-29304	
-
-
-
-
 29310	ionic/doric/laconia
 epic
 29313	attic/epic/ionic
-29316	
-29318	
-29320	
+29320	attic/epic/ionic
 epic/ionic
 29323	attic/epic
-29327	
-
-
-29332	
-
 29338	doric/aeolic
-
-epic/ionic
-29342	
-
+29340	epic/ionic
 29345	attic/epic
-
-
-epic/ionic/attic
+29348	epic/ionic/attic
 epic/doric
-ionic
 29352	doric/aeolic
-
-29357	
-doric
+attic/epic
+29358	doric
 29360	doric
-
-
-attic
-
+29363	attic
 29367	doric/aeolic
-
 29370	epic/doric/ionic/aeolic
 29374	epic/ionic
 29377	doric
-29379	
+29379	epic
 attic/epic/ionic
 29382	doric
-
-
-
 29388	doric/*theocr.
-29390	
-
-29393	
-29397	
 29399	attic/epic/doric
 29401	attic/epic/doric/ionic
-29404	
-attic/epic/ionic
+29405	attic/epic/ionic
 29407	doric/aeolic
-29411	
-29413	
-
-
-
-epic
-29419	
-
-doric
-29423	ionic
-29430	ionic
-
-29433	
-29435	
-
-29438	
+29417	epic
+29421	doric
 29443	doric/aeolic
-
 29446	doric/aeolic
-
 29449	doric/aeolic
-29451	
-
-29455	
-
-29458	ionic
-29461	
-
 29464	doric/laconia
-doric
-
-attic/ionic
-
-
-29473	
-29475	
-attic/ionic
-
-29481	
-
-
-attic/epic
-29486	
-
-doric/epic
+epic
+29467	attic/ionic
+29476	attic/ionic
+29484	attic/epic
+29488	doric/epic
 ionic
 attic/epic/doric/ionic
 29492	attic/epic
 epic
-29495	
-
+29497	attic/epic/doric/ionic
+29505	attic/epic/doric/ionic
+29507	doric
 attic/epic/doric/ionic
-
-
-29501	
-
-29504	
-attic/epic/doric/ionic
-29507	attic/epic/ionic
-attic/epic/doric/ionic
-
-29512	
-
-
-29516	
-
-29519	ionic
-29524	
-
-attic
-
+29526	attic
 29533	attic
-
-attic/epic/doric
-29540	
-
-attic/epic/doric
-
-
-29546	
-attic/epic/ionic
-29549	
-29551	
-
-29554	
-29556	
-29559	
-
-
-29566	
-29568	
-29570	
-29572	
-29575	
-
-29580	
-epic
-
-
-
-
-attic
-29589	
-attic
-
+29535	attic/epic/doric
+29540	epic
+29542	attic/epic/doric
+29547	attic/epic/ionic
+29552	doric
+29581	epic
+29586	attic
+29590	attic
 29594	doric/aeolic
 29596	doric/aeolic
 29598	attic
 epic/ionic/attic
-29601	
-29604	attic/epic/ionic
-doric
-doric/aeolic
-
-
-29610	
-
-29613	
-
-doric
+29606	doric
+29615	doric
 doric
 29618	doric/aeolic
-29620	
 29622	ionic
 29624	ionic
-29626	
-epic
-
-29630	
-
-
-doric/aeolic
-29636	
-
-
+29627	epic
+29633	doric/aeolic
 29643	doric/aeolic
 29646	doric/aeolic
-29648	
 29650	attic/epic
 attic
-
-29654	
-
+29655	attic/epic/ionic
 29660	attic
-
-29664	
-epic/doric/aeolic
-
+29665	epic/doric/aeolic
 29669	epic/doric/aeolic
-
-29672	
-29676	
 29678	ionic
-
-doric/aeolic
-29683	
-attic/epic
-29687	
-
-attic/ionic
-29691	
-
+29680	doric/aeolic
+29684	attic/epic
+29689	attic/ionic
 29694	attic
-
-
-29700	
-
+29702	attic
 attic
-attic
-29705	ionic
 29708	attic
-
-29711	
 29714	epic/doric/aeolic
 attic
-29717	
-
-
-
-attic
-29725	
-29727	
-29729	
-
-attic
-
-attic
-29737	
-attic/epic/doric
+29718	attic/epic/doric
+29721	attic
+29731	attic
+29733	attic
+29738	attic/epic/doric
 29741	epic
-29744	
-29748	
-29750	
+29750	attic/epic/ionic
 attic
 attic
-29755	
-epic/doric/ionic/aeolic
-
-29759	
-29761	
+29756	epic/doric/ionic/aeolic
 29763	attic/ionic
-29765	
-29767	
 29769	doric/aeolic
-
-attic/epic/ionic
-29774	
-
+29771	attic/epic/ionic
 29777	epic/doric/ionic/aeolic
-29780	
-
-attic/ionic
-
-
-29788	epic/ionic/doric/laconia
-
-29791	
-29794	
-
-
-29799	
-29802	
-
-
-
-29808	
-epic
-29811	
-
-
-29815	
-
-29820	epic/ionic/doric/laconia
-
-
+29782	attic/ionic
+29809	epic
 29825	attic/ionic
-
-
-ionic/doric/aeolic
-
-
+29828	ionic/doric/aeolic
 29833	attic/epic
-
-attic/ionic
-
-
-
-29840	
-29842	
-
-29847	
-
+29835	attic/ionic
 29851	attic/epic/doric
-29853	
-29856	
-29858	
-
-
 29862	ionic
 29865	epic/ionic/attic/doric
-
-29868	
-
-attic/epic/doric
-
-29873	
-29875	epic/ionic/doric/laconia
-attic
-
+29870	attic/epic/doric
+29876	attic
 29879	epic/doric/aeolic
-
-29882	
-29885	
-
 29888	attic/epic/doric
-
-epic/ionic/attic/doric
-29892	
-29894	
+29890	epic/ionic/attic/doric
 29896	doric/*theocr.
-
-doric/aeolic
-
-29901	
-
+29898	doric/aeolic
 29905	epic/ionic/attic/doric
-
-29909	ionic
-29911	
-
 29914	epic/doric/aeolic
-
-
-doric/aeolic
-29919	
-29921	
-
-attic/epic
-29925	
-attic/epic
-29931	
-29933	
-
-29936	
-
-doric/aeolic
+29917	doric/aeolic
+29923	attic/epic
+29926	attic/epic
+29938	doric/aeolic
 epic/doric/aeolic
-
-attic/epic
+29941	attic/epic
 29945	epic/doric/aeolic
-
-
-29953	
-29955	
-doric/aeolic
-29958	
-
-
-ionic
-29964	
-
+29956	doric/aeolic
 29967	doric/aeolic
 doric/aeolic
 doric/aeolic
 epic
-29972	
-29974	
 29976	epic
-29978	
 29980	attic/epic/doric/ionic
-
 29984	epic/doric/aeolic
-
-
-ionic
-29989	
-attic/epic/doric
-29992	
-
-29995	
+29987	ionic
+29990	attic/epic/doric
 29997	attic/epic
 epic/doric/ionic/aeolic
 attic/epic
-
-doric
-
-30005	
-attic
-
-ionic
-30011	
-
-doric/aeolic
-30016	
-30018	
+30001	doric
+30006	attic
+30013	doric/aeolic
 30020	doric/aeolic
-30022	
-attic
+30023	attic
 30027	doric/aeolic
 30029	attic/epic/doric
-30035	
-
-30038	
-
-
-
-
-30044	
-attic/epic
-
+30045	attic/epic
 30051	epic/doric
-
-30056	
-
-30060	
+30060	attic/epic/ionic
 attic
-30063	
-30065	
-
-attic/epic
-
+30067	attic/epic
 30070	attic/epic/doric
-30072	
-
 30075	doric
-30078	
 30080	doric/aeolic
-
 30087	epic
-
-30091	
-
-
-
-30097	
 30099	attic
-30101	
-30103	
-
-30108	ionic
-30113	
-
-
-30118	
-30124	
-30127	
-epic
-
-ionic
+30128	epic
+30130	ionic
 30132	epic/ionic/attic/doric
-
-30135	
-30138	
-30140	
-
 30143	epic/doric/ionic/aeolic
-
-attic
-
-30150	
-
+30145	attic
 30153	epic
-
 30156	attic/epic/doric
-30158	
-30160	
 30163	epic/doric/aeolic
-30165	
-
-30170	
-
-30174	
-attic/epic
-
-
-
-
-
-attic
-
-
-30185	
+30170	attic/epic/ionic
+30175	attic/epic
+30181	attic
 30188	attic/epic/doric
-
-attic/epic/ionic
-
-30194	
-30197	
-30199	
-30202	
-30204	
-30207	
+30190	attic/epic/ionic
 30209	ionic
-30211	
-ionic
-30215	
-doric
-ionic
+30216	doric
 30219	doric/aeolic
-30221	
-ionic
-30232	
-30237	
-
 30240	attic/ionic/epic/doric
-30243	
-
-
-30250	
-
 30255	doric
-30258	
-30261	
-30265	
-
-30268	
-
-30271	
-30274	
-
-
-
+30271	epic
+30278	attic
+30283	attic/epic/doric
+30288	doric/aeolic
 attic
-
-
-30282	
-attic/epic/doric
-30285	
-30287	
-doric/aeolic
-attic
-30291	
-ionic
-
-30295	
-attic/ionic/epic/doric
-
-attic/ionic
-30301	
-
-
-
-30306	
-
-attic/epic/ionic
-
+30296	attic/ionic/epic/doric
+30298	attic/ionic
+30308	attic/epic/ionic
 30311	epic/doric/ionic/aeolic
-30315	
-
-epic/doric/ionic/aeolic
-
 30320	attic/epic/doric/ionic
-
-doric/aeolic
-
-30325	
+30322	doric/aeolic
 30327	attic
-30330	
-
-attic/epic
-
-attic/epic
-
-
-
-30339	
+30332	attic/epic
+30334	attic/epic
 30341	epic
 30343	attic/epic/ionic
-
-attic/epic/doric
-30347	
-attic
+30345	attic/epic/doric
+30348	attic
 30350	epic
-30352	
-
-doric/aeolic
-
-attic/ionic/epic/doric
-30358	
-
-
-30362	
+30352	attic/epic/ionic
+30354	doric/aeolic
+30356	attic/ionic/epic/doric
 30364	doric/aeolic
-
-30368	
-
-ionic
-doric/aeolic
+30371	doric/aeolic
 30373	doric/aeolic
 30377	attic/ionic/epic/doric
-
-
-ionic
-
-30384	
-ionic
-
-
-epic/doric/aeolic
-
-
-30392	
-doric
-30396	
-30399	
-doric
-30403	
-
-30406	
-30412	
-attic/epic
+30380	ionic
+30385	ionic
+30388	epic/doric/aeolic
+30393	doric
+30400	doric
+30413	attic/epic
 30416	attic/epic
-30418	
-ionic
-30425	
-30427	
-
-attic/epic
+30429	attic/epic
 30431	epic/doric
-ionic
-30436	
-30440	
 30442	attic
 attic/epic/doric
-30450	
-ionic
-30453	
-
-30456	
-
-
-30460	
-
-30465	
-30467	epic/doric/ionic/aeolic
-30469	
-
-
-
-30474	
-attic/epic/doric
-30477	
+30451	ionic
+30475	attic/epic/doric
 30479	attic/epic/doric
-30481	
-attic/epic
+30482	attic/epic
 30484	attic
-30486	
-
-30489	
-
-
-
-
-
+30494	attic/epic
 doric/aeolic
-30497	
 30499	epic/ionic
-30502	
-30505	
-30507	
-
 30510	attic/epic
 attic/epic
-30513	
-
 30516	attic/epic
-
-
-30520	
-
+30521	attic
 30523	attic/epic
-30526	
-30529	
-
 30532	doric/aeolic
-
-30541	
-30544	
-ionic/doric/aeolic
-
-30549	
-30551	
-epic/doric/ionic/aeolic
-30554	
+30545	ionic/doric/aeolic
 30558	attic/epic/doric
-30561	
-attic/epic/ionic
-
-30566	
-30568	
-
-30571	
-30575	
-30577	
-
-ionic
-
-
-
-
-30585	
-30591	
-epic/doric/aeolic
-30594	
-epic/doric/ionic/aeolic
-
-
-30599	
-30602	
+30562	attic/epic/ionic
+30579	ionic
+30592	epic/doric/aeolic
 30604	epic/doric
-
-30607	
-
 30610	attic
-30612	
 30615	attic/ionic/epic/doric
 epic
 attic/epic
-30619	
-30621	
-
-
-attic
-
-30628	
-
-30632	
-30634	
-
-30638	
-
-doric/aeolic
-
-
-
-30645	
-30648	
-attic/epic/doric
-
-
-
-
-
-
-
-30660	
-
-30663	
-30669	
-attic
+30624	attic
+30632	epic
+30640	doric/aeolic
+30649	attic/epic/doric
+30670	attic
 30672	attic
-
-
-30676	
-30679	
-
-30684	epic/ionic/doric/laconia
-
-
+doric
+30686	attic/epic/ionic
 30688	ionic
-
-epic/doric/ionic/aeolic
-30693	
-doric
-
-30697	
-30699	epic/ionic/doric/laconia
-
-
-
-
-attic
-30706	
-
-attic/epic
-30710	
-
-attic/ionic
-
-
-
-30717	
-
-
-
+30694	doric
+30704	attic
+30708	attic/epic
+30712	attic/ionic
+30715	epic
 30722	epic
-
-30725	
-
-doric
-30729	
-*plat.
+30727	doric
+30730	*plat.
 30732	ionic
 epic/ionic/attic
 30735	attic
-
-30739	
-ionic
-
-doric
-30745	
-30748	
+30742	doric
 30751	epic/doric/aeolic
-
-30754	
-
-
-30758	
-30764	
+30755	doric
 30766	ionic
-30768	
-30770	
-30772	
-30774	
+30774	attic/epic/ionic
 30776	attic/epic
-30778	
-attic/epic/ionic
-30783	
-30786	
-30790	ionic
-30792	
-30798	
-30800	
-
-30804	ionic
+30779	attic/epic/ionic
 30806	doric
-ionic
 30811	attic/epic
-30813	
-30817	
-attic
-30820	
-30823	
-30825	
-30827	
-30832	
-attic/epic
-30836	
-30838	
-doric/aeolic
+30813	epic
+30818	attic
+30833	attic/epic
+30836	attic/epic
+30839	doric/aeolic
 attic
 attic/epic/doric
-30849	
 30851	epic/doric
 30854	epic
-30856	
-doric
-30859	
-epic/doric/aeolic
-
-30863	
-attic/epic
-30866	epic/doric/ionic/aeolic
+30857	doric
+30860	epic/doric/aeolic
+30864	attic/epic
 30868	doric/aeolic
-
-
-
-
 30876	epic
 doric/aeolic
-30880	
-30883	
-30886	
-
-
-30890	
-
-30899	
-
-
-30903	
+30903	attic/epic/ionic
 epic/ionic
 attic/epic/doric
 30908	doric
 doric/aeolic
 30914	attic/epic
-30916	
 30918	doric
-30920	
-30923	
-
-
-attic/ionic
+30926	attic/ionic
 30930	doric
-30934	
-30936	
-
-doric
-30942	
-attic/epic
-
-30946	
-
-attic/epic/doric
-30950	
-30952	
-
-
-30956	
-30958	
-attic/epic/ionic
+30938	doric
+30943	attic/epic
+30948	attic/epic/doric
+30959	attic/epic/ionic
 doric/aeolic
-
-30963	
-epic/doric/ionic/aeolic
-30966	
-
-30969	
-ionic
-30973	
-attic/epic/doric
-
+30974	attic/epic/doric
 30977	attic/epic/doric
-30980	
-doric/aeolic
-
-30985	attic/epic/doric
-30991	
-
-
-30995	attic
-31000	
-31002	
-31010	
-
-
+30981	doric/aeolic
 doric
-31017	
-attic
+30985	attic/epic/doric
+30995	attic
+31002	doric
+31013	doric
+31018	attic
 31020	attic
-31022	
-
-attic
-
-31029	
-31032	
-
-31035	
-
-31040	
-31042	
-
-31045	
-31047	
-attic/epic/doric/ionic
-
-
-ionic
-31054	
-
-31061	
-
-attic/epic/ionic
-31067	
-31072	epic/doric/ionic/aeolic
-
+31024	attic
+31048	attic/epic/doric/ionic
+31051	ionic
 31075	doric/aeolic
 31077	attic
 attic/epic/doric
 31083	doric/aeolic
-
-
 31087	epic
-
-attic
+31089	attic
 31092	attic
-31095	
-
-
-epic/doric/ionic/aeolic
-
-31101	
-doric/aeolic
+31102	doric/aeolic
 attic
-31105	
-
-31108	
-
-
-31112	ionic
-31114	
-attic/epic
-
-31119	
-
-
-
-
-
-
-doric/aeolic
-
-attic/epic
-
+31115	attic/epic
+31126	doric/aeolic
+31128	attic/epic
 31132	attic
 31134	doric/aeolic
-
 31137	epic/ionic
-
-attic/epic
-
-
-31144	
-31147	
-epic/doric/ionic/aeolic
-attic/epic/doric
+31139	attic/epic
+31149	attic/epic/doric
 31151	epic/doric/aeolic
-
 31155	doric/aeolic
-
-31158	
-31161	
 31163	doric/aeolic
 31165	epic/ionic
 attic
 31170	epic/doric/aeolic
-
 31175	epic/doric/aeolic
-
-
-
-attic
+31179	attic
 31181	attic
-
-
-attic/epic/doric
-31187	
-
-
-31191	
-
-31194	
-
-attic/epic
-31198	ionic
-31200	
-31202	
-attic/epic
+31184	attic/epic/doric
+31188	attic
+31196	attic/epic
+31203	attic/epic
 31206	parad_form
-31208	
 31210	attic
-
-31213	
-31215	
-attic
-
-
-
+31216	attic
 31222	ionic
-31224	ionic
+31225	doric/aeolic
 doric/aeolic
-doric/aeolic
-31228	
-31230	
-31232	
 31234	epic/ionic/attic
-31236	
-
-
-
-31242	
-
-
-
-
-
-31249	
-31251	
-
-
-31255	
-31258	
-
-attic
-ionic
+31260	attic
 31265	doric/aeolic
-31267	
 31270	epic/doric/aeolic
-
-31273	
-31275	
-
-31278	
-31281	
-
-31284	
-31286	
-31288	
-31293	
-attic/epic/doric
-31296	
-ionic
-attic/epic/doric/ionic
+31294	attic/epic/doric
+31298	attic/epic/doric/ionic
 31300	doric
-
-
-attic/epic
-31306	ionic
-31308	
-31310	
-31314	
-31316	
-31318	
-31320	
-
-
-31324	epic/doric/ionic/aeolic
-epic/doric/aeolic
-
-31328	
-31330	
-doric
-31334	
-
-ionic
+31303	attic/epic
+31318	attic
+31325	epic/doric/aeolic
+31331	doric
+31336	ionic
 31338	attic/epic/ionic
-
 31341	doric/aeolic
-
-
-31345	
 31349	doric/aeolic
-
-
-31353	
-
-
-
-attic
-
+doric
+31357	attic
 31362	attic/epic/doric/ionic
 31365	doric
-31368	
-
-
 31372	attic/epic
-
-31376	
-
-attic/epic/ionic
 31381	epic
-31383	epic/doric/ionic/aeolic
-
-31386	
-
-
-31390	
-
-
-ionic
 31395	doric/aeolic
-ionic
-31398	
-31402	
-31405	
-
-
-31410	
-epic/doric/aeolic
-31414	epic/doric/ionic/aeolic
-
-
-
-
-31420	
-ionic
-31423	
-doric
+31411	epic/doric/aeolic
+31424	doric
 attic
-31427	epic/doric/ionic/aeolic
-
-31430	
-
-
-
-
 31438	doric
-31440	
+31441	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-attic/epic
-31448	
-
-epic
-
-31454	
-31456	
-
-
-31463	
-
-
-
-
-
+31444	attic/epic
 31470	attic/epic/doric
-31472	
-31479	
-31481	
-ionic
 31484	attic/epic/doric
-31488	
-doric/aeolic
+31489	doric/aeolic
 attic/epic
-
-31493	
-attic/epic
-
-epic
-
-
-
-31502	
-
-31505	
-31507	
-31510	
-31512	
-
-
-attic/ionic
-31518	
-
-31523	
-31525	
-31528	
-
-
-31532	
-attic/ionic/epic
+31494	attic/epic
+31496	epic
+31515	attic/ionic
+31533	attic/ionic/epic
 attic
 31536	attic/epic/doric
-
-31539	
-
 31542	attic/epic/doric
-
-31545	
-31548	
-
-31552	
-31554	
-
 31557	attic
-31559	
-attic/epic
-31565	
-
-31569	
-31571	
-31575	
-31577	
-ionic
+31560	attic/epic
 31581	epic/doric/aeolic
-
-
-31585	
-
-
-31589	
-
-31592	
-
-ionic
-31596	epic/doric/ionic/aeolic
-
-31599	
-
-
-31603	
-31606	
-
-31610	
-
-31615	
-31619	
-31622	
-31626	
-31628	
+31594	ionic
 31630	attic
-31632	
-31635	
-31638	
-31640	
-31644	
-ionic
-
-31651	
-
-attic/epic/ionic
-31657	
-
-
-31661	
-ionic
-
-31665	
-attic
-
-31670	
-ionic
-31673	
-
-31676	
+31645	ionic
+31653	attic/epic/ionic
+31663	attic/epic/ionic
+31666	attic
 31678	doric
 31680	attic
 31682	doric/aeolic
 doric/aeolic
-
-
-
-
-31689	
-
-doric/aeolic
-
-doric/aeolic
-31695	
-doric
-31700	
-
-31707	
-
-ionic
-doric/aeolic
-31712	
-doric/aeolic
-ionic
-
-doric/aeolic
+31691	doric/aeolic
+31693	doric/aeolic
+31696	attic/epic/ionic
+31710	doric/aeolic
+31713	doric/aeolic
+31716	doric/aeolic
 31718	epic
-doric
-31722	
-attic
-
-epic
-31728	
-attic/epic/doric
-31732	
-31735	
+attic/epic/ionic
+31723	attic
+31725	epic
+31729	attic/epic/doric
 31737	doric
-31739	
 31742	doric
-
-31745	
-
-31748	
-31750	
-epic
+31751	epic
 attic/epic
-
-
-31756	
-31759	
 31761	doric
-
-doric/aeolic
-
-31766	
-
-doric
-31770	
+31763	doric/aeolic
+31768	doric
 31772	attic/epic
-31774	doric/aeolic
-31777	
+31774	attic/epic/doric
 31781	doric/aeolic
-
-
-
-
-31788	
-attic/epic/doric
-
-
-31794	ionic
-31797	epic/doric/ionic/aeolic
-
-31800	
-attic/epic/doric
-
-
+31789	attic/epic/doric
+31801	attic/epic/doric
 31806	epic/ionic/attic/doric
 31808	epic
-
-
-
-31813	
-attic/epic/ionic
+31814	attic/epic/ionic
 attic/epic
-
-doric
-31819	
-
-31822	doric/aeolic
-31824	
+31817	doric
 31827	doric/aeolic
 31830	epic/ionic
-31834	
-31836	
-31838	
-31842	
-
-31845	
-doric
-
-
-31853	
-
-31859	
-
-
-doric
+31846	doric
+31862	doric
 31864	doric
 31866	epic/ionic
 31868	doric/laconia
 epic/doric
-
 31872	attic
-31875	
-31877	
-31879	
-
-
-attic
-
-
-
+31882	attic
 31887	epic/doric
-
-
-
-
-attic/epic/ionic
-
-
-attic/epic/doric
-31897	
-
-epic/doric
-31902	
-31904	
-
-
-
-31909	
-31911	
-
-31914	
+31895	attic/epic/doric
+31899	epic/doric
 31916	epic/doric
-
-
-31920	
-31923	
-31925	
-
-
-ionic
-
-31932	
-
-31938	ionic
+31928	ionic
 31940	doric/aeolic
-
-31944	
-
-31947	
-
-31952	
-attic/epic/doric
-31957	
-31960	
-31964	
-
+31953	attic/epic/doric
 31969	attic
-31971	
-31973	
-31975	
-attic/ionic/epic/doric
-
-
-31983	
-attic/epic/ionic
-doric
+31976	attic/ionic/epic/doric
+31985	doric
 31987	attic/epic/ionic
-
-epic/ionic
-31992	
-attic/epic
-31995	
+31989	epic/ionic
+31993	attic/epic
 31999	attic
-32007	
-32011	
-32013	
-
-doric/aeolic
+32015	doric/aeolic
 32019	epic/doric
-
-
-32024	
-
-epic
-
-
-32030	
-
-32033	epic/doric/ionic/aeolic
+32026	epic
 32035	epic/doric/aeolic
-
-32039	
-
-
+32041	doric/ionic
 epic
-
 32046	attic
 epic
 attic
 32050	attic
-
-attic
+32052	attic
 32054	attic
 32056	attic
 32058	attic
 32060	attic
-
-attic
+32062	attic
 32064	attic
 32066	attic
 32068	attic
@@ -18986,30 +5464,25 @@ attic
 32082	attic
 32084	attic
 32086	attic
-
-attic
+32088	attic
 32090	attic
 32092	attic
 32094	attic
 32096	attic
-
-attic
+32098	attic
 attic
 attic
 32102	attic
 32104	attic
 32106	attic
-
-attic
-
-attic
+32108	attic
+32110	attic
 doric/aeolic
 attic
 32114	attic
 32116	attic
 32118	attic
-
-attic
+32120	attic
 32122	attic
 32124	attic
 32126	attic
@@ -19048,16807 +5521,4957 @@ attic
 32186	attic
 32188	attic
 32190	attic
-
-attic
+32192	attic
 32194	attic
 32196	attic
-
-
 32200	doric/aeolic
-32202	
-epic/doric
-
+32203	epic/doric
+32205	attic
+32210	attic/epic
+32215	doric/aeolic
+32219	attic
 attic
-
-32209	
-attic/epic
-32212	
-
-
-doric/aeolic
-32218	
-attic
-attic
-epic/doric/ionic/aeolic
-
-32225	
 32227	ionic
-32231	
-32233	
-32235	
-
-32238	
-epic
-
-attic
-
-
-attic/epic
-
-
-
-doric/aeolic
+32239	epic
+32241	attic
+32244	attic/epic
+32248	doric/aeolic
 32251	doric
-32254	
-
-32257	
-
-32260	
-
-epic
-
-32265	epic/doric/ionic/aeolic
-32269	
-
+32262	epic
+32270	attic/epic/ionic
 doric/aeolic
 doric/aeolic
 32274	attic/epic
-
-32277	
-32279	
-
-
-32283	
-
 32286	doric/aeolic
 32291	doric/aeolic
-
-
-
 32298	doric/aeolic
-
-epic
+32300	epic
 32304	doric/aeolic
-
-epic/ionic/doric/laconia
-
-32309	
-doric
+32310	attic/epic/ionic
 32312	epic/ionic/attic/doric
-
-
-
-
 32318	attic/ionic
-
-32321	
-
-32324	
-
-
-32330	ionic
-32334	
 32337	attic
-
-32340	
-
-
-epic
-
-attic
-
-
-
-32350	
-32353	
+32343	epic
+32345	attic
 32355	attic/epic/doric
-
-attic/epic
-
-
-attic
-
-
-32364	
-
-doric
+32357	attic/epic
+32360	attic
+32366	doric
 epic
-
-
-
-32376	
 32378	epic/ionic/attic/doric
-
-
-
-
-
-epic/ionic/doric/aeolic
-
+32384	epic/ionic/doric/aeolic
+32386	attic
+32403	epic/doric
+32408	attic/ionic
 attic
-
-32389	
-
-epic/doric/ionic/aeolic
-
-
-32395	
-32397	
-32399	
-32401	
-epic/doric/ionic/aeolic
-epic/doric
-
-
-
-
-attic/ionic
-attic
-32411	ionic
 32413	doric/aeolic
 32415	doric/aeolic
-
 32418	attic/epic/ionic
 32420	attic
-
-
-32426	
-32429	
-32431	
-32433	epic/doric/ionic/aeolic
-
-ionic
-32437	attic/epic/doric
-epic/doric/aeolic
-32441	
-
-32445	
-
-
-
-
-32451	ionic
-32455	
-32459	
+32438	epic/doric/aeolic
 32461	attic
-32465	
-32468	
-32471	attic/epic/doric
-epic/doric/aeolic
-
-32475	
-32477	
-
-32483	
-epic/doric/aeolic
-32486	
-32490	
-32492	
-32494	
-attic/ionic
-
-32498	
-
-32501	
-32504	
-attic/epic
-
-32510	
-32512	
-
-epic/ionic
+32472	epic/doric/aeolic
+32484	epic/doric/aeolic
+32495	attic/ionic
+32505	attic/epic
+32514	epic/ionic
 doric/aeolic
-32517	
-
 32520	attic/epic
-32523	
-32526	
-doric/aeolic
-32529	
-32531	
-epic/doric
+32527	doric/aeolic
+32532	epic/doric
 32535	attic/epic/doric
-
-32538	
-
 32541	epic/ionic/attic/doric
-32543	
-32545	
-
-attic
-32549	
-32551	
-
+32547	attic
+32552	attic/epic
 epic
-32558	
-32561	
+32561	attic/epic/doric
 attic/epic
 32565	epic/doric
-32568	
-
-
-32572	
-ionic
-32576	
-32579	
-
-32582	
-
 32585	attic/epic/ionic
-
-doric
-
+32587	doric
 32590	doric
-32593	
-
-32596	
 32598	epic/doric/aeolic
-32600	
-doric
+32601	doric
 doric/aeolic
-
-doric/aeolic
-
+32604	doric/aeolic
 32607	ionic
-32609	
-attic/epic
-32612	
-doric
-
-32616	
+32610	attic/epic
+32613	doric
+32617	doric/aeolic
 doric/aeolic
-doric/aeolic
-32620	
-32622	
-32626	
-
+32627	attic/epic/ionic
 32629	attic/epic/ionic
-32632	
-
-
-
-
-
-ionic
-32641	
 32644	doric/aeolic
 32647	epic/ionic/attic/doric
 doric/aeolic
-
-attic/epic
-32652	
+32650	attic/epic
 32654	attic
-32658	
-32660	
-
-32663	
-
-32668	
-
-
-epic/ionic
-32673	
+32671	epic/ionic
 32675	doric/aeolic
-
-32678	
-32682	
-32684	
+32678	attic/epic/doric
+32684	doric
 32686	attic
-
-32689	
-
-epic/doric/ionic/aeolic
+32691	epic/doric/ionic/aeolic
 ionic
-
-32695	
-32700	
-
-
-
-epic/doric/ionic/aeolic
-
-ionic
-32710	
+32700	epic
 32712	epic/doric/aeolic
-32715	
-32720	
-
-32723	
-
-
-
+32727	epic/doric/aeolic
+32734	epic/ionic
 epic/doric/aeolic
-
-32730	
-32732	
-
-epic/ionic
-epic/doric/aeolic
-32737	
-32739	
 32742	epic/doric
-
-32745	
-
-attic
-32749	
-attic
-32753	
-
-doric/aeolic
-
-
-
-
-
-attic
-
+32747	attic
+32750	attic
+32755	doric/aeolic
+32761	attic
 32764	attic/ionic
-
-
-
-
-32771	
-32773	
-32775	
-32778	
-ionic
-32781	
-
-32784	
-32786	
-32790	
-
 32794	attic/epic/doric
-32797	
-
-
-32802	
-
-
 32806	attic/ionic
-
-32814	
-
-
-
-ionic
-
 32822	attic
 doric
-32825	
-32827	
-
-ionic
 32831	doric/aeolic
 32833	doric/aeolic
 32835	attic
 32837	epic/doric/aeolic
-32842	
-32844	
-32847	
-
 32850	attic/ionic
 attic/epic
-32854	
-32858	
-attic/epic
-
+32859	attic/epic
 32863	attic
-
-32867	
-
-attic/epic/doric
+32869	attic/epic/doric
 doric/aeolic
-
-32875	
-32879	
-doric/aeolic
-
-attic/epic/doric/ionic
-32885	
-32888	
-
-
-
-32893	
-
-32896	
-
-epic
+32880	doric/aeolic
+32882	attic/epic/doric/ionic
+32898	epic
 attic
-
-32902	
-
-
-
-32907	
-32910	
-32915	
-32917	
-ionic
-attic
-32922	
+32919	attic
+32923	attic/epic/doric
 attic/epic/doric
-attic/epic/doric
-32927	
-
-
-32931	
+32928	doric
 32933	attic
-
-32937	
-
-32940	
-32943	
-epic/doric/ionic/aeolic
 32947	epic
 32950	attic/epic
 32952	doric/aeolic
 attic
-
-
-
 32958	epic/doric/aeolic
 32960	epic/doric/aeolic
-32962	ionic
+32963	doric/aeolic
 doric/aeolic
-doric/aeolic
-32966	
-32969	
-attic/epic
-32973	
-
+32970	attic/epic
 32979	attic
-
 32983	epic/doric/aeolic
-32985	
 32990	epic
-32993	
-
-32997	
-32999	
-33001	
-doric/aeolic
-
-
-
-epic
-33008	ionic
-epic
-
-33012	
-epic/doric/aeolic
+33002	doric/aeolic
+33006	epic
+33009	epic
+33013	epic/doric/aeolic
 33015	attic/ionic/epic/doric
-33017	
 33019	attic/epic/ionic
-33021	
-attic/epic/ionic
-33024	
-attic
-33030	
-33032	
-attic/epic/ionic
-
-33038	
-ionic
-33043	
-
-
-epic/doric
-ionic
-doric/aeolic
+33022	attic/epic/ionic
+33025	attic
+33033	attic/epic/ionic
+33046	epic/doric
+33048	doric/aeolic
 33050	epic/ionic/attic/doric
-
-
-
 33055	attic/epic/ionic
-33060	
 33062	attic/epic
-33064	
-
-
-
 33071	doric
-33073	
 33075	epic/ionic
-33077	
-
-
-33081	
 33083	attic/epic/doric
-
-attic/epic
+33085	attic/epic
 33088	attic
-33091	
-33096	
-
-33101	
-attic/epic/doric
-33104	
-
-epic
+33102	attic/epic/doric
+33106	epic
 33108	doric
 attic
-
-
-33113	
-
-33117	
-
-
-33126	
-
-
-
-
-
-
-
-
-doric/aeolic
 33140	attic/epic/ionic
-
 33143	epic/ionic
 doric/aeolic
 attic/epic/doric
 attic/epic
-33149	
-33153	
-
-
+33155	attic/epic/ionic
 attic
-
-attic
-33160	
-
-
-33165	
-33167	
+33158	attic
 33169	attic/epic/ionic
-33171	
-33173	
-epic/doric/ionic/aeolic
-33176	
-attic/epic
-33180	
-33182	
-epic
+33177	attic/epic
+33183	epic
 33185	attic/epic/doric
 33187	doric/aeolic
-
-attic/epic/doric
+33189	attic/epic/doric
 33193	attic/epic/doric
-
-33197	
-
-
-doric/aeolic
+33200	doric/aeolic
 33202	attic/epic/ionic
-33204	
-33206	
-33208	
-
-
-
-
 33215	epic/doric/ionic/aeolic
-
-
-
-33220	
-33224	
 33227	doric/aeolic
-33229	
-
-attic/epic
-
-33234	
-
-attic
-33238	
+33231	attic/epic
+33236	attic
 33240	epic/doric
-
-ionic
-doric/laconia
-
-
-33247	
-
-33250	
-
-33253	
-attic/epic/doric
-33259	
-
-33262	
+33243	doric/laconia
+33254	attic/epic/doric
 33265	epic/doric/aeolic
 attic/epic/doric
-
-33269	
-33272	epic/doric/ionic/aeolic
-33274	
-33276	
-
 33280	epic/doric/aeolic
 33283	doric/aeolic
 33288	epic/ionic
 doric/aeolic
-33291	
-attic/epic/ionic
+33292	doric/aeolic
 doric
-33295	
-33297	
 33301	epic/doric/ionic/aeolic
-
-epic/doric/aeolic
-ionic
-33306	
+33303	epic/doric/aeolic
 33309	attic/epic/doric
-33312	
-doric
+33313	doric
 33316	epic/doric/aeolic
 33319	attic/epic/doric
 33321	attic/epic/doric
-33323	
-epic/ionic/doric/laconia
-
-33327	
 33329	doric
 attic/epic/doric
-33332	
+33332	epic
 33335	doric/aeolic
-
-33338	
-
-
-doric
-
-33344	
-attic/epic
-33347	ionic
-33349	
-
-attic
+33339	epic
+33341	doric
+33345	attic/epic
+33351	attic
 attic
 33354	attic/epic/doric
-33357	
-
-33360	
-
-
-doric/aeolic
-
-33366	
-
-
-
-33371	
-33373	
-
+33363	doric/aeolic
 33378	attic/epic
 doric/aeolic
-
+33381	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-
-
-33387	
-33391	
-
-33395	
-epic/ionic/attic/doric
-
-33400	
-
-
-33404	
-epic/doric
-
-33408	
-33410	
-
-
-doric/aeolic
-
-
-33417	
+33396	epic/ionic/attic/doric
+33405	epic/doric
+33413	doric/aeolic
 33419	attic/epic
-
-33422	
-
-
-epic
+33425	epic
 attic
-
-doric/aeolic
-
-
+33428	doric/aeolic
 33432	attic/epic/ionic
 33434	doric/aeolic
-
-attic/epic
-33438	
-
-
-33442	
-33445	
-attic/epic/doric
-ionic
-33450	
+33436	attic/epic
+33446	attic/epic/doric
 33453	doric
-epic/ionic/doric/laconia
-
-
-33458	
-
-
-ionic
-33464	
-33467	
 33469	epic/doric/ionic/aeolic
 epic
-33473	
-33475	
 33478	attic
-
-
-epic
+33481	epic
 doric/aeolic
-33484	epic/doric/ionic/aeolic
-
-
-
 33489	doric/aeolic
 epic/doric
-33493	
-
 33496	doric/laconia
-33498	
-
-attic/epic/doric/ionic
+33500	attic/epic/doric/ionic
 33503	attic/epic/ionic
-
-doric
-33507	
-epic/doric/ionic/aeolic
-attic/ionic/epic/doric
-33513	
-
-
-
-
+33505	doric
+33509	attic/ionic/epic/doric
 33519	epic/doric/aeolic
 33522	attic/epic/doric
 33524	attic/epic/ionic
 epic/ionic
 doric/aeolic
-33528	
-
-33531	
-
-33535	
-
-
 33540	epic/doric/aeolic
-
-
-
-
-
-
-attic/epic/doric
-33549	
-
-33552	
+33543	doric/aeolic
+33547	attic/epic/doric
 33554	epic/ionic/attic/doric
-
-
-
-33560	
-doric/aeolic
+33561	doric/aeolic
 epic
-
 33566	doric/aeolic
-
-doric/aeolic
-33570	
-33572	
-
-doric/aeolic
-33576	ionic
-doric/aeolic
-
+33568	doric
+33574	doric/aeolic
+33577	doric/aeolic
 33580	epic/ionic
-33583	
-doric/aeolic
-
-epic
-
+33584	doric/aeolic
+33586	epic
 33589	attic/epic
-
-doric/aeolic
-33593	
-
-33596	
-33598	
-epic
+33599	epic
 33601	epic
-
-33604	
-
-33608	
-
-33611	
-attic
-33614	
-33616	
-
-33619	
-33621	
-
+33608	attic/epic/ionic
+33612	attic
 33625	doric/aeolic
-33628	
-33630	
-
-
-
-attic/epic/doric/ionic
-
+33634	attic/epic/doric/ionic
 33638	ionic
 epic
 33642	epic/doric
-33645	
-33648	
 33650	attic/epic/doric
-
-
-
-33655	
-
-33661	
-
 33664	attic/epic
-33666	
-
-33671	
-attic
+33672	attic
 attic/epic/doric
-33676	
-
-epic/doric/ionic/aeolic
-ionic
+33678	epic/doric/ionic/aeolic
 33681	doric
-
-33685	
-
-33688	
-attic
-33696	
-attic/epic/doric
-
-doric/aeolic
-
-epic/doric/ionic/aeolic
-ionic
+33689	attic
+33697	attic/epic/doric
+33699	doric/aeolic
+33701	epic/doric/ionic/aeolic
 33704	doric
-
-33708	
-
-
-epic/doric/ionic/aeolic
-
-33714	
-33720	
-33722	
-33724	
-33727	
-
-doric/aeolic
-
-33732	
+33711	epic/doric/ionic/aeolic
+33724	epic
+33729	doric/aeolic
 33738	doric
-33740	
 33742	epic/ionic
-
-attic/epic
-
-
+33744	attic/epic
 33751	epic/ionic/attic/doric
-33754	
-
-
-ionic
-33760	
-attic/ionic/epic/doric
-33767	
-33769	
-33771	
-
-ionic
+33761	attic/ionic/epic/doric
 33776	attic
-
-33783	
-33789	
-33791	
-33794	
-
-doric
+33796	doric
 33798	parad_form
 33800	epic
-
-
 33804	attic
-33806	
-epic
+33807	epic
 attic
-
-33812	
-33817	ionic
 33823	epic/doric/aeolic
-33825	
-33827	
-33829	
-
-ionic
+33825	attic/epic
+33831	ionic
 epic/doric/aeolic
-
-33837	
-
-33840	
-33842	
-
-attic/epic
-33846	
-
-
-attic/epic/doric
-
-33856	
-
+33844	attic/epic
+33849	attic/epic/doric
 33859	attic/epic
-
-attic/epic
+33861	attic/epic
 doric/aeolic
 doric
-33865	
-
-33869	ionic
-33871	
 33873	doric
 epic
-
-33877	
-
 33881	epic/ionic/attic/doric
 epic/doric
-
 33885	attic/epic
-33887	
-
-
-
-
-
-
-33898	
-
-
-33902	
-
-
 33906	attic/ionic/epic/doric
-33909	
-33911	
 33915	attic/doric/aeolic
 33917	attic/epic/doric
-33920	
-
+33921	attic
 33923	attic/epic
 attic
-33927	
 33929	ionic
-33933	ionic
-33935	
 33938	epic/doric/aeolic
-
-
-
-
-attic
-
-33946	
-33948	
+33943	attic
 33951	epic/doric/aeolic
-
-33954	
-33956	
-
-33963	
-33966	
-33968	
-33971	
 33975	attic/epic/ionic
-33977	
-33979	
-33981	
 33983	ionic
 33990	attic/epic/doric
 attic/epic/ionic
 33993	doric/aeolic
 33996	doric/aeolic
 34002	epic
-34004	
-epic
-
+34005	epic
 34008	epic/ionic/attic
-34012	
-
 34017	attic
-34019	
-attic/epic/ionic
-34022	
-34027	
-doric
+34020	doric/aeolic
+34028	doric
 34031	epic/ionic
-
-
-
-34037	
-
-
-
-34042	
-attic/epic/doric
-
-doric
-34050	
+34043	attic/epic/doric
+34045	doric
 34052	attic/epic/doric
-34054	
-
-epic/doric/ionic/aeolic
-34058	
-
-34061	
-34063	epic/doric/ionic/aeolic
-34065	
-34068	
-ionic
+34056	epic/doric/ionic/aeolic
 34071	epic/doric/aeolic
-
-epic
-
-
-
-
-
-34080	
-
-attic
-
-
-
-34088	
-34090	
-
-34094	
-epic
-
-
+34073	epic
+34082	attic
+34095	epic
 34100	epic/doric
-
-epic
-34105	
-epic/doric
+34102	epic
+34106	epic/doric
 34110	doric
 34112	doric/aeolic
 epic/doric
-
-
 34117	attic
-
-attic
-
-
-
-attic/epic/ionic
-
-
+34119	attic
+34123	attic/epic/ionic
 34127	attic/ionic
 attic/epic/doric
-34130	
 34132	epic/doric
-34134	
-attic/epic
-34137	
-
-
+34135	attic/epic
 34141	epic/ionic/attic/doric
 34143	epic
-
-
-
-
 34149	doric
-34152	
-
 34155	epic/ionic
 epic/doric
 34158	doric
-
-34162	
-epic/doric/aeolic
-34165	
-
-34168	
-epic
-34174	attic/epic/ionic
+34163	epic/doric/aeolic
+34169	epic
+34174	doric
 epic/doric
-
-34178	
-epic
-
-
-
+34179	epic
 34184	epic/ionic/attic/doric
-34187	
-
-
-doric/aeolic
+34190	doric/aeolic
 doric
-
 34194	attic/epic/doric/ionic
-
 34198	epic/doric
-attic/epic/ionic
-
+doric
 34202	attic/epic/doric
 epic/doric
-
-34206	
-epic/doric
-
-
-
-
-epic/doric
+34207	epic/doric
+34212	epic/doric
 attic/epic
 doric
-
-
-34219	
 34222	doric/ionic
-34224	
-attic
-34227	
-34232	
-
+34225	attic
 34236	doric
-
-
-34240	
-attic
-34243	
-
-
-attic/epic
-34249	
-
-attic/epic/doric
+34241	attic
+34246	attic/epic
+34251	attic/epic/doric
 doric
-
-epic
-
-
-doric/aeolic
-34259	
-
-34262	
-epic/doric
+34254	epic
+34263	epic/doric
 doric
 doric
-34270	
-34273	
 34275	attic/epic/ionic
 34278	doric/aeolic
 doric/aeolic
 34282	epic/doric
 doric
 doric
-34288	
 34292	epic
 34294	doric/aeolic
 doric
-34297	
-
 34300	doric
 doric
 34307	epic
-
-attic/epic/doric
-
-epic
-
-
+34309	attic/epic/doric
+34311	epic
 34316	epic/doric
-34318	
-34320	
-34322	
-34325	
 34327	epic/doric
 34330	epic/ionic
-
-
-
-34337	
-34341	
-ionic
-
-34345	
+34342	ionic
 34347	epic/doric
-
-34351	
-
-34354	
-
-
-34358	
-
-34361	
-
-
-
-34367	
 34370	doric
-34372	
-
-
 34376	attic/epic/doric/ionic
-ionic
 34380	epic/doric
 34384	attic/epic
-
-doric
-
+34386	doric
 34390	epic/doric
-
-
-doric/aeolic
-34395	
-34397	
-34399	ionic
-34402	
+34393	doric/aeolic
+34397	attic/epic
 34404	attic/epic/ionic
-
-34412	
-
-34415	
-
-34422	
-attic/epic
+34423	attic/epic
 34425	attic
-34427	
-34430	
-34432	
-attic/epic
-
-34436	
-attic/epic/doric/ionic
-
-attic/epic/ionic
+34433	attic/epic
+34437	attic/epic/doric/ionic
+34439	attic/epic/ionic
 attic/epic
 attic/epic
-34443	
-
 34446	doric
-34450	
-attic/epic
-34453	
-34456	
-attic/epic
-34459	
-
-
-attic/epic/doric
-
-
-
-34467	
-
-attic
-34471	
-34473	
-34478	
-attic/epic
+34451	attic/epic
+34457	attic/epic
+34462	attic/epic/doric
+34469	attic
+34479	attic/epic
 34481	attic
-34483	
-attic/epic/doric
-
-34489	
-attic/epic/doric
-
-
-ionic
-34496	
-attic/epic/doric
-
-
-
-34503	
-attic
-
-
-34508	
-34510	
-
-epic
+34484	attic/epic/doric
+34490	attic/epic/doric
+34497	attic/epic/doric
+34504	attic
+34512	epic
 doric
-ionic
-
-
+34517	attic/epic/ionic
 attic/epic/ionic
-attic/epic/ionic
-
-34522	
-attic
-
+34523	attic
 34527	ionic
-
-34530	
-34532	
-
-
-attic
-
-
-34539	
-
+34535	attic
 34543	ionic
 attic/epic
-34547	
-
 34551	attic/epic
-
-
-34555	
-attic/epic
-
-
-34560	
-34565	
-
-
-doric
+34556	attic/epic
+34568	doric
 34570	attic/epic/doric
-34572	
-doric
-
+34573	doric
 34576	attic/ionic
 attic/ionic
 34580	doric
 doric/aeolic
 34583	epic/doric
-34585	
-34588	
-
 34591	doric/aeolic
 doric
-34595	
-
-34598	
-
-attic/epic/ionic
-34602	
-
-
-34606	
-34608	attic/epic/ionic
+34600	attic/epic/ionic
+34606	epic
+34608	doric
 doric/aeolic
-34611	
-34613	
-34615	
-
-attic/ionic
+34617	attic/ionic
 34621	doric/aeolic
-
 34624	attic/epic/ionic
-34626	
-
-
-
-34632	
-epic
-34639	
+34633	epic
 34643	epic/doric
-
-
-34647	
-ionic
-doric/aeolic
+34649	doric/aeolic
 doric/aeolic
 attic
-34653	
-ionic
-34656	
-34658	
-
-doric/aeolic
-
+34660	doric
 34663	doric
 34665	epic/doric/aeolic
-
-34668	
-34670	
+34671	attic
 attic
-attic
-
-34677	
-
-epic/ionic/attic/doric
-34683	
-34685	
-
-
+34679	epic/ionic/attic/doric
 34693	attic/epic/doric
-34695	
-
-
-34701	
-34703	
-34707	
+34695	doric
 34712	epic/doric
 attic
-
-34716	
-
-
-
-doric/aeolic
-34722	
-
-doric/aeolic
-34726	
-34728	
+34720	attic/epic/doric
+34724	doric/aeolic
 34730	doric
-
-doric
-
-
-
-
-attic/epic/doric
-
-34741	
-
-
-34745	
-
-
-34749	ionic
-
-
-34753	
+34732	doric
+34737	attic/epic/doric
 34755	doric/aeolic
-
-
-34760	
-epic
-
 34765	attic/epic/doric
-34767	
-
-doric/aeolic
-34771	
-34773	
-epic/doric/aeolic
-34776	
-
+34769	doric/aeolic
+34774	epic/doric/aeolic
 34782	doric
 attic/epic/doric
 34787	attic/epic
-
-
-
 34793	attic/epic
-
-34796	
-
-
 34802	epic
 attic/epic
 doric
-
-
-
-
+34809	doric
+34812	attic/epic
+34831	attic/epic
 doric
-ionic
-
-attic/epic
-34816	
-34819	ionic
-34822	
-34824	
-34826	
-
-epic/doric/ionic/aeolic
-34830	
-attic/epic
-doric/aeolic
-
-ionic
 34836	attic/epic
-
-34839	
-
-
-doric/aeolic
-
-34847	
-34850	
+34842	doric/aeolic
 34855	attic/epic/doric
 34858	doric/aeolic
 epic
-
-
-
 34865	epic/doric/aeolic
 doric/aeolic
 34872	epic/doric/aeolic
-
 34876	attic/epic/doric
-34878	
-
-
-34884	
-34886	
-
-34890	
-34893	
-34896	
-34898	
-
-
-
-34905	
-
-34908	
-34913	
-
-
-epic
-34921	
-34923	
-
-
-doric
-34928	
-
-attic
-34932	
-34934	
-34938	
-34940	
-
-34944	
-attic/epic/ionic
-
-
-
-
-34951	doric
-
-
-epic/doric/ionic/aeolic
-34957	
-doric/aeolic
-
-
-34966	
-
-
-
-
-
-34975	
-
-34978	
-
-34981	
-34983	
-34988	
+34886	attic/epic/ionic
+34916	epic
+34926	doric
+34930	attic
+34945	attic/epic/ionic
+34951	epic
+34958	doric/aeolic
 34990	epic/ionic
-
-
-34994	
-
-34997	
-
-35000	
-
-35003	
-35005	
-
-attic/epic/ionic
-
-
-35012	
-
+35007	attic/epic/ionic
 35015	doric
 35017	doric
-
-35020	
-35022	
 35025	epic/ionic/attic/doric
-
-
-35029	
-35031	
-epic
-35035	
-epic
+35032	epic
+35036	epic
 epic/ionic/attic/doric
 attic/epic/doric
 epic/ionic/attic/doric
 35042	epic/ionic/attic/doric
 epic
-
-35046	
-35049	
 35052	doric/aeolic
-
-35055	
-
-
-35059	
-attic/epic/doric
-
-
-attic/epic
-35067	
-
-
-35071	ionic
-35073	
-doric/aeolic
-35076	
-attic
-
-doric/aeolic
-
+35060	attic/epic/doric
+35063	attic/epic
+35074	doric/aeolic
+35077	attic
+35079	doric/aeolic
 35082	attic/epic/doric
-35084	
-
-attic/epic/doric
-
-attic/epic/doric
-
-
-35092	
-35094	
-35096	
-35098	
-epic
+35086	attic/epic/doric
+35088	attic/epic/doric
+35099	epic
 doric/aeolic
-
 35103	attic/epic/doric
-
-epic
-
-doric
-35109	
-35113	
-
+35105	epic
+35107	doric
 35116	attic/epic/doric
-
-35120	
 35122	epic/ionic/attic
-
-35125	
-35127	
-
-
-
-
-doric
-35134	
+35132	doric
 35136	doric
-
-35140	
-35142	
-
-
-
-attic
-
-35149	
-35153	
-
-
-35157	
-doric/aeolic
-35161	
-35165	
-
-35170	
+35146	attic
+35158	doric/aeolic
 35174	attic
-
-35177	ionic
-35179	
-35182	
-
-35185	
-35187	
-35189	
-35192	
-epic
+35193	epic
 attic/ionic
 attic/ionic
 epic
-
-35199	
-
 35203	epic
-
-
-
 35208	doric
-35210	
-
-35214	
 35216	ionic/epic/doric/aeolic
-35218	
-
-35221	
-doric/laconia
+35222	doric/laconia
 35225	attic/epic/ionic
-
-35228	
-
-
-ionic/epic/doric/aeolic
-
-epic
+35231	ionic/epic/doric/aeolic
+35233	epic
 attic
-
-doric/laconia
+35236	doric/laconia
 35238	attic/epic/ionic
-35240	
-attic/epic/doric
-35243	
+35241	attic/epic/doric
 35245	doric
-
-attic/epic/doric
-35249	
-35252	
-
-
-35256	
-doric
-35261	
-35263	
-35265	
-
-35268	
-35271	ionic
+35247	attic/epic/doric
+35257	doric
 35274	attic
-35276	
 35278	attic/epic/doric
 35281	epic/doric/aeolic
-
-
-attic/ionic
-35287	
-
-attic/epic
-
-
-
-attic
+35284	attic/ionic
+35289	attic/epic
+35293	attic
 35295	attic/epic/ionic
-
-
-35299	
-doric
-
-35304	
-attic/epic/doric/ionic
-35308	
-35312	
+35305	attic/epic/doric/ionic
 35321	attic/epic/doric/ionic
-35324	
 35327	attic/epic
-
-attic/epic/doric
-35331	
-35333	
-
-35336	
-
-
-
-35341	
-epic/doric/aeolic
+35329	attic/epic/doric
+35342	epic/doric/aeolic
 doric
-35345	
-
-35349	
-35353	
-
+35345	attic
 35358	epic/ionic/attic/doric
-
-
-
 35364	doric/aeolic
-
-
-
-35369	
-35372	
-epic
+35373	epic
 35376	doric/aeolic
-35378	
-
-
-
-35383	
-
-35387	
-
-
-
-35393	
-
-35396	
-
-attic/ionic
+35398	attic/ionic
 35400	epic/ionic/attic/doric
-
-
-
-
-35407	
-
-
-35411	
-
-doric/aeolic
+35413	doric
 doric
 35416	epic
 35420	attic/epic
-35427	
-
-ionic
 35431	doric/aeolic
-35434	
-35436	
-35443	
-35451	
-35453	
 35458	doric/*theocr.
-
-
 35462	attic/ionic
-
-35466	
-35469	
-
-35474	
-35478	
-
-
-
-
-
-
-doric/aeolic
-35487	
-doric/aeolic
-
-attic/ionic/epic/doric
-35494	
-35496	
-
-
-35501	
-
-
-doric/aeolic
-35506	
-
-
-attic/epic
-
-
-
+35485	doric/aeolic
+35488	doric/aeolic
+35490	attic/ionic/epic/doric
+35504	doric/aeolic
+35509	attic/epic
 35517	doric/aeolic
 epic
-
 35524	attic
 epic/doric/ionic/aeolic
-
-epic/doric/aeolic
-
-attic/epic/doric
-ionic
-epic/doric
-epic/doric/ionic/aeolic
-35534	
-attic/epic
-doric/aeolic
-35540	
+35527	epic/doric/aeolic
+35529	attic/epic/doric
+35531	epic/doric
+35535	attic/epic
+doric
 35548	doric/aeolic
 attic
-
-35552	
-
-
-
 35558	doric
-
+35560	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-doric
-
-35567	
-
-attic/epic
+35563	doric
+35569	attic/epic
 35572	doric/*theocr.
-
-
-35577	
 35580	epic/ionic/attic
 35585	doric/aeolic
 doric/aeolic
 35588	epic/ionic/attic/doric
-
-
-
-
-35594	
 35596	attic
-35599	
-
-35602	
-35605	
-
+35606	epic
 doric/aeolic
-
-
-attic/epic/ionic
+35610	attic/epic/ionic
 attic
-
-35615	
-35617	
-attic/epic
+35618	attic/epic
 epic/ionic/attic/doric
-35621	
 35623	epic
-
-35626	
 35628	attic/ionic
-35630	
-
-attic
-
-35637	
-epic
-
+35632	attic
+35638	epic
 35641	doric/aeolic
 35643	epic
-35645	
-35647	
-35651	
-epic
-
-
-
-
+35645	epic
+35652	epic
 35658	doric/aeolic
-
-doric/aeolic
-35664	
-epic
-ionic
+35660	doric/aeolic
+35665	epic
 35668	attic/epic/ionic
 35670	doric/aeolic
 35672	epic
 attic/ionic/epic/doric
-
-
-
-
-35679	
-
-35684	
-35687	
-doric/aeolic
-
-
+35688	doric/aeolic
 35692	epic/doric
-
-doric/aeolic
-
-35697	
-doric
-35701	
-doric/aeolic
-35704	
-attic
-
-35710	
-35712	
-35714	
-35718	
-
-35723	
-doric/aeolic
-
-35728	
+35694	doric/aeolic
+35698	doric
+35702	doric/aeolic
+35705	attic
+35724	doric/aeolic
 35730	attic
-
-
-35734	
-35736	
-epic
-
-35742	
-35745	
-35748	
+35737	epic
 35750	ionic
-
-
-
-35756	
-35758	
-35760	
-epic/ionic
-35764	
-
+35761	epic/ionic
 35771	doric/aeolic
-
-epic
+35773	epic
 epic/ionic
-35776	
-epic
-35779	
-
+35777	epic
 35782	doric/aeolic
-35785	ionic
+35786	doric/aeolic
 doric/aeolic
-doric/aeolic
-
 35790	epic
-
-35794	
-
 35797	attic
-35799	
-attic
-
-35805	
-epic
-35809	
-
-attic/epic/ionic
+35800	attic
+35806	epic
+35811	attic/epic/ionic
 attic/epic/ionic
 35814	epic
-35816	
-ionic
+35817	ionic
 attic/epic/ionic
 35820	doric/aeolic
 35824	epic
 35826	epic
-
-doric
-35831	
-
-
-35835	
-
-
+35828	doric
+35837	attic/epic/doric
 doric
 epic
-35841	
-
-epic
-
-
-
-35849	
-
-35853	
-
-
-
-35858	ionic
-
-
-
-
-35865	ionic
-
-
-
-35870	
-
-35873	
-35875	
-35877	
-35880	
-
-
-35884	
-attic/epic
-35887	
-35889	
-35894	
-
-35897	
-35899	
-35901	
-35904	
-
+35843	epic
+35873	attic
+35880	attic
+35885	attic/epic
+35905	epic
 35908	epic/ionic/doric/aeolic
-35910	
-attic
-
-
-35915	
-35917	
-35919	
+35911	attic
+35919	attic/epic/doric
 attic/epic/doric
-35922	
-
 35925	epic/ionic/attic/doric
-
-35929	
-
-35933	
 35935	epic
-
 35939	attic
-
-35943	
-35946	
-35948	
-
-35953	ionic
-35956	
-doric/aeolic
-
-35960	
-35963	
-ionic
+35957	doric/aeolic
 35966	doric/aeolic
 35968	doric/aeolic
-35970	
-
-35973	
-
 35978	attic
-ionic
-35985	
-35988	
-35990	
-
-
-
-
 35997	attic/ionic
 attic/epic
 36001	attic/epic
 36003	attic
-36006	
 36009	doric/aeolic
-
-36012	
-
-
-epic/doric/ionic/aeolic
+36015	epic/doric/ionic/aeolic
 epic/doric
-36020	
-36023	
-
-36027	
 36030	attic/epic/doric
-
 36033	attic/epic
-
 36036	epic
-
-epic/doric/ionic/aeolic
-36040	ionic
 36042	doric/aeolic
-
-
-36047	doric/aeolic
-36049	
-36052	
-
 36055	attic/epic/ionic
 attic/ionic/epic/doric
-36058	
-
-36062	
-
-36067	
-36071	
-
-
-36076	
 36079	attic/epic/doric
 36083	attic/epic/ionic
 epic
-
-36087	
-36089	
-
-
-36093	
-attic
+36094	attic
 epic
 attic
-
-attic
-
-
-
-
-36105	
+36098	attic
 36107	attic/epic
 36109	attic/epic
-36112	
-attic
-
-36117	
-36124	
-epic
+36113	attic
+36125	epic
 36127	epic/ionic
-
-
-36131	
-attic
-
-ionic
-doric/aeolic
-
-attic/ionic/epic/doric
-36140	
-
-
-
-doric/aeolic
-36146	
-36148	
-36150	
-
-
-
-ionic
+36132	attic
+36135	doric/aeolic
+36137	attic/ionic/epic/doric
+36144	doric/aeolic
 36157	attic/epic/doric
-36159	
-
-
-
-ionic
-36165	
 36167	epic/doric/aeolic
-36169	
-36171	
-
-doric/attic/epic/ionic
-
-attic/epic
-
-36180	
-
-
-ionic
-epic
-36188	
-
-36191	
-
-
-attic
-
-
-ionic
+36169	attic/epic
+36173	doric/attic/epic/ionic
+36175	attic/epic
+36184	epic
+36194	attic
 36201	attic/ionic/epic/doric
-
-36204	
-attic
+36205	attic
 epic/ionic/attic
-ionic
-36214	
-36218	
-36221	ionic
-36225	ionic
-36228	
 36230	attic/epic/doric
-36234	
-36239	
-
-36244	
-
-
-
-
 36250	attic/epic/doric
-
 36254	attic
 attic
-36260	
-
-36263	
-doric/aeolic
-
+36264	doric/aeolic
 36268	attic/ionic/epic/doric
 36274	attic
-
-
-36279	
-
 36286	epic
-ionic
 36289	epic/doric
 attic/epic
-36292	
-
-36296	
-36298	
-
-36301	
-
-epic/doric
-36306	
-
-ionic
-36311	
+36303	epic/doric
 36313	attic
-
-
-attic/ionic/epic/doric
-
-36320	
+36316	attic/ionic/epic/doric
 36322	attic/epic/ionic
-36326	
-attic/ionic/epic/doric
-
-
-
-
+36327	attic/ionic/epic/doric
 36333	attic/epic
 36337	ionic
-36339	
 36341	doric/aeolic
-36344	
 36347	attic/epic/doric
-
 36351	doric/aeolic
-36355	
-36357	
-
 36360	attic/epic/doric
-
 36364	attic
-36368	ionic
-36371	
-
-
-doric/aeolic
+36374	doric/aeolic
 epic/doric/aeolic
-
-
-
-
-36383	
 36385	attic/epic
 epic/ionic/attic/doric
-36388	
-attic/epic/doric
-
+36389	attic/epic/doric
 36394	attic/epic/doric/ionic
-
-attic/ionic
-36398	
-
-
-36402	
-
+36396	attic/ionic
 36407	attic/epic/doric/ionic
-
-
-attic
-
-attic
-36414	
-36417	epic
-
-epic/doric/ionic/aeolic
-attic
-36424	
-
-
-
-
-36430	
-attic/epic/doric
-36434	
-
-
-
-
-attic/epic/doric
 epic
-
+36410	attic
+36412	attic
+36417	epic
+36419	epic/doric/ionic/aeolic
+attic
+36431	attic/epic/doric
+36439	attic/epic/doric
+epic
 36443	epic
-
-36446	
-
-
-
-
-attic/epic/doric
+36451	attic/epic/doric
 36453	epic/doric/aeolic
 36455	doric/aeolic
-36457	
+36458	attic/epic/doric/ionic
+36464	doric
 attic/epic/doric/ionic
-36460	
-36462	
-
-doric
-attic/epic/doric/ionic
-
 36468	attic/epic/doric/ionic
-
 36472	doric
-
-
-36476	epic/ionic/doric/laconia
 36478	attic
-36481	
-doric/aeolic
-36484	
-36486	
-36488	
-
-epic/doric/ionic/aeolic
-
-epic/doric/aeolic
-
-attic/epic/doric
-ionic
-epic/doric
-36498	
-36501	
-
+36482	doric/aeolic
+36490	epic/doric/ionic/aeolic
+36492	epic/doric/aeolic
+36494	attic/epic/doric
+36496	epic/doric
+36503	attic
 attic
+36507	epic/doric/aeolic
+36519	doric
+36521	attic/epic/ionic
 attic
-
-
-epic/doric/aeolic
-
-
-
-36512	
-36515	
-36517	
-
-doric
-
-
-attic
-
-
-36529	ionic
 36531	doric/aeolic
-
-
-36535	
-
-
-
-
-
 36542	attic/epic/ionic
-36549	
-36553	
-36559	
-36561	
-
-
-
+36562	attic/epic/ionic
 36566	doric/aeolic
-
-36569	
-
-36572	
-36576	
-36581	
-attic
-epic
-
+36582	attic
 36586	epic/doric
-36591	
 36594	epic/doric
-36599	
-
-
-36603	
-36606	
-36614	
-36616	
 36619	doric/aeolic
-
-
-
-
-36628	
 36632	doric/aeolic
 attic
-
-36636	
-36638	
-36642	
-ionic
-36645	
 36649	doric/aeolic
-36655	doric/aeolic
-36657	
-36660	ionic
-36662	
+36662	attic
 doric/aeolic
-
-
-
-36669	
-36672	
-
+36665	attic/epic
+36672	attic
 36675	epic/doric
-36677	
-36683	
-
-doric
+36685	doric
 epic/doric
-
-ionic
-doric/laconia
-36694	
-
+36689	doric/laconia
+36696	doric/aeolic
 doric/aeolic
-doric/aeolic
-36705	
-36707	
-ionic
-
-36712	
-36714	
-
-
-
-
-
-
-
-
-
-36725	
-
-doric
+36708	ionic
+36712	epic
+36727	doric
 attic/epic/ionic
-36730	
-doric
-
-
-
-
-
+36731	doric
 36739	attic/epic/ionic
 attic/epic/doric
-36742	
-36746	
-
-
-
 36752	attic/epic/doric
-36754	epic/doric/ionic/aeolic
-36756	
-36758	
-
-
-
-epic/doric/ionic/aeolic
 36767	doric/aeolic
-ionic
 36770	attic/epic
-36772	
 36774	attic/epic/doric
-36777	
 36779	ionic
-36782	
-
-36785	
-attic
-
+36786	attic
 36790	doric/aeolic
-36792	
-
-attic
-36796	
-
-attic/epic/doric
-36801	
-
-epic/ionic
-
-
-36808	
-36810	ionic
-doric/aeolic
-
-doric/aeolic
-36816	
-36818	
-36820	
-36822	
-attic
-
-36826	
+36794	attic
+36798	attic/epic/doric
+36803	epic/ionic
+36811	doric/aeolic
+36813	doric/aeolic
+36823	attic
 36830	epic
-
-36834	
 36836	epic/ionic
-
-epic
+36838	epic
 attic
-
-
-epic/ionic/attic/doric
-36845	
-36847	
-
-36852	ionic
-
+36842	epic/ionic/attic/doric
 36858	doric/aeolic
-36863	
 36867	epic/doric/aeolic
-
-
-36871	
-36873	doric/aeolic
-
-36876	
 36879	doric/aeolic
-36881	
-36889	
-
-ionic
-36894	
 36897	epic/doric
 36899	epic
-36901	
-
-attic/epic
-
-36906	
-36911	
-36913	
-
-36916	
-
-epic/doric/ionic/aeolic
-36920	
-attic/epic
-36924	
-
+36903	attic/epic
+36921	attic/epic
+36926	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-
-doric/aeolic
+36930	doric/aeolic
 36932	attic/ionic/epic/doric
-36934	
-
-36937	
-attic/epic/doric
+36938	attic/epic/doric
 epic
-36941	
 36944	epic/ionic
 attic/epic/ionic
-36948	
 36950	doric
-
-36953	
-doric
-
-
-
-
-
-36961	
-36964	
-36966	
-36968	
+36954	doric
 36970	epic/ionic/attic/doric
-
-36973	
-attic
-
-
-36978	
-
+36974	attic
 36982	attic/epic
-36984	
-
-attic/epic
+36986	attic/epic
 36989	attic
-
-
-36994	
-
-
-
 36999	attic/epic/ionic
-37001	
-37005	
-epic/ionic
-
+37006	epic/ionic
 37009	epic
-37013	
-
-
-doric
-
 37022	doric/aeolic
-37025	
 37027	doric
 37033	doric/aeolic
-
-37036	
-
-
-
-37043	
-
-37046	
-
-37049	
-37051	
-37053	
-37057	
-37060	
-37063	
-
-37068	
-
+37043	attic
+37068	attic
 37074	doric
-37076	
-epic
+37077	epic
 attic
-
-
-37082	
-
-
-epic
-
+37085	epic
 37088	attic
-37091	
-
-attic/epic/doric
-
+37093	attic/epic/doric
 37096	doric
 37098	epic
 doric
-
-
 37103	epic/ionic
-
-
 37107	epic/ionic/attic
-
-
+doric
+attic
 attic/epic/doric
 37112	doric/aeolic
 attic
-
-37117	
 37119	doric
 37122	doric/aeolic
-37126	
 37128	attic/epic/ionic
-37132	ionic
-37134	
-37138	
-attic/epic
-37143	
-attic
+37139	attic/epic
+37144	attic
 epic/ionic/attic
-
-
-37149	
-37151	
-
 37155	attic/epic/doric
 37158	attic/epic/doric
-
 37161	doric/aeolic
-
-37164	
-epic/ionic
-37167	
-epic
-
-37171	
-
-37175	
-
-37178	
-37180	
-37182	
-
-
-doric/aeolic
-37187	
-
+37165	epic/ionic
+37168	epic
+37185	doric/aeolic
 37192	doric/aeolic
-
 37197	attic/epic/ionic
-37200	
-37203	
-attic/epic
-
-37208	
-
-
-
-37215	
-
-37218	
+37204	attic/epic
 37223	doric/aeolic
 attic/epic
-37226	
-37229	
-37232	
-
-doric
-
-
-
-37239	
-
-37248	
-attic/epic
-37252	ionic
+37234	doric
+37249	attic/epic
 37256	doric/aeolic
-37258	
 37261	attic/epic/doric/ionic
-37264	
-epic
-
-
-37269	
-
-37272	
-attic/epic
+37265	epic
+37273	attic/epic
 37276	epic/doric
-37278	
-37282	
-37286	
 37289	ionic
-37291	
-37295	
-doric/aeolic
-
-
-
-
-attic
-
-attic/ionic/epic/doric
-
+37296	doric
+37301	attic
+37303	attic/ionic/epic/doric
 37308	attic/epic/doric
-37310	
+37311	attic
 attic
-attic
-37314	
-37316	
-
-
-
-37322	
-
-doric/aeolic
+37324	doric/aeolic
 37328	attic/epic/doric
-37330	
-37334	
-37336	
-37338	
-attic
+37339	attic
 37342	attic/epic/doric/ionic
-37344	
-
 37348	epic/doric/aeolic
-
-
-
-
-doric
-37356	
+37353	doric
 37358	epic/ionic/attic/doric
-37360	
-
-
-
-
 37367	attic/epic/ionic
-
-
-epic
+doric
+37370	epic
 37372	epic/doric
-37374	
-epic/doric
-
-37380	
-37384	
-epic/doric
-37388	
-37390	
-attic/ionic
-37393	
-
-attic/epic
+37375	epic/doric
+37385	epic/doric
+37391	attic/ionic
+37395	attic/epic
 37397	attic/epic
-37400	
 37406	attic/epic
-
-
-37412	
-
 37415	attic
-
-37419	
-
-attic/epic/ionic
 37423	epic/ionic/attic/doric
-
 37427	epic/doric/aeolic
-
-
-37431	ionic
-
 37434	epic/doric
 37436	doric
-37438	
 37440	epic
 attic
-
-
-37445	ionic
-
-
-
 37450	attic/epic/doric
 37455	epic/doric/aeolic
-
-37458	
-
-
-attic
+37461	attic
 37465	attic/ionic
-37467	
-attic
-37471	
-37474	
-
-37477	
-
+37468	attic
+37478	attic
 epic/doric
-37481	
-
-37484	
-doric
+37485	doric
 37489	ionic
-
-37492	
-37496	
-37498	
-
 37501	doric/aeolic
 doric
-37505	
-
-attic/epic
-37509	
-
-37514	
-
-doric
-37519	
-37521	
-37523	
-
-attic/epic/ionic
-doric
-
+37507	attic/epic
+37514	attic
+37516	doric
+37526	doric
 37531	epic/ionic/attic/doric
-37533	
-
-
-
-epic
-
-
-attic/epic
-37542	
-
-
-37548	
-
-attic/epic
-37552	
-
-37557	
-
-
-37562	
+37537	epic
+37540	attic/epic
+37550	attic/epic
+37558	attic/epic/ionic
 37565	epic/doric
-
-epic/doric
-37571	
-attic/epic
-
+37567	epic/doric
+37572	attic/epic
+37574	doric/aeolic
 doric/aeolic
-doric/aeolic
-37578	
 37584	attic
-37586	ionic
-37589	
 37592	epic/ionic/attic
-
-37596	
-ionic
-37601	
-
-37604	
-ionic
-37607	
-37610	
-epic/doric/aeolic
-
-ionic
-37617	
-doric/aeolic
-37621	
-epic/ionic
-
-37625	
-37627	
-
-attic
-
-37632	
+37605	ionic
+37611	epic/doric/aeolic
+37618	doric/aeolic
+37622	epic/ionic
+37629	attic
 37634	epic
 37636	attic/ionic
-
-37639	
-ionic
-doric
-37643	epic/doric/ionic/aeolic
-
-
-
-
-
-
-
-37653	
-
+37641	doric
 37656	doric/aeolic
-
-37659	
-
-
-
-
 37666	epic
-37668	
-
-attic
-
-attic/epic
-
+37670	attic
+37672	attic/epic
 37675	epic
 attic
-
-
-
-
-37683	
-
-37687	
-attic/epic/doric/ionic
-37690	
-37692	
-
-37695	
-37697	
-37700	
-
-37703	
-37706	
-
-37709	
-
-37714	
+37688	attic/epic/doric/ionic
 37716	doric/aeolic
 attic
-
-
-37723	
-
-
-
-37728	
-37730	
-37732	ionic
-37735	
-
-37740	
-
 37743	attic/epic/doric
-37745	
 37749	attic/epic/doric
-ionic
-
-doric
-37755	
-
-attic
-
-
-37761	
-37763	
-
-37766	
-37768	
-37770	doric/aeolic
+37757	attic
 37773	epic/ionic/attic
-
-ionic
-
-37780	attic/epic/doric
+37776	attic/epic/ionic
 37784	epic
-37788	
-37792	
 37794	doric/aeolic
-
-
 37798	attic
-
-attic
+37800	attic
 37803	epic/doric/aeolic
 doric
-ionic
-37808	
-
-attic/epic/doric
-
-epic/doric
-
-37815	
-
-doric
-
-
-37821	
-doric/aeolic
-
-37826	
-
-37829	
-doric
-ionic
-37834	
-
-doric/aeolic
-
-
-attic/epic/ionic
+37810	attic/epic/doric
+37812	epic/doric
+37817	doric
+37822	doric/aeolic
+37830	doric
+37834	attic
+37836	doric/aeolic
+37839	attic/epic/ionic
 attic/epic
-37842	
 37844	doric/aeolic
-
+attic/epic
 37847	epic
 doric
-37852	
-doric/aeolic
+37853	doric/aeolic
 epic/doric
-
 37859	epic/doric
-
-
-37864	
-
-
-37870	
-37872	
-37875	
 37877	attic
-
-
-
-
-
-
-ionic
-doric/aeolic
-37887	ionic
-37889	
+37885	doric/aeolic
+37889	attic
 37894	epic/doric
-
-
-
-doric
-37900	
-37902	
+37898	doric
 37904	attic/epic
-37906	
-
 37910	epic/doric
-
-
-attic
-
-ionic
-37918	
-37920	
-37922	
+37913	attic
+37918	attic
 37924	epic/doric
-37926	ionic
-doric/aeolic
+37927	doric/aeolic
 doric/aeolic
 37930	epic/ionic
-epic/doric/ionic/aeolic
 37935	attic/ionic
 attic
-
 37940	epic/doric
-ionic
-37944	
-doric
-
+37945	doric
 37948	ionic
-
-37951	
-
-attic
-
-
-doric
-
-37959	
-
-
+37953	attic
+37956	doric
+37962	attic/epic/ionic
+37967	attic/ionic
 attic/epic/ionic
-
-37965	
-
-attic/ionic
-attic/epic/ionic
-37970	
-37973	
-37975	
-
-
-
-37982	
-attic
-
-doric/aeolic
-
+37983	attic
+37985	doric/aeolic
+37987	doric
 doric
-doric
-
-
-37996	
-
-38000	
-38002	
-
-attic/ionic
-
-doric
-38010	
-
-
-38014	
 attic
-
-attic/ionic
-
-
-epic/doric
-
-
-38024	
-
-epic/doric
-
-attic/epic
-
-38031	
-
-attic/epic
-38035	
-38037	
-38039	
-
-
-
-
-
-38046	
-
-
+38004	attic/ionic
+38006	doric
+38011	doric
+38014	doric
 attic
-
-attic/epic
-38053	
-
-38056	
-attic/epic/doric
-38060	
-
-
-attic
-
-
-attic/epic/doric
+38017	attic/ionic
+38020	epic/doric
+38026	epic/doric
+38028	attic/epic
+38033	attic/epic
+38049	attic
+38051	attic/epic
+38057	attic/epic/doric
+38063	attic
+38066	attic/epic/doric
 38068	doric
 38070	doric/aeolic
 attic
-38073	
-38076	
-38078	
-
+38079	attic/epic/ionic
 38082	attic
 38086	epic/doric
-
-
-
-
-
-
-
-
-
-
 38098	doric
-
-
-38102	
-
 38105	epic/doric
-38107	
-38109	
-
-38112	
-
-attic
+38114	attic
 attic/epic
 38117	attic/epic
-
-38120	
-attic/epic/doric
-
-
-
-attic
-
+38121	attic/epic/doric
+38125	attic
 38129	attic/epic/ionic
-
-attic/epic/ionic
-
-
-
-38136	
-38139	
+38131	attic/epic/ionic
 38141	epic
-
-38144	
-38146	
-38148	
-
-
-38153	
-attic
-38156	
+38154	attic
 38159	ionic
-
-38162	
-epic
-
-
-
-38169	
-38171	
-38173	
-
-
-epic
+38163	epic
+38176	epic
 38179	doric/aeolic
 doric/aeolic
-
-epic
-
-epic/doric/ionic/aeolic
-epic
+38182	epic
+38185	epic
 38188	epic/doric/aeolic
 38190	doric/aeolic
-
-
-
-38195	
-38197	
-
-
 38201	doric
-
 38204	doric/aeolic
 38206	parad_form
 38208	attic/epic/doric
-
-38211	
-38213	
-38216	
-
-
-38220	
-38222	epic/doric/ionic/aeolic
-attic/epic/doric
-38225	
-
-
-38229	
-38231	
-
-attic/epic/ionic
-
-
-
-38238	
-38241	
-attic/epic
-
-
-38246	
-38248	
+38223	attic/epic/doric
+38233	attic/epic/ionic
+38242	attic/epic
 38250	epic/ionic/attic/doric
-
-attic/ionic
-
-38255	
-
-
-attic/epic/ionic
+38252	attic/ionic
+38258	attic/epic/ionic
 38260	ionic
-
-38263	
-attic/epic/ionic
-
-
-
-38269	
-attic/epic/ionic
-
-38273	
-38275	
-attic/epic/ionic
-
-
-
-38282	doric/laconia
-
-
-
-
-38288	
-doric/aeolic
+38264	attic/epic/ionic
+38270	attic/epic/ionic
+38276	attic/epic/ionic
+38289	doric
 doric
 38292	attic/epic/doric/ionic
-38294	
-
-38298	
-38300	
-38304	epic/doric/ionic/aeolic
-
-38307	
-doric/laconia
-38310	
-
-
-38314	
-38316	
-38318	ionic
 38321	ionic
 epic
 epic/ionic
-38328	
-38330	
 38332	doric/aeolic
-
-doric/aeolic
+38334	doric/aeolic
 38336	epic
-
-38339	
-
-
-attic/epic/ionic
+38342	attic/epic/ionic
 38344	attic/epic/doric
-38346	
-doric/aeolic
-38351	
 38356	attic/epic/doric
-
-38360	
-38362	
 38366	attic/epic/doric
-
-38370	
-
-38373	
-epic/doric/ionic/aeolic
-
-38377	
-attic/epic/ionic
-38381	
+38374	epic/doric/ionic/aeolic
+38378	attic/epic/ionic
 38383	doric/laconia
-38387	ionic
-38391	
-38393	
 38396	attic/epic/doric
 38400	attic/epic
-38403	
-38405	
-38407	
-
-
+38409	attic
 attic/ionic
 attic/epic/doric
-
-attic/epic
-38416	
-
-
-38420	
-attic/epic/doric
-doric/laconia
-attic/epic
-
+38413	attic/epic
+38421	attic/epic/doric
+38423	attic/epic
 38426	attic
-38428	ionic
 38430	epic/doric/aeolic
-
-38433	
-
-
-38437	
-38439	
-
-38442	
-
-
-attic/epic/doric
+38445	attic/epic/doric
 38448	attic/epic/doric/ionic
-doric/aeolic
-
 38452	attic/epic
-38456	
-ionic
-38459	
-38462	
-38464	
-ionic
-38467	ionic
+38465	ionic
 38469	doric/aeolic
-38471	
-epic/doric/aeolic
+38472	epic/doric/aeolic
 38474	attic/epic
-38476	
 38478	epic
 38482	attic
-
-38487	
-
-38490	
-38492	
 38494	doric/aeolic
-
-38497	
-
-
-
-
-
-
-38505	
-attic/epic/ionic
+38506	attic/epic/ionic
 38509	attic/epic/doric
 epic/ionic
-38513	
 38516	epic/ionic/attic/doric
-38518	
-38520	
-
-
-
-
-38526	
-
-
-
-38532	
-
-
 38538	doric/aeolic
-38540	
-38542	
-38545	epic/doric/ionic/aeolic
-38547	
-attic/epic
-38551	
-
-
-
-
-
-
-
-
-
-
-38564	
-
-
-38570	
+38548	attic/epic
 38573	epic/doric/aeolic
-
-
-38577	
-38580	
-
 38584	doric/aeolic
-
-38587	
-
-
-38592	
-38594	
-
-attic
+38596	attic
 38599	doric
 38602	attic
 doric/aeolic
 doric/aeolic
-
 38611	doric
 attic
-38614	
-
-
-ionic
-38619	epic/doric/ionic/aeolic
-
-38623	
-
-epic/doric
-
-
+38625	epic/doric
 38629	epic
-38632	
-38634	
-
-epic
-
+38636	epic
 38639	attic/epic
-38642	
-
-38645	
-
-38650	
-
-
-
-
-38656	
+38656	epic
 epic/ionic/attic/doric
-
-
+38659	attic/epic/ionic
 38661	doric
-
-doric/aeolic
-
-
-doric
-38668	
-
-
-38672	
-ionic
-38675	
-epic
-
+38663	attic/epic/doric
+38666	doric
+38676	epic
 38679	doric
-38681	
-
-doric
-
-38686	
-
-
-doric
-
-38693	
-
-
+38683	doric
+38689	doric
+epic
+38695	epic
 38698	doric/aeolic
-
-38701	
-
-
-ionic
-
-doric
-
-
+38704	ionic
+38706	doric
 38711	doric
-
-38715	
-38717	
-doric
-38721	
-38723	
-38725	
-attic/epic/ionic
-
+38718	doric
+38726	attic/epic/ionic
 38729	attic/epic
 doric
-
-
-38734	
-epic/doric
-38738	
-
-epic
-
-
-38746	
-
-
-38750	
-
-
-
-
-
-38758	
-38760	
-38762	
-38765	
-epic/doric
-
-
-
-38771	
-
-
-
-38776	
+38735	epic/doric
+38740	epic
+38766	epic/doric
 38778	attic/epic/doric
-38780	epic/doric/ionic/aeolic
-epic/doric/aeolic
-38783	
+38781	epic/doric/aeolic
 38786	epic/doric/aeolic
-
 38790	attic
-
-38794	
-38798	
-attic/epic/doric
+38799	attic/epic/doric
 doric
-38802	
-
-epic/ionic
-
+38804	epic/ionic
 38807	attic/epic
-
-
-
-
-
-
-attic/epic/doric
-38818	
-
-attic/epic/doric
-38822	
+38814	attic/epic/doric
+38820	attic/epic/doric
 38825	doric
-
-
-38829	
-
-doric
-
-38835	
+38831	attic/epic/ionic
 38838	ionic
-
-38841	
-
-38845	
-
-38850	
-38852	
-
-
-
-
-
-38861	
-
-
 38865	attic/epic/doric
-
-38868	
-
-
-
-
-epic/doric
-
-
+38873	epic/doric
+38876	epic
 epic
-
 38880	epic/doric
 doric/aeolic
-38883	
-38885	
-38887	
-attic/epic/doric
-
-
-
-
-
+38888	attic/epic/doric
 38895	epic/doric
-
-
-attic
-
-38901	
-38904	
-38906	
-epic/doric
-
-
-38911	
-
-
-38917	
+38898	attic
+38907	epic/doric
 38919	attic/ionic
 38922	doric/aeolic
-
-
-38926	
-38929	
-
-
-
-
-
-
-38937	
-38939	
-38942	
-
-epic/ionic/attic/doric
-38946	
-
-38950	
-38952	
-
-attic
-
-38959	
-attic/epic/doric
-38963	
-
-
-
-ionic
-38970	
-38972	
-38974	
-
-
-38978	
-
-38982	
-
-38985	
-
-
-38989	
-attic/epic/doric/ionic
-
-38994	
-
-attic
-
-
-
-
-
-39004	
+38935	doric/ionic
+38944	epic/ionic/attic/doric
+38954	attic
+38960	attic/epic/doric
+38990	attic/epic/doric/ionic
 attic/epic
+38996	attic
+39005	attic/epic
 attic/epic
-39008	
-attic/epic/ionic
-
-epic/doric
-39013	
+39009	attic/epic/ionic
+39011	epic/doric
+39014	attic
 attic
-attic
-
-
-
-
-
-
-attic/epic/ionic
-
-39030	
-attic/epic/doric
-
-
+39022	attic/epic/ionic
+39031	attic/epic/doric
 39037	attic
-
 39040	epic
-
-39043	
-
-
-attic/epic
+39046	attic/epic
 attic
-
-39050	
-doric/aeolic
+39051	doric/aeolic
 39054	attic/epic
-39057	
-39060	
-
-39068	
-39075	
-epic
+39076	epic
 attic
-
-
-
-
-
-attic
-39085	
-
-attic/ionic
-
-
-doric
-39092	
-39095	
-39097	
-
-
-
-
+39083	attic
+39087	attic/ionic
+39090	doric
 39103	attic/epic/ionic
-
 39106	doric/aeolic
-
 39109	attic/epic/doric
-
-
-39116	
-
-attic/ionic
-
-39121	
+39118	attic/ionic
 39124	attic/epic/doric/ionic
-39126	
-39128	ionic
 39133	attic/epic/doric
-
-39138	
-
-ionic
-attic/epic/ionic
+39141	attic/epic/ionic
 epic
-ionic
-
-39148	
 39150	doric/aeolic
-
-
-
-39157	
 39159	attic
-39162	
-39164	
-39166	
-39168	
-attic
-39172	
-39175	
-
-39180	
-39185	
-
-epic/ionic/attic/doric
-39189	
+39169	attic
+39187	epic/ionic/attic/doric
 39191	attic
-39193	
-
-
-39197	
-39201	
-
-
-
-
-39207	
-
-39210	
-
-
-39214	
-39216	
-
-
-
-
 39222	attic/epic
-
-
 39228	attic/ionic
-39230	
 39233	epic
-
 39237	attic/epic/doric
-39239	
-
-
 39244	attic
 attic
-
-39248	
-
-39254	
 39258	attic
 39261	attic
-39263	
-39266	
+39266	epic
 epic/doric
-
-attic/epic/ionic
-39271	
-39273	
-
-
-39280	
+39269	attic/epic/ionic
+39280	epic
 attic/ionic/epic/doric
-
-
-
-epic
+39285	epic
 39288	attic/epic/doric
-
-
-doric
+39291	doric
 39293	doric/aeolic
 39295	doric
-39298	
-
-39301	
-39306	
-39309	
 39314	doric/ionic
 attic
-
-
 39319	attic/epic
-
-
-
-
 39325	doric
-39328	
-
 39331	doric/aeolic
-
-39338	
 39340	epic
 39342	doric
-
-
-
-
-
-
-39351	
-epic
-
-attic/epic/doric
-
-
-doric/aeolic
+39352	epic
+39354	attic/epic/doric
+39357	doric/aeolic
 epic/ionic/attic/doric
-39360	
-
-
-
-
-39366	
-
-39369	
-39371	
-39373	
-epic/doric/ionic/aeolic
-doric
-39379	
-
-39382	
-39388	
-
-epic/doric
-
-
+39375	doric
+39390	epic/doric
 39394	attic/epic/doric
 39396	doric
-
-attic/epic
-
-
-
-
-
-39405	
-epic/doric
-
-39409	
-39411	
+39398	attic/epic
+39406	epic/doric
 39413	attic/epic
-39416	
-
-epic/doric
-
-39422	
+39418	epic/doric
 39426	attic/epic
-
-39430	
-
-attic
-
-
-39436	ionic
-39438	epic/doric/aeolic
-39442	
-
 epic
+39432	attic
+39438	epic/doric/aeolic
+39444	epic
 39446	attic/epic/doric/ionic
-
-
-39450	
-39452	
-
-39455	
-
-
-attic
-
-39461	
-39463	
-39466	
+39458	attic
+39466	doric
 39469	attic
 39472	attic
-
 39475	attic
 attic
 epic
-
-doric
-
-
-39483	
+39479	doric
 39486	doric
-39489	
-
-39492	
-39496	
-39504	
-
-
-
-39509	
-39511	doric/aeolic
+39511	doric
 39514	attic/epic
-39516	
-
-39520	
-
-
-attic
-39525	
-
-39529	
+39523	attic
 39531	attic
 attic
 39534	attic/epic/doric
-39536	
-attic/epic
+39537	attic/epic
 39540	epic/doric/aeolic
-
-
-
-
-
 39550	epic/doric/ionic/aeolic
-
-39555	
-39557	
-
-39561	
-
-
-39566	
-
-
-
-
-epic/ionic
-
-attic/epic
+39571	epic/ionic
+39573	attic/epic
 attic
-39577	
-39582	
-39586	
-
-doric
-
+39588	doric
 39591	doric
 39593	attic/epic/doric
-
-
-
-
-
-39603	
-
-
-
-
-
-
-
 39612	doric
-
-
-
-39617	
-39619	
-
-doric/aeolic
+39621	doric/aeolic
 attic/epic/doric
-ionic
 39625	doric/aeolic
 epic
-
-doric
-39630	
-
-39633	
-attic/epic/doric
+39628	doric
+39631	attic/epic
+39634	attic/epic/doric
 39638	epic
-
-
-
-39643	
-epic/ionic/doric/laconia
-attic
-
-doric/aeolic
-39649	
+39645	attic
+39647	doric/aeolic
 39653	epic/doric
-
-39656	
-epic/ionic
-
-
-
-
+attic/epic/ionic
+39657	epic/ionic
 39663	doric
-39666	
-
-
-
-
-
-
-39674	
-epic
+39666	attic
+39675	epic
 attic
-
-
-
-
-
-
-attic/epic/doric
+39683	attic/epic/doric
 attic
-
-
-39690	epic/ionic/doric/laconia
-
-
-
-epic/ionic/doric/laconia
-
-attic/epic/doric
+39696	attic/epic/doric
 attic
-
 39702	attic/epic/doric/ionic
-39704	ionic
 39707	attic
-
-39710	
-attic/epic
-39713	ionic
-39715	
-39718	
+39711	attic/epic
 39723	epic/doric
-
-doric/aeolic
+39725	doric/aeolic
 doric/aeolic
 39728	doric/aeolic
 doric/aeolic
 39731	doric/aeolic
 doric/aeolic
-
-attic/ionic/doric
-
-
-
-attic/ionic/epic
-
-
-
-39744	
-39746	
-epic/doric
-
-39750	
-
-
-attic/epic
-39755	
-39757	
-
+39734	attic/ionic/doric
+39738	attic/ionic/epic
+39747	epic/doric
+39753	attic/epic
+39759	attic
 attic
-attic
-
-39763	
-attic/epic
-39766	
-39769	
+39764	attic/epic
 39771	doric/aeolic
-
-39774	
-
-39777	
 39780	attic/epic/ionic
-
-attic/epic/ionic
+39782	attic/epic/ionic
 39784	epic/doric
-
 39789	epic
-39791	
-
-attic/epic/ionic
-
-
-
-
+39793	doric/aeolic
+39798	attic/epic
 attic/epic
-attic/epic
-
-
-attic/epic/ionic
-
-39805	
-
-
-
-
+39802	attic/epic/ionic
 39811	epic/doric
-39814	
-
-
 39818	epic/doric
-
-
-39823	
-
-
-
-doric
-
-
-
-
-
-39834	
-
-39837	
-39839	
-
-
+39827	doric
+39842	doric/aeolic
 doric/aeolic
-doric/aeolic
-39846	
-39848	
-
-
-39854	
-
-
+39849	attic/epic
 39858	attic/epic/ionic
-
-
-
-attic/epic/ionic
+39862	attic/epic/ionic
 epic/ionic/attic
-
-
-
-ionic
-doric/aeolic
-
-attic/epic/doric
-
-
-attic/epic/doric
-
-39876	
-
+39868	doric/aeolic
+39870	attic/epic/doric
+39873	attic/epic/doric
 39879	attic/epic/ionic
-
-
-39884	
-
-attic/epic/doric
-
-
-
-39892	
-39895	
-39897	
-39899	
-ionic
-
-
-
+39886	attic/epic/doric
 39907	epic/doric/aeolic
-
-
-39911	
-doric
-
-
-
-
-
+39909	doric/aeolic
+39912	doric
 39920	attic/epic
-39922	
-doric
-
+39923	doric
 39926	doric/aeolic
-
 39930	doric/aeolic
 39934	attic
-39936	
-39938	
-
 39941	epic
 39943	epic
-39945	
-39948	ionic
-doric/aeolic
-39951	
-39953	
-39955	
-
-39958	
-
-
-
-39963	
-epic/doric
+39949	doric/aeolic
+39964	epic/doric
 epic/ionic/attic/doric
 doric/aeolic
-
 39969	doric/aeolic
-
-
-39973	
-39975	ionic
-
-
-
-
-
-
-
-
-
-
-
-39988	
-39990	
-
 39993	doric
-ionic
-
-
-doric
-
-epic
-
-40002	
-epic
-40005	
-40007	
-40011	
-40015	ionic
-40017	
-
-40021	
-
-
-epic/doric
-40028	
-
-
-40033	
-doric
-40036	
-
-
-40040	
-
-doric/aeolic
+39997	epic
+39999	epic
+40003	epic
+40024	epic/doric
+40034	doric
+40042	doric/aeolic
 attic
 attic
 attic/epic/doric
 epic/doric
-40048	
-40051	
-ionic
-40054	
-
+40052	ionic
 40057	doric/aeolic
-
-40060	
 40062	doric
-
+attic/epic/ionic
 attic
-40066	
-
-
-epic/doric
-
+40069	epic/doric
 40072	epic/doric
 40074	doric
 40076	doric/aeolic
-
-
-
-epic/doric
+40080	epic/doric
 40082	epic
-40084	
-
-40087	
-
-40090	
-
-40093	
-40096	
-40098	ionic
-
-
-40104	
 40106	epic/doric
-
-40109	
-ionic
+attic/epic
+40110	ionic
 epic/doric
 40114	epic/doric
-
-
-doric/aeolic
-40119	
+40117	doric/aeolic
 40124	attic/ionic
-40128	
-
-
-
-
-
-attic/epic/doric
-
+40134	attic/epic/doric
 40139	epic/doric/ionic/aeolic
-
-
-
-
-
-40148	
-
-
 40152	attic/epic/ionic
-
-doric
-
-epic
-40158	
+40154	doric
+40156	epic
 40162	attic/ionic
-
-40165	
-
-
-40169	
-
+40171	epic/ionic
 epic/ionic
-epic/ionic
-
-40175	
-40177	
-epic
+40178	epic
 40182	ionic
-
-
-40186	
+40187	doric
 doric
-doric
-
-
-40193	
-
-
-
-40199	
+40194	attic
 40202	ionic
-
-
-
-
-
-attic/epic
-
-epic
+40208	attic/epic
+40210	epic
 attic
-
-40214	
-40216	
-
-
-40220	
 40222	epic/doric
 40224	epic
-
-40230	
-
-
-
-
-40236	
-
-
-
-40241	
-
-
-
-
-40247	
-
-attic
-40251	
-
+40249	attic
 40254	doric/laconia
-
-
-
-40259	
-40261	
-
-
-
-attic/epic/doric
-40268	
-doric
-
-
-attic/epic/ionic
+40265	attic/epic/doric
+40269	doric
 40274	attic/epic/doric/ionic
-
-
 40278	doric/aeolic
-40280	
-
-
-40284	
-
-ionic
-
-
-
-
-
+40286	ionic
 40294	doric
 40299	doric/aeolic
 doric/aeolic
-40302	
+40302	doric
 40304	epic/ionic/attic/doric
-40307	
-
-
-attic
-
-
-
-
-
-
-epic
-40319	
-
-
-
-ionic
-40325	
-40330	
-
-
-attic/epic/doric
-
-40337	
-
-
-40342	
-attic
-
-
-40347	
-
-
-
-40353	
-
+40310	attic
+40317	epic
+40323	ionic
+40333	attic/epic/doric
+40343	attic
 40356	doric/aeolic
-
-40359	
-40361	
-40363	
-
 40366	doric/aeolic
-40375	
-40380	
-attic/epic/doric/ionic
-40384	
-attic/epic/doric
-
+40381	attic/epic/doric/ionic
+40385	attic/epic/doric
 40388	attic/epic/ionic
-40390	
-
-
-doric/aeolic
-
-40397	
-40400	
-40402	
+40393	attic/epic/doric
+40402	doric
 40405	attic/epic
-
-epic/doric
-40410	
-
-attic/epic/ionic
-
-
-doric
-40417	
-40421	
-attic
-40425	
+40407	epic/doric
+40412	attic/epic/ionic
+attic/epic
+40415	doric
+40422	attic
 40429	attic/epic
-
-
-40434	
-40436	
-40438	
 40441	epic
-
-
-
-
-40448	
-
 40452	doric/aeolic
-
-40459	
 40461	doric/aeolic
 epic
 40466	attic/epic/doric
-40468	
 40470	doric
-
 40473	epic/doric/ionic/aeolic
-
-
-
-40484	
-
-
-doric
+40487	doric
 40491	doric/aeolic
 40495	attic/epic/ionic
 40497	attic
-
-
-40502	
-40505	
-
-
-
-40512	
-
-
-40516	
-
 40519	epic/ionic/attic/doric
-
+40521	attic
 attic
-attic
-
-40525	
-
-
-
 40530	doric/aeolic
-40533	
-
-
-
-
 40540	attic/epic/ionic
-40542	
-attic/epic/ionic
-
-
-attic/epic
-40549	
-40551	
-attic/epic/doric/ionic
-ionic
-40555	
-
-
-
-
-40561	
-40564	
-
-
-doric/aeolic
+40543	attic/epic/ionic
+40546	attic/epic
+40552	attic/epic/doric/ionic
+40561	doric
+40567	doric/aeolic
 40569	doric
-
-
-attic/epic
-
-
-
-
-
-
-
-40581	
-40584	
-
-epic/doric/ionic/aeolic
-
+40572	attic/epic
+40586	epic/doric/ionic/aeolic
 40589	epic/ionic/attic/doric
-
-
-attic/epic
-
-
-40598	
-40603	
-
-40606	
-
-doric
+40592	attic/epic
+40606	attic/epic
+40608	doric
 40610	doric/aeolic
-
-
-40614	doric/aeolic
-40616	
-40618	
-
 40623	epic
-
-40626	
-attic/epic
-40630	
+40627	attic/epic
 40632	attic/epic
-
 40635	doric/aeolic
-40637	
-40640	
 40642	attic/epic/doric
-40644	
-
-doric
+40644	attic/epic
+40646	doric
 40648	doric/aeolic
-
-
 40654	epic
 40658	epic/doric
 epic/ionic/attic
-40661	
-40663	
-attic/epic
-40666	
-40668	
-attic/epic/ionic
-
-
-40674	
-
-
+40664	attic/epic
+40669	attic/epic/ionic
 40681	attic/epic/doric
 doric/aeolic
 doric/aeolic
-40685	
 40687	attic/epic/ionic
-
-
-
-epic/ionic/attic
-
-40694	
-
-
-40698	
-
+40691	epic/ionic/attic
 40702	attic/epic/ionic
 attic/epic/doric/ionic
-
 40706	epic/ionic/attic/doric
-
-
-
-40715	
-
+40716	doric
 40718	doric
-
 40722	doric
-
-40726	
-
-ionic
-40730	
-
-40734	
 40736	epic/doric/aeolic
-40739	
-40741	
-
-
 40747	attic/epic/doric
 40750	attic/epic/doric/ionic
-
-doric/aeolic
-
+40752	doric/aeolic
 40756	epic/doric/aeolic
 attic/epic/doric/ionic
-40759	
-40761	
-ionic
-40764	
-attic/epic/doric
-40768	
-
-40772	
-40777	
-
+40765	attic/epic/doric
 40782	doric/aeolic
-
-40790	
-epic/ionic/attic/doric
-40793	
-40796	
+40791	epic/ionic/attic/doric
+40797	attic/epic
+40802	epic
 attic/epic
-40800	
-
-epic
-attic/epic
-
-
 40807	doric/aeolic
 epic
-
 40811	attic/epic
-40813	
-40817	
-40819	
-
-
-attic
+40822	attic
 40824	doric
-40826	
-
-
-40830	
-doric/aeolic
+40831	doric/aeolic
 40833	epic/doric
 attic/epic
-40836	
-
-40840	
-
-40844	
-40849	
 40854	doric
-40856	
-
-
-attic/epic/doric
-
+40859	attic/epic/doric
 40863	doric/aeolic
-
-attic/epic
-40867	
+40865	attic/epic
+40868	attic
 attic
-attic
-40871	
-
-attic
-40876	
-
-
-40881	
-
-
-40886	
-40889	
-attic/epic/ionic
-40892	
-40896	
-epic
-40899	
-attic/epic/ionic
-40902	
-
-attic
-
-40907	
-
+40873	attic
+40897	epic
+40900	attic/epic/ionic
+40904	attic
 40910	attic/epic/ionic
-40914	
-
 40917	doric
-ionic
-40920	
-40925	ionic
-40928	
-
-attic
-
-epic/doric
-
+40930	attic
+40932	epic/doric
 40935	epic/ionic/attic/doric
-
-epic/doric/ionic/aeolic
-40939	
-
-
 40943	doric/aeolic
 attic
-
-attic/epic/ionic
+40946	attic/epic/ionic
 40950	attic/epic/doric/ionic
 40952	epic/doric
-ionic
 40956	doric/aeolic
-
-
-40960	
-epic/doric/ionic/aeolic
-
-
-attic/epic
+doric
+40964	attic/epic
 40966	doric/aeolic
 40969	doric/aeolic
-
-ionic
-40973	
-40975	
-
-
-
-
-
-40982	
-40984	
-40987	
-40989	
+40989	epic
 40991	doric
-
-
-40995	
-doric
+40996	doric
 attic/epic/doric/ionic
-41000	
-attic/epic/doric/ionic
-41003	
-
-41006	
-doric
+41001	attic/epic/doric/ionic
+41004	attic
+41007	doric
 41009	doric
 41011	doric/aeolic
 41013	epic
-
+attic/epic/doric
 41019	doric/aeolic
-
-
-
-attic
+41023	attic
 41025	epic/ionic/attic/doric
 attic/epic/doric/ionic
 doric
-
-doric/aeolic
+41029	doric/aeolic
 epic/doric
-
-
-
+epic
 41035	attic/epic
-41037	epic/ionic/doric/laconia
-
 41040	epic
-41042	
-41044	
-
 41048	attic/epic/doric/ionic
-
-doric
-
-doric/aeolic
-
-
-
-41057	
+41050	doric
+41052	doric/aeolic
+epic
 41059	doric/aeolic
-
-
-41063	
-41066	
-41068	
-
+41061	attic/epic
 41071	doric
 41080	epic/doric/aeolic
-
-
-
-attic
-
-epic/doric
-41089	
+41084	attic
+41086	epic/doric
+41089	attic/epic/doric
 41091	attic/epic/doric/ionic
-
-41097	
-attic
+41098	attic
 41100	attic
-41103	
-
-
-attic
-
+41106	attic
 41109	attic/epic/doric
 epic
 epic/ionic/attic/doric
 epic/ionic
-41114	
 41116	epic
-
-epic/ionic
+41118	epic/ionic
 41120	epic/ionic/attic/doric
-
-41123	
-
 41126	doric
-41128	
-
-
 41132	attic/epic/doric
-41134	
-41136	
-
-
-41140	
-
 41143	epic/ionic
-
-
-
-attic/epic/doric
-
-
+41147	attic/epic/doric
 41151	attic/epic
 attic/epic/doric
-41157	
-epic/ionic
-41160	
-attic/epic
-41167	
-41170	
-
-41173	
-41175	
-41179	
-attic/epic/doric/ionic
+41158	epic/ionic
+41161	attic/epic
+41175	attic/epic/doric
+41180	attic/epic/doric/ionic
 41182	epic/doric/aeolic
 41184	attic/epic/doric
-41191	
-
-41194	
-
-
-epic/doric/ionic/aeolic
-41201	
-doric/aeolic
-41205	
+41197	epic/doric/ionic/aeolic
+41202	doric/aeolic
 41207	attic/epic/doric
 41209	doric
-
-ionic
+41211	ionic
 epic/doric
-
 41215	doric
-
-
-
-41220	
-
-
-
-41225	
-41227	
-41229	
-epic/doric/ionic/aeolic
-41232	
-attic/epic
-41236	ionic
-41238	
-
-
-
+41220	doric
+41233	attic/epic
 41248	doric/aeolic
 attic/epic/doric
 41252	attic/epic/doric
-41254	
-epic/doric/aeolic
-41257	
-
+41255	epic/doric/aeolic
 41260	epic/ionic/attic/doric
-
-
-
-41269	
 41271	attic/epic
-41273	
-
-41276	
 41278	doric/aeolic
-41281	
 41284	epic/doric
-41288	
-
-epic/doric
+41290	epic/doric
 epic
-
-
-ionic
-41298	
-epic/doric/ionic/aeolic
+41299	epic/doric/ionic/aeolic
 doric/aeolic
-41302	
-
-attic
-41307	
-
-
-41311	
-epic
+41304	attic
+41312	epic
 41317	epic/doric
-
-
+41320	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-
-41328	
-
-ionic
-41332	
-41334	ionic
 41336	doric/aeolic
-
-
-41340	
-41344	
-41347	
-
-41351	
-attic/epic/doric/ionic
-
-41355	
-41358	
-
-
-doric
-41363	
-41370	
-ionic
-41373	
-41375	
-41377	
-
-41380	
-attic/epic/doric/ionic
-
-epic
-
-
-
-41388	
-
-epic/ionic/doric/laconia
-41392	
-
-
-
-41397	
-doric/aeolic
-41402	
-doric/aeolic
+41352	attic/epic/doric/ionic
+41361	doric
+41381	attic/epic/doric/ionic
+41383	epic
+41398	doric/aeolic
+41403	doric/aeolic
 41406	epic
 41409	attic/epic
 41413	doric/epic/ionic
 attic
-
-
-
-attic/epic/doric/ionic
+41418	attic/epic/doric/ionic
 41420	doric
-
-41425	
 41428	parad_form
-
-41433	
-
-41438	
 41440	doric/aeolic
-
-
 41446	doric/epic/ionic
 attic/epic/doric/ionic
-
-
 41451	doric
-41453	
-
-
-
-epic
-41459	
-41462	
-
-
-attic/ionic
-
-
-
-41470	
-
-
-
-
-
-
-41480	
-
-
-attic
-
-
-41487	
-
-41490	
-epic/ionic/attic/doric
-
-41498	
-41500	
-
-
-
-attic
-
-41509	
-
-doric/aeolic
-
-41515	
-
+41457	epic
+41465	attic/ionic
+41483	attic
+41491	epic/ionic/attic/doric
+41504	attic
+41511	attic/epic/doric
 41519	attic/epic
-
-
-
-
-41527	
-epic/doric
+41528	epic/doric
 41530	attic/epic/doric
 41532	epic/ionic/attic/doric
-
-
-41536	
-41539	
-doric/aeolic
+41540	doric/aeolic
 epic/ionic/attic
-41546	
-
-epic/ionic/attic/doric
-
-
-41552	
-41555	
-41559	
-41561	
-41566	
-
+41548	epic/ionic/attic/doric
+41559	epic
 41569	attic/epic
-
-
-
-
-41575	
-doric
-
-attic/epic
-
-
-
-
-ionic
-doric/aeolic
+41576	doric
+41578	attic/epic
+41584	doric/aeolic
 doric/aeolic
 41587	doric/aeolic
-41592	
-41594	
 41596	doric
-41599	
-41602	
-
-
-
-epic/doric/aeolic
-
-attic/epic/ionic
-41614	
-
-
-41619	
-
-ionic
-doric/aeolic
-
-41627	
-41629	
-41631	
-
-ionic
-
+41606	epic/doric/aeolic
+41608	attic/epic/ionic
+41622	doric/aeolic
+41633	ionic
 41636	doric
-
-41639	
-doric
-
-
-
-epic
-
-attic
-
-
-41650	
-attic/epic/doric
+41640	doric
+41644	epic
+41646	attic
+41651	attic/epic/doric
 41654	epic
-
-41658	
-
-41664	
-attic/epic
-41668	
-41676	
+41665	attic/epic
 41682	doric/aeolic
 doric/aeolic
-41685	
-41688	
-
-
-doric/aeolic
-41693	
-attic/epic/ionic
-41696	
-
-41700	
-41703	doric
-
-
-doric/aeolic
-41708	
-attic/epic/ionic
-
-41712	
-epic/doric
-41716	
-
-
-attic/epic/ionic
-
+41685	doric
+41691	doric/aeolic
+41694	attic/epic/ionic
+41706	doric/aeolic
+41709	attic/epic/ionic
+41713	epic/doric
+41717	attic/epic
+41719	attic/epic/ionic
 41722	doric/ionic
-
-
-ionic
-41727	
-
-
-41731	
-
-41734	
-41736	
-41738	
-41741	
-attic/epic
-
-
-41746	
-41748	
-41751	
-
-
-
-
-ionic/epic
-41759	
-attic/epic/doric
-ionic
-41763	
+41742	attic/epic
+41756	ionic/epic
+41760	attic/epic/doric
+41763	attic/epic
 attic/epic/ionic
-
-epic
-
-
-41770	
-
-doric
+41766	epic
+41772	doric
 attic/ionic
 attic/epic
-
-
-41781	
-41785	
 41788	doric/aeolic
-
-
-
 41793	epic/doric
-41797	
-epic/doric
-41800	
-
-attic/epic/ionic
-41804	
-attic/epic/doric/ionic
-
-doric/aeolic
-41809	
-attic/epic/ionic
-
-41814	
-doric/aeolic
-41819	
-41821	
-
-41825	ionic
-attic/epic/ionic
-41828	ionic
-doric/aeolic
-
-41832	
+41798	epic/doric
+41805	attic/epic/doric/ionic
+41807	doric/aeolic
+41810	attic/epic/ionic
+41815	doric/aeolic
+41826	attic/epic/ionic
+41829	doric/aeolic
+41832	attic/epic/doric
 epic
-41835	
-
 41840	doric/aeolic
-41842	
-41845	
-doric/aeolic
-41848	
-41851	
-41853	
-
-
-41858	
-
-
-
-41866	
-
-
+41846	doric/aeolic
+41855	doric
 41873	epic/doric
-41875	
-
-41878	
-epic/doric
-
-
-41884	
-
-
-epic
-
-
-
-
-doric/aeolic
-
-
-
-41898	
-41901	
-
-41905	
-epic
-
-41909	
-
-41914	ionic
+41879	epic/doric
+41887	epic
+41901	doric
+41906	epic
 41917	attic/epic
 41919	doric
-41923	
-
-
-41927	
-
-41930	
-
-41934	
-doric
-
-41938	
-
-attic/epic
-41943	
+41935	doric
+41940	attic/epic
 41946	doric
-
-
-
-doric/aeolic
-
-41953	
-doric/aeolic
+41954	doric/aeolic
 epic
-
-
-
 41960	doric/aeolic
 attic/epic/doric/ionic
-
-doric/aeolic
-
-41967	
-
-
-41971	
+41963	doric/aeolic
+41967	attic/epic
 41973	doric/aeolic
 41975	attic/epic
-41977	
-
-
+41977	doric
 41981	attic/epic/doric/ionic
 attic/epic
 doric/aeolic
 doric/aeolic
 41987	attic/epic/doric/ionic
-
-41990	
-
-41997	
-doric
-42000	
-epic/ionic/doric/laconia
-
-attic/epic/doric
+41998	doric
+42003	attic/epic/doric
 attic
-
-
 42009	doric
-
-42013	
-42016	
-42018	
-
-attic
-
-attic/epic
-
-
-42028	
-42031	
-
-42034	
-
-42037	
-42040	
+42020	attic
+42022	attic/epic
+42041	doric/aeolic
 doric/aeolic
-doric/aeolic
-42044	
-
-attic
+42046	attic
 epic
-42049	ionic
+42050	doric/aeolic
 doric/aeolic
-doric/aeolic
-42053	
+42053	attic/epic
 42056	doric/aeolic
-
-
-
-42062	
-
-42066	
-
+42059	doric
 42069	doric/aeolic
-42073	
-42079	
-42082	
-42087	ionic
-42090	
-42095	
 42097	doric/aeolic
-
-
-
-
-
-
-
 42108	epic
-
-ionic
-42115	
 42117	attic
-42119	
-
-
-attic/epic/doric
+42122	attic/epic/doric
 42127	doric
 epic
-42132	
 42134	attic/epic/ionic
-
-
-
-ionic
-42142	epic/ionic/doric/laconia
-
-42145	
 42148	epic
-
-
-42152	
-
-
-
-
 42158	doric
-
-42163	
-42166	
-doric/aeolic
+42167	doric/aeolic
 42169	epic
-42171	
-42173	
-42175	
 42178	epic
-
-42182	
-42186	
-42188	
-epic
-
-
-
-ionic
-42197	epic/ionic/doric/laconia
-
-42200	
+42189	epic
 42203	epic
-
-
-42207	
-42211	
-
-
-
 42217	attic/epic/ionic
-42219	
 42222	epic
-
-ionic
-42226	
-
-42230	ionic
-42234	
-42236	
-42238	
-
-42243	
-42245	
-epic
-
-
-epic/doric/aeolic
+42246	epic
+42249	epic/doric/aeolic
 42252	epic/doric/aeolic
-42257	
 42259	epic/doric/aeolic
-42261	
-epic
-
-
-42266	
-42269	
-42272	
-
-42275	
-42280	
-
-doric
-42284	
-
+42262	epic
+42282	doric
+42285	attic
 epic/doric
-
-
-42290	
-
-
-
-42295	
-
-42298	
-
-42301	
-42303	
-42305	
-
-
 42309	epic
-42313	
-42316	
-42319	
-42323	
 42325	epic/ionic/attic/doric
-
-attic/epic
-
-attic/epic/doric
-
-doric/aeolic
-
-
-42337	
-
-42340	
-42344	
-
-
-
-
-42350	
-42352	
-epic
-
-42356	
-42358	
-42360	
-
-
-
-
-
-42367	
-
-
-42371	
-
-42377	
-
-42380	
-
-
-
+42327	attic/epic
+42329	attic/epic/doric
+42331	doric/aeolic
+42353	epic
 42389	attic/epic
-
-
-42393	
-42395	
-epic/doric/aeolic
+42396	epic/doric/aeolic
 42403	epic
 42408	epic/doric/aeolic
-42410	
-epic/doric/aeolic
-42415	
-42419	
-
-
-
-
-
-42426	
-42428	
-
-
-42432	
-
-
-ionic
-42439	
-
-
-42443	
-42446	
-42448	
-
-
-
-
-doric
-
-
-
-
-attic/epic
+42411	epic/doric/aeolic
+42435	ionic
+42453	doric
+42458	attic/epic
 42460	doric/aeolic
-42462	
-42464	
-
-attic/epic/doric
+42466	attic/epic/doric
 epic
 epic/doric/aeolic
-
-doric
-
-42474	
-42476	
-ionic
-42479	ionic
-42482	
-42485	
-
-
+42470	doric
+42477	ionic
 42489	attic
-
-
-epic
+42492	epic
 attic/epic
-
-
-attic/epic/doric/ionic
+42496	attic/epic/doric/ionic
 attic/epic
-
-
-
-42502	
-
-
-
-
-42508	
-
-ionic
-
-
+42510	ionic
 42515	attic/epic/ionic
-
-
-
-42521	
-42524	
-attic/epic/doric/ionic
-
-42528	
-
-
-attic
-
-
-ionic
-
-
-42539	
-42543	
-
-42546	
-42548	
-
-
+42525	attic/epic/doric/ionic
+42531	attic
+42534	ionic
+42550	doric
 attic/ionic/epic/doric
-
-
-
+42555	attic
+42562	attic
 attic
-42559	
-42561	
-attic
-attic
-ionic
 42566	doric/aeolic
-42568	
-epic
-epic/doric/ionic/aeolic
-attic/epic/doric
+42569	epic
+42571	attic/epic/doric
 doric
-
-
-
-doric
-
-attic
-42581	
-
-42584	
-ionic
+42576	doric
+42578	attic
+42585	ionic
 epic/doric
-ionic
-doric/aeolic
-
-doric/aeolic
-
-
-
-42596	
-42598	
-42601	
-
-42606	
-42610	
-42612	
-attic/epic
-42616	
-
-42620	
-
-doric
-
-42625	
-
-attic/epic
-
-
-
-42633	
-
-
-doric
+42588	doric/aeolic
+42590	doric/aeolic
+42613	attic/epic
+42622	doric
+42627	attic/epic
+42636	doric
 42639	doric/aeolic
 epic/doric/ionic/aeolic
-
-42643	
-42646	
-
-42650	
-attic/ionic
-
-
+42651	attic/ionic
 42656	attic
 attic
-
-
-
-
-42665	
-42667	
-
-
 42671	attic/epic/doric
-42674	
-42677	
-
-42680	
-
-42684	epic/ionic/doric/laconia
-
-
-
 42690	ionic
 doric/aeolic
 ionic/doric/aeolic
 epic/doric
-
-42696	
-42698	
-42700	epic/ionic/doric/laconia
-attic
-
-
-
-42706	
-doric/aeolic
-
-
-
-
-
-
-attic
-
-42719	ionic
-42722	
+42701	attic
+42707	doric/aeolic
+42714	attic
 42729	attic/epic/ionic
-42731	
-attic
-
+42732	attic
 42735	doric/aeolic
-42738	
-epic/ionic/attic/doric
-42742	
+42739	epic/ionic/attic/doric
 42744	attic/epic/doric
 doric
-
-42748	
-42750	
 42752	attic/epic/doric
-
-42756	
-epic/doric/aeolic
+42757	epic/doric/aeolic
 42761	ionic/doric/aeolic
-42763	
 42766	doric
-
-
-42770	
-42777	
+doric
 42780	doric/aeolic
-42782	
-
-
-
-42787	
-attic
+42788	attic
 42790	doric/aeolic
-42792	
-42795	
-
-doric/aeolic
-
-42803	
-42805	
-42807	
-
-attic/epic/doric
-ionic
-42817	
-42822	
-attic/epic
+42797	doric/aeolic
+42809	attic/epic/doric
+42823	attic/epic
 attic/epic/ionic
-
-42828	
-
-
 42832	epic
-42834	
-
-42838	
-42840	
-
-42844	
-
-
 42848	attic/ionic
-42851	
-42853	
-
-42856	
-attic
-42859	
-42862	
+42857	attic
 42864	ionic/doric/aeolic
-
-
-attic/epic/ionic
-
-
-
-
-
-42877	
-42879	
-
-
-
-
-attic/epic/ionic
-
-42888	doric/aeolic
-
-
+42867	attic/epic/ionic
+42884	attic/epic/ionic
 42894	attic/epic
 42897	doric
-42899	
-
-42903	
+42900	epic/doric/ionic/aeolic
 42905	epic/doric
 doric/aeolic
-42910	
-42912	
-doric
+42913	doric
 42915	epic/doric
-
-
-42921	
-attic/epic/doric/ionic
-
+42922	attic/epic/doric/ionic
 42925	epic/ionic/attic/doric
-
-42928	
-
-42932	ionic
 42935	attic
-42937	
-
 42943	doric/aeolic
-
-
-
-42949	
-ionic
-42956	
 42959	epic
 doric
 42963	epic/doric/aeolic
-42965	
-
-42968	
-
-
+42969	attic/epic
 42973	doric/aeolic
-
-
-
 42980	attic/epic/doric/ionic
-
-42983	
-
-
-42987	
-
-
-epic
-ionic
-doric/aeolic
-
-
-
-
-42998	
+42990	epic
+42992	doric/aeolic
 43002	epic/doric/aeolic
-
-
 43006	attic
-
-
-
-43014	
 43016	attic/epic
-
-
-43021	
-
-43025	
 43027	epic
-ionic
 43030	doric/aeolic
-
-
-
-
-
-43037	
-
-
-doric/aeolic
-
-
-43044	
-
-
+43040	doric/aeolic
 43048	doric/aeolic
-
-43051	
 43053	doric/aeolic
-43056	
-
-ionic
-
-43062	
-43064	
-
-epic
-
-
-epic/doric/ionic/aeolic
-epic/ionic
-
+43066	epic
+43070	epic/ionic
 43073	attic/epic
-
-
-attic
-43078	
-43080	
-
-
-
-43085	
-
-43088	
-
-
-
-
-
-43096	
-
-epic/ionic
-43101	
+43076	attic
+43089	attic
+43098	epic/ionic
+43101	attic
 doric
-
-43105	
-epic/doric
-
-
-
-
-
-43114	
-attic
+43106	epic/doric
+43115	attic
 attic
 attic/epic/doric/ionic
-
-epic/doric/ionic/aeolic
-43121	
-43123	
+43119	epic/doric/ionic/aeolic
+43123	attic/epic
 attic/epic/doric/ionic
-
-
-
-doric
+43128	doric
 43131	epic/ionic/attic/doric
-43133	
+43133	doric
 doric/aeolic
 43136	attic/epic/ionic
-43138	
-
-43142	
-43144	
-
-
-attic/epic
-
-
-attic/ionic/epic/doric
-
-
+43147	attic/epic
+43150	attic/ionic/epic/doric
 43157	doric
-
-
-
-doric
-
-
-
-
-43167	
-43169	
-43171	epic/doric/ionic/aeolic
-43173	
-attic/epic
-43176	ionic
-43180	
-
-
-43185	
-43188	
-ionic
-
-43192	
-
-epic/ionic/attic/doric
+43161	doric
+43174	attic/epic
+43181	epic
+43189	epic/ionic
+43194	epic/ionic/attic/doric
 43196	epic/ionic
-
 43201	doric/aeolic
 epic/doric
-
-attic
-
-attic/ionic
-
+43204	attic
+43206	attic/ionic
 43209	attic/epic/doric
-
-
-43213	
 43216	epic/ionic
-43219	
-attic/epic
+43220	attic/epic
 epic/ionic/attic/doric
-43224	
-43226	
-
-attic/epic/doric
-
-doric/aeolic
+43228	attic/epic/doric
+43230	doric/aeolic
 epic/doric
-
-doric
-43237	
+43233	doric
 43239	epic
-
-43242	
-43245	
-
-
 43250	epic/doric/aeolic
 43252	epic/ionic/attic/doric
-43254	
-
-
-
-
-
-43261	
-43263	doric/aeolic
-
-
 43269	doric/aeolic
 attic/epic
-
-
-
-
-doric/aeolic
-43278	
-
-doric
+43275	doric/aeolic
+43280	doric
 attic/epic/doric
-
-epic/doric/ionic/aeolic
-
-epic/doric/aeolic
-
-attic/ionic
-43289	
-
-43292	
-43294	
-
-attic
-
-doric
-
-43301	
-
-43304	
-
-attic
-
-
-43310	ionic
-epic
+43283	epic/doric/ionic/aeolic
+43285	epic/doric/aeolic
+43287	attic/ionic
+43296	attic
+43298	doric
+43306	attic
+43311	epic
 attic/epic/doric
-43314	
-
+43315	attic/epic
 attic/epic/doric
-43318	
-
-attic
-
-
-epic/doric
-43325	
+43320	attic
+43323	epic/doric
 43329	epic/doric/aeolic
 43331	doric/aeolic
-
-
-43335	
-
-attic
-
-attic
-
-attic/epic/doric
-43343	
+43337	attic
+43339	attic
+43341	attic/epic/doric
 43346	epic
 doric
 attic/epic/doric
-
+attic/epic
 attic/epic/doric
-43352	
-
 43355	doric
-43358	
-
-attic/epic/doric/ionic
-
-43363	
-43366	ionic
-43370	
-43373	
-epic
+43360	attic/epic/doric/ionic
+43374	epic
 attic
-
-
-
-
-
-
 43383	attic/epic
-43385	
-43388	
-
-43391	
-43396	
 43398	ionic
-43403	
 43405	ionic
 attic
-
-attic
-
-
-
-attic/epic/doric
+43408	attic
+43412	attic/epic/doric
 43415	doric/*theocr.
-
-
-43419	ionic
-43423	
-
-43429	doric/aeolic
-43432	
 43434	ionic
-43436	
-
-
-attic/epic/doric
-
-attic/epic/doric
-
-43444	
-
-43447	
-43452	
-43454	
-43458	
-
-
-43462	
-
-
-epic
+43439	attic/epic/doric
+43441	attic/epic/doric
+43465	epic
 attic
-
-43469	
-attic/epic/ionic
-
-
-43475	
-attic
-43479	
-doric/aeolic
-
-
-
-
-
-attic/epic/doric
-
-
-43490	
-
-43493	doric/aeolic
-
-43496	ionic
-
-doric
-
+43470	attic/epic/ionic
+43476	attic
+43480	doric/aeolic
+43486	attic/epic/doric
 43504	doric/aeolic
-
-43507	
-
-
-
-43514	
-
-
-43518	
-doric
-
-
-43525	
-doric
-43528	
-
-43532	
+43514	attic
+43519	doric
+43526	doric
 43537	doric
-
-43541	
-epic
-43544	
-43546	
+43542	epic
 43550	epic
-
-
-
-
-43556	
-
-43561	
-43563	
-43565	
-epic
+43561	attic/epic
+43566	epic
 43568	epic/doric
-
 43572	attic/epic/doric
-43577	
-43579	
-attic/epic/ionic
-
-epic/doric/aeolic
-epic
-
-attic/ionic
-43587	
-
-43592	
+43580	attic/epic/ionic
+43582	epic/doric/aeolic
+doric/aeolic
+43585	attic/ionic
 43594	doric/aeolic
 43596	epic/doric/aeolic
-
-
-attic/ionic
+43599	attic/ionic
 attic/epic/ionic
-43602	
 43605	attic/epic/doric/ionic
-
-43608	
+43609	attic
 attic
-attic
-
-43613	
-43615	
-43617	
-
-43620	
-
-
-
-43626	
-
-43629	ionic
-43632	
+43632	epic
 43639	doric/aeolic
-43641	
-43643	
-
-ionic
-43648	
-43650	
-43652	
-
-
-
-
-attic/epic/ionic
-43659	
-
-
-43664	
-
-
+43657	attic/epic/ionic
 43668	epic
-
-
-
-
-
-
-
 43679	attic/epic
-43681	
-
-doric
-
-
+43683	doric
 43687	epic
-
-
-
-
-
-epic
+43693	epic
 attic
-
-43697	
-
-43701	
 43703	attic/epic/ionic
-
-43708	
-43712	
-
-epic
-
+43714	epic
 43717	attic/epic/doric
 43721	epic/doric
 43723	epic
-43725	
-ionic
-43728	
-43730	
-
-43734	
 43736	doric
-
-43740	
-43744	
 43746	attic/epic/doric
-
-
-
-
-43752	
-43754	
-
 43757	attic/epic/doric
 epic/ionic/attic/doric
-
-43761	
-43763	
-doric
-
+43764	doric
 43767	attic
-43769	
-
-
-attic/epic/ionic
-
+43772	attic/epic/ionic
 43775	doric
-
-43778	
-43780	ionic
-43783	
-ionic
-43791	
-
-
 43797	attic/epic
-43799	
-doric
-43804	ionic
-43807	
-43810	
-43812	
-doric/aeolic
-43816	
+43800	doric
+43813	doric/aeolic
 43818	doric/aeolic
-43821	
-43823	
-43825	
+43826	doric/aeolic
+43833	doric/aeolic
 doric/aeolic
-
-
-43832	
-doric/aeolic
-doric/aeolic
-
-
-43838	
-43840	
-
-epic/ionic
-
-
-43849	
-
-
-
-43854	
-43856	
-
-attic
-
-attic/epic/ionic
-
-doric
-43864	
-
-doric
+43842	epic/ionic
+43858	attic
+43860	attic/epic/ionic
+43862	doric
+43864	attic
+43866	doric
 43868	doric/aeolic
 attic
-
-
-
-
-
-
-ionic
-43878	epic/doric/ionic/aeolic
-attic/ionic/epic/doric
-
-43882	
-
-43886	
-
-attic/epic/ionic
-
-
-
-43893	
-
-
-
+43879	attic/ionic/epic/doric
+43888	attic/epic/ionic
 43898	epic
-
-43902	
-
-
-
 43907	doric/aeolic
 doric/aeolic
 doric
-
+attic/epic/ionic
 epic/ionic
-
+attic/epic/ionic
 epic/ionic
-
-43916	
+attic/epic/ionic
+43916	attic/epic/ionic
 43918	doric/aeolic
-43921	
-43925	
-43927	
-
-
-
-
-43933	
-43935	
-
-
-
 43940	epic
-
-
-
-
-epic/ionic/attic
-
-43949	
-43951	
-43953	
-43955	
+43945	epic/ionic/attic
 43958	attic/epic/doric/ionic
-43960	
-43962	
-
 43966	epic/doric/aeolic
-43969	
-attic/epic/doric
-43973	
-
-
-
-
-
-
-43982	ionic
+43970	attic/epic/doric
+43977	doric
 43984	doric/aeolic
 attic
-
-
-
-43992	
-43996	
-
-ionic
+43992	epic
 44000	doric/aeolic
 attic
-
 44004	epic/ionic
-44006	
-44008	epic/doric/ionic/aeolic
-
-doric/aeolic
-44012	
-44014	
-
-44017	
-44019	
-
-attic/epic
-
-44024	
-44026	
-
-attic/epic/doric
-44031	
-
-44034	
-
-44037	
-
-attic/epic/ionic
-
-doric
-
-44046	
-doric/aeolic
-
-44050	
-44052	
-parad_form
-
-44058	
-attic
-
-44062	
-
-
-
-
-attic/epic
-
-
-44071	
-attic/epic
+44010	doric/aeolic
+44021	attic/epic
+44028	attic/epic/doric
+44039	attic/epic/ionic
+44041	doric
+44047	doric/aeolic
+44053	parad_form
+44059	attic
+44062	attic/epic
+44067	attic/epic
+44072	attic/epic
 44074	attic/epic
 44076	attic/epic/ionic
-
-44081	
-
 44085	attic/epic/doric
-
-ionic
-44091	
-
-
-
-
-
-attic/epic
+44094	epic
+44097	attic/epic
 44099	attic
-
-44106	
 44113	epic
-44116	
-
-
-epic/ionic
+44119	epic/ionic
 epic
-44125	
 44127	epic/doric/aeolic
-44131	
-44133	
-44135	
-ionic
-
-
-44141	
-attic/epic
-44145	ionic
-44148	
-44150	
-44152	
-attic/epic/doric
-
+44136	ionic
+44142	attic/epic
+44153	attic/epic/doric
 44156	attic
-
-44159	
-epic/doric
-44164	
-
-
-
-
-44172	
-attic
+44160	epic/doric
+44173	attic
 epic
 44176	attic/ionic
-44179	
 44181	doric/aeolic
-
-
-attic/ionic
-44188	
-epic/doric
+44184	attic/ionic
+44189	epic/doric
 epic
 44192	attic/ionic
-44196	
-
-44205	
-attic/ionic/epic/doric
-44208	
-
+44206	attic/ionic/epic/doric
 44211	doric
-
-44214	
-
-
-
-44219	
-
-
-
-44224	
-epic/doric/ionic/aeolic
-
-epic/doric/aeolic
-
-44234	
-44237	
-44240	
-
-attic/epic/doric
+44225	epic/doric/ionic/aeolic
+44227	epic/doric/aeolic
+44242	attic/epic/doric
 44244	epic/ionic
 attic/epic
-
-epic/doric/ionic/aeolic
-44249	
-44252	epic/doric/ionic/aeolic
-attic/epic/doric
+44253	attic/epic/doric
 44256	attic/epic/doric
 44260	epic/doric/aeolic
 44267	attic/epic/doric
-44270	
-44273	
-44275	
+44276	attic
 attic
-attic
-
-
-
-
-epic/doric/aeolic
-44285	ionic
-44287	
-44289	
-doric/aeolic
-
-
-44294	
-44299	
-
-
-44304	
-
-
-
+44282	epic/doric/aeolic
+44290	doric/aeolic
 44311	epic
-
-44315	
-attic/epic
-44318	
-attic/epic
-44321	
+44316	attic/epic
+44319	attic/epic
 44323	epic
 44326	ionic
-44332	
-
-
-
-44337	
-
-
-44343	
-44346	
-attic/epic/doric
-
-
-
-
-
-
-44355	
-epic
-44358	
-
-
+44347	attic/epic/doric
+44356	epic
 44362	epic
 attic
-
-44368	
-
-
-44372	
-attic/epic
-44375	
+44373	attic/epic
 44380	epic
-44383	
-44385	
+44386	epic
+attic
+44398	attic/epic/doric/ionic
+44400	epic/doric
 epic
-attic
-
-
-44391	
-44394	
-44396	
-
-attic/epic/doric/ionic
-
-epic/doric
-
-44410	
-44412	
-
-
-attic
-
-44418	
-44421	
+44415	attic
+44422	doric/aeolic
+44425	doric/aeolic
 doric/aeolic
-
-ionic
-doric/aeolic
-doric/aeolic
-44428	
-doric/aeolic
-44431	
-
-44434	
-
-
-44438	
-
-doric/aeolic
-44442	
-44445	
-
-44449	
+44429	doric/aeolic
+44440	doric/aeolic
 44451	doric/aeolic
-
-attic/epic/doric
-44456	
-doric/aeolic
-doric
-
-
-
-
-44464	
-44466	
-44469	
-attic/epic
-44473	
+44453	attic/epic/doric
+44457	doric/aeolic
+44470	attic/epic
 44475	doric/aeolic
-44477	
-44479	
-44481	
-44487	
-44489	
-
-44494	
-
-
-
-
-doric/aeolic
-
-
+44499	doric/aeolic
 44503	doric/aeolic
-44505	
-
-44509	
-
-
-44513	
-44515	
+44516	doric/aeolic
+44520	epic
+44526	attic
 doric/aeolic
-
-
-
-epic
-44522	
-
-44525	
-attic
-doric/aeolic
-
-
-attic/ionic/epic/doric
+44530	attic/ionic/epic/doric
 44532	doric/aeolic
-
-44536	
-epic/doric/ionic/aeolic
-44539	
-ionic/attic/epic/doric
+44540	ionic/attic/epic/doric
 44542	epic
-44544	
-44546	
-
-
-attic/epic/doric
-
-doric/aeolic
-
-44554	
-attic/epic/ionic
-
-44560	
-
-44564	
-44566	
-
-44571	
-
-attic/epic/ionic
-
-
-
-attic
-44579	
-
-
-
-
-44585	
-attic/epic/doric
-44589	
-
-
-
-44596	
-
-
-44600	
-
-
-44604	
-44607	
-doric/aeolic
-
-44611	
-
-
-44615	
+44549	attic/epic/doric
+44551	doric/aeolic
+44555	attic/epic/ionic
+44573	attic/epic/ionic
+44577	attic
+44586	attic/epic/doric
+44600	epic
+44608	doric/aeolic
+44613	attic
 44618	attic/epic/doric
-
-
-44622	
 44624	doric/aeolic
 44626	epic
 attic/epic
 doric/aeolic
-
-doric/aeolic
+44630	doric/aeolic
 doric
 44633	epic/ionic
-
-
-
-
-doric/aeolic
-
-doric
-
+44638	doric/aeolic
+44640	doric
 44643	attic/epic
 doric
-44646	
 44648	attic
-
-44652	
-
-
-
-44658	
-44661	
-44664	
-44667	
-44670	
-44672	
-
-epic/doric/ionic/aeolic
-
-
-
-
-44680	ionic
-44682	epic/doric/ionic/aeolic
-44684	
-44686	ionic
 44689	doric/aeolic
-44692	
 44694	attic/epic/doric
-
-
-44698	
-
-
-
-ionic
-44706	
-
-
-44711	
-44713	
-44716	
-44721	
 44723	doric/aeolic
-
-epic/doric
+44725	epic/doric
 epic
-
-
-
+doric/aeolic
 44731	attic/epic
-
-
-
-
-doric/aeolic
-
-44740	
-44742	
-44744	
-
-
-44748	
+44736	doric/aeolic
 44751	epic/ionic
-
-
-
-44757	
-
-44761	
 44763	epic/ionic
-
-
-
-
-doric/aeolic
-
-44771	
-44778	
-
-44781	
-44789	
-
-
-44793	
-
-
-
-44799	
-doric/aeolic
-44802	
-attic/ionic
+44768	doric/aeolic
+44800	attic/epic/doric
+44803	attic/ionic
 attic
-
-
-
-
-44812	
-
-44817	
-
-44820	
-doric
-
-
-44825	
-44827	
-44829	
-ionic/epic
-
-44833	
-
+44821	doric
+44830	ionic/epic
 44836	doric/aeolic
-44838	
-
 44842	doric
-
-44845	
-attic
+44846	attic
 attic
 epic/ionic
-44852	
-44854	
-
 44857	epic/ionic/attic/doric
-
-
-doric
+44860	doric
 doric/aeolic
 44863	attic/ionic/epic/doric
-
-epic/ionic/attic/doric
+44865	epic/ionic/attic/doric
 attic/epic/doric/ionic
-epic/doric/ionic/aeolic
-
 44870	attic/epic/doric
-44876	
-
-
-44880	
-
-
-
-44886	
 44888	epic/doric
-44891	
-
-44894	
-
-attic/epic/doric/ionic
+44896	attic/epic/doric/ionic
 doric/aeolic
-
-
 44901	doric/epic
-
-44904	
-44906	
 44908	attic/epic/doric/ionic
-
 44911	attic/epic/doric/ionic
-
 44915	epic
-
-44918	
-44920	
-
-
-44924	
-attic/epic/doric/ionic
-44927	
-44929	
-
-44932	
-
-44936	
+44925	attic/epic/doric/ionic
 44938	doric
-
-epic/doric/ionic/aeolic
-44942	ionic
-44944	
-
-44949	
-
-44952	epic/doric/ionic/aeolic
-44954	
-ionic
-
-ionic
+44955	ionic
+44957	ionic
 44962	attic/ionic
-44964	
-epic/doric/ionic/aeolic
-epic/doric/aeolic
+44966	epic/doric/aeolic
 44970	doric
-
-attic/epic
-
-
-44976	
-44978	
-
-attic/epic/doric
-44982	
-44984	
-
-attic
-44989	
-
-44992	
-44994	
-
-44999	
-
-epic/doric/ionic/aeolic
-45003	
-45005	
-
-45008	
-45011	
-attic/epic
-
-45016	
-
-
-45020	
-
-
+44972	attic/epic
+44980	attic/epic/doric
+44986	attic
+45012	attic/epic
 45026	epic/ionic
-
 45030	epic/ionic
 attic
-
-doric
-
-
-attic/epic
-
-
-45040	
-
-
+45033	doric
+45036	attic/epic
 45044	doric/aeolic
 45046	epic/ionic/attic/doric
-45048	
 45051	attic/ionic
 epic/doric
-
 45056	epic/ionic
-45060	
-
-
-epic/doric/aeolic
-
-
-
-
-45072	
-
+45063	epic/doric/aeolic
+45074	doric/aeolic
+45078	attic/epic/doric/ionic
 doric/aeolic
-
-
-
-attic/epic/doric/ionic
-
-
-
-45083	
-doric/aeolic
-45086	
-
-
-
-
+45084	doric/aeolic
 45092	doric/aeolic
-
 45097	attic/epic/ionic
-
-45101	
-
-45104	
-45106	
-
-
-
-ionic
-attic/epic/doric
-
-doric
-
-doric
-
-
-attic/epic/doric
-
+45104	epic
+45111	attic/epic/doric
+45113	doric
+45115	doric
+45118	attic/epic/doric
 45124	attic/epic
 45126	epic/doric
 45134	attic/epic/doric
 45137	doric
-
-45140	
-
-45145	
-
-
-attic
-
-attic
+45148	attic
+45150	attic
 45152	attic/epic/doric/ionic
-
-
 45156	attic/epic/doric
-
-45160	
-45162	
-
-
-
-
-45171	
-
-
-45175	
-
-
-
-45183	
-
-45186	
-
+45188	attic
+45191	doric
+45198	epic
+45205	attic/epic/doric
+45218	doric/aeolic
+45224	attic/epic/doric
 attic
-45190	
-doric
-
-45195	
-45197	
-doric
-45200	
-45204	
-attic/epic/doric
-45209	
-45212	
-
-
-45216	
-
-doric/aeolic
-
-
-45224	
-attic
-45227	
-
-45230	
-
-
-
-attic
-45238	
-45243	
-45246	
+45234	attic
 45249	epic/ionic
-
-45252	
-45254	
-
-
-
-45261	
-45264	
-
-
-45270	ionic
-45272	
-45274	
-attic/epic/doric
-45282	
-45284	
-
-attic/ionic
-45288	epic/doric/ionic/aeolic
-45290	
-
-45293	
-
-attic/epic/doric
+attic/epic/ionic
+45275	attic/epic/doric
+45284	attic
+45286	attic/ionic
+45295	attic/epic/doric
 45298	doric/aeolic
-
-
-45302	
-
-45310	
-45313	
 45315	epic/doric
-45317	epic/doric/ionic/aeolic
-
-
-45323	
-45325	
-45327	
-epic/ionic/attic
-45332	
-
-45335	
-
-attic
-45340	
-45342	
+45328	epic/ionic/attic
+45337	attic
 45344	doric/aeolic
-
-doric/aeolic
+45346	doric
 epic
-45351	
 45356	epic/doric/aeolic
-45358	
-attic
-
-45363	
-45365	
-45367	
+45359	attic
 45369	attic/epic/ionic
-45371	
 45373	doric/aeolic
-
-45377	
-45380	
-
 45384	doric/aeolic
-
 45387	epic/ionic
-45389	
-45391	
 45395	epic
-
-45400	
-attic
-
-attic/epic
-
-45406	
-
-45409	
+45401	attic
+45403	attic/epic
 45411	attic/epic
 attic
-45416	
-
-attic/ionic
-
-
+45418	attic/ionic
 45423	doric
-
-45426	
-
-doric
-
-45431	
-45433	
-45435	
+45428	doric
 45437	attic
 doric/aeolic
-
-45441	
-
-45448	
-
-
-45452	
-45456	
 45458	attic/epic
-45460	
-
 45464	doric/aeolic
-45466	
-
-
-45473	
-45476	
 45478	epic
-45483	
-
-
-
-45489	
-
-45492	
-45495	
-45498	
-
-attic/ionic
-
-
-45505	
-45507	
-
-45512	
-
-
-
-
-
-attic
+45500	attic/ionic
+45518	attic
 45521	attic/epic/doric
-45524	
-45526	
-attic
-45529	
-45535	
-
+45527	attic
 45538	attic/epic/doric
-45541	ionic
 45548	epic
-45550	
-epic
-
-45555	
-45557	
-45560	
-
-45563	
-45565	
-45567	
-
-
-
-45572	
-45575	
-45578	
-45582	
-45584	
-doric/aeolic
-
-45589	
-attic/epic/ionic
+45551	epic
+45585	doric/aeolic
+45590	attic/epic/ionic
 45593	doric
-
-
+45596	epic/ionic
+45598	doric
 epic/ionic
-45598	attic/epic/ionic
-epic/ionic
-45602	
-doric
-45606	
-45610	
-epic
-45613	
-45620	
-
-45624	
-
-attic/epic
-
-
+45603	doric
+45611	epic
+45626	attic/epic
+45629	attic/epic/doric
+45633	doric
+attic
 attic/epic/doric
-
-
-
-
-
-attic/epic/doric
-45638	
-45640	
-doric
-
-45646	
-attic/epic
-45649	
-
-epic
+45641	doric
+45647	attic/epic
+45651	epic
 45656	attic
-45658	
-45660	
-
-
-
-
-
-
-attic/epic/doric
-
+45667	attic/epic/doric
 45671	attic/epic/doric
-45673	
 45675	epic
 45677	doric/aeolic
-
 45682	doric/aeolic
-
-45685	
-epic/ionic
+45686	epic/ionic
 epic
 doric/aeolic
 doric/aeolic
-
-
 45693	attic/ionic
-
-45698	
-
-
 45702	epic
-45705	ionic
 45707	doric/laconia
-
-45710	
 45712	epic
-45714	
-doric/aeolic
+45715	doric/aeolic
 doric
 doric
-
-
-45722	
-45724	
-doric
-
-
-doric/aeolic
-45730	
-45732	
+attic/epic
+45725	doric
+45728	doric/aeolic
 45734	doric
-45738	
-attic
-
-
-
-ionic
-
-45748	
-attic
-45752	
-45754	
-
+45739	attic
+45749	attic
 45757	doric
-epic/doric/ionic/aeolic
-
-
-
-attic
-
-
-epic/ionic/attic/doric
-
-45770	
-
-
-attic/epic
+45762	attic
+45765	epic/ionic/attic/doric
+45773	attic/epic
 45775	doric/aeolic
-
-45778	
-45781	
-
-45784	
-45786	
-45789	
-45791	
-45793	
-45796	
-45800	
-
-45803	
-45805	
-
-
-attic/ionic
-45812	
-attic/epic
-45815	
-
-attic/epic/doric
-
-45820	
-
-45823	
-
-doric
-
+45808	attic/ionic
+45813	attic/epic
+45817	attic/epic/doric
 45829	doric
 doric
 45832	doric/aeolic
-
-
-attic/epic
-45837	
-45839	
-45841	
-epic/doric/ionic/aeolic
-45845	
-epic
-
-45853	
-
-doric/aeolic
-45857	
-
-45860	
-45867	
-45870	
-
-
+45835	attic/epic
+45842	epic/doric/ionic/aeolic
+45846	epic
+45855	doric/aeolic
+45857	doric
+45867	doric
 45878	doric/epic
 45880	epic/doric
 doric/aeolic
-
-
 45885	attic/epic/doric/ionic
-45887	ionic
-doric/aeolic
+45888	doric/aeolic
 doric/aeolic
 45891	doric/aeolic
-45893	
-attic/parad_form
-45896	
+45894	attic/parad_form
 45898	attic
-45900	
-epic
+45901	epic
 doric
-ionic
-doric/laconia
+45904	doric/laconia
 epic/ionic
-45907	
-45909	
-epic/doric
-
-doric
-
-attic/epic/doric
-45916	
-doric
+45910	epic/doric
+45912	doric
+45914	attic/epic/doric
+45917	doric
 45920	doric/aeolic
-
-
-45925	
-45928	
-
-doric
-45934	
-
-45937	
-45941	
+45930	doric
 45943	attic/epic/doric/ionic
-
-epic/doric
+45945	epic/doric
 45947	epic/ionic
-45949	
-45951	
+45951	epic
 45953	doric/aeolic
-
-45957	
 45960	epic/doric
-
-
-attic/doric/aeolic
-
-
-doric
+45963	attic/doric/aeolic
+45966	doric
 epic/doric
-
-doric/aeolic
+45969	doric/aeolic
 doric/aeolic
 epic/doric
-45974	
-attic/epic/ionic
-
-45979	
-
-
-45983	
-epic/doric/ionic/aeolic
-45986	
-
-
-
-
-45992	ionic
-
-doric/aeolic
-45996	
-
-
-46000	
-46002	
-
+45975	attic/epic/ionic
+45984	epic/doric/ionic/aeolic
+45994	doric/aeolic
 46005	epic
-
-46008	ionic
-46010	
-doric/aeolic
+46011	doric/aeolic
 46013	doric/aeolic
 epic
 attic
-46017	
-
-
-46022	
-
-46028	
 46031	ionic
 46034	doric/aeolic
 attic/epic/ionic
-
 46038	attic/epic/ionic
 46040	doric
 attic/epic
-46043	
-46050	ionic
-
-doric/aeolic
-
+46052	doric/aeolic
 46057	attic/epic
-
-46061	
-46063	
-46065	epic/doric/ionic/aeolic
-46067	
-
-
 46071	doric
-46075	
 46077	attic/epic/ionic
-
-46080	
-
-
-
-46085	
-
-
-
-attic
-46091	
-
-
-
-attic/epic
-
+46089	attic
+46095	attic/epic
 46098	attic
-
-
-46103	
 46107	attic
-
-
-
-46112	
 46115	doric/aeolic
-46117	
-46121	
-46123	
-doric/aeolic
+46124	doric/aeolic
 epic/doric/aeolic
 epic/doric
-46129	
-epic/doric/ionic/aeolic
+46130	epic/doric/ionic/aeolic
 epic/doric
-epic/doric/ionic/aeolic
-
-epic/doric
-
-
+46134	epic/doric
 46138	epic/ionic/attic
-46140	
-
-doric/aeolic
+46142	doric/aeolic
 46144	doric
-doric/aeolic
-46148	
+attic/epic/doric
+46149	ionic
+46151	attic/epic/doric
+46162	ionic
 ionic
-
-doric/aeolic
-46160	
-
-ionic
-ionic
-
-46167	
-
+46169	attic
+46171	attic/epic/ionic
+46173	doric
+46181	doric
 attic
-
-attic/epic/ionic
-
-doric
-
-
-
-
-
-
-46181	
-
-
-doric/aeolic
-
-46188	
-attic/epic/ionic
-46191	
+46184	doric/aeolic
+46189	attic/epic/ionic
 46193	epic/ionic/attic/doric
-
-
-
-46198	
-46200	
-
-
 46204	epic/doric
-
-ionic/doric/aeolic
-
-doric
-46210	
-46212	
-46215	
+46206	ionic/doric/aeolic
+46208	doric
 46217	epic/doric
-
-
-
-46222	
-46226	
-46230	
-46232	attic/epic/ionic
+46232	doric/aeolic
 46234	attic/epic/ionic
-
-46237	
-46239	
-
-
-
-46244	
-
-
-
-46251	
-attic
-
-attic
-
-epic/doric/aeolic
+46252	attic
+46254	attic
+46256	epic/doric/aeolic
 46258	doric/aeolic
 doric/aeolic
-
-attic/epic
-
+46261	attic/epic
 46264	doric/aeolic
-46269	ionic
-46271	
 46273	attic/epic/doric
-
-46277	
-
-46282	
-attic/epic
-
-46286	
-46289	
-46291	
-46293	
-attic/epic/ionic
+46283	attic/epic
+46294	attic/epic/ionic
 46297	attic/epic/doric
-
-
-46301	
-
-46304	
-
-46311	
-46313	
-ionic
-doric/aeolic
+46315	doric/aeolic
 46317	attic/epic/doric
-46319	
-
+46321	attic
 attic
-attic
-
-
 46331	attic/epic/doric
-46333	
-
-
-46341	
 46345	epic/doric
 46348	doric/aeolic
 attic
 46353	attic
-
-
-46357	
-
-
-46361	
-attic/epic
-
-46367	
-
+46362	attic/epic
 46370	attic/epic/ionic
-
-46373	
-attic
-46377	
-46379	
+46374	attic
 46381	epic/ionic
-
-
-46386	
-46388	
-
-attic/epic/doric
-
-epic/doric
-ionic
-46396	
-doric
-46399	
-46402	
-
-ionic
+46390	attic/epic/doric
+46392	epic/doric
+46397	doric
 46406	doric/aeolic
-ionic
-46409	
 46411	attic/epic
 attic/epic
-
-46415	
-
-
-
-46420	
-46427	
-
-
-
-doric/aeolic
+46431	doric/aeolic
 46433	doric
-
-
-46437	
-
-
-46442	
-46445	
-46450	epic/doric/ionic/aeolic
-
-46453	
-
-epic
-46457	
-46459	
-
-46462	
-46465	
+46438	attic/epic
+46455	epic
 46472	epic/doric
 46474	attic
-46477	
 46479	doric
-
-46482	
-
-doric/aeolic
-46486	
-46489	
-
-
-attic
-
+46484	doric/aeolic
+46486	doric
+46492	attic
 46495	ionic
 epic/doric/laconia
-
-
-
-46502	
-ionic
-46505	
 46507	doric
-
-
-attic/epic/ionic
-
-attic
-46514	
-attic
+46510	attic/epic/ionic
+46512	attic
+46515	attic
 46518	attic/epic/doric
-
-
-
-
-attic
-
-
-46527	
-46529	
-epic/doric
-46533	
-
-46539	
-46541	
-epic/doric
-
-46545	
-ionic
+doric
+46523	attic
+46530	epic/doric
+46542	epic/doric
 46548	epic/doric
 46552	epic/doric/laconia
-46554	
-46556	
-
 46560	epic/doric/laconia
-
-doric/aeolic
-46564	
-attic/epic
-
-
-46569	
-epic/doric
-46572	
-attic/epic/doric
-
+46562	doric/aeolic
+46565	attic/epic
+46570	epic/doric
+46573	attic/epic/doric
 46576	attic
-46580	
-
-46583	
-
-
-epic
+46586	epic
 46588	attic
-
-
-46592	
-46594	
 46596	attic/epic
-46598	
-46600	
-46604	
-46609	
-
-epic/doric
-
-
-
-46616	
-46621	
-
-
-46625	
-
-attic/epic
-46630	
-46632	
-
-
-parad_form
-
+46611	epic/doric
+46627	attic/epic
+46635	parad_form
 46638	epic
-
-46641	
-
-
-doric/aeolic
+46644	doric/aeolic
 attic/epic/doric
-46648	
-46651	
-46653	
-doric
-46656	
-
-attic
-46660	
-46662	
-
-epic/ionic/attic/doric
-
-46668	
-
-
-
-epic/ionic/attic/doric
-
-
-
-attic/epic/doric
-46678	
-
-epic/doric
-
-
-
-epic/ionic/attic/doric
-46687	
-
-46691	
-
-46695	
-
+46654	doric
+46658	attic
+46664	epic/ionic/attic/doric
+46672	epic/ionic/attic/doric
+attic/epic
+46676	attic/epic/doric
+46680	epic/doric
+46684	epic/ionic/attic/doric
 46698	doric
-46700	
-46702	
-46704	
-doric/aeolic
-
-
+46705	doric/aeolic
 46709	doric
-
-46712	
-
-
-
-
-
-46720	
-
-doric/aeolic
-
-doric/aeolic
+46722	doric/aeolic
+46724	doric/aeolic
 46726	attic
 46728	doric/aeolic
 doric/aeolic
 attic/epic/doric
-
-
 46734	epic/doric
 attic
-
-
 46740	attic/epic/doric
 46742	epic/doric/aeolic
-
-
-
-
-
-
-epic/doric/ionic/aeolic
-
-46753	
-
-
-46758	
-
-46761	
-
-
-
-
-
-
-46769	ionic
-46772	ionic
-46775	
-46777	
-
-
-
-
-
-46785	
-46788	
-
-46791	epic/doric/ionic/aeolic
-
-
-
-
-epic/doric
-46800	
-46803	
-
-
-
+46749	epic/doric/ionic/aeolic
+46785	doric
+46796	epic/doric
 46808	epic/ionic
-46810	
-46812	
-doric/aeolic
-46815	
-
+46813	doric/aeolic
 46818	doric/aeolic
-doric/aeolic
 46821	doric/aeolic
-46823	
-
-
-46829	
 46832	doric/aeolic
-
 46835	doric
-
-46839	
-attic/epic
-46842	
-
-46845	epic/doric/ionic/aeolic
-
-doric/aeolic
-46852	
-
-46855	
-
+46840	attic/epic
+46847	doric/aeolic
 46858	epic/ionic
-
-attic/epic/doric
+46860	attic/epic/doric
 doric/aeolic
-46864	
-46866	
-
-
-46870	epic/doric/ionic/aeolic
-46872	
-
-46876	ionic
-46878	
-
-
-46883	
-46885	
-doric/aeolic
-46889	
-attic
-46892	
-
-
-
-46897	ionic
-46901	
-46903	
+46886	doric/aeolic
+46890	attic
 46905	epic/ionic/attic
 epic/doric
 46908	attic/epic/doric/ionic
-
-
-46912	
-
-
-epic
-
+46915	epic
 46919	epic/doric/laconia
-46921	
-
-
 46925	doric/aeolic
-
-doric/aeolic
-46929	
-46933	
-46936	
-46941	
-
-
-46947	
-doric/aeolic
-
-46951	
-46954	
+46927	doric/aeolic
+46948	doric/aeolic
 46956	attic/epic/ionic
 46958	doric
-
 46965	epic/doric/aeolic
-
-46969	
 46971	doric
-46973	
-
-
-
-doric/aeolic
-
-
-
-
-ionic
-46985	
+46977	doric/aeolic
 46987	attic/epic/doric
-46990	
-
-doric/aeolic
-
-
-
-
+46992	doric/aeolic
 47000	attic/epic
 attic
-
-47004	
-47006	
-
-doric/aeolic/epic
+47008	doric/aeolic/epic
 47012	attic
-
-epic/doric
-47017	
-
-47021	
-epic/ionic
-
-
-epic
-
-47030	
-
-
-
-attic
+47014	epic/doric
+47022	epic/ionic
+47025	epic
+47034	attic
 ionic
-47037	
-47039	
-47042	
 47044	ionic/doric/laconia
 epic/ionic/attic/doric
-47047	
-
-
-
-
+47051	doric
 47055	attic
-47057	
-47059	
-47061	
 47067	parad_form
 47070	attic
-
-47074	
-
-ionic/attic/epic
-47078	
+47076	ionic/attic/epic
 47081	doric
 47083	doric
-47085	
 47087	epic/doric
-
-attic/epic
-
-
+47089	attic/epic
 47093	doric/aeolic
-
-47096	
 47100	epic/doric
-
-
-47104	
-
-attic
-
-47111	
-47113	
-ionic
+47106	attic
 47116	doric/aeolic
 attic
 ionic
-
-47121	
-47123	
-
-47127	
-
 47130	doric/aeolic
-47134	
-
-47137	
-attic/epic/doric/ionic
-47142	
-
-47146	
+47138	attic/epic/doric/ionic
 47148	attic/epic/ionic
-
-
-epic/doric/ionic/aeolic
-47153	
-
-epic/doric/aeolic
-
-47159	
-
-doric/aeolic
-47165	
-
+47155	epic/doric/aeolic
+47161	doric/aeolic
 47168	attic/epic/doric
-47171	epic/doric/ionic/aeolic
-47173	
-
-
-
-47178	
-47181	
-
 47184	doric
-47186	
-47189	
-
-
 47193	epic/doric/aeolic
-47197	
-epic/doric/aeolic
-47203	
-47205	
-
-47208	
-doric/aeolic
-
-epic
-47216	
+47198	epic/doric/aeolic
+47209	doric/aeolic
+47211	epic
 47220	epic
-
-
 47224	attic/epic
-
-47228	
-
-attic
+47230	attic
 epic/ionic/attic
 attic
-
-
-
-
-
-47240	
-47242	
-47247	
-47249	doric/aeolic
-epic/doric/ionic/aeolic
-
-47253	
-47256	
-
-47262	
-
-
-
-47267	
-
-
-47271	
-
-47274	
-ionic
-47277	epic/doric/ionic/aeolic
-
-47280	
-
+47247	attic/epic/doric
+47249	doric
 47284	attic
-47286	
-
-47289	
-47291	
-47293	ionic
-47296	
-
-
-47300	
-
-
-epic/ionic
+47287	doric
+47303	epic/ionic
 attic
-
-47307	
-doric/aeolic
+47308	doric/aeolic
 doric
-
-
-
-doric
+47313	doric
 doric/aeolic
 47316	attic/ionic/doric
-
-
-
-
+47321	attic
+47326	epic
 attic
-47325	
-epic
-attic
-
-47330	
-
 47334	attic
-
-epic/ionic
-47341	
-
-epic
+47336	epic/ionic
+47343	epic
 attic
-
-
-47352	
-
-attic/epic/doric
-
-
+47354	attic/epic/doric
 47358	epic/ionic
-
-47361	
-
-doric/aeolic
-47367	
-attic
-47370	
-epic/doric/ionic/aeolic
-epic/doric/aeolic
-47376	
-
-47379	
-47382	
+47363	doric/aeolic
+47368	attic
+47372	epic/doric/aeolic
 47384	attic/epic/doric
-
-
-47388	
-
-47392	
-47394	
-
-47399	
-47401	
-47404	
 47407	attic/ionic/epic/doric
-47409	
-47411	
-
-ionic/epic
-
-
-
+47413	ionic/epic
 47418	epic/ionic/attic/doric
-
 47422	epic
-
-47426	
 47429	parad_form
-47434	
-doric/laconia
-
-attic/epic
-47439	
-
-47442	
-
-
-epic/doric
+47435	doric/laconia
+47437	attic/epic
+47445	epic/doric
 47450	attic/epic/ionic
-47452	
-47455	
-47457	
-
-47462	
-attic/ionic/epic/doric
-
-
-47471	
-
-47474	
-47481	
-47484	
-
-
+47458	doric
+47463	attic/ionic/epic/doric
 47489	ionic
-
 47493	attic/epic/doric
-47497	doric/aeolic
-epic/doric/aeolic
-47500	
-
-doric
+47498	epic/doric/aeolic
+47502	doric
 47504	attic/epic/doric
-47506	
-47509	
-
-47513	
+47506	epic
 47515	attic/epic/doric
-47517	
-ionic
-47522	
-epic/ionic/attic/doric
-
-47528	
-
-47532	
-
-47535	
-
-doric/aeolic
+47518	ionic
+47523	epic/ionic/attic/doric
+47537	doric
 attic/epic/doric
-
-attic/epic/ionic
-47543	
-47545	
-47548	
+47540	attic/epic/ionic
 47550	attic/epic/ionic
 attic/epic/doric
 47553	doric
 47556	attic/epic
 47560	attic/epic/doric
-
-
-47565	
-47567	
-47569	
-
-47572	
-
-47575	
-
+47562	doric
 47584	parad_form
-47587	
-47591	
-47599	
-
 47604	attic/epic/doric
 attic/epic/doric
-epic/ionic/doric/laconia
-epic/doric
-
-47610	
-
-attic/epic
-47614	
-doric/laconia
-
-attic/epic
-47619	
-47621	ionic
-47627	
+47607	epic/doric
+47612	attic/epic
+47615	doric/laconia
+47617	attic/epic
 47629	attic/epic/doric
 47631	doric/laconia
 epic/ionic/attic
-47634	
-
-
-47639	
-
-47643	
-
-47646	
 47648	attic
 47652	epic/doric/aeolic
-
+epic
 attic/epic/ionic
-
-47657	
-
-attic/ionic
-47661	
-47663	
-
-epic/ionic
-47668	
-47671	
-47673	
-47676	
+47659	attic/ionic
+47665	epic/ionic
 47678	attic/epic/doric
-
-
-
-47683	
-47685	
-
-47689	
-47691	
-attic/ionic/epic/doric
+47692	attic/ionic/epic/doric
 47695	doric/laconia
 epic/ionic/attic
-
-
-
-
-47703	
-
-47713	
-
-doric/aeolic
-
+47715	doric/aeolic
 47719	epic
-47723	
-epic/doric
-47727	
+47724	epic/doric
+47727	epic
 attic/epic/ionic
-47730	
-epic
-ionic
-47734	
+47731	epic
 47740	attic/epic
-47742	
-epic/doric/ionic/aeolic
-
-
-47749	
-
-
 47753	attic
-47755	
-47759	
+47759	epic
 attic
 attic
-47764	
 47767	attic
 47770	doric
-
 47774	attic/epic/doric
 47776	epic
 47779	doric/aeolic
-
-
-47784	
-
-47787	
-
 47790	doric/aeolic
-
-47793	
-
 47796	epic/doric
-
-attic/epic/doric
+47798	attic/epic/doric
 47800	doric/aeolic
-
 47803	epic
 doric/aeolic
-
-doric/aeolic
-47808	
-doric/aeolic
-
-
-
+47806	doric/aeolic
+47809	doric/aeolic
 47815	epic/ionic
-
-47818	
 47820	attic/epic
-47825	
-47829	
-
-
-
-
-
-47836	
-epic
-
-attic/epic
-47841	
-doric/aeolic
+47837	epic
+47839	attic/epic
+47842	doric/aeolic
 47846	attic/epic/doric
-
-47849	
-
-47852	epic/doric/ionic/aeolic
-
-
-
 47859	attic/epic/doric
-
-
+47861	attic/epic
 doric
-47866	
-
-47869	
-
-
-47873	
-
-
-47877	
-epic
-
-47881	
-
+47878	epic
 47884	doric/aeolic
-
-epic
-
-47889	
-47891	
-
-doric
-47896	
-
-
-
-47902	
-
-
-
-epic/ionic
-47909	
-47912	
-
-attic
-
-
-47918	
-47920	
-47922	
-doric/aeolic
-47927	
-47929	
-
-47932	
-
-ionic/epic
-
-
-
-
-epic/doric/aeolic
-47942	
-47944	
-
-ionic/epic
-
-47950	
-47952	
-
-
-47957	
-47959	
-
-
-
-
-47965	
-epic/ionic/attic/doric
-47968	
-47970	
-
-47973	ionic
-
-47977	
-
-
-attic/epic
-
-
-
-47987	doric/aeolic
-
-47990	
-
-
-47996	
-
+47886	epic
+47893	doric
+47906	epic/ionic
+47914	attic
+47923	doric/aeolic
+47934	ionic/epic
+47939	epic/doric/aeolic
+47946	ionic/epic
+47957	attic/epic
+47966	epic/ionic/attic/doric
+47980	attic/epic
 47999	epic
 attic
-48002	
-48004	
-ionic
 48007	doric/aeolic
-
-48010	
-
-attic/epic/ionic
-
-
-48017	
-
-
-attic/epic
-48022	epic/doric/ionic/aeolic
-epic/doric/aeolic
-doric/aeolic
-48026	
-attic/epic/ionic
-48029	
+48012	attic/epic/ionic
+48020	attic/epic
+48023	epic/doric/aeolic
+attic/epic/doric
+48027	attic/epic/ionic
 48032	attic/epic/ionic
 48034	attic/epic/ionic
-
-
-48038	attic
-
-48045	attic
-
-
-48049	
-
-48052	
-
-
-
-ionic
-
-
-48062	
-48065	
-48067	attic/epic/doric
-48069	
 doric
-48072	
-48075	
-
-48078	
-48081	
-epic/doric/aeolic
-48085	
+48038	attic
+48045	attic
+48067	attic/epic/doric
+48070	doric
+48082	epic/doric/aeolic
 48087	attic/epic/doric
-
 48090	doric/aeolic
-48093	
-
-48096	
-doric/aeolic
-
-48102	
-48104	
-
-
-48109	
-attic/epic/doric
-
-
-48114	
-epic/doric
-
-epic/doric/ionic/aeolic
-attic/epic/doric
+48097	doric/aeolic
+48110	attic/epic/doric
+48115	epic/doric
+48118	attic/epic/doric
 48122	attic/epic/ionic
-
-48127	
-48129	
-epic/doric/aeolic
-48132	
-epic/ionic
-48135	
-attic/ionic
-
-
-48141	
-
+48130	epic/doric/aeolic
+48133	epic/ionic
+48136	attic/ionic
 48146	doric/aeolic
 attic
-
 48151	attic/epic
 48156	attic
 attic
 48159	attic/epic/doric
-48166	
-48169	attic/epic/doric
-
-epic/doric/aeolic
-48174	
-48176	
-epic/doric/aeolic
+48171	epic/doric/aeolic
+48177	epic/doric/aeolic
 doric
-48181	
-attic/epic/ionic
-48184	
+48182	attic/epic/ionic
 48187	doric/aeolic
 doric/aeolic
-
-48191	
-
-doric/aeolic
-48195	
-48197	
-48201	
-48205	
-48207	
-epic/doric/ionic/aeolic
+48193	doric/aeolic
 48212	doric/aeolic
-
-48216	
-48219	
-48221	
-ionic
-
-48225	
-
-doric
-
-48230	
-
-48235	
-
-attic
-
-doric
-48241	
-
+48222	ionic
+48227	doric
+48237	attic
+48239	doric
 48245	attic
-
-attic
-48250	
-attic/epic
+48247	attic
+48251	attic/epic
 attic/epic
 doric/aeolic
-
 48257	attic/epic/doric
-48260	
-48262	
-doric
+48263	doric
 48265	attic/epic/doric
-48267	
-
 48270	attic/epic/doric
-
-
-ionic
 48275	attic/epic/ionic
 epic/ionic
 48278	doric/aeolic
-
-attic/epic
-48282	
-
-
-
-
+48280	attic/epic
 48289	doric/aeolic
-
-
-
 48294	doric
-48296	
-
-
-
-
+48296	doric/ionic
 48303	attic
-
-
-attic/epic
-48308	ionic
-
-
-
-48315	
-epic/ionic
-
-48321	
-48323	
-48326	
-attic
-
-48330	
-
-48333	
-48335	attic/epic/ionic
+48306	attic/epic
+48316	epic/ionic
+48327	attic
 48338	doric/aeolic
-48340	
-48342	
-48344	
-48346	
-
-48350	
-doric/aeolic
-
-48354	
-48358	
+48351	doric/aeolic
 48360	attic/ionic
-epic/ionic/doric/laconia
-
-48364	
-
-48367	
 48369	attic/epic/doric
-48371	
-48373	
-doric
+48374	doric
 attic/epic/doric/aeolic
-
-48378	
-48380	
-
-
-48384	
-48386	
-48392	epic/doric/ionic/aeolic
-attic/epic/doric
-48395	
-
-
-48399	
-
-doric/aeolic
-48403	ionic
+48393	attic/epic/doric
+48401	doric/aeolic
 48405	doric
-
-
-
-48410	
-doric/aeolic
-
+48411	doric/aeolic
 48415	attic/epic/doric
-48418	
-48420	
-48425	
-attic/epic
-48433	
-48435	
-
-
-48440	
+48426	attic/epic
 48442	attic
-
-48446	
 48450	doric
-
-epic/ionic/attic/doric
-48455	
+48452	epic/ionic/attic/doric
 48458	attic/epic/doric
-48460	
-
-epic/ionic/attic/doric
-48464	
-48467	
+48462	epic/ionic/attic/doric
 48472	attic/epic/doric/ionic
-48475	
-48477	
-
-
-48481	
 48483	ionic
-48486	
-
-
-
 48491	epic/ionic
-
-
-
-attic
+48495	attic
 attic
 48501	doric
-
-
-48506	
-attic/epic
+48507	attic/epic
 attic
-
 48512	attic
-48515	
-48518	
-
-48521	
-
-
-ionic
-
-epic/ionic/attic
+48515	doric
+48526	epic/ionic/attic
 48528	doric
-48533	
-48536	
-
 48541	doric/aeolic
-48544	
-attic/epic/ionic
-48547	
 48549	doric
-
-48552	
-
 48555	doric/aeolic
 48558	doric
-
-
-
-
+48563	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-48567	
-48569	
-doric
-48573	
-
-doric
+48570	doric
+48575	doric
 48577	doric/aeolic
 attic/epic/doric
 48580	epic/ionic
 epic
 48583	epic/doric
-48585	
-doric
-
-
+48586	doric
+48589	attic
+48615	ionic
 attic
-
-48592	
-48594	
-48598	
-48600	
-48603	
-
-48607	
-48610	
-48614	
-ionic
-attic
-48618	
-attic/epic/ionic
-48622	
-doric/aeolic
-
-
+48623	doric/aeolic
 attic/epic
-48629	
-48632	ionic
+48626	attic/epic
 48634	doric/aeolic
-
-48638	
-
-48641	
-48643	
-
-
-
-
-
-48650	
-
-
-
-epic/doric/ionic/aeolic
-48656	ionic
-48659	attic/epic/doric
-
-48663	
+48648	attic/epic/ionic
 48667	doric/aeolic
-48669	
-48672	
-
 48675	ionic/doric/aeolic
 48678	epic/doric/aeolic
-doric/aeolic
-
-
-48683	
-attic
-
-
-
-48690	
-attic/epic
-48695	
-
-48699	
-48701	
-epic
-
-
-48707	
-48710	
-48717	
+attic/epic/doric
+48684	attic
+48691	attic/epic
+48702	epic
 48719	epic/ionic
-48722	
-
-ionic
-
+48722	attic/epic
+48724	ionic
 48727	epic/doric/aeolic
-
-attic
-
+48729	attic
 48732	attic
-
-
-
-
-epic
+48737	epic
 attic
 doric/aeolic
 doric/aeolic
-epic/doric/ionic/aeolic
-doric/aeolic
-48744	
-
-
-ionic
-48750	
-48753	
-48756	
-
-
-
-48761	
-
-
+48742	doric/aeolic
 48769	doric/attic/epic
-
-
-
-
-48775	
-48777	
-
-
-attic/ionic
+48780	attic/ionic
 attic
 epic/ionic/attic
-
-48785	
-attic/epic/doric
+48786	attic/epic/doric
 48788	epic
-
-
-
-48793	
-
-attic/epic/ionic
+48795	attic/epic/ionic
 doric
 48800	attic/epic/doric
 48802	attic/epic/doric
-48806	
-
-
-48810	
-48812	
-
+48812	epic
 48815	epic
-
-
-ionic
+48818	ionic
 epic/doric
-
-doric/aeolic
-
-
-48827	
-
-attic/epic/doric
-
+48821	doric/aeolic
+48829	attic/epic/doric
 48832	attic/ionic
-48835	
-
-48838	
-48841	
-
-48844	
-attic/epic
-
-48849	
-48851	
-doric/aeolic
-
+48845	attic/epic
+48852	doric/aeolic
 48859	attic/epic/doric
-
-
-48863	
-48865	
-
-
-
-
-
-48872	
-48875	
 48877	epic/ionic/attic
-48880	
-epic/ionic/doric/laconia
-
-48884	
-48889	
-epic/ionic/attic/doric
-
+48890	epic/ionic/attic/doric
 48895	epic/doric
-48897	
-
-doric
-
-attic/epic
-48903	
-
-
-
-attic/epic
-
-
+48897	doric/ionic
+48899	doric
+48901	attic/epic
+48907	attic/epic
 48912	epic
-48915	
-
-
-
-
 48921	attic/epic/doric
 attic
-
+48924	doric/aeolic
 doric/aeolic
-doric/aeolic
-48927	
-
-
-48934	
-48937	
-
-
-epic/ionic
-
-48944	
-attic/epic
-48947	
-doric/aeolic
-ionic
-48951	
-ionic
-
-
-doric/aeolic
-48957	
+48940	epic/ionic
+48945	attic/epic
+48948	doric/aeolic
+48955	doric/aeolic
 48963	attic/epic/doric
 attic/epic/doric
-
 48967	doric/aeolic
 attic
-48970	
 48972	epic/doric
-48975	
-
-
-attic/ionic
-
-
+48978	attic/ionic
 doric
-
-
-48988	
+48981	doric
+48988	doric
 48990	doric/aeolic
-48992	
-doric/aeolic
-
-
-
-49000	
-attic/epic
-49005	
-49007	
-49010	ionic
-49015	
-49017	
-ionic
-49020	
-
+48993	doric/aeolic
+49001	attic/epic
 49024	doric/aeolic
-
-49027	
-attic/epic
-
-49032	
-
-
-epic/doric/aeolic
-
-49039	
-49041	epic/doric/aeolic
-49044	
-49047	epic/doric/aeolic
-
-49051	epic/doric/aeolic
-
-
-49056	
-
-49059	
-49063	
-49065	ionic
 epic
-
+49028	attic/epic
+49035	epic/doric/aeolic
+49041	epic/doric/aeolic
+49047	epic/doric/aeolic
+49051	epic/doric/aeolic
+49066	epic
+49068	epic/doric/aeolic
+49071	attic/epic/ionic
 epic/doric/aeolic
-
-
-attic/epic/ionic
-epic/doric/aeolic
-49074	
-attic/epic/ionic
+49075	attic/epic/ionic
 epic/doric/aeolic
 49078	attic
-
-
 49083	attic
-
-
-
-
-49089	
-
-49092	
-epic
-49097	
-
-doric/aeolic
-
-
-49103	
-ionic
-doric/aeolic
-
-
-
+49093	epic
+49099	doric/aeolic
+49105	doric/aeolic
+49109	attic
 attic
-attic
-
-49115	
-
-epic/doric/aeolic
+49117	epic/doric/aeolic
 49120	attic
-49122	
-
-
-attic
+49125	attic
 attic
 epic/doric/aeolic
 49129	attic
-49131	
-
-
-
-49136	
-ionic
-49140	
-attic/epic
+49141	attic/epic
 49143	epic/doric/aeolic
-49145	
-49148	
-49151	
-49154	
-49156	ionic
-
-
-
-49161	
-
-49164	
-
-49168	
-49171	
-doric/aeolic
-49174	
+49172	doric/aeolic
 49177	attic/epic/doric/ionic
-ionic
 49180	doric/aeolic
-
-epic/ionic
-
-
-
-ionic
-
-49190	ionic
-
-49195	
-
-49198	epic/doric/ionic/aeolic
-
+49182	epic/ionic
 49204	epic/doric
-
-attic
+49206	attic
 49208	doric/aeolic
 49210	doric/aeolic
-
-doric/aeolic
-
-49215	
+49212	doric/aeolic
 49217	doric/aeolic
-
 49220	epic/doric/aeolic
-
-attic/epic
-
-
+49222	attic/epic
 49226	epic/doric/aeolic
-
 49229	epic/doric/aeolic
-
-
-
-doric
-
-49236	
-
-epic/doric/aeolic
-
-
-
-epic/doric/aeolic
-
-
+49238	epic/doric/aeolic
+49242	epic/doric/aeolic
+49245	attic
+49258	epic
+49265	epic/doric/aeolic
+epic
 attic
-49247	
-49252	
-49254	
-
-
-
-
-
-49261	
-49264	
-epic/doric/aeolic
-
-attic
-
-49270	
 49272	epic/doric/aeolic
 49274	doric/aeolic
-49276	
-
-ionic
+49277	doric/ionic
 49281	attic
 49284	doric
-epic/doric/ionic/aeolic
-49288	
-
-attic
-
-
-
-49296	
-attic/epic/doric
-
-
-parad_form
+49290	attic
+49297	attic/epic/doric
+49300	parad_form
 49302	epic/doric/aeolic
-
-49307	
-
 49310	epic/doric
-49312	
 49315	epic/doric
-
-attic/epic/doric
-
-
-
-
-49323	
-49325	
-49328	
-
-49331	
-
-
-
-doric
-
+49317	attic/epic/doric
+49335	doric
 49339	doric
 49341	epic/ionic
-49343	
-
-
-
-
-
-49351	
-
-epic
-
-
+49353	epic
 49357	attic/epic/doric
 doric/aeolic
 doric/aeolic
-
-
-
-
-49365	
-
-49368	
-doric/aeolic
-
-doric
-epic/doric/ionic/aeolic
+49369	doric/aeolic
+49371	doric
 49374	doric/aeolic
-
-
-49379	
 49382	epic/ionic
-
-
-49387	
-49389	
-
-
-
-ionic
-
-ionic
-
+49397	doric
 doric
-doric
-
-
-
-
-attic/epic/doric
-
-
-
+49403	attic/epic/doric
 49408	epic/doric
-
-
-49412	
-
-
-doric
-
-49418	
-
-
-attic/epic/doric
-49423	
-doric
-
-49427	
-attic
-49430	
-
-
+49421	attic/epic/doric
+49424	doric
+49428	attic
 49434	doric/aeolic
 attic
-
 49438	epic/doric/aeolic
-
-
-49442	
-doric/laconia
-
-49447	
-49451	
-
-
+49443	doric/laconia
 49455	attic
-
-
-
 49460	doric/aeolic
 attic
 attic
-49465	
-
-attic/epic/doric
-
-doric
-
-49474	
-
-epic/doric/aeolic
-
-
-
-epic/doric/aeolic
-
-
-49486	
+49467	attic/epic/doric
+49476	epic/doric/aeolic
+49480	epic/doric/aeolic
 49488	attic/epic
-49490	
-49492	
-attic/epic/doric
-
-
-49497	epic/doric/ionic/aeolic
-49499	
-
-
-doric/aeolic
-49505	
-
-doric/aeolic
-
-
-49514	
-
-49519	
-epic
-49523	
-
-49527	
-49529	
-
-
-49534	
-49536	
-49541	
-49543	
-49545	
-
-49550	
-49553	
-epic
+49490	epic
+49493	attic/epic/doric
+49502	doric/aeolic
+49507	doric/aeolic
+49520	epic
+49530	attic
+49554	epic
 attic
-
-
-doric/laconia
-49561	
-
-49564	
-
-
-
-49570	
-attic/epic
+49558	doric/laconia
+49571	attic/epic
 attic
 attic/epic/doric
-
-
-
 49578	attic
-
-49582	
 49584	doric/aeolic
-
 49589	attic/epic
 attic
 epic
-49593	
-
 49596	doric/aeolic
-49599	
-
-
-attic/epic
-
+49602	attic/epic
 49605	epic/ionic
-
-49608	
-
-
-49612	
-attic/epic/doric/ionic
-
-
-
-49623	
-attic/epic/doric/ionic
-49627	
+49613	attic/epic/doric/ionic
+49624	attic/epic/doric/ionic
 49630	doric
-49632	
+49633	epic/doric/aeolic
+49635	attic/epic/ionic
 epic/doric/aeolic
-
-attic/epic/ionic
-epic/doric/aeolic
-
-
-49641	
-
-
-
-49646	
-
-
-
-49651	
-
-
-49655	
 49659	doric/laconia
-49662	
-
-49667	
-49669	
-
-49676	
-
-
-
-
-49682	
-
-
-epic
-
-49690	
-49692	
-
-doric/laconia
-49697	ionic
+49685	epic
+49694	doric/laconia
 49699	doric/aeolic
-49701	
-
-49704	
-
-
-
-attic/epic/doric/ionic
+49708	attic/epic/doric/ionic
 49710	epic/doric/aeolic
-49712	
-
-
-49716	
-49721	
-
-
-49727	
-
-
-49731	
-
-attic/epic
-
-49736	
-doric/aeolic
+49733	attic/epic
+49737	doric/aeolic
 49741	attic
-49744	
-49747	
-
-49750	
 49752	doric/aeolic
-
-
-49756	
-
-
-
-attic/epic/doric
-49762	
-epic
-
-49767	
-49771	
-
-
-
-49777	
-49780	
-49782	
-
-49785	
+49760	attic/epic/doric
+49763	epic
+49785	epic
 49788	doric
-
-49791	
-
 49794	attic
-
-
-
-
-
 49801	epic/ionic/attic
-
-
-doric
-
-49809	
-
-epic
+49804	doric
+49811	epic
 attic
-
 49815	ionic/epic
-
-attic
+49817	attic
 49819	doric
-
-49822	
-
-
-
-
-
-
-
-
+49830	attic/epic/doric
 49832	epic/ionic/attic
-49834	
-49836	
-49838	
-
+49840	attic/epic/ionic
 attic/epic/ionic
-attic/epic/ionic
-
-doric
-49847	
+49843	doric
 49851	attic
-
-49856	
 49859	attic
-
-epic/doric/ionic/aeolic
-
-
-
-epic/ionic
-49868	
-doric/aeolic
-49871	
+49865	epic/ionic
+49869	doric/aeolic
 49873	epic/doric/aeolic
-
-
+49876	attic
 attic
-attic
-
-49882	
-
-49885	
-doric/aeolic
-
-ionic
-49890	doric
-49893	
-
-
-
-attic
-attic
-49901	
-
-epic
-49905	
-49907	
-
-
-
-49912	
-49915	
-
-
-
-
-
-
-
-49924	epic/ionic/attic/doric
-
-
-
-
-doric
-
-doric/aeolic
-49933	
-doric/aeolic
-doric/aeolic
-49937	
-49940	
-
-doric/aeolic
-doric
-doric/aeolic
-
-49947	
 attic/epic
-
-
-
-
-
+49886	doric/aeolic
+49890	doric
+49897	attic
+attic
+49903	epic
+49924	epic/ionic/attic/doric
+49927	attic
+49929	doric
+49931	doric/aeolic
+49933	attic/epic
 doric/aeolic
+doric/aeolic
+49942	doric/aeolic
+doric
+49948	attic/epic
+49954	doric/aeolic
 doric/aeolic
 49959	doric/aeolic
-
-
-49963	
-
-
-49968	
-attic/epic
-49971	
-49974	
-49977	
-49981	
-
-49984	
-49986	
-49988	
+doric
+49969	attic/epic
+49986	epic
 49990	epic/ionic/attic/doric
-49992	
 49996	attic/epic
-49998	
-
-50002	
-
-50006	
-50008	
-
-epic
+50010	epic
 50013	attic/epic/doric
-50015	
-50019	
-
-
+50021	doric
 50024	attic/ionic/epic/doric
-
-
-
-
-
-
 doric/aeolic
-50033	
+50031	doric/aeolic
 50037	doric/aeolic
-
-50041	ionic
-50043	
+50044	doric/aeolic
+50061	doric/aeolic
+50064	attic/epic
+50067	doric/aeolic
 doric/aeolic
-
-
-50049	ionic
-50053	
-
-
-50057	
-50060	
-doric/aeolic
-
-50064	
-50066	
-doric/aeolic
-doric/aeolic
-epic/doric/ionic/aeolic
 50071	epic/doric/aeolic
-50074	
-
-50078	ionic
-50080	
-
-50083	
-
-attic/epic
-
-50089	
+50085	attic/epic
 50093	doric/aeolic
 50096	epic/doric/aeolic
-50099	
-50101	
-
 50104	doric
-
-attic
-
-
-
-50113	
-50115	
+50106	attic
+50109	doric
 50117	epic/ionic
-
 50121	doric/aeolic
 doric/aeolic
 50126	doric/aeolic
 doric/aeolic
 attic/epic/doric
-
-
-
-50133	
-
 50137	attic
-50139	
-50141	
-50143	
-doric/aeolic
-
-
-
-50149	
-
+50144	doric/aeolic
+50151	attic
 attic
-attic
-
-50156	
-50158	
-attic/epic/doric
+50159	attic/epic/doric
 50161	epic/ionic
-
-
 50166	attic
-
-
-attic/epic
+50169	attic/epic
 doric
-
-50173	
-
-
-50180	
 50182	ionic
 50185	epic/ionic
-50187	
-attic/epic/doric
-50194	
-doric
-50199	
+50188	attic/epic/doric
+50195	doric
 50201	ionic
 50206	epic
-
-attic
-
-attic
-50212	
-
-50215	
-
-
-50219	
-doric/aeolic
-
-
+50208	attic
+50210	attic
+50220	doric/aeolic
 50224	epic
-50227	
-epic/ionic
+50228	epic/ionic
 50230	attic/epic
-
-
-
-
-
-
 50238	epic/doric/aeolic
-
-50241	
-
-attic/epic
-50245	
-
-doric
-50250	ionic
+50243	attic/epic
+50247	doric
 50252	doric/aeolic
-
-50255	
-
-
-
-epic/ionic/attic/doric
-50262	
-
-50266	
-
-50273	
-
-doric/aeolic
-50277	
-
-
-
-attic
-
-50286	
-epic/doric/aeolic
-
-attic/epic
+50259	epic/ionic/attic/doric
+50267	epic
+50275	doric/aeolic
+50281	attic
+50287	epic/doric/aeolic
+50289	attic/epic
 50291	epic/doric/aeolic
-50294	
-
-50297	
-doric/aeolic
-
-
-
-
-50304	
-50309	
-
+50298	doric/aeolic
 50312	doric/aeolic
-
-
-
 50320	doric/aeolic
-
-
-
-50325	
 50327	attic/epic
 doric/aeolic
-
-50331	
-50334	
-doric
-
-50338	
-
+50335	doric
+50340	attic/epic/ionic
 attic/epic/ionic
-attic/epic/ionic
-
-
-doric/aeolic
-
-
-50349	
-doric/aeolic
+50344	doric/aeolic
+50350	doric/aeolic
 attic/epic/doric
 50353	doric/aeolic
 attic
-
-
-50359	
-
-
-doric/aeolic
+50362	doric/aeolic
 50365	attic/epic/ionic
-
-
-doric/aeolic
-ionic
+doric/ionic
+50368	doric/aeolic
 50371	doric/aeolic
-50373	
-
-
 50379	doric
-
+50381	attic/epic/ionic
 attic/epic/ionic
-attic/epic/ionic
-
-
-doric/aeolic
-
-
-50389	
-50393	
-doric/aeolic
-50396	ionic
+50385	doric/aeolic
+50394	doric/aeolic
 50398	doric/aeolic
 attic
-
 50402	attic/ionic
-
 50410	attic/ionic
-
-attic
-50416	
-50418	
-
-
-attic/epic
+50412	attic
+50421	attic/epic
 epic/doric
-50428	
-attic/epic
+50429	attic/epic
 50432	epic/doric
-
-50436	
-doric
-
-50441	
-
-50446	
-50448	
-attic
+50437	doric
+epic
+50449	attic
 50451	doric
-
-50454	
-
-
-doric/aeolic
-
+50457	doric/aeolic
 50460	doric
-
-50463	
-
-50466	
-
 50469	attic
-50472	
-
 50475	attic/epic/ionic
 attic/epic/ionic
-
-
-
-
-doric/aeolic
+50481	doric/aeolic
 attic/epic/doric
-50484	
 50486	attic/epic/doric
 50489	doric/aeolic
-
-
-
-
-
-50496	
-doric
-50499	
-
-
-doric/aeolic
-
-doric
-
-doric/aeolic
+50497	doric
+50502	doric/aeolic
+50504	doric
+50506	doric/aeolic
 epic
 50510	epic/doric/aeolic
-ionic
-50514	
-
-
-
+50518	attic
+50520	epic
+50522	epic
 attic
-
-epic
-
-epic
-attic
-
-50527	
-
-50531	
-
-
 50536	attic/epic
 50539	attic
-
-
-50543	
-50545	
-
-
-attic/epic/ionic
-
+50548	attic/epic/ionic
 50552	attic/ionic/epic/doric
-
 50561	doric/aeolic
-50563	
-50565	
-50567	ionic
-50569	
-attic/doric/aeolic
-50572	
-attic/epic/ionic
-
-
-50577	
-
-50582	ionic
-50585	
-
-50590	
-50592	
-50595	
-
-50598	ionic
-50600	
-epic
-
-
-50605	doric/aeolic
-50607	
-
-epic/doric/aeolic
-ionic
+50570	attic/doric/aeolic
+50573	attic/epic/ionic
+50601	epic
+50605	attic/epic/doric
+50609	epic/doric/aeolic
 50612	doric/aeolic
 attic
-50615	
-attic
-
-50621	
-epic/doric/ionic/aeolic
-
+50616	attic
+50622	epic/doric/ionic/aeolic
 50625	attic
 ionic/epic/doric/aeolic
-ionic
-50631	
-
-epic
-
-50636	
-
-50639	
-epic/doric/aeolic
-50642	
-
-
-50648	
-
+50633	epic
+50640	epic/doric/aeolic
 50651	attic/epic
-50653	
-50655	
-50659	
-
-
-50663	
-50665	
-
 50668	attic/epic/doric
 50670	epic/doric/aeolic
-50674	
-
-50677	
-
-50680	
-
-
-50684	
-
-
-
-
-
-50691	
-doric/aeolic
-
-ionic
+50692	doric/aeolic
 50696	doric
 attic/epic/ionic
-50699	
+50699	attic/epic
 epic
-50702	
 50705	epic/doric/aeolic
-50708	
-50710	
-
 50713	attic
-50715	
-50717	
-epic/doric/aeolic
-
+50718	epic/doric/aeolic
+attic/epic
 50726	epic/doric/aeolic
-50728	ionic
-50731	
 50734	epic/doric/ionic/aeolic
-
-
-
-
-
-50741	
-50744	
 50747	attic/epic/ionic
 50749	epic/ionic
-
 50753	epic/doric/aeolic
-
-
-doric/aeolic
+50756	doric/aeolic
 attic
-
-50762	
-50764	
 50770	doric
-
-50773	
-
-doric/aeolic
+50775	doric/aeolic
 50779	doric/aeolic
-
-50782	
-
-
-attic
-
+50785	attic
 50790	attic/epic
-
-
-
-
-attic/epic/doric
-
-
-50799	
-50801	
-
-
-
-
-50808	
-50810	
-50812	
-attic
-
-
-50818	
-
-
-
-
+50795	attic/epic/doric
+50813	attic
+50822	epic
 50824	epic/doric
 attic
-
-50829	
-
-
-doric/aeolic
+50832	doric/aeolic
 50835	attic/epic
-50837	
-50840	
-50843	
-50846	
-
-
+50847	doric/ionic
 50850	attic/epic/ionic
-
 50853	attic/epic/ionic
-50856	
 50858	attic/epic/ionic
 attic/epic
-
-
-attic
-
-50865	
-50868	
-epic/doric/aeolic
+50862	attic
+50869	epic/doric/aeolic
 50873	attic/epic
 50876	doric/aeolic
-
-50879	
-
-
-
 50884	doric/aeolic
-50886	
-
 50889	doric/aeolic
-50891	
-50893	
-
-50896	
 50898	attic
-
-attic/epic
-
-50903	
-attic
-
-50908	
-50910	
-50914	
-epic/doric/aeolic
-
-
-ionic
-
-
-50922	ionic
-50925	
-attic/epic/ionic
-
-
+50900	attic/epic
+50904	attic
+50915	epic/doric/aeolic
+50918	ionic
+50926	attic/epic/ionic
 50930	attic/epic/doric
 attic/epic
-50933	
-epic
+50934	epic
 attic/epic/ionic
-50937	
-doric
+50938	doric
 attic
-
-attic/epic/doric/ionic
-50944	
-50947	
-
-
-50951	
-50953	
-
-doric
+50941	attic/epic/doric/ionic
+50955	doric
 epic/doric/aeolic
 attic/epic
-50959	
-
-
-50963	
-50965	
-50968	
-doric/aeolic
-
-
+50969	doric/aeolic
 50973	doric
-50975	
-50977	ionic
 50979	doric/aeolic
 attic/epic
-50984	
-50989	ionic
+50984	epic
 50993	attic/epic/ionic
-50995	doric/laconia
-attic
-50998	
+50996	attic
 51002	attic/epic
-51004	
-epic/doric/aeolic
-51007	
+51005	epic/doric/aeolic
+51007	attic/epic
 attic/epic/ionic
 attic
-51011	
-51013	
-51015	
-51017	
-51020	
-
-attic/epic/ionic
-
-epic/doric/aeolic
-
-attic/epic/ionic
-51029	
-51032	
-51034	
-51036	
-
-51041	
+51022	attic/epic/ionic
+51024	epic/doric/aeolic
+51026	attic/epic/ionic
 51043	doric/aeolic
-
-51046	ionic
-51049	
-doric/aeolic
-51052	
-51054	
-
-51057	
-51059	
-51062	
-51064	
+51050	doric/aeolic
+51062	doric/ionic
 51066	attic/epic
-51070	
 51072	attic/epic/ionic
 attic/epic/doric
 51075	doric
-
-51078	
-51080	
-51083	
+51083	ionic/doric/aeolic
 attic
-
-51087	
-51089	
-
-
-51096	
-51101	
-
-51104	
-
-
-
+51096	attic
+51101	attic
 51110	epic/ionic/attic
 51115	ionic
-
+epic
 51118	epic/ionic/attic
-51122	
-
-51126	
-attic
-51129	
+51127	attic
 51133	attic
-51138	
-
-epic
-51142	
-
-
-51146	
-51148	
-doric
-
-51152	
-51155	
-attic/epic/ionic
-
-attic
-51161	
-51165	
-
-
-attic
-51170	
-attic/epic/doric
-
-
-
-
-
-ionic
+51140	epic
+51149	doric
+51156	attic/epic/ionic
+51158	attic
+51165	attic
+51168	attic
+51171	attic/epic/doric
 51180	doric/aeolic
-51183	
-
-
-51187	
-
-attic/epic/ionic
-51192	ionic
-attic/epic/ionic
-
-
-51198	
-51200	
-51206	
-
-attic/epic/ionic
-51213	
-51215	
-
+51189	attic/epic/ionic
+51193	attic/epic/ionic
+51208	attic/epic/ionic
 51218	epic
-
-51221	
 51223	doric
-
-51227	
-
-
-epic
-
-51233	
-
-attic/epic/ionic
-
-
-
-
-
+51230	epic
+51235	doric
 51243	attic/epic/ionic
-51247	
-epic/ionic/attic
-
-51251	
-51254	
-51256	
-
-
-51260	
-attic/epic/doric
-
-doric
-
-51266	
-
-
-
-attic/epic
-
-
-
-51276	
-
-
-
-51281	
+51248	epic/ionic/attic
+51261	attic/epic/doric
+51263	doric
+51270	attic/epic
 51284	attic/epic/doric
 attic/epic
-
-51288	
-
-
-51293	
-51295	
-
-51298	
+51299	attic/epic
+51305	attic/ionic/epic
 attic/epic
-
-
-51303	
-
-attic/ionic/epic
-attic/epic
-
 51309	epic/ionic/attic
-
-
-
 51314	epic/ionic/attic/doric
-
-doric/aeolic
-
-
-
-
-
-
+51316	doric/aeolic
 51324	doric/aeolic
-51326	
-51330	
-
 51333	doric/aeolic
 attic/ionic/epic/doric
 attic/epic
-
-
 51340	epic/doric/aeolic
-51343	
 51346	attic/epic
 51348	attic/epic/doric
-51351	
 51355	attic/epic/doric
-
 51359	epic/doric/aeolic
 attic/epic
 attic/epic/doric
-
-
-
 51366	doric/aeolic
-
-51370	
-
-
-51374	
 51376	attic/epic/doric/ionic
 attic
-
-
-51381	
-
-attic/epic/doric
-
-
-attic/epic/ionic
-
-epic/doric/ionic/aeolic
-
-
-51392	
-doric/aeolic
-
-51396	
-
-
-51403	
-
-attic/epic
-
-
-attic/epic
-51411	
+51383	attic/epic/doric
+51386	attic/epic/ionic
+51393	doric/aeolic
+51405	attic/epic
+51408	attic/epic
 51414	doric
-51416	
-51419	
-ionic
-51424	
-51428	
-51431	
-51433	
-
-
-
-51439	
-
-
-
-51446	
-51449	
-attic/epic
-51452	
-51454	
-doric/aeolic
-
-51458	
-
-51461	
-
-attic/epic/doric
-
-
-51469	
-
-
-51473	
-doric/aeolic
-51477	
-
-
-
-51482	
-
-
-
-
-doric/aeolic
-51489	
-attic/epic/doric
-51492	
-attic
+51450	attic/epic
+51455	doric/aeolic
+51463	attic/epic/doric
+51474	doric/aeolic
+51477	attic/epic/ionic
+51487	doric/aeolic
+51490	attic/epic/doric
+51493	attic
 51497	doric
-
 51500	epic
-
-51503	
-
-51509	
 51512	attic/epic/doric
-
-doric
-
+51514	doric
 51518	epic/doric
 51520	doric/aeolic
 doric/aeolic
 doric/aeolic
-
-doric/aeolic
+51524	doric/aeolic
 epic
-51528	doric/aeolic
-
-51532	
+51528	attic/epic/doric
 51534	epic/ionic/attic
-
-ionic
-attic/epic/ionic
-
-
-
-attic/epic/ionic
-
-
-51545	
-51547	
-51549	
-
-51554	
-51557	
-attic/epic/ionic
-51561	
+51537	attic/epic/ionic
+51541	attic/epic/ionic
+51558	attic/epic/ionic
 51563	attic/epic/doric
-
-epic/doric
-51567	
-
-51571	
-51575	ionic
-51578	
-51580	
-51587	ionic
-51589	
-51591	
-51597	
-
-51600	
-
-
-
-51605	
-51608	
-doric/aeolic
-
-51612	
-51614	
-51617	
+51565	epic/doric
+51591	epic
+51609	doric/aeolic
+51617	attic/epic
 51619	doric/aeolic
 51622	attic
-51624	
-51627	
-
-
-51631	
-
-51634	
-51636	
-doric/aeolic
-
+51624	epic
+51629	doric
+51634	epic
+51637	doric/aeolic
 51643	doric/aeolic
-
-51648	
-
+51650	attic
 attic
-attic
-
 51654	doric/aeolic
 51656	doric/aeolic
-
-51659	ionic
 51661	doric/aeolic
-51664	
-51666	
-doric
-
-
-
+51667	doric
 51672	doric/ionic
-
-
-
-51677	
-ionic
 51680	doric/aeolic
 ionic
-51683	
-51685	
-51687	
-attic/ionic/epic/doric
-
-
-
-
-doric
-51697	
-ionic
-51701	
-51704	ionic
+51688	attic/ionic/epic/doric
+51693	doric
 51706	doric/aeolic
-51708	
 51710	attic/ionic/epic/doric
-51713	
-epic/doric/ionic/aeolic
-epic/doric/aeolic
-
-51718	
-
-epic
-51722	
-51725	
-
-
-
-
-51731	
-ionic
+51715	epic/doric/aeolic
+51720	epic
 51734	doric/aeolic
-
-51740	
-
 51743	doric
-
-51750	
-51752	
-
 51756	doric/aeolic
-
-
-51761	
-
-
-doric
-
-51768	
-51770	
-
-51775	
-
-
-
-
-
-attic/epic/doric
-
-epic
-
-attic/epic/ionic
-51787	
+51764	doric
+51781	attic/epic/doric
+51783	epic
+51785	attic/epic/ionic
 51789	attic/epic
-
-
-
-
-
-
-51797	
-doric/aeolic
-51800	
-51802	
-
-
-
-
-
-
-epic
-
-attic/epic/ionic
-
+51798	attic/epic/doric
+51811	attic/epic/ionic
 51815	doric/aeolic
-51817	
-
-
-
 51822	epic/ionic
-51824	
-
-
+51826	doric
 doric/aeolic
-51829	
-51831	
-51835	
-51837	
-attic/epic/ionic
-
-
-
-
-
-
-
-
-
-epic
-
-attic/epic/ionic
-51855	
-
-
-attic/epic/ionic
-51862	
+51838	attic/epic/ionic
+51848	epic
+51850	attic/epic/ionic
+51858	attic/epic/ionic
 51864	attic/ionic/epic/doric
-
-
-51868	
-51870	
-ionic
 51873	doric/aeolic
-
-
-epic/doric/aeolic
-51878	
-
-51882	
-ionic
-51887	
-51889	
-
-
-51893	
-
-attic/epic/ionic
+51876	epic/doric/aeolic
+51895	attic/epic/ionic
 51899	doric/aeolic
 attic/epic/doric/ionic
-
-51903	
-51905	
-attic/epic/doric
-
-
-
-
+51906	attic/epic/doric
 51912	attic
 51914	epic
-51917	
-
-51920	
-
-
-51927	
-51929	
-epic
-
+51930	epic
 51934	attic
 51936	doric/aeolic
 51942	epic/doric/aeolic
-51944	
-51946	
-
+51946	attic/epic
 51950	doric/aeolic
-
-
-
-
-
 51957	attic/epic/doric
-
-
-
-51963	
-51965	doric/aeolic
-51967	
-
-
+51965	attic/epic/doric
 51971	doric/aeolic
 51973	doric
-
-
-
-
-51979	
-
-
 51986	doric
-51988	ionic
 51990	doric/aeolic
-
 51995	attic/epic/doric
-51998	
-
-
-
-
-
-
-epic
-52008	
+52005	epic
 52010	attic/epic
 52012	epic/doric/ionic/aeolic
 52014	doric/aeolic
-
-52021	
 52023	epic/ionic/attic/doric
 epic/doric/aeolic
-52027	
-attic/epic/ionic
-
-
-
-52033	
-attic/epic/doric
+52028	attic/epic/ionic
+52034	attic/epic/doric
 attic/epic
-52037	
-52040	
-52042	
-
 52048	doric
-
-
-
 52053	doric/aeolic
-52056	
-epic
-52060	
+52057	epic
 52062	attic/epic
-
-52065	
-52067	
-52069	
-
-
-epic
+52072	epic
 52074	attic/epic
-
-52078	
-52080	
-52082	
-52084	
-
-attic
-52088	
-attic/epic
-
-
-
-
-52095	
-
-
-attic/epic
-
-52101	
-
-
-doric/aeolic
-52107	
-
-
-
-
-
-doric/aeolic
-
-
-52118	
+52086	attic
+52089	attic/epic
+52098	attic/epic
+52104	doric/aeolic
+52113	doric/aeolic
 52120	attic/epic/doric
-
-
-52124	
-
 52127	doric/aeolic
-52129	
-52131	
-
-attic/epic/doric
-52136	
-
-epic/ionic/attic/doric
-
-52141	
-52143	
-
-
-52147	
-
-52151	
-52153	
-52156	
-attic/epic/doric
-52159	
-attic/epic/doric
-
-
-
-
-epic/doric
+52129	epic
+52133	attic/epic/doric
+52138	epic/ionic/attic/doric
+52148	doric
+52153	epic
+52157	attic/epic/doric
+52160	attic/epic/doric
+52165	epic/doric
 52168	doric/aeolic
 52171	doric/laconia
 epic
-52174	
-epic
+52175	epic
 52177	attic/epic/doric
 attic/epic
-
-
-52182	
-
 52185	epic
-
+52187	attic/epic/ionic
 attic/epic/ionic
-attic/epic/ionic
-
-doric
-
-doric/aeolic
-
-epic
-52197	
-52199	
-
-
-
+52190	doric
+52192	doric/aeolic
+52194	epic
+52199	attic
 52205	attic/epic/doric
-
-52208	
-52210	
-
-52213	
-epic
-doric/aeolic
-attic/epic
-
+52208	attic
+52214	epic
+52216	attic/epic
 52220	attic/epic
-52224	
-
-
-
 52229	attic/epic
-52231	
-52233	
-
-52236	
-52241	
-52243	
-52245	
 52247	attic/epic
-52250	
-epic
-52253	
-attic/epic
-ionic
-52257	
+52251	epic
+52254	attic/epic
 52259	attic/epic/doric/ionic
-
-doric/aeolic
-52264	
+52261	doric/aeolic
+52264	attic/epic/ionic
 epic/doric/aeolic
 attic/epic
-52268	
 52270	epic/ionic/attic/doric
 52274	attic/epic/ionic
-52277	
-
-epic/ionic/attic/doric
-52282	
-
-52287	
+52279	epic/ionic/attic/doric
 52289	attic/epic/ionic
 attic/epic/ionic
-
-doric
-
-
-52297	
-
+52292	doric
 52301	attic/epic
-52304	
-attic/epic/ionic
-
-52308	ionic
-52310	
+52305	attic/epic/ionic
 52312	doric/aeolic
 epic/doric/aeolic
-
-attic
+52315	attic
 epic/ionic/attic
-ionic
 52319	attic/epic/ionic
 attic/epic/ionic
 attic/epic/ionic
-
-doric
-
-52326	
-52330	
-
-
-attic/epic/doric/ionic
+52323	doric
+52333	attic/epic/doric/ionic
 52335	doric
 attic
-
-attic
-
-52341	
+52338	attic
 52343	attic/epic/doric/ionic
-52346	
-52348	
-attic/epic/ionic
-
-
+52349	attic/epic/ionic
 52354	attic/epic
 52357	attic/epic/ionic
-52359	
-
 52362	doric/aeolic
-52364	
-52367	
-epic
-
-52371	
-
-52374	
-52376	
-
-
-52380	
-
-52383	
-attic/epic/doric/ionic
+52368	epic
+52384	attic/epic/doric/ionic
 52386	doric
-
-52389	
-
-
-
-52394	ionic
-doric
+52395	doric
 attic/epic/ionic
-
-
-
-
-ionic
-doric
-52404	
+52402	doric
 52406	attic/epic/doric
-52412	
-
-52415	
-epic/doric/ionic/aeolic
-
-doric/aeolic
-
-52421	
-
-attic/epic/doric
-52425	
-52427	
-doric/aeolic
-52430	
-attic
+52416	epic/doric/ionic/aeolic
+52418	doric/aeolic
+52423	attic/epic/doric
+52428	doric/aeolic
+52431	attic
 52434	doric/aeolic
 attic/epic/doric
 attic/epic/doric
-
-52439	
-
-
-
 52444	doric/aeolic
-52447	
-
-
-
 52452	doric/aeolic
-
-doric/aeolic
-52456	
-
+52454	doric/aeolic
 52459	attic/epic
-
-
 52465	attic/epic/ionic
 52467	epic/doric/aeolic
-
-epic/doric/aeolic
+52469	epic/doric/aeolic
 attic/epic/doric
-52472	
-
-
 52476	doric/aeolic
-
-doric/aeolic
-
-
-
-52483	
+52478	doric/aeolic
 52485	epic/doric/aeolic
-
-52488	
 52497	doric/aeolic
-
-attic/epic
+52499	attic/epic
 attic
-
-attic/epic/doric
-52504	
+52502	attic/epic/doric
 52506	doric/aeolic
-
-attic
-
-
-52513	
-epic/doric/aeolic
-52516	
-52518	
-doric
-
-
-
-52524	
-attic/epic/doric
+52508	attic
+52514	epic/doric/aeolic
+52519	doric
+52525	attic/epic/doric
 attic/epic
-
-
-
-
 52533	epic/doric/aeolic
-52535	
-epic
+52536	epic
 52540	epic/doric/aeolic
-
-
 52544	epic/doric
-
-52549	
-
-52555	
-
-
-
-doric
-
-
-
-
-52565	
-52567	
-
-
+52559	doric
+52570	doric/aeolic
 doric/aeolic
-doric/aeolic
-
 52574	attic/epic
-
 52577	attic/epic/ionic
-
 52581	doric/aeolic
 epic
-
-doric
-
-
-52588	
-
-52593	
-attic/epic/ionic
+52584	doric
+52594	attic/epic/ionic
 doric
 doric/aeolic
-
-
-
-
-doric/aeolic
+52601	doric/aeolic
 52603	epic/doric
-
 52606	doric/ionic
 attic
-
-
-
-
-
-attic/epic/doric
-52615	
-attic/epic
+52613	attic/epic/doric
+52616	attic/epic
 52618	attic
-52620	
-52622	
-
 52625	doric/aeolic
-52627	
-
-attic/epic
+52629	attic/epic
 52631	attic/epic
-
-52635	
-
-52638	
-doric/aeolic
-
-
+52639	doric/aeolic
 52645	doric/aeolic
-52647	
-attic
-
-
-
-attic/epic
-
-
-
-attic/epic/doric
-
+52648	attic
+52652	attic/epic
+52656	attic/epic/doric
+52658	epic/doric
+52664	attic/epic/doric
 epic/doric
-52663	
-attic/epic/doric
-epic/doric
-
-ionic
-
-52671	
-52674	
-52676	
-
-
-52680	
-52683	
-52686	
-52688	
-
-
+52676	attic
 52692	attic/epic/doric
 52694	epic
-
-
-
-
-
-doric/aeolic
-52702	
-52704	
-52709	
-52712	
-
-
-
-
-epic/ionic/attic/doric
-
-
-attic/epic/doric
-
-52723	ionic
-52725	
-
-52728	
-52730	
-
-
-
-epic/doric/aeolic
-52739	
-52741	
-
-
-52747	
-
+52700	doric/aeolic
+52717	epic/ionic/attic/doric
+52720	attic/epic/doric
+52728	attic/epic
+52734	epic/doric/aeolic
 52750	doric/aeolic
-
-52757	
-52759	
-
-52763	
-
+52760	epic
 52768	epic
-52774	
 52777	doric
-
-
-
-
 52783	epic/ionic/attic/doric
-
-epic
-
-
-52789	
-
-
-
-
-
-
-
-
-
-
-
-52803	
-52808	
+52785	epic
 52815	doric/aeolic
-
-
-52819	ionic
-52821	
-
-
-
-52826	
-doric
+52827	doric
 epic/doric/aeolic
-52832	
-attic/epic
-
-epic
-52837	
-52841	
+52833	attic/epic
+52835	epic
 52843	epic
-52847	
-
-52850	
-52853	
-doric/aeolic
-52856	
-
-52859	
-
-
-52864	
-52866	
-
-
-
-
-52872	
-
-
-attic/doric/aeolic
-
-52880	
-52883	
-
-52886	
-
-
-
-epic/doric
-52893	
+52875	attic/doric/aeolic
+52890	epic/doric
 52895	epic
-52897	
-attic/ionic/epic/doric
-52900	
-
-52905	
-doric
-
-52909	ionic
-52912	
-52915	
-epic
-52921	
-52926	ionic
-52928	
-52931	
-52933	
-52935	
-
-doric/aeolic
-
-
+52898	attic/ionic/epic/doric
+52906	doric
+52916	epic
+52937	doric/aeolic
 52941	doric/aeolic
 52943	doric/aeolic
-ionic
-52946	
-doric/aeolic
-52949	
-ionic
-52953	
-doric/aeolic
-52961	
-
-attic/homeric/ionic
-
-
-attic
-52972	
-
-
-52976	
-
-epic
+52947	doric/aeolic
+52954	attic/epic/doric
+52963	attic/homeric/ionic
+doric
+52966	attic
+52978	epic
 52981	attic/epic/doric
-
-52984	
 52987	attic
 52989	ionic
-52992	
-52994	
-
-attic/epic/doric
-
-
-epic/ionic
-
-53004	ionic
+52996	attic/epic/doric
+52999	epic/ionic
 53008	epic/doric/ionic/aeolic
-53012	
 53014	attic/epic/ionic
-ionic
-53017	
-
-doric/laconia
-
-53022	
+53019	doric/laconia
 53024	doric/aeolic
-53026	
-
-
-53031	
-epic/doric/aeolic
-
-
-
-epic
-53038	
-
-
-53042	
-
-
-
-ionic
-53049	doric/aeolic
-
-
-doric/aeolic
-
-
-doric/aeolic
-
-53058	
-53061	attic
-53064	
-53068	attic
-
-
-53072	epic
-
-53075	
-
-
-53079	
-ionic
-
-doric/aeolic
-
-
-53086	ionic
-
-53090	
-ionic
-53099	doric/aeolic
-53101	
-
-
-53105	
-53108	doric
-
-
-
-53113	
-attic/epic/ionic
-attic/epic/ionic
-
-doric
+53032	epic/doric/aeolic
 attic/epic
-53120	
-
-epic
-
-53125	
-53127	
-
-
+53036	epic
+53049	doric/aeolic
+53052	doric/aeolic
+53055	doric/aeolic
+53061	attic
+53068	attic
+53072	epic
+53079	attic/epic
+53082	doric/aeolic
+53099	doric/aeolic
+53108	doric
+53114	attic/epic/ionic
+attic/epic/ionic
+53117	doric
+attic/epic
+53122	epic
 53132	attic
-
-53135	
 53137	epic/attic/ionic
 doric/aeolic
-53140	
 53142	attic/epic/doric
-ionic
-attic/epic/ionic
-
-53147	
-epic
+53144	attic/epic/ionic
+53148	epic
 attic
-
-doric
-
-53155	
-53158	
-53160	
-53164	
-attic/epic/doric
-
-53168	
+53151	doric
+53165	attic/epic/doric
 53170	attic
-
-doric
-
-53175	
-
+53172	doric
 53180	epic
 attic
-
-
-53185	ionic
-
-
-53189	
-53191	
-
 53194	attic/epic
-53197	
-attic/epic/doric
-53201	
-
-attic
-
-
-
-53208	
-
-
-
-
-53215	
-53217	
-attic
-
-53221	
-53223	
-53225	
-
-
+53198	attic/epic/doric
+53203	attic
+53218	attic
+53228	attic/epic/ionic
 attic/epic/ionic
-attic/epic/ionic
-
+53231	doric
+53234	epic/doric/aeolic
 doric
-
-
-epic/doric/aeolic
-doric
-53238	
-attic
-
-53242	
-53244	
-
-doric
-53249	
-attic
-
-53253	
-
+53239	attic
+53246	doric
+53250	attic
 53257	attic
-
-53260	
-53262	
-attic
-
+53263	attic
 53266	attic/epic/ionic
 epic/doric
 attic/epic
-53270	
-53274	
 53277	attic
-53281	
-
-
-
-attic/epic/doric
-
-
+53285	attic/epic/doric
 53290	attic/epic/ionic
-
-53294	
-
-
-epic/doric/aeolic
-53299	
-53301	ionic
-
-
-
-
-53308	
-doric
-
-53315	
-
-
-
-
-53321	
-53324	
-
-53328	
-53331	
-
-doric
-
-
-53337	
-attic
-
-
-
+53297	epic/doric/aeolic
+53309	doric
+53333	doric
 attic/epic/doric
-53344	
-53346	
-doric/aeolic
-53349	
-attic
+53338	attic
+53342	attic/epic/doric
+53347	doric/aeolic
+53350	attic
 53357	doric/aeolic
 attic
-53361	
-
-
-epic/doric/aeolic
-53366	
+53364	epic/doric/aeolic
+53367	doric
+53370	doric/aeolic
 doric
-
-
-doric/aeolic
-doric
-53373	
-
-doric
-
+53375	doric
 53381	doric/aeolic
 attic
-53384	
-
-53387	
-
-53393	ionic
-53395	
-attic/epic/ionic
-
+53396	attic/epic/ionic
 53399	doric
 53401	attic/epic/doric
-
-
-doric
-
-
-53408	
-attic/epic/doric
-
-
-
-
-attic/epic/doric
-
-
-53418	
-epic
-
-attic
-
-53424	
-
-53428	
-
-epic
-53432	
+53404	doric
+53409	attic/epic/doric
+53414	attic/epic/doric
+53419	epic
+53421	attic
+53430	epic
 53434	doric/aeolic
-53440	
-53442	
-
-
-attic
-
+53445	attic
 53448	doric
-
-53451	
-
-
-
-53456	
+53453	attic/epic/ionic
 53458	doric/aeolic
 53462	doric/aeolic
-
-
-53466	
-epic
-53469	
-53471	
-
-53474	
-
-doric
-
-53479	
-
+53467	epic
+53476	doric
 53482	epic
-epic/doric/ionic/aeolic
-53487	
-53489	
-
-
-attic
-53495	
-53498	
-
-
+53492	attic
 53503	epic/doric/aeolic
-
-
-
-
-
-
-attic
-
+53508	doric/ionic
+53510	attic
 53513	epic/doric/aeolic
 53516	attic/epic/ionic
 attic/epic/ionic
-
-doric
-
-53522	
-attic/epic/ionic
-
-attic/epic/doric
-
-
+53519	doric
+53523	attic/epic/ionic
+53525	attic/epic/doric
 53530	attic/epic/ionic
-
-
-epic/doric
-
-
-
-
-53539	
-53541	
-53544	
-53546	
-
-attic
-
-53551	
-
-
-
-
-53557	
-
-attic/epic/doric
-
-
-53563	
-
-
-
-attic
-
-epic
+53533	epic/doric
+53548	attic
+53559	attic/epic/doric
+53567	attic
+53569	epic
 doric/aeolic
-
-
-
 53575	attic
 epic/ionic/attic
-
-ionic
-53582	
-53585	
-attic/epic/doric
-
-
-53590	
-53592	
+53586	attic/epic/doric
 53594	attic
 attic
 attic/epic/ionic
-53601	
-attic/epic/doric
-
-
-doric/aeolic
+53602	attic/epic/doric
+53605	doric/aeolic
 53607	attic
-53610	
-53612	
-53614	
-
-
+53617	attic/epic/ionic
 attic/epic/ionic
-attic/epic/ionic
-
-doric
+53620	doric
 doric/aeolic
-
-53625	
-attic
-
-attic
-
+53626	attic
+53628	attic
 53631	doric
-
-53634	
-
-
-attic/epic/ionic
-
-
-
-53642	
-53644	
+53637	attic/epic/ionic
 53646	attic/epic/ionic
-
-53649	
-
-attic/epic/ionic
-
-
-
-53656	
-doric
-
-
-53662	
-doric/aeolic
+53651	attic/epic/ionic
+53657	doric
+53663	doric/aeolic
 53665	epic/doric/ionic/aeolic
-53668	
-
-doric/aeolic
+53670	doric/aeolic
 53672	epic/doric/ionic/aeolic
-
-53675	
-53677	
 53679	attic/epic/ionic
-
-53682	
-
-
-attic/epic/doric/ionic
-
-
-
-53690	
-53692	
-
-53695	
-attic/epic/ionic
-
-53701	
-53705	
-53707	
-53710	
-53712	
-
-
+53685	attic/epic/doric/ionic
+53696	attic/epic/ionic
 epic
-
-53718	
-
-
-53722	
-
-53728	
-ionic
-53732	
-
-
-epic/ionic
-53737	
-53742	
-
-
-
-epic/ionic
-53749	
-53752	
-doric/aeolic
-
+53715	epic
+53735	epic/ionic
+53746	epic/ionic
+53753	doric/aeolic
 53756	doric
-53758	
-
-
-
-
-epic
-
-53766	
-doric/aeolic
-
-
-
+53763	epic
+53767	doric/aeolic
 53772	epic/doric
-
-doric/aeolic
+53774	doric/aeolic
 53776	doric/aeolic
 53779	attic
-
-
 53783	epic/doric/aeolic
-53785	
 53790	attic/epic/doric
-
-53793	
-attic/epic
-53796	
-53798	
-attic/epic/doric
+53794	attic/epic
+53799	attic/epic/doric
 53801	doric
 53805	attic/epic/ionic
 53808	epic
-
-epic/doric
+53810	epic/doric
 doric
 epic/ionic
-
+53814	epic
+53821	doric
 epic
-53817	
-53819	
-
-doric
-epic
-
-
-53827	
-53829	
-
 53833	epic
-
+doric/aeolic
 53837	doric
-
 53840	doric/aeolic
 53844	doric/aeolic
-
-53847	
-
-
-attic
-53852	
-53855	
-
-
-
-ionic
-
+53850	attic
+53866	attic/epic/doric
+53873	attic/epic/ionic
+53877	epic/ionic/attic/doric
 doric
-53865	
-attic/epic/doric
-
-53869	
-
-53872	
-
-53876	
-epic/ionic/attic/doric
-doric
-
-
-
-
-53884	
 53887	attic/epic/ionic
-
-epic/ionic/attic
-53895	
-53897	
-
-
-attic
-
-doric
-
-
-
-
-attic/epic/doric
+53889	epic/ionic/attic
+53900	attic
+53902	doric
+53907	attic/epic/doric
 epic/doric
-53910	
-
-53913	
-epic/doric
-
+53914	epic/doric
 53918	epic
 53921	doric/aeolic
-53929	
-
-
-
-epic/doric/ionic/aeolic
-
-
-epic/ionic/attic/doric
-
-
-
-
-
-
-53945	
-
-
-attic/epic/doric
-
-attic/epic/doric
-53952	
-attic/epic/doric
-
-epic/doric/aeolic
-53958	
-53960	
-
-
-
-
-53968	
-53970	
-
-53974	
-ionic
+53936	epic/ionic/attic/doric
+53948	attic/epic/doric
+53950	attic/epic/doric
+53953	attic/epic/doric
+53955	epic/doric/aeolic
 53977	doric
-
-53980	
-doric/aeolic
-
-attic/epic/doric/ionic
-
-53986	
-
-attic/epic
-53991	
-
+53981	doric/aeolic
+53983	attic/epic/doric/ionic
+53988	attic/epic
 53994	attic/epic
 53996	attic/epic
-53998	
-
-54001	
-
-attic/epic
-
-
-attic/epic
-54008	ionic
-54010	
-54012	
-
-ionic
-54016	
-54018	
-
-
-
-
-
-54027	
-54029	
-
-54034	
-
-doric/aeolic
-
+54003	attic/epic
+54006	attic/epic
+54036	doric/aeolic
 54040	epic/doric
-
 54043	attic/epic
-
+54045	attic/epic/doric
 attic/epic/doric
-attic/epic/doric
-
-
-
-
-54052	
-
-54056	
-ionic
 54060	attic/epic/doric
-54062	
-ionic
-54067	
-
-54070	
-54073	
-54075	
-
-54078	
-
-
-
-54083	
-
-54086	
-ionic
-54090	
-54094	
-doric/aeolic
-doric/aeolic
-
-
-54100	
+54096	doric/aeolic
 54102	attic/epic/doric
 attic/epic/doric
-54105	
-
-doric
-54109	
-
-54115	
-
-epic/doric/aeolic
-54119	
+54107	doric
+54117	epic/doric/aeolic
 54121	attic/epic/doric
-
-54124	
-
-54128	
-54130	
 54132	doric/aeolic
-
-54138	
-54140	
-
-
-54145	
-
-doric/aeolic
+54142	epic
+54147	attic/epic/doric
 54150	doric
-54153	
-ionic
-54156	
-54159	
-54161	
-attic/epic/doric
-
-
-54168	
+54162	attic/epic/doric
 54170	doric
-54172	
-
-54175	
-attic
+54176	attic
 doric/aeolic
-54179	
 54181	doric/aeolic
 doric/aeolic
 attic
 54186	doric/aeolic
-
-
-54190	
-
-54194	
-54197	
-
-attic
-
-54202	
-attic/epic/doric
+54199	attic
+54203	attic/epic/doric
 54206	attic/epic/doric
-
-54209	
-attic/epic/ionic
+54210	attic/epic/ionic
 54212	doric/aeolic
 54214	doric/aeolic
 attic/epic
-
 54218	attic/epic/ionic
 54220	doric/aeolic
 attic
 54225	doric/aeolic
-54228	
-
-
-
-54233	
-
 54236	doric
-54238	
-54241	
-epic/doric
+54242	epic/doric
 attic/epic
-54245	
-
 54248	attic/epic
-
-doric
-
-54253	
-epic/ionic/attic
-
-
-attic/epic
-
-doric
-
-54262	
-
+54250	doric
+54254	epic/ionic/attic
+54257	attic/epic
+54259	doric
+54264	epic
 epic
-epic
-
-54269	
-
-54272	
-epic/doric/aeolic
+54270	epic
+54273	epic/doric/aeolic
 doric
 54276	doric/ionic
-
-
-
-attic
-
-54284	
-
-
-54288	
-54290	
-54292	
-doric/ionic
-
-54296	
-54298	
-
-doric
-
-
-
-
-
-
-
+54280	attic
+54293	doric/ionic
+54300	doric
 54309	doric/aeolic
-
-
-54313	
-
 54317	doric/aeolic
 54319	doric
-54321	
-
 54324	doric
-
-
-54328	
-54331	
-epic
-
-54335	
-
-attic/epic
-54340	
-epic
-
-
-54346	
-
-
-54351	
-
-doric/aeolic
+54332	epic
+54337	attic/epic
+54341	epic
+attic/epic/ionic
+54353	doric/aeolic
 54355	doric/aeolic
-
-54358	
-54360	
-54364	ionic
-
-54367	epic/doric
-54369	
-attic/epic
-
-54373	
-
-54376	
-
-
-54380	
-
-
-54386	
-54391	
 epic
-54394	
-54396	
-
-attic/epic/doric
+54364	ionic
+epic
+54367	epic/doric
+54370	attic/epic
+54381	epic
+54392	epic
+54398	attic/epic/doric
 doric/aeolic
-54401	
-54403	
-
-54407	
-attic/epic/doric
-54411	
+54408	attic/epic/doric
 54414	doric
-54418	
-
-54422	
-
-
-
+54426	attic
 attic
-attic
-54431	ionic
-54434	
-
-
-54438	
-
-
-
-
-
 54445	attic/ionic/epic/doric
-54447	
 54449	attic
 attic
-54452	
-
-
-54456	
-
-
-54460	
 54462	epic/doric/aeolic
-
-attic/doric
-54466	
-54468	
-
-54472	
+54464	attic/doric
 54474	epic/doric
-
-54477	
-54480	
 54482	epic
-54485	
-54489	
-attic/epic/doric
-54492	
-
-54495	
-54497	
-attic/epic/doric
-54501	
-54503	
-54505	
-54507	
-54510	
-ionic
+54490	attic/epic/doric
+54498	attic/epic/doric
 54513	doric/aeolic
-
-54516	
-54522	
-54524	
-54527	
-
-epic
-54532	
-54536	
-attic/epic/doric
-54539	
-
-54542	
-54544	
-doric
-
-
+54529	epic
+54537	attic/epic/doric
+54545	doric
 54550	doric
-54552	
-
 54555	epic/doric
-
-doric/aeolic
-
-
-54565	
-54567	ionic
-
-54570	
-
-doric/aeolic
-
-
-54576	
-
-54583	
-
-attic
-54587	
-
-54590	
-54592	ionic
+54557	doric/aeolic
+54572	doric/aeolic
+54585	attic
 54596	epic/doric/aeolic
-54598	
-
-54602	
+54603	attic
 attic
-attic
-54607	
-doric
-54610	
-54614	
-doric
-
-
-54620	
-
-
-54624	
-
-54627	
-54629	
-
-
-54633	
-
-doric/aeolic
-
-
-
-attic
-54643	
+54608	doric
+54615	doric
+54625	attic/epic/ionic
+54635	doric/aeolic
+54639	attic
 54646	doric
 54648	epic/doric/aeolic
-54651	
-
-doric/aeolic
-54656	
-attic/epic
-
+54653	doric/aeolic
+54657	attic/epic
 54661	doric
-54663	
-
-
-
 54670	doric
 54673	doric/aeolic
-
-
-54677	
-doric/aeolic
+54678	doric/aeolic
 54681	parad_form
-54685	
-
-54688	
-
-
-54693	
-
-doric/aeolic
-54700	
+54688	doric/aeolic
+54695	doric/aeolic
 54702	attic/epic
-
-54705	
-54707	
-
-54710	
+54710	attic/epic/ionic
 54713	attic/ionic
-
-
-
-
-
-54720	ionic
-54722	
-
-
 54726	doric/aeolic
-
-54730	
-
-54734	
 54736	epic
-
-
-54741	
-54745	
-
-
-
-
-
-
-
-
-attic/epic/doric/ionic
+54747	doric/ionic
+54750	attic/epic/ionic
+54754	attic/epic/doric/ionic
 54757	doric/aeolic
-
-
-
-54762	
-54765	
-attic/epic
-
+54766	attic/epic
 54769	epic/ionic
-
-
-54774	
-54776	
-
-attic/ionic
-54780	
-
-
-54784	
-doric
-
-epic
-epic/doric/ionic/aeolic
-
-54791	ionic
-54794	
-
-54797	
-ionic
-54800	
-
-
-
-54807	ionic
-54809	
-54812	
-
-
+54771	attic/epic/ionic
+54778	attic/ionic
+54785	doric
+54787	epic
 54818	attic/epic/ionic
 54821	epic
-54823	
-
-54826	
-54831	
-
-54837	
-
-epic
-
-54843	
-54848	
+54839	epic
 54850	attic/epic
-
-doric/attic/epic/ionic
+54852	doric/attic/epic/ionic
 attic
 54855	doric/aeolic
 doric/aeolic
-54860	
-epic
-54864	
-54867	
+54861	epic
 54869	attic/epic/doric
-
-
-54873	
-
-
-attic/epic
+54876	attic/epic
 54878	epic
-ionic
 54881	attic/epic/ionic
-
-54884	
-54887	
-
-54891	
 54893	epic/doric
-
-54902	
-
-epic
-ionic
+54904	epic
 54907	attic/epic/ionic
-
-54912	
-54916	
-
-
-54920	
-
-
-
-
-
-54929	
-
-54932	
-54934	
-
-
-
-54939	
-
-54942	
-doric/aeolic
-
-54947	
+54923	doric
+54943	doric/aeolic
 54949	attic
-54951	
-epic
-54954	
-attic/epic/doric
-
-54958	
-epic
-
-54962	
-54964	
-
-54968	
-
-ionic
-attic/epic/doric
-
-
-attic/epic/doric
-54977	
-54980	
-54982	
-
-
-attic/epic/doric
-
+54952	epic
+54955	attic/epic/doric
+54959	epic
+54971	attic/epic/doric
+54974	attic/epic/doric
+54985	attic/epic/doric
 54988	attic
 attic
 attic
-
-
-54994	
-
-
-
-
-
-55001	
-55003	
 55005	attic/epic/ionic
-
-55008	
-
-55012	
-
-attic/epic
-
-
-
-
+55014	attic/epic
 55020	doric/aeolic
 doric
-
-55024	
-
 55027	attic/epic/doric
 attic/epic/doric
-
 55031	doric/aeolic
-55033	
-
-
-
-doric/aeolic
-
-
-55041	
-
-55045	
-
-
-55049	
-
-
-55053	
-55055	
-
-attic/epic/doric
-
-
-
+55037	doric/aeolic
+epic
+55047	epic
+55057	attic/epic/doric
 55062	doric/aeolic
-
 55065	attic/epic/doric
-
-epic/doric/ionic/aeolic
-
-doric/aeolic
-55072	
-55074	
-
+55067	epic/doric/ionic/aeolic
+55069	doric/aeolic
 55077	attic/epic/doric
-55079	
-epic
-55083	
-attic/epic
-
+55080	epic
+55084	attic/epic
 55087	attic/epic
-55090	
-55092	
-
-
-doric/aeolic
+55095	doric/aeolic
 55097	attic/epic/doric
-
-
-
-
 55104	attic/epic
-
-
-
-epic
-55111	
-55113	
-
-55116	
-55118	
-doric
-
-55122	
-
-55127	
-
-
-55134	
-
-55137	
-
-55141	
-attic/epic
-55145	
-attic/epic
-
-55150	
-55152	
-55155	
-
-
-
-55161	
-attic/epic/doric
-
+55108	epic
+55119	doric
+55135	attic
+55142	attic/epic
+55146	attic/epic
+55162	attic/epic/doric
 55165	epic
-55168	
-
-
-epic/doric
+55171	epic/doric
 55174	attic/epic/doric
-
-55177	
-
-55180	
-55182	
-attic/epic/doric
-
-attic/epic/doric/ionic
-55187	
-
+55183	attic/epic/doric
+55185	attic/epic/doric/ionic
 55190	attic/epic/doric
-
-55193	
-
 55197	epic
-
-55200	
-
-
-
-attic/epic/doric
-
-
-
-
-55210	
+55204	attic/epic/doric
 55212	attic
 attic
-
-attic/epic/doric
-
-
-
+55215	attic/epic/doric
+55219	attic
 attic
-attic
-55222	
 55224	doric
-
-55227	
 55230	epic/doric
 doric/aeolic
-55233	
-doric
-
-attic/epic/doric
-
-55239	
+55234	doric
+55236	attic/epic/doric
 55242	epic/doric
-
-55245	
-55247	
-
-
-
-
-
-55254	
-
-
+55254	doric/aeolic
 55258	attic/epic/doric
 doric
-
-
-
-epic/doric
+55263	epic/doric
 55266	attic/epic/doric
-55268	
-epic
+55269	epic
 55271	doric/aeolic
-55273	
-
-55277	
-
-attic/epic/doric
-ionic
-55283	
-55285	
-55288	
-epic
-
-55292	
-
+55279	attic/epic/doric
+55289	epic
 55295	doric
 55298	attic
-
-
-55302	
-attic/epic/doric
-
+55303	attic/epic/doric
 55308	attic/epic/doric
 55310	doric/aeolic
-55314	
-55316	
-attic/epic/doric
-55319	
-epic
-55323	
-55325	
-
-55328	
-
-attic/epic/doric
-
-
-
-attic/epic/doric
-55336	
-
-55341	ionic
+55317	attic/epic/doric
+55320	epic
+55330	attic/epic/doric
+55334	attic/epic/doric
 55343	epic
-55345	
-
-55350	
 55352	doric/aeolic
-55355	
-attic/epic
-
-attic/epic
+55356	attic/epic
+55358	attic/epic
 55361	doric/aeolic
-
-
 55367	epic/doric/aeolic
-55369	
-epic/doric/aeolic
-
-epic/doric
-
-55383	
+55370	epic/doric/aeolic
+55372	epic/doric
 55385	epic
-
-
 55389	doric
-
-
-
+55393	attic/epic/ionic
 attic/epic/ionic
-attic/epic/ionic
-
-doric
-
-55399	
-attic/epic/doric
+55396	doric
+55400	attic/epic/doric
 55402	doric/aeolic
-
-55406	
-
-55409	
-
+55411	attic/epic/doric/ionic
+55419	epic
 attic/epic/doric/ionic
-
-
-
-ionic
-55418	
-epic
-attic/epic/doric/ionic
-ionic
 55424	doric/aeolic
-55426	
-epic
+55427	epic
 epic/doric
-
-55431	
-epic/ionic
+55432	epic/ionic
 doric/aeolic
-
-55437	
-doric/aeolic
+55438	doric/aeolic
 attic/epic
-55441	
-
-
-55445	
-55447	
-attic/epic
-
-doric
-
-attic/epic/doric
-55454	
-attic/epic
-
-attic/epic/doric
-55461	
-55463	
-attic
+55448	attic/epic
+55450	doric
+55452	attic/epic/doric
+55455	attic/epic
+55457	attic/epic/doric
+55464	attic
 55466	attic/epic
-
 55469	epic/ionic
-
-
-55473	
-55476	
-
-
-
-
 55482	attic
-55484	
-
 55487	attic
-55489	
 55492	attic/epic
-55494	
 55498	epic/doric/aeolic
 doric
-55503	
-attic
-
-55508	
-attic/ionic/epic/doric
+55504	attic
+55509	attic/ionic/epic/doric
 55511	attic/epic
-
 55514	attic
 55516	epic/doric
 epic/ionic
-
-55520	
-
-
-55524	
-55526	
-55528	
-
-
-
-
-
-
 55537	epic/doric
 epic/doric/aeolic
-55540	
-
-attic/epic/doric
-55544	
-attic
-
-
-55549	
-ionic
-55558	
-
-
+55540	attic
+55542	attic/epic/doric
+55545	attic
+55559	epic
 55562	doric/aeolic
 55564	epic/doric
-
-ionic
-
-
-
-55574	
-55576	
-attic
+55566	ionic
+55577	attic
 55579	attic
 attic
-
 55583	doric/aeolic
 doric/aeolic
 attic
 55587	epic/doric
-
-55591	
-epic/doric/aeolic
-55596	
-
-epic/doric/aeolic
-
-epic/doric
-
-
+55592	epic/doric/aeolic
+55598	epic/doric/aeolic
+55600	epic/doric
 55604	epic/doric/aeolic
-
-
-55608	
-55611	
-
-
-attic/epic
-
-doric
-55619	
-55621	
-attic/epic/doric
-55624	
+55614	attic/epic
+55616	doric
+55622	attic/epic/doric
 55626	epic/doric/aeolic
-
-
-
-55631	
-
-epic/doric
-
-55636	
-
-
-epic/doric/aeolic
-
-
-
-55644	
-
-55647	
-
-
-attic
-
-
+55633	epic/doric
+55639	epic/doric/aeolic
+55641	epic
+55648	doric/ionic
+55650	attic
 55654	attic
-
-
-
-55660	
-
-
-
-attic
-
-
-
-
-
-attic/epic/doric
+55657	epic
+55664	attic
+55670	attic/epic/doric
 55672	epic/ionic
-
-
-attic/epic/ionic
-
-55678	
-55680	
-55683	
-epic/ionic/attic
+55675	doric
+55684	epic/ionic/attic
 doric
-
-attic/epic/doric
-
-
-
-doric/aeolic
+55687	attic/epic/doric
+55691	doric/aeolic
 epic/ionic/attic/doric
-55695	
-55698	
 55700	attic/epic/doric
-55702	
-attic/epic/doric
+55703	attic/epic/doric
 55705	doric/aeolic
-
-55708	
-attic/epic/ionic
+55709	attic/epic/ionic
 55711	attic/epic/doric
 attic/epic/ionic
 attic/epic/ionic
-
-doric
+55715	doric
 doric/aeolic
-
-55719	
-55721	
-55723	
-
-
-ionic
 55729	epic/ionic
-
-
-attic/epic/doric
-55735	
-
-epic/ionic/attic
-55741	
-doric/aeolic
+55732	attic/epic/doric
+55737	epic/ionic/attic
+55742	doric/aeolic
 55745	epic
 doric/aeolic
-
-55750	
-
-
-
-doric
+55754	doric
 epic/ionic/attic
-ionic
-55759	
-55762	
-attic
-55765	
-55770	
-doric/aeolic
-
-
-
-attic/epic
+55763	attic
+55771	doric/aeolic
+55775	attic/epic
 doric
-
-doric/aeolic
+55778	doric/aeolic
 attic/epic/doric
 doric
-
-
-
-
-55788	
-55790	
-
-55794	
-55796	
-
-55799	
-55802	
 55805	attic/epic/doric
 55807	doric/aeolic
-55810	
-
-
-doric/aeolic
+55813	doric/aeolic
 55815	epic
 attic/ionic
 doric
 doric
 doric/aeolic
 doric/aeolic
-55825	
-attic/epic/doric
-55828	
+55826	attic/epic/doric
 55830	epic/doric
 attic
-
-
 55835	doric
 55837	epic/doric
 55839	epic
 55842	epic/ionic
-55844	
-attic/epic/doric
-55848	
-doric/aeolic
+55845	attic/epic/doric
+55849	doric/aeolic
 55851	epic/ionic/attic
-55855	
-
-
+55858	attic/epic/ionic
 attic/epic/ionic
-attic/epic/ionic
-
-doric
+55861	doric
 55865	attic/epic/doric
-
-doric/aeolic
+55867	doric/aeolic
 55869	doric
-
-doric
-55874	
-55876	
-55878	
-
-attic
-
-epic/doric/ionic/aeolic
-epic/ionic/attic/doric
+55871	doric
+55880	attic
+55883	epic/ionic/attic/doric
 epic
-55886	
-
-
-55890	
-55892	
-doric/aeolic
-
-
-55897	
-55900	
-
-
-
-
+55893	doric/aeolic
 55907	doric
-
-55913	
-
-
-55917	
-55919	
 55921	attic
-
-
-
-
-attic/epic
-55928	
+55926	attic/epic
 55930	attic
-55933	
-
-55938	
+55933	doric
 55940	doric/aeolic
-55943	
-attic/epic
-55946	
+55944	attic/epic
+55947	attic
+55949	attic
 attic
-
-attic
-attic
-
-
 55954	doric/aeolic
 55956	attic/ionic/epic/doric
-
-
-attic
-55963	
-55965	
-
-55970	
-
-
-
-ionic
+55959	attic
 55976	doric/aeolic
 attic
-55979	
-55982	
-55985	
-55987	
-attic/epic/doric
-
-55993	
-55997	
-
-doric
+55988	attic/epic/doric
+55999	doric
 epic/doric/aeolic
-
-
-56005	
 56008	attic/epic/doric
-
-
-
-56014	
-
-
+56016	attic/epic
 doric/aeolic
 attic/ionic
-
 56022	epic
-
-attic/epic/doric
-
-
-56028	
-
-56032	
-
+56024	attic/epic/doric
 56035	doric
-56037	
-56039	
-
-
-
-attic/ionic/epic/doric
-56046	
-56050	
-56052	
-
-ionic
-56058	
-56062	
+56043	attic/ionic/epic/doric
 56065	epic/ionic
-
-
-56070	
-
-doric/aeolic
+56072	doric/aeolic
 epic
-56079	
-
-epic/doric/aeolic
-56084	
-
-
-56088	
-attic/ionic/epic/doric
-
-
+56081	epic/doric/aeolic
+56089	attic/ionic/epic/doric
 56093	epic/doric
-
-56099	
-56102	
-56104	
-56106	
-56108	
-
-
-56112	
-
-56117	
-56119	
-
-56122	
-
 56125	doric
-
-56129	
-
-
-56133	
-56136	
-attic/epic
-
-
-
-doric/aeolic
-56144	
-
+56137	attic/epic
+56141	doric/aeolic
 56148	doric/aeolic
 epic/doric/aeolic
-
-
-epic
+56152	epic
 56154	attic/epic
-56157	
 56159	epic
-
-
-
-56164	
-56167	
-56169	
-
-doric
-56173	
-56176	
-attic/epic/doric
-
-
-
-epic/doric/aeolic
-56185	
+56171	doric
+56177	attic/epic/doric
+56181	epic/doric/aeolic
+56185	doric
 56189	parad_form
-
-attic
-56194	
-56196	
-56199	
-epic
+56191	attic
+56200	epic
 epic/doric
-
-56204	
-
-56208	
-56210	
-56212	
-56214	
-
-
 56218	epic/ionic
 doric/aeolic
-
-56223	
-epic
-
-56227	
-56230	
-56233	
-
-doric/aeolic
-
-
-
-
-56243	
-doric/aeolic
+56224	epic
+56235	doric/aeolic
+56244	doric/aeolic
 56246	attic/ionic
 doric/aeolic
-
-56250	
-
-
-
-epic/ionic
-
-
-
-
-56262	doric/aeolic
-56265	
-attic/epic/doric
-
-doric/aeolic
-
-56271	
-
+56254	epic/ionic
+56262	attic/epic/doric
+56266	attic/epic/doric
+56268	doric/aeolic
 56274	doric/aeolic
-
-56277	
-
-
-epic/ionic
-
-doric/aeolic
-
+epic
+56280	epic/ionic
+56282	doric/aeolic
 56285	attic/ionic
-56290	
-attic
+56291	attic
 56293	epic/doric/aeolic
 56296	epic/ionic
-
 56299	doric/aeolic
 attic/epic
-
 56303	doric/aeolic
-
-56306	
 56310	doric
-56313	
-56316	
-doric/aeolic
+56317	doric/aeolic
 epic
 doric/aeolic
-
-56322	
-56324	
-epic/ionic
-56327	
-
-attic/ionic/epic/doric
-
-
-
-
+56322	doric/ionic
+56325	epic/ionic
+56329	attic/ionic/epic/doric
 56336	doric
-
-
-doric
-doric/aeolic
-56342	
-56344	
-56346	
-56348	
-56351	
-
-doric/aeolic
+56339	doric
+attic/epic/doric
+56353	doric/aeolic
 56359	epic/ionic
 56361	attic/epic/ionic
-
-
 56366	attic
-
 56369	doric/aeolic
 56371	doric/aeolic
-
-
-epic/doric/aeolic
-
-56379	
-doric/aeolic
-
+56374	epic/doric/aeolic
+56380	doric/aeolic
+epic
 56383	doric
-
-56387	
-
-
-
-56393	
-56395	
-56397	
-
-
-56402	
-
+56399	epic
 56406	doric/aeolic
-
-
-56410	
-
-
 56414	doric/aeolic
-
-doric/aeolic
-56420	
-
-
-56424	
-
-attic
-56428	
-56430	
-56432	
-56434	
-56436	
-
-epic/doric/aeolic
-56440	
-
-
-56446	
+56416	doric/aeolic
+56426	attic
+56438	epic/doric/aeolic
 56448	epic/ionic
-
-
-56454	
-56458	
-56460	
-56462	
-56464	
-
-
-56468	
-56470	
-56472	
-56475	ionic
+56462	attic/epic/doric
+56468	attic/epic/doric
 56478	attic
-
-doric
-56483	
-epic/doric/ionic/aeolic
-
-56487	
-
-doric
-ionic
-56492	
-
-
-
-epic/doric/ionic/aeolic
-56500	
-attic/epic/ionic
-
-
-56506	
-56509	
-
-56512	
-
-56515	
-
-
-ionic
-
-attic/epic/doric
-ionic
-56525	
-
-
-
-56532	
-56534	
-56537	
-
-56540	
-
-56543	
+56480	doric
+56489	doric
+56501	attic/epic/ionic
+56520	attic/epic/doric
 56546	epic/ionic
-
-
-56551	
-56553	
-
-
-
-
-
-
-
-
+56548	attic/epic/ionic
+56561	attic
 56563	doric/aeolic
-56566	
-
-
-
-
-epic/doric
+56571	epic/doric
 attic/epic/doric/ionic
 attic/epic/ionic
 attic/epic/ionic
-
-doric
-
-
-56580	
-56582	
-ionic
+56576	doric
+56580	epic
 56585	epic/doric
-
-
-doric/aeolic
+56588	doric/aeolic
 56595	ionic
-
-56599	
-56601	
-56604	
-
-
-
-56609	
-56611	
+56599	epic
 56614	doric
-
-
-56618	
-
 56621	attic/epic
 56623	doric/aeolic
-56625	
-
-56628	
-
-
-doric
-
-
-56636	
-56638	
-attic/epic
-
-doric/aeolic
+56631	doric
+56639	attic/epic
+56641	doric/aeolic
 56643	epic/doric
-
-
-56647	
-
-attic/epic/doric/ionic
+56649	attic/epic/doric/ionic
 doric/aeolic
-
-56653	
-
-
-doric/aeolic
-
-
+56656	doric/aeolic
 56660	epic/doric
 56663	doric/aeolic
-
-
-
-
-56670	
-56672	
-epic/doric/aeolic
-
-56676	
-
-56680	
-
+56673	epic/doric/aeolic
+56682	attic/epic/ionic
 attic/epic/ionic
-attic/epic/ionic
-
-doric
-
-attic/epic/doric
-
-
-
-
-
-56695	
-56697	
-doric/aeolic
+56685	doric
+56687	attic/epic/doric
+56698	doric/aeolic
 epic
 56701	doric/aeolic
-56703	
-56705	
-
 56708	attic/epic/doric
-
-
-
-56713	
-doric/aeolic
-
-
-56724	
-
-56727	
-56729	
-
-
-
-56734	
-56736	
-attic/epic/doric
-
-
-attic/epic/ionic
-56743	
+56714	doric/aeolic
+56737	attic/epic/doric
+56740	attic/epic/ionic
 56745	attic/epic/doric
-
-
-56749	
-
-
-56753	
-
-56756	
-
-epic
-
-
-
-
-56765	
-
-56768	
-
-56771	
-56773	
-attic/epic
-56777	
+56758	epic
+56766	doric/ionic
+56774	attic/epic
 56779	epic
-
-56783	
-56785	
-56787	
-
-56790	
-
-56795	
-
-
-
-
-
-attic/epic/doric
-
-
-56805	
-
+56801	attic/epic/doric
 56808	ionic
-
-
 56812	ionic/epic
-56814	
-
 56817	ionic
-56819	
-56821	
-ionic
-56827	
-
-56830	
-
-
-56834	doric/aeolic
-56836	
-
-
-56840	
+56822	ionic
 56842	doric/aeolic
-56844	
-attic/epic
+56845	attic/epic
 56850	doric
-
-attic/epic/doric/ionic
+56852	attic/epic/doric/ionic
 56855	epic
-56857	
-56859	
-56862	
-56864	
-
-attic/epic/doric
-56869	
-
-
+56859	epic
+56866	attic/epic/doric
 56873	attic/epic/doric
-56879	
 56881	attic/epic/doric
 56886	doric/aeolic
-
-
 56891	doric/aeolic
-
-56899	
-
-attic
-56903	
-doric/aeolic
-56907	
+56901	attic
+56904	doric/aeolic
 56909	attic/epic/doric
-
+epic
 56912	doric
-56914	
-56917	
-
-
-
-56923	
-
-
-
-
-
-
-56931	
-56934	
-
-doric/aeolic
-
-56939	
-56941	
-
-56944	
-56946	
-attic/epic/ionic
+56936	doric/aeolic
+56947	attic/epic/ionic
 epic/doric/aeolic
 56950	epic/ionic/attic/doric
-
-
-
-attic/epic
-
-
-
-
+56954	attic/epic
+56959	attic
+56965	attic/epic/doric
+56969	doric
+56980	epic/ionic
 attic
-
-56964	
+56983	doric
+56988	doric
+56995	attic/epic/doric
 attic/epic/doric
-56967	
-
-
-
-56972	
-
-56975	
-56977	
-
-
-epic/ionic
-attic
-
-doric
-
-
-
-
-doric
-56990	
-
-
-56994	
-attic/epic/doric
-attic/epic/doric
-
-attic/epic
+56998	attic/epic
 57000	attic
-57002	
-
-attic/epic
-
-
-doric/aeolic
-57009	
-
-
-
-
-
-
-
-
-attic/epic/doric
-
-57021	
-
+57004	attic/epic
+57007	doric/aeolic
+57018	attic/epic/doric
 57024	doric
-
-epic
-
-ionic
-
+57026	epic
+57028	ionic
 57031	epic
-57033	
-epic
-
-attic/epic/ionic
-
-57039	
-
-attic/epic/ionic
-ionic
-57046	
-
-
-
-
-57053	
-
-57056	
-
-epic/doric/aeolic
-57061	
+57034	epic
+57036	attic/epic/ionic
+57041	attic/epic/ionic
+57058	epic/doric/aeolic
 57065	doric/aeolic
-57067	
 57070	attic
 57072	attic/epic/doric
-57074	
 57076	epic
 57080	doric
-
-attic/epic/doric
-
-
+57082	attic/epic/doric
 57086	doric
-
-
-
-
 57093	doric
-
-
-attic
-57098	
-
-
-epic
-
-
-
-
-
-attic/epic/doric
-
-
-attic/epic/doric
-
-
-
-doric/aeolic
-
-
-57118	
-57121	
+57096	attic
+57098	epic
+57101	epic
+57107	attic/epic/doric
+57110	attic/epic/doric
+57114	doric/aeolic
+57121	doric/ionic
 attic/epic
-
-
-doric
-
-
-
-
-57131	
-
-attic/epic
-
-epic/doric
-
-attic/epic/doric
+57125	doric
+57133	attic/epic
+57135	epic/doric
+57137	attic/epic/doric
 epic/ionic
 epic/doric/ionic/aeolic
-
-
-epic
-
-57147	
+57142	epic
 57149	attic
-
-57153	
-doric/aeolic
-57156	
-doric/aeolic
-
-
-57163	
-ionic
-57168	
-
-attic/epic
-
-
-epic
+57154	doric/aeolic
+57157	doric/aeolic
+57170	attic/epic
+57173	epic
 attic
-
-
-
-
-attic/epic/doric
-
+57179	attic/epic/doric
 57182	attic
-57184	
-
-
-57188	
 57190	attic/epic/doric
-57192	
-
-57197	
-
-
-57202	
-
-
-
-57207	
-
-attic/epic
-
-attic/epic/doric
-57215	
-57217	
-
-57221	
-epic/doric/ionic/aeolic
-
+57209	attic/epic
+57211	attic/epic/doric
 57225	doric/aeolic
 attic
-
-ionic
 57232	epic/doric/aeolic
-
-57235	
-57239	
-57242	
-57246	
-
-
+57239	attic/epic
 57251	attic/ionic/epic/doric
-57253	
-57255	
-
-
-
 57260	doric/aeolic
 epic/doric/aeolic
-57265	ionic
-57267	
+57267	attic/epic
 epic/doric/aeolic
-57270	
-
-57273	
-
-
 57277	doric
-
-57280	
 57284	epic/doric/aeolic
-57287	
-attic/epic/ionic
-57290	
-
+57288	attic/epic/ionic
 57293	attic/epic/ionic
-57296	
 57300	doric/*theocr.
-
-57305	
-57307	
-doric/aeolic
+57308	doric/aeolic
 57311	doric
-
-
-
+57315	attic/epic
 attic/epic
-attic/epic
-
-57319	
-
-
-57323	
-
-
-57330	
 57332	doric/aeolic
 attic
-
-
-57337	
-epic
+57338	epic
 attic
-
-57345	
-
 57348	doric/aeolic
-57356	
-57359	
-attic/epic
-
-57364	
+57360	attic/epic
 57366	epic/doric/aeolic
-
 57369	doric/aeolic
-57371	
-57373	
-57375	
-attic/epic/ionic
-ionic
+57376	attic/epic/ionic
 57379	doric
 57381	epic
-
-
-doric/aeolic
+57384	doric/aeolic
 57387	attic/epic/doric
-
-doric/aeolic
-
-attic/epic/doric
+57389	doric/aeolic
+57391	attic/epic/doric
 57394	epic/ionic/attic/doric
-
+attic/epic
 doric
-
-
-
-doric/aeolic
+57398	attic/epic
+57400	doric/aeolic
 epic
-57403	
-doric/aeolic
-
-
-
-
-
-
-
-
-57414	
+57404	doric/aeolic
+57415	attic
 attic
-attic
-57418	
-doric/aeolic
-57421	
-
-
-
-57426	
-
+57419	doric/aeolic
 57429	attic
-
-57432	
-
-
-
-57437	
-57439	
-
-57442	
-
-
 57446	doric/aeolic
-57448	
-
 57451	epic/ionic
-57453	
-doric/aeolic
-
-
-
-57462	
-
-
-attic
+57454	doric/aeolic
+57465	attic
 epic/ionic/attic
-
-57471	
-
 57475	attic
-
-
-
-57480	
-
-
-
-
-57488	
 57490	epic/doric
-
-doric
-
-
-57496	
+57492	doric
+57496	attic/epic
 doric/aeolic
 attic/epic/ionic
-57501	
 57503	doric
-
-
-
 57509	attic/epic/ionic
-57512	
-57515	
-57518	
-
-
-57523	doric/aeolic
+57523	attic/epic/doric
 doric/aeolic
-
-
-attic/epic
-
-epic/doric/aeolic
-57531	
-57533	
-
-
-
-
-57541	
-
-
+57527	attic/epic
+57529	epic/doric/aeolic
 57547	doric/aeolic
-57550	
-
-doric/aeolic
-
-attic
-57556	
-57558	
-
-57561	
-
+57552	doric/aeolic
+57554	attic
 57564	attic/ionic/epic/doric
-
-57568	
-attic/epic
-57572	
-57574	
-
-57578	
-
-57582	
-
-57585	
-57587	
+57569	attic/epic
+57583	attic
 57590	doric/aeolic
-
-
-
-
-57596	
-
-
-
-57601	
-57603	
-
-epic
-
-57608	
-
-
-
-
-doric/aeolic
-
-epic
-
-
-attic/ionic
-
-
-doric
-
-
-57625	
-
-attic/epic/doric
-
-
-epic/doric/ionic/aeolic
-57632	
-attic/epic/ionic
-
-57636	ionic
-
-57639	
-epic
-57643	
-
-57647	ionic
-
-
-
-
-ionic
-57657	
-
-
-
-attic/epic/doric
-57663	
-57665	
-
-
-
-epic
+57593	attic
+57605	epic
+57613	doric/aeolic
+57615	epic
+57618	attic/ionic
+57621	doric
+57627	attic/epic/doric
+57630	epic/doric/ionic/aeolic
+57633	attic/epic/ionic
+57640	epic
+57661	attic/epic/doric
+57669	epic
 attic
-
-
-ionic
 57679	attic/epic/doric/ionic
-
 57688	attic/epic/doric/ionic
-
 57693	attic/epic
-
-57697	
 57699	epic
-
-57702	
-57708	
-
-ionic
 57714	epic/doric/aeolic
-57716	
-attic/epic
-
+57717	attic/epic
 57720	attic/ionic/epic/doric
-
-
-
-
 57726	attic/epic/doric
-
-57731	
-
-
-57735	
-57740	
-
-
-57744	
 57747	doric/aeolic
-
-
-ionic
-57752	
-
-
-
-
-57759	
-
+57755	attic/epic
 57762	epic/doric/aeolic
-
-attic/epic/doric/ionic
+57764	attic/epic/doric/ionic
 57766	epic
-
 57771	attic/epic/doric/ionic
-
-
-
-57777	
-
-
-57781	
-57783	
-57785	
-epic
+57778	attic
+57786	epic
 57788	doric
 57796	attic/epic
-57802	
-
 57806	epic
-
-
-attic/epic/doric
-57811	
-57813	
-
-
-57817	
-attic/epic/doric
-
-
-attic/epic/doric/ionic
+57809	attic/epic/doric
+57818	attic/epic/doric
+57821	attic/epic/doric/ionic
 57823	doric
-57825	
-
-epic/ionic
-
-57831	
-
+57827	epic/ionic
 57835	attic
-
-
-
-57841	
-
-
-57846	
-
-
-57850	ionic
-57852	
-epic/doric/aeolic
-57858	
-57860	
-
-
-
-
-57867	
-
-
+57853	epic/doric/aeolic
 57871	attic
-57873	
-
-doric/aeolic
-
-57880	
-57882	
-
-
-
-
-
-doric/aeolic
+57875	attic/epic/doric
+57888	doric/aeolic
 epic
-
 57892	doric/aeolic
 attic
-
-doric/aeolic
-57899	
-57901	
-57905	
-57907	
-
-attic/epic/doric
-
-
-57913	
-attic/epic/doric
-57917	
-57919	
+57895	doric/aeolic
+57909	attic/epic/doric
+57914	attic/epic/doric
 57921	doric/aeolic
-
-57926	
-
-
-57930	
+epic
 57933	attic/epic/ionic
-57935	
-
-
-57942	
-
-
+57942	attic/epic/doric
 57950	doric/aeolic
-
-57954	
-epic/doric/ionic/aeolic
-
-57959	
-
-
-
-
+57955	epic/doric/ionic/aeolic
 57966	epic/ionic
 57968	epic/ionic/attic/doric
-57971	
-
-
-
 57980	doric/aeolic
-
-attic/ionic/epic/doric
-57984	ionic
+57982	attic/ionic/epic/doric
 57986	doric
-57988	
-
-
 57995	epic/ionic
-
-
-attic/ionic/epic/doric
-
-
-58002	
-
-58005	
-58009	
-
-attic/epic/doric
-
-58014	
-58016	
-attic/epic
-
-doric/aeolic
-
+57998	attic/ionic/epic/doric
+58011	attic/epic/doric
+58017	attic/epic
+58019	doric/aeolic
 58024	attic/epic/doric/ionic
-ionic
-58029	
-
 58032	epic
-
-58040	
-58042	
-
-
 58046	ionic/epic
-
+doric/ionic
 attic
 attic
-
-
-
-58054	
-
-58057	ionic
-
-
-
-doric
-
-
-58065	
-
-attic
-58070	
-
+58061	doric
+58067	attic
 58074	attic/doric/aeolic
-58078	
-
-
-doric/aeolic
+58081	doric/aeolic
 ionic/epic
-
+doric/ionic
 attic
 attic
-
-epic/doric
-
-58090	
-58092	
-attic
-58096	
-
-attic
-58100	
-58102	
-58104	
+58087	epic/doric
+58093	attic
+58098	attic
 58106	attic
-
-
-
-
-ionic
-epic
-58117	
-58119	
-
-58122	
-58124	
-58126	
-epic/ionic/attic/doric
-
+58112	epic
+58127	epic/ionic/attic/doric
 58130	attic/epic/doric
 doric/aeolic
-
-58134	ionic
 58136	doric/aeolic
-58139	
-ionic
 58142	attic/epic/ionic
 58144	attic/epic/doric/ionic
-58146	
-
-
-epic/doric/aeolic
-58154	
-
-58157	
-58159	ionic
-58161	
-58163	
+58149	epic/doric/aeolic
 58165	attic
-58167	
 58170	attic/epic/doric
-58175	
-58177	
-
-attic/epic
-
-58182	
-attic/epic
+58179	attic/epic
+58183	attic/epic
 doric
-
-
-
-
-ionic
-58194	
-
-58197	
 58199	doric/aeolic
-
-doric/aeolic
-
-58204	
-58206	
+58201	doric/aeolic
 58208	attic/doric
-58210	
-58212	
-58215	
-attic
-58218	
-ionic
-doric/aeolic
+58216	attic
+58220	doric/aeolic
 58222	epic/doric/aeolic
-58224	
-
-
-
-
-
-58231	
-
-
-58235	
-
-attic/epic
-
-58241	
-epic/doric/aeolic
-
-
-
-
-
-
+58233	attic/epic
+58237	attic/epic
+58242	epic/doric/aeolic
 58251	attic/epic/doric/ionic
 doric/aeolic
-
-
-attic/epic/ionic
+58255	attic/epic/ionic
 58260	attic
 attic
-58269	
-
-58272	
-58274	
 58277	attic
-
-
 58281	doric/aeolic
-
-58284	
-
-
-
-
-
-58292	
-
-58296	
-
-58299	
-58303	
-
-58307	
-
-
-
-
-58313	
-58315	
+58292	doric/aeolic
 58317	epic/doric/aeolic
-58320	
-
-
-
-58325	
-58327	
-
-58331	
-ionic
 58334	doric
 attic
-58337	
-
-58341	
-58344	
-58346	
-
-58349	
-58351	
-58354	
-58357	
-
-
-
-
-58364	
-
-
-58369	
-58371	
+58361	attic/epic
+58366	epic
 58375	attic/epic/doric
-
-
-
-
-58382	
-
-
-58388	
-
-58393	
-
-
-58397	
-ionic
-58401	
-doric/laconia
-
-58406	
-58408	ionic
-58412	
-58414	
-ionic
-58417	
-
-
-
-attic/epic
-58423	
-ionic
-epic/ionic
-
-58428	
-58431	
-58433	
-58435	
-58437	
-ionic/epic
+58402	doric/laconia
+58421	attic/epic
+58425	epic/ionic
+58438	ionic/epic
 attic
-58441	
-58443	
-
-58451	
-
+58452	attic/epic/ionic
 attic
-
-doric/laconia
+58455	doric/laconia
 attic/epic/doric
-
-ionic/epic
-
-58462	
+58458	ionic/epic
 58464	attic
-
-
-58468	
-
-doric/aeolic
-58472	
-58474	
-58476	
-
-58479	
-
-epic/doric/aeolic
-58483	
-
-58486	
-
-
-58491	
-58493	
-
-58496	
-
-58501	
-attic
-
-58505	
-58507	
-
-
+58470	doric/aeolic
+58481	epic/doric/aeolic
+58494	doric/ionic
+58502	attic
+58509	epic
 58512	attic/ionic/epic/doric
-
-
-58516	
-58523	
 58526	epic/ionic
 58529	attic/epic
-
-
-attic/epic
-58534	
-
-58537	doric
-
-
-doric/aeolic
+58532	attic/epic
+58540	doric/aeolic
 58543	doric
-
-
-
-
-
-
-
-doric
-58554	
-
-attic/epic
-
-58560	
-58562	
-58564	
-
-
+58551	doric
+58556	attic/epic
 58569	attic/epic/doric
-58571	
-
-58574	
-attic/epic
-
-58578	
-58580	
+58575	attic/epic
 58582	epic
 attic/epic
 attic
-
-58587	
-epic
-
-
-ionic/epic/doric/aeolic
-
-
-
-58596	
-epic
+58588	epic
+58591	ionic/epic/doric/aeolic
+58597	epic
 attic
-
+58600	attic/epic/ionic
 attic/epic/ionic
-attic/epic/ionic
-
-doric
+58603	doric
 doric/aeolic
-
-
 58608	attic
 attic
 attic/epic/doric
-ionic
 58613	attic/epic/ionic
-
 58617	attic/epic/doric/ionic
 doric/aeolic
-58620	
-58622	
-
-
-
-58627	
-
-epic/ionic/attic
-58632	
-attic/epic/doric
-58635	
-
-
-attic/epic
-58640	
-ionic
-attic/epic/ionic
-
-
+58629	epic/ionic/attic
+58633	attic/epic/doric
+58638	attic/epic
+58642	attic/epic/ionic
 58646	doric/aeolic
-
-
-epic/ionic
-
-58654	
-attic/epic/doric
-
-58658	
-58660	
+58649	epic/ionic
+58655	attic/epic/doric
+attic/epic
 58663	doric/aeolic
-
-
-epic/ionic
+58666	epic/ionic
 attic/ionic
-58669	
-58672	
-doric/aeolic
-
-58677	
-
-
-
-58682	
-58684	
+58673	doric/aeolic
 58686	doric/aeolic
-
-58689	
-ionic
-58692	doric/aeolic
-58694	
-
-
-58698	doric/aeolic
-
-58701	doric/aeolic
-
-attic
-
-epic/doric/ionic/aeolic
-58709	
-
-58713	
-58716	
 epic
+58692	doric/aeolic
+58698	doric/aeolic
+58701	doric/aeolic
+58703	attic
+58717	epic
 attic/epic/ionic
-58720	
-
-
-
-epic/doric/aeolic
+58724	epic/doric/aeolic
 doric
-
-58728	
-
-58731	
-
-doric/aeolic
+58733	doric/aeolic
 58735	epic/doric/aeolic
 doric/aeolic
 58738	epic/doric
 58740	epic/doric/ionic/aeolic
 58742	attic
 attic
-58746	
-
+58748	attic
 attic
-attic
-58752	
-
-doric/aeolic
-58756	
+58752	attic/epic/doric
+58754	doric/aeolic
 58758	attic/epic/ionic
-58760	
-58762	
 58765	epic
-58767	
-
 58771	doric
-58773	
-
-58778	
-attic
-
-
-
-
-attic/epic/doric/ionic
-ionic
-58789	
-epic
-58792	
-attic/epic
+58779	attic
+58784	attic/epic/doric/ionic
+58790	epic
+58793	attic/epic
 58797	attic
-
-
-58802	
-epic
+58803	epic
 attic
-
-
-58808	
-
-
-58812	
 58815	attic
-
-doric
+58817	doric
 58819	attic/epic
-
-58822	
-
-
-
-
-epic/doric
-
-58830	
-attic/epic/doric
-
-
-
-
-58837	
-
-
-58841	
-
-
-ionic
-58846	
-
-
-attic
-58851	
-58853	
-58856	
-58858	
-
-58861	
-
-58864	
-
-
-
-ionic
-58870	
-
+58827	epic/doric
+58831	attic/epic/doric
+58849	attic
 58874	attic
-58877	
-
-
-
-58882	
-58884	
-58886	
-doric/laconia
-
-
-58891	
-58893	
-58896	
-58898	
-doric/aeolic
+58887	doric/laconia
+58891	epic
+58899	doric/aeolic
 epic/doric/aeolic
-
-58906	
 58908	ionic/doric/aeolic
-
-
-attic/epic/doric
-58916	
-ionic
+58911	attic/epic/doric
+58917	ionic
 58919	attic/epic/doric
 58921	epic
-58923	
-
-doric/aeolic
-
-epic
+58925	doric/aeolic
+58927	epic
 58929	doric/aeolic
-
-58933	
-
-doric/aeolic
-58938	
-
-
-58943	ionic
+58935	doric
 58945	doric/aeolic
-
-58949	
-attic/epic/doric
-
-
-58955	
+epic
+58950	attic/epic/doric
 58958	doric/aeolic
-
-
-
 58964	doric/aeolic
 attic
-
-
 58969	epic/doric
-58971	
-
-58974	ionic
-
-
-
-ionic
-
-doric/aeolic
-ionic
-58983	
-58986	
-
-
-attic/epic
-58991	
+58980	doric/aeolic
+58989	attic/epic
 58993	attic/epic/doric
 attic
-ionic
-58999	
-59001	
-59003	ionic
-
-
-
-
-
-
 59011	doric/aeolic
-
-
-
-
-59018	
-
-attic/epic/doric
-
-
-59024	
-59026	
-
-
-59032	
-doric
-59036	
-
-
-59040	
-59042	
-59044	
-
-59047	
-59049	
-59051	
-59054	
-59056	
-
-doric
-
-
-attic/epic/doric
-
-59064	
-59067	
-epic
+59020	attic/epic/doric
+59033	doric
+59058	doric
+59061	attic/epic/doric
+59068	epic
 59074	epic/doric/aeolic
-
-
-59078	
-doric
+59079	doric
 59081	doric/aeolic
-
-
-
-
-attic/epic/ionic
-
-59089	
+59086	attic/epic/ionic
 59091	attic/epic/doric
 attic/epic/doric
 59094	epic/doric/aeolic
-59096	
 59099	attic/epic/doric
 59103	doric
 attic
 59106	doric
-
-
-
-
-
-
-
-
-
-
-attic
+59117	attic
 attic
 59123	attic/ionic
-59125	
-59127	
-attic/epic
-59130	ionic
+59128	attic/epic
 59132	attic/ionic/epic/doric
-59135	
 59137	attic
 attic
-doric/aeolic
-59141	ionic
-59143	ionic/doric/aeolic
-
 attic/epic/doric
+59143	ionic/doric/aeolic
+59145	attic/epic/doric
 59147	doric/aeolic
 59150	doric
-
-
-59154	
-
-59157	ionic
-doric/aeolic
-
-59161	
-
-
-
-59168	
-
-epic
-
-attic
-
+59158	doric/aeolic
+59170	epic
+59172	attic
 59175	epic
-
-59179	
-59184	
-59186	ionic
-59190	
-59194	
-
 59197	attic/epic
 attic/epic
 59201	epic/doric/aeolic
-59207	
-
-
-
-59212	
 59216	doric
-
-59219	
-
-
+59222	attic/epic/doric
 attic/epic/doric
-attic/epic/doric
-59225	
-doric
-59228	
-59230	
-
-
-
-
-
-
-
-
-59241	ionic
+59226	doric
 59244	doric
-
-
-doric/aeolic
-
-doric
-
-
-epic/ionic/attic
-59255	
-
-
-
-
-
-
-59264	
-
-doric/aeolic
+59247	doric/aeolic
+59249	doric
+59252	epic/ionic/attic
+59266	doric/aeolic
 59268	doric/aeolic
-
-59273	
-
-
-
-59278	
-
-doric/aeolic
-
-
-59285	
-59289	
+59280	doric/aeolic
 59292	attic/epic/doric
-
-59295	
-59300	
-59302	
-59304	
-
-
+59295	attic/epic
+59302	epic
+59306	attic/epic
 59308	attic/epic/doric
-
-
 59312	epic/doric
-59315	
 59317	epic
-
-59320	
 59322	epic
-59324	
-
-ionic
-
+59326	ionic
 59329	doric
 59331	attic/epic
-59333	
-59336	
-
-59339	attic/epic/ionic
-
-
-59343	
+59339	doric
 59345	attic/epic/doric
-
-epic/doric
-59350	
-
-59353	
-59357	
-
+59347	epic/doric
 59365	doric
-
 59368	attic/epic/doric
-
-doric
+59370	doric
 59373	doric/aeolic
 attic/epic/ionic
 attic/epic/ionic
-
-doric
-
-59380	
+59377	doric
 59382	attic
-
-
-ionic
 59388	attic
-59391	
-
-
-
-
+59396	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-
-
 59402	epic/doric
-
-attic/epic/doric
+59404	attic/epic/doric
 doric/aeolic
-
-
-59409	
-
-doric/aeolic
-59413	
-59415	
-59420	
+59411	doric/aeolic
 59422	doric/aeolic
-
-59426	
-doric
+59427	doric
 59429	attic
-59431	
 59434	doric/aeolic
-
-attic/epic/doric
-
+59436	attic/epic/doric
+59438	attic/epic/ionic
 attic/epic/ionic
-attic/epic/ionic
-
-doric
-
-59444	
-
-doric
-
-
-
-59451	
-59453	
-59455	
-59457	
-
-
+59441	doric
+59444	attic
+59446	doric
 59461	attic/epic
-59466	
+59467	attic/epic/ionic
 attic/epic/ionic
-attic/epic/ionic
-
-doric
-
-
-
-epic/doric
-
-59477	
-ionic
-59480	
-doric/aeolic
+59470	doric
+59474	epic/doric
+59481	doric/aeolic
 attic/epic/doric
-
-
-
-epic/doric/aeolic
-
-
-
-
-
-
-
-attic/epic
+59486	epic/doric/aeolic
+59494	attic/epic
 59496	attic
 attic
-
-59500	
-
-
-59504	
-
-
-59508	
-
-
-
-59513	
-
-
-
-59519	
 59522	attic
 attic
-
-
-
-
 59529	epic
-59531	
-
 59536	attic/epic/doric
-
-59541	
-
-
-59547	
-59549	
-doric/aeolic
-59554	
-59557	
-
-ionic
-59561	
-
-
-59565	
-
-
-attic/epic
-
-
-59575	
-
-59578	
-
-
-doric
+59550	doric/aeolic
+59568	attic/epic
+59581	doric
 59583	attic/epic/doric
-
-59586	
 59588	doric/aeolic
-
-
-
-
-
-
-doric/aeolic
-
-ionic
-59600	
-59602	
-
-
-
-
-59611	
-
-epic/doric/aeolic
-59616	
-59618	
-
-
-59623	
-epic
+59595	doric/aeolic
+59613	epic/doric/aeolic
+59624	epic
 attic
-
-59628	
-59631	
-
-
-
-59637	
-
-59640	
-59642	
-59644	
-
-59647	
-
-59652	
 59654	epic/doric
-
-epic
-59660	
+59656	epic
 59662	attic/epic/doric
-
 59665	attic/epic/doric
-
-59668	
-
 59672	doric
-
 59676	doric/aeolic
 epic
 doric
-
-
 59684	epic/doric
-
-59688	
-59690	
-
-59694	
-attic/epic/doric
+59695	attic/epic/doric
 doric/aeolic
-
-doric/aeolic
+59698	doric/aeolic
 doric/ionic
 doric
-
-
-
-
-
-
-
-
-epic/ionic/attic/doric
+59709	epic/ionic/attic/doric
 doric
-
-59713	
-
+59715	attic/epic/ionic
+59726	epic
+59739	epic
+59747	attic/epic/ionic
 attic/epic/ionic
-59718	
-
-59721	
-
-
-
-
-
-
-
-59730	
-
-59734	
-
-
-
-
-epic
-
-59742	
-
-
-
-
-attic/epic/ionic
-attic/epic/ionic
-
-
-
-
-59754	
-
-
-doric/aeolic
-59760	
+59755	doric
+59757	doric/aeolic
+59760	attic/epic/ionic
 59762	epic/doric
-
-ionic
-
-ionic
-59768	
-59770	ionic
-
-
-
-
-
-attic
-59778	
-doric/aeolic
+59764	ionic
+59776	attic
+59779	doric/aeolic
 doric/aeolic
 epic
-
-59784	
-
-
+59786	attic
 doric
-
-59790	
 59792	doric
 59794	doric/aeolic
 59797	doric
 59799	doric
 59804	epic/doric
-59806	
-
-59809	
-attic/epic/doric
-59813	
+59810	attic/epic/doric
 59816	attic/epic/doric
-
-
-59820	
-
-
-doric
-
-
-doric/aeolic
-
-epic/ionic/attic/doric
-
-doric/aeolic
-59832	
-
-
-
-attic/epic/doric
-
-
-
-59841	
-epic/doric/aeolic
-59844	
-attic/epic/ionic
-59851	
-
-59854	
-
-59861	
-
+59823	doric
+59826	doric/aeolic
+59828	epic/ionic/attic/doric
+59830	doric/aeolic
+59836	attic/epic/doric
+59842	epic/doric/aeolic
+59845	attic/epic/ionic
+59862	attic
 59866	ionic
-59870	
-
-
-
-
-attic
+59875	attic
 59879	attic/epic
 attic
-
-
-
-
 59888	epic/doric
-
-59891	
-59894	
-
-59897	
-epic/doric/aeolic
-59901	
+59898	epic/doric/aeolic
 59903	epic
-
-attic
-59908	
-59910	
-attic/epic/doric
-
+59905	attic
+59911	attic/epic/doric
+59913	attic/epic
+59924	attic/epic/doric
+59926	doric
+59930	attic/epic/doric
+59936	attic/epic/doric
 attic/epic
-
-59916	
-59918	
-
-59921	
-59923	
-attic/epic/doric
-
-doric
-59929	
-attic/epic/doric
-
-59934	
-
-attic/epic/doric
-attic/epic
-
-59940	
-
-59943	
-attic/epic/doric
-
-attic/epic
-
-59949	
-59951	
-
-
-59955	
-
-
-59959	
-
+59944	attic/epic/doric
+59946	attic/epic
+59956	epic
+59961	attic/epic/ionic
 attic/epic/ionic
-attic/epic/ionic
-
+59964	doric
+59972	attic/epic/doric
+attic/epic/doric
+59981	attic/epic/doric
+59989	attic
 doric
-
-59967	ionic
-
-
-59971	
-attic/epic/doric
-attic/epic/doric
-59975	
-59977	
-59979	
-
-attic/epic/doric
-59987	
-
-
-doric
-
-attic/epic
-59994	
-59996	
-
-59999	
-60001	
-attic/epic
+59992	attic/epic
+60002	attic/epic
 60004	doric/aeolic
-
-doric
-60008	
-attic/epic
-60011	
-attic/epic/doric
-
-doric/aeolic
-
+60006	doric
+60009	attic/epic
+60012	attic/epic/doric
+60014	doric/aeolic
 60017	doric/aeolic
 doric/aeolic
 doric/aeolic
 doric/aeolic
 epic
-
-attic/ionic
-60028	
-
-doric
-
+60023	attic/ionic
+60030	doric
 60034	epic/doric
-ionic
 60041	epic/doric/aeolic
-
-
-60045	
-doric/aeolic
-60048	
-
-attic/epic
-60052	ionic
-ionic
+60046	doric/aeolic
+60050	attic/epic
+60053	ionic
 60055	ionic
-60057	
 60059	doric
 attic/epic/doric/ionic
-60062	
-doric
-60065	
-
-epic/doric
-
+60063	doric
+60067	epic/doric
 60071	epic/doric
-60073	
-60075	
 60079	attic/epic
 60082	attic/epic
-60084	
-attic/epic/doric
+60085	attic/epic/doric
 attic/epic/ionic
 60089	epic
-
-attic/epic/ionic
-
-
-60096	
-attic/epic/doric
-
-attic/epic
-
-
-60104	
-
-
-
-doric
-
-
+60091	attic/epic/ionic
+60097	attic/epic/doric
+60099	attic/epic
+60108	doric
+60111	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-60115	
-doric/aeolic
-60119	
-epic/ionic/attic/doric
-60122	
+60116	doric/aeolic
+60120	epic/ionic/attic/doric
 60124	epic/ionic/attic/doric
-60127	
-attic
-60130	
-
-attic/ionic
-60135	
-
-
-
-
-doric/aeolic
-
-
-60144	
-60146	
-epic/doric/aeolic
-
-attic
+60128	attic
+60132	attic/ionic
+60140	doric/aeolic
+60147	epic/doric/aeolic
+60149	attic
 60151	attic/epic
-
-60154	
+60154	attic/epic
 attic/epic
 60157	doric
-
-60160	
-
-doric/aeolic
-
-epic
-60168	
-
-60171	
-60173	
-attic/ionic
+60162	doric/aeolic
+60164	epic
+60174	attic/ionic
 60181	attic/epic/ionic
-60183	
-epic
-
-
-epic/ionic/attic/doric
+60184	epic
+60187	epic/ionic/attic/doric
 60190	doric
-
-
-attic/epic
-60195	
-60197	
-
-
+60193	attic/epic
 60202	doric/aeolic
 attic
-60207	
 60209	doric
 60211	doric
 attic/epic/doric
-
-60219	
-
-
-
-60224	
-attic/epic
-60227	
+60225	attic/epic
 60229	epic/doric
-
-
-60233	
-epic/doric
-
-
-
-doric
+60234	epic/doric
+60238	doric
 attic/epic/doric
 attic/epic/ionic
 60242	doric
@@ -35856,22542 +10479,7240 @@ epic/doric
 60245	epic/doric
 epic
 doric
-
-60250	
-60252	
-attic/epic/doric
+60253	attic/epic/doric
 epic
 doric
-
 60258	epic/doric
-
-ionic
-60264	
-attic/epic/doric
-
-doric
-
+60260	ionic
+60265	attic/epic/doric
+60267	doric
 60272	epic/doric
-
-60277	
-
-60283	
-
-60287	
+60277	attic
 60292	doric
-60295	
 60297	doric/aeolic
 doric
-60300	
-
 60303	epic/doric
-60306	
+60307	attic
 attic
-attic
-
-60311	
-
-
-
-60317	
-60319	
-60321	
-epic/ionic/attic/doric
-60329	
+60322	epic/ionic/attic/doric
 60332	attic/epic/doric
-
-attic/epic/ionic
+60334	attic/epic/ionic
 60336	attic/epic/doric
-
-
-60340	
-60343	
-60345	
-
-60349	
-60351	
-
-
-
-
-
-60359	
-60361	
-
-
-60365	
-
-
-
-doric/aeolic
+60369	attic/epic/doric
 60371	attic/epic/doric
-
-
-60376	
+60373	epic
 60378	doric
-
-
-
-
-
-doric
-60388	
-doric/aeolic
-
-60393	
-doric/aeolic
-
-
-
-
-
-60401	ionic
+60384	doric
+60389	doric/aeolic
+60394	doric/aeolic
 60403	doric/aeolic
-
-
-
-doric/aeolic
+60407	doric/aeolic
 attic/epic/doric
-
-
-60413	
-60415	
-attic/epic/doric
-
-
-
-
-
-60423	
-
-60426	
-60428	
-
-
+60416	attic/epic/doric
 60433	doric/aeolic
-
-
-
-
-
-60440	
-
+60440	attic/epic/doric
 60447	epic/ionic
-
-60450	ionic
 60453	epic
 60456	doric/aeolic
-60458	
-
-60461	
-60463	
-
-doric
-
-
-doric/aeolic
-
-
+60465	doric
+60468	doric/aeolic
 60473	doric
-
-
-60477	
-60479	
-
-
 60486	attic/epic/doric
 doric/aeolic
 60489	attic/ionic/epic/doric
-60491	
-60493	
-epic/doric
-60496	
-
-
-doric
-
-
+60494	epic/doric
+60499	doric
+60502	doric/aeolic
 doric/aeolic
 doric/aeolic
-doric/aeolic
-
-doric
-60508	
-
-doric
-
+60506	doric
+60510	doric
 60513	attic/epic/doric
 attic
-60516	
+60517	doric/aeolic
 doric/aeolic
-doric/aeolic
-60521	
-
-
-
-doric
-
+60525	doric
 60528	doric
-
-
-
-
-doric/aeolic
-
-doric
-60538	
-
-epic/doric
-60544	
-
-
-doric/aeolic
-
-
+60533	doric/aeolic
+60535	doric
+60540	epic/doric
+60547	doric/aeolic
 60553	epic/doric
-
 60556	doric/ionic
-60558	
-
-
-60562	
-
-
-
-
-
-
 60570	attic/epic/doric
-
-
+60573	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-attic/epic/doric
+60576	attic/epic/doric
 60578	doric
-60580	
-epic/doric
-
-
-
-
-
-60588	
-attic/epic
-
-
-
-epic/doric
+60581	epic/doric
+60589	attic/epic
+60593	epic/doric
 60596	doric
-
-
-
-60601	
-attic
-60604	
+60602	attic
 60606	doric
-
-60610	
 60612	attic/epic/doric
-
-epic/doric
+60614	epic/doric
 60617	epic/doric
-
 60620	doric
-60622	
-60625	
-
-epic/doric
-
-
-
-
-
+60627	epic/doric
+60632	attic
 doric
-60636	
-attic/epic
-60639	
-
-doric
-
+60637	attic/epic
+60641	doric
 60644	doric
-
-
-60648	
-
 60651	epic/doric
 attic/epic
 ionic
-
-
-
-epic/doric
+60657	epic/doric
 epic/doric/aeolic
-
-
+60661	attic
 attic
-attic
-
-
-60666	
+60666	attic
 60668	doric/laconia
 attic/epic/doric/ionic
-
-60672	
+60673	attic
 attic
-attic
-
-
 60678	attic/epic/doric
-
-epic/doric
-
+60680	epic/doric
+60682	attic
 attic
-attic
-
+epic
 60686	attic/epic
 epic/doric
-
-60690	
-attic
+60691	attic
 epic/ionic/attic
-
-attic/epic/doric
-
-doric
-
-60699	
+60694	attic/epic/doric
+60696	doric
 60701	attic
-
-
-
-
 60708	epic/doric
 attic/epic/doric/ionic
-
-60713	
-60717	
-attic/epic/doric/ionic
+60718	attic/epic/doric/ionic
 doric/aeolic
-
-
-attic/epic/doric/ionic
-ionic
-epic/doric
-
-60727	doric/aeolic
-
-
-
-doric/aeolic
-60733	
-60735	
-
-
-60740	
-doric/aeolic
-
-60746	attic/epic/ionic
-
+60722	attic/epic/doric/ionic
+60724	epic/doric
 epic
-
-60751	
-
-
-
-attic/epic/doric
-60759	
-attic/epic
-
-
-60764	
-
-
-
-
+60727	doric/aeolic
+60731	doric/aeolic
+60741	doric/aeolic
+60746	attic/epic/ionic
+60748	epic
+60755	attic/epic/doric
+60760	attic/epic
 60771	attic/ionic/epic/doric
 doric/aeolic
-
-60782	
-60786	
-60788	
-60790	
-60792	
-
-attic/epic
-
-
-60798	
+60794	attic/epic
 60801	ionic/doric/aeolic
-60803	
-
-60806	
-attic/epic/doric
-
-doric
-
-attic
+60807	attic/epic/doric
+60809	doric
+60811	attic
 60816	epic/doric/aeolic
-
-
-attic
-60821	
-60823	
-
-
+60819	attic
 60829	attic/epic
-
-60834	
-
-
 60838	doric
-
-
-
 60843	attic/epic/doric/ionic
 epic/doric
-60847	
-
-60850	
-
-epic/doric
-
-doric/aeolic
+60852	epic/doric
+60854	doric/aeolic
 60856	attic/epic
-
-60859	
-attic/epic/doric/ionic
-
-
-60866	ionic
-
-doric/aeolic
-
+60860	attic/epic/doric/ionic
+60868	doric/aeolic
 60871	doric
-
-60874	
-
-
-
-60879	
-
-attic/epic/doric
-
-doric
-
+60881	attic/epic/doric
+60883	doric
 60886	doric
-
-60889	
-
-
 60893	epic/doric
-60897	
-60900	
-60904	
-epic/doric
-
-60908	
-epic/ionic/attic/doric
-60911	
-
+60905	epic/doric
+60909	epic/ionic/attic/doric
 60914	doric
-
-doric/aeolic
+60916	doric/aeolic
 epic/doric/aeolic
 epic/doric
 60920	ionic/doric/aeolic
 60922	attic/epic/doric
 60924	epic/doric/aeolic
-
-doric
-
-doric
-
-attic/epic/doric
-
-doric/aeolic
-60934	
-
-
-60938	
-
-
+60926	doric
+60928	doric
+60930	attic/epic/doric
+60932	doric/aeolic
 60942	epic/doric
 doric/aeolic
-60946	
 60949	epic/doric
-60953	
-60956	
-
-60959	
-60962	
-60964	
-
-60967	
-
-epic
-ionic
-
-
-60975	
-60979	
+60969	epic
 60982	attic/epic
-60984	
-60987	
-
-
+60990	attic
 attic
-attic
-60995	
-
-doric
+60997	doric
 attic/epic
-61000	
-
-61006	
 61011	epic/doric/aeolic
-
-epic/doric
-ionic
+61013	epic/doric
 61016	epic/doric/aeolic
-
-
-61020	
-61022	
-61024	
-
-
-61028	
-
-attic/epic/doric/ionic
+attic/epic/ionic
+61030	attic/epic/doric/ionic
 doric
-61033	
-
-
-
-attic
+61037	attic
 attic
 61041	attic/epic/doric/ionic
 doric
-
-
-
-
-61048	
-61050	
-61052	
-
-
+61050	epic
+61055	attic
 attic
-attic
-
 61059	attic/epic/doric/ionic
 doric
-
 61064	attic/epic
-61068	
 61072	epic/ionic
-61074	
-
-
-
-61080	
-61083	
-
-attic
-
-61088	
-attic/epic
-61093	
-61098	
-
-61103	
-61106	
-61108	
-
-61111	
-
-doric/aeolic
-
-attic/epic
-61117	
-
-
+61085	attic
+61089	attic/epic
+61113	doric/aeolic
+61115	attic/epic
 61121	doric
-61123	
-
-
 61127	attic/epic
-61129	
-
-
-
-61134	
-attic/epic
-61139	
+61135	attic/epic
 61143	attic/epic/ionic
 attic/epic/ionic
-
-doric
-
+61146	doric
 61150	epic
-61152	
-61155	
-61159	
-doric/aeolic
+61160	doric/aeolic
 epic/doric
-ionic
-doric/aeolic
-61165	
-61168	
-epic/doric
-
-
-
-
-
+61163	doric/aeolic
+61169	epic/doric
 61178	attic/ionic
-61180	
-61182	
-61185	
+61185	epic
 61187	doric/aeolic
-
-61191	ionic
 61199	epic/doric
-
 61203	epic
 epic/doric
-61206	
-epic/doric
-
-ionic
+61207	epic/doric
+61209	ionic
 61212	doric/aeolic
 epic/doric
-61215	
 61217	epic/doric
-61219	
-attic/epic/ionic
-
-
-
-
-attic/ionic/epic
+61220	attic/epic/ionic
+61225	attic/ionic/epic
 61227	attic/epic/ionic
 attic/epic/ionic
-
-doric
-
-
-doric
-61236	
-doric
-
-attic/epic
-61241	
-
-61244	
-61247	
-attic/epic
-61250	
-
-61254	
-
-
-epic/doric
-61260	
-
-epic
-61264	doric
-61266	
-
-61269	
-epic
-
-doric
-doric/aeolic
-
-
+61230	doric
 attic
+61233	doric
+61237	doric
+61239	attic/epic
+61242	doric
+61248	attic/epic
+61257	epic/doric
+61262	epic
+61264	doric
+61270	epic
+61272	doric
+doric/aeolic
+61276	attic
 61278	attic/epic/ionic
 doric
-
-attic/epic/ionic
-
-
-
-attic/epic
-61287	
-61290	
-
-doric
-
-attic/epic/doric
+61281	attic/epic/ionic
+61285	attic/epic
+61292	doric
+61294	attic/epic/doric
 attic/ionic
-61298	
-epic/doric
-61302	
+61299	epic/doric
 61304	attic/epic
 epic/doric
-
-61308	
-61312	
-attic/epic/doric
-
-attic
-
-
-
-
-attic
-61324	ionic
+61313	attic/epic/doric
+61315	attic
+61320	attic
 61336	epic
-
-doric/aeolic
-
-
-61342	
-
-attic/epic
+61338	doric/aeolic
+61344	attic/epic
 61346	doric/aeolic
-
-epic
+61348	epic
 61350	doric/aeolic
-
-doric
-
-61355	
-doric/aeolic
+61352	doric
+61356	doric/aeolic
 epic/ionic/attic
-
-
-
-epic
-
-
-
-
-
-
+61361	epic
 61369	doric
-
-
-61373	
-attic/epic/doric
-61376	
+61374	attic/epic/doric
 61378	ionic/epic/doric/aeolic
-
-
-61382	ionic
-
-
-
-
-
-61389	
-
-61392	
-
-61396	
-61398	
 61400	doric
-
-
-
-epic/doric
+61404	epic/doric
 doric
-
-attic/epic
-61410	
+61407	attic/epic
+61411	doric/aeolic
+61413	attic/epic/doric
+61430	ionic/epic/doric/aeolic
+61439	epic
+61445	doric/aeolic
 doric/aeolic
-
-attic/epic/doric
-61417	
-61419	
-61421	
-61424	
-ionic
-61428	
-
-ionic/epic/doric/aeolic
-
-
-
-
-61437	
-
-epic
-
-
-61444	
-doric/aeolic
-attic/epic/ionic
-61448	
-
-
-61452	
-
-
-attic/epic/ionic
-
-61460	
-
-attic/epic/ionic
-
-61465	
-61467	
-
-
-61471	
-attic/epic/ionic
-61474	
-attic/epic/doric
-
-61478	
+61455	attic/epic/ionic
+61462	attic/epic/ionic
+61472	attic/epic/ionic
+61475	attic/epic/doric
 61480	attic/epic/ionic
 61482	epic
-
-
-61487	
-doric
-61491	
-61494	
-
-
-
-epic
-
-
+61488	doric
+61498	epic
 61502	attic
-61506	
-
-61509	
 61511	doric/aeolic
-61517	
+61518	attic
 attic
-attic
-
-doric/aeolic
-
-61528	
-61532	
-
-
-61537	
-
-epic
-
-
-61543	
-61547	
-61550	
-61554	
-
-
-
-61560	
+61521	doric/aeolic
+61539	epic
 61563	attic/epic/ionic
 attic/epic/doric
-
-
-epic/ionic/attic/doric
-
-
-attic
+61567	epic/ionic/attic/doric
+61570	attic
 attic
 epic/ionic/attic/doric
 doric/aeolic
-
-
-61578	
-
-epic
-61582	
-
-
-
-61588	
-
-
-61593	
-
-61597	
-
-attic/epic
-61603	
-attic/epic
+61580	epic
+61599	attic/epic
+61604	attic/epic
 61606	epic
-
-61609	
-61611	
-61613	
-61615	
-attic/epic
-61618	
-61622	
-
-epic
-61627	
-61630	
+61616	attic/epic
+61624	epic
+61631	attic/epic/doric
 attic/epic/doric
-attic/epic/doric
-61634	
-attic/epic
-61637	
-61642	
-61645	
-
-61648	
-
-
-epic
-61653	
-
-
-doric/aeolic
-61661	
-61664	
-attic/epic/doric
-
-attic/epic
-61669	
+61635	attic/epic
+61651	epic
+61656	doric/aeolic
+61665	attic/epic/doric
+61667	attic/epic
 61672	doric/aeolic
 61674	epic/doric
-61676	
-
-attic/epic/doric
-61680	
-61683	
-61685	
-61689	
-
-epic
-
-attic
+61678	attic/epic/doric
+61691	epic
+61693	attic
 attic
 61696	attic/epic/doric
-
-
-
+61700	attic
 attic
+61703	epic/ionic/attic/doric
+61705	doric
+61708	attic
 attic
-
-epic/ionic/attic/doric
-
-doric
-61707	
+61715	attic
+61718	attic
 attic
-attic
-61711	
-61714	
-attic
-
-
-attic
-attic
-
-epic
+61721	epic
 61723	attic/epic/doric
-
-
-
+61727	attic
 attic
-attic
-
-61731	
-
-epic/doric/aeolic
-
-61736	
+61733	epic/doric/aeolic
 61738	epic/doric/aeolic
-61741	
-attic/epic/ionic
-ionic
-61746	
-
-61749	ionic
-61753	
-
-attic/epic/doric
-
-
-
-
-61763	
-epic/doric/aeolic
-
-
+61742	attic/epic/ionic
+61755	attic/epic/doric
+61764	epic/doric/aeolic
 61769	epic/ionic/attic/doric
-
-doric/aeolic
-61773	
-
-
-
+61771	doric/aeolic
+61776	epic
 attic
 epic/ionic/attic
-
-ionic
-
-
 61784	epic
-
-61789	
-
-
-
-
-
-61797	
-attic
-
-
-
-61803	
-
+61798	attic
 61807	attic/epic/ionic
-
 61810	doric/aeolic
-61815	
-
-
-epic
+61818	epic
 61821	epic
 attic/epic/doric
-
-
-61827	
-
-
-
-61832	ionic
-epic
-
-ionic
-
-61838	
+61833	epic
+61835	ionic
 61841	attic/epic/ionic
-61846	
-61849	
-61852	
-
-61855	
-attic/epic/doric
-61858	
-61860	
-
+61856	attic/epic/doric
 61864	doric/aeolic
 61866	epic/doric
-61870	
-61874	
-attic
-61877	
-61879	
-61881	
-
+61875	attic
 61884	attic/epic/doric
-61886	
-epic/doric/aeolic
-61891	
+61887	epic/doric/aeolic
 61894	attic/epic/ionic
-61897	
 61899	doric/aeolic
-
-61902	
-
-
-doric
-61909	
-
-61912	
-
-
-
-
-
-
-
-61921	
-
-doric/aeolic
+61905	doric
+61923	doric/aeolic
 attic
-
-
-
 61929	epic/doric/aeolic
-61931	ionic
-
-
-61936	
-doric/aeolic
-
+61937	doric/aeolic
 61942	doric/aeolic
-
-epic/doric
-61948	
-61950	
-
-
-
-
-
-
-
+61944	epic/doric
+61952	attic/epic
 61959	doric/aeolic
-
 61962	doric/aeolic
-61964	
-
-attic/epic/ionic
-61968	
-
+61966	attic/epic/ionic
 61971	epic/doric/aeolic
-61973	
-
-
-61977	
-61979	
-
+61973	attic/epic
 61982	doric
-
-
-
-61988	
-61990	
-
-
-attic/epic
-
-
-61998	
-
-
-attic/epic/doric
-
+61993	attic/epic
+62001	attic/epic/doric
 62006	doric/aeolic
-
-epic/doric
-62011	
-
-62014	
-
-attic/epic/doric
-
-62019	ionic
-
-doric
+62008	epic/doric
+62016	attic/epic/doric
 62023	epic
 doric/aeolic
 62027	attic/ionic/epic/doric
-62029	
-attic/epic
-
+62030	attic/epic
 62033	epic/ionic
-62036	
-doric
-
-
-doric
-
-attic/epic/doric
-
-
-62046	
-attic/epic
+62037	doric
+62040	doric
+62042	attic/epic/doric
+62047	attic/epic
 epic/ionic
 62050	epic/ionic/attic/doric
-
-62053	
-62055	
-
-
-62061	
-62063	
-
-
-
-62068	
-
-doric/aeolic
-62074	
+62070	doric/aeolic
 62076	attic
 ionic
-
-62081	
 62085	ionic/doric/laconia
 epic/doric/aeolic
 62088	doric/aeolic
 attic/epic
-
-62092	
-62094	
-
-attic/epic
-
-
+62096	attic/epic
 62100	doric/aeolic
-ionic
 62105	epic/doric/laconia
-
-epic/doric/aeolic
-62109	
-62111	
-
-attic/epic/ionic
+62107	epic/doric/aeolic
+62113	attic/epic/ionic
 62115	attic
-62117	
-62119	
-62122	
-doric/aeolic
-
-
-
-62130	
-62133	
-62136	
-epic/doric/aeolic
+62123	doric/aeolic
+62137	epic/doric/aeolic
 62140	attic
 62143	epic/doric/aeolic
 ionic/epic
 attic
 attic
-
-epic/doric/aeolic
-62151	
-attic/epic/ionic
+62148	epic/doric/aeolic
+62152	attic/epic/ionic
 62154	attic/epic/doric
-
-
-
-62160	
-attic
+62161	attic
 62165	attic/epic
 attic
-
-
 62171	attic/epic/ionic
-
 62174	attic/epic/ionic
 62176	epic/doric/aeolic
 62178	attic/epic
 ionic
-62181	
-attic/epic
+62182	attic/epic
 attic
-ionic
 62186	epic/doric
 attic
 ionic
-
-62191	
-62194	
-
-
-
-62199	
-attic/epic/ionic
-
-62203	
+62196	attic/epic/doric
+62200	attic/epic/ionic
 62205	attic
 ionic
-62208	
-
-62214	
-
 62217	attic/epic
-
-
-62221	
-62223	
-62226	
-
-
-
-attic
-
-62233	
-62235	
-
-62239	
-
-62242	
+62223	attic/epic/ionic
+62230	attic
+62243	doric/aeolic
 doric/aeolic
-doric/aeolic
-62246	
 62248	epic/doric/aeolic
 62251	epic/doric/aeolic
-62254	
-
-62257	
-62261	
 62263	ionic/epic
 attic/ionic/epic/doric
-62267	
-
-
-
-62272	
-62275	
-doric
-
-
-attic/epic/doric
-
+62276	doric
+62279	attic/epic/doric
 62282	attic/epic
 62284	attic/epic/doric
-62287	
-epic/ionic
-62290	
-attic/epic
-
-62295	
-attic/epic/doric
-62299	
-62303	
-62305	
-attic/ionic
-62309	
-62311	
-
+62288	epic/ionic
+62291	attic/epic
+62296	attic/epic/doric
+62306	attic/ionic
 62314	doric/aeolic
-
-
-attic/epic/doric
-
-62320	
-62322	
-62324	
-attic/epic/doric
+62317	attic/epic/doric
+62325	attic/epic/doric
 62328	attic/epic
 attic
-
-62332	
-attic/epic
+62333	attic/epic
 ionic
 doric
-
-
-
-doric/aeolic
-62341	
-
-attic
-
-
-62347	attic/epic/ionic
-
+62339	doric
+62343	attic
+62347	doric
 62350	attic/epic/doric/ionic
-
-62354	
-
-
 62361	epic/doric/aeolic
-62363	
-
-62368	
-62370	
-
-62374	
-
-
-
-
-62382	
-
-
-
-
-
-
-
-attic
+62371	attic/epic/ionic
+62390	attic
 ionic
 doric/aeolic
-
-
-62396	
-62399	
-attic/epic/doric
-
-
-
-attic/epic
-62407	
-62411	
+doric/ionic
+62400	attic/epic/doric
+62404	attic/epic
 62413	epic/doric/ionic/aeolic
 62416	epic
-62420	
-attic
-62423	ionic
+62421	attic
 62426	epic/doric/aeolic
-62428	
-62431	
-
-ionic
-62436	
-
+62428	epic
 62439	doric/aeolic
-
-62443	
-62445	
-62447	
+62447	attic/epic/doric
 62451	epic
-
-doric/aeolic
-
-attic
-
-62458	
+62453	doric/aeolic
+62455	attic
 62460	epic/ionic
-
-
-
-epic/doric/aeolic
-62466	
-attic/epic/doric
-
-
-
-62473	
-62475	
-
-62478	
-62482	
-62484	
-epic/doric
-
-62488	
-
-
-attic/epic/doric
+62464	epic/doric/aeolic
+62467	attic/epic/doric
+62469	attic
+62485	epic/doric
+62491	attic/epic/doric
 attic
-
-62495	
-
-
-
 62500	attic
 attic
-62503	
-
-62506	
-
-62510	
-62513	ionic
-62516	
-62523	
-
-62526	
-
-ionic/epic
-
-
-doric
-
-62534	
+62528	ionic/epic
+62531	doric
 62537	epic
-
-
-
-
-
-
+62544	doric
+62548	attic/epic/doric
+62562	attic/ionic/epic
 doric
-
-62547	
-attic/epic/doric
-62550	
-62554	
-62556	
-
-62559	
-
-
-attic/ionic/epic
-doric
-
+62565	attic
+62568	doric/aeolic
+62572	attic
 attic
-
-
-doric/aeolic
-
-62571	
-attic
-attic
-62575	
-
-attic
+62577	attic
 attic
 62580	epic/doric/aeolic
-
-
-
-doric/aeolic
-
-doric/aeolic
-
-
-attic/epic/doric
-62591	
-
+62584	doric/aeolic
+62586	doric/aeolic
+attic
+62589	attic/epic/doric
 62595	attic/epic/doric
-62598	
-
-
-doric/aeolic
-
-62605	
-62607	
-
-62610	
-ionic/epic
-
+62601	doric/aeolic
+62611	ionic/epic
 62614	doric
-
-
 62618	epic
-
-ionic/epic
-
-attic/epic/doric
-ionic
-62627	ionic
-62630	ionic
-62633	
-doric
-
-epic/doric/aeolic
-62638	
-
-
+62620	ionic/epic
+62622	attic/epic/doric
+62634	doric
+62636	epic/doric/aeolic
+62639	doric/ionic
 62642	epic/doric/aeolic
-
-
 62646	doric
-
-
-
-62651	
 62653	epic/doric/aeolic
-epic/doric/ionic/aeolic
-62656	
-62658	
-62663	
-
-attic/epic/doric
-
-
-
-
+62665	attic/epic/doric
+62670	doric
+62674	doric
+62677	doric
 doric
-62673	
-doric
-
-
-doric
-doric
-
-attic/epic
-62682	
+62680	attic/epic
 62684	doric
 doric
-62687	
-
-
-62693	
-
+62694	attic/epic/ionic
 62696	doric/aeolic
 62699	epic/doric/aeolic
-62701	
 62703	ionic
-
 62706	epic
-
-62714	
-doric/aeolic
-62718	
-
-62721	
-
+62715	doric/aeolic
 62726	attic/epic/doric
-
-62730	
-62734	
-
-
-ionic/epic
-
-
-62742	
-62744	epic/doric/ionic/aeolic
-
-62747	
-
-62751	
-
-
-
-doric
-62757	
-
-
-
-
-doric
-
-
-
-
-62768	
-
-
-
-62773	
+62737	ionic/epic
+62747	attic/epic/doric
+62755	doric
+62757	attic/epic/doric
+62762	doric
+62770	attic/epic/doric
 62777	attic/epic/doric
-62780	
-
-attic/epic/doric
-
-62785	
-62787	
-62789	
-
-62792	
-doric/aeolic
-62795	
-
-
-
-
-
-62802	
-62806	
-attic/epic/doric
-62809	
-
-
-
-doric
-
-
-
-attic/epic/doric
-62819	
-
-62822	
-62824	
-
-62827	
-62829	
+62782	attic/epic/doric
+62793	doric/aeolic
+62807	attic/epic/doric
+62813	doric
+62817	attic/epic/doric
 62831	attic/ionic/epic/doric
-
-62835	
-62840	
-62843	
-ionic
-62849	
-attic/epic
+62850	attic/epic
 attic
-
-
-62855	
-62857	
-
-
-62861	
-
-62864	
-
-62867	
-
-attic/epic
-
-doric
-
-doric/aeolic
-
-
-
+epic
+62869	attic/epic
+62871	doric
+62873	doric/aeolic
 62878	doric/aeolic
-
-
-
-doric
-
-
+62882	doric
 62886	doric/aeolic
-62888	
-
-
-
-epic/doric/aeolic
-
-
-62896	
-62898	
-
-62901	
-
-doric/aeolic
-
-
-62907	
-62910	
-62912	
+62892	epic/doric/aeolic
+62896	epic
+62903	doric/aeolic
 62914	attic/epic/doric
-62916	
-doric/aeolic
-62920	
-
-
-attic
-62926	
+62917	doric/aeolic
+62923	attic
 62929	attic/epic/doric
-
-attic/epic
-62933	
-62936	
-
-doric
-62941	
-62946	
-62948	ionic
-62950	
-
+62931	attic/epic
+62938	doric
+62941	attic/epic/doric
 62955	epic/doric/aeolic
 62958	attic
-62960	
-epic/doric/aeolic
-
-attic/epic/ionic
-62965	
+62961	epic/doric/aeolic
+62963	attic/epic/ionic
 62967	attic/epic/doric
-
-
-ionic/epic
+62970	ionic/epic
 epic/doric
 62975	epic
 epic
-
-62979	
-
-
-62984	
-epic/doric
+62985	epic/doric
 doric
-
-
-
-
-
-62993	
-
-attic
-
-63000	
-
-63003	
-63009	
-63012	
-ionic
-63015	
-
-63018	
-
+62995	attic
 63024	doric
-63027	
-
-63033	
-63041	
-63045	
-attic
-
-epic/doric/aeolic
-63050	
-63052	
-
-
-ionic/epic
-
-63063	
-
-
-
+63046	attic
+63048	epic/doric/aeolic
+63055	ionic/epic
 63068	epic/doric/aeolic
-
-63074	
-
-
 63078	epic/doric/aeolic
-
-63083	
 63085	attic/epic
-63087	
-
-
-
-
-
-
-ionic/epic
-
-
-63098	
-63100	
-ionic/epic
-
-
-
-doric
-
-63108	
-63111	
+63091	attic/epic/ionic
+63094	ionic/epic
+63101	ionic/epic
+63105	doric
 63113	doric/aeolic
-
-doric
-63118	
-
-63121	
-63123	
+63115	doric
 63125	doric/aeolic
-63131	
-epic/doric/aeolic
-63134	
-63137	
-
+63132	epic/doric/aeolic
 63140	doric/aeolic
-63142	
-epic/ionic
-63147	
+63143	epic/ionic
+63147	attic/epic/ionic
 63150	doric/aeolic
-63152	
-
-
-63156	
-
-doric/aeolic
-63161	
-63163	
-
-63166	
-63169	
-
-63172	
+63158	doric/aeolic
 63175	doric/aeolic
-
-
-63180	
-attic/epic
+63181	attic/epic
 63183	attic
 attic
-
-
-
-63189	
-63192	
-
-
-
-attic
-63199	
-
-63202	
+63196	attic
 63204	attic/epic/doric
 63209	attic/epic/ionic
-
-
-63213	
-
-
-63217	
-
-epic
-
-63222	
-attic/epic
+63219	epic
+63223	attic/epic
 attic/epic/ionic
-
-
-
-
-63233	
-epic
-
-attic/epic/ionic
-63238	ionic
-
-
-
+63234	epic
+63236	attic/epic/ionic
 63243	doric
-
-
-
-doric/aeolic
-
-63250	
-63252	
-doric/aeolic
-
-attic/epic/ionic
-63257	
+63247	attic/epic/doric
+63253	doric/aeolic
+63255	attic/epic/ionic
+63258	attic/epic/doric
+63263	attic
 attic/epic/doric
-
-63262	
-attic
-attic/epic/doric
-
-63268	
-attic/epic
-63271	
+63269	attic/epic
 63273	epic
-63276	
-
-
-63281	
-63287	
 63289	attic/epic/doric
-
 63292	epic/doric/aeolic
-
-
-
-
-attic
-
-
-63301	
-attic/epic
+63297	attic
+63302	attic/epic
 63304	epic/doric/aeolic
 63306	attic/epic/ionic
-
-
-
-attic
-63312	
-63315	
-attic
-
-
-doric/aeolic
+63310	attic
+63316	attic
+63319	doric/aeolic
 63321	attic/epic/doric
-
-63324	
-doric/aeolic
+63325	doric/aeolic
 63327	attic
-63329	
-
-
-doric/aeolic
+63332	doric/aeolic
 63334	attic
-
-attic
-63338	
-
-63344	
-
-doric/aeolic
-63348	
-
-
-
-
-doric/aeolic
-63355	
-
+63336	attic
+63346	attic/epic/doric
+63353	doric/aeolic
 63358	doric
-
 63361	doric/aeolic
-
-63364	
-
-
-63370	
 63372	epic/doric/aeolic
-63375	
-63377	
-
-63382	
-doric/aeolic
-
-
-63391	
-
-
-doric/aeolic
-63397	
-63399	
-63402	
-doric/aeolic
-
-63406	ionic
-
-
-
-63411	
-attic/ionic/epic/doric
-63416	
-63418	
+63383	doric/aeolic
+63394	doric/aeolic
+63403	doric/aeolic
+63412	attic/ionic/epic/doric
+63418	doric/ionic
 attic/epic/ionic
 attic
 attic
-63424	
-63427	
-
-
-epic
+63424	epic
+63430	epic
 63433	attic
 attic
-63437	
-63439	
-63445	
-
-63449	
-
-63456	
-63458	
-ionic/attic/epic
+63459	ionic/attic/epic
 63461	doric
-
-doric/aeolic
-
-
+63463	doric/aeolic
 63469	attic
 attic
-63472	
-63475	
-
-
 63482	attic/epic/doric
 63484	epic/doric/aeolic
-63486	
-attic/epic
-
-63490	
-63493	
-attic/epic
-63496	
-
-
+63487	attic/epic
+63494	attic/epic
 63502	epic/doric/aeolic
-63504	
-63506	
-63509	
-
-
+63504	attic/epic
+63506	epic
 63513	epic/doric/aeolic
-63515	
-63519	
-63522	
-63524	
-
-63528	
-
-63532	ionic
-63534	
-63536	
-63539	
-
-attic
-
-
-63549	
+63528	epic
+63541	attic
 63554	attic/epic/ionic
-
-attic/epic/doric/ionic
-
-
-63560	
-
-doric/aeolic
-63564	
-
-attic
-
-63569	
-doric/aeolic
-
-63574	
-63576	
-
-63579	
+63556	attic/epic/doric/ionic
+63562	doric/aeolic
+63566	attic
+63570	doric/aeolic
 63581	attic/epic/ionic
-63583	
-ionic
-63586	
-
-63589	
-63591	
-63593	
 63595	attic/epic/ionic
 doric
-
-attic
-
-63601	
-
-ionic
-63605	
-63607	
-
-
-
-63612	
-63614	
-63618	
-
-
-
-63623	
-ionic
-63626	
+63598	attic
 63628	attic/epic
-
-63631	
-63635	
-epic/doric/aeolic
-
-63640	
-
-
-
-63645	
-doric/aeolic
-63648	
-ionic
-
-63652	
-63654	
-63656	
+63636	epic/doric/aeolic
+63646	doric/aeolic
 63658	attic/epic/ionic
-
-63661	
-ionic
-63664	
 63666	epic
-63673	
-
-attic/epic
-63677	
-
-63680	
-63685	
-doric/aeolic
-
+63675	attic/epic
+63686	doric/aeolic
 63691	attic/epic
-
-
+63693	attic/epic/doric
 attic/epic/doric/ionic
-
-63697	
-63699	ionic
-63701	
 63703	attic/epic
-63706	
-
-
-
-63711	
-63714	
-63717	
-63719	
 63722	attic
 attic
 63725	epic
-63729	
-doric/attic/epic/ionic
-
-
-
-doric/aeolic
-63736	
-
-63739	
-doric/aeolic
-
-63744	
-attic/epic/doric/ionic
-
-ionic
-
-doric
+63730	doric/attic/epic/ionic
+63734	doric/aeolic
+63740	doric/aeolic
+63745	attic/epic/doric/ionic
 63751	attic/epic
-63754	
-63756	
-63758	
-
-63761	
-63763	
-63765	
-doric/attic/epic/ionic
-
-attic/epic
+63766	doric/attic/epic/ionic
+63768	attic/epic
 63770	attic/epic/doric
-
-
-63775	
-
-
-
-63782	
-63784	
-63787	
 63789	attic/epic/ionic
-
-63792	
-63794	
-63796	
-
-63800	
-
-63803	
-63805	
-
-
-attic/epic/doric
+63806	attic/epic/ionic
+63808	attic/epic/doric
 63815	attic/epic/doric
-63820	
-63822	
-
-
-63828	
 63831	epic/doric
-63833	
-
-63836	
-epic/doric
-63840	
+63837	epic/doric
 63842	attic/epic/doric/ionic
-63844	
-
-63848	
-63850	
-
-63855	
-
-
-attic/epic/ionic
-
-63863	
-doric
-
+63858	attic/epic/ionic
+63864	doric
 63867	doric/aeolic
-
-doric/aeolic
-
-63873	
-
-
-
-
+63869	doric/aeolic
+epic
 63879	epic
-ionic
-63882	
-63884	
-
-attic/epic/ionic
+63886	attic/epic/ionic
 doric
-63890	
 63893	doric/aeolic
-
 63897	doric/aeolic
-
-63901	
-doric/aeolic
-63905	
-
-63908	
-
-
+63902	doric/aeolic
 63912	attic/epic/ionic
 doric
 63915	epic/doric/aeolic
-63917	
-63919	
-
-epic/doric
-63924	
-63927	
-
-
-63931	
-
-
-
+63921	epic/doric
+63932	attic
+63935	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-
-
-
-doric/aeolic
+63939	attic
+63941	doric/aeolic
 63943	doric
-63945	
-
-
-
-
-
-
-
-epic/doric/aeolic
-63955	
-
-
-
-
-63961	
-
-
-doric/aeolic
-63967	
-
-63970	
-
-doric/aeolic
-
-attic/epic/doric
-
-63978	
-63980	
-
-epic/doric/aeolic
+63953	epic/doric/aeolic
+63964	doric/aeolic
+63972	doric/aeolic
+63974	attic/epic/doric
+63982	epic/doric/aeolic
 63984	doric
-63987	
-ionic
-63991	
-epic/doric/aeolic
+63992	epic/doric/aeolic
 63994	doric
-
-63997	
-ionic
 64000	doric/aeolic
-
-
-
-doric
-epic/doric/ionic/aeolic
+64004	doric
 64007	doric/aeolic
 64010	doric/aeolic
-
-
-doric/aeolic
-
+64013	doric/aeolic
 64016	doric
-64018	
-64020	
-
-
-doric
-
+64023	doric
 64026	epic
-ionic
-64029	
-64031	
-attic/epic/ionic
+64032	attic/epic/ionic
 doric
-64035	
-attic/epic
+64036	attic/epic
 attic
-
-64041	
-64044	
-doric/aeolic
-
-
-64049	
-64051	
-
-64054	
-ionic
+64045	doric/aeolic
 64057	doric/aeolic
-
-64060	
-ionic/attic/epic/doric
+64061	ionic/attic/epic/doric
 64063	doric/aeolic
-
+64065	doric
 doric
-doric
-64068	
-
-
-
-
-64074	
-64076	
-
-
-
-
-
-64085	
-
-
-64091	
-64095	doric/aeolic
-
-attic/ionic/epic/doric
-
-
-epic/ionic/doric/laconia
-
-
-
-
-64106	
-
-attic/epic
-64110	
-
-64114	
-64116	
-
-64119	
-
-
-epic
+64097	attic/ionic/epic/doric
+64108	attic/epic
+64122	epic
 attic
-
-64126	
 64128	attic/epic/ionic
 doric
-
-attic/epic
-64133	
-
-
-64139	
-64141	
-
-64144	
+64131	attic/epic
 64150	doric/aeolic
-
-
-
 64155	doric
-
-
-
-64161	
-
-doric/aeolic
-64165	
-64167	
-attic
-64171	
-
-
-
-
-64177	
-
-
-
-
+64163	doric/aeolic
+64168	attic
 64183	epic
-
-
-64188	
-
-
-64192	
-ionic
-64197	
-attic/epic/ionic
-
-64201	
+64198	attic/epic/ionic
 64203	attic/doric/aeolic
-64205	doric/aeolic
+64205	attic/epic/doric
 64207	epic
-
-ionic
-64212	
-64215	
-doric/aeolic
-
-
-64220	
-64222	
-
-
-
-
-64228	
-
-
-64232	
-64234	
-
-doric/epic
-ionic
-
-
-doric/aeolic
+64216	doric/aeolic
+64236	doric/epic
+64240	doric/aeolic
 attic
-64247	
-64252	
-
-
-attic
-64257	
-
-
-64261	
-attic/epic/ionic
-64264	
-64266	
-
-attic/epic
-
-
-
-64273	
-64275	
-
-
-
-
-64282	
+64255	attic
+64262	attic/epic/ionic
+64268	attic/epic
 64284	epic/doric/aeolic
 64288	doric
-64290	ionic
 64292	doric/aeolic
-
-64295	
-doric/aeolic
+64296	doric/aeolic
 attic/epic
-64299	
-
 64302	doric/aeolic
 doric/aeolic
-
 64306	attic/epic/ionic
 doric/aeolic
-
-
-64311	
-64315	
-
-
-64319	
-ionic
 64322	attic/epic/ionic
 epic
 doric/aeolic
 attic/epic/ionic
-64328	
-64331	
-
-
-
-
-
-
-64339	
-
-64343	
-
-64349	ionic
 64351	attic/epic/ionic
-
-
-
-
-
-attic/epic/doric
-64359	
-attic
-
-64365	
-
-
-
+64357	attic/epic/doric
+64360	attic
 64370	attic/ionic
-64373	
-
-
-64378	
-
-64381	
-
-
-64386	
-64388	
-64392	
-
-64397	doric/aeolic
-64399	doric/aeolic
-
-64402	
-64404	
-64406	
-
-
-64410	
-
-attic/epic
-64414	
-
-
-doric/aeolic
-
-
-64421	
-64423	
-
-
-
+64399	attic/epic/doric
+64412	attic/epic
+64417	doric/aeolic
 64428	doric
-
-attic/epic/doric
-
-
-
-
-
-64437	
-
-
-64441	
-doric/aeolic
-
-
-64446	
-
-
-
+64430	attic/epic/doric
+64442	doric/aeolic
 64451	doric
-
-attic/epic/doric
-
-
-
-
-
-64460	
-
-
-64464	
-doric/aeolic
-
-attic/epic
-64470	
-
-
-
-
-64476	
-attic/epic
-64480	
-
-
-
+64453	attic/epic/doric
+64465	doric/aeolic
+64467	attic/epic
+64477	attic/epic
 64485	doric
-64488	
-attic/epic/doric
-
-
-
-
-
-
-64497	
+64489	attic/epic/doric
+64498	attic/epic/ionic
 attic/epic/ionic
-attic/epic/ionic
-
-
-
 64504	attic
-64506	
 64513	epic
-
-doric/aeolic
-
-
-64520	
-
-64523	
-64525	
-64529	
-64531	
-
-
-64535	
-64538	
-
-
-attic/epic/doric/ionic
+64515	doric/aeolic
+64541	attic/epic/doric/ionic
 64543	epic
-
-
-
 64548	attic/epic/ionic
-
-64551	
-
-attic/epic/doric
+64553	attic/epic/doric
 64556	epic
-
-attic/epic
-
-
-64563	
-64565	
-
-
-64569	
-epic/doric
-
+64558	attic/epic
+64570	epic/doric
 64574	attic/epic/doric
-
-
-
-attic/epic
+64578	attic/epic
 attic
-
-64583	
-
-
-
-
-doric/aeolic
-64590	
-attic/epic/doric
-
-64594	
-64596	
+64588	doric/aeolic
+64591	attic/epic/doric
+doric
 64599	attic/epic/doric/ionic
-
-64603	
-64605	ionic
-64608	
-
-attic/epic/ionic
-64612	
-
-
-
-64617	
-
-
-
-
-
+64610	attic/epic/ionic
 64624	doric/aeolic
-64626	
-attic/epic/doric
-
-64630	
-64632	
-64635	
-attic/epic/ionic
-
-
-
-64642	
-epic
-
+64627	attic/epic/doric
+doric
+64636	attic/epic/ionic
+64643	epic
 64646	doric/aeolic
-
-doric/aeolic
-
-
-
-64656	doric/aeolic
-
-
-attic/ionic/epic/doric
-
-
+64648	doric/aeolic
+64659	attic/ionic/epic/doric
 64663	doric/aeolic
 64666	epic
 64669	epic
 64672	attic/epic
-
-
-64678	
-64680	
-
-64683	
-
-
-
-
-
-64690	
+64690	doric
 64694	doric/*theocr.
-
-64699	
-64701	
-64703	
-64709	
-
-64714	
-64716	
-64718	
-64721	
-64723	
-
-
-64727	
-attic
-
-64731	
-64733	
-
-
-
+64699	epic
+64728	attic
 64738	doric/aeolic
 attic/epic/doric
 64741	doric/aeolic
 attic
-64746	
-
-
-64751	
-64754	
-64757	
-
-
+64760	doric/aeolic
 doric/aeolic
 doric/aeolic
-doric/aeolic
-
-64767	
-64769	
-
-
-
-attic/epic
-64775	
+64773	attic/epic
 64778	doric/aeolic
 attic/epic
-64781	
-64784	
-epic/doric
+64785	epic/doric
 64788	doric
-
-
-64792	
-64794	
-
-
-
-
-doric/aeolic
+64799	doric/aeolic
 64803	attic
-
 64807	epic/doric
 64809	epic/ionic
-
-64812	epic
-
-64816	
+64812	doric/aeolic
 doric
-
-
-64823	
+64817	epic
+64823	doric
 epic/ionic/attic
 64826	attic/epic/ionic
-64828	
-
-
-
-
 64835	epic
-64837	
-
-64840	
-64842	
 64844	doric/aeolic
-ionic
-64849	
 64851	attic/epic/doric
-64855	
-
-64858	
-epic/ionic
+64859	epic/ionic
 64861	epic/ionic
-64864	
-64867	ionic
-64871	
-
-
 64876	epic/doric
-ionic
-64882	
-
-doric/aeolic
-64886	
-ionic
-64890	
-
-ionic
-64894	
-
-attic
+64884	doric/aeolic
+64896	attic
 attic/epic/doric
-64899	
-64904	
-
-64907	
-
-ionic
 64911	epic
-
-attic/epic/doric
-doric/aeolic
-64916	
-
-
-64920	
-64924	
-
+64914	doric/aeolic
+64917	doric
 64927	doric
-
-64934	
-
-
 64938	doric/aeolic
 64942	doric/aeolic
 attic/epic/doric
-64945	
-
-
-64951	
-
+64953	attic
 attic
-attic
-64956	
-64959	
-epic/doric/ionic/aeolic
-
 64963	ionic
 64965	doric
-
-
-
-
-
-
-epic/doric/aeolic
-
-64976	
-64980	
-
+64972	epic/doric/aeolic
+doric
 64984	attic/epic
-64987	
-64989	
-64993	
-
-64997	
-doric/aeolic
+64994	epic
+64998	doric/aeolic
 attic
 65001	attic
 65003	epic
-65005	
 65007	epic/doric/aeolic
-
-attic
-65015	
-65020	
-doric/laconia
-
-
-65025	
+65009	attic
+65021	doric/laconia
 65027	epic/ionic/doric/aeolic
 65029	attic/ionic
-65033	
-
-65036	
-65038	
-65040	
+65040	epic/doric/ionic/aeolic
 65042	epic
 65047	doric/laconia
-65049	
-
-65052	
 65056	doric/laconia
-65060	
-65064	
-epic/doric/ionic/aeolic
-
-
-65069	
-
-
-attic/epic/doric
-
+65065	epic/doric/ionic/aeolic
+65072	attic/epic/doric
 65077	doric/ionic
-
 65081	attic/epic
-65083	
-
-attic
+65085	attic
 doric
-
-65091	
-65093	
-65095	
-
-
-
-65100	
-attic
-65103	
-
-65106	
-doric/*theocr.
-65110	
-65114	
-
-attic
-65118	
-65120	epic/doric/ionic/aeolic
-
+65101	attic
+65104	doric
+65107	doric/*theocr.
+65116	attic
 65125	attic/epic/doric
-65129	
-65131	
 65134	epic/ionic
-65136	
-
-65139	
-
-
-
-65144	
-65146	
-65151	
-65154	
 65156	doric/*theocr.
 65158	doric/aeolic
-65160	ionic
 65164	doric/laconia
 65167	doric
-
 65170	epic
-
-65173	
-
-65177	
-
-
-
-epic/doric/ionic/aeolic
-
-attic/epic
+65183	attic/epic
 65186	doric
 65188	attic/epic/ionic
 doric/aeolic
-65191	
-
-65198	
-attic
-
-
-65205	
+65199	attic
 65207	epic/doric
-
-65211	attic/epic/doric
-doric/aeolic
-65216	
-
-ionic
-65220	
-65224	
-
-
-65231	
-65233	
+65212	doric/aeolic
+65218	ionic
 65236	ionic
 65240	epic
-65242	
-doric/aeolic
-65245	ionic
+65243	doric/aeolic
 65247	attic/epic/doric
 attic/epic/doric
-65250	
-
-65254	
-
 65261	doric
-65263	
-65268	
-
-
-65272	
-
 65275	attic/epic/doric
-
-
-65280	
-
-
+65282	attic/epic
 attic/epic/doric
 65286	epic
-
-65291	
-65293	
-65295	
-
-65298	
-
-
-65302	
-65308	
-attic/epic/doric
+65309	attic/epic/doric
 65311	doric/aeolic
 doric
-
+doric
 65315	doric/aeolic
-
 65319	doric
 doric
-
-65323	doric/aeolic
-
-65326	
-doric/aeolic
-65331	
-65334	
-attic/epic/doric
-
-attic/epic/doric
-
-65341	
-65344	
-attic/epic/doric
-
-65349	ionic
-
-
-attic
-
-
-65358	attic/epic/doric
-65362	
-
-
-65367	attic/epic/doric
-65369	
-
-
-65374	epic
-65377	
-
-
-65381	
-65384	epic/doric
-
-65388	
-65390	attic/epic/doric
-65392	
-attic/epic/doric
-65397	doric
-
-
-65401	
-
-65404	
-
-65407	
-65409	
-65411	epic
-65414	
 doric
-65417	
-doric/aeolic
+65323	doric/aeolic
+65327	doric/aeolic
+65335	attic/epic/doric
+65337	attic/epic/doric
+doric
+65345	attic/epic/doric
+65349	ionic
+65352	attic
+65358	attic/epic/doric
+65367	attic/epic/doric
+65374	epic
+65384	epic/doric
+65390	attic/epic/doric
+65393	attic/epic/doric
+65397	doric
+65411	epic
+65415	doric
+65418	doric/aeolic
 65422	epic/ionic
-
+epic
 attic
-65427	epic/doric/ionic/aeolic
-65429	
-65431	
-ionic
-
-
+65432	ionic
 65436	epic/doric/ionic/aeolic
-
-attic
-65440	
-
-
-
+65438	attic
+65442	attic/epic/ionic
 65445	attic/epic/doric/ionic
-
-
-epic/doric
-65450	
+65448	epic/doric
 65452	epic/doric
-65454	
-
-epic/doric
+65456	epic/doric
 attic/epic
-65460	
 65462	epic/doric
-
-65466	
-65468	
-
-65471	
+65472	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-
 65477	ionic
 65479	epic/doric/ionic/aeolic
-
-attic
-65483	
+65481	attic
 65485	attic/epic/doric/ionic
-65487	
-65489	
-attic/epic
-65492	
-65494	
-
+65490	attic/epic
 65497	attic/epic/ionic
-
-
-65504	
-
-65507	
-ionic
-
-65511	
-65513	ionic
-
 65517	doric
-
 65522	doric/aeolic
 65527	doric/aeolic
 doric
 65530	doric/aeolic
-
 65534	doric/aeolic
-
 65537	doric
-65541	
-epic
-
-
-attic
-
-ionic
-epic/doric
+65542	epic
+65545	attic
+65548	epic/doric
 65551	doric
-65553	
 65555	attic/ionic/epic/doric
-65557	
-
-65560	
-
-epic/doric
-65565	
-65567	
+65562	epic/doric
 65569	epic/ionic
 65571	attic/ionic
 attic
-
-
-
+65575	epic
 65577	doric/aeolic
-
-
-
-
-65584	
-doric/aeolic
+65585	doric/aeolic
 65587	attic
 epic/ionic/attic
-65590	
-epic/doric/aeolic
-
-65596	
-65599	
-ionic
-65602	
-65604	
-epic/ionic/doric/laconia
-
-
-65609	
-
-
-
-65614	
-
-65617	
-65620	
-
-ionic
+65591	epic/doric/aeolic
+65607	epic
+65617	epic
+65622	ionic
 65624	attic
-
-ionic/doric/aeolic
-
-65631	
-65633	
-
-65637	
-
-65641	
-
-ionic
-attic/epic/ionic
-ionic
-
-65648	
-
-attic/epic/doric
+65626	ionic/doric/aeolic
+65644	attic/epic/ionic
+65650	attic/epic/doric
 doric/aeolic
-65654	
-attic/epic/ionic
-
+65655	attic/epic/ionic
 65658	attic/epic/ionic
-
-attic
+65660	attic
 epic/ionic/attic
-
-65665	
-65667	
-
 65670	epic/doric
-
-attic
-65675	
+65672	attic
 65682	doric/aeolic
-
-65685	
-attic
-65689	
+65686	attic
 65691	doric
-65693	
 65695	doric
-
-65699	
-
-65702	
-
-65705	
-
-
-
-65710	
-
-attic/epic/doric
-65714	
+65712	attic/epic/doric
 65717	attic
-
-
-65722	ionic
-attic/epic/ionic
-65725	
-65727	
-epic
+65723	attic/epic/ionic
+65728	epic
 doric/aeolic
-65734	
-65736	
-65741	
-ionic
+65742	ionic
 65744	attic
-
-65748	
+65748	doric
 doric/aeolic
 attic
 65752	attic
-
-
-
-attic
+65756	attic
 65758	epic/ionic
-65760	
-65763	
-65765	
-
-65770	ionic
-65772	
-
-65776	
-
-attic/epic
-
-
-attic/epic/doric
-
-
-
-
-
-attic/epic/doric
-65790	
-65792	
-doric
-
-attic/epic/doric
-65799	ionic
-65801	
-65803	
-65806	
-attic/ionic/epic/doric
-
-65813	
-65818	
-65820	ionic/doric/aeolic
-
-
-65825	
-65830	
-65834	
-65838	
-65842	epic/doric
-
-attic/epic
-65846	attic
-
-ionic
-65850	
-
-epic/doric
-65856	
+65778	attic/epic
+65781	attic/epic/doric
+65785	doric
 attic
-
-65860	doric
-65863	
-
-65867	
-epic/doric
-65870	attic/epic/ionic
-65872	ionic
-doric/aeolic
-65875	
-doric
-
-
-65880	
 attic/epic/doric
-
+65793	doric
+65795	doric
+65799	ionic
+65807	attic/ionic/epic/doric
+65820	ionic/doric/aeolic
+65822	doric
+65842	epic/doric
+65844	attic/epic
+65846	attic
+65852	epic/doric
+65856	ionic/doric/aeolic
+attic
+65860	doric
+65868	epic/doric
+65873	doric/aeolic
+65875	attic
+doric
+65881	attic/epic/doric
+doric
 epic/ionic/attic/doric
-
-65889	
-
-
-65893	
-65895	
-65897	
 65900	ionic
-65903	
-65907	
-
-
-attic/epic/ionic
+65910	attic/epic/ionic
 doric/aeolic
 65914	doric/aeolic
 65916	attic/epic/doric
-
-65919	
-
-65922	
-
-
-attic/ionic
+65925	attic/ionic
 attic
 epic/ionic/attic
-65933	doric
-
-65936	
-65940	
-
-
-
-65947	
-65949	
-65952	
-
-
-65956	
+65933	epic
+65941	epic
 65959	doric/aeolic
 attic/epic
 epic/ionic
-65963	
-
-attic/epic/ionic
-65967	
-
-doric/aeolic
+65967	attic
+65969	doric/aeolic
 65972	doric
-
+doric
 attic/epic/doric
-65976	
-attic/epic
-
-65980	
-65984	
-doric/aeolic
-
-attic/ionic
+65977	attic/epic
+65980	doric
+65985	doric/aeolic
+65987	attic/ionic
 65990	ionic
-65993	
-65996	
-65998	
-66001	
-66003	
-epic/ionic/attic
+66004	epic/ionic/attic
 66008	doric
-
-66012	
-66015	
-
-ionic
-66019	
-
 66022	doric/aeolic
-66026	
-66028	
-66031	
-
-
-
-
-66037	
 66040	doric
 66043	doric/aeolic
 attic
-
 66047	attic/epic/ionic
 doric
 attic
-66052	
-
-
-ionic
-66057	
 66059	attic/epic/doric
-
 66062	attic/epic/ionic
-66064	
-ionic
-66067	
-66071	
-66073	
-ionic
-66076	
-attic/epic
+66077	attic/epic
 attic/epic/ionic
-
-
-ionic
-
-
-66086	
-doric/aeolic
-
-66090	
-66092	
-66094	
+66087	doric/aeolic
 66097	aeolic
-
-
-66101	
-66103	
-66105	
-epic
-
-attic/epic
+66106	epic
+66108	attic/epic
 66110	attic
-
-attic
-
-attic/epic
-66116	
+66112	attic
+66114	attic/epic
 66119	ionic
-66121	
-66126	
-attic
-
-66130	
+66127	attic
 66134	epic
 66136	epic/ionic/attic/doric
-66138	
-
-
-ionic
-66143	
-attic/epic/doric
+66144	attic/epic/doric
 66148	epic/ionic
-66150	
 66152	epic
-66154	
-
 66157	attic/epic/doric
 66159	attic/epic/doric
-66161	
-ionic
-66165	
+66162	ionic
 66167	epic/doric/aeolic
-
-66173	
-
-
-doric/attic/epic/ionic
+66176	doric/attic/epic/ionic
 attic
-
-66181	
-66184	
-attic/epic
-66187	
-66190	
-66192	
+66185	attic/epic
 66195	attic/epic/ionic
 doric
-66198	
-
-66202	
-
-
-
-attic/epic
+66206	attic/epic
 66208	attic/epic/doric
 attic/epic/doric
-66211	
-
-
 66218	doric/aeolic
-
-
-
-
-
-attic
-
-
-
-
-attic/ionic
-
-
+66224	attic
+66229	attic/ionic
 66233	attic
 attic/epic/doric
-66236	
-66243	
-66245	
-
-
-66251	
-66253	
-66259	
-66263	
-epic/attic
-66268	
-66270	
+66264	epic/attic
 66274	epic
-66276	
-doric
-66280	
+66277	doric
 66282	attic/epic/ionic
-
-
-
-66287	
-
-
-
-66295	
-
-attic/ionic
+66297	attic/ionic
 attic
-66300	
-66302	
-attic/epic
-66305	
-epic/doric
+66303	attic/epic
+66306	epic/doric
 66308	doric/aeolic
-
-66311	
-epic/doric/ionic/aeolic
-
-66315	
-66317	
+66312	epic/doric/ionic/aeolic
 66319	doric/aeolic
 66323	epic/doric
 66327	doric/aeolic
-
-
-doric/aeolic
-
-66334	
-
-epic/doric
-
-66340	
-66342	
-66345	
-
-66349	
-
-epic/doric
-66353	
-66356	
+66330	doric/aeolic
+66336	epic/doric
+66342	epic
+66351	epic/doric
 66360	epic/doric
 doric/aeolic
 doric/aeolic
-66364	
-
-
-66368	
-epic/ionic/attic
+66364	attic
+66369	epic/ionic/attic
 attic
-
-66373	
-66375	
-doric
-
-66379	
-attic/epic
+66376	doric
+66380	attic/epic
 66383	ionic
 66385	doric
-66388	
-66390	
-66392	
-66394	
-
-66398	
-
-
-66402	
-
-
-doric
-
-
-
-66410	
-
-
-epic/doric
-
-
-
-66418	
-
-
-
-
+66392	epic
+66405	doric
+66413	epic/doric
+66421	attic
 66424	epic/doric
-66427	doric
+66427	attic/epic/ionic
 doric/aeolic
 66430	doric/aeolic
-
-
-attic
-66435	
-
-
-attic
-66443	
-doric/aeolic
-
-66448	
-doric/aeolic
+66433	attic
+66438	attic
+66444	doric/aeolic
+66449	doric
 66454	doric/aeolic
 doric/aeolic
 doric/aeolic
-66458	
-
-
-
-
 66466	doric/*theocr.
-
-66469	
 66473	epic/doric
-
-66477	epic/doric/ionic/aeolic
-
-attic/epic
-66481	
-
-
-
-doric/aeolic
+66479	attic/epic
+66483	attic/epic/ionic
+66485	doric/aeolic
 66487	attic/epic/ionic
 doric
-
-
-
-66495	
-
 66498	attic/epic/doric
 epic/doric
-
-attic/epic
-66503	
-
-
+66501	attic/epic
 66507	epic/doric
 attic/epic/doric
-66510	
-66514	
-
-
-
-66519	
 66521	attic
-
-66524	
 66526	attic/epic/doric
-
+epic
 66534	attic/epic/doric
-
-attic/epic
+66536	attic/epic
 attic
 66539	doric
-66541	
-
-66544	
-
-doric/aeolic
-
-66550	ionic
-epic
-ionic
+66546	doric/aeolic
+66551	epic
 66555	epic/doric/aeolic
 66557	ionic
-doric/aeolic
-66561	
-
-66569	
-doric
-
-66576	
-66580	
-66582	
+attic/epic/doric
+66570	doric
 66588	parad_form
-
-66592	
-
-ionic/epic
-66598	
-66600	
+66594	ionic/epic
 66603	doric/aeolic
-
-66610	
-attic/epic
-
-66614	
-doric
+66611	attic/epic
+66615	doric
 attic/ionic
-
-
-
 66621	attic/ionic
-66624	
-
-66628	
-
-66632	
-attic
-66637	
-66640	
-
-
-
-
-
-
-66649	
-
-attic/epic/ionic
-doric
+66633	attic
+66652	doric
 66655	attic/epic
-66658	
-
-attic/epic
+66660	attic/epic
 66662	attic
-
-attic
-
-
-66669	
-
-66672	
-
-
-
-
+66664	attic
 66678	epic/doric/aeolic
-epic/ionic/doric/laconia
-epic/doric
+66680	epic/doric
 doric/aeolic
-66684	
-66686	
-
 66689	epic/doric
-
-
-
-66694	ionic
-66696	
-66698	
-66700	
-doric
-66703	
-
-ionic
+66701	doric
 66707	doric/aeolic
-66709	
-
-66714	
-
-66717	
 66719	attic/epic
-66721	
 66725	attic
-
-doric/aeolic
-66729	
-66732	
-epic
+66727	doric/aeolic
+66733	epic
 66735	epic
 66737	doric/aeolic
-
-ionic
-
-66742	
-
-attic/epic
+66739	ionic
+doric
+66744	attic/epic
 attic
 doric/aeolic
-66748	
-66751	
-
-
-66755	
-66757	
-66762	
+66748	doric
+66762	attic/epic/doric
 attic
-66766	
-66769	
-
-66775	
-66778	
 66780	epic/doric/aeolic
-66782	
-attic/epic/ionic
 66785	epic
-66787	
-66789	
-
-66793	
-
-
-
-
-ionic
-66801	
-
-66805	
-attic/epic
-66808	
-66810	
-66815	
-
-66820	
-attic/epic
+66806	attic/epic
+66821	attic/epic
 66823	attic
 attic
-
-66827	
-66829	
-66831	
-66834	
-
-66837	epic/ionic/doric/laconia
-attic
-
-epic/doric
-66842	
-
-attic
-
-
-
-
-66851	
-66855	
-66857	
-66859	
-
-66865	
-66868	
-66871	
-66873	
-66875	
-
-attic/epic
-66879	
+66838	attic
+66840	epic/doric
+66844	attic
+66868	epic
+66877	attic/epic
 66881	epic/doric/aeolic
-
-66884	
-66887	
-66896	
-66899	
-66902	
-66905	
-
-66908	
 66910	epic/ionic
-
 66915	doric/aeolic
 epic/doric
-66919	
 66921	epic/ionic
-
-66924	
-
 66930	attic/epic/ionic
 66933	doric/aeolic
-66935	
-
-
-
-
-attic
-66942	
-
-66945	
-66948	
-
-
-
-
+66940	attic
+66943	epic
 66954	doric/aeolic
 66956	epic
-
-
-
-
-parad_form
+66961	parad_form
 66963	attic/epic/ionic
-66965	
-
-
-
-66971	
-attic
-
-66975	
-attic
-
-
-
+66972	attic
+66976	attic
 66982	epic/doric/aeolic
-
-
-attic/ionic
-
-
-66989	
-66991	
-66993	
-66996	
-66998	
-67000	
+66985	attic/ionic
+66996	doric
 67003	epic
-67005	
-
-
-67009	
-67011	
-
-
-67016	
-67018	
-
-
+67021	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-67027	
-
-
-
-attic/epic/ionic
-67035	
-
-attic/epic
-67039	
-67041	
-ionic
-doric
-67045	
-67049	
+67031	doric/aeolic
+67037	attic/epic
+67043	doric
+67049	epic
 attic
 67052	attic
-67054	
-
-attic
-67059	
-67061	
-67063	
+67056	attic
 67065	doric/aeolic
-
 67070	attic
-
 67074	attic/epic/doric
 67077	attic
-
-
-
-attic
-67084	
-
-epic/doric/aeolic
+67081	attic
+67086	epic/doric/aeolic
 ionic
 67089	doric/aeolic
 epic
-67092	ionic
-
-
-
-
-
-epic
+67098	epic
 doric/laconia
 67102	epic/doric/aeolic
-
-
-
 67107	attic/ionic
-67109	
 67111	doric/laconia
-
 67114	attic
-
-attic
-67120	
+67116	attic
+67120	doric
 attic/epic/ionic
 epic/doric/aeolic
-
-67126	ionic
 67128	doric/aeolic
-
-epic/doric/aeolic
-
-
+67130	epic/doric/aeolic
 67136	doric/laconia
-
-
-
-67141	
+67142	doric/aeolic
 doric/aeolic
+67145	attic
+67157	attic
+67159	doric/aeolic
+67164	attic/ionic
 doric/aeolic
-
-attic
-67148	
-67151	
-
-67157	
-
-doric/aeolic
-67163	
-attic/ionic
-doric/aeolic
-
-
-
-
-67171	
-epic
-67175	
-attic/epic
-
-67179	
-attic
-
-
-67184	
-67190	
-
-67194	
-
-67197	
-67199	
-67201	
-67205	
-
+67172	epic
+67176	attic/epic
+67180	attic
 67208	doric
-67214	
-67216	
-
-67220	
-
-67223	
-67225	
-
-attic
-
-
-epic/doric
-
-
+67227	attic
+epic
+67230	epic/doric
 67234	ionic/doric/aeolic
-
-67237	
-67241	
-67243	
-
 67246	doric
 attic
-67249	
-
-
+67249	attic/epic
 67254	epic/doric/aeolic
-
-
-
-
-
-
-
-attic
-
-
-ionic
-
-67270	
+67262	attic
+67265	ionic
 67273	doric/aeolic
 attic/epic
-
-
-67278	
-
 67281	doric
 67283	attic/epic/doric
-67289	
 67293	doric/aeolic
-67295	
-attic
-
-67304	
-
-doric/laconia
-67309	
-67311	
-
-
-67316	
-doric
-67321	
-
-67324	
-
+67296	attic
+67306	doric/laconia
+67317	doric
 67327	doric/laconia
-67329	
-67331	
-
-
-
-67336	
-67339	
-
 67342	doric
 doric/aeolic
-67346	
-attic/epic/doric
-
-67350	
-
+67347	attic/epic/doric
 67353	epic
-
-
-
-
 67359	attic/epic/doric/ionic
-
-epic
-67367	
-67372	
-
-
+67361	epic
 67376	doric
 67382	epic
-67384	epic/doric/ionic/aeolic
 67389	attic/epic/ionic
 67391	doric/aeolic
-67393	
-67397	
-
-67400	
-doric
-
-
-67405	
-67408	
-
-attic/epic
+67398	doric/aeolic
+67401	doric
+67410	attic/epic
 67413	doric/aeolic
-67416	
-
-
-67420	
-67422	
-67426	
-67428	
-67430	
-
-
 67436	attic/epic
-
-doric/aeolic
+67438	doric/aeolic
 doric
-
+doric
 67442	doric
-67445	ionic
-doric/aeolic
+67446	doric/aeolic
 doric/aeolic
 67450	attic/epic
-67453	
-67457	
-67459	
-67461	
-ionic
+67462	ionic
 attic
-
-
-
-67471	
 67473	epic
 67476	attic/epic
-67479	
-doric
+67480	doric
 67485	doric
-67487	
-ionic/epic
-67491	
-
-
-
-attic/epic/doric/ionic
+67488	ionic/epic
+67495	attic/epic/doric/ionic
 epic/doric/ionic/aeolic
-
 67500	attic
-67502	
+67503	doric/aeolic
+67512	attic/ionic
+67517	epic
+67520	doric/aeolic
 doric/aeolic
-
-
-67511	
-attic/ionic
-
-
-67516	
-
-67519	
-doric/aeolic
-doric/aeolic
-67523	
-67525	
-67527	
-
-67531	
-
-attic/epic
-
-attic/epic
-67537	
-
+67525	doric
+67533	attic/epic
+67535	attic/epic
 67541	doric/attic/epic/ionic
-67545	
-
-67549	ionic
-67551	
-67553	
-67556	
-ionic/epic
-67559	
-
-
-67566	
+67557	ionic/epic
+67566	attic/epic/ionic
 67568	doric
-
-epic
-67573	
-ionic
-67579	
+67570	epic
 67582	doric/aeolic
-
-
-67586	
-
-epic/ionic
-67592	
-
-67596	
-
-
-doric
-
-67603	
-67605	
-
-doric
-
-67610	
-
-
-
+67588	epic/ionic
+67599	epic
+67607	doric
 67617	doric
-67619	
-
+67620	doric
 67622	attic
-
-67625	
-
-attic/epic/doric
-
-
-
-
-67636	
-67638	
-
-attic/epic/doric
-
-67644	
-
-
-epic/ionic
+67627	attic/epic/doric
+67631	attic
+67640	attic/epic/doric
+67647	epic/ionic
 epic
-
-attic/epic
-
-67657	
-67659	
-67661	
+67650	attic/epic
 67664	epic
-67666	
-
-
-67673	
-67678	
-
-attic/epic
-
+67680	attic/epic
 67683	attic/ionic/epic/doric
-67685	
-ionic/epic
-
-
+67686	ionic/epic
 67690	doric
-
-67693	
-attic/epic
-67696	
+67694	attic/epic
 67698	attic/epic/doric
 67704	epic/doric
-67706	
-67709	
-67711	
-attic
-
+67712	attic
 67715	epic/ionic/attic/doric
-67717	
-67719	
 67721	epic/ionic
 67723	attic/epic
-
-
-
-67728	
-67730	
-
-
-
-67735	
 67738	doric/aeolic
-
-
-67742	
-67744	
-67746	
-
-
-ionic
-
-attic
+67749	ionic
+67751	attic
 67753	doric/aeolic
 attic/epic
-67758	
-67763	
-67770	
-
-67773	
 67776	attic/epic/doric
-
-
 67784	attic/epic/doric
 67786	doric
-67788	
-
-attic/epic
-
-67796	
+67790	attic/epic
 67798	attic/epic
-67801	
-
-67804	
-
-
-
+67801	attic/epic/doric
+67807	doric
 67811	doric/aeolic
-
-
-
-67818	
-
-67824	
-
-
-67828	
-67830	
-67833	
-doric
-67836	
-
-67844	
-67848	ionic
-67850	
-67852	
-doric/aeolic
-
-67856	
+67834	doric
+67853	doric/aeolic
 67858	ionic
-67860	
-67864	doric
-
-67872	
-67875	
-67877	
-doric
-
-
-
-
+67878	doric
 67885	epic/ionic
-67887	
-doric/aeolic
-67890	
-
-
-
-67895	
+67888	doric/aeolic
 67897	epic
-67900	
-67902	
-
-67905	
-67907	
-67909	
-
-67912	
-
-
-67916	
-67923	
-67925	
-attic/epic
+67926	attic/epic
 67928	attic
 attic
-67931	
-
-67935	
-67937	
-epic/ionic/attic
+67938	epic/ionic/attic
 attic
-67941	
-
-
-attic
-67947	
-
+67944	attic
+67947	attic/epic/ionic
 doric
-
-attic/epic
-
-67956	
-
-67962	
-67964	
+doric
+67951	attic/epic
 67967	ionic
-67969	
-
-
-67974	
-67979	
-67981	
-
-
-
-attic/epic/ionic
-
-
-
-67991	
-
-67995	
-
-epic/ionic
-
-
-68001	
-
+67985	attic/epic/ionic
+67997	epic/ionic
 68005	attic
-
-attic/epic/doric
-68009	
+68007	attic/epic/doric
 68012	attic/epic/ionic
-
-epic/doric
+68014	epic/doric
 attic/epic/doric
-
-attic/epic
-68020	
+68017	attic/epic
 68022	epic
-
-68025	
-68029	
-
-68032	
-
-attic
+68034	attic
 epic/ionic/attic
-
-68038	
-
-68041	epic/ionic/doric/laconia
 68043	attic
-68046	
-
-epic
+68048	epic
 doric/aeolic
-68053	
-68055	
-68065	
-
-68069	
-epic/ionic/doric/laconia
-
-
-68076	
-doric/aeolic
-
-epic/doric/ionic/aeolic
-
+68077	doric/aeolic
 68082	attic
-
-68087	
-68089	
-
-
-68093	
-68095	
-68097	
-
-
-
-attic/ionic
-
+68095	doric
+68101	attic/ionic
 68104	doric/aeolic
-
 68108	epic/ionic/attic/doric
-68111	
-
-
-attic/epic
-68116	
+68114	attic/epic
 68118	doric
-
-
-68122	
 68124	attic/epic/ionic
-68127	
-68129	
-68131	
-
-
-68135	
 68137	attic/epic
-
-68140	
-
-68143	
-
 68146	attic/epic
-68150	
-
-attic/epic/ionic
-
-
-68156	
-68160	ionic
-doric
-68164	
-68166	
+68152	attic/epic/ionic
+68161	doric
+68166	doric
 68174	parad_form
-68176	
-68180	
-ionic
-68184	
-
+68185	doric
 68187	attic/epic
-
-
-68192	
 68194	attic/epic/ionic
-68196	
-attic
+68197	attic
 68199	attic
 68202	attic
-
-68206	
-
-
-
-
-
-68213	
-68218	
-
-doric/aeolic
-
+68220	doric/aeolic
 68223	attic
-
-68227	ionic
-68230	
-
-
-attic/epic
-
-
-68238	
-68242	
-68244	
-ionic/epic
-
-
-68249	
-
-68256	
-
-
+68233	attic/epic
+68245	ionic/epic
 68261	doric/aeolic
 68263	attic/epic
-
-
-68268	
-
-
-68272	
-
-68275	
-68278	
-68281	
-
 68284	attic/epic/ionic
-
-68288	
-
-68292	ionic
 68294	attic/epic/ionic
-68296	
-
-
-
-68301	
-attic/epic/ionic
-
-epic/doric
-
-68308	
-68313	
-68316	ionic
+68296	attic
+68302	attic/epic/ionic
+68304	epic/doric
 68318	attic/epic/ionic
-68320	ionic
 68324	attic/epic
-68326	
-68328	
-doric/aeolic
-
-68332	ionic
-68338	
-ionic
+68329	doric/aeolic
 68343	attic/epic
-68345	
-68348	
-68350	
-
-68355	
-68357	
-68361	
-
-
-attic/epic/ionic
-
+68364	attic/epic/ionic
 68367	attic/epic/doric/ionic
 68370	attic/epic/doric/ionic
 doric/aeolic
-
 68377	doric/aeolic
 attic/epic/doric/ionic
-
-attic/epic/doric
-
-68383	
-68385	
-
+68380	attic/epic/doric
 68389	attic/epic/doric/ionic
-68391	
-attic/epic
-
-
-68397	
-68399	
-68408	
-
-
-68419	
-epic/doric/aeolic
-epic/doric/ionic/aeolic
-
-doric/aeolic
+68392	attic/epic
+68420	epic/doric/aeolic
+68423	doric/aeolic
 68427	epic
-ionic
-
 68431	epic/doric/aeolic
-
-68435	
-68437	
-68439	
-doric
-
-doric
-
-68446	
-
+68440	doric
+68442	doric
 68449	doric/aeolic
 attic/epic
 68452	ionic
-
 68457	attic/epic/doric
-68459	
-68461	
-68464	
-
 68469	attic/epic/ionic
-68471	
 68475	epic/doric/ionic/aeolic
 attic/epic/ionic
-68478	
-
-68481	
-
-
-
-68487	
-68489	ionic
-
-
-68494	
-
-68497	
-attic/epic
-68504	
-68506	
+68498	attic/epic
 68508	attic/epic
-68513	
-68520	
-68522	
+68522	attic/epic/ionic
 68524	doric/aeolic
-
-epic
-
-68532	ionic
-
-68538	
-
-
-68543	ionic
-68547	
-attic/epic
-68551	
+68526	epic
+68548	attic/epic
 68553	doric
-68555	
-
-epic
-68559	
-68564	
-68567	
-doric/*theocr.
+68557	epic
+68568	doric/*theocr.
 epic/doric
-
 68572	attic/epic
-68575	
-
-68579	
-
-68582	
-
-ionic/epic
-68587	
-68589	
-68594	
-68597	
+68584	ionic/epic
 68601	attic
-68603	
-doric/aeolic
-
-
-ionic
-68609	
-68611	
-68613	
-68615	
+68604	doric/aeolic
 68617	epic/doric/aeolic
 68619	attic/epic
-
-68623	
-attic/epic
-
-attic/epic
+68624	attic/epic
+68626	attic/epic
 68628	attic
-68632	
-
-68635	
-
-68642	ionic
-68646	
-doric
-
-
-epic/doric/aeolic
-68652	
-
-epic/ionic/attic/doric
-68657	
-
-68661	
-68665	
+68647	epic
+68650	epic/doric/aeolic
+68654	epic/ionic/attic/doric
 68667	ionic/doric/aeolic
-
-68672	
-68674	
 68677	attic/epic/doric
-
-attic/epic/doric
+68679	attic/epic/doric
 68682	attic/ionic/epic/doric
 epic
 attic/epic
 attic/epic/doric
-
-68688	
-68691	
-68694	
-
-68697	
-68699	
-
-doric/aeolic
-
-
-68705	
-
-
-
+68697	epic
+68701	doric/aeolic
+68708	doric
 attic/epic/ionic
-
-68712	
-68717	ionic
-epic/doric
-
-68722	
-
-
-attic/epic
-68727	
-68729	
-68731	doric/laconia
-epic/ionic
-68734	
-
-
-68738	
-68742	
-
-attic/epic/doric
-68748	
-
+68718	epic/doric
+68725	attic/epic
+68732	epic/ionic
+68744	attic/epic/doric
+68750	doric
 doric
-
-68753	
-epic
-68756	
-
-attic/epic
-
-
+68754	epic
+68758	attic/epic
 68763	ionic
-
-attic/epic/ionic
-68767	attic/epic/doric
-68769	
-68771	epic/doric/ionic/aeolic
-68773	
-68776	
-
-
-
-attic
-
-doric
-68784	
-
-
-
-
-68790	
-attic/epic/doric
-68797	
-
+68765	attic/epic/ionic
+68780	attic
+68782	doric
+68791	attic/epic/doric
 68800	doric/aeolic
-
-attic/epic/doric
-
-68805	
-
-
-
-68818	
-
-68821	
-
-68824	
-
-
-
-68829	
-
-doric
-
-
+68802	attic/epic/doric
+68831	doric
 68839	attic/epic/ionic
-
 68842	attic/epic/doric
-
 68845	attic/epic/doric/ionic
 attic
-68848	
-attic
-
-
+68849	attic
 68853	attic
-68855	
 68858	epic/doric/aeolic
-68864	
-
-ionic
-
 68870	doric
-
-68874	
-
-68877	
-68881	
-68884	
 68886	attic/epic/ionic
 epic/doric/aeolic
-
-ionic
+68889	ionic
 68891	attic
-68893	
-
-
-
-68900	
-68903	
-
-attic/epic/ionic
-
-68908	
-
-epic/ionic
-68912	
-
-
-doric/aeolic
-68919	
-
-
-epic/ionic
-68924	
-68926	
-doric
-
-
-68931	
-
-
-epic/doric
-
-
-68939	
-68941	
-
-
-
-
-
-
-attic
+68905	attic/epic/ionic
+68910	epic/ionic
+68915	doric/aeolic
+68922	epic/ionic
+68927	doric
+68934	epic/doric
+68948	attic
 68950	attic
-68952	
-
-attic/epic
-
-doric
-68958	
-
-
+68954	attic/epic
+68956	doric
 68962	ionic
-
-
 68966	doric
-68968	
-68970	
-68972	
-
-
-doric/aeolic
+68975	doric/aeolic
 epic/ionic
-68978	
-
-68981	
-
-ionic
-
 68986	attic/epic
-68988	
-attic
+68989	attic
 68991	epic/ionic
-
-
-
-68996	
-69000	
-
-attic/epic/ionic
-
-
-doric/aeolic
-
-69008	
-69011	
+69002	attic/epic/ionic
+69005	doric/aeolic
 69013	ionic
-69016	
-doric/aeolic
+69017	doric/aeolic
 attic/epic
-69021	
-
-69025	
-doric
-
-epic/doric
-69030	
-69036	
-
-attic
-
-69042	
-69044	
-
-
-
+69026	doric
+69028	epic/doric
+69038	attic
+69046	attic/epic/ionic
 69049	epic/doric/ionic/aeolic
 69052	doric/aeolic
-69054	
-
-
-ionic
-69062	
-attic
+69057	ionic
+69063	attic
 69068	attic
-
 69072	doric
 69074	attic/ionic
 attic/epic/doric
-
 69078	attic/epic/doric
 epic/doric
-69081	
-attic
+69082	attic
 doric/aeolic
 attic
 69086	epic/doric/aeolic
-69088	
-
-
-
-
-69094	
-
-attic/epic/ionic
+69096	attic/epic/ionic
 attic/epic
 epic/ionic
-
-69101	
-69103	
-
-69108	
-ionic
-
-
-
-
-attic
-
-
-attic/ionic
-
-69120	
-epic/ionic
-
-69124	
-epic/ionic/attic
-
-
-
-
-
-
-69134	
-
-epic/ionic/doric/laconia
-attic
-
+69109	ionic
+69114	attic
+69117	attic/ionic
+69121	epic/ionic
+69125	epic/ionic/attic
+69129	doric
+69137	attic
 69143	attic/epic
-69146	
 69148	epic/doric
-
-69152	
-
-
-
 69157	attic/epic/doric/ionic
-69159	
-doric
-
-
-69166	
+69160	doric
 69168	attic/epic/ionic
-69170	
-doric
-
-
+69171	doric
 69175	epic
-69177	
-
-
-
-69184	
-
-
-69188	
-attic/ionic/epic/doric
-
-
-attic/epic/doric
-69195	
-69198	
+69185	attic/epic
+69189	attic/ionic/epic/doric
+69192	attic/epic/doric
 69201	attic/epic
 69203	attic/epic
-
-
-
-
-
-epic/doric
-69212	
-
-
-
-69217	
-
-epic/doric
-69221	
-69224	
+69209	epic/doric
+69219	epic/doric
 69227	attic
-
-
 69232	doric/aeolic
 69234	parad_form
-69239	
-ionic
-doric/aeolic
+69241	doric/aeolic
 attic/epic/doric
-69244	
-
-69248	
-69251	
-
-69254	
-69256	
-69259	
 69261	doric/aeolic
-69263	
-
-ionic
 69268	epic
 doric/aeolic
-
-69273	
-
-
-attic
-
-69279	
+69276	attic
+69280	attic/epic/doric
 attic/epic/doric
-attic/epic/doric
-69283	
 69288	attic
-
-
-
-
-attic
-
-69297	
-69299	
-
-69302	
-69304	
-69310	
+69293	attic
+69310	attic/epic/doric
 69313	attic/epic/doric
-69315	
-69318	
-69320	
-
 69325	attic/epic/doric
-
 69328	attic/epic/doric
-69330	
-attic/epic/doric
-69333	
-
-attic
+69331	attic/epic/doric
+69335	attic
 ionic
-69339	
-attic/epic/doric/ionic
-69342	
-
-epic/doric
-
-69347	
-
-69350	
+69340	attic/epic/doric/ionic
+69344	epic/doric
 69353	doric/aeolic
-69356	
 69360	epic/doric/aeolic
 attic/epic/doric
-
-attic/ionic
-
-69367	
-attic/epic/ionic
-
-
-69373	
+69363	attic/ionic
+69368	attic/epic/ionic
 69375	doric/aeolic
-69377	
-
-69381	
-
+69383	doric/aeolic
 doric/aeolic
-doric/aeolic
-69386	
-69389	
-
-
-69395	
-69397	
-69399	
-69403	
 69408	doric/aeolic
-
-69412	
-attic/epic/doric
-
+69413	attic/epic/doric
+doric
 attic/epic/ionic
 69418	epic
-ionic
-69421	
-69425	
-69429	
-69432	ionic
-69438	
-69440	
-
-69443	
-attic/epic/doric
-69446	
-
-attic
-
-69451	
-attic/epic
-69457	
-
-
-epic/ionic/attic/doric
-69463	
-
-69467	
-
-69470	
+69444	attic/epic/doric
+69448	attic
+69452	attic/epic
+69460	epic/ionic/attic/doric
 69475	epic/ionic/attic/doric
-69480	
-
-
-attic/ionic
+69483	attic/ionic
 attic/epic/ionic
-69487	
-69489	
-
-
-
-attic/ionic
-69501	
-69503	
-69507	
-69509	
-
-
-69513	
-69516	
-epic/doric/ionic/aeolic
+69493	attic/ionic
+69511	doric
+69517	epic/doric/ionic/aeolic
 attic
-
-
-attic/epic
+69521	attic/epic
 attic/epic/ionic
-
-69525	
-
-69532	
-69534	
+69526	epic
 69537	attic/epic
-
-69540	
-69542	
-attic
-
+69543	attic
 69546	attic
 69548	attic
-
-69552	
-69555	
-69557	
+69552	doric
 69563	epic/doric/aeolic
 doric/aeolic
 attic/epic
-
-
-
-
+69568	doric
 69571	attic/epic
 doric/aeolic
 ionic/doric/aeolic
-
-69577	
-
-
-69581	
-69583	
 69587	attic
-
-
-69592	
 69594	attic/epic/ionic
 69596	doric/aeolic
-69598	
-
 69601	attic/epic/doric
-69603	
 69606	epic/doric/aeolic
-69609	
-69611	
-69614	
-ionic
 69617	doric/aeolic
 attic
-
-attic
-
+69620	attic
 69623	doric/aeolic
-
-69628	
-69630	
-attic/epic/doric
-69633	
-
-
-
-69639	
-doric
-
-
-69646	
-
-69649	
-epic
-
+69631	attic/epic/doric
+69636	epic
+69640	doric
+69650	epic
 69653	doric/aeolic
-69655	
 69657	doric/aeolic
 attic/epic/doric
 doric/aeolic
-
-
-69663	
-
-69666	
-69671	
-
-
-epic/doric
-ionic
-doric/aeolic
-
-69679	
+69674	epic/doric
+69676	doric/aeolic
+69679	ionic/doric/aeolic
 attic
-
-69683	
-69685	
-
-69688	
-69690	ionic
-69692	
-attic/epic
-
-
-
+69683	epic
+69693	attic/epic
 69698	ionic
-
-
-69702	
 69704	attic
-
-
-69708	
-69710	
-
 69715	attic
-
-
-
-69720	
-
-
 69724	ionic
-
-ionic
 69728	doric/ionic
-
-69732	
-ionic/attic/epic/doric
-
-
-epic/ionic/attic/doric
-69738	
-
-
-
-69743	
-
-69747	
-69750	
-69752	
-
-69755	
+69733	ionic/attic/epic/doric
+69736	epic/ionic/attic/doric
 69763	attic
-
-
-ionic
 69768	doric/aeolic
-
-doric/aeolic
-
-69774	
-69776	
-69779	
-
-69783	attic/epic/doric
-
 doric
-
-69788	
-69790	doric
-
-69793	ionic
 doric/aeolic
-69797	
+69783	attic/epic/doric
+69785	doric
+69790	doric
+69794	doric/aeolic
 69799	doric
-
 69802	attic/epic/doric
 69808	epic/doric
 69811	epic/doric/aeolic
-
-attic/epic/ionic
+69813	doric/aeolic
 69819	attic/ionic
-ionic
 69822	epic/doric/aeolic
-69827	
-attic
-69830	
-69834	
-doric/aeolic
-
+69828	attic
+69835	doric/aeolic
 69840	attic/epic
-
-
 69845	attic/epic
-69847	
-69850	
-
-69853	
 69855	doric/aeolic
-69857	
-69859	
-attic
-69863	
-69865	
-69867	
-
-69870	
+69860	epic
+69870	attic
 69872	doric/aeolic
-
-
-
-69878	
-69880	
-
-
-
-
-
+69878	doric
 69887	doric/aeolic
-69889	
 69892	epic/doric/aeolic
-69894	
-
-
-
-
-69900	
 69902	attic/epic
 attic
-69908	
-
-69912	
-
-
-attic/ionic
-
-epic/doric/ionic/aeolic
-
-
+69915	attic/ionic
+69917	epic/doric/ionic/aeolic
 69921	doric/aeolic
-
-
-
-
-69927	
 69929	attic/epic/ionic
-
-attic/epic/ionic
-
-epic/ionic/attic/doric
-69935	
+69931	attic/epic/ionic
+69933	epic/ionic/attic/doric
 69937	attic/epic
-
-
-
-
-
-
-
-doric
-
-69948	
-
-
-
-attic
-
-
-69956	
-
-69960	
-69963	
-69965	
-69968	
-69971	
-69973	
-
-69976	
-
-
-
+69945	doric
+69952	attic
 69982	epic
-
 69985	attic/epic/doric
-69987	
-
-69995	
-69997	
-69999	ionic
-70002	
-
-
-70006	
-70011	
-70013	
-
-attic
-70018	
-70021	
-70023	
-epic
-70027	
-70029	
-70032	
-
-70035	
-70038	ionic
-
+70003	doric
+70015	attic
+70024	epic
 70043	doric/aeolic
 attic/epic
-
-
+attic/epic/ionic
+doric
 attic
-70050	ionic
-doric/aeolic
-
-70056	
-doric/aeolic
-70059	
-ionic
+70051	doric/aeolic
+70057	doric/aeolic
 70062	epic/doric/aeolic
 attic
-
 70066	attic/epic
 ionic
-70070	
-
-ionic
-epic/ionic
+70073	epic/ionic
 70075	doric/aeolic
 doric/aeolic
 70078	doric/aeolic
-
-
-70082	
 70084	attic/epic/ionic
-
-70089	
-ionic
-70092	
+doric
 70094	attic/epic
-70099	
-70102	
+70102	doric
 70104	attic/epic/ionic/doric
 attic
-
-attic
-
+70107	attic
 70110	attic/epic/doric
-
 70113	attic/epic/ionic
 70115	epic/doric
 doric
-
-70120	
-70123	
-70125	
-
-
-
 70130	attic/epic/doric
-
-
-
 70136	doric/aeolic
-70139	
-ionic
-70145	
-
-
-
-attic/epic
-70151	
-70154	
-
-
+70149	attic/epic
 70158	epic/ionic
 70162	doric
-
-70166	
-70169	
 70171	attic/epic/ionic
-
-70174	
-70176	
-70182	
-ionic
-epic/ionic
+70184	epic/ionic
 70186	epic/doric/aeolic
 doric/aeolic
 attic/epic
-
-attic/epic/doric
-70192	
-70194	ionic
-epic
+70190	attic/epic/doric
+70195	epic
 epic/doric/aeolic
-70198	
-attic/epic/ionic
-
-70203	
-70205	
-70208	
-70210	
-
-attic
-
-70215	
+70199	attic/epic/ionic
+70212	attic
+70216	attic/epic/doric
 attic/epic/doric
-attic/epic/doric
-
-
-70221	
 70224	doric
-70226	
-70228	
 70230	attic/epic
 doric/aeolic
-70233	
-
-
-doric/aeolic
-
+70236	doric/aeolic
 70240	attic/epic/doric
 70242	epic
 70244	epic
 epic
-
-70248	
-70250	
-
-
-70254	
-doric
-70257	
-
-70260	
-
-
-attic
-70266	
-
+70255	doric
+70263	attic
 70269	attic/epic/doric
-
-attic/ionic/epic/doric
-
-70276	
-doric/aeolic
-
-
-attic/epic/ionic
-
+70271	attic/ionic/epic/doric
+70277	doric/aeolic
+70280	attic/epic/ionic
 70284	attic/epic/doric
 70286	doric/aeolic
-
-
-70292	
-
-attic/epic/doric
-
-70297	
+70294	attic/epic/doric
 70301	attic
-
 70304	doric/aeolic
-
-epic/ionic/doric/laconia
-70308	
-70310	
-epic
-
+70308	doric
+70311	epic
+doric
 70314	attic/epic/doric
-70316	
-
-
-attic/epic
-70321	
-attic
-70324	
-70326	
-70328	
-70330	
-ionic
+70319	attic/epic
+70322	attic
 70333	doric/aeolic
 70335	attic/epic/doric/ionic
 70338	doric/aeolic
-
-
-70342	
-
-
-epic/doric/aeolic
-70347	
-
-70350	
-
-
-
-
-attic/epic/doric
-70361	
+70345	epic/doric/aeolic
+70355	attic/epic/doric
 70363	epic/doric/ionic/aeolic
 epic
-
-
-
-70369	
-70372	
+70372	doric
 70374	doric
-70377	
-epic/doric
-
-70382	
-
-
-70386	
-doric/aeolic
-
+70378	epic/doric
+70387	doric/aeolic
 70390	epic/doric/ionic/aeolic
-
-70397	
-70400	
-epic
+70401	epic
 attic
-
-
-70407	
-70410	
-
-70414	
-
-ionic
 70419	attic/epic/doric
 70421	doric/aeolic
-70425	ionic
-70428	
-70431	
-
 70434	parad_form
-70437	
 70443	attic/epic/doric
-
-70446	
-
-70450	
-
-
 70455	doric/aeolic
 doric/aeolic
-70458	
-attic/epic/doric
+70459	attic/epic/doric
 attic/epic/doric
 70464	attic/epic
-70466	
-70468	
 70472	doric/aeolic
 doric/aeolic
-
-
-70480	
-70483	
-doric/aeolic
-
-70487	
+70475	doric
+70484	doric/aeolic
+70487	epic
 attic
-70490	
-70493	
-70497	ionic
-70502	
-70507	
-70509	
 70511	attic/epic/ionic
 doric/aeolic
-70521	
-
-
-
-
-
-epic
-70529	
-70531	
-70533	
-70535	
-
-70539	
-attic/epic
+70527	epic
+70540	attic/epic
 70542	attic
 70544	epic/doric/aeolic
-70546	
-
-70549	
-ionic
-70553	
-attic/epic
+70554	attic/epic
 70556	attic
-
-70559	
+70559	doric
 70564	epic/doric/aeolic
-
-70567	
-attic/epic/doric
-70572	
-70574	
-70576	ionic
-doric/aeolic
-70579	
-70581	ionic
-
-attic
-70586	
+70568	attic/epic/doric
+70577	doric/aeolic
+70583	attic
 70588	attic/epic/ionic
-70590	
-70592	
 70596	epic/doric
 70600	attic/epic
 70602	attic
-
-70605	
-attic/ionic
+70606	attic/ionic
 attic
-
-70613	
-
-
+70615	epic
 70623	attic/epic/doric
-70625	
-70627	
-70629	
+70627	attic/epic
 70631	epic
-
-
-70635	
-
 70639	epic/doric/aeolic
-70642	
-
-
-
-epic/attic
-
-
-
-
-70653	
-
+70646	epic/attic
 70656	epic/doric/ionic/aeolic
-
-70662	
-attic/epic/doric
-70669	
-
-70672	
-
-70676	
-epic/doric/aeolic
-
-70681	
-attic/epic/ionic
-
-
+70663	attic/epic/doric
+70677	epic/doric/aeolic
+70682	attic/epic/ionic
 70686	epic/doric/aeolic
 doric/aeolic
 epic
-
-70692	
-epic/ionic/attic/doric
-70696	
+70693	epic/ionic/attic/doric
 70698	ionic
-70706	
-epic
-70712	
-70714	
-doric/aeolic
-70717	
-
-70720	
-70722	
+70707	epic
+70715	doric/aeolic
 70724	attic/epic/ionic
 70727	attic/epic/doric
-
-70731	
-
-doric
-70735	
-
-
-
-
-
-ionic
+attic/epic/ionic
+70731	doric
+70733	doric
 70743	epic
-70745	
-
-
-
-
-doric
+70747	attic/epic/ionic
+70750	doric
 70752	doric/aeolic
-
-70756	
-epic/ionic/attic/doric
-70759	
-attic/epic/doric/ionic
-
-
-attic/epic/doric
-70765	
-70767	
-
+70757	epic/ionic/attic/doric
+70760	attic/epic/doric/ionic
+70763	attic/epic/doric
+70765	attic/epic/doric
 70770	attic/epic/doric/ionic
-
-
-70775	
-70779	
-70782	
-70784	
 70789	attic/epic/doric/ionic
-70791	
-70793	
-70796	
-70799	
 70804	doric/aeolic
-
 70808	doric
-
 70813	attic/epic/ionic
-70819	
-70821	
 70824	doric/aeolic
 doric/aeolic
-
-
-70829	
-
-70832	
-70835	
-
-
 70840	doric
-
-doric
+70842	doric
 70844	attic/epic
 70846	doric/aeolic
-70850	
-
 70853	attic/epic
-70855	
-attic/epic/doric
+70856	attic/epic/doric
 doric/aeolic
 doric/aeolic
 attic/epic
-70862	
-attic
-
-
+70863	attic
+70865	epic
 70867	epic
-
-70870	doric/aeolic
-70872	
-doric/aeolic
-
-70876	
+70873	doric/aeolic
 70878	attic
-
-
-70884	
-
-70887	
-70889	
-
-70894	
-
-70897	
-
-70900	
-
-doric/aeolic
-
-70905	
-doric/aeolic
-
-
-ionic
-70911	
-attic
-
-70916	
-attic/epic/ionic
-ionic
-70921	
-70923	
+70902	doric/aeolic
+70906	doric/aeolic
+70912	attic
+70917	attic/epic/ionic
 70925	attic/epic
-
-70929	
-
-70932	
-70935	
-
-doric/aeolic
-
-70940	
-
-70943	
-attic/epic/ionic
-
-
-70948	
-ionic
+70937	doric/aeolic
+70944	attic/epic/ionic
+70949	ionic
 70952	doric/aeolic
-
-
-
-70957	
-
-
-
-70962	ionic
-70965	
 70967	doric/laconia
 attic/epic/doric
-
-70971	
-attic/ionic
-70975	
-
-70978	
-70980	
-doric/aeolic
+70972	attic/ionic
+70981	doric/aeolic
 attic/epic/ionic
-70989	
-70991	
 70995	epic/doric/ionic/aeolic
 70997	attic/epic
-71000	
-71002	
-71004	
-
-71008	
-71010	
-
 71013	attic/epic/ionic
-
-71016	
-
-
-
 71023	attic/epic/ionic
-71025	
-attic
-
+71026	attic
 71030	doric/aeolic
 71033	doric
-
-
-71037	
-
-71040	
-
-
-
-
-71046	
-
-
-71050	
+71042	doric
 71052	doric/aeolic
-71054	
-attic
-71058	
-
-71063	
-
-71068	
-71071	
-71075	ionic
-71078	
-71080	
-
-71083	
-
-
-
+71055	attic
+71086	attic
 epic/doric
-71090	
-epic
+71091	epic
 attic/epic/doric
-
-71095	
-71097	
-attic
+71098	attic
 71100	attic/ionic
 71102	doric/aeolic
 attic
-71105	
-
-71112	
-
-
-attic/epic/doric
-
+71115	attic/epic/doric
 71119	attic
-71121	
-attic/epic/doric
-
-attic
-71126	
+71122	attic/epic/doric
+71124	attic
 71129	attic/epic/doric
-71133	
-doric/aeolic
+71134	doric/aeolic
 doric
-
 71138	attic/epic/doric
-
-
-71143	
-attic/epic/doric
+71144	attic/epic/doric
 71147	epic
-71149	
 71152	attic/epic/ionic
-
+71154	attic/epic/doric
 attic/epic/doric
-attic/epic/doric
-
-
-attic/epic
-
-
-
-71164	
-
+71158	attic/epic
 71167	epic/ionic
 71169	doric
-71171	
-71175	
-attic/epic/doric
-
-
-
-attic
-71182	
-
-71185	
-71188	
-
-ionic
-71193	
-71195	
-71197	
-
-71202	
-
+71176	attic/epic/doric
+doric
+71180	attic
 71205	doric/laconia
 doric
-
-
-
 71211	doric
-
-
-
-
-71217	
-
-
 71221	doric/laconia
-
-ionic
 71225	doric/aeolic
-
 71229	epic/doric/aeolic
 doric/aeolic
 71234	parad_form
-
-71238	
-doric
-
+71239	doric
 71243	attic
-71246	
-attic/ionic/epic
-
-
+71247	attic/ionic/epic
 71251	attic/epic/doric
-
-71255	
-
-71258	
-
-71261	
 71264	attic/epic/doric
-71267	
 71269	attic/epic/doric
-
-
-71273	
-71277	
-71281	
-
-
-71285	
-71288	
-71291	
-
-71295	
-
-
-
-attic/epic
-71303	
-
-71308	
-
-epic
-71312	epic/doric/ionic/aeolic
-
-71316	
-
-
-
-71322	
-71325	
-71327	
-attic/epic
-71330	
+71277	doric
+71299	attic/epic
+71303	doric
+71310	epic
+71328	attic/epic
 71332	attic/epic/doric
 71334	epic
-epic/ionic/doric/laconia
-
-
-doric
-
+71338	doric
 71341	epic
-71344	
-
-71348	
-doric/aeolic
-
-71352	epic/ionic/doric/laconia
-attic
-
-
-71357	ionic
-71360	
+71349	doric/aeolic
+71353	attic
 71363	attic/epic
-
-71367	
-
-71370	
-
+71372	doric/aeolic
+doric/aeolic
+71375	doric/aeolic
+71379	doric
+doric
+attic/ionic/epic
+71388	attic
+71397	attic
+71406	epic/doric/aeolic
+71435	epic/doric
+epic
+attic
+71449	attic/epic/ionic
+71474	attic/ionic
+71479	doric/aeolic
+71484	attic
+attic
+71489	epic/doric/aeolic
+71497	attic/ionic/epic/doric
 doric/aeolic
 doric
-71375	doric/aeolic
-71377	
-71379	
-attic/epic/ionic
-attic/ionic/epic
-71387	epic/ionic/doric/laconia
-attic
-
-71391	
-
-
-
-
-
-attic
-
-
-71401	
-71404	
-71406	epic/doric/aeolic
-71408	
-
-71412	
-71415	
-71417	
-
-71425	
-71429	
-
-71432	
-71435	epic/doric
-
-attic
-
-71442	
-71444	
-71446	
-71449	attic/epic/ionic
-71451	
-71453	
-71455	
-
-71459	
-71461	
-71464	
-71466	
-71469	
-71472	
-71474	attic/ionic
-71476	
-
-71479	doric/aeolic
-71482	
-
-attic
-attic
-
-
-71489	epic/doric/aeolic
-71491	
-71496	
-attic/ionic/epic/doric
-epic
-
-
-
-
-
-71506	
-71508	
-doric/aeolic
-
-
-71513	
-71515	
-
-
-epic/ionic
-
+71509	doric/aeolic
+71518	epic/ionic
 71523	doric/aeolic
-71525	
 71527	attic/epic
 71529	doric/aeolic
-71533	
-attic
-
-attic
+71534	attic
+71536	attic
 71540	epic
-
-
-71546	
-
 71550	attic
-
-attic/epic
-71556	
-71559	
-71561	
-attic
-
-attic/epic/ionic
-
-71567	
-
-71570	
-doric/aeolic
+71552	attic/epic
+71562	attic
+71564	attic/epic/ionic
+71571	doric/aeolic
 epic
-71574	
-71576	
+71576	epic
 attic
-71579	
-
-71582	
-ionic
 71587	attic
-
-
-71591	
-epic
-71596	
-
-71604	
-
-
-
-
+71592	epic
 71611	attic/epic
-
-
-71615	
-
-doric/aeolic
-
-ionic
+71617	doric/aeolic
+71619	ionic
 attic
-
-71624	
-71626	
-attic/epic/doric
+71627	attic/epic/doric
 ionic
-71630	
-71632	
-
-doric
-
-
+71634	doric
 71639	doric/aeolic
-
-
-attic
-
-71650	
-
-
+71642	attic
 71655	epic/doric
-71658	
-attic/epic
+71659	attic/epic
 71661	attic
-
-71664	
-
-71667	
-doric/aeolic
-
-71672	
-71675	
-71677	
-71679	
+71668	doric/aeolic
 71681	doric
-
-71684	
-doric/aeolic
+71685	doric/aeolic
 ionic
 71689	attic
-
-
-71694	
-ionic
-71700	
-
-
-
-
 71707	attic/epic/ionic
 doric/aeolic
-71712	
-71715	
-71717	
-doric/aeolic
-
-attic/epic/doric
-71722	
-attic/ionic
-71727	
-
-attic/ionic
-71731	
-71733	
-
-71737	
-71740	
-attic
-
-71744	
-71746	
-ionic
-71749	
-
-71752	
-
-
+71718	doric
+71720	attic/epic/doric
+71723	attic/ionic
+71729	attic/ionic
+71741	attic
 71756	attic/epic/ionic
-71758	
-71761	
-71764	
-
-attic
-
+71766	attic
 71771	doric
 attic/epic/ionic
 71774	doric
-
-
-71778	
-
-71781	
-
-
-
-
-
-71788	
-ionic
-71792	
-doric
-71795	
-attic
+71781	doric
+71793	doric
+71796	attic
 doric/aeolic
-
-attic
-
-
-
-71806	
-
-71811	
-71814	
-71816	
-ionic
+71799	attic
 71821	attic/epic/doric
-doric
+doric/aeolic
 attic/epic
-71825	
-
 71828	doric/aeolic
-
-
-
-71833	
-
-71837	
-71843	
-71845	
-
-71848	
-
-71851	
-71857	ionic
+71831	epic
 71860	attic
 71864	attic
-
-epic
-71869	
-attic/epic
-71872	
-
-71875	
-71877	ionic
-71880	
+71866	epic
+71870	attic/epic
 71883	attic/epic/doric
-
-71886	
-71889	
-
-71896	
-ionic
-
-
+71897	ionic
 71901	attic/epic
 71905	epic
-71909	
-71915	
-
-
-epic/doric/aeolic
+71918	epic/doric/aeolic
 71920	attic
 71922	attic
-
-
-epic
-
-71929	
-71933	
-71935	
-
+71925	epic
 71939	epic/attic/ionic
-
-71942	
-
-71945	
+ionic/doric/aeolic
 71947	attic
-71949	
-71951	
-71953	
-attic/epic/doric
-
-71957	
-
-71960	
-71963	
-doric/aeolic
-71968	
-
-attic
-71974	
+71954	attic/epic/doric
+71964	doric/aeolic
+71970	epic
 71977	doric/aeolic
-ionic
-attic/epic/ionic
-71981	
-71985	
-71990	
-
-
-
+71979	attic/epic/ionic
+71993	doric
 attic/epic
-71996	
-71998	
-72003	
-
-
-attic/epic/doric
+72006	attic/epic/doric
 doric/aeolic
 72009	doric
-
-
-72013	
-72015	
-72018	ionic
-doric/aeolic
+72019	doric/aeolic
 attic/epic/doric
-72027	
 72030	epic/doric/aeolic
-72032	
-72034	
-72036	
-72038	
-
-epic/doric
-
-72043	
-72046	
-72048	ionic
-
-72052	
-72055	
-72057	
-
-72060	
-doric/aeolic
-
-
+72036	doric
+72040	epic/doric
+72061	doric/aeolic
+doric
 72067	attic/epic/doric
-72069	
 72071	attic
-
-72077	
-attic/ionic
+72078	attic/ionic
 72080	ionic
 attic/epic/doric
 attic/epic
-
-
-epic/doric/aeolic
+72085	epic/doric/aeolic
 72089	doric/aeolic
-72091	
 72098	attic/epic
-
-
-72102	ionic
-
-
-
-72107	
-72109	ionic
-doric/aeolic
-72113	
-72116	
-72118	
-
-
-72122	
-72124	
-
-
-
-
-
-72131	epic/doric/aeolic
-
-
-72137	ionic
-
-
-
-doric/aeolic
-ionic
-doric/aeolic
+72110	doric/aeolic
+72126	doric
 doric
-72146	
-
-
-72152	
+72131	epic/doric/aeolic
+72137	ionic
+72141	doric/aeolic
+72143	doric/aeolic
+doric
+72152	epic
 attic
-72158	
 72160	attic/epic/ionic
 72162	attic/epic
-72165	
-72167	
-72169	
 72171	attic/epic
-
-72175	
-ionic
-doric/aeolic
-
+72177	doric/aeolic
 72180	epic
-
-
-
-72185	
-72187	
-72192	
+72192	epic
 72194	doric/aeolic
-72196	
-72201	
-doric
-72204	
-ionic/epic
+72202	doric
+72205	ionic/epic
 doric/aeolic
-
-
-
-
-
-72213	
-
-72219	
 72221	attic/epic/doric
-72223	
-
 72227	attic/epic/doric
-
-72231	
-doric/aeolic
+72232	doric/aeolic
 72234	doric/aeolic
-
-72237	
-72239	
-
-ionic
-72243	
-
 72247	epic/doric
-72250	
 72255	attic/epic
-72257	
-72260	
-72262	
-
-epic/ionic
+72264	epic/ionic
 72267	epic/doric/aeolic
-72270	
-72272	
-72275	
-
-
-
-72283	
-72285	
 72287	attic/epic/ionic
 epic/doric/aeolic
-
-
-72297	
-72299	
-72302	
-attic/epic/doric
+72299	doric
+72303	attic/epic/doric
 72307	attic/epic/doric
-72309	
-
 72312	attic
-72314	
-attic/epic
-72317	
+72315	attic/epic
 72320	doric/aeolic
 attic
-
-
-72325	
-doric
-
-
+72326	doric
 72330	epic
-
-
-attic
-
-
-doric
-
-72339	
-72343	
-72345	
-
-72348	
-attic/ionic/epic/doric
-72353	
-
-attic/epic/doric
-72358	
+72333	attic
+72336	doric
+72349	attic/ionic/epic/doric
+72355	attic/epic/doric
 72360	attic/epic/doric/ionic
-72366	
-72368	
-
 72372	ionic
-
+epic
 attic
 72382	attic/epic/ionic
 72385	doric
-72387	
 72393	doric
-ionic
 72398	doric/aeolic
-
-
-72403	
-
 72407	epic/doric/ionic/aeolic
-
-
-72412	
-72414	
-
-
-
-72419	
 72421	doric/aeolic
-72423	
-
-
-
-72429	
-72431	
-72433	
-72437	attic/epic/ionic
-72439	
-attic
-72442	
-
-attic/epic/doric
-
-
-
+72437	doric/aeolic
+72440	attic
+72444	attic/epic/doric
+doric
 72449	doric/aeolic
-72451	
-72453	
-
-attic
+72455	attic
 attic/epic/doric
-
-attic/epic/doric
-doric/aeolic
-
-72466	
+72459	doric/aeolic
 72468	doric/aeolic
 attic
-72471	
-72473	
 72475	attic/epic/ionic
-72477	
 72479	epic/doric
 attic
-
-
-72484	
-
-
 72489	attic/epic/doric/ionic
-72494	
 72496	attic
-72498	
 72502	epic/ionic
-
-
-72506	
-72509	
-72511	
-
-72515	
-
-72518	
-72521	
-72526	
-
-72529	
-
-ionic
+72531	ionic
 doric
-
-
-
-
-
-72540	
-72542	
-
-
-
-72550	
-72553	
-ionic
-
-72559	
-epic/doric/aeolic
-72562	
-72564	
-72567	
-
-
-
+72544	doric
+72560	epic/doric/aeolic
 72574	attic/epic/ionic
-72577	
-
-
-72581	
-72586	
-72588	
-ionic
-doric/aeolic
+72590	doric/aeolic
 epic
 epic/doric/aeolic
-72595	
 72600	doric/aeolic
-72605	
-72607	
-attic
+72608	attic
 72610	attic
 ionic
 72613	epic/doric
-
-72617	
+epic
 72619	doric/aeolic
-
 72623	attic/epic/ionic
-72625	
-
 72631	attic/epic/ionic
-
-attic
-72638	
-72640	
-72642	
-doric/aeolic
-72645	
-
-72652	
-72654	
-
+72633	attic
+72643	doric/aeolic
 72658	doric/aeolic
 attic/epic
-
-72665	
 72668	attic
-
 72673	doric/aeolic
-72677	
-
 72682	doric/aeolic
 72684	attic/epic/ionic
-72686	
-
-doric/aeolic
-72690	
-
-
+72688	doric/aeolic
 72694	doric
 doric/aeolic
 doric/aeolic
-72699	
-
+72700	doric
 doric/aeolic
-72703	
-
-attic/epic/doric
-72709	
-
-72712	
+72705	attic/epic/doric
+72712	doric
 72714	attic
 72719	attic/epic/doric
-72721	
-attic/epic
-
-72725	
-
-72730	
-
-doric/aeolic
+72722	attic/epic
+72732	doric/aeolic
 72735	doric/aeolic
-72737	
-ionic
 72740	epic
-
-72744	
 72750	doric/aeolic
-
-
-
-72758	
-attic
-
-72762	
-ionic
-72766	
-72768	ionic
-
-72772	
-72774	
+72759	attic
+72766	doric
 72777	attic
-
-
-72782	
-
-
 72787	attic/epic/ionic
 epic/doric
 72791	attic/epic/ionic
-72793	
-72796	
-epic
-
-72801	
+72797	epic
 72803	doric/aeolic
 72806	epic/doric/aeolic
-
-attic/epic
-72812	
-
+72808	attic/epic
 72816	doric/aeolic
-72818	
-epic/doric
-
+72819	epic/doric
 72823	attic
-
-
-72827	
-72829	
-72833	
 72835	doric/aeolic
-
-attic/epic/ionic
-
-72840	
-
-72846	
-72851	
-
-ionic
-72855	
-
-doric/aeolic
-72859	
-72861	attic/epic/ionic
-
-epic
+72837	attic/epic/ionic
+72857	doric/aeolic
+72861	doric/aeolic
+72863	epic
 attic
-72866	attic/epic/ionic
-72868	
-
+72866	doric/aeolic
 72871	doric/aeolic
-
-attic
-
-doric/aeolic
+72873	attic
+72875	doric/aeolic
 doric/aeolic
 72879	attic/epic/doric
-72881	
-
-
-72885	
-72887	
-attic/epic/doric
-72892	
+72888	attic/epic/doric
 72895	epic
-72898	
-72900	
 72902	epic/ionic/attic/doric
-72905	
-attic/epic/doric
-
-72912	
-
-
+72906	attic/epic/doric
 72916	attic
-
-
-72920	
-72923	
-
-72926	
-ionic
-72930	
-
 72933	attic/epic/ionic
-72935	
-epic/doric
-ionic
-72942	
-72946	ionic
-doric/aeolic
-72952	ionic
-72955	
-
-
-72960	
+72936	epic/doric
+72947	doric/aeolic
 72963	attic/epic/doric
 attic
-
-72967	
-
-
-
-attic/epic/doric
-72974	
-72977	
-
-72980	
-doric
-72987	
-doric
-72992	
-
-ionic
-
+72971	attic/epic/doric
+72981	doric
+72988	doric
+72994	ionic
 72997	doric/aeolic
-72999	
-73002	
-
-
 73006	attic
-73010	
-73013	
-73017	
-
-
-
-
-attic/epic/ionic
-
-73025	
-ionic
-73030	
-73033	
+73022	attic/epic/ionic
+73026	ionic
 73036	epic/doric
-73038	
-
-
 73042	attic/epic/doric
 doric/aeolic
-
-
-attic/epic/ionic
+73046	attic/epic/ionic
 73048	epic/doric
 73050	attic/epic/ionic
-
-
-73056	
-73058	
-
 73061	epic/doric/aeolic
-
-73070	
-
+doric
 73076	attic/epic
 epic
-
-doric
+73079	doric
 73081	doric/aeolic
-73084	
-73086	
-73089	
-ionic
-73094	
-
-
 73099	attic
 73101	epic
-
 73104	ionic/doric/aeolic
-
-73107	
-
-
-73111	
-73113	
-73115	
-attic
+73116	attic
 73119	doric/aeolic
 73121	attic/epic
-73123	
-73125	
-
 73128	epic/ionic/attic
 73130	epic/ionic/attic
-
-73133	
 73135	attic/epic
-73138	
-73140	
-
 73144	epic
-
-
-attic/epic
-73149	
-
-attic/epic/doric
+73147	attic/epic
+73151	attic/epic/doric
 73153	attic/epic/doric
-73156	
-
-
-
-73162	
-
-doric
-
-73168	
-73172	
-
-doric
-73177	
-attic
-
-73182	
+73164	doric
+73174	doric
+73178	attic
 73184	doric
-
 73187	attic/epic/doric
-
-73191	
-
-
 73197	doric/aeolic
 doric/aeolic
-
-
-doric/aeolic
-
-
+73201	doric/aeolic
 73205	ionic/doric/aeolic
 73209	doric
 doric
 epic/ionic/attic
-73217	
-73220	
-
-
-
-
-73226	
-attic
-
-73230	ionic
-
-
-73235	
-73237	
-
-73241	
-doric/aeolic
-
+73227	attic
+73242	doric/aeolic
 73245	doric
-
-
-73249	
-ionic
 73254	epic
-73256	
 73262	epic/doric
-
 73268	doric/aeolic
-73270	
-73272	
 73274	epic/doric/aeolic
-73276	
-
-
-73280	
-73282	
-attic/epic
+73283	attic/epic
 73286	attic/epic
 73288	epic
-
-
 73292	attic/epic/doric
-73295	
-
-73300	
-
-73303	
-73305	ionic
-doric/aeolic
+73306	doric/aeolic
 73308	epic/doric/aeolic
-
-
-doric
-
-
-73315	
-
-73319	
-73321	
-
-
-73325	
-
-attic/epic/doric
+73311	doric
+73327	attic/epic/doric
 doric/aeolic
-73332	
-
-
-
-attic
-
-epic/ionic
-73345	
+73336	attic
+73338	epic/ionic
 73347	epic
 doric/aeolic
-
-73351	
-73353	
-
-epic
+73355	epic
 doric/aeolic
-
-73359	
-doric
-73363	
-
+73360	doric
+73364	epic
 73366	doric
 epic/doric/ionic/aeolic
-
-73371	
-73373	
-
-73376	
-
-
-73380	
-
-73383	
-73386	
-73388	
-
 73391	epic/ionic
-
 73394	epic
-
-
-doric/aeolic
-73399	
-73401	
-
-epic
+73397	doric/aeolic
+73403	epic
 73405	attic/epic/doric
-
 73408	ionic
 epic/doric
 epic
-
-
-
-doric
+73414	doric
 doric/aeolic
-
-
-doric
-
-73421	
-attic/epic/doric
-ionic
-73428	
-
-73431	
-73435	
-73438	
-
-73441	
-
+73418	doric
+73422	attic/epic/doric
 73444	attic/epic
 73447	attic/epic
 doric/aeolic
 73450	attic/epic/doric
-
-
 73454	attic/epic/doric
-
 73457	attic
-
-attic/epic
-73464	doric
-
-epic/doric/ionic/aeolic
-
-
+73459	attic/epic
+73464	attic/epic/ionic
+73466	epic/doric/ionic/aeolic
 73471	attic
-
-73475	
-attic/epic/doric
+73476	attic/epic/doric
 73480	attic
-73482	
-73484	
-73489	
-
-73493	
-doric/aeolic
+73489	doric
+73494	doric/aeolic
 epic/ionic
 doric
 epic/doric/aeolic
-
-
 73503	attic
-
 73506	attic/epic
-73509	
-
-
-73514	
-attic/epic/ionic
+73515	attic/epic/ionic
 attic/epic/doric
-
-ionic
-
-doric/aeolic
+73520	doric/aeolic
 73524	attic
-
-
-73528	
-ionic
-
 73532	attic
-73534	
-ionic
-doric/aeolic
-
+73536	doric/aeolic
+doric
 epic/ionic/attic
 73540	attic/epic/ionic
-
-73543	
-doric/aeolic
-
-73547	
+73544	doric/aeolic
 73550	attic
-
 73555	doric/aeolic
-73557	ionic
-attic/epic/ionic
-
-73562	
+73558	attic/epic/ionic
 73564	attic
-
 73567	attic/epic/ionic
-73569	
-
 73572	attic/epic/doric
 73574	doric/aeolic
 doric/aeolic
 73577	doric/aeolic
-73581	
-73585	
-73587	
 73591	doric/aeolic
-73593	
-73595	
-
-
-
-
-73601	
-73604	
-doric
-73608	
-ionic
-73611	
-
+73605	doric
+73612	doric
 doric/aeolic
-73615	
-73618	
-73621	
-73623	
-73628	ionic
-73631	
-
-73634	
-73637	
-
-
-73644	
+73639	doric
 73647	attic/epic/doric
-
 73651	doric/aeolic
 doric/aeolic
-
-73655	
-
-
-
-73664	
-attic/epic
-
-attic/epic
+73665	attic/epic
+73667	attic/epic
 doric
-
-attic/epic
-
-73673	
-
-doric
-
-73680	
-
-doric
-
-73691	
+73670	attic/epic
+73675	doric
+73680	epic
+73682	doric
 73693	doric/aeolic
-
 73696	attic/epic/doric
-
-73699	
-73702	
 73705	doric
-
-73708	
-73710	
-
+73708	doric
 73713	epic
-
-
-73717	
-73720	
-ionic
-doric/aeolic
+73722	doric/aeolic
 attic/epic
-73725	
-doric/aeolic
-73731	
-attic/epic/doric/ionic
+73726	doric/aeolic
+73732	attic/epic/doric/ionic
 73734	doric/aeolic
-epic/doric/ionic/aeolic
-
-73739	
-73742	
-73745	
-
-
-
 73754	attic
-73758	
-
 73761	attic/epic/doric
-
-
 73765	attic
-73767	
-73769	
-73771	
-73774	
-73777	
 73779	epic/ionic/attic/doric
-
-
+73781	doric
 attic/epic/doric
-73784	
-attic/ionic/epic/doric
+73785	attic/ionic/epic/doric
 73787	doric/aeolic
 73789	epic/doric
-
-73792	
-
-epic/doric/ionic/aeolic
-73797	
-73799	
-attic/epic/doric
-
+73794	epic/doric/ionic/aeolic
+73800	attic/epic/doric
+doric
 73803	doric/aeolic
-
 73808	attic/epic/ionic
 73811	epic/doric/aeolic
-
 73814	attic
 epic/ionic/attic
-
-
+73817	doric
 epic
 attic
-
-attic
-73829	
-73832	
-
+73821	attic
 73835	attic/epic/doric
 73837	attic/epic
-73840	
 73842	doric/aeolic
-73845	
-
-73848	
-
-ionic
-73855	
-73857	
-
-attic/epic
-73862	
+73859	attic/epic
 73864	doric
 epic
 73867	epic/doric
-
-73870	
-
-73873	
-
-
 73877	attic/ionic/epic/doric
 73882	attic/epic/ionic
 73885	doric/aeolic
-73887	
-
-
-
-73892	
-73894	
-73896	
-
-
-doric/aeolic
-73902	
-
-73905	
-
-73908	
-
+73899	doric/aeolic
 73911	doric
 73913	epic/doric
-73915	
-
-ionic/attic/epic/doric
+73917	ionic/attic/epic/doric
 doric/aeolic
 73920	attic/epic/ionic
 doric/aeolic
 ionic/doric/aeolic
 epic/doric
-73925	
-
-73928	
 73931	attic
-
-attic/epic
-
-73937	
-
+73933	attic/epic
 73941	attic/epic/doric
-73947	
-73950	
-
-73957	
-73959	
-
+73951	attic/epic/doric
 73962	doric
-
-ionic
-73967	epic/doric/ionic/aeolic
-
-doric/laconia
-
-
-attic/epic
+73969	doric/laconia
+73972	attic/epic
 doric/aeolic
-ionic
-73977	
-73983	
-
-ionic
+73977	doric
 73987	doric/aeolic
-73989	ionic
-73992	ionic
+73993	doric/aeolic
+73995	doric/aeolic
 doric/aeolic
-
-doric/aeolic
-doric/aeolic
-
-
+73999	attic/epic/doric
 attic/epic/doric
-attic/epic/doric
-
-attic/ionic
-74004	
-
-
-doric
+74002	attic/ionic
+74005	epic
+74007	doric
 attic/epic
-
-74011	ionic
 74013	doric/aeolic
 attic
-
-74018	
 74020	doric/aeolic
-74023	
 74027	attic/epic
-
-ionic
-
-74036	
-ionic
 74039	doric/aeolic
-74042	
-74046	
-ionic
-doric/aeolic
-74051	ionic
-doric/aeolic
+74048	doric/aeolic
+74052	doric/aeolic
 74054	doric/aeolic
-74056	
 74058	attic
-
-ionic
 74062	epic
-
 74070	doric/aeolic
-
-
-attic/ionic/epic/doric
-
-74077	
-74079	
-
+74073	attic/ionic/epic/doric
 74083	doric/aeolic
-74085	
-74088	
-
-
-74092	
-epic/doric/ionic/aeolic
-doric
-74096	
-74098	
-
-74102	
-doric/aeolic
-
-
-attic/epic
-
-attic/epic
-
-
-
-74118	
+74094	doric
+74103	doric/aeolic
+74106	attic/epic
+74108	attic/epic
 74120	attic/epic
 74123	attic/epic
 doric/aeolic
-74127	
 74131	doric/aeolic
-74133	
-
-
-
-74142	ionic
-74144	
-attic
-74148	
-74152	
-74154	
-
-74157	
+74145	attic
+74157	doric
 attic/epic
 74161	attic/epic/doric
 74163	doric/ionic
-
 74167	epic/ionic/attic/doric
 doric/aeolic
-74170	attic/epic/ionic
-74175	ionic
 74177	ionic
-
-74180	
-74182	
-
-74185	
-
-74188	
-
-
+74188	doric
 74192	attic/ionic/epic/doric
-74194	
-
 74197	doric
-
-
-74202	
-74205	
-
-attic/epic
+74207	attic/epic
 74210	attic/epic/doric
-
-74214	
-
-
-
-
-74221	
-74223	attic/epic/doric
-
-attic
-epic/ionic/attic
-74228	
-74232	doric
-
-
-74240	
-
-74243	
-
-
 doric
-
-
-74250	
+74217	doric
+74223	attic/epic/doric
+74225	attic
+epic/ionic/attic
+74232	doric
+74246	doric
+74250	epic
 attic
-74253	
-
-
-doric/aeolic
+74256	doric/aeolic
 74259	attic
-74262	
-74264	
-74268	
-
-74273	
 74276	attic
 74279	epic
-74281	
-
-74284	
-
-attic/ionic
-
-doric/aeolic
+74282	doric
+74286	attic/ionic
+74288	doric/aeolic
 ionic/doric/aeolic
-
-74293	
-
-74296	
-
-
-
-74302	
-
-
-74306	
-
-
-74311	
-
-doric/aeolic
-
-74316	
-attic
-
-attic
-
-74323	
-
-74328	
-74332	
-doric/aeolic
+74313	doric/aeolic
+epic
+74317	attic
+74319	attic
+74333	doric/aeolic
 74336	attic/epic/doric
-
-attic/ionic/epic/doric
-
-74341	
-74344	
-74348	
-
+74338	attic/ionic/epic/doric
 74352	attic/ionic
 74354	doric
-74356	
-74359	
-
-
-doric
-74364	
-
-74369	
+74362	doric
 74372	attic/epic
-74374	
-74376	
-attic/epic/doric
-
-epic/ionic/attic/doric
-
-
-74384	
-
-
-74388	
-74390	
+74377	attic/epic/doric
+74379	epic/ionic/attic/doric
 74393	doric/aeolic
-74395	
-
-74398	
-74400	
-74403	
-
-
-74407	
-
-74410	
-74412	
-
-doric/aeolic
-74417	
+74403	attic
+74414	doric/aeolic
 74419	doric/aeolic
-
-74423	
-
-attic/epic/doric
-
-
+74425	attic/epic/doric
 74431	attic/epic/doric
-
-
-attic/epic/doric
-74436	
-
+74434	attic/epic/doric
 74439	attic/epic/doric/ionic
-
-74442	
-doric/aeolic
-
-
-attic
-74448	
-74450	
-74454	
+74443	doric/aeolic
+74446	attic
 74458	attic
-74460	
-74462	
-epic/ionic
-
-
-74470	
-
-74474	
-
-74478	
-74485	
-attic/epic/ionic
-
-
-
-attic/epic/ionic
-
-
-
-ionic
-doric/aeolic
-
-attic/epic
+74463	epic/ionic
+74486	attic/epic/ionic
+74490	attic/epic/ionic
+74495	doric/aeolic
+74497	attic/epic
 74500	doric/aeolic
 doric/aeolic
 74503	attic/epic/doric
-74506	
-attic/epic/ionic
-74509	
-74513	
-74515	
-
-74519	
-74523	
+74507	attic/epic/ionic
+74513	epic
 74525	doric/aeolic
 74527	doric
 74529	doric
-74532	
-74537	
-doric
-
-
+74538	doric
 74542	epic/doric
 epic/ionic/attic/doric
-
-doric/aeolic
+74545	doric/aeolic
 doric/aeolic
 epic/doric
-74549	
-
 74552	attic
-74555	
-attic/epic/ionic
-
+74556	attic/epic/ionic
 74559	epic/doric
-
-74563	
-doric/aeolic
+74564	doric/aeolic
 74569	doric/aeolic
 doric/aeolic
-
-
-attic
+74573	attic
 74575	attic
-
-
-attic
-
+74578	attic
 74582	doric/aeolic
-74584	
-74587	
+74587	epic
 epic/ionic/attic
-
-
-
 74594	attic/epic
 74596	attic/epic
-
 74599	attic
-74601	
 74603	doric
-
-
-74607	
-
-74614	
-74616	
-
-
-attic/epic/doric
+74619	attic/epic/doric
 74622	epic
-
-
-74628	
-ionic
+74630	doric/aeolic
+74643	attic/ionic
 doric/aeolic
-74641	
-
-attic/ionic
-doric/aeolic
-
-74647	
+doric
 74650	doric/aeolic
-74652	
+74652	epic
 epic/ionic/attic
 74665	doric
-
-
-
 74676	doric/aeolic
-
-
-
-74683	
-74685	
-
 74689	attic
-
-
-74693	
-doric/aeolic
-
+74694	doric/aeolic
 74697	doric/aeolic
 74700	doric/aeolic
-74704	
-74706	
-
+74706	attic/epic/ionic
 74712	attic
-
-
-epic
+74715	epic
 doric/aeolic
 74722	attic/epic/ionic
 74724	attic/epic/doric
-
-74728	
-74730	
-74732	
-
-
-74736	
-
-
-ionic
 74741	epic
-
-74749	
-74752	
-74754	
+74754	doric
 doric/aeolic
-
-74758	
-
-ionic
-
-74764	
-
-
-74768	
 74770	attic
-
-
-
-
-
 74778	doric
 74780	doric
-
-doric/aeolic
-
-attic/ionic/epic/doric
-74787	ionic
-74790	ionic
-doric/aeolic
+74782	doric/aeolic
+74784	attic/ionic/epic/doric
+74791	doric/aeolic
 74793	attic/epic/doric
 attic/epic/ionic
-
-epic/doric/aeolic
-
+74796	epic/doric/aeolic
+attic/epic
 74800	epic
-74802	
-attic/epic/ionic
-74809	
-
-
-74815	
-74818	
-74820	
-
-74824	
-74827	
-74832	
-74835	
-74839	
-attic/epic/ionic
-
-74843	
-
-
-74847	
-doric/aeolic
+74803	attic/epic/ionic
+74827	epic
+74840	attic/epic/ionic
+74848	doric/aeolic
 attic/epic
-74851	
-epic/doric
-
-74855	
-
-
-
-
-74861	
-
-
-
-
+74852	epic/doric
 74868	doric/aeolic
-74870	
-attic/ionic
-74873	
-attic/epic
+74871	attic/ionic
+74874	attic/epic
 74877	doric
-
 74881	doric
 74884	doric/aeolic
-74886	
-attic
-
-74890	
-74893	
-
-
-74898	
+74887	attic
 74900	doric
-
-ionic
 74904	doric/aeolic
-74907	
-
 74912	attic
 74916	doric
-
-ionic
-74922	
+74922	epic
 74924	attic/epic
-74929	
-epic/doric/aeolic
+74930	epic/doric/aeolic
 74933	attic/epic/doric
-74936	
-epic
-ionic
-doric
-
-attic
-
+74937	epic
+74939	doric
+74941	attic
 74946	epic
 epic/doric/ionic/aeolic
-74950	ionic
-doric
-
-
-
-
-
-74960	
-74962	
-74965	ionic
-74967	
+74951	doric
 74969	attic/epic/ionic
-ionic
-doric/aeolic
-
-74974	ionic
-
+74971	doric/aeolic
 74978	attic/epic/ionic
-74981	
-epic/doric/ionic/aeolic
-
-
-74986	
-
-
-attic/ionic
+74982	epic/doric/ionic/aeolic
+74984	epic
+74989	attic/ionic
 74991	doric/aeolic
-
-
-
-
-
-74999	
-75002	
-75004	attic/epic/doric
-75009	
-75015	
-75018	
-
-75024	
+74994	doric
+74999	attic/epic/doric
 75026	doric/*theocr.
-
-
-
 75031	ionic/doric/aeolic
-75035	
-75037	
-75041	
-ionic
+75042	ionic
 75045	attic/epic/doric/ionic
-
 75049	attic/epic/ionic
 attic/epic
-
-75054	ionic
-75057	
-
 75060	doric/aeolic
-
-75064	
-
-ionic
-75070	
-doric
-75073	
-attic/ionic
+75071	doric
+75074	attic/ionic
 attic
 75077	doric/aeolic
-75081	
 75083	attic/epic/ionic
 75085	attic/epic/doric
 attic/epic
 75089	attic
 epic/doric
 attic/epic/doric/ionic
-75093	
-epic
-
-attic
-
-attic
-
-epic
+75094	epic
+75096	attic
+75098	attic
+75100	epic
 75102	epic
 doric
-
-
 75108	epic/ionic/attic/doric
-
+75110	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-75116	
-attic/epic
-75119	
-
-
-
+75117	attic/epic
 75124	attic
-
-75130	
-75132	
-
-75136	
-
-75139	
-
-
-75144	
-
-75151	
-75153	ionic
 75155	doric/aeolic
-
-75158	
 75163	attic/epic/doric
 epic/ionic
-75166	
-epic
+75167	epic
 attic/epic/doric/ionic
-
 75172	attic/epic/doric
 75175	epic
 doric/aeolic
-
-
 75180	attic
-75182	ionic
 75184	attic/epic/doric
 attic/epic/doric/ionic
-75187	
-
-75191	
-75193	
-attic/epic/doric
-
-
-
-75199	
+75194	attic/epic/doric
 75201	doric/aeolic
-75204	
-
-
-ionic
 75210	attic/epic
-75212	attic/epic/doric
+75212	doric
 75216	doric/aeolic
-75218	
-doric
-75221	ionic
+75219	doric
 75223	doric
-75228	
-
-ionic
-75233	
-75236	
-75239	
 75241	attic/epic/doric
-75243	
-75246	
-
-
-75256	
 75258	attic
-75263	
-doric/aeolic
-
-75268	
-
-doric/aeolic
-75274	
+75264	doric/aeolic
+attic/epic/ionic
+75270	doric/aeolic
 75277	attic/epic/doric
 doric/aeolic
 doric/aeolic
 doric/aeolic
-75282	
 75285	doric/aeolic
 75288	attic/epic/doric
-75292	
-75297	
-
-75300	
-
-
-75307	
-75309	
 75314	epic
 attic/epic
-75318	
-75322	
-75324	
-
+75322	attic/epic/doric
 75327	attic/epic
-75329	
-75331	
 75333	epic/ionic
-
-
-75337	
-75343	
-ionic
-
-75348	
+75344	ionic
 75351	attic
-
-
-attic/epic/ionic
-75356	
-
-
-
-75363	
-attic/epic/ionic
-
-
-75370	
-
-
-75377	
-
-75382	
-75384	ionic
+75364	attic/epic/ionic
+75382	doric
 75388	doric/aeolic
 75390	attic
 75393	attic/epic
-
-
-75398	
-
-attic/epic/doric
-75402	
-
-
-75406	
-epic
-75410	
+75400	attic/epic/doric
+75407	epic
 75413	doric
-75418	
-75420	
-attic/epic/doric
-
-
-75427	
-
-
-
-75437	
-
-75440	
-75444	ionic
-75449	
-epic
-
+75421	attic/epic/doric
+75450	epic
 75453	doric/aeolic
-75456	
 75461	attic/epic/doric
-
-
-
-75466	
-75470	
-
-epic
-75479	
-75481	
-75486	
-75488	
-
+75472	epic
 75492	doric
-75500	
-75503	
 75506	doric
-
-ionic
 75511	epic/doric/aeolic
-
-
-
-
 75519	attic/epic
-75521	
-75525	
 75527	doric/aeolic
-
-
-
-
-attic/epic/doric
-75536	
-75538	
-attic/epic
-75543	
-
-75546	
-75549	
-
-
-
-
-attic/epic/doric
-
-doric
+75532	attic/epic/doric
+75539	attic/epic
+75554	attic/epic/doric
+75556	doric
 75558	doric
-
-
-
 75564	attic/epic
 75567	attic/epic
-
-
-
-
+75570	doric
 75575	doric
-
-
-
-
-doric/aeolic
-75583	
-attic/epic/doric
-75587	
+doric
+75580	doric/aeolic
+75584	attic/epic/doric
 75589	attic/epic/ionic
-
-
 75594	attic/epic/doric
-75598	
-
-
 75602	attic/epic/doric
-75605	ionic
-75607	
-
-75612	
-75615	
-75617	
 75619	epic/doric/aeolic
 doric/aeolic
-
-
 75624	attic/epic
-
 75629	epic
 75632	doric
-75637	
 75640	epic
-75642	
-
 75652	epic/doric/aeolic
-75654	
-75658	
-
-attic
-75663	
-
-
-75667	
+75660	attic
 75670	epic/doric/ionic/aeolic
-
+epic
 75673	doric/aeolic
-75675	
-75679	
-ionic
-doric/aeolic
-75684	ionic
-75687	
-
+75675	doric
+75681	doric/aeolic
 75692	doric/aeolic
-75694	
-
-epic/ionic
+75696	epic/ionic
 75698	ionic
-75701	
-attic/epic/ionic
-
+75702	doric/aeolic
 75706	doric
 75708	doric/aeolic
 doric/aeolic
-
-75712	
-75717	
-
-75721	
 75723	doric
-
-
 75727	doric
-
-
-
-75733	
-
-75736	
-attic/epic/doric
-
-75740	
-
-
-epic/ionic/doric/aeolic
-
-attic
-75747	
+75737	attic/epic/doric
+75743	epic/ionic/doric/aeolic
+75745	attic
 75749	attic
-
-
-attic/epic/doric/ionic
+75752	attic/epic/doric/ionic
 75758	epic/doric/ionic/aeolic
-75760	
-75763	
-
-75767	
-
+75767	doric
 75770	doric/aeolic
-75772	
-
-
-
-75777	
-75779	
-
-75785	
-
-
-75793	
-75797	
-
-
-
-75804	
+75772	doric
+75774	doric
+75779	attic/epic
+75786	doric
 75807	attic
 75810	attic
-75815	
-
-
-75819	
-doric
-75823	
-75826	
-
-epic/ionic
+75820	doric
+75828	epic/ionic
 75830	attic/epic/doric
-75835	
-
-
-
-
+75839	attic/epic/ionic
 doric
 75844	doric
-75847	
-
-75850	
-attic/epic/doric
-
-
+75851	attic/epic/doric
 75855	doric
-
-
-
-75860	
+75858	attic
 75863	attic/epic
-
-75866	
-
-attic/epic
+75868	attic/epic
 epic
-75871	
 75876	doric
-75880	
-
-75883	
-
-
-
-
-75889	
-
+75891	doric/aeolic
+75903	doric/aeolic
 doric/aeolic
-75893	
-
-
-75898	
-75900	
-75902	ionic
-doric/aeolic
-doric/aeolic
-
-
-75909	
-
-
-75913	
-75917	
-attic/epic/doric
-
-ionic
-75922	
-attic/epic/doric
-
-attic/epic
-
-
-75929	
-
-75934	
-
-attic
-
-
-75941	
-
-
-
+75918	attic/epic/doric
+75923	attic/epic/doric
+75925	attic/epic
+75936	attic
 75946	epic/doric
 attic/epic/doric
 75951	attic/epic/doric
-
 75954	epic/doric
-
-75958	
 75961	doric/aeolic
 doric/aeolic
-
 75966	attic/epic
 75968	attic/epic/doric
-
-doric
-
-75973	
-
-75978	
-
-
-
-75983	
+75970	doric
 75985	attic/epic/ionic
-
-
-
-
 75991	epic
 attic/epic/doric/ionic
-ionic
-
-doric
-
+75995	doric
 75998	epic/doric/ionic/aeolic
-
 76001	epic/doric
-
+epic/doric/ionic/aeolic
 attic/epic/ionic
-76007	
-
-attic/ionic/epic/doric
-
-
-
-
-76015	
-attic/epic/doric
-
+76009	attic/ionic/epic/doric
+doric
+76016	attic/epic/doric
 76019	epic/ionic/attic
 76021	attic/epic/ionic
-
-76024	
 76026	doric/aeolic
 doric/aeolic
-76029	
-
-76033	
-
-
-76043	
-doric/aeolic
-
-
-76048	
-
-
-
+76044	doric/aeolic
 76053	attic/epic/ionic
 76055	attic/epic/doric
-76058	
 76060	doric
-
 76063	epic/doric
-
 76066	attic
 76074	attic
-
-
-
-76079	
-
-attic/epic
-
-
+76081	attic/epic
 76085	doric
-76088	
 76090	epic
 76092	attic/ionic
 76096	doric
 76098	doric/aeolic
 attic/epic/doric
-
-76102	
-76104	
 76109	attic/epic/doric
 76112	doric
-
-
-
-attic/epic/doric
+76116	attic/epic/doric
 76118	attic/epic
-
-76121	
-
 76126	attic/epic/ionic
-attic/epic/ionic
-
-76130	
-
 76134	doric
-
-
-76138	
-
 76141	epic/ionic
 epic
-
-
-76149	
-76151	
-
-
-
-doric
-76159	
-76161	
-76164	
-
+76155	doric
 76172	attic/epic/doric
-
-
-
-
-76178	
-
-
-
-ionic
-76185	
-
-
 76189	doric/aeolic
-
-attic/epic
-
-
-
-
-76197	
-76201	
-
-76210	
+76191	attic/epic
+76193	doric
+76202	epic
 76212	attic/epic/ionic
-
-
-76216	
-76218	
-76222	
+76216	epic
 76225	doric/aeolic
 76227	attic/epic/doric
-
-doric
-
-76232	
-
-epic/ionic
-
-
+76229	doric
+76234	epic/ionic
 76238	epic
-
-76243	
-76245	
-
-76248	
-
-
-
-76253	
+doric
+76250	doric
 76256	attic/epic
-
-
 76262	attic/epic/doric
-76265	
-76267	
-76269	
 76271	attic/epic/doric
-
-
-76275	
-76279	
-epic/doric
-
+76280	epic/doric
 76284	epic/doric
 76286	attic/epic/doric
-
-attic
-76290	ionic
-
-doric/aeolic
+76288	attic
+76292	doric/aeolic
 epic
 76295	epic
-76297	
-ionic
-doric/aeolic
-
-76302	
-
-76306	
-
-
-
-epic/doric/aeolic
+76299	doric/aeolic
+76310	epic/doric/aeolic
 attic/epic/doric
-
-epic/ionic
-76316	
+76313	epic/ionic
 76319	attic/epic
-
-
-
-attic/epic
-76325	
-76328	
-
-76331	
-76334	
-76336	
-
-
+76323	attic/epic
 76342	attic/epic
-76344	
+76344	attic/epic/ionic
 attic
 doric/aeolic
 attic/epic/doric/ionic
-76349	
 76352	attic/epic/doric
-
-
-
 76358	epic
-
-attic
-
-
-76364	
-76368	
-
-attic/ionic
-
-76376	
-76379	
-
+76360	attic
+76370	attic/ionic
 76383	attic
-
 76387	epic/ionic/attic
 76390	ionic/doric/aeolic
-
-76393	
-attic/epic/doric
+76394	attic/epic/doric
 attic/epic
-76398	
-76400	
-76403	
-
-
-76407	
-attic/epic
-76411	
-76414	
+76408	attic/epic
 76417	attic
-76422	
-
-
-76428	
 76430	epic/doric/aeolic
-76432	
-
-76435	
-
-attic/epic/doric
-
-76440	
-
-epic/doric
-
-76447	
-epic/ionic/attic
-76452	
-attic
+76437	attic/epic/doric
+76440	attic
+76442	epic/doric
+76448	epic/ionic/attic
+76453	attic
 76455	epic/doric
 76458	attic/epic/ionic
 attic/epic/doric
-76461	
-76467	
-attic
-76476	
-
-attic
+76468	attic
+76478	attic
 76483	attic/epic
-76486	
-76490	
+76491	doric/aeolic
 doric/aeolic
-doric/aeolic
-76495	
-76497	ionic
 76499	doric
-76501	
-
 76505	doric/aeolic
-76507	
-76513	
-
-76516	ionic
-
+76518	epic
 epic
-epic
-
-76524	ionic
-76527	
 76529	attic/epic/doric
-
-76532	
-
-
-76536	
-
-
-doric/aeolic
-
-76542	
-76544	
+76539	doric/aeolic
 76546	epic/doric
 attic
-
-76550	
-
-76553	
-76556	ionic
-doric/aeolic
+76557	doric/aeolic
 epic
 76562	doric/aeolic
-76564	ionic
-doric/aeolic
-76567	
-76569	
-
-76572	doric/aeolic
+76565	doric/aeolic
+76572	doric
 76575	doric/aeolic
 76577	doric
 76581	epic/doric/aeolic
-76584	
-doric/aeolic
+76585	doric/aeolic
 76587	epic
 attic/epic
-
 76592	attic/ionic/epic/doric
-ionic
-
-
-
-
-76599	
+76596	doric/ionic
 76601	epic/doric/aeolic
-76604	
+76605	attic
+76609	attic/epic
+76617	attic
 attic
-
-76608	
-attic/epic
-76614	doric
-
-
-attic
-attic
-
-
-76623	
-76625	
-
-76628	
-
-epic/ionic
-76633	
+76625	doric
+76630	epic/ionic
 76636	doric/aeolic
-76640	
-
-76644	
-attic
-
-76649	
-76651	ionic
+76645	attic
 76653	ionic/doric/aeolic
-
-
-76659	
-ionic
-76668	
-76670	
-doric/aeolic
+76660	ionic
+76668	epic
+76671	doric
 76674	attic/epic/doric
-76676	
-
-
-
-attic/epic/doric
-76683	
-76687	
-attic/epic
+76678	epic
+76680	attic/epic/doric
+76688	attic/epic
 76690	doric/aeolic
-76692	
-76695	
-
-
-doric/aeolic
-76700	ionic
-
-76704	
-epic/doric/aeolic
-
-
-76710	
-76712	
-76715	
-76721	
-76723	
-76726	
-
-ionic
-
-76732	
+76698	doric/aeolic
+76705	epic/doric/aeolic
+76707	doric
+76727	doric
 76734	epic/ionic
-ionic
-76737	
-76739	
-76742	
-76745	
-attic/epic
-76748	
-ionic
-76751	
-76754	
-76758	ionic
-76764	ionic
+76746	attic/epic
 76766	doric/aeolic
 attic
-
-attic
-76772	
-attic
-76775	
-
-76780	
+76769	attic
+76773	attic
 76783	attic/epic/doric
-
+doric
 ionic
-76787	
-doric/aeolic
-76790	
-76794	
-76797	ionic
-76801	
-
-attic/epic
-
-76806	
-
-76809	
-attic
-
-
+76788	doric/aeolic
+76803	attic/epic
+76810	attic
 76814	doric
 76817	attic/epic/doric
-76820	
-epic/ionic/doric/laconia
-attic
+76822	attic
 76824	doric
-76826	
-
 76829	epic/doric/aeolic
 76831	doric
-
-
-
-doric
-
-76840	
-doric/aeolic
+76835	doric
+76841	doric/aeolic
 76846	attic/epic/doric
 76848	doric
-
 76852	attic
-
-76855	
+76855	doric
 76858	attic/epic
-
-
-doric/aeolic
 doric
-
+76861	doric/aeolic
+doric
 76865	epic/ionic/attic/doric
-
-
-doric
-76872	
-76874	
-76876	
-attic
-76879	
-76881	
-
-76884	
-76886	
-doric/aeolic
-76889	
-
-76892	
-
-
+epic
+76868	doric
+76877	attic
+76887	doric/aeolic
+76890	doric
 76897	doric
-76899	
-
-
-76904	
-76907	
-76909	
-
 76912	doric/aeolic
 attic
-
-attic
-
-
-epic/doric
-76921	
-76923	
-doric/aeolic
-76926	
-
+76915	attic
+76918	epic/doric
+76924	doric/aeolic
 76929	ionic
-
-
-76933	
-epic
-76939	
-
-
+76934	epic
 76944	ionic
 76948	doric/aeolic
 76951	doric
-
-76955	
-76959	
 76961	epic/doric/aeolic
-76965	
-attic/epic/ionic
-
-
-76970	
+76966	attic/epic/ionic
 76972	doric
-76976	
+76977	attic
 attic
-attic
-
-76983	
-attic/epic/ionic
-attic/epic/doric
-
+76985	attic/epic/doric
+doric
 76990	epic
-76992	
 76994	epic
-76996	
 77002	doric/aeolic
 attic
-
-attic
-77007	
-
-77010	
-attic/epic/doric
-77013	
-doric/aeolic
+77005	attic
+77007	doric
+77011	attic/epic/doric
+77014	doric/aeolic
 attic/epic
-
-
-77019	
-
-77022	
 77024	doric/aeolic
-77026	
-epic/ionic/doric/laconia
 77031	doric/aeolic
 doric/aeolic
-
-77035	
-77040	
-
-attic
-
-
-77048	
-
-77052	
-
-
-77056	
-attic/epic
+77042	attic
+77057	attic/epic
 77061	doric
 77063	ionic/doric/aeolic
-77065	ionic
-77067	
-
-
-77073	
+77073	attic/epic
 attic/epic
 77077	attic/epic/ionic
 attic/epic/doric
-
-77081	ionic
 77083	doric
-77085	
-epic/ionic/attic/doric
-
-77090	
-77094	ionic
+77086	epic/ionic/attic/doric
 77096	doric
-77099	
-77101	
-77104	
-77106	
-77108	
-
-77111	
 77114	attic/epic/doric
 doric
 attic/epic
-77121	
 77123	doric/aeolic
 77125	attic/epic/ionic
-77128	
-
-
-epic/doric/aeolic
-
-77134	
-
-
-77139	
-
-
-attic
+77131	epic/doric/aeolic
+77142	attic
 77145	attic/epic
-77147	
-
-
-
-
-doric/aeolic
-77154	attic/epic/ionic
-77156	
-
-77160	
-77162	
-77164	
-
-
-epic
+77152	doric/aeolic
+77154	doric/aeolic
+77167	epic
 epic/doric/ionic/aeolic
-
-
+77170	epic
 doric
-77173	
-
-77177	
-attic
-77181	ionic
+77178	attic
 77184	doric/aeolic
-77189	
-77191	
-ionic
-77196	
+77196	doric
 77198	attic/epic
 77203	attic/epic/ionic
-
-
-77207	
-attic/epic
-77214	
-
-
-
-attic/epic/ionic
-
-77221	
-77224	
-epic/doric/ionic/aeolic
-77228	
-
-77231	ionic
-77234	
-
-77237	
-77245	ionic
-77247	
-
-
-77251	
-doric/aeolic
+77208	attic/epic
+77218	attic/epic/ionic
+77225	epic/doric/ionic/aeolic
+77229	doric
+77252	doric/aeolic
 doric
-77256	
-
-77259	
-attic/epic/doric
+77260	attic/epic/doric
 77264	attic/epic/doric
-
-77268	ionic
-77271	
-77275	
-
-epic/doric/aeolic
-77279	
-
-77283	
-attic
-
-77287	
-77290	
+77277	epic/doric/aeolic
+77284	attic
 77292	attic
 attic
-77295	
-
-77298	
-
-
-77302	
-
-77305	
 77307	attic/epic
 attic/epic
-
-77312	
 77315	doric/aeolic
 77317	epic
-
-77320	
-
-doric/aeolic
+77322	doric/aeolic
 77325	attic/epic/ionic
-
-77328	
-
-77331	
-epic
+77332	epic
 77335	epic
 77337	doric/laconia
-
-77341	
-77343	
-ionic
-77346	
-77348	
-doric
+77344	ionic
+77349	doric
 77354	attic
 77356	doric/aeolic
 77358	attic
 77360	attic/epic/doric/ionic/aeolic
 77362	epic/doric
-77367	
 77372	attic/epic/ionic
-77379	
-
-
-77384	
-77386	
-
-
-doric/aeolic
+77389	doric/aeolic
 epic
-77392	
 77398	epic
-
-
-
-77403	
-doric/aeolic
+77404	doric/aeolic
 attic/epic
-
-
-
-
-
-77413	
-attic/epic
-77416	
-77420	
-77422	
-
-
-epic
-77428	
+77414	attic/epic
+77425	epic
 77430	doric
-77433	
-
-epic/doric
+77435	epic/doric
 77437	doric/aeolic
-
 77444	doric/aeolic
-
 77448	epic/doric/aeolic
-77450	
-77452	
-77454	ionic
-doric
-77458	
-doric/aeolic
-
-77462	
-77464	
-77466	
-ionic
-77470	
-
-
-attic/epic
-77476	
-
-
-
-doric
-77482	ionic
+77455	doric
+77459	doric/aeolic
+77471	doric
+77473	attic/epic
+77480	doric
 77484	doric
 77487	attic
-77489	
-
-
-77493	
+77489	epic
 77495	ionic
-77497	
-77499	
-77501	
-77503	
-77509	
-77511	
-77515	
-
-
-77522	
+77523	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-77527	
-
-77533	ionic
-77537	
 77541	doric/aeolic
-
-
-77545	
-77547	
-77549	
-
-
-77553	
-77555	
-
-
-
-
-doric/laconia
-
-
-77565	
-
-doric/aeolic
-77569	
-doric/aeolic
-
-attic/epic
+77560	doric/laconia
+77562	doric
+77567	doric/aeolic
+77570	doric/aeolic
+77572	attic/epic
 epic
-attic/epic/doric
-
-
-
-77579	
-
-77583	
-77587	
-ionic
-
-attic
-77592	
-
-
-
-attic
-
-epic
-
-attic
-77602	
-77604	
-
-epic
-77608	
+77575	epic
+77588	ionic
+77590	attic
+77596	attic
+77598	epic
+77600	attic
+77606	epic
 77610	epic
-
-77614	
-
+77615	attic/epic/ionic
 epic/ionic
-
 77619	doric/aeolic
-
-
-
 77624	epic
-77627	
-77633	
-
-
-77637	
-77639	
-
-77644	
-77647	
-doric/aeolic
-77652	
-77655	
-
-77658	
+77634	doric
 77667	epic/doric/aeolic
-
-77671	
 77674	attic
-ionic
-77677	
-77681	ionic
-77685	
-attic/epic/ionic
-77689	
-
-77692	
-77694	ionic
-77696	
-77700	ionic
-77704	
-77706	
-77708	
-77710	
-doric/aeolic
-
-
-
-
-
-77719	
-
-epic/doric
-
+77686	attic/epic/ionic
+77711	doric/aeolic
+77721	epic/doric
 77724	doric
 77726	attic/epic/ionic
-77728	ionic
-77730	
 77734	epic
-ionic
-
-77741	
-
-77747	
-
-77750	
-
-attic/epic/ionic
-
+77752	attic/epic/ionic
 77755	doric/*theocr.
 epic/doric/aeolic
-ionic
 77759	doric
-
 77762	epic/doric
-77764	
 77768	attic/epic
-
-
-attic/epic/ionic
-77774	
-77777	
-
-77780	
-77783	
-
-
-77787	
-
-
-attic
-
-
-doric
-77795	
-epic/doric
-
+77771	doric/aeolic
+77790	attic
+77793	doric
+77796	epic/doric
 77802	attic/epic/doric
-
-77807	ionic
-
-doric/aeolic
-77812	ionic
-77814	
-
+doric
+77809	doric/aeolic
 77819	attic/epic/doric
 77821	attic/epic/doric
 attic/epic
-77825	ionic
-77827	
-
-77830	
-
-
-doric
-
-
-77839	
-
+77833	doric
 77842	epic
-77844	
-
-
 77848	attic
 77850	attic/epic/doric
 77853	epic/ionic/attic
-
-77856	
-doric/aeolic
-77859	
-doric
-77863	
+77857	doric/aeolic
+77860	doric
 77866	doric/aeolic
-77868	
-
-attic
-
-attic
+77870	attic
+77872	attic
 77875	doric/laconia
-77877	
-attic
-
+77878	attic
 77882	attic/epic/doric
 attic/epic/doric
 doric/aeolic
-
-77890	
-77893	
-77895	
 77898	doric/aeolic
 77900	epic
 doric
-
-
-77905	
-
-77908	
-
-attic
-77913	
-77915	
-attic
-
-
-
+77910	attic
+77916	attic
+77919	attic/epic/ionic
 77922	attic
-
-doric
-
-
+77924	doric
 77929	attic/epic
-
-
 77933	epic/doric
-77937	
-
-
 77942	doric/aeolic
 attic
-
-77946	
-
+77947	epic
 attic
 77950	attic
-
-attic/epic/doric
+77952	attic/epic/doric
 doric/aeolic
-
-77956	
-77959	
-
-attic/epic
-ionic
-epic/doric
-
+77961	attic/epic
+77963	epic/doric
 77966	attic
-
-77969	
-epic/doric
-
-77975	
-attic
+77970	epic/doric
+77976	attic
 doric
 77979	epic/doric/aeolic
-doric
-
-77983	
-77985	
-doric/aeolic
+77986	doric/aeolic
 77989	doric
-
-
-
-
-77995	
-
-77998	
 78001	epic/doric
 attic/epic
-
 78005	attic/epic
-
-78008	
-
-attic/epic
-78012	
+78010	attic/epic
 78016	doric/aeolic
-
-78020	attic/epic/ionic
-78022	
-
-
 78029	ionic
-
-78033	
 78036	attic/epic/doric/ionic
-78038	
-
-
 78042	doric/aeolic
-
 78045	doric
-
 78049	attic/epic
-78051	
-attic/epic/doric
-78054	
-
-doric
+78052	attic/epic/doric
+78054	doric
+78056	doric
 attic
-
-attic
-
-78062	
-
-78065	
-78067	
-78070	
-
-attic/epic/doric/ionic
-
-
-
-
-attic/epic/ionic
-
-78087	
+78059	attic
+78072	attic/epic/doric/ionic
 78090	attic
-78092	
-78096	
-attic/epic
-
-78101	
+78097	attic/epic
 78103	epic
-78106	
-78108	
-78111	ionic
-78114	
-78117	
-
-78121	
-78124	ionic
-78126	
-
-78129	doric/aeolic
-ionic
-78132	
-78134	ionic
-
-78139	
-ionic
-attic/epic
+78129	doric
+78141	attic/epic
 doric/aeolic
-
-doric/aeolic
-78147	
-78151	
-78153	ionic
-doric
-78157	ionic
-
+78144	doric/aeolic
+78154	doric
 78163	epic/doric/aeolic
-
 78170	epic/doric/aeolic
-78172	
-doric/aeolic
-
+78173	doric/aeolic
 78176	attic/epic
-78178	
-
+78179	epic
 attic
-78182	
-78184	ionic
-78186	
-78189	
-
+78191	doric/aeolic
 doric/aeolic
-doric/aeolic
-78194	
-
-
-78198	
-78201	
-
-
-78208	
-
-
-78218	ionic
-78223	
-ionic
-
-
-78231	attic
-
-doric
-78235	ionic
-78242	doric
-78245	
-
-78248	doric/laconia
-78251	ionic
-doric/aeolic
-78255	ionic
-78258	
-attic
-78262	
-
-
-78267	
-
-78270	doric/aeolic
-78273	
-attic/epic/doric/ionic
-
-78277	doric/aeolic
-
-
-
-
-78283	
-doric
-78290	
-78292	
-78295	attic
-78297	
-
-78302	doric/aeolic
-
-
-
-
-78310	
-78312	epic
-
-78315	
-78319	attic/epic/doric/ionic
-
-78322	
+78202	doric
 attic/epic/doric
+78231	attic
+78233	doric
+78242	doric
+78248	doric/laconia
+78252	doric/aeolic
+78259	attic
+78270	doric/aeolic
+78274	attic/epic/doric/ionic
+78277	doric/aeolic
+78284	doric
+78295	attic
+78302	doric/aeolic
+78312	epic
+78319	attic/epic/doric/ionic
+78323	attic/epic/doric
 78325	attic/epic/doric/ionic
-ionic
-
-78329	
-78332	
-78335	
-78337	
-doric/laconia
+78335	doric
+78338	doric/laconia
 attic
-
-78343	ionic
-78345	
-doric
-
-78349	
-attic/epic
-78354	
+78346	doric
+78350	attic/epic
 78356	ionic/doric/aeolic
 attic/epic/doric
-78359	
-
 78362	doric/aeolic
-78365	ionic
-78367	attic/doric
-
-
-attic
+78367	attic
+78370	attic
 78372	attic
-
-attic
-
-78378	
-
+78374	attic
 78381	attic
-
 78384	doric/aeolic
-78386	
 78388	doric/aeolic
 doric/aeolic
 doric/aeolic
-
-78393	ionic
-78395	
-78398	
-
-
-
-
-attic
-78409	
-
+78403	attic
 78412	attic/epic/ionic
-
-78415	
+78418	doric
 ionic
-78418	
-ionic
-
-
-78423	
 78425	attic/epic/ionic
-78427	
-78429	
-attic
-78434	
-78436	
+78430	attic
+78434	doric
 78441	doric/attic/epic
 78443	epic
-
-
-attic/ionic/epic/doric
-
-78449	
-78452	
-78454	
-
-
-78459	
-78461	
-epic/ionic
-
-
-attic/epic
-
-doric/aeolic
+78446	attic/ionic/epic/doric
+78452	epic
+78462	epic/ionic
+doric
+78465	attic/epic
+78467	doric/aeolic
 78469	epic
-
 78472	attic/epic/doric
-
 78477	doric/aeolic
 attic
-
-epic
+78480	epic
 doric
-78483	
-
-
-doric/aeolic
-78488	
-
-78491	
-
-doric/aeolic
-78496	
-
-78500	
+78486	doric/aeolic
+78493	doric/aeolic
 78505	attic/epic/doric
-
-78511	
-78515	
-
-
-
-epic
+78519	epic
 attic
-78523	
-78526	
-78530	
-
 78533	attic/ionic
-78535	
-
-attic/ionic
-78543	
-
-78546	
-
+78537	attic/ionic
 78550	doric/aeolic
 attic/epic
 78554	epic/doric
-78556	
-
-78559	
-78563	
 78565	epic
-78568	
-
-78571	
-78573	
+78568	doric
 78575	doric/aeolic
-
-
 78581	attic/epic/ionic
-
-78584	
-
-
-78589	ionic
-78591	
-
 78594	epic
-
-
-attic
-78599	
-
-
-
-
-78605	
-
-
-
-78610	
-
-
-doric/aeolic
+78597	attic
+78599	doric
+78613	doric/aeolic
 attic/epic
-
-
-78618	
-attic/epic/doric
+78619	attic/epic/doric
 doric/aeolic
-78622	
-attic/epic
-
-epic/ionic/doric/aeolic
-
+78623	attic/epic
+78625	epic/ionic/doric/aeolic
 78633	doric/aeolic
-
 78637	doric/aeolic
-
-78641	
-78643	
-
-attic
+78645	attic
 78648	attic
-
 78651	attic
-78658	
-78662	ionic
-78664	
+78658	doric
 78666	epic/doric/aeolic
-78668	
 78671	doric/aeolic
-78674	
 78676	doric/laconia
-
-
-attic/ionic
-
-
-
-
-
-ionic
-78687	
-78689	
-78692	
-
-epic/doric/ionic/aeolic
+78679	attic/ionic
+78692	doric
+78694	epic/doric/ionic/aeolic
 attic/epic/ionic
 78699	attic
 78703	attic
-78705	
-78707	
+78707	attic/epic/doric
 attic
-
 78711	epic/doric/ionic/aeolic
 doric
-
-doric/aeolic
+78714	doric/aeolic
 attic/epic/doric
-
-78718	
+doric
 78720	epic/doric/ionic/aeolic
 attic/epic
 78724	doric
-
-attic/epic/ionic
-78730	doric
+78726	attic/epic/ionic
+78730	doric/aeolic
 78732	epic/doric/aeolic
 78734	epic/doric/aeolic
 doric
-78738	
 78745	epic/doric/aeolic
-
-78750	
-78752	
-78755	
 78760	epic/doric/ionic/aeolic
-78763	
-epic/doric
-78766	
-78769	
-78772	
-attic/epic/doric
-
-attic/epic
-
-
-78780	
-78783	
-
-78790	ionic
+78764	epic/doric
+78773	attic/epic/doric
+78775	attic/epic
+78784	epic
 78792	epic/doric
-
-78796	
-78802	
-
-78805	
+78805	epic
 78807	doric/aeolic
 attic
 attic
 78814	attic
-78817	
-78819	
-
-78822	ionic
+78820	doric
 78824	epic/doric
-
-78827	
-attic/epic
-78830	
-78834	
-78836	
-
-78842	
-
-78845	
-
-78848	
-78851	
-
-
-78856	ionic
-78858	
+78828	attic/epic
 78861	attic/epic/ionic
-
-78864	
-78866	
 78868	attic/epic/doric
-78871	
 78873	epic
-78875	
-
-78880	
-78882	
-
-78885	
-78891	
-
-78895	
-
-78898	
-
-ionic
+78900	ionic
 attic/epic
 78905	doric
-78908	
-78911	
-78915	
-
-
 78920	epic/doric
-78922	
-78925	
-
-78930	
-
-
-doric/aeolic
+78933	doric/aeolic
 78935	epic
 attic/epic/doric
-
-78941	
-
-78944	
-78947	
-
-attic/ionic
-
-
-78956	
-doric/aeolic
+78949	attic/ionic
+78957	doric/aeolic
 attic
-
-
-attic/epic/ionic
-
-attic
-
-78968	
-78973	
+78961	attic/epic/ionic
+78963	attic
 78976	epic/ionic/attic
 78979	epic/doric
-ionic
-doric/aeolic
+78981	doric/aeolic
 attic/epic/ionic
-
-78986	
-78988	
-ionic/epic
-attic/epic
-78993	
-78997	
-78999	
-ionic
-79004	ionic
-epic/ionic
-
-
-79013	ionic
-79015	
-79023	
-79025	
 doric
-79028	
-attic
-
-
-
-
-
-
-epic
-
-ionic
+78989	ionic/epic
+attic/epic
+79000	ionic
+79005	epic/ionic
+79026	doric
+79029	attic
+79036	epic
+doric
 79043	doric
 attic/epic/ionic
-79048	
 79051	attic/epic/doric
 79053	epic/doric/aeolic
-
-
-
-
-
-79060	
-attic/epic/doric
-
-
-
-
-
-79069	
-79071	
-
-79076	
-doric/aeolic
+79058	doric
+79061	attic/epic/doric
+79077	doric/aeolic
 79080	epic/doric
-
 79083	attic
-79086	
-79088	
-doric
-
-
-79093	
-
+79089	doric
 79097	doric
 attic/epic/doric
-ionic
-epic/ionic
+79100	epic/ionic
 attic/epic/doric/ionic
-
-79104	
-79106	
-79108	
-
-
-79112	
-
-
 79116	doric/aeolic
 attic
 attic
-
-79121	
-
-attic
-79125	
-ionic
-epic/ionic
-
-79130	
+79123	attic
+79127	epic/ionic
 79132	doric/aeolic
-
-79135	
-attic/epic/doric
-
-79139	
-attic/epic/doric
-
-79144	
-79146	
-
-79150	
-79152	
-79154	
-
-79157	ionic
-79159	
-79161	
-
-79164	
-
-
-79168	
-79171	
-
+79136	attic/epic/doric
+79140	attic/epic/doric
 79174	attic/epic/doric
-79176	
-79178	
-epic/doric
-
-attic
-79183	
-
-
-
-
-79190	
-
-79197	
+79179	epic/doric
+79181	attic
 79199	doric
-
-79202	
+79203	doric/aeolic
 doric/aeolic
-doric/aeolic
-
 79208	doric/aeolic
-
-79214	ionic
-79218	
-
-attic/epic
-
-79224	
-attic/ionic
+79220	attic/epic
+79225	attic/ionic
 79227	attic/epic/doric
-79229	
-79231	
-79233	
-
-
-
-79239	
-ionic
-
-doric/aeolic
-
-
-
-
-
+79240	ionic
+79242	doric/aeolic
 79249	doric/aeolic
-
-attic/epic/doric
+79251	attic/epic/doric
 79255	attic/epic/doric
-
+79257	doric/aeolic
 doric/aeolic
-doric/aeolic
-79261	
-
-79264	
-79267	
-
-attic
-
-
+79269	attic
 79277	attic/epic/doric
 79279	epic/doric
-
-79282	
-attic/epic/doric
-79286	
+79283	attic/epic/doric
 79289	attic/epic/doric
-
-attic/epic/doric
-ionic
+79291	attic/epic/doric
+79293	doric/aeolic
 doric/aeolic
-doric/aeolic
-79296	
-
-79299	
 79302	attic
 epic/ionic/attic
 79305	doric/aeolic
 79307	epic/doric
-
-
-
-
 79313	attic/epic/ionic
-79316	
-79318	
 79320	epic/doric
-
-
-
+79322	doric
 79325	attic/epic/doric
-
-79330	
-ionic
-79335	
-79339	ionic
 79341	epic/doric
 epic/ionic
-79344	
-79346	
 79350	doric
 79352	attic/epic/doric
-
-
-79359	
-
-79363	
-79365	
-79367	
-79369	
-79371	
 79373	doric
-79375	
-79377	
-doric
+79378	doric
 79380	attic/epic
-79383	
-
-79387	
-79391	
-79395	
-79397	
-
-
-79402	
-
-
-79407	
-doric
-79410	
+79408	doric
 79412	attic/epic/doric
-79414	
 79416	doric/aeolic
-79418	
-
 79423	attic/epic/doric
 79427	epic/doric/ionic/aeolic
-79429	
-79431	
-
 79435	attic/epic
-79437	
-79442	
-
-79446	
 79448	epic/doric/aeolic
-79450	
 79452	doric/laconia
-79456	
-79458	
-attic/epic
-
-
-
-epic/doric
+79459	attic/epic
+79463	epic/doric
 79469	parad_form
-79471	
-79479	ionic
-79481	
-79483	
 79485	attic/epic
-
-
 79490	attic/epic/doric
-doric
+epic
 attic/ionic
 doric/aeolic
 79495	attic/epic
-
-79500	
-
 79503	ionic/epic
-
-epic/doric
+79505	epic/doric
 79507	attic/epic/doric
-
-79510	
-79513	
-
-79518	
-79520	
-
-
-79528	
-attic/epic/doric
-79531	
-79533	
+79529	attic/epic/doric
 79535	doric/aeolic
-79539	
 79542	epic/ionic
 79545	attic
-
-attic/epic
-79549	
-
-79552	
-79555	
+79547	attic/epic
+79549	doric
 79557	ionic/epic
-79560	
-
-attic
-79564	
-
-attic/epic
-doric/aeolic
-79570	
-79572	
+79562	attic
+79566	attic/epic
+doric
 79574	epic
-79580	
 79582	epic/doric
-
-attic/epic
-
+79584	attic/epic
 79588	attic/epic/doric
-79590	
-epic
-79593	
-79597	
-epic
-79601	
+79591	epic
+79598	epic
 79604	epic/doric/ionic/aeolic
-
 79615	epic
-
 79618	doric
 79625	epic
-
-
 79631	attic/epic/ionic
 79633	doric/aeolic
 doric
-
-
-attic
-79639	
-79642	
-79644	
-
-
-attic/epic
-79649	
-
-79654	
-
-79662	
-79664	
-
-
-79669	
+79637	attic
+79647	attic/epic
 79673	epic
-
-79676	
-
-
-epic/ionic/attic/doric
-
-ionic
+79679	epic/ionic/attic/doric
+doric
 79683	epic/doric
-
 79686	attic/epic/ionic
-79688	
-
-
-
-
-attic/epic/doric/ionic
-
-79697	
-
-
-ionic
-79703	
-attic/epic
-79706	ionic
-attic/epic/ionic
-
-79711	
+79693	attic/epic/doric/ionic
+79704	attic/epic
+79707	attic/epic/ionic
 79713	doric/ionic
-
-attic/epic/doric
-79718	
-79723	
-
-
+79715	attic/epic/doric
+79723	doric
 79728	doric/aeolic
 79730	attic
-79732	
 79735	doric/aeolic
 79744	epic/ionic
-79750	
-
-
-79758	
-attic/epic
-79761	
-attic/epic
-
-79765	
-79767	ionic
-epic/doric
-
-79772	
-
-
-
+79750	doric
+79759	attic/epic
+79762	attic/epic
+79768	epic/doric
 79779	attic
-79782	
 79784	attic
 attic/epic/doric
-79787	
-79789	
-epic
+79790	epic
 79795	doric/aeolic
-79799	ionic
 79801	epic/doric
 79803	attic/epic
-79807	
-79809	
-
-
-79814	
-79816	
-79820	
-79822	
-
-
-
 79835	epic
-
-
 79841	attic/ionic/epic/doric
-79844	
-79847	
-
-
-
-
-79856	
-
-79860	
 79862	doric/aeolic
-79864	
-79866	
-epic/ionic/attic
-
-79870	
-79872	
-
-attic/epic/doric
+79867	epic/ionic/attic
+79874	attic/epic/doric
 79876	attic
 attic/ionic
-
-79884	ionic
-79887	
-
-
-
-79892	
-
-79896	
-79898	
-epic
-79902	
-
+79899	epic
 79905	attic
-79914	
-
-
+79914	doric
 79920	epic
-
-79924	
-
-doric/aeolic
-
-79931	
-79933	
-
-79936	
-
-
-79941	
-epic/doric/ionic/aeolic
-79944	
-79946	
-
-
-
-epic/doric/aeolic
-79954	
-
+79926	doric/aeolic
+79950	epic/doric/aeolic
+79954	doric
 79957	parad_form
-
-79962	
-doric
-
+79963	doric
 79967	doric/aeolic
-
-
-
-
-79976	
+doric
 79979	epic
 79981	doric
-79983	
 79986	epic/doric/aeolic
 attic/epic
-79989	
-
 79993	epic
-79996	
-
-
-80000	
-attic/epic
-80003	
-
-
-attic/epic
-80008	
-
-
-
-80014	
+80001	attic/epic
+80006	attic/epic
+80014	doric
 80017	doric
 80020	attic/epic/doric
-
-
-ionic
-80026	
-
-
-attic/epic/doric
-
+80029	attic/epic/doric
 80032	attic
-
-
 80037	doric/laconia
 epic/ionic/attic
-
-
-
-80047	ionic
 80049	epic
-
-doric
+80051	doric/aeolic
 doric/aeolic
-80054	
-
 80058	attic/epic/doric
 attic/epic
-80062	
-
-
 80067	doric/aeolic
-
-80070	
-
-80075	
-
-80078	ionic
-80080	
-
+80076	epic
 80083	doric/laconia
 80086	parad_form
-80088	
-
-
-ionic
 80093	epic/doric
-80096	ionic
 80098	doric/aeolic
 80100	epic
 80103	attic/epic
-
-
-80109	
-
 80113	attic/ionic/epic
-
-doric
-
-80119	
-
-
-
-epic
-
-80128	
-attic/epic/doric
-
-80132	
-
-attic/epic
+80115	doric
+80123	epic
+80129	attic/epic/doric
+80134	attic/epic
 80136	attic
 80138	epic
-80140	
 80143	doric/aeolic
-80145	
-ionic/epic
-
-
-
-
-80154	
+80146	ionic/epic
 80157	attic/epic
-
-
-attic
-80164	
-
-attic/epic/doric
-
-80169	
-
-doric
-80173	
-
+80160	attic
+80166	attic/epic/doric
+80171	doric
+80173	epic
 80177	ionic
 attic/epic
-
-
-
+80181	epic
 80183	doric/aeolic
 ionic/doric/aeolic
-80186	
-80189	
-80191	
-
-attic/epic/ionic
-
-
-80197	
-
-
-
-
-attic/epic/doric
-
-
-
-
-
-
-
+80186	doric
+80193	doric/aeolic
+80202	attic/epic/doric
+80206	doric
 80213	epic
 80217	attic/epic/doric
 attic/epic
-attic/epic/ionic
 80221	attic/epic/doric
-80223	
 80225	attic/epic
 epic/doric
-
-80229	
-
-80235	
-attic/epic/doric
-
-
-80242	
-
-80245	
-
-80250	
+doric
+80236	attic/epic/doric
 80252	attic/epic/doric
-
-80257	
-attic/epic/doric
-80260	
+80258	attic/epic/doric
 80263	doric
-
-
-80267	
-
-attic
+doric
+80269	attic
 80271	attic/epic
-
-
-
-
-
-attic/epic/ionic
+80277	attic/epic/ionic
 attic/epic
-
-
-
-
-
-
-80286	
-80288	
-80290	
-
-attic
+80282	doric
+80292	attic
 epic
 80295	doric/aeolic
-
 80298	doric/*theocr.
 epic/doric/aeolic
 attic/ionic
-ionic
-80305	
-attic/epic
-
-
-80311	
-
-
-attic/epic/ionic
+80306	attic/epic
+80314	attic/epic/ionic
 attic/epic/doric
 attic
-80318	
-80322	
-80325	ionic
-
-80328	
-
-
 80332	attic/epic/doric
-
-attic/epic/doric
-80337	
-
-
-80341	
+80334	attic/epic/doric
 80343	epic
-80346	
-attic/epic
-
-
-80351	
-80353	
-80355	
-80358	
+80347	attic/epic
+80351	epic/doric/ionic/aeolic
 80360	epic
-80363	
-ionic
-80366	
 80372	doric
-80374	
-
-
+80376	doric
 80378	attic/epic/doric
-
-
 80383	attic/epic/doric
 *aesch.
 epic
-80389	
-80392	
-
-80396	
-80398	
-doric/aeolic
-
-ionic
-80404	
+80393	epic
+80399	doric/aeolic
 80407	doric/aeolic
-
-80410	
 80412	attic/epic/ionic
-
-attic/epic
-
-
-
-attic
-ionic
-
-attic
+80414	attic/epic
+80418	attic
+80421	attic
 doric
-80424	
-80426	
-attic/epic/doric
+80427	attic/epic/doric
 80429	attic/epic
-
-
-
 80434	attic/epic/doric
-
-
-80439	
-
-80444	
-
 80447	doric/aeolic
-
-
-attic
-80452	
-
+80450	attic
 80456	doric
 doric/*theocr.
-80459	
-
-80462	
-
-80465	
-attic/epic/doric
+80466	attic/epic/doric
 epic
 80470	epic/doric
-80474	
-
-
-doric
-
-
-80481	
-epic/ionic
+80477	doric
+80482	epic/ionic
 80484	epic/doric/aeolic
-
-80487	
-ionic/epic
-
+80488	ionic/epic
 80491	epic/doric
-
-attic/epic
-
-80498	
+80493	attic/epic
+80498	doric
 epic
-80501	
-80503	
-
-
-attic/epic/doric
-
-
+80506	attic/epic/doric
 80510	doric/aeolic
-
-80513	
-
-
-80517	
-
-80521	
-
-80527	
-
-80530	ionic
-
-80534	
-80536	
-
-80540	
 80542	attic
-
-attic
-80548	
-
-doric
-80553	
-attic/epic/doric
-
+80544	attic
+80550	doric
+80554	attic/epic/doric
 80558	epic
-
-
-80563	
-80566	
-
-attic
-80572	
-80576	
-
+80560	doric
+80568	attic
 80580	epic
-80582	
-
-80587	
-
+80587	doric
 80591	attic/epic/doric
-
-
-80597	
 80600	epic
-
-
-
-attic/epic
+80604	attic/epic
 doric/aeolic
-80607	ionic
-80609	
-
-80612	
-
-
-
-80617	
-
-
-
-
-attic
+80612	doric
+80622	attic
 80625	attic/epic/doric
-80628	
-80630	
 80632	doric
-80634	ionic
 80636	doric/aeolic
-
-attic/epic/doric
-80640	
-80642	
-
+80638	attic/epic/doric
 80647	doric
-80651	ionic
-doric/aeolic
-80656	
-
-
-
-80661	
-doric
+80652	doric/aeolic
+80662	doric
 epic
-
-80666	
-
-80669	
-attic/epic
-
-
-
-
-
-80677	
-
-doric/aeolic
-
-
-80683	
-
-epic
-ionic
-doric/aeolic
-
-doric/laconia
+80670	attic/epic
+80679	doric/aeolic
+80685	epic
+80687	doric/aeolic
+80689	doric/laconia
 attic/epic/ionic
-
-attic
-80700	
-
-80703	
-
-
+80692	attic
 80707	attic/epic/doric
-
 80710	epic/ionic
-80713	
-
-
-
-attic
-80719	
-
-80722	ionic
-80724	
-
-
-80728	ionic
-80730	
-80732	ionic
-attic
-
-
-
+80717	attic
+80733	attic
 80741	attic/epic/doric
-
 80744	epic/ionic/attic/doric
 attic/epic
-80747	
-80749	ionic
 80751	epic
-
-
-80755	
-80757	
-
-80760	
-80763	
-attic
-80767	
-attic/epic/doric
+attic/epic
+80764	attic
 80770	attic/epic
-80775	
-80778	
-80780	
 80783	attic/epic/doric
 80785	doric/laconia
 epic/ionic/attic
-80788	
-
-attic/epic/doric
-80793	
-80797	
+80790	attic/epic/doric
 80799	attic/epic/doric
-
 80803	doric/aeolic
-
-
-attic
+80806	attic
 attic/epic/doric
-
-
-80811	
-
-attic
+80813	attic
 80815	doric
 attic
-80818	
-attic
-
-
-80823	
-
-doric/aeolic
-
-ionic/epic
-80830	
-ionic
-doric/aeolic
-80836	
-80838	
-doric/aeolic
-
-
-
+80819	attic
+80825	doric/aeolic
+80827	ionic/epic
+80832	doric/aeolic
+80839	doric/aeolic
+80841	attic/epic
 80844	attic/epic
-
-
-
-
-80851	
-80853	
-80856	
-
-
-
-
-80862	
-ionic
-80866	
-
-80869	
-80871	
-
-80875	
-epic/doric
+80876	epic/doric
 80879	epic/doric/aeolic
-
-
 80884	attic/epic/doric
-
-
-80889	
-
-attic/epic/doric
-
-80898	
-
-80901	
-attic
-80904	
+80891	attic/epic/doric
+80898	doric
+80902	attic
 80907	epic/doric
 doric
-80910	
-doric/aeolic
+80911	doric
 attic/epic/ionic
-
-attic
+80914	attic
 80919	epic
-
-
-80923	
-attic/epic/doric
-
-doric
-
-
-attic/epic/doric
-
-
-80934	
-
-80937	
-
-
-80943	
-
-attic
-80947	
-80949	
+80924	attic/epic/doric
+80926	doric
+80929	attic/epic/doric
+80945	attic
 80951	epic/doric
 attic/epic/doric
 80954	attic/epic/doric
-80956	
 80958	epic
-
-
-80963	ionic
 80965	attic/epic/doric/ionic
-80967	
 80969	attic
-80975	ionic
 80977	attic
-
-attic/epic/doric
-80983	
-
-doric
+80979	attic/epic/doric
+80983	doric
+80985	doric
 80988	attic
 doric/aeolic
 80997	attic
-
-
 81001	epic
-
-
-
 81006	doric/laconia
 81008	attic
 doric/aeolic
-81013	
-81015	
-81017	
-ionic
-81021	
-
+81022	doric
 attic/epic/doric
 81025	attic/epic/ionic
 81028	epic/doric
 81033	attic
-81035	
-
 81039	epic
-
 81042	doric/aeolic/epic
-81046	
 81048	attic
 81050	attic/epic
-81052	
-
-81057	
-
-
-81061	epic
-
-
+81061	doric/aeolic
+doric
 81066	doric/aeolic
-
-attic/epic/doric
+81068	attic/epic/doric
 81070	epic/doric
 81072	attic/epic/doric
 81076	doric/laconia
 81078	epic/ionic/attic
-81080	
-81085	
-doric/aeolic
-81088	
-
-
-
-
-attic/epic
-
-
-
-81098	
+81086	doric/aeolic
+81093	attic/epic
 81101	epic/doric
-81104	
-
 81107	doric/aeolic/epic
 81112	attic/epic/ionic
-
-doric
-
+81114	doric
 81118	attic/epic
-
-
-
 81123	doric/aeolic
-81125	
-doric/aeolic
+81126	doric/aeolic
 epic/doric/aeolic
 doric/aeolic
-81135	
-
-
-attic/epic
-
-
-81142	
-81144	
-attic/epic
-
-81148	
-attic/epic/doric
-
-
+81138	attic/epic
+81145	attic/epic
+81149	attic/epic/doric
 81153	doric/aeolic/epic
-
-
-
-
-
-
 81161	attic/epic
 81163	attic/epic/ionic
-
-
-81167	
-
-81170	
-
-81175	
-
-
-
+81171	doric
+81176	doric
 81182	attic/epic/doric/ionic
-
-
-81190	
-attic/epic
-
-
-epic
-
-
+81191	attic/epic
+81194	doric/aeolic
 doric
+81197	doric
 81199	attic/epic/doric
 81203	doric/aeolic
-81206	
-
 81212	doric/aeolic
-
-81221	ionic
-81224	
-
-81227	
-attic
-
-81232	ionic
-81235	
-
-
-
+81228	attic
 81241	doric
-
-
-attic/ionic
-
-doric/*theocr.
+81244	attic/ionic
+81246	doric/*theocr.
 81248	attic/epic/doric
-
-
-81252	
-
-epic
+81254	epic
 81256	doric
-
-
-81260	
-
-attic/epic/doric
+81262	attic/epic/doric
 81269	doric/aeolic
 attic
 attic
-
-attic/epic/doric
-
-
-
-
-81279	
-
-
-81284	
-
-
-attic/epic/doric
-
+81273	attic/epic/doric
+81284	doric
+81287	attic/epic/doric
 81290	doric
-81292	
-
-attic/epic/ionic
+81294	attic/epic/ionic
 doric/aeolic
-
-ionic/attic/epic/doric
-
-
-81303	
-
+81297	ionic/attic/epic/doric
+doric
+81304	attic/epic/ionic
 doric/aeolic
 doric/aeolic
-81308	
-81310	
-81312	
-
-81315	
-
-
-81319	ionic
-doric/aeolic
-
+81312	doric
+doric
+81317	doric
+81320	doric/aeolic
+attic/epic/doric
 attic/epic
-
-81326	ionic
 81328	epic/ionic
-81330	
 81332	doric
-81334	
-attic/epic/ionic
-
-attic/epic/ionic
-
-81340	
-
-81344	
+81335	attic/epic/ionic
+81337	attic/epic/ionic
 81347	attic
-
-
-81351	
-81354	
-
-81358	
-
-
-ionic
+81358	doric
 81363	attic/epic/ionic
 81365	epic/doric
 doric
-81369	
-81374	
-81377	
-
 81382	attic/epic/doric
 81384	epic/ionic
-
-
-
-
-81390	
-
-attic/epic/doric
-
-
-
+81392	attic/epic/doric
 81398	doric/aeolic
-81402	
-81405	
-ionic
 81409	epic/doric/aeolic
-
-
-
-epic/doric
-81416	
-
-81420	
-
-81423	
-attic/epic/doric
-
-
-attic
-81430	
-
-81433	ionic
+81413	epic/doric
+81417	doric
+81421	doric
+81424	attic/epic/doric
+81427	attic
 81435	attic/epic/doric
-
-
-
-81440	
-attic
-
-
-
-ionic
-
-81449	
-attic
-
-
-81454	
-attic
-81459	
-81462	
+81441	attic
+81450	attic
+81455	attic
 81465	attic/ionic
-
-ionic
-
 81471	doric/aeolic/epic
-
 81474	doric/aeolic
-
-
-
-doric/aeolic
-81480	
-81482	
-
-81485	
-
-
+81478	doric/aeolic
+81483	doric
+81486	attic/epic/ionic
+doric
 81489	doric/aeolic
-81491	
-81495	
-attic/epic/doric
-81499	
-81501	
-
-81504	
+81496	attic/epic/doric
 81510	attic/epic/doric
-81512	
+81513	attic/epic
+81522	attic
+81531	doric
+81538	doric
+81540	doric/aeolic
+81557	attic/epic/doric
 attic/epic
-
-81516	
-
-81519	
-81521	
-attic
-
-81526	
-81530	
-
-81536	
-
-
-
-doric/aeolic
-81542	
-81545	
-
-81548	
-
-
-
-
-81554	
-
-
-attic/epic/doric
-attic/epic
-
-81564	
-81566	
-
-
-81571	
-
-epic
-
-81576	
-
-
-81580	ionic
-doric/aeolic
-
-
-81586	
+doric
+81573	epic
+81581	doric/aeolic
 81588	epic
 81591	doric/aeolic
 epic/doric/aeolic
 81594	doric/attic/epic/ionic
 81597	doric
-81599	
-81601	
-ionic/epic
-81604	
+81602	ionic/epic
 81607	attic/epic/doric
-81612	
-81615	
-81618	
-
-
 81624	doric/aeolic/epic
 81626	epic
 doric/aeolic
-
-81630	
 81632	doric/aeolic
-81636	
-81640	
-
-
-81646	
+81646	attic
 attic/epic
-
-81650	
-81653	
-81655	
-
-
-doric/aeolic
-81663	
+81658	doric/aeolic
 81669	attic/epic/doric
-
-81672	
-
-81675	
-
-
-ionic/epic
-81680	
+81676	doric
+81678	ionic/epic
 81682	attic/homeric/ionic
-
-81686	
-81688	
-81690	
-attic/epic/doric
-81694	
-
+doric
+81691	attic/epic/doric
 81697	epic/ionic/attic
-
-
-doric/laconia
-
-
+81700	doric/laconia
 81705	doric/aeolic
 81707	attic/epic
-81712	
-81715	
-
 81718	attic
-
 81721	doric
 attic
 attic/epic/doric
-
-ionic
 81727	doric/aeolic
-
-81730	
-81733	
+81730	doric
 81735	epic/doric/aeolic
-
 81739	doric
 attic/epic/ionic
 doric/aeolic
 81745	doric
 attic
-ionic
-81749	
 81751	doric
-81753	
-81755	
-attic
-
-81759	
-
-
-
-
-ionic
-81766	
-
-
+81756	attic
+81761	doric
+81766	doric
+doric
 81770	attic/epic
 81776	doric
 81778	ionic/doric/aeolic
-81781	
-81784	
-
-81788	
-81790	
-81792	
-81795	
+81785	epic
+81792	doric
 81797	doric
 81799	doric/aeolic
-
-81802	ionic
-
-81805	
-attic/epic/doric/ionic
-
-
-doric
-81812	
-ionic
+81806	attic/epic/doric/ionic
+81809	doric
 81815	doric/aeolic
-81817	
-ionic
-81820	
 81823	ionic
-81828	
-81831	
-
-
-attic
+81834	attic
 attic
 81838	attic/epic/ionic
-
-81842	
-
-81846	ionic
-81848	
-attic/epic/doric
-
-
+81842	doric
+81849	attic/epic/doric
 81854	epic/doric/aeolic
 epic/doric/ionic/aeolic
-
-attic/epic/doric
-81859	
-81863	doric/aeolic
+81857	attic/epic/doric
+81863	attic/epic/doric
 81865	attic
 epic/doric/ionic
-
+epic
 81871	doric/aeolic
-doric/aeolic
-81875	
-81877	
-
+attic/epic/doric
 81880	attic/epic/doric
-
-
-81886	
-
-
-attic
+81889	attic
 81892	attic
 81894	doric/aeolic
-81896	
-attic/epic/doric
-
-81900	
-81903	
+81897	attic/epic/doric
 81905	doric
 attic/epic
 81909	attic/epic
-81911	
-81913	
-81915	
-81917	
-attic
+81918	attic
 81920	attic
 81924	doric/aeolic
-
-attic
-81929	
-81931	
-
+81926	attic
 81934	attic/ionic
-ionic
-
-doric/aeolic
+81937	doric/aeolic
 81940	attic/epic/ionic
-
-
-
-81945	
 81949	attic
 doric/aeolic
 81954	doric/aeolic
-81956	
 81958	attic/epic/ionic
-81960	
 81963	doric
-81968	
-attic/epic/doric
-
-
+81969	attic/epic/doric
 81973	attic
-81976	
 81979	attic/epic
 81981	epic
 81983	doric/laconia
-81985	
 81987	attic/epic/doric
 doric/aeolic
-
-81991	
 81994	attic/epic/ionic
 81996	doric/aeolic
 81998	ionic
-82003	
-
-ionic
-82014	doric
-82016	
-
-
-doric/aeolic
+82003	doric
+82019	doric
 epic/doric
-
-82023	
-epic/ionic
-82027	
-attic
-82033	
-82036	
-
-doric
+82024	epic/ionic
+82028	attic
+82038	doric
 doric/aeolic
-82041	
-
-
-
-
-attic/epic
-82048	doric
+82041	doric
+82046	attic/epic
+82048	attic/epic/ionic
 attic
-82051	
-
-
-
-82056	
-82058	
-82060	
-
-
-
-attic/epic
-82066	
-82070	
-82072	
+82053	doric
+82064	attic/epic
 82074	attic/epic/ionic
-
-
-82078	
+82076	doric
 82082	doric/aeolic
-82084	
 82086	epic/ionic/attic/doric
 epic/doric
-82089	
-82091	
-
-82094	
-epic/doric
-
-attic
-82099	
-82102	
-
+82095	epic/doric
+82097	attic
 82105	attic
-
-
-
-82111	
-82113	
-
+82114	attic/epic/ionic
 attic
-82118	
-attic/epic
+82119	attic/epic
 82122	attic/epic/doric
-
-
-
-82130	
-
-82133	
-82135	
 82137	attic/epic
-
-
-82143	
-
-82147	ionic
-
-82150	
+82151	attic/epic
+82162	attic/epic
+82170	doric/aeolic
 attic/epic
-
-82154	
-82159	
-
-
-attic/epic
-
-
-
-82168	
-
-doric/aeolic
-attic/epic
-
-
-doric/aeolic
-82177	
-
-
-
-82186	
-
-82190	
-
-
-
-doric
-82197	
-epic/ionic/attic
+82174	doric/aeolic
+82190	doric
+82194	doric
+82198	epic/ionic/attic
 82200	doric/aeolic
 82203	doric
-82205	
 82208	attic/epic/doric
-82210	
-attic
-82214	
+82211	attic
 82216	attic/epic/ionic
-ionic
 82219	doric/aeolic
 attic/ionic
-
-
-ionic/epic
+82223	ionic/epic
 doric/aeolic
-
-82227	
-
 82230	attic/epic
-
 82235	doric/aeolic
-
-82239	
-attic/epic
-82244	
-
-
-82248	
-doric/aeolic
-
-
+82240	attic/epic
+82249	doric/aeolic
 82253	attic/epic/ionic
 82255	epic/doric
-82260	
-
-82265	
 82269	doric/aeolic
-
 82273	doric
-
-attic/epic/doric
+82275	attic/epic/doric
 attic/epic
 82280	attic/epic/doric
 epic/doric
 82283	doric/aeolic
 82288	doric/aeolic
-
-
 82293	epic/doric
-82295	
 82299	epic/ionic
-82301	
-82303	
 82305	epic/doric
 attic/epic
-
-epic/ionic/doric/laconia
-82311	
-
 82314	attic/epic/doric
 82321	doric/aeolic
-
-82324	
-
+82325	attic/epic/ionic
 doric/aeolic
-
-attic/epic
+82328	attic/epic
 82330	doric/aeolic
-
 82335	doric/aeolic
-
-82342	ionic
 82344	doric/aeolic
-
-82347	
 82350	attic/epic/ionic
-
-ionic
-82355	
-
-
-82359	ionic
-
-82362	
+82352	ionic
 82364	epic/ionic
 82368	doric/aeolic
 doric/aeolic
-82371	
-ionic
 82374	doric/aeolic
-
+doric
 82377	doric/aeolic
 doric/aeolic
-
 82382	doric/aeolic
-82385	
-82387	
-ionic
-82393	ionic
-82395	
 82398	doric
-82400	
 82402	ionic/doric/aeolic
 attic/epic/ionic
-82406	
 82408	epic/ionic/doric/aeolic
 epic
-
-82412	
-
-82416	
-82418	
 82420	epic/doric/aeolic
-
-
-
-attic/ionic/epic
-
-
+82424	attic/ionic/epic
 82428	doric
-82430	
 82435	attic
-82438	
+82438	doric
 82441	doric
-82443	
-
 82446	attic/epic/ionic
-
-82453	
-82457	
-
-
-
-attic
-82468	
+82461	attic
 82470	attic/epic/ionic
-epic/doric/ionic/aeolic
-82473	
-82475	
-
-
 82479	attic/epic
-
-
-
-82484	
+82481	doric
 82486	doric
 doric/aeolic
 attic
 82491	ionic/doric/aeolic
-82494	
-
-82497	
-82499	
-82501	
+82495	epic
+82501	epic
 82506	attic
-82509	
-82513	
 82515	ionic/doric/aeolic
-
-
 82519	attic/epic/ionic
 attic/epic/doric/ionic
 attic/epic/ionic/doric
-82524	
-
-82527	
-
-
-
 82532	epic/ionic/doric/laconia
-
-82536	
-82539	
-
+82540	attic/epic/doric
 epic
-82543	
-82546	
-
-
-82550	
-
-attic/epic/ionic
+82552	attic/epic/ionic
 epic/doric
-
-
-
 82559	attic/epic/ionic
 82561	epic/ionic/doric/laconia
-ionic
-82567	
-
 82570	doric/aeolic
-82574	
-82577	
-
-82581	
-doric/aeolic
+82582	doric/aeolic
 82584	attic/epic/doric
-82586	
-ionic
 82589	ionic
-82591	
-82594	
-
-82598	
-82602	
 82604	attic/epic
-
-82607	
 82611	ionic
-
-doric/aeolic
+82613	doric/aeolic
 attic/epic
-82616	
 82621	attic
 82623	attic/epic/doric
-82625	
-
-attic/epic
-82629	
-
+82627	attic/epic
 82635	attic/epic/doric/ionic
 doric/aeolic
-
-
-
-82645	
-82647	
-
-
 82652	doric/aeolic
-
 82656	epic/ionic
-82659	
-
-
-82665	
 82667	doric/aeolic
 doric/aeolic
-
 82671	attic/epic
-
-
-
-82676	
-
-
-82681	
-ionic
-82684	
-ionic
-doric/aeolic
+82682	ionic
+82686	doric/aeolic
 82688	doric/aeolic
 attic/epic
-82693	ionic
-82696	
 82698	doric
 82700	attic
-82703	ionic
-82705	attic/epic/doric
-82710	
-
-doric/aeolic
-
-82716	ionic
+82712	doric/aeolic
 82718	attic/epic/ionic
-82721	
-82724	
-
-
-82728	ionic
-epic
+82729	epic
 attic
 82732	attic
-
 82735	doric/laconia
 82738	attic/epic/doric
-
-82741	
-attic/epic
-
-82746	
-82749	ionic
-attic/epic/ionic
-
-attic/epic
+82742	attic/epic
+82750	attic/epic/ionic
+82752	attic/epic
 82754	attic/epic/doric
-82757	
-attic/epic
+82758	attic/epic
 doric
-82764	
-doric/aeolic
+82765	doric/aeolic
 attic/epic
-82771	
-
-
-
-82776	
-epic
+82777	epic
 82780	attic/epic/doric
 82784	epic/ionic
-
-attic/epic
-82788	
-82792	
-
-
-
-epic/doric/aeolic
-ionic
-doric/aeolic
-
-
-
-82806	
-
+82786	attic/epic
+82796	epic/doric/aeolic
+82798	doric/aeolic
+82807	epic
 82809	doric
 doric
 epic/ionic/attic
-82813	
-
-
-82817	
-
-epic/doric/aeolic
+82819	epic/doric/aeolic
 82821	attic
-
-
-attic
-82826	
-
-
-attic/epic/doric
-
+82824	attic
+82829	attic/epic/doric
+epic
 82834	doric
 82836	epic/doric
 attic/epic/doric
-82839	
 82844	attic
 82847	ionic
-82850	
 82854	epic/ionic
-82858	
-
-ionic
-
-82863	
-82866	
-
-
-82870	
-82872	
-
-
-
-
-82878	
-
-
-
-attic/epic
-
-82889	
-attic
-82892	
-82894	
-82897	
-doric
-
-82902	ionic
+82860	ionic
+82882	attic/epic
+82890	attic
+82898	doric
 82904	doric
 attic
 82910	doric/aeolic
 attic
-
-
-
-82916	
+82914	doric
+82917	attic
 attic
+82920	doric
 attic
-
-
-attic
-
-
-82925	
-
-
-
-
+82928	epic
+doric
 ionic
-82932	
-82936	
-
 82939	attic/epic/doric
 attic/epic/doric
 82945	epic
 82947	attic
 82950	epic
-
-attic/epic/ionic
-82956	
-82958	
+82952	doric
+82958	epic
 82960	attic
 82965	epic/doric
-
 82973	epic/ionic
 82975	epic
-82977	
-
-
-82984	
-
-
-82989	
-ionic
+82990	ionic
 attic
-82996	
-
-83002	
-83004	
-
-attic/epic/doric
-83011	
-83014	
-ionic
-
+82997	attic
+83006	attic/epic/doric
+83015	ionic
 83020	epic
-83022	
-83024	
-doric
-
+83025	doric
 83029	doric
-83032	
-attic
-
+83033	attic
 83040	doric/aeolic
 attic/epic/ionic
-
-
-83049	
 83054	doric/aeolic
 attic
-
-83059	
-
-attic
-
-attic
-
-
-attic/epic/ionic
-
-
-83070	
-
-attic
-83075	
-ionic
-doric/laconia
-
-
-83081	
-
-
-
-
-
-epic
-
-attic
-
-
-attic
-83094	
-83097	
-
-attic
-83101	
-
-
-attic/ionic
-
-83108	
-83110	
-attic
-
-attic
-
-
-83117	
-83119	
-83122	ionic
-83125	
-attic/epic/ionic
-83129	
-attic
-83132	
-
-83135	
+83061	attic
+83063	attic
+83066	doric/aeolic
+83068	doric
+83072	attic
+83077	doric/laconia
+83081	epic
+83087	epic
+83089	attic
+83092	attic
+83099	attic
+83104	attic/ionic
+83111	attic
+83113	attic
+83130	attic
 83139	attic
-
-attic/epic/ionic
 83143	attic/epic/doric/ionic
-
-attic/epic/ionic
-83147	
+83145	attic/epic/ionic
 83149	attic/epic/doric
 83151	doric
 83153	doric/aeolic
-
-
-83157	
-83159	
-attic
-
-
+83160	attic
 83164	attic/epic/doric
 attic/epic
-
-
-
+83168	epic
 attic
-
-
 83173	epic/doric
-
-
-epic/doric/ionic/aeolic
+83176	epic/doric/ionic/aeolic
 epic/doric
-83179	
-
-attic/epic
-83183	
-83185	
-83187	
-83190	
-
-attic/epic
-83194	
-
-attic/epic
+83181	attic/epic
+83192	attic/epic
+83196	attic/epic
 83198	attic
-
-
-
-
+83202	doric
 doric/aeolic
 epic/doric
-
-83207	
-
-83210	
-
-
-
-doric/aeolic
-
-83217	
-attic/epic
+83214	attic/epic/doric
+83218	attic/epic
 83220	attic
-
 83224	epic/doric
 attic/epic/doric
 83227	attic/epic/doric
 epic/doric
-
-
-epic
+83231	epic
 83233	doric
-
-ionic
 83238	epic/doric
-83243	
-doric
-
-83247	
-
+83244	doric
+epic
 83250	epic/doric
-
-83253	
-
-
+doric
 83257	epic/doric
-83260	
 83265	epic/doric
 83267	epic/doric/aeolic
 83269	attic
-83271	
-
-
-attic/epic/ionic
-83276	
-doric
-83280	
-83285	
-83287	
-
-
-83293	
-83297	
-
+83274	attic/epic/ionic
+83277	doric
+83285	doric
+83289	doric
 83300	doric
-83302	
-attic/epic/ionic
-83305	
-83307	
+83303	attic/epic/ionic
 83309	doric/laconia
 epic/doric/ionic/aeolic
-83312	
-83314	ionic
-doric/aeolic
+83315	doric/aeolic
 83317	attic/epic
 doric
-83320	
-
-83323	
-83326	
-
-
-83330	
-83332	ionic
-83336	
-83338	
-
+83320	doric
 83341	epic
 83344	doric
-
-83347	
-
-
+83349	attic/epic/ionic
 doric/aeolic
 83352	doric/aeolic
-
-
 83356	epic/doric/aeolic
-
-
-
-83362	
-attic
-
-
-83367	
-
-
-83372	
-83374	
-83377	
-
+83363	attic
 83380	attic
 83383	attic/epic/doric
 epic
 attic/homeric/ionic
-
-
-
-epic/doric/ionic/aeolic
-83392	ionic
-83400	
-
-
-
-83405	
+doric
+83389	epic/doric/ionic/aeolic
 83407	doric/aeolic
-83409	
-83412	
-83415	
-83417	
-ionic
-83421	
+83418	ionic
 83426	doric/aeolic
 attic
-83429	
-
-83434	
-83436	
-83438	
-83440	
-83444	
-83446	
 83448	epic
-
-
-
-ionic
-doric/aeolic
+83453	doric/aeolic
 attic
-83456	
-83458	
-
-
 83464	epic/doric/aeolic
 attic
-
-
-attic/epic
-
-83471	
-83474	
-attic/ionic
-
-83478	
-83482	ionic
+83468	attic/epic
+83475	attic/ionic
 83485	attic/epic/ionic
-
-83490	
-83492	ionic
 doric/aeolic
+83493	doric/aeolic
 doric/aeolic
-
-
+83496	doric
 83498	ionic
-
 83503	attic/epic
-ionic
-83506	
-
-doric/aeolic
-
-83511	
+83509	doric
 83516	attic/epic
-83518	
-83520	
-
-attic/ionic
-
-ionic
-83527	
-
+83522	attic/ionic
 83531	attic
 83534	doric/aeolic
 83536	attic/epic
-83538	
-
-
-
-83543	epic/doric/ionic/aeolic
-83545	
-83548	
-83550	
-attic/ionic
-83554	
-83556	ionic
-
-attic/epic/doric
-83560	
-
-
-83564	doric
-
-
-
-
-doric
+83551	attic/ionic
+83558	attic/epic/doric
+83564	epic
+83569	doric
 attic
-
-83573	
-ionic/doric/aeolic
+83574	ionic/doric/aeolic
 epic/doric/aeolic
-
-attic/epic
+83577	attic/epic
 epic/doric/aeolic
 83581	epic/doric/aeolic
-
-epic/ionic/doric
+83583	epic/ionic/doric
 attic/epic
 83592	attic
-
-83595	
-
-
-
 83600	doric/laconia
 epic/ionic/attic
 epic
-
-
-
-epic
+83606	epic
 doric/aeolic
 83609	epic
 83611	attic/epic/doric/ionic
-83614	
-
-83618	
-attic/epic/doric
-
+83619	attic/epic/doric
 83623	attic/epic/doric/ionic
-83625	
-
-attic/epic/doric/ionic
-
-83630	
-83632	
-attic/epic/doric
+83627	attic/epic/doric/ionic
+83633	attic/epic/doric
 doric/aeolic
-83636	
-83638	
-attic
-
-83642	
-epic/doric/aeolic
-
-83646	
-
-83649	
-83652	
-83654	
-attic/epic/doric
-83657	
-
+83639	attic
+83643	epic/doric/aeolic
+83655	attic/epic/doric
 83661	attic/epic/doric
-
-
-83665	
-83667	
+83668	attic
+83671	attic
 attic
-
-
-attic
-attic
-83675	
-83678	
-83681	
-attic/epic
-83684	
-83686	
-attic
-
-ionic
-doric/aeolic
-
-
-
-83697	
-83699	
-ionic/doric/aeolic
-83702	
-doric/ionic
-
-
-doric
-83709	
-attic
-
-83713	
-83715	
-
-83718	
+83682	attic/epic
+83687	attic
+83690	doric/aeolic
+83700	ionic/doric/aeolic
+83703	doric/ionic
+83706	doric
+83710	attic
 83723	attic/epic/doric
-
-doric/aeolic
+83725	doric/aeolic
 83727	doric/ionic
 83729	doric/aeolic
 attic/epic/doric
 attic/epic/ionic
-
-83735	
-
 83738	attic/epic/doric
-
-epic/doric/aeolic
-83743	
-
-doric
-83747	
-epic/doric/ionic/aeolic
-83750	
-
-
-
-
+83740	epic/doric/aeolic
+83745	doric
+83748	epic/doric/ionic/aeolic
+83752	attic/epic/ionic
+83755	attic
 attic
-attic
-83758	
-83760	
-
-83764	
+83760	doric
 83767	doric
 83769	doric/aeolic
 83771	attic/epic
-83774	
-83776	
-
-83779	
-
-83784	
-attic/epic
-
-83789	doric/aeolic
-
-doric/aeolic
-83793	
-83796	
-
-
-
-
-attic/ionic
-
-83804	
-doric/aeolic
-
-
-
-attic/epic
-
-83812	
-doric/aeolic
-
+83776	doric
+83785	attic/epic
+83789	doric
+83791	doric
+83799	epic
+83801	attic/ionic
+83805	doric/aeolic
+83809	attic/epic
+83813	doric/aeolic
 83818	doric/aeolic
-
-
-
-
-attic/ionic
-
-attic
-
-attic/epic/doric
-83829	
-
-83832	
-epic
-
+83823	attic/ionic
+83825	attic
+83827	attic/epic/doric
+83833	epic
 83838	epic
 attic
-
-
-
-83844	
-
-83847	
-83852	
-
 83855	attic/epic/doric
-
 83858	epic/ionic/attic/doric
-
-
-
-attic/epic/doric/ionic
-
-83865	
-
-
-
-
+83862	attic/epic/doric/ionic
 83871	doric/laconia
-
-
-
-attic
-
-83880	
-83882	
-
+83873	epic
+83875	attic
 83885	doric/aeolic
-
-
-83891	
-83894	
-
-attic/epic/doric
-
-attic
-
-83901	
-
-83905	
-
-
-
-*plat.
+83896	attic/epic/doric
+83898	attic
+83901	doric
+83909	*plat.
 attic/epic/ionic
-
-83913	
-
 83916	attic/epic/doric/ionic
 83921	epic/doric/aeolic
-
-attic/epic
-
-
-83928	
-
-
-83932	
-83934	
-83937	
-
-
-83942	
-83944	
+83923	attic/epic
 83946	attic/epic
-83948	
-
-doric/aeolic
-
+83950	doric/aeolic
+epic
 83954	attic
-
-83957	
 83961	doric/aeolic
 attic
-
 83965	epic/doric
-83967	
-83972	
 83975	attic/epic
 doric/aeolic
-
 83979	doric/aeolic
 83981	doric
-
-83984	
-
-
-
-epic/doric/aeolic
+83988	epic/doric/aeolic
 doric/aeolic
-83991	
-
-
 83995	attic
-
-
-
-
-
-
-ionic
-doric/ionic
-84006	
-
-
-84010	
-84012	
-attic/epic/doric
-
-84016	
-84019	
-epic/doric
-
-
-84024	
-
-attic/epic
-
-84030	ionic
-
-
-attic/epic
-
-
-
-
-84039	
-
-attic/epic
-84045	
-ionic
-
-84049	
-84051	
-
-84054	
-
-
-84058	
-attic
-
-
-84064	
-attic
-84067	
-
-
-
-84072	
-84074	
-
-
-
-84080	
-84082	
-
-attic
-
-
-84088	
+84003	doric/ionic
+84013	attic/epic/doric
+84016	epic
+84020	epic/doric
+84026	attic/epic
+84033	attic/epic
+84041	attic/epic
+84046	ionic
+84059	attic
+84065	attic
+84084	attic
 84090	doric
-
-
-
-
 84097	attic
-
-
-
-84104	
 84106	doric/aeolic
 84110	doric
-84114	
-84116	
+84114	attic
 84118	epic/ionic/attic/doric
-
 84121	attic/ionic
-
-attic/epic
-84125	
-
-84128	
-
-
-
+84123	attic/epic
 84133	epic
-
-attic/epic/doric
-
-84138	
-84140	
+84135	attic/epic/doric
 84143	doric/ionic
-
-84146	
-
-84149	
-
-
-
-84156	
-84158	
-epic/doric/aeolic
+84159	epic/doric/aeolic
 attic
-
-
-attic/epic
-84167	ionic
+84163	attic/epic
 84169	doric/aeolic
-
-
-84173	
-
 84176	epic
-84178	
 84180	attic/epic/doric
 84183	doric
 doric
-
-attic/epic
-
-84189	
-
-
-
-
-
-
-84197	
-
-84200	
-84202	
-
+84186	attic/epic
 84205	doric/aeolic
-84208	
+84208	doric
 84213	doric/aeolic
-84217	
-
-84220	
-ionic
-
-
-84225	
-
-
-84229	
-attic/epic/doric
-84232	
+84230	attic/epic/doric
 84234	doric/aeolic
-
-84237	
-84239	
-attic/epic/doric
-84242	
-84244	
-
-
-84248	
-84250	
-84252	ionic
-
-84255	
-84257	
-
-doric/aeolic
-
-
-84264	ionic
-84266	
-
-84269	
-84271	
-
-
-84276	
-
-84279	
-
-84282	
 doric
-
-84286	
-84289	
-84291	
-84293	
-doric/aeolic
-84296	
-
-
-
-
-84302	
-attic/epic
-
-attic/epic
-
-
-84309	
+84240	attic/epic/doric
+84244	doric
+84252	ionic
+84259	doric/aeolic
+84264	ionic
+84283	doric
+84294	doric/aeolic
+84303	attic/epic
+84305	attic/epic
 84312	doric/aeolic
-84314	
 84316	attic/epic
-
-84319	
-epic
-
-
-84324	doric
-84326	epic/ionic/doric/laconia
-
-
-84330	
-epic/doric/ionic/aeolic
-
-84336	
-84338	
+84320	epic
+84324	attic/epic/ionic
+84328	epic
+84331	epic/doric/ionic/aeolic
 84340	attic/epic
-
-attic
-
-84345	
-
-84349	
-
+84342	attic
+84350	epic
 84352	attic
-
-ionic
-84358	
-84361	
-84364	
 84368	doric/aeolic
 attic
-
 84372	ionic/doric/aeolic
-
-
-84376	
-84380	
-
-attic
-
-
-
-84387	
-
-84390	
-attic/epic
-
-
-ionic
-84398	
-
+84376	epic
+84382	attic
+84388	epic
+84391	attic/epic
+84399	epic
 84401	aeolic
-
-84405	
-
-epic/ionic
+84407	epic/ionic
 attic
-
-84415	
-
-attic/epic
-84419	
-ionic
-84424	
-84426	
-84428	
+84417	attic/epic
 84430	attic
-
-84433	
-epic/doric/ionic/aeolic
-
-
-
-
-
-epic
-
+84434	epic/doric/ionic/aeolic
+84436	epic
+84440	epic
+attic/epic
 doric/aeolic
-
-
-84446	
+epic
 84449	attic/ionic
 84452	epic
-
-
-
-
-84458	
-
+84459	attic/epic
 84462	epic
-84466	
-
-84470	
-doric/ionic
-
+84471	doric/ionic
 84475	doric/aeolic
-
-84479	
-84481	attic/epic/doric
-
-84485	
-84487	doric/aeolic
-
-
-
-84492	attic/epic/doric
-84497	
-
-
-
-84503	
 epic
-84506	
-84509	
-84511	
-
-84514	
-doric/aeolic
-
+84481	attic/epic/doric
+epic
+84487	doric/aeolic
+84492	attic/epic/doric
+84504	epic
+84515	doric/aeolic
 84520	attic/epic
-
-84524	
-ionic
 84527	attic/epic
-84530	
-84532	
-84534	
-
-doric/aeolic
-
+84536	doric/aeolic
 84539	attic/epic
-84541	
 84543	doric
-84545	
-84547	
 84549	doric/aeolic
-84551	
-epic/doric/ionic/aeolic
-
-ionic
-84559	
+84552	epic/doric/ionic/aeolic
 84562	attic
-
-84565	
 84570	epic
-
-
-84574	
-doric/aeolic
-84577	
-84579	
-doric/aeolic
-
-84583	
-
-
-doric
-
-doric/aeolic
-
-84593	
+84575	doric/aeolic
+84580	doric/aeolic
+84586	doric
+84588	doric/aeolic
 84595	doric/ionic
-
-84598	
 84600	doric/aeolic
-
 84604	attic/epic
-84606	
-epic/doric/ionic/aeolic
-ionic
-84610	
-84613	
-epic/ionic
-84616	
-
-
-
-
-epic/ionic
-84623	
-
+84607	epic/doric/ionic/aeolic
+84614	epic/ionic
+84621	epic/ionic
 84627	epic
-
-84635	
-
-
-ionic
-84644	
-
-84647	
-ionic
-84651	
-84656	
-84658	
-
-
-
-doric/aeolic
+84662	doric/aeolic
 84665	attic/epic/doric
-84669	
-
 84672	attic
-84674	
-84676	
-84678	
-
-
-
-attic/epic
-84684	
-attic/epic
-84687	
-84689	
+84678	epic
+84682	attic/epic
+84685	attic/epic
 84692	attic
 doric/aeolic
-
-84697	
-84699	
-
-
-
-84704	
-epic/doric/ionic/aeolic
+epic
+84705	epic/doric/ionic/aeolic
 84707	attic/epic/ionic
-
-
-
-84712	
-doric/ionic
+84713	doric/ionic
 attic
-attic/epic/doric
-84717	
-84719	
-ionic
-epic/doric/ionic/aeolic
-
-84724	
-84726	
-
-
-ionic
+84721	epic/doric/ionic/aeolic
+doric/aeolic
 84732	doric
 84734	doric/aeolic
 84736	attic/epic
-84738	
-attic/epic
-
-attic
-
-
-doric/aeolic
+84739	attic/epic
+84741	attic
+84744	doric/aeolic
 84746	attic/epic
-
-84754	
-84757	
-84759	
-84762	
-84764	
-84766	
-attic
+84767	attic
 attic/epic/doric
-84770	
 84772	attic/epic/doric
-
-
-
-
-
-84784	ionic
-84789	
-84791	
 84793	epic/ionic
-84798	
-84800	
-
-
-attic/ionic
-84806	
-84808	
-doric/aeolic
-
-
-84814	
-84816	
-
-ionic
+84803	attic/ionic
+84809	doric/aeolic
 84821	doric/aeolic
 attic
-
-
-doric
-
-
-doric/aeolic
-84830	
-attic/ionic
-
-doric/aeolic
+84825	doric
+84828	doric/aeolic
+84831	attic/ionic
+84833	doric/aeolic
 attic/epic
-
-84838	
-
-84841	
-84844	
-84848	
-ionic
-84851	
-84856	
-
-84859	
-doric/aeolic
-84863	
-84865	
+84860	doric/aeolic
 84868	attic/epic/doric/ionic
-
-84871	
-84874	
-
-
-
-84880	
-
-84883	
-84885	
-
+84880	epic
+84886	epic
 84888	epic
-
-84892	
 84894	epic/doric
-
-84898	
-
+84899	epic
 attic
-
-
-attic
-
-84906	
+84903	attic
 84910	attic/ionic
-
-attic/ionic
-ionic
-84915	
-84917	
-
+84912	attic/ionic
 84921	attic/epic/ionic
 84925	doric/aeolic
 attic
-
-
-
 84931	doric/aeolic
 84933	attic/epic/ionic
-
-84938	
-
-epic/doric/ionic/aeolic
+84940	epic/doric/ionic/aeolic
 84942	attic
-
-84947	
-84951	
-84954	
-
-
-
-doric
+84958	doric
 attic
-
-84962	
-84964	
-
-
-84968	
-attic
+84966	epic
+84969	attic
 84971	attic
-84974	
-attic
-
-attic/epic/doric
-84979	
-
-
-attic/epic/doric
-84986	
-
-
-84990	
+84975	attic
+84977	attic/epic/doric
+84982	attic/epic/doric
 84992	attic
-
-doric/aeolic
-
-84997	
+84994	doric/aeolic
 84999	epic
-85002	
-doric/ionic
-ionic
-
-
-85008	
-85010	
-attic
-
-
-
-
-85019	
-85022	
-attic/epic
-
-
-85028	
-
+85003	doric/ionic
+85011	attic
+85023	attic/epic
 85031	doric
-
 85037	attic/epic
-
-
+85039	epic
 attic
 epic/ionic/attic
 attic
-
-
-85046	
-
-85049	
-
-attic/epic/ionic
-
-
-
+85051	attic/epic/ionic
 85056	doric/aeolic
-85059	
-attic/epic
-
-
+85060	attic/epic
+85062	epic
 attic
-
-
-attic
-
-85069	
+85066	attic
 85072	doric/aeolic
-85074	
-85078	
-
-
-
-ionic
-85085	
-85087	
-85089	
-
-85094	ionic
-85096	
-
-85099	
-85103	
-85106	
-
-epic/doric/aeolic
-
-85111	
-85113	
-attic/epic
-
-85117	
-doric/aeolic
-85120	
-85122	
-85124	
-
-85127	
-85129	
-
-
-attic/epic
+85074	doric/aeolic
+85087	epic
+85108	epic/doric/aeolic
+85114	attic/epic
+85118	doric/aeolic
+85132	attic/epic
 85140	attic
-85143	
-
-85151	
 85153	attic/epic
 attic
-
-85157	
-85159	
-85161	
-
 85164	attic
-
-85167	
-ionic
-
-85171	
-attic
-
-
-attic
-
-ionic
-85182	
-
-85185	
-
-85192	
-
-
-ionic
-85200	
-
-85203	ionic
-85205	
+85168	ionic
+85172	attic
+85175	attic
 85207	attic/epic
 attic
-
-85211	
-85214	
+85214	epic
 attic
-
-85218	
-
 85221	doric/aeolic
-85223	
 85226	ionic
-85230	
-attic/epic/ionic
+85231	attic/epic/ionic
 attic/epic/doric/ionic
-
-attic
-
-attic
-
-attic
-85240	
-85242	
-85244	ionic
-85246	
-ionic
-85252	
-85254	ionic
-85256	
-ionic
 epic
+attic
+85236	attic
+85238	epic
+85258	epic
 attic/epic/ionic
-85262	
+85262	epic
 85264	doric
 attic
-
-
-85269	
-
-85274	
+85274	epic
 85277	attic
-
-
-85281	
-85283	
-85285	
-
-
-85290	attic/epic/doric
-85293	
-
-85296	
-85298	
-85301	
-
-
-attic/epic
-
-85308	
-85310	
-
-85313	ionic
-attic/epic/ionic
-
-
+85304	attic/epic
+85311	epic
+85314	attic/epic/ionic
+85316	epic
 attic
-
-attic
-
-
-
+85319	attic
 85324	attic/epic/doric
-85326	
-
-
-
-85331	
-
-85336	
-
-
 85340	epic
-
-85343	
-attic/epic
-
-85348	ionic
-
-85351	ionic
-85354	
-85358	
-
+85344	attic/epic
+85359	epic
 attic
-85362	ionic
-85365	
-85367	
-
-
-
-
+85371	epic
 85373	doric/aeolic
 attic
-85379	
 85381	attic/epic/ionic
-
-
-85385	
 85387	attic/epic
 85389	attic
 epic/ionic/attic
-
-doric/aeolic
-85399	
-
-85402	
-85404	
-
-
-85410	
-attic
-85414	
-
-
-
-85421	
-85423	
-
-85427	
-
-
-
-85433	
-85435	
-
-85438	
-
-85441	
-85443	
-85445	
-
-85449	
-
-85453	
+85392	doric/aeolic
+85411	attic
 85455	attic/epic/ionic
 attic/epic/ionic
 attic/epic
-
-85462	
-85465	
-85467	
-
 85471	attic/epic
-
-
-
-attic
-
-85479	
-
-
-attic/epic
-
-epic/doric
-85486	ionic
+85475	attic
+attic/epic/ionic
+85482	attic/epic
+85484	epic/doric
 85490	epic
-
-85493	
-
-doric/aeolic
+85495	doric/aeolic
 epic/doric
-
-
-
-
-doric/aeolic
-
+85501	doric/aeolic
 85504	attic/epic
-
-85507	
-
-85511	
-doric/aeolic
+85512	doric/aeolic
 epic/doric
-
 85516	attic/epic
-
-
 85520	epic/doric
-
-
-
-85525	
-
-
-doric/aeolic
-
-
-
-85533	
-
-
-85537	
-
-doric/aeolic
-
-
-
-85544	
-
-
-85548	
-85550	
-ionic
-85553	
-
-85556	
-85558	
-ionic
-85561	
-85563	ionic
+85528	doric/aeolic
+85539	doric/aeolic
 85567	attic/epic
-
-
-
-
-85573	
-85576	
-ionic
-ionic
-
-85581	
-85585	
-85587	
-85589	
-85591	
-
-
+85577	ionic
+85593	epic
 85595	doric/aeolic
 85598	epic/doric
-85602	
-doric/aeolic
+85603	doric/aeolic
 epic/doric
-
-
-
-85609	
-
-ionic
 85613	doric/aeolic
-85616	
-
-doric/aeolic
+85618	doric/aeolic
 epic/doric
-
-
-85623	ionic
-85625	
-85627	
-
-85630	
-
-
-
-85635	
-85637	
-85639	
-85643	
-85647	
-85652	
-85654	
 85657	attic/epic
-
-
-85661	
-epic/doric
-ionic
+85662	epic/doric
 85668	attic/epic/ionic
-
-
-85672	
-85674	
 85679	attic
-
-attic/epic/ionic
-
-
-
-attic
+85681	attic/epic/ionic
+85685	attic
 attic/epic
-
-
-
-attic/epic
+85690	attic/epic
 85692	ionic/attic/epic/doric
-85694	
-attic/epic/doric
-
-
-
-
-attic
-
-85703	
+85695	attic/epic/doric
+85700	attic
 85705	attic/epic/ionic
-
 85710	attic/epic
 doric
-
-85714	
-doric/aeolic
-85717	
-
+85715	doric/aeolic
 85720	attic/epic/ionic
-
-attic
-
-attic
-85726	
+85722	attic
+85724	attic
 85729	attic
-85732	
+85733	doric/aeolic
 doric/aeolic
-doric/aeolic
-
 85737	doric/aeolic
-85739	
-
-85742	
-85744	
-attic
-
-attic
-
-85753	
-85757	
+85745	attic
+85747	attic
 85761	attic/epic
-
-
+85763	epic
 attic
 85766	attic
-
-ionic
 85771	epic/doric
 85773	attic/epic
-
-
-85777	
 85779	attic/epic
-
-
-85783	
-
-
-
-
-85789	
-
-
-
+85783	epic
+85792	epic
 attic
-
-attic/epic
-
-85799	
-ionic
-85802	
-attic/epic
-
-85807	
-
-attic
-
-85812	
-85817	
-
-85822	
-85825	
+85795	attic/epic
+85803	attic/epic
+85809	attic
 85827	attic/epic/doric
-
-
-
-
 85833	doric/aeolic
 85835	doric/aeolic
-
-epic/doric/aeolic
-
-
-
-
-85843	
+85837	epic/doric/aeolic
+85840	epic
+85843	doric
 85845	doric/aeolic
-
-85848	
-
-
-
-epic
-
-
-doric/ionic
+85852	epic
+85855	doric/ionic
 85857	attic/epic/doric/ionic
-
-
-
-85862	
-85864	
-
-
+85860	epic
+85866	attic/epic/ionic
 doric/aeolic
-85870	
-
-
-attic/epic/doric
-85875	
-85877	
-
-85882	
-
-
+85873	attic/epic/doric
 85886	attic/epic/doric
-85888	
-85892	
-
-
-ionic
-attic/epic/ionic
-85898	ionic
-85900	
-85902	
-doric/ionic
+85896	attic/epic/ionic
+85903	doric/ionic
 attic/epic/doric/ionic
-
-85907	
-attic/ionic/epic/doric
-85913	
-85915	
-85917	
-doric/laconia
-85920	
-
-
-85924	
+epic
+85908	attic/ionic/epic/doric
+85918	doric/laconia
 85926	doric/aeolic
-85929	
-
-85933	
 85935	doric/aeolic
-
-
-
-
-
-
+85941	epic
 attic
-
 85945	attic/epic/ionic
-85947	
-doric/aeolic
+85948	doric/aeolic
 85950	epic/doric
-85952	
-
-
-85956	
-doric/aeolic
-85959	
-
-
+85954	epic
+85957	doric/aeolic
 85964	attic/epic/doric
-85967	
-85969	
 85971	doric/aeolic
-
 85974	attic
-
-ionic
-
-85979	
-
-85982	
-85984	
-attic/epic/doric
+85976	ionic
+85985	attic/epic/doric
 85987	attic/epic/doric
-
-85990	
-
-
 85994	attic/epic/doric
 85996	attic/epic
-
-
-
 86003	attic/epic/doric
 attic
 86006	doric/aeolic
-
-attic/epic/doric
-
-
-
-doric/aeolic
-86014	
-
-attic/epic
-
-
-86021	
-
-
-
-
+86008	attic/epic/doric
+86012	doric/aeolic
+86016	attic/epic
 86029	attic/epic
 86033	attic
-86035	
-86037	
-86039	
-
-attic/epic/doric
-
-doric/aeolic
-
-
-
-
-86049	
-
-86052	
-
-
-attic/epic/doric
+86041	attic/epic/doric
+86043	doric/aeolic
+86055	attic/epic/doric
 86057	attic/epic/doric
 86059	attic/epic/doric
 attic
 86062	doric/aeolic
-
-attic/epic/doric
-
-
-
-
-
-86071	
-attic/epic
+86064	attic/epic/doric
+86072	attic/epic
 doric
-
-86077	
-
-
-86081	
-attic/epic
+86082	attic/epic
 86085	attic/epic
-
-attic
-
-
-86091	
-86093	
-86095	
-
-
-86100	
-
-attic/epic
-
-attic
+86087	attic
+86102	attic/epic
+86104	attic
 epic/doric/ionic
-
-86108	
-86110	
-attic/epic
-
-86114	
-attic/epic
-86117	
-86120	
+86111	attic/epic
+86115	attic/epic
 86122	attic/epic/doric
-86124	
 86126	epic
-
-attic
+86128	attic
 86130	attic
 epic/ionic/attic
 86134	attic/epic
-
-
+86136	epic
 attic
-
-attic
-
-
-
+86139	attic
 86145	attic/epic/doric
 attic/epic
 86148	attic
-
-
-
-
-86154	
-
-
-86158	
-86162	
-
-attic
-
-86167	
-attic
+86164	attic
+86168	attic
 86171	attic/epic/ionic
-
-
-attic
+86174	attic
 epic/doric
-
-
-attic
-
-86181	
+86178	attic
 86183	attic
 epic/ionic/attic
-86187	
-attic
-
-
-86193	
-86196	
-86199	
+86188	attic
+86193	epic
 86201	epic
-
-86205	
-86207	
-
-epic
+86209	epic
 86211	doric/aeolic
-
-
-
-
 86218	attic
-
-86221	
-attic
-86224	
-
-
-epic
+86222	attic
+86227	epic
 doric/aeolic
-
-86231	
-86233	
-
-86236	
 86239	epic
-
-86242	
-86244	
-attic
+86245	attic
 86256	attic
 86258	attic/epic/ionic
 86260	doric/aeolic
-86266	
-ionic
-
-attic/epic
-86271	
-attic
-
-
-
-ionic
+86269	attic/epic
+86272	attic
 86278	doric/aeolic
-
-86281	
-
-86284	
-
-
-86290	
-
-
-
-doric/aeolic
-
-86299	
-attic/epic
-
-doric
-
-86305	
-86307	
-
-
-86311	
-86313	
-
-86316	
-
-doric
-86322	
-
+86294	doric/aeolic
+86300	attic/epic
+86302	doric
+86318	doric
+86323	epic
 doric/aeolic
 86328	attic/epic/ionic
-
-86331	
+epic
 86335	attic
-86339	
-
-attic/epic
-
-doric
-
-
-
-
-
-86350	
-86352	
-
+86341	attic/epic
+86343	doric
 86355	epic/doric
-
+epic
 attic
 attic/epic/doric
-
-86361	
-doric
-attic
+86362	doric
+epic
 86366	doric/aeolic
-86368	
-
-
-attic
-
-
-epic/doric
-
-86377	
-
-attic/epic/ionic
-
-86382	
+86371	attic
+86374	epic/doric
+86379	attic/epic/ionic
 86385	doric/aeolic
 attic/epic
 attic
-86389	
-86394	
-86397	
-epic
-
-
-86404	
-86406	ionic
+86398	epic
 86408	doric/aeolic
-86411	
-
-86414	
-86416	
 86421	attic/epic
 attic/epic
-86424	
-
-86428	
-
-86433	
-
-86436	
-86439	
-86441	
-
 86444	attic/epic/doric
-86447	
-
-
-
 86452	attic
-86454	
 86457	doric
 doric/aeolic
-86460	ionic
-
-
-86464	
-86469	
-epic
+86470	epic
 attic
-
-86474	
-86477	
-epic/doric/ionic/aeolic
-
-
-attic/epic/doric/ionic
+86478	epic/doric/ionic/aeolic
+86481	attic/epic/doric/ionic
 doric/aeolic
-
-86485	
-86491	
-epic/doric/ionic/aeolic
-86494	
-86496	
-86498	
-ionic
+epic
+86492	epic/doric/ionic/aeolic
 86501	doric/aeolic
 86503	doric/aeolic
-
-doric
+86505	doric
 attic
-
-doric/aeolic
-86510	
-doric
-
-epic/doric/ionic/aeolic
-86516	
+86508	doric/aeolic
+86511	attic/epic/ionic
+86513	epic/doric/ionic/aeolic
 86518	attic
-86520	
-
 86523	doric/aeolic
 86527	attic/epic/ionic
 attic
-86534	
-
-
-doric/aeolic
+86537	doric/aeolic
 86540	epic
 attic
-86543	
-
 86547	epic
-86551	
-86554	
-86556	
-
-
-
-
-86562	
-
-
-
 86567	doric
-
-86575	
-
-
-86580	
 86583	attic/epic
-
+86585	doric/aeolic
 doric/aeolic
-doric/aeolic
-86590	
-86592	
-
 86595	epic/ionic/attic/doric
 doric/aeolic
 ionic/doric/aeolic
-86599	
 86602	attic
-86604	
-
-
-
-
-
-doric/aeolic
-86612	
+86610	doric/aeolic
 86614	attic/epic/ionic
-86616	
-
-
-ionic
-
-86622	
 86625	attic/epic/doric/ionic
-
-86630	
-doric
+86631	doric
 86634	attic
-
-
-ionic
-86641	
-
-86647	
-86663	
 86665	attic/epic/doric
-86667	
-
-
-86671	
-
-
-86675	
 86678	attic
-
-
-
-
-doric/aeolic
-
-
-86689	
-
-86692	
-
-
-
-attic
+86683	doric/aeolic
+86690	attic/epic
+86696	attic
 epic
-
-
-
-
-
-86704	
-doric/aeolic
-
-
-
-
-
-
-86713	
-86718	
-ionic
+86705	doric/aeolic
+86719	ionic
 attic
-
-86724	
-
-
-
-
-
-
 86732	doric
 attic
-
-epic/doric/ionic/aeolic
-
-
-
-86740	
-86742	
-86744	
-86746	
-
-86750	
-86752	
-epic/ionic/attic/doric
+86735	epic/doric/ionic/aeolic
+86753	epic/ionic/attic/doric
 attic/epic/ionic
 86756	doric
-86758	
-86760	
-86762	
-86764	attic/epic/ionic
-
-
+86766	epic
 attic
-86769	
-86772	
 86776	attic/epic/ionic
 86778	attic/epic/doric
 86780	doric/aeolic
-86782	
-86784	
 86786	attic
-86792	
-epic/doric/ionic/aeolic
-
-epic
-
-
-
+86793	epic/doric/ionic/aeolic
+86795	epic
 86800	doric
 attic
-
-86804	
-
-attic
+86806	attic
 attic/epic
-
-
-epic/doric/aeolic
-
-
-
-
-86820	
-
-86823	
-
-doric/aeolic
+86810	epic/doric/aeolic
+86825	doric/aeolic
 86828	attic/epic/ionic
 86831	doric
-
-ionic
-
+86833	ionic
 86840	attic/epic/doric
-
-attic
-
-
-
-
-
-
-86850	
-
-
+86842	attic
 86854	epic
 doric/aeolic
-
-
-
-86860	
-
-86863	
-doric/aeolic
-86866	
-
-86869	
-
-86872	
-doric/aeolic
-
-
-
-86878	
-
-
-
-86883	
-
-
-
-
-86891	ionic
+86864	doric/aeolic
+86873	doric/aeolic
+86886	doric/ionic
 86894	attic/epic/ionic
-
-
-86898	
-epic/doric/aeolic
-
+86899	epic/doric/aeolic
 86902	attic
-
-
-86907	
-
-86913	
-epic
-86920	
-86923	
-86927	
-
-86932	
+86914	epic
 86934	attic
-
-doric/aeolic
-
-86940	
-86942	ionic
-86944	
-86946	
-86949	
-86951	
-86956	
-
-epic
-
-
+86936	doric/aeolic
+86958	epic
 86962	doric/aeolic
-86965	
-
-
-attic/epic/doric/ionic
+86968	attic/epic/doric/ionic
 86970	attic
-86972	
-86977	
-
-
-
-
-
-
 86985	doric/ionic
 epic/doric/ionic/aeolic
 attic
-
-
-
-
-epic
-86994	
-attic
+86992	epic
+86995	attic
 attic/epic/doric
-86999	
-
-87002	
-attic/epic
-87014	
+87003	attic/epic
 87016	attic/epic/doric
-
-
-
-attic/epic
-
-
+87020	attic/epic
 87024	attic/epic
-
-87027	
-attic/ionic
-
-
+87028	attic/ionic
+87030	attic
 epic/ionic/attic/doric
-87033	
-
-
-
-
-87039	
-attic
-87042	ionic
-attic
+87035	attic
+87040	attic
+87043	attic
 87045	doric/aeolic
 attic
-87048	
-
-87051	
-doric/aeolic
+87052	doric/aeolic
 attic/epic
-87055	
-ionic
-87059	
-
-87063	
-
-87067	
 87070	doric
 87072	doric/aeolic
-
-
-doric
-
-attic/epic/ionic
-
-87080	
-
-epic/ionic/attic
-
-87085	
-attic/epic/doric/ionic
+87075	epic
+87077	attic/epic/ionic
+87082	epic/ionic/attic
+87086	attic/epic/doric/ionic
 attic/epic
-87090	
 87093	attic/epic
-87096	
-
-epic/doric/aeolic
-
-87103	
-
-
+87098	epic/doric/aeolic
 87107	attic/epic
-
-
-attic/epic/doric/ionic
+87110	attic/epic/doric/ionic
 87113	attic/epic
-87115	
 87117	attic/ionic/epic
-87119	
-
-
-doric/aeolic
-
-epic
+87122	doric/aeolic
+87124	epic
 attic
-
-
-attic
-
-87131	
-
-87134	ionic
-doric/ionic
-87137	
-87139	ionic
-doric/aeolic
-
-87144	
+87128	attic
+87135	doric/ionic
+87140	doric/aeolic
 87148	doric/ionic
-87150	
-87152	
-
-
-
-87157	
-doric/aeolic
+87158	doric/aeolic
 doric
 attic/epic/ionic
-ionic
-doric/aeolic
-87164	
-
+87162	doric/aeolic
 87169	doric/aeolic
-
-
-doric/aeolic
-
-
-87176	ionic
-doric/aeolic
-87181	
-
-
-
-
-doric/aeolic
-87188	
-87190	
-87192	
-attic/epic
-87195	
-
-87198	
-87200	
-87202	
-87205	
-87210	
-attic/epic
-
-attic/epic/doric
-87215	
-
-
-
-87220	
-87222	
-
+87172	doric/aeolic
+87177	doric/aeolic
+87186	doric/aeolic
+87193	attic/epic
+87211	attic/epic
+87220	attic/epic
 87225	doric/aeolic
-87227	
-
-attic
+87229	attic
 87231	doric/aeolic
-87233	
-87235	
-epic
-87238	
-
-aeolic
-87242	
+87236	epic
+87240	aeolic
 87248	attic/epic/doric
-87251	
-
-
 87255	attic/epic/ionic
 87258	epic/doric/aeolic
 doric/aeolic
-
-
-
 87264	epic
 attic
-87267	
-
-
-87272	
-87274	
-87276	
+87269	attic
+87274	attic
 87278	attic/epic/doric
-
-doric/aeolic
-
-
-
+87280	doric/aeolic
 87285	epic
-87290	
-87295	
-87297	ionic
-
-
-
-
-
-
-
-
-87308	
-
-epic
+87301	epic
+87310	epic
 87312	attic/epic
-
-attic
+87314	attic
 87318	attic/epic/doric
-87320	
-doric/laconia
+87321	doric/laconia
 87325	doric/aeolic
-
-87328	
-87331	
-
-
-87335	
-87337	
 87339	doric
 ionic
-87342	
-epic/doric/ionic/aeolic
-87346	
-
-
-ionic
-doric/aeolic
+87343	epic/doric/ionic/aeolic
+87350	doric/aeolic
 attic/epic/doric
-87353	
-
-87356	
-epic
-87359	
-87361	
+87357	epic
 87365	attic
-
 87370	doric/aeolic
-87372	
-
 87375	attic
-
-
-
-87381	
-
-ionic
 87386	attic/epic
 doric
-
-87390	
-
-87395	
-
-
-
 87400	epic
-
-87403	
-87405	
-87409	
-
-
-
-
-ionic
-
-
-attic/doric/ionic/aeolic
-ionic
-87423	
-87425	
-
-attic/doric/ionic/aeolic
-ionic
-87430	
-87433	
-
-
+87410	attic/epic/ionic
+87414	ionic
+87417	attic/doric/ionic/aeolic
+87427	attic/doric/ionic/aeolic
 87437	doric/aeolic
-
-
-87441	
-87445	
-attic/epic
-87448	
-87450	
-
-ionic
-
-87460	
-
-
-doric/aeolic
-87465	
-attic/epic
-87468	
-
+87446	attic/epic
+87452	ionic
+87463	doric/aeolic
+87466	attic/epic
 87472	epic
-
-
-ionic
-
-
-
-87481	
-
-
+87475	ionic
 87485	ionic
-87488	ionic
-87493	ionic
-doric/aeolic
-
-87497	
-doric/aeolic
-87500	
-87503	
-
-
-
-87509	
-87511	
-87514	
-87517	
-87519	
-ionic
+87494	doric/aeolic
+87498	doric/aeolic
+87511	doric
 87523	attic/epic/doric
-87528	
+87528	attic
 doric
 87531	doric/aeolic
-
-87534	
-87537	ionic
-
-
-87541	
-87544	
-
-87547	
-87552	
 87555	doric/aeolic
-
-attic/epic/ionic
-87560	
-attic/epic/doric
-
-87564	
-
-
-87568	
+87557	attic/epic/ionic
+87561	attic/epic/doric
 87570	doric
 attic/epic
 87573	doric/aeolic
-87575	
-
-
-87579	
-87581	
-
-
-epic/doric/ionic/aeolic
-
-87587	
-87590	
-87592	
-doric/aeolic
-
-
-
-87599	ionic
-
+87584	epic/doric/ionic/aeolic
+87590	epic
+87593	doric/aeolic
+87600	attic/epic/ionic
 87602	attic/epic/ionic
-
-
-87606	
-87608	ionic
-
-
 87612	attic/epic
-
-87615	
-doric/aeolic
-
-
-87620	
-87622	
-
-
-attic/epic/doric
-
-epic/doric
-87629	
-
-87632	
+87616	doric/aeolic
+87625	attic/epic/doric
+87627	epic/doric
 87634	attic/epic/doric
 epic/doric
 doric/aeolic
 87638	epic
-87640	
-epic/doric/aeolic
-87643	
-
-attic/epic/doric
+87641	epic/doric/aeolic
+87645	attic/epic/doric
 doric/aeolic
-87649	
-
-attic/epic/doric/ionic
-87656	
-attic/epic/ionic
+87651	attic/epic/doric/ionic
+87657	attic/epic/ionic
 87659	doric
 doric
 doric/aeolic
-
-
 87666	attic/epic/doric
-87668	
-
-87671	
-epic/ionic
-
-87677	
-
+87672	epic/ionic
 87682	attic/epic/doric
-87684	
-
 87688	doric
-87690	
-epic/ionic
-
-87696	
-
-87699	
-
-
-
-
-
-
-
-doric/aeolic
-
-
-attic/epic
-
-
-attic
-87715	
+87691	epic/ionic
+87707	doric/aeolic
+87710	attic/epic
+87713	attic
 87717	epic/doric/aeolic
-
-
-
-
-
-
-
-epic/doric/aeolic
+87725	epic/doric/aeolic
 87728	epic
-87730	
-
-doric/aeolic
-
-
-
-
-87738	
+87732	doric/aeolic
 87741	attic/epic/ionic
-87743	
-87746	
-87751	
-attic/epic
-87754	
+87752	attic/epic
 87757	doric/ionic
-
-epic/doric/aeolic
-
-87764	
-epic
-
-
-87772	
-87774	
-attic/epic/doric/ionic
-87778	
-87780	
-87782	
-87784	
-87791	
-
+87759	epic/doric/aeolic
+87765	epic
+87775	attic/epic/doric/ionic
 87797	attic
-
 87802	attic
-
-87805	
-87808	
-87811	
-87813	
-
-
-ionic
-87819	ionic
-doric/aeolic
-87822	ionic
-
-87825	ionic
-
-
-87829	
-87831	
-attic
-
-87837	
-
-
-87841	
-
-87844	
-87846	
-87848	
+87805	doric
+87820	doric/aeolic
+87832	attic
+87839	epic
 87850	doric/aeolic
 attic/epic
-
-87854	
-
-87858	ionic
-87860	
-87862	
-87866	
-
-attic
-87872	
-
-87875	
-
-87879	
-doric
-87882	
-87886	
-87889	
-attic/epic/doric
+87868	attic
+87880	doric
+87890	attic/epic/doric
 87894	doric/aeolic
-
-
-
-
-doric
-
-87902	
+87899	doric
 87904	doric
-
-
-
-
-87910	
-
-
-
-attic
-
-
-87918	
-
-attic/epic/ionic
-
-
-
-87925	
-
-
-87932	
-
-
-
-87937	
-epic/ionic/attic/doric
-
+87914	attic
+87920	attic/epic/ionic
+87938	epic/ionic/attic/doric
 87941	doric
-
-attic/*ar.
-
-87948	
-87950	
-
-87959	
-87961	
-
-
-attic/*ar.
-
-87967	
-
+87943	attic/*ar.
+87948	doric/ionic
+87964	attic/*ar.
 87971	doric/aeolic
 87973	doric/aeolic
-
-
-
-attic/epic
-87979	
-epic/ionic/attic/doric
-
+87977	attic/epic
+87980	epic/ionic/attic/doric
+87982	attic/epic/doric
 attic/epic/doric
-attic/epic/doric
-attic/epic/ionic
-
-
-
-87990	
-attic/ionic
-87993	
-
-attic/epic/doric/ionic
+doric
+87991	attic/ionic
+87995	attic/epic/doric/ionic
 doric/aeolic
 attic
-
-88000	
-88002	
-
-
-attic/*ar.
-
-
-ionic
-
-epic
-
+88005	attic/*ar.
+88010	epic
 88015	doric/aeolic
-
-
-88021	
-
-88024	
-88026	
-doric/aeolic
-88029	
-88031	
+88027	doric/aeolic
 88037	doric/aeolic
-
-88040	
-
-88043	
-88046	
-88049	
-88051	
-88054	
-88056	
-
-88061	
-
-88064	ionic
-88066	
-
-88069	
-
-
-88073	
-
-
-
-88078	
-epic/doric
-88085	
-
-
-
-
-88091	
-epic/doric/ionic/aeolic
-
+88079	epic/doric
+88092	epic/doric/ionic/aeolic
 88095	attic/epic
 88097	epic/doric/aeolic
-88099	
-88102	
-88104	
-88112	
-
-doric/laconia
-
-88117	
+88114	doric/laconia
+88118	doric/aeolic
+88130	doric/aeolic
 doric/aeolic
-
-88123	
-
-88126	
-88129	
-doric/aeolic
-doric/aeolic
-
-
 88136	doric/laconia
 88139	epic/doric
-
 88143	doric/ionic
-88145	
-88150	
-88153	
-epic/doric/ionic/aeolic
+88145	epic
+88154	epic/doric/ionic/aeolic
 attic
-
-88160	
 88162	attic/epic
-
-88166	
-
-88169	
 88175	attic/epic
-88177	
-
 88182	attic/epic/doric
 doric
-88185	
-88189	ionic
-doric/aeolic
-
+88190	doric/aeolic
 88194	attic/ionic
-
 88197	attic
-88199	
-88202	
-
-88205	
-
-
-88210	
-
-
-
 88216	attic/epic/doric
-
-
-
-88221	
-88223	
-
-88226	
-88229	
-
-
-
-88235	
-88237	ionic
-88239	
-
-
-
-
-ionic
 88247	attic/epic/ionic
 attic/epic/doric
 88250	epic/doric
-88252	
-
-
-attic
-
-
-
+88252	epic
+88255	attic
 88260	epic/doric
 doric/aeolic
 doric
 doric/aeolic
 attic/epic
-
-
 88269	doric/aeolic
 epic/doric
-88272	
 88274	attic/epic
-88276	
-doric/aeolic
-
-
-attic/ionic
+88277	doric/aeolic
+88280	attic/ionic
 attic
 epic/doric/ionic
-ionic
 88286	epic/doric
-
 88289	doric/aeolic
 attic
-
-88293	
-88295	
-88297	
-
-88300	
-88302	
+88300	epic
 88307	attic/epic
-88309	
-doric
-
-attic/epic/doric
-88314	
-attic/epic
+88310	doric
+88312	attic/epic/doric
+88315	attic/epic
 88317	doric/aeolic
-88319	ionic
-88323	
-
-88331	
-88334	
-doric/aeolic
-
-
+88335	doric/aeolic
 88339	doric/aeolic
-
-
-88344	
-88347	
 88349	epic
-88352	
-
-88357	
-
-doric/aeolic
-88363	
-88365	
+88359	doric/aeolic
 88367	doric/aeolic
 attic
-
-
-doric/aeolic
-
+88371	doric/aeolic
 88374	doric/aeolic
-88377	
-doric/aeolic
-
-
-
-
-
-88385	
-
-
-
-
-attic/epic/doric
-
-
-attic/ionic
-
-epic/doric
-
-88398	
-
-
-doric
-
-epic/ionic/attic/doric
-
-88406	
-doric
+88378	doric/aeolic
+88390	attic/epic/doric
+88393	attic/ionic
+88395	epic/doric
+88401	doric
+88403	epic/ionic/attic/doric
+88407	doric
 88409	attic/epic/doric
-88411	
 88413	attic/epic
-88415	
-
-ionic
 88419	attic/epic/doric
-
-doric
+88421	doric
 88423	attic/epic/doric
-
-doric
-
+88425	doric
 88428	attic/epic
 88431	attic/epic
-
-88434	
-88437	
-attic/ionic
-88440	
-
-attic/epic/doric
-88445	
-
+88438	attic/ionic
+88442	attic/epic/doric
 88449	doric/aeolic
-88451	
-88454	
-88456	
-
-88459	
-
-doric/attic/epic
-
-
-88466	ionic
-88469	
-
-
+88461	doric/attic/epic
 88473	doric/aeolic
-88475	
-88477	
-ionic
-88481	
-88483	
-88485	
+88478	ionic
 88487	attic/epic/doric
-
-epic/ionic/doric/laconia
-88491	
-
-
-88495	
-epic/doric
-
-88499	
-88501	
+88496	epic/doric
 88503	attic/epic/doric
 88505	doric/aeolic
 epic
-88508	
-doric
-88512	
-epic/doric/ionic/aeolic
+88509	doric
+88513	epic/doric/ionic/aeolic
 attic/epic/doric
-
-
-
-doric/aeolic
+88518	doric/aeolic
 doric/aeolic
 ionic/doric/aeolic
-
-88523	
-
 88526	doric/aeolic
-
-
 88532	attic/epic/doric
-
-
-
-
-88539	
-
-
-
-attic
-
+88543	attic
+88545	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-attic/epic
-88551	
-doric
+88548	attic/epic
+88552	attic/epic/ionic
 doric/aeolic
 epic
-88556	
-
-88560	
-
-
-
-
-
 88567	doric
-
-
-doric/aeolic
+88570	doric/aeolic
 epic
-88573	
-
-
-
-
-attic
-
-
-epic/doric/aeolic
-
-88585	
-
-88588	
-88590	
-
-epic
+88578	attic
+88581	epic/doric/aeolic
+88592	epic
 88594	attic/epic
 88597	doric/aeolic
 attic/epic
-
-88602	
 88605	doric/aeolic
-88607	
-attic/epic/doric/ionic
-88610	
-88612	
-88614	
-88618	
-ionic
-88621	
-doric/aeolic
-88625	
-doric/epic/ionic
+88608	attic/epic/doric/ionic
+88622	doric/aeolic
+88626	doric/epic/ionic
 attic
-
-88630	
 88632	doric/aeolic
 attic/epic
-
-88639	ionic
-doric/ionic
+88640	doric/ionic
 attic/epic
-88643	
-doric
+88644	doric
 88646	doric/aeolic
-
-
-
-
+88650	epic
 88652	doric/ionic
 doric/aeolic
-88655	
+88655	epic
 88657	epic
-
-88662	
-attic/epic
-attic/epic/doric
-88666	
 epic
-ionic
+88663	attic/epic
+attic/epic/doric
+88667	epic
 88671	attic/epic/doric
 epic
-attic/epic/ionic
-doric/aeolic
+88674	doric/aeolic
 doric/aeolic
 attic/epic
-88678	
-88680	
-attic/epic
+88681	attic/epic
 88686	attic/epic
 88691	attic/epic
 88693	doric/ionic
 88695	doric/ionic
-88698	
-
-
 88703	doric
-
 88706	epic/ionic/attic/doric
-88708	
-
-epic/doric/aeolic
-88713	
-
-
-
-
-
-
-
-88722	
-
-
-
-
-attic/epic
-
-
-
-
-attic/epic
+88710	epic/doric/aeolic
+88727	attic/epic
+88732	attic/epic
 attic/ionic
-88735	doric/laconia
-
-
-
-
-doric
+88740	doric
 attic/epic
-doric/laconia
-
-
-88748	
-
-doric
-epic/doric/ionic/aeolic
-88755	
-
-
-doric/aeolic
+88750	doric
+88758	attic/epic/doric
 epic/doric
-
-
-88765	
-
-
-
-
-
-88772	
-88775	
-88777	
-88779	
-88781	
 88783	attic
-
-88787	
-
+88789	attic
 attic
-attic
-
-
-
-88795	
-
-88800	
-epic
-88804	
+88801	epic
 88808	doric/aeolic
-
-88811	
-88813	
 88817	ionic/doric/aeolic
-
-epic/ionic
-ionic
-doric/aeolic
+88819	epic/ionic
+88821	doric/aeolic
 88824	attic/epic/doric
-
-attic/ionic
-
-
-ionic
-attic/epic
-88834	
-88836	
-
-88839	
-88841	
-
-doric/laconia
-88845	
-
-
-attic/epic
-
-88851	
-doric/laconia
-88854	
-
-88857	
-88863	
-
-
-attic/epic/doric
-
+88826	attic/ionic
+88830	attic/epic
+88843	doric/laconia
+88848	attic/epic
+88852	doric/laconia
+88866	attic/epic/doric
 88869	attic/epic
-
-
-
-
-
 88877	attic/epic
-88879	
-
-
 88886	attic/epic/doric/ionic
 doric
 88889	doric
 88892	attic/epic/doric/ionic
-
+attic/epic/ionic
 doric
-88896	
-attic/epic
-
-attic
-88901	
+88897	attic/epic
+88899	attic
 88904	doric
-
-attic/epic
-88908	
-doric/laconia
-
-
-attic/epic
+88906	attic/epic
+88909	doric/laconia
+88912	attic/epic
 88914	attic/epic
-
-88917	
-
-doric/laconia
-
-
-
+88919	doric/laconia
 88924	attic/epic
 attic/epic
-
-88929	
-
-attic/epic/ionic
-88934	
-
+88931	attic/epic/ionic
+88936	doric/aeolic
+doric
+88940	attic/epic
+88942	attic/epic/ionic
 doric/aeolic
-
-88939	
-attic/epic
-
-attic/epic/ionic
-doric/aeolic
-
+doric
 88946	attic/epic
-
-
-doric/aeolic
-
-88952	
-doric/aeolic
-
+88949	doric/aeolic
+doric
+88953	doric/aeolic
+doric
 88956	attic
-
-88959	ionic
-88962	
-88966	
-88968	
-88970	
-
-88974	
-attic/epic/doric/ionic
-88978	
-
-88982	
-attic/epic/doric/ionic
-88986	
+88975	attic/epic/doric/ionic
+88983	attic/epic/doric/ionic
 88989	epic
 attic/epic
 88992	attic
-
 88996	attic/epic/ionic
 attic/epic/doric
-
-
-
-
-
-
-89006	doric
+89006	attic/epic/ionic
 ionic/doric/aeolic
-
-attic/epic
-
-
-89014	
-
-
-89018	
-attic/epic
-
-89024	
-doric/aeolic
-89027	
-
-89030	
+89009	attic/epic
+89019	attic/epic
+89025	doric/aeolic
 89033	attic/epic
-89035	
-
-doric/aeolic
-89040	
-
-attic
-
-89045	
-89047	
-
-
-attic/epic
-89052	
-
-89055	
-
-
-89059	
-
-
-89063	
-89066	
-doric/ionic
+89037	doric/aeolic
+89042	attic
+89050	attic/epic
+89059	epic
+89067	doric/ionic
 attic/epic/doric/ionic
-
-attic/epic
-89072	
-89074	
-
-
-
-89079	
+89070	attic/epic
 89082	epic/doric
-89084	
-
-89088	
-
-attic
-
-epic/doric/ionic/aeolic
+89090	attic
+89092	epic/doric/ionic/aeolic
 89094	epic/doric/ionic/aeolic
 doric/aeolic
 89098	doric/aeolic
-89100	
-
-89103	
-
-89106	
-
 89109	attic/epic
-
 89112	attic/epic
-
-89118	
-89120	
 89122	doric
-
-89125	
-89127	
-89129	ionic
-89131	
-89134	
 89136	epic
 attic
-
-
-89141	
-doric/aeolic
-
-attic/epic
+89142	doric/aeolic
+89144	attic/epic
 89146	attic/epic
-
-89149	doric
-
-89152	
-89157	
-89159	
-89161	
-89163	
-
-89168	epic/ionic/attic
-
-
-
-epic/ionic/doric/laconia
-attic
-
-
-
-
-attic/epic/doric
-89180	
-89182	
-
-89186	doric/aeolic
-
-89189	
-
-
-89193	
-89195	
-
-
-89199	
-89201	
-89204	
-
-
-89208	
-attic/epic/doric
-89212	
-
-89216	
-attic/epic
-doric/laconia
-89220	ionic
-89222	
-89224	epic/doric
-89227	
-
-
-
-
-doric/aeolic
-89235	
-89237	
-
-
 epic
-89242	
-
-89246	ionic
+89149	doric
+89168	epic/ionic/attic
+89173	attic
+89178	attic/epic/doric
+89186	doric/aeolic
+89209	attic/epic/doric
+89217	attic/epic
+89224	epic/doric
+89232	doric/aeolic
+89240	epic
 89248	doric/aeolic
 doric/aeolic
-89251	
-
+89252	epic
 89254	doric
-89256	
-89259	
-attic/epic/doric
-89263	
-
+89256	epic
+89260	attic/epic/doric
 89268	doric
 89273	doric
-89277	
-
-
-
-89282	
-89284	
-89289	
 89292	attic
-
-
+89295	attic
+89307	doric/aeolic
 attic
-
-89298	
-89302	
-
-89305	
-ionic
+89317	epic/doric/aeolic
+89322	doric/aeolic
 doric/aeolic
-attic
-
-
-89312	
-89315	
-
-epic/doric/aeolic
-
-ionic
-89321	
-doric/aeolic
-doric/aeolic
-
-
-
 89328	doric/aeolic
-
-
-
-89333	
-89336	
-89338	
-
-
+89336	doric/aeolic
 89343	attic/epic
-89345	
-
-89349	
-
-doric/aeolic
-
-attic
-89355	
-89358	
-
-
-doric/aeolic
-89363	
-89368	
-epic
+89351	doric/aeolic
+89353	attic
+89361	doric/aeolic
+89369	epic
 89372	doric/aeolic
-
-89375	
-
-attic
-89380	
-
-89385	
-doric/aeolic
+89377	attic
+89386	doric/aeolic
 epic
-
-89393	
-epic/doric
-attic/epic/ionic
-
+89394	epic/doric
+doric/aeolic
 89398	doric
-
-attic/epic
-89402	ionic
+89400	attic/epic
 89404	attic/epic
 epic/doric
-
-
-89409	
-attic/ionic
-89412	
-89416	
+89410	attic/ionic
 89419	attic/epic/doric
-
-epic/doric
-
-89425	
-
-89429	attic/epic/ionic
-89436	
+89421	epic/doric
+89429	doric/aeolic
+89436	doric
 89439	doric
-
-89442	
 89444	epic/doric
-
-89447	
+epic
 89449	doric/aeolic
-89451	
-attic
-
-ionic
-89459	
-attic
-ionic
-
-doric/aeolic
+89452	attic
+89460	attic
+89463	doric/aeolic
 attic/epic/doric
 89466	doric/laconia
 attic
-
-
-doric/aeolic
-
-
-
-89477	
-89479	
-
+89470	doric/aeolic
 89483	epic/ionic
-
-
-attic
-
-89490	
-
+89486	attic
 89493	attic/ionic
-
-89496	
-
-89499	
-89501	
-ionic
-89505	
-89508	
-attic/ionic
-
-89513	
-attic/ionic
-89516	
-89519	
-89522	
-
-attic
+89509	attic/ionic
+89514	attic/ionic
+89524	attic
 89528	doric/laconia
 attic
-
 89533	attic/epic/doric
-89535	
-89538	
-
-
-89542	
-
-attic/epic/doric
+89544	attic/epic/doric
 doric/aeolic
-89550	
-epic/ionic/doric/aeolic
-
-
+89551	epic/ionic/doric/aeolic
 89555	epic/ionic
-
 89558	attic/epic/doric/ionic
-89562	
-
-attic
+89564	attic
 89567	epic/doric
-89572	
-
 89575	doric
 89577	*ntest./doric/aeolic
-89579	
-attic
+89580	attic
 89583	epic/doric
-
-
-
-
-
-89590	ionic
+89588	attic
 89592	doric
-
-89595	
-doric/aeolic
+89596	doric/aeolic
 epic/doric
 89600	epic/doric
-89602	
+89602	attic/epic
 doric/aeolic
 epic/doric
-
-
 89608	epic
-89612	ionic
 89614	epic/ionic/attic/doric
 89616	attic/epic/doric
-89619	
 89621	ionic/doric/aeolic
 doric/aeolic
-
-89625	ionic
-89627	
-
-
-
-
 89636	doric/aeolic
 epic
-
-
-89643	
-89645	
-doric/aeolic
+89646	doric/aeolic
 epic
-89649	
-89652	
-
-89656	
-89659	
-89661	
 89665	epic/doric
-ionic
-doric
+89667	doric
 doric/aeolic
-89670	
 89673	epic/doric
-
-89676	
-
 89679	attic/epic/doric
 89681	epic/doric
-89683	
+89683	epic
 attic
-
-
-attic
-
-89690	
+89687	attic
+89690	epic
 89692	doric
 attic
-89695	
-89697	
-89700	
-
-89704	
-
-
-
-
-attic/epic/doric
-
-
-
-89714	
-
-
-
-ionic
+89709	attic/epic/doric
 89722	attic/epic/doric
 doric/aeolic
-
-
-
 89729	epic/doric
-
-89732	
-
-doric
-
+epic
+89734	doric
 89739	doric
-
 89742	epic/doric
 attic/epic/ionic
-
 89746	doric
 attic/epic/ionic
-89750	
-doric
-89754	
-89756	
-89758	
+89751	doric
 89760	ionic/epic
-
-
-doric
-
-
-89767	
-89769	
-89771	
+89763	doric
+89771	attic
 epic/doric
 ionic
-89778	
-
-89782	
-
-
 89787	doric/aeolic
 89789	attic/epic/doric
-
-
-
-attic
-89795	
-89797	
-
-89800	
-89804	
-attic/epic/doric
+89793	attic
+89805	attic/epic/doric
 89807	attic/epic/doric
 doric/aeolic
-89810	
-
-doric/aeolic
-
-89819	
-doric/aeolic
-
-
-89824	
-
-89828	
-89830	
-ionic
-
-
-doric/aeolic
-89836	
-89838	ionic
-epic/doric
-
-
+89810	attic/epic/ionic
+89812	doric/aeolic
+89820	doric/aeolic
+89834	doric/aeolic
+89839	epic/doric
 89845	parad_form
-
-89849	
 89851	epic
-
-
 89856	epic/ionic
-89859	
-89861	
-
-
-89866	
-
-
-
-
 89873	epic
-
-
-
-89880	
-
-
-attic/epic/ionic
-89885	
-
-
-
-89890	
-
-
-
-89896	
-
-
-89900	
-
-
-89905	
-
-
-doric/aeolic
+89883	attic/epic/ionic
+89908	doric/aeolic
 89910	doric
 doric/aeolic
 doric
-
-
-
-
 89918	doric
-89920	
-89922	
-
-
-89927	
-
-
-89933	
-89935	
-
-89938	
-attic/epic/ionic
+89939	attic/epic/ionic
 89941	doric
-89944	
-
-89947	
-
 89950	doric/aeolic
-89955	
-89960	
-
-89964	
-89966	
-89968	
 89970	epic/doric
-
-doric/aeolic
-
+89972	doric/aeolic
+attic/epic/ionic
 attic
-
-attic/epic/doric
+89976	attic/epic/doric
 89978	epic/doric
 89980	attic/epic/doric
 89982	doric/aeolic
 doric/aeolic
-89985	
-
-
-89993	
-89995	
-89997	
-
 90001	attic/epic
-
-
-
-
-epic
+90006	epic
 doric/aeolic
-
-
-
-90012	
-90014	
-90016	
-attic/epic/doric/ionic
+90012	epic
+90017	attic/epic/doric/ionic
 doric/aeolic
 ionic/doric/aeolic
-
-
-
 90024	epic/doric
-90026	ionic
-90028	
 90030	doric
-90032	
-
 90035	epic/doric
 doric
-90038	ionic
-90040	
-90043	ionic
-90045	
-
 90050	doric
-
-90054	
 90057	epic/doric
-
-
-attic
+90060	attic
 90062	attic
-
-
-attic
+90065	attic
 90067	epic/doric
 90069	epic/doric
-90071	
-90073	
 90077	doric
-90080	
-
-
 90084	epic/doric
 attic/epic/doric
-90087	
-epic
-90091	
-
+90088	epic
 90094	epic/doric
-
-
-
-
 90100	attic/epic/ionic
-90102	
 90104	epic/doric
-
-
-
-90112	
 90114	attic/epic
 90117	epic/doric
-
-
 90121	doric/laconia
-
 90126	attic
-
-
-90131	
-
-90137	
-
+90137	epic
+doric
 attic/epic/doric
-
 90142	epic/doric
 attic
-
-
-ionic
-90149	ionic
-
-
-doric/aeolic
-90154	
-90156	
-
+90152	doric/aeolic
+90157	epic
 attic
-
-90161	
-
-ionic
-90166	
 90168	attic/epic/ionic
-90172	
-attic
-
-90176	
-90179	
-90181	
-
-attic
-
-
-90187	
-90190	
-
-attic
+90173	attic
+epic
+90183	attic
+90192	attic
 90194	attic/epic/doric
-
-attic/epic/ionic
 90198	attic/epic/doric
 90200	doric/aeolic
 attic
-
-
-attic
-
-
-90208	
-
-90211	
+90204	attic
 90213	doric
 90215	doric/aeolic
-
-
-90219	
-90221	
-attic
-
-attic/epic/doric
+90222	attic
+90224	attic/epic/doric
 attic/epic
-
-90228	
-epic/doric
-
-
+90229	epic/doric
 90233	attic
-
-
 90237	doric
-
-
-attic
-
-
-90245	
-
-
-90249	
-90251	doric
+90240	attic
+90251	epic
 attic/ionic
 90255	doric/laconia
 attic
-
-90259	
-doric
+90260	doric
 90262	epic/doric
-
-90265	
 90271	attic
-
-
+90274	attic
+90279	epic/doric
+doric
+90286	attic
+90289	attic
+90298	doric/aeolic
 attic
-
-90278	
-epic/doric
-
-90283	
-
-
-attic
-
-
-attic
-
-
-
-90295	
-
-ionic
-doric/aeolic
-attic
-
-
-attic
-
-attic
-
-
-attic/epic/doric
+90302	attic
+90304	attic
+90307	attic/epic/doric
 90309	epic/doric
-90311	
+90311	epic
 attic
 90314	attic
-
-
-attic
-
-
-90322	
-90325	
-90327	
-doric
-90330	
-90333	
-attic/epic
-
-attic
-90338	
-
-90345	
-epic/doric
-90348	
-
-
-doric/attic/epic/ionic
-
-90354	
-doric
+90317	attic
+90328	doric
+90334	attic/epic
+90336	attic
+90346	epic/doric
+90351	doric/attic/epic/ionic
+90355	doric
 epic
-
-90360	
 90362	epic/doric
-
-attic/epic/doric
-90366	
+90364	attic/epic/doric
 90368	attic/epic/doric
-90370	
-attic/epic/doric
+90371	attic/epic/doric
 90374	attic/epic/doric
-90376	
-90378	
-
-
-90382	
-
-epic/doric
-
-ionic
+90384	epic/doric
 90388	doric/aeolic
 90391	attic/epic/doric
-
-
-epic/doric
-90396	
-
-90400	
-
-
-
-
-
-ionic
-90408	
-doric/aeolic
-90415	
-90417	
-
-doric/aeolic
-
-
-90424	
-90426	
-90428	
+90394	epic/doric
+90409	doric/aeolic
+90419	doric/aeolic
 90430	doric/aeolic
-90432	
-
-
-epic/ionic/attic
-
-
-90439	
+90435	epic/ionic/attic
 90441	attic
-
-
-90446	
-attic
-
+90447	attic
 90451	epic
-
 90457	attic
 epic/doric/ionic/aeolic
-
 90463	attic/epic/doric
 90465	doric/aeolic
-
-
 90470	epic
-
-
-
-
-90476	
-epic
-
+90477	epic
 90480	attic
-90483	
-90485	
+90483	attic/epic
 90488	doric/aeolic
 attic
 attic
-90493	
-
-
-attic
-
-
-90500	
-90502	
-90504	
-90506	
-epic/doric
-
-90510	
-90512	
-attic
-90515	
+90496	attic
+90502	epic
+90507	epic/doric
+90510	epic
+90513	attic
 90520	attic/epic/doric
-
-epic
+90522	epic
 90525	doric/aeolic
 epic
-90529	
-
-
-attic/epic/doric
-90534	
+90532	attic/epic/doric
 90537	doric/aeolic
-
 90542	attic/epic/doric
-
-90546	
-
-90550	
-doric/aeolic
-
-90554	
-attic
-
-
-
-
-90563	
-attic
-
-
-
-
-
-90573	epic/doric
-90575	
-
-90578	
-
-
-
-90583	
-
-90586	
-doric/aeolic
-
-
-attic
-attic
-
-
-90595	
-
-90598	doric
-90600	
-doric/aeolic
-attic
-attic
-
-
-90607	
-
-
-
-90612	
-doric/aeolic
-attic
-attic
-90617	
-
-
-
-90622	
-
-
-
-
-
-
-90630	
-attic/ionic/doric
 doric
-90634	epic/ionic/doric/laconia
+90551	doric/aeolic
+90555	attic
+90564	attic
+90573	epic/doric
+90587	doric/aeolic
+90590	attic
 attic
-
-
-
-90641	
-
-
+90598	doric
+90601	doric/aeolic
 attic
-90647	
 attic
-
-
-90652	
+90613	doric/aeolic
+attic
+attic
+90631	attic/ionic/doric
+attic/epic/ionic
+90635	attic
+90644	attic
+90648	attic
+90652	doric
 90656	epic/doric/ionic/aeolic
-
-90660	
-90662	
-
-90665	
 90668	epic/doric
-90670	
-
 90673	epic/doric
 epic/ionic/attic
-
-
-
-doric
+90678	doric
 90680	doric/laconia
 attic
-
-
 90685	doric/aeolic
-
-90688	
-doric
-
-
-90693	
-90696	
-
-
-
-90701	
-90704	
-
+90689	doric
 90709	epic/doric
-90711	
-90713	
-90717	
-
-
-
-
-epic/ionic/attic/doric
-90724	
-attic/ionic
-90729	
-
-epic/doric/ionic/aeolic
+90722	epic/ionic/attic/doric
+90725	attic/ionic
+90731	epic/doric/ionic/aeolic
 epic/doric
-
-90735	
-
-
-90739	
-attic/ionic
-
-doric/aeolic
+90740	attic/ionic
+90742	doric/aeolic
 90744	attic/epic/doric
-
-90747	
-doric/aeolic
-90750	
-attic
-90754	ionic
-
-
-attic
-90760	
-attic/epic/doric
+90748	doric/aeolic
+90751	attic
+90757	attic
+90761	attic/epic/doric
 doric/aeolic
 attic/epic/doric
-
-doric/aeolic
-
-
-90771	
-
-90775	
-90777	ionic
-doric/aeolic
-
-90782	
-
-attic
+90765	doric/aeolic
+90778	doric/aeolic
+90784	attic
 90787	epic/doric/aeolic
-
-90791	
-
-90794	
+90792	attic
 90796	doric/aeolic
 doric
 doric/aeolic
-90801	
-90803	
-epic
-90807	
-90810	
-ionic/doric/aeolic
-
-
-90815	
-90817	
+90804	epic
+90811	ionic/doric/aeolic
 90820	attic/epic/ionic
 90822	attic
-90825	
-90827	
+90827	epic
 attic
-90833	
-
-90836	
-doric/aeolic
+90837	doric/aeolic
 attic
-
-
-90843	
-
-attic
-
-
-
+90845	attic
 90851	attic
-
-90854	
-
-90858	
-attic
-
+90859	attic
 90862	epic/doric/aeolic
-
-
 90867	attic
-
-90871	
 90874	attic
 attic
 90877	doric/aeolic
-90881	
-attic
-
-
-90886	
-
-attic
-
-
-attic
-
+90882	attic
+90888	attic
+90891	attic
 90894	attic/epic/doric
-
-
-90899	
-epic/ionic/attic/doric
-90902	
-90906	
-90911	
-90913	
-attic
+90900	epic/ionic/attic/doric
+90914	attic
 90916	attic
-
-
-90920	
-90923	
-doric/aeolic
-90926	
-
+90924	doric/aeolic
+90927	doric
 epic
-
 90932	attic/epic/doric/ionic
-90934	
 90939	epic
-
 90943	attic/epic/doric
-
-90946	
 90950	attic/epic/doric
-
-
-
-90955	
-attic/epic/doric/aeolic
-
-doric
-
-90962	
-90964	
-90966	
-
-doric
+90956	attic/epic/doric/aeolic
+90958	doric
+90968	doric
 epic/doric
-90971	
-
-90977	ionic
-90980	
-90984	
-90987	
-doric
-
-90992	
-90994	
-90996	
+90988	doric
+90992	attic/epic
 90998	attic/epic
-91001	
-
-attic/epic/doric
-91005	
+91003	attic/epic/doric
 91009	attic/epic/doric
-
-
-epic
-
-
+91012	epic
 91017	doric/aeolic
-
 91022	epic/ionic/attic/doric
-91024	
-91028	
-
-
 91032	attic/epic/doric
 91034	doric/aeolic
 91036	doric/aeolic
-
-91042	
-91045	
-91047	
-attic/epic/ionic
-91050	
-91053	
-91057	
-attic/epic/ionic
+91048	attic/epic/ionic
+91058	attic/epic/ionic
 epic
 epic
 91064	doric/laconia
-91067	
 91069	doric/laconia
-91071	
 91074	attic/epic/doric
-
-doric/laconia
-
-
-
-
-91082	
-attic
-
+91076	doric/laconia
+91083	attic
 91086	doric/aeolic
-91088	
-91091	
 91095	attic/epic/doric/ionic
-91099	
-attic/epic/doric/ionic
-
+91100	attic/epic/doric/ionic
 91105	doric/aeolic
-
-
-91109	
-91112	
-
-
-91116	
-attic/epic/doric/ionic
-
-91120	
-aeolic
+91117	attic/epic/doric/ionic
+91121	aeolic
 91123	doric
-
 91130	epic
-
-91133	
-91135	
-
-
-
 91144	epic
-
-91150	
-
-
 91154	epic
-
-
-
-91160	
-
 91163	epic
-91171	
-
-
-
-
-
-doric
-
-
+91172	epic
+91177	doric
 91183	attic
-
-
-doric
+91186	doric
 attic/epic
-
-
 91192	attic
-
-
-attic/epic/doric/ionic
-91197	
-91199	
+91195	attic/epic/doric/ionic
 91201	doric
 attic
-
-doric/laconia
-91207	
-91211	
-
-
-attic/epic
-91217	
-doric
-
-attic/epic
-91222	
-
-91225	
-doric/aeolic
-91228	
-91230	
+91204	doric/laconia
+91214	attic/epic
+91218	doric
+91220	attic/epic
+91226	doric/aeolic
+91231	attic
 attic
-attic
-91234	
-
-attic/epic
-
-91241	
+91236	attic/epic
 91244	doric
-
-
-
-
-91251	
-ionic
-91255	
-
-
-epic
-
-91263	
-91265	
+91252	ionic
+91258	epic
 91267	epic/doric
-91269	
-91271	
-doric/aeolic
-
-91275	
-91277	
-attic/epic/ionic
-
-91281	
-
-
-
-
-epic/doric
-91289	
-
-91292	
-91294	
-91297	
-epic/doric/aeolic
-
-91301	
-
-
-91305	
-91307	
-91309	
-
-
-
-91314	
-91316	ionic
-
-91319	
+91272	doric/aeolic
+91278	attic/epic/ionic
+91286	epic/doric
+91298	epic/doric/aeolic
 91321	epic/doric
-
-
-
-91326	
-91328	ionic
-
-
 91334	doric/aeolic
-91336	
-
-
-91340	
 91342	attic/epic/doric
-91344	
-91347	
-91349	
-
-
-
-
-
-
-
-91359	
-
-
+91352	doric
 attic
-
-91365	
+91362	attic
+91366	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-
-91371	
-
-91376	
-attic
-
-
-91383	ionic
-
+91377	attic
 91386	doric
 91388	epic/doric
-
-
+91391	attic
+91394	attic/epic/ionic
+91402	attic
+91406	attic
 attic
-
-91394	
-
-
-91398	
-
-
-
-attic
-
-
-
-attic
-attic
-
-91410	
-attic/epic/doric/ionic
-
+91411	attic/epic/doric/ionic
 91414	epic/ionic/attic
-
-
-91418	
-91422	
-doric/aeolic
-
-
-
-doric/aeolic
-91429	
-doric/aeolic
-91433	
+91423	doric/aeolic
+91427	attic/epic/doric
+91430	attic/epic/doric
 91436	epic
-91439	
 91442	doric
 91444	attic/epic/doric
-91446	
-91448	
-91453	
-91455	
 91458	attic/epic
 91461	attic/epic/doric
-91465	
-
-
-91471	
-
-91474	
-91477	
-91479	
+91466	epic
 91482	epic/ionic/attic/doric
-91486	
 91488	attic/epic/ionic
 91490	attic/epic/ionic
-91492	
-91494	
 91496	attic/epic/doric
 91498	attic/epic/ionic
 91501	epic
 91504	attic/epic/doric
-91506	
 91508	attic/epic/doric
-
 91511	attic
 attic
-91516	
-91518	
+91516	doric
 91520	epic/doric
-
-
-91524	
-91526	
-
 91529	doric/aeolic
 91533	doric
-
-
-91537	
-91540	
-91542	
-attic
-
+91543	attic
+epic
 attic
 91547	attic/epic/doric
 epic/doric
 91550	attic/epic/doric
 91552	epic/doric
 doric/aeolic
-
-ionic
-
+91555	ionic
+doric/aeolic
 91559	doric/aeolic
 doric
-91564	
-91566	
-91568	
-
-
 91572	epic/doric
-
-doric/aeolic
-
-
-doric/aeolic
-
-
-attic
-91583	
-doric
-
-
-
-
-91591	
+91574	doric/aeolic
+91577	doric/aeolic
+91580	attic
+91584	epic
 91593	epic/doric
 91595	doric
-91598	
 91600	epic/doric
 doric/aeolic
-
-
-
-91607	
-91610	
-
-doric/aeolic
-91615	
-91617	
-
-
-
-attic
-
-91624	
-attic/ionic
-
-
-
-91630	
+91612	doric/aeolic
+91621	attic
+91625	attic/ionic
 91632	epic/doric
-
-
-doric
-91637	
-91639	
-91641	
-doric
-
-91646	
-91648	ionic
-
-91654	
-attic
-91661	
-91663	
-
-91666	
-
-
-
-epic/doric
-
+91635	doric
+91637	doric
+91639	doric
+91642	doric
+91655	attic
+91663	attic/epic
+91670	epic/doric
 91673	epic
 91675	attic/epic/ionic
 attic/epic/doric
 91680	attic/epic
-91682	
 91684	attic/epic
-91686	doric/aeolic
-91688	
-
+91686	attic/epic/doric
 91693	attic
-
-attic/epic
+91695	attic/epic
 91697	attic
-
-attic
+91699	attic
 91701	epic/doric
 91703	attic
 attic
-91706	
-
-attic/ionic
+91708	attic/ionic
 attic
-
-
-attic
+91712	attic
 91716	attic/epic
-91718	ionic
-91722	
-91726	
-
-
-attic
-
-
-
+91729	attic
 91735	epic/doric
-
-
-
-
-91741	
-91744	
 91747	doric
-91749	
-
-epic/doric/ionic/aeolic
-91754	
-91760	
-91762	
-91765	
-
-91768	
-91770	
-91772	
-91774	
-91776	
+91751	epic/doric/ionic/aeolic
 91780	epic/doric/aeolic
 91782	doric
-
-
-attic/epic/ionic
-
-91789	
+91785	attic/epic/ionic
 91793	attic
 attic
-91796	
-91801	
-91803	
-91805	
-
-attic
+91807	attic
 attic
 91813	doric
-
 91816	doric/aeolic
-
-91822	
-doric
-
-91826	
-91828	
-91830	
+91823	doric
 91832	attic/epic
-
-91836	
-91840	
+91840	attic/epic/doric
 attic/epic/doric
-
-91844	
-91846	
-91849	
-
-91852	
-
-91855	
-
-epic/doric
-
-
-
-epic/doric
-91863	
-91866	
-91868	
-
-attic/epic/doric
-91872	
-
-
-
-
-
-
-
-
-attic/epic/doric
+attic/epic
+91849	attic/epic/doric
+91857	epic/doric
+91861	epic/doric
+91870	attic/epic/doric
+91872	attic/epic
+91881	attic/epic/doric
 91884	attic/epic/doric/ionic
-91886	
-
-doric
+91888	doric
 epic
-
-91892	
-
-91895	
-
-
-
 91900	epic
-91902	
-
 91907	doric/aeolic
 doric
-91911	
-
-
-91915	
 91917	epic/doric
 doric
-
-91921	
-
-
-doric
+91924	doric
 91928	epic
-
-doric/aeolic
-
-attic
-91934	
-doric/aeolic
-91937	
+91932	attic
+91935	doric/aeolic
 91939	epic
-91942	
+91943	attic/epic/doric
 attic/epic/doric
-doric/aeolic
-91947	
+91947	doric
 91949	doric
-91951	
-
-
-91955	
-
-
-
-
-attic/epic
-
-
-
-
-attic/epic
+91956	epic
+91958	attic/epic
+91960	attic/epic
+epic
+91963	attic/epic
+91965	attic/epic
 doric/aeolic
 91968	attic/epic
 91970	attic/epic
-91974	
-
-
-
-attic/epic/doric
-
-doric/aeolic
-
-attic/epic/doric/ionic
-
-
+91978	attic/epic/doric
+91980	doric/aeolic
+91982	attic/epic/doric/ionic
 91988	doric/aeolic
 91990	epic/ionic/attic/doric
-91992	
 91994	doric/aeolic
 91996	doric/aeolic
 91998	doric/aeolic
-
-doric
-
-attic/epic/doric
-
+92000	doric
+92002	attic/epic/doric
 92005	doric/aeolic
-
-attic/epic/doric/ionic
-92009	
-doric
-
-doric/aeolic
+92007	attic/epic/doric/ionic
+92010	doric
+92012	doric/aeolic
 92014	doric/aeolic
 92016	doric/aeolic
-92018	
-attic/epic
+92019	attic/epic
 92021	attic
-
-attic
-
-92026	
-attic/epic
+92023	attic
+92027	attic/epic
 92029	attic
-
-
-
-92036	
-
-
-
-92043	
-attic/epic/doric
-
-
-
-
-92050	
-
-92053	
-
+92044	attic/epic/doric
 92056	epic
-
-92063	
-
-92068	
-
-
-doric/aeolic
+92071	doric/aeolic
 attic/epic
-
-92075	
-
-attic/epic
-92079	
-92084	
-
-92087	
-attic/epic/doric/ionic
-
-92092	
-
-
-
-
+92077	attic/epic
+92088	attic/epic/doric/ionic
+epic
 92098	epic/doric
 doric/aeolic
-
-92102	
-92104	
-doric/aeolic
+92105	doric/aeolic
 attic
-
-doric
+92108	doric
 92110	doric/aeolic
-
-92113	
-
-
-
-
-92119	
 92121	epic
 92126	epic
-
-92129	ionic
-
-92132	
 92135	attic/epic
-
-epic
-92140	
+92137	epic
 92142	doric/aeolic
-
-92145	
-doric/aeolic
-
+92146	doric/aeolic
 92150	attic
-92153	
-92156	ionic
 92158	doric/laconia
-92160	
-
-
-
-
 92167	epic/doric
 doric
 attic
-
-doric
-
-92175	
-
-
-
-92180	
-
-
+92171	doric
 92185	doric
-
-doric/aeolic
-92189	
-
-attic/epic
+92187	doric/aeolic
+92191	attic/epic
 92193	epic/doric
-
-92196	
-92198	
-92201	
-92203	
+92203	epic
 92205	doric/aeolic
 doric/aeolic
-92209	
 92211	attic/epic/ionic
 92215	doric/laconia
 epic
 attic/epic/ionic
-
-92220	
 92223	doric/aeolic
-92225	doric/aeolic
-92228	
 92230	attic/epic
-
-
 92234	attic
-
-92237	
-
-doric/aeolic
-
-92242	doric/aeolic
-92245	
+92239	doric/aeolic
 92247	attic
-
-92250	
-
-doric/aeolic
-
-92255	
-
-92258	
-
-
-
-attic
-92264	
-
-doric
-
-
-92271	
-92274	
-
-
-
-epic/doric
-
-
-
+92252	doric/aeolic
+92260	attic
+92262	attic
+92266	doric
+92278	epic/doric
+92281	epic
 92283	doric/aeolic
 epic/doric
-92287	
-
-92290	
 92292	epic/doric
-
-92296	
-92298	
-92300	
-doric/aeolic
+92301	doric/aeolic
 92303	doric/laconia
-
-92306	
-
-
-92311	
-92314	
-92320	
-
-
-doric/aeolic
-92325	
-
-
-92329	
-
+92323	doric/aeolic
 92332	attic
 92335	attic/epic/doric
-
-92341	
-
-attic/epic/doric
+92343	attic/epic/doric
 doric/aeolic
-
-
-92348	
-92350	
 92352	doric/aeolic
 92356	doric/aeolic
-92358	
-attic/epic
-
-
+92359	attic/epic
 92363	epic
-92365	
-92370	
-attic/epic/doric
-
-
-
-
-
-92379	
-
+92371	attic/epic/doric
 92383	attic/epic
 ionic/epic
-92386	
-
-
-92393	
-epic
-
+92394	epic
 92398	attic/epic
 ionic/epic
-92402	
-
 92405	epic
-92408	
-92410	
-92412	
-
-92417	
-92419	
-92421	
-attic/epic
-92424	
-
-
+92422	attic/epic
 92428	epic/doric
-92433	
-92435	
-92437	
-92441	
-92443	
-92445	
-
-92448	
-92450	
-
-92453	
-epic/doric/aeolic
+92454	epic/doric/aeolic
 epic/doric
-
-92458	
 92460	doric
-92462	
 92464	epic
-
-
-
-doric
-
-
-92473	
-
-
-92477	
-epic/doric/aeolic
-
-
-
-
-epic/doric/aeolic
-
+92468	doric
+92478	epic/doric/aeolic
+92483	epic/doric/aeolic
 92487	attic/epic
-92490	
 92492	epic
-
-
-92496	
-92498	
-
-
-
-
-
-
-92506	
-
-92511	
-
+attic/epic/ionic
 92515	doric/aeolic
 epic/doric/ionic/aeolic
-92518	
-92520	
-
-attic/ionic
-
-92525	
-
-doric/aeolic
-
-92530	
-
-
-92534	
+92522	attic/ionic
+92527	doric/aeolic
 92536	attic/epic/ionic
-
-92539	
-
-
-92543	
-
-92546	
-92548	
-92550	doric/aeolic
-
-
-92554	
-92556	
-doric
-92559	
-ionic
-
-
-92564	
-92568	
-
-doric/aeolic
-
-
-
-92575	
-
-epic/doric
-
-
-
+92557	doric
+92560	ionic
+92570	doric/aeolic
+92577	epic/doric
 92583	epic
-
-
-
-
-
-92590	
-92593	
-92595	
+92595	epic
 92597	doric/aeolic
 epic/doric
-
-
-92607	
-attic/epic/doric/ionic
-92611	
-92613	
-attic/epic/doric/ionic
+92608	attic/epic/doric/ionic
+92614	attic/epic/doric/ionic
 92616	doric/aeolic
-92620	
 92623	doric/aeolic
-
-
-92627	
-92631	
-
-attic/epic/doric/ionic
-
+92633	attic/epic/doric/ionic
 92636	attic/epic/doric
 92638	epic/doric
-92642	
-92644	
-
-92649	
-
-92652	
-92655	
-
-92658	
-92660	
-92662	
-
-92666	
-92668	
-
-92672	
-92674	
-
-92678	
-ionic
-92682	
-
-attic
+92679	ionic
+92684	attic
 epic/ionic/attic
 92689	attic
 attic
-92692	
 92694	epic/doric
-92697	
-92699	
-
+92701	attic
+92705	attic/epic
+92712	attic
 attic
-
-
-
-attic/epic
-
-
-92709	
-
-
-attic
-attic
-
-
-
-92721	
-92723	
-92726	
-92728	
-
-attic
-
-
-92734	
+92730	attic
 92736	attic/epic
 92739	attic/epic
-92741	
 92743	attic/epic/ionic
-
-
+92746	attic
 attic
-attic
-
-
-attic/epic
-
+92750	attic/epic
 92756	epic/doric
-
-
-
-
-
 92763	doric
 doric
 doric/aeolic
-92768	
-92770	
-attic/epic
-
-
-
-92776	
-92778	
-92780	
-
-
-doric/aeolic
-92788	
-92790	
-
-92793	
-
+92771	attic/epic
+92773	doric
+92783	doric/aeolic
 92798	epic/doric/aeolic
-
-
-ionic
-
-
-
-
-epic/doric
+92801	ionic
+92806	epic/doric
 doric/aeolic
-92809	
-
-attic
-
+92811	attic
 92816	epic/doric/aeolic
-
-
-
-ionic
-92823	
-
-attic/epic/ionic
-
-92829	
-92832	
-
-attic/epic/ionic
+92820	ionic
+92825	doric
+92834	doric
 attic/epic
-92837	
-
 92840	attic/epic
-
-92845	
 92847	attic/epic/ionic
-
 92851	doric/aeolic
-92854	
-92856	
-92859	
-92861	
-
-
-doric/aeolic
+92864	doric/aeolic
 92867	doric/aeolic
-92869	
-
 92872	epic/doric
 92874	attic/epic/doric
-92876	
-92878	
-92880	
-92882	
 92884	doric/aeolic
-
-92887	
-
-
-epic/doric/ionic/aeolic
-
-
+92890	epic/doric/ionic/aeolic
 92894	doric
 attic/epic
-
-
-attic/epic
-92900	
+92898	attic/epic
 92904	attic/epic
-92906	
-92908	
-
-92911	
-92915	
-
-92920	
 92922	doric/aeolic
-
-92926	
-92929	
-92932	
-
-
 92938	epic
-
-epic/doric/ionic/aeolic
-
-
-92944	
-
-attic/epic/ionic
+92940	epic/doric/ionic/aeolic
+92946	attic/epic/ionic
 92948	epic
 epic/doric/ionic/aeolic
-92952	
 92955	attic
-
-92958	
-92960	
-
-
-
-92966	ionic
-92969	
-
-
-
-92974	
-
-
-92980	
-92982	
-
-attic/epic/ionic
-
-epic/doric/ionic/aeolic
+92986	epic/doric/ionic/aeolic
 doric
-92989	
-
-
+92991	doric
 92993	attic
-92995	
-
-epic
-92999	
-epic/doric/ionic/aeolic
-
-doric/aeolic
+92997	epic
+93000	epic/doric/ionic/aeolic
+93002	doric/aeolic
 attic/epic/doric/ionic
 epic
 doric/aeolic
-93007	
-
-
-attic/epic
-
+93010	attic/epic
 93013	doric/aeolic
-
 93016	attic/epic/doric
 93018	doric/aeolic
-93020	
-
-93023	
-
-
-
-epic/doric
+93027	epic/doric
 93030	doric/aeolic
 93033	doric/aeolic
-93035	
-
-
-93039	
-
-
-93043	
-
-
-epic/doric/ionic/aeolic
-
-
-93051	ionic
-93053	
-93058	
-
-
-
-
-attic/ionic
-
-93067	
-
-93073	ionic
-93078	
+93044	attic/epic
+93046	epic/doric/ionic/aeolic
+93063	attic/ionic
 93080	epic
 doric
-ionic
-
-
-93086	
-doric/aeolic
-
-93091	
-
-
-doric/aeolic
-93096	ionic
-93099	
-
-93103	
-doric
-
-
-
-
-
-93111	
-93114	
-
-93117	
+93087	doric/aeolic
+93094	doric/aeolic
+93104	doric
+93111	attic/epic
 93119	epic
-
-93122	
-
-
-
-
-
-
 93130	doric/aeolic
 93132	doric
-
-
-93137	
-93139	
-93141	
-
-
-attic
+93144	attic
 doric/aeolic
-
-93148	
-epic
-93152	
-
-
-doric/aeolic
-93159	
-
-
-doric/aeolic
+93149	epic
+93155	doric/aeolic
+93162	doric/aeolic
 93165	attic/epic
-
-93168	
-93172	
 93174	attic
-
-93178	
 93180	attic/epic/doric
 93182	doric/aeolic
-
-
-doric/aeolic
-
-93188	
-93190	
-doric/laconia
-
-
-
-93198	
-
-
-
-
-
-
-93207	
-attic
-93212	
-
-
-
-93217	
-attic/epic/doric
-
-93221	
-
-
-
-
-
+93185	doric/aeolic
+93191	doric/laconia
+93208	attic
+93218	attic/epic/doric
 93228	attic/epic
-
-
-93232	
-
 93235	epic
-
-
-epic/ionic/attic
-
-attic/epic
-
-
-93244	
-93246	
-93248	
-93251	
-
-93255	
-
-doric
-93259	
-epic
+93238	epic/ionic/attic
+93240	attic/epic
+93257	doric
+93260	epic
 93263	attic
-93265	
 93267	doric
-
-
-
-93272	
 93274	epic/doric
-
-
-epic
-
-
+93277	epic
 93281	epic/doric
-
-epic
-
-
-93288	
-93290	
-
-
-doric/aeolic
-
-
-
-
-
-epic/doric/aeolic
-
-attic/epic
+93283	epic
+93293	doric/aeolic
+93299	epic/doric/aeolic
+93301	attic/epic
 93303	attic
-
-
-
-
-
-
-
-93312	
-
-attic
-
-epic
-
-attic/epic
-
-
-attic/epic
-
-93326	
-
-epic/doric
+93314	attic
+93316	epic
+93318	attic/epic
+93321	attic/epic
+93328	epic/doric
 93331	doric/laconia
 epic
-
-attic
+93334	attic
 93336	epic/doric
 attic/epic/doric
-93339	
-93343	
-93346	
-
 93349	doric/aeolic
-
-
-
-93355	
-93357	
-93360	
-93362	
-doric/aeolic
-93366	
+93363	doric/aeolic
 93370	doric/aeolic
-93373	
 93378	doric/aeolic
-
-93381	
-93385	
-93387	
-
-93390	
-doric/aeolic
-93393	
-93395	
-93397	
-93399	
-93401	
-
+93391	doric/aeolic
 93404	doric/laconia
-ionic
-93407	
-attic/ionic
-
-
-
-
-attic/epic
-93415	
-93417	
-
-93420	attic/epic/ionic
-
-93423	
+93408	attic/ionic
+93413	attic/epic
+93417	doric/ionic
 93425	doric
 doric
 93430	attic/epic/doric
-
-93433	
 93435	doric
-93437	
-
-
-
-
-
-
-93445	
-
-
-93449	
-
-doric
-93453	
-
-93456	
-
-93459	
-93462	
-
-attic/epic/doric
+93443	doric/ionic
+93451	doric
+93457	doric/ionic
+93464	attic/epic/doric
 93466	doric
 93470	doric/aeolic
-
 93473	attic/epic
 doric
-93476	attic/epic/ionic
-93478	
-
-93481	
-doric
-
+93482	doric
 93485	attic/epic/doric
-
+epic
 93488	doric/laconia
-
-93491	
-93493	
-
-
-
-
-
 93502	epic
-
-93505	
-93509	
-
-
-93514	
-93516	
-
-93521	
-
 93524	attic/epic/doric
-93527	
-attic/epic/doric
-93531	
-
-
-doric
-93536	
-
-
+93528	attic/epic/doric
+93534	doric
 93540	attic/epic/doric
 doric/aeolic
-
-
 93547	attic/epic/doric
-
-
-
-
-93555	
-
 93558	epic/doric
-93561	
-
-
-
-93566	
 93569	doric/aeolic
-93572	
-93574	
-
-93578	ionic
+93572	epic
 93580	doric
-93582	
-
-93586	
-
-epic/ionic
-93593	
-
-
-93600	
-
-93603	
-93605	
-93608	
-
-
+93588	epic/ionic
 93612	epic/doric/aeolic
-
-
-93616	
-
-93619	
-
-epic/doric
-
-93626	
-
-
-
-93631	
-
-93634	ionic
-93636	
-93638	
-epic/doric/aeolic
-
+93621	epic/doric
+93639	epic/doric/aeolic
 93645	doric/aeolic
 ionic
 93648	doric
-
-93653	
-
-93659	
-attic/epic
+93660	attic/epic
 93664	doric
-
 93668	epic
-93670	
-93674	
-93676	
 93678	doric
-
-attic
-93682	
-
-93687	
+93680	attic
 93689	doric
-
-93694	
-attic
-93697	
-93699	
-93701	
+93695	attic
+93699	doric
 93705	doric/aeolic
-
-ionic
-93709	
-doric/aeolic
-
+93710	doric/aeolic
 93713	attic/ionic/epic/doric/aeolic
-93715	
-
-93719	
-
 93722	epic/doric
-
-epic/doric/aeolic
-
-
-
-
-93730	
-93733	
-attic
+93724	epic/doric/aeolic
+93734	attic
 epic/doric
-93737	
-
-
-doric/aeolic
-
-
-attic/epic
+93740	doric/aeolic
+93743	attic/epic
 93747	doric
 attic
 93750	attic/epic/doric
-93753	
-
-
-93757	
-
-93760	
-
-93763	
-
 93766	epic/doric/laconia
-93768	
-
-attic/epic/doric
-
-
+93770	attic/epic/doric
+attic/epic
 93774	attic
 93776	attic
-
-93780	
-attic/epic/ionic
-
-
-attic
+93781	attic/epic/ionic
+attic/epic
+93784	attic
 93786	attic
-
-93789	
-
 93792	epic
-93794	
-93797	
-93800	
-attic
-
-epic/ionic/attic
-
-
-93808	
-
-
-
-doric/laconia
+93801	attic
+93803	epic/ionic/attic
+93812	doric/laconia
 doric/aeolic
 epic/doric/ionic/aeolic
 attic/epic/doric
 attic
-
-epic
-
-93821	
-
-
-
-93826	
-
-93829	
-93832	
-
-epic
-
-93837	
-
-epic
-
-
+93818	epic
+93834	epic
+93839	epic
 93843	epic/doric
-93845	
-
-93848	
-
-epic/doric/laconia
-
-epic/ionic/attic/doric
+93850	epic/doric/laconia
+93852	epic/ionic/attic/doric
 93854	epic/doric/laconia
-
-
-
-
-
-93862	
-
-
-attic/epic/doric
-93867	
-
-93870	
-93872	
-93875	
-
-
-
-93881	
-
-attic/epic
-93886	
+93865	attic/epic/doric
+93883	attic/epic
 93888	doric/aeolic
 93890	attic
 attic
-
-93894	
-
-attic/epic/doric
-
-93900	
+93896	attic/epic/doric
+93900	epic
 93902	epic
 attic
-
-93906	
-attic/epic/ionic
-93912	
-
-attic/epic
+93907	attic/epic/ionic
+93914	attic/epic
 epic/doric
-
-attic/epic/doric
-93919	
-93921	
-93923	
-doric
-
-93928	
+93917	attic/epic/doric
+93924	doric
+93928	epic
 93930	epic
 doric/aeolic
-93933	
-doric
-
-93937	
-93939	
-
-93944	
+93934	doric
 93947	epic
 epic
-93950	
-
-93953	
-doric/aeolic
+93951	attic/epic
+93954	doric/aeolic
 93956	attic
 attic
-
-
-93961	
-
-
-epic
-
-doric
-93968	
+93964	epic
+93966	doric
+93969	attic/epic/doric
+93976	attic/epic/doric
 attic/epic/doric
-93971	
-
-93974	
-
-attic/epic/doric
-attic/epic/doric
-
-93980	
-
-
-
-
-attic/epic
-
-ionic
-doric/aeolic
-
-
-
+93985	attic/epic
+93988	doric/aeolic
 93993	attic/epic/doric
 ionic
-93998	
-
-attic
-
-94003	
-
-attic/epic/ionic
-
-
-attic/epic/ionic
-94011	
-doric/aeolic
-94014	
-
-
+94000	attic
+94008	attic/epic/ionic
+94012	doric/aeolic
 94018	doric/aeolic
-
-ionic
-94022	
-
-attic/epic/doric
+94020	ionic
+94024	attic/epic/doric
 94026	epic/doric
-
-
-
-
 94034	doric
 doric/aeolic
 attic/epic
-
-
 94040	epic/doric
-94042	
-94045	
-94047	
-
-94053	
 94057	attic
-
-
-94064	
-
-
-94068	
-
-94072	
-doric
-94077	
-attic/epic/doric/ionic
-94080	
-94082	
+94073	attic/epic/ionic
+94078	attic/epic/doric/ionic
 94086	epic
-94092	
-attic/ionic/epic
-
-94096	
-94101	
-94103	
-94107	
-attic
-94113	
-
+94093	attic/ionic/epic
+94108	attic
 94118	ionic
-94120	
-
-
-
-94126	
-94129	
-94133	
 94135	doric/aeolic
-94137	
-94141	
-
-94144	
+94144	epic
 94147	doric/aeolic
-94149	
+94149	epic
 94151	epic
-
-94154	
-
+epic
 94157	doric/aeolic
-94159	
-94162	
-94165	
-94174	
-
-94178	
-94180	
-attic
-94185	
-94187	
-94190	
-94192	
-
-attic
-
-
-doric
-
-
-
-94203	
-attic/epic
-
-94207	ionic
-
-epic/doric/ionic/aeolic
-94211	
-epic/doric
-
+94162	epic
+94181	attic
+94187	epic
+94194	attic
+94197	doric
+94204	attic/epic
+94209	epic/doric/ionic/aeolic
+94212	epic/doric
 94216	doric/aeolic
 epic
 doric/aeolic
-
 94223	doric/aeolic
 epic
-
-94228	
-
-doric
-94235	
-94237	
-attic/epic
+94230	doric
+94238	attic/epic
 94243	doric/aeolic
-
-
-ionic
-
-doric/aeolic
+94248	doric/aeolic
 attic
-
-94253	
-
-attic/epic/doric
-
-
-ionic
+94255	attic/epic/doric
 94260	attic/epic
 doric/aeolic
-ionic
-94264	
-
-
-94269	
-epic/doric
-
-
-
-94275	
-doric
-94280	
-
-attic/epic
+94270	epic/doric
+94276	doric
+94282	attic/epic
 94285	attic
-
-doric
-94289	
-94291	
-
-
-94295	
-doric
-
+94287	doric
+94296	doric
 94299	epic/doric
-
-94303	
-94305	
-
 94311	doric/laconia
-
-
-
-attic/epic
+94315	attic/epic
 94320	ionic/doric/aeolic
-94323	
-
 94326	doric/aeolic
-
-
-ionic
 94333	epic/ionic/attic/doric
-
-94336	
-attic
-
-attic/epic
-94341	
-94343	
-94345	
-
-doric
+94337	attic
+94339	attic/epic
+94347	doric
 attic/doric
 epic/doric
-
-
-
+94353	attic/epic/doric
 attic/epic/doric
-attic/epic/doric
-94356	
-
-attic
-
-
+94358	attic
 94363	doric
-
-
-
-
-
-
-94371	
 94373	epic
-94376	
-epic/doric
-94379	
-94381	
-94386	
-epic/doric
-94389	
-ionic
+94377	epic/doric
+94387	epic/doric
 94392	epic/doric
 94397	epic/doric/laconia
-
-94400	
-
 94404	epic/doric/laconia
-
-doric/aeolic
-94409	
-attic/epic
-94412	
-94414	
+94406	doric/aeolic
+94410	attic/epic
 94416	doric/aeolic
 doric
-ionic
 94420	epic/doric
 94424	doric/aeolic
 94431	epic/doric/laconia
 doric
 94435	attic
-
-
-94439	
-
-94443	
-
-94447	
-
+94443	attic
 94450	epic/doric/laconia
 attic
-
-doric
 94456	attic
 94459	attic
 94461	attic
-
-94469	
-attic
+94470	attic
 epic/ionic/attic
-94474	
-attic
-94478	
+94475	attic
 94480	doric/laconia
 94482	attic/epic/ionic
-
-
-
-94487	
-
-attic/epic/doric
-94492	
-94494	
-doric
-94497	
+94489	attic/epic/doric
+94492	epic
+94495	doric
 94499	attic/epic/doric
 94501	attic/epic/ionic
-
-
-94507	
-
-94512	
-attic
-
-
-
-
-
-attic/epic
+94508	attic
+94513	attic
+94519	attic/epic
 94521	attic/epic/ionic
-94524	
-94526	ionic
-94530	
-
-
-ionic/doric/aeolic
-
-94537	
-
-ionic
-
-94542	
-94544	
-
-
-
-
-
-94551	
-
-94554	
-
-epic/doric
-94558	
-
-
-doric/aeolic
-
-94564	
-94566	
-94568	
-
-94573	
-doric
-
-94577	
-94579	
-attic/epic/ionic
-
+94533	ionic/doric/aeolic
+94546	attic
+94556	epic/doric
+94561	doric/aeolic
+94569	attic
+94574	doric
+94580	attic/epic/ionic
 94586	doric/aeolic
-94588	
-94590	
-
-
-94594	
-attic
+94595	attic
 94598	epic
 94604	attic
-
-epic
-94608	
-94610	
+94606	epic
 94612	attic
 94614	epic
-
-94619	
-attic/epic/doric
-
-
-
-attic/epic/ionic
-94628	
-epic/doric/ionic/aeolic
+94620	attic/epic/doric
+94629	epic/doric/ionic/aeolic
 attic
-94634	
-94638	
+94638	epic
 attic
-94643	
-doric
-94648	
+94644	doric
 94653	epic/doric/ionic/aeolic
-
-attic/epic
-
+94655	attic/epic
 94658	doric
-94662	
-attic/epic
+94663	attic/epic
 94666	doric
 94670	doric
-94672	
-doric
+94673	doric
 94675	attic
 doric
 94678	doric/aeolic
 ionic
 doric
-94682	
-ionic
-
-94686	
-
+94683	ionic
 94689	epic
 94694	ionic
-
 94703	epic
 94706	doric/aeolic
-
-
-
-94711	
-doric/aeolic
+94712	doric/aeolic
 attic
-94715	
-
-epic
-94722	
-
-94726	
-94731	ionic
-epic
-94735	
-attic/epic/doric
-
-94739	
-
-
-
+94717	epic
+94732	epic
+94736	attic/epic/doric
 94745	epic
-94752	
 94754	epic
 94756	doric/aeolic
-
-doric/aeolic
-
-
-94762	
-
-
-94766	
-
-
-attic
-94771	
-
-94774	
-94776	
-attic
+94758	doric/aeolic
+94769	attic
+94777	attic
 94780	doric/aeolic
-
-94784	
-
-
-94788	
-
-
-attic
-94793	
-
-94796	
-94798	
-attic
-94801	
-
-94806	
-
-94809	
-
-94812	
-
-epic/doric/ionic/aeolic
-94817	
-94819	
-
-doric/aeolic
+94791	attic
+94799	attic
+94814	epic/doric/ionic/aeolic
+94821	doric/aeolic
 epic
-
-
-
-attic/epic
-94830	
+94826	attic/epic
 94832	epic/doric/aeolic
-
-
-epic
-94837	
-94842	
+94835	epic
 94844	doric/aeolic
 epic
-94848	
+94849	doric/aeolic
+94855	ionic
 doric/aeolic
-94851	
-94854	
-ionic
-doric/aeolic
-
-
-
-
-94862	
-94865	
-doric/aeolic
+94866	doric/aeolic
 epic/doric
-
-
-doric/aeolic
-94872	
-
-attic/epic/doric
+94870	doric/aeolic
+94874	attic/epic/doric
 doric/aeolic
 attic
-94878	
-94880	
-94883	
-attic/epic/doric
-
+94884	attic/epic/doric
 94887	attic
 94890	doric/ionic
 doric
-
-94894	
-
-
 94898	doric
-
-
-94902	
-
-
-doric/aeolic
-
-doric/aeolic
-
+94905	doric/aeolic
+94907	doric/aeolic
 94913	attic/epic
 94915	doric
-
-doric/ionic
-
-
+94917	doric/ionic
 94921	doric/aeolic
-
-attic/epic
+94923	attic/epic
 94925	doric/aeolic
-94928	
-
-epic/ionic/attic/doric
-
-doric/aeolic
-94934	
-
-epic
-94938	
-
-
-doric/aeolic
-
-94945	
-
-
-doric/aeolic
-94951	
-94953	
+94930	epic/ionic/attic/doric
+94932	doric/aeolic
+94936	epic
+94941	doric/aeolic
+94948	doric/aeolic
 94955	doric/aeolic
-
-94958	epic/doric/ionic/aeolic
-94961	
-
-94964	
-
-
-
-94969	
-epic/doric/aeolic
-
+94970	epic/doric/aeolic
 94974	attic/epic
 94979	attic/epic
 doric/aeolic
 ionic
-
-94985	
 94987	doric/aeolic
-
-94991	
 94993	attic
-
 94997	epic
-94999	
 95001	ionic
 epic
-
 95005	attic/epic/doric/ionic
-
-95008	
-95010	
-
-epic/doric/ionic/aeolic
 95015	epic/doric
-
-doric
+95017	doric
 95019	doric/aeolic
 95021	ionic
-
-
-attic/epic/doric
-95026	
-attic/epic/doric
+95024	attic/epic/doric
+95027	attic/epic/doric
 doric/ionic
-95030	
-
-95033	
-
-
-95037	
 95039	doric/aeolic
-
-doric/aeolic
-95044	
-doric/aeolic
-
-95048	
-95050	
+95041	doric/aeolic
+95045	doric/aeolic
+95048	attic/epic/ionic
 95052	doric/aeolic
-
-
+95054	attic/epic/ionic
 95058	doric/aeolic
 95060	doric/ionic
-95062	
-
-95065	
 95067	doric/aeolic
 doric
-
-
-
-
 95074	doric/aeolic
 epic
-95078	
-
 95081	doric/ionic
-95083	
-
 95087	attic
 doric
 attic/epic
-95091	
-doric
-
-
-
-doric
-
-95099	
-95101	
-attic/epic
-
-attic/epic
-
-95107	
-
-
-95112	
-
-
-
-
-
-
-95120	
-epic/doric/aeolic
-
-
-
-
-
-
-
-attic/epic/doric/ionic
+95092	doric
+95096	doric
+95102	attic/epic
+95104	attic/epic
+95121	epic/doric/aeolic
+95129	attic/epic/doric/ionic
 attic
 doric
-95133	
-
 95136	doric/aeolic
-
-
-ionic
-95141	
-epic/doric/ionic/aeolic
-
-
+95139	ionic
+95142	epic/doric/ionic/aeolic
 95147	ionic
-95149	
-95151	
-95154	
-95156	
-95158	
-95160	
-
 95164	attic/epic/doric
-
 95167	attic/epic/doric
-
-95171	
-95173	
 95176	attic/epic/ionic
-
-attic
-95180	
-95184	
-
-95187	
+95178	attic
 95193	ionic
-
-95196	
 95198	ionic/epic
 95201	epic/doric/aeolic
 95204	attic/epic/doric/ionic
 epic/doric/ionic/aeolic
 95207	doric
-
-
-
-95214	
-doric
-
+95215	doric
 95218	doric/ionic
-
-95221	
-
-
-95225	
-
-
 95229	attic/epic/ionic
 ionic/attic/epic
-
 95233	attic/epic
 doric/aeolic
-
-95238	
 95241	attic/epic
 doric/aeolic
-
-95245	
 95247	attic/epic
 epic/doric
 95250	epic/ionic
 95252	doric/aeolic
-
-attic/epic/ionic
+95254	attic/epic/ionic
 ionic/attic/epic
 95257	attic/epic
-
-95260	
-doric/aeolic
+95261	doric/aeolic
 attic/epic
-
 95266	epic/doric
 95268	ionic
-
-95271	
-
-95275	
-
-
-
-attic/epic/ionic
+95279	attic/epic/ionic
 ionic
-95282	
-
-
-
-
-
-epic/doric
-
+95288	epic/doric
 95293	doric/aeolic
-
 95296	epic/doric
 ionic
 attic/epic/ionic
-
-epic/doric
-
-doric/aeolic
-
+95300	epic/doric
+95302	doric/aeolic
+95304	doric
 doric
-doric
-
-
-attic/ionic
-
-
-attic/ionic
-
-
-
-
-95317	doric/aeolic
-
+95308	attic/ionic
+95311	attic/ionic
+95317	doric
 95320	epic/doric
-
-
-95324	
-ionic
+95325	ionic
 doric/aeolic
-95330	
-
-
 95335	attic/epic/doric
-
-95338	
 95341	doric/aeolic
-
 95344	epic/doric
-
-
-
-ionic
-95353	
+95353	epic
 95355	ionic/attic/epic
 doric/aeolic
-
-
-95360	
-
 95364	attic/epic/doric
 epic/ionic
-95367	ionic
-95370	
-
-
-doric/aeolic
-
-epic
-
-95380	
-doric/aeolic
-95383	
+95373	doric/aeolic
+95375	epic
+95381	doric/aeolic
 95388	doric
 epic
 attic/epic
 doric
-95394	
-attic/epic/ionic
-
-
-95402	
-doric/aeolic
-
-doric
+95395	attic/epic/ionic
+95403	doric/aeolic
+95405	doric
 95408	epic/doric
-95410	
-
-
-epic
-95415	
-attic/epic/ionic
+95413	epic
+95416	attic/epic/ionic
 ionic/attic/epic
-95419	
-
-doric/aeolic
+95421	doric/aeolic
 95424	ionic/attic/epic
-95427	
-epic
-
+95428	epic
 95431	attic
-
-95435	
 95438	epic
 attic/epic
 95441	epic
 95444	attic/epic
 attic
-
-attic/epic
-95449	
+95447	attic/epic
 95452	attic/epic
 attic
-
-doric/aeolic
-95458	
-
+95455	doric/aeolic
 95462	attic
-95464	
-attic/epic/doric/ionic
+95465	attic/epic/doric/ionic
 95467	attic/epic/ionic
-
-
-
-
-95473	
-epic
-
-95480	attic/epic/ionic
+95474	epic
+95480	doric
 attic/epic
-95483	
-95485	
 95487	attic/epic/doric
 attic/epic
-
 95491	epic/doric
-
-ionic
+95493	ionic
 attic/epic/doric
 doric/aeolic
-
-
-
 95500	doric
 attic/epic
 attic
-
-
-
-95507	
-
-
 95511	doric
-
-ionic/attic/epic
-95515	
-
-ionic
+95513	ionic/attic/epic
+95517	ionic
 95520	doric/aeolic
-
-
-
-95527	
-ionic
-
-attic/epic
-
-95533	
-
-95537	
-95539	
-
-attic/epic
-95543	
-95548	
-
-
-95552	
-ionic
-ionic
+95528	ionic
+95530	attic/epic
+95541	attic/epic
+95553	ionic
 95556	epic
-
 95559	attic/epic/doric/ionic
 doric/aeolic
 95562	attic/epic/doric
-
-95565	
-
 95568	attic/epic/doric
 doric/aeolic
 95571	attic/epic/doric/ionic
 doric/aeolic
-95574	
-
-
-attic/epic/ionic
-
+95577	attic/epic/ionic
 95583	attic/epic/doric/ionic
 ionic
-
 95587	doric/aeolic
-
-attic/epic/doric
-
-epic
-
-
-doric/aeolic
-95597	
-
-95600	
-95602	
-95605	
+95589	attic/epic/doric
+95591	epic
+95594	doric/aeolic
 95607	epic
-
-95610	
-
 95613	ionic
-
-
 95619	attic/epic/doric
-
 95622	attic/ionic
 attic/epic
-
-
-
-95628	
-95630	
-doric
-95633	
-95641	
-95643	
-95645	
-ionic/doric/aeolic
-
-doric/aeolic
-
-
+95631	doric
+95646	ionic/doric/aeolic
+95648	doric/aeolic
 95652	epic/doric
-95654	
-ionic/attic/epic
-
-attic/epic
-
-95660	
-95662	
-attic/epic
-95665	doric/aeolic
-95668	
-
-doric/aeolic
-95672	
-95676	
-
-
+95655	ionic/attic/epic
+95657	attic/epic
+95663	attic/epic
+95670	doric/aeolic
 95682	attic/epic
-
-doric/aeolic
-95687	
-attic/epic
-95691	
-
+95684	doric/aeolic
+95688	attic/epic
 95694	doric/aeolic
 95696	doric
-95699	
-
-95702	
-95705	
 95707	attic/epic
-
 95713	attic/epic/doric
-95716	
-epic
-
-
-95722	
-
+95717	epic
 95725	doric/aeolic
 doric
-
-
-
+95729	attic/epic/ionic
 95731	epic
-
-
-
-95736	
 95738	epic
-95740	
 95745	doric/aeolic
-
-95749	
-
-
-
-95754	
 95756	epic
-
-95760	
-attic/epic/ionic
-
-
-95768	
-
-
+95761	attic/epic/ionic
 95772	epic/doric
-
 95775	attic
-
-
-
-ionic
-epic/doric
+95780	epic/doric
 doric
 attic/ionic/epic/doric
-
-
-attic/epic
+95785	attic/epic
 doric
-95788	
-95791	
-
-doric
-
-
-95797	
-
-95800	
-attic/epic
-95805	
-
+95793	doric
+95801	attic/epic
 95808	attic/epic
-95812	
-
-ionic
-
-95819	
-95822	
+95814	ionic
 95824	doric
 95827	doric/laconia
-
 95830	doric
-
-95834	
-95839	
-95841	
-
-
 95845	doric
-
-
-95849	
-
-
 95855	doric
-
-
-
-95860	
-
-
-95864	
-
-
-
-
+95869	doric/aeolic
 doric/aeolic
+95880	epic/ionic
+95882	doric/aeolic
 doric/aeolic
-95872	
-95875	
-95877	
-
-
-epic/ionic
-
-doric/aeolic
-doric/aeolic
-95885	
-95890	
-95893	
-95897	
-
-
-attic
+95900	attic
 attic/epic/doric
-
+doric
 95904	doric
-95913	attic/epic/ionic
-
 95918	attic/epic
-95921	
-attic/epic/doric
-95924	
-
-95927	
-
-95930	
-
+95922	attic/epic/doric
 95933	attic/epic
 95938	doric/aeolic
 attic
-
-95943	
-
-
-
-95948	
-95950	
-
-ionic
-
-
 95957	doric/aeolic
-
-
-95962	
-attic/epic/doric
+95963	attic/epic/doric
 95965	doric/aeolic
-
 95968	attic
-
-
-
-
 95974	attic/epic/doric
-
-95978	
-95982	
-95984	
-95986	
-
-
-95990	
-epic
-
+95991	epic
+95993	doric
 doric
-doric
-
-epic/doric/ionic/aeolic
-
-
-96000	
+95996	epic/doric/ionic/aeolic
 96002	epic/doric/ionic/aeolic
-
-
-96006	ionic
-
-96009	
-96011	
-
-96014	
-
-96018	
-96021	
-epic/doric/ionic/aeolic
+96022	epic/doric/ionic/aeolic
 epic/doric
-
 96028	attic
-
-
-96032	
-attic
-
-
-
-96038	
-
-
-
-96043	
-
-
-96047	
-96049	
-
-96052	ionic
-
-96055	
-96057	
-
-96060	
-
-epic/doric/ionic/aeolic
+96033	attic
+96062	epic/doric/ionic/aeolic
 epic/doric
-96065	
-
 96069	epic/doric
-
-96072	
-96074	
-
-96077	
-
-
-attic/epic/ionic
-
-
-
-96086	
-96089	
-96093	
-96095	
-
-
-
-attic/ionic
-96103	
-96107	
-epic/doric/ionic/aeolic
-
-96112	
-attic/epic
+96080	attic/epic/ionic
+96099	attic/ionic
+96108	epic/doric/ionic/aeolic
+96113	attic/epic
 96116	epic
-96119	
-attic/epic
-
-96123	
-96126	
-attic/epic
-
-96130	
-
-96133	
-attic
-
-
-
-
-
-96144	
+96120	attic/epic
+96127	attic/epic
+96134	attic
 96146	doric/aeolic
 attic/epic
-
-96150	
-96152	
-
-
-96156	
+96153	attic/epic/ionic
+doric/aeolic
+96156	attic/epic/ionic
 doric/aeolic
 96160	attic/epic
-96165	
-
-96170	
-96173	
 96176	attic/epic
-
-96179	
 96181	epic/doric
-
-96185	
-96188	
-
-
-96192	
-
 96195	attic
-
-
-
-
-96202	
-
-
-
-
-96209	
-epic
-
-attic/epic
-
-
-
-
-
-96219	
-96221	
-
-attic/epic/ionic
-
-
-attic/epic/doric/ionic
-
-96229	
-
-
-
-
-
-
-96237	
-96240	
-
-
-96245	
-
+96210	epic
+96212	attic/epic
+96226	attic/epic/doric/ionic
+96233	doric
+96246	attic/epic/ionic
 doric/aeolic
 96249	doric
-
-doric
+96251	doric
 96253	doric/aeolic
 epic/ionic
-96257	
-
-
-attic
+96260	attic
 attic/epic
-
-
-
-
-96268	
-
-
-96273	
-
-
-
-96280	
-96283	
-
-
-epic
+96286	epic
 doric/aeolic
-
+96289	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-doric/aeolic
-96294	
-
-doric/aeolic
-96298	
-doric
+96296	doric/aeolic
+96299	doric
 epic
 96302	epic/doric
 doric
 attic/epic/doric
 doric/aeolic
 attic/epic/doric/ionic
-
-
-96310	
-
-
 96316	attic/epic/ionic
-96318	
-epic
-
-attic/epic
+96319	epic
+96321	attic/epic
 doric/aeolic
-
-
-96326	
-epic
-
-96332	
-epic
+96327	epic
+96333	epic
 doric/aeolic
-
-
-
-
-attic
-
-
-
-
-
-96347	
-
-96354	
+96339	attic
 96356	doric/laconia
-96358	
-doric
-96361	
+96359	attic/epic/ionic
 96364	doric/aeolic
 doric
-96367	
-doric
+96368	doric
 96372	doric
-96375	
-doric
-96378	
+96376	doric
 96381	doric/aeolic
 96385	doric/aeolic
-
-96388	
-
-
-
-
-96394	
-
-attic/epic/doric
+96396	attic/epic/doric
 doric
-
-
 96401	doric
-
-doric
+96403	doric
 96405	doric
-
-doric
-96411	
-
+96407	doric
+96413	epic
+96417	epic/doric/ionic/aeolic
+96420	epic
+96423	epic
+96426	epic
+96428	doric/aeolic
 epic
-96416	
-epic/doric/ionic/aeolic
-
-
+96431	epic
 epic
-
-
+96435	epic
+96437	attic/ionic
 epic
-
-
-epic
-
-doric/aeolic
-epic
-
-epic
-epic
-
-
-epic
-
-attic/ionic
-epic
-96440	
-epic
-96443	
-
-96447	
-96450	
-96455	
-
-96459	ionic
-
-doric
-
-96465	ionic
+96441	epic
+96461	doric
 96467	attic/epic/doric
-96469	
-
-96472	
-doric/aeolic
-96475	
-96478	
-
-
-96482	
-attic/epic/ionic
-96485	
-96488	
-
-96491	
-96495	
-96499	
-96503	
-attic/epic/doric
+96473	doric/aeolic
+96483	attic/epic/ionic
+96504	attic/epic/doric
 96510	attic
 96516	attic
-96520	
-96522	
-96525	
-doric/aeolic
-
-
-
-doric/aeolic
-ionic
-
-
+96526	doric/aeolic
+96530	doric/aeolic
 96535	doric/aeolic
 attic/epic
 attic/epic/doric
 96539	doric
-
-96542	
-96547	
-96549	
-
-96552	
-
-doric
-96556	
-96559	
-
+96554	doric
 96566	attic/epic
-96569	
 96572	doric/aeolic
-96575	
 96578	doric/aeolic
-96582	
 96584	doric
 doric/aeolic
-96588	
 96590	doric
 doric/aeolic
-
-96594	
-96596	
 96598	doric/aeolic
-
-96601	ionic
-96603	
-
-96608	
-
 96616	attic
 epic/ionic/attic
-
-
-
 96622	epic/doric/ionic/aeolic
-96624	
-
-
-attic/epic
-96629	
+96627	attic/epic
 96631	attic/epic
 doric
 attic
-96636	
+96636	epic
 attic
-
-
-attic
-
-96644	
-96646	
-ionic
-96649	
-
-attic/epic
+96640	attic
+96647	ionic
+96651	attic/epic
 96653	attic
-
-96657	
-
 96660	epic/doric
-
-96664	
-
-
-96669	
-96671	ionic
-96675	
 96677	epic
-96679	
-96683	
-
 96688	epic/doric
-96690	
-96693	
-
+96695	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-
-96700	
-
-doric/aeolic
+96702	doric/aeolic
 96708	doric/aeolic
 doric
-96713	
-attic/epic/doric
-96716	
-epic/doric
-ionic
+96714	attic/epic/doric
+96717	epic/doric
 96720	doric/aeolic
 96722	doric/laconia
 96724	attic
-
-96727	
-
 96733	epic/doric
 96735	doric
-
-doric
+96737	doric
 96741	epic/doric
-96743	
-
-
 96747	doric/aeolic
-
 96751	doric
-attic/epic/doric
-doric/aeolic
-96755	
-
+96753	doric/aeolic
 96758	epic/doric
-96760	
-
-attic/epic/doric
-
-96766	
-
+96762	attic/epic/doric
 96769	epic/doric
 doric/aeolic
-
-
-
-
-96776	
-
-
+96778	doric
 96780	attic/epic/ionic
-
 96784	epic/doric/aeolic
 attic/epic/ionic
 96787	doric/aeolic
-96789	
 96791	doric/aeolic
-96793	
-96795	
-
-
+96797	doric
 doric/aeolic
 96800	epic/doric
 96803	epic
-
-96806	
-
-
-
-96812	
-epic
-96816	
-
-
-
-96825	
-
-
-
-96830	
-attic
-96833	
-96836	
-
+96813	epic
+96831	attic
 96839	epic/doric
-
-
-
-96845	
-epic/doric/aeolic
+96846	epic/doric/aeolic
 doric/aeolic
-
-96850	
-96854	
-
-
-
-
-attic/ionic
-
-
-
-epic/doric
-
-doric
+96859	attic/ionic
+96863	epic/doric
+96865	doric
 96867	attic/epic/doric
 96869	epic/doric
-96871	
 96873	doric/aeolic
-
-
-96877	
 96879	ionic/doric/aeolic
-96881	ionic
-doric/aeolic
+96882	doric/aeolic
 96884	attic/epic/doric
-
-96887	
-96890	
-96892	
 96895	attic/epic
 attic/epic/doric
 96898	doric
-
-96901	
-
-
-
-96909	
-96911	
-96915	
-96918	
 96922	epic/doric
 ionic
 96928	epic/doric
-
-doric/aeolic
-96932	
+96930	doric/aeolic
 96934	epic/doric
-
-
-
-doric/aeolic
-96941	
-
-96945	
-
+96938	doric/aeolic
 96948	epic/doric
-
-96952	
-96954	
-96956	
-
-96959	
-
-ionic
-96963	
-
-
-attic/epic
-96968	
-
+96961	ionic
+96966	attic/epic
 96971	doric/aeolic
-96973	
 96975	attic
-
-attic
+96977	attic
 96979	epic/doric
-
-doric
-
-
+96981	doric
 96985	epic/doric
-
-
-attic
-96991	
-attic
-
-96995	
-96998	
-97000	
-
-attic
-
-
-97006	
-97008	
+96988	attic
+96992	attic
+epic
+97002	attic
 97010	attic/epic/doric
-attic/epic/ionic
 97013	attic/epic/doric/ionic
-
-attic/epic/ionic
-
-ionic/doric/aeolic
+97015	attic/epic/ionic
+97017	ionic/doric/aeolic
 97019	doric
 97021	doric/aeolic
-
-
-97025	
-97027	
-attic
-
-97031	
+97028	attic
 97035	attic
-
-
-attic
-
-
-97042	
-
-97046	attic/epic/ionic
-97048	
-attic/epic/doric
-
-
-doric
-
+97038	attic
+97046	doric/aeolic
+97049	attic/epic/doric
+97052	epic
+97054	attic/ionic
+97060	attic/epic/doric
+97063	epic
 attic/ionic
-
-ionic
-97059	
-attic/epic/doric
-97062	
-doric
-attic/ionic
-
+epic
 97068	doric/*theocr.
 attic/epic/doric
-97071	
-attic
-
-
-97076	
-
+97072	attic
 97079	attic
-
-ionic
-
-97084	
+97084	epic
 attic
-
-
-97089	
-epic/doric/ionic/aeolic
-
-
-97094	
-
+97090	epic/doric/ionic/aeolic
 97097	epic/doric
-97100	
-
-attic/epic/doric
-
+97102	attic/epic/doric
 97105	epic/doric
 97108	attic/epic
-
-doric
-
-
-97114	
-97117	
-97119	
-97121	
-
-
-epic/doric
-97126	
-
-attic/epic/doric
-
-
-97136	
-97138	
-epic/doric
-97142	
-97145	
-97148	
-
-
-
+97110	doric
+97124	epic/doric
+97128	attic/epic/doric
+97139	epic/doric
 97153	epic/doric
-
-97158	
-
 97161	attic
 epic/doric
 doric/aeolic
-97165	
-
 97169	attic
 epic/ionic/attic
 attic/ionic
-
-
-97177	
-97179	
-attic/epic
-
-attic/epic
+97180	attic/epic
+97182	attic/epic
 doric
-97185	
-97187	
-
-epic/ionic/attic
-
-
+97189	epic/ionic/attic
 97193	epic
-ionic
-
-97197	
 97200	epic
 attic/epic/doric
 97203	epic/doric
-
-
-
-attic/ionic
-
-
-
-
-97213	ionic
-
-97216	
-
-97219	
-
-attic
+97207	attic/ionic
+97216	epic
+97221	attic
 97223	epic/doric/ionic/aeolic
-
 97228	doric/laconia
-97231	
-
-
-*ntest.
+97234	*ntest.
 97237	attic
-
-
-
-
-97244	
-97246	
-
-
-attic/epic
-97251	
+97249	attic/epic
+97251	doric
 97254	epic/doric
-
-97257	doric/aeolic
-
-doric
-97261	
-
-ionic
-
+97259	doric
+97263	ionic
 97266	ionic
-
-97269	
-
-97272	
-97276	
-
-97279	
+97270	doric
 97281	epic/doric
-97286	
-
-
-
-attic
-
-
-attic
-epic/doric/ionic/aeolic
-
-
-attic/ionic
-97299	
+97290	attic
+97293	attic
+97297	attic/ionic
 97301	epic/doric
-97303	
-doric
-
-doric
+97304	doric
+97306	doric
 97309	epic/doric
-97311	ionic
-doric
-97315	
-
+97312	doric
 97319	epic/doric
 97322	epic/doric
-97324	ionic
 97326	doric
-97330	
-
-
-
-97335	
-
-97338	
-
-97341	
-97344	
-97346	
-epic
-97352	
-97354	
-97356	
-
-97359	
-
+97347	epic
 97362	epic/doric
-
-97365	
-97368	
-attic
-
+97369	attic
 97372	epic
-
-
-
-
-doric
-97379	
-97382	
-97384	
-97387	
-97389	
+97377	doric
 97392	doric/aeolic
-
-
-
-epic/doric/aeolic
+97396	epic/doric/aeolic
 doric/aeolic
 97399	doric/aeolic
-
-
-
-97404	
-97408	
 97410	attic/epic/ionic
 attic/epic
-
 97414	doric/aeolic
-97416	
-
 97419	doric/aeolic
-
-
-doric
-ionic
-
+97422	doric
 97426	epic
-
-97429	
-97432	
-97434	
 97437	attic
-97439	
-97441	
-
-attic/epic/doric
-97447	
-attic/epic/doric
-
+97443	attic/epic/doric
+97448	attic/epic/doric
 97451	epic/doric
-
-
 97455	epic/doric
-97457	
-ionic
-97460	
-
-
-epic/doric
+97463	epic/doric
 97466	doric/aeolic
 attic/epic/doric
-97470	
-epic/doric
-
+97471	epic/doric
 97474	attic/ionic
 97476	doric/aeolic
-97481	
-97483	
-
 97486	epic/doric
-97488	
 97490	attic/epic/doric
 attic/epic/doric
 epic/doric
-97494	
-
-97498	
-
-
-97502	
-
-97508	
-
 97511	epic/doric
 attic/epic/ionic
-97514	
-attic/epic
-97519	
+97515	attic/epic
 97521	epic/doric
-
-
-doric/aeolic
-
+97524	doric/aeolic
 97527	epic/doric
-97529	
-97534	
-ionic
+97535	ionic
 97537	doric
-
-
-
-
-
-
-doric/aeolic
+epic
+97544	doric/aeolic
 97546	doric/ionic
-
-
-97550	
-
-ionic
-epic/doric
-
-97556	
-epic/doric/aeolic
-
-
-epic/doric/aeolic
+97551	doric
+97553	epic/doric
+97557	epic/doric/aeolic
+97560	epic/doric/aeolic
 doric/aeolic
-
-97564	
-
-attic/epic/doric
+97566	attic/epic/doric
 97568	epic/doric
-
-attic/epic
-
-
-
-97575	
-
-
-
+97570	attic/epic
 97580	doric/laconia
-
-epic/doric
-
-97585	
-
-
-
-
-
-
-
+97582	epic/doric
 97595	attic/epic/doric
 epic/doric
-
-ionic
 97600	doric/ionic
-ionic
-97606	
-
 97610	epic/doric
-
-ionic
-
-
-
-97618	
-
-
 97623	attic/epic/doric
-
-
-
-
-
 97630	epic/doric
-
-
-
-
-
-97637	
-attic
-
-
-97642	
-
+97638	attic
 97645	attic/epic/doric
-97648	ionic
-97651	ionic
 97653	doric/laconia
 attic
-
-97657	
-97660	
-
-
-attic/ionic
+97663	attic/ionic
 epic
 attic/epic
-97667	
+97668	attic/epic
+97676	doric/aeolic
+97681	doric
 attic/epic
-
-97672	
-97675	
-doric/aeolic
-
-
-
-ionic
-doric
-attic/epic
-97684	
 97686	attic/epic
 97688	doric
-
-
-attic/epic
-
-97698	
-doric
-97701	
-
-97704	
-
-
-
+97691	attic/epic
+97699	doric
 97709	attic/epic
-
-
-97715	
 97717	epic
-97721	
-epic/ionic/attic
-ionic
-97728	
-attic/epic/ionic
-ionic
-attic/epic/ionic
-97734	
-
-97737	
-97740	
-
+97722	epic/ionic/attic
+97729	attic/epic/ionic
+97731	attic/epic/ionic
 97746	attic
-
-97749	
-
-97753	
-
-
-97757	
-
-
-attic/epic/doric
-
-97765	
-
-ionic
-
-doric
-
+97760	attic/epic/doric
+97767	ionic
+97769	doric
 97773	epic/doric
-
-
-epic/doric
-
-
-
-97781	
-97783	
-97785	
-
-97790	
-97792	
-97794	
-
-
-
-attic/ionic
-97800	
-97802	
+97776	epic/doric
+97798	attic/ionic
 97804	doric/aeolic
-97806	
-97808	
-
-97813	
-97815	
 97817	epic
-97820	
-
+97821	epic
 attic
-
-97826	
-
-
-97830	
-
-97834	
-
-
-
-97839	
-97841	
-
-attic
-
-97847	
-
+97843	attic
 97850	doric
-97852	
 97854	doric/aeolic
 97858	doric/aeolic
-
 97863	attic/epic
-
-97866	
-
-attic
+97868	attic
 epic/ionic/attic
-
 97873	epic/ionic/attic/doric
-97875	
-epic
-97878	
-97880	
-97882	
-97884	ionic
-97887	
-
+97876	epic
+97888	epic
 97890	doric/aeolic
 attic
 epic/ionic/attic
-
 97895	attic/epic
-
-
-
-
-
-attic
-97904	
-epic
-
-97908	
-
-97912	
-97914	
-
-
-
+97897	attic/epic
+97901	attic
+97905	epic
 97920	epic
-97923	
-97926	
-
-
-attic/epic
-
+97929	attic/epic
 97934	doric/aeolic
-
 97938	attic/epic/doric
-
-doric/aeolic
-97942	
-97944	
-
 epic
-97952	
-ionic
-97955	
-97957	
-epic/ionic/attic
-97960	
-97963	
-97966	
-
-97969	
-97971	ionic
+doric/aeolic
+97946	epic
+97953	ionic
+97958	epic/ionic/attic
 97974	attic
 attic/epic/doric
 doric/aeolic
-97978	
-97980	
-97985	
-97989	
-
-attic/ionic
-97993	
+97991	attic/ionic
 97995	attic/epic/doric/ionic
-
-
-
-
-
-attic/epic
-98003	
-98005	
-
-98008	
-98010	
+98001	attic/epic
+98003	doric
+98006	attic
 98012	ionic/doric/aeolic
-
-
-
 98017	doric/aeolic
-
-98020	
-attic/epic
-98024	
-98026	
-98030	attic/epic/doric
-98034	
-
-98040	
+98021	attic/epic
 98042	doric/aeolic
-
-
-98048	
-
-doric/aeolic
-ionic
-doric/aeolic
-98054	
-
-98057	
+98050	doric/aeolic
+98052	doric/aeolic
+98057	doric/aeolic
 98061	doric/aeolic
-98064	
-
-attic/epic/doric
+98066	attic/epic/doric
 doric/aeolic
 epic/ionic
-
-
 98072	doric
-
-attic/epic/doric
-
-
+98074	attic/epic/doric
 98081	attic
-
-doric/aeolic
-
-attic/ionic
+98083	doric/aeolic
+98085	attic/ionic
 98087	epic/doric/aeolic
-98091	
+98091	attic/epic/ionic
 epic
-
-epic/ionic/doric/laconia
-attic
-
-
-98101	
+98095	attic
 98103	doric/laconia
-
-
 98107	epic
-98109	
-
-98112	
 98114	attic
-98118	
-98120	
-attic/epic/doric
-ionic
-98124	
-
+98121	attic/epic/doric
 98128	attic
 98131	doric/aeolic
 attic
-
 98136	ionic
 attic
-
-
-98142	
-doric/aeolic
-
-98146	
-98149	
-epic/doric
-
-98153	
-
-98156	
-
-
-
-attic
-
-98164	
-98166	
-
+98143	doric/aeolic
+98150	epic/doric
+epic
+98160	attic
 98173	doric/aeolic
 attic
-
-
-
-
-
-98184	
-98187	
-
-doric/aeolic
+98189	doric/aeolic
 98193	attic
-
-98196	
-
-
-
-98203	
 98205	attic/epic/doric
-98207	
-attic/epic/doric
-98211	
-98215	
-epic
-98219	
+98208	attic/epic/doric
+98216	epic
+98220	attic
+attic
+98223	attic/epic
+98229	attic/epic/ionic
 attic
 attic
-
+98233	attic/epic
+98245	epic
+98250	attic/epic/ionic
+attic
+attic
+98263	attic
 attic/epic
-98226	
-98228	
-attic/epic/ionic
-attic
-attic
-
-attic/epic
-98235	
-98240	
-98242	ionic
-98244	
-
-98247	
-98249	
-attic/epic/ionic
-attic
-attic
-98254	
-
-98257	
-
-98260	
-98262	
-attic
-attic/epic
-
 98267	attic/epic/ionic
-
-doric
-98277	
-98279	
-98285	
+98269	doric
 98288	attic/epic/doric
-98290	
-
-
-98294	
-98297	
-
-attic
+98299	attic
 attic/epic/doric/ionic
-98302	
-
-doric
-
-98307	
+98304	doric
 98309	epic/doric
-
-
 98313	attic/epic/ionic
-
-
-
+epic
 98318	doric/aeolic
-
-ionic
 98322	doric/aeolic
 attic
-
-98326	
-attic/epic/doric
-98329	
-98331	
-
-
+98327	attic/epic/doric
+98332	attic/epic/doric
 98335	epic
-98337	
-
-
-
-
-98343	
-98347	
 98351	epic/doric
-ionic
-epic/doric
-
-
-doric/aeolic
+98353	epic/doric
+98356	doric/aeolic
 attic
 attic
-
-epic/ionic/attic/doric
-
-
-
-doric/aeolic
-
-
-
-
-98370	
-98372	
-98374	
-
-
-doric/aeolic
-98379	
-doric/aeolic
-
-98383	
-
-attic
+98360	epic/ionic/attic/doric
+98364	doric/aeolic
+98377	doric/aeolic
+98380	doric/aeolic
+98385	attic
 doric
 doric
 epic/doric
-
-
-
-doric/aeolic
-
-
-
-98397	
-98400	
-
-
-98404	
-
-98407	
-
+98392	doric/aeolic
 98410	attic/epic/doric
-
-98415	
-
-98420	
-98422	
-attic/epic
-
-
-98429	
-
-98434	
-
-98437	
-
+98423	attic/epic
 98440	attic/epic/ionic
-
 98443	attic
-
-ionic
-98449	
-
-attic
+98451	attic
 98454	attic
-98461	
-attic/epic/doric
-
-attic/epic
+98462	attic/epic/doric
+98464	attic/epic
 98466	attic/epic/doric
-
-attic
-
-
+98468	attic
+98470	epic
 98473	attic/epic/doric
-
-
-
-attic/epic/doric
+98475	epic
+98477	attic/epic/doric
 98480	attic/epic/doric
-
-
-
-attic
-98487	
-98490	
+98484	attic
 98493	attic/epic/doric
-
+98495	attic/epic/doric
+98497	attic/epic/doric
 attic/epic/doric
-
-attic/epic/doric
-attic/epic/doric
-
-98504	
 98506	attic/epic
-
-attic
+98508	attic
 98510	attic
-
-
-doric
-98515	
-
+98513	doric
+98516	epic
 attic
-98520	
-
-
-
-
-
 98530	attic
-
-
-
-
-98536	
-
-98540	
 98543	epic/doric
-98545	
-98548	
-doric
+98549	doric
 doric/aeolic
 doric/ionic
 98553	doric
-98555	
-
-
+98558	doric
+98567	ionic
+98573	attic/epic/doric
 doric
-98561	
-
-98565	
-
-ionic
-
-98571	
-
-attic/epic/doric
-doric
-
 98577	doric
 attic
-
-
-
-98584	
-
-
-98589	
-
-98592	
-98594	
-98597	
-
-98601	
-attic/epic/doric/ionic
+98602	attic/epic/doric/ionic
 doric/aeolic
 attic/epic
-
-
-98612	
-attic
-98615	
-doric/aeolic
-
-
-
-98622	
-
-
-doric/aeolic
+98613	attic
+98616	doric/aeolic
+98625	doric/aeolic
 98628	ionic
-98630	
-
-
-
-doric/aeolic
+98634	doric/aeolic
 epic/doric/ionic/aeolic
-
-
-
-attic/epic/doric
+98639	attic/epic/doric
 epic/doric/aeolic
-
-
-98644	
-
-attic
-
-attic
+98646	attic
+98648	attic
 doric
-
-
-
-
-98655	
-attic
+98652	epic
+98656	attic
 98658	doric/aeolic
-98660	
-
-
 98664	epic/doric/aeolic
-
-
-98668	
-
-
-98672	
-
-98675	
-98678	
-attic
-98683	
-
-
-98687	
-
-attic
-
-attic/epic/doric
-98693	
-epic/doric/ionic/aeolic
-
-
-
-attic/epic
-
-98701	
-
-doric/aeolic
-
-
-doric/aeolic
+98679	attic
+98689	attic
+98691	attic/epic/doric
+98694	epic/doric/ionic/aeolic
+98698	attic/epic
+98703	doric/aeolic
+98706	doric/aeolic
 attic/ionic/epic/doric
-
-98712	
-
-
-attic/epic/doric
+98715	attic/epic/doric
 98718	attic/epic/doric
-
-ionic
-
-98723	
-attic
-
-ionic
+98724	attic
+98726	ionic
 epic/doric
-
-98730	
 98732	attic/epic/doric/ionic
-
-98735	
-
-
-98739	
-attic/epic/doric
-98742	
+98740	attic/epic/doric
 98744	attic/epic/doric
-98746	
-
-doric
-
+98748	doric
 98752	doric/ionic
-
-
-98756	
-
-98759	
-98763	
-
-epic/ionic/attic/doric
-
-doric
-98769	
-98771	
-epic
-
-98775	
-98777	
-98779	
-98781	
-
-
-98785	
-98787	
-98789	
-attic/ionic
-
-
-
-98795	
-98797	
-
-doric
-98801	
-
-epic/doric/aeolic
-
-attic/ionic
-
-
-
-
-98812	
-
-98815	
-
+98765	epic/ionic/attic/doric
+98767	doric
+98772	epic
+98790	attic/ionic
+98799	doric
+98803	epic/doric/aeolic
+98805	attic/ionic
+98807	epic
+98816	epic
 doric/aeolic
 98819	doric/aeolic
-
-
-98823	
-
-epic/ionic/attic/doric
+epic
+98825	epic/ionic/attic/doric
 98827	attic/epic
-
-98832	
 98835	attic/epic/doric
 attic/epic/ionic
-
-98840	
-
-
-98847	
-
-98852	
-98856	
-98860	
-epic/doric/aeolic
+98861	epic/doric/aeolic
 98863	epic/doric
-98865	
-ionic
-
-
-
+98866	ionic
+98870	attic/epic
+98872	attic
 attic/epic
-
-attic
-attic/epic
-98875	
 98878	epic/doric
 98882	doric/aeolic
-
-
-
-
-98889	
+98889	attic/epic/ionic
 ionic
 98892	attic/epic/doric
-
 98895	doric/aeolic
-98898	
-
-
-
-attic
-98904	
-
+98902	attic
 98907	epic/doric/ionic/aeolic
-
-98911	
-
-98914	
-
-attic
-
-98921	
-
+98916	attic
 98926	doric
-
-98931	
-
-98934	
-
-
-
-98939	
 98941	epic
-
-98947	
-
-98950	
-
-
-
-98955	
-
-
-98960	
-
-
-ionic/epic
+98963	ionic/epic
 epic/doric
 98966	epic
 doric
-ionic
 98972	epic/ionic
-98974	ionic
-
-98978	
-
 98981	doric/aeolic
 98984	doric/aeolic
 doric/aeolic
-98989	
 98995	attic/epic/doric
-98997	
-98999	
-
-
-
-99004	
-99006	
-99010	
-
-99014	
-
-99017	
-
-
-ionic
-99027	
 99029	epic/doric
 99032	epic/doric/ionic/aeolic
-
-epic/doric
-99036	
-attic/ionic
+99034	epic/doric
+99037	attic/ionic
 epic
-
-
-
-doric
-
-attic/ionic
-
-epic/doric/ionic/aeolic
-99048	
-
-ionic
-doric
-
-epic/doric/aeolic
+99042	epic
+99044	attic/ionic
+99051	doric
+99053	epic/doric/aeolic
 epic
-
-99057	
-99059	
 99063	doric/aeolic
-
+epic
 attic/epic/doric
-99067	
-attic/epic/doric
+99068	attic/epic/doric
 99070	doric
-99072	
-
-99075	
-
-
-
-
-
-99082	
-
-
-
-doric/aeolic
-99088	
-
-attic/ionic
-
+99086	doric/aeolic
+99090	attic/ionic
 99094	doric
-
-attic
+99096	attic
 99098	epic/doric
 epic
 99101	epic/doric
 99104	epic/doric
-99106	
-
-99110	
-99112	
-
 99116	epic/doric
-
-
-attic/epic/ionic
-
-99122	
-99125	
-
-
-
-99130	
+99119	attic/epic/ionic
 99133	doric/aeolic
 99135	epic/doric
-99137	
-
-
-99142	
-99144	ionic
+99145	doric/aeolic
+99160	doric/aeolic
 doric/aeolic
-99148	
-
-
-
-99153	
-
-
-
-99158	
-
-doric/aeolic
-doric/aeolic
-ionic
-doric/aeolic
-
-99166	
+99163	doric/aeolic
 99168	attic
 attic
 doric/aeolic
 99172	attic
 attic/epic/doric
-99178	
-
 99181	attic/epic/ionic
 99183	doric
 99185	doric/aeolic
@@ -58404,6252 +17725,1987 @@ epic
 doric/aeolic
 99195	doric/aeolic
 epic
-
 99203	attic/epic
-99205	
-
 99209	doric
-
 99212	attic
-99214	ionic
 99216	attic
 99220	attic
 99224	epic/doric
-99226	
-
 99229	epic/doric
-epic/ionic/doric/laconia
-attic
-
-
-99235	
-
-99238	
-attic/ionic
-
-
-
-99244	
-
-
-
-
-99252	
-
+99231	attic
+99233	epic
+99239	attic/ionic
+99241	doric
 99255	epic/doric
-
-
-
-
-
-epic/doric
-99263	
-epic/doric/aeolic
-99266	
-
-
-epic/doric/aeolic
+99261	epic/doric
+99264	epic/doric/aeolic
+99269	epic/doric/aeolic
 99271	doric
-99274	
-epic/doric/ionic/aeolic
-
-
-
-epic/doric/aeolic
-99282	
-99284	
-
-ionic
-epic/doric
+99275	epic/doric/ionic/aeolic
+99279	epic/doric/aeolic
+99285	doric
+99287	epic/doric
 99292	epic/doric
-99294	
-
-attic
-99298	
-ionic
-99301	
-
-
+99296	attic
+99299	ionic
 99305	attic/epic/doric
-
-doric
-
+99307	doric
 99310	doric
-99313	
-attic
-
-99318	
+99314	attic
 99320	epic
-99322	
-
-
 99326	doric
-99328	
-
-99331	
-
-99334	
-
-attic/epic/doric
-
-
-99340	ionic
-99342	
-99345	
-
-
+99336	attic/epic/doric
 99349	attic/epic/doric
-99351	
-99354	
-99357	
-
-99360	
 99363	doric/aeolic
-99365	
-99367	ionic
-99371	
 99374	doric/aeolic
-99377	
-attic/epic
-
+99378	attic/epic
 99381	attic
-
-99384	
-ionic
-99387	
-
-
-
-99392	
-99395	
-ionic
-epic/doric
-99400	
-99404	
-99406	
-attic/ionic
-99409	
+epic
+99397	epic/doric
+99407	attic/ionic
 99411	attic/ionic
-99413	doric
+99413	epic
 doric
-99416	
-
-
-
+99420	doric
 doric
-doric
-
-99424	
-
-
 99428	epic
-
 99431	epic/doric
-
-doric/aeolic
-
-99436	
-doric
+99433	doric/aeolic
+epic
+99437	doric
 99441	doric/aeolic
 doric
-
 99445	ionic
-99448	
-attic
-
-
-attic
-
-
+99449	attic
+99452	attic
 99456	epic/doric
 epic/doric
-99459	
-
-99462	
-
-
-doric
-99468	
-
-epic
+99459	doric/ionic
+99465	doric
+99470	epic
 99473	doric
-
-99476	
-
-99479	
-doric/aeolic
-99484	
-
-99491	
-
-99495	
-
-attic
-99502	
-
-attic
-99506	
-99508	
-
-
+99480	doric/aeolic
+99497	attic
+99504	attic
 99512	doric/aeolic
-
-99515	
-99517	
-
-
-99521	
-
-epic/doric/ionic/aeolic
+99523	epic/doric/ionic/aeolic
 doric
 epic/doric/ionic/aeolic
-99527	
-99529	
-attic/epic
-99532	
+99530	attic/epic
 99534	epic/doric
-99536	ionic
-99538	
-99540	
-99543	
 99545	doric/aeolic
-ionic
 99548	epic/doric
 99551	doric/aeolic
-99555	
-99558	
-99561	
-99563	
-
-epic/doric
-
+99565	epic/doric
 99568	attic/epic
-
-attic/epic
+99570	attic/epic
 doric
-99575	
-epic/doric
-
-
-ionic
-
-
+99576	epic/doric
+99579	ionic
 99584	epic/ionic
 ionic
-99588	
-99590	
 99592	epic/doric
 doric/aeolic
-99596	
-99599	
-
-99602	
-attic/epic
-99605	
+99603	attic/epic
+99605	epic
 doric
-
-
-
-
 99612	doric/aeolic
-99615	
-
-
-99619	
-
-
-99623	
-
-attic/epic
-99627	
-99630	
-attic
-
-doric/aeolic
+99625	attic/epic
+99631	attic
+99633	doric/aeolic
 99635	doric/aeolic
-
-
-99639	
-
-
-attic/ionic/doric
-
-
-
-
-
-attic/epic
-99650	
-
-99653	
-
-
-epic/ionic/doric/laconia
-
-doric/aeolic
-99660	epic/ionic/doric/laconia
-
-doric/aeolic
-99664	
-99667	
-
-99670	
-99673	
-
-99678	
-attic/ionic
-99681	
-ionic
-epic/doric
-
-
-
-
-99690	ionic
-epic/doric
-99693	
-99695	
-99697	
-
-
+99642	attic/ionic/doric
+99648	attic/epic
+99658	doric/aeolic
+99662	doric/aeolic
+99679	attic/ionic
+99683	epic/doric
+99691	epic/doric
 99704	doric
 epic/doric
-99707	
-99709	
-epic/doric
-ionic
-99714	ionic
-99716	
-
-
-99722	
-99724	ionic
-99727	
+99710	epic/doric
 99732	doric
 doric/aeolic
 99736	doric/aeolic
 epic/doric
-99739	
-epic/doric
+99740	epic/doric
 attic/epic/ionic
-99743	
-ionic/doric/aeolic
-99746	
+99744	ionic/doric/aeolic
 99750	epic/doric
-
 99754	doric
 doric/aeolic
-99759	
-
-99763	
-99765	
-epic/doric
-99768	
-attic/epic
-
-
-
-99774	
-99776	
-
-
-doric/aeolic
-
-
-
-99785	
-epic/doric
+99766	epic/doric
+99769	attic/epic
+99779	doric/aeolic
+99786	epic/doric
 99788	attic/epic/doric
-99790	
-
-attic/epic/doric
-99794	
-
-attic/ionic
-
-
+99792	attic/epic/doric
+99796	attic/ionic
 99800	doric
-
-99804	
-
-ionic
-epic/doric
-99809	
+99807	epic/doric
 99812	doric/aeolic
 epic/doric
-99818	
-doric/aeolic
-99821	
-
-doric/aeolic
-99826	
-attic/epic/ionic
-
-
-99831	
-99833	
-attic/epic/ionic
-99840	
-99843	
-
-ionic
-
-
+99819	doric/aeolic
+99823	doric/aeolic
+99827	attic/epic/ionic
 doric
-
-
 doric
-
+99834	attic/epic/ionic
+99845	ionic
+99848	doric
+99851	doric
 99854	attic/epic/ionic
-
-
 99858	attic/epic
-99860	
-99862	
-
-
-ionic
-epic/doric
-
-
-99871	
+99862	attic/epic/ionic
+99866	epic/doric
+99871	attic/epic/ionic
 doric/aeolic
 99874	epic
-ionic
-
-epic
-
+99877	epic
 99884	epic
-
-99887	
-attic/epic/doric/ionic
-ionic
-99892	
+99888	attic/epic/doric/ionic
 99894	attic/epic/doric
 99896	attic/epic
 doric
-99900	ionic
-
-
-99904	
 99907	epic/doric
-99909	
-
 99914	epic/doric
-
-99918	ionic
-
+99919	attic/epic/ionic
 99922	attic
-99924	
-doric/aeolic
+99925	doric/aeolic
 attic/epic
-
-
-
-
-99932	
-99934	
-
 99937	attic/epic/doric
-
-99940	
-
-doric/aeolic
+99942	doric/aeolic
 99944	attic/epic/doric/ionic
-
-
-doric/laconia
+epic
+99947	doric/laconia
 attic/epic
-
-
+99950	epic
 99952	doric
-99954	
-99958	
-
-
-
-99963	
-epic/doric
-ionic
+99964	epic/doric
 99967	doric/laconia
 attic
-
-99973	
-ionic
-99977	ionic
-99980	
-attic/ionic
-
-epic/doric
+99981	attic/ionic
+99983	epic/doric
 attic/epic/doric
 epic/doric
-
+epic
 99988	doric
-
-attic
-
+99990	attic
 99993	doric
-
-attic/epic
-
-
-
-100000	
-ionic
+99995	attic/epic
+100001	ionic
 100004	attic/epic/doric
 100006	attic/epic/doric
 epic/doric
-
-100012	
-attic
-
-100016	
-100020	
-doric
+epic
+100013	attic
+100021	doric
 100024	attic/epic/doric
-ionic
-epic/doric
-
-100030	
-
-attic
-
-attic/ionic
-
+100026	epic/doric
+100032	attic
+100034	attic/ionic
 100037	attic/ionic
-
-
-100042	
-
-
-
-attic/epic/doric
-
-
+100046	attic/epic/doric
 100050	attic/epic/doric
-
-
-
-
-
-100057	
-100059	
-
-
-
-doric/aeolic
-
-attic/epic
-
+100063	doric/aeolic
+100065	attic/epic
 100071	attic/epic/doric
-100073	
-100075	
-
 100079	attic
-
-100083	
-100085	ionic
 100088	attic
-
-100091	
-attic
-100094	
-
+100092	attic
+100095	attic/epic/ionic
 doric/ionic
 100099	epic/doric
-
-100102	
-
-100105	
-
-
-epic/doric/aeolic
-
-
-100116	
-
-100120	
+100108	epic/doric/aeolic
 100124	doric/aeolic
-
-100127	
-
-100130	
-100132	
-
-doric/*theocr.
-100136	
-
-ionic
-epic/doric
-100141	
-ionic
-100144	epic/doric
-
-100147	
-
 doric
-
-
+100134	doric/*theocr.
+100139	epic/doric
+100144	epic/doric
+100149	doric
+100151	attic
 attic/epic/doric
 epic/doric
-
-
-100157	
-
-doric/aeolic
+epic
+100159	doric/aeolic
 100161	epic
 doric/aeolic
 100164	doric/aeolic
-
-100167	
-attic
+100168	attic
 100170	doric/aeolic
-100172	
-100177	
-100179	
 100182	attic/epic
-
 100190	attic/epic
-100192	
 100194	attic/epic/ionic
-
-
-
-100199	
-
-100202	
-doric/aeolic
-100205	
-
-100212	
-
-
-100217	
-ionic
-
+100203	doric/aeolic
 100221	attic/ionic/epic
 doric/aeolic
-
 100226	attic
-100228	
 100230	attic
-
 100233	attic
 100237	epic/doric
-
-100240	
-
-attic/epic/doric
-ionic
-epic/doric
-
+100242	attic/epic/doric
+100244	epic/doric
 100250	epic/doric
-
-
-attic/epic
+100253	attic/epic
 100255	attic
-
-
-ionic
-
-100262	
-
-
 100271	epic/doric
-
-doric
-100275	
-100278	
-ionic
-doric/aeolic
-ionic
-
+100273	doric
+100280	doric/aeolic
 100284	epic/doric
-100286	
-
-
-
-ionic
-
-
-100294	
-100297	
-
-100300	
-100302	
 100308	doric/aeolic
-
-
-
+100312	epic
 epic
-epic
-100315	
-
-
 100319	doric/aeolic
-100321	
-
-attic/epic/doric
+100323	attic/epic/doric
 100325	epic/doric
-
 100330	epic/doric
-100332	
-
-100335	
-attic/epic
-
-100340	
-
-
-
-epic/doric/ionic/aeolic
+100336	attic/epic
+100344	epic/doric/ionic/aeolic
 attic/ionic/epic/doric
-
-
-
-
-
-100352	
 100354	epic/doric
-
-100362	ionic
-
-
-100367	
-100371	
-
-
-100375	
-100377	
-
-
-
-100382	
-doric/laconia
-
-
-
-ionic
-attic/epic/ionic
-
-100394	
-doric/aeolic
-
-
+100383	doric/laconia
+100387	ionic
+doric
 100401	attic/epic
-
-100404	
-
-attic/ionic
-100408	
-100411	
-attic/epic/ionic
-ionic
-epic/doric
-
-doric/aeolic
-
-
-doric/aeolic
-
-100422	
-
-ionic/doric/aeolic
+100406	attic/ionic
+100414	epic/doric
+100416	doric/aeolic
+100419	doric/aeolic
+100424	ionic/doric/aeolic
 100426	attic
-
-doric/laconia
+100428	doric/laconia
 100430	doric
-
-
-attic/ionic
-
-doric/laconia
+100433	attic/ionic
+100435	doric/laconia
 100438	epic/doric
 doric/aeolic
-100441	
 100443	epic/doric
-100446	
-attic/ionic
-100452	
-100454	
-100457	
-
-100460	
+100447	attic/ionic
 100462	doric/aeolic
-
-doric
-100467	
+100464	doric
 100469	epic/doric/aeolic
-
-
-
-
-
-epic/doric/ionic/aeolic
-100477	
-
-ionic
-
-
+100475	epic/doric/ionic/aeolic
 100483	doric
 100485	ionic/doric/aeolic
-
-
-
-
-epic/ionic/attic/doric
+epic
+100490	epic/ionic/attic/doric
 epic/doric
-
-100495	
 100497	attic/epic/doric
-100499	
-
-doric
+100501	doric
 100503	doric/ionic
-
-
-doric/ionic
-
-
+100506	doric/ionic
 100510	attic/epic/ionic
-100515	
 100519	doric/aeolic
-
-
-ionic
-100524	
-100526	
-doric/aeolic
-100530	
-
-
-ionic
+100527	doric/aeolic
 100535	attic
-
-100539	
-100541	
-epic/ionic/attic/doric
-
-
-
-epic/ionic/attic/doric
-100548	
-100552	
-
-100555	
-100557	
-
-
-100561	
-
-100564	
-100568	
-
-
-100572	
-
-
-
-100577	
-attic/epic/doric
-
-
-
-attic/epic/doric
-100584	
-
-100587	
-
-
-attic/ionic
-100593	
+100542	epic/ionic/attic/doric
+100546	epic/ionic/attic/doric
+100578	attic/epic/doric
+100582	attic/epic/doric
+100590	attic/ionic
 100595	attic/epic/ionic
-
-100598	
-
-attic/ionic/epic
-
-100603	
-
-
-100608	
-100610	
-
-epic/doric
-
-
-
-
-
-
-
-
-
-100623	
-
-ionic
+100600	attic/ionic/epic
+100612	epic/doric
 100627	epic/doric
 attic/epic/doric/ionic
-
-doric/aeolic
-
-
-
-100636	
-100639	
-
+100630	doric/aeolic
+100639	attic
+100641	epic
+100645	epic/ionic/attic/doric
+100647	attic/epic/doric
 epic
-
-100644	
-epic/ionic/attic/doric
-
-attic/epic/doric
+100650	doric/aeolic
 epic
-
-doric/aeolic
-epic
-
 100655	epic
-
-epic/ionic/attic/doric
-
-epic
+100657	epic/ionic/attic/doric
+100659	epic
 attic/epic/doric
 attic/epic/doric
-
-attic/epic/doric
-
-
-
-
-100669	
-
-100673	
-epic/ionic/attic/doric
-100676	
-
-100680	
-100682	
+100663	attic/epic/doric
+100666	doric
+100669	doric
+100674	epic/ionic/attic/doric
 100684	epic/doric/aeolic
 100686	epic/doric/aeolic
-100689	
-
-attic/epic
-
+100691	attic/epic
 100697	doric
-100699	
-100701	
-100704	
-100707	
-attic/ionic
-100710	
-
-100713	
-epic/ionic
-100716	
-100718	
-100721	
-100724	
-100727	
-
-100731	
-
-100736	
-100738	
-epic/doric/ionic/aeolic
-100741	
+100708	attic/ionic
+100714	epic/ionic
+100739	epic/doric/ionic/aeolic
 100743	doric
-
-
-doric
-
-
-
-attic/epic
-100752	
-attic/epic/doric
-
-100757	
-attic/epic/doric
-100760	
+100746	doric
+100750	attic/epic
+100753	attic/epic/doric
+100758	attic/epic/doric
 100762	attic/epic
-
-100765	
-
-attic/ionic/epic
-
+100767	attic/ionic/epic
 100772	attic
-
-attic
-100776	
-
-100779	ionic
-100782	
-
-100785	
-100787	
+100774	attic
+100777	doric/ionic
 100789	doric/aeolic
 attic
 ionic
-100795	
-
-100799	
-100801	
+100799	epic
 100803	epic/doric/aeolic
-
+epic
 attic
-100808	
-doric/aeolic
-
-
+100809	doric/aeolic
 100813	attic/epic
-
-
-100819	ionic
-doric/aeolic
+100820	doric/aeolic
 100822	attic/epic
-
-doric/aeolic
-100826	
-
-100829	
-100831	
-
-100834	
-doric/aeolic
-
+100824	doric/aeolic
+100835	doric/aeolic
 100838	attic
-100840	
-doric/aeolic
-
-100845	
-100848	
+100841	doric/aeolic
+100848	doric
 epic/ionic/attic
-
 100852	doric/aeolic
-100856	
-
-100859	
 100861	attic
-100863	
-doric/aeolic
-
-100868	
-100870	ionic
-100872	
-100875	
-100877	
-
-
-100881	
-
-attic
-
-attic/ionic/epic
-
-100889	
-attic/ionic/epic
-
-
-
+100864	doric/aeolic
+100883	attic
+100885	attic/ionic/epic
+100890	attic/ionic/epic
 100896	doric/aeolic
 100898	doric
-100900	
-epic
-
-epic/doric/aeolic
+100901	epic
+100903	epic/doric/aeolic
 100905	attic/epic/ionic
-100908	
-
-ionic
-
-doric
-
-
-
-100917	
-
-
-
-100922	
-
-
-doric
-100927	
-
-
-100933	
-
-100936	
-
-100939	
-
-
-
-
-100947	
-100949	
-
-100952	
+100912	doric
+100925	doric
 100954	epic/doric/aeolic
 100956	attic/epic
-
-
-100960	
-
 100963	epic/doric/ionic/aeolic
-
-
-attic/epic
-
-100969	
-attic/ionic/epic
-
-100974	
-
-100977	
-
-epic/doric/ionic/aeolic
+100966	attic/epic
+100970	attic/ionic/epic
+100979	epic/doric/ionic/aeolic
 attic
-
 100983	attic/epic/doric
-
-100986	
-100988	
-epic
-
-100994	
-
+100989	epic
 100998	attic/epic/doric
-
-
-
-101003	
 101007	attic/epic/doric
-101009	
 101011	epic/doric
-
-101015	
-
-doric/aeolic
-
-
-101022	
-
-101025	
-attic
-101029	
+101026	attic
+101030	doric
+101032	epic
 doric
-
-doric
-doric
-
-
+101035	doric
 101037	doric
-101040	
-101043	
-ionic
-
+101044	ionic
+101046	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-
-
-
 101053	attic/epic/doric
-
-attic/ionic
+101055	attic/ionic
 epic/doric
-
 101060	doric/aeolic
 101062	attic/epic/doric
-
-101065	attic/doric
-
+101065	attic
 101069	epic/doric
-101071	
-attic/ionic
-
+101072	attic/ionic
 101075	attic/epic/doric
-
-epic/doric
+101077	epic/doric
 doric/aeolic
 epic/doric
-
-101082	
-
 101086	epic/ionic/doric
 101088	doric/aeolic
-
-
-101092	
-attic/epic/doric
-101095	
-attic/ionic
+101093	attic/epic/doric
+101096	attic/ionic
 101098	attic/ionic
-
-
-attic/epic/doric
+101101	attic/epic/doric
 epic/doric
-
-
+101104	doric
 epic/doric
 epic/ionic/attic/doric
-
-attic/epic/ionic
-
+101108	attic/epic/ionic
 101111	attic/epic/doric
-
 101114	epic/doric
 doric/aeolic
-
-
 101119	epic/doric
-
-
-
-
 101126	epic/doric
-101128	
 101130	epic/doric
-101132	
-101134	
-101137	
+101138	epic/doric
 epic/doric
-epic/doric
-
-
-attic/epic
-
-101146	
-101148	
+101142	attic/epic
 101150	doric
 attic/epic
-
-doric
+101153	doric
 epic/ionic/attic/doric
-101156	
-
-
-attic/epic/doric
-
-101162	
-101164	
+101159	attic/epic/doric
 101166	epic/doric
-
-101170	
-
-101173	
-101175	
-
-epic/doric
-
+101177	epic/doric
 101180	doric
-
-
-
-
-
-101187	
-
-doric/aeolic
+101189	doric/aeolic
 doric/aeolic
 101192	attic
 doric/aeolic
-
-101197	
-
-101200	
-101202	
 101204	epic/doric
 101206	doric
-101208	
-
-101211	
-
-
-
-
-101217	
-101219	
-
-
-
 101226	epic/doric
-
-101230	
 101232	attic/epic/doric
-101234	
-101238	
-
-
-101242	
-101247	
-101251	attic/epic/ionic
-
-doric/aeolic
-
-ionic
-101258	
-epic
-
+101253	doric/aeolic
+101259	epic
 101262	attic/epic
 attic
-
-
-101267	
-101269	ionic
-epic/doric
-
-attic/epic
+101270	epic/doric
+101272	attic/epic
 doric/aeolic
 attic/epic
-
-doric
-101279	
-
-
-doric/aeolic
+101276	doric
+101282	doric/aeolic
 attic/epic/ionic
-
-101286	
 101290	attic/epic/doric
-
-
-doric/aeolic
+101293	doric/aeolic
 epic
-
-
-
-101299	
-ionic
-epic/doric
-101303	
-
-
-
-
-attic/ionic
-101310	
-
-
-ionic
-101315	
-
-
-
-doric
-
-
-101323	
-
-101326	
-101328	
-101330	
-101333	
-101337	
-
-
-epic/doric
-
-101343	
-
-101346	
-
-101349	
-101352	
-doric/aeolic
-101356	
-101359	
-101361	
-
-
+101301	epic/doric
+101308	attic/ionic
+101313	ionic
+101319	doric
+101340	epic/doric
+101353	doric/aeolic
 101365	epic/doric/aeolic
 doric/aeolic
-
 101369	epic/doric/aeolic
-
-101374	
-101377	
-
-101381	
 101383	epic/doric
-101385	
-101387	
-101389	
-
-
-
-
-101395	
+101385	doric/aeolic
+101393	doric
 101397	doric/aeolic
-101399	
-
-101403	ionic
-epic/doric
-101406	
-ionic
-101409	
-101411	
-
-attic/epic
-101416	
-
-101419	
+101404	epic/doric
+101413	attic/epic
 101422	doric
 101424	doric
 101427	epic/doric
-
-101430	
-
 101434	epic/doric
-
-attic/epic/doric
+101436	attic/epic/doric
 101438	attic
 101440	attic
-
+101442	attic
+101446	doric
 attic
-
-101445	
-doric
-attic
-
-101450	
-
-attic
-
-101455	
+101452	attic
 101457	epic/doric
-101460	
-101462	
-ionic
-101465	
-doric/aeolic
-
+101466	doric/aeolic
+epic
 attic
-
-101471	
 101473	attic
-101476	
-
-101479	
-
-
 101485	epic
-101487	
 101489	doric
 101491	doric/aeolic
-
-
-101495	
-101497	
-attic
-
-attic
-
-101503	
-
-
-
-101508	
-
-
-attic
+101498	attic
+101500	attic
+101511	attic
 101513	attic
-101515	
-
-101518	
-attic
-
-101523	
-101525	
-
-ionic
-101530	
+101519	attic
 101532	attic/epic/ionic
-
-
-101536	
-
-
-attic
+101539	attic
 101541	epic/doric
-
-101544	
-ionic
-
-doric/laconia
-
-
-101552	
-
-doric
+101547	doric/laconia
+101554	doric
 epic
-
 101558	epic/doric
-101561	
 101563	doric/laconia
 attic
-
-doric/aeolic
+101566	doric/aeolic
 101568	doric/aeolic
-101570	
-101572	
-
+101574	doric
 doric
-doric
-101577	
 101579	doric
-101581	
-
-101587	
-
-
-epic/doric
-101593	
-101596	
-101599	
-
-
-101603	
-
-attic/epic/doric
-101608	
-101611	
-
-
-
-
-101617	
+101590	epic/doric
+101605	attic/epic/doric
+101615	attic
 101619	doric
 101622	doric/laconia
 101624	epic
-101626	
-
-
-101630	
-101632	ionic
 101634	attic/epic/doric
-
-
-
 101640	epic/doric/aeolic
 doric/aeolic
 101644	attic
-
 101649	epic/doric
 doric/ionic
-
-
-attic/epic
-101655	
+101653	attic/epic
 101657	epic/doric
-
 101660	doric/aeolic
 attic
-
-101664	
-101667	
-
-attic/epic
-101671	
+101669	attic/epic
 101673	epic/doric/aeolic
-
-attic/epic
-
-
-
+101675	attic/epic
+101678	doric
 attic/epic/ionic
-
-
-
-
-101685	
 101687	epic/doric
-
-attic/epic/ionic
-101691	
-
-
-
-101696	
-
-101699	
-
-
-101704	
-
-
-
-101710	
+101689	attic/epic/ionic
+101697	epic
 101713	epic/doric/ionic/aeolic
-
-101716	
-101718	
-ionic
-
-ionic
-101726	
 101728	doric/aeolic
-
-ionic
-doric
-101734	
-ionic
-epic/ionic
-101738	
+101731	doric
+101736	epic/ionic
+101739	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-ionic
-101744	
 101750	doric/aeolic
-101752	
-101754	
-
-
-
-
-
 101763	attic
-
-
-101767	
-doric
+101768	doric
 attic/epic/doric
-epic/ionic/doric/laconia
-attic
-
-
-
-101777	
-ionic
-
-101782	
-101785	
+101771	attic
 101789	attic/epic
-
 101792	epic
-101794	
-101796	
-
-
 101801	doric/aeolic
-
-
-101805	
-
-101812	
-101815	
-
-
-101819	
-101821	
-101823	
+101821	epic
 101825	epic/doric/aeolic
-ionic
-101828	
-doric/aeolic
-101832	
-epic/doric/aeolic
-101835	
-101839	
+101829	doric/aeolic
+101833	epic/doric/aeolic
 101841	doric/laconia
-
-
-
 101848	doric/aeolic
 101851	attic/epic/doric
-
-
-ionic
-
-
-
-
-101860	ionic
-
-
-
-
-attic/epic/ionic
-
-
-101869	
-101875	
-attic/ionic
+101865	attic/epic/ionic
+doric/ionic
+101869	epic
+101876	attic/ionic
 101878	doric/aeolic
-
-101881	
-
-
-attic
-
-
-attic/epic/doric/ionic
-101889	ionic
+101884	attic
+101887	attic/epic/doric/ionic
 101891	doric/aeolic
-
-
-
-
-
-epic/doric/aeolic
+101897	epic/doric/aeolic
 attic
-101900	
 101902	epic/doric
-
-101905	
-attic/epic/doric
-101908	
-101910	
-doric/aeolic
-101914	
-101916	
-101918	
-
-
-
-101923	
-
+101906	attic/epic/doric
+101911	doric/aeolic
 101927	doric/aeolic
 doric/laconia
-101930	
 101933	doric/laconia
-101935	
-101937	
-101939	
-
 101942	attic/epic/ionic
-
-ionic
-101947	
-attic/epic/ionic/doric
-101950	
-ionic
-
-doric/aeolic
-101957	
+101948	attic/epic/ionic/doric
+101953	doric/aeolic
 101959	doric/aeolic
-101965	
-
-
-
 101970	ionic
-101972	
 101974	doric/aeolic
-
-
-101978	ionic
-
-doric/aeolic
-101983	ionic
+101980	doric/aeolic
 101985	doric/ionic
-
-
-
-
-101991	
-101996	
-
-101999	
-102001	ionic
-doric/aeolic
-
-102005	
-epic/doric/aeolic
-
+102002	doric/aeolic
+102006	epic/doric/aeolic
 102009	epic/doric/aeolic
 102011	attic
-102014	
-
-102017	
-
-102021	
-102023	
-
-102026	
-102030	
-
 102033	attic/ionic
-
-102036	
 102038	attic/epic/doric
 102041	doric/aeolic
-
-
-
-attic/ionic
-102047	
-
-
-
-epic
+102045	attic/ionic
+102051	epic
 102054	epic/doric/aeolic
 attic
-102057	
-attic/epic
-102060	
-102062	
-102065	
-
-102068	
-
+102058	attic/epic
+102066	doric
+102069	doric
 attic/epic/ionic
-
-
-doric/aeolic
+102073	doric/aeolic
 102077	attic/ionic
 attic/epic/doric
-102080	
-
-102086	
-
-102090	
-epic
-
-doric/aeolic
-
-
-102097	
-attic
-102101	ionic
-
-102105	
-102107	
-102109	
-102111	
-
-epic
-
-
-
-epic
-
-
-102121	doric
-102123	
-102127	
-
-doric
-102133	
-
-
-102137	
-102139	
-102141	
-
-
+102091	epic
+102093	doric/aeolic
+102095	epic
+102098	attic
+102113	epic
+102117	epic
+102121	attic/epic/ionic
+102129	doric
 102145	attic/epic/doric
 epic/doric
-
-
-attic/epic/doric
-102151	
-
-
-
-
-
-doric
-
-
-attic/epic/ionic
+102149	attic/epic/doric
+102151	epic
+102157	doric
+102160	attic/epic/ionic
 102163	attic/epic/doric
 attic/epic/ionic
-102166	
-
-
-
 102172	attic/epic/ionic
-
-
-
-attic/ionic
+102176	attic/ionic
 attic/epic/ionic
-
-attic
-
-attic
-
-attic
+102179	attic
+102181	attic
+102183	attic
 102187	epic
-102189	
-
-
-attic/epic/doric
-102194	
-attic
-
-
-102199	
-
-102202	
-
-ionic/doric/aeolic
-102206	
-102208	
-
-epic/doric
-102215	
-
-102218	
-102220	
-
+102192	attic/epic/doric
+102195	attic
+102199	epic
+102204	ionic/doric/aeolic
+102210	epic/doric
 102224	epic/doric
-
-epic
-
-102231	
-
-102237	
-102241	
-attic/epic
-
-102245	
-
-102249	
-
+102226	epic
+102242	attic/epic
 102252	attic/epic/doric
 doric
 102257	attic/epic/doric
 attic/epic
-
-doric
-
-epic
-
-
-
+102260	doric
+102262	epic
 102271	attic/epic
-
-102275	
-ionic
 102278	ionic
-
-
-
-
-102285	
-epic
+102286	epic
 102288	attic/epic/doric/ionic
-102290	
-doric/aeolic
-
-
-102295	
-
-doric/aeolic
-
+102291	doric/aeolic
+102297	doric/aeolic
 102301	attic/epic
-102303	
-
-
-
-
-
-doric/aeolic
-102311	
-
-102315	
-attic/epic
-
-102321	
+102309	doric/aeolic
+102316	attic/epic
+102322	epic
+102324	epic
+102326	ionic/doric/aeolic
 epic
-
-epic
-
-ionic/doric/aeolic
-epic
-102330	
-102334	
-attic/epic/doric/ionic
-attic/epic/ionic
-102339	
-attic/epic
+102335	attic/epic/doric/ionic
+102340	attic/epic
 102342	attic
-
-attic
-
-
-
-102349	
-
-102353	
-attic/epic
-
-
-
-
-
-
+102344	attic
+102354	attic/epic
 102362	epic
-
-102365	
-
-102368	
-102371	
-
-
-epic
-
-
-
-
-attic
-
+102374	epic
+102379	attic
 102382	ionic
 attic
-
-102386	
-
-ionic
-
-102393	
-attic/doric/aeolic
-
-
-
-ionic
-
-doric/aeolic
-
-
-attic
+102388	ionic
+102394	attic/doric/aeolic
+102400	doric/aeolic
+102403	attic
 102405	doric/aeolic
-
-attic
-
-
+102407	attic
 102411	doric/aeolic
 attic
 102414	attic/epic/doric
-
-102419	
-102421	
-doric/aeolic
-
+epic
+102422	doric
 102427	attic/epic
-
-
-attic/epic
-102434	
-doric/aeolic
+102430	attic/epic
+102435	doric/aeolic
 102437	attic/epic
-102439	
-
-
-epic/doric/ionic/aeolic
-102445	
-
-
-102449	
-102451	
-epic/doric/ionic/aeolic
-attic/epic
-102455	
-102458	
-102461	
-102464	
-attic
-
-
-
-
-102471	
-doric/aeolic
-102474	
-
-
-ionic
-102479	
+102453	attic/epic
+102465	attic
+102472	doric/aeolic
 102481	doric/aeolic
-
-102484	
-
-
-
-102489	
-
-attic/epic
-102495	
-
-
-102499	
-102501	
-
-
-epic/ionic
-
-102508	
-
-102514	
+102491	attic/epic
+102504	epic/ionic
+102508	attic
 102516	attic/epic/doric
-
-ionic
-102520	
-102523	
-
-102526	
-102529	
-102531	
-102533	
-
-
-doric/laconia
+102518	ionic
+102536	doric/laconia
 attic
-
-
-102541	
-102544	
-
-102547	
-102549	
-
-
+102551	attic
 epic/doric/aeolic
-
 102555	doric/aeolic
 doric
-
-doric/aeolic
-
-
-
-doric/aeolic
-
-
-
-
+102558	doric/aeolic
+102562	doric/aeolic
 102568	attic
-
 102572	attic/epic/doric/ionic
 102574	attic
-102579	
-
-102582	
-ionic
 102585	doric
-102589	
-
-102592	
-epic/doric/aeolic
-ionic
-
-
-
-102605	
-102610	
-
-
-
-102616	
-
-attic
-102621	ionic
-
-102624	
-102626	
-
-102629	ionic
-attic/epic/ionic
-
-
-
-ionic
-
-
-
-
-102640	
-102644	
-
-
-
-attic
-
-102652	
-
-attic
-102657	
+102593	epic/doric/aeolic
+102613	epic
+102618	attic
+102630	attic/epic/ionic
+102648	attic
+102654	attic
 102659	doric/aeolic
-
-
-102664	
-102666	
-
-102671	
-
-
-102675	
+102675	doric/ionic
 doric/aeolic
-
-doric
-102681	
-102684	
-attic
-102690	
-
-102693	
-
+102678	doric
+102685	attic
+102691	epic
 102696	attic
 attic
-
-102700	
-102702	
 102705	attic
-
-
-
-102712	
-
-
-102716	
-
-
-
-102721	
-
-
-
 102726	doric/aeolic
 attic/epic/doric
-
-102730	
-
-
-
 102737	attic
-
-
-ionic
-doric/aeolic
+102741	doric/aeolic
 ionic/doric/aeolic
-
-
-102746	
-102750	
-
-doric/aeolic
+102752	doric/aeolic
 epic
-
 102756	epic
-102758	
-
-
-doric/aeolic
-
-102764	
-102766	
+102759	epic
+102761	doric/aeolic
 102769	attic/ionic
-
-attic/epic/doric/ionic
-
-102776	
-
-102780	
-
-
-
-102785	
-
-doric/aeolic
-102789	
-102794	
-
-doric/aeolic
+102771	attic/epic/doric/ionic
+102787	doric/aeolic
+102796	doric/aeolic
 attic/epic
-102799	
-102801	
 102805	epic/doric
-
-
-
-102810	ionic
-epic/doric
+102811	epic/doric
 ionic
-
-attic/epic/doric
-
-
-
-102820	
-epic/doric
-102825	
-102827	
+102814	attic/epic/doric
+102821	epic/doric
 102829	doric/aeolic
 102833	doric
-102835	
 102839	epic/doric
-
-
-
-
-
-
-ionic
 102848	doric/aeolic
-
-102851	
-ionic
-102854	
-
-102857	
-102859	
+102852	ionic
 102861	epic/doric
 attic/epic/doric
 102864	doric
-
-
-
 102870	epic/doric
-
 102876	epic/doric
 102879	doric
 epic
 epic/doric
-
-attic/epic/ionic
+102883	doric
 doric/aeolic
 doric
 epic/doric
 epic
-
-102890	
-
-102894	
-
-102898	
-
-
-attic/epic
-
+102901	attic/epic
 102905	epic/doric
-102907	
-102910	
-
-
-102914	
-
-doric
-
-102919	
+102916	doric
 102921	epic/doric
-102924	
 102926	epic/doric
-
-
-attic/epic/doric
-
-doric
-
-102934	
-
-
-102940	
-
-
-102945	
-102948	
-102950	
-
-102955	
-
-102958	
-102960	
-102962	
-102965	
-
-102968	
-102970	
-102972	
-
-102975	
+102929	attic/epic/doric
+102931	doric
+102973	epic
 102978	attic/epic/doric
 doric/aeolic
 102981	epic
 102983	doric/aeolic
 epic
-102986	
-
-doric
-ionic
-doric
+102988	doric
+102990	doric
 attic/epic/doric/ionic
 102998	doric
-
-103001	
-
-
-103006	
-103009	
-103011	
-
-doric
-103015	
-103017	
-103019	
-103023	
-
-103028	
-
-
-attic/epic/doric/ionic
-
+103013	doric
+103031	attic/epic/doric/ionic
 103034	attic/ionic
-
-
-attic/epic/doric/ionic
-
-
-
-103043	
-
-
+103037	attic/epic/doric/ionic
 103049	epic
-103053	
-103055	
-103057	
-103060	
-
-
-
-103067	
 103072	doric/aeolic
-
-
-
-doric/aeolic
-
-103084	
-103086	
-
-
-epic
-103092	
-attic
-
-103096	
-103099	
+103076	doric/aeolic
+103089	epic
+103093	attic
 103103	doric/aeolic
-103105	
-
-
-
-
-epic/doric
-
-103114	
-103116	
-
-
-
-attic/epic/doric
-103122	
-doric
-
-doric/aeolic
+103110	epic/doric
+103120	attic/epic/doric
+103123	doric
+103125	doric/aeolic
 epic
-
-epic/doric
-103130	
-epic
-103137	
-103140	
-103142	
-
-
-
-
-103148	
-
-
-103152	
-epic
-103157	
-103161	
-
-103164	
-attic
-103167	
-
-
-103171	
-doric/aeolic
+103128	epic/doric
+103131	epic
+103153	epic
+103165	attic
+103172	doric/aeolic
 epic/doric/ionic/aeolic
 103175	doric
 attic/epic
-103178	attic/epic/ionic
-
-epic/doric
+103178	doric
+103180	epic/doric
 103182	epic/doric/aeolic
-
-103185	
-103187	
-
-attic
+103189	attic
 attic/epic/doric
 epic/doric
-
-103194	
-103197	
-attic/epic/doric
-103200	ionic
-epic/doric
-
-
-
+103198	attic/epic/doric
+103201	epic/doric
 103207	epic
-
 103211	epic/doric
-
-103214	
 103216	doric/aeolic
 103218	attic/epic/doric
-103221	
-doric/ionic
-103224	
-
-103228	
-attic/epic/ionic
-103231	
-attic
-
-epic
-103237	
-attic/epic/doric
+103222	doric/ionic
+103229	attic/epic/ionic
+103232	attic
+103234	epic
+103238	attic/epic/doric
 epic/doric
-103243	
-
-103246	
-
 103249	doric/aeolic
-ionic
-doric/ionic
-
-
-doric/aeolic
-
+103251	doric/ionic
+103254	doric/aeolic
+epic
 103257	doric
-
-
-
-103263	
-
-103266	
-103268	
-attic/epic
+103269	attic/epic
 attic/ionic
-103272	doric/laconia
-
-
-
-
-103279	
-103281	
-
-
-103285	
-
-
 103290	attic/epic
 103292	doric/aeolic
-103294	
-
-doric
-
+103296	doric
 103300	attic/epic/doric/ionic
-
-attic
-103307	
-103310	
-103312	
-
-
-
-
-doric/aeolic
-
-
-doric/aeolic
-
-103324	
-
-
-
-
-
-103332	
-103338	
-
-
-
-
-doric/aeolic
-103345	
-
-doric/aeolic
+103302	attic
+103317	doric/aeolic
+103320	doric/aeolic
+103343	doric/aeolic
+103347	doric/aeolic
 doric/aeolic
 attic
 attic/epic/doric
 doric/aeolic
-
-103354	
-attic/ionic
-103357	
-
-doric
-103361	
-
-
-
-
+103355	attic/ionic
+103359	doric
 103367	doric/aeolic
-
-
-attic/epic/doric/ionic
-
-103373	
-attic
+103370	attic/epic/doric/ionic
+103374	attic
 103377	doric
-
-doric/aeolic
-
+103379	doric/aeolic
 103383	epic/doric/ionic/aeolic
-103385	
-
-
-
-
-103391	
-
 103394	attic
-
-attic
-103398	
-doric
-
+103396	attic
+103399	doric
 103405	epic
-
-attic/epic/ionic
-103412	
+103407	attic/epic/ionic
 103414	attic/epic/doric
 103416	attic/epic/doric
-
 103420	doric/aeolic
-103424	epic
-
-103428	
-103430	
-103433	
+103424	doric/aeolic
 103436	epic/ionic/attic/doric
-
-
-103442	
-
-doric/aeolic
-
-103448	
-103450	
-attic
-
-
+103444	doric/aeolic
+103451	attic
 103455	attic/epic
-
-103458	
-103460	
-
+103460	doric/ionic
 103465	epic
-
-103470	
-ionic
-103473	
-103476	
-103478	
-ionic
-103481	
 103485	doric/laconia
-103487	
-103490	
-attic/epic/doric
+103491	attic/epic/doric
 103494	attic/epic
 attic/epic/doric
-
-attic/epic/ionic
-
-
-
-103502	
-103504	
+103499	attic/epic/ionic
 103506	doric/aeolic
-
-103511	
-
-
-attic/epic/ionic
-ionic
-103517	
-
-
-103522	
-doric/aeolic
-
+103514	attic/epic/ionic
+103523	doric/aeolic
 103526	attic/epic/ionic
-ionic
-103530	
-attic
-103533	
-attic/epic/ionic
-
-103538	
-
-
-
-
-103544	
-epic
-
-
-attic
-103550	
-
-
-103555	
-103562	
-103565	
+103531	attic
+103534	attic/epic/ionic
+103545	epic
+103548	epic
 103567	doric
-103570	
-
-ionic
+103572	ionic
 103574	epic
-
-
-
 103579	epic
 epic/doric
-103582	
-
-attic/epic
+103584	attic/epic
 103586	attic
-
-
-103590	ionic
-103592	
-103595	
-epic
+103596	epic
 doric/aeolic
 epic
 epic/doric
-103601	
-
-
-doric/aeolic
-
-103607	
-103609	
-103612	
-
-
-attic/epic
+103604	doric/aeolic
+103615	attic/epic
 103617	attic
-
-
-attic
-
-103623	
-
+103620	attic
 103626	doric/aeolic
-
-103631	
-
-103635	
-doric/aeolic
+103636	doric/aeolic
 doric/aeolic
 epic/doric/ionic/aeolic
 103641	attic/epic
-
-
-attic/epic/doric/ionic
+103644	attic/epic/doric/ionic
 doric/aeolic
-103649	
-103651	
 103654	attic
-
-attic
+103656	attic
 103658	doric
 103662	attic/epic/doric
-103664	
 103666	attic
 attic
-
-attic/epic
-103671	
-
-attic
+103669	attic/epic
+103673	attic
 103675	attic
-
-
-attic
-
-
-attic
+103678	attic
+103681	attic
 103683	epic/doric
 103685	attic/epic/ionic
-103688	
-attic
-
-103692	
+103689	attic
+epic
 103694	attic/epic/doric
 103696	attic/epic/doric/ionic
-
-
-103700	
-
-
-attic
+103703	attic
 103705	doric
 103707	doric/aeolic
-
-
-103711	
-103713	
-attic
-
-103717	
+103714	attic
 103721	attic
-
-
-attic
-
-
-
-
-
-doric
-
-103733	
+103724	attic
+103730	epic
 103735	attic/epic/doric
-
-
-103739	
-
-
-
-103744	
-attic
-103747	
+103745	attic
 103751	epic/ionic/doric/laconia
-
-
-doric
+103754	doric
 attic/epic/ionic
-
-ionic
-doric/aeolic
-
+103758	doric/aeolic
+epic
 attic
-
-ionic
-103764	
 103766	doric/aeolic
 attic
-103769	
-ionic
 103772	doric/aeolic
-103774	
-
-doric/*theocr.
-103778	
-
-attic/epic
-103782	
-103784	
+103776	doric/*theocr.
+103780	attic/epic
 103786	epic
-
+epic
 attic
-103790	
-103793	
-103795	
-103797	
-103799	
-
-doric/*theocr.
-103803	ionic
-
-
-doric
-
+103801	doric/*theocr.
+103806	epic
 103809	attic/ionic
-
-attic
+103811	attic
 103814	attic
-103816	
-
 103819	doric/aeolic
-
-103822	
-
-
-ionic
-doric/aeolic
+103826	doric/aeolic
 attic
-103829	
-
-
-
-
-
-attic/epic
-
-
-
-103840	
-103842	
-
+103835	attic/epic
 103845	attic/epic/ionic
-
-
-
-103852	
-
 103855	attic
-
-
-attic/epic/doric
-
+103858	attic/epic/doric
 103862	attic
-103864	
-ionic
-103868	
-ionic
 103871	doric/aeolic
-
-103875	
-attic/epic
-
-
+103876	attic/epic
 103886	epic/doric/aeolic
 103888	doric/laconia
-103890	
-epic/doric
-
+103891	epic/doric
 103897	attic/epic
-103900	
-attic/epic
-
-103907	
-
-ionic
-epic
-103913	ionic
+103901	attic/epic
+103910	epic
 103916	doric/aeolic
-
-
-103920	
-
+103918	doric/aeolic
 103924	epic/doric
-103926	
-attic/epic
-
-attic
+103927	attic/epic
+103929	attic
 103932	doric/ionic
-103934	ionic
-103938	
-103940	
-
-epic/doric
+103942	epic/doric
 doric/aeolic
-
-
-
-103948	
-
-
 103952	attic
-
-
-attic
-
-
+103955	attic
 103960	doric/aeolic
 epic
 doric
-103964	
-103967	
-attic/ionic
-
+103968	attic/ionic
 103974	ionic
 epic/doric
-ionic
 103979	epic/doric
-
-103982	
-103986	
-
-
-
 103991	doric/aeolic
-103993	
-
-
 103997	attic/epic/doric
-103999	
-104001	
-104005	
-ionic
-
-104010	
 104012	doric/aeolic
 attic
 attic/epic/doric
-104017	
 104019	attic/epic/ionic/doric/aeolic
-
-attic/epic
-
-
-104025	
-
+104021	attic/epic
 104028	attic/epic/ionic
-
-ionic
-
-
+104030	ionic
 104034	attic/epic/doric
-
-attic/epic/ionic
-104039	
-104048	
-
-
-attic/epic
-104053	
+attic/epic/doric
 doric/aeolic
-104056	
-attic/epic
+104051	attic/epic
+104054	doric/aeolic
+104057	attic/epic
 doric
-104060	
-epic/doric
-
-104065	
-104070	
-
-
-
-104078	
+104061	epic/doric
 104081	attic
-
-
-
-attic/epic/ionic
 104088	epic/doric
-104090	
 104096	epic/doric
-
-104099	
-104101	
 104104	attic
 attic
-104107	
-104109	
-104111	
-attic
+104112	attic
 104114	attic
 104116	attic
 104118	attic/epic/doric
-
-104121	
-104123	
-
-104129	
-
-
 104133	epic
-104136	
-
-
-104143	
-
-104146	
 104148	attic/ionic
 doric
-
-104152	
-104154	
-104158	
-
-
-
+104158	doric/ionic
+104161	epic
 104164	doric/ionic
-
 104167	attic/ionic/epic/doric
-
-104171	
-
 104175	epic/doric
 attic/epic
-
-104179	
-104182	
-104185	
 104187	attic/epic/doric
-
-
-attic
-
-doric
-
+104190	attic
+104192	doric
 104195	attic/epic/doric/ionic
-104199	
-
-104202	
-
-
-104207	
-
-
-attic
-
-104214	
-104216	
-104220	
-
-epic/doric
-
-104226	
-
-epic
-
-
-
-attic/ionic/doric
-
-104238	
-
-attic
-
-104243	
-104246	
-104248	
-
-
-
-104253	
-
-
-104257	
-doric/aeolic
-
-
-
-
-
-
+104210	attic
+104216	epic
+104222	epic/doric
+104228	epic
+104232	attic/ionic/doric
+104240	attic
+104258	doric/aeolic
 104266	attic/epic/ionic
-
-
-
-104271	
-
-attic/epic
-
-
-104277	
-104280	
-attic
-104284	
-
-104288	
-104290	
-104294	
-attic/epic
-104299	
-
-attic
-104303	
-
+104273	attic/epic
+104281	attic
+104295	attic/epic
+104301	attic
 104306	doric/aeolic
-104309	
-attic/epic
-
-attic
-
-104317	
-doric/aeolic
-
-
-
-
-
-epic
-104327	
-attic
-104330	
+104310	attic/epic
+104312	attic
+104318	doric/aeolic
+104324	epic
+104328	attic
 104332	doric/aeolic
-
-
-
-
-104338	
-
-104341	
 104343	attic/epic/ionic
-
-104347	
-
-
-ionic
-
-
 104354	attic/epic/doric
 epic/doric
 104357	doric
-104360	
 104363	attic/epic
-
-
+104365	epic
 attic
-
-
 104370	doric/aeolic
-
-
 104376	epic/doric
 doric
 104379	doric/aeolic
 104381	epic/doric
-104384	
-104386	
-
-104390	
-104392	
-104398	
-104401	
-
 104404	ionic
 doric/aeolic
-
-104408	
-
-104411	
-attic
-
-
-
-attic/epic
-104418	
-
-104421	
-104424	
-
-attic
-
-104429	doric
-
-attic/epic
-
-ionic
-104435	
-
-
-
+104412	attic
+104416	attic/epic
+104426	attic
+104429	attic/epic/ionic
+104431	attic/epic
 104442	attic/epic
-ionic
-
-attic
-
-
-104450	
-attic/epic/doric
-104453	
-
-attic
-
-attic
-
-epic/doric
-
-104462	
+104445	attic
+104451	attic/epic/doric
+104455	attic
+104457	attic
+104459	epic/doric
 104466	doric/aeolic
-104468	
-attic
-
-104474	ionic
-epic/doric
-
-
-104485	
-104488	
-
-104491	
+104469	attic
+104475	epic/doric
 104493	epic
-
-
-attic/epic
-
-attic
-
-
-104503	
-104506	
-
-
-
+104496	attic/epic
+104498	attic
 104513	attic/epic/doric
-104515	
 104517	epic
-
-104521	
-doric/aeolic
-104529	
-
-
+104522	doric/aeolic
+104532	attic
+epic
 attic
-
-attic
-104536	
-epic/doric/aeolic
-104539	
-104541	
-104543	
-attic
-
-104549	
+104537	epic/doric/aeolic
+104541	ionic/doric/aeolic
+104544	attic
 104551	doric/aeolic
-104554	
-
-attic/epic
-104559	
-104561	
-104568	
-
-attic
-
-104573	
-
-
-
-attic
+104556	attic/epic
+104570	attic
+104577	attic
 104579	attic
-104581	
-
-104584	
-attic/epic
-
-attic/epic
-
-
-104591	
+104585	attic/epic
+104587	attic/epic
 104598	epic
-
 104601	attic/epic/doric
-
-104604	
-
-104607	
-attic
-
-
-104612	
+epic
+104608	attic
 104615	attic/ionic/epic/doric
-
+104617	attic/epic
+104619	attic
 attic/epic
-
-attic
-attic/epic
-
-
-
-104625	
 104627	doric/aeolic
-104630	
-attic/ionic
-
-104635	
-104638	
-104640	
-104643	
-
-epic/doric
-104648	
-epic/doric
-104651	
-
-
-
-
-104659	
-
-doric
-
-
-
-104666	
-attic/epic/ionic
-104669	
-
-doric
-
-104674	
+104631	attic/ionic
+epic
+104645	epic/doric
+104649	epic/doric
+104661	attic/epic/ionic
+104667	attic/epic/ionic
+104671	doric
 104676	doric/aeolic
-
-attic/ionic
-
-
+104678	attic/ionic
+104680	epic
 attic
-104683	
-ionic
-104686	
-104688	
-104690	
-
-104694	
-104696	
-epic/doric
-
-doric
+104691	epic
+104697	epic/doric
+104699	doric
 doric/aeolic
-104703	
-doric
-104706	
-attic/epic/ionic
+104704	doric
 104709	attic/epic/doric
-
-104712	
-104720	
+104720	doric
 104722	doric
 104725	doric/ionic
 attic
-
-
-
-ionic
-
 104734	attic
-
-attic/epic
-104739	
-
-
-attic
-
-attic/epic/doric
-
-attic/epic/doric
-
+104736	attic/epic
+104742	attic
+104744	attic/epic/doric
+104746	attic/epic/doric
 104751	attic/epic
-
-attic
-
-
-
-
-
-
-104761	
-
-attic
-ionic
-
+104753	attic
+104763	attic
+104765	attic/epic/ionic
 doric/aeolic
 doric/aeolic
 attic
-104770	
 104772	attic/epic/ionic
 attic/epic/doric
 104775	epic/doric
 attic/epic/doric
-
-
-
-
-doric
-
+104781	doric
 104785	doric/*theocr.
-
-
-attic/epic/ionic
-104792	
-
-104795	
-
-doric
+104788	doric/aeolic
+104797	doric
 104802	attic
-104804	
-attic/epic
+104805	attic/epic
 104808	doric
 epic
 104812	epic
-104816	
-
 104822	epic/doric
-
-
-epic
+104825	epic
 epic/doric/ionic/aeolic
 epic
-104829	
-104834	
-
-104838	
-104841	
-attic/epic/ionic
-104846	
-104848	
-104850	
+104838	epic
 104854	ionic
 attic
-
-104858	
-epic
-ionic
+104859	epic
 104862	epic/doric
 doric/aeolic
-104871	
-104873	
-
-
-104878	ionic
-
-
-doric/aeolic
+104881	doric/aeolic
 104883	attic/epic/ionic
-
-epic
-104889	
-epic
-
-104893	
-
-
-
-
-
+104885	epic
+104890	epic
+attic/epic/doric
 104907	epic/doric/aeolic
 104910	epic/doric/aeolic
-104919	
-
-ionic
-epic
-
-ionic
-epic/doric
+104922	epic
+104925	epic/doric
 attic
 104928	attic
-
-
-attic/ionic
-
-104934	ionic
+104931	attic/ionic
 104942	attic
-
-attic
-
-ionic
-epic
-
-ionic
-104951	
-attic
+104944	attic
+104947	epic
+104952	attic
 104954	attic
-
-
-104960	
-104966	
-
-
-104970	
-
-
-
 104976	doric/aeolic
-104978	
-104981	
-doric
-104984	ionic
-104986	
-
-104990	
-104992	
-
-
-
+104982	doric
 104998	attic/epic/doric
-105000	
-
-attic/epic/ionic
-
-105005	
+105001	epic
+doric/aeolic
 105007	doric/aeolic
-
-105010	
 105014	epic
 attic
-105018	ionic
-epic/doric
-
-
-doric
-105025	
+105019	epic/doric
+105022	doric
 105027	epic
-
-
 105031	epic/doric
 attic/epic/doric
-105035	
-doric/aeolic
+105036	doric/aeolic
 attic/epic/doric/ionic
-
 105040	attic
 epic/doric/ionic
-
-
-
-
 105049	attic/epic/ionic
 attic
-
-
+105052	epic
 105054	doric/aeolic
 105056	doric
-
-
-
+105059	epic
 105061	epic
 105063	ionic
-
-105069	
-
-ionic
-doric/aeolic
-
-attic/epic/ionic
-
-
-105079	
-105083	
-
-105089	
-
+105072	doric/aeolic
+105074	doric/aeolic
 105094	epic/doric/aeolic
-
-attic/epic
+105096	attic/epic
 attic
-
-epic/doric
-
+105099	epic/doric
 105102	doric/aeolic
 doric/ionic
-105105	
-105108	
-
-doric/aeolic
+105110	doric/aeolic
 doric/aeolic
 105113	ionic/doric/aeolic
-
 105116	attic/epic
 105118	attic
 epic/doric/ionic
 epic/doric
-105124	
-105127	
-
-
-
 105135	epic/doric/aeolic
-105140	
-epic/doric/aeolic
-105143	
-attic
-doric/laconia
-
-
-105149	
-doric/aeolic
-
-105153	
-
-
-105157	
-105159	
+105141	epic/doric/aeolic
+105144	attic
+105150	doric/aeolic
 105161	epic/doric
-105163	
 105165	attic/epic
-105167	
-
-105171	
 105173	attic/epic/ionic
 105176	epic
-105179	
-
-
 105183	attic/epic
 doric/aeolic
 doric
-105189	
-attic
+105190	attic
 105192	epic/doric
-
-
-doric/aeolic
-
-
+105195	doric/aeolic
 105200	epic/doric
-105202	
-
-
-
 105207	attic/epic/doric/ionic
-105209	
-
-105214	
-attic
-
-
-105220	ionic
-doric
-105223	doric
-
-105226	
+105215	attic
+105221	doric
+105223	attic/epic/ionic
 105228	doric
-105232	
-
 105235	epic/doric
-
-doric
-
-ionic
-105241	ionic
-105245	
-
-105249	
-105251	
-
-
-doric
+105237	epic
+105239	ionic
+105254	doric
 ionic
 105257	doric/aeolic
 attic
-
-
-105262	
 105264	attic/epic
-
-doric
-105269	
-
-attic/ionic/epic/doric
+105266	doric
+105271	attic/ionic/epic/doric
 epic/doric
-105276	
-
-doric/aeolic
+105278	doric/aeolic
 105280	doric/aeolic
 attic/epic
-
-ionic
-105285	
-
-105289	
-doric
-
-
-105295	
-doric
-105298	
-attic/epic/doric
-105303	
-
-
-
-
-
-doric/aeolic
-
-
-105314	
-105316	
-105319	
-105321	
-doric
-
-105326	
-
-doric/aeolic
-
-
-
-attic
-
-105335	
+105290	attic/epic/ionic
+105296	doric
+105299	attic/epic/doric
+105309	doric/aeolic
+105322	doric
+105328	doric/aeolic
+105332	attic
 105337	epic/doric
-105339	
-epic/ionic/attic/doric
-
-
-105345	
-doric
+105340	epic/ionic/attic/doric
+epic
+105346	doric
 attic
-
-
-105351	
-105353	
-
 105356	ionic
-105358	
-
-105361	
-
 105365	attic
-
-
-
 105370	attic
 attic/epic
-
-105374	
+105375	attic
 attic
-attic
-
-doric
+105378	epic
 105383	epic/doric/aeolic
-105385	
-105387	
-attic/epic
-
-105391	
-
+105388	attic/epic
 105396	attic/epic/doric
 attic
-
-
-105402	
-
-105405	
-ionic
-105408	
-
+105406	ionic
 105412	attic/epic
-
-105415	
-
-
+105418	attic
 attic
-attic
-105421	
-105424	
-attic
-105428	
-
-
+105425	attic
 105433	doric
-
-
-
-105438	
-
-
-
-
-105444	doric
-
-attic/epic
-
-
-105451	
-
-105455	
-
-
-doric/aeolic
-
+105446	attic/epic
+105458	doric/aeolic
+105460	epic
 epic
-
-105463	
-ionic
+105464	ionic
 105466	doric/aeolic
-
-
 105470	doric/aeolic
 attic
-
-105474	
-
-
-
-105480	
-doric/aeolic
-
-
-105486	
+105481	doric/aeolic
 105489	attic/epic/doric
-105491	
-105496	
-ionic
+105497	ionic
 epic/doric
 attic/epic
-
-105503	
-105505	
 105507	attic
-
-
-attic
-
-attic/epic
-
-105515	
-
-
-
-105520	
-
-105524	
-attic/epic/ionic
-
-attic/epic
-
-
-105535	
-105537	
-
-105541	
+105510	attic
+105512	attic/epic
+105525	attic/epic/ionic
+105527	attic/epic
 105544	attic
 105546	doric/aeolic
-
-
-
-
-attic/epic
-
-105555	
+105551	attic/epic
 105558	attic/epic/ionic
-
-105561	
-105563	
-doric/aeolic
-105568	
-
-attic/ionic/epic/doric
+105564	doric/aeolic
+105570	attic/ionic/epic/doric
 105572	doric/aeolic
-105576	
-105578	
-105580	
-
-attic/epic
+105582	attic/epic
 105584	attic
-105586	
-105588	
-
-105591	
-
 105594	doric/aeolic
-
-doric
-
-
-105600	
-
-
-
-105605	
-105607	
+105596	doric
 105611	epic
-105613	
 105615	doric
 doric/aeolic
-
-105619	
-
-
-105623	
-epic/ionic/attic/doric
-105626	
-105629	
-105632	
-105634	
-
+105624	epic/ionic/attic/doric
 105637	doric/aeolic
-
-105640	
-105644	
-
 105647	doric/aeolic
-
-doric/aeolic
+105649	doric/aeolic
 105651	attic
-105653	
-105656	
 105664	attic/ionic
-105668	
-105671	
-105673	ionic
-
 105681	attic/epic/doric
-105683	
-ionic
-
-105687	ionic
 105689	doric/aeolic
-
-105693	
-105695	
-105698	
 105701	doric/aeolic
-
-105704	
-105707	
-doric/aeolic
+105708	doric/aeolic
 105710	epic
-
-105713	
 105715	epic/ionic/doric
 epic/doric
-
-
-105722	
-doric/aeolic
-105726	
-105732	
-attic/epic/ionic
-
-
-
-105738	
-doric/aeolic
-105741	
-105743	
+105723	doric/aeolic
+105733	attic/epic/ionic
+105739	doric/aeolic
 105745	attic/epic/ionic
-epic/doric/ionic/aeolic
-
-
-
-
-
 105753	epic/doric
 doric/aeolic
-
-
-
-
-105760	
-
-
-
-
-105766	
-
-
-
-attic
-105772	
-
+105770	attic
 105776	ionic
 epic/doric
-
-attic/epic
-
-
-105784	
-105787	
-
-
-
-105792	
-attic
-
-
-
+105779	attic/epic
+105793	attic
 105798	ionic/doric/aeolic
-105800	
-attic/epic
-
-105804	
-105807	
+105801	attic/epic
 105809	doric/aeolic
-
-
-
 105814	epic
-
-
-
-
-
-
-epic/doric/ionic/aeolic
-
-
-
-
-
 105831	epic/doric
-105833	
-105835	
 105837	epic/doric
-
-
-105841	
-
-105845	
-105848	
-attic
-105851	
-
-
-105855	
-attic/epic
-
-105860	
-
+105849	attic
+105856	attic/epic
 105863	doric/aeolic
 attic
-
 105869	epic/doric
 105872	doric/aeolic
 doric/aeolic
 attic
 attic
-
-
 105879	attic
-
-attic/epic/ionic
-105883	
-105885	
-doric/aeolic
+105881	attic/epic/ionic
+105886	doric/aeolic
 105888	doric/aeolic
 doric/aeolic
 105891	doric/aeolic
 doric/aeolic
 105896	attic
-
-105900	
-
-105903	
-
 105906	attic/epic/doric
-
-105909	
+epic
 105911	doric/aeolic
 attic
-
-
-attic
-105917	
-
-
-
-doric/aeolic
-105923	
-attic
-105926	
-105930	
-epic/doric
-
-epic/doric/aeolic
+105915	attic
+105921	doric/aeolic
+105924	attic
+105931	epic/doric
+105933	epic/doric/aeolic
 105941	attic/ionic
-105944	
-
-attic
+105946	attic
 105949	doric
-
-attic/epic/ionic
-105957	
-105960	
-
-doric/aeolic
+105962	doric/aeolic
 attic
-
-
-
-
 105970	doric
 attic
-105973	
 105976	doric/aeolic
 attic
-105979	
-105982	
-
-attic/epic/ionic
-105989	
-105991	
-
-105995	ionic
-105998	
-doric
+105983	epic
+doric/aeolic
+105999	epic
 attic/ionic
 106002	attic/ionic
-
-106005	
-
-106008	
-
-
-106014	
-attic/ionic
+106015	attic/ionic
 attic
-106018	
-
-
-
 106024	attic
-106026	
-
-
-
-attic/ionic
-
-
-
-106035	
-attic/epic
-106038	
-
-106041	
-106044	
-106046	
-
-
-
-
-doric
-
-
-106057	
-106059	
-
-
-doric/aeolic
+106030	attic/ionic
+106036	attic/epic
+106051	doric
+106062	doric/aeolic
 106064	epic/doric
-ionic
-106068	
-
-
-
-
-106074	
-doric/aeolic
+106075	doric/aeolic
 ionic/doric/aeolic
 epic/doric
 attic/epic/ionic
 106082	doric
-
-106085	
-
-106089	
-attic
-
-
-106094	
-106096	
-
-106099	
-
-106102	
-
-
-106108	
-
-attic
-attic/epic/ionic
+106090	attic
+106110	attic
 106113	attic/epic/doric
-
-
-attic
+106116	attic
 106118	attic/epic/doric/ionic
-
-
-
-
 106124	epic/ionic/attic/doric
 106126	doric
 106128	doric/aeolic
-
-
-106132	
-106134	
-attic
-
-attic/epic/doric
+106135	attic
+106137	attic/epic/doric
 attic/epic
-
-
-
-doric
-
-
-epic/doric
-106147	
-doric
+106142	epic
+106145	epic/doric
+106148	epic
 attic/ionic
-
-
 106153	epic/doric
-
-
 106157	doric/aeolic
-
-
-
-
-epic/doric
-ionic
+106162	epic/doric
 106165	doric/laconia
-
 106168	attic/epic/ionic
-
 106171	attic
-106176	
-
-106179	
-doric
+106180	doric
 epic
-
-
-106185	
-
-attic
-106190	
-
-106194	
+106187	attic
 106196	epic/doric
-
-106201	
-
-ionic
-epic/doric
 epic
-
-106208	
-
-106211	
-
-
+106203	ionic
+epic/doric
+doric/aeolic
+doric
 106215	attic/ionic
 attic
-106219	
-106221	
 106223	epic/doric
-106225	
-106227	
-
-106230	
-attic/epic/doric
+106231	attic/epic/doric
 106233	epic/doric
-
-106236	
-attic
-106241	
-
-doric
+106237	attic
+106243	doric
 epic/doric
-106246	
-106248	
-epic
-
+106249	epic
+106251	attic/ionic
+106253	epic
 attic/ionic
-106253	doric
-attic/ionic
-ionic
 106258	epic/doric
-
-
-
-
-
-106265	
-ionic
-doric
-
-106270	
-106273	
+106267	doric
+106273	epic
 attic
-
-ionic
-doric/aeolic
-106280	
+106277	doric/aeolic
 106283	epic/doric
-106286	
-
-106289	
-
-ionic
-
-attic
+106293	attic
 106295	ionic/epic/doric/aeolic
 106298	doric
-
-
-
-
-106304	
-
-attic/epic
-106311	attic/epic/ionic
+106306	attic/epic
 106314	doric
-
-
-
-
-106321	
-
-
+106323	doric
 doric
-
+doric
 106328	attic
-
 106331	doric
-106334	
+106334	epic
 106338	doric
 106342	doric/aeolic
-106344	
-epic
-
-106348	
-doric
-106351	
-ionic
-doric/aeolic
+106345	epic
+106349	doric
+106353	doric/aeolic
 attic
-106357	
-106359	
-
-106362	
-epic
-
-
-106370	
-
-
-106374	
-
-106377	
-
-attic/ionic
-
-epic/doric/aeolic
-
-106385	
-
-
-doric/aeolic
-106390	
-doric/aeolic
-106393	
+106363	epic
+106365	doric
+106379	attic/ionic
+106381	epic/doric/aeolic
+106388	doric/aeolic
+106391	doric/aeolic
 106396	epic
-ionic
-doric/aeolic
-
+106398	doric/aeolic
+epic
 106401	epic/doric
-106404	
-attic
+106405	attic
 106407	attic
-
-
 106411	doric/aeolic
-106414	
-
-
-106420	
-doric
-
-
-106428	
-
-attic/epic
-106432	
-
-
+106421	epic
+106430	attic/epic
+106434	epic
 attic/epic/ionic
-
-
+106437	epic
 epic/ionic/attic
-
 106442	epic/doric
-
-106448	
 106451	epic/doric
-
-
-106456	
-attic/epic/doric
-106459	
-prose/epic
-
-
-106465	
-
+106457	attic/epic/doric
+106460	prose/epic
 106469	doric/aeolic
-
-ionic
-106473	
-106475	
-
-106480	
-attic/epic
+106481	attic/epic
 106484	attic/epic/doric
-
-
-
 106489	epic/doric
 106493	doric/aeolic
-
-
-106497	
-attic/epic/ionic
-doric
-ionic
+106499	doric
 106502	epic/doric
-
 106505	doric/aeolic
-106508	
 106511	epic/doric
 epic
-
-
-attic
-
-
-
+106515	attic
+106518	epic
 106520	doric
-
 106524	epic/doric
-
-doric
+106526	doric
 attic
 106529	attic
-
-
-
-
 106536	attic/epic/doric
 epic/doric
-
-106540	
-
-
-epic/doric
-
-
-
-106550	
-attic/epic/doric
-
-attic/ionic
+106543	epic/doric
+106551	attic/epic/doric
+106553	attic/ionic
 attic
-106557	
-106559	
-106561	
-
-
-106566	
-epic/doric/ionic/aeolic
-
-epic/doric
-106571	
-106574	
-
-
-doric
-
-106580	
-
-
-
-106585	ionic
+106567	epic/doric/ionic/aeolic
+106569	epic/doric
+106577	doric
 106588	doric/aeolic
-106591	
-
-106596	
-106598	
-epic
-
-
-106604	
-
-
-
-
+106599	epic
 106610	epic/doric/ionic/aeolic
-
-
-
-
-doric/laconia
+106615	doric/laconia
 doric
-
-
-
-106621	
-
-106626	
-
 106629	doric/aeolic
-
 106633	doric/aeolic
 106636	doric/ionic
-106638	
 106640	epic
 106644	doric/aeolic
-106646	
+106647	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-106654	
-
-
-
 106659	attic/epic/doric
 doric/aeolic
-106662	
-
-106666	
-
-doric
-
-106671	
-
-attic
-106675	
-doric
-
-
-
+106668	doric
+106673	attic
+106676	doric
 106681	doric
 106684	epic
-
-doric/aeolic
+106686	doric/aeolic
 106689	doric/ionic
-
-
-
-106694	
-106699	
-106704	
-
+106706	epic/ionic/attic
 epic/ionic/attic
-epic/ionic/attic
-106709	
-106712	
-106715	
-106717	
-
 106720	doric/aeolic
-106722	
-
-doric/aeolic
-
-
-attic/epic
+106724	doric/aeolic
+106727	attic/epic
 106729	attic
-
-106732	
-attic/epic/doric
+106733	attic/epic/doric
 106735	attic/epic/doric
-106739	doric
+106739	attic/epic/ionic
 ionic/doric/aeolic
-
-
-
-106745	
-ionic
-doric/aeolic
-
-106752	
-106756	
-
-
-
-
-
-
-doric/aeolic
-106766	
-
-
-
-
-
+106747	doric/aeolic
+106763	doric/aeolic
+106772	attic
+106777	doric/aeolic
 attic
-106774	
-106776	
-doric/aeolic
-attic
-106782	
-attic/epic/doric
-
-doric
+106783	attic/epic/doric
+106785	doric
 106791	attic/epic/doric
-
-106794	
-
-
-106801	
-106805	
-106807	
-
-
-
-
 106813	attic/epic/ionic
-
-106816	
-
-106819	
 106822	attic/epic/ionic
-106824	ionic
-106826	
-ionic
-doric
-
-
-
-ionic
-
-
-ionic
-ionic
-
+106828	doric
 106839	doric/aeolic
-
-106843	
-
-
-106847	
 106850	epic/doric
-
-106853	
-attic/epic/ionic
-doric
-106861	
-106863	
-106865	
-106867	
-
-attic
-106871	
-
-doric
-
-
-attic/epic/doric
-106878	
-
-epic/doric
-
-106883	
-
-106886	doric/aeolic
-
-
-epic/doric
+106855	doric
+106869	attic
+106873	doric
+106876	attic/epic/doric
+106880	epic/doric
+106886	doric
+106889	epic/doric
 attic/ionic
-
-106894	
-
-epic
-
-
-
-attic
-106904	
-ionic
-
-
-
-106910	
-
-106913	ionic
+106896	epic
+106900	attic
+106905	ionic
 106915	doric/laconia
-106919	
-
-
-
-106924	
-
-
-doric
-106930	
-
-
-106935	
-106937	
+106922	attic
+106927	doric/aeolic
 106939	doric
-
 106944	epic
-106947	
-epic/doric
-106954	
-
-
+106948	epic/doric
 106958	epic/doric
 106960	attic/epic/doric
 epic/doric/aeolic
 106963	epic/doric
-106968	
-attic/epic/ionic/doric
+106969	attic/epic/ionic/doric
 106972	attic/epic/ionic/doric
 doric/laconia
-
-doric/aeolic
-
+106975	doric/aeolic
 106978	attic/ionic/epic/doric
-106980	
-106983	
-doric/aeolic
-106986	
-
-
-epic/doric
-
-epic/doric
+106984	doric/aeolic
+106989	epic/doric
+106991	epic/doric
 attic/epic/ionic
-
-106995	doric/aeolic
-106997	
-107001	
-
-107004	
-
-107008	
-
-
-attic/epic/ionic
-
-107016	doric
-
-
-
-107021	epic
-
-
-epic/ionic/attic
-107027	
-
-
-
-107032	epic/doric
-107037	
-107039	
-107041	
-
-
-
-
-
-107048	doric
-
-107051	
-
 doric
-107055	
-
+106995	doric/aeolic
+107011	doric/aeolic
+107016	doric
+107019	epic
+107021	epic
+107024	epic/ionic/attic
+107032	epic/doric
+107048	doric
+107053	doric
 107058	attic/doric
-
 107061	doric
 epic/doric/aeolic
-
 107065	doric/ionic
-107069	
-
-
-107073	
-107077	
-
-attic
-107081	
-
-
+107079	attic
 107086	attic/epic/doric
-
-epic
-107090	
-
-
-
-attic/epic
-107097	
-
-attic/epic/doric
-
-epic/ionic
-107103	
+107088	epic
+107094	attic/epic
+107099	attic/epic/doric
+107101	epic/ionic
 107106	doric
-107109	
-attic/epic/doric
-
-
-107114	
-
+107110	attic/epic/doric
 107118	doric/aeolic
-
-107122	
-
 107126	doric/aeolic
 107128	epic/doric/aeolic
 107130	doric/aeolic
-
-
-
-107135	
+107133	epic
+107136	doric/aeolic
 doric/aeolic
-doric/aeolic
-107143	
-doric/aeolic
-107146	
-107148	
-107151	
+107144	doric/aeolic
+107146	epic
+107152	attic
 attic
+107160	epic/doric/aeolic
+107166	doric
+107173	epic/doric
+107178	doric/aeolic
+107180	epic
+107189	attic/ionic
 attic
-
-
-107157	
-
-
-epic/doric/aeolic
-107164	
-
-doric
-107169	
-
-
-
-epic/doric
-107176	
-
-doric/aeolic
-107180	
-107182	
-107184	
-
-107187	
-
-attic/ionic
-attic
-107198	
 107200	doric/aeolic
-107202	
 107204	attic/epic
-
-
-
-
-attic/doric/ionic/aeolic
-ionic
+107209	attic/doric/ionic/aeolic
 107212	attic/epic/ionic
-107214	
-
-
-
-doric/aeolic
-
-
-doric/aeolic
-107223	
-107225	
+107218	attic/epic/doric
+107221	attic/epic/doric
 107227	attic/epic/doric
-107232	
-
-attic
+107234	attic
 107236	attic/epic/doric
-
 107241	epic
-107243	
-107245	doric
-107249	
-107251	
-107253	
-ionic
-107258	
 107260	attic
-
-
-
-attic
-107267	
-107271	
-
-
+107264	attic
+107273	doric
 attic/epic
-107277	
 107279	doric
-
-
-ionic
-
-
-attic/epic
-
+107285	attic/epic
 107288	doric/aeolic
-
-ionic
+107290	ionic
 107293	epic/ionic
 107296	attic/epic/doric
-107298	
-
-
 107303	attic/epic/doric
-107306	
-doric
+107307	doric
 107311	doric/attic/epic
-
 107315	attic
-
-attic
-
-
-107322	
-
-
-107326	
-
-107329	
-
-
-
-
-
-
-
-107339	
-107343	
-
-
-
-
-107349	
-
-
-107353	
-107355	
-107360	
-
-attic/epic
+107317	attic
+107362	attic/epic
 107365	doric/aeolic
-
-
 107369	doric/aeolic
 attic
-107374	
-
-
-
-107380	
-107384	
-107387	
-107389	
-
-
 107393	doric/aeolic
 attic/epic/doric
 107397	attic/epic/doric
-107401	
-
-epic
+107403	epic
 epic/ionic/attic/doric
-107406	
 107409	attic/epic/doric
-107412	
-attic/epic
-107417	
-107421	
-
-
-
-
-
-107428	
+107413	attic/epic
 107430	attic/epic/ionic
-
-
-
 107436	attic/epic/ionic
-
-107439	
-epic/doric
-107442	attic/epic/ionic
-107444	
-
-107448	
-107450	
-107452	
-
-107455	
-attic/ionic
-
-
-
+107440	epic/doric
+107456	attic/ionic
 107461	epic/doric
-107465	
-107467	
-doric/aeolic
+107468	doric/aeolic
 attic
-
-
-attic/epic/doric/ionic
-
-attic/epic/doric
-
-doric/aeolic
+107472	attic/epic/doric/ionic
+107474	attic/epic/doric
+107476	doric/aeolic
 ionic/doric/aeolic
 epic/doric
-107480	
 107482	epic/doric
-
-
-attic
-107487	
-107489	
+107485	attic
 107491	doric/aeolic
-
-
-
-
-
-
-
-doric/aeolic
-
-107502	
-
-doric
-107506	
-
-107509	
-
-
+107499	doric/aeolic
+107504	doric
 107519	epic
-
-
-
-
-107525	
 107528	doric
 107531	epic/doric
 epic/doric/aeolic
-107534	
-
-
-
-doric/aeolic
-
-107542	
-
-107551	
-
-107554	
-
-attic/epic/doric
-107558	
-
-107561	
-doric/aeolic
+107536	doric
+107538	attic/epic/doric
+107556	attic/epic/doric
+107562	doric/aeolic
 107564	doric/aeolic
 107567	doric/aeolic
 107569	attic/epic
-
-107573	
-attic/epic/ionic
-
 107579	doric/aeolic
 107581	attic/epic
-107584	
-
-
-attic/epic
-
-107590	
-attic/epic/ionic
+107587	attic/epic
+107591	doric
 attic/ionic
-107594	
-
-attic/ionic
-
+107596	attic/ionic
 107601	doric/laconia
-
-
-
-attic
-107607	
-
-
-
-
-107613	
-107615	ionic
-107620	
-
-107623	
-
-107626	
-epic/ionic
-107632	ionic
+107605	attic
+107627	epic/ionic
 107634	doric/aeolic
-107636	
-
-
+107639	attic/epic/doric
+107642	doric/aeolic
 attic/epic/doric
-107641	
-doric/aeolic
-attic/epic/doric
-107645	
-107647	
-ionic
 107650	epic/doric
-
-107653	
-107655	
 107657	ionic
-
-
-
 107662	epic/doric
-107664	
-doric/aeolic
+107665	doric/aeolic
 attic/epic/ionic
-
-attic/epic
-
-
-107673	
-
-
+107668	attic/epic
+107675	attic/epic/ionic
 doric/aeolic
 epic/doric
-
-107680	
-
-
-epic
-
-
-attic
+107683	epic
+107686	attic
 attic/epic
-107689	
-107691	
-
-
-
-ionic
-107698	
 107700	attic/epic/ionic
-
-
-
-
-
-attic
+107706	attic
 107708	epic/doric
-
-
-
 107714	epic/doric
-107716	
-attic/epic/doric
-107720	
-
-107724	
-attic
+107717	attic/epic/doric
+107725	attic
 107727	attic
-
-attic
-
-
-attic
+107729	attic
+107732	attic
 107734	epic/doric
-107737	
-attic
-
-107741	
-107744	
-107747	
+107738	attic
+epic
 107749	attic/epic/doric
-107751	
-107753	
-
 107756	doric
 107758	doric/aeolic
-
-
-107762	
-attic/epic/doric
+107763	attic/epic/doric
 attic/epic
-
-
-attic
-
-
-attic
-
-107773	
-epic/doric
+107767	attic
+107770	attic
+107774	epic/doric
 107779	epic/doric
-
-
-attic
+107782	attic
 107785	doric/ionic
-107787	
-ionic
-107792	
+107792	epic
 107796	attic/epic/ionic
 doric
-
-107800	
-107803	
-attic/epic
-
+107804	attic/epic
 107807	epic/doric/aeolic
 attic
 107810	attic
-107812	ionic
-epic/doric
-107816	
+107813	epic/doric
 107818	attic/epic
 107821	attic/epic/doric
-107823	
-107826	
-doric
+107827	doric
 107829	doric/*theocr.
-
-107835	
+107836	attic
+107839	epic/doric/aeolic
+107843	doric/aeolic
 attic
-
-
-epic/doric/aeolic
-107842	
-doric/aeolic
-attic
-107846	
-
-107850	
-
-epic/doric
+107852	epic/doric
 107854	attic
-
-
-107858	
-attic
+107859	attic
 107861	epic/doric
 doric/ionic
-
-107865	
+107865	doric/aeolic
 107870	doric/*theocr.
-
-107873	
-
-
-epic/doric
-107880	
-
-107883	
-attic
-107886	
-
-doric
-
+107876	epic/doric
+107884	attic
+107888	epic
 107891	attic/ionic
-107893	
-doric
+107894	doric
 attic
-
-ionic
-
+107898	attic/epic/ionic
 doric/aeolic
-
-107907	
-attic/ionic
+107908	attic/ionic
 attic
-
-
-doric
+107912	epic
 attic/ionic
-107915	
-107917	
 107919	doric/aeolic
-
-ionic
-
+107922	attic/epic/ionic
 107925	doric/aeolic
-
-
 107929	attic/epic
-
-attic/epic
+107931	attic/epic
 107933	epic/doric
-ionic
 107937	attic
-
-
-
-
-attic/epic
+107942	attic/epic
 attic
-107945	
-
-
-107949	
-attic
-
-107954	ionic
+107950	attic
 107956	doric/aeolic
 attic
-
 107960	doric
-
-
-107964	
 107966	epic
-107969	
-
 107973	ionic
 attic
-
-attic
-107978	
-attic/epic/ionic
-107981	
-
-
-
-
-
-
-107989	
-107991	
+107976	attic
+107979	doric/aeolic
 107993	attic/epic/ionic
-
-
-107997	
-107999	
-108001	
-108003	
-doric/aeolic
-
-doric/aeolic
-
-
-108010	
-108012	ionic
-108021	
-
-
-
-epic/doric/aeolic
-108029	
+108004	doric/aeolic
+108006	doric/aeolic
+108025	epic/doric/aeolic
 108031	attic
-108034	
-108038	
-
-
-
-
-doric/aeolic
-
-attic/epic/ionic
-108048	
-
-
-epic/doric
-
-108055	
-108058	
-
-
-
-ionic
-108064	
-
+108043	doric/aeolic
+108051	epic/doric
+108065	epic
 attic
 108068	attic
-
-
-108072	
-
-
-
 108077	attic/epic/ionic
-
-
-
-108082	
 108084	epic/doric
-
-108090	
-
-
-108096	
 108099	attic/epic/ionic/doric
-
-attic/epic
-108105	
-
+108101	attic/epic
+108106	epic
 attic
 epic/ionic/attic
-
-epic/doric
+108110	epic/doric
 108116	epic/ionic/doric/laconia
-
-
-108120	
-
-attic/ionic
-108125	
-108127	
-attic/epic/doric
-
+108122	attic/ionic
+108128	attic/epic/doric
 108132	attic
-108134	
 108136	attic
-108138	
-doric
+108139	epic
 attic/ionic
-
-
-108145	
 108147	attic/epic/doric
-108151	
-
-108155	
-epic/doric
-108158	
-
-108161	
-doric
+108156	epic/doric
+108162	doric
 attic
-
-
-
-
-
-
-attic
-108172	
-
-108175	
-
-doric/*theocr.
+108170	attic
+108177	doric/*theocr.
 108179	attic/epic/doric
-108181	
 108183	doric/aeolic
 attic
-
 108187	doric/aeolic
-108189	ionic
-epic/doric
-
+108190	epic/doric
 108194	attic
-
-108199	
-
-
-108204	
-
-epic/ionic
+108206	epic/ionic
 108211	attic/epic/doric
-
-108215	
-108217	
-
-108220	
 108222	doric/aeolic
 attic
-108226	
-108231	
-
-doric
-
+108233	doric
 108237	doric/aeolic
-
-108240	
-108242	
-108246	
-108248	
-doric
-
-
-108253	
-108255	
-
-
-ionic
-
+108249	epic
 108261	attic/epic/ionic
-108263	
 108265	doric/aeolic
-
 108268	attic/epic
-
-
-
-attic/ionic
-
+108272	attic/ionic
 108275	epic/doric
-108277	
-
-
-
-epic/doric
-108283	
-
-108288	
-108292	
-
-
-
-attic/ionic/epic/doric
-
-ionic/doric/aeolic
-
-108301	
-doric
-108304	ionic
-
-
-108308	
-108311	ionic
-
-attic
+108281	epic/doric
+108296	attic/ionic/epic/doric
+108298	ionic/doric/aeolic
+108302	doric
+108313	attic
 108315	attic
-
-
-
 108320	epic
-108322	
-108325	
-108328	
-108330	
-
 108333	epic/doric
-
-
-
-
-108340	
-
-
-doric/aeolic
+108343	doric/aeolic
 attic/epic
-108346	
-doric
-
+108347	doric
 108351	attic/epic/doric
 epic/doric
-108359	ionic
-
 108362	epic/doric
-
-108367	
-108370	
-
-
-attic/epic
+108373	attic/epic
 doric/aeolic
 108376	attic/epic/doric
-
-
-108381	
-attic/ionic
-108385	
-
-
-
-
-
-epic/doric
-108393	
-108395	
-108397	
+108382	attic/ionic
+108391	epic/doric
+108395	epic
 108400	ionic/doric/aeolic
-
-108404	
-
-
-
 108409	attic
 attic
-108412	
-
-
-
-
-
-attic/epic/doric/ionic
-
-108424	
-108426	
-
-
-108432	
-108434	attic/epic/ionic
-108437	
-
+108418	attic/epic/doric/ionic
+108424	doric
+108434	doric/aeolic
 108442	epic/ionic
-108444	
-
-attic/ionic
+108446	attic/ionic
 attic
-108451	
-
-epic/ionic
+108453	epic/ionic
 attic
-
-108457	
-
-attic/epic
-108461	
-108464	
-
-108469	
-attic
-
-attic
-108475	
-
+108459	attic/epic
+108465	epic
+108470	attic
+108472	attic
 108478	epic/doric
-
-108484	
-
 108488	epic/doric
 epic/doric
 epic/doric
-
-
-
-attic
-
-
-108498	
-108501	
-
-108505	
-epic/doric/aeolic
+108494	attic
+108506	epic/doric/aeolic
 epic/ionic
 attic
 108511	epic/doric/aeolic
-
-attic
-
-attic/epic/ionic
+108513	attic
+108515	attic/epic/ionic
 108517	attic/epic
 108520	doric/aeolic
 doric/aeolic
 108523	doric/aeolic
 doric/aeolic
-108526	
-
-
-108530	
-
-
-108534	
-epic/doric
-108537	
-attic/ionic
-108540	
-attic/ionic
-
-
-
-doric
-
-
-
-108550	
+108532	attic/epic/ionic
+108535	epic/doric
+108538	attic/ionic
+108541	attic/ionic
+108545	doric
 108552	ionic
-
-
 108558	attic
-
 108561	epic/doric
-
-108564	
-108567	
-
-attic/epic/doric
-
-epic/doric/aeolic
-
-
-108575	
-attic
+108569	attic/epic/doric
+108571	epic/doric/aeolic
+108576	attic
 epic/doric/ionic
-108580	
-108582	
-attic/epic/doric
+108583	attic/epic/doric
 108585	epic/attic/ionic
-
-
-
-108591	
-
-
-108595	
-attic/epic/doric
-108598	
-
+108591	epic
+108596	attic/epic/doric
 108601	epic
 attic
-
-
-108606	
-
-
-
 108611	attic
 attic
-
-
-108616	
-108618	
-
+108619	attic/epic/ionic
 doric/aeolic
-108622	
-108625	
-108627	
-ionic
-doric/aeolic
-
-attic/ionic
-
-
+108629	doric/aeolic
+108631	attic/ionic
 108636	doric/aeolic
-
-
-108643	
-
-
-108650	
-108652	
-
-doric
-
-108660	
-108662	
-attic/epic
-
-
-
-
-attic/epic/doric
-
-
-108672	
-ionic
+108654	doric
+108663	attic/epic
+108673	ionic
 attic
-
-108677	
-
-
-
-
-
 108684	attic/epic/ionic
-108688	
-attic/epic/ionic
+108689	attic/epic/ionic
 epic/doric
-108692	
-attic/epic
-
-
-attic/epic
-
-108699	
-
-108702	
-attic/epic/ionic
-
-
-108708	
-
-108711	
-epic
-
-108715	
-doric/aeolic
-
-
+108693	attic/epic
+108696	attic/epic
+108703	attic/epic/ionic
+108712	epic
+108716	doric/aeolic
 108720	attic/epic/ionic
 doric/aeolic
 doric/aeolic
 108724	doric/aeolic
 attic/epic/ionic
 108728	doric/aeolic
-108731	
-108733	
-108735	
-doric
+108736	doric
 attic
-
-
-108744	
-
-doric/aeolic
-
-108751	
-108754	
-
-doric/ionic
-
+108746	doric/aeolic
+108756	doric/ionic
+108758	doric/aeolic
 doric/aeolic
 doric/aeolic
-doric/aeolic
-
-attic
+108762	attic
 108764	epic/doric
-
-
-ionic
-108771	
-108773	
-108776	
 108780	epic/doric/ionic/aeolic
 108782	attic/epic/doric
-ionic
-
 108787	attic
-108791	
-
-attic/epic/ionic
-108796	
-108798	
-108801	
-
-doric/aeolic
-
-108806	
-attic/epic/ionic
-
-
-108811	
-
-attic
-
-attic/epic/doric
+108793	attic/epic/ionic
+108803	doric/aeolic
+108813	attic
+108815	attic/epic/doric
 108823	doric/aeolic
-108825	
-108827	
-
-doric/aeolic
-
-108832	
-
-108837	
-
-
-doric
-108844	
-attic/epic/ionic
+108829	doric/aeolic
+108840	doric
 108849	doric/ionic
-
-108856	
-doric/aeolic
+108857	doric/aeolic
 attic
-
-108861	
-108863	
-epic/doric
-ionic
-108868	
-
+108864	epic/doric
 108873	attic/epic/doric
 ionic
-
 108877	attic
-
-attic/epic
-
+108879	attic/epic
+108881	doric
 doric
-
-
-doric
-
+108884	epic
 108891	attic/epic/doric
-
-108894	
-
-108898	
-108900	
-epic/doric
+108901	epic/doric
 attic/epic
-
-108905	
-
-
+108908	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-
-
-
-108915	
-
-108918	
-attic
+108919	attic
 108921	attic/epic
-
-
-108925	
-
-108928	
 108930	attic/epic/ionic
-
-
-
-
-
-108937	
-doric/aeolic
-108941	
-
+108938	doric/aeolic
 108944	doric/aeolic
-
-108947	
 108949	epic/ionic/doric
-
-
-108954	
-108956	
-
-
-
-
-
-
 108964	epic/doric
-
-
-
-
-
-
-
-
-108974	
-
-
-
-
-108980	
-108983	
 108985	ionic
-108988	
-
+108990	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-
-attic
-
-attic/epic
-
-108999	
-109002	
-
-
-109009	
-attic/epic
-
-
-
-
-109016	
-epic
-
-attic/epic/ionic/doric
-109021	
-109024	
-
-109027	
-109032	
-
-109035	
-109038	
-
-
-109042	
-
-attic/epic
-109046	
-109048	
-
-109051	
-109053	
-
-
-
-109058	
-attic
+108994	attic
+108996	attic/epic
+109010	attic/epic
+109017	epic
+109019	attic/epic/ionic/doric
+109044	attic/epic
+109051	doric
+109059	attic
 doric/aeolic
 attic
 epic/ionic/attic
-
 109066	attic
-
-109069	
-109072	
-doric
-109075	
-attic/epic
-109078	
-
-
-attic/epic
-109084	
-109086	
-109088	
+109073	doric
+109076	attic/epic
+109081	attic/epic
+109084	attic/epic/doric
 109090	epic/doric
-109092	
-109097	
-attic/epic
+109098	attic/epic
 epic/doric
-109103	
-109105	
-
-
-doric
-
-
-109114	
-109118	
-
-
-doric/aeolic
+109108	doric
+109121	doric/aeolic
 109123	epic/doric
-ionic
-109127	
-
-
-
-
-109133	
-doric/aeolic
+109134	doric/aeolic
 ionic/doric/aeolic
 epic/doric
-
 109139	attic/epic
-
-109146	
-epic/doric
-
-doric
+109147	epic/doric
+109149	doric
 attic/epic/doric/ionic
-
 109154	epic/doric
-
-
-109158	
-109160	
-
 109163	doric/aeolic
-
-
 109167	doric/aeolic
 doric/aeolic
-
 109171	epic/doric
-
-109175	
-
-
-
-
-109181	
-
-109184	
-attic/epic/doric
-ionic
+109185	attic/epic/doric
 109188	doric/aeolic
 attic
-
-109194	
 109196	epic/doric
-109198	
-
-epic/doric
-
-
-attic
-109206	
-epic/doric
-
-109211	
-
-
-109216	
+109200	epic/doric
+109203	attic
+109207	epic/doric
 109219	attic
-
-attic/epic/doric
-109223	
-
-
-109228	
-epic/doric
-109231	
-
-109235	
-
-attic/epic/doric/ionic
+109221	attic/epic/doric
+109229	epic/doric
+109237	attic/epic/doric/ionic
 109239	epic/doric
 doric/aeolic
-
-109243	
-109247	
-109249	
 109253	doric
 109259	doric/aeolic
 109264	doric
-
-
-
-
-109270	
-
-
-
-109277	
-109279	
-109282	
 109284	epic/ionic
-109286	
 109288	doric/aeolic
-109291	
-
-
-109295	
-
-109298	
-
-ionic
-109302	
-
-
-
-
+109300	ionic
 109309	epic/doric
-109312	
-109315	
-
-
-
-
-
-109322	
-attic
-
+109323	attic
 109326	doric
 109328	doric/aeolic
 attic/epic/doric
 attic/epic
-
-109333	
 109335	epic/doric
 doric/aeolic
-
-
-
-109341	
-
+109342	doric
 109344	epic/doric
 attic
 attic/epic/doric
@@ -64658,16888 +19714,5525 @@ epic
 109353	doric
 109356	doric
 109359	attic
-
-
-attic
-
-
-attic
-
-109369	
-109373	
-attic
-
+109362	attic
+109365	attic
+109374	attic
 109377	doric/ionic
 epic/doric
-
 109381	doric/laconia
-
-
-109385	ionic
-epic/doric
-
-
-
-doric/aeolic
-109392	
-attic/ionic
-109395	
-109397	
-109399	
-109402	
-109405	
-doric
+109386	epic/doric
+109390	doric/aeolic
+109393	attic/ionic
+109406	doric
 109408	epic/doric
 109411	doric/aeolic
-
 109415	attic
-
-ionic
-109420	
-attic/ionic
-109423	
-
-109426	
+109417	ionic
+109421	attic/ionic
 109429	epic/doric
-
-attic/epic/ionic
 109433	attic/epic/doric/ionic
-
-
-
-109438	
-
-ionic/doric/aeolic
+109440	ionic/doric/aeolic
 109442	epic/doric
 109444	doric/aeolic
-
 109447	attic
-
-
-
-
-
-
 109455	ionic/doric/aeolic
-109457	
-109459	
-
-epic/doric/ionic/aeolic
+109461	epic/doric/ionic/aeolic
 epic/doric
-
-109466	
-ionic/epic/doric/aeolic
-109469	
-doric/aeolic
-109472	
-109474	
-109477	
-
-epic
+109467	ionic/epic/doric/aeolic
+109470	doric/aeolic
+109479	epic
 doric
 109484	epic/doric
-109486	
-
-109490	
-
-
-109495	
-doric
+109496	doric
 109500	attic/epic/doric
-109503	
-
-
-
-
-
-
-
-
-109514	
-
-
 109518	doric
-109523	
-109527	
 109530	epic/doric
-
-
 109534	epic/doric/aeolic
 doric/aeolic
-109540	
-
-
-109544	
-attic/epic
-
-
-
+109545	attic/epic
 109550	epic/doric
 109552	doric/laconia
 attic
-
-
-109558	
 109560	epic/doric/ionic/aeolic
-
-
-
-
-ionic
-
-
-ionic
-
 109571	doric/aeolic
-109573	
-
-attic
-
+109575	attic
 109579	doric/laconia
 109581	attic/epic/doric
-
-
 109586	doric/aeolic
-
-attic/epic
+109588	attic/epic
 doric
 doric/aeolic
 ionic/doric/aeolic
-
-109595	
-
-
-109601	
-109603	
-attic/ionic
-
-109607	
-109610	
-
-doric/aeolic
+109604	attic/ionic
+109612	doric/aeolic
 109615	epic/doric
 109618	attic/epic/ionic
-109620	
-
-109623	
-
 109626	doric/aeolic
-109628	
-
-
-epic/doric
-
-doric/aeolic
-109635	
-
+109631	epic/doric
+109633	doric/aeolic
 109641	epic/doric
 attic/epic/doric
 109644	doric
-
-
 109648	doric/laconia
 attic
-
-doric/aeolic
+109651	doric/aeolic
 109653	doric/aeolic
-
-doric/aeolic
+109655	doric/aeolic
 109658	attic
-109660	
-109665	
-109671	
-109675	
-
-
-epic/doric
-109680	ionic
-epic/doric
+109678	epic/doric
+109681	epic/doric
 109683	doric/laconia
 attic
-
-109689	
-109691	
-doric/aeolic
-109694	doric/aeolic
-109696	
+109696	doric
 doric
 109699	attic/epic/doric/ionic
-109702	
-
-
-
+109706	epic/doric
+109711	attic/epic/doric
 epic/doric
-
-109710	
-attic/epic/doric
-epic/doric
-109714	
-109717	ionic
 109719	attic/epic/doric
 epic/doric
 doric
 attic
-
-attic
+109724	attic
 attic/epic/doric
 epic/doric
-ionic
-109729	
-doric/aeolic
+109730	doric/aeolic
 109732	doric/aeolic
-epic/doric/ionic/aeolic
-
+109734	epic
 109738	attic/epic/doric
 attic/epic
-
-
-
-109747	
-attic
-
-ionic
-
-109753	
-doric/aeolic
-109759	
+109741	doric
+109748	attic
+109750	ionic
+109754	doric/aeolic
 109762	attic/epic
-
-doric
+109764	doric
 109766	attic/epic/doric/ionic
 109769	doric/aeolic
-109772	
-
-attic
-
-
-
-
-
-
-
-
-attic
-
-
-
-109790	
-
-
-109797	
-
-
-
-109803	
-
+109774	attic
+109783	attic
 109808	epic/doric/aeolic
-109810	
-
-109813	
-
-
-109817	attic/epic/ionic
-109819	
-
-
-109824	
-
-109827	ionic
-109829	
-
+109831	doric/aeolic
 doric/aeolic
-doric/aeolic
-109834	
-109838	
-doric
-ionic
-109845	
+109839	doric
 109847	epic/doric
-109849	
-
-
-
-ionic
-
+109853	ionic
+doric
 109858	epic/doric
 attic/epic/doric
-
-109862	
 109867	epic/doric
 attic/epic/doric
-109877	
-
-
-
-109882	
-109884	
-
-
-109889	
-
-109893	
-attic
-
-
-attic
-
-
-
-
-109904	
-
-
-
-109909	
-
-109915	
-
-attic
-
+109890	attic/epic
+109894	attic
+109897	attic
+109917	attic
 109920	doric/aeolic
-109924	
 109927	attic
-
-
-attic/epic
+109930	attic/epic
 109932	attic
-
-ionic
-109936	
-epic/doric
-109939	
-
+109937	epic/doric
 109943	epic/doric
-109945	
-109947	
-109953	
-
-ionic
-109957	
-109960	
 109962	epic/doric
-
-
-doric
-
-
-109973	
-
-109976	
+epic
+109965	doric
+109974	epic
 109978	attic/epic/ionic
 doric/aeolic
-ionic
 109985	epic/doric
-
-
-attic/epic/doric
+109988	attic/epic/doric
 epic/doric
-
-109993	ionic
-
-doric/aeolic
-
-109998	
-110004	
+109995	doric/aeolic
 110006	epic/doric
 110009	attic
 110014	doric/ionic
 epic/doric
-110017	
-
-doric/aeolic
-
-doric/aeolic
+110019	doric/aeolic
+110021	doric/aeolic
 110023	attic/epic/doric
-
-attic/epic/doric
+110025	attic/epic/doric
 110029	epic/doric
-
+epic
 110035	doric
-
-doric
-
-
+110037	epic
 110041	attic/ionic
-
-
+110043	epic
 110045	epic/doric
-110047	
 110049	attic/epic/ionic
 doric/aeolic
-110052	
-
-
-
 110057	doric/aeolic
-
-attic/epic
-
-110062	
-epic/doric
-
-doric
-
-
-
-
+110059	attic/epic
+110063	epic/doric
+110065	epic
 110071	epic/doric
-
-attic
-
-
-110078	
-attic
-
-ionic
+110073	attic
+110079	attic
 110083	attic/epic/doric
 epic/doric
-110088	
-
 110093	epic/doric
-110096	
-110100	
-110102	
-
-
-
-
-110108	
-
 110111	epic/doric
 epic/doric
-110114	
-
-
-110118	
-
-doric
-ionic
-110124	ionic
-110129	ionic
-epic/doric
-ionic
-110133	
-epic/doric
+110120	doric
+110130	epic/doric
+110134	epic/doric
 doric/aeolic
 ionic/doric/aeolic
-110138	
-110140	
-attic
-
-110145	
-
-
-
-attic
-
-
-attic
-
-110155	
-
-
-
+110141	attic
+110149	attic
+110152	attic
 110161	attic/epic/ionic
 epic/doric
 110164	attic/epic/doric
-
-
-attic
-
-110172	
-110174	
-attic/epic
+110167	attic
+110175	attic/epic
 epic/doric
 attic/epic/doric
-110180	
 110183	attic/epic
-
-epic
-
-
-110189	
-doric/aeolic
+110185	epic
+110190	doric/aeolic
 110192	doric
-
+epic
 attic
-
-attic
+110196	attic
 110200	doric/aeolic
 attic
-
-
 110205	epic/doric
 110207	epic/doric
-
-110210	
-110212	
-epic/doric
-110215	
-110217	
-
+110213	epic/doric
 110221	doric
-
-
-
-
-110228	
-doric/aeolic
-
-
-
-110234	
-110236	
-110240	
-attic/epic
-110245	
-110248	
-
+110229	doric/aeolic
+110241	attic/epic
 110254	epic/ionic
 doric
-110258	
-110261	
-
-110264	
-
-110267	
-110270	
-
-
 110274	attic/epic
 doric/aeolic
-110277	
-110280	
-110283	
-110285	
-ionic
-epic/doric
-
-110291	
-
-doric/aeolic
-
+110287	epic/doric
+110293	doric/aeolic
 110296	doric
-110301	
-ionic
 110304	doric
 110308	attic/epic
-110310	ionic
-110314	
-attic/epic/ionic
-
-
-attic/epic/doric
+110315	attic/epic/ionic
+110318	attic/epic/doric
 110320	epic/doric
 110322	attic/epic
-
-110329	
-
 110335	epic/doric
 110337	doric
-110339	
-
-110344	
+110344	attic/epic/doric
 110347	doric/aeolic
 doric
-
-
 110352	epic/doric
-110355	
-
-
-
-
-doric/aeolic
-110363	
-110365	
-
-110369	
-110371	
-
-
-110376	
-110379	
-110383	
+110360	doric/aeolic
+110383	epic
 attic
 attic
-
-
-
 110391	doric
-
-
-
-
-
-110398	
-110400	
-110402	ionic
 110404	doric/aeolic
 attic
-
-
-
-
-110412	
-110414	
-
-
-110418	
-
-110422	
-110424	
-attic/doric/ionic/aeolic
-110427	
-110429	
-
-
-
-110434	
-110437	
-110439	
-110441	
-
-
-110445	
-110447	ionic
-epic
+110425	attic/doric/ionic/aeolic
+110441	doric
+110448	epic
 attic
-
-ionic
-110456	
-
 110460	attic/epic
-110462	
 110464	epic/ionic/attic/doric
-110466	
-110468	
-doric
-110471	
-
-110474	
-doric/aeolic
-
-doric
-110481	doric
-
-
-
-
-
-110488	
+110469	doric
+110475	doric/aeolic
+110477	doric
 110493	attic/epic/doric
 attic/epic/ionic
-110496	
-
-
-
-doric
-110503	
-110505	
-
-
-110510	
-
-110516	
-
-
-*plat.
-
-
-
-epic/doric
-
-110526	
-110530	
-attic
-
-110534	
-
-
-110539	ionic
-
-
-110543	
-110545	
-
+110500	doric
+110519	*plat.
+110523	epic/doric
+110531	attic
 110548	doric/aeolic
-110552	
 110556	epic
-110558	
 110561	epic
-110564	
 110571	doric
 110573	doric
-110575	
-
-
-
-
-
-110582	ionic
-doric/ionic
+110583	doric/ionic
 doric/aeolic
-ionic
-epic
-
-
+110586	epic
+110588	epic
 attic
-
-
-attic
-
-attic
-110596	
-
-
-
-110601	
-110603	
-
-
+110592	attic
+110594	attic
+110603	doric
 110608	attic/epic
-110611	
-
-110614	
 110617	attic/epic
 attic/epic/ionic
 110620	epic/doric
-110625	
-doric
-110628	
-epic/doric
-
-
+110626	doric
+110629	epic/doric
 110634	epic/doric
-110639	
-doric
-
+110640	doric
+epic
 110643	epic
-
-
-
-
-attic/epic/doric
+110648	attic/epic/doric
 110650	epic/doric
-110652	
 110655	epic/ionic
-110658	
-
-attic/epic/doric
-
+110660	attic/epic/doric
 110664	epic
-
-
-
-110669	
-
-
-doric/aeolic
-110675	
-
-ionic
-110680	ionic
-110683	
-
-
-
-110688	
+110672	doric/aeolic
+110684	doric
 110691	doric/aeolic
-
-
-
-attic
-ionic
-epic/doric
-110700	
-
-doric/aeolic
-
-attic/epic
-
-110707	
-110709	
-
-
-110713	
-
-
-110718	
+110695	attic
+110697	epic/doric
+110702	doric/aeolic
+110704	attic/epic
 110721	doric
-
-epic/doric
+110723	epic/doric
 attic/epic
-110726	
+110727	epic/doric
+110732	doric/aeolic
+110736	doric
+110740	attic
+110743	attic
+110748	attic/epic/doric
 epic/doric
-110731	
-doric/aeolic
-110736	
-
-
-
-attic
-
-
-attic
-
-110746	
-
-attic/epic/doric
-epic/doric
-110752	
-110754	
-
-
-
-110761	
-110763	
-
-epic/doric
-110767	
-110771	attic/epic/ionic
+110765	epic/doric
 110774	attic
 110776	attic
-
-
-attic
-
+110779	attic
 110782	epic/doric
-110785	
-110788	
-
-
-
-
-
-
-110796	
-attic
-
+110797	attic
 110800	doric
 110802	doric/aeolic
-
-
-110807	
-attic
-
-110811	
-attic/epic
-
-110815	
-epic/doric
+110808	attic
+110812	attic/epic
+110816	epic/doric
 110819	doric/laconia
-110821	
-
-
-epic/doric/ionic/aeolic
+110824	epic/doric/ionic/aeolic
 epic/doric
-110827	
-
-doric
-
+110829	doric
 110833	epic/doric
-ionic
-110838	
-
-doric
-110842	
+110840	doric
 110844	epic
 attic
-
-
 110849	doric
 epic/doric
-110853	
-attic/epic/ionic
 110857	epic/doric
-110862	
-110865	
 110867	attic
-
-ionic
-110871	
-epic/doric
-110874	
-attic
-
-
-doric/*theocr.
-110880	
-110882	
-
-
+110872	epic/doric
+110875	attic
+110878	doric/*theocr.
 110887	attic/epic/doric/ionic
 epic/doric
 110891	doric
 110894	epic
-110896	
-
-
-attic/ionic
+110899	attic/ionic
 attic
-
-attic
-110904	
+110902	attic
 110906	attic/epic/doric
-110908	
-
 110913	epic
-110915	
-110917	
-110920	
-attic/epic/doric/ionic
+110921	attic/epic/doric/ionic
 attic/epic
 110924	attic
-
-
-attic
+110927	attic
 110929	epic/doric
 attic/epic/doric/ionic
-110932	
-
-epic/ionic/attic
+110934	epic/ionic/attic
 attic
-
-110938	
 110940	doric/aeolic
-110943	
-110945	
-
-
 110949	attic/epic/doric
-
-110953	
-attic/epic/ionic
-110957	
 110960	doric/laconia
-
 110963	epic/doric
-
-
-
-attic/epic/ionic
-ionic
-
-110971	
-110973	
-epic/doric
-
-epic/doric
-
-110980	
-110982	
-110984	
-
+110967	attic/epic/ionic
+110974	epic/doric
+110976	epic/doric
+110985	attic/epic/ionic
 doric/aeolic
 110989	epic
-110991	
-attic/ionic
-110994	
+110992	attic/ionic
 110996	doric/aeolic
 attic
-
-
-attic
-
-doric
-111005	
-
-
-111009	
-attic
-
-
-111014	
-attic
-
-attic/epic/ionic
+111000	attic
+111002	doric
+111010	attic
+111015	attic
+111017	attic/epic/ionic
 111019	epic/doric
-111021	
-111023	
-attic
-
-
-attic
-
-111030	
-111034	ionic
-111036	
-
+111024	attic
+111027	attic
 111039	epic/doric
-
-attic
+111041	attic
 epic/doric/ionic
-111046	
-111049	
+111046	epic
+111049	epic
 epic/ionic/attic
-111053	
-
-111056	
-
-
-epic/doric/aeolic
-
-
-attic
-
-
-
-epic/doric
+111059	epic/doric/aeolic
+111062	attic
+111066	epic/doric
 attic/ionic
-
-
-
-
-doric/aeolic
-
-
-
-
-
-111080	
-111083	
-
-epic
-111087	
-
-
-111092	
-
-
-
-
-111100	ionic
+111072	doric/aeolic
+111085	epic
 111103	attic
-
-
-
-111108	
-111111	
-
-
-111115	
+111115	doric/ionic
 111117	epic/doric
-
-
-doric
-111124	
-
-ionic
-111130	
+111120	doric
+111131	attic/epic
+111137	attic/epic/doric
 attic/epic
-
-
-111137	doric/aeolic
-attic/epic
-111140	
-
-
-
-111145	
-
-
-doric/aeolic
-111150	
-111152	
-111154	
-
-
-
-epic
+111145	doric
+111148	doric/aeolic
+111158	epic
 attic/epic
 111161	attic
-111163	
-111165	
-
-
-111169	
-
-
-111173	
-
 111176	doric/aeolic
 attic
-
-
-doric
+111180	epic
 attic/ionic
-111183	
 111185	doric
 attic/epic/doric
-111188	
-doric
+111189	epic
 ionic
-
 111193	epic
-111195	
 111197	doric/ionic
 111199	epic/doric/aeolic
-
-ionic
-ionic
-111207	
-111209	
-
-
+111201	ionic
+111207	epic
 111213	doric/aeolic
-
-ionic
-111217	
 111219	attic/epic
-
-
-attic/epic/ionic
-111224	
-
-111227	
-epic/doric/aeolic
+111222	attic/epic/ionic
+111228	epic/doric/aeolic
 doric/aeolic
-111231	
-
-111235	
 111237	attic/epic
-
-111240	
-epic/doric
-111244	
-
-
+111241	epic/doric
 111248	epic/doric
-
-111253	ionic
-doric/aeolic
-
+111254	doric/aeolic
 111259	attic/ionic
 epic/doric/aeolic
-ionic
-
 111265	epic/doric
-
-attic
-111269	
-ionic
 epic
+attic
+111271	epic
 doric/aeolic
 attic
-
-
-attic
-
-attic
-111281	
-111283	
-doric/aeolic
+111276	attic
+111278	epic
+111284	doric/aeolic
 attic/epic
 doric/aeolic
-111288	
-
+111289	epic
 epic/ionic/attic
-
-111293	
-
-111297	
-
-
-
-
-111303	
-111305	
-111307	
-
-attic/ionic
-
-111312	
-epic/ionic
+111309	attic/ionic
+111313	epic/ionic
 doric
 111317	doric/aeolic
-
-111320	
-epic/doric
+111321	epic/doric
 doric/aeolic
 ionic/doric/aeolic
-111325	
-
-111330	
-111333	
-
-111336	
-
-
-
 111341	attic
-
-
 111349	epic/doric
-111351	
-111353	
-
-111357	
-
-
-111362	
-epic/doric/ionic/aeolic
-
-111367	
-
-111370	
-epic/doric
-111373	
-
-attic
-
-111379	
-
+111363	epic/doric/ionic/aeolic
+111371	epic/doric
+111375	attic
 111382	epic/doric
-
-
-
 111387	attic/epic
 111389	epic
-
-111392	
-
-epic/doric
+111394	epic/doric
 doric/aeolic
 ionic/doric/aeolic
-ionic
 111399	doric/ionic
 attic
-
-111403	ionic
 111406	attic
-
-
 111410	doric
-111412	
 111414	attic
-
-attic
-
-
-epic/doric
-
-111423	
+111416	attic
+111419	epic/doric
+111423	doric
 attic/epic/doric
-111426	
-
-111433	
-111436	
-
-attic/epic
-111440	
-
-
-111444	
-doric
-ionic
-ionic/doric/aeolic
-111450	
-
-111453	
-
-111459	
-111463	
-
-
-epic/doric
-
-
-
-
-doric/aeolic
-111473	
-111475	
-
-doric
-ionic
-111481	
-111484	
-
+111438	attic/epic
+111445	doric
+111447	ionic/doric/aeolic
+111466	epic/doric
+111471	doric/aeolic
+111477	doric
+111485	epic
 111487	epic/doric
-111489	
+111490	doric
+111502	attic/epic/doric
+111504	doric
 doric
-
-
-
-
-
-111499	
-111501	
-attic/epic/doric
-
-doric
-
 111508	doric/aeolic
 attic
-111512	
-
 111515	attic/epic/doric
-
-
-attic
-
-
-
-
-111525	
+111518	attic
 111527	doric/laconia
-111531	
-
-111534	
-111536	
-
-
-attic/epic
-
-
-
-111544	
-111546	
-
-111549	
-
-
-111553	
-
-
-epic/ionic
+111539	attic/epic
+111542	epic
+111556	epic/ionic
 doric/aeolic
-
-
-111563	
-
 111566	doric
 111568	doric
 111570	epic/doric
-
-111573	
-111575	
-
-
-
+epic
 111580	epic/doric
-
-111583	
-
-ionic
-111587	
-111590	
-doric
+111585	ionic
+111591	epic
 attic/epic/ionic
-111594	
-
 111597	attic
-
-
-attic
-
-
+111600	attic
 111604	epic/doric
-111607	
-attic
+111608	attic
 111610	epic/doric
-
-
-
-111615	
+111616	attic
+111624	attic/ionic
+111627	doric/aeolic
+111633	attic
 attic
-111619	
-111623	
-attic/ionic
-111626	
-doric/aeolic
-
-
-111632	
-attic
-attic
-
-
-111639	
-
-
-
-111644	ionic
-doric
-
-111648	
-
+111645	doric
 111653	attic/epic/doric
 111658	attic/epic
 epic
-
-
-doric/aeolic
-
-111665	
-attic/ionic
-111671	
+111662	doric/aeolic
+111666	attic/ionic
 111673	doric
-
-
-ionic
+111676	ionic
 111679	doric/aeolic
-111683	
-doric
-111686	
-ionic
-doric/aeolic
-111692	
-
-111695	
-epic
-111698	
-
-
-doric/aeolic
-111703	
-
-
-
-doric/aeolic
-
-
-
+111684	doric
+111688	doric/aeolic
+111696	epic
+111701	doric/aeolic
+111707	doric/aeolic
+111710	doric
 ionic/doric
 doric
-111714	
-
-
-
-
-
 111722	attic/epic/doric
-111726	
-111728	
 111732	attic/epic/doric
-111737	
-111739	
-
-
-
-111744	
-
-
 111748	doric/laconia
 111750	doric/aeolic
 attic
-
-
-
-epic/doric/aeolic
+111755	epic/doric/aeolic
 attic/epic/doric
-
-
+111759	attic/epic
+111763	attic
 attic/epic
-
-111762	
-attic
-attic/epic
-
-
-
-
 111770	doric
-111772	ionic
-doric/aeolic
-111775	
-
-
+111773	doric/aeolic
 111779	*ntest./attic/epic/ionic
 111781	attic/epic/ionic
 doric/aeolic
 attic/ionic/epic/doric/aeolic
-
-111786	
-
-
-111791	
 111793	attic
-
-
-
 111799	doric
-111801	
-
-attic
-
-
-111808	attic/epic/ionic
-
-111811	
-
-
-
-ionic
-111819	
-
-
-
-attic/epic/doric
+111803	attic
+111808	doric/aeolic
+111823	attic/epic/doric
 doric/aeolic
-
+epic
 111827	attic/ionic/epic/doric/aeolic
-
-
-
-
-doric
-
-
+111832	doric
 111837	doric/aeolic
 111839	attic/epic/doric/ionic
-
-
-111844	
-ionic
-attic/epic/ionic
-
-attic/epic
-111850	
-
-111855	
-
-doric
-111859	
-ionic
-111863	
+111846	attic/epic/ionic
+111848	attic/epic
+111857	doric
 111865	attic/epic/ionic
 111868	doric/aeolic
-111870	
-111873	
-doric/aeolic
+111874	doric/aeolic
 epic/ionic/doric
-
-
-doric/aeolic
-
-
-
+111878	doric/aeolic
 111884	attic/epic/ionic
 doric/aeolic
-
 111889	doric/aeolic
 epic
 111892	doric
-111894	
-111898	
-111900	
-111902	
 111905	attic/epic
-111907	
-111909	
 111911	attic/epic/doric
-111913	
 111916	attic/epic
 doric/aeolic
 attic/epic
 doric/aeolic
-
-111922	
-
-
-111927	
-
-doric
+111929	doric
 attic
-
-
 111934	epic/ionic/doric/laconia
-
-epic/ionic/attic/doric
-
-doric
-
-111943	
-111945	
-epic/ionic/doric/laconia
-attic
-
-
-
-111953	
-
-111957	ionic
-
-epic/doric/aeolic
-111961	
-111964	
-111967	
-111969	
-111971	
-
-
-
-111977	
+111936	epic/ionic/attic/doric
+111938	epic
+111947	attic
+111959	epic/doric/aeolic
 111980	doric/laconia
-
-
-ionic
-
-epic/doric/aeolic
+111985	epic/doric/aeolic
 attic/epic/doric
 111990	epic/doric/aeolic
-
-
-111996	
-attic/ionic
+111997	attic/ionic
 111999	epic/doric/aeolic
 112004	attic/epic/ionic
-
-112007	
-112009	
-
 112012	doric
-112017	
-doric
-
-
-
+112018	doric
 112023	doric/attic/epic/ionic
 112025	doric/aeolic
-
-
-112030	
-
-112033	
 112035	attic/epic
-112037	
-
-112040	
-doric/aeolic
+112041	doric/aeolic
 112043	epic
-
-112046	
-
-112049	
-doric
-
-112055	
-
-ionic
-112062	
-
-112066	
+112050	epic
 112069	epic
-112072	
-112074	
 112077	attic/ionic
-
-epic/attic/ionic
+112079	epic/attic/ionic
 epic/doric/aeolic
-112083	
-112085	
-doric/aeolic
-112088	
-attic/ionic
+112083	epic
+112086	doric/aeolic
+112089	attic/ionic
 112091	doric
-112094	
-doric/attic/epic/ionic
-
-
-112099	
-
-doric
-112103	
-attic/epic/doric
+112095	doric/attic/epic/ionic
+112101	doric
+112104	attic/epic/doric
 attic/epic/doric/ionic
 attic/epic
-112109	
 112114	epic
-
-
-doric/laconia
-
-
-
-
-
-attic/epic/ionic
+112117	doric/laconia
+112123	attic/epic/ionic
 doric/aeolic
 doric/aeolic
-
-
-attic
-
-attic
-attic/epic/ionic
+112128	attic
+112130	attic
+doric
 doric/aeolic
-112134	
-
-
-
-attic/epic/ionic
-112140	
-112142	
-attic
-
-attic
-112147	
-112149	
-
-
-epic
-
-
-
-
-112158	ionic
-
-
-attic
+112138	doric/aeolic
+112143	attic
+112145	attic
+112152	epic
+112161	attic
 attic
 attic/epic
 112166	doric/aeolic
 attic/epic/ionic
-112169	
-
-112172	
-
-ionic
-112176	
 112179	attic
 attic
 112183	doric
-
-112186	
-
-112190	
-attic/epic
-112197	
-
-attic/ionic
-112204	
-112206	
+112191	attic/epic
+112199	attic/ionic
 112211	doric/aeolic
-
 112215	doric/aeolic
-
-attic/epic/ionic
-epic/ionic/attic/doric
+112218	epic/ionic/attic/doric
 112223	doric
-attic/epic/ionic
-
-112227	
-
-attic/epic/doric
-
-112232	attic/epic/ionic
-
-112235	
-
-attic/epic/doric
+doric
+112229	attic/epic/doric
+112232	doric
+112237	attic/epic/doric
 112240	doric/aeolic
-
-attic/ionic
-
-
-
-attic
-
-
-
-112253	
+112242	attic/ionic
+112246	attic
 112255	doric/aeolic
-112257	
-
-
-
-attic/epic
-
-112264	
-112268	
-
+112261	attic/epic
 112275	epic/doric/aeolic
-112277	
-112282	
-112286	
-
-112289	
+112277	doric
 112292	attic/epic/doric
-112294	
-112297	
-112300	
-epic
-112305	
-
-
-
-
-
+112301	epic
+112305	doric
 112312	doric
 112317	epic/ionic/attic/doric
-112320	
-
-attic/ionic
-
-
+112322	attic/ionic
 112326	doric/aeolic
 epic
-
-attic/epic/doric
-112332	
-
+112329	attic/epic/doric
 112335	epic/doric
-ionic
-112338	
-
-112341	
 112345	epic/doric/aeolic
-
-
-112349	
-
-112353	
-
-
-
-112359	
+112359	epic
 epic/ionic/attic
-
-112364	
-112368	
-
-112371	
-attic
+112372	attic
 112375	epic/ionic/attic/doric
 112380	attic/epic/ionic
-
-
 112386	doric
 112388	attic/epic
 112390	attic
-
-112393	
 112395	doric/aeolic
-
-112399	
-112401	
-112403	
-
-112406	
-112408	
-
 112411	doric/aeolic
 attic/epic/doric/ionic
 attic/epic/ionic
-112419	
-
-112423	attic/epic/ionic
-
-112426	ionic
+112423	doric/aeolic
 112429	attic/epic/ionic
-112431	
-
-112434	
-
-doric
-112439	
-112441	
-112443	
-
-
-112447	
-112449	
+112436	doric
 112452	attic/epic
 doric/aeolic
 112455	ionic/attic/epic/doric
-
-
-
-
-
-doric
-
-doric
-
-attic/ionic
-
-
-
-112470	
-
-attic/ionic
-
-attic/ionic
-
-
-
-attic/epic/doric/ionic
+112461	doric
+112463	doric
+112465	attic/ionic
+112468	doric
+112472	attic/ionic
+112474	attic/ionic
+112478	attic/epic/doric/ionic
 attic
-
-
-112483	
-112485	
-
-
-
-112490	
-doric
+112486	epic
+112491	doric
 attic
-112494	
-doric/aeolic
-
-112498	
-
-
-
-
-
-112505	attic/epic/ionic
-
-
-112509	
-
-
-
+112495	doric/aeolic
 112515	attic/epic/doric
-112517	
-
-112522	
-112524	
-
-doric/aeolic
+112526	doric/aeolic
 attic/epic
-
 112530	attic
-
 112533	doric/aeolic
-
 112536	attic
-
+112538	doric/aeolic
+112540	epic
+112543	doric/aeolic
 doric/aeolic
-
-doric
-
-
-doric/aeolic
-doric/aeolic
-112546	
-
-112549	
-doric/aeolic
-112552	
-
-
-112556	
+112550	doric/aeolic
 112558	doric/laconia
 112562	doric/aeolic
 112565	epic/ionic/attic/doric
-112569	
-epic/ionic/doric/laconia
-attic
-
-
+112571	attic
 112576	doric/aeolic
 112579	epic/doric/aeolic
-
-
 112583	attic/epic/doric/ionic
-112591	
-
 112594	attic/epic/doric/ionic
 attic/epic/doric/ionic
 epic/doric/aeolic
-112598	
-
-
-112602	
-
-112605	
-
-
-112610	
-
-attic/epic
+112612	attic/epic
 112618	attic
-
-doric/aeolic
-
-
-attic
-
-
-
-
-112630	
-112632	
-attic/epic
-
-112636	
-epic/doric
-
-
+112620	doric/aeolic
+112623	attic
+112633	attic/epic
+112637	epic/doric
 112641	epic/doric
-
-112645	
 112649	attic/epic/ionic/doric
 attic
-112652	
-attic
+112653	attic
 112656	attic
 attic
-
-attic/epic/doric
+112659	attic/epic/doric
 epic
 doric
-
-
 112665	attic/epic/ionic
-112668	
+112668	doric
 112671	doric/aeolic
 epic
 doric/aeolic
 doric/aeolic
 doric/aeolic
-
-
 112679	doric/aeolic
 doric/aeolic
 112682	attic/epic/doric
 112684	attic/epic/doric
 doric
-
-
-attic/epic/doric/ionic/aeolic
+112688	attic/epic/doric/ionic/aeolic
 112691	attic
 attic/epic/doric
 112695	doric
 doric/ionic
 112698	attic/epic
-
-
-
-doric/aeolic
+112702	attic/epic/doric
 112704	doric
-
-doric
-attic
-
-
-
-attic/epic/ionic
-
-
-attic/epic
-112717	
-112719	
-
-
-112724	
-
-
-attic/epic/ionic
+112707	attic
+112711	attic/epic/ionic
+112714	attic/epic
+112727	doric
 112730	attic/epic/ionic
 doric
-112734	
-112736	
-
-112739	
-
-112742	
-doric/aeolic
+112743	doric/aeolic
 112745	epic
-
-
-112749	
-
 112752	attic
-
-
-
 112757	doric/aeolic
-
-attic/epic/doric
-112761	
-
-
-112765	
-attic/epic/doric
-
-112770	epic/ionic/doric/laconia
-112772	
-
-112775	
+112759	attic/epic/doric
+112766	attic/epic/doric
 112779	epic
-epic/ionic/doric/laconia
-attic
-
-112784	
-attic
-112787	
-
-attic/epic/doric
-
-
-
+112781	attic
+112785	attic
+112789	attic/epic/doric
 112796	attic/epic/doric
-
-112799	
-
 112802	attic/epic
 112804	attic/epic/doric/ionic
 112806	epic
-
-
-attic/epic/doric/ionic
+112809	attic/epic/doric/ionic
 112811	attic/epic/doric/ionic
 doric/aeolic
-
 112815	ionic
-
+epic
 112820	doric/aeolic
 doric/aeolic
-
-doric/aeolic
-
-
-
-doric/aeolic
-
-epic
+112823	doric/aeolic
+112827	doric/aeolic
+112829	epic
 epic/ionic/doric
-ionic
-112833	
 112836	attic/epic/doric
-112839	
-112841	
-
-112845	
-doric/aeolic
-
-112849	
+112846	doric
 112852	epic
-
-
-
-112857	
-epic/doric/aeolic
-attic/epic/ionic
+112858	epic/doric/aeolic
+doric/aeolic
 doric
-
-112863	
-
 112866	doric/aeolic
 attic
-
-112870	
-
-doric/aeolic
-
-112875	
+112872	doric/aeolic
 112877	epic/doric/aeolic
-
-
-
 112882	epic
 doric/aeolic
-
-112886	
-
-epic
-112891	
-112893	
-112895	
-
+112888	epic
 112898	attic/epic
-
-
-attic/epic
-112903	
+112901	attic/epic
 112905	attic/epic/doric/ionic
 epic/ionic/attic/doric
 112908	attic
-
-
-attic
-
-112914	
+112911	attic
 112916	doric/aeolic
-
-112920	
-doric/aeolic
+112921	doric/aeolic
 attic/epic/ionic
-
-attic/epic
+112924	attic/epic
 112926	doric/aeolic
-
-
 112932	doric/aeolic
 doric/aeolic
-
-doric/aeolic
-
-
+112935	doric/aeolic
 112939	attic/epic/doric
-112941	
 112943	epic/doric/aeolic
-
 112948	doric/aeolic
-112953	
-
-
-
-112960	ionic
-112963	
-ionic
-attic/epic/doric
-
-
+112965	attic/epic/doric
 112970	doric/aeolic
-112975	
 112979	epic
-ionic
 112985	doric/aeolic
 doric/aeolic
 112989	doric/aeolic
 112991	epic
-112993	
-ionic
 112997	doric/aeolic
-
-113001	
-
-113004	
-
-doric/*theocr.
+113006	doric/*theocr.
 doric
-113010	
-113015	
-
-113020	
-113022	
-
-
-
 113028	doric/aeolic
 113030	doric/ionic
 113033	attic/epic/doric
-113035	
-
 113039	attic/epic/doric
-113041	
-attic/epic/ionic
-ionic
+113042	attic/epic/ionic
 113049	attic/epic/ionic
 doric/aeolic
-epic/ionic/doric/laconia
-
-
-
-epic/ionic/doric/laconia
+113056	attic
+113058	attic
+113064	attic
 attic
-
-attic
-113060	
-
-113063	
-attic
-attic
-113067	
-
 113071	attic/epic/ionic
 doric/aeolic
-
-
-113077	
-113079	
-113081	
-attic
-
-
-attic
-
-113088	
-
-
-
-
-113095	
-
-ionic/epic
-
-
-113101	
-
-
-
-113106	
-doric/aeolic
-
-
-
-
-epic
-113114	
-ionic
-attic/epic/doric
+113082	attic
+113085	attic
+113097	ionic/epic
+113107	doric/aeolic
+113112	epic
+113116	attic/epic/doric
 doric/aeolic
 113119	doric
-113121	
-
-attic/epic/ionic
-113126	
-attic/epic
-113130	
-
-113135	
-attic
-113139	
-
-attic/epic
+113123	attic/epic/ionic
+113127	attic/epic
+113136	attic
+113141	attic/epic
 doric
 attic
-
-
-ionic
-113150	
-113152	
-113156	
-
-
-
-ionic
-113162	
-
+113145	doric
 113167	attic/epic/ionic
-
-113172	
 113174	doric/aeolic
 doric
 doric/aeolic
 113178	attic/epic
 113183	doric
-
-
 113189	attic
 113192	epic/doric
-113195	
-attic
-
-113199	
+113196	attic
+epic
 113201	doric/aeolic
 attic/epic/ionic
-113204	
-
+113206	attic
+113212	doric/aeolic
+113218	attic
 attic
-113211	
-doric/aeolic
-
-
-113217	
-attic
-attic
-
-
-
-
-attic/epic
-
-113227	
-
-
-
-
-attic/ionic
-
-
-
-113237	
-
-doric/aeolic
-
-113243	
-113246	
-attic/epic/doric
-
-attic/epic/doric
-113251	
-
-
-
-
+113224	attic/epic
+113232	attic/ionic
+113239	doric/aeolic
+113247	attic/epic/doric
+113249	attic/epic/doric
 113257	epic/ionic
-
-113260	
-
 113265	epic/doric
-
-
-
-113270	
-113273	
-
-
-113279	
-113281	
-
 113285	doric
-
-
-attic/epic/doric
+113288	attic/epic/doric
 113291	attic
-
-
-113295	
-
-
-113300	
-doric
-
-
+113297	epic
+113301	doric
 113306	attic
-
-113310	
-doric/aeolic
+113311	doric/aeolic
 113314	doric
-113317	
-113319	
+113317	attic/epic/ionic
 113321	doric/laconia
 attic
-
-
-113326	
-113328	
-
-doric/aeolic
-
-attic/epic
-113334	
-113336	
-attic
-113339	
+113330	doric/aeolic
+113332	attic/epic
+113337	attic
 113342	attic/ionic
-
-
-
-
-113348	
-doric/aeolic
-
-doric/aeolic
-113354	
+113349	doric/aeolic
+113351	doric/aeolic
 113356	doric/aeolic
 attic
-
-
-attic
+113360	attic
 113362	doric
-
-doric/aeolic
-113367	
-113369	
-attic
-
-
-
-attic
-
+113364	doric/aeolic
+113367	epic
+113370	attic
+113374	attic
 113381	attic/epic/ionic
 113383	doric/aeolic
-
+epic
 attic
-113387	ionic
-
-epic/doric/aeolic
+113389	epic/doric/aeolic
 attic/epic/doric
 113398	doric
-113400	
-
-113403	
-
-doric/aeolic
-113411	
-
-113416	
-
-ionic
+113405	doric/aeolic
 113421	doric
 attic/epic/doric/ionic
-
-
-doric
-
-113428	
-113430	
-attic/ionic
+113425	doric
+113431	attic/ionic
 113433	doric
-
-
-
-attic
+113437	attic
 113439	attic/epic/ionic
-113441	
-
-113444	
-attic
+113442	epic
+113445	attic
 attic/epic/doric
-
-attic
+113448	attic
 doric
-113451	
-
-113455	
-
-
-
-
 113463	doric/aeolic
-113465	
-
-
-attic/epic
-113471	
+113468	attic/epic
 113477	ionic
-
-
-
-doric/aeolic
-113483	
-attic/epic/ionic
-
+113481	doric/aeolic
+113484	attic/epic/ionic
+doric
 epic/doric
-113489	
-113491	
-
-
-113495	
-
-
-
-attic/epic/ionic
-
-
-113503	
-
-
-attic/ionic/epic/doric
-
-113513	
-
-
-
-113518	
-
-
-attic
-113523	
-113526	
-
-
-
-
-
-
-113535	
-113539	
-
-
-
-113544	
-attic
+113499	attic/epic/ionic
+113506	attic/ionic/epic/doric
+113521	attic
+113527	epic
+113545	attic
 113550	attic
-
-113553	
-attic/epic
-113556	
-doric/aeolic
-113560	
-
-
+113554	attic/epic
+113557	doric/aeolic
 113564	doric/aeolic
-
-
-
-113569	
-
-attic/epic
-
-
-
+113566	doric
+113571	attic/epic
 113576	attic/epic/doric/ionic
-
-
-
-113581	
-
-
-epic
-
-attic/epic/ionic
-
-113589	
-
-
-
-
-113596	
+113584	epic
 113598	doric/laconia
-
-
 113602	attic/epic/doric
-
-
-
-
-doric/aeolic
-
+113607	doric/aeolic
 113610	attic
-
-
-113614	
-113616	
-
-
+113614	epic
+113618	epic
 113620	doric
-
-113624	
-113627	
-
-attic
-
-doric/aeolic
-
-
-
-113636	
+113629	attic
+113631	doric/aeolic
 113640	epic
-
-
 113644	epic
-
-doric/aeolic
+113646	doric/aeolic
 113648	doric/aeolic
-
-
-attic/epic/doric
-113653	
-attic/epic/doric/ionic
-113658	
-doric/aeolic
-
-
-113663	epic/ionic/doric/laconia
-attic
-
-
-113670	
-
-epic/ionic
-
-
-
-
-
-
-attic/epic
-
-113682	
-attic/epic/doric
+113651	attic/epic/doric
+113654	attic/epic/doric/ionic
+113659	doric/aeolic
+113664	attic
+113672	epic/ionic
+113679	attic/epic
+113683	attic/epic/doric
 113687	epic/doric/aeolic
 doric/aeolic
 113690	doric
 doric/aeolic
-
-
-
 113696	attic/epic/doric/ionic
-
-113699	
-113701	
-
-
-113705	
-
-113708	
-113712	
 113714	epic/doric/aeolic
-113716	
-doric
-doric/aeolic
+113717	doric
+attic/epic/doric
 113721	epic
-113723	
-113725	
 113729	attic
-
-epic/doric/aeolic
-
-113737	
-113740	
-113743	
-
-113746	
+113731	epic/doric/aeolic
 113749	doric/aeolic
-
-
-113754	
-
-113757	
-doric/aeolic
+113758	doric/aeolic
 attic
 113761	attic
 doric/aeolic
-113764	
-113766	
-113768	
-113770	ionic
-doric/ionic
-
-113774	ionic
+113771	doric/ionic
+113775	doric/aeolic
 doric/aeolic
-doric/aeolic
-113778	
-113781	
-113785	ionic
-doric/ionic
+113786	doric/ionic
 attic/epic/ionic
-
-attic/epic
-
-ionic
-
-epic
-
-
-doric/aeolic
+113789	attic/epic
+113793	epic
+113796	doric/aeolic
 113798	doric/aeolic
 doric/aeolic
-
-
 113805	doric/ionic
 epic/doric
-
-
-attic/epic/doric
-113811	
-
-
-ionic
+113809	attic/epic/doric
+113814	ionic
 doric/aeolic
-113817	
 113820	attic/epic
 attic
 doric
-
-attic/epic/ionic
+113824	attic/epic/ionic
 doric/aeolic
-
-113828	
-
-attic/epic
+113830	attic/epic
 113832	doric/aeolic
-
-113837	
-
-
-113841	
-113844	
-
-epic
-
-
+113846	epic
 113850	doric/aeolic
-ionic
-
-epic/doric/aeolic
-113856	
+113853	epic/doric/aeolic
 113858	attic
 attic
-113863	
-ionic
-113866	
-
 113870	ionic
-
-
-
-ionic
-113876	
-113880	
-epic
+113874	ionic
+113881	epic
 attic/epic/doric
 attic/epic/doric
 113886	attic/epic/doric
 epic/ionic/doric
-
-attic/epic/doric
-
+113889	attic/epic/doric
 113893	attic/epic/doric
-
-
 113897	doric/aeolic
-
-113901	
-
 113905	attic/epic/doric/ionic
-
 113914	attic/epic/doric
-
 113918	epic
-
-
-ionic
+113922	doric/aeolic
 doric/aeolic
+113930	epic
 doric/aeolic
-113927	
-113929	
-epic
-doric/aeolic
-113933	
-113936	ionic
-
-epic/doric/aeolic
-113940	
-
-
-113947	
-
+113938	epic/doric/aeolic
 113952	doric/aeolic
-
-epic/doric/aeolic
+113954	epic/doric/aeolic
 epic
 113958	attic/epic/doric
-113960	
-113964	
-attic/epic/doric/ionic
-
-
-
+113965	attic/epic/doric/ionic
 113970	attic/doric/aeolic
-
-113974	attic/epic/ionic
-
-113977	
-
-113983	
-
-
-
-epic/ionic
-
-attic/ionic
-
-attic/ionic
-
-
-
-doric
-
-doric
-114002	
-114005	
-
-
-114009	
-114015	
-114018	
-
-
-114024	
+113987	epic/ionic
+113989	attic/ionic
+113991	attic/ionic
+113995	doric
+113997	doric
 114026	epic/doric
-114028	
-
-attic
-
-
+114030	attic
 114034	epic
 114037	attic/epic/doric/ionic
-
-114040	
-114046	
-
 114052	doric
-
-
-114057	
-
-doric
-
+114059	doric
 114062	doric
-
-
-
-
-ionic
+114068	doric/aeolic
+epic
+114074	attic
+attic/epic/ionic
 doric/aeolic
-
-114072	
-
-attic
-doric
-doric/aeolic
-114079	
 114081	doric/aeolic
 114085	epic
 114087	doric/aeolic
-114089	
-114091	
-114094	
-attic
-
-114099	
-epic
-
+114095	attic
+114100	epic
 114103	epic
-epic/ionic/doric/laconia
-attic
-
-114108	
-attic
+114105	attic
+114109	attic
 attic
 114112	attic/epic/doric
-114115	
 114118	doric/aeolic
-
 114122	doric/aeolic
-
-
-114128	
-
-
-
-
-
+114128	doric
 doric
-
-114140	
-
-114144	
-
-
-doric/aeolic
-
+114134	epic
+114147	doric/aeolic
+114149	doric/aeolic
 doric/aeolic
 doric/aeolic
-doric/aeolic
-
-attic/epic/doric/ionic
-114159	
+114153	attic/epic/doric/ionic
 114162	epic/doric/aeolic
 114165	attic/epic/doric/ionic
-
-114170	
-114173	
-
-attic/epic/ionic
-
-epic
-
+114177	epic
 114181	doric/aeolic
-
-
-attic/epic/doric
-114186	doric/aeolic
-114189	
-
-114193	
-epic/doric/aeolic
-114196	
-
-114205	
-
-114208	
-114212	
-
-114215	
-
-
-attic/epic/ionic
-
-
-
-
-attic/epic/ionic
-
-
-114227	
-doric/aeolic
-114230	
+114184	attic/epic/doric
+114186	attic/epic/doric
+114194	epic/doric/aeolic
+114218	attic/epic/ionic
+114223	attic/epic/ionic
+114228	doric/aeolic
+114230	epic/doric/ionic/aeolic
 114234	doric/aeolic
-
-
-114240	
 114244	epic
 attic/ionic
-114250	
-ionic
-114254	ionic
+114255	doric/aeolic
+114258	doric/aeolic
 doric/aeolic
-
-ionic
-doric/aeolic
-doric/aeolic
-114263	
-
-114266	
-
-
-114273	ionic
-doric/aeolic
-
-114277	
-ionic
-
-114282	
-
-
-114286	
-
-114289	
-114291	
+114274	doric/aeolic
 114294	doric/aeolic
 doric/aeolic
-
-
-epic
-
-114301	
-114303	
-
-
-
-
-
-114310	
-
+114298	epic
 114314	attic/epic/doric
-doric/aeolic
-114317	
 114320	epic/ionic/attic/doric
-
-
-attic/epic/ionic
-
-
+114323	attic/epic/ionic
 114329	doric/aeolic
-114332	
-
-
-114336	
-114338	
-114340	
-114344	
-114346	
-114352	
-
-doric/aeolic
-114356	
-
+114354	doric/aeolic
 114360	epic
-114362	
-
-
 114366	attic/epic/doric
-
-114369	
-ionic
 114372	doric/aeolic
-
-114375	
-114377	
-
-ionic
-114382	
 114384	attic/epic/ionic
 doric/aeolic
 114388	doric/aeolic
-114393	
-114395	
-114397	
-114399	
-
 114402	attic/epic/doric
-
-114408	
-
-114413	
-114417	
-114420	
-
-
-attic
-114425	
-
+114423	attic
 114429	epic/doric
-114431	
-
 114435	attic
-
-
-114439	
-
-114442	
-epic/doric/aeolic
+114443	epic/doric/aeolic
 114446	doric/aeolic
 114449	attic/epic/ionic
-
-114453	
-doric/aeolic
+114454	doric/aeolic
 114457	doric
-
-114461	
-
-114465	
-
-114468	
-epic/doric/aeolic
+114469	epic/doric/aeolic
 attic/epic/doric
 114472	epic/doric
 attic
-
-
-
-
-114480	
-doric
+114481	doric
 114485	doric/aeolic
-
-
-114490	
+114491	attic
 attic
-attic
-
-
-114496	
-
-
-
-attic/epic/ionic
-
-
-
-
-114507	
-114510	
-attic/epic/doric
-
-
-
-
-114522	
-
-
-
-
-
-
+114500	attic/epic/ionic
+114511	attic/epic/doric
 114530	attic/epic
-114533	
-
-114536	
-
-
-
+114540	doric/aeolic
+114546	attic/epic/ionic
+114548	doric/aeolic
 doric/aeolic
-
-
-
-
-
-attic/epic/ionic
-
-doric/aeolic
-doric/aeolic
-
-
-
-
-
-doric/aeolic
-
-attic
-
-114561	
-epic/ionic/attic
-
-
+114555	doric/aeolic
+114557	attic
+114562	epic/ionic/attic
 114567	attic/epic/doric
-
-
-
-
-114575	
 114577	epic
 114580	attic/epic/doric
 attic/epic/doric
 114583	doric/aeolic
-114585	
-
-114588	
 114590	attic/epic
 attic/epic
-114593	
 114595	epic
-114597	
-
-attic/epic
-
-
-
-
-
-
-
-
-
-doric
-
+114599	attic/epic
+114609	doric
 114612	doric/aeolic
-
 114616	doric/aeolic
-
-
 114621	doric/aeolic
 114624	doric
-
-114627	
-
-114630	
-
-attic/ionic
-
+114627	doric
+114632	attic/ionic
 114636	attic/epic/doric
-114639	
-
 114642	epic/doric/aeolic
-
-
 114646	attic/epic/doric
 114651	attic/epic/doric
-114653	
-doric/aeolic
+114654	doric/aeolic
 epic/ionic
-
-114658	
-attic
-114661	
-epic/doric/ionic/aeolic
-
-epic
-114673	
-114676	
-epic
-
+114659	attic
+114662	epic/doric/ionic/aeolic
+114664	epic
+114677	epic
 114682	attic/epic/doric/ionic
-
-
-
-114687	
-epic/doric/aeolic
+114688	epic/doric/aeolic
 114691	doric
-114694	
-attic/ionic
-
-doric
-
-doric
-114702	
+114695	attic/ionic
+114697	doric
+114699	doric
 114704	attic/epic
-
-114708	
 114710	doric/aeolic
-114712	
 114714	doric/aeolic
 doric/aeolic
 114720	doric/aeolic
 114722	doric/aeolic
-
-114725	
-attic/epic/ionic
-
-
-
+114726	attic/epic/ionic
 114731	attic
-
-doric/aeolic
+114733	doric/aeolic
 114735	attic
 114737	attic/epic
-114739	
-
-
-114743	
-
-epic
-
-
-
-doric/aeolic
+114745	epic
+114749	doric/aeolic
 114752	doric/aeolic
-
-
-
-
-
-
-114760	
-attic/epic
-
-
-
-
-
-114768	
-
+114761	attic/epic
+114777	doric/aeolic
 attic/epic/ionic
-114773	
-
-
-
-doric/aeolic
-
 114781	doric/aeolic
-
 114784	doric/aeolic
 114786	attic
-
-
-
-114791	
-attic/epic/ionic
-doric
-114795	
+114793	doric
 114797	attic
-
-114800	attic/epic/ionic
 114802	attic/epic/doric/ionic
-
-
 114807	doric/aeolic
 114809	doric/aeolic
 doric/aeolic
 doric/aeolic
-114814	doric/aeolic
-114818	
-attic/epic
+114819	attic/epic
 114824	doric
 114827	doric/aeolic
 114829	doric/aeolic
 attic
-114832	
-114834	
-
-
-attic
-114841	
-
-
-doric
-
-
-attic/epic/ionic
-
-114850	
-
-114853	
-attic/epic/ionic
-
-epic
-
-attic/epic/doric/ionic
+114837	attic
+114844	doric
+114847	doric/aeolic
+114854	attic/epic/ionic
+114856	epic
+114858	attic/epic/doric/ionic
 114860	attic/epic
-114862	
-
-attic/epic/ionic
+114864	doric/aeolic
 doric
-114867	
-attic/epic
-
+114868	attic/epic
 114872	epic
-
-114876	
-epic
-
-attic
-114881	
+114877	epic
+114879	attic
 114885	attic/epic
-
-114891	
-
-114894	
-114898	
+attic/epic/ionic
+114892	epic
 114901	epic
-114903	
-doric/aeolic
-
-
-114913	
-114915	
-114918	
-
-doric
+114904	doric/aeolic
+114920	doric
 attic
-
-
-
-
-
-epic
-
-
-114931	
-
+114927	epic
 114934	doric/aeolic
-
-114937	
-
-epic/ionic
-
-
-
-114947	
-
-epic/ionic
-114951	
-
-
-attic
-
-attic
-
-
-
-114961	
-
-114964	
-114968	attic/epic/ionic
-
-
-
-114974	
-114977	
-
-
-114981	
+114939	epic/ionic
+114941	epic
+114949	epic/ionic
+114952	doric
 epic
-
-
-114986	
-
-114989	
-114991	
-114994	
+attic
+114956	attic
+114968	attic/epic/ionic
+114982	epic
 114996	attic/epic
 114998	doric/aeolic
 115002	doric/aeolic
 doric/aeolic
-
-epic
-115007	
-115009	
-
-115012	
+115005	epic
 115015	doric
 doric/aeolic
 attic
 doric
-
-
-
-115024	
-
-115028	
-115031	
-
-
-
-115038	ionic
-115040	
+115025	doric/ionic
+115040	attic/epic
 115043	doric/aeolic
 doric/aeolic
-115046	
 115048	doric
-
-
-
-115053	
-
-115058	
-115060	
-epic
-
-ionic
-doric/aeolic
+doric
+115061	epic
+115064	doric/aeolic
 epic/ionic/doric/aeolic
 doric/aeolic
-
-
-
-attic/epic/doric
-115072	
-
-115075	
+115070	attic/epic/doric
 115077	doric/aeolic
-115079	
-
-
-attic/ionic
+115082	attic/ionic
 attic
-115085	
 115087	epic/doric
-115089	
-
-attic
-115094	
-115096	
-attic/epic
-115100	
-
-115104	
+115091	attic
+115097	attic/epic
 115108	attic/epic
-115110	
-115112	
-115115	
-
 115118	doric
 115120	doric/aeolic
-
-
-115124	
-115126	
-attic
-
-attic/epic/doric
+115127	attic
+115129	attic/epic/doric
 attic/epic
-
-
 115134	doric/aeolic
-
-
-
-
-115140	
-
-
 115144	doric/ionic
 115149	epic/ionic/attic
-115152	
-115155	ionic
-115160	
-
-115164	
+115165	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-attic/ionic
-115170	
-attic
-
-attic
-ionic
-
-doric/aeolic
-115179	
+115168	attic/ionic
+115171	attic
+115173	attic
+115176	doric/aeolic
 115181	epic/ionic
-
-
-doric
-
-
-
-115189	
-
-115192	
-
-
-115197	
-
-doric/aeolic
-
-attic/epic
-
-115204	
-
+115184	doric
+115192	epic
+115199	doric/aeolic
+115201	attic/epic
+115205	epic
 115207	doric/ionic
-
+115209	attic/epic/doric
+115211	doric/ionic
+115220	attic
 attic/epic/doric
-115211	
-
-115218	
-
+115224	attic
 attic
-attic/epic/doric
-
-
-attic
-attic
-
-
-115229	
-115231	
-
-115234	
-
-
-115240	
-115242	
-
-
-doric/aeolic
-
-115250	
-
-115253	
-attic/epic/doric
-115257	
-115259	
-
-
+115245	doric/aeolic
+115254	attic/epic/doric
 115263	epic/ionic
-
-115266	
-attic
+115267	attic
 115272	doric/aeolic
-115276	
-
-
-
-
-epic/doric
-115283	
-
+115281	epic/doric
 115286	doric/aeolic
-
-
-doric/aeolic
-115291	
+115289	doric/aeolic
+115291	epic
 115295	doric/aeolic
-
-
-115301	
-
-doric/aeolic
-
-
-115307	
-115309	
-
-115312	
-
-115315	
-
-115318	
-
-
+115303	doric/aeolic
 115323	epic/ionic/attic
 115325	attic/epic/doric
-115327	
-
-
-115331	
-attic/epic/ionic/doric
-
-
-
-115337	
-doric/aeolic
+115332	attic/epic/ionic/doric
+115338	doric/aeolic
 attic/epic/doric
-115342	
-
-ionic
+115344	ionic
 attic/epic/doric
 epic/ionic
-
-
-
-
-
-115353	
 115355	attic/epic
 epic
-
-attic/epic/doric
-
-115361	
-
-
-
-
-115367	
-
-115370	
-115372	
-115374	
-doric
-
-115378	
-
-
-
-
-115385	
+115358	attic/epic/doric
+115375	doric
+115382	doric
 115387	doric
-
-115390	
-
-
+115391	epic
 115394	epic/doric
-
-doric
-115398	
-115400	
-115402	
-
-
-attic
-
-
+115396	doric
+115405	attic
 115409	doric/aeolic
-
-attic/epic/doric
-
-attic
+115411	attic/epic/doric
+115413	attic
 115415	attic
-
-attic
-
-
-attic
+115417	attic
+115420	attic
 115422	epic/doric
-115425	
+115425	doric
 doric
-
-115429	
-115431	
-
 115434	epic
 115436	epic/ionic/attic
-
-
 115441	attic
-
-115444	
-115446	
-115449	
 115451	attic/ionic/epic/doric
-115455	
+115455	doric/ionic
 115458	doric/aeolic
-115463	
-115465	
-
-
-attic/epic
-115472	
-115474	
-
-115478	
-ionic
-115482	
-115484	
-doric/aeolic
-115487	
-attic/epic/doric
-115490	
+115465	doric
+115468	attic/epic
+115479	ionic
+115485	doric/aeolic
+115488	attic/epic/doric
 115493	epic/doric/aeolic
 doric/aeolic
-
-115497	
-
-
-attic/epic/doric
+115500	attic/epic/doric
 epic
-
-
 115505	attic/epic/doric
-115508	
 115511	attic/epic/doric
 epic
-
-ionic
-115520	ionic
-115525	
-115527	
-ionic
 115530	attic/epic
-
-epic/doric/ionic/aeolic
-
-
 115536	attic/epic/doric
-
-115543	
-
-attic/epic/doric
-115548	
-115553	
-
-115560	
-115562	
-
-115565	ionic
+115545	attic/epic/doric
 115568	attic
-115571	
-115577	
-
 115583	doric/aeolic
-
-115587	
-
-115590	
-115592	
-
-115595	
-115598	
-115602	doric/aeolic
-
-115605	attic/epic/ionic
-115609	
-doric
-
 epic
-
-
-115616	
+115602	doric/aeolic
+115605	attic/epic/ionic
+115610	doric
+115612	epic
 115619	attic/epic/doric/ionic
-115622	
-115628	
-115630	
-115636	
-115638	
-115640	
-doric/aeolic
-
-
-attic/epic/doric/ionic
-115646	
-115648	
-attic/epic/doric
+115641	doric/aeolic
+115644	attic/epic/doric/ionic
+115649	attic/epic/doric
 epic/doric/aeolic
-
+115652	attic/epic/doric
+115656	doric
+attic
 attic/epic/doric
-
-
-
-
-
-attic/epic/doric
-115661	
-115663	
-doric
-
-
+115664	doric
+115666	attic/epic
 115668	epic
-
-115671	ionic
-doric/aeolic
-
-
+115672	doric/aeolic
+115674	epic
 115678	doric/aeolic
-
+doric/aeolic
 115681	attic/epic
-
-115684	
-115687	
-
-
-
-115692	
+doric
 115694	attic/epic/doric
-115698	
-115700	doric
+115700	attic/epic/ionic
 epic/doric/ionic/aeolic
 115703	doric
 epic
-
-doric/aeolic
-
+115706	doric/aeolic
 115709	epic
-115712	
-115714	
+115714	doric/aeolic
 attic/epic/doric/ionic
-115717	
+115717	epic
 attic
-
-
-
-
-ionic
-
 115726	attic/epic/doric
 attic
-
-
-
+115730	doric
 115732	doric
 115734	doric/aeolic
-115738	
-115740	
-115742	
-epic
-
+115743	epic
 115746	attic/epic/doric
 epic/doric
 115749	attic/epic
 115751	doric
-
-doric/*theocr.
+115753	doric/*theocr.
 attic/epic/doric
-115757	
-
-
-
-115763	
-
-
-
-epic
-
-
-
-115774	
-
+115767	epic
 115778	epic
 115780	doric
-115783	
-attic/epic/ionic
-
-
-doric
-
-
-attic/epic
-115792	
-
-
-
-115797	
-
-
+115784	attic/epic/ionic
+attic/epic/doric
+115787	doric
+115790	attic/epic
 115803	epic/attic/ionic
-
-
-
-
-115810	
-
 115814	attic
-
-115817	
+115817	epic
 115820	attic
 epic/ionic/attic
 epic
 115824	doric
-
-115828	
-
 115831	doric
 epic/ionic/attic
-115835	
-115837	
-
-
-115842	
-
-
-115846	
-ionic
-doric/aeolic
-
-115851	
-115853	
-
-
-115857	
-
-
-115863	
-115865	
-
+115848	doric/aeolic
+115855	epic
+115859	doric
 115870	doric
-
-
 115875	attic/epic/doric
-
-attic/epic/ionic
+115877	attic/epic/ionic
 115879	doric/aeolic
-
-115883	
-
-
-
-
-
 115891	attic/epic/doric
 epic
-115895	
 115898	attic/epic/doric
 attic/epic/doric
-115901	
-
-
-115906	
-115908	
-115910	
-
-epic/doric/aeolic
-115918	doric
-115920	
-
-
-
+115912	epic/doric/aeolic
+115923	epic
 attic
 epic/ionic/attic
-
-115929	
-
-attic
+115931	attic
 epic/ionic/attic
-115936	
-115938	
 115942	epic/ionic/attic
-
+epic
 115945	attic
 epic/doric
 attic/epic/doric
 doric/aeolic
-
-
 115953	attic/epic/doric
 115955	doric/aeolic
-115960	
-
-
-115966	
 115968	doric/aeolic
-115970	
-ionic/epic
-
-115975	
-ionic
+115971	ionic/epic
 115979	doric/aeolic
 doric/aeolic
 attic
-115983	
 115986	epic/doric/aeolic
 115989	doric/aeolic
-115992	
 115995	attic/epic/doric
 115998	attic/epic/doric
-
-116005	
-
-116008	
-
-attic/epic
-116013	
-116015	
-
-
-attic/epic
-116020	
-
+116010	attic/epic
+116018	attic/epic
 116024	doric/aeolic
-
-doric
-
-116029	
-
-doric/ionic
-
+116026	doric
+116031	doric/ionic
+116033	attic
 attic
-attic
-
-attic/epic/ionic
+116036	attic/epic/ionic
 116040	ionic
-
-
-
-
-116046	
-attic/epic/ionic
-116050	
-116052	
-
-
-attic/epic
-116057	
-
-
-ionic
-doric/laconia
-
-
-
-116066	
-epic
-
-116071	
-
-ionic
+116047	attic/epic/ionic
+116055	attic/epic
+116061	doric/laconia
+116067	epic
+116073	ionic
 116076	doric/aeolic
 116078	doric/aeolic
-116084	
 116086	doric
 attic/epic/ionic
-116090	
-116094	
 116096	doric/aeolic
 116098	doric
-
-doric
-
-doric/aeolic
+116100	doric
+116102	doric/aeolic
 doric/aeolic
 ionic/doric/aeolic
 epic/doric
-
-
-attic/epic
-116110	
+116108	attic/epic
 116112	doric
 attic
-116115	
-
-
-attic/epic/doric
-attic
-
-
-epic/doric
-
-
-116126	
-
-116129	
+116119	attic
+116122	epic/doric
 116131	doric/aeolic
-116134	
-
-
-116138	
 116140	attic/epic/ionic
-
-ionic
-116145	
+116142	ionic
 116147	doric/aeolic
-
-
-
-116152	
-
-doric
-
-
-116158	ionic
-116161	
-
-116164	
-
-116167	epic
-
-epic/doric
+116154	doric
+116167	doric/aeolic
+116169	epic/doric
 ionic
 doric/aeolic
-
-
-attic/epic
-116176	
-
+116174	attic/epic
 116179	doric/aeolic
 attic/epic
 116184	doric
-116186	
 116189	attic/epic
-
-
-116193	
-
-epic/doric
+116195	epic/doric
 ionic
-116198	
-attic/epic/doric
+116199	attic/epic/doric
 116201	attic
-
-116206	
-116209	
+116206	doric/aeolic
 116211	doric
 attic/epic/ionic
-
-attic/epic
-
+116214	attic/epic
 116217	doric/aeolic
 116219	doric
-
-doric
-
+116221	doric
+attic/epic/ionic
 doric/aeolic
 doric/aeolic
 ionic/doric/aeolic
 epic/doric
-
-
-attic/epic
+116229	attic/epic
 116231	doric
 116234	attic
-116236	
-116238	
-116240	
-
-
-
-
+116242	epic
 116248	doric/aeolic
-
+attic/epic
 116251	attic/epic/ionic
-
-
-doric
+116254	doric
 epic
-
-
-
-
-116262	
-116264	ionic
-116267	
-
-
-116273	
-
-
 116279	doric/aeolic
-116282	
-
-116285	
-116287	ionic
-116290	
-
-
-
-epic/doric
-116303	
-
-
+116294	epic/doric
 116309	epic
-
-116312	
-attic/ionic
-116316	
-116318	ionic
-116321	
+116313	attic/ionic
 116324	epic/doric/aeolic
-
-116327	
-
-doric
-
-
-116333	ionic
-116336	
-116338	
-epic
-
-
-attic
+116329	doric
+116339	epic
+116342	attic
 116344	epic/doric/aeolic
-116346	
-
 116349	doric
-116351	epic/doric/ionic/aeolic
-
-
-116355	
-
-
-
-doric
-
-116362	
-epic
-
-116366	
-
-116369	
-116371	ionic
-116374	
-
-116378	
-116380	ionic
-116383	
-
-116386	
-
+116359	doric
+116363	epic
 116389	doric/aeolic
-116391	
-
-doric
-116395	
-116397	
-
+116393	doric
 116402	epic/ionic/doric/aeolic
 116404	doric/aeolic
 116406	doric
-
-doric
-
-doric/aeolic
+116408	doric
+116410	doric/aeolic
 doric/aeolic
 ionic/doric/aeolic
 epic/doric
-
-116417	
-
-
-
-
-doric
-116424	
-
-
-
+116420	attic
+116422	doric
 116430	attic/epic
 116432	attic
-
-
-116437	ionic
-116440	
-116443	
-
-
-epic
-
-116449	
-
-
-
-116457	ionic
-116461	
-
-
-attic/epic
-
-
-116468	
-116470	
-
-116473	
+116446	epic
+116464	attic/epic
 116475	attic
-
 116478	doric/aeolic
-116481	
-
+116482	attic/epic/ionic
 doric/aeolic
-
 116486	attic/epic/doric
-116489	
-116492	
-
+116493	doric
 116498	doric
 116500	doric/laconia
 ionic
-116503	
 116505	epic/doric/ionic/aeolic
 doric/aeolic
-epic/ionic/doric/laconia
-
-
-116511	
-116513	
-116516	
-116518	
-attic
-
-116526	
-116528	
+116519	attic
 116532	attic
-
-116536	
-
-116539	
-116541	
-
-
-116546	
-
-116549	
-
-116554	
-116557	
-
-attic/epic
-
-116562	
-
-attic/epic/doric
-
-116567	
-
-ionic
-
-doric/aeolic
+116559	attic/epic
+116564	attic/epic/doric
+116571	doric/aeolic
 116574	ionic/epic
-
-
-116578	
-
-doric
-
-116584	
-
-
-116588	
+116580	doric
+116588	doric
 116590	epic/doric/ionic/aeolic
-
-
 116596	attic/epic/doric
-116599	
-116602	
-doric/aeolic
-116607	
-116609	
-attic
-116614	
-
-116617	
-
-116620	
-
-
-
+116603	doric/aeolic
+116610	attic
 116625	doric/ionic
 doric/aeolic
 attic/epic/doric
-
-attic
-
-116636	
-
-
-116644	
-
+116629	attic
 116648	epic
-
-
 116652	attic/epic/doric
-116655	
-116658	
-116660	
 116662	epic
-ionic
-116666	
-116671	
 116673	ionic
-116676	
-attic/epic
-
+116677	attic/epic
+doric
 116680	doric/aeolic
-116683	
-116686	
-epic/ionic/attic
-
-doric
-
-116692	
-
-116696	
+116687	epic/ionic/attic
+116689	doric
 116698	ionic/doric/aeolic
-116700	
+116700	doric/ionic
 epic
-116704	
-116711	attic/epic/ionic
 116713	attic/epic/doric/ionic
-
-
-
-
-
-
-attic
-
-ionic/epic
-
-116727	
-
+116720	attic
+116722	ionic/epic
 116730	attic
-
 116735	attic/epic
-
-116746	
+116746	epic
 116750	doric/aeolic
-
-attic
+116752	attic
 116754	epic/doric
-
-
-116760	
-
-attic
-
+116762	attic
 116766	doric/aeolic
-116769	
-
-doric/aeolic
-116774	
-
-116777	
-epic/ionic/attic
-116783	
-116786	
-
-doric/aeolic
-
-
-116793	
-116795	
-
-116799	
-
-116802	
+116771	doric/aeolic
+116778	epic/ionic/attic
+116788	doric/aeolic
+116790	epic
+116800	doric
 116808	attic
-
-116811	
-116815	
-116817	
-116819	
-
-
-epic
-116825	
-
-116830	
+116822	epic
+116830	doric
 doric
-116833	
-116835	
-
 116839	epic
-116841	
-
-116844	
-116850	
+116850	doric
 116852	ionic
-116859	
-116861	
-116863	
 116865	attic/epic
-
-116870	
+doric
 116872	attic/epic
-ionic
-doric/aeolic
-
-
+116874	doric/aeolic
 116879	attic
-
-116882	
-attic/epic/ionic
-116885	
-attic/epic/doric/ionic
-116890	
-116892	
+116883	attic/epic/ionic
+116886	attic/epic/doric/ionic
 116894	attic/epic/doric/ionic
-116896	
-
-116902	
-
-
-attic
-
-attic/epic/doric/ionic
+116905	attic
+116907	attic/epic/doric/ionic
 116909	doric/aeolic
 116914	ionic
 116916	doric/*theocr.
-116919	ionic
-116921	
-116923	
-epic/doric
-116926	
-attic/epic
-116929	
-
-
+116924	epic/doric
+116927	attic/epic
 116934	attic/epic/doric
-
-116938	
 116940	doric
 attic
 attic/epic/doric
 epic/doric
 116946	doric
 doric/*theocr.
-116949	ionic
 116951	doric/aeolic
-
-
 116955	attic/epic/doric
 116957	attic/epic/doric
-
-116960	
-epic/doric
+116961	epic/doric
 116968	doric/aeolic
-116973	
-
 116977	doric/aeolic
-116979	
-
-116983	
-attic/epic/doric
+116980	epic
+116984	attic/epic/doric
 doric/aeolic
 doric/aeolic
 attic/epic
-116991	
-116993	
-116998	
-117001	
-
-
-
-
-
-
 117009	attic/epic/doric
-
-
-117014	
-117017	
-epic
-117020	
-attic
+117018	epic
+117021	attic
 117023	epic
-117025	attic/epic/ionic
-
-
-doric/aeolic
-ionic
-epic
-
-117033	
-117035	
-117037	
-117039	
-117041	
-117043	
-117045	
-117047	
-
-117051	
-
-117056	
-117058	
-117060	
-doric
+117025	doric/aeolic
+117028	doric/aeolic
+117030	epic
+117052	epic
+117061	doric
 epic/ionic
-
-
-117066	
 117068	attic/epic/ionic
-117071	
-doric/aeolic
-
-117075	
-doric/aeolic
-
+117072	doric/aeolic
+117076	doric/aeolic
+doric
 117079	doric
-117082	ionic
-117084	
-attic
-117089	
-
-
-
-
+117085	attic
 117097	ionic/epic
-117099	ionic
-117104	
 117106	ionic/epic
 117108	epic
 attic
-
-attic
-
-
-attic/ionic/epic
+117111	attic
+117114	attic/ionic/epic
 117116	doric
-
 117119	doric/aeolic
-
-
-117123	
 117127	attic/epic/ionic
-
-117132	
 117135	ionic/epic
 117140	ionic/epic
-117142	
 117144	ionic/epic
 doric
-117150	
-
+117150	doric/aeolic
 117153	attic/epic/ionic
-117155	
 117158	attic/epic
 117160	attic
-
-attic/epic/doric/ionic
+117162	attic/epic/doric/ionic
 epic
-ionic
 117166	epic/ionic
-
 117172	attic/epic/ionic
-117175	
-
-117178	
-117181	
-117183	
-
-epic
-
+117185	epic
 117188	doric/aeolic
 117191	epic
-117195	
-117197	
-117202	
-117205	
-117207	
-117209	
-117211	
-117213	
-
-epic/doric/aeolic
-117219	
+117215	epic/doric/aeolic
+117220	doric/aeolic
 doric/aeolic
-doric/aeolic
-117225	attic/epic/ionic
-
+117225	doric/aeolic
 117228	attic
-
-attic
+117230	attic
 117236	doric/aeolic
 117238	epic
 epic
-
+attic/epic
 117242	attic/epic/doric
-
-attic/epic/ionic
-117246	
-117253	
-doric/aeolic
-117259	
-
-
-attic
+117244	attic/epic/ionic
+117254	doric/aeolic
+117262	attic
 117264	epic/doric/aeolic
-
-attic/ionic/epic/doric
-
-117269	
+117266	attic/ionic/epic/doric
 117272	epic/doric/ionic/aeolic
-
+epic
 117276	attic/epic/ionic
 epic/doric/aeolic
-
-
-117284	
-117286	
-
-117291	
-
-
-117295	
-
-117300	
 117304	attic/epic/ionic
-
-doric
-117308	
-epic/doric/ionic/aeolic
-117312	
-117314	
-
-doric
-
-attic/ionic/epic/doric/aeolic
+117306	doric
+117309	epic/doric/ionic/aeolic
+117316	doric
+117318	attic/ionic/epic/doric/aeolic
 117320	doric/*theocr.
 117322	attic/ionic/epic/doric/aeolic
 attic/epic
-
-
-117327	
-
-doric/aeolic
+117329	doric/aeolic
 epic/doric/aeolic
-
-
-
-ionic
-117337	
-
-117340	
-117342	epic/doric/ionic/aeolic
-
-117345	
-117347	
-
-117352	
-epic
-117356	
-
-
-
+117353	epic
 117361	epic/doric/aeolic
 doric/aeolic
-
 117365	attic/epic/ionic
 117367	attic/epic
-117369	
 117371	epic
-ionic
-117375	
 117379	epic/doric/ionic/aeolic
 117383	attic/epic/ionic
-
-
-117388	
-117390	
-117394	
-
-doric/aeolic
+117385	epic
+117396	doric/aeolic
 117401	doric/*theocr.
 117403	attic/epic
-
-epic/doric/ionic/aeolic
-117407	
-
-117410	
-
-117415	
-epic
-
-117419	
-117421	
-
-
+117416	epic
+117423	epic
 attic
-
-117429	
-117431	
-
 117434	epic
-ionic
-117438	
 117443	epic/doric/aeolic
-117445	
-epic/doric/ionic/aeolic
-
 117449	attic
 epic
-117452	
-
-117455	
+117453	epic
 117457	attic/epic/doric
-
-117460	
+117460	epic
 117462	attic/epic/doric
-117464	ionic
-117467	
-
 117470	attic/epic/ionic
-117474	ionic
-117476	
-doric/aeolic
-117481	
-attic/epic
-
-117485	
-ionic
-117489	
-
+117477	doric/aeolic
+117482	attic/epic
 117493	attic
 117496	ionic/epic
-
-117501	
-
-
-117506	
-
-117510	
-
 117513	doric
 epic/doric
-117516	
-
-
-
-
-
-
-epic/doric/ionic/aeolic
-117526	
-attic
+117523	epic/doric/ionic/aeolic
+117527	attic
 117531	attic/ionic/epic/doric
-117534	
-
-
-117538	
-epic
+117539	epic
 parad_form
 117542	doric/aeolic
-
-117547	
-117549	
-117551	
-117553	ionic
-117556	
-
-117559	
-117561	
-117563	
-117567	
-ionic
+117568	ionic
 attic
-
-117573	
-117575	
-
-
 117581	doric
-117585	
-
-
-
 117592	ionic/epic
-ionic
-117597	
+117597	doric
 117599	epic/doric/ionic/aeolic
 doric
-117602	
-117604	
-117607	
-
-
 117612	epic/doric/aeolic
-
-attic/epic/ionic
-117616	
+117614	attic/epic/ionic
+117616	attic
 epic/doric/aeolic
 epic
 attic
-
-
-
-
-
 117629	ionic
 epic
-
-
-117635	
-
-attic/epic/doric
-117639	
-epic/doric/aeolic
+117637	attic/epic/doric
+117640	epic/doric/aeolic
 117642	epic
-
-
-
-117647	
-117649	
-
-
-attic/epic
-
-117656	
-117658	
-117666	
-117670	
-117672	
-attic/epic/ionic
+117652	attic/epic
+117673	attic/epic/ionic
 117675	epic/doric/aeolic
-117677	
-
-
-117685	
-attic/epic/doric
+117678	attic
+117686	attic/epic/doric
 doric/aeolic
-117689	
-
-117692	
-
-117698	
 117701	doric/aeolic
 117703	doric/aeolic
-
-
-117709	
-117711	
-
-
-
-117716	
-117719	
-117722	
-attic/epic/ionic
-
-
-117727	
-117729	
-
-117732	
-
-117735	
-
-
-
-117740	
+117723	attic/epic/ionic
 117743	epic
 attic/epic
-117747	
+117748	doric/aeolic
 doric/aeolic
 doric/aeolic
-doric/aeolic
-
-
-epic/doric
-
-
-ionic
+117753	epic/doric
 117758	doric/aeolic
-
-117761	
-ionic/doric/aeolic
-
-
+117762	ionic/doric/aeolic
 117767	epic
-
-ionic
-
-117775	ionic
-117778	
-
-117784	
-117789	
-
-117793	
-
 117796	epic/ionic/attic/doric
-117798	
-
-
-117802	
-
-attic
+117800	doric
+117804	attic
 epic
-117808	
-117810	
-
-
-
-
-doric
-117817	
-attic/epic
+117815	doric
+117818	attic/epic
 attic/epic
 attic/epic/ionic
 epic/doric/aeolic
 117823	attic/epic/ionic
-117826	
-117828	
-117835	
-attic/epic/ionic
-117838	
-117840	
-
-
-doric/aeolic
-117846	
-attic/epic/ionic
-
-
-attic/homeric/ionic
-
-
-117854	
-
-117857	
-epic/doric/ionic/aeolic
-
-
-117862	
-
-
-117867	
+117836	attic/epic/ionic
+117840	doric
+117843	doric/aeolic
+117847	attic/epic/ionic
+117850	attic/homeric/ionic
+doric
+117858	epic/doric/ionic/aeolic
 117869	doric/aeolic
-
-attic/epic/ionic
-
-
-
-attic/epic/doric/ionic
-117884	
-
-
+117871	attic/epic/ionic
+117875	attic/epic/doric/ionic
 117888	attic/epic
 attic/epic/doric/ionic
-117891	
-117893	
-117896	
-attic/epic/ionic
-117899	
-117903	
+117897	attic/epic/ionic
+117903	attic/epic/doric
 117907	doric/aeolic
-
-117910	
-
-
-
 117916	attic/epic
-
-117922	
-ionic
 117926	attic/epic/ionic
-
-
-117930	
-
-
-doric/aeolic
+117928	epic
+117933	doric/aeolic
 doric/aeolic
 attic/epic/doric
-ionic
 117939	doric
 117941	attic
 attic
-117944	
-ionic/epic
-
-117949	
-
-
-
-117954	
-attic
+117945	ionic/epic
+117955	attic
 117960	attic
 117962	attic
-
-117967	
-
-
 117972	attic/epic/ionic
 doric
 117975	attic/epic/ionic
 117977	doric/aeolic
-ionic
-117980	
-117982	
-117986	
+117986	doric
 117988	doric/aeolic
-117990	
-doric/aeolic
-
-epic
-
-117996	
-
-
-epic
+117991	doric/aeolic
+117993	epic
+117999	epic
 118003	epic/ionic/attic/doric
-118007	
-
-118010	
-
 118014	ionic/epic
-
-
-
-
-118022	
-doric
-
-118028	
-118032	ionic
-118035	
-118037	
-
+118018	epic
+118023	doric
+118038	epic
 118040	attic
-
-118043	
-118045	ionic
-
-
-doric
+118048	doric
 epic
-118051	
-118054	
-
-118057	
 118061	attic/epic/doric/ionic
-118064	
-118070	
-
-118073	
-attic
-
-118077	
-118079	
-118081	
-
-attic/epic
-
-attic/epic/doric/ionic
+118074	attic
+118077	epic
+118083	attic/epic
+118085	attic/epic/doric/ionic
 118087	epic
-
-
-
-epic
-ionic
-118095	
-doric
-epic/doric/ionic/aeolic
-
+118091	epic
+118096	doric
+118098	epic
 118101	doric
 118105	epic/ionic/attic
-118107	ionic
-epic
-
-
-
-attic/epic/ionic
+118108	epic
+118112	attic/epic/ionic
 118114	epic/ionic
 118116	doric/aeolic
 attic/epic/doric
-
-118121	
-
 118127	doric/aeolic
 118129	attic
-118133	
-
-
-
-
-
-
-
-attic/epic/ionic
-
-118145	ionic
-
-attic/epic/ionic
-118153	attic/epic/ionic
-
-
-118157	
-
-
+118141	attic/epic/ionic
+118147	attic/epic/ionic
+118153	doric/aeolic
 118161	attic/epic
-118163	
-118165	
-
-
-118169	
-
-
-118177	
-118179	
-118183	
-118187	
-118190	
+118179	doric
 118193	doric/*theocr.
 118196	epic/doric
-
-118201	
-118204	
-
-doric/aeolic
-118208	
-attic/epic
-
-doric/aeolic
-118215	
-
-
-118219	
-118221	
-118224	
-
+118206	doric/aeolic
+118209	attic/epic
 118227	epic/doric/ionic/aeolic
 doric/aeolic
-118230	
-118233	
-
-118236	
-118239	
-118241	
-doric/aeolic
+118242	doric/aeolic
 118244	epic
-
-doric/aeolic
-
-118249	ionic
-118251	
-
-
-
-
-
-118258	ionic
-118263	
-attic/epic
-
-attic
-
-
-
-118271	
-118273	
-118276	
-ionic/epic
-118279	ionic
-
-
-118284	
-
-
-
-attic/epic
-118292	
-
-attic
-118298	
-
-
-118302	ionic
-epic
-118305	
-
-118308	
-
-118313	
-
-118319	
+118246	doric/aeolic
+118264	attic/epic
+118266	attic
+118277	ionic/epic
+118288	attic/epic
+118294	attic
+118303	epic
+118306	epic
 118322	epic/doric/ionic/aeolic
-118325	
-
-118328	
-ionic
-118331	
-attic/epic/doric
+118332	attic/epic/doric
 doric/aeolic
-
-attic
-118337	
-118342	ionic
+118335	attic
+118343	doric/aeolic
 doric/aeolic
-doric/aeolic
-118346	
-
-
-
-
-
-
-118356	
 118362	epic
 doric/aeolic
 epic
-ionic
 118367	epic/ionic
 118369	doric/aeolic
-118372	
-
-
-
-
-doric/aeolic
-
+118375	attic
+118377	doric/aeolic
+epic
 118380	doric
 118383	epic
-
-118390	
 118392	epic/doric/ionic/aeolic
-
-118396	
-118398	
-
-118401	
-attic/epic/doric
+118402	attic/epic/doric
 doric/aeolic
-118406	ionic
-118409	
-doric/aeolic
+118410	doric/aeolic
 118412	doric/aeolic
-
-118421	
-
-
-attic/epic/ionic
-
-
-attic/epic/doric
-
-
-118433	
-
-attic
-
-
-118440	
-
-
-
-
-epic/doric/ionic/aeolic
+118424	attic/epic/ionic
+118427	attic/epic/doric
+118435	attic
+118445	epic/doric/ionic/aeolic
 118447	doric/aeolic
-118451	
-
-
-118455	ionic
-attic/epic/ionic
-118458	
-
-118461	
-epic/doric/aeolic
+118456	attic/epic/ionic
+118462	epic/doric/aeolic
 attic/epic/doric
-
-attic
-
-118468	
-
-
-118472	
-
-118475	
-
-
-118482	
-118484	
-attic
+118465	attic
+118482	epic
+118485	attic
 118487	attic
-
-118490	epic/doric/ionic/aeolic
 118493	epic
 epic/doric/aeolic
 118496	doric
-
 118499	doric/aeolic
 doric/aeolic
 118502	attic/epic/doric
 epic/doric/ionic/aeolic
 118507	attic/epic/doric
 doric/aeolic
-118512	
-
-
-doric/aeolic
-ionic
+118515	doric/aeolic
 118518	epic/ionic
-118520	
-ionic
+118521	ionic
 attic
-
-118525	
-118527	
-118529	
-118531	
-118533	
-doric
-
-118538	
-epic/doric/aeolic
-ionic
+118527	doric
+118534	doric
+118539	epic/doric/aeolic
 118542	epic/ionic
 118545	attic/epic
 118547	attic
-118552	
-
-118558	
 118561	epic
-118564	
+118565	doric/aeolic
 doric/aeolic
 doric/aeolic
-doric/aeolic
-
-
-epic/doric
-
-
-
-ionic/doric/aeolic
-
-118577	
+118570	epic/doric
+118574	ionic/doric/aeolic
 118579	doric/aeolic
-
-
-118584	
-
-
-118588	
-doric/laconia
-
-
-
+118589	doric/laconia
 118597	epic/doric/ionic/aeolic
-118600	
-
-
 118606	doric/aeolic
-ionic
-118610	
-
-
-attic/epic
-
-attic
+118613	attic/epic
+118615	attic
 118618	attic
-
-
 118622	doric
-
+epic
 attic
-118630	
-118632	
-118634	
 118637	attic
-
-118640	
 118642	ionic
-
-
 118647	doric/aeolic
 ionic/doric/aeolic
-
 118651	doric/aeolic
-118656	
-118658	
 118660	doric/aeolic
 118663	doric/aeolic
-
-118666	
 118669	epic
-118671	ionic
 118673	doric
-118675	
-epic
-
-118681	
-118684	
-doric/aeolic
+118676	epic
+118685	doric/aeolic
 attic/epic/doric
-118688	
-
-118691	
 118694	doric
-doric
-118697	
-
-
-118703	
 118705	epic/doric/aeolic
-118707	
-
-118710	
-
-118713	
-118717	
-
-118722	
-
-
-
-
-118728	
-
-
-
-118734	
-
-attic/epic
-118739	
-
+118736	attic/epic
 118743	attic
-
-attic/ionic
-118748	
-118751	
-118753	
-118760	
-attic/epic/ionic
+118745	attic/ionic
+118761	attic/epic/ionic
 doric/aeolic
-118765	
-
-epic/doric/ionic/aeolic
+118767	epic/doric/ionic/aeolic
 attic/epic/doric
-
-118772	
-
-118776	
-
-118780	ionic
-
-
-118784	
 118786	doric/aeolic
-
-doric/aeolic
-
+118788	doric/aeolic
 118793	epic
-118799	
+118799	doric
 118805	attic/epic/doric
-
-118808	
-118813	
 118817	attic/epic/ionic
-
-
-epic/doric
-
-
-
+118820	epic/doric
 118827	attic/epic
 118830	attic/epic/doric
-
+attic/epic/ionic
 doric
 118835	doric/aeolic
 epic/doric
-118838	
 118840	doric/aeolic
 doric
-118843	
-doric/aeolic
-
-118847	
-attic
-
+118844	doric/aeolic
+118848	attic
 118851	epic
 118853	doric/aeolic
-118856	
-
-
-
-118861	
-118863	
-
-
-118867	
-
-
 118871	epic
 118873	doric/aeolic
-118875	
-attic/epic
-
+118876	attic/epic
+118878	doric/aeolic
+118888	doric/aeolic
 doric/aeolic
-
-
-
-118884	
-118887	ionic
-doric/aeolic
-doric/aeolic
-118891	ionic
-epic
-
+118892	epic
 118896	epic/doric/ionic/aeolic
-
-epic/doric/ionic/aeolic
-118900	
-
-
-
-
-118907	
+118898	epic/doric/ionic/aeolic
 118909	attic/ionic
 attic/epic/doric
-118915	
-ionic
-118918	
-
-
-118922	
 118924	attic/ionic
-
-doric/aeolic
-118928	
-
-
-attic/epic
-
+118926	doric/aeolic
+118931	attic/epic
 118934	doric/*theocr.
-118937	
-118939	
 118941	attic/epic/doric
-
-attic
-
+118943	attic
 118950	attic/epic
 attic/ionic
 118954	attic
-
-attic/epic/doric
-118959	
-118964	
+118956	attic/epic/doric
 118972	attic/epic
-
-118977	
-
-
 118981	attic/epic
-118983	
-attic/epic
-
-
+118984	attic/epic
 118990	epic
 118994	attic/ionic
-118997	
-
-119000	
-
-119004	ionic
-doric/aeolic
+119005	doric/aeolic
 attic
 attic
-
 119010	doric/*theocr.
 epic
-119016	
-119020	
-attic/ionic
+119021	attic/ionic
 attic/epic/doric
-119026	ionic
-119028	
-119031	ionic
-doric/aeolic
-119034	
-
-
-
+119032	doric/aeolic
 119039	attic/ionic
 epic/doric
-ionic
-attic/epic/ionic
-119044	
-
-doric/aeolic
-
-
-attic/epic/ionic
-
-119054	
-119057	
+119042	attic/epic/ionic
+119046	doric/aeolic
+119049	attic/epic/ionic
 119064	doric
 doric
 119067	doric/*theocr.
-119071	
 119073	attic/ionic
-119076	
-119078	ionic
-epic/doric
+119079	epic/doric
 119081	epic
-119083	
-
-
-
-
-doric
-119090	
-119094	
-119097	
-119100	
-
-attic
-
-attic/epic
-
-119107	
-
-aeolic
-
-
-119115	
-
-119118	
-119120	
-119123	
+119088	doric
+119102	attic
+119104	attic/epic
+119109	aeolic
 119125	doric/aeolic
 doric/aeolic
 doric/aeolic
 119129	doric/aeolic
-119135	
-
-119138	
-epic
-
+119139	epic
 119142	attic/epic/ionic
-
-119145	
-
-attic/epic/doric/ionic
-
+119147	attic/epic/doric/ionic
 119150	attic/epic/doric
-119152	
-119155	
 119157	doric/*theocr.
-
-
-
-
-
-119171	
-
-119174	
+119160	attic
 119177	attic/epic
-
-119181	
 119183	attic/ionic
 epic/doric/aeolic
 119191	doric/aeolic
-119193	
-doric/aeolic
+119194	doric/aeolic
 doric/aeolic
 ionic
-119198	
-119200	
-
-119204	
-119207	
-119209	
-
-119212	
-
-119218	
-
 119221	attic/ionic
-119223	
-
-
 119232	attic/ionic
-119235	
-
-epic
-119239	
-119241	
-
-119244	
-119246	
-
-attic/ionic
+119237	epic
+119248	attic/ionic
 119250	epic/ionic/attic/doric
-
-119253	
-
-epic
+119255	epic
 119257	epic/doric
-119259	
-
-119262	
 119264	attic/ionic
-
-119267	
-
-
-
-
-
-119274	
-
-119277	
-119279	
 119283	attic
 ionic
 attic/ionic
-
-119290	
-epic
-
-119294	
+119291	epic
 119296	attic/epic
 attic/epic
 119299	attic
-
-
-
-119304	
-119306	
-119309	
-
 119314	attic
-
-119318	ionic
 119320	doric/aeolic
 attic/ionic
 epic
-
-
-119327	
-attic
+119328	attic
 ionic
-119332	
-
-ionic/attic/epic/doric
+119334	ionic/attic/epic/doric
 119336	attic/ionic
 epic/doric/aeolic
 119343	attic
-119345	
-
-
-119349	
-
-
-
-attic/ionic
-
+119353	attic/ionic
 119356	doric/aeolic
 doric/aeolic
-
-
-
-attic/epic/ionic
+119359	epic
+119361	attic/epic/ionic
 doric/*theocr.
 doric/aeolic
-119365	
-
-
-attic/ionic
-
-doric/aeolic
+119368	attic/ionic
+119370	doric/aeolic
 119372	epic
-
-
-
-doric/aeolic
+119376	doric/aeolic
 attic/ionic
-119379	
-119381	
 119385	ionic/attic/epic
 119389	doric
-epic/doric/ionic/aeolic
-
-119393	
-
 119397	attic/epic/doric
-
-119400	
-119406	
-119410	
-
-epic/ionic
-
+119406	doric
+119412	epic/ionic
+epic
 119416	doric/aeolic
-119419	
-doric/laconia
-
-119426	
-
-119431	
-
-119434	
-
+119420	doric/laconia
 119437	doric/aeolic
 doric/aeolic
-
-
-119442	
-119445	
-
-
-119450	
-
 119453	epic
-
 119458	attic/epic/doric
 119462	doric
 doric/aeolic
-
-119467	
-119469	
-119472	
-
-
-119476	
-
-
-119480	
-119486	
-
-epic/doric/aeolic
-119490	
-119492	
+119488	epic/doric/aeolic
 119501	epic
 119503	attic/epic/ionic
-epic/doric/ionic/aeolic
-119508	
-119511	
+119508	epic
 119514	doric/aeolic
 attic
-
-
-
-attic
-
-119522	
-
-119525	
-119532	
-attic
-119535	
-
-119538	
-119541	
-doric/aeolic
+119519	attic
+119533	attic
+119542	doric/aeolic
 119544	doric
-119547	
-attic
-
-epic
-ionic
-119555	
+119548	attic
+119550	epic
 119557	doric/aeolic
 119562	attic/epic/ionic
-
-
 119567	doric
-
-
-ionic
-
+119570	ionic
+doric
 attic
-
-attic
-
-epic/doric/aeolic
-
-119581	
-
-
-
-ionic
+119574	attic
+119576	epic/doric/aeolic
 119587	doric/aeolic
-
-
 119592	epic
 epic/doric
-
-119596	
-119598	
 119601	doric/aeolic
-
-119604	
 119608	doric
-
-
-
-epic
-
-
-attic/epic/doric/ionic
-
-
+119612	epic
+119615	attic/epic/doric/ionic
 119619	epic/attic/doric
-119621	
-119623	
-119625	
-
-
-
-119630	
-119632	
-119634	ionic
-doric/aeolic
-
-
-
-doric
-119641	
-119643	
+119635	doric/aeolic
+119639	doric
 119645	epic
-
-
-
-119650	
-119653	
-
-doric/*theocr.
+119655	doric/*theocr.
 attic/epic/doric
-119659	
-
-119662	
-
-
-119670	
 119673	epic/doric/aeolic
-119676	
-119678	
-
-attic/epic
-
-
-doric
+119680	attic/epic
+119683	doric
 119685	epic
-
 119690	doric/aeolic
 doric/aeolic
-
 119694	attic/epic/doric
-
-
-
-119699	
-119701	
-ionic
 119706	*ntest.
-
-doric
-119710	
-119714	
-
-attic/epic
-
+119708	attic/epic/ionic
+119716	attic/epic
 119719	doric/aeolic
 doric
-
-119723	
-
-119729	
 119732	doric/aeolic
 doric/aeolic
-
-119736	
-
-
-
 119741	doric/aeolic
 doric/aeolic
-
-119745	
-epic/doric
-
-
-119750	
-
-119754	
-attic/epic/ionic
-
-
-119762	
+119746	epic/doric
+119755	attic/epic/ionic
 119765	epic
-119767	
-attic/epic/doric
-
-
-
-
-119774	
-attic
-
-
-
-
-
-
-attic/epic/doric/ionic
-
-119785	
-119788	
-119790	
-
-119793	
-119795	
-119802	
-
-
-
-119807	
-119811	
+119768	attic/epic/doric
+119775	attic
+119782	attic/epic/doric/ionic
+119785	epic
 119813	doric/aeolic
-119815	
-119818	
-
-119821	
-
-attic/epic/ionic
-119825	
-119842	
+119823	attic/epic/ionic
 119844	doric/*theocr.
-
-119848	
-119850	
-119852	
-
-119856	
 119858	epic/ionic/doric/laconia
-
-attic
-
-119865	
-epic/doric/aeolic
-119868	
-
-
-119872	
+119860	attic
+119866	epic/doric/aeolic
 119875	doric/aeolic
 119877	doric/laconia
-
 119880	attic/ionic
-
-119884	
 119886	epic
 attic/epic/doric
 attic/ionic
-119890	
-
-
-
-
 119896	attic/epic/ionic
-
-119901	
-
-119905	
 119907	attic
-119909	
 119911	attic
 doric
-
-119916	
-
-
 119920	attic/epic/doric
-
-119924	
-
-
-attic/epic/ionic
-
-119930	
-119932	
-119934	
-119937	
-119939	
-
-doric/aeolic
+119927	attic/epic/ionic
+119941	doric/aeolic
 119943	attic/epic/ionic
-
-
-119949	
 119952	attic/epic/doric
-
-
-
 119957	attic/epic/ionic
 doric/aeolic
-119966	
-119968	
-
-119971	
-
-
-
-
-
-
 119979	doric/aeolic
-
-119982	
-
 119985	doric/*theocr.
-119987	
+119987	doric
 attic/epic
-
-
-ionic/doric/aeolic
-119996	
-119998	
-120000	
-attic
-
-doric/aeolic
-120005	
-
-
-
-120011	
-doric
-120015	
-
-
-
-120020	
-attic/epic/doric
-
-120026	
-120028	
-
-120031	
-attic/epic/ionic
-120034	
-120041	
-
-120045	
-
+119991	ionic/doric/aeolic
+120001	attic
+120003	doric/aeolic
+120008	epic
+120012	doric
+120021	attic/epic/doric
 120049	attic/ionic
 120052	epic/doric/aeolic
-
-
-
-
-120058	
-
-
-attic/epic/doric
-120064	
-attic/epic
-
-
-120069	
-120071	
-
-120075	
-
-attic/epic/doric
+120061	attic/epic/doric
+120065	attic/epic
+120077	attic/epic/doric
 epic/doric
 120081	doric
 120084	attic
-
-
-attic/epic/doric
+120087	attic/epic/doric
 120089	doric
 120091	doric
 epic/ionic
-120095	
-
-
-120100	
-120103	ionic
+120097	doric
 120107	doric/aeolic
-120109	
-
-
-
 120117	ionic/doric/aeolic
-
-epic
-
-120122	
-
-
-attic/epic/doric
-
-
-
-
-120131	
-epic
+120119	epic
+120125	attic/epic/doric
+120132	epic
 doric/aeolic
-
-
-doric
-120138	
-120141	
-120143	
-
-
-ionic
-
-
-
+120136	doric
+120149	epic
 attic
 ionic
-120153	
-120156	
+120156	attic/epic/doric
 120158	doric
-120161	
-
-
-
+120164	epic
 attic
-
-120170	
-120178	
+120170	attic/epic/doric
+120178	attic/epic/doric
 120180	doric
-120183	
-120185	
-120187	
 120189	attic/epic/doric
 120191	doric/aeolic
 120193	doric
 attic/epic/doric
-120196	
 120199	doric/aeolic
-120201	
+120201	epic
 120203	attic/epic
-
-120207	
 120209	attic/epic/doric
 attic/epic
-120212	
-120215	
-120217	
-
-
 120222	epic
-120224	
-120226	
 120229	epic/doric
-120231	
 120234	epic
-
-
-attic/epic/doric
+120237	attic/epic/doric
 epic/doric
-
-120241	
-
-
-
 120246	attic/epic/doric
-120248	
-120250	
 120252	doric
-120254	
-
-
-
-120259	
-attic/epic/ionic
+120260	attic/epic/ionic
 epic
-
-
-attic/epic/ionic
-attic/epic/ionic
-120268	
+120265	doric
+120268	doric
 120270	attic/epic/doric
-120272	
-
 120276	doric
-
 120281	doric
-
-120284	
-
-120288	
-
-120292	
-
-120295	
-120297	
-
-120300	
-epic/doric
-
-120305	ionic
-120307	
-120309	
-
-attic/epic/doric
-
+120301	epic/doric
+120311	attic/epic/doric
+120313	attic
+120318	epic
 attic
-120315	
-epic/ionic/doric/laconia
-
-
-attic
-
-120322	
-
-ionic
-120327	
 120329	attic/epic/ionic
 attic/epic/doric
 120332	epic/doric
-120334	
-attic
+120335	attic
 epic/ionic/attic
-120341	
+120341	epic
 epic/doric/ionic/aeolic
-
-doric
+120344	doric
 ionic
-120348	
-120350	
-120352	
-doric/aeolic
+120353	doric/aeolic
 120356	epic
 epic/doric
-
 120362	epic/doric
 120368	epic/doric
-
-
-120372	
-attic
-120375	
+120373	attic
 120377	epic/doric
-120379	
-120381	
-attic
-
-
-120386	
-epic
-120389	
-
-
-120393	
+120382	attic
+120387	epic
+120393	attic/epic/ionic
 doric/aeolic
-
-120397	
 120401	attic/epic/doric
-120403	
-120405	
-epic/doric
+120406	epic/doric
 120409	attic
-120411	
 120414	epic
-
-attic/epic/ionic
-
-
-
+120416	attic/epic/ionic
 120421	attic/epic/doric
-
-120425	
-120427	
-epic/doric
-120430	
-120432	
-attic
-120435	
-attic/epic/ionic
-doric
-120439	
-120443	
-120446	
-attic/ionic
-120450	
+120428	epic/doric
+120433	attic
+120437	doric
+120447	attic/ionic
 120453	epic/doric/aeolic
-120455	
-120459	
-120462	
-120465	
-120467	
-
-attic
-
-120474	
-
-120477	
-
-120481	
-120483	
-120485	
-attic/epic
-
-
-
-120492	
-
-attic/ionic
-
-
-
-120503	
-120505	
-attic/epic
-120515	
-epic
-120518	
-
-attic
+120469	attic
+120475	attic/epic/ionic
+120486	attic/epic
+120494	attic/ionic
+120506	attic/epic
+120516	epic
+120520	attic
 epic/ionic/attic
-
-120526	
-120528	
-120531	
-120533	
 120536	attic/epic/doric/ionic
-120538	
 120545	attic/epic/ionic
-
 120549	attic/epic/ionic
-120553	
-
-
-
-120558	
-120563	
-
-120567	
-120571	
-120573	
-
-120579	
-
-attic/epic/doric/ionic
-
-doric/aeolic
-
-120586	
-
-
-120590	
-
-120593	
-120595	doric
+120581	attic/epic/doric/ionic
+120583	doric/aeolic
+120590	attic/epic/ionic
+120595	attic/epic/ionic
 epic/doric/ionic/aeolic
 doric/aeolic
-120599	
-120601	
-120604	
-
-attic
-120608	
-
-120612	
-
-
-
-doric/aeolic
-120620	
-
-epic/doric/aeolic
-ionic
-120626	
-attic/epic/ionic
-
-
-
-120632	
-120634	
-120636	
-120641	ionic
-120643	
-120645	ionic
-120647	
-120649	ionic
-doric/ionic
+120606	attic
+120616	doric/aeolic
+120622	epic/doric/aeolic
+120627	attic/epic/ionic
+120650	doric/ionic
 doric
-120655	
-
-120660	
+120660	attic/epic/ionic
 doric/aeolic
 120663	doric/aeolic
-
-
-120667	
-120669	
-120672	
-
-doric/aeolic
+120674	doric/aeolic
 doric/aeolic
 epic/doric
 ionic
 120679	doric/aeolic
 epic/ionic/attic
-120682	
-doric/aeolic
-
-
-120687	
-
-
+120683	doric/aeolic
 120691	epic/ionic/attic
-120694	
-attic/epic/ionic
+120695	attic/epic/ionic
 120697	epic/doric/aeolic
-
-doric
-120704	
-
-
+120699	doric
 120711	ionic/epic/doric/aeolic
 120713	epic/doric/ionic/aeolic
 doric
 120716	epic/doric/aeolic
-
-120719	
-ionic
-
-
-120725	
-120727	
-
 120732	doric/aeolic
 attic/epic/ionic
 attic/epic/doric
-120736	
-
-
-attic/ionic
-
-120742	
-
-attic/epic
-120747	
-
-ionic/doric/aeolic
-
-doric/aeolic
+120739	attic/ionic
+120744	attic/epic
+120749	ionic/doric/aeolic
+120751	doric/aeolic
 attic/epic/ionic
 ionic/doric/aeolic
-
-120756	
-
-
-
-
-120763	
-attic/epic
-
-120767	
-120771	
-120773	
-
-
-attic/ionic
-
-
-120781	
+120764	attic/epic
+120776	attic/ionic
+120782	attic
 attic
-attic
-120785	
-
-
-120789	
 120792	attic
-
-
-attic
-
+120795	attic
 120798	doric/aeolic
 doric/aeolic
-120801	
-ionic
 120804	epic/doric
-120807	
-doric
-
-
-120813	
-
-
-doric
-120819	
+120808	doric
+120816	doric
 120821	attic/epic/doric
 120825	doric
-120827	
 120829	attic/epic/doric
-120831	attic/epic/ionic
+120831	doric
 120833	attic/epic
-
-
-120838	
-
-attic/epic/doric
-
-120844	
-
-doric
-
-
+120838	attic/epic
+120840	attic/epic/doric
+120846	doric
 120851	doric/aeolic
-120853	
-
-120856	
-120858	
-
-120861	
-120863	
-attic/epic
-120867	
-attic/ionic
-120870	
-120872	
-doric/*theocr.
+120864	attic/epic
+120868	attic/ionic
+120873	doric/*theocr.
 120876	attic/epic/ionic
-120880	
-120882	
-
-
 120886	attic/epic/doric/ionic
 epic/doric
 120890	epic
 epic/doric
-ionic
-120894	
 120896	epic
-120898	
-doric/aeolic
+120899	doric/aeolic
 120901	epic
 120903	epic/doric
-
-120906	
+120907	attic/epic
+120912	attic/ionic
+120918	doric
 attic/epic
-
-
-120911	
-attic/ionic
-120914	doric/laconia
-
-
-
-attic/epic/ionic
-attic/epic
-
 120923	doric/aeolic
-
-120926	
-attic
-
-
-doric/aeolic
-120933	
-120935	
-
-
-120939	
+120927	attic
+120930	doric/aeolic
 120941	epic/doric/aeolic
-120944	
-120946	
-
+120947	attic/epic/ionic
 epic/ionic
-
-120951	
+120951	attic/epic/ionic
 epic/ionic
-
-120955	
 120960	doric
-
-120963	
-120966	
-
-
-
-
-120973	
+120968	epic
 120975	epic/doric/ionic/aeolic
 120977	attic/epic
-
-120980	
-
-
-120984	
-120986	
-120988	
-doric/aeolic
-120991	
-
-120996	
-
-
-doric/aeolic
-
-epic/doric/ionic/aeolic
-
+120989	doric/aeolic
+120999	doric/aeolic
+121001	epic/doric/ionic/aeolic
 121004	doric/aeolic
-121006	
-121008	
-121013	
+121014	doric/aeolic
+121020	epic/doric
+121033	attic
+121041	epic/doric/ionic/aeolic
 doric/aeolic
-
-121017	
-
-
-epic/doric
-
-
-
-
-121026	
-
-
-121030	
-
-
-attic
-121035	
-121037	
-121040	
-epic/doric/ionic/aeolic
-doric/aeolic
-
-
-121046	
 121051	attic/epic/doric/ionic
-
 121055	epic/ionic/attic
-
-121058	
-
-121063	
-121065	
-epic
-
-
-
-
-
-epic
-
-121078	
-
-121081	
-121083	attic/epic/ionic
+121066	epic
+121072	epic
+121083	doric
 attic/epic
-121086	
-
-epic
+121088	epic
 121090	epic
-121094	
-121097	
-
-epic/doric/ionic/aeolic
-121101	
-epic
+121099	epic/doric/ionic/aeolic
+121102	epic
 attic/epic/ionic
-121106	
-121108	
-
-
-epic
-121113	
-121117	
-
-121120	
-121122	
-
-epic/doric/ionic/aeolic
+121111	epic
+121124	epic/doric/ionic/aeolic
 attic/epic
-121128	
-121130	
-
-epic
-
-epic/doric/ionic/aeolic
-121138	
-doric/aeolic
-
-attic/epic/doric/ionic
+121132	epic
+121134	epic/doric/ionic/aeolic
+121139	doric/aeolic
+121141	attic/epic/doric/ionic
 121145	attic/epic
-
-121149	
-ionic
-121153	
-
 121156	epic
-
-
-epic
-121163	
-
-121166	
-doric/aeolic
-121171	
-121173	
-
-epic
+121159	epic
+121175	epic
 121177	ionic/attic/epic
-121181	
-
-attic/epic/doric/ionic
-121190	
-121194	
-epic/doric/ionic/aeolic
+121183	attic/epic/doric/ionic
+121195	epic/doric/ionic/aeolic
 121197	epic
-
-121200	
+121200	attic/epic/ionic
 121203	ionic
-121205	
-121207	
-
-
-121211	
-121213	
-121215	
-
-
-
-
-
-121224	
-
-121227	
-121230	
-121232	
-
 121235	doric
-ionic
-
-121239	
-ionic
 121244	attic
-121246	
-121249	
-
-attic/epic/doric
-121253	
-121255	
-
-121258	
-doric
-
-
-121263	
-121265	
-121267	
-doric
+121251	attic/epic/doric
+121259	doric
+121268	doric
 attic
-121274	
-ionic/doric/aeolic
-
-121280	
-attic/epic
+121275	ionic/doric/aeolic
+121281	attic/epic
 attic/epic/doric
-
 121285	attic/epic/ionic/doric/aeolic
 doric/ionic
-
-121289	
-ionic/doric/aeolic
-121292	
-121295	
-
-ionic/doric/aeolic
+121290	ionic/doric/aeolic
+121297	ionic/doric/aeolic
 doric
-
-121302	
-
-attic/ionic
-
+121304	attic/ionic
 121309	attic/epic/doric/ionic
-121311	
-121316	
-121319	doric
+121319	attic/epic/ionic
 121321	epic/doric/ionic/aeolic
 doric
-
-121325	
-
-
-121329	
-121333	
-attic/ionic
-
+doric
+121327	doric
+121334	attic/ionic
 121339	ionic/doric/aeolic
 121341	doric/aeolic
 doric/aeolic
-
-
-
-121347	
-
-
 121351	attic/epic/doric
-121353	
-121357	
-121359	
-121361	
 121364	attic/epic/doric/ionic
-
-121367	
-attic
-
-121372	
+121368	attic
 121374	ionic
-
-doric
-121378	
-
-121382	
-
-attic/epic/ionic
-
+121376	doric
+121384	attic/epic/ionic
 121388	doric
-
-121391	
-121394	
-
+121396	doric/aeolic
+121399	epic/ionic/attic
 doric/aeolic
-121398	
-epic/ionic/attic
-doric/aeolic
-
-
 121404	doric
-121406	
-
-
-121410	
 121413	doric/aeolic
-
-doric
-121417	
+121415	doric
 121419	attic/epic/ionic
 doric
-
-121423	
-
-121426	
-
-121430	
-
 121433	doric/aeolic
-
-
-ionic
+121436	ionic
 epic/doric
-
-
-121441	
-
 121444	epic/doric/aeolic
-
-121448	
-
 121452	doric/aeolic
 121455	doric/aeolic
-121458	
-121460	
-
-
-121464	
-
-121467	
-121470	
-
+121461	attic/epic
 121477	doric/aeolic
 doric/aeolic
-121480	
-121482	
-
-121486	
-121489	
-
-epic
+121491	epic
 121493	attic/epic/doric
 epic/doric
-
+epic
 attic/epic/doric
-121498	
+121498	epic
 doric/aeolic
-
-doric
-
-121504	
-
-
-epic/doric
-
-
-
+121501	doric
+121507	epic/doric
 121513	epic/doric
 attic/epic
-121516	
-
-
-121520	
-121522	
-
-121525	
 121527	attic/epic
-
-
-
-121532	
+121530	epic
 121534	epic/doric
 attic/epic
-121537	
-
-121540	doric/aeolic
+121540	doric
 attic/epic
-
-
-121545	
-epic/doric
+121546	epic/doric
 attic/ionic/doric
-121549	
-
-
-
-
+121554	attic
 attic
-attic
-
-attic
-
+121557	attic
 121561	doric/aeolic
-121564	
 121566	attic
 attic
 121569	attic
-
-doric
-
-attic/epic
-
-doric/aeolic
-
-doric/aeolic
-
+121571	doric
+121573	attic/epic
+121575	doric
+121577	doric/aeolic
 121581	attic/epic/doric/ionic
-121584	
-121586	
-attic
-
-121590	
-
-121593	
-
-121597	
-
-121600	
-
-
+121587	attic
 121604	attic/epic
-
-
 121608	attic/epic
-121611	
 121613	epic/doric
 121615	attic/epic
-
 121619	doric
-
-
-121624	
-ionic/doric/aeolic
-121627	
-121629	
-121631	
-
-
-epic/doric
-ionic
-121637	
-121639	
-
-ionic
-epic/ionic/doric/aeolic
-
-epic/ionic/doric/laconia
-
-121647	
-epic/doric
-
+121625	ionic/doric/aeolic
+121634	epic/doric
+121642	epic/ionic/doric/aeolic
+121648	epic/doric
+attic/epic/ionic
 epic/ionic
-
-121653	
-epic/ionic/attic/doric
-121656	
-attic/epic/doric
-121660	
-epic/ionic/attic
-
+121654	epic/ionic/attic/doric
+121657	attic/epic/doric
+121661	epic/ionic/attic
 121664	attic/epic/doric/ionic
-
-
-121668	
-attic/epic/doric/ionic
-
-
+121669	attic/epic/doric/ionic
+121672	attic/epic/ionic
+121674	doric/aeolic
 attic/epic/ionic
-
-doric/aeolic
-attic/epic/ionic
-
 121678	doric
 121680	attic/epic/ionic
-
-121683	
-121685	
-121688	
-
-
-attic/epic/doric
-121693	doric/laconia
-
-121696	
-
-121699	
+121691	attic/epic/doric
 121701	epic
-ionic
 121707	epic
-
-121711	
+attic/epic
 121713	epic
-121715	
-
 121719	doric
-
-attic/epic/ionic
+121721	attic/epic/ionic
 epic/doric
-121725	
-
-121728	
 121734	attic
 attic/epic
 epic/doric
 doric/aeolic
-
-
-
 121742	epic
 121744	epic
-121746	
-121750	
-
-121753	
-epic/doric
-doric
+121754	epic/doric
+attic/epic/ionic
 epic/doric/ionic/aeolic
 121758	doric/aeolic
-121762	
-121765	
-doric
-
-
-121770	
-121772	
-121774	
-121776	
+121766	doric
 121779	epic/doric
-121782	
-
-epic/doric
+121784	epic/doric
 epic/doric/aeolic
-121787	
 121789	epic/doric
 121791	epic/doric/aeolic
-
 121794	epic/doric
-121796	
 121798	doric/aeolic
-121800	
-
-
-ionic
-doric/laconia
+121804	doric/laconia
 doric
 121809	doric/aeolic
 doric
 epic/doric
-
-121815	
-
-ionic
+121817	ionic
 attic/epic/doric
-
-121821	
-121823	
-
-doric/aeolic
+121825	doric/aeolic
 doric/aeolic
 epic/doric
-
-
 121831	epic/doric
-
-121834	
-doric/aeolic
-
-
-ionic
-
-121841	
-121845	
+121835	doric/aeolic
 121847	attic/epic/ionic
 121851	doric/aeolic
 ionic/doric/aeolic
 epic/doric
-
-
-
-121860	
-
-
-doric
-
-121867	
-121869	
-attic
-
-attic/epic/doric
-
+121863	doric
+121867	doric
+121870	attic
+121872	attic/epic/doric
 121877	epic/ionic/doric/laconia
-
 121880	attic/epic/ionic
-
-121883	
-
-
-121888	
-
-121892	
-doric/aeolic
+121884	doric
+121893	doric/aeolic
 ionic/doric/aeolic
 epic/doric
-
-
-
-attic
-
-121902	
-
-121906	
-
-
-
-attic/epic/doric
-
-attic/epic/ionic
-121914	
-doric
+121899	attic
+121910	attic/epic/doric
+121912	attic/epic/ionic
+121915	doric
 epic/doric/aeolic
-121918	
-121921	
-121924	
 121926	epic/doric/aeolic
 epic/ionic
-121929	
-attic/epic
-121932	
-attic/epic/doric
-
-121944	
-epic
-
-121949	
-
-121952	
-121957	
-
-
+121930	attic/epic
+121933	attic/epic/doric
+121945	epic
 121965	attic/epic/ionic
-121968	
-121970	
 121972	epic/doric
-121974	
-epic
-121980	
-
-
+121975	epic
 121985	attic/epic
-
-
-doric
+121988	doric
 121990	attic/epic
-
 121993	attic/epic
-
-
-doric
-122001	
-122007	
-
-attic/epic
+121996	doric
+122009	attic/epic
 122011	attic
-
-122014	
-doric/aeolic
-122018	
-122020	
+122015	doric/aeolic
 122022	attic/epic/doric/ionic
-122024	
-
 122027	doric/aeolic
-122031	
-attic/epic
-122034	
+122032	attic/epic
+122035	doric/aeolic
 doric/aeolic
-doric/aeolic
-122038	
-
-
 122042	doric/aeolic
-122044	
-epic/doric/ionic/aeolic
-
-attic/epic
-
+122045	epic/doric/ionic/aeolic
+122047	attic/epic
 122050	epic/doric/aeolic
 doric/aeolic
 attic
-122054	
 122056	attic
-
-
-122060	
-122062	
 122064	attic/epic/ionic
 122066	attic/epic
-122068	
-122074	
-122076	
-122079	
-attic/epic/ionic
+122080	attic/epic/ionic
 attic/ionic
-122083	
-122086	
-doric/aeolic
-
-
-doric
-122092	
+122087	doric/aeolic
+122090	doric
 122094	epic/doric/aeolic
-122096	
-
 122099	ionic
-
-
-
-
-
-
-
-
-
-
-
-
-epic/ionic/attic
-122114	
-122116	
-
+122112	epic/ionic/attic
 122119	attic
-
-
-attic/epic/doric
-
-
-
-
-
-122129	
-
-
-
-122134	
-122137	ionic
+122122	attic/epic/doric
 122142	attic
-
 122145	doric
 122147	doric/aeolic
-122150	
 122154	attic
-
-
-attic
-
-
-
-122163	
-
-attic/ionic/epic
-
-ionic
+122157	attic
+122165	attic/ionic/epic
 122169	doric
 122172	attic
-
-
-
-ionic
-doric/aeolic
-
-122180	
-122182	
-122184	
-
-ionic
-epic/doric
-122189	
-attic/ionic
-
-122193	
-122195	ionic
-doric/aeolic
-122199	
-
-
-
-122204	
-
-122207	
-attic/epic/doric/ionic/aeolic
-122210	
-attic/epic/doric
-122213	
-122215	
-epic/doric
-122219	
-
-attic
+122177	doric/aeolic
+122187	epic/doric
+122190	attic/ionic
+122193	epic
+122196	doric/aeolic
+122208	attic/epic/doric/ionic/aeolic
+122211	attic/epic/doric
+122216	epic/doric
+122221	attic
 epic
-
-
-122228	ionic
+epic
 122231	doric/aeolic
 122233	doric/ionic
-
-attic/ionic
+122235	attic/ionic
 attic
-
-
-
-122241	
-ionic
-
-122245	
-122249	
-
 122259	doric/aeolic
 attic/epic/doric
-
-doric/*theocr.
-
-122266	
-doric/aeolic
-
-
-122271	ionic
-epic/doric
-
-
-122276	ionic
-
-
-
-
-
-122283	
-
-122286	
-
-
-ionic
-
+122262	doric/*theocr.
+122267	doric/aeolic
+122272	epic/doric
 122293	doric/aeolic
-
-
-doric/aeolic
-122299	
-
-
-doric
+122296	doric/aeolic
+122302	doric
 122304	epic/ionic/attic/doric
-
-
 122308	epic/ionic/doric/aeolic
 doric
-
-
-
-epic/doric
-
-122316	
-122319	
-ionic
-
-attic/ionic
+epic
+122313	epic/doric
+122322	attic/ionic
 attic/epic/doric
-
 122327	doric/aeolic
-
-122330	
-epic/doric
-122333	doric/aeolic
-
-
+122331	epic/doric
+122333	doric
 122338	doric
-
-
-attic/ionic
+122341	attic/ionic
 attic
-
-
-122347	
-
-122350	
-
-
-doric/aeolic
+122353	doric/aeolic
 epic/doric
 epic
 doric/aeolic
-
-122359	
-epic/doric
-
+122360	epic/doric
 122364	attic/epic/doric
-
+122366	epic
 doric
-doric
-
-122371	
-epic/ionic
-
-attic/epic/doric
+122372	epic/ionic
+122374	attic/epic/doric
 doric/laconia
-122377	
 122379	attic/epic
-122382	
-
 122386	epic
-
-122391	
-epic/doric
-122394	
-122396	
-
-122400	
-
-
-
-122405	
-epic/doric
+122392	epic/doric
+122406	epic/doric
 doric
 122409	doric/aeolic
-
-
-
-122414	
-122417	
-122421	
-attic
+122422	attic
 122426	epic/ionic/attic
-
-doric
+122428	doric
 122430	epic/doric
-122433	
-
-ionic
-
-122438	
-122440	
-
 122443	doric/aeolic
-
-
 122449	epic/doric
-122453	ionic
-
-doric/aeolic
+122455	doric/aeolic
 doric/aeolic
 epic/doric
-122459	
-
 122463	epic/doric/aeolic
-ionic
-doric/aeolic
-
-
-ionic
+122465	doric/aeolic
+122468	ionic
 122470	attic/ionic
-122473	
-
-
 122477	doric/aeolic
-122479	
+122479	epic
 epic/ionic/attic
-122482	
-122486	doric
-122488	
-122491	doric
-
-122494	
-122498	
+122486	attic/epic/ionic
+122491	attic/epic/ionic
 122503	epic
-122507	
-attic/epic/doric/ionic
-ionic
+122508	attic/epic/doric/ionic
 122518	epic
-ionic
-epic/doric
-122523	
+122520	epic/doric
+122523	attic/epic/ionic
 doric/aeolic
-122526	
 122529	attic/epic
-122533	
+122533	attic/epic/ionic
 doric/aeolic
-
 122537	doric/aeolic
-122539	
-
-doric
-
-
-
-
-
-ionic
-doric/aeolic
-
-122551	
-122553	
-
-122556	
-122559	
-
-
-122563	
-
-122566	
-
-
-122571	
-epic/ionic/attic/doric
+122541	doric
+122548	doric/aeolic
+122572	epic/ionic/attic/doric
 122574	attic/epic
 ionic
-122577	ionic
-122579	
-
-doric/aeolic
+122581	doric/aeolic
 epic/doric/ionic/aeolic
-122584	
-
+122585	epic
 attic
-
-122589	
-
-epic/ionic
+122591	epic/ionic
 attic/epic/doric
-122594	
-doric/laconia
-122597	
-
-
-122601	
-122604	
-
-
-
-doric
-122610	
-doric
+122595	doric/laconia
+122608	doric
+122611	doric
 122613	attic/epic/doric/ionic
 attic/epic/doric
-122617	
-
-
-122623	ionic
-122625	
-122630	
-
-epic/ionic
+122632	epic/ionic
 epic
 attic/epic
-
-122637	ionic
-
-122644	
-
-122648	
-
-ionic
-epic
+122651	epic
 122653	doric/aeolic
 doric/aeolic
 122656	attic
-
-
-epic/doric
-122661	ionic
-122663	
-
-
-epic/ionic
-
-
-
-122672	
-
-
-
-
-122679	
-
-attic/epic/doric
-
-122687	
-
-
-122692	
-122694	
+122659	epic/doric
+122666	epic/ionic
+122681	attic/epic/doric
 122696	doric/ionic
 epic/doric
-
 122702	attic/epic/ionic
-
-
 122706	epic/ionic
 epic/doric
-
-attic/epic/doric
-
-
-
-epic
-
-122717	
-
-
-doric
-
-doric
+122709	attic/epic/doric
+122713	epic
+122720	doric
+122722	epic
 122724	attic/ionic
-
-122727	
-
-
-
-doric
-
-122734	
-122736	
-122738	ionic
 epic
+122731	doric
+122739	epic
 attic/epic/doric
 122743	attic/epic/doric
-
 122748	doric/aeolic
 attic
-
-122752	
-122754	
-
-
-doric/aeolic
-
-
-122761	
-
-122766	
+122757	doric/aeolic
 122768	doric/aeolic
-122770	
-
-
 122774	attic/ionic
-122777	
-122779	
-epic/ionic
-122783	
-
-doric/aeolic
-
-
-122792	
-
-122795	
+122780	epic/ionic
+122785	doric/aeolic
 122798	doric/aeolic
-122801	
-122805	
-
+122806	epic
 epic
-
-
-
-doric/aeolic
-122813	
-
-122817	
-122823	
-122830	
-
-ionic
-122835	
-
-122838	
-122840	
-epic/doric
+122811	doric/aeolic
+122813	doric
+122841	epic/doric
 doric
-122845	
-
-122849	
 122851	doric/aeolic
-
-attic/ionic/epic/doric
-ionic
-122857	
-attic/epic
-122860	
-122863	
-122866	
-attic/epic
+122853	attic/ionic/epic/doric
+122858	attic/epic
+122867	attic/epic
 epic
 122870	attic/epic
 doric
-doric/aeolic
 122874	doric/aeolic
 doric/aeolic
-
-122878	
-
-attic/epic
-122882	
-
-122886	
-122890	
-122893	
-attic/epic
+122880	attic/epic
+122894	attic/epic
 122896	doric/aeolic
-
-122899	
 122902	doric/aeolic
-
-122905	
-122909	
-
-attic/epic/doric
+122911	attic/epic/doric
 epic/doric
-doric/aeolic
-122915	
-122917	
-attic/epic/ionic
-
-122921	
-doric
+122918	attic/epic/ionic
+122922	doric
 epic
 attic/epic
-
-
-122928	
-doric
+122926	epic
+122929	doric
 doric
 epic/doric/ionic
 epic/ionic/attic
-122934	
-122936	
 122939	doric/ionic
 epic/doric
-
-
-
-
 122947	doric
 122950	aeolic
-
 122953	attic/epic/doric
-122956	
 122959	ionic
-122961	
-attic/epic
+122962	attic/epic
 122964	attic
-122969	
-122971	epic/ionic/doric/laconia
-attic
-
-
-122977	
-122979	
+122972	attic
+122980	doric/aeolic
+122983	doric
+122986	attic/epic/doric
 doric/aeolic
-122982	
-doric
-ionic
-
-attic/epic/doric
-doric/aeolic
-
-122990	
-attic/epic/ionic
-
-
+122991	attic/epic/ionic
 122995	attic/epic
-122997	
 122999	attic/epic/doric
 doric/*theocr.
 123003	doric
-123005	
-doric
+123006	doric
 doric
 epic
-
-123011	doric/aeolic
-attic/epic/doric
-
-
-
-123017	
-attic/epic
+123012	attic/epic/doric
+123018	attic/epic
 123021	doric/ionic
-
-123025	
-attic/epic/ionic
-ionic
-123029	
+123026	attic/epic/ionic
 123031	doric/aeolic
 doric/aeolic
 epic/doric
-123039	
-attic/epic/doric
-123043	
-123045	
-123047	
-
-doric/aeolic
-123051	
-doric/laconia
-123055	
-ionic
-123058	
-
-doric/aeolic
+123040	attic/epic/doric
+123049	doric/aeolic
+123052	doric/laconia
+123060	doric/aeolic
 doric
-
 123065	attic/epic/ionic
 doric
 123068	attic/epic/doric
 doric/aeolic
 doric/aeolic
 123073	ionic/doric/aeolic
-
-
 123077	doric/aeolic
 attic
-
-
-123084	
-
-123088	
 123090	epic/doric
-123094	
-123096	
-
-
-123101	
-ionic
-doric/aeolic
-
-123107	
-
-
-
-epic/doric/ionic/aeolic
-
-
-
-epic/doric
+123103	doric/aeolic
+123115	epic/doric
 doric/aeolic
 attic
-
-doric/aeolic
-123122	
-123125	
-123127	
-123131	
-
-
-123135	
-
-123139	
-
-
-123143	
-epic/doric
-
+123119	doric/aeolic
+123125	epic
+123144	epic/doric
 123148	doric/aeolic
 123150	attic/epic
 doric
 epic/doric
-123154	
-123156	
-doric
+123157	doric
 123159	doric/aeolic
-
 123163	attic
 epic
 123166	doric/aeolic
-
-
 123170	epic/ionic/attic
 attic/epic/doric
-
-
-epic/doric
+123174	epic/doric
 123176	doric/aeolic
-
-
-doric/ionic
+123179	doric/ionic
 attic
-123183	
 123186	doric/aeolic
 attic
-
-123190	
-123192	
-123194	
-123196	
-
-123199	
-
-attic/epic/doric
-
-epic/doric
-
-attic/epic
-
-123209	
-
-123213	
-123217	
-epic/ionic
-123223	
-
-123226	
-attic
-
-
-
-ionic
+123201	attic/epic/doric
+123203	epic/doric
+123205	attic/epic
+123218	epic/ionic
+123227	attic
+123231	ionic
 123233	attic/epic/ionic
-123235	ionic
-123237	
 123241	doric/aeolic
-
-123245	
 123247	epic/doric
-
-123250	
-123252	
 123254	epic/doric/ionic/aeolic
-
-doric/aeolic
+123256	doric/aeolic
 123258	doric/aeolic
-123260	ionic
-
 123264	attic
-
-123268	
-ionic
-
-123272	ionic
-123274	
-
-attic/epic/doric
-123278	
-123281	
-123284	
+123269	ionic
+123276	attic/epic/doric
 123289	doric/aeolic
-
-
-
-
-
 123296	doric/aeolic
-ionic
-123300	
-epic
+123301	epic
 doric/aeolic
-123304	
-123306	
-
-
-
-123313	
-123318	
-123322	
 123324	epic
-123327	
-123329	
-123331	
-123334	
-
-epic/doric
-ionic
-123341	
+123336	epic/doric
 123344	epic/ionic
 attic/epic/doric/ionic
 123347	attic/epic
-attic/doric
+attic
 doric
-
-123353	
-ionic
-123358	
-123360	
-attic/epic/ionic
-123363	
-
-
-attic/epic/doric/ionic
-123368	
-
-123376	
-123379	
-ionic
-doric/aeolic
-123385	ionic
+123361	attic/epic/ionic
+123366	attic/epic/doric/ionic
+123381	doric/aeolic
 123387	doric/ionic
 doric/aeolic
-123390	
-doric
-
-123394	
-attic/epic/doric
-ionic
+123391	doric
+123395	attic/epic/doric
 123398	epic/doric/ionic
 123402	epic
-123404	ionic
 123407	attic/epic/doric
-
-
-
-doric
-
-
-
-
-attic/epic
-
-
-
-
-
-epic/ionic/attic
-
-
+123411	doric
+123416	attic/epic
+123422	epic/ionic/attic
 123426	doric/*theocr.
 attic/epic
-
-123430	
-
-attic/epic/ionic
-123434	
-123436	
+123436	epic
 attic
-
-123441	
-
-123445	
-ionic
-123449	
 123451	attic/epic/ionic
-
-
-
-
-
-doric
+123457	doric
 attic/ionic
 123461	doric
-123463	
-
-doric
+123465	doric
 123467	doric/aeolic
 123469	attic/epic
 123471	attic
-
-123474	
-
-123477	
-
-attic/ionic
+123479	attic/ionic
 123481	doric/aeolic
-
-
-
-
-
-
-123489	
-
-
 123494	doric/aeolic
 123497	attic
-
 123501	epic/doric
 attic
-
-123505	
-epic/doric
-123508	
-epic
-
-123512	
-123514	
-
-123517	
-123519	
-
-
-123526	
-
-attic/epic
-123530	
-
-
-
-attic
-123537	
-
+123506	epic/doric
+123509	epic
+123528	attic/epic
+123534	attic
+123539	attic
 attic
 attic
-attic
-
-
-123545	
-123547	
-
-123551	
-attic/epic/doric
+123552	attic/epic/doric
 attic/epic
 attic
-
-123558	
-
-
-123563	
-doric/aeolic
-123567	
-epic/ionic/attic
-123571	
-123573	
-123575	
-attic
-
-
-attic/epic/ionic
+123564	doric/aeolic
+123568	epic/ionic/attic
+123576	attic
+123579	attic/epic/ionic
 123581	doric/aeolic
 doric/aeolic
-
-
-
-123588	
-doric
+123589	doric
 attic/epic/doric
-
-123594	
-
-attic
-
-123599	
+123596	attic
 123604	doric/aeolic
-
-123608	
-doric
-
-attic
-
-
-
+123609	doric
+123611	attic
+123614	doric
 doric/aeolic
-doric
-
-
 123621	doric/aeolic
-doric/aeolic
-123624	
-
-
 doric
+123627	doric
 doric/aeolic
-
 123631	attic
-
 123635	attic
-123639	
 123641	doric/aeolic
-123643	doric/aeolic
-attic
-
-123649	
-123652	
-
-
-123657	
-
-123660	
-
-
-123664	
+123644	attic
 123666	doric/aeolic
-
-attic
-
-
-epic/doric
-
-
-
-
+123668	attic
+123671	epic/doric
+123675	attic/epic/ionic
 123677	doric/aeolic
 epic/doric
-123682	
-
-
-
-epic/doric
-
-
-
+123686	epic/doric
 123691	epic/doric
-123693	
-attic/epic/ionic
+123694	attic/epic/ionic
 123696	attic/epic/doric/ionic
 attic/epic/ionic
-
-attic/epic/doric
-123701	
-epic/doric/ionic/aeolic
-
-attic/ionic
-123706	
-
-
-123710	
-
-attic/epic
+123699	attic/epic/doric
+123702	epic/doric/ionic/aeolic
+123704	attic/ionic
+123712	attic/epic
 123714	epic/doric
 123716	attic/epic
-
-123720	attic/epic/ionic
-
-
-
-epic/doric
-ionic
-123727	
-
-doric/aeolic
-
-
-
-123735	
-
-
-
-
-123741	
-ionic
-123745	
+123720	doric/aeolic
+123724	epic/doric
+123729	doric/aeolic
 123747	attic/epic/ionic
-
-
-doric
+doric/aeolic
+123750	doric
 attic
-
-123754	
-123757	
 123759	attic/epic/doric
 123761	attic/epic/doric
 123764	doric/aeolic
-
-attic
-
-ionic
-123770	
+123766	attic
 123772	epic/doric
-
-
-
-123778	
-
-epic
-
-
-123784	
+123780	epic
 123786	doric
 attic/epic/ionic
 doric
-attic/epic/ionic
-123791	
-
-
-
-
 123798	attic
-
-123801	
-attic
-123805	
+123802	attic
 123807	attic
-
-
-123811	
-attic
-
+123812	attic
 123815	doric
 123817	doric/aeolic
-123819	
-attic/ionic
+123820	attic/ionic
 attic
-
 123824	attic
 attic
-
-
-
-
-
-attic
-123833	
-123835	
-
+123831	attic
 123838	attic/epic/ionic
 123840	doric/aeolic
 attic/epic/ionic
-
-123845	attic
-123847	
-
 epic
+123845	attic
+123849	epic
 123851	doric
-123853	
-
-
-123857	
-attic
-123860	
-
-
-123865	
-attic/epic/doric
-123870	
-attic/epic
-123873	
-
-
-123881	
-123883	
-
-
-attic/ionic
+123858	attic
+123862	epic
+123866	attic/epic/doric
+123871	attic/epic
+123881	attic/epic/ionic
+123886	attic/ionic
 epic/doric
 123889	doric/ionic
-
-123892	
-doric
-123895	
-
-123898	
-attic/ionic
+123893	doric
+123899	attic/ionic
 123901	doric/aeolic
-
-123904	
-
-123908	
-123910	
-doric
+123911	doric
 123913	doric/aeolic
-
-123916	
-
 123919	doric/aeolic
-
-123922	
-
 123925	doric/ionic
-
 123928	doric
-
-123931	
-
-
-ionic
 123936	epic
-ionic
 123939	attic
-
-
-attic
-
-
-123947	
-123949	
-123953	
-
-attic
-123957	
-doric
-
-
-123962	
-123964	
-doric
+123942	attic
+123955	attic
+123958	doric
+123965	doric
 epic/doric
 123970	doric/ionic
-123972	
-123974	
-
-
-doric
-
-123981	
-
-doric
-
-123986	ionic
-123988	
-doric/aeolic
+123977	doric
+123981	doric
+123983	doric
+123989	doric/aeolic
 attic
-
-
-123994	
-attic
-
-123998	
+123995	attic
 124000	epic/doric
-124002	
-124008	
-
-attic/ionic
+124010	attic/ionic
 epic/doric/aeolic
-
-124016	
-
-
-
-attic/epic
+124020	attic/epic
 124023	epic/doric
-
-attic/ionic
+124025	attic/ionic
 doric
-
-
-124030	
-epic/doric/ionic/aeolic
+124031	epic/doric/ionic/aeolic
 attic
-124034	
-124037	
-
-
-
-
-124044	
 124049	epic/doric
-
 124052	epic/doric
-
-124058	
-124060	
-attic/epic/doric
-
+124061	attic/epic/doric
 124064	doric
 124066	attic
-
-
-attic
-
+124069	attic
 124073	doric/aeolic
 124075	doric/aeolic
-124078	
-124080	
-124082	
-
 124085	doric/ionic
 124087	doric/aeolic
 doric
 attic/epic/ionic
-
-
-
 124095	doric/aeolic
-
-epic
-
-
-124101	
-124104	ionic
-
-attic/epic/doric
+124097	epic
+124106	attic/epic/doric
 124111	epic/doric
-124114	
-
-doric/aeolic
-
-
-124120	
+124116	doric/aeolic
+124121	attic/epic
+124131	doric
 attic/epic
-
-
-124125	
-
-124128	
-124131	attic/epic/ionic
-attic/epic
-124134	
-
-doric
-
-124139	
-
-
-
-
-124145	
-
-
-124149	
-epic/doric
-124152	
-124154	
-doric
-
-
-
-124160	
-124162	
-124165	
-
-
-
-doric/aeolic
-
-124172	
-124175	
-
-epic
+124136	doric
+124140	doric
+124150	epic/doric
+124155	attic/epic/ionic
+124169	doric/aeolic
+124177	epic
 124181	doric/aeolic
-
-attic/epic
-124185	
-124187	
-doric
+124183	attic/epic
+124188	doric
 124192	attic/epic/doric/ionic
 attic/epic
-
-124197	
 124199	epic/doric
-124202	
-attic/epic/ionic
+124203	attic/epic/ionic
 doric/aeolic
 124207	attic/epic/doric/ionic
-
-124213	
-
 124216	epic/doric/aeolic
-124219	
-
 124222	epic/ionic/attic/doric
 epic/doric
-
-124227	
-doric
-
-attic/epic
-124232	
-
-
-
-
-
-124239	
+124228	doric
+124230	attic/epic
 124241	attic/epic/doric
-
-
-
-doric/aeolic
+124245	doric/aeolic
 attic/epic/doric
-
-
-124250	ionic
-124254	
-attic
-
-
-doric/aeolic
-
-124263	
+124255	attic
+124258	doric/aeolic
 124266	attic/epic/doric
-
 124269	attic/epic
-124273	
-epic/ionic
+124274	epic/ionic
 epic
-124277	
-124281	
 124283	attic/epic/doric
-
-124286	
-124288	
-
-doric
-
-124296	
-
-124299	
-
-doric
-
-
-
-doric
-
-124310	
-attic/epic
-
-124317	ionic
-doric
-124325	doric
-124327	
-
+124290	doric
+124301	doric
+124305	doric
+124311	attic/epic
+124318	doric
 124333	attic/epic/doric
 doric/aeolic
-
-doric/aeolic
-
-epic
+124336	doric/aeolic
+124338	epic
 124341	attic/epic/doric
 124344	attic/ionic
-124347	
-epic
-124350	
-
-
-
-124357	
-124359	
-attic/ionic
-
-ionic
-
+124348	epic
+124360	attic/ionic
 124365	doric/aeolic
-
 124368	epic
-124370	
-
-
-
-124378	
-attic/epic/ionic
-124382	
-
-
-
-124388	
-
-124391	
-
-attic/epic/doric
+124379	attic/epic/ionic
+124393	attic/epic/doric
 doric
 124397	doric
-124401	
 124403	doric/aeolic
 124405	ionic/doric/aeolic
-124407	
 124409	ionic
 124412	doric/aeolic
-
-124415	
-
-
-attic
+124418	attic
 124420	attic
-124424	
-attic/ionic/epic/doric
-124429	
-
-doric/laconia
-
-
-
-
-
+124425	attic/ionic/epic/doric
+124431	doric/laconia
 124439	attic
 124441	doric/aeolic
 124443	epic
 doric/aeolic
 124447	doric/aeolic
-
 124450	doric/aeolic
-124452	
 124454	attic
-
 124461	epic
-
-epic
-124467	doric/aeolic
-124470	
-doric
+124463	epic
+124467	doric
+124471	doric
 124473	doric/aeolic
-
-
-124477	
-124480	
-124483	
-attic/doric
-
-124487	
-124490	
+124484	attic/doric
 124492	attic
 attic
-
-attic/ionic
+124495	attic/ionic
 attic
-
-124499	
-attic
-
+124500	attic
 124506	attic/epic/ionic
 epic/doric/aeolic
-
-
-
-
-
-
-attic
+124514	attic
 124516	epic/doric/aeolic
-
-
-124521	
-124524	
-124526	
-
-124530	
-
-
-epic/doric/aeolic
-
-124538	
-
-
-
+124533	epic/doric/aeolic
 124543	doric/laconia
-124546	
-124548	ionic
-124550	
-124552	doric/aeolic
+124552	attic/epic/doric
 124554	doric
 doric
-
-124558	
-124560	
-epic/doric
-
-attic/ionic
+124561	epic/doric
+124563	attic/ionic
 124565	doric/aeolic
 doric/aeolic
-124568	
-epic/ionic
-124571	
-
-
-
-124577	
-
-epic/doric
-
-attic
-
-124584	
-124586	
-124588	
-124591	
-
-
-
-attic/epic/ionic
+124569	epic/ionic
+124579	epic/doric
+124581	attic
+124595	attic/epic/ionic
 doric/aeolic
-
+124598	doric/aeolic
 doric/aeolic
 doric/aeolic
-doric/aeolic
-
-124604	
-
-124607	
-
-124610	
-
 124613	doric/*theocr.
-124615	
-
-124618	
 124620	attic/epic/doric/ionic
-124624	
-124628	
-
-
-doric/aeolic
+124631	doric/aeolic
 doric
 124634	attic/epic/ionic
-
-124640	
-attic/epic
+124641	attic/epic
 attic
-
-
-124646	
-
-
-124650	
-124653	
-124656	
-124658	
-attic/epic/ionic
+124659	attic/epic/ionic
 attic/epic
-
-
 124664	epic
-124667	ionic
-doric
-124671	
-
-attic/epic/doric
-
-epic
-124678	
+124668	doric
+124673	attic/epic/doric
+124675	epic
 124680	epic/doric
-124682	
-epic
-
-
-
-
-
-doric/aeolic
-124691	
-doric/aeolic
-
-
-epic
-
-attic/epic/doric/ionic
-
-124700	
-
-doric
+124683	epic
+124689	doric/aeolic
+124692	doric/aeolic
+124695	epic
+124697	attic/epic/doric/ionic
+124702	doric
 124705	doric/aeolic
 attic/epic
-ionic
-epic/doric
-
-124711	
+124708	epic/doric
 124713	doric/aeolic
-124715	ionic
-doric/aeolic
-
-
-124720	
-
-
-124724	
-
-
-
-124732	
+124716	doric/aeolic
 124735	attic/epic/ionic
-124737	
-
-124745	
 124747	attic/epic
 124749	epic/doric
-
-epic
-
-124755	
+124751	epic
 124759	doric/aeolic
 124761	attic
-
-
-124766	
-124771	
 124773	doric
-124775	
 124777	attic/epic/ionic
 doric/aeolic
-
-124782	
-
-
 124787	attic/epic/doric/ionic
-124790	
-
-
-124796	
-124798	
-
 124802	attic
-
-
-doric/aeolic
+124805	doric/aeolic
 doric/aeolic
 epic/ionic
-124810	
-124812	
-124815	
 124817	doric/aeolic
-
-doric/aeolic
+124819	doric/aeolic
 124821	doric
-
-124824	
-
+124825	attic/epic/ionic
 124827	attic/epic/ionic
-
-124830	
-124832	
-124836	
-
-
-
 124842	attic/ionic
-
 124845	doric/aeolic
 doric/aeolic
 doric/aeolic
 124850	doric/aeolic
-
-doric/aeolic
-124857	
-
-
-
-
+124852	doric/aeolic
 124863	doric
 124866	attic
-
-124869	
-124871	
 124874	attic/ionic
 attic
-
-
-124879	
-attic
-
-
-
-
-124888	ionic
-doric
-124891	
-epic/doric/aeolic
-124895	
-124897	
-124901	
-
-doric/aeolic
-124905	
-124907	
-
-
-attic
+124880	attic
+124889	doric
+124892	epic/doric/aeolic
+124903	doric/aeolic
+124910	attic
 epic/ionic/attic
 124913	attic/epic/ionic
-124915	
-attic/epic/ionic
+124916	attic/epic/ionic
 124921	attic/epic/doric
-124923	
-doric
+124924	doric
 124926	attic/epic/ionic
-124928	
 124930	epic/doric/aeolic
 124936	attic
-
-124941	
 124943	doric
-
 124947	doric/aeolic
 doric
-124950	
-124952	
-
-124955	
-
-
-attic
-124961	
-attic
-
-
-attic
-
-124968	
-
-124971	
-
-
-
-124977	epic/doric/ionic/aeolic
-124980	
-
-124985	
-124987	
-doric
-
-
+124958	attic
+124962	attic
+124965	attic
+124988	doric
 124992	attic
-124995	
-
-
-
-125000	
-doric/aeolic
-
-
-doric/aeolic
-
-125007	
-125009	
-attic/epic
+125001	doric/aeolic
+125004	doric/aeolic
+125010	attic/epic
 *plat.
 attic/epic/doric
-
-125015	
-attic/epic/doric
+125016	attic/epic/doric
 125018	epic/doric/aeolic
 doric/aeolic
-125021	
-attic/epic
+125022	attic/epic
 attic
 attic/epic/doric
-
-125028	
-attic/epic
+125029	attic/epic
 attic
 doric/aeolic
-
-125034	
-125037	
+125038	attic
 attic
-attic
-
-
-
-
-
-attic/epic/ionic
-
-doric/aeolic
-
-
-doric/aeolic
-
-
+125045	doric/aeolic
+125047	doric/aeolic
+125050	doric/aeolic
 125054	attic/epic/ionic
-125056	
-epic/doric/aeolic
-
-125060	
-attic
+125057	epic/doric/aeolic
+125061	attic
 doric/aeolic
 125064	doric/aeolic
 doric/aeolic
-
-
-125070	
-
-
-attic
+125073	attic
 doric/aeolic
 doric/aeolic
-125077	
-
-
-attic/epic/ionic
-
-doric/aeolic
-
-
-
-attic/epic/ionic
+125080	doric/aeolic
+125082	doric/aeolic
+125086	attic/epic/ionic
 epic/doric
 attic/epic/doric
-125091	
-125093	
-
-125096	
-attic
-125099	
-
-
-doric
-
-
-
+125097	attic
+125102	doric
 125107	doric/aeolic
-
-
-
-
-125116	
-
-125122	
-
-
-
-
-
-
-
-125131	
-doric/aeolic
-125134	
-
+125132	doric/aeolic
+125136	attic
 attic
-attic
-125139	
-
-ionic
-
+125141	ionic
 125145	doric/aeolic
 doric/aeolic
 doric/aeolic
-
-125150	
-
-
 125156	doric/aeolic
 doric/aeolic
-
-
-
-doric
-125164	
-
-
-epic/doric/aeolic
-
-125172	
-
-
-125178	
-
-
-doric
+125161	doric
+125167	epic/doric/aeolic
+125172	attic
+125181	doric
 attic
-
-125185	
-
-ionic
-
-
-
-125192	
-
-
-
-attic/epic/doric
-
+125187	ionic
+125196	attic/epic/doric
 125204	attic/epic/doric
-
-
 125208	doric/aeolic
-
-doric
+125210	doric
 125213	doric
-125218	
-
-
-
-125223	
-125225	
 125229	doric/aeolic
-
-doric
-
-125234	
-
-
-125238	
-doric
-
-
-
+125231	doric
+125239	doric
 125246	attic
-125248	
-doric/aeolic
-
-
-
-
-attic/epic
+125249	attic/epic/doric
+125254	attic/epic
 attic
-125260	
-attic/epic/doric
-
-
-
-125266	
-125268	
-epic/ionic/attic/doric
-125272	
-
-attic/epic
+125261	attic/epic/doric
+125266	doric
+125269	epic/ionic/attic/doric
+125274	attic/epic
 attic
 attic/epic/doric/ionic
-125278	
-
-
-
-125283	
 125285	attic/epic/doric
-125288	
-
-
-
-125294	
-
-
-attic/epic/doric/ionic
-125299	
-125301	
-
-
-
-
-125309	
-
-doric
-125313	
-
-doric
-
-doric/aeolic
-
+125297	attic/epic/doric/ionic
+125311	doric
+125315	doric
+125317	doric/aeolic
+epic
 125320	doric/aeolic
-
-
-doric
-
-
-125330	
-doric
-
-
-125336	
+125323	doric
+125331	doric
 125338	doric
-
-
 125345	doric
-
-
 125353	doric
-
-
-
-
-125359	
 125361	attic
-
-
-doric
+125364	doric
 attic/epic/doric/ionic
-125369	
-
-
-125375	
-
-attic/epic
+125370	attic/epic/ionic
+125377	attic/epic
 125379	doric/aeolic
-
-epic
-125384	
-125386	
-doric
+125381	epic
+125387	doric
 attic
-125390	
-
-
-
-125395	
-attic/epic
-125398	
-
-125403	
-
-
-125408	
-
-attic
-
-
-125414	
-attic
+125396	attic/epic
+125410	attic
+125415	attic
 125417	doric/aeolic
-
+125419	attic
 attic
-attic
-125423	
-125427	
-
-
-
 125432	attic/epic/doric
-125434	
-attic
-
-attic/epic/doric/ionic
-ionic
-125441	
-doric
-
-125448	
+125435	attic
+125437	attic/epic/doric/ionic
+125442	doric
 125457	ionic
-
-doric
-
-125462	
-
-125466	
-doric/aeolic
-
-
-
-125472	
-
-doric/aeolic
-125476	
-125478	
-125480	
-125482	
-
-epic
-125486	
-
-125491	
-
-attic
-
-125496	
-125498	
+125459	doric
+125467	doric/aeolic
+125474	doric/aeolic
+125476	attic
+125484	epic
+125493	attic
 125500	doric
-
-
-
 125505	epic/doric/aeolic
-125507	
-
-125511	
-
-125514	
 125516	epic/doric/aeolic
-
-125519	
-125521	
-doric
-
-
-
-125527	
-
-
-125531	
-
-125535	
-125537	
-125545	
-125549	ionic
-125552	
-
-
-125560	
-125562	
-125566	
-doric
+125522	doric
+125567	doric
 doric/aeolic
 doric/aeolic
-
-doric
-
-
-125579	
-attic/epic
-125583	
-attic/epic
-
-125590	
-
+125571	doric
+125580	attic/epic
+125584	attic/epic
 125595	attic
 125597	attic/epic/ionic
-125599	
-
 125602	doric
-
-
-
-epic/doric
-125611	
-125614	
-attic/epic/doric/ionic
-
-doric
-125619	
-doric/aeolic
-
-
-
-
-epic/doric
-125627	
-125629	
-125631	
-epic/doric
-
-125636	
-125639	
+125606	epic/doric
+125615	attic/epic/doric/ionic
+125617	doric
+125620	doric/aeolic
+125625	epic/doric
+125632	epic/doric
 125645	epic/doric
-
-
-
-epic/doric/ionic/aeolic
-125652	
-
-
-
-doric/aeolic
+125656	doric/aeolic
 125658	attic/epic/ionic
 doric/aeolic
-125661	
-125664	
-
-
-
-
-doric/aeolic
-
-
-
+125669	doric/aeolic
 125674	ionic
-
-125678	
-attic/epic/doric
-125682	
-
-125685	
+125679	attic/epic/doric
 125687	doric/ionic
 epic/doric/aeolic
 attic
-
-125692	
-125694	
-125698	
-125700	
-125702	
-ionic
-
-
-
-125709	
-125712	
-125717	
+125698	epic
+125703	ionic
 125719	doric/aeolic
-
-doric/aeolic
+125721	doric/aeolic
 125723	attic/ionic
-
-125726	
-epic
-125733	
-
-125739	
-
-125747	
-attic/epic/doric
+125727	epic
+125748	attic/epic/doric
 125750	doric/aeolic
 125753	doric/aeolic
 attic/epic
-125756	
-
-125759	
-
-125762	
-
-125766	
-doric/aeolic
+125767	doric/aeolic
 doric/aeolic
 epic
-125771	
-
-
-
-125777	
-
-
-attic/epic/doric
-
-
-125784	
-125786	
-epic/doric/aeolic
-125789	ionic
-epic/doric/aeolic
+125780	attic/epic/doric
+125787	epic/doric/aeolic
+125790	epic/doric/aeolic
 125794	doric/attic/epic/ionic
 epic/doric
-
-attic/epic/doric
-125800	
-125804	
-125806	
-attic/epic/doric
+125797	attic/epic/doric
+125807	attic/epic/doric
 125809	doric/aeolic
-
+125811	attic
 attic
+125824	epic
 attic
-125814	
-125817	
-125819	
-ionic
-125823	
-epic
-attic
-
-
-
-
 125831	attic
 attic
-125834	
-125836	
-attic
-
-doric/aeolic
-
-attic/epic
-
-125844	
-
-
-attic/epic/doric/ionic
-125849	
-doric/aeolic
-125852	
-
-attic
-
-125857	
-
-
-125861	
+125837	attic
+125839	doric/aeolic
+125841	attic/epic
+125847	attic/epic/doric/ionic
+125850	doric/aeolic
+125854	attic
 125863	attic
-
-125866	
 125868	attic
 attic
-125871	
-
-attic/epic/doric
-125875	
-125877	
-attic
-
-125881	
-
-epic/ionic/attic/doric
-125886	
-
-125890	
-
-125896	
-epic/ionic/attic/doric
-125899	
-125901	
-
-attic
-
-epic/doric/aeolic
-125910	
-125912	
-
-125916	
-
-125919	
-
-epic/doric/aeolic
-
+125873	attic/epic/doric
+125878	attic
+125883	epic/ionic/attic/doric
+125897	epic/ionic/attic/doric
+125903	attic
+125905	epic/doric/aeolic
+125921	epic/doric/aeolic
 125924	attic
-125926	
-
-
-
-125931	
-attic/epic
+125928	attic/epic/ionic
+125932	attic/epic
 epic/doric
-
 125937	doric/aeolic
-
-125940	
-attic
+125941	attic
 epic/ionic/attic
-ionic
 125945	attic/epic/ionic
-
-attic/epic/ionic
-125950	
-
-epic/ionic/attic/doric
+125947	attic/epic/ionic
+125952	epic/ionic/attic/doric
 attic/epic/doric/ionic
-
-attic/epic
-
-125958	
-attic/epic/doric
-125962	
-
-125966	
-
-125969	
-
-
-attic/epic/ionic
-
-
-
-attic/epic/doric
-
-
+125955	attic/epic
+125959	attic/epic/doric
+125972	attic/epic/ionic
+125976	attic/epic/doric
 125981	doric/ionic
-
-125984	
-
-125987	
-
-125992	
-
-
-
+125996	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-126001	
-
-126004	
+126001	attic
+126005	attic
 attic
+126012	doric/aeolic
+126023	doric
 attic
-126008	
-126011	
+126026	attic/epic/doric/ionic
+126031	epic/ionic/attic/doric
+126035	ionic/attic/epic
 doric/aeolic
-
-126015	
-
-126018	
-126020	
-
-
-doric
-attic
-
-attic/epic/doric/ionic
-
-
-126030	
-epic/ionic/attic/doric
-
-126034	
-ionic/attic/epic
-doric/aeolic
-
 126040	epic/doric/aeolic
-
-
-126044	
-
 126047	epic/doric/aeolic
-126050	
-
-epic
+126052	epic
 126054	ionic/doric/aeolic
-
-
-doric/aeolic
+126057	doric/aeolic
 ionic
-
-
-ionic
-
-126065	
+126061	ionic
 126068	ionic
-
 126071	ionic
-
-
+126074	doric/aeolic
+126076	ionic
+126078	ionic
 doric/aeolic
-
-ionic
-
-ionic
+126086	doric/aeolic
+126092	doric/aeolic
 doric/aeolic
-
-126083	
-126085	
-doric/aeolic
-126088	
-126090	
-
-doric/aeolic
-doric/aeolic
-
-attic/epic/doric
-126097	
-
-epic/ionic/doric/laconia
-
-attic/epic/doric
-126105	
-
-
-
+126095	attic/epic/doric
+126101	attic/epic/doric
 126110	attic/epic
 126112	attic
-
-
-attic
-
+126115	attic
 126118	epic/ionic/attic/doric
 126123	attic
-126125	
-
+126127	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-
-
-attic/epic/doric/ionic
-126135	
-
-126138	
-
-ionic
-
-attic/epic/doric/ionic
-
-attic
-
-attic
-126148	
-attic
-126151	
-
-126155	
-doric/aeolic
-
-
-126160	
-
-attic
-
-126165	
+126132	attic/epic/doric/ionic
+126140	ionic
+126142	attic/epic/doric/ionic
+126144	attic
+126146	attic
+126149	attic
+126156	doric/aeolic
+126162	attic
 126167	doric/aeolic
-126169	ionic
-126172	
-
-ionic
+126174	ionic
 126177	attic
-
-
-126181	
-attic/epic
-126184	
-
-
-
-
-attic
-
-126193	
-126195	
-
-attic/epic
-126200	
-attic
-
-
+126182	attic/epic
+126189	attic
+126197	attic/epic
+126201	attic
 126209	attic
-126211	
-126213	
-126217	
-attic/epic
-126221	doric/aeolic
-126223	
-attic
-
-
-126231	
-126234	
-
-doric
-
-
-
-attic/epic
-126243	
-attic
+126218	attic/epic
+126221	attic/epic/doric
+126224	attic
+126236	doric
+126240	attic/epic
+126244	attic
 attic
 epic
-
-126249	
-attic
+epic
+126250	attic
 attic
 epic
-126254	
-126256	
-
-126259	
-attic
-
-126263	
-126266	
-
-
-126270	
-126272	
-attic
-
-
-
-
-
+126260	attic
+126273	attic
 126280	ionic
 126284	epic/doric/aeolic
-126289	
-
-epic/ionic/attic/doric
-126293	
-
-doric
-
-attic
-
-126302	
-epic/ionic/attic/doric
-
-attic
-
+126291	epic/ionic/attic/doric
+126295	doric
+126297	attic
+126303	epic/ionic/attic/doric
+126305	attic
 126309	ionic
-126311	
-
-
-epic/ionic/attic/doric
-
-126318	
-
-
+126314	epic/ionic/attic/doric
 126322	doric
-126324	
-
-126327	
-doric
+126328	doric
 attic
-
-
-attic
-
-126336	
+126332	attic
 126338	doric/aeolic
 epic/doric/aeolic
-
-126342	ionic
-126345	
-126348	
-
-
-126352	
-doric
-
-
-126359	
-126361	
+126353	doric
 126363	attic/ionic/epic/doric
-
-126366	
-126369	
-126371	
-
-
-
-
-
-126378	
 126380	attic/ionic/epic/doric
-
-126384	
 126386	doric
-
 126390	doric/aeolic
 doric/aeolic
 epic/ionic/attic/doric
-126394	
-126396	
-attic
+126397	attic
 attic/epic/doric/ionic
-126400	
-doric
-
-126404	
-attic
-126407	
-
-ionic
-
-
-
-
-126416	
-attic
-
-
-attic
-126422	
-epic/doric/aeolic
+126401	doric
+126405	attic
+126409	ionic
+126417	attic
+126420	attic
+126423	epic/doric/aeolic
 attic
 126427	doric/aeolic
 126429	attic/epic/doric
-
-
 126433	epic/doric/aeolic
-126436	
-attic
+126437	attic
 attic
 126440	doric/aeolic
-
-
-
-126445	
-epic
+126446	epic
 attic
-
-
-126451	
-
-attic/epic/doric/ionic
-126456	
-attic/epic
-
+126453	attic/epic/doric/ionic
+126457	attic/epic
 126465	doric/ionic
-126467	
-
-126470	
-attic
-
+126471	attic
 126474	doric
-126477	
+126478	attic/epic/doric
+126481	doric
+126483	attic/epic
+126485	attic/epic/doric/ionic
+126491	attic/epic/doric/ionic
+126496	doric
+126500	doric/aeolic
+126515	attic/epic
+126523	doric
+126527	doric
 attic/epic/doric
-
-
-doric
-
-attic/epic
-
-attic/epic/doric/ionic
-126487	
-126489	
-
-attic/epic/doric/ionic
-
-
-126495	
-doric
-126498	
-
-doric/aeolic
-
-
-
-
-126507	
-126514	
-attic/epic
-126517	
-126519	
-126521	
-
-doric
-126525	
-
-doric
-
-
-126532	
-
 126535	doric
-
-
-126540	
-126542	
-
-doric
+126544	doric
 126546	attic/epic/ionic
-
-126549	
-attic/ionic/epic/doric
-
-doric/aeolic
-
-
-
-epic/ionic/attic/doric
-126558	
-126562	
-
+126550	attic/ionic/epic/doric
+126552	doric/aeolic
+126556	epic/ionic/attic/doric
+126564	doric
+126569	epic/ionic/attic/doric
+126574	epic/doric/aeolic
+126579	epic/doric/aeolic
+126581	doric/aeolic
 doric
-126566	
-126568	
-epic/ionic/attic/doric
-126572	
-
-epic/doric/aeolic
-126576	
-
-
-epic/doric/aeolic
-
-doric/aeolic
-doric
-126587	
-126589	
-
-
-epic/ionic/attic/doric
-126594	
-epic
-126599	
-126601	
-126603	
-
-126606	
-
-
-attic
-
-126614	
-epic/ionic/attic/doric
+126592	epic/ionic/attic/doric
+126595	epic
+126609	attic
+126615	epic/ionic/attic/doric
 126617	attic/ionic
-
 126620	attic/ionic
-
-
-
-
-ionic
-
-attic/epic/ionic
-
+126625	ionic
+126627	attic/epic/ionic
 126630	attic
-
-126634	
-epic/ionic/attic/doric
+126635	epic/ionic/attic/doric
 126637	doric/aeolic
 doric/aeolic
-
-attic/epic/doric
-126644	
-doric
+126640	attic/epic/doric
+126645	doric
 attic
-
-
+126649	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-126654	
-doric/aeolic
-
-doric/aeolic
-
-epic
-
-
+126655	doric/aeolic
+126657	doric/aeolic
+126659	epic
 126663	attic/ionic
-
+126665	attic
+126674	doric/aeolic
+126676	attic/ionic/epic
+126680	epic/doric/ionic/aeolic
+126685	epic/ionic/attic/doric
+126696	epic
 attic
-
-
-126673	
-doric/aeolic
-
-attic/ionic/epic
-126679	
-epic/doric/ionic/aeolic
-
-
-126684	
-epic/ionic/attic/doric
-126688	
-
-
-126692	
-
-126695	
-epic
-attic
-
-126701	
-126707	
-
-
-
-attic/epic
-
-
-126715	
-attic/epic
-
-126719	
-attic/epic
-
+126711	attic/epic
+126716	attic/epic
+126720	attic/epic
 126727	attic/epic/doric
-
-126732	
-epic/doric/aeolic
-
-attic/epic
+126733	epic/doric/aeolic
+126735	attic/epic
 epic
-
-126746	
-126748	
-attic/epic
-ionic
+126749	attic/epic
 126752	epic
 epic
-
 126756	doric/aeolic
-
-
-
-
-
-attic
-
-126766	
-126769	
-
-attic
-
-
-epic/doric/aeolic
-
-attic
-
-
-
-126781	ionic
+126762	attic
+126771	attic
+126774	epic/doric/aeolic
+126776	attic
 126784	attic
-
-
 126788	doric/aeolic
-
-
-
-
 126794	attic/epic
-
-epic/doric
+126796	epic/doric
 epic/doric/aeolic
-126799	
-
-epic/doric/aeolic
-ionic
+126801	epic/doric/aeolic
 126804	doric/aeolic
 126806	epic/doric/aeolic
-
-126809	
-attic
-
-
-126816	
-
-
-attic/epic/ionic
-
-126822	
+126810	attic
+126819	attic/epic/ionic
 126824	attic
-126827	
-attic/epic/ionic
-
-attic/epic
-126832	
-126834	
-
-126838	
+126828	attic/epic/ionic
+126830	attic/epic
 126840	attic/epic/ionic
-
-
-
 126846	attic
-
 126849	attic/epic/ionic
-
-
-
 126854	doric
-
-
-
-attic/epic/ionic
-
-
+126858	attic/epic/ionic
 126862	attic/epic/doric/ionic
-ionic
 126865	doric/aeolic
 attic
-
-attic
-
-epic/doric/ionic/aeolic
-126873	
-
-126876	
-126879	
-doric/aeolic
-
-126883	
-126885	
-
-
-
+126868	attic
+126880	doric/aeolic
 126890	doric/aeolic
 doric/aeolic
-
-
-
-
-doric/aeolic
+126896	doric/aeolic
 126898	doric/aeolic
-
-
-
-126903	
-126906	
-doric/aeolic
-
-
-126912	
-
-doric/aeolic
-
-126918	
-126920	
-
-attic/epic/ionic
+126907	doric/aeolic
+126914	doric/aeolic
+126922	attic/epic/ionic
 126924	attic/epic/doric/ionic
-
-126929	
-126932	
-
-126935	
-
-attic/ionic
-doric
-
-
-126944	
-
+126937	attic/ionic
+attic/epic/ionic
 126948	doric/aeolic
-
-126951	
-126953	
+126954	attic
+126962	attic
+126964	attic/epic
+126972	doric/aeolic
+126975	attic
+126983	attic/epic
+126986	doric/aeolic
+126990	epic
 attic
-
-
-
-126959	
-126961	
-attic
-
-attic/epic
-126967	
-
-
-126971	
-doric/aeolic
-
-
-attic
-
-126979	
-126981	
-
-attic/epic
-
-
-doric/aeolic
-126988	
-
-epic
-attic
-
-
 126995	epic/doric/aeolic
 attic
 doric/aeolic
-
-ionic
-127001	
-127004	
-attic/epic
-127007	
-attic/epic
-127010	
-attic
-
-127015	
+126999	ionic
+127005	attic/epic
+127008	attic/epic
+127011	attic
 127019	attic/epic/ionic
-
-127022	
-
-
-
-127027	
-127030	
-127033	
 127036	attic/epic/doric
 epic/ionic/attic/doric
-
-epic/doric/aeolic
-127041	
-attic/epic/doric
+127039	epic/doric/aeolic
+127042	attic/epic/doric
 127044	doric/aeolic
-127047	
 127050	epic/doric/aeolic
-
+epic
 127053	epic/doric/aeolic
 127055	attic/epic/doric
-
-attic
-127060	
-127062	ionic
-127067	
-127069	
-doric/aeolic
-
-
-127075	
-attic
-
-attic
-
-attic
-127082	
-epic/doric/aeolic
+127057	attic
+127070	doric/aeolic
+127076	attic
+127078	attic
+127080	attic
+127083	epic/doric/aeolic
 127085	doric
 epic/doric/aeolic
-doric/aeolic
-
-127090	
-
-doric
-
-attic/epic/doric
-
-epic/doric/aeolic
-127100	
-attic
+127092	doric
+127094	attic/epic/doric
+127096	epic/doric/aeolic
+127101	attic
 127105	epic/ionic/attic/doric
-
-
-
-
-127111	
-
+127113	doric/aeolic
 doric/aeolic
+127120	epic/ionic/attic/doric
+127126	doric
+127128	attic/epic/doric
+127130	doric/aeolic
 doric/aeolic
-127119	
-epic/ionic/attic/doric
-127125	
-doric
-
-attic/epic/doric
-
-doric/aeolic
-doric/aeolic
-
-127134	
-
-127141	
-
-127144	
-
 127147	epic/ionic/attic/doric
-
-ionic
-127152	
-
-127156	
-
-
-
-127162	
-127165	
-127167	
-127169	
-
-doric
-
+127171	doric
 127174	doric/aeolic
 127176	doric/aeolic
-
-127179	
-epic/ionic/attic/doric
-127182	
-attic/epic/doric
-
-
+127180	epic/ionic/attic/doric
+127183	attic/epic/doric
 127187	attic
-
-
-
-
-
-attic/epic/doric
-
-
-127204	
-
-
+127193	attic/epic/doric
 127209	epic/doric
-127214	
-
-
-
-127219	ionic
-doric/aeolic
-127223	
-
-
-
-
-127229	
+127220	doric/aeolic
 127231	attic/epic
-127234	
-127236	
-
-
-doric
-127241	
-epic/doric/aeolic
-
-
-127246	
-doric/aeolic
-
+127239	doric
+127242	epic/doric/aeolic
+epic
+127247	doric/aeolic
 127251	epic/doric
-127256	
-
-
-
-
-127264	
-
-127269	
-127272	
-127274	
-attic/epic
-127277	
-attic/epic/doric
+127275	attic/epic
+127278	attic/epic/doric
 epic/ionic/attic/doric
-
+127281	epic/doric/aeolic
+127294	doric/aeolic
 epic/doric/aeolic
-
-
-127286	
-127292	
-
-doric/aeolic
-epic/doric/aeolic
-127297	doric/aeolic
-
-
 127301	attic/epic/doric
-
-
-epic/doric/aeolic
-127307	
-epic/doric/aeolic
+127304	epic/doric/aeolic
+127308	epic/doric/aeolic
 attic/epic/doric/ionic
 doric
-127312	
-
-doric/aeolic
-
-
-
-
-127320	
-
-epic/doric/aeolic
+127314	doric/aeolic
+127322	epic/doric/aeolic
 attic/epic/doric
-
-
-attic/epic
-
-doric/aeolic
+127326	attic/epic
+127328	doric/aeolic
 attic/doric
-ionic
-127335	
-epic/ionic
-
-
-
-doric
-epic/ionic/doric/laconia
-
-127344	attic/epic/ionic
-
-epic
+127336	epic/ionic
+127340	doric
+127344	doric
+127346	epic
 doric
 attic
-
-
 127352	attic
-127357	
-
-
-127362	
-127366	
-attic/epic/doric
-127369	
-epic/doric/aeolic
-127372	
-
-
-127376	
-127378	
-
-
-127382	
-
+127367	attic/epic/doric
+127370	epic/doric/aeolic
+127383	epic
 127385	doric/aeolic
-
-
-
-
-127391	
-attic/epic
+127392	attic/epic
 epic/ionic/attic/doric
-
-
-
-127398	
-127400	
-127410	
-127412	
-127414	
-
-
-
-attic
-127420	
-doric/aeolic
-127423	
-
-
-
-attic
-
-127430	
-
-
-epic/doric/aeolic
-127435	
-
-127438	
-127441	
+127418	attic
+127421	doric/aeolic
+127427	attic
+127433	epic/doric/aeolic
 127444	epic/doric/aeolic
 127448	attic/epic/doric
 127450	doric
-
-
-
-
-doric/aeolic
-127457	
-
-
-
-127462	
-
-
-
-127467	
-
-127470	
+127455	doric/aeolic
+127464	epic
 127472	epic/doric/ionic/aeolic
-
-attic/epic/doric
+127474	attic/epic/doric
 127479	epic
 attic/epic/ionic
-
-127483	
-
-attic/epic/doric
+127485	attic/epic/doric
 attic/epic/doric
 127488	doric
 127490	doric/aeolic
 doric/aeolic
 attic
-
-
-127499	
-
-
 127504	attic
-
-127508	
-doric
+127509	doric
 127511	doric/aeolic
 127513	doric
-127515	
-
-127518	
+127516	attic/epic/ionic
 127520	doric
-
 127523	doric
-
-
-epic/doric
-
-
-doric
+127526	epic/doric
+127529	doric
 attic/epic/doric
-
-
 127536	attic/epic/doric
 attic/ionic
-
 127540	doric
 epic
-
-doric
-127545	ionic
-127548	
-
+127543	doric
 127551	attic
-
-
-
-127556	ionic
-doric/aeolic
-127560	
-epic/doric
-127563	
-
-127566	
-127568	
+127557	doric/aeolic
+127561	epic/doric
 127570	epic/doric
-127574	
-
-
-127578	
-attic/epic/ionic
-
-
-127583	
-127585	
-127589	
-127591	
-127594	
-
+127579	attic/epic/ionic
+127589	doric
+127595	doric/aeolic
 doric/aeolic
 127599	doric/laconia
-
-ionic
-127604	
-
-
-
 127609	epic/doric/aeolic
-
-
-127615	
-
-doric/aeolic
+127617	doric/aeolic
 attic
 127620	attic/ionic
-
 127623	attic/epic/ionic
 127625	doric
+127633	epic/doric
 doric
-127628	
-127631	
-
-epic/doric
-doric
-doric/aeolic
-127640	
 127642	epic
 127645	epic
 doric/aeolic
 127648	epic
-
-127652	
-127654	
-attic/epic
-127658	
-
-attic
-
-127663	
+127655	attic/epic
+127660	attic
 127666	attic/epic/doric
-
-doric/aeolic
-
-
-
-
-127675	
-127677	
-doric/aeolic
+127668	doric/aeolic
+127678	doric/aeolic
 epic
-
-127682	
-
-
-127686	
-doric/aeolic
-
-127692	
-
-
-
+127682	doric
+127687	doric/aeolic
+127696	attic
+127701	doric
 attic
-
-
-127700	
-doric
-attic
-127704	
-127707	
-
-attic
-
+127709	attic
 127713	epic
-
-
-127717	
-epic/doric
+127718	epic/doric
 127720	attic/epic/doric
-
-127724	doric/aeolic
-127726	
 doric
+127724	doric/aeolic
+127727	doric
 doric/aeolic
 doric/aeolic
-
-127733	
-
-127736	
-
-
-doric/aeolic
-
-doric/aeolic
+127739	doric/aeolic
+127741	doric/aeolic
 127743	doric/aeolic
-127745	
 127747	attic
-
-ionic
 127752	epic/doric
-127757	
-127760	
-attic/epic/doric
-
-
-
+127761	attic/epic/doric
+127765	epic
 epic
-epic
-
-
-127770	
-127773	
 127776	attic/epic
-
-127779	
-epic
-
-
-
-127786	
-127788	
-
-
-127793	
-127795	
+127780	epic
 127797	epic
 doric/aeolic
 attic/epic/doric
-
+127801	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-127808	
-attic/epic
-127812	
-
-
-127818	
-
-127821	
-epic/ionic
-
-
-
-attic
-
-
-attic
-
-
-
-doric
+127809	attic/epic
+127822	epic/ionic
+127826	attic
+127829	attic
+127833	doric
 127835	epic/ionic/attic
 attic
-
 127839	doric/aeolic
-
-doric/aeolic
-
-doric/aeolic
-127845	
+127841	doric/aeolic
+127843	doric/aeolic
 127848	epic
-
-
-127853	
 127858	attic/epic/doric
-127860	
 127862	epic/doric
 attic/ionic
-
-127866	
-127869	
-doric
-
-
-127875	
-attic
-
-
-attic
-
-ionic
-attic/epic/ionic
-
+127870	doric
+127876	attic
+127879	attic
+127882	attic/epic/ionic
 127887	attic
-127889	
-
-
 127895	attic
-
-127901	
-127904	
-
-attic/epic
-127909	
-epic/doric
-127913	
-epic/ionic/doric/laconia
+127906	attic/epic
+127910	epic/doric
+127914	epic/ionic/doric/laconia
 127916	doric/aeolic
-
-127919	
-attic/ionic
-
-
-
-
-
+127920	attic/ionic
+127925	epic
 attic
-
-attic
-
-
-
-127933	
-127935	
+127928	attic
 127938	attic
-127943	ionic
 127947	attic/epic/ionic
 epic/doric/ionic/aeolic
 attic
-
-127953	
-
-127956	
-127958	
-
-
-attic/epic
-127963	
-
-127967	
-
+127961	attic/epic
+127968	epic
 attic
-127971	
-attic/epic
-
-
-attic/epic/ionic
+127972	attic/epic
+127975	attic/epic/ionic
 127980	attic
-
 127984	doric/aeolic
 attic
-
-
-epic
-
-
-127993	
+127988	epic
 127996	doric
-127998	
-128001	
-
-128004	
-
-128007	
-128009	
-128011	
-epic
-128014	
-
-
+128012	epic
 128018	doric
 128020	doric/aeolic
-
-
-
-128025	
-epic/doric/aeolic
-128028	
-128031	
-
-
-doric
-
-epic/ionic/doric/laconia
-attic
-
-
-128041	
-attic
-
-
-
-
-
-
-
-
-
-128053	
-
-
-
+128023	doric/ionic
+128026	epic/doric/aeolic
+128034	doric
+128037	attic
+128042	attic
 128058	attic/epic/ionic
 attic/epic
 doric
-
-128064	
-
-
-
-
-
-attic/epic
-
-
+128070	attic/epic
 128074	attic/ionic/epic/doric
-
-doric/aeolic
+128076	doric/aeolic
 parad_form
 attic/epic
-
-128081	
-
-
-
-
-128088	
-ionic
-128092	
 128094	attic/epic/ionic
 attic/epic/doric
-128097	
-
 128101	epic
-128108	
-128113	
-
-doric/aeolic
+128113	attic/epic/ionic
+128115	doric/aeolic
 128117	attic/epic/ionic
 epic
 attic/epic/ionic
 attic/epic/doric
-
 128123	doric/aeolic
-128126	
-
-
-
-128131	
-
-128134	
-epic/doric/aeolic
-128137	
-128139	
+128132	doric/ionic
+128135	epic/doric/aeolic
 128141	attic/epic/doric
-
-
 128145	epic/doric
-128148	
-
-attic/ionic
-128152	
+128150	attic/ionic
 128154	doric
-
-attic
-128158	
-
-128161	
-attic/epic
-128164	
+128156	attic
+128162	attic/epic
+128164	epic
 128167	attic
-
 128171	doric/aeolic
 attic
-128174	
-128176	
-
-128179	
-128182	doric
-
-epic/doric
-128186	
+128184	epic/doric
 128188	attic/epic/ionic
-
-128191	
-ionic
-128195	
-128197	
-epic
-ionic
-
-128202	ionic
-doric/aeolic
-128205	ionic
-
-128208	ionic
-
-128211	ionic
-attic/epic
-128214	ionic
-doric/aeolic
-128217	ionic
-128219	epic/doric/ionic/aeolic
-
+128198	epic
+128203	doric/aeolic
+128212	attic/epic
+128215	doric/aeolic
 128223	epic/doric
-128227	
-128229	
-
-
-doric/aeolic
-128235	
-
-
-
-attic/ionic
-128241	
-
-doric/aeolic
-128245	
-128251	
-128254	
-128256	
+128232	doric/aeolic
+128239	attic/ionic
+128243	doric/aeolic
 128258	doric/aeolic
-
-doric/laconia
-
-
+128260	doric/laconia
+128263	doric
+128275	attic/ionic
+128283	doric/aeolic
+128286	doric/aeolic
 doric
-128265	
-128267	
-
-128270	
-128272	
-128274	
-attic/ionic
-128277	
-
-128282	
-doric/aeolic
-
-
-doric/aeolic
-doric
-
-128290	
-
-
+128293	ionic
 ionic
-ionic
-
-128297	
-128299	
-attic
-128302	
-
+128300	attic
 128305	ionic
 attic/epic/ionic
-128308	
-epic/doric/ionic/aeolic
-
-
-
-128314	
-
-
-attic/ionic
-
-epic/doric/ionic/aeolic
-
-
+128309	epic/doric/ionic/aeolic
+128317	attic/ionic
 128323	epic
-128327	
-
-
 128333	doric/aeolic
-
-128336	
-
-
+128338	attic/epic/ionic
 attic
 attic/epic/doric
-
-
-
-128345	
-128348	
-
-128352	
 128354	attic/epic/doric
-
-
-ionic
-128360	
-128363	
-doric/aeolic
-
-attic
+128364	doric/aeolic
+128366	attic
 epic/ionic/attic
 128369	attic
-
-
-128373	
-128376	
-epic
-128379	
-
-128382	
-
-128386	
-
-doric
-128391	
+128377	epic
+128388	doric
 128393	ionic
-
 128396	doric/aeolic
-
+128398	doric/aeolic
 doric/aeolic
-doric/aeolic
-128401	
-
 128404	attic/epic/doric
-
-
-
-epic
-128410	
-doric/aeolic
-
-
-
-doric/aeolic
+128408	epic
+128411	doric/aeolic
+128415	doric/aeolic
 epic
 attic/epic
-
-128420	
-
-
-
-
-
-
-attic/epic/doric
-128429	
-128431	
-
-ionic
-
-
-attic/epic/doric
-
-
-
-
-
-
-attic/epic
+128427	attic/epic/doric
+128433	ionic
+128436	attic/epic/doric
+128443	attic/epic
 doric/aeolic
-
-128447	
-128454	
-128456	
-
-
-
-doric
+128460	doric
 128462	attic/epic/ionic
-128464	
-128468	
-epic
-128471	
+128469	epic
 128473	attic/epic
 128476	epic/ionic/attic
-128479	
+128479	epic
 128481	doric/aeolic
-
-128484	
 128486	doric/aeolic
-
-
-
-
 128492	doric/ionic
-
 128495	attic/epic/ionic
 doric
-
-128499	
-128502	
-128504	
-
-128507	
-
-128510	
-128512	
-128514	
+128499	epic
 128516	doric/aeolic
-
-
-attic
+128519	attic
 128522	doric/aeolic
-
-
-doric/aeolic
+128525	doric/aeolic
 128527	epic/ionic/attic
-
-attic/epic
-
-128532	
-128534	
-
-attic/epic/doric
-
-
-128541	
-128544	
+128529	attic/epic
+128536	attic/epic/doric
 128546	epic
 attic/epic
 doric
-
-
-128552	
-attic
-
+128553	attic
 128556	attic/epic/ionic
-
-128559	
-attic/epic
+128560	attic/epic
 128562	attic
-
-epic/doric/ionic/aeolic
-attic/epic
-
-128568	
-attic/epic/ionic
-
-
-
-
-
-
-128577	
-128581	
+128565	attic/epic
+128569	attic/epic/ionic
 128584	doric/aeolic
-
 128590	doric/aeolic
 doric/aeolic
-128593	
 128596	doric/aeolic
-
-
-
-128604	
-epic
+128605	epic
 doric/aeolic
-
-attic
-
-
-attic
-
+128608	attic
+128611	attic
 128615	attic/epic/doric
-
-128618	
-128620	
-epic/doric
-ionic
-128624	
-
-128629	
-
-ionic/attic/epic/doric
-
+128621	epic/doric
+128631	ionic/attic/epic/doric
 128634	epic/ionic/attic
-128636	
-
 128641	attic/epic/ionic
-
-
-128646	
-128649	
 128651	epic
-
-epic/ionic/attic/doric
-
-
-128657	
-attic
+128653	epic/ionic/attic/doric
+128658	attic
 epic/ionic/attic
 attic
 attic
-epic/doric/ionic/aeolic
-attic/epic
-
-128666	
-
-
-
-
-
-
-
+128663	attic/epic
 128675	doric/aeolic
-128677	
 128679	ionic/doric/aeolic
 doric/aeolic
-
-attic/epic/doric/ionic
-128684	
+128682	attic/epic/doric/ionic
 128686	attic
-
 128689	attic/epic
 128691	doric/aeolic
-
-128694	
-128698	
-128700	
 128702	ionic
 doric/aeolic
-
-
-
-
-
-
 128713	doric
-128715	
-
-attic/epic/doric/ionic
-128719	
-
-
-
-
-epic/ionic/attic
-
+128717	attic/epic/doric/ionic
+128724	epic/ionic/attic
+attic/epic
 128732	attic/epic
 128734	attic/epic/doric
-
-epic/ionic/doric/laconia
-
-epic
-128743	
+128738	epic
 128745	epic/ionic/attic
-128751	
-128753	doric/aeolic
-
-128756	
-128758	
-128760	
-
-128763	
-128765	
-
-
-
-attic
-128771	
-
-
-128776	
-128779	
+128769	attic
 128781	epic
 attic/epic
 doric
-
-
-attic
-
-attic
-128791	
-
+128786	attic
+128788	attic
 128794	attic/epic/ionic
-128796	
 128799	doric/aeolic
-
-
-
-128805	
-
-
-128809	epic/doric/ionic/aeolic
-attic/epic
-
-128813	
-128815	
-
-
-
-
-epic
+128810	attic/epic
+128820	epic
 attic
-
-
-
-128827	
-
-128830	
-128832	
-128834	
-attic/ionic
+128835	attic/ionic
 128837	doric/aeolic
-
-
 128843	doric/ionic
 128849	doric/aeolic
-128853	
-128855	
-128857	
-
-
-
-
-
-doric/aeolic
-
-
-
-
-128872	
-attic/epic/doric/ionic
-128877	
-128879	
-128882	
-
-128891	
-
-128894	
-
-
-
-128899	
+128863	doric/aeolic
+128873	attic/epic/doric/ionic
 128901	attic/epic/doric
-
-128904	ionic
-epic/doric
-128911	ionic
+128905	epic/doric
 128914	doric/aeolic
-
-attic/epic/doric/ionic
-
-
-epic
-128922	
-128926	
-
-128930	
-
-doric/aeolic
-
-attic/epic/doric
-
-
-epic/ionic/attic/doric
+128916	attic/epic/doric/ionic
+128919	epic
+128930	attic/epic/ionic
+128932	doric/aeolic
+128934	attic/epic/doric
+128937	epic/ionic/attic/doric
 128940	ionic/doric/aeolic
-128942	
-doric
-128945	
-
+128943	doric
 128948	epic/doric
 doric
-128951	
-128955	
-128958	
-epic
-128964	
-128966	
-ionic/epic
+128959	epic
+128967	ionic/epic
 attic
-
-
-epic
-
-
+128971	epic
 128975	epic/doric
-128977	
-
-
-
-
-128983	
-
+128984	attic
 doric
-epic/doric/ionic/aeolic
-
-epic/ionic/attic/doric
-128990	
-
-128994	
-128996	
-
-
-doric/aeolic
-
-
-129006	
+128988	epic/ionic/attic/doric
+128999	doric/aeolic
 129008	attic
-
-
-doric/aeolic
-
-
-129015	
-
-129018	
-attic
-129021	
-129023	
-
-129028	
-
-
-129033	
-129036	
+129011	doric/aeolic
+129019	attic
 129038	epic
-epic/doric/ionic/aeolic
-attic/epic
-
-129043	
-129045	
-
-
-
-
-
-
-
+129040	attic/epic
 129054	attic
-
-129058	
 129060	doric/aeolic
-
-
-129064	
-doric/aeolic
+129065	doric/aeolic
 epic/ionic/attic
-
-attic/epic/ionic
-129070	
-
-ionic/attic/epic/doric
-129075	
-
-
-
-
-129081	
-129084	
-129086	
-epic/ionic/doric/laconia
-attic
-
-
-
-129093	
+129068	attic/epic/ionic
+129072	ionic/attic/epic/doric
+129088	attic
 129098	attic/epic/doric/ionic
-129100	
-doric/aeolic
-129103	
-129105	
-
-129109	
-
+129101	doric/aeolic
 129112	doric/aeolic
 doric/aeolic
-
-
-
-doric/aeolic
+129117	doric/aeolic
 epic/ionic/attic
-
-129121	
-129123	
-
-129126	
-129128	
 129130	attic/epic/doric/ionic
-129132	
-
-
-
-doric/laconia
+129136	doric/laconia
 epic
-
-epic/ionic/attic/doric
-129142	
-attic/epic/doric
-
-129146	
-
-
+129139	epic/ionic/attic/doric
+129143	attic/epic/doric
 129150	doric/aeolic
-
-
 129156	attic/epic/ionic
-129158	
 129160	doric/aeolic
-
-epic/ionic/doric/laconia
-attic
-129165	
-129167	epic/ionic/doric/laconia
-
-attic/epic/doric
-
-
-
-129175	
-129178	
+129163	attic
+129169	attic/epic/doric
 129180	epic
-epic/doric/ionic/aeolic
-attic/epic
-
-129185	
-
-
-
-
-
-
-doric/laconia
-
-129195	
-
-129198	
-129200	
-129204	
-129206	
-129209	
-doric/aeolic
-
-
+129182	attic/epic
+129192	doric/laconia
+129210	doric/aeolic
 129214	attic/epic/doric
-129216	epic/ionic/doric/laconia
-
-doric/aeolic
+129218	doric/aeolic
 129222	doric/aeolic
-
-129225	
-doric
+129226	doric
 epic/ionic/attic
-129231	
-129235	
 129238	doric/aeolic
-
-attic/epic/doric
-
-
-129244	
-attic
-
-
-
-129253	
-epic
+129240	attic/epic/doric
+129245	attic
+129254	epic
 doric/aeolic
 129257	attic/epic/doric
-
-129260	
-attic/epic/doric/ionic
+129261	attic/epic/doric/ionic
 129263	attic/ionic/epic/doric
-epic/ionic/doric/laconia
-
-doric
-
-129269	
-
-attic/epic/doric
-129273	
-
+129266	doric
+129271	attic/epic/doric
 129279	doric
-
-
-
-
-
-129286	
-attic
-129292	
+129287	attic
 129294	attic/epic
 attic/epic/ionic
 doric/aeolic
 129298	attic/epic/doric
-
 129301	attic/epic/ionic
-129303	
-attic/epic/doric/ionic
-
-epic/ionic/attic
-
-129309	
-129312	
-
-epic/ionic/attic/doric
-
-129318	
-attic/epic
+129304	attic/epic/doric/ionic
+129306	epic/ionic/attic
+129314	epic/ionic/attic/doric
+129319	attic/epic
 129321	attic
-
-
-129325	
-
-
-
-129331	
+129325	attic/epic/doric
 129335	doric/aeolic
 attic
-
-
 129341	doric/aeolic
 129344	attic
-
-
 129348	doric
-129350	
-attic/epic/doric/ionic
-
-attic
-
-
-attic
-
-
+129351	attic/epic/doric/ionic
+129353	attic
+129356	attic
 129361	doric/aeolic
-
-129364	
-
-
-129369	
-129372	
 129374	epic
-epic/doric/ionic/aeolic
-attic/epic
-
-129379	
-129381	
-
-
-
-
-attic/epic/ionic
-
-
-
-
-129393	
+129376	attic/epic
+129386	attic/epic/ionic
 129397	attic
-
-doric/aeolic
-
-
-129403	
-129406	
+129399	doric/aeolic
 129409	epic
-129412	
-129415	
-129417	
-129423	
-
-
-
-attic
-129429	
-
-epic
-
-129434	
+129427	attic
+129431	epic
 129439	doric/aeolic
-
-129442	
-doric
-
-129446	
-
-129452	
-129457	
-
-
-129461	
-aeolic
-
-
-
-
-129470	
-
-
-129474	
-129476	
-129480	
-129483	
-129486	
-
+129443	doric
+129462	aeolic
 129489	attic/epic/doric
 129491	doric/aeolic
 attic/epic/doric
-
-129495	
-
-129499	
-attic/epic/doric
-129502	
+129500	attic/epic/doric
 129504	doric/aeolic
-129506	
-doric/aeolic
-
-
+129507	doric/aeolic
 129511	doric
-
-129514	
 129516	doric/aeolic
-129521	
-129523	
-129527	
-
-epic/ionic/attic/doric
-
-
-
-129534	
-
-attic/epic
-
-
-
-
-attic/ionic
-129544	
-attic
-129547	
-
-attic/epic
-
-
-
-
-129556	
-129559	
+129529	epic/ionic/attic/doric
+129536	attic/epic
+129541	attic/ionic
+129545	attic
+129549	attic/epic
 129561	epic
-
-
-
 129566	attic/epic/doric
-
-129569	
-attic/epic
-129573	
-doric/aeolic
-
-attic/epic/ionic
-129579	
-129583	
-
-
-129588	
-
-
-attic/epic
-129593	
-
-epic/doric/ionic/aeolic
-129597	
+129570	attic/epic
+129574	doric/aeolic
+129576	attic/epic/ionic
+129591	attic/epic
+129595	epic/doric/ionic/aeolic
 129600	attic/epic/doric
-129602	
-
-attic/epic
-129607	
-129609	
-129612	
+129604	attic/epic
 129614	attic/ionic
 attic/ionic
-
-129621	
 129623	attic
-
-attic/ionic
+129625	attic/ionic
 attic/ionic
 129630	attic
-
-129633	
-129636	
-129639	
-129644	
-attic/epic/doric
-
-129648	
-doric/aeolic
+129645	attic/epic/doric
+129649	doric/aeolic
 epic/doric/aeolic
-
-doric
+129652	doric
 attic/epic
-129655	
-attic
-
-
-doric/aeolic
+129656	attic
+129659	doric/aeolic
 129661	doric/aeolic
 129663	doric/aeolic
-129665	
-
-
-doric/aeolic
-epic/ionic/doric/laconia
-attic
-
-
-epic
-
-
+129668	doric/aeolic
+129670	attic
+129673	epic
 129677	attic
-
-129680	epic/ionic/doric/laconia
-attic
-
-
-
+129681	attic
 129686	attic/epic/ionic
-129689	
-
-attic
-
-129694	
-attic
-
-129698	
-
-129701	
-129703	
-129706	
-129708	
-attic/ionic
-
-129713	
-
-attic/ionic
-
-129719	
-
-
-129724	
-
-129728	
-
-attic/ionic
-129734	
-129736	
-epic
+129691	attic
+129695	attic
+129703	epic
+129709	attic/ionic
+129715	attic/ionic
+129730	attic/ionic
+129737	epic
 129739	epic
-
-
-doric/aeolic
-129747	
+129747	epic
 epic
-129752	
-epic
-
-129757	
-
+129753	epic
+129759	doric/laconia
 doric/laconia
-doric/laconia
-
-
-129764	
-129766	
-epic/doric/aeolic
-129769	
-
-129772	
-129774	epic/doric/ionic/aeolic
+129767	epic/doric/aeolic
+129770	doric/ionic
 129776	attic/epic/doric/ionic
-
-
-doric/aeolic
+129779	doric/aeolic
 129781	doric/ionic
 129783	doric/aeolic
 attic/epic
-129786	
-attic/epic
-
-attic/epic
+129787	attic/epic
+129789	attic/epic
 doric
-ionic
-129794	
-129797	
-
-129801	epic/ionic/doric/laconia
-attic
-129804	
-attic
-
+129802	attic
+129805	attic
 129808	attic/ionic/epic/doric
 attic/epic
 doric
-ionic
-129814	
 129817	doric/epic
 129819	doric
-
-epic/ionic/doric/laconia
-attic
-
-
-
-
-
-
-129830	
-129832	
+129822	attic
 129835	doric/aeolic
 129838	doric/ionic
-129842	
 129844	attic/epic/ionic
-
-
-129848	
-129850	
-
-doric/aeolic
-129854	
-epic/doric/ionic/aeolic
-
-
+129848	epic
+129852	doric/aeolic
 129859	doric/aeolic
 attic
-129862	
-attic
-
-129866	
-
-129869	
-
-129872	
-129874	
-129876	
-
-
-
-129881	
-129883	
-129887	
-doric/aeolic
-129890	
-129894	
-attic/epic
-129897	ionic
-
+129863	attic
+129867	epic
+129869	epic
+129888	doric/aeolic
+129895	attic/epic
 129900	attic/epic/ionic
-ionic
-
+129902	attic/epic/doric
 129904	attic/epic/ionic
-
-129912	
-129914	
-129918	
-129925	
-
-
-
-
-129931	
-
-attic/epic/doric
+129931	attic/epic/ionic
+129933	attic/epic/doric
 epic/doric
-
-
-
-
 129940	doric
 doric/aeolic
-
-
-129945	
 129949	doric/aeolic
-
-129952	
-epic/doric/ionic/aeolic
-
-
-
-attic
-
-129960	
-
-
-129964	
-
-
-
-129970	
-
-
-129974	
-129977	
-epic/ionic
+129957	attic
+129978	epic/ionic
 epic
-
-
 129983	attic
-
-129986	ionic
-
+129987	attic/epic/ionic
 129989	attic/epic/ionic
-129991	
 129993	epic/doric/aeolic
-
 129996	ionic
 attic
-129999	
-attic
-
-epic/doric/ionic/aeolic
-
-epic
-130007	
-130009	
-130011	
-
+130000	attic
+130004	epic
 130015	epic
-epic/ionic/doric/laconia
-attic
+130017	attic
 130021	ionic/doric/aeolic
 130023	doric/aeolic
 130025	doric
-130027	
-epic
-
-doric/aeolic
-
-
+130028	epic
+130030	doric/aeolic
 130034	epic
 attic/epic/ionic
 doric/aeolic
-
-
-
-130044	
-doric/aeolic
-130047	
-
+130045	doric/aeolic
 130052	attic/epic
-
-
-attic/epic
-
-
-
-attic/epic/ionic
+130055	attic/epic
+130059	doric/aeolic
 doric
 130062	ionic/attic/epic
 130068	attic/ionic/epic
 130070	attic/epic
-
-
-doric/aeolic
+130073	doric/aeolic
 130075	parad_form
 130077	attic/epic/doric/ionic
-
 130080	attic/epic/ionic
-130082	
 130085	epic/doric
 attic/epic/doric
-
-
-attic
-
-130092	
-
-130095	
-
+130089	attic
 130098	epic/doric/aeolic
-
-130101	
-130107	
-
-130110	
-130115	
 130122	doric/aeolic
 130126	doric/ionic
 130128	doric/aeolic
 130130	doric/aeolic
-130132	
-130134	
-
-attic/epic
-130139	
+130136	attic/epic
 130141	attic/epic/ionic
-130143	
+130143	attic/epic/doric
 130145	attic/epic/ionic
-130147	
-130149	
-130152	
-
-
-
-130157	
-attic/epic
-130160	
-attic/epic
-
+130158	attic/epic
+130161	attic/epic
 130164	attic/epic
-130166	
-
-130169	
-doric
-130172	
-
-130176	
-ionic
-130180	
-130183	
-130185	
-
-attic/epic/ionic
-130189	
+130170	doric
+130187	attic/epic/ionic
 130191	epic
-130193	
-epic/doric/ionic/aeolic
-
-
-
-130201	
-
-
-130207	
-
-
-
-
-
-
-
-
-attic/epic/doric
-130218	
+130216	attic/epic/doric
 130220	attic/epic/doric
-130222	
-130224	
-130228	
-130232	
-130235	
-epic/ionic/attic/doric
-130238	
-attic/ionic
-epic/doric/ionic/aeolic
-
-
+130236	epic/ionic/attic/doric
+130239	attic/ionic
 130246	doric
 130248	attic
 attic
-
-
-attic/epic/doric
-130254	
+130252	attic/epic/doric
 130259	attic/epic
-130264	
 130267	epic/doric
-
 130270	attic/epic/ionic
-130272	
 130274	doric
-130277	
-
-attic/epic/ionic
-epic/doric/ionic/aeolic
-
-
-130286	
+130279	attic/epic/ionic
 130288	attic
 epic/ionic/attic
-
-
-attic/epic/doric
-130294	
+130292	attic/epic/doric
 130296	attic/epic/doric
 130298	doric/aeolic
-130300	
-130304	
-
-
-
-ionic
-
-130312	
-epic/doric
-
-
-
-
-
-doric
+130308	ionic
+130313	epic/doric
+130319	doric
 130321	attic
 130324	attic/epic
-130326	
-130330	
-130333	
-
-130336	epic/doric/ionic/aeolic
-
-
 130344	epic/doric
 attic
-130347	
-
-attic/epic/doric
-130351	
+130349	attic/epic/doric
 130353	attic/epic/doric
-130357	
-130359	
-
-doric/aeolic
-
-
-
-130366	
-
-130370	
-130373	
-
-
-130377	
+130361	doric/aeolic
 130379	attic/epic/ionic
-
-
-
-130384	
-130387	
-
-130390	
-
-doric
+130392	doric
 130394	attic/epic/ionic
-epic/doric/ionic/aeolic
-
-
 130399	attic/epic/ionic
-130401	
-
+130402	attic/epic/doric
 attic
-
+130405	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-
-
+130409	epic
 130412	attic
-
-130415	
+130415	epic
 130417	doric/aeolic
-130419	
-130421	
-
-130424	
-
-
-
-doric
-
-doric/laconia
-130433	
-attic/epic/doric/ionic
+130425	doric
+130428	doric
+130430	doric/laconia
+130434	attic/epic/doric/ionic
 130436	attic/epic/doric/ionic
-130438	
-
-
-
-attic/epic/doric
-
+130442	attic/epic/doric
 130445	attic/epic/ionic
-130448	
 130451	attic/epic/ionic
-130454	
-
-
-130459	
-
-130463	
-
-
-130467	
-130469	
-
-130473	
-130476	epic/doric/ionic/aeolic
-
-
-
+130460	doric
 130483	attic/epic/ionic
-130489	
 130492	doric/aeolic
-
-130497	
 130499	attic/epic/ionic
-130501	
-
-130504	
 130506	attic
-
-epic
-ionic
+130508	epic
 130511	attic/epic/ionic
-
-epic/ionic/attic
-
-130518	
-attic
+130513	epic/ionic/attic
+130519	attic
 130521	epic/attic/ionic
-130523	
-130526	
-130528	
-130530	
-
-130534	
-
-
-
-130540	
-parad_form
+130541	parad_form
 130543	attic/epic/ionic
-130545	
-130548	
-attic/epic/doric
-130551	
-130554	
-
-130558	
-130560	
-
-130563	ionic
-
-130567	ionic
+130549	attic/epic/doric
+130568	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-
 130573	epic
-130579	
-130581	
-130583	
-
-
-epic/ionic/attic
+130586	epic/ionic/attic
 attic
-130589	
-attic
-
-130593	
+130590	attic
 130595	doric
 attic
-130598	
-
-
-
-
-attic/epic/ionic
+130603	attic/epic/ionic
 130605	doric
-
-130608	
-doric/aeolic
-130611	
-130613	
-130617	
-doric/aeolic
+130609	doric/aeolic
+130618	doric/aeolic
 130620	doric/aeolic
 130622	attic/epic/ionic
-130626	
 130628	attic/epic/ionic
-
-
-
-130633	
 130635	attic/epic/ionic
-130637	
-130639	
-130641	
-
-130645	
-130648	
-
-130651	
-
-130654	
 130657	epic/doric
-
-130661	
-attic/epic/doric
-130665	
-
+130662	attic/epic/doric
 130668	attic/epic/ionic
 130671	doric/aeolic
-
-
+130673	attic/epic/ionic
 doric
 130676	attic/epic/ionic
 130679	doric/aeolic
-130681	
-doric/aeolic
-130686	
-attic
-
-
-
-
-
-
-epic/doric/ionic/aeolic
-130698	
-
-
-130705	
-attic/epic/ionic
+130682	doric/aeolic
+130687	attic
+130706	doric/aeolic
 doric
 epic
-130710	
-doric
+130711	doric
 doric/aeolic
-
-130716	
-doric
-130719	
-130721	
-doric
-130724	
-130726	
-doric
-130729	
-130731	
-doric
-130734	
-130736	
-doric
+130717	doric
+130722	doric
+130727	doric
+130732	doric
+130737	doric
 attic/epic/ionic
-
-130741	
-doric
-
-
-130746	
-doric
-
-
-130751	
-doric
-130754	
-130756	
-doric
-
-
-130761	
-doric
-130764	
-130766	
-doric
-130769	
-130772	
-
-
+130742	doric
+130747	doric
+130752	doric
+130757	doric
+130762	doric
+130767	doric
 130776	attic/epic/doric
-130779	
-
-130784	
-130788	
-130790	
 130792	ionic
-130794	epic/ionic/doric/laconia
-attic
-
-130798	epic/ionic/doric/laconia
-attic
+130795	attic
+130799	attic
 130802	doric/aeolic
 doric/aeolic
-130806	
-130809	
 130811	epic
-
-130814	
-attic
-
-attic/epic
-
-
-attic/epic
-130822	
-attic/epic
-
+130815	attic
+130817	attic/epic
+130820	attic/epic
+130823	attic/epic
 130826	attic/epic
-130830	
-attic/epic/doric
-130833	
-attic
-
-130837	
-
-130840	
-
-
+130831	attic/epic/doric
+130834	attic
 130844	epic
-epic/ionic/doric/laconia
-attic
-
-
-
-
-
-130853	
-attic/epic
-
-
-attic/epic/ionic
-
-
-130861	
-
-130864	
-
-130867	
-
-130870	
-doric
-130873	
-epic/doric/ionic/aeolic
-130876	
-
-attic/epic
-
-
-ionic
-130884	
+130846	attic
+130854	attic/epic
+130857	attic/epic/ionic
+130871	doric
+130874	epic/doric/ionic/aeolic
+130878	attic/epic
 130886	attic/epic/ionic
-epic/doric/ionic/aeolic
-doric
-
-
-
-
-
-130896	
+130888	doric
 130898	doric/aeolic
 doric/aeolic
 doric/aeolic
 doric/aeolic
 doric
 epic
-130905	
-
-130909	
-
-
+130905	epic
 130913	doric
-130915	
 130918	epic
-
-130921	
 130928	doric/aeolic
 doric/aeolic
-
 130933	doric/aeolic
-
-attic/epic
-
-attic
-130939	
+130935	attic/epic
+130937	attic
+130939	epic
 130941	epic
-epic/ionic/doric/laconia
-attic
-
-attic
-
+130943	attic
+130945	attic
 130948	epic
-
-
-130953	
-attic/epic
-130956	
-130958	
-130960	
-attic
-
-
-130966	
-epic/doric/aeolic/attic/ionic
-130969	ionic
-attic/epic/doric/ionic
-130972	ionic
-
-
-130977	
-130979	ionic
-
-130982	
-130986	doric/aeolic
-
-attic
-
-130993	
-130995	
-attic/epic/ionic
+130954	attic/epic
+130961	attic
+130967	epic/doric/aeolic/attic/ionic
+130970	attic/epic/doric/ionic
+130988	attic
+130996	attic/epic/ionic
 doric/aeolic
 doric
-131000	
-
-131003	
-
-
-
-131008	
-epic/doric/ionic/aeolic
-131011	
 131017	doric/aeolic
-
-attic/epic
-131021	
-131024	
-131026	
+131019	attic/epic
 131028	epic/ionic
-epic/ionic/doric/laconia
-attic
-
-131035	
-
-131038	epic/doric/ionic/aeolic
-131041	
-131043	
-
-attic
-
-
-131049	
-131052	
-131054	
-
-
-131059	
-
-131062	
-131064	
-131066	
-131068	epic/ionic/doric/laconia
-attic
-
-131073	
-131075	
-131079	
-
-
+131030	attic
+131045	attic
+131069	attic
 131083	attic
-131085	epic/ionic/doric/laconia
-attic
-
+131086	attic
 131089	epic/doric/aeolic
-
-131097	
-attic
-
-attic
-
+131098	attic
+131100	attic
 131103	doric
-ionic
 131106	attic/epic/ionic
 131109	doric/aeolic
 131111	doric/aeolic
 131113	doric/aeolic
-131116	epic/doric/ionic/aeolic
-
-
-attic/epic/doric
-
+131119	attic/epic/doric
 131122	doric/aeolic
-
-131127	
-131129	epic/doric/ionic/aeolic
-
-
-131135	
-131138	
-
-
-131143	ionic
 131145	attic/epic/ionic
-131148	
 131150	attic/epic/ionic
-131154	
-
-
-131163	epic/doric/ionic/aeolic
-
-131169	
-
-131173	
-131175	ionic
 131177	doric/aeolic
-131181	
-131183	
-
-131188	
-
-131191	
-
-
-epic/ionic
-
-
-doric/aeolic
-131200	
-
-131204	epic/doric/ionic/aeolic
-
+131194	epic/ionic
+131197	doric/aeolic
 131210	epic
-
-attic
-
-131217	
-
+131212	attic
 131220	epic
-
-131223	
-
-doric
-131227	
+131225	doric
+131228	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-doric
+131231	doric
 131234	doric/aeolic
 attic
-131237	
-
-131243	
-
-doric
-ionic
-131250	
-
-
-
-
-doric
-
-131258	epic/doric/ionic/aeolic
-
-131264	
-131266	
-attic
-
-131271	
+131245	doric
+131255	doric
+131267	attic
 131273	doric
-131276	
-
-doric
-
-131282	
-
-131285	
-
-
-doric
-131290	
-131293	
-131295	doric/aeolic
-epic/doric/ionic/aeolic
-
-131300	
-131303	
-131305	
-
+131278	doric
+131288	doric
 131312	attic/epic/doric
-
 131315	attic/epic/ionic
-
-
-
-
-131322	
+131323	attic/epic/doric
 attic/epic/doric
-attic/epic/doric
-
-
-131328	epic/doric/ionic/aeolic
-
-
-131334	
-131336	
-attic
-
-
-ionic
+131337	attic
 131342	attic/epic/ionic
-131345	
-
-
-attic
-131353	
-131361	
-attic
-131364	
-131366	
-131370	
-131373	
-131375	
-attic
-
-attic
-131381	
-attic
-
-
-131386	ionic
+131348	attic
+131362	attic
+131376	attic
+131378	attic
+131382	attic
 131388	attic/epic/ionic
-131391	
-
-
-epic
+131394	epic
 doric/aeolic
-
-attic/epic/doric
+131397	attic/epic/doric
 131399	attic/epic/ionic
-131402	
-
-
-attic/epic/doric/ionic
+131405	attic/epic/doric/ionic
 131409	attic/epic/ionic
-ionic
-
-
-ionic
-
-131416	
-
-131419	
-131421	
-epic
+131422	epic
 131425	attic
-
-
-
-
-131432	
-
-
-
-131438	
-131440	
-131443	
-131445	
-
-131448	
-131450	
-131453	
 131455	ionic
 131457	attic/epic/doric/ionic
-
-epic
-131463	
-
-attic/epic/doric/ionic
+131459	epic
+131465	attic/epic/doric/ionic
 131468	attic/epic/doric/ionic
-131471	
-
-131475	
-131477	
-131479	
 131481	attic/ionic
-131484	ionic
-131487	
-doric/aeolic
+131488	doric/aeolic
 epic/doric/aeolic
-
-
-
-attic/ionic
-
-131496	
-
-
-
-
-
-131504	
-
-
-doric
-131509	
-
-
-
+131493	attic/ionic
+131507	doric
 131514	doric/aeolic
-131516	
-131518	
 131520	attic/epic
-131522	
-doric/aeolic
-
-doric
-
-
-doric/aeolic
-131530	
-
-
-ionic
+131523	doric/aeolic
+131525	doric
+131528	doric/aeolic
 131536	epic
 doric/aeolic
 attic/epic/ionic/doric/aeolic
-
-131543	
-131546	
-
-
-
-
-131552	
-
 131555	epic
-131557	
 131563	doric/aeolic
-
-131568	
-
-attic/epic/ionic
+131570	attic/epic/ionic
 doric/aeolic
-
-epic/ionic/attic/doric
+131573	epic/ionic/attic/doric
 attic
-131576	
-epic
-
-attic/epic/doric
-131584	
-
-epic/doric/ionic/aeolic
-
-
+131577	epic
+131579	attic/epic/doric
 131593	epic/doric
-131595	
-
-
-doric
+131598	doric
 attic
-
-attic
-
-attic
-epic/ionic/doric/laconia
-attic
-
-
-attic/epic
-
-
-
-
-131615	
-131621	
-attic/epic
-
-attic/epic
-131629	
+131601	attic
+131603	attic
+131605	attic
+131608	attic/epic
+131622	attic/epic
+131624	attic/epic
 131631	attic/epic/doric
-
-131634	ionic
 131636	doric/aeolic
 131638	doric
-131640	
-131643	
-
-131646	
-
-
-131650	
-131652	
 131654	attic
-131661	
-131664	
-131667	
-
-attic/ionic
-131674	
-131677	
+131669	attic/ionic
 131681	attic/epic
-131683	
-epic/doric/aeolic
-
-
-
-epic/doric/aeolic
-131691	
-
-131694	
-
-131700	
-
-
-doric/laconia
-
-131708	
-
-
-
-attic
-
+131684	epic/doric/aeolic
+131688	epic/doric/aeolic
+131703	doric/laconia
+131712	attic
 131715	attic
-
 131718	attic
-
-attic
-
-
-
-131725	
-
-131728	
-
-
-
-attic/epic
-131734	
-131737	
-131740	
-
+131720	attic
+131732	attic/epic
 131743	doric/aeolic
-
-attic/ionic
+131745	attic/ionic
 131747	doric
 epic/doric/aeolic
-131750	
 131752	epic
-131754	
-131756	
-
-epic/ionic
-
-131761	
-131765	ionic
-131767	
-
-epic
-
-doric
-
-
-
-attic/ionic/epic/doric
-
-
-131779	
-131781	
-attic
-131784	
-attic
-131787	
-attic
-131790	
-
-131793	
-
-
+131758	epic/ionic
+131769	epic
+131771	doric
+131775	attic/ionic/epic/doric
+131782	attic
+131785	attic
+131788	attic
 131802	attic/epic/doric
-131804	
-131806	
-
-
-
-131811	
-
-
-
-131816	
-131818	
-
-131821	
-
-131824	
-epic/doric/ionic/aeolic
-
-131829	
-
-
-attic
-
-epic
-131837	
-
-
-131842	
-131846	
-
-
-131851	
-131853	
-
-
-
-131858	
-
-
-ionic
-
-
-131869	
+131832	attic
+131834	epic
+131861	ionic
 131871	ionic/doric/laconia
-
-131874	
-131877	
-
 131880	attic/epic/ionic
 131882	epic/doric
-
 131886	attic/epic/ionic
-
-131889	
-epic/doric
-131892	
-
+131890	epic/doric
+131894	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-doric/aeolic
-epic/doric/ionic/aeolic
-
-131901	
-
-doric/aeolic
-
+131897	doric/aeolic
+131903	doric/aeolic
 131908	epic/doric
-
-attic
-
-doric
-
-
-131916	
-
-doric/aeolic
-131920	
-
-131923	epic/doric/ionic/aeolic
-
-131926	
-
-
-
-131931	
-131933	
+131910	attic
+131912	doric
+131918	doric/aeolic
 131935	attic/epic/ionic
-131938	
-
 131941	doric/aeolic
-ionic
-131947	
-attic/epic
+131948	attic/epic
 doric
-ionic
-131953	
 131956	epic/doric
-131960	
-
-
 131965	attic/epic/ionic
-131967	
-
 131972	doric/aeolic
-131974	
-
-131977	
-131982	
 131984	ionic
 131986	doric
 attic
-131991	
 131997	attic
-
-
-132002	
-
 132005	epic/doric/aeolic
-epic/doric/ionic/aeolic
-
-doric/aeolic
-132011	
-attic
-
+132008	doric/aeolic
+132012	attic
 132015	doric
-132017	
 132019	doric
-
-
-132026	
-
-ionic
+132028	ionic
 attic
 132031	attic
-132033	
-132035	
-132037	
 132039	attic/epic/ionic
-132045	
-
-132050	
-132052	
-132054	
-132056	
 132059	attic/epic/doric/ionic
-
 132062	doric/aeolic
-132064	
-attic/epic
-132067	
-132069	
-
-132073	
-132075	
-
+132065	attic/epic
 132079	attic
-132082	
 132085	epic/doric/aeolic
-
-attic/epic
-132089	
-
-132092	
-132094	
-
-132098	
-
-
+132087	attic/epic
 132102	epic
 132104	attic/epic
-
-132107	
-
-epic
+132109	epic
 132113	ionic
-132117	epic/doric/ionic/aeolic
 132121	attic/ionic
-132123	
-
-132126	
 132129	attic
-
-132133	
 132136	attic/epic/doric
-
-
 132141	epic/doric
 132144	attic
-
-
-132149	
-132152	
 132160	doric/aeolic
 attic/epic/doric/ionic
-
-132166	
-132168	
-132170	
 132172	attic/epic/doric/ionic
 doric/aeolic
-
-doric/aeolic
-
+132175	doric/aeolic
 132180	epic
-
 132183	doric/aeolic
-132185	
 132187	doric/aeolic
-
-epic/ionic/doric/laconia
-attic
-
+132190	attic
 132193	attic/epic/ionic
-132196	
-
-132199	
-
-132202	
-
-attic
-132206	
-132208	
-132211	
-132213	
-
-
-132217	
+132204	attic
 132219	attic/epic
 132223	epic
 132225	doric/aeolic
-
-132229	
-
-132232	
+132233	doric/aeolic
 doric/aeolic
-doric/aeolic
-132236	
-
 132239	doric/aeolic
 epic
-
-
-doric
-132245	
-ionic
-
-132249	
+132243	doric
 132251	attic/epic/ionic
-
-doric
-
+132253	epic
 132256	doric/aeolic
 132262	doric/aeolic
-
 132265	epic/ionic/doric/laconia
-132267	
-
-132271	
-132273	
 132276	attic/ionic
 132279	attic/epic/doric/ionic
-132284	
-
-132287	
 132293	attic/epic
-
-
-132297	
-132300	
-
-
-
+doric
 132305	epic
-
-
-
-132310	
 132312	ionic
-132317	
-doric/aeolic
+132318	doric/aeolic
 attic/epic
-132321	
-132323	
-132325	
-
-epic
-132329	ionic
-
-132332	
-attic/epic/doric
-
+132327	epic
+132333	attic/epic/doric
 132336	attic/epic/ionic
 epic
-132339	
 132344	attic/epic/doric/ionic
-
-
-132348	
 132350	doric/aeolic
 132353	attic/epic/doric
-
 132356	attic/epic/ionic
-132358	
-doric/aeolic
+132359	doric/aeolic
 attic/epic
 doric/aeolic
-132363	
 132365	attic/epic/ionic
-
-attic
-
-
-
-
-132373	
-
-132377	
+132367	attic
 132381	epic
-
 132388	doric
-132390	
-attic
-
-attic/epic/ionic
-
-
-132398	
-ionic
-132402	
-
-132408	
-132410	
-epic/doric/ionic/aeolic
-
-attic/epic/ionic
-
-
-132421	
+132391	attic
+132393	attic/epic/ionic
+132413	attic/epic/ionic
 132424	epic
-132427	
-attic/epic
-132431	
-132433	
-132435	
+132428	attic/epic
 132437	attic/epic/doric
 132441	doric/aeolic
 attic/epic
-
-attic
-
-attic
-132448	
-
-
-attic/epic/doric
-
-132454	
-doric
-132457	
-epic/doric/ionic/aeolic
-
+132444	attic
+132446	attic
+132451	attic/epic/doric
+132455	doric
 132465	doric/aeolic
-
-
-attic/epic
-132470	
-132472	
-
+132468	attic/epic
+132474	attic
 attic
 attic
-attic
-
-
 132480	attic
-
-
-132484	
-ionic
-132488	
-132491	
-
-132495	
-epic/ionic/doric/laconia
-attic
-
-132500	
-132503	
-epic
-
-
-
-
-132510	
-attic/epic
-
-
-attic/epic/doric
-
-
-
-132519	
-132521	
-
-132524	
-epic/doric/aeolic
-
-132530	
-132536	
-doric/aeolic
-132540	
-
-doric
-
-132545	
-
-
-
-
-132555	
-
+132497	attic
+132504	epic
+132511	attic/epic
+132514	attic/epic/doric
+132522	doric/ionic
+132525	epic/doric/aeolic
+132537	doric/aeolic
+132542	doric
 132558	epic
 132561	attic/epic/doric
 132566	doric/aeolic
-
-132569	
-132574	
 132578	attic/epic/ionic
-132580	
-
-doric
+132582	doric
 attic
-
-
-
-attic/epic
-132591	
-132595	
-
-attic/epic
-132599	
+132587	attic/epic
+132597	attic/epic
 132602	doric/aeolic
 132604	doric/aeolic
 132606	doric/aeolic
-132610	
-attic/epic/ionic
-epic/doric/ionic/aeolic
-132616	
-attic/epic
-132624	
-132626	
-
-doric
-132631	
+132611	attic/epic/ionic
+132617	attic/epic
+132626	attic/epic/doric
+132628	doric
 132636	doric
-
-132639	
-
-attic/epic/doric/ionic
-132643	
-attic/epic/doric/ionic
+132641	attic/epic/doric/ionic
+132644	attic/epic/doric/ionic
 132647	attic/epic/doric
-132652	
-attic/epic
+132653	attic/epic
 132656	attic/epic/doric
-
-132660	
+132661	epic/doric/aeolic
+132668	doric/aeolic
 epic/doric/aeolic
-
-132665	
-132667	
-doric/aeolic
-epic/doric/aeolic
-
-
-132674	
-
-
-attic/epic/doric/ionic
-132679	
-
-doric
+132677	attic/epic/doric/ionic
+132681	doric
 attic
-
 132685	doric
-132687	ionic
 132689	attic/epic/ionic
-132691	
-
-epic/doric/aeolic
-epic/ionic/doric/laconia
+132693	epic/doric/aeolic
 132699	attic/epic/doric
-
-132702	
-132706	
-132710	
-132712	
-132714	
-
-doric/aeolic
-
+132716	doric/aeolic
 132719	attic
-132727	
-132731	
-
-132734	
 132736	epic
-ionic
-132739	
-132741	
-
-132744	
-
-attic
-
-
-
+132742	attic/epic
+132746	attic
+132749	attic/epic
 132752	doric/aeolic
-
-doric/aeolic
-
-epic/doric/ionic/aeolic
-132759	
-attic/epic
-132762	
-132765	
-attic/epic/doric
-
-attic
-
-
-attic
-
-132774	
-
-132778	
-attic/epic/doric
-
-132782	
-
-ionic
-132787	
-132789	
-attic/epic
-132794	
-
-
-132798	
-epic/doric/ionic/aeolic
-
-132802	
-attic/epic/doric
-132806	
-
-
-epic/ionic/attic/doric
+132754	doric/aeolic
+132760	attic/epic
+132766	attic/epic/doric
+132768	attic
+132771	attic
+132779	attic/epic/doric
+132790	attic/epic
+132799	epic/doric/ionic/aeolic
+132803	attic/epic/doric
+132809	epic/ionic/attic/doric
 132811	attic/epic
 attic/epic/ionic
-132814	ionic
 132816	attic/epic/ionic
-132818	
-attic/epic/doric
-
-132822	
+132819	attic/epic/doric
 132826	epic/doric
-132828	
-attic/epic
+132829	attic/epic
 132831	doric
-132834	
-
-132837	
-epic/doric/ionic/aeolic
-132840	
-
-attic
-
-
-132846	
-
-attic
-
-
-
-132853	
-132855	
-
-
-
-attic/epic/doric
-132861	epic/ionic/doric/laconia
-attic
-
-
-
-132870	
-132872	
-132874	
-attic
-132878	
-132882	
-
-132885	
-
-132888	
-
+132838	epic/doric/ionic/aeolic
+132842	attic
+132848	attic
+132859	attic/epic/doric
+132862	attic
+132872	epic
+132875	attic
+132878	epic
 132891	epic/ionic/attic
-
-132894	
-
-132897	
-
-
-attic/epic/doric
+epic
+132900	attic/epic/doric
 132903	attic/epic/ionic
 132906	doric/aeolic
-
-132909	
 132912	epic/doric
-
-
 132916	doric
-
-
-
-
-epic/doric/ionic/aeolic
-
-epic
-
-
-
-132928	ionic
+132923	epic
 132930	attic/epic/ionic
-132937	
-132940	
-132942	
 132945	attic
 132947	attic
-132949	
-
-ionic
-132953	
-ionic
-132960	
-
-132963	
-132965	
-
-
-epic/ionic/attic
+132960	attic/epic
+132968	epic/ionic/attic
 attic
 132972	doric
-
-epic/doric/ionic/aeolic
-
-attic
-132978	
-doric
-132983	
-132985	
-132987	
-
-132991	
-attic/epic/ionic
-
-132996	
-
-attic/epic/ionic
+132974	epic/doric/ionic/aeolic
+132976	attic
+132992	attic/epic/ionic
+132998	attic/epic/ionic
 133003	epic
-133006	
-doric
-
-
-
-attic
-133013	
-133016	
-
-
-
-133022	
-
-133025	
-
-
-attic
-133031	
-attic/epic/doric
+133007	doric
+133011	attic
+133028	attic
+133032	attic/epic/doric
 doric/aeolic
 doric/aeolic
 attic
-
-133038	
 133040	doric/aeolic
 attic
-133043	
-
 133046	aeolic
-133048	
-epic/doric/ionic/aeolic
-
-
-133053	
-epic/ionic/doric/laconia
-
-
-133058	
+133054	epic/ionic/doric/laconia
 133060	epic/doric/aeolic
-
-133063	
-
-doric
-
-
-133070	
-doric/aeolic
+133065	doric
+133071	doric/aeolic
 epic/doric/aeolic
-
-133075	
 133078	epic/ionic/doric/laconia
-
-
-epic/doric/aeolic
+133081	epic/doric/aeolic
 attic/ionic
 attic/ionic
-133085	
-133087	
-
-attic
-133093	
-
-133099	
-
-
-133104	
-133107	
-
+133089	attic
 133110	doric/aeolic
-133114	
-
-
-
-
-133120	ionic
-133123	
-
-attic
+133125	attic
 epic/ionic/attic
-
 133131	attic/epic/ionic
-
-attic/epic/ionic
-doric
-attic
-
-133138	
-attic/epic
-
-
+133133	attic/epic/ionic
+133135	attic
+133139	attic/epic
 133144	doric/aeolic
 attic/epic
-133148	
+133149	attic/epic
+133153	attic/ionic
 attic/epic
-133151	
-
-attic/ionic
-attic/epic
-133157	
-doric/aeolic
-
-133161	
-133164	
+133158	doric/aeolic
 133166	attic/epic/doric
-
 133169	doric/aeolic
-133172	
-
-
-
-133179	
-133182	
-ionic
-doric/aeolic
-133187	
-
+133184	doric/aeolic
 133190	doric/aeolic
-
-133194	
-
-133197	
-attic/epic
+133198	attic/epic
 133200	attic/epic/doric
-133203	
-
-133206	
-
-
 133210	attic/ionic
-133214	
-
-
-
+133217	attic/epic/ionic
 133222	ionic/doric/aeolic
 133226	attic/ionic/epic/doric
-133229	
-attic/epic/doric
-
+133230	attic/epic/doric
 133233	attic/epic/ionic
-
-
 133238	doric/aeolic
-
-
-attic/epic
+133241	attic/epic
 133244	attic/epic/ionic
 attic
 133247	attic
-133249	
-
-attic
-
-
-
-133257	
-
-ionic
-doric/aeolic
-ionic
-doric/aeolic
-
-
-
-
+133251	attic
+133260	doric/aeolic
+133262	doric/aeolic
 133268	attic/epic/doric/ionic
 attic/epic
-133271	
-133276	
-133279	
-epic/doric/ionic/aeolic
-
-
-epic/doric/ionic/aeolic
-
+133280	epic/doric/ionic/aeolic
 133286	epic/ionic/doric/laconia
-
-
 133290	attic/epic/ionic
 133295	attic/ionic
-133299	
-
 133303	doric/aeolic
 attic
-
-
-
+133307	attic/epic/ionic
 attic/epic
-epic/ionic/doric/laconia
-
 133312	attic/epic
 133314	attic/epic/ionic
-133317	
 133319	attic/epic/doric
-
-attic/ionic/epic/doric
+133321	attic/ionic/epic/doric
 133323	epic/ionic/doric/laconia
-133325	
-
-133328	
-
-attic
+133330	attic
 epic/ionic/attic
-
 133334	attic/epic
-
-
-
-133340	
-
-attic
-
-133345	ionic
+133342	attic
 133347	attic/epic/ionic
-epic/ionic/doric/laconia
-
-
-133352	
 133354	attic/epic/doric
-
 133357	attic/epic/ionic
-
-
-
-
-133363	
-
-epic/ionic/doric/laconia
-attic
-
-
-133370	epic
-
-133373	attic/epic/ionic
-
-133376	attic/epic
-133379	
-133381	
-133388	
-133391	
-133393	attic
-
-
-133397	
-
-ionic
-attic
-
-133403	
-
-133406	doric/aeolic
-
-
-
-133411	attic
-
-133415	attic/epic
-133418	
-133427	
-133430	
-133433	
-
-
-
-
-
-133441	
-133443	ionic
-
-
-133448	
-133450	
-
-
 epic
-
-
-
-
-
-
-
-133462	
+133366	attic
+133370	epic
+133373	attic/epic/ionic
+133376	attic/epic
+133393	attic
+133399	ionic
+attic
+133406	doric/aeolic
+133411	attic
+133415	attic/epic
+133443	ionic
+133453	epic
 133464	doric/aeolic
 attic
-
-
 133470	attic
-133472	
-133474	
-
-133477	
-
-attic/epic/doric
+133479	attic/epic/doric
 133483	attic
-
-133487	
-133490	
-133492	
-133494	
-133496	epic/doric/ionic/aeolic
-
 133499	attic/epic/doric
-133503	
-133505	
-doric/laconia
-133509	
-
+133506	doric/laconia
 133514	doric
 133516	doric/aeolic
-
 133520	doric/aeolic
 attic
-133523	
-
-
-
-
-
 133531	epic/doric
-
-attic
-
-
-epic/doric
+133533	attic
+133536	epic/doric
 doric
-
-133540	
-epic/doric
-
-133545	
-doric/aeolic
-133549	
-attic/epic/doric
-
-
-133555	
+133541	epic/doric
+133546	doric/aeolic
+133550	attic/epic/doric
 133557	epic
 attic/epic/ionic
 doric/aeolic
-epic/ionic/doric/laconia
-attic
-
-133564	epic/ionic/doric/laconia
-
-
-
-133569	
-
+133561	attic
 133576	attic/epic/ionic
-
-
-
-
-133584	
-133586	
 133588	attic/epic/ionic
 133590	epic
 epic/ionic
-
-doric
-
-133596	
+133593	doric
 133598	epic
-133600	
 133602	attic/epic
-133605	
-
-133609	
-
-
-
-attic/epic
-
+133605	attic
+133613	attic/epic
 133616	attic/epic
-133619	
-attic/epic
-133622	
-
+133620	attic/epic
 133627	epic
-epic/doric/ionic/aeolic
-
-133632	
-
-133635	
-doric/laconia
-
-133639	
-133642	
+133636	doric/laconia
 133644	attic/epic/ionic
-133646	
-
 133652	ionic/doric/aeolic
-133655	
-
-
-133659	
-133661	
 133663	epic
-
-doric/aeolic
-
-
-
-
-133672	
+133665	doric/aeolic
 133674	attic/ionic
 attic/epic
 133681	attic/epic/ionic
 133683	doric/aeolic
 133685	doric/aeolic
 doric
-epic/doric/ionic/aeolic
 133691	attic/epic/ionic/doric
-
+133693	epic
 epic
-epic
-
-
-attic/epic/ionic
-
-
-attic
-
-attic
-
-133705	
+133697	attic/epic/ionic
+133700	attic
+133702	attic
 133707	epic/doric/aeolic
-
-
-doric/aeolic
-epic/doric/ionic/aeolic
+133710	doric/aeolic
 133715	attic/epic/ionic/doric
-
-
-
-
-133721	
-
-epic/ionic/attic
+133723	epic/ionic/attic
 133725	epic/ionic/doric/laconia
-133729	
-133731	
-
-
-attic
+133734	attic
 epic/ionic/attic
-
-
-
-133740	
-
-133744	
-
-attic
-
-attic
-
-attic
-
-attic
+133746	attic
+133748	attic
+133750	attic
+133752	attic
 133754	attic
-
-attic/epic
+133756	attic/epic
 133759	doric
-
-133763	
-133766	
-epic/ionic/doric/laconia
-attic/epic/doric
-
-133771	epic/ionic/doric/laconia
-attic
-133775	
+133768	attic/epic/doric
+133772	attic
 133777	attic
-133779	
-ionic
-133783	
-133785	
-epic
-133788	
-133791	
-attic/epic/doric
+133786	epic
+133792	attic/epic/doric
 133794	epic/ionic/doric/laconia
-133798	
-133800	
-
-
-133804	
-attic
-133807	
-133809	
-133811	
-
-133814	
+133805	attic
 133816	doric/aeolic
 doric/aeolic
 attic
-
 133823	attic
-epic/doric/ionic/aeolic
 133826	doric
-
-attic
-
-attic/epic/ionic
-
-
-
-
-
-
-
+133828	attic
+133830	attic/epic/ionic
 133840	epic
-
-133844	
-133846	
-
-
-
-
-133853	
-attic/epic
-133856	
-epic/doric/ionic/aeolic
-
+133854	attic/epic
 133860	attic/epic/doric
 133862	attic/epic/ionic
-133864	
-133867	
-attic/ionic
-133870	
-
-
-133875	
-133877	
-133879	
-
-ionic
-
-133884	
-epic/doric/ionic/aeolic
-133888	
-
-attic
-
-133893	
-
+133868	attic/ionic
+133881	ionic
+133890	attic
 133896	attic/epic
-133898	
-133901	
-133904	
-133906	
-
-
-
-
-
-
-133914	
 133917	attic/epic/ionic
 133919	doric
-
-133922	
-133927	
-
 133930	attic/epic/ionic
-133933	
-attic/epic/ionic
-epic/doric/ionic/aeolic
-133938	
-
-attic
-
-attic
-
-attic/epic
-133946	
-133950	
-epic/doric/ionic/aeolic
-133954	
-
-attic
-
-
-
-doric/aeolic
-
-attic
-
-133966	
+133934	attic/epic/ionic
+133940	attic
+133942	attic
+133944	attic/epic
+133956	attic
+133960	doric/aeolic
+133962	attic
 133968	attic/epic
 doric
-133973	
-
-
-
-133980	
 133982	attic/ionic
 133986	attic/epic/doric
 133988	attic/epic/ionic
-
-133991	
-doric/aeolic
+133992	doric/aeolic
 133995	doric
-
-134000	
-ionic
 134003	attic/epic/ionic
 134005	attic/ionic/epic/doric
-134007	
 134009	attic/epic/ionic
 134011	doric
-ionic
 134015	attic
-
-attic
-
+134017	attic
 134022	attic/ionic
-
-
-134029	
-
-
-134035	
-doric
-
-
-
-
-
-
-epic/doric/ionic/aeolic
-
-134047	
-attic/epic
-134052	
-134054	
-134056	
-
+134036	doric
+134048	attic/epic
+134058	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-
-134064	
-
-attic
-
-epic/doric/ionic/aeolic
-
-
-doric/aeolic
+134066	attic
+134071	doric/aeolic
 134073	attic/epic/ionic
-134078	
-attic
-
-134082	
-134085	
-134087	
+134079	attic
+134088	attic
 attic
 attic
-attic
-134092	
-134094	
 134096	doric/aeolic
 134100	ionic/doric/aeolic
 attic
-
 134104	epic
 134106	attic/epic/ionic
-
-attic
-
-attic
-
+134108	attic
+134110	attic
 134114	attic/epic/ionic
 attic
-134117	
-
-134120	
-
-134123	
-
-
-134127	
 134129	doric/aeolic
 134131	doric/aeolic
-
-
-
-
-ionic/epic
-
-134139	
-
-
-134143	
-134145	
+134136	ionic/epic
 134147	doric/aeolic
-
-
-134151	
-
-
-
-doric/aeolic
+134155	doric/aeolic
 attic/epic/doric/ionic
 134158	attic/ionic/epic/doric
-epic/ionic/doric/laconia
-
-
-
-134164	
-134166	epic/doric/ionic/aeolic
-
-
-
-134171	
-
-doric
+134173	doric
 134175	doric
 attic
-134178	
-attic/epic
-134182	
-
-
-attic/epic/doric
-
+134179	attic/epic
+134185	attic/epic/doric
 134188	doric/aeolic
-
-
-
-attic
-
-134195	
-
-
-134200	
-
-doric/aeolic
+134192	attic
+134202	doric/aeolic
 doric/aeolic
 134206	epic
-
-
-
-
-134213	
-attic/epic/doric
-
-doric/aeolic
+134214	attic/epic/doric
+134216	doric/aeolic
 134218	doric
 attic
-
-attic
-
-attic
-134225	ionic
-134228	
-134232	
-doric
-
-
+134221	attic
+134223	attic
+134233	doric
 134237	doric/aeolic
 attic
-
-134241	
-134244	
-134249	ionic
-134254	
-
-doric/aeolic
-
-
-attic/epic/doric
-epic/doric/ionic/aeolic
+134256	doric/aeolic
+134259	attic/epic/doric
 134263	doric
-
-attic
-
-attic/epic/ionic
-134269	
-attic/epic/doric
-
+134265	attic
+134267	attic/epic/ionic
+134270	attic/epic/doric
 134273	epic/ionic
 doric/aeolic
-
-doric/aeolic
+134276	doric/aeolic
 attic
-
-attic
-
-ionic
+134279	attic
 134283	attic/epic/ionic
-epic/doric/ionic/aeolic
-
-
-
 134289	epic/ionic
 134291	epic/doric
-
-ionic
 134295	attic/epic/ionic
-134299	
-134301	
-
-134304	
-134308	
-attic
-
+134309	attic
 134313	attic/epic/doric
-
-134316	
-epic/doric/ionic/aeolic
-
 134320	epic/ionic
 134322	epic/doric
-
-ionic
 134326	doric/aeolic
-134329	
-
-
-134333	doric
+134333	attic/epic/ionic
 doric/aeolic
 attic/epic/ionic
-134337	
-
-
-epic/ionic
-epic/doric/ionic/aeolic
-
+134340	epic/ionic
 134344	epic/ionic
 134346	epic/doric
-
-ionic
-134350	
 134352	doric/aeolic
 doric/aeolic
-
-doric
-134358	
-epic/doric/ionic/aeolic
+134355	doric
 134361	attic
-134363	
-doric
-
-
-
-
-
-134371	
-epic/doric/aeolic
-
-
-
-
-doric
-
-
-
-134382	
-134385	
-
+134364	doric
+134369	doric/ionic
+134372	epic/doric/aeolic
+134377	doric
 134389	doric/laconia
 epic
-epic/doric/ionic/aeolic
 134393	attic
-
-
-
-
-
-134400	
 134402	doric/aeolic
 134404	doric/aeolic
-
-attic
-
-epic/doric/ionic/aeolic
-
+134406	attic
 134411	epic/ionic
 134413	epic/doric
-
-
-134420	
-
-134423	
-
-134428	
-epic
+134429	epic
 134435	doric/aeolic
 attic
-
-attic
+134438	attic
 134441	doric/aeolic
-
-doric/aeolic
-
-doric/aeolic
-134447	
-134450	
-doric/aeolic
-epic/doric/ionic/aeolic
-
-
-epic/ionic
+134443	doric/aeolic
+134445	doric/aeolic
+134451	doric/aeolic
+134455	epic/ionic
 134457	epic/doric
-
-
-134461	
-attic
-
-134466	
-
-
-attic/epic/ionic
+134462	attic
+134469	attic/epic/ionic
 134472	doric/aeolic
 ionic
-
-
+134476	attic
 attic
-attic
-134481	
-attic
-
-
-
-attic/epic/doric
-
-134489	
-
-doric
-
-134494	
-134496	
-
-epic
-
-epic/doric/ionic/aeolic
-
-
-epic/ionic
+134482	attic
+134486	attic/epic/doric
+134491	doric
+134498	epic
+134503	epic/ionic
 134505	epic/doric
-
-
-134517	
-
-134520	
-
-
-
-
-
-134527	
-epic/doric/ionic/aeolic
-
-
-attic
+134531	attic
 134533	attic
-
-134536	
-attic
+134537	attic
 134539	attic
-
-134542	
-attic
+134543	attic
 134545	attic
 134548	doric/aeolic
-134550	
 134552	epic
-134555	
-attic/epic/doric
-
-
-
-
+134556	attic/epic/doric
 134562	attic/parad_form
 134564	attic/epic
 attic/epic/ionic
-134568	ionic
-134572	
 134575	attic
-
-attic
+134577	attic
 134579	attic/epic/doric
-134581	
-134583	
-
-134587	
-
-134590	
-
-
-134594	
-134599	
-134603	ionic
 134607	attic/epic/doric
-134610	epic/doric/ionic/aeolic
-
 134613	epic/ionic
 134615	epic/doric
-
-
-134621	
-doric/aeolic
+134622	doric/aeolic
 attic/epic/ionic
-
-attic
-
-
-attic
-
-attic/epic/doric/ionic
+134625	attic
+134628	attic
+134630	attic/epic/doric/ionic
 epic/doric/aeolic
 134634	doric/aeolic
 134636	doric/aeolic
 134638	doric/aeolic
-134644	
-134647	
-134650	
 134652	attic/epic/ionic
-
-134659	
-epic/doric/ionic/aeolic
-
-attic/epic/ionic
-ionic
+134660	epic/doric/ionic/aeolic
+134662	attic/epic/ionic
+134664	doric/aeolic
 doric/aeolic
-doric/aeolic
-134667	
-attic
-
+134668	attic
 134671	epic
-134673	
-
-attic/epic/ionic
-134677	epic/ionic/doric/laconia
-attic
-
+134675	attic/epic/ionic
+134678	attic
 134683	epic/doric/laconia
 attic
-
-attic
-
+134686	attic
 134689	doric
-
-134692	doric
+134692	attic/epic/ionic
 134694	epic
 134696	doric/aeolic
-
-134700	
-attic/epic/ionic
-
-
-
-
-attic
-
-
-134710	
-134713	
-epic
-134716	
-
-134719	
+134701	attic/epic/ionic
+134706	attic
+134714	epic
 134721	doric
-
-attic/epic/ionic
-134725	
-
-134728	
-epic/doric/ionic/aeolic
-
-
-
-
-
-attic/epic/doric
-
-
-doric/aeolic
-
-doric/aeolic
-134744	
-
-134747	
-
-134750	
-134757	
-doric
-
+134723	attic/epic/ionic
+134735	attic/epic/doric
+134738	doric/aeolic
+134740	doric/aeolic
+134758	doric
 134761	doric/*theocr.
-134763	
-parad_form
+134764	parad_form
 134766	attic/epic/ionic
-134768	
-
-attic/epic/doric
+134770	attic/epic/doric
 134772	attic/epic/ionic
-
-attic
-
-134777	
-134780	
-134782	ionic
-
-
-134787	
-134790	
-epic/ionic/doric/laconia
-
-
-134795	
-
-epic/doric/aeolic
-
-134801	
-134803	
+134774	attic
+134791	epic/ionic/doric/laconia
+134797	epic/doric/aeolic
 134805	epic/doric/aeolic
 134807	attic/epic/doric
-134809	
-134812	
-134814	
-
 134818	attic/epic/doric/ionic
 epic/doric/laconia
-
-
-
-ionic
-134825	
-134828	
-134831	
-134834	
+134823	ionic
 134838	doric/aeolic
-
-134841	
-attic
+134842	attic
 attic/epic/ionic
 attic
-
-
-
-epic/doric/ionic/aeolic
-
 134852	attic/epic/ionic
-134854	
 134857	doric
-
-attic
-134861	
-
-134864	
-attic
-134867	
-
-attic
-epic/doric/ionic/aeolic
+134859	attic
+134865	attic
+134869	attic
 134872	attic/epic/doric
 134874	doric/aeolic
-134877	
-134879	
-134881	
-
+134881	doric/aeolic
 134884	attic/epic/doric
 attic/epic/ionic
-
 134892	attic
-
-attic
+134894	attic
 134897	attic
 134899	doric/aeolic
-
-epic/doric/aeolic
-134903	
-
+134901	epic/doric/aeolic
 134907	epic/ionic/doric/laconia
-
 134910	epic/doric/aeolic
-134912	
-134915	
-134917	
-134921	ionic
-doric/aeolic
-
-134926	
-attic/epic/doric
-
+134922	doric/aeolic
+134927	attic/epic/doric
 134930	attic/epic/ionic
-
-
 134935	doric/aeolic
-
 134940	attic/epic/ionic
-
-
-attic
-
+134943	attic
 134946	epic/ionic/doric/laconia
-
-epic/doric/aeolic
-134950	
-134953	
-134955	
-attic
-
-
-doric/aeolic
-
-
-epic/doric/aeolic
-
-doric/aeolic
+134948	epic/doric/aeolic
+134956	attic
+134959	doric/aeolic
+134962	epic/doric/aeolic
+134964	doric/aeolic
 epic
-134967	
 134969	ionic
-134971	
 134973	parad_form
-
-epic
-
+134975	epic
 134978	epic
-
-
-134982	
-134985	
-134988	
-
 134991	attic/epic
-
 134995	epic/ionic/doric/laconia
-
-epic/doric/aeolic
-134999	
-135006	
-
-
-135011	ionic
-doric/aeolic
-
-135015	
-
-135018	
-135020	
-parad_form
+134997	epic/doric/aeolic
+135012	doric/aeolic
+135021	parad_form
 epic
 135024	doric/aeolic
-135026	
+135027	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-parad_form
+135030	parad_form
 135032	doric/aeolic
 epic
-
-attic
-
+135035	attic
 135040	epic
 135045	doric/aeolic
-
-attic/epic
-135051	
-attic
+135047	attic/epic
+135052	attic
 135054	attic/epic/doric/ionic
 135058	attic/ionic
-135060	
-
-
 135065	ionic/epic
-
-135068	
-135070	
-135073	
-135075	
-epic/doric/ionic/aeolic
-
-135079	
-135081	
-135083	attic/epic/doric
-
 135086	ionic
 epic
 135089	attic/epic/doric
 epic
 135092	doric/aeolic
 135094	ionic
-135096	
-
-135099	
 135103	epic/ionic/doric/laconia
 135105	attic/epic/doric/ionic
 135110	attic/epic/doric/ionic
 135115	doric/aeolic
 doric
 135121	attic/epic/doric/ionic
-
-135124	
-135128	ionic
-doric/aeolic
+135129	doric/aeolic
 ionic/doric/aeolic
-
-
-135135	
-135137	
 135143	doric/aeolic
-
-attic/epic
-135149	
-epic/ionic/attic/doric
+135145	attic/epic
+135150	epic/ionic/attic/doric
 attic
-
-135154	
-135159	
-epic/doric/ionic/aeolic
-
-attic/epic/ionic
-
-attic/epic/doric/ionic
+135160	epic/doric/ionic/aeolic
+135162	attic/epic/ionic
+135164	attic/epic/doric/ionic
 doric/aeolic
-
-
-
 135170	attic/epic/ionic
-
-
-
-135176	
-
-attic
-
-
-doric/aeolic
-135184	
-attic/epic/ionic
-135187	
+135178	attic
+135181	doric/aeolic
+135185	attic/epic/ionic
 135189	doric/aeolic
-
 135192	epic/doric
-
-
-
-
+135197	epic
 epic
-epic
-
-
-attic/epic/ionic
-135204	
-
-135207	
-135212	
-135214	
-135218	
-
-attic
-
-attic
-
-135225	
-135228	
-
-doric/aeolic
-135232	
-parad_form
+135201	attic/epic/ionic
+135220	attic
+135222	attic
+135230	doric/aeolic
+135233	parad_form
 135235	attic/epic/ionic
-135240	
-
 135243	attic/epic/ionic
-
 135247	attic
 attic/epic/doric
-135251	epic/doric/ionic/aeolic
 135253	doric/ionic
 epic/doric
-
-attic
-
-doric
-
-
-
-
-
-135265	
-
-doric
-135272	
-
-
-135276	
-
-
-
-135282	
-doric/aeolic
+135256	attic
+135258	doric
+135267	doric
+135283	doric/aeolic
 135285	attic
-
 135288	epic/doric
-
-135291	
 135294	epic
-135296	
-135301	
-
-attic
-
-
-135308	
-attic/epic
-135313	
-135315	
-
+135303	attic
+135309	attic/epic
 135320	attic/epic/doric
 135322	epic
-135327	
-
-
-ionic
-135332	
-
-ionic
-
+135330	ionic
+135334	ionic
 135337	doric/aeolic
-
-
-135342	
-
-attic/epic/doric
-
-135347	
-135349	
-attic/epic/doric/ionic
-
-doric/aeolic
-135360	
-135363	
-135365	
-
-135368	
-
-135377	
-parad_form
+135344	attic/epic/doric
+epic
+135350	attic/epic/doric/ionic
+135352	doric/aeolic
+135378	parad_form
 135380	attic/epic/ionic
-
-135394	
-
-135397	
+135397	epic
 135400	attic
-135403	
-135406	
-epic/doric/ionic/aeolic
-
-attic/epic/ionic
-
-
-epic/doric/ionic/aeolic
-
-
-
-135417	
-
-
-epic/doric/ionic/aeolic
-
-135423	
-
+135407	epic/doric/ionic/aeolic
+135409	attic/epic/ionic
+135412	epic/doric/ionic/aeolic
+135420	epic/doric/ionic/aeolic
 135426	attic/epic/ionic
 epic
 135429	epic
-135432	
-135435	
-135437	
-135440	
 135442	attic/epic
 135444	epic/ionic/attic
-
 135451	ionic
-135453	
-135457	
-135459	
-135461	
-135463	
-135465	
-135467	
-
-
-135471	
 135473	attic/epic
-135475	
-135479	
-135483	
-135487	
-135489	
 135495	doric/aeolic
-135499	
 135503	doric
 135505	doric/aeolic
-
-135508	
-
-
-135512	
-135514	
-
-
-
-135519	
-
-doric/aeolic
-135523	
-
-135526	
-
-135530	
-
-
-attic/epic/doric/ionic
-
-
-135537	
-135541	
-
-135544	
+135521	doric/aeolic
+135533	attic/epic/doric/ionic
+135544	epic
 135547	attic
-135553	
-135556	
-epic/doric/ionic/aeolic
-
-attic/epic/ionic
-
-135562	
+135557	epic/doric/ionic/aeolic
+135559	attic/epic/ionic
 135564	attic/epic/doric
-135566	
-135569	
-
-135572	
-
-135576	
-135578	
-135580	
-135582	
-135588	
-
-135591	
 135593	doric/aeolic
 135597	doric/aeolic
-135599	
-
-
-135603	
-135610	
-
-attic/epic/ionic
-
-attic/ionic
-
-135618	
-epic/doric
-
-doric/aeolic
+135612	attic/epic/ionic
+135614	attic/ionic
+135619	epic/doric
+135621	doric/aeolic
 epic/doric/aeolic
-
-135625	
-135629	
-135632	
-epic/doric/ionic/aeolic
-
-attic/epic/ionic
-
-
-135640	
-135642	
-135644	
-
-epic/ionic
-
-135651	
-135653	
+135633	epic/doric/ionic/aeolic
+135635	attic/epic/ionic
+135646	epic/ionic
 135655	attic/epic/doric
-135660	
-attic/epic/doric
-135663	
-135666	
-doric/aeolic
-
-epic
-
-135673	
-epic/doric
-
-135677	epic/doric/ionic/aeolic
-135679	
-135683	
-
+135661	attic/epic/doric
+135667	doric/aeolic
+135669	epic
+135674	epic/doric
 135687	doric
-ionic
 135690	doric/aeolic
-
-135695	
-
-attic/epic/ionic
+135697	attic/epic/ionic
 epic/doric/ionic/aeolic
-135700	
-
 135705	doric/aeolic
 attic/epic/doric
-135708	
-135710	
-135713	
-
-135716	
-
-135722	attic/epic/ionic
+135722	doric/aeolic
 doric
-
-
-135727	
-
 135731	doric/aeolic
-
-
-
-135736	
-
 135740	attic
-
-
-
-doric
-
-
+135744	doric
 135749	doric/aeolic
-
-135753	
-
-135756	
-
-135759	
-
-
-
-doric/aeolic
-
+135763	doric/aeolic
 135767	attic/epic/ionic
-
-
-
-135772	
-135774	
-
-doric/aeolic
-135778	
-135780	
-
-135783	
-135787	
-
-
+135776	doric/aeolic
 135791	attic/epic/ionic
-
-
-135795	
-epic/doric
+135796	epic/doric
 135798	attic
-135800	
-attic/epic
-135803	
-135805	
-
-135808	
-
-135811	
-epic/doric/ionic/aeolic
+135801	attic/epic
+135812	epic/doric/ionic/aeolic
 attic
-
-
-
-doric/aeolic
+135817	doric/aeolic
 135819	doric/aeolic
-
-attic
-
-
-epic
-135830	
+135821	attic
+135824	epic
 135832	attic/epic/ionic
-
-
-
-135840	
-
-
-
-
-135848	
-135852	
-135855	
-ionic
-135859	
 135862	epic
-
-135865	
-
-135869	
-135871	
-135873	
-attic/epic
-
-attic/epic
-135878	
-attic/epic
-
-
-attic/epic/ionic
+135874	attic/epic
+135876	attic/epic
+135879	attic/epic
+135882	attic/epic/ionic
 135885	doric/aeolic
-
+135887	attic
+135890	attic/epic/doric/ionic
+135892	attic/epic
+135910	epic/doric
 attic
-
-
-attic/epic/doric/ionic
-
-attic/epic
-
-
-135896	
-
-
-
-135902	
-
-135905	
-
-epic/doric/ionic/aeolic
-135909	
-epic/doric
-attic
-135914	
-epic/doric
+135915	epic/doric
 doric
-
-135919	
-epic/doric
-
-
-
-135925	
-135927	
-
-135930	
-
-135935	
+135920	epic/doric
 135939	doric/aeolic
-
-
-
-
 135945	attic
-135948	
-135950	
-135956	
-
-
-
-
-135963	
-
-135966	
-
-135969	epic/doric/ionic/aeolic
-
-135972	
-
-
-ionic
-135977	
+135978	attic
 attic
 attic
-attic
-135984	
-135987	
-epic/ionic/attic/doric
+135988	epic/ionic/attic/doric
 135990	attic
-
-epic
+135992	epic
 135994	epic
-
-
-doric
-
-attic/ionic
-
-136002	
+135997	doric
+135999	attic/ionic
 136004	epic/doric/aeolic
-
-136007	
-
-136010	
-
-
-
-
 136016	doric/aeolic
 attic
 attic/epic
-
-attic/ionic
-
-136023	
-attic
-136029	
-epic/doric/ionic/aeolic
-
+136020	attic/ionic
+136024	attic
 136036	attic/epic/doric
-136038	
-136040	
 136044	attic/epic/doric
-
-136049	
 136051	attic/epic/doric/ionic
 136053	attic/epic
-
-136057	
-136059	
-136061	
-136064	
-136066	
-
-doric/aeolic
-
-
-136073	
-
-136079	
-
-136082	
+136068	doric/aeolic
 136084	doric/aeolic
-
-
 136088	attic
-
-136091	
-136093	
-
-attic/epic
-136098	
-136101	
-136103	
-
-
-136107	
-attic
-136110	
-
-
-ionic
-
-
-136117	
-
-doric/aeolic
-136124	
+136095	attic/epic
+136108	attic
+136113	ionic
+136119	doric/aeolic
 136126	attic
 136129	attic/epic
 136132	attic
-
-attic
-
+136134	attic
 136137	doric
 attic
-
-attic
-136143	
-
-136148	
-136151	
-doric/aeolic
-
-ionic/epic
-
-epic/doric/ionic/aeolic
-
-
-epic/doric/ionic/aeolic
-
-
-136163	
-
-attic/epic
-
+136140	attic
+136152	doric/aeolic
+136154	ionic/epic
+136165	attic/epic
 136168	epic/doric
-
-
-136172	
-attic/epic/ionic
-136175	
-136178	
-136181	
-ionic
-136184	
 136187	attic
-
-
 136191	doric
-
 136194	doric
-
 136197	doric
-
 136200	doric
-
-136203	
-
-136206	
 136208	doric
-136210	
-
-136213	
-136215	
-136217	
-epic/doric/ionic/aeolic
-
+136211	doric
 136221	epic/ionic/doric/laconia
 136224	attic/parad_form
 136226	attic/epic/ionic
-136228	
-136230	
-
-
-136235	
-attic
-136238	
-attic
-
-136242	
-attic
-136245	
-136247	
+136236	attic
+136239	attic
+136243	attic
 136249	epic/ionic/doric/laconia
-136252	
-
-136255	
-
-
-
-epic/ionic/doric/laconia
-
-
 136263	attic/ionic/epic/doric
-136267	
-attic
-
+136268	attic
 136272	attic/epic/doric
-
-136275	
-136278	
-136280	ionic
 136283	attic
-
-136287	
-
-136290	
-136293	
-
-
-attic
-136298	
-attic
-
-
-136303	
-attic
-136306	
-136308	
-
-
-136312	
-
-doric
-
-epic/doric/ionic/aeolic
-
-136319	
-
-attic
-
-
-136325	
+136296	attic
+136299	attic
+136304	attic
+136314	doric
+136321	attic
 136329	ionic
-136331	
-136333	
-
 136336	epic/doric
-136338	
-
-epic/doric/ionic/aeolic
-
-136347	
-
-136350	
-136352	
-doric/aeolic
+136340	epic/doric/ionic/aeolic
+136353	doric/aeolic
 136355	doric
-136357	ionic
-136359	
 136361	doric
-136364	
-
-
-
-attic/ionic
-136370	
-doric/aeolic
-136374	
-
-doric/aeolic
-
-
-attic/epic
-136382	
-136384	epic/doric/ionic/aeolic
-
-136392	
-136394	
+136368	attic/ionic
+136371	doric/aeolic
+136376	doric/aeolic
+136379	attic/epic
 136396	doric/aeolic
 doric/aeolic
-
-
-
+136400	epic
 136402	doric/aeolic
 attic
-136405	
+136405	epic
 136408	attic
-
-136412	
-
 136415	epic/ionic/doric/laconia
-ionic
-136419	
-136421	
-
-136424	
-
-136429	
-136431	
-
-136437	
-attic
-
-
-doric/aeolic
-
-136444	
-
-
-136450	
-
-doric/aeolic
-136454	
-epic/doric/ionic/aeolic
-
-attic/epic/ionic
-
+136438	attic
+136441	doric/aeolic
+136452	doric/aeolic
+136455	epic/doric/ionic/aeolic
+136457	attic/epic/ionic
 136460	doric/laconia
-
-
-136464	
-
-attic/ionic
-
-attic/epic/ionic
-
-136471	
-136474	
-
-doric/aeolic
-136479	
-attic
-
+136466	attic/ionic
+136468	attic/epic/ionic
+136476	doric/aeolic
+136480	attic
 136483	attic
-
 136486	attic/epic/doric/ionic
-136488	
-
-
-doric/aeolic
-epic/doric/ionic/aeolic
-136495	
-
-doric/aeolic
-136499	
-
-
-136503	
-
+136491	doric/aeolic
+136497	doric/aeolic
 136507	attic/ionic
-
-doric/aeolic
-
-
-136513	
-epic
+136509	doric/aeolic
+136514	epic
 136516	attic/epic/ionic
-136523	ionic
-136526	
-
-136529	
-
-
-aeolic
-136534	
-136536	
-
-136539	
+136532	aeolic
 136541	attic/epic/ionic
 136545	epic/doric
-
-
-136556	
-attic
-
-136563	
-136565	
-epic/ionic/attic/doric
-136569	ionic
+136557	attic
+136566	epic/ionic/attic/doric
 136572	attic
-
-136575	
 136579	epic/ionic/doric/laconia
-136581	
-136585	
-136588	ionic
-136591	
-136593	epic/doric/ionic/aeolic
-
-
-136597	
-136600	
-136603	
-
-attic
+136605	attic
 epic/ionic/attic
 epic
-
-attic/epic/ionic
-136611	
-136615	
-136617	
-136619	
-136621	
-136626	
-136628	epic/ionic/doric/laconia
-attic
-
-136638	
+136609	attic/epic/ionic
+136629	attic
 136641	attic/epic/ionic
 136643	attic/ionic
-
-
-
-
-
-
-136652	
-
-136655	
-136658	
-
-136661	
-136663	
-136666	
-136669	
-
-136673	
-136675	
-
 136678	attic/ionic
-136680	
-
-136683	
-136685	
-136688	
-
-136691	ionic
 136694	attic
-
-136697	
-136699	
-136702	
-doric/aeolic
+136703	doric/aeolic
 attic
-
-136707	
-
-
-136711	
-
 136715	attic/epic/ionic
-136718	ionic
 136721	attic
-
-epic/doric/ionic/aeolic
-
-136726	
 136728	attic/epic/ionic
 doric/aeolic
-
-136732	
-136735	
+136736	attic/epic/ionic
 attic/epic/ionic
-attic/epic/ionic
-136740	
-
-
 136749	doric/aeolic
 136751	doric/aeolic
-
-doric
-
-attic
-
-
-attic
-
-136761	
+136753	doric
+136755	attic
+136758	attic
 136764	attic/epic
-
 136769	doric
-136771	
-attic
-
-attic/epic/ionic
+136772	attic
+136774	attic/epic/ionic
 attic/epic/doric
-
-doric/aeolic
+136777	doric/aeolic
 attic
-
-
-
-
-136784	
-136786	
 136789	epic
-
-136794	
-136797	
-136800	
-
-
-
-
-136806	
-136808	
-136810	
-136819	
-136822	
-
-
-136827	
-
-136830	
-attic/epic
-
-attic/epic/doric
-
-attic/epic/doric
-
-136838	
-
-
-136842	
-epic/ionic/attic/doric
-
+136831	attic/epic
+136833	attic/epic/doric
+136835	attic/epic/doric
+136843	epic/ionic/attic/doric
 136847	epic
-136849	
 136852	attic/epic/doric
 136854	doric/aeolic
-136857	
-
 136863	attic/epic/doric
 attic/epic
 doric
-
-
 136869	attic/epic/ionic
 attic
 136873	attic/epic/ionic
 ionic/doric/aeolic
-
-epic/ionic/attic/doric
-
-
+136876	epic/ionic/attic/doric
 136880	epic
-
 136887	epic
 136892	attic/epic/doric
 136896	epic/ionic/doric
-136900	
-136904	attic/epic/ionic
-136906	
-136909	
-
-
-epic
-
-136917	
-
-136920	
-136922	
-136924	epic/doric/ionic/aeolic
-
-
-
-
-
-attic/epic/doric
-
-
-doric/aeolic
-
-doric/aeolic
-
-
-
-
-
-
-
-136946	
-
-136949	
-
+136912	epic
+136930	attic/epic/doric
+136933	doric/aeolic
+136935	doric/aeolic
 136955	attic
-136958	
-136960	
-136962	
-
-136966	
 136973	doric/aeolic
 136975	doric
-
-attic
-
-
-attic
-
-doric
+136977	attic
+136980	attic
+136982	doric
 136984	doric/aeolic
 attic
-
-
 136990	attic/ionic
-
-
-
-
 136996	doric
 attic/epic/doric/ionic
-137001	
-attic/epic/doric/ionic
-137004	
-137006	
-137008	
-137010	
-137013	
-
-137016	
-
-
-epic
-137021	
+137002	attic/epic/doric/ionic
+137019	epic
 137024	attic/epic
-137026	
-attic
+137027	attic
 137029	attic/epic
-137031	
-attic
+137032	attic
 137034	attic/epic
-137036	
 137039	attic/epic
-137045	
-doric
-
-137050	
-
-137053	
-
-
-attic
-137058	epic/doric/ionic/aeolic
-
-attic/epic/ionic
-137062	
-137066	
-
-
-137080	
-epic/doric/ionic/aeolic
-137083	
-137088	
-137090	
+137046	doric
+137056	attic
+137060	attic/epic/ionic
+137081	epic/doric/ionic/aeolic
 137095	attic/epic
-137097	
-
-
-137105	
 137110	epic
-137117	
-137119	
-137122	
-
-137127	
-epic/doric/ionic/aeolic
+137128	epic/doric/ionic/aeolic
 attic
-137134	
-epic/doric/ionic/aeolic
+137135	epic/doric/ionic/aeolic
 aeolic
-
-attic/ionic
+137138	attic/ionic
 attic/epic
-137141	
-
-attic
-137148	
-
-137151	
-137153	
-
-137156	
-137159	
-137162	
-137165	
-
-137168	
-
-137171	
-137174	
-137177	
-137180	
-137183	
-137186	
-137190	
-
-137193	
-doric/aeolic
-doric/aeolic
-
-137198	
+137143	attic
+137194	doric/aeolic
 137200	epic/doric/aeolic
-
-
-137205	
-
 137209	aeolic
-
-
 137213	doric/aeolic
-epic/doric/ionic/aeolic
-137216	
-
-
-137220	
-137222	
-
-137225	
 137227	doric
-137234	
-epic/doric/ionic/aeolic
-
-doric/aeolic
-
-attic
-
-ionic
+137235	epic/doric/ionic/aeolic
+137237	doric/aeolic
+137239	attic
 137243	doric
-
-137247	
-137249	
-attic
-
-137255	
+137250	attic
 137261	attic/epic/doric/ionic
-
-doric/aeolic
-
+137263	doric/aeolic
+epic
 attic
 attic
-137269	
-parad_form
+137270	parad_form
 137272	attic/epic/ionic
 epic
 137275	doric/aeolic
-
-ionic
-137280	
-137283	
-
-doric/attic/epic
-
-137289	
-137291	
+137285	doric/attic/epic
+137291	attic/epic
 137293	attic/epic/doric/ionic
 137295	doric/aeolic
 137298	doric/ionic
-
-137301	ionic
-137304	
-
-
-ionic
-137309	
-
-137312	
-attic/epic/doric
-137317	
-
-
-137321	
-attic/epic
+137313	attic/epic/doric
+137322	attic/epic
 137325	attic/epic/ionic
 attic
 137333	attic/epic/ionic
-
-
-137337	
-
-attic
-
-attic
-
+137339	attic
+137341	attic
 137344	attic
-137346	
-
-137349	
 137352	attic
-
 137358	attic/epic/ionic
 attic/epic/doric
-
-
-
-
-
-
-137367	
-
-137370	
-
-attic
-
-ionic
-doric/aeolic
-
-137379	
-137381	
-137385	
+137372	attic
+137375	doric/aeolic
 137387	attic
-
 137390	attic
-137392	
-137396	
-
-
-attic/epic/doric/ionic
-
-137405	
+137399	attic/epic/doric/ionic
 137408	doric/aeolic
-
-
-
-
-
-137416	
-137420	
-epic
+137421	epic
 doric/aeolic
 attic
-
 137426	attic
-
-
-
-
-137432	
 137436	attic/epic/doric/ionic
-ionic
-137440	
-137442	epic/doric/ionic/aeolic
-
-137446	
-epic/ionic/attic/doric
-
-137452	
-
-
-137456	
-doric
-
-
-
-137463	
-
-137466	
-
-
-attic/epic
-137471	
-
+137447	epic/ionic/attic/doric
+137457	doric
+137469	attic/epic
 137474	attic/epic/doric
-137476	
-
-
-
 137481	doric
-137483	
-attic
-137487	
-
-
-
+137484	attic
 137492	attic/epic/doric
-
-137495	
 137499	epic
 attic/ionic
-
-
-doric
+137503	doric
 attic
 137506	attic
-137509	
-137511	
 137513	epic/doric/aeolic
-
-137516	
-
-137519	
-
-
-
-
-137525	
-attic/epic/doric
+137526	attic/epic/doric
 137528	doric
 attic
 137532	attic/epic
-
-attic/ionic
-epic/doric/ionic/aeolic
-
-137538	
+137534	attic/ionic
+137538	attic/epic/ionic
 137541	doric
-137543	
-attic
-137547	
-
-137552	
-
-137557	
-137562	
-
-137568	
-doric/laconia
+137544	attic
+137569	doric/laconia
 137572	attic/epic/doric
-137574	
-137576	
-137578	
-137580	
-137583	
 137585	epic
-137587	
-attic/epic/doric
+137588	attic/epic/doric
 137590	doric/aeolic
-137593	
-
-
-137597	
-137599	
-137604	
-
 137607	doric/aeolic
 doric/aeolic
-
-
-137612	
-
-
-
 137619	attic/epic/ionic
-137622	
-
-ionic
-137627	
-
-137631	
-
-137634	
-137637	
-parad_form
-137640	
-doric/aeolic
-137644	
+137627	attic/epic/doric
+137638	parad_form
+137641	doric/aeolic
 137646	attic/epic/doric
 137648	attic/epic/doric
-
-doric/aeolic
-137653	
-
-doric
-
-
+137650	doric/aeolic
+137655	doric
 137659	epic
 attic/epic/doric
-
-
-
-137668	
-137670	
-137672	
-137674	epic/doric/ionic/aeolic
-137678	
 137680	epic
 attic/epic/doric
-137683	
-
 137686	attic/epic/doric
-137688	
-
-137691	
 137695	attic/epic/ionic
 ionic/doric/aeolic
 attic/epic/doric
@@ -81547,55 +25240,22 @@ attic/epic/doric
 137700	attic/epic
 doric
 137703	doric
-137705	
-attic
+137706	attic
 137709	doric/aeolic
-
-
-137713	
-
-
 137719	doric/aeolic
-
+137721	doric/aeolic
 doric/aeolic
-doric/aeolic
-
-attic/epic
-137726	
+137724	attic/epic
 137728	doric/aeolic
-
-
-
-
-doric
+137733	doric
 attic
-137737	
 137739	epic
-
-137744	
-
-attic
-
+137746	attic
 137749	attic/epic/ionic
-137751	
-137755	
-
-
-
-attic/epic
-137761	
-
-
-
-
-
-137768	
-attic/epic/ionic
+137759	attic/epic
+137769	attic/epic/ionic
 attic/epic/doric
-
-attic
+137772	attic
 attic
 137775	attic
-
-attic
-
+137777	attic

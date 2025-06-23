@@ -11,24 +11,17 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:27+00:00Z
+@dateWritten=2025-06-22T22:25:28+00:00Z
 
 masculine
 3	masculine
 masculine
-
-7	
 22	masculine
 26	neuter
 masculine
 34	feminine
-
-68	
-76	
 95	masculine
-
-98	
-masculine/feminine/neuter
+99	masculine/feminine/neuter
 masculine
 109	feminine
 feminine
@@ -36,420 +29,232 @@ feminine
 masculine
 149	feminine
 feminine
-154	
-
 164	masculine
 168	neuter
-
 171	feminine
 masculine
-
 176	feminine
 masculine
 masculine
-238	
-feminine
-
-masculine
+239	feminine
+241	masculine
 243	masculine
 masculine
 masculine
 masculine
-
+feminine
 249	feminine
 feminine
-
-253	
+253	masculine
 255	feminine
-258	
-260	
+260	masculine
 262	feminine
 masculine
 feminine
-267	
 269	feminine
 masculine
-
-
 masculine
+273	masculine
 feminine
-276	
 278	masculine
 masculine
 feminine
 feminine
-283	
 286	feminine
 neuter
 feminine
-
-292	
-296	
+297	feminine
 feminine
-feminine
-
 301	masculine
 304	masculine
 307	masculine/feminine
-
 310	masculine
-313	
-316	
 318	feminine
 320	neuter
 masculine/neuter
-
 324	masculine
-327	
-neuter
+328	neuter
 masculine
 331	masculine
 333	masculine
 336	feminine
-339	
-342	
-344	
-
 348	masculine
-353	
-355	
-neuter
-360	
+356	neuter
 363	neuter
-
-masculine/neuter
+365	masculine/neuter
 neuter
 neuter
 370	masculine
-
-
-375	
-
-masculine
-neuter
-
+377	masculine
+feminine
 381	masculine/neuter
-
-feminine
-385	
-feminine
-
-392	
-394	
-neuter
+383	feminine
+386	feminine
+395	neuter
 397	masculine
 399	masculine
 401	feminine
 masculine
 406	masculine
-408	
-
-neuter
-
-
-
-neuter
+410	neuter
+414	neuter
 masculine
 417	masculine
-419	
 422	neuter
-424	
-427	
+427	masculine
 masculine/feminine
-434	
-neuter
-437	
+435	neuter
 439	masculine
-441	
 444	feminine
-
-feminine
-448	
-masculine
-
-452	
-455	
+446	feminine
+449	masculine
 457	masculine
-
 460	masculine
 462	masculine
 feminine
 feminine
-
 467	neuter
-470	
-
-475	
-neuter
-
+476	neuter
 479	masculine
 masculine
 484	feminine
 487	neuter
 492	masculine
 494	masculine
-
 499	neuter
-
+501	masculine
 masculine
-masculine
-
-masculine
-506	
-neuter
-
+504	masculine
+507	neuter
 511	feminine
-515	neuter
-
+515	feminine
 518	masculine
 521	feminine
 masculine
-
-525	
-
+masculine
 529	masculine
-
-masculine/neuter
+531	masculine/neuter
 539	masculine
-542	
-545	
-548	
 550	neuter
-553	
-557	
-559	
-561	
-563	
-
-
-
-neuter
-570	
-
+567	neuter
 574	masculine
-576	
-neuter
+577	neuter
 masculine
-581	
-masculine
-
-585	
-masculine
+582	masculine
+586	masculine
 588	neuter
-
-
-
-593	
-595	
-597	
-
-
-
+595	masculine
+599	masculine/feminine
 602	neuter
 608	feminine
-610	feminine
-613	
+610	neuter
 615	feminine
-
 618	neuter
-
-feminine
+620	feminine
 622	feminine
 masculine
-626	
-neuter
+627	neuter
 629	masculine
 632	neuter
 634	neuter
 640	feminine
 645	masculine
-
-650	
-masculine
-653	
+651	masculine
 655	feminine
 neuter
-
 659	neuter
-
 662	masculine/neuter
-666	
 668	masculine
-670	
 672	neuter
 676	neuter
-678	
-
-masculine
-682	
-
-
-
-
-
-
+680	masculine
+684	masculine
 693	neuter
-
-
 697	masculine
-700	
 702	neuter
 706	neuter
-710	
-masculine
-713	
-
-
-717	
-719	
-722	
-
-masculine/neuter
-neuter
-
+711	masculine
+715	masculine
+724	masculine/neuter
+feminine
 728	masculine/neuter
-
-masculine
+730	masculine
 734	masculine
-
 737	masculine
-
-
-
-feminine
+741	feminine
 masculine
-744	masculine
-746	
-
-752	
-755	
-feminine
+756	feminine
 758	masculine/feminine/neuter
-760	
-masculine/feminine/neuter
+761	masculine/feminine/neuter
 763	masculine/neuter
-
 767	neuter
-
-
-feminine
+770	feminine
 masculine
-
-775	
-neuter
-778	
+776	feminine
 780	masculine/neuter
-
-
 790	feminine
 neuter
-795	
-797	
-
-
-
-803	
-805	
 807	masculine
-811	
-813	
+814	masculine
 masculine
-masculine
-817	
 819	neuter
 823	neuter
-825	
-
-feminine
+827	feminine
 831	masculine
 834	neuter
-
-neuter
+836	neuter
 masculine
-840	
 842	neuter
 846	neuter
-848	
-
-feminine
-852	
-854	
-masculine/feminine
-
+850	feminine
+855	masculine/feminine
 858	feminine
-860	
 862	neuter
-865	
-872	
-neuter
+873	neuter
 neuter
 876	feminine
-879	
-
 882	feminine
-887	
-neuter
+888	feminine
 feminine
 masculine
-
-masculine
-894	
+892	masculine
 897	feminine
 900	masculine
 masculine
-904	
-
-masculine/neuter
+906	masculine/neuter
 908	feminine
 masculine
-
 913	feminine
 feminine
 feminine
 feminine
 920	masculine
 masculine
-neuter
-924	
+feminine
 926	masculine/neuter
-
-masculine/neuter
-
-
-masculine/neuter
-
+928	masculine/neuter
+931	masculine/neuter
 934	masculine
 masculine
 feminine
-
-feminine
+938	feminine
 940	neuter
 943	masculine
 masculine
 948	neuter
-
-
-955	
 957	feminine
 neuter
 feminine
 961	masculine/feminine/neuter
-
-neuter
+963	neuter
 967	masculine
-
-
 974	feminine
 feminine
 feminine
 978	feminine
 feminine
-981	
-masculine
-985	
-
-feminine
-
+982	masculine
+987	feminine
 990	neuter
 masculine
 feminine
@@ -457,391 +262,213 @@ feminine
 neuter
 masculine
 998	feminine
-1003	
-1006	
-neuter
+1007	neuter
 1010	masculine/feminine
-1012	
-1014	
-1017	
-
 1020	masculine
 masculine
 1023	feminine
 1025	masculine
-
-
-
-neuter
-1031	
-1034	
-1036	
-
+1029	neuter
+1038	masculine
 masculine
-masculine
-1041	
-feminine
-
-1045	
-1047	
+1042	feminine
 1049	neuter
 1051	feminine
 1055	feminine
 feminine
 neuter
-
-masculine
+1059	neuter
 1062	masculine
 masculine
 masculine
 masculine
-1068	
-1071	
 1073	feminine
-
-
-feminine
-
-feminine
+1076	feminine
+1078	feminine
 masculine
-1081	
-masculine
+1082	masculine
 1085	masculine
 1087	masculine/feminine
-
-
 1091	neuter
-1093	
 1095	feminine
-
-
 1099	masculine
 1102	masculine/feminine
 1104	neuter
-
-
-feminine
+1107	feminine
 neuter
-1110	
 1112	masculine
 neuter
-1115	
 1118	neuter
-
-1121	
 1124	masculine
-
 1127	masculine/feminine/neuter
-
 1130	masculine
 masculine
-
 1134	feminine
-
 1137	feminine
 1140	masculine
-
 1144	neuter
 masculine
 1149	masculine
-
-feminine
-
-
-masculine/neuter
-1158	
-1161	
+1151	feminine
+1154	masculine/neuter
 1163	masculine
 masculine
-
-neuter
+1166	neuter
 1171	masculine
 1173	masculine/feminine
-
-
-1177	
-
+1175	feminine
 1182	masculine
 masculine
-
-1186	
-
-1190	
+masculine
 1192	masculine
-
-1195	
 1197	neuter
 masculine
 1200	feminine
 masculine
-1205	
-
-
-feminine
+1208	feminine
 feminine
 feminine
 1213	masculine
 masculine
 masculine
 masculine
-1218	
-1221	
+1222	masculine
 masculine
-masculine
-
-
 1227	masculine/feminine
-
-
-1232	
-
-
-1236	
-feminine
+1237	feminine
 1242	masculine
 1246	masculine
-1248	
-neuter
-
-masculine
-
-
-neuter
-
-
-masculine
-
-1260	
+1249	neuter
+1251	masculine
+1254	neuter
+1257	masculine
 1262	masculine
-1264	
-
-1267	
-1269	
-
-
-masculine
-1275	
+1272	masculine
 1278	masculine/neuter
-neuter
+feminine
 1281	neuter
-
-
 1285	masculine
-1287	
 1289	masculine
-1294	
-1297	
-masculine/neuter
-1300	
-neuter
-
+1298	masculine/neuter
+1301	neuter
+1303	masculine
+1306	neuter
+1308	masculine
+1315	neuter
+1318	masculine/neuter
+1322	masculine/neuter
+1324	masculine
 masculine
-
-
-neuter
-
-masculine
-
-1312	
-1314	
-neuter
-
-
-masculine/neuter
-1320	
-
-masculine/neuter
-
-masculine
-masculine
-1331	
 1333	neuter
 masculine
 masculine
-1338	
-
-masculine
+1340	masculine
 1342	neuter
-
-1345	
 1347	masculine
-1349	
+1350	masculine
 masculine
-masculine
-masculine
-1354	
-neuter
-
+1355	neuter
 feminine
 feminine
-
-
+feminine
 1363	feminine
 neuter
-1366	
-neuter
+1367	neuter
 feminine
-
-masculine
-
-masculine
+1370	masculine
+1372	masculine
 neuter
-
-1376	
-
-neuter
+1378	neuter
 masculine
 masculine
-
-masculine
+1382	masculine
 1385	masculine
 1387	neuter
-
-
 1391	neuter
-
-
-
-
 1397	masculine
-1400	
-
-
-1404	
-neuter
-
-1408	
-masculine
-1412	
+1405	neuter
+1409	masculine
 1414	feminine
 1416	masculine
-1420	
-
 1424	masculine/feminine
-
-masculine/feminine/neuter
+1426	masculine/feminine/neuter
 masculine
-1430	
-1433	
-neuter
-1436	
+1434	feminine
 1438	masculine/neuter
 feminine
 masculine
 1442	feminine
 1444	masculine
 masculine
-
-
-masculine
+1448	masculine
 feminine
 feminine
 1452	masculine
 masculine
 masculine
-1456	
-feminine
+1457	feminine
 masculine
-
-1464	
-feminine
+1465	feminine
 1467	feminine
-
-neuter
+1469	neuter
 1471	neuter
-
-
-
+1475	masculine
 masculine
-masculine
-1479	
-
 1483	feminine
 feminine
 feminine
 feminine
 masculine
-1489	
 1491	feminine
 1493	feminine
-
 1499	neuter
 masculine
 1502	masculine
 1505	neuter
-1508	
 1510	feminine
-
 1513	masculine/feminine
-1515	
-neuter
-1518	
-masculine
-1521	
-feminine
+1516	neuter
+1519	masculine
+1522	feminine
 masculine/feminine
 feminine
 masculine
-1527	
 1529	neuter
 feminine
 1532	neuter
 masculine
-
-1536	
-
-1542	
 1545	masculine
 1548	neuter
-
-
-1552	
-1554	
 1556	neuter
 masculine
 neuter
 feminine
 neuter
 1564	masculine
-1566	
 1573	neuter
 1575	neuter
 masculine
-
-
-feminine
-
-feminine
-1583	
+1579	feminine
+1581	feminine
 1586	neuter
 1590	neuter
 1592	feminine
-1595	
-1598	
+1595	feminine
+1598	feminine
 feminine
-
-
-1604	
-feminine
+1605	feminine
 1607	neuter
-
-feminine
+1609	feminine
 1611	masculine/feminine
 1614	neuter
-1617	
+1617	masculine
 1619	masculine
-
 1634	neuter
-
-1637	
 1639	feminine
 1643	masculine
 1645	feminine
-1647	
-
+1649	masculine
 masculine
-masculine
-1655	
 1657	masculine
 1659	masculine/neuter
 neuter
@@ -849,549 +476,249 @@ neuter
 masculine
 masculine
 neuter
-1667	
 1670	neuter
 1673	masculine
 masculine
 masculine
 masculine/feminine
-
-1679	
-neuter
+1680	neuter
 1682	feminine
 feminine
 feminine
 feminine
 masculine/feminine
 masculine
-1689	
-1691	
-masculine/feminine
+1692	masculine/feminine
 masculine
-1695	
-1697	
 1699	feminine
 masculine/feminine
 masculine
-1707	
 1710	masculine/feminine
 masculine
-1713	
-1715	
-masculine/feminine
+1716	masculine/feminine
 masculine
-
-
-feminine
-
+1720	feminine
 1724	neuter
 1726	masculine/feminine
 masculine
-
-
-1731	
-neuter
+1732	neuter
 1734	masculine/feminine
 masculine
-1739	
-neuter
+1740	neuter
 1742	feminine
 feminine
 feminine
 feminine
 masculine/feminine
-
 1750	feminine
-1754	
-masculine
+1755	neuter
 neuter
 1758	feminine
 1761	masculine/neuter
-
-1764	
-
-masculine
+1766	masculine
 1768	feminine
-1770	
-1772	
 1777	masculine
 1780	feminine
-1782	
 1784	masculine/feminine
 1786	feminine
 masculine
 1790	masculine/feminine
-1792	
-
-
-
-1797	
-1799	
-masculine
-
-
-
-
+1800	masculine
+1805	feminine
 feminine
-feminine
-1808	
 1810	neuter
-
-
-
+1814	masculine
+feminine
+1818	masculine
+feminine
 masculine
-feminine
-1817	
-masculine
-feminine
-feminine
 masculine/neuter
 neuter
-1826	
-1830	
 1832	feminine
-1834	
-masculine/neuter
-1837	
-
-feminine
+1835	feminine
+1839	feminine
 1843	neuter
 feminine
 neuter
 feminine
 feminine
-1849	
-feminine
+1850	feminine
 neuter
 neuter
 1858	feminine
-1860	
-1862	
-
-
-
-
-
+1863	feminine
 1869	masculine
-
 1872	masculine
-
-
-
-
-
-feminine
-1880	
-
-
-
-
-masculine
+1878	feminine
+1882	masculine
+1885	masculine
 1888	feminine
 feminine
-1891	
-
+1893	feminine
 feminine
-feminine
-
+1896	masculine
+1900	masculine
 masculine
-
-
-
-masculine
-
-
-masculine
+1903	masculine
 feminine
 1906	masculine
-1908	
 1910	masculine/neuter
 1913	masculine/neuter
 masculine/neuter
-1916	
 1919	feminine
-1922	
-
+1924	feminine
 feminine
 feminine
-feminine
-1929	
-
-1932	
-1936	
-
+1938	feminine
 feminine
 feminine
-feminine
-
-1943	
-
+1945	masculine
 masculine
-masculine
-
-feminine
+1948	feminine
 feminine
 1951	masculine/feminine
 feminine
 masculine
-1956	
-masculine
-
-
+1957	masculine
 1961	feminine
 feminine
 feminine
-1965	
-1969	
-
-1973	
-
-1977	
-feminine
-
-1981	
-
-
+1978	feminine
 1985	masculine
-1987	
 1989	neuter
-1992	
-feminine
-1996	
-
-
+1993	feminine
 2000	neuter
-
-2004	
-
-2008	
-
-masculine
-2013	
+2010	masculine
 2015	feminine
-
+2017	masculine
 masculine
-masculine
-2023	
-
 2026	neuter
-
-2029	
+2030	masculine
+2034	neuter
+2036	masculine/neuter
+2042	neuter
+2044	masculine/neuter
+2047	neuter
+2060	masculine
+2064	neuter
 masculine
-2032	
-
-neuter
-
-masculine/neuter
-2038	
-2041	
-neuter
-
-masculine/neuter
-2046	
-neuter
-2049	
-2051	
-2053	
-2055	
-2058	
-
-masculine
-
-
-
-neuter
-
-2067	
 2069	neuter
-
-
+2072	masculine
 masculine
 masculine
-masculine
-
-
-masculine
-2079	
-feminine
+2077	masculine
+2080	feminine
 2082	masculine
 feminine
-
-
-2087	
 2090	feminine
-
-
-
-masculine
-
-2097	
-
-
+2094	masculine
+2097	masculine
 2101	neuter
-2104	
-2106	
-
-
-2110	
-
-
 2114	masculine
 neuter
-2119	
 2121	neuter
-2124	
-
-feminine
+2126	feminine
 neuter
-
 2130	masculine
-2132	
-masculine
+2133	masculine
 feminine
-
-
-
-2140	
-
-masculine/neuter
-
-2145	
-
-
-
+2142	masculine/neuter
+2149	feminine
 feminine
-feminine
-
 2153	masculine
 masculine
-2157	
-2159	
+2160	feminine
+2163	feminine
 feminine
-2162	
+2169	masculine
+2174	masculine/neuter
+2181	feminine
 feminine
-feminine
-
-2167	
-
-masculine
-2172	
-
-masculine/neuter
-
-2177	
-
-
-
-feminine
-feminine
-
 2185	masculine
 masculine
-2189	
-
-feminine
-
-2196	
-
+2191	feminine
 2200	neuter
 masculine
 2203	masculine
-
-2206	
-
-
 2210	masculine
 masculine
 2214	neuter
-2216	
-feminine
-
+2217	feminine
 2223	masculine
-2225	
-
-2229	
-2233	
-
-
-2237	
-masculine
-2240	
-
-
-2244	
-
-masculine
-
-
-2250	
-
-2253	
-2256	
-neuter
-2259	
-
-feminine
-
+2238	masculine
+2246	masculine
+2248	masculine
+2257	neuter
+2261	feminine
 2265	feminine
-
-neuter
-2269	
-2271	
-feminine
-2274	
+2267	neuter
+2272	feminine
 2276	masculine
-2278	
-
-2281	
-2283	
-
+2285	feminine
+2287	feminine
 feminine
-2287	
-feminine
-
-
-feminine
-
+2291	feminine
 2294	masculine
 2296	feminine
-
-
 2303	masculine
-2305	
-
-masculine/neuter
-2310	
+2307	masculine/neuter
 2316	masculine
 2318	masculine
-
-2321	
-
-masculine
-2325	
-masculine/neuter
-2329	
-
-
+2323	masculine
+2326	masculine/neuter
 2333	masculine
-2335	
-masculine
+2336	masculine
 neuter
-2340	
-2342	
-
-
-
 2348	feminine
-
 2352	neuter
-2358	
-
-2361	
-
 2364	neuter
-2366	
-
-
 2372	neuter
-
-masculine/neuter
-
-masculine
-
-2379	
-2381	
-2383	neuter
-
-2386	
+2374	masculine/neuter
+2376	masculine
 2388	neuter
-
-
-2392	
-
-
 2397	feminine
-2399	
-
-feminine
-
-feminine
-2406	
-
+2401	feminine
+2403	feminine
 2409	feminine
-
-
-
-
 2416	neuter
-
-
-masculine
-2421	
-2423	
-
-masculine/feminine
+2419	masculine
+2425	masculine/feminine
 2428	masculine
-2430	
 2432	masculine
 feminine
 neuter
-2436	
-
 2439	masculine
 masculine
 2443	masculine/neuter
 2445	masculine
-
 2449	feminine
 neuter
 neuter
 masculine
-
-
 2456	masculine
 2460	masculine/neuter
-
-2464	
-
-masculine
+2466	masculine
 2468	feminine
 masculine
 masculine/feminine
-2473	
 2477	feminine
 masculine
 2480	neuter
 feminine
 feminine
-2485	
-neuter
-
-2491	
-
-
-
+2486	neuter
+2495	feminine
 feminine
-feminine
-
-
-2500	
 2503	feminine
 2505	masculine
 2507	neuter
-
 2510	masculine
 masculine
 masculine/neuter
-
-2517	
-2522	
+2523	feminine
 feminine
 feminine
-feminine
-
-
-masculine/neuter
+2528	masculine/neuter
 2531	neuter
 masculine/neuter
 2534	masculine/neuter
@@ -1399,432 +726,210 @@ masculine/neuter
 masculine/neuter
 feminine
 feminine
-
-neuter
-
+2541	neuter
+2543	feminine
 feminine
-feminine
-
-2548	
-feminine
-2551	
-
+2549	feminine
 2555	masculine
-2557	
-masculine
+2558	masculine
 neuter
-
-
-2563	
-
+2565	masculine
+2571	masculine
 masculine
-2568	
-
-
-masculine
-masculine
-
-
-
-2579	
-2581	
-masculine/neuter
+2582	masculine/neuter
 feminine
-2587	
 2590	feminine
-
-
-masculine/neuter
+2593	masculine/neuter
 2596	neuter
-2600	
-
-
-2605	
-2607	
 2609	feminine
-
-
-
-feminine
-
-
-
-
+2613	feminine
 2620	masculine
-2622	
-masculine
+2623	masculine
 neuter
-
-
-2628	
-
 2632	masculine
 2635	masculine
 2637	masculine/neuter
-2639	
-
-
-feminine
+2642	feminine
 neuter
 2645	masculine
-2647	
-neuter
+2648	neuter
 2651	masculine
 2653	feminine
 feminine
 feminine
-
-2658	
-feminine
-
-2664	
+2659	feminine
 2666	masculine
 feminine
 masculine
-
-2671	
-2674	
-
 2677	feminine
 feminine
-
 2682	feminine
-
-
-
-2688	
-feminine
+2689	feminine
 2692	feminine
 2694	neuter
 2696	masculine/feminine
 2700	masculine/feminine
 neuter
 2703	feminine
-
-2707	
 2710	feminine
 2712	masculine
-
-masculine/feminine
-
-2717	
-
-masculine/feminine
-
-
-masculine/neuter
+2714	masculine/feminine
+2719	masculine/feminine
+2722	masculine/neuter
 masculine
-2725	
 2728	neuter
 2730	neuter
-
-2733	
-masculine
+2734	masculine
 2736	feminine
 masculine
 masculine/feminine
 masculine
 2741	masculine
-
-2745	feminine
+2745	masculine
 masculine
 2748	feminine
-
-neuter
+2750	neuter
 2752	feminine
 2756	masculine
-
-
-masculine
+2759	masculine
 masculine
 masculine/feminine
 masculine/neuter
 2764	neuter
-
-neuter
-2768	
+2766	neuter
 2772	feminine
-
-
-masculine/neuter
+2775	masculine/neuter
 2778	neuter
-2782	
-
-2789	
-
 2792	masculine
-
-2797	
-
-feminine
-
-
-
-
-masculine/feminine/neuter
+2799	feminine
+2804	masculine/feminine/neuter
 2806	masculine
-2808	
-masculine
+2809	masculine
 neuter
-
-
-masculine/feminine/neuter
-
-
-
-
-
-2820	
+2813	masculine/feminine/neuter
+2816	feminine
 2822	feminine
 2824	masculine
 2826	feminine
-
 2830	masculine
-
 2833	masculine/neuter
-
-2836	
-2838	
 2842	masculine
 2844	feminine
-
 2848	masculine
-
-
-feminine
+2851	masculine
 masculine/neuter
 2856	masculine
-2858	
-
 2862	feminine
 feminine
-
-masculine
-2867	
+2865	masculine
 2870	masculine
 2872	masculine
 2875	masculine
-2877	
+2878	masculine
 masculine
-masculine
-2882	
-masculine
+2883	masculine
 2885	masculine
 2887	masculine
-2889	
-masculine
+2890	masculine
 2892	masculine
-2895	
-masculine
-2898	
+2896	masculine
 2901	neuter
-2903	
-
-masculine
+2905	masculine
 2908	masculine
 masculine
 2911	masculine
 feminine
 masculine/neuter
-2915	
 2918	neuter
-
 2922	neuter
-
-
-masculine/neuter
-2928	
-
-
-
-
-neuter
+2925	masculine/neuter
+2933	neuter
 2937	feminine
-2939	
-
-masculine
-
-
-
-feminine
+2941	masculine
+2945	feminine
 neuter
-2948	
-neuter
-
-2952	
+2949	neuter
 2954	feminine
 neuter
-
-
-feminine
+2958	feminine
 neuter
 masculine/feminine
 2963	masculine/feminine
-2967	
-2969	
-
-neuter
+2971	neuter
 feminine
-
-
-
-
-
-feminine
+2978	masculine
 masculine/neuter
-feminine
+masculine
 masculine/neuter
-
-feminine
+2983	feminine
 2985	masculine
 2987	feminine
 masculine
 masculine/feminine
-
-feminine
-
-2994	
-
-feminine
+2991	feminine
+2994	masculine
+2996	feminine
 masculine/feminine
-2999	
-feminine
+3000	feminine
 masculine
 masculine
-
-
 3006	feminine
 neuter
 3009	neuter
-3011	
 3013	neuter
-
-
+3016	neuter
 neuter
-neuter
-
-
-
+3021	masculine/neuter
+3024	masculine
 masculine/neuter
-
-
-feminine
-masculine/neuter
-
-3028	
-
-feminine
+3030	masculine
 masculine
-
-
-
-feminine
+3033	feminine
+3035	feminine
 neuter
-3038	
-
-3041	
-3045	
-
 3048	neuter
-3051	
 3053	neuter
 masculine
-3057	
-
-3060	
+3060	masculine
 feminine
 3063	masculine
-3065	
-masculine
+3066	masculine
 neuter
-3069	
-neuter
-
-
-neuter
-
-masculine
+3070	neuter
+3073	neuter
+3075	masculine
 3077	feminine
 neuter
 neuter
-
 3083	masculine
 3085	feminine
 masculine
 masculine/feminine
-
-
-3092	
 3094	neuter
 3096	feminine
 3100	neuter
 3102	feminine
 masculine
-3105	
-masculine
-3108	
-
+3106	masculine
 3112	feminine
-3115	
 3117	masculine
-
+3119	feminine
 feminine
 feminine
-feminine
-3123	
-
-
-masculine
-
-
+3123	feminine
+3126	masculine
 3131	neuter
-
-
-3135	
-3138	
-3140	
-neuter
-3147	
-
-3150	
-3152	
-3155	
-
+3141	neuter
 3159	masculine
-
-
-
-
-
-
-3167	
-3169	
-3172	
-
-3175	
-3177	
-feminine
+3178	feminine
 masculine
-
-
 3183	masculine/neuter
 masculine
-
-neuter
-
-
+3186	neuter
 3190	masculine/neuter
 3192	masculine
-3194	
-3196	
-3199	
-
-3202	
-3204	
-
-
+3205	feminine
 3208	masculine
-3212	
 3214	masculine
 feminine
 neuter
@@ -1832,701 +937,388 @@ feminine
 feminine
 masculine
 masculine
-
-3223	
 3225	masculine
 neuter
 3228	masculine
-
-feminine
-
-3234	
-
-3238	
-3240	
-
+3230	feminine
 3244	masculine
-3246	
 3248	masculine
-
-
-3252	
-
-
-
-masculine/feminine
-3258	
-feminine
+3256	masculine/feminine
+3259	feminine
 3261	neuter
-
-masculine
+3263	masculine
 masculine
 neuter
 3267	masculine
-3269	
-neuter
-
+3270	neuter
 3273	masculine
-
-masculine
-3277	
-neuter
-
+3275	masculine
+3278	neuter
 3282	masculine
-3284	
 3286	feminine
-3289	
-feminine
+3290	feminine
 masculine/neuter
-
+masculine
 masculine
 3295	feminine
 masculine
-
-3299	
-
-feminine
-3303	
+3301	feminine
 3305	masculine
 3307	feminine
 masculine
 masculine
-
-
-
-masculine
+3313	masculine
 feminine
-3318	
-neuter
+3319	neuter
 3323	masculine
 masculine
 3326	masculine
 masculine
-
-neuter
-3331	
-3333	
-feminine
+3329	feminine
+3334	feminine
 feminine
 3339	feminine
 masculine
 feminine
 feminine
-
 3345	feminine
-3348	
-masculine
-3353	
-neuter
+3349	masculine
+3354	neuter
 feminine
 3359	feminine
 masculine
 feminine
 feminine
-
 3365	feminine
-3367	
-
-masculine
-3372	
-
-feminine
+3369	masculine
+3374	feminine
 3379	feminine
-
 3382	masculine
-
-3385	
-
-3388	
-feminine
+3389	feminine
 masculine
 neuter
-
-3394	
-masculine/neuter
-
-masculine
+3395	masculine/neuter
+3397	masculine
 feminine
-
-
 3402	feminine
-3404	masculine
+3404	neuter
 3406	masculine
 masculine
 masculine
-
 3412	masculine
 3414	masculine
 masculine
-
-
-masculine
+3418	masculine
 3420	masculine
 masculine
 masculine
-
-feminine
+3424	masculine
 3426	masculine
 masculine
 masculine
-
-masculine
+3430	neuter
 3432	masculine
 masculine
 masculine
 masculine
-3438	
-3442	
-feminine
+3443	feminine
 masculine
 neuter
-
-3448	
 3450	masculine
 masculine
 3453	masculine
 masculine
-3456	
 3458	feminine
 feminine
 feminine
 3462	masculine
 masculine
 3465	neuter
-
 3468	masculine
-
-
-3472	
 3474	masculine/neuter
-3476	
-feminine
-
-feminine
+3477	feminine
+3479	feminine
 masculine
 masculine
-
-
-3488	
 3491	neuter
-3494	
 3497	feminine
 feminine
-
-3501	
-
-neuter
-
-3506	
-feminine
-
+3503	neuter
+3507	feminine
 3510	masculine/neuter
 masculine
 3514	feminine
-3518	
-masculine
-3521	
-3524	
+3519	masculine
 3527	feminine
-3530	
-neuter
+3531	neuter
 3533	feminine
-
 3536	feminine
 3539	feminine
 feminine
-3542	
-masculine
-
+3543	masculine
 3547	masculine
-
 3550	neuter
-
+3552	feminine
 feminine
-feminine
-3555	
-
-3559	
 3561	feminine
 3564	masculine
 feminine
 masculine
-3568	
 3571	masculine
 masculine
 3575	feminine
 masculine/neuter
-3578	
-neuter
+3579	neuter
 3581	feminine
-
 3584	masculine
 3587	feminine
 feminine
-3590	
-masculine
-
+3591	masculine
 3595	masculine
-
-3599	
+3600	feminine
 feminine
-feminine
-3603	
-3605	
-feminine
+3606	feminine
 feminine
 3609	feminine
 masculine
-3612	
 3614	masculine
 masculine
-3617	
 3620	masculine
-
-
-
 3625	neuter
-
-3630	
-feminine
-
-3634	
-
-masculine
+3631	feminine
+3636	masculine
 masculine
 neuter
 masculine/neuter
 3641	neuter
-
-
-masculine
+3644	masculine
 3646	neuter
-
-3650	
-3653	
-neuter
+3654	neuter
 masculine
 masculine
 masculine
 3659	feminine
-3661	
-3663	
 3665	feminine
-
-neuter
+3667	neuter
 masculine
-
-3672	
 3674	neuter
 feminine
 feminine
-3678	
-neuter
+3679	neuter
 masculine
 masculine
-
-3684	
-
-
+3687	masculine
 masculine
-masculine
-
-masculine
-3692	
+3690	masculine
 3695	masculine
-
-masculine
-
-neuter
+3697	masculine
+3699	neuter
 neuter
 3703	neuter
-
-3706	
-neuter
+3707	neuter
 3709	masculine
 3712	masculine
 masculine
 masculine
 masculine/feminine
 masculine
-3718	
-
-feminine
-3722	
-3724	
-neuter
-
-3728	
-3730	
+3720	feminine
+3722	masculine
+3725	neuter
 3732	masculine
 3735	masculine
-
-
-3739	
-masculine
-
+3740	masculine
 3743	neuter
-
-
-neuter
-
-
+3746	neuter
 3751	masculine
 masculine/feminine
 masculine
-3756	
-3758	
-
-feminine
-
+3760	feminine
 3763	neuter
 masculine
-3766	
-neuter
-3772	
-
-3777	
+3767	neuter
+3778	masculine
 masculine
 masculine
-masculine
-3783	
-
 3786	masculine
 masculine
-3790	
-3792	
-feminine
-
-
-3800	
-
-3803	
-
-3806	
-
-3809	
-3813	
-3816	
-3822	
-
-feminine
+3793	feminine
+3824	feminine
 feminine
 feminine
 masculine
-3829	
 3831	feminine
-3833	
 3835	masculine
 3837	masculine
-
 3840	masculine
 3843	masculine
 3845	feminine
 masculine
-3848	
+3849	masculine
 masculine
-masculine
-
-
-
-
-3857	
-3859	
-masculine
+3860	masculine
 masculine/feminine
-
-
-feminine
+3864	feminine
 feminine
 masculine
 3868	masculine
 masculine
-
 3872	feminine
 masculine
-
 3876	feminine
 neuter
 3880	feminine
-3882	
-3887	
 3889	masculine
-3892	
-3894	
-neuter
+3895	neuter
 feminine
 3900	neuter
-3904	
-neuter
-3907	
-3911	
-3917	
-neuter
-3920	
+3905	neuter
+3911	masculine
+3918	feminine
 3922	masculine/neuter
 3924	feminine
 feminine
 feminine
-
 3929	feminine
 3932	masculine
 3934	masculine
 masculine
-3937	
-3941	
-3943	
-masculine
+3944	masculine
 3946	masculine
 masculine
-
-neuter
-3951	
-
+3949	neuter
 3954	masculine
-
-3957	
-neuter
+3958	neuter
 masculine
 masculine
 feminine
 3964	masculine/neuter
 3966	neuter
 feminine
-
-
-feminine
+3970	feminine
 masculine
 3973	masculine
-
-feminine
-
-
-
-3981	
+3975	feminine
 3984	feminine
 masculine/neuter
-
-neuter
+3987	neuter
 masculine
 masculine
 3991	neuter
-3994	
 3997	masculine
 masculine
 4000	masculine
-
-neuter
-
+4002	neuter
 4008	masculine
-
 4011	neuter
 masculine
 masculine
 masculine/neuter
 neuter
-
 4020	neuter
 masculine
 masculine
 neuter
-4025	
-4029	
-
-masculine
-4036	
-feminine
-
-4044	
+4031	masculine
+4037	feminine
 4046	masculine
 masculine
 masculine
-
-4051	
+4052	neuter
 neuter
-neuter
-
-
-4057	
-4059	
-4061	
-4063	
-masculine
+4064	masculine
 4067	masculine/feminine/neuter
 feminine
 masculine
 4071	feminine
 4073	masculine
-4077	
 4079	masculine
-
 4082	feminine
 feminine
 neuter
 masculine/neuter
 masculine
 4088	neuter
-
-4091	
-
 4094	feminine
 feminine
-4097	
+4098	neuter
+4102	feminine
 neuter
-4101	
-feminine
-neuter
-4106	masculine
 4108	masculine
 4110	neuter
-4112	neuter
+4112	feminine
 4114	masculine
-4117	
-neuter
+4118	neuter
 masculine
 neuter
 masculine/feminine
-4123	
-masculine
-
-neuter
+4124	masculine
+4126	neuter
 4130	masculine
-
-masculine/feminine
-
+4132	masculine/feminine
 4135	feminine
 4137	neuter
 4139	feminine
 feminine
 feminine
 masculine
-4145	
 4147	masculine
-
 4150	masculine/feminine
 4152	masculine/feminine
-
 4156	feminine
 feminine
-4159	
-neuter
-
-masculine
-4165	
-
-4170	
-
+4160	neuter
+4162	masculine
+4172	feminine
 feminine
-feminine
-4175	
-
-
-
 4180	feminine
-4182	
-
 4186	masculine
-4189	
-4192	
 4196	masculine
 4198	neuter
 feminine
 feminine
-4202	
+4203	feminine
 feminine
 feminine
-feminine
-
-
-
-
-masculine
-4216	
-
-feminine
+4210	masculine
+4218	feminine
 masculine/feminine/neuter
 neuter
 masculine
-
-
-4225	
-4227	
-
 4230	masculine
 4232	masculine
-
-
+4235	neuter
 neuter
-neuter
-
-
-neuter
+4239	neuter
 4241	masculine
 masculine
 masculine
 4246	neuter
-
-
-4250	
-4253	
+4254	feminine
 feminine
-feminine
-4257	
-
-feminine
+4259	feminine
 masculine
-
-
-neuter
-4265	
+4263	neuter
 4267	masculine
 masculine
 masculine
 feminine
 feminine
 neuter
-
-
+4275	neuter
+4277	neuter
+4281	feminine
 neuter
-
-neuter
-
-4280	
+4289	feminine
 feminine
-neuter
-4285	masculine
-4288	
-feminine
-feminine
-
-4293	
-4295	
-
-4298	
-
-feminine
-
+4300	feminine
+4302	masculine
 masculine
-masculine
-
-feminine
-
+4305	feminine
 4308	feminine
 4310	feminine
-
-
-
-4315	
-
-
-4319	
-4321	
-
-4325	
-4328	
-
 4332	neuter
 4335	masculine
-
 4341	neuter
 4343	masculine
 feminine
@@ -2534,64 +1326,40 @@ feminine
 masculine
 masculine
 masculine
-4353	
 4355	neuter
-
 4358	neuter
 neuter
 neuter
-4362	
-neuter
-
-4367	
-
-neuter
+4363	neuter
+4369	neuter
 masculine
 4372	neuter
 masculine/neuter
-
-
-feminine
-4378	
+4376	feminine
 4380	masculine
-4385	
-masculine
+4386	masculine
 4389	feminine
 neuter
 4393	masculine
-4395	
 4397	feminine
 neuter
 feminine
 neuter
-
-feminine
+4402	feminine
 masculine
 4405	feminine
-
-masculine
+4407	masculine
 4409	feminine
 masculine
-4412	
-
-
-feminine
+4415	feminine
 masculine/neuter
 masculine
 4421	masculine
-
-4426	
-neuter
+masculine
+4427	neuter
 4429	masculine
-
-4432	
-feminine
-
-4436	
-
-masculine/feminine
-
-4441	
+4433	feminine
+4438	masculine/feminine
 4443	neuter
 masculine
 masculine
@@ -2600,78 +1368,45 @@ masculine
 feminine
 neuter
 4452	masculine
-4454	
-masculine
+4455	masculine
 4457	masculine
-
-
-masculine/neuter
-4462	
-neuter
+4460	masculine/neuter
+4463	neuter
 masculine
 masculine
-
+feminine
 4468	masculine
-
-
 4474	masculine
 4476	neuter
 4478	masculine
 masculine
 4482	feminine
-4484	
 4486	neuter
 masculine
 masculine
-4490	
-
-4494	
-4496	
-4498	
-4501	
 4505	masculine
-
-
 4510	masculine/feminine
 feminine
-4513	feminine
+4513	masculine
 masculine/neuter
 neuter
 masculine
-
-4519	
-
 4524	masculine
-
 4527	masculine
-4529	
 4531	masculine
-
-4534	
-masculine/neuter
+4535	masculine/neuter
 neuter
 masculine
-
-4540	
-4543	
-feminine
+4544	feminine
 neuter
 4547	neuter
-
+4549	masculine
 masculine
+4553	neuter
 masculine
-4552	
-neuter
+4557	feminine
 masculine
-
-
-feminine
-masculine
-4561	
-4563	
 4565	feminine
-
-4570	
 4573	masculine
 masculine
 4576	neuter
@@ -2679,178 +1414,106 @@ masculine
 masculine
 neuter
 masculine
-
 4584	feminine
 feminine
 neuter
 feminine
-neuter
-
-
-
-
 4594	neuter
-
-4597	
 4599	masculine
 neuter
-4602	
 4604	neuter
 4606	masculine
 4608	masculine
-
 4611	masculine
-4613	
-
+4615	feminine
 feminine
 feminine
-feminine
-
-
-
-4622	
-feminine
-4625	
+4623	feminine
 4627	feminine
 4631	masculine
 masculine
-
 4635	feminine
-
-masculine/neuter
+4637	masculine/neuter
 4639	masculine
 4641	masculine
 4645	neuter
-
-
-
 4652	neuter
-
-
-4656	
-neuter
-
+4657	neuter
 4661	masculine
-4664	
-4669	
 4671	neuter
-4673	
+4674	feminine
 feminine
-feminine
-4677	
-feminine
+4678	feminine
 4680	feminine
 4682	masculine
-
-4685	
-masculine
-4689	
+4686	masculine
 4692	masculine
 masculine
 masculine/feminine
 masculine
-4699	
 4701	feminine
-
+4703	neuter
+masculine
+4708	neuter
+masculine
+masculine
+4716	masculine/neuter
 neuter
-masculine
-
-4707	
-neuter
-masculine
-masculine
-
-
-4715	
-masculine/neuter
-neuter
-
-masculine
-
-
-feminine
+4719	masculine
+4722	feminine
 4724	neuter
 masculine
-
 4729	feminine
-4731	
 4734	neuter
 masculine
 4739	neuter
 masculine
 masculine
 masculine
-
 4746	masculine
-4751	
-feminine
-
-feminine
+4752	feminine
+4754	feminine
 feminine
 neuter
 4758	feminine
-
 4761	neuter
 neuter
 neuter
-4766	
-masculine/neuter
+4767	masculine/neuter
 4769	masculine
 4773	masculine
-
-masculine
-4777	
-4779	
-
+4775	masculine
 4782	masculine
-4785	
-
-
-masculine/neuter
+4788	masculine/neuter
 feminine
 masculine/neuter
-
-neuter
+4792	neuter
 neuter
 masculine
-
-masculine
+4796	masculine
 masculine
 feminine
 feminine
-
+feminine
 4802	feminine
 feminine
-4805	
 4808	neuter
 4812	neuter
 4814	feminine
-4817	
-4820	
+4817	feminine
+4820	feminine
 feminine
 masculine
-4826	
-
-neuter
-
-
+4828	neuter
 4836	masculine
 masculine
-4839	
-
 4842	feminine
 neuter
 masculine
 4848	masculine
 4850	masculine
-
-
-4854	
-masculine
-
-4859	
-masculine
-
+4855	masculine
+4860	masculine
 4864	neuter
 masculine
 4868	feminine
@@ -2858,10 +1521,9 @@ masculine
 neuter
 4872	neuter
 feminine
-
 4878	feminine
-4881	
-4884	
+4881	feminine
+4884	feminine
 feminine
 feminine
 4888	feminine
@@ -2877,7 +1539,6 @@ masculine
 masculine
 4903	neuter
 4906	masculine
-
 4910	masculine
 masculine
 4913	neuter
@@ -2885,9 +1546,7 @@ masculine/feminine
 4916	masculine
 masculine
 4920	masculine
-
 4923	masculine
-
 4928	masculine
 masculine
 4932	masculine
@@ -2895,385 +1554,194 @@ masculine
 4935	masculine
 4937	masculine
 4941	feminine
-
+4943	masculine
 masculine
+4946	neuter
 masculine
-
-neuter
-masculine
-
-masculine
+4949	masculine
 4951	masculine
-
-4954	
 4957	masculine
-
-
-4961	
+4961	masculine
 4963	neuter
 4965	neuter
 masculine
-
-4971	
-masculine
-
+4972	masculine
 4975	feminine
 feminine
 feminine
 feminine
 masculine
-
-masculine
-
-4984	
-neuter
-
-feminine
+4981	masculine
+4985	neuter
+4987	feminine
 4989	feminine
-
-
-
+4991	feminine
 4997	masculine
-
-feminine
+4999	feminine
 feminine
 feminine
 masculine
 feminine
-
-masculine
+5005	masculine
 5008	feminine
 5015	masculine
 5018	masculine/feminine
 neuter
-
-5023	
-5025	
-5027	
-
-masculine/feminine
-
-5034	
-
-
-
-
-5041	
+5029	masculine/feminine
+5036	masculine
 5043	feminine
-
 5047	masculine
 5050	feminine
 feminine
 feminine
 5054	feminine
-
-feminine
+5056	feminine
 5059	masculine
 5061	masculine
 5063	feminine
 feminine
-
-feminine
+5066	feminine
 5068	feminine
-
-5072	
-masculine
-
-feminine
-5077	
-5079	
-feminine
-5082	
+5073	masculine
+5075	feminine
+5080	feminine
 5084	feminine
-
-5089	
 5092	feminine
-
+5094	feminine
 feminine
-feminine
-
-
-masculine
 5100	feminine
-5104	
+5105	feminine
+5109	feminine
 feminine
-5107	
-
-feminine
-feminine
-
-
-
-feminine
-
-5117	
-
-
-
-5123	
+5114	feminine
+5124	masculine
 masculine
-masculine
-5127	
-
+5129	feminine
 feminine
+5134	feminine
 feminine
-
-5133	
-feminine
-feminine
-
 5138	feminine
-
-feminine
-5142	
+5140	feminine
 5145	neuter
-
-feminine
-5149	
-masculine/feminine
+5147	feminine
+5150	masculine/feminine
 5153	masculine
-
 5156	masculine/neuter
-
+5158	neuter
 neuter
-neuter
-5165	
-feminine
+5166	feminine
 masculine
-
-
-
+5171	neuter
+5177	feminine
+5179	feminine
 neuter
-
-5175	
-
-feminine
-
-feminine
-neuter
-
-
-5185	
-masculine
-5188	
-5191	
+5186	masculine
 5193	feminine
 5195	masculine
-
-
-
-5202	
-5210	
+5211	masculine
+5220	feminine
+5223	masculine
 masculine
-5213	
-5216	
-5218	
-5220	neuter
-5222	
-masculine
-masculine
-5226	
-
 5234	feminine
-
-
-feminine
-
-
-
+5237	feminine
 5242	masculine/feminine
 feminine
-5245	
-
-
-masculine
-
+5248	masculine
+5250	feminine
 feminine
-feminine
-
-5254	
-
+5254	masculine
+5256	masculine
 masculine
-masculine
-
-feminine
-
+5259	feminine
 5262	feminine
-
-5266	feminine
+5266	masculine
 masculine
-
 5270	masculine
 neuter
 masculine
-
-feminine
-
-feminine
-
-masculine
+5274	feminine
+5276	feminine
+5278	masculine
 5280	neuter
 5282	masculine
 masculine
-
-masculine
+5285	masculine
 masculine
 neuter
-
-5290	
 5293	masculine/neuter
-
+masculine
 5297	neuter
 masculine
-5300	
 5305	masculine
 masculine
-
 5310	masculine
 masculine
-
 5314	masculine
-
-
-
-
-feminine
-
-
-
-neuter
+5319	feminine
+5323	neuter
 5325	masculine
-
-5329	
-
-
-feminine
-
+5332	feminine
 5335	masculine
-
-
-feminine
+5338	feminine
 5344	neuter
 masculine
 feminine
-
-
-5350	
+5350	masculine
 5352	neuter
 5354	neuter
-5357	
-
-5360	
 5362	masculine
-5364	
-5366	
-
-feminine
-
-5371	
+5368	feminine
 5373	feminine
-
-
 5377	feminine
 feminine
 5381	feminine
-5385	
+5385	feminine
 feminine
-
+5388	masculine
+5391	feminine
 masculine
-5390	
-feminine
-masculine
-
-5398	
-
-masculine
+5400	masculine
 neuter
 feminine
 feminine
-
-masculine
-
+5405	masculine
+5407	neuter
 neuter
-neuter
-
 5411	masculine
-
-
-5415	
-5418	
-
 5421	neuter
 feminine
 feminine
-
-masculine
+5425	masculine
 5427	neuter
-
 5430	masculine
-
-
-5434	
-
-
-
-
-
-
-
+5435	feminine
 5443	feminine
-
-
-
-
-
-feminine
-
-5452	
-5454	
-
+5449	feminine
 5457	neuter
-5460	
 5462	feminine
-5466	
 5468	feminine
-5472	
-feminine
+5473	feminine
 masculine
 5476	neuter
 masculine
 masculine
-5480	
-5482	
-masculine
-
+5483	masculine
 5486	masculine
 5489	masculine
 masculine
-5492	
-5494	
-masculine
-
+5495	masculine
 5498	masculine
-5502	
-
 5506	neuter
-5508	
-
-masculine
-
+5510	masculine
 5513	masculine
 5515	masculine
 feminine
 5518	neuter
 neuter
-
 5523	masculine
-
 5526	neuter
 neuter
 5529	masculine/neuter
-
 5532	masculine
 5534	feminine
 masculine
@@ -3281,160 +1749,83 @@ masculine
 masculine
 5543	neuter
 5545	masculine
-5547	
-
-
 5555	masculine
 5557	masculine/feminine
-
-
-masculine/feminine/neuter
+5560	masculine/feminine/neuter
 5562	masculine/feminine/neuter
 5566	masculine
-
-neuter
+5568	neuter
 feminine
 feminine
-5572	
-
-neuter
-
-
-masculine/neuter
+5574	neuter
+5577	masculine/neuter
 feminine
-
-
-
-masculine
-
+5582	masculine
 5586	neuter
 masculine
-5589	
 5591	masculine
 masculine
 masculine
 5595	feminine
 feminine
 neuter
-5600	
-5604	
 5606	masculine
 neuter
 masculine
 5610	masculine
-
-
-
 5615	neuter
-5617	
-masculine
-
-neuter
+5618	masculine
+5620	feminine
 feminine
 masculine/neuter
 neuter
-
-neuter
-5627	
+5625	neuter
+5628	masculine
+5631	neuter
+5635	masculine
 masculine
-5630	
-neuter
-
-5634	
-masculine
-masculine
-
-neuter
-5640	
+5638	neuter
 5642	neuter
-
-5645	
-
-masculine/neuter
-5649	
-
-
-5654	
-masculine/neuter
+5647	masculine/neuter
+5655	masculine/neuter
 5657	masculine
 5660	masculine/feminine
 5663	masculine/feminine
 5666	masculine
 masculine
-5669	
-masculine
+5670	masculine
 5673	feminine
-
+5675	masculine
 masculine
-masculine
-
-5679	
-
-masculine
+5681	masculine
 neuter
-5684	
 5686	masculine/feminine
-
-5689	
-
-neuter
-
-neuter
-5695	
-5697	
-
-neuter
-
-masculine
+5691	neuter
+5693	neuter
+5699	neuter
+5701	masculine
 neuter
 feminine
-5705	
-5707	
-feminine
+5708	feminine
 masculine
-
-neuter
-5713	
-
-
-
-
+5711	neuter
 5719	masculine
-5723	
-masculine/feminine
-5726	
-
-
+5724	masculine/feminine
 5731	masculine
-5733	
-
-5736	
 5738	masculine
-
-neuter
-
-feminine
-
-
-
-5747	
-5749	
+5740	neuter
+5742	feminine
 5751	masculine
-
 5754	masculine
 5756	masculine
-
-
-feminine
+5759	feminine
 feminine
 feminine
 5763	neuter
-5765	
 5767	masculine/neuter
 masculine/neuter
 masculine
-
-5772	
+5772	masculine
 5774	feminine
 feminine
 feminine
@@ -3445,397 +1836,204 @@ masculine/neuter
 masculine
 5788	masculine
 masculine
-
 masculine
-5794	
-
-
+masculine
 5799	feminine
 masculine
 feminine
 5803	masculine
-
-5807	
-5809	
 5811	feminine
 5813	feminine
 5815	neuter
-5817	
-5819	
+5820	neuter
 neuter
-neuter
-5823	
-
-5826	
-5828	
-
-5832	
-5834	
 5836	masculine
 5838	masculine
 5840	masculine
 5842	masculine/neuter
 neuter
-
-
+5846	masculine
 masculine
-masculine
-
-feminine
+5849	feminine
 masculine
 5852	masculine
 5854	masculine/neuter
-
 5857	masculine
-5859	
-masculine
+5860	masculine
 neuter
 5863	feminine
 5866	feminine
 feminine
-
-feminine
+5869	feminine
 masculine
-5872	
-
 5875	feminine
 feminine
-
 5880	feminine
 feminine
 feminine
 neuter
-
-
-5888	
-5891	
-5893	
-
-
-masculine
+5896	masculine
 5900	feminine
 feminine
 feminine
 feminine
-
-
-
-
-
-5913	
-
-
-masculine
-5919	masculine
-5921	
-feminine
-5924	
-
+5916	masculine
+5922	feminine
 5929	masculine
-
-
-5933	
 masculine
-
-
-
-
+5933	masculine
+masculine
 5941	feminine
 feminine
 feminine
 feminine
-
-
-5948	
-
-5952	
-
-
-
-feminine
-5958	masculine
-5960	
-feminine
-5963	
-
-
-neuter
-
+5956	feminine
+5961	feminine
+5966	neuter
+5968	masculine
+5970	masculine
 masculine
-
+5975	masculine
 masculine
-masculine
-
-
-
-masculine
-masculine
-
-
 5981	feminine
-
-masculine
+5983	masculine
 feminine
-
-feminine
+5986	feminine
 5988	feminine
 5991	feminine
-5993	
-masculine
-5996	
+5994	masculine
 5998	feminine
 6000	neuter
-
-masculine
-6005	
-
+6002	masculine
 6008	masculine
-6011	
-6014	
+6015	masculine
 masculine
-masculine
-6018	feminine
+6018	masculine
 6021	masculine/feminine
-
-
-masculine
+6024	masculine
 masculine
 masculine
 6029	masculine
 feminine
 masculine
 masculine
-
 6038	masculine
 6042	masculine
-
-feminine
-
+6044	feminine
 6047	neuter
 masculine
 6050	feminine
-6052	
 6054	masculine/neuter
-
-6057	
-6060	
-feminine
-6066	
-feminine
+6061	feminine
+6067	feminine
 masculine
 6070	masculine
 masculine
 6076	masculine
 masculine
-6079	
-neuter
-
+6080	neuter
+6082	masculine
+6084	masculine
 masculine
-
-masculine
-masculine
-6088	neuter
+6088	feminine
 feminine
 6091	masculine
 6093	masculine
 neuter
-6097	
 6102	masculine
-6106	
-neuter
-
+6107	neuter
+6109	masculine
 masculine
+6112	masculine/neuter
 masculine
-
-masculine/neuter
-masculine
-
-6117	
 6119	masculine
-6121	
-neuter
-
+6122	neuter
 6125	neuter
-
-6128	
 6131	masculine
 6133	neuter
-
-
-
-6139	
-neuter
-6146	
-masculine
-
-masculine
-
-neuter
-6153	feminine
+6140	neuter
+6147	masculine
+6149	masculine
+6151	neuter
+6153	masculine
 6156	neuter
-
-masculine
+6158	masculine
 6160	masculine/neuter
-
-
-
-6165	
-
-masculine
-
+6167	masculine
 6171	masculine
 masculine
-
-
-masculine/neuter
+6175	masculine/neuter
 6178	masculine/neuter
 6180	masculine/feminine
-
-
-6184	
-
-
-masculine/neuter
+6187	masculine/neuter
 masculine/feminine
-6191	
 6194	neuter
 6196	masculine
-
-6199	
-feminine
-
-
+6200	feminine
 6205	masculine/feminine
 masculine
-6209	
 6211	masculine
 masculine
-
-feminine
+6214	feminine
 masculine
-
-6218	
-
 6222	neuter
-6224	
 6226	feminine
-
-feminine
-6230	
+6228	feminine
 6232	masculine
-
-6237	
-
-
-neuter
+6240	neuter
 masculine
-6243	
-neuter
+6244	neuter
 masculine/feminine
-6247	
-feminine
-6251	
-
-
+6248	feminine
 6255	masculine
-
-6260	
-6262	
-
-6266	
-masculine/neuter
-6269	
-6271	
+6267	masculine/neuter
 6276	masculine
-6278	
-
-
-6282	
-
 6285	feminine
-6287	
 6290	masculine/feminine
-
-feminine
-
+6292	feminine
 6296	masculine
-6299	
 6301	neuter
 6305	masculine
 6307	masculine
 6313	neuter
-6320	
-neuter
-
-masculine
+6321	neuter
+6323	masculine
 masculine/feminine
-6327	
-6330	
-neuter
-6333	
+6331	feminine
 6335	masculine/neuter
-
-masculine
+6337	masculine
 masculine/feminine
 masculine
 neuter
 6342	masculine
 6344	masculine
 neuter
-
-feminine
+6347	feminine
 neuter
 masculine
-
 6353	masculine
-6360	
-
-
-feminine
-
-feminine
-
-masculine/feminine
-
+6363	masculine
+6365	masculine
+6367	masculine/feminine
 6370	feminine
-6372	
-neuter
+6373	neuter
 6375	neuter
-
-
 6379	masculine
 masculine
-
-
-
-
-
-
-6391	
+6383	masculine
 6393	neuter
 neuter
 masculine/neuter
-
-
-neuter
+6398	neuter
 6408	neuter
-6413	
 6415	masculine
-
-6418	
-feminine
+6419	feminine
 6422	masculine
 masculine
 6425	masculine
-6429	
-6431	
-
+6433	neuter
 neuter
-neuter
-
-masculine
-
-
+6436	masculine
 6440	masculine/neuter
 feminine
 masculine/neuter
@@ -3843,587 +2041,315 @@ masculine
 6445	feminine
 feminine
 neuter
-
-neuter
+6449	neuter
 feminine
 feminine
 feminine
 6457	feminine
 feminine
-
+6460	feminine
 feminine
-feminine
-6464	
-6467	
+6468	masculine
 masculine
-masculine
-6472	
-6476	
 6479	feminine
 feminine
 neuter
-6483	
-
-
-6487	
-neuter
+6488	neuter
 neuter
 masculine
-
+6492	feminine
+6495	masculine/neuter
 feminine
-
-
-masculine/neuter
-neuter
 6499	masculine
 6501	feminine
-
-6504	
 6506	neuter
-
-
+6509	neuter
 neuter
 neuter
-neuter
-
 6514	feminine
 feminine
 feminine
-
-neuter
-
-
-masculine
+6518	neuter
+6521	masculine
 masculine/feminine
-6524	
 6526	feminine
-
-
 6530	neuter
 neuter
 neuter
-
-masculine
+6534	masculine
 masculine
 neuter
-
 6539	neuter
-6541	
 6543	feminine
 neuter
-
+6546	masculine
 masculine
-masculine
-
 6550	masculine/neuter
 6552	masculine/neuter
 6555	masculine
 masculine
 masculine
 6559	masculine/neuter
-
-feminine
-6563	
-
-feminine
+6561	feminine
+6565	feminine
 feminine
 6568	feminine
 6572	feminine
-6574	
 6576	feminine
-
 6581	masculine
-
-6584	
-
-
-
-feminine
+6588	feminine
 6590	neuter
-6593	
-
-
-
-6598	
-masculine
-
+6599	masculine
 6602	neuter
-6604	
-neuter
-
-6609	
-
-
-
-
+6605	neuter
 6616	neuter
 6619	masculine
 masculine
 masculine
-
-
 6626	masculine
 6629	masculine
 masculine
 neuter
-
-6634	
-masculine
-6641	
-
-feminine
+6635	masculine
+6643	feminine
 6645	masculine
-6647	
-6649	
 6652	feminine
-6655	
-masculine
-6659	
-
-
-6663	
-feminine
+6656	masculine
+6664	feminine
 6666	masculine
 masculine
-6669	
-
-masculine/neuter
-6673	
-neuter
-
-6677	
-
-masculine
+6671	masculine/neuter
+6674	neuter
+6679	neuter
 6681	masculine
 masculine
-
-masculine
+6684	masculine
 feminine
-
-
-masculine
-6690	
-feminine
-6693	
+6688	masculine
+6691	feminine
 6695	feminine
-
-
-6700	
-feminine
-
-
-
-
-
-neuter
-
-feminine
+6701	feminine
+6707	neuter
+6709	feminine
 masculine
 6713	masculine
-6715	
-
-masculine/neuter
-6719	
-masculine
-6722	
-
-neuter
+6717	masculine/neuter
+6720	masculine
+6724	neuter
 feminine
 feminine
-6730	
-6733	
-6736	
-masculine
-6741	
-6745	
-masculine
-
-
-feminine
-
-6752	
-feminine
-6755	
+6737	masculine
+6746	masculine
+6749	feminine
+6753	feminine
 6759	masculine
 masculine
-
-feminine
-
-
-feminine
+6762	feminine
+6765	feminine
 6767	feminine
-
-feminine
-6771	
-6776	
-
-feminine
-
+6769	feminine
+6778	feminine
 6781	feminine
-6784	
-6786	
-6788	
-6793	
-masculine/feminine
+6794	masculine/feminine
 6797	feminine
-
-6800	
-
-feminine
-
+6802	feminine
 6805	feminine
-6808	
-6810	
-
-
-feminine
+6813	feminine
 masculine/neuter
 6816	feminine
-
 6819	feminine
 masculine
-6822	
-masculine/feminine
+6823	masculine/feminine
 masculine
 6829	masculine/feminine
-6831	
-
-
-feminine
+6834	feminine
 6838	masculine
 masculine
-6842	
-
-
-
-
 6849	masculine
-
-6852	
 6854	masculine
-
-neuter
+6856	neuter
 6858	neuter
 6860	neuter
-
-6864	
 6866	masculine
 feminine
 feminine
 6870	feminine
 masculine
 6873	masculine
-
-
 6878	neuter
 feminine
-
-feminine
+6881	feminine
 neuter
 neuter
 feminine
 feminine
-6889	
-feminine
-
-
-feminine
+6890	feminine
+6893	feminine
 6895	neuter
-6898	
-
-feminine
+6900	feminine
 feminine
 6903	masculine
 6905	neuter
-6907	
 6909	neuter
-
-
 6913	masculine/feminine
 neuter
-
+6916	feminine
 feminine
-feminine
-
 6920	masculine
-6922	
-
-6926	
-
-masculine
-6930	
-
-
-
-neuter
+6928	masculine
+6934	neuter
 masculine/feminine
 6937	feminine
 feminine
 masculine
-6941	
-
-masculine
+6943	masculine
 6945	masculine
-6947	
 6949	feminine
 neuter
-
 6953	masculine
 neuter
-
-
-feminine
+6957	feminine
 feminine
 masculine
 6961	masculine
 6963	masculine
-6966	
-
 6969	neuter
-
 6972	masculine
-
-
-
 6977	masculine
 6982	feminine
-6984	
-
-feminine
+6986	feminine
 feminine
 6989	masculine
 masculine
 6992	feminine
-6994	
 6996	feminine
-6998	
-7001	
-7005	
 7007	neuter
 7011	masculine
-7013	
 7019	neuter
 feminine
-
 7023	masculine
-
-
+7026	masculine
 masculine
-masculine
-
-
-7031	
-
-
 7035	neuter
-7037	
-
 7040	masculine
 7042	masculine
 neuter
 feminine
 7046	feminine
-
-7049	
-
-neuter
+7051	neuter
 masculine/feminine/neuter
-7054	
 7056	feminine
-7059	
-7061	neuter
+7061	feminine
 7063	masculine
 7066	feminine
-
-7072	neuter
+7072	feminine
 7074	masculine
 7076	feminine
-7078	
-7080	
-
+7082	feminine
 feminine
-feminine
-7085	
-feminine
+7086	feminine
 feminine
 7090	feminine
-
-7093	
-
 7096	feminine
 7098	feminine
-7100	
+7101	masculine
 masculine
-masculine
-7104	
+7104	masculine
 masculine
 7107	feminine
 masculine
 7110	feminine
 masculine
-
 7115	masculine
 7117	masculine
 masculine
-
-neuter
+7120	neuter
 feminine
 neuter
-
-7125	
-neuter
+7126	neuter
 masculine
-7129	
-
-
-
 7135	neuter
-
 7138	feminine
 feminine
 feminine
 neuter
-7143	
-7147	
 7149	neuter
-7154	
-
 7157	masculine
-
-
 7161	neuter
-neuter
-7164	
-7166	neuter
-
-
-7170	
-masculine/neuter
-7174	
-masculine/neuter
 feminine
+7166	neuter
+7171	masculine/neuter
+7175	masculine/neuter
+masculine
 masculine/neuter
-7179	
-neuter
+7180	neuter
 feminine
 feminine
 7184	feminine
 feminine
-7187	
-7189	
-masculine
-
-7196	
-masculine
-
+7190	masculine
+7197	masculine
 7201	feminine
 feminine
-
 7208	feminine
-
+feminine
 7214	neuter
 7216	masculine
 masculine
-
 7223	feminine
-7226	
-feminine
-
-7232	
+7227	feminine
 7234	feminine
 7236	masculine/feminine
 masculine
-7239	
-masculine/neuter
+7240	masculine/neuter
 7242	neuter
 7244	feminine
-
-masculine/neuter
+7246	masculine/neuter
 feminine
-7249	
-
-
 7253	masculine
 7255	masculine/feminine
-7257	
-neuter
-
-7261	
-7264	
-neuter
-
-7268	
-7272	
-7274	
-
-masculine/neuter
+7258	neuter
+7265	neuter
+7276	masculine/neuter
 7282	feminine
 7284	masculine
 7287	masculine
 masculine
-7290	
 7292	masculine
-
-
-feminine
+7295	feminine
 neuter
 7299	masculine
-
 7302	masculine
-
-masculine
-7306	
-neuter
+7304	masculine
+7307	neuter
 masculine/feminine/neuter
-
 7312	masculine
 7315	feminine
-7317	
-
-feminine
-7322	
-
+7317	masculine
+7319	feminine
 7325	feminine
-
-neuter
-
-7334	
-7336	neuter
-7339	
+7327	neuter
+7336	feminine
+7339	masculine
 7341	masculine
-7343	
+7344	feminine
 feminine
-feminine
-
 7349	masculine
 7352	feminine
 7354	feminine
 feminine
-
 7359	feminine
-
-
-
-
 7369	masculine
-7371	
 7373	feminine
 feminine
-
 7378	masculine
 7381	feminine
-7383	
-7385	
-
-7388	
-masculine
-7391	
+7389	masculine
+7391	masculine
 masculine
 7394	feminine
 masculine
 7397	feminine
-
-
 7401	neuter
 masculine
 7404	feminine
@@ -4432,85 +2358,44 @@ feminine
 feminine
 7409	masculine/neuter
 neuter
-7412	
-
 7415	neuter
-
-7418	
 7421	feminine
-
-neuter
+7423	neuter
 masculine
-7427	
 7429	feminine
 masculine
-
-
-7434	
-
-7437	
-masculine
+7438	masculine
 7441	masculine
-
-
-
 7446	neuter
 7450	masculine
 masculine
-
-
-
-neuter
+7455	neuter
 masculine
-
-neuter
+7458	neuter
 7460	masculine
-
-
-7465	neuter
-7467	
 7469	masculine
 7472	neuter
-7476	
-masculine
+7477	masculine
 7479	masculine
 neuter
 masculine/neuter
-7485	
-feminine
+7486	feminine
 masculine
-7489	
 7491	masculine
 masculine
 masculine
 neuter
-7496	
-feminine
-masculine
-7501	
+7498	masculine
 7503	feminine
-
-
-7508	
 masculine
-
-7512	
+7509	masculine
 7514	feminine
-
+7516	neuter
 neuter
-neuter
-7520	
-feminine
-
-feminine
-7526	
-feminine
-7531	
-
-7534	
-masculine
-
-
+7521	feminine
+7523	feminine
+7527	feminine
+7535	masculine
 7539	neuter
 masculine
 feminine
@@ -4520,11 +2405,7 @@ feminine
 feminine
 7549	neuter
 feminine
-7552	
-
-
 7556	neuter
-masculine
 masculine
 7562	feminine
 7567	masculine/feminine
@@ -4532,13 +2413,7 @@ feminine
 masculine
 7576	neuter
 feminine
-
-
-7582	
-7584	
-masculine
-
-
+7585	masculine
 7589	neuter
 feminine
 7592	feminine
@@ -4546,95 +2421,57 @@ feminine
 feminine
 feminine
 7598	feminine
-7600	
-
-7604	
-
+7605	masculine
 masculine/feminine
 7608	masculine
 feminine
 masculine
 7612	masculine
 masculine
-
-7617	
-7620	
 7623	neuter
-7627	
-neuter
-
+7628	feminine
 7631	masculine/neuter
-
-
 7637	masculine
 7639	feminine
-
-masculine
-
-7646	
-
+7641	masculine
 7649	feminine
 masculine
-
-neuter
+7652	neuter
 masculine
 masculine
 neuter
 masculine
-
-masculine/feminine
-7660	
-feminine
-7663	
-
-masculine
-7667	
-
-masculine
+7658	masculine/feminine
+7661	feminine
+7665	masculine
+7669	masculine
 masculine
 7672	neuter
 7675	masculine
 masculine
-
-feminine
+7678	feminine
 masculine
 7683	masculine
 7687	neuter
-7690	
-masculine
-
+7691	masculine
 7694	feminine
 neuter
-7698	
-masculine
-
-
-masculine/neuter
+7699	masculine
+7702	masculine/neuter
 masculine
 7706	masculine
-
-feminine
+7708	feminine
 7710	masculine
 7712	masculine
 7715	feminine
 7718	masculine
 7720	masculine
-
-
-7725	
-neuter
-7733	
-
-feminine
-
-7738	
+7726	neuter
+7735	feminine
+7739	masculine
 masculine
-masculine
-
-feminine
+7742	feminine
 7745	neuter
-7747	
-
 7750	feminine
 neuter
 masculine
@@ -4642,59 +2479,38 @@ neuter
 feminine
 7757	masculine
 7759	feminine
-7761	
-7763	
-7766	
-masculine
-
+7767	masculine
 7770	masculine
 7773	masculine
 7775	feminine
 masculine
-
-masculine
+7778	masculine
 masculine/feminine
-
-
-masculine
-7784	
-
-feminine
-
+7782	masculine
+7786	feminine
 7789	neuter
 masculine
-
 7794	feminine
 7796	feminine
 feminine
 feminine
 feminine
-7802	
-
 7805	neuter
 feminine
-7808	
-7810	
 7812	feminine
 neuter
-
-7816	
-feminine
-
-7820	
+7817	feminine
 7825	feminine
 7827	feminine
 feminine
 feminine
 feminine
-7832	
-masculine
+7833	masculine
 masculine
 feminine
 7837	neuter
 neuter
-7841	
-masculine
+7842	masculine
 feminine
 7849	feminine
 7851	feminine
@@ -4702,96 +2518,59 @@ feminine
 feminine
 feminine
 masculine
-7857	
 7859	feminine
-7861	
-7866	
 7868	masculine
-
 7873	masculine
-
+7875	neuter
 neuter
-neuter
-
-neuter
+7878	neuter
 neuter
 7881	feminine
-
-
-7886	
-
-feminine
-
+7888	feminine
 7892	masculine
-
-7895	
 7897	masculine
-
-masculine
+7899	masculine
 feminine
 masculine/feminine/neuter
-7903	
-7905	
-7908	
-masculine
-
+7909	masculine
 7912	masculine
 7915	masculine
 7917	feminine
 masculine
-
-feminine
+7920	feminine
 masculine
 masculine/neuter
 neuter
-
-masculine
-7927	
-neuter
+7925	masculine
+7928	neuter
 feminine
 7932	masculine
-7934	
-feminine
+7935	feminine
 feminine
 feminine
 masculine
-7941	
-7943	
-
-
 7947	neuter
 feminine
 7950	feminine
 masculine
-7953	
 7955	masculine
 masculine
 feminine
 feminine
 feminine
-7964	
 7967	neuter
-7970	
-
-masculine
+7972	masculine
 neuter
-7975	
-7978	
-neuter
-neuter
+7980	neuter
 feminine
 feminine
 7985	feminine
 feminine
-
 7990	masculine
-
 7993	masculine
-
-feminine
+7995	feminine
 feminine
 neuter
-
 8001	masculine
 8003	neuter
 8008	masculine
@@ -4799,151 +2578,83 @@ neuter
 8012	feminine
 feminine
 neuter
-
-
+8016	feminine
 8018	masculine/feminine
-
-neuter
 8022	neuter
 feminine
 masculine
-8027	
-neuter
+8028	neuter
 masculine
 8031	masculine
-
+8033	neuter
+8039	masculine
+8046	feminine
 neuter
-
-8036	
-8038	
-masculine
-
-
-8044	
-
-feminine
-neuter
-8049	
-
-
+8052	feminine
 feminine
 feminine
-neuter
 8056	feminine
 neuter
-
-neuter
-
-masculine
+8059	neuter
+8061	masculine
 8064	masculine
 8068	masculine
-8070	
-8072	masculine/feminine
+8072	masculine/neuter
 neuter
 8076	masculine
 masculine
-8080	
-
-feminine
+8082	feminine
 masculine
-8085	neuter
+8085	feminine
 8087	feminine
 feminine
-
-
-neuter
+8091	neuter
 masculine
-8095	
 8097	masculine
-
-8100	
-masculine
-
-neuter
+8101	masculine
+8103	feminine
 8107	masculine/feminine/neuter
-
 8110	neuter
-
 8113	masculine
 masculine
 neuter
-
-8118	
-8124	
-8128	
-
-
-8132	
-8136	
-8138	
+8139	feminine
 feminine
-feminine
-8143	
-
-
-8147	
-
-8152	
-
 8156	masculine
 masculine
-
-feminine
+8159	feminine
 8161	feminine
-
 8164	feminine
-8168	
-8170	
-feminine
+8171	feminine
 8174	masculine
-
 8179	masculine
 masculine
-neuter
-8183	
+feminine
 8186	masculine
-8190	
 8192	masculine
-
-
-masculine
-8197	
-feminine
+8195	masculine
+8198	feminine
 8200	neuter
-
-feminine
-8205	
-8208	
-
-feminine
+8202	feminine
+8210	feminine
 8214	masculine
 masculine
 neuter
-
-8226	
-masculine
-
+8227	masculine
 8230	masculine
 masculine
-8234	
-8236	
-masculine/feminine
+8237	masculine/feminine
 8240	masculine
 8243	masculine
-
 8246	neuter
 feminine
-
-masculine/neuter
+8249	masculine/neuter
 masculine
 masculine
-8253	
-8257	
 8259	neuter
 8264	neuter
 feminine
-8268	
-neuter
+8269	neuter
 masculine
 masculine
 masculine
@@ -4952,338 +2663,181 @@ masculine/feminine
 8278	feminine
 feminine
 neuter
-
-masculine
-8286	
-8288	
-feminine
+8282	masculine
+8289	feminine
 feminine
 8292	neuter
 8294	masculine
 8296	masculine
-
-neuter
-
-feminine
+8298	neuter
+8300	feminine
 masculine/neuter
-8303	
-neuter
+8304	neuter
 8307	masculine
 8309	masculine/neuter
 neuter
-
-
-8314	
-masculine
+8315	masculine
 8320	feminine
 masculine
-8323	
-
-8329	
-8333	
-
 8336	feminine
 8343	feminine
-
-
-8348	
-8350	
 8353	feminine
 8356	masculine
 8358	masculine
-8360	
-8362	
-8367	
 8369	masculine
 feminine
 8372	feminine
 8374	masculine/feminine
 masculine
 8377	masculine
-
-8383	
 8385	neuter
 masculine
-
 8390	masculine
-8392	
-8396	
-8398	
-8400	
-
+8401	masculine
 masculine/feminine
-
-8407	
-8411	
 8413	masculine
 8415	masculine
 8417	feminine
-8421	
-
 8426	neuter
 masculine
-8429	
 8431	feminine
 8433	masculine
-
-feminine
-
-
+8435	feminine
 8440	masculine
 8442	masculine
 8444	masculine
-8447	
 8450	masculine
-
 8453	feminine
 masculine
 8456	masculine
-8459	
 8461	masculine
 masculine
 8464	masculine
-
-8469	
-
-
-neuter
-
+8472	neuter
+masculine
 8476	masculine
 masculine
 neuter
 masculine
-
-
-
-masculine
-
-
+8483	masculine
 8487	neuter
 masculine
 masculine
-
-masculine
-
-8494	
-masculine
-8499	
-
-neuter
+8491	masculine
+8495	masculine
+8501	neuter
 8503	masculine
-8505	
-
-8508	
-
-
 8512	masculine
-8514	
-neuter
-8518	
+8515	neuter
 8522	neuter
-8529	
-
+8531	masculine
 masculine
 masculine
-masculine
-8535	
 8537	masculine
 masculine
-
 8541	feminine
 8543	neuter
-8545	
-neuter
-8548	
-neuter
-8552	
-neuter
-
+8546	neuter
+8549	neuter
+8553	neuter
 8558	masculine
 8560	masculine
-8562	
-
-8565	
-neuter
+8566	neuter
 masculine
 8569	neuter
 masculine
-
+8572	masculine
 masculine
-masculine
-
-
 8577	feminine
-
 8583	masculine
-8585	
 8587	neuter
 neuter
-
-feminine
+8590	feminine
 8592	neuter
 8596	neuter
-8599	
-8602	
-8604	
-neuter
-8607	
-
-
+8599	masculine
+8605	neuter
 8611	neuter
-8614	
-
-
-8618	
-masculine
-
-masculine
+8619	masculine
+8621	masculine
 8624	masculine
 masculine
 feminine
 neuter
 masculine
 masculine
-
-masculine/neuter
+8631	masculine/neuter
 8634	feminine
 feminine
-
 8639	feminine
 feminine
-8643	
-masculine
-8646	
-
-neuter
+8644	masculine
+8648	neuter
 feminine
 neuter
-8653	
-8656	
-neuter
-neuter
+8657	neuter
+feminine
 8661	feminine
 masculine
-8665	
-
 8673	masculine
 masculine/feminine/neuter
-8676	
-8678	
-8682	
-8684	
-
-
-feminine
-
-
-feminine
+8687	feminine
+8690	feminine
 masculine
 masculine
 masculine
-
-masculine/neuter
-8697	
-masculine
-
+8695	masculine/neuter
+8698	masculine
 8702	neuter
-
 8706	neuter
-8711	
-neuter
-neuter
+8712	neuter
+feminine
 8716	feminine
 masculine
 masculine
-
-
-feminine
+8721	feminine
 masculine
 masculine
 masculine
 masculine
-8730	
-feminine
+8731	feminine
 8733	feminine
 neuter
-8736	
 8738	masculine/neuter
-
 8744	feminine
 8746	feminine
 masculine
-8751	
-neuter
-
-8755	
-
+8752	neuter
 8758	masculine
-
-8762	
-8765	
 8767	neuter
-
-
-8772	
-8775	
 8777	masculine
 masculine
 masculine/neuter
 neuter
-
-
-masculine
+8783	masculine
 8789	masculine
-8791	
-
+8793	feminine
 feminine
-feminine
-8796	
 8798	masculine
 8800	masculine
 masculine
 masculine/feminine
-
-
-8806	
-
-
-feminine
+8809	feminine
 8812	neuter
 masculine
-
-8816	
-8819	
 8821	masculine
 masculine
-
-neuter
+8824	neuter
 masculine
 masculine/feminine
-8828	
-masculine
-8831	
-
-8835	
-
-
-
-
-masculine
+8829	masculine
+8840	neuter
 8842	neuter
-
-8846	
 8848	feminine
-
-8851	
 8854	neuter
 8856	neuter
-
-
-8860	
 8862	feminine
 8864	feminine
-
-8868	
 8871	feminine
 8874	masculine
 feminine
@@ -5295,316 +2849,165 @@ feminine
 feminine
 8883	neuter
 masculine
-8892	
-
 8896	masculine
 8899	masculine
 masculine
-8902	
-neuter
+8903	neuter
 neuter
 masculine
-8909	
 8911	feminine
-
-feminine
+8913	feminine
 masculine/feminine/neuter
 feminine
 feminine
-
-feminine
+8918	feminine
 masculine
 8921	masculine
 masculine
 8924	feminine
 feminine
 masculine
-
+masculine
 8929	masculine
-8931	
-
 8937	masculine
 masculine
 neuter
-
 8942	masculine
 masculine
-8945	
-
-neuter
-feminine
+8948	feminine
 masculine
-8951	
-
-
-
-
-masculine
-
-neuter
+8956	masculine
+8958	neuter
 8960	neuter
 masculine
-
 8964	feminine
 8966	feminine
-
-neuter
+8968	neuter
 feminine
 masculine
-
 8973	masculine
-8975	
-
-
 8979	neuter
 8983	feminine
-
-8986	
 8989	feminine
-8991	
-
-masculine
+8993	masculine
 8996	neuter
-8998	
-
-feminine
+9000	feminine
 9002	feminine
-
-
 9006	masculine
 feminine
 masculine/neuter
 feminine
-
-
+9012	masculine
 masculine
-masculine
-
-9016	
 9018	feminine
-
+9020	feminine
 feminine
+9028	feminine
 feminine
-9023	
-
-9027	
-feminine
-feminine
-9031	
 9033	feminine
 9035	masculine
-
 9038	masculine
 masculine
-
-
 9043	feminine
 9045	feminine
-9047	
-
 9050	masculine
-9052	
-9054	
-neuter
-
+9055	neuter
 9060	neuter
-9062	
-
-9071	
 9074	neuter
-9081	
-9085	
-masculine/feminine
+9086	masculine/feminine
 9089	masculine
-9091	
 9096	neuter
 9098	masculine
 9100	masculine
 9103	masculine
 neuter
-
-
-
-9110	
-neuter
+9111	neuter
 feminine
-
-
-9117	
-masculine/neuter
+9118	masculine/neuter
 neuter
 masculine
-9122	
 9124	masculine/feminine
-
-
+9127	masculine
 masculine
-masculine
-
-
-
-masculine
+9132	masculine
 9134	masculine/neuter
 neuter
 masculine
 masculine
-neuter
-masculine/feminine
-
-feminine
-
-9145	
-9149	
-neuter
+9139	masculine/feminine
+9141	feminine
+9150	neuter
 masculine
 masculine
 masculine
-9155	
-masculine
-9158	
-feminine
+9156	masculine
+9159	feminine
 9161	feminine
-9164	
-
-
-
-
 9170	feminine
-
 9173	feminine
 9177	feminine
-9179	
-
-9182	
 9184	feminine
 masculine
 9187	masculine
-9189	
-9191	
 9197	masculine
 feminine
-9200	
-feminine
+9201	feminine
 9203	masculine/feminine
 masculine
 9206	masculine
-
-9211	
 9213	neuter
 masculine
-
-9219	
-9223	
-
-neuter
+9225	neuter
 neuter
 9228	masculine
 9230	masculine
-9235	
-9238	
-
-
-
-neuter
+9242	neuter
 masculine
-9245	
-
-neuter
+9247	neuter
 feminine
-9250	
-feminine
-
+9251	feminine
 9254	masculine
-9257	
 9259	masculine
-
 9263	masculine
-9268	
-
-
-
-neuter
+9272	neuter
 9274	feminine
 feminine
 masculine
-
-
+9279	feminine
 feminine
-feminine
-9284	
-9287	
-9290	
-masculine
+9291	masculine
 9296	masculine
-9298	
-masculine
+9299	masculine
 9301	masculine
 masculine
-
-9305	
-
 9309	masculine
 9311	masculine
-
-neuter
-
-9316	
-
+9313	neuter
 9320	feminine
 9324	masculine
-9327	
-neuter
+9328	neuter
 masculine
-
-9332	
 9336	masculine
 masculine
-
-neuter
-
-
-neuter
-9344	
-9346	
-
-9349	
-feminine
-
+9339	neuter
+9342	neuter
+9350	masculine
 9355	feminine
 feminine
 9358	masculine
-9361	feminine
+9361	masculine
 9363	feminine
 9365	feminine
 feminine
 9368	feminine
-9371	
-
-
-
-
-
-masculine
-
-
-
-9382	
+9377	masculine
 9385	feminine
-9389	
-
-
-
-
-9395	
 9398	feminine
 masculine
-
-
 9404	feminine
 9410	masculine
 masculine
-
-neuter
+9413	neuter
 neuter
 feminine
 9417	masculine/feminine/neuter
@@ -5615,328 +3018,189 @@ neuter
 masculine/neuter
 masculine
 feminine
-9430	
-feminine
+9431	feminine
 masculine
-9434	
-masculine
+9435	masculine
 9437	masculine
-9440	
 9442	masculine/feminine
-
 9445	masculine
-
-neuter
+9447	neuter
 feminine
 masculine
-
-neuter
+9451	neuter
 9454	neuter
-9456	
-9458	
 9460	masculine
 masculine
-
-9464	
+9465	masculine
 masculine
 masculine
 masculine
-masculine
-
-neuter
-
-9473	
+9470	neuter
 9475	masculine
 masculine
-
-neuter
+9478	neuter
 masculine
-
-masculine
-9483	
+9481	masculine
 9486	feminine
-
-9489	
 9491	masculine
 9493	masculine
 masculine
-
-9497	
-masculine
-9500	
-
-
-9504	
-masculine
-9507	
-
-
-feminine
-
-masculine
+9498	masculine
+9505	masculine
+9510	feminine
+9512	masculine
 9514	feminine
 9516	feminine
 masculine
-
-
-9521	
-
-feminine
+9523	feminine
 feminine
 9526	feminine
 feminine
 feminine
 9530	masculine
 masculine
-
-
 9535	feminine
 9537	masculine
-
-9540	
 9542	masculine
 masculine
-9545	
 9547	feminine
 9549	masculine
-
-9552	
-
-
 9556	feminine
-
-9559	
-
 9563	masculine
 masculine
-
-
-
-masculine
+9568	masculine
 masculine
 9572	feminine
 neuter
-
-
-9577	
 9581	feminine
-9583	
-feminine
+9584	feminine
 feminine
 9587	masculine
 9589	masculine
-9593	
-masculine
+9594	masculine
 feminine
 9600	masculine
 masculine
-
-
-neuter
+9604	neuter
 masculine
 masculine/feminine
-
-masculine
-
-masculine
-9612	
+9608	masculine
+9610	masculine
 9614	masculine
-9616	
-
-
-masculine
-
-
+9619	masculine
+9622	masculine
 masculine
 masculine
-masculine
-
-masculine/neuter
-
-
-
-neuter
-
-neuter
-
-neuter
+9626	masculine/neuter
+9630	neuter
+9632	neuter
+9634	neuter
 feminine
 feminine
-
+9638	masculine
 masculine
-masculine
-
 9642	feminine
 neuter
-
-masculine/feminine
-
-
-masculine
-9650	
+9645	masculine/feminine
+9648	masculine
 9653	masculine/feminine/neuter
 9656	neuter
 9662	masculine
-
 9665	neuter
 neuter
-
-
-9672	
-
 9675	neuter
 neuter
 9678	masculine/neuter
-
 9681	neuter
 9685	masculine
 9688	neuter
-
 9692	neuter
 neuter
-9695	
-neuter
-
-9701	
-neuter
-
+9696	neuter
+9702	neuter
 9705	masculine
 masculine
-
-feminine
-9710	
-
-feminine
-
+9708	feminine
+9712	feminine
 9715	neuter
-
-feminine
+9717	feminine
 masculine
 neuter
-9721	
-
-9724	
 9727	neuter
 feminine
-
-
-
-
-
-feminine
-9738	
-masculine
-9741	
-
-
-
-9747	
-feminine
+9734	feminine
+9739	masculine
+9742	masculine
+9748	feminine
 neuter
-
-
-feminine
+9752	feminine
 neuter
 masculine
 9756	feminine
-9758	
-masculine
+9759	masculine
 masculine
 9762	masculine
 9766	masculine
 9769	neuter
-9771	
-9773	
-masculine
+9774	masculine
 masculine
 9777	masculine
 9780	neuter
 neuter
 9786	neuter
-
-masculine
+9788	masculine
 9790	neuter
 9793	neuter
 9795	neuter
-
 9798	neuter
-9800	
 9802	neuter
 masculine
 9805	feminine
 9808	neuter
-
 9811	masculine
 masculine
-
-
-masculine
+9815	masculine
 masculine
 neuter
 9819	masculine/feminine
-9822	
-9824	
-9826	
-feminine
-
+9827	feminine
 9831	masculine
 9834	feminine
 9837	neuter
-9839	
-9842	
-9845	
-
-
 9850	feminine
 9853	masculine
 masculine
 masculine
 masculine
-9858	
-9861	
-neuter
+9862	neuter
 9865	masculine
 masculine
 neuter
-
 9870	neuter
-9873	feminine
-9875	
-masculine
+9873	neuter
+9876	masculine
 masculine
 9880	neuter
-
-
 9884	masculine
-
-masculine
+9886	masculine
 9890	neuter
 neuter
-
-
-masculine
+9894	masculine
 9897	neuter
 masculine
-
-neuter
-
-
-masculine
+9900	neuter
+9903	masculine
 9905	neuter
 masculine
 masculine
 masculine
-9910	
-9913	
+9913	masculine
 masculine/feminine
 masculine
 masculine
-
-feminine
-
-masculine
+9918	feminine
+9920	masculine
 9922	masculine
-
 9925	masculine
 masculine
 masculine
@@ -5944,527 +3208,269 @@ neuter
 9930	masculine
 masculine
 masculine/neuter
-
-masculine/feminine
-
+9934	masculine/feminine
 9937	neuter
 masculine
-9940	
-
-feminine
-9946	
-masculine
-
-9950	
-
-feminine
+9942	feminine
+9947	masculine
+9952	feminine
 neuter
-
-9956	
-
-9960	
-
-neuter
+9962	neuter
 feminine
 9967	masculine
 masculine
-
-feminine
-
+9970	feminine
 9974	neuter
-
-
+9977	masculine
 masculine
+9981	masculine
+9985	neuter
 masculine
-
-
-masculine
-
-9984	
-neuter
-masculine
-
-9991	
-neuter
+9992	neuter
 9994	masculine/feminine/neuter
 9997	masculine
 masculine
 masculine
 masculine
-10003	
-10006	
-
-10010	
-
-10016	
+10006	masculine
 10023	feminine
-
-10026	
-10029	
-
 10032	masculine
 masculine
-
-
-feminine
+10036	feminine
 10039	feminine
-
 masculine
 10043	feminine
-
-
-masculine
-
-feminine
-
-10054	
+10045	masculine
+10048	feminine
+10055	masculine
 masculine
 masculine
-masculine
-10059	
 10061	neuter
 10063	neuter
 10066	masculine
 masculine/feminine
-
 10070	feminine
-10072	
 10074	masculine
 masculine
-
-masculine
+10077	masculine
 10079	masculine
-
-feminine
+10081	feminine
 neuter
-10084	
-10086	
 10088	masculine
-10090	
-neuter
+10091	neuter
 feminine
 10095	feminine
 feminine
-10098	
-
-masculine
-
-10103	
-masculine
-10106	
-
+10100	masculine
+10104	masculine
+10108	neuter
 neuter
-neuter
-
-
-
-10114	
-10117	
-
-feminine
+10119	feminine
 10121	neuter
-
-
-feminine
-
-neuter
+10124	feminine
+10126	neuter
 masculine
 masculine
-
+10130	masculine
 masculine
-masculine
-
-feminine
-10135	
-feminine
+10133	feminine
+10136	feminine
 feminine
 10139	masculine/neuter
-10142	
-masculine
+10143	masculine
 feminine
-10148	feminine
-
+10148	neuter
 10151	neuter
-
-10154	
-masculine
+10155	masculine
 neuter
-10159	
-masculine
-10162	
-masculine
+10160	masculine
+10163	masculine
 10165	feminine
-
-
-10169	
-
 10172	neuter
-
 10175	feminine
-
 10178	masculine
 masculine
 masculine
 neuter
-
-
-masculine
+10184	masculine
 masculine
 masculine
 10188	feminine
-
-
-masculine/neuter
+10191	masculine/neuter
 neuter
-
-10195	
-feminine
+10196	feminine
 masculine
 neuter
-
-
+10201	feminine
 feminine
-feminine
-10205	
-feminine
+10206	feminine
 feminine
 10209	neuter
 masculine
 masculine
 10213	masculine/feminine
-
-masculine
-
-
+10215	masculine
 10219	masculine
-10223	
-feminine
-
+10224	feminine
 10229	neuter
 neuter
 masculine
-
-10234	
 10237	neuter
-
 10241	feminine
 10243	neuter
 10245	masculine/neuter
 10247	masculine/neuter
-
-feminine
-
-feminine
-
+10249	feminine
+10251	feminine
+10253	masculine
 masculine
-masculine
-
-masculine
+10256	masculine
 masculine
 masculine/feminine
 neuter
-10262	
-
-feminine
+10264	feminine
 feminine
 feminine
 10269	neuter
-10272	
-
-neuter
-10276	
-feminine
-
-
+10274	neuter
+10277	feminine
+10280	masculine
 masculine
-masculine
-
-10285	
+10286	neuter
 neuter
-neuter
-
-masculine
-
-
+10289	masculine
 10293	feminine
 feminine
 feminine
-10298	
-10300	
 10302	neuter
 10306	masculine
-10308	
-
-feminine
+10310	feminine
 feminine
 feminine
 10315	masculine
-
-
-neuter
-10320	
-
+10318	neuter
 10323	masculine
 masculine
-10328	
-
-neuter
+10330	neuter
 feminine
 feminine
 10334	feminine
-
-
-masculine
-
-neuter
-
-
-10344	
+10337	masculine
+10339	neuter
 10347	neuter
-10349	
-
-
-neuter
+10352	neuter
 10354	masculine
-10356	
-10358	
-feminine
+10359	feminine
 masculine
-
 10364	neuter
 feminine
-
-10368	
 10371	masculine/feminine
 10373	masculine
-10375	
 10377	feminine
-10379	
-
-masculine
-10383	
-
-
-masculine
-10389	
-
-masculine/neuter
+10381	masculine
+10386	masculine
+10391	masculine/neuter
 neuter
-
-10396	
 10398	feminine
 neuter
-
-neuter
-
+10401	neuter
 10404	feminine
-
 10408	neuter
-10410	
 10414	neuter
-10416	
-masculine
-10419	
-
-
-
-10425	
-
-masculine/neuter
+10417	masculine
+10427	masculine/neuter
 neuter
-
 10431	neuter
-
 10434	feminine
-10436	
 10439	neuter
-10441	
 10443	feminine
-
-masculine
-
-masculine
-
-masculine/neuter
+10445	masculine
+10447	masculine
+10449	masculine/neuter
 feminine
 feminine
-10453	
-10455	
-
-masculine
-
-feminine
-
-
-neuter
+10457	masculine
+10459	feminine
+10462	feminine
 10464	masculine/neuter
-10467	
 10469	masculine
-
-
-
-neuter
-
-
-masculine
+10473	neuter
+10476	masculine
 feminine
-
-10480	
-10484	
-
-feminine
-
-
+10480	masculine
+10486	feminine
+10489	neuter
 neuter
-masculine
-
-
+10493	neuter
 neuter
-neuter
-10497	
 10499	masculine
 10501	masculine
 feminine
 10505	feminine
-
-
-
-
 10511	masculine
-
-
-
-10516	masculine
-
+masculine
+10516	neuter
 10519	masculine
-10522	
 10524	feminine
 neuter
-
 10528	feminine
-
-
-
-
-
-
-feminine
+10535	feminine
 feminine
 10538	masculine
-10540	
-masculine
-10543	
-
-masculine
+10541	masculine
+10545	masculine
 10548	masculine/neuter
 10550	neuter
-
-masculine
-
-
-10558	
-masculine
+10552	masculine
+10559	masculine
 10561	masculine
-
-
-
-masculine/neuter
+10565	masculine/neuter
 10567	neuter
-
-10570	
-
 10574	masculine/feminine
-
-masculine
-10578	masculine
+10576	masculine
+10578	neuter
 10580	masculine
-10582	
-neuter
-
-
-feminine
+10583	neuter
+10586	feminine
 masculine
 10591	feminine
-
-
-
 10596	masculine
 10599	masculine
-
-feminine
-
-
-feminine
+10601	feminine
+10604	feminine
 masculine
-
-
 10609	feminine
 10611	feminine
-
 10615	feminine
 masculine
-
-
 10620	feminine
 10622	feminine
-
 10626	feminine
-
-
-
-masculine
-10632	
-
-feminine
-
+10630	masculine
+10634	feminine
 10637	feminine
-
 10641	masculine/feminine
 masculine
 10645	neuter
-
-
 10649	masculine
-
-
-
-
-10655	
-10657	
-
-masculine
-
+10653	masculine/feminine
+10659	masculine
 10662	neuter
-
-
-
-
-
-neuter
-
+10668	neuter
 10671	masculine
 masculine
-
-neuter
+10674	neuter
 masculine
-10677	
-
-masculine
+10679	masculine
 masculine
 10682	masculine
-10684	
-neuter
-
-10688	
-neuter
+10685	neuter
+masculine
+10689	neuter
 masculine
 masculine
-
-
-
-
-10697	
-
+10695	masculine
+10698	masculine
 10700	feminine
 feminine
 10704	feminine
@@ -6472,15 +3478,11 @@ feminine
 feminine
 feminine
 10709	masculine
-10712	
-10714	
-feminine
+10715	feminine
 masculine
 neuter
 10720	neuter
-
-
-masculine
+10723	masculine
 neuter
 10726	feminine
 neuter
@@ -6491,166 +3493,96 @@ masculine
 10742	neuter
 10745	masculine
 feminine
-
 10750	neuter
 10752	masculine
 masculine
-
-neuter
+10755	neuter
 masculine
 masculine
 10759	masculine
 10761	masculine
-
-
-masculine
+10764	masculine
 10766	masculine
 masculine
-
-masculine
+10769	masculine
 neuter
-
-10776	
-neuter
+10777	neuter
 10780	masculine
 masculine
-10783	
-neuter
+10784	neuter
 feminine
 feminine
 neuter
-10789	
-neuter
-
-10794	
-10796	
+10790	neuter
 masculine
+10797	masculine
 feminine
-
-neuter
-
-neuter
+10800	neuter
+10802	neuter
 10804	masculine
 10806	neuter
 10809	masculine
 masculine
 10812	masculine
-10814	
-
-masculine
-10818	
-10820	
-10822	
-10824	
-10826	
-
+10816	masculine
+10826	masculine
 10829	masculine
 10832	masculine
-
-neuter
+10834	neuter
 neuter
 feminine
-10838	feminine
-10841	
-
-masculine/neuter
+10838	neuter
+10843	masculine/neuter
 neuter
 masculine
 neuter
 feminine
-
 10851	masculine
 masculine
 neuter
-
-neuter
+10855	neuter
 masculine
 masculine
-
-10860	
-10862	
-
-
-10867	
-
-10870	
-
-10874	
-
-masculine
-
-
+feminine
+10876	masculine
 10881	masculine
 masculine
 neuter
-10888	
+10888	masculine
 masculine/feminine
-
-masculine
+10891	neuter
 10893	masculine
 neuter
 10897	masculine
 10899	masculine
 masculine
 masculine/feminine
-
-
+10904	masculine
 masculine
-masculine
-
-10908	
 10910	neuter
-
-masculine/neuter
+10912	masculine/neuter
 neuter
 feminine
 masculine
-10917	
 10919	masculine
 masculine
-10922	
-10925	
 10927	feminine
-10929	
-
-neuter
+10931	neuter
 neuter
 10934	feminine
-
-
-masculine
+10937	masculine
 10940	neuter
-
-10946	
-masculine
-
-neuter
+10947	masculine
+10949	neuter
 10954	masculine
-
-10957	
 10960	neuter
-
-
+10962	feminine
 masculine/feminine
 masculine
-10966	
-
-
-10970	
-masculine
-
-10975	
+10971	masculine
 10977	masculine
-
-10981	
-10984	
-10993	
 10995	neuter
 10998	masculine
-11000	
-
-11005	
-11007	
 11009	feminine
 masculine
 11012	masculine
@@ -6659,577 +3591,300 @@ masculine
 neuter
 neuter
 11022	masculine
-11028	
-
-neuter
-
-masculine
+11030	neuter
+11032	masculine
 11035	feminine
 feminine
-11038	
-
-feminine
+11040	feminine
 11042	feminine
-11046	
-
-11049	
-11051	
-
-11054	
-
 11058	neuter
 masculine
-
-feminine
-11063	
-
-
-masculine/neuter
+11061	feminine
+11066	masculine/neuter
 neuter
 masculine
 masculine
-
 11073	feminine
 feminine
-
-feminine
-
-11080	
-
-
-masculine
-11085	
-neuter
-
+11076	feminine
+11083	masculine
+11086	neuter
 11089	masculine/neuter
-11096	
-11100	
+11101	feminine
 feminine
+11111	feminine
 feminine
-11106	
-11110	
-feminine
-feminine
-11114	
 11117	neuter
-11119	neuter
+11119	feminine
 11121	feminine
 feminine
 feminine
 masculine
-11128	
-
+11130	neuter
 neuter
-neuter
-
+11133	feminine
 feminine
-feminine
-
-masculine
-11138	
-masculine
+11136	masculine
+11139	masculine
 11141	masculine
-
-neuter
+11143	neuter
 masculine
 11146	masculine
-
-
-neuter
+11149	neuter
 neuter
 11152	masculine
-
-feminine
+11154	feminine
 11158	feminine
 11160	masculine
 11162	feminine
 feminine
 feminine
 feminine
-11167	
-feminine
+11168	feminine
 feminine
 masculine
-
 11173	masculine
-
-masculine
+11175	masculine
 11177	neuter
-
 11180	neuter
 masculine
-
-
-
-feminine
+11185	feminine
 masculine
 masculine
-11189	
+11190	neuter
 neuter
-neuter
-11193	
-
-
-
-masculine
+11197	masculine
 11199	masculine
-11201	
-11204	
 11206	feminine
-11208	
+11209	feminine
 feminine
-feminine
-
-neuter
+11212	neuter
 feminine
 masculine
 11216	masculine
-11219	
-
-
-
-
-
-
-
-
-11234	
-11236	neuter
-
-
-masculine
-
-neuter
+11239	masculine
+11241	neuter
 masculine
 masculine
 feminine
 masculine
-
-neuter
-11249	
+11247	neuter
 11251	neuter
 masculine
 masculine
-
-11258	
-masculine
-
-neuter
+11259	masculine
+11261	neuter
 masculine
 11265	masculine/feminine/neuter
-11267	
-11269	
-
-11273	
-11275	
 11277	masculine
 masculine
-11281	
-11283	
-11285	
 11287	feminine
 masculine
 11290	masculine
-
 11293	feminine
 neuter
 feminine
-
-
-
-11300	
-11302	
+11300	masculine/feminine
 11304	feminine
 feminine
 feminine
-11309	
-
-masculine
-11314	neuter
-11318	
-neuter
-
+11314	feminine
+11319	neuter
 11322	feminine
-
-neuter
+11324	neuter
 11327	masculine
 masculine
-11330	feminine
+11330	neuter
 masculine
 masculine/feminine
 neuter
 masculine
-11336	
 11338	masculine
 masculine
-
-neuter
-
+11341	neuter
 11345	masculine/feminine
-11347	
 11349	neuter
 masculine
 neuter
-
-
+11354	masculine
 masculine
-masculine
-
-neuter
-
-11360	
-masculine
-11364	
-neuter
+11357	neuter
+11361	masculine
+11365	neuter
 neuter
 11368	masculine/feminine
 masculine
 11371	masculine
-
-neuter
+11373	neuter
 feminine
-
-
-
 11379	masculine
-11382	
-
-11386	
+11387	masculine
 masculine
-masculine
-
-feminine
-
-neuter
+11390	feminine
+11392	neuter
 feminine
 neuter
-11398	
-feminine
+11399	feminine
 11402	feminine
 feminine
 feminine
-
-11410	
-feminine
-
-11414	
-feminine
-
-11418	
-11420	
-11422	
-11425	
-
+11411	feminine
+11415	feminine
 11428	masculine/feminine
 11431	feminine
 masculine
-
 11437	masculine
-
-11440	
-masculine
+11441	masculine
 feminine
 11445	feminine
 feminine
 feminine
 feminine
-11450	
-11452	
-feminine
-
 11456	masculine
-
 11460	neuter
 masculine
-11463	
-feminine
-11466	
+11464	feminine
 11469	masculine/feminine
-
-11472	
 11475	neuter
-11478	
-
-feminine
-
-
-11484	
-
-feminine
+11480	feminine
+11486	feminine
 masculine
 11489	neuter
-
-
-11494	
 11498	masculine
 masculine
 11501	neuter
-
-
-masculine
-11506	
-11510	
-feminine
-11513	
-feminine
-
-11517	
-11522	
-
-11526	
-neuter
+11504	masculine
+11511	feminine
+11514	feminine
+11527	neuter
 neuter
 11531	feminine
 11533	masculine/feminine
 masculine
 masculine/neuter
 neuter
-
 11539	masculine/feminine
-11541	
-neuter
-
-11546	
+11542	neuter
 11549	feminine
-11552	
+11553	masculine
 masculine
-masculine
-
-11557	
 11559	neuter
 masculine
 11562	masculine
 11564	feminine
-11568	
+11569	feminine
 feminine
-feminine
-
+masculine
 feminine
 feminine
 11576	masculine
-
 11580	feminine
-
-feminine
+11582	feminine
 11586	masculine
 masculine
-11589	
-masculine/feminine
-11593	
+11590	masculine/feminine
 11595	feminine
-11601	
-
-
-
-masculine
+11605	masculine
 11607	masculine
-
 11610	feminine
-
 11613	masculine
 11615	masculine/feminine
 masculine
 11620	masculine
 11622	feminine
 11626	masculine
-11628	
 11630	neuter
-
-11633	
-
-
-
-11640	
 11642	neuter
-11644	
-
 11647	neuter
-
-
-11651	
-11653	
-
 11657	masculine
-
-
-
-11662	
-
-masculine
-11666	
-masculine
-11669	
-
-11672	
+11664	masculine
+11667	masculine
 11675	masculine
-
-masculine
+11677	masculine
 11679	masculine
 masculine
-
-feminine
+11682	feminine
 11685	masculine
-
-11688	
 11690	feminine
 11692	masculine
-11694	
-
-masculine
-
-neuter
-
-
-
+11696	masculine
+11698	neuter
 11704	masculine
 masculine
-
+11707	feminine
+11732	masculine
 feminine
-11714	
-11716	
-11719	
-11723	
-11725	
-11727	
-11729	
-11731	
-masculine
-feminine
-11735	
-
-neuter
+11737	neuter
 feminine
 feminine
 feminine
 masculine
-11743	
-feminine
+11744	feminine
 masculine
 11747	feminine
 11749	feminine
 neuter
 11752	neuter
 masculine
-11755	
 11757	neuter
-11759	
-neuter
-
-
+11760	neuter
 11765	masculine
-11767	
+11768	masculine
 masculine
-masculine
-
-feminine
+11771	feminine
 11773	masculine
-
-11776	
-
-
-feminine
-
-
+11779	feminine
 11783	masculine
 masculine
-
-
-
+11788	neuter
+11794	masculine
+11798	masculine/neuter
 neuter
-
-
-11793	
+11802	neuter
+11806	masculine
+11812	feminine
 masculine
-
-
-
-masculine/neuter
-neuter
-
-
-neuter
-11805	
-masculine
-
-11810	
-
-feminine
-masculine
-11815	
-11817	
 11819	neuter
-11825	
-
 11828	masculine
 11831	masculine
 feminine
-11834	
-feminine
+11835	feminine
 11837	feminine
 masculine
 11840	masculine
-11843	
-
-
-masculine
+11846	masculine
 masculine
 feminine
-11850	
-feminine
+11851	feminine
 11853	masculine
 masculine
 masculine/neuter
 feminine
-
-11860	
-
 11864	masculine
-
-
-
 11871	feminine
-11875	
-
-
-
 11880	masculine
 11882	feminine
 masculine
 11885	masculine
 masculine
-
-feminine
-
-
-
-
-
+11888	feminine
 11897	neuter
 neuter
 11901	feminine
 masculine
 masculine/neuter
 neuter
-
-11907	
-neuter
-11912	
-11914	
-11916	
+11908	neuter
 11918	masculine
-11920	
-masculine
-
-neuter
+11921	masculine
+11923	neuter
 masculine
 masculine
 masculine
 masculine/feminine
 masculine
 11930	masculine
-11933	
-neuter
-
+11934	neuter
 11937	masculine
 11939	neuter
 neuter
@@ -7238,171 +3893,98 @@ masculine
 masculine
 masculine/feminine
 masculine
-11948	
+11949	masculine
 masculine
-masculine
-11954	
-neuter
-
-
-
-masculine/neuter
+11955	neuter
+11959	masculine/neuter
 neuter
 masculine
-
-
-masculine
+11964	masculine
 11966	feminine
 masculine
 11969	masculine
 masculine
-
-feminine
-
-neuter
-11976	
+11972	feminine
+11974	neuter
 11980	neuter
 masculine
-
-11984	
-11987	
-
-11990	
 11992	masculine
 masculine/neuter
 feminine
-
-masculine
-
+11996	masculine
 11999	masculine
 masculine
 neuter
-
-
 12008	feminine
-12010	
-12019	
+12010	masculine
 12022	masculine
 masculine/feminine
-
-
-neuter
-
-
-masculine
+12026	neuter
+12029	masculine
 masculine
 neuter
 feminine
-
-
-12036	
-12040	
-
-12044	
-neuter
-
+12034	masculine
+12045	feminine
 12048	masculine/neuter
-
-
-feminine
+12051	feminine
 masculine
-
+12054	masculine
 masculine
-masculine
-
-12058	
-12062	
-12065	
 12071	masculine
 masculine
-12076	
-neuter
+12077	neuter
 masculine
 masculine
-
 12089	neuter
 neuter
-12094	
-neuter
+12095	neuter
 masculine
 12100	neuter
 neuter
 neuter
-12104	
-
-masculine
-
-12109	
-12111	
-feminine
+12106	masculine
+12112	feminine
 neuter
-12115	
-
-
+12118	masculine
 masculine
-masculine
-12121	
-masculine
+12122	masculine
 12126	masculine
-12128	
-masculine
-12131	
+12129	masculine
 12135	masculine
-12137	
 12139	masculine
-12141	
 12146	neuter
-
-12149	
-feminine
+12150	feminine
 feminine
 feminine
 feminine
 masculine/feminine
 12157	masculine
-12159	
-
 12163	masculine
-
+12165	masculine
 masculine
-masculine
-
 12170	feminine
 masculine
-
-masculine
-
+12173	masculine
 12176	neuter
-12178	
-12184	
-
-masculine/neuter
+12186	masculine/neuter
 12188	feminine
 feminine
 feminine
-12192	
 12194	feminine
 feminine
 feminine
-
+12198	feminine
 feminine
-feminine
-12201	
-neuter
+12202	neuter
 12204	masculine
 neuter
 masculine
 neuter
-12213	
 12215	masculine/neuter
 masculine
-
-neuter
-
-12221	
-
-
-masculine/neuter
+12218	neuter
+12224	masculine/neuter
 12230	masculine
 masculine
 12233	masculine
@@ -7410,363 +3992,193 @@ masculine
 neuter
 feminine
 neuter
-
-12244	
-
-masculine/neuter
+12246	masculine/neuter
 12248	masculine
-12250	
-12255	
-neuter
+12256	neuter
 12258	neuter
 12260	masculine/neuter
 masculine
 12263	masculine
-
-neuter
-
-12269	
-
+12265	neuter
 12272	feminine
-12274	
 12276	masculine
 masculine
 masculine
-12280	
-
-12284	
-feminine
-12288	
-
-12292	
+12285	feminine
 12297	masculine
 feminine
-12300	
 12302	masculine
-
-12308	
-
-12311	
-masculine
+12312	masculine
 feminine
 neuter
-12316	
-12318	
-12320	
-masculine/neuter
+12321	masculine/neuter
 masculine
 feminine
-
 12330	feminine
 feminine
 12334	masculine
 masculine
 12337	masculine
-
 12341	feminine
 feminine
-
 12345	masculine
 masculine
-
-neuter
+12348	neuter
 feminine
-
-
-masculine
-
+12352	masculine
 12356	masculine
-
-
-neuter
+12359	neuter
 12362	feminine
-
-
-12366	
+12367	neuter
 neuter
-neuter
-
-
-12373	
 12375	feminine
 12378	masculine
 feminine
-
-
-
-
-
 12387	masculine
 12389	neuter
-
 12392	neuter
-
-neuter
-
-masculine
+12394	neuter
+12396	masculine
 masculine
 12399	masculine
-12401	
 12403	masculine
-
+12405	feminine
 feminine
 feminine
-feminine
-
 12410	masculine/feminine
-
 12414	feminine
-12416	
 12418	masculine
 masculine
-
-neuter
-
-feminine
+12421	neuter
+12423	feminine
 masculine
 12426	neuter
 neuter
 masculine
-
 12431	masculine
-
-
-
+12435	feminine
 feminine
 feminine
-feminine
-
 12442	masculine
-neuter
-
-
-
-
-
-feminine
+12449	feminine
 masculine
-12453	
-neuter
+12454	neuter
 masculine
 masculine
-
-
-
-
-masculine/feminine
+12461	masculine/feminine
 feminine
 neuter
-12465	
 12467	neuter
 masculine
-12470	
-
-feminine
-
-12478	
-
-masculine/neuter
+12472	feminine
+12480	masculine/neuter
 12482	masculine
-12485	
-masculine
-
-
-
+12486	masculine
 12491	neuter
-12494	feminine
-
-
-
-
+12494	masculine
+12499	feminine
 feminine
 feminine
-feminine
-
-neuter
-12505	
-
-12512	
-masculine/neuter
-
-12516	
-12518	
-
-
+12503	neuter
+12513	masculine/neuter
 12522	masculine
-12524	
-
-
-masculine
-12529	
-
-12533	
-12535	
+12527	masculine
 12537	masculine
-12539	
-
-
-
+12543	masculine
 masculine
-masculine
-
-masculine/feminine
-
-feminine
-12550	
+12546	masculine/feminine
+12548	feminine
 12552	neuter
-
 12555	masculine/neuter
 masculine
-12558	
-neuter
+12559	neuter
 masculine
 masculine
 feminine
-
-
-
-masculine
+12566	masculine
 masculine
 12569	feminine
 feminine
 masculine/neuter
 feminine
-
 12575	feminine
-
-neuter
-
+12577	neuter
 12580	masculine
 12582	feminine
-
-masculine
-12587	
+12584	masculine
 12589	neuter
 masculine
 12592	masculine
 12594	feminine
 feminine
 12597	neuter
-12601	feminine
+12601	masculine
 12603	masculine
-
-
-neuter
-
-
-
-12611	
-
+12606	neuter
 12618	neuter
-12621	
-
-neuter
-12626	
-12631	
-12634	
+12623	neuter
 12637	masculine
 masculine
 feminine
 masculine
-
 12643	masculine
 neuter
 12650	masculine
 neuter
 12654	masculine
-
 12657	masculine
 neuter
 neuter
 12662	neuter
 12664	neuter
 neuter
-12669	
-
-masculine
-
+12671	masculine
+12673	feminine
 feminine
-feminine
-12676	
-neuter
+12677	neuter
 12679	masculine
-12681	
 12686	neuter
 masculine
-
 12691	masculine
 masculine
-12694	
-12698	
-
-neuter
+12700	neuter
 12703	masculine
 masculine
-12706	
-12709	
 12711	feminine
 neuter
-12716	
-
-
 12721	neuter
-12724	
+12725	masculine
 masculine
-masculine
-
 12729	neuter
-
-12732	
-neuter
+12733	neuter
 masculine/neuter
 neuter
 masculine
-
-
-12744	
-
-12747	
-neuter
+masculine
+12748	neuter
 12750	masculine
-
 12753	masculine
 neuter
-
-neuter
+12756	neuter
 masculine
 masculine
-12761	
 12763	masculine
 12765	neuter
-
-masculine
-12771	
+12767	masculine
 12773	feminine
-
-masculine
+12775	masculine
 12780	masculine
-
 12783	feminine
-neuter
-12786	
-
-
-
+feminine
 12791	feminine
 feminine
 feminine
-
-neuter
+12795	neuter
 12798	neuter
-
 12801	masculine
 12804	masculine
 neuter
-
 12812	neuter
-12814	
-
-
 12818	masculine
 12820	masculine
 masculine
@@ -7774,21 +4186,10 @@ masculine
 12825	feminine
 feminine
 neuter
-12829	
-
-neuter
-
-12836	
-12840	
-
-
-12844	
+12831	neuter
+12845	masculine
+12847	masculine
 masculine
-
-masculine
-masculine
-12850	
-
 12853	neuter
 masculine
 12856	feminine
@@ -7796,399 +4197,214 @@ feminine
 feminine
 feminine
 12861	masculine
-12863	
-12865	
 12867	neuter
-12869	
 12871	masculine
 neuter
-
-12876	
-12880	
-
-12884	
-
+12886	masculine
 masculine
-masculine
-
-12891	
 12893	neuter
 masculine
 12896	masculine
-
-masculine
+12898	masculine
 12900	neuter
 feminine
 feminine
 12904	masculine
 neuter
-12907	
 12910	masculine
-12913	
-12916	
 12918	masculine
-12922	
 12924	feminine
 neuter
 masculine
 12931	masculine
 neuter
-
 12935	neuter
 masculine
 12938	masculine
-12941	
-neuter
+12942	neuter
 12944	neuter
 12947	masculine
-
 12952	neuter
-
-
-
 12957	masculine
 neuter
 masculine
 12962	masculine
 12964	masculine
-12967	
-
-
-
-12972	
-feminine
-
-masculine/neuter
+12973	feminine
+12975	masculine/neuter
 masculine
 12979	masculine
-
-
-
 12987	masculine
 masculine
-12990	
-feminine
+12991	feminine
 masculine
-
-12996	
-masculine
-
-13000	
+12997	masculine
 13003	masculine
 feminine
 feminine
 13008	masculine
 masculine
-
 13012	masculine
-
-
-13016	
-neuter
-13019	
-13021	
-neuter
-13024	
+13017	neuter
+13022	neuter
 13027	masculine
-
-13030	
+13031	masculine
+13035	masculine
 masculine
-13034	
-masculine
-masculine
-
-13039	
-masculine
+13040	masculine
 neuter
 13044	feminine
-
-13047	
 13049	masculine
 13051	masculine
-
 13054	masculine
 13057	masculine
 13059	feminine
 masculine
-13063	
-13065	
-13067	
-
 13070	masculine
-13073	
-13077	
-
 13080	masculine/neuter
 neuter
 13083	masculine
 neuter
-
-feminine
+13086	feminine
 13088	masculine
-13090	
-
-masculine/feminine
-
+13092	masculine/feminine
 13096	masculine
-
-neuter
-
-feminine
-13103	
-
-
-
-13108	
-13111	
+13098	neuter
+13100	feminine
 13113	feminine
-
 13116	masculine/feminine
 neuter
-
-
-13124	
 13128	masculine
 masculine
 13131	feminine
 neuter
-
-neuter
-13136	
-masculine
-
-13142	
+13134	neuter
+13137	masculine
 13144	masculine
 13147	neuter
-13150	
-neuter
-
-feminine
+13151	neuter
+13153	feminine
 feminine
 13157	feminine
 masculine
 masculine/neuter
-13161	
-
-neuter
-
+13163	neuter
 13166	neuter
 13170	neuter
-
-neuter
-
-neuter
-13182	
-feminine
-
-feminine
-
-neuter
+13172	neuter
+13174	neuter
+13183	feminine
+13185	feminine
+13187	neuter
 13189	masculine
 masculine
 13192	masculine/neuter
-13194	
 13196	masculine
 13198	masculine
-
-masculine
+13200	masculine
 masculine/feminine
-
-masculine
-
-13206	
-masculine
+13203	masculine
+13207	masculine
 13209	neuter
 13212	neuter
-13214	
-13216	
 13218	neuter
-
 13222	masculine/feminine
 feminine
 13226	masculine
 masculine
-
 13231	masculine
-
-13234	
 13237	neuter
-
 13240	neuter
-
 13243	masculine
 13246	masculine
-13248	
+13248	masculine
 feminine
 feminine
 masculine
 13255	feminine
-13257	
-
+13259	feminine
+13262	feminine
 feminine
-13261	
-feminine
-feminine
-13268	
-13270	
 13272	masculine
 masculine
-
-neuter
-
-masculine
+13275	neuter
+13277	masculine
 13279	feminine
 feminine
-13284	
-neuter
-
-13288	
-feminine
-13291	
-13295	
-
-
-
-13300	
-
+13285	neuter
+13289	feminine
 13305	feminine
 masculine
-
-13310	
-
-
-
-neuter
+13314	neuter
 masculine/neuter
-
-
-masculine
+13318	masculine
 13322	masculine
 13326	masculine
-13329	
 13331	masculine
 13333	masculine
-
-
 13338	masculine
-
-13341	
-
 13344	neuter
 masculine
-13349	
-13353	
-
-13358	
-masculine
-
-neuter
+13359	masculine
+13361	neuter
 13366	feminine
 masculine
 feminine
-
-
-masculine
+13371	masculine
 masculine
 13375	neuter
-
-masculine
+13377	masculine
 13379	neuter
-
-
-feminine
-
-feminine
-
-13387	
-feminine
-
-
-
-13393	
-feminine
-
-feminine
-
+13382	feminine
+13384	feminine
+13388	feminine
+13394	feminine
+13396	feminine
 13400	feminine
 feminine
 13403	feminine
 masculine
 feminine
 feminine
-13408	
-13410	neuter
-
-
-masculine
-
+13413	masculine
 13417	feminine
 13419	masculine
 masculine
 masculine
-
 13424	masculine
 masculine
 feminine
 13428	feminine
-13430	
 13432	masculine
 masculine
 masculine
 neuter
-
-
-
-
-masculine
-
-masculine
+13440	masculine
+13442	masculine
 13444	masculine/neuter
 neuter
-
-13448	
-neuter
-
-13453	
-13455	
+13449	neuter
 13457	masculine
 masculine
-
+13460	masculine
+13462	masculine
 masculine
-
+13466	feminine
 masculine
 masculine
-
-
-feminine
-masculine
-
-
-
-13473	
-
-feminine
-
-
-
-13481	
+13475	feminine
 13483	masculine
-
-masculine
+13485	masculine
 neuter
-13491	
-neuter
-13494	feminine
+13492	neuter
+13494	masculine
 13496	masculine/feminine
 13500	feminine
-
-13504	
+13505	masculine
 masculine
-masculine
-13509	
 13512	feminine
 neuter
 masculine
-
 13517	masculine
 feminine
 13520	masculine
@@ -8197,73 +4413,46 @@ masculine
 13525	masculine
 13527	feminine
 masculine
-
-
-
-13533	
-
 13536	neuter
 13538	neuter
 masculine
-
-masculine/neuter
-13544	
-masculine/neuter
+13541	masculine/neuter
+13545	masculine/neuter
 masculine/neuter
 13549	neuter
-13552	
 13554	masculine
 feminine
 feminine
-13559	
 13561	neuter
-
-masculine/neuter
-
-feminine
+13563	masculine/neuter
+13565	feminine
 masculine
 13568	neuter
 13570	neuter
 masculine/neuter
-13574	
-13577	
 13579	neuter
 neuter
 neuter
-13583	
-neuter
-13586	
+13584	neuter
 13589	feminine
-
 13592	masculine
 13594	feminine
 feminine
-
-13602	
-13604	
-13606	
-
-feminine
+13608	feminine
 feminine
 13613	masculine
-
 13616	masculine
 13619	feminine
 masculine
-13626	
 13629	masculine
-
-feminine
-
+13631	feminine
 13634	feminine
 masculine
 13638	feminine
 masculine
 13641	masculine
 masculine/feminine
-13644	
-masculine
-
+13645	masculine
 13648	feminine
 13650	masculine
 masculine
@@ -8271,728 +4460,364 @@ masculine
 masculine
 13656	feminine
 13658	feminine
-13662	
-13667	
-13672	
-masculine
+13673	masculine
 13676	masculine
-
-
 13680	feminine
 feminine
 feminine
 neuter
 feminine
 feminine
-13688	
-
-feminine
-13693	
-13696	
-masculine
+13690	masculine
+13697	masculine
 13700	masculine
-
-
 13704	feminine
 13707	feminine
-
-neuter
+13709	neuter
 neuter
 13713	feminine
-
 13718	neuter
 feminine
-13721	
-
-
+13724	masculine
 masculine
-masculine
-13727	
-
-
-
-13736	
-
-
-
-masculine
-
-
-
-masculine
-13746	
-masculine/feminine
+13740	masculine
+13744	masculine
+13747	masculine/feminine
 13751	masculine
-13753	
-masculine
+13754	masculine
 feminine
 masculine
-
-13762	
-
-
-
-masculine/neuter
-13771	
-
-
-
-13776	
-
-masculine
-
-
-neuter
+13766	masculine/neuter
+13778	masculine
+13781	neuter
 13783	masculine/feminine
-13786	
 13788	neuter
 13790	masculine
 13793	masculine
-13795	
-
-
-masculine/neuter
-
-
-masculine
-13803	
-feminine
-13806	
-masculine
+13798	masculine/neuter
+13801	masculine
+13804	feminine
+13807	masculine
 13809	masculine
-
-
-
-13814	
-
-neuter
-13818	
-
-masculine/neuter
+13816	neuter
+13820	masculine/neuter
 13823	masculine
-
-
-
-13828	
-
-
-neuter
-
-neuter
-13835	
-
-13838	
-neuter
-13841	
-masculine
+13831	neuter
+13833	neuter
+13839	neuter
+13842	masculine
 13845	masculine
-
-
 13849	neuter
 13852	neuter
-13857	
-neuter
+13858	neuter
 feminine
-
-masculine
+13861	masculine
 13866	masculine
 13870	feminine
-13872	
-
-feminine
+13874	feminine
 masculine
-
-
-
+13879	masculine
 masculine
-masculine
-13888	
-masculine
+13889	masculine
 13892	masculine
-
-
-13897	
-13902	
 13904	masculine/neuter
-
-feminine
+13906	feminine
 13908	feminine
 13911	masculine
 neuter
-13914	
-
-13917	
-feminine
+13914	neuter
+13918	feminine
 13922	masculine
 masculine
-13925	
-masculine
+13926	masculine
 13929	masculine
-
-
-
-13938	
-
 13941	masculine/neuter
 13943	masculine
 13945	feminine
 feminine
-13952	
 13955	masculine/feminine
-
-13958	
-
 13962	feminine
-13964	
-masculine
+13965	masculine
 13968	masculine
-
-
 13972	neuter
 feminine
 masculine
-13976	
-neuter
+13977	neuter
 neuter
 feminine
 masculine/feminine/neuter
-13982	
-
-
-
 13987	feminine
 feminine
 masculine
 feminine
-
-
-
-neuter
-
-
-
-feminine
+13994	neuter
+13998	feminine
 feminine
 masculine
-14002	
-neuter
-
-
-
-feminine
-
+14003	neuter
+14007	feminine
 14010	masculine
-14013	
 14016	feminine
 masculine
 feminine
 masculine
-14022	
-14024	
-14029	neuter
-14031	
-
-
+14029	feminine
 14035	feminine
 masculine
-14038	
 14040	masculine
-
-neuter
-14045	
-14047	
-neuter
-
-
+14042	neuter
+14048	neuter
 14053	feminine
-14055	
-
-14058	
-14061	
 14063	feminine
-masculine
+neuter
 feminine
 neuter
-14068	
 14070	feminine
-
-
-14075	
-masculine/feminine/neuter
-
-
-14081	
-14083	neuter
-14086	
-
-14089	
-masculine/neuter
-feminine
-
-
-
-feminine
+14076	masculine/feminine/neuter
 masculine
-
+14083	neuter
+14090	masculine/neuter
+feminine
+14095	feminine
+masculine
 14099	feminine
 14103	feminine
 feminine
 14106	masculine
 14108	feminine
 14116	neuter
-14118	
-neuter
+14119	neuter
 masculine
 masculine/feminine
-
-neuter
-14126	
-feminine
-14130	
-14132	
-14134	
-masculine
+14123	neuter
+14127	feminine
+14135	masculine
 neuter
 feminine
-
-14140	
-
-masculine
-14144	
-14147	
-
-
+14142	masculine
+14147	masculine
 14151	masculine
-14153	
 14155	masculine
 masculine
 14158	masculine
 masculine
-
-
-masculine/neuter
-
-14165	
-masculine
+14162	masculine/neuter
+14166	masculine
 masculine
 neuter
-
-neuter
+14170	neuter
 feminine
 feminine
-
-masculine/neuter
+14174	masculine/neuter
 masculine
-14177	
-
-neuter
-
-
-feminine
+14179	neuter
+14182	feminine
 masculine
 feminine
-
-
-
-masculine
-14192	
-14195	
+14188	masculine
 14199	neuter
-
-
-masculine
+14202	masculine
 masculine/neuter
 feminine
-
-neuter
+14206	neuter
 masculine
 masculine
 14210	masculine
 masculine
-
-masculine/feminine
-masculine
-feminine
+14213	masculine/feminine
+14215	feminine
 14218	neuter
-14222	
-feminine
+14223	feminine
 14225	feminine
-
-14229	
+14230	masculine
 masculine
-masculine
-
-neuter
-
-masculine
+14233	neuter
+14235	masculine
 masculine/feminine
 feminine
-
-14242	
-
 14245	masculine
 masculine
-
-
+14249	masculine
 masculine
-masculine
-14253	
-
-14257	
 14259	feminine
-
-
-masculine
-
-
-14275	
+14262	masculine
 14278	feminine
-
-feminine
-14286	
+14280	feminine
 14288	masculine
 14290	feminine
 14292	masculine
-
-
-feminine
-
+14295	feminine
 14299	masculine/neuter
 feminine
-14302	
-14304	
 14306	feminine
-14308	neuter
-14310	
-masculine
-14313	
-14318	
-14320	
+14308	feminine
+14311	masculine
 14324	masculine
-14327	
-14330	neuter
+14330	feminine
 14334	feminine
 14336	feminine
-
-feminine
+14338	feminine
 feminine
 masculine
-14342	
-
 14351	neuter
 14353	feminine
-
+14355	feminine
+14357	feminine
+14359	neuter
 feminine
-
-feminine
-
-neuter
-masculine/neuter
-14364	
-
-14370	
-14376	
-neuter
-14379	
-14382	
-
-
-masculine
-14388	
-masculine
-
-
-feminine
-14394	
-neuter
+14377	feminine
+14385	masculine
+14389	masculine
+14392	feminine
+14395	neuter
 neuter
 masculine
-
-
 14401	masculine
-
-
-neuter
-
+14404	neuter
 14407	feminine
 neuter
 14410	masculine
-
-
 14414	masculine
-14416	
-
 14420	neuter
-14424	
-feminine
-14430	
+14425	feminine
 14433	feminine
-
-14436	
-masculine
+14437	masculine
 feminine
 feminine
 14441	feminine
-14447	
+14448	feminine
 feminine
 feminine
+14456	masculine
+14461	masculine
 feminine
-
-
-14455	
-
-
-14460	
-masculine
-feminine
-14464	
-masculine
+14465	masculine
 14467	feminine
 feminine
 feminine
-
-
-
-feminine
-14475	neuter
-14478	
+14473	feminine
+14475	feminine
 14480	feminine
 feminine
 feminine
-
-masculine
+14484	masculine
 masculine/feminine
-
-
-
 14490	masculine
 masculine
-
 14494	masculine
-
 14500	masculine
-14502	
-feminine
+14503	feminine
 neuter
-14508	
-
-neuter
-14513	
-
-14516	
-masculine
-14519	
-
-
-
-
-masculine/neuter
+14510	neuter
+14517	masculine
+14524	masculine/neuter
 14526	masculine
-
-
-
 14532	masculine
-
 14536	feminine
-
-14539	
-14543	
+14543	masculine
 14547	feminine
 feminine
-
-
-
-feminine
+14552	feminine
 14554	masculine
-14558	
-
-masculine
-14562	
-14564	
+14560	masculine
 14567	masculine/neuter
 masculine/neuter
 neuter
 masculine
 14574	feminine
-14576	
-
 14582	masculine
-14585	
-
-
 14589	feminine
 feminine
 feminine
 feminine
-14595	
-
-14599	
-
-
-feminine
-
-14606	
-14608	
+14602	feminine
+14608	feminine
 feminine
 feminine
 14612	feminine
-14617	
-feminine
+14618	feminine
 neuter
-
-masculine/neuter
-14623	
-
-
+14621	masculine/neuter
 14628	feminine
-14631	
 14634	neuter
-
-14639	
-14641	
+14642	neuter
+14644	feminine
 neuter
-
-feminine
-neuter
-
 14648	masculine/neuter
 feminine
-
+masculine
 masculine/neuter
 neuter
-
 14656	feminine
-
-14659	
 14661	neuter
 masculine
 neuter
 14665	feminine
 14668	neuter
 feminine
-
-
-
-14680	
-masculine
+14681	masculine
 feminine
-
-
-14687	
-
+14689	feminine
+14694	masculine
+14696	feminine
 feminine
-
-
-
-
-masculine
-
-feminine
-feminine
-14699	
-
-masculine
+14699	masculine
+14701	masculine
 feminine
 feminine
 masculine
 14707	feminine
 feminine
 14710	masculine
-14712	
-masculine
-
-masculine
-
-
+14713	masculine
+14715	masculine
 14720	feminine
 14723	feminine
-14726	feminine
+14726	masculine
 masculine
-
-feminine
-feminine
+14729	feminine
 feminine
 masculine
 masculine
-
 masculine
+14735	masculine
 masculine
 14741	feminine
 feminine
-
 14747	feminine
 feminine
-
-
-
-feminine
-
-14755	
-
+14752	feminine
 14758	feminine
-14762	
 14767	masculine
 14771	masculine
 feminine
-
-14775	
-14779	
-14781	
-
-masculine
+14781	masculine
+14783	masculine
 14791	feminine
 feminine
-
-
-
-feminine
-
-14800	
-
+14796	feminine
 14803	masculine
 14806	masculine
 14809	feminine
-
-
 14813	feminine
 14816	feminine
-14818	
-14820	
-
-
-feminine
+14823	feminine
 feminine
 masculine
 masculine
 feminine
-14831	
-
-
 14835	masculine
-
-feminine
+14837	feminine
 masculine
 masculine
-14842	
-
-14845	
-
-
-
 14850	feminine
 neuter
-neuter
-14856	
-masculine
-
-
-
-
 feminine
+14857	masculine
+14862	feminine
 masculine
 masculine
-
-feminine
+14866	feminine
 14868	masculine/feminine
 neuter
 14871	masculine
@@ -9001,14 +4826,10 @@ masculine
 14876	neuter
 14878	masculine
 masculine
-
 14882	feminine
 neuter
-
 14886	neuter
-14888	
-
-masculine
+14890	masculine
 masculine/feminine
 masculine
 masculine
@@ -9016,185 +4837,103 @@ masculine
 14897	masculine
 masculine
 neuter
-
 14902	neuter
 feminine
-
-
-
-
-masculine/neuter
-14910	
-neuter
-
+14908	feminine
+14911	neuter
 14914	masculine
-14916	
-masculine
+14917	masculine
 14919	masculine
-14921	
-
-feminine
+14923	feminine
 neuter
-
+14926	masculine
 masculine
 masculine
+14934	neuter
+14940	feminine
+14943	masculine
 masculine
-14930	
-14933	
+14946	masculine
 neuter
-
-14938	
-
-feminine
-
-
-masculine
-masculine
-
-masculine
-neuter
-
-feminine
-
-
-
-14954	
-feminine
-
-
-
-14960	
+14949	feminine
+14955	feminine
 14965	neuter
-
-feminine
-14969	
-
+14967	feminine
 14972	masculine
 14975	masculine
 14977	feminine
 masculine
-
 14981	feminine
 feminine
 feminine
 feminine
 feminine
-
 14988	feminine
 feminine
 feminine
 neuter
-
-
-
-
-masculine/neuter
-14999	
-neuter
-
-feminine
+14996	masculine/neuter
+15000	neuter
+15002	feminine
 15006	feminine
 15008	feminine
 feminine
 feminine
 feminine
-
-
 15015	neuter
 masculine
 feminine
-15020	
-masculine
-
-15025	
-masculine/neuter
+15021	masculine
+15026	masculine/neuter
 feminine
 neuter
-15031	
-masculine/neuter
-15034	
-15036	
-feminine
-15041	
-
+15032	masculine/neuter
+15034	feminine
+15037	feminine
+15043	masculine
 masculine
-masculine
-
-
-
-
-
-
+15050	feminine
 feminine
-
-feminine
+15053	feminine
 15056	feminine
 feminine
 neuter
 feminine
 15061	feminine
-15064	
-
-masculine/feminine
-
-
-masculine
+15066	masculine/feminine
+15069	masculine
 feminine
-
+15072	feminine
 feminine
 feminine
-feminine
-15076	
 15078	feminine
 15080	feminine
-
+feminine
 masculine
-
-masculine
-
-masculine/feminine
-15088	
-
-
-15095	
+15084	masculine
+15086	masculine/feminine
+15090	masculine
 15097	masculine/neuter
 15099	neuter
-
-
-masculine
+15102	masculine
 masculine
 15105	feminine
 masculine/feminine
-
 15109	neuter
-
-15114	
-feminine
+15115	feminine
 feminine
 masculine
 15121	feminine
 feminine
-
-feminine
+15124	feminine
 masculine
 masculine
-
-masculine/feminine
+15128	masculine/feminine
 masculine
-15131	
-
-feminine
-
-
-
-
-feminine
-
-15141	
-
-
+15133	feminine
+15138	feminine
 15145	masculine/feminine
-feminine
+masculine
 15148	feminine
 15152	masculine
 15155	masculine/feminine
@@ -9203,440 +4942,220 @@ masculine
 neuter
 masculine
 neuter
-15168	
-15174	
-15176	
 15178	masculine
-15182	
 15184	masculine
 neuter
-15187	
-feminine
-15190	
-masculine
-15194	
+15188	feminine
+15191	masculine
 15197	masculine
 neuter
-15201	
 15203	masculine
-15206	
-feminine
-15209	
-feminine
-15212	
-15215	
-masculine/neuter
+15207	feminine
+15210	feminine
+15216	masculine/neuter
 neuter
-
 15223	masculine
 masculine
 feminine
 masculine
 neuter
-15229	
 15232	neuter
 15235	masculine
 neuter
-15238	
-feminine
-
-
-15243	
+15239	feminine
+15244	masculine
 masculine
-masculine
-15247	
-15250	
-
-15253	
 15256	neuter
 masculine
 masculine
 neuter
 15261	masculine
 15264	masculine
-
-feminine
+15266	feminine
 15268	masculine
-
-feminine
-
-
-
-
+15270	feminine
 15276	feminine
-
-masculine/neuter
-
+15278	masculine/neuter
 15282	masculine
 neuter
-15285	
-
-masculine
-15289	
-15292	
-
-15295	
+15287	masculine
 15298	neuter
 masculine
 masculine
 neuter
 15303	masculine
 15306	masculine
-
-feminine
+15308	feminine
 15310	masculine
-
-feminine
-
-
-
-
+15312	feminine
 15318	feminine
-
-masculine/neuter
-
+15320	masculine/neuter
 15325	masculine
-15327	
-15330	
-masculine
-
-
-
-15336	
-15340	
-masculine
+15331	masculine
+15341	masculine
 15343	masculine
-15345	
-15350	
-15353	
-
-
-feminine
-
-
+15356	feminine
 15360	neuter
-
 15363	masculine
 masculine
 neuter
-
-neuter
+15367	neuter
 masculine
 masculine
-15373	
-
-15376	
-
-15379	
-15381	
-15383	
-
-15386	
-neuter
+15387	neuter
 15389	masculine
-15394	
-15396	
 15398	neuter
 masculine/feminine
-
-
 15404	neuter
-15408	
-
-
-neuter
+15411	neuter
 feminine
-
-
-15416	
-15421	
 15423	masculine
 15426	masculine
-
-
 15430	neuter
 15433	neuter
 masculine
-
-
 15438	masculine
 15440	masculine
-
 15443	masculine
 15446	masculine
 15448	feminine
 masculine
-15452	
+15453	masculine
 masculine
-masculine
-
-feminine
-
-
-feminine
+15456	feminine
+15459	feminine
 neuter
 15463	masculine
-
 15466	neuter
-
-
-
-neuter
+15470	neuter
 feminine
 neuter
-15474	
-neuter
+15475	neuter
 neuter
 masculine
 neuter
 neuter
-15481	
 15484	feminine
 15486	masculine
-15488	
-neuter
-15491	
-feminine
-15495	
-neuter
-15499	
-feminine
+15489	neuter
+15492	feminine
+15496	neuter
+15500	feminine
 neuter
 neuter
-15505	
-15507	
-
+15509	masculine
 masculine
-masculine
-15512	
-feminine
+15513	feminine
 neuter
 15516	masculine
-15518	
 15520	masculine
-
-15524	
-feminine
-
-masculine
-
+15525	feminine
+15527	masculine
 15539	masculine
-15552	
-masculine
-15559	
-
-neuter
+15553	masculine
+15561	neuter
 masculine
 masculine/feminine
 masculine
 masculine
+15569	neuter
+15573	neuter
+15580	masculine
+15584	neuter
+15591	neuter
+15594	masculine
+15601	masculine
 masculine
-
-
-neuter
-15572	
-neuter
-15576	masculine
-15578	
-
-masculine
-15583	
-neuter
-15587	masculine
-15589	
-
-neuter
-
-
-masculine
-15598	
-15600	
-masculine
-masculine
-
-neuter
+15604	neuter
 feminine
-
-
 15609	masculine
-
 15613	feminine
 feminine
 masculine
 feminine
 feminine
 masculine
-
-
-
-15624	
-15626	
 15628	masculine/neuter
 masculine
-
 15634	neuter
 15636	masculine
-
-15641	
-neuter
-15646	
-15652	
+15642	neuter
 15655	masculine
-15658	
-15663	
 15666	masculine/feminine
-15668	
-masculine
-15671	
-15674	
-
+15669	masculine
 15678	masculine
 masculine
-masculine
-
-
-neuter
-
-neuter
-
-masculine
-
-neuter
-
-masculine/feminine/neuter
-
-
-masculine
-15696	
-
-
-
-
-neuter
+15683	neuter
+15685	neuter
+15687	masculine
+15689	neuter
+15691	masculine/feminine/neuter
+15694	masculine
+15701	neuter
 masculine
 feminine
-
-
 15707	masculine
-
-
 15712	feminine
 feminine
-feminine
 masculine
-
-15720	
-masculine/neuter
+masculine
+15721	masculine/neuter
 masculine
 masculine
 15725	masculine/feminine
-
-feminine
+15727	feminine
 masculine
 masculine
-15731	
 15733	masculine
 masculine
-15737	
-15739	
 15741	feminine
 neuter
-
-
-
 15747	feminine
 15752	masculine
 masculine
-
-feminine
-15757	
-15760	
-
-masculine
+15755	feminine
+15762	masculine
 masculine
 15765	masculine
-15767	
-15769	
-15771	
-
-masculine
-
-masculine/neuter
-15779	
-15785	
-
-15788	
-
-
-
-
-masculine
+15773	masculine
+15775	masculine/neuter
+15788	feminine
+15793	masculine
 15795	feminine
-
-
-15799	
 15801	masculine
-15803	
-feminine
-
-feminine
-15808	
-
-
-neuter
+15804	feminine
+15806	feminine
+15811	neuter
 15813	feminine
 masculine
 masculine
-
-15818	
-
 15822	neuter
 masculine/neuter
 15826	masculine
 masculine
 15829	masculine
-
-neuter
+15831	neuter
 feminine
 feminine
 15842	masculine/feminine/neuter
 15845	masculine
 masculine
-
+15848	neuter
 neuter
-neuter
-
-
-
 15854	neuter
 15856	neuter
-15858	
-masculine
+15859	masculine
 15863	masculine/feminine
-
 15866	neuter
 masculine
-15869	
-15871	
-feminine
+15872	feminine
 15876	masculine
-15878	
-
 15881	masculine
-15884	
-15886	
-feminine
-
-
+15887	feminine
 15891	masculine
 15894	neuter
-15896	
-masculine/neuter
-
+15897	masculine/neuter
 15902	masculine
-
-15905	
-15908	
 15910	masculine
 feminine
 feminine
@@ -9644,1065 +5163,538 @@ masculine
 masculine
 masculine
 15919	masculine
-
-neuter
-
+15921	neuter
 15925	masculine
-
-
 15929	masculine
-15931	
-neuter
+15932	neuter
 feminine
-15936	
-
 15939	feminine
-
-15942	
-
 15945	feminine
 feminine
-15948	
+15949	masculine
 masculine
+15952	masculine
 masculine
-
-masculine
-masculine
-
-15957	
 15961	masculine
-15963	
-
-
 15970	feminine
-15972	
-neuter
+15973	neuter
 masculine
-15976	
-masculine
+15977	masculine
 masculine
 masculine
-15983	
-
-15987	
-feminine
+15988	feminine
 masculine/neuter
 masculine
-15992	
+15993	masculine
 masculine
-masculine
-
-
-neuter
+15997	neuter
 masculine
 masculine
 16004	feminine
-16007	
-
-feminine
+16009	feminine
 feminine
 masculine/neuter
-16013	
-neuter
-
-feminine
-
-
-
-masculine
-
-feminine
-
-16027	feminine
-
-
-neuter
+16014	neuter
+16016	feminine
+16020	masculine
+16022	feminine
+16027	neuter
+16030	neuter
 masculine
 16033	feminine
-
-
+16036	masculine
 masculine
-masculine
-16039	
-
-masculine
-
+16041	masculine
 16044	masculine/neuter
 16046	feminine
-
-
-16052	
-masculine
+16053	masculine
 16055	masculine
-
-feminine
-
-16061	
-neuter
-16065	
+16057	feminine
+16062	neuter
 16067	neuter
 16069	masculine/feminine
 masculine
 masculine
-
-feminine
+16073	feminine
 16075	neuter
-
-neuter
-
-
+16077	neuter
 16081	masculine
-16084	
 16086	masculine
 masculine
-
-16090	
-feminine
-
-
-16095	
-neuter
-16098	
-
+16091	feminine
+16096	neuter
 16101	neuter
 feminine
 masculine
 masculine
-16107	
-
 16110	masculine
 16112	feminine
-
-
-
 16120	masculine
 16122	feminine
-
-16125	
 16127	neuter
 masculine
-
-
-masculine
+16131	masculine
 16137	feminine
 masculine
-16142	
-feminine
-16145	
+16143	feminine
 16147	neuter
-
-16150	
-
-masculine
-
-16156	
-16158	
-16161	
-
+16152	masculine
+16162	masculine
 16164	feminine
-16168	
 16170	feminine
 masculine
-
-
-feminine
-
+16174	feminine
 16177	masculine
 masculine
-16180	
-
 16183	masculine
 masculine/neuter
 feminine
-
-
-neuter
+16188	neuter
 masculine
 masculine
-16194	
-masculine
-
-
-16199	
-16202	
-16206	
-neuter
-16211	
-16216	
-feminine
-
+16195	masculine
+16207	neuter
+16217	feminine
 16220	feminine
-
 16223	masculine
 masculine
-
-neuter
-
-16230	
-
-
+16226	neuter
 16236	neuter
 masculine
 masculine
 feminine
-
-
-
-
-
-
-16249	
-16251	
-16253	
-neuter
+16254	neuter
 masculine
 masculine
-16258	
 16260	masculine/feminine
-
-16263	
-masculine
-
-
-
+16264	masculine
 16270	masculine
 masculine
-
-
 16276	neuter
 masculine
 masculine
-
-neuter
+16280	neuter
 masculine
-16284	
 16286	feminine
-
+16288	neuter
 masculine
-
 masculine/feminine
-16292	
 16297	masculine
-16301	
-16303	
-16307	
-
-neuter
+16309	neuter
 16312	feminine
 neuter
 masculine
-
-
-
-16320	
+masculine
 16322	masculine/neuter
 16325	masculine
-
-
 16329	neuter
 16332	masculine
 masculine
 masculine
-
-neuter
+16336	neuter
 16340	masculine/neuter
-16342	
-16344	
-
-
-
-
-16350	
 16356	masculine
-16358	
-16362	
-
-masculine
-16366	
-
+16364	masculine
 16369	feminine
-
 16372	masculine/neuter
-
-16375	
-
-masculine
-
-
+16377	masculine
 16384	masculine/feminine
 feminine
 16388	masculine/feminine
-16390	
-
 16394	masculine
 masculine
 masculine
-
-
-masculine
+16399	masculine
 16402	masculine
 masculine
-16405	
 16408	feminine
-
-16413	
-16416	
 16418	neuter
 masculine
-16428	
-
 16433	masculine
-16435	
 16439	masculine
-16441	
-neuter
-
-masculine
-16446	
-
+16442	neuter
+16444	masculine
 16449	feminine
 feminine
 16452	masculine
 masculine
-
+16455	feminine
+16458	feminine
 feminine
-16457	
-feminine
-feminine
-
-
-
 16464	masculine
-
 16467	masculine
 16469	neuter
-16471	
-masculine
+16472	masculine
 masculine
 feminine
 feminine
-
 16479	neuter
-16482	
-16485	
-
-feminine
+16487	feminine
 masculine
 16490	feminine
-
 16493	masculine
-16495	
 16498	neuter
 16500	masculine
 neuter
-
-
-16506	
-16509	
-16511	
-masculine
-
-
+16512	masculine
 16519	masculine
 16521	masculine
-
-neuter
+16523	neuter
 16526	masculine
-
-
-16530	
+16531	feminine
 feminine
+16541	masculine
 feminine
-
-16540	
-masculine
-feminine
-
-masculine
-
+16544	masculine
 16547	feminine
-
 16550	feminine
 neuter
-16553	
 16555	masculine
-
-masculine
-
-neuter
-16562	
-
-neuter
+16557	masculine
+16559	neuter
+16564	neuter
 masculine
 masculine
 masculine
 16569	feminine
-
-
 16577	masculine
 16579	feminine
-
-16582	
-
-
-
-
-16588	
 16591	masculine
-16593	
 16596	neuter
 feminine
 feminine
 masculine
-
 16603	feminine
 feminine
-
-16607	
-16609	
-feminine
-
-feminine
-
+16610	feminine
+16612	feminine
+16614	masculine
 masculine
-masculine
-16617	
-
-
-masculine
-16622	
-16625	
+16620	masculine
 16629	masculine/feminine
-
-
-masculine/neuter
-16636	
+16632	masculine/neuter
 16641	masculine
-
-
 16645	feminine
 feminine
 feminine
 masculine
-
+16650	masculine
 masculine
-masculine
-16655	
-masculine
-16661	
+16656	masculine
 16667	masculine
 masculine
 16670	masculine
-16672	
-masculine
+16673	masculine
 16675	masculine
 16677	neuter
-
-
-
-16682	
-
+16680	masculine
+16684	masculine
+16690	feminine
 masculine
-16687	
-16689	
-feminine
-masculine
-
 16695	masculine
 16697	masculine
 16701	masculine
-
-feminine
-
-
+16703	feminine
+16706	masculine
+16713	feminine
+16715	neuter
 masculine
-16711	
-
-feminine
-
-neuter
-masculine
-16720	
-16724	
-16727	
-neuter
-16730	neuter
+16728	neuter
+16730	feminine
 masculine
 masculine/neuter
-
-16735	
+16736	masculine
 masculine
-masculine
-
-neuter
-16741	
-neuter
-16744	
-
-masculine
+16739	neuter
+16742	neuter
+16746	masculine
 16748	masculine
 16751	masculine
 masculine
-
+16754	neuter
+16759	neuter
+16763	masculine/feminine
+16768	masculine
+masculine
+masculine
+masculine
+16773	neuter
+16775	neuter
+masculine
+masculine
+16789	feminine
 neuter
-
-
-
-
-neuter
-
-16762	
-masculine/feminine
-
-
-16767	
-masculine
-masculine
-masculine
-masculine
-
-neuter
-
-neuter
-masculine
-masculine
-16779	
-
-
-
-16788	
-feminine
-neuter
-
-feminine
+16792	feminine
 16796	neuter
-
-masculine/neuter
-16800	
-
-
+16798	masculine/neuter
+16803	masculine
 masculine
-masculine
-
-neuter
+16806	neuter
 16808	neuter
 masculine
-
-neuter
+16811	neuter
 16813	feminine
-
-masculine/feminine
-
+16815	masculine/feminine
 16820	feminine
 neuter
-
-
-masculine
-16827	
-16829	
-16831	
-16833	
+16824	masculine
 16836	neuter
 16840	masculine
 16843	masculine
-
-masculine/feminine
+16845	masculine/feminine
 masculine
 masculine/feminine
 16849	masculine
-
-
-masculine
+16852	masculine
 16854	masculine
-16856	
-
-
-
-16861	
-neuter
+16862	neuter
 feminine
 16865	feminine
 masculine
-16868	
-
-masculine
-
+16870	masculine
 16873	masculine
 16876	neuter
 16878	masculine
-
-
-neuter
-
-neuter
-16885	
-16888	
-16890	
-16892	
-16894	
-16896	
-
-masculine
-
-masculine/neuter
-16904	
-
-
-
-
-16911	
-masculine
+16881	neuter
+16883	neuter
+16898	masculine
+16900	masculine/neuter
+16912	masculine
 16915	masculine
-16917	
-
-masculine
-16923	
-neuter
-
+16919	masculine
+16924	neuter
 16928	feminine
 feminine
-
-masculine/feminine
-
-
-
-
-
-16939	
-
-
-16945	
+16931	masculine/feminine
+16945	masculine
 16950	masculine
 masculine
-
 16954	masculine
-16956	
-16959	
-16961	
-16965	
-16967	
+16967	masculine
 feminine
-16972	
 16974	masculine
 masculine
 16977	masculine
-16979	
-16981	
-
-masculine
-16985	
+16983	masculine
 16988	masculine
-16990	
-16994	
-feminine
-
+16995	feminine
+16997	masculine
 masculine
 masculine
 masculine
-masculine
-17002	
-
-masculine
-
-neuter
+17004	masculine
+17006	neuter
 feminine
 17013	masculine
-
-masculine
+17015	masculine
 feminine
 neuter
 masculine
-17020	
-neuter
+17021	neuter
 17023	masculine/feminine
-17025	
-17027	
-neuter
-17030	
+17028	neuter
 17037	masculine
 17039	masculine
 17041	neuter
-17043	
-
-17046	
-feminine
-
+17047	feminine
 17050	masculine
-
-
-17059	
-feminine
-17063	
-masculine
-
-neuter
+17060	feminine
+17064	masculine
+17066	neuter
 17068	masculine/neuter
 17071	masculine
-17076	
-17079	
-17082	
-neuter
-17085	
+17076	masculine
+17083	feminine
 17087	masculine/neuter
 masculine
-
-neuter
+17090	neuter
 feminine
-17094	
-
-masculine/neuter
+17096	masculine/neuter
 neuter
-
-
-masculine
+17100	masculine
 17104	feminine
-
-17108	
-masculine
-17111	
+17109	masculine
 17113	masculine
 masculine
 17116	masculine
-
-neuter
-
-17122	
+17118	neuter
 17124	masculine
 17126	masculine
-17128	
-masculine
+17129	masculine
 masculine
 feminine
 feminine
 masculine
 17135	masculine
-17138	
-17140	
-
-
-17144	
-feminine
+17145	feminine
 masculine
 17148	feminine
-17150	
-
-
-neuter
+17153	neuter
 masculine
-17156	
 17158	feminine
-
-
-17162	
-
-neuter
-17166	feminine
-
-17173	masculine
-
+17164	neuter
+17166	masculine
 17178	masculine
-17180	
+17181	neuter
+17184	masculine/feminine
 neuter
-
-
-masculine/feminine
-neuter
-
-
-17189	
-masculine/feminine
+17190	masculine/feminine
 neuter
 neuter
 17194	feminine
 17196	neuter
-
-neuter
+17198	neuter
 masculine
 17201	neuter
-
-
-
-17206	
 17209	neuter
 masculine
-17213	
-neuter
+17214	feminine
 17220	neuter
-
-
-17224	
 17227	feminine
 17229	neuter
 feminine
-17232	
-17234	
-masculine/feminine/neuter
+17235	masculine/feminine/neuter
 neuter
 feminine
-17239	
 17245	masculine
 17247	masculine
 17249	masculine
-17251	
-17254	
-17262	
 17264	masculine
-17266	
+17267	neuter
 neuter
-neuter
-
-
-feminine
-17273	
-
-masculine
-17277	
-17280	
-neuter
+17271	feminine
+17275	masculine
+17281	neuter
 masculine
 17284	neuter
-17286	
 17289	neuter
 masculine
 masculine/neuter
 17294	masculine
 17297	neuter
 17299	masculine
-
-masculine
-17303	
-
-masculine
+17301	masculine
+17303	masculine
+17305	masculine
 17307	masculine
 17309	masculine
-17311	
-17313	
-
-
+17315	masculine
 17318	feminine
-17320	
+17321	feminine
 feminine
-feminine
-17324	
-
+17326	masculine
 masculine
-masculine
-
-
-
-17336	
 17338	masculine
 masculine
-
 17342	feminine
 neuter
 17345	masculine/feminine
-17347	
-neuter
+17348	neuter
 17350	feminine
-
-
-neuter
-17359	
-17361	
-17363	
+17353	neuter
+17364	masculine
 masculine
-masculine
-
-17371	
-17374	
 17377	feminine
 17379	feminine
 17386	neuter
-17390	
-masculine
-17393	
+17391	masculine
 17396	neuter
-17399	
-
-feminine
+17401	feminine
 neuter
 17405	neuter
 neuter
-
-neuter
+17408	neuter
 masculine
-
 17412	feminine
 feminine
-17416	
-17418	
-17422	
-
 17426	neuter
-17428	
-
-neuter
-
-17436	
+17430	neuter
 17438	neuter
 17440	neuter
-17442	
-17444	
-17446	
-17449	
 17451	masculine
-17455	
-
-
 17460	neuter
 masculine
-17463	
 17465	neuter
 17467	masculine
 17471	masculine
 17473	neuter
 17475	neuter
-
-
-masculine
-17481	
+17478	masculine
 17488	neuter
 17490	neuter
-17495	
-17497	
-17500	
 17503	neuter
 17505	masculine/feminine
 neuter
 17511	masculine
 masculine
 feminine
-17515	
 17517	masculine/feminine
 neuter
 17520	masculine
 masculine
-
-feminine
+17523	feminine
 17525	masculine
-
 17528	masculine
 17530	masculine
-
 17534	feminine
 feminine
 neuter
 17538	masculine
 masculine
 masculine
-17544	
 17546	feminine
 masculine
 masculine
 masculine
-
-masculine
-
-
-neuter
-17556	
-
-
-
-
+17551	masculine
+17554	neuter
+17561	masculine
 masculine
 masculine
-masculine
-
-feminine
+17565	feminine
 masculine
 17568	feminine
-
-
-
-17573	
-masculine
-
-masculine
-17579	
-17581	
-
-
-17585	
-17588	
-
+17574	masculine
+17576	masculine
 17591	neuter
-
-17594	
-
-17597	
-17599	
-neuter
-
-masculine
+17600	neuter
+17602	masculine
 17607	masculine
 masculine
 masculine
 17611	masculine/feminine
 neuter
-
-17615	
 17617	feminine
 feminine
 masculine
-17621	
-
+17622	feminine
 17624	feminine
-
+masculine
 feminine
-17628	
-17631	
-feminine
+17632	feminine
 17634	masculine
 masculine
-
 17638	masculine
 feminine
 feminine
-17645	
-masculine
-
-masculine
-
-neuter
-17653	
+17646	masculine
+17648	masculine
+17650	neuter
 17655	feminine
-
-17659	
-
-masculine/feminine
-
-17665	
+17661	masculine/feminine
 17667	masculine
-
-neuter
+17669	neuter
 17671	feminine
-17673	
-
-masculine/neuter
-17677	
+17675	masculine/neuter
 17681	masculine
-17684	
-17686	
-
 17689	feminine
 masculine
 17692	masculine
 17694	masculine
-17696	
-
-17699	
 17702	masculine
-
-17706	
-
-17711	
-
-
+17711	masculine
 17716	feminine
 feminine
-
 17720	feminine
 feminine
 17724	neuter
@@ -10711,366 +5703,189 @@ neuter
 17730	feminine
 feminine
 feminine
-
-17736	
-feminine
+17737	feminine
 neuter
-
 17742	neuter
-
-
 17746	masculine
 17751	masculine
 17755	masculine
 17757	neuter
 17765	neuter
 feminine
-17768	feminine
+17768	neuter
 masculine
 17771	neuter
 masculine
-
-17775	
-17777	
 17779	feminine
-
-
-feminine
-17785	
-masculine
-
+17782	feminine
+17786	masculine
 17789	feminine
 feminine
 neuter
-
-17794	
-feminine
+17795	feminine
 feminine
 17799	feminine
 feminine
-
 17805	feminine
 17807	feminine
 feminine
 feminine
 masculine
 17812	feminine
-17815	
-17818	
-17820	
-17826	
-masculine
-17830	
-17835	
-masculine
-
-masculine
+17827	masculine
+17836	masculine
+17838	masculine
 17843	feminine
 17846	masculine
-17850	
 17852	feminine
-17856	
-
 17859	neuter
 neuter
 masculine
-17863	
-
-feminine
-17867	
-17870	
-feminine
-
-neuter
-
-
-17877	
+17865	feminine
+17871	feminine
+17873	neuter
 17879	feminine
 17882	feminine
-
+17884	feminine
 feminine
-feminine
-17887	
-
-
-17891	
-17894	
-17897	
-masculine
+17898	masculine
 masculine
 17901	masculine
 17905	masculine
 masculine
-17908	
 17910	masculine
-17912	
 17914	masculine
-
-
-feminine
-
-masculine
-17921	
+17917	feminine
+17919	masculine
 17923	neuter
-
-17926	
-feminine
+masculine
+17927	feminine
 masculine
 masculine
 17931	masculine
 masculine
-17936	
-
-17939	
-
-feminine
+17941	feminine
 masculine
 17945	feminine
-
-
-neuter
+17948	neuter
 17950	feminine
 17952	neuter
 masculine
-17955	
-feminine
-
-
-
-
-masculine
-17964	
+17956	feminine
+17961	masculine
 17966	neuter
-17970	
 17972	feminine
-17976	
-feminine
-
-17981	
+17977	feminine
 17983	feminine
 17986	feminine
-
-feminine
-
+17988	feminine
 17991	neuter
-17993	
 17999	masculine
-
-
-
-18010	
-neuter
-
+18011	neuter
 18014	feminine
 18016	neuter
-
-
 18022	neuter
 neuter
-
-
-
-18028	
-
-neuter
-
-masculine
-18036	
-masculine
-
+18030	neuter
+18032	masculine
+18037	masculine
 18040	masculine
-18042	
-18045	
-
-18048	
-18050	
+18045	feminine
 18053	neuter
-
-
-18058	
-18061	
-18063	
-18067	
 18069	neuter
 feminine
-
 18073	feminine
 neuter
-
-
-
-feminine
+18078	feminine
 masculine
-18081	
-
-feminine
-
+18083	feminine
 18086	feminine
-
-18090	
-
-
 18094	feminine
 neuter
-
-
-neuter
-
-
+18098	neuter
 18102	feminine
-18104	
-
 18107	feminine
 neuter
-18110	
-masculine
-
+18111	masculine
 18114	masculine
-
-feminine
+18116	feminine
 18118	feminine
 18120	neuter
-18124	
-neuter
-
-
+18125	neuter
 18129	masculine
 masculine
-
-
-
-
+feminine
 18137	masculine
-
-
-
 18142	feminine
-
 18146	masculine/neuter
 18148	neuter
-
-
 18152	feminine
-18154	
 18160	masculine
 neuter
 feminine
-18165	
+18166	feminine
 feminine
-feminine
-18169	
 18172	feminine
 18176	masculine
-
-
-masculine
+18179	masculine
 masculine
 neuter
 18184	neuter
 18186	feminine
 feminine
 18189	masculine
-18192	
-
-18196	
 18198	feminine
-18200	
-masculine
-18205	
-
+18201	masculine
 18208	masculine
 18210	masculine
-18213	
-
-
 18218	feminine
 masculine
 18221	feminine
 masculine
-
-
 18226	feminine
-
 18229	masculine
-
-
-neuter
+masculine/feminine
+18232	neuter
 masculine
 masculine
-18238	
-masculine
+18239	masculine
 18244	masculine
 masculine
 18247	neuter
 masculine
 18251	feminine
 feminine
-
-18256	
 18258	feminine
-18261	
-masculine
+18262	masculine
 neuter
 neuter
-18267	
-18269	
-
-18273	
-
-18276	
-masculine
+18277	masculine
 18282	masculine
 feminine
-18285	
-18287	
-
 18290	feminine
-
-
+18292	feminine
 feminine
 feminine
-
+masculine
 18297	feminine
-
-18301	
 18303	masculine
 masculine
-
-neuter
-18309	
-
-masculine
-
-
-
-
+18306	neuter
+18311	masculine
 18318	masculine
-18320	
-
-18323	
 18325	masculine
-
-
-masculine/neuter
-
-
-masculine/neuter
-
+18328	masculine/neuter
+18331	masculine/neuter
 18334	masculine
 masculine
 feminine
-
-feminine
+18338	feminine
 18340	neuter
 18342	masculine
 masculine
-18345	
-
-masculine/neuter
+18347	masculine/neuter
 18350	feminine
-
 18353	neuter
-18355	
 18358	feminine
 feminine
 feminine
@@ -11078,19 +5893,14 @@ feminine
 18363	masculine
 masculine
 18369	neuter
-
-
-feminine
-
-masculine
+18372	feminine
+18374	masculine
 feminine
 feminine
 neuter
-18379	
-masculine
+18380	masculine
 masculine
 18383	feminine
-18388	
 18390	feminine
 neuter
 18393	masculine
@@ -11098,298 +5908,162 @@ neuter
 18400	masculine
 18402	masculine
 18404	masculine
-
-masculine
+18406	masculine
 masculine/feminine
-
-
-18411	
-
 18414	masculine
 feminine
 18417	neuter
-
 18420	feminine
 feminine
-18424	
-feminine
+18425	feminine
 18427	masculine
 masculine
-18430	
 18433	feminine
-
-masculine
-
+18435	masculine
 18439	feminine
-18442	
 18444	feminine
-
+18446	masculine
+18448	masculine
+18461	feminine
 masculine
-18448	
-18450	
-
-18453	
-18456	
-18460	
+18469	feminine
 feminine
-masculine
-
-18466	
-18468	
-feminine
-feminine
-18472	
+18473	masculine
 masculine
 masculine
 masculine
-masculine
-18478	
-
 18481	masculine
-
-18486	
-
+masculine
 18489	masculine/feminine
-18491	
-
-
-masculine/neuter
+18494	masculine/neuter
 18496	feminine
-18498	
-
-masculine
-18502	
-
-feminine
-
+18500	masculine
+18504	feminine
 18507	masculine
-
-
-neuter
+18510	neuter
 masculine
-
 18516	masculine
-
+18518	masculine
 masculine
-masculine
-
 18522	feminine
 18525	neuter
-
-neuter
+18527	neuter
 18529	masculine
-
 18532	masculine
 masculine
 18536	feminine
 feminine
-
-neuter
-
-18542	
-
-
+18539	neuter
 18546	masculine
 masculine
-
 18550	feminine
 18552	feminine
-
 18556	masculine
-18561	
-
-masculine
-
+18563	masculine
 18566	masculine/feminine
-18568	
-neuter
+18569	neuter
 masculine
 masculine
-18573	
-masculine
-18576	
-feminine
+18574	masculine
+18577	feminine
 18579	masculine/feminine
 feminine
-18582	
+18582	masculine
 18584	neuter
 feminine
 18587	neuter
 masculine
-
-neuter
-
-18594	
+18590	neuter
 18597	masculine
 18600	neuter
-18603	
-
 18606	masculine
 neuter
 feminine
-18610	
+18610	masculine
 18617	neuter
-18619	
-
-18622	
-feminine
+18623	feminine
 masculine/neuter
-
-
-neuter
+18627	neuter
 masculine
-
-
-18633	
-18637	
-18643	
-
+18633	masculine
 18646	neuter
-
-18651	
-feminine
-
-18655	
-
+18652	feminine
+18657	masculine
 masculine
 masculine
 masculine
-
-
-
-
-masculine
+18664	masculine
 neuter
-18667	
-18671	
-masculine
+18672	masculine
 neuter
 masculine/feminine
-18676	
+18677	masculine
+18681	masculine/feminine
+18684	masculine/feminine
+18686	masculine
 masculine
-18680	
-masculine/feminine
-
-
-masculine/feminine
-
-masculine
-masculine
-
-neuter
-18691	
-neuter
+18689	neuter
+18692	neuter
 masculine
 masculine
-18697	
-
-neuter
-18701	
+18699	neuter
 18706	masculine/feminine
-18708	
-
-18711	
-
-neuter
+18713	neuter
 18720	masculine
 neuter
-18725	
 18727	feminine
-18733	
 18735	masculine/neuter
 neuter
-18738	
-feminine
+18739	feminine
 18741	neuter
-
-18744	
-feminine
+masculine
+18745	feminine
 18747	neuter
 18749	feminine
 masculine
-
-
+masculine
 18754	masculine
-18756	
-
 18759	feminine
-18763	
 18766	masculine
 feminine
 18769	feminine
-18771	
-feminine
-18774	
+18772	feminine
+18774	masculine
 masculine/neuter
 neuter
-
-18781	
-18783	
-18787	
 18789	masculine
-18792	
-neuter
+18793	neuter
 feminine
-18797	
 18799	masculine
-18801	
-18806	
-18812	
-feminine
+18806	masculine
+18813	feminine
 feminine
 feminine
 feminine
 18819	feminine
-18823	
+18823	masculine
 18825	masculine
-
 18828	neuter
 feminine
-
-18832	
-
 18835	neuter
 neuter
-
 18840	masculine
-
-
-masculine
-
-
-18847	
-
-masculine/feminine
-18851	
+18842	neuter
+18849	masculine/feminine
 18856	masculine
 18858	masculine
 18860	neuter
-18862	
 18865	masculine/neuter
 neuter
-
 18869	masculine/neuter
-
-18872	
-neuter
-
-
-
+18873	neuter
+18877	feminine
 feminine
 feminine
-feminine
-
-18882	
-
-
-18887	
-18889	
-18891	
-feminine
+18892	feminine
 feminine
 neuter
-
-feminine
+18896	feminine
 18898	feminine
 18900	neuter
 neuter
@@ -11398,236 +6072,121 @@ neuter
 18911	masculine/feminine/neuter
 masculine
 neuter
-
-masculine
+18915	masculine
 18917	feminine
-18919	
 18921	masculine
-
 18924	feminine
 neuter
-
-18928	
-neuter
-
-18933	
-
+18929	neuter
+18933	masculine
 18936	neuter
 feminine
 feminine
 18942	masculine
 neuter
-
-
-18948	
-neuter
-
-18953	
-
-
 masculine
+18949	neuter
+18956	masculine
 masculine
-
-masculine
-18961	
-
-
-18965	
-neuter
-
-masculine
-
-neuter
+18959	masculine
+18966	neuter
+18968	masculine
+18970	neuter
 neuter
 masculine
-18975	
 18977	feminine
-18979	
-18986	
-
-18991	
 18993	masculine/feminine/neuter
-18995	
-18997	
 19001	masculine
-19004	
 19007	masculine/neuter
-19009	
-
-19014	
 19020	neuter
 19023	feminine
 19026	neuter
 19034	neuter
 neuter
-
-neuter
+19037	neuter
 19039	masculine
-19041	
-neuter
-neuter
+19042	neuter
+feminine
 19048	neuter
-19050	
 19052	masculine
-
 19057	masculine
-19059	
 19061	masculine
 masculine
 masculine
 19066	neuter
-
-
-19072	
+19073	feminine
 feminine
-feminine
-
-19077	
-feminine
+19078	feminine
 masculine
-
 19083	masculine
-
-19086	
+19087	neuter
 neuter
-neuter
-19091	
-
-masculine/feminine
+19093	masculine/feminine
 masculine
 19096	feminine
-
+19098	masculine
 masculine
 masculine
-masculine
-19103	
+19103	masculine
 19105	masculine
 masculine
-
 19109	neuter
-
-19112	
-
-neuter
-
-neuter
+19114	neuter
+19116	neuter
 neuter
 feminine
-
-
-19122	
-feminine
+19123	feminine
 neuter
-19126	masculine
-19128	
-19131	
+19132	feminine
 feminine
-feminine
-
-19136	
-19138	
-19141	
-19143	
-
-19146	
-
-feminine
-
+19148	feminine
+19150	masculine
 masculine
-masculine
-
-feminine
+19153	feminine
 19155	feminine
-
 19158	feminine
-
-
-19162	
-
-
-
-19168	
-19170	
-
-19174	
-19176	
-19178	
-
-19182	
-neuter
-19186	
+19178	masculine
+19183	neuter
 19191	neuter
 masculine
-
 19197	masculine
-
-19200	
 19202	feminine
 19205	masculine
-19207	
 19214	masculine
-
-19218	
 19220	neuter
-
 19223	neuter
-19225	
-neuter
-
-19230	
-
-neuter
+19226	neuter
+19232	neuter
 masculine
-19235	
-19237	
-
-feminine
+19239	feminine
 neuter
 19243	masculine
-19247	
-masculine
+19248	masculine
 19251	feminine
 neuter
-
-19257	
-neuter
+19258	neuter
 19260	masculine
 masculine
 feminine
-19265	
-
-
-feminine
+19268	feminine
 feminine
 19271	masculine
-
 19274	feminine
 neuter
-
-
-feminine
+19278	feminine
 masculine
 19281	feminine
-
-19284	
+19285	masculine
 masculine
-masculine
-
-neuter
-
-feminine
+19288	neuter
+19290	feminine
 masculine/neuter
 masculine
 19296	masculine
-
-19299	
-
-
-masculine/feminine
-
-19305	masculine
-
 masculine
+19302	masculine/feminine
+19305	masculine
+19307	masculine
 masculine
 masculine
 19311	masculine
@@ -11643,19 +6202,13 @@ masculine
 feminine
 19329	masculine/neuter
 masculine
-19332	
-masculine
-
-masculine/neuter
-19337	
-neuter
+19333	masculine
+19335	masculine/neuter
+19338	neuter
 masculine
 masculine
-
+feminine
 19343	masculine
-
-
-19347	
 19349	masculine
 masculine
 19352	neuter
@@ -11663,893 +6216,456 @@ masculine
 19357	masculine/neuter
 19359	masculine
 19361	neuter
-
 19367	feminine
-19369	
 19371	neuter
 masculine
 masculine
-19375	
-
-
-feminine
-
-feminine
-19383	
-19385	
-
+19378	feminine
+19380	feminine
 19388	masculine
-
 19391	masculine
-
 19396	masculine
 19398	masculine
-
-
 19402	masculine/feminine
 feminine
-19407	
-neuter
+19408	neuter
 masculine
-
-19412	
-
 19415	masculine
-
-masculine
+19417	masculine
 19422	masculine
 19426	masculine
-
-
-neuter
+19429	neuter
 masculine
-
-19433	
-masculine
-19437	
-19440	
-neuter
+19434	masculine
+19441	feminine
 feminine
 19445	masculine
 masculine
 neuter
-
-masculine
+19449	masculine
 19455	masculine
-19457	
-neuter
-
-neuter
+19458	neuter
+19460	neuter
 masculine/neuter
 19464	masculine
-
-19468	
-neuter
+19469	neuter
 19472	neuter
-
-19475	
-feminine
+19476	feminine
 19482	masculine
 19484	neuter
-
-
-
-19490	
-neuter
-
+19491	neuter
 19494	masculine
-19502	
-19505	
-masculine
+19506	masculine
 19508	masculine
 19513	masculine/feminine
 neuter
 neuter
-19517	
-neuter
-19521	neuter
-19526	
-masculine
-19529	neuter
+19518	neuter
+19521	feminine
+19527	masculine
+19529	feminine
 19533	masculine
 19535	masculine
 masculine
-
-feminine
-19540	
+19538	feminine
 19542	masculine
-
-19545	
-19548	
-
-19552	
 19554	feminine
-19556	
-19558	
-19561	
-19563	
-
-neuter
-19567	
-
-19570	
+19565	neuter
 19572	feminine
-
-feminine
-
-
+19574	feminine
 19578	masculine
-19580	
-neuter
+19581	neuter
 19585	masculine
-
-
-
-neuter
-
-
-
-masculine
-19595	
-19600	
-19602	
-
-feminine
+19589	neuter
+19593	masculine
+19604	feminine
 19606	feminine
 neuter
-
-
-19611	
 19613	feminine
-19615	
 19618	feminine
 19620	neuter
 19623	masculine
-19625	
-
-feminine
-19630	
+19625	masculine
+19627	feminine
 19632	neuter
 19636	masculine
 masculine
 masculine
-
-feminine
+19640	feminine
 masculine/neuter
 neuter
 19646	feminine
-19650	
 19652	feminine
-
-19655	
 19657	feminine
-19659	
-masculine
-19662	
+19660	masculine
 19664	feminine
-19666	
-
-masculine
-19670	
-masculine
+19668	masculine
+19671	masculine
 19677	feminine
-
-
-19683	
 19685	feminine
 neuter
-
-19689	
-neuter
-neuter
-19694	
-masculine
+19690	neuter
+feminine
+19695	masculine
 19703	neuter
-
-neuter
-19708	
+19705	neuter
 19711	neuter
 19713	neuter
-19717	
-
-neuter
-19721	
+19719	neuter
+19722	masculine
+19726	masculine
 masculine
-
-19725	
-masculine
-masculine
-
-neuter
+19729	neuter
 19731	feminine
 19733	neuter
-
-masculine
+19735	masculine
 19737	masculine/feminine
 19739	masculine
-
-
 19743	masculine
-19745	
-19750	
-19754	
-feminine
-
-feminine
+19755	feminine
+19757	feminine
 19759	neuter
-19761	
-
 19767	feminine
 19769	neuter
 neuter
-19772	
 19774	feminine
-19777	
-
 19780	masculine
-19784	
 19787	masculine
-19790	
 19794	neuter
-
 19797	masculine
-19799	
-masculine
+19800	masculine
 19802	masculine
 19804	masculine/feminine
 19806	masculine
 19808	neuter
-19810	
-19814	
 19817	neuter
 19821	neuter
 19823	masculine
 19829	masculine
-19831	
 19836	masculine
 19839	masculine
 19847	masculine
 19849	neuter
-
-
-19853	
-19855	
-
 19858	masculine
 masculine
 masculine
-
+19862	masculine
 masculine
-masculine
-
-
-19867	
-19869	
-
-
-masculine/neuter
+19872	masculine/neuter
 feminine
 masculine/neuter
-
+19876	neuter
 neuter
-neuter
-19881	
-19883	
-neuter
-
-masculine
+19884	neuter
+19886	masculine
 masculine
 19891	masculine
 feminine
-19896	
-masculine
+19897	masculine
 19899	feminine
 feminine
 19903	masculine
 feminine
-19908	
-
+19910	feminine
 feminine
-feminine
-19915	
+19916	masculine
 masculine
-masculine
-
-19923	
-masculine
-19926	
-19928	
-19930	
-masculine
-19933	
+19924	masculine
+19931	masculine
 19935	feminine
-
-
 19939	neuter
 neuter
 neuter
-
-masculine
+19943	masculine
 masculine
 neuter
 19947	neuter
-
-19950	
 19952	feminine
 neuter
-
-feminine
-
-
-
-masculine
-19962	
-feminine
+19955	feminine
+19959	masculine
+19963	feminine
 feminine
 neuter
 19968	feminine
 feminine
 feminine
 masculine
-19975	
-
-
 19981	masculine
-
-
-19985	
-19988	
 19991	masculine/neuter
-19993	
-
 19996	masculine/feminine
-
-masculine
+19998	masculine
 20000	feminine
 feminine
 neuter
 20004	masculine
 20006	neuter
-20008	
 20010	neuter
 20013	masculine
-20017	
 20021	masculine/neuter
 neuter
-
+20024	feminine
 feminine
-feminine
-
 20028	masculine
-20030	
 20032	feminine
 feminine
-
-
-masculine/neuter
-
-20039	
-neuter
-
-masculine/feminine
+20036	masculine/neuter
+20040	neuter
+20042	masculine/feminine
 20044	feminine
 feminine
 masculine
 20048	masculine
-20053	
-20055	
-20057	
-
-feminine
+20059	feminine
 feminine
 masculine
 20063	masculine
 20065	masculine
-20067	
-
 20070	neuter
-
-neuter
+20072	neuter
 20075	masculine
 20079	feminine
 20081	masculine
-20083	
-20085	
 20087	feminine
-20096	
 20098	neuter
-20100	
-
-masculine
+20102	masculine
 20105	masculine
 20109	feminine
-
 20112	feminine
-
-20117	
 20119	feminine
-20121	
-neuter
-
-
+20122	neuter
 20126	neuter
-
-
-
+20130	masculine
 masculine
-masculine
-
-20135	
-
-
-masculine
-20140	
-
+20138	masculine
 20143	masculine
-20145	
-neuter
+20146	neuter
 feminine
-20153	
-
 20156	masculine/feminine
-20158	
 20160	feminine
-20163	
-20165	neuter
+20163	masculine
+20165	feminine
 20167	masculine
 20170	feminine
-20172	
 20174	masculine
-20178	neuter
+20178	feminine
 20180	masculine
 20182	feminine
-20186	
-
+20188	feminine
 feminine
-feminine
-20191	
-feminine
+20192	feminine
 feminine
 20198	masculine
-
-20202	
-
-
 20206	feminine
 20208	feminine
-20210	
-masculine
+20211	masculine
 masculine
 20214	feminine
-20217	
-feminine
-20220	
-feminine
-20223	
-
-20226	
-20228	
+20218	feminine
+20221	feminine
+20224	masculine
 20232	masculine
-
-20235	
-feminine
-
+20236	feminine
 20239	masculine
-
 20242	masculine/feminine
 20244	feminine
 feminine
 feminine
-20248	
-neuter
-
+20249	neuter
 20255	feminine
-
+20257	neuter
 neuter
-neuter
-20261	
-
 20264	neuter
 masculine
-20267	
 20271	masculine
-
 20277	masculine
-
-masculine
+20279	masculine
 masculine
 20284	neuter
-20286	
-neuter
-
-
-20291	
-20294	
-
+20287	neuter
+20295	feminine
 feminine
 feminine
 20299	masculine
 masculine
-20303	
-20306	
-masculine
-
+20307	masculine
 20310	masculine
-20312	
-masculine
-20318	
+20313	masculine
+20318	masculine
 20320	masculine
 masculine
-20323	
 20327	neuter
-
-20332	
-
-masculine
-
-neuter
+20334	masculine
+20336	neuter
 masculine/feminine/neuter
 20339	masculine/feminine
-20344	
-
-feminine
+20344	masculine
+20346	feminine
 masculine/neuter
-20350	
-masculine/neuter
+20351	masculine/neuter
 feminine
-
-neuter
-
-
-
-20361	
-20363	neuter
-20366	
-20369	
-
-masculine
-
+20354	neuter
+20363	feminine
+20366	masculine
+20371	masculine
+20373	feminine
 feminine
-feminine
-20377	
-masculine
+20378	masculine
 20383	feminine
 feminine
-
 20388	feminine
-
-
-
 20393	feminine
-
-neuter
+20395	neuter
 feminine
 feminine
 feminine
 masculine/neuter
-20407	
-masculine
-
+20408	masculine
 20411	feminine
 20413	feminine
 20416	masculine/neuter
 20422	masculine/neuter
-
-feminine
-20426	
-feminine
-20429	
-
+20424	feminine
+20427	feminine
+20430	masculine
 masculine
-
-neuter
-
-feminine
+20433	neuter
+20435	feminine
 20437	masculine
-20439	
-
-20444	
-
-20447	
-
-
-
 20452	feminine
-20454	
 20457	neuter
 masculine
 masculine
 masculine
-
-20463	feminine
+20463	masculine
 20465	masculine
-20467	
-
-
-masculine/feminine
-
-masculine/feminine
-
+20470	masculine/feminine
+20472	masculine/feminine
 20477	masculine
-
-neuter
-
-neuter
-
-
-20486	
-20488	
-20491	
-20494	
+20479	neuter
+20481	neuter
 20496	neuter
-20499	
-
 20502	masculine
-
-
 20506	neuter
 masculine
-
 20511	feminine
 feminine
-
-neuter
-
-20517	
-20520	
+20514	neuter
 20522	feminine
-20524	
-20526	
 20529	masculine/feminine
 20531	masculine
-20533	
-20535	
-
-
-20540	
+20541	feminine
 feminine
-feminine
-
-neuter
+20544	neuter
 20549	masculine/feminine
-20551	
-
-masculine
-20556	
+20553	masculine
+20557	masculine
 masculine
 masculine
-
-
-20563	
-
-masculine
+20565	masculine
 20567	masculine
-
-
 20572	feminine
-
-neuter
-
-
-
-20579	
-
-
-20587	
+20574	neuter
 20589	feminine
-masculine
-masculine
+20591	masculine
 20593	feminine
 20595	feminine
-
 20598	feminine
-20602	
 20605	masculine/feminine
 20607	feminine
 masculine
-20610	
-20615	
 20617	feminine
 neuter
 neuter
 feminine
-
-
 20624	masculine
 20629	neuter
-20637	
-
 20640	neuter
 20642	masculine
 20645	masculine/feminine/neuter
 feminine
-
+20648	masculine
 masculine
-masculine
-
-neuter
-
+20651	neuter
+20653	feminine
+20655	feminine
 feminine
-
-feminine
-feminine
-20658	
-
-20661	
 20666	masculine/neuter
-20668	
-
-
-
-20674	
-20676	
 20678	neuter
 20682	feminine
-
 20685	neuter
-20688	
 20692	neuter
-20698	
-
-
-feminine
-
-20707	
+20701	feminine
 20710	masculine/neuter
 neuter
-20713	
-
-
-
-
-20720	
-
-20724	
-
-masculine
-
-
+20726	masculine
 20731	masculine
 20735	masculine/feminine/neuter
 feminine
-20738	
+20739	neuter
 neuter
-neuter
-
-
-20744	
-
-
-20753	
 20756	masculine/feminine
 neuter
-20760	
 20762	masculine
 20765	feminine
 feminine
-
-neuter
+20768	neuter
 masculine
-
-
-20773	
 20775	masculine
-
 20778	feminine
 feminine
 masculine
 20783	neuter
-
-
-20787	
-
+20787	masculine
+20789	neuter
+20791	feminine
 neuter
-
+20805	masculine
 feminine
-neuter
-20794	
-20799	
-20801	
-20805	feminine
-feminine
-20811	
-neuter
-20816	
+20812	feminine
 20823	neuter
 feminine
 feminine
 20827	feminine
 feminine
-20832	
-20834	
-20836	neuter
+20836	feminine
 20840	feminine
-
-20845	
-20848	
 20851	masculine
-20853	
 20855	masculine
-20858	
-
-
-20862	
-20865	
-
-20868	
-neuter
+20869	neuter
 masculine
-20872	
+20873	masculine
 masculine
-masculine
-
-neuter
-
-masculine/neuter
-
-
+20876	neuter
+20878	masculine/neuter
 20882	neuter
 masculine
-20886	
 20888	neuter
-
 20893	masculine/feminine
-
-
-feminine
+20896	feminine
 20900	neuter
-
-
-20904	
-neuter
-20907	
-20909	
+20905	neuter
 20915	feminine
-
-masculine
+20917	masculine
 feminine
-
-
 20922	feminine
-
-20925	
-20927	
-neuter
+20928	neuter
 20930	feminine
 feminine
 feminine
 20936	masculine
 masculine
 masculine/feminine
-
-20942	
-
-20945	
 20948	neuter
 20950	masculine
 neuter
 20953	neuter
-20955	
-
-20960	
-feminine
-20963	
-
-
-
+20961	feminine
 20968	feminine
-
-20973	
-
+20975	masculine
 masculine
 masculine
-masculine
-20980	
-20983	
-20987	
-20991	
-
-neuter
+20993	neuter
 21003	masculine/neuter
 21005	neuter
 neuter
@@ -12557,288 +6673,149 @@ neuter
 21009	neuter
 21011	neuter
 21013	feminine
-21017	
-neuter
+21018	neuter
 masculine
-21021	
-21023	
-21026	
+21027	feminine
 feminine
-feminine
-21030	
-
-21034	
-feminine
+21035	feminine
 masculine/feminine/neuter
 neuter
 21040	neuter
-
 21046	masculine
-21048	
 21050	neuter
-21053	
-
-21056	
-
-neuter
-
-
-21063	
+21058	neuter
 21066	masculine
 21069	neuter
 feminine
 masculine
 masculine
-
-
-21076	
-
-21079	
-21081	
-21083	
-
+21085	feminine
 feminine
-feminine
-
-neuter
+21088	neuter
 masculine
 masculine
-21093	
-masculine
+21094	masculine
 masculine/neuter
-
-masculine
-
-
-21102	
-21104	
-
-21111	
-
+21097	masculine
 21114	feminine
 21117	masculine
 feminine
 masculine
 21123	masculine
-21125	
 21129	neuter
-21131	
 21133	feminine
 masculine
-
 21138	masculine
-
-
-
-21143	
+masculine
+21144	feminine
 feminine
-feminine
-21147	
-21150	
-21152	
 21154	neuter
 21157	neuter
-21161	
 21163	masculine
 21165	feminine
-
-feminine
+21167	feminine
 21169	feminine
 neuter
 21172	feminine
 feminine
-
-feminine
+21175	feminine
 neuter
 21178	feminine
 neuter
 21182	masculine
 21185	feminine
-
-
-
+21187	masculine
 21190	neuter
 feminine
 feminine
 neuter
-
-
-masculine
+21196	masculine
 feminine
-
-
-
-neuter
-
-
 21205	neuter
-
-21208	
-masculine
+21209	masculine
 21212	feminine
 masculine
 neuter
-21217	
+21217	masculine
 21219	feminine
 feminine
-
-21226	
-21228	
-
-
-21234	
+21234	masculine
 masculine
 masculine
-21238	
-neuter
-21241	
-neuter
+21239	neuter
+21242	neuter
 21244	feminine
-
-
-
-
-
-masculine/feminine
+21250	masculine/feminine
 masculine
-
-feminine
+21253	feminine
 masculine
-21256	
-neuter
+21257	neuter
 masculine
 masculine
 neuter
 21264	neuter
-
-21267	
-masculine/feminine
+21268	masculine/feminine
 masculine
-
-21273	
 21277	feminine
 21280	feminine
 21282	feminine
 feminine
 masculine
-
-21287	
-21289	
-neuter
-21292	
-neuter
-
+21290	neuter
+21293	neuter
+feminine
 21296	feminine
 masculine
-21299	
 21301	feminine
 feminine
 feminine
-
-
-
-
-
-
-21311	
-masculine/feminine
-
-21316	
+21312	masculine/feminine
 21318	neuter
-21321	
-
-
-masculine
-
-
-feminine
-
+21324	masculine
+21327	feminine
 21330	neuter
 21335	masculine
 21337	masculine
-
 21341	neuter
-
-
-21345	
-
-neuter
-
-21350	
-
-neuter
+21345	feminine
+21347	neuter
+21352	neuter
 21354	neuter
-
-
-masculine
+21357	masculine
 21359	masculine
 21363	masculine
-21369	
-21372	
-
-21375	
 21381	feminine
-21384	
+21385	neuter
 neuter
-neuter
-
-21389	
 21391	neuter
-
-21394	
-
-21397	
-neuter
+21398	neuter
 21401	masculine
-21403	
-21406	
-neuter
+21407	neuter
 21414	neuter
-21416	
-21418	
 21420	neuter
-21422	
-21425	
-neuter
-
+21426	neuter
 21431	masculine
 21433	masculine
 21435	neuter
-
-
-
-21440	
-
+21440	masculine
 21443	neuter
-21445	
-
 21448	masculine
 feminine
-21451	
-
+21452	masculine
 feminine
-21456	
-neuter
+21457	neuter
 feminine
-
-21464	
 21468	masculine
-
-21473	
 21476	neuter
 21478	masculine/neuter
 neuter
 masculine
 masculine
 neuter
-21486	
-21488	
-
-masculine
+21490	masculine
 21492	masculine
 21496	masculine
-neuter
-neuter
+21498	neuter
 feminine
 21501	masculine/feminine
 feminine
@@ -12849,328 +6826,177 @@ neuter
 21508	feminine
 feminine
 feminine
-neuter
-masculine/neuter
-
-neuter
 feminine
-
+masculine/neuter
+21514	neuter
+feminine
 21519	masculine
 21521	masculine
 masculine
 21524	feminine
 21531	masculine
-21535	
-
-feminine
+21537	feminine
 feminine
 neuter
 21542	masculine/feminine
-21545	
-neuter
-21548	
-neuter
+21546	neuter
+21549	neuter
 masculine
 masculine
-
-
-21555	
-21557	
-masculine
-
-
+21558	masculine
 21562	neuter
-21564	
 21567	neuter
-21569	
-
-feminine
+21571	feminine
 neuter
-21574	
-21576	
-
+21578	feminine
+21581	masculine
+21585	feminine
 feminine
-21580	
-masculine
-
-
-
-feminine
-feminine
-21590	neuter
+21590	feminine
 21592	feminine
 neuter
 masculine
-
+21596	feminine
 feminine
-feminine
-
 21600	masculine
-
 21603	feminine
-21605	
-21607	
-21611	
-neuter
+21612	neuter
 feminine
 feminine
-
-feminine
+21616	feminine
 21620	neuter
-
-21624	
-masculine
-
-masculine
+21625	masculine
+21627	masculine
 21629	neuter
 masculine
 21632	masculine
 feminine
 masculine
-
 21638	masculine
-
 21643	masculine
-
 21646	feminine
-21648	
-neuter
+21649	neuter
 21651	masculine
-
-
-feminine
-
-
-
-
-
-21663	
+21654	feminine
+21657	masculine
 21665	masculine
-
-feminine
+21667	feminine
 21670	feminine
 masculine
-21673	
-21675	
-21677	
-feminine
-
-feminine
-
-neuter
+21678	feminine
+21680	feminine
+21682	neuter
 neuter
 masculine
-21687	
-
 21690	neuter
 feminine
-
-21694	
-masculine
-21699	
-masculine
+21695	masculine
+21700	masculine
 21702	masculine
 masculine
 21705	neuter
-21709	
-neuter
-21712	
-
+21710	neuter
+21714	masculine
 masculine
-masculine
-21718	
-masculine
-21721	neuter
-21723	
+21719	masculine
+21721	feminine
+21724	feminine
 feminine
-feminine
-
-neuter
-
-21730	
-
-feminine
-21734	
-21736	
-
-
-
-masculine
+21727	neuter
+21732	feminine
+21740	masculine
 feminine
 masculine
-
 21745	masculine
-21747	
-neuter
-
+21748	neuter
 21751	masculine
-21753	
 21756	masculine
-21758	
-
 21761	masculine
-21763	
-21765	
-masculine
-neuter
+21766	masculine
+feminine
 21771	masculine/feminine/neuter
-
 21774	neuter
-
-21778	
 21780	masculine
 masculine
-
-21784	
-
-21787	
-21791	
-21793	
-feminine
+21794	feminine
 21798	neuter
-21802	
-21804	
 21806	masculine
 21811	masculine
 masculine
-21814	
-masculine/feminine
+21815	masculine/feminine
 21817	neuter
-21822	
-neuter
+21823	neuter
 feminine
-21827	
-neuter
+21828	neuter
 21830	masculine
 21832	feminine
-
-
 21838	neuter
 masculine
-
 21843	neuter
-21846	
 21849	masculine/neuter
 21851	feminine
 21855	feminine
 21860	feminine
-
-
 21866	masculine/neuter
 masculine
 21869	masculine
-
-
 21873	masculine
 21875	masculine
 masculine
-21879	
-
-21884	
-masculine
-21888	
-
-
+21885	masculine
+21890	masculine
 21893	feminine
 masculine
 21896	feminine
-
-
-feminine
+21899	feminine
 21901	neuter
 21903	feminine
-21905	
 21908	masculine
-
 21912	feminine
-
-
-
+masculine
 21920	feminine
-
-
-
-
-21926	
-feminine
+21927	feminine
 21930	masculine
-
 21936	masculine
 masculine
-neuter
-21940	
+feminine
 21943	masculine
-
-21946	
-21949	
-
+21949	masculine
+21951	masculine
 masculine
-masculine
-21954	
-
 21958	neuter
-21963	
-
-masculine
-21967	
+21965	masculine
 21970	neuter
-
-feminine
-21976	
+21972	feminine
 21980	neuter
-21983	
-feminine
+21984	feminine
 21988	masculine
 masculine
 neuter
-21993	
 21996	neuter
-22000	
-neuter
+22001	neuter
 masculine
 22004	masculine
 22011	neuter
 masculine
 feminine
-
 22016	feminine
-22019	
-neuter
+22020	neuter
 22025	masculine
-
-masculine/feminine
-22030	
-neuter
-
+22027	masculine/feminine
+22031	neuter
 22034	masculine
 22037	masculine
-22041	feminine
-22043	
-22045	
-
-
-22049	
-masculine/feminine
+22041	masculine
+22050	masculine/feminine
 22053	masculine
-22055	
-22059	
 22062	feminine
-
-feminine
+22064	feminine
 masculine/neuter
 masculine
-
-
-22070	
 22072	masculine
-22074	
-22078	
-22081	
-
-
 22085	masculine
 masculine
-22089	
 22092	feminine
 masculine
 neuter
@@ -13179,385 +7005,198 @@ feminine
 masculine
 masculine
 neuter
-
-
-masculine/feminine
+22105	masculine/feminine
 22107	masculine
 22110	neuter
 feminine
 22113	masculine
-22115	
-22117	
-22119	
 22122	feminine
 22124	neuter
 neuter
 masculine
 masculine
-22129	
-
-neuter
-
-neuter
+22131	neuter
+22133	neuter
 22137	masculine/neuter
 neuter
 22142	feminine
 22146	neuter
 22148	masculine
-22150	
-neuter
+22151	neuter
 masculine
-
-22155	
-
 22159	masculine/neuter
 22163	feminine
-22165	
-neuter
+22166	neuter
 22169	neuter
 neuter
-
-
-
-
 22176	neuter
 feminine
 feminine
-
-
-22182	
-feminine
+22180	masculine
+22183	feminine
 22185	feminine
 22192	feminine
-
-
-22197	
-22199	
-22203	
 22205	feminine
-
 22208	neuter
 22212	feminine
-22214	masculine/neuter
-22216	
-22221	
+22214	feminine
 22223	feminine
-22227	
+22228	feminine
 feminine
-feminine
-22231	
-masculine
+22232	masculine
 22238	masculine
-
+masculine
 22242	masculine
 neuter
-22245	
-22249	
-
-22252	
-22255	
-22257	
+22255	masculine
 22261	masculine
 neuter
-
-
 22266	masculine
 22269	feminine
-22271	
-22274	
-
 22277	masculine
-22281	
 22283	feminine
 22285	masculine
-22288	
-
-
-
 22293	masculine
 22296	neuter
-
 22305	masculine
-
 22308	masculine
 22313	masculine
-22317	
 22319	masculine
 masculine
-22322	
 22326	neuter
 22333	masculine
-22335	
+22335	masculine
 22338	neuter
-22340	
-neuter
-
-
-
-masculine
-
-22351	
+22341	neuter
+22345	masculine
 22356	masculine
-22359	masculine
-
-
-
-neuter
-
-
-22367	
-
-22370	
-22372	
-neuter
+22363	neuter
+22373	neuter
 feminine
 feminine
 22377	masculine
 masculine
-
 22381	feminine
-
-
-22388	
-neuter
-
-
-22393	
-22396	
-feminine
+22389	neuter
+22393	masculine
+22397	feminine
 22399	feminine
-22402	
-
-22407	
-22411	
-
-22416	
-
-
-feminine
-
-
-feminine
-
-
-22426	
-22428	
+22407	masculine
+22419	feminine
+22422	feminine
 22431	masculine
-22433	
-22435	
-22437	
-
-
 22441	neuter
-22445	
-
-neuter
-
-masculine
+22447	neuter
+22449	masculine
 22453	masculine
-22456	
-feminine
+22457	feminine
 masculine
-22460	
-masculine
+22461	masculine
 22464	masculine/feminine
 feminine
 masculine/neuter
 neuter
-
-
 22474	masculine/neuter
 22477	masculine
 22482	masculine
-
+22484	masculine
 masculine
-masculine
-22487	
+22488	feminine
 feminine
-feminine
-
-masculine/neuter
+22491	masculine/neuter
 22495	feminine
 feminine
 22499	feminine
 masculine
 masculine
-22503	
-masculine/neuter
-22506	
-feminine
+22504	masculine/neuter
+22507	feminine
 22509	neuter
-
 22515	masculine/neuter
 22517	masculine
-22519	
 22521	masculine
 22524	masculine
 masculine
 feminine
 neuter
-
-
+22530	masculine
 masculine
-masculine
-
-
 22536	feminine
 feminine
-
-
 22541	masculine/neuter
 22544	masculine
-22546	
-neuter
+22547	neuter
 masculine
-
-masculine
-
+22550	masculine
+22552	feminine
 feminine
-feminine
-22555	
-22557	
 22559	masculine
 masculine
-22564	
-feminine
+22565	feminine
 22567	feminine
 neuter
-22570	
 22572	masculine/neuter
-
 22578	feminine
 22580	feminine
-22584	
-neuter
-
+22585	neuter
 22589	feminine
 feminine
-22592	
-neuter
+22593	neuter
 masculine
-
-22598	
-neuter
-
+22599	neuter
 22603	feminine
-
-masculine
-22607	
-
-22611	
-22615	
+22605	masculine
 22617	masculine
 masculine/feminine/neuter
-22620	
-22622	
-22626	
-masculine
-
-22630	
-feminine
-
-
-feminine
+22627	masculine
+22631	feminine
+22634	feminine
 22636	masculine
 22638	masculine
 masculine
 masculine
-
-masculine/neuter
-22645	
-22648	
-
+22642	masculine/neuter
+22650	feminine
+22653	feminine
+22658	neuter
+22660	feminine
 feminine
-
-
-feminine
-22657	
-neuter
-
-feminine
-feminine
-
 22665	neuter
 feminine
 feminine
-
-masculine
-22674	
+22669	masculine
+22675	neuter
+22677	masculine
+22685	feminine
 neuter
-
-masculine
-22680	
-22684	
-feminine
-neuter
-
 22689	masculine
 masculine
-
-22693	
-neuter
-
-
-feminine
+22694	neuter
+22697	feminine
 neuter
 22700	neuter
 masculine
 22704	masculine
-
-
-
-22709	
-
-
-
 22714	masculine
 masculine
 neuter
-22718	
-22720	
-neuter
-22725	
-
-
-
-
-masculine
+22721	neuter
+22730	neuter
 22733	neuter
-
-22737	
-masculine
-22740	
-
-
-
-neuter
-
+22738	masculine
+22744	neuter
 22747	feminine
-22749	
 22751	feminine
-22753	
-22756	
 22758	masculine
 neuter
-22761	
-22763	
-22765	
-
-feminine
+22767	feminine
 neuter
-22770	
-22773	
-22775	
 22777	feminine
 feminine
 feminine
 masculine
 22782	masculine
-
-
-feminine
+22785	feminine
 feminine
 feminine
 feminine
@@ -13571,85 +7210,48 @@ feminine
 feminine
 neuter
 neuter
-
-
-22805	
-22810	
-
-
-neuter
+22813	neuter
 neuter
 masculine
 masculine
-22818	
-feminine
+22819	feminine
 neuter
-22824	
-22826	
-22828	
+22828	masculine
 feminine
-22831	
-neuter
+22832	neuter
 masculine
 22839	masculine/feminine
 feminine
-
 22845	neuter
 feminine
-22849	
-22852	
-neuter
-22857	
+22853	neuter
 22859	neuter
-
-
 22863	feminine
-22866	
 22869	neuter
 22871	neuter
-22873	
 22876	neuter
 22880	feminine
-
-22885	
-feminine
-22888	
-22890	
-neuter
-
-masculine
+22886	feminine
+22891	neuter
+22893	masculine
 22895	neuter
-22897	
 22899	masculine
 masculine/neuter
-
-feminine
+22902	feminine
 22904	feminine
 neuter
-22907	
 22909	feminine
-22913	
-
-
 22917	feminine
-
 22920	neuter
 22922	feminine
-
-22927	
 22929	neuter
 masculine
-
-22933	
 22936	neuter
 22938	masculine
-22941	
-feminine
+22942	feminine
 masculine/feminine/neuter
 masculine
-
-neuter
-22948	
+22946	feminine
 22950	feminine
 22952	feminine
 feminine
@@ -13661,292 +7263,142 @@ masculine/neuter
 neuter
 neuter
 22963	neuter
-22965	
-22967	
-
-neuter
+22969	neuter
 22971	feminine
-22975	
-
-
 22979	masculine
-
 22983	neuter
-
-neuter
+22985	neuter
 22987	neuter
-22989	
-
 22992	feminine
 neuter
-22995	
-
-23001	
-neuter
+23002	neuter
 23004	masculine
-23008	
-neuter
+23009	neuter
 feminine
 feminine
-23013	
+23013	masculine
 23015	masculine
 23018	feminine
 neuter
-23022	
-23024	
-neuter
-
-23028	
-masculine
+23022	masculine
+23025	neuter
+23029	masculine
 23031	neuter
-
-23034	
+23034	masculine
 masculine
-
-23038	
 23040	masculine
 masculine
 masculine
-
-23047	
-23050	
-23052	
 23055	feminine
-23058	
 23061	masculine
-
-neuter
+23063	neuter
 masculine
 23067	masculine
-
-neuter
-
-
-23074	
-neuter
+23069	neuter
+23075	neuter
 feminine
-
-
-23081	
-masculine/neuter
+23082	masculine/neuter
 neuter
 masculine
 23086	masculine
-
 23089	masculine/feminine
-
 23092	neuter
-23094	
-
-masculine
-23098	
-neuter
-
-
-
-23104	
-neuter
+23096	masculine
+23099	neuter
+23105	neuter
 masculine
 masculine
 neuter
-
-neuter
-23112	
-masculine/feminine
-23115	
-masculine
+23113	masculine/feminine
+23116	masculine
 23118	feminine
 23122	masculine
-
 23125	masculine
-23127	
-feminine
-23130	
-
-
-
-
+23128	feminine
 23136	feminine
 23138	feminine
 23140	feminine
-23142	
-
-23145	
 23147	feminine
 neuter
-
-23153	
-
 23158	feminine
-23160	
-feminine
-
+23161	feminine
 23164	feminine
-23167	
-23171	
 23174	feminine
-23176	
-23178	
-23181	
 23183	masculine
-
-
-
-23189	
-feminine
+masculine
+23190	feminine
 masculine/neuter
 neuter
-
-
-neuter
+23195	neuter
 neuter
 23198	masculine
-
-masculine
-23203	
+23200	masculine
 23205	neuter
 23208	neuter
-23210	
-
-
 23216	masculine
-
 23219	neuter
-
-neuter
+23221	neuter
 feminine
 feminine
-23225	
 23227	feminine
-
-
-
-23232	
-feminine
-
-23240	
-
-
-23244	
-masculine
-
-23250	
-masculine
+23233	feminine
+23245	masculine
+23251	masculine
 neuter
-23254	
-
 23257	neuter
-
-
-23262	
-neuter
+23263	neuter
 masculine
-
-
-
 23270	feminine
-23280	
-23282	
-masculine/neuter
-23286	
+23283	masculine/neuter
+23287	neuter
 neuter
-neuter
-
-
-23292	
-
-23295	
-feminine
-
-23299	
+23296	masculine
 23301	feminine
 feminine
-23305	
-
-23310	
-
-23313	
-
-
 23319	feminine
-
 23323	masculine
 23326	masculine/feminine
-
-masculine/neuter
+23328	masculine/neuter
 neuter
 feminine
-
 23333	feminine
-
 23337	feminine
-23341	
 23343	masculine/neuter
 feminine
-23346	
-neuter
-23349	
-masculine
-23352	
+23347	neuter
+23350	masculine
 23354	masculine
 masculine/neuter
 neuter
 neuter
-23359	
-23361	
-neuter
-
-23368	
-
-
-23372	
-23374	
-23376	
-
-neuter
+23362	neuter
+23378	neuter
 23380	neuter
-
-feminine
+23382	feminine
 feminine
 neuter
-23387	
-neuter
-23391	
-
-
+23388	neuter
 23395	feminine
-
-
-neuter
-
-masculine
+23398	neuter
+23400	masculine
 23404	feminine
 feminine
-
 23409	neuter
 23417	masculine
-23419	
-23421	
 23423	neuter
 masculine
-
-
-23429	
 masculine
-
-masculine
+23430	masculine
+23432	masculine
 masculine
 23435	masculine
 masculine
 neuter
-
-feminine
+23439	feminine
 feminine
 feminine
 23443	masculine/feminine/neuter
-23445	
-
-masculine
+23447	masculine
 23450	masculine
 neuter
 masculine
@@ -13956,1250 +7408,652 @@ neuter
 masculine
 feminine
 23460	masculine
-23462	
-neuter
+23463	neuter
 masculine
-
-masculine
-23470	
-masculine/feminine
-
-23474	
-masculine
+23466	masculine
+23471	masculine/feminine
+23475	masculine
 feminine
 masculine
 23484	neuter
-23486	
-23488	
+23489	masculine
 masculine
+23492	neuter
+23495	masculine
 masculine
-
-neuter
-23494	
+23499	neuter
+23504	neuter
 masculine
-masculine
-23498	
-neuter
-
-23502	
-
-neuter
-masculine
-
-23509	
-
-23513	
+23514	feminine
 feminine
-feminine
-23518	
-
-feminine
+23520	feminine
 feminine
 23523	feminine
 masculine
 23526	feminine
 masculine
-23531	
-
-feminine
+23533	feminine
 23536	feminine
 23542	masculine
 masculine
-23545	
-
-neuter
+23547	neuter
 masculine
-23550	
 23552	masculine
 23554	masculine
 neuter
-
+23557	masculine
+23562	masculine
 masculine
-23559	
-
-
-masculine
-masculine
-
-
-
-neuter
-
-neuter
-
-neuter
+23567	neuter
+23569	neuter
+23571	neuter
 feminine
 feminine
 masculine
 23578	masculine/feminine
 23580	feminine
 neuter
-
-neuter
-
-masculine/feminine
-
-
-masculine
-23590	
+23583	neuter
+23585	masculine/feminine
+23588	masculine
 23593	masculine/feminine/neuter
 23596	neuter
 23602	masculine
-
 23605	neuter
 neuter
-
-
-23612	
-
 23615	neuter
 neuter
 23618	masculine/neuter
-23620	
-23622	
 23624	neuter
-23626	
-23628	
 23631	neuter
 23635	neuter
 neuter
 neuter
-23643	
-neuter
+23644	neuter
 23647	masculine
-
-23653	
-
-
-feminine
-
-
+23656	feminine
 23663	masculine
 masculine
-
-feminine
-
-23670	
-
-
-feminine
-
+23666	feminine
+23673	feminine
 23676	neuter
-
-feminine
+23678	feminine
 masculine
 feminine
 feminine
-23683	
-neuter
+23684	neuter
 feminine
-
-
-
-
-
 23692	feminine
-23695	
-masculine
-23698	
-
-
-
+23696	masculine
+23699	masculine
 23703	feminine
-
-neuter
+23705	neuter
 feminine
-
-feminine
+23708	feminine
 masculine
-
-feminine
-23713	
-masculine
+23711	feminine
+23714	masculine
 masculine
 23717	masculine
 23722	masculine
-23724	
-23726	
-masculine
+23727	masculine
 masculine
 23730	masculine
-
 23734	neuter
 neuter
 23737	neuter
 23739	neuter
 23741	masculine
 neuter
+23744	feminine
 masculine
-feminine
-masculine
-
 23748	feminine
-
-masculine
+23750	masculine
 23755	neuter
 feminine
 masculine/feminine
 masculine
-23760	
-23762	
+23763	masculine
+23766	masculine
 masculine
-23765	
-masculine
-masculine
-
-
-masculine
+23770	masculine
 23772	neuter
 23774	masculine/feminine
-23779	
-feminine
-
+23780	feminine
 23784	masculine
 23787	feminine
-23789	
 23792	neuter
-
-
 23800	feminine
 neuter
-23804	
-
 23810	masculine
 masculine
 masculine
 masculine
-23815	
-neuter
-23818	
+23816	neuter
 23821	neuter
-
-
 23826	neuter
 23828	neuter
 masculine
-
-neuter
-
-
-masculine
-
-neuter
-
+23831	neuter
+23834	masculine
+23836	neuter
 23839	neuter
-
-
-
-masculine
+23843	masculine
 23845	masculine
 masculine
-
-feminine
-
-masculine
-
+23848	feminine
+23850	masculine
 23859	neuter
-23862	
-masculine
-23866	
+23863	masculine
 23868	masculine
-
-masculine/neuter
+23870	masculine/neuter
 masculine
 masculine
-
-masculine/feminine
-
+23874	masculine/feminine
 23877	neuter
 masculine
 23881	neuter
 feminine
 23885	neuter
-
-masculine
-23889	
-23891	
-23894	
-feminine
-
-feminine
-
-23901	
-
-
-
+23887	masculine
+23895	feminine
+23897	feminine
 23906	feminine
-
-23909	
-neuter
+23910	neuter
 feminine
-
 23917	masculine
 23921	masculine
-
-23925	
 23928	masculine
-23933	
+23933	masculine
 23935	masculine
-23945	
 23947	neuter
-23952	
-neuter
+23953	neuter
 masculine
-
-
-
 23962	masculine
-23964	
-neuter
+23965	neuter
 23967	masculine/feminine
 23970	masculine
-23972	
-
-23976	
-23978	
 23980	masculine
-23984	
 23986	feminine
-
-
-23990	
-23992	
-
-masculine
-23996	
-neuter
-
-
-feminine
-24002	
-masculine
+23994	masculine
+23997	neuter
+24000	feminine
+24002	masculine
 24005	feminine
-
-
-masculine
-
-feminine
-
+24007	masculine
+24010	feminine
 24021	masculine
-24025	
-
+24025	masculine
 24029	neuter
-
 24032	feminine
-24036	
 24039	neuter
 masculine
-24043	
-24045	
-neuter
+24046	neuter
 masculine
-24049	
-
-24055	
-24058	
-24060	
-24062	
-
-24066	
-neuter
-
-masculine
+24067	neuter
+24069	masculine
 masculine/feminine
 masculine
 24073	masculine/feminine
 masculine
 24076	masculine
-
+24078	neuter
+24082	masculine
 neuter
-24080	
-
-masculine
-neuter
-
-
-
-
-masculine
-24090	
-neuter
-
-
-
-masculine
-
-feminine
+24086	masculine
+24088	masculine
+24091	neuter
+24095	masculine
+24097	feminine
 masculine
 24100	masculine
 masculine
-
-
-24105	
-
-24108	
 24110	masculine
 masculine
 24113	masculine/feminine
 24115	masculine
-24117	
-
-
-
-
-neuter
-24125	
-
-24129	
+24122	neuter
 24131	feminine
-
-
 24137	masculine
-24141	
-
 24144	masculine
 24146	masculine
-
 24150	neuter
-
-24154	
 24157	neuter
-
 24160	masculine
 masculine
 neuter
 24164	masculine
-
-24167	
-24169	
-24171	
-24174	
-neuter
-24179	
+24175	neuter
 24181	masculine
-24183	
-masculine
-
-
-24189	
-neuter
+24184	masculine
+24190	feminine
 24192	feminine
-24194	
-24196	
-masculine/feminine
+24197	masculine/feminine
 24202	masculine
 neuter
-24205	
-neuter
-
+24206	neuter
+24208	masculine
 masculine
-masculine
-
-feminine
-24213	
-feminine
+24211	feminine
+24214	feminine
 feminine
 24217	masculine/neuter
-24221	
-
-feminine
-
-masculine
-24227	
-24233	
-masculine
-
-
+24223	feminine
+24225	masculine
+24234	masculine
 24238	masculine
-
-
-feminine
+24241	feminine
 24245	neuter
-
-
-masculine
+24248	masculine
 24250	masculine
-24252	
-24256	
-
-
-masculine
+24259	masculine
 masculine/feminine
 24263	masculine
 24266	feminine
-24268	
-neuter
-
-masculine/feminine
-
-masculine
+24269	neuter
+24271	masculine/feminine
+24273	masculine
 24282	feminine
 neuter
-24286	
-
-neuter
+24288	neuter
 24290	masculine
-24292	
-neuter
-24295	
-
-feminine
+24293	neuter
+24297	feminine
 masculine
 neuter
-
-
-
 24304	masculine
 masculine
-24309	
-masculine
-24312	
-masculine
-24315	
+24310	masculine
+24313	masculine
 24317	neuter
 24320	neuter
 masculine
 masculine
-24324	
+24325	neuter
+24330	neuter
 neuter
-
-
-24329	
-neuter
-neuter
-24333	
-
-masculine/feminine
-24339	
-
+24335	masculine/feminine
 24342	masculine/feminine
 masculine
 24345	masculine
-
-
-
-24354	
-24356	
-
+24347	feminine
 24359	masculine
-24361	
-neuter
-
-24367	
+24362	neuter
 24370	feminine
-
-feminine
-24376	
-
-feminine
-
-24381	
-24383	
-masculine
-
-feminine
-
-
-
-
-masculine
-
+24372	feminine
+24378	feminine
+24384	masculine
+24386	feminine
+24391	masculine
 24395	neuter
 masculine
-24398	
-
-neuter
+24400	neuter
 feminine
 feminine
 24404	feminine
-
-neuter
+24406	neuter
 24408	neuter
-
-
-
-24414	
+masculine
 24417	neuter
-24420	
 24422	feminine
 masculine
 masculine
-
-
-feminine
-24429	
-masculine
+24427	feminine
+24430	masculine
 24432	neuter
-24434	
-neuter
-24437	
+24435	neuter
 24439	feminine
-
-feminine
+24441	feminine
 24443	feminine
 neuter
-24446	
 24448	feminine
-
 24453	neuter
 24455	masculine
 masculine
-24458	
-
-
-masculine
+24461	masculine
 24463	neuter
-24465	
-24467	
 24469	feminine
 neuter
-
 24475	neuter
-24477	
 24479	feminine
 24481	masculine
 masculine
-24484	
-
-
-
 24489	neuter
-
 24492	neuter
-24494	
 24496	feminine
-
-neuter
-
+24498	neuter
 24502	neuter
-24504	
 24506	feminine
 24508	masculine
 24510	neuter
-
-
-24516	
-24521	
-neuter
+24522	neuter
 24524	masculine/feminine
 masculine
 24528	masculine/feminine
 masculine/feminine
 feminine
-
-
-24534	
-
-
+24537	neuter
 neuter
-neuter
-24540	
-
-neuter
+24542	neuter
 masculine
-24545	
-24547	
-neuter
+24548	neuter
 neuter
 24551	feminine
-24553	
-
-masculine
-24559	
-24563	
+24555	masculine
 24568	masculine
-24571	
-24573	
 24575	feminine
-24577	
 24580	masculine
-24582	
-
+24584	neuter
 neuter
-neuter
-
 24588	masculine
 masculine
-24591	
 24593	masculine
-24596	
-24598	
-masculine
+24599	masculine
 24601	masculine
-
-neuter
+24603	neuter
 24606	feminine
 feminine
-24609	
-24613	
-24617	
 24619	masculine
-
-24624	
 24628	neuter
 24634	masculine
-24636	
-
-24641	
-24643	
-feminine
+24644	feminine
 24646	masculine
 24648	masculine
 24652	masculine
-24655	
 24657	feminine
 24659	masculine
 masculine
-
-24663	
-24666	
-neuter
-24669	
-
+24667	neuter
 24673	neuter
-24675	
-
-
 24681	masculine
 24683	feminine
-24685	
-24687	
-24689	
-masculine
-
+24690	masculine
+24692	neuter
 neuter
-neuter
-
-neuter
-
-masculine
+24695	neuter
+24697	masculine
 24699	masculine
-
-neuter
+24701	neuter
 masculine
 24704	masculine
 masculine
-
-24708	
-neuter
-
-neuter
+24709	neuter
+24711	neuter
 neuter
 24716	masculine
-
-feminine
+24718	feminine
 feminine
 24721	masculine
 24723	feminine
 feminine
-
-neuter
+24726	neuter
 feminine
-
-
-24731	
-masculine
-
+24732	masculine
 24735	feminine
-
-neuter
-
-neuter
-
-masculine
-
-
+24737	neuter
+24739	neuter
+24741	masculine
 24746	masculine
 feminine
-
-
-feminine
+24750	feminine
 feminine
 24753	feminine
 masculine
 masculine/neuter
 neuter
-
-masculine
+24758	masculine
 24760	masculine
-24762	
 24768	neuter
-
-
-feminine
+24771	feminine
 masculine
-
-masculine
+24774	masculine
 24776	masculine
-
+24778	neuter
 neuter
-neuter
-24781	
-neuter
-24785	
-masculine
+24782	neuter
+24786	masculine
 masculine
 masculine
 24790	feminine
 feminine
-
-
+24793	feminine
 feminine
-
 feminine
-
-24799	
-24801	
-24803	
-24806	
+feminine
+feminine
+24799	feminine
+24801	feminine
 24810	masculine
 24813	neuter
 24815	feminine
 masculine
-
-
 24820	masculine
 masculine
 24823	masculine
-
-neuter
-
-24829	
-neuter
-
-
-
-
-feminine
-
-masculine
+24825	neuter
+24830	neuter
+24835	feminine
+24837	masculine
 24841	masculine/feminine/neuter
-24843	
-24845	
-24849	
 24851	masculine
-24853	
-
-
-
-
-24859	
-24861	
 24863	feminine
 masculine
 24866	masculine
 masculine
-
 24870	feminine
 neuter
-
-
+24873	masculine/feminine
 masculine
 neuter
-24878	
 24880	feminine
-
-neuter
+24882	neuter
 24884	masculine
 24886	masculine
-
-
-24890	
-neuter
+24891	neuter
 masculine
 24894	masculine
-24896	
-
-neuter
-24900	
-masculine/feminine
-24903	
+24898	neuter
+24901	masculine/feminine
 24905	feminine
-
-neuter
-24909	masculine
-24912	neuter
+24907	neuter
+24912	feminine
 24914	feminine
-24918	
-neuter
-
+24919	neuter
 24922	feminine
-
-neuter
+24924	neuter
 24926	masculine
-24928	
+24928	masculine
 24930	masculine
 24933	masculine
 masculine/feminine
 masculine
-24937	
-neuter
+24938	neuter
 masculine
 masculine
-
-
 24944	masculine/feminine
-24946	
-
-neuter
+24948	neuter
 masculine
 24951	neuter
-
-
-neuter
-
-
-masculine
+24954	neuter
+24957	masculine
 masculine
 neuter
-
-24962	
-masculine
-24966	
+24963	masculine
 24968	masculine
 masculine
 feminine
-
-
-24976	
-feminine
-
-24980	
-feminine
-
-24984	
-24986	
-24988	
+24977	feminine
+24981	feminine
 24991	masculine/neuter
-24994	
 24996	masculine
 masculine
-
-masculine/feminine
-25001	
-
-masculine
+24999	masculine/feminine
+25003	masculine
 neuter
 feminine
 25009	feminine
-25016	
-25019	
-
-25022	
 25024	feminine
 masculine
 25029	masculine
-
 25032	masculine
-
-masculine
-
-25037	
-
-masculine
-25041	
-25044	
-masculine
+25034	masculine
+25039	masculine
+25045	masculine
 25047	masculine
 masculine
-25050	
-masculine
+25051	masculine
 25059	feminine
-
-neuter
-
-neuter
+25061	neuter
+25063	neuter
 masculine
 neuter
-25067	
-
-
-
 25073	masculine
 masculine
-
-feminine
-25084	
-25086	
-25088	
-25093	
-neuter
-25096	
-neuter
-25099	
+25076	feminine
+25094	neuter
+25097	neuter
 25102	masculine/neuter
-25104	
-
-feminine
-
-masculine
-
-neuter
+25106	feminine
+25108	masculine
+25110	neuter
 25113	masculine
 masculine
-
 25117	masculine
 neuter
-25120	
-
+25122	masculine
 masculine
-masculine
-25125	
 25127	masculine/feminine
 masculine
-25130	
+25131	neuter
 neuter
-neuter
-
-25135	
-
-masculine
-25139	
-neuter
+25137	masculine
+25140	neuter
 25142	masculine/feminine
-
-masculine
-
-
-feminine
+25144	masculine
+25147	feminine
 25149	masculine
-
-feminine
-25153	
-
-feminine
-
-masculine
+25151	feminine
+25155	feminine
+25157	masculine
 25159	masculine
-
-neuter
-
-
-neuter
-
-
-25169	
-masculine
-
-
-
+25161	neuter
+25164	neuter
+25170	masculine
 25176	masculine
-
 25180	masculine
-25182	
-neuter
-
-masculine
+25183	neuter
+25185	masculine
 25187	masculine
-
-neuter
-25191	
-masculine
-
-
-
+25189	neuter
+25192	masculine
 25199	masculine
-
-25205	
-
-feminine
+25207	feminine
 masculine
-
-
-25212	
 25214	neuter
 25219	masculine
 25221	masculine
 feminine
-
-25225	
 25228	masculine
 25232	masculine
 masculine
-
-neuter
-
-
-masculine
+25235	neuter
+25238	masculine
 masculine
 25241	feminine
-25243	
-neuter
+25244	neuter
 25246	masculine
 masculine
 neuter
 masculine/neuter
 neuter
-
-25255	
-
-25259	
-
-25263	
-
 25266	feminine
-25270	
-
-
-
 25275	masculine
 25278	masculine
 25281	masculine
 masculine
-
-feminine
-
-
-
-
-
+25284	feminine
 25293	neuter
 neuter
 25297	feminine
 masculine
-25300	
 25302	masculine
 masculine/neuter
 neuter
-
 25308	feminine
 masculine/neuter
 neuter
-25312	
-
-masculine
+25314	masculine
 masculine
 masculine/feminine/neuter
-25319	
-25321	
 25323	masculine
-25325	
-
+25327	masculine
 masculine
-masculine
-25331	
-25334	
-masculine
+25335	masculine
 25337	masculine
 masculine
-25341	
-neuter
-25344	
-
-masculine
-25349	
-
-masculine
+25342	neuter
+25346	masculine
+25349	masculine
+25351	masculine
 25353	masculine
-25356	
+25357	masculine
 masculine
-masculine
-
-
 25363	masculine/neuter
 25365	neuter
 masculine
 neuter
-
-
-
-
-masculine
+25372	masculine
 25374	masculine
 25377	neuter
 masculine
-
-25384	
-neuter
+25385	neuter
 masculine
 masculine
-
-neuter
-
-25392	
-masculine
-25396	
-neuter
-25399	
-
+25389	neuter
+25393	masculine
+25397	neuter
 25402	masculine
 masculine
-
-neuter
-
+25405	neuter
+25407	feminine
 feminine
-feminine
-
-
-
-25413	
+25413	masculine
 25417	neuter
-
-
+25420	masculine
 masculine
-masculine
-
-25424	
-25426	
 25429	feminine
 25432	masculine
 masculine/neuter
 feminine
-
 25437	feminine
 masculine/neuter
 neuter
-25441	
-neuter
-
-
+25442	neuter
 25449	feminine
-25451	
+25451	masculine
 masculine
-
 25457	neuter
 25459	neuter
 25462	feminine
-25464	
-25467	
 25469	masculine
 masculine/feminine
-
-
-neuter
-
-25476	
-masculine
+25473	neuter
+25477	masculine
 masculine
 neuter
 feminine
-
-25483	
-25485	
-25489	
-25491	
+25483	masculine
 25493	neuter
 25495	feminine
-
-
-
-feminine
-25501	
-25504	
-feminine
-
-25508	
+25499	feminine
+25505	feminine
+25509	neuter
 neuter
-neuter
-
-masculine
+25512	masculine
 25515	masculine
-25517	
-neuter
-25520	
+25518	neuter
+25521	masculine
 masculine
-masculine
-25524	
 25527	masculine/neuter
 25534	masculine/neuter
 neuter
@@ -15208,205 +8062,105 @@ neuter
 25545	neuter
 25547	neuter
 neuter
-
 25551	masculine
-
-25556	
-feminine
+25557	feminine
 feminine
 25560	masculine
 25563	masculine
-25565	
 25568	masculine
-25570	
 25572	masculine
 25574	feminine
 25576	feminine
-
 25579	feminine
-25582	
 25585	masculine
-
-
-25589	
 25591	neuter
 25594	masculine
 25596	neuter
 25599	feminine
-
-
-feminine
-
-feminine
+25602	feminine
+25604	feminine
 feminine
 masculine
-
-
-
-neuter
-
-feminine
+25610	neuter
+25612	feminine
 25615	masculine
 feminine
-
-
+25619	feminine
 feminine
-feminine
-
-
+25623	neuter
 neuter
-neuter
-
-
-25633	
-
-masculine
+25635	masculine
 feminine
 masculine
 25639	masculine
-
-
-masculine
-25644	
-
-25648	
-25651	
-masculine/neuter
+25642	masculine
+25652	masculine/neuter
 25654	masculine
 masculine/feminine
-25657	
-masculine
+25658	masculine
 masculine
 neuter
 masculine
-25663	
 25665	masculine
-25667	
 25669	neuter
-
-25677	
-
-masculine/neuter
+25679	masculine/neuter
 25681	feminine
 feminine
 feminine
 25686	feminine
 feminine
 feminine
-
+25690	feminine
 feminine
-feminine
-
-25694	
-
-
-masculine/feminine
-
-25700	neuter
-
-masculine/neuter
-25706	
-neuter
-
-25710	
-masculine
+25697	masculine/feminine
+25700	feminine
+25702	masculine/neuter
+25707	neuter
+25711	masculine
 neuter
 masculine
 neuter
-25717	masculine/neuter
+25717	feminine
 25725	masculine/neuter
 25728	masculine
 masculine
 25731	masculine
 masculine
-25734	
-
 25743	masculine
-25746	
-
 25749	neuter
 masculine
-25754	
-
 25758	masculine
 masculine
-
-
 25763	feminine
-25765	
-
 25769	masculine
 masculine
-
-neuter
-25774	
+25772	neuter
+25775	feminine
 feminine
-feminine
-25778	
-
-25781	
+25782	masculine
 masculine
-masculine
-
-neuter
-
+25785	neuter
 25788	neuter
 feminine
-
-
-
-25794	
-
-
+25797	neuter
 neuter
-neuter
-
-25802	
 25804	feminine
 25806	masculine
-
-
-
-feminine
+25810	feminine
 neuter
-
-
-
-masculine
-
+25815	masculine
 25819	neuter
-neuter
-25822	
-
-masculine
 feminine
-
-25828	
-
-
-25834	
-25837	
-25839	
-
-neuter
-
-
-
-
+25824	masculine
+feminine
+25841	neuter
 25847	masculine
 25849	feminine
 masculine
-
-25853	
-
-
-neuter
+25856	neuter
 25858	feminine
 masculine
-25862	
-25865	
-
-masculine/neuter
+25867	masculine/neuter
 masculine/neuter
 neuter
 25873	masculine
@@ -15414,473 +8168,236 @@ masculine
 25876	masculine
 masculine
 25879	masculine
-25882	
-neuter
-
+25883	neuter
+25885	feminine
 feminine
 feminine
-feminine
-
-
-masculine/feminine
-
+25890	masculine/feminine
 25894	feminine
-25896	
-feminine
+25897	feminine
 feminine
 masculine
 25901	masculine
-
+25903	neuter
+25905	feminine
 neuter
-
-feminine
-neuter
-25909	
-25912	
-
-
+25915	feminine
 feminine
 feminine
-feminine
-
 25922	masculine
-
-
-
-
-
-feminine
-
+25928	feminine
 25935	masculine
 masculine
-
-
-
-
-feminine
+25941	feminine
 neuter
-25944	
 25946	neuter
-
-
-
-feminine
-25956	
+25950	feminine
 25958	masculine
-25960	
-
-
-25965	
-masculine
+25966	masculine
 masculine/neuter
-
-
 25971	masculine
 masculine
-
-neuter
-feminine
-
-
-
-
-feminine
-feminine
-feminine
-
+25974	neuter
 masculine
-
-neuter
-
-25997	
-26000	
-26005	
-26009	
-26013	
-masculine
-masculine
-
-
+25980	feminine
 feminine
-masculine
-
-
 feminine
+25984	masculine
+25986	neuter
+26014	masculine
 masculine
-
+26018	feminine
+masculine
+26022	feminine
+masculine
 26031	neuter
 neuter
-26035	
 26039	masculine
-26043	
-26046	
 26048	neuter
-26051	
 26059	neuter
 26062	neuter
-
 26065	neuter
 26068	masculine
-
-
 26073	masculine
 26076	masculine
-
-26080	
-
 26084	masculine
 masculine
-26087	
 26090	feminine
 26092	feminine
 feminine
 26096	neuter
-26099	
-26101	
-
 26104	neuter
-
+26106	masculine
 masculine
-masculine
-
-26112	
-26116	
-26119	
-feminine
+26120	masculine
 26122	neuter
 26126	neuter
-
-masculine
-26132	
+26128	masculine
 26134	feminine
-
-masculine
+26136	masculine
 26141	masculine
-
 26144	feminine
 masculine
-
-26148	
-26155	
-26159	
-
-26164	
-masculine
+26165	masculine
 masculine/neuter
 26169	masculine/feminine
 feminine
 26173	feminine
-26175	
-26178	
 26181	masculine/neuter
 neuter
-26184	
-
-masculine/feminine
-
-26189	
-
-
-
-26194	
-26197	
+26186	masculine/feminine
 26199	feminine
 26202	feminine
 26204	masculine
-
-neuter
-26212	
-26214	
-
-masculine
-
-masculine
+26206	neuter
+26216	masculine
+26218	masculine
 26220	masculine
 neuter
-26224	
+26225	neuter
 neuter
-neuter
-26228	
-
-26232	
-
-masculine
-26238	
-neuter
-
-feminine
+26234	masculine
+26239	neuter
+26241	feminine
 feminine
 26245	feminine
 masculine
 masculine
-26249	
-neuter
+26250	neuter
 26252	masculine
 26254	masculine
-
+26256	neuter
 neuter
-neuter
-26259	
 26262	neuter
-
-neuter
-
-neuter
-26268	
+26264	neuter
+26266	neuter
 26270	neuter
 masculine
 26277	masculine/neuter
 masculine/neuter
 masculine
-26282	
 26284	masculine
 26286	masculine
 26288	masculine/feminine
-
-masculine
-
-26293	
-26295	
+26290	masculine
 26298	masculine
-
-26301	
-
-masculine
+26303	masculine
 26305	neuter
-26309	
-26311	
 26313	neuter
 feminine
-26316	
 26318	masculine
 masculine
-
-26324	
-
 26328	masculine
-26330	
 26334	masculine
 masculine
 26338	masculine
 26342	masculine
 feminine
-
-
 26347	masculine
 26350	feminine
-26353	
-
-feminine
-26357	
-
-neuter
+26355	feminine
+26359	neuter
 26362	masculine
 26364	feminine
-
 26369	neuter
 masculine
 masculine
-
-neuter
-26375	
-masculine
+26373	feminine
+26376	masculine
 26378	feminine
 feminine
-26383	
-neuter
-26387	
-masculine
-
-26391	
-26395	
-
-
-
-26400	
-
+26384	neuter
+26388	masculine
 26403	feminine
 masculine
-
-26407	
-26409	
-
 26412	masculine
-
-
-masculine
-
-
-neuter
+26415	masculine
+26418	neuter
 masculine
 26421	masculine
-
-masculine
-26432	
+26423	masculine
 26435	masculine
-
-
-26439	
-masculine
+26440	masculine
 26442	masculine
 feminine
 masculine
-
-neuter
+26446	neuter
 26448	masculine
-
-masculine
-
-neuter
-
+26450	masculine
+26452	neuter
 26455	feminine
 26457	masculine
 feminine
-26460	
+26461	masculine
 masculine
-masculine
-
-feminine
-26466	
+26464	feminine
 26468	masculine
 masculine
 26471	feminine
 masculine
 masculine
-26476	
-masculine
+26477	masculine
 26479	neuter
-
-
-feminine
+26482	feminine
 26484	feminine
-
-26487	
-feminine
-26490	
-
-26493	
-feminine
+26488	feminine
+26494	feminine
 26496	feminine
-
-26499	
-feminine
-26503	
-feminine
-26506	
-26508	neuter
-
-
-masculine
-26514	
-masculine
-
-26519	
-neuter
+26500	feminine
+26504	feminine
+26511	masculine
+26515	masculine
+26520	neuter
 masculine
 masculine
 masculine
 26526	feminine
-
-
-masculine
-26532	
-26535	
-neuter
-26539	
-26541	
-feminine
+26529	masculine
+26536	neuter
+26542	feminine
 26544	feminine
-26546	
-feminine
-26551	
-feminine
-26557	
-26559	neuter
-
-26562	masculine
+26547	feminine
+26552	feminine
 26565	feminine
 26568	feminine
 26570	masculine
 masculine
 masculine
-26574	
-26576	
-
-neuter
-
-feminine
-
-
+26578	neuter
+26580	feminine
 26584	feminine
-
-neuter
-26592	
+26586	neuter
+26593	masculine
+26595	masculine
 masculine
-
-masculine
-masculine
-
-26599	
-
-masculine/neuter
-
-masculine/neuter
+26601	masculine/neuter
+26603	masculine/neuter
 masculine
 masculine
-
+26607	masculine
 masculine
 masculine
+26619	masculine
+26621	masculine
+26623	masculine
 masculine
-26614	
-
-
-26618	
-masculine
-
-masculine
-
+26627	feminine
 masculine
 masculine
-
-
-feminine
-masculine
-
-
-
-26634	
-
-feminine
-
-
-26641	
+26636	feminine
 26643	masculine
-26645	neuter
-neuter
+26646	neuter
 26648	masculine
 masculine
 masculine
 26654	neuter
-
-masculine
-
-
+26656	masculine
 26660	neuter
-
-
-
-feminine
+26664	feminine
 masculine
 feminine
-
-
-26670	
-26673	
-26675	
 26677	feminine
-
 26682	feminine
-
 26685	masculine
 masculine
 masculine
@@ -15894,343 +8411,182 @@ neuter
 neuter
 masculine
 masculine
-26703	
-26706	
-masculine
-26709	
-masculine
-
+26707	masculine
+26710	masculine
 26713	neuter
-26717	
-feminine
+26718	feminine
 26720	feminine
 feminine
 feminine
-26724	
-neuter
+26725	neuter
 26727	masculine
 26733	masculine
 neuter
-
-neuter
+26736	neuter
 feminine
-
-
-
-feminine
+26741	feminine
 feminine
 26744	feminine
 26746	masculine/feminine
-26748	
-feminine
-
-
+26749	feminine
 26753	neuter
-26756	
-
-masculine/neuter
+26758	masculine/neuter
 neuter
-
-26763	
 26765	feminine
 26767	masculine
 feminine
-26770	
-neuter
+26771	neuter
 26773	masculine
 26775	masculine
 masculine/neuter
 neuter
-
-
-masculine/neuter
-
-neuter
+26780	masculine/neuter
+26782	neuter
 masculine
 feminine
 masculine/neuter
 neuter
-26788	
-26790	
 26793	feminine
 26795	masculine
 masculine
-
-neuter
+26798	neuter
 26800	feminine
 feminine
 feminine
 feminine
-
-masculine
-26808	
-26811	
-masculine
-
-masculine
+26805	masculine
+26812	masculine
+26814	masculine
 26816	neuter
-
 26819	masculine
 masculine/neuter
 feminine
-26823	
-masculine/neuter
+26824	masculine/neuter
 26828	masculine
 masculine
 26833	masculine
 26835	masculine
-
-masculine/feminine
-masculine
-feminine
+26837	masculine/feminine
+26839	feminine
 26842	neuter
-26846	
-feminine
-
-masculine
+26847	feminine
+26849	masculine
 masculine
 26852	masculine
-
-
-neuter
-
-masculine
+26855	neuter
+26857	masculine
 masculine/feminine
 feminine
-
-26863	
-
 26866	masculine
 masculine
-
-
-
-26873	
-26876	
-
 26879	feminine
-
-masculine
-
-
+26881	masculine
 26895	feminine
-
-feminine
-26900	
+26897	feminine
 26905	masculine
 feminine
-
-26911	
-feminine
-
-feminine
-26916	
-feminine
-26920	
-masculine
+26912	feminine
+26914	feminine
+26917	feminine
+26921	masculine
 26923	masculine
 26926	masculine/neuter
-
+26928	neuter
 neuter
-neuter
-26931	
-masculine
+26932	masculine
 neuter
 neuter
 neuter
-
 26939	neuter
-26942	
-feminine
+26943	feminine
 26945	masculine
-
-neuter
-
+26947	neuter
 26950	masculine
 masculine
-26953	
-
-feminine
-
-feminine
-26959	
-
-26962	
+26955	feminine
+26957	feminine
 26964	masculine
-26966	
 26970	masculine
-26972	
-26975	
-26983	
+26984	masculine
+26993	feminine
+26996	masculine
 masculine
-26986	
-26989	
-26991	
-26993	neuter
-26995	
-masculine
-masculine
-26999	
-
-27006	
 27011	neuter
-27013	
-
-masculine
-27018	
-masculine
-
-
-feminine
-27024	
-neuter
+27015	masculine
+27019	masculine
+27022	feminine
+27025	neuter
 neuter
 masculine
-
-
 27031	masculine
-
 27035	neuter
-
-
 27039	feminine
 neuter
 27042	masculine
-
 27046	masculine
-27048	
-neuter
-
-
+27049	neuter
 27054	neuter
-27058	
-feminine
-27064	
+27059	feminine
 27067	feminine
-
-27070	
-masculine
+27071	masculine
 feminine
 27076	feminine
 feminine
 feminine
 feminine
 feminine
-
-
-27088	
-masculine
-27091	
-
-27095	
-masculine
+27089	masculine
+27091	masculine
+27096	masculine
 feminine
-27099	
-masculine
+27100	masculine
 27102	masculine
 feminine
 feminine
-
-
-
-feminine
-27110	
-neuter
-27113	
-27115	
+27108	feminine
+27111	feminine
 27117	feminine
 feminine
-27120	
-masculine
+27121	masculine
 masculine/feminine
-
-
-
 27127	masculine
 masculine
-
-
-masculine
-
+27131	masculine
 27137	masculine
-27139	
-feminine
-27145	
-
-neuter
-27149	
-27152	
-27154	
-masculine
-
-
+27140	feminine
+27147	neuter
+27155	masculine
 27160	feminine
-
 27165	masculine
 27169	feminine
-27171	
-
 27177	masculine
-27180	
-
-
 27185	feminine
 feminine
 feminine
-
-27190	
-27193	
-27197	
-feminine
+27198	feminine
 neuter
-
-27202	
 27206	feminine
-27208	
-
-27213	
-27215	
+27216	neuter
+27218	feminine
 neuter
-
-feminine
-neuter
-
 27222	masculine/neuter
 feminine
-
+masculine
 masculine/neuter
-
-
 27230	feminine
-
-27233	
 27235	neuter
 masculine
 neuter
 27240	feminine
-27242	
-neuter
+27243	neuter
 feminine
-
-
-27255	
+27256	feminine
 feminine
+27264	feminine
+27269	masculine
+27271	feminine
 feminine
-
-
-27262	
-
-feminine
-
-
-
-
-masculine
-
-feminine
-feminine
-27274	
-masculine/feminine
+27275	masculine/feminine
 feminine
 masculine
 feminine
@@ -16238,31 +8594,18 @@ masculine
 27282	feminine
 feminine
 27285	masculine
-27287	
-masculine
-
-27291	
+27288	masculine
 27294	feminine
-27296	
 27298	feminine
-27301	feminine
+27301	masculine
 masculine
-
-
-27306	feminine
+27306	masculine
 masculine
 masculine
-
+27310	masculine
 masculine
+27319	masculine
 masculine
-27313	
-
-
-
-27318	masculine
-masculine
-masculine
-27322	
 27327	feminine
 neuter
 27330	masculine
@@ -16271,64 +8614,30 @@ neuter
 27335	feminine
 27338	neuter
 neuter
-27341	
-27344	
-
-
-27348	
-
-27351	masculine
-masculine
+27352	masculine
 masculine
 27355	feminine
-27357	
-27359	
-neuter
-
-feminine
-
-
-masculine
-27368	
-feminine
+27360	neuter
+27362	feminine
+27365	masculine
+27369	feminine
 27371	masculine
-27373	
-
-masculine/neuter
-
-
-
+27375	feminine
 27383	neuter
-27385	
 27387	feminine
-27389	
-masculine
+27390	masculine
 masculine
 27393	masculine
 masculine
-
-27397	
-27400	
-
-27403	
-
-
-
+27403	feminine
+27407	masculine
 masculine
-masculine
-27411	
 27413	masculine
 27415	neuter
-
-feminine
-
-
-feminine
-27422	
-
-masculine/neuter
+27417	feminine
+27420	feminine
+27424	masculine/neuter
 neuter
-
 27428	feminine
 masculine
 masculine
@@ -16336,388 +8645,203 @@ neuter
 feminine
 27434	feminine
 27436	masculine
-
-masculine
-27441	
-27443	
-27447	
-neuter
+27438	masculine
+27448	neuter
 feminine
 feminine
-27452	
-masculine
-
+27453	masculine
 27459	neuter
-27461	
 27463	feminine
 27467	masculine/feminine/neuter
-27469	
 27471	masculine
 27473	masculine
-
-
 27477	neuter
-27479	
-
+27481	neuter
 neuter
-neuter
-27484	
-masculine
+27485	masculine
 27489	masculine/feminine
-
 27492	neuter
 27495	masculine
-
-neuter
-27499	
-masculine
-27502	
-27504	
-masculine
-27507	
-
-
+27497	neuter
+27500	masculine
+27505	masculine
 27512	masculine
-
 27516	feminine
-27518	
-
 27521	masculine
 27524	neuter
-
-neuter
+27526	neuter
 27530	masculine
-
-27534	
 27537	masculine
 masculine
 27540	masculine
 masculine
 feminine
 feminine
-
 27547	masculine
-
-27550	
-neuter
+27551	neuter
 masculine
 27558	neuter
-27563	
-27565	
-
-masculine
-
+27565	masculine/feminine
+27567	masculine
+27569	feminine
 feminine
 feminine
-feminine
-27573	
-27576	
-masculine/neuter
+27577	masculine/neuter
 neuter
 masculine
 masculine
 neuter
-
-27586	
-27591	
 27593	feminine
 masculine/neuter
 neuter
-27597	
-neuter
-
-
-27604	
-
+27598	neuter
 27607	masculine
-27610	
-neuter
+27611	neuter
 27614	masculine
-
-
-
-
-
-masculine
-27622	
-
+27620	masculine
 27627	masculine
-27631	
-feminine
+27632	feminine
 masculine/neuter
 masculine
 masculine/feminine/neuter
-27638	
-
-neuter
+27640	neuter
 27642	masculine
 neuter
-27645	
-
-masculine/feminine
-27649	
+27647	masculine/feminine
+27650	masculine
 masculine
-masculine
-27653	
-
-27658	
-27660	
-neuter
+27661	neuter
 27666	masculine
 feminine
-27670	
-feminine
+27671	feminine
 feminine
 27674	feminine
 neuter
-27677	
+27678	masculine
 masculine
-masculine
-
-feminine
-
-
-
-masculine
-
-feminine
-
+27681	feminine
+27685	masculine
+27687	feminine
 27690	masculine
 masculine
 27693	masculine/neuter
-
-27697	
-neuter
+27698	neuter
 masculine
-
-masculine
+27701	masculine
 feminine
-
-masculine
-27706	
-neuter
+27704	masculine
+27707	neuter
 masculine
 feminine
 feminine
 masculine
 27714	masculine/neuter
-
-27718	
-masculine
+27719	masculine
 27721	masculine
-
-feminine
-
-27727	
-neuter
-27731	
+27723	feminine
+27728	neuter
 27733	neuter
 27735	masculine/feminine
 masculine
 masculine
-
-feminine
+27739	feminine
 27741	neuter
 neuter
-
-
 27746	masculine
 27749	masculine
-
-neuter
+27751	neuter
 feminine
-27754	
-
 27758	neuter
-27760	
-
 27766	masculine
 27768	feminine
-
-
 27772	neuter
-27774	
-
-masculine
-27779	
-neuter
+27776	masculine
+27780	neuter
 27784	feminine
 masculine
-27790	
+27791	feminine
 feminine
-feminine
-
-
-
-27797	
-masculine
-
-
-
-27804	
-
+27798	masculine
+27805	masculine
 27807	feminine
-27811	
+27812	masculine
+27815	feminine
+27817	neuter
 masculine
-
-
-feminine
-
-neuter
-masculine
-27820	
-
 27823	masculine
 masculine/neuter
 feminine
 masculine
-
-neuter
+27828	neuter
 masculine
 masculine
-
-27834	
-27836	
 27840	neuter
-27842	
-
-
-27848	
-feminine
-
+27849	feminine
 27852	feminine
 masculine
 27855	masculine
 27857	neuter
-
-27863	
-
-27866	
-neuter
+27867	neuter
 masculine
 masculine
 feminine
-
-
-
-27876	
-
-27880	
-27883	
-27886	
-masculine
+27887	masculine
 27891	masculine
-
-27895	
-
-masculine
-
-
-27904	
-masculine
-27907	
-neuter
+27897	masculine
+27905	masculine
+27908	neuter
 masculine/feminine
-27911	
-27914	
 27916	feminine
 neuter
-
-27920	
-27923	
+27920	masculine
 27925	masculine
 27931	masculine
 27933	neuter
-27935	
-
-27940	
-neuter
+27941	neuter
 27944	feminine
 neuter
 masculine
-
-
-
-27952	
+masculine
 27955	masculine
-27957	
 27959	feminine
-27962	
-
-neuter
-27966	
+27964	neuter
 27968	neuter
 feminine
 feminine
-27972	
 27974	masculine
 27976	masculine
 neuter
-
-
-27981	
 27984	masculine/neuter
-27986	
-neuter
-
-
-
-neuter
-27996	
-28000	
-
+27987	neuter
+27991	neuter
+28002	masculine
 masculine
-masculine
-28005	
-
 28008	feminine
-
-
-28012	
-
-masculine
-
-
+28014	masculine
 28021	masculine/feminine
 feminine
 28025	masculine/feminine
 28033	masculine
-28037	
-28040	
 28042	neuter
 masculine
 28045	masculine
-28047	
 28049	neuter
-
-neuter
+28051	neuter
 28055	masculine
-28057	
-neuter
-
+28058	neuter
 28061	masculine
-28063	
-
-
+28066	feminine
 feminine
-feminine
-
 28070	masculine
 masculine
-
-feminine
-
-feminine
+28073	feminine
+28075	feminine
 feminine
 feminine
 feminine
-
-
-
-masculine
-
+28082	masculine
 28086	masculine
-
+masculine
 28089	neuter
 28092	masculine
 masculine
@@ -16725,28 +8849,19 @@ masculine
 feminine
 feminine
 28099	neuter
-28101	
-28104	
-
-feminine
+28106	feminine
 masculine
 28109	feminine
 masculine
 28112	feminine
 feminine
 28116	masculine
-
 28120	neuter
 masculine
 neuter
-
-
-28127	
-28130	
-
-28134	
+28131	masculine
+28134	masculine
 28136	neuter
-
 28142	masculine
 28145	feminine
 feminine
@@ -16755,46 +8870,28 @@ neuter
 28153	masculine/feminine
 feminine
 28158	feminine
-
 28161	masculine
-
+28163	masculine
+28166	neuter
+28171	masculine
 masculine
-28165	
-neuter
-28170	
-masculine
-masculine
-
-neuter
-
-
-masculine
-28179	
-28182	
+28174	neuter
+28177	masculine
 28186	masculine/feminine
 28189	feminine
-
-
-masculine/neuter
-28195	
-28199	
+28192	masculine/neuter
 28201	feminine
 feminine
-28206	
 28208	masculine
 masculine
 masculine/feminine
 28212	neuter
 28214	feminine
-
-
 28218	masculine/neuter
 28220	masculine
 28222	masculine
 28224	feminine
-28226	
-masculine
-
+28227	masculine
 28237	masculine
 masculine
 28240	masculine
@@ -16802,295 +8899,160 @@ masculine
 masculine
 28246	masculine
 masculine
-
-
-
-neuter
-
-
-
-28256	
-
+28251	neuter
 masculine
-28260	
-28262	
-feminine
+28258	masculine
+28263	feminine
 masculine
 28269	masculine
 masculine
 28272	masculine
 28274	masculine
-28277	
-
-
-masculine
+28280	masculine
 feminine
-
-28284	
-28287	
-
-28291	
 28293	neuter
 28295	feminine
 feminine
 feminine
-
-
-28301	
-masculine
-
+28302	masculine
 28305	neuter
 masculine
-
 28310	neuter
 masculine/neuter
-
-
-
 28319	neuter
-28321	neuter
+28321	feminine
 masculine
 masculine/neuter
 28325	neuter
-
-28328	feminine
+28328	masculine
 28330	feminine
-
-feminine
+28332	feminine
 feminine
 neuter
-28336	
+28337	masculine
 masculine
-masculine
-
-masculine
-
+28340	masculine
 28344	masculine
-
-
 28348	neuter
-28350	
-
-masculine
-28356	
-
+28352	masculine
 28360	masculine
 masculine
-28365	
-neuter
-28368	
+28366	neuter
+28369	masculine
 masculine
 masculine
 masculine
-masculine
-
 28375	masculine
 28377	masculine
-
-
-
-28385	
-feminine
-
-feminine
+28386	feminine
+28388	feminine
 neuter
 28393	neuter
-
-masculine/neuter
-28397	
-
-masculine
+28395	masculine/neuter
+28399	masculine
 28401	masculine
-
 28404	feminine
 neuter
-
-neuter
+28407	neuter
 28409	feminine
-
-masculine/feminine
+28411	masculine/feminine
 28414	feminine
 neuter
-
 28418	masculine
-28421	
 28423	neuter
-28425	
-masculine
-
-
+28426	masculine
 28430	neuter
 28433	neuter
-28440	
-neuter
-
+28441	neuter
 28444	masculine
 masculine
-28448	
-masculine
-28451	
-masculine
-
-
-
-
+28449	masculine
+28452	masculine
 28458	feminine
 masculine/neuter
 masculine
-
-masculine
+28462	masculine
 28464	feminine
 28466	masculine
 neuter
 feminine
 neuter
-
-masculine
-28473	
-
-28476	
-
-masculine
+28471	masculine
+28478	masculine
 masculine
 28482	masculine
-28484	
-28486	
 28488	neuter
-
-28491	
-
-
 28495	neuter
 28497	feminine
 28499	feminine
-28501	
-28503	
-28505	
-
-28508	
-neuter
+28509	neuter
 28511	masculine
-28516	
-masculine
+28517	masculine
 28519	masculine
-28521	
-
-masculine
-28525	
-neuter
-
-28531	
-masculine
-28534	
-
-28538	
-
-
+28523	masculine
+28526	neuter
+28532	masculine
 28544	neuter
-
-28547	
-
-
+28547	masculine
 28554	masculine
 masculine
-28558	
-
-neuter
+28560	neuter
 masculine
 masculine
-
-28567	
-28570	
 28572	masculine
-
+28574	masculine
 masculine
-
-
 28579	masculine
 masculine
-
-feminine
+28582	feminine
 feminine
 28585	masculine
 28587	masculine
 28590	masculine
-28598	
 28600	masculine
-28603	
-masculine
+28604	masculine
 masculine
 feminine
 feminine
 masculine
-28610	
-neuter
-
-28614	
-28616	
-neuter
+28611	neuter
+28617	neuter
 masculine
 masculine
 feminine
 masculine
 28627	masculine
-
-
-28631	
-feminine
-
-
-masculine
+28632	feminine
+28635	masculine
 28637	masculine
-28640	
-28645	
-28648	
-neuter
+28649	neuter
 neuter
 masculine/feminine
 neuter
-28654	
 28656	masculine
 masculine
-28659	
+28660	feminine
+28666	feminine
 feminine
-28664	
-
-feminine
-feminine
-28670	
+28671	masculine
+28677	neuter
 masculine
-28673	
-28676	
-neuter
+28682	neuter
 masculine
-28681	
-neuter
-masculine
-
-
-
 28688	feminine
 feminine
 feminine
-28693	
-neuter
+28694	feminine
 28698	masculine
 masculine
 masculine
 28702	masculine
-
-28706	
-
-28710	
-neuter
+28707	masculine
+28711	neuter
 masculine
-28716	
-
+28718	neuter
 neuter
-neuter
-28721	
-neuter
-
+28722	neuter
 28725	feminine
 feminine
 feminine
@@ -17098,96 +9060,62 @@ masculine
 28731	neuter
 masculine
 28734	masculine
-28737	
+28738	neuter
 neuter
-neuter
-28741	
+28742	masculine
 masculine
-masculine
-28745	
+28745	masculine
 neuter
 masculine
 28749	masculine
-28753	
-
 28756	masculine
-
-
-neuter
-28766	
-
+28759	neuter
 28769	masculine
 28771	masculine
-
-28774	
-28776	
-masculine
+28777	masculine
 28779	neuter
-28781	
-feminine
+28782	feminine
 28784	feminine
 28786	masculine/neuter
 28788	feminine
 28791	neuter
 28793	neuter
-28796	
-28799	
 28801	feminine
 feminine
-28804	
-neuter
-28810	
-neuter
+28805	neuter
+28811	neuter
 28814	neuter
 neuter
-
-neuter
-28819	
-
-neuter
-
+28817	neuter
+28821	neuter
 28825	feminine
-28827	
 28829	neuter
 28831	neuter
 masculine
 masculine/neuter
-28835	
 28839	masculine/neuter
 neuter
 neuter
 28843	masculine
 neuter
-28846	
 28849	masculine/feminine/neuter
-28852	
-
 28856	neuter
 28858	masculine/neuter
-28860	
 28864	masculine
 28866	masculine
 neuter
-28870	
+28871	neuter
 neuter
 neuter
-neuter
-28876	
-
 28879	masculine/neuter
-28882	
-neuter
+28883	neuter
 28885	neuter
 28889	feminine
 masculine/feminine
 neuter
-
-
 28895	feminine
-
 28898	feminine
-28901	
-feminine
+28902	feminine
 masculine
 28905	feminine
 neuter
@@ -17200,15 +9128,12 @@ neuter
 masculine/neuter
 28917	masculine
 neuter
-
-feminine
+28920	feminine
 28922	neuter
-
 28925	neuter
 masculine
 masculine
 masculine
-
 28932	feminine
 feminine
 neuter
@@ -17216,287 +9141,150 @@ neuter
 28938	masculine
 masculine
 28943	masculine
-
 28946	feminine
 masculine
 masculine
-
-
-
-
-
 28955	masculine
 masculine
 masculine
-28960	
-feminine
+28961	feminine
 masculine
-
-
-
-28967	
-masculine
-
+28968	masculine
+28970	masculine
 masculine
 masculine
 masculine
-masculine
-28975	
-28977	
-
-
-
-
 28985	masculine
 masculine
 masculine/feminine
 neuter
-
 28991	masculine
 28993	feminine
 feminine
 masculine
 28998	feminine
 29000	feminine
-
+masculine
 feminine
-29005	
-
-feminine
+29007	feminine
 29009	masculine
 masculine
-
-29013	
-
 29017	masculine
 29019	masculine
 masculine
 29022	masculine
 masculine
 29025	masculine
-
-neuter
-29031	
-feminine
-29035	
-
-masculine/feminine
-
+29027	neuter
+29032	feminine
+29037	masculine/feminine
 29041	masculine/feminine
-29043	
 29045	masculine/neuter
-
 29050	masculine
-
-
-
 29055	feminine
-
 29058	masculine
 29060	masculine
-29062	
 29065	masculine
-29068	
-
-29071	
-29075	
-
-masculine
+29075	masculine
+29077	masculine
 29079	masculine
 29081	masculine
-29083	
-feminine
+29084	feminine
 neuter
-
-29089	
 29092	masculine
 29094	masculine
 neuter
-
-
-29101	
-
-feminine
-
+29103	feminine
 29107	feminine
 feminine
 29111	feminine
 feminine
-29114	
-masculine/neuter
+29115	masculine/neuter
 29118	feminine
 29120	feminine
 feminine
-
-
-
-
+29126	feminine
+29128	neuter
+29131	neuter
+29134	feminine
 feminine
-
-neuter
-29130	
-neuter
-29133	
-feminine
-feminine
-
-neuter
-
+29137	neuter
 29140	masculine
 neuter
 feminine
-29144	
-
 29147	masculine
 29152	masculine
-
 29155	masculine/feminine/neuter
 feminine
-29160	
 29163	feminine
-
-neuter
-
-
-29175	
+29165	neuter
+29176	masculine
 masculine
+29182	neuter
+29205	feminine
 masculine
-29181	
-neuter
-
-29188	
-29190	
-
-29195	
-
-29198	
-29201	
-29204	
-feminine
-masculine
-29208	
-
-29214	
 29216	masculine
-
-masculine
-
-feminine
-29224	
+29218	masculine
+29220	feminine
 29226	feminine
-
-neuter
+29228	neuter
 feminine
 29231	feminine
 feminine
 29235	feminine
 feminine
-29238	
-
 29241	masculine
-29243	
 29245	feminine
 feminine
 29249	feminine
 feminine
-
 29254	feminine
 29256	neuter
-
-feminine
-29262	masculine
-
-
+29258	feminine
 29266	feminine
-29269	
 29271	feminine
-29273	
-
-29276	
 29278	feminine
 masculine/feminine
 29281	masculine/feminine
-29284	
 29286	feminine
-
-neuter
+29288	neuter
 29291	masculine/neuter
-
 29294	masculine
-29296	
-29299	feminine
+29299	neuter
 29301	feminine
-
 29304	neuter
-
-masculine
+29306	masculine
 neuter
-
-29310	
-neuter
+29311	neuter
 29313	feminine
 29316	masculine
-29318	
-29320	
-
-29323	
+29320	feminine
 29327	neuter
-
-
-29332	
-masculine
-29338	
-
-
+29333	masculine
 29342	feminine
 neuter
-29345	
-masculine
-
-
-feminine
-
+29346	masculine
+29349	feminine
 29352	feminine
-
-29357	
-
 29360	feminine
-
-
-
-neuter
+29364	neuter
 29367	feminine
 masculine
 29370	feminine
-29374	
-29377	
-29379	
+29380	feminine
+29383	neuter
 feminine
-29382	
-neuter
-feminine
-
 29388	masculine
 29390	feminine
 neuter
 29393	feminine
 29397	neuter
-29399	
-29401	
-29404	
-
-29407	
-29411	
 29413	feminine
 feminine
-
-neuter
+29416	neuter
 masculine/neuter
-29419	
-feminine
-
-29423	
-29430	feminine
+29420	feminine
+29430	masculine
 neuter
 29433	masculine
 29435	masculine/neuter
@@ -17505,623 +9293,318 @@ neuter
 29443	feminine
 neuter
 29446	feminine
-
 29449	masculine/neuter
 29451	neuter
-
-29455	
-neuter
-29458	
+29456	neuter
 29461	neuter
-
 29464	neuter
-
-
 feminine
+29467	feminine
 masculine
-
 29473	masculine
-29475	
-
-feminine
+29477	feminine
 29481	feminine
-
-
-
 29486	masculine
 neuter
-
-feminine
-
+29489	feminine
 29492	masculine
 masculine/neuter
 29495	masculine/feminine
 neuter
-
-
-masculine
-29501	
-
+29499	masculine
 29504	feminine
-
 29507	masculine
-
-masculine
+29509	masculine
 29512	masculine
 masculine
-
-29516	
-neuter
-29519	
-29524	
-feminine
-
-neuter
-29533	
-masculine
+29517	neuter
+29525	feminine
+29527	neuter
+29534	masculine
 masculine/neuter
-29540	neuter
+29540	feminine
 feminine
 masculine/neuter
 feminine
 masculine
 29546	neuter
 feminine
-29549	
 29551	masculine
-
-29554	
+masculine/feminine
 29556	feminine
 29559	masculine
 masculine
-
-29566	
 29568	neuter
 29570	neuter
 29572	neuter
 29575	masculine/neuter
 feminine
-29580	
-
-
+29583	feminine
 feminine
-feminine
-
-masculine/feminine
-29589	
-masculine/feminine
+29586	masculine/feminine
+29590	masculine/feminine
 masculine
 29594	masculine
 29596	masculine
-29598	
-
 29601	masculine
-29604	masculine/neuter
-
-feminine
-
-
+29604	feminine
 29610	masculine/feminine
-
-29613	
-feminine
-
-
+29614	feminine
 29618	feminine
-29620	
 29622	feminine
 29624	masculine
 29626	feminine
 masculine
 masculine/feminine
 29630	masculine
-
-feminine
+29632	feminine
 feminine
 29636	neuter
-
-masculine/neuter
-29643	
-29646	
+29638	masculine/neuter
 29648	masculine/feminine
 29650	neuter
-
-neuter
-29654	
-
-29660	
-masculine
-29664	
-
-neuter
-29669	
-feminine
+29652	neuter
+29655	feminine
+29661	masculine
+29666	neuter
+29670	feminine
 29672	feminine
-29676	
 29678	feminine
 neuter
-
-29683	
-
-29687	
-
-feminine
+29689	feminine
 29691	feminine
 neuter
-29694	
-neuter
-
+29695	neuter
 29700	feminine
 masculine/feminine
-
-
-29705	
-29708	
-masculine
-29711	masculine
-29714	
-
+29709	masculine
+29711	neuter
 29717	masculine
-
-
-feminine
-
+29720	feminine
 29725	neuter
 29727	masculine
-29729	
-feminine
-
-masculine/neuter
-
+29730	feminine
+29732	masculine/neuter
 29737	masculine
 masculine
-29741	
-29744	
 29748	masculine
-29750	
-
-masculine
+29750	feminine
+29752	masculine
 29755	feminine
 feminine
-
 29759	feminine
-29761	
-29763	
-29765	
-29767	
-29769	
-neuter
+29770	neuter
 masculine
 29774	feminine
-
 29777	feminine
-29780	
-
-feminine
+29782	feminine
 neuter
-
-29788	
+29788	masculine/feminine
 masculine
 29791	neuter
-29794	
-masculine
-
+29795	masculine
 29799	masculine
-29802	
-feminine
+29803	feminine
 feminine
 neuter
 29808	feminine
 masculine
-29811	
-
-masculine
+29813	masculine
 29815	neuter
 neuter
-29820	
+29820	masculine/feminine
 neuter
-
 29825	feminine
 feminine
-
-feminine
+29828	feminine
 masculine
-
 29833	masculine/feminine
-
-feminine
+29835	feminine
 masculine/feminine/neuter
-
-masculine
+29838	masculine
 29840	neuter
-29842	
-masculine
-29847	
-neuter
-29851	
-29853	
+29843	masculine
+29848	neuter
 29856	feminine
 29858	masculine
 feminine
-
 29862	feminine
-29865	
-masculine
-29868	
-neuter
-
-
+29866	masculine
+29869	neuter
 29873	masculine
-29875	
-
-neuter
-29879	
-
-29882	
-29885	
-feminine
-29888	
-
-masculine
+29875	masculine/feminine
+29877	neuter
+29886	feminine
+29890	masculine
 29892	masculine
-29894	
 29896	masculine
 feminine
 feminine
 feminine
 29901	feminine
-
-29905	
-masculine
-29909	
+29906	masculine
 29911	masculine
 neuter
-29914	
-masculine
+29915	masculine
 masculine
 masculine
 29919	masculine
-29921	
-
-
-29925	
-
-29931	
-29933	
+29934	neuter
+29938	feminine
+29946	masculine
 neuter
-29936	
-
-feminine
-
-
-
-29945	
-masculine
-neuter
-29953	
 29955	feminine
 feminine
 29958	feminine
 neuter
-
-
 29964	neuter
-
 29967	feminine
 feminine
 feminine
-
 29972	feminine
 29974	neuter
-29976	
 29978	feminine
 29980	feminine
-
-29984	
-masculine
-
-feminine
-29989	
-
+29985	masculine
+29987	feminine
 29992	masculine
-
-29995	
-29997	
-feminine
-
-masculine/neuter
-
-masculine
-30005	
-
-neuter
-
+29998	feminine
+30000	masculine/neuter
+30002	masculine
+30007	neuter
 30011	feminine
-
-
 30016	neuter
 30018	feminine
-30020	
-30022	
-
-30027	
-30029	
-30035	
-
 30038	masculine
 masculine
-
-masculine/neuter
+30041	masculine/neuter
 feminine
-30044	
-
-
-30051	
-masculine
-30056	
-masculine
-30060	
-
-30063	
-30065	
-
-
-neuter
-30070	
-30072	
-feminine
-30075	
-30078	
-30080	
-neuter
+30052	masculine
+30057	masculine
+30060	feminine
+30068	neuter
+30073	feminine
+30081	neuter
 30087	masculine
 masculine/neuter
-30091	
-neuter
+30092	neuter
 masculine
 masculine
 30097	neuter
-30099	
 30101	neuter
-30103	
-
-30108	
 30113	feminine
 neuter
-
-30118	
-30124	
-30127	
-
-
-
-30132	
-masculine
-30135	
+30133	masculine
 30138	masculine
-30140	
-
 30143	feminine
 masculine/neuter
-
-
 30150	masculine
 masculine
 30153	masculine
 neuter
-30156	
 30158	feminine
-30160	
-30163	
-30165	
+30166	neuter
+30170	masculine
+masculine
+30175	feminine
+feminine
+30182	neuter
 neuter
-30170	
-masculine
-30174	
-feminine
-feminine
-
-
-
-
-
-neuter
-masculine
-30185	
-30188	
-feminine
+30189	feminine
 feminine
 masculine
-30194	
-30197	
-30199	
 30202	masculine
 30204	feminine
-30207	
 30209	feminine
-30211	
-
-30215	
-
-
 30219	masculine
-30221	
-
-30232	
 30237	feminine
 feminine
-30240	
-30243	
-
-feminine
+30245	feminine
 30250	masculine
 feminine
-30255	
-30258	
-30261	
 30265	masculine
 masculine
 30268	feminine
-
-30271	neuter
-30274	
-
+30276	feminine
 feminine
-feminine
-
-masculine
+30279	masculine
 masculine
 30282	masculine
-
-30285	
 30287	feminine
-
-
-30291	
-
-neuter
+30293	neuter
 30295	masculine
-
-
-feminine
-30301	
-
-feminine
+30298	feminine
+30303	feminine
 masculine
 30306	feminine
 feminine
 feminine
-
 30311	feminine
-30315	
+30316	masculine
 masculine
-masculine
-
-30320	
-feminine
+30321	feminine
 neuter
 masculine
 30325	masculine
-30327	
 30330	masculine
-
-
-neuter
-
+30333	neuter
+30335	masculine
 masculine
-masculine
-
-30339	
-30341	
 30343	feminine
 neuter
-
-30347	
-
 30350	masculine/neuter
-30352	
+30352	feminine
 feminine
 feminine
-
-
 30358	neuter
 masculine
 masculine/feminine
 30362	masculine
-30364	
-neuter
+30365	neuter
 30368	masculine
 neuter
-
-feminine
+30371	feminine
 30373	feminine
-30377	
-feminine
-
-
-neuter
+30378	feminine
+30381	neuter
 30384	feminine
 feminine
 neuter
-
-masculine
-
-neuter
-30392	
-
+30388	masculine
+30390	neuter
 30396	feminine
-30399	
-
 30403	masculine/feminine
 neuter
 30406	masculine
 30412	feminine
-
-30416	
 30418	neuter
-
 30425	masculine/feminine
-30427	
-feminine
-
-30431	
-
-30436	
+30428	feminine
 30440	masculine
-30442	
-
 30450	masculine
-
 30453	masculine
 masculine
-30456	
-
-masculine
+30458	masculine
 30460	masculine
 neuter
-30465	
 30467	masculine
-30469	
-
-feminine
-
-30474	
-
+30471	feminine
 30477	neuter
-30479	
-30481	
-
-30484	
 30486	neuter
 masculine
 30489	feminine
 feminine
 feminine
 neuter
-
-
-
 30497	masculine
-30499	
-30502	
-30505	
 30507	feminine
-
-30510	
-
 30513	neuter
-
-30516	
-feminine
+30517	feminine
 neuter
 30520	neuter
-
-30523	
-30526	
 30529	masculine
 masculine
-30532	
-neuter
+30533	neuter
 30541	neuter
 30544	feminine
 feminine
@@ -18129,789 +9612,434 @@ neuter
 30549	masculine/feminine/neuter
 30551	neuter
 masculine
-30554	
 30558	masculine
-30561	
-feminine
-
+30562	feminine
 30566	feminine
 30568	masculine
 neuter
 30571	feminine
 30575	masculine
-30577	
-
-feminine
+30579	feminine
 neuter
 masculine
 neuter
 neuter
 30585	neuter
 30591	masculine
-
 30594	neuter
 masculine
 masculine
 masculine
 30599	neuter
 30602	masculine
-30604	
-masculine
+30605	masculine
 30607	masculine
 masculine
-30610	
-30612	
-30615	
-
-
 30619	neuter
-30621	
-masculine
+30622	masculine
 feminine
 masculine/feminine
-
 30628	masculine/feminine
 neuter
-30632	neuter
+30632	feminine
 30634	feminine
 feminine
 30638	masculine
 neuter
 feminine
-
+30642	feminine
 feminine
-feminine
-30645	
 30648	feminine
-
-masculine/feminine
-
-masculine
-
-feminine
+30650	masculine/feminine
+30652	masculine
+30654	feminine
 masculine
 feminine
 30660	feminine
 neuter
 30663	neuter
 30669	feminine
-
 30672	masculine/feminine
-
-
+masculine/feminine
 30676	feminine
 30679	neuter
-
-30684	
+30684	masculine/feminine
 neuter
-
+feminine
 30688	feminine
 feminine
 masculine
 30693	neuter
-
-masculine/neuter
-30697	
-30699	
+30695	masculine/neuter
+30699	masculine/feminine
 masculine
-
-masculine
+30702	masculine
 neuter
-
-30706	
-feminine
-
+30707	feminine
 30710	neuter
-
+30712	feminine
+neuter
+neuter
 feminine
-neuter
-neuter
-neuter
 30717	masculine
 neuter
 feminine
-
-30722	
-masculine/feminine
-30725	
-
-
-30729	
-neuter
+30723	masculine/feminine
+30730	neuter
 30732	feminine
-
-30735	
-
 30739	feminine
-
-masculine
-
+30741	masculine
 30745	neuter
-30748	
-30751	
-
 30754	masculine/neuter
-
+masculine
 feminine
 30758	neuter
-30764	
 30766	feminine
-30768	
-30770	
 30772	masculine
-30774	
+30774	feminine
 30776	feminine
 30778	masculine
 feminine
 30783	feminine
-30786	
-30790	
 30792	neuter
-30798	
 30800	feminine
-
-30804	
 30806	masculine/feminine
-
-30811	
-30813	neuter
-30817	
-
+30813	feminine
 30820	feminine
 30823	masculine/feminine
-30825	
 30827	neuter
-30832	
-
-30836	
 30838	feminine
 feminine
-
-
 30849	neuter
-30851	
-30854	
-30856	
-
-30859	
-
-neuter
-30863	
-
+30861	neuter
 30866	masculine
-30868	
-
-
-feminine
-
+30871	feminine
 30876	masculine
 feminine
-30880	
 30883	neuter
 30886	masculine
-
-neuter
+30888	neuter
 30890	feminine
 masculine
-30899	
-neuter
+30900	neuter
 masculine
-30903	
-
-
-30908	
-feminine
-30914	
-30916	
-30918	
+30903	feminine
+30909	feminine
 30920	masculine
 30923	masculine
 masculine
-
-feminine
-30930	
+30926	feminine
 30934	masculine
 30936	masculine
-
-
 30942	masculine/feminine
-
-
 30946	feminine
 masculine/neuter
-
 30950	neuter
-30952	
-feminine
-
+30953	feminine
 30956	neuter
-30958	
-feminine
-
-
+30959	feminine
 30963	feminine
 masculine
-30966	
-
 30969	neuter
-
 30973	masculine
-
-masculine
-30977	
-30980	
-
-
-30985	
+30975	masculine
+30982	masculine
 30991	masculine
 masculine
 masculine
 30995	masculine/feminine
-31000	
-31002	
 31010	masculine
-
-
-
-31017	
-
-31020	
 31022	neuter
-
-
-neuter
+31025	neuter
 31029	masculine
-31032	
-feminine
-31035	
-feminine
+31033	feminine
+31036	feminine
 31040	feminine
 31042	feminine
 masculine
 31045	neuter
 31047	feminine
 feminine
-
-
-feminine
+31051	feminine
 31054	neuter
 masculine
 31061	neuter
-
-masculine/neuter
-31067	
+31063	feminine
 31072	masculine
-
 31075	feminine
-31077	
-
-31083	
-neuter
+31084	neuter
 masculine
-31087	
-
-
-31092	
-31095	
-
-feminine
+31097	feminine
 masculine
-
 31101	feminine
 feminine
-
 31105	neuter
-
 31108	masculine
 masculine
-
-31112	
-31114	
-
+31116	masculine
+31120	masculine
 masculine
-31119	
-masculine
-masculine
-
-masculine
-
-masculine
+31123	neuter
+31125	masculine
 feminine
 masculine
-
-masculine
-31132	
+31129	masculine
 31134	feminine
-
 31137	masculine
-
-
+31140	masculine
 masculine
-masculine
-31144	
 31147	masculine
 masculine
-
-31151	
-
-31155	
-masculine
+31156	masculine
 31158	masculine
 31161	masculine/feminine
 31163	masculine/feminine
-31165	
-
-31170	
+31171	masculine
+31176	neuter
 masculine
-31175	
-neuter
+31182	masculine
 masculine
-
-
-31181	
-masculine
-masculine
-
-31187	
-
-
 31191	masculine
 masculine
-31194	
-
-
-31198	
 31200	neuter
-31202	
-
 31206	masculine
 31208	neuter
-31210	
-
-31213	
 31215	masculine
-
-masculine
-
-neuter
-31222	
-31224	
+31217	masculine
+31219	neuter
+31225	feminine
 feminine
-feminine
-31228	
 31230	neuter
-31232	
-31234	
 31236	masculine
-
-masculine
-
-31242	
-
-
-
-
-masculine
+31238	masculine
+31247	masculine
 31249	masculine
 31251	masculine/feminine
-
-masculine
-31255	
+31253	masculine
 31258	feminine
 masculine
 neuter
-
 31265	feminine
-31267	
-31270	
-masculine
+31271	masculine
 31273	neuter
 31275	feminine
 feminine
-31278	
-31281	
-neuter
-31284	
+31282	neuter
 31286	masculine
-31288	
 31293	neuter
-
-31296	
-
-masculine/neuter
+31298	masculine/neuter
 31300	masculine/neuter
 feminine
-
-
-31306	
 31308	masculine
 31310	masculine/neuter
 31314	neuter
 31316	feminine
-31318	
-31320	
-masculine/neuter
+31321	masculine/neuter
 neuter
 31324	masculine
-
-feminine
+31326	feminine
 31328	feminine
-31330	
-
 31334	feminine
-
-feminine
+31336	feminine
 31338	feminine
-
 31341	neuter
 feminine
-
 31345	feminine
 31349	feminine
-
+masculine
 masculine
 31353	masculine/feminine
 feminine
-
-
-
-masculine/neuter
+31358	masculine/neuter
 31362	feminine
 31365	masculine/feminine
-31368	
+31369	feminine
 feminine
+31373	neuter
+31377	neuter
 feminine
-31372	
-neuter
-31376	
-neuter
-masculine/neuter
-31381	
 31383	masculine
-
 31386	masculine
 neuter
-
 31390	masculine
 masculine
 neuter
-
 31395	feminine
-
 31398	neuter
 31402	neuter
-31405	
-masculine
+31406	masculine
 feminine
 31410	neuter
-
 31414	masculine
-
-masculine
+31416	masculine
 masculine
 neuter
-31420	
-
-31423	
-
-
 31427	masculine
-
 31430	masculine
 feminine
-
-neuter
-
-31438	
-31440	
+31433	neuter
+31441	feminine
 feminine
-feminine
-
-
 31448	masculine
 masculine
 masculine/feminine
-
-31454	
 31456	masculine
 masculine
 neuter
-31463	
-
-feminine
-
-feminine
+31465	feminine
+31467	feminine
 masculine
-31470	
-31472	
 31479	masculine
 31481	neuter
-
 31484	masculine
-31488	
-feminine
-
-
-31493	
-
-masculine/neuter
+31489	feminine
+31495	masculine/neuter
 neuter
-
-
-feminine
+31499	feminine
 31502	neuter
 neuter
 31505	masculine
-31507	
 31510	masculine
 31512	neuter
-
-
-feminine
+31515	feminine
 31518	feminine
 neuter
-31523	
-31525	
 31528	feminine
 feminine
 neuter
 31532	neuter
 masculine
 masculine/feminine
-31536	
-masculine
-31539	
-masculine
-31542	
-
-31545	
+31537	masculine
+31540	masculine
 31548	neuter
-
-31552	
-31554	
-
-31557	
 31559	masculine
-
-31565	
-
 31569	masculine
 31571	neuter
 31575	neuter
-31577	
-
-31581	
-masculine
+31582	masculine
 neuter
 31585	feminine
 feminine
 neuter
 31589	masculine
 neuter
-31592	
-
-feminine
+31594	feminine
 31596	masculine
 masculine
-31599	
-
-feminine
+31601	feminine
 31603	feminine
-31606	
-neuter
-31610	
-neuter
+31607	neuter
+31611	neuter
 31615	feminine
 31619	masculine/neuter
 31622	feminine
 31626	feminine
 31628	masculine/feminine/neuter
-31630	
 31632	neuter
 31635	feminine
 31638	feminine
 31640	masculine
-31644	
-masculine
+31645	masculine
 feminine
 31651	neuter
-
-masculine
-31657	
-
-masculine/neuter
-31661	
-
-
+31653	masculine
+31659	masculine/neuter
+31663	feminine
 31665	neuter
-
-masculine
+31667	masculine
 31670	feminine
-
 31673	neuter
-
-31676	
-31678	
-31680	
-31682	
-masculine/neuter
-
-
-masculine/neuter
-
+31683	masculine/neuter
+31686	masculine/neuter
 31689	masculine
 masculine
 feminine
-
-feminine
+31693	feminine
 31695	neuter
 feminine
-31700	masculine
+31700	neuter
 masculine
 31707	neuter
 neuter
-
-feminine
+31710	feminine
 31712	feminine
 feminine
-
-masculine
+31715	masculine
 feminine
-31718	
-feminine
+31719	feminine
 31722	masculine/feminine
-
-neuter
-
+31724	neuter
 31728	masculine/neuter
-
 31732	neuter
 31735	masculine/feminine
-31737	
-31739	
-31742	
-
 31745	masculine
-
 31748	feminine
 31750	masculine
-
-
-
-neuter
-31756	
-31759	
-31761	
-
+31754	neuter
+31763	masculine
 masculine
-masculine
-31766	
-feminine
-
-31770	
-31772	
+31767	feminine
 31774	neuter
 31777	feminine
 31781	feminine
 feminine
 neuter
-
-masculine
+31785	neuter
 31788	masculine
 masculine
 masculine
 masculine
-31794	
 31797	masculine
-
 31800	masculine
-
-masculine
+31802	masculine
 neuter
-31806	
-31808	
-neuter
+31809	neuter
 masculine
-
 31813	feminine
 masculine
-
-masculine
-
+31816	masculine
 31819	masculine
-
-31822	
-31824	
 31827	masculine
-31830	
 31834	neuter
 31836	masculine
-31838	
-31842	masculine/feminine
-
+31842	masculine
 31845	masculine
-
-
-
 31853	masculine
 neuter
-31859	
+31860	neuter
 neuter
-neuter
-
-31864	
-31866	
-31868	
-feminine
+31869	feminine
 masculine/neuter
-31872	
 31875	feminine
-31877	
-31879	
-neuter
-
-
+31880	neuter
+31883	masculine
 masculine
 masculine
+31888	masculine
 masculine
-31887	
-masculine
-masculine
-
-masculine
-masculine/neuter
-masculine
-masculine
-
-31897	feminine
-
+31891	masculine
 feminine
+masculine
+masculine
+31897	feminine
+31899	feminine
 31902	masculine
 31904	masculine
 masculine/feminine
-
-
-31909	
 31911	masculine
 feminine
 31914	neuter
 31916	feminine
-
-
 31920	masculine
 31923	masculine/feminine
 31925	neuter
-
-
-feminine
+31928	feminine
 neuter
 31932	masculine
 neuter
-31938	
-31940	
-neuter
+31941	neuter
 31944	masculine
-
 31947	masculine/feminine/neuter
 feminine
 31952	feminine
@@ -18919,657 +10047,277 @@ masculine
 31957	masculine
 31960	masculine
 31964	neuter
-
-31969	
 31971	neuter
-31973	
 31975	feminine
-
-masculine/neuter
+31977	masculine/neuter
 masculine
-31983	
-masculine/neuter
-
+31984	feminine
 31987	masculine
-
-masculine
-31992	
-
+31989	masculine
 31995	neuter
 31999	masculine
-32007	
 32011	masculine
 32013	neuter
-
-feminine
-32019	
-
-
-32024	
+32015	feminine
+32025	masculine
 masculine
 masculine
 masculine
-masculine
-32030	
-
 32033	masculine
-32035	
-masculine
+32036	masculine
 32039	masculine
 feminine
-
-masculine
-
-32046	
-feminine
-
-32050	
-
-
-32054	
-32056	
-32058	
-32060	
-
-
-32064	
-32066	
-32068	
-32070	
-32072	
-32074	
-32076	
-neuter
-
-masculine
-
-32082	
-32084	
-32086	
-masculine
-
-32090	
-32092	
-32094	
-32096	
-neuter
-
-masculine
-
-32102	
-32104	
-32106	
-
-
-masculine
-
-masculine
-
-32114	
-32116	
-32118	
-masculine
-
-32122	
-32124	
-32126	
-32128	
-32130	
-32132	
-32134	
-feminine
-
-32138	
-32140	
-32142	
-32144	
-32146	
-32148	
-masculine
-
-32152	
-32154	
-32156	
-32158	
-32160	
-32162	
-32164	
-32166	
-32168	
-feminine
-
-32172	
-32174	
-32176	
-32178	
-32180	
-32182	
-32184	
-32186	
-32188	
-32190	
-
-
-32194	
-32196	
-neuter
+32042	masculine
+32047	feminine
+32077	neuter
+32079	masculine
+32087	masculine
+32097	neuter
+32099	masculine
+32109	masculine
+32111	masculine
+32119	masculine
+32135	feminine
+32149	masculine
+32169	feminine
+32197	neuter
 masculine
 32200	masculine/feminine
 32202	masculine
-
-
-
-masculine
-32209	
-
-32212	
-
-masculine/neuter
+32206	masculine
+32214	masculine/neuter
 feminine
-32218	
-
-
-masculine
-
-32225	
+32221	masculine
 32227	feminine
 32231	neuter
-32233	
 32235	neuter
 masculine
-32238	
-masculine
-
-
-neuter
-
-
-
-neuter
-
-feminine
-32251	
+32239	masculine
+32242	neuter
+32246	neuter
+32248	feminine
 32254	masculine
 masculine
-32257	
-
-32260	
-
-
-masculine
+32263	masculine
 32265	masculine
 32269	neuter
-
+feminine
 feminine
 feminine
 32274	feminine
-
-32277	
-32279	
-neuter
+32280	neuter
 masculine
-32283	
-
 32286	feminine
 32291	feminine
 neuter
-
-masculine
+32294	masculine
 32298	masculine
-
-
 32304	masculine
-
-
+32306	masculine/feminine
 masculine/neuter
 32309	masculine/neuter
 feminine
-32312	
+32313	masculine
 masculine
-masculine
-
-neuter
-32318	
-masculine
+32316	neuter
+32319	masculine
 32321	neuter
-
 32324	neuter
-
-
-32330	
-32334	
-32337	
-masculine/neuter
-32340	
-neuter
-
+32338	masculine/neuter
+32341	neuter
+32343	masculine
+32346	neuter
+32348	masculine
+32356	neuter
+32359	masculine/neuter
+32367	masculine/neuter
+32369	masculine
 masculine
-
-
-neuter
-
-masculine
-32350	
-32353	
-32355	
-neuter
-
-
-masculine/neuter
-
-
-
-32364	
-
-
-masculine/neuter
-
+32380	neuter
 masculine
 masculine
-32376	
-32378	
-
-neuter
-masculine
-masculine
-
-
-
-
-masculine
+32387	masculine
 32389	neuter
-
-masculine
-
-masculine
+32391	masculine
+32393	neuter
 32395	masculine
-32397	
 32399	neuter
 32401	masculine
 masculine
-
+32404	masculine
 masculine
-masculine
-
-
-feminine
-
-32411	
+32408	feminine
 32413	feminine
 32415	feminine
-
 32418	feminine
-32420	
-
-neuter
-32426	
+32422	neuter
 32429	neuter
-32431	
 32433	masculine
-
-
-32437	
-
-32441	
-
+32437	masculine/feminine
 32445	neuter
-
-
+32448	feminine
 feminine
-feminine
-32451	
-32455	
 32459	neuter
-32461	
-32465	
-32468	
-32471	
-
-masculine
+32471	masculine/feminine
+32473	masculine
 32475	masculine
 32477	masculine
 masculine/feminine
 32483	masculine/feminine/neuter
-
-32486	
-32490	
-32492	
-32494	
-feminine
-
+32495	feminine
 32498	masculine
 neuter
-32501	
 32504	masculine
-
-
 32510	masculine
-32512	
-
-masculine
-
+32514	masculine
 32517	neuter
-
-32520	
-32523	
 32526	feminine
 neuter
-32529	
 32531	feminine
 feminine
-32535	
-neuter
-32538	
-
-32541	
+32536	neuter
 32543	masculine
 32545	masculine/neuter
-
-
 32549	neuter
-32551	
-
-masculine
-32558	
-32561	
-
-32565	
+32553	masculine
+32561	masculine
 32568	masculine
 masculine
 feminine
 32572	feminine
-
 32576	masculine
-32579	
-
-32582	
-
 32585	feminine
-
-
-
-32590	
-32593	
-
 32596	neuter
 32598	feminine
-32600	
-
+32602	feminine
 feminine
-feminine
-
-
 32607	feminine
-32609	
-
-32612	
-
-masculine
-32616	
-neuter
-
+32614	masculine
+32617	neuter
 32620	feminine
-32622	
-32626	
-
+32627	feminine
 32629	feminine
 32632	feminine
 neuter
-
-feminine
-
-masculine
-
+32635	feminine
+32637	masculine
 32641	feminine
 32644	feminine
-32647	
-
-
-
-32652	
-32654	
 32658	neuter
-32660	
-masculine
+32661	masculine
 32663	masculine
 masculine
 32668	masculine
-
-
-masculine
+32671	masculine
 32673	feminine
 32675	masculine
-
-32678	
-32682	
-32684	
-32686	
-masculine
+32684	masculine
+32687	masculine
 32689	masculine/feminine
 feminine
 feminine
-
-neuter
-32695	
-32700	neuter
+32693	neuter
+32700	feminine
 masculine
 neuter
-
-masculine
-
-
+32704	masculine
 32710	feminine
-32712	
-32715	
-32720	
-
 32723	neuter
-
-
-feminine
-
-masculine
+32726	feminine
+32728	masculine
 32730	neuter
-32732	
-
-masculine
-
-32737	
+32734	masculine
 32739	masculine/neuter
-32742	
-
-32745	
-neuter
+32746	neuter
 masculine/feminine
-32749	
+32750	masculine
+32754	masculine/feminine
+32757	masculine/feminine
+32759	masculine
 masculine
-32753	
-masculine/feminine
-
-
-masculine/feminine
-
-masculine
-masculine
-
-neuter
-32764	
+32762	neuter
+32765	masculine
 masculine
 masculine
 masculine
-masculine
-32771	
 32773	neuter
-32775	
 32778	neuter
-
 32781	masculine
-
 32784	neuter
-32786	
 32790	masculine
-
-32794	
 32797	masculine
 masculine/feminine
 masculine
-32802	
-
-feminine
+32804	feminine
 32806	feminine
-
-32814	
-neuter
-
-neuter
-
-masculine
-32822	
-
-32825	
+32815	neuter
+32817	neuter
+32819	neuter
 32827	masculine
-
-
 32831	feminine
 32833	feminine
-32835	
-32837	
-32842	
-32844	
 32847	masculine
-
-32850	
-
-32854	
 32858	feminine
-
-neuter
-32863	
-
-32867	
-masculine
-
-masculine
-
+32860	neuter
+32868	masculine
+32870	masculine
 32875	masculine
 32879	neuter
 feminine
 feminine
-
-32885	
 32888	neuter
-
-feminine
+32890	feminine
 masculine
 32893	masculine
-
-32896	
+32897	masculine
 masculine
-masculine
-
-neuter
+32900	neuter
 32902	masculine
-
-
-feminine
-32907	
+32905	feminine
 32910	masculine
 32915	feminine
-32917	
-
-masculine/feminine
+32919	masculine/feminine
 32922	masculine
-
-
-32927	
-
+32928	masculine
 neuter
-32931	
-32933	
-masculine
+32934	masculine
 32937	neuter
 masculine
-32940	
-32943	
-masculine
+32944	masculine
 32947	masculine
-32950	
 32952	feminine
-
-neuter
-
-
-32958	
-32960	
-32962	
-feminine
+32954	neuter
+32963	feminine
 feminine
 32966	feminine
-32969	
-
-32973	
-neuter
-32979	
-neuter
-32983	
-32985	
-32990	
+32974	neuter
+32980	neuter
 32993	masculine
-
 32997	masculine
 32999	masculine/feminine
 33001	feminine
 masculine
-
-neuter
+33004	neuter
 feminine
-
-33008	
-
-feminine
+33010	feminine
 33012	masculine
-
-33015	
-33017	
 33019	feminine
 33021	neuter
 masculine
-33024	
-
-33030	
-33032	
-masculine
-
-33038	
-
-33043	
-neuter
+33033	masculine
+33044	neuter
 feminine
 feminine
-
-feminine
-33050	
-masculine
-
-masculine
+33048	feminine
+33051	masculine
+33053	masculine
 33055	feminine
-33060	
-33062	
-33064	
-
-neuter
+33066	neuter
 feminine
-33071	
 33073	feminine
-33075	
 33077	neuter
 feminine
 neuter
-33081	
-33083	
-
-
-33088	
 33091	neuter
 33096	feminine
 neuter
@@ -19577,267 +10325,136 @@ neuter
 masculine
 33104	masculine
 masculine
-
 33108	masculine/neuter
 masculine
 masculine
-
 33113	masculine/neuter
-
-33117	
-masculine
+33118	masculine
 masculine
 33126	masculine/feminine
 neuter
-
-
+33130	feminine
 feminine
 feminine
-feminine
-
-
-
 33140	masculine
-
 33143	masculine/feminine
-
-
-
-33149	
 33153	masculine
 masculine
-
-
-
-
+feminine
 33160	feminine
-
-masculine
+33162	masculine
 33165	neuter
-33167	
 33169	feminine
 33171	masculine
 33173	neuter
 masculine
-33176	
-
-33180	
 33182	masculine/neuter
 masculine
-33185	
 33187	masculine/feminine
 feminine
 masculine
 33193	neuter
-
 33197	neuter
 masculine
 masculine
 masculine
 33202	feminine
-33204	
-33206	
 33208	feminine
-
-neuter
+33210	neuter
 masculine
-
-33215	
+33216	feminine
 feminine
-feminine
-
 33220	neuter
 33224	neuter
-33227	
 33229	masculine
 masculine
-
-masculine
-33234	
-
-
-33238	
-33240	
-masculine
-
+33232	masculine
+33241	masculine
+33243	neuter
 neuter
-neuter
-
-33247	
+33247	masculine
 masculine
-33250	
-neuter
-33253	
-
-33259	
-masculine/neuter
+33251	neuter
+33260	masculine/neuter
 33262	neuter
-33265	
-masculine
-
+33266	masculine
 33269	masculine/neuter
 33272	masculine
-33274	
 33276	masculine/neuter
 masculine/neuter
-33280	
-33283	
 33288	masculine/feminine
-
-33291	
-feminine
-
+33292	feminine
 33295	feminine
 33297	feminine
 33301	feminine
 masculine
-
-
-33306	
-33309	
-33312	
-
-33316	
-33319	
-33321	
-33323	
-
+33324	masculine/feminine
 neuter
 33327	masculine
 33329	feminine
-
-33332	neuter
+33332	feminine
 33335	masculine
-
-33338	
-neuter
+33339	feminine
 feminine
-
-
 33344	masculine/feminine
-
-33347	
 33349	masculine
 neuter
-
-masculine
+33352	masculine
 33354	masculine
 33357	neuter
-
-33360	
-
+33362	feminine
 feminine
-feminine
-
-33366	
-
-masculine
+33368	masculine
 masculine
 33371	masculine
 33373	masculine
 masculine/feminine
-33378	
-feminine
+33379	feminine
 masculine/feminine
 masculine
 feminine
-
-
-masculine
+33385	masculine
 33387	masculine
 33391	masculine
 masculine
 33395	neuter
-
-
 33400	neuter
-
-
-33404	
-feminine
+33405	feminine
 neuter
-33408	masculine
-33410	
-
+33412	feminine
 feminine
-feminine
-
-
-33417	
-33419	
-
-33422	
-
+33424	masculine
 masculine
-masculine
-
+33427	feminine
 feminine
-feminine
-
-
 33432	feminine
 33434	feminine
-
-
-33438	
-
-
-33442	
-33445	
-
-
-33450	
-33453	
-
+33454	masculine/feminine
 neuter
-
 33458	masculine
-
-
-
 33464	neuter
 33467	neuter
 33469	feminine
-
-33473	
 33475	neuter
-33478	
-masculine
-
-
-
+33479	masculine
 33484	masculine
-
-feminine
-
-33489	
-
+33486	feminine
 33493	neuter
-
 33496	neuter
-33498	
-neuter
-
+33499	neuter
 33503	masculine
 masculine
-
 33507	neuter
 masculine
-
 33513	neuter
-
-
-feminine
+33516	feminine
 neuter
-33519	
 33522	masculine
 33524	masculine
 masculine/feminine
-
 33528	neuter
 masculine
-33531	
-masculine
+33532	masculine
 33535	masculine
 masculine
 neuter
@@ -19846,229 +10463,109 @@ neuter
 masculine
 feminine
 neuter
-
-feminine
+33546	feminine
 masculine
 33549	feminine
-
-33552	
-33554	
+33555	masculine
 masculine
-masculine
-
-33560	
-feminine
+33561	feminine
 masculine/neuter
 masculine
-33566	
+33567	masculine
 masculine
-
-33570	
-33572	
-masculine/feminine
-
-33576	
-feminine
+33573	masculine/feminine
+33577	feminine
 masculine
-33580	
 33583	masculine
 masculine
 masculine
 masculine/neuter
 feminine
 33589	feminine
-
-
 33593	masculine
 feminine
 33596	masculine
-33598	
-masculine/neuter
+33599	masculine/neuter
 33601	masculine/neuter
 masculine
 33604	masculine
-
-33608	
-
-33611	
-
-33614	
+33608	feminine
 33616	masculine
 masculine
 33619	neuter
-33621	
-
 33625	feminine
-33628	
 33630	neuter
 masculine
 masculine
-
-
-
 33638	feminine
-
-33642	
-33645	
-33648	
-33650	
-
-
-
 33655	masculine
-
 33661	masculine
-
-33664	
-33666	
-
-33671	
-
-
-33676	
-neuter
+33677	neuter
 masculine
-
-33681	
-
-33685	
-masculine
+33686	masculine
 33688	masculine
 masculine/feminine
 33696	masculine
-
-
-
-neuter
+33700	neuter
 masculine
-
-33704	
-masculine
+33705	masculine
 33708	masculine/feminine
 masculine
-
-masculine
-
+33711	masculine
 33714	masculine
-33720	
-33722	
-33724	neuter
-33727	
-masculine
+33724	feminine
+33728	masculine
 masculine
 neuter
-33732	
-33738	
 33740	feminine
-33742	
-neuter
-
-masculine
-
-33751	
-33754	
+33743	neuter
+33745	masculine
+33755	masculine
 masculine
 masculine
-feminine
 33760	masculine
-
 33767	masculine
 33769	neuter
-33771	
-
-
-33776	
-neuter
+33777	neuter
 33783	feminine
 33789	neuter
-33791	
-33794	
-masculine
-
+33795	masculine
 33798	masculine
-33800	
-neuter
+33801	neuter
 masculine
-33804	
 33806	masculine
 masculine
-
-feminine
-33812	
-33817	
-33823	
-33825	
+33809	feminine
 33827	feminine
 33829	neuter
 feminine
 feminine
-
-feminine
+33833	feminine
 33837	masculine
 masculine
 33840	masculine
-33842	
-
-
-33846	
-
-
-
-neuter
+33850	neuter
 33856	neuter
-
-33859	
-feminine
-
-feminine
-
+33860	feminine
+33862	feminine
 33865	feminine
-
-33869	
 33871	masculine
-33873	
-
-
 33877	masculine
 masculine
-33881	
-feminine
-
-33885	
-33887	
-
-
-neuter
-
-
-
-33898	
-neuter
-
+33882	feminine
+33890	neuter
+33899	neuter
 33902	feminine
-
-masculine
-33906	
+33904	masculine
 33909	feminine
 33911	neuter
 33915	feminine
-33917	
 33920	neuter
-
-33923	
-masculine
-33927	
+33924	masculine
 33929	feminine
-33933	
 33935	masculine
-33938	
-masculine
-
-
-
-
-neuter
-33946	
+33939	masculine
+33944	neuter
 33948	feminine
 33951	masculine
 neuter
@@ -20083,578 +10580,287 @@ feminine
 33977	masculine/feminine
 33979	masculine
 33981	neuter
-33983	
 33990	neuter
 masculine
 33993	masculine
 33996	masculine
-34002	
 34004	neuter
-
-
-34008	
 34012	masculine/neuter
 neuter
-34017	
-34019	
-feminine
+34020	feminine
 34022	feminine
 34027	masculine/neuter
 masculine
 34031	masculine/feminine
-
-
-neuter
-34037	
-masculine/neuter
+34034	neuter
+34038	masculine/neuter
 masculine
 neuter
 34042	masculine
 masculine
-
-
 34050	masculine
-34052	
 34054	neuter
-
-feminine
+34056	feminine
 34058	neuter
-
-34061	
 34063	masculine
-34065	
 34068	neuter
-
 34071	masculine
 neuter
-
-masculine
+34074	masculine
 masculine
 masculine/feminine
-
-feminine
+34078	feminine
 34080	feminine
 feminine
-
-neuter
+34083	neuter
 masculine/feminine
 masculine
-34088	
 34090	masculine/feminine
 masculine
-34094	
-
-masculine/feminine
-
+34096	masculine/feminine
 34100	feminine
 masculine
 feminine
-34105	
-feminine
-34110	
-34112	
-feminine
-
-neuter
-34117	
-
-
-feminine
-
-
-feminine
-
-feminine
-34127	
-
+34106	feminine
+34113	feminine
+34115	neuter
+34120	feminine
+34123	feminine
+34125	feminine
 34130	masculine
 34132	feminine
-34134	
-
-34137	
-neuter
+34138	neuter
 feminine
-34141	
-34143	
-masculine
+34144	masculine
 masculine
 neuter
-
-34149	
-34152	
-
-34155	
-feminine
-34158	
-masculine
-34162	
-
+34156	feminine
+34159	masculine
 34165	masculine
 masculine
-34168	
-
 34174	masculine
 feminine
-
 34178	masculine
 feminine
-
-neuter
+34181	neuter
 feminine
-34184	
 34187	masculine
 masculine
 neuter
-
-
-
-34194	
-
 34198	feminine
 masculine
-
-34202	
-feminine
-
+34203	feminine
 34206	masculine
 feminine
-
-
-feminine
+34210	feminine
 masculine/neuter
 feminine
-
-
-
-
-34219	
-34222	
-34224	
-
-34227	
 34232	feminine
 masculine
-34236	
-
-
-34240	
-
 34243	neuter
 neuter
 masculine
-
-34249	
-
-
-
-masculine
+34253	masculine
 feminine
-
-neuter
-
-34259	
-
+34256	neuter
 34262	masculine
 feminine
 feminine
-
 34270	masculine
 34273	masculine
-34275	
 34278	masculine
-
 34282	feminine
 feminine
-
 34288	masculine
 34292	masculine/neuter
 34294	masculine
-
 34297	feminine
-
 34300	feminine
-
 34307	masculine/neuter
-
-
+34310	neuter
 neuter
-neuter
-
-
 34316	feminine
-34318	
-34320	
 34322	masculine
 34325	masculine
 34327	feminine
-34330	
-
-masculine/neuter
-
-34337	
+34332	masculine/neuter
 34341	masculine
-
-masculine
+34343	masculine
 34345	masculine
 34347	feminine
 masculine
 34351	masculine
-
-34354	
-masculine
-
+34355	masculine
 34358	masculine
-
-34361	
-masculine
-
-
-34367	
-34370	
+34362	masculine
 34372	neuter
 masculine
 masculine
-34376	
-
 34380	feminine
-34384	
-
-
-
-34390	
-neuter
+34391	neuter
 feminine
 masculine
 34395	neuter
-34397	
-34399	
-34402	
 34404	feminine
-
-34412	
-masculine
+34413	masculine
 34415	neuter
 neuter
-34422	
-
-34425	
-34427	
 34430	masculine
-34432	
-
-masculine/feminine/neuter
-34436	
-
-
-feminine
-
-
-34443	
-masculine
-34446	
-34450	
-
-34453	
-34456	
-
+34434	masculine/feminine/neuter
+34439	feminine
+34444	masculine
 34459	masculine/neuter
 masculine
-
-neuter
+34462	neuter
 masculine
-
-neuter
+34465	neuter
 34467	masculine
-
-
 34471	masculine/neuter
-34473	
-34478	
-
-34481	
-34483	
-
-
 34489	neuter
 masculine
 masculine
 neuter
-feminine
+masculine
 34496	masculine
 masculine
 masculine
 masculine
 masculine
-34503	
-
-masculine/feminine/neuter
+34505	masculine/feminine/neuter
 masculine
-34508	
-34510	
-masculine
+34511	masculine
 masculine/neuter
 feminine
-feminine
-
 masculine
+34516	masculine
 feminine
-
-masculine
-34522	
-
-
+34519	masculine
 34527	feminine
-
 34530	masculine
 34532	masculine
 masculine
-
-
-masculine/neuter
-
+34536	masculine/neuter
 34539	neuter
-
 34543	feminine
-
 34547	neuter
 neuter
-34551	
+34552	masculine
 masculine
-masculine
-34555	
-
-neuter
-
+34557	neuter
 34560	masculine
 34565	feminine
 masculine
 feminine
-
 34570	masculine
-34572	
-
-
 34576	masculine
 masculine
-34580	
-feminine
-34583	
-34585	
+34581	feminine
 34588	neuter
-
 34591	feminine
-
-34595	
-masculine
-34598	
+34596	masculine
+34599	feminine
 feminine
-feminine
-34602	
-
-
-34606	neuter
+34606	feminine
 34608	masculine
-
 34611	masculine
-34613	
 34615	masculine
-
-masculine
+34617	masculine
 34621	feminine
-
 34624	feminine
-34626	
-
-
-masculine
-34632	
-
+34629	masculine
+34632	masculine
 34639	feminine
-34643	
-masculine
+34644	masculine
 neuter
 34647	neuter
-
+34649	feminine
 feminine
-feminine
-
-34653	
-
 34656	masculine
-34658	
+34659	masculine
 masculine
-
-
-34663	
-34665	
-neuter
-34668	
-34670	
-
-masculine
-
+34666	neuter
+34672	masculine
 34677	feminine
 feminine
 masculine
-34683	
 34685	masculine
 neuter
 masculine
-34693	
-34695	
+34695	masculine
 masculine
-
-34701	
-34703	
 34707	feminine
-34712	
-masculine/feminine
+34713	masculine/feminine
 masculine
 34716	masculine
-
-masculine/feminine
+34718	masculine/feminine
 neuter
 neuter
 34722	neuter
-
-feminine
-34726	
+34724	feminine
 34728	feminine
-34730	
-masculine
-
-masculine
+34731	masculine
+34733	masculine
 neuter
 masculine
 masculine
-
-
-34741	
-
-
 34745	neuter
 masculine
-
-34749	feminine
+34749	masculine
 neuter
-
-34753	
-34755	
-
-
 34760	masculine
 masculine/feminine
 masculine
-34765	
-34767	
-
-feminine
-34771	
+34769	feminine
 34773	neuter
 masculine
-34776	
-neuter
-34782	
-
-34787	
+34777	neuter
+34788	masculine
 masculine
 masculine
-masculine
-34793	
-
 34796	feminine
 masculine
 masculine
-34802	
-
-
-neuter
-
-
-
-
-feminine
-
-
-34816	
-34819	
+34805	neuter
+34810	masculine
 34822	masculine
-34824	
 34826	masculine
 neuter
 masculine
-34830	
-
-feminine
-
-
 34836	feminine
-
-34839	
-neuter
+34840	neuter
 masculine
 masculine
 neuter
-34847	
-34850	
-34855	
 34858	masculine/feminine
 masculine
-
-feminine
+34861	feminine
 neuter
-34865	
-feminine
-34872	
-masculine/feminine
+34866	feminine
+34873	masculine/feminine
 34876	masculine
 34878	masculine
 masculine
-
-34884	
-34886	
-
-34890	
+34886	feminine
 34893	masculine
-34896	
-34898	
-masculine
-
-
+34899	masculine
 34905	masculine
 masculine
-34908	
-34913	
-feminine
+34914	feminine
 neuter
-
-34921	
 34923	neuter
 masculine
-
-
-34928	
-
-masculine/feminine
-34932	
+34930	masculine/feminine
 34934	masculine
 34938	neuter
-34940	
-masculine
-34944	
-feminine
-
-feminine
-
-neuter
-34951	
-
-
-masculine
+34941	masculine
+34945	feminine
+34947	feminine
+34949	neuter
+34951	feminine
+34954	masculine
 34957	masculine
 masculine
 neuter
-
 34966	masculine/feminine
 feminine
 masculine/neuter
@@ -20663,345 +10869,167 @@ masculine
 masculine
 34975	masculine
 masculine
-34978	
-masculine
-34981	
-34983	
+34979	masculine
 34988	masculine
-34990	
+34991	masculine
 masculine
-masculine
-34994	
-masculine/feminine
-34997	
-masculine
-35000	
-masculine
-35003	
-35005	
-
-feminine
-
-feminine
-35012	
-masculine
-35015	
-35017	
-masculine/neuter
-35020	
-35022	
-35025	
-
-neuter
-35029	
+34995	masculine/feminine
+34998	masculine
+35001	masculine
+35007	feminine
+35009	feminine
+35013	masculine
+35018	masculine/neuter
+35027	neuter
 35031	neuter
-
-35035	
-masculine/neuter
-
-
-
-35042	
-masculine/neuter
+35036	masculine/neuter
+35043	masculine/neuter
 masculine
 35046	masculine/feminine
 35049	masculine/feminine
 35052	masculine
 masculine
-35055	
-masculine
-
+35056	masculine
 35059	feminine
 masculine
 masculine
-
-
-35067	
-masculine
+35068	masculine
 neuter
-35071	
 35073	masculine/feminine
-
-35076	
-
-neuter
-
-neuter
-35082	
-35084	
-
-
-neuter
-
-masculine
-
-35092	
-35094	
-35096	
+35078	neuter
+35080	neuter
+35087	neuter
+35089	masculine
 35098	masculine/feminine/neuter
-
-
-neuter
-35103	
-
-
-
-
+35101	neuter
 35109	masculine
-35113	
-masculine/feminine
-35116	
-
+35114	masculine/feminine
 35120	masculine
-35122	
-
-35125	
 35127	masculine
-
-neuter
-
-
-
-35134	
-35136	
-masculine
+35129	neuter
+35137	masculine
 35140	masculine
 35142	masculine
-
-
-feminine
-
-neuter
+35145	feminine
+35147	neuter
 35149	neuter
 35153	masculine
 masculine
-
 35157	masculine
 masculine
 35161	neuter
 35165	masculine
 masculine
 35170	masculine
-35174	
-neuter
-35177	
+35175	neuter
 35179	masculine
 35182	neuter
-
-35185	
 35187	feminine
 35189	feminine
-35192	
-
+35194	masculine
 masculine
-masculine
-
-neuter
-35199	
-feminine
+35197	neuter
+35200	feminine
 35203	masculine/neuter
 masculine
 neuter
-
-35208	
-35210	
-
-35214	
-35216	
 35218	masculine
 masculine
 35221	masculine
 masculine
 35225	masculine
 neuter
-35228	
-neuter
-
-
+35229	neuter
+35232	masculine
 masculine
-masculine
-
-feminine
+35235	feminine
 masculine
 35238	masculine
-35240	
-
 35243	masculine
-35245	
-neuter
+35246	neuter
 masculine
 35249	feminine
 35252	feminine
 feminine
-
 35256	feminine
-
 35261	masculine/feminine
 35263	feminine
-35265	
-
 35268	neuter
-35271	
-35274	
-35276	
-35278	
-35281	
-
-
-feminine
+35284	feminine
 35287	feminine
-
-
-
-
-feminine
-
+35292	feminine
 35295	feminine
 masculine
 masculine
 35299	feminine
-
-
 35304	neuter
 feminine
-35308	
 35312	neuter
-35321	
 35324	neuter
-35327	
-masculine
+35328	masculine
 masculine
 35331	masculine
 35333	masculine
-
-35336	
-
-neuter
+35338	neuter
 masculine
-35341	
-
-
-35345	
-masculine/feminine
+35346	masculine/feminine
 35349	feminine
 35353	neuter
-
-35358	
+35359	masculine
 masculine
-masculine
-
 35364	masculine
-
-
-neuter
+35367	neuter
 35369	masculine
-35372	
-
-35376	
-35378	
+35379	masculine
 masculine
-masculine
-
 35383	feminine
 masculine
 35387	feminine
 masculine
-
-neuter
-35393	
-masculine/feminine
+35390	neuter
+35394	masculine/feminine
 35396	neuter
 masculine/feminine
-
-35400	
-masculine
-
-
-
+35401	masculine
 35407	masculine/feminine
-
+35409	masculine
+35412	neuter
 masculine
-35411	
-neuter
-
-
-35416	
-35420	
-35427	
-
-
 35431	feminine
-35434	
-35436	
 35443	masculine
 35451	feminine
-35453	
 35458	masculine
-
-
 35462	feminine
 masculine
 35466	masculine
 35469	masculine
-
 35474	masculine
 35478	masculine
 masculine/feminine
-
-
-
-
-feminine
+35484	feminine
 feminine
 35487	feminine
 feminine
-
-
 35494	masculine
 35496	neuter
-
-
-35501	
-
+35503	feminine
 feminine
-feminine
-35506	
+35507	masculine
 masculine
-masculine
-
-
-neuter
+35511	neuter
 masculine/feminine
 35517	feminine
-
-
-35524	
-feminine
-
-
-
-
-
-
-masculine
-35534	
-
-feminine
-35540	
+35525	feminine
+35532	masculine
 35548	feminine
-
-neuter
+35550	neuter
 35552	masculine
 feminine
 masculine/feminine
 neuter
-35558	
-feminine
-
-feminine
-
-
-masculine/neuter
+35559	feminine
+35561	feminine
+35564	masculine/neuter
 35567	feminine
 feminine
 feminine
@@ -21009,403 +11037,202 @@ feminine
 neuter
 feminine
 35577	masculine
-35580	
 35585	feminine
 feminine
-35588	
-neuter
-
-feminine
-
+35589	neuter
+35591	feminine
 35594	masculine/neuter
-35596	
 35599	feminine
-
 35602	masculine/neuter
-35605	
-neuter
-
-
+35606	feminine
+35609	masculine
 masculine
-masculine
-
-
 35615	neuter
-35617	
-
-
 35621	masculine
-35623	
-
 35626	masculine
-35628	
 35630	neuter
 feminine
-
-
 35637	masculine
-
-
 35641	feminine
-35643	
-35645	neuter
+35645	feminine
 35647	masculine
 35651	masculine
-
-
-
-masculine/neuter
+35655	masculine/neuter
 masculine
 35658	feminine
 feminine
 feminine
 35664	masculine
-
-
 35668	feminine
-35670	
-35672	
-
-masculine
+35674	masculine
 neuter
 feminine
 masculine
 35679	masculine
-
-35684	
 35687	masculine
 masculine
 neuter
 masculine/feminine
-35692	
-feminine
-
-masculine
-35697	
-
+35693	feminine
+35695	masculine
 35701	neuter
-
 35704	feminine
-
-neuter
-35710	
-35712	
+35706	neuter
 35714	masculine
 35718	masculine
-
 35723	feminine
-
-masculine
+35725	masculine
 35728	masculine
-35730	
-neuter
+35731	neuter
 masculine
-35734	
 35736	masculine
-
-masculine
+35738	masculine
 35742	masculine
-35745	
-35748	
 35750	feminine
 neuter
-
-masculine
+35753	masculine
 35756	masculine
-35758	
 35760	feminine
 masculine/feminine
-35764	
-feminine
+35765	feminine
 35771	feminine
-
-masculine/neuter
+35773	masculine/neuter
 masculine/feminine
 35776	masculine
 masculine/neuter
-35779	
-masculine
-35782	
-35785	
-feminine
+35780	masculine
+35786	feminine
 feminine
 masculine
-35790	
-masculine
-35794	
-masculine
-35797	
+35791	masculine
+35795	masculine
 35799	feminine
-
-masculine
-35805	
-masculine/neuter
-35809	
-
+35801	masculine
+35806	masculine/neuter
+35811	feminine
 feminine
+35817	feminine
 feminine
-35814	
-35816	
-feminine
-feminine
-35820	
 35824	masculine/neuter
 35826	masculine/neuter
-
-
 35831	neuter
-
-
 35835	neuter
-
-
-
-
-35841	
-feminine
-
-
-masculine
+35842	feminine
+35845	masculine
 masculine
 35849	masculine
-
 35853	masculine
 masculine
-
-neuter
-35858	feminine
+35856	neuter
+35858	masculine
 masculine
 masculine
-
-masculine
-35865	
-neuter
-
-
-35870	
-
-35873	
-35875	
+35862	masculine
+35866	neuter
 35877	neuter
-35880	
-masculine
-
+35881	masculine
 35884	masculine
-
-35887	
 35889	neuter
 35894	feminine
 feminine
 35897	masculine
 35899	neuter
-35901	
 35904	neuter
-neuter
-35908	
-35910	neuter
-
 feminine
-
+35910	neuter
+35912	feminine
 35915	masculine
-35917	
-35919	
-
-35922	
-masculine
-35925	
-
+35923	masculine
 35929	feminine
 masculine
 35933	masculine
-35935	
-masculine
-35939	
-neuter
+35936	masculine
+35940	neuter
 35943	masculine
-35946	
 35948	masculine/neuter
 masculine/neuter
-35953	
 35956	masculine
 masculine
 neuter
-35960	
-35963	
-
-35966	
 35968	feminine
-35970	
-
 35973	neuter
-
-35978	
-
-35985	
-35988	
 35990	masculine
 masculine
 masculine
-
-masculine
-35997	
-
-36001	
-36003	
-36006	
+35994	masculine
 36009	masculine/feminine/neuter
-
 36012	neuter
-
-feminine
+36014	feminine
 feminine
 feminine
 36020	masculine
 36023	masculine/feminine
 neuter
-36027	
-36030	
-
-36033	
-feminine
+36034	feminine
 36036	masculine/neuter
 neuter
 masculine
-36040	
 36042	feminine
 feminine
 masculine
-36047	
 36049	feminine
 36052	neuter
-
 36055	feminine
-
 36058	masculine/feminine
-
-36062	
-neuter
-36067	
-36071	
-feminine
-
-36076	
+36063	neuter
+36072	feminine
 36079	masculine
 36083	masculine
-
-neuter
-36087	
-36089	
-neuter
+36085	neuter
+36090	neuter
 masculine
-36093	
+36094	masculine
 masculine
-masculine
-
-neuter
-
-masculine/neuter
-
-
-masculine
-36105	
-36107	
-36109	
-36112	
-
-feminine
-36117	
-36124	
-masculine
+36097	neuter
+36099	masculine/neuter
+36102	masculine
+36114	feminine
+36125	masculine
 36127	masculine
 neuter
 neuter
-36131	
-
-masculine/neuter
-
-feminine
+36133	masculine/neuter
+36135	feminine
 masculine
-
 36140	masculine
 masculine
 neuter
-
-
 36146	masculine
-36148	
-36150	
-
-neuter
+36152	neuter
 feminine
-
-36157	
-36159	
-masculine
-
-masculine
-
+36160	masculine
+36162	masculine
 36165	neuter
-36167	
-36169	
 36171	feminine
 feminine
 feminine
-
-
-neuter
-36180	
-
-masculine
-
-
+36176	neuter
+36182	masculine
 36188	masculine
 masculine
 36191	neuter
 neuter
-
-
-feminine
-
-
-36201	
-feminine
-36204	
-
-
-
+36195	feminine
+36202	feminine
 36214	masculine
-36218	
-36221	
-36225	
-36228	
-36230	
-36234	
-36239	
-neuter
+36240	neuter
 36244	masculine/feminine
 neuter
 neuter
-
-neuter
+36248	neuter
 36250	neuter
-
-36254	
-masculine
+36255	masculine
 36260	neuter
 masculine
-36263	
-
-masculine
-36268	
-36274	
-feminine
+36265	masculine
+36275	feminine
 masculine
 36279	feminine
-
-36286	
-
-36289	
-
 36292	neuter
 masculine
 36296	masculine/feminine
@@ -21413,651 +11240,322 @@ masculine
 neuter
 36301	masculine/feminine
 neuter
-
 36306	masculine
-
-
-36311	
-36313	
-feminine
-
-
-masculine
-36320	
+36314	feminine
+36317	masculine
 36322	feminine
 36326	feminine
-
-neuter
+36328	neuter
 masculine
 masculine
-
-36333	
-36337	
 36339	masculine
-36341	
 36344	masculine
-36347	
-
-36351	
 36355	masculine
 36357	masculine
-
 36360	neuter
-
 36364	masculine
-36368	
 36371	neuter
-
-feminine
+36373	feminine
 masculine/feminine
-
-neuter
-
-masculine
+36376	neuter
+36378	masculine
 feminine
-36383	
-36385	
-
 36388	masculine
-
-
 36394	feminine
-
+36396	feminine
+36399	masculine
 feminine
-36398	
-masculine
-feminine
-36402	
-
 36407	feminine
-neuter
-
-
-
-
 36414	neuter
-36417	
+36418	feminine
 feminine
-feminine
-
-36424	
-masculine
+36425	masculine
 masculine
 masculine/feminine
 masculine
 36430	masculine
 feminine
-36434	
+36435	masculine
 masculine
 masculine
 masculine
-masculine
-
-masculine/neuter
-
+36440	masculine/neuter
 36443	masculine/neuter
 masculine
 36446	masculine
-
-
-masculine
+36449	masculine
 masculine/feminine
-
-36453	
 36455	feminine
 36457	masculine/neuter
 feminine
 36460	feminine
-36462	
-
-
-feminine
-
+36465	feminine
 36468	feminine
 neuter
 36472	masculine/feminine
-
-neuter
-36476	
-36478	
-36481	
-
+36474	neuter
+36476	masculine/feminine
 36484	masculine
-36486	
 36488	feminine
 feminine
 feminine
-
-
-
-
-
-
 36498	neuter
 36501	masculine/feminine
-
-
-
-masculine
-
-
+36505	masculine
+36508	feminine
 feminine
-feminine
-
-36512	
 36515	masculine
 36517	masculine
-
-
-neuter
-
-
-neuter
+36520	neuter
+feminine
+36523	neuter
 masculine
-36529	
 36531	feminine
-
-
 36535	neuter
 masculine/feminine
 neuter
-
-masculine
+36539	masculine
 masculine
 36542	masculine
 36549	masculine/feminine
-36553	
 36559	masculine
-36561	
-
-
-
-36566	
-
-36569	
-neuter
-36572	
-36576	
+36562	feminine
+36570	neuter
 36581	masculine
-
-masculine/feminine
-
-36586	
-36591	
-36594	
-36599	
-masculine
+36583	masculine/feminine
+36600	masculine
 masculine
 36603	masculine
 36606	neuter
 36614	feminine
 36616	neuter
 36619	feminine
-
-masculine
+36621	masculine
 neuter
 neuter
-36628	
 36632	feminine
-
-neuter
-36636	
-36638	
-36642	
-
+36634	neuter
 36645	masculine
 36649	feminine
 36655	feminine
 36657	feminine
-36660	
-36662	
-feminine
-
-
-
-36669	
-36672	
-masculine
+36663	feminine
+36673	masculine
 36675	feminine
-36677	
-36683	
-feminine
-
-feminine
-
-
-neuter
-36694	
-
-feminine
+36684	feminine
+36686	feminine
+36689	neuter
+36696	feminine
 feminine
 36705	masculine
 36707	neuter
 feminine
 masculine
-36712	neuter
-36714	
-
-
-
-masculine
-
-
-masculine
-
-
-36725	
-feminine
-
-masculine
-36730	
-
-masculine/feminine
+36712	feminine
+36718	masculine
+36721	masculine
+36726	feminine
+36728	masculine
+36732	masculine/feminine
 feminine
 feminine
-
-
 36739	masculine
-
 36742	masculine/feminine
-36746	
-masculine/feminine
-
-feminine
-36752	
+36747	masculine/feminine
+36749	feminine
 36754	masculine
 36756	masculine
-36758	
-neuter
+36759	neuter
 feminine
-
-masculine
+36762	masculine
 36767	masculine
-
 36770	feminine
 36772	masculine
-36774	
 36777	neuter
 36779	masculine
 36782	neuter
-
 36785	feminine
-
-neuter
+36787	neuter
 36790	feminine
 36792	feminine
-
-
 36796	feminine
-
-
 36801	masculine
 feminine
-
-neuter
+36804	neuter
 masculine
-36808	
-36810	
-feminine
-
-feminine
-36816	
-36818	
-36820	
-36822	
-masculine/feminine/neuter
-
-36826	
-36830	
-neuter
+36811	feminine
+36813	feminine
+36823	masculine/feminine/neuter
+36831	neuter
 36834	masculine
-36836	
-
-
+36839	masculine/feminine
 masculine/feminine
-masculine/feminine
-
-
 36845	masculine
-36847	
-
-36852	
-masculine
-36858	
-36863	
+36853	neuter
 36867	masculine
 neuter
-
 36871	feminine
 36873	feminine
 feminine
-36876	
-36879	
 36881	feminine
 36889	feminine
-
-
-36894	
-36897	
-36899	
 36901	feminine
-
-
-
-36906	
-36911	
-36913	
-neuter
-36916	
-feminine
+36914	neuter
+36917	feminine
 masculine
-36920	
-
 36924	neuter
-
-feminine
-
-neuter
+36926	feminine
+36928	neuter
 masculine
 masculine
-36932	
 36934	masculine
 neuter
 36937	masculine
-
-masculine/neuter
+36939	masculine/neuter
 36941	masculine
-36944	
-masculine
-36948	
+36945	masculine
 36950	masculine/feminine
-
-36953	
-
-masculine/feminine
+36955	masculine/feminine
 feminine
 feminine
-
-
 36961	neuter
 36964	neuter
-36966	
 36968	masculine
-36970	
-
 36973	masculine
-
-neuter
+36975	neuter
 masculine
-36978	
-neuter
-36982	
+36979	neuter
 36984	masculine
-
-
-36989	
+36990	feminine
 feminine
-feminine
-36994	
-
-feminine
+36996	feminine
 feminine
 36999	masculine
 37001	masculine
-37005	
-masculine
+37006	masculine
 feminine
-37009	
-37013	
-masculine/feminine
-
-
-masculine
+37014	masculine/feminine
+37017	masculine
 37022	masculine/feminine/neuter
 37025	neuter
 37027	masculine/feminine
 37033	masculine
-
 37036	neuter
 neuter
-
-
-37043	
-
 37046	neuter
 neuter
 37049	masculine/neuter
-37051	
 37053	neuter
-37057	
 37060	neuter
-37063	
-
-37068	
-
-37074	
 37076	masculine
 masculine
-
-feminine
-
-37082	
-
-
-feminine
+37079	feminine
+37085	feminine
 neuter
-37088	
 37091	feminine
 feminine
 masculine
-
-37096	
-37098	
-
-feminine
-masculine
-37103	masculine/feminine
-
-masculine
-37107	
-
-
-
-37112	feminine
-
+37100	feminine
 neuter
-37117	
-37119	
+37103	masculine/feminine
+37105	masculine
+37108	masculine
+37112	feminine
+37114	neuter
 37122	feminine
 37126	masculine
 37128	masculine
-37132	
 37134	masculine
-37138	
-
 37143	neuter
-
-
-neuter
+37146	neuter
 masculine
 37149	masculine
 37151	neuter
 masculine
-37155	
-37158	
-neuter
-37161	
-masculine
+37159	neuter
+37162	masculine
 37164	feminine
 masculine/feminine
-37167	
-feminine
-
+37168	feminine
 37171	masculine/feminine
 neuter
 37175	masculine
-
 37178	masculine
 37180	masculine
 37182	masculine
 masculine/feminine
 neuter
-
 37187	neuter
 masculine
 37192	feminine
 neuter
 37197	masculine
 37200	neuter
-37203	
-
-
 37208	neuter
-
-masculine
+37210	masculine
 masculine
 37215	masculine
 neuter
 37218	masculine/feminine
 37223	feminine
-
-37226	
 37229	masculine
 37232	feminine
 masculine
 masculine
 masculine
-
-feminine
+37237	feminine
 37239	neuter
 masculine/neuter
-37248	
-
-37252	
-37256	
-37258	
 37261	feminine
 37264	masculine
 masculine
 masculine
 masculine
 37269	neuter
-
-37272	
-
-37276	
 37278	masculine
-37282	
-37286	
 37289	feminine
 37291	feminine
-37295	
-feminine
-feminine
-
-neuter
-
-
-masculine
-
-neuter
-37308	
-37310	
-
-
+37297	feminine
+37299	neuter
+37302	masculine
+37304	neuter
 37314	masculine
-37316	
-
-
-
 37322	masculine
-
-masculine/feminine
-37328	
-37330	
-37334	
-37336	
-37338	
-
-37342	
+37324	masculine/feminine
 37344	neuter
 masculine
-37348	
-feminine
+37349	feminine
 masculine/neuter
-
-
-
-37356	
-37358	
 37360	masculine
 masculine
-
-
-feminine
+37364	feminine
 37367	feminine
-
 masculine
-
 37372	feminine
-37374	
-feminine
-
-37380	
+37375	feminine
 37384	neuter
-
 37388	neuter
-37390	
-
 37393	masculine
 masculine
-
-37397	
-37400	
-37406	
-feminine
+37407	feminine
 neuter
-37412	
-
-37415	
-neuter
-37419	
-
-masculine/neuter
-37423	
-
+37416	neuter
+37421	feminine
 37427	masculine
 neuter
-
-37431	
-neuter
+37432	neuter
 37434	feminine
-37436	
 37438	masculine
 37440	masculine
-
-feminine
-
-37445	
-feminine
+37442	feminine
+37446	feminine
 feminine
 masculine
-37450	
-37455	
-masculine
+37456	masculine
 37458	neuter
-
-masculine
-
-37465	
-37467	
-
-37471	
-37474	
-neuter
+37460	masculine
+37475	neuter
 37477	masculine/feminine
-
-
 37481	neuter
 masculine
 37484	masculine
@@ -22066,659 +11564,320 @@ masculine
 neuter
 37492	neuter
 37496	neuter
-37498	
-neuter
+37499	neuter
 37501	masculine
-
 37505	neuter
-
-
 37509	masculine
 masculine
-37514	
-masculine
-
+37515	masculine
 37519	neuter
 37521	masculine
 37523	masculine
-
-masculine/neuter
-
-masculine
-37531	
+37525	feminine
+37527	masculine
 37533	masculine
 masculine
-
-masculine
-
+37536	masculine
+37538	neuter
+37543	neuter
 neuter
-
-
-37542	
-neuter
-neuter
-37548	
-
-
 37552	feminine
-
 37557	masculine
-
-
-37562	
+feminine
 37565	feminine
-
-feminine
-37571	
-
-
-feminine
+37567	feminine
+37574	feminine
 feminine
 37578	neuter
-37584	
-37586	
-37589	
-37592	
-neuter
-37596	
-
-37601	
-neuter
-37604	
-
-37607	
+37593	neuter
+37602	neuter
 37610	neuter
-
-masculine
-
+37612	masculine
 37617	masculine
 masculine
 37621	masculine
-
-masculine
-37625	
-37627	
-
-
-
-37632	
-37634	
-37636	
-neuter
-37639	
-
-masculine/feminine
+37623	masculine
+37637	neuter
+37641	masculine/feminine
 37643	masculine
 feminine
 neuter
-
-
-masculine
-
-masculine/feminine
-37653	
-
+37648	masculine
+37650	masculine/feminine
 37656	masculine
-
-37659	
-neuter
+37660	neuter
 masculine
 masculine
 feminine
 37666	masculine/neuter
 37668	neuter
 feminine
-
-
-feminine
+37672	feminine
 masculine
 37675	masculine
-
-feminine
-
-
-
-37683	
-
+37677	feminine
 37687	neuter
-
 37690	masculine
-37692	
-masculine
+37693	masculine
 37695	neuter
-37697	
 37700	masculine
-
 37703	neuter
 37706	masculine
-
 37709	neuter
 masculine
-37714	
 37716	feminine
-
-neuter
-
-37723	
-
-masculine
+37718	neuter
+37725	masculine
 neuter
 37728	masculine
-37730	
-37732	
 37735	masculine
-
 37740	masculine
 masculine
 37743	masculine
 37745	feminine
 37749	neuter
-
-neuter
-
-37755	
-feminine
-
-neuter
-
+37751	neuter
+37756	feminine
+37758	neuter
 37761	feminine
 37763	masculine
 masculine
 37766	feminine
-37768	
 37770	feminine
-37773	
-neuter
-
-
-37780	
-37784	
+37774	neuter
+37776	feminine
+37780	masculine/feminine
 37788	masculine
 37792	masculine
 37794	masculine
-
-
-37798	
-masculine
-
+37799	masculine
 37803	masculine
-
-
 37808	neuter
-
-
-
-feminine
-
-37815	
-
-
-masculine
-
+37812	feminine
+37818	masculine
 37821	masculine
 feminine
 masculine
 37826	neuter
-
 37829	masculine
-
-
-37834	
-
-feminine
+37836	feminine
 neuter
-
-feminine
-
+37839	feminine
 37842	neuter
 37844	masculine
-
 37847	masculine
-
 37852	feminine
-
-feminine
-
+37854	feminine
 37859	feminine
-
-
-37864	
-feminine
-
+37865	feminine
 37870	neuter
 37872	neuter
 37875	masculine
-37877	
-
-neuter
+37879	neuter
 masculine
-
-
-feminine
-
-feminine
-37887	
-37889	
+37883	feminine
+37885	feminine
 37894	feminine
-
-neuter
+37896	neuter
 feminine
-
-37900	
-37902	
 37904	masculine/feminine
-37906	
-neuter
+37907	neuter
 37910	feminine
 feminine
 feminine
-
-neuter
-
-37918	
-37920	
+37914	neuter
 37922	masculine
 37924	feminine
-37926	
+37927	feminine
 feminine
-feminine
-37930	
-masculine
+37931	masculine
 37935	neuter
 masculine/feminine
-
 37940	feminine
-
-37944	
-
-
-37948	
-
 37951	feminine
 feminine
-
-neuter
-
-
-
-37959	
-
+37954	neuter
+37961	feminine
 feminine
+37967	feminine
 feminine
-masculine
-37965	
-
-feminine
-feminine
-37970	
-37973	
-37975	
-
-
-masculine
+37978	masculine
 37982	feminine
 feminine
 feminine
 feminine
-
-
-
-
-
-37996	
-masculine
-38000	masculine
-38002	
-
-feminine
-
-
+37997	masculine
+38004	feminine
 38010	masculine
-
-
-38014	
-
 masculine
-
-masculine
+38014	masculine
+38016	masculine
+38018	masculine
 feminine
 feminine
 masculine/neuter
-
 38024	masculine
 masculine/feminine/neuter
 feminine
 masculine
-
-masculine
+38029	masculine
 38031	masculine
 masculine/feminine/neuter
-
 38035	neuter
 38037	neuter
 38039	masculine
 feminine
-
-feminine
+38042	feminine
 masculine
 masculine
 38046	neuter
 neuter
-
-masculine/feminine
-
-
-38053	
-
+38049	masculine/feminine
 38056	neuter
-
-38060	
-
-
-
-
-neuter
-
-38068	
+38065	neuter
 38070	feminine
-
-38073	
 38076	neuter
-38078	
-
-38082	
+38079	feminine
 38086	feminine
-
+38088	masculine
+38092	neuter
 masculine
-
-
-
-neuter
-masculine
-
-
-neuter
-38098	
-
-
-38102	
-neuter
+38096	neuter
+38103	neuter
 38105	feminine
-38107	
-38109	
-
-38112	
-feminine
-
-
-38117	
+38113	feminine
+38118	masculine
+38123	masculine
 masculine
-38120	
-
-
-masculine
-masculine
-
-
 38129	feminine
-
-masculine
+38131	masculine
 feminine
-
-feminine
+38134	feminine
 38136	feminine
 38139	feminine
-38141	
-masculine
-38144	
+38142	masculine
 38146	feminine
 38148	neuter
-
-masculine
-38153	
-
+38150	masculine
 38156	masculine
-38159	
-masculine/feminine
+38160	masculine/feminine
 38162	masculine
 masculine
-
-masculine
+38165	masculine
 masculine
 38169	masculine/feminine
 38171	masculine
-38173	
-masculine
+38174	masculine
 masculine
 masculine
 38179	masculine
 feminine
 masculine
 masculine
-
-masculine
-
+38184	masculine
 38188	masculine
 38190	masculine
-
-masculine
+38192	masculine
 masculine
 38195	masculine
 38197	neuter
-
-
-38201	
-
 38204	masculine
 38206	masculine
-38208	
-neuter
-38211	
-38213	
-38216	
-neuter
-
-38220	
+38209	neuter
+38217	neuter
 38222	masculine
-
 38225	masculine/feminine
-
-masculine
+38227	masculine
 38229	masculine
 38231	neuter
-
-feminine
+38233	feminine
 masculine
-
-masculine
-38238	
-38241	
-
-masculine
+38236	masculine
+38243	masculine
 neuter
-38246	
 38248	masculine
-38250	
-
-
-masculine
+38253	masculine
 38255	neuter
-
-
-feminine
+38258	feminine
 38260	feminine
-
-38263	
-feminine
-
-
-
-38269	
-feminine
-
-38273	
-38275	
-feminine
-
-feminine
-
-38282	neuter
-
-
-masculine
-
+38264	feminine
+38270	feminine
+38276	feminine
+38278	feminine
+38285	masculine
 38288	neuter
-
-
-38292	
-38294	
 masculine
-38298	
-38300	
+38295	masculine
 38304	masculine
 masculine/feminine
 38307	masculine
-neuter
 38310	masculine
 masculine
-
 38314	masculine/feminine
-38316	
-38318	
 38321	masculine
-
-masculine/feminine
+38323	masculine/feminine
 38328	feminine
-38330	
 38332	masculine/feminine/neuter
-
-feminine
+38334	feminine
 38336	masculine
 masculine/feminine
-38339	
-
-masculine
+38341	masculine
 feminine
 38344	masculine
-38346	
-
-38351	
 38356	masculine
-
 38360	masculine/feminine
-38362	
 38366	masculine
-
-38370	
-neuter
+38371	neuter
 38373	neuter
 masculine
 masculine
 38377	neuter
 masculine
-38381	
 38383	masculine
-38387	
 38391	neuter
-38393	
 38396	masculine
-38400	
-38403	
 38405	neuter
 38407	masculine
 neuter
-
-
-
-
-
-38416	
-
-masculine/feminine
+38418	masculine/feminine
 38420	feminine
 masculine
-neuter
-
-
-38426	
-38428	
 38430	masculine
 masculine
-38433	
-masculine
-
+38434	masculine
 38437	masculine
 38439	neuter
-
 38442	neuter
 masculine
 masculine
-
-38448	
-
-
-38452	
-38456	
-
 38459	neuter
 38462	masculine/feminine
 38464	feminine
-
-38467	
 38469	feminine
-38471	
-
 38474	feminine
 38476	feminine
 38478	feminine
-38482	
-masculine
+38483	masculine
 38487	neuter
 feminine
 38490	feminine
-38492	
 38494	feminine
 feminine
-38497	
-masculine
-
-
-
-
-feminine
+38498	masculine
+38503	feminine
 38505	masculine
 feminine
-38509	
-
-38513	
-38516	
-38518	
 38520	masculine
 masculine
 feminine
 feminine
-
-38526	
-
-feminine
+38528	feminine
 feminine
 38532	feminine
-
-masculine/neuter
-38538	
-38540	
-38542	
+38534	masculine/neuter
 38545	masculine
-38547	
-
-38551	
-
-
-neuter
-
-
-
-masculine/feminine
+38554	neuter
+38558	masculine/feminine
 feminine
 masculine/neuter
 neuter
@@ -22728,393 +11887,215 @@ masculine/feminine
 38570	masculine
 38573	masculine
 neuter
-
 38577	neuter
-38580	
-masculine
-38584	
-
+38581	masculine
 38587	feminine
 feminine
-
 38592	feminine
 38594	neuter
-
-masculine/feminine
+38596	masculine/feminine
 38599	masculine/feminine
 38602	masculine/feminine
 feminine
 feminine
 feminine
-38611	
-masculine/feminine
+38612	masculine/feminine
 38614	masculine
-
-masculine/feminine
-
+38616	masculine/feminine
 38619	masculine
-
 38623	masculine/feminine
-
-feminine
-
-neuter
-38629	
+38625	feminine
+38627	neuter
 38632	masculine/feminine/neuter
-38634	
-neuter
+38635	neuter
 masculine
 masculine
-38639	
 38642	neuter
 masculine
-38645	
-masculine
-38650	
-
-masculine
-
-neuter
-38656	
-
-
-
-38661	
-
-neuter
+38646	masculine
+38652	masculine
+38654	neuter
+38659	feminine
+38663	neuter
 feminine
 feminine
-
 38668	neuter
 neuter
 masculine
 38672	masculine/neuter
-
-38675	
-
-
-38679	
-38681	
-
-
-
-38686	
-
-neuter
-
-neuter
+38688	neuter
+38690	feminine
 38693	neuter
 neuter
-neuter
+feminine
 38698	neuter
 neuter
-38701	
-neuter
+38702	neuter
 feminine
-
-masculine
-
-
-
-38711	
-
-38715	
-38717	
-
+38705	masculine
 38721	masculine
-38723	
 38725	masculine
-
-
-38729	
-
-
-neuter
-38734	
-feminine
-38738	
-masculine
+38732	neuter
+38735	feminine
+38739	masculine
 masculine
 masculine
 masculine
 38746	neuter
-
-
-38750	
+38751	neuter
+38753	neuter
 neuter
-
-neuter
-neuter
-
 38758	masculine
-38760	
 38762	feminine
-38765	
-feminine
+38766	feminine
 masculine/neuter
-
+masculine
 masculine
 38771	masculine
-
-
-
 38776	masculine
-38778	
 38780	masculine
-
 38783	neuter
-38786	
-masculine
-38790	
-masculine/neuter
+38787	masculine
+38791	masculine/neuter
 38794	masculine
 38798	masculine
-
-
-38802	
-neuter
-
-
-38807	
-masculine/neuter
+38803	neuter
+38808	masculine/neuter
 feminine
 masculine/neuter
-
+38812	neuter
 neuter
-neuter
-
-38818	
-
-
 38822	neuter
 38825	masculine
 neuter
 neuter
-38829	
-neuter
+38830	neuter
 feminine
 feminine
 38835	feminine
 38838	neuter
-
-38841	
-
 38845	masculine
 masculine
-38850	
 38852	feminine
 feminine
 neuter
-
-
-
 38861	neuter
 neuter
-
-38865	
-
-38868	
-neuter
+38869	neuter
 neuter
 masculine
-
+38873	feminine
+38876	masculine/neuter
 feminine
-
-
-masculine/neuter
-neuter
 38880	feminine
 masculine
-38883	
-38885	
 38887	neuter
-
-
+38890	neuter
 neuter
 neuter
-neuter
-
 38895	feminine
 feminine
 feminine
-
-neuter
+38899	neuter
 38901	masculine
-38904	
 38906	neuter
-
-
-
 38911	neuter
 masculine
 neuter
 38917	neuter
-38919	
 38922	feminine
 neuter
-
-38926	
 38929	neuter
 neuter
 neuter
-
+38933	masculine
 masculine
-masculine
-
 38937	masculine/neuter
 38939	masculine/neuter
 38942	masculine
 masculine
 masculine
 38946	masculine/neuter
-
 38950	masculine/feminine
-38952	
-
-
-feminine
+38955	feminine
 38959	masculine
 masculine
 38963	masculine
 masculine
-
-
-
 38970	masculine
-38972	
 38974	masculine
-
-neuter
+38976	neuter
 38978	neuter
-
-38982	
-feminine
+38983	feminine
 38985	feminine
 masculine
 feminine
 38989	masculine
-
-
 38994	neuter
 feminine
-
-feminine
+38997	feminine
 neuter
 neuter
 feminine
 feminine
-39004	
-
-
 39008	feminine
 feminine
 masculine/feminine
-
-39013	
-
-
-
-neuter
+39017	neuter
 feminine
 feminine
 feminine
 feminine
 feminine
-
-39030	
-neuter
+39031	neuter
 masculine/feminine
 masculine
-39037	
-neuter
+39038	neuter
 39040	masculine
 feminine
 39043	masculine
 masculine/neuter
-
-
-
-feminine
+39048	feminine
 39050	feminine
 feminine
-39054	
-39057	
-39060	
-masculine
+39061	masculine
 39068	masculine
 39075	masculine
 masculine
-
-feminine
-
-feminine
-
-feminine
-
-39085	
-
-feminine
-
-feminine
-
+39078	feminine
+39080	feminine
+39082	feminine
+39087	feminine
+39089	feminine
 39092	feminine
-39095	
-39097	
-
-
-feminine
+39100	feminine
 masculine/neuter
 39103	feminine
-
 39106	feminine
 masculine
-39109	
-masculine/feminine
+39110	masculine/feminine
 masculine
-39116	
-
-feminine
-
+39118	feminine
 39121	feminine
-39124	
-39126	
-39128	
-39133	
-masculine/feminine
+39134	masculine/feminine
 39138	neuter
-
-
-feminine
-
-feminine
-
-39148	
+39141	feminine
+39143	masculine
 39150	feminine
-
-masculine
+39152	masculine
 masculine
 39157	masculine
-39159	
 39162	masculine
-39164	
 39166	masculine
-39168	
-masculine
+39169	masculine
 39172	masculine
-39175	
-masculine
+39176	masculine
 39180	masculine
-39185	
-masculine
-
+39186	masculine
 39189	masculine
 39191	neuter
-39193	
-
-masculine
-39197	
-39201	
-masculine
+39195	masculine
+39202	masculine
 masculine
 masculine
 masculine
@@ -23122,114 +12103,51 @@ masculine
 masculine
 39210	masculine
 masculine
-
 39214	masculine
-39216	
-
-
-
-
-39222	
-
-
-39228	
 39230	neuter
-39233	
-masculine
+39234	masculine
 39237	masculine
-39239	
-
-neuter
-39244	
-neuter
-
+39241	neuter
+39245	neuter
 39248	masculine
 masculine
 39254	masculine
-39258	
-39261	
-39263	
-39266	
-feminine
-
-feminine
+39267	feminine
+39269	feminine
 39271	feminine
-39273	
+39274	masculine
+39283	neuter
 masculine
-
-39280	
-
-
-neuter
-masculine
-
-39288	
-masculine
+39289	masculine
 feminine
-
-39293	
-39295	
-39298	
-
 39301	neuter
-39306	masculine
-39309	
-39314	
-
-neuter
+39306	neuter
+39316	neuter
 feminine
-39319	
-
-feminine
+39321	feminine
 masculine
-
-39325	
-39328	
-
 39331	feminine
-
-39338	
-39340	
-39342	
-
-
-
-neuter
+39346	neuter
 neuter
 neuter
 39351	masculine
 feminine
 masculine
 masculine
-
-
-
-
 39360	masculine/feminine
 feminine
 feminine
-
-neuter
+39364	neuter
 39366	feminine
 masculine
 39369	masculine/feminine
 39371	masculine
-39373	
-masculine
-
-39379	
-
+39374	masculine
 39382	feminine
 39388	feminine
 neuter
 feminine
-
-
-39394	
-39396	
-
-
-neuter
+39399	neuter
 neuter
 feminine
 masculine
@@ -23238,458 +12156,234 @@ masculine
 feminine
 neuter
 39409	neuter
-39411	
-39413	
 39416	feminine
 masculine
 feminine
-
 39422	neuter
-39426	
-neuter
+39427	feminine
 39430	feminine
 feminine
-
-neuter
-
-39436	
+39433	neuter
 39438	masculine
-39442	
-neuter
+39443	neuter
 masculine/neuter
-39446	
-
-
 39450	feminine
 39452	feminine
 masculine
 39455	masculine
-
-masculine
-
-
+39457	masculine
 39461	feminine
-39463	
-39466	
-39469	
-39472	
-masculine/neuter
-39475	
-
-
-
-
-
-
+39466	masculine
+39473	masculine/neuter
 39483	feminine
-39486	
-39489	
-
 39492	feminine
-39496	
 39504	neuter
-
-masculine
+39506	masculine
 masculine
 39509	masculine
-39511	
-39514	
-39516	
-
-39520	
-neuter
-
-
+39511	masculine
+39521	neuter
 39525	neuter
-
 39529	masculine/neuter
-39531	
-
-39534	
-39536	
-
 39540	masculine
 neuter
 neuter
-
-neuter
-
+39544	neuter
 39550	feminine
 feminine
 39555	masculine
 39557	masculine
-
 39561	masculine
 masculine
-
 39566	feminine
 feminine
-
-
-feminine
-
-
-
-neuter
+39570	feminine
+39574	neuter
 39577	masculine
-39582	
-39586	
-feminine
-
-
-39591	
-39593	
+39587	feminine
+39594	masculine
 masculine
+39598	feminine
+39604	feminine
 masculine
-
-
-feminine
-39603	
-feminine
-masculine
-
-masculine
+39607	masculine
 neuter
-
-
-39612	
-neuter
-
-
-39617	
-39619	
-neuter
+39613	neuter
+39620	neuter
 feminine
-
-
 39625	feminine
-
-
-
-39630	
-
 39633	masculine
-
-39638	
-
-feminine
-
+39640	feminine
 39643	masculine
-
-
-neuter
-
+masculine/feminine
+39646	neuter
 39649	feminine
 39653	feminine
-
-39656	masculine
-
 feminine
+39656	masculine
+39658	feminine
 masculine
-
-
-39663	
-39666	
-
-
-masculine
+39669	masculine
 neuter
 feminine
 feminine
 39674	masculine
 masculine
-
-feminine
-
-
-neuter
+39677	feminine
+39680	neuter
 neuter
 feminine
 masculine
-
-neuter
+39685	neuter
 masculine
-39690	
+39690	masculine/feminine
 feminine
 feminine
-
-
+39694	masculine/feminine
 feminine
 masculine
-
-neuter
-39702	
-39704	
-39707	
-feminine
+39698	neuter
+39708	feminine
 39710	neuter
-
-39713	
 39715	masculine
-39718	
 39723	feminine
-
-feminine
+39725	feminine
 feminine
 39728	feminine
 feminine
 39731	feminine
 feminine
 masculine
-
-
-
-neuter
-
-
-neuter
-
+39737	neuter
+39740	neuter
 39744	masculine
-39746	
-feminine
-
-39750	
-feminine
+39747	feminine
+39751	feminine
 neuter
-
-39755	
 39757	masculine/feminine
-
-
-
-neuter
-39763	
-
+39761	neuter
 39766	masculine
 39769	masculine/neuter
 39771	feminine
 masculine
-39774	
-neuter
+39775	neuter
 39777	masculine/feminine
 39780	feminine
-
-feminine
+39782	feminine
 39784	feminine
-
-39789	
-39791	
-
+39793	feminine
 feminine
-feminine
-
-
-
-
-
-
-feminine
+39801	feminine
 feminine
 neuter
-39805	
-feminine
-
-neuter
-
-39811	
+39806	feminine
+39808	neuter
 39814	masculine
 feminine
-
-39818	
+39819	feminine
 feminine
-feminine
-39823	
-neuter
+39824	neuter
 masculine
 neuter
-
-
-
-
-
-
 39834	masculine
 masculine
-39837	
-39839	
-
-masculine
+39841	masculine
 feminine
 feminine
-39846	
-39848	
-
-masculine
+39850	neuter
 39854	neuter
 feminine
 masculine
-39858	
-
-
-masculine
+39861	masculine
 feminine
-
+39864	feminine
 feminine
 feminine
+39868	neuter
 feminine
-
-neuter
-feminine
-
-
-
-
-
 39876	neuter
 masculine
 39879	masculine
-
-
 39884	neuter
-
-
-
-masculine/neuter
+39888	masculine/neuter
 neuter
-39892	
 39895	masculine
 39897	neuter
 39899	masculine
-
-neuter
+39901	neuter
 masculine
-
 39907	masculine
 neuter
 feminine
-39911	
-
-masculine
-
-
-
-neuter
-39920	
+39913	masculine
+39917	neuter
 39922	neuter
-
-feminine
+39924	feminine
 39926	neuter
 masculine/feminine
 39930	masculine/feminine
-39934	
-39936	
 39938	masculine
-
-39941	
 39943	masculine/neuter
-39945	
-39948	feminine
-
+39948	masculine
 39951	masculine
-39953	
 39955	masculine/neuter
-
-39958	
-feminine
+masculine
+39959	feminine
 feminine
 masculine/feminine
-39963	
-feminine
+39964	feminine
 masculine
 masculine
-
 39969	feminine
 neuter
-
-39973	
-39975	feminine
+39975	masculine
 masculine
-
-neuter
-
+39978	neuter
+39980	feminine
 feminine
-feminine
-
-
+39984	neuter
 neuter
-neuter
-
-39988	
-39990	
-
-39993	
-feminine
+39994	masculine
 masculine
-
-
-
-feminine
+39997	feminine
+39999	feminine
 neuter
-40002	
-
-40005	
-40007	
 40011	neuter
-40015	
 40017	neuter
 masculine
-40021	
-masculine/neuter
-
+40022	masculine/neuter
+masculine
 feminine
 40028	masculine
-
-neuter
+40030	neuter
 40033	neuter
-
 40036	masculine
-
-feminine
+40038	feminine
 40040	masculine
 neuter
 neuter
-
-
-
-feminine
+40046	feminine
 40048	masculine
-40051	
-
-40054	
-
 40057	feminine
 neuter
 40060	feminine
-40062	
-
-
+40063	feminine
 40066	masculine
 neuter
-
-
-masculine
+40070	masculine
 40072	feminine
-40074	
 40076	feminine
-
-neuter
+40078	neuter
 masculine
 feminine
-40082	
-40084	
-neuter
+40085	neuter
 40087	masculine
 feminine
 40090	neuter
-
-40093	
-40096	
-40098	feminine
+40098	masculine
 masculine
-
 40104	masculine
 40106	feminine
-
 40109	feminine
 feminine
 feminine
@@ -23701,74 +12395,35 @@ feminine
 40124	masculine
 40128	masculine
 neuter
+40133	feminine
 masculine
-
-
-feminine
-masculine
-
-40139	
-
-neuter
+40141	neuter
 masculine/feminine
 masculine
 masculine
 40148	masculine
 masculine
-
 40152	feminine
-
-
-
-
-40158	
-40162	
-neuter
-40165	
-
-feminine
-40169	
-
+40163	neuter
+40167	feminine
+40171	masculine
 masculine
-masculine
-
-40175	
 40177	masculine/feminine
-
-40182	
-
-
 40186	masculine
-
-feminine
+40188	feminine
 feminine
 masculine
-40193	
-
-
-
 40199	neuter
-40202	
+40203	masculine
+40206	feminine
+40209	masculine
 masculine
-
-
-feminine
-
-
-masculine
-masculine
-
-feminine
-40214	
+40212	feminine
 40216	masculine
 masculine
 masculine
 40220	masculine/feminine
-40222	
-40224	
-
-40230	
-masculine
+40231	masculine
 masculine
 masculine/feminine
 neuter
@@ -23777,15 +12432,11 @@ masculine
 masculine
 masculine
 40241	neuter
-
+40243	masculine
 masculine
-masculine
-
 40247	feminine
 neuter
-
-40251	
-masculine
+40252	masculine
 40254	neuter
 masculine/feminine
 masculine
@@ -23794,357 +12445,157 @@ masculine
 40261	masculine
 masculine
 neuter
-
-neuter
-40268	
-
-
-
-masculine/neuter
-40274	
-neuter
-
+40265	neuter
+40272	feminine
+40275	neuter
 40278	masculine
-40280	
+40281	masculine
 masculine
-masculine
-40284	
-
-feminine
+40286	feminine
 neuter
-
+40289	masculine
 masculine
 masculine
-masculine
-40294	
 40299	feminine
 feminine
-40302	
-40304	
-40307	
+40308	masculine
 masculine
-masculine
-
-masculine
+40311	masculine
 neuter
-
-feminine
-
-
-
-40319	
-feminine
-
-
-
-40325	
+40314	feminine
+40320	feminine
 40330	neuter
-
-feminine
+40332	feminine
 masculine
-
 40337	masculine
 masculine
 masculine
 40342	neuter
-
-masculine/neuter
+40344	masculine/neuter
 neuter
 40347	masculine
-
-
-
 40353	neuter
 neuter
 40356	feminine
 masculine
 40359	masculine
-40361	
 40363	feminine
 feminine
 40366	feminine
 40375	neuter
 40380	masculine
-
-40384	
-
-
 40388	feminine
 40390	neuter
-
-
-neuter
-
-40397	
-40400	
-40402	
-40405	
-
-
-40410	
-
-feminine
-
-
-
-40417	
-40421	
-
-40425	
-40429	
-
-feminine
-40434	
-40436	
-40438	
+40393	neuter
+40402	masculine
+40412	feminine
+40431	feminine
 40441	masculine
-
+40443	feminine
 feminine
-feminine
-
 40448	feminine
-
 40452	feminine
-
-40459	
 40461	feminine
-
-40466	
-40468	
 40470	feminine
-
-40473	
-
-
-masculine
+40476	masculine
 40484	neuter
-
-
-masculine
+40487	masculine
 40491	masculine
 40495	feminine
-40497	
-
-
 40502	masculine
-40505	
-
-
-neuter
+40508	neuter
 40512	neuter
-
-
 40516	neuter
-
-40519	
-
-
-
-
 40525	masculine
-
-
-masculine
+40528	masculine
 40530	feminine
 40533	neuter
 masculine
 masculine
-
-
 40540	feminine
 40542	masculine
 feminine
-
-
-
 40549	masculine
-40551	
-
-
-40555	
-
-
-masculine
-
-40561	
+40558	masculine
+40561	masculine
 40564	masculine
 neuter
-
-
-40569	
-
-neuter
-
-masculine
+40571	neuter
+40573	masculine
 masculine
 neuter
-
-feminine
+40577	feminine
 feminine
 feminine
 40581	feminine
-40584	
-masculine/neuter
+40585	masculine/neuter
 feminine
 neuter
-40589	
-
-neuter
-
-
-masculine
-40598	
-40603	
-feminine
-40606	
-
-
+40591	neuter
+40594	masculine
+40604	feminine
 40610	masculine
 masculine
-
-40614	
-40616	
 40618	masculine
 feminine
-40623	
-masculine
-40626	
-
-40630	
-40632	
-
+40624	masculine
 40635	masculine
-40637	
 40640	feminine
 40642	masculine
-40644	
-
-
 40648	masculine
 masculine
-
-40654	
-40658	
-feminine
+40659	feminine
 40661	masculine/feminine
-40663	
-
 40666	neuter
-40668	
-
-masculine
-
-40674	
-
-
-40681	
-
-neuter
+40670	masculine
+40683	neuter
 40685	masculine/feminine
-40687	
-masculine
-
-
-feminine
-
-40694	
-
-masculine
-40698	
-neuter
+40688	masculine
+40691	feminine
+40696	masculine
+40699	neuter
 40702	feminine
-
+40704	masculine
+40708	neuter
 masculine
-40706	
-
-neuter
-masculine
-40715	
-
-40718	
-
-40722	
-feminine
-40726	
-masculine
-
+40716	masculine
+40723	feminine
+40727	masculine
 40730	masculine
-
-40734	
-40736	
-40739	
 40741	masculine/neuter
 masculine/feminine/neuter
-
-40747	
 40750	feminine
 feminine
 neuter
 feminine
-40756	
-feminine
+40757	feminine
 40759	masculine
-40761	
-
 40764	masculine/feminine
 masculine
 40768	masculine
 masculine
-40772	
 40777	feminine
-
 40782	feminine
 feminine
 40790	neuter
-
 40793	masculine
-40796	
-
 40800	masculine
 masculine
-
-
-
-
 40807	feminine
-
-
-40811	
-40813	
-40817	
 40819	masculine
-
-feminine
-
-40824	
+40821	feminine
 40826	neuter
 masculine
 masculine
-40830	
-masculine
+40831	masculine
 40833	feminine
-
-40836	
-
 40840	neuter
-
-40844	
-40849	
 40854	feminine
-40856	
+40857	masculine
 masculine
-masculine
-
-feminine
+40860	feminine
 40863	neuter
-
-
-40867	
-
-
-40871	
-feminine
-
+40872	feminine
 40876	feminine
 masculine/neuter
 neuter
@@ -24152,1961 +12603,975 @@ neuter
 masculine
 neuter
 40886	masculine
-40889	
-masculine/neuter
-40892	
+40890	feminine
 40896	neuter
-
-40899	
-feminine
+40900	feminine
 40902	feminine
 feminine
-
-neuter
-40907	
-
+40905	neuter
 40910	feminine
 40914	neuter
 feminine
-40917	
-
 40920	neuter
-40925	
 40928	neuter
 feminine
-
-
-
-
-40935	
+40936	masculine
 masculine
-masculine
-40939	
-
-
 40943	feminine
-
-neuter
+40945	neuter
 feminine
 40950	feminine
-40952	
-
-40956	
-
+40957	masculine
 masculine/feminine
 40960	masculine
 masculine
-
-
-feminine
+40964	feminine
 40966	feminine
 40969	feminine
 masculine
-
-40973	
 40975	masculine/feminine
 neuter
 masculine
-
-
-masculine
+40980	masculine
 40982	masculine
-40984	
-40987	
-40989	neuter
-40991	
-feminine
-
-40995	
-
-
-41000	
-
+40989	feminine
+40992	feminine
 41003	masculine/feminine
-
 41006	masculine
-
-41009	
 41011	feminine
-41013	
-
 41019	feminine
 masculine
 masculine
-
-masculine/feminine
-41025	
-
-
-
-
-feminine
-neuter
-
-
-41035	
-41037	
-
-41040	
-41042	
+41023	masculine/feminine
+41030	feminine
+41037	masculine/feminine
 41044	feminine
 feminine
-41048	
-masculine
-
-
-
-neuter
-
-
+41049	masculine
 41057	masculine/neuter
 41059	masculine
 feminine
-
 41063	masculine
 41066	masculine
 41068	feminine
 masculine
-41071	
 41080	masculine
-
-
+41083	feminine
+41085	neuter
 feminine
-
-neuter
-feminine
-41089	
-41091	
-
-41097	
-masculine
-41100	
-41103	
-
-feminine
-
-neuter
-41109	
-
-
-masculine/feminine
+41098	masculine
+41105	feminine
+41107	neuter
+41112	masculine/feminine
 41114	masculine
-41116	
-masculine
+41117	masculine
 masculine/feminine
-41120	
-
-41123	
-feminine
-41126	
+41124	feminine
 41128	masculine
 neuter
-
-41132	
-41134	
-41136	
-
-
-41140	
-neuter
-41143	
-
-feminine
-
-
-
-neuter
+41141	neuter
+41145	feminine
+41149	neuter
 41151	feminine
-
-41157	
-masculine
-41160	
-
-41167	
-41170	
-
-41173	
-41175	
+41158	masculine
 41179	feminine
 feminine
 41182	masculine
 41184	feminine
-41191	
-neuter
-41194	
-neuter
+41192	neuter
+41195	neuter
 masculine
 masculine/feminine
-41201	
-feminine
-41205	
-41207	
-41209	
-masculine
+41202	feminine
+41210	masculine
 neuter
 feminine
-
-41215	
-
-masculine
-
-41220	
-
-
-
+41217	masculine
+41220	masculine
 41225	masculine
-41227	
 41229	masculine
 masculine
-41232	
-
-41236	
-41238	
-feminine
+41239	feminine
 masculine/neuter
 feminine
-41248	
-masculine
-41252	
+41249	masculine
 41254	masculine/feminine
-
 41257	neuter
 neuter
-41260	
+41261	masculine
 masculine
-masculine
-
 41269	masculine
-41271	
-41273	
-
 41276	masculine
 41278	neuter
-41281	
-41284	
-41288	
-
-feminine
+41290	feminine
 masculine
-
-masculine/feminine
-
-41298	
-
-
-41302	
-feminine
-
-41307	
-
-
+41293	masculine/feminine
+41303	feminine
 41311	feminine
-
-41317	
-
-
+41320	feminine
 feminine
-feminine
-
-masculine
-41328	
-
-
+41323	masculine
 41332	masculine
-41334	
 41336	feminine
 masculine
 masculine
-41340	
 41344	neuter
 41347	masculine
-
-41351	
-
-
 41355	neuter
-41358	
-
-
-
 41363	neuter
-41370	
-
 41373	neuter
-41375	
-41377	
-masculine
-41380	
-
-
-masculine
-
-masculine
-
-41388	
-feminine
-
+41378	masculine
+41383	masculine
+41385	masculine
+41389	feminine
+masculine/feminine
 41392	feminine
 feminine
-
-
 41397	masculine
 masculine
 41402	masculine
 masculine
-41406	
-41409	
 41413	feminine
 neuter
-
+41416	masculine
 masculine
-masculine
-
-41420	
-
-41425	
 41428	masculine
-
 41433	masculine
 masculine
-41438	
 41440	feminine
-
-
 41446	feminine
-
-masculine/feminine
-
-41451	
+41448	masculine/feminine
 41453	masculine/feminine
-
-
-
-masculine/neuter
-41459	
-41462	
-
-
-feminine
+41457	masculine/neuter
+41465	feminine
 feminine
 masculine/feminine/neuter
-
 41470	masculine/feminine
 feminine
 feminine
 feminine
-
-neuter
+41475	neuter
 masculine
-41480	
-
-feminine
-
-neuter
+41482	feminine
+41484	neuter
 masculine
-41487	
-neuter
+41488	neuter
 41490	masculine/feminine
-
-masculine
-41498	
+41492	masculine
 41500	masculine
 neuter
-
-feminine
-
-masculine
-41509	
-
+41503	feminine
+41505	masculine
+41511	neuter
 neuter
-neuter
-41515	
-
-41519	
+41520	masculine
 masculine
-masculine
-
-neuter
-41527	
-
-41530	
-41532	
-
-
+41523	neuter
 41536	neuter
-41539	
-neuter
+41540	neuter
 feminine
-41546	
-feminine
-
-
-
+41547	feminine
 41552	neuter
-41555	
-41559	neuter
-41561	
+41559	feminine
 41566	masculine
 masculine
-41569	
-masculine/neuter
+41570	masculine/neuter
 neuter
 feminine
-
 41575	masculine
-
-
-
-masculine
+41579	masculine
 neuter
-
-
-
-feminine
+41584	feminine
 feminine
 41587	feminine
 41592	masculine/feminine
-41594	
-41596	
-41599	
-41602	
+41603	masculine
 masculine
 masculine
+41607	masculine
 masculine
-
-masculine
-masculine
-41614	
-masculine
+41615	masculine
 masculine
 41619	masculine
-
-
-feminine
+41622	feminine
 masculine
 41627	masculine
-41629	
 41631	masculine
 masculine
 neuter
-
-41636	
-
 41639	feminine
-
-neuter
+41641	neuter
 feminine
 feminine
-
-masculine
-
-masculine
-
+41645	masculine
+41647	masculine
 41650	neuter
-
-41654	
-
-41658	
-masculine/feminine
-41664	
-
+41659	masculine/feminine
 41668	neuter
 41676	neuter
 41682	feminine
 feminine
-41685	
 41688	neuter
 neuter
-
-masculine
+41691	masculine
 41693	masculine
 feminine
-41696	
-
 41700	neuter
-41703	
-masculine
-
-masculine
+41704	masculine
+41706	masculine
 41708	masculine
 feminine
 masculine/feminine
-41712	
-feminine
-41716	
-
-neuter
+41713	feminine
+41718	neuter
 masculine
-
-41722	
-
-
-
-41727	
-masculine
+41728	masculine
 masculine
 41731	neuter
 neuter
 41734	masculine
-41736	
 41738	masculine
 41741	neuter
-
-masculine
-
+41743	masculine
 41746	masculine
-41748	
-41751	
-
-
-
-masculine/feminine
+41755	masculine/feminine
 masculine
 41759	masculine
-
-
-41763	
-masculine
+41764	masculine
 neuter
-
-
-masculine/feminine
-41770	
-feminine
+41768	masculine/feminine
+41771	feminine
 masculine/neuter
-
-
-
-
-41781	
+41776	masculine/neuter
 41785	neuter
 41788	feminine
-
-
-neuter
-41793	
-41797	
-feminine
-41800	
-
-masculine/neuter
+41791	neuter
+41798	feminine
+41802	feminine
 41804	neuter
-
-
-masculine
+41807	masculine
 41809	masculine
 feminine
 neuter
 41814	masculine/feminine
 masculine
 41819	masculine/feminine
-41821	
-
-41825	
-feminine
-41828	
-feminine
+41826	feminine
+41829	feminine
 masculine/feminine
-41832	
-masculine/neuter
+41833	masculine/neuter
 41835	masculine
-
-41840	
 41842	neuter
 41845	masculine
 masculine
 41848	masculine
 41851	neuter
-41853	
-masculine
-
+41854	masculine
 41858	masculine
 masculine
 masculine
-
-41866	
-neuter
-
-41873	
+41867	neuter
 41875	masculine
 masculine/feminine
-41878	
-feminine
-
-
-41884	
-
-feminine
-
-
-
+41879	feminine
+41881	masculine
+41886	feminine
+41890	neuter
 neuter
-masculine
-
-
-
-masculine/neuter
-41898	
-41901	
-
+41895	masculine/neuter
+41901	masculine
 41905	feminine
-
-
 41909	masculine
 neuter
-41914	
-41917	
-41919	
 41923	masculine
 neuter
-
-41927	
-
-41930	
-masculine
-41934	
-
-
+41931	masculine
 41938	feminine
-
-
-41943	
-41946	
-
-
-masculine
-
-masculine/feminine/neuter
-41953	
-feminine
+41949	neuter
+41951	masculine/feminine/neuter
+41954	feminine
 masculine/neuter
 feminine
-
-masculine/feminine
+41958	masculine/feminine
 41960	feminine
 feminine
 feminine
 masculine
-
-41967	
-
-neuter
-41971	
+41969	neuter
 41973	feminine
-41975	
-41977	
+41977	masculine
 masculine/feminine
-
 41981	feminine
-
-feminine
+41983	feminine
 feminine
 41987	feminine
-
-41990	
-
-41997	
-
 42000	feminine
-
+masculine/feminine
 feminine
 masculine
-
-neuter
-
-42009	
-
+42005	neuter
 42013	masculine/feminine
-42016	
-42018	
-masculine
+42019	masculine
 masculine
 neuter
-
-feminine
+42023	feminine
 masculine
 42028	masculine
 42031	feminine
 masculine
-42034	
-neuter
+42035	neuter
 42037	masculine
-42040	
-feminine
+42041	feminine
 feminine
 42044	masculine
 masculine
 masculine
 masculine
-42049	
+42050	feminine
 feminine
-feminine
-42053	
 42056	feminine
 neuter
 masculine
-
+masculine/feminine
 42062	neuter
 masculine
 42066	feminine
-
 42069	feminine
-42073	
 42079	feminine
 42082	feminine
-42087	
 42090	neuter
-42095	
 42097	feminine
 neuter
-
-feminine
+42100	feminine
 neuter
 feminine
-
-masculine
-42108	
-neuter
-
+42104	masculine
+42109	neuter
 42115	masculine
-42117	
 42119	masculine
-
-masculine
-
-42127	
-
+42121	masculine
 42132	masculine
-42134	
-neuter
+42135	neuter
 masculine
-
-
-42142	
-
-42145	
+42142	masculine/feminine
 42148	masculine
-
-masculine
-42152	
-neuter
+42150	masculine
+42153	neuter
 feminine
 feminine
-
-42158	
-
 42163	neuter
 42166	neuter
 feminine
-42169	
 42171	masculine
 42173	neuter
-42175	
-42178	
-
 42182	neuter
-42186	
 42188	masculine
 masculine
 neuter
 masculine
-
-
-42197	
-
-42200	
+42197	masculine/feminine
 42203	masculine
-
-
 42207	masculine
 42211	masculine
 neuter
 neuter
-
 42217	feminine
-42219	
-42222	
-neuter
-
+42223	neuter
 42226	feminine
 neuter
-42230	
-42234	
 42236	masculine
 42238	neuter
-
-42243	
 42245	masculine
 masculine
 masculine
 masculine
-
-42252	
-42257	
-42259	
 42261	masculine
 masculine
 neuter
 masculine
-42266	
-42269	
-42272	
-feminine
+42273	feminine
 42275	feminine
 42280	neuter
 feminine
 masculine/feminine
 42284	neuter
-
-
-feminine
+42287	feminine
 masculine
-42290	
-neuter
-
-masculine
-42295	
-
-42298	
-masculine
-42301	
+42291	neuter
+42293	masculine
+42299	masculine
 42303	masculine
 42305	neuter
-
-neuter
-42309	
-42313	
+42307	neuter
 42316	masculine
 42319	neuter
 42323	masculine
-42325	
-
-
-feminine
-
-feminine
+42328	feminine
+42330	feminine
 neuter
-
-
-42337	
-
 42340	masculine
-42344	
-
-feminine
+42346	feminine
 feminine
 masculine
-42350	
 42352	masculine
 masculine
-
 42356	masculine
-42358	
 42360	masculine
-
-masculine
-
-
-neuter
+42362	masculine
+42365	neuter
 42367	neuter
 masculine
 masculine
-42371	
-neuter
+42372	neuter
 42377	masculine/neuter
-
 42380	masculine
 neuter
 feminine
 neuter
-42389	
-
-masculine
-42393	
+42391	masculine
 42395	masculine
-
-42403	
 42408	masculine
 42410	masculine/feminine
-
 42415	masculine
 42419	neuter
-
-masculine
+42421	masculine
 neuter
 masculine
 neuter
-42426	
-42428	
+42429	neuter
 neuter
-neuter
-42432	
-
-masculine/neuter
+42434	masculine/neuter
 feminine
 42439	feminine
-
-
-42443	
-42446	
-42448	
-neuter
+42449	neuter
 masculine
 masculine
 neuter
-
-
+42455	masculine
 masculine
 masculine
-masculine
-
 42460	feminine
 42462	masculine/neuter
-42464	
-
-
-
-
-neuter
-
-
-42474	
+42469	neuter
 42476	feminine
-
-42479	
 42482	neuter
 42485	neuter
 neuter
 feminine
-42489	
-masculine/neuter
+42490	masculine/neuter
 neuter
-
-
-masculine/neuter
+42494	masculine/neuter
 masculine
-
-
-masculine/neuter
+42498	masculine/neuter
 masculine
 masculine
-42502	
+42503	masculine
 masculine
 masculine
 masculine
-masculine
-42508	
-neuter
-
-
-neuter
+42509	neuter
+42512	neuter
 42515	masculine
-
-masculine
+42517	masculine
 feminine
-42521	
 42524	masculine
-
+42526	masculine
+42529	masculine
 masculine
-42528	
-masculine
-masculine
-
-
-neuter
-
-
-neuter
+42533	neuter
+42536	neuter
 42539	masculine
 42543	masculine
 masculine
 42546	masculine
 42548	feminine
-
-
-
-
-masculine
-
-
-42559	
-42561	
-
-neuter
-
+42550	masculine/feminine
+42553	masculine
+42563	neuter
 42566	feminine
 42568	neuter
-
-masculine
-
-
-
-neuter
-
-
-
-
+42570	masculine
+42574	neuter
 42581	feminine
-
-42584	
-
-feminine
-
-feminine
+42586	feminine
+42588	feminine
 masculine
 feminine
 masculine
 masculine
-
-42596	
 42598	masculine
 42601	masculine
-
-42606	
-42610	
-42612	
-
 42616	masculine
-
 42620	masculine
 masculine/feminine
-
-
-42625	
-
-
-
-masculine
-
+42629	masculine
 42633	neuter
 masculine/feminine
-
-
 42639	masculine
 feminine
 masculine/neuter
-42643	
 42646	neuter
-
 42650	neuter
-
-
-masculine/neuter
-42656	
-
-
-
-
-neuter
-42665	
+42653	masculine/neuter
+42661	neuter
 42667	feminine
 masculine
 masculine
-42671	
-42674	
-42677	
-neuter
-42680	
-masculine
-42684	
+42678	neuter
+42681	masculine
+42684	masculine/feminine
 feminine
 feminine
 masculine
-42690	
+42691	feminine
 feminine
 feminine
-feminine
-
-42696	
 42698	masculine
-42700	
-
-neuter
+42700	masculine/feminine
+42702	neuter
 masculine
 masculine
 42706	masculine
 masculine
-
-masculine
-
-
+42709	masculine
+42712	feminine
 feminine
-feminine
-
-neuter
-42719	
-42722	masculine
+42715	neuter
 42729	feminine
-42731	
-
-masculine
+42733	masculine
 42735	feminine
 42738	masculine
 masculine
 42742	neuter
 42744	masculine
 masculine/feminine
-
 42748	masculine
-42750	
 42752	masculine
-
 42756	masculine/feminine
-
 42761	feminine
 42763	masculine
 42766	masculine/feminine
-
+masculine
 masculine/feminine
 42770	masculine/feminine
 42777	neuter
 42780	masculine
-42782	
-feminine
-
-
+42783	feminine
 42787	masculine
-
-42790	
 42792	masculine
-42795	
-neuter
+42796	neuter
 neuter
 neuter
 42803	masculine/feminine
-42805	
-42807	
-feminine
+42808	feminine
 masculine
-
 42817	masculine
-42822	
-
-masculine
-
+42824	masculine
 42828	neuter
 masculine
-
-42832	
-42834	
-
-42838	
-42840	
-neuter
-42844	
-
-masculine
+42841	neuter
+42846	masculine
 42848	masculine
 42851	masculine
-42853	
-
 42856	neuter
-
 42859	neuter
-42862	
 42864	feminine
 masculine
-
-
-
-
-feminine
-
-
-42877	
+42870	feminine
 42879	neuter
 feminine
-
-
-
+42884	feminine
+42889	neuter
 feminine
-
-42888	
-neuter
-feminine
-42894	
 42897	feminine
-42899	
-feminine
+42900	feminine
 42903	feminine
 42905	feminine
 feminine
 42910	masculine
-42912	
-
 42915	feminine
 masculine
-
 42921	masculine/feminine
-
-
-42925	
-
 42928	masculine
-
-42932	
-42935	
 42937	masculine
-
-42943	
-neuter
-
-masculine
-42949	
-
-42956	
+42944	neuter
+42946	masculine
 42959	masculine/neuter
 masculine
 42963	masculine
 42965	neuter
 masculine
-42968	
-
-masculine
+42970	masculine
 42973	masculine
 masculine/feminine
-
-masculine
-42980	
-
+42976	masculine
 42983	neuter
-
-masculine
+42985	masculine
 42987	feminine
 masculine
-
-masculine/neuter
-feminine
+42990	masculine/neuter
+masculine
 masculine
 masculine/feminine
-
-masculine
-
-42998	
+42995	masculine
 43002	masculine
 neuter
 masculine/feminine
-43006	
-neuter
+43007	neuter
 feminine
 masculine
 43014	masculine/feminine
-43016	
-neuter
-
-43021	
-
+43017	neuter
 43025	neuter
-43027	
-
 43030	feminine
-
-
-
-feminine
+43034	feminine
 feminine
 43037	neuter
-
-neuter
+43039	neuter
 masculine
-
-masculine
-43044	
-masculine
+43042	masculine
+43045	masculine
 neuter
 43048	masculine
-
 43051	neuter
 43053	masculine
 43056	feminine
-
-
-
-43062	
-43064	
+43065	masculine
+43068	neuter
 masculine
-
-
-neuter
-masculine
-
-masculine
-43073	
-masculine
-
-masculine/feminine
-43078	
+43071	masculine
+43074	masculine
+43076	masculine/feminine
 43080	masculine
 masculine
-
-
-43085	
+43086	masculine
+43091	neuter
+43098	masculine
+43103	masculine/feminine
+43106	feminine
 masculine
-43088	
-
-
-neuter
-
-
-43096	
-
-masculine
-43101	
-
-masculine/feminine
-43105	
-feminine
-masculine
-
-neuter
-
-neuter
-43114	
-
-
-
-neuter
-
-43121	
-43123	
-
-neuter
+43109	neuter
+43111	neuter
+43118	neuter
+43125	neuter
 masculine
 neuter
-
-43131	
-43133	
+43133	masculine
 masculine/feminine/neuter
-43136	
-43138	
-feminine
-43142	
+43139	feminine
 43144	masculine
-
-
-
-masculine
-
-
+43148	masculine
+43151	neuter
+neuter
+43158	masculine
 neuter
 neuter
-43157	
-masculine
-neuter
-neuter
-
-
-
-masculine
-
+43164	masculine
 43167	masculine
-43169	
 43171	masculine
-43173	
-
-43176	
-43180	
-neuter
+43181	feminine
 masculine
 43185	feminine
 43188	neuter
-
-neuter
-43192	
-feminine
-
+43190	neuter
+43193	feminine
 43196	masculine/feminine
-
-43201	
-
-masculine
+43203	masculine
 masculine
 masculine
 masculine
 masculine/feminine
 43209	masculine
-
-neuter
-43213	
+43211	neuter
 43216	masculine/neuter
-43219	
-
-
 43224	masculine
-43226	
-neuter
+43227	neuter
 masculine
-
-
-
-
-
 43237	neuter
-43239	
-
-43242	
 43245	neuter
 masculine/feminine/neuter
 neuter
-43250	
-43252	
 43254	masculine
 masculine
-
-
-masculine
+43258	masculine
 feminine
 43261	masculine
-43263	
-
-
 43269	feminine
-
-neuter
-
-masculine
+43271	neuter
+43273	masculine
 masculine
 masculine/feminine
-43278	
-neuter
-
-
+43279	neuter
+43282	feminine
 feminine
-feminine
-
-
-
-masculine
-43289	
-feminine
-43292	masculine
+43287	masculine
+43290	feminine
 43294	feminine
 feminine
-
-neuter
-
-neuter
-43301	
-
+43297	neuter
+43299	neuter
 43304	feminine
 feminine
-
-neuter
-
-43310	feminine
+43307	neuter
+43310	masculine
 masculine/neuter
-
-43314	
-
-
 43318	feminine
 feminine
-
+43321	neuter
 neuter
-
 feminine
-43325	
 43329	masculine
 43331	feminine
-
-
 43335	masculine/neuter
 masculine/neuter
-
-
-
-feminine
-
-43343	
+43340	feminine
 43346	masculine/neuter
-
-
-
-
 43352	masculine
-
-43355	
 43358	feminine
-
-feminine
-
-43363	
-43366	
-43370	
+43360	feminine
 43373	masculine
 masculine
-
-feminine
-
-
-feminine
+43376	feminine
+43379	feminine
 neuter
 neuter
-43383	
 43385	feminine
-43388	
-
 43391	feminine
-43396	
 43398	feminine
-43403	
 43405	feminine
-
-
-
-feminine
-
-
-
+43409	feminine
 43415	masculine
 feminine
-
-43419	
-43423	
-masculine
-43429	
-43432	
+43424	masculine
 43434	feminine
-43436	
-
-
-
-
-
-
 43444	feminine
-
-43447	
 43452	masculine
-43454	
-43458	
-neuter
+43459	neuter
 feminine
-43462	
-feminine
+43463	feminine
 masculine
 masculine
-
-feminine
-43469	
-feminine
-
-feminine
-43475	
-
+43467	feminine
+43470	feminine
+43472	feminine
 43479	neuter
 neuter
 neuter
-
-
-feminine
+43484	feminine
 masculine
-
-
-feminine
+43488	feminine
 43490	masculine
-
-43493	
-masculine
-43496	
-neuter
-
-
+43494	masculine
+43497	neuter
 43504	masculine
-
 43507	neuter
 neuter
-
-
-43514	
-
-
-43518	
-
-
-
-43525	
-
 43528	masculine
 masculine
 43532	masculine
 43537	feminine
-
 43541	feminine
 feminine
 43544	feminine
 43546	feminine
 43550	masculine/neuter
 neuter
-
+43553	masculine
 masculine
-masculine
-43556	
-neuter
-43561	
+43557	neuter
 43563	masculine
-43565	
-
-43568	
-neuter
-43572	
+43569	neuter
 43577	masculine
 43579	masculine
 feminine
 masculine/feminine
-
-
-
-feminine
+43585	feminine
 43587	neuter
 masculine
 43592	masculine
 43594	feminine
-43596	
-
-
+43599	feminine
 feminine
-feminine
-43602	
 43605	feminine
-
-43608	
-
-
-masculine
-43613	
-43615	
-43617	
-feminine
-43620	
-
-neuter
-
+43611	masculine
+43618	feminine
+43622	neuter
 43626	neuter
-
-43629	feminine
-43632	neuter
+43629	masculine
+43632	feminine
 43639	feminine
-43641	
-43643	
-masculine
-
-43648	
-43650	
+43644	masculine
 43652	masculine
 masculine
-
-neuter
+43655	neuter
 masculine
 feminine
 43659	feminine
-
-masculine
-43664	
-masculine
-
-43668	
-feminine
+43661	masculine
+43665	masculine
+43669	feminine
 feminine
 neuter
 feminine
-
-neuter
+43674	neuter
 feminine
-43679	
 43681	neuter
-
-
-
-
-43687	
-neuter
-
-neuter
-
+43688	neuter
+43690	neuter
+43692	masculine
 masculine
-masculine
-
-feminine
+43695	feminine
 43697	neuter
-
-43701	
 43703	feminine
-
 43708	masculine/feminine
 43712	neuter
-
-
-masculine/feminine
+43715	masculine/feminine
 43717	masculine
-43721	
 43723	feminine
-43725	
-
 43728	neuter
 43730	masculine
 masculine
 43734	masculine
-43736	
-masculine
+43737	masculine
 43740	feminine
 43744	masculine
-43746	
-
-
-
-
 43752	masculine
 43754	feminine
 feminine
-43757	
-
-
-43761	
 43763	masculine
-
-
-43767	
-43769	
-masculine
+43770	masculine
 feminine
-
-masculine
-43775	
-
-43778	
-43780	feminine
-43783	
-
+43773	masculine
+43780	masculine
 43791	neuter
 masculine
 masculine
-43797	
-43799	
-
-43804	
 43807	neuter
-43810	
 43812	masculine
 masculine
 43816	masculine
 43818	masculine
-43821	
 43823	neuter
 43825	neuter
 neuter
-
-feminine
+43828	feminine
 43832	masculine
 masculine
-
-neuter
+43835	neuter
 masculine
 43838	masculine
 43840	feminine
 masculine
-
-neuter
+43843	neuter
 neuter
 43849	masculine
-
-feminine
+43851	feminine
 feminine
 43854	masculine
 43856	feminine
 feminine
-
-neuter
+43859	neuter
 feminine
-
-
-43864	
-masculine
-
+43865	masculine
 43868	feminine
-
-neuter
-
-neuter
-
-masculine
-
-
+43870	neuter
+43872	neuter
+43874	masculine
 43878	masculine
-
-masculine/feminine
+43880	masculine/feminine
 43882	masculine
 masculine
 43886	neuter
-
-feminine
+43888	feminine
 masculine
-
-
 43893	neuter
 masculine
 masculine
 neuter
-43898	
-neuter
-43902	
-masculine
+43899	neuter
+43903	masculine
 masculine
 masculine
 43907	feminine
 feminine
-
-
+43910	feminine
 feminine
-
 feminine
-
-43916	
-43918	
-43921	
+feminine
+feminine
+43916	feminine
 43925	masculine
-43927	
-feminine
+43928	feminine
 masculine
-
-
-43933	
 43935	masculine
 masculine
-
-neuter
-43940	
-
-
-masculine
+43938	neuter
+43943	masculine
 feminine
-
-masculine
+43946	masculine
 43949	masculine/feminine/neuter
-43951	
-43953	
-43955	
-43958	
 43960	masculine
-43962	
-feminine
-43966	
-43969	feminine
+43963	feminine
+43969	neuter
 masculine
 43973	masculine
 masculine
-
-
-
+43977	masculine/feminine
 masculine
 neuter
-43982	
 43984	feminine
-
-neuter
-
-masculine
-43992	neuter
-43996	
-neuter
-
+43986	neuter
+43992	feminine
+43997	neuter
 44000	feminine
-
-neuter
-44004	
+44002	neuter
 44006	masculine
 44008	masculine
 masculine/feminine
 masculine
 44012	masculine
-44014	
-neuter
-44017	
+44015	neuter
 44019	neuter
-
-
-neuter
-44024	
+44022	neuter
 44026	masculine
 masculine
-
 44031	neuter
 neuter
-44034	
-masculine
-44037	
-neuter
+44035	masculine
+44038	neuter
 feminine
-
-
-
-44046	
-feminine
-
-44050	
-44052	
-masculine
-
+44047	feminine
+44053	masculine
 44058	feminine
-
+44060	neuter
+44063	masculine
+44065	masculine/feminine
+44068	masculine
 neuter
-44062	
-masculine
-
-masculine/feminine
-
-
-masculine
-neuter
-44071	
-
-44074	
 44076	feminine
 masculine
 44081	feminine
-
-44085	
-
-
 44091	masculine
 neuter
 feminine
-neuter
+feminine
 feminine
 masculine
-
-44099	
-feminine
-44106	
+44100	feminine
 44113	masculine/neuter
-44116	
-feminine
-
-masculine
-
-44125	
-44127	
+44117	feminine
+44119	masculine
 44131	masculine
 44133	neuter
-44135	
-
-neuter
+44137	neuter
 feminine
-44141	
-
-44145	
 44148	masculine/feminine
-44150	
 44152	masculine
 masculine
-
-44156	
-masculine/neuter
+44157	masculine/neuter
 44159	neuter
-
 44164	neuter
-
-masculine
+44166	masculine
 masculine
 masculine
 44172	masculine
@@ -26114,175 +13579,87 @@ masculine
 masculine
 44176	masculine
 44179	masculine
-44181	
-neuter
-
-
-44188	
-
-masculine
+44182	neuter
+44188	masculine
+44190	masculine
 44192	masculine
 44196	masculine
 masculine
 44205	neuter
-
 44208	neuter
-
-44211	
-masculine
-44214	
-masculine
-
-
+44212	masculine
+44215	masculine
 44219	masculine
 masculine
-
-neuter
+44222	neuter
 44224	feminine
 feminine
-
-
-
 44234	neuter
 44237	neuter
 44240	masculine
 masculine
 masculine
 44244	masculine
-
-neuter
+44246	neuter
 masculine
-44249	
 44252	masculine
-
 44256	masculine
-44260	
-44267	
 44270	masculine/feminine
-44273	
-44275	
-
-
-
-
-feminine
+44280	feminine
 masculine
-
-44285	
-44287	
-44289	
-feminine
-
-
-44294	
-44299	
-
-
-44304	
+44287	neuter
+44290	feminine
+44305	masculine
 masculine
-masculine
-
-44311	
-
-44315	
-
-44318	
-
-44321	
-44323	
-44326	
-44332	
-masculine
-
-
+44333	masculine
 44337	feminine
-
-
-44343	
 44346	masculine
-
-neuter
+44348	neuter
 feminine
 masculine
 feminine
-
-masculine
+44353	masculine
 44355	masculine/feminine/neuter
-
-44358	
-
-neuter
-44362	
-masculine
-
+44360	neuter
+44363	masculine
 44368	masculine
 masculine
-
 44372	feminine
-
 44375	neuter
 44380	masculine
-44383	
 44385	masculine
 masculine
-
-feminine
-
-44391	
-44394	
+44388	feminine
 44396	neuter
 feminine
-
-
-
-neuter
-44410	
-44412	
+44401	feminine
+44413	feminine
 feminine
-feminine
-
-neuter
-44418	
+44416	neuter
 44421	masculine/feminine
 masculine/feminine
-
-
-feminine
+44425	feminine
 feminine
 44428	neuter
 feminine
-44431	
-
 44434	feminine
 masculine
 neuter
 44438	neuter
 feminine
 feminine
-44442	
-44445	
-
 44449	masculine
 44451	masculine
 neuter
-
 44456	neuter
 feminine
-
-neuter
+44459	neuter
 masculine
-
-
-44464	
 44466	masculine/feminine
-44469	
-
 44473	neuter
 44475	feminine
-44477	
 44479	neuter
 44481	masculine
-44487	
 44489	masculine/feminine
 neuter
 44494	masculine
@@ -26291,284 +13668,137 @@ masculine
 masculine
 feminine
 feminine
-
-feminine
+44501	feminine
 44503	feminine
-44505	
-neuter
+44506	neuter
 44509	masculine
-
-
 44513	masculine
-44515	
-feminine
-
-
-feminine
+44516	feminine
+44519	feminine
 masculine
-44522	
-masculine
+44523	masculine
 44525	masculine
-
-feminine
-
-masculine
-
+44527	feminine
+44529	masculine
 44532	feminine
-
 44536	neuter
 masculine
-44539	
-
 44542	masculine
 44544	masculine
-44546	
+44547	masculine
 masculine
-masculine
-
+44550	feminine
 feminine
-feminine
-
-44554	
-feminine
-
-44560	
-
-44564	
+44555	feminine
 44566	masculine
-
 44571	masculine
-
+44573	masculine
+44575	neuter
+44582	masculine
 masculine
-
-neuter
-
-
-44579	
-
-
+44590	feminine
 masculine
-masculine
-44585	
-
-44589	
-feminine
-masculine
-
 44596	masculine
-
-
-44600	neuter
+44600	feminine
 neuter
-
 44604	masculine
-44607	
-feminine
+44608	feminine
 masculine
 44611	masculine/feminine
-
-
-44615	
-44618	
-
-
 44622	neuter
 44624	feminine
-44626	
-
+44628	feminine
 feminine
 feminine
-feminine
-
-44633	
-neuter
+44634	neuter
 masculine
-
+44637	feminine
 feminine
-feminine
-
-
-
-44643	
-
-44646	
-44648	
-masculine
+44649	masculine
 44652	masculine
-
-
-
 44658	masculine
 44661	masculine
-44664	
-44667	
-44670	
 44672	neuter
 masculine
 masculine
 masculine
 feminine
-
-
-44680	
+44678	neuter
 44682	masculine
-44684	
-44686	
 44689	feminine
 44692	masculine
 44694	masculine
 feminine
-
 44698	feminine
 masculine/neuter
 masculine
-
-
-44706	
-
-masculine
+44708	masculine
 44711	neuter
 44713	neuter
 44716	feminine
-44721	
 44723	masculine
 masculine/feminine
 feminine
-
-feminine
+44727	feminine
 neuter
-
-44731	
-
-masculine
+44733	masculine
 masculine
 neuter
 feminine
-
 44740	masculine
-44742	
-44744	
-neuter
+44745	neuter
 masculine/neuter
 44748	neuter
-44751	
-masculine
+44752	masculine
 masculine
 neuter
 44757	neuter
-
 44761	masculine
-44763	
-
-masculine
+44765	masculine
 masculine
 neuter
 feminine
-
-44771	
 44778	neuter
 neuter
-44781	
 44789	neuter
-
-neuter
+44791	neuter
 44793	neuter
-
-
-masculine
+44796	masculine
 44799	neuter
 neuter
-44802	
-feminine
-
-masculine
+44803	feminine
+44805	masculine
 masculine/neuter
 feminine
-
 44812	feminine
 masculine/neuter
 44817	neuter
-
-44820	
-feminine
+44821	feminine
 masculine/neuter
-
 44825	masculine
 44827	masculine
 44829	masculine
 masculine
-
 44833	masculine
-
-44836	
 44838	feminine
-
-44842	
-feminine
-44845	
-
-
-
+44843	feminine
 44852	masculine
 44854	feminine
-
-44857	
-
-
-
-masculine
-44863	
-masculine
-
-
-masculine
-
+44861	masculine
+44864	masculine
+44867	masculine
 44870	masculine
 44876	masculine
-
-
-44880	
-
-feminine
-
+44882	feminine
 44886	neuter
-44888	
-44891	
-
-44894	
-
-
-feminine
-
-
-44901	
-masculine
-44904	
-44906	
-44908	
-
-44911	
-
+44897	feminine
+44902	masculine
 44915	masculine/neuter
-
 44918	neuter
-44920	
-
-
-44924	
-
-44927	
-44929	
-
 44932	feminine
-
 44936	masculine
-44938	
-
-masculine
-44942	
+44940	masculine
 44944	neuter
-
 44949	masculine
 neuter
 44952	masculine
@@ -26576,402 +13806,210 @@ neuter
 neuter
 masculine
 neuter
-44962	
 44964	masculine/neuter
 masculine
-
 44970	masculine/feminine
-
-
-masculine/neuter
+44973	masculine/neuter
 masculine
 44976	masculine
 44978	masculine
 masculine
-
-44982	
 44984	masculine
 masculine
-
-44989	
-masculine
+44990	masculine
 44992	neuter
 44994	masculine
 masculine
 44999	neuter
 feminine
 masculine
-45003	
 45005	masculine/neuter
 masculine/neuter
 45008	neuter
-45011	
-
-masculine/neuter
-45016	
-masculine
+45013	masculine/neuter
+45017	masculine
 masculine
 45020	masculine
 masculine
 masculine/feminine
-45026	
-masculine
-45030	
-masculine/feminine
-
+45027	masculine
+45031	masculine/feminine
+45033	feminine
 feminine
 feminine
-feminine
-
-
-masculine/feminine
+45038	masculine/feminine
 45040	masculine
 masculine
-
 45044	feminine
-45046	
-45048	
-45051	
-feminine
+45052	feminine
 masculine
-45056	
 45060	masculine
-
-
-
-
-
-feminine
+45066	feminine
 masculine
 45072	masculine
-
-masculine
-
-
-
-
-feminine
+45074	masculine
+45079	feminine
 neuter
-
 45083	neuter
 masculine
-45086	
-
-feminine
+45088	feminine
 masculine
 masculine
-45092	
-masculine/feminine
+45093	masculine/feminine
 45097	masculine
-
-45101	
-masculine
-45104	neuter
+45102	masculine
 45106	masculine
 masculine
-
-neuter
-feminine
-
-
-
-
+45109	neuter
+masculine
+45115	feminine
 feminine
 feminine
-feminine
-
-
-45124	
-45126	
-45134	
-45137	
-
 45140	masculine
-
 45145	masculine
-
-
-
+45149	masculine
+45153	neuter
 masculine
-
-45152	
-neuter
-masculine
-45156	
-
 45160	neuter
-45162	
-neuter
-
-masculine
+45163	neuter
+45165	masculine
 masculine
 45171	masculine
-
-neuter
-45175	
-neuter
-
-masculine
-45183	
-
+45173	neuter
+45176	neuter
+45178	masculine
 45186	masculine
 masculine
-
 45190	neuter
-
-
 45195	masculine
 45197	neuter
-
-45200	
 45204	masculine
-
 45209	masculine
 45212	masculine
 masculine
-
-45216	
+45217	feminine
 feminine
 feminine
 feminine
-feminine
-45224	
-
 45227	neuter
 neuter
-45230	
-neuter
+45231	neuter
 masculine
 masculine
-
-45238	
-45243	
-45246	
-45249	
-
+45250	feminine
 45252	masculine
-45254	
-neuter
-
-neuter
+45255	neuter
+45257	neuter
 45261	masculine
 45264	neuter
-
-masculine
-45270	
+45266	masculine
 45272	feminine
 45274	masculine
 neuter
 45282	neuter
-45284	
-
-
 45288	masculine
 45290	masculine
 masculine
 45293	masculine
 masculine
-
 45298	feminine
 feminine
-
-45302	
-feminine
-45310	
-45313	
-45315	
+45303	feminine
 45317	masculine
 masculine
 neuter
 45323	masculine/feminine
-45325	
 45327	neuter
-
-45332	
-feminine
-45335	
-feminine
-
-45340	
+45333	feminine
+45336	feminine
 45342	masculine
-45344	
-
-
-
-45351	
+45346	masculine
 45356	feminine
 45358	masculine
-
-neuter
+45360	neuter
 45363	masculine/feminine
 45365	masculine/feminine
-45367	
 45369	masculine
 45371	neuter
 45373	feminine
-
-45377	
-45380	
-
-45384	
-masculine
-45387	
+45385	masculine
 45389	masculine
-45391	
-45395	
-neuter
+45396	neuter
 45400	neuter
-
-neuter
-
-neuter
-45406	
-
+45402	neuter
+45404	neuter
 45409	neuter
 45411	neuter
-
-45416	
-
-feminine
+45418	feminine
 neuter
-
-45423	
-feminine
+45424	feminine
 45426	masculine
 masculine
 masculine/neuter
 masculine
-45431	
 45433	masculine
 45435	masculine
 45437	masculine/feminine
 masculine
-
-45441	
-
-45448	
-
-masculine
+45450	masculine
 45452	neuter
-45456	
-45458	
 45460	neuter
 feminine
-45464	
 45466	masculine
 masculine
 feminine
 45473	masculine
 45476	masculine
-45478	
 45483	masculine
 feminine
-
-
-45489	
-masculine
+45490	masculine
 45492	feminine
 45495	feminine
-45498	
-
-feminine
-
-neuter
+45500	feminine
+45502	neuter
 45505	masculine
 45507	feminine
-
-45512	
-neuter
+45513	neuter
 masculine
 masculine
 masculine
-
-
-45521	
 45524	masculine
 45526	masculine
-
 45529	neuter
-45535	
-masculine
-45538	
-45541	feminine
-45548	
-45550	
-
-neuter
-45555	
-45557	
+45536	masculine
+45541	masculine
+45552	neuter
 45560	masculine
 masculine
 45563	masculine
-45565	
 45567	masculine
-
-
-masculine
+45570	masculine
 45572	neuter
 45575	neuter
 45578	neuter
-45582	
 45584	masculine
-
-
 45589	neuter
-
-45593	
-feminine
+45594	feminine
 masculine
-
 45598	masculine
-
-45602	
-
-45606	
-45610	
-masculine/neuter
+45611	masculine/neuter
 45613	masculine
-45620	
-
-45624	
+45625	masculine
+45627	masculine
 masculine
-
+45631	feminine
 masculine
 masculine
-
-
-feminine
-masculine
-
-
-
-45638	
 45640	feminine
-
-
 45646	masculine
-
-45649	
-neuter
+45650	neuter
 masculine
-45656	
-45658	
 45660	feminine
-
-
-feminine
+45663	feminine
 masculine
 feminine
-
-
-
-45671	
-45673	
-45675	
 45677	feminine
-
 45682	feminine
-
 45685	masculine
 masculine/feminine
 masculine/neuter
@@ -26983,555 +14021,284 @@ feminine
 neuter
 45698	masculine
 neuter
-
-45702	
-45705	
 45707	neuter
 neuter
 45710	neuter
-45712	
 45714	neuter
 feminine
 masculine/feminine
 feminine
-
-neuter
-45722	
-45724	
-
-
-feminine
+45719	neuter
+45727	feminine
 feminine
 45730	feminine
 45732	masculine/feminine
-45734	
-45738	
-
-masculine/neuter
+45740	masculine/neuter
 neuter
-
-
-neuter
-45748	
-
-45752	masculine
+45744	neuter
+45752	neuter
 45754	masculine
 neuter
-45757	
-masculine
-
-
-
-
-masculine/neuter
-
-
-masculine/neuter
-45770	
-feminine
+45758	masculine
+45763	masculine/neuter
+45766	masculine/neuter
+45771	feminine
 neuter
-
 45775	feminine
-
-45778	
-45781	
-
-45784	
-45786	
 45789	masculine
-45791	masculine
 45793	feminine
 45796	neuter
-45800	
-feminine
+45801	feminine
 45803	masculine
-45805	
-
-masculine
-
-45812	
-
+45807	masculine
 45815	masculine
 masculine
-
-
 45820	masculine
 masculine
 45823	masculine
-
-
-neuter
-45829	
-
+45826	neuter
 45832	feminine
 masculine
-
-
 45837	feminine
 45839	neuter
-45841	
-
-45845	
-
-neuter
+45847	neuter
 45853	feminine
-
-feminine
-45857	
-masculine
-45860	
-45867	
-45870	
-feminine
+45855	feminine
+45858	masculine
+45871	feminine
 neuter
-45878	
 45880	feminine
 feminine
 feminine
 neuter
-45885	
-45887	
-feminine
+45888	feminine
 feminine
 45891	feminine
-45893	
-masculine
+45894	masculine
 45896	masculine/feminine
-45898	
 45900	masculine
-
-
-
-neuter
-
-45907	
-45909	
-feminine
+45904	neuter
+45910	feminine
 masculine
-
-
-
-45916	
-
 45920	feminine
-
-
-45925	
 45928	masculine
 masculine
-
-45934	
-masculine
+45935	masculine
 45937	feminine
 45941	feminine
-45943	
-
-feminine
-45947	
-45949	
-45951	neuter
-45953	
-masculine
-45957	
+45945	feminine
+45951	feminine
+45954	masculine
 45960	feminine
-
-masculine
-
-
-
-
-feminine
-
+45962	masculine
+45967	feminine
+45969	feminine
 feminine
 feminine
-feminine
-45974	
-feminine
-
-45979	
-
-
+45975	feminine
 45983	feminine
 feminine
-45986	
-masculine
-
-
-feminine
-45992	
-neuter
+45987	masculine
+45990	feminine
+45993	neuter
 neuter
 45996	masculine
-
-
-46000	
 46002	masculine
-
-46005	
-masculine
-46008	
-46010	
-feminine
+46006	masculine
+46011	feminine
 46013	feminine
-
-
 46017	masculine
 neuter
 feminine
-46022	
-feminine
-46028	
+46023	feminine
 46031	feminine
-46034	
-feminine
-
+46035	feminine
 46038	feminine
-46040	
-
 46043	neuter
-46050	
-neuter
+46051	neuter
 neuter
 masculine
 46057	feminine
-
 46061	masculine/feminine
 46063	masculine
 46065	masculine
 46067	feminine
-
-
-46071	
-46075	
 46077	feminine
 masculine
-46080	
-feminine
+46081	feminine
 feminine
 masculine
 46085	masculine/neuter
-
-feminine
-
-
+46087	feminine
 46091	feminine
 feminine
 feminine
-
-feminine
+46095	feminine
 feminine
 46098	feminine
 feminine
 feminine
-46103	
-46107	
-feminine
+46108	feminine
 neuter
-
-46112	
 46115	feminine
 46117	feminine
-46121	
-46123	
-feminine
+46124	feminine
 feminine
 feminine
 46129	feminine
 feminine
 feminine
 masculine
-
-
-neuter
-
+46135	neuter
 46138	feminine
 46140	masculine
 neuter
 neuter
-46144	
-neuter
+46145	neuter
 46148	neuter
-
-
-neuter
-46160	
+46151	neuter
+46161	feminine
 feminine
-feminine
-
-
 46167	feminine
 feminine
-
-neuter
+46170	neuter
 feminine
-
-
-
-
-masculine
-
+46176	masculine
+46178	feminine
 feminine
-feminine
-46181	
-
-masculine
+46181	masculine
+46183	masculine
 feminine
 masculine
 46188	feminine
 feminine
 46191	masculine
-46193	
-masculine
-
-masculine
-46198	
+46194	masculine
+46196	masculine
 46200	neuter
 masculine
 masculine
 46204	feminine
 feminine
 feminine
-
-
-46210	
-46212	
-46215	
 46217	feminine
 masculine/feminine
 feminine
 feminine
-46222	
-46226	
-46230	
 46232	feminine
 46234	feminine
-
-46237	
 46239	masculine
 masculine
-
-
 46244	feminine
 masculine
 neuter
 masculine
 46251	neuter
-
-
-
-feminine
-
+46255	feminine
 46258	feminine
 feminine
-
-
-masculine/neuter
+46262	masculine/neuter
 46264	feminine
-46269	
 46271	masculine
 46273	masculine
 feminine
 46277	masculine
 masculine
-46282	
-
-masculine/neuter
+46284	masculine/neuter
 46286	neuter
 46289	feminine
 46291	feminine
 46293	feminine
 feminine
-46297	
-masculine
+46298	masculine
 masculine
 46301	masculine
 masculine
-46304	
-
-46311	
 46313	masculine
-
-masculine
+46315	masculine
 46317	neuter
 46319	neuter
-
-
-
+46323	feminine
 feminine
-feminine
-46331	
-46333	
-neuter
-
+46334	neuter
 46341	neuter
-46345	
 46348	feminine
-
-46353	
-neuter
-
+46354	neuter
 46357	feminine
 feminine
 feminine
-46361	
-
-
-46367	
-masculine
+46368	masculine
 46370	masculine
 masculine
-46373	
-masculine/feminine
-46377	
+46374	masculine/feminine
 46379	masculine
-46381	
-neuter
-
+46382	neuter
 46386	masculine
-46388	
-neuter
-
-
-feminine
-
-46396	
-
+46389	neuter
+46392	feminine
 46399	masculine
-46402	
-neuter
-
+46403	neuter
 46406	feminine
-
-46409	
-46411	
-
-
 46415	feminine
-
-
-masculine
-46420	
-46427	
-feminine
+46418	masculine
+46428	feminine
 masculine/neuter
 masculine
 masculine/feminine/neuter
-46433	
-
-neuter
+46435	neuter
 46437	masculine
-
-
-46442	
 46445	neuter
 46450	masculine
-
 46453	feminine
 feminine
-
 46457	masculine
 46459	masculine/feminine
 neuter
-46462	
 46465	feminine
 46472	feminine
-46474	
-46477	
-46479	
-
-46482	
-masculine
+46483	masculine
 masculine/feminine/neuter
-46486	
-46489	
-
-feminine
-
-neuter
+46486	masculine
+46491	feminine
+46493	neuter
 46495	masculine
-
-
-
-
-46502	
-
-46505	
-46507	
-
-masculine
-
-
-
-46514	
-
-46518	
-
+46509	masculine
+46519	masculine
 masculine/feminine
 feminine
 feminine
-
-neuter
-
+46524	neuter
 46527	feminine
-46529	
-
 46533	neuter
 masculine
 46539	masculine
-46541	
-feminine
+46542	feminine
 masculine
-46545	
-
-46548	
-46552	
-46554	
-46556	
+46557	masculine
+46561	feminine
+46566	feminine
 masculine
-46560	
-feminine
-
-46564	
-
-feminine
-masculine
-46569	
-feminine
-46572	
-
-feminine
-46576	
+46570	feminine
+46574	feminine
 46580	masculine/neuter
-
 46583	masculine
-
+46585	masculine
 masculine
-masculine
-46588	
-feminine
-
+46589	feminine
 46592	masculine
-46594	
-46596	
 46598	neuter
 46600	masculine/feminine
-46604	
 46609	masculine/feminine
 neuter
-
-
-neuter
+46613	neuter
 masculine
 46616	feminine
 46621	feminine
-
-neuter
+46623	neuter
 46625	masculine/feminine
 neuter
-
 46630	masculine
-46632	
-neuter
+46633	neuter
 masculine
 masculine
 feminine
@@ -27541,278 +14308,145 @@ feminine
 masculine
 feminine
 masculine
-
-46648	
 46651	masculine
-46653	
-
-46656	
-masculine
+46657	masculine
 masculine
 46660	masculine
-46662	
-masculine
+46663	masculine
 masculine
 masculine/feminine
 46668	masculine
 masculine
-
+46671	masculine
 masculine
+46674	masculine
 masculine
-
+46680	feminine
+46683	masculine
 masculine
-masculine
-
-46678	
-
-feminine
-
-
-masculine
-masculine
-46687	
-masculine
+46688	masculine
 46691	masculine/neuter
-
 46695	masculine
 masculine
-46698	
-46700	
 46702	masculine
 46704	masculine
 feminine
-
-
-46709	
-
 46712	masculine
 masculine
-
-
-feminine
+46716	feminine
 masculine
-46720	
-neuter
+46721	neuter
 feminine
 feminine
 feminine
-46726	
 46728	masculine
 masculine
-
-masculine
+46731	masculine
 masculine
 46734	feminine
-
-
-
-46740	
-46742	
-
-masculine/neuter
-
-masculine
-
+46744	masculine/neuter
+46746	masculine
+46748	feminine
 feminine
-feminine
-
-46753	masculine
-
+46755	masculine
+46759	masculine
+46762	neuter
 masculine
-46758	
+46765	masculine/neuter
 masculine
-46761	
-neuter
-masculine
-
-masculine/neuter
-masculine
-
-46769	
-46772	
 46775	masculine
-46777	
-
-
-masculine
-
-
-46785	
-46788	
-masculine
+46780	masculine
+46785	masculine
+46789	masculine
 46791	masculine
-
-neuter
-
-
-feminine
+46793	neuter
+46796	feminine
 46800	feminine
 46803	masculine
-
-
-masculine
-46808	
-46810	
+46806	masculine
 46812	neuter
-
 46815	masculine
-
 46818	masculine/feminine/neuter
-
 46821	feminine
 46823	masculine
 masculine
-
 46829	neuter
 46832	feminine
-
-46835	
-
 46839	masculine
-
-46842	
-masculine
+46843	masculine
 46845	masculine
-
-masculine
-46852	
-masculine/neuter
-46855	
-masculine
-46858	
-masculine
-
-feminine
+46847	masculine
+46853	masculine/neuter
+46856	masculine
+46859	masculine
+46861	feminine
 46864	masculine
-46866	
-neuter
+46867	neuter
 masculine
 46870	masculine
-46872	
-
-46876	
 46878	masculine
 masculine/neuter
 feminine
 46883	neuter
 46885	masculine
 masculine
-46889	
-
-46892	
-neuter
-
-masculine
-46897	
-46901	
+46893	neuter
+46895	masculine
 46903	neuter
-46905	
-
-46908	
-neuter
+46909	neuter
 neuter
 46912	masculine
 masculine
-
-masculine
-
-46919	
+46915	masculine
 46921	masculine/neuter
-
-masculine
+46923	masculine
 46925	feminine
 masculine
-
 46929	neuter
 46933	neuter
-46936	
-46941	
-feminine
-neuter
+46942	feminine
+masculine
 46947	masculine
-
-neuter
-46951	
-46954	
+46949	neuter
 46956	feminine
-46958	
-
 46965	masculine
-
-46969	
-46971	
-46973	
+46974	neuter
 neuter
-neuter
-
-masculine
-
-
-masculine
-
-
+46977	masculine
+46980	masculine
 46985	neuter
-46987	
 46990	masculine
 masculine
 masculine
 masculine
 feminine
 feminine
-
-47000	
-masculine
-
+47001	masculine
 47004	masculine
-47006	
-neuter
+47007	neuter
 masculine
-47012	
-feminine
-
+47013	feminine
 47017	masculine
-
 47021	masculine
-
-masculine
-
-
-
+47023	masculine
 47030	masculine
 masculine/feminine
-
-neuter
-
-masculine
+47033	neuter
+47035	masculine
 47037	masculine
-47039	
 47042	neuter
 47044	masculine
-
 47047	masculine
 masculine
-
-
-
-47055	
-47057	
-47059	
+47051	masculine
 47061	masculine
 47067	masculine
-47070	
-masculine/neuter
-47074	
-
-masculine
-47078	
-47081	
+47071	masculine/neuter
+47076	masculine
 47083	masculine/feminine
 47085	masculine
 47087	feminine
-
-
-masculine/neuter
-
+47090	masculine/neuter
 47093	feminine
 feminine
 47096	masculine
@@ -27821,21 +14455,11 @@ feminine
 feminine
 47104	feminine
 feminine
-
-masculine
-47111	
-47113	
-
+47107	masculine
 47116	feminine
-
-masculine
+47118	masculine
 masculine
 47121	masculine
-47123	
-
-47127	
-
-47130	
 47134	masculine
 masculine
 47137	neuter
@@ -27845,221 +14469,118 @@ neuter
 47146	masculine
 47148	feminine
 neuter
-
-masculine
+47151	masculine
 47153	masculine/feminine
 neuter
-
-masculine
+47156	masculine
 47159	masculine
-
-
-47165	
-masculine
+47166	masculine
 47168	masculine
 47171	masculine
-47173	
-neuter
-
-masculine
+47174	neuter
+47176	masculine
 47178	masculine
-47181	
-
-47184	
 47186	feminine
 47189	masculine/feminine
-
-masculine
+47191	masculine
 47193	feminine
 47197	neuter
-
-47203	
 47205	masculine
 masculine
-47208	
-
-masculine
-
+47210	masculine
 47216	neuter
-47220	
+47221	masculine
 masculine
-masculine
-47224	
-masculine
+47225	masculine
 47228	masculine
 masculine
-
-
-
-masculine
-
-
-neuter
-
-47240	
-47242	
-47247	
-47249	
+47233	masculine
+47236	neuter
+47249	masculine
 masculine
 masculine
 47253	masculine
-47256	
-neuter
-47262	
-masculine
-
-masculine/feminine
+47257	neuter
+47263	masculine
+47265	masculine/feminine
 47267	masculine
-
-
 47271	feminine
 feminine
-47274	
-
 47277	masculine
-
 47280	feminine
-
-47284	
 47286	masculine
-
 47289	masculine
-47291	
-47293	
 47296	neuter
 masculine
-
-47300	
+47301	masculine
 masculine
-masculine
-
-masculine/feminine
-
+47304	masculine/feminine
 47307	neuter
 masculine
-
-
-
-masculine
-
-masculine
-47316	
-
-masculine
-
-
-
+47312	masculine
+47314	masculine
+47318	masculine
 47325	masculine
 masculine
-
-feminine
-47330	
-feminine
-47334	
-neuter
-
-47341	
+47328	feminine
+47331	feminine
+47335	neuter
+47342	masculine
 masculine
+47345	neuter
 masculine
-
-neuter
-masculine
-47352	
-
-
-
-masculine
-47358	
-neuter
-47361	
+47356	masculine
+47359	neuter
+47362	feminine
 feminine
-feminine
-47367	
-
 47370	neuter
 masculine
-
 47376	neuter
-
-47379	
-47382	
-47384	
-neuter
+47385	neuter
 masculine
-47388	
-neuter
+47389	neuter
 47392	feminine
 47394	neuter
 masculine/feminine
 47399	neuter
 47401	masculine
 47404	masculine
-47407	
 47409	masculine
-47411	
-masculine
+47412	masculine
 masculine
 feminine
 feminine
 masculine
-47418	
-neuter
-47422	
-masculine
-47426	
+47419	neuter
+47423	masculine
 47429	masculine
-47434	
-masculine
-
-
+47435	masculine
 47439	neuter
 masculine
-47442	
-masculine
-
-
+47443	masculine
 47450	feminine
 47452	feminine
-47455	
 47457	feminine
-
-47462	
-
-
 masculine
-47471	
-
+47465	masculine
 47474	feminine
 47481	neuter
-47484	
-masculine
-
+47485	masculine
 47489	feminine
 masculine
 47493	masculine
-47497	masculine
-
-47500	
-feminine
-
-47504	
-47506	neuter
-47509	
-neuter
+47501	feminine
+47506	feminine
+47510	neuter
 47513	neuter
-47515	
 47517	neuter
 masculine
-47522	
-
-
-47528	
-neuter
+47529	neuter
 47532	masculine
 masculine
 47535	masculine
 masculine
-
+masculine/feminine
 masculine
 neuter
 masculine
@@ -28069,131 +14590,71 @@ masculine
 47550	masculine
 masculine
 47553	masculine/feminine
-47556	
-47560	
-neuter
-
+47561	neuter
 47565	masculine
-47567	
-47569	
-feminine
+47570	feminine
 47572	neuter
-
-47575	
-feminine
+47576	feminine
 47584	masculine
 47587	masculine
-47591	
-47599	
-neuter
-47604	
-
-
+47600	neuter
+47606	masculine/feminine
 feminine
-
-47610	
-
-
 47614	neuter
 masculine
 feminine
-
 47619	neuter
-47621	feminine
+47621	masculine
 47627	masculine/feminine
-47629	
 47631	masculine
-
 47634	masculine
 neuter
-
-47639	
-
 47643	masculine
-
 47646	masculine
 47648	masculine/feminine
-47652	
-neuter
+47653	feminine
 masculine/neuter
 neuter
-47657	
-
-feminine
+47659	feminine
 47661	feminine
-47663	
-
-masculine
+47665	masculine
 47668	masculine
 47671	neuter
-47673	
 47676	masculine
-47678	
-masculine
-
-
+47679	masculine
 47683	masculine
 47685	masculine
-
 47689	neuter
 47691	masculine
-
 47695	masculine
-
-
-
-neuter
-
-47703	
-masculine
-47713	
-feminine
+47699	neuter
+47704	masculine
+47714	feminine
 feminine
 neuter
-47719	
 47723	neuter
-
-47727	neuter
+47727	feminine
 masculine/neuter
 47730	feminine
 neuter
-
 47734	neuter
-47740	
 47742	neuter
 masculine
-
-
 47749	neuter
 masculine
 neuter
-47753	
 47755	neuter
-47759	neuter
-
-masculine
+47761	masculine
 47764	neuter
-47767	
-47770	
-feminine
-47774	
-47776	
+47771	feminine
 47779	feminine
 masculine
-
 47784	masculine
-
 47787	masculine
-
 47790	feminine
-
-47793	
-neuter
+47794	neuter
 47796	feminine
-
-
 47800	feminine
-
 47803	masculine/neuter
 feminine
 feminine
@@ -28201,88 +14662,55 @@ feminine
 47808	feminine
 feminine
 feminine
-
-
 47815	masculine/feminine
-
-47818	
-47820	
 47825	masculine/feminine
-47829	
-masculine/feminine
-
-
-
-
+47830	masculine/feminine
 47836	feminine
 masculine/neuter
-
-
 47841	neuter
 feminine
-47846	
-masculine/feminine
+47847	masculine/feminine
 47849	masculine/feminine
 neuter
 47852	masculine
-
-
-
 47859	neuter
 masculine
-
-feminine
+47862	feminine
 47866	masculine/feminine
 neuter
-47869	
-feminine
+47870	feminine
 neuter
-47873	
-feminine
+47874	feminine
 masculine
 47877	masculine
-
-masculine
+47879	masculine
 47881	neuter
-
-47884	
-neuter
+47885	neuter
 masculine/neuter
 masculine
 47889	neuter
 47891	neuter
-
-
 47896	masculine
 masculine
 masculine
-
 47902	masculine
 masculine
 masculine
-
-
-47909	
 47912	masculine
 masculine
-
-neuter
+47915	neuter
 masculine
-47918	
 47920	neuter
 47922	masculine
 masculine
 47927	neuter
 47929	masculine
-
-47932	
-masculine
+47933	masculine
 masculine
 feminine
 feminine
 masculine
 masculine
-
 47942	masculine
 47944	neuter
 masculine
@@ -28292,229 +14720,127 @@ feminine
 47952	feminine
 masculine/neuter
 masculine/feminine/neuter
-47957	
-47959	
-masculine
+47960	masculine
 masculine
 masculine
 masculine
 47965	masculine/feminine
-
 47968	masculine
 47970	masculine
 neuter
-47973	feminine
-
+47973	masculine
 47977	neuter
-
-
-
-masculine
+47981	masculine
 neuter
-
-47987	
-feminine
+47988	feminine
 47990	feminine
-
-
 47996	masculine/feminine
-
-47999	
-masculine
+48000	masculine
 48002	masculine
-48004	
-
 48007	feminine
-
-48010	
-neuter
+48011	neuter
 feminine
-
-
 48017	masculine/neuter
-
-
-
 48022	masculine
-
-neuter
+48024	neuter
 48026	feminine
 feminine
 48029	masculine
 48032	feminine
 48034	feminine
-
-feminine
-48038	
-
-48045	
-
 masculine
-48049	
-
+feminine
+48047	masculine
 48052	masculine
 masculine
-
-masculine
-
-feminine
-
+48055	masculine
+48057	feminine
 48062	masculine
 48065	masculine
 48067	masculine
 48069	masculine
-
 48072	masculine
 48075	neuter
 masculine
 48078	masculine
 48081	masculine/feminine
-
 48085	masculine
-48087	
-
 48090	feminine
 48093	neuter
 feminine
 48096	neuter
 neuter
-
 48102	masculine
 48104	neuter
-
-
 48109	feminine
 feminine
 neuter
-
 48114	feminine
 feminine
 feminine
 masculine
-
 48122	feminine
 masculine
 48127	masculine/feminine
-48129	
-
-48132	
-masculine
-48135	
-feminine
+48133	masculine
+48136	feminine
 neuter
-
 48141	feminine
 feminine
 48146	feminine
-
-neuter
-48151	
-48156	
-masculine
+48148	neuter
+48157	masculine
 48159	masculine
-48166	
-48169	
-
-
+48169	masculine/feminine
 48174	masculine
 48176	feminine
-
-
-48181	
-feminine
+48182	feminine
 48184	feminine
-48187	
-feminine
-
+48188	feminine
 48191	feminine
 neuter
-
 48195	neuter
-48197	
 48201	neuter
 48205	neuter
-48207	
-masculine
+48208	masculine
 48212	neuter
-
-48216	
 48219	feminine
-48221	
-
-
 48225	feminine
-
-feminine
+48227	feminine
 neuter
 48230	neuter
-
 48235	neuter
-
-
-neuter
+48238	neuter
 feminine
-48241	
-
-48245	
+48246	masculine
 masculine
-masculine
-48250	
-
-
-feminine
-
-48257	
-48260	
-48262	
-
+48253	feminine
 48265	masculine
 48267	masculine/neuter
 neuter
 48270	feminine
 neuter
-
-
 48275	feminine
-
 48278	feminine
 neuter
-
 48282	neuter
-
-feminine
+48284	feminine
 masculine
-
-48289	
-
-
-
-48294	
-48296	
-
-
-feminine
+48299	feminine
 masculine
-48303	
-feminine
-
-
-48308	
+48304	feminine
+48309	feminine
 feminine
 feminine
-feminine
-48315	
-masculine
+48316	masculine
 feminine
 48321	feminine
 48323	neuter
-48326	
-
-neuter
+48328	neuter
 48330	feminine
 masculine
 48333	feminine
-48335	masculine/neuter
-48338	
+48335	feminine
 48340	feminine
 48342	feminine
 48344	masculine
@@ -28523,1043 +14849,550 @@ feminine
 48350	feminine
 feminine
 masculine/feminine
-48354	
 48358	feminine
-48360	
-
+48361	masculine/feminine
 neuter
 48364	masculine
 neuter
 48367	feminine
-48369	
 48371	masculine
 48373	masculine
-
-
-
 48378	neuter
-48380	
-
-neuter
+48382	neuter
 48384	feminine
-48386	
 48392	masculine
-
-48395	
-neuter
-
-48399	
-feminine
-
-48403	
+48396	neuter
+48400	feminine
 48405	feminine
 masculine
 feminine
-
-48410	
-
-feminine
-48415	
-48418	
+48412	feminine
 48420	feminine
-48425	
-
 48433	masculine
-48435	
-neuter
+48436	neuter
 masculine
 48440	neuter
-48442	
-masculine
-48446	
-48450	
-masculine
-
-48455	
+48443	masculine
+48451	masculine
 48458	masculine
-48460	
-masculine/feminine
-
+48461	masculine/feminine
 48464	masculine
-48467	
-48472	
-48475	
 48477	neuter
 feminine
-
-48481	
 48483	feminine
-48486	
-neuter
+48487	neuter
 feminine
 masculine
-48491	
+48492	neuter
 neuter
-neuter
-
-masculine
-
-48501	
-masculine/feminine
-
-48506	
-neuter
-
-neuter
-48512	
-48515	
+48495	masculine
+48502	masculine/feminine
+48507	neuter
+48509	neuter
 48518	masculine
 masculine
 48521	masculine
 masculine
 feminine
-
-neuter
-
+48525	neuter
 48528	feminine
-48533	
 48536	masculine
 feminine
-48541	
 48544	masculine/feminine
-masculine/neuter
-48547	
+feminine
 48549	masculine/feminine
-
 48552	masculine/feminine
 feminine
-48555	
-48558	
-
-feminine
-
-masculine/feminine
+48560	feminine
+48562	masculine/feminine
 feminine
 feminine
-
 48567	neuter
 48569	masculine
 feminine
 48573	neuter
-
-feminine
+48575	feminine
 48577	feminine
 masculine
 48580	masculine/feminine
 masculine/neuter
-48583	
-48585	
-
-feminine
+48587	feminine
 masculine/feminine
 masculine/feminine
-
 48592	neuter
-48594	
 48598	feminine
-48600	
-48603	
-
-48607	
-48610	
-48614	
-feminine
-
-48618	
-masculine/neuter
+48615	feminine
+48619	feminine
 48622	masculine
 masculine
-
-feminine
-
+48625	feminine
 48629	masculine
-48632	
 48634	feminine
 neuter
-48638	
-masculine
-48641	
+48639	masculine
 48643	feminine
 masculine
-
-neuter
-
-
+48646	neuter
+48648	feminine
 48650	masculine
 neuter
-
-neuter
+48653	neuter
 masculine
-48656	
-48659	
-
-48663	
-48667	
+48659	masculine/feminine
 48669	masculine
 48672	feminine
-
 48675	feminine
-48678	
-neuter
+48679	neuter
 feminine
 feminine
-48683	
-
-
-masculine/feminine
+48686	masculine/feminine
 neuter
-48690	
-
 48695	neuter
 feminine
-48699	
-48701	
-
-neuter
+48703	neuter
 neuter
 48707	masculine
-48710	
 48717	neuter
-48719	
-48722	
+48723	feminine
 feminine
 feminine
-feminine
-48727	
-
-masculine/feminine
-
+48729	masculine/feminine
 48732	masculine/feminine
-
-
-masculine
-
-
-masculine/feminine
+48735	masculine
+48738	masculine/feminine
 feminine
 feminine
 masculine
 masculine
-48744	
-feminine
+48745	feminine
 neuter
-
-48750	
 48753	feminine
 48756	masculine/feminine
 neuter
 masculine
-
-48761	
+48762	masculine
 masculine
-masculine
-48769	
-neuter
-
-
-masculine
-48775	
+48770	neuter
+48773	masculine
 48777	neuter
-
-
-feminine
-
-
-feminine
+48780	feminine
+48783	feminine
 48785	neuter
-
-48788	
-
-
-neuter
-48793	
-neuter
+48791	neuter
+48794	neuter
 feminine
-
-48800	
-48802	
-48806	
+48807	neuter
 neuter
-neuter
-48810	
-48812	neuter
+48812	feminine
 neuter
 48815	masculine/neuter
-
-
+48818	feminine
 feminine
-feminine
-
-feminine
+48821	feminine
 feminine
 masculine
 48827	masculine
-
-
-
-48832	
-48835	
-
-48838	
-48841	
-
 48844	masculine
-
-neuter
+48846	neuter
 48849	masculine
 48851	neuter
 feminine
 feminine
-48859	
-neuter
-
+48860	neuter
 48863	feminine
-48865	
-
-neuter
-
-neuter
+48867	neuter
+48869	neuter
 masculine/feminine
 48872	masculine
 48875	neuter
-48877	
 48880	feminine
-
-neuter
-48884	
-48889	masculine
-
-masculine
-48895	feminine
-48897	
 masculine/feminine
-
-
-
+neuter
+48889	masculine
+48891	masculine
+48895	feminine
+48898	masculine/feminine
 48903	masculine
 neuter
 feminine
-
-
+48908	masculine
 masculine
-masculine
-48912	
-48915	
-masculine/neuter
-
-
-neuter
+48916	masculine/neuter
+48919	neuter
 48921	neuter
-
-
+48924	feminine
 feminine
-feminine
-48927	
-neuter
-
+48928	neuter
 48934	masculine
-48937	
-masculine
-
-masculine
+48938	masculine
+48940	masculine
 feminine
-48944	
-
 48947	neuter
 feminine
-
 48951	neuter
-
-masculine
+48953	masculine
 neuter
 neuter
-48957	
-48963	
-
-
 48967	feminine
-
 48970	masculine
 48972	feminine
-48975	
-
-
-feminine
-
+48978	feminine
+masculine
 masculine/feminine
-
-
-
-48988	
+48988	masculine
 48990	feminine
-48992	
-feminine
+48993	feminine
 feminine
 neuter
-
-49000	
-
-49005	
 49007	neuter
-49010	
 49015	masculine
 49017	neuter
-
-49020	
-feminine
-49024	
-neuter
-49027	
-
-masculine/neuter
+49021	feminine
+49025	feminine
+49029	masculine/neuter
 49032	neuter
-
-feminine
-
-masculine
+49034	feminine
+49036	masculine
 49039	masculine
-49041	
 49044	neuter
-49047	
-masculine
-49051	
-
-feminine
+49048	masculine
+49053	feminine
 49056	neuter
 masculine
 49059	neuter
 49063	neuter
-49065	feminine
-
-masculine
-
-
-neuter
+49065	masculine
+49067	masculine
+49070	neuter
 feminine
-
 49074	feminine
 feminine
-
 49078	neuter
 feminine
 feminine
 49083	neuter
-
-
-feminine
-
+49086	feminine
 49089	feminine
 feminine
-49092	
-
-49097	
-neuter
-
-neuter
+49098	neuter
+49100	neuter
 masculine
-49103	
-
-feminine
-
-
-
-
-neuter
-
+49105	feminine
+49110	neuter
 49115	neuter
-
-
 49120	neuter
-49122	
-
-
-
-neuter
-
+49126	neuter
 49129	neuter
 49131	masculine
 masculine
-
-masculine
+49134	neuter
 49136	neuter
-
-49140	
-
-49143	
 49145	masculine
 49148	neuter
 49151	masculine
-49154	
-49156	
+49157	neuter
 neuter
-neuter
-
 49161	masculine
 masculine/feminine
-49164	
-
-49168	
 49171	neuter
 feminine
 49174	neuter
-49177	
-
-49180	
-neuter
+49181	neuter
 masculine/feminine
-
-
-feminine
-feminine
-
-49190	feminine
-
-49195	
-neuter
+49185	feminine
+masculine
+49190	masculine
+49196	neuter
 49198	masculine
 masculine
-49204	
-
-masculine/feminine
-49208	
+49206	masculine/feminine
 49210	feminine
 neuter
 feminine
-
-49215	
 49217	masculine/feminine
 masculine
 49220	feminine
 masculine
-
-
-neuter
-49226	
-masculine
-49229	
-neuter
-
-masculine
-
-masculine
+49224	neuter
+49227	masculine
+49230	neuter
+49232	masculine
+49234	masculine
 49236	neuter
 masculine
-
-
+49240	masculine
 masculine
-masculine
-
-
-
-
 49247	neuter
-49252	
 49254	masculine
-
+49256	masculine
 masculine
-masculine
-neuter
+feminine
 masculine
 49261	feminine
 49264	feminine
 feminine
-neuter
+feminine
 masculine
 masculine
 49270	neuter
-49272	
 49274	masculine/feminine
 49276	masculine
-
-
-49281	
-49284	
-masculine
+49285	masculine
 49288	feminine
 feminine
-
-masculine
-
-neuter
+49291	masculine
+49293	neuter
 49296	masculine
-
-
-masculine
+49299	masculine
 masculine
 49302	masculine
-
 49307	masculine/feminine
-
-49310	
-49312	
-49315	
-
-
-
-
+49320	masculine
 masculine
-masculine
-49323	
 49325	neuter
 49328	feminine
-
-49331	
-
-
-masculine
-
-
-49339	
-49341	
+49334	masculine
 49343	neuter
 masculine/feminine
-
-
-feminine
-
+49347	feminine
 49351	masculine/feminine
 neuter
-
-
-masculine
-49357	
-
-masculine/neuter
-
-
-masculine/neuter
-
+49355	masculine
+49359	masculine/neuter
+49362	masculine/neuter
 49365	masculine
 masculine
-49368	
+49369	masculine
 masculine
-masculine
-
-masculine
-49374	
-
-feminine
-49379	
-49382	
+49372	masculine
+49376	feminine
+49383	neuter
 neuter
-neuter
-49387	
-49389	
-
+49391	masculine
 masculine
 masculine
 feminine
-feminine
-feminine
 masculine
-
-
-neuter
+masculine
+49399	neuter
 masculine
 masculine
 masculine
-
-
-
-feminine
+49406	feminine
 49408	feminine
-
-neuter
-49412	
-
-masculine
-
-masculine
+49410	neuter
+49414	masculine
+49416	masculine
 49418	masculine/feminine
-
-
-
-49423	
-
-neuter
+49425	neuter
 49427	masculine
-
 49430	feminine
-
-feminine
-49434	
-
+49432	feminine
+49436	masculine
+49439	masculine
 masculine
-49438	
-masculine
-masculine
-49442	
-
-
 49447	neuter
-49451	
-
-masculine
-49455	
-neuter
+49453	masculine
+49456	neuter
 masculine
 feminine
 49460	feminine
-
-
-49465	
-masculine/feminine
-
-
-
-masculine
+49466	masculine/feminine
+49470	masculine
 49474	neuter
 masculine
-
-
+49478	masculine
 masculine
-masculine
-
-masculine
-
-49486	
-49488	
-49490	neuter
-49492	
-
-
-feminine
+49481	masculine
+49490	feminine
+49495	feminine
 49497	masculine
 49499	masculine
 masculine
-
-
 49505	masculine
-
-feminine
-
-
+49507	feminine
 49514	masculine
-
 49519	masculine
-
-49523	
-feminine
-49527	
+49524	feminine
 49529	neuter
-
-
 49534	masculine
 49536	masculine
 49541	masculine
-49543	
 49545	masculine
 masculine
-49550	
 49553	masculine
 masculine
-
-neuter
-
-
+49556	neuter
 49561	masculine
 masculine
-49564	
-feminine
+49565	feminine
 masculine/neuter
 neuter
-49570	
-
-masculine
+49572	masculine
 masculine/neuter
-
-
-masculine
-49578	
-neuter
+49576	masculine
+49579	neuter
 49582	masculine
 49584	masculine
 neuter
-49589	
-masculine
-
+49590	masculine
 49593	masculine
 masculine
 49596	masculine
-49599	
+49600	neuter
 neuter
-neuter
-
-masculine
-49605	
-neuter
+49603	masculine
+49606	neuter
 49608	masculine
-
-masculine
-49612	
-
-
-neuter
-
-49623	
-
+49610	masculine
+49615	neuter
 49627	neuter
 49630	masculine/feminine
 49632	feminine
-
-
-feminine
-
-masculine
+49635	feminine
+49637	masculine
 masculine
 49641	masculine
 masculine
-
-feminine
+49644	feminine
 49646	feminine
-
-
-masculine
-49651	
-neuter
-
+49649	masculine
+49652	neuter
 49655	neuter
 49659	masculine
-49662	
-neuter
+49663	neuter
 49667	masculine
 49669	masculine
 masculine
-49676	
-neuter
+49677	neuter
 masculine
 masculine
-
-49682	
-masculine
+49683	masculine
 masculine
 masculine
 masculine
 49690	masculine
 49692	masculine
-
-
-49697	
 49699	feminine
-49701	
-masculine/feminine
-49704	
-neuter
+49702	masculine/feminine
+49705	neuter
 masculine
 masculine
-
-49710	
 49712	masculine
 masculine/feminine
-
-49716	
 49721	masculine
-
-masculine/feminine
-49727	
-neuter
+49723	masculine/feminine
+49728	neuter
 neuter
 49731	masculine
-
-
-masculine
+49734	masculine
 49736	masculine
 masculine
-49741	
-49744	
-49747	
-neuter
-49750	
+49748	neuter
 49752	masculine
 neuter
 masculine
-49756	
-neuter
+49757	neuter
 masculine
 masculine/feminine
-
-49762	
-
-masculine
+49764	masculine
 49767	neuter
-49771	
-
-neuter
-
-49777	
-49780	
-49782	
-neuter
-49785	neuter
-49788	
-masculine
-49791	
-neuter
-49794	
-
-masculine/feminine
-
-neuter
-
+49773	neuter
+49783	neuter
+49789	masculine
+49792	neuter
+49796	masculine/feminine
+49798	neuter
 49801	feminine
-
-
-
-neuter
-49809	
+49805	neuter
+49810	masculine
 masculine
-masculine
-
-neuter
+49813	neuter
 49815	masculine
-
-
-49819	
-masculine
-49822	
-neuter
-
-
-
-
-
-
-
+49820	masculine
+49823	neuter
 49832	feminine
 49834	neuter
-49836	
-49838	
-neuter
+49839	neuter
 feminine
 feminine
-
-
 49847	neuter
-49851	
-neuter
-49856	
-49859	
-feminine
+49852	neuter
+49860	feminine
 masculine
-
-feminine
-
-masculine
-49868	
-feminine
+49863	feminine
+49865	masculine
+49869	feminine
 49871	feminine
-49873	
+49874	feminine
 feminine
-feminine
-
-masculine
-
+49877	masculine
 49882	masculine
 masculine
 49885	masculine
 masculine
 neuter
-
-49890	
 49893	neuter
-
+49895	feminine
 feminine
-feminine
-
-masculine
+49898	masculine
 49901	neuter
-
-masculine/neuter
-49905	
+49903	masculine/neuter
 49907	masculine
 masculine
 neuter
 masculine
-49912	
-49915	
-feminine
+49916	feminine
 feminine
 masculine
-
-feminine
+49920	feminine
 feminine
 neuter
-49924	
-masculine
+49925	masculine
 neuter
-
-
-
-
-
-49933	
+49934	feminine
 feminine
-feminine
-49937	
 49940	feminine
 feminine
 feminine
 feminine
 feminine
 masculine
-49947	
-
-
-neuter
+49950	neuter
 masculine
 masculine
-
-feminine
+49954	feminine
 feminine
 49959	feminine
-
-
-49963	
-neuter
-
-49968	
-
+masculine
+49964	neuter
 49971	masculine
-49974	
 49977	masculine
 49981	neuter
 masculine
-49984	
-49986	neuter
 49988	masculine
-49990	
 49992	masculine
-49996	
 49998	masculine
 masculine
-50002	
-neuter
+50003	neuter
 50006	neuter
 50008	masculine
 neuter
-
-50013	
 50015	neuter
 50019	masculine
 neuter
-
-50024	
-
-feminine
+masculine
+50026	feminine
 feminine
 masculine
 masculine
-
-feminine
+50031	feminine
 50033	feminine
 50037	feminine
 neuter
-50041	
 50043	masculine
 masculine
 neuter
-
-50049	
 50053	feminine
 feminine
 neuter
@@ -29567,1710 +15400,837 @@ neuter
 50060	masculine
 masculine
 neuter
-50064	
-50066	
-feminine
+50067	feminine
 feminine
 masculine
-50071	
 50074	feminine
 feminine
-50078	
 50080	masculine
 masculine
-50083	
-
-
-masculine/neuter
+50086	masculine/neuter
 50089	feminine
 50093	feminine
 50096	masculine
-50099	
-50101	
-feminine
-50104	
-
-
-masculine/neuter
+50102	feminine
+50107	masculine/neuter
 neuter
-
 50113	feminine
 50115	feminine
-50117	
-neuter
+50118	neuter
 50121	feminine
 feminine
 50126	feminine
 feminine
-
-
-
-feminine
+50131	feminine
 50133	masculine
-
-50137	
 50139	masculine
 50141	masculine
 50143	masculine
 masculine
 neuter
-
-masculine
+50147	masculine
 50149	masculine
 neuter
-
-
-
-50156	
 50158	masculine
-
-50161	
-neuter
+50162	neuter
 neuter
 50166	masculine/feminine
-
-feminine
-
-
-masculine
-50173	
-neuter
-
-50180	
+50168	feminine
+50171	masculine
+50174	neuter
 50182	feminine
-50185	
 50187	masculine
-
 50194	masculine
 feminine
-50199	
 50201	feminine
-50206	
-
-
-
-
 50212	neuter
-
-50215	
-
-masculine
+50217	masculine
 50219	masculine
 masculine
 neuter
-
-50224	
-50227	
+50228	masculine
+50232	neuter
+50234	masculine
 masculine
-50230	
-
-neuter
-
-masculine
-masculine
-
-50238	
-
 50241	masculine
-
-
-50245	
-
-
-50250	
-50252	
-neuter
+50253	neuter
 50255	neuter
 neuter
 feminine
 neuter
-
 50262	masculine
-
 50266	neuter
-neuter
-50273	
-
 feminine
-50277	
-masculine/feminine
-
-
-
-feminine
+50275	feminine
+50278	masculine/feminine
+50282	feminine
 50286	neuter
-
-
-
-50291	
-50294	
-feminine
+50295	feminine
 50297	masculine
-
-neuter
+50299	neuter
 masculine
 feminine
 feminine
-50304	
-50309	
-neuter
-50312	
-
-
-neuter
+50310	neuter
+50315	neuter
 50320	masculine
 feminine
 neuter
 feminine
 50325	neuter
-50327	
-masculine
+50328	masculine
 masculine
 50331	masculine
 50334	neuter
-
-masculine
-50338	
-neuter
+50336	masculine
+50339	neuter
 feminine
 feminine
-
-
-masculine
+50344	masculine
 masculine
 masculine/feminine
-50349	
-masculine
-
+50350	masculine
 50353	feminine
-
-neuter
-
+50355	neuter
 50359	masculine
 masculine
-
-masculine
+50362	masculine
 50365	masculine
-
+50367	masculine
 masculine
-masculine
-
 50371	feminine
 50373	feminine
 neuter
 neuter
-50379	
-masculine
+50380	masculine
 feminine
 feminine
-
-
-masculine
+50385	masculine
 masculine
 masculine/feminine
-50389	
-50393	
-masculine
-50396	
+50394	masculine
 50398	feminine
-
-neuter
+50400	neuter
 50402	masculine
-
 50410	masculine
-
-
 50416	masculine
-50418	
-
-
-
-feminine
-50428	
-
-50432	
-masculine
-50436	
-
-neuter
-50441	
-
+50422	feminine
+50433	masculine
 50446	masculine
-50448	
-
-50451	
-masculine
-50454	
-neuter
-
-masculine
+50452	masculine
+50455	neuter
+50457	masculine
 feminine
-50460	
-masculine
-50463	
-neuter
-50466	
-masculine
-50469	
+50461	masculine
+50464	neuter
+50467	masculine
 50472	feminine
-
 50475	feminine
 feminine
-
-
-
-masculine
-
-
+50480	masculine
 50484	masculine
-50486	
 50489	feminine
 feminine
-
-
-
-neuter
-50496	
-
-50499	
-
-
+50494	neuter
+50502	masculine
+50505	neuter
+50515	masculine
 masculine
-
-
-neuter
-
-
-50510	
-
-50514	
+50521	masculine
 masculine
-masculine
-
-
-
-
-masculine
-masculine
-
-feminine
+50524	feminine
 50527	masculine
-
-50531	
-
-masculine/neuter
-50536	
-50539	
-feminine
-
+50533	masculine/neuter
+50540	feminine
 50543	masculine
-50545	
-neuter
-
-feminine
+50546	neuter
+50548	feminine
 masculine
-50552	
-masculine
+50553	masculine
 50561	masculine/feminine/neuter
-50563	
 50565	masculine
-50567	
 50569	masculine
-
-50572	
-feminine
+50573	feminine
 masculine
-
-50577	
-masculine
-50582	
-50585	
-
-50590	
+50578	masculine
 50592	masculine
 50595	neuter
 masculine
-50598	
-50600	
-
-masculine
+50602	masculine
 masculine
 50605	neuter
-50607	
-masculine
-
-
-50612	
-
-50615	
-
-neuter
+50608	masculine
+50617	neuter
 50621	feminine
 feminine
-
 50625	neuter
-
-
-50631	
-masculine
+50632	masculine
 feminine
-
+masculine
 50636	masculine
-
 50639	masculine
-
 50642	neuter
 neuter
 neuter
 50648	masculine
 neuter
-50651	
 50653	masculine
-50655	
 50659	masculine
-
-masculine
+50661	masculine
 50663	neuter
 50665	neuter
 masculine
 50668	masculine
 50670	feminine
 50674	masculine
-
 50677	neuter
 neuter
-50680	
-
-neuter
+50682	neuter
 50684	feminine
-
-feminine
-
-masculine
+50686	feminine
+50688	masculine
 masculine
 50691	masculine
 masculine
 neuter
-
 50696	masculine/feminine
 feminine
-50699	
-
 50702	neuter
-50705	
 50708	masculine
-50710	
-feminine
-50713	
-50715	
+50711	feminine
 50717	feminine
-
-
-50726	
-50728	
 50731	masculine
 50734	feminine
-
-feminine
+50736	feminine
 masculine/neuter
 masculine
-
-50741	
-50744	
 50747	masculine
-50749	
-neuter
-50753	
-
-masculine/neuter
-
-
-masculine
-50762	
-50764	
-50770	
-masculine
-50773	
-
-masculine
+50750	neuter
+50755	masculine/neuter
+50758	masculine
+50771	masculine
+50775	masculine
 50779	masculine
 masculine
 50782	masculine
 neuter
-
-
-
-50790	
-
-
-
-
-
+50796	masculine
 masculine
-masculine
-50799	
-50801	
-neuter
+50802	neuter
 neuter
 masculine
-
 50808	masculine
 50810	masculine
 50812	neuter
-
-masculine/neuter
+50814	masculine/neuter
 masculine
 50818	feminine
 neuter
 feminine
-
-neuter
-50824	
-
-masculine/neuter
+50822	feminine
+50826	masculine/neuter
 50829	feminine
 feminine
 feminine
-
-50835	
 50837	masculine
 50840	masculine
-50843	
 50846	masculine
-
-
 50850	feminine
-
 50853	feminine
-50856	
 50858	feminine
-
-masculine
-
-
-
-50865	
+50860	masculine
 50868	masculine
-
-50873	
 50876	feminine
 neuter
-50879	
-masculine
+50880	masculine
 feminine
 neuter
 50884	feminine
-50886	
-masculine
+50887	masculine
 50889	masculine/feminine
 50891	neuter
-50893	
-masculine
+50894	masculine
 50896	neuter
-50898	
-neuter
-
-
-50903	
-
-
+50899	neuter
 50908	masculine
-50910	
 50914	masculine
-
-
-
-feminine
+50918	feminine
 neuter
 masculine
-50922	
-50925	
-feminine
+50926	feminine
 masculine
 masculine
 50930	masculine/feminine/neuter
-
-50933	
-
-feminine
+50935	feminine
 50937	feminine
-
-
-neuter
-
-50944	
+50940	neuter
 50947	masculine
 masculine
-
 50951	masculine
-50953	
-masculine
-
-masculine
-
-50959	
-
-masculine
+50954	masculine
+50956	masculine
+50961	masculine
 50963	masculine
-50965	
 50968	masculine
 masculine
 neuter
-
 50973	masculine/feminine
-50975	
-50977	
 50979	feminine
-
-50984	neuter
-50989	
+50984	feminine
 50993	feminine
-50995	neuter
-
 50998	masculine
-51002	
 51004	neuter
-
-51007	
-feminine
-
+51008	feminine
 51011	masculine
 51013	masculine
-51015	
 51017	feminine
-51020	
-
+51022	feminine
 feminine
-feminine
-
-
-feminine
-51029	
-51032	
-51034	
+51026	feminine
 51036	masculine
 masculine
 51041	masculine
 51043	masculine
 neuter
-51046	
-51049	
-feminine
-51052	
+51050	feminine
 51054	neuter
 feminine
 51057	feminine
-51059	
-51062	
 51064	masculine/neuter
-51066	
-51070	
-51072	
-
-51075	
-masculine
-51078	
-51080	
-51083	
-
-neuter
+51076	masculine
+51083	feminine
+51085	neuter
 51087	masculine/feminine
 51089	masculine
 masculine
-
-51096	
-51101	
-
 51104	masculine
-
-neuter
+51106	neuter
 masculine
-51110	
 51115	masculine
-neuter
-51118	
 51122	masculine
 masculine
-51126	
-
 51129	feminine
 51133	masculine/feminine
-51138	
-masculine
-
+51139	masculine
 51142	masculine
-
-neuter
+51144	neuter
 51146	neuter
 51148	neuter
-
-masculine
-51152	
+51150	masculine
 51155	masculine
 masculine
-
-
-51161	
-51165	
-
-
-
 51170	masculine/feminine
-
-
-neuter
-
-masculine
-
-
-51180	
+51173	neuter
+51175	masculine
 51183	masculine
-
-neuter
-51187	
-neuter
+51185	neuter
+51188	neuter
 feminine
-51192	
-feminine
+51193	feminine
 masculine
-
 51198	feminine
 51200	masculine
-51206	
-masculine
-
-51213	
-51215	
-masculine
-51218	
-
-51221	
-51223	
-feminine
-51227	
-
-
-
-
+51207	masculine
+51216	masculine
+51224	feminine
 51233	masculine
 masculine
 masculine
-
-
-masculine
-
-
+51238	masculine
 51243	masculine
 51247	neuter
-
-
-51251	
-51254	masculine/feminine
-51256	
-neuter
+51257	neuter
 feminine
 51260	masculine
-
-
-
-
 51266	masculine
 masculine
 feminine
-
-
+51271	neuter
 neuter
-neuter
-
-51276	
-
-
-masculine
+51279	masculine
 51281	masculine
-51284	
-
-
 51288	masculine
 masculine
-
-51293	
 51295	feminine
-
-51298	
-
+51300	neuter
 neuter
-neuter
-51303	
-masculine
-
-
+51304	masculine
+51307	feminine
+51310	masculine
+51315	masculine
+51318	feminine
 feminine
-51309	
-masculine
-
-
-51314	
-masculine
-
-
+51321	feminine
 feminine
-feminine
-
-feminine
-feminine
-51324	
 51326	feminine
-51330	
-masculine
+51331	masculine
 51333	masculine
-
-
-feminine
-
+51336	feminine
 51340	feminine
 51343	masculine
-51346	
 51348	masculine
 51351	masculine
 51355	masculine
-
 51359	feminine
-
-
-
-neuter
+51363	neuter
 feminine
-51366	
-
 51370	masculine
 masculine
 masculine
-51374	
-51376	
-masculine/feminine
+51377	masculine/feminine
 masculine
-
 51381	masculine
 masculine
-
-
+51385	masculine
 masculine
-masculine
-
-masculine
-
-neuter
+51388	masculine
+51390	neuter
 51392	masculine
 masculine
 neuter
-51396	
-
-
-51403	
-neuter
-
-
-neuter
-
-51411	
+51404	neuter
+51407	neuter
 51414	masculine/feminine
 51416	feminine
-51419	
-
-51424	
-51428	
-51431	
 51433	masculine
 neuter
-
-
 51439	masculine
 masculine
-
-
-51446	
-51449	
-
-51452	
 51454	masculine
 masculine
 masculine
-51458	
-masculine
-51461	
-neuter
-
-
-
-51469	
-
-
+51459	masculine
+51462	neuter
 51473	masculine
 masculine
-51477	
+51477	feminine
 masculine/feminine
-
-neuter
-51482	
-neuter
+51480	neuter
+51483	neuter
 masculine
 masculine
 neuter
 feminine
-51489	
-
 51492	neuter
-
-51497	
-neuter
+51498	neuter
 51500	neuter
-
-51503	
-
 51509	masculine
-51512	
-
-
-
 51518	feminine
-51520	
+51521	feminine
 feminine
-feminine
-
-feminine
-
+51524	feminine
 51528	neuter
 masculine
-51532	
-51534	
+51535	masculine
+51537	feminine
 masculine
-
-feminine
+51540	masculine
 masculine
-
-masculine
-masculine
-
-
 51545	masculine
-51547	
 51549	neuter
 masculine
-51554	
 51557	masculine
 masculine
 51561	masculine
-51563	
-
-feminine
+51565	feminine
 51567	masculine
-
-51571	
-51575	
 51578	neuter
-51580	
-51587	
 51589	feminine
-51591	neuter
-51597	
-
+51591	feminine
 51600	masculine
 neuter
-
-
-51605	
 51608	masculine
 masculine
-
-51612	
 51614	neuter
-51617	
 51619	feminine
 51622	masculine/feminine
-51624	neuter
+51624	feminine
 51627	neuter
-
-
-51631	
-
-51634	neuter
+51634	feminine
 51636	masculine
 feminine
-
-51643	
-
 51648	masculine
 masculine
-
-
-
 51654	feminine
 51656	feminine
-
-51659	
 51661	feminine
 51664	masculine
-51666	
-
-
-
-feminine
-51672	
-
-
-
-51677	
-
+51670	feminine
 51680	feminine
-
 51683	masculine
 51685	masculine
 51687	feminine
-
-
-masculine
-
-
-
-51697	
-
-51701	
-51704	
+51690	masculine
 51706	feminine
 51708	feminine
-51710	
 51713	neuter
 masculine
-
-masculine/feminine
+51716	masculine/feminine
 51718	masculine/feminine
 masculine
 masculine
-51722	
-51725	
-
-masculine
-
-
+51727	masculine
 51731	feminine
-
 51734	feminine
-
-51740	
-
-51743	
-neuter
-51750	
+51744	neuter
 51752	masculine
 masculine
 51756	masculine
 masculine
 feminine
-51761	
-
-masculine
-
-
+51763	masculine
 51768	masculine
 51770	masculine
-
 51775	neuter
 masculine
-
-neuter
+51778	neuter
 masculine
 masculine
-
+51782	masculine
 masculine
-masculine
-
-
 51787	masculine
-51789	
-
-neuter
-
-neuter
+51791	neuter
+51793	neuter
 masculine
 masculine
-51797	
-neuter
+51798	neuter
 51800	neuter
 51802	masculine
 masculine
-
-neuter
+51805	neuter
 masculine
-
-masculine
+51808	masculine
 masculine/feminine
 neuter
-
-
 51815	feminine
 51817	neuter
-
-
-neuter
-51822	
+51820	masculine
 51824	neuter
-
-
-feminine
-51829	
+51827	feminine
 51831	masculine
 51835	masculine
-51837	
-feminine
-
-feminine
-
-
-
-neuter
+51838	feminine
+51840	feminine
+51844	neuter
 masculine
 masculine
 masculine
 masculine
-
-
 51855	feminine
 feminine
 neuter
 feminine
 51862	masculine
-51864	
+51865	masculine
 masculine
-masculine
-51868	
 51870	feminine
-
 51873	feminine
-
-feminine
-
+51875	feminine
 51878	feminine
 feminine
 51882	masculine
-
-51887	
 51889	masculine
-
-
 51893	feminine
 feminine
 feminine
 51899	feminine
 feminine
-
-51903	
 51905	feminine
-
+51907	feminine
 feminine
 feminine
 feminine
-feminine
-51912	
-51914	
-51917	
-masculine
-51920	
-
-feminine
+51918	masculine
+51922	feminine
 51927	masculine
 51929	masculine
-
-
-51934	
 51936	masculine/feminine
-51942	
 51944	masculine/feminine
-51946	
-feminine
+51947	feminine
 51950	neuter
-
-
-
-feminine
+51954	feminine
 neuter
 51957	masculine
 masculine
 masculine
 neuter
-51963	
 51965	neuter
-51967	
-
-neuter
+51969	neuter
 51971	masculine/feminine
-51973	
-neuter
+51974	neuter
 masculine
 masculine
 masculine
-51979	
-
-
-51986	
-51988	
 51990	feminine
-
-51995	
 51998	masculine/neuter
-
-
-neuter
+52001	neuter
 masculine
 masculine
-
-
-52008	
-52010	
-52012	
 52014	masculine/feminine
 masculine
 52021	neuter
-52023	
-
-52027	
-feminine
-
-feminine
-
+52028	feminine
+52030	feminine
 52033	masculine
-
-
 52037	neuter
-52040	
-52042	
-
-52048	
-neuter
+52049	neuter
 masculine
-
 52053	masculine/feminine/neuter
-52056	
-
-52060	
-52062	
-
 52065	masculine/feminine
 52067	masculine
 52069	masculine
 masculine
-
-
-52074	
-masculine
-52078	
+52075	masculine
 52080	masculine/feminine
 52082	masculine
 52084	masculine
-
-
-52088	
-
-
-
-feminine
-
+52092	feminine
 52095	masculine
 masculine
-
-
-masculine/neuter
-52101	
-neuter
-
+52099	masculine/neuter
+52102	neuter
+52104	masculine/feminine
+52109	masculine
 masculine/feminine
-52107	
-
-masculine
-masculine/feminine
-
-neuter
+52112	neuter
 feminine
-
-masculine
-52118	
-52120	
-
-masculine
+52115	masculine
+52122	masculine
 52124	masculine
-
 52127	masculine/feminine/neuter
-52129	neuter
-52131	
-masculine
-
-52136	
-feminine
-
-
+52129	feminine
+52132	masculine
+52137	feminine
 52141	masculine
-52143	
-neuter
+52144	neuter
 masculine
 52147	masculine
-
+masculine
 52151	masculine
-52153	neuter
-52156	
-
+52153	feminine
+52156	masculine
 52159	masculine
-
-
-
-
-neuter
-
-52168	
+52164	neuter
 52171	masculine
-
 52174	neuter
 masculine
 52177	masculine
-
-neuter
-
+52179	neuter
 52182	masculine
 masculine
-52185	
-neuter
+52186	neuter
 feminine
 feminine
-
-
-
-masculine
+52192	masculine
 masculine
 masculine
 52197	neuter
-52199	
-masculine
+52200	masculine
 neuter
-
 52205	neuter
 neuter
-52208	
-52210	
-feminine
+52211	feminine
 52213	masculine
 masculine
-
-
-masculine
-52220	
+52217	masculine
 52224	masculine
-
+52226	neuter
 neuter
-neuter
-52229	
 52231	masculine/feminine
-52233	
-neuter
-52236	
+52234	neuter
 52241	masculine
-52243	
 52245	masculine
-52247	
 52250	masculine
 masculine
-52253	
-
-feminine
+52255	masculine
 52257	masculine
-52259	
-neuter
-
-52264	
-
-
-52268	
-52270	
-52274	
+52260	neuter
+52264	feminine
 52277	masculine
 masculine
 masculine
-52282	
-
 52287	neuter
 52289	feminine
 feminine
-
-
-
-masculine
+52294	masculine
 52297	masculine
 feminine
-52301	
-52304	
-feminine
+52305	feminine
 masculine
-52308	
-52310	
-52312	
-
-
-
-
-
 52319	feminine
 feminine
 feminine
-
-
-
 52326	feminine
-52330	
+52331	masculine
 masculine
-masculine
-
-52335	
-
-
-
-neuter
+52339	neuter
 52341	masculine
-52343	
 52346	masculine
-52348	
-feminine
-
-neuter
-52354	
+52349	feminine
+52351	neuter
 52357	feminine
-52359	
-neuter
+52360	neuter
 52362	feminine
 52364	neuter
-52367	
-masculine
+52368	masculine
 feminine
 52371	masculine
-
-52374	
 52376	feminine
-
-
 52380	masculine
-
 52383	neuter
-
-52386	
-neuter
-52389	
-masculine
+52387	neuter
+52390	masculine
 neuter
 feminine
-52394	
-masculine/neuter
+52395	masculine/neuter
 feminine
 masculine
 neuter
 neuter
 masculine
-
-masculine/neuter
-52404	
-52406	
-52412	
-
+52402	masculine/neuter
 52415	feminine
 feminine
 feminine
-
-feminine
-52421	
-
-
+52419	feminine
 52425	neuter
 52427	neuter
-
 52430	neuter
-
 52434	masculine
-
-
-
 52439	feminine
 feminine
 masculine
-
 52444	masculine/feminine
 52447	masculine
 masculine
-
-masculine/neuter
-52452	
-
-masculine/feminine
+52450	masculine/neuter
+52454	masculine/feminine
 52456	feminine
 feminine
-52459	
-
-masculine/neuter
+52461	masculine/neuter
 52465	masculine
-52467	
-
-feminine
-
-52472	
-
-feminine
+52469	feminine
+52474	feminine
 52476	feminine
-
-
-feminine
-
-
-52483	
-52485	
-masculine
+52479	feminine
+52486	masculine
 52488	masculine
 52497	feminine
-
-
+52500	neuter
 neuter
-neuter
-
-52504	
 52506	feminine
 neuter
-
-masculine
+52509	masculine
 neuter
 52513	neuter
-
 52516	masculine
-52518	
-
-feminine
+52520	feminine
 feminine
 neuter
 52524	neuter
-
-
-
-masculine/neuter
-
-masculine
-52533	
+52528	masculine/neuter
+52530	masculine
 52535	masculine
-
-52540	
-
-masculine/neuter
-52544	
-neuter
+52542	masculine/neuter
+52545	neuter
 52549	neuter
 neuter
 52555	neuter
-
-
-
-
-neuter
-
-neuter
-
+52560	neuter
+52562	neuter
 52565	neuter
-52567	
-
-
+52570	feminine
 feminine
-feminine
-
-52574	
-
 52577	feminine
 masculine
 52581	feminine
-
+52583	feminine
 feminine
-feminine
-
-masculine/neuter
-52588	
-
-52593	
-feminine
-
-feminine
-
-feminine
-
-
-
+52586	masculine/neuter
+52594	feminine
+52596	feminine
+52598	feminine
 52603	feminine
-
-52606	
-
-neuter
-
-
-
-neuter
-
-52615	
-
-52618	
+52608	neuter
+52612	neuter
 52620	masculine
-52622	
-
 52625	masculine
-52627	
-
-
-52631	
-masculine/feminine/neuter
-52635	
-
-52638	
-feminine
-
-neuter
+52632	masculine/feminine/neuter
+52639	feminine
+52641	neuter
 52645	feminine
-52647	
-
-
-neuter
-
-
-masculine
-
-
-
-
-feminine
+52650	neuter
+52653	masculine
+52658	feminine
 52663	masculine
 masculine
 feminine
 masculine
-
-neuter
-52671	
+52668	neuter
 52674	masculine
-52676	
-masculine
-
+52677	masculine
 52680	masculine/neuter
-52683	
 52686	neuter
-52688	
-
-
-52692	
-52694	
-
-feminine
-
+52696	feminine
+52698	masculine
 masculine
-masculine
-
 52702	masculine
 52704	feminine
 52709	neuter
-52712	
-
-neuter
+52714	neuter
 feminine
 neuter
-
-
-feminine
-
-
-52723	
+52719	feminine
 52725	masculine
 masculine
-52728	
-52730	
-feminine
+52731	feminine
 masculine/neuter
 neuter
-
 52739	feminine
 52741	feminine
 feminine
-
 52747	masculine
 masculine
 52750	masculine
-
-52757	
 52759	masculine/feminine
-neuter
-52763	
-masculine
-52768	
+52764	masculine
 52774	neuter
-52777	
-neuter
+52778	neuter
 masculine
 masculine/feminine
 feminine
-52783	
-
-masculine/neuter
+52785	masculine/neuter
 neuter
-
 52789	masculine
 neuter
-
-
-neuter
+52793	neuter
 masculine
-
-feminine
+52796	feminine
 masculine/neuter
 neuter
 masculine
 masculine
 52803	masculine
-52808	
-52815	
-feminine
+52816	feminine
 neuter
-52819	
-52821	
+52822	masculine
 masculine
-masculine
-
 52826	feminine
-
-
-52832	
-
-
-neuter
+52835	neuter
 52837	masculine
-52841	
-52843	
 52847	masculine
 masculine
-52850	
 52853	masculine/neuter
-
-52856	
-feminine
+52857	feminine
 52859	masculine
-
-
-52864	
 52866	feminine
 neuter
-
-neuter
+52869	neuter
 masculine
-52872	
-masculine
+52873	masculine
 neuter
-
-
 52880	feminine
-52883	
-feminine
+52884	feminine
 52886	masculine
 feminine
 feminine
@@ -31279,489 +16239,222 @@ feminine
 52893	masculine
 52895	feminine
 52897	masculine
-
-52900	
-
 52905	masculine
-
-masculine
-52909	
+52907	masculine
 52912	masculine
-52915	
-masculine/neuter
-52921	
-52926	
+52916	masculine/neuter
 52928	masculine
-52931	
 52933	feminine
-52935	
-masculine
+52936	masculine
 masculine
 neuter
-
 52941	feminine
 52943	masculine
-
-52946	
-
 52949	masculine
-
 52953	feminine
 neuter
 52961	masculine
 masculine
 feminine
-
-feminine
-
-52972	
-masculine
-
-52976	
-feminine
+52965	feminine
+52973	masculine
+masculine/neuter
+52977	feminine
 masculine/neuter
 52981	masculine
-
 52984	masculine
-52987	
 52989	neuter
 52992	masculine
-52994	
-neuter
-
-
-masculine
-
-
-53004	
-53008	
-53012	
+52995	neuter
+52998	masculine
 53014	feminine
-
-53017	
-
-
-masculine
+53020	masculine
 53022	masculine
-53024	
 53026	masculine
-
-
-53031	
-
-
-
-masculine
-
-53038	
-
-
+53035	masculine
 53042	feminine
 neuter
 masculine
 masculine
-
-53049	
-
+53051	masculine
+masculine
+neuter
+53069	masculine
+53073	masculine
+53076	masculine
+53080	masculine
 masculine
 masculine
 neuter
-
-
-
-53058	
-53061	
-53064	
-53068	
-masculine
-
-53072	
-masculine
-53075	
-masculine
-
-53079	
-feminine
-masculine
-masculine
-neuter
-
-53086	
-neuter
-53090	
-
-53099	
+53087	neuter
 53101	masculine
-
-neuter
-53105	masculine
-53108	
-neuter
+53103	neuter
+53109	neuter
 masculine
 masculine
-53113	
+53114	feminine
 feminine
-feminine
-
-
-
-53120	
-
-
-feminine
-53125	
-53127	
-feminine
+53123	feminine
+53128	feminine
 masculine
-53132	
-masculine
-53135	
+53133	masculine
 53137	feminine
-
-53140	
 53142	feminine
-
-feminine
+53144	feminine
 masculine
 53147	masculine
 masculine
-
-feminine
-
-
+53150	feminine
 53155	masculine
 53158	masculine
-53160	
 53164	neuter
-
-
 53168	neuter
-53170	
-neuter
-
-masculine
-53175	
-neuter
+53171	neuter
+53173	masculine
+53176	neuter
 53180	neuter
-
-neuter
-
-53185	
-neuter
-
-53189	
+53182	neuter
+53186	neuter
 53191	neuter
 neuter
-53194	
-53197	
-
-53201	
-neuter
-
-masculine
+53202	neuter
+53204	masculine
 masculine
 feminine
 53208	feminine
-
-
-
-masculine/neuter
+53212	masculine/neuter
 53215	masculine
-53217	
-
-
 53221	neuter
-53223	
 53225	neuter
 masculine
 masculine
 feminine
 feminine
-
-
-
-masculine
-
-
-53238	
-
-
+53233	masculine
 53242	masculine
 53244	masculine
-
-
-53249	
-
-
 53253	neuter
 masculine
-53257	
-neuter
+53258	neuter
 53260	masculine
-53262	
-
-
 53266	feminine
-
-
-53270	
 53274	masculine
 53277	masculine/feminine
-53281	
-neuter
+53282	neuter
 masculine
 masculine
-
-
-masculine
+53287	masculine
 53290	feminine
 masculine
 53294	masculine
-
-masculine
-
+53296	masculine
 53299	masculine
-53301	
+53302	masculine
+53304	masculine
+53317	neuter
 masculine
-
-masculine
-
-53308	
-
-
-53315	
-
-masculine
-masculine
-
 53321	masculine
 53324	masculine
-
 53328	neuter
-53331	
-masculine
-
-
-
-53337	
-
-
-
-
-
+53332	masculine
 53344	neuter
 53346	neuter
-
 53349	neuter
-
 53357	feminine
-
-53361	
+53362	neuter
 masculine
-masculine
-
 53366	masculine
-
-
-masculine
-
-
-53373	
-
-
-feminine
+53369	masculine
+53376	feminine
 53381	feminine
-
 53384	masculine
-
 53387	masculine
 masculine
-53393	
-53395	
-feminine
+53396	feminine
 masculine
-53399	
-53401	
-
-
-
-feminine
-
+53405	feminine
 53408	masculine
-
-
-neuter
-
-
-
-
-masculine
+53411	neuter
+53416	masculine
 53418	masculine
-
-
-
-
-53424	
-
 53428	masculine
 masculine
 masculine
 53432	masculine/feminine
-53434	
-53440	
-53442	
-
-
-
-
-53448	
-masculine
-53451	
-neuter
-
-
+53449	masculine
+53452	neuter
+feminine
 53456	neuter
 53458	masculine
 53462	masculine
 masculine
 masculine
 53466	masculine
-
-53469	
 53471	masculine
-
-53474	
-
-
-feminine
+53477	feminine
 53479	masculine
-
-53482	
-masculine
+53483	masculine
 53487	neuter
 53489	masculine
-
-
-
 53495	feminine
 53498	masculine
-
-
-53503	
-masculine/feminine
-
+53504	masculine/feminine
+53506	masculine
 masculine
-masculine
-
-
-
-neuter
-53513	
+53511	neuter
 53516	feminine
 feminine
-
-
+53520	masculine
+53523	feminine
 masculine
-53522	
-feminine
-masculine
-
-
-masculine
+53527	masculine
 53530	feminine
 masculine
 masculine
 feminine
-
-
-
-masculine/neuter
+53537	masculine/neuter
 53539	feminine
-53541	
 53544	masculine
 53546	masculine
-
-
-
-53551	
-masculine/feminine
-
-neuter
-
+53552	masculine/feminine
+53554	neuter
 53557	masculine
-
-
-
-masculine
+53561	masculine
 53563	masculine
 masculine
 masculine
-
-
-
-
-masculine
+53570	masculine
 masculine/feminine
-
-
-53575	
-
-
-
 53582	masculine
 53585	neuter
-
-
-feminine
+53588	feminine
 53590	masculine
-53592	
-53594	
-
-feminine
+53596	feminine
 53601	masculine
-
-masculine
-
-masculine
+53603	masculine
+53605	masculine
 53607	masculine/feminine
-53610	
-53612	
 53614	neuter
 masculine
 masculine
 feminine
 feminine
-
-
+53621	masculine
 masculine
-masculine
-53625	
-
-
-
-feminine
-53631	
-neuter
+53629	feminine
+53632	neuter
 53634	feminine
-
-
-feminine
-
-neuter
+53637	feminine
+53639	neuter
 masculine
 53642	masculine
-53644	
 53646	masculine
 masculine
 53649	feminine
-
-feminine
+53651	feminine
 masculine
 masculine
-
-53656	
-
-feminine
+53658	feminine
 feminine
 53662	masculine
 masculine/feminine
@@ -31772,48 +16465,28 @@ masculine/feminine
 53672	feminine
 masculine
 53675	masculine
-53677	
 53679	masculine
 masculine
 53682	feminine
-
-masculine
-
-masculine
-
-neuter
-53690	
+53684	masculine
+53686	masculine
+53688	neuter
 53692	masculine
 masculine
 53695	masculine
-
-neuter
+53697	feminine
 53701	masculine
-53705	
 53707	masculine
 53710	masculine
 53712	masculine
-
-
-
-
-53718	
+53719	masculine
 masculine
-masculine
-53722	
-masculine
-53728	
-
+53723	masculine
 53732	feminine
-
-
-masculine
-53737	
-53742	
-feminine
+53735	masculine
+53743	feminine
 masculine/neuter
 neuter
-
 53749	masculine
 53752	masculine/feminine
 masculine
@@ -31821,171 +16494,96 @@ neuter
 53756	masculine
 53758	masculine
 masculine
-
-neuter
-
-masculine/neuter
-
+53761	neuter
+53763	masculine/neuter
 53766	masculine
 masculine
 neuter
-
-neuter
+53770	neuter
 53772	feminine
-
-masculine
-53776	
-53779	
-feminine
+53774	masculine
+53780	feminine
 neuter
-53783	
 53785	masculine
 53790	masculine
 feminine
-53793	
-
 53796	neuter
 53798	neuter
-
-53801	
 53805	feminine
-53808	
-
-feminine
-
-masculine/feminine
-
-masculine/neuter
-53817	
+53810	feminine
+53812	masculine/feminine
+53814	masculine/neuter
 53819	masculine
 masculine
-
-
-masculine
+53823	masculine
 masculine
 53827	masculine/feminine
 53829	masculine
 masculine
-53833	
-feminine
-53837	
-
+53834	feminine
 53840	masculine
 53844	masculine
 masculine
 53847	masculine
 neuter
-
-
-53852	
 53855	feminine
 masculine/neuter
 neuter
-
-
-neuter
-
+53860	neuter
 53865	neuter
-
-
 53869	masculine
 masculine
 53872	feminine
-
-53876	
-
-
-neuter
+feminine
+53879	neuter
 masculine
 masculine
 masculine
 53884	neuter
 53887	feminine
 masculine/neuter
-
-53895	
-53897	
+53898	masculine
+masculine
+53901	neuter
+53903	neuter
 masculine
 masculine
-
-neuter
-
-neuter
-masculine
-masculine
-
-
-feminine
+53908	feminine
 53910	feminine
-
-53913	
-feminine
+53914	feminine
 masculine
-53918	
 53921	masculine
 53929	masculine
-
-feminine
+53931	feminine
 feminine
 masculine
-
-feminine
-
+53935	feminine
+53937	masculine
 masculine
-masculine
-
-
-feminine
-
-53945	
-
-feminine
-
-
-
+53941	feminine
+53947	feminine
 53952	masculine
-
-
-
 53958	feminine
 53960	feminine
 feminine
 feminine
 feminine
-
 53968	masculine
 53970	neuter
-
-53974	
-
 53977	masculine/feminine
-
 53980	masculine
 masculine
-
-
-neuter
+53984	neuter
 53986	masculine/neuter
 neuter
-
 53991	neuter
-
-53994	
-53996	
-53998	
-feminine
-54001	
-feminine
-
+53999	feminine
+54002	feminine
+54004	masculine
 masculine
-masculine
-
-54008	feminine
+54008	masculine
 54010	masculine
 54012	neuter
-
-
-54016	
 54018	neuter
 masculine
 masculine
@@ -31996,827 +16594,367 @@ masculine
 54029	masculine
 masculine
 54034	masculine
-
-masculine
+54036	masculine
 masculine
 54040	feminine
 masculine
-54043	
-
-
-
-
-neuter
-
-neuter
+54048	neuter
+54050	neuter
 54052	neuter
 neuter
-54056	
-
-54060	
-54062	
-
-54067	
-masculine
+54068	masculine
 54070	masculine
 54073	feminine
 54075	masculine
 neuter
-54078	
-
-feminine
-
-54083	
-masculine
+54080	feminine
+54084	masculine
 54086	neuter
-
-54090	
-54094	
-
-
-
-
 54100	masculine
-54102	
-
-54105	
-
-
-54109	
-
-54115	
-neuter
-
-54119	
-54121	
-masculine
-54124	
-
-54128	
-54130	
-54132	
-
+54116	neuter
+54122	masculine
 54138	feminine
-54140	
-neuter
-neuter
+54141	neuter
+feminine
 54145	feminine
 feminine
 neuter
-54150	
 54153	masculine
-
 54156	neuter
-54159	
 54161	masculine
-
-masculine
-
+54163	masculine
 54168	masculine
-54170	
 54172	neuter
 masculine
-54175	
-
-
-54179	
-54181	
-
-
 54186	masculine
 masculine/feminine
-
 54190	neuter
 neuter
-54194	
 54197	neuter
-
-
-neuter
-54202	
-
-54206	
-masculine
+54200	neuter
+54207	masculine
 54209	neuter
 masculine
 54212	feminine
 54214	masculine
-
-masculine
-54218	
+54216	masculine
 54220	feminine
-
 54225	masculine/feminine
 54228	feminine
-
-neuter
-
-54233	
-masculine
-54236	
+54230	neuter
+54234	masculine
 54238	masculine
-54241	
-feminine
-
+54242	feminine
 54245	masculine
 neuter
-54248	
-
-
-masculine
+54251	masculine
 54253	neuter
-
-masculine/feminine
-
-
-
-
-masculine
-54262	
-neuter
-
-neuter
-
-54269	
-neuter
+54255	masculine/feminine
+54260	masculine
+54263	neuter
+54265	neuter
+54270	feminine
 54272	masculine
-
-
-54276	
-
-
-
-
+54281	masculine
+54285	feminine
 masculine
-54284	
-feminine
-masculine
-54288	
-54290	
-54292	
-
-
-54296	
-54298	
-masculine
-
+54299	masculine
+54301	masculine
 masculine
 masculine
 masculine
-masculine
-
-
-neuter
+54307	neuter
 54309	masculine/feminine/neuter
-
-
 54313	masculine
-
-54317	
 54319	masculine/feminine
-54321	
-
-54324	
-
-feminine
-54328	
+54326	feminine
 54331	neuter
 masculine/neuter
-
-54335	
-feminine
-
+54336	feminine
 54340	neuter
 masculine/neuter
-
+feminine
 masculine
 54346	masculine
 masculine
-
 54351	masculine
 masculine
-
-54355	
-neuter
 54358	masculine
 54360	masculine
-54364	
-neuter
-54367	
-54369	
-
-masculine/neuter
+54371	masculine/neuter
 54373	masculine
 masculine
 54376	masculine
 masculine
-
-54380	
-neuter
-
-54386	
 54391	masculine
-
 54394	neuter
-54396	
-
-
-
-54401	
 54403	neuter
-
-54407	
-
-54411	
-54414	
 54418	feminine
-
 54422	feminine
 feminine
 neuter
-
-
-
-54431	
-54434	
+54435	masculine
 masculine
-masculine
-54438	
-masculine
+54439	masculine
 masculine/feminine
 feminine
-
-feminine
-54445	
+54443	feminine
 54447	masculine
-54449	
-
-54452	
-neuter
+54453	neuter
 feminine
 54456	neuter
 masculine
 masculine
 54460	masculine
 54462	masculine
-
-
-54466	
 54468	masculine
 masculine
 54472	neuter
 54474	feminine
-
-54477	
 54480	neuter
-54482	
-54485	
-54489	
-
-54492	
-
-54495	
 54497	masculine
-
-54501	
-54503	
-54505	
-54507	
 54510	masculine
-
 54513	feminine
 feminine
-54516	
 54522	masculine/feminine
 54524	masculine
 54527	neuter
-
-
-54532	
-54536	
-
-54539	
-
-54542	
-54544	
-
-feminine
-
-54550	
+54546	feminine
 54552	masculine
 masculine
-54555	
-masculine
+54556	masculine
 masculine
 masculine/feminine
 feminine
 54565	masculine
-54567	
-masculine
-54570	
-feminine
+54568	masculine
+54571	feminine
 neuter
-
-
 54576	feminine
 neuter
-54583	
-
-
 54587	masculine/feminine
-
 54590	masculine
-54592	
-54596	
-54598	
-masculine
-54602	
-
-
+54599	masculine
 54607	feminine
-
-54610	
 54614	masculine
-
-
-
 54620	masculine
 masculine
 masculine
-54624	
-
-54627	
+54625	feminine
 54629	feminine
 masculine
 masculine
-54633	
-feminine
+54634	feminine
 neuter
-
-
-
-
-54643	
-54646	
-54648	
 54651	masculine
 masculine
 feminine
-54656	
-
-
-54661	
-54663	
-
-neuter
-
-54670	
+54665	neuter
 54673	feminine
 feminine
-
 54677	masculine
 masculine
 54681	masculine
-54685	
-neuter
+54686	neuter
 54688	feminine
 neuter
-
-54693	
+54694	masculine
 masculine
-masculine
-54700	
-54702	
-masculine
-54705	
+54703	masculine
 54707	neuter
 masculine
-54710	
-54713	
-masculine
+54710	feminine
+54714	masculine
 masculine/feminine
-
-feminine
+54717	feminine
 masculine/neuter
-54720	
-54722	
-
-feminine
-54726	
-masculine
+54724	feminine
+54727	masculine
 54730	masculine
 masculine
 54734	masculine
-54736	
-
-masculine
+54738	masculine
 54741	masculine
 54745	neuter
 masculine
-
-
-neuter
-
+54749	neuter
+feminine
 masculine
 masculine
 feminine
-
 54757	masculine
 masculine
-
-neuter
+54760	neuter
 54762	neuter
 54765	neuter
-
-
-54769	
-neuter
-
-54774	
+54770	neuter
+feminine
 54776	feminine
-
-masculine
-54780	
-
-
+54778	masculine
 54784	feminine
-
-
-
-masculine
-
-54791	
+54788	masculine
 54794	neuter
 masculine
-54797	
-
 54800	masculine
 masculine/neuter
 neuter
 masculine
-54807	
 54809	neuter
 54812	masculine
 masculine
-
 54818	masculine
 54821	masculine/neuter
 54823	masculine
 masculine
 54826	masculine
-54831	
-feminine
-54837	
-
-masculine/neuter
+54832	feminine
+54839	masculine/neuter
 neuter
 54843	feminine
-54848	
-54850	
-masculine
+54851	masculine
 feminine
 masculine/feminine
 54855	feminine
 feminine
 54860	neuter
-
-54864	
-54867	
-54869	
-neuter
+54870	neuter
 masculine
 54873	masculine
-
-
-
-54878	
-
 54881	feminine
-
-54884	
-54887	
-
 54891	masculine
 54893	feminine
 masculine
-54902	
-
-
-
 54907	feminine
 masculine
-54912	
-54916	
+54917	masculine
 masculine
-
-54920	
+54921	feminine
 feminine
-feminine
-
+masculine
 feminine
 feminine
 54929	masculine
 masculine
 54932	feminine
-54934	
-
-feminine
-
+54936	feminine
 54939	masculine
 masculine
 54942	neuter
 masculine
-
-54947	
-54949	
-54951	
-
 54954	masculine
-
-
-54958	
-
-feminine
-54962	
+54960	feminine
 54964	masculine
-
 54968	masculine
 masculine
-feminine
-
-
-
-
-54977	
+masculine
 54980	neuter
 54982	masculine
 masculine
 masculine
-
-
 54988	neuter
-
-
-masculine
+54991	masculine
 masculine/feminine/neuter
-54994	
-masculine
-
-
-
-feminine
-55001	
+54995	masculine
+54999	feminine
 55003	masculine
 55005	feminine
-
 55008	neuter
 masculine
-55012	
-masculine
-
+55013	masculine
+55015	feminine
 feminine
-feminine
-
-
 55020	masculine/feminine
-
-masculine
-55024	
-neuter
-55027	
-
-
+55022	masculine
+55025	neuter
 55031	masculine/feminine
 55033	feminine
 feminine
 masculine
-
-
-neuter
-
-55041	
-
-55045	
-
-neuter
-55049	
-
-
-55053	
-55055	
-
-
-
-
-neuter
+55060	neuter
 55062	masculine
-
-55065	
+55066	feminine
 feminine
 feminine
-feminine
-
-55072	
-55074	
-
-55077	
 55079	masculine
-
-55083	
-
-masculine
-55087	
-55090	
+55085	masculine
 55092	feminine
 feminine
 feminine
 masculine/feminine
-55097	
-
+55099	masculine
 masculine
+55106	masculine/neuter
 masculine
-
-55104	
-
-masculine/neuter
-masculine
-
-55111	
 55113	neuter
-
 55116	masculine
-55118	
-
-masculine
+55120	masculine
 55122	masculine
-
 55127	masculine
-
-masculine
+55129	masculine
 55134	masculine
-
 55137	feminine
 neuter
-55141	
-
-55145	
-
-masculine/neuter
-55150	
-55152	
+55147	masculine/neuter
 55155	feminine
 feminine
 neuter
-
 55161	neuter
-
-
-55165	
-55168	
-
+55170	feminine
 feminine
-feminine
-55174	
-
-55177	
-
-55180	
 55182	masculine
-
-feminine
-
-55187	
-
-55190	
-
-55193	
-
-55197	
-neuter
-55200	
-feminine
-
-
-
-
-feminine
-
-
-55210	
-55212	
-
-
-
-
-
-
-
-
-55222	
-55224	
-
-55227	
+55184	feminine
+55198	neuter
+55201	feminine
+55206	feminine
 55230	feminine
 masculine
 55233	masculine
-
-
-
-
-55239	
 55242	feminine
-
 55245	neuter
 55247	masculine/feminine
-
-
+55250	neuter
+masculine
+masculine
+55255	masculine
 neuter
-masculine
-masculine
-55254	
-masculine
-neuter
-55258	
-
-feminine
-
-
-feminine
-55266	
+55260	feminine
+55263	feminine
 55268	masculine
-
 55271	masculine/feminine
 55273	masculine
 neuter
 55277	neuter
 feminine
-
-
-55283	
-55285	
 55288	neuter
-
-
 55292	masculine
 masculine
-55295	
-55298	
-feminine
-
-55302	
-
-
-55308	
-55310	
+55299	feminine
 55314	masculine
 55316	feminine
-
 55319	masculine
-
 55323	masculine/neuter
-55325	
-
 55328	neuter
-
-
-neuter
+55331	neuter
 feminine
 neuter
-
 55336	feminine
 neuter
-55341	
-55343	
 55345	masculine
 masculine
 55350	neuter
 55352	masculine
-55355	
-
-
-
 55361	masculine
 masculine
-
 55367	feminine
 55369	feminine
 feminine
-
-feminine
-
-55383	
-55385	
-
-masculine
-55389	
-neuter
+55372	feminine
+55387	masculine
+55390	neuter
 masculine
 masculine
 feminine
 feminine
-
-
-
 55399	masculine
 masculine
 55402	feminine
@@ -32824,255 +16962,105 @@ masculine
 55406	feminine
 masculine
 55409	masculine
-
-
-
-
-feminine
-
+55414	feminine
 55418	masculine
 masculine
-
-
 55424	masculine
 55426	masculine
 masculine
 feminine
-
 55431	masculine/feminine
-
-
-
-55437	
-
-
-55441	
-
-masculine
+55443	masculine
 55445	masculine
-55447	
-
-
-
-neuter
-
-55454	
-
-feminine
-
+55451	neuter
+55456	feminine
 55461	neuter
-55463	
-
-55466	
-
-55469	
-neuter
+55470	neuter
 masculine
 55473	feminine
-55476	
-neuter
+55477	neuter
 masculine
 masculine
-
-55482	
-55484	
-neuter
-55487	
-55489	
-55492	
-55494	
+55485	neuter
 55498	feminine
-
-55503	
-
-neuter
-55508	
-
-55511	
-neuter
-55514	
+55505	neuter
+55512	neuter
 55516	feminine
-
-neuter
-55520	
-feminine
-
+55518	neuter
+55521	feminine
 55524	neuter
-55526	
 55528	neuter
-
-neuter
+55530	neuter
 masculine
 masculine
-
-masculine
+55534	masculine
 55537	feminine
-
-55540	
-masculine
-
-55544	
-
-neuter
-
-55549	
-feminine
-55558	
-neuter
+55541	masculine
+55546	neuter
+55550	masculine
+55559	feminine
 neuter
 55562	feminine
-55564	
-
-
-
-
-
 55574	neuter
-55576	
-
-55579	
-
-
 55583	feminine
 feminine
-
 55587	feminine
-
 55591	masculine/feminine
-
-55596	
-
-feminine
-
-
-
-
+55598	feminine
 55604	feminine
-
-neuter
-55608	
-55611	
-feminine
+55606	neuter
+55612	feminine
 masculine/feminine/neuter
-
-
-
 55619	masculine
 55621	neuter
-
-55624	
 55626	feminine
-
-
-
 55631	masculine/feminine
-
-feminine
-
-55636	
-feminine
-
-feminine
-
+55633	feminine
+55637	feminine
+55639	feminine
+55641	feminine
 neuter
-neuter
-55644	
-
 55647	masculine
-
-
-
+55651	neuter
 neuter
-neuter
-55654	
-neuter
-
-neuter
-55660	
-
-
-
-
-neuter
-
-
-
-masculine
-
-55672	
-neuter
-
-masculine
-
-55678	
-55680	
+55655	neuter
+55657	feminine
+55665	neuter
+55669	masculine
+55673	neuter
+55675	masculine
 55683	neuter
-
-
-masculine
-
-neuter
-
-
-
-
+55686	masculine
+55688	neuter
 55695	masculine
-55698	
-55700	
-55702	
-
 55705	feminine
 masculine
 55708	masculine
-
 55711	masculine
 feminine
 feminine
-
-
-masculine
+55716	masculine
 masculine/feminine
 55719	neuter
-55721	
-55723	
+55724	masculine
+55730	neuter
 masculine
-
-
-55729	
-neuter
-masculine
-
-55735	
-neuter
-
+55736	neuter
 55741	masculine
 masculine
-55745	
-masculine
+55746	masculine
 masculine/feminine
 55750	masculine
-
-
-masculine
-
-
-
+55753	masculine
 55759	masculine
-55762	
-
 55765	feminine
 55770	masculine
 masculine
-
-neuter
+55773	neuter
 masculine
-
-
+55777	masculine
 masculine
-masculine
-
-
-neuter
+55781	neuter
 feminine
 feminine
 masculine
@@ -33080,585 +17068,260 @@ masculine
 55790	masculine
 masculine
 55794	neuter
-55796	
-
 55799	feminine
-55802	
-55805	
-55807	
-55810	
-
-
-
-55815	
-masculine
-
-
-
-
+55816	masculine
 55825	neuter
-
 55828	masculine
 55830	feminine
-
-
-
 55835	masculine/feminine
-55837	
-55839	
-55842	
 55844	masculine
-
 55848	feminine
 neuter
-55851	
-55855	
-neuter
+55856	neuter
 masculine
 feminine
 feminine
-
-
-55865	
-
-
-55869	
-
-
 55874	masculine
-55876	
-55878	
-
-
-masculine/neuter
+55881	masculine/neuter
 masculine
 masculine
-
 55886	neuter
-
-masculine
-55890	
+55888	masculine
 55892	masculine
 masculine
 neuter
 masculine
 55897	masculine/feminine
-55900	
-masculine
+55901	masculine
 masculine
 neuter
-
-55907	
-masculine
+55908	masculine
 55913	masculine
 masculine
 neuter
-55917	
 55919	neuter
-55921	
-neuter
-
-neuter
+55922	neuter
+55924	neuter
 masculine/feminine
-
 55928	neuter
-55930	
-55933	
+55933	masculine
 feminine
-55938	
 55940	masculine
-55943	
-
-55946	
-neuter
-
-
-
-feminine
+55947	neuter
+55951	feminine
 masculine
-55954	
-55956	
-
-
-
 55963	neuter
-55965	
-
-55970	
-neuter
-
-
-
+55971	neuter
 55976	feminine
-
 55979	masculine
-55982	
-55985	
-55987	
-neuter
+55988	neuter
 masculine
 55993	masculine
 55997	masculine
-
-
-
-
-
 56005	masculine
 56008	masculine
-
-
-
-56014	
-
-
-
-masculine
+56018	masculine
 neuter
-56022	
-
-
-
-
 56028	neuter
-
-56032	
-masculine
-56035	
+56033	masculine
 56037	masculine
 56039	masculine
 masculine
 masculine
-
-
 56046	masculine
-56050	
-56052	
-
-
-56058	
 56062	masculine
-56065	
-neuter
-
-56070	
-
-
-masculine/neuter
-56079	masculine
-neuter
-
-56084	
-
-feminine
-56088	
-
+56066	neuter
+56073	masculine/neuter
+56080	neuter
+56086	feminine
+56090	masculine
 masculine
-masculine
-56093	
-neuter
-56099	
+56094	neuter
 56102	masculine
-56104	
 56106	masculine
-56108	
-neuter
-
+56109	neuter
 56112	masculine
-
-56117	
-56119	
-
-56122	
-feminine
-56125	
-
-56129	
-neuter
+56123	feminine
+56130	neuter
 masculine
-56133	
-56136	
-
-
-
-
-masculine
+56141	masculine
 56144	feminine
 feminine
 56148	feminine
-
-
-neuter
+56151	neuter
 masculine/neuter
-56154	
 56157	neuter
-56159	
-
-neuter
-
-56164	
+56161	neuter
 56167	masculine
-56169	
-
-
-56173	
 56176	masculine
-
-
-neuter
-
-
-56185	
+56179	neuter
+56185	masculine
 56189	masculine
 neuter
-
-56194	
 56196	masculine
 56199	masculine
 masculine
 feminine
 neuter
-56204	
-
-56208	
-56210	
-56212	
 56214	masculine
 masculine
 neuter
-56218	
-
-
 56223	masculine
 masculine
 feminine
-56227	
-56230	
-56233	
-
-
-
-masculine/feminine
-
-neuter
-56243	
-
-56246	
-feminine
-
-56250	
-neuter
-
-feminine
-
-masculine
+56237	masculine/feminine
+56239	neuter
+56247	feminine
+56251	neuter
+56253	feminine
+56255	masculine
 masculine
 neuter
-
 56262	neuter
 56265	masculine
-
-
-masculine
+56268	masculine
 masculine/feminine
-56271	
-masculine
+56272	masculine
 56274	feminine
-neuter
+feminine
 56277	masculine
 masculine
 neuter
-
-
-feminine
-
-56285	
-56290	
-
-56293	
-56296	
-neuter
+56282	feminine
+56297	neuter
 56299	feminine
-
-neuter
-56303	
-
+56301	neuter
 56306	masculine
-56310	
-56313	
-56316	
-
-
-
-
-56322	
-56324	
-
 56327	neuter
 neuter
-
-
-
-
-
-56336	
-neuter
-
-
-neuter
-56342	
+56337	neuter
+56340	neuter
 56344	neuter
-56346	
 56348	masculine
-56351	
-neuter
+56352	neuter
 masculine
-56359	
 56361	feminine
-
-neuter
-56366	
-masculine
+56363	neuter
+56367	masculine
 56369	masculine
-56371	
-
-masculine
-
-masculine
-56379	
-
-neuter
-56383	
-masculine
-56387	
-neuter
-
-neuter
+56373	masculine
+56375	masculine
+56384	masculine
+56388	neuter
+56390	neuter
 56393	masculine
-56395	
-56397	
-
-neuter
-56402	
-masculine
-56406	
-
-masculine
+56403	masculine
+56408	masculine
 56410	feminine
-
-
 56414	masculine
 masculine/feminine
 masculine/feminine
 56420	neuter
 neuter
-
-56424	
-
-
-56428	
-56430	
 56432	masculine/feminine
-56434	
-56436	
-masculine
-
-56440	
-neuter
-
-56446	
-56448	
-neuter
-
+56437	masculine
+56441	neuter
+56449	neuter
 56454	masculine
 56458	masculine/feminine
-56460	
-56462	
 56464	masculine
-
-
-56468	
 56470	feminine
-56472	
-56475	
-56478	
-feminine
-
-56483	
-masculine
+56479	feminine
+56484	masculine
 masculine/feminine
 56487	masculine
-
-
-
-56492	
-neuter
+56493	neuter
 masculine
 masculine
 masculine
 56500	masculine
 masculine
-
-masculine/neuter
+56503	masculine/neuter
 56506	masculine
-56509	
+56510	masculine
+56513	neuter
+56516	masculine
 masculine
-56512	
-neuter
-56515	
-masculine
-masculine
-
-neuter
-
-
-56525	
-
-masculine
+56519	neuter
+56527	masculine
 masculine
 56532	masculine
-56534	
-56537	
-feminine
+56538	feminine
 56540	feminine
 masculine
 56543	neuter
-56546	
-neuter
-
-56551	
-56553	
-neuter
+56547	neuter
+feminine
+56554	neuter
 masculine
 masculine
-
-
-
-
-
 56563	feminine
-56566	
-
-
+56569	feminine
 feminine
 feminine
+56573	feminine
 feminine
-
-feminine
-feminine
-
-
+56577	masculine
 masculine
-masculine
-56580	neuter
+56580	feminine
 56582	feminine
-
-56585	
-feminine
+56586	feminine
 masculine
-
 56595	masculine
 masculine
-56599	neuter
+56599	feminine
 56601	feminine
 56604	feminine
 masculine
 neuter
 masculine
-56609	
 56611	neuter
-56614	
-neuter
-
+56615	neuter
 56618	neuter
 neuter
-56621	
-56623	
-56625	
-feminine
+56626	feminine
 56628	neuter
 neuter
 masculine
-
-neuter
+56632	neuter
 feminine
 56636	neuter
 56638	neuter
-
-
-
-56643	
-neuter
-
-56647	
-masculine
-
-
-
+56644	neuter
+56648	masculine
 56653	neuter
-
-
-
+56657	feminine
 feminine
-feminine
-56660	
 56663	feminine
-
-neuter
+56665	neuter
 masculine
 masculine
-56670	
 56672	masculine/feminine
-
-neuter
+56674	neuter
 56676	neuter
-
 56680	masculine
 masculine
 feminine
 feminine
-
-
-
-
-
-feminine
+56689	feminine
 feminine
 feminine
 masculine
-56695	
 56697	masculine/neuter
 masculine
-
 56701	masculine
-56703	
 56705	neuter
 neuter
-56708	
-
-feminine
+56710	feminine
 feminine
 56713	masculine/neuter
 masculine
 masculine/feminine
-
-56724	
-masculine
-56727	
-56729	
-masculine
-
-
-56734	
-56736	
-
-
-
-feminine
+56725	masculine
+56730	masculine
+56740	feminine
 56743	masculine
-56745	
-
-masculine
+56747	masculine
 56749	masculine
 masculine
 masculine
@@ -33666,346 +17329,165 @@ masculine
 masculine
 56756	neuter
 neuter
-
-
-feminine
+56760	feminine
 masculine
 masculine
-56765	
-
 56768	masculine/feminine
-
 56771	neuter
 56773	neuter
-
 56777	neuter
-56779	
-neuter
-56783	
+56780	neuter
 56785	masculine
-56787	
-feminine
-56790	
-
-56795	
-
-neuter
-
-feminine
+56788	feminine
+56797	neuter
+56799	feminine
 masculine
-
-
-masculine
+56803	masculine
 56805	masculine
 masculine
-56808	
-neuter
+56809	neuter
 feminine
 56812	masculine/neuter
 56814	neuter
 feminine
-56817	
 56819	masculine
 56821	masculine
-
 56827	neuter
 masculine
-56830	
-feminine
+56831	feminine
 masculine
-56834	
-56836	
-neuter
-
-56840	
-56842	
+56837	neuter
 56844	feminine
-
-56850	
-masculine
-
+56851	masculine
 56855	feminine
 56857	masculine
-56859	neuter
+56859	feminine
 56862	masculine
-56864	
-
-
 56869	neuter
 masculine
-
-56873	
 56879	masculine/neuter
-56881	
 56886	feminine
-
-
 56891	feminine
-
-56899	
-
-
 56903	masculine
 feminine
-56907	
-56909	
+56910	feminine
+56918	neuter
 neuter
-56912	
-56914	
-56917	
-neuter
-neuter
-
 56923	neuter
 neuter
-
-
-
-feminine
+56928	feminine
 neuter
-56931	
 56934	masculine
 neuter
 masculine
 feminine
-56939	
-56941	
-neuter
-56944	
+56942	neuter
 56946	masculine
 masculine
-
-56950	
+56951	masculine
 masculine
-masculine
-
-
-masculine/neuter
-
-
-feminine
-
-masculine
+56955	masculine/neuter
+56958	feminine
+56960	masculine
 56964	masculine
-
-56967	
-neuter
-
+56968	neuter
 masculine
 56972	neuter
 feminine
-56975	
-56977	
+56978	masculine
 masculine
-masculine
-
-masculine/feminine
+56981	masculine/feminine
 feminine
-
-neuter
+56984	neuter
 masculine
 masculine
-
-
-56990	
-
-neuter
+56992	neuter
 56994	neuter
-
-
-
-
-57000	
 57002	masculine
 feminine
-
-
-masculine/neuter
-
-57009	
-
-
-
-
-
-feminine
+57006	masculine/neuter
+57015	feminine
 masculine
 feminine
 masculine
 neuter
 57021	neuter
 feminine
-57024	
-masculine
+57025	masculine
 masculine/neuter
 masculine
-
-feminine
+57029	feminine
 57031	masculine/neuter
 57033	masculine
-
-neuter
+57035	neuter
 feminine
 masculine
-57039	
-masculine
-
-
-57046	
-
-masculine/feminine
+57040	masculine
+57048	masculine/feminine
 feminine
-
 57053	masculine
 masculine
 57056	masculine
 masculine
-
 57061	masculine/feminine
 57065	masculine
-57067	
-57070	
-57072	
 57074	masculine
-57076	
-57080	
-masculine
-
-
-
-57086	
-neuter
+57081	masculine
+57087	neuter
 masculine
 masculine
 feminine
-57093	
-neuter
-
-
-57098	neuter
+57094	neuter
+57098	feminine
 masculine
 feminine
 neuter
 masculine
-
-
+57105	neuter
+masculine
+57109	masculine/neuter
+57116	feminine
+57123	masculine
 neuter
-masculine
-
-
-masculine/neuter
-
-
-
-
-
-
-feminine
-57118	
-57121	
-
-masculine
-neuter
-
-neuter
+57126	neuter
 masculine
 masculine
-
 57131	masculine
-
-
-masculine
+57134	masculine
 feminine
-
-
-
-
-
-
-
-
 57147	masculine
-57149	
-neuter
-57153	
-masculine
+57150	neuter
+57154	masculine
 57156	feminine
 neuter
 neuter
 masculine
-57163	
-
-57168	
-
-
-
-
-masculine
-
-neuter
-
-
-
-
-neuter
-57182	
+57173	masculine
+57175	neuter
+57180	neuter
 57184	masculine
 masculine
-
-57188	
-57190	
 57192	masculine
 masculine
-57197	
-
-
-57202	
-
-masculine
+57204	masculine
 masculine
 57207	masculine
-
-
-feminine
-
-57215	
-57217	
-
+57210	feminine
 57221	neuter
 masculine
-
-57225	
-
-masculine
-
-57232	
-masculine
+57227	masculine
+57233	masculine
 57235	masculine
-57239	
-57242	
-57246	
-
-masculine
-57251	
+57248	masculine
 57253	masculine
 57255	feminine
-
-masculine
-
+57257	masculine
 57260	masculine/feminine/neuter
-
-57265	
-57267	
-
 57270	masculine/feminine
 masculine
-57273	
-feminine
-
-57277	
-feminine
+57274	feminine
+57278	feminine
 57280	feminine
-57284	
 57287	feminine
 feminine
 57290	masculine
@@ -34019,574 +17501,264 @@ masculine
 feminine
 57311	feminine
 masculine
-
-neuter
-
-
-
+57314	neuter
 57319	masculine
 masculine
-
 57323	feminine
 feminine
-
-57330	
 57332	feminine
-
-neuter
-
+57334	neuter
 57337	masculine
 masculine
-
-neuter
+57340	neuter
 57345	masculine
 masculine
 57348	feminine
-57356	
-57359	
-
-
-57364	
-57366	
-
 57369	feminine
-57371	
-57373	
 57375	feminine
-
-
 57379	masculine/feminine
 57381	masculine/neuter
 neuter
 masculine
 masculine
-57387	
-
-
-masculine
-
-57394	
-
-
-masculine
-
+57390	masculine
+57397	masculine
+57399	feminine
 feminine
-feminine
-
 57403	feminine
 masculine
 masculine/feminine
-
-
-
-feminine
-
-
-
+57409	feminine
 57414	masculine
-
-
-57418	
-masculine
+57419	masculine
 57421	masculine/feminine
-
-
-
-57426	
-
 57429	neuter
-
-57432	
-neuter
+57433	neuter
 feminine
-
-57437	
-57439	
-neuter
+57440	neuter
 57442	masculine
 neuter
 feminine
-57446	
-57448	
-
-57451	
 57453	masculine
 masculine
 neuter
 masculine
-
 57462	masculine
 masculine
-
-
-
-neuter
-57471	
-
-57475	
-neuter
-
-
-57480	
-neuter
+57467	neuter
+57476	neuter
+57481	neuter
 masculine
 masculine
 feminine
-57488	
 57490	feminine
-
-
-
-
-57496	
-
-
-57501	
 57503	masculine
 masculine
 masculine
 masculine
-57509	
-57512	
 57515	neuter
 57518	masculine
 masculine
-
 57523	neuter
 feminine
 neuter
-
-
-neuter
-
+57528	neuter
 57531	feminine
 57533	feminine
 masculine
-
-
-neuter
-57541	
-feminine
+57537	neuter
+57542	feminine
 feminine
 57547	feminine
-57550	
-
-feminine
-
-
+57552	feminine
 57556	feminine
 57558	feminine
-
-57561	
-masculine
-57564	
-neuter
-57568	
-
-57572	
+57562	masculine
+57565	neuter
 57574	feminine
 feminine
 57578	masculine
-
-57582	
-
 57585	masculine
 57587	masculine
-57590	
-
-feminine
-
-
+57592	feminine
 57596	neuter
-
-
-masculine
-57601	
+57599	masculine
 57603	masculine
 masculine
-
-masculine
-57608	
-
-neuter
+57606	masculine
+57610	neuter
 feminine
 feminine
-
-
-
-
-
-feminine
-
-
-
-feminine
-
+57618	feminine
+57622	feminine
 57625	masculine
 masculine
-
-
-feminine
+57629	feminine
 feminine
 57632	feminine
 feminine
 masculine
-57636	
-masculine
-57639	
-
+57637	masculine
 57643	masculine
 masculine
-57647	
-masculine
-
-masculine
-
-
-57657	
-neuter
-
-masculine
-
-57663	
-57665	
+57648	masculine
+57650	masculine
+57658	neuter
+57660	masculine
+57666	masculine
 masculine
 masculine
 masculine
+57671	neuter
 masculine
-
-neuter
-masculine
-
 57679	feminine
-
 57688	feminine
 masculine
-57693	
-
-57697	
-57699	
-neuter
-57702	
+57700	neuter
 57708	masculine
 masculine
-
-57714	
-57716	
-
-
-57720	
-neuter
+57721	neuter
 feminine
 feminine
 masculine
-57726	
-masculine
-57731	
-
-feminine
+57727	masculine
+57733	feminine
 57735	masculine
-57740	
-
-
-57744	
 57747	masculine
-
-
-
 57752	neuter
-
-
-
+57756	feminine
+57763	masculine
 feminine
-57759	
-
-57762	
-masculine
-feminine
-57766	
-masculine
+57767	neuter
 57771	feminine
 neuter
 masculine
-
-57777	
-
-masculine
+57779	masculine
 57781	masculine
 57783	masculine
-57785	
-
 57788	feminine
-57796	
-57802	
-
 57806	masculine/neuter
 neuter
 masculine
-
-57811	
 57813	masculine
 masculine
-
 57817	masculine
-
-
-
-
-57823	
-57825	
-neuter
-
-
+57826	neuter
 57831	masculine
-
-57835	
-
-
-
 57841	masculine
-
-masculine
+57843	masculine
 57846	masculine
-
-neuter
-57850	
+57848	neuter
 57852	neuter
-
-57858	
 57860	masculine
-
+57862	masculine
 masculine
-masculine
-
-57867	
-neuter
+57868	neuter
 feminine
-57871	
 57873	feminine
 masculine
 neuter
-
-57880	
 57882	masculine
 masculine
-
-
-
-
-masculine
+57888	masculine
 feminine
-
 57892	feminine
-
-neuter
-
+57894	neuter
 57899	masculine
 57901	masculine
-57905	
-57907	
-masculine
-
-
-
+57908	masculine
 57913	masculine
-
-57917	
 57919	masculine
-57921	
-neuter
+57922	feminine
 57926	neuter
-
-
-57930	
 57933	masculine
 57935	feminine
 masculine
-
-57942	
-
-masculine
+57944	masculine
 57950	feminine
 feminine
 57954	feminine
 feminine
 neuter
-57959	
-neuter
+57960	neuter
 masculine
 masculine
-
-57966	
-57968	
-57971	
-feminine
+57972	feminine
 feminine
 masculine
 57980	masculine
 masculine
-
-57984	
-57986	
-57988	
+57989	neuter
+57996	neuter
 neuter
-
-57995	
-neuter
-neuter
-
-masculine
-
+57999	masculine
 58002	masculine
 masculine
 58005	masculine
-58009	
-neuter
-
-
+58010	neuter
 58014	masculine
 58016	feminine
-
-feminine
+58018	feminine
 masculine
-
-58024	
-
 58029	masculine
 masculine
 58032	masculine/neuter
 feminine
 58040	masculine
 58042	masculine/feminine
-
-neuter
+58044	neuter
 58046	masculine
-
-
-
-neuter
-
-neuter
-58054	
-
-58057	feminine
-
-
-
-
-
-masculine
-58065	
-
-
+58050	neuter
+58052	neuter
+58057	masculine
+58063	masculine
 58070	masculine
 masculine
-58074	
 58078	neuter
-
-
-
-masculine
-
-
-
-neuter
-
-
+58082	masculine
+58086	neuter
 58090	masculine
-58092	
-
-58096	
-
-
 58100	neuter
-58102	
 58104	neuter
-58106	
-neuter
+58107	neuter
 neuter
 feminine
-
-
-
 58117	feminine
-58119	
-
 58122	masculine
 58124	masculine
 58126	feminine
-
-
-58130	
-
-
-58134	
 58136	feminine
 58139	masculine/neuter
-
 58142	feminine
-58144	
-58146	
-feminine
+58147	feminine
 masculine/neuter
-
 58154	feminine
 feminine
-58157	
-58159	
-58161	
 58163	feminine
-58165	
-58167	
-58170	
-58175	
 58177	neuter
-
-
-masculine/neuter
+58180	masculine/neuter
 58182	neuter
-
-
-
-
-masculine
-
-
+58187	masculine
 58194	masculine
 masculine
 58197	masculine
 58199	feminine
-
-masculine
+58201	masculine
 masculine/feminine
-58204	
-58206	
-58208	
 58210	masculine
 58212	masculine
 58215	masculine/neuter
-
-58218	
-
-feminine
-58222	
+58220	feminine
 58224	neuter
-
-
+58227	masculine
 masculine
-masculine
-
 58231	neuter
 masculine
-
 58235	feminine
 feminine
-
-masculine
+58238	masculine
 58241	masculine
-
-
-feminine
+58244	feminine
 feminine
 masculine/feminine
 neuter
@@ -34596,15 +17768,11 @@ feminine
 masculine
 neuter
 feminine
-58260	
-masculine
+58261	masculine
 58269	neuter
 feminine
 58272	feminine
-58274	
-58277	
-masculine
-
+58278	masculine
 58281	masculine
 masculine
 58284	masculine
@@ -34616,1160 +17784,556 @@ feminine
 58292	feminine
 neuter
 58296	neuter
-
 58299	feminine
 58303	masculine/feminine/neuter
-
-58307	
-
-
-feminine
+58310	feminine
 masculine/feminine/neuter
 58313	neuter
-58315	
-58317	
 58320	masculine
-
-neuter
+58322	neuter
 feminine
-58325	
 58327	masculine
 masculine
-58331	
-
 58334	masculine/feminine
-
 58337	masculine
-
 58341	masculine/feminine
-58344	
 58346	neuter
 masculine
-58349	
-58351	
 58354	masculine
-58357	
+58358	feminine
 feminine
-feminine
-
-
-58364	
-
-neuter
+58366	feminine
 58369	neuter
-58371	
-58375	
-neuter
-
-
-masculine
+58376	neuter
+58379	masculine
 58382	masculine
 masculine
-
-58388	
-
-58393	
+58394	feminine
 feminine
-feminine
-58397	
-
-58401	
-
-masculine
+58403	masculine
 58406	masculine
-58408	
-58412	
 58414	masculine
-
-58417	
-neuter
+58418	neuter
 neuter
 feminine
 masculine/neuter
-58423	
-
-
-neuter
-58428	
+58426	neuter
 58431	masculine
-58433	
 58435	masculine
 58437	masculine
 masculine
-
 58441	feminine
 58443	masculine
 masculine
 58451	masculine
-
-
 feminine
+58454	feminine
 masculine
-
+58457	masculine
 masculine
-masculine
-
-58462	
-58464	
-feminine
-
+58465	feminine
 58468	neuter
 masculine
 masculine
 58472	masculine
-58474	
 58476	masculine
-
-58479	
-feminine
-
+58480	feminine
 58483	neuter
 feminine
 58486	feminine
-
-neuter
+58488	neuter
 58491	masculine
 58493	masculine
-
 58496	neuter
-
-58501	
-
-neuter
-58505	
-58507	
-masculine
-neuter
-58512	
-neuter
-masculine
-58516	
-58523	masculine
-58526	
-58529	
-
-
-
-58534	
-masculine
-58537	
-neuter
-
-
-58543	
-
+58503	neuter
+58508	masculine
 feminine
-
-
-
-
-
-
-58554	
-masculine/feminine/neuter
-
-
+58513	neuter
+masculine
+58523	masculine
+58535	masculine
+58538	neuter
+58545	feminine
+58555	masculine/feminine/neuter
 58560	feminine
-58562	
 58564	masculine
 masculine
-
-58569	
 58571	masculine
 masculine/feminine
-58574	
-
-masculine
+58576	masculine
 58578	masculine
 58580	masculine/feminine
 58582	masculine/neuter
-
-masculine
+58584	masculine
 masculine
 58587	masculine
-
-neuter
+58589	neuter
 masculine
-
+58592	feminine
 feminine
-feminine
-
 58596	masculine
 masculine
-
+58599	feminine
 feminine
 feminine
-feminine
-
-
+58604	masculine
 masculine
 masculine
-masculine
-58608	
-
-neuter
-
+58610	neuter
 58613	feminine
-
-58617	
-masculine
-58620	
+58618	masculine
 58622	masculine
-
-masculine
+58624	masculine
 masculine
 58627	neuter
 neuter
-
 58632	masculine
 neuter
 58635	neuter
 neuter
-
-
 58640	neuter
-
-feminine
+58642	feminine
 masculine
-
 58646	masculine
 masculine
 masculine/feminine
-
-masculine
-58654	
-
-
+58650	masculine
 58658	masculine
 58660	masculine
 58663	masculine
 masculine/feminine
 masculine
-
-
 58669	masculine
 58672	feminine
 neuter
 masculine
 58677	neuter
-
+58679	masculine
 masculine
-masculine
-58682	
 58684	feminine
-58686	
-neuter
-58689	
-
+58687	feminine
 58692	feminine
 58694	masculine
 masculine
-
-58698	
-
-58701	
-
-
-
-masculine
-58709	
-masculine
+58705	masculine
+58710	masculine
 58713	masculine
-58716	
-
-masculine
-58720	
-
-masculine/feminine
+58718	masculine
+58722	masculine/feminine
 neuter
-
-
-masculine
-58728	
-
+58726	masculine
 58731	masculine
 feminine
-
-58735	
-
 58738	feminine
 58740	feminine
-58742	
-
 58746	masculine
 masculine
-
-
-58752	
+58753	masculine
 masculine
-masculine
-58756	
 58758	feminine
-58760	
 58762	neuter
-58765	
 58767	masculine/neuter
-
-58771	
 58773	neuter
 masculine
-58778	
-
+58780	masculine
+58782	masculine
 masculine
-
-masculine
-masculine
-
-
-58789	
-
-58792	
-
-58797	
-feminine
+58798	feminine
 masculine/feminine
 58802	masculine
 masculine
-
-feminine
-
+58805	feminine
 58808	neuter
 masculine
 masculine
 58812	neuter
 58815	neuter
-
-
-58819	
-
 58822	masculine
-
-
-masculine
+58825	masculine
 feminine
 feminine
-
 58830	masculine
 masculine
-
-
-feminine
-
-58837	
-
-
+58834	feminine
 58841	masculine
-
-
-
 58846	masculine
-
-
-neuter
+58849	neuter
 58851	feminine
 58853	masculine
-58856	
 58858	neuter
 feminine
 58861	neuter
 feminine
 58864	neuter
 neuter
-
-
-
-58870	
-masculine
-58874	
+58871	masculine
 58877	neuter
-
-masculine
+58879	masculine
 masculine/feminine
-58882	
 58884	feminine
 58886	masculine
 masculine/neuter
 masculine
-
-58891	neuter
-58893	
-58896	
-58898	
-masculine
-
-neuter
+58891	feminine
+58899	masculine
+58901	neuter
 58906	neuter
 58908	feminine
-
-masculine
-
-58916	
-feminine
-58919	
-58921	
+58910	masculine
+58917	feminine
 58923	feminine
-
-masculine
-
-
+58925	masculine
 58929	feminine
 neuter
-58933	
-neuter
-
-58938	
-feminine
+58934	neuter
+58939	feminine
 masculine/neuter
-58943	
-58945	
-neuter
-58949	
-
-
-masculine
-58955	
+58946	feminine
+58952	masculine
 58958	feminine
 feminine
 feminine
-
+masculine
 58964	feminine
-
-neuter
+58966	neuter
 masculine
-58969	
-58971	
-masculine
-58974	
-masculine
-
-
-
-masculine
-
-
+58972	masculine
+58975	masculine
+58979	masculine
 58983	neuter
 58986	masculine
 masculine
 masculine
-
 58991	neuter
-58993	
-neuter
-
-58999	
+58994	neuter
 59001	masculine
-59003	
+59004	masculine
+59007	feminine
 masculine
-
-
-feminine
-masculine
-
 59011	masculine
 masculine/feminine
 masculine
-
-feminine
+59015	feminine
 59018	masculine
-
-
-
-
-59024	
-59026	
-
-
-59032	
-
 59036	masculine
 masculine/feminine/neuter
 masculine
 59040	masculine
 59042	neuter
 59044	masculine
-
 59047	neuter
 59049	masculine
 59051	neuter
-59054	
-59056	
-
-
-feminine
-
-
-
-59064	
+59059	feminine
 59067	masculine
-
-59074	
-neuter
-
+59075	neuter
 59078	neuter
-
-59081	
-
-feminine
+59083	feminine
 masculine
 neuter
 feminine
 masculine
 59089	neuter
-59091	
-
-59094	
 59096	masculine
-59099	
-59103	
-
 59106	masculine
 masculine
 masculine
-
-
-neuter
+59111	neuter
 feminine
 feminine
-
-
-
-
-
-59123	
 59125	masculine/feminine
-59127	
-
-59130	
-59132	
 59135	masculine
-59137	
-
-neuter
-59141	
+59139	neuter
 59143	feminine
-
-
 59147	masculine
 59150	masculine
-
-masculine
+59152	masculine
 59154	neuter
 masculine
-59157	
+59158	feminine
 feminine
-feminine
-59161	
-
-neuter
-
+59163	neuter
 59168	neuter
-
-
-
-
-masculine
-59175	
-neuter
+59173	masculine
+59176	neuter
 59179	feminine
-59184	
-59186	
-59190	
 59194	feminine
 masculine/neuter
-59197	
-
-59201	
 59207	masculine
-
-neuter
+59209	neuter
 masculine
 59212	masculine
-59216	
+59217	masculine
+59220	neuter
 masculine
-59219	
-neuter
+59231	feminine
+59233	neuter
 masculine
-
-
-59225	
-
-59228	
-59230	
-feminine
-
-neuter
-masculine
-
-masculine
-
-masculine
-59241	
-59244	
-masculine
+59236	masculine
+59238	masculine
+59245	masculine
 neuter
 masculine
 masculine
-
-
-
-
 59255	masculine/neuter
-
-neuter
+59257	neuter
 masculine
 masculine
 masculine
 masculine
 59264	masculine
 neuter
-
 59268	feminine
 feminine
-59273	
-neuter
+59274	neuter
 masculine
 masculine
-59278	
-
-feminine
-
-masculine
-59285	
+59280	feminine
+59282	masculine
 59289	masculine
-59292	
-
-59295	
 59300	neuter
-59302	neuter
-59304	
-
-
-59308	
-
-
-59312	
+59302	feminine
 59315	neuter
-59317	
-neuter
+59318	neuter
 59320	neuter
-59322	
-59324	
-neuter
-
-neuter
-59329	
-59331	
+59325	neuter
+59327	neuter
 59333	masculine
 59336	masculine
 masculine
 59339	masculine
-
-
-59343	
-59345	
-
-feminine
+59347	feminine
 59350	masculine
 masculine
 59353	masculine
-59357	
-neuter
-59365	
-
-59368	
-
-
-59373	
+59358	neuter
+59374	feminine
 feminine
-feminine
-
-
-
 59380	masculine
-59382	
-masculine/neuter
+59383	masculine/neuter
 neuter
-feminine
-59388	
-59391	
-feminine
-
-masculine/feminine
-
 masculine
-
-feminine
-
-
+59392	feminine
+59394	masculine/feminine
+59396	masculine
+59398	feminine
 59402	feminine
-
-
-
-masculine/feminine
-
-59409	
-feminine
+59406	masculine/feminine
+59410	feminine
 neuter
 59413	masculine
 59415	masculine
 59420	masculine
 59422	feminine
 neuter
-59426	
-
-59429	
-59431	
 59434	feminine
-
-
-
+59438	feminine
 feminine
-feminine
-
-
-masculine
-59444	
-neuter
-
-masculine
-
-masculine
+59442	masculine
+59445	neuter
+59447	masculine
+59449	masculine
 59451	masculine
-59453	
 59455	neuter
 59457	feminine
 masculine
 masculine
-59461	
-59466	
+59467	feminine
 feminine
-feminine
-
-
-
-masculine
-
-feminine
-
-59477	
-
+59472	masculine
+59474	feminine
 59480	masculine
 masculine
 masculine
-
-
-
-
+59487	masculine
 masculine
-masculine
-
-feminine
+59490	feminine
 masculine/neuter
 neuter
-
-
-59496	
-masculine
+59497	masculine
 neuter
 59500	masculine
 masculine
-
 59504	neuter
 masculine
 masculine
-59508	
-neuter
-
-masculine/feminine
-59513	
-masculine/feminine
-
-masculine
-59519	
-59522	
-masculine
-
-neuter
+59509	neuter
+59511	masculine/feminine
+59514	masculine/feminine
+59516	masculine
+59523	masculine
+59525	neuter
 masculine
 masculine/feminine
-59529	
 59531	masculine
 masculine
-59536	
-
-59541	
-neuter
-
-59547	
-59549	
-masculine
-59554	
-59557	
-
-
+59542	neuter
+59550	masculine
 59561	masculine
 masculine
-
 59565	neuter
 masculine
 masculine
-
-masculine
+59569	masculine
 masculine/feminine
 59575	feminine
 feminine
 59578	neuter
-
-neuter
-
-59583	
-
+59580	neuter
 59586	masculine
 59588	masculine
-
-
-neuter
+59591	neuter
 masculine
 masculine
 feminine
 feminine
-
-
-59600	
 59602	masculine/feminine/neuter
-
-neuter
-
-feminine
-59611	
-
-
-59616	
-59618	
-
-masculine
+59604	neuter
+59606	feminine
+59612	masculine
+59620	masculine
 59623	masculine
 masculine
-
-feminine
+59626	feminine
 59628	masculine
-59631	
-neuter
-
-masculine
-59637	
-neuter
+59632	neuter
+59634	masculine
+59638	neuter
 59640	masculine
-59642	
-59644	
-neuter
-59647	
-
+59645	neuter
+59647	masculine
 59652	masculine
 59654	feminine
-
-
-59660	
-59662	
-
-59665	
-
-59668	
-
-59672	
-
-59676	
-
-
-
-
 59684	feminine
-
-59688	
-59690	
-neuter
-59694	
-
-masculine
-
-masculine
-
-
-
-neuter
-
-neuter
+59691	neuter
+59696	masculine
+59698	masculine
+59702	neuter
+59704	neuter
 masculine
 masculine
 masculine
-
-
-
-masculine
-59713	
-
-feminine
-59718	
-
+59711	masculine
+59715	feminine
 59721	masculine
-
-neuter
+59723	neuter
 masculine
 masculine
+feminine
 neuter
-neuter
-
-59730	
-
 59734	neuter
 masculine
-
-masculine/neuter
-
-
-masculine
+59737	masculine/neuter
+59740	masculine
 59742	neuter
-
-
-masculine/neuter
-
+59745	masculine/neuter
+59747	feminine
 feminine
-feminine
-
-
-
-masculine
-59754	
-
+59752	masculine
+59755	masculine
 masculine/feminine
-
-59760	
+59760	feminine
 59762	feminine
 feminine
 feminine
-
-
 59768	neuter
-59770	
-masculine
-
-
-
-feminine
-
+59771	masculine
+59775	feminine
 59778	masculine
 feminine
 feminine
-
-
 59784	masculine
-
-
-
-
-59790	
-59792	
 59794	masculine
-59797	
-59799	
 59804	feminine
 59806	neuter
-
-59809	
-
-59813	
-59816	
-
-
 59820	masculine
-
-neuter
+59822	neuter
 masculine
 masculine
-
-
-
-
-
-
 59832	masculine
-
-neuter
+59834	neuter
 masculine
-
-
-feminine
+59838	feminine
 masculine
 59841	feminine
 feminine
 59844	feminine
 feminine
-59851	
-masculine
+59852	masculine
 59854	masculine/neuter
-
 59861	masculine
-
-59866	
-59870	
-neuter
+59871	neuter
 masculine/feminine
 masculine
 masculine
 masculine/feminine
-59879	
-masculine/feminine
-
-neuter
+59880	masculine/feminine
+59882	neuter
 masculine
 masculine
 59888	feminine
-
-59891	
 59894	masculine/feminine
 masculine
 59897	masculine
-
-59901	
-59903	
-masculine
+59904	masculine
 masculine/feminine
-59908	
-59910	
-
-
-
-feminine
+59914	feminine
 59916	masculine
-59918	
-masculine
+59919	masculine
 59921	neuter
 59923	neuter
-
-
-
-59929	
-
+59931	masculine
+59935	masculine
 masculine
-59934	
-masculine
-masculine
-
-neuter
+59938	neuter
 59940	neuter
-
-59943	
-
-
-
-feminine
+59947	feminine
 59949	masculine
-59951	
-masculine
-
+59952	masculine
 59955	masculine
-neuter
+feminine
 neuter
 59959	feminine
-
+59961	feminine
 feminine
-feminine
-
-
-masculine
-59967	
-masculine
+59965	masculine
+59968	masculine
 neuter
 59971	neuter
-
-
-59975	
 59977	masculine/feminine
-59979	
-
-
 59987	masculine
 neuter
-
-
-
-
 59994	masculine
-59996	
-
 59999	masculine
-60001	
-
 60004	masculine
 neuter
-
-60008	
-
 60011	masculine
-
-
-masculine
-
+60014	masculine
 60017	feminine
 feminine
 feminine
 feminine
-
-masculine
-
+60022	masculine
 60028	neuter
-
-
-
 60034	feminine
-
 60041	feminine
 masculine
 masculine
-60045	
-masculine
-60048	
-
-
-60052	feminine
-
-60055	
-60057	
-60059	
-
-60062	
-
-60065	
-
-feminine
+60046	masculine
+60052	masculine
+60067	feminine
 masculine/feminine
 60071	feminine
 60073	masculine
 60075	masculine
-60079	
-60082	
-60084	
-
-
-60089	
-
-feminine
-
-feminine
-60096	
-
-
-
-feminine
+60091	feminine
+60093	feminine
+60100	feminine
 masculine
-60104	
+60105	masculine
 masculine
-masculine
-
-
-masculine
-
-feminine
+60109	masculine
+60111	feminine
 feminine
 masculine
 60115	masculine
@@ -35778,933 +18342,409 @@ feminine
 masculine
 60122	masculine
 60124	masculine
-60127	
-
 60130	masculine
 masculine
-
-60135	
+60136	neuter
 neuter
-neuter
-
-neuter
+60139	neuter
 masculine
-
-masculine
+60142	masculine
 60144	masculine
 60146	neuter
-
-
-masculine/feminine
-60151	
-masculine
-60154	
-
-60157	
-masculine
-60160	
-neuter
+60149	masculine/feminine
+60152	masculine
+60158	masculine
+60161	neuter
 masculine
 masculine/feminine
-
 60168	masculine
-
 60171	masculine
 60173	masculine
-
 60181	feminine
 60183	neuter
-
+60185	masculine
 masculine
 masculine
-masculine
-60190	
-masculine
-
-
+60191	masculine
 60195	masculine
 60197	neuter
-
-
-60202	
-
 60207	feminine
-60209	
-60211	
-masculine
+60212	masculine
 masculine
 60219	masculine
 masculine
-
-masculine
-60224	
-
+60222	masculine
 60227	masculine
 60229	feminine
-
-masculine
-60233	
-feminine
+60231	masculine
+60234	feminine
 masculine
 neuter
-
-
-
-feminine
-60242	
-
-60245	
-
-
-
+60240	feminine
 60250	masculine
-60252	
-
-
-
-masculine
+60256	masculine
 60258	feminine
 feminine
 feminine
-60264	
-
-
-
-
 60272	feminine
-
-60277	
-
-60283	
-masculine
+60284	masculine
 60287	masculine
-60292	
-60295	
 60297	feminine
-
 60300	feminine
-
 60303	feminine
 60306	masculine
-
-
-masculine
-60311	
-masculine
-
-
-60317	
+60309	masculine
+60312	masculine
 60319	masculine
-60321	
-
 60329	masculine
-60332	
-
-
-60336	
-
-feminine
+60338	feminine
 60340	feminine
 60343	masculine
 60345	masculine
 masculine
-60349	masculine
-60351	
+60349	neuter
+60352	masculine
 masculine
 masculine
 masculine
-masculine
-
-60359	masculine
+60359	neuter
 60361	masculine
 masculine
-
-60365	
-masculine
+60366	masculine
 neuter
-
-neuter
-60371	
-
-neuter
+60369	neuter
+60373	feminine
 60376	neuter
-60378	
-
-
+60381	masculine
 masculine
-masculine
-
-
-60388	
-masculine
+60389	masculine
 masculine
 60393	masculine
 masculine
 masculine
-
-
-
-
-60401	feminine
+60401	masculine
 60403	masculine
 masculine
-
-masculine
-
-
-
-feminine
+60406	masculine
+60410	feminine
 60413	neuter
 60415	masculine
 masculine
-
+60418	masculine
 masculine
-masculine
-
-neuter
-60423	
-masculine
-60426	
+60421	neuter
+60424	masculine
 60428	masculine/neuter
-
-
 60433	masculine
 masculine
 masculine/feminine
-
-
-masculine
-60440	
-
+60438	masculine
 60447	masculine/neuter
 feminine
-60450	
 60453	masculine/neuter
 60456	masculine
-60458	
-masculine
+60459	masculine
 60461	neuter
 60463	masculine
-
-
-
+60467	masculine
 masculine
 masculine
-masculine
-
-60473	
-
-neuter
+60475	neuter
 60477	masculine
 60479	masculine
-
-masculine
-60486	
-masculine
-60489	
+60481	masculine
+60487	masculine
 60491	masculine
 60493	masculine
 feminine
-60496	
-
-
-
-
-
-masculine
+60502	masculine
 feminine
 feminine
 masculine
-
-60508	
-
-
-masculine
-60513	
-
+60511	masculine
 60516	masculine
 feminine
 feminine
-60521	
-neuter
-
-
-
-feminine
-60528	
-
+60522	neuter
+60526	feminine
+60530	feminine
 feminine
 feminine
-feminine
-
-
-
 60538	feminine
 feminine
 feminine
 60544	feminine
 masculine
 feminine
-
-
-
 60553	feminine
 neuter
-60556	
-60558	
-
-masculine/feminine
+60560	masculine/feminine
 60562	neuter
 neuter
-
-
-feminine
+60566	feminine
 feminine
 neuter
-60570	
+60571	masculine
+60573	masculine
+60575	masculine
+60581	feminine
 masculine
-
+60584	masculine
 masculine
-
-masculine
-
-60578	
-60580	
-feminine
-masculine
-
-masculine
-masculine
-
 60588	neuter
-
-neuter
+60590	neuter
 masculine
 masculine
 feminine
-60596	
-
-masculine
+60598	masculine
 neuter
-60601	
-
 60604	masculine
-60606	
-
-60610	
-60612	
-
-feminine
+60614	feminine
 60617	feminine
-
-60620	
 60622	masculine
 60625	masculine
 masculine
 feminine
-
-
-masculine
+60630	masculine
 neuter
-
-
-60636	
-
 60639	masculine
-
-
-feminine
-60644	
-
-
-60648	
-masculine
+60642	feminine
+60649	masculine
 60651	feminine
-
-
-
-masculine
+60655	masculine
 neuter
 feminine
-
-
-
-
-
-
-masculine
-60666	
+60664	masculine
 60668	masculine
-
-
-60672	
-
-
-
-
-60678	
-
-feminine
-
-
-
-neuter
-60686	
-feminine
+60680	feminine
+60684	feminine
+60687	feminine
 masculine
-60690	
-
-
-masculine/feminine
-
-
-
-
+60693	masculine/feminine
 60699	masculine
-60701	
-masculine/neuter
+60702	masculine/neuter
 neuter
-
-masculine
+60705	masculine
 60708	feminine
-
-
 60713	masculine
 60717	neuter
-
-
-feminine
+60720	feminine
 masculine
-
-
+60724	feminine
 feminine
-neuter
-60727	
-masculine
-
-
-
+60728	masculine
 60733	neuter
-60735	
-masculine
-
+60736	masculine
 60740	neuter
 feminine
-
 60746	masculine/neuter
-
-masculine/neuter
-
+60748	masculine/neuter
 60751	feminine
 neuter
 masculine
 masculine
 neuter
 60759	masculine
-
-
-neuter
+60762	neuter
 60764	masculine
-
-
+60767	neuter
 neuter
-neuter
-60771	
-feminine
-
+60772	feminine
 60782	masculine
 60786	masculine
-60788	
 60790	masculine
 60792	masculine
-
-
-masculine
+60795	masculine
 neuter
-60798	
 60801	feminine
-60803	
-masculine
+60804	masculine
 60806	neuter
-
-
-
-
-
 60816	feminine
 masculine
-
-
-60821	
-60823	
-
-masculine/neuter
-60829	
-
+60825	masculine/neuter
 60834	masculine/neuter
-
-feminine
-60838	
-
-masculine
-
-60843	
-feminine
+60836	feminine
+60840	masculine
+60844	feminine
 60847	feminine
-
 60850	masculine
-
-feminine
-
-feminine
-60856	
-neuter
+60852	feminine
+60854	feminine
+60857	neuter
 60859	feminine
-
-
-
-60866	feminine
+60866	masculine
 masculine
-
-feminine
-60871	
-
-60874	
-feminine
+60869	feminine
+60875	feminine
 feminine
 feminine
 60879	feminine
-
-
-
-
-feminine
-60886	
-
-60889	
-
-
+60884	feminine
 60893	feminine
-60897	
 60900	neuter
-60904	
-feminine
-
-60908	
-
-60911	
-feminine
-60914	
-feminine
-
-
-feminine
+60905	feminine
+60912	feminine
+60915	feminine
+60918	feminine
 60920	feminine
-60922	
 60924	feminine
-
-
-
-
-
-
-
-masculine
+60932	masculine
 60934	masculine
-
-masculine
-60938	
-masculine
-
+60936	masculine
+60939	masculine
 60942	feminine
 masculine
-60946	
 60949	feminine
-60953	
-60956	
-feminine
-60959	
-60962	
-60964	
-feminine
-60967	
-
-masculine/neuter
-
+60957	feminine
+60965	feminine
+60969	masculine/neuter
+60971	masculine
+60988	masculine
 masculine
-
-60975	
-60979	
-60982	
-60984	
-60987	
-masculine
-masculine
-
-
 60995	feminine
-
-
-
-61000	
-
-61006	
 61011	feminine
-
-feminine
-
+61013	feminine
 61016	feminine
-
-
-61020	
+feminine
 61022	neuter
 61024	feminine
-
-
 61028	neuter
 feminine
-
-
 61033	masculine
-
-
-
-
-
-61041	
-
-masculine
+61043	masculine
 feminine
-
-masculine
+61046	masculine
 61048	feminine
-61050	neuter
-61052	
-
-
-
-
-
-61059	
-
-masculine
-61064	
+61050	feminine
+61061	masculine
 61068	masculine
-61072	
-61074	
-feminine
+61075	feminine
 masculine/neuter
 neuter
 61080	neuter
 61083	masculine
-
-masculine/feminine
+61085	masculine/feminine
 masculine
-61088	
-
 61093	masculine
-61098	
-
-61103	
 61106	neuter
 61108	masculine
-
 61111	masculine
-
-
-neuter
-
+61114	neuter
 61117	masculine
-
-
-61121	
-61123	
-neuter
-
-61127	
+61124	neuter
 61129	neuter
-
-
-masculine
-61134	
-
+61132	masculine
 61139	masculine
 61143	feminine
 feminine
-
-
-
-61150	
 61152	masculine
-61155	
 61159	feminine
-
-feminine
-
-feminine
+61161	feminine
+61163	feminine
 61165	feminine
-61168	
-
-
-
-
+61173	feminine
 feminine
-feminine
-61178	
 61180	neuter
-61182	
-61185	neuter
+61185	feminine
 61187	feminine
-
-61191	
-61199	
-
-61203	
-feminine
-61206	
-feminine
+61204	feminine
+61207	feminine
 feminine
 feminine
 61212	feminine
 feminine
-61215	
 61217	feminine
-61219	
-feminine
-
-feminine
+61220	feminine
+61222	feminine
 masculine
-
-
 61227	feminine
 feminine
-
-
-
-neuter
-
-61236	
-
-
-
+61232	neuter
 61241	masculine
-
-61244	
-61247	
-
+masculine
 61250	masculine
-
-61254	
-feminine
+61255	feminine
 feminine
 feminine
 61260	feminine
-
-
-61264	
 61266	feminine
-
-61269	
-
-
-
-
-feminine
-
-
-61278	
-
-
-feminine
-
-feminine
-
-
+61274	feminine
+61281	feminine
+61283	feminine
 61287	masculine
-61290	
-
-
-
-
-
-61298	
-feminine
+61299	feminine
 61302	masculine
-61304	
-feminine
-
+61305	feminine
 61308	masculine
-61312	
-
-
-
-neuter
-
-
-
-
-61324	
+61316	neuter
 61336	masculine/neuter
 masculine
 masculine
 neuter
-
-61342	
-feminine
-
+61343	feminine
 61346	feminine
 feminine
-
-61350	
-
-
+61353	masculine
+61356	feminine
+61359	masculine/feminine
+61363	neuter
+61367	neuter
+61370	neuter
 masculine
-61355	
-feminine
-
-
-masculine/feminine
-
-
-
-neuter
-
-
-
-neuter
-61369	
-neuter
-masculine
-61373	
-
 61376	feminine
-61378	
-
-
-61382	
-neuter
+61383	neuter
 neuter
 masculine
 neuter
-
-61389	
-
-61392	
-masculine
+61393	masculine
 61396	masculine/neuter
 61398	feminine
-61400	
-
-
-masculine
-
-
-
-
-61410	
-
-
-
+61403	masculine
 61417	feminine
 61419	masculine
-61421	
 61424	neuter
-
-61428	
-masculine
-
-feminine
+61429	masculine
+61431	feminine
 feminine
 masculine
-
-61437	
+61438	masculine
 masculine
-masculine
-
-
 61444	neuter
 feminine
 feminine
-61448	
-masculine
+61449	neuter
 masculine
 61452	neuter
-
-neuter
+61454	neuter
 feminine
 masculine
 61460	feminine
 masculine
 feminine
-
-61465	
 61467	neuter
 neuter
 neuter
 61471	neuter
 masculine
 61474	masculine
-
-
-61478	
 61480	feminine
 61482	neuter
-
-masculine
-61487	
-
+61484	masculine
 61491	masculine
 61494	masculine
-
-masculine
-
+61496	masculine
+61498	feminine
+61522	masculine
+61533	masculine
 feminine
-
-
-61502	
-61506	
-
-61509	
-61511	
-61517	
-
-
-
-
-masculine
-61528	
-61532	
-masculine
-feminine
-61537	
-masculine/neuter
-
-
-neuter
+61538	masculine/neuter
+61541	neuter
 61543	neuter
 61547	neuter
-61550	
-61554	
-
-masculine/neuter
-
-61560	
+61556	masculine/neuter
 61563	masculine
-
-
-neuter
-
-
-
-
-
-
-
-
-feminine
-61578	
-
-
+61566	neuter
+61575	feminine
 61582	neuter
 feminine
 masculine
@@ -36712,242 +18752,100 @@ neuter
 61588	neuter
 neuter
 feminine
-61593	
-neuter
-61597	
-
-
-61603	
-
-61606	
-masculine
-61609	
+61594	neuter
+61607	masculine
 61611	masculine
 61613	masculine
-61615	
-
-61618	
-61622	
-feminine
-
-61627	
+61623	feminine
 61630	neuter
-
-
-61634	
-
-61637	
-61642	
-61645	
-neuter
-61648	
-masculine
+61646	neuter
+61649	masculine
 masculine
 masculine
 61653	feminine
-
-feminine
+61655	feminine
 neuter
-61661	
 61664	feminine
-
-
-
-61669	
 61672	feminine
-61674	
-61676	
-neuter
-
+61677	neuter
 61680	neuter
-61683	
 61685	masculine
-61689	
-
-
-
-
-
-61696	
-
-
-
-
-
-
-
-
-
-61707	
-
-
-61711	
-61714	
-
-masculine/neuter
-
-
-
-
-
-61723	
-
-
-
-
-
-masculine
-61731	
-
-feminine
+61716	masculine/neuter
+61729	masculine
+61733	feminine
 masculine
 61736	masculine
 61738	feminine
 61741	masculine
 masculine
-
 61746	masculine
-
-61749	
-61753	
-neuter
-
-
-neuter
-
-feminine
-61763	
-feminine
-
-
-61769	
-neuter
-
-61773	
-feminine
-
-neuter
-
-
-neuter
-
+61754	neuter
+61757	neuter
+61759	feminine
+61764	feminine
+61770	neuter
+61774	feminine
+61776	feminine
+61779	neuter
+61781	masculine
+61785	feminine
+61790	masculine
 masculine
-
-61784	
+61798	masculine/feminine
 feminine
-61789	
-masculine
-masculine
-
-
-
-61797	
-masculine/feminine
-feminine
-
-masculine
-61803	
-
+61801	masculine
 61807	masculine
 masculine
 61810	feminine
 61815	neuter
-
-feminine
-
-61821	
-
-
-neuter
-61827	
-masculine
-
-feminine
-61832	
-
-
-
-masculine
-61838	
+61817	feminine
+61824	neuter
+61828	masculine
+61830	feminine
+61836	masculine
 61841	masculine
 61846	masculine
 61849	masculine
-61852	
-
-61855	
-
 61858	feminine
 61860	masculine/neuter
-
 61864	feminine
-61866	
-61870	
 61874	masculine
-
 61877	masculine/feminine
 61879	masculine
-61881	
-
-61884	
-61886	
-
-61891	
 61894	masculine
 61897	neuter
-61899	
-
-61902	
-
-feminine
-
-61909	
-neuter
+61904	feminine
+61910	neuter
 61912	masculine
-
-neuter
+61914	neuter
 feminine
 masculine
 masculine
-
-masculine/feminine
+61919	masculine/feminine
 61921	feminine
 neuter
-
-
-masculine/feminine/neuter
+61925	masculine/feminine/neuter
 feminine
 neuter
-61929	
-61931	
-neuter
-
+61932	neuter
 61936	masculine
 masculine
 neuter
 61942	masculine
 masculine
-
-61948	
-61950	
-masculine
-
-
-feminine
+61951	masculine
+61954	feminine
 masculine/neuter
 neuter
 masculine
 61959	masculine
 feminine
 61962	feminine
-61964	
-feminine
+61965	feminine
 masculine
-61968	
-feminine
+61969	feminine
 61971	masculine
-61973	
-
-feminine
+61975	feminine
 61977	feminine
 61979	feminine
 masculine
@@ -36955,504 +18853,242 @@ masculine
 masculine
 neuter
 feminine
-61988	
-61990	
+61991	neuter
 neuter
-neuter
-
-
-neuter
+61995	neuter
 61998	masculine
-
-neuter
-
-
+62000	neuter
 62006	masculine
 masculine
-
 62011	neuter
-
-62014	
-neuter
-
-
-62019	
-neuter
-
+62015	neuter
+62020	neuter
 62023	neuter
-
-62027	
 62029	neuter
-
-masculine
-62033	
+62031	masculine
 62036	masculine
-
-masculine
-
-
-
-
-
-
+62038	masculine
 62046	masculine
-
-
-62050	
-
 62053	masculine
 62055	neuter
-
-
-62061	
-62063	
-neuter
+62064	neuter
 neuter
 masculine
 62068	masculine
-
-feminine
-62074	
-62076	
-masculine
+62070	feminine
+62077	masculine
 masculine
 62081	neuter
 62085	masculine
-
-62088	
-
-masculine
-62092	
+62090	masculine
 62094	masculine
 masculine
-
-masculine
-
+62097	masculine
 62100	feminine
-
-62105	
-masculine
-
+62106	masculine
 62109	masculine
-62111	
-masculine
-
-62115	
+62112	masculine
 62117	feminine
 62119	masculine
 62122	masculine
 masculine
 feminine
 feminine
-
-62130	
-62133	
 62136	neuter
-
-62140	
-62143	
-masculine
-
-
-neuter
-
+62144	masculine
+62147	neuter
 62151	masculine
 masculine
-62154	
-
-
-neuter
-62160	
-
-62165	
-masculine
+62157	neuter
+62166	masculine
 masculine
 masculine
 62171	feminine
 masculine
 62174	feminine
-62176	
-62178	
-masculine
-62181	
-
-masculine
-
-62186	
-
-masculine
+62179	masculine
+62183	masculine
+62188	masculine
 masculine
 62191	masculine
-62194	
-feminine
-
-
+62195	feminine
 62199	masculine
 feminine
 masculine
 62203	masculine
-62205	
-masculine
-62208	
-
+62206	masculine
 62214	masculine
-
-62217	
-masculine
+62218	masculine
 feminine
 62221	feminine
-62223	
-62226	
-feminine
+62223	feminine
+62227	feminine
 masculine/neuter
-
-
-feminine
-62233	
-62235	
-
+62231	feminine
 62239	masculine
 masculine
 62242	masculine
 masculine
 feminine
-62246	
-62248	
-62251	
 62254	masculine
 masculine
 62257	neuter
 62261	masculine
 62263	masculine
-
-62267	
-feminine
+62268	feminine
 masculine/neuter
 neuter
-62272	
 62275	neuter
-
-neuter
+62277	neuter
 masculine
-
-feminine
-62282	
-62284	
-62287	
-masculine
-62290	
-
-masculine/neuter
+62280	feminine
+62288	masculine
+62292	masculine/neuter
 62295	masculine
-
-62299	
 62303	neuter
-62305	
-masculine
+62306	masculine
 62309	neuter
 62311	neuter
-
-62314	
-neuter
-
-
-feminine
+62315	neuter
+62318	feminine
 62320	neuter
 62322	masculine
 62324	feminine
 masculine
-62328	
+62329	masculine
 masculine
+62334	masculine
+62336	neuter
 masculine
-62332	
-
-masculine
-
-neuter
-masculine
-
-
+62339	masculine
 62341	masculine
-
-
-
-
 62347	masculine
 neuter
-62350	
-
 62354	masculine
 feminine
 neuter
-62361	
 62363	masculine
 masculine
-62368	
 62370	neuter
-
-62374	
 feminine
+62375	feminine
 masculine/neuter
 neuter
-
-62382	
-
-
-
+62386	masculine
+62388	feminine
 masculine
-
-feminine
-masculine
-
-masculine
+62391	masculine
 masculine/feminine
-
-masculine/feminine
+62394	masculine/feminine
 62396	masculine
-62399	
-
-
-
-
-
 62407	neuter
 62411	masculine
-62413	
 62416	masculine/neuter
-62420	
-
-62423	
-62426	
-62428	
-62431	
-
-
-62436	
-masculine
-62439	
-masculine
-62443	
+62437	masculine
+62440	masculine
 62445	masculine
-62447	
-62451	
-neuter
+62452	neuter
 feminine
-
-
-feminine
-62458	
-62460	
-neuter
-
-masculine
-
+62456	feminine
+62461	neuter
+62463	masculine
 62466	masculine
 masculine
-
-
-
-62473	
 62475	neuter
 masculine
-62478	
-62482	
 62484	masculine
 feminine
-
-62488	
-neuter
+62489	neuter
 masculine
-
-masculine/feminine
-
-62495	
-neuter
-
-masculine
-62500	
-masculine
+62492	masculine/feminine
+62496	neuter
+62498	masculine
+62501	masculine
 62503	neuter
-
 62506	masculine/neuter
-
-62510	
-62513	
 62516	masculine
-62523	
-neuter
-62526	
-masculine
+62524	neuter
+62527	masculine
 masculine
 feminine
 feminine
-
-masculine
+62532	masculine
 62534	neuter
-62537	
-
-
-
-
-
-masculine/neuter
-
-masculine
+62543	masculine/neuter
+62545	masculine
 62547	feminine
-
-62550	
 62554	neuter
 62556	masculine
 masculine
-62559	
-masculine
+62560	masculine
 neuter
 masculine
-
-masculine
-
+62564	masculine
+62566	feminine
+feminine
+62581	feminine
 feminine
 feminine
-
-
-62571	
-
-
-62575	
-
-
-
-62580	
-feminine
-feminine
-feminine
-
+62585	masculine
 masculine
-masculine
-
-masculine
-
-62591	
-masculine
-62595	
+62588	masculine
+62592	masculine
 62598	feminine
 feminine
 feminine
-
-
-62605	
 62607	neuter
 masculine
-62610	
+62611	masculine
+62615	masculine
 masculine
-
-62614	
-masculine
-masculine
-62618	
-
-masculine
-
-
-
-62627	
-62630	
-62633	
-
-
-feminine
+62620	masculine
+62636	feminine
 62638	masculine
-
-
 62642	feminine
-
-masculine
-62646	
-
-neuter
+62644	masculine
+62648	neuter
 masculine
 62651	neuter
 62653	feminine
 masculine
 62656	masculine
-62658	
-62663	
-neuter
-
-feminine
-
-
-neuter
+62664	neuter
+62666	feminine
+62669	neuter
 masculine/feminine
 62673	feminine
-
-
-neuter
-
-
-
-
-62682	
-62684	
-
+62676	neuter
 62687	feminine
 feminine
 feminine
 62693	masculine
-
-62696	
-62699	
+feminine
 62701	masculine
 62703	masculine
-
-62706	
-masculine
+62707	masculine
 62714	masculine
 masculine
-62718	
-masculine
+62719	masculine
 62721	neuter
-
 62726	masculine
-
-62730	
-62734	
-
-masculine
+62736	masculine
 masculine
 feminine
 feminine
 62742	neuter
 62744	masculine
-
-62747	
-masculine
-62751	
-neuter
-
-
-
-62757	
-
-
-
-feminine
+62748	masculine
+62752	neuter
+62761	feminine
 masculine/feminine
-
-
-neuter
-
+62765	neuter
 62768	masculine
 masculine
-
-masculine
+62771	masculine
 62773	neuter
 62777	masculine
-62780	
-neuter
-
-masculine
-62785	
-62787	
+62781	neuter
+62783	masculine
 62789	masculine
 masculine
 62792	masculine
@@ -37460,229 +19096,121 @@ masculine
 62795	masculine
 masculine
 masculine
-
-neuter
+62799	neuter
 masculine
-62802	
-62806	
-
-62809	
-
-
-neuter
+62812	neuter
 masculine/feminine
-
-neuter
+62815	neuter
 masculine
-
 62819	masculine
-
-62822	
 62824	masculine
-
-62827	
 62829	neuter
-62831	
-
 62835	masculine
-62840	
-62843	
-
-62849	
-
-masculine
-neuter
-
+62840	masculine
+62851	masculine
 62855	masculine
 62857	masculine
 feminine
-
 62861	neuter
-
 62864	neuter
 masculine
 62867	masculine
-
-
-
-
-
-feminine
-
-
-
+62873	feminine
 62878	feminine
-
-
-
-
-masculine
-
+62883	masculine
 62886	feminine
 62888	masculine/neuter
 feminine
-
-masculine
-
-masculine
-
-62896	neuter
+62891	masculine
+62893	masculine
+62896	feminine
 62898	masculine
 masculine
-62901	
-neuter
+62902	neuter
 feminine
-
-
 62907	masculine
-62910	
 62912	masculine
-62914	
 62916	masculine
 masculine
-62920	
-
-neuter
-
+62922	neuter
 62926	masculine
 62929	masculine
-
-
 62933	masculine
-62936	
-feminine
-
-62941	
-62946	
-62948	
+62937	feminine
 62950	neuter
 masculine/feminine
-62955	
-62958	
 62960	feminine
-
-
-feminine
-62965	
-62967	
-
-masculine
+62963	feminine
+62969	masculine
 masculine
 feminine
-62975	
-
-masculine
-62979	
-neuter
+62977	masculine
+62980	neuter
 masculine
 62984	feminine
 feminine
-
-
+62988	masculine
 masculine
+62994	masculine
 masculine
-
-
-62993	
-masculine
-masculine
-
 63000	neuter
-
-63003	
 63009	neuter
-63012	
-
 63015	neuter
 neuter
 63018	masculine
-
 63024	feminine
 63027	neuter
-
 63033	masculine
 63041	masculine
-63045	
-
-
-
 63050	masculine
 63052	masculine
 masculine
 masculine
 masculine
 feminine
-63063	
+63064	feminine
 feminine
-feminine
-
-63068	
+63069	masculine
+63075	masculine
 masculine
-63074	
-masculine
-masculine
-63078	
-masculine
-63083	
-63085	
+63079	masculine
 63087	masculine
 masculine
 feminine
 feminine
-
-
-masculine
+feminine
+63093	masculine
 masculine
 feminine
 feminine
-63098	
-63100	
-masculine
-
+63101	masculine
+63103	feminine
 feminine
-feminine
-
-masculine
+63106	masculine
 63108	masculine
 63111	masculine
 63113	masculine
-
-feminine
-63118	
-neuter
+63115	feminine
+63119	neuter
 63121	neuter
-63123	
 63125	neuter
 63131	feminine
-
 63134	masculine
-63137	
-feminine
+63138	feminine
 63140	masculine/neuter
 63142	masculine/neuter
-
-63147	
-63150	
-63152	
-neuter
-
-63156	
-feminine
+63147	feminine
+63153	neuter
+63157	feminine
 neuter
 63161	neuter
 63163	masculine
 neuter
-63166	
 63169	masculine
-
 63172	masculine
 63175	masculine
 feminine
-
-63180	
-
-63183	
-masculine
+63184	masculine
 feminine
 feminine
 neuter
@@ -37691,7 +19219,6 @@ neuter
 neuter
 feminine
 feminine
-
 63199	feminine
 feminine
 63202	masculine
@@ -37699,359 +19226,184 @@ feminine
 63209	feminine
 neuter
 neuter
-63213	
-
-feminine
-63217	
+63215	feminine
+63218	masculine
 masculine
-masculine
-
-63222	
-
+63224	feminine
+63226	feminine
 feminine
-
-feminine
-feminine
-
 63233	feminine
-
-masculine
+63235	masculine
 feminine
-63238	
+63239	neuter
 neuter
-neuter
-
 63243	masculine
 masculine
 masculine
-
-neuter
+63247	neuter
 masculine
-63250	
 63252	feminine
 neuter
-
-
-63257	
-masculine/neuter
+63258	masculine/neuter
 masculine
 63262	neuter
-
-masculine/neuter
+63264	masculine/neuter
 feminine
 63268	neuter
-
-63271	
-63273	
 63276	masculine
 masculine
-
-63281	
 63287	masculine
-63289	
-
-63292	
-
-masculine
-
-
-
-
-neuter
-63301	
-
-63304	
+63294	masculine
+63299	neuter
 63306	feminine
 feminine
 feminine
 masculine
-
-63312	
-63315	
-
+63317	neuter
 neuter
 neuter
-neuter
-63321	
-
 63324	masculine
 masculine
-63327	
 63329	masculine/neuter
-
+63331	neuter
 neuter
-neuter
-63334	
-
-
 63338	neuter
-
-63344	
-
-neuter
+63346	neuter
 63348	neuter
-
-
-neuter
+63351	neuter
 neuter
 neuter
 63355	masculine
 feminine
-63358	
-neuter
+63359	neuter
 63361	feminine
-
-63364	
-
+63365	masculine
 feminine
 63370	masculine
-63372	
 63375	neuter
 63377	feminine
 feminine
-63382	
-masculine/feminine/neuter
-
-
+63383	masculine/feminine/neuter
 63391	feminine
-
-feminine
+63393	feminine
 neuter
-63397	
 63399	neuter
 63402	feminine
 neuter
-
-63406	
-neuter
-
-
+63407	neuter
 63411	feminine
-
-63416	
-63418	
-feminine
-
-masculine
-63424	neuter
+63419	feminine
+63421	masculine
+63424	feminine
 63427	feminine
 feminine
-
-
-63433	
-masculine
+63434	masculine
 63437	masculine
-63439	
 63445	neuter
-
 63449	masculine
 masculine
 63456	masculine
 63458	neuter
 feminine
-63461	
-
-feminine
-
-
-63469	
+63463	feminine
 masculine
-63472	
-63475	
-feminine
+63470	masculine
+63476	feminine
 neuter
-63482	
-63484	
-63486	
-
-
-63490	
-63493	
-
 63496	neuter
 masculine
-
-63502	
-63504	
-63506	neuter
+63506	feminine
 63509	feminine
 feminine
-
-63513	
 63515	neuter
-63519	
 63522	feminine
 63524	feminine
 feminine
-63528	
-feminine
-63532	
+63529	feminine
 63534	neuter
-63536	
 63539	neuter
-
-
-neuter
-
+63542	neuter
 63549	masculine
 63554	feminine
 neuter
-
+63557	masculine
 masculine
-masculine
-63560	
-neuter
-
+63561	neuter
 63564	masculine
-
-
-neuter
-63569	
-
-
-63574	
+63567	neuter
 63576	masculine
 masculine
 63579	masculine
 63581	feminine
-63583	
-
 63586	neuter
-
 63589	masculine
-63591	
 63593	masculine
 63595	feminine
-
-masculine/feminine
-
-masculine
-63601	
-masculine
-
+63597	masculine/feminine
+63599	masculine
+63602	masculine
 63605	neuter
-63607	
-
-feminine
+63609	feminine
 neuter
-63612	
-63614	
 63618	masculine
 masculine
 masculine/feminine/neuter
 neuter
-63623	
-
 63626	neuter
-63628	
-neuter
+63629	neuter
 63631	feminine
 63635	masculine
-
-
 63640	neuter
-
-
-feminine
+63643	feminine
 63645	masculine
-
 63648	masculine
-
-neuter
-63652	
-63654	
+63650	neuter
 63656	masculine
 63658	feminine
 masculine
 63661	masculine
-
 63664	neuter
-63666	
 63673	neuter
-
-
-63677	
-masculine
-63680	
+63678	masculine
 63685	masculine
 masculine
 feminine
-63691	
-neuter
-
-feminine
-
-63697	
-63699	
+63692	neuter
+63694	feminine
 63701	neuter
-63703	
-63706	
-masculine/neuter
+63707	masculine/neuter
 masculine
 neuter
-63711	
 63714	neuter
 63717	masculine
-63719	
-63722	
-masculine
+63723	masculine
 63725	masculine/neuter
 63729	neuter
-
-
-neuter
-
-
+63732	neuter
 63736	masculine
 masculine
-63739	
-
-
 63744	feminine
 feminine
-
-
-neuter
-
-63751	
+63748	neuter
 63754	neuter
-63756	
-63758	
-masculine
-63761	
+63759	masculine
 63763	masculine
 63765	neuter
-
-neuter
-
+63767	neuter
 63770	feminine
-
+63772	masculine
+63776	neuter
 masculine
-63775	
-neuter
-masculine
-
-63782	
-63784	
 63787	masculine
-63789	
-
 63792	masculine
 63794	feminine
-63796	
-neuter
+63797	neuter
 63800	masculine
-
-63803	
 63805	masculine
-
+feminine
 masculine
-
-63815	
 63820	masculine
-63822	
-neuter
-
+63823	neuter
 63828	masculine
 63831	feminine
 63833	neuter
@@ -38061,34 +19413,23 @@ feminine
 63840	feminine
 63842	feminine
 63844	feminine
-
 63848	masculine
 63850	feminine
-
 63855	feminine
-
+63857	feminine
 feminine
-feminine
-
 63863	masculine/neuter
-
-masculine/neuter
-63867	
+63865	masculine/neuter
+63868	masculine
 masculine
-masculine
-neuter
+feminine
 63873	masculine/neuter
 feminine
-
+63876	masculine
 masculine
-masculine
-63879	
-
 63882	masculine
-63884	
-neuter
+63885	neuter
 feminine
-
 63890	masculine
 63893	feminine
 feminine
@@ -38097,82 +19438,49 @@ neuter
 63901	masculine
 masculine
 63905	masculine
-
 63908	neuter
 masculine
 masculine
 63912	feminine
-
-63915	
 63917	masculine
 63919	masculine
-
-feminine
+63921	feminine
 63924	masculine
-63927	
-neuter
-
+63928	neuter
 63931	masculine
-
-
-
+63935	feminine
 feminine
-feminine
-
-neuter
-
-
-
+63938	neuter
 63943	masculine
 63945	masculine
-
+63947	feminine
 feminine
-feminine
 masculine
 masculine
 masculine
-
-
 63955	neuter
-
-
-masculine
-
+63958	masculine
 63961	neuter
 masculine
-
-masculine
+63964	masculine
 63967	masculine
 masculine
-63970	
-neuter
+63971	neuter
 masculine
 masculine
-
-
 63978	neuter
 63980	neuter
 feminine
-
-63984	
 63987	masculine
-
 63991	feminine
-
-63994	
-masculine
+63995	masculine
 63997	feminine
-
 64000	feminine
 neuter
-
-masculine
-
-masculine
+64003	masculine
+64005	masculine
 64007	feminine
-64010	
-
-masculine
+64012	masculine
 masculine
 neuter
 64016	masculine
@@ -38180,568 +19488,317 @@ neuter
 64020	masculine
 masculine
 masculine/neuter
-
-masculine/neuter
-64026	
-
+64024	masculine/neuter
 64029	masculine
-64031	
-feminine
-
-64035	
-
-masculine
-
-64041	
-64044	
-feminine
+64032	feminine
+64037	masculine
+64045	feminine
 feminine
 masculine
-64049	
 64051	feminine
-
-64054	
-
 64057	feminine
 masculine
 64060	masculine
-
-64063	
-masculine
-
-masculine
-64068	
-neuter
+64064	masculine
+64066	masculine
+64069	neuter
 masculine
 masculine
 masculine
 64074	masculine
 64076	masculine
-
-neuter
+64078	neuter
 masculine
 masculine
-
 64085	masculine/feminine
 masculine
 masculine
 64091	feminine
-64095	
-feminine
-
+64096	feminine
+64098	masculine
 masculine
-masculine
-
+masculine/feminine
 feminine
 masculine/neuter
 neuter
-
 64106	feminine
-
-
 64110	neuter
 feminine
-64114	
-64116	
-masculine
+64117	masculine
 64119	masculine
 masculine
 masculine
 masculine
-
-neuter
-64126	
+64124	neuter
 64128	feminine
-
-
-
 64133	neuter
-
-feminine
+64135	feminine
 64139	masculine
 64141	feminine
-
 64144	masculine
-64150	
-
-masculine
+64152	masculine
 masculine
 64155	masculine
 masculine
 masculine
 masculine
 64161	masculine
-
-feminine
+64163	feminine
 64165	feminine
 64167	masculine
-
-64171	
-
-feminine
+64173	feminine
 masculine/neuter
 neuter
-64177	
-neuter
+64178	neuter
 masculine
 masculine
-
 64183	masculine/neuter
 neuter
-
 64188	masculine/feminine
-
-
-64192	
-
-64197	
-feminine
-
-64201	
+64198	feminine
 64203	feminine
 64205	neuter
-64207	
-masculine
-
-64212	
+64208	masculine
 64215	masculine
 masculine
-
-masculine
-64220	
+64218	masculine
 64222	neuter
 masculine
 neuter
 masculine
 neuter
-64228	
-
-neuter
+64230	neuter
 64232	masculine
-64234	
-neuter
-
-
-neuter
+64235	neuter
+64238	neuter
 feminine
 neuter
-
-64247	
-64252	
-
-
-
 64257	feminine
 feminine
-
 64261	masculine
 feminine
 64264	neuter
 64266	masculine
 masculine
-
-masculine
+64269	masculine
 masculine
 masculine
 64273	masculine
 64275	masculine
-
-
+64278	masculine
 masculine
-masculine
-64282	
-64284	
-64288	
-64290	
 64292	feminine
 masculine
-64295	
-masculine
-
-64299	
-
-64302	
-feminine
-
+64296	masculine
+64303	feminine
 64306	feminine
-
-
-
 64311	feminine
 64315	feminine
 feminine
-
-64319	
-
 64322	feminine
 masculine/neuter
 feminine
 feminine
 64328	masculine
-64331	
-neuter
+64332	neuter
 masculine
 masculine
-
-
-feminine
+64337	feminine
 64339	feminine
-
 64343	masculine
 masculine
-64349	
 64351	feminine
 masculine
 feminine
 feminine
-
+masculine
 feminine
 masculine
 64359	neuter
-
-
-64365	
-neuter
+64366	neuter
 masculine
 masculine
-64370	
 64373	feminine
 masculine/neuter
-
 64378	masculine/feminine
-
-64381	
-masculine
+64382	masculine
 masculine
 64386	masculine
-64388	
-64392	
-neuter
-64397	
+64393	neuter
 64399	neuter
 masculine
 64402	masculine
 64404	feminine
-64406	
-masculine
-
-64410	
-
-
+64407	masculine
 64414	masculine
 masculine
 masculine
 masculine
 masculine
-
-64421	masculine/feminine
-64423	
-neuter
-
-masculine
-64428	
-
-
-
-
-neuter
-
-neuter
+64421	masculine
+64424	neuter
+64426	masculine
+64433	neuter
+64435	neuter
 64437	masculine
-
-neuter
+64439	neuter
 64441	neuter
 masculine
 masculine
-
-64446	
-neuter
-
-masculine
-64451	
-
-
-
-
-neuter
-
-neuter
+64447	neuter
+64449	masculine
+64456	neuter
+64458	neuter
 64460	masculine
-
-neuter
+64462	neuter
 64464	masculine
 masculine
 masculine
-
 64470	masculine
 masculine
-
-
-neuter
+64474	neuter
 64476	masculine
-
-64480	
-neuter
+64481	neuter
 masculine
 masculine
-64485	
-64488	
-
-
-
-neuter
+64492	neuter
 masculine
-
-neuter
+64495	neuter
 64497	masculine
 feminine
 feminine
-
-
-
 64504	masculine
 64506	masculine
 64513	feminine
 masculine/feminine
 feminine
 feminine
-
-64520	
-
-64523	
-64525	
-64529	
 64531	masculine/neuter
-
-
 64535	neuter
 64538	masculine
-
-neuter
-
-64543	
+64540	neuter
+64544	masculine
 masculine
-masculine
-
 64548	feminine
 neuter
 64551	masculine
 masculine
 neuter
-64556	
-
-
-masculine
-
+64559	masculine
 64563	neuter
-64565	
-masculine
+64566	masculine
 masculine/feminine
 64569	masculine
-
-
 64574	masculine
 masculine
 masculine
-
-
-masculine
+64579	masculine
 masculine
 64583	neuter
-
-neuter
+64585	neuter
 masculine
 masculine
 masculine
-64590	
-
-
+64592	masculine
 64594	neuter
-64596	
-64599	
-
 64603	masculine
-64605	
-64608	
-masculine
+64609	masculine
 feminine
-64612	
-
-
-
 64617	neuter
 masculine
 masculine
-
-
-
 64624	masculine
-64626	
-
-
+64628	masculine
 64630	neuter
-64632	
 64635	masculine
 feminine
 masculine
 masculine
-
 64642	masculine
-
-feminine
-64646	
-
-masculine/feminine
+64644	feminine
+64648	masculine/feminine
 neuter
 feminine
 feminine
-64656	
-feminine
+64657	feminine
 neuter
-
-masculine
+64660	masculine
 masculine
 64663	masculine
-64666	
-64669	
-64672	
-neuter
+64673	neuter
 feminine
 64678	neuter
-64680	
-
-64683	
-masculine/feminine
+64684	masculine/feminine
 feminine
-
+64687	masculine
 masculine
-masculine
-64690	
 64694	masculine
 feminine
-64699	neuter
+64699	feminine
 64701	masculine
-64703	
 64709	neuter
-
-64714	
-64716	
 64718	masculine/neuter
 64721	neuter
 64723	masculine
 neuter
-
 64727	feminine
-
-neuter
+64729	neuter
 64731	masculine
 64733	neuter
-
+64735	masculine
 masculine
-masculine
-64738	
-
 64741	feminine
-
 64746	masculine
-
-masculine
+64748	masculine
 64751	feminine
-64754	
 64757	masculine
-
-
-feminine
+64760	feminine
 feminine
 feminine
 masculine
-64767	
 64769	masculine
 masculine
-
-
-
 64775	neuter
 64778	feminine
-
-64781	
-64784	
-feminine
-64788	
-
-masculine
+64785	feminine
+64790	masculine
 64792	masculine
-64794	
-
-
+64797	feminine
 feminine
-feminine
-
-64803	
-masculine
+64804	masculine
 64807	feminine
-64809	
-masculine
-64812	
-
-64816	
-
-
-feminine
-64823	
-
+64810	masculine
+64817	feminine
+64819	feminine
+64823	masculine
 64826	feminine
 64828	feminine
 masculine
-
-neuter
-
-64835	
-64837	
-feminine
+64831	neuter
+64838	feminine
 64840	neuter
-64842	
-64844	
-
 64849	neuter
-64851	
 64855	neuter
-
 64858	feminine
 masculine/feminine
-64861	
 64864	neuter
-64867	
 64871	masculine
 masculine
 masculine
 64876	feminine
-
 64882	neuter
 masculine
-
 64886	neuter
-
-64890	
-neuter
-
-64894	
-masculine
-
-masculine/neuter
+64891	neuter
+64895	masculine
+64897	masculine/neuter
 64899	masculine
 64904	masculine
 masculine
-64907	
-
-
 64911	neuter
-
-
-
+64913	masculine/feminine
 64916	neuter
-
-masculine
+64918	masculine
 64920	masculine
 64924	masculine
 masculine/feminine
@@ -38751,54 +19808,28 @@ masculine
 masculine
 masculine
 64938	masculine
-64942	
-masculine
-64945	
-
-masculine/feminine
-64951	
-feminine
-
-masculine
+64943	masculine
+64947	masculine/feminine
+64952	feminine
+64954	masculine
 64956	masculine/feminine
 64959	neuter
 masculine
-
 64963	feminine
-64965	
-masculine
-
-
+64966	masculine
+64969	feminine
 feminine
-feminine
-
-
-
-64976	
-64980	
-
-64984	
+64980	masculine
+masculine/neuter
 64987	neuter
-64989	
 64993	masculine
-neuter
-64997	
-masculine
-
-65001	
-65003	
-65005	
-65007	
-
-masculine/feminine
+feminine
+64998	masculine
+65009	masculine/feminine
 65015	feminine
-65020	
-neuter
-
-
+65021	neuter
 65025	feminine
 65027	masculine/feminine
-65029	
 65033	masculine
 neuter
 65036	neuter
@@ -38806,38 +19837,25 @@ neuter
 65040	feminine
 65042	masculine/neuter
 65047	neuter
-65049	
-feminine
+65050	feminine
 65052	neuter
 65056	neuter
-65060	
 65064	feminine
 feminine
 neuter
 masculine/feminine
 65069	masculine
-
+65071	masculine
 masculine
-masculine
-
-65077	
-neuter
-65081	
+65078	neuter
 65083	feminine
-
-masculine/feminine
-
-
-65091	
-65093	
+65085	masculine/feminine
 65095	masculine/feminine
 masculine
 masculine
 masculine
-65100	
-
 65103	masculine
-
+masculine
 65106	feminine
 masculine
 65110	feminine
@@ -38846,52 +19864,33 @@ masculine/feminine
 masculine/feminine
 65118	neuter
 65120	masculine
-
 65125	neuter
 65129	masculine
 65131	masculine
-65134	
 65136	masculine
 masculine
 65139	masculine
 neuter
-
-
 65144	feminine
 65146	neuter
 65151	feminine
 65154	masculine
 65156	masculine
 65158	masculine
-65160	
 65164	masculine
-65167	
-neuter
-65170	
-masculine
-65173	
-masculine
-65177	
-feminine
+65168	neuter
+65171	masculine
+65174	masculine
+65178	feminine
 feminine
 feminine
 masculine
-
-
 65186	masculine/feminine
 65188	feminine
-
-65191	
-
-65198	
-
-
-neuter
+65201	neuter
 65205	feminine
-65207	
-neuter
-65211	
-
+65208	neuter
+65211	masculine/feminine
 65216	neuter
 feminine
 feminine
@@ -38900,125 +19899,66 @@ feminine
 neuter
 neuter
 65231	masculine
-65233	
 65236	feminine
-65240	
 65242	neuter
-
-65245	
 65247	masculine
-
 65250	masculine/feminine
-
 65254	feminine
-
-65261	
-65263	
-65268	
-
-masculine
-65272	
-feminine
-65275	
-neuter
-
-65280	
-masculine
-
-
-65286	
-masculine
-65291	
-65293	
-65295	
-feminine
+65270	masculine
+65273	feminine
+65276	neuter
+65281	masculine
+65287	masculine
+65296	feminine
 65298	feminine
-
-
 65302	masculine
 65308	masculine
 masculine
 65311	feminine
 masculine/feminine
-
 65315	feminine
 masculine
 65319	masculine/feminine
 masculine/feminine
-
 65323	feminine
 masculine
 65326	neuter
 neuter
-65331	
 65334	masculine
 masculine
 masculine
-
-
 65341	masculine
-65344	
-
-neuter
+65346	neuter
 65349	feminine
 neuter
 feminine
-
-neuter
-
-65358	
+65353	neuter
 65362	masculine
 neuter
-
-65367	
 65369	masculine
-
-
-65374	
 65377	masculine
 masculine
 masculine/feminine
 65381	feminine
-65384	
-neuter
+65385	neuter
 65388	neuter
-65390	
 65392	masculine
 masculine
-65397	
-masculine
-
-65401	
-neuter
+65398	masculine
+65402	neuter
 65404	masculine
-
-65407	
-65409	
 65411	masculine/neuter
 65414	feminine
-
 65417	feminine
-
 65422	masculine
-neuter
-
+feminine
 65427	masculine
-65429	
-65431	
-feminine
-
-masculine
-65436	
-
-
+65432	feminine
+65434	masculine
 65440	masculine
-
-
-
-65445	
-masculine
-
-feminine
+65442	feminine
+65446	masculine
+65448	feminine
 65450	feminine
 65452	feminine
 65454	masculine
@@ -39028,447 +19968,253 @@ feminine
 65460	masculine
 65462	feminine
 masculine/feminine/neuter
-65466	
 65468	masculine
 masculine
-65471	
-feminine
+65472	feminine
 feminine
 masculine
-
 65477	feminine
-65479	
-
-
 65483	masculine
-65485	
-65487	
-65489	
-
-65492	
 65494	feminine
-
 65497	feminine
-
-feminine
-65504	
-masculine
-65507	
-
-masculine
+65499	feminine
+65505	masculine
+65509	masculine
 65511	feminine
-65513	
-feminine
+65514	feminine
 65517	masculine/feminine
 masculine
 65522	masculine/feminine/neuter
 65527	masculine
-
-65530	
-masculine
+65531	masculine
 65534	masculine
-
-65537	
 65541	masculine
-
-neuter
-
-
-neuter
-
-feminine
+65543	neuter
+65546	neuter
+65548	feminine
 65551	masculine/neuter
-65553	
-65555	
 65557	neuter
 masculine
-65560	
-
-feminine
-65565	
-65567	
+65562	feminine
 65569	masculine
 65571	feminine
-
+65573	neuter
 neuter
-neuter
-neuter
+feminine
 65577	masculine
 masculine
-
-neuter
+65580	neuter
 masculine
-65584	
-feminine
-65587	
-
-65590	
-
-neuter
+65585	feminine
+65592	neuter
 65596	neuter
-65599	
-
-65602	
 65604	masculine
-
+masculine/feminine
 masculine
-neuter
-65609	
-
 feminine
+65611	feminine
 masculine
-65614	
-masculine
-65617	neuter
+65615	masculine
+65617	feminine
 65620	masculine
 feminine
 feminine
-65624	
-feminine
+65625	feminine
 feminine
 masculine
 65631	feminine
 65633	masculine
-
-65637	
-
 65641	neuter
 masculine
-
+65644	masculine
 masculine
-feminine
-
 65648	masculine
-
-
-feminine
+65651	feminine
 65654	masculine
 feminine
-
 65658	feminine
-
-
-
-
 65665	masculine
-65667	
-feminine
+65668	feminine
 65670	feminine
-
-
-65675	
 65682	feminine
 neuter
-65685	
-masculine/feminine
+65686	masculine/feminine
 65689	feminine
-65691	
 65693	masculine
 65695	masculine
-
 65699	neuter
 masculine
-65702	
-masculine
+65703	masculine
 65705	feminine
 neuter
-
-
 65710	neuter
 neuter
 masculine
-65714	
-65717	
-masculine
-
-65722	
-masculine
+65718	masculine
+65723	masculine
 65725	feminine
 65727	neuter
-
-feminine
+65729	feminine
 65734	masculine
 65736	masculine/feminine
-65741	
+65742	feminine
+65745	neuter
+65749	feminine
+65753	masculine
 feminine
-65744	
-neuter
-65748	
-feminine
-
-65752	
-masculine
-feminine
-
-
-65758	
 65760	masculine
-65763	
-65765	
-
-65770	
-65772	
-
-65776	
+65777	masculine
+65779	masculine
 masculine
-
+65783	feminine
 masculine
 masculine
-
-
-feminine
-masculine
-
-
-
-65790	
 65792	feminine
-
-
-
+65795	masculine
 65799	neuter
-65801	
 65803	masculine
 65806	masculine
-
-masculine
+65808	masculine
 65813	neuter
-65818	
 65820	feminine
-
-
 65825	masculine
 65830	neuter
 65834	masculine
-65838	
 65842	feminine
-
-
 65846	masculine
 masculine
-
 65850	masculine/neuter
 neuter
 feminine
-65856	
-
-masculine
-65860	
+65856	feminine
+65858	masculine
 65863	feminine
 feminine
-65867	
-feminine
-65870	masculine/neuter
-65872	
-feminine
-65875	
-
-masculine
+65868	feminine
+65870	feminine
+65873	feminine
+65877	masculine
 masculine
 65880	feminine
-
-
-
-
 65889	masculine
-
-
 65893	feminine
 65895	feminine
 65897	masculine
 65900	masculine
 65903	neuter
-65907	
-
+65909	feminine
 feminine
 feminine
-feminine
-65914	
 65916	masculine
-
 65919	feminine
 feminine
-65922	
-feminine
-
-feminine
-
-
-65933	
-
+65923	feminine
+65925	feminine
+65933	feminine
 65936	feminine
 65940	feminine
-neuter
+feminine
 feminine
 feminine
 65947	masculine
-65949	
-65952	
-masculine
+65953	masculine
 neuter
 65956	neuter
 65959	feminine
 feminine
-
-65963	
+65964	feminine
 feminine
-masculine/neuter
-65967	
-masculine/feminine
+65968	masculine/feminine
 feminine
 65972	masculine/feminine
-
-masculine
-65976	
-
-masculine/neuter
-65980	
-65984	
-masculine/feminine
-
-feminine
+65974	masculine
+65978	masculine/neuter
+65985	masculine/feminine
+65987	feminine
 65990	feminine
 65993	neuter
-65996	
 65998	neuter
 66001	masculine
 66003	masculine
-
 66008	masculine/feminine
-
 66012	masculine
 66015	masculine
-
-
 66019	neuter
-
 66022	feminine
-66026	
 66028	masculine/feminine
-66031	
-feminine
+66032	feminine
 feminine
 neuter
 masculine
 66037	neuter
 66040	masculine/feminine
 66043	feminine
-
-masculine/neuter
+66045	masculine/neuter
 66047	feminine
 masculine/feminine
-
-66052	
-feminine
+66053	feminine
 masculine/neuter
-
 66057	neuter
 66059	masculine
 masculine
 66062	masculine
-66064	
-
 66067	neuter
-66071	
 66073	masculine
-
 66076	masculine/feminine
-
-masculine
-
-masculine
-
-masculine/feminine
+66078	masculine
+66080	masculine
+66082	masculine/feminine
 masculine
 66086	neuter
 masculine
 neuter
 66090	neuter
-66092	
 66094	masculine
 66097	masculine
-
-
 66101	masculine
-66103	
-66105	
-
-
-
 66110	masculine
 masculine
-
-masculine/neuter
-
-66116	
+66113	masculine/neuter
 66119	feminine
-66121	
 66126	feminine
 feminine
 neuter
 66130	neuter
-66134	
-66136	
-66138	
-masculine/feminine
+66139	masculine/feminine
 neuter
-
 66143	neuter
 masculine
 66148	masculine
 66150	neuter
-66152	
 66154	masculine
 masculine
 66157	masculine
 66159	neuter
 66161	neuter
-
-66165	
-66167	
+66168	masculine
+66175	feminine
 masculine
-66173	
-
-feminine
-masculine
-
-masculine/neuter
+66178	masculine/neuter
 66181	masculine
-66184	
-
 66187	neuter
 66190	neuter
 66192	masculine
 66195	masculine
-
 66198	masculine
 masculine
-66202	
-
-feminine
-
-feminine
-66208	
-masculine
+66204	feminine
+66206	feminine
+66209	masculine
 66211	masculine
 masculine
-
 66218	masculine
 neuter
-
-
+66222	neuter
+66224	masculine/feminine
 neuter
-
-masculine/feminine
-neuter
-
-
+66228	feminine
 feminine
-feminine
-
-feminine
-66233	
-
+66231	feminine
 66236	masculine
 66243	masculine
 66245	feminine
@@ -39476,34 +20222,19 @@ masculine
 feminine
 66251	neuter
 66253	neuter
-66259	
 66263	neuter
-
 66268	masculine
 66270	masculine
-66274	
-66276	
-
 66280	neuter
 66282	feminine
-
-neuter
+66284	neuter
 masculine
-66287	
-
-masculine
+66289	masculine
 masculine/feminine
-66295	
-
-feminine
-
+66297	feminine
 66300	neuter
 66302	neuter
-
-66305	
-
-66308	
-neuter
+66309	neuter
 66311	feminine
 feminine
 feminine
@@ -39511,213 +20242,120 @@ feminine
 66317	neuter
 66319	feminine
 66323	feminine
-66327	
-
-
-feminine
-
+66330	feminine
 66334	masculine
 masculine
 feminine
 masculine
 66340	neuter
-66342	neuter
+66342	feminine
 66345	feminine
 masculine
 66349	masculine
 neuter
-
-66353	
-66356	
 66360	feminine
 feminine
 feminine
-66364	
-
-masculine
-66368	
-
-
-masculine
-66373	
+66366	masculine
+66371	masculine
 66375	neuter
-
-masculine
+66377	masculine
 66379	neuter
-
-66383	
-66385	
 66388	feminine
 66390	masculine
-66392	neuter
+66392	feminine
 66394	feminine
 feminine
 66398	neuter
 masculine
 masculine
-66402	
-
-
-
-
+66407	masculine
 masculine
-masculine
-66410	
+66411	feminine
 feminine
 feminine
-feminine
-
-masculine
+66415	masculine
 neuter
-66418	
-masculine
+66419	masculine
 feminine
-
-
 66424	feminine
 66427	feminine
 neuter
 66430	masculine
 masculine
-
-
 66435	neuter
-
-
-
 66443	masculine
 masculine
-
 66448	feminine
-feminine
 66454	feminine
 feminine
 feminine
-66458	
-masculine
-
-feminine
+66459	masculine
+66461	feminine
 masculine
 66466	masculine
 masculine
-66469	
 66473	feminine
 masculine
 66477	masculine
-
-
-66481	
-
-
+66483	feminine
 feminine
 feminine
 66487	feminine
-
-neuter
-
-masculine
+66489	neuter
+66491	masculine
 66495	neuter
-
 66498	neuter
 feminine
-
-
 66503	neuter
-
-masculine/neuter
+66505	masculine/neuter
 66507	feminine
-
 66510	neuter
-66514	
-neuter
+66515	neuter
 masculine
 masculine
 66519	masculine
-66521	
-masculine/neuter
+66522	masculine/neuter
 66524	masculine
 66526	masculine
-neuter
-66534	
-
-
-masculine
+feminine
+66537	masculine
 66539	masculine/neuter
-66541	
-masculine
-66544	
-neuter
+66542	masculine
+66545	neuter
 feminine
 feminine
-66550	
-
-
-66555	
 66557	feminine
 neuter
 66561	feminine
-
 66569	feminine
-
-
-66576	
 66580	neuter
 66582	masculine
 66588	masculine
-
 66592	feminine
 masculine
 masculine
 66598	masculine
 66600	masculine/feminine
-66603	
-
-66610	
-
-
-66614	
+66615	feminine
 feminine
-feminine
-
-
-masculine/neuter
-66621	
-66624	
-masculine
+66619	masculine/neuter
+66625	masculine
 66628	masculine
-
 66632	masculine
-
-66637	
-66640	
-
+66642	feminine
 feminine
-feminine
-
-
-
 66649	masculine
-
-masculine/neuter
-
-66655	
-66658	
-
-
+66651	feminine
 66662	masculine
 masculine
-
-masculine/neuter
+66665	masculine/neuter
 neuter
 66669	neuter
 masculine
-66672	
-
-masculine
-
-neuter
-66678	
-
+66674	masculine
+66676	neuter
+66679	masculine/feminine
 feminine
 masculine/feminine
 66684	masculine
@@ -39727,442 +20365,245 @@ masculine
 feminine
 masculine
 masculine
-66694	
 66696	feminine
-66698	
-66700	
-
 66703	feminine
 feminine
-feminine
-66707	
-66709	masculine
-
-66714	masculine
-
-66717	
-66719	
-66721	masculine/feminine
-66725	
 masculine
+66709	masculine
+66714	masculine
+66721	masculine/feminine
+66726	masculine
 feminine
 66729	masculine
-66732	
-feminine
-66735	
+66733	feminine
 66737	masculine
-
-
-
-66742	
-masculine/feminine
-
-masculine
-
-66748	
+66743	masculine/feminine
+66745	masculine
 66751	masculine/feminine
 neuter
 neuter
 66755	neuter
-66757	
-66762	
-
-66766	
 66769	masculine
 neuter
-66775	
 66778	masculine
-66780	
 66782	neuter
-masculine/neuter
+feminine
 66785	masculine/neuter
 66787	neuter
-66789	
-
-66793	
-masculine
-
-masculine/feminine
-
-
-66801	
-neuter
-66805	
-
+66794	masculine
+66796	masculine/feminine
+66802	neuter
 66808	neuter
 66810	feminine
-66815	
-masculine
-66820	
-
-66823	
-masculine
+66816	masculine
+66824	masculine
 masculine
 66827	masculine
 66829	masculine
-66831	
-66834	
-neuter
-66837	
-
-neuter
+66835	neuter
+66837	masculine/feminine
+66839	neuter
 feminine
-66842	
-
-
-neuter
-
-
-
+66842	masculine
+66845	neuter
 66851	neuter
 66855	masculine
 66857	masculine
 66859	masculine
 neuter
-66865	
-66868	neuter
-66871	
-66873	
+66868	feminine
 66875	neuter
-
-
 66879	masculine
-66881	
-
 66884	masculine
 66887	neuter
-66896	
 66899	masculine/feminine
 66902	feminine
 66905	masculine
 masculine
 66908	masculine
-66910	
-masculine
-66915	
-
+66911	masculine
 66919	neuter
-66921	
-masculine
+66922	masculine
 66924	masculine
-
 66930	feminine
 66933	feminine
 66935	masculine
 neuter
-
+66938	masculine
 masculine
-masculine
-
 66942	feminine
-neuter
+feminine
 66945	masculine
 66948	masculine/feminine
-
-masculine
-
-neuter
+66950	masculine
+66952	neuter
 66954	neuter
-66956	
-
-feminine
-
-masculine
+66958	feminine
+66960	masculine
 masculine
 66963	feminine
 66965	masculine
 masculine
-
-
-66971	
-
-masculine
-66975	
-
-masculine
+66973	masculine
+66977	masculine
 neuter
-
 66982	feminine
-
-
-feminine
-
-
+66985	feminine
 66989	neuter
-66991	
 66993	neuter
-66996	
 66998	masculine
 67000	masculine/feminine
-67003	
-67005	
+67006	feminine
 feminine
-feminine
-67009	
 67011	feminine
 masculine
-
 67016	neuter
 67018	masculine
-
-
-feminine
+67021	feminine
 feminine
 neuter
 67027	masculine
-
-
+67030	feminine
 feminine
-feminine
-67035	
-
-
 67039	feminine
-67041	
-
-masculine/neuter
+67043	masculine/neuter
 67045	feminine
-67049	neuter
-
-67052	
+67049	feminine
 67054	masculine/feminine
-
-masculine
+67056	masculine
 67059	neuter
 67061	masculine
-67063	
-67065	
-masculine
-67070	
-masculine
-67074	
-67077	
-neuter
-
-feminine
-
+67066	masculine
+67071	masculine
+67078	neuter
+67080	feminine
 67084	feminine
-
-
-feminine
+67087	feminine
 67089	neuter
 feminine
-67092	feminine
+67092	masculine
 masculine
 neuter
 feminine
-
-neuter
-
-masculine
-67102	
-neuter
+67097	neuter
+67099	masculine
+67103	neuter
 masculine
 neuter
 67107	feminine
-67109	
 67111	neuter
 masculine
-67114	
+67115	masculine
 masculine
-masculine
-67120	
-feminine
-
-
-67126	feminine
+67121	feminine
+67126	masculine
 67128	masculine/feminine
 masculine/feminine
-
-
-neuter
+67132	neuter
 67136	masculine
-
-neuter
-
-67141	
+67138	neuter
+67142	feminine
 feminine
 feminine
 feminine
-feminine
-67148	
 67151	feminine
 feminine
-67157	
-masculine/feminine
+67158	masculine/feminine
 feminine
 67163	masculine
 masculine
 masculine
-
-feminine
+67167	feminine
 feminine
 masculine
 67171	masculine
 masculine
 67175	masculine
-
-neuter
+67177	neuter
 67179	neuter
-
-
-
 67184	feminine
 67190	feminine
 feminine
 67194	masculine/feminine
 masculine
 67197	masculine/feminine
-67199	
 67201	neuter
-67205	
-
-67208	
-67214	
 67216	neuter
-
 67220	feminine
 feminine
-67223	
 67225	masculine
 masculine
 masculine
+feminine
 neuter
-neuter
-
-masculine
+67231	masculine
 masculine
 67234	feminine
-
-67237	
 67241	masculine
-67243	
-
-67246	
-
-67249	
-masculine
-
-67254	
-
-
-
-feminine
-
-neuter
-
-
-
-
-feminine
-
-67270	
-67273	
-
-neuter
+67250	masculine
+67258	feminine
+67260	neuter
+67265	feminine
+67275	neuter
 feminine
 67278	masculine
 masculine
-67281	
 67283	neuter
-67289	
 67293	masculine
 67295	masculine
 masculine
 neuter
-67304	
-masculine
+67305	masculine
 masculine
 67309	feminine
 67311	neuter
 masculine
 feminine
-67316	
-
 67321	masculine
-
-67324	
-masculine
+67325	masculine
 67327	neuter
 67329	feminine
-67331	
-
-masculine
+67333	masculine
 masculine
 67336	masculine
 67339	neuter
-
-67342	
-
 67346	masculine
-
-masculine
+67348	masculine
 67350	feminine
-
-67353	
-
-
-
-feminine
-67359	
-
-
+67357	feminine
 67367	neuter
 67372	masculine
 masculine
-
 67376	masculine/feminine
-67382	
 67384	masculine
 67389	feminine
 67391	feminine
-67393	
 67397	feminine
 feminine
 67400	masculine/neuter
-
-feminine
+67402	feminine
 feminine
 67405	feminine
 67408	feminine
-
-
-67413	
-67416	
-
-feminine
+67418	feminine
 67420	feminine
 67422	feminine
 67426	neuter
-67428	
 67430	masculine
 masculine
-
-67436	
 masculine
+67437	masculine
 neuter
-
-
-67442	
-67445	
-feminine
+67446	feminine
 feminine
 67450	masculine/feminine
-67453	
-67457	
 67459	masculine
 67461	feminine
 feminine
-
-
-neuter
-
+67465	neuter
 67471	masculine/neuter
 67473	masculine
 67476	masculine/feminine
-67479	
-
-67485	
 67487	masculine
 masculine
 67491	masculine
@@ -40172,264 +20613,136 @@ feminine
 feminine
 feminine
 feminine
-67500	
-67502	
+67503	feminine
 feminine
-feminine
-
-67511	
-feminine
+67512	feminine
 feminine
 masculine/feminine
 67516	masculine
-neuter
-67519	
 feminine
+67520	feminine
 feminine
 67523	masculine
-67525	
-67527	
-
-67531	
-
-
-masculine/neuter
-
+67534	masculine/neuter
 67537	masculine
 neuter
 67541	feminine
-67545	
-
-67549	
 67551	neuter
-67553	
 67556	masculine
 masculine
 67559	masculine
 masculine/feminine
 neuter
-67566	
+67566	feminine
 67568	masculine/feminine
 feminine
 masculine
 67573	neuter
-
 67579	masculine
 67582	masculine
-
-
-67586	
-
-masculine
+67588	masculine
 67592	masculine
-
-67596	
-masculine
-
-
+67597	masculine
+67599	feminine
 feminine
 67603	masculine
-67605	
-masculine/neuter
-
-masculine
-67610	
-neuter
-
-
-67617	
+67606	masculine/neuter
+67608	masculine
+67611	neuter
 67619	neuter
-
-67622	
-masculine/neuter
+67623	masculine/neuter
 67625	masculine
 masculine
-
-
+67629	neuter
 neuter
-neuter
-
 67636	masculine/feminine
 67638	neuter
-
-
-masculine
-67644	
-
-
-masculine
-
-
-
-masculine/neuter
-67657	
+67641	masculine
+67647	masculine
+67651	masculine/neuter
 67659	masculine
 67661	masculine/feminine
-67664	
-67666	
-
-feminine
+67668	feminine
 67673	masculine
-67678	
-
-
-
-67683	
 67685	masculine
 masculine
 masculine
 feminine
-67690	
-masculine
-67693	
-
+67691	masculine
 67696	neuter
-67698	
 67704	feminine
-67706	
 67709	masculine/feminine
 67711	feminine
-
-feminine
-67715	
+67713	feminine
 67717	masculine
 67719	masculine
-67721	
-67723	
-neuter
-
-
+67724	neuter
+masculine
 67728	masculine
 67730	feminine
 masculine
 feminine
-
 67735	neuter
 67738	masculine
-
-
 67742	masculine
 67744	neuter
 67746	masculine
-
-
-feminine
+67749	feminine
 neuter
-
 67753	feminine
-
 67758	neuter
 67763	feminine
 67770	masculine
 masculine
 67773	masculine
-67776	
-neuter
+67777	neuter
 masculine
-67784	
-67786	
 67788	masculine/feminine
-
-
-
 67796	masculine/feminine
-67798	
-67801	
-masculine
+67802	masculine
 67804	feminine
-
-
-
 67811	masculine
-
-neuter
-
+67813	neuter
 67818	neuter
-
 67824	masculine/neuter
 masculine/neuter
-
 67828	masculine
 67830	neuter
-67833	
-
-67836	
-feminine
+67837	feminine
 67844	neuter
-67848	
-67850	
-67852	
+67853	masculine
 masculine
-masculine
-67856	
 67858	feminine
 67860	masculine
-67864	
-neuter
+67865	neuter
 67872	neuter
 67875	neuter
-67877	
-
-
-
+67881	feminine
 feminine
-feminine
-67885	
-67887	
-masculine
-67890	
-feminine
+67888	masculine
+67891	feminine
 feminine
 masculine
-67895	
 67897	neuter
-67900	
-67902	
-neuter
-67905	
-67907	
+67903	neuter
 67909	masculine
 masculine
 67912	masculine/feminine
-
-
 67916	neuter
 67923	masculine
-67925	
-
-67928	
-masculine
+67929	masculine
 67931	neuter
 masculine
-67935	
-67937	
-
-
-67941	
-
-
-
-67947	
-
-masculine/feminine
-
-
-masculine/neuter
-67956	
-
+67947	feminine
+67949	masculine/feminine
+67952	masculine/neuter
 67962	masculine
-67964	
 67967	feminine
-67969	
-feminine
+67970	feminine
 masculine/neuter
 67974	feminine
-67979	
-67981	
-
-feminine
-
-feminine
+67983	feminine
+67985	feminine
 feminine
 feminine
 neuter
@@ -40437,46 +20750,27 @@ neuter
 feminine
 67995	feminine
 masculine/neuter
-
-
-masculine
+67999	masculine
 68001	masculine/feminine
 masculine
-68005	
-neuter
-
-68009	
+68006	neuter
 68012	masculine
-
-feminine
+68014	feminine
 masculine
 feminine
 masculine/feminine
 68020	feminine
-68022	
-
 68025	feminine
-68029	
-
-68032	
-feminine
-
-
-
-68038	
-masculine
-68041	
-68043	
-68046	
-masculine
-
-masculine/feminine/neuter
+68033	feminine
+68039	masculine
+68041	masculine/feminine
+68047	masculine
+68049	masculine/feminine/neuter
 68053	masculine
 68055	masculine/feminine
 68065	masculine
 neuter
-68069	
-
+68070	masculine/feminine
 feminine
 feminine
 68076	neuter
@@ -40484,197 +20778,104 @@ feminine
 feminine
 masculine
 masculine
-68082	
-neuter
+68083	neuter
 68087	masculine
 68089	feminine
 masculine/neuter
-
-68093	feminine
-68095	
+68093	neuter
 68097	feminine
 masculine
-
-
-feminine
+68101	feminine
 masculine
 68104	masculine/feminine
 masculine
-68108	
 68111	feminine
 neuter
-
-
-68116	
-68118	
-feminine
-
+68119	feminine
 68122	masculine
 68124	feminine
 68127	feminine
 68129	masculine
 68131	feminine
-
-feminine
+68133	feminine
 68135	feminine
-68137	
+68138	masculine
+68144	feminine
+68152	masculine
 masculine
-68140	
-
-68143	
-feminine
-68146	
-68150	
-
-masculine
-masculine
-
 68156	neuter
-68160	
-masculine
+68161	masculine
 68164	neuter
-68166	
 68174	masculine
 68176	masculine
-68180	
-
-68184	
-
 68187	masculine/feminine
 masculine
 masculine
-68192	
 68194	masculine
-68196	
-
-68199	
-68202	
-masculine
+68203	masculine
 68206	neuter
 masculine/neuter
-
+68209	masculine
 masculine
 masculine
-masculine
-68213	
-68218	
-neuter
+68219	neuter
 neuter
 neuter
 68223	masculine/feminine
 masculine
-68227	
 68230	masculine
 masculine
-
-
-
-
 68238	neuter
-68242	
 68244	masculine
 masculine
-
-feminine
-68249	
-masculine
+68247	feminine
+68250	masculine
 68256	masculine
-
-masculine
+68258	masculine
 68261	feminine
-68263	
+68264	feminine
 feminine
-feminine
-68268	
-
-feminine
-68272	
-
-68275	
-68278	
-68281	
-
+68270	feminine
 68284	feminine
-
 68288	feminine
-
-68292	
 68294	feminine
-68296	
-
-
-
-68301	
-feminine
+68302	feminine
 masculine
-
-
-68308	
 68313	neuter
-68316	
 68318	feminine
-68320	
-68324	
-68326	
 68328	neuter
 feminine
-
-68332	feminine
+68332	masculine
 68338	neuter
-
-68343	
 68345	neuter
-68348	
 68350	neuter
-
 68355	masculine
-68357	
 68361	neuter
 masculine/feminine
-
+68364	feminine
 feminine
-feminine
-68367	
-68370	
-neuter
+68371	neuter
 feminine
 68377	masculine
-
-
-
-masculine
-68383	
-68385	
-feminine
-68389	
-68391	
-
-
-neuter
+68381	masculine
+68386	feminine
+68394	neuter
 68397	neuter
 68399	masculine
-68408	
-feminine
-
+68409	feminine
 68419	feminine
 masculine
 masculine
 masculine
 masculine
-68427	
-
-masculine
-68431	
-masculine
+68429	masculine
+68432	masculine
 68435	neuter
-68437	
-68439	
-feminine
+68440	feminine
 masculine/neuter
 masculine
 neuter
 68446	neuter
-
 68449	feminine
 neuter
 68452	masculine
@@ -40683,1957 +20884,1044 @@ masculine
 68459	masculine
 68461	neuter
 68464	neuter
-
 68469	feminine
 68471	masculine
 68475	feminine
 feminine
-68478	
-
 68481	masculine
 masculine
 feminine
-
 68487	masculine
-68489	
-masculine
-
+68490	masculine
 68494	feminine
 neuter
-68497	
-
 68504	neuter
 68506	neuter
-68508	
-68513	
 68520	neuter
-68522	
+68522	feminine
 68524	feminine
-
-
-feminine
-68532	
-masculine
+68527	feminine
+68533	masculine
 68538	masculine
 masculine
 feminine
-68543	
-68547	
-
-68551	
-68553	
-68555	
-feminine
+68556	feminine
 masculine
-68559	
 68564	masculine
 68567	feminine
 masculine
-
-masculine
-68572	
+68570	masculine
 68575	masculine
 masculine
-68579	
-masculine
+68580	masculine
 68582	masculine/feminine
-
-masculine
+68584	masculine
 68587	masculine
-68589	
 68594	masculine
 68597	feminine
-68601	
 68603	neuter
 neuter
 masculine
 neuter
-
 68609	masculine
-68611	
 68613	masculine
 68615	masculine
-68617	
-68619	
-neuter
+68620	neuter
 68623	feminine
-
-
-
-68628	
 68632	neuter
-
 68635	feminine
 feminine
-68642	
 68646	masculine
-
 feminine
 feminine
-
+feminine
 68652	masculine/feminine
-
-
 68657	neuter
-
 68661	neuter
-68665	
 68667	feminine
 neuter
 68672	neuter
-68674	
 68677	masculine
 neuter
 neuter
-68682	
-
-
-masculine/neuter
-
+68685	masculine/neuter
 68688	neuter
-68691	
-68694	
-masculine
-68697	neuter
+68695	masculine
+68697	feminine
 68699	neuter
-
-feminine
+68701	feminine
 neuter
 masculine
-68705	
-
-
-
-feminine
+68709	feminine
 feminine
 68712	neuter
-68717	
-
-masculine
-68722	
-
-neuter
-
+68719	masculine
+68724	neuter
 68727	masculine
 68729	masculine/feminine/neuter
-68731	neuter
-
 68734	masculine
 masculine/feminine
-
 68738	masculine
 68742	feminine
 masculine
-
 68748	neuter
 masculine
-
-
 68753	neuter
-
 68756	masculine
-
-
-
-neuter
+68760	neuter
 68763	neuter
-
-feminine
-68767	
-68769	
+68765	feminine
+68767	masculine/feminine
 68771	masculine
 68773	masculine
 68776	neuter
-
-
-masculine/neuter
-
-masculine
+68779	masculine/neuter
+68781	masculine
 feminine
-68784	
-feminine
+68785	feminine
 masculine
 masculine
 masculine
 68790	masculine
 masculine
 68797	neuter
-
-68800	
-masculine
-
-masculine
+68801	masculine
+68803	masculine
 68805	feminine
 masculine
-
-masculine
+68808	masculine
 68818	masculine
-
-68821	
-
 68824	neuter
 masculine
 masculine
 masculine
 68829	neuter
 feminine
-
-
-masculine
+68833	masculine
 68839	feminine
 feminine
 68842	masculine
-
 68845	masculine/neuter
-
 68848	masculine
-
-
-masculine
-68853	
+68851	masculine
 68855	neuter
-68858	
-68864	
-
-
-masculine
+68867	masculine
 68870	masculine
 neuter
 68874	masculine/feminine
-
 68877	masculine
 68881	masculine
 68884	masculine
 68886	feminine
-
-masculine/feminine
+68888	masculine/feminine
 feminine
-68891	
 68893	neuter
-
-
-neuter
-68900	
+68896	neuter
 68903	feminine
-
-feminine
+68905	feminine
 masculine
-68908	
-feminine
+68909	feminine
 masculine
-68912	
-
-masculine/neuter
+68914	masculine/neuter
 neuter
 68919	masculine
 masculine
 masculine
-
-68924	
-68926	
-
-
-masculine
-68931	
+68929	masculine
+68932	feminine
 feminine
 feminine
-feminine
-
-masculine
+68936	masculine
 68939	masculine
-68941	
-
-feminine
-
-
-masculine/neuter
-
-
-68950	
+68943	feminine
+68946	masculine/neuter
 68952	neuter
-
-
-neuter
+68955	neuter
 feminine
 68958	feminine
 masculine
 feminine
-68962	
-neuter
+68963	neuter
 masculine
-68966	
-68968	
 68970	masculine/feminine
 68972	masculine
 masculine
 feminine
-
-
-68978	
-
-68981	
-neuter
-
-masculine
-68986	
+68982	neuter
+68984	masculine
 68988	masculine
 masculine/feminine
 68991	masculine/feminine
-
-feminine
+68993	feminine
 masculine
 68996	masculine
 69000	masculine/feminine
-
-feminine
+69002	feminine
 masculine
-
-
-neuter
+69006	neuter
 69008	neuter
-69011	
 69013	feminine
-69016	
-feminine
-
-69021	
-
+69017	feminine
 69025	masculine/neuter
-
-neuter
-
+69027	neuter
 69030	masculine
-69036	
-feminine
-
-
-69042	
+69037	feminine
 69044	feminine
 masculine
-
+feminine
 neuter
 69049	feminine
 69052	neuter
-69054	
-
-masculine/neuter
+69056	masculine/neuter
 neuter
 69062	neuter
-
-69068	
-neuter
-69072	
-69074	
-
-neuter
-69078	
-feminine
+69069	neuter
+69076	neuter
+69079	feminine
 69081	masculine
-
-neuter
-
-69086	
+69083	neuter
 69088	masculine
 feminine
-
-
-masculine/neuter
-69094	
+69092	masculine/neuter
+69095	masculine
 masculine
-masculine
-
-masculine
-
-69101	
+69098	masculine
 69103	neuter
 neuter
-69108	
-masculine
+69109	masculine
 masculine
 masculine
 feminine
-
-masculine
-
-
-feminine
+69114	masculine
+69117	feminine
 feminine
 69120	feminine
-
-masculine
-69124	
-
-feminine
+69122	masculine
+69126	feminine
 masculine
 feminine
-
+masculine
 masculine/neuter
 masculine/neuter
-69134	
-
-
-
-neuter
-69143	
+69136	masculine/feminine
+69138	neuter
 69146	masculine
-69148	
-neuter
-69152	
+69149	neuter
+69153	masculine
 masculine
-masculine
-
-69157	
 69159	masculine
-
-
-masculine
+69162	masculine
 69166	feminine
 69168	feminine
 69170	feminine
-
-masculine
+69172	masculine
 neuter
-69175	
-69177	
-masculine
-
-masculine/feminine
+69178	masculine
+69180	masculine/feminine
 69184	masculine
-
-feminine
+69186	feminine
 69188	masculine
-
-feminine
+69190	feminine
 masculine
-
-69195	
 69198	feminine
-69201	
-69203	
-masculine
-
-
-masculine
+69204	masculine
+69207	masculine
 masculine
 feminine
 69212	neuter
 feminine
 masculine
-
 69217	masculine
 masculine
 feminine
 69221	neuter
-69224	
-69227	
-masculine/neuter
+69228	masculine/neuter
 masculine/feminine
 69232	masculine
 69234	masculine
 69239	masculine
-
-feminine
+69241	feminine
 masculine
-69244	
-
 69248	feminine
-69251	
-neuter
-69254	
+69252	neuter
 69256	masculine
 69259	masculine
 69261	masculine/feminine
 69263	masculine
-
-
-69268	
-feminine
+69269	feminine
 neuter
 69273	neuter
-
-feminine
-
+69275	feminine
+69277	neuter
+69289	feminine
+69291	feminine
 neuter
-69279	
-
-
-69283	
-69288	
-feminine
-
-feminine
-neuter
-
-neuter
-69297	
-69299	
-neuter
+69294	neuter
+69300	neuter
 69302	neuter
-69304	
-69310	
-69313	
 69315	masculine
 69318	neuter
 69320	neuter
-
 69325	masculine/neuter
-
-69328	
 69330	masculine
 masculine
 69333	neuter
 masculine
 masculine
-
 69339	masculine
-
 69342	neuter
 neuter
-
-
 69347	masculine
 masculine
 69350	neuter
 69353	feminine
 69356	masculine
-69360	
-masculine
-
-feminine
+69361	masculine
+69363	feminine
 neuter
-69367	
-feminine
-
-feminine
-69373	
+69368	feminine
+69370	feminine
 69375	feminine
-69377	
-masculine
-69381	
-
-feminine
+69378	masculine
+69383	feminine
 feminine
 69386	feminine
-69389	
-feminine
+69390	feminine
 feminine
 69395	masculine
 69397	masculine/feminine
-69399	
 69403	neuter
 69408	feminine
-
 69412	masculine
 masculine
-
-masculine
-69418	
-
+69415	masculine
 69421	masculine
-69425	
 69429	masculine/feminine
-69432	
 69438	neuter
 69440	masculine
-
 69443	masculine
-
 69446	masculine/neuter
-
-
-masculine/feminine/neuter
-69451	
-
+69449	masculine/feminine/neuter
 69457	neuter
 feminine
 neuter
-
 69463	feminine
-
 69467	masculine
-
-69470	
-69475	
 69480	feminine
-
-
-feminine
+69483	feminine
 feminine
 69487	masculine/feminine
 69489	masculine
-
-
-
-feminine
+69493	feminine
 69501	masculine
 69503	neuter
-69507	
-69509	
-masculine/neuter
-
+69510	masculine/neuter
+masculine
 69513	masculine
 69516	feminine
 feminine
-
-neuter
+69519	neuter
 feminine
 feminine
 feminine
-
 69525	neuter
-neuter
-69532	
-69534	
-69537	
-masculine/feminine/neuter
-69540	
+feminine
+69538	masculine/feminine/neuter
 69542	feminine
-
-neuter
-69546	
+69544	neuter
 69548	masculine
 masculine
-69552	
 69555	masculine
 69557	masculine
-69563	
+69564	masculine
+69566	masculine/feminine/neuter
 masculine
-
-masculine/feminine/neuter
-masculine
-
-feminine
+69569	feminine
 69571	feminine
 feminine
 feminine
-
 69577	masculine
-
-masculine
-69581	
+69579	masculine
 69583	feminine
-69587	
-neuter
+69588	neuter
 neuter
 69592	masculine
 69594	masculine
 69596	masculine
-69598	
-neuter
-69601	
+69599	neuter
 69603	masculine
-69606	
 69609	neuter
 69611	neuter
-69614	
-
-69617	
-
-masculine/neuter
+69619	masculine/neuter
 masculine
-
 69623	feminine
 feminine
-69628	
 69630	masculine
 masculine
 69633	masculine
 masculine
-
-neuter
+69636	feminine
 69639	masculine/neuter
-
+69641	feminine
 feminine
-feminine
-69646	
-neuter
+69647	neuter
 69649	masculine
-
-masculine
+69651	masculine
 69653	feminine
-69655	
 69657	masculine
-
+69659	feminine
 feminine
-feminine
-
 69663	masculine
 masculine
-69666	
-69671	
-masculine/feminine
-
-
-
-feminine
-
-69679	
-
-neuter
-69683	neuter
-69685	
-
-69688	
-69690	feminine
-69692	
-
-
-neuter
+69672	masculine/feminine
+69676	feminine
+69679	feminine
+69681	neuter
+69683	feminine
+69690	masculine
+69695	neuter
 feminine
 69698	feminine
-
-
 69702	feminine
-69704	
-neuter
-
-69708	
+69705	neuter
 69710	feminine
-
-69715	
-masculine
-
-neuter
-69720	
-feminine
+69716	masculine
+69718	neuter
+69721	feminine
 feminine
 69724	feminine
-
-
-69728	
-feminine
+69729	feminine
 69732	feminine
-
-
-neuter
-
+69735	neuter
 69738	masculine
 masculine
-
-
-69743	
-masculine/neuter
+69744	masculine/neuter
 69747	masculine
-69750	
 69752	masculine
 feminine
 69755	masculine
-69763	
-masculine
-
-
+69764	masculine
 69768	feminine
-
-feminine
+69770	feminine
 feminine
 69774	masculine/feminine
 69776	masculine
 69779	masculine/feminine
 masculine
-69783	
-
-masculine/feminine
-
+69785	masculine/feminine
 69788	masculine
 69790	feminine
-
-69793	
-feminine
+69794	feminine
 69797	masculine/feminine
-69799	
-
-69802	
-69808	
-69811	
-
-feminine
+69813	feminine
 69819	masculine
-
-69822	
-69827	
-
 69830	neuter
-69834	
-masculine
-
-69840	
-masculine/feminine/neuter
-
-69845	
+69835	masculine
+69841	masculine/feminine/neuter
 69847	neuter
 69850	masculine
 masculine/feminine
 69853	neuter
 69855	masculine
-69857	
-69859	
-masculine
+69860	masculine
 69863	neuter
 69865	masculine
-69867	
-
-69870	
 69872	masculine
 masculine
 masculine/feminine
-
-69878	
 69880	masculine/feminine
 neuter
-
-masculine/feminine
+69883	masculine/feminine
 neuter
 feminine
-69887	
 69889	masculine
-69892	
-69894	
-
-
-
-
-69900	
 69902	neuter
-
-69908	
-
 69912	neuter
-
-
-feminine
+69915	feminine
 feminine
 feminine
 neuter
-
 69921	feminine
 neuter
 masculine/feminine
-
-
-69927	
 69929	feminine
 feminine
 feminine
 neuter
-
 69935	masculine
-69937	
-masculine/feminine/neuter
-
-
-
-
-
-masculine
-
-
-69948	
-neuter
-
-
-
-
-
+69938	masculine/feminine/neuter
+69944	masculine
+69949	neuter
 69956	masculine
 masculine/feminine
 69960	neuter
-69963	
 69965	masculine
 69968	neuter
-69971	
-69973	
-
 69976	masculine
-
-
-neuter
-69982	
-masculine
-69985	
+69979	neuter
+69983	masculine
 69987	neuter
-
 69995	feminine
-69997	
-69999	
 70002	neuter
-
-masculine/feminine
+70004	masculine/feminine
 70006	masculine
-70011	
-70013	
-
-
 70018	masculine
 70021	masculine/feminine
-70023	
-
 70027	masculine
-70029	
 70032	masculine
 neuter
 70035	masculine/feminine
-70038	
-neuter
+70039	neuter
 70043	feminine
 feminine
-
-
-
-70050	
 feminine
+masculine
+70051	feminine
 masculine
 70056	masculine
-
 70059	feminine
-
 70062	masculine
-
-masculine
-70066	
-masculine
+70064	masculine
+70067	masculine
 70070	neuter
 feminine
-
-
 70075	feminine
 feminine
 70078	masculine
 masculine/feminine
-
 70082	masculine
 70084	masculine
-
-70089	
-
-70092	
-70094	
-70099	
-70102	
-70104	
-neuter
-
-
-
+70105	neuter
 70110	neuter
-
 70113	feminine
-70115	
-feminine
+70116	feminine
 neuter
 70120	neuter
-70123	
 70125	masculine/feminine
-
+70127	masculine
 masculine
-masculine
-70130	
-
-masculine
+70132	masculine
 neuter
-70136	
-70139	
-
-70145	
-masculine
+70146	masculine
 neuter
-
-
 70151	masculine
 70154	masculine
 masculine
 neuter
-70158	
-70162	
-neuter
-70166	
-70169	
+70163	neuter
 70171	feminine
 feminine
 70174	feminine
 70176	neuter
-70182	
-
-
-70186	
-feminine
-
-masculine
+70187	feminine
+70189	masculine
 neuter
-70192	
-70194	feminine
-
-
+70194	masculine
 70198	masculine/feminine
 feminine
-
 70203	masculine
-70205	
-70208	
 70210	masculine
 masculine
 masculine
 masculine
-70215	
-
-
-masculine
+70218	masculine
 masculine
 70221	masculine
-70224	
-70226	
-70228	
 70230	feminine
 feminine
 70233	masculine
-
-feminine
+70235	feminine
 masculine
 neuter
-70240	
-70242	
-70244	
-
-masculine
+70246	masculine
 70248	neuter
 70250	neuter
 neuter
 feminine
-70254	
-
 70257	masculine
 masculine
-70260	
-feminine
-
-
+70261	feminine
 70266	feminine
 feminine
-70269	
-
-
-
-70276	
-feminine
-
-feminine
+70277	feminine
+70279	feminine
 masculine
-
 70284	masculine
-70286	
-
-
 70292	masculine
 masculine
-
-
 70297	masculine
-70301	
-
-70304	
-masculine
-
-70308	
+70305	masculine
+masculine/feminine
 70310	masculine
 masculine
-
-70314	
-70316	
-neuter
+70317	neuter
 feminine
-
-70321	
-
 70324	masculine
-70326	
 70328	masculine
-70330	
-
 70333	feminine
-70335	
 70338	feminine
 feminine
-
 70342	masculine
 masculine
 masculine
-
 70347	masculine
 masculine
-70350	
-
-
-masculine
-
-
+70353	masculine
 70361	masculine
-70363	
+70364	neuter
 neuter
-neuter
-
-feminine
-70369	
-70372	
-70374	
+70367	feminine
 70377	feminine
-
-
-70382	
-feminine
-
+70383	feminine
 70386	masculine/neuter
 feminine
 masculine/feminine
-70390	
-
-70397	
 70400	masculine
 masculine
-
-neuter
-
+70403	neuter
 70407	masculine
-70410	
-
 70414	masculine
-
-
 70419	masculine
-70421	
-70425	
-70428	
-70431	
-
 70434	masculine
-70437	
+70437	masculine
 70443	masculine
-
 70446	masculine
-
 70450	masculine
 masculine
-
 70455	feminine
 feminine
 70458	masculine
-
-
-70464	
 70466	feminine
 70468	neuter
 70472	feminine
 feminine
 feminine
-
-70480	
 70483	masculine
 masculine
 neuter
-70487	neuter
-
-70490	
-70493	
-70497	
+70487	feminine
 70502	feminine
 70507	masculine
-70509	
 70511	feminine
 masculine
-70521	
-neuter
-
-
-
-masculine
-
+70522	neuter
+70526	masculine
 70529	masculine
-70531	
 70533	neuter
-70535	
-
-70539	
-
 70542	masculine
-70544	
 70546	neuter
 masculine
 70549	masculine
-
-70553	
-
-70556	
-masculine
-70559	
+70557	masculine
 70564	masculine
 masculine
-70567	
-
 70572	masculine
-70574	
-70576	
-feminine
-70579	
-70581	
-masculine
-
+70577	feminine
+70582	masculine
 70586	feminine
 70588	feminine
 70590	feminine
 70592	feminine
-70596	
-70600	
-70602	
-masculine
-70605	
-feminine
-
-masculine
+70603	masculine
+70606	feminine
+70608	masculine
 70613	masculine
 neuter
-neuter
+feminine
 70623	masculine
-70625	
-70627	
 70629	neuter
 70631	masculine
-
-masculine
+70633	masculine
 70635	neuter
-
-70639	
-70642	
-neuter
+70643	neuter
 masculine
 masculine
 masculine
-
-
-masculine
+70649	masculine
 masculine
 70653	masculine
 masculine
-70656	
-
 70662	masculine
 masculine
 70669	neuter
-
 70672	masculine
-
 70676	masculine/feminine
-
-feminine
+70678	feminine
 70681	feminine
 feminine
-
-feminine
-70686	
-masculine/feminine
+70684	feminine
+70687	masculine/feminine
 masculine
 feminine
 70692	masculine/neuter
-
-70696	
 70698	feminine
-70706	
-neuter
-70712	
+70707	neuter
 70714	masculine
 masculine
-70717	
-masculine
-70720	
+70718	masculine
 70722	neuter
 70724	masculine
 70727	masculine
-
-70731	
 feminine
-
+70731	masculine
+feminine
 70735	masculine
-
+70737	neuter
 neuter
 neuter
-neuter
-
-
 70743	neuter
-70745	
-neuter
-
+70746	neuter
+feminine
 feminine
 feminine
 feminine
 70752	feminine
 feminine
 70756	feminine
-
 70759	neuter
 feminine
 feminine
 feminine
 masculine
-70765	
 70767	masculine
 masculine
-70770	
+70771	neuter
 neuter
-neuter
-70775	
-70779	
 70782	feminine
-70784	
 70789	feminine
 70791	masculine
 70793	masculine
 70796	feminine
-70799	
 70804	feminine
 feminine
 70808	feminine
 masculine
 70813	feminine
-70819	
 70821	masculine
 70824	feminine
 feminine
-
-
-70829	
-
 70832	masculine
 70835	masculine/feminine
-
-feminine
-70840	
-
-
+70837	feminine
 70844	feminine
 70846	masculine/feminine
 70850	neuter
 masculine/feminine
-70853	
 70855	neuter
 masculine
 feminine
 feminine
-
 70862	masculine
-
-neuter
-neuter
-70867	
-
-70870	
-70872	
+70864	neuter
 feminine
-
+70873	feminine
 70876	feminine
-70878	
-neuter
+70879	neuter
 neuter
 70884	neuter
 neuter
 70887	masculine
-70889	
-neuter
-70894	
-neuter
+70890	neuter
+70895	neuter
 70897	masculine
-
 70900	neuter
 feminine
 feminine
-
 70905	feminine
 feminine
-
-
-
 70911	neuter
-
-neuter
+70913	neuter
 70916	masculine
 masculine
-
-70921	
 70923	neuter
-70925	
-masculine
-70929	
-
+70926	masculine
 70932	masculine
 70935	feminine
-
-feminine
-
-70940	
-masculine
+70937	feminine
+70941	masculine
 70943	masculine
 masculine
 neuter
-
 70948	feminine
-
 70952	masculine/feminine/neuter
 feminine
-
-neuter
+70955	neuter
 70957	masculine
 masculine
 neuter
-
-70962	
-70965	
-70967	
-
-neuter
-70971	
-feminine
+70969	neuter
+70972	feminine
 70975	masculine
-
-70978	
-70980	
-feminine
+70981	feminine
 feminine
 70989	masculine/neuter
 70991	neuter
 70995	feminine
-70997	
 71000	neuter
 71002	masculine
 71004	neuter
-
 71008	neuter
 71010	masculine
-
 71013	feminine
-
-71016	
-masculine
+71017	masculine
 neuter
 neuter
 71023	feminine
 71025	feminine
-
-
-71030	
-71033	
+71034	masculine
 masculine
-masculine
-71037	
-masculine
+71038	masculine
 71040	masculine
-
-
+71042	masculine
 masculine
-
-71046	
-masculine
+71047	neuter
 neuter
 71050	masculine/feminine
-71052	
-71054	
-
 71058	neuter
 masculine
 71063	masculine
-
-71068	
-71071	
-71075	
-71078	
-71080	
-neuter
+71071	masculine
+71081	neuter
 71083	masculine
 masculine
 neuter
-
-
 71090	masculine
-
-
-masculine
+71093	masculine
 71095	masculine
-71097	
-
 71100	masculine
 71102	feminine
-
-71105	
-
-71112	
+71113	masculine
 masculine
 masculine
 masculine
-masculine
-71119	
 71121	masculine
 masculine/neuter
-
-
-71126	
-71129	
-71133	
-
-
-
-71138	
-masculine/feminine
+71139	masculine/feminine
 neuter
-71143	
-
-71147	
 71149	masculine
 71152	masculine
-
-
-
-
-neuter
-
-masculine/feminine
+71157	neuter
+71159	masculine/feminine
 feminine
 feminine
-71164	
-masculine
-71167	
-71169	
+71165	masculine
 71171	masculine/feminine
 71175	neuter
 masculine
-
-
-masculine/neuter
-
+71179	masculine/neuter
 71182	feminine
 feminine
-71185	
-71188	
-
-
 71193	neuter
-71195	
-71197	
-masculine/neuter
-71202	
-
-71205	
-
-
-masculine/feminine
+71198	masculine/neuter
+71208	masculine/feminine
 neuter
-71211	
+71212	feminine
 feminine
 feminine
-feminine
-
-71217	
-neuter
-
-71221	
-
-
+71218	neuter
 71225	feminine
 masculine
-71229	
-masculine
+71230	masculine
 71234	masculine
 neuter
 71238	masculine/feminine
-
-
-71243	
 71246	masculine
 masculine
 neuter
 masculine
 71251	neuter
-
-71255	
-masculine
+71256	masculine
 71258	masculine
-
 71261	masculine
-71264	
-71267	
 71269	masculine
 neuter
-
-71273	
-71277	
-71281	
-
-masculine/feminine
+71283	masculine/feminine
 71285	feminine
-71288	
 71291	masculine
 masculine
 71295	neuter
 masculine/feminine
-
-neuter
-
-71303	
-
-71308	
-
-
+71298	neuter
+71303	masculine/feminine
 71312	masculine
 masculine
-71316	
-masculine
+71317	masculine
 feminine
-
 71322	feminine
-71325	
-71327	
-
 71330	masculine
-71332	
-71334	
-
+71335	masculine/feminine
 masculine
-
-
-feminine
-71341	
-71344	
-feminine
+71339	feminine
+71345	feminine
 71348	feminine
 feminine
-
-71352	
-
-neuter
+71352	masculine/feminine
+71354	neuter
 masculine
-71357	
-71360	
-71363	
-masculine
-71367	
-feminine
+71364	masculine
+71368	feminine
 71370	masculine
-
-feminine
-
-71375	
-71377	
-71379	
+71372	feminine
+71380	masculine
 masculine
-masculine
-71387	
-
-neuter
-71391	
-masculine
+71387	masculine/feminine
+71389	neuter
+71392	masculine
 neuter
 feminine
-
-
-
-masculine
-
+71398	masculine
 71401	masculine
-71404	
 71406	feminine
-71408	
-
 71412	masculine
-71415	
 71417	neuter
 masculine
 71425	neuter
 71429	neuter
-
-71432	
-71435	
-neuter
+71436	feminine
 masculine
 masculine
 71442	masculine
-71444	
 71446	masculine
 71449	feminine
 71451	feminine
-71453	
 71455	feminine
-
 71459	masculine
 71461	masculine
-71464	
-71466	
 71469	masculine
 71472	masculine
 71474	feminine
-71476	
-masculine
+71477	masculine
 71479	masculine
 71482	masculine
-
-
-
-
-masculine
-71489	
+71487	masculine
 71491	neuter
 71496	feminine
-
-
-
-
-feminine
+71501	feminine
 feminine
 feminine
 71506	neuter
-71508	
-masculine
-
-
+71509	masculine
 71513	masculine
-71515	
-
-
-masculine
+71518	masculine
 feminine
 71523	masculine/feminine/neuter
-71525	
-71527	
-71529	
-71533	
-
-neuter
+71535	neuter
 masculine/feminine
-71540	
-neuter
-
-71546	
-masculine
+71541	neuter
+71547	masculine
 71550	masculine/feminine
-
-
-71556	
 71559	masculine
-71561	
-
-neuter
+71563	neuter
 feminine
-
 71567	masculine
 neuter
 71570	masculine
 masculine
 masculine/neuter
 71574	neuter
-71576	neuter
-
+71576	feminine
 71579	neuter
-masculine
+neuter
 71582	neuter
-
-71587	
-masculine
+71588	masculine
 neuter
 71591	feminine
-
 71596	masculine
-
-71604	
+71605	masculine
+71607	masculine
 masculine
-
-masculine
-masculine
-71611	
-masculine
-
-71615	
-neuter
+71612	masculine
+71616	neuter
 neuter
 feminine
 feminine
-
-masculine
-71624	
+71621	masculine
 71626	neuter
-
-feminine
-71630	
+71628	feminine
 71632	neuter
-
-
-masculine
+71635	masculine
 feminine
 71639	masculine
-
-masculine/feminine
-
-masculine
+71641	masculine/feminine
+71643	masculine
 71650	masculine
-
-
-71655	
-71658	
-
 71661	masculine
 masculine
-71664	
-
-71667	
-feminine
+71668	feminine
 masculine/feminine
 71672	masculine
 71675	masculine
 71677	masculine
-71679	
 71681	masculine/feminine
-
 71684	neuter
 neuter
-
-71689	
-neuter
-
+71690	neuter
 71694	masculine
-
 71700	masculine
-
+71702	masculine
 masculine
-masculine
-
 71707	masculine
 feminine
 71712	neuter
 71715	masculine
 71717	neuter
-feminine
-masculine
-
-71722	
-feminine
-71727	
-
-feminine
+71719	masculine
+71723	feminine
+71729	feminine
 71731	masculine
 71733	neuter
-
 71737	neuter
-71740	
-
-
-71744	
 71746	masculine/neuter
-
-71749	
-
-71752	
-neuter
+71753	neuter
 neuter
 71756	feminine
 71758	neuter
 71761	neuter
 71764	neuter
 feminine
-
-
-71771	
-feminine
-71774	
+71772	feminine
+71775	masculine
 masculine
+71781	masculine
 masculine
-71778	
-
-71781	
-masculine
-
-neuter
-
-masculine/feminine
-71788	
-
+71784	neuter
+71786	masculine/feminine
 71792	masculine
-
-71795	
-
-
-
-
-
-neuter
+71801	neuter
 masculine
 71806	masculine
-
-71811	
-71814	
 71816	masculine
-
-71821	
-
-
-71825	
-
 71828	feminine
-
-
-
-71833	
-feminine
-71837	
+71834	feminine
 71843	neuter
 71845	neuter
-
 71848	masculine/feminine
 masculine
 71851	masculine
-71857	
-71860	
 71864	masculine/feminine
-
-
-71869	
-
 71872	neuter
 neuter
 71875	neuter
-71877	
-71880	
 71883	masculine
 masculine
-71886	
-71889	
-
 71896	masculine
 neuter
-
-
-71901	
-71905	
 71909	masculine
 71915	masculine/feminine
-
-feminine
-
-71920	
-71922	
-masculine
-
-
-masculine
+71917	feminine
+71923	masculine
+71926	masculine
 71929	feminine
-71933	
 71935	masculine
-
 71939	feminine
-
+feminine
 71942	neuter
 masculine
-71945	
 71947	masculine/feminine
-71949	
 71951	masculine
 71953	masculine
-
-masculine/feminine
+71955	masculine/feminine
 71957	masculine/feminine
-
 71960	neuter
 71963	feminine
 neuter
@@ -42642,316 +21930,164 @@ masculine
 masculine
 71974	masculine
 71977	feminine
-
-feminine
+71979	feminine
 71981	masculine
-71985	
-71990	
-masculine
-
-
+71991	masculine
+71993	masculine
 feminine
 71996	feminine
 71998	feminine
-72003	
-masculine
+72004	masculine
 neuter
-
-
-72009	
-
-neuter
+72011	neuter
 72013	masculine
 72015	masculine
-72018	
-feminine
-
+72019	feminine
 72027	masculine
-72030	
 72032	masculine
 72034	neuter
-72036	
 72038	masculine
-
-
-
 72043	masculine
 72046	masculine
-72048	
-neuter
+72049	neuter
 72052	feminine
-72055	
-72057	
-neuter
-72060	
+72058	neuter
+72061	masculine
 masculine
-
 feminine
 72067	masculine
-72069	
-72071	
-neuter
-72077	
-feminine
+72072	neuter
+72078	feminine
 72080	feminine
-
-
-masculine
-
-
+72083	masculine
 72089	masculine/feminine
 72091	masculine
-72098	
-masculine
-
-72102	
-masculine
-
-neuter
+72099	masculine
+72103	masculine
+72105	neuter
 72107	feminine
-72109	
-feminine
+72110	feminine
 72113	neuter
 72116	neuter
-72118	
-
-feminine
-72122	
+72120	feminine
 72124	masculine
-
-
-
-
-feminine
+72127	masculine
+72129	feminine
 72131	masculine
 masculine
-
 72137	feminine
-
-
+72140	masculine
 masculine
-masculine
-
-feminine
-
+72143	feminine
 72146	masculine
-
-neuter
-72152	neuter
-
-72158	
+72148	neuter
+72152	feminine
 72160	feminine
 72162	feminine
-72165	
 72167	feminine
 72169	masculine/neuter
-72171	
-masculine/feminine
+72172	masculine/feminine
 72175	neuter
-
-feminine
-
+72177	feminine
 72180	masculine/neuter
-
-
-feminine
+72183	feminine
 72185	masculine
-72187	
-72192	neuter
+72192	feminine
 72194	masculine
-72196	
 72201	masculine
-
 72204	masculine
 masculine
 feminine
 feminine
-
-masculine/feminine
+72209	masculine/feminine
 feminine
-
 72213	feminine
-
 72219	masculine
 72221	masculine
-72223	
-masculine
-72227	
-
+72224	masculine
 72231	masculine
-
 72234	feminine
 feminine
 72237	neuter
-72239	
-
-
 72243	masculine
 masculine/feminine
-72247	
-72250	
-72255	
 72257	masculine
 72260	masculine
-72262	
-
-masculine
-72267	
-72270	
+72264	masculine
 72272	feminine
 72275	neuter
-
-neuter
-
+72277	neuter
 72283	masculine
-72285	
 72287	feminine
-
-masculine
+72289	masculine
 masculine
 72297	feminine
-72299	
 72302	feminine
-
-72307	
 72309	masculine
-
 72312	neuter
-72314	
-
-72317	
 72320	feminine
-
-masculine
-
+72322	masculine
 72325	masculine
-
-
-neuter
-72330	
-neuter
+72328	neuter
+72331	neuter
 feminine
 feminine
-
-masculine/neuter
-
-
+72335	masculine/neuter
 72339	masculine
-72343	
-72345	
-neuter
-72348	
-
-72353	
-neuter
-
-72358	
-72360	
-72366	
-72368	
-masculine/feminine
+72346	neuter
+72354	neuter
+72369	masculine/feminine
 72372	masculine
-neuter
-
+feminine
 72382	feminine
 72385	masculine/feminine
-72387	
 72393	feminine
-
-72398	
-
-neuter
-72403	
-
-72407	
-
-masculine
+72400	neuter
+72409	masculine
 72412	neuter
 72414	masculine
 masculine
-
-neuter
-72419	
-72421	
-72423	
-
-masculine
+72417	neuter
+72425	masculine
 masculine
 72429	neuter
-72431	
-72433	
 72437	feminine
 72439	feminine
-
 72442	feminine
 feminine
 masculine
-
-
-
 72449	feminine
 72451	feminine
 72453	feminine
 masculine
-
-masculine/neuter
+72456	masculine/neuter
 masculine
-
-
-
+masculine/feminine
 72466	neuter
 72468	feminine
-
-72471	
-72473	
 72475	feminine
 72477	feminine
-72479	
-
-masculine
-
+72481	masculine
 72484	feminine
-
-
 72489	feminine
 72494	masculine
-72496	
 72498	masculine
-72502	
-
-feminine
-72506	
+72504	feminine
 72509	masculine
-72511	
-masculine
+72512	masculine
 72515	neuter
 masculine
 72518	masculine
 72521	masculine
-72526	
-
 72529	neuter
-
-feminine
-
-
-neuter
-
+72531	feminine
+72534	neuter
+72536	masculine
 masculine
-masculine
-72540	
 72542	masculine
-
-
-
 72550	feminine
-72553	
-
-neuter
+72555	neuter
 72559	feminine
-
-72562	
-72564	
 72567	neuter
 neuter
 masculine
@@ -42959,320 +22095,165 @@ masculine
 72574	masculine
 72577	masculine
 feminine
-
 72581	masculine
-72586	
 72588	feminine
-
-feminine
-
-
+72590	feminine
 72595	neuter
-72600	
 72605	neuter
-72607	
-
-72610	
-masculine
-72613	
-neuter
+72611	masculine
+72614	feminine
 72617	neuter
 72619	feminine
-
 72623	masculine
 72625	feminine
 masculine
 72631	masculine
-
-
 72638	masculine
 72640	masculine
 72642	neuter
-
-72645	
-feminine
+72646	feminine
 72652	masculine
 72654	feminine
-
 72658	feminine
-
-neuter
+72660	neuter
 72665	masculine
-72668	
-masculine
+72669	masculine
 72673	masculine
 72677	neuter
-
 72682	feminine
 72684	masculine
 72686	neuter
 masculine
-
-72690	
-feminine
-
+72691	feminine
 72694	feminine
 feminine
 masculine
 72699	neuter
-
-masculine
+72701	masculine
 72703	masculine
 masculine
 masculine
 72709	masculine
 masculine
-72712	
-72714	
-72719	
 72721	neuter
-
-masculine
-72725	
-
+72723	masculine
 72730	masculine
-
-
 72735	masculine
 72737	neuter
-
 72740	neuter
 masculine
-72744	
 72750	feminine
 feminine
 neuter
 neuter
-72758	
-
-masculine
-72762	
-
-72766	
-72768	
-feminine
-72772	
-72774	
-72777	
-neuter
-
+72760	masculine
+72769	feminine
+72778	neuter
 72782	feminine
 feminine
-
 72787	masculine
-
 72791	feminine
 72793	neuter
-72796	
-
-neuter
+72798	neuter
 72801	neuter
-72803	
-72806	
-masculine/feminine
-
+72807	masculine/feminine
 72812	feminine
-
 72816	masculine
 72818	neuter
-
-
-72823	
-neuter
-
+72824	neuter
 72827	neuter
 72829	masculine
-72833	
-72835	
-neuter
-
-
+72836	neuter
 72840	neuter
-
 72846	masculine
 72851	masculine
-
-
-72855	
-
-masculine/feminine
-72859	
+72857	masculine/feminine
 72861	feminine
 feminine
 masculine
-
 72866	feminine
-72868	
-
 72871	feminine
 masculine
-
-masculine
+72874	masculine
 feminine
 feminine
-72879	
 72881	masculine
-
-
-72885	
 72887	masculine
 neuter
 72892	masculine
-72895	
 72898	feminine
 72900	masculine
 72902	masculine
-72905	
-masculine
+72906	masculine
 masculine
 72912	masculine
-
-
-72916	
+72917	masculine
 masculine
-masculine
-72920	
 72923	masculine
-
-72926	
-
 72930	feminine
 masculine
 72933	masculine
 72935	neuter
-
-
-72942	
-72946	
+72947	feminine
+72956	feminine
 feminine
-72952	
-72955	
-feminine
-feminine
-72960	
-72963	
-
-masculine
+72965	masculine
 72967	feminine
 masculine
 neuter
 masculine
-
 72974	masculine
-72977	
-masculine/feminine
-72980	
-
-72987	
-
-72992	
-
-feminine
-
+72978	masculine/feminine
+72994	feminine
 72997	masculine
 72999	masculine
 73002	neuter
-
-masculine
-73006	
-73010	
+73004	masculine
 73013	feminine
-73017	
-
-
-feminine
-
-feminine
+73020	feminine
+73022	feminine
 masculine
-73025	
-
-73030	
-73033	
-73036	
-73038	
-
-masculine/neuter
+73040	masculine/neuter
 73042	masculine
 neuter
 feminine
-
-feminine
-73048	
+73046	feminine
 73050	feminine
 neuter
-
 73056	feminine
-73058	
-feminine
+73059	feminine
 73061	masculine
-
+masculine
 73070	neuter
 masculine
-73076	
-
-
-
 73081	neuter
-73084	
-73086	
 73089	neuter
-
-73094	
-
-
-73099	
-73101	
-
 73104	feminine
 masculine
-73107	
-masculine
+73108	masculine
 neuter
 73111	masculine
 73113	masculine
-73115	
-
 73119	feminine
-73121	
 73123	masculine
 73125	masculine/neuter
 masculine
-73128	
-73130	
-neuter
+73131	neuter
 73133	feminine
-73135	
-73138	
-73140	
+73141	masculine
+73145	neuter
 masculine
-73144	
-neuter
-masculine
-
-73149	
-
-
-73153	
 73156	masculine
 masculine/feminine
-
-
 73162	neuter
 feminine
-
-
-73168	
 73172	masculine
-
-
 73177	neuter
 masculine/feminine
 masculine
 73182	feminine
-73184	
-masculine
+73185	masculine
 73187	masculine
-
 73191	masculine
 masculine
 neuter
@@ -43281,140 +22262,69 @@ feminine
 feminine
 masculine
 feminine
-
-masculine
+73203	neuter
 73205	feminine
 73209	masculine/feminine
 masculine/feminine
-
-73217	
 73220	masculine
 neuter
-
-neuter
+73223	neuter
 feminine
-73226	
-
-
-73230	
-neuter
+73231	neuter
 masculine
-73235	
-73237	
-masculine
-73241	
-feminine
+73238	masculine
+73242	feminine
 masculine/feminine
 73245	masculine/neuter
 neuter
-
 73249	feminine
-
-73254	
 73256	neuter
 73262	feminine
-
 73268	feminine
-73270	
 73272	masculine
-73274	
-73276	
-feminine
-
-73280	
-73282	
-
-73286	
+73277	feminine
 73288	masculine
 masculine
-
-73292	
-73295	
-
-73300	
-masculine
+73301	masculine
 73303	neuter
-73305	
-feminine
-73308	
-
-
-
-neuter
+73306	feminine
+73312	neuter
 neuter
 73315	neuter
 neuter
-73319	
-73321	
-
-
 73325	masculine
-
-
-feminine
+73328	feminine
 73332	feminine
 feminine
-
-
-
-neuter
+73337	neuter
 masculine
 73345	neuter
-73347	
-feminine
+73348	feminine
 neuter
 73351	masculine
-73353	
-
-
-feminine
+73356	feminine
 masculine
-73359	
-
-73363	
+73364	feminine
+73367	feminine
 neuter
-73366	
-feminine
-neuter
-73371	
 73373	feminine
-
-73376	
+73377	masculine
 masculine
-masculine
-73380	
-neuter
+73381	neuter
 73383	masculine
-73386	
 73388	masculine
-
 73391	masculine
-
-73394	
-
+73396	masculine
 masculine
-masculine
-73399	
-73401	
-
-neuter
-73405	
-
+73403	neuter
 73408	feminine
 feminine
 neuter
 masculine
-
-masculine
-
-masculine
+73413	masculine
+73415	masculine
 masculine/feminine
-
-
-
 73421	neuter
-
-
 73428	neuter
 neuter
 73431	feminine
@@ -43423,261 +22333,139 @@ neuter
 feminine
 73441	feminine
 feminine
-73444	
-73447	
-masculine
+73448	masculine
 73450	masculine
 neuter
-
-73454	
-
-73457	
-neuter
-
+73458	neuter
 73464	feminine
 feminine
 feminine
-
-
-73471	
-neuter
+73472	neuter
 73475	masculine
-
-73480	
-73482	
-73484	
-73489	
-masculine
+73490	masculine
 73493	masculine
 masculine
-
-
-
-masculine
+73498	masculine
 neuter
-73503	
-neuter
-73506	
-73509	
-
-
+73504	neuter
 73514	masculine/neuter
 feminine
-
-
-
-neuter
+73519	neuter
 neuter
 73524	masculine/feminine
 masculine
 masculine
-73528	
-
+73530	masculine
+73536	feminine
 masculine
-73532	
-73534	
-
-feminine
-
-
 73540	feminine
 masculine
 73543	neuter
 neuter
-
-73547	
-73550	
-masculine
-73555	
-73557	
-feminine
+73551	masculine
+73558	feminine
 masculine
 73562	masculine
-73564	
-masculine
+73565	masculine
 73567	feminine
 73569	feminine
 masculine
-73572	
 73574	feminine
 feminine
 73577	feminine
 73581	masculine
-73585	
-73587	
 73591	masculine
-73593	
-73595	
-feminine
+73596	feminine
 masculine/feminine/neuter
 neuter
 masculine
 73601	masculine
 73604	feminine
-
-73608	
-
 73611	masculine
-
-masculine
+73613	masculine
 73615	feminine
 73618	masculine
-73621	
-73623	
-73628	
 73631	feminine
 feminine
-73634	
-73637	
-feminine
-
+73638	feminine
 73644	masculine
-73647	
-
 73651	feminine
 feminine
 feminine
-73655	
-feminine
+73656	feminine
 feminine
 masculine
-73664	
-
-masculine
-
-
-
-
-
+73666	masculine
 73673	masculine
 neuter
-
-feminine
-73680	neuter
+73676	feminine
+73680	feminine
 masculine/neuter
-
-neuter
+73683	neuter
 73691	masculine
-73693	
-masculine/feminine
-73696	
-masculine
+73694	masculine/feminine
+73697	masculine
 73699	masculine/feminine
-73702	
-73705	
-feminine
-73708	
+73706	feminine
 73710	feminine
 masculine/feminine
 73713	masculine/neuter
 neuter
-
-73717	
-73720	
-
-feminine
+73722	feminine
 feminine
 73725	feminine
 feminine
 73731	neuter
-
-73734	
-masculine
+73735	masculine
 masculine/feminine
-73739	
 73742	masculine
-73745	
-feminine
+73746	feminine
 feminine
 neuter
-73754	
-73758	
-neuter
+73759	neuter
 73761	masculine
-
-
-73765	
-73767	
-73769	
-73771	
-73774	
-73777	
-73779	
-masculine
-
-
+73780	masculine
 73784	masculine
-
-73787	
-73789	
-neuter
+73790	neuter
 73792	masculine
 masculine
-
-73797	
 73799	masculine/feminine
-
-
 73803	masculine
 masculine
 73808	masculine
-73811	
-masculine
-73814	
-
-neuter
-
-masculine
-
-masculine
-
-73829	
-73832	
-masculine/feminine
-73835	
-73837	
+73812	masculine
+73816	neuter
+73818	masculine
+73820	masculine
+73833	masculine/feminine
 73840	masculine
 73842	masculine
 73845	masculine
 neuter
 73848	neuter
-
-
 73855	masculine
 73857	neuter
 feminine
-
 73862	masculine/feminine
-73864	
-feminine
+73865	feminine
 73867	feminine
-
 73870	feminine
 masculine/feminine/neuter
-73873	
+73874	neuter
 neuter
-neuter
-73877	
 73882	feminine
 73885	feminine
 73887	masculine
 neuter
-
-neuter
-73892	
+73890	neuter
 73894	feminine
-73896	
-masculine
+73897	masculine
 neuter
 neuter
 73902	masculine
 neuter
-73905	
-neuter
-73908	
-masculine/feminine/neuter
-73911	
-73913	
+73906	neuter
+73909	masculine/feminine/neuter
 73915	masculine
 masculine/feminine
 masculine
@@ -43688,353 +22476,191 @@ feminine
 feminine
 73925	feminine
 masculine
-73928	
-73931	
-masculine
-
-neuter
-73937	
-feminine
-73941	
+73932	masculine
+73934	neuter
+73938	feminine
 73947	masculine
-73950	
-
-73957	
 73959	feminine
 masculine/neuter
-73962	
-
-
 73967	masculine
-
-
-
-masculine/feminine
-
-masculine
-
-73977	
-73983	
-neuter
-
+73971	masculine/feminine
+73973	masculine
+73984	neuter
 73987	feminine
-73989	
-73992	
-feminine
+73993	feminine
 masculine
 feminine
 feminine
 feminine
 masculine/neuter
 masculine
-
-
-feminine
-74004	
-neuter
+74002	feminine
+74005	feminine
 masculine/neuter
 masculine
-
-masculine/feminine
-74011	
+74009	masculine/feminine
 74013	feminine
-
-neuter
+74015	neuter
 74018	neuter
 74020	feminine
-74023	
-74027	
-masculine
-
-neuter
-74036	
-
+74028	masculine
+74030	neuter
 74039	feminine
-74042	
-74046	
-
-feminine
-74051	
-feminine
-74054	
-74056	
-74058	
-neuter
-
+74048	feminine
+74052	feminine
+74059	neuter
 74062	neuter
 masculine
 74070	feminine
-
-feminine
-
-masculine
+74072	feminine
+74074	masculine
 74077	neuter
-74079	
-
 74083	feminine
-74085	
-74088	
-neuter
+74089	neuter
 masculine/feminine
 74092	feminine
 masculine
-
-74096	
 74098	feminine
-
-74102	
+74103	masculine
 masculine
-masculine
-
-
-neuter
-
-masculine
-
-
-74118	
-74120	
-74123	
-masculine
+74107	neuter
+74109	masculine
+74124	masculine
 74127	neuter
 74131	masculine
 74133	masculine/feminine
-
-
-neuter
-74142	
-74144	
-
+74136	neuter
 74148	masculine
-74152	
 74154	feminine
-
-74157	
-feminine
+74158	feminine
 74161	masculine
-74163	
-feminine
-74167	
-feminine
-74170	masculine/neuter
-74175	
-74177	
-
+74164	feminine
+74168	feminine
+74170	feminine
 74180	feminine
 74182	feminine
 feminine
 74185	feminine
 feminine
-74188	
-feminine
+74189	feminine
 masculine
-74192	
 74194	neuter
-
-74197	
-feminine
-
+74198	feminine
 74202	feminine
 74205	masculine
-
-
-74210	
-
 74214	masculine
 masculine
-
-
-masculine
+74218	masculine
 74221	masculine
-74223	
-
-
-
 74228	masculine
-74232	
-masculine
-
-74240	
-
+74233	masculine
 74243	masculine/neuter
 masculine/neuter
-
-
-
-masculine
-74250	neuter
-
+74248	masculine
+74250	feminine
 74253	masculine
-
+74255	neuter
 neuter
-neuter
-74259	
-74262	
 74264	masculine
 74268	neuter
 masculine
 74273	masculine
 74276	masculine/feminine
-74279	
 74281	feminine
-
 74284	neuter
-
-feminine
-
-feminine
+74286	feminine
+74288	feminine
 feminine
 neuter
 74293	neuter
-
 74296	neuter
-
-neuter
-
+74298	neuter
 74302	feminine
 masculine/neuter
 neuter
 74306	masculine
 masculine
 feminine
-74311	
-
-
-neuter
+74314	feminine
 74316	masculine
-
+74318	masculine
 masculine
-masculine
-
 74323	neuter
 masculine
-74328	masculine
-74332	
-masculine
+74328	neuter
+74333	masculine
 74336	masculine/neuter
 feminine
-
-masculine
+74339	masculine
 74341	feminine
-74344	
 74348	neuter
-
-74352	
-74354	
 74356	masculine
-74359	
+74360	masculine
 masculine
-masculine
-
 74364	neuter
 masculine
-74369	
-74372	
 74374	neuter
 74376	neuter
-
+74378	masculine
+74380	feminine
 masculine
-
-feminine
-masculine
-74384	
-feminine
-
-74388	
+74385	feminine
 74390	neuter
 74393	feminine
 74395	neuter
 feminine
-74398	
-74400	
-74403	
-
-masculine
+74405	masculine
 74407	feminine
 feminine
 74410	masculine
 74412	masculine
 neuter
 neuter
-74417	
-74419	
-masculine
-74423	
-masculine
+74420	masculine
+74424	masculine
 masculine
 feminine
 feminine
-74431	
-
-masculine
-
-74436	
-feminine
-74439	
-
+74433	masculine
+74437	feminine
 74442	neuter
-
-
-neuter
-
+74445	neuter
 74448	feminine
 74450	feminine
 74454	feminine
-74458	
 74460	masculine
-74462	
-feminine
+74463	feminine
 masculine/neuter
-
-74470	
-
-74474	
-masculine
-74478	
+74475	neuter
 74485	masculine/feminine
 feminine
-
-feminine
+74488	feminine
 masculine
 masculine
-
-neuter
-
-
-feminine
+74492	neuter
+74495	feminine
 masculine/feminine
-
 74500	masculine
 masculine
 74503	neuter
 74506	masculine
 masculine
-74509	
-74513	neuter
+74513	feminine
 74515	neuter
 masculine
 74519	masculine
-74523	
 74525	feminine
 74527	masculine/feminine
 74529	masculine/feminine
-74532	
-74537	
-
-
-feminine
+74540	feminine
 74542	feminine
-
-masculine
+74544	masculine
 feminine
 feminine
 feminine
-74549	
-
 74552	masculine/feminine
 74555	masculine
 masculine
-
 74559	feminine
 masculine/feminine
 74563	feminine
@@ -44042,236 +22668,139 @@ masculine
 74569	feminine
 feminine
 neuter
-
-
-74575	
-masculine
+74576	masculine
 feminine
 masculine
 masculine
 74582	masculine
 74584	masculine
-74587	neuter
-
-masculine
+74587	feminine
+74589	masculine
 neuter
 feminine
-74594	
-74596	
-masculine
+74597	masculine
 74599	masculine/feminine
-74601	masculine/feminine
-74603	
-masculine
-
+74601	masculine
+74604	masculine
 74607	feminine
 neuter
 74614	feminine
 74616	feminine
-
-feminine
+74618	feminine
 masculine
-74622	
-
+74624	masculine
+74630	feminine
+74643	feminine
 masculine
-74628	
-
-feminine
-74641	
-
-feminine
-masculine
-
 74647	masculine
 74650	masculine
-74652	neuter
-
-74665	
-
-feminine
+74652	feminine
+74667	feminine
 feminine
 74676	masculine
-
-
-feminine
-74683	
+74679	feminine
 74685	feminine
 feminine
-74689	
-masculine
-
+74690	masculine
 74693	masculine/feminine
 feminine
-
 74697	masculine
-74700	
-74704	
-74706	
-
-74712	
-masculine
-
-masculine/neuter
+74706	feminine
+74713	masculine
+74715	masculine/neuter
 masculine
 74722	masculine
 74724	neuter
 masculine
-74728	
 74730	neuter
 74732	neuter
-
-feminine
+74734	feminine
 74736	masculine
 neuter
 neuter
-
 74741	neuter
 masculine
-74749	
 74752	neuter
-74754	
-masculine
+74755	masculine
 neuter
 74758	masculine
-
-
-feminine
+74761	feminine
 74764	masculine
 masculine
-
-74768	
-74770	
-masculine
-
+74771	masculine
+74773	feminine
 feminine
-feminine
-
 74778	masculine/feminine
 74780	masculine/feminine
 masculine
 feminine
 feminine
-
-74787	
-74790	
-feminine
-74793	
-feminine
+74791	feminine
+74794	feminine
 masculine/feminine
-
-
 74800	masculine
 74802	feminine
 feminine
-74809	
-feminine
-
+74810	feminine
 74815	feminine
 74818	masculine
 74820	masculine/feminine
 neuter
 74824	feminine
-74827	neuter
-74832	
+74827	feminine
 74835	neuter
-74839	
-feminine
+74840	feminine
 masculine
 74843	neuter
-
-
-74847	
-feminine
+74848	feminine
 feminine
 74851	neuter
-
-neuter
+74853	neuter
 74855	neuter
 feminine
-
-feminine
+74858	feminine
 feminine
 74861	feminine
 feminine
-
-masculine
+74864	masculine
 feminine
 74868	feminine
-74870	
-feminine
-74873	
-
+74871	feminine
 74877	masculine/feminine
-
 74881	masculine/feminine
 74884	feminine
-74886	
-
-masculine
-74890	
-74893	
-
-feminine
-74898	
+74888	masculine
+74895	feminine
 74900	masculine/feminine
-
-
 74904	feminine
-74907	
-
 74912	masculine
 74916	masculine/feminine
-
-
-74922	neuter
-74924	
+74922	feminine
 74929	masculine/feminine
-
 74933	masculine
 74936	masculine
-
-
-masculine/feminine
+74939	masculine/feminine
 masculine
 masculine/feminine
-
-74946	
-
-74950	
-masculine/feminine
+74951	masculine/feminine
 masculine
-
-
-masculine/feminine
+74955	masculine/feminine
 masculine
 74960	masculine
-74962	
-74965	
-74967	
 74969	feminine
-
-masculine
+74971	masculine
 feminine
-74974	
-masculine
+74975	masculine
 74978	feminine
 74981	feminine
 feminine
 feminine
-
-74986	
-
-
-feminine
+74989	feminine
 74991	feminine
 masculine/feminine
-
-
+74995	feminine
 feminine
-feminine
-74999	
-75002	
-75004	
+75004	masculine/feminine
 75009	masculine
 75015	masculine/feminine
 75018	feminine
@@ -44280,133 +22809,83 @@ feminine
 75026	masculine
 masculine
 masculine
-
 75031	feminine
-75035	
-75037	
 75041	masculine
 neuter
 75045	feminine
-
 75049	feminine
-
-masculine
-75054	
+75051	masculine
 75057	masculine
-
-75060	
-masculine/feminine
+75061	masculine/feminine
 75064	feminine
 feminine
-
 75070	neuter
 feminine
 75073	feminine
-
-masculine/feminine
+75075	masculine/feminine
 75077	feminine
 75081	masculine/neuter
 75083	feminine
 75085	feminine
-
 75089	masculine/feminine
-
-feminine
+75091	feminine
 75093	masculine
 feminine
 masculine
-
-neuter
-
-masculine/neuter
-
+75097	neuter
+75099	masculine/neuter
 75102	masculine/neuter
-
-masculine
+75104	masculine
 feminine
-75108	
-
-feminine
+75110	feminine
 feminine
 masculine
-75116	
-
-75119	
-
-
-
 75124	masculine
 masculine
-75130	
-75132	
-feminine
+75133	feminine
 75136	masculine
 masculine
-75139	
-
-feminine
+75141	feminine
 75144	feminine
 neuter
 75151	masculine
-75153	
 75155	feminine
-
 75158	masculine
-75163	
-
 75166	masculine
 feminine
-
-feminine
-75172	
+75169	feminine
 75175	masculine/neuter
 neuter
 neuter
-
 75180	masculine/feminine
-75182	feminine
-75184	
-neuter
-75187	
-masculine
+75182	masculine
+75185	neuter
+75188	masculine
 75191	neuter
 75193	masculine
-
-masculine
+75195	masculine
 neuter
 neuter
-75199	
 75201	feminine
 75204	neuter
 feminine
-
-
-75210	
-75212	
+75212	masculine
 75216	feminine
 75218	feminine
-
-75221	
 75223	masculine/feminine
-75228	
-neuter
-
-75233	
+75229	neuter
 75236	neuter
 75239	masculine
-75241	
 75243	neuter
 75246	neuter
 masculine
 masculine/feminine
 75256	neuter
-75258	
 75263	feminine
 feminine
-
+feminine
 75268	neuter
 neuter
-
 75274	masculine
 75277	masculine
 feminine
@@ -44414,171 +22893,94 @@ feminine
 feminine
 75282	masculine
 75285	feminine
-75288	
 75292	masculine/feminine
-75297	
+75298	masculine
+75301	masculine
 masculine
-75300	
-masculine
-masculine
-75307	
 75309	masculine
-75314	
-
 75318	masculine
-75322	
 75324	masculine
 neuter
-75327	
-75329	
 75331	masculine
-75333	
-masculine
-
+75334	masculine
 75337	masculine
 75343	masculine
 neuter
-
 75348	neuter
-75351	
-neuter
+75352	neuter
 masculine/feminine
-masculine/neuter
-75356	
-
 feminine
+75358	feminine
 neuter
-75363	
-feminine
-
-feminine
-75370	
-masculine/neuter
+75364	feminine
+75366	feminine
+75371	masculine/neuter
 feminine
 75377	masculine
 neuter
-75382	
-75384	
 75388	feminine
-75390	
-75393	
-neuter
+75394	neuter
 feminine
 75398	neuter
 masculine
-
 75402	masculine
 masculine
 masculine
 75406	feminine
-
 75410	masculine
-75413	
-75418	
 75420	masculine
-
-
-
-75427	
-
-
-masculine
+75430	masculine
 75437	masculine/feminine
 feminine
 75440	feminine
-75444	
 75449	masculine/feminine
 masculine/neuter
-
-75453	
 75456	masculine/feminine
-75461	
-masculine
+75462	masculine
 masculine
 neuter
 75466	feminine
-75470	
-masculine
-
-75479	
-75481	
-75486	
+75471	masculine
 75488	masculine
-
 75492	masculine/feminine
 75500	masculine
 75503	feminine
 75506	masculine/feminine
-
-
-75511	
-masculine
+75512	masculine
 feminine
 feminine
-
-75519	
-75521	
-75525	
-75527	
-
+75529	neuter
+75531	masculine/neuter
 neuter
-
-masculine/neuter
-neuter
-75536	
 75538	masculine
-
-75543	
-masculine
-75546	
+75544	masculine
 75549	masculine
 masculine
 masculine
 masculine
 neuter
-
-
-
-75558	
-
-neuter
-
-75564	
-75567	
-masculine
+75560	neuter
+75568	masculine
 feminine
-
-feminine
-75575	
-
+75571	feminine
+75577	masculine/neuter
 masculine/neuter
-masculine/neuter
-
-feminine
+75580	feminine
 75583	masculine
-
 75587	feminine
 75589	masculine
 masculine/feminine
 masculine
-75594	
 75598	masculine
-
-feminine
-75602	
-75605	
+75600	feminine
 75607	masculine
 masculine
-75612	
 75615	masculine/feminine
-75617	
 75619	masculine
 masculine
-
-masculine
+75622	masculine
 75624	feminine
 masculine
-75629	
 75632	masculine
 75637	feminine
 75640	masculine/neuter
@@ -44587,847 +22989,437 @@ masculine
 75652	masculine
 75654	feminine
 75658	masculine
-
-
 75663	feminine
 feminine
 neuter
 75667	masculine
-75670	
-neuter
-75673	
-75675	
+75671	feminine
 75679	masculine
-
-feminine
-75684	
+75681	feminine
 75687	feminine
 feminine
-75692	
 75694	feminine
-
-masculine
-75698	
-75701	
-feminine
+75696	masculine
+75702	feminine
 feminine
 75706	masculine/feminine
 75708	feminine
 feminine
-
 75712	feminine
-75717	
-neuter
+75718	neuter
 75721	masculine/neuter
-75723	
-feminine
-
-75727	
-
-
-
+75724	feminine
 75733	masculine
-
 75736	masculine
-
-
-75740	
-
-feminine
-
-
-
+75742	feminine
 75747	masculine
-75749	
-neuter
-
-
-75758	
-75760	
-75763	
-masculine
-75767	
-
+75750	neuter
+75764	masculine
+75767	masculine
 75770	feminine
-75772	
-neuter
-
-masculine
+75773	neuter
+75775	masculine
 75777	masculine
-75779	
-masculine
-75785	
-
+75780	masculine
+75786	masculine
 feminine
 75793	masculine
-75797	
-
-feminine
-
-75804	
+75799	feminine
 75807	feminine
-75810	
 75815	neuter
-
-neuter
+75817	neuter
 75819	neuter
 feminine
-75823	
-75826	
-
-masculine
-75830	
-75835	
-
-feminine
-
-
+75828	masculine
+75837	feminine
+75839	feminine
 masculine/feminine
-75844	
 75847	feminine
 masculine/feminine/neuter
 75850	feminine
 masculine
-
-neuter
-75855	
-
-neuter
-
+75853	neuter
+75857	neuter
 75860	masculine
-75863	
-masculine
+75864	masculine
 75866	masculine/feminine/neuter
 masculine/neuter
-
-masculine
-75871	
+75869	masculine
 75876	masculine/neuter
 75880	neuter
-
 75883	masculine
 masculine
-
-masculine
-
+75886	masculine
 75889	masculine/feminine
 feminine
-
 75893	feminine
-
-masculine/neuter
+75895	masculine/neuter
 75898	masculine
 75900	masculine/feminine
-75902	
+75903	feminine
 feminine
 feminine
-feminine
-
 75909	masculine/feminine
-
-feminine
+75911	feminine
 75913	masculine
 75917	masculine
 masculine
 masculine
-
 75922	masculine
-
-
-
-neuter
-
+75926	neuter
 75929	neuter
 masculine
-75934	
-
-
-masculine/feminine/neuter
+75937	masculine/feminine/neuter
 masculine
 75941	masculine
-
-masculine
-
+75943	masculine
 75946	feminine
-
 75951	masculine
 neuter
 75954	feminine
-
-75958	
 75961	masculine/feminine/neuter
 masculine
 masculine
-75966	
-75968	
-
-
-masculine
+75971	masculine
 75973	masculine
-
 75978	masculine
 neuter
-
-neuter
-75983	
+75981	neuter
 75985	feminine
 masculine
 masculine
-
-
-75991	
-
-feminine
-
-
-masculine/feminine/neuter
+75993	masculine
+75996	masculine/feminine/neuter
 75998	masculine
-
-76001	
-feminine
+76002	feminine
 feminine
 76007	neuter
 masculine
-
-
-
-masculine/neuter
-masculine
+76012	masculine/neuter
+neuter
 76015	feminine
-
-
-76019	
 76021	feminine
-
 76024	masculine
 76026	feminine
 feminine
 76029	feminine
 neuter
 76033	neuter
-
-neuter
-76043	
-feminine
-
-masculine/neuter
+76035	neuter
+76044	feminine
+76046	masculine/neuter
 76048	feminine
 neuter
-
-neuter
-76053	
-76055	
-76058	
-76060	
-feminine
+76051	neuter
+76061	feminine
 76063	feminine
 masculine/neuter
-76066	
-76074	
-neuter
-
-
+76075	neuter
 76079	masculine
-
-masculine/neuter
-
-
-76085	
+76081	masculine/neuter
 76088	feminine
 76090	masculine
 76092	neuter
-76096	
 76098	feminine
 masculine
 masculine
 76102	neuter
-76104	
-76109	
 76112	masculine/feminine
-
-
-
-
 76118	feminine
-
-76121	
-feminine
+76122	feminine
 76126	masculine
-masculine/neuter
-
-76130	
-masculine
+feminine
+76131	masculine
 76134	masculine/neuter
 masculine
 masculine
-76138	
-masculine
-76141	
-
-
-
+76139	masculine
 76149	masculine
-76151	
-
-masculine
+76153	masculine
 neuter
-
 76159	neuter
-76161	
 76164	masculine
 masculine
-76172	
-masculine/feminine
+76173	masculine/feminine
 neuter
-
+76176	feminine
+76179	masculine/neuter
 feminine
-76178	
-masculine/neuter
-feminine
-
-
 76185	feminine
 neuter
 neuter
 76189	masculine
 neuter
-
+76192	neuter
+masculine/feminine
 neuter
-
-neuter
-
 76197	feminine
 76201	neuter
-neuter
-76210	
+feminine
 76212	feminine
-
-neuter
-76216	neuter
+76214	neuter
+76216	feminine
 76218	neuter
 76222	neuter
-76225	
-76227	
-
-
-
-76232	
-
-masculine
-
-masculine
-76238	
-
-76243	
-76245	
-
+76234	masculine
+76236	neuter
 76248	feminine
 neuter
-
-masculine
+76251	masculine
 76253	masculine
-76256	
-
-masculine
-76262	
+76258	masculine
 76265	masculine
 76267	masculine/neuter
 76269	neuter
-76271	
-masculine
+76272	masculine
 neuter
-76275	
 76279	feminine
 feminine
-
 76284	feminine
-76286	
-
-
-76290	
+76291	neuter
 neuter
-neuter
-
-76295	
-76297	
-
-feminine
-
+76299	feminine
 76302	masculine
 masculine
 76306	neuter
 masculine/feminine
 feminine
 feminine
-
-feminine
-
-masculine
+76311	feminine
+76313	masculine
 76316	masculine
-76319	
-masculine
+76320	masculine
 masculine/feminine
 masculine/neuter
-
 76325	neuter
 76328	feminine
 feminine
-76331	
-76334	
 76336	masculine
 masculine
-
-76342	
-76344	
-
-
-
+76344	feminine
 76349	masculine
-76352	
-
-
-masculine/neuter
-76358	
-
-
-
-
+76355	masculine/neuter
 76364	masculine
-76368	
-
-feminine
-
+76370	feminine
 76376	feminine
-76379	
-neuter
-76383	
-neuter
-76387	
+76380	neuter
+76384	neuter
 76390	feminine
-
 76393	masculine
-
-
-76398	
-76400	
 76403	masculine
-
-
 76407	masculine
-
 76411	feminine
 76414	neuter
-76417	
-76422	
+76423	masculine
 masculine
-masculine
-76428	
-76430	
 76432	neuter
-
 76435	neuter
-
-
-
-76440	
-
-feminine
-
-76447	
-
+76442	feminine
 76452	masculine
-
 76455	feminine
 76458	feminine
-
-76461	
-76467	
-
-76476	
-neuter
-
-76483	
+76477	neuter
 76486	masculine
-76490	
-feminine
+76491	feminine
 feminine
 76495	masculine
-76497	
 76499	masculine/feminine
 76501	masculine/feminine
 neuter
 76505	masculine
-76507	
 76513	neuter
-
-76516	
-masculine
-
-
-masculine
-76524	
-76527	
-76529	
-
+76517	masculine
+76520	neuter
 76532	neuter
-
-neuter
-76536	
-
-
-
-masculine
+76534	neuter
+76540	masculine
 76542	masculine
-76544	
 76546	feminine
-
-neuter
-76550	
-
+76548	neuter
 76553	masculine
-76556	
-feminine
-
+76557	feminine
 76562	feminine
-76564	
-feminine
-76567	
+76565	feminine
 76569	neuter
-
-76572	feminine
 76575	feminine
 76577	masculine/feminine
 76581	masculine
 76584	masculine/feminine
 feminine
 76587	masculine
-
-neuter
-76592	
-
-masculine
+76589	neuter
+76594	masculine
 masculine/feminine
-
-
 76599	masculine
-76601	
 76604	masculine
-
-masculine
+76606	masculine
 76608	feminine
-
-76614	
-neuter
-
-
-masculine
+76615	neuter
+76618	masculine
 masculine
 neuter
 76623	masculine
-76625	
-
-76628	
-
-masculine
+76630	masculine
 76633	neuter
 76636	masculine
-76640	neuter
+76640	masculine
 neuter
 76644	masculine
-
-neuter
+76646	neuter
 76649	neuter
-76651	
 76653	feminine
 masculine
 masculine
 76659	feminine
-
-76668	neuter
+76668	feminine
 76670	masculine
-
-76674	
+masculine/feminine
 76676	feminine
-
-neuter
+76678	feminine
 masculine/neuter
 neuter
 76683	masculine
-76687	
-
 76690	feminine
-76692	
 76695	neuter
 neuter
 feminine
 neuter
-76700	
-masculine
+76701	masculine
 76704	masculine/feminine
 masculine
-
-
-76710	
 76712	masculine
 76715	masculine
-76721	
 76723	masculine
-76726	
-
-
-neuter
+76729	neuter
 76732	masculine
-76734	
-
 76737	masculine
-76739	
 76742	masculine
 76745	feminine
-
 76748	masculine
-
 76751	neuter
-76754	
-76758	
-76764	
-76766	
-
-masculine
+76768	masculine
 masculine
 76772	neuter
-
 76775	feminine
-
 76780	masculine
-76783	
-
-feminine
-76787	
-
+76785	feminine
 76790	masculine
 76794	feminine
-76797	
-76801	
-feminine
-
-masculine
+76802	feminine
+76804	masculine
 76806	masculine/neuter
-
 76809	feminine
-
-neuter
-
-76814	
-76817	
+76811	neuter
 76820	masculine
-
-
-76824	
+masculine/feminine
 76826	neuter
-
 76829	masculine
 76831	masculine/feminine
 masculine
-
-
-
-masculine
-76840	
-neuter
+76836	masculine
+76841	neuter
 76846	masculine
 76848	masculine/feminine
-
-76852	
-masculine
-76855	
+76853	masculine
 76858	feminine
-
-
-feminine
+76861	feminine
 feminine
 masculine
-76865	
-neuter
+76866	feminine
 masculine/neuter
-
-76872	
 76874	masculine
-76876	
-
 76879	neuter
-76881	
-neuter
-76884	
+76882	neuter
 76886	neuter
 feminine
 76889	neuter
-
 76892	neuter
 neuter
-
-76897	
 76899	feminine
 feminine
 feminine
-76904	
 76907	neuter
 76909	neuter
 neuter
-76912	
-
+76914	masculine
 masculine
 masculine
-masculine
-
-feminine
+76918	feminine
 76921	neuter
-76923	
-
-76926	
-feminine
+76927	feminine
 76929	masculine
 feminine
-
 76933	masculine
-
 76939	neuter
-
-neuter
-76944	
-76948	
-76951	
-
+76941	neuter
 76955	masculine
-76959	
-76961	
 76965	neuter
 masculine
 feminine
-
 76970	neuter
-76972	
-76976	
-
-
-neuter
+76979	neuter
 76983	masculine
-masculine/neuter
-
-
+feminine
 76990	masculine/neuter
 76992	masculine
-76994	
-76996	
-77002	
-
+77004	masculine
 masculine
-masculine
-77007	
-feminine
-77010	
-masculine
+77008	feminine
+77011	masculine
 77013	masculine
 feminine
 feminine
 neuter
-
 77019	feminine
 neuter
 77022	masculine/neuter
 77024	feminine
-77026	
-
+77027	masculine/feminine
 77031	feminine
 feminine
 neuter
-77035	
-77040	
-feminine
-
+77041	feminine
+77043	masculine
 masculine
-masculine
-77048	
-
 77052	feminine
-
-masculine
-77056	
-
+77054	masculine
 77061	masculine/feminine
 77063	feminine
-77065	
 77067	masculine
-
-
-77073	
-
 77077	feminine
-
-
-77081	
 77083	masculine/feminine
 77085	feminine
-
-neuter
+77087	neuter
 77090	masculine
-77094	
 77096	masculine/feminine
-77099	
 77101	masculine
-77104	
-77106	
 77108	masculine
 masculine/feminine
 77111	masculine/feminine
 77114	masculine
-
-masculine
-77121	
+77116	masculine
 77123	feminine
 77125	masculine
-77128	
-neuter
+77129	neuter
 feminine
 masculine
-
-77134	
-
-
 77139	feminine
 feminine
 feminine
 masculine/feminine
-77145	
-77147	
-
-
-neuter
+77150	neuter
 masculine
-
 77154	feminine
 77156	feminine
 masculine
-77160	
 77162	masculine
 77164	masculine
-
-
-
-
-masculine
-neuter
-
-77173	
-neuter
-77177	
-masculine/feminine
-77181	
-77184	
+77169	masculine
+feminine
+77174	neuter
+77178	masculine/feminine
 77189	feminine
 77191	neuter
-
-77196	
-77198	
 77203	feminine
 feminine
 feminine
@@ -45435,89 +23427,52 @@ feminine
 feminine
 77214	masculine/feminine
 masculine
-
-masculine
+77217	masculine
 feminine
 feminine
 77221	feminine
 77224	feminine
 feminine
-77228	
-
-77231	
 77234	masculine
 masculine
 77237	masculine
-77245	
 77247	masculine
-
-
 77251	masculine
 masculine
-
 77256	feminine
 masculine
 77259	neuter
-
-77264	
-masculine
-77268	
-77271	
+77265	masculine
 77275	neuter
-
-
 77279	feminine
 feminine
 77283	masculine
 masculine/feminine
-
-77287	
-77290	
-77292	
-
 77295	masculine/feminine
-
 77298	feminine
 feminine
 masculine
 77302	masculine/feminine
-
 77305	feminine
-77307	
-
-masculine
-77312	
-77315	
+77309	masculine
 77317	feminine
-
-77320	
-
-feminine
+77322	feminine
 77325	feminine
 feminine
 77328	feminine
-
 77331	masculine
 masculine
-77335	
-77337	
-masculine/feminine
+77338	masculine/feminine
 77341	feminine
-77343	
-
 77346	feminine
 77348	masculine
 feminine
-77354	
-77356	
-77358	
 77360	neuter
 77362	feminine
 77367	masculine/feminine
 77372	masculine
 77379	neuter
 feminine
-
 77384	masculine/feminine
 77386	masculine
 masculine/feminine
@@ -45525,62 +23480,29 @@ neuter
 masculine
 masculine/neuter
 77392	neuter
-77398	
-
-neuter
-
+77400	neuter
 77403	neuter
 masculine/neuter
-
-
-
-
-feminine
-
-77413	
-
-77416	
+77409	feminine
 77420	masculine/feminine/neuter
-77422	
-masculine/feminine
-
-
-77428	
-77430	
+77423	masculine/feminine
 77433	feminine
 masculine
-
 77437	feminine
-
 77444	masculine
 masculine
 77448	masculine
-77450	
-77452	
-77454	
-masculine/feminine
+77455	masculine/feminine
 77458	neuter
 neuter
 feminine
-77462	
-77464	
-77466	
-
-77470	
-
-feminine
-
+77472	feminine
 77476	neuter
-
+77478	feminine
 feminine
-feminine
-
-77482	
 77484	masculine/feminine
-77487	
-77489	neuter
+77489	feminine
 feminine
-
 77493	neuter
 77495	masculine/neuter
 77497	masculine
@@ -45589,839 +23511,418 @@ feminine
 77503	masculine
 77509	masculine
 77511	masculine/feminine
-77515	
-masculine/feminine
-
-77522	
+77516	masculine/feminine
+77523	feminine
 feminine
 feminine
-feminine
-77527	
-masculine
-77533	
+77528	masculine
 77537	masculine/neuter
 77541	feminine
 feminine
-
-77545	
 77547	feminine
 77549	feminine
 feminine
-
 77553	masculine
-77555	
-neuter
+77556	neuter
 feminine
-
-
-
-
-
-77565	
-masculine/feminine/neuter
-
+77566	masculine/feminine/neuter
 77569	feminine
 feminine
-
-
-neuter
-
-
-masculine
+77573	neuter
+masculine/feminine
+77576	masculine
 masculine
 77579	masculine/feminine
 masculine
-77583	
 77587	neuter
 masculine/neuter
 masculine/neuter
-
-77592	
-masculine/feminine
+77593	masculine/feminine
 masculine
-
-
-neuter
-
-
-
-77602	
-77604	
-masculine
-
+77597	neuter
+77605	masculine
 77608	masculine
-77610	
-neuter
-77614	
-
-
-feminine
+77611	neuter
+77615	feminine
+77617	feminine
 77619	neuter
 neuter
-
-neuter
-77624	
-77627	
+77622	neuter
 77633	masculine
-
-
 77637	masculine/feminine
-77639	
-
 77644	neuter
-77647	
-
-77652	
-77655	
-
 77658	masculine
-77667	
-feminine
-77671	
+77668	feminine
 77674	masculine/feminine
-
 77677	masculine
-77681	
-77685	
-feminine
+77686	feminine
 77689	masculine/neuter
-
 77692	feminine
-77694	
-77696	
-77700	
 77704	masculine
-77706	
 77708	masculine
 77710	masculine
 feminine
 neuter
-
-
-
-feminine
-77719	
-neuter
-
-neuter
+77716	feminine
+77720	neuter
+77722	neuter
 77724	masculine/feminine
 77726	feminine
-77728	
-77730	
-77734	
-
-masculine
+77736	masculine
 77741	feminine
-
-77747	
-neuter
-77750	
-
-feminine
+77748	neuter
+77752	feminine
 feminine
 77755	masculine
-
-
 77759	masculine/feminine
-
 77762	feminine
-77764	masculine
-77768	
-masculine
-
-feminine
+77764	neuter
+77769	masculine
+77771	feminine
 77774	neuter
 77777	feminine
-
-77780	
 77783	feminine
 feminine
-
-77787	
+77788	feminine
+77791	masculine
+77796	feminine
 feminine
-
-
-masculine
-
-
-77795	
+77808	neuter
 feminine
-feminine
-77802	
-
-77807	
-neuter
-feminine
-77812	
 77814	masculine
 feminine
-77819	
-77821	
-
-77825	
 77827	neuter
-
 77830	masculine
 masculine
 masculine
 masculine
-
-
 77839	masculine
-
-77842	
 77844	masculine
-
-neuter
+77846	neuter
 77848	feminine
-77850	
-77853	
-
 77856	neuter
 masculine
-77859	
-
 77863	masculine
 77866	feminine
-77868	
-
-
-masculine
+77871	masculine
 masculine
 77875	neuter
 77877	masculine
-
-neuter
-77882	
-
-
-
+77879	neuter
 77890	masculine
-77893	
-77895	
 77898	feminine
-77900	
-
-
-
 77905	feminine
-
-77908	
-
-
-77913	
-77915	
-
-masculine
-
-
-77922	
-neuter
-
-
-neuter
-77929	
-masculine/neuter
-
+77917	masculine
+77919	feminine
+77923	neuter
+77926	neuter
+77930	masculine/neuter
 77933	feminine
 77937	masculine
-
-masculine/feminine
+77939	masculine/feminine
 77942	feminine
-
-neuter
-77946	
-neuter
-
-77950	
-masculine/feminine/neuter
-
-
-
-77956	
+77944	neuter
+77947	feminine
+77951	masculine/feminine/neuter
 77959	masculine
-
-feminine
-
-feminine
+77961	feminine
+77963	feminine
 masculine
-77966	
-masculine/neuter
-77969	
-feminine
+77967	masculine/neuter
+77970	feminine
 neuter
 77975	feminine
-
-
 77979	masculine
-
-neuter
-77983	
-77985	
-feminine
+77981	neuter
+77986	feminine
 77989	masculine/feminine
-
-
-
-neuter
+77993	neuter
 77995	neuter
 neuter
 77998	neuter
 78001	feminine
-
-masculine
-78005	
-
+78003	masculine
 78008	masculine
 neuter
-
-78012	
 78016	feminine
-
-78020	masculine/neuter
-78022	
-neuter
-
-78029	
-
+78020	feminine
+78023	neuter
 78033	masculine
 78036	neuter
 78038	masculine/neuter
-
-feminine
+78040	feminine
 78042	feminine
 masculine
-78045	
-
-78049	
 78051	feminine
-
-78054	
-feminine
-
-
+78055	feminine
+78058	masculine
 masculine
-masculine
-
-78062	
-neuter
-78065	
-78067	
+78063	neuter
+78065	masculine
 78070	feminine
 masculine
-
-neuter
+78073	neuter
 neuter
 neuter
 masculine/feminine
-masculine/neuter
+feminine
 neuter
-78087	
-78090	
-78092	
-78096	
-
-
-78101	
 78103	masculine/neuter
 78106	neuter
-78108	
-78111	
-78114	
-78117	
-masculine/feminine
+78118	masculine/feminine
 78121	neuter
-78124	
 78126	masculine
-
-78129	feminine
-
 78132	neuter
-78134	
-feminine
+78135	feminine
 78139	masculine
-
-feminine
+78141	feminine
 masculine
-
-masculine
+78144	masculine
 78147	feminine
 78151	neuter
-78153	
-masculine/feminine
-78157	
-masculine
-78163	
-masculine
+78154	masculine/feminine
+78158	masculine
+78164	masculine
 78170	masculine
-78172	masculine
+78172	neuter
 feminine
 feminine
-78176	
-78178	
-neuter
-
+78179	feminine
 78182	masculine
-78184	
-78186	
-78189	
-masculine/feminine
+78190	masculine/feminine
 feminine
 feminine
-78194	
-
-masculine/feminine
+78196	masculine/feminine
 78198	masculine/feminine
-78201	
-
-
+78202	masculine
 78208	neuter
 neuter
-
-78218	
 78223	neuter
-
-neuter
+78225	neuter
 neuter
 78231	masculine
-
-masculine
-78235	
+78233	masculine
 78242	masculine/feminine
 78245	neuter
-
-78248	
-78251	
-feminine
-78255	
+78252	feminine
 78258	masculine/feminine/neuter
-
-78262	
-feminine
+78263	feminine
 feminine
 78267	neuter
 neuter
-78270	
-78273	
-feminine
-
+78274	feminine
 78277	feminine
 masculine/feminine
-
-masculine/feminine
-
+78280	masculine/feminine
 78283	feminine
-
 78290	masculine/feminine
-78292	
-78295	
-78297	
-neuter
+78298	neuter
 78302	feminine
 feminine
-
-neuter
-
+78305	neuter
 78310	masculine
-78312	
-masculine/feminine
+78313	masculine/feminine
 78315	feminine
-78319	
-
 78322	masculine
-
-78325	
-
-feminine
-78329	
+78327	feminine
 78332	feminine
-78335	
 78337	masculine
-
-
-masculine
-78343	
-78345	
-
-masculine
+78340	masculine
+78347	masculine
 78349	neuter
-
 78354	masculine
 78356	feminine
-
-78359	
-neuter
-78362	
-78365	
-78367	masculine/feminine
-
-
-
-78372	
-masculine
+78360	neuter
+78373	masculine
 masculine
 masculine
 78378	neuter
-
-78381	
-masculine
+78382	masculine
 78384	feminine
-78386	
 78388	feminine
 feminine
 feminine
 masculine
-78393	
-78395	
 78398	feminine
 masculine/neuter
-
-feminine
+78401	feminine
 masculine/feminine
 masculine/feminine
-78409	
-masculine/neuter
+78410	masculine/neuter
 78412	feminine
 feminine
 78415	feminine
-
-78418	
-
-masculine/feminine
+78418	masculine
+78420	masculine/feminine
 masculine
-78423	
 78425	feminine
 78427	masculine
 78429	masculine/feminine
 masculine/feminine
-78434	
 78436	masculine
-78441	
-78443	
-masculine
+78444	masculine
 feminine
-
-masculine
-78449	
-78452	neuter
+78447	masculine
+78452	feminine
 78454	feminine
 neuter
 masculine
-78459	
 78461	neuter
-
-
-neuter
-
-masculine
+78464	neuter
+78466	masculine
 feminine
-78469	
-
-78472	
-feminine
+78473	feminine
 78477	masculine
-
-masculine
+78479	masculine
 masculine/neuter
-
-78483	
-masculine/neuter
-
-feminine
-78488	
-masculine
-78491	
-neuter
+78484	masculine/neuter
+78486	feminine
+78489	masculine
+78492	neuter
 neuter
 78496	masculine
 masculine
 78500	neuter
-78505	
-neuter
-78511	
+78506	neuter
 78515	masculine
 masculine
-
-
-
-masculine/feminine
+78520	masculine/feminine
 78523	neuter
 78526	neuter
 78530	masculine/feminine
 neuter
 78533	masculine
 78535	neuter
-
-
-78543	
-feminine
-78546	
-masculine/neuter
-78550	
-
+78544	feminine
+78547	masculine/neuter
 78554	masculine
 78556	masculine
-
 78559	feminine
-78563	
-78565	
-78568	
-masculine/feminine
+78569	masculine/feminine
 78571	feminine
 78573	masculine
 78575	feminine
-
-masculine
+78577	masculine
 78581	masculine
-
 78584	feminine
 masculine/feminine
 neuter
-78589	
 78591	neuter
 masculine
-78594	
+78595	masculine/neuter
 masculine/neuter
-masculine/neuter
-
-78599	
+78599	masculine
 masculine/feminine
-
-
-masculine/neuter
+78603	masculine/neuter
 78605	neuter
 feminine
 feminine
-
-78610	
+78611	feminine
 feminine
 feminine
-feminine
-
-masculine
-
+78615	masculine
 78618	feminine
-
-masculine
-78622	
-
-masculine/neuter
-
-masculine
+78620	masculine
+78624	masculine/neuter
+78626	neuter
 78633	feminine
 feminine
 78637	masculine
-
 78641	masculine
 78643	masculine
-
-
-78648	
-masculine
-78651	
-78658	
-78662	
+78649	masculine
 78664	neuter
-78666	
 78668	neuter
-78671	
 78674	masculine/feminine
 78676	masculine
-
-
-feminine
+78679	feminine
 masculine/feminine
 neuter
 neuter
-
-
-
 78687	neuter
 78689	masculine
-78692	
+78693	feminine
 feminine
 feminine
+78709	masculine/neuter
+78713	feminine
 feminine
-78699	
-78703	
-78705	
-78707	
-
-masculine/neuter
-78711	
-
-feminine
-feminine
-
-
-78718	
 78720	feminine
-
-78724	
-
-feminine
-78730	
+78726	feminine
 78732	masculine
 78734	masculine
-
 78738	masculine
 78745	masculine
-
-78750	
 78752	masculine
 78755	neuter
 78760	feminine
 78763	masculine/feminine
-
 78766	neuter
-78769	
 78772	neuter
-
-
-
-
-masculine
+78777	masculine
 78780	neuter
 78783	masculine/feminine
-neuter
-78790	
-78792	
-
-78796	
-78802	
 feminine
-78805	neuter
+78803	feminine
+78805	feminine
 78807	feminine
-
-
-78814	
-78817	
 78819	feminine
-
-78822	
-78824	
-masculine
-78827	
-
-78830	
+78825	masculine
 78834	neuter
-78836	
-masculine
-78842	
-neuter
-78845	
-masculine
+78837	masculine
+78843	neuter
+78846	masculine
 78848	masculine
 78851	masculine/neuter
 masculine/neuter
-
-78856	
 78858	masculine/feminine
 78861	masculine
 feminine
-78864	
 78866	masculine
-78868	
-78871	
 78873	masculine
 78875	feminine
-
-78880	
-78882	
-masculine
-78885	
+78883	masculine
 78891	neuter
 masculine
-78895	
-feminine
-78898	
-
-feminine
-
-78905	
-78908	
+78896	feminine
+78900	feminine
 78911	masculine
 78915	masculine
-
-masculine
+78917	masculine
 78920	feminine
 78922	feminine
-78925	
-
 78930	neuter
-
-
-feminine
-78935	
-
-
-78941	
 masculine
+78933	feminine
+78942	masculine
 78944	feminine
-78947	
-
-feminine
-
-
-78956	
-feminine
-
-masculine/neuter
+78949	feminine
+78957	feminine
+78959	masculine/neuter
 masculine
 feminine
 masculine
-
-neuter
-78968	
+78964	neuter
 78973	masculine
-78976	
-78979	
-
-feminine
+78981	feminine
 masculine
-
-78986	
 78988	masculine
 masculine
-
-78993	masculine
+78993	neuter
 78997	feminine
 78999	feminine
 masculine
-79004	
-
-
+79007	masculine
+79026	masculine/feminine
+79032	masculine
 masculine
-79013	
-79015	
-79023	
-79025	
-masculine/feminine
-79028	
-
-
-
-masculine
-masculine
-
-masculine
-
-
-
-79043	
-feminine
+79035	masculine
+79044	feminine
 79048	neuter
-79051	
-79053	
-masculine/feminine
-
-masculine
-
-
+79054	masculine/feminine
+79056	masculine
 79060	masculine
-
-
-masculine
+79063	masculine
 masculine
 masculine
 neuter
@@ -46429,287 +23930,129 @@ neuter
 79071	masculine/feminine
 masculine
 79076	masculine
-
-79080	
-
-79083	
-79086	
 79088	neuter
-
-masculine
+79090	masculine
 masculine
 79093	masculine
-
-79097	
-
-
-
-
-
-79104	
 79106	feminine
-79108	
-
-
-79112	
-
-
 79116	feminine
-
-neuter
+79118	neuter
 masculine
-79121	
-feminine
-
-79125	
-
-
-masculine
+79122	feminine
+79128	masculine
 79130	masculine/feminine
 79132	masculine/feminine
-
 79135	masculine
 masculine
-
 79139	feminine
 masculine/neuter
 feminine
 79144	masculine
 79146	masculine
-
 79150	masculine
 79152	masculine
-79154	
-feminine
-79157	
+79155	feminine
 79159	masculine
-79161	
-masculine
+79162	masculine
 79164	feminine
 masculine
 feminine
-79168	
 79171	neuter
 neuter
-79174	
 79176	masculine
-79178	
-
-
-
 79183	neuter
-
-
-masculine/feminine
+79186	masculine/feminine
 neuter
 79190	feminine
 feminine
 79197	neuter
-79199	
-
-79202	
+79203	feminine
 feminine
-feminine
-
-79208	
-neuter
-79214	
+79209	neuter
 79218	masculine
-
-
-masculine/neuter
-79224	
-feminine
-79227	
+79221	masculine/neuter
+79225	feminine
 79229	neuter
 79231	masculine
-79233	
-
-neuter
-
-79239	
-
-
-feminine
-
-masculine/neuter
+79235	neuter
+79242	feminine
+79244	masculine/neuter
 masculine
-
-masculine
-79249	
-
-
+79247	masculine
 79255	masculine
-
+79257	feminine
 feminine
-feminine
-79261	
-
-79264	
 79267	feminine
 masculine
-
-masculine
-
+79270	masculine
 79277	masculine
 79279	masculine
 neuter
 79282	feminine
 masculine/neuter
-79286	
-79289	
-
-
-
-neuter
+79293	neuter
 feminine
-79296	
-
 79299	neuter
-79302	
-
-79305	
-79307	
-neuter
+79308	neuter
 masculine
-
-
 79313	feminine
-79316	
-79318	
-79320	
-
-
-neuter
-79325	
-neuter
-79330	
-
+79323	neuter
+79326	neuter
 79335	masculine
-79339	
-79341	
-
-79344	
-79346	
 79350	masculine/feminine
-79352	
-neuter
-
+79353	neuter
 79359	masculine
-
 79363	neuter
 79365	masculine
-79367	
 79369	masculine
 79371	neuter
-79373	
-79375	
 79377	masculine
-
-79380	
 79383	masculine
 neuter
 79387	masculine
 79391	masculine
 79395	masculine
-79397	
-neuter
-
+79398	neuter
 79402	masculine
-
-masculine
-79407	
-
+79404	masculine
 79410	masculine
-79412	
-79414	
 79416	feminine
-79418	
-masculine
-79423	
-79427	
-79429	
+79419	masculine
 79431	neuter
 masculine
-79435	
 79437	masculine
-79442	
-masculine
-79446	
-79448	
-79450	
-79452	
+79443	masculine
 79456	masculine/feminine
 79458	neuter
-
-
+79461	feminine
 feminine
-feminine
-
 79469	masculine
-79471	masculine
-79479	
-79481	
+79471	neuter
 79483	masculine
-79485	
-
-
-79490	
-
+79491	feminine
 feminine
-
-79495	
-neuter
+79496	neuter
 79500	feminine
 masculine
 79503	masculine
 masculine
-
-79507	
-neuter
+79508	neuter
 79510	neuter
-79513	
-masculine
-79518	
-79520	
-
-masculine
-79528	
-masculine
-79531	
+79514	masculine
+79522	masculine
+79529	masculine
 79533	masculine
 79535	masculine
 79539	masculine
-79542	
-79545	
-neuter
-
-79549	
-masculine
-79552	
-79555	
+79546	neuter
+79550	masculine
 79557	masculine
-79560	
-masculine
-
-79564	
-
-
-
+79561	masculine
+79567	masculine
 79570	masculine
-79572	
-79574	
 79580	masculine
-79582	
-
-
-
-79588	
-79590	
-masculine
-79593	
+79591	masculine
 79597	masculine
-
 79601	neuter
 79604	feminine
 feminine
@@ -46721,1490 +24064,727 @@ neuter
 feminine
 79631	feminine
 79633	masculine
-
-feminine
+79635	feminine
 masculine
-
 79639	feminine
 79642	masculine
 79644	masculine
-
-
-
 79649	neuter
-
 79654	neuter
-
 79662	masculine
 79664	masculine
-
-masculine
+79666	masculine
 79669	neuter
-79673	
-
-79676	
-masculine
+79677	masculine
 neuter
-
-
-
-79683	
-
 79686	feminine
 79688	masculine
 neuter
 masculine
 masculine
-
-
-
 79697	neuter
-
-masculine/neuter
-
-79703	
-
-79706	
-feminine
-
+79699	masculine/neuter
+79707	feminine
 79711	feminine
-79713	
-masculine
-
+79714	masculine
 79718	masculine
-79723	
+79723	masculine
 masculine/feminine
-
-79728	
 79730	masculine/feminine
 79732	masculine
 79735	feminine
-79744	
-79750	
+79750	masculine
 masculine/feminine
-
-79758	
-
 79761	masculine/feminine
-
-
-79765	
-79767	
-feminine
-
-79772	neuter
+79768	feminine
+79772	masculine
 neuter
-
-neuter
-79779	
+79775	neuter
 79782	masculine
-79784	
-
-79787	
 79789	masculine
 masculine
 79795	feminine
-79799	
-79801	
-79803	
 79807	masculine
 79809	neuter
 feminine
 masculine
 79814	masculine
-79816	
-79820	
-79822	
-neuter
+79823	neuter
 neuter
 masculine
-79835	
-masculine
+79836	masculine
 masculine/feminine
-79841	
 79844	masculine
-79847	
+79848	neuter
 neuter
-neuter
-
-
 79856	neuter
 masculine
-79860	
 79862	masculine
 79864	neuter
 79866	masculine
-
-
-79870	
-79872	
+79873	masculine
+79888	feminine
+neuter
 masculine
-
-79876	
-
-
-79884	
-79887	
-feminine
-neuter
-neuter
-79892	
-neuter
+79893	neuter
 79896	masculine
 79898	neuter
 masculine/neuter
-79902	
-neuter
+79903	neuter
 79905	masculine/feminine
-79914	
+79914	masculine
 masculine/feminine
-
-79920	
-masculine
-79924	
-masculine/neuter
+79921	masculine
+79925	masculine/neuter
 feminine
 masculine
-79931	
 79933	masculine
-
-79936	
-
-feminine
+79938	feminine
 79941	masculine
 masculine
 79944	masculine/feminine
 79946	feminine
 masculine
-
-
-masculine
-79954	
+79950	masculine
+79954	masculine
 feminine
 79957	masculine
 feminine
-79962	
-
-feminine
+79964	feminine
 79967	neuter
-
-
-
-masculine
+79971	masculine
 79976	masculine
-79979	
 79981	feminine
 79983	neuter
 79986	masculine
-
 79989	feminine
 masculine
-79993	
-79996	
-feminine
+79997	feminine
 feminine
 80000	neuter
-
 80003	neuter
 masculine
 masculine/feminine
-
-80008	
-feminine
-
-masculine
-80014	
+80009	feminine
+80011	masculine
 80017	masculine/feminine
-80020	
-neuter
-
-
+80021	neuter
 80026	neuter
 neuter
-
-masculine
-
-80032	
-masculine
+80029	masculine
+80033	masculine
 neuter
 80037	masculine
-
-
-masculine
+80040	masculine
 neuter
-80047	
-80049	
-
-
-
-80054	
-
-80058	
-
-80062	
-masculine/neuter
+80063	masculine/neuter
 masculine
 80067	masculine
-
 80070	masculine
 neuter
-80075	
-neuter
-80078	
+80076	feminine
 80080	feminine
-
-80083	
 80086	masculine
 80088	masculine/feminine
 neuter
 neuter
-
-80093	
-80096	
 80098	feminine
 80100	masculine
-80103	
-feminine
-
+80104	feminine
 80109	neuter
 masculine
 80113	masculine
-
-feminine
+80115	feminine
 feminine
 80119	masculine
-
-
-feminine
-
-
+80122	feminine
 80128	masculine
-
-
-80132	
-
-
-80136	
-80138	
-80140	
 80143	feminine
 80145	masculine
 masculine
 masculine
-
-feminine
+80149	feminine
 masculine
-80154	
-80157	
-feminine
-
-
+80158	feminine
 80164	neuter
-
-
-masculine
+80167	masculine
 80169	masculine
 masculine
-
-80173	neuter
+80173	feminine
 masculine/neuter
 80177	feminine
-
+80179	neuter
 neuter
-neuter
-neuter
-80183	
 feminine
-80186	
-80189	
+80184	feminine
 80191	masculine
-
+80193	feminine
 feminine
-feminine
-
 80197	masculine
-
+80199	masculine/feminine
+80205	feminine
 masculine/feminine
-
-
-
-
-
-feminine
-
-
-
-feminine
-80213	
+80209	feminine
 80217	neuter
 feminine
-masculine/neuter
-80221	
-80223	
+feminine
 80225	feminine
-
-
 80229	feminine
 masculine/neuter
 80235	neuter
-
-
-neuter
+80238	neuter
 80242	masculine/feminine
-
-80245	
-
 80250	feminine
-80252	
-neuter
+80253	neuter
 80257	masculine
-
 80260	feminine
-80263	
-
-masculine
+80265	masculine
 80267	masculine/neuter
 neuter
-
-80271	
-
-feminine
+80273	feminine
 masculine
 neuter
-
-feminine
-
-neuter
+80277	feminine
+80279	neuter
 neuter
 masculine
-
-neuter
-
-80286	
-80288	
-80290	
-
 masculine/feminine
-
+neuter
+80292	masculine/feminine
 80295	feminine
 feminine
 80298	masculine
-
-masculine
-
-80305	
-
-masculine/neuter
-
+80300	masculine
+80307	masculine/neuter
 80311	neuter
 neuter
-
-masculine/neuter
+80314	masculine/neuter
 neuter
-
-80318	
-80322	
-80325	feminine
-
-80328	
-
-feminine
-80332	
-masculine
-
-80337	
-
-
+80325	masculine
+80330	feminine
+80333	masculine
 80341	masculine
 80343	masculine/neuter
-80346	
-
-masculine/neuter
+80348	masculine/neuter
 neuter
 80351	feminine
-80353	
 80355	masculine
-80358	
-80360	
-80363	
-
 80366	neuter
 80372	masculine/neuter
-80374	
-masculine/feminine/neuter
-
+80375	masculine/feminine/neuter
 80378	masculine
-
-neuter
-80383	
-neuter
-
+80380	neuter
+80384	neuter
 80389	neuter
 80392	feminine
-neuter
-80396	masculine
-80398	
 feminine
+80396	masculine
+80399	feminine
 masculine
-
 80404	masculine
 80407	feminine
-
-80410	
 80412	neuter
-
-
-masculine/neuter
-
-
-
-feminine
-
-
-
-80424	
+80415	masculine/neuter
+80419	masculine
 80426	feminine
-
-80429	
-
-masculine/neuter
-
-80434	
-
-neuter
+80431	masculine/neuter
+80436	neuter
 80439	masculine
-
 80444	neuter
-
 80447	masculine/neuter
 masculine
-
-
-80452	
-
-80456	
-masculine
-80459	
-neuter
-80462	
-
+80457	masculine
+80460	neuter
 80465	masculine
-
-
 80470	feminine
 80474	masculine
 masculine
-neuter
+masculine
 masculine
 neuter
-
 80481	masculine
-
 80484	masculine
 masculine
-80487	
-
-neuter
+80489	neuter
 80491	feminine
 masculine
-
-
-80498	
-
 80501	neuter
 80503	feminine
 masculine/feminine/neuter
 neuter
-
-neuter
-
+80507	neuter
 80510	feminine
 masculine/feminine
 80513	masculine
 masculine
 masculine/feminine
-80517	
-feminine
+80518	feminine
 80521	feminine
-
 80527	neuter
-
-80530	
-masculine
+80531	masculine
 80534	masculine/neuter
 80536	neuter
-
 80540	feminine
-80542	
-neuter
-
+80543	neuter
 80548	masculine
 masculine
-
 80553	masculine
-
-masculine
-80558	
-
-feminine
-80563	
+80555	masculine
 80566	neuter
-
-
 80572	masculine
 80576	neuter
 feminine
-80580	
 80582	masculine
 masculine
-80587	
-feminine
-80591	
-masculine
+80588	feminine
+80592	masculine
 masculine
 80597	neuter
-80600	
-
-neuter
-
-
-feminine
-80607	
-80609	
-feminine
-80612	
-neuter
+80602	neuter
+80605	feminine
+80610	feminine
+80613	neuter
 masculine
 masculine
 80617	masculine
 masculine
 feminine
 feminine
-
-
-80625	
-80628	
 80630	neuter
-80632	
-80634	
 80636	feminine
 masculine
-
-80640	
 80642	masculine
 masculine
-80647	
-80651	
-feminine
-80656	
-neuter
-
-masculine
-80661	
-
-
+80652	feminine
+80657	neuter
+80659	masculine
+80664	masculine/feminine
+80667	neuter
+80671	feminine
 masculine/feminine
-80666	
-neuter
-80669	
-
+80674	neuter
+80678	neuter
 feminine
-masculine/feminine
-
-neuter
-
-80677	
-neuter
-feminine
-
-masculine/feminine
-80683	
-feminine
-
-
-feminine
-
-
-masculine
-
-
+80681	masculine/feminine
+80684	feminine
+80687	feminine
+80690	masculine
 80700	neuter
-
 80703	masculine
-
-masculine
-80707	
-feminine
+80705	masculine
+80708	feminine
 80710	neuter
 80713	neuter
-
-
-
-
 80719	masculine/neuter
-
-80722	
 80724	masculine
 feminine
 feminine
-80728	
 80730	neuter
-80732	
-masculine
+80733	masculine
 neuter
-
-masculine
-80741	
-
-80744	
-
-80747	
-80749	
-80751	
-
-
-80755	
+80736	masculine
 80757	masculine/neuter
-
 80760	masculine
-80763	
-
-80767	
-
-80770	
-80775	
-80778	neuter
-80780	
-80783	
+80768	masculine/feminine
+80778	masculine/feminine
 80785	masculine
-
 80788	neuter
-
-
-80793	
 80797	feminine
-80799	
-masculine
+80800	masculine
 80803	masculine
 neuter
-
-masculine
-
-
-masculine
-80811	
-
-
-80815	
-masculine
-80818	
-masculine
-
-masculine/neuter
+80806	masculine
+80809	masculine
+80816	masculine
+80819	masculine
+80821	masculine/neuter
 80823	masculine/neuter
 masculine
 masculine
 masculine
 masculine
-80830	
-
-feminine
-80836	
+80832	feminine
 80838	masculine/feminine
 feminine
-
-
-masculine
-80844	
-masculine
-
-neuter
-
+80842	masculine
+80845	masculine
+80847	neuter
 80851	masculine
 80853	masculine/feminine
-80856	
-masculine
+80857	masculine
 masculine/feminine
-
-masculine/feminine
+80860	masculine/feminine
 80862	masculine
-
 80866	masculine
 masculine
 80869	masculine
 80871	feminine
 feminine
 80875	neuter
-
-80879	
-
-
-80884	
-
-neuter
-80889	
+80886	neuter
+80890	masculine
 masculine
-masculine
-
-80898	
-feminine
-80901	
-
-80904	
-80907	
-masculine/feminine
-80910	
-feminine
-masculine
-
-
-80919	
-
-masculine/feminine
+80899	feminine
+80908	masculine/feminine
+80912	masculine
+80921	masculine/feminine
 80923	masculine
-
-feminine
+80925	feminine
 masculine/feminine
-
-feminine
-
-
-masculine/neuter
+80928	feminine
+80931	masculine/neuter
 80934	masculine/feminine
-
 80937	feminine
 feminine
-
-80943	
-
-masculine
+80945	masculine
 80947	neuter
 80949	masculine
-80951	
-masculine
-80954	
-80956	
-80958	
-
-
-80963	
-80965	
-80967	
-80969	
-80975	
-80977	
-masculine/neuter
-
-80983	
+80952	masculine
+80978	masculine/neuter
+80983	masculine
 masculine/feminine
-
 80988	masculine
 masculine
-80997	
-feminine
-
-81001	
-
-neuter
-
-81006	
-81008	
-masculine
-81013	
+80998	feminine
+81003	neuter
+81009	masculine
 81015	feminine
-81017	
-
 81021	masculine/feminine
-
-
 81025	masculine/neuter
-81028	
-81033	
-81035	
-masculine
-81039	
-masculine
+81036	masculine
+81040	masculine
 81042	masculine
 81046	masculine
 81048	masculine/feminine
-81050	
-81052	
-masculine/feminine
+81053	masculine/feminine
 81057	feminine
 feminine
-
-81061	
-
-masculine
+81063	masculine
 81066	masculine
 masculine
-
-81070	
-81072	
 81076	masculine
-81078	
 81080	neuter
 81085	masculine
-
-81088	
-masculine/feminine
+81089	masculine/feminine
 masculine/feminine
 neuter
-
-
-masculine/neuter
-
-
-81098	
+81094	masculine/neuter
 81101	feminine
-81104	
-masculine/neuter
+81105	masculine/neuter
 81107	masculine
-81112	
-neuter
-
-masculine/feminine
-81118	
-neuter
+81113	neuter
+81115	masculine/feminine
+81119	neuter
 masculine/feminine
 masculine
 81123	feminine
 81125	neuter
 feminine
-
-masculine
-81135	
-
-masculine
-
-
-masculine
-81142	
+81128	masculine
+81137	masculine
+81140	masculine
 81144	feminine
-
-
 81148	feminine
-
-
-feminine
+81151	feminine
 81153	masculine
-
-neuter
+81155	neuter
 masculine/feminine
-
-masculine/neuter
+81158	masculine/neuter
 feminine
-81161	
 81163	feminine
 neuter
-
 81167	feminine
-
 81170	masculine
-
-81175	
-
-
-masculine
+81176	masculine/feminine
+81178	masculine
 81182	masculine/neuter
 masculine
-
-81190	
-
-neuter
+81192	neuter
 masculine
-
-
-masculine
-
-81199	
+81196	masculine
 81203	masculine
-81206	
-
 81212	feminine
 feminine
-81221	
 81224	feminine
 feminine
-81227	
-
-neuter
-81232	
+81229	neuter
 81235	masculine/feminine
 feminine
-
-feminine
+81238	feminine
 81241	masculine/feminine
 masculine
-
-
-
-masculine
-81248	
-
-feminine
+81246	masculine
+81250	feminine
 81252	neuter
 neuter
-
-81256	
-
-masculine
+81258	masculine
 81260	masculine
-
-
-81269	
-masculine
-
-masculine/neuter
-
+81270	masculine
+81272	masculine/neuter
+81274	feminine
 feminine
+81277	masculine
+81281	masculine
+81285	feminine
 feminine
-
-masculine
-81279	
-
-masculine
-81284	
-feminine
-feminine
-
-
-81290	
-81292	
-feminine
+81293	feminine
 masculine
 feminine
 feminine
 feminine
-
-neuter
-81303	
-
+81299	neuter
+81304	feminine
 feminine
 feminine
 81308	masculine/feminine/neuter
-81310	
-81312	
-
+81312	masculine
 81315	neuter
-
-
-81319	
-feminine
-
-feminine
-
-81326	
-81328	
+81317	masculine
+81320	feminine
+81322	feminine
 81330	feminine
-81332	
 81334	feminine
 masculine
 feminine
 feminine
-
 81340	masculine
-
-81344	
-81347	
-
-
 81351	masculine
 81354	masculine/feminine
 masculine
-81358	
-
-feminine
-
+81360	feminine
 81363	feminine
-81365	
-feminine
-81369	
+81366	feminine
 81374	neuter
 81377	masculine
-
-81382	
-81384	
-masculine/feminine
-
-masculine
+81385	masculine/feminine
+81387	masculine
 masculine
 81390	masculine
-
-
-
-masculine
+81394	masculine
 neuter
-81398	
-81402	
-81405	
-
-81409	
-
-
-
-
 81416	feminine
-
 81420	feminine
-
-81423	
-masculine
-
-
-
-81430	
-feminine
-81433	
-81435	
-
-
-
+81424	masculine
+81431	feminine
 81440	neuter
-
-
-
-masculine
-
-masculine
+81444	masculine
+81446	masculine
 81449	feminine
-
-masculine
-
+81451	masculine
 81454	neuter
-
 81459	neuter
-81462	
 81465	feminine
-
-
-masculine
+81468	masculine
 81471	masculine
-
 81474	masculine/feminine
-
-masculine/neuter
+81476	masculine/neuter
 feminine
-
-81480	
 81482	neuter
-
 81485	masculine
-
-
+feminine
 81489	feminine
 81491	feminine
-81495	
-
-81499	
 81501	neuter
 feminine
 81504	feminine
-81510	
-81512	
-
-masculine/neuter
-81516	
-feminine
+81514	masculine/neuter
+81517	feminine
 81519	masculine
-81521	
-
-neuter
+81523	neuter
 81526	feminine
 81530	masculine/neuter
-
 81536	masculine
 feminine
-
+81539	masculine
 masculine
-masculine
-81542	
 81545	masculine
-
 81548	masculine
 masculine
-
-masculine
-
+81551	masculine
 81554	masculine
 masculine
-
-
-
-
 81564	feminine
 81566	neuter
 masculine/neuter
 masculine
-81571	
-
-
-
 81576	neuter
 feminine
-
-81580	
-feminine
-
-masculine
-81586	
-81588	
-81591	
-feminine
+81581	feminine
+81583	masculine
+81592	feminine
 81594	feminine
-81597	
-81599	
 81601	masculine
 masculine
 81604	neuter
-81607	
-81612	
-81615	
-81618	
-feminine
+81619	feminine
 masculine
 81624	masculine
-81626	
-
-
 81630	masculine
 81632	masculine
-81636	
 81640	masculine
-
-masculine
-81646	
-
-neuter
-81650	
-81653	
-81655	
-neuter
-
-
+81642	masculine
+81648	neuter
+81656	neuter
 81663	masculine
-81669	
-
 81672	feminine
 masculine
-81675	
-
-masculine
+81677	masculine
 masculine
 81680	masculine
 81682	feminine
-
 81686	masculine
 81688	neuter
 81690	masculine
-
 81694	masculine
-
-81697	
-
-neuter
+81699	neuter
 masculine
-
-masculine
+81702	masculine
 81705	masculine
-81707	
 81712	masculine
-81715	
-masculine
+81716	masculine
 81718	masculine
-
-81721	
-
-
-masculine/feminine
-
+81724	masculine/feminine
 81727	feminine
-
-81730	
 81733	masculine/feminine
 81735	masculine
-
-81739	
-feminine
+81740	feminine
 masculine
-81745	
-neuter
-
-81749	
+81746	neuter
 81751	masculine/feminine
-81753	
 81755	masculine/feminine
 masculine/feminine
 masculine
 81759	masculine
-
-
-feminine
-
-
-81766	
-
-masculine
-81770	
-81776	
+81762	feminine
+81766	masculine/feminine
+81768	masculine
 81778	feminine
 81781	masculine
 81784	feminine
-neuter
-81788	
-81790	
-81792	
-81795	
+feminine
 81797	masculine/feminine
 81799	feminine
 masculine
-81802	
-feminine
+81803	feminine
 81805	feminine
-
-feminine
+81807	feminine
 masculine
-
 81812	masculine
-
 81815	feminine
 81817	masculine/feminine
-
-81820	
 81823	feminine
-81828	
 81831	masculine
 masculine/neuter
 masculine/feminine
-
-
 81838	feminine
-
-81842	
-masculine
-81846	
+81843	masculine
 81848	neuter
 neuter
 masculine
 feminine
-81854	
+81855	feminine
 feminine
-feminine
-
-81859	
 81863	neuter
-81865	
-masculine
-neuter
+81866	masculine
+feminine
 81871	feminine
 neuter
 81875	masculine
 81877	masculine
 neuter
-81880	
-
-
 81886	feminine
-
-neuter
-
-81892	
-81894	
+81888	neuter
 81896	masculine/neuter
 neuter
 feminine
-81900	
 81903	masculine
-81905	
-
-81909	
-81911	
-81913	
-81915	
+81911	masculine
 81917	masculine/neuter
-
-81920	
 81924	feminine
 masculine
 masculine/feminine
-81929	
-81931	
-
 81934	masculine
-
-masculine
-
+81936	masculine
 81940	feminine
 neuter
-
-feminine
-81945	
-81949	
-masculine
+81943	feminine
+81950	masculine
 81954	masculine
-81956	
 81958	feminine
-81960	
-81963	
 81968	masculine
 masculine
 masculine
 masculine/neuter
-81973	
 81976	masculine
-81979	
 81981	masculine
 81983	neuter
 81985	neuter
 81987	masculine
 feminine
-
 81991	masculine/feminine
 81994	feminine
 81996	masculine
-81998	
-82003	
-masculine
-
-82014	masculine/feminine
+82004	masculine
 82016	feminine
 feminine
-
-feminine
-
-
-82023	
-masculine
+82024	masculine
 82027	neuter
-
-82033	
-82036	
-
-
-feminine
-82041	
-
-
-masculine/neuter
+82039	feminine
+82044	masculine/neuter
 masculine
-
 82048	feminine
-
 82051	masculine/feminine
 masculine
-
-feminine
-82056	
+82054	feminine
 82058	masculine
-82060	
-
-neuter
-
-
-82066	
+82062	neuter
 82070	masculine
-82072	
 82074	feminine
-
-
 82078	feminine
 82082	feminine
 82084	neuter
-82086	
-feminine
+82087	feminine
 82089	masculine
-82091	
-feminine
-82094	
-feminine
-
-
-82099	
-82102	
-
-82105	
-neuter
+82092	feminine
+82095	feminine
+82106	neuter
 masculine/feminine
-
-82111	
 82113	masculine
-
-
-82118	
-
-82122	
-
-
-masculine
-82130	
-masculine/neuter
-82133	
-82135	
-82137	
-neuter
-
+feminine
+82125	masculine
+82131	masculine/neuter
+82138	neuter
 82143	neuter
 masculine
-82147	
-neuter
+82148	neuter
 82150	neuter
-
-masculine/feminine
-82154	
+82152	masculine/feminine
 82159	feminine
 feminine
-
-
+82163	masculine
+82165	masculine
+82169	masculine
 masculine
-
-masculine
-82168	
-masculine
-masculine
-
-neuter
+82172	neuter
 neuter
 feminine
-82177	
-feminine
-
+82178	feminine
+masculine/neuter
 masculine
-82186	
-feminine
-82190	
-masculine
-
-
-
-82197	
-feminine
+82187	feminine
+82191	masculine
+82198	feminine
 82200	feminine
 82203	masculine/feminine
 82205	feminine
-82208	
-82210	
-
-82214	
 82216	feminine
-
 82219	feminine
 feminine
-
-
+82223	feminine
 feminine
-feminine
-
-82227	
-masculine
-82230	
-
+82228	masculine
 82235	masculine
 masculine
-82239	
-
-82244	
-
-
 82248	masculine
 masculine
 neuter
@@ -48218,65 +24798,35 @@ feminine
 masculine
 82273	masculine/feminine
 masculine
-
-
-82280	
-feminine
+82281	feminine
 82283	masculine/feminine
 82288	feminine
 feminine
-
 82293	feminine
-82295	
-82299	
 82301	feminine
 82303	feminine
-82305	
-
-neuter
-
-82311	
-
-82314	
+82307	neuter
+masculine/feminine
 82321	masculine/feminine
-
 82324	feminine
-
 feminine
-
-
+feminine
 82330	feminine
 feminine
 82335	masculine/feminine
-
-82342	
 82344	feminine
-
 82347	feminine
 82350	feminine
-
-
 82355	neuter
-
-neuter
-82359	
-neuter
-82362	
-82364	
+82357	neuter
+82360	neuter
 82368	feminine
 feminine
-82371	
-
 82374	feminine
-feminine
 82377	feminine
 feminine
 feminine
 82382	masculine
-82385	
-82387	
-
-82393	
 82395	neuter
 82398	feminine
 82400	feminine
@@ -48284,809 +24834,433 @@ feminine
 feminine
 82406	feminine
 82408	feminine
-
-
 82412	feminine
 feminine
 82416	masculine
-82418	
 82420	masculine
-
-masculine
+82422	masculine
 masculine/feminine
 masculine
-
-masculine
-82428	
-82430	
-82435	
-82438	
-82441	
+82426	masculine
 82443	masculine
-
 82446	feminine
-
-82453	
-82457	
-
-feminine
-
-
-82468	
+82459	feminine
 82470	feminine
 masculine
-82473	
-82475	
-masculine
+82476	masculine
 feminine
-82479	
-masculine
-
-
-82484	
+82480	masculine
 82486	feminine
 feminine
 masculine/feminine
 82491	feminine
 82494	masculine/feminine
-neuter
-82497	
+feminine
 82499	neuter
-82501	neuter
-82506	
+82501	feminine
 82509	neuter
-82513	
 82515	feminine
 feminine
-
 82519	feminine
 feminine
-
 82524	neuter
-
-82527	
-masculine
-
-masculine
+82528	masculine
+82530	masculine
 82532	neuter
-
 82536	neuter
-82539	
-
+82540	masculine
 masculine
 82543	masculine
 82546	neuter
 neuter
-
 82550	masculine
 feminine
 feminine
-
-
-
-masculine
+82556	masculine
 82559	masculine
 82561	neuter
-
 82567	masculine
 masculine
-82570	
-82574	
 82577	masculine
-
 82581	neuter
-
-82584	
 82586	masculine/feminine
-
 82589	masculine
-82591	
 82594	neuter
-
-82598	
-82602	
-82604	
-masculine/neuter
-82607	
+82605	masculine/neuter
 82611	masculine
 masculine/feminine
 feminine
-
-82616	
-82621	
-82623	
-82625	
-neuter
-
+82626	neuter
 82629	neuter
 masculine
-82635	
-feminine
+82636	feminine
 feminine
 neuter
-
 82645	masculine
 82647	masculine
-
-
 82652	feminine
-
 82656	masculine/feminine
-82659	
-
-masculine/feminine
+82661	masculine/feminine
 82665	neuter
 82667	feminine
 feminine
-
-82671	
-feminine
-
-
+82672	feminine
 82676	masculine/neuter
-
-
 82681	masculine/feminine/neuter
 masculine
 82684	masculine
-
-feminine
+82686	feminine
 82688	feminine
-
-82693	
-82696	
 82698	masculine/feminine
-82700	
-82703	
-82705	
+82705	masculine/feminine
 82710	neuter
-
+82712	feminine
 feminine
-feminine
-82716	
 82718	feminine
 82721	masculine
 82724	neuter
-
-feminine
-82728	
-
-masculine/feminine
-82732	
-neuter
+82726	feminine
+82730	masculine/feminine
+82733	neuter
 82735	masculine
 82738	masculine
 masculine
-82741	
-
-neuter
-82746	
-82749	
-feminine
-
-
-82754	
+82743	neuter
+82750	feminine
 82757	masculine/feminine
-
-
-82764	
-feminine
-
+82765	feminine
 82771	feminine
 feminine
 masculine
-
 82776	neuter
-
-82780	
 82784	neuter
-
-
-82788	
 82792	masculine/neuter
 masculine/feminine
-
-masculine
-
-
+82795	masculine
+82798	feminine
 feminine
 feminine
 feminine
-feminine
-82806	
-neuter
+82807	feminine
 82809	masculine/feminine
 masculine/feminine
-
-82813	
-masculine
-
+82814	masculine
 82817	feminine
 feminine
-
 82821	masculine
-
-
-
 82826	masculine
-
-neuter
-
-neuter
+82828	neuter
+82830	feminine
 82834	masculine/feminine
 82836	feminine
-
-82839	
-82844	
 82847	feminine
 82850	masculine
-82854	
-82858	
-masculine/neuter
-
-
+82859	masculine/neuter
 82863	feminine
 82866	masculine/feminine
 feminine
 feminine
-82870	
 82872	neuter
-
-masculine/neuter
+82874	masculine/neuter
 neuter
-
-82878	
-masculine/neuter
-
-neuter
-
-
+82879	masculine/neuter
+82881	neuter
 82889	masculine
 masculine/feminine
-82892	
-82894	
 82897	neuter
 masculine/feminine
-
-82902	
 82904	masculine/feminine
 masculine/feminine
 82910	feminine
-
-neuter
+82912	neuter
 masculine/neuter
-
-82916	
-
-masculine
-
-
-
-masculine
+82918	masculine
+82922	masculine
 masculine
 82925	feminine
 masculine
-
-
-
+82929	masculine
 feminine
 82932	masculine
 82936	masculine/neuter
 masculine
-82939	
-
-82945	
-82947	
-82950	
-
-masculine
+82952	masculine
 82956	masculine
-82958	neuter
-82960	
+82958	feminine
 82965	feminine
 masculine
-82973	
-82975	
-82977	
-masculine
-
-82984	
-masculine
-
+82978	masculine
+82985	masculine
 82989	feminine
 feminine
-
 82996	feminine
-
+feminine
 83002	neuter
 83004	masculine
 masculine
-
 83011	feminine
-83014	
-feminine
-
-83020	
+83015	feminine
 83022	masculine
-83024	
-
-
-83029	
 83032	masculine/feminine
-
-neuter
+83034	neuter
 83040	feminine
 feminine
-
-masculine/feminine/neuter
+83043	masculine/feminine/neuter
 83049	masculine
 83054	feminine
-
-neuter
+83056	neuter
 83059	neuter
-
-
+83062	masculine
 masculine
 masculine
-masculine
-
+83066	feminine
 feminine
-feminine
-
+masculine/feminine
 83070	masculine
 masculine
 masculine
 83075	masculine
-
-neuter
+83077	neuter
 neuter
 masculine
-83081	neuter
+83081	feminine
 feminine
 masculine
 neuter
-
-masculine
-
-
-
-
-neuter
-
-83094	
-83097	
-
-
-83101	
-neuter
-
-feminine
-
-83108	
+83086	masculine
+83091	neuter
+83102	neuter
+83104	feminine
 83110	masculine
 masculine
 masculine
-
-masculine
+83114	masculine
 feminine
 83117	masculine/feminine
-83119	
-83122	
-83125	
-masculine/neuter
-83129	
-
+83126	feminine
 83132	neuter
-
-83135	
 83139	masculine
 masculine
-masculine/neuter
-83143	neuter
-
 feminine
+83143	neuter
+83145	feminine
 83147	neuter
-83149	
-83151	
-83153	
-
-neuter
+83155	neuter
 83157	feminine
 83159	masculine
 masculine
 masculine
 neuter
-83164	
-
-neuter
+83166	neuter
 masculine
-neuter
+feminine
 masculine
 masculine
-
 83173	feminine
-
+83175	feminine
 feminine
 feminine
-feminine
-83179	
-masculine/neuter
-
+83180	masculine/neuter
 83183	masculine/feminine
 83185	masculine
 83187	masculine
-83190	
-
-
 83194	masculine
-
-
-83198	
-
-neuter
-
-
+83200	neuter
+83202	masculine/feminine
 feminine
 feminine
-
-83207	
-masculine/neuter
+83208	masculine/neuter
 83210	masculine
 masculine
-
-
-neuter
-masculine
-83217	
-
-83220	
-neuter
+83214	neuter
+83221	neuter
 83224	feminine
-
-83227	
-feminine
-
-neuter
-
-83233	
-masculine
-
+83228	feminine
+83230	neuter
+83234	masculine
 83238	feminine
-83243	
-
-neuter
-83247	
-neuter
+83245	feminine
+83248	neuter
 83250	feminine
-
 83253	masculine/neuter
-
-
 83257	feminine
-83260	
 83265	feminine
-83267	
-83269	
-83271	
-neuter
+83272	neuter
 masculine
-
-83276	
-
-83280	
-83285	
-83287	
-
-
-83293	
 83297	masculine
 masculine/feminine
-83300	
-83302	
-feminine
-83305	
-83307	
+83303	feminine
 83309	neuter
 feminine
 83312	neuter
-83314	
-feminine
-83317	
-
-83320	
-neuter
+83315	feminine
+83321	neuter
 83323	feminine
 83326	neuter
-
-masculine
-83330	
-83332	
+83328	masculine
 83336	masculine
 83338	masculine/feminine
-
-83341	
-83344	
-neuter
-83347	
-
-
+83345	neuter
+83349	feminine
 feminine
 83352	feminine
 feminine
 feminine
 83356	feminine
-
-feminine
-
+83358	feminine
 83362	masculine
-
+83364	neuter
 neuter
-neuter
-83367	
-neuter
+83368	neuter
 masculine
 83372	neuter
 83374	neuter
 83377	neuter
-
-83380	
 83383	feminine
-
-feminine
-
-masculine
+83385	feminine
+83387	masculine
 neuter
 feminine
-83392	
 83400	neuter
-
-
-neuter
-83405	
-83407	
-83409	
+83403	neuter
 83412	neuter
 83415	feminine
 83417	neuter
 feminine
-83421	
 83426	feminine
-
 83429	neuter
-
 83434	feminine
 83436	feminine
 83438	masculine/feminine/neuter
-83440	
 83444	masculine
-83446	
-83448	
-masculine/neuter
+83449	masculine/neuter
 neuter
 neuter
-
-feminine
-
+83453	feminine
 83456	neuter
 83458	neuter
-
-neuter
+83460	neuter
 83464	feminine
-
-neuter
-
-
-neuter
-83471	
-83474	
-feminine
-
+83466	neuter
+83469	neuter
+83475	feminine
 83478	neuter
-83482	
 83485	feminine
 feminine
 83490	masculine
-83492	
-neuter
+83493	neuter
 feminine
 feminine
-
 83498	feminine
 neuter
-83503	
-
-83506	
-masculine
-
-
+83507	masculine
 83511	masculine
-83516	
 83518	feminine
-83520	
-
-feminine
+83522	feminine
 neuter
-
-83527	
-neuter
+83528	neuter
 83531	masculine
 83534	feminine
-83536	
 83538	masculine
 neuter
-
-neuter
+83541	neuter
 83543	masculine
-83545	
 83548	neuter
-83550	
-feminine
+83551	feminine
 83554	masculine
-83556	
-neuter
+83557	neuter
 neuter
 83560	neuter
 masculine
 masculine
-83564	
+83564	feminine
 feminine
 feminine
 feminine
 feminine
-
-
-feminine
-83573	
-feminine
+83571	feminine
+83574	feminine
 masculine
-
-masculine/feminine
+83577	masculine/feminine
 masculine
 83581	masculine
 feminine
 masculine/neuter
 masculine/feminine
-83592	
-neuter
-83595	
-masculine
+83593	neuter
+83596	masculine
 neuter
 feminine
-83600	
-
-
-
-neuter
+83604	neuter
 feminine
 masculine/neuter
-
 83609	masculine/neuter
-83611	
-83614	
-
 83618	masculine
 masculine
-
-83623	
 83625	neuter
 masculine
-
-neuter
+83628	neuter
 83630	feminine
 83632	masculine
 masculine
-
-83636	
 83638	neuter
-
-neuter
-83642	
-feminine
-
+83640	neuter
+83643	feminine
 83646	neuter
 feminine
-83649	
-83652	
 83654	masculine
 masculine
 83657	neuter
 feminine
 83661	masculine
 feminine
-
-83665	
 83667	neuter
-
-neuter
-
-
-
+83669	neuter
 83675	neuter
 83678	masculine
 83681	feminine
-
-83684	
 83686	masculine
-
-neuter
-
-feminine
-
-
-
-83697	
+83688	neuter
+83690	feminine
 83699	neuter
 feminine
 83702	masculine
-
-
-feminine
-
+83705	feminine
 83709	feminine
-
-neuter
-83713	
-83715	
-neuter
+83711	neuter
+83716	neuter
 83718	neuter
-83723	
-
-feminine
-83727	
+83725	feminine
 83729	feminine
-
-feminine
+83731	feminine
 masculine
-83735	
-feminine
-83738	
-
-feminine
-83743	
-feminine
-
+83736	feminine
+83740	feminine
+83744	feminine
 83747	masculine
 feminine
 83750	feminine
-
-
+83752	feminine
 neuter
 feminine
-
-masculine/neuter
+83756	masculine/neuter
 83758	masculine
-83760	
-neuter
+83761	neuter
 83764	feminine
-83767	
-83769	
-83771	
 83774	masculine
-83776	
-neuter
+83777	neuter
 83779	feminine
-
-83784	
-
-neuter
-83789	
-
-
-83793	
-83796	
+83786	neuter
+83789	masculine/feminine
+83791	masculine/feminine
+83797	masculine
+83799	feminine
 masculine
-
-neuter
-masculine
-
-
 83804	masculine
 masculine
 masculine
 masculine/feminine
-
-
-neuter
+83810	neuter
 83812	masculine
 masculine
 masculine
@@ -49097,76 +25271,53 @@ masculine
 masculine
 feminine
 neuter
-
-masculine
-
+83826	masculine
 83829	masculine
 masculine
 83832	neuter
-
-masculine
+83834	masculine
 83838	neuter
-
+83840	masculine
 masculine
-masculine
-
-83844	
-neuter
+83845	neuter
 83847	neuter
 83852	neuter
 feminine
 83855	masculine/neuter
-
 83858	feminine
-
-
-feminine
-
-masculine
+83861	feminine
+83863	masculine
 83865	neuter
 feminine
 feminine
 feminine
-
 83871	neuter
 masculine
-neuter
+feminine
 masculine
 masculine
-
-83880	
-83882	
-masculine
-83885	
-
-neuter
+83883	masculine
+83887	neuter
 83891	neuter
 83894	neuter
 masculine
 masculine
-
-
-masculine
-83901	
-masculine
+83899	masculine
+83902	masculine
 83905	feminine
 masculine
 feminine
-
-neuter
+83909	neuter
 feminine
 feminine
 83913	feminine
 neuter
 83916	masculine/neuter
 83921	feminine
-
-
-masculine
+83924	masculine
 masculine
 83928	neuter
 masculine
-
 83932	masculine
 83934	masculine
 83937	masculine
@@ -49174,196 +25325,109 @@ masculine
 masculine
 83942	masculine
 83944	neuter
-83946	
-83948	
-masculine
-
-neuter
-83954	
-masculine
+83949	masculine
+83951	feminine
+83955	masculine
 83957	neuter
-83961	
-
-neuter
+83963	neuter
 83965	feminine
-83967	
 83972	masculine
-83975	
-masculine
+83976	masculine
 masculine
 83979	masculine
-83981	
-masculine
+83982	masculine
 83984	feminine
 masculine
-
-feminine
-
-masculine
+83987	feminine
+83989	masculine
 83991	feminine
 feminine
 neuter
-83995	
-masculine
-
-
-feminine
+83996	masculine
+83999	feminine
 feminine
 neuter
-
-
-84006	
-feminine
-
+84007	feminine
 84010	feminine
 84012	masculine
 feminine
-
-84016	neuter
+84016	feminine
 84019	masculine
-
-masculine
-
+84021	masculine
 84024	masculine
-
-
-masculine/feminine/neuter
-84030	feminine
+84027	masculine/feminine/neuter
+84030	masculine
 feminine
-
-
-masculine/feminine/neuter
-
-feminine
+84034	masculine/feminine/neuter
+84036	feminine
 masculine
 84039	masculine
-
-
 84045	masculine
 feminine
-
-84049	
 84051	masculine/feminine
 masculine
-84054	
-
-feminine
-84058	
-
-neuter
+84056	feminine
+84060	neuter
 neuter
 84064	masculine
-
-84067	
-masculine/feminine
+84068	masculine/feminine
 feminine
 feminine
 84072	masculine
-84074	
-masculine
+84075	neuter
 masculine
 neuter
-84080	
 84082	neuter
 neuter
-
+84085	neuter
 neuter
-neuter
-84088	
-84090	
-masculine
+84091	masculine
 feminine
 feminine
 neuter
-84097	
-neuter
-
-masculine
+84098	neuter
+84100	masculine
 84104	masculine
 84106	masculine/feminine
-84110	
-84114	
-84116	
-84118	
-
-84121	
-
-
-84125	
-
 84128	feminine
 feminine
 feminine
 neuter
-84133	
-neuter
-
-masculine
+84134	neuter
+84136	masculine
 84138	masculine
 84140	masculine
-84143	
-
-84146	
-masculine
-84149	
-
-
-masculine
-84156	
+84147	masculine
+84152	masculine
 84158	feminine
 feminine
-
-neuter
-
-
-84167	
+84161	neuter
 84169	feminine
 neuter
 neuter
 84173	masculine
-
-84176	
 84178	masculine
-84180	
-84183	
-
-masculine/feminine
-
-
+84185	masculine/feminine
 84189	neuter
 feminine
-
-
-neuter
+84193	neuter
 feminine
 feminine
 84197	neuter
 masculine
 84200	neuter
-84202	
-
-84205	
-84208	
 84213	feminine
-84217	
-
 84220	masculine/feminine
-feminine
 masculine
-
+masculine
 84225	masculine
 masculine
-
 84229	masculine
 masculine
 84232	neuter
-84234	
-feminine
-84237	
 84239	masculine
 masculine
-84242	
-84244	
+84244	masculine
 masculine/neuter
 neuter
 84248	masculine
@@ -49371,187 +25435,114 @@ neuter
 84252	feminine
 neuter
 84255	masculine
-84257	
-neuter
+84258	neuter
 neuter
 neuter
 feminine
 84264	feminine
 84266	feminine
-
 84269	masculine
 84271	neuter
-
-feminine
+84273	feminine
 84276	feminine
-
 84279	masculine
 neuter
 84282	masculine
-
-
-84286	
 84289	neuter
 84291	feminine
 84293	neuter
-
-84296	
-feminine
+84297	feminine
 masculine
 masculine
-
-84302	
-
-masculine
-
-
-masculine
-84309	
+84304	masculine
+84307	neuter
 84312	feminine
 84314	masculine
-84316	
-neuter
-84319	
+84317	neuter
+84320	masculine
 masculine
-masculine
-
 84324	feminine
-84326	
+84326	masculine/feminine
 neuter
-neuter
+feminine
 84330	masculine
 feminine
 feminine
 84336	masculine
 84338	neuter
 84340	feminine
-
-
-masculine
+84343	masculine
 84345	feminine
 masculine
 84349	neuter
-neuter
+feminine
 84352	masculine
 masculine
-
-84358	
 84361	masculine
-84364	
 84368	feminine
-
-neuter
+84370	neuter
 84372	feminine
-
-neuter
-84376	neuter
-84380	
-masculine/neuter
+84374	neuter
+84376	feminine
+84381	masculine/neuter
 masculine
 neuter
-
-masculine
+84385	masculine
 84387	masculine
-neuter
-84390	
-
-neuter
 feminine
-
+84392	neuter
+feminine
 84398	neuter
-neuter
+feminine
 84401	neuter
 feminine
-84405	
-
-masculine
-
-neuter
+84407	masculine
+84409	neuter
 84415	neuter
-
-
 84419	masculine
-
 84424	masculine/feminine
 84426	neuter
-84428	
 84430	masculine
-
 84433	feminine
 feminine
-
-neuter
+84436	feminine
 masculine/neuter
 masculine
 feminine
 masculine
-
-
-neuter
+84443	feminine
 masculine
-84446	
 84449	feminine
 84452	masculine
 masculine
-
-feminine
+84455	feminine
 masculine
 84458	neuter
-
-84462	
 84466	masculine
 masculine
-84470	
-
-
 84475	feminine
-neuter
+feminine
 84479	masculine
-84481	
-neuter
+84482	feminine
 84485	masculine
-84487	
-masculine
-
-neuter
-84492	
+84488	masculine
+84490	neuter
 84497	feminine
-
-
-
-84503	
-masculine
-84506	
-84509	
+84504	masculine
 84511	neuter
 neuter
 84514	feminine
 neuter
-
-84520	
-neuter
+84521	neuter
 84524	neuter
-
-84527	
 84530	masculine
-84532	
-84534	
-
-
-
-84539	
 84541	masculine
-84543	
-84545	
 84547	neuter
 84549	masculine/feminine/neuter
 84551	feminine
 feminine
 neuter
-
-84559	
-84562	
-feminine
+84563	feminine
 84565	masculine
 84570	masculine
 masculine
@@ -49563,798 +25554,416 @@ feminine
 feminine
 masculine/feminine
 84583	masculine/feminine
-
-masculine
-
-masculine
+84585	masculine
+84587	masculine
 feminine
 masculine
-84593	
-84595	
-
-84598	
 84600	feminine
-
-84604	
 84606	feminine
 feminine
-
-84610	
-84613	
-masculine
-84616	
-
-feminine
-
-
-masculine
-84623	
-feminine
-84627	
-masculine
-84635	
-
-feminine
-
+84614	masculine
+84618	feminine
+84621	masculine
+84624	feminine
+84628	masculine
+84637	feminine
 84644	feminine
-
 84647	feminine
-
 84651	neuter
 84656	masculine
-84658	
-
-masculine
+84660	masculine
 neuter
-
-84665	
-84669	
-feminine
-84672	
+84670	feminine
 84674	feminine
-84676	
-84678	neuter
+84678	feminine
 masculine
 feminine
 feminine
-
-84684	
-
 84687	neuter
 84689	masculine
-84692	
-
-neuter
-84697	
+84694	feminine
 84699	masculine
-
-masculine
+84701	masculine
 masculine
 84704	feminine
 feminine
-84707	
-feminine
+84708	feminine
 feminine
 masculine
 84712	masculine
-
-
-
-84717	
+84715	masculine/feminine
 84719	masculine
+masculine
 feminine
 feminine
-feminine
-84724	
-84726	
-
-
-
 84732	masculine/feminine
 84734	feminine
-84736	
-84738	
-
-
-
-masculine
+84742	masculine
 neuter
-
-84746	
-
 84754	feminine
-84757	
 84759	feminine
-84762	
 84764	masculine/feminine
 84766	neuter
-
-masculine/neuter
+84768	masculine/neuter
 84770	masculine
 84772	masculine/neuter
 neuter
 masculine
 masculine
-
-masculine
-84784	
+84777	masculine
 84789	feminine
-84791	
 84793	masculine
-84798	
 84800	masculine
-
-
-feminine
+84803	feminine
 84806	neuter
 84808	masculine
 masculine/feminine
-
-masculine
+84811	masculine
 84814	masculine
 84816	feminine
 feminine
-
 84821	feminine
-
-neuter
-
-
-
-feminine
-
-84830	
-feminine
+84823	neuter
+84827	feminine
+84831	feminine
 masculine
 feminine
-
-neuter
-84838	
-masculine
+84835	neuter
+84839	masculine
 84841	masculine/feminine
-84844	
 84848	neuter
-
-84851	
 84856	neuter
-
 84859	neuter
-
 84863	masculine/feminine
-84865	
-84868	
-
 84871	neuter
 84874	masculine
 feminine
-
-masculine
-84880	neuter
+84877	masculine
+84880	feminine
 neuter
 84883	feminine
-84885	
-neuter
-84888	
-feminine
-84892	
-84894	
-
+84886	feminine
+84889	feminine
 84898	neuter
-neuter
-
-masculine
+feminine
+84901	masculine
 feminine
 masculine
 masculine
 84906	masculine/feminine
-84910	
-
-feminine
-
-84915	
-84917	
-
-84921	
+84912	feminine
 84925	feminine
-
-neuter
-
-neuter
-84931	
-84933	
-
-84938	
+84927	neuter
+84929	neuter
+84939	feminine
 feminine
-feminine
-84942	
-feminine
+84943	feminine
 84947	feminine
 84951	feminine
-84954	
-
-
+84957	feminine
+84960	neuter
+84965	feminine
 feminine
-
-
-neuter
-84962	
-84964	
-feminine
-neuter
 84968	masculine
-
 84971	masculine/feminine
 84974	masculine
-
-feminine
+84976	feminine
 masculine
-84979	
-masculine
-
-masculine
-84986	
-masculine/feminine/neuter
+84980	masculine
+84982	masculine
+84987	masculine/feminine/neuter
 masculine/feminine
-84990	
-84992	
-
-neuter
+84994	neuter
 masculine/feminine
-84997	
-84999	
 85002	neuter
-
-
-masculine/feminine
+85005	masculine/feminine
 masculine
-85008	
 85010	feminine
-
-feminine
+85012	feminine
 masculine
-
-feminine
-85019	
-85022	
-
-feminine
+85015	feminine
+85019	masculine
+85024	feminine
 neuter
 85028	neuter
-
-85031	
-
-85037	
-neuter
-neuter
-
-
-
-
-neuter
-85046	
-masculine
-85049	
-
+85038	neuter
 feminine
-neuter
-
-neuter
-85056	
-85059	
-
-neuter
-neuter
-
+85044	neuter
+85046	masculine
 masculine
+85051	feminine
+neuter
+85054	neuter
+85061	neuter
+feminine
+85064	masculine
 feminine
 masculine
 masculine
 85069	masculine/feminine
-85072	
 85074	feminine
 85078	masculine/neuter
 feminine
 feminine
 feminine
-
-85085	
-85087	neuter
+85087	feminine
 85089	feminine
 masculine
-85094	
 85096	feminine
 masculine
-85099	
-85103	
 85106	masculine
 feminine
-
-
 85111	feminine
-85113	
-
-masculine
+85115	masculine
 85117	masculine
-
 85120	masculine
-85122	
-85124	
-masculine
-85127	
+85125	masculine
 85129	masculine
 masculine
-
-
-85140	
-85143	
-
-85151	
-85153	
-
-masculine/neuter
+85155	masculine/neuter
 85157	masculine
-85159	
-85161	
+85161	masculine
 feminine
-85164	
-neuter
+85165	neuter
 85167	feminine
 feminine
-
-85171	
-
-masculine/neuter
+85173	masculine/neuter
 feminine
 masculine
 masculine
-
-85182	
-
 85185	masculine/neuter
 masculine/neuter
 85192	neuter
-
-masculine/neuter
-
-85200	
-feminine
-85203	
-85205	
-85207	
-
-masculine/neuter
+85194	masculine/neuter
+85201	feminine
+85209	masculine/neuter
 85211	masculine
-85214	neuter
-
-masculine/neuter
-85218	
+85214	feminine
+85216	masculine/neuter
+85218	masculine
 masculine
 85221	feminine
 85223	masculine
 85226	feminine
-85230	
-feminine
-
-neuter
-
-masculine/neuter
+85231	feminine
+85233	feminine
+85235	masculine/neuter
 masculine
 masculine
 masculine
-85240	
 85242	masculine/neuter
-85244	
 85246	feminine
-
 85252	masculine/neuter
-85254	
 85256	feminine
-
-
+85259	feminine
+85262	feminine
+85266	masculine/neuter
 feminine
-85262	neuter
-85264	
-
-masculine/neuter
-feminine
-85269	
-masculine
-85274	neuter
-85277	
-masculine/neuter
+85270	masculine
+85274	feminine
+85278	masculine/neuter
 masculine/feminine
 85281	masculine
 85283	masculine
-85285	
-
-
-85290	
+85290	masculine/feminine
 85293	feminine
 feminine
 85296	feminine
-85298	
 85301	feminine
 feminine
-
-
-
 85308	feminine
-85310	
-neuter
-85313	
+85311	feminine
+85314	feminine
+masculine
 feminine
 masculine
-neuter
 masculine
-masculine
-
-masculine
+85320	masculine
 feminine
 neuter
-85324	
-85326	
-feminine
-
-feminine
-85331	
-masculine
-85336	
-feminine
-
-85340	
-
-85343	
-
-
-85348	
-masculine
-85351	
+85327	feminine
+85329	feminine
+85332	masculine
+85337	feminine
+85349	masculine
 85354	neuter
 85358	neuter
-neuter
-
-85362	
-85365	
-85367	
-masculine
-
-masculine
-neuter
-85373	feminine
-
-85379	
-85381	feminine
-
-
-85385	
-85387	
-85389	
-
-neuter
-
-85399	
-masculine
-85402	feminine
-85404	
-
-
-85410	feminine
-
-85414	masculine/feminine
-
 feminine
+85368	masculine
+85370	masculine
+feminine
+85373	feminine
+85381	feminine
+85391	neuter
+85400	masculine
+85402	feminine
+85410	feminine
+85414	masculine/feminine
+85416	feminine
 masculine
-85421	
 85423	feminine
-
 85427	masculine/feminine
 masculine/neuter
-
-
 85433	neuter
-85435	
-masculine
-85438	
-masculine
-85441	
+85436	masculine
+85439	masculine
 85443	neuter
-85445	
-masculine
-85449	
-feminine
+85446	masculine
+85450	feminine
 85453	masculine
-85455	
-
-
-neuter
-85462	
+85458	neuter
 85465	masculine
-85467	
-feminine
-85471	
-neuter
-
-masculine/neuter
+85468	feminine
+85472	neuter
+85474	masculine/neuter
 masculine
-
+feminine
 85479	feminine
 feminine
-
-
-masculine/feminine/neuter
+85483	masculine/feminine/neuter
 feminine
-85486	
-85490	
-masculine
-85493	
-neuter
+85491	masculine
+85494	neuter
 neuter
 feminine
 feminine
 feminine
-
-feminine
-
-
-85504	
-neuter
-85507	
-masculine
+85500	feminine
+85505	neuter
+85508	masculine
 85511	neuter
 neuter
 feminine
 feminine
-85516	
-neuter
+85517	neuter
 feminine
 85520	feminine
-
-
-
-85525	
-
-masculine
-
-
-
-neuter
-85533	
-
-
-85537	
-masculine
-
-
-
-masculine
-85544	
-
-
-85548	
+85527	masculine
+85531	neuter
+85538	masculine
+85542	masculine
 85550	masculine
-
 85553	masculine
-
-85556	
 85558	feminine
-
-85561	
-85563	
-85567	
-neuter
-
-
-masculine
+85568	neuter
+85571	masculine
 85573	feminine
-85576	
-feminine
-
-neuter
+85577	feminine
+85579	neuter
 85581	neuter
-85585	
 85587	feminine
-85589	
 85591	neuter
-
-neuter
+85593	feminine
 85595	feminine
 85598	feminine
 85602	neuter
 neuter
 feminine
 feminine
-
-feminine
-85609	
-feminine
-
+85607	feminine
+85610	feminine
 85613	feminine
-85616	
-neuter
+85617	neuter
 neuter
 feminine
 feminine
-
-85623	
-85625	
 85627	masculine
-
 85630	feminine
 masculine/feminine
-
-
 85635	neuter
 85637	masculine
-85639	
-85643	
 85647	neuter
-85652	
 85654	feminine
-85657	
-neuter
-
+85658	neuter
 85661	masculine
 feminine
-
 85668	feminine
 masculine
 neuter
 85672	feminine
 85674	feminine
-85679	
-neuter
+85680	neuter
 feminine
 masculine
-
-masculine/neuter
+85684	masculine/neuter
 masculine
-
-masculine
+85687	masculine
 feminine
-
-
-85692	
 85694	masculine
-
-
+85697	masculine
 masculine
-masculine
-
-
-feminine
+85701	feminine
 85703	neuter
-85705	
-feminine
-85710	
-
-feminine
+85706	feminine
+85712	feminine
 85714	masculine
 masculine
-85717	
-masculine
-85720	
-
-
-masculine
-
+85718	masculine
+85723	masculine
 85726	neuter
-85729	
-85732	
-masculine
+85733	masculine
 feminine
 feminine
 85737	masculine
-85739	
-masculine
+85740	masculine
 85742	feminine
-85744	
-
-masculine
-
-masculine
+85746	masculine
+85748	masculine
 85753	feminine
 85757	masculine
-85761	
-masculine
-neuter
-
-85766	
-masculine
-
-85771	feminine
-85773	
-
-masculine
-85777	
-85779	
-neuter
-
-85783	
-
-
+85762	masculine
 feminine
+85767	masculine
+85771	feminine
+85775	masculine
+85780	neuter
+85786	feminine
 neuter
 85789	masculine/neuter
 neuter
 neuter
-neuter
-
-masculine
-
-
+feminine
+85794	masculine
 85799	feminine
-
-85802	
-
-
-85807	
-
-
-masculine
-85812	
+85810	masculine
 85817	masculine/feminine
-
-85822	
 85825	neuter
-85827	
-masculine
+85828	masculine
 masculine
 feminine
 masculine
-85833	
 85835	feminine
-
-
-
+85839	masculine
+feminine
 masculine
-neuter
-masculine
-85843	
 85845	feminine
-
-85848	
+85849	masculine
 masculine
 masculine
-masculine
-
-
-
-
 85857	feminine
 feminine
 feminine
-neuter
+feminine
 85862	masculine
-85864	
-masculine
-
+85865	masculine
+feminine
 feminine
 85870	masculine
 feminine
 feminine
-
-85875	
 85877	masculine
-masculine
 85882	masculine
 feminine
 feminine
-85886	
-85888	
 85892	feminine
 masculine
 feminine
-
-feminine
-85898	
+85896	feminine
 85900	feminine
 85902	feminine
-
+85904	feminine
 feminine
-neuter
 85907	masculine
-
-85913	
 85915	masculine
 85917	masculine
 masculine/feminine/neuter
@@ -50362,474 +25971,222 @@ masculine/feminine/neuter
 masculine
 feminine
 85924	feminine
-85926	
 85929	masculine
 masculine
 85933	masculine
-85935	
+85936	feminine
 feminine
+85940	feminine
 feminine
-
-
-feminine
-neuter
-
-
 85945	feminine
-85947	
-feminine
-85950	
+85948	feminine
 85952	feminine
 feminine
-neuter
+feminine
 85956	masculine
-
-85959	
+85960	masculine
 masculine
-masculine
-85964	
-85967	
-85969	
 85971	feminine
 masculine
-85974	
-
-
-
 85979	masculine
-
-85982	
 85984	masculine
-
-85987	
-
 85990	masculine
-
-
-85994	
-85996	
-masculine
-
-masculine
-86003	
-
-86006	
+85997	masculine
+85999	masculine
+86007	feminine
 feminine
+86010	masculine
 feminine
-
-masculine
-feminine
-
-86014	
-
-
-
-masculine
-86021	
-
-feminine
+86018	masculine
+86023	feminine
 masculine
 masculine
-86029	
-86033	
 86035	neuter
-86037	
 86039	masculine
-
-
-masculine
-
-masculine
-
-
-masculine
-86049	
-
+86042	masculine
+86044	masculine
+86047	masculine
 86052	masculine
-
-
-
-86057	
-86059	
-
-86062	
+86063	feminine
 feminine
+86066	masculine
 feminine
-
-masculine
-feminine
-
-neuter
+86069	neuter
 86071	masculine
-
-
-masculine
+86074	masculine
 86077	neuter
-
-masculine
+86079	masculine
 86081	masculine
-
-86085	
-masculine
-
-neuter
-
-86091	
-86093	
+86086	masculine
+86088	neuter
 86095	neuter
 masculine
-
 86100	masculine
 masculine
-
-masculine
-
-masculine
+86103	masculine
+86105	masculine
 masculine
 86108	neuter
-86110	
-
-masculine
+86112	masculine
 86114	feminine
-
-86117	
 86120	masculine
-86122	
 86124	masculine/feminine
-86126	
-
-
-86130	
-
-86134	
-neuter
-neuter
+86135	neuter
+feminine
 masculine
 masculine
-
-masculine
+86140	masculine
 feminine
 neuter
-86145	
-
 86148	masculine
-
-masculine
+86150	masculine
 neuter
-
 86154	feminine
 masculine
 feminine
 86158	neuter
-86162	
-masculine/neuter
+86163	masculine/neuter
 masculine
 masculine
 86167	masculine
-
 86171	feminine
-
-masculine/neuter
+86173	masculine/neuter
 masculine
-
-
-
-
-masculine
+86179	masculine
 86181	feminine
-86183	
-
 86187	masculine/feminine
-
-masculine
-
-86193	neuter
+86189	masculine
+86193	feminine
 86196	masculine
 86199	neuter
-86201	
-
 86205	feminine
-86207	
-feminine
-
+86208	feminine
 86211	feminine
-
-
-feminine
-
-86218	
-masculine
-86221	
-masculine/feminine
+86214	feminine
+86219	masculine
+86222	masculine/feminine
 86224	masculine
-
-
-masculine/neuter
-
-
+86227	masculine/neuter
 86231	masculine
-86233	
-
 86236	neuter
 86239	masculine/neuter
 masculine
-86242	
 86244	neuter
-
-86256	
 86258	feminine
-86260	
 86266	feminine
-
-neuter
-
+86268	neuter
 86271	masculine
-
-neuter
-
-
-feminine
+86273	neuter
+86276	masculine
 86278	masculine
 masculine
-86281	
-feminine
+86282	feminine
 86284	neuter
-
-
-86290	
-
-
-feminine
-
-
+86293	feminine
 86299	neuter
-
-
-
-
 86305	masculine/feminine
 86307	masculine
-
-
-86311	
 86313	neuter
-
 86316	masculine
-
-
 86322	masculine
-neuter
+feminine
 feminine
 86328	feminine
-neuter
-86331	
-86335	
-86339	
+feminine
+86340	masculine
+86344	masculine
+86347	masculine
 masculine
-
-
-
-masculine
-
-
-masculine
-masculine
-86350	
 86352	neuter
 neuter
 86355	feminine
-neuter
-
-masculine/neuter
-neuter
-86361	
-
-masculine
-86366	masculine
-86368	
-
 feminine
-
-
-
-
-
-86377	
-
-
-
-86382	
+86358	masculine/neuter
+neuter
+86363	masculine
+86366	masculine
+86370	feminine
 86385	feminine
 feminine
-
-86389	
 86394	neuter
-86397	
-
-neuter
-
+86399	neuter
 86404	feminine
-86406	
-86408	
 86411	feminine
-
-86414	
 86416	masculine
-86421	
-
 86424	feminine
-
 86428	neuter
-
 86433	masculine
 masculine
 86436	neuter
 86439	masculine
-86441	
-
-86444	
-86447	
-
-feminine
+86449	feminine
 neuter
-86452	
 86454	masculine
 86457	feminine
 feminine
-86460	
-masculine/feminine
+86461	masculine/feminine
 feminine
 86464	feminine
 86469	feminine
 masculine
-
-neuter
-86474	
+86472	neuter
 86477	feminine
 feminine
-
-
-feminine
-
-neuter
+86481	feminine
+86483	feminine
 86485	masculine
 86491	feminine
 feminine
-86494	
 86496	feminine
 86498	feminine
-
 86501	feminine
 86503	feminine
 feminine
-
-
-neuter
-
-86510	
+86507	neuter
+86511	feminine
 feminine
 feminine
-feminine
-86516	
-86518	
-86520	
-neuter
-86523	
+86521	neuter
 86527	masculine
-
-86534	
-neuter
-
-feminine
-86540	
-
+86535	neuter
+86537	feminine
 86543	feminine
-
-86547	
-86551	
 86554	masculine
-86556	
-masculine/feminine
+86557	masculine/feminine
 neuter
-
-
 86562	masculine
-
-
-
-86567	
-
-86575	
-feminine
+86576	feminine
 feminine
 86580	neuter
-86583	
-
-
-
-86590	
 86592	masculine
 masculine
 86595	masculine
 feminine
 feminine
 86599	neuter
-86602	
-86604	
-
-neuter
-
-
-feminine
-
-86612	
-86614	
+86606	neuter
+86609	feminine
 86616	neuter
 masculine
-
-
-masculine
-86622	
+86620	masculine
 86625	neuter
-
-86630	
-
-86634	
-
-neuter
-
+86636	neuter
 86641	neuter
-
-86647	
 86663	neuter
-86665	
 86667	feminine
-
-masculine
-86671	
-feminine
+86669	masculine
+86672	feminine
 masculine/feminine
 86675	feminine
-86678	
-masculine/feminine/neuter
-
-
-
-
-
-feminine
-86689	
-
+86679	masculine/feminine/neuter
+86685	feminine
 86692	masculine/feminine
 neuter
 neuter
 masculine
 masculine/feminine
-
-masculine/feminine
-
-
-feminine
+86698	masculine/feminine
+86701	feminine
 neuter
 86704	masculine
 masculine
@@ -50839,46 +26196,24 @@ masculine
 masculine
 masculine
 masculine
-86713	
-86718	
-feminine
-
-neuter
-86724	
-
-feminine
+86713	masculine
+86719	feminine
+86721	neuter
+86726	feminine
 masculine/feminine
 masculine/feminine
-
-
-86732	
-
-masculine
+86734	masculine
 feminine
-
-feminine
-
-86740	
-86742	
-86744	
-86746	
-feminine
-86750	
+86737	feminine
+86747	feminine
 86752	masculine/neuter
-
-feminine
+86754	feminine
 86756	masculine/feminine
-86758	
 86760	masculine
-86762	
-86764	masculine/neuter
-
-neuter
-
+86764	feminine
+86766	feminine
 86769	masculine/feminine
-86772	
 86776	feminine
-86778	
 86780	feminine
 86782	masculine
 86784	masculine
@@ -50886,48 +26221,26 @@ neuter
 86792	masculine/feminine
 feminine
 feminine
-
-masculine/feminine
-
-
-86800	
-
-neuter
-86804	
-masculine/neuter
+86796	masculine/feminine
+86802	neuter
+86805	masculine/neuter
 masculine
-
-masculine
+86808	masculine
 feminine
 feminine
-
-
-masculine/neuter
-
+86813	masculine/neuter
 86820	masculine
-
 86823	masculine
-
-
 86828	feminine
-86831	
-
-feminine
+86833	feminine
 masculine
-86840	
-
-
-masculine
-
-feminine
+86843	masculine
+86845	feminine
 feminine
 masculine
 feminine
 86850	masculine
-
-
-86854	
-masculine
+86855	masculine
 feminine
 feminine
 feminine
@@ -50944,471 +26257,222 @@ feminine
 feminine
 masculine
 masculine
-86878	
-feminine
+86879	feminine
 masculine
 masculine
-86883	
-
-masculine
-
-
-86891	
+86885	masculine
 86894	feminine
-
-masculine
-86898	
-
-masculine
-86902	
-neuter
-
+86896	masculine
+86900	masculine
+86903	neuter
 86907	masculine
-
-86913	
-
-86920	
-86923	
-86927	
-neuter
+86928	neuter
 86932	feminine
-86934	
-neuter
-
-neuter
+86935	neuter
+86937	neuter
 86940	feminine
-86942	
 86944	feminine
 86946	masculine
-86949	
 86951	masculine
-86956	
-feminine
+86957	feminine
 masculine
-
-neuter
-86962	
-86965	
-masculine/neuter
-
-feminine
-86970	
+86960	neuter
+86966	masculine/neuter
+86968	feminine
 86972	feminine
 86977	masculine/neuter
 neuter
 masculine
-
-neuter
-
-feminine
-86985	
-feminine
-
-neuter
-
-
-
-masculine
-86994	
-
-masculine/neuter
-86999	
-masculine
-87002	
-
+86981	neuter
+86983	feminine
+86986	feminine
+86988	neuter
+86992	masculine
+86996	masculine/neuter
+87000	masculine
 87014	neuter
-87016	
-masculine
+87017	masculine
 feminine
-
-
-neuter
+87021	neuter
 masculine
-87024	
-masculine
-87027	
-
-neuter
-
-
-87033	
-neuter
-
-
-neuter
-87039	
-
-87042	feminine
-
-87045	
-
+87025	masculine
+87029	neuter
+87034	neuter
+87037	neuter
+87042	masculine
 87048	neuter
-
 87051	feminine
 neuter
-
-87055	
-
-87059	
-
-87063	
-
 87067	masculine
-87070	
-87072	
-masculine
-
-
-
-feminine
+87073	masculine
+87075	feminine
+87077	feminine
 neuter
 87080	neuter
-
-
-neuter
-87085	
-
-
+87083	neuter
 87090	neuter
-87093	
 87096	neuter
 masculine/feminine
-
-
 87103	masculine/feminine
-
+87105	masculine
+87108	neuter
 masculine
-87107	
-neuter
-masculine
-
-87113	
 87115	neuter
 87117	masculine
-87119	
-
-
-feminine
+87122	feminine
 masculine
 masculine
-
-
-
-
-masculine
-87131	
-masculine
-87134	
-
+87129	masculine
+87132	masculine
 87137	masculine
-87139	
-feminine
-
+87140	feminine
 87144	masculine
-87148	
-87150	
 87152	neuter
 neuter
-
-
 87157	feminine
 neuter
-
-feminine
-
-feminine
-87164	
-
+87160	feminine
+87162	feminine
 87169	feminine
 neuter
-
-neuter
+87172	neuter
 masculine
 neuter
-87176	
-feminine
+87177	feminine
 87181	masculine/feminine
-
-neuter
-
-feminine
-
-87188	
-87190	
-87192	
-
-87195	
-
-87198	
+87183	neuter
+87185	feminine
 87200	masculine
 87202	masculine
-87205	
-87210	
-
-
-
+87213	masculine/feminine
 87215	neuter
-
+87217	masculine
 masculine
-masculine
-87220	
-87222	
-neuter
+87223	neuter
 87225	masculine
-87227	
-
-
 87231	masculine
 87233	masculine
 87235	feminine
 masculine
-87238	
-feminine
+87239	feminine
 masculine
 87242	masculine
 87248	masculine
-87251	
-masculine
-
+87252	masculine
 87255	feminine
-87258	
+87259	masculine
+87261	masculine
 masculine
-
-masculine
-masculine
-87264	
-masculine/feminine
-87267	
-feminine
-
-87272	
-87274	
+87265	masculine/feminine
+87268	feminine
 87276	neuter
-87278	
-
-neuter
+87280	neuter
 neuter
 masculine
 masculine
-87285	
-87290	
 87295	masculine
-87297	
-masculine
-
-
+87298	masculine
+87301	feminine
 neuter
-neuter
-
-
-
-87308	
-
-masculine
-87312	
-
-
-87318	
-87320	
-masculine
+87310	masculine
+87321	masculine
 87325	feminine
 masculine
 87328	masculine
 87331	neuter
-
-
 87335	feminine
 87337	feminine
-87339	
-feminine
+87340	feminine
 87342	feminine
 feminine
 87346	neuter
-
-neuter
-
-feminine
-
+87348	neuter
+87350	feminine
 87353	neuter
-
 87356	neuter
 masculine/neuter
-87359	
-87361	
-87365	
-neuter
+87366	neuter
 87370	masculine
-87372	
-
-87375	
-neuter
-
-
+87376	neuter
 87381	masculine
 masculine
-
-87386	
-
+87388	masculine
+87396	masculine
 masculine
-87390	
-
-87395	
-masculine
-masculine
-
-87400	
-
 87403	feminine
-87405	
-87409	
-
-
-
-
-feminine
-
-masculine/feminine
-
-
+87410	feminine
+87414	feminine
+87416	masculine/feminine
 87423	masculine
-87425	
-masculine/feminine
-
-
+87426	masculine/feminine
 87430	neuter
 87433	masculine
-
-masculine
-87437	
-neuter
-
-87441	
-87445	
-
-87448	
-87450	
-
-feminine
-
+87435	masculine
+87438	neuter
+87452	feminine
 87460	masculine
-
-
-masculine
-87465	
-
-87468	
-masculine
+87463	masculine
+87469	masculine
 87472	feminine
-
-
-feminine
-
-
-masculine
-87481	
-
-masculine
+87475	feminine
+87478	masculine
+87483	masculine
 87485	feminine
-87488	
-87493	
-feminine
-
+87494	feminine
 87497	feminine
 neuter
 87500	masculine
 87503	neuter
-
-
-
 87509	masculine
-87511	
 87514	masculine
 87517	masculine
 87519	masculine
-
 87523	masculine
-87528	
-
-87531	
-masculine
-87534	
-87537	
-neuter
-
-87541	
+87532	masculine
+87538	neuter
 87544	masculine/feminine
-
-87547	
-87552	
 87555	masculine
 masculine
-
-87560	
-
-masculine
+87562	masculine
 87564	feminine
 feminine
 feminine
-87568	
 87570	feminine
-
 87573	masculine
-87575	
-masculine
+87576	masculine
 masculine/feminine
-87579	
 87581	feminine
 neuter
 feminine
 feminine
-
 87587	feminine
-87590	neuter
+87590	feminine
 87592	masculine
-
-
-masculine
-
-87599	
-
+87595	masculine
+87600	feminine
 87602	feminine
-
-masculine
+87604	masculine
 87606	neuter
-87608	
-neuter
+87609	neuter
 neuter
 87612	feminine
 neuter
 87615	neuter
-
-
-masculine
-87620	
+87618	masculine
 87622	masculine
 masculine
-
-
-
-feminine
-87629	
-neuter
+87627	feminine
+87630	neuter
 87632	neuter
-87634	
-feminine
+87635	feminine
 masculine
-87638	
-87640	
-
 87643	masculine
 masculine
-
-masculine/feminine
+87646	masculine/feminine
 87649	masculine
 masculine
 masculine/neuter
-87656	
-feminine
+87657	feminine
 87659	masculine/feminine
 feminine
 feminine
@@ -51416,308 +26480,162 @@ feminine
 masculine
 87666	neuter
 87668	neuter
-
 87671	masculine
-
-masculine
+87673	masculine
 87677	neuter
 masculine
-87682	
-87684	
-
-87688	
-87690	
-
-masculine
+87692	masculine
 87696	neuter
 neuter
-87699	
-
-
-
-feminine
+87703	feminine
 neuter
-
-feminine
+87706	feminine
 neuter
-
-
-
-neuter
-
-
+87711	neuter
 87715	masculine
 87717	masculine
-
+87719	neuter
 neuter
 neuter
-neuter
-
-neuter
+87723	neuter
 masculine
-
 87728	masculine/neuter
 87730	neuter
 masculine
-
-neuter
-
-neuter
+87733	neuter
+87735	neuter
 masculine
-87738	
 87741	masculine
-87743	
-87746	
-87751	
-
 87754	masculine
-87757	
-masculine
-
-
-87764	
-masculine
-
-feminine
+87758	masculine
+87765	masculine
+87767	feminine
 87772	neuter
 87774	masculine
-
-87778	
 87780	feminine
 87782	masculine
 87784	masculine
 87791	neuter
 masculine
-87797	
-masculine
-87802	
-masculine
-87805	
+87798	masculine
+87803	masculine
+87805	masculine
 87808	feminine
-87811	
 87813	feminine
 feminine
 neuter
-
-87819	
-feminine
-87822	
-masculine
-87825	
-
-neuter
+87820	feminine
+87823	masculine
+87827	neuter
 87829	masculine
 87831	neuter
-
-masculine
+87833	masculine
 87837	neuter
 neuter
-neuter
+feminine
 87841	masculine
-
 87844	masculine
-87846	
 87848	masculine
-87850	
-
-neuter
+87852	neuter
 87854	feminine
 feminine
-87858	
-87860	
-87862	
 87866	neuter
 masculine
-
 87872	neuter
 masculine
 87875	masculine/neuter
-
+masculine
 87879	neuter
-
-87882	
 87886	masculine
-87889	
-
 87894	feminine
 masculine
-
-
-
-
-masculine
-87902	
-87904	
-masculine/feminine
-
-neuter
-
+87900	masculine
+87905	masculine/feminine
+87907	neuter
 87910	feminine
 masculine
 neuter
-
-
-masculine/feminine
+87915	masculine/feminine
 feminine
-87918	
-masculine
+87919	masculine
 feminine
-
-masculine
-
+87922	masculine
 87925	feminine
 masculine
 feminine
-87932	
-feminine
+87933	feminine
 feminine
 feminine
 87937	masculine
-
-
-87941	
-feminine
+87942	feminine
 neuter
-
-87948	
-87950	
-neuter
+87951	neuter
 87959	feminine
 87961	masculine
-
-feminine
+87963	feminine
 neuter
-
-87967	
-
 87971	feminine
-87973	
+87974	feminine
 feminine
-feminine
-
-
-87979	
-
-
-
-
-masculine
-
-feminine
-
-87990	
-feminine
+87984	masculine
+87986	feminine
+87991	feminine
 87993	masculine
 feminine
-
-
-
-
 88000	masculine
 88002	feminine
-
-masculine
+88004	masculine
 neuter
-
-
-feminine
+88008	masculine
 masculine/neuter
-
-
 88015	feminine
 neuter
-
 88021	feminine
-
-88024	
 88026	neuter
 masculine
-88029	
-88031	
 88037	masculine
 masculine
-88040	
-feminine
+88041	feminine
 88043	masculine/feminine
 88046	masculine
-88049	
-88051	
-88054	
-88056	
-masculine
-88061	
-masculine
-88064	
+88057	masculine
+88062	masculine
 88066	masculine/neuter
-
+masculine
 88069	masculine
-
-masculine
-88073	
+88071	masculine
+88074	feminine
 feminine
-feminine
-
-88078	
-feminine
-88085	
-masculine
-
-
-neuter
-88091	
-feminine
-
-88095	
-88097	
+88079	feminine
+88086	masculine
+88089	neuter
+88092	feminine
 88099	masculine/feminine
 88102	feminine
-88104	
-88112	
-
+88114	masculine
 masculine
-masculine
-88117	
-feminine
-
+88118	feminine
 88123	neuter
 feminine
 88126	masculine/neuter
-88129	
-feminine
+88130	feminine
 feminine
 neuter
-
 88136	neuter
 88139	feminine
-
-88143	
-88145	neuter
+88145	feminine
 88150	neuter
 88153	feminine
 feminine
-
-neuter
+88156	neuter
 88160	masculine
-88162	
-neuter
-88166	
-
+88163	neuter
 88169	feminine
-88175	
 88177	neuter
-
-88182	
-
 88185	masculine
-88189	
-feminine
-
-88194	
-
-88197	
+88190	feminine
 88199	feminine
 88202	neuter
-
 88205	neuter
 neuter
 neuter
@@ -51727,633 +26645,328 @@ neuter
 masculine/feminine
 88216	neuter
 masculine
-
-masculine/feminine
+88219	masculine/feminine
 88221	neuter
-88223	
-masculine/feminine
+88224	masculine/feminine
 88226	neuter
 88229	neuter
-
-
-neuter
+88232	neuter
 88235	neuter
-88237	
 88239	neuter
 masculine
 neuter
 feminine
 feminine
-
 88247	feminine
-
 88250	feminine
-88252	neuter
+88252	feminine
 feminine
 masculine/feminine
-
-neuter
-
-neuter
+88256	neuter
+88258	neuter
 88260	feminine
 feminine
 feminine
 masculine
-
-neuter
+88265	neuter
 neuter
 88269	feminine
 feminine
 88272	masculine
-88274	
 88276	neuter
-
-
-
-feminine
-
-masculine
-
+88280	feminine
+88282	masculine
 88286	feminine
 neuter
 88289	feminine
-
-neuter
+88291	neuter
 88293	masculine
 88295	masculine/feminine
 88297	masculine
-
-88300	neuter
+88300	feminine
 88302	masculine
-88307	
-88309	
-
-masculine
-
+88311	masculine
 88314	masculine
-
-88317	
-88319	
-88323	
-masculine
-88331	
+88324	masculine
 88334	feminine
 neuter
-
-neuter
+88337	neuter
 88339	neuter
 masculine
-
-88344	
 88347	masculine
-88349	
-88352	
-masculine/neuter
+88353	masculine/neuter
 88357	masculine
 neuter
 neuter
-88363	
-88365	
 88367	feminine
 masculine/feminine
 feminine
-
-feminine
-
+88371	feminine
 88374	feminine
-88377	
-feminine
-
-
-feminine
-
+88378	feminine
+88381	feminine
+88383	masculine
+88387	feminine
+88389	masculine
 masculine
-88385	
-
-feminine
-
+88393	feminine
 masculine
-masculine
-
-
-feminine
-masculine
-
-
 88398	masculine
 masculine
-
-
+88402	masculine
 masculine
-masculine
-
 88406	feminine
-
 88409	masculine
 88411	neuter
-88413	
-88415	
-feminine
-
-88419	
-
-
+88416	feminine
 88423	masculine
-
-
-masculine
-88428	
-88431	
-masculine
-88434	
-88437	
-feminine
-88440	
-
-masculine
+88426	masculine
+88432	masculine
+88438	feminine
+88442	masculine
 88445	feminine
 feminine
 88449	feminine
-88451	
-88454	
 88456	masculine
-
-88459	
-
-
-
-
-88466	
 88469	masculine
 neuter
 feminine
-88473	
-88475	
 88477	masculine
-
 88481	neuter
 88483	masculine
-88485	
 88487	masculine
 neuter
-
+masculine/feminine
 88491	feminine
-
-neuter
-88495	
-feminine
-
+88493	neuter
+88496	feminine
 88499	feminine
 88501	masculine
 88503	masculine
-88505	
-
-88508	
-
 88512	masculine
 feminine
-
-
-
-masculine
-
-masculine
+88517	masculine
+88519	masculine
 feminine
 masculine
-88523	
-
 88526	masculine
 feminine
-
 88532	masculine
 masculine
 masculine
-
-
 88539	neuter
 masculine
-
-
-
-
-
-
-
-
 88551	masculine
 feminine
 neuter
-
-88556	
-
 88560	feminine
-
-masculine
-
-neuter
+88562	masculine
+88564	neuter
 feminine
 88567	feminine
-
-neuter
+88569	neuter
 feminine
-
 88573	masculine
 masculine
-
-feminine
-
-
-neuter
-
-
-masculine
+88576	feminine
+88579	neuter
+88582	masculine
 88585	neuter
 neuter
 88588	masculine
 88590	masculine
-
-
-88594	
-88597	
-
-
 88602	masculine
 88605	feminine
 88607	masculine
-
-88610	
-88612	
 88614	neuter
-88618	
-
 88621	masculine
 masculine
 88625	masculine
 feminine
-
-
-88630	
 88632	feminine
-
-neuter
-88639	
-
-
+88634	neuter
 88643	masculine
-
-88646	
-
-
-neuter
-neuter
-88652	
-
-88655	neuter
-88657	
-neuter
+88649	neuter
+feminine
+88655	feminine
+88658	feminine
 88662	masculine/feminine
-
-
 88666	neuter
-
-
 88671	masculine
-
-masculine/neuter
+88673	feminine
 feminine
 feminine
-
 88678	masculine/feminine
 88680	masculine/feminine
-
-88686	
-88691	
-88693	
-88695	
-88698	
-
-masculine
-88703	
-masculine
+88700	masculine
+88704	masculine
 88706	masculine
 88708	neuter
 masculine
-
-88713	
-
-
-
-
-
-
-
-88722	
-masculine/feminine
+88723	masculine/feminine
 feminine
 masculine
-
-
-
-neuter
-
-
-
-
-88735	neuter
-
-
-masculine
+88729	neuter
+88738	masculine
 feminine
-
-
-neuter
-masculine
-
+88743	masculine
 88748	masculine
 feminine
-
-masculine
+88751	masculine
 88755	masculine
-
-feminine
+88757	feminine
 neuter
 feminine
-
-neuter
+88761	neuter
 88765	neuter
 feminine
 feminine
 feminine
-
-
 88772	feminine
 88775	feminine
 88777	feminine
-88779	
 88781	neuter
-88783	
-masculine
+88784	masculine
 88787	neuter
 feminine
-
-neuter
-
-
-feminine
-88795	
-masculine
+88790	neuter
+88793	feminine
+88796	masculine
 88800	masculine
-
 88804	masculine
-88808	
-
 88811	masculine
 88813	masculine
 88817	feminine
 masculine
-
-
-feminine
+88821	feminine
 88824	neuter
-
-feminine
-
-masculine
-
-feminine
-88834	
+88826	feminine
+88828	masculine
+88830	feminine
 88836	masculine
 masculine
 88839	masculine
-88841	
-masculine
+88842	masculine
 masculine
 88845	masculine
 neuter
 masculine
-
-masculine
+88849	masculine
 88851	masculine
 masculine
 88854	neuter
 masculine
 88857	masculine
 88863	masculine/feminine
-
-masculine
+88865	masculine
 masculine
 neuter
-88869	
-masculine/feminine/neuter
+88870	masculine/feminine/neuter
 masculine/neuter
-
-
-
-88877	
 88879	masculine
 masculine
-
-88886	
-masculine/feminine
+88887	masculine/feminine
 88889	masculine/feminine
-88892	
-
+88893	feminine
 masculine/feminine
-88896	
-
-masculine/feminine/neuter
+88898	masculine/feminine/neuter
 masculine
 88901	masculine
 88904	masculine/feminine
 masculine
-
 88908	masculine
 masculine
 masculine
-
-
-88914	
-neuter
+88915	neuter
 88917	masculine
 masculine
 masculine
 masculine
-
-
-88924	
-
-neuter
+88926	neuter
 88929	feminine
 neuter
-
 88934	neuter
-
-masculine
-
-88939	
-
-masculine
-
-masculine
-
-88946	
-masculine
-
-masculine
-
-88952	
-masculine
-
-88956	
-masculine
-88959	
+88936	masculine
+88941	masculine
+88943	masculine
+88947	masculine
+88949	masculine
+88953	masculine
+88957	masculine
 88962	masculine
-88966	
 88968	masculine
-88970	
-
 88974	neuter
-
-88978	
-
 88982	neuter
-
-88986	
-88989	
-
-88992	
-neuter
-88996	
-
-
-masculine
-
-masculine
-
-masculine
+88993	neuter
+88999	masculine
+89001	masculine
+89003	neuter
 89006	feminine
 feminine
-
-
-neuter
+89010	neuter
 neuter
 89014	feminine
-
-neuter
-89018	
-
-neuter
-89024	
-
-89027	
-
+89016	neuter
+89020	neuter
+89028	masculine
 89030	masculine
-89033	
-89035	
+89036	masculine
+89041	masculine
 masculine
-
-89040	
-masculine
-masculine
-
 89045	neuter
 89047	neuter
-
-masculine
-
+89049	masculine
 89052	neuter
 neuter
 89055	neuter
 neuter
-
-89059	neuter
+89059	feminine
 feminine
 masculine
-89063	
-89066	
-
-
-masculine
-
-89072	
-89074	
-
-masculine/feminine
+89069	masculine
+89076	masculine/feminine
 masculine
 89079	masculine
 89082	feminine
 89084	masculine
-
 89088	feminine
 feminine
-
-neuter
+89091	neuter
 feminine
 89094	feminine
-
-89098	
 89100	feminine
-
 89103	masculine
 masculine
-89106	
-neuter
-89109	
-masculine/neuter
-89112	
-neuter
+89107	neuter
+89110	masculine/neuter
+89113	neuter
 89118	neuter
 89120	neuter
-89122	
-
 89125	neuter
 89127	masculine
-89129	
 89131	masculine
-89134	
 89136	neuter
-
-neuter
+89138	neuter
 masculine
 89141	feminine
-
-masculine
-
-89146	
-neuter
-89149	
-neuter
+89143	masculine
+89147	feminine
+89150	neuter
 89152	masculine
 89157	neuter
-89159	
 89161	masculine
-89163	
-
-89168	
-
-masculine
-
-
-
-neuter
+89170	masculine
+89172	masculine/feminine
+89174	neuter
 masculine/feminine
 masculine
 masculine
 masculine
-89180	
-89182	
-masculine
+89183	masculine
 89186	masculine
-
-89189	
-
-
-89193	masculine
+89193	neuter
 89195	masculine
-
-
 89199	feminine
-89201	
 89204	masculine
 masculine/feminine
 neuter
@@ -52362,503 +26975,288 @@ masculine
 89212	masculine
 neuter
 89216	feminine
-
-neuter
-89220	
 89222	masculine
-89224	
 89227	masculine
 masculine
-
-neuter
-
-
+89230	neuter
 89235	masculine
 89237	feminine
-
-
-neuter
+89240	neuter
 89242	masculine
 feminine
-89246	
 89248	feminine
 feminine
-89251	
-neuter
-89254	
-89256	neuter
+89252	feminine
+89256	feminine
 89259	masculine/neuter
 neuter
-89263	
-masculine
-89268	
-89273	
-89277	
-neuter
-
-masculine
-89282	
-89284	
+89264	masculine
+89278	neuter
+89280	masculine
 89289	neuter
-89292	
-masculine
+89293	masculine
 feminine
 masculine
 masculine
-89298	
 89302	masculine
 masculine
 89305	masculine/feminine
-
-feminine
-
-neuter
-
+89307	feminine
+89309	neuter
 89312	masculine
 89315	masculine
-
-feminine
+89317	feminine
 neuter
-
-89321	
-feminine
+89322	feminine
 feminine
 feminine
 masculine
 neuter
 89328	neuter
-
-masculine
-
+89330	masculine
 89333	neuter
 89336	feminine
-89338	
-
-
-89343	
-89345	
-
-89349	
-
-neuter
-
-
+89351	neuter
 89355	neuter
-89358	
-masculine
+89359	masculine
 neuter
 neuter
 89363	masculine
 89368	masculine
-
 89372	masculine
-
 89375	feminine
 feminine
-
 89380	masculine
 masculine
 89385	neuter
 neuter
 masculine/neuter
 masculine
-89393	
+89394	feminine
 feminine
 feminine
-feminine
-89398	
-
-
-89402	
-89404	
-feminine
-
-
-89409	
-feminine
+89405	feminine
+89410	feminine
 89412	masculine
 89416	masculine
-89419	
-
-feminine
-
-89425	
-
+89421	feminine
 89429	feminine
-89436	
-89439	
-
-89442	
+89436	masculine
 89444	feminine
-neuter
-89447	
+feminine
 89449	feminine
-89451	
-
-neuter
-
+89453	neuter
 89459	masculine
 masculine
-
-neuter
+89462	neuter
 neuter
 neuter
 89466	neuter
-
-neuter
-
+89468	neuter
+89470	feminine
 feminine
 feminine
 feminine
-feminine
-89477	
 89479	masculine
-
-89483	
-
-masculine/neuter
+89485	masculine/neuter
 masculine
 neuter
 89490	neuter
-
-89493	
-neuter
+89494	neuter
 89496	feminine
-
 89499	masculine
 89501	masculine/neuter
-
-89505	
-89508	
+89509	feminine
 feminine
-feminine
-89513	
-feminine
+89514	feminine
 89516	masculine
-89519	
-89522	
-
-
 89528	neuter
-
-masculine
+89530	masculine
 89533	neuter
-89535	
 89538	masculine
-
-masculine
+89540	masculine
 89542	neuter
 neuter
-
-
-89550	
-
-
-neuter
+89553	neuter
 89555	masculine/feminine
-
-89558	
 89562	neuter
 feminine
-
 89567	feminine
-89572	
-
 89575	masculine/neuter
 89577	feminine
-89579	
-
 89583	feminine
-
-feminine
+89585	feminine
 masculine
-
-
-89590	
 89592	masculine/feminine
-
 89595	masculine
-
-feminine
+89597	feminine
 89600	feminine
-89602	
-masculine
+89603	masculine
 feminine
 neuter
-
-89608	
-89612	
 89614	masculine
-89616	
 89619	feminine
 89621	feminine
 feminine
 neuter
-89625	
 89627	masculine/feminine
 feminine
 feminine
 feminine
-
 89636	masculine
-
-neuter
-
+89638	neuter
 89643	neuter
 89645	neuter
 neuter
 masculine/neuter
-89649	
-89652	
-neuter
-89656	
+89653	neuter
 89659	neuter
 89661	masculine
 89665	feminine
-
-masculine/feminine
-
-89670	
+89667	masculine/feminine
 89673	feminine
-
 89676	feminine
 masculine
-89679	
 89681	feminine
-89683	neuter
-
-masculine
+89683	feminine
+89685	masculine
 feminine
 masculine
 masculine
-89690	neuter
-89692	
-
-89695	
-89697	
-89700	
-masculine/neuter
+89690	feminine
+89701	masculine/neuter
 89704	neuter
-
-
-
-feminine
-
-
-
-feminine
+89708	feminine
+89712	feminine
 89714	feminine
 feminine
 masculine
 feminine
-
-89722	
-feminine
-
-
-feminine
+89723	feminine
+89726	feminine
 89729	feminine
-neuter
+feminine
 89732	neuter
-
-
-masculine
-89739	
-
+89735	masculine
 89742	feminine
 feminine
-
-89746	
-feminine
+89747	feminine
 89750	feminine
 feminine
 89754	feminine
-89756	
-89758	
-89760	
-
+89762	masculine
 masculine
-
 feminine
 feminine
-89767	
-89769	
-89771	
-feminine
-
+89772	feminine
 89778	feminine
 feminine
 89782	masculine/neuter
 neuter
-
 89787	masculine
 89789	masculine/feminine/neuter
 masculine
-
-masculine/neuter
+89792	masculine/neuter
 masculine
-89795	
-89797	
-masculine
+89798	masculine
 89800	neuter
-89804	
-
-89807	
-
-89810	
+89810	feminine
 feminine
 feminine
 feminine
 89819	neuter
 feminine
-
-masculine
+89822	masculine
 89824	neuter
 masculine
 89828	masculine
 89830	feminine
-
-masculine
-
-feminine
+89832	masculine
+89834	feminine
 89836	feminine
-89838	
-feminine
-
-masculine
+89839	feminine
+89841	masculine
 89845	masculine
 masculine
 89849	masculine
-89851	
-
-
 89856	masculine/feminine
 89859	masculine/neuter
-89861	
-masculine/neuter
-
+89862	masculine/neuter
 89866	neuter
 masculine
-
-masculine
-
+89869	masculine
 89873	masculine
 feminine
-
-masculine/neuter
+89876	masculine/neuter
 89880	neuter
 masculine
-
-masculine
+89883	masculine
 89885	neuter
-
+89887	masculine/neuter
+89891	feminine
 masculine/neuter
-
-89890	
-feminine
-masculine/neuter
-
 89896	masculine
 masculine
-
-89900	
-feminine
+89901	feminine
 masculine
-89905	
-masculine
-
-feminine
+89906	masculine
+89908	feminine
 89910	feminine
 feminine
 feminine
-
-masculine
-
-feminine
-89918	
+89914	masculine
+89916	feminine
 89920	feminine
-89922	
-masculine
-
+89923	masculine
 89927	neuter
-
-masculine
+89929	masculine
 89933	neuter
 89935	masculine/neuter
-
 89938	masculine
 masculine
 89941	masculine
 89944	masculine/feminine
 neuter
-89947	
-masculine/feminine
+89948	masculine/feminine
 89950	feminine
 89955	neuter
 89960	masculine/feminine
 neuter
-89964	
-89966	
-89968	
 89970	feminine
 feminine
 feminine
-
-
-masculine
-
+feminine
+89975	masculine
 89978	feminine
-89980	
 89982	feminine
 feminine
 89985	neuter
 feminine
-
 89993	masculine
-89995	
 89997	neuter
 masculine
-90001	
-masculine
+90002	masculine
 feminine
 masculine/neuter
-
-masculine/neuter
-
-
-neuter
+90006	masculine/neuter
+90009	neuter
 feminine
-90012	neuter
+90012	feminine
 90014	feminine
 90016	feminine
-
-feminine
+90018	feminine
 feminine
 feminine
 masculine
 feminine
 90024	feminine
-90026	
-90028	
-90030	
-90032	
-
 90035	feminine
-
-90038	
 90040	masculine
-90043	
 90045	masculine
 masculine
-90050	
-
-90054	
 90057	feminine
-
-neuter
-
-90062	
-masculine
+90059	neuter
+90063	masculine
 feminine
 masculine
 90067	feminine
@@ -52870,11 +27268,8 @@ masculine
 masculine
 masculine
 90084	feminine
-
 90087	masculine
-
-90091	
-masculine
+90092	masculine
 90094	feminine
 masculine
 masculine
@@ -52887,579 +27282,304 @@ masculine
 masculine
 masculine
 90112	masculine
-90114	
 90117	feminine
-
-
 90121	neuter
 masculine
 90126	masculine
 masculine
-
-90131	
-masculine/feminine/neuter
-90137	neuter
-
-neuter
+90132	masculine/feminine/neuter
+90137	feminine
+90139	neuter
 masculine/neuter
-90142	
-
-masculine/feminine/neuter
+90144	masculine/feminine/neuter
 neuter
-
-90149	
-masculine
+90150	masculine
 neuter
 neuter
-90154	
 90156	neuter
-neuter
+feminine
 masculine
 masculine
 90161	feminine
 feminine
-
 90166	feminine
 90168	feminine
 90172	masculine
 masculine
-neuter
+feminine
 90176	neuter
 90179	masculine
-90181	
-feminine
-
-neuter
-
-90187	
-90190	
-masculine/neuter
+90182	feminine
+90184	neuter
+90191	masculine/neuter
 masculine
-90194	
-masculine/feminine
-masculine/neuter
+90195	masculine/feminine
+feminine
 90198	masculine/neuter
-90200	
-
-masculine
+90202	masculine
 feminine
 masculine
 masculine
-
-90208	
-neuter
+90209	neuter
 90211	feminine
-90213	
-90215	
-
-neuter
+90217	neuter
 90219	feminine
 90221	masculine
 masculine
 masculine
-
-
-neuter
-90228	
-feminine
-
-
-90233	
-neuter
-
-90237	
-
-masculine/neuter
+90226	neuter
+90229	feminine
+90234	neuter
+90239	masculine/neuter
 masculine
-
-
-90245	
-neuter
-
-90249	
-90251	
+90246	neuter
+90251	feminine
 feminine
 90255	neuter
-
-masculine
-90259	
-
+90257	masculine
 90262	feminine
 masculine
-90265	
-90271	
-masculine
+90272	masculine
 feminine
 masculine
 masculine
-90278	
-feminine
-
-90283	
-
-feminine
-
+90279	feminine
 masculine
+90285	feminine
+90287	masculine
 feminine
 masculine
 masculine
 masculine
 masculine
 90295	masculine/feminine
-
-
+90298	feminine
+90301	neuter
+masculine
+masculine
+90305	masculine
 feminine
-
-
-neuter
-masculine
-masculine
-
-masculine
-feminine
-
 90309	feminine
-90311	neuter
-
-90314	
-masculine
+90311	feminine
+90315	masculine
 feminine
 masculine
 masculine
-
-90322	
 90325	masculine
-90327	
-
-90330	
-90333	
-
-neuter
+90335	neuter
 masculine
-90338	
-
-90345	
-feminine
+90346	feminine
 90348	masculine
-
+90350	feminine
 feminine
-feminine
-
-90354	
-
-
-
-90360	
 90362	feminine
-
-
-90366	
-90368	
 90370	feminine
-
-90374	
 90376	masculine
 90378	masculine
 masculine
 masculine
-90382	
-
+90384	feminine
+90393	neuter
 feminine
-
-
-90388	
-90391	
-
-neuter
-feminine
-90396	
-masculine
+90397	masculine
 90400	masculine
-
-masculine
+90402	masculine
 masculine/feminine
-
-
-
 90408	neuter
-
 90415	feminine
 90417	masculine
-
-
-
-neuter
-90424	
-90426	
+90421	neuter
 90428	masculine
-90430	
-90432	
-
-feminine
-
-
-masculine
+90434	feminine
+90437	masculine
 90439	masculine
-90441	
-masculine
+90442	masculine
 masculine
 90446	masculine
-
-
 90451	masculine/neuter
 feminine
 90457	masculine/feminine
 feminine
 neuter
-90463	
 90465	feminine
 feminine
 feminine
-90470	
+90471	feminine
 feminine
-feminine
-
-
-90476	
-masculine
-
-90480	
-90483	
+90477	masculine
 90485	masculine
 90488	feminine
-
-
-90493	
-
-feminine
-
-neuter
-
+90495	feminine
+90497	neuter
 90500	masculine
-90502	neuter
+90502	feminine
 90504	feminine
 90506	neuter
-
-masculine
-90510	neuter
+90508	masculine
+90510	feminine
 90512	feminine
-
-90515	
-90520	
-feminine
+90521	feminine
 masculine/neuter
 90525	feminine
 masculine/neuter
-90529	
-masculine
+90530	masculine
 neuter
-
 90534	masculine
 90537	feminine
 neuter
-90542	
-
 90546	masculine
 neuter
 90550	neuter
 feminine
-
 90554	neuter
-
-neuter
-masculine
-feminine
+90556	neuter
+90558	feminine
 feminine
 90563	masculine/feminine
-
-neuter
-masculine
+90565	neuter
+90567	feminine
 feminine
-feminine
-
 90573	feminine
-90575	
-
-90578	
-
-
-
 90583	masculine/feminine
-
 90586	masculine/feminine
-
+90588	neuter
 neuter
-neuter
-
-
-
-masculine
-90595	
-
-90598	
+90593	masculine
 90600	neuter
 masculine/feminine/neuter
-
-
-
-masculine
-90607	
-
-neuter
+90605	masculine
+90609	neuter
 feminine
 90612	neuter
 masculine/feminine/neuter
-
-
 90617	neuter
 feminine
-
-masculine
+90620	masculine
 90622	neuter
 masculine
 masculine
-
-neuter
+90626	neuter
 masculine
-
 90630	masculine
-
-feminine
-90634	
-
-neuter
-
-neuter
-90641	
-
-masculine/neuter
+90632	feminine
+90634	masculine/feminine
+90636	neuter
+90638	neuter
+90643	masculine/neuter
 masculine
 90647	feminine
 masculine/feminine
-
-neuter
-90652	
+90650	neuter
 90656	feminine
-
 90660	masculine
-90662	
-masculine
+90663	masculine
 90665	masculine
 90668	feminine
-90670	
-
-90673	
-
-
-feminine
+90676	feminine
 masculine
-
 90680	neuter
-
-neuter
-
-90685	
-neuter
-90688	
-
-
-masculine
+90682	neuter
+90686	neuter
+90691	masculine
 90693	masculine
 90696	neuter
 masculine
-
-feminine
-90701	
-90704	
-masculine/neuter
+90699	feminine
+90705	masculine/neuter
 90709	feminine
 90711	masculine
 90713	masculine
 90717	masculine
-
-
-
-feminine
-
-90724	
-feminine
-90729	
-feminine
+90721	feminine
+90725	feminine
+90730	feminine
 feminine
 feminine
 masculine
-90735	
+90736	feminine
 feminine
-feminine
-90739	
-feminine
+90740	feminine
 neuter
 feminine
-90744	
-
-90747	
-feminine
-90750	
-
-90754	feminine
+90748	feminine
+90754	masculine
 feminine
 masculine/neuter
-
 90760	feminine
 masculine/neuter
-
-
-neuter
+90764	neuter
 feminine
-
-
-90771	
-masculine
+90772	masculine
 90775	feminine
-90777	
-feminine
+90778	feminine
 feminine
 90782	feminine
 masculine/neuter
-
-90787	
-
-90791	
-
 90794	masculine
 90796	feminine
 feminine
-
 90801	neuter
-90803	
-
-90807	
-90810	
+90811	feminine
 feminine
-feminine
-
 90815	feminine
 90817	masculine
-90820	
 90822	masculine/feminine
 90825	masculine
-90827	neuter
-
+90827	feminine
 90833	masculine
-
 90836	neuter
 neuter
-
-neuter
+90839	neuter
 masculine/feminine
 90843	feminine
 neuter
-
-feminine
-
-masculine
-90851	
-feminine
-90854	
-neuter
+90846	feminine
+90848	masculine
+90852	feminine
+90855	neuter
 90858	neuter
-
-neuter
-90862	
-
-masculine
-90867	
-neuter
-90871	
-90874	
-
-90877	
-90881	
-
-neuter
-
+90860	neuter
+90864	masculine
+90868	neuter
+90883	neuter
 90886	neuter
-
-
-neuter
+90889	neuter
 masculine
 masculine/feminine
 neuter
-90894	
-
-
 90899	feminine
-
-90902	
 90906	feminine
-90911	
 90913	neuter
-
-90916	
-neuter
+90917	neuter
 feminine
 90920	neuter
-90923	
-masculine
-90926	
-
-
-masculine
-90932	
+90924	masculine
+90927	masculine
+90929	masculine
 90934	masculine
-90939	
-masculine/feminine
+90940	masculine/feminine
 90943	neuter
 masculine
-90946	
 90950	neuter
 masculine
-
-masculine
-90955	
-
-
-
-
-90962	
-90964	
-90966	
-masculine/neuter
+90953	masculine
+90967	masculine/neuter
 feminine
 feminine
-90971	
-feminine
-90977	feminine
-90980	
-90984	
-90987	
-
-neuter
-90992	
-90994	
-90996	
-90998	
-91001	
-masculine/feminine
-
-91005	
-91009	
-feminine
-
-feminine
-
-neuter
+90972	feminine
+90977	masculine
+90989	neuter
+91002	masculine/feminine
+91010	feminine
+91012	feminine
+91014	neuter
 91017	feminine
 neuter
-91022	
 91024	feminine
-91028	
+91029	masculine
 masculine
-masculine
-91032	
 91034	feminine
-91036	
-masculine
+91037	masculine
 91042	masculine
 91045	neuter
 91047	masculine
@@ -53468,1141 +27588,540 @@ masculine
 91053	masculine
 91057	masculine
 masculine
-
-
 91064	masculine
-91067	
 91069	masculine
 91071	neuter
-91074	
-neuter
+91075	neuter
 neuter
 neuter
 masculine
-
-
-91082	
-
-neuter
+91084	neuter
 91086	feminine
-91088	
 91091	neuter
-91095	
-91099	
-
-neuter
+91101	neuter
 91105	masculine
-
-
 91109	neuter
 91112	masculine
 masculine
-
 91116	masculine/feminine
-
-
 91120	neuter
 masculine
-91123	
-masculine/feminine
+91124	masculine/feminine
 91130	neuter
 neuter
 91133	feminine
 91135	feminine
-
-
-
 91144	neuter
 masculine
-91150	
-
-
 91154	neuter
-
-masculine
-
-91160	
-
+91156	masculine
 91163	neuter
-91171	
-neuter
+91172	feminine
 masculine
-
-
-
-feminine
+91177	feminine
 neuter
-
-91183	
-neuter
-
-
-
-
-masculine/feminine
-91192	
-neuter
-
-
+91184	neuter
+91189	masculine/feminine
+91193	neuter
 91197	masculine
 91199	masculine
 91201	feminine
-
-neuter
+91203	neuter
 masculine/feminine/neuter
-91207	
-91211	
-
-masculine/feminine
-
-91217	
-
-
-
+91213	masculine/feminine
 91222	neuter
 masculine
-91225	
-feminine
+91226	feminine
 91228	feminine
 91230	feminine
-
-
 91234	feminine
-
-
-neuter
+91237	neuter
 91241	masculine
-91244	
-
-
-feminine
+91247	feminine
 neuter
 91251	masculine
-
 91255	feminine
 feminine
-
-
-masculine/feminine
-91263	
+91259	masculine/feminine
 91265	masculine
 91267	feminine
-91269	
-91271	
-feminine
-
-91275	
-91277	
-feminine
-
-91281	
-masculine
-
-masculine
+91272	feminine
+91278	feminine
+91282	masculine
+91284	masculine
 masculine
 feminine
 91289	masculine
 masculine
 91292	neuter
 91294	masculine/feminine
-91297	
-masculine
+91298	masculine
 masculine
 91301	masculine
 neuter
 neuter
 91305	masculine
-91307	
 91309	masculine
-
-masculine
+91311	masculine
 masculine/feminine
 91314	masculine
-91316	
-masculine
-91319	
+91317	masculine
 91321	feminine
-
-
-
 91326	feminine
-91328	feminine
+91328	masculine
 neuter
-
-91334	
-91336	
-
-neuter
+91338	neuter
 91340	masculine
 91342	masculine
 91344	masculine
 91347	masculine
 91349	masculine
 neuter
-
-
-
-
+91352	masculine
+91355	masculine
 masculine
-masculine
-91359	
-neuter
+91360	neuter
 feminine
-
-masculine
-91365	
-feminine
+91363	masculine
+91366	feminine
 feminine
 masculine/neuter
 neuter
-91371	
-masculine
-91376	
-
-neuter
+91372	masculine
+91378	neuter
 feminine
-91383	
-neuter
-91386	
+91384	neuter
 91388	feminine
-
-
-masculine/feminine
+91391	masculine/feminine
 masculine
-91394	
-
-neuter
-91398	
+91394	feminine
+91396	neuter
+91399	masculine
 masculine
-masculine
-
-
-masculine/neuter
-
-
-
-
-masculine/feminine
-91410	
-
-neuter
-91414	
-masculine
-
-91418	
+91403	masculine/neuter
+91408	masculine/feminine
+91412	neuter
+91415	masculine
 91422	neuter
-
-
-masculine
+91425	masculine
 feminine
 neuter
-91429	
-neuter
+91430	neuter
 91433	feminine
-91436	
-91439	
-91442	
-91444	
 91446	masculine
 91448	masculine/feminine
-91453	
-91455	
-91458	
-91461	
 91465	masculine
-neuter
-masculine
-91471	
-masculine/neuter
-91474	masculine/feminine
-91477	
-91479	
-91482	
-91486	feminine
-91488	
-91490	
-91492	
-91494	
-91496	
-91498	
-91501	
-91504	
-91506	
-91508	
-
-91511	
-
-91516	
-91518	
-91520	feminine
-
 feminine
-91524	
+masculine
+91472	masculine/neuter
+91474	masculine/feminine
+91486	feminine
+91516	masculine
+91520	feminine
+91522	feminine
 91526	masculine
 feminine
 91529	masculine
-91533	
-
-masculine/neuter
-91537	
-91540	
+91535	masculine/neuter
 91542	masculine/neuter
 masculine
-neuter
-
-91547	
 feminine
-91550	
+91548	feminine
 91552	feminine
 masculine
 masculine
-
-feminine
-91559	
-
+91556	feminine
 91564	masculine
 91566	masculine
 91568	neuter
-
-masculine
+91570	masculine
 91572	feminine
-
-feminine
+91574	feminine
 masculine
 masculine
 feminine
-
-masculine/neuter
+91579	masculine/neuter
 masculine
-91583	
-
+91584	feminine
 feminine
-
-
-masculine
+91588	masculine
 91591	masculine
 91593	feminine
-91595	
-91598	
 91600	feminine
 masculine
 masculine
 masculine
-
-91607	
 91610	feminine
 feminine
-
-91615	
-91617	
-
+91619	feminine
 feminine
-feminine
-
+91622	neuter
+91625	feminine
 neuter
-91624	
-feminine
-neuter
-
-
-91630	
 91632	feminine
-
-
-
-91637	
-91639	
-91641	
-
-feminine
+91639	masculine
+91643	feminine
 91646	feminine
-91648	feminine
-
+91648	masculine
 91654	neuter
-
-91661	
-91663	
-
-91666	
-
-
-masculine
+91664	masculine
+91669	masculine
 feminine
 masculine
 91673	neuter
 91675	masculine
-
-91680	
 91682	masculine
-91684	
 91686	neuter
-91688	
-masculine
+91689	masculine
 91693	masculine
-
-
-91697	
-masculine
+91698	masculine
 masculine
 91701	feminine
-91703	
-
 91706	masculine/feminine
-
-feminine
-
-masculine
+91708	feminine
+91710	masculine
 feminine
 masculine
-91716	
-91718	
-91722	
-91726	
-
-feminine
-
-masculine
-
-neuter
+91728	feminine
+91730	masculine
+91732	neuter
 91735	feminine
-
-
-
-feminine
+91739	feminine
 91741	masculine
-91744	
 91747	masculine/feminine
-91749	
-
-masculine
-91754	
+91751	masculine
 91760	feminine
 91762	masculine
 91765	masculine
-
 91768	feminine
-91770	
 91772	feminine
 91774	feminine
-91776	
 91780	feminine
-91782	
-
-
-feminine
+91785	feminine
 masculine
-91789	
-91793	
-
-91796	
-91801	
-91803	
 91805	neuter
-
-
-
-91813	
-masculine
+91814	masculine
 91816	masculine
 masculine/feminine
-91822	
-
-
-91826	
-91828	
-91830	
-91832	
-neuter
+91833	neuter
 91836	neuter
-91840	
-
-
-91844	
-91846	
-91849	
-masculine
-91852	
-
+91850	masculine
 91855	masculine
-
-feminine
+91857	feminine
 neuter
-
-masculine/feminine
+91860	masculine/feminine
 feminine
-91863	
 91866	neuter
-91868	
-feminine
+91869	feminine
 masculine
-91872	
-
+91874	feminine
 feminine
-feminine
-
-
-
-
-masculine
-
-91884	
-91886	
-
-
-
-masculine
+91880	masculine
+91890	masculine
 91892	masculine/feminine
-
 91895	feminine
-
-
-
-91900	
 91902	feminine
 feminine
 91907	masculine
-
-91911	
-
-feminine
-91915	
-91917	
-
-
-91921	
-
-
-
-91928	
-
-feminine
+91913	feminine
+91930	feminine
 masculine
-
 91934	neuter
-
-91937	
-91939	
-91942	
-masculine
+91943	masculine
 neuter
-91947	
-91949	
-91951	
-neuter
-
+91947	masculine
+91952	neuter
 91955	neuter
-neuter
-neuter
-
-
-
-neuter
-neuter
-
-
-
-
-91968	
-91970	
-91974	
-
-
-
-
-neuter
 feminine
-
-
-masculine
-
+neuter
+91959	masculine
+91961	feminine
+neuter
+91964	masculine
+91979	neuter
+feminine
+91983	masculine
 91988	masculine/feminine
-91990	
-91992	
 91994	masculine
 91996	masculine
 91998	masculine
-
-
-
-
-
 92005	feminine
 neuter
-
 92009	feminine
-
-
-
-92014	
-92016	
-92018	
-
-92021	
+92022	masculine
 masculine
 masculine
-masculine
-92026	
-
-92029	
-neuter
+92030	neuter
 feminine
 masculine
-92036	
-masculine
-
-masculine
-92043	
-
-
-
-
-neuter
-92050	
-feminine
+92037	masculine
+92039	masculine
+92048	neuter
+92051	feminine
 92053	feminine
 feminine
-92056	
-masculine
+92057	masculine
 92063	feminine
-
-92068	
-
-feminine
-
-
-masculine
+92070	feminine
+92073	masculine
 92075	masculine
 masculine
-
 92079	masculine
 92084	masculine
-
 92087	masculine/feminine
-
-neuter
+92089	feminine
 92092	neuter
-
-
-
-neuter
+92096	neuter
 92098	feminine
 neuter
 masculine
-92102	
 92104	neuter
 neuter
-
-masculine
-
+92107	masculine
 92110	neuter
 masculine
-92113	
-
-
-
-masculine
-92119	
-92121	
-92126	
-masculine
-92129	
-
+92117	masculine
+92127	masculine
 92132	masculine
-92135	
-masculine
-
-92140	
+92136	masculine
 92142	feminine
-masculine
+neuter
 92145	masculine
 masculine
-
-92150	
 92153	masculine
-92156	
 92158	masculine
-92160	
-
-
-
-
 92167	feminine
 feminine
-
-
-
-masculine
+92172	masculine
 92175	masculine/feminine
-
-
-neuter
-92180	
-
-neuter
-92185	
-
-
+92178	neuter
+92182	neuter
 92189	neuter
-
-
 92193	feminine
-
 92196	feminine
 92198	neuter
 92201	masculine
-92203	neuter
+92203	feminine
 92205	feminine
 feminine
 92209	neuter
 92211	masculine
 92215	masculine
-
-masculine
-
+92217	masculine
 92220	masculine
-92223	
-92225	
 92228	feminine
-92230	
+92231	feminine
 feminine
-feminine
-92234	
-masculine/feminine/neuter
-92237	
-
-
-masculine
-92242	
+92235	masculine/feminine/neuter
+92240	masculine
 92245	masculine
-92247	
-masculine/feminine/neuter
-92250	
-
-
-feminine
+92248	masculine/feminine/neuter
+92253	feminine
 92255	masculine
-
-92258	
-
-
-
-
 92264	masculine
-
-
-
-
-92271	
-92274	
-
+92276	masculine
+92278	feminine
 masculine
-
+masculine
 feminine
-masculine
-masculine
-neuter
 92283	feminine
 feminine
-92287	
-
-92290	
-92292	
-
 92296	feminine
-92298	
 92300	neuter
-
 92303	masculine
-
-92306	
-neuter
+92307	neuter
 masculine
 92311	masculine
-92314	
 92320	feminine
 neuter
 neuter
 masculine
-92325	
-masculine
-
-92329	
-
+92326	masculine
 92332	masculine/feminine
-92335	
-
-92341	
-
-
-
+92345	masculine
 masculine
-masculine
-92348	
 92350	masculine
 92352	masculine
 92356	masculine/neuter
-92358	
-
-feminine
-
-92363	
+92360	feminine
 92365	masculine
-92370	
-
-
+92373	masculine
 masculine
-masculine
-
-masculine/feminine
-92379	
-neuter
-92383	
-
+92376	masculine/feminine
+92380	neuter
 92386	neuter
 masculine
-
-92393	
-
-neuter
-92398	
-
+92395	neuter
 92402	masculine
-
-92405	
 92408	masculine
 92410	masculine
-92412	
-
 92417	feminine
 92419	feminine
-92421	
-
-92424	
-neuter
+92425	neuter
 neuter
 92428	feminine
 92433	feminine
-92435	
 92437	masculine
-92441	
 92443	masculine
-92445	
-feminine
-92448	
+92446	feminine
 92450	masculine
-
-92453	
-
-feminine
+92455	feminine
 masculine
 92458	neuter
-92460	
-92462	
-92464	
-
-
-neuter
-
-masculine
-
-92473	
-
-masculine
-92477	
-
-masculine
+92467	neuter
+92469	masculine
+92475	masculine
+92479	masculine
 masculine
 neuter
-
-
-masculine
-92487	
-92490	
-92492	
-
-
+92484	masculine
+92493	feminine
 92496	masculine/feminine
 92498	masculine
-
-
-feminine
-
-masculine/feminine
+92501	feminine
+92503	masculine/feminine
 masculine
 92506	feminine
 masculine
 92511	feminine
 feminine
-92515	
-feminine
+92516	feminine
 92518	neuter
-92520	
-
-feminine
-
-92525	
-
-masculine/neuter
+92522	feminine
+92527	masculine/neuter
 masculine
 92530	masculine
-
-
-92534	
 92536	feminine
 masculine/feminine
-92539	
-
-masculine
-92543	
-masculine
+92539	masculine
+92541	masculine
+92544	masculine
 92546	masculine
 92548	masculine
-92550	
-masculine
+92551	masculine
 masculine/feminine
 92554	masculine
 92556	masculine
-
 92559	masculine
-
-masculine
+92561	masculine
 feminine
-92564	
-92568	
-neuter
+92569	neuter
 masculine/neuter
-
-neuter
-
+92572	neuter
 92575	masculine/neuter
 masculine
-
+92578	masculine
+92585	masculine
+92587	masculine
 masculine
-
-
-92583	
-
-masculine
-
-masculine
-masculine
-92590	
 92593	neuter
-92595	neuter
+92595	feminine
 92597	feminine
-
-
-neuter
+92600	neuter
 92607	masculine
-
-92611	
 92613	masculine
-
 92616	masculine
-92620	
 92623	masculine
-
-feminine
-92627	
-92631	
-feminine
-
-masculine
-92636	
+92625	feminine
+92632	feminine
+92634	masculine
 92638	feminine
 92642	feminine
 92644	masculine
 masculine
 92649	masculine
-
 92652	masculine
-92655	
-masculine
+92656	masculine
 92658	feminine
 92660	masculine
-92662	
-masculine
+92663	masculine
 92666	masculine
-92668	
-masculine
+92669	masculine
 92672	masculine
-92674	
-masculine
+92675	masculine
 92678	masculine
 masculine
-92682	
+92683	masculine
 masculine
-masculine
-
-92689	
-
-92692	
 92694	feminine
 92697	masculine
-92699	
-neuter
-
+92700	neuter
+92702	masculine
+92706	masculine
 masculine
-
-
-
-masculine
-masculine
-92709	
-
-neuter
-
-
-
-
-
+92711	neuter
 92721	feminine
 92723	feminine
 92726	feminine
-92728	
-neuter
-
-masculine
-
+92729	neuter
+92731	masculine
 92734	feminine
-92736	
-92739	
 92741	feminine
 92743	feminine
-
-neuter
-
-
-
-
-
-feminine
+92745	neuter
+92751	feminine
 92756	feminine
 neuter
 masculine/feminine
-
-
-
-92763	
-
-
 92768	masculine/feminine
 92770	masculine/feminine
-
-masculine
-
-
+92772	masculine
+masculine/feminine
 92776	masculine/feminine
-92778	
 92780	neuter
 neuter
-
-masculine
-92788	
+92783	masculine
 92790	masculine
-
-92793	
-
-92798	
-
-
-feminine
+92801	feminine
 neuter
 masculine/feminine
 masculine
-
-
-feminine
-92809	
-
-
-masculine/feminine/neuter
-92816	
-
-
-feminine
+92807	feminine
+92812	masculine/feminine/neuter
+92819	feminine
 feminine
 92823	neuter
 neuter
 masculine
-
 92829	masculine
 92832	neuter
 neuter
 masculine
-
 92837	masculine
 masculine
 92840	masculine/feminine
-
 92845	neuter
-92847	
-masculine
+92848	masculine
 92851	masculine
 92854	masculine
 92856	feminine
-92859	
 92861	neuter
-
-masculine
+92863	masculine
 feminine
 92867	masculine
-92869	
-
-92872	
-92874	
 92876	masculine
 92878	neuter
-92880	
 92882	feminine
-92884	
-
-92887	
-
+92889	feminine
 feminine
-feminine
-
-feminine
-92894	
-
-
-masculine/feminine
-
+92892	feminine
+92897	masculine/feminine
 92900	neuter
-92904	
-92906	
 92908	masculine/feminine
-
 92911	neuter
 92915	neuter
-
 92920	feminine
-92922	
-
-92926	
-92929	
-92932	
+92933	masculine
 masculine
-masculine
-92938	
-masculine
-
-
-
-92944	
-
-feminine
-92948	
-
+92939	masculine
+92946	feminine
 92952	masculine
 92955	masculine/feminine
 masculine
 92958	masculine
-92960	
-masculine/feminine
+92961	masculine/feminine
 neuter
 masculine
-92966	
 92969	masculine
 masculine
 masculine
@@ -54611,1198 +28130,558 @@ masculine
 neuter
 masculine
 92980	neuter
-92982	
-
-masculine/neuter
+92984	feminine
 feminine
 feminine
-
-92989	
-feminine
-
-92993	
-92995	
-masculine/feminine
+92990	feminine
+masculine
+92996	masculine/feminine
 masculine/neuter
 92999	feminine
 feminine
 neuter
 masculine/feminine
 feminine
-
-feminine
+93005	feminine
 93007	masculine/feminine
-
-
-
-neuter
+93011	neuter
 93013	masculine
 masculine
-93016	
 93018	masculine
-93020	
-
 93023	masculine
-
-feminine
+93025	feminine
 feminine
 feminine
 93030	feminine
 93033	masculine
 93035	masculine/feminine
-
-
 93039	neuter
-
-
 93043	neuter
-
-feminine
+93045	feminine
 feminine
 neuter
-
-93051	
 93053	neuter
 93058	masculine
 masculine
-
-
-
-feminine
+93063	feminine
 masculine
 93067	neuter
 masculine
-93073	
 93078	neuter
-93080	
-feminine
-
-masculine
-
-93086	
-feminine
-
+93081	feminine
+93083	masculine
+93087	feminine
 93091	masculine
-
-masculine
+93093	masculine
 masculine/feminine/neuter
-93096	
-93099	
-masculine
+93100	masculine
 93103	masculine
-
-
-
-masculine/feminine
-
-
-93111	
+93107	masculine/feminine
 93114	masculine
 feminine
-93117	
 93119	neuter
 masculine
-93122	
-
-masculine
-
-
-
-
-93130	
-93132	
-
-feminine
+93124	masculine
+93134	feminine
 93137	masculine
 93139	masculine
-93141	
-
-masculine
-
-
-feminine
+93143	masculine
+93146	feminine
 93148	masculine
 masculine/neuter
 93152	masculine
-
-
-feminine
+93155	feminine
 93159	masculine
-
-
-feminine
-93165	
-
+93162	feminine
 93168	masculine
 93172	masculine
-93174	
-masculine
-93178	
-93180	
+93175	masculine
 93182	masculine
-
-
-feminine
+93185	feminine
 masculine
 93188	masculine/feminine
 93190	masculine/feminine/neuter
-
-masculine
-masculine/feminine
-
+93193	masculine/feminine
 93198	masculine
 neuter
-
-
-
-masculine/feminine
-
-93207	
-
-93212	
-
-masculine
-
+93203	masculine/feminine
+93214	masculine
 93217	feminine
-
-
 93221	masculine
 masculine
 feminine
-
-
-
-93228	
+93229	masculine
 masculine
-masculine
-93232	
-
 93235	neuter
 masculine
 feminine
 feminine
-
-
-neuter
-
+93241	neuter
 93244	masculine/feminine
-93246	
 93248	masculine/feminine
-93251	
-
 93255	masculine
 masculine
-
 93259	masculine
 masculine
-93263	
-93265	
-93267	
-neuter
+93268	neuter
 feminine
-
-93272	
 93274	feminine
 neuter
 feminine
-
-
-
 93281	feminine
 feminine
 masculine/neuter
-
-
-93288	
-93290	
-feminine
-
-
-masculine
-
-
-masculine
+93285	masculine
+93291	feminine
+93294	masculine
+93297	masculine
 neuter
-
-
-
-93303	
-masculine
-
-
-
-masculine
+93304	masculine
+93308	masculine
 neuter
 feminine
 93312	neuter
-
-
-masculine/neuter
+93315	masculine/neuter
 masculine/neuter
 masculine
-
-masculine/neuter
+93319	masculine/neuter
 masculine
-
-masculine/neuter
+93322	masculine/neuter
 93326	masculine
 masculine
-
 93331	neuter
 masculine/neuter
-
-
-93336	
-
-93339	
-93343	
 93346	feminine
-
 93349	feminine
-
-masculine
+93351	masculine
 neuter
-93355	
-93357	
+93355	masculine
 93360	masculine
-93362	
-masculine
-93366	
-93370	
-93373	
+93363	masculine
 93378	masculine
 masculine
-93381	
-93385	
-93387	
-
 93390	masculine
 feminine
 93393	masculine/feminine
 93395	masculine
 93397	masculine
-93399	
 93401	masculine/feminine
-
 93404	neuter
-
 93407	masculine
-
-
-feminine
+93410	feminine
 masculine
-
-
 93415	masculine
-93417	
-
-93420	masculine/neuter
+93420	feminine
 neuter
-93423	
-93425	
-
-93430	
-
-93433	
-93435	
-93437	
+93438	masculine
+93441	masculine
 masculine
-
-
-masculine
-masculine
-
-93445	
-masculine
-
-93449	
-masculine
-
-93453	
-
+93446	masculine
+93450	masculine
 93456	masculine
-
 93459	neuter
 93462	masculine
-
-
-93466	
 93470	masculine/feminine
-
 93473	masculine/feminine
-
-93476	masculine/neuter
+93476	feminine
 93478	masculine
-
 93481	masculine/feminine
-
-masculine
-93485	
-neuter
+93483	masculine
+93486	feminine
 93488	neuter
-
 93491	masculine
-93493	
-
-
-masculine
-
-masculine/neuter
+93496	masculine
+93498	masculine/neuter
 93502	masculine/neuter
 masculine
-93505	
-93509	
-
-
 93514	masculine
 93516	masculine
-
-93521	
-neuter
-93524	
+93522	neuter
 93527	neuter
-
-93531	
-
-
-
-93536	
-
-
+93534	masculine/feminine
 93540	masculine
-
-
-masculine
-93547	
-masculine
-
-
-
-93555	
-
+93543	masculine
+93548	masculine
 93558	feminine
-93561	
-masculine
+93562	masculine
 masculine
 feminine
-93566	
-93569	
-93572	neuter
+93572	feminine
 93574	masculine
-
-93578	
 93580	masculine
-93582	
-
-93586	
-
-masculine
+93588	masculine
 93593	masculine
 feminine
-
 93600	masculine
-
-93603	
-93605	
 93608	feminine
 feminine
 feminine
-93612	
+93613	masculine
 masculine
-masculine
-93616	
-
-93619	
-neuter
-
-masculine
-93626	
-
-masculine/neuter
+93620	neuter
+93622	masculine
+93628	masculine/neuter
 feminine
-93631	
-feminine
-93634	
+93632	feminine
 93636	masculine
 93638	masculine/feminine
 masculine
 feminine
 93645	masculine/feminine
-
-93648	
-neuter
+93649	neuter
 93653	masculine
 masculine
-93659	
-
-93664	
-neuter
+93665	neuter
 93668	neuter
 93670	feminine
-93674	
 93676	masculine
-93678	
+93679	neuter
 neuter
-neuter
-93682	
-feminine
-93687	
-93689	
-neuter
-93694	
-
+93683	feminine
+93690	neuter
 93697	feminine
-93699	
+93699	masculine
 93701	neuter
 93705	feminine
 feminine
-
 93709	neuter
 neuter
 feminine
-93713	
 93715	masculine
 masculine
 93719	masculine
-
 93722	feminine
-
-
-
-masculine
+93726	masculine
 masculine/feminine
 masculine
 93730	masculine
-93733	
-
-feminine
-93737	
-masculine
-
-
-
-masculine/feminine
-
+93735	feminine
+93738	masculine
+93742	masculine/feminine
 93747	masculine/neuter
-
-93750	
 93753	masculine
-
-
 93757	feminine
-
-93760	
-
 93763	masculine
 feminine
-93766	
 93768	feminine
 masculine
-
-
-feminine
-93774	
-93776	
-masculine
+93772	feminine
+93777	masculine
 93780	neuter
-
-
-feminine
-
-93786	
-masculine
-93789	
-masculine
-93792	
+93783	feminine
+93787	masculine
+93790	masculine
 93794	masculine
 93797	masculine
-93800	
-
-masculine/neuter
-
-
-
-93808	
-
-
-masculine
+93802	masculine/neuter
+93811	masculine
 masculine
 feminine
 feminine
-
-
-masculine/neuter
-
-neuter
+93817	masculine/neuter
+93819	neuter
 93821	feminine
-
-masculine/feminine
+93823	masculine/feminine
 neuter
-93826	
-
 93829	neuter
-93832	
-neuter
+93833	neuter
 masculine/neuter
 masculine/neuter
-93837	
-neuter
+93838	neuter
 masculine/neuter
-
-
 93843	feminine
 93845	feminine
 masculine/neuter
-93848	
-
-
-masculine
-
-93854	
-masculine/neuter
-
-
-masculine
+93851	masculine
+93855	masculine/neuter
+93858	masculine
 masculine
 93862	masculine
 masculine/neuter
-
-
 93867	masculine
 masculine
 93870	neuter
 93872	masculine
-93875	
-masculine
-
-masculine
-93881	
-masculine
-
+93876	masculine
+93878	masculine
+93882	masculine
 93886	neuter
-93888	
-93890	
-
+93892	neuter
+93895	masculine
 masculine
-93894	
-masculine
-masculine
-
-93900	neuter
-93902	
-
-masculine
+93900	feminine
+93904	masculine
 93906	feminine
 feminine
-93912	
-masculine/feminine
-
-feminine
+93913	masculine/feminine
+93915	feminine
 feminine
 masculine
-93919	
-93921	masculine
+93921	neuter
 93923	masculine
-
-
-93928	neuter
-93930	
-masculine
+93928	feminine
+93931	masculine
 93933	masculine/feminine
-
-
 93937	masculine/feminine
 93939	masculine
-
 93944	neuter
-93947	
-
-93950	
-
 93953	neuter
-
-93956	
-
-
-neuter
+93959	neuter
 93961	feminine
 feminine
 masculine
-
-
-
-93968	
-
-93971	
+93972	neuter
+93975	masculine/feminine
+93984	neuter
+93986	masculine
+93988	feminine
 neuter
-93974	
-masculine/feminine
-
-
-
-93980	
-
-
-
-neuter
-
-masculine
-
-feminine
-neuter
-
-masculine/feminine
-93993	
-
-93998	
-feminine
-
-neuter
+93991	masculine/feminine
+93999	feminine
+94001	neuter
 94003	masculine
 masculine
-masculine/neuter
-
-masculine
-
+feminine
+94007	masculine
 94011	masculine/feminine
-
 94014	feminine
 feminine
-
 94018	masculine
 masculine
-
 94022	masculine
 masculine
-
 94026	feminine
-
+94028	masculine
 masculine
-masculine
-
-94034	
+94035	feminine
 feminine
-feminine
-
-
 94040	feminine
-94042	
 94045	feminine
 94047	masculine
 masculine
 94053	masculine
-94057	
+94058	masculine
 masculine
-masculine
-94064	
-masculine
-
-94068	
-
+94065	masculine
 94072	neuter
 feminine
-94077	
-feminine
-94080	
-94082	
-94086	
-94092	
-feminine
-
-94096	
-94101	
+94078	feminine
+94093	feminine
 94103	neuter
-94107	
-
-94113	
-
 94118	feminine
 94120	feminine
 neuter
 masculine
 feminine
 94126	feminine
-94129	
-94133	
-94135	
-94137	
-94141	
-
-94144	neuter
-94147	
-94149	neuter
-94151	
-neuter
-94154	
-feminine
+94144	feminine
+94149	feminine
+94152	feminine
+94155	feminine
 94157	feminine
-94159	
-94162	neuter
-94165	
-94174	
-masculine
+94162	feminine
+94175	masculine
 94178	feminine
-94180	
-
 94185	masculine
-94187	neuter
+94187	feminine
 94190	neuter
 94192	masculine
-
-
-neuter
-
-
-neuter
-
-masculine
+94195	neuter
+94198	neuter
+94200	masculine
 94203	neuter
-
-neuter
-94207	feminine
+94205	neuter
+94207	masculine
 feminine
 feminine
-94211	
-feminine
-
+94212	feminine
 94216	masculine
-
-feminine
+94218	feminine
 neuter
 94223	masculine
-
-feminine
-94228	
-feminine
-
-94235	
+94225	feminine
+94229	feminine
 94237	masculine/feminine
-
 94243	feminine
-
-
+94246	masculine
 feminine
 feminine
-feminine
-
-neuter
+94250	neuter
 94253	masculine
-
-
-
-
-
 94260	masculine/feminine
-
-
 94264	masculine/feminine
-
-neuter
+94266	neuter
 94269	feminine
 feminine
-
-feminine
-
-94275	
-
+94272	feminine
 94280	neuter
-
-
 94285	feminine
-
-
-94289	
 94291	masculine
-
-masculine/feminine
-94295	
-
-feminine
+94293	masculine/feminine
+94297	feminine
 94299	feminine
-
-94303	
 94305	masculine
 masculine
 94311	masculine
 masculine
-
-
-
 94320	feminine
-94323	
-masculine
+94324	masculine
 94326	feminine
-
-
-
-94333	
-
 94336	feminine
-
-neuter
-
-94341	
+94338	neuter
 94343	masculine
 94345	neuter
-
-
-
-feminine
-
-neuter
-
-
-
-94356	
-
-
+94349	feminine
+94351	neuter
+94359	masculine
+masculine
+94365	masculine
 masculine
 masculine
-94363	
-
-masculine
-masculine
-masculine
-
-
-94371	
-94373	
-94376	
-
-94379	
 94381	masculine
-94386	
-feminine
-94389	
-
-94392	
-94397	
-
-94400	
-masculine
-94404	
-feminine
-
-94409	
-
+94387	feminine
+94401	masculine
+94405	feminine
 94412	feminine
-94414	
 94416	masculine
-
-
-94420	
 94424	masculine
-94431	
-
-94435	
-masculine
-
+94436	masculine
 94439	masculine/feminine
-
-94443	
-
-94447	
-
-94450	
-
-masculine
-
-94456	
-94459	
-94461	
-masculine
-94469	
-
-
-94474	
-
+94452	masculine
+94462	masculine
 94478	masculine
 94480	masculine
 94482	masculine
 neuter
 neuter
-
-94487	
+94488	masculine
 masculine
-masculine
-94492	neuter
-94494	
-
+94492	feminine
 94497	masculine/feminine
-94499	
-94501	
-
-
-94507	
-
-94512	
-
-masculine
-
-
-masculine
+94514	masculine
+94517	masculine
 masculine/feminine
-
-94521	
 94524	masculine
-94526	
-94530	
-
-masculine/feminine
+94532	masculine/feminine
 feminine
-
-94537	
-masculine
-
-neuter
+94538	masculine
+94540	neuter
 94542	neuter
 94544	feminine
-
-
-
-
-
 94551	feminine
 feminine
-94554	
-
-feminine
-94558	
-
-
-neuter
-
+94556	feminine
+94561	neuter
 94564	neuter
 94566	neuter
-94568	
-
-94573	
-
-
-94577	
 94579	neuter
 masculine
-
 94586	masculine
 94588	masculine
-94590	
-masculine
-
+94591	masculine
 94594	masculine
 feminine
-94598	
 94604	feminine
 neuter
-
 94608	masculine
 94610	masculine
 94612	feminine
-94614	
-masculine
+94615	masculine
 94619	masculine
 masculine
 neuter
 masculine
-
-masculine/neuter
+94624	feminine
 94628	feminine
 feminine
-
 94634	masculine
-94638	neuter
-
+94638	feminine
 94643	feminine
-
-94648	
 94653	feminine
-
-
-masculine
-94658	
-94662	
-
-94666	
-94670	
+94656	masculine
 94672	feminine
-
 94675	feminine
-
 94678	neuter
 feminine
-
 94682	feminine
 feminine
 masculine
 94686	feminine
-
-94689	
 94694	masculine
 feminine
-94703	
 94706	neuter
 feminine
-
-masculine
+94709	masculine
 94711	neuter
 neuter
-
 94715	feminine
 masculine
-
 94722	masculine
 masculine
-94726	
-94731	
-
-94735	
-
-
-94739	
+94740	masculine
+94742	masculine/feminine
+94757	feminine
 masculine
-
-masculine/feminine
-94745	
-94752	
-94754	
-94756	
-feminine
-masculine
-
-masculine
-94762	
-
-
-94766	
-
-
-
-94771	
-
-94774	
-94776	
-
+94760	masculine
 94780	masculine
-
-94784	
-
-
-94788	
-
-
-
-94793	
-
-94796	
-94798	
-
-94801	
-masculine
-94806	
-feminine
-94809	
-masculine
-94812	
-feminine
+94802	masculine
+94807	feminine
+94810	masculine
+94813	feminine
 feminine
 94817	masculine
-94819	
+94820	neuter
 neuter
-neuter
-
-masculine
+94823	masculine
 feminine
-
-
-94830	
-94832	
-neuter
+94833	neuter
 masculine
-
-94837	
 94842	feminine
 94844	neuter
-
-94848	
-masculine
+94849	masculine
 94851	masculine
-94854	
+94855	feminine
 feminine
-feminine
-
-
-
-
 94862	feminine
 94865	masculine
 feminine
 feminine
-
-
-
-94872	
+94872	masculine
 neuter
 masculine
 neuter
-
 94878	feminine
 94880	neuter
 94883	neuter
-
-feminine
-94887	
-94890	
-masculine/feminine
-
+94885	feminine
+94891	masculine/feminine
 94894	neuter
 masculine/feminine
 feminine
 94898	masculine/feminine
-
-neuter
+94900	neuter
 94902	masculine/feminine
 feminine
-
-feminine
-
-
-masculine
-94913	
+94905	feminine
+94908	masculine
 94915	masculine/feminine
 masculine
-
-
-masculine
+94919	masculine
 94921	feminine
-
-
-94925	
-94928	
-feminine
-
+94929	feminine
+94931	neuter
+neuter
+94939	masculine
 neuter
 neuter
-94934	
-
-
-94938	
-masculine
+94946	masculine
 neuter
 neuter
-
-94945	
-masculine
-neuter
-neuter
-94951	
 94953	masculine
 94955	neuter
-
 94958	masculine
-94961	
-masculine
-94964	
-
-feminine
+94962	masculine
+94966	feminine
 neuter
 94969	neuter
 masculine
@@ -55823,686 +28702,313 @@ masculine
 95001	feminine
 masculine/neuter
 masculine
-95005	
-
 95008	neuter
 95010	neuter
 masculine/feminine
 masculine
-95015	
-masculine
-
+95016	masculine
 95019	masculine
 95021	feminine
 feminine
 feminine
-
 95026	feminine
 masculine
-
 95030	masculine
-
 95033	masculine
 masculine
-
 95037	masculine
 95039	masculine
-
-feminine
+95041	feminine
 95044	neuter
-
-masculine
-95048	
-95050	
+95046	masculine
+95048	feminine
 95052	masculine
-
-
+95054	feminine
 95058	neuter
-95060	
 95062	masculine
-
-95065	
 95067	masculine
-
-masculine
+95069	masculine
 neuter
 masculine
 masculine
 95074	masculine
-
 95078	masculine
-
-95081	
 95083	masculine
-
-95087	
-
-
 95091	feminine
-
-
-
-feminine
-
-
-95099	
-95101	
-
-
-
-neuter
-95107	
-
-
+95095	feminine
+95105	neuter
 95112	masculine
-
-
-
-
-feminine
-
-95120	
-feminine
+95117	feminine
+95121	feminine
 masculine
-
-masculine
-
-masculine
-
-masculine
-
-
-
-95133	
-
+95124	masculine
+95126	masculine
+95128	masculine
 95136	feminine
-
-
-feminine
-95141	
-feminine
-
-
-95147	
-95149	
-95151	
-95154	
+95139	feminine
+95142	feminine
 95156	masculine
-95158	
-95160	
-
-95164	
-
-95167	
-
-95171	
-95173	
-95176	
-neuter
-
-95180	
+95177	neuter
 95184	neuter
-
-95187	
-95193	
-
-95196	
-95198	
-95201	
-95204	
-feminine
-95207	
-neuter
+95205	feminine
+95208	neuter
 feminine
 feminine
 95214	feminine
-
-
-95218	
-
 95221	neuter
 feminine
-
-95225	
-
 masculine
+95227	masculine
 95229	masculine
 feminine
-
-95233	
-
-neuter
-95238	
-95241	
-
-masculine
+95235	neuter
+95243	masculine
 95245	masculine
-95247	
-
-95250	
 95252	feminine
 masculine
 masculine
 feminine
-95257	
-masculine
+95258	masculine
 95260	masculine
 feminine
-
-
 95266	feminine
 95268	feminine
-
-95271	
-
+masculine
 95275	masculine
 masculine
-
-masculine
+95278	masculine
 masculine
 feminine
-95282	
-masculine
-
-
+95283	masculine
+95286	feminine
 feminine
-feminine
-
-
 95293	masculine
-
 95296	feminine
 feminine
 masculine
 neuter
 feminine
-
+95302	masculine
 masculine
-masculine
-
-
-
-
-feminine
-
-
-feminine
-
-
-feminine
-
-95317	
-neuter
-95320	
-masculine
-
-95324	
-feminine
+95308	feminine
+95311	feminine
+95314	feminine
+95318	neuter
+95321	masculine
+95325	feminine
 masculine
 95330	masculine
-
-
 95335	masculine
-
 95338	masculine
 95341	masculine
 neuter
-95344	
-
-masculine/feminine
-
-
-95353	neuter
+95346	masculine/feminine
+95353	feminine
 95355	feminine
 masculine
 masculine
 neuter
-95360	
-
 95364	masculine
-
-95367	
 95370	feminine
-
-masculine
+95372	masculine
 neuter
 feminine
-
-
 95380	masculine/feminine
 masculine
 95383	masculine
-95388	
-
-
-
 95394	masculine
 masculine
-
-masculine
-95402	
-masculine
-
-
-95408	
+95397	masculine
+95403	masculine
 95410	feminine
-
-
-
 95415	masculine
 masculine
 feminine
-95419	
-
-masculine
+95421	masculine
 95424	feminine
 95427	masculine
-
-masculine
+95429	masculine
 95431	masculine
 masculine
 95435	neuter
-95438	
-
-95441	
-95444	
-masculine
-
-
-95449	
-95452	
-masculine
-
-masculine
+95445	masculine
+95453	masculine
+95455	masculine
 95458	masculine
 masculine
-95462	
-95464	
-
 95467	feminine
-
-
-
-feminine
+95471	feminine
 95473	neuter
-
-
 95480	masculine
-
 95483	masculine
-95485	
-95487	
-
-neuter
+95489	neuter
 95491	feminine
-
-feminine
-
-
-
-feminine
-
-95500	
-
 masculine
-masculine
-
-
-95507	
-
-
-95511	
-
 feminine
+95497	feminine
+95502	masculine
+masculine
+95513	feminine
 95515	masculine
 neuter
-
-95520	
-
-feminine
-
-95527	
-
-
-
-masculine
-95533	
-
-95537	
+95522	feminine
+95531	masculine
 95539	feminine
-
-
 95543	neuter
 95548	masculine
-
-masculine
+95550	masculine
 95552	feminine
 feminine
-
-95556	
-
-95559	
-
-95562	
-feminine
+95563	feminine
 95565	feminine
-
-95568	
-
-95571	
-masculine
-95574	
+95572	masculine
+95575	feminine
 feminine
 feminine
-feminine
-
-95583	
-feminine
-
+95584	feminine
 95587	masculine
-
-
-
-masculine/neuter
-
-
-masculine
-95597	
-
+95591	masculine/neuter
+95594	masculine
 95600	masculine/feminine
-95602	
-95605	
-95607	
-
 95610	neuter
 feminine
 95613	feminine
 neuter
 neuter
 95619	neuter
-
-95622	
-
-neuter
+95624	neuter
 masculine
-
 95628	masculine
-95630	
-
 95633	neuter
-95641	
-95643	
-95645	
-feminine
-
-feminine
-
-masculine
-95652	
-95654	
-feminine
+95646	feminine
+95648	feminine
+95650	masculine
+95655	feminine
 masculine/feminine
-
-
-95660	
 95662	masculine
-
 95665	feminine
 95668	masculine
-
-masculine
+95670	masculine
 95672	masculine
-95676	
-feminine
+95677	feminine
 neuter
-95682	
-neuter
+95683	neuter
 masculine
-95687	
-
 95691	masculine
-
 95694	masculine
-95696	
 95699	masculine
 masculine
-95702	
 95705	neuter
-95707	
-
-95713	
 95716	masculine
-
-
-
 95722	feminine
 masculine
-95725	
-
-
-
-
-95731	
+95729	feminine
+95732	feminine
 feminine
 feminine
-feminine
-95736	
-95738	
-95740	
-95745	
-
 95749	masculine
 masculine
-
-
 95754	neuter
 95756	masculine/neuter
-
 95760	masculine/feminine
 masculine
-
-neuter
-95768	
-feminine
-
+95763	neuter
+95769	feminine
 95772	feminine
 masculine
-95775	
-neuter
-
-
-
-feminine
-
-
-
-masculine/feminine
-
-
-95788	
+95776	neuter
+95780	feminine
+95784	masculine/feminine
 95791	neuter
-
-
-
-masculine
+95795	masculine
 95797	masculine
-
 95800	masculine/feminine
-
 95805	masculine
-
-95808	
 95812	masculine
-
-feminine
+95814	feminine
 masculine
-95819	
-95822	
-95824	
 95827	neuter
 masculine
-95830	
-masculine
-95834	
+95831	masculine
 95839	masculine/feminine
-95841	
-
-
-95845	
-
-
-95849	
+95850	masculine
+95857	masculine/neuter
 masculine
-
-95855	
-
-masculine/neuter
-masculine
-95860	
-
-masculine
-95864	
-masculine/neuter
+95862	masculine
+95865	masculine/neuter
 neuter
 feminine
-
+95869	feminine
 feminine
+95878	feminine
+95880	masculine
+95882	feminine
 feminine
-95872	
-95875	
-95877	
-feminine
-
-masculine
-
-feminine
-feminine
-95885	
 95890	feminine
-95893	
-95897	
-feminine
+95898	feminine
 masculine
 masculine/feminine
-
-
-95904	
-95913	masculine/neuter
+95902	masculine
+95913	feminine
 neuter
-95918	
 95921	masculine
-
-95924	
-masculine
+95925	masculine
 95927	feminine
 feminine
-95930	
-
-95933	
 95938	feminine
-
-neuter
+95940	neuter
 95943	neuter
-
-masculine
-
+95945	masculine
 95948	feminine
 95950	neuter
 feminine
-
-masculine
-
-95957	
+95953	masculine
+95958	neuter
 neuter
-neuter
-95962	
-
-95965	
-feminine
-95968	
-neuter
+95966	feminine
+95969	neuter
 masculine/feminine
 masculine
-
-95974	
-
-95978	
-95982	
 95984	masculine
-95986	
-
+95988	masculine
+95991	masculine/neuter
+95996	feminine
 masculine
-95990	
-masculine/neuter
-
-
-
-
-feminine
-masculine
-
-96000	
 96002	feminine
 masculine
-
-96006	feminine
+96006	masculine
 masculine
-96009	
 96011	masculine
-
 96014	masculine
 neuter
 96018	feminine
 96021	feminine
 feminine
 feminine
-
-96028	
-neuter
-
-96032	
-
-neuter
-
-
+96029	neuter
+96034	neuter
 96038	masculine
 neuter
-
-
 96043	neuter
 masculine
-
-96047	
 96049	masculine
-
-96052	feminine
+96052	masculine
 masculine
-96055	
 96057	masculine
-
 96060	feminine
 feminine
 feminine
 feminine
-96065	
-
 96069	feminine
 neuter
 96072	masculine
-96074	
-masculine/neuter
-96077	
-
-
-feminine
-
-
-masculine/neuter
+96075	masculine/neuter
+96080	feminine
+96083	masculine/neuter
 96086	neuter
 96089	feminine
 96093	masculine
-96095	
-masculine
+96096	masculine
 masculine
 feminine
 feminine
@@ -56510,182 +29016,99 @@ feminine
 96107	feminine
 feminine
 masculine
-96112	
-
 96116	masculine/neuter
-96119	
-
-masculine/neuter
-96123	
-96126	
-
-masculine/feminine/neuter
+96121	masculine/neuter
+96128	masculine/feminine/neuter
 96130	masculine
 masculine
 96133	masculine
-
-masculine
-
-
-feminine
+96135	masculine
+96138	feminine
 neuter
-96144	
 96146	feminine
-
-neuter
+96148	neuter
 96150	feminine
-96152	
-
-
-96156	
+96153	feminine
+96156	feminine
 feminine
-96160	
 96165	masculine/feminine
-
-96170	
 96173	neuter
-96176	
-masculine
+96177	masculine
 96179	masculine
-96181	
-
 96185	neuter
-96188	
-
-masculine
+96190	masculine
 96192	neuter
-
-96195	
-masculine/neuter
+96196	masculine/neuter
 neuter
 neuter
 masculine
-96202	
-neuter
+96203	neuter
 neuter
 masculine
-
 96209	masculine
 masculine
-
-
-masculine/neuter
+96213	masculine/neuter
 neuter
 neuter
 masculine
-
 96219	masculine
 96221	masculine
-
-masculine/neuter
-
-neuter
-
+96223	feminine
+96225	neuter
+96227	masculine
+96230	feminine
 masculine
-96229	
-feminine
+96233	masculine
 masculine
-
-
-masculine
-
 96237	neuter
-96240	
+96241	neuter
 neuter
-neuter
-96245	
-
+96246	feminine
 feminine
 96249	masculine/feminine
-
-
 96253	feminine
-
-96257	
-
-masculine/neuter
+96259	masculine/neuter
 masculine
-
-masculine
+96262	masculine
 feminine
-
-
-96268	
-masculine
+96269	masculine
 neuter
 96273	masculine
-
-masculine
-
-96280	
-96283	
-masculine
-
-
-neuter
+96275	masculine
+96284	masculine
+96287	neuter
 feminine
 feminine
 feminine
-
-
 96294	masculine
-
-feminine
+96296	feminine
 96298	neuter
-
-masculine/neuter
-96302	
-
-
-
-
-masculine/feminine
-
+96300	masculine/neuter
+96307	masculine/feminine
 96310	masculine
 masculine
 masculine/neuter
 96316	masculine
 96318	masculine
-
-
-
+96322	masculine
 masculine
-masculine
-
 96326	masculine
-
-
 96332	masculine
-
-
-neuter
+96335	neuter
 masculine
-
-masculine
-
-
-
-feminine
+96338	masculine
+96342	feminine
 feminine
 masculine
-96347	
-neuter
+96348	neuter
 96354	feminine
 96356	masculine
-96358	
-feminine
+96359	feminine
 96361	feminine
-96364	
-
 96367	feminine
-
-96372	
 96375	masculine/feminine/neuter
-
 96378	feminine
-96381	
-96385	
-feminine
+96386	feminine
 96388	feminine
 feminine
 neuter
@@ -56694,375 +29117,201 @@ feminine
 96394	feminine
 feminine
 masculine
-
-feminine
-
-96401	
-feminine
-
-96405	
-feminine
-
-96411	
-
-feminine
+96398	feminine
+96402	feminine
+96406	feminine
+96413	feminine
 96416	feminine
 feminine
 feminine
 masculine
-
-
-feminine
-
-
-feminine
-
-
-feminine
-
-
-feminine
-
-
-feminine
-
-
-feminine
-
+96422	feminine
+96425	feminine
+96428	feminine
+96431	feminine
+96434	feminine
+96437	feminine
 96440	masculine
-
 96443	masculine
-
 96447	masculine
 96450	masculine
 96455	masculine
 masculine
-96459	
-neuter
+96460	neuter
 feminine
 masculine
-96465	
 96467	masculine
-96469	
-neuter
+96470	neuter
 96472	masculine
-
 96475	masculine
 96478	masculine
 masculine
 masculine
-96482	
-feminine
+96483	feminine
 96485	masculine
-96488	
-
 96491	masculine
 96495	masculine
 96499	masculine
 96503	masculine
-
-96510	
-96516	
 96520	feminine
-96522	
 96525	feminine
 feminine
 neuter
-
-
+96530	masculine
 masculine
-feminine
 feminine
 feminine
 96535	feminine
-
-
-96539	
-
-96542	
-96547	
-96549	
-
-96552	
-
-
-96556	
 96559	masculine
 masculine
-96566	
 96569	masculine
 96572	feminine
 96575	neuter
 96578	feminine
 96582	masculine
-96584	
-feminine
+96585	feminine
 96588	neuter
-96590	
-feminine
-
+96591	feminine
 96594	masculine
 96596	masculine
-96598	
-masculine
-96601	
-96603	
-
-96608	
-
-96616	
-
-feminine
+96599	masculine
+96618	feminine
 feminine
 feminine
 96622	feminine
 96624	feminine
 masculine
 masculine
-
 96629	neuter
-96631	
-
-masculine/feminine
-96636	neuter
-
-masculine
+96633	masculine/feminine
+96636	feminine
+96638	masculine
 feminine
 masculine
 masculine
 96644	masculine
 96646	masculine/feminine
-
 96649	masculine
-
-
-96653	
-masculine
-96657	
-masculine
+96654	masculine
+96658	masculine
 96660	feminine
-
-96664	
-masculine
-
+96665	masculine
 96669	feminine
-96671	
-96675	
-96677	
 96679	feminine
-96683	
-
 96688	feminine
 96690	neuter
 96693	masculine
 neuter
 masculine
-
-
-masculine
-96700	
-
-feminine
+96698	masculine
+96702	feminine
 96708	masculine
-
-96713	
-
-96716	
-feminine
-
+96717	feminine
 96720	masculine
 96722	masculine
-96724	
-masculine
+96725	masculine
 96727	masculine/feminine
 masculine
 96733	feminine
 96735	masculine/feminine
-
-masculine/feminine
+96737	masculine/feminine
 96741	feminine
 96743	masculine
-
-
-96747	
-
-96751	
-
+96752	masculine/feminine
 masculine
-96755	
-
 96758	feminine
-96760	
-
-
-
 96766	neuter
-
 96769	feminine
 masculine
 masculine
 masculine
-
-
-96776	
+96777	masculine
 masculine
-
 96780	feminine
 feminine
-96784	
-feminine
+96785	feminine
 96787	masculine/feminine
 96789	masculine
 96791	masculine
-96793	
-96795	
-
-
+96797	masculine/feminine
 feminine
 96800	feminine
 96803	neuter
 masculine
-96806	
-masculine
+96807	masculine
 masculine
 masculine/feminine
-96812	
-
-96816	
-
-
-
-96825	
+96826	feminine
 feminine
-feminine
-
 96830	feminine
-
 96833	feminine
-96836	
-
 96839	feminine
-
+96841	feminine
 feminine
+96847	feminine
+96859	feminine
+96862	masculine
 feminine
-96845	
-
-feminine
-
-96850	
-96854	
-
-
-
-
-feminine
-
-
-masculine
-feminine
-
-
-96867	
 96869	feminine
-96871	
 96873	feminine
 feminine
-
 96877	masculine
 96879	feminine
-96881	
-feminine
-96884	
-neuter
-96887	
-96890	
+96882	feminine
+96885	neuter
 96892	neuter
-96895	
-masculine/neuter
-96898	
-
-96901	
-
+96896	masculine/neuter
+96903	feminine
 feminine
-feminine
-96909	
 96911	neuter
-96915	
 96918	neuter
 96922	feminine
-
 96928	feminine
 feminine
 feminine
 96932	feminine
 96934	feminine
-
-masculine
+96936	masculine
 feminine
 masculine
 96941	masculine/feminine
-
 96945	neuter
 feminine
 96948	feminine
 masculine
-96952	
-96954	
-96956	
-masculine
-96959	
-
-feminine
-96963	
-masculine/feminine
-
-
+96957	masculine
+96961	feminine
+96964	masculine/feminine
 96968	masculine
-
 96971	feminine
 96973	feminine
-96975	
-masculine
+96976	masculine
 masculine
 96979	feminine
 feminine
-
-masculine
-
+96982	masculine
 96985	feminine
-
-masculine/neuter
+96987	masculine/neuter
 masculine
 96991	masculine
 masculine
-neuter
+feminine
 96995	neuter
 96998	masculine
-97000	
-feminine
-
-neuter
-
-97006	
+97001	feminine
+97003	neuter
 97008	masculine/feminine
-97010	
-masculine/neuter
+97011	feminine
 97013	neuter
-
-feminine
-
-feminine
-97019	
-97021	
-
-neuter
+97015	feminine
+97017	feminine
+97023	neuter
 97025	feminine
 97027	masculine
 masculine
 masculine
 97031	masculine
-97035	
-masculine
+97036	masculine
 feminine
 masculine
 masculine
@@ -57073,808 +29322,396 @@ masculine/feminine
 97048	masculine
 masculine
 masculine/feminine
-
-
-
+97052	feminine
+97054	feminine
 feminine
-feminine
-
 97059	masculine/feminine
-
-97062	
-
+97063	feminine
 feminine
-neuter
+feminine
 97068	masculine
-
-97071	
-
-neuter
-
-97076	
-neuter
-97079	
-masculine
-
-masculine/feminine
-97084	neuter
-
-masculine
-
+97073	neuter
+97077	neuter
+97080	masculine
+97082	masculine/feminine
+97084	feminine
+97086	masculine
 97089	feminine
 feminine
 feminine
-
-97094	
-
 97097	feminine
 97100	feminine
-
-
-
 97105	feminine
 97108	feminine
-
-
-feminine
+97111	feminine
 feminine
 97114	feminine
-97117	
 97119	feminine
 97121	feminine
 feminine
-
-feminine
-97126	
-
-
-
-feminine
-97136	
-97138	
-feminine
-97142	
+97124	feminine
+97130	feminine
+97139	feminine
 97145	feminine
-97148	
-
-feminine
-
-97153	
-
-97158	
-masculine/feminine
-97161	
-
-
-97165	
-neuter
-97169	
-
-
-
-masculine
+97150	feminine
+97159	masculine/feminine
+97166	neuter
+97173	masculine
 97177	neuter
-97179	
-
-neuter
-
-
+97181	neuter
 97185	masculine
-97187	
-neuter
-
-
-masculine/feminine
-97193	
-
-neuter
-97197	
-97200	
-masculine/neuter
+97188	neuter
+97191	masculine/feminine
+97195	neuter
+97201	masculine/neuter
 97203	feminine
-
-feminine
-
-feminine
-
-
-feminine
+97205	feminine
+97207	feminine
+97210	feminine
 neuter
-97213	
-masculine/feminine
-97216	neuter
+97214	masculine/feminine
+97216	feminine
 feminine
-97219	
-feminine
-
+97220	feminine
 97223	feminine
 feminine
 97228	neuter
 97231	feminine
-
-
-feminine
-97237	
-neuter
-
-
-feminine
-97244	
+97234	feminine
+97238	neuter
+97241	feminine
 97246	neuter
-
-
-
-97251	
+97251	masculine
 97254	feminine
-
-97257	
-
-
-97261	
-neuter
-
-
-97266	
-
-97269	
-
-97272	
+97262	neuter
+97270	masculine
 97276	masculine/feminine
-
-97279	
 97281	feminine
 97286	feminine
-
-
-feminine
-
-masculine
+97289	feminine
+97291	masculine
 feminine
 masculine
 masculine
-
-
-feminine
+97297	feminine
 97299	neuter
 97301	feminine
-97303	
-masculine/feminine
-
-
+97304	masculine/feminine
 97309	feminine
-97311	
-masculine/feminine
-97315	
-feminine
+97312	masculine/feminine
+97316	feminine
 97319	feminine
 97322	feminine
-97324	
 97326	masculine/feminine
-97330	
-neuter
-
-feminine
-97335	
-neuter
-97338	
-
-97341	
+97331	neuter
+97333	feminine
+97336	neuter
 97344	masculine
-97346	
-
 97352	masculine
 97354	masculine
-97356	
-masculine
+97357	masculine
 97359	feminine
 masculine
 97362	feminine
-
-97365	
 97368	masculine
-
-neuter
+97370	neuter
 97372	masculine
 masculine
 masculine
 masculine
-
-
 97379	feminine
 97382	masculine/neuter
 97384	masculine
-97387	
-97389	
-97392	
-
-
-neuter
-
-feminine
+97395	neuter
+97397	feminine
 97399	feminine
 neuter
-
-neuter
-97404	
+97402	neuter
 97408	neuter
 97410	feminine
-
-neuter
+97412	neuter
 97414	feminine
 97416	feminine
 masculine
 97419	masculine
 masculine/feminine
 masculine/feminine
-
-
-masculine
-97426	
-masculine/feminine
+97424	masculine
+97427	masculine/feminine
 97429	masculine
 97432	masculine/feminine
 97434	masculine
-97437	
-97439	
-97441	
-feminine
-
+97442	feminine
 97447	neuter
-
-
-97451	
-neuter
-
+97452	neuter
 97455	feminine
-97457	
-
-97460	
-
-
-feminine
-97466	
-
+97463	feminine
 97470	feminine
 feminine
-
 97474	feminine
-97476	
 97481	masculine
-97483	
-
 97486	feminine
-97488	
-97490	
-
-feminine
+97492	feminine
 97494	masculine/feminine
 masculine
-97498	
+97499	masculine
 masculine
-masculine
-97502	
-masculine/neuter
-97508	
-masculine
-97511	
-
+97503	masculine/neuter
+97509	masculine
 97514	feminine
-
-97519	
 97521	feminine
-
-feminine
-
-feminine
+97523	feminine
+97525	feminine
 97527	feminine
-97529	
 97534	masculine
 feminine
-97537	
-neuter
+97538	feminine
 feminine
 neuter
-
-
-
-
-97546	
-
-
-97550	
-
-
-feminine
-
+97551	masculine
+97553	feminine
 97556	masculine/feminine
-
-
-masculine
-
-
-
-97564	
-masculine
-
+97559	masculine
+97565	masculine
 97568	feminine
 masculine
-
-neuter
+97571	neuter
 feminine
 feminine
 97575	feminine
-
+97577	feminine
+97581	masculine
 feminine
-
-97580	
-
-feminine
-
-97585	
-masculine
-
-
-feminine
-
-
-masculine
-97595	
-feminine
-
-
-97600	
-
-97606	
-
+97586	masculine
+97589	feminine
+97592	masculine
+97596	feminine
 97610	feminine
-
-
-masculine
+97613	masculine
 masculine/feminine
-
 97618	neuter
-
-masculine
-97623	
-masculine
-
-
-neuter
-
+97620	masculine
+97624	masculine
+97627	neuter
 97630	feminine
-
-
-masculine
-
-masculine
-97637	
-
-masculine
-
+97633	masculine
+97635	masculine
+97639	masculine
 97642	neuter
 neuter
-97645	
-97648	
-97651	
 97653	neuter
-
-masculine
+97655	masculine
 97657	feminine
-97660	
-masculine
-
-
-
-
+97661	masculine
 97667	masculine
-
-masculine
+97669	masculine
 97672	masculine
 97675	masculine
-
-masculine
+97677	masculine
 neuter
-
-
-masculine/feminine
-
+97681	masculine/feminine
 97684	neuter
-97686	
-97688	
-masculine/feminine
-
-
-masculine/neuter
+97689	masculine/feminine
+97692	masculine/neuter
 97698	neuter
-
 97701	feminine
-
-97704	
-
-masculine
+97706	masculine
 feminine
-97709	
-neuter
-
-97715	
+97710	neuter
 97717	masculine/neuter
-97721	
-
-
-97728	
-feminine
-
-feminine
+97729	feminine
+97731	feminine
 97734	feminine
 masculine/feminine
-97737	
-97740	
-masculine
-97746	
-neuter
-97749	
-
-97753	
-
-neuter
+97741	masculine
+97747	neuter
+97755	neuter
 97757	neuter
-
-masculine/neuter
-
-
-97765	
-masculine
-
-
-
-masculine/neuter
+97759	masculine/neuter
+97766	masculine
+97770	masculine/neuter
 97773	feminine
-
-
+97776	feminine
 feminine
 feminine
 feminine
-feminine
-97781	
-97783	
-97785	
-feminine
-97790	
+97786	feminine
 97792	feminine
-97794	
-
-feminine
+97796	feminine
 masculine
 feminine
 97800	feminine
-97802	
-97804	
 97806	neuter
-97808	
-
-97813	
-97815	
-97817	
-97820	
-neuter
-
-masculine
+97821	feminine
+97823	masculine
 97826	neuter
-
-
 97830	neuter
-
 97834	neuter
-
-
-neuter
+97837	neuter
 97839	feminine
 97841	feminine
-
-
-neuter
-97847	
-masculine/feminine
-97850	
-97852	
-97854	
+97844	neuter
+97848	masculine/feminine
 97858	feminine
-
-97863	
-
 97866	feminine
 feminine
-
-
-
-97873	
-97875	
-feminine
+97876	feminine
 97878	masculine
-97880	
-97882	
-97884	
 97887	masculine
-neuter
+feminine
 97890	feminine
-
-
-neuter
+97893	neuter
 97895	feminine
-
-
-
+97898	masculine
 feminine
 feminine
-
-97904	
-feminine
-
+97905	feminine
 97908	feminine
 feminine
 97912	feminine
-97914	
-
-feminine
+97914	masculine
+97916	feminine
 feminine
 97920	feminine
-97923	
 97926	masculine
-
-neuter
-
-neuter
+97928	neuter
+97930	neuter
 97934	feminine
-
 97938	neuter
-neuter
 feminine
-97942	
+feminine
+97942	masculine
 97944	masculine
-
-feminine
+97946	feminine
 97952	feminine
-
-97955	
 97957	masculine
-
-97960	
 97963	neuter
 97966	masculine
-
-97969	
-97971	
-97974	
-masculine/neuter
-
+97975	masculine/neuter
 97978	neuter
 97980	neuter
 97985	feminine
-97989	
-
-feminine
+97991	feminine
 97993	feminine
-97995	
+97996	masculine
 masculine
-masculine
-
-
-masculine/neuter
-
-98003	
-98005	
-
+98000	masculine/neuter
+98003	masculine
 98008	masculine
-98010	
 98012	feminine
 neuter
-
-
 98017	masculine
-
 98020	masculine
-
 98024	masculine
 98026	masculine
-98030	
+98030	masculine/feminine
 98034	masculine
 feminine
-98040	
 98042	feminine
 masculine
 masculine
-98048	
-
-feminine
-
-feminine
-98054	
-masculine
+98050	feminine
+98052	feminine
+98055	masculine
 98057	feminine
 98061	feminine
-98064	
-
-
-
-
-neuter
+98069	neuter
 feminine
-98072	
+98073	masculine
 masculine
-masculine
-
-feminine
-98081	
-neuter
-
-
-feminine
+98076	feminine
+98082	neuter
+98085	feminine
 98087	feminine
-98091	
-
-feminine
-
-
-neuter
-
+98091	feminine
+98093	feminine
+masculine/feminine
+98096	neuter
 98101	masculine
 98103	neuter
 feminine
-
 98107	masculine/neuter
 98109	masculine
-
 98112	masculine
-98114	
 98118	neuter
 98120	feminine
 masculine
-
 98124	masculine
-
-98128	
 98131	feminine
-
-masculine
+98133	masculine
 98136	feminine
-
-neuter
-
-98142	
-
-masculine
+98138	neuter
+98144	masculine
 98146	masculine
 98149	masculine
 feminine
-neuter
-98153	
-masculine
+feminine
+98154	masculine
 98156	masculine
 masculine
-
-masculine
+98159	masculine
 neuter
-
-98164	
-98166	
-feminine
+98167	feminine
 98173	feminine
-
-neuter
-
-
-masculine
-
-98184	
-98187	
-feminine
-
-98193	
-neuter
+98175	neuter
+98178	masculine
+98188	feminine
+98194	neuter
 98196	masculine
-
-feminine
-
-98203	
+98198	feminine
 98205	masculine
-98207	
-masculine
-98211	
-98215	
-masculine
+98208	masculine
+98216	masculine
 98219	masculine
-
-masculine
-
-
-98226	
+98221	masculine
 98228	feminine
 feminine
-
-masculine
-
-
+98231	masculine
 98235	feminine
 98240	masculine
-98242	
-98244	
-neuter
-98247	
+98245	feminine
 98249	feminine
 feminine
-
-masculine
-98254	
-
+98252	masculine
 98257	feminine
 feminine
 98260	masculine
-98262	
-masculine/feminine
-
-feminine
+98263	masculine/feminine
+98265	feminine
 98267	feminine
-
-
-98277	
 98279	masculine
-98285	
-98288	
-98290	
-masculine
-
+98291	masculine
 98294	masculine
 98297	masculine/feminine
 masculine/feminine
 masculine
-
-98302	
-masculine/feminine
-
-neuter
+98303	masculine/feminine
+98305	neuter
 98307	masculine
 98309	feminine
-
-feminine
+98311	feminine
 98313	feminine
-neuter
 feminine
-
+feminine
 98318	feminine
-
-
 98322	feminine
-
-neuter
-98326	
-
-98329	
+98324	neuter
 98331	masculine
-
-feminine
-98335	
+98333	feminine
 98337	masculine
-
-feminine
-
-feminine
+98339	feminine
+98341	feminine
 98343	feminine
 98347	masculine
-98351	
-
-
-neuter
+98354	neuter
 masculine
 feminine
-
-masculine/feminine
+98358	masculine/feminine
 masculine
-
-feminine
+98361	feminine
 neuter
 feminine
-
-neuter
+98365	neuter
 masculine
 feminine
 neuter
@@ -57883,788 +29720,352 @@ neuter
 98374	masculine
 feminine
 neuter
-
-98379	
-masculine
+98380	masculine
 feminine
 98383	feminine
 feminine
-
-
-
-
-
-neuter
-
-feminine
+98390	neuter
+98392	feminine
 neuter
 masculine
-
-98397	
-98400	
-neuter
-
+98401	neuter
 98404	neuter
 feminine
-98407	
-
 98410	masculine
-
-98415	
-
 98420	masculine
-98422	
-
-neuter
-
-98429	
-
-98434	
-
+98424	neuter
 98437	neuter
-
 98440	feminine
 masculine
 98443	masculine
 masculine/feminine
-
 98449	masculine
 masculine
 masculine/feminine
-98454	
-98461	
+98462	masculine
+98469	masculine
+feminine
+98475	feminine
 masculine
-
-
-98466	
-
-
-masculine
-neuter
-98473	
-
-neuter
-masculine
-
-98480	
-
-
-
-
-98487	
+98481	masculine
 98490	masculine
-98493	
-
-masculine
-
-masculine
-
-neuter
+98495	masculine
+98497	masculine
+98499	neuter
 98504	masculine/feminine
-98506	
-neuter
-
-98510	
-masculine
-
-
+98507	neuter
+98511	masculine
 98515	neuter
-neuter
-
+feminine
 98520	neuter
-
-
-masculine
-
-neuter
-98530	
-masculine
+98523	masculine
+98525	neuter
+98531	masculine
 feminine
-
-neuter
-98536	
-
-98540	
+98534	neuter
 98543	feminine
-98545	
-98548	
-
-
-
-98553	
-98555	
-feminine
-
-
-98561	
-
+98556	feminine
 98565	masculine
-
-feminine
-
+98567	feminine
 98571	neuter
-
-
-
-feminine
-98577	
-
-masculine
-
-masculine/feminine
-98584	
-masculine
-
+98575	feminine
+98579	masculine
+98581	masculine/feminine
+98585	masculine
 98589	neuter
 masculine
-98592	
-98594	
-98597	
-masculine
+98598	masculine
 98601	neuter
-
-
-
-
-neuter
-98612	
-
+98606	neuter
 98615	neuter
-
-
-
-
-98622	
-
-masculine
-
-98628	
-98630	
-masculine/feminine
-
-masculine/neuter
-
-feminine
+98624	masculine
+98631	masculine/feminine
+98633	masculine/neuter
+98635	feminine
 neuter
 feminine
-
-
-
-feminine
+98641	feminine
 neuter
 98644	masculine
-
-
-neuter
-
-masculine/neuter
+98647	neuter
+98649	masculine/neuter
 masculine/feminine
 neuter
-neuter
+feminine
 masculine
 98655	masculine/neuter
 masculine/feminine
 98658	feminine
-98660	
-
-
-98664	
-
-masculine/neuter
+98666	masculine/neuter
 98668	masculine
 neuter
 masculine
 98672	neuter
 neuter
 98675	neuter
-98678	
-masculine/feminine
-98683	
-
-masculine
-98687	
-
-
-neuter
+98679	masculine/feminine
+98685	masculine
+98690	neuter
 masculine/neuter
 98693	feminine
-
-
-masculine
-
-
-neuter
+98696	masculine
+98699	neuter
 98701	masculine
 neuter
 feminine
-
+98705	feminine
 feminine
-feminine
-
-
 98712	neuter
-
-neuter
+98714	neuter
 masculine
-98718	
-masculine
-
-masculine
-98723	
-
-neuter
-
-feminine
-
+98719	masculine
+98721	masculine
+98725	neuter
+98727	feminine
 98730	masculine
 98732	feminine
-
-98735	
+98736	feminine
 feminine
-feminine
-98739	
-
 98742	masculine
-98744	
 98746	feminine
 feminine
 masculine/feminine
-
-98752	
-
-masculine
+98754	masculine
 98756	feminine
 feminine
-98759	
-98763	
-neuter
-
-
-
-98769	
-98771	
-
-
-98775	
-98777	
-98779	
-98781	
-
-
-98785	
-98787	
-98789	
-feminine
-
-feminine
-
-98795	
+98764	neuter
+98790	feminine
+98792	feminine
 98797	masculine
-
-
-98801	
-
-feminine
-
-feminine
+98803	feminine
+98805	feminine
 neuter
-neuter
+feminine
 feminine
 feminine
 98812	masculine/neuter
 feminine
 98815	feminine
-neuter
+feminine
 feminine
 98819	feminine
-neuter
+feminine
 feminine
 98823	feminine
-
-
 98827	masculine/feminine
-
-98832	
-98835	
-
-
 98840	masculine
 masculine
-
-98847	
-masculine/feminine
-98852	
+98848	masculine/feminine
 98856	masculine
 98860	feminine
-
 98863	feminine
 98865	feminine
 feminine
 feminine
-
-
-
-
-masculine/feminine
-
-98875	
+98872	masculine/feminine
 98878	feminine
 98882	feminine
-
-
-
-
-98889	
-
-98892	
-masculine/feminine
-98895	
+98889	feminine
+98893	masculine/feminine
 98898	feminine
-
-masculine/feminine
+98900	masculine/feminine
 feminine
 neuter
 98904	masculine
 masculine/feminine
 98907	feminine
 masculine
-98911	
-masculine/feminine
+98912	masculine/feminine
 98914	masculine/neuter
-
-
-masculine/feminine
+98917	masculine/feminine
 98921	neuter
-
 98926	feminine
 neuter
-98931	
-masculine
-98934	
-
-
-neuter
-98939	
-98941	
-neuter
+98932	masculine
+98937	neuter
+98942	neuter
 98947	masculine
 masculine
-98950	
-
-masculine
+98952	masculine
 neuter
-98955	
-
-masculine
+98957	masculine
 98960	masculine
-
-masculine
-
-feminine
-98966	
-
-
-98972	
-98974	
-
-98978	
-masculine
+98962	masculine
+98964	feminine
+98979	masculine
 98981	feminine
 98984	feminine
 feminine
-98989	
 98995	masculine
-98997	
 98999	neuter
-
-masculine/feminine
+99001	masculine/feminine
 neuter
 99004	neuter
 99006	neuter
-99010	
-
-99014	
-
-99017	
-feminine
-
-
+99018	feminine
 99027	feminine
 99029	feminine
 99032	feminine
-
-feminine
-99036	
-feminine
-
-
-feminine
-
-
-
-feminine
+99034	feminine
+99037	feminine
+99040	feminine
+99042	feminine
+99044	feminine
 feminine
 masculine
-99048	
+99049	feminine
+99051	masculine/feminine
 feminine
-
-masculine/feminine
-feminine
-
-
-feminine
+99055	feminine
 99057	feminine
-99059	
 99063	feminine
-
-
 99067	masculine
 masculine
-99070	
 99072	masculine/feminine
 masculine
-99075	
-
-feminine
+99077	feminine
 masculine
-
+99080	neuter
+99084	feminine
 neuter
-99082	
-
-feminine
-neuter
-
-99088	
-
-feminine
-
-99094	
-masculine
+99090	feminine
+99095	masculine
 masculine/feminine
 99098	feminine
-
 99101	feminine
 99104	feminine
-99106	
-masculine/neuter
-99110	
-99112	
-
+99107	masculine/neuter
+99110	masculine
 99116	feminine
-
-
+99119	feminine
+99127	feminine
 feminine
-
-99122	
-99125	
-
-feminine
-feminine
-99130	
 99133	feminine
 99135	feminine
-99137	
-
-
-99142	
-99144	
+99145	feminine
+99149	neuter
+99155	feminine
 feminine
-99148	
-neuter
-
-
-99153	
-
-feminine
-feminine
-99158	
-neuter
-
-feminine
-
-feminine
+99159	neuter
+99161	feminine
+99163	feminine
 neuter
 99166	feminine
-99168	
-
-
-99172	
-
-99178	
-neuter
+99179	neuter
 99181	feminine
-99183	
-99185	
-feminine
-
-
-
-99191	
-
-
-99195	
-
-
-99203	
+99186	feminine
 99205	neuter
-
-99209	
-
-99212	
-99214	feminine
-99216	
-99220	
+99214	masculine
 99224	feminine
-99226	
-feminine
+99227	feminine
 99229	feminine
-
-
-neuter
-neuter
-99235	
-
-99238	
+masculine/feminine
+99232	neuter
 feminine
-feminine
-
-
-99244	
-
+99239	feminine
 feminine
 masculine
-
+masculine
+99246	feminine
+masculine
 99252	neuter
-
 99255	feminine
-
-
+99258	neuter
 neuter
-neuter
-
-feminine
-99263	
-
-99266	
-masculine
-
-feminine
-99271	
+99261	feminine
+99267	masculine
+99269	feminine
 99274	feminine
 feminine
 feminine
-
-masculine
+99278	masculine
 feminine
 99282	neuter
 99284	neuter
-
-
-feminine
+masculine
+99287	feminine
 99292	feminine
-99294	
-
-
 99298	masculine/neuter
-
-99301	
-
-
-99305	
-
-
-
-99310	
-99313	
-
-neuter
-99318	
-99320	
+99315	neuter
 99322	feminine
-
-
-99326	
 99328	feminine
 feminine
 99331	feminine
 neuter
 99334	feminine
-
-masculine/neuter
+99336	masculine/neuter
 feminine
 neuter
-99340	
 99342	masculine
 99345	neuter
-
-
-99349	
-99351	
-99354	
 99357	masculine
 feminine
-99360	
 99363	feminine
 99365	feminine
-99367	
-99371	
-99374	
 99377	neuter
-
-masculine
+99379	masculine
 99381	masculine/feminine
-neuter
+feminine
 99384	neuter
-
-99387	
-masculine/feminine
+99388	masculine/feminine
 masculine
-
-99392	
-99395	
-
-feminine
-99400	
-99404	
-99406	
-feminine
-99409	
+99397	feminine
+99407	feminine
 99411	feminine
-99413	
-
-99416	
-
-feminine
-
-
-
-
-99424	
-
-
-99428	
-
-99431	
-
-
-neuter
+99413	feminine
+99418	feminine
+99434	feminine
 99436	feminine
-
 99441	feminine
-
-masculine
-99445	
-99448	
-
-masculine
+99443	masculine
+99450	masculine
 feminine
 masculine
 masculine
-
 99456	feminine
-
-99459	
-
-99462	
-neuter
+99463	neuter
 feminine
-
-99468	
-neuter
-
-99473	
-
-99476	
-neuter
-99479	
-
-99484	
-
-99491	
-
+99469	neuter
+99477	neuter
 99495	feminine
 feminine
-
-99502	
-
-
-99506	
 99508	feminine
 feminine
-
 99512	masculine
-
-99515	
-99517	
-
-
-99521	
-
-feminine
-
-feminine
-99527	
-99529	
-
+99523	feminine
+99525	feminine
 99532	masculine
 99534	feminine
-99536	
 99538	neuter
-99540	
 99543	neuter
 99545	feminine
-
 99548	feminine
 99551	feminine
 99555	masculine
-99558	
 99561	masculine
 99563	masculine
-
-
-feminine
-99568	
-neuter
-
-
-99575	
-feminine
-
-
-feminine
+99566	feminine
+99569	neuter
+99576	feminine
+99579	feminine
 masculine
-
-99584	
-
 99588	masculine
-99590	
 99592	feminine
-
 99596	neuter
 99599	masculine/feminine
 masculine
-99602	
-
-99605	neuter
+99605	feminine
 feminine
 masculine/neuter
 feminine
-
-neuter
-99612	
-99615	
-masculine/neuter
+99610	neuter
+99616	masculine/neuter
 feminine
 99619	feminine
-
-
-99623	
-
-feminine
+99625	feminine
 99627	feminine
 99630	neuter
-
-masculine
+99632	masculine
 feminine
 99635	feminine
 feminine
@@ -58672,688 +30073,328 @@ masculine
 99639	masculine
 masculine/feminine
 masculine/feminine
-
-
-
-feminine
-
-
-feminine
+99645	feminine
+99648	feminine
 99650	feminine
-
 99653	neuter
-
-neuter
-
+99655	neuter
+masculine/feminine
 masculine
-
-99660	
+99660	masculine/feminine
 feminine
-
 99664	neuter
 99667	feminine
 neuter
-99670	
 99673	neuter
 neuter
 99678	neuter
 feminine
-99681	
-
-feminine
-
-
+99683	feminine
+99686	masculine
 masculine
-masculine
-99690	
-feminine
-99693	
+99691	feminine
 99695	feminine
 99697	feminine
 feminine
 masculine
-99704	
-feminine
+99705	feminine
 99707	feminine
-99709	
-feminine
-
-99714	
+99710	feminine
 99716	masculine/neuter
 feminine
-
 99722	feminine
-99724	
 99727	masculine
-99732	
-
 99736	feminine
 feminine
-99739	
-feminine
-
-99743	
-feminine
-99746	
+99740	feminine
+99744	feminine
 99750	feminine
 masculine
-99754	
-
-99759	
-masculine
+99760	masculine
 99763	feminine
-99765	
-feminine
-99768	
-
+99766	feminine
+99770	neuter
 neuter
-neuter
-
-99774	
-99776	
+99777	masculine
+99779	masculine
+99781	masculine/feminine
 masculine
-
-masculine
-
-masculine/feminine
-masculine
-99785	
-feminine
-99788	
-99790	
-masculine
-
-99794	
-
-feminine
-
-masculine
-99800	
-
-99804	
-
-
-feminine
-99809	
+99786	feminine
+99791	masculine
+99796	feminine
+99798	masculine
+99807	feminine
 99812	feminine
 feminine
-99818	
-feminine
+99819	feminine
 99821	masculine
-
-feminine
+99823	feminine
 99826	masculine
 masculine
-
-
-99831	
+masculine
+masculine
 99833	masculine
 masculine
-99840	
-99843	
-
-feminine
+99845	feminine
 masculine
-
-
-
-
-
-neuter
+99852	neuter
 99854	feminine
-
-masculine
-99858	
+99856	masculine
 99860	masculine
-99862	
-
-
-
+99862	feminine
+99866	feminine
+99871	feminine
 feminine
-
-
-99871	
-feminine
-99874	
-
-masculine
+99876	neuter
 neuter
 masculine
-99884	
-feminine
+99885	feminine
 99887	neuter
-
-
 99892	masculine
 99894	masculine
-99896	
-
-99900	
-
-
-99904	
 99907	feminine
-99909	
-neuter
+99910	neuter
 99914	feminine
-
-99918	
-
-99922	
+99919	feminine
 99924	feminine
 feminine
-
-neuter
-
-feminine
+99927	neuter
+99929	feminine
 feminine
 99932	feminine
-99934	
-neuter
+99935	neuter
 99937	feminine
 neuter
 99940	feminine
 feminine
-
 99944	feminine
-neuter
+feminine
 masculine/neuter
 masculine
-
-neuter
-neuter
-99952	
+99949	neuter
+feminine
 99954	feminine
 99958	neuter
-
-
-
 99963	feminine
 feminine
-
 99967	neuter
-
-masculine
+99969	masculine
 99973	feminine
-
-99977	
 99980	neuter
 feminine
-
-feminine
+99983	feminine
 masculine/neuter
 feminine
-neuter
-99988	feminine
-
-
-neuter
-99993	
 feminine
-
-neuter
-
-
+99988	feminine
+99991	neuter
+99994	feminine
+99996	neuter
 100000	neuter
 feminine
-100004	
-100006	
+100007	feminine
 feminine
-neuter
 100012	feminine
-
-masculine
-100016	
-100020	
-
-100024	
-
-feminine
-
+100014	masculine
+100026	feminine
 100030	masculine
 masculine
-
-
-feminine
-
-100037	
-
-masculine/feminine
+100034	feminine
+100039	masculine/feminine
 100042	masculine/feminine
-
-
-
-masculine
-
-feminine
+100046	masculine
+100048	feminine
 100050	masculine
-
-
-
-
-neuter
+100055	neuter
 100057	feminine
 100059	feminine
 feminine
-
-feminine
-
-neuter
-
-neuter
+100062	feminine
+100064	neuter
+100066	neuter
 100071	masculine
-100073	masculine
+100073	neuter
 100075	masculine
-
-100079	
-neuter
-100083	masculine
-100085	
-100088	
-masculine
-100091	
-masculine/feminine/neuter
-100094	
-
-
+100080	neuter
+100083	neuter
+100089	masculine
+100092	masculine/feminine/neuter
+100095	feminine
 100099	feminine
 feminine
 100102	neuter
-
-100105	
-
-masculine/feminine
-
-neuter
+100107	masculine/feminine
+100109	neuter
 masculine
 100116	neuter
-
 100120	masculine
 100124	masculine
-
 100127	masculine
 neuter
-100130	
 100132	feminine
 feminine
 masculine
 100136	masculine
 masculine
-
-
-100141	
-
 100144	feminine
-
-100147	
-masculine
-
-
-
-
+100148	masculine
+100153	feminine
 feminine
-neuter
 masculine/neuter
-100157	
+100158	feminine
 feminine
-feminine
-100161	
-feminine
+100162	feminine
 100164	feminine
 feminine
 100167	feminine
-
 100170	masculine/feminine
 100172	masculine
 100177	masculine
-100179	
-100182	
-
-100190	
-100192	
-100194	
-
-
-
 100199	feminine
 feminine
-100202	
-
-100205	
-neuter
+100206	neuter
 100212	neuter
-
-
-100217	
-
-neuter
-100221	
-
-
-100226	
+100219	neuter
 100228	masculine/feminine
 100230	masculine/feminine
 masculine
-100233	
 100237	feminine
-
-100240	
+100241	masculine
 masculine
-masculine
-
-feminine
-
+100244	feminine
 100250	feminine
-
-
-
-100255	
-masculine
-
-
-neuter
-100262	
-
-
+100256	masculine
+100259	neuter
 100271	feminine
-
-
-100275	
 100278	feminine
-
-feminine
-
-neuter
+100280	feminine
+100282	neuter
 100284	feminine
-100286	
-
-
-feminine
-
-neuter
+100289	feminine
+100291	neuter
 neuter
 100294	masculine
-100297	
-masculine
-100300	
+100298	masculine
 100302	masculine
-100308	
-neuter
+100309	neuter
 masculine
 masculine
-
-
 100315	masculine
 masculine
 neuter
-100319	
-100321	
-masculine
-
+100322	masculine
 100325	feminine
 neuter
 100330	feminine
 100332	feminine
 neuter
-100335	
-
-masculine/neuter
+100337	masculine/neuter
 100340	masculine
-
-
+100343	masculine
 masculine
-masculine
-
-masculine
-
-
-feminine
+100346	masculine
+100349	feminine
 neuter
 100352	neuter
 100354	feminine
-
-100362	
-masculine
-
+100363	masculine
 100367	masculine
-100371	
-neuter
-
-100375	
+100372	neuter
 100377	masculine
-
-masculine
-
-100382	
-neuter
+100379	masculine
+100383	neuter
 masculine
 masculine
-
-
-masculine
-
+100388	masculine
 100394	feminine
+100396	feminine
+100406	feminine
+100412	feminine
+100414	feminine
+100416	feminine
+100418	neuter
 masculine
-feminine
-
-100401	
-
-100404	
-
-feminine
-100408	
-100411	
-masculine/neuter
-
-feminine
-
-feminine
-
+100424	feminine
+100427	neuter
 neuter
-masculine
-
-100422	
-
-feminine
-100426	
-neuter
-neuter
-100430	
-
-feminine
-
-feminine
+100432	feminine
+100434	feminine
 neuter
 100438	feminine
 feminine
 100441	masculine
 100443	feminine
-100446	
-
 100452	masculine
 100454	masculine
-100457	
-feminine
-100460	
+100458	feminine
 100462	masculine/feminine/neuter
 neuter
-
-100467	
 100469	feminine
 masculine
-
-masculine
-
+100472	masculine
+100474	feminine
 feminine
-feminine
-100477	
-
-
-masculine
-
+100480	masculine
 100483	masculine/neuter
 100485	feminine
-neuter
-neuter
-
-
-
 feminine
+neuter
+100491	feminine
 masculine
 100495	masculine
-100497	
-100499	
-
-
-100503	
-feminine
-
-
-
-
-100510	
+100504	feminine
 100515	masculine
 100519	masculine
 masculine/feminine
 masculine
-
 100524	masculine
-100526	
-
 100530	masculine
 masculine
-
-
 100535	neuter
-
-100539	
 100541	masculine
-
-neuter
-
-
-
+100543	neuter
 100548	feminine
-100552	
-neuter
+100553	neuter
 100555	neuter
-100557	
-masculine
+100558	masculine
 masculine/feminine
-100561	
-neuter
-100564	
-100568	
-neuter
-
-100572	
-masculine
+100562	neuter
+100569	neuter
+100573	masculine
 masculine
 neuter
 100577	masculine
-
-
-
-masculine
-
-100584	
-
-100587	
-
-
+100581	masculine
+100590	feminine
+100599	masculine
+100604	feminine
 feminine
-100593	
-100595	
-
-100598	
-masculine
-
-
-100603	
+100611	masculine/feminine
 feminine
-feminine
-100608	
-100610	
-masculine/feminine
-feminine
-
-
-masculine/feminine
-
-
-masculine/feminine
-
-
-masculine/feminine
-100623	
-masculine/feminine
-
+100615	masculine/feminine
+100618	masculine/feminine
+100621	masculine/feminine
+100624	masculine/feminine
 100627	feminine
-
-
-feminine
-
-
-
-100636	
-100639	
-masculine/feminine
-
-
-100644	
-
+100630	feminine
+100640	masculine/feminine
+100646	masculine
+100649	masculine
 masculine
-
-
-masculine
-masculine
-
-masculine
-100655	
-masculine
-
-masculine
-
-masculine
-
-
-
-
-
-
-
-100669	
-
-100673	
-
-100676	
-feminine
-100680	
-100682	
-100684	
-100686	
+100652	masculine
+100656	masculine
+100658	masculine
+100660	masculine
+100666	masculine
+100669	masculine
+100677	feminine
 100689	neuter
-
-
-
-100697	
 100699	masculine/neuter
-100701	
-100704	
-100707	
-feminine
-100710	
-feminine
-100713	
-masculine
-100716	
-100718	
-100721	
-100724	
+100708	feminine
+100711	feminine
+100714	masculine
 100727	neuter
-
-100731	
-neuter
+100732	neuter
 100736	feminine
 100738	feminine
 feminine
@@ -59365,291 +30406,125 @@ feminine
 masculine/neuter
 feminine
 masculine/feminine
-
-100752	
-
-masculine/feminine
-100757	
-
-100760	
-100762	
-neuter
+100754	masculine/feminine
+100763	neuter
 100765	feminine
 masculine
-
-masculine
-100772	
-masculine
+100768	masculine
+100773	masculine
 masculine
 100776	masculine
-
-100779	
-100782	
-
-100785	
 100787	masculine
 100789	masculine
-
-masculine
+100791	masculine
 100795	masculine
-
-100799	neuter
-100801	
-100803	
-neuter
-
-100808	
-feminine
+100799	feminine
+100804	feminine
+100809	feminine
 feminine
 neuter
-100813	
-
-masculine
-100819	
-feminine
+100815	masculine
+100820	feminine
 100822	feminine
 masculine
-
-100826	
-masculine/neuter
+100827	masculine/neuter
 100829	masculine
-100831	
-
-100834	
-
-
-100838	
-100840	
-
-masculine
+100842	masculine
 100845	neuter
-100848	
-
-
-100852	
-100856	
-
-100859	
-100861	
-100863	
-
-masculine
-100868	
-100870	
-100872	
+100848	masculine
+100865	masculine
 100875	neuter
 100877	neuter
-
-masculine
-100881	
-
-
-neuter
-
-
-100889	
-
-
-masculine
-
+100879	masculine
+100884	neuter
+100892	masculine
 100896	masculine
-100898	
-100900	
-
-masculine
+100902	masculine
 feminine
-100905	
 100908	masculine
 masculine/feminine
-
+100911	masculine
+100914	masculine
+100920	masculine/neuter
+100924	masculine/neuter
 masculine
-
-
-masculine
-
-100917	
-
-
-masculine/neuter
-100922	
-
-masculine/neuter
-masculine
-100927	
-masculine
-
-100933	
-feminine
+100928	masculine
+100934	feminine
 100936	masculine
-
-100939	
-
-masculine
-
-
+100941	masculine
 100947	masculine
-100949	
-
 100952	masculine/neuter
-100954	
-100956	
-
-feminine
+100958	feminine
 100960	masculine
 feminine
 100963	feminine
-
-feminine
-
-feminine
-100969	
-
-
-100974	
-
+100965	feminine
+100967	feminine
+100969	masculine
 100977	masculine
 feminine
 feminine
-
-masculine
-100983	
-
-100986	
-100988	
-
-
-100994	
-masculine
-100998	
-
-masculine/feminine
-
+100981	masculine
+100995	masculine
+101000	masculine/feminine
 101003	masculine
-101007	
-101009	
 101011	feminine
-
-101015	
-feminine
-masculine
-feminine
-
-101022	
-neuter
+101016	feminine
+101018	feminine
+101023	neuter
 101025	feminine
-
-101029	
-
-
-
-
-
-
+101032	feminine
 101037	masculine/neuter
 101040	neuter
 101043	masculine
-
-
+101046	feminine
 feminine
 feminine
-feminine
-
-masculine
-
-101053	
-
-
-feminine
-
+101050	masculine
+101056	feminine
 101060	feminine
-101062	
-masculine
-101065	masculine/feminine
-
+101063	masculine
 101069	feminine
-101071	
-
-
-101075	
-neuter
+101076	neuter
 feminine
-
-feminine
-
-101082	
-neuter
+101079	feminine
+101083	neuter
 101086	masculine/neuter
-101088	
+101089	masculine
 masculine
-masculine
-101092	
-
 101095	feminine
-
-101098	
-
-masculine/neuter
+101100	masculine/neuter
 neuter
 feminine
-
-
+101104	masculine
 feminine
-
-masculine/feminine
-
-
-101111	
-
+101107	masculine/feminine
 101114	feminine
-
-masculine
+101116	masculine
 masculine/feminine
 101119	feminine
-
-masculine
+101121	masculine
 neuter
 feminine
 101126	feminine
 101128	neuter
 101130	feminine
 101132	masculine
-101134	
-101137	
-
-feminine
+101139	feminine
 masculine
-
-
-masculine
-101146	
+101143	masculine
 101148	masculine
-101150	
-
-
-
-
 101156	neuter
-
-masculine/neuter
-
-neuter
+101158	masculine/neuter
+101160	neuter
 101162	masculine
-101164	
 101166	feminine
 masculine
 101170	masculine
-
-101173	
-101175	
-
-feminine
+101177	feminine
 masculine
-101180	
-neuter
-
-
-masculine
-
+101181	neuter
+101184	masculine
 101187	neuter
 masculine
 feminine
@@ -59658,463 +30533,207 @@ feminine
 feminine
 masculine
 101197	masculine
-
 101200	masculine
 101202	masculine
 101204	feminine
-101206	
 101208	feminine
 masculine/neuter
 101211	masculine
 masculine/neuter
-
-
-feminine
+101215	feminine
 101217	feminine
 101219	feminine
-
-
-masculine
+101222	masculine
 101226	feminine
-
 101230	masculine/feminine
 101232	masculine
-101234	masculine
-101238	
-
-masculine
+101234	neuter
+101240	masculine
 101242	masculine
 101247	masculine/neuter
-101251	masculine/neuter
-
-masculine
-
-
-101258	
-
-
-101262	
-
-
-masculine
+101251	feminine
+101253	masculine
+101265	masculine
 101267	masculine
-101269	
-feminine
-
-
-
-
-
-
-101279	
-
-feminine
-
-
-
+101270	feminine
+101281	feminine
 101286	neuter
-101290	
-
+101292	neuter
+101295	masculine/feminine
 neuter
-
-
-masculine/feminine
-neuter
-
 101299	neuter
-
-feminine
-101303	
-
-
-
-
-feminine
-101310	
-
-
-
-101315	
+101301	feminine
+101308	feminine
+101316	masculine
 masculine
-masculine
-
-
-
-
-101323	
-
-101326	
-101328	
-101330	
-101333	
 101337	neuter
 masculine
-
-feminine
+101340	feminine
 masculine
-101343	
-
-101346	
-
-101349	
 101352	neuter
-
-101356	
-101359	
-101361	
-neuter
-
+101362	neuter
 101365	feminine
-
-
 101369	feminine
-
-101374	
 101377	masculine/feminine
-
-101381	
 101383	feminine
 101385	feminine
 101387	feminine
-101389	
-
+101391	masculine
 masculine
-masculine
-
-101395	
+masculine/feminine
 101397	feminine
 101399	masculine
 masculine
-101403	
-
-101406	
-
 101409	masculine
-101411	
-
-
-101416	
-
 101419	masculine
-101422	
-101424	
 101427	feminine
-
-101430	
-
 101434	feminine
 masculine
-
-101438	
-101440	
-masculine
+101441	masculine
 masculine
 masculine
 101445	feminine
-
-
-neuter
+101448	neuter
 101450	feminine
 feminine
-
-masculine
-101455	
+101453	masculine
 101457	feminine
-101460	
 101462	feminine
-feminine
+masculine
 101465	feminine
-
-neuter
+101467	feminine
 masculine
 masculine
 101471	neuter
-101473	
-101476	
-masculine
+101477	masculine
 101479	masculine
 masculine/feminine
 masculine
-101485	
 101487	feminine
-101489	
-101491	
-
-neuter
+101493	neuter
 101495	feminine
 101497	masculine
 masculine
 masculine
-
-masculine/neuter
-101503	
-masculine/neuter
+101501	masculine/neuter
+101504	masculine/neuter
 neuter
 feminine
-101508	
-masculine/feminine
-
-
-101513	
+101509	masculine/feminine
 101515	masculine/neuter
-
 101518	neuter
-
-neuter
+101520	neuter
 101523	feminine
 101525	feminine
 feminine
-
 101530	feminine
 101532	feminine
-
-
-101536	
-
-
-
 101541	feminine
-
 101544	masculine
-
-masculine
+101546	masculine
 neuter
 masculine
-
-101552	
-masculine
-
-
-masculine
+101553	masculine
+101556	masculine
 101558	feminine
-101561	
 101563	neuter
-
-masculine
-
+101565	masculine
 101568	masculine
-101570	
-101572	
-
-
-
 101577	masculine
-101579	
-101581	
-
-101587	
-
-masculine/feminine
+101589	masculine/feminine
 feminine
 101593	masculine
-101596	
 101599	feminine
-
-
 101603	neuter
-
-
-101608	
-101611	
+101612	masculine
 masculine
-masculine
-
-
-101617	
-101619	
 101622	neuter
-101624	
 101626	masculine/neuter
-
-
-101630	
-101632	feminine
-101634	
-
-feminine
-
-101640	
-
+101632	masculine
+101636	feminine
 101644	masculine
 masculine
-101649	
-
-masculine
-
-
-101655	
-101657	
-
 101660	feminine
-
-neuter
-101664	
-101667	
-
-
-101671	
+101662	neuter
 101673	masculine
-
-
-neuter
+101676	neuter
 masculine
-
+masculine
 feminine
 masculine
 masculine/neuter
 masculine/neuter
 masculine
-101685	
-101687	
+101688	masculine
 masculine
-masculine
-101691	
-feminine
+101692	feminine
 feminine
 masculine
-101696	
-neuter
+101697	feminine
 101699	masculine
 neuter
-
 101704	neuter
-
-masculine
-
-101710	
-101713	
-
+101706	masculine
 101716	feminine
 101718	feminine
-feminine
-
-
+masculine
 101726	masculine/neuter
-101728	
-
-
-masculine/feminine
-101734	
-
-
-101738	
-
-neuter
-
-
-101744	
+101731	masculine/feminine
+101740	neuter
 101750	feminine
 101752	neuter
 101754	feminine
 feminine
-
-
-
-masculine
-101763	
-masculine
+101759	masculine
+101764	masculine
 neuter
-101767	
-
-
-
-
-neuter
-
-
-101777	
-
-neuter
+101770	masculine/feminine
+101772	neuter
+101779	neuter
 101782	feminine
 101785	feminine
-101789	
-
-101792	
 101794	feminine
-101796	
-masculine/neuter
+101797	masculine/neuter
 neuter
-101801	
-
-masculine
+101803	masculine
 101805	masculine/feminine
 masculine
-101812	masculine
-101815	
-
-masculine
+101817	masculine
 101819	neuter
-101821	neuter
+101821	feminine
 101823	masculine
-101825	
-
-101828	
-masculine
+101829	masculine
 101832	masculine
-
-101835	
 101839	neuter
 101841	neuter
 masculine
-
-
 101848	masculine
-101851	
-masculine
-
-
-neuter
-
-
-
-101860	feminine
+101852	masculine
+101855	neuter
+101860	masculine
 masculine
 masculine
 masculine/feminine
 masculine
 feminine
-
-
-101869	neuter
-101875	
-
+101869	feminine
 101878	feminine
 feminine
-101881	
-
-masculine/neuter
+101883	masculine/neuter
 masculine
-
-masculine/feminine
-
-101889	feminine
+101886	masculine/feminine
+101889	masculine
 101891	feminine
-
-
-
-
+101896	feminine
 feminine
-feminine
-
-101900	
 101902	feminine
-
 101905	feminine
-
 101908	neuter
-101910	masculine
-
-101914	
 101916	masculine
 101918	feminine
-
-
-masculine
+101921	masculine
 101923	masculine
 masculine
-101927	
-
-101930	
 101933	neuter
 101935	feminine
 101937	masculine
@@ -60122,172 +30741,84 @@ masculine
 masculine
 101942	masculine
 masculine
-
 101947	masculine
-
 101950	masculine
-
+101952	neuter
 neuter
-neuter
-101957	
 101959	feminine
 101965	masculine
 masculine
 masculine
-
 101970	feminine
 101972	masculine
 101974	masculine
 feminine
-
-101978	
+101979	neuter
 neuter
-neuter
-101983	
-101985	
-neuter
+101986	neuter
 feminine
 masculine/feminine/neuter
-
 101991	masculine
-101996	
-
-101999	
-102001	
-feminine
-
+102002	feminine
 102005	neuter
-
-
-102009	
-102011	
 102014	masculine/feminine
-
-102017	
-feminine
-102021	
-102023	
-
-102026	
-102030	
-masculine
-102033	
-neuter
+102018	feminine
+102031	masculine
+102034	neuter
 102036	masculine
-102038	
 102041	masculine
-
-neuter
-
-feminine
-102047	
-
-
-
-masculine/neuter
+102043	neuter
+102045	feminine
+102051	masculine/neuter
 102054	feminine
-
-102057	
-
 102060	neuter
-102062	
 102065	masculine
-
-102068	
-
-
-
-neuter
+masculine
+102069	masculine
+102072	neuter
 neuter
 102077	feminine
-
-102080	
-
-102086	
-
-102090	
+102091	masculine
 masculine
 masculine
 masculine
-masculine
-neuter
+feminine
 102097	masculine
 masculine
-102101	
-masculine
-102105	
-102107	
+102102	masculine
 102109	masculine
-102111	
-
+102113	masculine
 masculine
+102117	masculine
 masculine
-
-
-masculine
-masculine
-
 102121	feminine
-102123	
-102127	
-masculine/neuter
-
+102128	masculine/neuter
 102133	neuter
 masculine
 feminine
 102137	masculine
-102139	
 102141	neuter
-
-feminine
-102145	
-
-neuter
-
-
-102151	neuter
+102143	feminine
+102147	neuter
+102151	feminine
 masculine
 masculine
-
-
-neuter
-
-masculine/neuter
-
-
-102163	
-
-102166	
+102156	neuter
+102158	masculine/neuter
+102167	masculine
 masculine
 masculine
-masculine
-102172	
-
-feminine
-
-feminine
-
-
-
-
-
-neuter
-
+102174	feminine
+102176	feminine
+102182	neuter
 102187	masculine/neuter
-102189	
-masculine/neuter
-
-
-102194	
-
-neuter
-
-102199	neuter
+102190	masculine/neuter
+102196	neuter
+102199	feminine
 masculine
 102202	neuter
 masculine
 feminine
-102206	
 102208	masculine
 masculine/feminine
 feminine
@@ -60295,689 +30826,335 @@ feminine
 masculine
 102218	masculine
 102220	neuter
-
 102224	feminine
-
+102226	masculine
 masculine
-masculine
-102231	
-
-102237	
 102241	feminine
-
-feminine
-102245	
-
-102249	
-masculine
+102243	feminine
+102250	masculine
 102252	masculine
-
 102257	masculine
 feminine
-
-
-
+102262	masculine
 masculine
-masculine
-
-
-102271	
-neuter
+102272	neuter
 102275	neuter
-
-102278	
-neuter
-
-masculine
-
-102285	
-
+102279	neuter
+102281	masculine
 102288	feminine
 102290	feminine
 neuter
-
-
-102295	
-neuter
+102296	neuter
 neuter
 masculine
-102301	
-102303	
-
-
-
-masculine
+102307	masculine
 neuter
 neuter
 102311	masculine
-
 102315	masculine/feminine
-
-masculine/neuter
-102321	
+102317	masculine/neuter
+102322	masculine
 masculine
-masculine
-
-
-feminine
-
-102330	
-102334	
-
-masculine/neuter
-102339	
-
-102342	
-masculine
-
-
-feminine
-
-102349	
-masculine
-102353	
-
+102326	feminine
+102336	feminine
+102343	masculine
+102346	feminine
+102350	masculine
+102355	neuter
 neuter
-neuter
-
-masculine
+102358	masculine
 masculine/feminine
-
-102362	
-masculine
+102363	masculine
 102365	masculine
-
-102368	
 102371	masculine
-
-feminine
-
-
-masculine
+102373	feminine
+102376	masculine
 masculine
 masculine/feminine
-
-
 102382	feminine
-
-masculine
-102386	
+102384	masculine
+102387	feminine
 feminine
-feminine
-
 102393	masculine
 masculine
-
-
-
-
-neuter
+102399	neuter
 neuter
 feminine
 feminine
-
 102405	feminine
-
-masculine
+102407	masculine
 masculine/neuter
-
 102411	feminine
-
-102414	
-neuter
-102419	
-102421	
-
-feminine
-102427	
-
-
-
+102415	feminine
+102423	feminine
 102434	feminine
 feminine
-102437	
 102439	neuter
-
-
-masculine
-102445	
-
-feminine
-102449	
+102442	masculine
+102447	feminine
 102451	masculine/neuter
 masculine
-
-102455	
 102458	masculine
-102461	
-102464	
-
-neuter
+102466	neuter
 masculine
-
-feminine
+102469	feminine
 102471	feminine
 neuter
 102474	masculine
-
-
-
-102479	
 102481	feminine
-
-102484	
-masculine
+102485	masculine
 feminine
 feminine
-102489	
-feminine
-
+102490	feminine
 102495	feminine
-
-masculine
+102497	masculine
 102499	neuter
 102501	masculine
 masculine
 masculine/neuter
 feminine
-
-102508	
-
 102514	masculine
 102516	masculine
-
-feminine
+102518	feminine
 102520	masculine
 102523	masculine/neuter
-
 102526	masculine
 102529	masculine
 102531	masculine
 102533	masculine
-
-masculine/neuter
+102535	masculine/neuter
 masculine
-
-neuter
+102538	neuter
 masculine
-102541	
 102544	masculine
 masculine
-102547	
-102549	
-masculine
-
-
-feminine
-102555	
-
-feminine
+102550	masculine
+102553	feminine
+102557	feminine
 neuter
 neuter
 masculine
-
+102562	feminine
+102564	feminine
 feminine
-
-feminine
-feminine
-
 102568	masculine
 masculine
-102572	
-102574	
-102579	
-masculine
+102580	masculine
 102582	masculine
-
 102585	feminine
 102589	masculine
 masculine
 102592	feminine
-
-
+102595	masculine
+102611	neuter
+102613	feminine
+102617	masculine/neuter
 masculine
-
-
-102605	
-102610	
-neuter
-
-neuter
-102616	
-masculine/neuter
-masculine
-102621	
-masculine
+102622	masculine
 102624	masculine
-102626	
-
-102629	feminine
+102629	masculine
 feminine
-
-
+102633	masculine
 masculine
-feminine
 masculine/feminine
-
-
-
 102640	masculine
 102644	masculine
-
-
-masculine/neuter
+102647	masculine/neuter
 masculine
-
 102652	masculine
 neuter
-
-102657	
 102659	feminine
 masculine
-
 102664	neuter
 102666	masculine
 masculine
-102671	
+102672	masculine
 masculine
-masculine
-102675	
-
-
-
 102681	masculine
 102684	feminine
-
-102690	
-
-102693	
-neuter
-102696	
-
-
-102700	
-102702	
-102705	
-
-
-masculine
+102694	neuter
+102708	masculine
 102712	neuter
 neuter
-
 102716	neuter
-
-masculine
-
-102721	
-masculine
-
-
+102718	masculine
+102722	masculine
 102726	feminine
-
-
-102730	
-
-
-masculine
-102737	
-
-neuter
-
-feminine
+102733	masculine
+102739	neuter
+102741	feminine
 feminine
 feminine
 masculine
 102746	masculine
-102750	
-masculine
-
-masculine
-
+102751	masculine
+102753	masculine
 102756	masculine
 102758	masculine
+feminine
 neuter
-neuter
-
-
-102764	
 102766	neuter
 102769	feminine
 masculine
 neuter
 neuter
 102776	neuter
-
-102780	
-neuter
-
-
-102785	
-neuter
+masculine
+102781	neuter
+102786	neuter
 masculine/feminine/neuter
 102789	neuter
-102794	
-
-feminine
-
+102796	feminine
 102799	feminine
 102801	masculine
 102805	feminine
 masculine
-
-
-102810	
-feminine
-
-
-
-
-masculine
-
-102820	
-feminine
-102825	
-102827	
+102811	feminine
+102816	masculine
+102821	feminine
 102829	feminine
-102833	
 102835	masculine
 102839	feminine
-
-
-feminine
+102842	feminine
 masculine
-
-
-feminine
-102848	
-
+102846	masculine
 102851	neuter
-
-102854	
-masculine
-102857	
+102855	masculine
 102859	masculine
 102861	feminine
-
-102864	
-
-
-neuter
+102867	neuter
 102870	feminine
 masculine
 102876	feminine
-102879	
-masculine/neuter
+102880	masculine/neuter
 feminine
-
-masculine
-
-
-feminine
+102883	masculine
+102886	feminine
 masculine/neuter
-
-102890	
-neuter
-102894	
-masculine/neuter
+102891	neuter
+102895	masculine/neuter
 102898	masculine
 neuter
-
-
-
 102905	feminine
 102907	masculine
-102910	
-
-masculine/feminine
+102912	masculine/feminine
 102914	masculine
-
-
-
-102919	
 102921	feminine
-102924	
-102926	
-masculine
-
-
-
-
-
+102927	masculine
 102934	masculine
-
-masculine
+102936	masculine
 102940	masculine
-
-
-102945	
-102948	
 102950	neuter
-
 102955	neuter
-
 102958	feminine
 102960	masculine
-102962	
-102965	
-
 102968	masculine
-102970	
 102972	feminine
-neuter
+feminine
 102975	feminine
 102978	feminine
 feminine
-102981	
 102983	feminine
 feminine
-102986	
-masculine
+102987	masculine
 feminine
-
-masculine/feminine
+102990	masculine/feminine
 feminine
 102998	feminine
 masculine
-103001	
-
-feminine
-103006	
-103009	
-103011	
-feminine
-
+103003	feminine
+103012	feminine
 103015	feminine
-103017	
 103019	feminine
 103023	feminine
 feminine
 103028	feminine
 feminine
-
-feminine
+103031	feminine
 masculine
 103034	masculine
 feminine
-
-feminine
-
-feminine
+103037	feminine
+103039	feminine
 neuter
 103043	masculine/neuter
-
-
-103049	
-103053	
+masculine
 103055	feminine
-103057	
-103060	
-masculine
-
-
-103067	
-103072	
+103061	masculine
+103073	neuter
+103075	feminine
 neuter
-
-feminine
-neuter
-
-103084	
 103086	masculine
-
+103088	masculine
 masculine
-masculine
-103092	
-
-
 103096	feminine
-103099	
-103103	
 103105	feminine
-
-feminine
+103107	feminine
 masculine/feminine
 masculine
-
-
 103114	masculine
 103116	neuter
 feminine
-
-
-
-103122	
-
-
-masculine
-
-masculine
+103125	masculine
+103127	masculine
 feminine
-103130	
-
-103137	
 103140	neuter
 103142	masculine
-
-
-
-masculine
-103148	
-masculine
-
+103146	masculine
+103149	masculine
 103152	masculine
-
-103157	
-103161	
-
 103164	masculine/neuter
 masculine
 103167	masculine
 neuter
-
 103171	feminine
-
-feminine
-103175	
-feminine
+103173	feminine
+103176	feminine
 103178	masculine
 masculine/feminine
 feminine
 103182	feminine
 masculine
 103185	feminine
-103187	
-
-
-masculine/neuter
+103190	masculine/neuter
 feminine
 feminine
 103194	masculine
-103197	
-
-103200	
-feminine
-
-masculine
-
-103207	
-masculine
+103201	feminine
+103203	masculine
+103208	masculine
 103211	feminine
-
 103214	neuter
 103216	masculine
-103218	
-103221	
-
-103224	
-neuter
+103225	neuter
 103228	neuter
-
 103231	masculine
-
-
-
 103237	masculine
 masculine
 feminine
 103243	feminine
-
 103246	neuter
 masculine
 103249	feminine
-
-
-
-feminine
-
-neuter
-103257	
-
-neuter
+103253	feminine
+103255	feminine
+103259	neuter
 masculine
 103263	masculine
-
-103266	
-103268	
-
-
-103272	neuter
-
-
-masculine
-
-103279	
-103281	
-
-masculine
+103275	masculine
+103283	masculine
 103285	neuter
-
-
-103290	
 103292	feminine
-103294	
-masculine
-
-feminine
-103300	
-
-
-103307	
+103295	masculine
+103297	feminine
 103310	feminine
 103312	masculine
-
-
-masculine
+103315	masculine
 neuter
 masculine
 masculine
 feminine
-
-
-103324	
-
-
-
-masculine
+103328	masculine
 neuter
 103332	neuter
 103338	feminine
@@ -60991,396 +31168,228 @@ masculine
 feminine
 feminine
 feminine
-
-feminine
-
+103351	feminine
 103354	neuter
 neuter
 103357	neuter
-
-
-103361	
-
-masculine
+103363	masculine
 neuter
 feminine
 103367	feminine
 neuter
-
-
-masculine
+103371	masculine
 103373	masculine
-
-103377	
-feminine
-
-feminine
+103378	feminine
+103380	feminine
 103383	feminine
 103385	feminine
-
-feminine
+103387	feminine
 masculine
-
 103391	masculine
 masculine
-103394	
+103395	masculine
 masculine
-masculine
-103398	
-feminine
+103399	feminine
 masculine/feminine
-103405	
-
-
 103412	masculine
-103414	
 103416	masculine
 neuter
 103420	masculine
-103424	
-
 103428	masculine
-103430	
-103433	
 103436	masculine
 masculine
 masculine
 103442	neuter
 neuter
 neuter
-
-103448	
 103450	masculine
-
-masculine
-
-103455	
-masculine/feminine
+103452	masculine
+103456	masculine/feminine
 103458	neuter
-103460	
-
 103465	neuter
 neuter
-103470	
-
 103473	neuter
-103476	
-103478	
-
 103481	neuter
 103485	masculine
-103487	
 103490	masculine
 masculine
-103494	
-masculine/neuter
-
-masculine/neuter
-
-
-
-103502	
+103495	masculine/neuter
+103497	feminine
+103499	feminine
 103504	masculine
 103506	masculine
-
-103511	
-
+103513	masculine
 masculine
-masculine
-
-103517	
-neuter
-
-103522	
-feminine
+103518	neuter
+103523	feminine
 masculine
 103526	masculine
-
-103530	
-
-103533	
-feminine
+103534	feminine
 masculine
 103538	neuter
 masculine
 masculine
-
-masculine
+103542	masculine
 103544	masculine/feminine/neuter
-
+103546	masculine
 masculine
 masculine
-masculine
-103550	
-masculine
-
+103551	masculine
 103555	masculine
 103562	masculine/feminine
-103565	
-103567	
-103570	
-
-feminine
+103572	feminine
 103574	masculine/neuter
-
-
-feminine
+103577	feminine
 103579	masculine/neuter
 feminine
 103582	neuter
-
-
-103586	
+103587	masculine
 masculine
-masculine
-103590	feminine
+103590	masculine
 103592	masculine
 103595	masculine
 masculine/neuter
-
-masculine/neuter
+103598	masculine/neuter
 feminine
-103601	
-
-
-feminine
+103604	feminine
 feminine
 103607	masculine
 103609	masculine
-103612	
-masculine
-
-
-103617	
-masculine
+103613	masculine
+103618	masculine
 feminine
 masculine
 masculine
 103623	masculine/feminine
 masculine
-103626	
-masculine
+103627	masculine
 103631	masculine
 neuter
 103635	feminine
-
-
-feminine
-103641	
-feminine
+103638	feminine
+103642	feminine
 neuter
-
-
 103649	masculine
-103651	
-103654	
-neuter
-
-103658	
-103662	
+103655	neuter
 103664	neuter
-103666	
-masculine
-
-
+103667	masculine
 103671	masculine
-
-
-103675	
-masculine
+103676	masculine
 feminine
 masculine
 masculine
-
-
 103683	feminine
 103685	feminine
 103688	masculine
 masculine
-neuter
+feminine
 103692	neuter
-103694	
 103696	neuter
-
-masculine
+103698	masculine
 103700	masculine/neuter
-
-masculine/neuter
+103702	masculine/neuter
 masculine
-103705	
-103707	
-
-neuter
+103709	neuter
 103711	feminine
 103713	masculine
 masculine
 masculine
 103717	masculine
-103721	
-masculine
+103722	masculine
 feminine
 masculine
 masculine
 masculine
-
-masculine/feminine
-
-
+103728	masculine/feminine
+103730	feminine
 feminine
-103733	
-103735	
-
-masculine/neuter
-103739	
-masculine/feminine
-
-neuter
+103737	masculine/neuter
+103740	masculine/feminine
+103742	neuter
 103744	masculine
-
 103747	masculine/feminine
-103751	
-neuter
-
-
-masculine
+103752	neuter
+103755	masculine
 masculine/feminine
-
+103758	feminine
 feminine
-neuter
 masculine
 masculine
-
-103764	
 103766	feminine
-
 103769	neuter
-
 103772	feminine
 103774	masculine
 neuter
 masculine
 103778	masculine/feminine
-
-
-103782	
-103784	
-103786	
-neuter
-
+103787	feminine
 103790	neuter
 103793	feminine
-103795	
 103797	masculine
 103799	masculine
 neuter
 masculine
-103803	
-masculine/feminine
-
-
+103804	masculine/feminine
+103806	feminine
 feminine
 103809	feminine
-
-masculine/feminine
-103814	
+103811	masculine/feminine
 103816	neuter
-
 103819	feminine
 neuter
-103822	
-
-neuter
-
-feminine
-
+103824	neuter
+103826	feminine
 103829	feminine
 masculine
-
-neuter
+103832	neuter
 masculine
-
-
-masculine/neuter
+103836	masculine/neuter
 neuter
-
-103840	
 103842	neuter
-
 103845	feminine
-
-neuter
-
+103847	neuter
 103852	masculine
-
-103855	
-neuter
+103856	neuter
 masculine
 masculine/neuter
-
-103862	
 103864	neuter
-
 103868	masculine/feminine
-
 103871	feminine
 neuter
-103875	
-
-masculine/neuter
-
+103877	masculine/neuter
 103886	feminine
 103888	neuter
 103890	feminine
 feminine
-
-103897	
 103900	feminine
-
-masculine
+103902	masculine
 103907	feminine
 feminine
-
-
-103913	
 103916	feminine
 neuter
 feminine
 103920	masculine
-
 103924	feminine
-103926	
-
+103928	masculine
 masculine
-masculine
-103932	
-103934	
-103938	
 103940	masculine/feminine/neuter
-
-feminine
+103942	feminine
 feminine
 masculine
-
-masculine/neuter
+103946	masculine/neuter
 103948	masculine
-
-masculine
-103952	
-masculine
+103950	masculine
+103953	masculine
 feminine
 masculine
 masculine
 masculine
 103960	feminine
-
-
 103964	feminine
-103967	
-feminine
+103968	feminine
 neuter
 103974	feminine
 feminine
-
 103979	feminine
 masculine/feminine
 103982	feminine
@@ -61391,2013 +31400,1039 @@ neuter
 103991	feminine
 103993	feminine
 neuter
-
-103997	
 103999	neuter
 104001	masculine
 104005	neuter
-
-masculine/feminine
-104010	
+104007	masculine/feminine
 104012	feminine
-
-masculine/neuter
+104014	masculine/neuter
 104017	neuter
-104019	
-
-
-masculine/neuter
-
-104025	
-masculine
+104022	masculine/neuter
+104026	masculine
 104028	masculine
-
-feminine
+104030	feminine
 neuter
-
-104034	
-
-feminine
+104036	feminine
 104039	feminine
-104048	
-neuter
-
-
+104049	neuter
 104053	neuter
-
-104056	
-
-
 104060	masculine
-
-
 104065	neuter
-104070	
-masculine
-
-feminine
+104071	masculine
+104073	feminine
 104078	neuter
-104081	
-neuter
+104082	neuter
 masculine
-
-masculine/neuter
+104085	feminine
 104088	feminine
 104090	masculine
 104096	feminine
-
 104099	masculine
-104101	
-104104	
-
-104107	
 104109	masculine
 104111	feminine
-
-104114	
-104116	
 104118	masculine/neuter
-
-104121	
 104123	feminine
-
-104129	
-masculine
-
-104133	
 104136	feminine
 masculine
 neuter
 104143	masculine/neuter
 masculine
-104146	
 104148	feminine
-
-
 104152	masculine
 104154	masculine
-104158	
-
-neuter
-neuter
-104164	
-neuter
-104167	
-masculine/feminine
+104160	neuter
+feminine
+104165	neuter
+104168	masculine/feminine
 104171	masculine/feminine
 masculine
-104175	
-
-masculine/neuter
-104179	
-104182	
-104185	
-104187	
-
-masculine/neuter
+104177	masculine/neuter
+104189	masculine/neuter
 masculine
-
-
-
 104195	masculine/neuter
 104199	masculine
 masculine
 104202	masculine
 neuter
-
 104207	masculine/feminine
-
-masculine/neuter
+104209	masculine/neuter
 masculine
-
-104214	
-104216	neuter
-104220	
-
-feminine
+104216	feminine
+104222	feminine
 neuter
-104226	
-
-masculine
-
-masculine
+104228	masculine
+104230	masculine
 masculine/feminine
-
-neuter
-104238	
-masculine/neuter
+104233	neuter
+104239	masculine/neuter
 masculine
-
-104243	
 104246	masculine
-104248	
-
-masculine
-
-104253	
-
-masculine
+104250	masculine
 104257	neuter
 neuter
-
-feminine
+104260	feminine
 masculine
 masculine
 feminine
-
 104266	feminine
 masculine
-
-feminine
-104271	
-
-
-masculine
+104269	feminine
+104274	masculine
 neuter
 104277	masculine
 104280	feminine
-
 104284	masculine
 masculine/neuter
 104288	feminine
 104290	masculine
-104294	
-
-104299	
-masculine/neuter
+104300	masculine/neuter
 masculine
 104303	masculine
-masculine
 104306	feminine
-104309	
-
-feminine
-
-masculine
+104311	feminine
+104313	masculine
 104317	feminine
-
-feminine
+104319	feminine
 masculine
-
-neuter
+104322	neuter
 feminine
-
 104327	masculine
-
-104330	
 104332	feminine
-
-
-feminine
+104335	feminine
 neuter
 104338	masculine
 masculine/neuter
-104341	
 104343	masculine
-
-104347	
-
-neuter
-
-neuter
+104349	neuter
+104351	neuter
 masculine
 104354	masculine
-
-104357	
-104360	
-104363	
-neuter
-neuter
-
-
-
+104364	neuter
+feminine
 104370	feminine
-
-neuter
-104376	
-
+104372	neuter
 104379	feminine
-104381	
-104384	
 104386	neuter
-
 104390	masculine
-104392	
 104398	neuter
-104401	
-masculine
-104404	
-
-
+104402	masculine
 104408	feminine
 feminine
 104411	masculine/feminine
-
-neuter
+104413	neuter
 masculine
-
-
 104418	feminine
 feminine
 104421	masculine
 104424	neuter
 masculine
 masculine
-
 104429	feminine
 masculine
 feminine
-
-
 104435	neuter
-
-masculine
-
-104442	
-
-neuter
-
-neuter
-
-104450	
-
+104437	masculine
+104444	neuter
+104446	neuter
 104453	masculine
 masculine/feminine
-
+104456	masculine
 masculine
-masculine
-
+104459	feminine
 feminine
-feminine
-104462	
 104466	feminine
 104468	masculine
-
-neuter
-104474	
-feminine
-
-
-104485	
+104470	neuter
+104475	feminine
 104488	masculine
-
-104491	
-104493	
+104494	masculine
+104499	masculine
 masculine
-
-
-
-
-masculine
-masculine
-104503	
-104506	
+104507	feminine
 feminine
-feminine
-
-104513	
 104515	neuter
-104517	
-
 104521	neuter
 neuter
 104529	feminine
-
-masculine/neuter
+104531	masculine/neuter
 masculine
-neuter
-
+feminine
 104536	masculine/feminine
-
-104539	
-104541	
+104541	feminine
 104543	masculine
-
-neuter
-104549	
+104545	neuter
 104551	feminine
 104554	neuter
 masculine
-
 104559	feminine
 104561	feminine
 104568	masculine/feminine
 masculine
-
+104571	masculine
+104574	masculine/feminine
+feminine
+feminine
+104582	feminine
+104586	neuter
+104588	neuter
 masculine
-104573	
-masculine/feminine
-feminine
-feminine
-
-104579	
-104581	
-feminine
-104584	
-
-neuter
-
-neuter
-masculine
-104591	
-104598	
-
-104601	
-neuter
+104602	feminine
 104604	feminine
 feminine
 104607	feminine
-
-neuter
-
+104609	neuter
 104612	feminine
-104615	
-
-
-masculine/neuter
+104618	masculine/neuter
 masculine
-
-masculine
+104621	masculine
 feminine
-
-104625	
 104627	feminine
-104630	
+104631	feminine
 feminine
-neuter
 104635	neuter
 104638	masculine
-104640	
 104643	masculine
-
-feminine
+104645	feminine
 104648	feminine
 feminine
-104651	
-
-neuter
+104653	neuter
 neuter
 masculine
-104659	
-masculine/feminine
+104660	masculine/feminine
 feminine
 feminine
-
-
-104666	
-feminine
-104669	
-
-
-
+104667	feminine
 104674	masculine
 104676	feminine
 neuter
 feminine
-
-neuter
-
+104680	feminine
 104683	neuter
-
-104686	
-104688	
 104690	masculine
-neuter
-104694	
-104696	
 feminine
-
-
-masculine
-104703	
-
+104697	feminine
+104700	masculine
 104706	masculine/feminine
-masculine/neuter
-104709	
-neuter
+feminine
+104710	neuter
 104712	masculine
-104720	
 104722	feminine
-104725	
-
-masculine
-
-
-
-masculine
-104734	
-neuter
-
-104739	
-masculine
-
-
-feminine
-
-
-
-
+104727	masculine
+104731	neuter
+104735	neuter
+104740	masculine
+104743	feminine
 104751	feminine
-
-masculine/feminine
+104753	masculine/feminine
 neuter
 feminine
 feminine
-
-
-feminine
-104761	
-masculine/neuter
+104759	feminine
+104762	masculine/neuter
 masculine
-
-
+104765	feminine
 feminine
 feminine
-
 104770	feminine
 104772	feminine
-
 104775	feminine
-
-masculine
+104777	masculine
 masculine/feminine
-
+104780	masculine
 masculine
-
-
 104785	masculine
-
-
-feminine
-104792	
-feminine
+104788	feminine
+104793	feminine
 104795	neuter
-
-
-104802	
-104804	
-
-104808	
-
-104812	
-104816	
-
 104822	feminine
 masculine
 masculine
 feminine
 feminine
-
 104829	masculine
 104834	masculine
-
-104838	neuter
-104841	
-masculine/neuter
+104838	feminine
+104842	feminine
 104846	feminine
 104848	feminine
-104850	
 104854	feminine
-
-masculine
-104858	
-
-
-104862	
-feminine
+104856	masculine
+104863	feminine
 104871	neuter
-104873	
-masculine
-
-104878	
-neuter
+104874	masculine
+104879	neuter
 feminine
 neuter
 104883	feminine
 masculine
-
 104889	masculine
-
-
 104893	feminine
 feminine
-
-
-neuter
+104897	neuter
 masculine
 104907	masculine
 104910	masculine
 104919	feminine
 feminine
-
-neuter
+104922	neuter
 feminine
-
-
-
-104928	
-masculine
-
-
-masculine
-104934	
-104942	
-
-
-neuter
-
-
-masculine
-
+104929	masculine
+104932	masculine
+104945	neuter
+104948	masculine
 104951	feminine
-
-104954	
-masculine
-
+104955	masculine
 104960	masculine
 104966	feminine
-
-
 104970	feminine
 feminine
-
-feminine
+104973	feminine
 104976	feminine
 104978	masculine
-104981	
-
-104984	
 104986	neuter
 masculine
 104990	feminine
 104992	masculine
-
-masculine/feminine
-masculine
+104994	masculine/feminine
+neuter
 104998	masculine
 105000	masculine
-neuter
 feminine
-
+feminine
 105005	feminine
 105007	feminine
-
 105010	masculine/neuter
 105014	feminine
-
-105018	
-
-neuter
-
-
-105025	
-105027	
-
-masculine
+105020	neuter
+105029	masculine
 105031	feminine
-
 105035	neuter
 neuter
-
-
-105040	
-masculine
+105041	masculine
 feminine
 masculine
-
-feminine
+105045	feminine
 105049	feminine
-
-neuter
-neuter
+105051	neuter
+feminine
 105054	feminine
 105056	feminine
-
-neuter
-neuter
-105061	
+105058	neuter
+feminine
 105063	feminine
 neuter
-105069	
-feminine
-
-feminine
+105070	feminine
+105072	feminine
 feminine
 feminine
-
-feminine
-105079	
+105076	feminine
 105083	masculine
-
-105089	
-neuter
+105090	neuter
 105094	feminine
-
-
-masculine
-
-feminine
-
+105097	masculine
+105099	feminine
 105102	masculine
-
 105105	masculine
 105108	neuter
-
+105110	feminine
 feminine
-feminine
-105113	
-
-105116	
-105118	
-masculine
+105119	masculine
 feminine
 105124	masculine
-105127	
+105128	neuter
 neuter
-neuter
-
 105135	feminine
-105140	
-feminine
-105143	
-
-neuter
-neuter
-
+105141	feminine
+105146	neuter
 105149	neuter
 neuter
-
 105153	masculine
-
-masculine
+105155	masculine
 105157	masculine
-105159	
 105161	feminine
-105163	
-105165	
 105167	masculine
 masculine
-105171	
+105171	masculine
 105173	masculine
-105176	
 105179	masculine
-
-
-105183	
-feminine
-
-105189	
-
+105184	feminine
 105192	feminine
 masculine
-
-
-
-masculine/feminine
-105200	
+105197	masculine/feminine
 105202	feminine
-
-
-
-105207	
 105209	masculine
-
 105214	masculine
-
-neuter
-
-105220	
-masculine/feminine
+105216	neuter
+105221	masculine/feminine
 105223	feminine
 feminine
 105226	masculine
-105228	
 105232	feminine
-
 105235	feminine
 masculine/feminine
-
 feminine
-
-105241	
+feminine
 105245	masculine
 neuter
 105249	masculine
-105251	
-masculine/neuter
-
-
-
+105252	masculine/neuter
 105257	masculine
-
-neuter
-
+105259	neuter
 105262	feminine
-105264	
-
-
 105269	masculine
 masculine
-
-feminine
-105276	
-feminine
+105272	feminine
+105277	feminine
 feminine
 105280	feminine
-
-neuter
-
+105282	neuter
 105285	feminine
 feminine
 105289	feminine
 feminine
-
-feminine
-105295	
-
-105298	
-
+105292	feminine
 105303	feminine
-
-feminine
+105305	feminine
 neuter
-
-
-
-
+105310	masculine
 feminine
-105314	
-105316	
-105319	
-105321	
-
-masculine
-105326	
-
-feminine
-
-
-feminine
-
-masculine
+105323	masculine
+105328	feminine
+105331	feminine
+105333	masculine
 105335	neuter
 105337	feminine
-105339	
-
-neuter
+105341	feminine
 feminine
 105345	feminine
-
-
-neuter
-
-105351	
+105348	neuter
 105353	feminine
 masculine
-105356	
 105358	neuter
-
-105361	masculine
-masculine
+105362	masculine
 105365	neuter
-
-masculine
-
+105367	masculine
 105370	neuter
-
-masculine
+105372	masculine
 105374	masculine
-
-neuter
-
-
+105376	neuter
+105378	feminine
 105383	feminine
 105385	neuter
 105387	masculine/feminine
-
-masculine
+105389	masculine
 105391	masculine
-
-105396	
-
+105398	masculine
 masculine
-
-105402	
-neuter
-105405	
-feminine
+105403	neuter
+105406	feminine
 105408	neuter
 neuter
-105412	
-neuter
+105413	neuter
 105415	masculine
 feminine
-
-
-neuter
-105421	masculine
+105419	neuter
+105421	neuter
 105424	masculine
 neuter
-105428	
-
+105430	masculine
+105435	feminine
 masculine
-105433	
-
-feminine
+105440	masculine
 masculine
-105438	
-
-masculine
-masculine
-
-105444	
-
-
-masculine
-
-105451	
-
+105447	masculine
 105455	masculine
-
+105457	feminine
 feminine
 feminine
-feminine
-
-neuter
+105461	feminine
 105463	masculine
-
-105466	
-
-neuter
+105468	neuter
 105470	feminine
-
-masculine
+105472	masculine
 105474	masculine
-
-neuter
-
+105476	neuter
 105480	feminine
-
-
-
 105486	neuter
-105489	
 105491	feminine
-105496	
+105497	feminine
 feminine
-feminine
-
-masculine
-105503	
-105505	
-105507	
-masculine
+105500	masculine
+105508	masculine
 feminine
 masculine
 masculine
-
-neuter
+105513	neuter
 105515	feminine
 masculine
 neuter
-
 105520	masculine
 feminine
 105524	masculine/feminine/neuter
 masculine/neuter
-
-
-masculine
-
-105535	
+105528	masculine
 105537	masculine
 masculine
 105541	feminine
-105544	
-105546	
-
+105548	feminine
 feminine
-feminine
-
-
-masculine/neuter
+105552	masculine/neuter
 105555	feminine
 105558	masculine/neuter
-
 105561	masculine
-105563	
-feminine
+105564	feminine
 105568	masculine
 masculine
-
 105572	feminine
-105576	
-105578	
-105580	
-
-
-105584	
-105586	
-105588	
-
 105591	neuter
 masculine
 105594	feminine
 masculine
 feminine
 neuter
-
-105600	
-neuter
+105601	neuter
 feminine
 masculine
-105605	
 105607	feminine
 105611	masculine/neuter
 105613	masculine
-105615	
-feminine
+105616	feminine
 neuter
-105619	
-neuter
+105620	neuter
 neuter
 105623	masculine
 masculine
 105626	neuter
-105629	
-105632	masculine
 105634	neuter
-
-105637	
-
-105640	
 105644	masculine
 masculine
 105647	feminine
-
-neuter
-105651	
+105649	neuter
 105653	neuter
-105656	
-105664	
 105668	neuter
 105671	masculine
-105673	
-
-105681	
-105683	
-
-masculine
-105687	
+105685	masculine
 105689	feminine
-
 105693	masculine
 105695	neuter
 105698	neuter
 105701	masculine/neuter
-
 105704	feminine
-105707	
-
-105710	
-neuter
-105713	
+105711	neuter
 105715	masculine/neuter
 feminine
-
-masculine
+105718	masculine
 105722	neuter
-
-105726	
 105732	masculine
 feminine
-
-feminine
-
-105738	
-feminine
-105741	
-105743	
+105735	feminine
+105739	feminine
 105745	feminine
 masculine
 masculine
 masculine
 masculine
-
-neuter
+105751	neuter
 105753	feminine
-
-
-feminine
-
-feminine
+105756	feminine
+105758	feminine
 105760	feminine
 masculine
 masculine
 masculine
-
-105766	
-
-masculine/neuter
-
-
+105768	masculine/neuter
 105772	masculine/neuter
-
 105776	feminine
 feminine
-
-
-masculine/neuter
+105780	masculine/neuter
 masculine
-105784	
-105787	
-masculine
+105788	masculine
 masculine
 masculine
 105792	neuter
-
-neuter
-
-
+105794	neuter
 105798	feminine
-105800	
-
-masculine
-105804	
-105807	
+105802	masculine
 105809	masculine
 neuter
-
-masculine
-105814	
-
-masculine
-
-masculine
-
-masculine/feminine
+105812	masculine
+105816	masculine
+105818	masculine
+105820	masculine/feminine
 masculine
 masculine
 masculine
 neuter
 feminine
-
-105831	
-105833	
 105835	neuter
 105837	feminine
 masculine
 masculine
-105841	
-
-105845	
 105848	neuter
-
-105851	
-
-masculine
-105855	
-
-neuter
+105853	masculine
+105857	neuter
 105860	neuter
-
 105863	feminine
-
-neuter
+105865	neuter
 105869	feminine
 105872	feminine
 feminine
-
-
-
-
 105879	masculine/feminine
 feminine
 feminine
 105883	feminine
-105885	
-
 105888	feminine
 feminine
 105891	feminine
 feminine
-105896	
-masculine
+105897	masculine
 105900	neuter
 feminine
 105903	feminine
-
-105906	
-neuter
-105909	
+105907	feminine
 105911	feminine
-
-neuter
-
-
-105917	
-
-feminine
-
-feminine
+105913	neuter
+105919	feminine
+105921	feminine
 105923	masculine
 masculine
-105926	
 105930	feminine
 feminine
-
-feminine
+105933	feminine
 105941	masculine
-105944	
-feminine
-
-105949	
-
-masculine/neuter
-105957	
+105945	feminine
+105951	feminine
 105960	masculine
 neuter
 neuter
-
-masculine/neuter
+105964	masculine/neuter
 neuter
 feminine
-
 105970	masculine/feminine
-
-105973	
 105976	feminine
-
 105979	masculine
 105982	neuter
-neuter
 feminine
-105989	
+feminine
 105991	masculine
-
-105995	
-105998	
-
+105999	feminine
 feminine
 106002	feminine
-
 106005	feminine
 feminine
-106008	
-masculine/neuter
-
-106014	
-feminine
-
+106009	masculine/neuter
+106015	feminine
 106018	masculine
-
-feminine
-
-106024	
-106026	
-masculine/feminine
-
-
-feminine
-
-
-masculine
-106035	
-
-106038	
-
-106041	
+106020	feminine
+106027	masculine/feminine
+106030	feminine
+106033	masculine
 106044	neuter
 106046	masculine
 neuter
-
-masculine
-
-
-masculine
+106049	masculine
+106052	masculine
 masculine
 106057	masculine
-106059	
-masculine
+106060	masculine
 neuter
-
 106064	feminine
-
-106068	
-
-neuter
-
-feminine
-106074	
+106070	neuter
+106072	feminine
+106075	feminine
 feminine
 feminine
 feminine
-feminine
-106082	
-
-106085	
-neuter
+106086	neuter
 106089	masculine
 masculine
 masculine
 feminine
-106094	
 106096	feminine
-
 106099	masculine
 feminine
 106102	masculine
-
-feminine
+106104	feminine
 106108	masculine
 masculine
 masculine
-masculine/neuter
-106113	
-
-masculine/neuter
+feminine
+106115	masculine/neuter
 masculine
 106118	neuter
-
-masculine
+106120	masculine
 masculine/feminine
 masculine/feminine/neuter
-106124	
-106126	
-106128	
-
-neuter
+106130	neuter
 106132	feminine
 106134	masculine
 masculine
 masculine
-
-
-neuter
+106139	neuter
 masculine
-
-
-
+106142	feminine
+106144	feminine
 feminine
-feminine
-106147	
-
+106148	feminine
 feminine
 masculine
-
 106153	feminine
-
-feminine
+106155	feminine
 106157	neuter
 masculine
-
-
+106161	feminine
 feminine
-feminine
-
 106165	neuter
-
 106168	feminine
 feminine
-106171	
-106176	
+106177	masculine
+106181	neuter
 masculine
-106179	
-
-neuter
-masculine
-
 106185	feminine
 masculine
 masculine
 106190	neuter
 masculine
-106194	
 106196	feminine
-neuter
-106201	
-
 feminine
+106203	feminine
 feminine
-
-
 106208	neuter
 masculine
-106211	
-
-feminine
+106213	feminine
 106215	feminine
-
 106219	masculine
 106221	masculine
 106223	feminine
 106225	masculine/feminine
 106227	masculine
 masculine
-106230	
-
 106233	feminine
-
 106236	masculine
 masculine
-106241	
+106242	feminine
+106244	feminine
+106246	masculine
+106248	masculine
+106251	feminine
+106253	feminine
 feminine
-
-feminine
-106246	
-106248	
-
-
-feminine
-106253	
-feminine
-
 106258	feminine
 neuter
 masculine
-
-
-masculine/feminine
+106263	masculine/feminine
 106265	masculine/feminine
-
-masculine/feminine
+106267	masculine/feminine
 masculine
 106270	masculine
-106273	neuter
+106273	feminine
 masculine
 masculine
-
-feminine
+106277	feminine
 106280	neuter
 106283	feminine
-106286	
-neuter
+106287	neuter
 106289	masculine
-
-
-
-
-106295	
-106298	
 masculine
+106299	masculine
 masculine/feminine
-
-masculine/neuter
-106304	
-masculine/neuter
-
-106311	masculine/neuter
-106314	
+106302	masculine/neuter
+106305	masculine/neuter
+106311	feminine
+106315	feminine
 feminine
-feminine
-
-masculine
+106318	masculine
 106321	neuter
 masculine
-
-
-
-106328	
-neuter
-106331	
-106334	neuter
-106338	
+masculine
+106325	masculine/feminine
+106329	neuter
+106334	feminine
 106342	feminine
 106344	masculine
 masculine/neuter
 masculine
-106348	
-
-106351	
-
-feminine
-
+106353	feminine
 106357	masculine
-106359	
-feminine
+106360	feminine
 106362	masculine
 masculine/neuter
-
-
+106365	masculine
 106370	neuter
 masculine
 neuter
-106374	
-
 106377	masculine
-
-feminine
-
-feminine
+106379	feminine
+106381	feminine
 masculine
-106385	
-neuter
-
-
-106390	
-
-106393	
-106396	
-
+106386	neuter
+106398	feminine
 feminine
-neuter
 106401	feminine
 106404	feminine
-
 106407	masculine
 masculine
-
 106411	feminine
 106414	masculine
-
-
-106420	
-
+106421	feminine
 feminine
-
 106428	masculine
-
-
 106432	masculine
-
-neuter
+106434	feminine
 feminine
-
-neuter
-
-masculine
-106442	
-masculine
-106448	
-106451	
-
-feminine
+106437	feminine
+106439	masculine
+106443	masculine
+106453	feminine
 106456	masculine
-
 106459	neuter
-
-
-
-106465	
-feminine
+106466	feminine
 106469	feminine
-
-
-106473	
 106475	masculine/feminine
 masculine/neuter
-106480	
+106480	masculine
 masculine/feminine
-106484	
-
-feminine
+106486	feminine
 neuter
 106489	feminine
-106493	
-
-
-106497	
-masculine/neuter
-
-
+106498	feminine
 106502	feminine
-
 106505	feminine
-106508	
 106511	feminine
-
-
-masculine/neuter
+106514	masculine/neuter
 masculine
-
-masculine
-neuter
-106520	
+106517	masculine
 feminine
+106521	feminine
 106524	feminine
 neuter
-
-
-106529	
 masculine
-
-
-
+106530	masculine
 106536	masculine
 feminine
-
-106540	
-neuter
-
-feminine
-
-
-
-106550	
-masculine
-
-feminine
-
+106541	neuter
+106543	feminine
+106551	masculine
+106553	feminine
 106557	masculine
-106559	
-106561	
-feminine
+106562	feminine
 feminine
 106566	neuter
 feminine
 feminine
 feminine
 106571	feminine
-106574	
-neuter
-
-
-
-106580	
-masculine
-
-neuter
-106585	
-106588	
-106591	
-neuter
+106575	neuter
+106581	masculine
+106583	neuter
+106592	neuter
 106596	neuter
 106598	neuter
-
-
-masculine
-106604	
-
-masculine
-
-masculine/feminine
+106601	masculine
+106606	masculine
+106608	masculine/feminine
 106610	feminine
-
-masculine/neuter
-
+106612	masculine/neuter
+106614	neuter
 neuter
-neuter
-
-
-masculine/feminine
+106618	masculine/feminine
 feminine
-106621	
-masculine/feminine
-106626	
-masculine
+106622	masculine/feminine
+106627	masculine
 106629	feminine
-
-106633	
-106636	
-106638	
-106640	
 106644	feminine
-106646	
-feminine
-
-
+106647	feminine
 106654	neuter
 masculine
 neuter
 neuter
 106659	masculine
-
 106662	neuter
 feminine
-106666	
-
-
+106669	masculine
+106672	masculine/neuter
 masculine
-106671	
-masculine/neuter
+106677	neuter
 masculine
-106675	
-
-neuter
-masculine
-
-106681	
 106684	neuter
 neuter
-
-106689	
-masculine
+106690	masculine
 feminine
-
 106694	feminine
-106699	
 106704	masculine/feminine
-
-
-
-106709	
 106712	masculine
-106715	
-106717	
-neuter
-106720	
-106722	
-masculine
-
-
-
-
+106718	neuter
+106723	neuter
 106729	masculine
-masculine
-106732	
-masculine
+neuter
+106733	masculine
 106735	masculine
 106739	feminine
 feminine
-
-
-masculine
+106743	masculine
 106745	masculine
-
-feminine
+106747	feminine
 neuter
 106752	masculine
 106756	masculine
-
-
-
-feminine
+106760	feminine
 masculine
 neuter
-
-106766	
-
-
-feminine
+106766	masculine
+106769	feminine
 masculine
-
-
 106774	masculine/neuter
 106776	neuter
 feminine
-
 106782	masculine
 masculine
-
-
-106791	
-
 106794	feminine
 masculine
-
-106801	
-106805	
 106807	neuter
 neuter
 masculine
 feminine
 feminine
 106813	feminine
-
-106816	
-
-106819	
 106822	feminine
-106824	
 106826	masculine
-
-masculine/feminine
+106828	masculine/feminine
 masculine
-
-
-
-masculine
-
-feminine
-
-masculine
-106839	
-
-106843	
-
-feminine
+106833	masculine
+106835	masculine
+106837	masculine
+106845	feminine
 106847	feminine
 106850	feminine
-
-106853	
-masculine/neuter
-
-106861	
-106863	
-106865	
-106867	
+106854	feminine
+106868	masculine
 masculine
-masculine
-106871	
-
-
-
-masculine
-
+106875	masculine
 106878	neuter
-
-feminine
+106880	feminine
 neuter
-106883	
+106884	neuter
+106886	masculine
 neuter
-106886	
-neuter
-
-feminine
-
-masculine
+106889	feminine
+106891	masculine
 106894	neuter
 neuter
 masculine/neuter
-
-neuter
+106898	neuter
 masculine
 masculine
 106904	neuter
-
-
-
-feminine
+106908	feminine
 106910	masculine/feminine
 masculine
-106913	
 106915	neuter
-106919	
-
-
-
 106924	neuter
-
-masculine
-
-106930	
-masculine
-
-106935	
+106926	masculine
+106931	masculine
 106937	masculine
-106939	
-masculine/feminine
+106940	masculine/feminine
 106944	masculine
 106947	masculine
 feminine
 106954	feminine
 masculine
-
 106958	feminine
 106960	masculine
-
 106963	feminine
-106968	
-
-106972	
-neuter
-
-
-masculine
-106978	
-106980	
+106973	neuter
+106976	masculine
 106983	neuter
-
 106986	masculine
-
-masculine
-
-
-
-
-
-106995	
-106997	
-107001	
-masculine
-107004	
-
-107008	
-masculine
-
+106988	masculine
+106993	masculine
+107002	masculine
+107009	masculine
+107011	feminine
 feminine
-feminine
-107016	
-
-
-neuter
+107019	feminine
 107021	neuter
 masculine
-
-
-107027	
-
-
-
 107032	feminine
 107037	feminine
 107039	masculine
 107041	masculine
-
-
-masculine
+107044	masculine
 neuter
 feminine
-107048	
-masculine
-107051	
-masculine
-
+107049	masculine
+107052	masculine
 107055	masculine/feminine
-
 107058	feminine
-
-107061	
-masculine
-
-107065	
+107062	masculine
 107069	feminine
 masculine
 masculine
 107073	neuter
-107077	
-masculine/neuter
+107078	masculine/neuter
 masculine
-107081	
-
-feminine
-107086	
-
-
-107090	
-feminine
-
-masculine/feminine
-
-107097	
-feminine
-
-
+107083	feminine
+107091	feminine
+107093	masculine/feminine
+107098	feminine
+107100	masculine
 masculine
-107103	
-107106	
-107109	
-masculine
-
-masculine
-107114	
-masculine
+107110	masculine
+107112	masculine
+107115	masculine
 107118	feminine
-
-107122	
-masculine
-107126	
-107128	
+107123	masculine
 107130	neuter
 feminine
-
-neuter
+107133	feminine
 107135	masculine
 feminine
-
 107143	masculine
 feminine
-107146	neuter
+107146	feminine
 107148	masculine
 107151	masculine
 masculine
-
-masculine
+107154	masculine
 masculine
 107157	neuter
 neuter
 masculine
-
-107164	
+107165	masculine
+107170	neuter
 masculine
-
-107169	
-neuter
-masculine
-
-
-107176	
-masculine
-
-107180	neuter
+107177	masculine
+107180	feminine
 107182	masculine
-107184	
-neuter
-107187	
-
-feminine
-
+107185	neuter
+107189	feminine
 107198	neuter
 107200	feminine
 107202	neuter
-107204	
-
-neuter
-
-
-
-
+107206	neuter
 107212	masculine/neuter
-107214	
+107215	masculine
+107218	neuter
+107221	neuter
+107233	masculine
 masculine
-
-
-neuter
-
-
-neuter
-107223	
-107225	
-107227	
-107232	
-masculine
-masculine
-107236	
-neuter
-107241	
+107237	neuter
 107243	neuter
-107245	
-107249	
-107251	
-107253	
-
-107258	
-107260	
-neuter
-
-masculine/neuter
+107249	neuter
+107261	neuter
+107263	masculine/neuter
 masculine
-107267	
-107271	
-neuter
-
-
+107272	neuter
+masculine
 107277	masculine
-107279	
-
-
-
-masculine
-
-
-neuter
-107288	
-masculine
-
-107293	
+107283	masculine
+107286	neuter
+107289	masculine
 107296	masculine
-107298	
-neuter
+107299	neuter
 masculine/feminine
-107303	
-107306	
-
 107311	masculine
-
-107315	
-
-
-masculine
+107318	masculine
 feminine
 107322	feminine
 feminine
@@ -63406,98 +32441,58 @@ masculine
 feminine
 107329	feminine
 feminine
-
-
-
-neuter
+107334	neuter
 masculine
 neuter
 107339	feminine
-107343	
-
-
-
-masculine/feminine
+107347	masculine/feminine
 107349	masculine
-
-masculine
+107351	masculine
 107353	masculine
-107355	
 107360	feminine
 masculine/feminine
-
 107365	feminine
 neuter
-
 107369	feminine
-
-107374	
-neuter
+107375	neuter
 neuter
 masculine
 107380	masculine
 107384	feminine
 107387	masculine
-107389	
-
-masculine
+107391	masculine
 107393	feminine
-
-107397	
-107401	
-masculine
-
-
-107406	
-107409	
-107412	
-
-107417	
+107402	masculine
 107421	feminine
 feminine
 masculine/feminine/neuter
 masculine
 feminine
 neuter
-107428	
 107430	feminine
-
-
-masculine
-107436	
-
+107433	masculine
 107439	masculine/feminine
 feminine
-107442	masculine/neuter
+107442	feminine
 107444	masculine
 masculine
-107448	
-107450	
-107452	
-
-107455	
-feminine
-
-feminine
+107456	feminine
+107458	feminine
 neuter
 107461	feminine
 107465	neuter
 107467	feminine
-
-
+107470	neuter
+feminine
+feminine
 neuter
-feminine
-feminine
-masculine
 neuter
-
-feminine
+107476	feminine
 feminine
 feminine
 107480	neuter
 107482	feminine
-
-masculine/neuter
+107484	masculine/neuter
 masculine
 107487	masculine
 107489	feminine
@@ -63511,134 +32506,68 @@ feminine
 feminine
 masculine/feminine/neuter
 feminine
-107502	
-masculine/feminine
-
-107506	
-masculine/feminine
+107503	masculine/feminine
+107507	masculine/feminine
 107509	feminine
-
-neuter
-107519	
-
-masculine
+107511	neuter
+107521	masculine
 feminine
-
 107525	masculine
-107528	
 107531	feminine
-
-107534	
+107535	masculine
 masculine
-
-
-neuter
-masculine
-107542	
-masculine/neuter
-107551	
-
+107538	neuter
+107543	masculine/neuter
 107554	feminine
-
-
-107558	
-
-107561	
-masculine/feminine
-107564	
-107567	
-107569	
-
-107573	
-masculine/neuter
-
+107562	masculine/feminine
+107574	feminine
 107579	masculine
-107581	
 107584	masculine
-
-
-
-masculine/neuter
-107590	
-masculine
-
+107588	masculine/neuter
+107591	masculine
 107594	masculine
-
-feminine
-
-107601	
-
-
-feminine
-
-107607	
-
-
-feminine
+107596	feminine
+107604	feminine
+107610	feminine
 feminine
 107613	feminine
-107615	
-107620	
-masculine
-107623	
-
-107626	
-masculine
-107632	
+107621	masculine
+107627	masculine
 107634	feminine
-107636	
-
-
-
 107641	feminine
-
-
 107645	masculine
 107647	neuter
-
 107650	feminine
-
 107653	masculine
-107655	
 107657	masculine
-
-masculine/feminine/neuter
+107659	masculine/feminine/neuter
 neuter
 107662	feminine
 107664	feminine
 feminine
 masculine
 neuter
-
-neuter
+107669	neuter
 masculine
 107673	masculine
-
-
+107675	feminine
 feminine
 feminine
-
 107680	masculine
 neuter
-
-feminine
-
-masculine/neuter
+107683	feminine
+107685	masculine/neuter
 masculine
-
 107689	neuter
 107691	feminine
 feminine
 feminine
 feminine
-
 107698	feminine
 107700	feminine
-
-masculine
+107702	neuter
 neuter
-
-masculine/neuter
+107705	masculine/neuter
 masculine
 107708	feminine
 masculine
@@ -63646,629 +32575,337 @@ masculine/feminine
 masculine
 107714	feminine
 107716	masculine
-
 107720	masculine
-
 107724	feminine
-
-107727	
+107728	masculine
 masculine
 masculine
-masculine
-
-
 107734	feminine
 107737	masculine
 masculine
-neuter
+feminine
 107741	neuter
 107744	masculine
-107747	
-107749	
 107751	masculine/neuter
-107753	
-masculine/neuter
-107756	
-107758	
-
-neuter
+107754	masculine/neuter
+107760	neuter
 107762	feminine
-
-
-neuter
+107765	neuter
 feminine
-
-masculine
+107768	masculine
 feminine
 masculine
 masculine
-107773	
-feminine
+107774	feminine
 107779	feminine
-
-masculine/neuter
+107781	masculine/neuter
 masculine
-107785	
-107787	
-
-107792	neuter
+107792	feminine
 107796	feminine
-
-
-107800	
-107803	
-
-
 107807	feminine
-
-107810	
-107812	
-feminine
-107816	
-107818	
+107813	feminine
 107821	masculine
 107823	masculine
-107826	
-
 107829	masculine
 feminine
-107835	
-
-neuter
-
-feminine
-107842	
-
-
-107846	
-feminine
+107837	neuter
+107839	feminine
+107847	feminine
 107850	masculine
-
-feminine
-107854	
+107852	feminine
+107855	masculine
 masculine
-masculine
-107858	
-masculine/feminine
+107859	masculine/feminine
 107861	feminine
-
-
 107865	feminine
 107870	masculine
 feminine
-107873	
-
-
-feminine
-107880	
-
-107883	
-
+107876	feminine
 107886	neuter
-
-
+107888	feminine
 feminine
 107891	feminine
-107893	
-
-
-masculine
-
-
+107894	masculine
+107896	masculine
+107898	feminine
 feminine
-
-107907	
+107908	feminine
+107910	neuter
+107912	feminine
 feminine
-
-neuter
-
-
-feminine
-107915	
 107917	feminine
 107919	feminine
 neuter
-
-
+107922	feminine
 107925	feminine
-
-feminine
-107929	
-feminine
-
+107927	feminine
+107930	feminine
 107933	feminine
-
-107937	
-
+107939	feminine
 feminine
-feminine
-
-
-neuter
-107945	
-masculine/feminine
-
+107943	neuter
+107946	masculine/feminine
 107949	feminine
-
-masculine
-107954	
+107951	masculine
 107956	feminine
-
-
-107960	
-neuter
-
-107964	
-107966	
+107961	neuter
 107969	masculine/neuter
 neuter
 107973	feminine
-
-neuter
-
+107975	neuter
 107978	masculine/feminine
 feminine
-107981	
-
-neuter
-
-neuter
+107983	neuter
+107985	neuter
 masculine
-
-107989	
-107991	
 107993	feminine
 neuter
 feminine
 107997	neuter
-107999	
-108001	
-108003	
-feminine
-
-feminine
+108004	feminine
+108006	feminine
 neuter
 masculine
 108010	neuter
-108012	
 108021	neuter
 masculine
-
-neuter
-
+108024	neuter
 108029	feminine
-108031	
 108034	feminine
 108038	masculine/feminine
-
-feminine
+108040	feminine
 masculine
-
-feminine
-
-masculine/neuter
-108048	
-
-neuter
-
-masculine
-108055	
+108043	feminine
+108045	feminine
+108050	neuter
+108052	neuter
 108058	neuter
-
-neuter
+108060	neuter
 masculine
-
-108064	
-neuter
-
-108068	
-
-neuter
+108065	feminine
+108070	neuter
 108072	neuter
-
-neuter
-
+108074	neuter
 108077	feminine
-
-neuter
-
-108082	
+108079	neuter
 108084	feminine
 masculine
-108090	
-feminine
-
+108091	feminine
 108096	masculine/neuter
-108099	
-
-
 108105	neuter
-neuter
-
-
-
 feminine
-108116	
-neuter
-
-108120	
-
-feminine
+108110	feminine
+108117	neuter
+108122	feminine
 108125	masculine/feminine
 108127	masculine
 masculine
-
-108132	
 108134	masculine/feminine
-108136	
-108138	
-
+108139	feminine
 feminine
-
-
 108145	masculine/feminine
-108147	
-108151	
-
-108155	
-feminine
-108158	
-neuter
+108156	feminine
+108159	neuter
 108161	masculine/neuter
 masculine
-
+108164	masculine
+108167	feminine
 masculine
-
-
-feminine
-masculine
-
-
 108172	neuter
 masculine
 108175	feminine
 feminine
 masculine
-108179	
-108181	
 108183	feminine
-
-neuter
+108185	neuter
 108187	feminine
-108189	
-feminine
-
-108194	
-neuter
+108190	feminine
+108195	neuter
 108199	masculine
-
+108201	feminine
+108205	masculine/neuter
 feminine
-108204	
-masculine/neuter
-feminine
-108211	
-neuter
+108212	neuter
 108215	masculine
-108217	
-neuter
+108218	neuter
 108220	masculine
 108222	feminine
-
-108226	
 108231	masculine
-
-
-feminine
+108234	feminine
 108237	feminine
 neuter
-108240	
-108242	masculine
-108246	masculine
-108248	
-
+108242	neuter
+108246	neuter
+108249	feminine
 feminine
-
-108253	masculine
+108253	neuter
 108255	masculine
-
-masculine/neuter
-
-masculine
-108261	
-108263	
+108257	masculine/neuter
+108259	masculine
 108265	feminine
 neuter
 108268	feminine
-
-masculine
-
-feminine
-
+108270	masculine
+108272	feminine
 108275	feminine
 108277	neuter
 neuter
-
-
-feminine
+108281	feminine
 108283	feminine
-
-108288	
 108292	masculine
-
-feminine
-
-
-feminine
+108294	feminine
+108297	feminine
 feminine
 neuter
-108301	
-
-108304	
-masculine
+108305	neuter
 masculine
 108308	feminine
-108311	
-
-
-108315	
-neuter
+108316	neuter
 masculine
-
-108320	
 108322	masculine
 108325	feminine
-108328	
-108330	
-
 108333	feminine
-
-
-feminine
-
-108340	
-feminine
-
-
-
+108336	feminine
+108341	feminine
 108346	masculine/feminine
-
-
 108351	neuter
 feminine
-108359	
-masculine
+108360	masculine
 108362	feminine
-
 108367	masculine
 108370	masculine
-
-neuter
-
-masculine
+108372	neuter
+108374	masculine
 108376	masculine
-
-neuter
-108381	
-feminine
+108378	neuter
+108382	feminine
 108385	masculine
-
-feminine
-
-masculine
+108387	feminine
+108389	masculine
 masculine/feminine
 feminine
 108393	masculine
-108395	neuter
+108395	feminine
 108397	feminine
-108400	
-
 108404	feminine
 feminine
-
-neuter
-108409	
-
-108412	
-
-masculine
-
-
-neuter
-
-masculine
-108424	
-108426	
-
-neuter
+108407	neuter
+108414	masculine
+108417	neuter
+108419	neuter
+108424	masculine
+108428	neuter
 108432	feminine
 108434	feminine
 108437	feminine
-
 108442	masculine
-108444	
-
-feminine
-
-108451	
-
-masculine
-
-masculine
+108446	feminine
+108453	masculine
+108455	masculine
 108457	neuter
-
-
-108461	
-108464	
-neuter
+108465	feminine
 108469	feminine
-
-neuter
-
-108475	
-masculine
+108471	neuter
+108476	masculine
 108478	feminine
 masculine
-108484	
-feminine
+108485	feminine
 108488	feminine
-
-feminine
+108490	feminine
 masculine/feminine
 neuter
 masculine
 masculine/feminine
 masculine
 neuter
-108498	
 108501	feminine
 neuter
 108505	masculine
-
-neuter
+108507	neuter
 masculine/feminine
-108511	
-
-
+108514	masculine
 masculine
-masculine
-108517	
 108520	feminine
 feminine
 108523	feminine
 feminine
-108526	
+108527	feminine
+108531	neuter
 feminine
-
-108530	
-neuter
-
 108534	masculine/feminine
 feminine
-108537	
-feminine
-108540	
-feminine
-
-
-neuter
-
-
-feminine
-
+108538	feminine
+108541	feminine
+108544	neuter
+108547	feminine
 108550	neuter
 108552	feminine
 feminine
-
-108558	
-masculine
+108559	masculine
 108561	feminine
-
-108564	
 108567	feminine
 feminine
 masculine
 neuter
-
-masculine
-
-108575	
-
-masculine
+108572	masculine
+108577	masculine
 108580	neuter
-108582	
-masculine/neuter
+108583	masculine/neuter
 108585	feminine
-
-masculine/feminine
-masculine
-108591	neuter
+108587	masculine/feminine
+neuter
+108591	feminine
 masculine/neuter
 masculine
 108595	neuter
 neuter
 108598	masculine
-
 108601	feminine
-
-neuter
-
+108603	neuter
 108606	masculine/feminine
 masculine/neuter
-
-feminine
-108611	
-
-neuter
-
-108616	
-108618	
-
-
-108622	
+108609	feminine
+108613	neuter
+108619	feminine
 108625	neuter
 108627	masculine
-
-feminine
-
-feminine
-
-neuter
+108629	feminine
+108631	feminine
+108633	neuter
 108636	feminine
 feminine
 feminine
 108643	masculine
 feminine
-
 108650	feminine
-108652	
-
-
-
-108660	
-108662	
-
-masculine/neuter
+108664	masculine/neuter
 neuter
-
-
-
+108668	masculine/feminine
 masculine
 masculine
-108672	
-feminine
-
-neuter
+108673	feminine
+108675	neuter
 108677	neuter
-
-
-masculine
+108680	masculine
 neuter
-
 108684	feminine
 108688	feminine
 feminine
 feminine
 108692	masculine/feminine
-
-masculine/neuter
-
-
-neuter
+108694	masculine/neuter
+108697	neuter
 108699	masculine
 masculine
 108702	feminine
 feminine
 feminine
-
 108708	masculine/feminine
 neuter
-108711	
-feminine
-
+108712	feminine
 108715	neuter
 neuter
 neuter
-
 108720	feminine
 feminine
 feminine
@@ -64278,54 +32915,29 @@ feminine
 108731	feminine
 108733	neuter
 108735	feminine
-
-
-neuter
-
-108744	masculine
-
-
-
-108751	
+108738	neuter
 108754	neuter
 masculine
-
-masculine
+108757	masculine
 feminine
 feminine
 feminine
-
-
 108764	feminine
 masculine
-
-
 108771	masculine
 108773	masculine/feminine
 108776	neuter
 108780	masculine
 108782	neuter
-
-
-108787	
-108791	
-
-feminine
+108793	feminine
 108796	masculine
 108798	feminine
 108801	masculine
 masculine/feminine
-
+108804	masculine
+108807	feminine
 masculine
-108806	
-masculine/neuter
-masculine
-
-108811	
-
-
-neuter
-
+108814	neuter
 108823	feminine
 108825	neuter
 108827	masculine
@@ -64333,208 +32945,102 @@ neuter
 masculine
 masculine/feminine
 108832	neuter
-
 108837	masculine
 masculine
-
-
-108844	
-masculine/neuter
-108849	
-masculine
+108845	feminine
+108850	masculine
 108856	feminine
-
-
-masculine
-108861	
-108863	
+108859	masculine
+108864	feminine
+108875	masculine
+108878	masculine
+108882	masculine
+108884	feminine
 feminine
-
-108868	
-
-108873	
-
-masculine
-108877	
-masculine
-
-
-
-
-
-
-feminine
-108891	
-feminine
-108894	
-
-108898	
-108900	
-feminine
-
-neuter
-108905	masculine
+108892	feminine
+108901	feminine
+108903	neuter
+108905	neuter
 masculine
 neuter
 masculine
-
-
-
-
-
 108915	masculine
-
 108918	masculine
 masculine
-108921	
-neuter
+108922	neuter
 feminine
 108925	neuter
 feminine
-108928	
 108930	masculine/neuter
-
-
-
+108934	masculine
 masculine
-masculine
-108937	
-feminine
+108938	feminine
 108941	masculine
-
 108944	feminine
 neuter
-108947	
 108949	masculine/neuter
-
-masculine
+108951	masculine
 108954	masculine/feminine
-108956	
+108957	masculine
 masculine
 masculine
 masculine
-masculine
-
-neuter
+108962	neuter
 108964	feminine
-
+108966	masculine
+108968	masculine
 masculine
-
+108972	masculine
+108976	masculine/neuter
 masculine
-masculine
-
-
-masculine
-108974	
-
-masculine/neuter
-masculine
-
-108980	
-108983	
 108985	feminine
 108988	masculine
 masculine
 masculine
-
-
-
-
-
-
-masculine
-108999	
-109002	
-
-masculine
+108997	masculine
+109004	masculine
 109009	feminine
-
-masculine
+109011	masculine
 masculine/neuter
-
-masculine
+109014	masculine
 109016	masculine/feminine/neuter
-
-masculine
-
-109021	
+109018	masculine
 109024	masculine
 masculine
 109027	neuter
 109032	masculine
-
-109035	
-109038	
-masculine
-
-109042	
-
-
-109046	
-109048	
+109039	masculine
+109049	feminine
+109054	feminine
+109056	masculine
+109059	masculine/feminine
 feminine
-109051	feminine
-109053	
-feminine
-
-masculine
-109058	
-masculine/feminine
-feminine
-
-
-
-109066	
-masculine
+109067	masculine
 109069	masculine
-109072	
-
-109075	
-
-109078	
-
-feminine
-
-109084	
+109080	feminine
 109086	masculine
 109088	masculine
 109090	feminine
-109092	
-109097	
-
-feminine
+109099	feminine
 109103	neuter
 109105	masculine
 masculine
-
-
-masculine
+109109	masculine
 masculine
 109114	masculine
-109118	
-masculine
+109119	masculine
 neuter
-
 109123	feminine
-
-109127	
-
-neuter
-
-feminine
-109133	
-feminine
+109129	neuter
+109131	feminine
+109134	feminine
 feminine
 feminine
 masculine/feminine
-109139	
-masculine/neuter
-109146	
-feminine
+109140	masculine/neuter
+109147	feminine
 masculine
-
-
-neuter
+109151	neuter
 109154	feminine
 masculine
 masculine
@@ -64542,559 +33048,304 @@ masculine
 109160	masculine
 masculine
 109163	masculine
-
-masculine/feminine
+109165	masculine/feminine
 109167	feminine
 masculine
-
 109171	feminine
-
 109175	masculine
 masculine
 masculine
 masculine
 masculine
-109181	
-masculine
-109184	
-
-
+109182	masculine
 109188	feminine
-
-neuter
+109190	neuter
 109194	feminine
 109196	feminine
 109198	masculine
-
-feminine
+109200	feminine
 masculine
 masculine
 masculine
-109206	
-feminine
-
-109211	
-
-
-109216	
-109219	
-neuter
-
+109207	feminine
+109220	neuter
 109223	neuter
-
-
-109228	
-feminine
+109229	feminine
 109231	feminine
-
 109235	feminine
-
-
 109239	feminine
 feminine
 masculine
 109243	masculine
-109247	
-109249	
 109253	masculine
 109259	feminine
-109264	
+109265	feminine
 feminine
+109272	masculine
 feminine
-
-
-109270	
-
-masculine
-feminine
-109277	
-109279	
-109282	
-109284	
-109286	
 109288	feminine
-109291	
-masculine
-
-109295	
-masculine
-109298	
-
-feminine
-109302	
-masculine
+109292	masculine
+109296	masculine
+109300	feminine
+109303	masculine
 feminine
 neuter
 feminine
 109309	feminine
 109312	masculine
-109315	
-feminine
+109316	feminine
 masculine
-
-neuter
+109319	neuter
 feminine
 109322	masculine
 masculine
 masculine/neuter
-109326	
-109328	
-
-
-neuter
-109333	
+109331	neuter
 109335	feminine
 feminine
 masculine
-
-masculine/neuter
+109339	masculine/neuter
 109341	feminine
-
+masculine/feminine
 109344	feminine
-
-
-109350	
-
-109353	
-109356	
-109359	
-masculine
+109360	masculine
 feminine
 masculine
 masculine
 neuter
-
-neuter
+109366	neuter
 109369	feminine
-109373	
-
-neuter
-109377	
-feminine
-
+109375	neuter
+109378	feminine
 109381	neuter
 feminine
-
-109385	
-feminine
-
-
-neuter
-
-109392	
-feminine
-109395	
+109386	feminine
+109389	neuter
+109393	feminine
 109397	masculine
 109399	feminine
-109402	
-109405	
-
 109408	feminine
 109411	masculine
 feminine
-109415	
+109416	masculine
 masculine
-masculine
-109420	
-feminine
-109423	
-feminine
+109421	feminine
+109424	feminine
 109426	masculine
 109429	feminine
 neuter
-masculine/neuter
-109433	
-
-
 feminine
-109438	
-
-feminine
+109436	feminine
+109440	feminine
 109442	feminine
-109444	
-masculine
-109447	
-masculine
-
-neuter
-
-
-feminine
+109445	masculine
+109448	masculine
+109450	neuter
+109453	feminine
 109455	feminine
-109457	
-109459	
-feminine
+109460	feminine
 feminine
 feminine
 feminine
 109466	neuter
-
 109469	masculine
 feminine
 109472	masculine/feminine
 109474	neuter
-109477	
-feminine
+109478	feminine
 masculine/neuter
 masculine/feminine
 109484	feminine
-109486	
-
 109490	neuter
-
-feminine
+109492	feminine
 109495	neuter
-
-109500	
 109503	neuter
-
-feminine
+109505	feminine
 feminine
 neuter
-
-
-feminine
+109510	feminine
 masculine
 109514	neuter
 masculine/feminine
-
-109518	
-109523	
 109527	feminine
 109530	feminine
-
-
-109534	
-
-109540	
-
-masculine
-109544	
-
-neuter
+109542	masculine
+109546	neuter
 feminine
-
 109550	feminine
 109552	neuter
-
-neuter
-
+109554	neuter
 109558	feminine
 109560	feminine
 feminine
-
-
+109564	masculine
 masculine
-feminine
-
-feminine
-feminine
-
-109571	
-109573	
-
-
-neuter
+109567	feminine
+masculine
+109576	neuter
 109579	neuter
-109581	
-
-
-109586	
-neuter
-
-
+109587	neuter
+109590	feminine
 feminine
 feminine
-feminine
-109595	masculine
-
-
-109601	
-109603	
-feminine
+109604	feminine
 feminine
 109607	masculine/feminine
-109610	
-feminine
+109611	feminine
 feminine
 109615	feminine
 109618	masculine
-109620	
-neuter
-109623	
-masculine
-109626	
+109621	neuter
+109624	masculine
 109628	masculine/feminine
-
-
-feminine
-
-masculine
-109635	
-neuter
+109631	feminine
+109633	masculine
+109636	neuter
 109641	feminine
-
-109644	
-
-neuter
+109646	neuter
 109648	neuter
-
-neuter
-
+109650	neuter
 109653	feminine
 neuter
 feminine
 109658	masculine/feminine
-109660	
 109665	feminine
 109671	feminine
 109675	masculine
-
-neuter
+109677	neuter
 feminine
-109680	
-feminine
+109681	feminine
 109683	neuter
-
-neuter
+109685	neuter
 109689	masculine
-109691	
-
-109694	
-109696	
-
-109699	
-109702	
-
-neuter
+109696	masculine/feminine
+109704	neuter
 neuter
 feminine
-
 109710	neuter
 masculine
 feminine
 109714	masculine
-109717	
-109719	
+109720	feminine
+masculine
+109723	neuter
+109725	masculine/neuter
 feminine
-
-
-neuter
-
-masculine/neuter
-feminine
-
 109729	neuter
 feminine
 109732	feminine
 masculine
-neuter
-109738	
-
-neuter
-
-
+feminine
+109740	neuter
+masculine/feminine
 109747	feminine
-
-neuter
-
-
+109749	neuter
 109753	feminine
-
 109759	neuter
-109762	
-
-
-109766	
 109769	masculine
 109772	masculine/neuter
 feminine
-
-neuter
+109775	neuter
 masculine/neuter
 neuter
-
-
-feminine
-
-masculine/neuter
+109780	feminine
+109782	masculine/neuter
 masculine
-
-neuter
+109785	neuter
 feminine
-109790	
-feminine
+109791	feminine
 masculine/feminine/neuter
-109797	
-feminine
+109798	feminine
 feminine
 feminine
 109803	masculine
-
 109808	masculine
 109810	masculine/feminine
-
 109813	neuter
 masculine
-
-109817	masculine/neuter
+109817	feminine
 109819	feminine
-
-masculine/feminine
-109824	
-
-109827	
-109829	
-neuter
+109821	masculine/feminine
+109830	neuter
 feminine
 feminine
-109834	
 109838	feminine
-
-
 109845	masculine
 109847	feminine
 109849	masculine
 feminine
-
-
-feminine
-
+109853	feminine
+masculine
 109858	feminine
-
-
 109862	feminine
 109867	feminine
-
 109877	masculine/feminine
 masculine
 masculine
 masculine/feminine
 109882	feminine
-109884	
-feminine
-
-109889	
-
+109885	feminine
 109893	neuter
-
-masculine
+109895	masculine
 feminine
 masculine
-
-
-neuter
+109900	neuter
 feminine
-109904	
-feminine
+109905	feminine
 feminine
 feminine
 109909	feminine
 feminine
-109915	
-
-feminine
-
-109920	
+109917	feminine
 109924	feminine
-109927	
-neuter
-
-
-109932	
-masculine
-
-109936	
-feminine
-109939	
-
+109928	neuter
+109933	masculine
+109937	feminine
 109943	feminine
 109945	neuter
-109947	
-109953	
-
-
-109957	
-109960	
 109962	feminine
-
-
-
-
-
-109973	
-neuter
+109974	feminine
 109976	masculine
 109978	masculine
-
-
 109985	feminine
 masculine
-
-
-feminine
+109989	feminine
 masculine
-109993	
-masculine
+109994	masculine
 feminine
 masculine
 109998	feminine
 110004	masculine/feminine
 110006	feminine
 110009	masculine/feminine
-110014	
+110015	feminine
+110019	feminine
 feminine
-110017	
-
-feminine
-feminine
-
 110023	masculine
 masculine/feminine
-
 110029	feminine
-neuter
-110035	
-
-
-
-
+feminine
+110037	feminine
 110041	feminine
 feminine
-neuter
+feminine
 110045	feminine
-110047	
-110049	
-masculine
-110052	
-
-masculine
+110050	masculine
+110054	masculine
 neuter
 110057	feminine
-
-
-neuter
-110062	
-feminine
-
-
-
-feminine
-
-
+110060	neuter
+110063	feminine
+110065	feminine
+110067	feminine
 110071	feminine
 neuter
-
-neuter
+110074	neuter
 feminine
 110078	feminine
-
-masculine
-
-110083	
-feminine
-110088	
-neuter
+110080	masculine
+110084	feminine
+110089	neuter
 110093	feminine
 110096	masculine
 110100	feminine
@@ -65102,85 +33353,50 @@ neuter
 masculine
 feminine
 masculine
-
 110108	masculine
 feminine
 110111	feminine
 feminine
 110114	masculine
 masculine
-
-110118	
-
-
-
-110124	
-110129	
-feminine
-
-110133	
+110130	feminine
+110134	feminine
 feminine
 feminine
-feminine
-110138	
 110140	neuter
-
-neuter
+110142	neuter
 110145	feminine
-
-
-feminine
-
-masculine
+110148	feminine
+110150	masculine
 feminine
 masculine
-
 110155	feminine
 feminine
 neuter
 masculine
-110161	
-feminine
-110164	
-
+110162	feminine
+110166	masculine
 masculine
-masculine
-
 110172	feminine
-110174	
-
-feminine
-
+110176	feminine
 110180	neuter
-110183	
-
-
-
-
+110186	masculine
 110189	masculine/feminine
 feminine
-110192	
-neuter
-
-masculine
+110193	feminine
+110195	masculine
 masculine
 110200	feminine
-
-neuter
+110202	neuter
 masculine
 110205	feminine
 110207	feminine
-
 110210	feminine
 110212	neuter
 feminine
 110215	neuter
-110217	
-
-110221	
-masculine
-
-neuter
+110222	masculine
+110224	neuter
 feminine
 110228	neuter
 neuter
@@ -65189,296 +33405,144 @@ masculine
 masculine
 110234	neuter
 110236	masculine
-110240	
-
 110245	neuter
 110248	masculine
-
-110254	
-
-110258	
 110261	masculine/feminine
 masculine
-110264	
-feminine
-110267	
+110265	feminine
 110270	masculine
 masculine/feminine/neuter
-
-110274	
-
 110277	neuter
 110280	neuter
 110283	neuter
 110285	masculine
-
-feminine
-
+110287	feminine
 110291	feminine
-
-feminine
-
-110296	
-110301	
-
-110304	
-110308	
-110310	
-110314	
-feminine
-
-feminine
-
+110293	feminine
+110315	feminine
+110317	feminine
 110320	feminine
-110322	
-
+110323	masculine
 110329	neuter
 neuter
 110335	feminine
-110337	
-110339	
-
-110344	
 110347	feminine
-
-
-
 110352	feminine
-110355	
+110356	feminine
 feminine
-feminine
-
-masculine
-
+110359	masculine
 110363	masculine
 110365	masculine
 masculine
-110369	
-110371	
-
-masculine
-110376	
+110373	masculine
 110379	masculine
-110383	neuter
-
-masculine
-
-masculine/feminine
+110383	feminine
+110385	masculine
+110387	masculine/feminine
 neuter
-110391	
-
-
-
-masculine
-
+110395	masculine
 110398	masculine
 110400	masculine
-110402	
 110404	feminine
-
-masculine
-
-masculine
-
-110412	
+110406	masculine
+110408	masculine
 110414	masculine
 masculine
-
-110418	
-
-110422	
 110424	neuter
-
-110427	
 110429	masculine
 masculine
-
-masculine/neuter
+110432	masculine/neuter
 110434	neuter
 110437	masculine
 110439	masculine
-110441	feminine
-masculine/feminine
+110442	masculine/feminine
 neuter
-110445	
-110447	
-
-
-masculine
-
+110450	masculine
 110456	masculine/feminine
 masculine
-110460	
-110462	
-110464	
-110466	
 110468	feminine
-
 110471	feminine
 masculine
-110474	
-feminine
-
-
-110481	
-
-
-feminine
+110475	feminine
+110484	feminine
 masculine
-
-110488	
-110493	
-feminine
+110494	feminine
 110496	feminine
-
-masculine/feminine
+110498	masculine/feminine
 neuter
-
 110503	feminine
-110505	
-
-feminine
-110510	
-masculine
-110516	
-
-
-neuter
-
+110507	feminine
+110511	masculine
+110519	neuter
+110521	feminine
 feminine
 feminine
-feminine
-
-110526	
-110530	
-neuter
-
-110534	
-feminine
-
-110539	feminine
+110531	neuter
+110535	feminine
+110539	masculine
 masculine
 neuter
 110543	masculine
-110545	
-masculine
-110548	
+110546	masculine
 110552	masculine
 110556	masculine/neuter
 110558	masculine
 110561	masculine/neuter
 110564	feminine
-110571	
 110573	masculine/feminine
 110575	feminine
-
-
-
-masculine/feminine
+110579	masculine/feminine
 masculine
-110582	
-
-
-
-
+110587	feminine
 feminine
+110590	masculine
+feminine
+masculine
+masculine
+110597	feminine
+110604	masculine/feminine
 neuter
-
-masculine
-feminine
-masculine
-masculine
-
-110596	
-feminine
-
-
-110601	
-110603	feminine
-masculine/feminine
-neuter
-110608	
-110611	
-masculine
+110612	masculine
 110614	neuter
-110617	
-
 110620	feminine
-110625	
-
 110628	masculine
 feminine
-
-masculine
+110631	masculine
 110634	feminine
-110639	
-
-neuter
+110641	feminine
 110643	neuter
 neuter
-
-
-neuter
-
+110647	neuter
 110650	feminine
-110652	
-110655	
-110658	
-feminine
+110659	feminine
 masculine
-
-110664	
-masculine
+110665	masculine
 masculine/feminine
 masculine
-110669	
-
-
-
 110675	masculine
-
-
-110680	
-110683	
-
-
-
-110688	
+110684	masculine/feminine
 110691	feminine
 neuter
-
-masculine/neuter
+110694	masculine/neuter
 masculine
-
-feminine
+110697	feminine
 110700	masculine
-
-feminine
+110702	feminine
 masculine
-
-masculine
-110707	
+110705	masculine
 110709	neuter
-
-
 110713	masculine
 masculine/neuter
-
 110718	masculine
-110721	
-
-feminine
+110723	feminine
 masculine/feminine
 110726	masculine/feminine
 feminine
 110731	feminine
 neuter
-110736	
-
-
-feminine
-
-masculine
+110736	masculine/feminine
+110739	feminine
+110741	masculine
 feminine
 masculine
 masculine
@@ -65486,214 +33550,117 @@ masculine
 masculine
 masculine
 feminine
-110752	
-110754	
-
-feminine
-
-110761	
-110763	
-
-feminine
+110756	feminine
+110765	feminine
 110767	masculine
-110771	masculine/neuter
-110774	
-110776	
-masculine
+110771	feminine
+110777	masculine
 feminine
 masculine
 masculine
 110782	feminine
 110785	masculine
-110788	
-feminine
+110789	feminine
 masculine
-
-neuter
+110792	neuter
 feminine
 feminine
 110796	masculine
 masculine
 masculine/neuter
-110800	
-110802	
-
-neuter
+110804	neuter
 110807	masculine
 masculine
 masculine
-110811	
-
-neuter
-110815	
-feminine
+110813	neuter
+110816	feminine
 110819	masculine
-110821	
-
+110823	feminine
 feminine
 feminine
-feminine
-110827	
-feminine
-
-masculine/neuter
+110828	feminine
+110830	masculine/neuter
 110833	feminine
-
 110838	masculine/feminine
-
-
-110842	
-110844	
-
-neuter
-
-110849	
-feminine
-110853	
-masculine/neuter
+110846	neuter
+110850	feminine
+110854	feminine
 110857	feminine
-110862	
 110865	feminine
-110867	
-neuter
-
-110871	
-feminine
+110868	neuter
+110872	feminine
 110874	feminine
-
-neuter
-
-masculine
-110880	
+110876	neuter
+110878	masculine
 110882	neuter
-
-neuter
-110887	
-feminine
-110891	
-110894	
+110884	neuter
+110888	feminine
 110896	feminine
-
-
-feminine
-
+110899	feminine
+110901	masculine
 masculine
-masculine
-110904	
 110906	masculine
 110908	neuter
-
-110913	
 110915	masculine
 110917	neuter
 110920	masculine
-
-
-110924	
-masculine
+110925	masculine
 feminine
 masculine
-110929	
-
 110932	masculine/feminine
-
-
-
-masculine
-110938	
+110936	masculine
 110940	feminine
 110943	neuter
-110945	
-
-
-110949	
-neuter
-110953	
-masculine/neuter
-110957	
+110950	neuter
+110954	feminine
 110960	neuter
 feminine
 110963	feminine
-
-
+110966	feminine
 feminine
-feminine
-
-masculine
-110971	
-110973	
-feminine
-
-feminine
-
+110969	masculine
+110974	feminine
+110976	feminine
 110980	masculine
 110982	feminine
-110984	
-
+110985	feminine
 feminine
 110989	neuter
-110991	
-feminine
-110994	
-110996	
-
-masculine
+110992	feminine
+110998	masculine
 feminine
 masculine
-
-
-111005	
-neuter
-
-111009	
-
-neuter
+111006	neuter
+111011	neuter
 feminine
 111014	masculine
 masculine
 masculine
-
 111019	feminine
-111021	
 111023	feminine
-
-masculine
+111025	masculine
 feminine
 masculine
 masculine
 111030	feminine
-111034	
 111036	masculine
-
 111039	feminine
-
-
-masculine
-111046	neuter
-111049	neuter
-
+111042	masculine
+111046	feminine
+111049	feminine
 111053	feminine
-
 111056	feminine
-
-
-
+111060	feminine
 feminine
-feminine
-
-masculine
+111063	masculine
 masculine
 masculine/feminine
 feminine
-
-
-neuter
+111069	neuter
 masculine
-
+111072	masculine
 masculine
-masculine
-
-feminine
+111075	feminine
 feminine
 neuter
 111080	masculine
@@ -65703,138 +33670,78 @@ masculine
 111087	feminine
 masculine
 masculine
-111092	
-masculine
+111093	neuter
 neuter
 neuter
-
-111100	
-111103	
-neuter
-
-neuter
-111108	
-111111	
-
-
-111115	
+111104	neuter
+111106	neuter
 111117	feminine
 feminine
-
-
 111124	masculine
-
-
-111130	
-
-masculine
+111132	masculine
 masculine
 111137	neuter
-
 111140	feminine
 neuter
 masculine
-
-111145	
-
-masculine
+111145	masculine
+111147	masculine
 feminine
-111150	
 111152	masculine
 111154	neuter
 masculine
 masculine
 masculine
-
-
-111161	
 111163	neuter
-111165	
-
-feminine
+111167	feminine
 111169	feminine
 neuter
 masculine/feminine
 111173	feminine
 feminine
 111176	feminine
-
-masculine
-
-
+111178	masculine
+111180	feminine
 feminine
-111183	
 111185	masculine/neuter
 masculine/feminine/neuter
-111188	
-
-
-feminine
+111189	feminine
+111191	feminine
 111193	masculine/neuter
 111195	feminine
-111197	
 111199	feminine
-
-
-
-111207	neuter
-111209	
-neuter
+111207	feminine
+111210	neuter
 masculine
 111213	feminine
 masculine
-
-111217	
-111219	
-neuter
-
-
+111220	neuter
 111224	masculine
 masculine
-111227	
-feminine
-
-111231	
-feminine
-111235	
-111237	
-neuter
-111240	
-feminine
-111244	
-masculine
-
+111228	feminine
+111232	feminine
+111238	neuter
+111241	feminine
+111245	masculine
 111248	feminine
 masculine
-111253	
-feminine
-
+111254	feminine
 111259	feminine
 feminine
-
-masculine
+111262	masculine
 111265	feminine
-neuter
-
+feminine
 111269	feminine
-
-
-feminine
-
-masculine
+111272	feminine
+111274	masculine
 feminine
 masculine
 masculine
 masculine
-111281	
-111283	
+111284	feminine
 feminine
 feminine
-feminine
-111288	
-neuter
-
-
+111289	feminine
 111293	feminine
 feminine
 111297	masculine
@@ -65846,422 +33753,222 @@ masculine
 111305	masculine
 111307	feminine
 masculine
-
-masculine/feminine
+111310	masculine/feminine
 111312	masculine
-
-masculine/feminine
-111317	
-
-111320	
+111314	masculine/feminine
+111321	feminine
 feminine
 feminine
-feminine
-111325	
-
-111330	
 111333	masculine
-
-111336	
-feminine
-
-masculine
-111341	
-masculine
-
+111337	feminine
+111339	masculine
+111342	masculine
 111349	feminine
-111351	
-111353	
-feminine
+111354	feminine
 111357	masculine/neuter
 feminine
-
 111362	feminine
 feminine
 masculine
 111367	masculine
 masculine
-111370	
-feminine
-111373	
-
-
-masculine/neuter
-111379	
-masculine
+111371	feminine
+111376	masculine/neuter
+111380	masculine
 111382	feminine
-
-neuter
-
-111387	
-111389	
-masculine
+111384	neuter
+111390	masculine
 111392	masculine
-
+111394	feminine
 feminine
 feminine
-feminine
-
-111399	
-
-neuter
-111403	
-111406	
-masculine
-
-111410	
-111412	
-111414	
+111401	neuter
+111407	masculine
+111415	masculine
 masculine
 masculine
-masculine
-
-feminine
-
-111423	
+111419	feminine
+111423	masculine/feminine
 masculine/neuter
 111426	masculine
-
 111433	feminine
-111436	
-
-
 111440	masculine/feminine
-
-
-111444	
-
+111446	masculine
 feminine
-feminine
-111450	
-
-111453	
-
 111459	feminine
 111463	masculine
-
-neuter
+111465	neuter
 feminine
-
-
-
-
-feminine
-111473	
+111471	feminine
 111475	neuter
-
-
-
 111481	masculine/feminine
-111484	
-
 111487	feminine
-111489	
-
-
-
-masculine/feminine
-
-
-111499	
+111493	masculine/feminine
 111501	masculine/feminine
 masculine
-
-
-
-111508	
-masculine
+111505	masculine/feminine
+111509	masculine
 111512	neuter
-
-111515	
-
-masculine
+111517	masculine
 masculine
 masculine/neuter
-
-
-feminine
+111522	feminine
 111525	neuter
-111527	
 111531	masculine
-
-111534	
 111536	masculine/feminine
-
-
-
-
+111541	feminine
 feminine
-neuter
 111544	feminine
-111546	
-masculine
+111547	masculine
 111549	neuter
-
-
 111553	masculine
-
-neuter
-
-
-
-
+111555	neuter
 111563	masculine
 masculine
-111566	
-111568	
-111570	
-neuter
-111573	
+111571	feminine
 111575	masculine
 masculine
 masculine
-
 111580	feminine
 masculine
-111583	
-
-feminine
+111585	feminine
 111587	masculine
-111590	
-
+111591	feminine
 feminine
-111594	
-feminine
-111597	
-masculine
+111595	feminine
+111598	masculine
 feminine
 masculine
 masculine
-
 111604	feminine
 111607	masculine
 masculine
-111610	
-neuter
+111611	neuter
 masculine
 feminine
 111615	masculine
 masculine
 111619	feminine
-111623	
-feminine
+111624	feminine
 111626	masculine
-
-
-neuter
+111629	neuter
 111632	masculine
 masculine
-
-masculine/neuter
+111635	masculine/neuter
 feminine
-111639	
-
-
-masculine
-111644	
-masculine/feminine
-
+111642	masculine
+111645	masculine/feminine
 111648	feminine
 masculine
-111653	
 111658	feminine
 masculine/neuter
-
-
-feminine
+masculine
+111662	feminine
 neuter
-111665	
-feminine
+111666	feminine
 111671	feminine
-111673	
-
+111675	feminine
 feminine
-feminine
-111679	
 111683	masculine/neuter
-
-111686	
-
-feminine
+111688	feminine
 111692	masculine
 masculine
 111695	neuter
 masculine/neuter
-111698	
-
-
-
-111703	
-masculine
+111704	masculine
 masculine
 masculine
 masculine
 masculine/feminine
 neuter
-
-
 masculine
-111714	
-masculine/feminine/neuter
+111712	masculine
+111715	masculine/feminine/neuter
 masculine
-
-
-
-111722	
 111726	masculine/feminine/neuter
-111728	
-111732	
-111737	
-111739	
-neuter
+111740	neuter
 masculine
-
 111744	feminine
-
-
 111748	neuter
 111750	feminine
-
-masculine/feminine/neuter
+111752	masculine/feminine/neuter
 neuter
 masculine
-
-
-feminine
-
-
-masculine/neuter
+111757	feminine
+111760	masculine/neuter
 111762	masculine/neuter
 masculine
-
-masculine
+111765	masculine
 feminine
-
-neuter
-111770	
-111772	
-feminine
+111768	neuter
+111773	feminine
 111775	masculine
 neuter
 neuter
 111779	masculine
 111781	feminine
-
-
-
-111786	
-
-feminine
+111788	feminine
 111791	feminine
-111793	
-masculine
+111794	masculine
 feminine
-
-111799	
-111801	
-masculine/neuter
+111802	masculine/neuter
 masculine
 masculine
 masculine
 111808	feminine
 masculine
-111811	
+111812	masculine
 masculine
+111820	feminine
 masculine
-
-
-111819	
-feminine
-masculine
-
-
-
-neuter
-111827	
-
-
-masculine
+111825	feminine
+111830	masculine
 masculine/neuter
-
-masculine
+111833	masculine
 masculine
 111837	feminine
 111839	masculine/neuter
 feminine
-
 111844	neuter
-
-feminine
+111846	feminine
 masculine
-
 111850	masculine
 feminine
-111855	
-neuter
-
+111856	neuter
 111859	feminine
-
 111863	feminine
 111865	feminine
 111868	feminine
-111870	
-111873	
+111874	feminine
 feminine
-feminine
-
-
-feminine
-
-
-
+111878	feminine
 111884	feminine
 feminine
-
-111889	
-
-111892	
-111894	
 111898	feminine
 111900	masculine
 111902	masculine/feminine
-111905	
-111907	
 111909	masculine
-111911	
 111913	neuter
 111916	feminine
 feminine
 feminine
 feminine
-
 111922	feminine
-
-masculine
+111924	masculine
 111927	feminine
-
-
-
-
-neuter
+111932	neuter
 111934	masculine
 masculine
-
-
-
+111938	feminine
 feminine
 111943	neuter
 111945	masculine/feminine
-
-
-masculine
+masculine/feminine
+111948	masculine
 feminine
 neuter
 111953	feminine
-
-111957	
-
-feminine
+111959	feminine
 111961	masculine
 111964	masculine
 111967	neuter
@@ -66270,83 +33977,48 @@ feminine
 masculine
 masculine
 masculine
-111977	
 111980	neuter
 masculine
 masculine/feminine/neuter
-
-masculine
-
-
+111984	masculine
 111990	feminine
-
-
-111996	
-feminine
+111997	feminine
 111999	feminine
 112004	masculine
-
-112007	
 112009	masculine
 feminine
-112012	
-112017	
-
-masculine/neuter
-
-feminine
+112019	masculine/neuter
+112021	feminine
 112023	feminine
 112025	feminine
 masculine
-
 112030	neuter
-
-112033	
 112035	masculine/feminine/neuter
 112037	masculine
-
 112040	feminine
 feminine
 112043	masculine
 feminine
-112046	
-feminine
-112049	
-
-
-112055	
-
-feminine
-112062	
-feminine
+112047	feminine
+112050	feminine
+112057	masculine
+112063	feminine
 112066	masculine
 112069	masculine
-112072	
 112074	feminine
 112077	feminine
-
-feminine
-
-112083	neuter
+112079	feminine
+112083	feminine
 112085	feminine
 masculine
-112088	
-feminine
-112091	
-112094	
-feminine
+112089	feminine
+112095	feminine
 masculine
 masculine
-112099	
-masculine/feminine
-
+112100	masculine/feminine
 112103	masculine/neuter
-
-
-
 112109	masculine/feminine
-112114	
-neuter
+112115	neuter
 neuter
 masculine
 neuter
@@ -66355,69 +34027,39 @@ masculine
 neuter
 masculine
 feminine
-
-masculine/feminine/neuter
+112125	masculine/feminine/neuter
 neuter
 neuter
-
-masculine/feminine/neuter
-
-masculine
+112129	masculine/feminine/neuter
+112131	masculine
 neuter
 112134	neuter
-
-
-
-feminine
-112140	
+112138	feminine
 112142	masculine/feminine
-
-masculine/feminine/neuter
-
-112147	
-112149	
-feminine
+112144	masculine/feminine/neuter
+112150	feminine
 neuter
-
-masculine
+112153	masculine
 neuter
-
-masculine
-112158	
-neuter
-
-
-
-
+112156	masculine
+112159	neuter
 112166	feminine
 feminine
-112169	
-feminine
-112172	
-masculine
-
-112176	
-112179	
-
-112183	
-masculine
+112170	feminine
+112173	masculine
+112184	masculine
 112186	masculine
 neuter
 112190	masculine
 masculine/feminine
-112197	
-feminine
+112198	feminine
 feminine
 112204	neuter
-112206	
 112211	feminine
 masculine
 112215	feminine
-
-masculine/neuter
-
-112223	
-masculine
+112217	feminine
+112224	masculine
 masculine
 112227	feminine
 masculine/feminine/neuter
@@ -66427,88 +34069,48 @@ masculine
 masculine
 112235	neuter
 masculine
-
 112240	feminine
-
-feminine
-
-
-masculine/neuter
+112242	feminine
+112245	masculine/neuter
 masculine
 feminine
-
-
-112253	
 112255	masculine
-112257	
-
-
-
-
-
 112264	neuter
 112268	feminine
 neuter
 112275	feminine
-112277	
+112277	masculine
 112282	feminine
-112286	
-feminine
-112289	
-112292	
-112294	
-112297	
-112300	
-feminine
-112305	
-
-
-
-neuter
+112287	feminine
+112301	feminine
+112305	masculine
+112309	neuter
 masculine
-112312	
-112317	
 112320	masculine/neuter
-
-feminine
+112322	feminine
 masculine/feminine/neuter
 feminine
 112326	masculine
-
-
-
 112332	neuter
 masculine
-112335	
-
-112338	
-feminine
+112339	feminine
 112341	masculine/neuter
 112345	feminine
-
-masculine
+112347	neuter
 112349	neuter
 neuter
 112353	masculine/feminine
-
-feminine
+112355	feminine
 masculine
-112359	neuter
-
-neuter
+112359	feminine
+112361	neuter
 112364	feminine
 112368	masculine
-
 112371	masculine
 masculine
-112375	
 112380	feminine
 feminine
-
-112386	
 112388	masculine/feminine
-112390	
-
 112393	masculine
 112395	feminine
 feminine
@@ -66526,344 +34128,183 @@ feminine
 masculine
 112423	feminine
 masculine
-112426	
-112429	
-112431	
-
-112434	
-neuter
-
+112435	neuter
 112439	masculine
 112441	feminine
 112443	feminine
-
+112445	feminine
+112456	feminine
 feminine
-112447	
-112449	
-112452	
-
-112455	
-feminine
-feminine
-
-
-
-
-
-
-
-feminine
-
-feminine
-
-112470	
-
-feminine
-
-feminine
-
-feminine
+112465	feminine
+112467	feminine
 masculine
-
-
-
-
+112472	feminine
+112474	feminine
+112476	feminine
+masculine
 112483	masculine
-112485	
-neuter
+112486	feminine
 feminine
-
 112490	masculine/neuter
-
-
 112494	feminine
-
-
-112498	
-
-
-feminine
-
-feminine
-112505	masculine/neuter
-
-masculine
-112509	
-feminine
-
-neuter
+112501	feminine
+112503	feminine
+112505	feminine
+112507	masculine
+112510	feminine
+112512	neuter
 112515	masculine
 112517	masculine
-
-112522	
 112524	masculine
-
-
-
-
 112530	masculine
-
 112533	feminine
-
 112536	feminine
-
-feminine
-
-
+112538	feminine
+112540	feminine
 feminine
 feminine
-
-feminine
+112544	feminine
 112546	feminine
-
 112549	masculine/feminine
 feminine
-112552	
-
-
 112556	neuter
 112558	masculine
 112562	feminine
-112565	
 112569	masculine/feminine
-
-
-neuter
+masculine/feminine
+112572	neuter
 feminine
 112576	feminine
-112579	
-
-neuter
-112583	
+112581	neuter
 112591	feminine
 feminine
 112594	feminine
 feminine
-
 112598	feminine
-
-
 112602	feminine
-
 112605	masculine/feminine
 feminine
 masculine/feminine/neuter
 112610	masculine/feminine/neuter
-
-
-112618	
-masculine
+112619	masculine
 feminine
-
-masculine
+112622	masculine
 masculine/feminine
 masculine
 feminine
 feminine
 masculine/neuter
-112630	
 112632	masculine/neuter
 feminine
-
-112636	
-
-
-feminine
-112641	
-
-112645	
-112649	
-feminine
+112639	feminine
+112650	feminine
 112652	feminine
-
-112656	
-
-masculine
-
-masculine/neuter
+112658	masculine
+112660	masculine/neuter
 feminine
 neuter
-
 112665	feminine
-112668	feminine
 112671	feminine
 masculine/neuter
 feminine
 feminine
 feminine
-
-neuter
+112677	neuter
 112679	feminine
-
-112682	
-112684	
-feminine
+112685	feminine
 neuter
 masculine
 neuter
 112691	feminine
-
 112695	masculine/feminine
-
-112698	
-masculine/neuter
+112699	masculine/neuter
 feminine
-
-neuter
-112704	
-
-
-
-masculine
-
-masculine/feminine
+112702	neuter
+112708	masculine
+112710	masculine/feminine
 feminine
-
-feminine
-
+112713	feminine
 112717	masculine
 112719	feminine
 feminine
-
 112724	feminine
-
-masculine
+112726	masculine
 masculine
 112730	feminine
-
 112734	masculine
-112736	
-
 112739	feminine
-
 112742	feminine
 neuter
 112745	neuter
-
-
 112749	masculine
 masculine
-112752	
-
-neuter
-
+112754	neuter
 112757	feminine
 masculine
-
-112761	
-masculine
-
-112765	
-masculine
+112762	masculine
+112766	masculine
 masculine/feminine
-112770	
-112772	
-
+112770	masculine/feminine
 112775	masculine
-112779	
-
-
-neuter
+112780	masculine/feminine
+112782	neuter
 112784	masculine
 masculine
 112787	feminine
 feminine
 masculine
-
-feminine
-
+112791	feminine
 112796	masculine
-
 112799	feminine
-
-112802	
-112804	
-112806	
-masculine
+112807	masculine
 neuter
-
-112811	
-
-neuter
-112815	
-neuter
+112813	neuter
+112816	feminine
 112820	feminine
 feminine
-
+112823	feminine
 feminine
 feminine
 feminine
 feminine
-feminine
-
-
-feminine
-
+112830	feminine
 112833	feminine
-112836	
 112839	neuter
 112841	neuter
 neuter
 112845	neuter
-
-masculine
-112849	
-112852	
-
-neuter
+112847	masculine
+112854	neuter
 masculine
 112857	masculine/feminine
 masculine
 feminine
-
-
-112863	
-masculine
-112866	
-
-neuter
+112864	masculine
+112868	neuter
 112870	feminine
 feminine
-
-masculine
+112873	masculine
 112875	masculine
 112877	masculine
 masculine
-
-
-112882	
-
-
-112886	
-masculine
-
+112884	masculine
+112887	masculine
 112891	masculine
 112893	feminine
 112895	feminine
-
-112898	
-
-masculine/feminine
-
+112900	masculine/feminine
 112903	masculine
-112905	
-
-112908	
-masculine
+112909	masculine
 feminine
 masculine
 masculine
-112914	
 112916	feminine
 feminine
 112920	masculine
-
-masculine
-
-feminine
+112922	masculine
+112924	feminine
 112926	feminine
-
-masculine/neuter
+112928	masculine/neuter
 112932	feminine
 feminine
 feminine
@@ -66873,28 +34314,20 @@ feminine
 112939	neuter
 112941	feminine
 112943	feminine
-
 112948	feminine
 112953	feminine
 feminine
-
-feminine
-112960	
-112963	
-feminine
-
-neuter
-
+112956	feminine
+112964	masculine
+112966	neuter
 112970	feminine
 112975	masculine
 112979	masculine/neuter
-
 112985	feminine
 feminine
 112989	feminine
 112991	masculine/neuter
 112993	feminine
-
 112997	feminine
 feminine
 113001	feminine
@@ -66902,789 +34335,449 @@ feminine
 113004	feminine
 feminine
 masculine
-
-113010	
-113015	
-
-113020	
 113022	neuter
 feminine
-
-
 113028	feminine
-113030	
-113033	
 113035	masculine
 neuter
-113039	
 113041	masculine/neuter
 feminine
-
 113049	feminine
 feminine
-
+masculine/feminine
 feminine
 masculine/feminine
-
-
-
-neuter
-
+113055	masculine/feminine
+113057	neuter
 113060	neuter
 masculine
 113063	masculine
 masculine
-
-113067	
-masculine/neuter
+113068	masculine/neuter
 113071	feminine
 feminine
-
-
 113077	neuter
-113079	
 113081	feminine
-
-masculine
+113083	masculine
 feminine
 masculine
 masculine
 113088	masculine
 masculine/feminine/neuter
-
-masculine
+113091	masculine
 masculine/feminine
 113095	masculine
 masculine
 masculine
 feminine
-
 113101	masculine
 feminine
-
-masculine
-113106	
-feminine
+113104	masculine
+113107	feminine
 masculine
 masculine
 masculine/feminine
 neuter
-
 113114	feminine
-feminine
-
 masculine
-113119	
+113117	masculine
 113121	feminine
 neuter
 feminine
-113126	
-
-113130	
+113131	masculine
+113140	neuter
+113143	masculine/feminine
 masculine
-113135	
-
-113139	
-neuter
-
-
-masculine/feminine
 masculine
-
-
-113150	
 113152	masculine/neuter
 113156	masculine
 neuter
 neuter
 masculine
-
 113162	masculine
-
 113167	feminine
-
 113172	masculine
 113174	feminine
-
-feminine
+113176	feminine
 113178	feminine
-113183	
-masculine
-
-113189	
+113184	masculine
 113192	feminine
 113195	masculine
 masculine
-neuter
+feminine
 113199	neuter
 113201	feminine
 feminine
-113204	
-masculine/neuter
+113205	masculine/neuter
 masculine
 113211	masculine
-
-
-neuter
+113214	neuter
 113217	masculine
 masculine
-
-masculine
+113220	masculine
 feminine
 feminine
-
-
-neuter
-113227	
-
+113225	neuter
+113229	feminine
+113231	feminine
 feminine
-
+113234	neuter
+113238	masculine/neuter
 feminine
-feminine
-
-neuter
-
-113237	
-masculine/neuter
-feminine
-
 113243	masculine
 113246	feminine
 masculine
-
-
-113251	
-feminine
+113252	feminine
 neuter
-
-feminine
-113257	
-feminine
-113260	
-
-113265	
-neuter
-
-
-113270	
-113273	
-feminine
-
-113279	
-113281	
-
+113255	feminine
+113258	feminine
+113266	neuter
+113274	feminine
 113285	masculine/feminine
-
-
-
-113291	
-neuter
+113292	neuter
 masculine
-113295	
-
-neuter
+113297	feminine
 113300	masculine/neuter
-
-masculine
-
+113302	masculine
 113306	masculine/feminine
 masculine
 113310	feminine
-
-113314	
-113317	
-113319	
+113317	feminine
 113321	neuter
-
-masculine
+113323	masculine
 feminine
 113326	masculine
 113328	masculine/feminine
 neuter
-
-masculine
-
-113334	
+113331	masculine
 113336	neuter
-
 113339	masculine/feminine
 113342	feminine
 feminine
-
-
-neuter
+113346	neuter
 113348	feminine
-
-
-masculine
-113354	
+113351	masculine
 113356	feminine
 masculine/feminine
-
-masculine/neuter
+113359	masculine/neuter
 masculine
-113362	
-masculine/feminine/neuter
+113363	masculine/feminine/neuter
 feminine
-113367	neuter
+113367	feminine
 113369	feminine
-
-masculine
+113371	masculine
 feminine
 masculine
 masculine
 masculine/neuter
 113381	feminine
 113383	feminine
-neuter
-
-113387	
-masculine
-
-
+feminine
+113388	masculine
 113398	masculine/feminine
 113400	feminine
-
-113403	
-
-
-113411	
-masculine/feminine
+113412	masculine/feminine
 113416	masculine
-
-
 113421	masculine/feminine
 masculine/neuter
-
-
-
-feminine
+113426	feminine
 113428	masculine/neuter
-113430	
-feminine
-113433	
-
-
-masculine/neuter
+113431	feminine
+113436	masculine/neuter
 masculine
 113439	feminine
 113441	masculine
-neuter
-113444	masculine
-
-masculine/neuter
-
-masculine/feminine
-
-113451	
-
-113455	masculine
-
-
 feminine
+113444	masculine
+113446	masculine/neuter
+113448	masculine/feminine
+113455	masculine
+113458	feminine
 feminine
 113463	masculine
 113465	masculine
 masculine
 masculine
-
-113471	
 113477	feminine
 masculine
-
-
-
-113483	
-feminine
-
-
-113489	
+113484	feminine
+masculine
 113491	neuter
 masculine
 masculine
 113495	masculine
-
-masculine
-
-feminine
-
-feminine
+113497	masculine
+113499	feminine
+113501	feminine
 113503	feminine
-
-masculine
-
-neuter
+113505	masculine
+113507	neuter
 113513	masculine
-
-
-
-113518	
-
-masculine/neuter
+113520	masculine/neuter
 masculine
 113523	neuter
 113526	masculine/neuter
-neuter
+feminine
 feminine
 masculine/feminine
 feminine
-
-masculine/neuter
-113535	
-113539	
-masculine
-
-masculine
+113532	masculine/neuter
+113540	masculine
+113542	masculine
 113544	masculine
 masculine
-113550	
-masculine
-113553	
-
-113556	
-masculine
-113560	
-masculine/feminine
-
+113551	masculine
+113557	masculine
+113561	masculine/feminine
 113564	masculine
 masculine
-
-
+masculine
 113569	neuter
 neuter
-
-neuter
+113572	neuter
 feminine
 masculine
-113576	
+113577	masculine
+113582	masculine
 masculine
-
-
-113581	
-masculine
-masculine
-
-
-masculine/neuter
-
+113586	feminine
 113589	masculine
 neuter
-
-masculine
-
-113596	
+113592	masculine
 113598	neuter
 masculine
-
-113602	
-
-neuter
-
-masculine/feminine
-
-masculine
-113610	
-neuter
-
-113614	neuter
+113604	neuter
+113606	masculine/feminine
+113608	masculine
+113611	neuter
+113614	feminine
 113616	masculine
-
-neuter
-113620	
-
+113618	feminine
 113624	feminine
-113627	
+113628	masculine/neuter
+masculine
+113631	feminine
 masculine/neuter
 masculine
-
-feminine
-masculine/neuter
 masculine
-masculine
-113636	
-113640	
-
-
-113644	
-
-
-113648	
-masculine/feminine
-
-
+113649	masculine/feminine
 113653	masculine
-
-113658	
-masculine
+113659	masculine
 feminine
-
-113663	
-
-neuter
+113663	masculine/feminine
+113665	neuter
 masculine
 113670	neuter
-
-masculine
+113672	masculine
 feminine
-
-masculine
+113675	masculine
 masculine
 neuter
-
-
-neuter
+113680	neuter
 113682	neuter
 neuter
 113687	feminine
 feminine
-113690	
-feminine
-
-
-masculine/feminine
-113696	
-feminine
+113691	feminine
+113694	masculine/feminine
+113697	feminine
 113699	masculine
 113701	neuter
-
-feminine
-113705	
-feminine
+113703	feminine
+113706	feminine
 113708	masculine
-113712	
 113714	feminine
 113716	masculine
 masculine/neuter
 neuter
 113721	masculine/neuter
-113723	
 113725	masculine
-113729	
-neuter
-
-
+113730	neuter
 113737	masculine
 113740	neuter
-113743	
-feminine
+113744	feminine
 113746	masculine
-113749	
-masculine
-
+113750	masculine
 113754	feminine
-
 113757	neuter
 neuter
 feminine
 113761	neuter
-
 113764	feminine
 113766	feminine
 113768	neuter
-113770	
-
-neuter
-113774	
-feminine
+113772	neuter
+113775	feminine
 masculine
 113778	masculine/feminine
-113781	
-113785	
-
-masculine
+113787	masculine
 masculine/feminine
-
-
-
-masculine
+113792	neuter
 neuter
 masculine
 masculine
 feminine
 113798	feminine
 feminine
-
-
-113805	
-
-
-feminine
+113808	feminine
 masculine/neuter
 113811	masculine
-
-feminine
+113813	feminine
 feminine
 feminine
 113817	feminine
 113820	feminine
-
-masculine
-
-
-feminine
+113822	masculine
+113825	feminine
 masculine
 113828	masculine
-
-
-113832	
-masculine/feminine
+113833	masculine/feminine
 113837	neuter
 neuter
-
 113841	neuter
 113844	masculine
 masculine
-
-neuter
+113847	neuter
 masculine
 113850	feminine
-
-
-feminine
-113856	
-113858	
-
+113853	feminine
 113863	neuter
-
 113866	neuter
 neuter
-113870	
-
-
-
-feminine
+113874	feminine
 113876	masculine
 113880	masculine
 feminine
-
-
-113886	
-masculine/neuter
+113887	masculine/neuter
 masculine/feminine
-
-masculine/feminine
-113893	
-masculine/feminine
-
+113890	masculine/feminine
+113894	masculine/feminine
 113897	masculine
 masculine/feminine
-113901	
-
+113901	masculine
 113905	masculine/neuter
 feminine
-113914	
-
-113918	
+113919	masculine
 masculine
-masculine
-
-feminine
+113922	feminine
 feminine
 113927	feminine
 113929	feminine
-
-masculine
+113931	masculine
 113933	masculine
-113936	
-
-feminine
+113938	feminine
 113940	feminine
 neuter
 masculine
-113947	
-masculine
-113952	
-
-feminine
+113948	masculine
+113954	feminine
 feminine
 113958	neuter
-113960	
-113964	
-
-
-masculine/feminine
+113967	masculine/feminine
 feminine
 113970	feminine
 neuter
-113974	masculine/neuter
-
+113974	feminine
 113977	feminine
 neuter
 113983	masculine
-
-feminine
-
-masculine
-
-feminine
-
-feminine
-
-feminine
-
-
-
-
+113985	feminine
+113987	masculine
+113989	feminine
+113991	feminine
+113993	feminine
 114002	feminine
-114005	
-feminine
-
-114009	
-114015	
-114018	
-masculine
+114006	feminine
+114019	masculine
 masculine
 114024	masculine
-114026	
-114028	
-masculine/neuter
+114029	masculine/neuter
 masculine
-
-masculine
+114032	masculine
 114034	feminine
-114037	
-
 114040	neuter
-114046	
-
 114052	masculine
-
-
-114057	
-
-
+114060	feminine
+114063	neuter
 feminine
-114062	
-neuter
+114068	feminine
 feminine
-
-
-
-feminine
-neuter
-114072	
-masculine/neuter
+114073	masculine/neuter
 masculine
 feminine
 neuter
 114079	masculine
 114081	feminine
-114085	
 114087	feminine
-114089	
-114091	
 114094	masculine
-
-neuter
-114099	masculine
+114096	neuter
+114099	neuter
 neuter
 masculine
-114103	
-
-
-neuter
+114104	masculine/feminine
+114106	neuter
 114108	masculine
 masculine
-
-114112	
 114115	masculine
 114118	feminine
 neuter
 114122	feminine
 neuter
 masculine
-114128	
-
+114128	masculine/feminine
+masculine/feminine
 masculine
 masculine
 masculine
-
-
+114134	feminine
 feminine
 114140	masculine
-
 114144	feminine
-
-
-
-
-feminine
+114149	feminine
 feminine
 feminine
 neuter
-
-114159	
 114162	feminine
-114165	
-
-114170	
-114173	
-
-masculine/neuter
+114175	feminine
 masculine
 neuter
 masculine
 114181	feminine
-
-masculine
-
+114183	masculine
 114186	neuter
 114189	masculine
 masculine
 114193	masculine
-
 114196	masculine
 neuter
 114205	masculine
-
 114208	masculine
 114212	neuter
-
 114215	masculine
 masculine
-
-feminine
-
-feminine
+114218	feminine
+114220	feminine
 masculine
 masculine/feminine
 feminine
-
-neuter
+114225	neuter
 114227	masculine
-
 114230	feminine
 114234	feminine
 neuter
 masculine
-114240	
-114244	
-
-114250	
-
-114254	
-feminine
+114255	feminine
 masculine
-
-feminine
+114258	feminine
 feminine
 114263	masculine/neuter
 masculine
-114266	
-
+114268	masculine
+114274	feminine
 masculine
-114273	
-feminine
-masculine
-114277	
-
-masculine
+114279	masculine
 114282	neuter
-
-
-114286	
-masculine
-114289	
+114287	masculine
 114291	neuter
 114294	feminine
 feminine
@@ -67693,140 +34786,82 @@ masculine
 masculine
 feminine
 114301	feminine
-114303	
-neuter
+114304	neuter
 masculine
 masculine
-
-neuter
+114308	neuter
 114310	neuter
 neuter
-114314	
-masculine
-114317	
-114320	
-
-
-feminine
+114323	feminine
 masculine
 feminine
-114329	
-114332	
-masculine
+114333	masculine
 neuter
 114336	masculine
 114338	masculine
-114340	
-114344	
 114346	masculine/neuter
 114352	masculine
 neuter
 neuter
-114356	
-
-114360	
 114362	masculine
 masculine
-
-114366	
-masculine/neuter
-114369	
-
+114367	masculine/neuter
 114372	feminine
 neuter
 114375	neuter
 114377	feminine
 feminine
-
 114382	feminine
 114384	feminine
-
 114388	masculine
 114393	masculine
-114395	
 114397	masculine/feminine
-114399	
-
 114402	neuter
 masculine
-114408	
-masculine/feminine
+114409	masculine/feminine
 114413	masculine
 114417	masculine
 114420	masculine
 masculine
-
-
-114425	
-feminine
+114426	feminine
 114429	feminine
 114431	masculine
 neuter
 114435	masculine
 masculine
-
 114439	feminine
 neuter
-114442	
-feminine
+114443	feminine
 114446	feminine
 114449	feminine
 masculine/neuter
 114453	masculine
 masculine/feminine
-114457	
-masculine/feminine/neuter
+114458	masculine/feminine/neuter
 114461	masculine
 masculine/feminine/neuter
 114465	neuter
-
 114468	masculine
-
-
-114472	
-
-masculine
+114474	masculine
 feminine
 neuter
 masculine
-114480	
-
-114485	
-
-neuter
+114487	neuter
 114490	masculine
 masculine
-
+114493	masculine
+feminine
+114500	feminine
+114502	neuter
 masculine
-feminine
-114496	
-
-
-
-feminine
-
-neuter
+114515	masculine/feminine
+114523	neuter
 masculine
-
-114507	
-114510	
-
-
-
-
-masculine/feminine
-114522	
-neuter
-masculine
-
+114526	feminine
 feminine
-feminine
-
-114530	
 114533	masculine/feminine
 neuter
-114536	
-neuter
+114537	neuter
 masculine
 masculine
 masculine/feminine/neuter
@@ -67838,51 +34873,31 @@ masculine
 feminine
 masculine
 masculine/feminine/neuter
-
-neuter
+114550	neuter
 neuter
 neuter
 masculine/feminine
 masculine/feminine
 masculine/feminine/neuter
 neuter
-
-
 114561	masculine/neuter
-
-
-masculine/feminine
-114567	
-
-
-feminine
-
+114564	masculine/feminine
+114570	feminine
 114575	masculine
-114577	
-114580	
-
 114583	masculine
 114585	masculine
-
 114588	masculine
-114590	
-
 114593	masculine
 114595	masculine/neuter
 114597	neuter
 masculine
-
-masculine/feminine/neuter
+114600	masculine/feminine/neuter
 feminine
-
-
-masculine/feminine
-
-neuter
+114604	masculine/feminine
+114606	neuter
 masculine/feminine
 neuter
-
-masculine
+114610	masculine
 114612	masculine
 feminine
 114616	feminine
@@ -67890,25 +34905,16 @@ feminine
 feminine
 114621	masculine/feminine
 114624	masculine/feminine
-
-114627	
-
-114630	
-
-feminine
+114627	masculine/feminine
+114632	feminine
 masculine
-114636	
 114639	feminine
 feminine
 114642	feminine
 masculine
 feminine
-114646	
-114651	
 114653	masculine
-
-
-neuter
+114656	neuter
 114658	masculine
 masculine
 114661	feminine
@@ -67916,28 +34922,17 @@ feminine
 neuter
 masculine/neuter
 114673	masculine/feminine
-114676	masculine
+114676	neuter
 neuter
 masculine
-114682	
-neuter
-
-
+114683	neuter
 114687	feminine
 masculine
-114691	
-114694	
-feminine
-
-
-
-
-114702	
+114695	feminine
 114704	masculine/feminine
 masculine
 114708	neuter
 114710	feminine
-114712	
 114714	feminine
 feminine
 114720	feminine
@@ -67945,173 +34940,107 @@ feminine
 feminine
 114725	masculine/feminine/neuter
 masculine/neuter
-
+114728	masculine
 masculine
-masculine
-114731	
-neuter
-
+114732	neuter
 114735	masculine
-114737	
-114739	
-masculine
+114740	masculine
 masculine
 114743	neuter
 masculine/neuter
 masculine
-
-
-feminine
+114748	feminine
 feminine
 114752	masculine/feminine/neuter
 neuter
-
-masculine
-
-feminine
-
-114760	
-
-
-feminine
+114755	masculine
+114757	feminine
+114763	feminine
 neuter
 masculine
 masculine/feminine/neuter
-114768	
-
-masculine/neuter
+114770	feminine
 114773	masculine
 masculine
 masculine
 masculine
-
-
-114781	
-
+114778	feminine
 114784	feminine
-114786	
-masculine
+114787	masculine
 feminine
 neuter
-114791	
-masculine/neuter
-
+114792	feminine
 114795	feminine
-114797	
-neuter
-114800	masculine/neuter
+114798	neuter
+114800	feminine
 114802	feminine
 masculine/feminine
-
 114807	feminine
 114809	feminine
 feminine
 feminine
-114814	
-114818	
-
 114824	masculine/feminine
 114827	feminine
 114829	feminine
-
 114832	neuter
 114834	masculine
 feminine
 masculine
 masculine
-114841	
+114842	feminine
+114845	masculine/feminine
+114847	feminine
 feminine
-
-
-masculine/feminine
-
-feminine
-feminine
-114850	
-neuter
+114851	neuter
 114853	neuter
 feminine
 masculine/neuter
 masculine
 feminine
-
-114860	
-114862	
-
-feminine
-
-114867	
-
-
-114872	
-
-114876	masculine
+114864	feminine
+114876	neuter
 neuter
 masculine
 masculine/feminine
 114881	neuter
 114885	masculine/feminine
-
+feminine
 114891	feminine
-
-114894	masculine
 114898	masculine/feminine
-114901	
 114903	feminine
 masculine
-
-feminine
-114913	
+114906	feminine
 114915	feminine
 114918	feminine
 feminine
-
-
-masculine
+114922	masculine
 feminine
 neuter
-
-
-masculine
+114927	masculine
 feminine
-
 114931	neuter
-
-114934	
-
 114937	neuter
 masculine
-
-masculine/feminine
-neuter
-
+114940	masculine/feminine
+feminine
 114947	masculine
 masculine/feminine
-
 114951	masculine/feminine
-
-neuter
-masculine
-masculine
-
 masculine
 feminine
-
-114961	
-neuter
+masculine
+masculine
+114957	masculine
+feminine
+114962	neuter
 114964	masculine
 114968	feminine
 masculine/neuter
 masculine
 masculine
-114974	
-114977	
-
-
 114981	masculine/neuter
 masculine
-
-masculine
+114984	masculine
 114986	neuter
 feminine
 114989	neuter
@@ -68121,507 +35050,258 @@ feminine
 114998	feminine
 115002	feminine
 feminine
-
-
 115007	masculine/feminine
 115009	masculine
 neuter
-115012	
 115015	masculine/feminine
 feminine
-
+115018	masculine
+115021	masculine
+115033	masculine
 masculine
-
-
-masculine
-115024	
-
-115028	
-115031	
-
-masculine
-masculine
-115038	
-115040	
-115043	
-feminine
+115044	feminine
 115046	neuter
-115048	
-
+115049	masculine
 masculine
-
 115053	neuter
-
 115058	masculine
 115060	masculine/neuter
 masculine
-
-
+115064	feminine
 feminine
 feminine
+115068	masculine
 feminine
-
-masculine
-feminine
-
-115072	
-masculine
+115073	masculine
 115075	masculine/neuter
-115077	
 115079	masculine
 masculine/feminine
-
-feminine
-
-115085	
+115082	feminine
 115087	feminine
 115089	masculine/feminine
 masculine
 masculine
 115094	masculine
-115096	
-
 115100	neuter
 feminine
-115104	
-115108	
 115110	feminine
-115112	
-115115	
-feminine
-115118	
-115120	
-
-neuter
+115116	feminine
+115122	neuter
 115124	feminine
 115126	masculine
 masculine
 masculine
-
-
-neuter
+115131	neuter
 masculine
 115134	feminine
-
-masculine
-
-masculine/neuter
+115136	masculine
+115138	masculine/neuter
 115140	masculine
 feminine
-
-115144	
-115149	
 115152	masculine
-115155	
 115160	feminine
 feminine
-115164	
-masculine/feminine
+115165	masculine/feminine
 feminine
-
+115168	feminine
+115173	masculine/feminine
+115175	masculine
 feminine
-115170	
-
-
-masculine/feminine
-
-masculine
-feminine
-115179	
-115181	
-
-
-
-
-
-neuter
+115187	neuter
 115189	feminine
 feminine
-115192	neuter
+115192	feminine
 masculine/neuter
 masculine
-115197	
-masculine/neuter
+115198	masculine/neuter
 feminine
-
-
-
 115204	masculine
-neuter
-115207	
-
-
-115211	
-
+feminine
+115208	masculine
 115218	masculine/feminine
 masculine
 masculine
-
-
-
-
-
-
-neuter
-115229	
+115227	neuter
 115231	neuter
 neuter
-115234	masculine
-
-neuter
-115240	
+115236	neuter
 115242	masculine
 neuter
 neuter
-
-
 115250	neuter
 feminine
 115253	neuter
-
 115257	neuter
-115259	
-
-masculine/neuter
-115263	
-
+115261	masculine/neuter
 115266	neuter
-
-115272	
-115276	
-
-masculine
-
-
-
+115278	masculine
 115283	masculine
-
-115286	
-
+115288	neuter
 neuter
-neuter
-115291	neuter
+115291	feminine
 115295	feminine
-
-masculine/feminine
-115301	
-masculine
-
-
-masculine
+115297	masculine/feminine
+115302	masculine
+115305	masculine
 115307	neuter
 115309	masculine
 masculine/neuter
-115312	
-
-115315	
-feminine
-115318	
-masculine
-
-115323	
-115325	
-115327	
-masculine
-
+115312	masculine
+115316	feminine
+115319	masculine
+115328	masculine
 115331	neuter
-
-
-
-
 115337	masculine
-
-
-115342	
-
-feminine
-
-
-
-masculine
-
-
-
+115344	feminine
+115348	masculine
 115353	masculine
-115355	
-
-masculine
-
-
-115361	
-masculine
+115357	masculine
+115362	masculine
 masculine
 masculine
 neuter
-115367	
-masculine/neuter
-115370	
-115372	
-115374	
-masculine
-
-115378	
-neuter
-
-
-feminine
-115385	
+115368	masculine/neuter
+115375	masculine
+115379	neuter
 115387	masculine/feminine
-
-115390	
-neuter
+115391	feminine
 masculine/neuter
 115394	feminine
-
-
-115398	
 115400	masculine
 115402	masculine
-
-masculine/neuter
+115404	masculine/neuter
 masculine
 masculine
 masculine
 115409	feminine
 masculine
-
-masculine
-
-115415	
+115412	masculine
+115416	masculine
 masculine
 masculine
-masculine
-
-
 115422	feminine
-115425	
-
-masculine
-115429	
+115425	masculine/feminine
+115427	masculine
 115431	masculine
-
-115434	
-115436	
-masculine/neuter
+115437	masculine/neuter
 masculine/neuter
 115441	masculine/feminine
-
 115444	neuter
 115446	masculine
 115449	masculine/feminine
-115451	
-115455	
 115458	feminine
 115463	neuter
-115465	
-neuter
+115466	neuter
 masculine
-
 115472	neuter
 115474	masculine/neuter
 neuter
-115478	
-feminine
-115482	
+115479	feminine
 115484	neuter
-
 115487	feminine
 masculine
 115490	masculine
-115493	
-
-
-115497	
-masculine
-feminine
+115499	feminine
 masculine
 masculine
 masculine
-
-115505	
-115508	
-115511	
-
-neuter
-
-115520	
-115525	
+115513	neuter
 115527	neuter
-
 115530	feminine
-
-masculine
-
-neuter
-115536	
-neuter
-115543	
-masculine
+115532	masculine
+115534	neuter
+115537	neuter
+115544	masculine
 masculine
 115548	neuter
 115553	neuter
 masculine
 115560	masculine
-115562	
-masculine
-115565	
-115568	
+115563	masculine
 115571	feminine
 115577	feminine
 neuter
 115583	feminine
-neuter
-115587	
-masculine
+feminine
+115588	masculine
 115590	masculine
-115592	
-masculine
-115595	
-115598	
+115593	masculine
 115602	feminine
 masculine
 115605	feminine
 115609	masculine/neuter
-
-
-
-masculine
-
-115616	
-115619	
-115622	
-115628	
-115630	
+115613	masculine
 115636	masculine
-115638	
 115640	neuter
 neuter
-
-
-
 115646	neuter
 115648	feminine
 masculine
-
+115654	feminine
 masculine
-
-
-feminine
 masculine
-
-
-
-115661	
 115663	feminine
-
-
-
-115668	
-feminine
-115671	
+115669	feminine
+115672	feminine
 feminine
 feminine
-neuter
 115678	feminine
 feminine
-115681	
-
+115682	masculine
 115684	masculine/feminine
 115687	masculine
 masculine
-
-
 115692	masculine
 115694	masculine
 115698	masculine/feminine
 115700	feminine
 feminine
-115703	
-
-masculine
+115705	masculine
 feminine
-
-115709	
 115712	feminine
-115714	
-feminine
-115717	neuter
-
-masculine
-
-feminine
-
-
-masculine/feminine
+115715	feminine
+115717	feminine
+115719	masculine
+115721	feminine
+115724	masculine/feminine
 115726	masculine/neuter
-
-neuter
-
-
+115728	neuter
 115732	masculine/neuter
 115734	masculine
 115738	masculine
-115740	
 115742	neuter
-
-
-115746	
-
 115749	feminine
 115751	feminine
-
-masculine
-
-115757	
-masculine/feminine
+115753	masculine
+115758	masculine/feminine
 masculine
 neuter
-115763	
-
-neuter
-
-masculine
+115765	neuter
+115767	masculine
 feminine
-
-
 115774	masculine
 neuter
 115778	feminine
-115780	
 115783	masculine
 masculine
-
-feminine
-
-neuter
-
-
-115792	
-neuter
+115786	feminine
+115788	neuter
+115793	neuter
 neuter
 masculine
-115797	
-neuter
+115798	neuter
 masculine/feminine
-115803	
-neuter
+115804	neuter
 neuter
 masculine
 feminine
 115810	masculine
 neuter
 115814	neuter
-
-115817	neuter
-115820	
-
-feminine
-115824	
-neuter
+115817	feminine
+115822	feminine
+115825	neuter
 115828	neuter
-
-115831	
-
 115835	neuter
 115837	neuter
 neuter
@@ -68629,405 +35309,208 @@ masculine
 115842	masculine/feminine
 neuter
 masculine
-115846	
-
-feminine
+115848	feminine
 neuter
 115851	neuter
 115853	feminine
 neuter
-neuter
-115857	
-neuter
-
-115863	masculine
-115865	
-masculine/neuter
-115870	masculine/feminine
-
-
-115875	
-masculine
-
-115879	
-
-115883	masculine
-
-
 feminine
-
-
-115891	
-
+115858	neuter
+115863	masculine
+115866	masculine/neuter
+115870	masculine/feminine
+115876	masculine
+115883	masculine
+115886	feminine
 115895	neuter
-115898	
-
 115901	neuter
 neuter
 neuter
 115906	masculine
-115908	
 115910	neuter
 neuter
-
-115918	masculine/feminine
 115920	feminine
 feminine
-
-neuter
-
-
-
+115923	feminine
 115929	feminine
 neuter
-
-
 115936	neuter
-115938	
-115942	
-neuter
-115945	
-
-
-
-feminine
-
+115943	feminine
+115949	feminine
 115953	masculine
-115955	
-115960	
-
-masculine
-115966	
+115962	masculine
 115968	feminine
 115970	masculine
 masculine
 neuter
 115975	neuter
-
 115979	feminine
 feminine
-
-115983	
-115986	
 115989	masculine
-115992	
-115995	
-115998	
-
 116005	feminine
 feminine
 116008	neuter
 neuter
-
-116013	
 116015	masculine
-
-masculine/neuter
-
+116017	masculine/neuter
 116020	neuter
-
 116024	feminine
-
-masculine
-
+116026	masculine
 116029	masculine
 neuter
-
-
-
-
-masculine
+116035	masculine
 masculine
 116040	neuter
-
-
-
-masculine
+116044	masculine
 116046	masculine
 masculine
 116050	masculine
 116052	masculine
-
-masculine/neuter
-
+116054	masculine/neuter
 116057	neuter
-
-masculine
-
-neuter
+116059	masculine
+116061	neuter
 feminine
 feminine
 masculine
-116066	
-masculine
-
+116067	masculine
 116071	neuter
 masculine/feminine
 neuter
 116076	masculine
 116078	feminine
-116084	
 116086	masculine/feminine
-
-116090	
 116094	masculine
 116096	masculine
-116098	
-neuter
-
-masculine
-
+116099	neuter
+116101	masculine
+116103	feminine
 feminine
 feminine
-feminine
-
-
-
-116110	
 116112	masculine/feminine
-
-116115	
-
-masculine/neuter
-
+116117	masculine/neuter
+masculine/feminine
 neuter
 masculine
 masculine
 feminine
-
-feminine
-116126	
-neuter
+116124	feminine
+116127	neuter
 116129	masculine
 116131	neuter
-116134	
-feminine
-
-116138	
-116140	
-
-feminine
-116145	
+116135	feminine
+116142	feminine
 116147	feminine
 masculine
 masculine
-
-116152	
-
-
-masculine
-
-116158	
+116155	masculine
 116161	masculine
-
 116164	masculine
 masculine
-116167	
-
+116169	feminine
 feminine
 feminine
 feminine
-feminine
-
-
-116176	
-neuter
-116179	
-
+116177	neuter
 116184	masculine/feminine
 116186	masculine/feminine
-116189	
-
-masculine
+116191	masculine
 116193	masculine/feminine
-
-feminine
-
+116195	feminine
 116198	feminine
-
-116201	
-masculine
-116206	
-116209	
+116202	masculine
 116211	masculine/feminine
-
-
-
-
 116217	masculine
-116219	
-neuter
-
-
-
+116220	neuter
+116222	feminine
+116224	feminine
 feminine
 feminine
-feminine
-
-
-
-116231	
 116234	neuter
-116236	
 116238	masculine
-116240	
-masculine
-neuter
+116241	masculine
+feminine
 masculine
 feminine
 116248	neuter
-
 116251	masculine/neuter
 feminine
 neuter
 feminine
-
-
-
-masculine/neuter
+116258	masculine/neuter
 feminine
 116262	masculine
-116264	
 116267	neuter
-
-masculine
-116273	
-
-
+116269	masculine
 116279	feminine
 116282	masculine
 masculine
 116285	feminine
-116287	
 116290	neuter
-
-masculine/feminine
-
-feminine
-116303	
-
-masculine
-116309	
-masculine
-116312	
-feminine
-116316	
-116318	
+116292	masculine/feminine
+116294	feminine
+116305	masculine
+116310	masculine
+116313	feminine
 116321	masculine
-116324	
-
-116327	
-
-
-masculine
-
-116333	
+116330	masculine
 116336	masculine
 116338	feminine
 masculine
-
-masculine
-
-116344	
-116346	
-
-116349	
+116341	masculine
 116351	masculine
-
-masculine
-116355	
-
-feminine
-
-
-
+116353	masculine
+116357	feminine
 116362	feminine
 masculine
 neuter
-116366	
-neuter
-116369	
-116371	
+116367	neuter
 116374	masculine
-
 116378	masculine/feminine
-116380	
 116383	masculine
 neuter
-116386	
-
 116389	feminine
 116391	neuter
-
-masculine/feminine
-116395	
+116393	masculine/feminine
 116397	masculine
-
-116402	
 116404	masculine
-116406	
-neuter
-
-masculine
-
+116407	neuter
+116409	masculine
+116411	feminine
 feminine
 feminine
-feminine
-
 116417	masculine
-
-
-
-
-
-116424	
-feminine
+116425	feminine
 feminine
 neuter
-116430	
-116432	
-neuter
+116433	neuter
 masculine
-116437	
 116440	neuter
-116443	
-
-feminine
+116445	feminine
 masculine
 neuter
-116449	
-feminine
+116450	feminine
 masculine/feminine/neuter
 masculine
-116457	
-116461	
-masculine
-
-
-masculine
+116462	masculine
+116465	masculine
 masculine/feminine
-116468	
 116470	feminine
 masculine
 116473	masculine
-116475	
-neuter
+116476	neuter
 116478	masculine/feminine
-116481	
-
+116482	feminine
 feminine
 neuter
 116486	masculine
-116489	
 116492	feminine
-
 116498	masculine
 116500	masculine
 feminine
-116503	
 116505	feminine
 masculine/feminine
-
+masculine/feminine
 neuter
 masculine
 116511	feminine
@@ -69037,583 +35520,334 @@ masculine
 masculine/feminine
 masculine
 116526	neuter
-116528	
-116532	
-neuter
+116533	neuter
 116536	feminine
-
-116539	
 116541	masculine
 neuter
-
 116546	feminine
 neuter
-116549	
-masculine
+116550	masculine
 116554	feminine
-116557	
-feminine
-
-neuter
+116558	feminine
+116560	neuter
 116562	masculine
-
-
-masculine
-116567	
-
-
-neuter
+116565	masculine
+116570	neuter
 feminine
 116574	masculine
-
-feminine
-116578	
-feminine
-
-neuter
+116576	feminine
+116579	feminine
+116581	neuter
 116584	neuter
-
-
-116588	
 116590	feminine
-
-neuter
-116596	
-116599	
-116602	
-feminine
-116607	
-116609	
-
-116614	
-neuter
-116617	
-neuter
-116620	
-neuter
+116592	neuter
+116603	feminine
+116615	neuter
+116618	neuter
+116621	neuter
 masculine/feminine
-
-116625	
-
-masculine
-
-
-neuter
+116627	masculine
+116630	neuter
 116636	masculine
 masculine
-
 116644	masculine
-
 116648	masculine
 masculine
-
-116652	
-116655	
-116658	
-116660	
 116662	masculine
-
-116666	
-116671	
 116673	feminine
 116676	neuter
 feminine
-
 116680	feminine
 116683	neuter
-116686	
-
-
-
-feminine
+116690	feminine
 116692	neuter
-
-116696	
 116698	feminine
-116700	
-masculine
+116701	masculine
 116704	feminine
-116711	masculine/neuter
-116713	
-neuter
+116711	feminine
+116714	neuter
 masculine/feminine
 feminine
 masculine/neuter
 masculine
-
-
-neuter
+116721	neuter
 masculine
-
-116727	
-masculine/feminine
+116728	masculine/feminine
 116730	masculine/feminine
 masculine
-116735	
-
-116746	neuter
+116746	feminine
 116750	feminine
-
-
 116754	feminine
 neuter
 neuter
 116760	feminine
 masculine/neuter
-
-neuter
+116763	neuter
 116766	feminine
-116769	
-feminine
+116770	feminine
 masculine/feminine
 116774	masculine
-
 116777	masculine/feminine
-
 116783	feminine
 116786	feminine
 feminine
 masculine/feminine/neuter
 feminine
-neuter
+feminine
 116793	neuter
 116795	feminine
-
 116799	masculine/neuter
-
-116802	
-116808	
-masculine
-116811	
+116809	masculine
 116815	masculine
 116817	neuter
 116819	feminine
-
-feminine
+116821	feminine
 masculine
-116825	
-neuter
-116830	
-
+116826	neuter
 116833	masculine
 116835	neuter
 masculine/feminine/neuter
-116839	
-116841	
-masculine
+116842	masculine
 116844	masculine/feminine
-116850	
 116852	feminine
 116859	masculine
 116861	neuter
 116863	neuter
 116865	feminine
-
 116870	masculine
-116872	
-
-feminine
+116874	feminine
 masculine
 neuter
-116879	
-neuter
+116880	neuter
 116882	masculine
 feminine
 116885	feminine
 feminine
 116890	neuter
-116892	
 116894	feminine
 116896	neuter
 neuter
-116902	
-feminine
-
-
-neuter
+116903	feminine
+116906	neuter
 feminine
 116909	feminine
 116914	feminine
 116916	masculine
-116919	
-116921	
-116923	
-feminine
+116924	feminine
 116926	neuter
 masculine/feminine
 116929	feminine
 feminine
-
-116934	
-
 116938	masculine
-116940	
-
-
-feminine
-116946	
+116943	feminine
+116947	masculine
+116952	neuter
 masculine
-116949	
-116951	
-neuter
-masculine
-116955	
 116957	masculine
-
 116960	neuter
 feminine
 116968	feminine
-116973	
-masculine
+116974	masculine
 116977	masculine
 116979	feminine
-neuter
+feminine
 116983	feminine
-
+116985	feminine
 feminine
-feminine
-
 116991	masculine
-116993	
-116998	
 117001	neuter
 masculine
-
-
+117004	masculine
 masculine/feminine/neuter
-
-
 117009	masculine
-
-
-117014	
 117017	feminine
 feminine
-117020	
-
 117023	masculine/neuter
 117025	feminine
 neuter
 feminine
 feminine
-
-
-masculine
-117033	
+117031	masculine
 117035	masculine
 117037	masculine
-117039	
 117041	masculine
 117043	feminine
 117045	masculine/feminine
 117047	masculine
 neuter
-117051	
-neuter
-117056	
+117052	feminine
 117058	masculine/feminine
 117060	neuter
 masculine/feminine
-
-
-masculine
-117066	
+117064	masculine
 117068	feminine
-117071	
-feminine
-
-117075	
-masculine/feminine/neuter
-
+117072	feminine
+117076	masculine/feminine/neuter
 117079	masculine/feminine
-117082	
 117084	masculine
-
-117089	
-feminine
-
-masculine
-
+117090	feminine
+117092	masculine
 117097	masculine
-117099	
 117104	masculine
 117106	masculine
 117108	masculine
-
-neuter
-
-masculine/neuter
+117110	neuter
+117112	masculine/neuter
 masculine
 masculine
-117116	
-
 117119	feminine
 feminine
 masculine
-117123	
 117127	feminine
-
 117132	neuter
 117135	masculine
 117140	masculine
 117142	masculine
 117144	masculine
-
-117150	
-masculine/neuter
+117151	masculine/neuter
 117153	feminine
-117155	
-117158	
-117160	
-neuter
-
-masculine
-
+117161	neuter
+117163	masculine
 117166	masculine/feminine
-
 117172	feminine
-117175	
-feminine
+117176	feminine
 117178	masculine
 117181	masculine
-117183	
-feminine
+117184	feminine
 masculine
-
 117188	feminine
 117191	masculine/neuter
-117195	
 117197	masculine
 117202	neuter
-117205	
 117207	feminine
 117209	masculine
 117211	masculine
-117213	
-neuter
-
+117214	neuter
 117219	neuter
 feminine
 feminine
 117225	feminine
 feminine
 117228	masculine/feminine
-
-
 117236	feminine
 117238	feminine
 masculine/neuter
-
 117242	masculine
-
-
-117246	
 117253	masculine
 feminine
-117259	
-
-feminine
-
-117264	
-
-
-neuter
-117269	
+117261	feminine
+117267	neuter
 117272	feminine
-neuter
+feminine
 117276	feminine
-
-masculine
+117278	masculine
 masculine
 117284	masculine/feminine
 117286	feminine
-
 117291	neuter
-
-feminine
-117295	
-
-117300	
+117293	feminine
 117304	feminine
-
-
 117308	masculine
 feminine
 117312	neuter
-117314	
-feminine
-
-feminine
-
+117315	feminine
+117317	feminine
 117320	masculine
-117322	
-
-masculine/neuter
+117324	masculine/neuter
 masculine/feminine
-117327	
-
-masculine
-
-masculine
+117329	masculine
+117331	masculine
 masculine
 feminine
-
-117337	
-masculine
+117338	masculine
 117340	masculine
 117342	masculine
-masculine
 117345	masculine/feminine
-117347	
-
-117352	
+117353	masculine
+117358	masculine
 masculine
-117356	
-
-masculine
-masculine
-117361	
-
-
 117365	feminine
-117367	
-117369	
 117371	masculine
-
-117375	
 117379	feminine
 117383	feminine
 masculine
-neuter
+feminine
 117388	masculine/feminine
 117390	masculine/feminine
 117394	masculine
 masculine
-
 117401	masculine
-117403	
-neuter
+117404	neuter
 masculine
 117407	masculine
-
 117410	feminine
 masculine
 117415	feminine
-
-masculine
+117417	masculine
 117419	masculine
-117421	
+117422	feminine
 feminine
-neuter
-
-masculine/neuter
+117425	masculine/neuter
 117429	masculine
-117431	
-
 117434	masculine
-
-117438	
-117443	
 117445	masculine
 masculine
 masculine
 117449	masculine/feminine
-
 117452	masculine
-neuter
-117455	
-117457	
-masculine
-117460	neuter
-117462	
-117464	
+feminine
+117458	masculine
+117460	feminine
 117467	neuter
-
 117470	feminine
-117474	
 117476	masculine/feminine
 masculine
 117481	neuter
-
-neuter
+117483	neuter
 117485	masculine
-
-117489	
-neuter
+117490	neuter
 117493	masculine/feminine
 117496	masculine
 masculine/feminine
-117501	
-feminine
+117502	feminine
 feminine
 117506	feminine
 feminine
-117510	
-
 117513	masculine/feminine
-
 117516	masculine
 masculine
 neuter
-
-masculine/neuter
+117520	masculine/neuter
 masculine/feminine/neuter
 neuter
 feminine
 117526	masculine/neuter
-
-117531	
-117534	
-masculine
+117535	masculine
 masculine
 117538	feminine
-
-masculine
+117540	masculine
 117542	feminine
 masculine
 117547	feminine
-117549	
 117551	masculine
-117553	
 117556	neuter
 masculine
-117559	
 117561	masculine/neuter
-117563	
-117567	
+117568	feminine
+117570	neuter
+117576	feminine
 feminine
-
-neuter
-117573	
-117575	
-feminine
-feminine
-117581	
-117585	
+117586	masculine
 masculine
-masculine
-
 117592	masculine
-
-117597	
 117599	feminine
-
 117602	masculine
 117604	neuter
 117607	masculine
-
-
-117612	
-
-feminine
-117616	
-
-masculine
-
-feminine
-
-
-masculine
+117614	feminine
+117618	masculine
+117620	feminine
+117623	masculine
 neuter
 117629	feminine
 masculine/neuter
@@ -69621,138 +35855,78 @@ feminine
 neuter
 117635	masculine
 feminine
-
 117639	neuter
-
-117642	
-
-masculine
-
+117644	masculine
 117647	neuter
 117649	neuter
-
-
-
-neuter
+117653	neuter
 117656	feminine
 117658	feminine
-117666	
-117670	
 117672	feminine
 feminine
-117675	
-117677	
-
-feminine
-117685	
-
-feminine
-117689	
-masculine
-117692	
-
-117698	
+117679	feminine
+117687	feminine
+117690	masculine
 117701	masculine
-117703	
-
-
-117709	
 117711	masculine
 neuter
-
-feminine
+117714	feminine
 117716	masculine
 117719	neuter
-117722	
-feminine
+117723	feminine
 masculine
-
-117727	
-117729	
-
 117732	masculine
 masculine
 117735	neuter
-
-masculine
-
+117737	masculine
 117740	feminine
-117743	
-
-117747	
+117748	feminine
 feminine
 feminine
-feminine
-
+117752	masculine
+117754	masculine
 masculine
-
-masculine
-masculine
-
 117758	feminine
 neuter
-117761	
-feminine
+117762	feminine
 neuter
-
-117767	
-neuter
-
-neuter
-117775	
-117778	
-masculine
+117768	neuter
+117770	neuter
+117779	masculine
 117784	neuter
 117789	neuter
 masculine
 117793	masculine
-
-117796	
-117798	
-masculine/neuter
-
+117799	masculine/neuter
+masculine
 117802	neuter
-
-masculine/feminine
-
+117804	masculine/feminine
 117808	neuter
 117810	masculine/neuter
 neuter
 neuter
-
-masculine
-
-117817	
-
-
-feminine
-
+117814	masculine
+117820	feminine
 117823	feminine
 117826	masculine
 117828	masculine
 117835	feminine
 feminine
 117838	feminine
-117840	
-masculine
+117841	masculine
 masculine
 neuter
 117846	feminine
 feminine
-
-
-feminine
-
-feminine
+117850	feminine
+117852	feminine
 117854	feminine
 feminine
 117857	feminine
 feminine
 feminine
 masculine
-117862	
-feminine
-
+117863	feminine
 117867	masculine
 117869	neuter
 feminine
@@ -69762,8 +35936,6 @@ feminine
 masculine
 feminine
 117884	neuter
-
-
 117888	neuter
 feminine
 117891	feminine
@@ -69771,163 +35943,100 @@ feminine
 117896	feminine
 feminine
 117899	feminine
-117903	
 117907	feminine
 neuter
 117910	masculine
-
-feminine
-
-117916	
-
+117912	feminine
 117922	feminine
-
 117926	feminine
 neuter
-neuter
-117930	
-masculine
+feminine
+117931	masculine
 masculine
 feminine
 feminine
 masculine
-
 117939	masculine/feminine
-117941	
-
 117944	masculine
 masculine
-
 117949	masculine
-
-
-neuter
+117952	neuter
 117954	feminine
-
-117960	
-117962	
-masculine
+117963	masculine
 117967	feminine
 feminine
 masculine
 117972	feminine
-
 117975	masculine/neuter
-117977	
-
 117980	masculine
 117982	neuter
-117986	
 117988	feminine
 117990	masculine
 feminine
-
-
-
 117996	neuter
 neuter
-
-
-118003	
-118007	
-masculine
+118008	masculine
 118010	feminine
 masculine
 118014	masculine
 feminine
 feminine
 feminine
-neuter
+feminine
 118022	feminine
-
-
-118028	
-118032	feminine
+118032	masculine
 118035	masculine
 118037	masculine
-neuter
-118040	
-masculine/feminine/neuter
-118043	
-118045	
-neuter
+feminine
+118041	masculine/feminine/neuter
+118046	neuter
 feminine
 masculine/feminine
-
-118051	
 118054	feminine
 masculine
 118057	masculine
 118061	feminine
-118064	
 118070	masculine/neuter
-
+masculine
 118073	feminine
-
-masculine
-118077	neuter
+118075	masculine
+118077	feminine
 118079	masculine/feminine/neuter
-118081	
-neuter
-
-neuter
-
-118087	
-feminine
-
-feminine
+118082	neuter
+118084	neuter
+118088	feminine
+118090	feminine
 masculine
-
 118095	neuter
-
-masculine
-neuter
-118101	
-118105	
-118107	
-
-masculine/neuter
-
-
+118097	masculine
 feminine
+118109	masculine/neuter
+118112	feminine
 118114	feminine
 118116	feminine
-
-masculine
+118118	masculine
 118121	masculine/neuter
 feminine
-118127	
-118129	
-118133	
-masculine
+118134	masculine
 feminine
-
+118137	masculine
 masculine
-masculine
-
-
-
-masculine
-118145	feminine
+118142	masculine
+118145	masculine
 feminine
 feminine
 118153	feminine
 masculine
-
 118157	masculine
-
-masculine
-118161	
+118159	masculine
 118163	feminine
 118165	feminine
 feminine
 masculine
 118169	feminine
 masculine
-
 118177	feminine
-118179	
-118183	masculine
+118183	neuter
 118187	masculine
 118190	feminine
 118193	masculine
@@ -69938,944 +36047,544 @@ masculine
 neuter
 neuter
 118208	feminine
-
-feminine
-
-118215	
-feminine
+118210	feminine
+118216	feminine
 masculine
-118219	
 118221	masculine
 118224	feminine
-
 118227	feminine
-
 118230	neuter
 118233	feminine
-
-118236	
 118239	feminine
 118241	neuter
-
-118244	
-
-feminine
-
-118249	
-118251	
-feminine
+118246	feminine
+118252	feminine
 masculine
 neuter
 feminine
 feminine
-118258	
-118263	
-
-
-
-neuter
-
-feminine
-118271	
-118273	
+118267	neuter
+118269	feminine
 118276	masculine
 masculine
-118279	
-neuter
+118280	neuter
 feminine
-118284	
+118285	feminine
+118293	masculine
+118299	feminine
 feminine
-
-
-
-118292	
-masculine
-
-118298	
-feminine
-feminine
-118302	
-
 118305	feminine
-neuter
+feminine
 118308	feminine
 neuter
 118313	masculine
-
-118319	
 118322	feminine
 118325	masculine
 masculine
 118328	masculine
-
 118331	feminine
-
-feminine
-
-
+118333	feminine
 118337	feminine
-118342	
+118343	feminine
 feminine
-feminine
-118346	
-masculine
+118347	masculine
 masculine
 feminine
-
-feminine
-
+118351	feminine
 118356	feminine
-118362	
-feminine
+118363	feminine
 masculine/neuter
-
 118367	masculine/feminine
 118369	masculine
-118372	
-
-
-
-
+118377	feminine
 feminine
-neuter
 118380	masculine/feminine
-118383	
-neuter
-118390	
+118384	neuter
 118392	feminine
 neuter
 118396	masculine/feminine
 118398	feminine
 masculine
 118401	masculine
-
-feminine
-118406	
-118409	
-feminine
+118403	feminine
+118410	feminine
 118412	feminine
-
-118421	
-feminine
-
-masculine
-
-
-
-
-
-118433	
-masculine/neuter
-
-
-masculine
+118422	feminine
+118424	masculine
+118434	masculine/neuter
+118437	masculine
 118440	neuter
-
+118442	masculine
 masculine
-masculine
-
-feminine
+118445	feminine
 118447	feminine
-118451	
-feminine
-
-118455	feminine
+118452	feminine
+118455	masculine
 masculine
-118458	
-masculine
-118461	
-
-
-
-
-
+118459	masculine
 118468	neuter
-
-
 118472	masculine
-
 118475	masculine
-
-
-118482	neuter
+118482	feminine
 118484	feminine
-
 118487	masculine
 masculine
 118490	masculine
 118493	masculine
-
 118496	masculine/feminine
 masculine
 118499	feminine
 feminine
 118502	masculine/feminine/neuter
 feminine
-118507	
-feminine
-118512	
-neuter
-
-feminine
-
+118508	feminine
+118513	neuter
+118515	feminine
 118518	masculine/feminine
-118520	
-feminine
-
-neuter
+118521	feminine
+118523	neuter
 118525	masculine
-118527	
+118527	masculine
 118529	masculine
 118531	neuter
 118533	feminine
-
-neuter
+118535	neuter
 118538	feminine
-
-
 118542	masculine/feminine
-118545	
 118547	masculine/feminine
 118552	masculine
-
 118558	feminine
-118561	
-118564	
+118565	feminine
 feminine
 feminine
-feminine
-
+118569	masculine
+118571	masculine
 masculine
-
-masculine
-masculine
-
-feminine
+118574	feminine
 neuter
-118577	
 118579	feminine
 neuter
-
 118584	masculine/neuter
 neuter
 neuter
 118588	masculine/neuter
 masculine
 neuter
-
-masculine
+118592	masculine
 118597	feminine
 118600	feminine
-
-feminine
+118602	feminine
 118606	feminine
-
 118610	feminine
 feminine
-
-
-feminine
+118614	feminine
 masculine
 118618	masculine/feminine
 masculine
 neuter
 118622	feminine
-neuter
-
+feminine
 118630	neuter
 118632	feminine
-118634	
-118637	
-neuter
-118640	
+118638	neuter
 118642	feminine
-
-feminine
+118644	feminine
 118647	feminine
 feminine
-
 118651	feminine
 118656	feminine
-118658	
 118660	feminine
 118663	masculine/feminine/neuter
 masculine
 118666	masculine
-118669	
-118671	
-118673	
 118675	masculine/neuter
 masculine
 masculine
 118681	neuter
 118684	feminine
-
-masculine
+118686	masculine
 118688	masculine
-
-118691	
+masculine
 118694	masculine/feminine
-masculine/feminine
-118697	
-feminine
-
-118703	
+118698	feminine
 118705	feminine
-118707	
-neuter
+118708	neuter
 118710	feminine
 feminine
 118713	masculine/feminine
 118717	masculine
 masculine
-118722	
-
-masculine/feminine
+118724	masculine/feminine
 masculine
 masculine
 118728	masculine/feminine
-
-feminine
-
-118734	
-masculine/neuter
-
+118730	feminine
+118735	masculine/neuter
 118739	feminine
 masculine
-118743	
-neuter
-
+118744	neuter
 118748	feminine
 118751	neuter
-118753	
 118760	masculine
 masculine
-
 118765	neuter
 masculine
 feminine
-
-
-118772	
-masculine
+118773	masculine
 118776	neuter
 masculine
-118780	
-feminine
+118781	feminine
 neuter
-118784	
 118786	feminine
 neuter
 feminine
-
-118793	
-118799	
-118805	
-feminine
+118806	feminine
 118808	feminine
 118813	masculine/feminine/neuter
 118817	feminine
 feminine
-
-feminine
-
-feminine
-
+118820	feminine
+118822	feminine
 118827	neuter
 118830	feminine
-
-
+feminine
 118835	feminine
 feminine
-118838	
 118840	feminine
-
-118843	
-feminine
-
+118844	feminine
 118847	neuter
-
-neuter
-118851	
+118849	neuter
 118853	feminine
 118856	masculine
 masculine
 masculine
 masculine
-118861	
-118863	
-
-masculine
+118865	masculine
 118867	masculine/feminine
 masculine
-
-118871	
 118873	masculine
-118875	
-
-feminine
+118877	feminine
 neuter
 masculine
-
-neuter
-118884	
-118887	
-feminine
-
-118891	
-
-
+118881	neuter
+118888	feminine
 118896	feminine
 feminine
 feminine
 118900	neuter
-
-feminine
-
-
+118902	feminine
 118907	masculine
 118909	feminine
-
 118915	neuter
-
 118918	masculine
-
-feminine
+118920	feminine
 118922	masculine
 118924	feminine
 neuter
 feminine
-118928	
-feminine
-
-
-neuter
+118929	feminine
+118932	neuter
 118934	masculine
 118937	masculine/feminine
-118939	
-118941	
-neuter
-
-neuter
-118950	
-feminine
-118954	
-masculine
-
-118959	
+118942	neuter
+118944	neuter
+118951	feminine
+118955	masculine
 118964	masculine
-118972	
-neuter
+118973	neuter
 118977	masculine/feminine
-
-
-118981	
 118983	neuter
-
-neuter
-
+118985	neuter
 118990	masculine/neuter
 118994	feminine
-118997	
-feminine
+118998	feminine
 119000	feminine
 masculine
-119004	
-feminine
-
-
-neuter
+119005	feminine
+119008	neuter
 119010	masculine
-
-119016	
 119020	masculine
 feminine
 masculine
-119026	
 119028	neuter
-119031	
-feminine
-119034	
+119032	feminine
+119035	masculine
 masculine
-masculine
-
 119039	feminine
-
-
-feminine
+119042	feminine
 119044	feminine
-
-masculine
-
-
-masculine
-
+119046	masculine
+119049	masculine
 119054	feminine
 119057	feminine
-119064	
-feminine
+119065	feminine
 119067	masculine
 119071	masculine
 119073	feminine
 119076	feminine
-119078	
-
-119081	
-119083	
-masculine
+119084	masculine
 feminine
-
-neuter
-
+119087	neuter
 119090	neuter
 119094	masculine/neuter
 119097	feminine
 119100	neuter
 masculine
-
-
-
-neuter
-119107	
-feminine
+119105	neuter
+119108	feminine
 masculine
 feminine
-
 119115	masculine
 feminine
-119118	
-119120	
 119123	masculine
 119125	feminine
 feminine
-
 119129	feminine
-119135	
-masculine
-119138	
-
-
+119136	masculine
 119142	feminine
 masculine
 119145	feminine
 masculine
-
-
-119150	
-119152	
-119155	
 119157	masculine
-
-
-
-masculine
-
-119171	
-
+119161	masculine
 119174	masculine
-119177	
-neuter
+119178	neuter
 119181	neuter
 119183	feminine
-
 119191	masculine/feminine/neuter
 119193	masculine
 feminine
 feminine
 masculine
 119198	neuter
-119200	
-
-119204	
-119207	
-119209	
-masculine
+119210	masculine
 119212	masculine/feminine
 masculine
-119218	
-
 119221	feminine
-119223	
-
-
 119232	feminine
 119235	neuter
 feminine
 masculine
-119239	
-119241	
-
 119244	neuter
-119246	
-neuter
+119247	neuter
 feminine
 119250	masculine
-
 119253	masculine/feminine/neuter
 feminine
 masculine
-119257	
-119259	
-feminine
+119260	feminine
 119262	neuter
 119264	feminine
 masculine
-119267	
-masculine/feminine
-
-feminine
+119268	masculine/feminine
+119270	feminine
 masculine
 neuter
-119274	
-masculine
+119275	masculine
 119277	neuter
-119279	
-119283	
-masculine
+119284	masculine
 feminine
 masculine
-119290	
-masculine
+119291	masculine
 feminine
-119294	
-119296	
-
-119299	
-neuter
-
-masculine
+119294	masculine
+119300	neuter
+119302	masculine
 119304	feminine
 119306	neuter
 119309	feminine
 masculine
-119314	
-masculine
-119318	
+119315	masculine
 119320	feminine
 feminine
-
-masculine
+119323	masculine
 masculine
 119327	masculine
-
-masculine
+119329	masculine
 119332	neuter
-
-masculine
+119334	masculine
 119336	feminine
-
-119343	
-119345	
-masculine
+119346	masculine
 masculine
 119349	neuter
 neuter
-
-neuter
+119352	neuter
 feminine
-
 119356	feminine
 feminine
-
-neuter
+119359	feminine
 feminine
 feminine
 masculine
 feminine
 119365	masculine
-
-
-feminine
+119368	feminine
 neuter
 neuter
 119372	neuter
 masculine
-
-feminine
+119375	feminine
 feminine
 feminine
 119379	feminine
-119381	
 119385	feminine
-119389	
-masculine
+119390	masculine
 neuter
-119393	
-
 119397	masculine
 masculine
-119400	
-119406	
 119410	feminine
 masculine
 masculine/feminine
-neuter
+feminine
 119416	feminine
-119419	
-masculine
-
+119420	masculine
 119426	masculine
-
-119431	
-feminine
-119434	
-
+119432	feminine
 119437	feminine
-
-feminine
-
-119442	
+119439	feminine
 119445	masculine
 neuter
-
-119450	
-masculine
-119453	
-
-119458	
-119462	
-feminine
-
+119451	masculine
+119463	feminine
 119467	neuter
 119469	masculine
-119472	
-
-feminine
-119476	
-
-
-119480	
+119474	feminine
 119486	feminine
-
-
 119490	masculine
-119492	
-119501	
 119503	feminine
 masculine
-119508	neuter
-119511	
+119508	feminine
 119514	feminine
-
-neuter
-
-feminine
+119516	neuter
+119518	feminine
 masculine/feminine
 neuter
-119522	
-masculine
+119523	masculine
 119525	feminine
 119532	masculine
 masculine/feminine
 119535	masculine/feminine
 masculine
-119538	masculine
+119538	neuter
 119541	neuter
 feminine
-119544	
 119547	neuter
 masculine/feminine
 neuter
 masculine
-
 119555	neuter
-119557	
 119562	feminine
 neuter
 feminine
-119567	
-
-
-feminine
-
-
-neuter
-
-neuter
-
-
+119570	feminine
+119573	neuter
+119575	neuter
 119581	neuter
-
+119583	feminine
 feminine
-feminine
-
 119587	feminine
-
+119589	masculine
+119593	feminine
 masculine
-119592	
-feminine
-masculine
-119596	
-119598	
 119601	feminine
 masculine
-119604	
-119608	
-
-
-
+119612	masculine
 masculine
 masculine
+119616	feminine
 masculine
-
-feminine
-masculine
-119619	
 119621	neuter
 119623	neuter
-119625	
-masculine
-
-
-119630	masculine
+119626	masculine
+119630	neuter
 119632	neuter
-119634	
-feminine
-
-
-
-
+119635	feminine
 119641	masculine
 119643	masculine/feminine
 119645	masculine
 neuter
-
-
-119650	
-119653	
-feminine
+119654	feminine
 masculine
-
 119659	neuter
 masculine/feminine
-119662	
-
-
 119670	feminine
 119673	masculine
-119676	
-119678	
-
-
+119678	masculine
+119681	feminine
 feminine
-feminine
-
-119685	
-masculine
+119686	masculine
 119690	feminine
 feminine
-
 119694	masculine
 neuter
-
-masculine
-119699	
+119697	masculine
 119701	masculine
-
 119706	feminine
 neuter
 feminine
 119710	feminine
 119714	masculine
-
-
-feminine
-119719	
-
-masculine
+119717	feminine
+119721	masculine
 119723	masculine
 neuter
-119729	
 119732	feminine
 feminine
 feminine
 119736	neuter
 feminine
 neuter
-
 119741	feminine
 feminine
-
 119745	masculine
 feminine
-
-masculine
+119748	masculine
 119750	masculine
-
-119754	
+119754	masculine
 feminine
-
-
 119762	masculine/feminine
-119765	
 119767	masculine
 masculine
 masculine
 masculine/feminine
 masculine/neuter
-
 119774	masculine
-
-neuter
+119776	neuter
 masculine
 masculine/feminine
 feminine
 feminine
-
-feminine
-
-119785	neuter
+119782	feminine
+119785	feminine
 119788	masculine
 119790	masculine
 masculine/feminine
-119793	
-119795	
 119802	neuter
 feminine
 neuter
-
-119807	
-119811	
 119813	feminine
 119815	feminine
-119818	
-
-119821	
-neuter
+119822	neuter
 masculine
-119825	
-119842	
 119844	masculine
 masculine
 119848	masculine
 119850	neuter
-119852	
-
 119856	masculine
 119858	neuter
-
-
-masculine
+119861	masculine
 119865	masculine
-
 119868	masculine
 masculine
-
-119872	
-119875	
 119877	masculine
 neuter
 119880	feminine
 neuter
-119884	
-119886	
-masculine
+119887	masculine
 feminine
 119890	feminine
 masculine/feminine/neuter
 feminine
-
-
 119896	feminine
 neuter
 119901	masculine/feminine/neuter
@@ -70884,276 +36593,155 @@ feminine
 119907	masculine
 119909	feminine
 119911	masculine/feminine
-
-
-119916	
-masculine
-
+119917	masculine
 119920	neuter
-
-119924	
-
-
-feminine
+119927	feminine
 masculine
 119930	neuter
-119932	
+119932	masculine
 119934	masculine
 119937	feminine
 119939	masculine/feminine
 feminine
-
 119943	feminine
-
-
 119949	masculine
-119952	
-
-
-neuter
+119955	neuter
 119957	feminine
-
-119966	
 119968	feminine
 feminine
-119971	
-feminine
-
-
-neuter
+119972	feminine
+119975	neuter
 masculine
 feminine
 119979	feminine
 neuter
-119982	
-
 119985	masculine
-119987	
-
-neuter
-
-feminine
+119987	masculine/feminine
+119989	neuter
+119991	feminine
 119996	masculine
 119998	feminine
 120000	masculine
-
-feminine
+120002	feminine
 masculine/neuter
 120005	feminine
 masculine
-
-neuter
-120011	
-
-120015	
-feminine
+120008	feminine
+120016	feminine
 masculine/feminine/neuter
-
 120020	feminine
 feminine
-
-120026	
 120028	masculine/feminine
 masculine
-120031	
-masculine/neuter
+120032	feminine
 120034	feminine
-120041	
-masculine
+120042	masculine
 120045	masculine
 masculine
 120049	masculine/neuter
-120052	
-
-masculine
-
-
-120058	
-masculine
-
-
+120054	masculine
+120059	masculine
 120064	masculine/feminine
-
+120066	masculine
 masculine
-masculine
-120069	
 120071	neuter
-
-120075	
+120076	feminine
 feminine
 feminine
-feminine
-120081	
-120084	
-neuter
+120085	neuter
 feminine
 masculine
 120089	masculine/neuter
-120091	
-
 120095	masculine
 masculine
-
 120100	masculine
-120103	
 120107	masculine
 120109	feminine
 masculine
-
-neuter
+120112	neuter
 120117	feminine
-
-
-
-120122	
-
+120124	masculine
 masculine
-masculine
-
-neuter
-
-masculine/feminine
-120131	
-masculine/neuter
+120127	neuter
+120129	masculine/feminine
+120132	masculine/neuter
 feminine
 masculine
-
-
 120138	feminine
 120141	neuter
 120143	feminine
-
+120145	feminine
+120147	neuter
 feminine
-
-neuter
 feminine
-neuter
-
-masculine
+120151	masculine
 120153	neuter
-120156	
-120158	
 120161	masculine
-
-
-neuter
-
-masculine/feminine/neuter
-120170	
-120178	
-120180	
+120164	feminine
+120166	masculine/feminine/neuter
 120183	neuter
-120185	
-120187	
 120189	feminine
-120191	
 120193	feminine
-
 120196	neuter
 120199	feminine
-120201	neuter
-120203	
-neuter
+120201	feminine
+120204	neuter
 120207	masculine
-120209	
-
 120212	neuter
 120215	feminine
 120217	feminine
 masculine
-
-120222	
 120224	masculine
-120226	
 120229	feminine
-120231	
 120234	masculine/neuter
-
-masculine/neuter
+120236	masculine/neuter
 neuter
 feminine
-
 120241	masculine
-
-
-feminine
-120246	
+120244	feminine
 120248	masculine
 120250	masculine/feminine
-120252	
-120254	
-
-feminine
-
-120259	
-feminine
-
-
-
-masculine/neuter
+120256	feminine
+120260	feminine
+120264	feminine
 masculine
-120268	
-120270	
-120272	
-
-120276	
-masculine
-120281	
-masculine
-120284	
-masculine
+120268	masculine
+120277	masculine
+120282	masculine
+120285	masculine
 120288	feminine
 masculine
-120292	
-feminine
+120293	feminine
 120295	masculine/neuter
 120297	masculine
 feminine
-120300	
-feminine
-
-120305	
-120307	
+120301	feminine
 120309	neuter
 neuter
 masculine
-
-masculine/feminine
+120313	masculine/feminine
 120315	masculine/feminine
-
+masculine/feminine
 neuter
-neuter
+feminine
 masculine
 masculine
 120322	feminine
 feminine
-
 120327	feminine
 120329	feminine
-
 120332	feminine
-120334	
-
-
-120341	neuter
+120341	feminine
 masculine/neuter
-
-
-
 120348	feminine
 120350	neuter
 120352	masculine/feminine
 masculine
-120356	
-feminine
-
+120357	feminine
 120362	feminine
 120368	feminine
 masculine
-
 120372	feminine
-
-120375	
 120377	feminine
 120379	neuter
 120381	masculine
@@ -71161,206 +36749,117 @@ masculine
 masculine
 masculine
 120386	feminine
-
-120389	
-
+120391	feminine
+120393	feminine
 feminine
-120393	
-feminine
-
 120397	masculine
-120401	
-120403	
 120405	masculine
 feminine
-120409	
 120411	feminine
 120414	neuter
 masculine
 masculine
-
-
-
-120421	
-
-120425	
 120427	masculine/feminine
 feminine
 120430	feminine
-120432	
-
 120435	neuter
-masculine/neuter
-
+feminine
+masculine
 120439	masculine
 120443	neuter
-120446	
-feminine
+120447	feminine
 120450	masculine
-120453	
 120455	masculine
 120459	masculine
 120462	masculine
-120465	
 120467	neuter
-
-
-masculine
-120474	
-
+120470	masculine
+120475	feminine
 120477	masculine
 neuter
 120481	masculine
 120483	masculine
-120485	
-
-neuter
+120487	neuter
 neuter
 masculine
-120492	
-
-feminine
+120494	feminine
 neuter
-
-
 120503	masculine
 120505	masculine/feminine
-
 120515	neuter
-
 120518	feminine
 feminine
-
-
-neuter
+120522	neuter
 120526	masculine
-120528	
 120531	neuter
 120533	masculine
-120536	
-120538	
 120545	feminine
 neuter
-120549	
-120553	
-
-
-neuter
+120556	neuter
 120558	masculine
 120563	feminine
-
 120567	neuter
-120571	
 120573	feminine
 feminine
 120579	feminine
 feminine
 feminine
-
-feminine
+120583	feminine
 feminine
 120586	feminine
 feminine
-
-120590	
-
+120590	feminine
 120593	masculine
 120595	feminine
 feminine
-
-120599	masculine
+120599	neuter
 120601	masculine
 120604	masculine
-
-
 120608	feminine
 masculine
-120612	
-
-
-
-feminine
+120616	feminine
 120620	masculine/feminine
-
-feminine
-
+120622	feminine
 120626	masculine/feminine
 masculine
 neuter
 feminine
 neuter
-120632	
 120634	masculine
-120636	
-120641	
-120643	
-120645	
-120647	
-120649	
-
-
 120655	neuter
-
-120660	
+120660	feminine
 feminine
 120663	feminine
 feminine
-
-120667	
 120669	neuter
 120672	neuter
-
+120674	feminine
 feminine
 feminine
-feminine
-
 120679	masculine
-
 120682	masculine
 masculine
 neuter
 masculine
-120687	
-
-masculine/feminine
-120691	
-120694	
-feminine
-120697	
-feminine
-
+120689	masculine/feminine
+120695	feminine
+120698	feminine
 120704	neuter
-
-neuter
-120711	
-120713	
-
-120716	
-masculine
-120719	
-
-masculine
+120706	neuter
+120717	masculine
+120721	masculine
 masculine
 120725	feminine
-120727	
-
-120732	
-feminine
-
+120733	feminine
 120736	masculine/feminine
-
-
-feminine
+120739	feminine
 neuter
-120742	
-masculine/feminine
-
+120743	masculine/feminine
 120747	masculine
 masculine/feminine/neuter
 feminine
 neuter
-
-masculine
+120752	masculine
 feminine
 neuter
 120756	masculine
@@ -71368,231 +36867,130 @@ feminine
 feminine
 feminine
 feminine
-120763	
-
-neuter
+120765	neuter
 120767	feminine
 120771	masculine/feminine
 120773	feminine
-
-
-feminine
+120776	feminine
 neuter
 neuter
-120781	
-
-
 120785	masculine
 masculine
-
-120789	
-120792	
-masculine
+120793	masculine
 feminine
 masculine
 masculine
 120798	feminine
 masculine
-120801	
-
 120804	feminine
-120807	
-
-feminine
-
+120809	feminine
 120813	masculine/feminine
-
-feminine
-
-120819	
+120815	feminine
 120821	neuter
 120825	masculine/feminine
-120827	
-120829	
 120831	masculine
-120833	
-masculine/feminine/neuter
-
-120838	
-
-
-
+120834	masculine/feminine/neuter
 120844	masculine
-
-
-
-neuter
+120848	neuter
 120851	masculine
 120853	masculine/neuter
-
 120856	masculine
-120858	
-masculine
-120861	
+120859	masculine
 120863	masculine/feminine
-
-120867	
-feminine
+120868	feminine
 120870	masculine
 120872	feminine
 masculine
-120876	
-120880	
 120882	masculine/feminine
-
-masculine
-120886	
-feminine
+120884	masculine
+120887	feminine
 120890	masculine/neuter
 feminine
-
-120894	
 120896	masculine/neuter
 120898	neuter
-
-120901	
 120903	feminine
-
 120906	masculine
-
-neuter
-
+120908	neuter
 120911	neuter
-
-120914	neuter
-
-
+120917	masculine
 masculine
-masculine
-
-
 120923	feminine
-
-120926	
-
-masculine
-
-masculine
+120928	masculine
+120930	masculine
 120933	neuter
 120935	masculine
-
-
-120939	
-120941	
 120944	masculine
 120946	masculine
-
 feminine
-
-120951	
 feminine
-
-120955	
-120960	
-masculine
-120963	
-120966	
-
-neuter
+120951	feminine
+feminine
+120961	masculine
+120968	feminine
 masculine
 feminine
 120973	feminine
 120975	feminine
-120977	
-masculine
+120978	masculine
 120980	masculine
-
-masculine
+120982	masculine
 120984	neuter
 120986	masculine
 120988	masculine
 masculine
-120991	
-masculine/feminine
+120992	masculine/feminine
 120996	masculine
-
-masculine
+120998	masculine
 masculine
 feminine
 feminine
-
 121004	masculine
-121006	
-121008	
 121013	neuter
 masculine/feminine
-
 121017	masculine/feminine
 neuter
-
-feminine
-
-
-
-
-121026	
-masculine
-
+121020	feminine
+121027	masculine
 121030	neuter
 neuter
 feminine
-
 121035	neuter
 121037	masculine
 121040	feminine
 feminine
 masculine
 masculine
-
 121046	feminine
-121051	
-masculine/feminine
-121055	
-masculine
-121058	
-masculine
-121063	
+121052	masculine/feminine
+121056	masculine
+121059	masculine
 121065	feminine
 masculine
 masculine
-
-
-
-feminine
+121071	feminine
 masculine
 masculine
-121078	
-masculine
+121079	masculine
 121081	masculine
 121083	masculine
-
 121086	neuter
 neuter
 masculine/neuter
 121090	masculine/neuter
-121094	
-121097	
-feminine
+121098	feminine
 feminine
 121101	feminine
 masculine
 feminine
 121106	masculine
 121108	feminine
-
-
-masculine
-121113	
+121111	masculine
 121117	neuter
-
 121120	neuter
-121122	
+121123	feminine
 feminine
-feminine
-
 121128	neuter
-121130	
-feminine
+121131	feminine
 masculine
 feminine
 feminine
@@ -71600,24 +36998,14 @@ feminine
 neuter
 feminine
 feminine
-121145	
-neuter
+121146	neuter
 121149	neuter
-
 121153	neuter
 neuter
-121156	
-
-
-masculine
-121163	
-
+121159	masculine
 121166	neuter
-
 121171	feminine
-121173	
-
-masculine
+121175	masculine
 121177	feminine
 121181	feminine
 masculine
@@ -71627,115 +37015,66 @@ feminine
 feminine
 121197	masculine
 feminine
-121200	
-121203	
+121200	feminine
 121205	masculine
-121207	
-masculine/feminine
+121208	masculine/feminine
 neuter
 121211	feminine
-121213	
-121215	
-masculine/feminine
-
-
-
-
+121216	masculine/feminine
 121224	masculine/feminine
-
 121227	masculine
-121230	
 121232	feminine
 masculine
-121235	
-
-neuter
-121239	
-
+121237	neuter
 121244	masculine/feminine
 121246	masculine
 121249	neuter
-
-
 121253	neuter
 121255	feminine
 masculine
-121258	
-
+121260	feminine
 feminine
-feminine
-121263	
-121265	
 121267	feminine
-
-
 121274	feminine
 feminine
 masculine
 121280	neuter
-
-
-masculine
-121285	
-
-
+121283	masculine
 121289	feminine
 feminine
 121292	masculine
 121295	feminine
 feminine
 feminine
-
-
 121302	feminine
 feminine
 feminine
 masculine
 121309	feminine
 121311	masculine
-121316	
 121319	feminine
 121321	feminine
-
-
 121325	feminine
-
-
 121329	feminine
-121333	
-feminine
-
+121334	feminine
 121339	feminine
-121341	
-masculine
+121342	masculine
 feminine
 masculine/feminine
 masculine
 121347	neuter
 masculine/feminine/neuter
-
-121351	
 121353	masculine
-121357	
-121359	
 121361	feminine
 121364	masculine/neuter
 neuter
-121367	
-
-masculine
+121369	masculine
 121372	feminine
 121374	feminine
-
-
 121378	masculine
 feminine
-121382	
+121383	feminine
 feminine
-feminine
-
-121388	
-
 121391	masculine
 121394	masculine
 masculine
@@ -71743,46 +37082,28 @@ masculine
 121398	masculine
 feminine
 feminine
-
-
 121404	feminine
 121406	masculine
 masculine
-
 121410	masculine/feminine
 121413	masculine
-
-
-121417	
 121419	feminine
-
-neuter
+121421	neuter
 121423	neuter
-
 121426	feminine
-
 121430	neuter
-
 121433	feminine
-
-
-feminine
+121436	feminine
 feminine
 masculine
-
-121441	
-
 121444	feminine
-
 121448	feminine
 feminine
-121452	
 121455	masculine/feminine
 121458	neuter
 121460	feminine
-
-feminine
-121464	masculine
+121462	feminine
+121464	neuter
 neuter
 121467	feminine
 121470	feminine
@@ -71793,181 +37114,77 @@ masculine/feminine
 121482	masculine
 feminine
 121486	masculine
-121489	
-
-
-121493	
-
-neuter
-
-121498	neuter
-feminine
-
-
-
-121504	
-masculine/neuter
+121499	feminine
+121505	masculine/neuter
 feminine
 feminine
 masculine/neuter
 masculine/neuter
-
 121513	feminine
-
-121516	
-
-
-121520	
-121522	
-
-121525	
-121527	
-
-
-neuter
+121530	feminine
 121532	masculine
 121534	feminine
-
-121537	
-
-121540	
-
-
-
+121540	masculine
 121545	feminine
 feminine
-
-121549	
-
-
+121552	feminine
 feminine
-feminine
-
-
-feminine
-
-neuter
+121556	feminine
+121558	neuter
 121561	masculine
 121564	neuter
-121566	
-
-121569	
-neuter
-
-
-
-
-
+121570	neuter
+121575	masculine
 feminine
 neuter
-
-121581	
 121584	masculine
-121586	
-masculine/feminine
+121587	masculine/feminine
 neuter
-121590	
-
-121593	
-masculine
-121597	
-
-121600	
-
-
-121604	
-neuter
-
-121608	
-121611	
+121594	masculine
+121605	neuter
 121613	feminine
-121615	
-neuter
-121619	
-
-feminine
-121624	
-feminine
-121627	
-121629	
-121631	
-masculine
+121616	neuter
+121621	feminine
+121625	feminine
+121632	masculine
 masculine
 feminine
-
-121637	
 121639	feminine
 feminine
-
-feminine
-
-
+121642	feminine
+121644	masculine/feminine
 masculine
-121647	
+121648	feminine
 feminine
-
-
-neuter
+121651	neuter
 121653	masculine
 masculine
-121656	
-masculine
+121657	masculine
 121660	neuter
-
-masculine
-121664	
-masculine
-
+121662	masculine
+121665	masculine
 121668	masculine
-
-
-
-feminine
+121672	feminine
 masculine
-
-feminine
+121675	feminine
 masculine
-121678	
 121680	feminine
 masculine
-121683	
-121685	
 121688	masculine/feminine
-
+121690	masculine
 masculine
-masculine
-121693	neuter
-
 121696	masculine
 masculine
-121699	
-121701	
-
-121707	
-
-121711	
-121713	
-121715	
-
 121719	feminine
 feminine
 feminine
 feminine
-121725	
-feminine
+121726	feminine
 121728	masculine
-121734	
-
-feminine
+121736	feminine
 masculine
 masculine
 masculine
-
-121742	
-121744	
-121746	
-121750	
-
 121753	masculine
 feminine
 feminine
@@ -71975,754 +37192,424 @@ feminine
 121758	feminine
 121762	masculine
 121765	masculine
-
-feminine
+121767	feminine
 neuter
-121770	
 121772	masculine
-121774	
-121776	
 121779	feminine
 121782	masculine
 neuter
 feminine
-
 121787	neuter
 121789	feminine
-121791	
-masculine
+121792	masculine
 121794	feminine
 121796	masculine
-121798	
 121800	masculine
 masculine
 neuter
-
-neuter
-
+121804	neuter
 121809	feminine
-
-feminine
-
-121815	
-
-feminine
-
-masculine
+121811	feminine
+121817	feminine
+121819	masculine
 121821	feminine
 121823	feminine
-
-feminine
+121825	feminine
 feminine
 feminine
 masculine
 masculine
 121831	feminine
-
 121834	feminine
 feminine
 feminine
-
-
-neuter
+121839	neuter
 121841	masculine
-121845	
 121847	feminine
 121851	feminine
 feminine
 feminine
-
-feminine
+121855	feminine
 masculine
 121860	masculine/feminine
-
-
-
-
-121867	
+121867	masculine
 121869	feminine
-
-masculine
-
-masculine
+121871	masculine
+121873	masculine
 121877	masculine
 masculine
 121880	feminine
 masculine/feminine/neuter
 121883	neuter
-
-
+masculine
 121888	neuter
-
-121892	
+121893	feminine
 feminine
 feminine
+121897	feminine
 feminine
-
-feminine
-feminine
-
-masculine
+121900	masculine
 121902	masculine
-
 121906	neuter
-
-masculine
-
-
-masculine
+121908	masculine
+121911	masculine
 feminine
 121914	masculine/neuter
-
-
-121918	
 121921	feminine
 121924	feminine
 121926	masculine
 masculine/feminine
-121929	
-
 121932	masculine
-
-
 121944	masculine
-
-
 121949	masculine
 masculine
 121952	masculine
 121957	masculine
 masculine
-
 121965	feminine
 121968	neuter
-121970	
 121972	feminine
-121974	
-
-121980	
-masculine
-
-121985	
-masculine/feminine
-
-
-121990	
-masculine/feminine
-121993	
-masculine/feminine
-
-
+121981	masculine
+121986	masculine/feminine
+121991	masculine/feminine
+121994	masculine/feminine
 122001	feminine
 122007	masculine
-
-
-122011	
-masculine
+122012	masculine
 122014	feminine
 neuter
-122018	
 122020	neuter
-122022	
 122024	masculine
 masculine
 122027	feminine
 122031	neuter
-
 122034	neuter
 feminine
 feminine
-122038	
-
-neuter
-122042	
-122044	
-feminine
+122040	neuter
+122045	feminine
 masculine/feminine/neuter
 feminine
 feminine
-122050	
+122051	masculine/feminine
 masculine/feminine
-masculine/feminine
-122054	
-122056	
-masculine
-
-122060	
-122062	
+122057	masculine
 122064	feminine
-122066	
 122068	feminine
 122074	masculine
-122076	
 122079	feminine
 feminine
-
 122083	masculine
 122086	masculine
 masculine
 masculine/feminine
-
-
-122092	
 122094	feminine
-122096	
-masculine/feminine
-122099	
-
-masculine
-
-neuter
-
-masculine
+122097	masculine/feminine
+122101	masculine
+122103	neuter
+122105	masculine
 masculine
 neuter
-
+122109	neuter
 neuter
-neuter
-
-
-122114	
 122116	neuter
 masculine
 122119	masculine
 masculine
-
-
-feminine
+122123	feminine
 masculine
 feminine
 feminine
 feminine
 122129	feminine
-
-
-neuter
-122134	
-122137	
+122132	neuter
 122142	masculine
 masculine
-122145	
-122147	
 122150	masculine
-122154	
-masculine
+122155	masculine
 feminine
 masculine
 masculine
 masculine
-
 122163	neuter
 masculine
 masculine
 masculine/feminine
-
 122169	feminine
 122172	masculine
 masculine
-
-masculine
-
-feminine
+122175	masculine
+122177	feminine
 neuter
 122180	neuter
 122182	neuter
-122184	
-
-
-feminine
-122189	
-feminine
+122187	feminine
+122190	feminine
 neuter
-122193	neuter
-122195	
-feminine
-122199	
-masculine
-
-
-122204	
-neuter
-122207	
-neuter
-122210	
-
-122213	
+122193	feminine
+122196	feminine
+122200	masculine
+122205	neuter
+122208	neuter
 122215	masculine
 feminine
-122219	masculine
-neuter
-
-masculine/neuter
-neuter
+122220	neuter
+122222	masculine/neuter
+feminine
 masculine
-122228	
 122231	feminine
-122233	
-
-feminine
+122235	feminine
 masculine
 masculine
 neuter
-
-122241	
-
-neuter
+122243	neuter
 122245	masculine
-122249	
-feminine
+122250	feminine
 122259	feminine
 neuter
-
-masculine
+122262	masculine
 feminine
-122266	
+122267	masculine
+masculine
+122272	feminine
 masculine
 masculine
-
-122271	
-feminine
+122277	neuter
+122279	neuter
 masculine
-masculine
-122276	
-neuter
-
-neuter
-masculine
-
-122283	
-neuter
+122284	neuter
 122286	masculine
 masculine
 neuter
-
-masculine
+122290	masculine
 122293	feminine
-
+122295	feminine
 feminine
-feminine
-122299	
-
+122301	neuter
+122305	feminine
 neuter
-
-122304	
-feminine
-neuter
-122308	
-
-neuter
+122310	feminine
 feminine
 feminine
 feminine
-
 122316	masculine
-122319	
-
-neuter
+122321	neuter
 masculine/neuter
-
-
 122327	feminine
 feminine
 122330	feminine
 feminine
-122333	
-
-
-122338	
-
-
-feminine
+122333	masculine
+122341	feminine
 masculine
 masculine
-
 122347	masculine
 masculine
 122350	neuter
-
-
+122353	feminine
 feminine
-feminine
-
-
-
 122359	neuter
 feminine
 neuter
-122364	
-
-
-
-
+122366	feminine
 122371	masculine
-
-
-
-masculine/feminine/neuter
-122377	
-122379	
+122375	masculine/feminine/neuter
 122382	neuter
-
 122386	neuter
-
 122391	feminine
 feminine
-122394	
-122396	
-
-122400	
-neuter
-
-
+122401	neuter
 122405	feminine
 feminine
-
-122409	
-masculine/feminine/neuter
+122410	masculine/feminine/neuter
 feminine
-
 122414	neuter
 122417	masculine
 122421	masculine
-
-122426	
-feminine
-
+122427	feminine
 122430	feminine
 122433	neuter
 masculine
-
-neuter
+122436	neuter
 122438	neuter
-122440	
-masculine
+122441	masculine
 122443	feminine
 neuter
 masculine
 122449	feminine
-122453	
-neuter
+122454	neuter
 feminine
 feminine
 feminine
-122459	
-
 122463	feminine
-
-feminine
+122465	feminine
 neuter
-
-feminine
-122470	
-122473	
-
-feminine
-122477	
-122479	neuter
-
+122468	feminine
+122475	feminine
+122479	feminine
 122482	neuter
 122486	feminine
-122488	
 122491	feminine
 feminine
-122494	
 122498	masculine
-122503	
 122507	masculine
-
-
-122518	
-
+122520	feminine
+122523	feminine
 feminine
-122523	
-feminine
-122526	masculine
+122526	neuter
 122529	feminine
-122533	
+122533	feminine
 feminine
-
 122537	neuter
 122539	masculine
 masculine/feminine
 feminine
-
-
-
-masculine
-
-
-feminine
-
-122551	
+122545	masculine
+122548	feminine
 122553	masculine
 masculine
 122556	neuter
 122559	neuter
-
-feminine
+122561	feminine
 122563	neuter
-
 122566	neuter
 neuter
 neuter
-122571	
-
-122574	
-neuter
-122577	
+122575	neuter
 122579	masculine
-
-feminine
+122581	feminine
 feminine
 122584	neuter
-neuter
+feminine
 masculine
 masculine
-122589	
-
-masculine
-
-122594	
-masculine
+122591	masculine
+122595	masculine
 122597	neuter
 neuter
 neuter
 122601	masculine
 122604	neuter
-
-masculine
-
-
+122606	masculine
 122610	feminine
-
-122613	
-
 122617	neuter
-
-masculine
-122623	
+122619	masculine
 122625	feminine
 122630	feminine
 masculine
 masculine/feminine
 masculine/neuter
-
-
-122637	
-masculine
+122638	masculine
 122644	masculine
 neuter
 122648	masculine
 masculine
-
-
 122653	feminine
 feminine
-122656	
-
-masculine
+122658	masculine
 feminine
-122661	
 122663	masculine
 neuter
 masculine
 masculine/feminine
-masculine
-
-masculine
+122669	masculine
 122672	masculine
 neuter
 masculine
-
-masculine
+122676	masculine
 122679	masculine
 masculine
-
-
 122687	masculine/neuter
 masculine/neuter
 feminine
-122692	
-122694	
-122696	
-feminine
-
+122697	feminine
 122702	feminine
-
-
 122706	masculine/neuter
 feminine
-
-masculine
-
-feminine
+122709	masculine
+122711	feminine
 masculine/neuter
 masculine
 masculine
 122717	neuter
-
-feminine
-
-
-
+122719	feminine
+122722	feminine
 122724	feminine
-neuter
+feminine
 122727	masculine
-
-masculine
-
-
-
-122734	
+122729	masculine
 122736	neuter
-122738	
-
-masculine
+122740	masculine
 122743	masculine
-
 122748	feminine
-
-neuter
+122750	neuter
 122752	masculine
 122754	feminine
 feminine
 feminine
 feminine
-
-masculine/feminine
+122759	masculine/feminine
 122761	masculine
-
 122766	feminine
 122768	feminine
-122770	
-neuter
+122771	neuter
 masculine
-122774	
-122777	
 122779	neuter
-
-122783	
+122784	masculine
 masculine
 masculine
-masculine
-
-122792	
-neuter
-122795	
-122798	
+122793	neuter
 122801	neuter
-122805	
-neuter
-
-neuter
-
-masculine/feminine
+122806	feminine
+122808	neuter
+122810	masculine/feminine
 feminine
-122813	
+122813	masculine/feminine
 masculine
-122817	
-122823	
-122830	
-neuter
-
-122835	
-
+122831	neuter
 122838	masculine
-122840	
-feminine
-
-122845	
-
+122841	feminine
 122849	neuter
 122851	feminine
-
-
-feminine
-122857	
-
+122854	masculine
 122860	neuter
-122863	
-122866	
-
-
-122870	
-
-
 122874	feminine
 feminine
 feminine
-122878	
-
-
 122882	neuter
-
-122886	
-122890	
 122893	masculine/feminine
-
-122896	
-
-122899	
-122902	
-
-122905	
 122909	masculine/feminine
 masculine/neuter
 neuter
 feminine
-
 122915	feminine
 122917	masculine/feminine/neuter
 masculine/neuter
-
-122921	
-
-masculine/neuter
-
-
-neuter
+122923	masculine/neuter
+122926	feminine
 122928	masculine/neuter
-
-
-
-
 122934	masculine
-122936	
-122939	
-feminine
+122940	feminine
 masculine/neuter
-
-
-masculine
-122947	
+122944	masculine
 122950	feminine
-
 122953	masculine
 122956	masculine
 122959	feminine
-122961	
-
-122964	
 122969	masculine
-122971	
-
-neuter
+122971	masculine/feminine
+122973	neuter
 masculine/feminine
-122977	masculine
 122979	feminine
 feminine
 122982	feminine
 feminine
-
-neuter
-
-feminine
+122985	neuter
+122987	feminine
 feminine
 122990	masculine/feminine/neuter
 masculine/neuter
-
-feminine
-122995	
+122993	feminine
 122997	masculine
 122999	feminine
 masculine
@@ -72730,67 +37617,36 @@ masculine
 123005	masculine
 feminine
 masculine/feminine
-
-masculine
-123011	
-masculine
-
-
-
+123009	masculine
+123012	masculine
 123017	neuter
-
-123021	
-
 123025	masculine
 feminine
-
 123029	masculine
 123031	feminine
 feminine
 feminine
 123039	masculine/feminine
-
 123043	masculine
 123045	masculine
-123047	
-
-feminine
+123049	feminine
 123051	feminine
-
-123055	
-
-123058	
-
-feminine
-
-masculine
+123060	feminine
+123062	masculine
 123065	feminine
-
-123068	
-feminine
+123069	feminine
 feminine
 123073	feminine
-
-
 123077	neuter
-
-masculine
-
-123084	
-
+123079	masculine
 123088	masculine
-123090	
-123094	
 123096	masculine
-
-masculine/feminine
+123098	masculine/feminine
 123101	neuter
-
-neuter
+123103	neuter
 neuter
 123107	masculine
-
-masculine
+123109	masculine
 feminine
 masculine
 masculine/feminine
@@ -72798,99 +37654,49 @@ masculine
 masculine
 feminine
 masculine
-
-
-masculine
-123122	
-123125	neuter
+123119	masculine
+123125	feminine
 123127	masculine/feminine
 123131	neuter
 masculine
-
-123135	
-masculine
+123136	masculine
 123139	masculine
-
-
-123143	
-feminine
+123144	feminine
 masculine
 123148	feminine
-123150	
-
-feminine
-123154	
-123156	
-
-123159	
-
-123163	
-
-123166	
-
-
-123170	
-
-masculine
+123152	feminine
+123172	masculine
 masculine
 feminine
-123176	
-
-masculine/neuter
-
-masculine/feminine
-123183	
+123178	masculine/neuter
+123180	masculine/feminine
 123186	feminine
-
-neuter
-123190	
-123192	
+123188	neuter
 123194	masculine
-123196	
-neuter
+123197	neuter
 123199	masculine/feminine
-
-masculine
-
-feminine
-
-
-neuter
+123201	masculine
+123203	feminine
+123206	neuter
 123209	feminine
 masculine
-123213	
-123217	
-masculine
-123223	masculine
-
+123218	masculine
 123226	feminine
-
-neuter
+123228	neuter
 feminine
-
-feminine
+123231	feminine
 123233	feminine
-123235	
-123237	
 123241	feminine
-
 123245	masculine
 123247	feminine
 neuter
-123250	
-123252	
 123254	feminine
 neuter
-
-123258	
-123260	
-neuter
+123261	neuter
 123264	masculine
 masculine
-123268	
-feminine
+123269	feminine
 neuter
-123272	
 123274	masculine/neuter
 neuter
 masculine
@@ -72898,330 +37704,167 @@ masculine
 123281	masculine
 123284	feminine
 123289	feminine
-
-
-masculine
+123292	masculine
 feminine
 feminine
 123296	feminine
-
 123300	feminine
-
-
 123304	neuter
 123306	neuter
-
-feminine
-
+123308	feminine
 123313	masculine
 123318	feminine
-123322	
-123324	
 123327	masculine/neuter
 123329	masculine/feminine/neuter
-123331	
 123334	masculine
-
-feminine
-
+123336	feminine
 123341	feminine
 123344	masculine/feminine
-
-123347	
-masculine/feminine
-
-
 123353	masculine
-
 123358	masculine
-123360	
-
-123363	
+123364	feminine
 feminine
-feminine
-
-123368	
-neuter
-123376	
-123379	
-
-feminine
-123385	
-123387	
-masculine/feminine/neuter
-123390	
-
-
+123369	neuter
+123381	feminine
+123388	masculine/feminine/neuter
 123394	neuter
-
-
-123398	
-123402	
-123404	
 123407	masculine
-
+123409	masculine
 masculine
-masculine
-
-masculine
+123412	masculine
 neuter
-
-masculine/feminine
-
-
+123415	masculine/feminine
+123418	neuter
 neuter
-neuter
-
-masculine/feminine
-
-
-
+123421	masculine/feminine
 123426	masculine
-
-masculine
-123430	
-
-masculine/neuter
+123428	masculine
+123432	feminine
 123434	masculine
-123436	neuter
+123436	feminine
 masculine
 masculine
 123441	feminine
 feminine
 123445	feminine
-
 123449	feminine
 123451	feminine
 masculine
 masculine
-
-
-
-
-feminine
-123461	
-123463	
-masculine/feminine/neuter
-
-123467	
-123469	
-123471	
-masculine
-123474	
-
-123477	
-
-feminine
+123458	feminine
+123464	masculine/feminine/neuter
+123472	masculine
+123479	feminine
 123481	feminine
 neuter
-
-masculine
-
-
-
+123484	masculine
 123489	masculine
 masculine/feminine
-
 123494	feminine
-123497	
-neuter
+123498	neuter
 123501	feminine
-
-masculine
+123503	masculine
 123505	masculine/feminine
 feminine
-123508	
-masculine
-
-123512	
-123514	
-
-123517	
-123519	
-masculine
+123509	masculine
+123520	masculine
 masculine
 123526	neuter
-
-
 123530	neuter
-
+123532	masculine
 masculine
-masculine
-
 123537	neuter
-
-
-
-
-neuter
-
+123542	neuter
 123545	neuter
 123547	feminine
 neuter
 123551	feminine
-
-
-
-neuter
-123558	
-masculine
+123555	neuter
+123559	masculine
 masculine/feminine
 123563	masculine
 masculine/feminine
-123567	
-
 123571	masculine
-123573	
 123575	neuter
-
-neuter
+123577	neuter
 masculine/neuter
 feminine
 123581	feminine
 feminine
 neuter
-
-feminine
-123588	
-
-
-masculine
+123585	feminine
+123591	masculine
 123594	masculine/feminine
 feminine
-
-masculine
+123597	masculine
 123599	masculine
 123604	feminine
 masculine
-123608	
-
-neuter
-
-neuter
+123610	neuter
+123612	neuter
 masculine
-
-
-masculine/feminine
-
-neuter
-123621	
-
-123624	
 masculine
+123618	neuter
+123622	masculine/feminine
+123625	masculine
 feminine
-
-
-
-123631	
-masculine/neuter
-123635	
+123632	masculine/neuter
 123639	neuter
 123641	feminine
-123643	
-masculine
-
+123644	masculine
 123649	neuter
-123652	
-
-masculine
-123657	
-
-123660	
-
-
-123664	
+123654	masculine
 123666	feminine
 feminine
-
-neuter
-
+123669	neuter
+123671	feminine
+123674	masculine
 feminine
-
-
-masculine
-
 123677	feminine
 feminine
-123682	
-neuter
-
-
-feminine
-
-
-masculine
+123683	neuter
+123686	feminine
+123689	masculine
 123691	feminine
-123693	
-masculine
-123696	
-
-neuter
-
-123701	
-
-
-feminine
+123694	masculine
+123698	neuter
+123704	feminine
 123706	neuter
 feminine
 feminine
-123710	
-
-
 123714	feminine
-123716	
-masculine
+123717	masculine
 123720	feminine
 masculine
 masculine
-
-feminine
-
+123724	feminine
 123727	masculine
 neuter
 feminine
-
-masculine/neuter
+123731	masculine/neuter
 neuter
-123735	
-
-
-
-neuter
+123739	neuter
 123741	feminine
-
 123745	feminine
 123747	feminine
 feminine
 masculine
-
-
-masculine/neuter
-123754	
+123752	masculine/neuter
 123757	feminine
 123759	masculine
 123761	masculine
 123764	masculine/feminine/neuter
-
-
-neuter
-
-123770	
+123767	neuter
 123772	feminine
 feminine
-
-masculine
+123775	masculine
 123778	masculine
 masculine
 masculine
 masculine
-
-123784	
-123786	
-feminine
-
-masculine/neuter
-123791	
-masculine/neuter
+123787	feminine
+123789	feminine
+123792	masculine/neuter
 masculine
 masculine
 masculine
@@ -73229,25 +37872,17 @@ masculine
 masculine
 123801	neuter
 masculine/feminine
-123805	
-123807	
-neuter
+123808	neuter
 feminine
 123811	masculine
 masculine
 masculine
-123815	
-123817	
-123819	
-feminine
-
-neuter
+123820	feminine
+123822	neuter
 123824	masculine
-
-masculine
+123826	masculine
 feminine
-
-neuter
+123829	neuter
 masculine
 masculine/feminine
 123833	feminine
@@ -73256,145 +37891,83 @@ neuter
 123838	feminine
 123840	feminine
 feminine
-neuter
-123845	
+feminine
 123847	masculine/feminine
 feminine
 feminine
-123851	
 123853	masculine/neuter
 neuter
 neuter
 123857	feminine
 masculine/feminine
-123860	
-
-neuter
+123862	feminine
 123865	feminine
-
-123870	
-
-123873	
+123874	feminine
 feminine
+123881	feminine
+123886	feminine
 feminine
-123881	
-123883	
-
-
-feminine
-feminine
-123889	
-
-123892	
-
-123895	
-
-123898	
-feminine
+123899	feminine
 123901	feminine
-
-123904	
-feminine
-123908	
-123910	
-
+123905	feminine
 123913	feminine
-
-123916	
-feminine
+123917	feminine
 123919	feminine
-
-123922	
-feminine
-123925	
-feminine
-123928	
-masculine
+123923	feminine
+123926	feminine
+123929	masculine
 123931	masculine
-
+123933	masculine
 masculine
-feminine
-123936	
-
-123939	
-masculine
+123940	masculine
 feminine
 masculine
 masculine
-
 123947	masculine
 123949	feminine
 123953	neuter
 feminine
-
 123957	masculine/neuter
-
+123959	neuter
 neuter
-neuter
-123962	
-123964	
-masculine/feminine
+123962	masculine
+123965	masculine/feminine
 feminine
-123970	
 123972	feminine
 123974	masculine
-
-masculine
-
-masculine
-123981	
-
-
-feminine
-123986	
+123976	masculine
+123981	masculine
+123984	feminine
 123988	masculine
 feminine
-
-masculine
+123991	masculine
 feminine
 123994	masculine
 masculine
 masculine
-123998	
 124000	feminine
-124002	
-124008	
-
-feminine
+124010	feminine
 feminine
 neuter
 124016	neuter
-
-
-neuter
-
+124019	neuter
 124023	feminine
-
-feminine
+124025	feminine
 masculine
-
-masculine
+124028	masculine
 124030	feminine
 feminine
-
 124034	masculine
 124037	masculine
 masculine
 feminine
 masculine
 masculine
-124044	
 124049	feminine
-
-124052	
-masculine/feminine
-124058	
+124053	masculine/feminine
 124060	masculine/neuter
-
-masculine
-124064	
-124066	
-masculine
+124062	masculine
+124067	masculine
 feminine
 masculine
 masculine
@@ -73402,195 +37975,104 @@ masculine
 124075	masculine
 124078	neuter
 124080	feminine
-124082	
-neuter
-124085	
+124083	neuter
 124087	feminine
-
-feminine
+124089	feminine
 neuter
 feminine
-
 124095	feminine
 masculine
 masculine
 masculine
 masculine
 124101	masculine
-124104	
-neuter
-
-124111	
-124114	
-
-feminine
+124105	neuter
+124116	feminine
 masculine/feminine
 neuter
-124120	
-
-
-neuter
-124125	
-masculine
+124123	neuter
+124126	masculine
 124128	neuter
 124131	masculine
-
-124134	
-neuter
-
-
-124139	
-
+124135	neuter
+124140	masculine
 masculine/feminine
 feminine
-
 124145	masculine/feminine
-
-
-124149	
-feminine
+124150	feminine
 124152	neuter
-124154	
-feminine
+124155	feminine
 feminine
 masculine
 feminine
-124160	
-124162	
 124165	feminine
-
-feminine
-masculine
-
-
+124167	feminine
 124172	masculine
-124175	
-neuter
+124176	neuter
 feminine
 124181	masculine
-
-
-124185	
-124187	
-
-124192	
-feminine
+124193	feminine
 feminine
 124197	neuter
-124199	
 124202	neuter
 masculine
 feminine
-124207	
-neuter
+124208	neuter
 124213	feminine
 masculine
 124216	feminine
-124219	
-feminine
-124222	
-feminine
-
+124220	feminine
+124223	feminine
 124227	neuter
-
-
-
 124232	feminine
 feminine
 neuter
-
-
-
 124239	masculine
 124241	masculine
-
-
-
-
-
-
-
-124250	
-124254	
-
-
-
-
-neuter
-124263	
+124259	neuter
 124266	masculine
-
 124269	feminine
-124273	
-masculine
-
-124277	
+124274	masculine
 124281	masculine/feminine
 124283	neuter
-
 124286	feminine
-124288	
-feminine
-
-
+124289	feminine
 124296	masculine
 masculine/feminine
-124299	
+124300	neuter
+masculine/feminine
+124303	feminine
 neuter
 masculine/feminine
-
-feminine
-neuter
-masculine/feminine
-
 124310	masculine
 masculine/feminine
-
-124317	
-masculine/feminine
-124325	
-124327	
-feminine
+124318	masculine/feminine
+124328	feminine
 124333	masculine
 masculine
 masculine/feminine
 feminine
-
-masculine/neuter
-124341	
+124338	masculine/neuter
 124344	feminine
-124347	
-masculine/neuter
+124348	masculine/neuter
 124350	neuter
-
-masculine
+124352	masculine
 neuter
-124357	
 124359	neuter
 feminine
 feminine
-
-feminine
+124363	feminine
 124365	feminine
-
 124368	masculine/neuter
-124370	
-
-feminine
+124372	feminine
 neuter
 124378	feminine
 feminine
-124382	
-feminine
+124383	feminine
 neuter
-
 124388	masculine
-
-124391	
-neuter
+124392	neuter
 masculine
-
-124397	
 124401	feminine
 124403	feminine
 124405	feminine
@@ -73599,123 +38081,81 @@ masculine
 124412	feminine
 masculine
 124415	masculine
-
-masculine
-
-124420	
+124417	masculine
 124424	feminine
-
 124429	feminine
 feminine
 neuter
 masculine/feminine
-
-feminine
-
-masculine
-124439	
+124434	feminine
+124436	masculine
 124441	feminine
-124443	
-feminine
+124444	feminine
 124447	feminine
-
 124450	feminine
 124452	masculine
-124454	
-masculine
+124455	masculine
 124461	masculine/neuter
-
-
-124467	
-124470	
-
+124467	masculine
 124473	feminine
 neuter
 masculine
 124477	masculine
 124480	feminine
 124483	masculine/feminine
-
-neuter
-124487	
+124485	neuter
 124490	neuter
-124492	
-
-
-feminine
-
-masculine
+124495	feminine
+124497	masculine
 124499	masculine
 masculine
 masculine
-124506	
-
-neuter
+124508	neuter
 neuter
 feminine
 neuter
 feminine
 feminine
 masculine/feminine
-124516	
-neuter
+124517	neuter
 masculine
 124521	masculine
-124524	
-124526	
-
 124530	neuter
 feminine
 masculine
-
-neuter
+124534	neuter
 124538	feminine
 masculine
-
-
 124543	masculine
 124546	masculine/feminine
-124548	
-124550	
 124552	neuter
 124554	masculine/feminine
-
-
-124558	
-124560	
-feminine
-
-feminine
+124561	feminine
+124563	feminine
 124565	masculine/feminine/neuter
 feminine
 124568	feminine
 feminine
-124571	
-feminine
+124572	feminine
 feminine
 masculine
 124577	feminine
 feminine
 feminine
 masculine
-
-masculine
+124582	masculine
 124584	masculine
 124586	neuter
-124588	
 124591	masculine/neuter
 masculine/neuter
 masculine/neuter
-
-feminine
+124595	feminine
 masculine
-
-feminine
+124598	feminine
 feminine
 feminine
 neuter
 124604	masculine
-
 124607	feminine
 feminine
 124610	feminine
@@ -73724,155 +38164,84 @@ neuter
 124615	masculine
 masculine
 124618	masculine
-124620	
-124624	
 124628	masculine
-
-
-
-
 124634	feminine
-
 124640	feminine
-
-
-neuter
-
+124643	neuter
 124646	feminine
 masculine
-
 124650	feminine
 124653	masculine
-124656	
 124658	feminine
 feminine
-
-neuter
-
-124664	
-124667	
-masculine/feminine
+124661	neuter
+124668	masculine/feminine
 124671	feminine
 feminine
 masculine
 feminine
-
 124678	masculine
 124680	feminine
-124682	
+124683	feminine
 feminine
-feminine
-
-masculine
-
-neuter
+124686	masculine
+124688	neuter
 neuter
 124691	neuter
 neuter
-
+124694	feminine
 feminine
-feminine
-
-
-masculine
+124698	masculine
 124700	feminine
-
-
-124705	
-
-
-feminine
+124708	feminine
 masculine
 124711	masculine/feminine
-124713	
-124715	
-feminine
-
-
+124716	feminine
 124720	feminine
 masculine
-
-124724	
-
-masculine
-
+124726	masculine
 124732	feminine
 124735	feminine
 124737	neuter
-
 124745	masculine/neuter
-124747	
 124749	feminine
-
-
-
 124755	masculine
 124759	feminine
-124761	
-neuter
+124762	neuter
 feminine
-124766	
 124771	feminine
-124773	
-124775	
 124777	feminine
-
-
 124782	neuter
-
-
-124787	
 124790	feminine
 masculine
-
 124796	neuter
-124798	
-
-124802	
-masculine
+124803	masculine
 feminine
 feminine
 feminine
-
 124810	masculine
 124812	feminine
-124815	
 124817	feminine
 neuter
 feminine
-124821	
-
-124824	
-
+124825	feminine
 124827	masculine
-
-124830	
-124832	
 124836	masculine/feminine
 neuter
 masculine
 masculine/feminine
 124842	masculine/neuter
-
 124845	feminine
 feminine
 feminine
 124850	masculine
 neuter
 feminine
-124857	
-
-masculine
-
-feminine
-124863	
-124866	
-masculine/feminine/neuter
-124869	
-124871	
+124859	masculine
+124861	feminine
+124867	masculine/feminine/neuter
 124874	feminine
-
-masculine
+124876	masculine
 feminine
 124879	masculine
 masculine
@@ -73880,223 +38249,120 @@ masculine
 neuter
 feminine
 feminine
-124888	
-masculine/feminine
+124889	masculine/feminine
 124891	masculine
-
 124895	masculine
 124897	masculine
 124901	feminine
 masculine
-
 124905	feminine
 124907	feminine
-
-
-
-
 124913	feminine
 124915	feminine
 feminine
-124921	
-124923	
-
 124926	feminine
 124928	masculine
-124930	
 124936	masculine/feminine
 masculine
-124941	
-124943	
-
 124947	feminine
-
 124950	feminine
 124952	feminine
 feminine
 124955	feminine
 feminine
-
-
-124961	
-
-
-neuter
+124964	neuter
 masculine
 masculine
 124968	feminine
-
-124971	
-feminine
+124972	feminine
 feminine
 feminine
 124977	masculine
 124980	feminine
 feminine
 124985	neuter
-124987	
-
-
-masculine
+124990	masculine
 124992	neuter
 124995	feminine
-
-neuter
-
+124997	neuter
 125000	feminine
 masculine
-
-
-feminine
-
+125004	feminine
 125007	neuter
-125009	
-
-neuter
-
-
-125015	
-
+125011	neuter
 125018	feminine
 masculine
-125021	
-
-neuter
-
-
-125028	
-
-neuter
+125023	neuter
+125030	neuter
 feminine
-
 125034	neuter
 125037	feminine
 masculine
-
-
-neuter
-
-masculine/feminine
-
-feminine
+125041	neuter
+125043	masculine/feminine
+125045	feminine
 feminine
 masculine
-
-
-feminine
-
-
-125054	
+125050	feminine
 125056	feminine
 feminine
-
-125060	
-masculine/feminine
+125061	masculine/feminine
 masculine
 125064	feminine
 feminine
 feminine
 masculine
 125070	masculine/feminine
-
-
-masculine/feminine
+125073	masculine/feminine
 feminine
 feminine
-125077	
-masculine/feminine
-
-feminine
+125078	masculine/feminine
+125080	feminine
 feminine
 masculine
-
-
-
-
-
-
 125091	masculine
 125093	neuter
-
-125096	
-masculine/feminine
+125097	masculine/feminine
 125099	masculine
 feminine
-
-
-
-masculine
-
+125104	masculine
 125107	masculine
 masculine/feminine
-
-neuter
-
+125110	neuter
 125116	masculine
 masculine/feminine
-125122	
-masculine/neuter
+125123	masculine/neuter
 neuter
 feminine
-
-
-masculine/neuter
+125128	masculine/neuter
 masculine/neuter
 125131	neuter
-
-125134	
-masculine/neuter
-
-
-125139	
-neuter
-
-
+125135	masculine/neuter
+125140	neuter
 125145	masculine
 feminine
 feminine
 neuter
 125150	masculine
 masculine
-
 125156	feminine
 feminine
 neuter
 masculine
 masculine
-
-125164	
-neuter
+125165	neuter
 feminine
 feminine
-
-125172	
-
-neuter
-125178	
-neuter
+125174	neuter
+125179	neuter
 feminine
-
-
-neuter
-125185	
-neuter
-
-
-
-neuter
+125183	neuter
+125186	neuter
+125190	neuter
 125192	masculine
 masculine
-
-neuter
-
-
-125204	
-masculine
-
-125208	
-
-
+125195	neuter
+125205	masculine
 125213	masculine/feminine
 125218	feminine
 masculine
@@ -74104,116 +38370,55 @@ feminine
 feminine
 125223	masculine
 125225	neuter
-125229	
-
-
-masculine
+125232	masculine
 125234	masculine/feminine
-
-neuter
-125238	
-
-
-feminine
+125236	neuter
+125241	feminine
 feminine
 125246	neuter
 125248	masculine
 neuter
-
+125251	masculine
 masculine
-masculine
-
-
-neuter
+125255	neuter
 125260	neuter
 neuter
-
-
-feminine
-125266	
+125264	feminine
+125266	masculine
 125268	masculine
 masculine
 125272	neuter
-
-
-neuter
-
+125275	neuter
 125278	masculine
-
-neuter
-
+125280	neuter
 125283	masculine
 125285	neuter
 125288	neuter
-
-
-feminine
-125294	
-
-feminine
-
-125299	
-125301	
-
-
-feminine
+125291	feminine
+125296	feminine
+125304	feminine
 feminine
 125309	neuter
-
-
-125313	
-
-
+125316	feminine
 feminine
 feminine
-neuter
-125320	
-neuter
-
-
-masculine
-
-125330	
-
-masculine
-
+125321	neuter
+125324	masculine
+125332	masculine
 125336	masculine
-125338	
-neuter
-
-125345	
-masculine
-
-125353	
-masculine
-
-
-
+125339	neuter
+125346	masculine
+125354	masculine
 125359	masculine
-125361	
-neuter
-
-
-
+125362	neuter
 125369	masculine
-
-
+feminine
 125375	neuter
-
-
 125379	masculine
 masculine/feminine
-
-125384	
 125386	feminine
-
-
-125390	
-neuter
-
-masculine
-125395	
-
+125391	neuter
+125393	neuter
 125398	feminine
 feminine
 125403	feminine
@@ -74221,15 +38426,7 @@ feminine
 feminine
 125408	feminine
 feminine
-
-masculine
-
-125414	
-
-125417	
-
-
-
+125411	masculine
 125423	masculine
 125427	feminine
 feminine
@@ -74237,203 +38434,99 @@ neuter
 masculine
 125432	masculine
 125434	neuter
-
-neuter
-
-
+125436	neuter
 125441	neuter
-
-feminine
-125448	
-125457	
-
-
-feminine
-125462	
-feminine
-125466	
-
-
-feminine
-
-125472	
-feminine
-
-125476	
+125443	feminine
+125460	feminine
+125463	feminine
+125469	feminine
+125473	feminine
 125478	feminine
-125480	
-125482	
-
-
-125486	
-feminine
-125491	
-
-
-masculine/neuter
-125496	
-125498	
-125500	
-
-
-
+125487	feminine
+125494	masculine/neuter
 125505	feminine
-125507	
-
-125511	
-masculine
-125514	
+125512	neuter
 125516	feminine
-
 125519	masculine/feminine
 125521	masculine
-
-
+125524	masculine
 masculine
-masculine
-125527	
-masculine
-
+125528	masculine
 125531	masculine
 masculine
 125535	masculine
 125537	masculine
 125545	masculine
-125549	feminine
-125552	
-masculine
+125549	masculine
+125553	masculine
 masculine/feminine/neuter
-125560	
 125562	masculine
-125566	
-
-masculine/neuter
+125568	masculine/neuter
 masculine
-
-
-
-masculine
-125579	
-
-125583	
-
-feminine
+125573	masculine
+125585	feminine
 125590	feminine
 feminine
 125595	masculine/feminine
 125597	feminine
 125599	masculine
 feminine
-125602	
-
-feminine
-
-feminine
+125604	feminine
+125606	feminine
 125611	masculine
 125614	neuter
-
-
-
-125619	
-feminine
-
-
-masculine/feminine
-
-feminine
-125627	
+125620	feminine
+125623	masculine/feminine
+125625	feminine
 125629	neuter
-125631	
-feminine
-
+125632	feminine
 125636	masculine/feminine
-125639	
 125645	feminine
-
-
-neuter
+125648	neuter
 masculine
-125652	
-
-neuter
-
-masculine
-125658	
-feminine
+125654	neuter
+125656	masculine
+125659	feminine
 125661	masculine
 125664	neuter
-
-
-feminine
+125667	feminine
 neuter
 masculine
-
-
-masculine/feminine
-125674	
-
+125672	masculine/feminine
 125678	masculine
 masculine
-125682	
-neuter
-125685	
-125687	
-
-masculine/feminine
+125683	neuter
+125689	masculine/feminine
 masculine
-125692	
 125694	neuter
-125698	neuter
+125698	feminine
 125700	masculine
-125702	
-
-masculine/feminine
-
-
+125704	masculine/feminine
 125709	masculine
 125712	neuter
 125717	neuter
-125719	
-
-masculine
+125721	masculine
 125723	masculine
 neuter
-125726	
-
 125733	masculine
-
 125739	neuter
-
 125747	masculine
 masculine
 125750	feminine
 125753	feminine
-
 125756	feminine
 feminine
 125759	feminine
 feminine
-125762	
-
-125766	
+125767	feminine
 feminine
-feminine
-
 125771	feminine
-
-neuter
-
+125773	neuter
 125777	masculine
-
-neuter
+125779	neuter
 masculine
-
-
 125784	masculine
-125786	
-
-125789	feminine
-
+125789	masculine
 125794	masculine
 feminine
 masculine
@@ -74443,576 +38536,282 @@ masculine
 125806	masculine
 masculine
 125809	feminine
-
-
-
-125814	
 125817	masculine
-125819	
-
 125823	masculine
 masculine
-
-neuter
-
-
-neuter
-125831	
-
+125826	neuter
+125829	neuter
 125834	masculine
-125836	
-
-neuter
+125838	neuter
 feminine
-
-
-
 125844	neuter
-
-neuter
-
-125849	
-masculine
-125852	
-
-
-neuter
-125857	
-neuter
+125846	neuter
+125850	masculine
+125855	neuter
+125858	neuter
 neuter
 125861	neuter
-125863	
-neuter
+125864	neuter
 125866	neuter
-125868	
-
 125871	masculine
 masculine
 masculine
-125875	
-125877	
-
-neuter
+125879	neuter
 125881	masculine
 masculine
 masculine
 125886	neuter
-
 125890	feminine
 feminine
-125896	
-
-125899	
 125901	feminine
-
-
-masculine/neuter
-
+125904	masculine/neuter
 125910	neuter
-125912	
-
-125916	
-neuter
+125917	neuter
 125919	neuter
 neuter
-
-neuter
-125924	
+125922	neuter
 125926	neuter
 neuter
-
-
-125931	
-
 feminine
+125933	feminine
 masculine
-125937	
-
-125940	
-
-
-
 125945	feminine
-
-
 125950	masculine
 masculine
 masculine
-
-
-
-
 125958	masculine
 neuter
 125962	neuter
 masculine/feminine
-125966	
-
 125969	masculine/feminine
-
-
-feminine
+125972	feminine
 masculine
-
-neuter
+125975	neuter
 feminine
-
-neuter
-125981	
-
-125984	
-feminine
+125978	neuter
+125985	feminine
 125987	neuter
 neuter
-125992	
-
+125994	feminine
 feminine
 feminine
 feminine
-feminine
-
-126001	
-
 126004	masculine
-
-
-126008	
 126011	neuter
 feminine
 neuter
-126015	
-neuter
+126016	neuter
 126018	neuter
 126020	neuter
-
-feminine
-
-
-neuter
-
-
-neuter
+126022	feminine
+126025	neuter
+126028	neuter
 126030	masculine
-
-
-126034	
-feminine
-
-
+126035	feminine
 126040	feminine
-
-neuter
-126044	
-
+126042	neuter
 126047	feminine
 126050	neuter
 neuter
-
 126054	feminine
 feminine
-
-masculine
-
+126057	masculine
+126059	feminine
 feminine
 feminine
-feminine
-
 126065	masculine
 126068	feminine
 feminine
-126071	
-masculine
+126072	masculine
 masculine
 masculine
 feminine
 feminine
 masculine
-
-feminine
-
+126079	feminine
 126083	neuter
 126085	masculine
 masculine
-126088	
 126090	neuter
-
-feminine
+126092	feminine
 feminine
 neuter
-
 126097	neuter
 feminine
-
+masculine/feminine
 neuter
-
 126105	feminine
 masculine
 neuter
-
-126110	
-126112	
-
-neuter
+126114	neuter
 masculine
 masculine
-126118	
 126123	masculine/feminine
 126125	masculine
 masculine
 feminine
 feminine
 neuter
-
-neuter
-
-126135	
-neuter
-126138	
-neuter
-
-
-
-
-masculine/feminine
-
-
+126131	neuter
+126136	neuter
+126139	neuter
+126144	masculine/feminine
 126148	masculine/feminine
 masculine/feminine
 126151	masculine
 masculine
-126155	
-
-
-neuter
-126160	
-
-
-neuter
-126165	
+126158	neuter
+126163	neuter
 126167	masculine
-126169	
-126172	
+126173	neuter
+126178	neuter
 neuter
-
-126177	
-neuter
-masculine
 126181	masculine
-
 126184	masculine
-
-feminine
+126186	feminine
 neuter
-
-
-neuter
-126193	masculine
+126190	neuter
+126193	neuter
 126195	masculine
 masculine
-
-126200	
-
-neuter
-
-126209	
+126202	neuter
 126211	masculine
-126213	
-126217	
-
 126221	neuter
-126223	
-
-neuter
-
-126231	
+126225	neuter
 126234	masculine
-
-
-
-masculine
-
-
-126243	
-
-
-
-neuter
-126249	
-
-
-masculine/neuter
+126238	masculine
+126247	feminine
+126252	masculine/neuter
 126254	masculine
 126256	neuter
-
-126259	
-
-neuter
+126261	neuter
 126263	masculine
 126266	neuter
-
-feminine
-126270	
-126272	
-
-neuter
-
-
-feminine
-
-126280	
+126268	feminine
+126274	neuter
+126277	feminine
 126284	feminine
 126289	masculine
 masculine
-
-126293	
-feminine
-
-
-
-neuter
+126294	feminine
+126298	neuter
 126302	masculine
 masculine
-
-
-neuter
-126309	
+126306	neuter
 126311	neuter
 masculine
 masculine
 masculine
-
 126318	neuter
-
-masculine
-126322	
-126324	
-neuter
+126320	masculine
+126325	neuter
 126327	feminine
-
-
-neuter
-
-masculine/feminine
-
+126330	neuter
+126332	masculine/feminine
 126336	neuter
 126338	masculine/feminine/neuter
-
-masculine
-126342	
-126345	
+126340	masculine
 126348	neuter
-
-neuter
+126350	neuter
 126352	feminine
-
-
-
 126359	neuter
-126361	
-126363	
-masculine/feminine
-126366	
+126364	masculine/feminine
 126369	neuter
-126371	
-masculine/neuter
+126372	masculine/neuter
 neuter
 feminine
 masculine
-
 126378	masculine
-126380	
-masculine/feminine
-126384	
-126386	
-neuter
-126390	
-masculine
-
+126381	masculine/feminine
+126387	neuter
+126391	masculine
 126394	masculine
-126396	
-masculine/feminine
-
+126397	masculine/feminine
 126400	feminine
-
-neuter
-126404	
-masculine/feminine
-126407	
-neuter
-
-
-
-neuter
-
-126416	
-masculine/feminine
-
-
-
+126402	neuter
+126405	masculine/feminine
+126408	neuter
+126412	neuter
+126417	masculine/feminine
 126422	neuter
-
-masculine/feminine
-126427	
-126429	
-
-masculine
-126433	
+126424	masculine/feminine
+126431	masculine
 126436	masculine
-
-
 126440	masculine
-
-
-masculine
+126443	masculine
 126445	masculine
 masculine
-
-neuter
+126448	neuter
 masculine
-126451	
-neuter
-
-126456	
-
-neuter
-126465	
-126467	
+126452	neuter
+126458	neuter
+126468	masculine
+126471	masculine/feminine
 masculine
-126470	
-masculine/feminine
-masculine
-126474	
 126477	masculine
 masculine
-
-
-
-
-
-neuter
-
+126484	neuter
 126487	masculine
-126489	
-neuter
-
-
-neuter
+126490	neuter
+126493	neuter
 126495	feminine
-
 126498	feminine
-
-feminine
-
-
-
-feminine
-126507	
-126514	
-
+126500	feminine
+126504	feminine
 126517	neuter
-126519	
-126521	
-
-
 126525	feminine
 feminine
-
-
-
-126532	
-masculine
+126533	masculine
 126535	masculine/neuter
-
-masculine
-126540	
-126542	
-
-
-126546	
-
+126537	masculine
 126549	masculine
-
-masculine/feminine
+126551	masculine/feminine
 masculine
 masculine/feminine
-
-
-
 126558	neuter
 126562	neuter
-
-
 126566	masculine
 126568	masculine
 masculine
 126572	neuter
 neuter
-
 126576	neuter
 neuter
-
-
-
-masculine
-
-126587	
+126581	masculine
 126589	neuter
-
-masculine
+126591	masculine
 masculine
 126594	neuter
-
 126599	neuter
 126601	masculine
-126603	
-masculine
+126604	masculine
 126606	masculine
 masculine
-
-
-neuter
+126610	neuter
 126614	masculine
 masculine
 126617	neuter
-
 126620	neuter
-
-neuter
-
-neuter
-
-
-
-neuter
-126630	
-neuter
+126622	neuter
+126624	neuter
+126628	neuter
+126631	neuter
 126634	neuter
-
 126637	feminine
 feminine
 neuter
-
 126644	feminine
-
-
-neuter
-
-feminine
+126647	neuter
+126649	feminine
 feminine
 neuter
 126654	feminine
 feminine
 neuter
 feminine
-
-
-
-masculine
+126661	neuter
 126663	masculine
-
-
-neuter
-
+126666	neuter
 126673	feminine
 neuter
 feminine
@@ -75023,665 +38822,331 @@ feminine
 masculine/feminine
 126684	masculine
 masculine
-126688	
+126689	masculine
 masculine
-masculine
-126692	
-masculine
+126693	masculine
 126695	masculine
 masculine
-
-neuter
+126698	neuter
 126701	masculine
 126707	masculine
 masculine
-
-
-
-feminine
+126712	feminine
 neuter
-126715	
-
-feminine
-126719	
-
-feminine
+126717	feminine
+126721	feminine
 126727	masculine
-
 126732	feminine
 feminine
-
-
-
-masculine
+126737	masculine
 126746	feminine
 126748	masculine
-
-
-126752	
-
-
 126756	feminine
 feminine
 feminine
-
+126760	feminine
 feminine
-feminine
-
-neuter
-126766	
+126763	neuter
 126769	feminine
 feminine
-
-neuter
-
-
-
-
-
-neuter
+126772	neuter
+126778	neuter
 masculine
-126781	
-126784	
-neuter
-
+126785	neuter
 126788	feminine
-
-neuter
+126790	neuter
 masculine
 masculine
-126794	
-neuter
-
-
-126799	
-
-
-
+126795	neuter
 126804	feminine
-126806	
-masculine
-126809	
-
-
-neuter
+126807	masculine
+126812	neuter
 126816	feminine
 feminine
-
-feminine
+126819	feminine
 masculine
 126822	masculine
 126824	masculine/feminine
 126827	feminine
 feminine
-
-
 126832	neuter
 126834	masculine
-
-126838	
 126840	feminine
 masculine
 masculine
-
-126846	
-neuter
+126847	neuter
 126849	feminine
-
-
-feminine
-126854	
-
-
-
-feminine
-
-masculine
-126862	
-
-126865	
-
-
-
-neuter
+126852	feminine
+126858	feminine
+126860	masculine
+126869	neuter
 masculine
 126873	feminine
 feminine
-126876	
-126879	
-masculine
+126880	masculine
 neuter
-126883	
 126885	neuter
 neuter
-
-feminine
+126888	feminine
 126890	masculine
-
-
-
-feminine
+126894	feminine
 masculine
 masculine
-126898	
-
-
-neuter
+126901	neuter
 126903	neuter
 126906	neuter
 masculine
 masculine/feminine
-
 126912	neuter
 neuter
 feminine
 masculine
-126918	
-126920	
-neuter
+126921	neuter
 feminine
-126924	
-masculine
+126925	masculine
 126929	feminine
-126932	
-
-126935	
-
-
-feminine
+126938	feminine
 feminine
 feminine
 126944	feminine
-
-126948	
-
 126951	masculine
-126953	
-
-neuter
-
-
+126955	neuter
 126959	masculine
-126961	
-
-neuter
-
+126963	neuter
 126967	masculine
 masculine
-
 126971	neuter
-
-
-
-
-neuter
+126976	neuter
 126979	masculine
 126981	masculine
-
-
-masculine/neuter
-
-
-126988	
+126984	masculine/neuter
+126989	masculine
 masculine
-masculine
-
-neuter
-
-126995	
-masculine/feminine
+126992	neuter
+126996	masculine/feminine
 feminine
-
-
 127001	neuter
-127004	
-
-127007	
-
 127010	neuter
 masculine
 masculine/neuter
 127015	masculine
 127019	feminine
 masculine
-127022	
-feminine
-
-feminine
+127023	feminine
+127025	feminine
 127027	masculine
 127030	feminine
-127033	
-127036	
-
-
-feminine
-127041	
-
-127044	
+127039	feminine
 127047	masculine
 127050	feminine
-neuter
+feminine
 127053	feminine
 127055	feminine
-
-masculine/feminine
+127057	masculine/feminine
 127060	feminine
-127062	
 127067	feminine
 127069	masculine
-
-
-neuter
-127075	
+127072	neuter
+127076	masculine
 masculine
-masculine
-
-
-
-127082	
-feminine
-127085	
-
-masculine
-
-127090	
-feminine
-
-
-masculine
-
-feminine
-127100	
-
-127105	
-
-feminine
-
-
+127083	feminine
+127091	feminine
+127094	masculine
+127096	feminine
+127107	feminine
 127111	masculine
-
-
-
-127119	
-
 127125	feminine
-
-
-
-
-feminine
+127130	feminine
 feminine
 neuter
 127134	feminine
 masculine
-127141	
-
-127144	
-
-127147	
-
-
 127152	masculine
 masculine
 127156	masculine
 neuter
-
-feminine
+127159	feminine
 127162	masculine
 127165	masculine
-127167	
-127169	
-masculine
-
-neuter
-127174	
+127170	masculine
+127172	neuter
 127176	masculine/feminine/neuter
-
 127179	masculine
 masculine
 127182	masculine
 masculine
-
-
-127187	
-masculine
+127188	masculine
 neuter
-
-
+127192	masculine
 masculine
-masculine
-
-
-127204	
-
-masculine/feminine
+127206	masculine/feminine
 127209	feminine
-127214	
-
-masculine
-
-127219	
-feminine
+127216	masculine
+127220	feminine
 127223	neuter
 masculine
-
-masculine
+127226	masculine
 masculine
 127229	neuter
-127231	
 127234	neuter
 127236	masculine/neuter
 feminine
-
-
-127241	
-
-neuter
+127243	feminine
 masculine/neuter
 127246	masculine
-
-
 127251	feminine
-127256	
-
+127258	feminine
 feminine
 feminine
-feminine
-127264	
-neuter
-127269	
+127265	neuter
 127272	masculine
 127274	masculine
-
 127277	neuter
-
-
-
-feminine
+127281	feminine
 masculine
-
-127286	
-127292	
-feminine
+127293	feminine
 neuter
-
-127297	masculine
+127298	feminine
 feminine
+127304	feminine
+127308	feminine
+127310	masculine/feminine
+127314	feminine
+127317	neuter
 feminine
-127301	
-
-
-feminine
-127307	
-feminine
-
-masculine/feminine
-127312	
-
-feminine
-
-
-neuter
-feminine
-127320	
-
-feminine
+127322	feminine
 neuter
 masculine
 neuter
-
+127327	masculine
 masculine
-masculine
-
-
 127335	masculine
 masculine/feminine
-
-
-
-
-
+127341	masculine/feminine
 feminine
 127344	masculine
-
-
-
-
-neuter
-
-127352	
-127357	
+127347	masculine
+127349	neuter
+127358	feminine
 feminine
-feminine
-127362	
-127366	
-
-127369	
-feminine
+127370	feminine
 127372	neuter
-
-feminine
+127374	feminine
 127376	masculine
 127378	neuter
 masculine/feminine
-
 127382	masculine/feminine
-neuter
+feminine
 127385	masculine
-
-
-neuter
+127388	neuter
 neuter
 127391	neuter
-
-
-masculine/neuter
+127394	masculine/neuter
 masculine
 masculine/feminine
 127398	masculine
-127400	
-127410	
-127412	
 127414	feminine
-
+127416	masculine
 masculine
-masculine
-
 127420	masculine
-
 127423	masculine
 masculine
 masculine/feminine/neuter
-
-
-neuter
+127428	neuter
 127430	masculine
 masculine/feminine/neuter
-
-
 127435	neuter
 masculine/feminine/neuter
-127438	
-127441	
 127444	feminine
-127448	
-127450	
-
-feminine
+127452	feminine
 feminine
 feminine
 masculine/feminine
 127457	feminine
-
-
-
-127462	
-
-neuter
+127464	feminine
 masculine
-127467	
-
-127470	
-127472	
-
-
-127479	
-feminine
-
-127483	
-masculine
-
-
-127488	
-127490	
+127480	feminine
+127484	masculine
+127491	masculine
 masculine
 masculine
 masculine
-masculine
-127499	
-neuter
+127500	neuter
 feminine
 127504	masculine
 masculine/neuter
 127508	masculine
-
-127511	
-127513	
 127515	masculine
-
+feminine
 127518	masculine
-127520	
-
-127523	
+127524	feminine
 feminine
-feminine
-
-
-
-
+127530	masculine
+127537	feminine
+127541	feminine
 masculine
-
-
-127536	
-feminine
-
-127540	
-feminine
-masculine
-
-127545	
 127548	neuter
 masculine/feminine
-127551	
-neuter
+127552	neuter
 feminine
 feminine
-127556	
-feminine
+127557	feminine
 127560	neuter
-
 127563	masculine
 feminine
 127566	masculine
-127568	
 127570	feminine
 127574	masculine
-
+127576	masculine
+127579	feminine
 masculine
-127578	
-feminine
-masculine
-
 127583	masculine
 127585	masculine
-127589	
 127591	masculine
 127594	neuter
-
-
 127599	masculine
 neuter
-
 127604	feminine
 neuter
 masculine/feminine/neuter
-
-127609	
-
-feminine
+127611	feminine
 127615	feminine
-
-feminine
+127617	feminine
 feminine
 127620	masculine
 masculine
 127623	feminine
 127625	feminine
-
 127628	feminine
 127631	masculine
 masculine/feminine/neuter
-
-feminine
-
-127640	
+127634	feminine
 127642	masculine/neuter
 127645	masculine/neuter
 feminine
 127648	masculine/neuter
 masculine
 127652	masculine
-127654	
-
-127658	
-
-
-masculine
-127663	
-127666	
-feminine
-
-
-
-
-masculine
+127661	masculine
+127667	feminine
+127672	masculine
 127675	feminine
-127677	
-
-masculine/neuter
+127679	masculine/neuter
 feminine
-127682	
-
-neuter
+127682	masculine
+127684	neuter
 127686	neuter
-
-
 127692	neuter
-
-
-masculine
-
-feminine
-
-127700	
-
-
-127704	
-127707	
-feminine
-
-masculine
-127713	
-masculine
-
-127717	
-feminine
+127695	masculine
+127697	feminine
+127708	feminine
+127710	masculine
+127714	masculine
+127718	feminine
 127720	masculine
-
+masculine/feminine
 127724	feminine
-127726	
-
-feminine
+127728	feminine
 neuter
 feminine
 127733	masculine
@@ -75694,190 +39159,115 @@ feminine
 feminine
 127743	masculine
 127745	masculine
-127747	
-masculine
-
-127752	
-127757	
+127748	masculine
 127760	masculine
-
-
-masculine
-
-
-
-neuter
-
-127770	
-127773	
+127763	masculine
+127767	neuter
 127776	masculine/feminine
-
 127779	feminine
 masculine
 feminine
 neuter
 feminine
-127786	
 127788	feminine
 feminine
 feminine
 127793	neuter
 127795	masculine/feminine
-127797	
-masculine
-
-
-feminine
+127798	masculine
+127801	feminine
 feminine
 neuter
 127808	neuter
-
-127812	
-feminine
-
-127818	
-feminine
+127813	feminine
+127819	feminine
 127821	feminine
 feminine
-
+127824	feminine
 feminine
-feminine
-
-masculine
+127827	masculine
 feminine
 masculine
 masculine
-
-
-
-127835	
-
-
 127839	masculine
-
-feminine
+127841	feminine
 neuter
 feminine
 127845	masculine/neuter
-127848	
-masculine
+127849	masculine
 masculine
 127853	masculine
 127858	masculine
-127860	
 127862	feminine
 feminine
-
 127866	masculine
-127869	
-
-neuter
-
+127871	neuter
 127875	masculine
-
-masculine
+127877	masculine
 feminine
 masculine
 masculine
-
-feminine
+127882	feminine
 masculine
-127887	
-127889	
-
-masculine
-127895	
-
-127901	
+127891	masculine
 127904	neuter
 feminine
-
-127909	
-feminine
-127913	
-
+127910	feminine
 127916	feminine
 neuter
-127919	
-feminine
-
-neuter
+127920	feminine
+127922	neuter
 masculine
 feminine
-neuter
+feminine
 masculine
 masculine
-
-masculine
+127929	masculine
 feminine
 feminine
 127933	feminine
 127935	feminine
-127938	
-127943	
 127947	feminine
 feminine
 masculine
 masculine
 127953	neuter
 masculine
-127956	
 127958	masculine
 neuter
 neuter
-
-127963	
-neuter
-127967	
-neuter
-
+127964	neuter
+127968	feminine
 127971	neuter
-
-masculine
+127973	masculine
 neuter
 masculine
-127980	
-neuter
+127981	neuter
 127984	feminine
 masculine
 masculine
 feminine
-
-masculine
+127989	masculine
 masculine
 127993	masculine
-127996	
 127998	feminine
 128001	neuter
-
 128004	feminine
 masculine
 128007	masculine
 128009	masculine
 128011	feminine
-
-128014	
-
-feminine
-128018	
-128020	
-
-masculine
-
+128016	feminine
+128022	masculine
 128025	masculine
-
 128028	masculine
-128031	
+128032	feminine
 feminine
-feminine
-
+128035	neuter
+masculine/feminine
+128038	neuter
 neuter
-
-
-neuter
-neuter
-128041	
-masculine
+128042	masculine
 masculine
 masculine
 masculine/feminine
@@ -75892,116 +39282,67 @@ masculine
 feminine
 masculine
 128058	feminine
-
-
-masculine/feminine
+128061	masculine/feminine
 128064	masculine/feminine
-
-masculine/neuter
+128066	masculine/neuter
 neuter
 feminine
-
-
-feminine
+128071	feminine
 neuter
-128074	
-masculine/feminine
+128075	masculine/feminine
 feminine
 masculine
-
-neuter
+128079	neuter
 128081	feminine
 neuter
 neuter
 feminine
 feminine
 128088	feminine
-
 128092	feminine
 128094	feminine
-
-128097	
-masculine/neuter
-128101	
-128108	
-128113	
+128098	masculine/neuter
+128113	feminine
 feminine
 feminine
 128117	feminine
-
-feminine
-
-
+128119	feminine
 128123	feminine
-128126	
-
-masculine
+128128	masculine
 masculine
 128131	masculine
-
 128134	masculine
-
 128137	masculine
 128139	masculine
-128141	
-masculine
+128142	masculine
 masculine
 128145	feminine
-128148	
-
-feminine
+128150	feminine
 128152	feminine
-128154	
-
-masculine
-128158	
-
-128161	
-feminine
-128164	neuter
-128167	
-neuter
+128156	masculine
+128162	feminine
+128164	feminine
+128168	neuter
 128171	feminine
 masculine
-128174	
-128176	
-
 128179	feminine
-128182	
-masculine
-
-128186	
+128183	masculine
 128188	feminine
 masculine
 128191	masculine
-
 128195	masculine
 128197	feminine
-
-
-masculine
-128202	
-feminine
-128205	
-neuter
-128208	
-feminine
-128211	
-feminine
-128214	
-feminine
-128217	
+128200	masculine
+128203	feminine
+128206	neuter
+128209	feminine
+128212	feminine
+128215	feminine
 128219	masculine
-
-128223	
 128227	masculine/neuter
-128229	
-
+128231	feminine
 feminine
-feminine
-128235	
-
-masculine/neuter
+128237	masculine/neuter
 neuter
 masculine
 128241	feminine
@@ -76012,36 +39353,21 @@ masculine/feminine/neuter
 128254	neuter
 128256	feminine
 128258	feminine
-
+128260	neuter
 neuter
-neuter
-
-
 128265	masculine
 128267	neuter
-
 128270	masculine
 128272	masculine
 128274	neuter
 masculine
-128277	
-
 128282	feminine
-
-neuter
-
-
-
-feminine
-128290	
-
-
-feminine
+128284	neuter
+128288	feminine
+128293	feminine
 feminine
 neuter
 128297	feminine
-128299	
-
 128302	neuter
 feminine
 128305	feminine
@@ -76049,58 +39375,35 @@ feminine
 128308	feminine
 feminine
 neuter
-
-masculine
-128314	
-
-
-feminine
+128312	masculine
+128317	feminine
 neuter
 masculine
-
-
-128323	
 128327	neuter
-
-masculine
+128329	masculine
 128333	masculine
 neuter
 128336	masculine
 masculine
-
-
-
-
-masculine
+feminine
+128342	masculine
 masculine
 128345	masculine
 128348	masculine
 masculine
 128352	masculine
-128354	
-masculine
-
-
+128355	masculine
 128360	feminine
-128363	
+128364	feminine
 feminine
-feminine
-
-
-128369	
-masculine
+128370	masculine
 masculine
 128373	neuter
 128376	neuter
-
 128379	neuter
-
-128382	
-feminine
+128383	feminine
 128386	feminine
 feminine
-
-128391	
 128393	feminine
 masculine
 128396	feminine
@@ -76109,202 +39412,96 @@ feminine
 feminine
 128401	masculine
 feminine
-128404	
-masculine/neuter
+128405	masculine/neuter
 feminine
 feminine
-
 128410	feminine
 feminine
 feminine
 feminine
 feminine
 feminine
-
-
-
-128420	
-masculine
+128421	masculine
 feminine
 masculine
 neuter
-
-masculine
+128426	masculine
 masculine/neuter
 128429	feminine
-128431	
-
-feminine
+128433	feminine
 neuter
 masculine
 masculine
-
-
-masculine/neuter
+128439	masculine/neuter
 feminine
 neuter
 masculine/neuter
 masculine/neuter
-
-neuter
-128447	
-128454	
-128456	
-
-
-
-
+128445	neuter
 128462	masculine
 128464	masculine
-128468	
-
-128471	
 128473	masculine/feminine
-128476	
-128479	neuter
-128481	
-masculine
-128484	
-128486	
-
-
-masculine/neuter
-
-128492	
-
+128479	feminine
+128482	masculine
+128489	masculine/neuter
 128495	feminine
-
-
-128499	neuter
-128502	
 128504	neuter
 feminine
 128507	masculine
-
 128510	masculine
-128512	
-128514	
 128516	feminine
-
-
-
 128522	masculine
 masculine
-
-
-128527	
-
-
-neuter
+128530	neuter
 128532	feminine
 128534	neuter
 masculine
-
-masculine
-
+128537	masculine
 128541	neuter
-128544	
-128546	
-
-
-
-neuter
-128552	
-
-
+128550	neuter
 128556	feminine
 masculine
-128559	
-
-128562	
-neuter
+128563	neuter
 masculine
-
-
-128568	
-feminine
+128569	feminine
 feminine
 masculine
 neuter
-
-masculine
+128574	masculine
 masculine
 128577	masculine
 128581	masculine
-128584	
-
 128590	feminine
-
-128593	
 128596	feminine
-
-feminine
-
-128604	
-
-
+128598	feminine
+128607	masculine
+128609	masculine
 masculine
-
-masculine
-masculine
-
-neuter
-128615	
-
+128612	neuter
 128618	masculine
-128620	
-feminine
-
-128624	
-
+128621	feminine
 128629	masculine/neuter
 feminine
-
-masculine
-128634	
-128636	
-
+128632	masculine
 128641	feminine
 masculine
-
 128646	neuter
-128649	
-128651	
+128652	masculine
 masculine
-masculine
-
-masculine
-128657	
-
-
-
-
-masculine
-
-
-128666	
-neuter
+128655	masculine
+128662	masculine
+128667	neuter
 feminine
 masculine
 neuter
-
-masculine
-
+128672	masculine
 128675	feminine
 128677	neuter
 128679	feminine
-
-
-
 128684	masculine
-128686	
-masculine
-128689	
-128691	
-masculine
-128694	
+128687	masculine
+128692	masculine
 128698	masculine
-128700	
 128702	feminine
 masculine
 masculine
@@ -76313,609 +39510,288 @@ masculine
 masculine
 masculine
 masculine
-128713	
 128715	masculine
 masculine
-
-128719	
-
-masculine/neuter
+128721	masculine/neuter
 feminine
-
-
-
-128732	
-128734	
-masculine
-
+128735	masculine
+masculine/feminine
 feminine
 masculine
-128743	
-128745	
 128751	feminine
-128753	
-
-128756	
 128758	masculine
-128760	
-neuter
-128763	
+128761	neuter
 128765	neuter
-
-
-feminine
-
+128768	feminine
 128771	masculine
 masculine
-
 128776	neuter
-128779	
-128781	
-
-
-
-neuter
-
-feminine
-
-128791	
-neuter
+128785	neuter
+128787	feminine
+128792	neuter
 128794	feminine
-128796	
-128799	
+128800	masculine
 masculine
 masculine
-masculine
-128805	
-masculine
+128806	masculine
 masculine
 128809	masculine
-
-
-128813	
 128815	feminine
 masculine
 neuter
-
+128819	masculine
 masculine
+128822	neuter
 masculine
-
-neuter
-masculine
-
 128827	neuter
-
 128830	masculine
 128832	masculine
 128834	neuter
 masculine
-128837	
-
-neuter
-128843	
+128839	neuter
 128849	feminine
-128853	
 128855	neuter
-128857	
-neuter
+128858	neuter
 feminine
 masculine/feminine
 feminine
 feminine
-
-
-
-masculine/neuter
-
+128866	masculine/neuter
 128872	feminine
 feminine
-128877	
-128879	
 128882	masculine
-
-128891	
-
-128894	
-
-
-
 128899	feminine
-128901	
-
-128904	
-
-128911	
 128914	masculine
 masculine
-
-
-feminine
+128918	feminine
 masculine
 128922	neuter
-128926	
-
-128930	
+128930	feminine
 feminine
 feminine
-
-
-
-masculine
+128936	masculine
 masculine
 128940	feminine
-128942	
-
-128945	
-neuter
+128946	neuter
 128948	feminine
-
-128951	
-128955	
-128958	
-masculine/neuter
-128964	
+128959	masculine/neuter
 128966	neuter
 neuter
-
-masculine
-
-masculine/neuter
-
-
+128969	masculine
+128971	masculine/neuter
 128975	feminine
 128977	masculine
-
-masculine
-
-
+128979	masculine
 128983	masculine/feminine
-
-
-masculine
+128986	masculine
 masculine
 masculine
 128990	masculine
 masculine
 128994	neuter
 128996	masculine
-
-neuter
+128998	neuter
 feminine
-
-feminine
-129006	
+129001	feminine
 129008	feminine
-
-neuter
+129010	neuter
 neuter
 neuter
 feminine
-129015	
-masculine
-129018	
-
+129016	masculine
 129021	masculine
-129023	
-neuter
+129024	neuter
 129028	neuter
 masculine
-
 129033	neuter
-129036	
-129038	
-masculine
-
-
-129043	
+129039	masculine
 129045	feminine
 masculine
 neuter
-
-masculine
-
-neuter
+129049	masculine
+129051	neuter
 feminine
-129054	
-neuter
+129055	neuter
 129058	feminine
-129060	
-
-neuter
-129064	
-
-
-
-
+129062	neuter
 129070	masculine
-
-
 129075	masculine
 neuter
 feminine
 neuter
-
-129081	
-129084	
 129086	feminine
-
-
-neuter
+masculine/feminine
+129089	neuter
 masculine
-
-129093	
-129098	
-129100	
-masculine
+129101	masculine
 129103	masculine
-129105	
-
-129109	
-masculine
+129110	masculine
 129112	feminine
 feminine
-
-
-
-
-
-feminine
-129121	
+129119	feminine
 129123	neuter
-
 129126	neuter
 129128	feminine
-129130	
 129132	masculine/neuter
-
-masculine/neuter
-
-
-
+129134	masculine/neuter
+129138	masculine
 masculine
-masculine
-129142	
-
-masculine/neuter
-129146	
-masculine
-
-129150	
-neuter
-
+129144	masculine/neuter
+129147	masculine
+129151	neuter
 129156	feminine
-129158	
-129160	
-neuter
-
-
+129161	neuter
+masculine/feminine
 129165	masculine
-129167	
+129167	masculine/feminine
 feminine
 masculine
 neuter
 masculine
-
 129175	neuter
-129178	
-129180	
-masculine
-
-
-129185	
-feminine
+129181	masculine
+129186	feminine
 feminine
 masculine
 neuter
-
-masculine
+129191	masculine
 masculine/feminine/neuter
 masculine
 129195	masculine
-
 129198	feminine
 129200	masculine
-129204	
 129206	masculine
-129209	
-
-
-neuter
-129214	
-129216	
-
-feminine
+129212	neuter
+129216	masculine/feminine
+129218	feminine
 129222	masculine
-
-129225	
-masculine/feminine
-
+129226	masculine/feminine
 129231	masculine
-129235	
-129238	
-masculine
-
-
-
+129239	masculine
 129244	masculine
-
-masculine
+129246	masculine
 feminine
-
-129253	
-
-
-129257	
-
-129260	
-
-129263	
-
+129264	masculine/feminine
 feminine
-
-
 129269	feminine
-
-
-129273	
-
-129279	
+129280	masculine
 masculine
-masculine
-
-
-
 129286	feminine
-
-129292	
 129294	feminine
 feminine
-
 129298	masculine
-
 129301	feminine
 129303	neuter
-
+129305	masculine
+129313	masculine
 masculine
-
-
-129309	
-129312	
+129322	neuter
 masculine
+129327	masculine
+129337	neuter
 masculine
-
-129318	
-
-129321	
-neuter
+129345	neuter
 masculine
-129325	
-
-masculine
-
-129331	
-129335	
-
-neuter
-masculine
-129341	
-129344	
-neuter
-masculine
-129348	
 129350	feminine
 feminine
-
-
-
-
-
-neuter
+129357	neuter
 masculine
-129361	
-masculine
+129362	masculine
 129364	masculine
 masculine
-
 129369	neuter
-129372	
-129374	
-masculine
-
-
-129379	
+129375	masculine
 129381	feminine
 masculine
 neuter
-
-masculine
+129385	masculine
 feminine
 masculine
 masculine/feminine
 masculine
 masculine
 129393	feminine
-129397	
-neuter
-
-
-neuter
-129403	
-129406	
-129409	
-129412	
-129415	
-129417	
-129423	
-
-
-
-
+129398	neuter
+129401	neuter
 129429	masculine
-
-
-
-129434	
 129439	feminine
-
-129442	
-
-
-129446	
-masculine
+129447	masculine
 129452	masculine/feminine
-129457	
-
-
 129461	masculine/neuter
 masculine
 masculine
-
-masculine
-
+129465	masculine
 129470	neuter
-
-
 129474	masculine
 129476	feminine
-129480	
-129483	
-129486	
-
-129489	
 129491	masculine
-
-
-129495	
-
-129499	
-
-129502	
 129504	feminine
-129506	
-masculine
+129507	masculine
 masculine/feminine
-
-129511	
-masculine
-129514	
+129512	masculine
 129516	feminine
-129521	
 129523	neuter
 129527	masculine/neuter
 masculine
 masculine
-
-neuter
-
+129531	neuter
 129534	masculine/neuter
-
-
-neuter
+129537	neuter
 masculine
-
-masculine
-
-129544	
-
+129540	masculine
 129547	masculine
-
-
-neuter
+129550	neuter
 neuter
 masculine
-
 129556	neuter
-129559	
-129561	
-
-feminine
-
-129566	
-feminine
-129569	
-
+129563	feminine
+129567	feminine
 129573	feminine
-
+129575	feminine
 feminine
-feminine
-129579	
 129583	masculine/neuter
 masculine
-
-129588	
-
-neuter
-
-129593	
-feminine
-
-129597	
-129600	
-129602	
-
-
-129607	
+129590	neuter
+129594	feminine
 129609	neuter
 129612	masculine
 129614	masculine
 feminine
-
 129621	feminine
-129623	
-neuter
+129624	neuter
 masculine
 feminine
-129630	
-neuter
-129633	
-129636	
-129639	
-129644	
-
-masculine/neuter
-129648	
-feminine
+129631	neuter
+129633	masculine/neuter
+129639	masculine/neuter
+129646	masculine/neuter
+129649	feminine
 feminine
 neuter
-
-masculine
-129655	
-
-neuter
-
-feminine
+129653	masculine
+129657	neuter
+129659	feminine
 129661	feminine
 129663	feminine
 129665	feminine
 feminine
 masculine
 feminine
-
-
+masculine/feminine
+129671	neuter
 neuter
-neuter
-
-neuter
+129674	neuter
 feminine
-129677	
-neuter
-129680	
-
-neuter
-
-feminine
+129678	neuter
+129680	masculine/feminine
+129682	neuter
+129684	feminine
 129686	feminine
-129689	
-
-
-neuter
-129694	
-
-neuter
+129692	neuter
+129696	neuter
 129698	neuter
 masculine
-129701	
-129703	neuter
+129701	neuter
 129706	neuter
 129708	masculine
 neuter
@@ -76926,23 +39802,16 @@ neuter
 masculine
 129719	masculine
 neuter
-
-129724	
-feminine
+129725	feminine
 129728	masculine
 neuter
 neuter
 129734	neuter
 129736	neuter
-
-129739	
-feminine
-
-feminine
-129747	
-masculine/neuter
-129752	
-masculine/neuter
+129740	feminine
+129742	feminine
+129748	masculine/neuter
+129753	masculine/neuter
 feminine
 129757	masculine
 masculine
@@ -76952,353 +39821,193 @@ masculine
 masculine
 129764	masculine
 129766	masculine
-
 129769	masculine
-
 129772	masculine
 129774	masculine
-129776	
-neuter
+129777	neuter
 neuter
 feminine
-129781	
 129783	feminine
-
-129786	
-
-neuter
-
-
-
+129788	neuter
 129794	feminine
 129797	masculine
-
-129801	
-
-129804	
-
-neuter
-129808	
-
-
-
+masculine/neuter
+129801	masculine/feminine
+129806	neuter
 129814	feminine
-129817	
-129819	
-neuter
-
-
-neuter
+129820	neuter
+masculine/feminine
+129823	neuter
 masculine
 masculine
-
-masculine
+129827	masculine
 masculine
 129830	masculine
 129832	feminine
 129835	feminine
-129838	
-129842	
 129844	masculine
 neuter
 masculine
-129848	neuter
+129848	feminine
 129850	neuter
-
-
-129854	
-masculine
-
-
+129855	masculine
 129859	masculine
-
-129862	
-
-neuter
+129864	neuter
 129866	masculine
-
-129869	neuter
-masculine
+129870	masculine
 129872	feminine
-129874	
 129876	neuter
 neuter
-
-
 129881	masculine/feminine
-129883	
-129887	
-feminine
+129888	feminine
 129890	masculine
-129894	
-
-129897	feminine
-
+129897	masculine
 129900	feminine
-feminine
-
+masculine
 129904	feminine
-
-129912	
-129914	
-129918	
 129925	masculine
-
+129927	feminine
 feminine
-feminine
-
-129931	
-
-
-
+129931	feminine
+129935	masculine
 masculine
 masculine
-masculine
-
-129940	
-masculine
+129941	masculine
 feminine
 feminine
-129945	
 129949	feminine
 feminine
 129952	masculine
 masculine
-
-
-
-
-neuter
+129958	neuter
 129960	feminine
 masculine/feminine
 neuter
-129964	
-
+129966	feminine
 feminine
-feminine
-129970	
-masculine
-
+129971	masculine
 129974	feminine
 129977	feminine
 masculine/feminine
-
-neuter
+129980	neuter
 feminine
-129983	
-neuter
-129986	
-
+129984	neuter
+129987	feminine
 129989	feminine
-129991	
-129993	
-
 129996	feminine
-
-129999	
-
-neuter
+130001	neuter
 masculine
-
-
 130007	neuter
 130009	neuter
 130011	masculine
-
+masculine/neuter
 130015	neuter
-
-
+masculine/feminine
 130021	feminine
 130023	feminine
 130025	feminine
 130027	feminine
-
-feminine
+130029	feminine
 feminine
 feminine
 feminine
 130034	masculine/neuter
 feminine
-
+130037	masculine
 masculine
-masculine
-
-130044	
-feminine
+130045	feminine
 130047	masculine
-
-130052	
-neuter
-
-
-feminine
-
-
-feminine
-
+130053	neuter
+130056	feminine
+130059	feminine
 130062	feminine
 130068	masculine
-130070	
-neuter
+130071	neuter
 feminine
 feminine
 130075	masculine
-130077	
-
 130080	feminine
-130082	
-130085	
-masculine
+130086	masculine
 feminine
-
-
-neuter
+130090	neuter
 130092	feminine
 neuter
 130095	feminine
 feminine
-130098	
-masculine
+130099	masculine
 130101	neuter
 130107	masculine
-
 130110	masculine
 130115	masculine
 130122	feminine
-130126	
 130128	feminine
 130130	feminine
-130132	masculine
+130132	neuter
 130134	masculine
-
-
-130139	
 130141	feminine
-130143	
 130145	feminine
-130147	
 130149	masculine
 130152	neuter
-
-neuter
+130154	neuter
 masculine
 130157	masculine
-
-130160	
-
-neuter
-130164	
+130162	neuter
 130166	feminine
 feminine
 130169	feminine
-
 130172	feminine
 feminine
 130176	feminine
-
 130180	feminine
 130183	neuter
 130185	neuter
-
-feminine
+130187	feminine
 130189	masculine
 130191	neuter
-130193	
-masculine
-
-
-
-130201	
-masculine/neuter
+130194	masculine
+130202	masculine/neuter
 feminine
 130207	masculine/neuter
-
-feminine
+130209	feminine
 masculine/feminine
 neuter
 masculine/neuter
-
-
-masculine
-
-130218	
-130220	
+130215	masculine
 130222	masculine
 130224	masculine
-130228	
 130232	neuter
-130235	
-masculine
-130238	
-
-masculine
-
-
+130236	masculine
+130240	masculine
 130246	masculine/feminine
-130248	
-
-neuter
+130250	neuter
 masculine/neuter
-
-130254	
-130259	
 130264	neuter
-130267	
-
 130270	feminine
-130272	
-130274	
 130277	neuter
 feminine
 feminine
 masculine
-
-
-130286	
-130288	
-
-neuter
+130290	neuter
 masculine/neuter
-
-130294	
-130296	
 130298	feminine
 130300	masculine
-130304	
+130305	neuter
+130308	feminine
 neuter
-
-
-feminine
-neuter
-130312	
-
-
-
-feminine
+130316	feminine
 masculine/feminine
 neuter
 feminine
-130321	
-130324	
 130326	masculine
 130330	masculine
 130333	neuter
 masculine
 130336	masculine
-
-
-130344	
-
 130347	neuter
 masculine/neuter
-
-130351	
-130353	
 130357	masculine
-130359	
-neuter
-
-neuter
+130360	neuter
+130362	neuter
 masculine
 masculine
 130366	masculine
@@ -77306,101 +40015,60 @@ masculine
 130370	neuter
 130373	neuter
 feminine
-
 130377	masculine
 130379	feminine
-
-
-feminine
-130384	
-130387	
-
-130390	
-feminine
-
+130382	feminine
+130391	feminine
 130394	feminine
 masculine
-
-
 130399	feminine
-130401	
-
-
-masculine/neuter
+130404	masculine/neuter
 feminine
 feminine
 feminine
 feminine
-neuter
-130412	
-neuter
-130415	neuter
+feminine
+130413	neuter
+130415	feminine
 130417	feminine
-130419	
 130421	neuter
-
 130424	masculine
-
 masculine
-masculine
-
-masculine
+130427	masculine
+130429	masculine
 masculine/feminine/neuter
-130433	
-
-130436	
 130438	feminine
 feminine
-
-feminine
+130441	feminine
 masculine/neuter
-
 130445	feminine
 130448	neuter
 130451	feminine
 130454	neuter
-
-
 130459	neuter
-
+masculine
 130463	masculine
-
-neuter
+130465	neuter
 130467	masculine
 130469	neuter
 masculine
-130473	
 130476	masculine
-
-
-
 130483	feminine
 130489	masculine
 130492	feminine
-
 130497	feminine
 130499	feminine
-130501	
-feminine
+130502	feminine
 130504	masculine
-130506	
-
-neuter
-
+130508	neuter
 130511	feminine
-
-feminine
-
-130518	
-
+130513	feminine
 130521	feminine
 130523	masculine
-130526	
 130528	masculine
-130530	masculine
+130530	neuter
 masculine
-130534	
-feminine
+130535	feminine
 masculine
 neuter
 130540	masculine
@@ -77408,192 +40076,106 @@ masculine
 130543	feminine
 130545	masculine
 130548	masculine
-
 130551	masculine
 130554	masculine
-
 130558	masculine
 130560	masculine/feminine
 neuter
-130563	
-neuter
-130567	
-feminine
+130564	neuter
+130568	feminine
 feminine
 feminine
 masculine
 130573	masculine/neuter
-130579	
 130581	masculine/feminine
-130583	
-masculine/feminine
-
-
-
-130589	
-
-neuter
-130593	
-130595	
-
-130598	
-
+130584	masculine/feminine
+130591	neuter
+130600	feminine
 feminine
 feminine
 feminine
-feminine
-130605	
-neuter
+130606	neuter
 130608	masculine/feminine
 masculine
-130611	
-130613	
-130617	
-feminine
+130618	feminine
 130620	feminine
 130622	feminine
-130626	
 130628	feminine
-
-masculine
-
-130633	
+130630	masculine
 130635	feminine
-130637	
 130639	masculine
-130641	
-masculine
-130645	
+130642	neuter
 130648	neuter
-
-130651	
-neuter
+130652	neuter
 130654	neuter
-130657	
-
 130661	neuter
-
 130665	neuter
-
 130668	feminine
 130671	feminine
 masculine
-
-
+feminine
 130676	feminine
 130679	feminine
 130681	neuter
 neuter
 130686	masculine
-
-neuter
+130688	neuter
 feminine
-
-feminine
+130691	feminine
 neuter
 neuter
 masculine
 130698	feminine
 feminine
-
-130705	
-feminine
-
 masculine
-130710	
-
-masculine
+130706	feminine
+130708	masculine
+130712	masculine
 feminine
-130716	
-
 130719	feminine
-130721	
-
 130724	feminine
-130726	
-
 130729	feminine
-130731	
-
 130734	feminine
-130736	
-
+130738	feminine
 feminine
+130743	masculine
 feminine
-130741	
-
-masculine
-feminine
-130746	
-
-
-feminine
-130751	
-
+130749	feminine
 130754	feminine
-130756	
-
-masculine
+130758	masculine
 feminine
-130761	
-
 130764	feminine
-130766	
-
 130769	feminine
-130772	
-feminine
-
-130776	
+130773	feminine
 130779	neuter
-
-130784	
 130788	neuter
 130790	masculine
 130792	feminine
-130794	
-
-neuter
-130798	
-
+130794	masculine/feminine
+130796	neuter
+130798	masculine/feminine
 130802	feminine
 feminine
-130806	
 130809	neuter
 130811	masculine/neuter
-
 130814	masculine
-
+130816	feminine
+130818	neuter
 feminine
-
-neuter
-feminine
-
-130822	
-
-neuter
-130826	
+130824	neuter
 130830	masculine
-
-130833	
-
-neuter
+130835	neuter
 130837	feminine
 feminine
 130840	feminine
 masculine/feminine
 neuter
 130844	neuter
-
-
-neuter
-
-neuter
-
-neuter
-130853	
-
-neuter
+masculine/feminine
+130847	neuter
+130849	neuter
+130851	neuter
+130855	neuter
 masculine
 feminine
 feminine
@@ -77605,22 +40187,17 @@ feminine
 130867	feminine
 feminine
 130870	feminine
-
 130873	feminine
 feminine
 130876	feminine
 feminine
-
-neuter
+130879	neuter
 feminine
-
 130884	feminine
 130886	feminine
 masculine
-
-masculine
-
-feminine
+130889	masculine
+130891	feminine
 feminine
 masculine
 130896	masculine
@@ -77628,123 +40205,69 @@ masculine
 feminine
 feminine
 feminine
-
-
-130905	neuter
-
 130909	neuter
 masculine
 masculine
-130913	
-130915	
-130918	
-masculine
-130921	
+130919	masculine
 130928	feminine
 feminine
 neuter
 130933	feminine
-
-
-feminine
-
-130939	neuter
-130941	
-
-
-neuter
-
-neuter
+130936	feminine
+130939	feminine
+130942	masculine/feminine
+130944	neuter
+130946	neuter
 130948	masculine/neuter
 neuter
 feminine
-130953	
-
 130956	neuter
 130958	masculine
-130960	
-
-neuter
-
-130966	
-
-130969	feminine
-
-130972	feminine
+130962	neuter
+130969	masculine
+130972	masculine
 masculine
-
 130977	masculine
-130979	feminine
-masculine
-130982	
+130979	masculine
+neuter
 130986	feminine
 masculine
-
+130989	neuter
+130996	feminine
+feminine
+131001	masculine
+131003	neuter
 neuter
-130993	
-130995	
-feminine
-feminine
-
-131000	
-masculine
-131003	masculine
-neuter
-
-feminine
+131006	feminine
 131008	neuter
 masculine
-131011	
 131017	neuter
-
-
-131021	
-131024	
 131026	feminine
 131028	masculine/feminine
-
-
-neuter
+masculine/feminine
+131031	neuter
 131035	neuter
 feminine
 131038	masculine
-131041	
-131043	
-
-
-masculine/neuter
-
+131046	masculine/neuter
 131049	masculine
 131052	neuter
 131054	feminine
-
-
 131059	feminine
 feminine
-131062	
 131064	neuter
 131066	masculine
-131068	
-
-neuter
+131068	masculine/feminine
+131070	neuter
 131073	masculine
 131075	feminine
 131079	feminine
 feminine
-
-131083	
-131085	
-
-neuter
-131089	
-masculine
-131097	
-
-masculine
-
-masculine/neuter
-131103	
-
+131085	masculine/feminine
+131087	neuter
+131090	masculine
+131099	masculine
+131101	masculine/neuter
 131106	feminine
 131109	feminine
 131111	feminine
@@ -77752,19 +40275,15 @@ masculine/neuter
 131116	masculine
 masculine
 feminine
-
-masculine
+131120	masculine
 131122	feminine
 feminine
-131127	
 131129	masculine
 masculine
 masculine
 131135	feminine
 131138	neuter
-
-feminine
-131143	
+131140	feminine
 131145	feminine
 131148	masculine
 131150	feminine
@@ -77773,10 +40292,8 @@ feminine
 neuter
 131163	masculine
 masculine
-131169	
-masculine
+131170	masculine
 131173	masculine
-131175	
 131177	feminine
 131181	masculine
 131183	masculine
@@ -77784,9 +40301,7 @@ feminine
 131188	masculine
 feminine
 131191	feminine
-
-
-masculine
+131194	masculine
 neuter
 masculine
 feminine
@@ -77794,275 +40309,152 @@ feminine
 feminine
 131204	masculine
 masculine
-131210	
-
-
-
-131217	
-feminine
-131220	
-
+131218	feminine
 131223	masculine
 feminine
-
-131227	
+131228	feminine
 feminine
 feminine
-feminine
-
-131234	
-
-131237	
-masculine
+131238	masculine
 131243	masculine
 feminine
-
-
 131250	feminine
 feminine
-
-
-feminine
-
-
+131254	feminine
 131258	masculine
 masculine
-131264	
 131266	masculine
-
-
 131271	masculine
-131273	
 131276	masculine
 feminine
-
-
 131282	masculine
 neuter
 131285	feminine
 feminine
 masculine
-
 131290	masculine
 131293	feminine
-131295	
-masculine
-
+131296	masculine
 131300	masculine/neuter
-131303	
 131305	masculine/neuter
-
 131312	masculine
-
 131315	feminine
-
-feminine
+131317	feminine
 feminine
 feminine
 131322	feminine
 masculine
 masculine
 feminine
-
 131328	masculine
 masculine
 masculine
-131334	
-131336	
-
-
-neuter
-
+131339	neuter
 131342	feminine
 131345	neuter
 feminine
 feminine
-
-131353	
-131361	
-
-131364	
 131366	feminine
 131370	masculine
 131373	masculine
-131375	
-
-
-
-131381	
-
-
-
-131386	
 131388	feminine
 131391	neuter
 feminine
-
-masculine/neuter
+131394	masculine/neuter
 feminine
 masculine
-
 131399	feminine
 131402	neuter
-
-masculine
-
+131404	masculine
 131409	feminine
-feminine
 masculine
-masculine
-feminine
-masculine
-131416	
-masculine
-131419	feminine
-131421	
-masculine/neuter
-131425	
 neuter
-
-feminine
+masculine
+masculine
+neuter
+131417	masculine
+131419	feminine
+131422	masculine/neuter
+131426	neuter
+131428	feminine
 neuter
 131432	neuter
-
-masculine
-
-131438	
+131434	masculine
 131440	feminine
 131443	masculine
 131445	neuter
-
 131448	neuter
-131450	
-131453	
 131455	feminine
-131457	
-masculine
+131458	masculine
 feminine
-131463	
-masculine
-
-131468	
-131471	
-masculine
+131464	masculine
+131472	masculine
 131475	neuter
 131477	neuter
 131479	masculine/neuter
 131481	masculine
-131484	
-131487	
-feminine
+131488	feminine
 feminine
 neuter
-
-
-masculine
+131493	masculine
 masculine
 131496	neuter
-
-neuter
-
-
-feminine
+131498	neuter
+131501	feminine
 131504	feminine
-
-feminine
-
+131506	feminine
 131509	masculine
 masculine
 neuter
-
-131514	
-131516	
-131518	
 131520	masculine
 131522	feminine
-
-masculine/neuter
-
-neuter
-
-
+131524	masculine/neuter
+131526	neuter
 131530	masculine
 feminine
-
-
 131536	masculine/neuter
 feminine
 feminine
 neuter
-131543	
 131546	neuter
 feminine
 feminine
 neuter
-
 131552	feminine
 feminine
 131555	masculine/neuter
 131557	neuter
-131563	
-neuter
-131568	
-
-feminine
-
-
-masculine
-
+131564	neuter
+131570	feminine
+131573	masculine
 131576	feminine
 feminine
-
-
-131584	
-feminine
+131585	feminine
 masculine
 masculine
 masculine
-131593	
-131595	
-feminine
+131596	feminine
 masculine/feminine
-
-
-masculine/neuter
-
-masculine
-
-
-
+131600	masculine/neuter
+131602	masculine
+131604	masculine/feminine
+131606	neuter
 neuter
-neuter
-
-masculine/neuter
-
-masculine
-
+131609	masculine/neuter
+131611	masculine
 131615	masculine
-131621	
-
-
-
 131629	masculine
-131631	
-masculine
-131634	
+131632	masculine
 131636	feminine
 131638	masculine/feminine
 131640	feminine
-131643	
-
 131646	masculine
 feminine
 feminine
 131650	masculine
 131652	feminine
-131654	
 131661	feminine
-131664	
-131667	
-
-feminine
+131669	feminine
 131674	neuter
 131677	masculine
 131681	masculine/feminine
@@ -78070,40 +40462,26 @@ feminine
 feminine
 feminine
 masculine
-
-feminine
-131691	
-feminine
+131688	feminine
+131692	feminine
 131694	neuter
-
 131700	masculine
-
-masculine/neuter
+131702	masculine/neuter
 masculine
 feminine
 131708	masculine
 feminine
 feminine
-
-
-masculine
-131715	
-
-131718	
-masculine
-
-masculine/neuter
-
-feminine
+131713	masculine
+131719	masculine
+131721	masculine/neuter
+131723	feminine
 131725	neuter
 feminine
 131728	feminine
 feminine
 masculine
-
-
 131734	neuter
-131737	
 131740	neuter
 feminine
 131743	feminine
@@ -78111,25 +40489,18 @@ neuter
 feminine
 131747	feminine
 feminine
-131750	
 131752	masculine/neuter
 131754	masculine
 131756	feminine
 feminine
 masculine/feminine
-
-131761	
-131765	feminine
-131767	
-feminine
+131765	masculine
+131768	feminine
 masculine
 masculine/neuter
-
-neuter
-
-masculine
-
-neuter
+131772	neuter
+131774	masculine
+131776	neuter
 neuter
 131779	neuter
 131781	neuter
@@ -78143,61 +40514,37 @@ neuter
 131793	neuter
 feminine
 neuter
-131802	
-131804	
-131806	
-feminine
+131807	feminine
 feminine
 neuter
-131811	
-feminine
+131812	feminine
 masculine
 neuter
-131816	
 131818	feminine
 neuter
-131821	
-feminine
+131822	feminine
 131824	neuter
 masculine
-
 131829	neuter
 neuter
-
-
-
-neuter
+131834	neuter
 131837	feminine
 feminine
-
 131842	neuter
 131846	neuter
-
-masculine
+131848	masculine
 131851	masculine
 131853	neuter
-
-
-masculine
-131858	
-
-
-feminine
+131856	masculine
+131861	feminine
 neuter
 neuter
 131869	neuter
 131871	masculine
-
 131874	masculine
 131877	neuter
-
 131880	feminine
-131882	
-
 131886	masculine
-
-131889	
-
 131892	feminine
 feminine
 feminine
@@ -78205,16 +40552,10 @@ feminine
 neuter
 feminine
 masculine
-
 131901	feminine
 feminine
 feminine
-
-131908	
-
-
-
-feminine
+131912	feminine
 masculine
 neuter
 131916	feminine
@@ -78225,364 +40566,193 @@ feminine
 131923	masculine
 masculine
 131926	neuter
-
-neuter
-
+131928	neuter
 131931	masculine
-131933	
 131935	feminine
 131938	feminine
 neuter
 131941	masculine
-
-131947	
-
-
-
 131953	feminine
-131956	
 131960	neuter
-
-neuter
+131962	neuter
 131965	feminine
 131967	neuter
-
 131972	feminine
 131974	neuter
-
-131977	
-131982	
 131984	feminine
-131986	
-
-131991	
-131997	
-neuter
-
+131998	neuter
 132002	neuter
 masculine
 132005	masculine
 masculine
 feminine
-
-132011	
-
-
 132015	feminine
 132017	masculine/neuter
 132019	feminine
-
-
-132026	
-
-feminine
-
-132031	
-132033	
+132028	feminine
 132035	masculine
-132037	
 132039	feminine
 132045	masculine
 neuter
 132050	neuter
-132052	
-132054	
-132056	
-132059	
-
 132062	feminine
-132064	
-
-132067	
 132069	masculine
-
-132073	
 132075	neuter
-
-132079	
-132082	
-132085	
-
-
 132089	masculine
-
 132092	masculine
-132094	
-
 132098	feminine
 feminine
 masculine
 132102	masculine/neuter
-132104	
-
-132107	
-
-
 132113	feminine
 132117	masculine
 132121	masculine
 132123	masculine
-
 132126	masculine
-132129	
-neuter
+132130	neuter
 132133	neuter
 132136	masculine
-
-neuter
-132141	
-132144	
-
-
+132138	neuter
 132149	masculine
-132152	
 132160	masculine
-
-feminine
-132166	
+132162	feminine
 132168	feminine
 132170	masculine
-132172	
+132173	feminine
 feminine
 feminine
 feminine
-feminine
-132180	
-feminine
+132181	feminine
 132183	feminine
 132185	feminine
 132187	feminine
 feminine
-
-
-masculine
+masculine/feminine
+132191	masculine
 132193	feminine
-132196	
-masculine/feminine
-132199	
-
-132202	
-
-
+132197	masculine/feminine
 132206	neuter
-132208	
 132211	neuter
-132213	
-masculine/feminine
-
-132217	
-132219	
+132214	masculine/feminine
 132223	masculine/neuter
 132225	feminine
-
-132229	
-masculine
-132232	
-feminine
+132230	masculine
+132233	feminine
 feminine
 132236	feminine
 neuter
 132239	feminine
 masculine/neuter
-
-feminine
-
+132242	feminine
 132245	feminine
-
-feminine
-132249	
+132247	feminine
 132251	feminine
-
-
-
+132253	feminine
 132256	masculine
 132262	feminine
 neuter
 132265	neuter
 132267	masculine
-
-132271	
 132273	neuter
-132276	
-132279	
 132284	neuter
-
 132287	feminine
-132293	
-
+132294	masculine
 feminine
 132297	masculine
 132300	masculine
 masculine
 neuter
-
 132305	masculine/neuter
-
-feminine
+132307	feminine
 masculine
 132310	neuter
 132312	feminine
 132317	neuter
 feminine
-
 132321	masculine
 132323	neuter
 132325	neuter
-
-masculine/neuter
-132329	
-feminine
+132327	masculine/neuter
+132330	feminine
 132332	masculine
 masculine
-
 132336	feminine
 masculine/neuter
 132339	neuter
-132344	
-neuter
-
+132345	neuter
 132348	masculine
 132350	masculine
 132353	masculine
-
 132356	feminine
-132358	
-feminine
-
-feminine
+132359	feminine
+132361	feminine
 132363	masculine
 132365	feminine
-
-
-neuter
-
-
-neuter
-132373	
-
+132368	neuter
+132371	neuter
 132377	neuter
-132381	
-
-132388	
-132390	
-
-
-feminine
+132393	feminine
 neuter
-
-132398	
-
-132402	
-
 132408	masculine
 132410	neuter
 masculine
-
-feminine
-
-feminine
+132413	feminine
+132415	feminine
 132421	masculine
-132424	
-132427	
-
 132431	feminine
 132433	feminine
 132435	masculine
-132437	
 132441	feminine
-
-neuter
-
-
-
+132443	neuter
 132448	feminine
 feminine
-
-
-feminine
+132452	feminine
 132454	feminine
-
 132457	neuter
 masculine
 masculine
 132465	feminine
 feminine
-
-
 132470	masculine
 132472	feminine
 feminine
-
-
-
-masculine
+132477	masculine
 feminine
-132480	
-masculine
+132481	masculine
 neuter
-132484	
-
 132488	feminine
 132491	masculine
-
+masculine/neuter
 132495	masculine
-
-
-neuter
-132500	
+masculine/feminine
+132498	neuter
 132503	neuter
 neuter
-
-neuter
-
-neuter
-132510	
-
-neuter
+132506	neuter
+132508	neuter
+132512	neuter
 masculine
-
-
-masculine
+132516	masculine
 masculine
 132519	masculine
 132521	masculine
-
 132524	masculine
-
-
-132530	
 132536	neuter
 neuter
-132540	
-feminine
-
-
+132541	feminine
 132545	masculine
 masculine
 feminine
 masculine
-
 132555	masculine
-
-132558	
-132561	
-132566	
-
 132569	masculine/neuter
-132574	
 132578	feminine
-132580	
-masculine
+132581	masculine
 feminine
-
-neuter
+132584	neuter
 masculine
-
-
 132591	feminine
 132595	neuter
-
-
 132599	neuter
 132602	feminine
 132604	feminine
@@ -78590,103 +40760,55 @@ masculine
 132610	feminine
 feminine
 masculine
-132616	
-
 132624	feminine
-132626	
+132627	feminine
+132637	feminine
+132640	feminine
 feminine
-
-132631	
-132636	
-feminine
-132639	
-feminine
-feminine
-132643	
-feminine
-132647	
-132652	
-
-132656	
-masculine
-132660	
-feminine
+132644	feminine
+132657	masculine
+132661	feminine
 feminine
 132665	feminine
-132667	
-feminine
+132668	feminine
 feminine
 neuter
 feminine
 132674	feminine
 feminine
 neuter
-
 132679	masculine
 feminine
-
-
-
-132685	
-132687	
 132689	feminine
 132691	masculine
 masculine
-
-
-132699	
-
-132702	
-132706	
-132710	
-132712	
+132694	masculine/feminine
 132714	masculine
 neuter
 neuter
-
 132719	feminine
 132727	neuter
 132731	neuter
 neuter
 132734	feminine
-132736	
-
 132739	masculine/feminine
-132741	
-
 132744	neuter
-
-
-neuter
-
-
+132747	neuter
 132752	feminine
 feminine
 feminine
 feminine
 masculine
-132759	
-
 132762	masculine
 132765	masculine
-
-neuter
-
-
-
-
-masculine/neuter
+132767	neuter
+132772	masculine/neuter
 132774	masculine
 masculine
 132778	masculine
-
-neuter
-132782	
-
-feminine
+132780	neuter
+132784	masculine
 132787	neuter
-132789	
-
 132794	masculine
 masculine
 masculine
@@ -78701,15 +40823,10 @@ masculine
 masculine
 132811	feminine
 feminine
-132814	
 132816	feminine
 132818	masculine
-
-neuter
+132820	neuter
 132822	neuter
-132826	
-132828	
-
 132831	feminine
 132834	feminine
 feminine
@@ -78717,134 +40834,78 @@ feminine
 feminine
 132840	feminine
 feminine
-
-neuter
+132843	neuter
 feminine
 132846	feminine
 feminine
-
-masculine
+132849	masculine
 neuter
-
 132853	masculine
 132855	feminine
 feminine
 feminine
 masculine
 masculine
-132861	
-
-neuter
+132861	masculine/feminine
+132863	neuter
 feminine
 feminine
 132870	neuter
-132872	neuter
+132872	feminine
 132874	feminine
-
-132878	neuter
+132878	feminine
 132882	feminine
 neuter
-132885	
-
 132888	neuter
 neuter
-132891	
-neuter
-132894	
-
+132892	feminine
 132897	masculine
-
-neuter
+132899	neuter
 masculine
 132903	feminine
 132906	feminine
-
 132909	masculine
 132912	feminine
-
-masculine
+132914	masculine
 132916	masculine
-
-neuter
+132918	neuter
 masculine
-
+132921	masculine
+132924	masculine
 masculine
-
-
-masculine
-masculine
-
-132928	
 132930	feminine
 132937	neuter
-132940	
 132942	feminine
-132945	
-132947	
-132949	
-
-
 132953	masculine/feminine
-
-132960	
-masculine
+132961	masculine
 132963	masculine
 132965	masculine
 masculine
-
-
-
-132972	
+132973	masculine
 masculine
-masculine
-
-
 132978	neuter
-
-132983	
-132985	
 132987	neuter
-
 132991	feminine
 feminine
-
-132996	
+132997	feminine
 feminine
-feminine
-133003	
 133006	neuter
-
+133008	masculine
 masculine
-masculine
-
-
 133013	neuter
 133016	masculine
 masculine
-
-
-133022	
-
-133025	
+133026	feminine
 feminine
-feminine
-
 133031	feminine
-
+133033	feminine
 feminine
-feminine
-
-neuter
-133038	
+133036	neuter
 133040	feminine
 masculine
-133043	
-
 133046	masculine
 133048	masculine
 masculine
-
-
 133053	masculine
 neuter
 masculine
@@ -78852,28 +40913,20 @@ masculine
 133058	feminine
 133060	feminine
 feminine
-133063	
+133064	feminine
+133066	masculine
 feminine
-
-masculine
-feminine
-133070	
-feminine
+133071	feminine
 feminine
 masculine
 133075	feminine
 133078	neuter
 masculine
-
-
-neuter
+133082	neuter
 feminine
 133085	masculine
 133087	masculine
-
-
 133093	masculine
-
 133099	masculine
 masculine
 masculine
@@ -78881,38 +40934,21 @@ masculine
 133107	neuter
 neuter
 133110	feminine
-133114	
-masculine/neuter
+133115	masculine/neuter
 masculine
 masculine
-
-133120	
 133123	feminine
-
-
-
-masculine
+133127	masculine
 133131	feminine
 feminine
 feminine
-
-
-
-133138	
-
-masculine/neuter
-
+133140	masculine/neuter
 133144	feminine
-
-133148	
-
 133151	masculine
 masculine/feminine
 masculine
-
 133157	masculine/feminine
 masculine
-
 133161	masculine
 133164	masculine
 133166	masculine
@@ -78920,387 +40956,200 @@ neuter
 133169	feminine
 133172	masculine
 feminine
-
-feminine
-133179	
+133175	feminine
 133182	masculine
-
-feminine
+133184	feminine
 133187	neuter
-
-133190	
-neuter
+133191	neuter
 133194	neuter
 neuter
-133197	
-
 133200	masculine
 133203	masculine
-
-133206	
+133207	feminine
 feminine
-feminine
-133210	
 133214	masculine
 feminine
-
-
+133217	feminine
 133222	feminine
-133226	
 133229	masculine
 masculine
-
 133233	feminine
 masculine/feminine
-
-133238	
-neuter
-
-
+133239	neuter
 133244	feminine
-
-133247	
-133249	
-masculine
-
-
-masculine/feminine
-
-133257	
-masculine/feminine
-
-feminine
-
-feminine
-
-
-masculine/feminine
-
-133268	
-
-133271	
+133250	masculine
+133253	masculine/feminine
+133258	masculine/feminine
+133260	feminine
+133262	feminine
+133265	masculine/feminine
 133276	feminine
 133279	feminine
 feminine
 feminine
 feminine
 masculine
-
 133286	neuter
 masculine
-
 133290	feminine
 133295	neuter
-133299	
-masculine
+133300	masculine
 133303	feminine
-
-masculine/neuter
-
-
-
-
+133305	masculine/neuter
+133307	feminine
+133309	masculine/feminine
 masculine
-133312	
 133314	feminine
-133317	
 133319	masculine
-
-
 133323	neuter
 133325	masculine
 masculine/feminine
 133328	feminine
-
-
-
-masculine
-133334	
-feminine
+133332	masculine
+133335	feminine
 neuter
-
-133340	
-
-
-
-133345	
 133347	feminine
-
+masculine/feminine
 feminine
 feminine
-133352	
 133354	masculine
-
 133357	feminine
-neuter
+feminine
 neuter
 feminine
 neuter
 133363	masculine
-
-
-
-
-masculine
+133365	masculine/feminine
+133368	masculine
 133370	masculine/neuter
-
 133373	feminine
-
-133376	
-133379	
-133381	
 133388	masculine
-133391	
-133393	
-
-
-133397	
+133398	feminine
 feminine
-feminine
-
-
-133403	
-
 133406	masculine
 masculine
-
-
-133411	
-
-133415	
 133418	masculine
 133427	masculine/feminine
 133430	masculine/feminine
 133433	masculine
-
-
-neuter
+133436	neuter
 feminine
-
 133441	neuter
 133443	feminine
-
-
 133448	neuter
-133450	
-masculine
+133451	masculine
 masculine/feminine
-
-
-
-
-
+133458	masculine
 masculine
-masculine
-
 133462	feminine
-133464	
-
-
-
-133470	
 133472	masculine
 133474	feminine
 feminine
 133477	masculine
-
-neuter
-133483	
-
+133479	neuter
 133487	feminine
 133490	masculine
 133492	masculine
 133494	feminine
 133496	masculine
-
-133499	
-133503	
 133505	masculine
 masculine
 133509	masculine
-
-133514	feminine
-133516	
 masculine
-133520	
-
+133514	feminine
+133517	masculine
 133523	neuter
 masculine
-
-feminine
+133526	feminine
 neuter
 neuter
-133531	
-
-
-
-
-
-
-feminine
-133540	
-
-masculine
+133538	feminine
+133542	masculine
 133545	feminine
-
-133549	
-masculine
-
-
+133550	masculine
 133555	neuter
 133557	masculine/neuter
 feminine
-
-
-
-neuter
-133564	
+133560	masculine/feminine
+133562	neuter
+133564	masculine/feminine
 feminine
 masculine/feminine
 neuter
 133569	feminine
 feminine
 133576	feminine
-
-masculine
+133578	masculine
 feminine
-
+masculine
 133584	masculine
-133586	
 133588	feminine
-133590	
-masculine/feminine
-
-
-
-133596	
-133598	
+133591	masculine/feminine
 133600	masculine
-133602	
-133605	
-
-133609	
-feminine
+133610	feminine
 feminine
 masculine
-
-neuter
-133616	
-133619	
-
+133614	neuter
 133622	neuter
-
-133627	
-masculine
-
+133628	masculine
 133632	neuter
-
 133635	neuter
 neuter
 neuter
-133639	
-133642	
 133644	feminine
-133646	
-masculine
+133647	neuter
 133652	feminine
 133655	masculine
-
-
-133659	
 133661	neuter
-133663	
-neuter
+133664	neuter
 feminine
-
-
-feminine
+133668	feminine
 feminine
 133672	neuter
-133674	
-
 133681	feminine
 133683	feminine
 133685	feminine
-
-masculine
-133691	
-masculine
-
-
-masculine
+133687	masculine
+133692	masculine
+133695	masculine
 feminine
 feminine
 feminine
-
-
-neuter
-
-masculine
+133701	neuter
+133703	masculine
 133705	feminine
-133707	
-masculine
+133708	masculine
 neuter
 neuter
 masculine
-133715	
-neuter
+133716	neuter
 masculine
-
-
-133721	
-masculine/feminine
-
+133722	masculine/feminine
 133725	neuter
 133729	masculine
-133731	
-feminine
-
-
-
-neuter
-
-
+133732	feminine
+133736	neuter
 133740	feminine
 neuter
-133744	
-
-
-neuter
-
-masculine
-
-neuter
-
-133754	
-
-
-133759	
-neuter
-133763	
+133747	neuter
+133749	masculine
+133751	neuter
+133760	neuter
 133766	masculine
-
+masculine/feminine
 masculine
 feminine
-133771	
-
+133771	masculine/feminine
 133775	masculine
-133777	
 133779	neuter
-
-133783	
-133785	
-masculine/neuter
+133786	masculine/neuter
 133788	feminine
 133791	masculine
 masculine
 133794	neuter
 133798	masculine
-133800	
-masculine/feminine
-
+133801	masculine/feminine
 133804	feminine
-
 133807	masculine
 133809	feminine
 133811	feminine
@@ -79308,278 +41157,153 @@ feminine
 133814	masculine
 133816	feminine
 feminine
-
-neuter
+133819	neuter
 133823	masculine
 masculine
-133826	
-
-
-
-feminine
+133830	feminine
 masculine
 masculine
 masculine
 masculine
 masculine
-
-masculine
-133840	
-
-133844	
-133846	
-feminine
+133837	masculine
+133847	feminine
 feminine
 neuter
 neuter
 133853	neuter
-
 133856	neuter
 masculine
-
-133860	
 133862	feminine
-133864	
 133867	neuter
 masculine
 133870	feminine
-
-
 133875	neuter
 133877	masculine
-133879	
-
-feminine
+133881	feminine
 neuter
 133884	masculine
 masculine
-133888	
-
-
-
-133893	
-
-133896	
-133898	
 133901	masculine
-133904	
 133906	masculine
-
-
+133909	feminine
 feminine
-feminine
-
-
 133914	masculine
 133917	feminine
-133919	
-masculine
-133922	
+133920	masculine
 133927	neuter
-
 133930	feminine
 133933	feminine
 feminine
 masculine
-133938	
-
-
-
-
-
-
-133946	
 133950	masculine
 masculine
-133954	
-
-
-masculine/neuter
+133957	masculine/neuter
 masculine
-
-feminine
-
-
-masculine
-133966	
-133968	
-
+133960	feminine
+133963	masculine
 133973	masculine
 masculine
 masculine
-
 133980	masculine
 133982	masculine
-133986	
 133988	feminine
-
 133991	feminine
 feminine
-133995	
-masculine
+133996	masculine
 134000	neuter
-
 134003	feminine
-134005	
 134007	neuter
 134009	feminine
-134011	
-
-134015	
+134016	masculine
+134018	neuter
+134023	feminine
 masculine
-
-neuter
-134022	
-feminine
-masculine
-134029	
-feminine
-
+134030	feminine
 134035	feminine
-
-feminine
+134037	feminine
 masculine
-
-neuter
+134040	neuter
 feminine
 feminine
 masculine
-
-134047	
-
 134052	masculine
 134054	feminine
 134056	feminine
 feminine
 feminine
 feminine
-
-
 134064	masculine
 masculine
-
-neuter
+134067	neuter
 masculine
-
-
-feminine
+134071	feminine
 134073	feminine
-134078	
-
-
-134082	
 134085	masculine
-134087	
-
-
-
 134092	masculine
-134094	
 134096	feminine
 134100	feminine
-
-neuter
+134102	neuter
 134104	masculine/neuter
 134106	feminine
 masculine
-
-masculine
-
-neuter
+134109	masculine
+134111	neuter
 134114	feminine
-
 134117	masculine
 neuter
 134120	feminine
 neuter
-134123	
-masculine
+134124	masculine
 masculine
 134127	masculine
 134129	feminine
 134131	feminine
 feminine
 masculine
-
-masculine
+134135	masculine
 masculine
 feminine
 134139	masculine/feminine
-
-masculine
+134141	masculine
 134143	masculine
-134145	
-134147	
-
-
 134151	masculine/feminine
-
-masculine
+134153	masculine
 neuter
 neuter
-
-134158	
-
-
-
-neuter
-134164	
+134159	masculine/feminine
+134162	neuter
 134166	masculine
-
+134168	feminine
+134172	masculine
 feminine
-
-134171	
-masculine
+134183	masculine
 feminine
-134175	
-
-134178	
-
-134182	
-masculine
-feminine
-
-masculine
+134186	masculine
 134188	feminine
 feminine
 feminine
-
-
-
 134195	masculine
 neuter
 neuter
-134200	
-neuter
+134201	neuter
 neuter
 feminine
-134206	
-
-feminine
+134208	feminine
 masculine/feminine
 neuter
 134213	feminine
-
-feminine
+134215	feminine
 feminine
 134218	feminine
-
-masculine
-
-neuter
-
-134225	
+134220	masculine
+134222	neuter
 134228	feminine
 134232	masculine
 feminine
-
-
 134237	feminine
-
-neuter
-134241	
+134239	neuter
 134244	neuter
-134249	
 134254	feminine
 feminine
 feminine
@@ -79587,143 +41311,86 @@ feminine
 feminine
 masculine
 masculine
-134263	
-
-
-
-feminine
+134267	feminine
 134269	feminine
-
-
-134273	
+134274	feminine
 feminine
 feminine
-feminine
-
-masculine
-
-neuter
-
+134278	masculine
+134280	neuter
 134283	feminine
 masculine
-
+134286	masculine
 masculine
-masculine
-134289	
-134291	
-neuter
-
+134292	neuter
 134295	feminine
 134299	masculine
 134301	neuter
-
 134304	feminine
 134308	feminine
-
-
 134313	masculine
-
 134316	masculine
 masculine
 masculine
-134320	
-134322	
-neuter
-
+134323	neuter
 134326	feminine
 134329	feminine
-
-masculine
+134331	masculine
 134333	feminine
 neuter
 feminine
 134337	neuter
-
-
+134340	masculine
 masculine
 masculine
-masculine
-134344	
-134346	
-neuter
-
-134350	
+134347	neuter
 134352	feminine
 feminine
 feminine
-
 134358	feminine
 masculine
-134361	
 134363	feminine
-
-masculine/neuter
+134365	masculine/neuter
 masculine
-
-masculine
-
+134368	masculine
 134371	masculine
-
+134373	masculine
 masculine
-masculine
-
-feminine
-
-
-feminine
+134376	feminine
+134379	feminine
 feminine
 134382	masculine
 134385	feminine
 neuter
-134389	
-
-masculine
-134393	
+134391	masculine
+134394	masculine/neuter
 masculine/neuter
-masculine/neuter
-
-masculine
+134397	masculine
 masculine
 134400	masculine
 134402	feminine
 134404	feminine
 feminine
 feminine
-
+134408	masculine
 masculine
-masculine
-134411	
-134413	
-neuter
-
+134414	neuter
 134420	neuter
-
 134423	feminine
-
 134428	masculine
 feminine
-134435	
-
-neuter
-
+134437	neuter
 134441	feminine
-
+134443	feminine
 feminine
 feminine
-feminine
-134447	
 134450	neuter
 feminine
 masculine
 masculine
 masculine
-
-134457	
-neuter
-
+134458	neuter
 134461	neuter
-
-
 134466	feminine
 feminine
 masculine
@@ -79731,116 +41398,61 @@ feminine
 134472	feminine
 feminine
 neuter
-
-
-
 134481	neuter
-
-
-
-feminine
+134485	feminine
 masculine
 neuter
-134489	
-feminine
-
-neuter
-134494	
-134496	
-feminine
+134490	feminine
+134492	neuter
+134497	feminine
 masculine
 neuter
 masculine
 masculine
 masculine
-
-134505	
-neuter
-
+134506	neuter
 134517	neuter
-
 134520	feminine
 masculine
 feminine
 masculine
 feminine
-
-134527	
-masculine
-
-
-
-134533	
-masculine/neuter
-134536	
-
-134539	
-
-134542	
-
-134545	
-134548	
-134550	
-134552	
+134528	masculine
+134534	masculine/neuter
 134555	masculine/neuter
 masculine
 feminine
 neuter
-
-
 134562	masculine
 134564	feminine
 feminine
-134568	
 134572	feminine
-134575	
-neuter
-
-134579	
-134581	
+134576	neuter
 134583	masculine/feminine
 masculine
 134587	masculine
 neuter
 134590	neuter
-
-masculine
-134594	
+134592	masculine
 134599	neuter
-134603	
 134607	neuter
 134610	masculine
 masculine
-134613	
-134615	
-neuter
-
-134621	
-
+134616	neuter
+134623	feminine
+134629	neuter
 feminine
-
-
-
-
-
-neuter
-feminine
-
 134634	feminine
 134636	feminine
 134638	feminine
-134644	
 134647	masculine/feminine
-134650	
 134652	feminine
 masculine
 134659	feminine
 feminine
 feminine
 feminine
-
-
-neuter
+134665	neuter
 134667	feminine
 feminine
 feminine
@@ -79848,141 +41460,84 @@ feminine
 134673	masculine
 feminine
 feminine
-134677	
-
-neuter
-134683	
-
-neuter
-
-masculine
-134689	
-neuter
+134677	masculine/feminine
+134679	neuter
+134685	neuter
+134687	masculine
+134690	neuter
 134692	feminine
-134694	
 134696	neuter
-
 134700	feminine
 feminine
-
-feminine
-
-
-
-
-
+134703	feminine
 134710	feminine
 134713	masculine
 feminine
 134716	neuter
-
-134719	
-134721	
-
-feminine
+134723	feminine
 134725	feminine
-
-134728	feminine
+134728	neuter
 masculine
-
-masculine
-
-feminine
+134731	masculine
+134733	feminine
 feminine
 masculine
 feminine
-
-feminine
+134738	feminine
 feminine
 feminine
 134744	masculine/neuter
 masculine
-134747	
-
 134750	neuter
-134757	
-
-feminine
+134759	feminine
 134761	masculine
 134763	masculine
 masculine
 134766	feminine
-134768	
-masculine
+134769	masculine
 masculine
 134772	feminine
-
-
-neuter
+134775	neuter
 134777	feminine
-134780	
-134782	
-masculine/feminine
-
-134787	
-134790	
-neuter
+134783	masculine/feminine
+134791	neuter
 masculine
 masculine
 134795	feminine
-
-feminine
+134797	feminine
 feminine
 134801	feminine
 134803	feminine
-134805	
 134807	masculine
 134809	masculine
 134812	neuter
-134814	
-masculine/feminine/neuter
+134815	masculine/feminine/neuter
 134818	feminine
-
-masculine
-
-
-feminine
+134820	masculine
+134823	feminine
 134825	masculine
 134828	neuter
 134831	feminine
-134834	
-134838	
-masculine
+134839	masculine
 134841	masculine
-
-feminine
-
-feminine
+134843	feminine
+134845	feminine
 masculine/neuter
 masculine
 masculine
 feminine
 134852	feminine
-134854	
 134857	feminine
-
-
 134861	feminine
 feminine
-134864	
-
 134867	feminine
 masculine/feminine
 masculine
 masculine
 134872	masculine
-134874	
-134877	
 134879	masculine
 134881	feminine
 neuter
-134884	
-
-
-134892	
-
-
-134897	
 134899	feminine
 feminine
 feminine
@@ -79990,139 +41545,79 @@ feminine
 feminine
 134907	neuter
 masculine
-134910	
-134912	
-134915	
-134917	
-134921	
-feminine
-
+134922	feminine
 134926	masculine
 masculine
-
 134930	feminine
 feminine
-
-134935	
-
 134940	feminine
-
-masculine
-
-
+134942	masculine
 134946	neuter
-
-
-134950	
-134953	
 134955	masculine
 masculine
 masculine
-
-feminine
+134959	feminine
 feminine
 feminine
 feminine
 feminine
 neuter
-
 134967	feminine
-134969	
 134971	feminine
 134973	masculine
 feminine
-
-masculine
+134976	masculine
 134978	neuter
 masculine
 masculine
 134982	masculine
-134985	
-134988	
-neuter
-134991	
-
+134989	neuter
 134995	neuter
 masculine
-
-134999	
-135006	
+135007	feminine
 feminine
-feminine
-135011	
-feminine
-
+135012	feminine
 135015	neuter
 feminine
 135018	neuter
 135020	feminine
 masculine
-
 135024	feminine
-135026	
-
-feminine
-
-masculine
+135028	feminine
+135030	masculine
 135032	feminine
 masculine/neuter
-
-
-
 135040	masculine/neuter
 135045	feminine
 neuter
-
-135051	
-
-135054	
-135058	
-135060	
-masculine
+135061	masculine
 masculine/neuter
 135065	masculine
 masculine
 135068	masculine
 135070	neuter
-135073	
 135075	masculine
 masculine
-
 135079	neuter
 135081	neuter
-135083	
+135083	masculine/feminine
 feminine
-135086	
-
-135089	
-
 135092	neuter
 135094	feminine
 135096	neuter
 feminine
 135099	neuter
 135103	neuter
-135105	
-135110	
 135115	feminine
-
-135121	
-
 135124	masculine
-135128	
-feminine
+135129	feminine
 feminine
 neuter
-
 135135	neuter
-135137	
 135143	feminine
 neuter
-
 135149	masculine
-
-
-neuter
+135152	neuter
 135154	feminine
 135159	feminine
 feminine
@@ -80131,45 +41626,28 @@ feminine
 feminine
 feminine
 feminine
-
-feminine
+135167	feminine
 masculine
 135170	feminine
-
-feminine
-
+135172	feminine
 135176	neuter
-
-
-
-neuter
+135180	neuter
 feminine
 135184	feminine
 feminine
-135187	
 135189	feminine
 neuter
-135192	
-
-feminine
-
-masculine
-
-
-masculine
+135194	feminine
+135196	masculine
+135199	masculine
 feminine
 feminine
 135204	neuter
 masculine/neuter
 135207	masculine
 135212	masculine
-135214	
-135218	
-
-
-neuter
-
-masculine
+135221	neuter
+135223	masculine
 135225	feminine
 135228	masculine
 neuter
@@ -80178,88 +41656,42 @@ neuter
 masculine
 135235	feminine
 135240	masculine
-
 135243	feminine
-
-135247	
-masculine/feminine/neuter
+135248	masculine/feminine/neuter
 135251	masculine
-135253	
-
-
-
-
+135258	feminine
+135260	masculine
+masculine
+masculine
+135266	masculine
+135273	masculine/neuter
 feminine
-
-masculine
-masculine
-masculine
-
-135265	
-masculine
-
-135272	
-masculine/neuter
-feminine
-135276	
-masculine
-
-
+135277	masculine
 135282	feminine
 feminine
-135285	
-
-135288	
-masculine
+135289	masculine
 135291	neuter
-135294	
-135296	
-135301	
-neuter
+135302	neuter
 feminine
-
-neuter
-135308	
-
-135313	
+135305	neuter
 135315	masculine
 feminine
-135320	
-135322	
-135327	
-
-
-feminine
-135332	
-
-
-feminine
+135330	feminine
+135335	feminine
 135337	feminine
-
-
-135342	
-masculine
-
-neuter
-135347	
+135343	masculine
+135345	feminine
 135349	feminine
-
+135351	feminine
 feminine
-feminine
-135360	
-135363	
 135365	masculine
 masculine
 135368	masculine
-
 135377	masculine
 masculine
 135380	feminine
 masculine
-135394	
-
-135397	neuter
-135400	
+135397	feminine
 135403	masculine
 135406	feminine
 feminine
@@ -80270,34 +41702,25 @@ feminine
 feminine
 feminine
 feminine
-
 135417	feminine
-
+135419	feminine
 feminine
-feminine
-
 135423	masculine
-
 135426	feminine
 masculine/neuter
 135429	masculine/neuter
-135432	
 135435	neuter
-135437	
 135440	masculine
 135442	masculine/neuter
-135444	
-masculine/feminine/neuter
+135445	masculine/feminine/neuter
 135451	feminine
 135453	neuter
-135457	masculine
+135457	neuter
 135459	masculine
-135461	masculine
+135461	neuter
 135463	masculine
-135465	masculine
-135467	
-
-masculine/neuter
+135465	neuter
+135469	masculine/neuter
 135471	masculine/feminine/neuter
 135473	masculine/neuter
 135475	neuter
@@ -80307,35 +41730,23 @@ masculine/neuter
 135489	masculine
 135495	neuter
 135499	masculine
-135503	
 135505	feminine
 feminine
 135508	feminine
 feminine
-
 135512	feminine
-135514	
-
-
-masculine/neuter
+135517	masculine/neuter
 135519	masculine
 neuter
 masculine/feminine
 135523	neuter
 feminine
-135526	
-masculine/neuter
-135530	
-masculine
+135527	masculine/neuter
+135531	masculine
 feminine
-
-masculine
-
+135534	masculine
 135537	masculine
-135541	
-
-135544	neuter
-135547	
+135544	feminine
 135553	masculine
 135556	feminine
 feminine
@@ -80345,196 +41756,108 @@ feminine
 135562	masculine
 135564	masculine
 135566	masculine
-135569	
-neuter
-135572	
-masculine/feminine/neuter
-135576	
+135570	neuter
+135573	masculine/feminine/neuter
 135578	feminine
 135580	masculine
 135582	neuter
 135588	masculine
-
 135591	masculine/feminine
 135593	masculine
 135597	feminine
-135599	
-
-
-135603	
 135610	masculine
 masculine/feminine
 feminine
-
-feminine
-
-135618	
-
-
-feminine
+135614	feminine
+135621	feminine
 feminine
 neuter
-135625	
 135629	masculine
 135632	feminine
 feminine
 feminine
 feminine
-
-
 135640	masculine
 135642	neuter
-135644	
-
-masculine
-
-135651	
+135646	masculine
 135653	feminine
-135655	
 135660	masculine
-
 135663	masculine
 135666	masculine
 masculine
-
-
-masculine
+135670	masculine
 135673	neuter
 feminine
-
 135677	masculine
 135679	masculine
-135683	
-neuter
-135687	
-
+135684	neuter
 135690	feminine
 masculine
 135695	masculine
 feminine
 feminine
 feminine
-135700	
-masculine
-135705	
-masculine
+135701	masculine
+135706	masculine
 135708	feminine
 135710	masculine
-135713	
-masculine
-135716	
-
+135714	masculine
 135722	feminine
-
-
-masculine
-135727	
-
-135731	
-
-
-masculine
-135736	
-
+135725	masculine
+135734	masculine
 135740	neuter
 neuter
-
-masculine
-
-
-
-135749	
-masculine/neuter
-135753	
-masculine
-135756	
-
-135759	
-masculine
-
-
-
-masculine
+135743	masculine
+135750	masculine/neuter
+135754	masculine
+135760	masculine
+135764	masculine
 135767	feminine
-
-
-
-135772	
 135774	masculine
 neuter
 neuter
-135778	
 135780	feminine
 masculine
 135783	feminine
 135787	feminine
 feminine
-
 135791	feminine
-
-feminine
-135795	
-
-135798	
-135800	
-
-135803	
+135793	feminine
 135805	feminine
 feminine
 135808	feminine
 feminine
 135811	feminine
 feminine
-
-neuter
+135814	neuter
 feminine
-
-feminine
+135817	feminine
 135819	feminine
 feminine
 feminine
 neuter
-
-
-135830	
 135832	feminine
-
-
-feminine
+135835	feminine
 135840	feminine
 feminine
 masculine
 neuter
-
 135848	neuter
 135852	masculine
-135855	
-
 135859	feminine
 135862	neuter
 masculine
 135865	masculine
-
+masculine/neuter
 135869	neuter
 135871	neuter
-135873	
-
-neuter
-
-135878	
-
-neuter
+135875	neuter
+135880	neuter
 masculine
 feminine
-135885	
-
-
-neuter
-
-feminine
-
-
-neuter
+135888	neuter
+135890	feminine
+135893	neuter
 feminine
 135896	masculine
 masculine
@@ -80545,35 +41868,19 @@ masculine
 135905	masculine
 masculine
 masculine
-135909	
-
-
-135914	
-
-
-feminine
-135919	
-
-masculine
+135917	feminine
+135921	masculine
 masculine/neuter
-
-135925	
 135927	masculine
 masculine
 135930	feminine
 masculine
-135935	
 135939	feminine
 neuter
-
-
-masculine
-135945	
+135943	masculine
 135948	feminine
 135950	masculine
-135956	
-
-masculine
+135958	masculine
 masculine
 masculine
 135963	masculine
@@ -80581,291 +41888,166 @@ neuter
 135966	feminine
 feminine
 135969	masculine
-
 135972	masculine
 masculine
 masculine
-
 135977	masculine
-
-
-
-135984	
 135987	masculine
-
-135990	
-neuter
-
-135994	
-neuter
+135991	neuter
+135995	neuter
 feminine
-
-neuter
-
-neuter
-136002	
-136004	
-masculine
-136007	
-
+135998	neuter
+136000	neuter
+136005	masculine
 136010	feminine
 feminine
-
-feminine
-
+136013	feminine
 136016	feminine
 masculine
-
-neuter
+136019	neuter
 masculine
 feminine
 136023	feminine
 masculine
 136029	feminine
 masculine
-
-136036	
 136038	masculine
 136040	masculine
 136044	masculine
 masculine
-136049	
-136051	
-136053	
-masculine
+136054	masculine
 136057	neuter
 136059	masculine
-136061	
 136064	neuter
 136066	feminine
-
-
+136069	masculine
 masculine
-masculine
-136073	
-masculine
+136074	masculine
 136079	masculine
 feminine
-136082	
-136084	
-neuter
+136085	neuter
 masculine
-136088	
-neuter
+136089	neuter
 136091	neuter
 136093	neuter
-
-
 136098	neuter
 136101	masculine/neuter
 136103	masculine
 neuter
 masculine
-136107	
-
 136110	neuter
-
+136112	feminine
 feminine
-feminine
-
-
-136117	
+136118	neuter
 neuter
-neuter
-136124	
 136126	feminine
-136129	
-136132	
-neuter
-
-masculine
-136137	
-
-neuter
-
-136143	
-
-136148	
+136133	neuter
+136135	masculine
+136139	neuter
 136151	neuter
-
+136153	masculine
 masculine
 masculine
 masculine
 masculine
 masculine
 masculine
-masculine
-
-neuter
+136161	neuter
 136163	neuter
-
-
-
-136168	
-
-
 136172	masculine
-masculine/neuter
-136175	
-136178	
-136181	
-
-136184	masculine
-136187	
-neuter
-
-136191	
-masculine
-136194	
-masculine
-136197	
 feminine
-136200	
-masculine
+136184	masculine
+136188	neuter
+136192	masculine
+136195	masculine
+136198	feminine
+136201	masculine
 136203	feminine
 feminine
 136206	neuter
-136208	
 136210	masculine/feminine/neuter
-
 136213	masculine
 136215	feminine
 136217	feminine
 masculine
-
 136221	neuter
 136224	masculine
 136226	feminine
 136228	neuter
 136230	neuter
 feminine
-
-136235	
-
-136238	
-
-
-136242	
-
 136245	neuter
-136247	
 136249	neuter
 136252	masculine
 masculine
 136255	masculine
-
-neuter
+136257	neuter
 feminine
-
+masculine/feminine
 masculine
-
-136263	
 136267	feminine
-
-
 136272	masculine
-
 136275	masculine
 136278	masculine
-136280	
-136283	
-masculine
-136287	
-masculine
+136284	masculine
+136288	masculine
 136290	masculine
-136293	
-
-feminine
-
-136298	
-
-
-
-136303	
-
+136295	feminine
 136306	neuter
 136308	masculine
 neuter
 masculine/feminine
-136312	
-masculine/neuter
-
-neuter
+136313	masculine/neuter
+136315	neuter
 masculine
-
 136319	neuter
-
-
-
-neuter
+136323	neuter
 136325	feminine
 136329	feminine
-136331	
 136333	feminine
 neuter
-136336	
 136338	masculine
 masculine
 masculine
 masculine
 136347	masculine
 masculine
-136350	
 136352	neuter
 neuter
-136355	
-136357	
 136359	neuter
-136361	
-136364	
-neuter
-
-masculine
-
+136365	neuter
+136367	masculine
 136370	neuter
 neuter
 136374	neuter
 neuter
 neuter
-
-feminine
-
+136378	feminine
 136382	neuter
 136384	masculine
-
 136392	neuter
 136394	neuter
 136396	feminine
 feminine
 feminine
 feminine
-neuter
+feminine
 136402	feminine
 masculine
-136405	neuter
-136408	
-neuter
-136412	
-
+136405	feminine
+136409	neuter
 136415	neuter
-feminine
+masculine
 136419	neuter
-136421	
-
 136424	feminine
-
-136429	
 136431	feminine
 neuter
-136437	
-
-masculine
+136439	masculine
 neuter
 neuter
 masculine
 136444	feminine
 masculine
-
 136450	neuter
 neuter
 neuter
@@ -80876,23 +42058,13 @@ feminine
 masculine/feminine
 136460	masculine/feminine/neuter
 masculine
-
-136464	
-
-feminine
-
-feminine
-
+136466	feminine
+136468	feminine
 136471	masculine
-136474	
-
-feminine
+136476	feminine
 136479	masculine
-
-neuter
-136483	
-masculine
-136486	
+136481	neuter
+136484	masculine
 136488	neuter
 neuter
 neuter
@@ -80903,277 +42075,166 @@ neuter
 neuter
 136499	masculine
 masculine
-
 136503	masculine
 neuter
-136507	
+136508	neuter
 neuter
 neuter
-neuter
-
 136513	neuter
-
 136516	feminine
-136523	
 136526	feminine
 masculine
 136529	neuter
-
-feminine
+136531	feminine
 masculine
 136534	masculine
-136536	
-
 136539	masculine
 136541	feminine
-136545	
+136546	feminine
 feminine
-feminine
-136556	
-
-
 136563	masculine
 136565	masculine
 masculine
-136569	
-136572	
-masculine
+136573	masculine
 136575	masculine
 136579	neuter
 136581	masculine
 136585	feminine
-136588	
 136591	feminine
 136593	masculine
-
-neuter
+136595	neuter
 136597	masculine
 136600	neuter
 136603	masculine/feminine
-
-
-
-
-feminine
+136608	feminine
 feminine
 136611	masculine
-136615	
 136617	neuter
-136619	
 136621	masculine
 136626	masculine
-136628	
-
-neuter
+136628	masculine/feminine
+136630	neuter
 136638	masculine
 136641	feminine
-136643	
+136644	masculine
 masculine
-masculine
-
+136647	feminine
 feminine
-feminine
-
-136652	
-neuter
+136653	neuter
 136655	neuter
 136658	feminine
 feminine
 136661	masculine
-136663	
 136666	masculine
 136669	masculine
 masculine
 136673	masculine
-136675	
-neuter
-136678	
-136680	
-neuter
+136676	neuter
+136681	neuter
 136683	neuter
 136685	masculine
 136688	masculine
 masculine
-136691	
-136694	
-masculine
+136695	masculine
 136697	masculine
 136699	masculine
 136702	feminine
 feminine
-
-masculine
-136707	
-masculine/feminine
-
-136711	
-
+136705	masculine
+136708	masculine/feminine
 136715	feminine
-136718	
-136721	
+136722	masculine
 masculine
-masculine
-
 136726	masculine
 136728	feminine
-
-masculine
+136730	masculine
 136732	masculine
 136735	feminine
 feminine
 feminine
 136740	feminine
 feminine
-
 136749	masculine
-136751	
-
+136753	feminine
+136759	neuter
+136765	feminine
+136773	neuter
 feminine
-
-
-
-
-
+136776	feminine
 neuter
-136761	
-136764	
+136779	neuter
+136781	feminine
 feminine
-136769	
-136771	
-
-neuter
-feminine
-
-feminine
-neuter
-
-neuter
-
-feminine
-feminine
-136784	
 136786	neuter
-136789	
-neuter
+136790	neuter
 136794	masculine
 136797	neuter
-136800	
-masculine
+136801	neuter
 neuter
-
-feminine
+136804	feminine
 136806	neuter
 136808	masculine
-136810	
-136819	
-136822	
-neuter
+136823	neuter
 feminine
-136827	
-masculine
-136830	
-
-neuter
-
-feminine
-
-masculine
-136838	
-masculine
-
+136828	masculine
+136832	neuter
+136834	feminine
+136836	masculine
+136839	masculine
 136842	masculine
-
-masculine
-136847	
-136849	
-136852	
+136844	masculine
 136854	feminine
-136857	
-feminine
-136863	
-
-
-
-
+136858	feminine
 136869	feminine
-
 136873	feminine
 feminine
 masculine
 masculine
-
-feminine
-136880	
-neuter
+136878	feminine
+136881	neuter
 136887	masculine
-136892	
 136896	masculine/neuter
 136900	masculine/feminine
-136904	masculine/neuter
+136904	feminine
 136906	masculine/feminine/neuter
 136909	neuter
-
-
-feminine
-
+136912	feminine
 136917	masculine
 masculine
 136920	masculine
 136922	masculine
 136924	masculine
-
-masculine
-
-feminine
+136926	masculine
+136928	feminine
 feminine
 masculine
 feminine
-
-feminine
+136933	feminine
 feminine
 feminine
 masculine/neuter
-
-masculine/neuter
+136938	masculine/neuter
 feminine
 feminine
 masculine/neuter
 masculine/neuter
 136946	masculine/neuter
 masculine
-136949	
-
-136955	
-136958	
-136960	
-136962	
-masculine
+136963	masculine
 136966	masculine
 136973	masculine
 136975	feminine
-
-
-
-
-
-neuter
+136981	neuter
 feminine
 136984	feminine
-
-neuter
+136986	neuter
 masculine
 136990	masculine
-
-masculine/neuter
-
-
-136996	
-feminine
+136992	masculine/neuter
+136997	feminine
 137001	masculine
 feminine
 137004	feminine
-137006	
-137008	
 137010	feminine
 137013	feminine
 neuter
@@ -81181,50 +42242,32 @@ neuter
 feminine
 neuter
 masculine
-137021	
-137024	
-137026	
-masculine
-137029	
-137031	
-
-137034	
-137036	
-137039	
-137045	
-
-feminine
+137027	masculine
+137047	feminine
 137050	neuter
 feminine
 137053	feminine
 feminine
 feminine
-
 137058	masculine
 masculine
 masculine
 137062	masculine/neuter
 137066	masculine
-
-
 137080	feminine
 feminine
-137083	
 137088	masculine
 137090	masculine
-137095	
-137097	
-neuter
+137098	neuter
 feminine
 137105	masculine
 137110	neuter
-137117	
+137117	masculine
 137119	neuter
 137122	feminine
 masculine
 137127	feminine
 feminine
-
 137134	feminine
 feminine
 masculine
@@ -81232,10 +42275,7 @@ masculine
 neuter
 masculine/neuter
 137141	masculine
-
-
-137148	
-masculine/feminine/neuter
+137149	masculine/feminine/neuter
 137151	masculine
 137153	masculine
 masculine
@@ -81259,19 +42299,13 @@ masculine
 feminine
 masculine
 137198	feminine
-137200	
-
-masculine/neuter
+137202	masculine/neuter
 137205	feminine
 feminine
 137209	masculine
 masculine
-
 137213	masculine/feminine
 masculine
-137216	
-
-
 137220	masculine
 137222	masculine
 masculine
@@ -81279,192 +42313,112 @@ masculine
 137227	feminine
 137234	feminine
 feminine
-
-feminine
-
-
-
-feminine
-137243	
-
+137237	feminine
+137241	masculine
 137247	feminine
 137249	feminine
-
-neuter
+137251	neuter
 137255	masculine
-137261	
+137262	neuter
 neuter
-neuter
-neuter
-
-neuter
+feminine
+137266	neuter
 137269	masculine
 masculine
 137272	feminine
 masculine/neuter
 137275	feminine
 neuter
-
 137280	masculine
-137283	
-masculine
-
-feminine
-137289	
-137291	
-137293	
+137284	masculine
+137286	feminine
 137295	feminine
-137298	
-feminine
-137301	
-137304	
-masculine
-
-
-137309	masculine
+137299	feminine
+137305	masculine
+137309	neuter
 neuter
 137312	masculine
 masculine
-137317	
+137318	masculine
 masculine
-masculine
-137321	
-
 137325	feminine
-
 137333	feminine
 neuter
-
 137337	masculine
-
-
-neuter
-
-neuter
-137344	
-137346	
-
+137340	neuter
+137342	neuter
 137349	feminine
-137352	
-
 137358	feminine
 masculine
 masculine
 feminine
-
-feminine
+137363	feminine
 neuter
-
 137367	masculine
 masculine
 137370	neuter
 feminine
-
-
-
+137375	feminine
 feminine
-feminine
-137379	masculine
-137381	
+137379	neuter
 137385	masculine
-137387	
-neuter
-137390	
-137392	
+137388	neuter
 137396	masculine
 masculine
 neuter
-
-neuter
+137400	neuter
 137405	neuter
-137408	
-neuter
-
-feminine
+137409	neuter
+137411	feminine
 neuter
 neuter
-137416	
-137420	
-masculine/neuter
+137421	masculine/neuter
 feminine
 neuter
 neuter
 137426	neuter
-
-
+137429	masculine
 masculine
-masculine
-137432	
-137436	
-
 137440	feminine
 137442	masculine
-
 137446	masculine
-
-masculine
+137448	masculine
 137452	masculine
 masculine
 masculine
 137456	feminine
-
-feminine
+137458	feminine
 masculine
-
 137463	neuter
-
 137466	masculine
 neuter
 neuter
-
-137471	
-neuter
-137474	
+137472	neuter
 137476	neuter
 masculine/feminine
 masculine
 masculine
-137481	
 137483	feminine
-
 137487	masculine
 masculine
 masculine
 feminine
 137492	neuter
 feminine
-137495	
-137499	
-
-neuter
+137501	neuter
 feminine
-
-
-137506	
 137509	feminine
-137511	
-137513	
-masculine
-137516	
-
+137514	masculine
 137519	feminine
 feminine
-
-feminine
+137522	feminine
 masculine
 137525	feminine
-
-137528	
-
-137532	
-neuter
+137533	neuter
 masculine
 masculine
-
-137538	
-137541	
+137538	feminine
 137543	feminine
-
 137547	masculine
 masculine
 137552	masculine
@@ -81474,18 +42428,14 @@ masculine/feminine/neuter
 masculine/feminine
 137568	masculine
 masculine/feminine/neuter
-137572	
 137574	neuter
 137576	masculine
 137578	masculine
 137580	masculine/neuter
-137583	
 137585	neuter
 137587	neuter
-
 137590	feminine
-137593	
-masculine
+137594	masculine
 masculine
 137597	masculine
 137599	feminine
@@ -81494,17 +42444,11 @@ masculine
 137607	feminine
 feminine
 neuter
-
 137612	feminine
 feminine
 neuter
-
 137619	feminine
-137622	
-
-
-137627	
-masculine
+137628	masculine
 137631	masculine
 masculine/feminine
 137634	masculine
@@ -81514,18 +42458,10 @@ masculine
 masculine/feminine
 137644	masculine
 137646	masculine
-137648	
-masculine
-
+137649	masculine
 137653	masculine
-
-
-feminine
-
-137659	
-
-
-feminine
+137656	feminine
+137662	feminine
 feminine
 137668	masculine
 137670	masculine
@@ -81533,69 +42469,40 @@ feminine
 137674	masculine
 137678	feminine
 137680	masculine/neuter
-
 137683	masculine
 feminine
-137686	
 137688	masculine
 masculine
 137691	masculine
 137695	feminine
 feminine
-
-
-137700	
-
-137703	
 137705	feminine
-
 137709	masculine
 masculine/feminine
-
 137713	feminine
-
-masculine
+137715	masculine
 137719	feminine
 feminine
 feminine
 feminine
-
-
 137726	neuter
 137728	masculine
 masculine/feminine
-
-
-feminine
-
-
+137732	feminine
 137737	feminine
-137739	
-masculine
+137740	masculine
 137744	neuter
-
-
-
 137749	feminine
-137751	
 137755	feminine
 feminine
 feminine
-
-
 137761	neuter
-
-masculine
+137763	masculine
 masculine
 feminine
-
 137768	neuter
 feminine
-
+137771	masculine
 masculine
+137776	masculine
 masculine
-
-137775	
-masculine
-masculine
-

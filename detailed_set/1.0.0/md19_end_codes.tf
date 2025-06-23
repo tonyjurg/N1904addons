@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-15T22:27:23+00:00Z
+@dateWritten=2025-06-22T22:25:25+00:00Z
 
 1446	aw_pr
 1647	aw_pr
@@ -61,7 +61,7 @@
 27604	ew_pr
 27825	aw_pr
 29163	aw_pr
-29650	
+29650	adverb
 29917	aw_fut
 30145	aor1
 32952	aw_pr
@@ -92,7 +92,7 @@
 44695	aw_pr
 44807	aw_pr
 45197	ath_primary
-45411	
+45411	adverb
 45855	aw_pr
 46274	aw_pr
 46396	is_ews
@@ -100,7 +100,7 @@
 46880	aw_pr
 48007	aw_pr
 48146	aw_pr
-48507	
+48507	adverb
 49434	aw_pr
 50353	aw_pr
 50398	aw_pr
@@ -116,8 +116,8 @@
 64778	aw_pr
 66087	aw_fut
 68218	aor1
-68450	
-69902	
+68450	adverb
+69902	adverb
 70246	aw_fut
 71230	aw_fut
 74013	aw_pr
