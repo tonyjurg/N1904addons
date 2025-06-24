@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-22T22:25:32+00:00Z
+@dateWritten=2025-06-23T22:51:49+00:00Z
 
 238	unaugmented
 283	indeclform
