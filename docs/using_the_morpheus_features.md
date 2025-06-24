@@ -218,3 +218,27 @@ print(f"Processed {counter:,} lemma–workw pairs in {elapsed:.2f} s ({counter/e
 
 This three-tier approach keeps the usual workflow not only fast and lightweight (meta + summary only) while it also gives you fast access to any deep level information your research question demands.
 
+## More examples
+
+### Feature scanning across multiple morpheus blocks
+
+Building on the previous code, the following example demonstrates how to search through the outputs of each Morpheus analysis block to find all word nodes that match a given lemma and begin with a specific morphological code segment.
+
+```Python
+BLOCK_RANGE  = range(1, 25)
+lem_feat     = {b: Fs(f"md{b}_lem_base_uc")  for b in BLOCK_RANGE}
+morph_feat   = {b: Fs(f"md{b}_morph")  for b in BLOCK_RANGE}
+for wordNode in F.otype.s('word'):
+    for block in BLOCK_RANGE:
+        if lem_feat[block].v(wordNode)=="ἄρχω" and "V-PAP-G" in morph_feat[block].v(wordNode):
+            print (T.sectionFromNode(wordNode),f'{block=}', morph_feat[block].v(wordNode))
+
+('Matthew', 9, 23) block=2 V-PAP-GSM/V-PAP-GSN
+('Luke', 14, 1) block=2 V-PAP-GPM/V-PAP-GPN
+('John', 7, 48) block=2 V-PAP-GPM/V-PAP-GPN
+('John', 12, 42) block=2 V-PAP-GPM/V-PAP-GPN
+('I_Corinthians', 2, 6) block=2 V-PAP-GPM/V-PAP-GPN
+('I_Corinthians', 2, 8) block=2 V-PAP-GPM/V-PAP-GPN
+```
+
+
