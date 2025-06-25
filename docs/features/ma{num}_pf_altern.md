@@ -2,7 +2,7 @@
 
 Feature group |Feature type | Data type | Available for node types | Feature status
 ---  | --- | --- | --- | ---
-[`Morpheus`](README.md#feature-group-morpheus-analyses-meta-and-summary) | `Node`| `int` | `phrase` | [🆗](featurestatus.md#Reasonable "Reasonable")
+[`Morpheus`](README.md#feature-group-morpheus-analyses-meta-and-summary) | `Node`| `str` | `phrase` | [🆗](featurestatus.md#Reasonable "Reasonable")
 
 ## Feature description
 
@@ -16,7 +16,21 @@ This is a Morpheus analysis data feature.
 
 ## Feature values
 
-An integer.
+A string containing a specific sequence of morphs with a probality indication for the resulting phrase function. 
+
+For example for the feature `ma1_pf_altern`, the value
+
+```
+  T-ASM+N-ASM+P-GSM=o:88/s:12
+```
+This can be understood as:
+
+ 1. The '1' in `ma1` tells us this is the first alternative combination of morph-tags.
+ 2. The tag sequence `T-ASM+N-ASM+P-GSM` means the phrase consists of an article followed by a noun and a personal pronoun with the speficied grammatical properties.
+ 3. The part after the  '=', in this case `o:88/s:12` gives the distribution of phrase functions:
+    * `o:88` means 88 % of occurrences of this exact morph-sequence are labeled as an object phrase.
+    * `s:12` means 12 % are labeled as a subject phrase.
+
 
 ## Programmatic access
 
