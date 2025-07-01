@@ -4,15 +4,16 @@ This page first presents an overview of how Morpheus features are logically orga
 
 ## Morpheus feature classes
 
-The total number of distinct Text-Fabric features related to the Morpheus morphological analysis is currently around 900. Without a logical taxonomy this would be unable to handle. Therefore, the Morpheus related Text-Fabric features are devided into three main groups:
+The total number of distinct Text-Fabric features related to the Morpheus morphological analysis is currently around 900. Without a logical taxonomy this would be unable to handle. Therefore, the Morpheus related Text-Fabric features are devided into four main groups:
 
 Class | Naming patern | Function and maps to datatype
 --- | --- | --- 
 [Meta](README.md#meta-data) | mm_{feature} | These features contain  meta data like details on number of lemmas returned for the analysis of a single word. This group also contains features that allow easy programmatic access to the summary features.
 [Summary](README.md#summary-data) | ms{num}_{feature} | These features contain a summary per lemma of all related analytic blocks returned by Morpheus. This group also contains features that allow easy programmatic access to the detailed features.
 [Detail](README.md#detail-data) | md{num}_{feature} | These features provide access to (almost) all details in the Morpheus analytical blocks
+[Analytic](README.md#analytic-data) | ma{num}_{feature} | Phrase-level features derived from Morpheus analyses cross-referenced with N1904-TF morphosyntactic tags
 
-The following image shows the general patern:
+The figure below illustrates the overall structure of the three feature classes that link Morpheus analytical data to individual words.:
 
 <img src="images/morpheus_feature_classes.png">
 
