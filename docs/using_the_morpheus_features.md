@@ -4,7 +4,7 @@ This page first presents an overview of how Morpheus features are logically orga
 
 ## Morpheus feature classes
 
-The total number of distinct Text-Fabric features related to the Morpheus morphological analysis is currently around 900. Without a logical taxonomy this would be unable to handle. Therefore, the Morpheus related Text-Fabric features are devided into four main groups:
+The total number of distinct Text-Fabric features related to the Morpheus morphological analysis is close to a thousand. Without a logical taxonomy this would be unable to handle. Therefore, the Morpheus related Text-Fabric features are devided into four main groups:
 
 Class | Naming patern | Function and maps to datatype
 --- | --- | --- 
