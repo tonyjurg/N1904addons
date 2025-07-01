@@ -2,11 +2,11 @@
 
 Feature group |Feature type | Data type | Available for node types | Feature status
 ---  | --- | ---| --- | ---
-[`Morpheus`](README.md#feature-group-morpheus-analyses-meta-and-summary) | `Node` | `int` | `word` | [🆗](featurestatus.md#Reasonable "Reasonable")
+[`Morpheus`](README.md#feature-group-morpheus-analyses-meta-and-summary) | `Node` | `str` | `word` | [🆗](featurestatus.md#Reasonable "Reasonable")
 
 ## Feature description
 
-Summary feature for grouped analysis #{num} providing a list of morphs
+Summary feature for grouped analysis #{num} providing a list with one or more morphs
 
 This is a Morpheus [summary data feature](../using_the_morpheus_features.md#morpheus-feature-classes).
 
