@@ -8,7 +8,7 @@ The features of this package can be grouped as follows:
 
 #### Meta data
 
-These features describe the Morpheus analysis per word-node ([more info](morpheus_tf_feature_classes.md)). 
+These features describe the Morpheus analysis per word-node ([more info](../using_the_morpheus_features.md#morpheus-feature-classes)). 
 
 Feature name | Data type | Available on node | Description | Examples
 ---|---|---|---|---
@@ -22,7 +22,7 @@ Feature name | Data type | Available on node | Description | Examples
 
 #### Summary data
 
-These features summarize the Morpheus analysis grouped per lemma ([more info](morpheus_tf_feature_classes.md)).
+These features summarize the Morpheus analysis grouped per lemma ([more info](../using_the_morpheus_features.md#morpheus-feature-classes)).
 
 Feature name | Data type | Available on node | Description | Examples
 ---|---|---|---|---
@@ -39,7 +39,7 @@ Feature name | Data type | Available on node | Description | Examples
 
 #### Detail data
 
-These features provide access to detailes of each individual Morpheus analysis block ([more info](morpheus_tf_feature_classes.md)).
+These features provide access to detailes of each individual Morpheus analysis block ([more info](../using_the_morpheus_features.md#morpheus-feature-classes)).
 
 Feature name | Data type | Available on node | Description 
 ---|---|---|---
@@ -47,7 +47,7 @@ Feature name | Data type | Available on node | Description
 
 #### Analytic data
 
-These features provide access to features based upon analysis of the Morpheus data in connection with N1904-TF morphosyntactic tagging ([more info](morpheus_tf_feature_classes.md)).
+These features provide access to features based upon analysis of the Morpheus data in connection with N1904-TF morphosyntactic tagging ([more info](../using_the_morpheus_features.md#morpheus-feature-classes)).
 
 Feature name | Data type | Available on node | Description 
 ---|---|---|---
