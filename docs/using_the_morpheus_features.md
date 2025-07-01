@@ -8,9 +8,9 @@ The total number of distinct Text-Fabric features related to the Morpheus morpho
 
 Class | Naming patern | Function and maps to datatype
 --- | --- | --- 
-[Meta](README.md#meta-data) | mm_{feature} | These features contain  meta data like details on number of lemmas returned for the analysis of a single word. This group also contains features that allow easy programmatic access to the summary features.
-[Summary](README.md#summary-data) | ms{num}_{feature} | These features contain a summary per lemma of all related analytic blocks returned by Morpheus. This group also contains features that allow easy programmatic access to the detailed features.
-[Detail](README.md#detail-data) | md{num}_{feature} | These features provide access to (almost) all details in the Morpheus analytical blocks
+[Meta](README.md#meta-data) | mm_{feature} | Word-level features containing meta data like details on number of lemmas returned for the analysis of a single word. This group also contains features that assist programmatic access to the summary features.
+[Summary](README.md#summary-data) | ms{num}_{feature} | Word-level features containing a summary per lemma of all related analytic blocks returned by Morpheus. This group also contains features that assist programmatic access to the detailed features.
+[Detail](README.md#detail-data) | md{num}_{feature} | Word-level features providing access to (almost) all details in the Morpheus analytical blocks
 [Analytic](README.md#analytic-data) | ma{num}_{feature} | Phrase-level features derived from Morpheus analyses cross-referenced with N1904-TF morphosyntactic tags
 
 The figure below illustrates the overall structure of the three feature classes that link Morpheus analytical data to individual words.:
