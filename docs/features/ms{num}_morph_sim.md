@@ -58,3 +58,13 @@ A.show(QueryResult, extraFeatures=morphFeatureList)
 The image below shows a syntax tree with the display of these features enabled.
 
 <IMG SRC="images/show_morpheus_features.png" WIDHT=600>
+
+## Morpheus analytic blocks
+
+The following image shows an example of a Morpheus analyses block.
+
+<IMG SRC="images/morpheus_block_example.png">
+
+## Data source
+
+[See this repository](https://tonyjurg.github.io/Create_morpheus_TF_dataset/).
