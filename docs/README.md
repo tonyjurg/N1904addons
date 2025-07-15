@@ -1,4 +1,4 @@
-[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)  
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
 # N1904addons
 
@@ -21,17 +21,13 @@ Feature group | Description
 ---|---
 [Morpheus (Details)](features/README.md#feature-group-morpheus-details) | Extensive set of features (more than 600) providing access to information elements in each Morpheus analytic block. 
 
-
 ## Adding the features
 
-Adding the 
 See [this page](using_the_dataset.md).
-
 
 ## Tools used
 
 The standard set of tools ([Python documentation](https://www.python.org/doc/), tech sites like [stackoverflow](https://stackoverflow.com/), and Python syntax checkers like [Pythonium](https://pythonium.net/linter)) were used to create this package. Furthermore, for the creation of a subset of features, also the [Anaconda Assistant](https://www.anaconda.com/capability/anaconda-assistant) (using [OpenAI](https://openai.com/) as backend) and/or [GitHub Copilot](https://github.com/features/copilot) in Visual Studio were used to debug and/or optimize parts of the code. See the individual notebooks for details.
-
 
 ## License
 
