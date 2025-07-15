@@ -39,4 +39,4 @@ Related features:
 
 ## Data source
 
-The production notebook can be found on [this repository](https://tonyjurg.github.io/Create-TF-stat-features/).
+The production notebook can be found on [this repository](https://tonyjurg.github.io/Create_TF_stat_features/).
