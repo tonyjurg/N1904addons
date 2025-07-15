@@ -14,4 +14,12 @@ This is a Morpheus [summary data feature](../using_the_morpheus_features.md#morp
 
 The prvb string encoded in unicode.
 
+## Morpheus analytic blocks
+
+The following image shows an example of a Morpheus analyses block.
+
+<IMG SRC="images/morpheus_block_example.png">
+
 ## Data source
+
+[See this repository](https://tonyjurg.github.io/Create_morpheus_TF_dataset/).
