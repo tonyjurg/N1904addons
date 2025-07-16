@@ -11,5 +11,28 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-23T22:51:40+00:00Z
+@dateWritten=2025-07-13T23:14:01+00:00Z
 
+27604	a)po/ a)nti/
+29917	pro/s
+33524	a)na/
+36728	a)na/
+37632	a)na/
+42922	dia/
+54056	a)na/
+66087	pro/s
+68218	a)na/
+70246	a)na/
+71230	pro/s
+82086	para/
+88457	kata/
+97591	kata/
+98435	kata/
+102326	kata/
+104357	a)po/ kata/
+108059	a)po/ kata/
+109618	a)na/
+109819	e)n
+114534	a)na/ e)n
+121359	kata/
+121654	kata/

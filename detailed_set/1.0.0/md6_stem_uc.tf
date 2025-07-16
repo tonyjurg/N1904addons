@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-23T22:51:49+00:00Z
+@dateWritten=2025-07-13T23:14:12+00:00Z
 
 99	οὐρι
 154	ἀμ
@@ -2789,7 +2789,7 @@
 33574	λ
 33577	οἰ
 33584	μαθ
-33587	πὸκνα
+33587	πύκνα
 33591	ὁμοι
 33650	καιν
 33655	παλαι

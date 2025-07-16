@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-23T22:51:40+00:00Z
+@dateWritten=2025-07-13T23:14:01+00:00Z
 
 2930	κατά
 3221	κατά
@@ -21,7 +21,7 @@
 37632	ἀνά
 42658	κατά
 45411	ἐν
-46396	σὸν/ἀντί
+46396	σύν/ἀντί
 48507	ἐν
 54056	ἀνά
 60620	ὑπό

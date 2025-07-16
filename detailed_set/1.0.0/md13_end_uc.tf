@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-23T22:51:40+00:00Z
+@dateWritten=2025-07-13T23:14:01+00:00Z
 
 574	ῶ
 914	α—
@@ -678,7 +678,7 @@
 123735	ει
 123748	α
 123989	ᾶν
-124283	οὸμενον
+124283	ούμενον
 124543	ον
 124783	ῶμεν
 125432	ῶν

@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-23T22:51:48+00:00Z
+@dateWritten=2025-07-13T23:14:10+00:00Z
 
 4	χριστ
 υἱ
@@ -27401,7 +27401,7 @@
 λ
 112815	χρ
 δι—
-112821	πὸκνας
+112821	πύκνας
 ς
 112824	τι—ν
 112828	προδηλ

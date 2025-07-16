@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-23T22:51:53+00:00Z
+@dateWritten=2025-07-13T23:14:26+00:00Z
 
 2937	δῖος
 4399	δῖος
@@ -47,7 +47,7 @@
 46880	ἐλαιόω
 53834	δῖος
 54688	δῖος
-57041	ἀπολοὸω
+57041	ἀπολούω
 58292	δῖος
 67398	δῖος
 69860	ἀρά

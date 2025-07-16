@@ -11,7 +11,7 @@
 @version=1.0.0
 @website=https://github.com/tonyjurg/N1904addon
 @writtenBy=Text-Fabric
-@dateWritten=2025-06-23T22:51:47+00:00Z
+@dateWritten=2025-07-13T23:14:08+00:00Z
 
 3	Ἰησοῦ
 χριστ
@@ -41212,7 +41212,7 @@
 ἐμ
 107053	ὑμίν
 107056	βλεπ
-107058	κὸνας
+107058	κύνας
 βλεπ
 107061	κακ
 107063	βλεπ
