@@ -206,7 +206,7 @@ The labels {num} and {inf_elem} are placeholders, which stand for:
       <td rowspan="3">Derived</td>
       <td>gram_dif</td>
       <td><code>str</code></td>
-      <td>Field indicating grammatical differences with morph tag in N1904-TF. See also <a href="using_gram_dif.html">using the gram_dif feature</a>.</td>
+      <td>Field indicating grammatical differences with morph tag in N1904-TF. See also <a href="https://tonyjurg.github.io/N1904addons/features/using_gram_dif.html">using the gram_dif feature</a>.</td>
       <td><code>lp.n.tmv.</code> <code>.cng....</code></td>
     </tr>
     <tr>
@@ -216,9 +216,9 @@ The labels {num} and {inf_elem} are placeholders, which stand for:
       <td><code>V-AAI-3S</code> <code>N-NDF/N-VDF/N-ADF</code></td>
     </tr>
     <tr>
-      <td>pos</td>
+      <td>sp</td>
       <td><code>str</code></td>
-      <td>Determined Part of Speech (POS).</td>
+      <td>Determined Part of Speech (POS). (comparable to feature <a href="https://centerblc.github.io/N1904/features/sp.html#start">sp</a> in N1904-TF).</td>
       <td><code>verb</code> <code>preposition</code></td>
     </tr>
   </tbody>
