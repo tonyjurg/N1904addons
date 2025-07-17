@@ -14,4 +14,4 @@ A fixed-length string of 9 characters indicating differing grammatical propertie
 
 ## See also
 
-[using this feature](using_gram_dif)
+[using this feature](using_gram_dif.md)
