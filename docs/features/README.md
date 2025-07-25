@@ -12,7 +12,7 @@ These features describe the Morpheus analysis per word-node ([more info](../usin
 
 Feature name | Data type | Available on node | Description | Examples
 ---|---|---|---|---
-[betacode](betacode.md)| `str`| `word` | The Greek unicode word in betacode | `*)ihsou=` `*xristou=`
+[mm_gram_dif](mm_gram_dif.md)| `str`| `word` | Summary feature for agrammatical difference against N1904-TF (fieldmap) | `lpc.gtmv.` `l.cng....`
 [mm_raw_bc](mm_raw_bc.md)| `str`| `word` | Betacode representation of the raw: field of Morpheus for this word node | `*)ihsou=` `*xristou=`
 [mm_raw_uc](mm_raw_uc.md)| `str`| `word` | Unicode representation of the raw: field of Morpheus for this word node | `Ἰησοῦς`
 [mm_num_lemmas](mm_num_lemmas.md)| `int`| `word` | Number of different lemmas returned by the Morpheus analytic blocks for this word node | `1`  `3`
@@ -27,6 +27,7 @@ These features summarize the Morpheus analysis grouped per lemma ([more info](..
 Feature name | Data type | Available on node | Description | Examples
 ---|---|---|---|---
 [ms{ind}_block_nums](ms{ind}_block_nums.md)| `str`| `word` | Summary feature for grouped analysis #{ind} providing a list with the associated blocknumbers. | `1/2` `4/5/6`
+[ms{ind}_gram_dif](ms{ind}_gram_dif.md)| `str`| `word` | Summary feature for grouped analysis #{ind} providing grammatical difference against N1904-TF (fieldmap) | `lpc.gtmv.` `....g..v.`
 [ms{ind}_lem_base_bc](ms{ind}_lem_base_bc.md)| `str`| `word` | Summary feature for grouped analysis #{ind} providing the base lemma (clean; without suffixes) encoded in betacode | `ku/rios` `*solomw/n`
 [ms{ind}_lem_base_uc](ms{ind}_lem_base_uc.md)| `str`| `word` | Summary feature for grouped analysis #{ind} providing the base lemma (clean; without suffixes) encoded in unicode | `φανάω` `ἀνά-διδράσκω`
 [ms{ind}_lem_full_bc](ms{ind}_lem_full_bc.md)| `str`| `word` | Summary feature for grouped analysis #{ind} providing the full lemma incl. homonym or pl-suffix identifiers, if any) encoded in betacode | `*daui/dhs-pl` `h)/2`
@@ -76,6 +77,7 @@ Feature name | Data type | Available on node | Description | Examples
 
 Feature name | Data type | Available on node | Description | Examples
 ---|---|---|---|---
+[betacode](betacode.md)| `str`| `word` | The Greek unicode word in betacode | `*)ihsou=` `*xristou=`
 [osis_id](osis_id.md)| `str`| `book` `chapter` `verse` | Book name accoring to the OSIS (Open Scriptural Information Standard) ID | `2Thess` `Phlm`  
 
 ### Feature group: Miscellaneous
