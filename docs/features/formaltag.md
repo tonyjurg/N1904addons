@@ -37,7 +37,8 @@ The difference between this feature `formaltag` and feature [`morph`](https://ce
 
 ## Data source
 
-This feature was copied from [`functionaltag` in Nestle 1904 GNT](https://tonyjurg.github.io/Nestle1904GBI/features/functionaltag.html). 
+This feature was copied from [`functionaltag` in Nestle1904GBI](https://tonyjurg.github.io/Nestle1904GBI/features/functionaltag.html). 
+
 Ultimately the data was taken from the (optional) XML attribute FormalTag for each element node representing a word in the [GBI nodes XML data](https://github.com/Clear-Bible/macula-greek/tree/main/Nestle1904/nodes).
 
 Also (from [github.com/Clear-Bible](https://github.com/Clear-Bible/macula-greek/blob/1f3e7c91e12970d47e4faf7b92d676aa57685f7b/SBLGNT/README.md?plain=1#L36)):
