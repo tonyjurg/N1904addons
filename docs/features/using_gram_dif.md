@@ -35,3 +35,13 @@ Each value for a feature `m*_gram_dif` produces a fixed-length string of 9 chara
 
 ## Example usage
 
+## Some notes on interpretation
+
+The compare will mark as a difference any grammatical property that *can* be interpreted differently. In the following case the Morpheus parsing does return the tag from N1904-TF, but also another one. This is due to underspecification (the ending ος can be either masculine or feminine). 
+<img src="https://raw.githubusercontent.com/tonyjurg/N1904addons/main/docs/features/images/angelos.png">
+
+In case the morphological tag differs between N1904-TF and the Morpheus derived data, this feature can still report `.........`, in case the tag difference is due to e.g., dialect. See the following example:
+
+<img src="https://raw.githubusercontent.com/tonyjurg/N1904addons/main/docs/features/images/paralabein.png">
+
+The situation may also be the other way around. 
