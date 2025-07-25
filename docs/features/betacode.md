@@ -6,13 +6,13 @@ Feature group |Feature type | Data type | Available for node types | Feature sta
 
 ## Feature description
 
-The Greek unicode surface level word in Betacode. It is important to realize that this feature is **not** a transliteration of N1904-TF's [`unicode`](https://centerblc.github.io/N1904/features/unicode.html). The feature can be rather considered a translateration of the [`text`](https://centerblc.github.io/N1904/features/unicode.html) feature. The following image shows the relation between the various lexographic features in the N1904-TF dataset. 
+The Greek unicode surface level word in <a href="https://stephanus.tlg.uci.edu/encoding/BCM.pdf" target="_blank">Beta Code</a>. It is important to realize that this feature is **not** a transliteration of N1904-TF's <a href="https://centerblc.github.io/N1904/features/unicode.html" target="_blank">`unicode`</a>. The feature can be rather considered a translateration of the <a href="https://centerblc.github.io/N1904/features/unicode.html" target="_blank">`text`</a> feature. The following image shows the relation between the various lexographic features in the N1904-TF dataset. 
 
 <IMG SRC="images/details_surface_features.png" WIDTH="400">
 
 For instance, where feature `unicode` would contain 'Ἀβραάμ.' in our conversion to `betacode` we will map it to '*)abraa/m', so without transliterating the trailing period.  
 
-Betacode is used in specific applications like [Morpheus morphological tagging](https://github.com/perseids-tools/morpheus).
+Beta Code is used in specific applications like <a href="https://github.com/perseids-tools/morpheus" target="_blank">Morpheus morphological tagging</a>.
 
 ## Usage in TF queries and Python
 
@@ -20,7 +20,7 @@ When working with string values for feature betacode in Text-Fabric, you may enc
 
 **Text-Fabric Query Template:**
 
-Here it is adviced to escape the `|` character (that is replace it with `\|`). A raw string indicator `r` should also be added before the query template definition to prevent warning messages. To examine all constraints see [TF searchusage](https://annotation.github.io/text-fabric/tf/about/searchusage.html#additional-constraints). In example 1 the query template is defined to locate occurences of the betacode `a)pokatalla/ch|`. This query correctly retrieves the single occurrence of ἀποκαταλλάξῃ, found in Ephesians 2:16.
+Here it is adviced to escape the `|` character (that is replace it with `\|`). A raw string indicator `r` should also be added before the query template definition to prevent warning messages. To examine all constraints see <a href="https://annotation.github.io/text-fabric/tf/about/searchusage.html#additional-constraints" target="_blank">TF searchusage</a>. In example 1 the query template is defined to locate occurences of the Beta Code `a)pokatalla/ch|`. This query correctly retrieves the single occurrence of ἀποκαταλλάξῃ, found in Ephesians 2:16.
 
 ```Python
 # Example 1: Text-Fabric query template
