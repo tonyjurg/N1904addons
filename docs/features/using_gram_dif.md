@@ -44,4 +44,7 @@ In case the morphological tag differs between N1904-TF and the Morpheus derived 
 
 <img src="https://raw.githubusercontent.com/tonyjurg/N1904addons/main/docs/features/images/paralabein.png">
 
-The situation may also be the other way around. 
+The situation may be even more tricky. For the following wordform the N1904-TF has morphologicaly tagged Isaak as `N-PRI`, just as it was done on the Morpheus based dataset. However, the is a mismatch reported on the grammatical case. This occurs because all TF features in the *_gram_dif group are computed by comparing each grammatical property in a Morpheus analytic block with its counterpart in the N1904-TF dataset. As is clear from the Morpheus analytic block in Figure 20, no information about grammatical case is provided. As a result, the compare function flags this as a difference, since such information is present in the N1904-TF dataset. This can be easily seen when comparing the N1904-TF data with the raw data from Morpheus.
+
+<img src="https://raw.githubusercontent.com/tonyjurg/N1904addons/main/docs/features/images/isaak.png">
+
