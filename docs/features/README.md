@@ -32,8 +32,8 @@ Feature name | Data type | Available on node | Description | Examples
 [ms{*ind*}_lem_base_uc](ms{ind}_lem_base_uc.md)| `str`| `word` | Summary feature for grouped analysis #*ind* providing the base lemma (clean; without suffixes) encoded in unicode | `φανάω` `ἀνά-διδράσκω`
 [ms{*ind*}_lem_full_bc](ms{ind}_lem_full_bc.md)| `str`| `word` | Summary feature for grouped analysis #*ind* providing the full lemma incl. homonym or pl-suffix identifiers, if any) encoded in betacode | `*daui/dhs-pl` `h)/2`
 [ms{*ind*}_lem_full_uc](ms{ind}_lem_full_uc.md)| `str`| `word` | Summary feature for grouped analysis #*ind* providing the full lemma incl. homonym or pl-suffix identifiers, if any) encoded in unicode | `Ἰησοῦσ-πλ` `λέγω2`
-[ms{*ind*}_lem_homonym](ms{ind}_lem_homonym.md)| `str` | `word` | lemma homonym indicator | 
-[ms{*ind*}_lem_pl_suff](ms{ind}_lem_pl_suff.md)| `str` | `word` | lemma pl suffix indicator |
+[ms{*ind*}_lem_homonym](ms{ind}_lem_homonym.md)| `str` | `word` | lemma homonym indicator for grouped analysis #*ind* | 
+[ms{*ind*}_lem_pl_suff](ms{ind}_lem_pl_suff.md)| `str` | `word` | lemma pl suffix indicator for grouped analysis #*ind* |
 [ms{*ind*}_morph](ms{ind}_morph.md)| `str`| `word` | Summary feature for grouped analysis #*ind* providing a list of morphs | `N-GSM/N-VSM/N-PRI` `V-IEI-2S`
 [ms{*ind*}_morph_sim](ms{ind}_morph_sim.md)| `str`| `word` | Summary feature for grouped analysis #*ind* providing a list of morps similairties to the N1904-TF morph | `100/93/56` `56`
 [ms{*ind*}_num_blocks](ms{ind}_num_blocks.md)| `int`| `word` | Summary feature for grouped analysis #*ind* providing the number of analytic blocks it summarizes | `3`  `2` 
