@@ -42,10 +42,10 @@ Feature name | Data type | Available on node | Description | Examples
 
 These features provide access to detailes of each individual Morpheus analysis block ([more info](../using_the_morpheus_features.md#morpheus-feature-classes)).
 
-Feature name | Data type | Available on node | Description 
----|---|---|---
+Feature name | Data type | Available on node | Description |Examples
+---|---|---|---|---
 [md{ind}_gram_dif](md{ind}_gram_dif.md)| `str`| `word` | Detailed feature for agrammatical difference against N1904-TF ([fieldmap](using_gram_dif.md)) | `lpc.gtmv.` `l.cng....`
-[md{ind}_{inf_elem}](md{ind}_{inf_elem}.md)  | `str` | `word` | Overview of features providing access to data from individual Morpheus analytic blocks
+[md{ind}\_{inf_elem}](md{ind}_{inf_elem}.md)  | `str` | `word` | Overview of features providing access to data from individual Morpheus analytic blocks | *morphological and lexical properties*
 
 #### Analytic data
 
