@@ -78,7 +78,7 @@ Feature name | Data type | Available on node | Description | Examples
 
 Feature name | Data type | Available on node | Description | Examples
 ---|---|---|---|---
-[betacode](betacode.md)| `str`| `word` | The Greek unicode word in betacode | `*)ihsou=` `*xristou=`
+[betacode](betacode.md)| `str`| `word` | The Greek unicode word in <a href="https://stephanus.tlg.uci.edu/encoding.php" target="_blank">Beta Code</a> | `*)ihsou=` `*xristou=`
 [osis_id](osis_id.md)| `str`| `book` `chapter` `verse` | Book name accoring to the OSIS (Open Scriptural Information Standard) ID | `2Thess` `Phlm`  
 
 ### Feature group: Miscellaneous
