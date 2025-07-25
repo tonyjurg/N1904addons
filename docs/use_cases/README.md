@@ -6,6 +6,7 @@ Nbviewer | Notebook | Short description
 ---|---|---
 [Use case 1](https://nbviewer.org/github/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_1_layered_structure.ipynb) | [Use case 1](https://github.com/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_1_layered_structure.ipynb)| Layered Structure of Morphological Analysis (N1904addons)
 [Use case 2](https://nbviewer.org/github/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_2_exploring_a_known_ambiguity_john_1v9.ipynb) | [Use case 2](https://github.com/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_2_exploring_a_known_ambiguity_john_1v9.ipynb)| Exploring a Known Ambiguity (John 1:9)
+[Use case 3](https://nbviewer.org/github/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_3_searching_hidden_lemmas_zeus.ipynb) | [Use case 3](https://github.com/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_3_searching_hidden_lemmas_zeus.ipynb)| Search hidden lemmas (Zeus)
 
 ## Other notebooks
 
