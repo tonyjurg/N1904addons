@@ -35,7 +35,7 @@ Feature name | Data type | Available on node | Description | Examples
 [ms{*ind*}_lem_homonym](ms{ind}_lem_homonym.md)| `str` | `word` | lemma homonym indicator for grouped analysis #*ind* | 
 [ms{*ind*}_lem_pl_suff](ms{ind}_lem_pl_suff.md)| `str` | `word` | lemma pl suffix indicator for grouped analysis #*ind* |
 [ms{*ind*}_morph](ms{ind}_morph.md)| `str`| `word` | Summary feature for grouped analysis #*ind* providing a list of morphs | `N-GSM/N-VSM/N-PRI` `V-IEI-2S`
-[ms{*ind*}_morph_sim](ms{ind}_morph_sim.md)| `str`| `word` | Summary feature for grouped analysis #*ind* providing a list of morps similairties to the N1904-TF morph | `100/93/56` `56`
+[ms{*ind*}_morph_sim](ms{ind}_morph_sim.md)| `str`| `word` | Summary feature for grouped analysis #*ind* providing a list of morphs similairties to the N1904-TF morph | `100/93/56` `56`
 [ms{*ind*}_num_blocks](ms{ind}_num_blocks.md)| `int`| `word` | Summary feature for grouped analysis #*ind* providing the number of analytic blocks it summarizes | `3`  `2` 
 
 #### Detail data
