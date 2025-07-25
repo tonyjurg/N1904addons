@@ -1,6 +1,6 @@
 # Overview features
 
-This repository offers a set of features built specifically for use with the [N1904 Text-Fabric dataset](https://CenterBLC.github.io/N1904/). Text-Fabric is a powerful platform for analyzing biblical texts with linguistic and structural detail.
+This repository offers a set of features built specifically for use with the [N1904 Text-Fabric dataset](https://CenterBLC.github.io/N1904/). Text-Fabric is a powerful platform for analysing biblical texts with linguistic and structural detail.
 
 The features of this package can be grouped as follows:
 
