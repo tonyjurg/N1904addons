@@ -2,14 +2,15 @@
 
 The following are a number of use cases for the Morpheus based extention. Each usecase is in its own Jupyter notebook.
 
-Notebook | Short description
----|---
-[Use case 1](use_case_1_layered_structure.ipynb)| Layered Structure of Morphological Analysis (N1904addons)
+Nbviewer | Notebook | Short description
+---|---|---
+[Use case 1](https://nbviewer.org/github/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_1_layered_structure.ipynb) | [Use case 1](https://github.com/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_1_layered_structure.ipynb)| Layered Structure of Morphological Analysis (N1904addons)
+[Use case 2](https://nbviewer.org/github/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_2_exploring_a_known_ambiguity_john_1v9.ipynb) | [Use case 2](https://github.com/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_2_exploring_a_known_ambiguity_john_1v9.ipynb)| Exploring a Known Ambiguity (John 1:9)
 
 ## Other notebooks
 
-Notebook | Short description
----|---
-[Overview](overview_statistics_on_ambiguity.ipynb) | Statistics on ambiguity (N1904-TF + N1904addons)
-[Memory usage](determine_footprint.ipynb) | Memory footprint calculations
+Nbviewer | Notebook | Short description
+---|---|---
+[stats](https://nbviewer.org/github/tonyjurg/N1904addons/blob/main/docs/use_cases/overview_statistics_on_ambiguity.ipynb) | [stats](https://github.com/tonyjurg/N1904addons/blob/main/docs/use_cases/overview_statistics_on_ambiguity.ipynb) | Statistics on ambiguity (N1904-TF + N1904addons)
+[memory](https://nbviewer.org/github/tonyjurg/N1904addons/blob/main/docs/use_cases/determine_footprint.ipynb) | [memory](https://github.com/tonyjurg/N1904addons/blob/main/docs/use_cases/determine_footprint.ipynb) | Memory footprint calculations
  
