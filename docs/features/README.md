@@ -26,16 +26,16 @@ These features summarize the Morpheus analysis grouped per lemma ([more info](..
 
 Feature name | Data type | Available on node | Description | Examples
 ---|---|---|---|---
-[ms{num}_block_nums](ms{num}_block_nums.md)| `str`| `word` | Summary feature for grouped analysis #{num} providing a list with the associated blocknumbers. | `1/2` `4/5/6`
-[ms{num}_lem_base_bc](ms{num}_lem_base_bc.md)| `str`| `word` | Summary feature for grouped analysis #{num} providing the base lemma (clean; without suffixes) encoded in betacode | `ku/rios` `*solomw/n`
-[ms{num}_lem_base_uc](ms{num}_lem_base_uc.md)| `str`| `word` | Summary feature for grouped analysis #{num} providing the base lemma (clean; without suffixes) encoded in unicode | `φανάω` `ἀνά-διδράσκω`
-[ms{num}_lem_full_bc](ms{num}_lem_full_bc.md)| `str`| `word` | Summary feature for grouped analysis #{num} providing the full lemma incl. homonym or pl-suffix identifiers, if any) encoded in betacode | `*daui/dhs-pl` `h)/2`
-[ms{num}_lem_full_uc](ms{num}_lem_full_uc.md)| `str`| `word` | Summary feature for grouped analysis #{num} providing the full lemma incl. homonym or pl-suffix identifiers, if any) encoded in unicode | `Ἰησοῦσ-πλ` `λέγω2`
-[ms{num}_lem_homonym](ms{num}_lem_homonym.md)| `str` | `word` | lemma homonym indicator | 
-[ms{num}_lem_pl_suff](ms{num}_lem_pl_suff.md)| `str` | `word` | lemma pl suffix indicator |
-[ms{num}_morph](ms{num}_morph.md)| `str`| `word` | Summary feature for grouped analysis #{num} providing a list of morphs | `N-GSM/N-VSM/N-PRI` `V-IEI-2S`
-[ms{num}_morph_sim](ms{num}_morph_sim.md)| `str`| `word` | Summary feature for grouped analysis #{num} providing a list of morps similairties to the N1904-TF morph | `100/93/56` `56`
-[ms{num}_num_blocks](ms{num}_num_blocks.md)| `int`| `word` | Summary feature for grouped analysis #{num} providing the number of analytic blocks it summarizes | `3`  `2` 
+[ms{ind}_block_nums](ms{ind}_block_nums.md)| `str`| `word` | Summary feature for grouped analysis #{ind} providing a list with the associated blocknumbers. | `1/2` `4/5/6`
+[ms{ind}_lem_base_bc](ms{ind}_lem_base_bc.md)| `str`| `word` | Summary feature for grouped analysis #{ind} providing the base lemma (clean; without suffixes) encoded in betacode | `ku/rios` `*solomw/n`
+[ms{ind}_lem_base_uc](ms{ind}_lem_base_uc.md)| `str`| `word` | Summary feature for grouped analysis #{ind} providing the base lemma (clean; without suffixes) encoded in unicode | `φανάω` `ἀνά-διδράσκω`
+[ms{ind}_lem_full_bc](ms{ind}_lem_full_bc.md)| `str`| `word` | Summary feature for grouped analysis #{ind} providing the full lemma incl. homonym or pl-suffix identifiers, if any) encoded in betacode | `*daui/dhs-pl` `h)/2`
+[ms{ind}_lem_full_uc](ms{ind}_lem_full_uc.md)| `str`| `word` | Summary feature for grouped analysis #{ind} providing the full lemma incl. homonym or pl-suffix identifiers, if any) encoded in unicode | `Ἰησοῦσ-πλ` `λέγω2`
+[ms{ind}_lem_homonym](ms{ind}_lem_homonym.md)| `str` | `word` | lemma homonym indicator | 
+[ms{ind}_lem_pl_suff](ms{ind}_lem_pl_suff.md)| `str` | `word` | lemma pl suffix indicator |
+[ms{ind}_morph](ms{ind}_morph.md)| `str`| `word` | Summary feature for grouped analysis #{ind} providing a list of morphs | `N-GSM/N-VSM/N-PRI` `V-IEI-2S`
+[ms{ind}_morph_sim](ms{ind}_morph_sim.md)| `str`| `word` | Summary feature for grouped analysis #{ind} providing a list of morps similairties to the N1904-TF morph | `100/93/56` `56`
+[ms{ind}_num_blocks](ms{ind}_num_blocks.md)| `int`| `word` | Summary feature for grouped analysis #{ind} providing the number of analytic blocks it summarizes | `3`  `2` 
 
 #### Detail data
 
@@ -43,7 +43,7 @@ These features provide access to detailes of each individual Morpheus analysis b
 
 Feature name | Data type | Available on node | Description 
 ---|---|---|---
-[md{num}\_{inf_elem}](md{num}_{inf_elem}.md)  | `str` | `word` | Overview of features providing access to data from individual Morpheus analytic blocks
+[md{ind}\_{inf_elem}](md{ind}_{inf_elem}.md)  | `str` | `word` | Overview of features providing access to data from individual Morpheus analytic blocks
 
 #### Analytic data
 
@@ -51,8 +51,8 @@ These features provide access to features based upon analysis of the Morpheus da
 
 Feature name | Data type | Available on node | Description 
 ---|---|---|---
-[ma{num}\_pf_altern](ma{num}_pf_altern.md)  | `str` | `phrase` | Phrase function alternatives based on morphological tagging according to base N1904-TF (num=0) or Morpheus (num in range 1,12)
-[ma{num}\_pf_flip](ma{num}_pf_flip.md)  | `int` | `phrase` | Max function flip potential for phrase according to morphological tagging according to base N1904-TF (num=0) or Morpheus (num in range 1,12)
+[ma{ind}\_pf_altern](ma{ind}_pf_altern.md)  | `str` | `phrase` | Phrase function alternatives based on morphological tagging according to base N1904-TF (num=0) or Morpheus (num in range 1,12)
+[ma{ind}\_pf_flip](ma{ind}_pf_flip.md)  | `int` | `phrase` | Max function flip potential for phrase according to morphological tagging according to base N1904-TF (num=0) or Morpheus (num in range 1,12)
 [ma_pf_max_flip](ma_pf_flip_max.md)  | `int` | `phrase` | Max function flip potential for both N1904-TF and Morpheus based tagging.
 
 

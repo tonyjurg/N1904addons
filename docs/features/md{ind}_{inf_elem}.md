@@ -1,4 +1,4 @@
-# N1904addons - Feature: md{num}_{inf_elem}
+# N1904addons - Feature: md{ind}_{inf_elem}
 
 Feature group |Feature type | Data type | Available for node types | Feature status
 ---  | --- | --- | --- | ---
@@ -6,7 +6,7 @@ Feature group |Feature type | Data type | Available for node types | Feature sta
 
 ## Feature description
 
-Value for property {inf_elem} reported by Morpheus analysis block #{num}.
+Value for property {inf_elem} reported by Morpheus analysis block #{ind}.
 
 This is a Morpheus [detail data feature](../using_the_morpheus_features.md#morpheus-feature-classes).
 
@@ -14,8 +14,8 @@ This is a Morpheus [detail data feature](../using_the_morpheus_features.md#morph
 
 This page documents **about 750** Text-Fabric features named like `md3_case`, `md17_end_codes`, `md12_lem_full_uc` or `md1_morph`. They collectively form the class of Morpheus detail features ([more info](../using_the_morpheus_features.md)).
 
-The labels {num} and {inf_elem} are placeholders, which stand for:
- - `{num}`: The sequence number of a Morpheus analysis block, ranging from 1 to 24 (the maximum number of returned analysis blocks).
+The labels {ind} and {inf_elem} are placeholders, which stand for:
+ - `{ind}`: The sequence number of a Morpheus analysis block, ranging from 1 to 24 (the maximum number of returned analysis blocks).
  - `{inf_elem}`: One of the properties listed in the table below.
 
  

@@ -1,22 +1,18 @@
-# N1904addons - Feature: ms{num}_lem_homonym
+# N1904addons - Feature: ms{ind}_prvb_bc
 
 Feature group |Feature type | Data type | Available for node types | Feature status
 ---  | --- | --- | --- | ---
-[`Morpheus`](README.md#feature-group-morpheus-analyses-meta-and-summary) | `Node` | `str` | `word` | [✅](featurestatus.md#Trustworthy "Trustworthy")
+[`Morpheus`](README.md#feature-group-morpheus-analyses-meta-and-summary) | `Node` | `int` | `word` | [✅](featurestatus.md#Trustworthy "Trustworthy")
 
 ## Feature description
 
-Lemma homonym indicator.
+Summary feature for grouped analysis #{ind} providing a *space* separted list of the prepostions (if any).
 
 This is a Morpheus [summary data feature](../using_the_morpheus_features.md#morpheus-feature-classes).
 
 ## Feature values
 
-A number (in string format).
-
-## Programmatic access
-
-See [this document](../using_the_morpheus_features.md) for more details.
+The prvb string encoded in unicode.
 
 ## Morpheus analytic blocks
 

@@ -1,18 +1,20 @@
-# N1904addons - Feature: ms{num}_lem_base_bc
+# N1904addons - Feature: ms{ind}_morph_sim
 
-Feature group |Feature type | Data type | Available for node types | Feature status
+Feature group |Feature type | Data type | Available for node types | Feature status 
 ---  | --- | --- | --- | ---
-[`Morpheus`](README.md#feature-group-morpheus-analyses-meta-and-summary) | `Node` | `int` | `word` | [✅](featurestatus.md#Trustworthy "Trustworthy")
+[`Morpheus`](README.md#feature-group-morpheus-analyses-meta-and-summary) | `Node` | `str` | `word` | [🆗](featurestatus.md#Reasonable "Reasonable")
 
 ## Feature description
 
-Summary feature for grouped analysis #{num} providing the base lemma (clean; without suffixes) encoded in uniccode.
+Summary feature for grouped analysis #{ind} providing a *list* of morps similairties to the N1904-TF morph
 
 This is a Morpheus [summary data feature](../using_the_morpheus_features.md#morpheus-feature-classes).
 
 ## Feature values
 
-The lemma in unicode.
+A string of morphological tags separated by slashes. 
+
+For example `ms2_morph_sim` = `100/96/81`
 
 ## Coding
 
@@ -40,7 +42,7 @@ node=3, number=1 → lemma=Ἰησοῦς, tags: ['N-GSM', 'N-VSM', 'N-PRI']
 ```
 
 The snippet below dynamicaly builds a list of names of 'numbered' Morpheus 
-feature names. This allows to easily pass this list as an option to A.show() 
+feature names. This allows to easily pass this list as an option to `A.show()`.
 
 ```python
 # Dynamically generate feature names for all morphology sets
@@ -56,6 +58,12 @@ A.show(QueryResult, extraFeatures=morphFeatureList)
 The image below shows a syntax tree with the display of these features enabled.
 
 <IMG SRC="images/show_morpheus_features.png" WIDHT=600>
+
+## Morpheus analytic blocks
+
+The following image shows an example of a Morpheus analyses block.
+
+<IMG SRC="images/morpheus_block_example.png">
 
 ## Data source
 

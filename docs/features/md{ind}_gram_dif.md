@@ -1,4 +1,4 @@
-# N1904addons - Feature: ms{num}_gram_dif
+# N1904addons - Feature: md{ind}_gram_dif
 
 Feature group |Feature type | Data type | Available for node types | Feature status
 ---  | --- | --- | --- | ---
@@ -6,7 +6,7 @@ Feature group |Feature type | Data type | Available for node types | Feature sta
 
 ## Feature description
 
-Maximum grammatical difference of any Morpheus analysis summarized by this index against N1904-TF grammtical properties.
+Maximum grammatical difference of this detailed Morpheus analysis against N1904-TF grammtical properties.
 
 ## Feature values
 

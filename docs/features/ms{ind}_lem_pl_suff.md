@@ -1,18 +1,18 @@
-# N1904addons - Feature: ms{num}_prvb_uc
+# N1904addons - Feature: ms{ind}_lem_pl_suff
 
 Feature group |Feature type | Data type | Available for node types | Feature status
 ---  | --- | --- | --- | ---
-[`Morpheus`](README.md#feature-group-morpheus-analyses-meta-and-summary) | `Node` | `int` | `word` | [✅](featurestatus.md#Trustworthy "Trustworthy")
+[`Morpheus`](README.md#feature-group-morpheus-analyses-meta-and-summary) | `Node` | `str` | `word` | [✅](featurestatus.md#Trustworthy "Trustworthy")
 
 ## Feature description
 
-Summary feature for grouped analysis #{num} providing a slash separted list of the prepostions (if any) encoded in unicode.
+Lemma pl-suffix indicator.
 
 This is a Morpheus [summary data feature](../using_the_morpheus_features.md#morpheus-feature-classes).
 
 ## Feature values
 
-The lemma string in unicode.
+A string with a number or empty.
 
 ## Programmatic access
 
@@ -20,4 +20,10 @@ See [this document](../using_the_morpheus_features.md#guide-working-with-morpheu
 
 ## Morpheus analytic blocks
 
+The following image shows an example of a Morpheus analyses block.
+
+<IMG SRC="images/morpheus_block_example.png">
+
 ## Data source
+
+[See this repository](https://tonyjurg.github.io/Create_morpheus_TF_dataset/).

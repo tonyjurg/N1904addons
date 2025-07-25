@@ -1,31 +1,43 @@
-# N1904addons - Feature: ms{num}_lem_full_bc
+# N1904addons - Feature: ms{ind}_morph
 
 Feature group |Feature type | Data type | Available for node types | Feature status
----  | --- | --- | --- | ---
-[`Morpheus`](README.md#feature-group-morpheus-analyses-meta-and-summary) | `Node` | `int` | `word` | [✅](featurestatus.md#Trustworthy "Trustworthy")
+---  | --- | ---| --- | ---
+[`Morpheus`](README.md#feature-group-morpheus-analyses-meta-and-summary) | `Node` | `str` | `word` | [🆗](featurestatus.md#Reasonable "Reasonable")
 
 ## Feature description
 
-Summary feature for grouped analysis #{num} providing the full lemma (incl. homonym or pl-suffix identifiers, if any) encoded in betacode.
+Summary feature for grouped analysis #{ind} providing a list with one or more morphs
 
 This is a Morpheus [summary data feature](../using_the_morpheus_features.md#morpheus-feature-classes).
 
 ## Feature values
 
-The lemma string in unicode.
+For example `ms2_morph` = `R-NSN/R-VSN/R-ASN`
+
+The individual morph codes can be decoded using the following tool:
+
+ <script>
+    function openMinimalWindow() {
+      window.open(
+        'https://centerblc.github.io/N1904/features/SP-Morph-decode.html',
+        '_blank',
+        'toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=450,height=400'
+      );
+    }
+  </script>
+  
+<button onclick="openMinimalWindow()">Open Morph decoder</button>
 
 ## Coding
 
 The following Python code demonstrates how to programaticaly obtain details like lemma and morphological tags per grouped analysis blocks.
-
-**NEED TO CHECK**
 
 ```Python
 wordNodes = F.otype.s("word")
 for wordNode in wordNodes:
     for blockNumber in range(1, 9):
         # dynamically get F.ms{blockNumber}_lemma & morph
-        lemma = Fs(f"ms{blockNumber}_lem_").v(wordNode)
+        lemma = Fs(f"ms{blockNumber}_lemma").v(wordNode)
         if not lemma: continue
         morph_string = Fs(f"ms{blockNumber}_morph").v(wordNode)
         morph_sim_string = Fs(f"ms{blockNumber}_morph_sim").v(wordNode)
@@ -42,7 +54,7 @@ node=3, number=1 → lemma=Ἰησοῦς, tags: ['N-GSM', 'N-VSM', 'N-PRI']
 ```
 
 The snippet below dynamicaly builds a list of names of 'numbered' Morpheus 
-feature names. This allows to easily pass this list as an option to A.show() 
+feature names. This allows to easily pass this list as an option to `A.show()`.
 
 ```python
 # Dynamically generate feature names for all morphology sets

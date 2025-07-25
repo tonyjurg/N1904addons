@@ -1,28 +1,22 @@
-# N1904addons - Feature: ms{num}_num_blocks
+# N1904addons feature: ms{ind}_block_nums
 
 Feature group |Feature type | Data type | Available for node types | Feature status
 ---  | --- | --- | --- | ---
-[`Morpheus`](README.md#feature-group-morpheus-analyses-meta-and-summary) | `Node` | `int` | `word` | [✅](featurestatus.md#Trustworthy "Trustworthy")
+[`Morpheus`](README.md#feature-group-morpheus-analyses-meta-and-summary) | `Node` | `str` | `word` | [✅](featurestatus.md#Trustworthy "Trustworthy")
 
 ## Feature description
 
-Summary feature for grouped analysis #{num} providing the number of analytic blocks it summarizes.
+Summary feature for grouped analysis #{ind} providing a *list* with the associated blocknumbers.
 
 This is a Morpheus [summary data feature](../using_the_morpheus_features.md#morpheus-feature-classes).
 
 ## Feature values
 
-An integer
+The associated blocknumbers are refering to the the set of Morpheus Detail (md) features.
 
 ## Programmatic access
 
 See [this document](../using_the_morpheus_features.md) for more details.
-
-## Morpheus analytic blocks
-
-The following image shows an example of a Morpheus analyses block.
-
-<IMG SRC="images/morpheus_block_example.png">
 
 ## Data source
 

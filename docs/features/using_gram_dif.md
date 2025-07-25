@@ -8,8 +8,8 @@ The `m*_gram_dif` features quantify grammatical differences between the Morpheus
 
 Feature(s) | Description
 ---|---
-[md{num}_gram_dif](md{num}_gram_dif) | grammatical difference against N1904-TF, with num in the range (1-24), inclusive.
-[ms{num}_gram_dif](ms{num}_gram_dif.md) | grammatical difference against N1904-TF, with num in range (1-12), inclusive.
+[md{ind}_gram_dif](md{ind}_gram_dif) | grammatical difference against N1904-TF, with num in the range (1-24), inclusive.
+[ms{ind}_gram_dif](ms{ind}_gram_dif.md) | grammatical difference against N1904-TF, with num in range (1-12), inclusive.
 [mm_gram_dif](mm_gram_dif.md) | grammatical difference against N1904-TF 
 
 

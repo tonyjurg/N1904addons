@@ -1,4 +1,4 @@
-# N1904addons - Feature: ma{num}_pf_flip
+# N1904addons - Feature: ma{ind}_pf_flip
 
 Feature group |Feature type | Data type | Available for node types | Feature status
 ---  | --- | --- | --- | ---

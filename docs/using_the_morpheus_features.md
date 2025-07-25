@@ -118,7 +118,7 @@ for (wordNode,) in wordNodeList:        # wordNodeList is a list of 1-tuples: [(
 
 ### Step 4 : Deep dive at the detail level (`md*`) 
 
-When we want to dig one level deeper, we should dump the data in feature [`ms{num}_block_nums`](ms{num}_block_nums.md), as this allows us to map the summary features (which are numbered) with their related detailed features (which are also numbered but with a different key). 
+When we want to dig one level deeper, we should dump the data in feature [`ms{ind}_block_nums`](ms{ind}_block_nums.md), as this allows us to map the summary features (which are numbered) with their related detailed features (which are also numbered but with a different key). 
 ```python
 for (wordNode,) in wordNodeList:        # wordNodeList is a list of 1-tuples: [(wordNode,),]
     # How many lemma-groups does this word actually have

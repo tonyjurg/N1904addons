@@ -1,4 +1,4 @@
-# N1904addons - Feature: ms{num}_lem_base_bc
+# N1904addons - Feature: ms{ind}_lem_base_bc
 
 Feature group |Feature type | Data type | Available for node types | Feature status
 ---  | --- | --- | --- | ---
@@ -6,26 +6,24 @@ Feature group |Feature type | Data type | Available for node types | Feature sta
 
 ## Feature description
 
-Summary feature for grouped analysis #{num} providing the base lemma (clean; without suffixes) encoded in betacode.
+Summary feature for grouped analysis #{ind} providing the base lemma (clean; without suffixes) encoded in uniccode.
 
 This is a Morpheus [summary data feature](../using_the_morpheus_features.md#morpheus-feature-classes).
 
 ## Feature values
 
-The lemma string in unicode.
+The lemma in unicode.
 
 ## Coding
 
 The following Python code demonstrates how to programaticaly obtain details like lemma and morphological tags per grouped analysis blocks.
-
-**NEED TO CHECK**
 
 ```Python
 wordNodes = F.otype.s("word")
 for wordNode in wordNodes:
     for blockNumber in range(1, 9):
         # dynamically get F.ms{blockNumber}_lemma & morph
-        lemma = Fs(f"ms{blockNumber}_lem_").v(wordNode)
+        lemma = Fs(f"ms{blockNumber}_lemma").v(wordNode)
         if not lemma: continue
         morph_string = Fs(f"ms{blockNumber}_morph").v(wordNode)
         morph_sim_string = Fs(f"ms{blockNumber}_morph_sim").v(wordNode)

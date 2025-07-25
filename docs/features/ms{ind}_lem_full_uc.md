@@ -1,32 +1,18 @@
-# N1904addons - Feature: ms{num}_morph
+# N1904addons - Feature: ms{ind}_lem_full_bc
 
 Feature group |Feature type | Data type | Available for node types | Feature status
----  | --- | ---| --- | ---
-[`Morpheus`](README.md#feature-group-morpheus-analyses-meta-and-summary) | `Node` | `str` | `word` | [🆗](featurestatus.md#Reasonable "Reasonable")
+---  | --- | --- | --- | ---
+[`Morpheus`](README.md#feature-group-morpheus-analyses-meta-and-summary) | `Node` | `int` | `word` | [✅](featurestatus.md#Trustworthy "Trustworthy")
 
 ## Feature description
 
-Summary feature for grouped analysis #{num} providing a list with one or more morphs
+Summary feature for grouped analysis #{ind} providing the full lemma (incl. homonym or pl-suffix identifiers, if any) encoded in uniccode.
 
 This is a Morpheus [summary data feature](../using_the_morpheus_features.md#morpheus-feature-classes).
 
 ## Feature values
 
-For example `ms2_morph` = `R-NSN/R-VSN/R-ASN`
-
-The individual morph codes can be decoded using the following tool:
-
- <script>
-    function openMinimalWindow() {
-      window.open(
-        'https://centerblc.github.io/N1904/features/SP-Morph-decode.html',
-        '_blank',
-        'toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=450,height=400'
-      );
-    }
-  </script>
-  
-<button onclick="openMinimalWindow()">Open Morph decoder</button>
+The lemma in unicode.
 
 ## Coding
 
@@ -54,7 +40,7 @@ node=3, number=1 → lemma=Ἰησοῦς, tags: ['N-GSM', 'N-VSM', 'N-PRI']
 ```
 
 The snippet below dynamicaly builds a list of names of 'numbered' Morpheus 
-feature names. This allows to easily pass this list as an option to `A.show()`.
+feature names. This allows to easily pass this list as an option to A.show() 
 
 ```python
 # Dynamically generate feature names for all morphology sets
