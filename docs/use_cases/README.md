@@ -9,6 +9,7 @@ Nbviewer | Github | Short description
 [Case 3](https://nbviewer.org/github/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_3_searching_hidden_lemmas_zeus.ipynb) | [Case 3](https://github.com/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_3_searching_hidden_lemmas_zeus.ipynb)| Search hidden lemmas (Zeus)
 [Case 4](https://nbviewer.org/github/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_4_a_potential_alternative_lemma_metanoia.ipynb) | [Case 4](https://github.com/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_4_a_potential_alternative_lemma_metanoia.ipynb)| A potential alternative lemma (Metanoia)
 [Case 5](https://nbviewer.org/github/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_5_regexp_fieldmap.ipynb) | [Case 5](https://github.com/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_5_regexp_fieldmap.ipynb)| Field Maps and Underspecification
+[Case 8](https://nbviewer.org/github/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_8_hapax_legomana.ipynb) | [Case 8](https://github.com/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_8_hapax_legomana.ipynb)| Hapax Legomana in the Pauline Corpus
 [Case 9](https://nbviewer.org/github/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_9_entropy.ipynb) | [Case 9](https://github.com/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_9_entropy.ipynb)| Entropy Hotspot (Luke’s genealogy passage)
 
 ## Other notebooks
