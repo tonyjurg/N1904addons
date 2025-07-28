@@ -7,6 +7,7 @@ Nbviewer | Github | Short description
 [Case 1](https://nbviewer.org/github/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_1_layered_structure.ipynb) | [Case 1](https://github.com/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_1_layered_structure.ipynb)| Layered Structure of Morphological Analysis (N1904addons)
 [Case 2](https://nbviewer.org/github/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_2_exploring_a_known_ambiguity_john_1v9.ipynb) | [Case 2](https://github.com/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_2_exploring_a_known_ambiguity_john_1v9.ipynb)| Exploring a Known Ambiguity (John 1:9)
 [Case 3](https://nbviewer.org/github/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_3_searching_hidden_lemmas_zeus.ipynb) | [Case 3](https://github.com/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_3_searching_hidden_lemmas_zeus.ipynb)| Search hidden lemmas (Zeus)
+[Case 5](https://nbviewer.org/github/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_5_regexp_fieldmap.ipynb) | [Case 5](https://github.com/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_5_regexp_fieldmap.ipynb)| Field Maps and Underspecification
 [Case 9](https://nbviewer.org/github/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_9_entropy.ipynb) | [Case 9](https://github.com/tonyjurg/N1904addons/blob/main/docs/use_cases/use_case_9_entropy.ipynb)| Entropy Hotspot (Luke’s genealogy passage)
 
 ## Other notebooks
