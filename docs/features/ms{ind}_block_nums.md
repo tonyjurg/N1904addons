@@ -20,4 +20,4 @@ See [this document](../using_the_morpheus_features.md) for more details.
 
 ## Data source
 
-[Repository Create_morpheus_TF_dataset](https://tonyjurg.github.io/Create_morpheus_TF_dataset/).
+GitHub repository [Create_morpheus_TF_dataset](https://tonyjurg.github.io/Create_morpheus_TF_dataset/).
