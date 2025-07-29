@@ -197,5 +197,5 @@ Related features
 
 ## Data source
 
-[Github repository](https://tonyjurg.github.io/Create-TF-entropy-features/).
+GitHub repository [Create-TF-entropy-features](https://tonyjurg.github.io/Create-TF-entropy-features/).
 
