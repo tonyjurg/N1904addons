@@ -48,5 +48,5 @@ for wordNode in F.otype.s('word'):
 - [Python library for handling Betacode (beta-code-py)](https://github.com/perseids-tools/beta-code-py).
 
 ## Data source
-
- - [Github repository](https://tonyjurg.github.io/Create_TF_feature_betacode/)
+ 
+GitHub repository [Create_TF_feature_betacode](https://tonyjurg.github.io/Create_TF_feature_betacode/)
