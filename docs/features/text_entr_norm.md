@@ -112,7 +112,7 @@ $$H(X) = -\sum_i P(x_i) \log_2 P(x_i)$$
 <ul>
   <li>The part \( P(x_i) \) is the probability of the \( i-th \) outcome.</li>
   <li>The part \( log_2 \) ensures the result is expressed in bits.</li>
-  <li>It is assumed in this context that \( log_2(0)=0 \).</li>
+  <li>\( log_2(0)\) is defined as 0 .</li>
 </ul>
 <p>Entropy measures the uncertainty associated with a probability distribution. It reaches its maximum when all outcomes are equally likely (i.e., maximum uncertainty), and its minimum (zero) when one outcome is certain.</p>
 <h3>Application</h3>
