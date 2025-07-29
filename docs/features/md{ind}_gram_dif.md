@@ -35,4 +35,4 @@ A fixed-length string of 9 characters indicating differing grammatical propertie
 
 ## Data source
 
-[Repository Create_morpheus_TF_dataset](https://tonyjurg.github.io/Create_morpheus_TF_dataset/).
+GitHub repository [Create_morpheus_TF_dataset](https://tonyjurg.github.io/Create_morpheus_TF_dataset/).
