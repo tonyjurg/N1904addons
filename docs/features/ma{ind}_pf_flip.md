@@ -6,11 +6,9 @@ Feature group |Feature type | Data type | Available for node types | Feature sta
 
 ## Feature description
 
-for {numb}=0: Max function flip potential for base phrase according N1904-TF morphological tags.
+For {ind}=0: Max function flip potential for base phrase according N1904-TF morphological tags.
 
-for {numb} in range [1,12], inclusive: Max function flip potential for phrase based on Morpheus tag permutation {numb}.
-
-{numb} can be in the range [0-12] inclusive.
+For {ind} in range [1,12], inclusive: Max function flip potential for phrase based on Morpheus tag permutation {numb}.
 
 This is a Morpheus analysis data feature.
 
@@ -30,4 +28,4 @@ The probability values shown by this feature were trained on the entire Greek Ne
 
 ## Data source
 
-[See this repository](https://tonyjurg.github.io/Create_morpheus_TF_dataset/).
+[Repository Create_morpheus_TF_dataset](https://tonyjurg.github.io/Create_morpheus_TF_dataset/).
