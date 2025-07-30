@@ -22,5 +22,5 @@ According to [wiki.crosswire.org/OSIS_Bibles](https://wiki.crosswire.org/OSIS_Bi
   
 ## Data source
 
-See the Jupyter notebook on [this repository](https://tonyjurg.github.io/Create_OSIS_ID_feature_for_TF/).
+GitHub repository [Create_OSIS_ID_feature_for_TF](https://tonyjurg.github.io/Create_OSIS_ID_feature_for_TF/).
   
