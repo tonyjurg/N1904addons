@@ -18,7 +18,7 @@ According to [wiki.crosswire.org/OSIS_Bibles](https://wiki.crosswire.org/OSIS_Bi
 
 ## References:
 
-  - [OSIS resource index](https://ebible.org/osis/)
+  - [OSIS resource index](https://ebible.org/osis/).
   
 ## Data source
 
