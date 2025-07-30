@@ -87,7 +87,7 @@ Feature name | Data type | Available on node | Description | Examples
 ---|---|---|---|---
 [formaltag](formaltag.md)| `str`| `word` | The "form-oriented" morphological tag from GBI nodes data | `V-AAI-3S`
 [orig_order](orig_order.md)| `int`| `word` | Word order as it is found in the XML Low Fat Tree implementation of the corpus | `567` `1043`
-[penntree](penntree.md)| `str`| `sentence` | Penntree like syntax tree  |  
+[penntree](penntree.md)| `str`| `sentence` | Penntree like syntax tree **EXPERIMENTAL** |  
 
 
 
