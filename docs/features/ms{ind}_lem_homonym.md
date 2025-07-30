@@ -26,4 +26,4 @@ The following image shows an example of a Morpheus analyses block.
 
 ## Data source
 
-[See this repository](https://tonyjurg.github.io/Create_morpheus_TF_dataset/).
+GitHub repository [Create_morpheus_TF_dataset](https://tonyjurg.github.io/Create_morpheus_TF_dataset/).
