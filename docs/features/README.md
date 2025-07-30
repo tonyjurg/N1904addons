@@ -28,10 +28,10 @@ Feature name | Data type | Available on node | Description | Examples
 ---|---|---|---|---
 [ms{*ind*}_block_nums](ms{ind}_block_nums.md)| `str`| `word` | Summary feature for grouped analysis #*ind* providing a list with the associated blocknumbers. | `1/2` `4/5/6`
 [ms{*ind*}_gram_dif](ms{ind}_gram_dif.md)| `str`| `word` | Summary feature for grouped analysis #*ind* providing grammatical difference against N1904-TF  ([fieldmap](using_gram_dif.md)) | `lpc.gtmv.` `....g..v.`
-[ms{*ind*}_lem_base_bc](ms{ind}_lem_base_bc.md)| `str`| `word` | Summary feature for grouped analysis #*ind* providing the base lemma (clean; without suffixes) encoded in betacode | `ku/rios` `*solomw/n`
-[ms{*ind*}_lem_base_uc](ms{ind}_lem_base_uc.md)| `str`| `word` | Summary feature for grouped analysis #*ind* providing the base lemma (clean; without suffixes) encoded in unicode | `φανάω` `ἀνά-διδράσκω`
-[ms{*ind*}_lem_full_bc](ms{ind}_lem_full_bc.md)| `str`| `word` | Summary feature for grouped analysis #*ind* providing the full lemma incl. homonym or pl-suffix identifiers, if any) encoded in betacode | `*daui/dhs-pl` `h)/2`
-[ms{*ind*}_lem_full_uc](ms{ind}_lem_full_uc.md)| `str`| `word` | Summary feature for grouped analysis #*ind* providing the full lemma incl. homonym or pl-suffix identifiers, if any) encoded in unicode | `Ἰησοῦσ-πλ` `λέγω2`
+[ms{*ind*}_lem_base_bc](ms{ind}_lem_base_bc.md)| `str`| `word` | Summary feature for grouped analysis #*ind* providing the base lemma (clean; without suffixes) encoded in Beta Code | `ku/rios` `*solomw/n`
+[ms{*ind*}_lem_base_uc](ms{ind}_lem_base_uc.md)| `str`| `word` | Summary feature for grouped analysis #*ind* providing the base lemma (clean; without suffixes) encoded in Unicode | `φανάω` `ἀνά-διδράσκω`
+[ms{*ind*}_lem_full_bc](ms{ind}_lem_full_bc.md)| `str`| `word` | Summary feature for grouped analysis #*ind* providing the full lemma incl. homonym or pl-suffix identifiers, if any) encoded in Beta Code | `*daui/dhs-pl` `h)/2`
+[ms{*ind*}_lem_full_uc](ms{ind}_lem_full_uc.md)| `str`| `word` | Summary feature for grouped analysis #*ind* providing the full lemma incl. homonym or pl-suffix identifiers, if any) encoded in Unicode | `Ἰησοῦσ-πλ` `λέγω2`
 [ms{*ind*}_lem_homonym](ms{ind}_lem_homonym.md)| `str` | `word` | lemma homonym indicator for grouped analysis #*ind* | 
 [ms{*ind*}_lem_pl_suff](ms{ind}_lem_pl_suff.md)| `str` | `word` | lemma pl suffix indicator for grouped analysis #*ind* |
 [ms{*ind*}_morph](ms{ind}_morph.md)| `str`| `word` | Summary feature for grouped analysis #*ind* providing a list of morphs | `N-GSM/N-VSM/N-PRI` `V-IEI-2S`
@@ -78,7 +78,7 @@ Feature name | Data type | Available on node | Description | Examples
 
 Feature name | Data type | Available on node | Description | Examples
 ---|---|---|---|---
-[betacode](betacode.md)| `str`| `word` | The Greek unicode word in <a href="https://stephanus.tlg.uci.edu/encoding.php" target="_blank">Beta Code</a> | `*)ihsou=` `*xristou=`
+[betacode](betacode.md)| `str`| `word` | The Greek Unicode word in <a href="https://stephanus.tlg.uci.edu/encoding.php" target="_blank">Beta Code</a> | `*)ihsou=` `*xristou=`
 [osis_id](osis_id.md)| `str`| `book` `chapter` `verse` | Book name accoring to the OSIS (Open Scriptural Information Standard) ID | `2Thess` `Phlm`  
 
 ### Feature group: Miscellaneous
