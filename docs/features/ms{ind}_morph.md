@@ -59,9 +59,9 @@ feature names. This allows to easily pass this list as an option to `A.show()`.
 ```python
 # Dynamically generate feature names for all morphology sets
 morphFeatureList = (
-    [f'ms{i}_lemma'      for i in range(1, 9)]
-  + [f'ms{i}_morph'      for i in range(1, 9)]
-  + [f'ms{i}_morph_sim'  for i in range(1, 9)]
+    [f'ms{ind}_lemma'      for ind in range(1, 9)]
+  + [f'ms{ind}_morph'      for ind in range(1, 9)]
+  + [f'ms{ind}_morph_sim'  for ind in range(1, 9)]
 )
 # Display the query results with the Morpheus features
 A.show(QueryResult, extraFeatures=morphFeatureList)
@@ -73,4 +73,4 @@ The image below shows a syntax tree with the display of these features enabled.
 
 ## Data source
 
-[See this repository](https://tonyjurg.github.io/Create_morpheus_TF_dataset/).
+GitHub repository [Create_morpheus_TF_dataset](https://tonyjurg.github.io/Create_morpheus_TF_dataset/).
