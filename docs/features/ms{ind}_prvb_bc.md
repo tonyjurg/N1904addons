@@ -12,7 +12,7 @@ This is a Morpheus [summary data feature](../using_the_morpheus_features.md#morp
 
 ## Feature values
 
-The prvb string encoded in unicode.
+The prvb string encoded in Unicode.
 
 ## Morpheus analytic blocks
 
