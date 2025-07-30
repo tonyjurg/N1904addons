@@ -12,7 +12,7 @@ This is a Morpheus [summary data feature](../using_the_morpheus_features.md#morp
 
 ## Feature values
 
-The lemma string in unicode.
+The lemma string in Unicode.
 
 ## Coding
 
