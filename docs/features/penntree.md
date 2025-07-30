@@ -47,4 +47,4 @@ tree.pretty_print()  # console-style print
 
 ## Data source
 
-[Github repostiory tonyjurg/Create_penntree_feature_for_TF ](https://tonyjurg.github.io/Create_penntree_feature_for_TF/)
+GitHub repository [tonyjurg/Create_penntree_feature_for_TF ](https://tonyjurg.github.io/Create_penntree_feature_for_TF/).
