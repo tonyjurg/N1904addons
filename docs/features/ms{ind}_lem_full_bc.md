@@ -61,4 +61,4 @@ The image below shows a syntax tree with the display of these features enabled.
 
 ## Data source
 
-[See this repository](https://tonyjurg.github.io/Create_morpheus_TF_dataset/).
+GitHub repository [Create_morpheus_TF_dataset](https://tonyjurg.github.io/Create_morpheus_TF_dataset/).
