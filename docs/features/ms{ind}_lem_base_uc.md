@@ -39,8 +39,8 @@ node=3, number=1 → lemma=Ἰησοῦς, tags: ['N-GSM', 'N-VSM', 'N-PRI']
 ...
 ```
 
-The snippet below dynamicaly builds a list of names of 'numbered' Morpheus 
-feature names. This allows to easily pass this list as an option to A.show() 
+The snippet below uses a list comprehension to dynamically generate the names of Morpheus features indexed by number. 
+This allows the resulting list to be passed directly to `A.show()` for displaying multiple feature layers at once.
 
 ```python
 # Dynamically generate feature names for all morphology sets
