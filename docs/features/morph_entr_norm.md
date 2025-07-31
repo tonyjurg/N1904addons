@@ -131,8 +131,6 @@ $$H(F \mid c) = -\sum_{f \in \mathcal{F}} p(f \mid c) \log_2 p(f \mid c)$$
 
 <p>To obtain a normalized entropy, the absolute entropy values were devided by \( log_2(11) \), the maximum absolute value for entropy.</p>
 
-$$H_{\text{norm}}(D) = \frac{H(D)}{H_{\text{max}}(D)}$$
-
 </details>
 <br>
 The following table provides some statistic key metrics for this feature counted over the total of 1055 unique morphs:
