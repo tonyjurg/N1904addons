@@ -96,8 +96,8 @@ A number *stored as integer* representing the entropy normalized to a range from
 
 The "Unkn" (unknown) category accounts for approximately 1.5% of all mappings, slightly raising both the absolute and normalized entropy.
 </details>
-<br>
-High entropy values indicate that a form is ambiguous, as it appears in multiple syntactic functions with similar probabilities. In contrast, low entropy values signify that a form is strongly associated with a single syntactic function, making it a reliable indicator of that role within the parent phrase.
+
+<p>High entropy values indicate that a form is ambiguous, as it appears in multiple syntactic functions with similar probabilities. In contrast, low entropy values signify that a form is strongly associated with a single syntactic function, making it a reliable indicator of that role within the parent phrase.</p>
 
 
 <details style="border: 1px solid lightgray; background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
@@ -117,22 +117,22 @@ $$H(X) = -\sum_{i=1}^{n} p(i) \log_2 p(i)$$
 
 <p>In this Text-Fabric dataset the phrase function (the syntactic role of a word’s parent phrase) s treated as a discrete random variable \( F \). We examine how much information a given linguistic cue \( c \) (such as a surface form, lemma, or morphological tag) provides about the likely syntactic role of an occurrence of that cue.</p>
 
-<p>For a specific cue \( c \), we estimate the empirical conditional distribution \( p(f \mid c) \), which reflects how frequently the cue occurs with each phrase function \( f \) in the data. Based on this distribution, we compute the conditional entropy:
+<p>For a specific cue \( c \), we estimate the empirical conditional distribution \( p(f \mid c) \), which reflects how frequently the cue occurs with each phrase function \( f \) in the data. Based on this distribution, we compute the conditional entropy:</p>
 
-\[
-H(F \mid c) = -\sum_{f \in \mathcal{F}} p(f \mid c) \log_2 p(f \mid c)
-\]
+$$H(F \mid c) = -\sum_{f \in \mathcal{F}} p(f \mid c) \log_2 p(f \mid c)$$
 
-This quantity measures the uncertainty about the phrase function of a single occurrence of the cue \( c \), once the cue is known. It does not aggregate across different cues or sum over positions; rather, it characterizes how predictable the syntactic role is for any individual instance of the cue.
+<p>This quantity measures the uncertainty about the phrase function of a single occurrence of the cue \( c \), once the cue is known. It does not aggregate across different cues or sum over positions; rather, it characterizes how predictable the syntactic role is for any individual instance of the cue.</p>
 
-- A low value of \( H(F \mid c) \) indicates that the cue \( c \) strongly predicts a particular phrase function (e.g., it almost always functions as Subject).
-- A high value indicates that the cue appears in multiple syntactic roles with similar probabilities, making its function hard to predict.
+<ul><li>A low value of \( H(F \mid c) \) indicates that the cue \( c \) strongly predicts a particular phrase function (e.g., it almost always functions as Subject).
+</li><li>A high value indicates that the cue appears in multiple syntactic roles with similar probabilities, making its function hard to predict.
+</li></ul>
+
 
 <p>In the Text-Fabric features, these entropy values are multiplied by 1000 and rounded to the nearest integer (i.e., scaled to millibits) to avoid storing floating-point numbers, while preserving reasonable precision.</p>
+
 </details>
 
-<br>
-The following table provides some statistic key metrics for the absolute entropy for the total of unique text token (surface level word forms):
+<p>The following table provides some statistic key metrics for the absolute entropy for the total of unique text token (surface level word forms):</p>
 
 ```text
 === text ===
