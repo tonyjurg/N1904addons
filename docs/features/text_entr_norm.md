@@ -109,19 +109,19 @@ High entropy values indicate that a form is ambiguous, as it appears in multiple
 
 $$H(X) = -\sum_i P(x_i) \log_2 P(x_i)$$
 
-<p>The logarithm base 2 expresses the result in bits.  By convention the term \( P(x_i)\,\log_2 P(x_i) \) is taken to be zero when \( $P(x_i)=0 \), so that only outcomes with non‑zero probability contribute to the sum.  Entropy is maximised when all outcomes are equally likely and drops to zero when a single outcome has probability 1 (i.e. when there is no uncertainty at all).</p>
+<p>The logarithm base 2 expresses the result in bits.  By convention the term \( P(x_i)\,\log_2 P(x_i) \) is taken to be zero when \( P(x_i)=0 \), so that only outcomes with non‑zero probability contribute to the sum.  Entropy is maximised when all outcomes are equally likely and drops to zero when a single outcome has probability 1 (i.e. when there is no uncertainty at all).</p>
 
 <h3>Application</h3>
 
-In this Text-Fabric dataset the *phrase function* (the syntactic role of a word’s parent phrase) will be treated as a random variable, and we examine how its distribution varies with different linguistic cues.  For a given cue \( e \) (a surface form, lemma or morphological tag), we look at the empirical probabilities \( p_i=P(f_i\mid e) \) that the cue occurs in each of the \( n \) phrase function classes \(f_i \).  The conditional entropy of phrase function given the cue is then:
+<p>In this Text-Fabric dataset the phrase function (the syntactic role of a word’s parent phrase) will be treated as a random variable, and we examine how its distribution varies with different linguistic cues.  For a given cue \( e \) (a surface form, lemma or morphological tag), we look at the empirical probabilities \( p_i=P(f_i\mid e) \) that the cue occurs in each of the \( n \) phrase function classes \(f_i \).  The conditional entropy of phrase function given the cue is then:</p>
 
 $$
 H(f\mid e) \;=\; -\sum_{i=1}^n p_i\,\log_2 p_i\,.
 $$
 
-This quantity measures how much uncertainty remains about a word’s syntactic role once we know its text, lemma or morph tag: a low value indicates that the cue strongly predicts one particular function; a high value means the cue is found in several functions with similar frequencies.
+<p>This quantity measures how much uncertainty remains about a word’s syntactic role once we know its text, lemma or morph tag: a low value indicates that the cue strongly predicts one particular function; a high value means the cue is found in several functions with similar frequencies.</p>
 
-In the Text-Fabric feature files, these normalised values are further multiplied by 1000 and rounded to integers to avoid storing floating-point numbers.
+<p>In the Text-Fabric feature files, these normalised values are further multiplied by 1000 and rounded to integers to avoid storing floating-point numbers.</p>
 </details>
 <br>
 The following table provides some statistic key metrics for the absolute entropy for the total of unique text token (surface level word forms):
