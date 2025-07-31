@@ -6,7 +6,7 @@ Feature group | Feature type | Data type | Available for node types | Feature st
 
 ## Feature short description
 
-Normalized entropy of a surface level wordform as predictor of its parent phrase function (like Subject, Object, etc.).
+Normalized Shannon entropy of the distribution of parent phrase function (like Subject, Object, etc.) for each surface wordform.
 
 ## Feature values
 
@@ -104,19 +104,13 @@ High entropy values indicate that a form is ambiguous, as it appears in multiple
 <summary title="Click to hide/unhide"><b>Detailed mathematic description</b></summary>
 <br>
 <h3>Definition</h3>
-<p>Entropy is a measure from information theory that quantifies uncertainty or unpredictability in a probability distribution. It is defined as:</p>
+<p>In information theory, *entropy* quantifies how unpredictable the outcome of a random variable is.  For a discrete variable \( X )\ with possible outcomes \( x_i )\ and corresponding probabilities \( P(x_i) )\, the Shannon entropy is</p>
 
 $$H(X) = -\sum_i P(x_i) \log_2 P(x_i)$$
 
-<p>Where:</p>
-<ul>
-  <li>The part \( P(x_i) \) is the probability of the \( i-th \) outcome.</li>
-  <li>The part \( log_2 \) ensures the result is expressed in bits.</li>
-  <li>\( log_2(0)\) is defined as 0 .</li>
-</ul>
-<p>Entropy measures the uncertainty associated with a probability distribution. It reaches its maximum when all outcomes are equally likely (i.e., maximum uncertainty), and its minimum (zero) when one outcome is certain.</p>
+<p>The logarithm base 2 expresses the result in bits.  By convention the term \( P(x_i)\,\log_2 P(x_i) )\ is taken to be zero when\( $P(x_i)=0 )\, so that only outcomes with non‑zero probability contribute to the sum.  Entropy is maximised when all outcomes are equally likely and drops to zero when a single outcome has probability 1 (i.e. when there is no uncertainty at all).</p>
 <h3>Application</h3>
-<p>In the context of the N1904-FT dataset, we apply this principle to estimate the uncertainty of syntactic function prediction based on linguistic features.</p>
+<p>In the context of the N1904-FT dataset, this principle is aplied to estimate the uncertainty of syntactic function prediction based on linguistic features.</p>
 <p>Let an element \(e \in D \), where \( D = \{ \text{lemma}, \text{morph}, \text{text} \} \), represent a linguistic feature. If this element is associated with \( n \) different phrase functions \( f \), then the entropy \( H(e \mid f) \) in bits is calculated as:</p>
 
 $$H(e|f) = -\sum_{i=1}^{n} p_i \log_2(p_i)$$
