@@ -105,11 +105,13 @@ High entropy values indicate that a form is ambiguous, as it appears in multiple
 <br>
 <h3>Definition</h3>
 
-<p>In information theory, entropy quantifies how unpredictable the outcome of a random variable is.  For a discrete variable \( X \) with possible outcomes \( x_i \) and corresponding probabilities \( P(x_i) \), the Shannon entropy is:</p>
+<p>In information theory, <i>entropy</i> quantifies how unpredictable the outcome of a random variable is.  For a discrete variable \( X \) with possible outcomes \( x_1, x_2, ... x_n \) and corresponding probabilities \( p_1, p_2, ... p_n  \), the Shannon entropy is defined as:</p>
 
-$$H(X) = -\sum_i P(x_i) \log_2 P(x_i)$$
+$$H(X) = -\sum_{i=1}^{n} p(i) \log_2 p(i)$$
 
-<p>The logarithm base 2 expresses the result in bits.  By convention the term \( P(x_i)\,\log_2 P(x_i) \) is taken to be zero when \( P(x_i)=0 \), so that only outcomes with non‑zero probability contribute to the sum.  Entropy is maximised when all outcomes are equally likely and drops to zero when a single outcome has probability 1 (i.e. when there is no uncertainty at all).</p>
+<p>The logarithm base 2 expresses the result in bits.  By convention, the term \( p_i\,\log_2 p_i \) is taken to be zero when \( p_i=0 \), so that only outcomes with non‑zero probability contribute to the sum.</p>
+
+<p>Entropy is maximised when all outcomes are equally likely (i.e., uniform distribution), and drops to zero when a single outcome has probability 1 and all others have probability 0 (i.e. when there is no uncertainty at all).</p>
 
 <h3>Application</h3>
 
