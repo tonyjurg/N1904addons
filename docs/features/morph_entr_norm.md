@@ -103,6 +103,7 @@ High entropy values indicate that a form is ambiguous, as it appears in multiple
 
 <details style="border: 1px solid lightgray; background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
 <summary title="Click to hide/unhide"><b>Detailed mathematic description</b></summary>
+<br>
 <h3>Definition</h3>
 
 <p>In information theory, <i>entropy</i> quantifies how unpredictable the outcome of a random variable is.  For a discrete variable \( X \) with possible outcomes \( x_1, x_2, ... x_n \) and corresponding probabilities \( p_1, p_2, ... p_n  \), the Shannon entropy is defined as:</p>
