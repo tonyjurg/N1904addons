@@ -105,34 +105,23 @@ High entropy values indicate that a form is ambiguous, as it appears in multiple
 <br>
 <h3>Definition</h3>
 
-<p>In information theory, *entropy* quantifies how unpredictable the outcome of a random variable is.  For a discrete variable \( X \) with possible outcomes \( x_i \) and corresponding probabilities \( P(x_i) \), the Shannon entropy is:</p>
+<p>In information theory, entropy quantifies how unpredictable the outcome of a random variable is.  For a discrete variable \( X \) with possible outcomes \( x_i \) and corresponding probabilities \( P(x_i) \), the Shannon entropy is:</p>
 
 $$H(X) = -\sum_i P(x_i) \log_2 P(x_i)$$
 
-<p>The logarithm base 2 expresses the result in bits.  By convention the term \( P(x_i)\,\log_2 P(x_i) \) is taken to be zero when\( $P(x_i)=0 \), so that only outcomes with non‑zero probability contribute to the sum.  Entropy is maximised when all outcomes are equally likely and drops to zero when a single outcome has probability 1 (i.e. when there is no uncertainty at all).</p>
+<p>The logarithm base 2 expresses the result in bits.  By convention the term \( P(x_i)\,\log_2 P(x_i) \) is taken to be zero when \( $P(x_i)=0 \), so that only outcomes with non‑zero probability contribute to the sum.  Entropy is maximised when all outcomes are equally likely and drops to zero when a single outcome has probability 1 (i.e. when there is no uncertainty at all).</p>
 
 <h3>Application</h3>
 
-<p>In the context of the N1904-FT dataset, this principle is aplied to estimate the uncertainty of syntactic function prediction based on linguistic features.</p>
-<p>Let an element \(e \in D \), where \( D = \{ \text{lemma}, \text{morph}, \text{text} \} \), represent a linguistic feature. If this element is associated with \( n \) different phrase functions \( f \), then the entropy \( H(e \mid f) \) in bits is calculated as:</p>
+In this Text-Fabric dataset the *phrase function* (the syntactic role of a word’s parent phrase) will be treated as a random variable, and we examine how its distribution varies with different linguistic cues.  For a given cue \( e \) (a surface form, lemma or morphological tag), we look at the empirical probabilities \( p_i=P(f_i\mid e) \) that the cue occurs in each of the \( n \) phrase function classes \(f_i \).  The conditional entropy of phrase function given the cue is then:
 
-$$H(e|f) = -\sum_{i=1}^{n} p_i \log_2(p_i)$$
+$$
+H(f\mid e) \;=\; -\sum_{i=1}^n p_i\,\log_2 p_i\,.
+$$
 
-<p>where \( p_i \) is the probability that element \( e \) corresponds to the \( i-th \) function.</p>
-<p>If the distribution is uniform (i.e., all \( p_i = \frac{1}{n} \) ), the entropy reaches its maximum:</p>
+This quantity measures how much uncertainty remains about a word’s syntactic role once we know its text, lemma or morph tag: a low value indicates that the cue strongly predicts one particular function; a high value means the cue is found in several functions with similar frequencies.
 
-$$H(e|f) = -n \cdot \frac{1}{n} \cdot \log_2\left(\frac{1}{n}\right) = \log_2(n)$$
-
-<p>In the mapping used for calculating this feature, there are \( n = 11 \) phrase function categories. Thus, the theoretical maximum entropy for a given datatype \( D \) is:</p>
-
-$$H_{\text{max}}(D) = \log_2(11) \approx 3.459 \text{ bits}$$
-
-<p>This value represents the upper bound of uncertainty when a linguistic feature provides no predictive information about phrase function.</p>
-
-<p>To obtain a normalized entropy, where values for \( H(e|f) \) are in the range 0 to 1 (inclusive), the following formula can be applied for each datatype \( D \):</p>
-
-$$H_{\text{norm}}(D) = \frac{H(D)}{H_{\text{max}}(D)}$$
-
+In the Text-Fabric feature files, these normalised values are further multiplied by 1000 and rounded to integers to avoid storing floating-point numbers.
 </details>
 <br>
 The following table provides some statistic key metrics for the absolute entropy for the total of unique text token (surface level word forms):
