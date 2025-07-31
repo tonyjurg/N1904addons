@@ -10,7 +10,7 @@ Normalized Shannon entropy of the distribution of parent phrase function (like S
 
 ## Feature values
 
-A number *stored as integer* representing the entropy normalized to a range from 0 to 1000 (inclusive).
+A number *stored as an integer* representing the entropy normalized to a range from 0 to 1000 (inclusive).
 
 ## Feature detailed description
 
@@ -97,8 +97,7 @@ A number *stored as integer* representing the entropy normalized to a range from
 The "Unkn" (unknown) category accounts for approximately 1.5% of all mappings, slightly raising both the absolute and normalized entropy.
 </details>
 <br>
-<p>High entropy values indicate that a form is ambiguous, as it appears in multiple syntactic functions with similar probabilities. In contrast, low entropy values signify that a form is strongly associated with a single syntactic function, making it a reliable indicator of that role within the parent phrase.</p>
-
+High entropy values indicate that a form is ambiguous, as it appears in multiple syntactic functions with similar probabilities. In contrast, low entropy values signify that a form is strongly associated with a single syntactic function, making it a reliable indicator of that role within the parent phrase.
 
 <details style="border: 1px solid lightgray; background-color: #f9f9f9; padding: 10px; border-radius: 5px;">
 <summary title="Click to hide/unhide"><b>Detailed mathematic description</b></summary>
@@ -127,12 +126,11 @@ $$H(F \mid c) = -\sum_{f \in \mathcal{F}} p(f \mid c) \log_2 p(f \mid c)$$
 </li><li>A high value indicates that the cue appears in multiple syntactic roles with similar probabilities, making its function hard to predict.
 </li></ul>
 
-
 <p>In the Text-Fabric features, these entropy values are multiplied by 1000 and rounded to the nearest integer (i.e., scaled to millibits) to avoid storing floating-point numbers, while preserving reasonable precision.</p>
 
 </details>
 <br>
-<p>The following table provides some statistic key metrics for the absolute entropy for the total of unique text token (surface level word forms):</p>
+The following table provides some statistic key metrics for the absolute entropy for the total of unique text token (surface level word forms):
 
 ```text
 === text ===
