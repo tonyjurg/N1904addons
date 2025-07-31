@@ -94,7 +94,7 @@ A number *stored as an integer* representing the entropy normalized to a range f
   </tbody>
 </table>
 
-The "Unkn" (unknown) category accounts for approximately 1.5% of all mappings, slightly raising both the absolute and normalized entropy.
+<p>The "Unkn" (unknown) category accounts for approximately 1.5% of all mappings, slightly raising both the absolute and normalized entropy.</p?
 </details>
 <br>
 High entropy values indicate that a form is ambiguous, as it appears in multiple syntactic functions with similar probabilities. In contrast, low entropy values signify that a form is strongly associated with a single syntactic function, making it a reliable indicator of that role within the parent phrase.
@@ -127,6 +127,8 @@ $$H(F \mid c) = -\sum_{f \in \mathcal{F}} p(f \mid c) \log_2 p(f \mid c)$$
 </li></ul>
 
 <p>In the Text-Fabric features, these entropy values are multiplied by 1000 and rounded to the nearest integer (i.e., scaled to millibits) to avoid storing floating-point numbers, while preserving reasonable precision.</p>
+
+<p>To obtain the normalized entropy, the absolute entropy values were devided by \( log_2(11) \), the maximum absolute value for entropy.</p>
 
 </details>
 <br>

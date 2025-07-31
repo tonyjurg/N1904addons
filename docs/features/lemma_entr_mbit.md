@@ -6,11 +6,11 @@ Feature group | Feature type | Data type | Available for node types | Feature st
 
 ## Feature short description
 
-Absolute entropy of the lemma (of this word) as predictor of its parent phrase function (like Subject, Object, etc.).
+Normalized Shannon entropy of the distribution of parent phrase function (like Subject, Object, etc.) for each lemma.
 
 ## Feature values
 
-A number *stored as integer* representing the entropy in mili-bits.
+A number *stored as an integer* representing the entropy in mili-bits.
 
 In the N1904-TF dataset, the actual value ranges from 0 to 2550.
 
@@ -96,7 +96,7 @@ In the N1904-TF dataset, the actual value ranges from 0 to 2550.
   </tbody>
 </table>
 
- The "Unkn" (unknown) category accounts for approximately 1.5% of all mappings, slightly raising both the absolute and normalized entropy.
+<p>The "Unkn" (unknown) category accounts for approximately 1.5% of all mappings, slightly raising both the absolute and normalized entropy.</p>
 </details>
 <br>
 High entropy values indicate that a form is ambiguous, as it appears in multiple syntactic functions with similar probabilities. In contrast, low entropy values signify that a form is strongly associated with a single syntactic function, making it a reliable indicator of that role within the parent phrase.
@@ -105,37 +105,30 @@ High entropy values indicate that a form is ambiguous, as it appears in multiple
 <summary title="Click to hide/unhide"><b>Detailed mathematic description</b></summary>
 <br>
 <h3>Definition</h3>
-<p>Entropy is a measure from information theory that quantifies uncertainty or unpredictability in a probability distribution. It is defined as:</p>
 
-$$H(X) = -\sum_i P(x_i) \log_2 P(x_i)$$
+<p>In information theory, <i>entropy</i> quantifies how unpredictable the outcome of a random variable is.  For a discrete variable \( X \) with possible outcomes \( x_1, x_2, ... x_n \) and corresponding probabilities \( p_1, p_2, ... p_n  \), the Shannon entropy is defined as:</p>
 
-<p>Where:</p>
-<ul>
-  <li>The part \( P(x_i) \) is the probability of the \( i-th \) outcome.</li>
-  <li>The part \( log_2 \) ensures the result is expressed in bits.</li>
-  <li>It is assumed in this context that \( log_2(0)=0 \).</li>
-</ul>
-<p>Entropy measures the uncertainty associated with a probability distribution. It reaches its maximum when all outcomes are equally likely (i.e., maximum uncertainty), and its minimum (zero) when one outcome is certain.</p>
+$$H(X) = -\sum_{i=1}^{n} p(i) \log_2 p(i)$$
+
+<p>The logarithm base 2 expresses the result in bits.  By convention, the term \( p_i\,\log_2 p_i \) is taken to be zero when \( p_i=0 \), so that only outcomes with non‑zero probability contribute to the sum.</p>
+
+<p>Entropy is maximised when all outcomes are equally likely (i.e., uniform distribution), and drops to zero when a single outcome has probability 1 and all others have probability 0 (i.e. when there is no uncertainty at all).</p>
+
 <h3>Application</h3>
-<p>In the context of the N1904-FT dataset, we apply this principle to estimate the uncertainty of syntactic function prediction based on linguistic features.</p>
-<p>Let an element \(e \in D \), where \( D = \{ \text{lemma}, \text{morph}, \text{text} \} \), represent a linguistic feature. If this element is associated with \( n \) different phrase functions \( f \), then the entropy \( H(e \mid f) \) in bits is calculated as:</p>
 
-$$H(e|f) = -\sum_{i=1}^{n} p_i \log_2(p_i)$$
+<p>In this Text-Fabric dataset the phrase function (the syntactic role of a word’s parent phrase) s treated as a discrete random variable \( F \). We examine how much information a given linguistic cue \( c \) (such as <a href="https://centerblc.github.io/N1904/features/text.html" target="_blank"><code>text</code></a> , <a href="https://centerblc.github.io/N1904/features/lemma.html" target="_blank"><code>lemma</code></a>, or <a href="https://centerblc.github.io/N1904/features/morph.html" target="_blank"><code>morph</code></a>) provides about the likely syntactic role of an occurrence of that cue.</p>
 
-<p>where \( p_i \) is the probability that element \( e \) corresponds to the \( i-th \) function.</p>
-<p>If the distribution is uniform (i.e., all \( p_i = \frac{1}{n} \) ), the entropy reaches its maximum:</p>
+<p>For a specific cue \( c \), the empirical conditional distribution \( p(f \mid c) \) is calculated, which reflects how frequently the cue occurs with each phrase function \( f \) in the data. Based on this distribution, the conditional entropy can be calculated as:</p>
 
-$$H(e|f) = -n \cdot \frac{1}{n} \cdot \log_2\left(\frac{1}{n}\right) = \log_2(n)$$
+$$H(F \mid c) = -\sum_{f \in \mathcal{F}} p(f \mid c) \log_2 p(f \mid c)$$
 
-<p>In the mapping used for calculating this feature, there are \( n = 11 \) phrase function categories. Thus, the theoretical maximum entropy for a given datatype \( D \) is:</p>
+<p>This quantity measures the uncertainty about the phrase function of a single occurrence of the cue \( c \), once the cue is known. It does <i>not</i> aggregate across different cues or sum over positions; rather, it characterizes how predictable the syntactic role is for <i>any individual instance</i> of the cue.</p>
 
-$$H_{\text{max}}(D) = \log_2(11) \approx 3.459 \text{ bits}$$
+<ul><li>A low value of \( H(F \mid c) \) indicates that the cue \( c \) strongly predicts a particular phrase function (e.g., it almost always functions as Subject).
+</li><li>A high value indicates that the cue appears in multiple syntactic roles with similar probabilities, making its function hard to predict.
+</li></ul>
 
-<p>This value represents the upper bound of uncertainty when a linguistic feature provides no predictive information about phrase function.</p>
-
-<p>To obtain a normalized entropy, where values for \( H(e|f) \) are in the range 0 to 1 (inclusive), the following formula can be applied for each datatype \( D \):</p>
-
-$$H_{\text{norm}}(D) = \frac{H(D)}{H_{\text{max}}(D)}$$
+<p>In the Text-Fabric features, these entropy values are multiplied by 1000 and rounded to the nearest integer (i.e., scaled to millibits) to avoid storing floating-point numbers, while preserving reasonable precision.</p>
 
 </details>
 <br>
