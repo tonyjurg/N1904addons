@@ -94,7 +94,7 @@ A number *stored as an integer* representing the entropy normalized to a range f
   </tbody>
 </table>
 
-<p>The "Unkn" (unknown) category accounts for approximately 1.5% of all mappings, slightly raising both the absolute and normalized entropy.</p?
+<p>The "Unkn" (unknown) category accounts for approximately 1.5% of all mappings, slightly raising both the absolute and normalized entropy.</p>
 </details>
 <br>
 High entropy values indicate that a form is ambiguous, as it appears in multiple syntactic functions with similar probabilities. In contrast, low entropy values signify that a form is strongly associated with a single syntactic function, making it a reliable indicator of that role within the parent phrase.
