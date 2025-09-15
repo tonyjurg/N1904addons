@@ -1,4 +1,4 @@
-[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17091708.svg)](https://doi.org/10.5281/zenodo.17091708) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 # N1904addons
 
@@ -79,11 +79,11 @@ When citing this dataset, please use following BibTeX:
 ```
 @software{Jurg_N1904addons_-_Additional_2025,
 author = {Jurg, Tony},
-doi = {TBD},
-month = apr,
-title = {{N1904addons - Additional features for N1904 Text Fabric dataset}},
+doi = {10.5281/zenodo.17091708},
+month = aug,
+title = {N1904addons - Additional features for N1904 Text Fabric dataset},
 url = {https://github.com/tonyjurg/N1904addons},
-version = {0.1},
+version = {v1.0.0},
 year = {2025}
 }
 ```
