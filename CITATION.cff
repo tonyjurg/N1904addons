@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Jurg"
+  given-names: "Tony"
+  orcid: "https://orcid.org/0000-0002-0343-1346"
+title: "N1904addons - Additional features for the N1904 Text-Fabric dataset"
+version: 1.0.0
+doi: 10.5281/zenodo.17091708
+date-released: 2025-08-04
+url: "https://github.com/tonyjurg/N1904addons"
