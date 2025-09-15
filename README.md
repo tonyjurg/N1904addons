@@ -54,11 +54,11 @@ The standard set of tools ([Python documentation](https://www.python.org/doc/), 
 ```
 @software{Jurg_N1904addons_-_Additional_2025,
 author = {Jurg, Tony},
-doi = {TBD},
+doi = {10.5281/zenodo.17091708},
 month = apr,
-title = {{N1904addons - Additional features for N1904 Text Fabric dataset}},
+title = {N1904addons - Additional features for N1904 Text Fabric dataset},
 url = {https://github.com/tonyjurg/N1904addons},
-version = {0.1},
+version = {v1.0.0},
 year = {2025}
 }
 ```
