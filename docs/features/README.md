@@ -73,6 +73,8 @@ Feature name | Data type | Available on node | Description | Examples
 [text_entr_mbit](text_entr_mbit.md)| `int`| `word` | Absolute entropy of the surface level wordform as predictor of its parent phrase function in mili-bits| number ranging from 0 to 2584
 [text_entr_norm](text_entr_norm.md)| `int`| `word` | Normalized entropy of a surface level wordform as predictor of its parent phrase function (scale 0-1000)| number ranging from 0 to 747
 [text_ttr](text_ttr.md)| `str` | `book` `chapter` `sentence` `group` `wg` `phrase` `subphrase` `clause` | Type to Token Ratio based on wordform for all word nodes under this node | `0.30498177` `0.37854251`
+[tfidf](tfidf.md)| `str` | `word` | TF–IDF score (× 1,000,000) for this token, calculated using all tokens in the GNT corpus, aggregated per book | `12` `85658`
+[tfidfns](tfidfns.md)| `str` | `word` | TF–IDF score (× 1,000,000) for this token, calculated using only non-stopword tokens in the GNT corpus, aggregated per book. | `0` `952564`
 
 ### Feature group: Cross reference
 
