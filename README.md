@@ -62,3 +62,7 @@ version = {v1.0.0},
 year = {2025}
 }
 ```
+
+## Thesis
+
+The design, cretion and use of a significant portion of this dataset is described in my thesis [Visualising Overlooked Morphosyntactic Alternatives (academia.edu)](https://www.academia.edu/143877790/Visualising_Overlooked_Morphosyntactic_Alternatives_A_Morpheus_Based_Extension_for_the_Nestle_1904_Text_Fabric_Dataset).
