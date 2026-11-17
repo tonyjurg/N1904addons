@@ -1,0 +1,230 @@
+{
+  "repo_notes": [
+    {
+      "content": "N1904addons is a Text-Fabric feature extension for the Nestle 1904 Greek New Testament (CenterBLC/N1904). It adds >1,000 features focused on Morpheus morphological analyses, statistical measures of ambiguity and diversity, cross-references, and utility annotations. Features are released under CC BY 4.0 and are marked stable or experimental. Primary author: Tony Jurg (VU Amsterdam). Related thesis: 'Visualising Overlooked Morphosyntactic Alternatives' (DOI 10.5281/zenodo.17086524)."
+    }
+  ],
+  "pages": [
+    {
+      "title": "Overview of N1904addons",
+      "purpose": "High-level introduction to the project: purpose, relationship to the base N1904-TF dataset, feature maturity flags (stable vs experimental), feature group summary, and how this wiki is organised. Links to Getting Started, Feature Groups, and Use Cases.",
+      "page_notes": [
+        {
+          "content": "Emphasise that the repository continues to grow and that all features are provided 'as is'. Mention the GitHub repo, Zenodo DOI, and thesis connection."
+        }
+      ]
+    },
+    {
+      "title": "About Text-Fabric",
+      "purpose": "Brief explanation of Text-Fabric as a graph-based framework (nodes, edges, features) for ancient-language corpora, its modular .tf file design, and why it is particularly suitable for adding morphological and statistical annotations.",
+      "parent": "Overview of N1904addons",
+      "page_notes": [
+        {
+          "content": "Point users to the official Text-Fabric documentation and the N1904 tutorial for first-time users."
+        }
+      ]
+    },
+    {
+      "title": "Getting Started: Loading the Dataset",
+      "purpose": "Complete step-by-step guide: install Text-Fabric (including GitHub support), import the use function, load the standard N1904addons feature set via mod=, optionally load the detailed_set, handle GitHub API rate limits with a personal access token, and common error messages.",
+      "parent": "Overview of N1904addons",
+      "page_notes": [
+        {
+          "content": "Include the exact use() call patterns shown in the documentation and the PDF. Note that the detailed Morpheus md* features are deliberately not loaded by default because of their size."
+        }
+      ]
+    },
+    {
+      "title": "Repository Structure and Versioning",
+      "purpose": "Describe the physical layout: tf/1.0.0/ (standard features), detailed_set/1.0.0/ (md* block-level features), docs/, and the versioning scheme used by Text-Fabric. Explain the two-module loading pattern.",
+      "parent": "Overview of N1904addons",
+      "page_notes": [
+        {
+          "content": "Clarify that standard features load with mod=\"tonyjurg/N1904addons/tf/\" while the detailed set requires an additional path in the mod list."
+        }
+      ]
+    },
+    {
+      "title": "Feature Groups Overview",
+      "purpose": "Map of the four main functional groups (Morpheus, Statistical, Cross-reference, Miscellaneous) and the optional detailed Morpheus set. Indicates which groups are loaded by default.",
+      "parent": "Overview of N1904addons",
+      "page_notes": [
+        {
+          "content": "Use the exact grouping and short descriptions from the PDF and docs/README.md."
+        }
+      ]
+    },
+    {
+      "title": "Morpheus Feature System",
+      "purpose": "Architectural overview of the four Morpheus layers (Meta mm_*, Summary ms{ind}_*, Detail md{ind}_*, Analytic ma{ind}_*) and the hierarchical drill-down workflow. Introduces the naming conventions and the relationship between layers.",
+      "page_notes": [
+        {
+          "content": "Include the conceptual diagram description (meta → summary → detail) and the rationale for the layered design (memory efficiency + progressive disclosure of ambiguity)."
+        }
+      ]
+    },
+    {
+      "title": "Meta Features (mm_*)",
+      "purpose": "Reference for all word-level meta features: mm_num_lemmas, mm_num_blocks, mm_num_morphs, mm_max_sim, mm_raw_uc, mm_raw_bc, mm_gram_dif. Data types, node type, meaning, and typical values.",
+      "parent": "Morpheus Feature System",
+      "page_notes": [
+        {
+          "content": "These features give a quick per-word overview of how many analyses Morpheus returned and how similar the best one is to the N1904-TF tagging."
+        }
+      ]
+    },
+    {
+      "title": "Summary Features (ms{ind}_*)",
+      "purpose": "Reference for lemma-grouped summary features indexed by {ind}. Covers lemma forms (base/full, Unicode/Beta Code), homonym and plural-suffix markers, morph tags, morph similarity, block numbers, and gram_dif.",
+      "parent": "Morpheus Feature System",
+      "page_notes": [
+        {
+          "content": "Explain the grouping-by-lemma concept and how ms{ind}_block_nums links a summary group to the underlying detail blocks."
+        }
+      ]
+    },
+    {
+      "title": "Detail Features (md{ind}_*) and the detailed_set",
+      "purpose": "Description of the large set of block-level features (md{ind}_{inf_elem}) that expose virtually every element of a Morpheus analytic block. Loading requirements, memory considerations, and the naming pattern.",
+      "parent": "Morpheus Feature System",
+      "page_notes": [
+        {
+          "content": "These features are stored in detailed_set/1.0.0/ and must be requested explicitly. They are intended for advanced exploration rather than routine use."
+        }
+      ]
+    },
+    {
+      "title": "Analytic Features (ma{ind}_*)",
+      "purpose": "Phrase-level features derived from comparing Morpheus analyses with N1904-TF syntax, focusing on phrase-function alternatives and flip potential (ma{ind}_pf_altern, ma{ind}_pf_flip, ma_pf_max_flip).",
+      "parent": "Morpheus Feature System",
+      "page_notes": [
+        {
+          "content": "Highlight the research goal of quantifying how morphological ambiguity can affect syntactic interpretation at the phrase level."
+        }
+      ]
+    },
+    {
+      "title": "The gram_dif Field Map",
+      "purpose": "Detailed explanation of the 9-character grammatical difference string used across mm_, ms_, and md_ features. Character positions (lemma, person, case, number, gender, tense, mood, voice, degree), agreement/disagreement coding, and practical querying patterns.",
+      "parent": "Morpheus Feature System",
+      "page_notes": [
+        {
+          "content": "This is one of the most frequently used diagnostic features for spotting morphological mismatches."
+        }
+      ]
+    },
+    {
+      "title": "Statistical Features",
+      "purpose": "Overview of pre-computed statistical measures: Shannon entropy (absolute and normalised), Type-to-Token Ratios, TF-IDF scores, and word counts. Common design patterns (integer scaling, node-type scope).",
+      "page_notes": [
+        {
+          "content": "These features support quantitative study of morphological and lexical diversity and of how surface forms, lemmas, and morph tags predict phrase function."
+        }
+      ]
+    },
+    {
+      "title": "Shannon Entropy Features",
+      "purpose": "Full reference for lemma_entr_mbit/norm, morph_entr_mbit/norm, and text_entr_mbit/norm. Mathematical background, scaling to millibits and 0–1000 range, and interpretation as predictors of parent phrase function.",
+      "parent": "Statistical Features",
+      "page_notes": [
+        {
+          "content": "Explain the 11 phrase-function classes used in the underlying probability models."
+        }
+      ]
+    },
+    {
+      "title": "Type-to-Token Ratio Features",
+      "purpose": "Reference for lemma_ttr, morph_ttr, and text_ttr. Calculation scope (book, chapter, sentence, phrase, etc.), lower-case normalisation, and storage format.",
+      "parent": "Statistical Features",
+      "page_notes": [
+        {
+          "content": "Note length-related bias inherent in TTR and typical ranges observed in the GNT."
+        }
+      ]
+    },
+    {
+      "title": "TF-IDF Features",
+      "purpose": "Reference for tfidf and tfidfns. Book-as-document model, stop-word handling, ×1,000,000 integer scaling, and provenance of the calculation pipeline.",
+      "parent": "Statistical Features",
+      "page_notes": [
+        {
+          "content": "tfidfns excludes common function words (articles, prepositions, conjunctions, interjections)."
+        }
+      ]
+    },
+    {
+      "title": "Cross-Reference Features",
+      "purpose": "Reference for betacode (word-level Beta Code encoding) and osis_id (book/chapter/verse identifiers following the OSIS standard).",
+      "page_notes": [
+        {
+          "content": "These features facilitate linking to external tools and corpora that use Beta Code or OSIS identifiers."
+        }
+      ]
+    },
+    {
+      "title": "Miscellaneous Features",
+      "purpose": "Reference for formaltag (GBI-style formal morphological tags), orig_order (word order from the XML Low Fat Tree source), penntree (experimental Penn Treebank-style syntax trees on sentence nodes), and num_words (word counts on structural nodes).",
+      "page_notes": [
+        {
+          "content": "penntree is explicitly marked experimental."
+        }
+      ]
+    },
+    {
+      "title": "Use Cases and Research Notebooks",
+      "purpose": "Overview of the Jupyter notebooks that demonstrate practical research workflows with the N1904addons features. Links to morphological analysis cases and statistical/syntactic cases.",
+      "page_notes": [
+        {
+          "content": "Notebooks serve both as documentation and as reproducible research environments."
+        }
+      ]
+    },
+    {
+      "title": "Morphological Analysis Use Cases",
+      "purpose": "Summary of notebooks that illustrate layered drill-down (mm → ms → md), exploration of known ambiguities, discovery of hidden lemmas, alternative lemma analyses, and gram_dif / regular-expression queries.",
+      "parent": "Use Cases and Research Notebooks",
+      "page_notes": [
+        {
+          "content": "These cases show how the Morpheus feature system makes morphological alternatives visible and queryable."
+        }
+      ]
+    },
+    {
+      "title": "Statistical and Syntactic Use Cases",
+      "purpose": "Summary of notebooks that combine ambiguity statistics with semantic selection, analyse phrase-function flip potential, study hapax legomena, and locate entropy hotspots (e.g., genealogies).",
+      "parent": "Use Cases and Research Notebooks",
+      "page_notes": [
+        {
+          "content": "Also covers utility notebooks for overview statistics on ambiguity and dataset footprint measurement."
+        }
+      ]
+    },
+    {
+      "title": "Text-Fabric Data Files Reference",
+      "purpose": "Technical notes on the .tf file format, metadata headers (valueType, description, node, provenance), and how feature files map to node identifiers. Distinguishes the standard tf/1.0.0/ set from the detailed_set.",
+      "page_notes": [
+        {
+          "content": "Useful for users who want to inspect or extend the feature files themselves."
+        }
+      ]
+    },
+    {
+      "title": "License, Citation and Provenance",
+      "purpose": "CC BY 4.0 licence statement, recommended BibTeX citation, Zenodo DOI, link to the related Research Master thesis, and brief provenance notes for the major feature families.",
+      "page_notes": [
+        {
+          "content": "Encourage proper attribution when the features are used in publications or downstream datasets."
+        }
+      ]
+    },
+    {
+      "title": "Glossary",
+      "purpose": "Definitions of key terms and abbreviations used throughout the repository and documentation: Beta Code, gram_dif, millibit, OSIS ID, PF flip, TTR, Morpheus analytic block, fieldmap, etc.",
+      "page_notes": [
+        {
+          "content": "Each entry should point to the relevant feature page or notebook where the concept is demonstrated."
+        }
+      ]
+    }
+  ]
+}
