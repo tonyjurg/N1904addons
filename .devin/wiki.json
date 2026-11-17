@@ -1,6 +1,10 @@
 {
   "repo_notes": [
     {
+      "content": "CRITICAL MATHEMATICAL REQUIREMENT: All pages that include formulas MUST render these expressions using proper LaTeX math mode ($$ ... $$ for display, $ ... $ for inline). Never write the formula in plain text or ASCII approximations.",
+      "author": "Repository maintainer"
+    },
+    {
       "content": "N1904addons is a Text-Fabric feature extension for the Nestle 1904 Greek New Testament (CenterBLC/N1904). It adds >1,000 features focused on Morpheus morphological analyses, statistical measures of ambiguity and diversity, cross-references, and utility annotations. Features are released under CC BY 4.0 and are marked stable or experimental. Primary author: Tony Jurg (VU Amsterdam). Related thesis: 'Visualising Overlooked Morphosyntactic Alternatives' (DOI 10.5281/zenodo.17086524)."
     }
   ],
